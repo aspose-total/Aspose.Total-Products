@@ -17,31 +17,31 @@ Aspose.Total for SharePoint is a combination of each compiled SharePoint app off
 
 {{< blocks/products/pf/total/products description="Aspose.Words for SharePoint helps your organization having a corporate document depository on Windows SharePoint Services (WSS) or Microsoft Office SharePoint Server’s (MOSS) technologies to convert document held within SharePoint into a variety of document formats that your users need them in." >}}
 
-{{< blocks/products/pf/total/product-item href="/words/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-sharepoint.png" >}}
+{{< blocks/products/pf/total/product-item href="/words/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-sharepoint.png" productName="Aspose.Words for SharePoint">}}
 Aspose.Words for SharePoint helps your organization having a corporate document depository on Windows SharePoint Services (WSS) or Microsoft Office SharePoint Server’s (MOSS) technologies to convert document held within SharePoint into a variety of document formats that your users need them in.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pdf/272x272/aspose_pdf-for-sharepoint.png" >}}
+{{< blocks/products/pf/total/product-item href="/pdf/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pdf/272x272/aspose_pdf-for-sharepoint.png" productName="Aspose.PDF for SharePoint">}}
 Aspose.PDF for SharePoint gives you the capability to convert list items and wiki pages into Portable Document Format (PDF).
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-sharepoint.png" >}}
+{{< blocks/products/pf/total/product-item href="/cells/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-sharepoint.png" productName="Aspose.Cells for SharePoint">}}
 Aspose.Cells for SharePoint is a flexible spreadsheet manipulation solution that allows developers to convert Microsoft Excel documents within Microsoft SharePoint and support multiple document formats beyond the native supported formats. It also helps you distribute corporate knowledge by allowing you to convert files held within SharePoint into the formats your users need them in.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-sharepoint.png" >}}
+{{< blocks/products/pf/total/product-item href="/email/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-sharepoint.png" productName="Aspose.Email for SharePoint">}}
 Aspose.Email for SharePoint provides multitude of features including message file format conversion, email attachment extraction, email synchronization with mail servers and file transfer to the FTP sever, right from the Microsoft SharePoint document library.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/slides/272x272/aspose_slides-for-sharepoint.png" >}}
+{{< blocks/products/pf/total/product-item href="/slides/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/slides/272x272/aspose_slides-for-sharepoint.png" productName="Aspose.Slides for SharePoint">}}
 Aspose.Slides for SharePoint allows developers to read and convert PowerPoint files (PPT, POT, PPS, PPTX, POT and PPSX format) in a SharePoint application without using Microsoft PowerPoint. It is aimed at SharePoint developers that need to convert various PowerPoint file formats to PDF, TIFF or XPS formats without losing fidelity. It is supported to work with WSS 3.0, MOSS 2007 and MOSS 2010.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/imaging/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-sharepoint.png" >}}
+{{< blocks/products/pf/total/product-item href="/imaging/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-sharepoint.png" productName="Aspose.Imaging for SharePoint">}}
 Aspose.Imaging for SharePoint adds image processing capability to SharePoint solutions. It supports converting between different image file formats and image editing from within Microsoft SharePoint Server 2010 and Microsoft SharePoint Foundation 2010.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-sharepoint.png" >}}
+{{< blocks/products/pf/total/product-item href="/barcode/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-sharepoint.png" productName="Aspose.BarCode for SharePoint">}}
 Aspose.BarCode for SharePoint provides a unique and robust app to enhance your SharePoint's lists by using this barcoding system. The Barcode SharePoint app supports more than 40 of the most popular barcode symbologies including Linear, Postal and 2D barcodes.
 {{< /blocks/products/pf/total/product-item >}}
 
