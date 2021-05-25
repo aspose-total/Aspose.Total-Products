@@ -61,8 +61,6 @@ Aspose.PUB for C++ is a standalone and reliable Microsoft Publisher files proces
 Aspose.Font for C++ is a font integration and management API to work with different font formats such as TrueType, CFF, OpenType, and Type1. One can easily load, draw and save fonts from files as well as stream.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< /blocks/products/pf/total/products >}}
-
 <!--<p></p>-->
 <h2 class="pr-ft">
  <a class="anchor" id="features" name="features">
@@ -176,6 +174,8 @@ Aspose.Font for C++ is a font integration and management API to work with differ
 </div>
 <!--Feature-section Start-->
 <!--Feature-section End-->
+
+{{< /blocks/products/pf/total/products >}}
 
 {{< /blocks/products/pf/main-container >}}
 

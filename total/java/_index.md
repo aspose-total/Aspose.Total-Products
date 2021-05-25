@@ -97,8 +97,6 @@ Aspose.Font for Java is a font loading and drawing API having support of multipl
 Aspose.TeX for Java is a TeX files typesetting API. It can easily typeset TeX files to get documents in various formats like XPS, PDF, PNG, JPEG, TIFF and BMP. It also features custom TeX formats creation.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< /blocks/products/pf/total/products >}}
-
 <!--<p></p>-->
 <h2 class="pr-ft">
  <a class="anchor" id="features" name="features">
@@ -250,6 +248,8 @@ Aspose.TeX for Java is a TeX files typesetting API. It can easily typeset TeX f
 </div>
 <!--Feature-section Start-->
 <!--Feature-section End-->
+
+{{< /blocks/products/pf/total/products >}}
 
 {{< /blocks/products/pf/main-container >}}
 

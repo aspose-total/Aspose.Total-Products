@@ -41,8 +41,6 @@ Aspose.Slides for Android via Java is a specific PowerPoint management and parsi
 Aspose.BarCode for Android via Java is a set of barcode APIs to generate and recognize 1D & 2D barcodes from images at any angle.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< /blocks/products/pf/total/products >}}
-
 <!--<p></p>-->
 <h2 class="pr-ft">
  <a class="anchor" id="features" name="features">
@@ -135,6 +133,8 @@ Aspose.BarCode for Android via Java is a set of barcode APIs to generate and rec
 </div>
 <!--Feature-section Start-->
 <!--Feature-section End-->
+
+{{< /blocks/products/pf/total/products >}}
 
 {{< /blocks/products/pf/main-container >}}
 

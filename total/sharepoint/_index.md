@@ -45,8 +45,6 @@ Aspose.Imaging for SharePoint adds image processing capability to SharePoint sol
 Aspose.BarCode for SharePoint provides a unique and robust app to enhance your SharePoint's lists by using this barcoding system. The Barcode SharePoint app supports more than 40 of the most popular barcode symbologies including Linear, Postal and 2D barcodes.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< /blocks/products/pf/total/products >}}
-
 <!--<p></p>-->
 <div class="col-lg-12">
  <h2 class="h2title">
@@ -104,6 +102,8 @@ Aspose.BarCode for SharePoint provides a unique and robust app to enhance your S
 </div>
 <!--Feature-section Start-->
 <!--Feature-section End-->
+
+{{< /blocks/products/pf/total/products >}}
 
 {{< /blocks/products/pf/main-container >}}
 

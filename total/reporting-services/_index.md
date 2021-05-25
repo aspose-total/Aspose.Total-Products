@@ -37,8 +37,6 @@ Aspose.Slides for Reporting Services is the only solution on the market for gene
 Aspose.BarCode for Reporting Services is the most comprehensive solution for rendering barcode images within Microsoft SQL Server Reporting Services.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< /blocks/products/pf/total/products >}}
-
 <!--<p></p>-->
 <h2 class="pr-ft">
  <a class="anchor" id="features" name="features">
@@ -212,6 +210,8 @@ Aspose.BarCode for Reporting Services is the most comprehensive solution for ren
 </div>
 <!--Feature-section Start-->
 <!--Feature-section End-->
+
+{{< /blocks/products/pf/total/products >}}
 
 {{< /blocks/products/pf/main-container >}}
 

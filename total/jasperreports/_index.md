@@ -41,8 +41,6 @@ Aspose.Imaging for JasperReports provides a flexible solution to export Jasper
 Aspose.BarCode for JasperReports provides a unique and robust solution to enhance the usefulness of your business. It allows the developers to generate and display high-quality barcode labels on JasperReports.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< /blocks/products/pf/total/products >}}
-
 <!--<p></p>-->
 <h2 class="pr-ft">
  <a class="anchor" id="features" name="features">
@@ -175,6 +173,8 @@ Aspose.BarCode for JasperReports provides a unique and robust solution to enhanc
 </div>
 <!--Feature-section Start-->
 <!--Feature-section End-->
+
+{{< /blocks/products/pf/total/products >}}
 
 {{< /blocks/products/pf/main-container >}}
 
