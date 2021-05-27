@@ -138,7 +138,7 @@ Aspose.BarCode for Android via Java is a set of barcode APIs to generate and rec
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
+{{< blocks/products/pf/testimonials title="" subTitle="" caseStudiesLink="" >}}
 {{< blocks/products/pf/testimonials-quote >}}
 {{< /blocks/products/pf/testimonials-quote >}}
 {{< /blocks/products/pf/testimonials >}}
@@ -167,14 +167,14 @@ Aspose.BarCode for Android via Java is a set of barcode APIs to generate and rec
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/total/android-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Total offers individual solutions for other platforms." description="" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total offers individual solutions for other platforms." >}}
 
-    {{< blocks/products/pf/offers-section-item link="/total/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-net.png" sdkName="File Format APIs for .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-java.png" sdkName="File Format APIs for Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-cpp.png" sdkName="File Format Programming APIs for C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-sharepoint.png" sdkName="File Format APIs for SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/reporting-services" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-reporting-services.png" sdkName="File Format APIs for Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/jasperreports" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-jasperreports.png" sdkName="File Format APIs for Jasperreports" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-net.png" sdkName=" .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-java.png" sdkName=" Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-cpp.png" sdkName=" C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-sharepoint.png" sdkName=" SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/reporting-services" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-reporting-services.png" sdkName=" Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/jasperreports" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-jasperreports.png" sdkName=" JasperReports" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
