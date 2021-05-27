@@ -2,6 +2,7 @@
 title: File Format Processing APIs for Multiple Platforms - Aspose 
 weight: 10
 url: /
+description: Microsoft Excel Word PowerPoint Email PDF Visio Project Barcode OCR Imaging OneNote 3D and CAD Manipulation APIs for any platform
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

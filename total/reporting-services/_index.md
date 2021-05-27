@@ -2,6 +2,7 @@
 title: SQL Server Reporting Services Rendering Extensions for File Formats 
 weight: 70
 url: /reporting-services/ 
+description: SQL Server Reporting Services Rendering Extensions for file formats to export RDL reports to Word Excel PDF PowerPoint formats. Add barcodes to exported reports
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -215,10 +216,6 @@ Aspose.BarCode for Reporting Services is the most comprehensive solution for ren
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" caseStudiesLink="" >}}
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 

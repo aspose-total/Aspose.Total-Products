@@ -2,6 +2,7 @@
 title: C# .NET Document Format Processing APIs - Aspose 
 weight: 60
 url: /net/ 
+description: C# ASP.NET VB.NET APIs to create manipulate convert and render any type of documents.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

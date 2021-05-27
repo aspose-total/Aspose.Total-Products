@@ -2,6 +2,7 @@
 title: SharePoint File Format Apps - Convert Documents in SharePoint Applications 
 weight: 80
 url: /sharepoint/ 
+description: SharePoint File Format Apps to convert and combine Word Excel PDF PowerPoint Email and Imaging document formats within Microsoft SharePoint
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -107,10 +108,6 @@ Aspose.BarCode for SharePoint provides a unique and robust app to enhance your S
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" caseStudiesLink="" >}}
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 

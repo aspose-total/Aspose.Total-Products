@@ -2,6 +2,7 @@
 title: JasperReports Exporters Suite - Generate Reports in Business Document Formats 
 weight: 40
 url: /jasperreports/ 
+description: JasperReports exports suite to exports reports to Word Excel PDF and PowerPoint formats. Add Barcodes to Exported reports
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -178,10 +179,6 @@ Aspose.BarCode for JasperReports provides a unique and robust solution to enhanc
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" caseStudiesLink="" >}}
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 

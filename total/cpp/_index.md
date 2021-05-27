@@ -2,6 +2,7 @@
 title: C++ File Format Processing APIs - Aspose 
 weight: 30
 url: /cpp/ 
+description: C++ Libraries read write render and convert multiple document formats.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -179,10 +180,6 @@ Aspose.Font for C++ is a font integration and management API to work with differ
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" caseStudiesLink="" >}}
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 

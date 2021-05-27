@@ -2,6 +2,7 @@
 title: Android File Format Processing APIs for Mobile Apps - Aspose 
 weight: 20
 url: /android-java/ 
+description: Android File Format APIs for Word Excel PDF PowerPoint and Emails. Programmatically create edit render and convert document formats within mobile apps
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -138,10 +139,6 @@ Aspose.BarCode for Android via Java is a set of barcode APIs to generate and rec
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" caseStudiesLink="" >}}
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 
