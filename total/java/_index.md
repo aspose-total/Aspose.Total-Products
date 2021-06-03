@@ -1,6 +1,6 @@
 ---
 title: Java APIs for Popular File Formats - Aspose 
-weight: 50
+weight: 60
 url: /java/ 
 description: Collection of APIs for Java developers to manipulate files from Word Excel PDF PowerPoint Visio OneNote Email Project Images 3D GIS.
 ---
