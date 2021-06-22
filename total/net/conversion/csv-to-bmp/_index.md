@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to BMP via .NET 
 weight: 5400
-url: /total/net/conversion/csv-to-bmp/ 
+url: /net/conversion/csv-to-bmp/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
