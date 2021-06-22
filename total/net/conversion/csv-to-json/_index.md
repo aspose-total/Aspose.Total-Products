@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to JSON via .NET 
 weight: 5400
-url: /net/conversion/csv-to-json/ 
+url: /total/net/conversion/csv-to-json/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
