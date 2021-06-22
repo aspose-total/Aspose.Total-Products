@@ -21,7 +21,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
  **Aspose.Cells** 
  and install. You may also use the following command from the Package Manager Console.
 
-{{% blocks/products/pf/agp/code-block title="Aspose.Cells" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
 
@@ -64,7 +64,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Command" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Conversion Code" offSpacer="" %}}
 
 
 
