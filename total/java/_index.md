@@ -94,7 +94,7 @@ Aspose.PUB for Java is an API that allows to read Microsoft Publisher files and 
 Aspose.Font for Java is a font loading and drawing API having support of multiple font formats. It can easily perform font file operations such as loading fonts from disc or stream, read glyphs and metrics information as well as detect latin symbols, render text using font glyphs and more.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tex/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-java.png" productName="Aspose.TeX for Java">}}
+{{< blocks/products/pf/total/product-item href="/tex/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-java.png" productName="Aspose.PUB for Java">}}
 Aspose.TeX for Java is a TeX files typesetting API. It can easily typeset TeX files to get documents in various formats like XPS, PDF, PNG, JPEG, TIFF and BMP. It also features custom TeX formats creation.
 {{< /blocks/products/pf/total/product-item >}}
 
