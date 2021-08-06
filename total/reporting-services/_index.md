@@ -48,7 +48,7 @@ Aspose.BarCode for Reporting Services is the most comprehensive solution for ren
  <em class="fa fa-share ico-blue fa-2x col-lg-2">
  </em>
  <p class="col-lg-10">
-  Export RDL and RDLC reports in Word, Excel, PowerPoint Presentation and PDF file formats
+  Export RDL and RDLC reports in Word, Excel, PowerPoint and PDF formats
  </p>
 </div>
 <div class="col-lg-4">
@@ -83,21 +83,21 @@ Aspose.BarCode for Reporting Services is the most comprehensive solution for ren
  <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
  </em>
  <p class="col-lg-10">
-  Create comparison charts in RDL reports &amp; export to Microsoft PowerPoint presentations
+  Create comparison charts in RDL reports &amp; export to PowerPoint format
  </p>
 </div>
 <div class="col-lg-4">
  <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
  </em>
  <p class="col-lg-10">
-  Create RDL reports with headers, footers, images, tables, textboxes &amp; rectangles, and export them
+  Create RDL reports with headers, footers, images, tables, textboxes, and export
  </p>
 </div>
 <div class="col-lg-4">
  <em class="fa fa-database ico-blue fa-2x col-lg-2">
  </em>
  <p class="col-lg-10">
-  Create data centric RDL reports carrying sub reports and export them to Microsoft PowerPoint formats
+  Create data centric RDL reports with sub reports and export to PowerPoint formats
  </p>
 </div>
 <div class="col-lg-4">
