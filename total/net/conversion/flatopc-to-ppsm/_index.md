@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Slides
 1. Load FLATOPC file using [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) class
 1. Save the document into [MemoryStream](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0) Object
 1. Create [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) and intialize it with MemoryStream Object
-1. Save the document using [Aspose.Slides.Presentation.Save("output.ppsm", SaveFormat.ppsm_Camel)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+1. Save the document using [Aspose.Slides.Presentation.Save("output.ppsm", SaveFormat.Ppsm)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -81,7 +81,7 @@ stream.Seek(0, SeekOrigin.Begin);
 var ppsmPresentation = new Aspose.Slides.Presentation(stream);	 
 	 
 // Save the PPSM Presentation
-ppsmPresentation.Save("pres.ppsm", Aspose.Slides.Export.SaveFormat.ppsm_Camel);
+ppsmPresentation.Save("pres.ppsm", Aspose.Slides.Export.SaveFormat.Ppsm);
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}

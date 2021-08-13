@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Slides
 1. Load WORDML file using [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) class
 1. Save the document into [MemoryStream](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0) Object
 1. Create [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) and intialize it with MemoryStream Object
-1. Save the document using [Aspose.Slides.Presentation.Save("output.potm", SaveFormat.potm_Camel)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+1. Save the document using [Aspose.Slides.Presentation.Save("output.potm", SaveFormat.Potm)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -81,7 +81,7 @@ stream.Seek(0, SeekOrigin.Begin);
 var potmPresentation = new Aspose.Slides.Presentation(stream);	 
 	 
 // Save the POTM Presentation
-potmPresentation.Save("pres.potm", Aspose.Slides.Export.SaveFormat.potm_Camel);
+potmPresentation.Save("pres.potm", Aspose.Slides.Export.SaveFormat.Potm);
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}

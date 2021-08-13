@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Slides
 1. Load DOC file using [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) class
 1. Save the document into [MemoryStream](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0) Object
 1. Create [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) and intialize it with MemoryStream Object
-1. Save the document using [Aspose.Slides.Presentation.Save("output.pps", SaveFormat.pps_Camel)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+1. Save the document using [Aspose.Slides.Presentation.Save("output.pps", SaveFormat.Pps)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -81,7 +81,7 @@ stream.Seek(0, SeekOrigin.Begin);
 var ppsPresentation = new Aspose.Slides.Presentation(stream);	 
 	 
 // Save the PPS Presentation
-ppsPresentation.Save("pres.pps", Aspose.Slides.Export.SaveFormat.pps_Camel);
+ppsPresentation.Save("pres.pps", Aspose.Slides.Export.SaveFormat.Pps);
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
