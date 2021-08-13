@@ -10,7 +10,7 @@ description: JasperReports exports suite to exports reports to Word Excel PDF an
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for JasperReports" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-jasperreports.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/jasperreports" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/jasperreports/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/jasperreports" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/jasperreports" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/jasperreports/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/jasperreports" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for JasperReports is a feature-rich suite of JasperReports Exporters allowing developers to export reports in Microsoft Word, Excel, PowerPoint and PDF formats. One of the exporters in Aspose.Total for JasperReports family also provides the ability to add barcodes to the exported files.
@@ -206,12 +206,12 @@ Aspose.BarCode for JasperReports provides a unique and robust solution to enhanc
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total offers individual solutions for other platforms." >}}
 
-    {{< blocks/products/pf/offers-section-item link="/total/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-net.png" sdkName=" .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-java.png" sdkName=" Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-cpp.png" sdkName=" C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/android-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-android.png" sdkName=" Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-sharepoint.png" sdkName=" SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/reporting-services" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-reporting-services.png" sdkName=" Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/net" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-java.svg" sdkName=" Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-cpp.svg" sdkName=" C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/android-java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/reporting-services" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

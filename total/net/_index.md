@@ -10,7 +10,7 @@ description: C# ASP.NET VB.NET APIs to create manipulate convert and render any 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-net.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://downloads.aspose.com/total/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://downloads.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for .NET is the most complete package of all .NET file format APIs offered by Aspose. It empowers developers to create, edit, render, print and convert between most popular file formats within any .NET, C#, ASP.NET and VB.NET applications.
@@ -301,12 +301,12 @@ The implementation was straightforward, we really focus on our architecture and 
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total offers individual solutions for other platforms." >}}
 
-    {{< blocks/products/pf/offers-section-item link="/total/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-java.png" sdkName=" Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-cpp.png" sdkName=" C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/android-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-android.png" sdkName=" Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-sharepoint.png" sdkName=" SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/reporting-services" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-reporting-services.png" sdkName=" Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/jasperreports" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-jasperreports.png" sdkName=" JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-java.svg" sdkName=" Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-cpp.svg" sdkName=" C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/android-java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/reporting-services" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/jasperreports" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" sdkName=" JasperReports" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
