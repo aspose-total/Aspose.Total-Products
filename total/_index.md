@@ -1,8 +1,8 @@
 ---
-title: File Format Processing APIs for Multiple Platforms - Aspose 
+title: File Format Automation APIs for Multiple Platforms - Aspose 
 weight: 10
 url: /
-description: Microsoft Excel Word PowerPoint Email PDF Visio Project Barcode OCR Imaging OneNote 3D and CAD Manipulation APIs for any platform
+description: Microsoft Excel Word PowerPoint Email PDF Visio Project Barcode OCR Imaging OneNote 3D and CAD Manipulation APIs for .NET, Java, Android, C++. Components for SharePoint, Extensions for Reporting Services and Exporters for JasperReports.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

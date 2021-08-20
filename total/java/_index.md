@@ -255,16 +255,16 @@ Aspose.TeX for Java is a TeX files typesetting API. It can easily typeset TeX f
 {{< /blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Total APIs." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
-{{< blocks/products/pf/testimonials-quote >}}
+{{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brazil" >}}
 During our implementation, we could sense that we touched only a fraction of what Apose.Total is capable of. The API’s ease of use give the developers satisfaction for “getting work done” with it’s simple and clean code, and the end product’s robustness makes our customers happy.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< blocks/products/pf/testimonials-quote >}}
+{{< blocks/products/pf/testimonials-quote poster="Rick Goud | ZIVVER, Netherlands" >}}
 We tried several other free and paid solutions, but all of them had limitations that were too great for our use-case. Most of the problems with our solutions arose in converting Microsoft Office files to PDF. Only Aspose proved to do this perfectly every time.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< blocks/products/pf/testimonials-quote >}}
+{{< blocks/products/pf/testimonials-quote poster="Andreu Garcia | Fermator, Spain" >}}
 We can only say one thing: excellent product and excellent service. Sometimes, you can find a good product with a lack of customer care. This is not the case for Aspose.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< blocks/products/pf/testimonials-quote >}}
+{{< blocks/products/pf/testimonials-quote poster="Thomas | Join and Share, Germany" >}}
 Aspose.Total is a powerful suite to process nearly all kinds of documents in high speed and great quality. It effectively reduces the programming effort.
 {{< /blocks/products/pf/testimonials-quote >}}
 {{< /blocks/products/pf/testimonials >}}

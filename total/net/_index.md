@@ -1,12 +1,12 @@
 ---
-title: C# .NET Document Format Processing APIs - Aspose 
+title: C# .NET File Automation APIs - Aspose 
 weight: 30
 url: /net/ 
 description: C# ASP.NET VB.NET APIs to create manipulate convert and render any type of documents.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET File Format Manipulation APIs" h2="Manipulate Word, Excel, PDF, PowerPoint, Outlook and more than 100 other file formats from within .NET applications, without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/header/aspose_total-for-net.png" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/total/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET File Format Manipulation APIs" h2="Manipulate Word, Excel, PDF, PowerPoint, Outlook and more than 100 other file formats from within .NET applications, without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/total/headers/aspose_total-for-net.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for .NET" >}}
 
@@ -261,16 +261,16 @@ Aspose.TeX for .NET is a TeX files typesetting API. It can easily typeset TeX f
 {{< /blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Total APIs." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
-{{< blocks/products/pf/testimonials-quote >}}
+{{< blocks/products/pf/testimonials-quote poster="Stefan Studer | Nowhow Solutions AG, Switzerland" >}}
 The well-documented instruction manual and the robustness of the Aspose.Total components led to a straightforward integration into DOCO. This helped us cut on development time more than anticipated.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< blocks/products/pf/testimonials-quote >}}
+{{< blocks/products/pf/testimonials-quote poster="Bryan Thornton | Net Reaction LLC, USA" >}}
 We have significant experience with both Office Automation and Soft Artisans’ Office Writer product. Aspose’s Total.NET is more robust, offering more functionality than anything we have used in the past.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< blocks/products/pf/testimonials-quote >}}
+{{< blocks/products/pf/testimonials-quote poster="Mark Foley | Lion Nathan National Foods, Australia" >}}
 Effectively the Aspose.Total for .NET suite is the 'Swiss army knife' of components we use. Sitting alongside presentation layer components, it forms the 'glue' to pull and push data-files in the desired format.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< blocks/products/pf/testimonials-quote >}}
+{{< blocks/products/pf/testimonials-quote poster="Yassine Loudad | Qualetech, France" >}}
 The implementation was straightforward, we really focus on our architecture and Aspose just fits in simply. Our architecture is highly optimized for performance and multi-threading, and again this is no problem to use Aspose.Total.net.
 {{< /blocks/products/pf/testimonials-quote >}}
 {{< /blocks/products/pf/testimonials >}}
