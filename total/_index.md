@@ -1,68 +1,97 @@
 ---
-title: File Format Automation APIs for Multiple Platforms - Aspose 
-weight: 10
+title: On Premise, Cloud & App Based File Format Solutions 
+weight: 9630
 url: /
-description: Microsoft Excel Word PowerPoint Email PDF Visio Project Barcode OCR Imaging OneNote 3D and CAD Manipulation APIs for .NET, Java, Android, C++. Components for SharePoint, Extensions for Reporting Services and Exporters for JasperReports.
+description: Build document manipulation applications using On Premise or Cloud APIs, or simply use cross-platform apps to view, compare, inspect or convert 100+ file formats
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Complete Set of File Format Manipulation APIs" h2="Manipulate Word, Excel, PDF, PowerPoint, Outlook and more than 100 other file formats using our native APIs for .NET, Java, Android, C++ and other Platforms." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://downloads.aspose.com/total" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Complete Set of File Format Manipulation Solutions" h2="Aspose.Total provide the most complete and efficient set of document processing solution without any other software installation and dependencies." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Total Product Family Includes" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Total On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-net.svg" productLink="/total/net" >}}
-Target Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 2.0 or later.
+{{< blocks/products/pf/product pfName="Aspose.Total for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/net" >}}
+On Premise .NET APIs to manipulate multiple document formats within Windows, Web, iOS & Android based applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-java.svg" productLink="/total/java" >}}
-Native Java APIs for the desktop, web or any kind of application based on Java SE or EE.
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/java" >}}
+Java-based platform APIs to create, modify, render or parse Microsoft Word files, Web, Text and OpenOffice documents directly within applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-cpp.svg" productLink="/total/cpp" >}}
-Create, manipulate, convert or render Word documents, Excel spreadsheets, PowerPoint presentations, email messages & PDF files in C++ applications.
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/cpp" >}}
+Create, load, manipulate, or convert different document formats and images within pure C++ applications using native C++ library.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Android via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-android-java.svg" productLink="/total/android-java" >}}
-Manipulate Word, Excel, PowerPoint and other formats in mobile apps. It works with Android OS 2.3 or later.
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" productLink="/total/sharepoint" >}}
-Convert Word, Excel, PowerPoint and other formats in SharePoint Foundation and Server.
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Reporting Services" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" productLink="/total/reporting-services" >}}
-Export RDL reports to Word, Excel, PowerPoint and other formats from SQL Server Reporting Services.
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="JasperReports" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" productLink="/total/jasperreports" >}}
-Export reports to Word, Excel, PowerPoint and other formats from JasperReports or JasperServer.
-{{< /blocks/products/pf/product >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/total/family" innerText="View All On Premise APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
+
+{{< blocks/products/pf/product-card-row title="Aspose.Total Cloud APIs Include" >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
+Manipulate and process Microsoft Word files via REST API call from any device.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pdf/272x272/aspose_pdf-for-cloud.png" productLink="https://products.aspose.cloud/pdf/family" >}}
+PDF REST APIs to create, render, split & convert PDF documents with ease.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-cloud.png" productLink="https://products.aspose.cloud/cells/family" >}}
+Aspose.Cells Cloud APIs to develop spreadsheet manipulation Apps supporting multiple Microsoft Excel formats.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/center-button href="https://products.aspose.cloud/total/" innerText="View All Cloud APIs" >}}
+
+{{< /blocks/products/pf/product-card-row >}}
+
+{{< blocks/products/pf/product-card-row title="Aspose.Total Cross Platform Apps Include" >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Merger" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_merger-app.png" productLink="https://products.aspose.app/total/merger" >}}
+Easily combine multiple files together. Online merge documents in order of your need.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Compress" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_compress-app.png" productLink="https://products.aspose.app/total/compress" >}}
+Easily compress documents while preserving the original quality.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/total/compress" >}}
+Freely convert 100+ formats to other documents online.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/center-button href="https://products.aspose.app/total/family" innerText="View All Cross Platform Apps" >}}
+
+{{< /blocks/products/pf/product-card-row >}}
+
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/total/" >}}
-{{< blocks/products/pf/slr-element name="Source Code" href="http://aspose.github.io/" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
-{{< /blocks/products/pf/slr-tab >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Words." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/total" >}}
-{{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/total/" >}}
-{{< /blocks/products/pf/slr-tab >}}
+{{< blocks/products/pf/testimonials-quote >}}
+<p class="first">
+ We currently utilize Aspose.Words &amp; Aspose.Cells throughout our proprietary software applications. These components have saved significant development &amp; processing time and allowed us to integrate Microsoft Office document features into our applications in a quick &amp; efficient manner.
+ <em>
+  Sean Diamond | VP of Software Development | RCP Solutions
+ </em>
+</p>
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Total Product Family?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/aspose-total" >}}
-{{< /blocks/products/pf/slr-tab >}}
+{{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/testimonials-quote >}}
+<p class="second">
+ Aspose.Words allowed us to automate the completion of predefined templates with the single click of a button. The ability to simulate Microsoft Office Automation, without the need for the Microsoft Office object library, provides a quick and stable method of creating dynamic documents on demand.
+ <em>
+  Chris Bombardo | President | Velocity
+  <sup>
+   K4
+  </sup>
+ </em>
+</p>
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total" pricingInformationLink="https://purchase.aspose.com/pricing/total" >}}
+{{< /blocks/products/pf/testimonials-quote >}}
+
+{{< /blocks/products/pf/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}
