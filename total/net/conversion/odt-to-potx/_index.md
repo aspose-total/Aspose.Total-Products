@@ -18,8 +18,8 @@ description: Use source code to convert Word odt documents to PowerPoint potx fi
 
 ```cs
 
-PM> Install-Package Aspose.Words
-PM> Install-Package Aspose.Slides
+PM> Install-Package Aspose.Total
+
 
 ```
 
@@ -55,7 +55,7 @@ PM> Install-Package Aspose.Slides
 
 -  Microsoft Windows or a compatible OS with .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 -  Development environment like Microsoft Visual Studio.
--  Aspose.Words for .NET &amp; Aspose.Slides for .NET DLL referenced in your project.
+-  Aspose.Words for .NET &amp; Aspose.Slides for .NET DLL or Aspose.Total for .NET DLL referenced in your project.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
