@@ -65,10 +65,10 @@ PM> Install-Package Aspose.Total
 // Load the Single Page Microsoft Word DOCM file
 Aspose.Words.Document docm = new Aspose.Words.Document("sourceWordFile.docm");
 
-// Save docm file to HTML 
+// Save DOCM file to HTML 
 docm.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOCM documents export each page to HTML separately using Aspose.Words and then use the below code to convert to PPTX.
+// To convert multi pages DOCM documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPTX.
 
 using (Presentation pptx = new Presentation()){
 

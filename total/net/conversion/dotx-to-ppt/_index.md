@@ -65,10 +65,10 @@ PM> Install-Package Aspose.Total
 // Load the Single Page Microsoft Word DOTX file
 Aspose.Words.Document dotx = new Aspose.Words.Document("sourceWordFile.dotx");
 
-// Save dotx file to HTML 
+// Save DOTX file to HTML 
 dotx.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOTX documents export each page to HTML separately using Aspose.Words and then use the below code to convert to PPT.
+// To convert multi pages DOTX documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPT.
 
 using (Presentation ppt = new Presentation()){
 

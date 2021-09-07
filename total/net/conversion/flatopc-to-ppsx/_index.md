@@ -65,10 +65,10 @@ PM> Install-Package Aspose.Total
 // Load the Single Page Microsoft Word FLATOPC file
 Aspose.Words.Document flatopc = new Aspose.Words.Document("sourceWordFile.flatopc");
 
-// Save flatopc file to HTML 
+// Save FLATOPC file to HTML 
 flatopc.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages FLATOPC documents export each page to HTML separately using Aspose.Words and then use the below code to convert to PPSX.
+// To convert multi pages FLATOPC documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPSX.
 
 using (Presentation ppsx = new Presentation()){
 

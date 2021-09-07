@@ -65,10 +65,10 @@ PM> Install-Package Aspose.Total
 // Load the Single Page Microsoft Word DOT file
 Aspose.Words.Document dot = new Aspose.Words.Document("sourceWordFile.dot");
 
-// Save dot file to HTML 
+// Save DOT file to HTML 
 dot.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOT documents export each page to HTML separately using Aspose.Words and then use the below code to convert to POTM.
+// To convert multi pages DOT documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to POTM.
 
 using (Presentation potm = new Presentation()){
 

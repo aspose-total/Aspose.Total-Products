@@ -65,10 +65,10 @@ PM> Install-Package Aspose.Total
 // Load the Single Page Microsoft Word OTT file
 Aspose.Words.Document ott = new Aspose.Words.Document("sourceWordFile.ott");
 
-// Save ott file to HTML 
+// Save OTT file to HTML 
 ott.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages OTT documents export each page to HTML separately using Aspose.Words and then use the below code to convert to ODP.
+// To convert multi pages OTT documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to ODP.
 
 using (Presentation odp = new Presentation()){
 

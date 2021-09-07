@@ -65,10 +65,10 @@ PM> Install-Package Aspose.Total
 // Load the Single Page Microsoft Word RTF file
 Aspose.Words.Document rtf = new Aspose.Words.Document("sourceWordFile.rtf");
 
-// Save rtf file to HTML 
+// Save RTF file to HTML 
 rtf.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages RTF documents export each page to HTML separately using Aspose.Words and then use the below code to convert to POT.
+// To convert multi pages RTF documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to POT.
 
 using (Presentation pot = new Presentation()){
 

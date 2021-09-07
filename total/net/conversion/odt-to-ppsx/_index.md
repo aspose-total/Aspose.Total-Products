@@ -65,10 +65,10 @@ PM> Install-Package Aspose.Total
 // Load the Single Page Microsoft Word ODT file
 Aspose.Words.Document odt = new Aspose.Words.Document("sourceWordFile.odt");
 
-// Save odt file to HTML 
+// Save ODT file to HTML 
 odt.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages ODT documents export each page to HTML separately using Aspose.Words and then use the below code to convert to PPSX.
+// To convert multi pages ODT documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPSX.
 
 using (Presentation ppsx = new Presentation()){
 

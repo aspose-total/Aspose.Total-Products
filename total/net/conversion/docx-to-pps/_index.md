@@ -65,10 +65,10 @@ PM> Install-Package Aspose.Total
 // Load the Single Page Microsoft Word DOCX file
 Aspose.Words.Document docx = new Aspose.Words.Document("sourceWordFile.docx");
 
-// Save docx file to HTML 
+// Save DOCX file to HTML 
 docx.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOCX documents export each page to HTML separately using Aspose.Words and then use the below code to convert to PPS.
+// To convert multi pages DOCX documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPS.
 
 using (Presentation pps = new Presentation()){
 

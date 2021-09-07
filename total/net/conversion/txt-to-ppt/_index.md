@@ -65,10 +65,10 @@ PM> Install-Package Aspose.Total
 // Load the Single Page Microsoft Word TXT file
 Aspose.Words.Document txt = new Aspose.Words.Document("sourceWordFile.txt");
 
-// Save txt file to HTML 
+// Save TXT file to HTML 
 txt.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages TXT documents export each page to HTML separately using Aspose.Words and then use the below code to convert to PPT.
+// To convert multi pages TXT documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPT.
 
 using (Presentation ppt = new Presentation()){
 

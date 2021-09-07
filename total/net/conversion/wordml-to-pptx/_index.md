@@ -65,10 +65,10 @@ PM> Install-Package Aspose.Total
 // Load the Single Page Microsoft Word WORDML file
 Aspose.Words.Document wordml = new Aspose.Words.Document("sourceWordFile.wordml");
 
-// Save wordml file to HTML 
+// Save WORDML file to HTML 
 wordml.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages WORDML documents export each page to HTML separately using Aspose.Words and then use the below code to convert to PPTX.
+// To convert multi pages WORDML documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPTX.
 
 using (Presentation pptx = new Presentation()){
 
