@@ -20,7 +20,6 @@ description: Use source code to convert Word flatopc documents to PowerPoint pot
 
 PM> Install-Package Aspose.Total
 
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -37,10 +36,11 @@ PM> Install-Package Aspose.Total
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Add reference of Aspose.Words for .NET and Aspose.Slides for .NET
+1. Add reference of Aspose.Total for .NET
 1. Load FLATOPC file using [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) class
-1. Save the document into [MemoryStream](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0) Object
-1. Create [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) and intialize it with MemoryStream Object
+1. Save the FLATOPC document into HTML
+1. Create [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) Object
+1. Import HTML content in text frame of any slide shape inside presentation
 1. Save the document using [Aspose.Slides.Presentation.Save("output.potm", SaveFormat.Potm)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -55,33 +55,48 @@ PM> Install-Package Aspose.Total
 
 -  Microsoft Windows or a compatible OS with .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 -  Development environment like Microsoft Visual Studio.
--  Aspose.Words for .NET &amp; Aspose.Slides for .NET DLL or Aspose.Total for .NET DLL referenced in your project.
+-  Aspose.Words for .NET &amp; Aspose.Slides for .NET DLLs or Aspose.Total for .NET DLL referenced in your project.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="This code sample shows how to convert a FLATOPC to POTM using C#" offSpacer="" %}}
 
 ```cs
-// Load the Microsoft Word FLATOPC file
+// Load the Single Page Microsoft Word FLATOPC file
 Aspose.Words.Document flatopc = new Aspose.Words.Document("sourceWordFile.flatopc");
-var stream = new MemoryStream();
 
-// Save flatopc document to memory stream
-Aspose.Words.Saving.HtmlSaveOptions options = new Aspose.Words.Saving.HtmlSaveOptions(SaveFormat.Html);
+// Save flatopc file to HTML 
+flatopc.Save("filepath\\test.html", SaveFormat.Html);
 
-// set options.ImageSavingCallback
+// To convert multi pages FLATOPC documents export each page to HTML separately using Aspose.Words and then use the below code to convert to POTM.
 
-flatopc.Save(stream, options);
+using (Presentation potm = new Presentation()){
 
-stream.Flush();
-stream.Seek(0, SeekOrigin.Begin);
-// stream.Position = 0;
+	// Acesss the default first slide of presentation
+	ISlide slide = pres.Slides[0];
 
-// Load the content of the Word document to a Presentation
-var potmPresentation = new Aspose.Slides.Presentation(stream);	 
-	 
-// Save the POTM Presentation
-potmPresentation.Save("pres.potm", Aspose.Slides.Export.SaveFormat.Potm);
+	// Adding the AutoShape to accomodate the HTML content 
+	// Adjust it as of your need
+	IAutoShape ashape = slide.Shapes.AddAutoShape(ShapeType.Rectangle, 10, 10, pres.SlideSize.Size.Width - 20, pres.SlideSize.Size.Height - 10);
+
+	ashape.FillFormat.FillType = FillType.NoFill;
+
+	// Adding text frame to the shape
+	ashape.AddTextFrame("");
+
+	// Clearing all paragraphs in added text frame
+	ashape.TextFrame.Paragraphs.Clear();
+
+	// Loading the HTML file using stream reader
+	TextReader tr = new StreamReader("filepath\\test.html");
+
+	// Adding text from HTML stream reader in text frame
+	ashape.TextFrame.Paragraphs.AddFromHtml(tr.ReadToEnd());
+
+	// Save the POTM Presentation
+	potm.Save("filepath\\pres.potm", Aspose.Slides.Export.SaveFormat.Potm);
+}
+
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -124,7 +139,7 @@ Office Open XML WordprocessingML stored in a flat XML file instead of a ZIP pack
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert FLATOPC into many other file formats including few listed below." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/flatopc-to-ppt" name="FLATOPC To PPT" description="Microsoft PowerPoint 97-2003" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/flatopc-to-pptx" name="FLATOPC To PPTX" description="Open XML presentation Format" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/flatopc-to-pps" name="FLATOPC To PPS" description="PowerPoint Slide Show" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/flatopc-to-pot" name="FLATOPC To POT" description="Microsoft PowerPoint Template Files" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/flatopc-to-ppsx" name="FLATOPC To PPSX" description="PowerPoint Slide Show" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/flatopc-to-pptm" name="FLATOPC To PPTM" description="Macro-enabled Presentation File" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/flatopc-to-ppsm" name="FLATOPC To PPSM" description="Macro-enabled Slide Show" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/flatopc-to-potx" name="FLATOPC To POTX" description="Microsoft PowerPoint Template Presentation" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/flatopc-to-potm" name="FLATOPC To POTM" description="Microsoft PowerPoint Template File" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/flatopc-to-odp" name="FLATOPC To ODP" description="OpenDocument Presentation Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/flatopc-to-ppt/" name="FLATOPC To PPT" description="Microsoft PowerPoint 97-2003" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/flatopc-to-pptx/" name="FLATOPC To PPTX" description="Open XML presentation Format" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/flatopc-to-pps/" name="FLATOPC To PPS" description="PowerPoint Slide Show" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/flatopc-to-pot/" name="FLATOPC To POT" description="Microsoft PowerPoint Template Files" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/flatopc-to-ppsx/" name="FLATOPC To PPSX" description="PowerPoint Slide Show" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/flatopc-to-pptm/" name="FLATOPC To PPTM" description="Macro-enabled Presentation File" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/flatopc-to-ppsm/" name="FLATOPC To PPSM" description="Macro-enabled Slide Show" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/flatopc-to-potx/" name="FLATOPC To POTX" description="Microsoft PowerPoint Template Presentation" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/flatopc-to-potm/" name="FLATOPC To POTM" description="Microsoft PowerPoint Template File" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/flatopc-to-odp/" name="FLATOPC To ODP" description="OpenDocument Presentation Format" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

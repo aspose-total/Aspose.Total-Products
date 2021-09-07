@@ -20,7 +20,6 @@ description: Use source code to convert Word dotm documents to PowerPoint pot fi
 
 PM> Install-Package Aspose.Total
 
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -37,10 +36,11 @@ PM> Install-Package Aspose.Total
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Add reference of Aspose.Words for .NET and Aspose.Slides for .NET
+1. Add reference of Aspose.Total for .NET
 1. Load DOTM file using [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) class
-1. Save the document into [MemoryStream](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0) Object
-1. Create [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) and intialize it with MemoryStream Object
+1. Save the DOTM document into HTML
+1. Create [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) Object
+1. Import HTML content in text frame of any slide shape inside presentation
 1. Save the document using [Aspose.Slides.Presentation.Save("output.pot", SaveFormat.Pot)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -55,33 +55,48 @@ PM> Install-Package Aspose.Total
 
 -  Microsoft Windows or a compatible OS with .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 -  Development environment like Microsoft Visual Studio.
--  Aspose.Words for .NET &amp; Aspose.Slides for .NET DLL or Aspose.Total for .NET DLL referenced in your project.
+-  Aspose.Words for .NET &amp; Aspose.Slides for .NET DLLs or Aspose.Total for .NET DLL referenced in your project.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="This code sample shows how to convert a DOTM to POT using C#" offSpacer="" %}}
 
 ```cs
-// Load the Microsoft Word DOTM file
+// Load the Single Page Microsoft Word DOTM file
 Aspose.Words.Document dotm = new Aspose.Words.Document("sourceWordFile.dotm");
-var stream = new MemoryStream();
 
-// Save dotm document to memory stream
-Aspose.Words.Saving.HtmlSaveOptions options = new Aspose.Words.Saving.HtmlSaveOptions(SaveFormat.Html);
+// Save dotm file to HTML 
+dotm.Save("filepath\\test.html", SaveFormat.Html);
 
-// set options.ImageSavingCallback
+// To convert multi pages DOTM documents export each page to HTML separately using Aspose.Words and then use the below code to convert to POT.
 
-dotm.Save(stream, options);
+using (Presentation pot = new Presentation()){
 
-stream.Flush();
-stream.Seek(0, SeekOrigin.Begin);
-// stream.Position = 0;
+	// Acesss the default first slide of presentation
+	ISlide slide = pres.Slides[0];
 
-// Load the content of the Word document to a Presentation
-var potPresentation = new Aspose.Slides.Presentation(stream);	 
-	 
-// Save the POT Presentation
-potPresentation.Save("pres.pot", Aspose.Slides.Export.SaveFormat.Pot);
+	// Adding the AutoShape to accomodate the HTML content 
+	// Adjust it as of your need
+	IAutoShape ashape = slide.Shapes.AddAutoShape(ShapeType.Rectangle, 10, 10, pres.SlideSize.Size.Width - 20, pres.SlideSize.Size.Height - 10);
+
+	ashape.FillFormat.FillType = FillType.NoFill;
+
+	// Adding text frame to the shape
+	ashape.AddTextFrame("");
+
+	// Clearing all paragraphs in added text frame
+	ashape.TextFrame.Paragraphs.Clear();
+
+	// Loading the HTML file using stream reader
+	TextReader tr = new StreamReader("filepath\\test.html");
+
+	// Adding text from HTML stream reader in text frame
+	ashape.TextFrame.Paragraphs.AddFromHtml(tr.ReadToEnd());
+
+	// Save the POT Presentation
+	pot.Save("filepath\\pres.pot", Aspose.Slides.Export.SaveFormat.Pot);
+}
+
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -124,7 +139,7 @@ A file with DOTM extension represents template file created with Microsoft Word 
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert DOTM into many other file formats including few listed below." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/dotm-to-ppt" name="DOTM To PPT" description="Microsoft PowerPoint 97-2003" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/dotm-to-pptx" name="DOTM To PPTX" description="Open XML presentation Format" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/dotm-to-pps" name="DOTM To PPS" description="PowerPoint Slide Show" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/dotm-to-pot" name="DOTM To POT" description="Microsoft PowerPoint Template Files" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/dotm-to-ppsx" name="DOTM To PPSX" description="PowerPoint Slide Show" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/dotm-to-pptm" name="DOTM To PPTM" description="Macro-enabled Presentation File" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/dotm-to-ppsm" name="DOTM To PPSM" description="Macro-enabled Slide Show" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/dotm-to-potx" name="DOTM To POTX" description="Microsoft PowerPoint Template Presentation" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/dotm-to-potm" name="DOTM To POTM" description="Microsoft PowerPoint Template File" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/dotm-to-odp" name="DOTM To ODP" description="OpenDocument Presentation Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/dotm-to-ppt/" name="DOTM To PPT" description="Microsoft PowerPoint 97-2003" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/dotm-to-pptx/" name="DOTM To PPTX" description="Open XML presentation Format" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/dotm-to-pps/" name="DOTM To PPS" description="PowerPoint Slide Show" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/dotm-to-pot/" name="DOTM To POT" description="Microsoft PowerPoint Template Files" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/dotm-to-ppsx/" name="DOTM To PPSX" description="PowerPoint Slide Show" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/dotm-to-pptm/" name="DOTM To PPTM" description="Macro-enabled Presentation File" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/dotm-to-ppsm/" name="DOTM To PPSM" description="Macro-enabled Slide Show" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/dotm-to-potx/" name="DOTM To POTX" description="Microsoft PowerPoint Template Presentation" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/dotm-to-potm/" name="DOTM To POTM" description="Microsoft PowerPoint Template File" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/dotm-to-odp/" name="DOTM To ODP" description="OpenDocument Presentation Format" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

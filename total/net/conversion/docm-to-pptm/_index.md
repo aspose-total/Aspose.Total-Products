@@ -20,7 +20,6 @@ description: Use source code to convert Word docm documents to PowerPoint pptm f
 
 PM> Install-Package Aspose.Total
 
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -37,10 +36,11 @@ PM> Install-Package Aspose.Total
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Add reference of Aspose.Words for .NET and Aspose.Slides for .NET
+1. Add reference of Aspose.Total for .NET
 1. Load DOCM file using [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) class
-1. Save the document into [MemoryStream](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0) Object
-1. Create [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) and intialize it with MemoryStream Object
+1. Save the DOCM document into HTML
+1. Create [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) Object
+1. Import HTML content in text frame of any slide shape inside presentation
 1. Save the document using [Aspose.Slides.Presentation.Save("output.pptm", SaveFormat.Pptm)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -55,33 +55,48 @@ PM> Install-Package Aspose.Total
 
 -  Microsoft Windows or a compatible OS with .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 -  Development environment like Microsoft Visual Studio.
--  Aspose.Words for .NET &amp; Aspose.Slides for .NET DLL or Aspose.Total for .NET DLL referenced in your project.
+-  Aspose.Words for .NET &amp; Aspose.Slides for .NET DLLs or Aspose.Total for .NET DLL referenced in your project.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="This code sample shows how to convert a DOCM to PPTM using C#" offSpacer="" %}}
 
 ```cs
-// Load the Microsoft Word DOCM file
+// Load the Single Page Microsoft Word DOCM file
 Aspose.Words.Document docm = new Aspose.Words.Document("sourceWordFile.docm");
-var stream = new MemoryStream();
 
-// Save docm document to memory stream
-Aspose.Words.Saving.HtmlSaveOptions options = new Aspose.Words.Saving.HtmlSaveOptions(SaveFormat.Html);
+// Save docm file to HTML 
+docm.Save("filepath\\test.html", SaveFormat.Html);
 
-// set options.ImageSavingCallback
+// To convert multi pages DOCM documents export each page to HTML separately using Aspose.Words and then use the below code to convert to PPTM.
 
-docm.Save(stream, options);
+using (Presentation pptm = new Presentation()){
 
-stream.Flush();
-stream.Seek(0, SeekOrigin.Begin);
-// stream.Position = 0;
+	// Acesss the default first slide of presentation
+	ISlide slide = pres.Slides[0];
 
-// Load the content of the Word document to a Presentation
-var pptmPresentation = new Aspose.Slides.Presentation(stream);	 
-	 
-// Save the PPTM Presentation
-pptmPresentation.Save("pres.pptm", Aspose.Slides.Export.SaveFormat.Pptm);
+	// Adding the AutoShape to accomodate the HTML content 
+	// Adjust it as of your need
+	IAutoShape ashape = slide.Shapes.AddAutoShape(ShapeType.Rectangle, 10, 10, pres.SlideSize.Size.Width - 20, pres.SlideSize.Size.Height - 10);
+
+	ashape.FillFormat.FillType = FillType.NoFill;
+
+	// Adding text frame to the shape
+	ashape.AddTextFrame("");
+
+	// Clearing all paragraphs in added text frame
+	ashape.TextFrame.Paragraphs.Clear();
+
+	// Loading the HTML file using stream reader
+	TextReader tr = new StreamReader("filepath\\test.html");
+
+	// Adding text from HTML stream reader in text frame
+	ashape.TextFrame.Paragraphs.AddFromHtml(tr.ReadToEnd());
+
+	// Save the PPTM Presentation
+	pptm.Save("filepath\\pres.pptm", Aspose.Slides.Export.SaveFormat.Pptm);
+}
+
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -124,7 +139,7 @@ DOCM files are Microsoft Word 2007 or higher generated documents with the abilit
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert DOCM into many other file formats including few listed below." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/docm-to-ppt" name="DOCM To PPT" description="Microsoft PowerPoint 97-2003" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/docm-to-pptx" name="DOCM To PPTX" description="Open XML presentation Format" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/docm-to-pps" name="DOCM To PPS" description="PowerPoint Slide Show" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/docm-to-pot" name="DOCM To POT" description="Microsoft PowerPoint Template Files" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/docm-to-ppsx" name="DOCM To PPSX" description="PowerPoint Slide Show" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/docm-to-pptm" name="DOCM To PPTM" description="Macro-enabled Presentation File" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/docm-to-ppsm" name="DOCM To PPSM" description="Macro-enabled Slide Show" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/docm-to-potx" name="DOCM To POTX" description="Microsoft PowerPoint Template Presentation" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/docm-to-potm" name="DOCM To POTM" description="Microsoft PowerPoint Template File" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/docm-to-odp" name="DOCM To ODP" description="OpenDocument Presentation Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/docm-to-ppt/" name="DOCM To PPT" description="Microsoft PowerPoint 97-2003" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/docm-to-pptx/" name="DOCM To PPTX" description="Open XML presentation Format" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/docm-to-pps/" name="DOCM To PPS" description="PowerPoint Slide Show" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/docm-to-pot/" name="DOCM To POT" description="Microsoft PowerPoint Template Files" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/docm-to-ppsx/" name="DOCM To PPSX" description="PowerPoint Slide Show" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/docm-to-pptm/" name="DOCM To PPTM" description="Macro-enabled Presentation File" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/docm-to-ppsm/" name="DOCM To PPSM" description="Macro-enabled Slide Show" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/docm-to-potx/" name="DOCM To POTX" description="Microsoft PowerPoint Template Presentation" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/docm-to-potm/" name="DOCM To POTM" description="Microsoft PowerPoint Template File" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/docm-to-odp/" name="DOCM To ODP" description="OpenDocument Presentation Format" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

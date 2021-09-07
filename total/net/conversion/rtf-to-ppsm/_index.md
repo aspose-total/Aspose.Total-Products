@@ -20,7 +20,6 @@ description: Use source code to convert Word rtf documents to PowerPoint ppsm fi
 
 PM> Install-Package Aspose.Total
 
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -37,10 +36,11 @@ PM> Install-Package Aspose.Total
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Add reference of Aspose.Words for .NET and Aspose.Slides for .NET
+1. Add reference of Aspose.Total for .NET
 1. Load RTF file using [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) class
-1. Save the document into [MemoryStream](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0) Object
-1. Create [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) and intialize it with MemoryStream Object
+1. Save the RTF document into HTML
+1. Create [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) Object
+1. Import HTML content in text frame of any slide shape inside presentation
 1. Save the document using [Aspose.Slides.Presentation.Save("output.ppsm", SaveFormat.Ppsm)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -55,33 +55,48 @@ PM> Install-Package Aspose.Total
 
 -  Microsoft Windows or a compatible OS with .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 -  Development environment like Microsoft Visual Studio.
--  Aspose.Words for .NET &amp; Aspose.Slides for .NET DLL or Aspose.Total for .NET DLL referenced in your project.
+-  Aspose.Words for .NET &amp; Aspose.Slides for .NET DLLs or Aspose.Total for .NET DLL referenced in your project.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="This code sample shows how to convert a RTF to PPSM using C#" offSpacer="" %}}
 
 ```cs
-// Load the Microsoft Word RTF file
+// Load the Single Page Microsoft Word RTF file
 Aspose.Words.Document rtf = new Aspose.Words.Document("sourceWordFile.rtf");
-var stream = new MemoryStream();
 
-// Save rtf document to memory stream
-Aspose.Words.Saving.HtmlSaveOptions options = new Aspose.Words.Saving.HtmlSaveOptions(SaveFormat.Html);
+// Save rtf file to HTML 
+rtf.Save("filepath\\test.html", SaveFormat.Html);
 
-// set options.ImageSavingCallback
+// To convert multi pages RTF documents export each page to HTML separately using Aspose.Words and then use the below code to convert to PPSM.
 
-rtf.Save(stream, options);
+using (Presentation ppsm = new Presentation()){
 
-stream.Flush();
-stream.Seek(0, SeekOrigin.Begin);
-// stream.Position = 0;
+	// Acesss the default first slide of presentation
+	ISlide slide = pres.Slides[0];
 
-// Load the content of the Word document to a Presentation
-var ppsmPresentation = new Aspose.Slides.Presentation(stream);	 
-	 
-// Save the PPSM Presentation
-ppsmPresentation.Save("pres.ppsm", Aspose.Slides.Export.SaveFormat.Ppsm);
+	// Adding the AutoShape to accomodate the HTML content 
+	// Adjust it as of your need
+	IAutoShape ashape = slide.Shapes.AddAutoShape(ShapeType.Rectangle, 10, 10, pres.SlideSize.Size.Width - 20, pres.SlideSize.Size.Height - 10);
+
+	ashape.FillFormat.FillType = FillType.NoFill;
+
+	// Adding text frame to the shape
+	ashape.AddTextFrame("");
+
+	// Clearing all paragraphs in added text frame
+	ashape.TextFrame.Paragraphs.Clear();
+
+	// Loading the HTML file using stream reader
+	TextReader tr = new StreamReader("filepath\\test.html");
+
+	// Adding text from HTML stream reader in text frame
+	ashape.TextFrame.Paragraphs.AddFromHtml(tr.ReadToEnd());
+
+	// Save the PPSM Presentation
+	ppsm.Save("filepath\\pres.ppsm", Aspose.Slides.Export.SaveFormat.Ppsm);
+}
+
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -124,7 +139,7 @@ Introduced and documented by Microsoft, the Rich Text Format (RTF) represents a 
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert RTF into many other file formats including few listed below." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/rtf-to-ppt" name="RTF To PPT" description="Microsoft PowerPoint 97-2003" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/rtf-to-pptx" name="RTF To PPTX" description="Open XML presentation Format" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/rtf-to-pps" name="RTF To PPS" description="PowerPoint Slide Show" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/rtf-to-pot" name="RTF To POT" description="Microsoft PowerPoint Template Files" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/rtf-to-ppsx" name="RTF To PPSX" description="PowerPoint Slide Show" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/rtf-to-pptm" name="RTF To PPTM" description="Macro-enabled Presentation File" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/rtf-to-ppsm" name="RTF To PPSM" description="Macro-enabled Slide Show" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/rtf-to-potx" name="RTF To POTX" description="Microsoft PowerPoint Template Presentation" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/rtf-to-potm" name="RTF To POTM" description="Microsoft PowerPoint Template File" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/rtf-to-odp" name="RTF To ODP" description="OpenDocument Presentation Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/rtf-to-ppt/" name="RTF To PPT" description="Microsoft PowerPoint 97-2003" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/rtf-to-pptx/" name="RTF To PPTX" description="Open XML presentation Format" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/rtf-to-pps/" name="RTF To PPS" description="PowerPoint Slide Show" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/rtf-to-pot/" name="RTF To POT" description="Microsoft PowerPoint Template Files" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/rtf-to-ppsx/" name="RTF To PPSX" description="PowerPoint Slide Show" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/rtf-to-pptm/" name="RTF To PPTM" description="Macro-enabled Presentation File" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/rtf-to-ppsm/" name="RTF To PPSM" description="Macro-enabled Slide Show" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/rtf-to-potx/" name="RTF To POTX" description="Microsoft PowerPoint Template Presentation" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/rtf-to-potm/" name="RTF To POTM" description="Microsoft PowerPoint Template File" >}} {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/net/conversion/rtf-to-odp/" name="RTF To ODP" description="OpenDocument Presentation Format" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
