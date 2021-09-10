@@ -11,19 +11,19 @@ description: Build document manipulation applications using On Premise or Cloud 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/net/" >}}
 On Premise .NET APIs to manipulate multiple document formats within Windows, Web, iOS & Android based applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/java/" >}}
 Java-based platform APIs to create, modify, render or parse Microsoft Word files, Web, Text and OpenOffice documents directly within applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/total/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/cpp/" >}}
 Create, load, manipulate, or convert different document formats and images within pure C++ applications using native C++ library.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/total/family" innerText="View All On Premise APIs" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/total/family/" innerText="View All On Premise APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
