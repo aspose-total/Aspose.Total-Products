@@ -34,7 +34,7 @@ Aspose.Cells for Reporting Services allows you to deliver native Excel reports f
 Aspose.Slides for Reporting Services is the only solution on the market for generating reports in Microsoft PowerPoint formats from Microsoft SQL Server Reporting Services. RDL report features like tables, matrices, charts and images can be converted with high quality to presentations or slide shows.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/reporting-services/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-reporting.svg" productName="Aspose.BarCode for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/barcode/reporting-services/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" productName="Aspose.BarCode for Reporting Services">}}
 Aspose.BarCode for Reporting Services is the most comprehensive solution for rendering barcode images within Microsoft SQL Server Reporting Services.
 {{< /blocks/products/pf/total/product-item >}}
 
