@@ -1,5 +1,5 @@
 ---
-title: Convert FODS to DOC with Net 
+title: Convert FODS to DOC with .NET 
 description: Convert FODS to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms
 url: /net/conversion/fods-to-doc/
 family: total
@@ -7,26 +7,25 @@ platformtag: net
 feature: conversion
 informat: FODS
 outformat: DOC
-otherformats: WORD DOCX POWERPOINT PPTX 
+otherformats: PPTX POWERPOINT WORD DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert FODS to DOC via C#" h2="Export Excel® FODS to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert FODS to DOC via C#" h2="Export Excel&reg; FODS to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 {{< blocks/products/pf/main-container >}}
 
 
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="FODS to DOC Conversion on Net" %}}
-1. Add reference of Aspose.Total for .NET
-2. Open FODS file using [Aspose.Cells.Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) class
-3. Convert FODS to PDF and set Aspose.Cells.SaveFormat to Auto
-4. Load the converted PDF file using [Aspose.Cells.Workbook](https://apireference.aspose.com/pdf/net/aspose.pdf/document) class
-5. Save the document to DOC format using [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method and set Doc as SaveFormat
+{{% blocks/products/pf/agp/feature-section-col title="FODS to DOC Conversion on .NET" %}}
+1. Open FODS file using [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) class
+2. Convert FODS to PDF and set SaveFormat to Auto
+3. Load the converted PDF file using [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) class
+4. Save the document to DOC format using [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method and set Doc as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET Font API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET Total API" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://downloads.aspose.com/total/net).
@@ -34,11 +33,11 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Code for FODS to DOC Conversion" gistPath="" %}}
 ```cs
-// load the FODS file using Aspose.Cells
+// load the FODS file using Workbook class
 var book = new Aspose.Cells.Workbook("input.fods");
 // save FODS as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
-// load the PDF file using Aspose.Pdf
+// load the PDF file using Document class
 var document = new Aspose.Pdf.Document("pdfOutput.pdf");
 // save document in DOC format
 document.Save("output.doc", SaveFormat.Doc); 
