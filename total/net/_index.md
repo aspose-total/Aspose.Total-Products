@@ -13,7 +13,7 @@ description: C# ASP.NET VB.NET APIs to create manipulate convert and render any 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://downloads.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/total/overview >}}
-Aspose.Total for .NET is the most complete package of all .NET file format APIs offered by Aspose. It empowers developers to create, edit, render, print and convert between most popular file formats within any .NET, C#, ASP.NET and VB.NET applications.
+Aspose.Total for .NET is the most complete package of all .NET File Format Automation APIs offered by Aspose. It empowers developers to create, edit, render, print and convert between most popular file formats within any .NET, C#, ASP.NET and VB.NET applications.
 {{< /blocks/products/pf/total/overview >}}
 
 {{< blocks/products/pf/total/products description="Aspose.Total for .NET includes the following file format APIs for .NET:" >}}

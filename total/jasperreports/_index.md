@@ -42,6 +42,10 @@ Aspose.Imaging for JasperReports provides a flexible solution to export Jasper
 Aspose.BarCode for JasperReports provides a unique and robust solution to enhance the usefulness of your business. It allows the developers to generate and display high-quality barcode labels on JasperReports.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/cad/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg" productName="Aspose.CAD for JasperReports">}}
+Aspose.CAD for JasperReports provides a unique and robust solution to export JasperReports into various CAD and other vector formats. It can easily generate multipage reports or batch export in batch mode. each report page will be saved as a separate document.
+{{< /blocks/products/pf/total/product-item >}}
+
 <!--<p></p>-->
 <h2 class="pr-ft">
  <a class="anchor" id="features" name="features">
@@ -111,6 +115,13 @@ Aspose.BarCode for JasperReports provides a unique and robust solution to enhanc
   Convert .jrxml reports to PDF documents
  </p>
 </div>
+<div class="col-lg-4">
+ <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
+ </em>
+ <p class="col-lg-10">
+  Print reports as various CAD, BIM or vector drawing
+ </p>
+</div>
 <div class="col-lg-12">
  <h2 class="h2title">
   Variety of Supported Formats
@@ -145,6 +156,12 @@ Aspose.BarCode for JasperReports provides a unique and robust solution to enhanc
   </li>
   <li>
    RTF - Rich Text Format
+  </li>
+  <li>
+   SVG - Scalable Vector Graphics 
+  </li>
+  <li>
+   DXF - Drawing eXchange Format
   </li>
  </ul>
 </div>
