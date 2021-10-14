@@ -13,7 +13,7 @@ description: Collection of APIs for Java developers to manipulate files from Wor
 {{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/java" >}}
 
 {{< blocks/products/pf/total/overview >}}
-Aspose.Total for Java is a collection of file format APIs for Java developers, empowering them to create, update, print, render and convert between multiple file formats from within any Java J2SE, J2EE, J2ME applications.
+Aspose.Total for Java is a collection of File Format Automation libraries for Java developers, empowering them to create, update, print, render and convert between multiple file formats from within any Java J2SE, J2EE, J2ME applications.
 {{< /blocks/products/pf/total/overview >}}
 
 {{< blocks/products/pf/total/products description="Aspose.Words for Java allows the developers to perform a great range of document processing tasks directly within Java applications. It supports most popular word processing formats including DOC, OOXML, RTF, HTML and OpenDocument. With Aspose.Words, you can generate, modify and convert documents without using Microsoft Word." >}}
