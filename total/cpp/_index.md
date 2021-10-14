@@ -13,7 +13,7 @@ description: C++ Libraries read write render and convert multiple document forma
 {{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
-Aspose.Total for C++ is a complete package of C++ libraries specifically designed to create, manipulate & convert popular file formats from Microsoft Office & PDF without requiring Office or Adobe Automation. C++ API package also includes a specialized library to generate & recognize barcode labels from images with advanced features to customize the barcode generation and recognition process.
+Aspose.Total for C++ is a complete package of C++ File Format Automation libraries specifically designed to create, manipulate & convert popular formats from Microsoft Office & PDF without requiring Office or Adobe Automation. C++ API package also includes a specialized library to generate & recognize barcode labels from images with advanced features to customize the barcode generation and recognition process.
 {{< /blocks/products/pf/total/overview >}}
 
 {{< blocks/products/pf/total/products description="Aspose.Total for C++ includes the following C++ libraries:" >}}
