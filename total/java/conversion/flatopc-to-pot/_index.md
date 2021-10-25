@@ -23,7 +23,7 @@ Often times developers have to manipulate and convert Microsoft Word FLATOPC to 
 3. Initialize a new [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) object
 4. Add an empty text frame in your presentation
 5. Extract content from HTML file using BufferedReader and write the content in your presentation file 
-4. Save the document to POT format using [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) method and set Pot as SaveFormat
+6. Save the document to POT format using [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) method and set Pot as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Format APIs" %}}
