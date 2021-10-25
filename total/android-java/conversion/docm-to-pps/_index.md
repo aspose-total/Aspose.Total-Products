@@ -7,7 +7,7 @@ platformtag: android-java
 feature: conversion
 informat: DOCM
 outformat: PPS
-otherformats: PPT POWERPOINT PPTX PPSX PPSM PPTM ODP POT POTX POTM
+otherformats: ODP POTX PPSX PPSM POT PPT POTM PPTX PPTM POWERPOINT
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Export DOCM to PPS in Andorid Apps " h2="Convert DOCM to PPS in your Andorid Applications without installing Microsoft Word&reg; or PowerPoint" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOC" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PPTX" >}}
@@ -23,7 +23,7 @@ Are you an Andoroid developer looking to add documment conversion feature in you
 3. Initialize a new [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) object
 4. Add an empty text frame in your presentation
 5. Extract content from HTML file using BufferedReader and write the content in your presentation file 
-4. Save the document to PPS format using [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) method and set Pps as SaveFormat
+6. Save the document to PPS format using [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) method and set Pps as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with Java Android APIs" %}}

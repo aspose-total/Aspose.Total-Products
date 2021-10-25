@@ -7,7 +7,7 @@ platformtag: android-java
 feature: conversion
 informat: WORDML
 outformat: POTX
-otherformats: PPSX PPS PPSM POT POWERPOINT PPTM PPTX PPT ODP POTM
+otherformats: PPSM POWERPOINT POT PPS PPTX PPSX PPT POTM ODP PPTM
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Export WORDML to POTX in Andorid Apps " h2="Convert WORDML to POTX in your Andorid Applications without installing Microsoft Word&reg; or PowerPoint" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOC" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PPTX" >}}
@@ -23,7 +23,7 @@ Are you an Andoroid developer looking to add documment conversion feature in you
 3. Initialize a new [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) object
 4. Add an empty text frame in your presentation
 5. Extract content from HTML file using BufferedReader and write the content in your presentation file 
-4. Save the document to POTX format using [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) method and set Potx as SaveFormat
+6. Save the document to POTX format using [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) method and set Potx as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with Java Android APIs" %}}
