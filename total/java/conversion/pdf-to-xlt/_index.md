@@ -13,7 +13,7 @@ otherformats: XLSB MD TXT XLTX XLAM FODS TSV CSV DIF EXCEL SXC XLSM
 {{< blocks/products/pf/feature-page-header h1="Java API to Transform PDF to XLT" h2="Convert PDF to XLT by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate PDF to XLT conversion feature in your Java applications in two step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render PDF to XLSX. In the second step, you can convert XLSX to XLT by using Spreadsheet Programming API [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/).  
+By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate PDF to XLT conversion feature in your Java applications in two step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render PDF to XLSX. In the second step, you can convert XLSX to XLT by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

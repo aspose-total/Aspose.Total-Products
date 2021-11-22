@@ -13,7 +13,7 @@ otherformats: XLTM XLSB XLTX XLSM TXT FODS XLAM EXCEL SXC XLT ODS CSV
 {{< blocks/products/pf/feature-page-header h1="Java API to Transform MHTML to MD" h2="Convert MHTML to MD by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate MHTML to MD conversion feature in your Java applications in two step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render MHTML to XLSX. In the second step, you can convert XLSX to MD by using Spreadsheet Programming API [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/).  
+By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate MHTML to MD conversion feature in your Java applications in two step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render MHTML to XLSX. In the second step, you can convert XLSX to MD by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

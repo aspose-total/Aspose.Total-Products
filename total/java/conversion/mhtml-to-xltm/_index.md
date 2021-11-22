@@ -13,7 +13,7 @@ otherformats: SXC TXT EXCEL XLT XLTX CSV MD XLAM XLSM ODS FODS DIF
 {{< blocks/products/pf/feature-page-header h1="Java API to Transform MHTML to XLTM" h2="Convert MHTML to XLTM by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate MHTML to XLTM conversion feature in your Java applications in two step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render MHTML to XLSX. In the second step, you can convert XLSX to XLTM by using Spreadsheet Programming API [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/).  
+By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate MHTML to XLTM conversion feature in your Java applications in two step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render MHTML to XLSX. In the second step, you can convert XLSX to XLTM by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

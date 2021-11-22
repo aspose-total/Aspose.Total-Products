@@ -13,7 +13,7 @@ otherformats: TSV XLSB XLSM XLTM TXT XLAM SXC MD CSV EXCEL ODS FODS
 {{< blocks/products/pf/feature-page-header h1="Java API to Transform EPUB to XLTX" h2="Convert EPUB to XLTX by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate EPUB to XLTX conversion feature in your Java applications in two step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render EPUB to XLSX. In the second step, you can convert XLSX to XLTX by using Spreadsheet Programming API [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/).  
+By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate EPUB to XLTX conversion feature in your Java applications in two step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render EPUB to XLSX. In the second step, you can convert XLSX to XLTX by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,7 @@ otherformats: CSV TSV DIF SXC XLT XLSM ODS XLTX TXT MD XLTM XLAM
 {{< blocks/products/pf/feature-page-header h1="Java API to Transform CGM to EXCEL" h2="Convert CGM to EXCEL by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate CGM to EXCEL conversion feature in your Java applications in two step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render CGM to XLSX. In the second step, you can convert XLSX to EXCEL by using Spreadsheet Programming API [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/).  
+By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate CGM to EXCEL conversion feature in your Java applications in two step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render CGM to XLSX. In the second step, you can convert XLSX to EXCEL by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
