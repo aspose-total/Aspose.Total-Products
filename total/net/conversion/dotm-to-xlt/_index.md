@@ -1,23 +1,23 @@
 ---
-title: .NET API to Convert DOTM to XLT 
-description: C# API to Convert DOTM to XLT without using Microsoft Excel or Adobe Reader
+title: Convert DOTM to XLT via .NET 
+description: Convert DOTM to XLT in C# without using Microsoft Excel or Adobe Reader
 url: /net/conversion/dotm-to-xlt/
 family: total
 platformtag: net
 feature: conversion
 informat: DOTM
 outformat: XLT
-otherformats: FODS XLTM XLSX TSV DIF CSV XLSB XLAM ODS XLS XLSM XLTX EXCEL SXC
+otherformats: TSV XLAM SXC CSV EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# API to Convert DOTM to XLT" h2="Export DOTM to XLT via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert DOTM to XLT via C#" h2="Convert DOTM to XLT via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include DOTM to XLT conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOTM to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to XLT. 
+By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can convert DOTM to XLT  within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOTM to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to XLT. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title=".NET API to Convert DOTM to XLT" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Convert DOTM to XLT via C#" %}}
 1. Open DOTM file using [Document](https://apireference.aspose.com/words/net/aspose.words/document) class
 2. Convert DOTM to HTML by using [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) method
 3. Load HTML document by using [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) class 
@@ -25,7 +25,7 @@ By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
-Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
+Install from the command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://downloads.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -35,17 +35,17 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Load DOTM Document from Stream  via C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) also allows you to load DOTM document via stream. To open a document from a stream, simply pass a stream object that contains the document into the [Document](https://apireference.aspose.com/words/net/aspose.words/document) constructor. The following code example shows how to open a document from a stream:
+{{% blocks/products/pf/feature-page-section  h2="Convert Protected DOTM to XLT via C#" %}}
+Using the API, you can also open the password-protected document. If your input DOTM document is password protected, you cannot convert it to XLT without using the password. The API allows you to open the encrypted document by passing the correct password in a LoadOptions object. The following code example shows how to try opening an encrypted document with a password:
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Add Custom Properties in XLT File via C#" %}}
-While converting DOTM to XLT, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) enables you to add custom properties in your XLT documents. In order to add a custom property, you can use [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) method for the [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) class. The Add method adds the property to the Excel file and returns a reference for the new document property as an [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties/documentproperty) object.
+{{% blocks/products/pf/feature-page-section  h2="Convert DOTM to Protected XLT file via C#" %}}
+After you convert DOTM to XLT, you can also encrypt and password protect your XLT documents. In order to encrypt your document, open it using Workbook class and specify XOR Encryption Type and Strong Encryption type (RC4, Microsoft Strong Cryptographic Provider) encryption by using the SetEncryptionOptions method. You can also set a password to your XLT by using the Password property of WorkbookSettings class.
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
