@@ -42,9 +42,9 @@ Using the API, you can also open the password-protected document. If your input 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Convert DOTM to Protected EXCEL file via C#" %}}
+{{% blocks/products/pf/feature-page-section  h2="Convert DOTM to Protected EXCEL file via Java" %}}
 After you convert DOTM to EXCEL, you can also encrypt and password protect your EXCEL documents. In order to encrypt your document, open it using Workbook class and specify XOR Encryption Type and Strong Encryption type (RC4, Microsoft Strong Cryptographic Provider) encryption by using the setEncryptionOptions method. You can also set a password to your EXCEL by using the Password property of WorkbookSettings class.
-{{% blocks/products/pf/feature-page-code %}}-
+{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-word-to-protected-excel.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
