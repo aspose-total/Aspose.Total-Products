@@ -13,7 +13,7 @@ otherformats: DOT PS RTF MOBI EPUB WORDML DOTX CHM OTT PCL DOCM FLATOPC DOC ODT
 {{< blocks/products/pf/feature-page-header h1="Parse JSON Format to WORD in Android Applications" h2="Parse JSON to WORD within Android applications without using Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can parse JSON to WORD in your Java applications in a two-step process. Firstly, by using Powerful Spreadsheet Processing API [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) you can parse JSON to PDF. In the second step, you can convert PDF to WORD by using Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/android-java/). Both APIs come under [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) product family.
+You can parse JSON to WORD in your Android applications in two-step process. Firstly, by using Powerful Spreadsheet Processing API [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) you can parse JSON to PDF. In the second step, you can convert PDF to WORD by using Word Processing API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Both APIs come under [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) product family.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
