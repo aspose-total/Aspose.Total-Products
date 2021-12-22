@@ -45,7 +45,7 @@ Furthermore, the API allows you to parse JSON to POTM with specified layout opti
 {{% blocks/products/pf/feature-page-section  h2="Convert JSON Format to POTM with Watermark in Android via Java" %}}
 Using the API, you can also convert JSON to POTM with watermark. In order to add a watermark to your POTM document, you can first parse JSON to PPTX and add a watermark to it. In order to add a watermark, load the newly created PPTX file using the [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) class, loop through all slides, add text using addTextFrame, set all the relevant options like color, fillType and more and can save the document to POTM.
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "parse-json-to-powerpoint-with-watermark.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
