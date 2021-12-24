@@ -6,7 +6,7 @@ description: SharePoint File Format Apps to convert and combine Word Excel PDF P
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="SharePoint Apps to Manipulate Files" h2="Easily Convert and Combine Word, Excel, PowerPoint, PDF,  Outlook and many other formats within Microsoft SharePoint apps." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-sharepoint.svg" pfName="Aspose.Total" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/total/sharepoint" >}}
+{{< blocks/products/pf/upper-banner h1="SharePoint Apps to Manipulate Files" h2="Easily Convert and Combine Word, Excel, PowerPoint, PDF,  Outlook and many other formats within Microsoft SharePoint apps." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-sharepoint.svg" pfName="Aspose.Total" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/total/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for SharePoint" >}}
 
@@ -90,7 +90,7 @@ Aspose.BarCode for SharePoint provides a unique and robust app to enhance your S
   Multiple Conversion Options
  </h2>
  <p>
-  Aspose.Total for SharePoint offers to convert files in sub-folders, concatenate documents, change the destination folder and overwrite existing documents in destination folders.
+  Aspose.Total for SharePoint offers to convert files in sub-folders, concatenate documents, change the destination folder and overwrite existing documents in destination folders.
  </p>
 </div>
 <div class="col-lg-12">

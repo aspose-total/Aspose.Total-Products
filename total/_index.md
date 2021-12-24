@@ -6,7 +6,7 @@ description: Build document manipulation applications using On Premise or Cloud 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Complete Set of File Format Manipulation Solutions" h2="Aspose.Total provide the most complete and efficient set of document processing solution without any other software installation and dependencies." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/upper-banner h1="Complete Set of File Format Manipulation Solutions" h2="Aspose.Total provide the most complete and efficient set of document processing solution without any other software installation and dependencies." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total On Premise APIs Include" >}}
@@ -65,7 +65,7 @@ Freely convert 100+ formats to other documents online.
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Words." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Words." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
