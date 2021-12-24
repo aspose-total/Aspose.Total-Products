@@ -120,19 +120,7 @@ Aspose.Total for .NET is complete package of document Manipulation APIs. APIs ar
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WORDML" readMoreLink="https://docs.fileformat.com/word-processing/" >}}
-Microsoft Word 2003 WordprocessingML format
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/word-processing/" >}}
-Microsoft Word 2003 WordprocessingML format
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
+    
 
 {{< /blocks/products/pf/agp/demobox >}}
 

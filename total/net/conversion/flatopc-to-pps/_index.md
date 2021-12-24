@@ -120,19 +120,7 @@ Aspose.Total for .NET is complete package of document Manipulation APIs. APIs ar
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="FLATOPC" readMoreLink="https://docs.fileformat.com/web/xml/" >}}
-Office Open XML WordprocessingML stored in a flat XML file instead of a ZIP package.
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PPS" readMoreLink="https://docs.fileformat.com/web/xml/" >}}
-Office Open XML WordprocessingML stored in a flat XML file instead of a ZIP package.
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
+    
 
 {{< /blocks/products/pf/agp/demobox >}}
 
