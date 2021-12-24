@@ -1,7 +1,7 @@
 ---
 title: Convert DOTX to ODP via C# .NET 
 url: /net/conversion/dotx-to-odp/ 
-description: Use source code to convert Word dotx documents to PowerPoint odp files with C#. Convert multiple files within ASP.NET or other .NET applications.
+description: Convert Word dotx documents to PowerPoint odp files with C#. Convert multiple files within ASP.NET or other .NET applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -72,7 +72,7 @@ dotx.Save("filepath\\test.html", SaveFormat.Html);
 
 using (Presentation odp = new Presentation()){
 
-	// Acesss the default first slide of presentation
+	// Access the default first slide of presentation
 	ISlide slide = pres.Slides[0];
 
 	// Adding the AutoShape to accomodate the HTML content 

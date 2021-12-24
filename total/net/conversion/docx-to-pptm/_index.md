@@ -1,7 +1,7 @@
 ---
 title: Convert DOCX to PPTM via C# .NET 
 url: /net/conversion/docx-to-pptm/ 
-description: Use source code to convert Word docx documents to PowerPoint pptm files with C#. Convert multiple files within ASP.NET or other .NET applications.
+description: Convert Word docx documents to PowerPoint pptm files with C#. Convert multiple files within ASP.NET or other .NET applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -72,7 +72,7 @@ docx.Save("filepath\\test.html", SaveFormat.Html);
 
 using (Presentation pptm = new Presentation()){
 
-	// Acesss the default first slide of presentation
+	// Access the default first slide of presentation
 	ISlide slide = pres.Slides[0];
 
 	// Adding the AutoShape to accomodate the HTML content 

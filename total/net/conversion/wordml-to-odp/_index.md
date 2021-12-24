@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to ODP via C# .NET 
 url: /net/conversion/wordml-to-odp/ 
-description: Use source code to convert Word wordml documents to PowerPoint odp files with C#. Convert multiple files within ASP.NET or other .NET applications.
+description: Convert Word wordml documents to PowerPoint odp files with C#. Convert multiple files within ASP.NET or other .NET applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -72,7 +72,7 @@ wordml.Save("filepath\\test.html", SaveFormat.Html);
 
 using (Presentation odp = new Presentation()){
 
-	// Acesss the default first slide of presentation
+	// Access the default first slide of presentation
 	ISlide slide = pres.Slides[0];
 
 	// Adding the AutoShape to accomodate the HTML content 
