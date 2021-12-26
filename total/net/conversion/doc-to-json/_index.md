@@ -42,7 +42,7 @@ Using the API, you can also open the password-protected document. If your input 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Convert DOC to JSON in Range via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Convert DOC to JSON in Range via C#" %}}
 While you are converting DOC to JSON, you can also set range to your output JSON format. In order to set the range, you can open the converted HTML using Workbook class, get CellsCollection of the Worksheet containing the data, create a range from CellsCollection by specifying row & column indices, and call ExportRangeToJson method with references to Range & ExportRangeToJsonOptions objects. Finally, you can save the JSON data to file via File.WriteAllText method.
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "3320154ab7b06def2475ce90c7703f13" "convert-word-to-json-range.cs" >}}
