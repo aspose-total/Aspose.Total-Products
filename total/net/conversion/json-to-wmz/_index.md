@@ -1,13 +1,13 @@
 ---
 title: Convert JSON Format to WMZ via .NET 
 description: Parse JSON to WMZ in C# without using third party dependencies
-url: /java/conversion/json-to-wmz/
+url: /net/conversion/json-to-wmz/
 family: total
-platformtag: java
+platformtag: net
 feature: conversion
 informat: JSON
 outformat: WMZ
-otherformats: SVGZ APNG JPEG2000 TGA DICOM IMAGE EMZ DXF PSD WMF
+otherformats: JPEG2000 TGA APNG IMAGE PSD DXF SVGZ DICOM WMF EMZ
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Convert JSON Format to WMZ via C#" h2="C# API to parse JSON to WMZ without using third party dependencies" >}}

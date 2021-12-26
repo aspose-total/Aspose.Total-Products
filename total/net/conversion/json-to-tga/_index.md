@@ -1,13 +1,13 @@
 ---
 title: Convert JSON Format to TGA via .NET 
 description: Parse JSON to TGA in C# without using third party dependencies
-url: /java/conversion/json-to-tga/
+url: /net/conversion/json-to-tga/
 family: total
-platformtag: java
+platformtag: net
 feature: conversion
 informat: JSON
 outformat: TGA
-otherformats: IMAGE APNG DXF PSD WMZ JPEG2000 EMZ SVGZ DICOM WMF
+otherformats: EMZ PSD IMAGE APNG DXF WMZ WMF JPEG2000 SVGZ DICOM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Convert JSON Format to TGA via C#" h2="C# API to parse JSON to TGA without using third party dependencies" >}}

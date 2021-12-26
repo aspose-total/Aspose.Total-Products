@@ -1,13 +1,13 @@
 ---
 title: Convert JSON Format to IMAGE via .NET 
 description: Parse JSON to IMAGE in C# without using third party dependencies
-url: /java/conversion/json-to-image/
+url: /net/conversion/json-to-image/
 family: total
-platformtag: java
+platformtag: net
 feature: conversion
 informat: JSON
 outformat: JPEG2000
-otherformats: DICOM EMZ TGA APNG SVGZ JPEG2000 WMF WMZ PSD DXF
+otherformats: WMZ TGA PSD APNG DICOM SVGZ EMZ JPEG2000 WMF DXF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Convert JSON Format to IMAGE via C#" h2="C# API to parse JSON to IMAGE without using third party dependencies" >}}

@@ -1,13 +1,13 @@
 ---
 title: Convert JSON Format to DXF via .NET 
 description: Parse JSON to DXF in C# without using third party dependencies
-url: /java/conversion/json-to-dxf/
+url: /net/conversion/json-to-dxf/
 family: total
-platformtag: java
+platformtag: net
 feature: conversion
 informat: JSON
 outformat: DXF
-otherformats: APNG WMF WMZ SVGZ TGA JPEG2000 PSD EMZ DICOM IMAGE
+otherformats: JPEG2000 WMZ DICOM SVGZ PSD WMF APNG EMZ IMAGE TGA
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Convert JSON Format to DXF via C#" h2="C# API to parse JSON to DXF without using third party dependencies" >}}

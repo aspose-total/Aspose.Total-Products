@@ -1,13 +1,13 @@
 ---
 title: Convert JSON Format to SVGZ via .NET 
 description: Parse JSON to SVGZ in C# without using third party dependencies
-url: /java/conversion/json-to-svgz/
+url: /net/conversion/json-to-svgz/
 family: total
-platformtag: java
+platformtag: net
 feature: conversion
 informat: JSON
 outformat: SVGZ
-otherformats: IMAGE DICOM TGA WMF WMZ EMZ PSD APNG JPEG2000 DXF
+otherformats: IMAGE WMF DXF TGA APNG PSD WMZ DICOM JPEG2000 EMZ
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Convert JSON Format to SVGZ via C#" h2="C# API to parse JSON to SVGZ without using third party dependencies" >}}

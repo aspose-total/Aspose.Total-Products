@@ -1,13 +1,13 @@
 ---
 title: Convert JSON Format to DICOM via .NET 
 description: Parse JSON to DICOM in C# without using third party dependencies
-url: /java/conversion/json-to-dicom/
+url: /net/conversion/json-to-dicom/
 family: total
-platformtag: java
+platformtag: net
 feature: conversion
 informat: JSON
 outformat: DICOM
-otherformats: APNG DXF WMF TGA SVGZ EMZ IMAGE JPEG2000 PSD WMZ
+otherformats: APNG IMAGE SVGZ TGA WMZ WMF PSD EMZ DXF JPEG2000
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Convert JSON Format to DICOM via C#" h2="C# API to parse JSON to DICOM without using third party dependencies" >}}

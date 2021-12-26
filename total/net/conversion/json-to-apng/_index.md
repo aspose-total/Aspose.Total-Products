@@ -1,13 +1,13 @@
 ---
 title: Convert JSON Format to APNG via .NET 
 description: Parse JSON to APNG in C# without using third party dependencies
-url: /java/conversion/json-to-apng/
+url: /net/conversion/json-to-apng/
 family: total
-platformtag: java
+platformtag: net
 feature: conversion
 informat: JSON
 outformat: APNG
-otherformats: JPEG2000 EMZ PSD WMF WMZ DXF IMAGE SVGZ DICOM TGA
+otherformats: WMZ DICOM PSD JPEG2000 TGA EMZ SVGZ WMF IMAGE DXF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Convert JSON Format to APNG via C#" h2="C# API to parse JSON to APNG without using third party dependencies" >}}

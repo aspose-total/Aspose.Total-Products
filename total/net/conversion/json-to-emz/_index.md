@@ -1,13 +1,13 @@
 ---
 title: Convert JSON Format to EMZ via .NET 
 description: Parse JSON to EMZ in C# without using third party dependencies
-url: /java/conversion/json-to-emz/
+url: /net/conversion/json-to-emz/
 family: total
-platformtag: java
+platformtag: net
 feature: conversion
 informat: JSON
 outformat: EMZ
-otherformats: APNG SVGZ DXF JPEG2000 PSD WMF WMZ TGA DICOM IMAGE
+otherformats: IMAGE TGA SVGZ JPEG2000 APNG DXF WMZ WMF DICOM PSD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Convert JSON Format to EMZ via C#" h2="C# API to parse JSON to EMZ without using third party dependencies" >}}

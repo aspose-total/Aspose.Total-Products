@@ -1,13 +1,13 @@
 ---
 title: Convert JSON Format to WMF via .NET 
 description: Parse JSON to WMF in C# without using third party dependencies
-url: /java/conversion/json-to-wmf/
+url: /net/conversion/json-to-wmf/
 family: total
-platformtag: java
+platformtag: net
 feature: conversion
 informat: JSON
 outformat: WMF
-otherformats: TGA DICOM JPEG2000 WMZ EMZ PSD APNG DXF SVGZ IMAGE
+otherformats: DICOM APNG IMAGE WMZ DXF TGA PSD JPEG2000 SVGZ EMZ
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Convert JSON Format to WMF via C#" h2="C# API to parse JSON to WMF without using third party dependencies" >}}

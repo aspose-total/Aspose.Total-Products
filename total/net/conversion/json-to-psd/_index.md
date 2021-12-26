@@ -1,13 +1,13 @@
 ---
 title: Convert JSON Format to PSD via .NET 
 description: Parse JSON to PSD in C# without using third party dependencies
-url: /java/conversion/json-to-psd/
+url: /net/conversion/json-to-psd/
 family: total
-platformtag: java
+platformtag: net
 feature: conversion
 informat: JSON
 outformat: PSD
-otherformats: SVGZ WMF DICOM DXF IMAGE TGA EMZ APNG WMZ JPEG2000
+otherformats: EMZ WMZ APNG WMF JPEG2000 DXF DICOM IMAGE SVGZ TGA
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Convert JSON Format to PSD via C#" h2="C# API to parse JSON to PSD without using third party dependencies" >}}
