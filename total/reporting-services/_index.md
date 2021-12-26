@@ -13,7 +13,7 @@ description: SQL Server Reporting Services Rendering Extensions for file formats
 {{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/reporting-services" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/reportingservices/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/reportingservices" >}}
 
 {{< blocks/products/pf/total/overview >}}
-Aspose.Total for Reporting Services is a suite of Rendering Extensions for Microsoft SQL Server Reporting Services, allowing developers to easily export RDL reports to Word, Excel, PowerPoint and PDF document formats. You may also enhance the workflow by adding the barcodes to the exported documents.
+Aspose.Total for Reporting Services is a suite of Rendering Extensions for Microsoft SQL Server Reporting Services, allowing developers to easily export RDL reports to Word, Excel, PowerPoint and PDF document formats. You may also enhance the workflow by adding the barcodes to the exported documents.
 {{< /blocks/products/pf/total/overview >}}
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Reporting Services includes the following rendering extensions:" >}}
@@ -31,7 +31,7 @@ Aspose.Cells for Reporting Services allows you to deliver native Excel reports f
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/slides/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-reporting-services.svg" productName="Aspose.Slides for Reporting Services">}}
-Aspose.Slides for Reporting Services is the only solution on the market for generating reports in Microsoft PowerPoint formats from Microsoft SQL Server Reporting Services. RDL report features like tables, matrices, charts and images can be converted with high quality to presentations or slide shows.
+Aspose.Slides for Reporting Services is the only solution on the market for generating reports in Microsoft PowerPoint formats from Microsoft SQL Server Reporting Services. RDL report features like tables, matrices, charts and images can be converted with high quality to presentations or slide shows.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/barcode/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" productName="Aspose.BarCode for Reporting Services">}}
@@ -195,7 +195,7 @@ Aspose.BarCode for Reporting Services is the most comprehensive solution for ren
   Aspose.Total for Reporting Services allows you to export RDL reports to various file formats with great precision. The exported reports have high fidelity, identical to the report design.
  </p>
  <p>
-  On top of it, Aspose.Total for Reporting Service allows you to obtain editable Microsoft Word documents, Microsoft PowerPoint presentations and Microsoft Excel worksheets, all of which are completely identical to the original report.
+  On top of it, Aspose.Total for Reporting Service allows you to obtain editable Microsoft Word documents, Microsoft PowerPoint presentations and Microsoft Excel worksheets, all of which are completely identical to the original report.
  </p>
 </div>
 <div class="col-lg-12">

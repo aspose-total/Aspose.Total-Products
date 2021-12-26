@@ -35,7 +35,7 @@ Aspose.Slides for JasperReports is designed for the developers who need to expor
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/imaging/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" productName="Aspose.Imaging for JasperReports">}}
-Aspose.Imaging for JasperReports provides a flexible solution to export JasperReports to multiple image formats. One can easily generate multipage reports or batch export. In batch mode. each report page will be saved as a separate document.
+Aspose.Imaging for JasperReports provides a flexible solution to export JasperReports to multiple image formats. One can easily generate multipage reports or batch export. In batch mode. each report page will be saved as a separate document.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/barcode/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" productName="Aspose.BarCode for JasperReports">}}
@@ -43,7 +43,7 @@ Aspose.BarCode for JasperReports provides a unique and robust solution to enhanc
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/cad/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg" productName="Aspose.CAD for JasperReports">}}
-Aspose.CAD for JasperReports provides a unique and robust solution to export JasperReports into various CAD and other vector formats. It can easily generate multipage reports or batch export in batch mode. each report page will be saved as a separate document.
+Aspose.CAD for JasperReports provides a unique and robust solution to export JasperReports into various CAD and other vector formats. It can easily generate multipage reports or batch export in batch mode. each report page will be saved as a separate document.
 {{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->

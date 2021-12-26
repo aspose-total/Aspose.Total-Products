@@ -19,7 +19,7 @@ Aspose.Total for C++ is a complete package of C++ File Format Automation librari
 {{< blocks/products/pf/total/products description="Aspose.Total for C++ includes the following C++ libraries:" >}}
 
 {{< blocks/products/pf/total/product-item href="/words/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-cpp.svg" productName="Aspose.Words for C++">}}
-A C++ class library for the programmers to perform a wide range of document parsing tasks directly from within C++ applications. It allows to create, convert & manipulate DOC, DOT, DOCX, DOCM, DOTX, DOTM, RTF, FlatOPC, TXT, ODT & several other popular word processing file formats without any dependencies.
+A C++ class library for the programmers to perform a wide range of document parsing tasks directly from within C++ applications. It allows to create, convert & manipulate DOC, DOT, DOCX, DOCM, DOTX, DOTM, RTF, FlatOPC, TXT, ODT & several other popular word processing file formats without any dependencies.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/pdf/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-cpp.svg" productName="Aspose.PDF for C++">}}
@@ -27,7 +27,7 @@ A C++ PDF library that enables the C++ applications to create, manipulate & rend
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/cells/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productName="Aspose.Cells for C++">}}
-Aspose.Cells for C++ allows the developers to work with Excel file formats within their own C++ applications without requiring Microsoft Excel to be installed. Excel C++ API supports all of the main Microsoft Excel file-formats including XLSX, XLS, XLSM, XLSB, CSV & Tab Delimited and can export all spreadsheet formats to PDF, XPS, HTML & images.
+Aspose.Cells for C++ allows the developers to work with Excel file formats within their own C++ applications without requiring Microsoft Excel to be installed. Excel C++ API supports all of the main Microsoft Excel file-formats including XLSX, XLS, XLSM, XLSB, CSV & Tab Delimited and can export all spreadsheet formats to PDF, XPS, HTML & images.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/email/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productName="Aspose.Email for C++">}}
@@ -35,7 +35,7 @@ Aspose.Email for C++ is a MIME & email library for C++ offering email file & ema
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/slides/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-cpp.svg" productName="Aspose.Slides for C++">}}
-It is a unique PowerPoint presentation & slide management and parsing API that enables C++ applications to read, write and edit presentations & slides in PPT, POT, PPTX, PPS, PPSX, POTX & OPD formats. Developers can create, modify, convert and render presentations without the need of Microsoft PowerPoint.
+It is a unique PowerPoint presentation & slide management and parsing API that enables C++ applications to read, write and edit presentations & slides in PPT, POT, PPTX, PPS, PPSX, POTX & OPD formats. Developers can create, modify, convert and render presentations without the need of Microsoft PowerPoint.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/barcode/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" productName="Aspose.BarCode for C++">}}
@@ -47,7 +47,7 @@ Aspose.Tasks for C++ is Microsoft Project files processing and parsing library. 
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/ocr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productName="Aspose.OCR for C++">}}
-Aspose.OCR for C++ is a native OCR library for extracting text from images having different fonts and styles. Developers can save the time and effort involved in developing an OCR software from scratch. API supports multiple image formats including BMP, JPG and PNG.
+Aspose.OCR for C++ is a native OCR library for extracting text from images having different fonts and styles. Developers can save the time and effort involved in developing an OCR software from scratch. API supports multiple image formats including BMP, JPG and PNG.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/page/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-cpp.svg" productName="Aspose.Page for C++">}}
@@ -70,7 +70,7 @@ Aspose.TeX for C++ is a tex integration and management API to work with tex file
 <h2 class="pr-ft">
  <a class="anchor" id="features" name="features">
  </a>
- Overview of C++ Libraries for Office File Formats
+ Overview of C++ Libraries for Office File Formats
 </h2>
 <div class="col-lg-4">
  <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
@@ -184,7 +184,7 @@ Aspose.TeX for C++ is a tex integration and management API to work with tex file
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Total APIs." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Total APIs." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Stefan Studer | Nowhow Solutions AG, Switzerland" >}}
 The well-documented instruction manual and the robustness of the Aspose.Total components led to a straightforward integration into DOCO. This helped us cut on development time more than anticipated.
 {{< /blocks/products/pf/testimonials-quote >}}

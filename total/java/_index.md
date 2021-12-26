@@ -13,7 +13,7 @@ description: Collection of APIs for Java developers to manipulate files from Wor
 {{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/java" >}}
 
 {{< blocks/products/pf/total/overview >}}
-Aspose.Total for Java is a collection of File Format Automation libraries for Java developers, empowering them to create, update, print, render and convert between multiple file formats from within any Java J2SE, J2EE, J2ME applications.
+Aspose.Total for Java is a collection of File Format Automation libraries for Java developers, empowering them to create, update, print, render and convert between multiple file formats from within any Java J2SE, J2EE, J2ME applications.
 {{< /blocks/products/pf/total/overview >}}
 
 {{< blocks/products/pf/total/products description="Aspose.Words for Java allows the developers to perform a great range of document processing tasks directly within Java applications. It supports most popular word processing formats including DOC, OOXML, RTF, HTML and OpenDocument. With Aspose.Words, you can generate, modify and convert documents without using Microsoft Word." >}}
@@ -43,7 +43,7 @@ Aspose.Imaging for Java is an imaging API that lets developers edit, create, dra
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/barcode/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg" productName="Aspose.BarCode for Java">}}
-Aspose.BarCode for Java API offers adding barcode generation and recognition processes within their Java applications. It supports Java SE, Java EE and Java ME platforms, and a multitude of linear, 2D & postal barcode types.
+Aspose.BarCode for Java API offers adding barcode generation and recognition processes within their Java applications. It supports Java SE, Java EE and Java ME platforms, and a multitude of linear, 2D & postal barcode types.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/diagram/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" productName="Aspose.Diagram for Java">}}
@@ -55,7 +55,7 @@ Aspose.Tasks for Java is a project management API that enables Java application 
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/ocr/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productName="Aspose.OCR for Java">}}
-Aspose.OCR for Java is an optical character recognition Java API allowing programmers to add OCR technology to Java applications quickly and easily. API offers set of classes for recognizing characters from multiple image formats.
+Aspose.OCR for Java is an optical character recognition Java API allowing programmers to add OCR technology to Java applications quickly and easily. API offers set of classes for recognizing characters from multiple image formats.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/note/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/note/aspose_note-for-java.svg" productName="Aspose.Note for Java">}}
@@ -63,7 +63,7 @@ Aspose.Note for Java API enables Java-based software to deal with Microsoft OneN
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/cad/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg" productName="Aspose.CAD for Java">}}
-Aspose.CAD for Java offers to convert AutoCAD DXF and DWG drawing files to PDF and raster images. Being a native API, it does not require AutoCAD or any software to be necessary.
+Aspose.CAD for Java offers to convert AutoCAD DXF and DWG drawing files to PDF and raster images. Being a native API, it does not require AutoCAD or any software to be necessary.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/3d/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg" productName="Aspose.3D for Java">}}
@@ -95,7 +95,7 @@ Aspose.Font for Java is a font loading and drawing API having support of multipl
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/tex/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-java.svg" productName="Aspose.TeX for Java">}}
-Aspose.TeX for Java is a TeX files typesetting API. It can easily typeset TeX files to get documents in various formats like XPS, PDF, PNG, JPEG, TIFF and BMP. It also features custom TeX formats creation.
+Aspose.TeX for Java is a TeX files typesetting API. It can easily typeset TeX files to get documents in various formats like XPS, PDF, PNG, JPEG, TIFF and BMP. It also features custom TeX formats creation.
 {{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->
@@ -236,7 +236,7 @@ Aspose.TeX for Java is a TeX files typesetting API. It can easily typeset TeX f
   Packed with Utility Functions
  </h2>
  <p>
-  Aspose.Total for Java is a set of handy utility APIs allowing one to add OCR and barcode functionalities to Java applications, create &amp; consume recurrence patterns and utilize network protocols including SMTP, POP3, IMAP, MIME,  DNS, FTP, ICMP, and WHOIS.
+  Aspose.Total for Java is a set of handy utility APIs allowing one to add OCR and barcode functionalities to Java applications, create &amp; consume recurrence patterns and utilize network protocols including SMTP, POP3, IMAP, MIME,  DNS, FTP, ICMP, and WHOIS.
  </p>
 </div>
 <div class="col-lg-12">
@@ -254,7 +254,7 @@ Aspose.TeX for Java is a TeX files typesetting API. It can easily typeset TeX f
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Total APIs." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Total APIs." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brazil" >}}
 During our implementation, we could sense that we touched only a fraction of what Apose.Total is capable of. The API’s ease of use give the developers satisfaction for “getting work done” with it’s simple and clean code, and the end product’s robustness makes our customers happy.
 {{< /blocks/products/pf/testimonials-quote >}}

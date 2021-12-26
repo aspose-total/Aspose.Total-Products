@@ -1,7 +1,7 @@
 ---
 title: Convert FLATOPC to PPS via C# .NET 
 url: /net/conversion/flatopc-to-pps/ 
-description: Use source code to convert Word flatopc documents to PowerPoint pps files with C#. Convert multiple files within ASP.NET or other .NET applications.
+description: Convert Word flatopc documents to PowerPoint pps files with C#. Convert multiple files within ASP.NET or other .NET applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -72,7 +72,7 @@ flatopc.Save("filepath\\test.html", SaveFormat.Html);
 
 using (Presentation pps = new Presentation()){
 
-	// Acesss the default first slide of presentation
+	// Access the default first slide of presentation
 	ISlide slide = pres.Slides[0];
 
 	// Adding the AutoShape to accomodate the HTML content 
@@ -120,19 +120,7 @@ Aspose.Total for .NET is complete package of document Manipulation APIs. APIs ar
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="FLATOPC" readMoreLink="https://docs.fileformat.com/web/xml/" >}}
-Office Open XML WordprocessingML stored in a flat XML file instead of a ZIP package.
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PPS" readMoreLink="https://docs.fileformat.com/web/xml/" >}}
-Office Open XML WordprocessingML stored in a flat XML file instead of a ZIP package.
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
+    
 
 {{< /blocks/products/pf/agp/demobox >}}
 
