@@ -13,7 +13,7 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 {{< blocks/products/pf/feature-page-header h1="Convert PPS to JSON Format via Java" h2="On Premise Java API to export PPS to JSON without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Converting PPS to JSON format via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By [Aspose.Slides for Java](https://products.aspose.com/slides/java/), you can export PPS to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to JSON.
+Converting PPS to JSON format via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. In the first step you can export PPS to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to JSON.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -36,7 +36,7 @@ Alternatively, you can get a ZIP file from [downloads](https://downloads.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert Protected PPS to JSON Format via Java" %}}
-Using the API, you can also open the password-protected document. If your input PPS document is password protected, you cannot convert it to JSON format without using the password. The API allows you to open the encrypted document by passing the correct password in a LoadOptions object. The following code example shows how to try opening an encrypted document with a password:
+Using the API, you can also open the password-protected document. If your input PPS document is password protected, you cannot convert it to JSON format without using the password. The API allows you to open the encrypted document by passing the correct password in a LoadOptions object.
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "de2e3326ba6b04e5bcfea349e873be2b" "convert-protected-powerpoint-to-json.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
