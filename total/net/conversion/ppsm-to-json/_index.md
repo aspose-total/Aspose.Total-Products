@@ -36,7 +36,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert Protected PPSM to JSON Format via C#" %}}
-Using the API, you can also open the password-protected document. If your input PPSM document is password protected, you cannot convert it to JSON format without using the password. The API allows you to open the encrypted document by passing the correct password in a LoadOptions object. The following code example shows how to try opening an encrypted document with a password:
+Using the API, you can also open the password-protected document. If your input PPSM document is password protected, you cannot convert it to JSON format without using the password. The API allows you to open the encrypted document by passing the correct password in a LoadOptions object. The following code example shows how to open an encrypted document with a password.
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "da55916905648dbb8430fcb52dc2e47f" "convert-protected-powerpoint-to-json.cs" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
