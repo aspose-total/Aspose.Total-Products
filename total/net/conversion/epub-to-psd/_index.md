@@ -1,6 +1,6 @@
 ---
 title: Convert EPUB to PSD via C# API
-description: Convert EPUB to PSD in your .NET applications without using any third party application 
+description: Export EPUB to PSD in your .NET applications without using any third party application 
 url: /net/conversion/epub-to-psd/
 family: total
 platformtag: net
@@ -10,10 +10,10 @@ outformat: PSD
 otherformats: WMZ DICOM SVGZ IMAGE EMZ DXF WMF JPEG2000 APNG TGA
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert EPUB to PSD via C#" h2="Convert EPUB to PSD within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert EPUB to PSD via C#" h2="Export EPUB to PSD within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert EPUB to PSD within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export EPUB to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to PSD. 
+Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export EPUB to PSD within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export EPUB to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to PSD. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -36,7 +36,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert EPUB to PSD in a Single File via C#" %}}
-Using the API, you can also convert EPUB to PSD to a single file. In order to convert all pages, you can first render your EPUB document to one TIFF file and after that you can convert your TIFF file to PSD. You can open the input file using [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) class and create Resolution, TiffSettings, & TIFF device objects. You can get a single TIFF image using [Process](https://apireference.aspose.com/pdf/net/aspose.pdf.devices.documentdevice/process/methods/3) method of [TiffDevice](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice) class. Finally, you can load TIFF file using [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) class 
+Using the API, you can also convert EPUB to PSD to a single file. In order to convert all pages, you can first render your EPUB document to one TIFF file and after that you can export TIFF file to PSD. You can open the input file using [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) class and create Resolution, TiffSettings, & TIFF device objects. You can get a single TIFF image using [Process](https://apireference.aspose.com/pdf/net/aspose.pdf.devices.documentdevice/process/methods/3) method of [TiffDevice](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice) class. Finally, you can load TIFF file using [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) class 
 and save it to PSD format using [Save](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) method.
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-single-file.cs" >}}

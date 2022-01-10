@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to DXF via C# API
-description: Convert MHTML to DXF in your .NET applications without using any third party application 
+description: Export MHTML to DXF in your .NET applications without using any third party application 
 url: /net/conversion/mhtml-to-dxf/
 family: total
 platformtag: net
@@ -10,10 +10,10 @@ outformat: DXF
 otherformats: SVGZ EMZ DICOM APNG WMF WMZ PSD IMAGE TGA JPEG2000
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert MHTML to DXF via C#" h2="Convert MHTML to DXF within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert MHTML to DXF via C#" h2="Export MHTML to DXF within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert MHTML to DXF within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export MHTML to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to DXF. 
+Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export MHTML to DXF within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export MHTML to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to DXF. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -36,7 +36,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert MHTML to DXF in a Single File via C#" %}}
-Using the API, you can also convert MHTML to DXF to a single file. In order to convert all pages, you can first render your MHTML document to one TIFF file and after that you can convert your TIFF file to DXF. You can open the input file using [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) class and create Resolution, TiffSettings, & TIFF device objects. You can get a single TIFF image using [Process](https://apireference.aspose.com/pdf/net/aspose.pdf.devices.documentdevice/process/methods/3) method of [TiffDevice](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice) class. Finally, you can load TIFF file using [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) class 
+Using the API, you can also convert MHTML to DXF to a single file. In order to convert all pages, you can first render your MHTML document to one TIFF file and after that you can export TIFF file to DXF. You can open the input file using [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) class and create Resolution, TiffSettings, & TIFF device objects. You can get a single TIFF image using [Process](https://apireference.aspose.com/pdf/net/aspose.pdf.devices.documentdevice/process/methods/3) method of [TiffDevice](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice) class. Finally, you can load TIFF file using [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) class 
 and save it to DXF format using [Save](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) method.
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-single-file.cs" >}}
