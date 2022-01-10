@@ -17,7 +17,7 @@ You can convert DOTX to JSON format in your Android Applications via [Aspose.Tot
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Convert DOTX to JSON Format in Android Applications" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Convert DOTX to JSON Format in Android" %}}
 1. Open DOTX file using [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) class
 2. Convert DOTX to HTML by using [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 3. Load HTML document by using [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) class
@@ -36,7 +36,7 @@ Alternatively, you can get a ZIP file from [downloads](https://downloads.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert Protected DOTX to JSON Format in Android via Java" %}}
-Using the API, you can also open the password-protected document. If your input DOTX document is password protected, you cannot convert it to JSON format without using the password. The API allows you to open the encrypted document by passing the correct password in a LoadOptions object. The following code example shows how to try opening an encrypted document with a password:
+Using the API, you can also open the password-protected document. If your input DOTX document is password protected, you cannot convert it to JSON format without using the password. The API allows you to open the encrypted document by passing the correct password in a LoadOptions object. The following code example shows how open an encrypted document with a password.
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "aa0de5f99dc2a07e32a776a548eac3fa" "convert-protected-word-to-json.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
