@@ -1,6 +1,6 @@
 ---
 title: Java API to Render PS to ODS
-description: Transform PS to ODS via Java API without using Microsoft Excel or Adobe Reader
+description: Export PS to ODS via Java API without using Microsoft Excel or Adobe Reader
 url: /java/conversion/ps-to-ods/
 family: total
 platformtag: java
@@ -10,14 +10,14 @@ outformat: ODS
 otherformats: CSV EXCEL XLTM XLTX TXT DIF XLSB XLSM XLT MD FODS SXC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java API to Transform PS to ODS" h2="Convert PS to ODS by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
+{{< blocks/products/pf/feature-page-header h1="Export PS to ODS via Java" h2="Convert PS file to ODS by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate PS to ODS conversion feature in your Java applications in two step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render PS to XLSX. In the second step, you can convert XLSX to ODS by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
+By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate PS to ODS conversion feature in your Java applications in two-step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render PS to XLSX. In the second step, you can convert XLSX to ODS by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Java API to Convert PS to ODS" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Convert PS File to ODS via Java" %}}
 1. Open PS file using [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) class
 2. Convert PS to XLSX by using [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method
 3. Load XLSX document by using [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) class
@@ -33,17 +33,17 @@ You can easily use Aspose.Total for Java directly from a [Maven](https://reposit
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Open Encrypted PS File via Java" %}}
-While loading PS file format, your document might be password protected. [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) allows you open encrypted documents as well. In order to open the encrypted file, you can initialize new instance of the  [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-) class and pass filename and password as arguments. 
+{{% blocks/products/pf/feature-page-section  h2="Convert Protected PS to ODS via Java" %}}
+If your PS document is password protected, you cannot convert it to ODS without the password. Using the API, you can first open the protected document using a valid password and convert it after it. In order to open the encrypted file, you can initialize a new instance of the  [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-) class and pass filename and password as arguments. 
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "d25bc6acc71106757fdc028e2cdd660b" "open-encrypted-pdf.java" >}}
+{{< gist "aspose-com-gists" "d25bc6acc71106757fdc028e2cdd660b" "convert-protected-pdf-to-excel.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Protect & Un-Protect ODS Document via Java" %}}
-  [Aspose.Cells for Java](https://products.aspose.com/cells/java/) supports protecting and un-protecting your ODS file depending upon your needs. In order to protect and un protect your document you can use [protectSharedWorkbook](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) and [protectSharedWorkbook](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) methods of [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) class. 
+{{% blocks/products/pf/feature-page-section  h2="Convert PS File to ODS with Watermark via Java" %}}
+While converting PS file to ODS, you can also add watermark to your output ODS file format. In order to add a watermark, create a new Workbook to open the converted XLSX file. Select Worksheet via its index, create a Shape and use its addTextEffect function, set colors, transparency and more. After that you can save your XLSX document as ODS with Watermark.  
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "d25bc6acc71106757fdc028e2cdd660b" "protect-unprotect-csv.java" >}}
+{{< gist "aspose-com-gists" "d25bc6acc71106757fdc028e2cdd660b" "convert-pdf-to-excel-with-watermark.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
