@@ -1,6 +1,6 @@
 ---
 title: Convert XSLFO to XLSB via C# API
-description: C# API to Convert XSLFO to XLSB without using Microsoft Excel or Adobe Reader
+description: C# API to Convert XSLFO File to XLSB without using Microsoft Excel or Adobe Reader
 url: /net/conversion/xslfo-to-xlsb/
 family: total
 platformtag: net
@@ -10,10 +10,10 @@ outformat: XLSB
 otherformats: XLAM MD SXC XLTX TXT FODS EXCEL XLTM XLSM DIF TSV ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# API to Render XSLFO to XLSB" h2="Transform XSLFO to XLSB via C# without using Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
+{{< blocks/products/pf/feature-page-header h1="C# API to Render XSLFO to XLSB" h2="Export XSLFO File to XLSB via C# without using Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert XSLFO to XLSB within any .NET, C#, ASP.NET and VB.NET applications. Firstly, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export XSLFO to XLSX. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert XLSX to XLSB. 
+Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert XSLFO file to XLSB within any .NET, C#, ASP.NET and VB.NET applications. Firstly, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export XSLFO to XLSX. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert XLSX to XLSB. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -35,17 +35,17 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Open Password Protected XSLFO File via C#" %}}
-[Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) also allows you to open password protected XSLFO document. In order to open the encrypted file, you can initialize new instance of the  [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) class and pass filename and password as arguments. 
+{{% blocks/products/pf/feature-page-section  h2="Convert Protected XSLFO to XLSB via C#" %}}
+If your XSLFO document is password protected, you cannot convert it to XLSB without the password. Using the API, you can first open the protected document using a valid password and convert it after it.  In order to open the encrypted file, you can initialize a new instance of the [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) class and pass the filename and password as arguments. 
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "open-password-protected-pdf-document.cs" >}}
+{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-password-protected-pdf-to-excel.cs" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Encrypt XLSB File Format via C#" %}}
-After converting XSLFO to XLSB, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) enables you to encrypt and password protect your XLSB documents. In order to encrypt your document, open it using [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) class and specify XOR Encryption Type and Strong Encryption type (RC4,Microsoft Strong Cryptographic Provider) encryption by using [SetEncryptionOptions](https://apireference.aspose.com/cells/net/aspose.cells/workbook/methods/setencryptionoptions) method. You can also set password to your XLSB by using [Password](https://apireference.aspose.com/cells/net/aspose.cells/workbooksettings/properties/password) property of [WorkbookSettings](https://apireference.aspose.com/cells/net/aspose.cells/workbooksettings) class.
+{{% blocks/products/pf/feature-page-section  h2="Convert XSLFO File to XLSB with Watermark via C#" %}}
+While converting XSLFO file to XLSB, you can also add watermark to your output XLSB file format. In order to add a watermark, you can create a new Workbook object and open the converted XLSX document, select Worksheet via its index, create a Shape and use its AddTextEffect function. After that you can save your XLSX document as XLSB with Watermark. 
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "encrypt-csv-fileformat.cs" >}}
+{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-pdf-to-excel-with-watermark.cs" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

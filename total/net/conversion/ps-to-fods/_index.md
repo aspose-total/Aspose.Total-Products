@@ -1,6 +1,6 @@
 ---
 title: Convert PS to FODS via C# API
-description: C# API to Convert PS to FODS without using Microsoft Excel or Adobe Reader
+description: C# API to Convert PS File to FODS without using Microsoft Excel or Adobe Reader
 url: /net/conversion/ps-to-fods/
 family: total
 platformtag: net
@@ -10,10 +10,10 @@ outformat: FODS
 otherformats: XLTX XLSB XLSM SXC CSV TSV DIF XLTM MD XLAM EXCEL ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# API to Render PS to FODS" h2="Transform PS to FODS via C# without using Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
+{{< blocks/products/pf/feature-page-header h1="C# API to Render PS to FODS" h2="Export PS File to FODS via C# without using Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert PS to FODS within any .NET, C#, ASP.NET and VB.NET applications. Firstly, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export PS to XLSX. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert XLSX to FODS. 
+Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert PS file to FODS within any .NET, C#, ASP.NET and VB.NET applications. Firstly, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export PS to XLSX. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert XLSX to FODS. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -35,17 +35,17 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Open Password Protected PS File via C#" %}}
-[Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) also allows you to open password protected PS document. In order to open the encrypted file, you can initialize new instance of the  [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) class and pass filename and password as arguments. 
+{{% blocks/products/pf/feature-page-section  h2="Convert Protected PS to FODS via C#" %}}
+If your PS document is password protected, you cannot convert it to FODS without the password. Using the API, you can first open the protected document using a valid password and convert it after it.  In order to open the encrypted file, you can initialize a new instance of the [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) class and pass the filename and password as arguments. 
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "open-password-protected-pdf-document.cs" >}}
+{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-password-protected-pdf-to-excel.cs" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Encrypt FODS File Format via C#" %}}
-After converting PS to FODS, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) enables you to encrypt and password protect your FODS documents. In order to encrypt your document, open it using [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) class and specify XOR Encryption Type and Strong Encryption type (RC4,Microsoft Strong Cryptographic Provider) encryption by using [SetEncryptionOptions](https://apireference.aspose.com/cells/net/aspose.cells/workbook/methods/setencryptionoptions) method. You can also set password to your FODS by using [Password](https://apireference.aspose.com/cells/net/aspose.cells/workbooksettings/properties/password) property of [WorkbookSettings](https://apireference.aspose.com/cells/net/aspose.cells/workbooksettings) class.
+{{% blocks/products/pf/feature-page-section  h2="Convert PS File to FODS with Watermark via C#" %}}
+While converting PS file to FODS, you can also add watermark to your output FODS file format. In order to add a watermark, you can create a new Workbook object and open the converted XLSX document, select Worksheet via its index, create a Shape and use its AddTextEffect function. After that you can save your XLSX document as FODS with Watermark. 
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "encrypt-csv-fileformat.cs" >}}
+{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-pdf-to-excel-with-watermark.cs" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
