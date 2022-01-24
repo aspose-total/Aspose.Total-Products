@@ -7,7 +7,7 @@ platformtag: java
 feature: conversion
 informat: PPTX
 outformat: RTF
-otherformats: FLATOPC WORD DOCM DOC WORDML DOTX OTT TEXT DOCX DOTM DOT ODT
+otherformats: WORDML DOC FLATOPC OTT WORD DOTX DOCM DOTM DOCX DOT TEXT ODT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Convert POWERPOINT to RTF via Java" h2="On Premise Java API for PowerPoint POWERPOINT to RTF conversion within any Java J2SE, J2EE, J2ME applications" >}}
@@ -34,6 +34,13 @@ Alternatively, you can get a ZIP file from [downloads](https://downloads.aspose.
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Convert Protected POWERPOINT to RTF via Java" %}}
+The API also allows you to perform POWERPOINT to RTF conversion of password protected documents. If your input POWERPOINT document is password protected, you cannot convert it to RTF format without using the password. The API allows you to open the encrypted document by passing the correct password in a LoadOptions object.
+{{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert POWERPOINT to RTF with Watermark via Java" %}}
 Using the API, you can also perform POWERPOINT file to RTF conversion with watermark. In order to add a watermark to your RTF document, you can first convert the POWERPOINT  file to HTML and add a watermark to it. In order to add a watermark, load the newly created HTML file using the [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) class, create an instance of TextWatermarkOptions and set its properties, Call Watermark.setText method and pass watermark text & object of TextWatermarkOptions.

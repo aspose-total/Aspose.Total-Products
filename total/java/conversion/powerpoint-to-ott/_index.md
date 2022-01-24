@@ -7,7 +7,7 @@ platformtag: java
 feature: conversion
 informat: PPTX
 outformat: OTT
-otherformats: DOTX WORD DOT DOCM TEXT ODT DOCX WORDML RTF DOTM FLATOPC DOC
+otherformats: DOTX ODT WORDML DOT DOTM WORD RTF DOCM DOC TEXT FLATOPC DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Convert POWERPOINT to OTT via Java" h2="On Premise Java API for PowerPoint POWERPOINT to OTT conversion within any Java J2SE, J2EE, J2ME applications" >}}
@@ -34,6 +34,13 @@ Alternatively, you can get a ZIP file from [downloads](https://downloads.aspose.
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Convert Protected POWERPOINT to OTT via Java" %}}
+The API also allows you to perform POWERPOINT to OTT conversion of password protected documents. If your input POWERPOINT document is password protected, you cannot convert it to OTT format without using the password. The API allows you to open the encrypted document by passing the correct password in a LoadOptions object.
+{{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert POWERPOINT to OTT with Watermark via Java" %}}
 Using the API, you can also perform POWERPOINT file to OTT conversion with watermark. In order to add a watermark to your OTT document, you can first convert the POWERPOINT  file to HTML and add a watermark to it. In order to add a watermark, load the newly created HTML file using the [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) class, create an instance of TextWatermarkOptions and set its properties, Call Watermark.setText method and pass watermark text & object of TextWatermarkOptions.
