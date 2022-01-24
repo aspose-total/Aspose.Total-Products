@@ -7,7 +7,7 @@ platformtag: java
 feature: conversion
 informat: PPTX
 outformat: ODT
-otherformats: DOCX OTT TEXT DOC DOT DOTX DOCM WORD FLATOPC WORDML RTF DOTM
+otherformats: WORDML OTT DOCX DOTX DOCM FLATOPC TEXT DOTM RTF WORD DOC DOT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Convert PPTX to ODT via Java" h2="On Premise Java API for PowerPoint PPTX to ODT conversion within any Java J2SE, J2EE, J2ME applications" >}}
@@ -35,21 +35,12 @@ Alternatively, you can get a ZIP file from [downloads](https://downloads.aspose.
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Convert Protected PPTX to ODT via Java" %}}
-The API also allows you to perform PPTX to ODT conversion of password protected documents. If your input PPTX document is password protected, you cannot convert it to ODT format without using the password. The API allows you to open the encrypted document by passing the correct password in a LoadOptions object.
-{{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-
 {{% blocks/products/pf/feature-page-section  h2="Convert PPTX to ODT with Watermark via Java" %}}
 Using the API, you can also perform PPTX file to ODT conversion with watermark. In order to add a watermark to your ODT document, you can first convert the PPTX  file to HTML and add a watermark to it. In order to add a watermark, load the newly created HTML file using the [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) class, create an instance of TextWatermarkOptions and set its properties, Call Watermark.setText method and pass watermark text & object of TextWatermarkOptions.
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-
-
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/other-supported-autogen >}}

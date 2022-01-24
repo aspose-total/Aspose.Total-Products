@@ -38,7 +38,7 @@ Alternatively, you can get a ZIP file from [downloads](https://downloads.aspose.
 {{% blocks/products/pf/feature-page-section  h2="Convert PPSX to WORDML with Watermark via Java" %}}
 Using the API, you can also perform PPSX file to WORDML conversion with watermark. In order to add a watermark to your WORDML document, you can first convert the PPSX  file to HTML and add a watermark to it. In order to add a watermark, load the newly created HTML file using the [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) class, create an instance of TextWatermarkOptions and set its properties, Call Watermark.setText method and pass watermark text & object of TextWatermarkOptions.
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
