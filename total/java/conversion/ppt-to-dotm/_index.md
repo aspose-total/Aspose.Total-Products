@@ -7,7 +7,7 @@ platformtag: java
 feature: conversion
 informat: PPT
 outformat: DOTM
-otherformats: RTF ODT DOCX OTT DOC WORDML TEXT DOTX DOCM FLATOPC DOT WORD
+otherformats: FLATOPC WORD DOCM DOCX WORDML DOC RTF DOT ODT DOTX OTT TEXT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Convert PPT to DOTM via Java" h2="On Premise Java API for PowerPoint PPT to DOTM conversion within any Java J2SE, J2EE, J2ME applications" >}}
@@ -35,12 +35,21 @@ Alternatively, you can get a ZIP file from [downloads](https://downloads.aspose.
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
+{{% blocks/products/pf/feature-page-section  h2="Convert Protected PPT to DOTM via Java" %}}
+The API also allows you to perform PPT to DOTM conversion of password protected documents. If your input PPT document is password protected, you cannot convert it to DOTM format without using the password. The API allows you to open the encrypted document by passing the correct password in a LoadOptions object.
+{{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
 {{% blocks/products/pf/feature-page-section  h2="Convert PPT to DOTM with Watermark via Java" %}}
 Using the API, you can also perform PPT file to DOTM conversion with watermark. In order to add a watermark to your DOTM document, you can first convert the PPT  file to HTML and add a watermark to it. In order to add a watermark, load the newly created HTML file using the [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) class, create an instance of TextWatermarkOptions and set its properties, Call Watermark.setText method and pass watermark text & object of TextWatermarkOptions.
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.cs" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
+
+
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/other-supported-autogen >}}
