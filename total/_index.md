@@ -9,7 +9,7 @@ description: Build document manipulation applications using On Premise or Cloud 
 {{< blocks/products/pf/upper-banner h1="Complete Set of File Format Manipulation Solutions" h2="Aspose.Total provide the most complete and efficient set of document processing solution without any other software installation and dependencies." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Total On Premise APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Total High Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/net/" >}}
 On Premise .NET APIs to manipulate multiple document formats within Windows, Web, iOS & Android based applications.
@@ -23,11 +23,11 @@ Java-based platform APIs to create, modify, render or parse Microsoft Word files
 Create, load, manipulate, or convert different document formats and images within pure C++ applications using native C++ library.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/total/family/" innerText="View All On Premise APIs" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/total/family/" innerText="View All High Code APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.Total Cloud APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Total Low Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
 Manipulate and process Microsoft Word files via REST API call from any device.
@@ -41,11 +41,11 @@ PDF REST APIs to create, render, split & convert PDF documents with ease.
 Aspose.Cells Cloud APIs to develop spreadsheet manipulation Apps supporting multiple Microsoft Excel formats.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.cloud/total/" innerText="View All Cloud APIs" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.cloud/total/" innerText="View All Low Code APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.Total Cross Platform Apps Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Total No Code Apps Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total " title="Merger" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_merger-app.png" productLink="https://products.aspose.app/total/merger" >}}
 Easily combine multiple files together. Online merge documents in order of your need.
@@ -59,7 +59,7 @@ Easily compress documents while preserving the original quality.
 Freely convert 100+ formats to other documents online.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/total/family" innerText="View All Cross Platform Apps" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/total/family" innerText="View All No Code Apps" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
