@@ -13,7 +13,7 @@ otherformats: XLSB MHTML XLSM SXC FODS TSV CSV XLS XLAM XLTM XLTX EXCEL XLSX MAR
 {{< blocks/products/pf/feature-page-header h1="Convert PPTM to DIF via Java" h2="On Premise Java API to export PPTM to DIF without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Converting PPTM to DIF via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. In the first step you can export PPTM to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to DIF.
+You can convert PPTM file to DIF via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export PPTM to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to DIF.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,7 @@ otherformats: XLS FODS XLSM XLTX SXC XLSX EXCEL TSV XLTM XLSB XLAM CSV MARKDOWN 
 {{< blocks/products/pf/feature-page-header h1="Convert POWERPOINT to DIF via Java" h2="On Premise Java API to export POWERPOINT to DIF without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Converting POWERPOINT to DIF via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. In the first step you can export POWERPOINT to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to DIF.
+You can convert POWERPOINT file to DIF via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export POWERPOINT to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to DIF.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

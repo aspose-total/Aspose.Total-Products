@@ -13,7 +13,7 @@ otherformats: CSV TSV SXC XLS FODS EXCEL MHTML XLTM XLT DIF MARKDOWN XLAM XLSB O
 {{< blocks/products/pf/feature-page-header h1="Convert POTX to XLSM via Java" h2="On Premise Java API to export POTX to XLSM without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Converting POTX to XLSM via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. In the first step you can export POTX to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLSM.
+You can convert POTX file to XLSM via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export POTX to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLSM.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,7 @@ otherformats: DIF ODS XLS SXC XLSB EXCEL CSV XLAM XLSM XLT XLSX MHTML XLTM FODS 
 {{< blocks/products/pf/feature-page-header h1="Convert PPSM to TSV via Java" h2="On Premise Java API to export PPSM to TSV without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Converting PPSM to TSV via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. In the first step you can export PPSM to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to TSV.
+You can convert PPSM file to TSV via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export PPSM to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to TSV.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

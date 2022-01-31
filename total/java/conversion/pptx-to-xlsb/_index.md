@@ -13,7 +13,7 @@ otherformats: MARKDOWN XLSM EXCEL XLAM XLT CSV XLTX XLS DIF XLSX MHTML SXC TSV F
 {{< blocks/products/pf/feature-page-header h1="Convert PPTX to XLSB via Java" h2="On Premise Java API to export PPTX to XLSB without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Converting PPTX to XLSB via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. In the first step you can export PPTX to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLSB.
+You can convert PPTX file to XLSB via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export PPTX to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLSB.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

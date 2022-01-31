@@ -13,7 +13,7 @@ otherformats: EXCEL XLTM XLSM XLAM XLSB FODS CSV XLTX XLSX MARKDOWN DIF SXC ODS 
 {{< blocks/products/pf/feature-page-header h1="Convert PPT to XLS via Java" h2="On Premise Java API to export PPT to XLS without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Converting PPT to XLS via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. In the first step you can export PPT to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLS.
+You can convert PPT file to XLS via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export PPT to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLS.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

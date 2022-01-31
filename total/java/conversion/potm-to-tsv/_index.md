@@ -13,7 +13,7 @@ otherformats: XLTX XLT DIF SXC XLSB XLS FODS CSV EXCEL XLAM MARKDOWN XLTM MHTML 
 {{< blocks/products/pf/feature-page-header h1="Convert POTM to TSV via Java" h2="On Premise Java API to export POTM to TSV without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Converting POTM to TSV via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. In the first step you can export POTM to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to TSV.
+You can convert POTM file to TSV via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export POTM to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to TSV.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

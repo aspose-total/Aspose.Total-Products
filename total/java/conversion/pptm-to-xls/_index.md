@@ -13,7 +13,7 @@ otherformats: MHTML FODS XLSX DIF XLTX EXCEL XLAM XLSB XLSM XLTM MARKDOWN TSV CS
 {{< blocks/products/pf/feature-page-header h1="Convert PPTM to XLS via Java" h2="On Premise Java API to export PPTM to XLS without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Converting PPTM to XLS via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. In the first step you can export PPTM to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLS.
+You can convert PPTM file to XLS via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export PPTM to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLS.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

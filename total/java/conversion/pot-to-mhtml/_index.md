@@ -13,7 +13,7 @@ otherformats: XLSX SXC FODS XLAM DIF CSV XLTM XLSB MARKDOWN XLS XLTX XLT XLSM OD
 {{< blocks/products/pf/feature-page-header h1="Convert POT to MHTML via Java" h2="On Premise Java API to export POT to MHTML without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Converting POT to MHTML via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. In the first step you can export POT to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to MHTML.
+You can convert POT file to MHTML via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export POT to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to MHTML.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

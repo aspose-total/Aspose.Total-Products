@@ -13,7 +13,7 @@ otherformats: TSV XLAM EXCEL FODS ODS XLS DIF XLTM XLSX SXC MHTML MARKDOWN XLTX 
 {{< blocks/products/pf/feature-page-header h1="Convert POTX to XLT via Java" h2="On Premise Java API to export POTX to XLT without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Converting POTX to XLT via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. In the first step you can export POTX to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLT.
+You can convert POTX file to XLT via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export POTX to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLT.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

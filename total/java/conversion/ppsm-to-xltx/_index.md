@@ -13,7 +13,7 @@ otherformats: MARKDOWN SXC EXCEL XLAM FODS XLT ODS CSV TSV XLS XLTM XLSX MHTML D
 {{< blocks/products/pf/feature-page-header h1="Convert PPSM to XLTX via Java" h2="On Premise Java API to export PPSM to XLTX without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Converting PPSM to XLTX via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. In the first step you can export PPSM to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLTX.
+You can convert PPSM file to XLTX via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export PPSM to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLTX.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
