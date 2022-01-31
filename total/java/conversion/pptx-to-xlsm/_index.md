@@ -45,7 +45,7 @@ Using the API, you can also open the password-protected document. If your input 
 {{% blocks/products/pf/feature-page-section  h2="Convert PPTX File to XLSM with Watermark via Java" %}}
 While converting PPTX file to XLSM, you can also add watermark to your output XLSM file format. In order to add a watermark, create a new Workbook to open the converted HTML file. Select Worksheet via its index, create a Shape and use its addTextEffect function, set colors, transparency and more. After that you can save your HTML document as XLSM with Watermark.  
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
