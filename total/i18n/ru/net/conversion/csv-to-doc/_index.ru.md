@@ -1,7 +1,7 @@
 ---
 title: Преобразование CSV в DOC с помощью .NET 
 description: Преобразование CSV в DOC на платформах .NET Framework, .NET Core, Mono или Xamarin
-url: /total/ru/net/conversion/csv-to-doc/
+url: /ru/net/conversion/csv-to-doc/
 family: total
 platformtag: net
 feature: conversion
