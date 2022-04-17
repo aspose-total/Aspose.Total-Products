@@ -33,13 +33,13 @@ otherformats: PCL JPEG SVG OTT PNG GIF MD DOTM TIFF DOTX DOCX WORDML XPS DOCM TE
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-// load the EML file to be converted
+
 MailMessage message = MailMessage.Load("sourceFile.msg");
-// save EML as a HTML 
+ 
 message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
-// load HTML with an instance of Document
+
 Document document = new Document("HtmlOutput.html");
-// call save method while passing SaveFormat.Rtf
+
 document.Save("output.rtf", SaveFormat.Rtf); 
 ```
 {{% /blocks/products/pf/feature-page-code %}}
@@ -50,11 +50,11 @@ document.Save("output.rtf", SaveFormat.Rtf);
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-// instantiate MapiMessage to load an MSG file from disk
+
 var outlookMessageFile = MapiMessage.FromFile("message.msg");
-// check for SenderName 
+ 
 if(outlookMessageFile.SenderName == "John"){
-    //proceed with conversion process
+    
 }
 ```
 {{% /blocks/products/pf/feature-page-code  %}}
@@ -65,11 +65,11 @@ if(outlookMessageFile.SenderName == "John"){
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-// load HTML with an instance of Document
+
 Document document = new Document("HtmlOutput.html");
-// apply document protection and set protection password
-doc.Protect(ProtectionType.ReadOnly, "password");
-// call save method while passing SaveFormat.Rtf
+
+document.Protect(ProtectionType.ReadOnly, "password");
+
 document.Save("output.rtf", SaveFormat.Rtf);  
 ```
 {{% /blocks/products/pf/feature-page-code  %}}
