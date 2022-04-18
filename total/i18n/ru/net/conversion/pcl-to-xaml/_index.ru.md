@@ -1,0 +1,111 @@
+---
+title: Экспорт PCL в XAML через C# API
+description: .NET API для преобразования PCL в XAML без использования Microsoft Word
+url: /ru/net/conversion/pcl-to-xaml/
+family: total
+platformtag: net
+feature: conversion
+informat: PCL
+outformat: XAML
+otherformats: POTM PPSX PPS POT POWERPOINT SWF PPSM PPTM PPT POTX XAML OTP
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Рендеринг PCL в XAML через .NET" h2=".NET API для экспорта PCL в XAML в Windows, macOS и Linux без использования Microsoft<sup>&reg;</sup> PowerPoint" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+Используя пакет мощных API-интерфейсов автоматизации форматов файлов [Aspose.Total для .NET] (https://products.aspose.com/total/net/), вы можете легко преобразовать PCL в XAML, выполнив два простых шага. Используя API обработки PDF [Aspose.PDF для .NET] (https://products.aspose.com/pdf/net/), вы можете преобразовать формат файла PCL в PPTX. После этого с помощью API обработки презентаций [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) вы можете конвертировать PPTX в XAML.
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title=".NET API для преобразования PCL в XAML" %}}
+1. Откройте файл PCL, используя класс [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document).
+2. Преобразуйте PCL в PPTX, используя метод [Сохранить](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5).
+3. Загрузите файл PPTX с помощью класса [Презентация] (https://apireference.aspose.com/slides/net/aspose.slides/presentation).
+4. Сохраните документ в формате XAML с помощью метода [Сохранить] (https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) и установите «Xaml» в качестве SaveFormat.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}
+Установите из командной строки как ```nuget install Aspose.Total``` или через консоль диспетчера пакетов Visual Studio с помощью ```Install-Package Aspose.Total```.
+
+Кроме того, вы можете получить автономный установщик MSI или библиотеки DLL в ZIP - файле из[загрузки](https://downloads.aspose.com/total/net).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/feature-page-code %}}
+
+```cs
+
+Document document = new Document("input.pcl");
+ 
+document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
+
+Presentation presentation = new Presentation("PptxOutput.pptx");
+
+presentation.Save("output.xaml", SaveFormat.Xaml);   
+```
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Получить метаданные XMP из файла PCL через .NET" %}}
+При преобразовании PCL в XAML вам может понадобиться дополнительная информация о метаданных XMP, чтобы определить приоритетность процесса пакетного преобразования. Например, вы можете получать и сортировать документы преобразования по дате создания и соответствующим образом обрабатывать документы. [Aspose.PDF для .NET] (https://products.aspose.com/pdf/net/) позволяет получить доступ к метаданным XMP файла PCL. Чтобы получить метаданные файла PCL, вы можете создать объект [Документ] (https://apireference.aspose.com/pdf/net/aspose.pdf/document) и открыть входной файл PCL. После этого вы можете получить метаданные файла с помощью свойства [Метаданные](https://apireference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata).  
+{{% blocks/products/pf/feature-page-code %}}
+
+```cs
+
+Document doc = new Document("input.pcl");
+
+Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
+Console.WriteLine(doc.Metadata["xmp:Nickname"]);
+Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
+```
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="Создать файл XAML только для чтения через .NET" %}}
+Используя API [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), вы можете еще больше расширить возможности своего приложения для преобразования. Одной из функций может быть создание выходного файла только для чтения для повышения безопасности. API позволяет настроить файл XAML только для чтения, что означает, что пользователи (после того, как они откроют презентацию) увидят рекомендацию только для чтения. 
+{{% blocks/products/pf/feature-page-code %}}
+
+```cs
+
+Presentation presentation = new Presentation("PptxOutput.pptx");
+
+presentation.ProtectionManager.ReadOnlyRecommended = true;
+
+presentation.Save("output.xaml", SaveFormat.Xaml);     
+```
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Другие варианты преобразования" subTitle="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/pcl-to-pot/" name="PCL в POT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/pcl-to-ppsx/" name="PCL в PPSX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/pcl-to-swf/" name="PCL в SWF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/pcl-to-powerpoint/" name="PCL в POWERPOINT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/pcl-to-otp/" name="PCL в OTP" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/pcl-to-potm/" name="PCL в POTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/pcl-to-ppt/" name="PCL в PPT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/pcl-to-pps/" name="PCL в PPS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/pcl-to-potx/" name="PCL в POTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/pcl-to-xaml/" name="PCL в XAML" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/pcl-to-ppsm/" name="PCL в PPSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/pcl-to-pptm/" name="PCL в PPTM" description="" >}}
+
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< /blocks/products/pf/feature-page-wrap >}}

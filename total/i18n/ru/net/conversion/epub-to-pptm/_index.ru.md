@@ -1,0 +1,111 @@
+---
+title: Экспорт EPUB в PPTM через C# API
+description: .NET API для преобразования EPUB в PPTM без использования Microsoft Word
+url: /ru/net/conversion/epub-to-pptm/
+family: total
+platformtag: net
+feature: conversion
+informat: EPUB
+outformat: PPTM
+otherformats: PPS SWF POT OTP PPSM POTX PPSX PPT POTM PPTM POWERPOINT XAML
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Рендеринг EPUB в PPTM через .NET" h2=".NET API для экспорта EPUB в PPTM в Windows, macOS и Linux без использования Microsoft<sup>&reg;</sup> PowerPoint" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+Используя пакет мощных API-интерфейсов автоматизации форматов файлов [Aspose.Total для .NET] (https://products.aspose.com/total/net/), вы можете легко преобразовать EPUB в PPTM, выполнив два простых шага. Используя API обработки PDF [Aspose.PDF для .NET] (https://products.aspose.com/pdf/net/), вы можете преобразовать формат файла EPUB в PPTX. После этого с помощью API обработки презентаций [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) вы можете конвертировать PPTX в PPTM.
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title=".NET API для преобразования EPUB в PPTM" %}}
+1. Откройте файл EPUB, используя класс [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document).
+2. Преобразуйте EPUB в PPTX, используя метод [Сохранить](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5).
+3. Загрузите файл PPTX с помощью класса [Презентация] (https://apireference.aspose.com/slides/net/aspose.slides/presentation).
+4. Сохраните документ в формате PPTM с помощью метода [Сохранить] (https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) и установите «Pptm» в качестве SaveFormat.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}
+Установите из командной строки как ```nuget install Aspose.Total``` или через консоль диспетчера пакетов Visual Studio с помощью ```Install-Package Aspose.Total```.
+
+Кроме того, вы можете получить автономный установщик MSI или библиотеки DLL в ZIP - файле из[загрузки](https://downloads.aspose.com/total/net).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/feature-page-code %}}
+
+```cs
+
+Document document = new Document("input.epub");
+ 
+document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
+
+Presentation presentation = new Presentation("PptxOutput.pptx");
+
+presentation.Save("output.pptm", SaveFormat.Pptm);   
+```
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Получить метаданные XMP из файла EPUB через .NET" %}}
+При преобразовании EPUB в PPTM вам может понадобиться дополнительная информация о метаданных XMP, чтобы определить приоритетность процесса пакетного преобразования. Например, вы можете получать и сортировать документы преобразования по дате создания и соответствующим образом обрабатывать документы. [Aspose.PDF для .NET] (https://products.aspose.com/pdf/net/) позволяет получить доступ к метаданным XMP файла EPUB. Чтобы получить метаданные файла EPUB, вы можете создать объект [Документ] (https://apireference.aspose.com/pdf/net/aspose.pdf/document) и открыть входной файл EPUB. После этого вы можете получить метаданные файла с помощью свойства [Метаданные](https://apireference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata).  
+{{% blocks/products/pf/feature-page-code %}}
+
+```cs
+
+Document doc = new Document("input.epub");
+
+Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
+Console.WriteLine(doc.Metadata["xmp:Nickname"]);
+Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
+```
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="Создать файл PPTM только для чтения через .NET" %}}
+Используя API [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), вы можете еще больше расширить возможности своего приложения для преобразования. Одной из функций может быть создание выходного файла только для чтения для повышения безопасности. API позволяет настроить файл PPTM только для чтения, что означает, что пользователи (после того, как они откроют презентацию) увидят рекомендацию только для чтения. 
+{{% blocks/products/pf/feature-page-code %}}
+
+```cs
+
+Presentation presentation = new Presentation("PptxOutput.pptx");
+
+presentation.ProtectionManager.ReadOnlyRecommended = true;
+
+presentation.Save("output.pptm", SaveFormat.Pptm);     
+```
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Другие варианты преобразования" subTitle="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/epub-to-pot/" name="EPUB в POT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/epub-to-ppsx/" name="EPUB в PPSX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/epub-to-swf/" name="EPUB в SWF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/epub-to-powerpoint/" name="EPUB в POWERPOINT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/epub-to-otp/" name="EPUB в OTP" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/epub-to-potm/" name="EPUB в POTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/epub-to-ppt/" name="EPUB в PPT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/epub-to-pps/" name="EPUB в PPS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/epub-to-potx/" name="EPUB в POTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/epub-to-xaml/" name="EPUB в XAML" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/epub-to-ppsm/" name="EPUB в PPSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/epub-to-pptm/" name="EPUB в PPTM" description="" >}}
+
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< /blocks/products/pf/feature-page-wrap >}}
