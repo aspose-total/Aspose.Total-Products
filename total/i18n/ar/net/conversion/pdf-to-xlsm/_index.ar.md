@@ -1,0 +1,89 @@
+---
+title: تحويل PDF إلى XLSM عبر C # API
+description: C # API لتحويل ملف PDF إلى XLSM بدون استخدام Microsoft Excel أو Adobe Reader
+url: /ar/net/conversion/pdf-to-xlsm/
+family: total
+platformtag: net
+feature: conversion
+informat: PDF
+outformat: XLSM
+otherformats: EXCEL XLSB ODS FODS MD TXT XLT XLAM XLTM XLSM TSV SXC
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C # API لتقديم PDF إلى XLSM" h2="تصدير ملف PDF إلى XLSM عبر C # بدون استخدام Microsoft <sup> & reg؛ </sup> Excel أو Adobe <sup> & reg؛ </sup> Acrobat Reader" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+باستخدام [Aspose.Total for .NET] (https://products.aspose.com/total/net/) يمكنك بسهولة تحويل ملف PDF إلى XLSM ضمن أي تطبيقات .NET و C # و ASP.NET و VB.NET. أولاً ، باستخدام [Aspose.PDF for .NET] (https://products.aspose.com/pdf/net/) ، يمكنك تصدير PDF إلى XLSX. بعد ذلك ، باستخدام [Aspose.Cells for .NET] (https://products.aspose.com/cells/net/) Spreadsheet Programming API ، يمكنك تحويل XLSX إلى XLSM.
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="NET API لتحويل PDF إلى XLSM" %}}
+1. افتح ملف PDF باستخدام فئة [Document] (https://apireference.aspose.com/pdf/net/aspose.pdf/document)
+2. تحويل PDF إلى XLSX باستخدام طريقة [حفظ] (https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. قم بتحميل مستند XLSX باستخدام فئة [Workbook] (https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+4. احفظ المستند بتنسيق XLSM باستخدام طريقة [حفظ] (https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) وعيّن `Xlsm` كـ SaveFormat
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
+قم بالتثبيت من سطر الأوامر كـ `` nuget install Aspose.Total ''` أو عبر Package Manager Console في Visual Studio مع `` Install-Package Aspose.Total' '.
+
+بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التنزيلات] (https://downloads.aspose.com/total/net).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-pdf-to-excel.cs" >}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="تحويل المحمية PDF إلى XLSM عبر C #" %}}
+إذا كان مستند PDF الخاص بك محميًا بكلمة مرور ، فلا يمكنك تحويله إلى XLSM بدون كلمة المرور. باستخدام واجهة برمجة التطبيقات ، يمكنك أولاً فتح المستند المحمي باستخدام كلمة مرور صالحة وتحويلها بعد ذلك. لفتح الملف المشفر ، يمكنك تهيئة مثيل جديد من فئة [المستند] (https://apireference.aspose.com/pdf/net/aspose.pdf/document) وتمرير اسم الملف وكلمة المرور كوسائط.  
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-password-protected-pdf-to-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="تحويل ملف PDF إلى XLSM بعلامة مائية عبر C #" %}}
+أثناء تحويل ملف PDF إلى XLSM ، يمكنك أيضًا إضافة علامة مائية إلى تنسيق ملف XLSM الناتج. لإضافة علامة مائية ، يمكنك إنشاء كائن مصنف جديد وفتح مستند XLSX المحول ، وتحديد ورقة العمل عبر الفهرس الخاص به ، وإنشاء شكل واستخدام وظيفة AddTextEffect الخاصة به. بعد ذلك يمكنك حفظ مستند XLSX كملف XLSM مع علامة مائية. 
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-pdf-to-excel-with-watermark.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="خيارات التحويل الأخرى" subTitle="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/net/conversion/pdf-to-sxc/" name="PDF ل SXC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/net/conversion/pdf-to-xltx/" name="PDF ل XLTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/net/conversion/pdf-to-md/" name="PDF ل MD" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/net/conversion/pdf-to-tsv/" name="PDF ل TSV" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/net/conversion/pdf-to-txt/" name="PDF ل TXT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/net/conversion/pdf-to-ods/" name="PDF ل ODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/net/conversion/pdf-to-xlt/" name="PDF ل XLT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/net/conversion/pdf-to-xlsm/" name="PDF ل XLSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/net/conversion/pdf-to-xlam/" name="PDF ل XLAM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/net/conversion/pdf-to-xltm/" name="PDF ل XLTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/net/conversion/pdf-to-dif/" name="PDF ل DIF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/net/conversion/pdf-to-xlsb/" name="PDF ل XLSB" description="" >}}
+
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< /blocks/products/pf/feature-page-wrap >}}
