@@ -1,0 +1,93 @@
+---
+title: WORDML को XLS में बदलने के लिए .NET API
+description: सी # एपीआई माइक्रोसॉफ्ट एक्सेल या एडोब रीडर का उपयोग किए बिना डीओसी को सीएसवी में कनवर्ट करने के लिए
+url: /hi/net/conversion/wordml-to-xls/
+family: total
+platformtag: net
+feature: conversion
+informat: WORDML
+outformat: XLS
+otherformats: XLAM TSV XLSX XLTM DIF XLSM XLS XLTX XLT FODS ODS SXC EXCEL XLSB
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="सी # एपीआई डीओसी को सीएसवी में कनवर्ट करने के लिए" h2="Microsoft<sup>&reg;</sup> Word या Microsoft<sup>&reg;</sup> Excel का उपयोग किए बिना WORDML को C# के माध्यम से XLS में निर्यात करें" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+[Aspose.Total for .NET](https://products.aspose.com/total/net/) का उपयोग करके आप किसी भी .NET, C#, ASP.NET और VB.NET एप्लिकेशन में WORDML से XLS रूपांतरण सुविधा शामिल कर सकते हैं। दो सरल कदम। सबसे पहले, [Aspose.Words for .NET](https://products.aspose.com/words/net/) का उपयोग करके, आप HTML को WORDML निर्यात कर सकते हैं। उसके बाद, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) स्प्रेडशीट प्रोग्रामिंग API का उपयोग करके, आप HTML को XLS में बदल सकते हैं।
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="WORDML को XLS में बदलने के लिए .NET API" %}}
+1. [दस्तावेज़](https://apireference.aspose.com/words/net/aspose.words/wordmlument) वर्ग का उपयोग करके WORDML फ़ाइल खोलें
+2. [Save](https://apireference.aspose.com/words/net/aspose.words.wordmlument/save/methods/4) विधि का उपयोग करके WORDML को HTML में बदलें
+3. [वर्कबुक](https://apireference.aspose.com/cells/net/aspose.cells/workbook) क्लास का इस्तेमाल करके एचटीएमएल दस्तावेज़ लोड करें
+4. [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) विधि का उपयोग करके दस्तावेज़ को XLS प्रारूप में सहेजें और `XLS` को SaveFormat के रूप में सेट करें
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
+कमांड लाइन से ```nuget install Aspose.Total``` के रूप में या ````Install-Package Aspose.Total`` के साथ विजुअल स्टूडियो के पैकेज मैनेजर कंसोल के माध्यम से इंस्टॉल करें।
+
+वैकल्पिक रूप से, [डाउनलोड] (https://downloads.aspose.com/total/net) से ज़िप फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें।
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="सी # के माध्यम से स्ट्रीम से डीओसी दस्तावेज़ लोड करें" %}}
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) भी आपको स्ट्रीम के माध्यम से WORDML दस्तावेज़ लोड करने की अनुमति देता है। किसी स्ट्रीम से दस्तावेज़ खोलने के लिए, बस एक स्ट्रीम ऑब्जेक्ट पास करें जिसमें दस्तावेज़ [दस्तावेज़](https://apireference.aspose.com/words/net/aspose.words/wordmlument) कंस्ट्रक्टर में हो। निम्न कोड उदाहरण दिखाता है कि किसी स्ट्रीम से दस्तावेज़ कैसे खोलें:  
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="सी # के माध्यम से सीएसवी फ़ाइल में कस्टम गुण जोड़ें" %}}
+WORDML को XLS में कनवर्ट करते समय, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) आपको अपने XLS दस्तावेज़ों में कस्टम गुण जोड़ने में सक्षम बनाता है। कस्टम प्रॉपर्टी जोड़ने के लिए, आप [CustomWordmlumentPropertyCollection] के लिए [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customwordmlumentpropertycollection/methods/add/index) मेथड का इस्तेमाल कर सकते हैं। https://apireference.aspose.com/cells/net/aspose.cells.properties/customwordmlumentpropertycollection) वर्ग। जोड़ें विधि संपत्ति को एक्सेल फ़ाइल में जोड़ती है और नई दस्तावेज़ संपत्ति के लिए एक [Aspose.Cells.Properties.WordmlumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties के रूप में एक संदर्भ देता है। /दस्तावेज़प्रॉपर्टी) वस्तु। 
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="अन्य रूपांतरण विकल्प" subTitle="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/net/conversion/wordml-to-dif/" name="WORDML सेवा DIF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/net/conversion/wordml-to-xlsb/" name="WORDML सेवा XLSB" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/net/conversion/wordml-to-tsv/" name="WORDML सेवा TSV" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/net/conversion/wordml-to-fods/" name="WORDML सेवा FODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/net/conversion/wordml-to-xlt/" name="WORDML सेवा XLT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/net/conversion/wordml-to-excel/" name="WORDML सेवा EXCEL" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/net/conversion/wordml-to-xlsx/" name="WORDML सेवा XLSX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/net/conversion/wordml-to-ods/" name="WORDML सेवा ODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/net/conversion/wordml-to-sxc/" name="WORDML सेवा SXC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/net/conversion/wordml-to-xlam/" name="WORDML सेवा XLAM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/net/conversion/wordml-to-xltm/" name="WORDML सेवा XLTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/net/conversion/wordml-to-xlsm/" name="WORDML सेवा XLSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/net/conversion/wordml-to-xls/" name="WORDML सेवा XLS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/net/conversion/wordml-to-xltx/" name="WORDML सेवा XLTX" description="" >}}
+
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< /blocks/products/pf/feature-page-wrap >}}
