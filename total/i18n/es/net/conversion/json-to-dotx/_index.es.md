@@ -1,0 +1,93 @@
+---
+title: Convierta el formato JSON a DOTX a través de .NET
+description: Analice JSON a DOTX en C# sin usar Microsoft Word
+url: /es/net/conversion/json-to-dotx/
+family: total
+platformtag: net
+feature: conversion
+informat: JSON
+outformat: DOTX
+otherformats: DOC PCL EPUB FLATOPC DOCM ODT WORDML DOTX WORD MOBI PS DOT RTF OTT
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convierta el formato JSON a DOTX a través de C#" h2="API C# para analizar JSON a DOTX sin usar Microsoft<sup>&reg;</sup> Word" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+Al usar [Aspose.Total for .NET](https://products.aspose.com/total/net/) puede analizar JSON a DOTX dentro de cualquier aplicación .NET, C#, ASP.NET y VB.NET en dos simples pasos. En primer lugar, al usar [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), puede exportar JSON a PDF. Después de eso, usando [Aspose.Words for .NET](https://products.aspose.com/words/net/), puede convertir PDF a DOTX.
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Convierta el formato JSON a DOTX a través de C#" %}}
+1. Cree un nuevo objeto [Libro de trabajo] (https://apireference.aspose.com/cells/net/aspose.cells/workbook) y lea los datos JSON válidos del archivo.
+2. Importe el archivo JSON a la hoja de trabajo usando la clase [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) y [Guardar](https://apireference.aspose.com/ cell/net/aspose.cells.workbook/save/methods/4) como PDF
+3. Cargue el documento PDF usando la clase [Documento](https://apireference.aspose.com/words/net/aspose.words/document)
+4. Guarde el documento en formato DOTX usando el método [Guardar](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
+Instale desde la línea de comandos como ```nuget install Aspose.Total``` o a través de Package Manager Console de Visual Studio con ```Install-Package Aspose.Total```.
+
+Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archivo ZIP desde [descargas](https://downloads.aspose.com/total/net).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-doc.cs" >}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Establezca el diseño y convierta el formato JSON a DOTX a través de C#" %}}
+Mientras analiza JSON a DOTX, también puede establecer opciones de diseño para su JSON mediante [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Le permite procesar Array como una tabla, ignorar nulos, ignorar el título de la matriz, ignorar el título del objeto, convertir cadenas en números o fechas, establecer el formato de fecha y número y establecer el estilo del título. Todas estas opciones le permiten presentar sus datos según sus necesidades. El siguiente fragmento de código le muestra cómo configurar las opciones de diseño.  
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "set-layout-and-parse-json-to-doc.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="Analizar formato JSON a DOTX con marca de agua" %}}
+Usando la API, también puede convertir JSON a DOTX con marca de agua. Para agregar una marca de agua a su documento DOTX, primero puede analizar el archivo JSON en PDF y agregarle una marca de agua. Para agregar una marca de agua, cargue el archivo PDF recién creado usando la clase [Documento](https://apireference.aspose.com/words/net/aspose.words/document), cree una instancia de TextWatermarkOptions y establezca sus propiedades , Llame al método Watermark.SetText y pase el texto y el objeto de la marca de agua de TextWatermarkOptions. Después de agregar la marca de agua, puede guardar el documento en DOTX. 
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Otras opciones de conversión" subTitle="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/json-to-ott/" name="JSON Para OTT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/json-to-flatopc/" name="JSON Para FLAParaPC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/json-to-ps/" name="JSON Para PS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/json-to-dotx/" name="JSON Para DOTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/json-to-rtf/" name="JSON Para RTF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/json-to-wordml/" name="JSON Para WORDML" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/json-to-odt/" name="JSON Para ODT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/json-to-word/" name="JSON Para WORD" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/json-to-epub/" name="JSON Para EPUB" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/json-to-doc/" name="JSON Para DOC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/json-to-dot/" name="JSON Para DOT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/json-to-pcl/" name="JSON Para PCL" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/json-to-mobi/" name="JSON Para MOBI" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/json-to-docm/" name="JSON Para DOCM" description="" >}}
+
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< /blocks/products/pf/feature-page-wrap >}}

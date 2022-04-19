@@ -1,0 +1,135 @@
+---
+title: API C # pour exporter EMLX vers IMAGE
+description: Convertir EMLX en IMAGE sans utiliser Microsoft Word ou Outlook sur .NET
+url: /fr/net/conversion/emlx-to-image/
+family: total
+platformtag: net
+feature: conversion
+informat: EMLX
+outformat: PNG
+otherformats: DOCX EMF MD TEXT DOT DOTM TIFF WORDML PS DOTX XPS PDF SVG FLATOPC JPEG DOCM DOC PCL EPUB OTT IMAGE ODT RTF GIF
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Exporter EMLX vers IMAGE via .NET" h2="API .NET pour rendre EMLX en IMAGE sous Windows, macOS et Linux sans utiliser Word ou Outlook" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+Si vous êtes un développeur .NET cherchant à ajouter des fonctionnalités de conversion EMLX vers IMAGE dans vos applications, les API de manipulation de format de fichier [Aspose.Total pour .NET](https://products.aspose.com/total/net/) sont la solution. avant. En utilisant [Aspose.Emlx pour .NET](https://products.aspose.com/emlx/net/), vous pouvez convertir le format de fichier EMLX en HTML. Après cela, en utilisant [Aspose.Words pour .NET](https://products.aspose.com/words/net/), vous pouvez restituer HTML en IMAGE.
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="API C # pour convertir EMLX en IMAGE" %}}
+1. Ouvrez le fichier EMLX à l'aide de la classe [MailMessage](https://apireference.aspose.com/emlx/net/aspose.emlx/mailmessage)
+2. Convertissez EMLX en HTML en utilisant la méthode [Save](https://apireference.aspose.com/emlx/net/aspose.emlx.mailmessage/save/methods/3)
+3. Chargez HTML en utilisant la classe [Document](https://apireference.aspose.com/words/net/aspose.words/document)
+4. Enregistrez le document au format IMAGE en utilisant la méthode [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) et définissez Image comme SaveFormat
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
+Installez à partir de la ligne de commande en tant que ```nuget install Aspose.Total``` ou via la console du gestionnaire de packages de Visual Studio avec ```Install-Package Aspose.Total```.
+
+Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les DLL dans un fichier ZIP à partir de [téléchargements] (https://downloads.aspose.com/total/net).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/feature-page-code %}}
+
+```cs
+
+MailMessage message = MailMessage.Load("sourceFile.emlx");
+ 
+message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
+
+Document document = new Document("HtmlOutput.html");
+// call save method while passing SaveFormat.Png
+document.Save("output.png", SaveFormat.Png); 
+```
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Analyser le fichier EMLX via .NET" %}}
+Avant de convertir EMLX en IMAGE, si vous voulez vous assurer que vous convertissez le bon e-mail, vous pouvez charger le document EMLX, l'analyser et jeter un œil à la propriété souhaitée. En utilisant la classe [MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) de [Aspose.Emlx pour .NET](https://products.aspose.com/emlx /net/), vous pouvez obtenir des informations sur l'expéditeur et les destinataires. Par exemple, vous pouvez rechercher un e-mail d'expéditeur spécifique pour la conversion à l'aide de la propriété [SenderName](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername).  
+{{% blocks/products/pf/feature-page-code %}}
+
+```cs
+// instantiate MapiMessage to load an EMLX file from disk
+var outlookMessageFile = MapiMessage.FromFile("message.emlx");
+ 
+if(outlookMessageFile.SenderName == "John"){
+    
+}
+```
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="Restreindre l'édition de documents IMAGE via .NET" %}}
+Lors de l'enregistrement du document de EMLX vers IMAGE, vous devrez peut-être protéger votre document de sortie. Parfois, vous devrez peut-être limiter la possibilité de modifier un document et n'autoriser que certaines actions avec celui-ci. Cela peut être utile pour empêcher d'autres personnes de modifier des informations sensibles et confidentielles dans votre document. L'API [Aspose.Words pour .NET](https://products.aspose.com/words/net/) vous permet de contrôler la manière dont vous restreignez le contenu à l'aide de [ProtectionType](https://apireference.aspose. com/words/net/aspose.words/protectiontype) paramètre d'énumération. Vous pouvez définir votre document en lecture seule en utilisant les lignes de code suivantes. 
+{{% blocks/products/pf/feature-page-code %}}
+
+```cs
+
+Document document = new Document("HtmlOutput.html");
+
+document.Protect(ProtectionType.ReadOnly, "password");
+// call save method while passing SaveFormat.Png
+document.Save("output.png", SaveFormat.Png);  
+```
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Autres options de conversion" subTitle="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/net/conversion/msg-to-pcl/" name="MSG VERS PCL" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/net/conversion/msg-to-pdf/" name="MSG EN PDF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/net/conversion/msg-to-dot/" name="MSG À POINT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/net/conversion/msg-to-flatopc/" name="MSG VERS PLATOPC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/net/conversion/msg-to-jpeg/" name="MSG EN JPEG" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/net/conversion/msg-to-png/" name="MSG À PNG" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/net/conversion/msg-to-rtf/" name="MSG VERS RTF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/net/conversion/msg-to-tiff/" name="MSG VERS TIFF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/net/conversion/msg-to-docm/" name="MSG VERS DOCM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/net/conversion/msg-to-ps/" name="MSG À PS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/net/conversion/msg-to-gif/" name="MSG EN GIF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/net/conversion/msg-to-xps/" name="MSG VERS XPS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/net/conversion/msg-to-odt/" name="MSG VERS ODT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/net/conversion/msg-to-docx/" name="MSG VERS DOCX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/net/conversion/msg-to-doc/" name="MSG AU DOC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/net/conversion/msg-to-wordml/" name="MSG EN WORDML" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/net/conversion/msg-to-svg/" name="MSG VERS SVG" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/net/conversion/msg-to-epub/" name="MSG VERS EPUB" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/net/conversion/msg-to-md/" name="MSG À MD" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/net/conversion/msg-to-emf/" name="MSG À EMF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/net/conversion/msg-to-dotm/" name="MSG VERS DOTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/net/conversion/msg-to-ott/" name="MSG VERS OTT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/net/conversion/msg-to-dotx/" name="MSG À DOTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/net/conversion/msg-to-text/" name="MSG AU TEXTE" description="" >}}
+
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< /blocks/products/pf/feature-page-wrap >}}
