@@ -34,7 +34,7 @@ Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-documenth2="Requisitos de conversión" %}}documentdocumentdocument
+{{% blocks/products/pf/feature-page-section h2="Requisitos de conversión" %}}
 La API también le permite convertir docxumentos DOCX protegidos con contraseña a POT. Si su docxumento DOCX de entrada está protegido con contraseña, no puede convertirlo al formato POT sin usar la contraseña. Para abrir un docxumento cifrado, puede establecer la contraseña correcta en el objeto LoadOptions y pasarla al constructor del docxumento.  
 {{% blocks/products/pf/feature-page-code %}}
 

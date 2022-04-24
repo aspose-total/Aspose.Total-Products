@@ -33,7 +33,7 @@ Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-sedocument="Requisitos de conversión" %}}documentdocumentdocument
+{{% blocks/products/pf/feature-page-section h2="Requisitos de conversión" %}}
 Usando la API, también puede abrir el docxumento protegido por contraseña. Si su docxumento DOCX de entrada está protegido con contraseña, no puede convertirlo al formato JSON sin usar la contraseña. La API le permite abrir el docxumento cifrado pasando la contraseña correcta en un objeto LoadOptions. El siguiente ejemplo de código muestra cómo intentar abrir un docxumento cifrado con una contraseña:  
 {{% blocks/products/pf/feature-page-code %}}
 
