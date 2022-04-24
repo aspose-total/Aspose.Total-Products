@@ -38,7 +38,7 @@ otherformats: EXCEL DIF SXC XLSM XLTM ODS XLT FODS XLS XLSB XLSX XLTX TSV XLAM
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature](ge-section  h2="قم بتحميل مستند OTT من الدفق عبر C#" %}}
+{{% blocks/products/pf/feature-section  h2="قم بتحميل مستند OTT من الدفق عبر C#" %}}
 يسمح لك [Aspose.Words for .NET](https://products.aspose.com/words/net/) أيضًا بتحميل مستند OTT عبر الدفق. لفتح مستند من تيار ، ما عليك سوى تمرير كائن تيار يحتوي على المستند إلى مُنشئ [Ottument](https://apireference.aspose.com/words/net/aspose.words/ottument). يوضح المثال التالي من التعليمات البرمجية كيفية فتح مستند من دفق:  
 {{% blocks/products/pf/feature-page-code %}}
 

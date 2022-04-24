@@ -38,7 +38,7 @@ otherformats: XLTM DIF XLAM XLT EXCEL XLTX XLSX ODS FODS TSV XLSM SXC XLS XLSB
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature](ge-section  h2="قم بتحميل مستند WORDML من الدفق عبر C#" %}}
+{{% blocks/products/pf/feature-section  h2="قم بتحميل مستند WORDML من الدفق عبر C#" %}}
 يسمح لك [Aspose.Words for .NET](https://products.aspose.com/words/net/) أيضًا بتحميل مستند WORDML عبر الدفق. لفتح مستند من تيار ، ما عليك سوى تمرير كائن تيار يحتوي على المستند إلى مُنشئ [Wordmlument](https://apireference.aspose.com/words/net/aspose.words/wordmlument). يوضح المثال التالي من التعليمات البرمجية كيفية فتح مستند من دفق:  
 {{% blocks/products/pf/feature-page-code %}}
 
