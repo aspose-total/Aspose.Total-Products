@@ -63,7 +63,6 @@ Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
 {{% blocks/products/pf/feature-page-section  h2="Criar arquivo POTX somente leitura via .NET" %}}
 Ao usar a API [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), você pode aprimorar ainda mais os recursos do seu aplicativo de conversão. Um dos recursos pode ser criar seu arquivo de saída somente leitura para aumentar a segurança. A API permite que você defina seu arquivo POTX como somente leitura, o que significa que os usuários (depois de abrirem a apresentação) veem a recomendação somente leitura. 
 ```cs
-```cs
 Presentation presentation = new Presentation("PptxOutput.pptx");
 
 presentation.ProtectionManager.ReadOnlyRecommended = true;

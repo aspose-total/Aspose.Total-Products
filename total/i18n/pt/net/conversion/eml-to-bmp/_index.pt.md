@@ -63,7 +63,6 @@ if(outlookMessageFile.SenderName == "John"){
 {{% blocks/products/pf/feature-page-section  h2="Restringir a edição de documentos BMP via .NET" %}}
 Ao salvar o documento de EML para BMP, talvez seja necessário proteger seu documento de saída. Às vezes, pode ser necessário limitar a capacidade de editar um documento e permitir apenas determinadas ações com ele. Isso pode ser útil para evitar que outras pessoas editem informações confidenciais em seu documento. [Aspose.Words for .NET](https://products.aspose.com/words/net/) API, permite controlar a maneira como você restringe o conteúdo usando o [ProtectionType](https://apireference.aspose. com/words/net/aspose.words/protectiontype) parâmetro de enumeração. Você pode definir seu documento como somente leitura usando as seguintes linhas de código. 
 ```cs
-```cs
 Document document = new Document("HtmlOutput.html");
 
 document.Protect(ProtectionType.ReadOnly, "password");

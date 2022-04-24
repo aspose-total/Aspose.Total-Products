@@ -18,32 +18,35 @@ Puede convertir un archivo POT a XLSX a través de [Aspose.Total for Java](https
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir POT a XLSX a través de Java" %}}
 1. Abra el archivo POT usando la clase [Presentación](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Convierta POT a HTML usando [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) método
-3. Cargue el documento HTML utilizando la clase [Libro de trabajo] (https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
+3. Cargue el documento HTML utilizando la clase [Libro de trabajo](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Guarde el documento en formato XLSX usando [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. GuardarOpciones)) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
-Para convertir POT a XLSX, puede usar fácilmente Aspose.Total para Java directamente desde un [Maven] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/ aspose/aspose-total) e incluya bibliotecas en su pom.xml.
+Para convertir POT a XLSX, puede usar fácilmente Aspose.Total para Java directamente desde un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/ aspose/aspose-total) e incluya bibliotecas en su pom.xml.
 
-Alternativamente, puede obtener un archivo ZIP de [descargas] (https://downloads.aspose.com/total/java).
+Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisitos de conversión" %}}
 Usando la API, también puede abrir el documento protegido por contraseña. Si su documento POT de entrada está protegido con contraseña, no puede convertirlo a XLSX sin usar la contraseña. La API le permite abrir el documento cifrado pasando la contraseña correcta en un objeto LoadOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Convierta POT protegido a XLSX a través de Java" %}}
 Al convertir un archivo POT a XLSX, también puede agregar una marca de agua a su formato de archivo XLSX de salida. Para agregar una marca de agua, cree un nuevo libro de trabajo para abrir el archivo HTML convertido. Seleccione Hoja de trabajo a través de su índice, cree una Forma y use su función addTextEffect, establezca colores, transparencia y más. Después de eso, puede guardar su documento HTML como XLSX con marca de agua. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

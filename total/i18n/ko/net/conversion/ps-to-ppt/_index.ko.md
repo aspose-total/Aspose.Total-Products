@@ -63,7 +63,6 @@ Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
 {{% blocks/products/pf/feature-page-section  h2=".NET을 통해 읽기 전용 PPT 파일 생성" %}}
 [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) API를 사용하면 변환 애플리케이션의 기능을 더욱 향상시킬 수 있습니다. 기능 중 하나는 보안을 강화하기 위해 출력 파일을 읽기 전용으로 만드는 것입니다. API를 사용하면 PPT 파일을 읽기 전용으로 설정할 수 있습니다. 즉, 프레젠테이션을 연 후 사용자에게 읽기 전용 권장 사항이 표시됩니다. 
 ```cs
-```cs
 Presentation presentation = new Presentation("PptxOutput.pptx");
 
 presentation.ProtectionManager.ReadOnlyRecommended = true;

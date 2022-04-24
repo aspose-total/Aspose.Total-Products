@@ -13,7 +13,7 @@ otherformats: DOCX EMF MD TEXT DOT DOTM TIFF WORDML PS DOTX XPS PDF SVG FLATOPC 
 {{< blocks/products/pf/i18n/feature-page-header h1="Exportujte EMLX do IMAGE přes .NET" h2=".NET API pro vykreslení EMLX do IMAGE na Windows, macOS a Linux bez použití Wordu nebo Outlooku" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Pokud jste vývojář .NET, který chce přidat EMLX do funkcí převodu IMAGE ve svých aplikacích, [Aspose.Total for .NET](https://products.aspose.com/total/net/) API pro manipulaci s formátem souborů jsou tím způsobem vpřed. Pomocí [Aspose.Email for .NET](https://products.aspose.com/emlx/net/) můžete převést formát souboru EMLX do HTML. Poté můžete pomocí [Aspose.Words for .NET](https://products.aspose.com/words/net/) vykreslit HTML do IMAGE.
+Pokud jste vývojář .NET, který chce přidat EMLX do funkcí převodu IMAGE ve svých aplikacích, [Aspose.Total for .NET](https://products.aspose.com/total/net/) API pro manipulaci s formátem souborů jsou tím způsobem vpřed. Pomocí [Aspose.Email for .NET](https://products.aspose.com/email/net/) můžete převést formát souboru EMLX do HTML. Poté můžete pomocí [Aspose.Words for .NET](https://products.aspose.com/words/net/) vykreslit HTML do IMAGE.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

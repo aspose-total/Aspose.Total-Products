@@ -38,7 +38,7 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 C#
-{{% blocks/products/pf/feature-page-section  h2="Carregar ottumento OTT do fluxo via C #" %}}
+{{% blocks/products/pf/feature-page-section  h2="Carregar ottumento OTT do fluxo via C#" %}}
 [Aspose.Words for .NET](https://products.aspose.com/words/net/) também permite carregar ottumentos OTT via stream. Para abrir um ottumento de um stream, basta passar um objeto stream que contém o ottumento para o construtor [Ottument](https://apireference.aspose.com/words/net/aspose.words/ottument). O exemplo de código a seguir mostra como abrir um ottumento de um fluxo:  
 {{% blocks/products/pf/feature-page-code %}}
 

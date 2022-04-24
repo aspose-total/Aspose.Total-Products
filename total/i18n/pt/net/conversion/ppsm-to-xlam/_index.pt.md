@@ -47,7 +47,7 @@ Ao converter o arquivo PPSM para XLAM, se o documento PPSM de entrada estiver pr
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}C#
 
-{{% blocks/products/pf/feature-page-section  h2="Converter PPSM para XLAM com marca d'água via C #" %}}
+{{% blocks/products/pf/feature-page-section  h2="Converter PPSM para XLAM com marca d'água via C#" %}}
 Ao converter o arquivo PPSM para XLAM, você também pode adicionar marca d'água ao formato de arquivo XLAM de saída. Para adicionar uma marca d'água, você pode criar um novo objeto Workbook e abrir o documento HTML convertido, selecionar Worksheet através de seu índice, criar uma Shape e usar sua função AddTextEffect. Depois disso, você pode salvar seu documento HTML como XLAM com marca d'água. 
 {{% blocks/products/pf/feature-page-code %}}
 

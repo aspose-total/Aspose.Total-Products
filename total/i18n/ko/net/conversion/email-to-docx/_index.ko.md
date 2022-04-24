@@ -63,7 +63,6 @@ if(outlookMessageFile.SenderName == "John"){
 {{% blocks/products/pf/feature-page-section  h2=".NET을 통한 DOCX 문서 편집 제한" %}}
 EMAIL에서 DOCX로 문서를 저장하는 동안 출력 문서를 보호해야 할 수 있습니다. 문서 편집 기능을 제한하고 문서에 대한 특정 작업만 허용해야 하는 경우가 있습니다. 이는 다른 사람이 문서에서 민감한 기밀 정보를 편집하는 것을 방지하는 데 유용할 수 있습니다. [Aspose.Words for .NET](https://products.aspose.com/words/net/) API를 사용하면 [ProtectionType](https://apireference.aspose.net)을 사용하여 콘텐츠를 제한하는 방식을 제어할 수 있습니다. com/words/net/aspose.words/protectiontype) 열거 매개변수. 다음 코드 줄을 사용하여 문서를 읽기 전용으로 설정할 수 있습니다. 
 ```cs
-```cs
 Document document = new Document("HtmlOutput.html");
 
 document.Protect(ProtectionType.ReadOnly, "password");

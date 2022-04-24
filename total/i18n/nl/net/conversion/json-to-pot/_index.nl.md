@@ -38,7 +38,7 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 C#
-{{% blocks/products/pf/feature-page-section  h2="Lay-out instellen en JSON-indeling converteren naar POT via C #" %}}
+{{% blocks/products/pf/feature-page-section  h2="Lay-out instellen en JSON-indeling converteren naar POT via C#" %}}
 Tijdens het ontleden van JSON naar POT, kunt u ook lay-outopties voor uw JSON-indeling instellen met [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Het stelt u in staat om array als een tabel te verwerken, nulls te negeren, arraytitel te negeren, objecttitel te negeren, string naar getal of datum te converteren, datum- en getalnotatie in te stellen en titelstijl in te stellen. Met al deze opties kunt u uw gegevens presenteren volgens uw behoeften. Het volgende codefragment laat zien hoe u de lay-outopties instelt.  
 {{% blocks/products/pf/feature-page-code %}}
 

@@ -48,7 +48,7 @@ en sla het op in IMAGE-indeling met behulp van de methode [Save](https://apirefe
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}C#
 
-{{% blocks/products/pf/feature-page-section  h2="Converteer en roteer EPUB-bestand naar IMAGE via C #" %}}
+{{% blocks/products/pf/feature-page-section  h2="Converteer en roteer EPUB-bestand naar IMAGE via C#" %}}
 Met behulp van de API kunt u ook de uitgevoerde IMAGE-afbeelding roteren volgens uw behoeften. De Image.RotateFlip-methode kan worden gebruikt om de afbeelding 90/180/270-graden te roteren en de afbeelding horizontaal of verticaal te spiegelen. U kunt het type rotatie en omdraaien opgeven dat op de afbeelding moet worden toegepast. Om de afbeelding te roteren en om te draaien, kunt u de geconverteerde JPEG-afbeelding laden met behulp van de fabrieksmethode die wordt weergegeven door de klasse [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) en de afbeelding aanroepen .RotateFlip-methode terwijl u het juiste [RotateFlipType](https://apireference.aspose.com/imaging/net/aspose.imaging/rotatefliptype) specificeert. 
 {{% blocks/products/pf/feature-page-code %}}
 

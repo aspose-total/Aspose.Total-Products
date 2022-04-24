@@ -63,7 +63,6 @@ Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
 {{% blocks/products/pf/feature-page-section  h2="สร้างไฟล์ PPTM แบบอ่านอย่างเดียวผ่าน .NET" %}}
 เมื่อใช้ [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) API คุณจะสามารถปรับปรุงคุณลักษณะของแอปพลิเคชันการแปลงของคุณเพิ่มเติมได้ หนึ่งในคุณสมบัติคือสร้างไฟล์เอาต์พุตของคุณแบบอ่านอย่างเดียวเพื่อเพิ่มความปลอดภัย API อนุญาตให้คุณตั้งค่าไฟล์ PPTM ของคุณเป็นแบบอ่านอย่างเดียว ซึ่งหมายความว่าผู้ใช้ (หลังจากเปิดงานนำเสนอ) จะเห็นคำแนะนำแบบอ่านอย่างเดียว 
 ```cs
-```cs
 Presentation presentation = new Presentation("PptxOutput.pptx");
 
 presentation.ProtectionManager.ReadOnlyRecommended = true;

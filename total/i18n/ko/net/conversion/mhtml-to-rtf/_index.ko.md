@@ -63,7 +63,6 @@ document.Save("Decrypt_out.doc");
 {{% blocks/products/pf/feature-page-section  h2=".NET을 통해 읽기 전용 RTF 파일 만들기" %}}
 RTF이 편집되지 않도록 보호하고 다른 사람이 문서에서 민감한 기밀 정보를 편집하지 못하도록 하기 위해 API를 사용하여 문서 보호를 설정할 수도 있습니다. 문서 편집 기능을 제한하고 문서에 대한 특정 작업만 허용할 수 있습니다. 이는 [Aspose.Words for .NET](https://products.aspose.com/words/net/) API를 사용하여 수행할 수 있습니다. [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype) 열거 매개변수를 사용하여 콘텐츠를 제한하는 방식을 제어할 수 있습니다. 다음 코드 줄을 사용하여 문서를 읽기 전용으로 설정할 수 있습니다. 
 ```cs
-```cs
 Document document = new Document("input.doc");
 
 document.Protect(ProtectionType.ReadOnly, "password");

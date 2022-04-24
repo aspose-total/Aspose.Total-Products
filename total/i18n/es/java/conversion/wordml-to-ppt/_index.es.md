@@ -12,32 +12,34 @@ otherformats: POWERPOINT PPTM POT PPT POTX PPTX PPSM POTM PPSX PPS CSV DIF FODS 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Convierta WORDML a PPT a través de Java" h2="Conversión de WORDML a PPT mediante el uso de la API Java local dentro de cualquier aplicación Java J2SE, J2EE, J2ME sin utilizar Microsoft<sup>&reg;</sup> PowerPoint o Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-A menudo, los desarrolladores tienen que convertir el archivo WORDML a PPT mediante programación. Mediante el uso de las bibliotecas Java de automatización de archivos [Aspose.Total para Java] (https://products.aspose.com/total/java/) puede automatizar el proceso de renderizado en unos pocos pasos simples. Puede cargar su archivo WORDML usando [Aspose.Words for Java](https://products.aspose.com/words/java/) y convertirlo a HTML. Después de eso, al usar la poderosa API Java de manipulación de PowerPoint [Aspose.Slides para Java] (https://products.aspose.com/slides/java/), puede crear una nueva presentación, escribir contenido HTML en ella y guardarla como PPT .
+A menudo, los desarrolladores tienen que convertir el archivo WORDML a PPT mediante programación. Mediante el uso de las bibliotecas Java de automatización de archivos [Aspose.Total para Java](https://products.aspose.com/total/java/) puede automatizar el proceso de renderizado en unos pocos pasos simples. Puede cargar su archivo WORDML usando [Aspose.Words for Java](https://products.aspose.com/words/java/) y convertirlo a HTML. Después de eso, al usar la poderosa API Java de manipulación de PowerPoint [Aspose.Slides para Java](https://products.aspose.com/slides/java/), puede crear una nueva presentación, escribir contenido HTML en ella y guardarla como PPT .
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir WORDML a PPT a través de Java" %}}
-1. Abra el archivo WORDML usando la clase [Wordmlumento] (https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument)
+1. Abra el archivo WORDML usando la clase [Wordmlumento](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument)
 2. Convierta el archivo WORDML a HTML usando [guardar](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument#save(java.lang.String,com.aspose.words.SaveOptions )) método
-3. Inicialice un nuevo objeto [Presentación] (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+3. Inicialice un nuevo objeto [Presentación](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraiga el contenido del archivo HTML usando BufferedReader y escriba el contenido en su archivo de presentación
 6. Guarde el wordmlumento en PPT usando el método [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
 Para la conversión de archivos WORDML a PPT, puede usar fácilmente Aspose.Total para Java directamente desde un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) e incluya bibliotecas en su pom.xml.
 
-Alternativamente, puede obtener un archivo ZIP de [descargas] (https://downloads.aspose.com/total/java).
+Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-wordml-to-pptx.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisitos de conversión" %}}
 La API también le permite convertir wordmlumentos WORDML protegidos con contraseña a PPT. Si su wordmlumento WORDML de entrada está protegido con contraseña, no puede convertirlo al formato PPT sin usar la contraseña. Para abrir un wordmlumento cifrado, puede establecer la contraseña correcta en el objeto LoadOptions y pasarla al constructor del wordmlumento.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-wordml-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-wordml-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

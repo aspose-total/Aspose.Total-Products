@@ -63,7 +63,6 @@ if(outlookMessageFile.SenderName == "John"){
 {{% blocks/products/pf/feature-page-section  h2="Ogranicz edycję dokumentów RTF przez .NET" %}}
 Podczas zapisywania dokumentu z EML do RTF może być konieczne zabezpieczenie dokumentu wyjściowego. Czasami może zajść potrzeba ograniczenia możliwości edycji dokumentu i zezwolenia tylko na określone czynności. Może to być przydatne, aby uniemożliwić innym osobom edytowanie poufnych i poufnych informacji w Twoim dokumencie. Interfejs API [Aspose.Words for .NET](https://products.aspose.com/words/net/) umożliwia kontrolowanie sposobu ograniczania treści za pomocą [ProtectionType](https://apireference.aspose. com/words/net/aspose.words/protectiontype) parametr wyliczenia. Możesz ustawić dokument jako tylko do odczytu, używając następujących wierszy kodu. 
 ```cs
-```cs
 Document document = new Document("HtmlOutput.html");
 
 document.Protect(ProtectionType.ReadOnly, "password");

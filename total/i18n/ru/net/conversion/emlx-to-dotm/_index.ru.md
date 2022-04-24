@@ -13,7 +13,7 @@ otherformats: PNG XPS PS TIFF WORDML SVG PDF GIF ODT DOCM EPUB TEXT DOC FLATOPC 
 {{< blocks/products/pf/i18n/feature-page-header h1="Экспорт EMLX в DOTM через .NET" h2=".NET API для преобразования электронной почты в DOTM в Windows, macOS и Linux без использования Word или Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Если вы являетесь разработчиком .NET и хотите добавить функции преобразования EMLX в DOTM в свои приложения, API-интерфейсы для работы с форматами файлов [Aspose.Total for .NET](https://products.aspose.com/total/net/) — это то, что вам нужно. вперед. Используя [Aspose.Emlx для .NET](https://products.aspose.com/emlx/net/), вы можете преобразовать формат файла EMLX в HTML. После этого, используя [Aspose.Words для .NET](https://products.aspose.com/words/net/), вы можете преобразовать HTML в DOTM.
+Если вы являетесь разработчиком .NET и хотите добавить функции преобразования EMLX в DOTM в свои приложения, API-интерфейсы для работы с форматами файлов [Aspose.Total for .NET](https://products.aspose.com/total/net/) — это то, что вам нужно. вперед. Используя [Aspose.Emlx для .NET](https://products.aspose.com/email/net/), вы можете преобразовать формат файла EMLX в HTML. После этого, используя [Aspose.Words для .NET](https://products.aspose.com/words/net/), вы можете преобразовать HTML в DOTM.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

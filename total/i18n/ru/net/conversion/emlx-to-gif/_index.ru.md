@@ -13,7 +13,7 @@ otherformats: DOTM DOC DOT PS EPUB JPEG PNG FLATOPC EMF OTT DOCX MD PCL TIFF XPS
 {{< blocks/products/pf/i18n/feature-page-header h1="Экспорт EMLX в GIF через .NET" h2=".NET API для преобразования электронной почты в GIF в Windows, macOS и Linux без использования Word или Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Если вы являетесь разработчиком .NET и хотите добавить функции преобразования EMLX в GIF в свои приложения, API-интерфейсы для работы с форматами файлов [Aspose.Total for .NET](https://products.aspose.com/total/net/) — это то, что вам нужно. вперед. Используя [Aspose.Emlx для .NET](https://products.aspose.com/emlx/net/), вы можете преобразовать формат файла EMLX в HTML. После этого, используя [Aspose.Words для .NET](https://products.aspose.com/words/net/), вы можете преобразовать HTML в GIF.
+Если вы являетесь разработчиком .NET и хотите добавить функции преобразования EMLX в GIF в свои приложения, API-интерфейсы для работы с форматами файлов [Aspose.Total for .NET](https://products.aspose.com/total/net/) — это то, что вам нужно. вперед. Используя [Aspose.Emlx для .NET](https://products.aspose.com/email/net/), вы можете преобразовать формат файла EMLX в HTML. После этого, используя [Aspose.Words для .NET](https://products.aspose.com/words/net/), вы можете преобразовать HTML в GIF.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

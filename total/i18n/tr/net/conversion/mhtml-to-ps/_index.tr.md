@@ -63,7 +63,6 @@ document.Save("Decrypt_out.doc");
 {{% blocks/products/pf/feature-page-section  h2=".NET üzerinden ReadOnly PS- Dosyası Oluşturun" %}}
 PS'nizi düzenlemeden korumak ve diğer kişilerin belgenizdeki hassas ve gizli bilgileri düzenlemesini önlemek için API'yi kullanarak belgenin korumasını da ayarlayabilirsiniz. Bir belgeyi düzenleme yeteneğini sınırlayabilir ve onunla yalnızca belirli eylemlere izin verebilirsiniz. Bu, [Aspose.Words for .NET](https://products.aspose.com/words/net/) API kullanılarak yapılabilir. [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype) numaralandırma parametresini kullanarak içeriği kısıtlama şeklinizi kontrol etmenizi sağlar. Aşağıdaki kod satırlarını kullanarak belgenizi salt okunur olarak ayarlayabilirsiniz. 
 ```cs
-```cs
 Document document = new Document("input.doc");
 
 document.Protect(ProtectionType.ReadOnly, "password");

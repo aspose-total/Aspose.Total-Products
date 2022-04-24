@@ -13,7 +13,7 @@ otherformats: XPS PNG DOTX EMF PS WORDML DOTM ODT FLATOPC RTF DOC JPEG OTT EPUB 
 {{< blocks/products/pf/i18n/feature-page-header h1="Exportujte EMLX do PS přes .NET" h2=".NET API pro vykreslení EMLX do PS na Windows, macOS a Linux bez použití Wordu nebo Outlooku" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Pokud jste vývojář .NET, který chce přidat EMLX do funkcí převodu PS ve svých aplikacích, [Aspose.Total for .NET](https://products.aspose.com/total/net/) API pro manipulaci s formátem souborů jsou tím způsobem vpřed. Pomocí [Aspose.Email for .NET](https://products.aspose.com/emlx/net/) můžete převést formát souboru EMLX do HTML. Poté můžete pomocí [Aspose.Words for .NET](https://products.aspose.com/words/net/) vykreslit HTML do PS.
+Pokud jste vývojář .NET, který chce přidat EMLX do funkcí převodu PS ve svých aplikacích, [Aspose.Total for .NET](https://products.aspose.com/total/net/) API pro manipulaci s formátem souborů jsou tím způsobem vpřed. Pomocí [Aspose.Email for .NET](https://products.aspose.com/email/net/) můžete převést formát souboru EMLX do HTML. Poté můžete pomocí [Aspose.Words for .NET](https://products.aspose.com/words/net/) vykreslit HTML do PS.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

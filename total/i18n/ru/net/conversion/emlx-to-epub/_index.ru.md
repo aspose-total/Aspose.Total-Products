@@ -13,7 +13,7 @@ otherformats: GIF OTT PCL PS EMF RTF DOCM TEXT XPS PNG DOCX DOT EPUB ODT MD FLAT
 {{< blocks/products/pf/i18n/feature-page-header h1="Экспорт EMLX в EPUB через .NET" h2=".NET API для преобразования электронной почты в EPUB в Windows, macOS и Linux без использования Word или Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Если вы являетесь разработчиком .NET и хотите добавить функции преобразования EMLX в EPUB в свои приложения, API-интерфейсы для работы с форматами файлов [Aspose.Total for .NET](https://products.aspose.com/total/net/) — это то, что вам нужно. вперед. Используя [Aspose.Emlx для .NET](https://products.aspose.com/emlx/net/), вы можете преобразовать формат файла EMLX в HTML. После этого, используя [Aspose.Words для .NET](https://products.aspose.com/words/net/), вы можете преобразовать HTML в EPUB.
+Если вы являетесь разработчиком .NET и хотите добавить функции преобразования EMLX в EPUB в свои приложения, API-интерфейсы для работы с форматами файлов [Aspose.Total for .NET](https://products.aspose.com/total/net/) — это то, что вам нужно. вперед. Используя [Aspose.Emlx для .NET](https://products.aspose.com/email/net/), вы можете преобразовать формат файла EMLX в HTML. После этого, используя [Aspose.Words для .NET](https://products.aspose.com/words/net/), вы можете преобразовать HTML в EPUB.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

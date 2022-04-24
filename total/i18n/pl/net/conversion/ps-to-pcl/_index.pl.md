@@ -63,7 +63,6 @@ document.Save("Decrypt_out.doc");
 {{% blocks/products/pf/feature-page-section  h2="Utwórz plik PCL tylko do odczytu przez .NET" %}}
 Aby chronić swój PCL przed edycją i uniemożliwić innym osobom edytowanie poufnych i poufnych informacji w Twoim dokumencie, możesz również ustawić ochronę dokumentu za pomocą interfejsu API. Możesz ograniczyć możliwość edycji dokumentu i zezwolić tylko na określone działania. Można to zrobić za pomocą interfejsu API [Aspose.Words for .NET](https://products.aspose.com/words/net/). Umożliwia kontrolowanie sposobu ograniczania zawartości za pomocą parametru wyliczenia [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype). Możesz ustawić dokument jako tylko do odczytu, używając następujących wierszy kodu. 
 ```cs
-```cs
 Document document = new Document("input.doc");
 
 document.Protect(ProtectionType.ReadOnly, "password");

@@ -13,7 +13,7 @@ otherformats: DOCX DOC DOTM SVG PDF DOTX PNG RTF ODT FLATOPC DOT XPS GIF EPUB TI
 {{< blocks/products/pf/i18n/feature-page-header h1="تصدير البريد الإلكتروني إلى TEXT عبر .NET" h2=".NET API لتقديم EMLX إلى TEXT على أنظمة التشغيل Windows و macOS و Linux دون استخدام Word أو Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-إذا كنت مطور .NET تتطلع إلى إضافة EMLX إلى ميزات تحويل TEXT داخل تطبيقاتك ، فإن [Aspose.Total for .NET](https://products.aspose.com/total/net/) واجهات برمجة تطبيقات معالجة تنسيق الملف هي الطريقة إلى الأمام. باستخدام [Aspose.Email for .NET](https://products.aspose.com/emlx/net/) ، يمكنك تحويل تنسيق ملف EMLX إلى HTML. بعد ذلك ، باستخدام [Aspose.Words for .NET](https://products.aspose.com/words/net/) ، يمكنك تحويل HTML إلى TEXT.
+إذا كنت مطور .NET تتطلع إلى إضافة EMLX إلى ميزات تحويل TEXT داخل تطبيقاتك ، فإن [Aspose.Total for .NET](https://products.aspose.com/total/net/) واجهات برمجة تطبيقات معالجة تنسيق الملف هي الطريقة إلى الأمام. باستخدام [Aspose.Email for .NET](https://products.aspose.com/email/net/) ، يمكنك تحويل تنسيق ملف EMLX إلى HTML. بعد ذلك ، باستخدام [Aspose.Words for .NET](https://products.aspose.com/words/net/) ، يمكنك تحويل HTML إلى TEXT.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

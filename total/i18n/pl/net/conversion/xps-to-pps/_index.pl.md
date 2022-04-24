@@ -63,7 +63,6 @@ Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
 {{% blocks/products/pf/feature-page-section  h2="Utwórz plik PPS tylko do odczytu przez .NET" %}}
 Korzystając z interfejsu API [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) możesz jeszcze bardziej ulepszyć funkcje swojej aplikacji do konwersji. Jedną z funkcji może być utworzenie pliku wyjściowego tylko do odczytu w celu zwiększenia bezpieczeństwa. Interfejs API umożliwia ustawienie pliku PPS w trybie tylko do odczytu, co oznacza, że użytkownicy (po otwarciu prezentacji) widzą zalecenie tylko do odczytu. 
 ```cs
-```cs
 Presentation presentation = new Presentation("PptxOutput.pptx");
 
 presentation.ProtectionManager.ReadOnlyRecommended = true;

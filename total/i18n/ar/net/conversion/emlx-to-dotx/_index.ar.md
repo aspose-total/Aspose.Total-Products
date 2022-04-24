@@ -13,7 +13,7 @@ otherformats: OTT DOC PCL EMF DOTM MD DOCX XPS RTF PDF PNG TIFF DOCM DOTX ODT PS
 {{< blocks/products/pf/i18n/feature-page-header h1="تصدير البريد الإلكتروني إلى DOTX عبر .NET" h2=".NET API لتقديم EMLX إلى DOTX على أنظمة التشغيل Windows و macOS و Linux دون استخدام Word أو Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-إذا كنت مطور .NET تتطلع إلى إضافة EMLX إلى ميزات تحويل DOTX داخل تطبيقاتك ، فإن [Aspose.Total for .NET](https://products.aspose.com/total/net/) واجهات برمجة تطبيقات معالجة تنسيق الملف هي الطريقة إلى الأمام. باستخدام [Aspose.Email for .NET](https://products.aspose.com/emlx/net/) ، يمكنك تحويل تنسيق ملف EMLX إلى HTML. بعد ذلك ، باستخدام [Aspose.Words for .NET](https://products.aspose.com/words/net/) ، يمكنك تحويل HTML إلى DOTX.
+إذا كنت مطور .NET تتطلع إلى إضافة EMLX إلى ميزات تحويل DOTX داخل تطبيقاتك ، فإن [Aspose.Total for .NET](https://products.aspose.com/total/net/) واجهات برمجة تطبيقات معالجة تنسيق الملف هي الطريقة إلى الأمام. باستخدام [Aspose.Email for .NET](https://products.aspose.com/email/net/) ، يمكنك تحويل تنسيق ملف EMLX إلى HTML. بعد ذلك ، باستخدام [Aspose.Words for .NET](https://products.aspose.com/words/net/) ، يمكنك تحويل HTML إلى DOTX.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

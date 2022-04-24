@@ -63,7 +63,6 @@ document.Save("Decrypt_out.doc");
 {{% blocks/products/pf/feature-page-section  h2="Maak alleen-lezen DOTM-bestand via .NET" %}}
 Om uw DOTM te beschermen tegen bewerking en om te voorkomen dat andere mensen gevoelige en vertrouwelijke informatie in uw document bewerken, kunt u de bescherming van het document ook instellen met behulp van de API. U kunt de mogelijkheid om een document te bewerken beperken en er alleen bepaalde acties mee toestaan. Dit kan worden gedaan met behulp van de API [Aspose.Words for .NET](https://products.aspose.com/words/net/). Hiermee kunt u bepalen hoe u de inhoud beperkt met behulp van de opsommingsparameter [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype). U kunt uw document op alleen-lezen instellen door de volgende coderegels te gebruiken. 
 ```cs
-```cs
 Document document = new Document("input.doc");
 
 document.Protect(ProtectionType.ReadOnly, "password");

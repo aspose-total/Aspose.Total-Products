@@ -63,7 +63,6 @@ Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
 {{% blocks/products/pf/feature-page-section  h2=".NET üzerinden Salt Okunur PPSM Dosyası Oluşturun" %}}
 [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) API'sini kullanarak dönüştürme uygulamanızın özelliklerini daha da geliştirebilirsiniz. Özelliklerden biri, güvenliği artırmak için çıktı dosyanızı salt okunur olarak oluşturmak olabilir. API, PPSM dosyanızı Salt Okunur olarak ayarlamanıza olanak tanır; bu, kullanıcıların (sunuyu açtıktan sonra) Salt Okunur önerisini görmeleri anlamına gelir. 
 ```cs
-```cs
 Presentation presentation = new Presentation("PptxOutput.pptx");
 
 presentation.ProtectionManager.ReadOnlyRecommended = true;

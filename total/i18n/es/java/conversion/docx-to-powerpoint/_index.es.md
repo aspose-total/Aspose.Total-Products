@@ -12,20 +12,20 @@ otherformats: PPS PPSX PPT PPTM POT PPTX POTM PPSM POTX POWERPOINT CSV DIF FODS 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Convierta DOCX a POWERPOINT a través de Java" h2="Conversión de DOCX a POWERPOINT mediante el uso de la API Java local dentro de cualquier aplicación Java J2SE, J2EE, J2ME sin utilizar Microsoft<sup>&reg;</sup> PowerPoint o Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-A menudo, los desarrolladores tienen que convertir el archivo DOCX a POWERPOINT mediante programación. Mediante el uso de las bibliotecas Java de automatización de archivos [Aspose.Total para Java] (https://products.aspose.com/total/java/) puede automatizar el proceso de renderizado en unos pocos pasos simples. Puede cargar su archivo DOCX usando [Aspose.Words for Java](https://products.aspose.com/words/java/) y convertirlo a HTML. Después de eso, al usar la poderosa API Java de manipulación de PowerPoint [Aspose.Slides para Java] (https://products.aspose.com/slides/java/), puede crear una nueva presentación, escribir contenido HTML en ella y guardarla como POWERPOINT .
+A menudo, los desarrolladores tienen que convertir el archivo DOCX a POWERPOINT mediante programación. Mediante el uso de las bibliotecas Java de automatización de archivos [Aspose.Total para Java](https://products.aspose.com/total/java/) puede automatizar el proceso de renderizado en unos pocos pasos simples. Puede cargar su archivo DOCX usando [Aspose.Words for Java](https://products.aspose.com/words/java/) y convertirlo a HTML. Después de eso, al usar la poderosa API Java de manipulación de PowerPoint [Aspose.Slides para Java](https://products.aspose.com/slides/java/), puede crear una nueva presentación, escribir contenido HTML en ella y guardarla como POWERPOINT .
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir DOCX a POWERPOINT a través de Java" %}}
-1. Abra el archivo DOCX usando la clase [Documento] (https://apireference.aspose.com/words/java/com.aspose.words/Document)
+1. Abra el archivo DOCX usando la clase [Documento](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 2. Convierta el archivo DOCX a HTML usando [guardar](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions )) método
-3. Inicialice un nuevo objeto [Presentación] (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+3. Inicialice un nuevo objeto [Presentación](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraiga el contenido del archivo HTML usando BufferedReader y escriba el contenido en su archivo de presentación
 6. Guarde el documento en POWERPOINT usando el método [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
 Para la conversión de archivos DOCX a POWERPOINT, puede usar fácilmente Aspose.Total para Java directamente desde un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) e incluya bibliotecas en su pom.xml.
 
-Alternativamente, puede obtener un archivo ZIP de [descargas] (https://downloads.aspose.com/total/java).
+Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

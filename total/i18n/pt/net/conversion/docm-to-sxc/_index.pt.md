@@ -38,7 +38,7 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 C#
-{{% blocks/products/pf/feature-page-section  h2="Carregar docmumento DOCM do fluxo via C #" %}}
+{{% blocks/products/pf/feature-page-section  h2="Carregar docmumento DOCM do fluxo via C#" %}}
 [Aspose.Words for .NET](https://products.aspose.com/words/net/) também permite carregar docmumentos DOCM via stream. Para abrir um docmumento de um stream, basta passar um objeto stream que contém o docmumento para o construtor [Docmument](https://apireference.aspose.com/words/net/aspose.words/docmument). O exemplo de código a seguir mostra como abrir um docmumento de um fluxo:  
 {{% blocks/products/pf/feature-page-code %}}
 

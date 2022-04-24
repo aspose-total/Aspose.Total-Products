@@ -63,7 +63,6 @@ document.Save("Decrypt_out.doc");
 {{% blocks/products/pf/feature-page-section  h2="通过 .NET 创建只读 RTF- 文件" %}}
 为了保护您的 RTF 不被编辑，并防止其他人编辑您文档中的敏感和机密信息，您还可以使用 API 设置文档的保护。您可以限制编辑文档的能力，只允许对其进行某些操作。这可以使用 [Aspose.Words for .NET](https://products.aspose.com/words/net/) API 来完成。它使您能够控制使用 [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype) 枚举参数限制内容的方式。您可以使用以下代码行将文档设置为只读。 
 ```cs
-```cs
 Document document = new Document("input.doc");
 
 doc.Protect(ProtectionType.ReadOnly, "password");

@@ -63,7 +63,6 @@ if(outlookMessageFile.SenderName == "John"){
 {{% blocks/products/pf/feature-page-section  h2="Begränsa OTT-dokumentredigering via .NET" %}}
 När du sparar dokumentet från OFT till OTT kan du behöva skydda ditt utdatadokument. Ibland kan du behöva begränsa möjligheten att redigera ett dokument och endast tillåta vissa åtgärder med det. Detta kan vara användbart för att förhindra andra från att redigera känslig och konfidentiell information i ditt dokument. [Aspose.Words for .NET](https://products.aspose.com/words/net/) API, låter dig styra hur du begränsar innehållet med hjälp av [ProtectionType](https://apireference.aspose. com/words/net/aspose.words/protectiontype) uppräkningsparameter. Du kan ställa in ditt dokument på skrivskyddat genom att använda följande kodrader. 
 ```cs
-```cs
 Document document = new Document("HtmlOutput.html");
 
 document.Protect(ProtectionType.ReadOnly, "password");

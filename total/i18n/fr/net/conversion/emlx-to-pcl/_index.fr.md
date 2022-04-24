@@ -13,7 +13,7 @@ otherformats: PS EPUB PNG TEXT JPEG TIFF GIF MD FLATOPC EMF XPS ODT DOTM DOCX PC
 {{< blocks/products/pf/i18n/feature-page-header h1="Exporter EMLX vers PCL via .NET" h2="API .NET pour rendre EMLX en PCL sous Windows, macOS et Linux sans utiliser Word ou Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Si vous êtes un développeur .NET cherchant à ajouter des fonctionnalités de conversion EMLX vers PCL dans vos applications, les API de manipulation de format de fichier [Aspose.Total pour .NET](https://products.aspose.com/total/net/) sont la solution. avant. En utilisant [Aspose.Emlx pour .NET](https://products.aspose.com/emlx/net/), vous pouvez convertir le format de fichier EMLX en HTML. Après cela, en utilisant [Aspose.Words pour .NET](https://products.aspose.com/words/net/), vous pouvez restituer HTML en PCL.
+Si vous êtes un développeur .NET cherchant à ajouter des fonctionnalités de conversion EMLX vers PCL dans vos applications, les API de manipulation de format de fichier [Aspose.Total pour .NET](https://products.aspose.com/total/net/) sont la solution. avant. En utilisant [Aspose.Emlx pour .NET](https://products.aspose.com/email/net/), vous pouvez convertir le format de fichier EMLX en HTML. Après cela, en utilisant [Aspose.Words pour .NET](https://products.aspose.com/words/net/), vous pouvez restituer HTML en PCL.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

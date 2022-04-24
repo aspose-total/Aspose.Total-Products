@@ -12,7 +12,7 @@ otherformats: WORDML ODT RTF DOT DOTX PCL PS OTT XAMLFLOW MARKDOWN FLATOPC DOTM
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Transforme MHTML a PS a través de Java" h2="API de Java en las instalaciones para renderizar MHTML a PS sin usar ninguna aplicación de terceros" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Puede convertir MHTML a PS siguiendo dos simples pasos. Primero debe procesar el archivo MHTML en DOC usando [Aspose.PDF para Java] (https://products.aspose.com/pdf/java/). Después de eso, al usar la poderosa API de procesamiento de documentos [Aspose.Words for Java] (https://products.aspose.com/words/java/), puede convertir DOC a PS. Ambas API se incluyen en el paquete [Aspose.Total for Java](https://products.aspose.com/total/java/).
+Puede convertir MHTML a PS siguiendo dos simples pasos. Primero debe procesar el archivo MHTML en DOC usando [Aspose.PDF para Java](https://products.aspose.com/pdf/java/). Después de eso, al usar la poderosa API de procesamiento de documentos [Aspose.Words for Java](https://products.aspose.com/words/java/), puede convertir DOC a PS. Ambas API se incluyen en el paquete [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API de Java para convertir MHTML a PS" %}}
@@ -24,7 +24,7 @@ Puede convertir MHTML a PS siguiendo dos simples pasos. Primero debe procesar el
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
 Puede usar fácilmente Aspose.Total para Java directamente desde un proyecto basado en [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e incluya [Aspose.PDF para Java](https://docs.aspose.com/pdf/java/installation/) y [Aspose.Words para Java](https://docs.aspose.com/words/java/ instalación/) en su pom.xml.
 
-Alternativamente, puede obtener un archivo ZIP de [descargas] (https://downloads.aspose.com/total/java).
+Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 
@@ -37,10 +37,11 @@ document.save("DocOutput.doc", SaveFormat.DOC);
 Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 // call save method while passing SaveFormat.PS
 outputDocument.save("output.ps", SaveFormat.PS);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Requisitos de conversión" %}}
+{{% blocks/products/pf/feature-page-section  h2="Requisitos de conversión" %}}](
 Mientras convierte MHTML a PS, incluso si su documento está protegido con contraseña, aún puede abrirlo usando la API de manipulación de PDF [Aspose.PDF para Java] (https://docs.aspose.com/pdf/java/installation/). Para abrir el archivo cifrado, debe crear un objeto [Documento](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) y abrir el MHTML con la contraseña del propietario.  
 {{% blocks/products/pf/feature-page-code %}}
 
@@ -49,7 +50,8 @@ Mientras convierte MHTML a PS, incluso si su documento está protegido con contr
 Document document = new Document("input.mhtml", "password");
 // save MHTML as a DOC 
 document.save("DocOutput.doc", SaveFormat.DOC);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Abrir documento MHTML protegido con contraseña a través de Java" %}}
@@ -73,7 +75,8 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
     Statement statement = mConnection.createStatement();
     statement.executeUpdate(commandString);
 }  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -16,15 +16,15 @@ Convertir DOCX a SXC a través de [Aspose.Total for Java](https://products.aspos
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API de C++ para convertir DOCX a SXC" %}}
-1. Abra el archivo DOCX usando la clase [Documento] (https://apireference.aspose.com/words/java/com.aspose.words/Document)
+1. Abra el archivo DOCX usando la clase [Documento](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 2. Convierta DOCX a HTML usando [Guardar](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) método
-3. Cargue el documento HTML utilizando la clase [Libro de trabajo] (https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
+3. Cargue el documento HTML utilizando la clase [Libro de trabajo](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Guarde el documento en formato SXC mediante [Guardar](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. GuardarOpciones)) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
 Puede usar fácilmente Aspose.Total para Java directamente desde un proyecto basado en [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e incluya [Aspose.Words para Java](https://docxs.aspose.com/words/java/installation/) y [Aspose.Cells para Java](https://docxs.aspose.com/cells/java/ instalación/) en su pom.xml.
 
-Alternativamente, puede obtener un archivo ZIP de [descargas] (https://downloads.aspose.com/total/java).
+Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

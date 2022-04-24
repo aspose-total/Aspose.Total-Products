@@ -13,7 +13,7 @@ otherformats: MD XPS SVG TEXT WORDML DOT DOTX FLATOPC TIFF DOCX EMF OTT ODT DOC 
 {{< blocks/products/pf/i18n/feature-page-header h1="Экспорт EMLX в PDF через .NET" h2=".NET API для преобразования электронной почты в PDF в Windows, macOS и Linux без использования Word или Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Если вы являетесь разработчиком .NET и хотите добавить функции преобразования EMLX в PDF в свои приложения, API-интерфейсы для работы с форматами файлов [Aspose.Total for .NET](https://products.aspose.com/total/net/) — это то, что вам нужно. вперед. Используя [Aspose.Emlx для .NET](https://products.aspose.com/emlx/net/), вы можете преобразовать формат файла EMLX в HTML. После этого, используя [Aspose.Words для .NET](https://products.aspose.com/words/net/), вы можете преобразовать HTML в PDF.
+Если вы являетесь разработчиком .NET и хотите добавить функции преобразования EMLX в PDF в свои приложения, API-интерфейсы для работы с форматами файлов [Aspose.Total for .NET](https://products.aspose.com/total/net/) — это то, что вам нужно. вперед. Используя [Aspose.Emlx для .NET](https://products.aspose.com/email/net/), вы можете преобразовать формат файла EMLX в HTML. После этого, используя [Aspose.Words для .NET](https://products.aspose.com/words/net/), вы можете преобразовать HTML в PDF.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

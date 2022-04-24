@@ -12,7 +12,7 @@ otherformats: DOTX DOT DOCX RTF DOTM DOCXM WORD ODT OTT WORDML TEXT FLATOPC
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Convierta POT a DOCX a través de Java" h2="API de Java en las instalaciones para la conversión de PowerPoint POT a DOCX dentro de cualquier aplicación Java J2SE, J2EE, J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total para Java](https://products.aspose.com/total/java/) Las bibliotecas de automatización de formato de archivo permiten a los desarrolladores de Java automatizar el proceso de conversión por lotes de PowerPoint POT a Word DOCX. La conversión del documento es un proceso de dos pasos e implica el uso de dos API. Usaremos [Aspose.Slides for Java](https://products.aspose.com/slides/java/) que es una API de PowerPoint para la manipulación y administración de presentaciones para convertir POT a HTML. Después de eso, mediante el uso de la API de procesamiento de textos rica en funciones [Aspose.Words for Java] (https://products.aspose.com/words/java/), convertiremos el HTML a DOCX.
+[Aspose.Total para Java](https://products.aspose.com/total/java/) Las bibliotecas de automatización de formato de archivo permiten a los desarrolladores de Java automatizar el proceso de conversión por lotes de PowerPoint POT a Word DOCX. La conversión del documento es un proceso de dos pasos e implica el uso de dos API. Usaremos [Aspose.Slides for Java](https://products.aspose.com/slides/java/) que es una API de PowerPoint para la manipulación y administración de presentaciones para convertir POT a HTML. Después de eso, mediante el uso de la API de procesamiento de textos rica en funciones [Aspose.Words for Java](https://products.aspose.com/words/java/), convertiremos el HTML a DOCX.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir POT a DOCX a través de Java" %}}
@@ -24,7 +24,7 @@ otherformats: DOTX DOT DOCX RTF DOTM DOCXM WORD ODT OTT WORDML TEXT FLATOPC
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
 Para la conversión de archivos POT a DOCX, puede usar fácilmente Aspose.Total para Java directamente desde un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) e incluya bibliotecas en su pom.xml.
 
-Alternativamente, puede obtener un archivo ZIP de [descargas] (https://downloads.aspose.com/total/java).
+Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

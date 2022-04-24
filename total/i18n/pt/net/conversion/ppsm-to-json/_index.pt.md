@@ -47,7 +47,7 @@ Usando a API, você também pode abrir o documento protegido por senha. Se o doc
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}C#
 
-{{% blocks/products/pf/feature-page-section  h2="Converter PPSM para JSON no intervalo via C #" %}}
+{{% blocks/products/pf/feature-page-section  h2="Converter PPSM para JSON no intervalo via C#" %}}
 Ao converter PPSM para JSON, você também pode definir o intervalo para o formato JSON de saída. Para definir o intervalo, você pode abrir o HTML convertido usando a classe Workbook, obter CellsCollection da planilha que contém os dados, criar um intervalo de CellsCollection especificando índices de linha e coluna e chamar o método ExportRangeToJson com referências aos objetos Range & ExportRangeToJsonOptions. Por fim, você pode salvar os dados JSON em um arquivo por meio do método File.WriteAllText. 
 {{% blocks/products/pf/feature-page-code %}}
 
