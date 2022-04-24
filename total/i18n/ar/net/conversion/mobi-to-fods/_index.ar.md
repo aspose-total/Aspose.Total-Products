@@ -38,7 +38,7 @@ otherformats: ODS XLTX DIF FODS SXC XLT EXCEL XLSM XLSX XLAM TSV XLTM XLS XLSB
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-section  h2="قم بتحميل مستند MOBI من الدفق عبر C#" %}}
+{{% blocks/products/pf/feature-page-section  h2="قم بتحميل مستند MOBI من الدفق عبر C#" %}}
 يسمح لك [Aspose.Words for .NET](https://products.aspose.com/words/net/) أيضًا بتحميل مستند MOBI عبر الدفق. لفتح مستند من تيار ، ما عليك سوى تمرير كائن تيار يحتوي على المستند إلى مُنشئ [Mobiument](https://apireference.aspose.com/words/net/aspose.words/mobiument). يوضح المثال التالي من التعليمات البرمجية كيفية فتح مستند من دفق:  
 {{% blocks/products/pf/feature-page-code %}}
 

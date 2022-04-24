@@ -38,7 +38,7 @@ otherformats: XLSX SXC XLT XLSM XLSB XLTX XLS EXCEL TSV ODS XLAM XLTM FODS DIF
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-section  h2="قم بتحميل مستند DOCX من الدفق عبر C#" %}}
+{{% blocks/products/pf/feature-page-section  h2="قم بتحميل مستند DOCX من الدفق عبر C#" %}}
 يسمح لك [Aspose.Words for .NET](https://products.aspose.com/words/net/) أيضًا بتحميل مستند DOCX عبر الدفق. لفتح مستند من تيار ، ما عليك سوى تمرير كائن تيار يحتوي على المستند إلى مُنشئ [Document](https://apireference.aspose.com/words/net/aspose.words/document). يوضح المثال التالي من التعليمات البرمجية كيفية فتح مستند من دفق:  
 {{% blocks/products/pf/feature-page-code %}}
 
