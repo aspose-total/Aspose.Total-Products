@@ -19,7 +19,7 @@ otherformats: DIF XLT XLTM XLSX XLSB XLTX TSV EXCEL FODS ODS XLSM XLS XLAM SXC
 1. افتح ملف DOTM باستخدام فئة [Dotmument](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument)
 2. تحويل DOTM إلى HTML باستخدام [Save](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument#save (java.lang.String، com.aspose.words.SaveOptions) ) طريقة
 3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. احفظ المستند بتنسيق XLAM باستخدام [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save (java.lang.String،٪ 20com.aspose.cells. SaveOptions)) الطريقة
+4. احفظ المستند بتنسيق XLAM باستخدام [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String%D8%8C%D9%AA20com.aspose.cells.%20SaveOptions)) الطريقة
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
 يمكنك بسهولة استخدام Aspose.Total for Java مباشرة من مشروع قائم على [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) وتشمل [Aspose.Words for Java](https://dotms.aspose.com/words/java/installation/) و [Aspose.Cells for Java](https://dotms.aspose.com/cells/java/ التثبيت /) في ملف pom.xml الخاص بك.
