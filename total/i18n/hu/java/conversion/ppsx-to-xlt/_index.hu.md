@@ -12,7 +12,7 @@ otherformats: DIF XLS TSV MHTML XLSB ODS SXC XLAM EXCEL XLTX XLT XLSM XLSX MARKD
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="PPSX konvertálása XLT-vé Java segítségével" h2="On Premise Java API a PPSX exportálásához XLT formátumba Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-A PPSX-fájlt XLT-vé konvertálhatja az [Aspose.Total for Java] (https://products.aspose.com/total/java/) segítségével, két lépésben. Az első lépésben exportálhatja a PPSX-ot HTML-be az [Aspose.Slides for Java] (https://products.aspose.com/slides/java/) használatával. Másodszor, az [Aspose.Cells for Java] (https://products.aspose.com/cells/java/) használatával konvertálhatja a HTML-t XLT-vé.
+A PPSX-fájlt XLT-vé konvertálhatja az [Aspose.Total for Java](https://products.aspose.com/total/java/) segítségével, két lépésben. Az első lépésben exportálhatja a PPSX-ot HTML-be az [Aspose.Slides for Java](https://products.aspose.com/slides/java/) használatával. Másodszor, az [Aspose.Cells for Java](https://products.aspose.com/cells/java/) használatával konvertálhatja a HTML-t XLT-vé.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hogyan lehet a PPSX-ot XLT-vé konvertálni Java segítségével" %}}
@@ -29,21 +29,24 @@ Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads] webhelyről 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Konverziós követelmények" %}}
 Az API segítségével a jelszóval védett dokumentumot is megnyithatja. Ha a bevitt PPSX-dokumentum jelszóval védett, nem konvertálhatja XLT-vé a jelszó használata nélkül. Az API lehetővé teszi a titkosított dokumentum megnyitását a megfelelő jelszó átadásával egy LoadOptions objektumban.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="A Protected PPSX konvertálása XLT-re Java segítségével" %}}
 A PPSX fájl XLT formátumba konvertálásakor vízjelet is hozzáadhat a kimeneti XLT fájlformátumhoz. Vízjel hozzáadásához hozzon létre egy új munkafüzetet a konvertált HTML-fájl megnyitásához. Válassza ki a Munkalappsx az indexén keresztül, hozzon létre egy alakzatot, és használja az addTextEffect funkciót, állítsa be a színeket, az átlátszóságot és így tovább. Ezt követően elmentheti a HTML-dokumentumot XLT-ként vízjellel. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

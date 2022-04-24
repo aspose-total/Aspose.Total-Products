@@ -13,7 +13,7 @@ otherformats: OTT DOC PCL EMF DOTM MD DOCX XPS RTF PDF PNG TIFF DOCM DOTX ODT PS
 {{< blocks/products/pf/i18n/feature-page-header h1=".NET経由でEメールをDOTXにエクスポート" h2="WordやOutlookを使用せずにWindows、macOS、LinuxでEMLXをDOTXにレンダリングする.NET API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-アプリケーション内にEMLXからDOTXへの変換機能を追加しようとしている.NET開発者の場合、[Aspose.Total for .NET]（https://products.aspose.com/total/net/）ファイル形式操作APIがその方法です。前方。 [Aspose.Emlx for .NET]（https://products.aspose.com/emlx/net/）を使用すると、EMLXファイル形式をHTMLに変換できます。その後、[Aspose.Words for .NET]（https://products.aspose.com/words/net/）を使用して、HTMLをDOTXにレンダリングできます。
+アプリケーション内にEMLXからDOTXへの変換機能を追加しようとしている.NET開発者の場合、[Aspose.Total for .NET]（https://products.aspose.com/total/net/）ファイル形式操作APIがその方法です。前方。 [Aspose.Email for .NET]（https://products.aspose.com/email/net/）を使用すると、EMLXファイル形式をHTMLに変換できます。その後、[Aspose.Words for .NET]（https://products.aspose.com/words/net/）を使用して、HTMLをDOTXにレンダリングできます。
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.dotx", SaveFormat.Dotx);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2=".NET経由でEMLXファイルを解析する" %}}
-EMLXをDOTXに変換する前に、正しい電子メールを変換していることを確認したい場合は、EMLXドキュメントをロードして解析し、目的のプロパティを確認できます。 [Aspose.Emlx for .NET]（https://products.aspose.com/emlx）の[MapiMessage]（https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage）クラスを使用する/ net /）API、送信者と受信者の情報を取得できます。たとえば、[SenderName]（https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername）プロパティを使用して、変換用の特定の送信者メールを確認できます。  
+EMLXをDOTXに変換する前に、正しい電子メールを変換していることを確認したい場合は、EMLXドキュメントをロードして解析し、目的のプロパティを確認できます。 [Aspose.Email for .NET]（https://products.aspose.com/emlx）の[MapiMessage]（https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage）クラスを使用する/ net /）API、送信者と受信者の情報を取得できます。たとえば、[SenderName]（https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername）プロパティを使用して、変換用の特定の送信者メールを確認できます。  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

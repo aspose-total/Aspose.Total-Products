@@ -12,7 +12,7 @@ otherformats: XLSM SXC DIF XLTM EXCEL ODS XLSX XLAM XLTX XLS XLSB XLT FODS TSV
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Převést MOBI na XLS přes Java" h2="On Premise Java API pro převod MOBI na XLS bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Převod MOBI na XLS prostřednictvím [Aspose.Total for Java](https://products.aspose.com/total/java/) je jednoduchý dvoufázový proces. Pomocí rozhraní API pro manipulaci s dokumenty a konverzi [Aspose.Words for Java] (https://products.aspose.com/words/java/) můžete exportovat MOBI do HTML. Poté můžete pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/java/) převést HTML na XLS.
+Převod MOBI na XLS prostřednictvím [Aspose.Total for Java](https://products.aspose.com/total/java/) je jednoduchý dvoufázový proces. Pomocí rozhraní API pro manipulaci s dokumenty a konverzi [Aspose.Words for Java](https://products.aspose.com/words/java/) můžete exportovat MOBI do HTML. Poté můžete pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/java/) převést HTML na XLS.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API pro převod MOBI do XLS" %}}
@@ -24,7 +24,7 @@ Převod MOBI na XLS prostřednictvím [Aspose.Total for Java](https://products.a
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Aspose.Total pro Javu můžete snadno používat přímo z projektu založeného na [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a zahrnují [Aspose.Words for Java](https://mobis.aspose.com/words/java/installation/) a [Aspose.Cells for Java](https://mobis.aspose.com/cells/java/ instalace/) ve vašem pom.xml.
 
-Případně můžete získat soubor ZIP z [stažení] (https://downloads.aspose.com/total/java).
+Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

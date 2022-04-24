@@ -24,7 +24,7 @@ otherformats: RTF DOCX DOTM OTT WORD WORDML DOTX FLATOPC DOT TEXT ODT DOCXM
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Pro převod souborů PPSX na DOCX můžete snadno použít Aspose.Total pro Java přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) a zahrňte knihovny do vašeho pom.xml.
 
-Případně můžete získat soubor ZIP z [stažení] (https://downloads.aspose.com/total/java).
+Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

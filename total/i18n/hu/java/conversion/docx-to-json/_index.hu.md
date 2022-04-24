@@ -12,7 +12,7 @@ otherformats: XLAM XLSM DIF XLT CSV XLTX XLSX TSV ODS XLTM EXCEL FODS XLS XLSB
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="A DOCX konvertálása JSON formátumba Java segítségével" h2="On Premise Java API a DOCX konvertálásához JSON formátumba Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-A DOCX konvertálása JSON formátumba az [Aspose.Total for Java] segítségével (https://products.aspose.com/total/java/) egy egyszerű kétlépéses folyamat. A funkciókban gazdag, dokumentumkezelési és -konverziós API [Aspose.Words for Java] (https://products.aspose.com/words/java/) használatával DOCX-t HTML-be exportálhat. Ezt követően az [Aspose.Cells for Java] (https://products.aspose.com/cells/java/) használatával konvertálhatja a HTML-t JSON-ba.
+A DOCX konvertálása JSON formátumba az [Aspose.Total for Java] segítségével (https://products.aspose.com/total/java/) egy egyszerű kétlépéses folyamat. A funkciókban gazdag, dokumentumkezelési és -konverziós API [Aspose.Words for Java](https://products.aspose.com/words/java/) használatával DOCX-t HTML-be exportálhat. Ezt követően az [Aspose.Cells for Java](https://products.aspose.com/cells/java/) használatával konvertálhatja a HTML-t JSON-ba.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="A DOCX konvertálása JSON formátumba Java segítségével" %}}

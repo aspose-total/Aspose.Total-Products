@@ -18,7 +18,7 @@ Sie können MD in zwei einfachen Schritten in OTT konvertieren. Zuerst müssen S
 {{% blocks/products/pf/agp/feature-section-col title="Java-API zum Konvertieren von MD in OTT" %}}
 1. Öffnen Sie die MD-Datei mit der Klasse [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document).
 2. Konvertieren Sie MD in DOC mit [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) Methode
-3. Laden Sie die DOC-Datei mithilfe der Klasse [Document] (https://apireference.aspose.com/words/java/com.aspose.words/Document) von Aspose.Words
+3. Laden Sie die DOC-Datei mithilfe der Klasse [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) von Aspose.Words
 4. Speichern Sie das Dokument mit der Methode [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) im OTT-Format und legen Sie OTT fest als SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
@@ -37,7 +37,8 @@ document.save("DocOutput.doc", SaveFormat.DOC);
 Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 // call save method while passing SaveFormat.OTT
 outputDocument.save("output.ott", SaveFormat.OTT);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Konvertierungsanforderungen" %}}
@@ -49,7 +50,8 @@ Auch wenn Ihr Dokument passwortgeschützt ist, können Sie es während der Konve
 Document document = new Document("input.md", "password");
 // save MD as a DOC 
 document.save("DocOutput.doc", SaveFormat.DOC);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Öffnen Sie ein passwortgeschütztes MD-Dokument über Java" %}}
@@ -73,7 +75,8 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
     Statement statement = mConnection.createStatement();
     statement.executeUpdate(commandString);
 }  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

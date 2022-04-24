@@ -12,19 +12,19 @@ otherformats: DOTX MARKDOWN RTF DOTM XAMLFLOW ODT PCL OTT WORDML FLATOPC PS MHTM
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="تحويل PDF إلى PS عبر Java" h2="في Premise Java API لتقديم PDF إلى PS دون استخدام أي تطبيق تابع لجهة خارجية" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-يمكنك تحويل PDF إلى PS باستخدام خطوتين بسيطتين. تحتاج أولاً إلى تقديم ملف PDF إلى DOC باستخدام [Aspose.PDF لجافا] (https://products.aspose.com/pdf/java/). بعد ذلك ، باستخدام واجهة برمجة تطبيقات معالجة المستندات القوية [Aspose.Words for Java] (https://products.aspose.com/words/java/) ، يمكنك تحويل DOC إلى PS. تأتي كلتا واجهات برمجة التطبيقات ضمن حزمة [Aspose.Total for Java] (https://products.aspose.com/total/java/).
+يمكنك تحويل PDF إلى PS باستخدام خطوتين بسيطتين. تحتاج أولاً إلى تقديم ملف PDF إلى DOC باستخدام [Aspose.PDF لجافا](https://products.aspose.com/pdf/java/). بعد ذلك ، باستخدام واجهة برمجة تطبيقات معالجة المستندات القوية [Aspose.Words for Java](https://products.aspose.com/words/java/) ، يمكنك تحويل DOC إلى PS. تأتي كلتا واجهات برمجة التطبيقات ضمن حزمة [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java API لتحويل PDF إلى PS" %}}
-1. افتح ملف PDF باستخدام فئة [Document] (https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)
-2. تحويل PDF إلى DOC باستخدام [Save] (https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) طريقة
-3. قم بتحميل ملف DOC باستخدام فئة [Document] (https://apireference.aspose.com/words/java/com.aspose.words/Document) من Aspose.Words
-4. احفظ المستند بتنسيق PS باستخدام طريقة [Save] (https://apireference.aspose.com/words/java/com.aspose.words/Document#save (java.lang.String، int)) وقم بتعيين PS باسم SaveFormat
+1. افتح ملف PDF باستخدام فئة [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. تحويل PDF إلى DOC باستخدام [Save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) طريقة
+3. قم بتحميل ملف DOC باستخدام فئة [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) من Aspose.Words
+4. احفظ المستند بتنسيق PS باستخدام طريقة [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save (java.lang.String، int)) وقم بتعيين PS باسم SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-يمكنك بسهولة استخدام Aspose.Total for Java مباشرة من مشروع قائم على [Maven] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) وتشمل [Aspose.PDF for Java] (https://docs.aspose.com/pdf/java/installation/) و [Aspose.Words for Java] (https://docs.aspose.com/words/java/ التثبيت /) في ملف pom.xml الخاص بك.
+يمكنك بسهولة استخدام Aspose.Total for Java مباشرة من مشروع قائم على [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) وتشمل [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) و [Aspose.Words for Java](https://docs.aspose.com/words/java/ التثبيت /) في ملف pom.xml الخاص بك.
 
-بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات] (https://downloads.aspose.com/total/java).
+بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 
@@ -42,7 +42,7 @@ outputDocument.save("output.ps", SaveFormat.PS);
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="متطلبات التحويل" %}}
-أثناء تحويل PDF إلى PS ، حتى إذا كان المستند محميًا بكلمة مرور ، فلا يزال بإمكانك فتحه باستخدام واجهة برمجة تطبيقات معالجة PDF [Aspose.PDF for Java] (https://docs.aspose.com/pdf/java/installation/). لفتح الملف المشفر ، تحتاج إلى إنشاء كائن [مستند] (https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) وفتح PDF باستخدام كلمة مرور المالك.  
+أثناء تحويل PDF إلى PS ، حتى إذا كان المستند محميًا بكلمة مرور ، فلا يزال بإمكانك فتحه باستخدام واجهة برمجة تطبيقات معالجة PDF [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). لفتح الملف المشفر ، تحتاج إلى إنشاء كائن [مستند](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) وفتح PDF باستخدام كلمة مرور المالك.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -55,7 +55,7 @@ document.save("DocOutput.doc", SaveFormat.DOC);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="افتح مستند PDF المحمي بكلمة مرور عبر Java" %}}
-أثناء حفظ مستند الإدخال بتنسيق ملف PS ، يمكنك أيضًا حفظ المستند في قاعدة البيانات بدلاً من نظام الملفات. قد تحتاج إلى تنفيذ تخزين واسترجاع كائنات المستند من قاعدة البيانات وإليها. سيكون هذا ضروريًا إذا كنت تقوم بتنفيذ أي نوع من أنظمة إدارة المحتوى. من أجل حفظ PS في قاعدة البيانات ، غالبًا ما يكون من الضروري إجراء تسلسل للوثيقة للحصول على مصفوفة بايت. يمكن القيام بذلك باستخدام واجهة برمجة تطبيقات [Aspose.Words for Java] (https://products.aspose.com/words/Java/). بعد الحصول على مصفوفة البايت الخاصة بك ، يمكنك تخزينها في قاعدة البيانات باستخدام جملة SQL. 
+أثناء حفظ مستند الإدخال بتنسيق ملف PS ، يمكنك أيضًا حفظ المستند في قاعدة البيانات بدلاً من نظام الملفات. قد تحتاج إلى تنفيذ تخزين واسترجاع كائنات المستند من قاعدة البيانات وإليها. سيكون هذا ضروريًا إذا كنت تقوم بتنفيذ أي نوع من أنظمة إدارة المحتوى. من أجل حفظ PS في قاعدة البيانات ، غالبًا ما يكون من الضروري إجراء تسلسل للوثيقة للحصول على مصفوفة بايت. يمكن القيام بذلك باستخدام واجهة برمجة تطبيقات [Aspose.Words for Java](https://products.aspose.com/words/Java/). بعد الحصول على مصفوفة البايت الخاصة بك ، يمكنك تخزينها في قاعدة البيانات باستخدام جملة SQL. 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java

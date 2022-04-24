@@ -12,7 +12,7 @@ otherformats: MHTML RTF FLATOPC MARKDOWN OTT WORDML ODT DOTX DOTM XAMLFLOW DOT P
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="A PS átalakítása OTT-re Java segítségével" h2="On Premise Java API a PS megjelenítéséhez OTT-ben harmadik féltől származó alkalmazások használata nélkül" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Két egyszerű lépéssel a PS-et OTT-má konvertálhatja. Először is le kell renderelnie a PS-fájlt DOC-ban az [Aspose.PDF for Java] használatával (https://products.aspose.com/pdf/java/). Ezt követően a hatékony dokumentumfeldolgozási API [Aspose.Words for Java] (https://products.aspose.com/words/java/) használatával a DOC-t OTT-má konvertálhatja. Mindkét API az [Aspose.Total for Java](https://products.aspose.com/total/java/) csomagban található.
+Két egyszerű lépéssel a PS-et OTT-má konvertálhatja. Először is le kell renderelnie a PS-fájlt DOC-ban az [Aspose.PDF for Java] használatával (https://products.aspose.com/pdf/java/). Ezt követően a hatékony dokumentumfeldolgozási API [Aspose.Words for Java](https://products.aspose.com/words/java/) használatával a DOC-t OTT-má konvertálhatja. Mindkét API az [Aspose.Total for Java](https://products.aspose.com/total/java/) csomagban található.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java API a PS OTT-má konvertálásához" %}}
@@ -37,11 +37,12 @@ document.save("DocOutput.doc", SaveFormat.DOC);
 Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 // call save method while passing SaveFormat.OTT
 outputDocument.save("output.ott", SaveFormat.OTT);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Konverziós követelmények" %}}
-A PS OTT-re konvertálása közben még akkor is megnyithatja a PDF Manipulation API [Aspose.PDF for Java] (https://docs.aspose.com/pdf/java/installation/) segítségével, ha dokumentuma jelszóval védett. A titkosított fájl megnyitásához létre kell hoznia egy [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) objektumot, és meg kell nyitnia a PS-et a tulajdonos jelszavával.  
+{{% blocks/products/pf/feature-page-section  h2="Konverziós követelmények" %}}](
+A PS OTT-re konvertálása közben még akkor is megnyithatja a PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) segítségével, ha dokumentuma jelszóval védett. A titkosított fájl megnyitásához létre kell hoznia egy [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) objektumot, és meg kell nyitnia a PS-et a tulajdonos jelszavával.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -49,7 +50,8 @@ A PS OTT-re konvertálása közben még akkor is megnyithatja a PDF Manipulation
 Document document = new Document("input.ps", "password");
 // save PS as a DOC 
 document.save("DocOutput.doc", SaveFormat.DOC);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Nyissa meg a jelszóval védett PS-dokumentumot Java-n keresztül" %}}
@@ -73,7 +75,8 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
     Statement statement = mConnection.createStatement();
     statement.executeUpdate(commandString);
 }  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

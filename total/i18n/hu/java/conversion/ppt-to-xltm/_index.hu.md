@@ -12,7 +12,7 @@ otherformats: DIF XLS MARKDOWN SXC XLTX XLSB XLSX TSV XLAM EXCEL ODS XLSM FODS X
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="PPT konvertálása XLTM-vé Java segítségével" h2="On Premise Java API a PPT exportálásához XLTM formátumba Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-A PPT-fájlt XLTM-vé konvertálhatja az [Aspose.Total for Java] (https://products.aspose.com/total/java/) segítségével, két lépésben. Az első lépésben exportálhatja a PPT-ot HTML-be az [Aspose.Slides for Java] (https://products.aspose.com/slides/java/) használatával. Másodszor, az [Aspose.Cells for Java] (https://products.aspose.com/cells/java/) használatával konvertálhatja a HTML-t XLTM-vé.
+A PPT-fájlt XLTM-vé konvertálhatja az [Aspose.Total for Java](https://products.aspose.com/total/java/) segítségével, két lépésben. Az első lépésben exportálhatja a PPT-ot HTML-be az [Aspose.Slides for Java](https://products.aspose.com/slides/java/) használatával. Másodszor, az [Aspose.Cells for Java](https://products.aspose.com/cells/java/) használatával konvertálhatja a HTML-t XLTM-vé.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hogyan lehet a PPT-ot XLTM-vé konvertálni Java segítségével" %}}
@@ -29,21 +29,24 @@ Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads] webhelyről 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Konverziós követelmények" %}}
 Az API segítségével a jelszóval védett dokumentumot is megnyithatja. Ha a bevitt PPT-dokumentum jelszóval védett, nem konvertálhatja XLTM-vé a jelszó használata nélkül. Az API lehetővé teszi a titkosított dokumentum megnyitását a megfelelő jelszó átadásával egy LoadOptions objektumban.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="A Protected PPT konvertálása XLTM-re Java segítségével" %}}
 A PPT fájl XLTM formátumba konvertálásakor vízjelet is hozzáadhat a kimeneti XLTM fájlformátumhoz. Vízjel hozzáadásához hozzon létre egy új munkafüzetet a konvertált HTML-fájl megnyitásához. Válassza ki a Munkalappt az indexén keresztül, hozzon létre egy alakzatot, és használja az addTextEffect funkciót, állítsa be a színeket, az átlátszóságot és így tovább. Ezt követően elmentheti a HTML-dokumentumot XLTM-ként vízjellel. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

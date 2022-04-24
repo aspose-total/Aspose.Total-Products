@@ -24,19 +24,21 @@ otherformats: TEXT FLATOPCX WORD WORDML FLATOPCM OTT FLATOPC DOT RTF ODT DOTX DO
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Pro převod souborů PPSX na FLATOPC můžete snadno použít Aspose.Total pro Java přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) a zahrňte knihovny do vašeho pom.xml.
 
-Případně můžete získat soubor ZIP z [stažení] (https://downloads.aspose.com/total/java).
+Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Požadavky na převod" %}}
 Pomocí API můžete také provést převod PPSX souboru na FLATOPC s vodoznakem. Chcete-li přidat vodoznak do dokumentu FLATOPC, můžete nejprve převést soubor PPSX do HTML a přidat do něj vodoznak. Chcete-li přidat vodoznak, načtěte nově vytvořený soubor HTML pomocí třídy [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument), vytvořte instanci TextWatermarkOptions a nastavte jeho vlastnosti, zavolejte metodu Watermark.setText a předejte text vodoznaku a objekt TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

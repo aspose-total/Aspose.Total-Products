@@ -13,7 +13,7 @@ otherformats: DOCM DOTX SVG MD FLATOPC DOTM OTT PCL XPS RTF ODT DOC EPUB WORDML 
 {{< blocks/products/pf/i18n/feature-page-header h1="ส่งออก EMLX เป็น FLATOPC ผ่าน .NET" h2=".NET API เพื่อแสดงผล EMLX เป็น FLATOPC บน Windows, macOS และ Linux โดยไม่ต้องใช้ Word หรือ Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-หากคุณเป็นนักพัฒนา .NET ที่ต้องการเพิ่มฟีเจอร์การแปลง EMLX เป็น FLATOPC ภายในแอปพลิเคชันของคุณ [Aspose.Total for .NET](https://products.aspose.com/total/net/) การจัดการรูปแบบไฟล์ API เป็นวิธี ซึ่งไปข้างหน้า. เมื่อใช้ [Aspose.Emlx for .NET](https://products.aspose.com/emlx/net/) คุณจะแปลงรูปแบบไฟล์ EMLX เป็น HTML ได้ หลังจากนั้น คุณสามารถใช้ [Aspose.Words for .NET](https://products.aspose.com/words/net/) เพื่อแสดง HTML เป็น FLATOPC
+หากคุณเป็นนักพัฒนา .NET ที่ต้องการเพิ่มฟีเจอร์การแปลง EMLX เป็น FLATOPC ภายในแอปพลิเคชันของคุณ [Aspose.Total for .NET](https://products.aspose.com/total/net/) การจัดการรูปแบบไฟล์ API เป็นวิธี ซึ่งไปข้างหน้า. เมื่อใช้ [Aspose.Email for .NET](https://products.aspose.com/email/net/) คุณจะแปลงรูปแบบไฟล์ EMLX เป็น HTML ได้ หลังจากนั้น คุณสามารถใช้ [Aspose.Words for .NET](https://products.aspose.com/words/net/) เพื่อแสดง HTML เป็น FLATOPC
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -46,7 +46,7 @@ document.Save("output.flatopc", SaveFormat.FlatOpc);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="แยกไฟล์ EMLX ผ่าน .NET" %}}
-ก่อนแปลง EMLX เป็น FLATOPC หากคุณต้องการแน่ใจว่าคุณกำลังแปลงอีเมลที่ถูกต้อง คุณสามารถโหลดเอกสาร EMLX แยกวิเคราะห์ และดูคุณสมบัติที่คุณต้องการได้ โดยใช้ [MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) คลาสของ [Aspose.Emlx for .NET](https://products.aspose.com/emlx /net/) API คุณสามารถรับข้อมูลผู้ส่งและผู้รับ ตัวอย่างเช่น คุณสามารถตรวจสอบอีเมลผู้ส่งเฉพาะสำหรับการแปลงโดยใช้คุณสมบัติ [SenderName](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername)  
+ก่อนแปลง EMLX เป็น FLATOPC หากคุณต้องการแน่ใจว่าคุณกำลังแปลงอีเมลที่ถูกต้อง คุณสามารถโหลดเอกสาร EMLX แยกวิเคราะห์ และดูคุณสมบัติที่คุณต้องการได้ โดยใช้ [MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) คลาสของ [Aspose.Email for .NET](https://products.aspose.com/emlx /net/) API คุณสามารถรับข้อมูลผู้ส่งและผู้รับ ตัวอย่างเช่น คุณสามารถตรวจสอบอีเมลผู้ส่งเฉพาะสำหรับการแปลงโดยใช้คุณสมบัติ [SenderName](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername)  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs// instantiate MapiMessage to load an EMLX file from disk

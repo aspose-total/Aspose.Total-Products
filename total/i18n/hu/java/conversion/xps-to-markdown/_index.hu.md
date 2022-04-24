@@ -12,7 +12,7 @@ otherformats: WORDML RTF MARKDOWN ODT PCL PS MHTML OTT DOTM FLATOPC DOTX DOT
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="A XPS átalakítása MARKDOWN-re Java segítségével" h2="On Premise Java API a XPS megjelenítéséhez MARKDOWN-ben harmadik féltől származó alkalmazások használata nélkül" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Két egyszerű lépéssel a XPS-et MARKDOWN-má konvertálhatja. Először is le kell renderelnie a XPS-fájlt DOC-ban az [Aspose.PDF for Java] használatával (https://products.aspose.com/pdf/java/). Ezt követően a hatékony dokumentumfeldolgozási API [Aspose.Words for Java] (https://products.aspose.com/words/java/) használatával a DOC-t MARKDOWN-má konvertálhatja. Mindkét API az [Aspose.Total for Java](https://products.aspose.com/total/java/) csomagban található.
+Két egyszerű lépéssel a XPS-et MARKDOWN-má konvertálhatja. Először is le kell renderelnie a XPS-fájlt DOC-ban az [Aspose.PDF for Java] használatával (https://products.aspose.com/pdf/java/). Ezt követően a hatékony dokumentumfeldolgozási API [Aspose.Words for Java](https://products.aspose.com/words/java/) használatával a DOC-t MARKDOWN-má konvertálhatja. Mindkét API az [Aspose.Total for Java](https://products.aspose.com/total/java/) csomagban található.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java API a XPS MARKDOWN-má konvertálásához" %}}
@@ -37,11 +37,12 @@ document.save("DocOutput.doc", SaveFormat.DOC);
 Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 // call save method while passing SaveFormat.MARKDOWN
 outputDocument.save("output.markdown", SaveFormat.MARKDOWN);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Konverziós követelmények" %}}
-A XPS MARKDOWN-re konvertálása közben még akkor is megnyithatja a PDF Manipulation API [Aspose.PDF for Java] (https://docs.aspose.com/pdf/java/installation/) segítségével, ha dokumentuma jelszóval védett. A titkosított fájl megnyitásához létre kell hoznia egy [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) objektumot, és meg kell nyitnia a XPS-et a tulajdonos jelszavával.  
+{{% blocks/products/pf/feature-page-section  h2="Konverziós követelmények" %}}](
+A XPS MARKDOWN-re konvertálása közben még akkor is megnyithatja a PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) segítségével, ha dokumentuma jelszóval védett. A titkosított fájl megnyitásához létre kell hoznia egy [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) objektumot, és meg kell nyitnia a XPS-et a tulajdonos jelszavával.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -49,7 +50,8 @@ A XPS MARKDOWN-re konvertálása közben még akkor is megnyithatja a PDF Manipu
 Document document = new Document("input.xps", "password");
 // save XPS as a DOC 
 document.save("DocOutput.doc", SaveFormat.DOC);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Nyissa meg a jelszóval védett XPS-dokumentumot Java-n keresztül" %}}
@@ -73,7 +75,8 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
     Statement statement = mConnection.createStatement();
     statement.executeUpdate(commandString);
 }  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -13,7 +13,7 @@ otherformats: MD PDF SVG EMF WORDML DOT DOCX FLATOPC DOC ODT JPEG GIF PNG OTT RT
 {{< blocks/products/pf/i18n/feature-page-header h1="Exportera EMLX till DOCX via .NET" h2=".NET API för att rendera EMLX till DOCX på Windows, macOS och Linux utan att använda Word eller Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Om du är en .NET-utvecklare som vill lägga till EMLX till DOCX-konverteringsfunktioner i dina applikationer, är [Aspose.Total for .NET](https://products.aspose.com/total/net/) API:er för filformatsmanipulation vägen fram. Genom att använda [Aspose.Emlx for .NET](https://products.aspose.com/emlx/net/), kan du konvertera EMLX-filformat till HTML. Efter det, genom att använda [Aspose.Words for .NET](https://products.aspose.com/words/net/), kan du rendera HTML till DOCX.
+Om du är en .NET-utvecklare som vill lägga till EMLX till DOCX-konverteringsfunktioner i dina applikationer, är [Aspose.Total for .NET](https://products.aspose.com/total/net/) API:er för filformatsmanipulation vägen fram. Genom att använda [Aspose.Email for .NET](https://products.aspose.com/email/net/), kan du konvertera EMLX-filformat till HTML. Efter det, genom att använda [Aspose.Words for .NET](https://products.aspose.com/words/net/), kan du rendera HTML till DOCX.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -46,7 +46,7 @@ document.Save("output.docx", SaveFormat.Docx);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analysera EMLX-fil via .NET" %}}
-Innan du konverterar EMLX till DOCX, om du vill vara säker på att du konverterar rätt e-post, kan du ladda EMLX-dokumentet, analysera det och ta en titt på din önskade egenskap. Genom att använda [MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) klass av [Aspose.Emlx for .NET](https://products.aspose.com/emlx /net/) API kan du få information om avsändare och mottagare. Du kan till exempel söka efter en specifik avsändar-e-post för konverteringen genom att använda egenskapen [SenderName](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername).  
+Innan du konverterar EMLX till DOCX, om du vill vara säker på att du konverterar rätt e-post, kan du ladda EMLX-dokumentet, analysera det och ta en titt på din önskade egenskap. Genom att använda [MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) klass av [Aspose.Email for .NET](https://products.aspose.com/emlx /net/) API kan du få information om avsändare och mottagare. Du kan till exempel söka efter en specifik avsändar-e-post för konverteringen genom att använda egenskapen [SenderName](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs// instantiate MapiMessage to load an EMLX file from disk

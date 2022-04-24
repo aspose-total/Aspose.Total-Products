@@ -12,7 +12,7 @@ otherformats: FODS XLAM TSV ODS XLSX XLS MHTML XLT XLTM EXCEL SXC XLTX DIF MARKD
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="POWERPOINT konvertálása ODS-vé Java segítségével" h2="On Premise Java API a POWERPOINT exportálásához ODS formátumba Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-A POWERPOINT-fájlt ODS-vé konvertálhatja az [Aspose.Total for Java] (https://products.aspose.com/total/java/) segítségével, két lépésben. Az első lépésben exportálhatja a POWERPOINT-ot HTML-be az [Aspose.Slides for Java] (https://products.aspose.com/slides/java/) használatával. Másodszor, az [Aspose.Cells for Java] (https://products.aspose.com/cells/java/) használatával konvertálhatja a HTML-t ODS-vé.
+A POWERPOINT-fájlt ODS-vé konvertálhatja az [Aspose.Total for Java](https://products.aspose.com/total/java/) segítségével, két lépésben. Az első lépésben exportálhatja a POWERPOINT-ot HTML-be az [Aspose.Slides for Java](https://products.aspose.com/slides/java/) használatával. Másodszor, az [Aspose.Cells for Java](https://products.aspose.com/cells/java/) használatával konvertálhatja a HTML-t ODS-vé.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hogyan lehet a POWERPOINT-ot ODS-vé konvertálni Java segítségével" %}}
@@ -29,21 +29,24 @@ Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads] webhelyről 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Konverziós követelmények" %}}
 Az API segítségével a jelszóval védett dokumentumot is megnyithatja. Ha a bevitt POWERPOINT-dokumentum jelszóval védett, nem konvertálhatja ODS-vé a jelszó használata nélkül. Az API lehetővé teszi a titkosított dokumentum megnyitását a megfelelő jelszó átadásával egy LoadOptions objektumban.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="A Protected POWERPOINT konvertálása ODS-re Java segítségével" %}}
 A POWERPOINT fájl ODS formátumba konvertálásakor vízjelet is hozzáadhat a kimeneti ODS fájlformátumhoz. Vízjel hozzáadásához hozzon létre egy új munkafüzetet a konvertált HTML-fájl megnyitásához. Válassza ki a Munkalapowerpoint az indexén keresztül, hozzon létre egy alakzatot, és használja az addTextEffect funkciót, állítsa be a színeket, az átlátszóságot és így tovább. Ezt követően elmentheti a HTML-dokumentumot ODS-ként vízjellel. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

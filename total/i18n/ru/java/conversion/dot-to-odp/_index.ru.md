@@ -12,7 +12,7 @@ otherformats: PPTX POT PPS PPTM POTX POTM PPSX POWERPOINT PPSM PPT CSV DIF FODS 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Преобразование DOT в ODP через Java" h2="Преобразование DOT в ODP с помощью локального Java API в любых приложениях Java J2SE, J2EE, J2ME без использования Microsoft<sup>&reg;</sup> PowerPoint или Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Часто разработчикам приходится программно преобразовывать файл DOT в ODP. Используя библиотеки Java для автоматизации файлов [Aspose.Total for Java](https://products.aspose.com/total/java/), вы можете автоматизировать процесс рендеринга, выполнив несколько простых шагов. Вы можете загрузить файл DOT с помощью [Aspose.Words for Java](https://products.aspose.com/words/java/) и преобразовать его в HTML. После этого, используя мощный Java-API для манипулирования PowerPoint [Aspose.Slides for Java] (https://products.aspose.com/slides/java/), вы можете создать новую презентацию, записать в нее HTML-контент и сохранить его как ODP. .
+Часто разработчикам приходится программно преобразовывать файл DOT в ODP. Используя библиотеки Java для автоматизации файлов [Aspose.Total for Java](https://products.aspose.com/total/java/), вы можете автоматизировать процесс рендеринга, выполнив несколько простых шагов. Вы можете загрузить файл DOT с помощью [Aspose.Words for Java](https://products.aspose.com/words/java/) и преобразовать его в HTML. После этого, используя мощный Java-API для манипулирования PowerPoint [Aspose.Slides for Java](https://products.aspose.com/slides/java/), вы можете создать новую презентацию, записать в нее HTML-контент и сохранить его как ODP. .
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как конвертировать DOT в ODP через Java" %}}
@@ -23,21 +23,23 @@ otherformats: PPTX POT PPS PPTM POTX POTM PPSX POWERPOINT PPSM PPT CSV DIF FODS 
 6. Сохраните документ в ODP, используя метод [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
-Для преобразования файлов DOT в ODP вы можете легко использовать Aspose.Total для Java непосредственно из [Maven] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) и включите библиотеки в ваш pom.xml.
+Для преобразования файлов DOT в ODP вы можете легко использовать Aspose.Total для Java непосредственно из [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) и включите библиотеки в ваш pom.xml.
 
-Кроме того, вы можете получить ZIP-файл из [загрузки] (https://downloads.aspose.com/total/java).
+Кроме того, вы можете получить ZIP-файл из [загрузки](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-dot-to-pptx.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Требования к конвертации" %}}
 API также позволяет преобразовывать защищенные паролем документы DOT в ODP. Если ваш входной документ DOT защищен паролем, вы не можете преобразовать его в формат ODP без использования пароля. Чтобы открыть зашифрованный документ, вы можете установить правильный пароль в объекте LoadOptions и передать его конструктору документа.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dot-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dot-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

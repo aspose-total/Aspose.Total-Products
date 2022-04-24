@@ -12,7 +12,7 @@ otherformats: PPSX PPS POT POTM OTP POTX PPSM PPTM POWERPOINT PPT
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Konvertálja a JSON formátumot POWERPOINT-re Java segítségével" h2="Java API a JSON formátum POWERPOINT-re történő elemzéséhez a Microsoft<sup>&reg;</sup> PowerPoint használata nélkül" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Az [Aspose.Total for Java] (https://products.aspose.com/total/java/) használatával két egyszerű lépésben konvertálhat JSON-formátumot POWERPOINT-vé bármely Java-alkalmazáson belül. Először is, az [Aspose.Cells for Java] (https://products.aspose.com/cells/java/) használatával elemezheti a JSON-t PPTX-re. Ezt követően az [Aspose.Slides for Java] (https://products.aspose.com/slides/java/) használatával konvertálhatja a PPTX-t POWERPOINT-vé.
+Az [Aspose.Total for Java](https://products.aspose.com/total/java/) használatával két egyszerű lépésben konvertálhat JSON-formátumot POWERPOINT-vé bármely Java-alkalmazáson belül. Először is, az [Aspose.Cells for Java](https://products.aspose.com/cells/java/) használatával elemezheti a JSON-t PPTX-re. Ezt követően az [Aspose.Slides for Java](https://products.aspose.com/slides/java/) használatával konvertálhatja a PPTX-t POWERPOINT-vé.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertálja a JSON formátumot POWERPOINT-re Java segítségével" %}}
@@ -29,21 +29,24 @@ Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads] webhelyről 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "convert-json-to-powerpoint.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Konverziós követelmények" %}}
 Ezenkívül az API lehetővé teszi a JSON elemzését POWERPOINT-re meghatározott elrendezési beállításokkal. Az elrendezési beállítások megadásához használhatja a [JsonLayoutOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonlayutoptions) osztályt. Lehetővé teszi egy tömb táblaként történő feldolgozását, a nullák figyelmen kívül hagyását, a tömb címének figyelmen kívül hagyását, az objektum címének figyelmen kívül hagyását, a karakterlánc számmá vagy dátummá alakítását, a dátum és a számformátum beállítását, valamint a címstílus beállítását. Mindezek a lehetőségek lehetővé teszik, hogy adatait az igényeinek megfelelően mutassa be. A következő kódrészlet bemutatja, hogyan állíthatja be az elrendezési beállításokat.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "set-layout-and-parse-json-to-powerpoint.java" >}}
+{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "set-layout-and-parse-json-to-powerpoint.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Állítsa be az elrendezést, és konvertálja a JSON-formátumot POWERPOINT-re Java segítségével" %}}
 Az API használatával a JSON-t vízjellel POWERPOINT-vé is konvertálhatja. Ha vízjelet szeretne hozzáadni az POWERPOINT-dokumentumhoz, először elemezze a JSON-t PPTX-be, és adjon hozzá egy vízjelet. Vízjel hozzáadásához töltse be az újonnan létrehozott PPTX fájlt a [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) osztály segítségével, görgessen végig az összes dián, és adjon hozzá szöveget az addTextFrame segítségével állítsa be az összes releváns beállítást, például a színt, a fillType-ot és egyebeket, és mentheti a dokumentumot az POWERPOINT-be. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "parse-json-to-powerpoint-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "parse-json-to-powerpoint-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

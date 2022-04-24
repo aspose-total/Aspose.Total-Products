@@ -13,7 +13,7 @@ otherformats: DOCX DOC DOTM SVG PDF DOTX PNG RTF ODT FLATOPC DOT XPS GIF EPUB TI
 {{< blocks/products/pf/i18n/feature-page-header h1="Exportar EMLX para TEXT via .NET" h2="API .NET para renderizar EMLX para TEXT no Windows, macOS e Linux sem usar Word ou Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Se você é um desenvolvedor .NET que deseja adicionar recursos de conversão de EMLX para TEXT dentro de seus aplicativos, as APIs de manipulação de formato de arquivo [Aspose.Total for .NET](https://products.aspose.com/total/net/) são o caminho. frente. Usando [Aspose.Emlx para .NET](https://products.aspose.com/emlx/net/), você pode converter o formato de arquivo EMLX para HTML. Depois disso, usando [Aspose.Words for .NET](https://products.aspose.com/words/net/), você pode renderizar HTML para TEXT.
+Se você é um desenvolvedor .NET que deseja adicionar recursos de conversão de EMLX para TEXT dentro de seus aplicativos, as APIs de manipulação de formato de arquivo [Aspose.Total for .NET](https://products.aspose.com/total/net/) são o caminho. frente. Usando [Aspose.Emlx para .NET](https://products.aspose.com/email/net/), você pode converter o formato de arquivo EMLX para HTML. Depois disso, usando [Aspose.Words for .NET](https://products.aspose.com/words/net/), você pode renderizar HTML para TEXT.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -46,7 +46,7 @@ document.Save("output.text", SaveFormat.Text);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analisar arquivo EMLX via .NET" %}}
-Antes de converter EMLX para TEXT, se você quiser ter certeza de que está convertendo o emlx correto, você pode carregar o documento EMLX, analisá-lo e dar uma olhada na propriedade desejada. Usando a classe [MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) de [Aspose.Emlx for .NET](https://products.aspose.com/emlx /net/) API, você pode obter informações de remetente e destinatários. Por exemplo, você pode verificar um e-mail de remetente específico para a conversão usando a propriedade [SenderName](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername).  
+Antes de converter EMLX para TEXT, se você quiser ter certeza de que está convertendo o emlx correto, você pode carregar o documento EMLX, analisá-lo e dar uma olhada na propriedade desejada. Usando a classe [MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) de [Aspose.Email for .NET](https://products.aspose.com/emlx /net/) API, você pode obter informações de remetente e destinatários. Por exemplo, você pode verificar um e-mail de remetente específico para a conversão usando a propriedade [SenderName](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs// instantiate MapiMessage to load an EMLX file from disk

@@ -12,7 +12,7 @@ otherformats: TGA DICOM JPEG2000 WMZ EMZ PSD WMF DXF SVGZ IMAGE
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Převeďte formát JSON na WMF přes Java" h2="Java API pro analýzu formátu JSON na WMF v jakékoli aplikaci Java J2SE, J2EE, J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Pomocí [Aspose.Total for Java](https://products.aspose.com/total/java/) můžete převést formát JSON na WMF v jakékoli aplikaci Java ve dvou jednoduchých krocích. Za prvé, pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/java/) můžete analyzovat JSON na JPEG. Poté můžete pomocí [Aspose.Imaging for Java] (https://products.aspose.com/imaging/java/) převést JPEG na WMF.
+Pomocí [Aspose.Total for Java](https://products.aspose.com/total/java/) můžete převést formát JSON na WMF v jakékoli aplikaci Java ve dvou jednoduchých krocích. Za prvé, pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/java/) můžete analyzovat JSON na JPEG. Poté můžete pomocí [Aspose.Imaging for Java](https://products.aspose.com/imaging/java/) převést JPEG na WMF.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Převeďte formát JSON na WMF přes Java" %}}
@@ -24,7 +24,7 @@ Pomocí [Aspose.Total for Java](https://products.aspose.com/total/java/) můžet
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Aspose.Total pro Javu můžete snadno používat přímo z projektu založeného na [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a zahrňte knihovny do vašeho pom.xml.
 
-Případně můžete získat soubor ZIP z [stažení] (https://downloads.aspose.com/total/java).
+Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

@@ -13,7 +13,7 @@ otherformats: TEXT OTT EMF WORDML GIF XPS TIFF DOCM DOCX DOT ODT DOTM DOTX PNG R
 {{< blocks/products/pf/i18n/feature-page-header h1="EMLX'i .NET aracılığıyla XPS'ye aktarın" h2="Windows, macOS ve Linux'ta Word veya Outlook kullanmadan EMLX'i XPS'ye Oluşturmak için .NET API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Uygulamalarınızın içine EMLX to XPS dönüştürme özelliklerini eklemek isteyen bir .NET geliştiricisiyseniz, [Aspose.Total for .NET](https://products.aspose.com/total/net/) dosya biçimi işleme API'leri doğru yoldur. ileri. [Aspose.Emlx for .NET](https://products.aspose.com/emlx/net/) kullanarak EMLX dosya biçimini HTML'ye dönüştürebilirsiniz. Bundan sonra, [Aspose.Words for .NET](https://products.aspose.com/words/net/) kullanarak HTML'yi XPS'ye dönüştürebilirsiniz.
+Uygulamalarınızın içine EMLX to XPS dönüştürme özelliklerini eklemek isteyen bir .NET geliştiricisiyseniz, [Aspose.Total for .NET](https://products.aspose.com/total/net/) dosya biçimi işleme API'leri doğru yoldur. ileri. [Aspose.Email for .NET](https://products.aspose.com/email/net/) kullanarak EMLX dosya biçimini HTML'ye dönüştürebilirsiniz. Bundan sonra, [Aspose.Words for .NET](https://products.aspose.com/words/net/) kullanarak HTML'yi XPS'ye dönüştürebilirsiniz.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -46,7 +46,7 @@ document.Save("output.xps", SaveFormat.Xps);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="E-POSTA Dosyasını .NET ile Ayrıştırma" %}}
-EMLX'i XPS'ye dönüştürmeden önce, doğru e-postayı dönüştürdüğünüzden emin olmak istiyorsanız, EMLX belgesini yükleyebilir, ayrıştırabilir ve istediğiniz özelliğe bir göz atabilirsiniz. [Aspose.Emlx for .NET](https://products.aspose.com/emlx) [MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) sınıfını kullanarak /net/) API, gönderici ve alıcı bilgilerini alabilirsiniz. Örneğin, [GönderenAdı](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername) özelliğini kullanarak dönüşüm için belirli bir gönderen e-postasını kontrol edebilirsiniz.  
+EMLX'i XPS'ye dönüştürmeden önce, doğru e-postayı dönüştürdüğünüzden emin olmak istiyorsanız, EMLX belgesini yükleyebilir, ayrıştırabilir ve istediğiniz özelliğe bir göz atabilirsiniz. [Aspose.Email for .NET](https://products.aspose.com/emlx) [MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) sınıfını kullanarak /net/) API, gönderici ve alıcı bilgilerini alabilirsiniz. Örneğin, [GönderenAdı](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername) özelliğini kullanarak dönüşüm için belirli bir gönderen e-postasını kontrol edebilirsiniz.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs// instantiate MapiMessage to load an EMLX file from disk

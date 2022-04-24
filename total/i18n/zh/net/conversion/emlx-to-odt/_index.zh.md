@@ -13,7 +13,7 @@ otherformats: ODT PS TIFF GIF PNG DOTM DOC DOTX OTT PDF DOCX SVG XPS TEXT RTF MD
 {{< blocks/products/pf/i18n/feature-page-header h1="通过 .NET 将 EMLX 导出到 ODT" h2=".NET API 在 Windows、macOS 和 Linux 上将 EMLX 渲染为 ODT，而无需使用 Word 或 Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-如果您是一名 .NET 开发人员，希望在您的应用程序中添加 EMLX 到 ODT 转换功能，那么 [Aspose.Total for .NET](https://products.aspose.com/total/net/) 文件格式操作 API 是一种方式向前。通过使用 [Aspose.Emlx for .NET](https://products.aspose.com/emlx/net/)，您可以将 EMLX 文件格式转换为 HTML。之后，通过使用 [Aspose.Words for .NET](https://products.aspose.com/words/net/)，您可以将 HTML 渲染为 ODT。
+如果您是一名 .NET 开发人员，希望在您的应用程序中添加 EMLX 到 ODT 转换功能，那么 [Aspose.Total for .NET](https://products.aspose.com/total/net/) 文件格式操作 API 是一种方式向前。通过使用 [Aspose.Email for .NET](https://products.aspose.com/email/net/)，您可以将 EMLX 文件格式转换为 HTML。之后，通过使用 [Aspose.Words for .NET](https://products.aspose.com/words/net/)，您可以将 HTML 渲染为 ODT。
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -46,7 +46,7 @@ document.Save("output.odt", SaveFormat.Odt);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="通过 .NET 解析 EMLX 文件" %}}
-在将 EMLX 转换为 ODT 之前，如果您想确保您正在转换正确的电子邮件，您可以加载 EMLX 文档，对其进行解析并查看您想要的属性。通过使用 [Aspose.Emlx for .NET](https://products.aspose.com/emlx) 的 [MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) 类/net/) API，可以获取发件人和收件人信息。例如，您可以使用 [SenderName](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername) 属性检查转换的特定发件人电子邮件。  
+在将 EMLX 转换为 ODT 之前，如果您想确保您正在转换正确的电子邮件，您可以加载 EMLX 文档，对其进行解析并查看您想要的属性。通过使用 [Aspose.Email for .NET](https://products.aspose.com/emlx) 的 [MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) 类/net/) API，可以获取发件人和收件人信息。例如，您可以使用 [SenderName](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername) 属性检查转换的特定发件人电子邮件。  
 {{% blocks/products/pf/feature-page-code %}}
 ```cs
 

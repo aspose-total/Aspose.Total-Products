@@ -18,7 +18,7 @@ Sie können XPS in zwei einfachen Schritten in ODT konvertieren. Zuerst müssen 
 {{% blocks/products/pf/agp/feature-section-col title="Java-API zum Konvertieren von XPS in ODT" %}}
 1. Öffnen Sie die XPS-Datei mit der Klasse [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document).
 2. Konvertieren Sie XPS in DOC mit [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) Methode
-3. Laden Sie die DOC-Datei mithilfe der Klasse [Document] (https://apireference.aspose.com/words/java/com.aspose.words/Document) von Aspose.Words
+3. Laden Sie die DOC-Datei mithilfe der Klasse [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) von Aspose.Words
 4. Speichern Sie das Dokument mit der Methode [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) im ODT-Format und legen Sie ODT fest als SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
@@ -37,7 +37,8 @@ document.save("DocOutput.doc", SaveFormat.DOC);
 Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 // call save method while passing SaveFormat.ODT
 outputDocument.save("output.odt", SaveFormat.ODT);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Konvertierungsanforderungen" %}}
@@ -49,7 +50,8 @@ Auch wenn Ihr Dokument passwortgeschützt ist, können Sie es während der Konve
 Document document = new Document("input.xps", "password");
 // save XPS as a DOC 
 document.save("DocOutput.doc", SaveFormat.DOC);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Öffnen Sie ein passwortgeschütztes XPS-Dokument über Java" %}}
@@ -73,7 +75,8 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
     Statement statement = mConnection.createStatement();
     statement.executeUpdate(commandString);
 }  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

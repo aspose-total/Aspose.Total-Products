@@ -13,7 +13,7 @@ otherformats: MD XPS SVG TEXT WORDML DOT DOTX FLATOPC TIFF DOCX EMF OTT ODT DOC 
 {{< blocks/products/pf/i18n/feature-page-header h1="Xuất EMLX sang PDF qua .NET" h2=".NET API để hiển thị EMLX thành PDF trên Windows, macOS và Linux mà không cần sử dụng Word hoặc Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Nếu bạn là nhà phát triển .NET đang tìm cách thêm các tính năng chuyển đổi EMLX sang PDF bên trong ứng dụng của mình, thì API thao tác định dạng tệp [Aspose.Total cho .NET](https://products.aspose.com/total/net/) là cách phía trước. Bằng cách sử dụng [Aspose.Emlx for .NET](https://products.aspose.com/emlx/net/), bạn có thể chuyển đổi định dạng tệp EMLX sang HTML. Sau đó, bằng cách sử dụng [Aspose.Words for .NET](https://products.aspose.com/words/net/), bạn có thể kết xuất HTML thành PDF.
+Nếu bạn là nhà phát triển .NET đang tìm cách thêm các tính năng chuyển đổi EMLX sang PDF bên trong ứng dụng của mình, thì API thao tác định dạng tệp [Aspose.Total cho .NET](https://products.aspose.com/total/net/) là cách phía trước. Bằng cách sử dụng [Aspose.Email for .NET](https://products.aspose.com/email/net/), bạn có thể chuyển đổi định dạng tệp EMLX sang HTML. Sau đó, bằng cách sử dụng [Aspose.Words for .NET](https://products.aspose.com/words/net/), bạn có thể kết xuất HTML thành PDF.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -46,7 +46,7 @@ document.Save("output.pdf", SaveFormat.Pdf);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Phân tích cú pháp Tệp EMLX qua .NET" %}}
-Trước khi chuyển đổi EMLX thành PDF, nếu bạn muốn đảm bảo rằng bạn đang chuyển đổi đúng emlx, bạn có thể tải tài liệu EMLX, phân tích cú pháp và xem thuộc tính mong muốn của mình. Bằng cách sử dụng lớp [MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) của [Aspose.Emlx for .NET](https://products.aspose.com/emlx / net /) API, bạn có thể lấy thông tin người gửi và người nhận. Ví dụ: bạn có thể kiểm tra emlx của người gửi cụ thể cho việc chuyển đổi bằng cách sử dụng thuộc tính [SenderName](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername).  
+Trước khi chuyển đổi EMLX thành PDF, nếu bạn muốn đảm bảo rằng bạn đang chuyển đổi đúng emlx, bạn có thể tải tài liệu EMLX, phân tích cú pháp và xem thuộc tính mong muốn của mình. Bằng cách sử dụng lớp [MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) của [Aspose.Email for .NET](https://products.aspose.com/emlx / net /) API, bạn có thể lấy thông tin người gửi và người nhận. Ví dụ: bạn có thể kiểm tra emlx của người gửi cụ thể cho việc chuyển đổi bằng cách sử dụng thuộc tính [SenderName](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs// instantiate MapiMessage to load an EMLX file from disk

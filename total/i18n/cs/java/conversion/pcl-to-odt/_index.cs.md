@@ -12,7 +12,7 @@ otherformats: WORDML DOTX XAMLFLOW DOT FLATOPC PS DOTM MARKDOWN MHTML ODT OTT RT
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Transformujte PCL na ODT přes Java" h2="On Premise Java API pro vykreslení PCL do ODT bez použití jakékoli aplikace třetí strany" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-PCL můžete převést na ODT pomocí dvou jednoduchých kroků. Nejprve musíte vykreslit soubor PCL do DOC pomocí [Aspose.PDF for Java] (https://products.aspose.com/pdf/java/). Poté můžete pomocí výkonného API pro zpracování dokumentů [Aspose.Words for Java] (https://products.aspose.com/words/java/) převést DOC na ODT. Obě rozhraní API jsou součástí balíčku [Aspose.Total for Java](https://products.aspose.com/total/java/).
+PCL můžete převést na ODT pomocí dvou jednoduchých kroků. Nejprve musíte vykreslit soubor PCL do DOC pomocí [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). Poté můžete pomocí výkonného API pro zpracování dokumentů [Aspose.Words for Java](https://products.aspose.com/words/java/) převést DOC na ODT. Obě rozhraní API jsou součástí balíčku [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java API pro převod PCL na ODT" %}}
@@ -24,7 +24,7 @@ PCL můžete převést na ODT pomocí dvou jednoduchých kroků. Nejprve musíte
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Aspose.Total pro Javu můžete snadno používat přímo z projektu založeného na [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a zahrnují [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) a [Aspose.Words for Java](https://docs.aspose.com/words/java/ instalace/) ve vašem pom.xml.
 
-Případně můžete získat soubor ZIP z [stažení] (https://downloads.aspose.com/total/java).
+Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 
@@ -37,10 +37,11 @@ document.save("DocOutput.doc", SaveFormat.DOC);
 Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 // call save method while passing SaveFormat.ODT
 outputDocument.save("output.odt", SaveFormat.ODT);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Požadavky na převod" %}}
+{{% blocks/products/pf/feature-page-section  h2="Požadavky na převod" %}}](
 Při převodu PCL na ODT, i když je váš dokument chráněn heslem, jej stále můžete otevřít pomocí rozhraní API pro manipulaci s PDF [Aspose.PDF for Java] (https://docs.aspose.com/pdf/java/installation/). Chcete-li otevřít zašifrovaný soubor, musíte vytvořit objekt [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) a otevřít PCL pomocí hesla vlastníka.  
 {{% blocks/products/pf/feature-page-code %}}
 
@@ -49,7 +50,8 @@ Při převodu PCL na ODT, i když je váš dokument chráněn heslem, jej stále
 Document document = new Document("input.pcl", "password");
 // save PCL as a DOC 
 document.save("DocOutput.doc", SaveFormat.DOC);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Otevřete dokument PCL chráněný heslem přes Java" %}}
@@ -73,7 +75,8 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
     Statement statement = mConnection.createStatement();
     statement.executeUpdate(commandString);
 }  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

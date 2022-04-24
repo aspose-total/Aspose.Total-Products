@@ -12,7 +12,7 @@ otherformats: FODS DIF XLSX MARKDOWN MHTML XLSB TSV SXC XLS ODS XLTM XLTX EXCEL 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="POTM konvertálása XLSB-vé Java segítségével" h2="On Premise Java API a POTM exportálásához XLSB formátumba Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-A POTM-fájlt XLSB-vé konvertálhatja az [Aspose.Total for Java] (https://products.aspose.com/total/java/) segítségével, két lépésben. Az első lépésben exportálhatja a POTM-ot HTML-be az [Aspose.Slides for Java] (https://products.aspose.com/slides/java/) használatával. Másodszor, az [Aspose.Cells for Java] (https://products.aspose.com/cells/java/) használatával konvertálhatja a HTML-t XLSB-vé.
+A POTM-fájlt XLSB-vé konvertálhatja az [Aspose.Total for Java](https://products.aspose.com/total/java/) segítségével, két lépésben. Az első lépésben exportálhatja a POTM-ot HTML-be az [Aspose.Slides for Java](https://products.aspose.com/slides/java/) használatával. Másodszor, az [Aspose.Cells for Java](https://products.aspose.com/cells/java/) használatával konvertálhatja a HTML-t XLSB-vé.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hogyan lehet a POTM-ot XLSB-vé konvertálni Java segítségével" %}}
@@ -29,21 +29,24 @@ Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads] webhelyről 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Konverziós követelmények" %}}
 Az API segítségével a jelszóval védett dokumentumot is megnyithatja. Ha a bevitt POTM-dokumentum jelszóval védett, nem konvertálhatja XLSB-vé a jelszó használata nélkül. Az API lehetővé teszi a titkosított dokumentum megnyitását a megfelelő jelszó átadásával egy LoadOptions objektumban.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="A Protected POTM konvertálása XLSB-re Java segítségével" %}}
 A POTM fájl XLSB formátumba konvertálásakor vízjelet is hozzáadhat a kimeneti XLSB fájlformátumhoz. Vízjel hozzáadásához hozzon létre egy új munkafüzetet a konvertált HTML-fájl megnyitásához. Válassza ki a Munkalapotm az indexén keresztül, hozzon létre egy alakzatot, és használja az addTextEffect funkciót, állítsa be a színeket, az átlátszóságot és így tovább. Ezt követően elmentheti a HTML-dokumentumot XLSB-ként vízjellel. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

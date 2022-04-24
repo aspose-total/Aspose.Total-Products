@@ -18,7 +18,7 @@ Mit [Aspose.Total for Java](https://products.aspose.com/total/java/) können Sie
 {{% blocks/products/pf/agp/feature-section-col title="Java-API zum Konvertieren von SVG in POTX" %}}
 1. Öffnen Sie die SVG-Datei mit der Klasse [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document).
 2. Konvertieren Sie SVG in PPTX, indem Sie die Methode [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-) verwenden
-3. Laden Sie das PPTX-Dokument mithilfe der Klasse [Presentation] (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation).
+3. Laden Sie das PPTX-Dokument mithilfe der Klasse [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation).
 4. Speichern Sie das Dokument im POTX-Format mit der Methode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) und setzen Sie ` Potx` als SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
@@ -37,7 +37,8 @@ document.save("PptxOutput.pptx", SaveFormat.Pptx);
 Presentation presentation = new Presentation("PptxOutput.pptx");
 // save the presentation as Potx format
 presentation.save("output.potx", SaveFormat.Potx);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Konvertierungsanforderungen" %}}
@@ -50,7 +51,8 @@ Document doc = new Document("input.svg", "Your@Password");
 // save SVG as PPTX format 
 document.save("PptxOutput.pptx", SaveFormat.Pptx); 
 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Öffnen Sie die verschlüsselte SVG-Datei über Java" %}}
@@ -64,7 +66,8 @@ Presentation presentation = new Presentation("PptxOutput.pptx");
 presentation.getViewProperties().setLastView((byte) ViewType.SlideMasterView);
 // save the presentation as Potx format
 presentation.save("output.potx", SaveFormat.Potx);    
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

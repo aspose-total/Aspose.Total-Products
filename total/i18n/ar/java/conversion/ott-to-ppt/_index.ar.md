@@ -12,20 +12,20 @@ otherformats: POT PPSM PPSX POWERPOINT PPT POTM PPS POTX PPTM PPTX CSV DIF FODS 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="تحويل OTT إلى PPT عبر Java" h2="تحويل OTT إلى PPT باستخدام واجهة برمجة تطبيقات Java في أماكن العمل داخل أي تطبيقات Java J2SE و J2EE و J2ME دون استخدام Microsoft <sup> & reg؛ </sup> PowerPoint أو Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-في كثير من الأحيان يتعين على المطورين تحويل ملف OTT إلى PPT برمجيًا. باستخدام مكتبات Java لأتمتة الملفات [Aspose.Total for Java] (https://products.aspose.com/total/java/) يمكنك أتمتة عملية العرض في بضع خطوات بسيطة. يمكنك تحميل ملف OTT الخاص بك باستخدام [Aspose.Words for Java] (https://products.aspose.com/words/java/) وتحويله إلى HTML. بعد ذلك باستخدام واجهة برمجة تطبيقات Java API قوية للمعالجة في PowerPoint [Aspose.Slides for Java] (https://products.aspose.com/slides/java/) يمكنك إنشاء عرض تقديمي جديد وكتابة محتوى HTML فيه وحفظه كـ PPT .
+في كثير من الأحيان يتعين على المطورين تحويل ملف OTT إلى PPT برمجيًا. باستخدام مكتبات Java لأتمتة الملفات [Aspose.Total for Java](https://products.aspose.com/total/java/) يمكنك أتمتة عملية العرض في بضع خطوات بسيطة. يمكنك تحميل ملف OTT الخاص بك باستخدام [Aspose.Words for Java](https://products.aspose.com/words/java/) وتحويله إلى HTML. بعد ذلك باستخدام واجهة برمجة تطبيقات Java API قوية للمعالجة في PowerPoint [Aspose.Slides for Java](https://products.aspose.com/slides/java/) يمكنك إنشاء عرض تقديمي جديد وكتابة محتوى HTML فيه وحفظه كـ PPT .
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل OTT إلى PPT عبر Java" %}}
-1. افتح ملف OTT باستخدام فئة [Ottument] (https://apireference.aspose.com/words/java/com.aspose.words/Ottument)
-2. تحويل ملف OTT إلى HTML باستخدام [Save] (https://apireference.aspose.com/words/java/com.aspose.words/Ottument#save (java.lang.String، com.aspose.words.SaveOptions )) طريقة
+1. افتح ملف OTT باستخدام فئة [Ottument](https://apireference.aspose.com/words/java/com.aspose.words/Ottument)
+2. تحويل ملف OTT إلى HTML باستخدام [Save](https://apireference.aspose.com/words/java/com.aspose.words/Ottument#save (java.lang.String، com.aspose.words.SaveOptions )) طريقة
 3. تهيئة كائن [عرض تقديمي] جديد (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. استخراج المحتوى من ملف HTML باستخدام BufferedReader وكتابة المحتوى في ملف العرض التقديمي الخاص بك
-6. احفظ المستند في PPT باستخدام طريقة [save] (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. احفظ المستند في PPT باستخدام طريقة [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-لتحويل ملف OTT إلى PPT ، يمكنك بسهولة استخدام Aspose.Total لـ Java مباشرة من [Maven] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose / aspose-total) القائم على المشروع وتضمين المكتبات في ملفك pom.xml.
+لتحويل ملف OTT إلى PPT ، يمكنك بسهولة استخدام Aspose.Total لـ Java مباشرة من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose / aspose-total) القائم على المشروع وتضمين المكتبات في ملفك pom.xml.
 
-بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات] (https://downloads.aspose.com/total/java).
+بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

@@ -13,7 +13,7 @@ otherformats: SVG ODT JPEG DOC WORDML DOTM EMF DOCX DOTX OTT FLATOPC RTF PS XPS 
 {{< blocks/products/pf/i18n/feature-page-header h1="Exportujte EMLX do SVG přes .NET" h2=".NET API pro vykreslení EMLX do SVG na Windows, macOS a Linux bez použití Wordu nebo Outlooku" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Pokud jste vývojář .NET, který chce přidat EMLX do funkcí převodu SVG ve svých aplikacích, [Aspose.Total for .NET](https://products.aspose.com/total/net/) API pro manipulaci s formátem souborů jsou tím způsobem vpřed. Pomocí [Aspose.Emlx for .NET](https://products.aspose.com/emlx/net/) můžete převést formát souboru EMLX do HTML. Poté můžete pomocí [Aspose.Words for .NET](https://products.aspose.com/words/net/) vykreslit HTML do SVG.
+Pokud jste vývojář .NET, který chce přidat EMLX do funkcí převodu SVG ve svých aplikacích, [Aspose.Total for .NET](https://products.aspose.com/total/net/) API pro manipulaci s formátem souborů jsou tím způsobem vpřed. Pomocí [Aspose.Email for .NET](https://products.aspose.com/emlx/net/) můžete převést formát souboru EMLX do HTML. Poté můžete pomocí [Aspose.Words for .NET](https://products.aspose.com/words/net/) vykreslit HTML do SVG.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.svg", SaveFormat.Svg);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analyzujte soubor EMLX přes .NET" %}}
-Před převodem EMLX na SVG, pokud se chcete ujistit, že převádíte správný e-mail, můžete načíst dokument EMLX, analyzovat jej a podívat se na požadovanou vlastnost. Pomocí třídy [MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) třídy [Aspose.Emlx for .NET](https://products.aspose.com/emlx /net/) API, můžete získat informace o odesílateli a příjemcích. Můžete například zkontrolovat e-mail konkrétního odesílatele pro konverzi pomocí vlastnosti [SenderName](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername).  
+Před převodem EMLX na SVG, pokud se chcete ujistit, že převádíte správný e-mail, můžete načíst dokument EMLX, analyzovat jej a podívat se na požadovanou vlastnost. Pomocí třídy [MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) třídy [Aspose.Email for .NET](https://products.aspose.com/emlx /net/) API, můžete získat informace o odesílateli a příjemcích. Můžete například zkontrolovat e-mail konkrétního odesílatele pro konverzi pomocí vlastnosti [SenderName](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

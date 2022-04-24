@@ -13,7 +13,7 @@ otherformats: DOTM DOC DOT PS EPUB JPEG PNG FLATOPC EMF OTT DOCX MD PCL TIFF XPS
 {{< blocks/products/pf/i18n/feature-page-header h1="تصدير البريد الإلكتروني إلى GIF عبر .NET" h2=".NET API لتقديم EMLX إلى GIF على أنظمة التشغيل Windows و macOS و Linux دون استخدام Word أو Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-إذا كنت مطور .NET تتطلع إلى إضافة EMLX إلى ميزات تحويل GIF داخل تطبيقاتك ، فإن [Aspose.Total for .NET](https://products.aspose.com/total/net/) واجهات برمجة تطبيقات معالجة تنسيق الملف هي الطريقة إلى الأمام. باستخدام [Aspose.Emlx for .NET](https://products.aspose.com/emlx/net/) ، يمكنك تحويل تنسيق ملف EMLX إلى HTML. بعد ذلك ، باستخدام [Aspose.Words for .NET](https://products.aspose.com/words/net/) ، يمكنك تحويل HTML إلى GIF.
+إذا كنت مطور .NET تتطلع إلى إضافة EMLX إلى ميزات تحويل GIF داخل تطبيقاتك ، فإن [Aspose.Total for .NET](https://products.aspose.com/total/net/) واجهات برمجة تطبيقات معالجة تنسيق الملف هي الطريقة إلى الأمام. باستخدام [Aspose.Email for .NET](https://products.aspose.com/emlx/net/) ، يمكنك تحويل تنسيق ملف EMLX إلى HTML. بعد ذلك ، باستخدام [Aspose.Words for .NET](https://products.aspose.com/words/net/) ، يمكنك تحويل HTML إلى GIF.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.gif", SaveFormat.Gif);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="تحليل ملف البريد الإلكتروني عبر .NET" %}}
-قبل تحويل EMLX إلى GIF ، إذا كنت تريد التأكد من أنك تقوم بتحويل البريد الإلكتروني الصحيح ، فيمكنك تحميل مستند EMLX وتحليله وإلقاء نظرة على الممتلكات التي تريدها. باستخدام [MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) فئة [Aspose.Emlx for .NET](https://products.aspose.com/emlx / net /) API ، يمكنك الحصول على معلومات المرسل والمستلمين. على سبيل المثال ، يمكنك التحقق من وجود بريد إلكتروني معين لمرسل التحويل باستخدام خاصية [SenderName](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername).  
+قبل تحويل EMLX إلى GIF ، إذا كنت تريد التأكد من أنك تقوم بتحويل البريد الإلكتروني الصحيح ، فيمكنك تحميل مستند EMLX وتحليله وإلقاء نظرة على الممتلكات التي تريدها. باستخدام [MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) فئة [Aspose.Email for .NET](https://products.aspose.com/emlx / net /) API ، يمكنك الحصول على معلومات المرسل والمستلمين. على سبيل المثال ، يمكنك التحقق من وجود بريد إلكتروني معين لمرسل التحويل باستخدام خاصية [SenderName](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

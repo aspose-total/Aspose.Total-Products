@@ -13,7 +13,7 @@ otherformats: GIF OTT PCL PS EMF RTF DOCM TEXT XPS PNG DOCX DOT EPUB ODT MD FLAT
 {{< blocks/products/pf/i18n/feature-page-header h1="Ekspor EMLX ke EPUB melalui .NET" h2=".NET API untuk Merender EMLX ke EPUB di Windows, macOS, dan Linux tanpa menggunakan Word atau Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Jika Anda adalah pengembang .NET yang ingin menambahkan fitur konversi EMLX ke EPUB di dalam aplikasi Anda, [Aspose.Total for .NET](https://products.aspose.com/total/net/) API manipulasi format file adalah caranya maju. Dengan menggunakan [Aspose.Emlx for .NET](https://products.aspose.com/emlx/net/), Anda dapat mengonversi format file EMLX ke HTML. Setelah itu, dengan menggunakan [Aspose.Words for .NET](https://products.aspose.com/words/net/), Anda dapat merender HTML ke EPUB.
+Jika Anda adalah pengembang .NET yang ingin menambahkan fitur konversi EMLX ke EPUB di dalam aplikasi Anda, [Aspose.Total for .NET](https://products.aspose.com/total/net/) API manipulasi format file adalah caranya maju. Dengan menggunakan [Aspose.Email for .NET](https://products.aspose.com/email/net/), Anda dapat mengonversi format file EMLX ke HTML. Setelah itu, dengan menggunakan [Aspose.Words for .NET](https://products.aspose.com/words/net/), Anda dapat merender HTML ke EPUB.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.epub", SaveFormat.Epub);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Parsing File EMLX melalui .NET" %}}
-Sebelum mengonversi EMLX ke EPUB, jika Anda ingin memastikan bahwa Anda mengonversi emlx yang benar, Anda dapat memuat dokumen EMLX, menguraikannya dan melihat properti yang Anda inginkan. Dengan menggunakan kelas [MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) dari [Aspose.Emlx for .NET](https://products.aspose.com/emlx /net/) API, Anda bisa mendapatkan informasi pengirim dan penerima. Misalnya, Anda dapat memeriksa emlx pengirim tertentu untuk konversi dengan menggunakan properti [SenderName](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername).  
+Sebelum mengonversi EMLX ke EPUB, jika Anda ingin memastikan bahwa Anda mengonversi emlx yang benar, Anda dapat memuat dokumen EMLX, menguraikannya dan melihat properti yang Anda inginkan. Dengan menggunakan kelas [MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) dari [Aspose.Email for .NET](https://products.aspose.com/emlx /net/) API, Anda bisa mendapatkan informasi pengirim dan penerima. Misalnya, Anda dapat memeriksa emlx pengirim tertentu untuk konversi dengan menggunakan properti [SenderName](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

@@ -13,7 +13,7 @@ otherformats: DOCM DOTX SVG MD FLATOPC DOTM OTT PCL XPS RTF ODT DOC EPUB WORDML 
 {{< blocks/products/pf/i18n/feature-page-header h1="Exportieren Sie E-MAIL über .NET nach FLATOPC" h2=".NET-API zum Rendern von E-MAIL in FLATOPC unter Windows, macOS und Linux, ohne Word oder Outlook zu verwenden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Wenn Sie ein .NET-Entwickler sind, der E-MAIL-zu-FLATOPC-Konvertierungsfunktionen in Ihren Anwendungen hinzufügen möchte, sind [Aspose.Total for .NET](https://products.aspose.com/total/net/)-APIs zur Dateiformatmanipulation der richtige Weg nach vorne. Durch die Verwendung von [Aspose.Emlx for .NET](https://products.aspose.com/emlx/net/) können Sie das EMLX-Dateiformat in HTML konvertieren. Danach können Sie mit [Aspose.Words for .NET](https://products.aspose.com/words/net/) HTML in FLATOPC rendern.
+Wenn Sie ein .NET-Entwickler sind, der E-MAIL-zu-FLATOPC-Konvertierungsfunktionen in Ihren Anwendungen hinzufügen möchte, sind [Aspose.Total for .NET](https://products.aspose.com/total/net/)-APIs zur Dateiformatmanipulation der richtige Weg nach vorne. Durch die Verwendung von [Aspose.Email for .NET](https://products.aspose.com/email/net/) können Sie das EMLX-Dateiformat in HTML konvertieren. Danach können Sie mit [Aspose.Words for .NET](https://products.aspose.com/words/net/) HTML in FLATOPC rendern.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.flatopc", SaveFormat.FlatOpc);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analysieren Sie die E-MAIL-Datei über .NET" %}}
-Wenn Sie vor der Konvertierung von EMLX in FLATOPC sicherstellen möchten, dass Sie die richtige E-Mail konvertieren, können Sie das EMLX-Dokument laden, analysieren und sich die gewünschte Eigenschaft ansehen. Durch die Verwendung der Klasse [MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) von [Aspose.Emlx for .NET](https://products.aspose.com/emlx /net/) API können Sie Absender- und Empfängerinformationen abrufen. Beispielsweise können Sie mithilfe der Eigenschaft [SenderName](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername) nach einer bestimmten Absender-E-Mail-Adresse für die Konvertierung suchen.  
+Wenn Sie vor der Konvertierung von EMLX in FLATOPC sicherstellen möchten, dass Sie die richtige E-Mail konvertieren, können Sie das EMLX-Dokument laden, analysieren und sich die gewünschte Eigenschaft ansehen. Durch die Verwendung der Klasse [MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) von [Aspose.Email for .NET](https://products.aspose.com/emlx /net/) API können Sie Absender- und Empfängerinformationen abrufen. Beispielsweise können Sie mithilfe der Eigenschaft [SenderName](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername) nach einer bestimmten Absender-E-Mail-Adresse für die Konvertierung suchen.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

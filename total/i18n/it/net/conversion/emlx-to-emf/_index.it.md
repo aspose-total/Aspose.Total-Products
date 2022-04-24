@@ -13,7 +13,7 @@ otherformats: PS PNG XPS OTT DOC DOCM MD TIFF DOT DOCX TEXT JPEG DOTX PDF RTF GI
 {{< blocks/products/pf/i18n/feature-page-header h1="Esporta EMLX in EMF tramite .NET" h2="API .NET per il rendering di EMLX su EMF su Windows, macOS e Linux senza utilizzare Word o Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Se sei uno sviluppatore .NET che cerca di aggiungere funzionalità di conversione da EMLX a EMF all'interno delle tue applicazioni, le API di manipolazione del formato di file [Aspose.Total for .NET](https://products.aspose.com/total/net/) sono la strada giusta inoltrare. Utilizzando [Aspose.Emlx for .NET](https://products.aspose.com/emlx/net/), puoi convertire il formato del file EMLX in HTML. Successivamente, utilizzando [Aspose.Words for .NET](https://products.aspose.com/words/net/), puoi eseguire il rendering di HTML in EMF.
+Se sei uno sviluppatore .NET che cerca di aggiungere funzionalità di conversione da EMLX a EMF all'interno delle tue applicazioni, le API di manipolazione del formato di file [Aspose.Total for .NET](https://products.aspose.com/total/net/) sono la strada giusta inoltrare. Utilizzando [Aspose.Email for .NET](https://products.aspose.com/email/net/), puoi convertire il formato del file EMLX in HTML. Successivamente, utilizzando [Aspose.Words for .NET](https://products.aspose.com/words/net/), puoi eseguire il rendering di HTML in EMF.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -41,11 +41,12 @@ message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
 Document document = new Document("HtmlOutput.html");
 
 document.Save("output.emf", SaveFormat.Emf); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Analizza il file EMLX tramite .NET" %}}
+{{% blocks/products/pf/feature-page-section  h2="Analizza il file EMLX tramite .NET" %}}Aspose.Email for .NET
 Prima di convertire EMLX in EMF, se vuoi assicurarti di convertire l'emlx corretta, puoi caricare il documento EMLX, analizzarlo e dare un'occhiata alla proprietà desiderata. Utilizzando la classe [MapiMessage](https://apiference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) di [Aspose.Emlx for .NET](https://products.aspose.com/emlx /net/) API, puoi ottenere informazioni su mittente e destinatario. Ad esempio, puoi verificare la presenza di un'emlx del mittente specifica per la conversione utilizzando la proprietà [SenderName](https://apiference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
@@ -56,7 +57,8 @@ var outlookMessageFile = MapiMessage.FromFile("message.emlx");
 if(outlookMessageFile.SenderName == "John"){
     
 }
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -71,7 +73,8 @@ Document document = new Document("HtmlOutput.html");
 document.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.emf", SaveFormat.Emf);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

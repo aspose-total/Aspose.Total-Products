@@ -13,7 +13,7 @@ otherformats: PS PNG XPS OTT DOC DOCM MD TIFF DOT DOCX TEXT JPEG DOTX PDF RTF GI
 {{< blocks/products/pf/i18n/feature-page-header h1="Exporteer EMLX naar EMF via .NET" h2=".NET API om EMLX naar EMF te renderen op Windows, macOS en Linux zonder Word of Outlook te gebruiken" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Als u een .NET-ontwikkelaar bent die EMLX-naar-EMF-conversiefuncties in uw toepassingen wilt toevoegen, zijn [Aspose.Total for .NET](https://products.aspose.com/total/net/) bestandsformaatmanipulatie-API's de juiste keuze vooruit. Door [Aspose.Emlx for .NET](https://products.aspose.com/emlx/net/) te gebruiken, kunt u het EMLX-bestandsformaat converteren naar HTML. Daarna kunt u met [Aspose.Words for .NET](https://products.aspose.com/words/net/) HTML naar EMF renderen.
+Als u een .NET-ontwikkelaar bent die EMLX-naar-EMF-conversiefuncties in uw toepassingen wilt toevoegen, zijn [Aspose.Total for .NET](https://products.aspose.com/total/net/) bestandsformaatmanipulatie-API's de juiste keuze vooruit. Door [Aspose.Email for .NET](https://products.aspose.com/email/net/) te gebruiken, kunt u het EMLX-bestandsformaat converteren naar HTML. Daarna kunt u met [Aspose.Words for .NET](https://products.aspose.com/words/net/) HTML naar EMF renderen.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -46,7 +46,7 @@ document.Save("output.emf", SaveFormat.Emf);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="E-MAIL-bestand ontleden via .NET" %}}
-Voordat u EMLX naar EMF converteert, kunt u, als u er zeker van wilt zijn dat u de juiste e-mail converteert, het EMLX-document laden, het ontleden en uw gewenste eigenschap bekijken. Door gebruik te maken van [MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) klasse van [Aspose.Emlx for .NET](https://products.aspose.com/emlx /net/) API, kunt u informatie over afzender en ontvanger krijgen. U kunt bijvoorbeeld controleren op een specifiek e-mailadres van de afzender voor de conversie door de eigenschap [SenderName](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername) te gebruiken.  
+Voordat u EMLX naar EMF converteert, kunt u, als u er zeker van wilt zijn dat u de juiste e-mail converteert, het EMLX-document laden, het ontleden en uw gewenste eigenschap bekijken. Door gebruik te maken van [MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) klasse van [Aspose.Email for .NET](https://products.aspose.com/emlx /net/) API, kunt u informatie over afzender en ontvanger krijgen. U kunt bijvoorbeeld controleren op een specifiek e-mailadres van de afzender voor de conversie door de eigenschap [SenderName](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername) te gebruiken.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs// instantiate MapiMessage to load an EMLX file from disk

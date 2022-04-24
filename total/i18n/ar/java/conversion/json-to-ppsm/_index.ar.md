@@ -12,19 +12,19 @@ otherformats: PPS POT POWERPOINT PPSM PPTM POTM PPSX OTP POTX PPT
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="تحويل تنسيق JSON إلى PPSM عبر Java" h2="Java API لتحليل تنسيق JSON إلى PPSM بدون استخدام Microsoft <sup> & reg؛ </sup> PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-باستخدام [Aspose.Total for Java] (https://products.aspose.com/total/java/) ، يمكنك تحويل تنسيق JSON إلى PPSM داخل أي تطبيق Java في خطوتين بسيطتين. أولاً ، باستخدام [Aspose.Cells for Java] (https://products.aspose.com/cells/java/) ، يمكنك تحليل JSON إلى PPTX. بعد ذلك ، باستخدام [Aspose.Slides for Java] (https://products.aspose.com/slides/java/) ، يمكنك تحويل PPTX إلى PPSM.
+باستخدام [Aspose.Total for Java](https://products.aspose.com/total/java/) ، يمكنك تحويل تنسيق JSON إلى PPSM داخل أي تطبيق Java في خطوتين بسيطتين. أولاً ، باستخدام [Aspose.Cells for Java](https://products.aspose.com/cells/java/) ، يمكنك تحليل JSON إلى PPTX. بعد ذلك ، باستخدام [Aspose.Slides for Java](https://products.aspose.com/slides/java/) ، يمكنك تحويل PPTX إلى PPSM.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="تحويل تنسيق JSON إلى PPSM عبر Java" %}}
 1. قم بإنشاء كائن [مصنف] جديد (https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) وافتح ملف JSON
-2. احفظ JSON بتنسيق PPTX باستخدام [Save] (https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save (java.lang.String،٪ 20com.aspose.cells.SaveOptions) ) طريقة
-3. قم بتحميل مستند PPTX باستخدام فئة [Presentation] (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-4. احفظ المستند بتنسيق PPSM باستخدام طريقة [save] (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-)
+2. احفظ JSON بتنسيق PPTX باستخدام [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save (java.lang.String،٪ 20com.aspose.cells.SaveOptions) ) طريقة
+3. قم بتحميل مستند PPTX باستخدام فئة [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+4. احفظ المستند بتنسيق PPSM باستخدام طريقة [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-يمكنك بسهولة استخدام Aspose.Total for Java مباشرة من مشروع قائم على [Maven] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) وتضمين مكتبات في ملفك pom.xml.
+يمكنك بسهولة استخدام Aspose.Total for Java مباشرة من مشروع قائم على [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) وتضمين مكتبات في ملفك pom.xml.
 
-بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات] (https://downloads.aspose.com/total/java).
+بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 
@@ -34,7 +34,7 @@ otherformats: PPS POT POWERPOINT PPSM PPTM POTM PPSX OTP POTX PPT
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="متطلبات التحويل" %}}
-علاوة على ذلك ، تسمح لك واجهة برمجة التطبيقات بتحليل JSON إلى PPSM بخيارات تخطيط محددة. لتحديد خيارات التخطيط ، يمكنك استخدام فئة [JsonLayoutOptions] (https://apireference.aspose.com/cells/java/com.aspose.cells/jsonlayoutoptions). يسمح لك بمعالجة مصفوفة كجدول ، وتجاهل القيم الخالية ، وتجاهل عنوان المصفوفة ، وتجاهل عنوان الكائن ، وتحويل السلسلة إلى رقم أو تاريخ ، وتعيين تنسيق التاريخ والأرقام ، وتعيين نمط العنوان. تتيح لك كل هذه الخيارات تقديم بياناتك وفقًا لاحتياجاتك. يوضح لك مقتطف الشفرة التالي كيفية تعيين خيارات التخطيط.  
+علاوة على ذلك ، تسمح لك واجهة برمجة التطبيقات بتحليل JSON إلى PPSM بخيارات تخطيط محددة. لتحديد خيارات التخطيط ، يمكنك استخدام فئة [JsonLayoutOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonlayoutoptions). يسمح لك بمعالجة مصفوفة كجدول ، وتجاهل القيم الخالية ، وتجاهل عنوان المصفوفة ، وتجاهل عنوان الكائن ، وتحويل السلسلة إلى رقم أو تاريخ ، وتعيين تنسيق التاريخ والأرقام ، وتعيين نمط العنوان. تتيح لك كل هذه الخيارات تقديم بياناتك وفقًا لاحتياجاتك. يوضح لك مقتطف الشفرة التالي كيفية تعيين خيارات التخطيط.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "set-layout-and-parse-json-to-powerpoint.java" >}}
@@ -42,7 +42,7 @@ otherformats: PPS POT POWERPOINT PPSM PPTM POTM PPSX OTP POTX PPT
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="قم بتعيين التخطيط وتحويل تنسيق JSON إلى PPSM عبر Java" %}}
-باستخدام API ، يمكنك أيضًا تحويل JSON إلى PPSM بعلامة مائية. لإضافة علامة مائية إلى مستند PPSM الخاص بك ، يمكنك أولاً تحليل JSON إلى PPTX وإضافة علامة مائية إليه. لإضافة علامة مائية ، قم بتحميل ملف PPTX الذي تم إنشاؤه حديثًا باستخدام فئة [العرض التقديمي] (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) ، حلقة عبر جميع الشرائح ، أضف نصًا باستخدام addTextFrame ، اضبط جميع الخيارات ذات الصلة مثل color و fillType والمزيد ويمكن حفظ المستند في PPSM. 
+باستخدام API ، يمكنك أيضًا تحويل JSON إلى PPSM بعلامة مائية. لإضافة علامة مائية إلى مستند PPSM الخاص بك ، يمكنك أولاً تحليل JSON إلى PPTX وإضافة علامة مائية إليه. لإضافة علامة مائية ، قم بتحميل ملف PPTX الذي تم إنشاؤه حديثًا باستخدام فئة [العرض التقديمي](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) ، حلقة عبر جميع الشرائح ، أضف نصًا باستخدام addTextFrame ، اضبط جميع الخيارات ذات الصلة مثل color و fillType والمزيد ويمكن حفظ المستند في PPSM. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "parse-json-to-powerpoint-with-watermark.java" >}}

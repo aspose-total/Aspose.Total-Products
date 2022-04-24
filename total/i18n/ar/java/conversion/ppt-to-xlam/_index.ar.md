@@ -12,19 +12,19 @@ otherformats: TSV SXC ODS MARKDOWN XLS XLAM XLTM XLSB EXCEL XLSX FODS XLTX XLSM 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="تحويل PPT إلى XLAM عبر Java" h2="في Premise Java API لتصدير PPT إلى XLAM بدون استخدام Microsoft <sup> & reg؛ </sup> Excel أو PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-يمكنك تحويل ملف PPT إلى XLAM عبر [Aspose.Total for Java] (https://products.aspose.com/total/java/) في خطوتين. في الخطوة الأولى ، يمكنك تصدير PPT إلى HTML باستخدام [Aspose.Slides for Java] (https://products.aspose.com/slides/java/). ثانيًا ، باستخدام [Aspose.Cells for Java] (https://products.aspose.com/cells/java/) ، يمكنك تحويل HTML إلى XLAM.
+يمكنك تحويل ملف PPT إلى XLAM عبر [Aspose.Total for Java](https://products.aspose.com/total/java/) في خطوتين. في الخطوة الأولى ، يمكنك تصدير PPT إلى HTML باستخدام [Aspose.Slides for Java](https://products.aspose.com/slides/java/). ثانيًا ، باستخدام [Aspose.Cells for Java](https://products.aspose.com/cells/java/) ، يمكنك تحويل HTML إلى XLAM.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل PPT إلى XLAM عبر Java" %}}
-1. افتح ملف PPT باستخدام فئة [Presentation] (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. تحويل PPT إلى HTML باستخدام [Save] (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) طريقة
-3. قم بتحميل مستند HTML باستخدام فئة [Workbook] (https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. احفظ المستند بتنسيق XLAM باستخدام [Save] (https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save (java.lang.String،٪ 20com.aspose.cells. SaveOptions)) الطريقة
+1. افتح ملف PPT باستخدام فئة [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. تحويل PPT إلى HTML باستخدام [Save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) طريقة
+3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. احفظ المستند بتنسيق XLAM باستخدام [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save (java.lang.String،٪ 20com.aspose.cells. SaveOptions)) الطريقة
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-لتحويل PPT إلى XLAM ، يمكنك بسهولة استخدام Aspose.Total لـ Java مباشرة من [Maven] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/ aspose / aspose-total) قائم على المشروع وقم بتضمين مكتبات في ملفك pom.xml.
+لتحويل PPT إلى XLAM ، يمكنك بسهولة استخدام Aspose.Total لـ Java مباشرة من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/ aspose / aspose-total) قائم على المشروع وقم بتضمين مكتبات في ملفك pom.xml.
 
-بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات] (https://downloads.aspose.com/total/java).
+بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

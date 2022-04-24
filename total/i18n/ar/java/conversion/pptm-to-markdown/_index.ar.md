@@ -12,19 +12,19 @@ otherformats: ODS FODS SXC XLSX EXCEL DIF XLAM XLSM XLTM MHTML XLT XLTX XLS XLSB
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="تحويل PPTM إلى MARKDOWN عبر Java" h2="في Premise Java API لتصدير PPTM إلى MARKDOWN بدون استخدام Microsoft <sup> & reg؛ </sup> Excel أو PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-يمكنك تحويل ملف PPTM إلى MARKDOWN عبر [Aspose.Total for Java] (https://products.aspose.com/total/java/) في خطوتين. في الخطوة الأولى ، يمكنك تصدير PPTM إلى HTML باستخدام [Aspose.Slides for Java] (https://products.aspose.com/slides/java/). ثانيًا ، باستخدام [Aspose.Cells for Java] (https://products.aspose.com/cells/java/) ، يمكنك تحويل HTML إلى MARKDOWN.
+يمكنك تحويل ملف PPTM إلى MARKDOWN عبر [Aspose.Total for Java](https://products.aspose.com/total/java/) في خطوتين. في الخطوة الأولى ، يمكنك تصدير PPTM إلى HTML باستخدام [Aspose.Slides for Java](https://products.aspose.com/slides/java/). ثانيًا ، باستخدام [Aspose.Cells for Java](https://products.aspose.com/cells/java/) ، يمكنك تحويل HTML إلى MARKDOWN.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل PPTM إلى MARKDOWN عبر Java" %}}
-1. افتح ملف PPTM باستخدام فئة [Presentation] (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. تحويل PPTM إلى HTML باستخدام [Save] (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) طريقة
-3. قم بتحميل مستند HTML باستخدام فئة [Workbook] (https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. احفظ المستند بتنسيق MARKDOWN باستخدام [Save] (https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save (java.lang.String،٪ 20com.aspose.cells. SaveOptions)) الطريقة
+1. افتح ملف PPTM باستخدام فئة [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. تحويل PPTM إلى HTML باستخدام [Save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) طريقة
+3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. احفظ المستند بتنسيق MARKDOWN باستخدام [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save (java.lang.String،٪ 20com.aspose.cells. SaveOptions)) الطريقة
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-لتحويل PPTM إلى MARKDOWN ، يمكنك بسهولة استخدام Aspose.Total لـ Java مباشرة من [Maven] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/ aspose / aspose-total) قائم على المشروع وقم بتضمين مكتبات في ملفك pom.xml.
+لتحويل PPTM إلى MARKDOWN ، يمكنك بسهولة استخدام Aspose.Total لـ Java مباشرة من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/ aspose / aspose-total) قائم على المشروع وقم بتضمين مكتبات في ملفك pom.xml.
 
-بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات] (https://downloads.aspose.com/total/java).
+بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 
