@@ -27,7 +27,7 @@ otherformats: DOCX RTF MD TIFF PS ODT DOC FLATOPC JPEG DOCM DOTX GIF EMF TEXT EP
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
 कमांड लाइन से ```nuget install Aspose.Total``` के रूप में या ````Install-Package Aspose.Total`` के साथ विजुअल स्टूडियो के पैकेज मैनेजर कंसोल के माध्यम से इंस्टॉल करें।
 
-वैकल्पिक रूप से, [डाउनलोड] (https://downloads.aspose.com/total/net) से ज़िप फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें।
+वैकल्पिक रूप से, [डाउनलोड](https://downloads.aspose.com/total/net) से ज़िप फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें।
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
@@ -41,7 +41,8 @@ message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
 Document document = new Document("HtmlOutput.html");
 
 document.Save("output.text", SaveFormat.Text); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -56,7 +57,8 @@ var outlookMessageFile = MapiMessage.FromFile("message.msg");
 if(outlookMessageFile.SenderName == "John"){
     
 }
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -71,7 +73,8 @@ Document document = new Document("HtmlOutput.html");
 document.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.text", SaveFormat.Text);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

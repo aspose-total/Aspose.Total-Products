@@ -17,7 +17,6 @@ description: Convert PowerPoint potm documents to Word ott files with C#. Conver
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -60,8 +59,7 @@ PM> Install-Package Aspose.Total
 
 {{% blocks/products/pf/agp/code-block title="This code sample shows how to convert a POTM to OTT using C#" offSpacer="" %}}
 
-```cs
-// Load the Microsoft PowerPoint POTM file
+```cs// Load the Microsoft PowerPoint POTM file
 Aspose.Slides.Presentation potm = new Aspose.Slides.Presentation("source.potm");
 
 var stream = new MemoryStream();

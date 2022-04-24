@@ -17,7 +17,6 @@ description: Convert Word txt documents to PowerPoint pps files with C#. Convert
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -61,8 +60,7 @@ PM> Install-Package Aspose.Total
 
 {{% blocks/products/pf/agp/code-block title="This code sample shows how to convert a TXT to PPS using C#" offSpacer="" %}}
 
-```cs
-// Load the Single Page Microsoft Word TXT file
+```cs// Load the Single Page Microsoft Word TXT file
 Aspose.Words.Document txt = new Aspose.Words.Document("sourceWordFile.txt");
 
 // Save TXT file to HTML 

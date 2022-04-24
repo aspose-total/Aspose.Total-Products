@@ -13,7 +13,7 @@ otherformats: DOCX EMF MD TEXT DOT DOTM TIFF WORDML PS DOTX XPS PDF SVG FLATOPC 
 {{< blocks/products/pf/i18n/feature-page-header h1="Exportálja az EMLX-t IMAGE-be .NET-en keresztül" h2=".NET API az EMLX IMAGE formátumban való megjelenítéséhez Windows, macOS és Linux rendszeren Word vagy Outlook használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Ha Ön .NET-fejlesztő, szeretné hozzáadni az EMLX-t az alkalmazásokon belüli IMAGE-konverziós funkciókhoz, az [Aspose.Total for .NET](https://products.aspose.com/total/net/) fájlformátum-manipulációs API-k jelentik az utat. előre. Az [Aspose.Emlx for .NET] (https://products.aspose.com/emlx/net/) használatával konvertálhatja az EMLX fájlformátumot HTML-re. Ezt követően az [Aspose.Words for .NET] (https://products.aspose.com/words/net/) használatával a HTML-t IMAGE-be renderelheti.
+Ha Ön .NET-fejlesztő, szeretné hozzáadni az EMLX-t az alkalmazásokon belüli IMAGE-konverziós funkciókhoz, az [Aspose.Total for .NET](https://products.aspose.com/total/net/) fájlformátum-manipulációs API-k jelentik az utat. előre. Az [Aspose.Emlx for .NET](https://products.aspose.com/emlx/net/) használatával konvertálhatja az EMLX fájlformátumot HTML-re. Ezt követően az [Aspose.Words for .NET](https://products.aspose.com/words/net/) használatával a HTML-t IMAGE-be renderelheti.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -41,7 +41,8 @@ message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
 Document document = new Document("HtmlOutput.html");
 // call save method while passing SaveFormat.Png
 document.Save("output.png", SaveFormat.Png); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -56,7 +57,8 @@ var outlookMessageFile = MapiMessage.FromFile("message.emlx");
 if(outlookMessageFile.SenderName == "John"){
     
 }
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -71,7 +73,8 @@ Document document = new Document("HtmlOutput.html");
 document.Protect(ProtectionType.ReadOnly, "password");
 // call save method while passing SaveFormat.Png
 document.Save("output.png", SaveFormat.Png);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

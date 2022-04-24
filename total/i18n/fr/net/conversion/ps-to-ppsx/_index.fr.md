@@ -27,7 +27,7 @@ otherformats: SWF POT PPS POTM POWERPOINT OTP PPSM PPTM PPT PPSX XAML POTX
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
 Installez à partir de la ligne de commande en tant que ```nuget install Aspose.Total``` ou via la console du gestionnaire de packages de Visual Studio avec ```Install-Package Aspose.Total```.
 
-Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les DLL dans un fichier ZIP à partir de [téléchargements] (https://downloads.aspose.com/total/net).
+Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les DLL dans un fichier ZIP à partir de [téléchargements](https://downloads.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
@@ -41,7 +41,8 @@ document.Save("PptxOutput.pptx", SaveFormat.Pptx);
 Presentation presentation = new Presentation("PptxOutput.pptx");
 
 presentation.Save("output.ppsx", SaveFormat.Ppsx);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -56,7 +57,8 @@ Document doc = new Document("input.ps");
 Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
 Console.WriteLine(doc.Metadata["xmp:Nickname"]);
 Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -71,7 +73,8 @@ Presentation presentation = new Presentation("PptxOutput.pptx");
 presentation.ProtectionManager.ReadOnlyRecommended = true;
 
 presentation.Save("output.ppsx", SaveFormat.Ppsx);     
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

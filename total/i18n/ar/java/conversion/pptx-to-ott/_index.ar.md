@@ -17,9 +17,9 @@ otherformats: DOT OTT RTF DOTM OTTX WORD DOTX WORDML OTTM TEXT ODT FLATOPC
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل PPTX إلى OTT عبر Java" %}}
 1. افتح ملف PPTX باستخدام فئة [Presentation] (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. تحويل PPTX إلى HTML باستخدام [حفظ] (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) وتعيين Html كـ SaveFormat
+2. تحويل PPTX إلى HTML باستخدام [Save] (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) وتعيين Html كـ SaveFormat
 3. قم بتحميل ملف HTML المحول باستخدام فئة [Ottument] (https://apireference.aspose.com/words/java/com.aspose.words/Ottument)
-4. احفظ المستند بتنسيق OTT باستخدام طريقة [حفظ] (https://apireference.aspose.com/words/java/com.aspose.words/Ottument#save (java.lang.String، int))
+4. احفظ المستند بتنسيق OTT باستخدام طريقة [Save] (https://apireference.aspose.com/words/java/com.aspose.words/Ottument#save (java.lang.String، int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
 لتحويل ملف PPTX إلى OTT ، يمكنك بسهولة استخدام Aspose.Total لـ Java مباشرة من [Maven] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose / aspose-total) القائم على المشروع وتضمين المكتبات في ملفك pom.xml.
@@ -29,14 +29,16 @@ otherformats: DOT OTT RTF DOTM OTTX WORD DOTX WORDML OTTM TEXT ODT FLATOPC
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="متطلبات التحويل" %}}
 باستخدام API ، يمكنك أيضًا تنفيذ ملف PPTX لتحويل OTT بعلامة مائية. لإضافة علامة مائية إلى مستند OTT الخاص بك ، يمكنك أولاً تحويل ملف PPTX إلى HTML وإضافة علامة مائية إليه. لإضافة علامة مائية ، قم بتحميل ملف HTML الذي تم إنشاؤه حديثًا باستخدام فئة [Ottument] (https://apireference.aspose.com/words/java/com.aspose.words/Ottument) ، وأنشئ مثيلاً لـ TextWatermarkOptions وعيّن خصائصه ، استدعاء طريقة Watermark.setText وتمرير نص العلامة المائية وكائن TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}
+{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

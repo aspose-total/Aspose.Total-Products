@@ -31,8 +31,7 @@ otherformats: DOCX POWERPOINT WORD DOC
 
 {{% blocks/products/pf/agp/code-autogen title="用于 XLTX 到 PPTX 转换的 .NET C# 代码" gistPath="" %}}
 
-```cs
-// load the XLTX file using Workbook class
+```cs// load the XLTX file using Workbook class
 var book = new Aspose.Cells.Workbook("input.xltx");
 // save XLTX as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 

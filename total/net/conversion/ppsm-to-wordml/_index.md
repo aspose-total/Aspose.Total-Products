@@ -17,7 +17,6 @@ description: Convert PowerPoint ppsm documents to Word wordml files with C#. Con
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -60,8 +59,7 @@ PM> Install-Package Aspose.Total
 
 {{% blocks/products/pf/agp/code-block title="This code sample shows how to convert a PPSM to WORDML using C#" offSpacer="" %}}
 
-```cs
-// Load the Microsoft PowerPoint PPSM file
+```cs// Load the Microsoft PowerPoint PPSM file
 Aspose.Slides.Presentation ppsm = new Aspose.Slides.Presentation("source.ppsm");
 
 var stream = new MemoryStream();

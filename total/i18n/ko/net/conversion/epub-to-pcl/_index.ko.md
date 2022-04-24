@@ -33,7 +33,6 @@ otherformats: DOTX ODT PS DOT RTF MHTML PCL OTT FLATOPC DOTM WORDML XAMLFLOW
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("template.epub");
  
 document.Save("DocOutput.doc", SaveFormat.Doc); 
@@ -41,14 +40,14 @@ document.Save("DocOutput.doc", SaveFormat.Doc);
 var outputDocument = new Aspose.Words.Document("DocOutput.doc");
 
 outputDocument.Save("output.pcl", SaveFormat.Pcl);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2=".NET을 통해 소유자 암호를 사용하여 EPUB 파일 암호 해독" %}}
 EPUB을 PCL으로 변환하기 전에 문서의 암호를 해독하려면 API를 사용하면 됩니다. PDF 파일을 복호화하기 위해서는 먼저 [문서](https://apireference.aspose.com/pdf/net/aspose.pdf/document) 객체를 생성하고 소유자의 비밀번호로 EPUB을 열어야 합니다. 이후 Document 객체의 [Decrypt](https://apireference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) 메소드를 호출해야 합니다. 마지막으로 Document 개체의 Save 메서드를 사용하여 업데이트된 파일을 저장합니다.  
 {{% blocks/products/pf/feature-page-code %}}
-
 ```cs
 
 Document document = new Document("Decrypt.epub", "password");
@@ -56,22 +55,22 @@ Document document = new Document("Decrypt.epub", "password");
 document.Decrypt();
  
 document.Save("Decrypt_out.doc");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2=".NET을 통해 읽기 전용 PCL 파일 만들기" %}}
 PCL이 편집되지 않도록 보호하고 다른 사람이 문서에서 민감한 기밀 정보를 편집하지 못하도록 하기 위해 API를 사용하여 문서 보호를 설정할 수도 있습니다. 문서 편집 기능을 제한하고 문서에 대한 특정 작업만 허용할 수 있습니다. 이는 [Aspose.Words for .NET](https://products.aspose.com/words/net/) API를 사용하여 수행할 수 있습니다. [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype) 열거 매개변수를 사용하여 콘텐츠를 제한하는 방식을 제어할 수 있습니다. 다음 코드 줄을 사용하여 문서를 읽기 전용으로 설정할 수 있습니다. 
-{{% blocks/products/pf/feature-page-code %}}
-
 ```cs
-
+```cs
 Document document = new Document("input.doc");
 
 document.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.pcl", SaveFormat.Pcl);    
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -18,8 +18,8 @@ otherformats: XLAM FODS XLSB XLSX SXC DIF XLT ODS TSV XLSM XLTM EXCEL XLS XLTX
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="DOCXをXLTMに変換する.NETAPI" %}}
-1. [ドキュメント]（https://apireference.aspose.com/words/net/aspose.words/docxument）クラスを使用してDOCXファイルを開きます
-2. [保存]（https://apireference.aspose.com/words/net/aspose.words.docxument/save/methods/4）メソッドを使用してDOCXをHTMLに変換します
+1. [ドキュメント]（https://apireference.aspose.com/words/net/aspose.words/document）クラスを使用してDOCXファイルを開きます
+2. [保存]（https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4）メソッドを使用してDOCXをHTMLに変換します
 3. [ワークブック]（https://apireference.aspose.com/cells/net/aspose.cells/workbook）クラスを使用してHTMLドキュメントをロードします
 4. [保存]（https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4）メソッドを使用してドキュメントをXLTM形式で保存し、「XLTM」をSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -33,23 +33,26 @@ otherformats: XLAM FODS XLSB XLSX SXC DIF XLT ODS TSV XLSM XLTM EXCEL XLS XLTX
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="C＃経由でストリームからDOCXドキュメントをロードする" %}}
-[Aspose.Words for .NET]（https://products.aspose.com/words/net/）では、ストリームを介してDOCXドキュメントをロードすることもできます。ストリームからドキュメントを開くには、ドキュメントを含むストリームオブジェクトを[Docxument]（https://apireference.aspose.com/words/net/aspose.words/docxument）コンストラクターに渡すだけです。次のコード例は、ストリームからドキュメントを開く方法を示しています。  
+{{% blocks/products/pf/feature-page-section  h2="C＃経由でストリームからDOCXドキュメントをロードする" %}}[Document]
+[Aspose.Words for .NET]（https://products.aspose.com/words/net/）では、ストリームを介してDOCXドキュメントをロードすることもできます。ストリームからドキュメントを開くには、ドキュメントを含むストリームオブジェクトを[Document]（https://apireference.aspose.com/words/net/aspose.words/document）コンストラクターに渡すだけです。次のコード例は、ストリームからドキュメントを開く方法を示しています。  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="C＃を介してXLTMファイルにカスタムプロパティを追加する" %}}
-DOCXをXLTMに変換する際、[Aspose.Cells for .NET]（https://products.aspose.com/cells/net/）を使用すると、XLTMドキュメントにカスタムプロパティを追加できます。カスタムプロパティを追加するには、[CustomDocxumentPropertyCollection]（の[Add]（https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocxumentpropertycollection/methods/add/index）メソッドを使用できます。 https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocxumentpropertycollection）クラス。 Addメソッドは、プロパティをExcelファイルに追加し、新しいドキュメントプロパティの参照を[Aspose.Cells.Properties.DocxumentProperty]（https://apireference.aspose.com/cells/net/aspose.cells.properties）として返します。 / docxumentproperty）オブジェクト。 
+DOCXをXLTMに変換する際、[Aspose.Cells for .NET]（https://products.aspose.com/cells/net/）を使用すると、XLTMドキュメントにカスタムプロパティを追加できます。カスタムプロパティを追加するには、[CustomDocumentPropertyCollection]（の[Add]（https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index）メソッドを使用できます。 https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection）クラス。 Addメソッドは、プロパティをExcelファイルに追加し、新しいドキュメントプロパティの参照を[Aspose.Cells.Properties.DocumentProperty]（https://apireference.aspose.com/cells/net/aspose.cells.properties）として返します。 / documentproperty）オブジェクト。 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

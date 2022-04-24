@@ -17,7 +17,6 @@ description: Convert Word wordml documents to PowerPoint pps files with C#. Conv
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -61,8 +60,7 @@ PM> Install-Package Aspose.Total
 
 {{% blocks/products/pf/agp/code-block title="This code sample shows how to convert a WORDML to PPS using C#" offSpacer="" %}}
 
-```cs
-// Load the Single Page Microsoft Word WORDML file
+```cs// Load the Single Page Microsoft Word WORDML file
 Aspose.Words.Document wordml = new Aspose.Words.Document("sourceWordFile.wordml");
 
 // Save WORDML file to HTML 

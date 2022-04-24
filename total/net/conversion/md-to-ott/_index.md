@@ -31,8 +31,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
-```cs
-// load MD file with an instance of Document class
+```cs// load MD file with an instance of Document class
 Document document = new Document("template.md");
 // save MD as a DOC 
 document.Save("DocOutput.doc", SaveFormat.Doc); 
@@ -47,8 +46,7 @@ outputDocument.Save("output.ott", SaveFormat.Ott);
 {{% blocks/products/pf/feature-page-section  h2="Decrypt MD File using Owner Password via .NET" %}}
 Before converting MD to OTT, if you want to decrypt your document you can do it by using the API. In order to decrypt the PDF file, you first need to create a [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) object and open the MD using the owner’s password. After that, you need to call [Decrypt](https://apireference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) method of the Document object. Finally, save the updated file using Save method of the Document object. 
 {{% blocks/products/pf/feature-page-code %}}
-```cs
-// open document
+```cs// open document
 Document document = new Document("Decrypt.md", "password");
 // decrypt MD
 document.Decrypt();
@@ -61,8 +59,7 @@ document.Save("Decrypt_out.doc");
 {{% blocks/products/pf/feature-page-section  h2="Create ReadOnly OTT- File via .NET" %}}
 In order to protect your OTT from editing and to prevent other people from editing sensitive and confidential information in your document, you can also set the protection of the document using the API. You can limit the ability to edit a document and only allow certain actions with it. This can be done using [Aspose.Words for .NET](https://products.aspose.com/words/net/) API. It enables you to control the way you restrict the content using the [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype) enumeration parameter. You can set your document to read-only by using the following lines of code. 
 {{% blocks/products/pf/feature-page-code %}}
-```cs
-// load Doc with an instance of Document
+```cs// load Doc with an instance of Document
 Document document = new Document("input.doc");
 // apply document protection and set protection password
 doc.Protect(ProtectionType.ReadOnly, "password");

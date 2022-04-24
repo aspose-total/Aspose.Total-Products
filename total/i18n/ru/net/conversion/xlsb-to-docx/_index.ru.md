@@ -22,7 +22,7 @@ otherformats: POWERPOINT WORD DOC PPTX
 1. Откройте файл XLSB с помощью класса [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
 2. Преобразуйте XLSB в PDF и установите для параметра SaveFormat значение Auto.
 3. Загрузите преобразованный файл PDF с помощью класса [Документ](https://apireference.aspose.com/pdf/net/aspose.pdf/document).
-4. Сохраните документ в формате DOCX с помощью метода [Сохранить] (https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) и установите DocX как SaveFormat.
+4. Сохраните документ в формате DOCX с помощью метода [Сохранить](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) и установите DocX как SaveFormat.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}
@@ -33,8 +33,7 @@ otherformats: POWERPOINT WORD DOC PPTX
 
 {{% blocks/products/pf/agp/code-autogen title="Код .NET C# для преобразования XLSB в DOCX" gistPath="" %}}
 
-```cs
-// load the XLSB file using Workbook class
+```cs// load the XLSB file using Workbook class
 var book = new Aspose.Cells.Workbook("input.xlsb");
 // save XLSB as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 

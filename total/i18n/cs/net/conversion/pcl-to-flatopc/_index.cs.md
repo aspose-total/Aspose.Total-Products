@@ -13,21 +13,21 @@ otherformats: RTF OTT FLATOPC XAMLFLOW MARKDOWN ODT DOT WORDML DOTX MHTML PS DOT
 {{< blocks/products/pf/i18n/feature-page-header h1="Vykreslete PCL na FLATOPC přes .NET" h2=".NET API pro export PCL do FLATOPC na Windows, macOS a Linux bez použití Microsoft Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for .NET](https://products.aspose.com/total/net/) je výkonné rozhraní API, které do vaší aplikace .NET přidává funkce pro manipulaci a převod dokumentů. Pomocí pokročilého rozhraní API pro zpracování PDF [Aspose.PDF for .NET] (https://products.aspose.com/pdf/net/) můžete převést formát souboru PCL na DOC. Poté můžete pomocí výkonného API pro zpracování dokumentů [Aspose.Words for .NET](https://products.aspose.com/words/net/) vykreslit DOC do FLATOPC.
+[Aspose.Total for .NET](https://products.aspose.com/total/net/) je výkonné rozhraní API, které do vaší aplikace .NET přidává funkce pro manipulaci a převod dokumentů. Pomocí pokročilého rozhraní API pro zpracování PDF [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) můžete převést formát souboru PCL na DOC. Poté můžete pomocí výkonného API pro zpracování dokumentů [Aspose.Words for .NET](https://products.aspose.com/words/net/) vykreslit DOC do FLATOPC.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API pro převod PCL na FLATOPC" %}}
 1. Otevřete soubor PCL pomocí třídy [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
-2. Převeďte PCL na Doc pomocí metody [Uložit](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+2. Převeďte PCL na Doc pomocí metody [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
 3. Načtěte soubor Doc pomocí třídy [Document](https://apireference.aspose.com/words/net/aspose.words/document) třídy Aspose.Words
-4. Uložte dokument do formátu FLATOPC pomocí metody [Uložit](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) a nastavte Flatopc jako SaveFormat
+4. Uložte dokument do formátu FLATOPC pomocí metody [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) a nastavte Flatopc jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Instalujte z příkazového řádku jako ```nuget install Aspose.Total``` nebo pomocí konzoly Správce balíčků sady Visual Studio s ```Install-Package Aspose.Total```.
 
-Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení] (https://downloads.aspose.com/total/net).
+Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení](https://downloads.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
@@ -39,9 +39,10 @@ Document document = new Document("template.pcl");
 document.Save("DocOutput.doc", SaveFormat.Doc); 
 
 var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-// call save method while passing SaveFormat.FlatOpc
+
 outputDocument.Save("output.flatopc", SaveFormat.FlatOpc);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -56,7 +57,8 @@ Document document = new Document("Decrypt.pcl", "password");
 document.Decrypt();
  
 document.Save("Decrypt_out.doc");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -69,9 +71,10 @@ Abyste ochránili svůj FLATOPC před úpravami a zabránili jiným lidem upravo
 Document document = new Document("input.doc");
 
 document.Protect(ProtectionType.ReadOnly, "password");
-// call save method while passing SaveFormat.FlatOpc
+
 document.Save("output.flatopc", SaveFormat.FlatOpc);    
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

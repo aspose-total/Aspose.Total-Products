@@ -17,7 +17,6 @@ description: 使用 C# 将 Word dotx 文档转换为 PowerPoint ppsx 文件。�
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -61,8 +60,7 @@ PM> Install-Package Aspose.Total
 
 {{% blocks/products/pf/agp/code-block title="此代码示例展示了如何使用 C# 将 DOTX 转换为 PPSX" offSpacer="" %}}
 
-```cs
-// 加载单页 Microsoft Word DOTX 文件
+```cs// 加载单页 Microsoft Word DOTX 文件
 Aspose.Words.Document dotx = new Aspose.Words.Document("sourceWordFile.dotx");
 
 // 将 DOTX 文件保存为 HTML 

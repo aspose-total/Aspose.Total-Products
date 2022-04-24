@@ -1,5 +1,5 @@
 ---
-title: API C # pour exporter OFT vers FLATOPC
+title: API C# pour exporter OFT vers FLATOPC
 description: Convertir OFT en FLATOPC sans utiliser Microsoft Word ou Outlook sur .NET
 url: /fr/net/conversion/oft-to-flatopc/
 family: total
@@ -17,7 +17,7 @@ Si vous êtes un développeur .NET cherchant à ajouter des fonctionnalités de 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API C # pour convertir OFT en FLATOPC" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API C# pour convertir OFT en FLATOPC" %}}
 1. Ouvrez le fichier OFT à l'aide de la classe [MailMessage](https://apireference.aspose.com/oft/net/aspose.oft/mailmessage)
 2. Convertissez OFT en HTML en utilisant la méthode [Save](https://apireference.aspose.com/oft/net/aspose.oft.mailmessage/save/methods/3)
 3. Chargez HTML en utilisant la classe [Document](https://apireference.aspose.com/words/net/aspose.words/document)
@@ -27,7 +27,7 @@ Si vous êtes un développeur .NET cherchant à ajouter des fonctionnalités de 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
 Installez à partir de la ligne de commande en tant que ```nuget install Aspose.Total``` ou via la console du gestionnaire de packages de Visual Studio avec ```Install-Package Aspose.Total```.
 
-Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les DLL dans un fichier ZIP à partir de [téléchargements] (https://downloads.aspose.com/total/net).
+Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les DLL dans un fichier ZIP à partir de [téléchargements](https://downloads.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
@@ -39,9 +39,10 @@ MailMessage message = MailMessage.Load("sourceFile.oft");
 message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
 
 Document document = new Document("HtmlOutput.html");
-// call save method while passing SaveFormat.FlatOpc
+
 document.Save("output.flatopc", SaveFormat.FlatOpc); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -56,7 +57,8 @@ var outlookMessageFile = MapiMessage.FromFile("message.oft");
 if(outlookMessageFile.SenderName == "John"){
     
 }
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -69,9 +71,10 @@ Lors de l'enregistrement du document de OFT vers FLATOPC, vous devrez peut-être
 Document document = new Document("HtmlOutput.html");
 
 document.Protect(ProtectionType.ReadOnly, "password");
-// call save method while passing SaveFormat.FlatOpc
+
 document.Save("output.flatopc", SaveFormat.FlatOpc);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -33,15 +33,15 @@ Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [indirilenler
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 MailMessage message = MailMessage.Load("sourceFile.emlx");
  
 message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
 
 Document document = new Document("HtmlOutput.html");
-// call save method while passing SaveFormat.FlatOpc
+
 document.Save("output.flatopc", SaveFormat.FlatOpc); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -49,14 +49,14 @@ document.Save("output.flatopc", SaveFormat.FlatOpc);
 EMLX'i FLATOPC'ye dönüştürmeden önce, doğru e-postayı dönüştürdüğünüzden emin olmak istiyorsanız, EMLX belgesini yükleyebilir, ayrıştırabilir ve istediğiniz özelliğe bir göz atabilirsiniz. [Aspose.Emlx for .NET](https://products.aspose.com/emlx) [MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) sınıfını kullanarak /net/) API, gönderici ve alıcı bilgilerini alabilirsiniz. Örneğin, [GönderenAdı](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername) özelliğini kullanarak dönüşüm için belirli bir gönderen e-postasını kontrol edebilirsiniz.  
 {{% blocks/products/pf/feature-page-code %}}
 
-```cs
-// instantiate MapiMessage to load an EMLX file from disk
+```cs// instantiate MapiMessage to load an EMLX file from disk
 var outlookMessageFile = MapiMessage.FromFile("message.emlx");
  
 if(outlookMessageFile.SenderName == "John"){
     
 }
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -65,13 +65,13 @@ Belgeyi EMLX'den FLATOPC'ye kaydederken çıktı belgenizi korumanız gerekebili
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("HtmlOutput.html");
 
 document.Protect(ProtectionType.ReadOnly, "password");
 // call save method while passing SaveFormat.FlatOpc
 document.Save("output.flatopc", SaveFormat.FlatOpc);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,6 +1,6 @@
 ---
 title: تحويل تنسيق JSON إلى ODP عبر .NET
-description: تحليل JSON إلى ODP في C # بدون استخدام Microsoft PowerPoint
+description: تحليل JSON إلى ODP في C# بدون استخدام Microsoft PowerPoint
 url: /ar/net/conversion/json-to-odp/
 family: total
 platformtag: net
@@ -10,46 +10,48 @@ outformat: ODP
 otherformats: PPT OTP PPSX POWERPOINT POTM POT PPSM POTX PPTM PPS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="تحويل تنسيق JSON إلى ODP عبر C #" h2="C # API لتحليل JSON إلى ODP بدون استخدام Microsoft <sup> & reg؛ </sup> PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="تحويل تنسيق JSON إلى ODP عبر C#" h2="C# API لتحليل JSON إلى ODP بدون استخدام Microsoft<sup>&reg;</sup> PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-يمكنك تحويل JSON إلى ODP في أي تطبيق .NET و C # و ASP.NET و VB.NET بخطوتين بسيطتين. أولاً ، باستخدام [Aspose.Cells for .NET] (https://products.aspose.com/cells/net/) ، يمكنك تحليل JSON إلى PPTX. بعد ذلك ، باستخدام [Aspose.Slides for .NET] (https://products.aspose.com/slides/net/) ، يمكنك تحويل PPTX إلى ODP. تأتي كلتا واجهات برمجة التطبيقات ضمن حزمة [Aspose.Total for .NET] (https://products.aspose.com/total/net/).
+يمكنك تحويل JSON إلى ODP في أي تطبيق .NET و C# و ASP.NET و VB.NET بخطوتين بسيطتين. أولاً ، باستخدام [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) ، يمكنك تحليل JSON إلى PPTX. بعد ذلك ، باستخدام [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) ، يمكنك تحويل PPTX إلى ODP. تأتي كلتا واجهات برمجة التطبيقات ضمن حزمة [Aspose.Total for .NET](https://products.aspose.com/total/net/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="تحويل تنسيق JSON إلى ODP عبر C #" %}}
+{{% blocks/products/pf/agp/feature-section-col title="تحويل تنسيق JSON إلى ODP عبر C#" %}}
 1. قم بإنشاء كائن [مصنف] جديد (https://apireference.aspose.com/cells/net/aspose.cells/workbook) واقرأ بيانات JSON الصالحة من الملف
-2. استيراد ملف JSON إلى ورقة العمل باستخدام فئة [JsonUtility] (https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) و [حفظ] (https://apireference.aspose.com/ خلايا / صافي / aspose.cells.workbook / حفظ / طرق / 4) أنها PPTX
-3. قم بتحميل مستند PPTX باستخدام فئة [Presentation] (https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-4. احفظ المستند بتنسيق ODP باستخدام طريقة [حفظ] (https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+2. استيراد ملف JSON إلى ورقة العمل باستخدام فئة [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) و [Save](https://apireference.aspose.com/ خلايا / صافي / aspose.cells.workbook / حفظ / طرق / 4) أنها PPTX
+3. قم بتحميل مستند PPTX باستخدام فئة [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
+4. احفظ المستند بتنسيق ODP باستخدام طريقة [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-قم بالتثبيت من سطر الأوامر كـ `` nuget install Aspose.Total ''` أو عبر Package Manager Console في Visual Studio مع `` Install-Package Aspose.Total' '.
+قم بالتثبيت من سطر الأوامر كـ ``nuget install Aspose.Total`` أو عبر Package Manager Console في Visual Studio مع ``Install-Package Aspose.Total``.
 
-بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التنزيلات] (https://downloads.aspose.com/total/net).
+بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [Downloads](https://downloads.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="تعيين التخطيط وتحويل تنسيق JSON إلى ODP عبر C #" %}}
-أثناء تحليل JSON إلى ODP ، يمكنك أيضًا تعيين خيارات التخطيط لتنسيق JSON باستخدام [JsonLayoutOptions] (https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). يتيح لك معالجة الصفيف كجدول ، وتجاهل القيم الخالية ، وتجاهل عنوان الصفيف ، وتجاهل عنوان الكائن ، وتحويل السلسلة إلى رقم أو تاريخ ، وتعيين تنسيق التاريخ والأرقام ، وتعيين نمط العنوان. تتيح لك كل هذه الخيارات تقديم بياناتك وفقًا لاحتياجاتك. يوضح لك مقتطف الشفرة التالي كيفية تعيين خيارات التخطيط.  
+{{% blocks/products/pf/feature-page-section  h2="تعيين التخطيط وتحويل تنسيق JSON إلى ODP عبر C#" %](
+أثناء تحليل JSON إلى ODP ، يمكنك أيضًا تعيين خيارات التخطيط لتنسيق JSON باستخدام [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). يتيح لك معالجة الصفيف كجدول ، وتجاهل القيم الخالية ، وتجاهل عنوان الصفيف ، وتجاهل عنوان الكائن ، وتحويل السلسلة إلى رقم أو تاريخ ، وتعيين تنسيق التاريخ والأرقام ، وتعيين نمط العنوان. تتيح لك كل هذه الخيارات تقديم بياناتك وفقًا لاحتياجاتك. يوضح لك مقتطف الشفرة التالي كيفية تعيين خيارات التخطيط.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "set-layout-and-parse-json-to-powerpoint.cs" >}}
+{{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "set-layout-and-parse-json-to-powerpoint.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-
 {{% blocks/products/pf/feature-page-section  h2="تحويل تنسيق JSON إلى ODP مع العلامة المائية" %}}
-باستخدام API ، يمكنك أيضًا تحويل JSON إلى ODP بعلامة مائية. لإضافة علامة مائية إلى مستند ODP الخاص بك ، يمكنك أولاً تحليل JSON إلى PPTX وإضافة علامة مائية إليه. لإضافة علامة مائية ، قم بتحميل ملف PPTX الذي تم إنشاؤه حديثًا باستخدام فئة [العرض التقديمي] (https://apireference.aspose.com/slides/net/aspose.slides/presentation) ، حدد العرض التقديمي الرئيسي ، أضف نوع الشكل باستخدام AddAutoShape وإضافة نص العلامة المائية باستخدام AddTextFrame. بعد إضافة العلامة المائية ، يمكنك حفظ المستند في ODP. 
+باستخدام API ، يمكنك أيضًا تحويل JSON إلى ODP بعلامة مائية. لإضافة علامة مائية إلى مستند ODP الخاص بك ، يمكنك أولاً تحليل JSON إلى PPTX وإضافة علامة مائية إليه. لإضافة علامة مائية ، قم بتحميل ملف PPTX الذي تم إنشاؤه حديثًا باستخدام فئة [العرض التقديمي](https://apireference.aspose.com/slides/net/aspose.slides/presentation) ، حدد العرض التقديمي الرئيسي ، أضف نوع الشكل باستخدام AddAutoShape وإضافة نص العلامة المائية باستخدام AddTextFrame. بعد إضافة العلامة المائية ، يمكنك حفظ المستند في ODP. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

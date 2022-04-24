@@ -33,7 +33,6 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("template.pcl");
  
 document.Save("DocOutput.doc", SaveFormat.Doc); 
@@ -41,14 +40,14 @@ document.Save("DocOutput.doc", SaveFormat.Doc);
 var outputDocument = new Aspose.Words.Document("DocOutput.doc");
 
 outputDocument.Save("output.ps", SaveFormat.Ps);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Descriptografar o arquivo PCL usando a senha do proprietário via .NET" %}}
 Antes de converter PCL para PS, se você quiser descriptografar seu documento, pode fazê-lo usando a API. Para descriptografar o arquivo PDF, primeiro você precisa criar um objeto [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) e abrir o PCL usando a senha do proprietário. Depois disso, você precisa chamar o método [Decrypt](https://apireference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) do objeto Document. Por fim, salve o arquivo atualizado usando o método Save do objeto Document.  
 {{% blocks/products/pf/feature-page-code %}}
-
 ```cs
 
 Document document = new Document("Decrypt.pcl", "password");
@@ -56,22 +55,22 @@ Document document = new Document("Decrypt.pcl", "password");
 document.Decrypt();
  
 document.Save("Decrypt_out.doc");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Criar arquivo PS somente leitura via .NET" %}}
 Para proteger seu PS da edição e impedir que outras pessoas editem informações confidenciais em seu documento, você também pode definir a proteção do documento usando a API. Você pode limitar a capacidade de editar um documento e permitir apenas determinadas ações com ele. Isso pode ser feito usando a API [Aspose.Words for .NET](https://products.aspose.com/words/net/). Ele permite que você controle a maneira como restringe o conteúdo usando o parâmetro de enumeração [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype). Você pode definir seu documento como somente leitura usando as seguintes linhas de código. 
-{{% blocks/products/pf/feature-page-code %}}
-
 ```cs
-
+```cs
 Document document = new Document("input.doc");
 
 document.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.ps", SaveFormat.Ps);    
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

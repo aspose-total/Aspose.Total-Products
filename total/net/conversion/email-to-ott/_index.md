@@ -31,8 +31,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
-```cs
-// load the EMAIL file to be converted
+```cs// load the EMAIL file to be converted
 MailMessage message = MailMessage.Load("sourceFile.msg");
 // save EMAIL as a HTML 
 message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
@@ -47,8 +46,7 @@ document.Save("output.ott", SaveFormat.Ott);
 {{% blocks/products/pf/feature-page-section  h2="Parse EMAIL File via .NET" %}}
 Before converting EMAIL to OTT, if you want to make sure that you are converting the correct email, you can load EMAIL document, parse it and have a look at your desired property. By using [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) class of [Aspose.Email for .NET](https://products.aspose.com/email/net/) API, you can get sender and recipients information. For example, you can check for a specific sender email for the conversion by using [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername) property. 
 {{% blocks/products/pf/feature-page-code %}}
-```cs
-// instantiate MapiMessage to load an MSG file from disk
+```cs// instantiate MapiMessage to load an MSG file from disk
 var outlookMessageFile = MapiMessage.FromFile("message.msg");
 // check for SenderName 
 if(outlookMessageFile.SenderName == "John"){
@@ -61,8 +59,7 @@ if(outlookMessageFile.SenderName == "John"){
 {{% blocks/products/pf/feature-page-section  h2="Restrict OTT Document Editing via .NET" %}}
 While saving the document from EMAIL to OTT, you might need to protect your output document. Sometimes you may need to limit the ability to edit a document and only allow certain actions with it. This can be useful to prevent other people from editing sensitive and confidential information in your document. [Aspose.Words for .NET](https://products.aspose.com/words/net/) API, enables you to control the way you restrict the content using the [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype) enumeration parameter. You can set your document to read-only by using the following lines of code. 
 {{% blocks/products/pf/feature-page-code %}}
-```cs
-// load HTML with an instance of Document
+```cs// load HTML with an instance of Document
 Document document = new Document("HtmlOutput.html");
 // apply document protection and set protection password
 doc.Protect(ProtectionType.ReadOnly, "password");

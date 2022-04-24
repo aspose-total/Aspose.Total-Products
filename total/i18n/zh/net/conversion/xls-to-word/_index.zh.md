@@ -31,8 +31,7 @@ otherformats: DOCX DOC PPTX POWERPOINT
 
 {{% blocks/products/pf/agp/code-autogen title="用于 XLS 到 WORD 转换的 .NET C# 代码" gistPath="" %}}
 
-```cs
-// load the XLS file using Workbook class
+```cs// load the XLS file using Workbook class
 var book = new Aspose.Cells.Workbook("input.xls");
 // save XLS as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 

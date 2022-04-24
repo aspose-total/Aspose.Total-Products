@@ -33,7 +33,6 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("template.md");
  
 document.Save("DocOutput.doc", SaveFormat.Doc); 
@@ -41,14 +40,14 @@ document.Save("DocOutput.doc", SaveFormat.Doc);
 var outputDocument = new Aspose.Words.Document("DocOutput.doc");
 
 outputDocument.Save("output.markdown", SaveFormat.Markdown);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Dekryptera MD-fil med ägarlösenord via .NET" %}}
 Innan du konverterar MD till MARKDOWN, om du vill dekryptera ditt dokument kan du göra det med hjälp av API:et. För att dekryptera PDF-filen måste du först skapa ett [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) objekt och öppna MD med ägarens lösenord. Efter det måste du anropa metoden [Decrypt](https://apireference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) för Document-objektet. Slutligen, spara den uppdaterade filen med hjälp av Save-metoden för Document-objektet.  
 {{% blocks/products/pf/feature-page-code %}}
-
 ```cs
 
 Document document = new Document("Decrypt.md", "password");
@@ -56,22 +55,22 @@ Document document = new Document("Decrypt.md", "password");
 document.Decrypt();
  
 document.Save("Decrypt_out.doc");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Skapa skrivskyddad MARKDOWN-fil via .NET" %}}
 För att skydda din MARKDOWN från redigering och för att förhindra andra från att redigera känslig och konfidentiell information i ditt dokument, kan du också ställa in skyddet för dokumentet med hjälp av API:et. Du kan begränsa möjligheten att redigera ett dokument och endast tillåta vissa åtgärder med det. Detta kan göras med [Aspose.Words for .NET](https://products.aspose.com/words/net/) API. Det låter dig styra hur du begränsar innehållet med hjälp av uppräkningsparametern [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype). Du kan ställa in ditt dokument på skrivskyddat genom att använda följande kodrader. 
-{{% blocks/products/pf/feature-page-code %}}
-
 ```cs
-
+```cs
 Document document = new Document("input.doc");
 
 document.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.markdown", SaveFormat.Markdown);    
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

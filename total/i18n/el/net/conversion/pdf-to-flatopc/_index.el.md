@@ -39,9 +39,10 @@ Document document = new Document("template.pdf");
 document.Save("DocOutput.doc", SaveFormat.Doc); 
 
 var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-// call save method while passing SaveFormat.FlatOpc
+
 outputDocument.Save("output.flatopc", SaveFormat.FlatOpc);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -56,7 +57,8 @@ Document document = new Document("Decrypt.pdf", "password");
 document.Decrypt();
  
 document.Save("Decrypt_out.doc");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -71,7 +73,8 @@ Document document = new Document("input.doc");
 document.Protect(ProtectionType.ReadOnly, "password");
 // call save method while passing SaveFormat.FlatOpc
 document.Save("output.flatopc", SaveFormat.FlatOpc);    
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

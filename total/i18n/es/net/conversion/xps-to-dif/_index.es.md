@@ -20,7 +20,7 @@ Usando [Aspose.Total para .NET](https://products.aspose.com/total/net/) puede co
 {{% blocks/products/pf/agp/feature-section-col title="API .NET para convertir XPS a DIF" %}}
 1. Abra el archivo XPS usando la clase [Documento](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
 2. Convierta XPS a XLSX usando el método [Guardar](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
-3. Cargue el documento XLSX usando la clase [Libro de trabajo] (https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+3. Cargue el documento XLSX usando la clase [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Guarde el documento en formato DIF usando el método [Guardar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) y configure `Dif` como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -33,7 +33,8 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-pdf-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 Si su documento XPS está protegido con contraseña, no puede convertirlo a DIF sin la contraseña. Con la API, primero puede abrir el documento protegido con una contraseña válida y convertirlo después. Para abrir el archivo cifrado, puede inicializar una nueva instancia de la clase [Documento](https://apireference.aspose.com/pdf/net/aspose.pdf/document) y pasar el nombre del archivo y la contraseña como argumentos.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-password-protected-pdf-to-excel.cs" >}}
+{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-password-protected-pdf-to-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Si su documento XPS está protegido con contraseña, no puede convertirlo a DIF 
 Al convertir un archivo XPS a DIF, también puede agregar una marca de agua a su formato de archivo DIF de salida. Para agregar una marca de agua, puede crear un nuevo objeto Libro de trabajo y abrir el documento XLSX convertido, seleccionar Hoja de trabajo a través de su índice, crear una Forma y usar su función AddTextEffect. Después de eso, puede guardar su documento XLSX como DIF con marca de agua. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-pdf-to-excel-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-pdf-to-excel-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

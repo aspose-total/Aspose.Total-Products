@@ -33,15 +33,17 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-
+C#
 {{% blocks/products/pf/feature-page-section  h2="Carregar docmumento DOCM do fluxo via C #" %}}
 [Aspose.Words for .NET](https://products.aspose.com/words/net/) também permite carregar docmumentos DOCM via stream. Para abrir um docmumento de um stream, basta passar um objeto stream que contém o docmumento para o construtor [Docmument](https://apireference.aspose.com/words/net/aspose.words/docmument). O exemplo de código a seguir mostra como abrir um docmumento de um fluxo:  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 Ao converter DOCM para XLTX, o [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) permite adicionar propriedades personalizadas em seus docmumentos XLTX. Para adicionar uma propriedade personalizada, você pode usar o método [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocmumentpropertycollection/methods/add/index) para o método [CustomDocmumentPropertyCollection]( https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocmumentpropertycollection) classe. O método Add adiciona a propriedade ao arquivo Excel e retorna uma referência para a nova propriedade do docmumento como um [Aspose.Cells.Properties.DocmumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /docmumentproperty) objeto. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

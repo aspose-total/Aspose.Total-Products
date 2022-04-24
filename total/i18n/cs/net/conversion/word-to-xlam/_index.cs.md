@@ -19,21 +19,22 @@ Pomocí [Aspose.Total for .NET](https://products.aspose.com/total/net/) můžete
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API pro převod WORD do XLAM" %}}
 1. Otevřete soubor WORD pomocí třídy [Wordument](https://apireference.aspose.com/words/net/aspose.words/wordument)
-2. Převeďte WORD do HTML pomocí metody [Uložit](https://apireference.aspose.com/words/net/aspose.words.wordument/save/methods/4)
-3. Načtěte dokument HTML pomocí třídy [Sešit](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Uložte dokument do formátu XLAM pomocí metody [Uložit](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) a nastavte „XLAM“ jako SaveFormat
+2. Převeďte WORD do HTML pomocí metody [Save](https://apireference.aspose.com/words/net/aspose.words.wordument/save/methods/4)
+3. Načtěte dokument HTML pomocí třídy [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+4. Uložte dokument do formátu XLAM pomocí metody [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) a nastavte „XLAM“ jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Instalujte z příkazového řádku jako ```nuget install Aspose.Total``` nebo pomocí konzoly Správce balíčků sady Visual Studio s ```Install-Package Aspose.Total```.
 
-Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení] (https://downloads.aspose.com/total/net).
+Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení](https://downloads.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ Případně si stáhněte offline instalační program MSI nebo knihovny DLL v s
 [Aspose.Words for .NET](https://products.aspose.com/words/net/) vám také umožňuje načíst dokument WORD prostřednictvím streamu. Chcete-li otevřít dokument ze streamu, jednoduše předejte objekt streamu, který obsahuje dokument, do konstruktoru [Wordument](https://apireference.aspose.com/words/net/aspose.words/wordument). Následující příklad kódu ukazuje, jak otevřít dokument ze streamu:  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Případně si stáhněte offline instalační program MSI nebo knihovny DLL v s
 Při převodu WORD na XLAM vám [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) umožňuje přidávat do dokumentů XLAM vlastní vlastnosti. Chcete-li přidat vlastní vlastnost, můžete použít metodu [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customwordumentpropertycollection/methods/add/index) pro [CustomWordumentPropertyCollection]( https://apireference.aspose.com/cells/net/aspose.cells.properties/customwordumentpropertycollection) třídy. Metoda Add přidá vlastnost do souboru aplikace Excel a vrátí odkaz na novou vlastnost dokumentu jako [Aspose.Cells.Properties.WordumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /wordumentproperty) objekt. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

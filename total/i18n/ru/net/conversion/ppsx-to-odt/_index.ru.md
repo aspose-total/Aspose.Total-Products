@@ -17,7 +17,6 @@ description: Преобразование документов PowerPoint ppsx �
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -60,8 +59,7 @@ PM> Install-Package Aspose.Total
 
 {{% blocks/products/pf/agp/code-block title="В этом примере кода показано, как преобразовать PPSX в ODT с помощью C#." offSpacer="" %}}
 
-```cs
-// Загрузите PPSX-файл Microsoft PowerPoint
+```cs// Загрузите PPSX-файл Microsoft PowerPoint
 Aspose.Slides.Presentation ppsx = new Aspose.Slides.Presentation("source.ppsx");
 
 var stream = new MemoryStream();

@@ -21,7 +21,7 @@ otherformats: DOCX PDF DOC PCL JPEG FLATOPC TIFF TEXT DOCM PS EPUB SVG DOTX DOTM
 1. Откройте файл EML с помощью класса [MailMessage](https://apireference.aspose.com/eml/net/aspose.eml/mailmessage).
 2. Преобразуйте EML в HTML, используя метод [Сохранить](https://apireference.aspose.com/eml/net/aspose.eml.mailmessage/save/methods/3).
 3. Загрузите HTML с помощью класса [Document](https://apireference.aspose.com/words/net/aspose.words/document).
-4. Сохраните документ в формате DOTM с помощью метода [Сохранить] (https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) и установите Dotm в качестве формата сохранения.
+4. Сохраните документ в формате DOTM с помощью метода [Сохранить](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) и установите Dotm в качестве формата сохранения.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}
@@ -33,7 +33,6 @@ otherformats: DOCX PDF DOC PCL JPEG FLATOPC TIFF TEXT DOCM PS EPUB SVG DOTX DOTM
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 MailMessage message = MailMessage.Load("sourceFile.msg");
  
 message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
@@ -41,7 +40,8 @@ message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
 Document document = new Document("HtmlOutput.html");
 
 document.Save("output.dotm", SaveFormat.Dotm); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -50,13 +50,13 @@ document.Save("output.dotm", SaveFormat.Dotm);
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 var outlookMessageFile = MapiMessage.FromFile("message.msg");
  
 if(outlookMessageFile.SenderName == "John"){
     
 }
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -65,13 +65,13 @@ if(outlookMessageFile.SenderName == "John"){
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("HtmlOutput.html");
 
 document.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.dotm", SaveFormat.Dotm);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -32,8 +32,7 @@ Alternatively, you can get a ZIP file from [downloads](https://downloads.aspose.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Java Code for XLSX to WORD Conversion" gistPath="" %}}
-```cs
-// load the XLSX file using Workbook class
+```cs// load the XLSX file using Workbook class
 Workbook book = new Workbook("input.xlsx");
 // save XLSX as PDF
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);

@@ -47,8 +47,7 @@ outputDocument.save("output.gif", SaveFormat.GIF);
 {{% blocks/products/pf/feature-page-section  h2="Open Password Protected CGM Document via Java" %}}
 While converting CGM to GIF, even if your document is password protected, you can still open it using PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). In order to open the encrypted file, you need to create a [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) object and open the CGM using the owner’s password. 
 {{% blocks/products/pf/feature-page-code %}}
-```cs
-// open encrypted document
+```cs// open encrypted document
 Document document = new Document("input.cgm", "password");
 // save CGM as a DOC 
 document.save("DocOutput.doc", SaveFormat.DOC);

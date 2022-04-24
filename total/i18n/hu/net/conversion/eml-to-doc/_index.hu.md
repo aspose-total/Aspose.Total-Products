@@ -13,7 +13,7 @@ otherformats: EPUB PCL PDF JPEG DOCM DOC TEXT DOT MD RTF EMF DOTM SVG WORDML PS 
 {{< blocks/products/pf/i18n/feature-page-header h1="Exportálja az EML-t DOC-be .NET-en keresztül" h2=".NET API az EML DOC formátumban való megjelenítéséhez Windows, macOS és Linux rendszeren Word vagy Outlook használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Ha Ön .NET-fejlesztő, szeretné hozzáadni az EML-t az alkalmazásokon belüli DOC-konverziós funkciókhoz, az [Aspose.Total for .NET](https://products.aspose.com/total/net/) fájlformátum-manipulációs API-k jelentik az utat. előre. Az [Aspose.Eml for .NET] (https://products.aspose.com/eml/net/) használatával konvertálhatja az EML fájlformátumot HTML-re. Ezt követően az [Aspose.Words for .NET] (https://products.aspose.com/words/net/) használatával a HTML-t DOC-be renderelheti.
+Ha Ön .NET-fejlesztő, szeretné hozzáadni az EML-t az alkalmazásokon belüli DOC-konverziós funkciókhoz, az [Aspose.Total for .NET](https://products.aspose.com/total/net/) fájlformátum-manipulációs API-k jelentik az utat. előre. Az [Aspose.Eml for .NET](https://products.aspose.com/eml/net/) használatával konvertálhatja az EML fájlformátumot HTML-re. Ezt követően az [Aspose.Words for .NET](https://products.aspose.com/words/net/) használatával a HTML-t DOC-be renderelheti.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -41,7 +41,8 @@ message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
 Document document = new Document("HtmlOutput.html");
 
 document.Save("output.doc", SaveFormat.Doc); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -56,7 +57,8 @@ var outlookMessageFile = MapiMessage.FromFile("message.eml");
 if(outlookMessageFile.SenderName == "John"){
     
 }
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -71,7 +73,8 @@ Document document = new Document("HtmlOutput.html");
 document.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.doc", SaveFormat.Doc);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

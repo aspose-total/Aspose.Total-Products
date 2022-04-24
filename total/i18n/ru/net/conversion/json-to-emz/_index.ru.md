@@ -20,7 +20,7 @@ otherformats: IMAGE TGA SVGZ JPEG2000 EMZ DXF WMZ WMF DICOM PSD
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование формата JSON в EMZ через C#" %}}
 1. Создайте новый объект [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) и прочитайте данные JSON из файла
 2. Преобразуйте JSON в JPEG, используя метод [Сохранить](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4).
-3. Загрузите документ JPEG с помощью класса [Image] (https://apireference.aspose.com/imaging/net/aspose.imaging/image).
+3. Загрузите документ JPEG с помощью класса [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image).
 4. Сохраните документ в формате EMZ, используя метод [Сохранить](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -33,7 +33,8 @@ otherformats: IMAGE TGA SVGZ JPEG2000 EMZ DXF WMZ WMF DICOM PSD
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "parse-json-to-image.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,15 +42,16 @@ otherformats: IMAGE TGA SVGZ JPEG2000 EMZ DXF WMZ WMF DICOM PSD
 При синтаксическом анализе JSON в EMZ вы также можете установить параметры макета для вашего JSON с помощью [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Он позволяет обрабатывать массив как таблицу, игнорировать нули, игнорировать заголовок массива, игнорировать заголовок объекта, преобразовывать строку в число или дату, устанавливать формат даты и числа и устанавливать стиль заголовка. Все эти параметры позволяют вам представить ваши данные в соответствии с вашими потребностями. В следующем фрагменте кода показано, как установить параметры макета.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "set-layout-and-parse-json-to-image.cs" >}}
+{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "set-layout-and-parse-json-to-image.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-
 {{% blocks/products/pf/feature-page-section  h2="Разобрать формат JSON в EMZ с водяным знаком" %}}
-Используя API, вы также можете конвертировать JSON в EMZ с водяным знаком в документе EMZ. Чтобы добавить водяной знак, вы можете сначала преобразовать документ JSON в JPEG и добавить в него водяной знак. Чтобы продемонстрировать операцию, вы можете загрузить преобразованное изображение JPEG, добавить преобразования с помощью объекта класса Matrix и нарисовать строку в качестве водяного знака на поверхности изображения с помощью [Graphics] (https://apireference.aspose.com/imaging/ net/aspose.imaging/graphics) класс» метод [DrawString](https://apireference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring). После добавления к нему водяного знака вы можете сохранить JPEG в формате EMZ. Ниже приведен пример кода, демонстрирующий, как добавить в документ диагональный водяной знак. 
+Используя API, вы также можете конвертировать JSON в EMZ с водяным знаком в документе EMZ. Чтобы добавить водяной знак, вы можете сначала преобразовать документ JSON в JPEG и добавить в него водяной знак. Чтобы продемонстрировать операцию, вы можете загрузить преобразованное изображение JPEG, добавить преобразования с помощью объекта класса Matrix и нарисовать строку в качестве водяного знака на поверхности изображения с помощью [Graphics](https://apireference.aspose.com/imaging/ net/aspose.imaging/graphics) класс» метод [DrawString](https://apireference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring). После добавления к нему водяного знака вы можете сохранить JPEG в формате EMZ. Ниже приведен пример кода, демонстрирующий, как добавить в документ диагональный водяной знак. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

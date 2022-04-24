@@ -33,15 +33,15 @@ otherformats: GIF EPUB DOT DOTX OTT PDF ODT FLATOPC PCL PNG MD DOC EMF PS RTF TE
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 MailMessage message = MailMessage.Load("sourceFile.msg");
  
 message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
 
 Document document = new Document("HtmlOutput.html");
-// call save method while passing SaveFormat.FlatOpc
+
 document.Save("output.flatopc", SaveFormat.FlatOpc); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -50,13 +50,13 @@ MSG을 FLATOPC로 변환하기 전에 올바른 이메일을 변환하고 있는
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 var outlookMessageFile = MapiMessage.FromFile("message.msg");
  
 if(outlookMessageFile.SenderName == "John"){
     
 }
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -65,13 +65,13 @@ MSG에서 FLATOPC로 문서를 저장하는 동안 출력 문서를 보호해야
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("HtmlOutput.html");
 
 document.Protect(ProtectionType.ReadOnly, "password");
 // call save method while passing SaveFormat.FlatOpc
 document.Save("output.flatopc", SaveFormat.FlatOpc);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

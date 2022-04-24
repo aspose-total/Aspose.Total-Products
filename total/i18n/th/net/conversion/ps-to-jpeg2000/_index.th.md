@@ -10,7 +10,7 @@ outformat: JPEG2000
 otherformats: TGA WMZ SVGZ WMF PSD IMAGE DXF  EMZ JPEG2000 DICOM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="แปลงไฟล์ PS เป็น JPEG2000 ผ่าน C #" h2="ส่งออก PS เป็น JPEG2000 ภายในแอปพลิเคชัน .NET โดยไม่ต้องใช้ Adobe<sup>&reg;</sup> Acrobat Reader หรือแอปพลิเคชันบุคคลที่สามอื่นๆ" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="แปลงไฟล์ PS เป็น JPEG2000 ผ่าน C#" h2="ส่งออก PS เป็น JPEG2000 ภายในแอปพลิเคชัน .NET โดยไม่ต้องใช้ Adobe<sup>&reg;</sup> Acrobat Reader หรือแอปพลิเคชันบุคคลที่สามอื่นๆ" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 การใช้ [Aspose.Total for .NET](https://products.aspose.com/total/net/) คุณสามารถส่งออก PS ไปยังรูปภาพ JPEG2000 ภายในแอปพลิเคชัน .NET ได้ง่ายๆ ในสองขั้นตอนง่ายๆ ก่อนอื่น ด้วยการใช้ [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) คุณสามารถส่งออก PS เป็น JPEG ได้ หลังจากนั้น ด้วยการใช้ [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API คุณสามารถแปลง JPEG เป็น JPEG2000 ได้
@@ -33,24 +33,27 @@ otherformats: TGA WMZ SVGZ WMF PSD IMAGE DXF  EMZ JPEG2000 DICOM
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-image.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-
+C#
 {{% blocks/products/pf/feature-page-section  h2="แปลงไฟล์ PS เป็น JPEG2000 ในไฟล์เดียวผ่าน C #" %}}
 เมื่อใช้ API คุณยังสามารถแปลงไฟล์ PS เป็น JPEG2000 เป็นไฟล์รูปภาพเดียวได้ ในการแปลงหน้าทั้งหมด ก่อนอื่นคุณสามารถแสดงเอกสาร PS ของคุณเป็นไฟล์ TIFF หนึ่งไฟล์ และหลังจากนั้นคุณสามารถส่งออกไฟล์ TIFF ไปยัง JPEG2000 ได้ คุณสามารถเปิดไฟล์อินพุตได้โดยใช้คลาส [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) และสร้างอ็อบเจ็กต์อุปกรณ์ Resolution, TiffSettings และ TIFF คุณสามารถรับรูปภาพ TIFF เดียวได้โดยใช้วิธี [Process](https://apireference.aspose.com/pdf/net/aspose.pdf.devices.documentdevice/process/methods/3) ของวิธี [TiffDevice](https:// apireference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice) คลาส สุดท้าย คุณสามารถโหลดไฟล์ TIFF โดยใช้คลาส [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image)
 และบันทึกเป็นรูปแบบ JPEG2000 โดยใช้วิธี [บันทึก](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-single-file.cs" >}}
+{{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-single-file.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% /blocks/products/pf/feature-page-section %}}C#
 
 {{% blocks/products/pf/feature-page-section  h2="แปลงและหมุนไฟล์ PS เป็น JPEG2000 ผ่าน C #" %}}
 เมื่อใช้ API คุณยังสามารถหมุนอิมเมจ JPEG2000 ที่ส่งออกได้ตามความต้องการของคุณ วิธี Image.RotateFlip สามารถใช้หมุนภาพได้ 90/180/270 องศา แล้วพลิกภาพในแนวนอนหรือแนวตั้ง คุณสามารถระบุประเภทของการหมุนและพลิกเพื่อใช้กับรูปภาพได้ ในการหมุนและพลิกภาพ คุณสามารถโหลดภาพ JPEG ที่แปลงแล้วโดยใช้วิธีการจากโรงงานที่แสดงโดยคลาส [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) และเรียก Image วิธี .RotateFlip ขณะระบุ [RotateFlipType](https://apireference.aspose.com/imaging/net/aspose.imaging/rotatefliptype) ที่เหมาะสม 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-and-rotate-pdf-to-image.cs" >}}
+{{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-and-rotate-pdf-to-image.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

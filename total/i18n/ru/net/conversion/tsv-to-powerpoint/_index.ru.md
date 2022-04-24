@@ -33,8 +33,7 @@ otherformats: PPTX WORD DOCX DOC
 
 {{% blocks/products/pf/agp/code-autogen title="Код .NET C# для преобразования TSV в POWERPOINT" gistPath="" %}}
 
-```cs
-// load the TSV file using Workbook class
+```cs// load the TSV file using Workbook class
 var book = new Aspose.Cells.Workbook("input.tsv");
 // save TSV as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 

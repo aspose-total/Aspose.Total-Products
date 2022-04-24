@@ -17,7 +17,6 @@ description: Преобразование документов Word rtf в фа�
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -61,8 +60,7 @@ Aspose.Total для .NET поддерживается во всех основн
 
 {{% blocks/products/pf/agp/code-block title="В этом примере кода показано, как преобразовать RTF в PPS с помощью C#." offSpacer="" %}}
 
-```cs
-// Загрузите одностраничный файл Microsoft Word RTF
+```cs// Загрузите одностраничный файл Microsoft Word RTF
 Aspose.Words.Document rtf = new Aspose.Words.Document("sourceWordFile.rtf");
 
 // Сохраняем файл RTF в HTML

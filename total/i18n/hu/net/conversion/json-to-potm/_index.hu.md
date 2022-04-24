@@ -13,7 +13,7 @@ otherformats: PPSM POWERPOINT PPT POT POTM PPSX POTX OTP PPS PPTM
 {{< blocks/products/pf/i18n/feature-page-header h1="Konvertálja a JSON formátumot POTM-vé a C# segítségével" h2="C# API a JSON elemzéséhez POTM-be a Microsoft<sup>&reg;</sup> PowerPoint használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Két egyszerű lépésben konvertálhatja a JSON-t POTM-vé bármely .NET, C#, ASP.NET és VB.NET alkalmazáson belül. Először is, az [Aspose.Cells for .NET] (https://products.aspose.com/cells/net/) használatával elemezheti a JSON-t PPTX-re. Ezt követően az [Aspose.Slides for .NET] (https://products.aspose.com/slides/net/) használatával konvertálhatja a PPTX-t POTM-vé. Mindkét API az [Aspose.Total for .NET](https://products.aspose.com/total/net/) csomagba tartozik.
+Két egyszerű lépésben konvertálhatja a JSON-t POTM-vé bármely .NET, C#, ASP.NET és VB.NET alkalmazáson belül. Először is, az [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) használatával elemezheti a JSON-t PPTX-re. Ezt követően az [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) használatával konvertálhatja a PPTX-t POTM-vé. Mindkét API az [Aspose.Total for .NET](https://products.aspose.com/total/net/) csomagba tartozik.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -33,7 +33,8 @@ Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eke
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eke
 A JSON POTM-re történő elemzése közben a JSON-formátum elrendezési beállításait is megadhatja a [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayotoptions) segítségével. Lehetővé teszi a tömb táblázatként történő feldolgozását, a nullák figyelmen kívül hagyását, a tömb címének figyelmen kívül hagyását, az objektum címének figyelmen kívül hagyását, a karakterlánc számmá vagy dátummá alakítását, a dátum és számformátum beállítását, valamint a címstílus beállítását. Mindezek a lehetőségek lehetővé teszik, hogy adatait az igényeinek megfelelően mutassa be. A következő kódrészlet bemutatja, hogyan állíthatja be az elrendezési beállításokat.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "set-layout-and-parse-json-to-powerpoint.cs" >}}
+{{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "set-layout-and-parse-json-to-powerpoint.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ A JSON POTM-re történő elemzése közben a JSON-formátum elrendezési beáll
 Az API használatával a JSON-t vízjellel POTM-vé is konvertálhatja. Ha vízjelet szeretne hozzáadni az POTM-dokumentumhoz, először elemezze a JSON-t PPTX-be, és adjon hozzá egy vízjelet. Vízjel hozzáadásához töltse be az újonnan létrehozott PPTX fájlt a [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) osztály segítségével, válassza ki a főprezentációt, és adja meg az alakzat típusát a segítségével AddAutoShape, és adjon hozzá vízjelszöveget az AddTextFrame segítségével. A vízjel hozzáadása után elmentheti a dokumentumot az POTM-be. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

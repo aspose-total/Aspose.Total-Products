@@ -33,15 +33,15 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("template.svg");
  
 document.Save("DocOutput.doc", SaveFormat.Doc); 
 
 var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-// call save method while passing SaveFormat.FlatOpc
+
 outputDocument.Save("output.flatopc", SaveFormat.FlatOpc);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -50,13 +50,13 @@ Innan du konverterar SVG till FLATOPC, om du vill dekryptera ditt dokument kan d
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("Decrypt.svg", "password");
 
 document.Decrypt();
  
 document.Save("Decrypt_out.doc");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -65,13 +65,13 @@ För att skydda din FLATOPC från redigering och för att förhindra andra från
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("input.doc");
 
 document.Protect(ProtectionType.ReadOnly, "password");
 // call save method while passing SaveFormat.FlatOpc
 document.Save("output.flatopc", SaveFormat.FlatOpc);    
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

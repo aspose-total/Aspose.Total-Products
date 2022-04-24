@@ -17,7 +17,6 @@ description: Convert Word ott documents to PowerPoint ppt files with C#. Convert
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -61,8 +60,7 @@ PM> Install-Package Aspose.Total
 
 {{% blocks/products/pf/agp/code-block title="This code sample shows how to convert a OTT to PPT using C#" offSpacer="" %}}
 
-```cs
-// Load the Single Page Microsoft Word OTT file
+```cs// Load the Single Page Microsoft Word OTT file
 Aspose.Words.Document ott = new Aspose.Words.Document("sourceWordFile.ott");
 
 // Save OTT file to HTML 

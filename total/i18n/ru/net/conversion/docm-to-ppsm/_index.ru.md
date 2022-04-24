@@ -17,7 +17,6 @@ description: Преобразование документов Word docm в фа
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -61,8 +60,7 @@ Aspose.Total для .NET поддерживается во всех основн
 
 {{% blocks/products/pf/agp/code-block title="В этом примере кода показано, как преобразовать DOCM в PPSM с помощью C#." offSpacer="" %}}
 
-```cs
-// Загрузите одностраничный файл Microsoft Word DOCM
+```cs// Загрузите одностраничный файл Microsoft Word DOCM
 Aspose.Words.Document docm = new Aspose.Words.Document("sourceWordFile.docm");
 
 // Сохраняем файл DOCM в HTML

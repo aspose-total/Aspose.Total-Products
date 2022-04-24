@@ -33,7 +33,6 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 MailMessage message = MailMessage.Load("sourceFile.msg");
  
 message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
@@ -41,14 +40,14 @@ message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
 Document document = new Document("HtmlOutput.html");
 
 document.Save("output.xps", SaveFormat.Xps); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analysera MSG-fil via .NET" %}}
 Innan du konverterar MSG till XPS, om du vill vara säker på att du konverterar rätt e-post, kan du ladda MSG-dokumentet, analysera det och ta en titt på din önskade egenskap. Genom att använda [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) klass av [Aspose.Msg for .NET](https://products.aspose.com/msg /net/) API kan du få information om avsändare och mottagare. Du kan till exempel söka efter en specifik avsändar-e-post för konverteringen genom att använda egenskapen [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
-
 ```cs
 
 var outlookMessageFile = MapiMessage.FromFile("message.msg");
@@ -56,22 +55,22 @@ var outlookMessageFile = MapiMessage.FromFile("message.msg");
 if(outlookMessageFile.SenderName == "John"){
     
 }
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Begränsa XPS-dokumentredigering via .NET" %}}
 När du sparar dokumentet från MSG till XPS kan du behöva skydda ditt utdatadokument. Ibland kan du behöva begränsa möjligheten att redigera ett dokument och endast tillåta vissa åtgärder med det. Detta kan vara användbart för att förhindra andra från att redigera känslig och konfidentiell information i ditt dokument. [Aspose.Words for .NET](https://products.aspose.com/words/net/) API, låter dig styra hur du begränsar innehållet med hjälp av [ProtectionType](https://apireference.aspose. com/words/net/aspose.words/protectiontype) uppräkningsparameter. Du kan ställa in ditt dokument på skrivskyddat genom att använda följande kodrader. 
-{{% blocks/products/pf/feature-page-code %}}
-
 ```cs
-
+```cs
 Document document = new Document("HtmlOutput.html");
 
 document.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.xps", SaveFormat.Xps);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

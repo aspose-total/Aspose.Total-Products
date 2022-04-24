@@ -33,15 +33,15 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 MailMessage message = MailMessage.Load("sourceFile.msg");
  
 message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
 
 Document document = new Document("HtmlOutput.html");
-// call save method while passing SaveFormat.FlatOpc
+
 document.Save("output.flatopc", SaveFormat.FlatOpc); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -50,13 +50,13 @@ Voordat u MSG naar FLATOPC converteert, kunt u, als u er zeker van wilt zijn dat
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 var outlookMessageFile = MapiMessage.FromFile("message.msg");
  
 if(outlookMessageFile.SenderName == "John"){
     
 }
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -65,13 +65,13 @@ Terwijl u het document opslaat van MSG naar FLATOPC, moet u mogelijk uw uitvoerd
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("HtmlOutput.html");
 
 document.Protect(ProtectionType.ReadOnly, "password");
 // call save method while passing SaveFormat.FlatOpc
 document.Save("output.flatopc", SaveFormat.FlatOpc);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -17,7 +17,6 @@ description: Convert Word dotm documents to PowerPoint potx files with C#. Conve
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -61,8 +60,7 @@ PM> Install-Package Aspose.Total
 
 {{% blocks/products/pf/agp/code-block title="This code sample shows how to convert a DOTM to POTX using C#" offSpacer="" %}}
 
-```cs
-// Load the Single Page Microsoft Word DOTM file
+```cs// Load the Single Page Microsoft Word DOTM file
 Aspose.Words.Document dotm = new Aspose.Words.Document("sourceWordFile.dotm");
 
 // Save DOTM file to HTML 

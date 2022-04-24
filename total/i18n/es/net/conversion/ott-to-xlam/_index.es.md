@@ -18,7 +18,7 @@ Al utilizar [Aspose.Total para .NET](https://products.aspose.com/total/net/), pu
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET para convertir OTT a XLAM" %}}
-1. Abra el archivo OTT usando la clase [Ottumento] (https://apireference.aspose.com/words/net/aspose.words/ottument)
+1. Abra el archivo OTT usando la clase [Ottumento](https://apireference.aspose.com/words/net/aspose.words/ottument)
 2. Convierta OTT a HTML usando el método [Guardar](https://apireference.aspose.com/words/net/aspose.words.ottument/save/methods/4)
 3. Cargue el ottumento HTML utilizando la clase [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Guarde el ottumento en formato XLAM usando el método [Guardar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) y configure `XLAM` como SaveFormat
@@ -33,7 +33,8 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 [Aspose.Words for .NET](https://products.aspose.com/words/net/) también le permite cargar ottumentos OTT a través de la transmisión. Para abrir un ottumento desde una secuencia, simplemente pase un objeto de secuencia que contenga el ottumento al constructor [Ottumento](https://apireference.aspose.com/words/net/aspose.words/ottument). El siguiente ejemplo de código muestra cómo abrir un ottumento desde una secuencia:  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 Al convertir OTT a XLAM, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) le permite agregar propiedades personalizadas en sus ottumentos XLAM. Para agregar una propiedad personalizada, puede usar el método [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customottumentpropertycollection/methods/add/index) para la [CustomOttumentPropertyCollection]( https://apireference.aspose.com/cells/net/aspose.cells.properties/customottumentpropertycollection) clase. El método Add agrega la propiedad al archivo de Excel y devuelve una referencia para la propiedad del nuevo ottumento como [Aspose.Cells.Properties.OttumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /propiedadottumento) objeto. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

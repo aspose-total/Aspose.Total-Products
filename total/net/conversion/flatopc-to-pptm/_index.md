@@ -17,7 +17,6 @@ description: Convert Word flatopc documents to PowerPoint pptm files with C#. Co
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -61,8 +60,7 @@ PM> Install-Package Aspose.Total
 
 {{% blocks/products/pf/agp/code-block title="This code sample shows how to convert a FLATOPC to PPTM using C#" offSpacer="" %}}
 
-```cs
-// Load the Single Page Microsoft Word FLATOPC file
+```cs// Load the Single Page Microsoft Word FLATOPC file
 Aspose.Words.Document flatopc = new Aspose.Words.Document("sourceWordFile.flatopc");
 
 // Save FLATOPC file to HTML 

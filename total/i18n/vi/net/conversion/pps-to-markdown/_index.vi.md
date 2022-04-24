@@ -1,6 +1,6 @@
 ---
-title: Chuyển đổi PPS sang MARKDOWN qua C #
-description: Chuyển đổi PPS sang MARKDOWN trong C # mà không cần sử dụng Microsoft Excel hoặc Powerpoint
+title: Chuyển đổi PPS sang MARKDOWN qua C#
+description: Chuyển đổi PPS sang MARKDOWN trong C# mà không cần sử dụng Microsoft Excel hoặc Powerpoint
 url: /vi/net/conversion/pps-to-markdown/
 family: total
 platformtag: net
@@ -10,46 +10,49 @@ outformat: MARKDOWN
 otherformats: XLTM XLSB XLSX FODS XLS XLAM MARKDOWN XLTX MHTML SXC XLT TSV ODS EXCEL DIF XLSM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi PPS sang MARKDOWN qua C #" h2=".NET API để chuyển đổi PPS sang MARKDOWN mà không cần sử dụng Microsoft <sup> & reg; </sup> Excel hoặc PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi PPS sang MARKDOWN qua C#" h2=".NET API để chuyển đổi PPS sang MARKDOWN mà không cần sử dụng Microsoft <sup> & reg; </sup> Excel hoặc PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Bằng cách sử dụng [Aspose.Total cho .NET] (https://products.aspose.com/total/net/), bạn có thể chuyển đổi tệp PPS thành MARKDOWN trong bất kỳ ứng dụng .NET, C #, ASP.NET và VB.NET nào trong hai ứng dụng các bước đơn giản. Đầu tiên, bằng cách sử dụng [Aspose.Slides cho .NET] (https://products.aspose.com/slides/net/), bạn có thể xuất PPS sang HTML. Sau đó, bằng cách sử dụng API lập trình bảng tính [Aspose.Cells for .NET] (https://products.aspose.com/cells/net/), bạn có thể chuyển đổi HTML sang MARKDOWN.
+Bằng cách sử dụng [Aspose.Total cho .NET](https://products.aspose.com/total/net/), bạn có thể chuyển đổi tệp PPS thành MARKDOWN trong bất kỳ ứng dụng .NET, C#, ASP.NET và VB.NET nào trong hai ứng dụng các bước đơn giản. Đầu tiên, bằng cách sử dụng [Aspose.Slides cho .NET](https://products.aspose.com/slides/net/), bạn có thể xuất PPS sang HTML. Sau đó, bằng cách sử dụng API lập trình bảng tính [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), bạn có thể chuyển đổi HTML sang MARKDOWN.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Cách chuyển đổi PPS sang MARKDOWN qua C #" %}}
-1. Mở tệp PPS bằng lớp [Trình bày] (https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-2. Xuất PPS dưới dạng HTML bằng cách sử dụng phương pháp [Lưu] (https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
-3. Tải tài liệu HTML bằng cách sử dụng lớp [Workbook] (https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Lưu tài liệu vào MARKDOWN bằng phương pháp [Lưu] (https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+{{% blocks/products/pf/agp/feature-section-col title="Cách chuyển đổi PPS sang MARKDOWN qua C#" %}}
+1. Mở tệp PPS bằng lớp [Trình bày](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
+2. Xuất PPS dưới dạng HTML bằng cách sử dụng phương pháp [Lưu](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+3. Tải tài liệu HTML bằng cách sử dụng lớp [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+4. Lưu tài liệu vào MARKDOWN bằng phương pháp [Lưu](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
 Cài đặt từ dòng lệnh dưới dạng `` nuget install Aspose.Total '' hoặc thông qua Package Manager Console của Visual Studio với `` Install-Package Aspose.Total ''.
 
-Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống] (https://downloads.aspose.com/total/net).
+Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://downloads.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Chuyển đổi PPS được bảo vệ sang MARKDOWN qua C #" %}}
+{{% blocks/products/pf/feature-page-section  h2="Chuyển đổi PPS được bảo vệ sang MARKDOWN qua C#" %}}
 Trong khi chuyển đổi tệp PPS sang MARKDOWN, nếu tài liệu PPS đầu vào của bạn được bảo vệ bằng mật khẩu, bạn không thể chuyển đổi nó thành MARKDOWN mà không giải mã tài liệu. Khi tài liệu của bạn được bảo vệ bằng mật khẩu, điều đó có nghĩa là nó thực thi các hạn chế nhất định đối với bản trình bày. Để loại bỏ các hạn chế, mật khẩu phải được nhập. Bản trình bày được bảo vệ bằng mật khẩu được coi là bản trình bày bị khóa. API cho phép bạn mở tài liệu được mã hóa bằng cách chuyển mật khẩu chính xác vào đối tượng LoadOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Chuyển đổi PPS sang MARKDOWN với Watermark qua C #" %}}
+{{% blocks/products/pf/feature-page-section  h2="Chuyển đổi PPS sang MARKDOWN với Watermark qua C#" %}}
 Trong khi chuyển đổi tệp PPS sang MARKDOWN, bạn cũng có thể thêm hình mờ vào định dạng tệp MARKDOWN đầu ra của mình. Để thêm hình mờ, bạn có thể tạo một đối tượng Sổ làm việc mới và mở tài liệu HTML đã chuyển đổi, chọn Trang tính thông qua chỉ mục của nó, tạo Hình dạng và sử dụng chức năng AddTextEffect của nó. Sau đó, bạn có thể lưu tài liệu HTML của mình dưới dạng MARKDOWN với Hình mờ. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

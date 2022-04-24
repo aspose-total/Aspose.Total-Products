@@ -33,7 +33,6 @@ Możesz też pobrać instalator offline MSI lub biblioteki DLL w pliku ZIP ze st
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("template.pdf");
  
 document.Save("DocOutput.doc", SaveFormat.Doc); 
@@ -41,14 +40,14 @@ document.Save("DocOutput.doc", SaveFormat.Doc);
 var outputDocument = new Aspose.Words.Document("DocOutput.doc");
 
 outputDocument.Save("output.rtf", SaveFormat.Rtf);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Odszyfruj plik PDF za pomocą hasła właściciela przez .NET" %}}
 Przed konwersją PDF do RTF, jeśli chcesz odszyfrować swój dokument, możesz to zrobić za pomocą interfejsu API. Aby odszyfrować plik PDF, musisz najpierw utworzyć obiekt [Dokument](https://apireference.aspose.com/pdf/net/aspose.pdf/document) i otworzyć PDF przy użyciu hasła właściciela. Następnie musisz wywołać metodę [Decrypt](https://apireference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) obiektu Document. Na koniec zapisz zaktualizowany plik za pomocą metody Save obiektu Document.  
 {{% blocks/products/pf/feature-page-code %}}
-
 ```cs
 
 Document document = new Document("Decrypt.pdf", "password");
@@ -56,22 +55,22 @@ Document document = new Document("Decrypt.pdf", "password");
 document.Decrypt();
  
 document.Save("Decrypt_out.doc");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Utwórz plik RTF tylko do odczytu przez .NET" %}}
 Aby chronić swój RTF przed edycją i uniemożliwić innym osobom edytowanie poufnych i poufnych informacji w Twoim dokumencie, możesz również ustawić ochronę dokumentu za pomocą interfejsu API. Możesz ograniczyć możliwość edycji dokumentu i zezwolić tylko na określone działania. Można to zrobić za pomocą interfejsu API [Aspose.Words for .NET](https://products.aspose.com/words/net/). Umożliwia kontrolowanie sposobu ograniczania zawartości za pomocą parametru wyliczenia [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype). Możesz ustawić dokument jako tylko do odczytu, używając następujących wierszy kodu. 
-{{% blocks/products/pf/feature-page-code %}}
-
 ```cs
-
+```cs
 Document document = new Document("input.doc");
 
 document.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.rtf", SaveFormat.Rtf);    
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

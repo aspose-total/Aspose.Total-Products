@@ -17,7 +17,6 @@ description: Преобразование документов PowerPoint pptx �
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -60,8 +59,7 @@ PM> Install-Package Aspose.Total
 
 {{% blocks/products/pf/agp/code-block title="В этом примере кода показано, как преобразовать PPTX в RTF с помощью C#." offSpacer="" %}}
 
-```cs
-// Загрузите PPTX-файл Microsoft PowerPoint
+```cs// Загрузите PPTX-файл Microsoft PowerPoint
 Aspose.Slides.Presentation pptx = new Aspose.Slides.Presentation("source.pptx");
 
 var stream = new MemoryStream();

@@ -16,11 +16,11 @@ A menudo, los desarrolladores tienen que convertir el archivo DOCX a PPTX median
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir DOCX a PPTX a través de Java" %}}
-1. Abra el archivo DOCX usando la clase [Docxumento] (https://apireference.aspose.com/words/java/com.aspose.words/Docxument)
-2. Convierta el archivo DOCX a HTML usando [guardar](https://apireference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,com.aspose.words.SaveOptions )) método
+1. Abra el archivo DOCX usando la clase [Documento] (https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. Convierta el archivo DOCX a HTML usando [guardar](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions )) método
 3. Inicialice un nuevo objeto [Presentación] (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraiga el contenido del archivo HTML usando BufferedReader y escriba el contenido en su archivo de presentación
-6. Guarde el docxumento en PPTX usando el método [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. Guarde el documento en PPTX usando el método [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
 Para la conversión de archivos DOCX a PPTX, puede usar fácilmente Aspose.Total para Java directamente desde un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) e incluya bibliotecas en su pom.xml.
@@ -30,14 +30,16 @@ Alternativamente, puede obtener un archivo ZIP de [descargas] (https://downloads
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-docx-to-pptx.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Requisitos de conversión" %}}
+{{% blocks/products/pf/feature-page-documenth2="Requisitos de conversión" %}}documentdocumentdocument
 La API también le permite convertir docxumentos DOCX protegidos con contraseña a PPTX. Si su docxumento DOCX de entrada está protegido con contraseña, no puede convertirlo al formato PPTX sin usar la contraseña. Para abrir un docxumento cifrado, puede establecer la contraseña correcta en el objeto LoadOptions y pasarla al constructor del docxumento.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-docx-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-docx-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

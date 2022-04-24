@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi định dạng JSON sang WMF qua .NET
-description: Phân tích cú pháp JSON thành WMF bằng C # mà không sử dụng phụ thuộc của bên thứ ba
+description: Phân tích cú pháp JSON thành WMF bằng C# mà không sử dụng phụ thuộc của bên thứ ba
 url: /vi/net/conversion/json-to-wmf/
 family: total
 platformtag: net
@@ -10,46 +10,48 @@ outformat: WMF
 otherformats: DICOM WMF IMAGE WMZ DXF TGA PSD JPEG2000 SVGZ EMZ
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi Định dạng JSON sang WMF qua C #" h2="API C # để phân tích cú pháp JSON thành WMF mà không sử dụng phụ thuộc của bên thứ ba" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi Định dạng JSON sang WMF qua C#" h2="API C# để phân tích cú pháp JSON thành WMF mà không sử dụng phụ thuộc của bên thứ ba" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Bằng cách sử dụng [Aspose.Total cho .NET] (https://products.aspose.com/total/net/), bạn có thể phân tích cú pháp JSON thành WMF trong bất kỳ ứng dụng .NET, C #, ASP.NET và VB.NET nào trong hai ứng dụng đơn giản các bước. Đầu tiên, bằng cách sử dụng [Aspose.Cells cho .NET] (https://products.aspose.com/cells/net/), bạn có thể xuất JSON sang JPEG. Sau đó, bằng cách sử dụng [Aspose.Imaging for .NET] (https://products.aspose.com/imaging/net/), bạn có thể chuyển đổi JPEG thành WMF.
+Bằng cách sử dụng [Aspose.Total cho .NET](https://products.aspose.com/total/net/), bạn có thể phân tích cú pháp JSON thành WMF trong bất kỳ ứng dụng .NET, C#, ASP.NET và VB.NET nào trong hai ứng dụng đơn giản các bước. Đầu tiên, bằng cách sử dụng [Aspose.Cells cho .NET](https://products.aspose.com/cells/net/), bạn có thể xuất JSON sang JPEG. Sau đó, bằng cách sử dụng [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/), bạn có thể chuyển đổi JPEG thành WMF.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi Định dạng JSON sang WMF qua C #" %}}
-1. Tạo đối tượng [Workbook] (https://apireference.aspose.com/cells/net/aspose.cells/workbook) mới và đọc dữ liệu JSON từ tệp
-2. Chuyển đổi JSON sang JPEG bằng phương pháp [Lưu] (https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
-3. Tải tài liệu JPEG bằng cách sử dụng lớp [Hình ảnh] (https://apireference.aspose.com/imaging/net/aspose.imaging/image)
-4. Lưu tài liệu sang định dạng WMF bằng phương pháp [Lưu] (https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
+{{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi Định dạng JSON sang WMF qua C#" %}}
+1. Tạo đối tượng [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) mới và đọc dữ liệu JSON từ tệp
+2. Chuyển đổi JSON sang JPEG bằng phương pháp [Lưu](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+3. Tải tài liệu JPEG bằng cách sử dụng lớp [Hình ảnh](https://apireference.aspose.com/imaging/net/aspose.imaging/image)
+4. Lưu tài liệu sang định dạng WMF bằng phương pháp [Lưu](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
 Cài đặt từ dòng lệnh dưới dạng `` nuget install Aspose.Total '' hoặc thông qua Package Manager Console của Visual Studio với `` Install-Package Aspose.Total ''.
 
-Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống] (https://downloads.aspose.com/total/net).
+Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://downloads.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "parse-json-to-image.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Đặt bố cục và chuyển đổi định dạng JSON thành WMF qua C #" %}}
-Trong khi phân tích cú pháp JSON thành WMF, bạn cũng có thể đặt các tùy chọn bố cục cho JSON của mình bằng [JsonLayoutOptions] (https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Nó cho phép bạn xử lý Mảng dưới dạng bảng, bỏ qua null, bỏ qua tiêu đề mảng, bỏ qua tiêu đề đối tượng, chuyển đổi chuỗi thành số hoặc ngày, đặt định dạng ngày và số, và đặt kiểu tiêu đề. Tất cả các tùy chọn này cho phép bạn trình bày dữ liệu của mình theo nhu cầu của bạn. Đoạn mã sau đây cho bạn biết cách đặt các tùy chọn bố cục.  
+{{% blocks/products/pf/feature-page-section  h2="Đặt bố cục và chuyển đổi định dạng JSON thành WMF qua C#" %}}
+Trong khi phân tích cú pháp JSON thành WMF, bạn cũng có thể đặt các tùy chọn bố cục cho JSON của mình bằng [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Nó cho phép bạn xử lý Mảng dưới dạng bảng, bỏ qua null, bỏ qua tiêu đề mảng, bỏ qua tiêu đề đối tượng, chuyển đổi chuỗi thành số hoặc ngày, đặt định dạng ngày và số, và đặt kiểu tiêu đề. Tất cả các tùy chọn này cho phép bạn trình bày dữ liệu của mình theo nhu cầu của bạn. Đoạn mã sau đây cho bạn biết cách đặt các tùy chọn bố cục.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "set-layout-and-parse-json-to-image.cs" >}}
+{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "set-layout-and-parse-json-to-image.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-
 {{% blocks/products/pf/feature-page-section  h2="Phân tích cú pháp Định dạng JSON thành WMF với Hình mờ" %}}
-Sử dụng API, bạn cũng có thể chuyển đổi JSON thành WMF với hình mờ trong tài liệu WMF của mình. Để thêm hình mờ, trước tiên bạn có thể kết xuất tài liệu JSON của mình thành JPEG và thêm hình mờ vào đó. Để trình diễn thao tác, bạn có thể tải hình ảnh JPEG đã chuyển đổi của mình, thêm các phép biến đổi bằng cách sử dụng một đối tượng thuộc lớp Ma trận và vẽ một chuỗi làm hình mờ trên bề mặt hình ảnh bằng cách sử dụng [Đồ họa] (https://apireference.aspose.com/imaging/ net / aspose.imaging / graphics) phương thức lớp '[DrawString] (https://apireference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring) phương thức. Sau khi thêm hình mờ vào đó, bạn có thể lưu JPEG dưới dạng WMF. Dưới đây là một ví dụ mã minh họa cách thêm hình mờ đường chéo vào tài liệu của bạn. 
+Sử dụng API, bạn cũng có thể chuyển đổi JSON thành WMF với hình mờ trong tài liệu WMF của mình. Để thêm hình mờ, trước tiên bạn có thể kết xuất tài liệu JSON của mình thành JPEG và thêm hình mờ vào đó. Để trình diễn thao tác, bạn có thể tải hình ảnh JPEG đã chuyển đổi của mình, thêm các phép biến đổi bằng cách sử dụng một đối tượng thuộc lớp Ma trận và vẽ một chuỗi làm hình mờ trên bề mặt hình ảnh bằng cách sử dụng [Đồ họa](https://apireference.aspose.com/imaging/ net / aspose.imaging / graphics) phương thức lớp '[DrawString](https://apireference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring) phương thức. Sau khi thêm hình mờ vào đó, bạn có thể lưu JPEG dưới dạng WMF. Dưới đây là một ví dụ mã minh họa cách thêm hình mờ đường chéo vào tài liệu của bạn. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,5 +1,5 @@
 ---
-title: C # API เพื่อส่งออก MSG ไปยัง PNG
+title: C# API เพื่อส่งออก MSG ไปยัง PNG
 description: แปลง MSG เป็น PNG โดยไม่ต้องใช้ Microsoft Word หรือ Outlook บน .NET
 url: /th/net/conversion/msg-to-png/
 family: total
@@ -17,7 +17,7 @@ otherformats: DOCX XPS WORDML DOT SVG TIFF OTT ODT EMF FLATOPC EPUB DOC GIF TEXT
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C # API เพื่อแปลง MSG เป็น PNG" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C# API เพื่อแปลง MSG เป็น PNG" %}}
 1. เปิดไฟล์ MSG โดยใช้คลาส [MailMessage](https://apireference.aspose.com/msg/net/aspose.msg/mailmessage)
 2. แปลง MSG เป็น HTML โดยใช้วิธีการ [Save](https://apireference.aspose.com/msg/net/aspose.msg.mailmessage/save/methods/3)
 3. โหลด HTML โดยใช้คลาส [Document](https://apireference.aspose.com/words/net/aspose.words/document)
@@ -33,7 +33,6 @@ otherformats: DOCX XPS WORDML DOT SVG TIFF OTT ODT EMF FLATOPC EPUB DOC GIF TEXT
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 MailMessage message = MailMessage.Load("sourceFile.msg");
  
 message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
@@ -41,7 +40,8 @@ message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
 Document document = new Document("HtmlOutput.html");
 
 document.Save("output.png", SaveFormat.Png); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -50,13 +50,13 @@ document.Save("output.png", SaveFormat.Png);
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 var outlookMessageFile = MapiMessage.FromFile("message.msg");
  
 if(outlookMessageFile.SenderName == "John"){
     
 }
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -65,13 +65,13 @@ if(outlookMessageFile.SenderName == "John"){
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("HtmlOutput.html");
 
 document.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.png", SaveFormat.Png);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

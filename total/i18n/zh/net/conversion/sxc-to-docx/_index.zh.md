@@ -31,8 +31,7 @@ otherformats: WORD PPTX POWERPOINT DOC
 
 {{% blocks/products/pf/agp/code-autogen title="用于 SXC 到 DOCX 转换的 .NET C# 代码" gistPath="" %}}
 
-```cs
-// load the SXC file using Workbook class
+```cs// load the SXC file using Workbook class
 var book = new Aspose.Cells.Workbook("input.sxc");
 // save SXC as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 

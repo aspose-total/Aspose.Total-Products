@@ -17,7 +17,6 @@ description: Convert Word doc documents to PowerPoint ppsm files with C#. Conver
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -61,8 +60,7 @@ PM> Install-Package Aspose.Total
 
 {{% blocks/products/pf/agp/code-block title="This code sample shows how to convert a DOC to PPSM using C#" offSpacer="" %}}
 
-```cs
-// Load the Single Page Microsoft Word DOC file
+```cs// Load the Single Page Microsoft Word DOC file
 Aspose.Words.Document doc = new Aspose.Words.Document("sourceWordFile.doc");
 
 // Save DOC file to HTML 

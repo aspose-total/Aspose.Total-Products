@@ -31,8 +31,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
-```cs
-// load PCL file with an instance of Document class
+```cs// load PCL file with an instance of Document class
 Document document = new Document("input.pcl");
 // save PCL as a PPTX 
 document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
@@ -47,8 +46,7 @@ presentation.Save("output.swf", SaveFormat.Swf);
 {{% blocks/products/pf/feature-page-section  h2="Get XMP Metadata from PCL File via .NET" %}}
 While converting PCL to SWF, you might need extra XMP metadata information to prioritize your batch conversion process. For example you can get and sort your conversion documents based on creation date and process the documents accordingly. [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) allows you to access a PCL file’s XMP metadata. To get a PCL file’s metadata, you can create a [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) object and open the input PCL file. After that, you can get the file’s metadata using the [Metadata](https://apireference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata) property.
 {{% blocks/products/pf/feature-page-code %}}
-```cs
-// open PCL document
+```cs// open PCL document
 Document doc = new Document("input.pcl");
 // get PCL XMP properties
 Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
@@ -61,8 +59,7 @@ Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
 {{% blocks/products/pf/feature-page-section  h2="Create Read Only SWF File via .NET" %}}
  By using [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) API, you can further enhance the features of your conversion application. One of the feature can be to create your output file read only to increase security. The API allows you to set your SWF file to Read-Only, which means users (after they open the presentation) see the Read-Only recommendation.
 {{% blocks/products/pf/feature-page-code %}}
-```cs
-// load PPTX with an instance of Presentation
+```cs// load PPTX with an instance of Presentation
 Presentation presentation = new Presentation("PptxOutput.pptx");
 // make SWF read only
 presentation.ProtectionManager.ReadOnlyRecommended = true;

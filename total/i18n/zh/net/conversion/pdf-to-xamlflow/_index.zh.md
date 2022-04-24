@@ -33,7 +33,6 @@ otherformats: DOTX XAMLFLOW DOT ODT PCL OTT PS DOTM FLATOPC MARKDOWN RTF WORDML
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("template.pdf");
  
 document.Save("DocOutput.doc", SaveFormat.Doc); 
@@ -41,14 +40,14 @@ document.Save("DocOutput.doc", SaveFormat.Doc);
 var outputDocument = new Aspose.Words.Document("DocOutput.doc");
 
 outputDocument.Save("output.xamlflow", SaveFormat.Xamlflow);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="通过 .NET 使用所有者密码解密 PDF 文件" %}}
 在将 PDF 转换为 XAMLFLOW 之前，如果您想解密您的文档，您可以使用 API 来完成。为了解密 PDF 文件，您首先需要创建一个 [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) 对象并使用所有者的密码打开 PDF。之后，您需要调用 Document 对象的 [Decrypt](https://apireference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) 方法。最后，使用 Document 对象的 Save 方法保存更新的文件。  
 {{% blocks/products/pf/feature-page-code %}}
-
 ```cs
 
 Document document = new Document("Decrypt.pdf", "password");
@@ -56,22 +55,22 @@ Document document = new Document("Decrypt.pdf", "password");
 document.Decrypt();
  
 document.Save("Decrypt_out.doc");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="通过 .NET 创建只读 XAMLFLOW- 文件" %}}
 为了保护您的 XAMLFLOW 不被编辑，并防止其他人编辑您文档中的敏感和机密信息，您还可以使用 API 设置文档的保护。您可以限制编辑文档的能力，只允许对其进行某些操作。这可以使用 [Aspose.Words for .NET](https://products.aspose.com/words/net/) API 来完成。它使您能够控制使用 [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype) 枚举参数限制内容的方式。您可以使用以下代码行将文档设置为只读。 
-{{% blocks/products/pf/feature-page-code %}}
-
 ```cs
-
+```cs
 Document document = new Document("input.doc");
 
 doc.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.xamlflow", SaveFormat.Xamlflow);    
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

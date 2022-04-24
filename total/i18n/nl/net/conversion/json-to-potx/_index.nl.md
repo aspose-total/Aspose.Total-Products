@@ -33,15 +33,17 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-
+C#
 {{% blocks/products/pf/feature-page-section  h2="Lay-out instellen en JSON-indeling converteren naar POTX via C #" %}}
 Tijdens het ontleden van JSON naar POTX, kunt u ook lay-outopties voor uw JSON-indeling instellen met [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Het stelt u in staat om array als een tabel te verwerken, nulls te negeren, arraytitel te negeren, objecttitel te negeren, string naar getal of datum te converteren, datum- en getalnotatie in te stellen en titelstijl in te stellen. Met al deze opties kunt u uw gegevens presenteren volgens uw behoeften. Het volgende codefragment laat zien hoe u de lay-outopties instelt.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "set-layout-and-parse-json-to-powerpoint.cs" >}}
+{{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "set-layout-and-parse-json-to-powerpoint.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Tijdens het ontleden van JSON naar POTX, kunt u ook lay-outopties voor uw JSON-i
 Met behulp van de API kunt u JSON ook converteren naar POTX met watermerk. Om een watermerk aan uw POTX-document toe te voegen, kunt u eerst JSON naar PPTX ontleden en er een watermerk aan toevoegen. Om een watermerk toe te voegen, laadt u het nieuw gemaakte PPTX-bestand met behulp van de klasse [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation), selecteert u de hoofdpresentatie, voegt u vormtype toe met AddAutoShape en voeg watermerktekst toe met AddTextFrame. Nadat u het watermerk hebt toegevoegd, kunt u het document opslaan in POTX. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

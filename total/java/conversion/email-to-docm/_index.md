@@ -31,8 +31,7 @@ Alternatively, you can get a ZIP file from [downloads](https://downloads.aspose.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Java Code for EMAIL to DOCM Rendering" gistPath="" %}}
-```cs
-// load the EMAIL file to be converted
+```cs// load the EMAIL file to be converted
 MailMessage message = MailMessage.load("sourceFile.msg"); 
 // save EMAIL as a HTML 
 message.save("HtmlOutput.html", SaveOptions.getDefaultHtml());

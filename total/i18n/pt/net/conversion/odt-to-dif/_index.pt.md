@@ -33,15 +33,17 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-
+C#
 {{% blocks/products/pf/feature-page-section  h2="Carregar odtumento ODT do fluxo via C #" %}}
 [Aspose.Words for .NET](https://products.aspose.com/words/net/) também permite carregar odtumentos ODT via stream. Para abrir um odtumento de um stream, basta passar um objeto stream que contém o odtumento para o construtor [Odtument](https://apireference.aspose.com/words/net/aspose.words/odtument). O exemplo de código a seguir mostra como abrir um odtumento de um fluxo:  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 Ao converter ODT para DIF, o [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) permite adicionar propriedades personalizadas em seus odtumentos DIF. Para adicionar uma propriedade personalizada, você pode usar o método [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customodtumentpropertycollection/methods/add/index) para o método [CustomOdtumentPropertyCollection]( https://apireference.aspose.com/cells/net/aspose.cells.properties/customodtumentpropertycollection) classe. O método Add adiciona a propriedade ao arquivo Excel e retorna uma referência para a nova propriedade do odtumento como um [Aspose.Cells.Properties.OdtumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /odtumentproperty) objeto. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

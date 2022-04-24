@@ -13,7 +13,7 @@ otherformats: MHTML MARKDOWN PS FLATOPC WORDML ODT PCL OTT XAMLFLOW RTF DOTX DOT
 {{< blocks/products/pf/i18n/feature-page-header h1="Рендеринг XPS в XAMLFLOW через .NET" h2=".NET API для экспорта XPS в XAMLFLOW в Windows, macOS и Linux без использования Microsoft Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total для .NET](https://products.aspose.com/total/net/) — это мощный API для добавления функций обработки и преобразования документов в ваше приложение .NET. Используя расширенный API обработки PDF [Aspose.PDF для .NET] (https://products.aspose.com/pdf/net/), вы можете преобразовать формат файлов XPS в DOC. После этого, используя мощный API обработки документов [Aspose.Words для .NET](https://products.aspose.com/words/net/), вы можете преобразовать DOC в XAMLFLOW.
+[Aspose.Total для .NET](https://products.aspose.com/total/net/) — это мощный API для добавления функций обработки и преобразования документов в ваше приложение .NET. Используя расширенный API обработки PDF [Aspose.PDF для .NET](https://products.aspose.com/pdf/net/), вы можете преобразовать формат файлов XPS в DOC. После этого, используя мощный API обработки документов [Aspose.Words для .NET](https://products.aspose.com/words/net/), вы можете преобразовать DOC в XAMLFLOW.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -33,7 +33,6 @@ otherformats: MHTML MARKDOWN PS FLATOPC WORDML ODT PCL OTT XAMLFLOW RTF DOTX DOT
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("template.xps");
  
 document.Save("DocOutput.doc", SaveFormat.Doc); 
@@ -41,7 +40,8 @@ document.Save("DocOutput.doc", SaveFormat.Doc);
 var outputDocument = new Aspose.Words.Document("DocOutput.doc");
 
 outputDocument.Save("output.xamlflow", SaveFormat.Xamlflow);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -50,13 +50,13 @@ outputDocument.Save("output.xamlflow", SaveFormat.Xamlflow);
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("Decrypt.xps", "password");
 
 document.Decrypt();
  
 document.Save("Decrypt_out.doc");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -65,13 +65,13 @@ document.Save("Decrypt_out.doc");
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("input.doc");
 
 doc.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.xamlflow", SaveFormat.Xamlflow);    
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

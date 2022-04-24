@@ -18,10 +18,10 @@ Ao usar o [Aspose.Total for .NET](https://products.aspose.com/total/net/) você 
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET para converter DOCX para CSV" %}}
-1. Abra o arquivo DOCX usando a classe [Docxument](https://apireference.aspose.com/words/net/aspose.words/docxument)
-2. Converta DOCX para HTML usando o método [Salvar](https://apireference.aspose.com/words/net/aspose.words.docxument/save/methods/4)
-3. Carregue o docxumento HTML usando a classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Salve o docxumento no formato CSV usando o método [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) e defina "CSV" como SaveFormat
+1. Abra o arquivo DOCX usando a classe [Document](https://apireference.aspose.com/words/net/aspose.words/document)
+2. Converta DOCX para HTML usando o método [Salvar](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. Carregue o documento HTML usando a classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+4. Salve o documento no formato CSV usando o método [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) e defina "CSV" como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
@@ -33,23 +33,26 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-
-{{% blocks/products/pf/feature-page-section  h2="Carregar docxumento DOCX do fluxo via C #" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) também permite carregar docxumentos DOCX via stream. Para abrir um docxumento de um stream, basta passar um objeto stream que contém o docxumento para o construtor [Docxument](https://apireference.aspose.com/words/net/aspose.words/docxument). O exemplo de código a seguir mostra como abrir um docxumento de um fluxo:  
+C#
+{{% blocks/products/pf/feature-page-section  h2="Carregar documento DOCX do fluxo via C #" %}}
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) também permite carregar documentos DOCX via stream. Para abrir um documento de um stream, basta passar um objeto stream que contém o documento para o construtor [Document](https://apireference.aspose.com/words/net/aspose.words/document). O exemplo de código a seguir mostra como abrir um documento de um fluxo:  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Adicionar propriedades personalizadas no arquivo CSV via C#" %}}
-Ao converter DOCX para CSV, o [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) permite adicionar propriedades personalizadas em seus docxumentos CSV. Para adicionar uma propriedade personalizada, você pode usar o método [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocxumentpropertycollection/methods/add/index) para o método [CustomDocxumentPropertyCollection]( https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocxumentpropertycollection) classe. O método Add adiciona a propriedade ao arquivo Excel e retorna uma referência para a nova propriedade do docxumento como um [Aspose.Cells.Properties.DocxumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /docxumentproperty) objeto. 
+Ao converter DOCX para CSV, o [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) permite adicionar propriedades personalizadas em seus documentos CSV. Para adicionar uma propriedade personalizada, você pode usar o método [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) para o método [CustomDocumentPropertyCollection]( https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) classe. O método Add adiciona a propriedade ao arquivo Excel e retorna uma referência para a nova propriedade do documento como um [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /documentproperty) objeto. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

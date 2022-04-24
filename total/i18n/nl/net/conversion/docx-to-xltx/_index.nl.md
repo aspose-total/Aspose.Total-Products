@@ -18,10 +18,10 @@ Door [Aspose.Total for .NET](https://products.aspose.com/total/net/) te gebruike
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API om DOCX naar XLTX te converteren" %}}
-1. Open het DOCX-bestand met de klasse [Docxument](https://apireference.aspose.com/words/net/aspose.words/docxument)
-2. Converteer DOCX naar HTML met behulp van de [Save](https://apireference.aspose.com/words/net/aspose.words.docxument/save/methods/4) methode
-3. Laad HTML-docxument met behulp van [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) class
-4. Sla het docxument op in XLTX-indeling met de methode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) en stel `XLTX` in als SaveFormat
+1. Open het DOCX-bestand met de klasse [Document](https://apireference.aspose.com/words/net/aspose.words/document)
+2. Converteer DOCX naar HTML met behulp van de [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) methode
+3. Laad HTML-document met behulp van [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) class
+4. Sla het document op in XLTX-indeling met de methode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) en stel `XLTX` in als SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
@@ -33,23 +33,26 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Laad DOCX Docxument van Stream via C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) stelt u ook in staat om DOCX-docxumenten via stream te laden. Om een docxument uit een stream te openen, geeft u eenvoudig een stream-object dat het docxument bevat door aan de [Docxument](https://apireference.aspose.com/words/net/aspose.words/docxument)-constructor. Het volgende codevoorbeeld laat zien hoe u een docxument vanuit een stream opent:  
+{{% blocks/products/pf/feature-page-section  h2="Laad DOCX Document van Stream via C#" %}}[Document]
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) stelt u ook in staat om DOCX-documenten via stream te laden. Om een document uit een stream te openen, geeft u eenvoudig een stream-object dat het document bevat door aan de [Document](https://apireference.aspose.com/words/net/aspose.words/document)-constructor. Het volgende codevoorbeeld laat zien hoe u een document vanuit een stream opent:  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Aangepaste eigenschappen toevoegen in XLTX-bestand via C#" %}}
-Tijdens het converteren van DOCX naar XLTX kunt u met [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) aangepaste eigenschappen toevoegen aan uw XLTX-docxumenten. Om een aangepaste eigenschap toe te voegen, kunt u de methode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocxumentpropertycollection/methods/add/index) gebruiken voor de [CustomDocxumentPropertyCollection]( https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocxumentpropertycollection) klasse. De Add-methode voegt de eigenschap toe aan het Excel-bestand en retourneert een verwijzing voor de nieuwe docxumenteigenschap als [Aspose.Cells.Properties.DocxumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /docxumentproperty) object. 
+Tijdens het converteren van DOCX naar XLTX kunt u met [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) aangepaste eigenschappen toevoegen aan uw XLTX-documenten. Om een aangepaste eigenschap toe te voegen, kunt u de methode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) gebruiken voor de [CustomDocumentPropertyCollection]( https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) klasse. De Add-methode voegt de eigenschap toe aan het Excel-bestand en retourneert een verwijzing voor de nieuwe documenteigenschap als [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /documentproperty) object. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

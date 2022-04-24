@@ -33,15 +33,15 @@ otherformats: XAMLFLOW WORDML DOTX MARKDOWN DOT RTF OTT DOTM PCL MHTML FLATOPC O
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("template.ps");
  
 document.Save("DocOutput.doc", SaveFormat.Doc); 
 
 var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-// call save method while passing SaveFormat.FlatOpc
+
 outputDocument.Save("output.flatopc", SaveFormat.FlatOpc);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -50,13 +50,13 @@ PS을 FLATOPC으로 변환하기 전에 문서의 암호를 해독하려면 API�
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("Decrypt.ps", "password");
 
 document.Decrypt();
  
 document.Save("Decrypt_out.doc");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -65,13 +65,13 @@ FLATOPC이 편집되지 않도록 보호하고 다른 사람이 문서에서 민
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("input.doc");
 
 document.Protect(ProtectionType.ReadOnly, "password");
 // call save method while passing SaveFormat.FlatOpc
 document.Save("output.flatopc", SaveFormat.FlatOpc);    
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

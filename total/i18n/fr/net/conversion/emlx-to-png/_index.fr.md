@@ -1,5 +1,5 @@
 ---
-title: API C # pour exporter EMLX vers PNG
+title: API C# pour exporter EMLX vers PNG
 description: Convertir EMLX en PNG sans utiliser Microsoft Word ou Outlook sur .NET
 url: /fr/net/conversion/emlx-to-png/
 family: total
@@ -17,7 +17,7 @@ Si vous êtes un développeur .NET cherchant à ajouter des fonctionnalités de 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API C # pour convertir EMLX en PNG" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API C# pour convertir EMLX en PNG" %}}
 1. Ouvrez le fichier EMLX à l'aide de la classe [MailMessage](https://apireference.aspose.com/emlx/net/aspose.emlx/mailmessage)
 2. Convertissez EMLX en HTML en utilisant la méthode [Save](https://apireference.aspose.com/emlx/net/aspose.emlx.mailmessage/save/methods/3)
 3. Chargez HTML en utilisant la classe [Document](https://apireference.aspose.com/words/net/aspose.words/document)
@@ -27,7 +27,7 @@ Si vous êtes un développeur .NET cherchant à ajouter des fonctionnalités de 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
 Installez à partir de la ligne de commande en tant que ```nuget install Aspose.Total``` ou via la console du gestionnaire de packages de Visual Studio avec ```Install-Package Aspose.Total```.
 
-Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les DLL dans un fichier ZIP à partir de [téléchargements] (https://downloads.aspose.com/total/net).
+Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les DLL dans un fichier ZIP à partir de [téléchargements](https://downloads.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
@@ -41,7 +41,8 @@ message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
 Document document = new Document("HtmlOutput.html");
 
 document.Save("output.png", SaveFormat.Png); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -56,7 +57,8 @@ var outlookMessageFile = MapiMessage.FromFile("message.emlx");
 if(outlookMessageFile.SenderName == "John"){
     
 }
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -71,7 +73,8 @@ Document document = new Document("HtmlOutput.html");
 document.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.png", SaveFormat.Png);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

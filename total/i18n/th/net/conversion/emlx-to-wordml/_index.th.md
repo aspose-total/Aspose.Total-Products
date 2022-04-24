@@ -1,5 +1,5 @@
 ---
-title: C # API เพื่อส่งออก EMLX ไปยัง WORDML
+title: C# API เพื่อส่งออก EMLX ไปยัง WORDML
 description: แปลง EMLX เป็น WORDML โดยไม่ต้องใช้ Microsoft Word หรือ Outlook บน .NET
 url: /th/net/conversion/emlx-to-wordml/
 family: total
@@ -17,7 +17,7 @@ otherformats: MD DOTM EMF DOCX GIF PDF OTT JPEG FLATOPC RTF DOT PNG DOCM SVG PS 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C # API เพื่อแปลง EMLX เป็น WORDML" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C# API เพื่อแปลง EMLX เป็น WORDML" %}}
 1. เปิดไฟล์ EMLX โดยใช้คลาส [MailMessage](https://apireference.aspose.com/emlx/net/aspose.emlx/mailmessage)
 2. แปลง EMLX เป็น HTML โดยใช้วิธีการ [Save](https://apireference.aspose.com/emlx/net/aspose.emlx.mailmessage/save/methods/3)
 3. โหลด HTML โดยใช้คลาส [Document](https://apireference.aspose.com/words/net/aspose.words/document)
@@ -33,7 +33,6 @@ otherformats: MD DOTM EMF DOCX GIF PDF OTT JPEG FLATOPC RTF DOT PNG DOCM SVG PS 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 MailMessage message = MailMessage.Load("sourceFile.emlx");
  
 message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
@@ -41,7 +40,8 @@ message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
 Document document = new Document("HtmlOutput.html");
 // call save method while passing SaveFormat.WordML
 document.Save("output.wordml", SaveFormat.WordML); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -49,14 +49,14 @@ document.Save("output.wordml", SaveFormat.WordML);
 ก่อนแปลง EMLX เป็น WORDML หากคุณต้องการแน่ใจว่าคุณกำลังแปลงอีเมลที่ถูกต้อง คุณสามารถโหลดเอกสาร EMLX แยกวิเคราะห์ และดูคุณสมบัติที่คุณต้องการได้ โดยใช้ [MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) คลาสของ [Aspose.Emlx for .NET](https://products.aspose.com/emlx /net/) API คุณสามารถรับข้อมูลผู้ส่งและผู้รับ ตัวอย่างเช่น คุณสามารถตรวจสอบอีเมลผู้ส่งเฉพาะสำหรับการแปลงโดยใช้คุณสมบัติ [SenderName](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername)  
 {{% blocks/products/pf/feature-page-code %}}
 
-```cs
-// instantiate MapiMessage to load an EMLX file from disk
+```cs// instantiate MapiMessage to load an EMLX file from disk
 var outlookMessageFile = MapiMessage.FromFile("message.emlx");
  
 if(outlookMessageFile.SenderName == "John"){
     
 }
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -65,13 +65,13 @@ if(outlookMessageFile.SenderName == "John"){
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("HtmlOutput.html");
 
 document.Protect(ProtectionType.ReadOnly, "password");
 // call save method while passing SaveFormat.WordML
 document.Save("output.wordml", SaveFormat.WordML);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

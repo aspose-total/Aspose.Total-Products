@@ -1,6 +1,6 @@
 ---
 title: تحويل تنسيق JSON إلى DOT عبر .NET
-description: تحليل JSON إلى DOT في C # بدون استخدام Microsoft Word
+description: تحليل JSON إلى DOT في C# بدون استخدام Microsoft Word
 url: /ar/net/conversion/json-to-dot/
 family: total
 platformtag: net
@@ -10,46 +10,48 @@ outformat: DOT
 otherformats: DOT PCL MOBI WORD DOC DOTX FLATOPC PS RTF DOCM OTT ODT WORDML EPUB
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="تحويل تنسيق JSON إلى DOT عبر C #" h2="C # API لتحليل JSON إلى DOT بدون استخدام Microsoft <sup> & reg؛ </sup> Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="تحويل تنسيق JSON إلى DOT عبر C#" h2="C# API لتحليل JSON إلى DOT بدون استخدام Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-باستخدام [Aspose.Total for .NET] (https://products.aspose.com/total/net/) ، يمكنك تحليل JSON إلى DOT ضمن أي تطبيق .NET و C # و ASP.NET و VB.NET في عمليتين بسيطتين خطوات. أولاً ، باستخدام [Aspose.Cells for .NET] (https://products.aspose.com/cells/net/) ، يمكنك تصدير JSON إلى PDF. بعد ذلك ، باستخدام [Aspose.Words for .NET] (https://products.aspose.com/words/net/) ، يمكنك تحويل PDF إلى DOT.
+باستخدام [Aspose.Total for .NET](https://products.aspose.com/total/net/) ، يمكنك تحليل JSON إلى DOT ضمن أي تطبيق .NET و C# و ASP.NET و VB.NET في عمليتين بسيطتين خطوات. أولاً ، باستخدام [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) ، يمكنك تصدير JSON إلى PDF. بعد ذلك ، باستخدام [Aspose.Words for .NET](https://products.aspose.com/words/net/) ، يمكنك تحويل PDF إلى DOT.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="تحويل تنسيق JSON إلى DOT عبر C #" %}}
+{{% blocks/products/pf/agp/feature-section-col title="تحويل تنسيق JSON إلى DOT عبر C#" %}}
 1. قم بإنشاء كائن [مصنف] جديد (https://apireference.aspose.com/cells/net/aspose.cells/workbook) واقرأ بيانات JSON الصالحة من الملف
-2. استيراد ملف JSON إلى ورقة العمل باستخدام فئة [JsonUtility] (https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) و [حفظ] (https://apireference.aspose.com/ خلايا / صافي / aspose.cells.workbook / حفظ / طرق / 4) كملف PDF
-3. قم بتحميل مستند PDF باستخدام فئة [Document] (https://apireference.aspose.com/words/net/aspose.words/document)
-4. احفظ المستند بتنسيق DOT باستخدام طريقة [حفظ] (https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)
+2. استيراد ملف JSON إلى ورقة العمل باستخدام فئة [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) و [Save](https://apireference.aspose.com/ خلايا / صافي / aspose.cells.workbook / حفظ / طرق / 4) كملف PDF
+3. قم بتحميل مستند PDF باستخدام فئة [Document](https://apireference.aspose.com/words/net/aspose.words/document)
+4. احفظ المستند بتنسيق DOT باستخدام طريقة [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-قم بالتثبيت من سطر الأوامر كـ `` nuget install Aspose.Total ''` أو عبر Package Manager Console في Visual Studio مع `` Install-Package Aspose.Total' '.
+قم بالتثبيت من سطر الأوامر كـ ``nuget install Aspose.Total`` أو عبر Package Manager Console في Visual Studio مع ``Install-Package Aspose.Total``.
 
-بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التنزيلات] (https://downloads.aspose.com/total/net).
+بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [Downloads](https://downloads.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-doc.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="قم بتعيين التخطيط وتحويل تنسيق JSON إلى DOT عبر C #" %}}
-أثناء تحليل JSON إلى DOT ، يمكنك أيضًا تعيين خيارات التخطيط لـ JSON باستخدام [JsonLayoutOptions] (https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). يسمح لك بمعالجة الصفيف كجدول ، وتجاهل القيم الخالية ، وتجاهل عنوان الصفيف ، وتجاهل عنوان الكائن ، وتحويل السلسلة إلى رقم أو تاريخ ، وتعيين تنسيق التاريخ والأرقام ، وتعيين نمط العنوان. تتيح لك كل هذه الخيارات تقديم بياناتك وفقًا لاحتياجاتك. يوضح لك مقتطف الشفرة التالي كيفية تعيين خيارات التخطيط.  
+{{% blocks/products/pf/feature-page-section  h2="قم بتعيين التخطيط وتحويل تنسيق JSON إلى DOT عب]( #" %}}
+أثناء تحليل JSON إلى DOT ، يمكنك أيضًا تعيين خيارات التخطيط لـ JSON باستخدام [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). يسمح لك بمعالجة الصفيف كجدول ، وتجاهل القيم الخالية ، وتجاهل عنوان الصفيف ، وتجاهل عنوان الكائن ، وتحويل السلسلة إلى رقم أو تاريخ ، وتعيين تنسيق التاريخ والأرقام ، وتعيين نمط العنوان. تتيح لك كل هذه الخيارات تقديم بياناتك وفقًا لاحتياجاتك. يوضح لك مقتطف الشفرة التالي كيفية تعيين خيارات التخطيط.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "set-layout-and-parse-json-to-doc.cs" >}}
+{{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "set-layout-and-parse-json-to-doc.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-
 {{% blocks/products/pf/feature-page-section  h2="تحليل تنسيق JSON إلى DOT باستخدام العلامة المائية" %}}
-باستخدام API ، يمكنك أيضًا تحويل JSON إلى DOT بعلامة مائية. من أجل إضافة علامة مائية إلى مستند DOT ، يمكنك أولاً تحليل ملف JSON إلى PDF وإضافة علامة مائية إليه. لإضافة علامة مائية ، قم بتحميل ملف PDF الذي تم إنشاؤه حديثًا باستخدام فئة [Document] (https://apireference.aspose.com/words/net/aspose.words/document) ، وأنشئ مثيلاً لـ TextWatermarkOptions وعيّن خصائصه ، استدعاء طريقة Watermark.SetText وتمرير نص العلامة المائية وكائن خيارات TextWatermarkOptions. بعد إضافة العلامة المائية ، يمكنك حفظ المستند في غرفة تبادل المعلومات. 
+باستخدام API ، يمكنك أيضًا تحويل JSON إلى DOT بعلامة مائية. من أجل إضافة علامة مائية إلى مستند DOT ، يمكنك أولاً تحليل ملف JSON إلى PDF وإضافة علامة مائية إليه. لإضافة علامة مائية ، قم بتحميل ملف PDF الذي تم إنشاؤه حديثًا باستخدام فئة [Document](https://apireference.aspose.com/words/net/aspose.words/document) ، وأنشئ مثيلاً لـ TextWatermarkOptions وعيّن خصائصه ، استدعاء طريقة Watermark.SetText وتمرير نص العلامة المائية وكائن خيارات TextWatermarkOptions. بعد إضافة العلامة المائية ، يمكنك حفظ المستند في غرفة تبادل المعلومات. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

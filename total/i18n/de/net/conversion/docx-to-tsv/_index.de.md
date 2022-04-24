@@ -18,8 +18,8 @@ Durch die Verwendung von [Aspose.Total for .NET](https://products.aspose.com/tot
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET-API zum Konvertieren von DOCX in TSV" %}}
-1. Öffnen Sie die DOCX-Datei mit der Klasse [Docxument](https://apireference.aspose.com/words/net/aspose.words/docxument).
-2. Konvertieren Sie DOCX in HTML, indem Sie die Methode [Save](https://apireference.aspose.com/words/net/aspose.words.docxument/save/methods/4) verwenden
+1. Öffnen Sie die DOCX-Datei mit der Klasse [Document](https://apireference.aspose.com/words/net/aspose.words/document).
+2. Konvertieren Sie DOCX in HTML, indem Sie die Methode [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) verwenden
 3. Laden Sie das HTML-Dokument mithilfe der Klasse [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
 4. Speichern Sie das Dokument mit der Methode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) im TSV-Format und legen Sie „TSV“ als SaveFormat fest
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -27,29 +27,32 @@ Durch die Verwendung von [Aspose.Total for .NET](https://products.aspose.com/tot
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
 Installieren Sie von der Befehlszeile als ```nuget install Aspose.Total``` oder über die Package Manager Console von Visual Studio mit ```Install-Package Aspose.Total```.
 
-Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer ZIP-Datei von [downloads] (https://downloads.aspose.com/total/net) herunterladen.
+Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer ZIP-Datei von [downloads](https://downloads.aspose.com/total/net) herunterladen.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="DOCX-Dokument aus Stream über C# laden" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) ermöglicht es Ihnen auch, DOCX-Dokumente per Stream zu laden. Um ein Dokument aus einem Stream zu öffnen, übergeben Sie einfach ein Stream-Objekt, das das Dokument enthält, an den Konstruktor [Docxument](https://apireference.aspose.com/words/net/aspose.words/docxument). Das folgende Codebeispiel zeigt, wie Sie ein Dokument aus einem Stream öffnen:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) ermöglicht es Ihnen auch, DOCX-Dokumente per Stream zu laden. Um ein Dokument aus einem Stream zu öffnen, übergeben Sie einfach ein Stream-Objekt, das das Dokument enthält, an den Konstruktor [Document](https://apireference.aspose.com/words/net/aspose.words/document). Das folgende Codebeispiel zeigt, wie Sie ein Dokument aus einem Stream öffnen:  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Benutzerdefinierte Eigenschaften in TSV-Datei über C# hinzufügen" %}}
-Beim Konvertieren von DOCX in TSV können Sie mit [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Ihren TSV-Dokumenten benutzerdefinierte Eigenschaften hinzufügen. Um eine benutzerdefinierte Eigenschaft hinzuzufügen, können Sie die Methode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocxumentpropertycollection/methods/add/index) für die [CustomDocxumentPropertyCollection]( https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocxumentpropertycollection) Klasse. Die Add-Methode fügt die Eigenschaft zur Excel-Datei hinzu und gibt eine Referenz für die neue Dokumenteigenschaft als [Aspose.Cells.Properties.DocxumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /docxumentproperty)-Objekt. 
+Beim Konvertieren von DOCX in TSV können Sie mit [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Ihren TSV-Dokumenten benutzerdefinierte Eigenschaften hinzufügen. Um eine benutzerdefinierte Eigenschaft hinzuzufügen, können Sie die Methode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) für die [CustomDocumentPropertyCollection]( https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) Klasse. Die Add-Methode fügt die Eigenschaft zur Excel-Datei hinzu und gibt eine Referenz für die neue Dokumenteigenschaft als [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /documentproperty)-Objekt. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

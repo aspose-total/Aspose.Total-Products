@@ -17,7 +17,6 @@ description: Convert PowerPoint pps documents to Word dot files with C#. Convert
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -60,8 +59,7 @@ PM> Install-Package Aspose.Total
 
 {{% blocks/products/pf/agp/code-block title="This code sample shows how to convert a PPS to DOT using C#" offSpacer="" %}}
 
-```cs
-// Load the Microsoft PowerPoint PPS file
+```cs// Load the Microsoft PowerPoint PPS file
 Aspose.Slides.Presentation pps = new Aspose.Slides.Presentation("source.pps");
 
 var stream = new MemoryStream();

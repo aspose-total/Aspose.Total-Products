@@ -17,7 +17,6 @@ description: Преобразование документов Word dotx в фа
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -61,8 +60,7 @@ Aspose.Total для .NET поддерживается во всех основн
 
 {{% blocks/products/pf/agp/code-block title="В этом примере кода показано, как преобразовать DOTX в PPTM с помощью C#." offSpacer="" %}}
 
-```cs
-// Загрузите одностраничный файл Microsoft Word DOTX
+```cs// Загрузите одностраничный файл Microsoft Word DOTX
 Aspose.Words.Document dotx = new Aspose.Words.Document("sourceWordFile.dotx");
 
 // Сохраняем файл DOTX в HTML

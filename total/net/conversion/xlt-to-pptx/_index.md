@@ -32,8 +32,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Code for XLT to PPTX Conversion" gistPath="" %}}
-```cs
-// load the XLT file using Workbook class
+```cs// load the XLT file using Workbook class
 var book = new Aspose.Cells.Workbook("input.xlt");
 // save XLT as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 

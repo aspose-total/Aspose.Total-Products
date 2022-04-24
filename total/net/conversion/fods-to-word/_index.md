@@ -32,8 +32,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Code for FODS to WORD Conversion" gistPath="" %}}
-```cs
-// load the FODS file using Workbook class
+```cs// load the FODS file using Workbook class
 var book = new Aspose.Cells.Workbook("input.fods");
 // save FODS as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 

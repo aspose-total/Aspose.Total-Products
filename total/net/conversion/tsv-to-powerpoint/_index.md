@@ -32,8 +32,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Code for TSV to POWERPOINT Conversion" gistPath="" %}}
-```cs
-// load the TSV file using Workbook class
+```cs// load the TSV file using Workbook class
 var book = new Aspose.Cells.Workbook("input.tsv");
 // save TSV as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 

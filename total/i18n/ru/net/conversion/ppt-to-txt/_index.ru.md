@@ -17,7 +17,6 @@ description: Преобразование документов PowerPoint ppt в
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -60,8 +59,7 @@ PM> Install-Package Aspose.Total
 
 {{% blocks/products/pf/agp/code-block title="В этом примере кода показано, как преобразовать PPT в TXT с помощью C#." offSpacer="" %}}
 
-```cs
-// Загрузите PPT-файл Microsoft PowerPoint
+```cs// Загрузите PPT-файл Microsoft PowerPoint
 Aspose.Slides.Presentation ppt = new Aspose.Slides.Presentation("source.ppt");
 
 var stream = new MemoryStream();

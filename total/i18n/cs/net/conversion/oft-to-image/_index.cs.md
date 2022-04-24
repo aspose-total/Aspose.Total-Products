@@ -19,15 +19,15 @@ Pokud jste vývojář .NET, který chce přidat OFT do funkcí převodu IMAGE ve
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API pro převod OFT na IMAGE" %}}
 1. Otevřete soubor OFT pomocí třídy [MailMessage](https://apireference.aspose.com/oft/net/aspose.oft/mailmessage)
-2. Převeďte OFT na HTML pomocí metody [Uložit](https://apireference.aspose.com/oft/net/aspose.oft.mailmessage/save/methods/3)
+2. Převeďte OFT na HTML pomocí metody [Save](https://apireference.aspose.com/oft/net/aspose.oft.mailmessage/save/methods/3)
 3. Načtěte HTML pomocí třídy [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-4. Uložte dokument do formátu IMAGE pomocí metody [Uložit](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) a nastavte Image jako SaveFormat
+4. Uložte dokument do formátu IMAGE pomocí metody [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) a nastavte Image jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Instalujte z příkazového řádku jako ```nuget install Aspose.Total``` nebo pomocí konzoly Správce balíčků sady Visual Studio s ```Install-Package Aspose.Total```.
 
-Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení] (https://downloads.aspose.com/total/net).
+Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení](https://downloads.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
@@ -41,12 +41,13 @@ message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
 Document document = new Document("HtmlOutput.html");
 // call save method while passing SaveFormat.Png
 document.Save("output.png", SaveFormat.Png); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analyzujte soubor OFT přes .NET" %}}
-Před převodem OFT na IMAGE, pokud se chcete ujistit, že převádíte správný e-mail, můžete načíst dokument OFT, analyzovat jej a podívat se na požadovanou vlastnost. Pomocí třídy [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) třídy [Aspose.Oft pro .NET](https://products.aspose.com/oft /net/) API, můžete získat informace o odesílateli a příjemcích. Můžete například zkontrolovat e-mail konkrétního odesílatele pro konverzi pomocí vlastnosti [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
+Před převodem OFT na IMAGE, pokud se chcete ujistit, že převádíte správný e-mail, můžete načíst dokument OFT, analyzovat jej a podívat se na požadovanou vlastnost. Pomocí třídy [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) třídy [Aspose.Oft for .NET](https://products.aspose.com/oft /net/) API, můžete získat informace o odesílateli a příjemcích. Můžete například zkontrolovat e-mail konkrétního odesílatele pro konverzi pomocí vlastnosti [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -56,7 +57,8 @@ var outlookMessageFile = MapiMessage.FromFile("message.oft");
 if(outlookMessageFile.SenderName == "John"){
     
 }
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -71,7 +73,8 @@ Document document = new Document("HtmlOutput.html");
 document.Protect(ProtectionType.ReadOnly, "password");
 // call save method while passing SaveFormat.Png
 document.Save("output.png", SaveFormat.Png);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

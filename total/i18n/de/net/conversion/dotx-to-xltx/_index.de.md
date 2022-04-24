@@ -27,13 +27,14 @@ Durch die Verwendung von [Aspose.Total for .NET](https://products.aspose.com/tot
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
 Installieren Sie von der Befehlszeile als ```nuget install Aspose.Total``` oder über die Package Manager Console von Visual Studio mit ```Install-Package Aspose.Total```.
 
-Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer ZIP-Datei von [downloads] (https://downloads.aspose.com/total/net) herunterladen.
+Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer ZIP-Datei von [downloads](https://downloads.aspose.com/total/net) herunterladen.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 [Aspose.Words for .NET](https://products.aspose.com/words/net/) ermöglicht es Ihnen auch, DOTX-Dokumente per Stream zu laden. Um ein Dokument aus einem Stream zu öffnen, übergeben Sie einfach ein Stream-Objekt, das das Dokument enthält, an den Konstruktor [Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument). Das folgende Codebeispiel zeigt, wie Sie ein Dokument aus einem Stream öffnen:  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 Beim Konvertieren von DOTX in XLTX können Sie mit [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Ihren XLTX-Dokumenten benutzerdefinierte Eigenschaften hinzufügen. Um eine benutzerdefinierte Eigenschaft hinzuzufügen, können Sie die Methode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotxumentpropertycollection/methods/add/index) für die [CustomDotxumentPropertyCollection]( https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotxumentpropertycollection) Klasse. Die Add-Methode fügt die Eigenschaft zur Excel-Datei hinzu und gibt eine Referenz für die neue Dokumenteigenschaft als [Aspose.Cells.Properties.DotxumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /dotxumentproperty)-Objekt. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

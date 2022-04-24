@@ -1,5 +1,5 @@
 ---
-title: C # API เพื่อส่งออก MHTML ไปยัง DOCM
+title: C# API เพื่อส่งออก MHTML ไปยัง DOCM
 description: แปลง MHTML เป็น DOCM โดยไม่ต้องใช้ Microsoft Word
 url: /th/net/conversion/mhtml-to-docm/
 family: total
@@ -17,7 +17,7 @@ otherformats: ODT RTF XAMLFLOW WORDML MARKDOWN DOTM FLATOPC OTT PCL PS DOTX DOT
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C # API เพื่อแปลง MHTML เป็น DOCM" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C# API เพื่อแปลง MHTML เป็น DOCM" %}}
 1. เปิดไฟล์ MHTML โดยใช้คลาส [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
 2. แปลง MHTML เป็น Doc โดยใช้วิธีการ [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
 3. โหลดไฟล์ Doc โดยใช้ [Document](https://apireference.aspose.com/words/net/aspose.words/document) คลาสของ Aspose.Words
@@ -33,7 +33,6 @@ otherformats: ODT RTF XAMLFLOW WORDML MARKDOWN DOTM FLATOPC OTT PCL PS DOTX DOT
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("template.mhtml");
  
 document.Save("DocOutput.doc", SaveFormat.Doc); 
@@ -41,7 +40,8 @@ document.Save("DocOutput.doc", SaveFormat.Doc);
 var outputDocument = new Aspose.Words.Document("DocOutput.doc");
 
 outputDocument.Save("output.docm", SaveFormat.Docm);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -50,13 +50,13 @@ outputDocument.Save("output.docm", SaveFormat.Docm);
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("Decrypt.mhtml", "password");
 
 document.Decrypt();
  
 document.Save("Decrypt_out.doc");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -65,13 +65,13 @@ document.Save("Decrypt_out.doc");
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("input.doc");
 
 document.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.docm", SaveFormat.Docm);    
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -18,8 +18,8 @@ otherformats: WORDML RTF OTT DOCXM DOTX DOTM DOT DOCX TEXT ODT WORD FLATOPC
 {{% blocks/products/pf/agp/feature-section-col title="So konvertieren Sie PPT über Java in DOCX" %}}
 1. Öffnen Sie die PPT-Datei mit der Klasse [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation).
 2. Konvertieren Sie PPT in HTML mit [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) Methode und legen Sie Html als SaveFormat fest
-3. Laden Sie die konvertierte HTML-Datei mit der Klasse [Docxument](https://apireference.aspose.com/words/java/com.aspose.words/Docxument).
-4. Speichern Sie das Dokument im DOCX-Format mit der Methode [save](https://apireference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,int)).
+3. Laden Sie die konvertierte HTML-Datei mit der Klasse [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document).
+4. Speichern Sie das Dokument im DOCX-Format mit der Methode [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
 Für die PPT-zu-DOCX-Dateikonvertierung können Sie Aspose.Total für Java direkt von einem [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total)-basiertes Projekt und fügen Sie Bibliotheken in Ihre pom.xml ein.
@@ -29,14 +29,16 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://downloads.aspose.c
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Konvertierungsanforderungen" %}}
-Mit der API können Sie auch eine PPT-Datei in eine DOCX-Konvertierung mit Wasserzeichen durchführen. Um Ihrem DOCX-Dokument ein Wasserzeichen hinzuzufügen, können Sie zuerst die PPT-Datei in HTML konvertieren und ihr ein Wasserzeichen hinzufügen. Um ein Wasserzeichen hinzuzufügen, laden Sie die neu erstellte HTML-Datei mit der Klasse [Docxument](https://apireference.aspose.com/words/java/com.aspose.words/Docxument), erstellen Sie eine Instanz von TextWatermarkOptions und setzen Sie sie seine Eigenschaften, Methode Watermark.setText aufrufen und Wasserzeichentext und Objekt von TextWatermarkOptions übergeben.  
+{{% blocks/products/pf/feature-page-section  h2="Konvertierungsanforderungen" %}}[Document]
+Mit der API können Sie auch eine PPT-Datei in eine DOCX-Konvertierung mit Wasserzeichen durchführen. Um Ihrem DOCX-Dokument ein Wasserzeichen hinzuzufügen, können Sie zuerst die PPT-Datei in HTML konvertieren und ihr ein Wasserzeichen hinzufügen. Um ein Wasserzeichen hinzuzufügen, laden Sie die neu erstellte HTML-Datei mit der Klasse [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document), erstellen Sie eine Instanz von TextWatermarkOptions und setzen Sie sie seine Eigenschaften, Methode Watermark.setText aufrufen und Wasserzeichentext und Objekt von TextWatermarkOptions übergeben.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}
+{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

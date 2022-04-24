@@ -1,6 +1,6 @@
 ---
 title: .NET API để chuyển đổi DOCX sang XLAM
-description: C # API để chuyển đổi DOCX sang XLAM mà không cần sử dụng Microsoft Excel hoặc Adobe Reader
+description: C# API để chuyển đổi DOCX sang XLAM mà không cần sử dụng Microsoft Excel hoặc Adobe Reader
 url: /vi/net/conversion/docx-to-xlam/
 family: total
 platformtag: net
@@ -10,46 +10,49 @@ outformat: XLAM
 otherformats: XLSB DIF TSV FODS XLS EXCEL SXC XLSX XLT ODS XLTM XLTX XLAM XLSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C # API để chuyển đổi DOCX sang XLAM" h2="Xuất DOCX sang XLAM qua C # mà không sử dụng Microsoft <sup> & reg; </sup> Word hoặc Microsoft <sup> & reg; </sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API để chuyển đổi DOCX sang XLAM" h2="Xuất DOCX sang XLAM qua C# mà không sử dụng Microsoft <sup> & reg; </sup> Word hoặc Microsoft <sup> & reg; </sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Bằng cách sử dụng [Aspose.Total cho .NET] (https://products.aspose.com/total/net/), bạn có thể bao gồm tính năng chuyển đổi DOCX sang XLAM trong bất kỳ ứng dụng .NET, C #, ASP.NET và VB.NET nào trong hai bước đơn giản. Thứ nhất, bằng cách sử dụng [Aspose.Words for .NET] (https://products.aspose.com/words/net/), bạn có thể xuất DOCX sang HTML. Sau đó, bằng cách sử dụng API lập trình bảng tính [Aspose.Cells for .NET] (https://products.aspose.com/cells/net/), bạn có thể chuyển đổi HTML sang XLAM.
+Bằng cách sử dụng [Aspose.Total cho .NET](https://products.aspose.com/total/net/), bạn có thể bao gồm tính năng chuyển đổi DOCX sang XLAM trong bất kỳ ứng dụng .NET, C#, ASP.NET và VB.NET nào trong hai bước đơn giản. Thứ nhất, bằng cách sử dụng [Aspose.Words for .NET](https://products.aspose.com/words/net/), bạn có thể xuất DOCX sang HTML. Sau đó, bằng cách sử dụng API lập trình bảng tính [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), bạn có thể chuyển đổi HTML sang XLAM.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API để chuyển đổi DOCX sang XLAM" %}}
-1. Mở tệp DOCX bằng lớp [Docxument] (https://apireference.aspose.com/words/net/aspose.words/docxument)
-2. Chuyển đổi DOCX sang HTML bằng phương pháp [Lưu] (https://apireference.aspose.com/words/net/aspose.words.docxument/save/methods/4)
-3. Tải tài liệu HTML bằng cách sử dụng lớp [Workbook] (https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Lưu tài liệu sang định dạng XLAM bằng phương pháp [Lưu] (https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) và đặt `XLAM` làm SaveFormat
+1. Mở tệp DOCX bằng lớp [Document](https://apireference.aspose.com/words/net/aspose.words/document)
+2. Chuyển đổi DOCX sang HTML bằng phương pháp [Lưu](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. Tải tài liệu HTML bằng cách sử dụng lớp [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+4. Lưu tài liệu sang định dạng XLAM bằng phương pháp [Lưu](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) và đặt `XLAM` làm SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
 Cài đặt từ dòng lệnh dưới dạng `` nuget install Aspose.Total '' hoặc thông qua Package Manager Console của Visual Studio với `` Install-Package Aspose.Total ''.
 
-Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống] (https://downloads.aspose.com/total/net).
+Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://downloads.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Tải tài liệu DOCX từ Luồng qua C #" %}}
-[Aspose. AdWords for .NET] (https://products.aspose.com/words/net/) cũng cho phép bạn tải tài liệu DOCX qua luồng. Để mở tài liệu từ luồng, chỉ cần chuyển đối tượng luồng có chứa tài liệu vào phương thức khởi tạo [Docxument] (https://apireference.aspose.com/words/net/aspose.words/docxument). Ví dụ mã sau đây cho thấy cách mở một tài liệu từ một luồng:  
+{{% blocks/products/pf/fe](re-page-section  h2="Tải tài liệu DOCX từ Luồng qua C#" %}}
+[Aspose. AdWords for .NET](https://products.aspose.com/words/net/) cũng cho phép bạn tải tài liệu DOCX qua luồng. Để mở tài liệu từ luồng, chỉ cần chuyển đối tượng luồng có chứa tài liệu vào phương thức khởi tạo [Document](https://apireference.aspose.com/words/net/aspose.words/document). Ví dụ mã sau đây cho thấy cách mở một tài liệu từ một luồng:  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Thêm thuộc tính tùy chỉnh trong tệp XLAM qua C #" %}}
-Trong khi chuyển đổi DOCX sang XLAM, [Aspose.Cells cho .NET] (https://products.aspose.com/cells/net/) cho phép bạn thêm các thuộc tính tùy chỉnh trong tài liệu XLAM của mình. Để thêm thuộc tính tùy chỉnh, bạn có thể sử dụng phương thức [Thêm] (https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocxumentpropertycollection/methods/add/index) cho phương thức [CustomDocxumentPropertyCollection] ( https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocxumentpropertycollection) lớp. Phương thức Thêm sẽ thêm thuộc tính vào tệp Excel và trả về một tham chiếu cho thuộc tính tài liệu mới dưới dạng [Aspose.Cells.Properties.DocxumentProperty] (https://apireference.aspose.com/cells/net/aspose.cells.properties / docxumentproperty) đối tượng. 
+{{% blocks/products/pf/feature-page-section  h2="Thêm thuộc tính tùy chỉnh trong tệp XLAM qua C#" %}}
+Trong khi chuyển đổi DOCX sang XLAM, [Aspose.Cells cho .NET](https://products.aspose.com/cells/net/) cho phép bạn thêm các thuộc tính tùy chỉnh trong tài liệu XLAM của mình. Để thêm thuộc tính tùy chỉnh, bạn có thể sử dụng phương thức [Thêm](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) cho phương thức [CustomDocumentPropertyCollection]( https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) lớp. Phương thức Thêm sẽ thêm thuộc tính vào tệp Excel và trả về một tham chiếu cho thuộc tính tài liệu mới dưới dạng [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties / documentproperty) đối tượng. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

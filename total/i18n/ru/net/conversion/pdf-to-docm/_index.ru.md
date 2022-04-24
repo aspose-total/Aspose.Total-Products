@@ -13,7 +13,7 @@ otherformats: WORDML MARKDOWN OTT MHTML RTF PS DOTM DOT XAMLFLOW ODT PCL FLATOPC
 {{< blocks/products/pf/i18n/feature-page-header h1="Рендеринг PDF в DOCM через .NET" h2=".NET API для экспорта PDF в DOCM в Windows, macOS и Linux без использования Microsoft Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total для .NET](https://products.aspose.com/total/net/) — это мощный API для добавления функций обработки и преобразования документов в ваше приложение .NET. Используя расширенный API обработки PDF [Aspose.PDF для .NET] (https://products.aspose.com/pdf/net/), вы можете преобразовать формат файлов PDF в DOC. После этого, используя мощный API обработки документов [Aspose.Words для .NET](https://products.aspose.com/words/net/), вы можете преобразовать DOC в DOCM.
+[Aspose.Total для .NET](https://products.aspose.com/total/net/) — это мощный API для добавления функций обработки и преобразования документов в ваше приложение .NET. Используя расширенный API обработки PDF [Aspose.PDF для .NET](https://products.aspose.com/pdf/net/), вы можете преобразовать формат файлов PDF в DOC. После этого, используя мощный API обработки документов [Aspose.Words для .NET](https://products.aspose.com/words/net/), вы можете преобразовать DOC в DOCM.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -33,7 +33,6 @@ otherformats: WORDML MARKDOWN OTT MHTML RTF PS DOTM DOT XAMLFLOW ODT PCL FLATOPC
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("template.pdf");
  
 document.Save("DocOutput.doc", SaveFormat.Doc); 
@@ -41,7 +40,8 @@ document.Save("DocOutput.doc", SaveFormat.Doc);
 var outputDocument = new Aspose.Words.Document("DocOutput.doc");
 
 outputDocument.Save("output.docm", SaveFormat.Docm);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -50,13 +50,13 @@ outputDocument.Save("output.docm", SaveFormat.Docm);
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("Decrypt.pdf", "password");
 
 document.Decrypt();
  
 document.Save("Decrypt_out.doc");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -65,13 +65,13 @@ document.Save("Decrypt_out.doc");
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("input.doc");
 
 doc.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.docm", SaveFormat.Docm);    
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -21,7 +21,7 @@ otherformats: FODS EXCEL XLSB XLT XLS XLTX SXC ODS DIF XLTM XLSX XLSM XLAM TSV
 1. Откройте файл WORDML, используя класс [Wordmlument](https://apireference.aspose.com/words/net/aspose.words/wordmlument).
 2. Преобразуйте WORDML в HTML, используя метод [Сохранить](https://apireference.aspose.com/words/net/aspose.words.wordmlument/save/methods/4).
 3. Загрузите HTML-документ с помощью класса [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
-4. Сохраните документ в формате XLSX с помощью метода [Сохранить] (https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) и установите «XLSX» в качестве формата сохранения.
+4. Сохраните документ в формате XLSX с помощью метода [Сохранить](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) и установите «XLSX» в качестве формата сохранения.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}
@@ -33,7 +33,8 @@ otherformats: FODS EXCEL XLSB XLT XLS XLTX SXC ODS DIF XLTM XLSX XLSM XLAM TSV
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ otherformats: FODS EXCEL XLSB XLT XLS XLTX SXC ODS DIF XLTM XLSX XLSM XLAM TSV
 [Aspose.Words for .NET](https://products.aspose.com/words/net/) также позволяет загружать документ WORDML через поток. Чтобы открыть документ из потока, просто передайте объект потока, содержащий документ, в конструктор [Wordmlument](https://apireference.aspose.com/words/net/aspose.words/wordmlument). В следующем примере кода показано, как открыть документ из потока:  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: FODS EXCEL XLSB XLT XLS XLTX SXC ODS DIF XLTM XLSX XLSM XLAM TSV
 При преобразовании WORDML в XLSX [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) позволяет добавлять пользовательские свойства в документы XLSX. Чтобы добавить пользовательское свойство, вы можете использовать метод [Добавить](https://apireference.aspose.com/cells/net/aspose.cells.properties/customwordmlumentpropertycollection/methods/add/index) для [CustomWordmlumentPropertyCollection]( https://apireference.aspose.com/cells/net/aspose.cells.properties/customwordmlumentpropertycollection). Метод Add добавляет свойство в файл Excel и возвращает ссылку на новое свойство документа в виде [Aspose.Cells.Properties.WordmlumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties). /wordmlumentproperty) объект. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

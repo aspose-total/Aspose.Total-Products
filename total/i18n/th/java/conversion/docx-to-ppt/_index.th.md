@@ -16,9 +16,9 @@ otherformats: POTM PPSM POTX PPT PPTM PPSX POT POWERPOINT PPS PPTX CSV DIF FODS 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง DOCX เป็น PPT ผ่าน Java" %}}
-1. เปิดไฟล์ DOCX โดยใช้คลาส [Docxument](https://apireference.aspose.com/words/java/com.aspose.words/Docxument)
-2. แปลงไฟล์ DOCX เป็น HTML โดยใช้ [save](https://apireference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,com.aspose.words.SaveOptions) )) กระบวนการ
-3. เริ่มต้นวัตถุ [การนำเสนอ] (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) ใหม่
+1. เปิดไฟล์ DOCX โดยใช้คลาส [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. แปลงไฟล์ DOCX เป็น HTML โดยใช้ [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) )) กระบวนการ
+3. เริ่มต้นวัตถุ [การนำเสนอ](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) ใหม่
 5. แยกเนื้อหาจากไฟล์ HTML โดยใช้ BufferedReader และเขียนเนื้อหาลงในไฟล์นำเสนอของคุณ
 6. บันทึกเอกสารไปยัง PPT โดยใช้วิธีการ [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -30,14 +30,16 @@ otherformats: POTM PPSM POTX PPT PPTM PPSX POT POWERPOINT PPS PPTX CSV DIF FODS 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-docx-to-pptx.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="ข้อกำหนดการแปลง" %}}
 API ยังช่วยให้คุณแปลงเอกสาร DOCX ที่ป้องกันด้วยรหัสผ่านเป็น PPT หากเอกสาร DOCX ที่คุณป้อนมีการป้องกันด้วยรหัสผ่าน คุณจะไม่สามารถแปลงเป็นรูปแบบ PPT ได้โดยไม่ต้องใช้รหัสผ่าน ในการเปิดเอกสารที่เข้ารหัส คุณสามารถตั้งรหัสผ่านที่ถูกต้องในวัตถุ LoadOptions และส่งผ่านไปยังตัวสร้างเอกสาร  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-docx-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-docx-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

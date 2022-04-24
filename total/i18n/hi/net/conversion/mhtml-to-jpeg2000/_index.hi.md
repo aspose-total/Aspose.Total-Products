@@ -21,19 +21,20 @@ otherformats: JPEG2000 PSD EMZ SVGZ TGA WMZ DXF  IMAGE WMF DICOM
 1. [दस्तावेज़](https://apireference.aspose.com/pdf/net/aspose.pdf/document) वर्ग का उपयोग करके सीजीएम फ़ाइल खोलें
 2. [JpegDevice](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) क्लास ऑब्जेक्ट को इनिशियलाइज़ करें और [Process](https://apireference.aspose. com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) विधि
 3. [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) क्लास का इस्तेमाल करके JPEG फ़ाइल लोड करें
-4. [सेव] (https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) विधि का उपयोग करके दस्तावेज़ को JPEG2000 प्रारूप में सहेजें
+4. [सेव](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) विधि का उपयोग करके दस्तावेज़ को JPEG2000 प्रारूप में सहेजें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
 कमांड लाइन से ```nuget install Aspose.Total``` के रूप में या ````Install-Package Aspose.Total`` के साथ विजुअल स्टूडियो के पैकेज मैनेजर कंसोल के माध्यम से इंस्टॉल करें।
 
-वैकल्पिक रूप से, [डाउनलोड] (https://downloads.aspose.com/total/net) से ज़िप फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें।
+वैकल्पिक रूप से, [डाउनलोड](https://downloads.aspose.com/total/net) से ज़िप फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें।
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-image.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -42,7 +43,8 @@ otherformats: JPEG2000 PSD EMZ SVGZ TGA WMZ DXF  IMAGE WMF DICOM
 और इसे [Save](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) मेथड का इस्तेमाल करके JPEG2000 फॉर्मेट में सेव करें।  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-single-file.cs" >}}
+{{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-single-file.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -50,7 +52,8 @@ otherformats: JPEG2000 PSD EMZ SVGZ TGA WMZ DXF  IMAGE WMF DICOM
 एपीआई का उपयोग करके, आप अपनी आवश्यकताओं के अनुसार आउटपुट एपीएनजी छवि को घुमा भी सकते हैं। Image.RotateFlip विधि का उपयोग छवि को 90/180/270-डिग्री तक घुमाने और छवि को क्षैतिज या लंबवत रूप से फ़्लिप करने के लिए किया जा सकता है। आप रोटेशन के प्रकार को निर्दिष्ट कर सकते हैं और छवि पर लागू करने के लिए फ्लिप कर सकते हैं। छवि को घुमाने और फ़्लिप करने के लिए आप [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) वर्ग द्वारा उजागर फ़ैक्टरी विधि का उपयोग करके परिवर्तित JPEG छवि को लोड कर सकते हैं और छवि को कॉल कर सकते हैं उपयुक्त [RotateFlipType](https://apireference.aspose.com/imaging/net/aspose.imaging/rotatefliptype) निर्दिष्ट करते हुए .RotateFlip विधि। 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-and-rotate-pdf-to-image.cs" >}}
+{{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-and-rotate-pdf-to-image.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

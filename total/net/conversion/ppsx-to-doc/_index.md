@@ -17,7 +17,6 @@ description: Convert PowerPoint ppsx documents to Word doc files with C#. Conver
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -60,8 +59,7 @@ PM> Install-Package Aspose.Total
 
 {{% blocks/products/pf/agp/code-block title="This code sample shows how to convert a PPSX to DOC using C#" offSpacer="" %}}
 
-```cs
-// Load the Microsoft PowerPoint PPSX file
+```cs// Load the Microsoft PowerPoint PPSX file
 Aspose.Slides.Presentation ppsx = new Aspose.Slides.Presentation("source.ppsx");
 
 var stream = new MemoryStream();

@@ -1,6 +1,6 @@
 ---
-title: แปลง POTM เป็น MARKDOWN ผ่าน C #
-description: แปลง POTM เป็น MARKDOWN ใน C # โดยไม่ต้องใช้ Microsoft Excel หรือ Powerpoint
+title: แปลง POTM เป็น MARKDOWN ผ่าน C#
+description: แปลง POTM เป็น MARKDOWN ใน C# โดยไม่ต้องใช้ Microsoft Excel หรือ Powerpoint
 url: /th/net/conversion/potm-to-markdown/
 family: total
 platformtag: net
@@ -10,14 +10,14 @@ outformat: MARKDOWN
 otherformats: SXC XLTM XLAM ODS DIF FODS MHTML XLT TSV XLSX XLS XLSM XLTX EXCEL MARKDOWN XLSB DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="แปลง POTM เป็น MARKDOWN ผ่าน C #" h2=".NET API สำหรับการแปลง POTM เป็น MARKDOWN โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Excel หรือ PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="แปลง POTM เป็น MARKDOWN ผ่าน C#" h2=".NET API สำหรับการแปลง POTM เป็น MARKDOWN โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Excel หรือ PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 ด้วยการใช้ [Aspose.Total for .NET](https://products.aspose.com/total/net/) คุณสามารถแปลงไฟล์ POTM เป็น MARKDOWN ภายในแอปพลิเคชัน .NET, C#, ASP.NET และ VB.NET ได้เป็นสองส่วน ขั้นตอนง่ายๆ ประการแรก ด้วยการใช้ [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) คุณสามารถส่งออก POTM เป็น HTML หลังจากนั้น การใช้ [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API จะช่วยให้คุณแปลง HTML เป็น MARKDOWN ได้
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง POTM เป็น MARKDOWN ผ่าน C #" %}}
+{{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง POTM เป็น MARKDOWN ผ่าน C#" %}}
 1. เปิดไฟล์ POTM โดยใช้คลาส [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 2. ส่งออก POTM เป็น HTML โดยใช้วิธีการ [บันทึก](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 3. โหลดเอกสาร HTML โดยใช้คลาส [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
@@ -33,23 +33,26 @@ otherformats: SXC XLTM XLAM ODS DIF FODS MHTML XLT TSV XLSX XLS XLSM XLTX EXCEL 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-
+C#
 {{% blocks/products/pf/feature-page-section  h2="แปลง Protected POTM เป็น MARKDOWN ผ่าน C #" %}}
 ขณะแปลงไฟล์ POTM เป็น MARKDOWN หากเอกสาร POTM ที่คุณป้อนมีการป้องกันด้วยรหัสผ่าน คุณจะไม่สามารถแปลงเป็น MARKDOWN ได้โดยไม่ต้องถอดรหัสลับเอกสาร เมื่อเอกสารของคุณได้รับการป้องกันด้วยรหัสผ่าน แสดงว่ามีการบังคับใช้ข้อจำกัดบางประการในการนำเสนอ ต้องป้อนรหัสผ่านเพื่อลบข้อจำกัด การนำเสนอที่มีการป้องกันด้วยรหัสผ่านถือเป็นการนำเสนอที่ถูกล็อค API อนุญาตให้คุณเปิดเอกสารที่เข้ารหัสโดยส่งรหัสผ่านที่ถูกต้องในออบเจกต์ LoadOptions  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% /blocks/products/pf/feature-page-section %}}C#
 
 {{% blocks/products/pf/feature-page-section  h2="แปลง POTM เป็น MARKDOWN ด้วยลายน้ำผ่าน C #" %}}
 ขณะแปลงไฟล์ POTM เป็น MARKDOWN คุณยังสามารถเพิ่มลายน้ำให้กับรูปแบบไฟล์ MARKDOWN เอาต์พุตของคุณได้ ในการเพิ่มลายน้ำ คุณสามารถสร้างวัตถุสมุดงานใหม่และเปิดเอกสาร HTML ที่แปลงแล้ว เลือกแผ่นงานผ่านดัชนี สร้างรูปร่าง และใช้ฟังก์ชัน AddTextEffect หลังจากนั้น คุณสามารถบันทึกเอกสาร HTML ของคุณเป็น MARKDOWN ด้วยลายน้ำ 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -17,7 +17,6 @@ description: Преобразование документов Word dot в фа�
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -61,8 +60,7 @@ Aspose.Total для .NET поддерживается во всех основн
 
 {{% blocks/products/pf/agp/code-block title="В этом примере кода показано, как преобразовать DOT в PPTX с помощью C#." offSpacer="" %}}
 
-```cs
-// Загрузите одностраничный файл Microsoft Word DOT
+```cs// Загрузите одностраничный файл Microsoft Word DOT
 Aspose.Words.Document dot = new Aspose.Words.Document("sourceWordFile.dot");
 
 // Сохраняем файл DOT в HTML

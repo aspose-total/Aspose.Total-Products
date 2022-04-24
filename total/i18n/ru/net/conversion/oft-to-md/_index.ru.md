@@ -21,7 +21,7 @@ otherformats: SVG TEXT DOCM WORDML PNG EPUB FLATOPC GIF OTT PS DOT JPEG TIFF DOT
 1. Откройте файл OFT с помощью класса [MailMessage](https://apireference.aspose.com/oft/net/aspose.oft/mailmessage).
 2. Преобразуйте OFT в HTML, используя метод [Сохранить](https://apireference.aspose.com/oft/net/aspose.oft.mailmessage/save/methods/3).
 3. Загрузите HTML с помощью класса [Document](https://apireference.aspose.com/words/net/aspose.words/document).
-4. Сохраните документ в формате MD с помощью метода [Сохранить] (https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) и установите Md в качестве формата сохранения.
+4. Сохраните документ в формате MD с помощью метода [Сохранить](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) и установите Md в качестве формата сохранения.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}
@@ -33,7 +33,6 @@ otherformats: SVG TEXT DOCM WORDML PNG EPUB FLATOPC GIF OTT PS DOT JPEG TIFF DOT
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 MailMessage message = MailMessage.Load("sourceFile.msg");
  
 message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
@@ -41,7 +40,8 @@ message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
 Document document = new Document("HtmlOutput.html");
 
 document.Save("output.md", SaveFormat.Md); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -50,13 +50,13 @@ document.Save("output.md", SaveFormat.Md);
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 var outlookMessageFile = MapiMessage.FromFile("message.msg");
  
 if(outlookMessageFile.SenderName == "John"){
     
 }
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -65,13 +65,13 @@ if(outlookMessageFile.SenderName == "John"){
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("HtmlOutput.html");
 
 document.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.md", SaveFormat.Md);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

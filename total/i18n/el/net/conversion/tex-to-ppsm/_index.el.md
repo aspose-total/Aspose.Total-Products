@@ -41,28 +41,30 @@ document.Save("PptxOutput.pptx", SaveFormat.Pptx);
 Presentation presentation = new Presentation("PptxOutput.pptx");
 
 presentation.Save("output.ppsm", SaveFormat.Ppsm);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Λάβετε μεταδεδομένα XMP από το αρχείο TEX μέσω .NET" %}}
 Κατά τη μετατροπή του TEX σε PPSM, ενδέχεται να χρειαστείτε επιπλέον πληροφορίες μεταδεδομένων XMP για να δώσετε προτεραιότητα στη διαδικασία ομαδικής μετατροπής. Για παράδειγμα, μπορείτε να λάβετε και να ταξινομήσετε τα έγγραφα μετατροπής με βάση την ημερομηνία δημιουργίας και να επεξεργαστείτε τα έγγραφα ανάλογα. Το [Aspose.PDF για .NET](https://products.aspose.com/pdf/net/) σάς επιτρέπει να έχετε πρόσβαση στα μεταδεδομένα XMP ενός αρχείου TEX. Για να λάβετε τα μεταδεδομένα ενός αρχείου TEX, μπορείτε να δημιουργήσετε ένα αντικείμενο [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) και να ανοίξετε το αρχείο εισόδου TEX. Μετά από αυτό, μπορείτε να λάβετε τα μεταδεδομένα του αρχείου χρησιμοποιώντας την ιδιότητα [Metadata](https://apireference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata).  
 {{% blocks/products/pf/feature-page-code %}}
-
 ```cs
+
 
 Document doc = new Document("input.tex");
 
 Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
 Console.WriteLine(doc.Metadata["xmp:Nickname"]);
 Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Δημιουργία αρχείου PPSM μόνο για ανάγνωση μέσω .NET" %}}
 Χρησιμοποιώντας το [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) API, μπορείτε να βελτιώσετε περαιτέρω τις δυνατότητες της εφαρμογής μετατροπής σας. Ένα από τα χαρακτηριστικά μπορεί να είναι να δημιουργήσετε το αρχείο εξόδου σας μόνο για ανάγνωση για να αυξήσετε την ασφάλεια. Το API σάς επιτρέπει να ορίσετε το αρχείο PPSM σε Μόνο για ανάγνωση, πράγμα που σημαίνει ότι οι χρήστες (αφού ανοίξουν την παρουσίαση) βλέπουν την πρόταση μόνο για ανάγνωση. 
-{{% blocks/products/pf/feature-page-code %}}
+```cs
 
 ```cs
 
@@ -71,7 +73,8 @@ Presentation presentation = new Presentation("PptxOutput.pptx");
 presentation.ProtectionManager.ReadOnlyRecommended = true;
 
 presentation.Save("output.ppsm", SaveFormat.Ppsm);     
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -17,9 +17,9 @@ otherformats: TEXT WORDMLM DOTM ODT WORDML DOTX DOT FLATOPC WORDMLX WORD OTT RTF
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل PPS إلى WORDML عبر Java" %}}
 1. افتح ملف PPS باستخدام فئة [Presentation] (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. تحويل PPS إلى HTML باستخدام [حفظ] (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) وتعيين Html كـ SaveFormat
+2. تحويل PPS إلى HTML باستخدام [Save] (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) وتعيين Html كـ SaveFormat
 3. قم بتحميل ملف HTML المحول باستخدام فئة [Wordmlument] (https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument)
-4. احفظ المستند بتنسيق WORDML باستخدام طريقة [حفظ] (https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument#save (java.lang.String، int))
+4. احفظ المستند بتنسيق WORDML باستخدام طريقة [Save] (https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument#save (java.lang.String، int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
 لتحويل ملف PPS إلى WORDML ، يمكنك بسهولة استخدام Aspose.Total لـ Java مباشرة من [Maven] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose / aspose-total) القائم على المشروع وتضمين المكتبات في ملفك pom.xml.
@@ -29,14 +29,16 @@ otherformats: TEXT WORDMLM DOTM ODT WORDML DOTX DOT FLATOPC WORDMLX WORD OTT RTF
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="متطلبات التحويل" %}}
 باستخدام API ، يمكنك أيضًا تنفيذ ملف PPS لتحويل WORDML بعلامة مائية. لإضافة علامة مائية إلى مستند WORDML الخاص بك ، يمكنك أولاً تحويل ملف PPS إلى HTML وإضافة علامة مائية إليه. لإضافة علامة مائية ، قم بتحميل ملف HTML الذي تم إنشاؤه حديثًا باستخدام فئة [Wordmlument] (https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument) ، وأنشئ مثيلاً لـ TextWatermarkOptions وعيّن خصائصه ، استدعاء طريقة Watermark.setText وتمرير نص العلامة المائية وكائن TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

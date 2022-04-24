@@ -1,5 +1,5 @@
 ---
-title: C # API เพื่อส่งออก EML ไปยัง IMAGE
+title: C# API เพื่อส่งออก EML ไปยัง IMAGE
 description: แปลง EML เป็น IMAGE โดยไม่ต้องใช้ Microsoft Word หรือ Outlook บน .NET
 url: /th/net/conversion/eml-to-image/
 family: total
@@ -17,7 +17,7 @@ otherformats: EMF WORDML PDF ODT MD TEXT DOTM DOC DOCX DOT DOCM IMAGE SVG EPUB J
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C # API เพื่อแปลง EML เป็น IMAGE" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C# API เพื่อแปลง EML เป็น IMAGE" %}}
 1. เปิดไฟล์ EML โดยใช้คลาส [MailMessage](https://apireference.aspose.com/eml/net/aspose.eml/mailmessage)
 2. แปลง EML เป็น HTML โดยใช้วิธีการ [Save](https://apireference.aspose.com/eml/net/aspose.eml.mailmessage/save/methods/3)
 3. โหลด HTML โดยใช้คลาส [Document](https://apireference.aspose.com/words/net/aspose.words/document)
@@ -33,7 +33,6 @@ otherformats: EMF WORDML PDF ODT MD TEXT DOTM DOC DOCX DOT DOCM IMAGE SVG EPUB J
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 MailMessage message = MailMessage.Load("sourceFile.eml");
  
 message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
@@ -41,7 +40,8 @@ message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
 Document document = new Document("HtmlOutput.html");
 // call save method while passing SaveFormat.Png
 document.Save("output.png", SaveFormat.Png); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -49,14 +49,14 @@ document.Save("output.png", SaveFormat.Png);
 ก่อนแปลง EML เป็น IMAGE หากคุณต้องการแน่ใจว่าคุณกำลังแปลงอีเมลที่ถูกต้อง คุณสามารถโหลดเอกสาร EML แยกวิเคราะห์ และดูคุณสมบัติที่คุณต้องการได้ โดยใช้ [MapiMessage](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage) คลาสของ [Aspose.Eml for .NET](https://products.aspose.com/eml /net/) API คุณสามารถรับข้อมูลผู้ส่งและผู้รับ ตัวอย่างเช่น คุณสามารถตรวจสอบอีเมลผู้ส่งเฉพาะสำหรับการแปลงโดยใช้คุณสมบัติ [SenderName](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage/properties/sendername)  
 {{% blocks/products/pf/feature-page-code %}}
 
-```cs
-// instantiate MapiMessage to load an EML file from disk
+```cs// instantiate MapiMessage to load an EML file from disk
 var outlookMessageFile = MapiMessage.FromFile("message.eml");
  
 if(outlookMessageFile.SenderName == "John"){
     
 }
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -65,13 +65,13 @@ if(outlookMessageFile.SenderName == "John"){
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("HtmlOutput.html");
 
 document.Protect(ProtectionType.ReadOnly, "password");
 // call save method while passing SaveFormat.Png
 document.Save("output.png", SaveFormat.Png);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

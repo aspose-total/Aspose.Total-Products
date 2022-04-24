@@ -1,5 +1,5 @@
 ---
-title: C # API เพื่อส่งออก TEX ไปยัง MHTML
+title: C# API เพื่อส่งออก TEX ไปยัง MHTML
 description: แปลง TEX เป็น MHTML โดยไม่ต้องใช้ Microsoft Word
 url: /th/net/conversion/tex-to-mhtml/
 family: total
@@ -17,7 +17,7 @@ otherformats: OTT PCL ODT MARKDOWN FLATOPC MHTML WORDML DOTM DOT PS XAMLFLOW RTF
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C # API เพื่อแปลง TEX เป็น MHTML" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C# API เพื่อแปลง TEX เป็น MHTML" %}}
 1. เปิดไฟล์ TEX โดยใช้คลาส [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
 2. แปลง TEX เป็น Doc โดยใช้วิธีการ [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
 3. โหลดไฟล์ Doc โดยใช้ [Document](https://apireference.aspose.com/words/net/aspose.words/document) คลาสของ Aspose.Words
@@ -33,7 +33,6 @@ otherformats: OTT PCL ODT MARKDOWN FLATOPC MHTML WORDML DOTM DOT PS XAMLFLOW RTF
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("template.tex");
  
 document.Save("DocOutput.doc", SaveFormat.Doc); 
@@ -41,7 +40,8 @@ document.Save("DocOutput.doc", SaveFormat.Doc);
 var outputDocument = new Aspose.Words.Document("DocOutput.doc");
 
 outputDocument.Save("output.mhtml", SaveFormat.Mhtml);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -50,13 +50,13 @@ outputDocument.Save("output.mhtml", SaveFormat.Mhtml);
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("Decrypt.tex", "password");
 
 document.Decrypt();
  
 document.Save("Decrypt_out.doc");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -65,13 +65,13 @@ document.Save("Decrypt_out.doc");
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("input.doc");
 
 document.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.mhtml", SaveFormat.Mhtml);    
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,6 +1,6 @@
 ---
 title: NET API لتحويل OTT إلى CSV
-description: C # API لتحويل OTT إلى CSV بدون استخدام Microsoft Excel أو Adobe Reader
+description: C# API لتحويل OTT إلى CSV بدون استخدام Microsoft Excel أو Adobe Reader
 url: /ar/net/conversion/ott-to-csv/
 family: total
 platformtag: net
@@ -10,46 +10,49 @@ outformat: CSV
 otherformats: DIF EXCEL XLT XLS FODS TSV ODS SXC XLAM XLSX XLSB XLSM XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C # API لتحويل OTT إلى CSV" h2="تصدير OTT إلى CSV عبر C # بدون استخدام Microsoft <sup> & reg؛ </sup> Word أو Microsoft <sup> & reg؛ </sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API لتحويل OTT إلى CSV" h2="تصدير OTT إلى CSV عبر C# بدون استخدام Microsoft<sup>&reg;</sup> Word أو Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-باستخدام [Aspose.Total for .NET] (https://products.aspose.com/total/net/) ، يمكنك تضمين OTT إلى ميزة تحويل CSV ضمن أي تطبيق .NET و C # و ASP.NET و VB.NET في خطوتين بسيطتين. أولاً ، باستخدام [Aspose.Words for .NET] (https://products.aspose.com/words/net/) ، يمكنك تصدير OTT إلى HTML. بعد ذلك ، باستخدام [Aspose.Cells for .NET] (https://products.aspose.com/cells/net/) واجهة برمجة تطبيقات برمجة جداول البيانات ، يمكنك تحويل HTML إلى CSV.
+باستخدام [Aspose.Total for .NET](https://products.aspose.com/total/net/) ، يمكنك تضمين OTT إلى ميزة تحويل CSV ضمن أي تطبيق .NET و C# و ASP.NET و VB.NET في خطوتين بسيطتين. أولاً ، باستخدام [Aspose.Words for .NET](https://products.aspose.com/words/net/) ، يمكنك تصدير OTT إلى HTML. بعد ذلك ، باستخدام [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) واجهة برمجة تطبيقات برمجة جداول البيانات ، يمكنك تحويل HTML إلى CSV.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="NET API لتحويل OTT إلى CSV" %}}
-1. افتح ملف OTT باستخدام فئة [Ottument] (https://apireference.aspose.com/words/net/aspose.words/ottument)
-2. تحويل OTT إلى HTML باستخدام طريقة [حفظ] (https://apireference.aspose.com/words/net/aspose.words.ottument/save/methods/4)
-3. قم بتحميل مستند HTML باستخدام فئة [Workbook] (https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. احفظ المستند بتنسيق CSV باستخدام طريقة [حفظ] (https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) وعيّن `CSV` على أنه SaveFormat
+1. افتح ملف OTT باستخدام فئة [Ottument](https://apireference.aspose.com/words/net/aspose.words/ottument)
+2. تحويل OTT إلى HTML باستخدام طريقة [Save](https://apireference.aspose.com/words/net/aspose.words.ottument/save/methods/4)
+3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+4. احفظ المستند بتنسيق CSV باستخدام طريقة [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) وعيّن `CSV` على أنه SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-قم بالتثبيت من سطر الأوامر كـ `` nuget install Aspose.Total ''` أو عبر Package Manager Console في Visual Studio مع `` Install-Package Aspose.Total' '.
+قم بالتثبيت من سطر الأوامر كـ ``nuget install Aspose.Total`` أو عبر Package Manager Console في Visual Studio مع ``Install-Package Aspose.Total``.
 
-بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التنزيلات] (https://downloads.aspose.com/total/net).
+بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [Downloads](https://downloads.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="قم بتحميل مستند OTT من الدفق عبر C #" %}}
-يسمح لك [Aspose.Words for .NET] (https://products.aspose.com/words/net/) أيضًا بتحميل مستند OTT عبر الدفق. لفتح مستند من تيار ، ما عليك سوى تمرير كائن تيار يحتوي على المستند إلى مُنشئ [Ottument] (https://apireference.aspose.com/words/net/aspose.words/ottument). يوضح المثال التالي من التعليمات البرمجية كيفية فتح مستند من دفق:  
+{{% blocks/products/pf/feature](ge-section  h2="قم بتحميل مستند OTT من الدفق عبر C#" %}}
+يسمح لك [Aspose.Words for .NET](https://products.aspose.com/words/net/) أيضًا بتحميل مستند OTT عبر الدفق. لفتح مستند من تيار ، ما عليك سوى تمرير كائن تيار يحتوي على المستند إلى مُنشئ [Ottument](https://apireference.aspose.com/words/net/aspose.words/ottument). يوضح المثال التالي من التعليمات البرمجية كيفية فتح مستند من دفق:  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="إضافة خصائص مخصصة في ملف CSV عبر C #" %}}
-أثناء تحويل OTT إلى CSV ، يمكّنك [Aspose.Cells for .NET] (https://products.aspose.com/cells/net/) من إضافة خصائص مخصصة في مستندات CSV. لإضافة خاصية مخصصة ، يمكنك استخدام طريقة [Add] (https://apireference.aspose.com/cells/net/aspose.cells.properties/customottumentpropertycollection/methods/add/index) للأسلوب [CustomOttumentPropertyCollection] ( https://apireference.aspose.com/cells/net/aspose.cells.properties/customottumentpropertycollection) فئة. يضيف الأسلوب Add الخاصية إلى ملف Excel ويعيد مرجعًا لخاصية المستند الجديدة كـ [Aspose.Cells.Properties.OttumentProperty] (https://apireference.aspose.com/cells/net/aspose.cells.properties / ottumentproperty) كائن. 
+{{% blocks/products/pf/feature-page-section  h2="إضافة خصائص مخصصة في ملف CSV عبر C#" %}}
+أثناء تحويل OTT إلى CSV ، يمكّنك [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) من إضافة خصائص مخصصة في مستندات CSV. لإضافة خاصية مخصصة ، يمكنك استخدام طريقة [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customottumentpropertycollection/methods/add/index) للأسلوب [CustomOttumentPropertyCollection]( https://apireference.aspose.com/cells/net/aspose.cells.properties/customottumentpropertycollection) فئة. يضيف الأسلوب Add الخاصية إلى ملف Excel ويعيد مرجعًا لخاصية المستند الجديدة كـ [Aspose.Cells.Properties.OttumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties / ottumentproperty) كائن. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

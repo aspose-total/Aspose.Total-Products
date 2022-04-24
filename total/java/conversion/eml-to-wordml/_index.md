@@ -31,8 +31,7 @@ Alternatively, you can get a ZIP file from [downloads](https://downloads.aspose.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Java Code for EML to WORDML Rendering" gistPath="" %}}
-```cs
-// load the EML file to be converted
+```cs// load the EML file to be converted
 MailMessage message = MailMessage.load("sourceFile.eml"); 
 // save EML as a HTML 
 message.save("HtmlOutput.html", SaveOptions.getDefaultHtml());

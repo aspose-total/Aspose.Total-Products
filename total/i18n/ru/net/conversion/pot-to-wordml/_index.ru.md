@@ -17,7 +17,6 @@ description: Преобразование документов PowerPoint pot в
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -60,8 +59,7 @@ PM> Install-Package Aspose.Total
 
 {{% blocks/products/pf/agp/code-block title="В этом примере кода показано, как преобразовать POT в WORDML с помощью C#." offSpacer="" %}}
 
-```cs
-// Загрузите POT-файл Microsoft PowerPoint
+```cs// Загрузите POT-файл Microsoft PowerPoint
 Aspose.Slides.Presentation pot = new Aspose.Slides.Presentation("source.pot");
 
 var stream = new MemoryStream();

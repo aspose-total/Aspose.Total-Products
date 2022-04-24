@@ -31,8 +31,7 @@ otherformats: PPTX WORD DOC POWERPOINT
 
 {{% blocks/products/pf/agp/code-autogen title="用于 XLSM 到 DOCX 转换的 .NET C# 代码" gistPath="" %}}
 
-```cs
-// load the XLSM file using Workbook class
+```cs// load the XLSM file using Workbook class
 var book = new Aspose.Cells.Workbook("input.xlsm");
 // save XLSM as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 

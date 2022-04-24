@@ -17,7 +17,6 @@ description: Convert Word docx documents to PowerPoint potm files with C#. Conve
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -61,8 +60,7 @@ PM> Install-Package Aspose.Total
 
 {{% blocks/products/pf/agp/code-block title="This code sample shows how to convert a DOCX to POTM using C#" offSpacer="" %}}
 
-```cs
-// Load the Single Page Microsoft Word DOCX file
+```cs// Load the Single Page Microsoft Word DOCX file
 Aspose.Words.Document docx = new Aspose.Words.Document("sourceWordFile.docx");
 
 // Save DOCX file to HTML 

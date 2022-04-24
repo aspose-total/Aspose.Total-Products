@@ -1,5 +1,5 @@
 ---
-title: C # API لتصدير البريد الإلكتروني إلى GIF
+title: C# API لتصدير البريد الإلكتروني إلى GIF
 description: قم بتحويل OFT إلى GIF دون استخدام Microsoft Word أو Outlook على .NET
 url: /ar/net/conversion/oft-to-gif/
 family: total
@@ -13,21 +13,21 @@ otherformats: RTF DOTX PDF PS DOCM TIFF DOC PNG PCL MD EMF OTT EPUB WORDML TEXT 
 {{< blocks/products/pf/i18n/feature-page-header h1="تصدير البريد الإلكتروني إلى GIF عبر .NET" h2=".NET API لتقديم OFT إلى GIF على أنظمة التشغيل Windows و macOS و Linux دون استخدام Word أو Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-إذا كنت مطور .NET تتطلع إلى إضافة OFT إلى ميزات تحويل GIF داخل تطبيقاتك ، فإن [Aspose.Total for .NET] (https://products.aspose.com/total/net/) واجهات برمجة تطبيقات معالجة تنسيق الملف هي الطريقة إلى الأمام. باستخدام [Aspose.Oft for .NET] (https://products.aspose.com/oft/net/) ، يمكنك تحويل تنسيق ملف OFT إلى HTML. بعد ذلك ، باستخدام [Aspose.Words for .NET] (https://products.aspose.com/words/net/) ، يمكنك تحويل HTML إلى GIF.
+إذا كنت مطور .NET تتطلع إلى إضافة OFT إلى ميزات تحويل GIF داخل تطبيقاتك ، فإن [Aspose.Total for .NET](https://products.aspose.com/total/net/) واجهات برمجة تطبيقات معالجة تنسيق الملف هي الطريقة إلى الأمام. باستخدام [Aspose.Oft for .NET](https://products.aspose.com/oft/net/) ، يمكنك تحويل تنسيق ملف OFT إلى HTML. بعد ذلك ، باستخدام [Aspose.Words for .NET](https://products.aspose.com/words/net/) ، يمكنك تحويل HTML إلى GIF.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C # API لتحويل البريد الإلكتروني إلى GIF" %}}
-1. افتح ملف OFT باستخدام فئة [MailMessage] (https://apireference.aspose.com/oft/net/aspose.oft/mailmessage)
-2. تحويل OFT إلى HTML باستخدام طريقة [حفظ] (https://apireference.aspose.com/oft/net/aspose.oft.mailmessage/save/methods/3)
-3. قم بتحميل HTML باستخدام فئة [Document] (https://apireference.aspose.com/words/net/aspose.words/document)
-4. احفظ المستند بتنسيق GIF باستخدام طريقة [حفظ] (https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) وقم بتعيين Gif كـ SaveFormat
+{{% blocks/products/pf/agp/feature-section-col title="C# API لتحويل البريد الإلكتروني إلى GIF" %}}
+1. افتح ملف OFT باستخدام فئة [MailMessage](https://apireference.aspose.com/oft/net/aspose.oft/mailmessage)
+2. تحويل OFT إلى HTML باستخدام طريقة [Save](https://apireference.aspose.com/oft/net/aspose.oft.mailmessage/save/methods/3)
+3. قم بتحميل HTML باستخدام فئة [Document](https://apireference.aspose.com/words/net/aspose.words/document)
+4. احفظ المستند بتنسيق GIF باستخدام طريقة [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) وقم بتعيين Gif كـ SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-قم بالتثبيت من سطر الأوامر كـ `` nuget install Aspose.Total ''` أو عبر Package Manager Console في Visual Studio مع `` Install-Package Aspose.Total' '.
+قم بالتثبيت من سطر الأوامر كـ ``nuget install Aspose.Total`` أو عبر Package Manager Console في Visual Studio مع ``Install-Package Aspose.Total``.
 
-بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التنزيلات] (https://downloads.aspose.com/total/net).
+بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [Downloads](https://downloads.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
@@ -41,12 +41,13 @@ message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
 Document document = new Document("HtmlOutput.html");
 
 document.Save("output.gif", SaveFormat.Gif); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="تحليل ملف البريد الإلكتروني عبر .NET" %}}
-قبل تحويل OFT إلى GIF ، إذا كنت تريد التأكد من أنك تقوم بتحويل البريد الإلكتروني الصحيح ، فيمكنك تحميل مستند OFT وتحليله وإلقاء نظرة على الممتلكات التي تريدها. باستخدام [MapiMessage] (https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) فئة [Aspose.Oft for .NET] (https://products.aspose.com/oft / net /) API ، يمكنك الحصول على معلومات المرسل والمستلمين. على سبيل المثال ، يمكنك التحقق من وجود بريد إلكتروني معين لمرسل التحويل باستخدام خاصية [SenderName] (https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
+قبل تحويل OFT إلى GIF ، إذا كنت تريد التأكد من أنك تقوم بتحويل البريد الإلكتروني الصحيح ، فيمكنك تحميل مستند OFT وتحليله وإلقاء نظرة على الممتلكات التي تريدها. باستخدام [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) فئة [Aspose.Oft for .NET](https://products.aspose.com/oft / net /) API ، يمكنك الحصول على معلومات المرسل والمستلمين. على سبيل المثال ، يمكنك التحقق من وجود بريد إلكتروني معين لمرسل التحويل باستخدام خاصية [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -56,12 +57,12 @@ var outlookMessageFile = MapiMessage.FromFile("message.oft");
 if(outlookMessageFile.SenderName == "John"){
     
 }
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-
 {{% blocks/products/pf/feature-page-section  h2="تقييد تحرير مستندات GIF عبر .NET" %}}
-أثناء حفظ المستند من OFT إلى GIF ، قد تحتاج إلى حماية مستند الإخراج الخاص بك. قد تحتاج أحيانًا إلى تقييد القدرة على تحرير مستند والسماح فقط بإجراءات معينة معه. يمكن أن يكون هذا مفيدًا لمنع الأشخاص الآخرين من تحرير المعلومات الحساسة والسرية في المستند الخاص بك. تمكّنك واجهة برمجة تطبيقات [Aspose.Words for .NET] (https://products.aspose.com/words/net/) من التحكم في طريقة تقييد المحتوى باستخدام [ProtectionType] (https: //apireference.aspose. com / Words / net / aspose.words / protectiontype) معلمة التعداد. يمكنك ضبط المستند للقراءة فقط باستخدام سطور التعليمات البرمجية التالية. 
+أثناء حفظ المستند من OFT إلى GIF ، قد تحتاج إلى حماية مستند الإخراج الخاص بك. قد تحتاج أحيانًا إلى تقييد القدرة على تحرير مستند والسماح فقط بإجراءات معينة معه. يمكن أن يكون هذا مفيدًا لمنع الأشخاص الآخرين من تحرير المعلومات الحساسة والسرية في المستند الخاص بك. تمكّنك واجهة برمجة تطبيقات [Aspose.Words for .NET](https://products.aspose.com/words/net/) من التحكم في طريقة تقييد المحتوى باستخدام [ProtectionType](https: //apireference.aspose. com / Words / net / aspose.words / protectiontype) معلمة التعداد. يمكنك ضبط المستند للقراءة فقط باستخدام سطور التعليمات البرمجية التالية. 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -71,7 +72,8 @@ Document document = new Document("HtmlOutput.html");
 document.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.gif", SaveFormat.Gif);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

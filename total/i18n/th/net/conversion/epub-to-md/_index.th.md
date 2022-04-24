@@ -1,6 +1,6 @@
 ---
 title: แปลง EPUB เป็น MD ผ่าน C# API
-description: C # API เพื่อแปลงไฟล์ EPUB เป็น MD โดยไม่ต้องใช้ Microsoft Excel หรือ Adobe Reader
+description: C# API เพื่อแปลงไฟล์ EPUB เป็น MD โดยไม่ต้องใช้ Microsoft Excel หรือ Adobe Reader
 url: /th/net/conversion/epub-to-md/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: MD
 otherformats: XLSB SXC ODS FODS XLT TXT XLSM XLTX MD XLAM DIF XLTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C # API เพื่อแสดงผล EPUB เป็น MD" h2="ส่งออกไฟล์ EPUB เป็น MD ผ่าน C# โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Excel หรือ Adobe<sup>&reg;</sup> Acrobat Reader" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API เพื่อแสดงผล EPUB เป็น MD" h2="ส่งออกไฟล์ EPUB เป็น MD ผ่าน C# โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Excel หรือ Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 การใช้ [Aspose.Total for .NET](https://products.aspose.com/total/net/) คุณสามารถแปลงไฟล์ EPUB เป็น MD ได้อย่างง่ายดายภายในแอปพลิเคชัน .NET, C#, ASP.NET และ VB.NET ประการแรก ด้วยการใช้ [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) คุณสามารถส่งออก EPUB ไปยัง XLSX ได้ หลังจากนั้น คุณสามารถใช้ [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API เพื่อแปลง XLSX เป็น MD
@@ -33,23 +33,26 @@ otherformats: XLSB SXC ODS FODS XLT TXT XLSM XLTX MD XLAM DIF XLTM
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-pdf-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="แปลง EPUB ที่ได้รับการป้องกันเป็น MD ผ่าน C #" %}}
+{{% blocks/products/pf/feature-page-section  h2="แปลง EPUB ที่ได้รับการป้องกันเป็น MD ผ่าน C#" %}}
 หากเอกสาร EPUB ของคุณมีการป้องกันด้วยรหัสผ่าน คุณจะไม่สามารถแปลงเป็น MD ได้หากไม่มีรหัสผ่าน เมื่อใช้ API คุณสามารถเปิดเอกสารที่มีการป้องกันโดยใช้รหัสผ่านที่ถูกต้องและแปลงหลังจากนั้น ในการเปิดไฟล์ที่เข้ารหัส คุณสามารถเริ่มต้นอินสแตนซ์ใหม่ของคลาส [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) และส่งชื่อไฟล์และรหัสผ่านเป็นอาร์กิวเมนต์ได้  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-password-protected-pdf-to-excel.cs" >}}
+{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-password-protected-pdf-to-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="แปลงไฟล์ EPUB เป็น MD พร้อมลายน้ำผ่าน C #" %}}
+{{% blocks/products/pf/feature-page-section  h2="แปลงไฟล์ EPUB เป็น MD พร้อมลายน้ำผ่าน C#" %}}
 ในขณะที่แปลงไฟล์ EPUB เป็น MD คุณยังสามารถเพิ่มลายน้ำให้กับรูปแบบไฟล์ MD เอาต์พุตของคุณ ในการเพิ่มลายน้ำ คุณสามารถสร้างวัตถุสมุดงานใหม่และเปิดเอกสาร XLSX ที่แปลงแล้ว เลือกแผ่นงานผ่านดัชนี สร้างรูปร่าง และใช้ฟังก์ชัน AddTextEffect หลังจากนั้น คุณสามารถบันทึกเอกสาร XLSX ของคุณเป็น MD ด้วยลายน้ำ 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-pdf-to-excel-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-pdf-to-excel-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -47,8 +47,7 @@ outputDocument.save("output.dotm", SaveFormat.DOTM);
 {{% blocks/products/pf/feature-page-section  h2="Open Password Protected XPS Document via Java" %}}
 While converting XPS to DOTM, even if your document is password protected, you can still open it using PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). In order to open the encrypted file, you need to create a [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) object and open the XPS using the owner’s password. 
 {{% blocks/products/pf/feature-page-code %}}
-```cs
-// open encrypted document
+```cs// open encrypted document
 Document document = new Document("input.xps", "password");
 // save XPS as a DOC 
 document.save("DocOutput.doc", SaveFormat.DOC);

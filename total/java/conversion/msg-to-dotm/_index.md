@@ -31,8 +31,7 @@ Alternatively, you can get a ZIP file from [downloads](https://downloads.aspose.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Java Code for MSG to DOTM Rendering" gistPath="" %}}
-```cs
-// load the MSG file to be converted
+```cs// load the MSG file to be converted
 MailMessage message = MailMessage.load("sourceFile.msg"); 
 // save MSG as a HTML 
 message.save("HtmlOutput.html", SaveOptions.getDefaultHtml());

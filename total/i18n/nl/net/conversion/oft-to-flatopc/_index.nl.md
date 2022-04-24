@@ -33,15 +33,15 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 MailMessage message = MailMessage.Load("sourceFile.oft");
  
 message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
 
 Document document = new Document("HtmlOutput.html");
-// call save method while passing SaveFormat.FlatOpc
+
 document.Save("output.flatopc", SaveFormat.FlatOpc); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -49,14 +49,14 @@ document.Save("output.flatopc", SaveFormat.FlatOpc);
 Voordat u OFT naar FLATOPC converteert, kunt u, als u er zeker van wilt zijn dat u de juiste e-mail converteert, het OFT-document laden, het ontleden en uw gewenste eigenschap bekijken. Door gebruik te maken van [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) klasse van [Aspose.Oft for .NET](https://products.aspose.com/oft /net/) API, kunt u informatie over afzender en ontvanger krijgen. U kunt bijvoorbeeld controleren op een specifiek e-mailadres van de afzender voor de conversie door de eigenschap [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername) te gebruiken.  
 {{% blocks/products/pf/feature-page-code %}}
 
-```cs
-// instantiate MapiMessage to load an OFT file from disk
+```cs// instantiate MapiMessage to load an OFT file from disk
 var outlookMessageFile = MapiMessage.FromFile("message.oft");
  
 if(outlookMessageFile.SenderName == "John"){
     
 }
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -65,13 +65,13 @@ Terwijl u het document opslaat van OFT naar FLATOPC, moet u mogelijk uw uitvoerd
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("HtmlOutput.html");
 
 document.Protect(ProtectionType.ReadOnly, "password");
 // call save method while passing SaveFormat.FlatOpc
 document.Save("output.flatopc", SaveFormat.FlatOpc);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

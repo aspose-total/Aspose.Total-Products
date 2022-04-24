@@ -31,8 +31,7 @@ otherformats: POWERPOINT DOCX PPTX WORD
 
 {{% blocks/products/pf/agp/code-autogen title="用于 XLTM 到 DOC 转换的 .NET C# 代码" gistPath="" %}}
 
-```cs
-// load the XLTM file using Workbook class
+```cs// load the XLTM file using Workbook class
 var book = new Aspose.Cells.Workbook("input.xltm");
 // save XLTM as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 

@@ -1,5 +1,5 @@
 ---
-title: C # API เพื่อส่งออก EMAIL ไปยัง FLATOPC
+title: C# API เพื่อส่งออก EMAIL ไปยัง FLATOPC
 description: แปลง EMAIL เป็น FLATOPC โดยไม่ต้องใช้ Microsoft Word หรือ Outlook บน .NET
 url: /th/net/conversion/email-to-flatopc/
 family: total
@@ -17,7 +17,7 @@ otherformats: PCL DOCX GIF PDF TIFF MD PNG PS TEXT RTF SVG EMF DOTM JPEG XPS DOC
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C # API เพื่อแปลง EMAIL เป็น FLATOPC" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C# API เพื่อแปลง EMAIL เป็น FLATOPC" %}}
 1. เปิดไฟล์ EMAIL โดยใช้คลาส [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage)
 2. แปลง EMAIL เป็น HTML โดยใช้วิธีการ [Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
 3. โหลด HTML โดยใช้คลาส [Document](https://apireference.aspose.com/words/net/aspose.words/document)
@@ -33,15 +33,15 @@ otherformats: PCL DOCX GIF PDF TIFF MD PNG PS TEXT RTF SVG EMF DOTM JPEG XPS DOC
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 MailMessage message = MailMessage.Load("sourceFile.msg");
  
 message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
 
 Document document = new Document("HtmlOutput.html");
-// call save method while passing SaveFormat.FlatOpc
+
 document.Save("output.flatopc", SaveFormat.FlatOpc); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -50,13 +50,13 @@ document.Save("output.flatopc", SaveFormat.FlatOpc);
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 var outlookMessageFile = MapiMessage.FromFile("message.msg");
  
 if(outlookMessageFile.SenderName == "John"){
     
 }
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -65,13 +65,13 @@ if(outlookMessageFile.SenderName == "John"){
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("HtmlOutput.html");
 
 document.Protect(ProtectionType.ReadOnly, "password");
-// call save method while passing SaveFormat.FlatOpc
+
 document.Save("output.flatopc", SaveFormat.FlatOpc);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

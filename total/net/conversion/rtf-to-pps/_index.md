@@ -17,7 +17,6 @@ description: Convert Word rtf documents to PowerPoint pps files with C#. Convert
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -61,8 +60,7 @@ PM> Install-Package Aspose.Total
 
 {{% blocks/products/pf/agp/code-block title="This code sample shows how to convert a RTF to PPS using C#" offSpacer="" %}}
 
-```cs
-// Load the Single Page Microsoft Word RTF file
+```cs// Load the Single Page Microsoft Word RTF file
 Aspose.Words.Document rtf = new Aspose.Words.Document("sourceWordFile.rtf");
 
 // Save RTF file to HTML 

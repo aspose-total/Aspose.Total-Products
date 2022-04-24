@@ -16,8 +16,8 @@ A fejlesztőknek gyakran programozottan kell konvertálniuk a DOCX fájlt PPSM-v
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hogyan lehet DOCX-t PPSM-vé konvertálni Java-n keresztül" %}}
-1. Nyissa meg a DOCX-fájlt a [Docxument](https://apireference.aspose.com/words/java/com.aspose.words/Docxument) osztály használatával
-2. Alakítsa át a DOCX fájlt HTML formátumba a [save](https://apireference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,com.aspose.words.SaveOptions) segítségével )) módszer
+1. Nyissa meg a DOCX-fájlt a [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) osztály használatával
+2. Alakítsa át a DOCX fájlt HTML formátumba a [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) segítségével )) módszer
 3. Inicializáljon egy új [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) objektumot
 5. Bontsa ki a tartalmat a HTML-fájlból a BufferedReader segítségével, és írja be a tartalmat a bemutatófájlba
 6. Mentse a dokumentumot az PPSM-be a [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) módszerrel
@@ -30,14 +30,16 @@ Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads] webhelyről 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-docx-to-pptx.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Konverziós követelmények" %}}
 Az API azt is lehetővé teszi, hogy jelszóval védett DOCX dokumentumokat konvertáljon PPSM-vé. Ha a bevitt DOCX-dokumentum jelszóval védett, nem konvertálhatja PPSM formátumba jelszó nélkül. A titkosított dokumentum megnyitásához beállíthatja a megfelelő jelszót a LoadOptions objektumban, és átadhatja a dokumentum konstruktorának.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-docx-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-docx-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -13,7 +13,7 @@ otherformats: FLATOPC PS XAMLFLOW OTT WORDML DOTM MHTML DOTX ODT RTF MARKDOWN DO
 {{< blocks/products/pf/i18n/feature-page-header h1="PCL megjelenítése WORDML-ben .NET-en keresztül" h2=".NET API a PCL exportálásához WORDML-be Windows, macOS és Linux rendszeren Microsoft Word használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Az [Aspose.Total for .NET](https://products.aspose.com/total/net/) egy hatékony API dokumentumkezelési és -konverziós szolgáltatások hozzáadásához a .NET-alkalmazásokon belül. A fejlett PDF-feldolgozási API [Aspose.PDF for .NET] (https://products.aspose.com/pdf/net/) használatával a PCL-fájlformátumot DOC-formátumba konvertálhatja. Ezt követően a hatékony dokumentumfeldolgozási API [Aspose.Words for .NET] (https://products.aspose.com/words/net/) használatával a DOC-t WORDML-be renderelheti.
+Az [Aspose.Total for .NET](https://products.aspose.com/total/net/) egy hatékony API dokumentumkezelési és -konverziós szolgáltatások hozzáadásához a .NET-alkalmazásokon belül. A fejlett PDF-feldolgozási API [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) használatával a PCL-fájlformátumot DOC-formátumba konvertálhatja. Ezt követően a hatékony dokumentumfeldolgozási API [Aspose.Words for .NET](https://products.aspose.com/words/net/) használatával a DOC-t WORDML-be renderelheti.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -41,7 +41,8 @@ document.Save("DocOutput.doc", SaveFormat.Doc);
 var outputDocument = new Aspose.Words.Document("DocOutput.doc");
 // call save method while passing SaveFormat.WordML
 outputDocument.Save("output.wordml", SaveFormat.WordML);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -56,7 +57,8 @@ Document document = new Document("Decrypt.pcl", "password");
 document.Decrypt();
  
 document.Save("Decrypt_out.doc");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -71,7 +73,8 @@ Document document = new Document("input.doc");
 document.Protect(ProtectionType.ReadOnly, "password");
 // call save method while passing SaveFormat.WordML
 document.Save("output.wordml", SaveFormat.WordML);    
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,6 +1,6 @@
 ---
 title: API .NET pour convertir ODT en XLSX
-description: API C # pour convertir ODT en XLSX sans utiliser Microsoft Excel ou Adobe Reader
+description: API C# pour convertir ODT en XLSX sans utiliser Microsoft Excel ou Adobe Reader
 url: /fr/net/conversion/odt-to-xlsx/
 family: total
 platformtag: net
@@ -27,29 +27,32 @@ En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), v
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
 Installez à partir de la ligne de commande en tant que ```nuget install Aspose.Total``` ou via la console du gestionnaire de packages de Visual Studio avec ```Install-Package Aspose.Total```.
 
-Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les DLL dans un fichier ZIP à partir de [téléchargements] (https://downloads.aspose.com/total/net).
+Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les DLL dans un fichier ZIP à partir de [téléchargements](https://downloads.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Charger le odtument ODT à partir du flux via C #" %}}
+{{% blocks/products/pf/feature-page-section  h2="Charger le odtument ODT à partir du flux via C#" %}}
 [Aspose.Words pour .NET](https://products.aspose.com/words/net/) vous permet également de charger un odtument ODT via un flux. Pour ouvrir un odtument à partir d'un flux, transmettez simplement un objet de flux contenant le odtument dans le constructeur [Odtument](https://apireference.aspose.com/words/net/aspose.words/odtument). L'exemple de code suivant montre comment ouvrir un odtument à partir d'un flux :  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Ajouter des propriétés personnalisées dans le fichier XLSX via C #" %}}
+{{% blocks/products/pf/feature-page-section  h2="Ajouter des propriétés personnalisées dans le fichier XLSX via C#" %}}
 Lors de la conversion de ODT en XLSX, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) vous permet d'ajouter des propriétés personnalisées dans vos odtuments XLSX. Pour ajouter une propriété personnalisée, vous pouvez utiliser la méthode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customodtumentpropertycollection/methods/add/index) pour la [CustomOdtumentPropertyCollection]( https://apireference.aspose.com/cells/net/aspose.cells.properties/customodtumentpropertycollection). La méthode Add ajoute la propriété au fichier Excel et renvoie une référence pour la nouvelle propriété de odtument en tant que [Aspose.Cells.Properties.OdtumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /odtumentpropriété). 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

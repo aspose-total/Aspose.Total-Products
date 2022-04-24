@@ -18,8 +18,8 @@ otherformats: DOCXM TEXT DOCX RTF DOTX WORDML ODT DOTM FLATOPC OTT WORD DOT
 {{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง PPS เป็น DOCX ผ่าน Java" %}}
 1. เปิดไฟล์ PPS โดยใช้คลาส [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. แปลง PPS เป็น HTML โดยใช้ [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides ISaveOptions-) และตั้งค่า Html เป็น SaveFormat
-3. โหลดไฟล์ HTML ที่แปลงแล้วโดยใช้คลาส [Docxument](https://apireference.aspose.com/words/java/com.aspose.words/Docxument)
-4. บันทึกเอกสารในรูปแบบ DOCX โดยใช้วิธีการ [save](https://apireference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,int))
+3. โหลดไฟล์ HTML ที่แปลงแล้วโดยใช้คลาส [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+4. บันทึกเอกสารในรูปแบบ DOCX โดยใช้วิธีการ [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
 สำหรับการแปลงไฟล์ PPS เป็น DOCX คุณสามารถใช้ Aspose.Total สำหรับ Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) ตามโครงการและรวมไลบรารีใน pom.xml ของคุณ
@@ -29,14 +29,16 @@ otherformats: DOCXM TEXT DOCX RTF DOTX WORDML ODT DOTM FLATOPC OTT WORD DOT
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="ข้อกำหนดการแปลง" %}}
-เมื่อใช้ API คุณยังสามารถทำการแปลงไฟล์ PPS เป็น DOCX ด้วยลายน้ำ ในการเพิ่มลายน้ำให้กับเอกสาร DOCX ของคุณ ก่อนอื่นให้แปลงไฟล์ PPS เป็น HTML และเพิ่มลายน้ำลงไป ในการเพิ่มลายน้ำ ให้โหลดไฟล์ HTML ที่สร้างขึ้นใหม่โดยใช้คลาส [Docxument](https://apireference.aspose.com/words/java/com.aspose.words/Docxument) สร้างอินสแตนซ์ของ TextWatermarkOptions และตั้งค่า คุณสมบัติของมัน วิธี Call Watermark.setText และส่งข้อความลายน้ำ & วัตถุของ TextWatermarkOptions  
+{{% blocks/products/pf/feature-page-section  h2="ข้อกำหนดการแปลง" %}}[Document]
+เมื่อใช้ API คุณยังสามารถทำการแปลงไฟล์ PPS เป็น DOCX ด้วยลายน้ำ ในการเพิ่มลายน้ำให้กับเอกสาร DOCX ของคุณ ก่อนอื่นให้แปลงไฟล์ PPS เป็น HTML และเพิ่มลายน้ำลงไป ในการเพิ่มลายน้ำ ให้โหลดไฟล์ HTML ที่สร้างขึ้นใหม่โดยใช้คลาส [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) สร้างอินสแตนซ์ของ TextWatermarkOptions และตั้งค่า คุณสมบัติของมัน วิธี Call Watermark.setText และส่งข้อความลายน้ำ & วัตถุของ TextWatermarkOptions  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

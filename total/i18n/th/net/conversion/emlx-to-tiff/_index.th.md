@@ -1,5 +1,5 @@
 ---
-title: C # API เพื่อส่งออก EMLX ไปยัง TIFF
+title: C# API เพื่อส่งออก EMLX ไปยัง TIFF
 description: แปลง EMLX เป็น TIFF โดยไม่ต้องใช้ Microsoft Word หรือ Outlook บน .NET
 url: /th/net/conversion/emlx-to-tiff/
 family: total
@@ -17,7 +17,7 @@ otherformats: TIFF DOTX PNG TEXT PCL ODT PS DOTM PDF GIF WORDML DOCX JPEG EMF OT
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C # API เพื่อแปลง EMLX เป็น TIFF" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C# API เพื่อแปลง EMLX เป็น TIFF" %}}
 1. เปิดไฟล์ EMLX โดยใช้คลาส [MailMessage](https://apireference.aspose.com/emlx/net/aspose.emlx/mailmessage)
 2. แปลง EMLX เป็น HTML โดยใช้วิธีการ [Save](https://apireference.aspose.com/emlx/net/aspose.emlx.mailmessage/save/methods/3)
 3. โหลด HTML โดยใช้คลาส [Document](https://apireference.aspose.com/words/net/aspose.words/document)
@@ -33,7 +33,6 @@ otherformats: TIFF DOTX PNG TEXT PCL ODT PS DOTM PDF GIF WORDML DOCX JPEG EMF OT
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 MailMessage message = MailMessage.Load("sourceFile.emlx");
  
 message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
@@ -41,7 +40,8 @@ message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
 Document document = new Document("HtmlOutput.html");
 
 document.Save("output.tiff", SaveFormat.Tiff); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -49,14 +49,14 @@ document.Save("output.tiff", SaveFormat.Tiff);
 ก่อนแปลง EMLX เป็น TIFF หากคุณต้องการแน่ใจว่าคุณกำลังแปลงอีเมลที่ถูกต้อง คุณสามารถโหลดเอกสาร EMLX แยกวิเคราะห์ และดูคุณสมบัติที่คุณต้องการได้ โดยใช้ [MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) คลาสของ [Aspose.Emlx for .NET](https://products.aspose.com/emlx /net/) API คุณสามารถรับข้อมูลผู้ส่งและผู้รับ ตัวอย่างเช่น คุณสามารถตรวจสอบอีเมลผู้ส่งเฉพาะสำหรับการแปลงโดยใช้คุณสมบัติ [SenderName](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername)  
 {{% blocks/products/pf/feature-page-code %}}
 
-```cs
-// instantiate MapiMessage to load an EMLX file from disk
+```cs// instantiate MapiMessage to load an EMLX file from disk
 var outlookMessageFile = MapiMessage.FromFile("message.emlx");
  
 if(outlookMessageFile.SenderName == "John"){
     
 }
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -65,13 +65,13 @@ if(outlookMessageFile.SenderName == "John"){
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("HtmlOutput.html");
 
 document.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.tiff", SaveFormat.Tiff);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

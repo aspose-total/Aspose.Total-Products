@@ -18,7 +18,7 @@ Al utilizar [Aspose.Total para .NET](https://products.aspose.com/total/net/), pu
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET para convertir WORDML a XLSB" %}}
-1. Abra el archivo WORDML usando la clase [Wordmlumento] (https://apireference.aspose.com/words/net/aspose.words/wordmlument)
+1. Abra el archivo WORDML usando la clase [Wordmlumento](https://apireference.aspose.com/words/net/aspose.words/wordmlument)
 2. Convierta WORDML a HTML usando el método [Guardar](https://apireference.aspose.com/words/net/aspose.words.wordmlument/save/methods/4)
 3. Cargue el wordmlumento HTML utilizando la clase [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Guarde el wordmlumento en formato XLSB usando el método [Guardar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) y configure `XLSB` como SaveFormat
@@ -33,7 +33,8 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 [Aspose.Words for .NET](https://products.aspose.com/words/net/) también le permite cargar wordmlumentos WORDML a través de la transmisión. Para abrir un wordmlumento desde una secuencia, simplemente pase un objeto de secuencia que contenga el wordmlumento al constructor [Wordmlumento](https://apireference.aspose.com/words/net/aspose.words/wordmlument). El siguiente ejemplo de código muestra cómo abrir un wordmlumento desde una secuencia:  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 Al convertir WORDML a XLSB, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) le permite agregar propiedades personalizadas en sus wordmlumentos XLSB. Para agregar una propiedad personalizada, puede usar el método [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customwordmlumentpropertycollection/methods/add/index) para la [CustomWordmlumentPropertyCollection]( https://apireference.aspose.com/cells/net/aspose.cells.properties/customwordmlumentpropertycollection) clase. El método Add agrega la propiedad al archivo de Excel y devuelve una referencia para la propiedad del nuevo wordmlumento como [Aspose.Cells.Properties.WordmlumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /propiedadwordmlumento) objeto. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

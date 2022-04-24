@@ -21,7 +21,7 @@ otherformats: XLSB FODS XLT XLSM XLSX XLTX EXCEL XLAM ODS DIF XLTM XLS SXC TSV
 1. Откройте файл DOTM, используя класс [Dotmument](https://apireference.aspose.com/words/net/aspose.words/dotmument).
 2. Преобразуйте DOTM в HTML, используя метод [Сохранить](https://apireference.aspose.com/words/net/aspose.words.dotmument/save/methods/4).
 3. Загрузите HTML-документ с помощью класса [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
-4. Сохраните документ в формате FODS с помощью метода [Сохранить] (https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) и установите «FODS» в качестве формата сохранения.
+4. Сохраните документ в формате FODS с помощью метода [Сохранить](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) и установите «FODS» в качестве формата сохранения.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}
@@ -33,7 +33,8 @@ otherformats: XLSB FODS XLT XLSM XLSX XLTX EXCEL XLAM ODS DIF XLTM XLS SXC TSV
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ otherformats: XLSB FODS XLT XLSM XLSX XLTX EXCEL XLAM ODS DIF XLTM XLS SXC TSV
 [Aspose.Words for .NET](https://products.aspose.com/words/net/) также позволяет загружать документ DOTM через поток. Чтобы открыть документ из потока, просто передайте объект потока, содержащий документ, в конструктор [Dotmument](https://apireference.aspose.com/words/net/aspose.words/dotmument). В следующем примере кода показано, как открыть документ из потока:  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: XLSB FODS XLT XLSM XLSX XLTX EXCEL XLAM ODS DIF XLTM XLS SXC TSV
 При преобразовании DOTM в FODS [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) позволяет добавлять пользовательские свойства в документы FODS. Чтобы добавить пользовательское свойство, вы можете использовать метод [Добавить](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection/methods/add/index) для [CustomDotmumentPropertyCollection]( https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection). Метод Add добавляет свойство в файл Excel и возвращает ссылку на новое свойство документа в виде [Aspose.Cells.Properties.DotmumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties). /dotmumentproperty) объект. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

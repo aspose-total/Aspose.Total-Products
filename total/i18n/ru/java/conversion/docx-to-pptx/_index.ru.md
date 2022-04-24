@@ -12,32 +12,34 @@ otherformats: POTX PPTM POT POTM PPSM POWERPOINT PPSX PPT PPS PPTX CSV DIF FODS 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Преобразование DOCX в PPTX через Java" h2="Преобразование DOCX в PPTX с помощью локального Java API в любых приложениях Java J2SE, J2EE, J2ME без использования Microsoft<sup>&reg;</sup> PowerPoint или Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Часто разработчикам приходится программно преобразовывать файл DOCX в PPTX. Используя библиотеки Java для автоматизации файлов [Aspose.Total for Java](https://products.aspose.com/total/java/), вы можете автоматизировать процесс рендеринга, выполнив несколько простых шагов. Вы можете загрузить файл DOCX с помощью [Aspose.Words for Java](https://products.aspose.com/words/java/) и преобразовать его в HTML. После этого, используя мощный Java-API для манипулирования PowerPoint [Aspose.Slides for Java] (https://products.aspose.com/slides/java/), вы можете создать новую презентацию, записать в нее HTML-контент и сохранить его как PPTX. .
+Часто разработчикам приходится программно преобразовывать файл DOCX в PPTX. Используя библиотеки Java для автоматизации файлов [Aspose.Total for Java](https://products.aspose.com/total/java/), вы можете автоматизировать процесс рендеринга, выполнив несколько простых шагов. Вы можете загрузить файл DOCX с помощью [Aspose.Words for Java](https://products.aspose.com/words/java/) и преобразовать его в HTML. После этого, используя мощный Java-API для манипулирования PowerPoint [Aspose.Slides for Java](https://products.aspose.com/slides/java/), вы можете создать новую презентацию, записать в нее HTML-контент и сохранить его как PPTX. .
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как конвертировать DOCX в PPTX через Java" %}}
-1. Откройте файл DOCX, используя класс [Docxument](https://apireference.aspose.com/words/java/com.aspose.words/Docxument).
-2. Преобразуйте файл DOCX в HTML, используя [save](https://apireference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,com.aspose.words.SaveOptions). )) метод
+1. Откройте файл DOCX, используя класс [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document).
+2. Преобразуйте файл DOCX в HTML, используя [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions). )) метод
 3. Инициализируйте новый объект [Презентация](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation).
 5. Извлеките содержимое из файла HTML с помощью BufferedReader и запишите содержимое в файл презентации.
 6. Сохраните документ в PPTX, используя метод [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
-Для преобразования файлов DOCX в PPTX вы можете легко использовать Aspose.Total для Java непосредственно из [Maven] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) и включите библиотеки в ваш pom.xml.
+Для преобразования файлов DOCX в PPTX вы можете легко использовать Aspose.Total для Java непосредственно из [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) и включите библиотеки в ваш pom.xml.
 
-Кроме того, вы можете получить ZIP-файл из [загрузки] (https://downloads.aspose.com/total/java).
+Кроме того, вы можете получить ZIP-файл из [загрузки](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-docx-to-pptx.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Требования к конвертации" %}}
 API также позволяет преобразовывать защищенные паролем документы DOCX в PPTX. Если ваш входной документ DOCX защищен паролем, вы не можете преобразовать его в формат PPTX без использования пароля. Чтобы открыть зашифрованный документ, вы можете установить правильный пароль в объекте LoadOptions и передать его конструктору документа.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-docx-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-docx-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -17,7 +17,6 @@ description: Преобразование документов PowerPoint potm �
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -60,8 +59,7 @@ PM> Install-Package Aspose.Total
 
 {{% blocks/products/pf/agp/code-block title="В этом примере кода показано, как преобразовать POTM в FLATOPC с помощью C#." offSpacer="" %}}
 
-```cs
-// Загрузите POTM-файл Microsoft PowerPoint
+```cs// Загрузите POTM-файл Microsoft PowerPoint
 Aspose.Slides.Presentation potm = new Aspose.Slides.Presentation("source.potm");
 
 var stream = new MemoryStream();

@@ -31,8 +31,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
-```cs
-// load MHTML file with an instance of Document class
+```cs// load MHTML file with an instance of Document class
 Document document = new Document("input.mhtml");
 // save MHTML as a PPTX 
 document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
@@ -47,8 +46,7 @@ presentation.Save("output.odp", SaveFormat.Odp);
 {{% blocks/products/pf/feature-page-section  h2="Get XMP Metadata from MHTML File via .NET" %}}
 While converting MHTML to ODP, you might need extra XMP metadata information to prioritize your batch conversion process. For example you can get and sort your conversion documents based on creation date and process the documents accordingly. [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) allows you to access a MHTML file’s XMP metadata. To get a MHTML file’s metadata, you can create a [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) object and open the input MHTML file. After that, you can get the file’s metadata using the [Metadata](https://apireference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata) property.
 {{% blocks/products/pf/feature-page-code %}}
-```cs
-// open MHTML document
+```cs// open MHTML document
 Document doc = new Document("input.mhtml");
 // get MHTML XMP properties
 Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
@@ -61,8 +59,7 @@ Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
 {{% blocks/products/pf/feature-page-section  h2="Create Read Only ODP File via .NET" %}}
  By using [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) API, you can further enhance the features of your conversion application. One of the feature can be to create your output file read only to increase security. The API allows you to set your ODP file to Read-Only, which means users (after they open the presentation) see the Read-Only recommendation.
 {{% blocks/products/pf/feature-page-code %}}
-```cs
-// load PPTX with an instance of Presentation
+```cs// load PPTX with an instance of Presentation
 Presentation presentation = new Presentation("PptxOutput.pptx");
 // make ODP read only
 presentation.ProtectionManager.ReadOnlyRecommended = true;

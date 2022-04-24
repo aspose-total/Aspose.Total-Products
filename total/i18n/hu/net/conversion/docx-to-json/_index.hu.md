@@ -13,13 +13,13 @@ otherformats: FODS XLTX XLSM XLS XLT XLSB ODS CSV TSV XLTM EXCEL SXC XLAM DIF
 {{< blocks/products/pf/i18n/feature-page-header h1="A DOCX konvertálása JSON formátumba a C# segítségével" h2="Elemezze a DOCX-t JSON-ba C#-on keresztül Microsoft<sup>&reg;</sup> Word vagy Excel használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Az [Aspose.Total for .NET] (https://products.aspose.com/total/net/) használatával bármely .NET, C#, ASP.NET és VB.NET alkalmazáson belül a DOCX-t JSON formátumba konvertálhatja két részből egyszerű lépéseket. Először is, az [Aspose.Words for .NET] (https://products.aspose.com/words/net/) használatával exportálhatja a DOCX-t HTML-be. Ezt követően az [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API használatával konvertálhatja a HTML-t JSON-ba.
+Az [Aspose.Total for .NET](https://products.aspose.com/total/net/) használatával bármely .NET, C#, ASP.NET és VB.NET alkalmazáson belül a DOCX-t JSON formátumba konvertálhatja két részből egyszerű lépéseket. Először is, az [Aspose.Words for .NET](https://products.aspose.com/words/net/) használatával exportálhatja a DOCX-t HTML-be. Ezt követően az [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API használatával konvertálhatja a HTML-t JSON-ba.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="A DOCX konvertálása JSON formátumba a C# segítségével" %}}
-1. Nyissa meg a DOCX-fájlt a [Docxument](https://apireference.aspose.com/words/net/aspose.words/docxument) osztály használatával
-2. Alakítsa át a DOCX-t HTML-vé a [Mentés](https://apireference.aspose.com/words/net/aspose.words.docxument/save/methods/4) módszerrel
+1. Nyissa meg a DOCX-fájlt a [Document](https://apireference.aspose.com/words/net/aspose.words/document) osztály használatával
+2. Alakítsa át a DOCX-t HTML-vé a [Mentés](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) módszerrel
 3. Töltsön be HTML-dokumentumot a [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) osztály használatával
 4. Mentse a dokumentumot JSON formátumba a [Mentés](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) módszerrel
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -33,7 +33,8 @@ Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eke
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "3320154ab7b06def2475ce90c7703f13" "convert-word-to-json.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eke
 Az API segítségével a jelszóval védett dokumentumot is megnyithatja. Ha a bevitt DOCX-dokumentum jelszóval védett, nem konvertálhatja azt JSON-formátumba a jelszó használata nélkül. Az API lehetővé teszi a titkosított dokumentum megnyitását a megfelelő jelszó átadásával egy LoadOptions objektumban. A következő kódpélda bemutatja, hogyan próbáljon meg jelszóval megnyitni egy titkosított dokumentumot:  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "3320154ab7b06def2475ce90c7703f13" "convert-protected-word-to-json.cs" >}}
+{{< gist "aspose-com-gists" "3320154ab7b06def2475ce90c7703f13" "convert-protected-word-to-json.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Az API segítségével a jelszóval védett dokumentumot is megnyithatja. Ha a b
 Miközben a DOCX-t JSON-ba konvertálja, beállíthatja a kimeneti JSON-formátum tartományát is. A tartomány beállításához megnyithatja a konvertált HTML-t a Workbook osztály segítségével, lekérheti az adatokat tartalmazó munkalap CellsCollection-jét, létrehozhat egy tartományt a CellsCollection-ből sor- és oszlopindexek megadásával, és meghívhatja az ExportRangeToJson metódust Range & ExportRangeToJsonOptions objektumokra való hivatkozásokkal. Végül a JSON-adatokat fájlba mentheti a File.WriteAllText metódussal. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "3320154ab7b06def2475ce90c7703f13" "convert-word-to-json-range.cs" >}}
+{{< gist "aspose-com-gists" "3320154ab7b06def2475ce90c7703f13" "convert-word-to-json-range.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

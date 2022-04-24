@@ -17,7 +17,6 @@ description: Convert PowerPoint odp documents to Word wordml files with C#. Conv
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -60,8 +59,7 @@ PM> Install-Package Aspose.Total
 
 {{% blocks/products/pf/agp/code-block title="This code sample shows how to convert a ODP to WORDML using C#" offSpacer="" %}}
 
-```cs
-// Load the Microsoft PowerPoint ODP file
+```cs// Load the Microsoft PowerPoint ODP file
 Aspose.Slides.Presentation odp = new Aspose.Slides.Presentation("source.odp");
 
 var stream = new MemoryStream();

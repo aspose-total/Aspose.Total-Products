@@ -41,28 +41,30 @@ document.Save("DocOutput.doc", SaveFormat.Doc);
 var outputDocument = new Aspose.Words.Document("DocOutput.doc");
 // call save method while passing SaveFormat.WordML
 outputDocument.Save("output.wordml", SaveFormat.WordML);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2=".NET経由で所有者パスワードを使用してXPSファイルを復号化する" %}}
 XPSをWORDMLに変換する前に、ドキュメントを復号化する場合は、APIを使用して復号化できます。 PDFファイルを復号化するには、最初に[Document]（https://apireference.aspose.com/pdf/net/aspose.pdf/document）オブジェクトを作成し、所有者のパスワードを使用してXPSを開く必要があります。その後、Documentオブジェクトの[Decrypt]（https://apireference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt）メソッドを呼び出す必要があります。最後に、DocumentオブジェクトのSaveメソッドを使用して更新されたファイルを保存します。  
 {{% blocks/products/pf/feature-page-code %}}
-
 ```cs
+
 
 Document document = new Document("Decrypt.xps", "password");
 
 document.Decrypt();
  
 document.Save("Decrypt_out.doc");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2=".NET経由で読み取り専用WORDML-ファイルを作成" %}}
 WORDMLを編集から保護し、他の人がドキュメント内の機密情報を編集するのを防ぐために、APIを使用してドキュメントの保護を設定することもできます。ドキュメントを編集する機能を制限し、特定のアクションのみを許可することができます。これは、[Aspose.Words for .NET]（https://products.aspose.com/words/net/）APIを使用して実行できます。 [ProtectionType]（https://apireference.aspose.com/words/net/aspose.words/protectiontype）列挙型パラメーターを使用して、コンテンツを制限する方法を制御できます。次のコード行を使用して、ドキュメントを読み取り専用に設定できます。 
-{{% blocks/products/pf/feature-page-code %}}
+```cs
 
 ```cs
 
@@ -71,7 +73,8 @@ Document document = new Document("input.doc");
 document.Protect(ProtectionType.ReadOnly, "password");
 // call save method while passing SaveFormat.WordML
 document.Save("output.wordml", SaveFormat.WordML);    
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -13,7 +13,7 @@ otherformats: XAML PPSX PPS PPT SWF PPSM POTM PPTM POWERPOINT POT OTP POTX
 {{< blocks/products/pf/i18n/feature-page-header h1="XPS megjelenítése OTP-nek .NET-en keresztül" h2=".NET API a XPS exportálásához OTP-be Windows, macOS és Linux rendszeren a Microsoft<sup>&reg;</sup> PowerPoint használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Hatékony fájlformátum-automatizálási API-k csomagja [Aspose.Total for .NET] (https://products.aspose.com/total/net/) segítségével két egyszerű lépésben egyszerűen renderelheti le a XPS-et OTP-ben. A PDF-feldolgozási API [Aspose.PDF for .NET] (https://products.aspose.com/pdf/net/) használatával a XPS-fájlformátumot PPTX-re alakíthatja át. Ezt követően a Presentation Processing API [Aspose.Slides for .NET] (https://products.aspose.com/slides/net/) használatával a PPTX-t OTP-vé alakíthatja.
+Hatékony fájlformátum-automatizálási API-k csomagja [Aspose.Total for .NET](https://products.aspose.com/total/net/) segítségével két egyszerű lépésben egyszerűen renderelheti le a XPS-et OTP-ben. A PDF-feldolgozási API [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) használatával a XPS-fájlformátumot PPTX-re alakíthatja át. Ezt követően a Presentation Processing API [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) használatával a PPTX-t OTP-vé alakíthatja.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -41,7 +41,8 @@ document.Save("PptxOutput.pptx", SaveFormat.Pptx);
 Presentation presentation = new Presentation("PptxOutput.pptx");
 
 presentation.Save("output.otp", SaveFormat.Otp);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -56,7 +57,8 @@ Document doc = new Document("input.xps");
 Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
 Console.WriteLine(doc.Metadata["xmp:Nickname"]);
 Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -71,7 +73,8 @@ Presentation presentation = new Presentation("PptxOutput.pptx");
 presentation.ProtectionManager.ReadOnlyRecommended = true;
 
 presentation.Save("output.otp", SaveFormat.Otp);     
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -17,7 +17,6 @@ description: Преобразование документов PowerPoint odp в
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -60,8 +59,7 @@ PM> Install-Package Aspose.Total
 
 {{% blocks/products/pf/agp/code-block title="В этом примере кода показано, как преобразовать ODP в WORDML с помощью C#." offSpacer="" %}}
 
-```cs
-// Загрузите ODP-файл Microsoft PowerPoint
+```cs// Загрузите ODP-файл Microsoft PowerPoint
 Aspose.Slides.Presentation odp = new Aspose.Slides.Presentation("source.odp");
 
 var stream = new MemoryStream();

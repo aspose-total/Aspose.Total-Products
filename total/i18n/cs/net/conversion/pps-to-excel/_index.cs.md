@@ -13,27 +13,28 @@ otherformats: XLT ODS XLTX XLTM EXCEL SXC MHTML MARKDOWN FODS DIF XLSB XLAM TSV 
 {{< blocks/products/pf/i18n/feature-page-header h1="Převést PPS na EXCEL přes C#" h2=".NET API pro převod PPS do EXCEL bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Pomocí [Aspose.Total for .NET](https://products.aspose.com/total/net/) můžete převést soubor PPS na EXCEL v rámci libovolné aplikace .NET, C#, ASP.NET a VB.NET ve dvou jednoduché kroky. Za prvé, pomocí [Aspose.Slides for .NET] (https://products.aspose.com/slides/net/) můžete exportovat PPS do HTML. Ppsé můžete pomocí rozhraní [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API převést HTML na EXCEL.
+Pomocí [Aspose.Total for .NET](https://products.aspose.com/total/net/) můžete převést soubor PPS na EXCEL v rámci libovolné aplikace .NET, C#, ASP.NET a VB.NET ve dvou jednoduché kroky. Za prvé, pomocí [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) můžete exportovat PPS do HTML. Ppsé můžete pomocí rozhraní [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API převést HTML na EXCEL.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak převést PPS na EXCEL přes C#" %}}
 1. Otevřete soubor PPS pomocí třídy [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-2. Exportujte PPS jako HTML pomocí metody [Uložit](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
-3. Načtěte dokument HTML pomocí třídy [Sešit](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Uložte dokument do EXCEL pomocí metody [Uložit](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+2. Exportujte PPS jako HTML pomocí metody [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+3. Načtěte dokument HTML pomocí třídy [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+4. Uložte dokument do EXCEL pomocí metody [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Instalujte z příkazového řádku jako ```nuget install Aspose.Total``` nebo pomocí konzoly Správce balíčků sady Visual Studio s ```Install-Package Aspose.Total```.
 
-Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení] (https://downloads.aspose.com/total/net).
+Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení](https://downloads.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ Případně si stáhněte offline instalační program MSI nebo knihovny DLL v s
 Při převodu souboru PPS na EXCEL, pokud je váš vstupní dokument PPS chráněn heslem, nemůžete jej převést na EXCEL bez dešifrování dokumentu. Když je váš dokument chráněn heslem, znamená to, že vyžaduje určitá omezení prezentace. Pro odstranění omezení je nutné zadat heslo. Prezentace chráněná heslem je považována za zamčenou prezentaci. Rozhraní API vám umožňuje otevřít zašifrovaný dokument předáním správného hesla v objektu LoadOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Při převodu souboru PPS na EXCEL, pokud je váš vstupní dokument PPS chrán�
 Při převodu souboru PPS na EXCEL můžete také přidat vodoznak do výstupního formátu souboru EXCEL. Chcete-li přidat vodoznak, můžete vytvořit nový objekt Workbook a otevřít převedený HTML dokument, vybrat Worksheet přes jeho index, vytvořit Shape a použít jeho funkci AddTextEffect. Ppsé můžete svůj HTML dokument uložit jako EXCEL s vodoznakem. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

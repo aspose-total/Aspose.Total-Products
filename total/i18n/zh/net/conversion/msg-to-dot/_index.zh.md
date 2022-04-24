@@ -33,7 +33,6 @@ otherformats: TEXT FLATOPC XPS DOCM DOTM RTF OTT EMF PCL ODT GIF JPEG PDF PS WOR
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 MailMessage message = MailMessage.Load("sourceFile.msg");
  
 message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
@@ -41,14 +40,14 @@ message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
 Document document = new Document("HtmlOutput.html");
 
 document.Save("output.dot", SaveFormat.Dot); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="通过 .NET 解析 MSG 文件" %}}
 在将 MSG 转换为 DOT 之前，如果您想确保您正在转换正确的电子邮件，您可以加载 MSG 文档，对其进行解析并查看您想要的属性。通过使用 [Aspose.Msg for .NET](https://products.aspose.com/msg) 的 [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) 类/net/) API，可以获取发件人和收件人信息。例如，您可以使用 [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername) 属性检查转换的特定发件人电子邮件。  
 {{% blocks/products/pf/feature-page-code %}}
-
 ```cs
 
 var outlookMessageFile = MapiMessage.FromFile("message.msg");
@@ -56,22 +55,22 @@ var outlookMessageFile = MapiMessage.FromFile("message.msg");
 if(outlookMessageFile.SenderName == "John"){
     
 }
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="通过 .NET 限制 DOT 文档编辑" %}}
 在将文档从 MSG 保存到 DOT 时，您可能需要保护您的输出文档。有时您可能需要限制编辑文档的能力，只允许对其进行某些操作。这对于防止其他人编辑您文档中的敏感和机密信息很有用。 [Aspose.Words for .NET](https://products.aspose.com/words/net/) API，使您能够使用 [ProtectionType](https://apireference.aspose. com/words/net/aspose.words/protectiontype) 枚举参数。您可以使用以下代码行将文档设置为只读。 
-{{% blocks/products/pf/feature-page-code %}}
-
 ```cs
-
+```cs
 Document document = new Document("HtmlOutput.html");
 
 document.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.dot", SaveFormat.Dot);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

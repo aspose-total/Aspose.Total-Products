@@ -13,7 +13,7 @@ otherformats: XAMLFLOW DOT MHTML PCL MARKDOWN RTF PS GIF OTT WORDML ODT DOTM
 {{< blocks/products/pf/i18n/feature-page-header h1=".NET . के माध्यम से डीओसीएम को सीजीएम प्रस्तुत करना" h2="माइक्रोसॉफ्ट वर्ड का उपयोग किए बिना विंडोज़, मैकोज़ और लिनक्स पर सीजीएम को डीओसीएम में निर्यात करने के लिए नेट एपीआई" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for .NET](https://products.aspose.com/total/net/) आपके .NET एप्लिकेशन के अंदर दस्तावेज़ हेरफेर और रूपांतरण सुविधाओं को जोड़ने के लिए एक शक्तिशाली एपीआई है। उन्नत PDF संसाधन API [.NET के लिए Aspose.PDF] (https://products.aspose.com/pdf/net/) का उपयोग करके, आप CGM फ़ाइल स्वरूप को DOC में बदल सकते हैं। उसके बाद, शक्तिशाली दस्तावेज़ प्रसंस्करण API [Aspose.Words for .NET](https://products.aspose.com/words/net/) का उपयोग करके, आप GIF को DOC प्रस्तुत कर सकते हैं।
+[Aspose.Total for .NET](https://products.aspose.com/total/net/) आपके .NET एप्लिकेशन के अंदर दस्तावेज़ हेरफेर और रूपांतरण सुविधाओं को जोड़ने के लिए एक शक्तिशाली एपीआई है। उन्नत PDF संसाधन API [.NET के लिए Aspose.PDF](https://products.aspose.com/pdf/net/) का उपयोग करके, आप CGM फ़ाइल स्वरूप को DOC में बदल सकते हैं। उसके बाद, शक्तिशाली दस्तावेज़ प्रसंस्करण API [Aspose.Words for .NET](https://products.aspose.com/words/net/) का उपयोग करके, आप GIF को DOC प्रस्तुत कर सकते हैं।
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -27,7 +27,7 @@ otherformats: XAMLFLOW DOT MHTML PCL MARKDOWN RTF PS GIF OTT WORDML ODT DOTM
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
 कमांड लाइन से ```nuget install Aspose.Total``` के रूप में या ````Install-Package Aspose.Total`` के साथ विजुअल स्टूडियो के पैकेज मैनेजर कंसोल के माध्यम से इंस्टॉल करें।
 
-वैकल्पिक रूप से, [डाउनलोड] (https://downloads.aspose.com/total/net) से ज़िप फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें।
+वैकल्पिक रूप से, [डाउनलोड](https://downloads.aspose.com/total/net) से ज़िप फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें।
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
@@ -41,7 +41,8 @@ document.Save("DocOutput.doc", SaveFormat.Doc);
 var outputDocument = new Aspose.Words.Document("DocOutput.doc");
 
 outputDocument.Save("output.gif", SaveFormat.Gif);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -56,7 +57,8 @@ Document document = new Document("Decrypt.cgm", "password");
 document.Decrypt();
  
 document.Save("Decrypt_out.doc");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -71,7 +73,8 @@ Document document = new Document("input.doc");
 document.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.gif", SaveFormat.Gif);    
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

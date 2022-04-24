@@ -1,6 +1,6 @@
 ---
 title: API .NET pour convertir DOCM en XLSM
-description: API C # pour convertir DOCM en XLSM sans utiliser Microsoft Excel ou Adobe Reader
+description: API C# pour convertir DOCM en XLSM sans utiliser Microsoft Excel ou Adobe Reader
 url: /fr/net/conversion/docm-to-xlsm/
 family: total
 platformtag: net
@@ -27,29 +27,32 @@ En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), v
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
 Installez à partir de la ligne de commande en tant que ```nuget install Aspose.Total``` ou via la console du gestionnaire de packages de Visual Studio avec ```Install-Package Aspose.Total```.
 
-Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les DLL dans un fichier ZIP à partir de [téléchargements] (https://downloads.aspose.com/total/net).
+Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les DLL dans un fichier ZIP à partir de [téléchargements](https://downloads.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Charger le docmument DOCM à partir du flux via C #" %}}
+{{% blocks/products/pf/feature-page-section  h2="Charger le docmument DOCM à partir du flux via C#" %}}
 [Aspose.Words pour .NET](https://products.aspose.com/words/net/) vous permet également de charger un docmument DOCM via un flux. Pour ouvrir un docmument à partir d'un flux, transmettez simplement un objet de flux contenant le docmument dans le constructeur [Docmument](https://apireference.aspose.com/words/net/aspose.words/docmument). L'exemple de code suivant montre comment ouvrir un docmument à partir d'un flux :  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Ajouter des propriétés personnalisées dans le fichier XLSM via C #" %}}
+{{% blocks/products/pf/feature-page-section  h2="Ajouter des propriétés personnalisées dans le fichier XLSM via C#" %}}
 Lors de la conversion de DOCM en XLSM, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) vous permet d'ajouter des propriétés personnalisées dans vos docmuments XLSM. Pour ajouter une propriété personnalisée, vous pouvez utiliser la méthode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocmumentpropertycollection/methods/add/index) pour la [CustomDocmumentPropertyCollection]( https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocmumentpropertycollection). La méthode Add ajoute la propriété au fichier Excel et renvoie une référence pour la nouvelle propriété de docmument en tant que [Aspose.Cells.Properties.DocmumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /docmumentpropriété). 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

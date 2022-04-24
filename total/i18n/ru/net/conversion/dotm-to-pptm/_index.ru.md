@@ -17,7 +17,6 @@ description: Преобразование документов Word dotm в фа
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -61,8 +60,7 @@ Aspose.Total для .NET поддерживается во всех основн
 
 {{% blocks/products/pf/agp/code-block title="В этом примере кода показано, как преобразовать DOTM в PPTM с помощью C#." offSpacer="" %}}
 
-```cs
-// Загрузите одностраничный файл Microsoft Word DOTM
+```cs// Загрузите одностраничный файл Microsoft Word DOTM
 Aspose.Words.Document dotm = new Aspose.Words.Document("sourceWordFile.dotm");
 
 // Сохраняем файл DOTM в HTML

@@ -33,15 +33,15 @@ otherformats: DOCM DOTX SVG MD FLATOPC DOTM OTT PCL XPS RTF ODT DOC EPUB WORDML 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 MailMessage message = MailMessage.Load("sourceFile.emlx");
  
 message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
 
 Document document = new Document("HtmlOutput.html");
-// call save method while passing SaveFormat.FlatOpc
+
 document.Save("output.flatopc", SaveFormat.FlatOpc); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -49,14 +49,14 @@ document.Save("output.flatopc", SaveFormat.FlatOpc);
 EMLX을 FLATOPC로 변환하기 전에 올바른 이메일을 변환하고 있는지 확인하려면 EMLX 문서를 로드하고 구문 분석한 다음 원하는 속성을 살펴보세요. [Aspose.Emlx for .NET](https://products.aspose.com/emlx)의 [MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) 클래스를 사용하여 /net/) API를 사용하여 발신자 및 수신자 정보를 얻을 수 있습니다. 예를 들어 [SenderName](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername) 속성을 사용하여 변환할 특정 발신자 이메일을 확인할 수 있습니다.  
 {{% blocks/products/pf/feature-page-code %}}
 
-```cs
-// instantiate MapiMessage to load an EMLX file from disk
+```cs// instantiate MapiMessage to load an EMLX file from disk
 var outlookMessageFile = MapiMessage.FromFile("message.emlx");
  
 if(outlookMessageFile.SenderName == "John"){
     
 }
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -65,13 +65,13 @@ EMLX에서 FLATOPC로 문서를 저장하는 동안 출력 문서를 보호해�
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("HtmlOutput.html");
 
 document.Protect(ProtectionType.ReadOnly, "password");
 // call save method while passing SaveFormat.FlatOpc
 document.Save("output.flatopc", SaveFormat.FlatOpc);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

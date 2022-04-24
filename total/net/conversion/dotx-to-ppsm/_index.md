@@ -17,7 +17,6 @@ description: Convert Word dotx documents to PowerPoint ppsm files with C#. Conve
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -61,8 +60,7 @@ PM> Install-Package Aspose.Total
 
 {{% blocks/products/pf/agp/code-block title="This code sample shows how to convert a DOTX to PPSM using C#" offSpacer="" %}}
 
-```cs
-// Load the Single Page Microsoft Word DOTX file
+```cs// Load the Single Page Microsoft Word DOTX file
 Aspose.Words.Document dotx = new Aspose.Words.Document("sourceWordFile.dotx");
 
 // Save DOTX file to HTML 

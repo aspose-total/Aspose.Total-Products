@@ -13,7 +13,7 @@ otherformats: POT POTM POWERPOINT OTP PPSM PPSX PPTM PPT POTX XAML PPS SWF
 {{< blocks/products/pf/i18n/feature-page-header h1=".NET . के माध्यम से ओडीपी को सीजीएम प्रस्तुत करना" h2=".NET API Microsoft<sup>&reg;</sup> PowerPoint का उपयोग किए बिना Windows, macOS और Linux पर PPT को XML निर्यात करने के लिए" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-शक्तिशाली फ़ाइल फ़ॉर्मेट ऑटोमेशन APIs [Aspose.Total for .NET] (https://products.aspose.com/total/net/) के पैकेज का उपयोग करके आप आसानी से दो सरल चरणों में XML को PPT को प्रस्तुत कर सकते हैं। PDF संसाधन API [.NET के लिए Aspose.PDF] (https://products.aspose.com/pdf/net/) का उपयोग करके, आप XML फ़ाइल स्वरूप को PPTX में बदल सकते हैं। उसके बाद, प्रेजेंटेशन प्रोसेसिंग एपीआई [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) का उपयोग करके, आप PPTX को PPT में बदल सकते हैं।
+शक्तिशाली फ़ाइल फ़ॉर्मेट ऑटोमेशन APIs [Aspose.Total for .NET](https://products.aspose.com/total/net/) के पैकेज का उपयोग करके आप आसानी से दो सरल चरणों में XML को PPT को प्रस्तुत कर सकते हैं। PDF संसाधन API [.NET के लिए Aspose.PDF](https://products.aspose.com/pdf/net/) का उपयोग करके, आप XML फ़ाइल स्वरूप को PPTX में बदल सकते हैं। उसके बाद, प्रेजेंटेशन प्रोसेसिंग एपीआई [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) का उपयोग करके, आप PPTX को PPT में बदल सकते हैं।
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -27,7 +27,7 @@ otherformats: POT POTM POWERPOINT OTP PPSM PPSX PPTM PPT POTX XAML PPS SWF
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
 कमांड लाइन से ```nuget install Aspose.Total``` के रूप में या ````Install-Package Aspose.Total`` के साथ विजुअल स्टूडियो के पैकेज मैनेजर कंसोल के माध्यम से इंस्टॉल करें।
 
-वैकल्पिक रूप से, [डाउनलोड] (https://downloads.aspose.com/total/net) से ज़िप फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें।
+वैकल्पिक रूप से, [डाउनलोड](https://downloads.aspose.com/total/net) से ज़िप फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें।
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
@@ -41,7 +41,8 @@ document.Save("PptxOutput.pptx", SaveFormat.Pptx);
 Presentation presentation = new Presentation("PptxOutput.pptx");
 
 presentation.Save("output.ppt", SaveFormat.Ppt);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -56,7 +57,8 @@ Document doc = new Document("input.xml");
 Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
 Console.WriteLine(doc.Metadata["xmp:Nickname"]);
 Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -71,7 +73,8 @@ Presentation presentation = new Presentation("PptxOutput.pptx");
 presentation.ProtectionManager.ReadOnlyRecommended = true;
 
 presentation.Save("output.ppt", SaveFormat.Ppt);     
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

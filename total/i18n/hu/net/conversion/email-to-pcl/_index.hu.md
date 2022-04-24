@@ -13,7 +13,7 @@ otherformats: DOTX EPUB ODT RTF GIF DOCX FLATOPC DOC TIFF JPEG EMF SVG PS PCL MD
 {{< blocks/products/pf/i18n/feature-page-header h1="Exportálja az EMAIL-t PCL-be .NET-en keresztül" h2=".NET API az EMAIL PCL formátumban való megjelenítéséhez Windows, macOS és Linux rendszeren Word vagy Outlook használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Ha Ön .NET-fejlesztő, szeretné hozzáadni az EMAIL-t az alkalmazásokon belüli PCL-konverziós funkciókhoz, az [Aspose.Total for .NET](https://products.aspose.com/total/net/) fájlformátum-manipulációs API-k jelentik az utat. előre. Az [Aspose.Email for .NET] (https://products.aspose.com/email/net/) használatával konvertálhatja az EMAIL fájlformátumot HTML-re. Ezt követően az [Aspose.Words for .NET] (https://products.aspose.com/words/net/) használatával a HTML-t PCL-be renderelheti.
+Ha Ön .NET-fejlesztő, szeretné hozzáadni az EMAIL-t az alkalmazásokon belüli PCL-konverziós funkciókhoz, az [Aspose.Total for .NET](https://products.aspose.com/total/net/) fájlformátum-manipulációs API-k jelentik az utat. előre. Az [Aspose.Email for .NET](https://products.aspose.com/email/net/) használatával konvertálhatja az EMAIL fájlformátumot HTML-re. Ezt követően az [Aspose.Words for .NET](https://products.aspose.com/words/net/) használatával a HTML-t PCL-be renderelheti.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -41,7 +41,8 @@ message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
 Document document = new Document("HtmlOutput.html");
 
 document.Save("output.pcl", SaveFormat.Pcl); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -56,7 +57,8 @@ var outlookMessageFile = MapiMessage.FromFile("message.msg");
 if(outlookMessageFile.SenderName == "John"){
     
 }
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -71,7 +73,8 @@ Document document = new Document("HtmlOutput.html");
 document.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.pcl", SaveFormat.Pcl);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

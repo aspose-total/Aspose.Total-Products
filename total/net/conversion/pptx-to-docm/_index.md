@@ -17,7 +17,6 @@ description: Convert PowerPoint pptx documents to Word docm files with C#. Conve
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -60,8 +59,7 @@ PM> Install-Package Aspose.Total
 
 {{% blocks/products/pf/agp/code-block title="This code sample shows how to convert a PPTX to DOCM using C#" offSpacer="" %}}
 
-```cs
-// Load the Microsoft PowerPoint PPTX file
+```cs// Load the Microsoft PowerPoint PPTX file
 Aspose.Slides.Presentation pptx = new Aspose.Slides.Presentation("source.pptx");
 
 var stream = new MemoryStream();

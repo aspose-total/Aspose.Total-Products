@@ -17,7 +17,6 @@ description: 使用 C# 将 Word rtf 文档转换为 PowerPoint pptm 文件。在
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -61,8 +60,7 @@ PM> Install-Package Aspose.Total
 
 {{% blocks/products/pf/agp/code-block title="此代码示例展示了如何使用 C# 将 RTF 转换为 PPTM" offSpacer="" %}}
 
-```cs
-// 加载单页 Microsoft Word RTF 文件
+```cs// 加载单页 Microsoft Word RTF 文件
 Aspose.Words.Document rtf = new Aspose.Words.Document("sourceWordFile.rtf");
 
 // 将 RTF 文件保存为 HTML 

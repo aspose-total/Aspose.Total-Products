@@ -13,15 +13,15 @@ otherformats: POT PPSM PPS SWF XAML POWERPOINT POTX POTM PPSX PPTM PPT OTP
 {{< blocks/products/pf/i18n/feature-page-header h1="Рендеринг PS в POT через .NET" h2=".NET API для экспорта PS в POT в Windows, macOS и Linux без использования Microsoft<sup>&reg;</sup> PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Используя пакет мощных API-интерфейсов автоматизации форматов файлов [Aspose.Total для .NET] (https://products.aspose.com/total/net/), вы можете легко преобразовать PS в POT, выполнив два простых шага. Используя API обработки PDF [Aspose.PDF для .NET] (https://products.aspose.com/pdf/net/), вы можете преобразовать формат файла PS в PPTX. После этого с помощью API обработки презентаций [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) вы можете конвертировать PPTX в POT.
+Используя пакет мощных API-интерфейсов автоматизации форматов файлов [Aspose.Total для .NET](https://products.aspose.com/total/net/), вы можете легко преобразовать PS в POT, выполнив два простых шага. Используя API обработки PDF [Aspose.PDF для .NET](https://products.aspose.com/pdf/net/), вы можете преобразовать формат файла PS в PPTX. После этого с помощью API обработки презентаций [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) вы можете конвертировать PPTX в POT.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API для преобразования PS в POT" %}}
 1. Откройте файл PS, используя класс [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document).
 2. Преобразуйте PS в PPTX, используя метод [Сохранить](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5).
-3. Загрузите файл PPTX с помощью класса [Презентация] (https://apireference.aspose.com/slides/net/aspose.slides/presentation).
-4. Сохраните документ в формате POT с помощью метода [Сохранить] (https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) и установите «Pot» в качестве SaveFormat.
+3. Загрузите файл PPTX с помощью класса [Презентация](https://apireference.aspose.com/slides/net/aspose.slides/presentation).
+4. Сохраните документ в формате POT с помощью метода [Сохранить](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) и установите «Pot» в качестве SaveFormat.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}
@@ -33,7 +33,6 @@ otherformats: POT PPSM PPS SWF XAML POWERPOINT POTX POTM PPSX PPTM PPT OTP
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("input.ps");
  
 document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
@@ -41,22 +40,23 @@ document.Save("PptxOutput.pptx", SaveFormat.Pptx);
 Presentation presentation = new Presentation("PptxOutput.pptx");
 
 presentation.Save("output.pot", SaveFormat.Pot);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Получить метаданные XMP из файла PS через .NET" %}}
-При преобразовании PS в POT вам может понадобиться дополнительная информация о метаданных XMP, чтобы определить приоритетность процесса пакетного преобразования. Например, вы можете получать и сортировать документы преобразования по дате создания и соответствующим образом обрабатывать документы. [Aspose.PDF для .NET] (https://products.aspose.com/pdf/net/) позволяет получить доступ к метаданным XMP файла PS. Чтобы получить метаданные файла PS, вы можете создать объект [Документ] (https://apireference.aspose.com/pdf/net/aspose.pdf/document) и открыть входной файл PS. После этого вы можете получить метаданные файла с помощью свойства [Метаданные](https://apireference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata).  
+При преобразовании PS в POT вам может понадобиться дополнительная информация о метаданных XMP, чтобы определить приоритетность процесса пакетного преобразования. Например, вы можете получать и сортировать документы преобразования по дате создания и соответствующим образом обрабатывать документы. [Aspose.PDF для .NET](https://products.aspose.com/pdf/net/) позволяет получить доступ к метаданным XMP файла PS. Чтобы получить метаданные файла PS, вы можете создать объект [Документ](https://apireference.aspose.com/pdf/net/aspose.pdf/document) и открыть входной файл PS. После этого вы можете получить метаданные файла с помощью свойства [Метаданные](https://apireference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document doc = new Document("input.ps");
 
 Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
 Console.WriteLine(doc.Metadata["xmp:Nickname"]);
 Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -65,13 +65,13 @@ Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Presentation presentation = new Presentation("PptxOutput.pptx");
 
 presentation.ProtectionManager.ReadOnlyRecommended = true;
 
 presentation.Save("output.pot", SaveFormat.Pot);     
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

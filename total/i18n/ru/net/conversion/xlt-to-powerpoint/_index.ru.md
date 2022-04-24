@@ -33,8 +33,7 @@ otherformats: WORD DOCX PPTX DOC
 
 {{% blocks/products/pf/agp/code-autogen title="Код .NET C# для преобразования XLT в POWERPOINT" gistPath="" %}}
 
-```cs
-// load the XLT file using Workbook class
+```cs// load the XLT file using Workbook class
 var book = new Aspose.Cells.Workbook("input.xlt");
 // save XLT as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 

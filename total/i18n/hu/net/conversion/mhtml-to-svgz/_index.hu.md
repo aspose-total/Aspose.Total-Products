@@ -13,13 +13,13 @@ otherformats: SVGZ WMF TGA JPEG2000  IMAGE DXF WMZ EMZ PSD DICOM
 {{< blocks/products/pf/i18n/feature-page-header h1="MHTML-fájl konvertálása SVGZ-re C#-on keresztül" h2="MHTML exportálása SVGZ-be .NET-alkalmazásokon belül Adobe<sup>&reg;</sup> Acrobat Reader vagy bármely más harmadik féltől származó alkalmazás használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Az [Aspose.Total for .NET] (https://products.aspose.com/total/net/) használatával két egyszerű lépésben könnyedén exportálhatja a MHTML-et SVGZ-képfájlba bármely .NET-alkalmazáson belül. Először is, az [Aspose.PDF for .NET] (https://products.aspose.com/pdf/net/) használatával exportálhatja a MHTML-et JPEG formátumba. Ezt követően az [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API használatával konvertálhatja a JPEG-et SVGZ-vé.
+Az [Aspose.Total for .NET](https://products.aspose.com/total/net/) használatával két egyszerű lépésben könnyedén exportálhatja a MHTML-et SVGZ-képfájlba bármely .NET-alkalmazáson belül. Először is, az [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) használatával exportálhatja a MHTML-et JPEG formátumba. Ezt követően az [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API használatával konvertálhatja a JPEG-et SVGZ-vé.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="A MHTML-fájl konvertálása SVGZ-re .NET-en keresztül" %}}
 1. Nyissa meg a MHTML-fájlt a [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) osztály használatával
-2. Inicializálja a [JpegDevice](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) osztályobjektumot, és a [Process] (https://apireference.aspose.) segítségével jelenítse meg a MHTML-et JPEG formátumba. com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) módszer
+2. Inicializálja a [JpegDevice](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) osztályobjektumot, és a [Process](https://apireference.aspose.) segítségével jelenítse meg a MHTML-et JPEG formátumba. com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) módszer
 3. Töltse be a JPEG fájlt az [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) osztály használatával
 4. Mentse a dokumentumot SVGZ formátumba a [Mentés](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) módszerrel
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -33,7 +33,8 @@ Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eke
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-image.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -42,15 +43,16 @@ Az API használatával a MHTML-fájlt SVGZ-re is konvertálhatja egyetlen képf�
 és mentse SVGZ formátumba a [Mentés](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) módszerrel.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-single-file.cs" >}}
+{{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-single-file.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-
 {{% blocks/products/pf/feature-page-section  h2="MHTML-fájl konvertálása és elforgatása SVGZ-re C#-on keresztül" %}}
-Az API használatával igény szerint elforgathatja a kimeneti SVGZ-képet is. Az Image.RotateFlip módszerrel a kép 90/180/270 fokkal elforgatható, és vízszintesen vagy függőlegesen elforgatható. Megadhatja a képre alkalmazandó elforgatás és tükrözés típusát. A kép elforgatásához és megfordításához betöltheti az átalakított JPEG képet az [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) osztály által exponált gyári módszerrel, és meghívhatja a képet. .RotateFlip metódust, miközben megadja a megfelelő [RotateFlipType] (https://apireference.aspose.com/imaging/net/aspose.imaging/rotatefliptype). 
+Az API használatával igény szerint elforgathatja a kimeneti SVGZ-képet is. Az Image.RotateFlip módszerrel a kép 90/180/270 fokkal elforgatható, és vízszintesen vagy függőlegesen elforgatható. Megadhatja a képre alkalmazandó elforgatás és tükrözés típusát. A kép elforgatásához és megfordításához betöltheti az átalakított JPEG képet az [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) osztály által exponált gyári módszerrel, és meghívhatja a képet. .RotateFlip metódust, miközben megadja a megfelelő [RotateFlipType](https://apireference.aspose.com/imaging/net/aspose.imaging/rotatefliptype). 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-and-rotate-pdf-to-image.cs" >}}
+{{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-and-rotate-pdf-to-image.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -31,8 +31,7 @@ otherformats: DOC POWERPOINT PPTX WORD
 
 {{% blocks/products/pf/agp/code-autogen title="用于 FODS 到 DOCX 转换的 .NET C# 代码" gistPath="" %}}
 
-```cs
-// load the FODS file using Workbook class
+```cs// load the FODS file using Workbook class
 var book = new Aspose.Cells.Workbook("input.fods");
 // save FODS as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 

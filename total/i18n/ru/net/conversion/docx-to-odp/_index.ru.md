@@ -17,7 +17,6 @@ description: Преобразование документов Word docx в фа
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -61,8 +60,7 @@ Aspose.Total для .NET поддерживается во всех основн
 
 {{% blocks/products/pf/agp/code-block title="В этом примере кода показано, как преобразовать DOCX в ODP с помощью C#." offSpacer="" %}}
 
-```cs
-// Загрузите одностраничный файл Microsoft Word DOCX
+```cs// Загрузите одностраничный файл Microsoft Word DOCX
 Aspose.Words.Document docx = new Aspose.Words.Document("sourceWordFile.docx");
 
 // Сохраняем файл DOCX в HTML

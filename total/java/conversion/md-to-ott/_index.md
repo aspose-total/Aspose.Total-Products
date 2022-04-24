@@ -47,8 +47,7 @@ outputDocument.save("output.ott", SaveFormat.OTT);
 {{% blocks/products/pf/feature-page-section  h2="Open Password Protected MD Document via Java" %}}
 While converting MD to OTT, even if your document is password protected, you can still open it using PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). In order to open the encrypted file, you need to create a [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) object and open the MD using the owner’s password. 
 {{% blocks/products/pf/feature-page-code %}}
-```cs
-// open encrypted document
+```cs// open encrypted document
 Document document = new Document("input.md", "password");
 // save MD as a DOC 
 document.save("DocOutput.doc", SaveFormat.DOC);

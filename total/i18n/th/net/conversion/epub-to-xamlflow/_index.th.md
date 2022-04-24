@@ -1,5 +1,5 @@
 ---
-title: C # API เพื่อส่งออก EPUB ไปยัง XAMLFLOW
+title: C# API เพื่อส่งออก EPUB ไปยัง XAMLFLOW
 description: แปลง EPUB เป็น XAMLFLOW โดยไม่ต้องใช้ Microsoft Word
 url: /th/net/conversion/epub-to-xamlflow/
 family: total
@@ -17,7 +17,7 @@ otherformats: WORDML DOTX MHTML XAMLFLOW MARKDOWN OTT DOTM DOT ODT PS RTF PCL
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C # API เพื่อแปลง EPUB เป็น XAMLFLOW" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C# API เพื่อแปลง EPUB เป็น XAMLFLOW" %}}
 1. เปิดไฟล์ EPUB โดยใช้คลาส [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
 2. แปลง EPUB เป็น Doc โดยใช้วิธีการ [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
 3. โหลดไฟล์ Doc โดยใช้ [Document](https://apireference.aspose.com/words/net/aspose.words/document) คลาสของ Aspose.Words
@@ -33,7 +33,6 @@ otherformats: WORDML DOTX MHTML XAMLFLOW MARKDOWN OTT DOTM DOT ODT PS RTF PCL
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("template.epub");
  
 document.Save("DocOutput.doc", SaveFormat.Doc); 
@@ -41,7 +40,8 @@ document.Save("DocOutput.doc", SaveFormat.Doc);
 var outputDocument = new Aspose.Words.Document("DocOutput.doc");
 
 outputDocument.Save("output.xamlflow", SaveFormat.Xamlflow);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -50,13 +50,13 @@ outputDocument.Save("output.xamlflow", SaveFormat.Xamlflow);
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("Decrypt.epub", "password");
 
 document.Decrypt();
  
 document.Save("Decrypt_out.doc");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -65,13 +65,13 @@ document.Save("Decrypt_out.doc");
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("input.doc");
 
 document.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.xamlflow", SaveFormat.Xamlflow);    
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

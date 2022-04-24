@@ -16,8 +16,8 @@ otherformats: XLSM XLTX SXC XLT ODS TSV FODS XLSX XLSB XLTM DIF XLAM XLS EXCEL
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C ++ API เพื่อแปลง DOCX เป็น TSV" %}}
-1. เปิดไฟล์ DOCX โดยใช้คลาส [Docxument](https://apireference.aspose.com/words/java/com.aspose.words/Docxument)
-2. แปลง DOCX เป็น HTML โดยใช้ [บันทึก](https://apireference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,com.aspose.words.SaveOptions) ) กระบวนการ
+1. เปิดไฟล์ DOCX โดยใช้คลาส [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. แปลง DOCX เป็น HTML โดยใช้ [บันทึก](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) กระบวนการ
 3. โหลดเอกสาร HTML โดยใช้คลาส [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. บันทึกเอกสารเป็นรูปแบบ TSV โดยใช้ [บันทึก](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. SaveOptions)) วิธีการ
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -29,21 +29,24 @@ otherformats: XLSM XLTX SXC XLT ODS TSV FODS XLSX XLSB XLTM DIF XLAM XLS EXCEL
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-word-to-excel.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="ข้อกำหนดการแปลง" %}}
-ก่อนแปลง DOCX เป็น TSV คุณสามารถลบข้อมูลที่ไม่ได้ใช้ออกจากเอกสาร DOCX ผ่าน [Aspose.Words for Java](https://products.aspose.com/words/java/) บางครั้ง คุณอาจต้องลบข้อมูลที่ไม่ได้ใช้หรือทำซ้ำเพื่อลดขนาดของเอกสารที่ส่งออกและเวลาในการประมวลผล คลาส [CleanupOptions](https://apireference.aspose.com/words/java/com.aspose.words/CleanupOptions) ให้คุณระบุตัวเลือกสำหรับการทำความสะอาดเอกสาร หากต้องการลบสไตล์ที่ซ้ำกันหรือเพียงแค่สไตล์หรือรายการที่ไม่ได้ใช้ออกจากเอกสาร คุณสามารถใช้เมธอด [Cleanup](https://apireference.aspose.com/words/java/com.aspose.words/Docxument#cleanup()) คุณสามารถใช้ [UnusedStyles](https://apireference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) และ [UnusedBuiltinStyles](https://apireference.aspose.com/words/java /com.aspose.words/cleanupoptions#UnusedBuiltinStyles) คุณสมบัติเพื่อตรวจจับและลบสไตล์ที่ทำเครื่องหมายเป็น “ไม่ได้ใช้”  
+ก่อนแปลง DOCX เป็น TSV คุณสามารถลบข้อมูลที่ไม่ได้ใช้ออกจากเอกสาร DOCX ผ่าน [Aspose.Words for Java](https://products.aspose.com/words/java/) บางครั้ง คุณอาจต้องลบข้อมูลที่ไม่ได้ใช้หรือทำซ้ำเพื่อลดขนาดของเอกสารที่ส่งออกและเวลาในการประมวลผล คลาส [CleanupOptions](https://apireference.aspose.com/words/java/com.aspose.words/CleanupOptions) ให้คุณระบุตัวเลือกสำหรับการทำความสะอาดเอกสาร หากต้องการลบสไตล์ที่ซ้ำกันหรือเพียงแค่สไตล์หรือรายการที่ไม่ได้ใช้ออกจากเอกสาร คุณสามารถใช้เมธอด [Cleanup](https://apireference.aspose.com/words/java/com.aspose.words/Document#cleanup()) คุณสามารถใช้ [UnusedStyles](https://apireference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) และ [UnusedBuiltinStyles](https://apireference.aspose.com/words/java /com.aspose.words/cleanupoptions#UnusedBuiltinStyles) คุณสมบัติเพื่อตรวจจับและลบสไตล์ที่ทำเครื่องหมายเป็น “ไม่ได้ใช้”  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-docxument.java" >}}
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-document.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="ลบข้อมูลที่ไม่ได้ใช้ออกจากเอกสาร DOCX ผ่าน Java" %}}
 หลังจากแปลง DOCX เป็น TSV แล้ว [Aspose.Cells for Java](https://products.aspose.com/cells/java/) จะช่วยให้คุณบันทึกเอกสารเพื่อสตรีมได้ หากคุณต้องการบันทึกไฟล์ไปยัง Stream คุณควรสร้างวัตถุ FileOutputStream จากนั้น [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io. OutputStream,%20com.aspose.cells.SaveOptions)) ไฟล์ไปยังวัตถุ Stream นั้นโดยเรียกวิธีการบันทึกของ [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) วัตถุ. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

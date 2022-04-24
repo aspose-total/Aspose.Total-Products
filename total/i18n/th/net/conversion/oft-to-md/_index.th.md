@@ -1,5 +1,5 @@
 ---
-title: C # API เพื่อส่งออก OFT ไปยัง MD
+title: C# API เพื่อส่งออก OFT ไปยัง MD
 description: แปลง OFT เป็น MD โดยไม่ต้องใช้ Microsoft Word หรือ Outlook บน .NET
 url: /th/net/conversion/oft-to-md/
 family: total
@@ -17,7 +17,7 @@ otherformats: SVG TEXT DOCM WORDML PNG EPUB FLATOPC GIF OTT PS DOT JPEG TIFF DOT
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C # API เพื่อแปลง OFT เป็น MD" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C# API เพื่อแปลง OFT เป็น MD" %}}
 1. เปิดไฟล์ OFT โดยใช้คลาส [MailMessage](https://apireference.aspose.com/oft/net/aspose.oft/mailmessage)
 2. แปลง OFT เป็น HTML โดยใช้วิธีการ [Save](https://apireference.aspose.com/oft/net/aspose.oft.mailmessage/save/methods/3)
 3. โหลด HTML โดยใช้คลาส [Document](https://apireference.aspose.com/words/net/aspose.words/document)
@@ -33,7 +33,6 @@ otherformats: SVG TEXT DOCM WORDML PNG EPUB FLATOPC GIF OTT PS DOT JPEG TIFF DOT
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 MailMessage message = MailMessage.Load("sourceFile.oft");
  
 message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
@@ -41,7 +40,8 @@ message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
 Document document = new Document("HtmlOutput.html");
 
 document.Save("output.md", SaveFormat.Md); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -49,14 +49,14 @@ document.Save("output.md", SaveFormat.Md);
 ก่อนแปลง OFT เป็น MD หากคุณต้องการแน่ใจว่าคุณกำลังแปลงอีเมลที่ถูกต้อง คุณสามารถโหลดเอกสาร OFT แยกวิเคราะห์ และดูคุณสมบัติที่คุณต้องการได้ โดยใช้ [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) คลาสของ [Aspose.Oft for .NET](https://products.aspose.com/oft /net/) API คุณสามารถรับข้อมูลผู้ส่งและผู้รับ ตัวอย่างเช่น คุณสามารถตรวจสอบอีเมลผู้ส่งเฉพาะสำหรับการแปลงโดยใช้คุณสมบัติ [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername)  
 {{% blocks/products/pf/feature-page-code %}}
 
-```cs
-// instantiate MapiMessage to load an OFT file from disk
+```cs// instantiate MapiMessage to load an OFT file from disk
 var outlookMessageFile = MapiMessage.FromFile("message.oft");
  
 if(outlookMessageFile.SenderName == "John"){
     
 }
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -65,13 +65,13 @@ if(outlookMessageFile.SenderName == "John"){
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("HtmlOutput.html");
 
 document.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.md", SaveFormat.Md);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,5 +1,5 @@
 ---
-title: C # API เพื่อส่งออก MSG ไปยัง TIFF
+title: C# API เพื่อส่งออก MSG ไปยัง TIFF
 description: แปลง MSG เป็น TIFF โดยไม่ต้องใช้ Microsoft Word หรือ Outlook บน .NET
 url: /th/net/conversion/msg-to-tiff/
 family: total
@@ -17,7 +17,7 @@ otherformats: OTT TIFF DOCM MD EPUB XPS GIF EMF DOTX PCL DOC PS FLATOPC PDF JPEG
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C # API เพื่อแปลง MSG เป็น TIFF" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C# API เพื่อแปลง MSG เป็น TIFF" %}}
 1. เปิดไฟล์ MSG โดยใช้คลาส [MailMessage](https://apireference.aspose.com/msg/net/aspose.msg/mailmessage)
 2. แปลง MSG เป็น HTML โดยใช้วิธีการ [Save](https://apireference.aspose.com/msg/net/aspose.msg.mailmessage/save/methods/3)
 3. โหลด HTML โดยใช้คลาส [Document](https://apireference.aspose.com/words/net/aspose.words/document)
@@ -33,7 +33,6 @@ otherformats: OTT TIFF DOCM MD EPUB XPS GIF EMF DOTX PCL DOC PS FLATOPC PDF JPEG
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 MailMessage message = MailMessage.Load("sourceFile.msg");
  
 message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
@@ -41,7 +40,8 @@ message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
 Document document = new Document("HtmlOutput.html");
 
 document.Save("output.tiff", SaveFormat.Tiff); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -50,13 +50,13 @@ document.Save("output.tiff", SaveFormat.Tiff);
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 var outlookMessageFile = MapiMessage.FromFile("message.msg");
  
 if(outlookMessageFile.SenderName == "John"){
     
 }
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -65,13 +65,13 @@ if(outlookMessageFile.SenderName == "John"){
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
-
 Document document = new Document("HtmlOutput.html");
 
 document.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.tiff", SaveFormat.Tiff);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

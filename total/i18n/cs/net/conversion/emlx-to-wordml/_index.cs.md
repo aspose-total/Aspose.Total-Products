@@ -19,15 +19,15 @@ Pokud jste vývojář .NET, který chce přidat EMLX do funkcí převodu WORDML 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API pro převod EMLX na WORDML" %}}
 1. Otevřete soubor EMLX pomocí třídy [MailMessage](https://apireference.aspose.com/emlx/net/aspose.emlx/mailmessage)
-2. Převeďte EMLX na HTML pomocí metody [Uložit](https://apireference.aspose.com/emlx/net/aspose.emlx.mailmessage/save/methods/3)
+2. Převeďte EMLX na HTML pomocí metody [Save](https://apireference.aspose.com/emlx/net/aspose.emlx.mailmessage/save/methods/3)
 3. Načtěte HTML pomocí třídy [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-4. Uložte dokument do formátu WORDML pomocí metody [Uložit](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) a nastavte Wordml jako SaveFormat
+4. Uložte dokument do formátu WORDML pomocí metody [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) a nastavte Wordml jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Instalujte z příkazového řádku jako ```nuget install Aspose.Total``` nebo pomocí konzoly Správce balíčků sady Visual Studio s ```Install-Package Aspose.Total```.
 
-Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení] (https://downloads.aspose.com/total/net).
+Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení](https://downloads.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
@@ -41,12 +41,13 @@ message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
 Document document = new Document("HtmlOutput.html");
 // call save method while passing SaveFormat.WordML
 document.Save("output.wordml", SaveFormat.WordML); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analyzujte soubor EMLX přes .NET" %}}
-Před převodem EMLX na WORDML, pokud se chcete ujistit, že převádíte správný e-mail, můžete načíst dokument EMLX, analyzovat jej a podívat se na požadovanou vlastnost. Pomocí třídy [MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) třídy [Aspose.Emlx pro .NET](https://products.aspose.com/emlx /net/) API, můžete získat informace o odesílateli a příjemcích. Můžete například zkontrolovat e-mail konkrétního odesílatele pro konverzi pomocí vlastnosti [SenderName](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername).  
+Před převodem EMLX na WORDML, pokud se chcete ujistit, že převádíte správný e-mail, můžete načíst dokument EMLX, analyzovat jej a podívat se na požadovanou vlastnost. Pomocí třídy [MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage) třídy [Aspose.Emlx for .NET](https://products.aspose.com/emlx /net/) API, můžete získat informace o odesílateli a příjemcích. Můžete například zkontrolovat e-mail konkrétního odesílatele pro konverzi pomocí vlastnosti [SenderName](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -56,7 +57,8 @@ var outlookMessageFile = MapiMessage.FromFile("message.emlx");
 if(outlookMessageFile.SenderName == "John"){
     
 }
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -71,7 +73,8 @@ Document document = new Document("HtmlOutput.html");
 document.Protect(ProtectionType.ReadOnly, "password");
 // call save method while passing SaveFormat.WordML
 document.Save("output.wordml", SaveFormat.WordML);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

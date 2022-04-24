@@ -17,7 +17,7 @@ otherformats: PPSX PPTM PPSM POWERPOINT PPTX PPT PPS POTX POTM POT CSV DIF FODS 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل OTT إلى POTM عبر Java" %}}
 1. افتح ملف OTT باستخدام فئة [Ottument] (https://apireference.aspose.com/words/java/com.aspose.words/Ottument)
-2. تحويل ملف OTT إلى HTML باستخدام [حفظ] (https://apireference.aspose.com/words/java/com.aspose.words/Ottument#save (java.lang.String، com.aspose.words.SaveOptions )) طريقة
+2. تحويل ملف OTT إلى HTML باستخدام [Save] (https://apireference.aspose.com/words/java/com.aspose.words/Ottument#save (java.lang.String، com.aspose.words.SaveOptions )) طريقة
 3. تهيئة كائن [عرض تقديمي] جديد (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. استخراج المحتوى من ملف HTML باستخدام BufferedReader وكتابة المحتوى في ملف العرض التقديمي الخاص بك
 6. احفظ المستند في POTM باستخدام طريقة [save] (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
@@ -30,14 +30,16 @@ otherformats: PPSX PPTM PPSM POWERPOINT PPTX PPT PPS POTX POTM POT CSV DIF FODS 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-ott-to-pptx.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="متطلبات التحويل" %}}
 تتيح لك واجهة برمجة التطبيقات أيضًا تحويل مستندات OTT المحمية بكلمة مرور إلى POTM. إذا كان مستند OTT الذي أدخلته محميًا بكلمة مرور ، فلا يمكنك تحويله إلى تنسيق POTM بدون استخدام كلمة المرور. لفتح مستند مشفر ، يمكنك تعيين كلمة المرور الصحيحة في كائن LoadOptions وتمريرها إلى مُنشئ المستند.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-ott-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-ott-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

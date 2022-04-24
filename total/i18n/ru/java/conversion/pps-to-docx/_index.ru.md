@@ -18,25 +18,27 @@ otherformats: DOCXM TEXT DOCX RTF DOTX WORDML ODT DOTM FLATOPC OTT WORD DOT
 {{% blocks/products/pf/agp/feature-section-col title="Как преобразовать PPS в DOCX через Java" %}}
 1. Откройте файл PPS, используя класс [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation).
 2. Преобразуйте PPS в HTML, используя [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) и установите Html как SaveFormat
-3. Загрузите преобразованный файл HTML с помощью класса [Docxument](https://apireference.aspose.com/words/java/com.aspose.words/Docxument).
-4. Сохраните документ в формате DOCX, используя метод [save](https://apireference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,int))
+3. Загрузите преобразованный файл HTML с помощью класса [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document).
+4. Сохраните документ в формате DOCX, используя метод [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
-Для преобразования файлов PPS в DOCX вы можете легко использовать Aspose.Total для Java непосредственно из [Maven] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) и включите библиотеки в ваш pom.xml.
+Для преобразования файлов PPS в DOCX вы можете легко использовать Aspose.Total для Java непосредственно из [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) и включите библиотеки в ваш pom.xml.
 
-Кроме того, вы можете получить ZIP-файл из [загрузки] (https://downloads.aspose.com/total/java).
+Кроме того, вы можете получить ZIP-файл из [загрузки](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Требования к конвертации" %}}
-Используя API, вы также можете выполнить преобразование файла PPS в DOCX с водяным знаком. Чтобы добавить водяной знак в документ DOCX, вы можете сначала преобразовать файл PPS в HTML и добавить к нему водяной знак. Чтобы добавить водяной знак, загрузите только что созданный файл HTML с помощью класса [Docxument](https://apireference.aspose.com/words/java/com.aspose.words/Docxument), создайте экземпляр TextWatermarkOptions и установите его свойства, вызвать метод Watermark.setText и передать текст водяного знака и объект TextWatermarkOptions.  
+{{% blocks/products/pf/feature-page-section  h2="Требования к конвертации" %}}[Document]
+Используя API, вы также можете выполнить преобразование файла PPS в DOCX с водяным знаком. Чтобы добавить водяной знак в документ DOCX, вы можете сначала преобразовать файл PPS в HTML и добавить к нему водяной знак. Чтобы добавить водяной знак, загрузите только что созданный файл HTML с помощью класса [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document), создайте экземпляр TextWatermarkOptions и установите его свойства, вызвать метод Watermark.setText и передать текст водяного знака и объект TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

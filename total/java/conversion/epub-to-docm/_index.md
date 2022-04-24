@@ -47,8 +47,7 @@ outputDocument.save("output.docm", SaveFormat.DOCM);
 {{% blocks/products/pf/feature-page-section  h2="Open Password Protected EPUB Document via Java" %}}
 While converting EPUB to DOCM, even if your document is password protected, you can still open it using PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). In order to open the encrypted file, you need to create a [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) object and open the EPUB using the owner’s password. 
 {{% blocks/products/pf/feature-page-code %}}
-```cs
-// open encrypted document
+```cs// open encrypted document
 Document document = new Document("input.epub", "password");
 // save EPUB as a DOC 
 document.save("DocOutput.doc", SaveFormat.DOC);

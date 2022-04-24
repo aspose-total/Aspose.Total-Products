@@ -31,8 +31,7 @@ otherformats: POWERPOINT DOCX WORD DOC
 
 {{% blocks/products/pf/agp/code-autogen title="用于 ODS 到 PPTX 转换的 .NET C# 代码" gistPath="" %}}
 
-```cs
-// load the ODS file using Workbook class
+```cs// load the ODS file using Workbook class
 var book = new Aspose.Cells.Workbook("input.ods");
 // save ODS as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 

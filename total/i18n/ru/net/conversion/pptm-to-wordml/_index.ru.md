@@ -17,7 +17,6 @@ description: Преобразование документов PowerPoint pptm �
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -60,8 +59,7 @@ PM> Install-Package Aspose.Total
 
 {{% blocks/products/pf/agp/code-block title="В этом примере кода показано, как преобразовать PPTM в WORDML с помощью C#." offSpacer="" %}}
 
-```cs
-// Загрузите PPTM-файл Microsoft PowerPoint
+```cs// Загрузите PPTM-файл Microsoft PowerPoint
 Aspose.Slides.Presentation pptm = new Aspose.Slides.Presentation("source.pptm");
 
 var stream = new MemoryStream();

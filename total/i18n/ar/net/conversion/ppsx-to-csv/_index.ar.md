@@ -1,6 +1,6 @@
 ---
-title: تحويل PPSX إلى CSV عبر C #
-description: قم بتحويل PPSX إلى CSV في C # بدون استخدام Microsoft Excel أو Powerpoint
+title: تحويل PPSX إلى CSV عبر C#
+description: قم بتحويل PPSX إلى CSV في C# بدون استخدام Microsoft Excel أو Powerpoint
 url: /ar/net/conversion/ppsx-to-csv/
 family: total
 platformtag: net
@@ -10,46 +10,49 @@ outformat: CSV
 otherformats: XLS EXCEL XLAM SXC ODS XLSX XLTM DIF MARKDOWN XLT XLSM XLTX FODS MHTML XLSB TSV DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="تحويل PPSX إلى CSV عبر C #" h2="NET API لتحويل PPSX إلى CSV بدون استخدام Microsoft <sup> & reg؛ </sup> Excel أو PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="تحويل PPSX إلى CSV عبر C#" h2="NET API لتحويل PPSX إلى CSV بدون استخدام Microsoft<sup>&reg;</sup> Excel أو PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-باستخدام [Aspose.Total for .NET] (https://products.aspose.com/total/net/) يمكنك تحويل ملف PPSX إلى CSV ضمن أي تطبيق .NET و C # و ASP.NET و VB.NET في قسمين خطوات بسيطة. أولاً ، باستخدام [Aspose.Slides for .NET] (https://products.aspose.com/slides/net/) ، يمكنك تصدير PPSX إلى HTML. بعد ذلك ، باستخدام [Aspose.Cells for .NET] (https://products.aspose.com/cells/net/) واجهة برمجة تطبيقات برمجة جداول البيانات ، يمكنك تحويل HTML إلى CSV.
+باستخدام [Aspose.Total for .NET](https://products.aspose.com/total/net/) يمكنك تحويل ملف PPSX إلى CSV ضمن أي تطبيق .NET و C# و ASP.NET و VB.NET في قسمين خطوات بسيطة. أولاً ، باستخدام [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) ، يمكنك تصدير PPSX إلى HTML. بعد ذلك ، باستخدام [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) واجهة برمجة تطبيقات برمجة جداول البيانات ، يمكنك تحويل HTML إلى CSV.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل PPSX إلى CSV عبر C #" %}}
-1. افتح ملف PPSX باستخدام فئة [Presentation] (https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-2. تصدير PPSX بتنسيق HTML باستخدام طريقة [حفظ] (https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
-3. قم بتحميل مستند HTML باستخدام فئة [Workbook] (https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. احفظ المستند في ملف CSV باستخدام طريقة [حفظ] (https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+{{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل PPSX إلى CSV عبر C#" %}}
+1. افتح ملف PPSX باستخدام فئة [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
+2. تصدير PPSX بتنسيق HTML باستخدام طريقة [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+4. احفظ المستند في ملف CSV باستخدام طريقة [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-قم بالتثبيت من سطر الأوامر كـ `` nuget install Aspose.Total ''` أو عبر Package Manager Console في Visual Studio مع `` Install-Package Aspose.Total' '.
+قم بالتثبيت من سطر الأوامر كـ ``nuget install Aspose.Total`` أو عبر Package Manager Console في Visual Studio مع ``Install-Package Aspose.Total``.
 
-بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التنزيلات] (https://downloads.aspose.com/total/net).
+بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [Downloads](https://downloads.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="تحويل المحمية PPSX إلى CSV عبر C #" %}}
+{{% blocks/products/pf/feature-page-section  h2="تحويل المحمية PPSX إلى CSV عبر C#" %}}
 أثناء تحويل ملف PPSX إلى CSV ، إذا كان مستند PPSX الذي تم إدخاله محميًا بكلمة مرور ، فلا يمكنك تحويله إلى CSV بدون فك تشفير المستند. عندما يكون المستند محميًا بكلمة مرور ، فهذا يعني أنه يفرض قيودًا معينة على العرض التقديمي. لإزالة القيود ، يجب إدخال كلمة المرور. يعتبر العرض التقديمي المحمي بكلمة مرور عرضًا تقديميًا مغلقًا. تسمح لك واجهة برمجة التطبيقات بفتح المستند المشفر عن طريق تمرير كلمة المرور الصحيحة في كائن LoadOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="تحويل PPSX إلى CSV مع علامة مائية عبر C #" %}}
+{{% blocks/products/pf/feature-page-section  h2="تحويل PPSX إلى CSV مع علامة مائية عبر C#" %}}
 أثناء تحويل ملف PPSX إلى CSV ، يمكنك أيضًا إضافة علامة مائية إلى تنسيق ملف CSV الناتج. لإضافة علامة مائية ، يمكنك إنشاء كائن مصنف جديد وفتح مستند HTML المحول ، وتحديد ورقة العمل عبر الفهرس الخاص به ، وإنشاء شكل واستخدام وظيفة AddTextEffect الخاصة به. بعد ذلك يمكنك حفظ مستند HTML كملف CSV مع علامة مائية. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

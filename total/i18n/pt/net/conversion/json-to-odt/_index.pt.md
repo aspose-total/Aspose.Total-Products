@@ -1,6 +1,6 @@
 ---
 title: Converter o formato JSON para ODT via .NET
-description: Analise JSON para ODT em C # sem usar o Microsoft Word
+description: Analise JSON para ODT em C# sem usar o Microsoft Word
 url: /pt/net/conversion/json-to-odt/
 family: total
 platformtag: net
@@ -10,14 +10,14 @@ outformat: ODT
 otherformats: DOTX WORD DOT RTF DOC DOCM MOBI OTT WORDML PCL ODT PS FLATOPC EPUB
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converter o formato JSON para ODT via C #" h2="API C# para analisar JSON para ODT sem usar o Microsoft<sup>&reg;</sup> Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converter o formato JSON para ODT via C#" h2="API C# para analisar JSON para ODT sem usar o Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Usando [Aspose.Total for .NET](https://products.aspose.com/total/net/) você pode analisar JSON para ODT dentro de qualquer aplicativo .NET, C#, ASP.NET e VB.NET em duas simples degraus. Em primeiro lugar, usando [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), você pode exportar JSON para PDF. Depois disso, usando [Aspose.Words for .NET](https://products.aspose.com/words/net/), você pode converter PDF para ODT.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Converter o formato JSON para ODT via C #" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Converter o formato JSON para ODT via C#" %}}
 1. Crie um novo objeto [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) e leia dados JSON válidos do arquivo
 2. Importe o arquivo JSON para a planilha usando a classe [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) e [Salvar](https://apireference.aspose.com/ cells/net/aspose.cells.workbook/save/methods/4) como PDF
 3. Carregue o documento PDF usando a classe [Document](https://apireference.aspose.com/words/net/aspose.words/document)
@@ -33,15 +33,17 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-doc.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-
+C#
 {{% blocks/products/pf/feature-page-section  h2="Defina o layout e converta o formato JSON para ODT via C #" %}}
 Ao analisar JSON para ODT, você também pode definir opções de layout para seu JSON usando [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayouttoptions). Ele permite que você processe Array como uma tabela, ignore nulos, ignore título de array, ignore título de objeto, converta string em número ou data, defina data e formato de número e defina estilo de título. Todas essas opções permitem que você apresente seus dados conforme suas necessidades. O trecho de código a seguir mostra como definir as opções de layout.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "set-layout-and-parse-json-to-doc.cs" >}}
+{{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "set-layout-and-parse-json-to-doc.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Ao analisar JSON para ODT, você também pode definir opções de layout para se
 Usando a API, você também pode converter JSON em ODT com marca d'água. Para adicionar uma marca d'água ao seu documento ODT, você pode primeiro analisar o arquivo JSON para PDF e adicionar uma marca d'água a ele. Para adicionar uma marca d'água, carregue o arquivo PDF recém-criado usando a classe [Document](https://apireference.aspose.com/words/net/aspose.words/document), crie uma instância de TextWatermarkOptions e defina suas propriedades , Chame o método Watermark.SetText e passe o texto da marca d'água e o objeto de TextWatermarkOptions. Depois de adicionar a marca d'água, você pode salvar o documento no ODT. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

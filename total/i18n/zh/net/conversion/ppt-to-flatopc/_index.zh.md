@@ -17,7 +17,6 @@ description: 使用 C# 将 PowerPoint ppt 文档转换为 Word flatopc 文件。
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -60,8 +59,7 @@ PM> Install-Package Aspose.Total
 
 {{% blocks/products/pf/agp/code-block title="此代码示例展示了如何使用 C# 将 PPT 转换为 FLATOPC" offSpacer="" %}}
 
-```cs
-// 加载 Microsoft PowerPoint PPT 文件
+```cs// 加载 Microsoft PowerPoint PPT 文件
 Aspose.Slides.Presentation ppt = new Aspose.Slides.Presentation("source.ppt");
 
 var stream = new MemoryStream();

@@ -17,7 +17,6 @@ description: Преобразование документов PowerPoint pps в
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -60,8 +59,7 @@ PM> Install-Package Aspose.Total
 
 {{% blocks/products/pf/agp/code-block title="В этом примере кода показано, как преобразовать PPS в ODT с помощью C#." offSpacer="" %}}
 
-```cs
-// Загрузите PPS-файл Microsoft PowerPoint
+```cs// Загрузите PPS-файл Microsoft PowerPoint
 Aspose.Slides.Presentation pps = new Aspose.Slides.Presentation("source.pps");
 
 var stream = new MemoryStream();

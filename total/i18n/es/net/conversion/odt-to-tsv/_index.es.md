@@ -18,7 +18,7 @@ Al utilizar [Aspose.Total para .NET](https://products.aspose.com/total/net/), pu
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET para convertir ODT a TSV" %}}
-1. Abra el archivo ODT usando la clase [Odtumento] (https://apireference.aspose.com/words/net/aspose.words/odtument)
+1. Abra el archivo ODT usando la clase [Odtumento](https://apireference.aspose.com/words/net/aspose.words/odtument)
 2. Convierta ODT a HTML usando el método [Guardar](https://apireference.aspose.com/words/net/aspose.words.odtument/save/methods/4)
 3. Cargue el odtumento HTML utilizando la clase [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Guarde el odtumento en formato TSV usando el método [Guardar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) y configure `TSV` como SaveFormat
@@ -33,7 +33,8 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 [Aspose.Words for .NET](https://products.aspose.com/words/net/) también le permite cargar odtumentos ODT a través de la transmisión. Para abrir un odtumento desde una secuencia, simplemente pase un objeto de secuencia que contenga el odtumento al constructor [Odtumento](https://apireference.aspose.com/words/net/aspose.words/odtument). El siguiente ejemplo de código muestra cómo abrir un odtumento desde una secuencia:  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 Al convertir ODT a TSV, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) le permite agregar propiedades personalizadas en sus odtumentos TSV. Para agregar una propiedad personalizada, puede usar el método [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customodtumentpropertycollection/methods/add/index) para la [CustomOdtumentPropertyCollection]( https://apireference.aspose.com/cells/net/aspose.cells.properties/customodtumentpropertycollection) clase. El método Add agrega la propiedad al archivo de Excel y devuelve una referencia para la propiedad del nuevo odtumento como [Aspose.Cells.Properties.OdtumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /propiedadodtumento) objeto. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

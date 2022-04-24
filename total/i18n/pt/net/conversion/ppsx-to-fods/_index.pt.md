@@ -17,7 +17,7 @@ Usando [Aspose.Total for .NET](https://products.aspose.com/total/net/) você pod
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Como converter PPSX para FODS via C #" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Como converter PPSX para FODS via C#" %}}
 1. Abra o arquivo PPSX usando a classe [Apresentação](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 2. Exporte PPSX como HTML usando o método [Salvar](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 3. Carregue o documento HTML usando a classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
@@ -33,7 +33,8 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,15 +42,17 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 Ao converter o arquivo PPSX para FODS, se o documento PPSX de entrada estiver protegido por senha, você não poderá convertê-lo para FODS sem descriptografar o documento. Quando seu documento é protegido por senha, isso significa que ele impõe certas restrições na apresentação. Para remover as restrições, a senha deve ser inserida. Uma apresentação protegida por senha é considerada uma apresentação bloqueada. A API permite que você abra o documento criptografado passando a senha correta em um objeto LoadOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% /blocks/products/pf/feature-page-section %}}C#
 
 {{% blocks/products/pf/feature-page-section  h2="Converter PPSX para FODS com marca d'água via C #" %}}
 Ao converter o arquivo PPSX para FODS, você também pode adicionar marca d'água ao formato de arquivo FODS de saída. Para adicionar uma marca d'água, você pode criar um novo objeto Workbook e abrir o documento HTML convertido, selecionar Worksheet através de seu índice, criar uma Shape e usar sua função AddTextEffect. Depois disso, você pode salvar seu documento HTML como FODS com marca d'água. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

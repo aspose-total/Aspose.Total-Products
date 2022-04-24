@@ -17,7 +17,6 @@ description: Convert Word dot documents to PowerPoint ppsx files with C#. Conver
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.Total
 
 ```
@@ -61,8 +60,7 @@ PM> Install-Package Aspose.Total
 
 {{% blocks/products/pf/agp/code-block title="This code sample shows how to convert a DOT to PPSX using C#" offSpacer="" %}}
 
-```cs
-// Load the Single Page Microsoft Word DOT file
+```cs// Load the Single Page Microsoft Word DOT file
 Aspose.Words.Document dot = new Aspose.Words.Document("sourceWordFile.dot");
 
 // Save DOT file to HTML 
