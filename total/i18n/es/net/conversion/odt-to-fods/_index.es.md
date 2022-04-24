@@ -20,7 +20,7 @@ Al utilizar [Aspose.Total para .NET](https://products.aspose.com/total/net/), pu
 {{% blocks/products/pf/agp/feature-section-col title="API .NET para convertir ODT a FODS" %}}
 1. Abra el archivo ODT usando la clase [Odtumento](https://apireference.aspose.com/words/net/aspose.words/odtument)
 2. Convierta ODT a HTML usando el método [Guardar](https://apireference.aspose.com/words/net/aspose.words.odtument/save/methods/4)
-3. Cargue el odtumento HTML utilizando la clase [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+3. Cargue el odtumento HTML utilizando la clase [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Guarde el odtumento en formato FODS usando el método [Guardar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) y configure `FODS` como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

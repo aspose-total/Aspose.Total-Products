@@ -18,8 +18,8 @@ Convertir MOBI a TSV a través de [Aspose.Total for Java](https://products.aspos
 {{% blocks/products/pf/agp/feature-section-col title="API de C++ para convertir MOBI a TSV" %}}
 1. Abra el archivo MOBI usando la clase [Mobiumento](https://apireference.aspose.com/words/java/com.aspose.words/Mobiument)
 2. Convierta MOBI a HTML usando [Guardar](https://apireference.aspose.com/words/java/com.aspose.words/Mobiument#save(java.lang.String,com.aspose.words.SaveOptions) ) método
-3. Cargue el mobiumento HTML utilizando la clase [Libro de trabajo](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Guarde el mobiumento en formato TSV mediante [Guardar](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. GuardarOpciones)) método
+3. Cargue el mobiumento HTML utilizando la clase [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Guarde el mobiumento en formato TSV mediante [Guardar](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20int)) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
 Puede usar fácilmente Aspose.Total para Java directamente desde un proyecto basado en [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e incluya [Aspose.Words para Java](https://mobis.aspose.com/words/java/installation/) y [Aspose.Cells para Java](https://mobis.aspose.com/cells/java/ instalación/) en su pom.xml.
@@ -42,7 +42,7 @@ Antes de convertir MOBI a TSV, puede eliminar la información no utilizada del m
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Eliminar información no utilizada de un mobiumento MOBI a través de Java" %}}
-Después de convertir MOBI a TSV, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) le permite guardar su mobiumento para transmitir. Si necesita guardar archivos en un flujo, debe crear un objeto FileOutputStream y luego [guardar](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io. OutputStream,%20com.aspose.cells.SaveOptions)) el archivo a ese objeto Stream llamando al método de guardado de [Libro de trabajo](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) objeto. 
+Después de convertir MOBI a TSV, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) le permite guardar su mobiumento para transmitir. Si necesita guardar archivos en un flujo, debe crear un objeto FileOutputStream y luego [guardar](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io. OutputStream,%20com.aspose.cells.SaveOptions)) el archivo a ese objeto Stream llamando al método de guardado de [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) objeto. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}

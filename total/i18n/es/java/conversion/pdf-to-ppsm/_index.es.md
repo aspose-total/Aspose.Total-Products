@@ -18,7 +18,7 @@ Usando [Aspose.Total para Java](https://products.aspose.com/total/java/) puede c
 {{% blocks/products/pf/agp/feature-section-col title="API de Java para convertir PDF a PPSM" %}}
 1. Abra el archivo PDF usando la clase [Documento](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. Convierta PDF a PPTX usando el método [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-)
-3. Cargue el documento PPTX usando la clase [Presentación](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+3. Cargue el documento PPTX usando la clase [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 4. Guarde el documento en formato PPSM usando el método [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) y establezca ` Ppsm` como formato guardado
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

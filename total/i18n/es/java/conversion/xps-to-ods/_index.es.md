@@ -18,8 +18,8 @@ Al utilizar [Aspose.Total para Java](https://products.aspose.com/total/java/), p
 {{% blocks/products/pf/agp/feature-section-col title="Convertir archivo XPS a ODS a través de Java" %}}
 1. Abra el archivo XPS usando la clase [Documento](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. Convierta XPS a XLSX usando [guardar](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) método
-3. Cargue el documento XLSX usando la clase [Libro de trabajo](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Guarde el documento en formato ODS usando [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. GuardarOpciones)) método
+3. Cargue el documento XLSX usando la clase [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Guarde el documento en formato ODS usando [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20int)) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
 Puede usar fácilmente Aspose.Total para Java directamente desde un proyecto basado en [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e incluya [Aspose.PDF para Java](https://docs.aspose.com/pdf/java/installation/) y [Aspose.Cells para Java](https://docs.aspose.com/cells/java/ instalación/) en su pom.xml.

@@ -16,7 +16,7 @@ otherformats: WORDX ODT DOTX DOT WORDM RTF DOTM TEXT WORD FLATOPC OTT WORDML
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir POTM a WORD a través de Java" %}}
-1. Abra el archivo POTM usando la clase [Presentación](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+1. Abra el archivo POTM usando la clase [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Convierta POTM a HTML usando [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) y establezca Html como SaveFormat
 3. Cargue el archivo HTML convertido usando la clase [Wordumento](https://apireference.aspose.com/words/java/com.aspose.words/Wordument)
 4. Guarde el wordumento en formato WORD usando el método [save](https://apireference.aspose.com/words/java/com.aspose.words/Wordument#save(java.lang.String,int))

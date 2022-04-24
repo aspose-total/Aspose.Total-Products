@@ -16,7 +16,7 @@ otherformats: DOTM DOTX WORDML DOTXM ODT OTT DOTXX TEXT DOT FLATOPC RTF WORD
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir PPTM a DOTX a través de Java" %}}
-1. Abra el archivo PPTM usando la clase [Presentación](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+1. Abra el archivo PPTM usando la clase [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Convierta PPTM a HTML usando [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) y establezca Html como SaveFormat
 3. Cargue el archivo HTML convertido usando la clase [Dotxumento](https://apireference.aspose.com/words/java/com.aspose.words/Dotxument)
 4. Guarde el dotxumento en formato DOTX usando el método [save](https://apireference.aspose.com/words/java/com.aspose.words/Dotxument#save(java.lang.String,int))

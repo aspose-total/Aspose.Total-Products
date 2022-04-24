@@ -18,7 +18,7 @@ A menudo, los desarrolladores tienen que convertir el archivo DOCM a PPTM median
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir DOCM a PPTM a través de Java" %}}
 1. Abra el archivo DOCM usando la clase [Docmumento](https://apireference.aspose.com/words/java/com.aspose.words/Docmument)
 2. Convierta el archivo DOCM a HTML usando [guardar](https://apireference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions )) método
-3. Inicialice un nuevo objeto [Presentación](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+3. Inicialice un nuevo objeto [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraiga el contenido del archivo HTML usando BufferedReader y escriba el contenido en su archivo de presentación
 6. Guarde el docmumento en PPTM usando el método [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}

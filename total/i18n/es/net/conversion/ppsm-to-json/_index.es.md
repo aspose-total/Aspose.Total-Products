@@ -18,9 +18,9 @@ Al usar [Aspose.Total for .NET](https://products.aspose.com/total/net/) puede co
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convertir formato PPSM a JSON a través de C#" %}}
-1. Abra el archivo PPSM usando la clase [Presentación](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
+1. Abra el archivo PPSM usando la clase [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 2. Convierta PPSM a HTML usando el método [Guardar](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
-3. Cargue el documento HTML utilizando la clase [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+3. Cargue el documento HTML utilizando la clase [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Guarde el documento en formato JSON usando el método [Guardar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

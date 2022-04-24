@@ -16,7 +16,7 @@ otherformats: OTT WORDM DOTM FLATOPC DOTX RTF ODT DOT WORDML WORDX TEXT WORD
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir POWERPOINT a WORD a través de Java" %}}
-1. Abra el archivo POWERPOINT usando la clase [Presentación](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+1. Abra el archivo POWERPOINT usando la clase [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Convierta POWERPOINT a HTML usando [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) y establezca Html como SaveFormat
 3. Cargue el archivo HTML convertido usando la clase [Wordumento](https://apireference.aspose.com/words/java/com.aspose.words/Wordument)
 4. Guarde el wordumento en formato WORD usando el método [save](https://apireference.aspose.com/words/java/com.aspose.words/Wordument#save(java.lang.String,int))

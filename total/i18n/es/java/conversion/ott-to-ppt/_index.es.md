@@ -18,7 +18,7 @@ A menudo, los desarrolladores tienen que convertir el archivo OTT a PPT mediante
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir OTT a PPT a través de Java" %}}
 1. Abra el archivo OTT usando la clase [Ottumento](https://apireference.aspose.com/words/java/com.aspose.words/Ottument)
 2. Convierta el archivo OTT a HTML usando [guardar](https://apireference.aspose.com/words/java/com.aspose.words/Ottument#save(java.lang.String,com.aspose.words.SaveOptions )) método
-3. Inicialice un nuevo objeto [Presentación](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+3. Inicialice un nuevo objeto [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraiga el contenido del archivo HTML usando BufferedReader y escriba el contenido en su archivo de presentación
 6. Guarde el ottumento en PPT usando el método [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}

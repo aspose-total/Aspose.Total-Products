@@ -18,7 +18,7 @@ A menudo, los desarrolladores tienen que convertir el archivo RTF a PPT mediante
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir RTF a PPT a través de Java" %}}
 1. Abra el archivo RTF usando la clase [Rtfumento](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument)
 2. Convierta el archivo RTF a HTML usando [guardar](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument#save(java.lang.String,com.aspose.words.SaveOptions )) método
-3. Inicialice un nuevo objeto [Presentación](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+3. Inicialice un nuevo objeto [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraiga el contenido del archivo HTML usando BufferedReader y escriba el contenido en su archivo de presentación
 6. Guarde el rtfumento en PPT usando el método [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -16,7 +16,7 @@ otherformats: DOTX FLATOPC DOTM RTF WORDML WORD ODT OTT ODTX TEXT DOT ODTM
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir POT a ODT a través de Java" %}}
-1. Abra el archivo POT usando la clase [Presentación](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+1. Abra el archivo POT usando la clase [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Convierta POT a HTML usando [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) y establezca Html como SaveFormat
 3. Cargue el archivo HTML convertido usando la clase [Odtumento](https://apireference.aspose.com/words/java/com.aspose.words/Odtument)
 4. Guarde el odtumento en formato ODT usando el método [save](https://apireference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String,int))

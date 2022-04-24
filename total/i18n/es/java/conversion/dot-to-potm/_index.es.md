@@ -18,7 +18,7 @@ A menudo, los desarrolladores tienen que convertir el archivo DOT a POTM mediant
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir DOT a POTM a través de Java" %}}
 1. Abra el archivo DOT usando la clase [Dotumento](https://apireference.aspose.com/words/java/com.aspose.words/Dotument)
 2. Convierta el archivo DOT a HTML usando [guardar](https://apireference.aspose.com/words/java/com.aspose.words/Dotument#save(java.lang.String,com.aspose.words.SaveOptions )) método
-3. Inicialice un nuevo objeto [Presentación](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+3. Inicialice un nuevo objeto [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraiga el contenido del archivo HTML usando BufferedReader y escriba el contenido en su archivo de presentación
 6. Guarde el dotumento en POTM usando el método [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}

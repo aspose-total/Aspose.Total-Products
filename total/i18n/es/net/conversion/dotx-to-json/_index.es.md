@@ -20,7 +20,7 @@ Al usar [Aspose.Total for .NET](https://products.aspose.com/total/net/) puede co
 {{% blocks/products/pf/agp/feature-section-col title="Convierta el formato DOTX a JSON a través de C#" %}}
 1. Abra el archivo DOTX usando la clase [Dotxumento](https://apireference.aspose.com/words/net/aspose.words/dotxument)
 2. Convierta DOTX a HTML usando el método [Guardar](https://apireference.aspose.com/words/net/aspose.words.dotxument/save/methods/4)
-3. Cargue el dotxumento HTML utilizando la clase [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+3. Cargue el dotxumento HTML utilizando la clase [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Guarde el dotxumento en formato JSON usando el método [Guardar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

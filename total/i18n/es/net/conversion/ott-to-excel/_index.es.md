@@ -20,7 +20,7 @@ Al utilizar [Aspose.Total para .NET](https://products.aspose.com/total/net/), pu
 {{% blocks/products/pf/agp/feature-section-col title="API .NET para convertir OTT a EXCEL" %}}
 1. Abra el archivo OTT usando la clase [Ottumento](https://apireference.aspose.com/words/net/aspose.words/ottument)
 2. Convierta OTT a HTML usando el método [Guardar](https://apireference.aspose.com/words/net/aspose.words.ottument/save/methods/4)
-3. Cargue el ottumento HTML utilizando la clase [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+3. Cargue el ottumento HTML utilizando la clase [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Guarde el ottumento en formato EXCEL usando el método [Guardar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) y configure `EXCEL` como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

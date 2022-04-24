@@ -20,7 +20,7 @@ Al utilizar [Aspose.Total para .NET](https://products.aspose.com/total/net/), pu
 {{% blocks/products/pf/agp/feature-section-col title="API .NET para convertir RTF a XLSX" %}}
 1. Abra el archivo RTF usando la clase [Rtfumento](https://apireference.aspose.com/words/net/aspose.words/rtfument)
 2. Convierta RTF a HTML usando el método [Guardar](https://apireference.aspose.com/words/net/aspose.words.rtfument/save/methods/4)
-3. Cargue el rtfumento HTML utilizando la clase [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+3. Cargue el rtfumento HTML utilizando la clase [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Guarde el rtfumento en formato XLSX usando el método [Guardar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) y configure `XLSX` como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

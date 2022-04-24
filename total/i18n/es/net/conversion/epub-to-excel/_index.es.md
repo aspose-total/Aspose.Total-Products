@@ -20,7 +20,7 @@ Usando [Aspose.Total para .NET](https://products.aspose.com/total/net/) puede co
 {{% blocks/products/pf/agp/feature-section-col title="API .NET para convertir EPUB a EXCEL" %}}
 1. Abra el archivo EPUB usando la clase [Documento](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
 2. Convierta EPUB a XLSX usando el método [Guardar](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
-3. Cargue el documento XLSX usando la clase [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+3. Cargue el documento XLSX usando la clase [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Guarde el documento en formato EXCEL usando el método [Guardar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) y configure `Excel` como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

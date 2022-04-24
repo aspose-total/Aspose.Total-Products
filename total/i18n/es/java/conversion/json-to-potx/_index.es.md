@@ -16,9 +16,9 @@ Usando [Aspose.Total for Java](https://products.aspose.com/total/java/), puede c
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convierta el formato JSON a POTX a través de Java" %}}
-1. Cree un nuevo objeto [Libro de trabajo](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) y abra el archivo JSON
+1. Cree un nuevo objeto [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) y abra el archivo JSON
 2. Guarde JSON como PPTX usando [guardar](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions) ) método
-3. Cargue el documento PPTX usando la clase [Presentación](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+3. Cargue el documento PPTX usando la clase [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 4. Guarde el documento en formato POTX usando el método [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

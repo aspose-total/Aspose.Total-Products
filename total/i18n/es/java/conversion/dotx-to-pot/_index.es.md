@@ -18,7 +18,7 @@ A menudo, los desarrolladores tienen que convertir el archivo DOTX a POT mediant
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir DOTX a POT a través de Java" %}}
 1. Abra el archivo DOTX usando la clase [Dotxumento](https://apireference.aspose.com/words/java/com.aspose.words/Dotxument)
 2. Convierta el archivo DOTX a HTML usando [guardar](https://apireference.aspose.com/words/java/com.aspose.words/Dotxument#save(java.lang.String,com.aspose.words.SaveOptions )) método
-3. Inicialice un nuevo objeto [Presentación](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+3. Inicialice un nuevo objeto [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraiga el contenido del archivo HTML usando BufferedReader y escriba el contenido en su archivo de presentación
 6. Guarde el dotxumento en POT usando el método [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}

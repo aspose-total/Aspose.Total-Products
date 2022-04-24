@@ -20,7 +20,7 @@ Al usar [Aspose.Total for .NET](https://products.aspose.com/total/net/) puede co
 {{% blocks/products/pf/agp/feature-section-col title="Convierta el formato WORD a JSON a través de C#" %}}
 1. Abra el archivo WORD usando la clase [Wordumento](https://apireference.aspose.com/words/net/aspose.words/wordument)
 2. Convierta WORD a HTML usando el método [Guardar](https://apireference.aspose.com/words/net/aspose.words.wordument/save/methods/4)
-3. Cargue el wordumento HTML utilizando la clase [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+3. Cargue el wordumento HTML utilizando la clase [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Guarde el wordumento en formato JSON usando el método [Guardar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -18,7 +18,7 @@ Usando [Aspose.Total para Java](https://products.aspose.com/total/java/) puede c
 {{% blocks/products/pf/agp/feature-section-col title="API de Java para convertir MHTML a PPSX" %}}
 1. Abra el archivo MHTML usando la clase [Documento](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. Convierta MHTML a PPTX usando el método [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-)
-3. Cargue el documento PPTX usando la clase [Presentación](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+3. Cargue el documento PPTX usando la clase [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 4. Guarde el documento en formato PPSX usando el método [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) y establezca ` Ppsx` como formato guardado
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

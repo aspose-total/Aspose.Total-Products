@@ -18,8 +18,8 @@ Convertir DOTM a XLSX a través de [Aspose.Total for Java](https://products.aspo
 {{% blocks/products/pf/agp/feature-section-col title="API de C++ para convertir DOTM a XLSX" %}}
 1. Abra el archivo DOTM usando la clase [Dotmumento](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument)
 2. Convierta DOTM a HTML usando [Guardar](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,com.aspose.words.SaveOptions) ) método
-3. Cargue el dotmumento HTML utilizando la clase [Libro de trabajo](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Guarde el dotmumento en formato XLSX mediante [Guardar](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. GuardarOpciones)) método
+3. Cargue el dotmumento HTML utilizando la clase [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Guarde el dotmumento en formato XLSX mediante [Guardar](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20int)) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
 Puede usar fácilmente Aspose.Total para Java directamente desde un proyecto basado en [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e incluya [Aspose.Words para Java](https://dotms.aspose.com/words/java/installation/) y [Aspose.Cells para Java](https://dotms.aspose.com/cells/java/ instalación/) en su pom.xml.
@@ -42,7 +42,7 @@ Antes de convertir DOTM a XLSX, puede eliminar la información no utilizada del 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Eliminar información no utilizada de un dotmumento DOTM a través de Java" %}}
-Después de convertir DOTM a XLSX, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) le permite guardar su dotmumento para transmitir. Si necesita guardar archivos en un flujo, debe crear un objeto FileOutputStream y luego [guardar](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io. OutputStream,%20com.aspose.cells.SaveOptions)) el archivo a ese objeto Stream llamando al método de guardado de [Libro de trabajo](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) objeto. 
+Después de convertir DOTM a XLSX, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) le permite guardar su dotmumento para transmitir. Si necesita guardar archivos en un flujo, debe crear un objeto FileOutputStream y luego [guardar](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io. OutputStream,%20com.aspose.cells.SaveOptions)) el archivo a ese objeto Stream llamando al método de guardado de [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) objeto. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-word-to-protected-excel.java" >}}

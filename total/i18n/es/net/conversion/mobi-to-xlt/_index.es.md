@@ -20,7 +20,7 @@ Al utilizar [Aspose.Total para .NET](https://products.aspose.com/total/net/), pu
 {{% blocks/products/pf/agp/feature-section-col title="API .NET para convertir MOBI a XLT" %}}
 1. Abra el archivo MOBI usando la clase [Mobiumento](https://apireference.aspose.com/words/net/aspose.words/mobiument)
 2. Convierta MOBI a HTML usando el método [Guardar](https://apireference.aspose.com/words/net/aspose.words.mobiument/save/methods/4)
-3. Cargue el mobiumento HTML utilizando la clase [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+3. Cargue el mobiumento HTML utilizando la clase [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Guarde el mobiumento en formato XLT usando el método [Guardar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) y configure `XLT` como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

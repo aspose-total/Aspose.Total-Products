@@ -20,7 +20,7 @@ Usando [Aspose.Total para .NET](https://products.aspose.com/total/net/) puede co
 {{% blocks/products/pf/agp/feature-section-col title="API .NET para convertir MD a CSV" %}}
 1. Abra el archivo MD usando la clase [Documento](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
 2. Convierta MD a XLSX usando el método [Guardar](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
-3. Cargue el documento XLSX usando la clase [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+3. Cargue el documento XLSX usando la clase [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Guarde el documento en formato CSV usando el método [Guardar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) y configure `Csv` como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

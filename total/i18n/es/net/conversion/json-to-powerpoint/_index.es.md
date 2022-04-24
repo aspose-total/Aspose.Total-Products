@@ -18,9 +18,9 @@ Puede convertir JSON a POWERPOINT dentro de cualquier aplicación .NET, C#, ASP.
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convierta el formato JSON a POWERPOINT a través de C#" %}}
-1. Cree un nuevo objeto [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook) y lea los datos JSON válidos del archivo.
+1. Cree un nuevo objeto [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) y lea los datos JSON válidos del archivo.
 2. Importe el archivo JSON a la hoja de trabajo usando la clase [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) y [Guardar](https://apireference.aspose.com/ cells/net/aspose.cells.workbook/save/methods/4) como PPTX
-3. Cargue el documento PPTX usando la clase [Presentación](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
+3. Cargue el documento PPTX usando la clase [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 4. Guarde el documento en formato POWERPOINT usando el método [Guardar](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -48,7 +48,7 @@ Mientras analiza JSON a POWERPOINT, también puede establecer opciones de diseñ
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convierta el formato JSON a POWERPOINT con marca de agua" %}}
-Usando la API, también puede convertir JSON a POWERPOINT con marca de agua. Para agregar una marca de agua a su documento POWERPOINT, primero puede analizar JSON a PPTX y agregarle una marca de agua. Para agregar una marca de agua, cargue el archivo PPTX recién creado usando la clase [Presentación](https://apireference.aspose.com/slides/net/aspose.slides/presentation), seleccione la presentación maestra, agregue el tipo de forma usando AddAutoShape y agregue texto de marca de agua usando AddTextFrame. Después de agregar la marca de agua, puede guardar el documento en POWERPOINT. 
+Usando la API, también puede convertir JSON a POWERPOINT con marca de agua. Para agregar una marca de agua a su documento POWERPOINT, primero puede analizar JSON a PPTX y agregarle una marca de agua. Para agregar una marca de agua, cargue el archivo PPTX recién creado usando la clase [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation), seleccione la presentación maestra, agregue el tipo de forma usando AddAutoShape y agregue texto de marca de agua usando AddTextFrame. Después de agregar la marca de agua, puede guardar el documento en POWERPOINT. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}

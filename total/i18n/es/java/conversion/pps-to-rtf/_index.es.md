@@ -16,7 +16,7 @@ otherformats: RTFM RTFX DOTM FLATOPC OTT RTF ODT WORD TEXT DOT WORDML DOTX
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir PPS a RTF a través de Java" %}}
-1. Abra el archivo PPS usando la clase [Presentación](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+1. Abra el archivo PPS usando la clase [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Convierta PPS a HTML usando [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) y establezca Html como SaveFormat
 3. Cargue el archivo HTML convertido usando la clase [Rtfumento](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument)
 4. Guarde el rtfumento en formato RTF usando el método [save](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument#save(java.lang.String,int))

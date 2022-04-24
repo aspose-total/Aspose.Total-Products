@@ -18,7 +18,7 @@ Al usar [Aspose.Total for .NET](https://products.aspose.com/total/net/) puede an
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convierta el formato JSON a EMZ a través de C#" %}}
-1. Cree un nuevo objeto [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook) y lea los datos JSON del archivo.
+1. Cree un nuevo objeto [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) y lea los datos JSON del archivo.
 2. Convierta JSON a JPEG utilizando el método [Guardar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 3. Cargue el documento JPEG usando la clase [Imagen](https://apireference.aspose.com/imaging/net/aspose.imaging/image)
 4. Guarde el documento en formato EMZ usando el método [Guardar](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)

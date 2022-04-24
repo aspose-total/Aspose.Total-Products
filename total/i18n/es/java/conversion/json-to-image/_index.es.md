@@ -16,7 +16,7 @@ Usando [Aspose.Total para Java](https://products.aspose.com/total/java/), puede 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convierta el formato JSON a IMAGE a través de Java" %}}
-1. Cree un nuevo objeto [Libro de trabajo](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) y abra el archivo JSON
+1. Cree un nuevo objeto [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) y abra el archivo JSON
 2. Guarde JSON como JPEG usando [guardar](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions) ) método
 3. Cargue el documento JPEG usando la clase [Imagen](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image)
 4. Guarde el documento en formato IMAGE usando [save](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase -) método

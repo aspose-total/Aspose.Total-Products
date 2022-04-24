@@ -18,7 +18,7 @@ Al usar [Aspose.Total for .NET](https://products.aspose.com/total/net/) puede an
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convierta el formato JSON a DOC a través de C#" %}}
-1. Cree un nuevo objeto [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook) y lea los datos JSON válidos del archivo.
+1. Cree un nuevo objeto [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) y lea los datos JSON válidos del archivo.
 2. Importe el archivo JSON a la hoja de trabajo usando la clase [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) y [Guardar](https://apireference.aspose.com/ cell/net/aspose.cells.workbook/save/methods/4) como PDF
 3. Cargue el documento PDF usando la clase [Documento](https://apireference.aspose.com/words/net/aspose.words/document)
 4. Guarde el documento en formato DOC usando el método [Guardar](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)

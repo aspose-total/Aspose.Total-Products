@@ -20,7 +20,7 @@ Con un paquete de potentes API de automatización de formato de archivo [Aspose.
 {{% blocks/products/pf/agp/feature-section-col title="API .NET para convertir PS a PPT" %}}
 1. Abra el archivo PS usando la clase [Documento](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
 2. Convierta PS a PPTX usando el método [Guardar](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
-3. Cargue el archivo PPTX usando la clase [Presentación](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
+3. Cargue el archivo PPTX usando la clase [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 4. Guarde el documento en formato PPT usando el método [Guardar](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) y establezca `Ppt` como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

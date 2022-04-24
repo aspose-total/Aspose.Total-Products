@@ -16,7 +16,7 @@ Al usar [Aspose.Total for Java](https://products.aspose.com/total/java/) puede c
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convierta el formato JSON a DOC a través de Java" %}}
-1. Cree un nuevo objeto [Libro de trabajo](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) y lea los datos JSON válidos del archivo.
+1. Cree un nuevo objeto [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) y lea los datos JSON válidos del archivo.
 2. Importe el archivo JSON a la hoja de trabajo usando la clase [JsonUtility](https://apireference.aspose.com/cells/java/com.aspose.cells/JsonUtility) y [Guardar](https://apireference.aspose.com/ cell/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) como PDF
 3. Cargue el documento PDF usando la clase [Documento](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. Guarde el documento en formato DOC mediante [Guardar](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) )) método

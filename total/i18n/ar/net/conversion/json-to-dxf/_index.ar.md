@@ -38,7 +38,7 @@ otherformats: JPEG2000 WMZ DICOM SVGZ PSD WMF DXF EMZ IMAGE TGA
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="تعيين التخطيط وتحويل تنسيق JSON إلى DXF عبر C#"}}
+{{% blocks/products/pf/feature-page-section  h2="تعيين التخطيط وتحويل تنسيق JSON إلى DXF عبر C#" %}}
 أثناء تحليل JSON إلى DXF ، يمكنك أيضًا تعيين خيارات التخطيط لـ JSON باستخدام [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). يسمح لك بمعالجة الصفيف كجدول ، وتجاهل القيم الخالية ، وتجاهل عنوان الصفيف ، وتجاهل عنوان الكائن ، وتحويل السلسلة إلى رقم أو تاريخ ، وتعيين تنسيق التاريخ والأرقام ، وتعيين نمط العنوان. تتيح لك كل هذه الخيارات تقديم بياناتك وفقًا لاحتياجاتك. يوضح لك مقتطف الشفرة التالي كيفية تعيين خيارات التخطيط.  
 {{% blocks/products/pf/feature-page-code %}}
 
@@ -47,7 +47,7 @@ otherformats: JPEG2000 WMZ DICOM SVGZ PSD WMF DXF EMZ IMAGE TGA
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="تحليل تنسيق JSON إلى DXF باستخدام العلامة المائية" %}}
-باستخدام API ، يمكنك أيضًا تحويل JSON إلى DXF بعلامة مائية في مستند DXF الخاص بك. لإضافة علامة مائية ، يمكنك أولاً تحويل مستند JSON إلى JPEG وإضافة علامة مائية فيه. لتوضيح العملية ، يمكنك تحميل صورة JPEG المحولة وإضافة تحويلات باستخدام كائن من فئة Matrix ورسم سلسلة كعلامة مائية على سطح الصورة باستخدام [الرسومات](https://apireference.aspose.com/imaging/ net / aspose.imaging / graphics) class '[DrawString](https://apireference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring). بعد إضافة العلامة المائية إليها ، يمكنك حفظ JPEG بتنسيق DXF. يوجد أدناه مثال رمز يوضح كيفية إضافة علامة مائية قطرية إلى المستند الخاص بك. 
+باستخدام API ، يمكنك أيضًا تحويل JSON إلى DXF بعلامة مائية في مستند DXF الخاص بك. لإضافة علامة مائية ، يمكنك أولاً تحويل مستند JSON إلى JPEG وإضافة علامة مائية فيه. لتوضيح العملية ، يمكنك تحميل صورة JPEG المحولة وإضافة تحويلات باستخدام كائن من فئة Matrix ورسم سلسلة كعلامة مائية على سطح الصورة باستخدام [Graphics](https://apireference.aspose.com/imaging/net/aspose.imaging/graphics) class '[DrawString](https://apireference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring). بعد إضافة العلامة المائية إليها ، يمكنك حفظ JPEG بتنسيق DXF. يوجد أدناه مثال رمز يوضح كيفية إضافة علامة مائية قطرية إلى المستند الخاص بك. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}

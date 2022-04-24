@@ -20,7 +20,7 @@ Al utilizar [Aspose.Total para .NET](https://products.aspose.com/total/net/), pu
 {{% blocks/products/pf/agp/feature-section-col title="API .NET para convertir DOT a EXCEL" %}}
 1. Abra el archivo DOT usando la clase [Dotumento](https://apireference.aspose.com/words/net/aspose.words/dotument)
 2. Convierta DOT a HTML usando el método [Guardar](https://apireference.aspose.com/words/net/aspose.words.dotument/save/methods/4)
-3. Cargue el dotumento HTML utilizando la clase [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+3. Cargue el dotumento HTML utilizando la clase [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Guarde el dotumento en formato EXCEL usando el método [Guardar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) y configure `EXCEL` como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

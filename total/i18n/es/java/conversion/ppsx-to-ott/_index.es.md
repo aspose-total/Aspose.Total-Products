@@ -16,7 +16,7 @@ otherformats: WORDML RTF DOT OTT DOTM TEXT WORD OTTM FLATOPC ODT DOTX OTTX
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir PPSX a OTT a través de Java" %}}
-1. Abra el archivo PPSX usando la clase [Presentación](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+1. Abra el archivo PPSX usando la clase [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Convierta PPSX a HTML usando [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) y establezca Html como SaveFormat
 3. Cargue el archivo HTML convertido usando la clase [Ottumento](https://apireference.aspose.com/words/java/com.aspose.words/Ottument)
 4. Guarde el ottumento en formato OTT usando el método [save](https://apireference.aspose.com/words/java/com.aspose.words/Ottument#save(java.lang.String,int))
