@@ -33,7 +33,8 @@ otherformats: PPSX OTP POTM PPS POWERPOINT PPTM POTX PPT POT PPSM
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ otherformats: PPSX OTP POTM PPS POWERPOINT PPTM POTX PPT POT PPSM
 JSON을 POTX로 구문 분석하는 동안 [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions)를 사용하여 JSON 형식에 대한 레이아웃 옵션을 설정할 수도 있습니다. 배열을 테이블로 처리하고, null을 무시하고, 배열 제목을 무시하고, 개체 제목을 무시하고, 문자열을 숫자 또는 날짜로 변환하고, 날짜 및 숫자 형식을 설정하고, 제목 스타일을 설정할 수 있습니다. 이러한 모든 옵션을 사용하면 필요에 따라 데이터를 표시할 수 있습니다. 다음 코드 스니펫은 레이아웃 옵션을 설정하는 방법을 보여줍니다.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "set-layout-and-parse-json-to-powerpoint.cs" >}}
+{{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "set-layout-and-parse-json-to-powerpoint.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ JSON을 POTX로 구문 분석하는 동안 [JsonLayoutOptions](https://apirefere
 API를 사용하여 워터마크가 있는 JSON을 POTX로 변환할 수도 있습니다. POTX 문서에 워터마크를 추가하려면 먼저 JSON을 PPTX로 구문 분석하고 워터마크를 추가할 수 있습니다. 워터마크를 추가하려면 [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) 클래스를 사용하여 새로 생성된 PPTX 파일을 로드하고, 마스터 프레젠테이션을 선택하고, 다음을 사용하여 모양 유형을 추가합니다. AutoShape를 추가하고 AddTextFrame을 사용하여 워터마크 텍스트를 추가합니다. 워터마크를 추가한 후 문서를 POTX에 저장할 수 있습니다. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -77,9 +80,7 @@ API를 사용하여 워터마크가 있는 JSON을 POTX로 변환할 수도 있�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/net/conversion/json-to-pps/" name="JSON 에게 PPS" description="" >}}
 
 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
-
+{{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

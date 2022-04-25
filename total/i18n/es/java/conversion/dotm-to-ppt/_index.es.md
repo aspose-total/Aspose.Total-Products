@@ -16,8 +16,8 @@ A menudo, los desarrolladores tienen que convertir el archivo DOTM a PPT mediant
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir DOTM a PPT a través de Java" %}}
-1. Abra el archivo DOTM usando la clase [Dotmumento](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument)
-2. Convierta el archivo DOTM a HTML usando [guardar](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,com.aspose.words.SaveOptions )) método
+1. Abra el archivo DOTM usando la clase [Documento](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. Convierta el archivo DOTM a HTML usando [guardar](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions )) método
 3. Inicialice un nuevo objeto [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraiga el contenido del archivo HTML usando BufferedReader y escriba el contenido en su archivo de presentación
 6. Guarde el dotmumento en PPT usando el método [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

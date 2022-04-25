@@ -10,7 +10,7 @@ outformat: MD
 otherformats: FODS TSV XLSB XLAM MD XLT SXC XLSM DIF XLTX XLTM TXT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API لتقديم XSLFO إلى MD" h2="تصدير ملف XSLFO إلى MD عبر C# بدون استخدام Microsoft<sup>&reg;</sup> Excel أو Adobe <sup> & reg؛ </sup> Acrobat Reader" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API لتقديم XSLFO إلى MD" h2="تصدير ملف XSLFO إلى MD عبر C# بدون استخدام Microsoft<sup>&reg;</sup> Excel أو Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 باستخدام [Aspose.Total for .NET](https://products.aspose.com/total/net/) يمكنك بسهولة تحويل ملف XSLFO إلى MD ضمن أي تطبيقات .NET و C# و ASP.NET و VB.NET. أولاً ، باستخدام [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) ، يمكنك تصدير XSLFO إلى XLSX. بعد ذلك ، باستخدام [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API ، يمكنك تحويل XLSX إلى MD.

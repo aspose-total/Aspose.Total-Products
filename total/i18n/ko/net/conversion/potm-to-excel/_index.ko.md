@@ -33,7 +33,8 @@ otherformats: DIF XLAM FODS XLT XLSM XLSX ODS TSV XLTM MARKDOWN MHTML XLSB SXC X
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ otherformats: DIF XLAM FODS XLT XLSM XLSX ODS TSV XLTM MARKDOWN MHTML XLSB SXC X
 POTM 파일을 EXCEL로 변환하는 동안 입력 POTM 문서가 비밀번호로 보호되어 있으면 문서를 해독하지 않고는 EXCEL로 변환할 수 없습니다. 문서가 암호로 보호되어 있다는 것은 프레젠테이션에 특정 제한을 적용한다는 의미입니다. 제한을 제거하려면 암호를 입력해야 합니다. 암호로 보호된 프레젠테이션은 잠긴 프레젠테이션으로 간주됩니다. API를 사용하면 LoadOptions 개체에 올바른 암호를 전달하여 암호화된 문서를 열 수 있습니다.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ POTM 파일을 EXCEL로 변환하는 동안 입력 POTM 문서가 비밀번호�
 POTM 파일을 EXCEL로 변환하는 동안 출력 EXCEL 파일 형식에 워터마크를 추가할 수도 있습니다. 워터마크를 추가하려면 새 통합 문서 개체를 만들고 변환된 HTML 문서를 열고 해당 인덱스를 통해 워크시트를 선택하고 모양을 만들고 해당 AddTextEffect 기능을 사용할 수 있습니다. 그런 다음 Watermark를 사용하여 HTML 문서를 EXCEL로 저장할 수 있습니다. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -115,9 +118,7 @@ POTM 파일을 EXCEL로 변환하는 동안 출력 EXCEL 파일 형식에 워터
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/net/conversion/potm-to-flatopx/" name="POTM 에게 FLA에게PX" description="" >}}
 
 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
-
+{{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

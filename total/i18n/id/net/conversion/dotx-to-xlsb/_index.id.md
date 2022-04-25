@@ -33,7 +33,8 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 [Aspose.Words for .NET](https://products.aspose.com/words/net/) juga memungkinkan Anda memuat dokumen DOTX melalui aliran. Untuk membuka dokumen dari aliran, cukup teruskan objek aliran yang berisi dokumen ke konstruktor [Dokumen](https://apireference.aspose.com/words/net/aspose.words/dotxument). Contoh kode berikut menunjukkan cara membuka dokumen dari aliran:  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 Saat mengonversi DOTX ke XLSB, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) memungkinkan Anda menambahkan properti khusus di dokumen XLSB Anda. Untuk menambahkan properti kustom, Anda dapat menggunakan metode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotxumentpropertycollection/methods/add/index) untuk [CustomDotxumentPropertyCollection]( https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotxumentpropertycollection) kelas. Metode Add menambahkan properti ke file Excel dan mengembalikan referensi untuk properti dokumen baru sebagai [Aspose.Cells.Properties.DotxumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /dotxumentproperty) objek. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -85,9 +88,7 @@ Saat mengonversi DOTX ke XLSB, [Aspose.Cells for .NET](https://products.aspose.c
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/net/conversion/dotx-to-xltx/" name="DOTX Ke XLTX" description="" >}}
 
 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
-
+{{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

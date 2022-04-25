@@ -10,7 +10,7 @@ outformat: SXC
 otherformats: XLTX XLAM TSV DIF TXT XLSB FODS EXCEL MD ODS XLT XLTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API لتقديم PDF إلى SXC" h2="تصدير ملف PDF إلى SXC عبر C# بدون استخدام Microsoft<sup>&reg;</sup> Excel أو Adobe <sup> & reg؛ </sup> Acrobat Reader" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API لتقديم PDF إلى SXC" h2="تصدير ملف PDF إلى SXC عبر C# بدون استخدام Microsoft<sup>&reg;</sup> Excel أو Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 باستخدام [Aspose.Total for .NET](https://products.aspose.com/total/net/) يمكنك بسهولة تحويل ملف PDF إلى SXC ضمن أي تطبيقات .NET و C# و ASP.NET و VB.NET. أولاً ، باستخدام [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) ، يمكنك تصدير PDF إلى XLSX. بعد ذلك ، باستخدام [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API ، يمكنك تحويل XLSX إلى SXC.

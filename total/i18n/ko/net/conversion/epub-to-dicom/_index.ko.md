@@ -33,7 +33,8 @@ otherformats: PSD WMF TGA WMZ DXF JPEG2000 DICOM IMAGE SVGZ EMZ
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-image.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -42,7 +43,8 @@ API를 사용하여 EPUB 파일을 DICOM로 변환하여 단일 이미지 파일
 [저장](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) 방법을 사용하여 DICOM 형식으로 저장합니다.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-single-file.cs" >}}
+{{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-single-file.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -50,7 +52,8 @@ API를 사용하여 EPUB 파일을 DICOM로 변환하여 단일 이미지 파일
 API를 사용하여 필요에 따라 출력 DICOM 이미지를 회전할 수도 있습니다. Image.RotateFlip 메서드를 사용하여 이미지를 90/180/270도 회전하고 이미지를 가로 또는 세로로 뒤집을 수 있습니다. 이미지에 적용할 회전 및 뒤집기 유형을 지정할 수 있습니다. 이미지를 회전하고 뒤집기 위해 [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) 클래스에 의해 노출된 팩토리 메서드를 사용하여 변환된 JPEG 이미지를 로드하고 Image를 호출할 수 있습니다. 적절한 [RotateFlipType](https://apireference.aspose.com/imaging/net/aspose.imaging/rotatefliptype)을 지정하면서 .RotateFlip 메서드. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-and-rotate-pdf-to-image.cs" >}}
+{{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-and-rotate-pdf-to-image.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -80,9 +83,7 @@ API를 사용하여 필요에 따라 출력 DICOM 이미지를 회전할 수도 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/net/conversion/epub-to-dicom/" name="EPUB 에게 DICOM" description="" >}}
 
 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
-
+{{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

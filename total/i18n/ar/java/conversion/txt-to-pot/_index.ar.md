@@ -10,7 +10,7 @@ outformat: POT
 otherformats: PPT PPS PPSX POWERPOINT POTM PPTX POT PPSM POTX PPTM CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="تحويل TXT إلى POT عبر Java" h2="تحويل TXT إلى POT باستخدام واجهة برمجة تطبيقات Java في أماكن العمل داخل أي تطبيقات Java J2SE و J2EE و J2ME دون استخدام Microsoft <sup> & reg؛ </sup> PowerPoint أو Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="تحويل TXT إلى POT عبر Java" h2="تحويل TXT إلى POT باستخدام واجهة برمجة تطبيقات Java في أماكن العمل داخل أي تطبيقات Java J2SE و J2EE و J2ME دون استخدام Microsoft<sup>&reg;</sup> PowerPoint أو Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 في كثير من الأحيان يتعين على المطورين تحويل ملف TXT إلى POT برمجيًا. باستخدام مكتبات Java لأتمتة الملفات [Aspose.Total for Java](https://products.aspose.com/total/java/) يمكنك أتمتة عملية العرض في بضع خطوات بسيطة. يمكنك تحميل ملف TXT الخاص بك باستخدام [Aspose.Words for Java](https://products.aspose.com/words/java/) وتحويله إلى HTML. بعد ذلك باستخدام واجهة برمجة تطبيقات Java API قوية للمعالجة في PowerPoint [Aspose.Slides for Java](https://products.aspose.com/slides/java/) يمكنك إنشاء عرض تقديمي جديد وكتابة محتوى HTML فيه وحفظه كـ POT .
 {{% /blocks/products/pf/feature-page-summary  %}}

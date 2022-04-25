@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: XLSB DIF XLTX MD SXC ODS XLT XLAM XLTM TXT XLSM EXCEL
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API لتقديم PDF إلى XLSB" h2="تصدير ملف PDF إلى XLSB عبر C# بدون استخدام Microsoft<sup>&reg;</sup> Excel أو Adobe <sup> & reg؛ </sup> Acrobat Reader" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API لتقديم PDF إلى XLSB" h2="تصدير ملف PDF إلى XLSB عبر C# بدون استخدام Microsoft<sup>&reg;</sup> Excel أو Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 باستخدام [Aspose.Total for .NET](https://products.aspose.com/total/net/) يمكنك بسهولة تحويل ملف PDF إلى XLSB ضمن أي تطبيقات .NET و C# و ASP.NET و VB.NET. أولاً ، باستخدام [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) ، يمكنك تصدير PDF إلى XLSX. بعد ذلك ، باستخدام [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API ، يمكنك تحويل XLSX إلى XLSB.

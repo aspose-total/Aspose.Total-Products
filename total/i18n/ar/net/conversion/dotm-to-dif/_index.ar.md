@@ -18,7 +18,7 @@ otherformats: XLTM ODS EXCEL XLSM XLAM XLSX XLS XLTX DIF XLT XLSB TSV SXC FODS
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="NET API لتحويل DOTM إلى DIF" %}}
-1. افتح ملف DOTM باستخدام فئة [Dotmument](https://apireference.aspose.com/words/net/aspose.words/dotmument)
+1. افتح ملف DOTM باستخدام فئة [Document](https://apireference.aspose.com/words/net/aspose.words/dotmument)
 2. تحويل DOTM إلى HTML باستخدام طريقة [Save](https://apireference.aspose.com/words/net/aspose.words.dotmument/save/methods/4)
 3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. احفظ المستند بتنسيق DIF باستخدام طريقة [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) وعيّن `DIF` على أنه SaveFormat
@@ -39,7 +39,7 @@ otherformats: XLTM ODS EXCEL XLSM XLAM XLSX XLS XLTX DIF XLT XLSB TSV SXC FODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="قم بتحميل مستند DOTM من الدفق عبر C#" %}}
-يسمح لك [Aspose.Words for .NET](https://products.aspose.com/words/net/) أيضًا بتحميل مستند DOTM عبر الدفق. لفتح مستند من تيار ، ما عليك سوى تمرير كائن تيار يحتوي على المستند إلى مُنشئ [Dotmument](https://apireference.aspose.com/words/net/aspose.words/dotmument). يوضح المثال التالي من التعليمات البرمجية كيفية فتح مستند من دفق:  
+يسمح لك [Aspose.Words for .NET](https://products.aspose.com/words/net/) أيضًا بتحميل مستند DOTM عبر الدفق. لفتح مستند من تيار ، ما عليك سوى تمرير كائن تيار يحتوي على المستند إلى مُنشئ [Document](https://apireference.aspose.com/words/net/aspose.words/dotmument). يوضح المثال التالي من التعليمات البرمجية كيفية فتح مستند من دفق:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ otherformats: XLTM ODS EXCEL XLSM XLAM XLSX XLS XLTX DIF XLT XLSB TSV SXC FODS
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="إضافة خصائص مخصصة في ملف DIF عبر C#" %}}
-أثناء تحويل DOTM إلى DIF ، يمكّنك [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) من إضافة خصائص مخصصة في مستندات DIF. لإضافة خاصية مخصصة ، يمكنك استخدام طريقة [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection/methods/add/index) للأسلوب [CustomDotmumentPropertyCollection]( https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection) فئة. يضيف الأسلوب Add الخاصية إلى ملف Excel ويعيد مرجعًا لخاصية المستند الجديدة كـ [Aspose.Cells.Properties.DotmumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties / dotmumentproperty) كائن. 
+أثناء تحويل DOTM إلى DIF ، يمكّنك [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) من إضافة خصائص مخصصة في مستندات DIF. لإضافة خاصية مخصصة ، يمكنك استخدام طريقة [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection/methods/add/index) للأسلوب [CustomDocumentPropertyCollection]( https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection) فئة. يضيف الأسلوب Add الخاصية إلى ملف Excel ويعيد مرجعًا لخاصية المستند الجديدة كـ [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties / dotmumentproperty) كائن. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

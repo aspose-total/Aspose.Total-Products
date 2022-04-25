@@ -10,14 +10,14 @@ outformat: POTM
 otherformats: PPSX PPTM POWERPOINT PPT POTM POT PPS PPSM POTX PPTX CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="تحويل DOTM إلى POTM عبر Java" h2="تحويل DOTM إلى POTM باستخدام واجهة برمجة تطبيقات Java في أماكن العمل داخل أي تطبيقات Java J2SE و J2EE و J2ME دون استخدام Microsoft <sup> & reg؛ </sup> PowerPoint أو Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="تحويل DOTM إلى POTM عبر Java" h2="تحويل DOTM إلى POTM باستخدام واجهة برمجة تطبيقات Java في أماكن العمل داخل أي تطبيقات Java J2SE و J2EE و J2ME دون استخدام Microsoft<sup>&reg;</sup> PowerPoint أو Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 في كثير من الأحيان يتعين على المطورين تحويل ملف DOTM إلى POTM برمجيًا. باستخدام مكتبات Java لأتمتة الملفات [Aspose.Total for Java](https://products.aspose.com/total/java/) يمكنك أتمتة عملية العرض في بضع خطوات بسيطة. يمكنك تحميل ملف DOTM الخاص بك باستخدام [Aspose.Words for Java](https://products.aspose.com/words/java/) وتحويله إلى HTML. بعد ذلك باستخدام واجهة برمجة تطبيقات Java API قوية للمعالجة في PowerPoint [Aspose.Slides for Java](https://products.aspose.com/slides/java/) يمكنك إنشاء عرض تقديمي جديد وكتابة محتوى HTML فيه وحفظه كـ POTM .
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل DOTM إلى POTM عبر Java" %}}
-1. افتح ملف DOTM باستخدام فئة [Dotmument](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument)
-2. تحويل ملف DOTM إلى HTML باستخدام [Save](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument#save (java.lang.String، com.aspose.words.SaveOptions )) طريقة
+1. افتح ملف DOTM باستخدام فئة [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. تحويل ملف DOTM إلى HTML باستخدام [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save (java.lang.String، com.aspose.words.SaveOptions )) طريقة
 3. تهيئة كائن [عرض تقديمي] جديد (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. استخراج المحتوى من ملف HTML باستخدام BufferedReader وكتابة المحتوى في ملف العرض التقديمي الخاص بك
 6. احفظ المستند في POTM باستخدام طريقة [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

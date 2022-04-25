@@ -10,7 +10,7 @@ outformat: JSON
 otherformats: XLAM XLSB XLTM ODS XLT TSV SXC EXCEL FODS DIF XLTX CSV XLS XLSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="تحويل DOT إلى تنسيق JSON عبر Java" h2="في Premise Java API لتحويل DOT إلى JSON بدون استخدام Microsoft <sup> & reg؛ </sup> Word أو Microsoft <sup> & reg؛ </sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="تحويل DOT إلى تنسيق JSON عبر Java" h2="في Premise Java API لتحويل DOT إلى JSON بدون استخدام Microsoft<sup>&reg;</sup> Word أو Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 تحويل DOT إلى تنسيق JSON عبر [Aspose.Total for Java](https://products.aspose.com/total/java/) هي عملية بسيطة من خطوتين. باستخدام واجهة برمجة تطبيقات معالجة المستندات والتحويل الغنية بالميزات [Aspose.Words for Java](https://products.aspose.com/words/java/) ، يمكنك تصدير DOT إلى HTML. بعد ذلك ، باستخدام [Aspose.Cells for Java](https://products.aspose.com/cells/java/) ، يمكنك تحويل HTML إلى JSON.
 {{% /blocks/products/pf/feature-page-summary  %}}
@@ -19,7 +19,7 @@ otherformats: XLAM XLSB XLTM ODS XLT TSV SXC EXCEL FODS DIF XLTX CSV XLS XLSM
 1. افتح ملف DOT باستخدام فئة [Dotument](https://apireference.aspose.com/words/java/com.aspose.words/Dotument)
 2. تحويل DOT إلى HTML باستخدام [Save](https://apireference.aspose.com/words/java/com.aspose.words/Dotument#save (java.lang.String، com.aspose.words.SaveOptions) ) طريقة
 3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. احفظ المستند بتنسيق JSON باستخدام [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String%D8%8C%D9%AA20com.aspose.cells.%20SaveOptions)) الطريقة
+4. احفظ المستند بتنسيق JSON باستخدام [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String%D8%8C%D9%AA20com.aspose.cells.%20SaveOptions)) الطريقة
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
 يمكنك بسهولة استخدام Aspose.Total for Java مباشرة من مشروع قائم على [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) وتضمين مكتبات في ملفك pom.xml.

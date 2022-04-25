@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: MD XLTM XLTX EXCEL ODS DIF SXC FODS TXT XLSB TSV XLSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API لتقديم PS إلى TSV" h2="تصدير ملف PS إلى TSV عبر C# بدون استخدام Microsoft<sup>&reg;</sup> Excel أو Adobe <sup> & reg؛ </sup> Acrobat Reader" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API لتقديم PS إلى TSV" h2="تصدير ملف PS إلى TSV عبر C# بدون استخدام Microsoft<sup>&reg;</sup> Excel أو Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 باستخدام [Aspose.Total for .NET](https://products.aspose.com/total/net/) يمكنك بسهولة تحويل ملف PS إلى TSV ضمن أي تطبيقات .NET و C# و ASP.NET و VB.NET. أولاً ، باستخدام [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) ، يمكنك تصدير PS إلى XLSX. بعد ذلك ، باستخدام [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API ، يمكنك تحويل XLSX إلى TSV.

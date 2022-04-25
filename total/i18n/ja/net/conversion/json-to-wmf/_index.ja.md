@@ -13,43 +13,46 @@ otherformats: DICOM WMF IMAGE WMZ DXF TGA PSD JPEG2000 SVGZ EMZ
 {{< blocks/products/pf/i18n/feature-page-header h1="C＃を介してJSON形式をWMFに変換する" h2="サードパーティの依存関係を使用せずにJSONをWMFに解析するC＃API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for .NET]（https://products.aspose.com/total/net/）を使用すると、任意の.NET、C＃、ASP.NET、およびVB.NETアプリケーション内でJSONをWMFに解析できます。手順。まず、[Aspose.Cells for .NET]（https://products.aspose.com/cells/net/）を使用して、JSONをJPEGにエクスポートできます。その後、[Aspose.Imaging for .NET]（https://products.aspose.com/imaging/net/）を使用して、JPEGをWMFに変換できます。
+[Aspose.Total for .NET](https://products.aspose.com/total/net/）を使用すると、任意の.NET、C＃、ASP.NET、およびVB.NETアプリケーション内でJSONをWMFに解析できます。手順。まず、[Aspose.Cells for .NET](https://products.aspose.com/cells/net/）を使用して、JSONをJPEGにエクスポートできます。その後、[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/）を使用して、JPEGをWMFに変換できます。
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C＃を介してJSON形式をWMFに変換する" %}}
-1.新しい[Workbook]（https://apireference.aspose.com/cells/net/aspose.cells/workbook）オブジェクトを作成し、ファイルからJSONデータを読み取ります
-2. [保存]（https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4）メソッドを使用してJSONをJPEGに変換します
-3. [Image]（https://apireference.aspose.com/imaging/net/aspose.imaging/image）クラスを使用してJPEGドキュメントをロードします
-4. [保存]（https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4）メソッドを使用してドキュメントをWMF形式で保存します
+1.新しい[Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook）オブジェクトを作成し、ファイルからJSONデータを読み取ります
+2. [保存](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4）メソッドを使用してJSONをJPEGに変換します
+3. [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image）クラスを使用してJPEGドキュメントをロードします
+4. [保存](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4）メソッドを使用してドキュメントをWMF形式で保存します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 コマンドラインから```nuget install Aspose.Total```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから```Install-PackageAspose.Total```を使用してインストールします。
 
-または、[ダウンロード]（https://downloads.aspose.com/total/net）からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
+または、[ダウンロード](https://downloads.aspose.com/total/net）からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "parse-json-to-image.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="レイアウトを設定し、C＃を介してJSON形式をWMFに変換します" %}}
-JSONをWMFに解析するときに、[JsonLayoutOptions]（https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions）を使用してJSONのレイアウトオプションを設定することもできます。これにより、配列をテーブルとして処理し、nullを無視し、配列のタイトルを無視し、オブジェクトのタイトルを無視し、文字列を数値または日付に変換し、日付と数値の形式を設定し、タイトルのスタイルを設定できます。これらのオプションはすべて、必要に応じてデータを表示できます。次のコードスニペットは、レイアウトオプションを設定する方法を示しています。  
+{{% blocks/products/pf/feature-page](https:  h2="レイアウトを設定し、C＃を介してJSON形式をWMFに変換します" %}}
+JSONをWMFに解析するときに、[JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions）を使用してJSONのレイアウトオプションを設定することもできます。これにより、配列をテーブルとして処理し、nullを無視し、配列のタイトルを無視し、オブジェクトのタイトルを無視し、文字列を数値または日付に変換し、日付と数値の形式を設定し、タイトルのスタイルを設定できます。これらのオプションはすべて、必要に応じてデータを表示できます。次のコードスニペットは、レイアウトオプションを設定する方法を示しています。  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "set-layout-and-parse-json-to-image.cs" >}}
+{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "set-layout-and-parse-json-to-image.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-
+](https:](https:
 {{% blocks/products/pf/feature-page-section  h2="透かしを使用してJSON形式をWMFに解析します" %}}
-APIを使用して、WMFドキュメントに透かしを入れたJSONをWMFに変換することもできます。透かしを追加するには、最初にJSONドキュメントをJPEGにレンダリングし、それに透かしを追加します。操作を示すために、変換されたJPEG画像をロードし、Matrixクラスのオブジェクトを使用して変換を追加し、[Graphics]（https://apireference.aspose.com/imaging/）を使用して画像表面に透かしとして文字列を描画できます。 net / aspose.imaging / graphics）class'[DrawString]（https://apireference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring）メソッド。透かしを追加した後、JPEGをWMF形式で保存できます。以下は、ドキュメントに斜めの透かしを追加する方法を示すコード例です。 
+APIを使用して、WMFドキュメントに透かしを入れたJSONをWMFに変換することもできます。透かしを追加するには、最初にJSONドキュメントをJPEGにレンダリングし、それに透かしを追加します。操作を示すために、変換されたJPEG画像をロードし、Matrixクラスのオブジェクトを使用して変換を追加し、[Graphics](https://apireference.aspose.com/imaging/）を使用して画像表面に透かしとして文字列を描画できます。 net / aspose.imaging / graphics）class'[DrawString](https://apireference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring）メソッド。透かしを追加した後、JPEGをWMF形式で保存できます。以下は、ドキュメントに斜めの透かしを追加する方法を示すコード例です。 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -81,5 +84,3 @@ APIを使用して、WMFドキュメントに透かしを入れたJSONをWMFに�
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
-
-{{< /blocks/products/pf/feature-page-wrap >}}

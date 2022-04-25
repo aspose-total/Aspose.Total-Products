@@ -33,7 +33,8 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 [Aspose.Words for .NET](https://products.aspose.com/words/net/) juga memungkinkan Anda memuat dokumen DOT melalui aliran. Untuk membuka dokumen dari aliran, cukup teruskan objek aliran yang berisi dokumen ke konstruktor [Dokumen](https://apireference.aspose.com/words/net/aspose.words/dotument). Contoh kode berikut menunjukkan cara membuka dokumen dari aliran:  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 Saat mengonversi DOT ke XLAM, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) memungkinkan Anda menambahkan properti khusus di dokumen XLAM Anda. Untuk menambahkan properti kustom, Anda dapat menggunakan metode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotumentpropertycollection/methods/add/index) untuk [CustomDotumentPropertyCollection]( https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotumentpropertycollection) kelas. Metode Add menambahkan properti ke file Excel dan mengembalikan referensi untuk properti dokumen baru sebagai [Aspose.Cells.Properties.DotumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /dotumentproperty) objek. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -85,9 +88,7 @@ Saat mengonversi DOT ke XLAM, [Aspose.Cells for .NET](https://products.aspose.co
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/net/conversion/dot-to-xltx/" name="DOT Ke XLTX" description="" >}}
 
 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
-
+{{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

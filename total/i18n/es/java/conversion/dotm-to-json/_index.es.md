@@ -16,8 +16,8 @@ Convertir DOTM a formato JSON a través de [Aspose.Total for Java](https://produ
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convierta DOTM a formato JSON a través de Java" %}}
-1. Abra el archivo DOTM usando la clase [Dotmumento](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument)
-2. Convierta DOTM a HTML usando [Guardar](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,com.aspose.words.SaveOptions) ) método
+1. Abra el archivo DOTM usando la clase [Documento](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. Convierta DOTM a HTML usando [Guardar](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) método
 3. Cargue el dotmumento HTML utilizando la clase [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Guarde el dotmumento en formato JSON mediante [Guardar](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20int)) método
 {{% /blocks/products/pf/agp/feature-section-col %}}

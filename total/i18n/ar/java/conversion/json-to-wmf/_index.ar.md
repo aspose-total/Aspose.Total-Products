@@ -17,7 +17,7 @@ otherformats: TGA DICOM JPEG2000 WMZ EMZ PSD WMF DXF SVGZ IMAGE
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="تحويل تنسيق JSON إلى WMF عبر Java" %}}
 1. قم بإنشاء كائن [مصنف] جديد (https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) وافتح ملف JSON
-2. احفظ JSON بتنسيق JPEG باستخدام [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save (java.lang.String،٪ 20com.aspose.cells.SaveOptions) ) طريقة
+2. احفظ JSON بتنسيق JPEG باستخدام [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String،٪20com.aspose.cells.SaveOptions)) طريقة
 3. قم بتحميل مستند JPEG باستخدام فئة [صورة](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image)
 4. احفظ المستند بتنسيق WMF باستخدام [Save](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase -) طريقة
 {{% /blocks/products/pf/agp/feature-section-col %}}

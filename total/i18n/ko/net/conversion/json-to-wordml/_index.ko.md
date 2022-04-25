@@ -33,7 +33,8 @@ otherformats: PS OTT FLATOPC DOCM EPUB RTF DOTX ODT PCL WORDML DOC WORD DOT MOBI
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-doc.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ otherformats: PS OTT FLATOPC DOCM EPUB RTF DOTX ODT PCL WORDML DOC WORD DOT MOBI
 JSON을 WORDML으로 구문 분석하는 동안 [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions)를 사용하여 JSON에 대한 레이아웃 옵션을 설정할 수도 있습니다. 배열을 테이블로 처리하고, null을 무시하고, 배열 제목을 무시하고, 개체 제목을 무시하고, 문자열을 숫자 또는 날짜로 변환하고, 날짜 및 숫자 형식을 설정하고, 제목 스타일을 설정할 수 있습니다. 이러한 모든 옵션을 사용하면 필요에 따라 데이터를 표시할 수 있습니다. 다음 코드 스니펫은 레이아웃 옵션을 설정하는 방법을 보여줍니다.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "set-layout-and-parse-json-to-doc.cs" >}}
+{{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "set-layout-and-parse-json-to-doc.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ JSON을 WORDML으로 구문 분석하는 동안 [JsonLayoutOptions](https://apir
 API를 사용하여 워터마크가 있는 JSON을 WORDML으로 변환할 수도 있습니다. WORDML 문서에 워터마크를 추가하려면 먼저 JSON 파일을 PDF로 구문 분석하고 워터마크를 추가할 수 있습니다. 워터마크를 추가하려면 [Document](https://apireference.aspose.com/words/net/aspose.words/document) 클래스를 사용하여 새로 생성된 PDF 파일을 로드하고 TextWatermarkOptions 인스턴스를 생성하고 속성을 설정합니다. , Watermark.SetText 메서드를 호출하고 TextWatermarkOptions의 워터마크 텍스트 및 개체를 전달합니다. 워터마크를 추가한 후 문서를 WORDML에 저장할 수 있습니다. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -85,9 +88,7 @@ API를 사용하여 워터마크가 있는 JSON을 WORDML으로 변환할 수도
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/net/conversion/json-to-docm/" name="JSON 에게 DOCM" description="" >}}
 
 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
-
+{{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

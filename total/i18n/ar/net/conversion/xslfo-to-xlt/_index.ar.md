@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: XLTX XLSB ODS SXC XLAM XLTM XLSM FODS MD XLT TSV TXT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API لتقديم XSLFO إلى XLT" h2="تصدير ملف XSLFO إلى XLT عبر C# بدون استخدام Microsoft<sup>&reg;</sup> Excel أو Adobe <sup> & reg؛ </sup> Acrobat Reader" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API لتقديم XSLFO إلى XLT" h2="تصدير ملف XSLFO إلى XLT عبر C# بدون استخدام Microsoft<sup>&reg;</sup> Excel أو Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 باستخدام [Aspose.Total for .NET](https://products.aspose.com/total/net/) يمكنك بسهولة تحويل ملف XSLFO إلى XLT ضمن أي تطبيقات .NET و C# و ASP.NET و VB.NET. أولاً ، باستخدام [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) ، يمكنك تصدير XSLFO إلى XLSX. بعد ذلك ، باستخدام [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API ، يمكنك تحويل XLSX إلى XLT.

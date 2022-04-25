@@ -33,7 +33,8 @@ otherformats: ODS DIF TSV XLS XLT XLTX XLSX EXCEL XLSB XLTM XLSM SXC XLAM FODS
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ otherformats: ODS DIF TSV XLS XLT XLTX XLSX EXCEL XLSB XLTM XLSM SXC XLAM FODS
 [Aspose.Words for .NET](https://products.aspose.com/words/net/)에서도 스트림을 통해 DOTX 문서를 로드할 수 있습니다. 스트림에서 문서를 열려면 문서가 포함된 스트림 개체를 [Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument) 생성자에 전달하기만 하면 됩니다. 다음 코드 예제는 스트림에서 문서를 여는 방법을 보여줍니다.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: ODS DIF TSV XLS XLT XLTX XLSX EXCEL XLSB XLTM XLSM SXC XLAM FODS
 DOTX를 ODS로 변환하는 동안 [.NET용 Aspose.Cells](https://products.aspose.com/cells/net/)를 사용하여 ODS 문서에 사용자 정의 속성을 추가할 수 있습니다. 사용자 지정 속성을 추가하려면 [CustomDotxumentPropertyCollection]( https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotxumentpropertycollection) 클래스. Add 메서드는 속성을 Excel 파일에 추가하고 새 문서 속성에 대한 참조를 [Aspose.Cells.Properties.DotxumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties)로 반환합니다. /dotxumentproperty) 개체입니다. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -85,9 +88,7 @@ DOTX를 ODS로 변환하는 동안 [.NET용 Aspose.Cells](https://products.aspos
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/net/conversion/dotx-to-xltx/" name="DOTX 에게 XLTX" description="" >}}
 
 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
-
+{{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

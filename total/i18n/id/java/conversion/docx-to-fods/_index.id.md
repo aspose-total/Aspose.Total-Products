@@ -19,7 +19,7 @@ Mengonversi DOCX ke FODS melalui [Aspose.Total for Java](https://products.aspose
 1. Buka file DOCX menggunakan kelas [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 2. Konversi DOCX ke HTML dengan menggunakan [Simpan](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) metode
 3. Muat dokumen HTML dengan menggunakan kelas [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Simpan dokumen ke format FODS menggunakan [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. SaveOptions)) metode
+4. Simpan dokumen ke format FODS menggunakan [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String.%20com.aspose.cells.SaveOptions)) metode
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
 Anda dapat dengan mudah menggunakan Aspose.Total untuk Java langsung dari proyek berbasis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) dan sertakan [Aspose.Words for Java](https://docxs.aspose.com/words/java/installation/) dan [Aspose.Cells for Java](https://docxs.aspose.com/cells/java/ instalasi/) di pom.xml Anda.

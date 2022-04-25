@@ -13,35 +13,37 @@ otherformats: EXCEL XLSB ODS DIF SXC XLSM FODS TSV XLAM TXT XLTX MD
 {{< blocks/products/pf/i18n/feature-page-header h1="XPSをXLSMにレンダリングするC＃API" h2="Microsoft <sup>＆reg; </ sup>ExcelまたはAdobe<sup>＆reg; </ sup> Acrobat Readerを使用せずにC＃経由でXPSファイルをXLSMにエクスポートする" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for .NET]（https://products.aspose.com/total/net/）を使用すると、.NET、C＃、ASP.NET、およびVB.NETアプリケーション内でXPSファイルをXLSMに簡単に変換できます。まず、[Aspose.PDF for .NET]（https://products.aspose.com/pdf/net/）を使用して、XPSをXLSXにエクスポートできます。その後、[Aspose.Cells for .NET]（https://products.aspose.com/cells/net/）Spreadsheet Programming APIを使用して、XLSXをXLSMに変換できます。
+[Aspose.Total for .NET](https://products.aspose.com/total/net/）を使用すると、.NET、C＃、ASP.NET、およびVB.NETアプリケーション内でXPSファイルをXLSMに簡単に変換できます。まず、[Aspose.PDF for .NET](https://products.aspose.com/pdf/net/）を使用して、XPSをXLSXにエクスポートできます。その後、[Aspose.Cells for .NET](https://products.aspose.com/cells/net/）Spreadsheet Programming APIを使用して、XLSXをXLSMに変換できます。
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="XPSをXLSMに変換する.NETAPI" %}}
-1. [ドキュメント]（https://apireference.aspose.com/pdf/net/aspose.pdf/document）クラスを使用してXPSファイルを開きます
-2. [保存]（https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5）メソッドを使用してXPSをXLSXに変換します
-3. [ワークブック]（https://apireference.aspose.com/cells/net/aspose.cells/workbook）クラスを使用してXLSXドキュメントをロードします
-4. [保存]（https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4）メソッドを使用してドキュメントをXLSM形式で保存し、「Xlsm」をSaveFormatとして設定します
+1. [ドキュメント](https://apireference.aspose.com/pdf/net/aspose.pdf/document）クラスを使用してXPSファイルを開きます
+2. [保存](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5）メソッドを使用してXPSをXLSXに変換します
+3. [ワークブック](https://apireference.aspose.com/cells/net/aspose.cells/workbook）クラスを使用してXLSXドキュメントをロードします
+4. [保存](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4）メソッドを使用してドキュメントをXLSM形式で保存し、「Xlsm」をSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 コマンドラインから```nuget install Aspose.Total```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから```Install-PackageAspose.Total```を使用してインストールします。
 
-または、[ダウンロード]（https://downloads.aspose.com/total/net）からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
+または、[ダウンロード](https://downloads.aspose.com/total/net）からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-pdf-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="保護されたXPSをC＃経由でXLSMに変換する" %}}
-XPSドキュメントがパスワードで保護されている場合、パスワードなしでXLSMに変換することはできません。 APIを使用すると、最初に有効なパスワードを使用して保護されたドキュメントを開き、その後変換することができます。暗号化されたファイルを開くには、[Document]（https://apireference.aspose.com/pdf/net/aspose.pdf/document）クラスの新しいインスタンスを初期化し、ファイル名とパスワードを引数として渡すことができます。  
+{{% blocks/products/pf/feature-page-section  h2="保護されたXPSをC＃経由でXLSMに変換する" %}}](https:
+XPSドキュメントがパスワードで保護されている場合、パスワードなしでXLSMに変換することはできません。 APIを使用すると、最初に有効なパスワードを使用して保護されたドキュメントを開き、その後変換することができます。暗号化されたファイルを開くには、[Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document）クラスの新しいインスタンスを初期化し、ファイル名とパスワードを引数として渡すことができます。  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-password-protected-pdf-to-excel.cs" >}}
+{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-password-protected-pdf-to-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ XPSドキュメントがパスワードで保護されている場合、パス�
 XPSファイルをXLSMに変換するときに、出力XLSMファイル形式に透かしを追加することもできます。透かしを追加するには、新しいワークブックオブジェクトを作成し、変換されたXLSXドキュメントを開き、インデックスからワークシートを選択し、シェイプを作成して、AddTextEffect関数を使用します。その後、透かしを使用してXLSXドキュメントをXLSMとして保存できます。 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-pdf-to-excel-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-pdf-to-excel-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -85,5 +88,3 @@ XPSファイルをXLSMに変換するときに、出力XLSMファイル形式に
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
-
-{{< /blocks/products/pf/feature-page-wrap >}}

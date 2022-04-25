@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: TSV XLAM EXCEL FODS ODS XLS DIF XLTM XLSX SXC MHTML MARKDOWN XLTX XLSM XLT XLSB DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="تحويل POTX إلى XLT عبر Java" h2="في Premise Java API لتصدير POTX إلى XLT بدون استخدام Microsoft <sup> & reg؛ </sup> Excel أو PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="تحويل POTX إلى XLT عبر Java" h2="في Premise Java API لتصدير POTX إلى XLT بدون استخدام Microsoft<sup>&reg;</sup> Excel أو PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 يمكنك تحويل ملف POTX إلى XLT عبر [Aspose.Total for Java](https://products.aspose.com/total/java/) في خطوتين. في الخطوة الأولى ، يمكنك تصدير POTX إلى HTML باستخدام [Aspose.Slides for Java](https://products.aspose.com/slides/java/). ثانيًا ، باستخدام [Aspose.Cells for Java](https://products.aspose.com/cells/java/) ، يمكنك تحويل HTML إلى XLT.
 {{% /blocks/products/pf/feature-page-summary  %}}
@@ -19,7 +19,7 @@ otherformats: TSV XLAM EXCEL FODS ODS XLS DIF XLTM XLSX SXC MHTML MARKDOWN XLTX 
 1. افتح ملف POTX باستخدام فئة [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. تحويل POTX إلى HTML باستخدام [Save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) طريقة
 3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. احفظ المستند بتنسيق XLT باستخدام [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String%D8%8C%D9%AA20com.aspose.cells.%20SaveOptions)) الطريقة
+4. احفظ المستند بتنسيق XLT باستخدام [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String%D8%8C%D9%AA20com.aspose.cells.%20SaveOptions)) الطريقة
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
 لتحويل POTX إلى XLT ، يمكنك بسهولة استخدام Aspose.Total لـ Java مباشرة من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/ aspose / aspose-total) قائم على المشروع وقم بتضمين مكتبات في ملفك pom.xml.

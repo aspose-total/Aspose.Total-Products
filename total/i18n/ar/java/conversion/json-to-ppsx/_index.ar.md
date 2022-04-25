@@ -10,14 +10,14 @@ outformat: PPSX
 otherformats: PPT POTM PPTM PPS PPSX POT POWERPOINT OTP POTX PPSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="تحويل تنسيق JSON إلى PPSX عبر Java" h2="Java API لتحليل تنسيق JSON إلى PPSX بدون استخدام Microsoft <sup> & reg؛ </sup> PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="تحويل تنسيق JSON إلى PPSX عبر Java" h2="Java API لتحليل تنسيق JSON إلى PPSX بدون استخدام Microsoft<sup>&reg;</sup> PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 باستخدام [Aspose.Total for Java](https://products.aspose.com/total/java/) ، يمكنك تحويل تنسيق JSON إلى PPSX داخل أي تطبيق Java في خطوتين بسيطتين. أولاً ، باستخدام [Aspose.Cells for Java](https://products.aspose.com/cells/java/) ، يمكنك تحليل JSON إلى PPTX. بعد ذلك ، باستخدام [Aspose.Slides for Java](https://products.aspose.com/slides/java/) ، يمكنك تحويل PPTX إلى PPSX.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="تحويل تنسيق JSON إلى PPSX عبر Java" %}}
 1. قم بإنشاء كائن [مصنف] جديد (https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) وافتح ملف JSON
-2. احفظ JSON بتنسيق PPTX باستخدام [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save (java.lang.String،٪ 20com.aspose.cells.SaveOptions) ) طريقة
+2. احفظ JSON بتنسيق PPTX باستخدام [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String،٪20com.aspose.cells.SaveOptions)) طريقة
 3. قم بتحميل مستند PPTX باستخدام فئة [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 4. احفظ المستند بتنسيق PPSX باستخدام طريقة [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -42,7 +42,7 @@ otherformats: PPT POTM PPTM PPS PPSX POT POWERPOINT OTP POTX PPSM
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="قم بتعيين التخطيط وتحويل تنسيق JSON إلى PPSX عبر Java" %}}
-باستخدام API ، يمكنك أيضًا تحويل JSON إلى PPSX بعلامة مائية. لإضافة علامة مائية إلى مستند PPSX الخاص بك ، يمكنك أولاً تحليل JSON إلى PPTX وإضافة علامة مائية إليه. لإضافة علامة مائية ، قم بتحميل ملف PPTX الذي تم إنشاؤه حديثًا باستخدام فئة [العرض التقديمي](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) ، حلقة عبر جميع الشرائح ، أضف نصًا باستخدام addTextFrame ، اضبط جميع الخيارات ذات الصلة مثل color و fillType والمزيد ويمكن حفظ المستند في PPSX. 
+باستخدام API ، يمكنك أيضًا تحويل JSON إلى PPSX بعلامة مائية. لإضافة علامة مائية إلى مستند PPSX الخاص بك ، يمكنك أولاً تحليل JSON إلى PPTX وإضافة علامة مائية إليه. لإضافة علامة مائية ، قم بتحميل ملف PPTX الذي تم إنشاؤه حديثًا باستخدام فئة [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) ، حلقة عبر جميع الشرائح ، أضف نصًا باستخدام addTextFrame ، اضبط جميع الخيارات ذات الصلة مثل color و fillType والمزيد ويمكن حفظ المستند في PPSX. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "parse-json-to-powerpoint-with-watermark.java" >}}

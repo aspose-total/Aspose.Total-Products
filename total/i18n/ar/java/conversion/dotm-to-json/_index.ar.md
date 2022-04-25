@@ -10,16 +10,16 @@ outformat: JSON
 otherformats: XLAM XLTX TSV FODS XLT DIF CSV EXCEL XLSB XLS XLSM XLTM SXC ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="تحويل DOTM إلى تنسيق JSON عبر Java" h2="في Premise Java API لتحويل DOTM إلى JSON بدون استخدام Microsoft <sup> & reg؛ </sup> Word أو Microsoft <sup> & reg؛ </sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="تحويل DOTM إلى تنسيق JSON عبر Java" h2="في Premise Java API لتحويل DOTM إلى JSON بدون استخدام Microsoft<sup>&reg;</sup> Word أو Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 تحويل DOTM إلى تنسيق JSON عبر [Aspose.Total for Java](https://products.aspose.com/total/java/) هي عملية بسيطة من خطوتين. باستخدام واجهة برمجة تطبيقات معالجة المستندات والتحويل الغنية بالميزات [Aspose.Words for Java](https://products.aspose.com/words/java/) ، يمكنك تصدير DOTM إلى HTML. بعد ذلك ، باستخدام [Aspose.Cells for Java](https://products.aspose.com/cells/java/) ، يمكنك تحويل HTML إلى JSON.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="تحويل DOTM إلى تنسيق JSON عبر Java" %}}
-1. افتح ملف DOTM باستخدام فئة [Dotmument](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument)
-2. تحويل DOTM إلى HTML باستخدام [Save](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument#save (java.lang.String، com.aspose.words.SaveOptions) ) طريقة
+1. افتح ملف DOTM باستخدام فئة [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. تحويل DOTM إلى HTML باستخدام [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String.com.aspose.words.SaveOptions)) طريقة
 3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. احفظ المستند بتنسيق JSON باستخدام [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String%D8%8C%D9%AA20com.aspose.cells.%20SaveOptions)) الطريقة
+4. احفظ المستند بتنسيق JSON باستخدام [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String%D8%8C%D9%AA20com.aspose.cells.%20SaveOptions)) الطريقة
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
 يمكنك بسهولة استخدام Aspose.Total for Java مباشرة من مشروع قائم على [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) وتضمين مكتبات في ملفك pom.xml.

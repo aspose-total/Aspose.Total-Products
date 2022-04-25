@@ -38,7 +38,7 @@ otherformats: PPSX OTP POTM PPS POWERPOINT PPTM POTX PPT POT PPSM
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="تعيين التخطيط وتحويل تنسيق JSON إلى POTX عبر C#" %](
+{{% blocks/products/pf/feature-page-section  h2="تعيين التخطيط وتحويل تنسيق JSON إلى POTX عبر C#" %}}
 أثناء تحليل JSON إلى POTX ، يمكنك أيضًا تعيين خيارات التخطيط لتنسيق JSON باستخدام [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). يتيح لك معالجة الصفيف كجدول ، وتجاهل القيم الخالية ، وتجاهل عنوان الصفيف ، وتجاهل عنوان الكائن ، وتحويل السلسلة إلى رقم أو تاريخ ، وتعيين تنسيق التاريخ والأرقام ، وتعيين نمط العنوان. تتيح لك كل هذه الخيارات تقديم بياناتك وفقًا لاحتياجاتك. يوضح لك مقتطف الشفرة التالي كيفية تعيين خيارات التخطيط.  
 {{% blocks/products/pf/feature-page-code %}}
 
@@ -47,7 +47,7 @@ otherformats: PPSX OTP POTM PPS POWERPOINT PPTM POTX PPT POT PPSM
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="تحويل تنسيق JSON إلى POTX مع العلامة المائية" %}}
-باستخدام API ، يمكنك أيضًا تحويل JSON إلى POTX بعلامة مائية. لإضافة علامة مائية إلى مستند POTX الخاص بك ، يمكنك أولاً تحليل JSON إلى PPTX وإضافة علامة مائية إليه. لإضافة علامة مائية ، قم بتحميل ملف PPTX الذي تم إنشاؤه حديثًا باستخدام فئة [العرض التقديمي](https://apireference.aspose.com/slides/net/aspose.slides/presentation) ، حدد العرض التقديمي الرئيسي ، أضف نوع الشكل باستخدام AddAutoShape وإضافة نص العلامة المائية باستخدام AddTextFrame. بعد إضافة العلامة المائية ، يمكنك حفظ المستند في POTX. 
+باستخدام API ، يمكنك أيضًا تحويل JSON إلى POTX بعلامة مائية. لإضافة علامة مائية إلى مستند POTX الخاص بك ، يمكنك أولاً تحليل JSON إلى PPTX وإضافة علامة مائية إليه. لإضافة علامة مائية ، قم بتحميل ملف PPTX الذي تم إنشاؤه حديثًا باستخدام فئة [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) ، حدد العرض التقديمي الرئيسي ، أضف نوع الشكل باستخدام AddAutoShape وإضافة نص العلامة المائية باستخدام AddTextFrame. بعد إضافة العلامة المائية ، يمكنك حفظ المستند في POTX. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}

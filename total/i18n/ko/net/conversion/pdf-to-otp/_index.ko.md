@@ -105,5 +105,3 @@ presentation.Save("output.otp", SaveFormat.Otp);
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
-
-{{< /blocks/products/pf/feature-page-wrap >}}

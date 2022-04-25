@@ -134,5 +134,3 @@ document.Save("output.emf", SaveFormat.Emf);
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
-
-{{< /blocks/products/pf/feature-page-wrap >}}

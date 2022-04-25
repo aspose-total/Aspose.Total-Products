@@ -18,7 +18,7 @@ Al usar [Aspose.Total for .NET](https://products.aspose.com/total/net/) puede co
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convierta el formato DOTM a JSON a través de C#" %}}
-1. Abra el archivo DOTM usando la clase [Dotmumento](https://apireference.aspose.com/words/net/aspose.words/dotmument)
+1. Abra el archivo DOTM usando la clase [Documento](https://apireference.aspose.com/words/net/aspose.words/dotmument)
 2. Convierta DOTM a HTML usando el método [Guardar](https://apireference.aspose.com/words/net/aspose.words.dotmument/save/methods/4)
 3. Cargue el dotmumento HTML utilizando la clase [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Guarde el dotmumento en formato JSON usando el método [Guardar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)

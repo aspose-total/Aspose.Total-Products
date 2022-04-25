@@ -10,7 +10,7 @@ outformat: WMF
 otherformats: JPEG2000  PSD WMZ SVGZ DXF TGA WMF IMAGE EMZ DICOM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="تحويل ملف EPUB إلى WMF عبر C#" h2="قم بتصدير EPUB إلى WMF داخل تطبيقات .NET بدون استخدام Adobe <sup> & reg؛ </sup> Acrobat Reader أو أي تطبيقات أخرى تابعة لجهات خارجية" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="تحويل ملف EPUB إلى WMF عبر C#" h2="قم بتصدير EPUB إلى WMF داخل تطبيقات .NET بدون استخدام Adobe<sup>&reg;</sup> Acrobat Reader أو أي تطبيقات أخرى تابعة لجهات خارجية" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 باستخدام [Aspose.Total for .NET](https://products.aspose.com/total/net/) يمكنك بسهولة تصدير EPUB إلى صورة WMF ضمن أي تطبيقات .NET في خطوتين بسيطتين. بادئ ذي بدء ، باستخدام [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) ، يمكنك تصدير EPUB إلى JPEG. بعد ذلك ، باستخدام [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) واجهة برمجة تطبيقات معالجة الصور ، يمكنك تحويل JPEG إلى WMF.
