@@ -1,0 +1,114 @@
+---
+title: C＃APIを介してPCLをPPSにエクスポートする
+description: MicrosoftWordを使用せずにPCLをPPSに変換する.NETAPI
+url: /ja/net/conversion/pcl-to-pps/
+family: total
+platformtag: net
+feature: conversion
+informat: PCL
+outformat: PPS
+otherformats: PPS PPT PPSM POWERPOINT POTX XAML POTM PPTM POT PPSX SWF OTP
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/i18n/feature-page-header h1=".NETを介してPCLをPPSにレンダリングする" h2="Microsoft<sup>＆reg;</sup> PowerPointを使用せずにWindows、macOS、およびLinux上のPPSにPCLをエクスポートするための.NET API" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+強力なファイル形式自動化APIのパッケージ[Aspose.Total for .NET]（https://products.aspose.com/total/net/）を使用すると、2つの簡単な手順でPCLをPPSに簡単にレンダリングできます。 PDF Processing API [Aspose.PDF for .NET]（https://products.aspose.com/pdf/net/）を使用すると、PCLファイル形式をPPTXに変換できます。その後、Presentation Processing API [Aspose.Slides for .NET]（https://products.aspose.com/slides/net/）を使用して、PPTXをPPSに変換できます。
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="PCLをPPSに変換する.NETAPI" %}}
+1. [ドキュメント]（https://apireference.aspose.com/pdf/net/aspose.pdf/document）クラスを使用してPCLファイルを開きます
+2. [保存]（https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5）メソッドを使用してPCLをPPTXに変換します
+3. [プレゼンテーション]（https://apireference.aspose.com/slides/net/aspose.slides/presentation）クラスを使用してPPTXファイルをロードします
+4. [保存]（https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5）メソッドを使用してドキュメントをPPS形式で保存し、「Pps」をSaveFormatとして設定します
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
+コマンドラインから```nuget install Aspose.Total```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから```Install-PackageAspose.Total```を使用してインストールします。
+
+または、[ダウンロード]（https://downloads.aspose.com/total/net）からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/feature-page-code %}}
+
+```cs
+
+Document document = new Document("input.pcl");
+ 
+document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
+
+Presentation presentation = new Presentation("PptxOutput.pptx");
+
+presentation.Save("output.pps", SaveFormat.Pps);   
+```
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2=".NET経由でPCLファイルからXMPメタデータを取得する" %}}
+PCLをPPSに変換する際、バッチ変換プロセスに優先順位を付けるために、追加のXMPメタデータ情報が必要になる場合があります。たとえば、作成日に基づいて変換ドキュメントを取得して並べ替え、それに応じてドキュメントを処理できます。 [Aspose.PDF for .NET]（https://products.aspose.com/pdf/net/）を使用すると、PCLファイルのXMPメタデータにアクセスできます。 PCLファイルのメタデータを取得するには、[ドキュメント]（https://apireference.aspose.com/pdf/net/aspose.pdf/document）オブジェクトを作成し、入力PCLファイルを開きます。その後、[Metadata]（https://apireference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata）プロパティを使用してファイルのメタデータを取得できます。  
+{{% blocks/products/pf/feature-page-code %}}
+
+```cs
+
+Document doc = new Document("input.pcl");
+
+Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
+Console.WriteLine(doc.Metadata["xmp:Nickname"]);
+Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
+```
+
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2=".NETを介して読み取り専用PPSファイルを作成する" %}}
+[Aspose.Slides for .NET]（https://products.aspose.com/slides/net/）APIを使用すると、変換アプリケーションの機能をさらに強化できます。機能の1つは、セキュリティを強化するために読み取り専用の出力ファイルを作成することです。 APIを使用すると、PPSファイルを読み取り専用に設定できます。つまり、ユーザーは（プレゼンテーションを開いた後）読み取り専用の推奨事項を参照できます。 
+{{% blocks/products/pf/feature-page-code %}}
+
+```cs
+
+Presentation presentation = new Presentation("PptxOutput.pptx");
+
+presentation.ProtectionManager.ReadOnlyRecommended = true;
+
+presentation.Save("output.pps", SaveFormat.Pps);     
+```
+
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="その他の変換オプション" subTitle="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/net/conversion/pcl-to-pot/" name="PCL に POT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/net/conversion/pcl-to-ppsx/" name="PCL に PPSX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/net/conversion/pcl-to-swf/" name="PCL に SWF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/net/conversion/pcl-to-powerpoint/" name="PCL に POWERPOINT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/net/conversion/pcl-to-otp/" name="PCL に OTP" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/net/conversion/pcl-to-potm/" name="PCL に POTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/net/conversion/pcl-to-ppt/" name="PCL に PPT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/net/conversion/pcl-to-pps/" name="PCL に PPS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/net/conversion/pcl-to-potx/" name="PCL に POTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/net/conversion/pcl-to-xaml/" name="PCL に XAML" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/net/conversion/pcl-to-ppsm/" name="PCL に PPSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/net/conversion/pcl-to-pptm/" name="PCL に PPTM" description="" >}}
+
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< /blocks/products/pf/feature-page-wrap >}}

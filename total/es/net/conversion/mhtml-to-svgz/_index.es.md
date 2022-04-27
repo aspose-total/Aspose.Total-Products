@@ -1,0 +1,91 @@
+---
+title: Convierta MHTML a SVGZ a través de la API de C#
+description: Exporte MHTML a SVGZ en sus aplicaciones .NET sin usar ninguna aplicación de terceros
+url: /es/net/conversion/mhtml-to-svgz/
+family: total
+platformtag: net
+feature: conversion
+informat: MHTML
+outformat: SVGZ
+otherformats: SVGZ WMF TGA JPEG2000  IMAGE DXF WMZ EMZ PSD DICOM
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convierta el archivo MHTML a SVGZ a través de C#" h2="Exporte MHTML a SVGZ dentro de aplicaciones .NET sin utilizar Adobe<sup>&reg;</sup> Acrobat Reader ni ninguna otra aplicación de terceros" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+Con [Aspose.Total para .NET](https://products.aspose.com/total/net/) puede exportar fácilmente una imagen MHTML a SVGZ dentro de cualquier aplicación .NET en dos sencillos pasos. En primer lugar, al usar [Aspose.PDF para .NET](https://products.aspose.com/pdf/net/), puede exportar MHTML a JPEG. Después de eso, al usar [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) API de procesamiento de imágenes, puede convertir JPEG a SVGZ.
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Convierta el archivo MHTML a SVGZ a través de .NET" %}}
+1. Abra el archivo MHTML usando la clase [Documento](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
+2. Inicialice el objeto de clase [JpegDevice](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) y renderice MHTML a JPEG mediante [Process](https://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) método
+3. Cargue el archivo JPEG usando la clase [Imagen](https://apireference.aspose.com/imaging/net/aspose.imaging/image)
+4. Guarde el documento en formato SVGZ usando el método [Guardar](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
+Instale desde la línea de comandos como ```nuget install Aspose.Total``` o a través de Package Manager Console de Visual Studio con ```Install-Package Aspose.Total```.
+
+Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archivo ZIP desde [descargas](https://downloads.aspose.com/total/net).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-image.cs" >}}
+
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Convierta un archivo MHTML a SVGZ en un solo archivo a través de C#" %}}
+Con la API, también puede convertir un archivo MHTML a SVGZ en un solo archivo de imagen. Para convertir todas las páginas, primero puede convertir su documento MHTML en un archivo TIFF y luego puede exportar el archivo TIFF a SVGZ. Puede abrir el archivo de entrada usando la clase [Documento](https://apireference.aspose.com/pdf/net/aspose.pdf/document) y crear objetos de dispositivo Resolución, TiffSettings y TIFF. Puede obtener una sola imagen TIFF usando el método [Proceso](https://apireference.aspose.com/pdf/net/aspose.pdf.devices.documentdevice/process/methods/3) de [TiffDevice](https:// apireference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice) clase. Finalmente, puede cargar el archivo TIFF usando la clase [Imagen](https://apireference.aspose.com/imaging/net/aspose.imaging/image)
+y guárdelo en formato SVGZ usando el método [Guardar](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4).  
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-single-file.cs" >}}
+
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="Convertir y rotar archivos MHTML a SVGZ a través de C#" %}}
+Usando la API, también puede rotar la imagen SVGZ de salida según sus necesidades. El método Image.RotateFlip se puede usar para rotar la imagen 90/180/270 grados y voltear la imagen horizontal o verticalmente. Puede especificar el tipo de rotación y volteo para aplicar a la imagen. Para rotar y voltear la imagen, puede cargar la imagen JPEG convertida utilizando el método de fábrica expuesto por la clase [Imagen](https://apireference.aspose.com/imaging/net/aspose.imaging/image) y llamar a la clase Imagen .RotateFlip al especificar el [RotateFlipType] apropiado (https://apireference.aspose.com/imaging/net/aspose.imaging/rotatefliptype). 
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-and-rotate-pdf-to-image.cs" >}}
+
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Otras opciones de conversión" subTitle="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/mhtml-to-emz/" name="MHTML Para EMZ" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/mhtml-to-tga/" name="MHTML Para TGA" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/mhtml-to-jpeg2000/" name="MHTML Para JPEG2000" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/mhtml-to-image/" name="MHTML Para IMAGE" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/mhtml-to-psd/" name="MHTML Para PSD" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/mhtml-to-wmz/" name="MHTML Para WMZ" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/mhtml-to-svgz/" name="MHTML Para SVGZ" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/mhtml-to/" name="MHTML Para" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/mhtml-to-wmf/" name="MHTML Para WMF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/mhtml-to-dxf/" name="MHTML Para DXF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/mhtml-to-dicom/" name="MHTML Para DICOM" description="" >}}
+
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< /blocks/products/pf/feature-page-wrap >}}
