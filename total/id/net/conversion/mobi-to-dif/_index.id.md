@@ -18,7 +18,7 @@ Dengan menggunakan [Aspose.Total for .NET](https://products.aspose.com/total/net
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API untuk Mengonversi MOBI ke DIF" %}}
-1. Buka file MOBI menggunakan kelas [Mobiument](https://apireference.aspose.com/words/net/aspose.words/mobiument)
+1. Buka file MOBI menggunakan kelas [Document](https://apireference.aspose.com/words/net/aspose.words/mobiument)
 2. Konversi MOBI ke HTML dengan menggunakan metode [Simpan](https://apireference.aspose.com/words/net/aspose.words.mobiument/save/methods/4)
 3. Muat dokumen HTML dengan menggunakan kelas [Buku Kerja](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Simpan dokumen ke format DIF menggunakan metode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) dan setel `DIF` sebagai SaveFormat
@@ -48,7 +48,7 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 {{% /blocks/products/pf/feature-page-section %}}
 (https
 {{% blocks/products/pf/feature-page-section  h2="Tambahkan Properti Kustom dalam File DIF melalui C#" %}}
-Saat mengonversi MOBI ke DIF, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) memungkinkan Anda menambahkan properti khusus di dokumen DIF Anda. Untuk menambahkan properti kustom, Anda dapat menggunakan metode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection/methods/add/index) untuk [CustomMobiumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection) kelas. Metode Add menambahkan properti ke file Excel dan mengembalikan referensi untuk properti dokumen baru sebagai [Aspose.Cells.Properties.MobiumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /mobiumentproperty) objek. 
+Saat mengonversi MOBI ke DIF, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) memungkinkan Anda menambahkan properti khusus di dokumen DIF Anda. Untuk menambahkan properti kustom, Anda dapat menggunakan metode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection/methods/add/index) untuk [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection) kelas. Metode Add menambahkan properti ke file Excel dan mengembalikan referensi untuk properti dokumen baru sebagai [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /mobiumentproperty) objek. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

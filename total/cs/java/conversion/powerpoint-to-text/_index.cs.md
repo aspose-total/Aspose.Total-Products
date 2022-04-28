@@ -17,7 +17,7 @@ otherformats: OTT TEXTM WORDML RTF TEXT DOTX WORD TEXTX FLATOPC ODT DOT DOTM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak převést POWERPOINT na TEXT přes Java" %}}
 1. Otevřete soubor POWERPOINT pomocí třídy [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Převeďte POWERPOINT do HTML pomocí [uložit](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) a nastavte Html jako SaveFormat
+2. Převeďte POWERPOINT do HTML pomocí [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) a nastavte Html jako SaveFormat
 3. Načtěte převedený soubor HTML pomocí třídy [Textument](https://apireference.aspose.com/words/java/com.aspose.words/Textument)
 4. Uložte dokument ve formátu TEXT pomocí metody [save](https://apireference.aspose.com/words/java/com.aspose.words/Textument#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}

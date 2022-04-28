@@ -42,7 +42,7 @@ presentation.save("output.odp", SaveFormat.Odp);
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Yêu cầu chuyển đổi" %}}](](
-Trong khi tải định dạng tệp PDF, tài liệu của bạn có thể được bảo vệ bằng mật khẩu. [Aspose.PDF dành cho Java](https://products.aspose.com/pdf/java/) cũng cho phép bạn mở các tài liệu được mã hóa. Để mở tệp được mã hóa, bạn có thể khởi tạo phiên bản mới của [Tài liệu](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java .lang.String-) và chuyển tên tệp và mật khẩu làm đối số.  
+Trong khi tải định dạng tệp PDF, tài liệu của bạn có thể được bảo vệ bằng mật khẩu. [Aspose.PDF dành cho Java](https://products.aspose.com/pdf/java/) cũng cho phép bạn mở các tài liệu được mã hóa. Để mở tệp được mã hóa, bạn có thể khởi tạo phiên bản mới của [Tài liệu](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-) và chuyển tên tệp và mật khẩu làm đối số.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java

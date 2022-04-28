@@ -18,8 +18,8 @@ otherformats: XLSX XLSM XLS XLT CSV TSV EXCEL XLSB SXC FODS DIF ODS XLTM XLAM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C#을 통해 WORD를 JSON 형식으로 변환" %}}
-1. [Wordument](https://apireference.aspose.com/words/net/aspose.words/wordument) 클래스를 사용하여 WORD 파일을 엽니다.
-2. [저장](https://apireference.aspose.com/words/net/aspose.words.wordument/save/methods/4) 메서드를 사용하여 WORD를 HTML로 변환
+1. [Document](https://apireference.aspose.com/words/net/aspose.words/document) 클래스를 사용하여 WORD 파일을 엽니다.
+2. [저장](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) 메서드를 사용하여 WORD를 HTML로 변환
 3. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) 클래스를 사용하여 HTML 문서 로드
 4. [저장](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 메서드를 사용하여 문서를 JSON 형식으로 저장합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}

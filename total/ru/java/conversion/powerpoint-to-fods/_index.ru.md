@@ -17,7 +17,7 @@ otherformats: XLSB XLSM XLAM DIF FODS XLSX XLTX EXCEL ODS XLTM MARKDOWN TSV XLT 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как преобразовать POWERPOINT в FODS через Java" %}}
 1. Откройте файл POWERPOINT, используя класс [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation).
-2. Преобразуйте POWERPOINT в HTML, используя [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) метод
+2. Преобразуйте POWERPOINT в HTML, используя [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) метод
 3. Загрузите HTML-документ с помощью класса [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).
 4. Сохраните документ в формате FODS, используя [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. SaveOptions)) метод
 {{% /blocks/products/pf/agp/feature-section-col %}}

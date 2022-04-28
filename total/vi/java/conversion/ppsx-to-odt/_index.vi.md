@@ -19,7 +19,7 @@ otherformats: DOT ODT RTF TEXT DOTX WORD FLATOPC ODTM OTT DOTM ODTX WORDML
 1. Mở tệp PPSX bằng lớp [Trình bày](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Chuyển đổi PPSX sang HTML bằng cách sử dụng [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. Phương thức ISaveOptions-) và đặt Html làm SaveFormat
 3. Tải tệp HTML đã chuyển đổi bằng lớp [Odtument](https://apireference.aspose.com/words/java/com.aspose.words/Odtument)
-4. Lưu tài liệu sang định dạng ODT bằng phương thức [save](https://apireference.aspose.com/words/java/com.aspose.words/Odtument#save (java.lang.String, int))
+4. Lưu tài liệu sang định dạng ODT bằng phương thức [save](https://apireference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String, int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
 Để chuyển đổi tệp PPSX sang ODT, bạn có thể dễ dàng sử dụng Aspose.Total cho Java trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) dựa trên dự án và bao gồm các thư viện trong pom.xml của bạn.

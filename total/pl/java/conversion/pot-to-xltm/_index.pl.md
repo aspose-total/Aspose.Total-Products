@@ -22,28 +22,31 @@ Możesz przekonwertować plik POT na XLTM za pomocą [Aspose.Total for Java](htt
 4. Zapisz dokument w formacie XLTM, używając [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. SaveOptions)) metoda
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
-Aby przekonwertować POT do XLTM, możesz łatwo użyć Aspose.Total dla Javy bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/ aspose/aspose-total) i dołącz biblioteki do swojego pom.xml.
+Aby przekonwertować POT do XLTM, możesz łatwo użyć Aspose.Total dla Javy bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i dołącz biblioteki do swojego pom.xml.
 
 Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Wymagania dotyczące konwersji" %}}
 Korzystając z interfejsu API, możesz również otworzyć dokument chroniony hasłem. Jeśli wejściowy dokument POT jest chroniony hasłem, nie można go przekonwertować na XLTM bez użycia hasła. API umożliwia otwarcie zaszyfrowanego dokumentu poprzez podanie prawidłowego hasła w obiekcie LoadOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Konwertuj chroniony POT na XLTM za pomocą Javy" %}}
 Podczas konwertowania pliku POT do XLTM możesz również dodać znak wodny do wyjściowego formatu pliku XLTM. Aby dodać znak wodny, utwórz nowy skoroszyt, aby otworzyć przekonwertowany plik HTML. Wybierz arkusz roboczy za pomocą jego indeksu, utwórz kształt i użyj jego funkcji addTextEffect, ustaw kolory, przezroczystość i nie tylko. Następnie możesz zapisać swój dokument HTML jako XLTM ze znakiem wodnym. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

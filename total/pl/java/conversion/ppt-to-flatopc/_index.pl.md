@@ -17,7 +17,7 @@ otherformats: RTF FLATOPCM WORDML WORD ODT TEXT FLATOPC DOTX DOTM DOT OTT FLATOP
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak przekonwertować PPT na FLATOPC za pomocą Javy?" %}}
 1. Otwórz plik PPT za pomocą klasy [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Przekonwertuj PPT na HTML, używając [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) i ustaw HTML jako SaveFormat
+2. Przekonwertuj PPT na HTML, używając [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) i ustaw HTML jako SaveFormat
 3. Załaduj przekonwertowany plik HTML za pomocą klasy [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument)
 4. Zapisz dokument w formacie FLATOPC za pomocą metody [save](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -29,14 +29,16 @@ Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Wymagania dotyczące konwersji" %}}
 Korzystając z API, możesz również wykonać konwersję pliku PPT do FLATOPC ze znakiem wodnym. Aby dodać znak wodny do dokumentu FLATOPC, możesz najpierw przekonwertować plik PPT na HTML i dodać do niego znak wodny. Aby dodać znak wodny, załaduj nowo utworzony plik HTML za pomocą klasy [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument), utwórz instancję TextWatermarkOptions i ustaw jego właściwości, wywołaj metodę Watermark.setText i przekaż tekst znaku wodnego i obiekt TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}
+{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

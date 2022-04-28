@@ -17,7 +17,7 @@ A menudo, los desarrolladores tienen que convertir el archivo WORDML a PPT media
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir WORDML a PPT a través de Java" %}}
 1. Abra el archivo WORDML usando la clase [Wordmlumento](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument)
-2. Convierta el archivo WORDML a HTML usando [guardar](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument#save(java.lang.String,com.aspose.words.SaveOptions )) método
+2. Convierta el archivo WORDML a HTML usando [guardar](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument#save(java.lang.String,com.aspose.words.SaveOptions)) método
 3. Inicialice un nuevo objeto [Presentación](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraiga el contenido del archivo HTML usando BufferedReader y escriba el contenido en su archivo de presentación
 6. Guarde el wordmlumento en PPT usando el método [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

@@ -17,7 +17,7 @@ otherformats: PPSM PPS POTX POTM PPTM PPTX POWERPOINT PPSX PPT POT CSV DIF FODS 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak převést WORDML na PPSX přes Java" %}}
 1. Otevřete soubor WORDML pomocí třídy [Wordmlument](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument)
-2. Převeďte soubor WORDML do HTML pomocí [uložit](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument#save(java.lang.String,com.aspose.words.SaveOptions))) metoda
+2. Převeďte soubor WORDML do HTML pomocí [save](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument#save(java.lang.String,com.aspose.words.SaveOptions))) metoda
 3. Inicializujte nový objekt [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extrahujte obsah ze souboru HTML pomocí BufferedReader a zapište obsah do souboru prezentace
 6. Uložte dokument do PPSX pomocí metody [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

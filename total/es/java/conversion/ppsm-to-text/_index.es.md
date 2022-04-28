@@ -17,7 +17,7 @@ otherformats: RTF TEXTM ODT FLATOPC DOTM TEXTX DOT TEXT OTT DOTX WORD WORDML
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir PPSM a TEXT a través de Java" %}}
 1. Abra el archivo PPSM usando la clase [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Convierta PPSM a HTML usando [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) y establezca Html como SaveFormat
+2. Convierta PPSM a HTML usando [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) y establezca Html como SaveFormat
 3. Cargue el archivo HTML convertido usando la clase [Textumento](https://apireference.aspose.com/words/java/com.aspose.words/Textument)
 4. Guarde el textumento en formato TEXT usando el método [save](https://apireference.aspose.com/words/java/com.aspose.words/Textument#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}

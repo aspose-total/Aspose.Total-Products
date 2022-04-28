@@ -17,7 +17,7 @@ otherformats: RTFX RTFM TEXT OTT WORDML DOTX WORD RTF ODT FLATOPC DOTM DOT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل PPSM إلى RTF عبر Java" %}}
 1. افتح ملف PPSM باستخدام فئة [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. تحويل PPSM إلى HTML باستخدام [Save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) وتعيين Html كـ SaveFormat
+2. تحويل PPSM إلى HTML باستخدام [Save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) وتعيين Html كـ SaveFormat
 3. قم بتحميل ملف HTML المحول باستخدام فئة [Rtfument](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument)
 4. احفظ المستند بتنسيق RTF باستخدام طريقة [Save](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument#save(java.lang.String.int))
 {{% /blocks/products/pf/agp/feature-section-col %}}

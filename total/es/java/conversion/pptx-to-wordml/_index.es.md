@@ -17,7 +17,7 @@ otherformats: WORD TEXT WORDMLX WORDML WORDMLM DOTX DOT RTF ODT OTT DOTM FLATOPC
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir PPTX a WORDML a través de Java" %}}
 1. Abra el archivo PPTX usando la clase [Presentación](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Convierta PPTX a HTML usando [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) y establezca Html como SaveFormat
+2. Convierta PPTX a HTML usando [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) y establezca Html como SaveFormat
 3. Cargue el archivo HTML convertido usando la clase [Wordmlumento](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument)
 4. Guarde el wordmlumento en formato WORDML usando el método [save](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}

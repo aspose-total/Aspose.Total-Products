@@ -17,7 +17,7 @@ otherformats: DOT TEXT ODT FLATOPCM WORDML WORD DOTX FLATOPCX OTT DOTM FLATOPC R
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir POTM a FLATOPC a través de Java" %}}
 1. Abra el archivo POTM usando la clase [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Convierta POTM a HTML usando [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) y establezca Html como SaveFormat
+2. Convierta POTM a HTML usando [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) y establezca Html como SaveFormat
 3. Cargue el archivo HTML convertido usando la clase [Flatopcumento](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument)
 4. Guarde el flatopcumento en formato FLATOPC usando el método [save](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}

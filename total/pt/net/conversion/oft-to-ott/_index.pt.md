@@ -13,7 +13,7 @@ otherformats: SVG DOT PS OTT EMF DOCX MD PCL TEXT ODT PDF WORDML PNG EPUB FLATOP
 {{< blocks/products/pf/i18n/feature-page-header h1="Exportar OFT para OTT via .NET" h2="API .NET para renderizar OFT para OTT no Windows, macOS e Linux sem usar Word ou Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Se você é um desenvolvedor .NET que deseja adicionar recursos de conversão de OFT para OTT dentro de seus aplicativos, as APIs de manipulação de formato de arquivo [Aspose.Total for .NET](https://products.aspose.com/total/net/) são o caminho. frente. Usando [Aspose.Oft para .NET](https://products.aspose.com/oft/net/), você pode converter o formato de arquivo OFT para HTML. Depois disso, usando [Aspose.Words for .NET](https://products.aspose.com/words/net/), você pode renderizar HTML para OTT.
+Se você é um desenvolvedor .NET que deseja adicionar recursos de conversão de OFT para OTT dentro de seus aplicativos, as APIs de manipulação de formato de arquivo [Aspose.Total for .NET](https://products.aspose.com/total/net/) são o caminho. frente. Usando [Aspose.Cells para .NET](https://products.aspose.com/oft/net/), você pode converter o formato de arquivo OFT para HTML. Depois disso, usando [Aspose.Words for .NET](https://products.aspose.com/words/net/), você pode renderizar HTML para OTT.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.ott", SaveFormat.Ott);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analisar arquivo OFT via .NET" %}}
-Antes de converter OFT para OTT, se você quiser ter certeza de que está convertendo o oft correto, você pode carregar o documento OFT, analisá-lo e dar uma olhada na propriedade desejada. Usando a classe [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) de [Aspose.Oft for .NET](https://products.aspose.com/oft /net/) API, você pode obter informações de remetente e destinatários. Por exemplo, você pode verificar um e-mail de remetente específico para a conversão usando a propriedade [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
+Antes de converter OFT para OTT, se você quiser ter certeza de que está convertendo o oft correto, você pode carregar o documento OFT, analisá-lo e dar uma olhada na propriedade desejada. Usando a classe [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) de [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API, você pode obter informações de remetente e destinatários. Por exemplo, você pode verificar um e-mail de remetente específico para a conversão usando a propriedade [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

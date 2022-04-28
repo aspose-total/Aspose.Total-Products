@@ -17,7 +17,7 @@ otherformats: DOCXM TEXT DOCX RTF DOTX WORDML ODT DOTM FLATOPC OTT WORD DOT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как преобразовать PPS в DOCX через Java" %}}
 1. Откройте файл PPS, используя класс [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation).
-2. Преобразуйте PPS в HTML, используя [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) и установите Html как SaveFormat
+2. Преобразуйте PPS в HTML, используя [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) и установите Html как SaveFormat
 3. Загрузите преобразованный файл HTML с помощью класса [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document).
 4. Сохраните документ в формате DOCX, используя метод [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}

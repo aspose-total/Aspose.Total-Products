@@ -17,12 +17,12 @@ Puede convertir un archivo POT a DIF a través de [Aspose.Total for Java](https:
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir POT a DIF a través de Java" %}}
 1. Abra el archivo POT usando la clase [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Convierta POT a HTML usando [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) método
+2. Convierta POT a HTML usando [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) método
 3. Cargue el documento HTML utilizando la clase [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Guarde el documento en formato DIF usando [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.GuardarOpciones)) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
-Para convertir POT a DIF, puede usar fácilmente Aspose.Total para Java directamente desde un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/ aspose/aspose-total) e incluya bibliotecas en su pom.xml.
+Para convertir POT a DIF, puede usar fácilmente Aspose.Total para Java directamente desde un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e incluya bibliotecas en su pom.xml.
 
 Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

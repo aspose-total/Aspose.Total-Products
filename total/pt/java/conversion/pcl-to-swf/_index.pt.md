@@ -37,11 +37,12 @@ document.save("PptxOutput.pptx", SaveFormat.Pptx);
 Presentation presentation = new Presentation("PptxOutput.pptx");
 // save the presentation as Swf format
 presentation.save("output.swf", SaveFormat.Swf);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Requisitos de conversão" %}}
-Ao carregar o formato de arquivo PCL, seu documento pode estar protegido por senha. [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) também permite abrir documentos criptografados. Para abrir o arquivo criptografado, você pode inicializar uma nova instância do [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java .lang.String-) e passe o nome do arquivo e a senha como argumentos.  
+{{% blocks/products/pf/feature-page-section  h2="Requisitos de conversão" %}}Document#Document-java.lang.String-java.lang.String-
+Ao carregar o formato de arquivo PCL, seu documento pode estar protegido por senha. [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) também permite abrir documentos criptografados. Para abrir o arquivo criptografado, você pode inicializar uma nova instância do [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-) e passe o nome do arquivo e a senha como argumentos.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java
@@ -50,11 +51,12 @@ Document doc = new Document("input.pcl", "Your@Password");
 // save PCL as PPTX format 
 document.save("PptxOutput.pptx", SaveFormat.Pptx); 
 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Abrir arquivo PCL criptografado via Java" %}}
-Depois de converter PCL para SWF, você também pode adicionar um tipo de visualização predefinido para sua apresentação. [Aspose.Slides for Java](https://products.aspose.com/slides/java/) fornece um recurso para definir o tipo de exibição para a apresentação gerada quando ela é aberta no PowerPoint por meio de [ViewProperties](https:/ /apireference.aspose.com/slides/java/com.aspose.slides/ViewProperties). A propriedade [setLastView](https://apireference.aspose.com/slides/java/com.aspose.slides/ViewProperties#setLastView-int-) é usada para definir o tipo de visualização usando o [ViewType](https:/ /apireference.aspose.com/slides/java/com.aspose.slides/ViewType). 
+Depois de converter PCL para SWF, você também pode adicionar um tipo de visualização predefinido para sua apresentação. [Aspose.Slides for Java](https://products.aspose.com/slides/java/) fornece um recurso para definir o tipo de exibição para a apresentação gerada quando ela é aberta no PowerPoint por meio de [ViewProperties](https://apireference.aspose.com/slides/java/com.aspose.slides/ViewProperties). A propriedade [setLastView](https://apireference.aspose.com/slides/java/com.aspose.slides/ViewProperties#setLastView-int-) é usada para definir o tipo de visualização usando o [ViewType](https://apireference.aspose.com/slides/java/com.aspose.slides/ViewType). 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java
@@ -64,7 +66,8 @@ Presentation presentation = new Presentation("PptxOutput.pptx");
 presentation.getViewProperties().setLastView((byte) ViewType.SlideMasterView);
 // save the presentation as Swf format
 presentation.save("output.swf", SaveFormat.Swf);    
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

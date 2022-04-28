@@ -18,8 +18,8 @@ Używając [Aspose.Total for .NET](https://products.aspose.com/total/net/) może
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API do konwersji OTT na XLTX" %}}
-1. Otwórz plik OTT za pomocą klasy [Document](https://apireference.aspose.com/words/net/aspose.words/ottument)
-2. Konwertuj OTT na HTML za pomocą metody [Save](https://apireference.aspose.com/words/net/aspose.words.ottument/save/methods/4)
+1. Otwórz plik OTT za pomocą klasy [Document](https://apireference.aspose.com/words/net/aspose.words/document)
+2. Konwertuj OTT na HTML za pomocą metody [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)
 3. Załaduj dokument HTML za pomocą klasy [Książka](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Zapisz dokument w formacie XLTX za pomocą metody [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) i ustaw `XLTX` jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -39,7 +39,7 @@ Możesz też pobrać instalator offline MSI lub biblioteki DLL w pliku ZIP ze st
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Załaduj dokument OTT ze strumienia za pomocą C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) umożliwia również ładowanie dokumentu OTT przez strumień. Aby otworzyć dokument ze strumienia, po prostu przekaż obiekt strumienia, który zawiera dokument, do konstruktora [Document](https://apireference.aspose.com/words/net/aspose.words/ottument). Poniższy przykład kodu pokazuje, jak otworzyć dokument ze strumienia:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) umożliwia również ładowanie dokumentu OTT przez strumień. Aby otworzyć dokument ze strumienia, po prostu przekaż obiekt strumienia, który zawiera dokument, do konstruktora [Document](https://apireference.aspose.com/words/net/aspose.words/document). Poniższy przykład kodu pokazuje, jak otworzyć dokument ze strumienia:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ Możesz też pobrać instalator offline MSI lub biblioteki DLL w pliku ZIP ze st
 {{% /blocks/products/pf/feature-page-section %}}
 (https
 {{% blocks/products/pf/feature-page-section  h2="Dodaj niestandardowe właściwości w pliku XLTX za pomocą C#" %}}
-Podczas konwertowania OTT na XLTX [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) umożliwia dodawanie niestandardowych właściwości w dokumentach XLTX. Aby dodać niestandardową właściwość, możesz użyć metody [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customottumentpropertycollection/methods/add/index) dla [CustomOttumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customottumentpropertycollection). Metoda Add dodaje właściwość do pliku Excel i zwraca odwołanie do nowej właściwości dokumentu jako [Aspose.Cells.Properties.OttumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /ottumentproperty). 
+Podczas konwertowania OTT na XLTX [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) umożliwia dodawanie niestandardowych właściwości w dokumentach XLTX. Aby dodać niestandardową właściwość, możesz użyć metody [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) dla [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection). Metoda Add dodaje właściwość do pliku Excel i zwraca odwołanie do nowej właściwości dokumentu jako [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /documentproperty). 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

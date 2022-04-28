@@ -13,7 +13,7 @@ otherformats: DOT PNG DOTM ODT MD RTF DOC FLATOPC PCL GIF WORDML TEXT DOTX TIFF 
 {{< blocks/products/pf/i18n/feature-page-header h1="Exportálja az OFT-t WORDML-be .NET-en keresztül" h2=".NET API az OFT WORDML formátumban való megjelenítéséhez Windows, macOS és Linux rendszeren Word vagy Outlook használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Ha Ön .NET-fejlesztő, szeretné hozzáadni az OFT-t az alkalmazásokon belüli WORDML-konverziós funkciókhoz, az [Aspose.Total for .NET](https://products.aspose.com/total/net/) fájlformátum-manipulációs API-k jelentik az utat. előre. Az [Aspose.Oft for .NET](https://products.aspose.com/oft/net/) használatával konvertálhatja az OFT fájlformátumot HTML-re. Ezt követően az [Aspose.Words for .NET](https://products.aspose.com/words/net/) használatával a HTML-t WORDML-be renderelheti.
+Ha Ön .NET-fejlesztő, szeretné hozzáadni az OFT-t az alkalmazásokon belüli WORDML-konverziós funkciókhoz, az [Aspose.Total for .NET](https://products.aspose.com/total/net/) fájlformátum-manipulációs API-k jelentik az utat. előre. Az [Aspose.Cells for .NET](https://products.aspose.com/oft/net/) használatával konvertálhatja az OFT fájlformátumot HTML-re. Ezt követően az [Aspose.Words for .NET](https://products.aspose.com/words/net/) használatával a HTML-t WORDML-be renderelheti.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.wordml", SaveFormat.WordML);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Az OFT fájl elemzése .NET-en keresztül" %}}
-Az OFT WORDML-vé konvertálása előtt, ha meg szeretne győződni arról, hogy a megfelelő e-mailt konvertálja, töltse be az OFT dokumentumot, elemezze, és tekintse meg a kívánt tulajdonságot. A [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) [Aspose.Oft for .NET] osztályának használatával (https://products.aspose.com/oft /net/) API, a küldő és a címzett információkat kaphat. Például a [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername) tulajdonság használatával ellenőrizheti a konverzióhoz tartozó feladó e-mail-címét.  
+Az OFT WORDML-vé konvertálása előtt, ha meg szeretne győződni arról, hogy a megfelelő e-mailt konvertálja, töltse be az OFT dokumentumot, elemezze, és tekintse meg a kívánt tulajdonságot. A [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) [Aspose.Cells for .NET] osztályának használatával (https://products.aspose.com/cells/net/) API, a küldő és a címzett információkat kaphat. Például a [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername) tulajdonság használatával ellenőrizheti a konverzióhoz tartozó feladó e-mail-címét.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

@@ -17,7 +17,7 @@ Pomocí [Aspose.Total for Java](https://products.aspose.com/total/java/) můžet
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Převeďte formát JSON na ODP přes Java" %}}
 1. Vytvořte nový objekt [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) a otevřete soubor JSON
-2. Uložte JSON jako PPTX pomocí [uložit](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) metoda
+2. Uložte JSON jako PPTX pomocí [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) metoda
 3. Načtěte dokument PPTX pomocí třídy [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 4. Uložte dokument do formátu ODP pomocí metody [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}

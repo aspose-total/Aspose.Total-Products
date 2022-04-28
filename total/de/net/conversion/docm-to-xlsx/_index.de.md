@@ -18,7 +18,7 @@ Durch die Verwendung von [Aspose.Total for .NET](https://products.aspose.com/tot
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET-API zum Konvertieren von DOCM in XLSX" %}}
-1. Öffnen Sie die DOCM-Datei mit der Klasse [Document](https://apireference.aspose.com/words/net/aspose.words/document.
+1. Öffnen Sie die DOCM-Datei mit der Klasse [Document](https://apireference.aspose.com/words/net/aspose.words/document).
 2. Konvertieren Sie DOCM in HTML, indem Sie die Methode [Save](https://apireference.aspose.com/words/net/aspose.words.documentsave/methods/4) verwenden
 3. Laden Sie das HTML-Dokument mithilfe der Klasse [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
 4. Speichern Sie das Dokument mit der Methode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) im XLSX-Format und legen Sie „XLSX“ als SaveFormat fest
@@ -39,7 +39,7 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="DOCM-Dokument aus Stream über C# laden" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) ermöglicht es Ihnen auch, DOCM-Dokumente per Stream zu laden. Um ein Dokument aus einem Stream zu öffnen, übergeben Sie einfach ein Stream-Objekt, das das Dokument enthält, an den Konstruktor [Document](https://apireference.aspose.com/words/net/aspose.words/document. Das folgende Codebeispiel zeigt, wie Sie ein Dokument aus einem Stream öffnen:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) ermöglicht es Ihnen auch, DOCM-Dokumente per Stream zu laden. Um ein Dokument aus einem Stream zu öffnen, übergeben Sie einfach ein Stream-Objekt, das das Dokument enthält, an den Konstruktor [Document](https://apireference.aspose.com/words/net/aspose.words/document). Das folgende Codebeispiel zeigt, wie Sie ein Dokument aus einem Stream öffnen:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
@@ -48,7 +48,7 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Benutzerdefinierte Eigenschaften in XLSX-Datei über C# hinzufügen" %}}
-Beim Konvertieren von DOCM in XLSX können Sie mit [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Ihren XLSX-Dokumenten benutzerdefinierte Eigenschaften hinzufügen. Um eine benutzerdefinierte Eigenschaft hinzuzufügen, können Sie die Methode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentropertycollection/methods/add/index) für die [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/CustomDocumentPropertyCollection) Klasse. Die Add-Methode fügt die Eigenschaft zur Excel-Datei hinzu und gibt eine Referenz für die neue Dokumenteigenschaft als [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /DocumentProperty)-Objekt. 
+Beim Konvertieren von DOCM in XLSX können Sie mit [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Ihren XLSX-Dokumenten benutzerdefinierte Eigenschaften hinzufügen. Um eine benutzerdefinierte Eigenschaft hinzuzufügen, können Sie die Methode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentropertycollection/methods/add/index) für die [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/CustomDocumentPropertyCollection) Klasse. Die Add-Methode fügt die Eigenschaft zur Excel-Datei hinzu und gibt eine Referenz für die neue Dokumenteigenschaft als [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties/DocumentProperty)-Objekt. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}

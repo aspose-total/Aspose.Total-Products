@@ -17,7 +17,7 @@ otherformats: PPS PPTX PPTM POTX PPT PPSX POWERPOINT POTM POT PPSM CSV DIF FODS 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak převést DOT na PPTX přes Java" %}}
 1. Otevřete soubor DOT pomocí třídy [Dotument](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-2. Převeďte soubor DOT do HTML pomocí [uložit](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) metoda
+2. Převeďte soubor DOT do HTML pomocí [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) metoda
 3. Inicializujte nový objekt [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extrahujte obsah ze souboru HTML pomocí BufferedReader a zapište obsah do souboru prezentace
 6. Uložte dokument do PPTX pomocí metody [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

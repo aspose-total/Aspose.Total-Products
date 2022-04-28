@@ -39,7 +39,7 @@ otherformats: EXCEL XLAM FODS SXC XLSM TSV XLTX DIF XLS ODS XLTM XLSX XLSB XLT
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="C＃経由でストリームからMOBIドキュメントをロードする" %}}
-[Aspose.Words for .NET]（https://products.aspose.com/words/net/）では、ストリームを介してMOBIドキュメントをロードすることもできます。ストリームからドキュメントを開くには、ドキュメントを含むストリームオブジェクトを[Mobiument]（https://apireference.aspose.com/words/net/aspose.words/mobiument）コンストラクターに渡すだけです。次のコード例は、ストリームからドキュメントを開く方法を示しています。  
+[Aspose.Words for .NET]（https://products.aspose.com/words/net/）では、ストリームを介してMOBIドキュメントをロードすることもできます。ストリームからドキュメントを開くには、ドキュメントを含むストリームオブジェクトを[Document]（https://apireference.aspose.com/words/net/aspose.words/mobiument）コンストラクターに渡すだけです。次のコード例は、ストリームからドキュメントを開く方法を示しています。  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ otherformats: EXCEL XLAM FODS SXC XLSM TSV XLTX DIF XLS ODS XLTM XLSX XLSB XLT
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="C＃を介してXLSXファイルにカスタムプロパティを追加する" %}}
-MOBIをXLSXに変換する際、[Aspose.Cells for .NET]（https://products.aspose.com/cells/net/）を使用すると、XLSXドキュメントにカスタムプロパティを追加できます。カスタムプロパティを追加するには、[CustomMobiumentPropertyCollection]（の[Add]（https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection/methods/add/index）メソッドを使用できます。 https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection）クラス。 Addメソッドは、プロパティをExcelファイルに追加し、新しいドキュメントプロパティの参照を[Aspose.Cells.Properties.MobiumentProperty]（https://apireference.aspose.com/cells/net/aspose.cells.properties）として返します。 / mobiumentproperty）オブジェクト。 
+MOBIをXLSXに変換する際、[Aspose.Cells for .NET]（https://products.aspose.com/cells/net/）を使用すると、XLSXドキュメントにカスタムプロパティを追加できます。カスタムプロパティを追加するには、[CustomDocumentPropertyCollection]（の[Add]（https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection/methods/add/index）メソッドを使用できます。 https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection）クラス。 Addメソッドは、プロパティをExcelファイルに追加し、新しいドキュメントプロパティの参照を[Aspose.Cells.Properties.DocumentProperty]（https://apireference.aspose.com/cells/net/aspose.cells.properties）として返します。 / mobiumentproperty）オブジェクト。 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

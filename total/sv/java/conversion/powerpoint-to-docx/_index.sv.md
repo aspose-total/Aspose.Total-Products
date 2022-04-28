@@ -17,7 +17,7 @@ otherformats: WORD DOCX ODT WORDML DOT DOCXM DOTX DOTM FLATOPC RTF TEXT OTT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hur man konverterar POWERPOINT till DOCX via Java" %}}
 1. Öppna POWERPOINT-filen med klassen [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Konvertera POWERPOINT till HTML genom att använda [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-)-metoden och ställ in Html som SaveFormat
+2. Konvertera POWERPOINT till HTML genom att använda [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-)-metoden och ställ in Html som SaveFormat
 3. Ladda den konverterade HTML-filen med klassen [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. Spara dokumentet i DOCX-format med metoden [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}

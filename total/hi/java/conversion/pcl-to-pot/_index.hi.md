@@ -56,7 +56,7 @@ document.save("PptxOutput.pptx", SaveFormat.Pptx);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="जावा के माध्यम से एन्क्रिप्टेड सीजीएम फ़ाइल खोलें" %}}
-सीजीएम को ओडीपी में बदलने के बाद, आप अपनी प्रस्तुति के लिए पूर्वनिर्धारित दृश्य प्रकार भी जोड़ सकते हैं। [Aspose.Slides for Java](https://products.aspose.com/slides/java/) पावरपॉइंट में [ViewProperties](https:/ /apireference.aspose.com/slides/java/com.aspose.slides/ViewProperties) वर्ग। [setLastView](https://apireference.aspose.com/slides/java/com.aspose.slides/ViewProperties#setLastView-int-) प्रॉपर्टी का इस्तेमाल [ViewType](https:/) का इस्तेमाल करके व्यू टाइप सेट करने के लिए किया जाता है /apireference.aspose.com/slides/java/com.aspose.slides/ViewType) एन्यूमरेटर। 
+सीजीएम को ओडीपी में बदलने के बाद, आप अपनी प्रस्तुति के लिए पूर्वनिर्धारित दृश्य प्रकार भी जोड़ सकते हैं। [Aspose.Slides for Java](https://products.aspose.com/slides/java/) पावरपॉइंट में [ViewProperties](https://apireference.aspose.com/slides/java/com.aspose.slides/ViewProperties) वर्ग। [setLastView](https://apireference.aspose.com/slides/java/com.aspose.slides/ViewProperties#setLastView-int-) प्रॉपर्टी का इस्तेमाल [ViewType](https:/) का इस्तेमाल करके व्यू टाइप सेट करने के लिए किया जाता है /apireference.aspose.com/slides/java/com.aspose.slides/ViewType) एन्यूमरेटर। 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java

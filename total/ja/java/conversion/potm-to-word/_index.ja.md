@@ -18,8 +18,8 @@ otherformats: WORDX ODT DOTX DOT WORDM RTF DOTM TEXT WORD FLATOPC OTT WORDML
 {{% blocks/products/pf/agp/feature-section-col title="Javaを介してPOTMをWORDに変換する方法" %}}
 1. [プレゼンテーション]（https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation）クラスを使用してPOTMファイルを開きます
 2. [save]（https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slidesを使用してPOTMをHTMLに変換します。 ISaveOptions-）メソッドを使用し、HtmlをSaveFormatとして設定します
-3. [Wordument]（https://apireference.aspose.com/words/java/com.aspose.words/Wordument）クラスを使用して変換されたHTMLファイルをロードします
-4. [save]（https://apireference.aspose.com/words/java/com.aspose.words/Wordument#save(java.lang.String,int））メソッドを使用してドキュメントをWORD形式で保存します
+3. [Document]（https://apireference.aspose.com/words/java/com.aspose.words/Document）クラスを使用して変換されたHTMLファイルをロードします
+4. [save]（https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int））メソッドを使用してドキュメントをWORD形式で保存します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 POTMからWORDファイルへの変換では、[Maven]（https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose）から直接Aspose.TotalforJavaを簡単に使用できます。 / aspose-total）ベースのプロジェクトであり、pom.xmlにライブラリを含めます。
@@ -29,14 +29,16 @@ POTMからWORDファイルへの変換では、[Maven]（https://repository.aspo
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="変換要件" %}}
+{{% blocks/products/pf/feature-page-section  h2="変換要件" %}}DocumentDocument
 APIを使用して、透かしを使用してPOTMファイルからWORDへの変換を実行することもできます。 WORDドキュメントに透かしを追加するには、最初にPOTMファイルをHTMLに変換し、それに透かしを追加します。透かしを追加するには、[Wordument]（https://apireference.aspose.com/words/java/com.aspose.words/Wordument）クラスを使用して新しく作成したHTMLファイルをロードし、TextWatermarkOptionsのインスタンスを作成して設定します。そのプロパティ、Watermark.setTextメソッドを呼び出し、TextWatermarkOptionsの透かしテキストとオブジェクトを渡します。  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

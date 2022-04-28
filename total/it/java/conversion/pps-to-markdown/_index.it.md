@@ -22,28 +22,31 @@ Puoi convertire il file PPS in MARKDOWN tramite [Aspose.Total for Java](https://
 4. Salvare il documento in formato MARKDOWN utilizzando [save](https://apiference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. SaveOptions)) metodo
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
-Per convertire PPS in MARKDOWN, puoi facilmente utilizzare Aspose.Total per Java direttamente da un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/ aspose/aspose-total) e includi le librerie nel tuo pom.xml.
+Per convertire PPS in MARKDOWN, puoi facilmente utilizzare Aspose.Total per Java direttamente da un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e includi le librerie nel tuo pom.xml.
 
 In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisiti di conversione" %}}
 Utilizzando l'API, puoi anche aprire il documento protetto da password. Se il documento PPS di input è protetto da password, non è possibile convertirlo in MARKDOWN senza utilizzare la password. L'API consente di aprire il documento crittografato passando la password corretta in un oggetto LoadOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Converti PPS protetto in MARKDOWN tramite Java" %}}
 Durante la conversione del file PPS in MARKDOWN, puoi anche aggiungere una filigrana al formato del file MARKDOWN di output. Per aggiungere una filigrana, crea una nuova cartella di lavoro per aprire il file HTML convertito. Seleziona Foglio di lavoro tramite il suo indice, crea una forma e usa la sua funzione addTextEffect, imposta colori, trasparenza e altro. Successivamente puoi salvare il tuo documento HTML come MARKDOWN con Watermark. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

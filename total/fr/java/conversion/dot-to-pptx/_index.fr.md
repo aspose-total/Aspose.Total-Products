@@ -17,7 +17,7 @@ Souvent, les développeurs doivent convertir le fichier DOT en PPTX par programm
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Comment convertir DOT en PPTX via Java" %}}
 1. Ouvrez le fichier DOT à l'aide de la classe [Dotument](https://apireference.aspose.com/words/java/com.aspose.words/Dotument)
-2. Convertissez le fichier DOT en HTML en utilisant [save](https://apireference.aspose.com/words/java/com.aspose.words/Dotument#save(java.lang.String,com.aspose.words.SaveOptions )) méthode
+2. Convertissez le fichier DOT en HTML en utilisant [save](https://apireference.aspose.com/words/java/com.aspose.words/Dotument#save(java.lang.String,com.aspose.words.SaveOptions)) méthode
 3. Initialisez un nouvel objet [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extrayez le contenu du fichier HTML à l'aide de BufferedReader et écrivez le contenu dans votre fichier de présentation
 6. Enregistrez le dotument dans PPTX à l'aide de la méthode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
@@ -30,14 +30,16 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://d
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-dot-to-pptx.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Exigences de conversion" %}}
 L'API vous permet également de convertir des dotuments DOT protégés par mot de passe en PPTX. Si votre dotument DOT d'entrée est protégé par un mot de passe, vous ne pouvez pas le convertir au format PPTX sans utiliser le mot de passe. Pour ouvrir un dotument crypté, vous pouvez définir le mot de passe correct dans l'objet LoadOptions et le transmettre au constructeur Dotument.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dot-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dot-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

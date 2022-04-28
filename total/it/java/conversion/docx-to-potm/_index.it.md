@@ -17,7 +17,7 @@ Spesso gli sviluppatori devono convertire i file DOCX in POTM a livello di codic
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Come convertire DOCX in POTM tramite Java" %}}
 1. Aprire il file DOCX utilizzando la classe [Document](https://apiference.aspose.com/words/java/com.aspose.words/Document)
-2. Converti file DOCX in HTML utilizzando [save](https://apiference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions )) metodo
+2. Converti file DOCX in HTML utilizzando [save](https://apiference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metodo
 3. Inizializzare un nuovo oggetto [Presentation](https://apiference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Estrarre il contenuto dal file HTML utilizzando BufferedReader e scrivere il contenuto nel file di presentazione
 6. Salvare il documento in POTM utilizzando il metodo [save](https://apiference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

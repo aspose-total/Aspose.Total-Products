@@ -37,7 +37,8 @@ document.save("PptxOutput.pptx", SaveFormat.Pptx);
 Presentation presentation = new Presentation("PptxOutput.pptx");
 // save the presentation as Swf format
 presentation.save("output.swf", SaveFormat.Swf);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="변환 요구 사항" %}}
@@ -50,11 +51,12 @@ Document doc = new Document("input.epub", "Your@Password");
 // save EPUB as PPTX format 
 document.save("PptxOutput.pptx", SaveFormat.Pptx); 
 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% /blocks/products/pf/feature-page-section %}}https://apireference.aspose.com/slides/java/com.aspose.slides/ViewType
 {{% blocks/products/pf/feature-page-section  h2="Java를 통해 암호화된 EPUB 파일 열기" %}}
-EPUB을 SWF로 변환한 후 프리젠테이션에 대해 미리 정의된 보기 유형을 추가할 수도 있습니다. [Aspose.Slides for Java](https://products.aspose.com/slides/java/)는 [ViewProperties](https:/ /apireference.aspose.com/slides/java/com.aspose.slides/ViewProperties) 클래스. [setLastView](https://apireference.aspose.com/slides/java/com.aspose.slides/ViewProperties#setLastView-int-) 속성은 [ViewType](https:/ /apireference.aspose.com/slides/java/com.aspose.slides/ViewType) 열거자. 
+EPUB을 SWF로 변환한 후 프리젠테이션에 대해 미리 정의된 보기 유형을 추가할 수도 있습니다. [Aspose.Slides for Java](https://products.aspose.com/slides/java/)는 [ViewProperties](https://apireference.aspose.com/slides/java/com.aspose.slides/ViewProperties) 클래스. [setLastView](https://apireference.aspose.com/slides/java/com.aspose.slides/ViewProperties#setLastView-int-) 속성은 [ViewType](https://apireference.aspose.com/slides/java/com.aspose.slides/ViewType) 열거자. 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java
@@ -64,7 +66,8 @@ Presentation presentation = new Presentation("PptxOutput.pptx");
 presentation.getViewProperties().setLastView((byte) ViewType.SlideMasterView);
 // save the presentation as Swf format
 presentation.save("output.swf", SaveFormat.Swf);    
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

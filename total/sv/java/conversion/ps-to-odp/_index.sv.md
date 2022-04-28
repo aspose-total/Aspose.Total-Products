@@ -37,11 +37,12 @@ document.save("PptxOutput.pptx", SaveFormat.Pptx);
 Presentation presentation = new Presentation("PptxOutput.pptx");
 // save the presentation as Odp format
 presentation.save("output.odp", SaveFormat.Odp);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Konverteringskrav" %}}
-När du laddar PS-filformatet kan ditt dokument vara lösenordsskyddat. [Aspose.PDF för Java](https://products.aspose.com/pdf/java/) låter dig också öppna krypterade dokument. För att öppna den krypterade filen kan du initiera en ny instans av [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java .lang.String-) klass och skicka filnamn och lösenord som argument.  
+{{% blocks/products/pf/feature-page-section  h2="Konverteringskrav" %}}Document#Document-java.lang.String-java.lang.String-
+När du laddar PS-filformatet kan ditt dokument vara lösenordsskyddat. [Aspose.PDF för Java](https://products.aspose.com/pdf/java/) låter dig också öppna krypterade dokument. För att öppna den krypterade filen kan du initiera en ny instans av [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-) klass och skicka filnamn och lösenord som argument.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java
@@ -50,11 +51,12 @@ Document doc = new Document("input.ps", "Your@Password");
 // save PS as PPTX format 
 document.save("PptxOutput.pptx", SaveFormat.Pptx); 
 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Öppna krypterad PS-fil via Java" %}}
-Efter att ha konverterat PS till ODP kan du också lägga till fördefinierad vytyp för din presentation. [Aspose.Slides for Java](https://products.aspose.com/slides/java/) ger en möjlighet att ställa in vytypen för den genererade presentationen när den öppnas i PowerPoint via [ViewProperties](https:/ /apireference.aspose.com/slides/java/com.aspose.slides/ViewProperties). Egenskapen [setLastView](https://apireference.aspose.com/slides/java/com.aspose.slides/ViewProperties#setLastView-int-) används för att ställa in vytypen genom att använda [ViewType](https:/ /apireference.aspose.com/slides/java/com.aspose.slides/ViewType) enumerator. 
+Efter att ha konverterat PS till ODP kan du också lägga till fördefinierad vytyp för din presentation. [Aspose.Slides for Java](https://products.aspose.com/slides/java/) ger en möjlighet att ställa in vytypen för den genererade presentationen när den öppnas i PowerPoint via [ViewProperties](https://apireference.aspose.com/slides/java/com.aspose.slides/ViewProperties). Egenskapen [setLastView](https://apireference.aspose.com/slides/java/com.aspose.slides/ViewProperties#setLastView-int-) används för att ställa in vytypen genom att använda [ViewType](https://apireference.aspose.com/slides/java/com.aspose.slides/ViewType) enumerator. 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java
@@ -64,7 +66,8 @@ Presentation presentation = new Presentation("PptxOutput.pptx");
 presentation.getViewProperties().setLastView((byte) ViewType.SlideMasterView);
 // save the presentation as Odp format
 presentation.save("output.odp", SaveFormat.Odp);    
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

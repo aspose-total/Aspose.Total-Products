@@ -18,10 +18,10 @@ Al utilizar [Aspose.Total para .NET](https://products.aspose.com/total/net/), pu
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET para convertir WORD a XLT" %}}
-1. Abra el archivo WORD usando la clase [Wordumento](https://apireference.aspose.com/words/net/aspose.words/wordument)
-2. Convierta WORD a HTML usando el método [Guardar](https://apireference.aspose.com/words/net/aspose.words.wordument/save/methods/4)
-3. Cargue el wordumento HTML utilizando la clase [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Guarde el wordumento en formato XLT usando el método [Guardar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) y configure `XLT` como SaveFormat
+1. Abra el archivo WORD usando la clase [Documento](https://apireference.aspose.com/words/net/aspose.words/document)
+2. Convierta WORD a HTML usando el método [Guardar](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. Cargue el documento HTML utilizando la clase [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+4. Guarde el documento en formato XLT usando el método [Guardar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) y configure `XLT` como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
@@ -38,8 +38,8 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Cargar wordumento WORD desde Stream a través de C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) también le permite cargar wordumentos WORD a través de la transmisión. Para abrir un wordumento desde una secuencia, simplemente pase un objeto de secuencia que contenga el wordumento al constructor [Wordumento](https://apireference.aspose.com/words/net/aspose.words/wordument). El siguiente ejemplo de código muestra cómo abrir un wordumento desde una secuencia:  
+{{% blocks/products/pf/feature-page-section  h2="Cargar documento WORD desde Stream a través de C#" %}}
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) también le permite cargar documentos WORD a través de la transmisión. Para abrir un documento desde una secuencia, simplemente pase un objeto de secuencia que contenga el documento al constructor [Documento](https://apireference.aspose.com/words/net/aspose.words/document). El siguiente ejemplo de código muestra cómo abrir un documento desde una secuencia:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
@@ -48,7 +48,7 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Agregue propiedades personalizadas en un archivo XLT a través de C#" %}}
-Al convertir WORD a XLT, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) le permite agregar propiedades personalizadas en sus wordumentos XLT. Para agregar una propiedad personalizada, puede usar el método [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customwordumentpropertycollection/methods/add/index) para la [CustomWordumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customwordumentpropertycollection) clase. El método Add agrega la propiedad al archivo de Excel y devuelve una referencia para la propiedad del nuevo wordumento como [Aspose.Cells.Properties.WordumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /propiedadwordumento) objeto. 
+Al convertir WORD a XLT, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) le permite agregar propiedades personalizadas en sus documentos XLT. Para agregar una propiedad personalizada, puede usar el método [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) para la [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) clase. El método Add agrega la propiedad al archivo de Excel y devuelve una referencia para la propiedad del nuevo documento como [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /propiedaddocumento) objeto. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}

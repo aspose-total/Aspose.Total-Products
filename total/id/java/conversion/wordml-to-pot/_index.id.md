@@ -17,7 +17,7 @@ Seringkali pengembang harus mengonversi file WORDML ke POT secara terprogram. De
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cara Mengonversi WORDML ke POT melalui Java" %}}
 1. Buka file WORDML menggunakan kelas [Wordmlument](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument)
-2. Konversi file WORDML ke HTML dengan menggunakan [save](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument#save(java.lang.String,com.aspose.words.SaveOptions )) metode
+2. Konversi file WORDML ke HTML dengan menggunakan [save](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument#save(java.lang.String,com.aspose.words.SaveOptions)) metode
 3. Inisialisasi objek [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) baru
 5. Ekstrak konten dari file HTML menggunakan BufferedReader dan tulis konten di file presentasi Anda
 6. Simpan dokumen ke POT menggunakan metode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
@@ -30,14 +30,16 @@ Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://downloads.aspose.c
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-wordml-to-pptx.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Persyaratan Konversi" %}}
 API juga memungkinkan Anda untuk mengonversi dokumen WORDML yang dilindungi kata sandi ke POT. Jika dokumen WORDML input Anda dilindungi kata sandi, Anda tidak dapat mengonversinya ke format POT tanpa menggunakan kata sandi. Untuk membuka dokumen terenkripsi, Anda dapat mengatur kata sandi yang benar di objek LoadOptions dan meneruskannya ke konstruktor Dokumen.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-wordml-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-wordml-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -18,10 +18,10 @@ En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), v
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convertir WORD au format JSON via C#" %}}
-1. Ouvrez le fichier WORD à l'aide de la classe [Wordument](https://apireference.aspose.com/words/net/aspose.words/wordument)
-2. Convertir WORD en HTML en utilisant la méthode [Save](https://apireference.aspose.com/words/net/aspose.words.wordument/save/methods/4)
-3. Chargez le wordument HTML à l'aide de la classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Enregistrez le wordument au format JSON à l'aide de la méthode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+1. Ouvrez le fichier WORD à l'aide de la classe [Document](https://apireference.aspose.com/words/net/aspose.words/document)
+2. Convertir WORD en HTML en utilisant la méthode [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. Chargez le document HTML à l'aide de la classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+4. Enregistrez le document au format JSON à l'aide de la méthode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
@@ -39,7 +39,7 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convertir le WORD protégé au format JSON via C#" %}}
-À l'aide de l'API, vous pouvez également ouvrir le wordument protégé par mot de passe. Si votre wordument WORD d'entrée est protégé par un mot de passe, vous ne pouvez pas le convertir au format JSON sans utiliser le mot de passe. L'API vous permet d'ouvrir le wordument chiffré en passant le mot de passe correct dans un objet LoadOptions. L'exemple de code suivant montre comment essayer d'ouvrir un wordument chiffré avec un mot de passe :  
+À l'aide de l'API, vous pouvez également ouvrir le document protégé par mot de passe. Si votre document WORD d'entrée est protégé par un mot de passe, vous ne pouvez pas le convertir au format JSON sans utiliser le mot de passe. L'API vous permet d'ouvrir le document chiffré en passant le mot de passe correct dans un objet LoadOptions. L'exemple de code suivant montre comment essayer d'ouvrir un document chiffré avec un mot de passe :  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "3320154ab7b06def2475ce90c7703f13" "convert-protected-word-to-json.cs" >}}

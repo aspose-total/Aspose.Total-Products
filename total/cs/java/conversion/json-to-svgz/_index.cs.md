@@ -17,9 +17,9 @@ Pomocí [Aspose.Total for Java](https://products.aspose.com/total/java/) můžet
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Převeďte formát JSON na SVGZ přes Java" %}}
 1. Vytvořte nový objekt [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) a otevřete soubor JSON
-2. Uložte JSON jako JPEG pomocí [uložit](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) metoda
+2. Uložte JSON jako JPEG pomocí [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) metoda
 3. Načtěte dokument JPEG pomocí třídy [Image](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image)
-4. Uložte dokument do formátu SVGZ pomocí [uložit](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase -) metoda
+4. Uložte dokument do formátu SVGZ pomocí [save](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase -) metoda
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Aspose.Total pro Javu můžete snadno používat přímo z projektu založeného na [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a zahrňte knihovny do vašeho pom.xml.

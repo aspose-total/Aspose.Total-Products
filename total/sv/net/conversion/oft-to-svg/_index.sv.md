@@ -13,7 +13,7 @@ otherformats: SVG WORDML PDF EMF GIF EPUB FLATOPC PNG DOTM PCL JPEG TEXT DOCM DO
 {{< blocks/products/pf/i18n/feature-page-header h1="Exportera OFT till SVG via .NET" h2=".NET API för att rendera OFT till SVG på Windows, macOS och Linux utan att använda Word eller Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Om du är en .NET-utvecklare som vill lägga till OFT till SVG-konverteringsfunktioner i dina applikationer, är [Aspose.Total for .NET](https://products.aspose.com/total/net/) API:er för filformatsmanipulation vägen fram. Genom att använda [Aspose.Oft for .NET](https://products.aspose.com/oft/net/), kan du konvertera OFT-filformat till HTML. Efter det, genom att använda [Aspose.Words for .NET](https://products.aspose.com/words/net/), kan du rendera HTML till SVG.
+Om du är en .NET-utvecklare som vill lägga till OFT till SVG-konverteringsfunktioner i dina applikationer, är [Aspose.Total for .NET](https://products.aspose.com/total/net/) API:er för filformatsmanipulation vägen fram. Genom att använda [Aspose.Cells for .NET](https://products.aspose.com/oft/net/), kan du konvertera OFT-filformat till HTML. Efter det, genom att använda [Aspose.Words for .NET](https://products.aspose.com/words/net/), kan du rendera HTML till SVG.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.svg", SaveFormat.Svg);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analysera OFT-fil via .NET" %}}
-Innan du konverterar OFT till SVG, om du vill vara säker på att du konverterar rätt e-post, kan du ladda OFT-dokumentet, analysera det och ta en titt på din önskade egenskap. Genom att använda [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) klass av [Aspose.Oft for .NET](https://products.aspose.com/oft /net/) API kan du få information om avsändare och mottagare. Du kan till exempel söka efter en specifik avsändar-e-post för konverteringen genom att använda egenskapen [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
+Innan du konverterar OFT till SVG, om du vill vara säker på att du konverterar rätt e-post, kan du ladda OFT-dokumentet, analysera det och ta en titt på din önskade egenskap. Genom att använda [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) klass av [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API kan du få information om avsändare och mottagare. Du kan till exempel söka efter en specifik avsändar-e-post för konverteringen genom att använda egenskapen [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

@@ -17,7 +17,7 @@ otherformats: MARKDOWN SXC EXCEL XLAM FODS XLT ODS XLTX TSV XLS XLTM XLSX MHTML 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как преобразовать PPSM в XLTX через Java" %}}
 1. Откройте файл PPSM, используя класс [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation).
-2. Преобразуйте PPSM в HTML, используя [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) метод
+2. Преобразуйте PPSM в HTML, используя [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) метод
 3. Загрузите HTML-документ с помощью класса [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).
 4. Сохраните документ в формате XLTX, используя [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. SaveOptions)) метод
 {{% /blocks/products/pf/agp/feature-section-col %}}

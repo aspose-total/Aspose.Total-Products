@@ -17,7 +17,7 @@ otherformats: DOTM TEXTM RTF WORDML DOTX TEXTX TEXT FLATOPC WORD DOT OTT ODT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как преобразовать PPTM в TEXT через Java" %}}
 1. Откройте файл PPTM, используя класс [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation).
-2. Преобразуйте PPTM в HTML, используя [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) и установите Html как SaveFormat
+2. Преобразуйте PPTM в HTML, используя [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) и установите Html как SaveFormat
 3. Загрузите преобразованный файл HTML с помощью класса [Textument](https://apireference.aspose.com/words/java/com.aspose.words/Textument).
 4. Сохраните документ в формате TEXT, используя метод [save](https://apireference.aspose.com/words/java/com.aspose.words/Textument#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}

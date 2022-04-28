@@ -17,7 +17,7 @@ otherformats: DOTM RTF OTT DOTX FLATOPCM WORD ODT TEXT FLATOPCX DOT FLATOPC WORD
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak převést POTX na FLATOPC přes Java" %}}
 1. Otevřete soubor POTX pomocí třídy [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Převeďte POTX do HTML pomocí [uložit](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) a nastavte Html jako SaveFormat
+2. Převeďte POTX do HTML pomocí [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) a nastavte Html jako SaveFormat
 3. Načtěte převedený soubor HTML pomocí třídy [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument)
 4. Uložte dokument ve formátu FLATOPC pomocí metody [save](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}

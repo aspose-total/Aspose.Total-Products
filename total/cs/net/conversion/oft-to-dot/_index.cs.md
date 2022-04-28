@@ -13,7 +13,7 @@ otherformats: JPEG TIFF FLATOPC TEXT EMF OTT RTF PDF EPUB DOC WORDML SVG DOCM DO
 {{< blocks/products/pf/i18n/feature-page-header h1="Exportujte OFT do DOT přes .NET" h2=".NET API pro vykreslení OFT do DOT na Windows, macOS a Linux bez použití Wordu nebo Outlooku" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Pokud jste vývojář .NET, který chce přidat OFT do funkcí převodu DOT ve svých aplikacích, [Aspose.Total for .NET](https://products.aspose.com/total/net/) API pro manipulaci s formátem souborů jsou tím způsobem vpřed. Pomocí [Aspose.Oft for .NET](https://products.aspose.com/oft/net/) můžete převést formát souboru OFT do HTML. Poté můžete pomocí [Aspose.Words for .NET](https://products.aspose.com/words/net/) vykreslit HTML do DOT.
+Pokud jste vývojář .NET, který chce přidat OFT do funkcí převodu DOT ve svých aplikacích, [Aspose.Total for .NET](https://products.aspose.com/total/net/) API pro manipulaci s formátem souborů jsou tím způsobem vpřed. Pomocí [Aspose.Cells for .NET](https://products.aspose.com/oft/net/) můžete převést formát souboru OFT do HTML. Poté můžete pomocí [Aspose.Words for .NET](https://products.aspose.com/words/net/) vykreslit HTML do DOT.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.dot", SaveFormat.Dot);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analyzujte soubor OFT přes .NET" %}}
-Před převodem OFT na DOT, pokud se chcete ujistit, že převádíte správný e-mail, můžete načíst dokument OFT, analyzovat jej a podívat se na požadovanou vlastnost. Pomocí třídy [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) třídy [Aspose.Oft for .NET](https://products.aspose.com/oft /net/) API, můžete získat informace o odesílateli a příjemcích. Můžete například zkontrolovat e-mail konkrétního odesílatele pro konverzi pomocí vlastnosti [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
+Před převodem OFT na DOT, pokud se chcete ujistit, že převádíte správný e-mail, můžete načíst dokument OFT, analyzovat jej a podívat se na požadovanou vlastnost. Pomocí třídy [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) třídy [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API, můžete získat informace o odesílateli a příjemcích. Můžete například zkontrolovat e-mail konkrétního odesílatele pro konverzi pomocí vlastnosti [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

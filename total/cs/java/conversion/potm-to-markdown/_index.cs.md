@@ -17,12 +17,12 @@ Soubor POTM můžete převést na MARKDOWN prostřednictvím [Aspose.Total for J
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak převést POTM do MARKDOWN přes Java" %}}
 1. Otevřete soubor POTM pomocí třídy [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Převeďte POTM do HTML pomocí [uložit](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-).
+2. Převeďte POTM do HTML pomocí [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-).
 3. Načtěte dokument HTML pomocí třídy [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Uložte dokument do formátu MARKDOWN pomocí [SaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) metoda
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
-Chcete-li převést POTM na MARKDOWN, můžete snadno použít Aspose.Total pro Java přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/ aspose/aspose-total) a zahrňte knihovny do vašeho pom.xml.
+Chcete-li převést POTM na MARKDOWN, můžete snadno použít Aspose.Total pro Java přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a zahrňte knihovny do vašeho pom.xml.
 
 Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

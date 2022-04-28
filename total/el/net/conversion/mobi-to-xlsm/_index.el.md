@@ -18,7 +18,7 @@ otherformats: FODS EXCEL XLSX XLAM XLTX XLT SXC XLTM TSV XLS ODS XLSB DIF XLSM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API για μετατροπή MOBI σε XLSM" %}}
-1. Ανοίξτε το αρχείο MOBI χρησιμοποιώντας την τάξη [Mobiument](https://apireference.aspose.com/words/net/aspose.words/mobiument)
+1. Ανοίξτε το αρχείο MOBI χρησιμοποιώντας την τάξη [Document](https://apireference.aspose.com/words/net/aspose.words/mobiument)
 2. Μετατρέψτε το MOBI σε HTML χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/words/net/aspose.words.mobiument/save/methods/4)
 3. Φορτώστε το έγγραφο HTML χρησιμοποιώντας την τάξη [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Αποθηκεύστε το έγγραφο σε μορφή XLSM χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) και ορίστε το "XLSM" ως SaveFormat
@@ -39,7 +39,7 @@ otherformats: FODS EXCEL XLSX XLAM XLTX XLT SXC XLTM TSV XLS ODS XLSB DIF XLSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Φόρτωση εγγράφου MOBI από τη ροή μέσω C#" %}}
-Το [Aspose.Words for .NET](https://products.aspose.com/words/net/) σάς επιτρέπει επίσης να φορτώνετε έγγραφο MOBI μέσω ροής. Για να ανοίξετε ένα έγγραφο από μια ροή, απλώς περάστε ένα αντικείμενο ροής που περιέχει το έγγραφο στον κατασκευαστή [Mobiument](https://apireference.aspose.com/words/net/aspose.words/mobiument). Το ακόλουθο παράδειγμα κώδικα δείχνει πώς να ανοίξετε ένα έγγραφο από μια ροή:  
+Το [Aspose.Words for .NET](https://products.aspose.com/words/net/) σάς επιτρέπει επίσης να φορτώνετε έγγραφο MOBI μέσω ροής. Για να ανοίξετε ένα έγγραφο από μια ροή, απλώς περάστε ένα αντικείμενο ροής που περιέχει το έγγραφο στον κατασκευαστή [Document](https://apireference.aspose.com/words/net/aspose.words/mobiument). Το ακόλουθο παράδειγμα κώδικα δείχνει πώς να ανοίξετε ένα έγγραφο από μια ροή:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ otherformats: FODS EXCEL XLSX XLAM XLTX XLT SXC XLTM TSV XLS ODS XLSB DIF XLSM
 {{% /blocks/products/pf/feature-page-section %}}
 (https
 {{% blocks/products/pf/feature-page-section  h2="Προσθήκη προσαρμοσμένων ιδιοτήτων σε αρχείο XLSM μέσω C#" %}}
-Κατά τη μετατροπή του MOBI σε XLSM, το [Aspose.Cells για .NET](https://products.aspose.com/cells/net/) σάς δίνει τη δυνατότητα να προσθέσετε προσαρμοσμένες ιδιότητες στα έγγραφά σας XLSM. Για να προσθέσετε μια προσαρμοσμένη ιδιότητα, μπορείτε να χρησιμοποιήσετε τη μέθοδο [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection/methods/add/index) για το [CustomMobiumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection) τάξη. Η μέθοδος Προσθήκη προσθέτει την ιδιότητα στο αρχείο Excel και επιστρέφει μια αναφορά για την ιδιότητα του νέου εγγράφου ως [Aspose.Cells.Properties.MobiumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /mobiumentproperty) αντικείμενο. 
+Κατά τη μετατροπή του MOBI σε XLSM, το [Aspose.Cells για .NET](https://products.aspose.com/cells/net/) σάς δίνει τη δυνατότητα να προσθέσετε προσαρμοσμένες ιδιότητες στα έγγραφά σας XLSM. Για να προσθέσετε μια προσαρμοσμένη ιδιότητα, μπορείτε να χρησιμοποιήσετε τη μέθοδο [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection/methods/add/index) για το [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection) τάξη. Η μέθοδος Προσθήκη προσθέτει την ιδιότητα στο αρχείο Excel και επιστρέφει μια αναφορά για την ιδιότητα του νέου εγγράφου ως [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /mobiumentproperty) αντικείμενο. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

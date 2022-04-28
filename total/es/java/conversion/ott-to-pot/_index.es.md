@@ -16,11 +16,11 @@ A menudo, los desarrolladores tienen que convertir el archivo OTT a POT mediante
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir OTT a POT a través de Java" %}}
-1. Abra el archivo OTT usando la clase [Ottumento](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-2. Convierta el archivo OTT a HTML usando [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions )) método
+1. Abra el archivo OTT usando la clase [Documento](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. Convierta el archivo OTT a HTML usando [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) método
 3. Inicialice un nuevo objeto [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraiga el contenido del archivo HTML usando BufferedReader y escriba el contenido en su archivo de presentación
-6. Guarde el ottumento en POT usando el método [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. Guarde el documento en POT usando el método [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
 Para la conversión de archivos OTT a POT, puede usar fácilmente Aspose.Total para Java directamente desde un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) e incluya bibliotecas en su pom.xml.
@@ -35,7 +35,7 @@ Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisitos de conversión" %}}
-La API también le permite convertir ottumentos OTT protegidos con contraseña a POT. Si su ottumento OTT de entrada está protegido con contraseña, no puede convertirlo al formato POT sin usar la contraseña. Para abrir un ottumento cifrado, puede establecer la contraseña correcta en el objeto LoadOptions y pasarla al constructor del ottumento.  
+La API también le permite convertir documentos OTT protegidos con contraseña a POT. Si su documento OTT de entrada está protegido con contraseña, no puede convertirlo al formato POT sin usar la contraseña. Para abrir un documento cifrado, puede establecer la contraseña correcta en el objeto LoadOptions y pasarla al constructor del documento.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-ott-to-pptx-with-watermark.java" >}}

@@ -18,7 +18,7 @@ otherformats: XLTM XLTX XLT XLSB EXCEL XLS XLSX ODS TSV SXC XLSM XLAM FODS DIF
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API 将 MOBI 转换为 XLTX" %}}
-1.使用[Mobiument](https://apireference.aspose.com/words/net/aspose.words/mobiument)类打开MOBI文件
+1.使用[Document](https://apireference.aspose.com/words/net/aspose.words/mobiument)类打开MOBI文件
 2. 使用 [Save](https://apireference.aspose.com/words/net/aspose.words.mobiument/save/methods/4) 方法将 MOBI 转换为 HTML
 3. 使用 [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) 类加载 HTML 文档
 4. 使用 [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 方法将文档保存为 XLTX 格式，并将 `XLTX` 设置为 SaveFormat
@@ -39,7 +39,7 @@ otherformats: XLTM XLTX XLT XLSB EXCEL XLS XLSX ODS TSV SXC XLSM XLAM FODS DIF
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="通过 C# 从 Stream 加载 MOBI 文档" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) 还允许您通过流加载 MOBI 文档。要从流中打开文档，只需将包含文档的流对象传递给 [Mobiument](https://apireference.aspose.com/words/net/aspose.words/mobiument) 构造函数。以下代码示例显示了如何从流中打开文档：  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) 还允许您通过流加载 MOBI 文档。要从流中打开文档，只需将包含文档的流对象传递给 [Document](https://apireference.aspose.com/words/net/aspose.words/mobiument) 构造函数。以下代码示例显示了如何从流中打开文档：  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ otherformats: XLTM XLTX XLT XLSB EXCEL XLS XLSX ODS TSV SXC XLSM XLAM FODS DIF
 {{% /blocks/products/pf/feature-page-section %}}
 (https
 {{% blocks/products/pf/feature-page-section  h2="通过 C# 在 XLTX 文件中添加自定义属性" %}}
-在将 MOBI 转换为 XLTX 时，[Aspose.Cells for .NET](https://products.aspose.com/cells/net/) 允许您在 XLTX 文档中添加自定义属性。为了添加自定义属性，您可以对 [CustomMobiumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection）类。 Add 方法将属性添加到 Excel 文件，并以 [Aspose.Cells.Properties.MobiumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) 的形式返回新文档属性的引用/mobiumentproperty) 对象。 
+在将 MOBI 转换为 XLTX 时，[Aspose.Cells for .NET](https://products.aspose.com/cells/net/) 允许您在 XLTX 文档中添加自定义属性。为了添加自定义属性，您可以对 [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection）类。 Add 方法将属性添加到 Excel 文件，并以 [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) 的形式返回新文档属性的引用/mobiumentproperty) 对象。 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

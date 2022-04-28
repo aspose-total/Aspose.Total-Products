@@ -17,7 +17,7 @@ Convertir PPSM a formato JSON a través de [Aspose.Total for Java](https://produ
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convierta PPSM a formato JSON a través de Java" %}}
 1. Abra el archivo PPSM usando la clase [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Convierta PPSM a HTML usando [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) método
+2. Convierta PPSM a HTML usando [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) método
 3. Cargue el documento HTML utilizando la clase [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Guarde el documento en formato JSON usando [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.GuardarOpciones)) método
 {{% /blocks/products/pf/agp/feature-section-col %}}

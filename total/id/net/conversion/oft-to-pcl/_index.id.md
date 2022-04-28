@@ -13,7 +13,7 @@ otherformats: FLATOPC ODT PDF RTF TIFF WORDML PNG DOT MD JPEG GIF DOCX EMF PCL D
 {{< blocks/products/pf/i18n/feature-page-header h1="Ekspor OFT ke PCL melalui .NET" h2=".NET API untuk Merender OFT ke PCL di Windows, macOS, dan Linux tanpa menggunakan Word atau Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Jika Anda adalah pengembang .NET yang ingin menambahkan fitur konversi OFT ke PCL di dalam aplikasi Anda, [Aspose.Total for .NET](https://products.aspose.com/total/net/) API manipulasi format file adalah caranya maju. Dengan menggunakan [Aspose.Oft for .NET](https://products.aspose.com/oft/net/), Anda dapat mengonversi format file OFT ke HTML. Setelah itu, dengan menggunakan [Aspose.Words for .NET](https://products.aspose.com/words/net/), Anda dapat merender HTML ke PCL.
+Jika Anda adalah pengembang .NET yang ingin menambahkan fitur konversi OFT ke PCL di dalam aplikasi Anda, [Aspose.Total for .NET](https://products.aspose.com/total/net/) API manipulasi format file adalah caranya maju. Dengan menggunakan [Aspose.Cells for .NET](https://products.aspose.com/oft/net/), Anda dapat mengonversi format file OFT ke HTML. Setelah itu, dengan menggunakan [Aspose.Words for .NET](https://products.aspose.com/words/net/), Anda dapat merender HTML ke PCL.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.pcl", SaveFormat.Pcl);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Parsing File OFT melalui .NET" %}}
-Sebelum mengonversi OFT ke PCL, jika Anda ingin memastikan bahwa Anda mengonversi oft yang benar, Anda dapat memuat dokumen OFT, menguraikannya dan melihat properti yang Anda inginkan. Dengan menggunakan kelas [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) dari [Aspose.Oft for .NET](https://products.aspose.com/oft /net/) API, Anda bisa mendapatkan informasi pengirim dan penerima. Misalnya, Anda dapat memeriksa oft pengirim tertentu untuk konversi dengan menggunakan properti [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
+Sebelum mengonversi OFT ke PCL, jika Anda ingin memastikan bahwa Anda mengonversi oft yang benar, Anda dapat memuat dokumen OFT, menguraikannya dan melihat properti yang Anda inginkan. Dengan menggunakan kelas [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) dari [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API, Anda bisa mendapatkan informasi pengirim dan penerima. Misalnya, Anda dapat memeriksa oft pengirim tertentu untuk konversi dengan menggunakan properti [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

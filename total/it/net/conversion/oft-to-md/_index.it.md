@@ -13,7 +13,7 @@ otherformats: SVG TEXT DOCM WORDML PNG EPUB FLATOPC GIF OTT PS DOT JPEG TIFF DOT
 {{< blocks/products/pf/i18n/feature-page-header h1="Esporta OFT in MD tramite .NET" h2="API .NET per il rendering di OFT su MD su Windows, macOS e Linux senza utilizzare Word o Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Se sei uno sviluppatore .NET che cerca di aggiungere funzionalità di conversione da OFT a MD all'interno delle tue applicazioni, le API di manipolazione del formato di file [Aspose.Total for .NET](https://products.aspose.com/total/net/) sono la strada giusta inoltrare. Utilizzando [Aspose.Oft for .NET](https://products.aspose.com/oft/net/), puoi convertire il formato del file OFT in HTML. Successivamente, utilizzando [Aspose.Words for .NET](https://products.aspose.com/words/net/), puoi eseguire il rendering di HTML in MD.
+Se sei uno sviluppatore .NET che cerca di aggiungere funzionalità di conversione da OFT a MD all'interno delle tue applicazioni, le API di manipolazione del formato di file [Aspose.Total for .NET](https://products.aspose.com/total/net/) sono la strada giusta inoltrare. Utilizzando [Aspose.Cells for .NET](https://products.aspose.com/oft/net/), puoi convertire il formato del file OFT in HTML. Successivamente, utilizzando [Aspose.Words for .NET](https://products.aspose.com/words/net/), puoi eseguire il rendering di HTML in MD.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.md", SaveFormat.Md);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analizza il file OFT tramite .NET" %}}
-Prima di convertire OFT in MD, se vuoi assicurarti di convertire l'oft corretta, puoi caricare il documento OFT, analizzarlo e dare un'occhiata alla proprietà desiderata. Utilizzando la classe [MapiMessage](https://apiference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) di [Aspose.Oft for .NET](https://products.aspose.com/oft /net/) API, puoi ottenere informazioni su mittente e destinatario. Ad esempio, puoi verificare la presenza di un'oft del mittente specifica per la conversione utilizzando la proprietà [SenderName](https://apiference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
+Prima di convertire OFT in MD, se vuoi assicurarti di convertire l'oft corretta, puoi caricare il documento OFT, analizzarlo e dare un'occhiata alla proprietà desiderata. Utilizzando la classe [MapiMessage](https://apiference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) di [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API, puoi ottenere informazioni su mittente e destinatario. Ad esempio, puoi verificare la presenza di un'oft del mittente specifica per la conversione utilizzando la proprietà [SenderName](https://apiference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

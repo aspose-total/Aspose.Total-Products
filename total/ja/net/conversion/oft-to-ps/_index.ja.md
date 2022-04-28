@@ -13,7 +13,7 @@ otherformats: TIFF OTT GIF DOT DOC DOTX EPUB TEXT PS JPEG DOCX MD EMF PCL ODT DO
 {{< blocks/products/pf/i18n/feature-page-header h1=".NET経由でEメールをPSにエクスポート" h2="WordやOutlookを使用せずにWindows、macOS、LinuxでOFTをPSにレンダリングする.NET API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-アプリケーション内にOFTからPSへの変換機能を追加しようとしている.NET開発者の場合、[Aspose.Total for .NET]（https://products.aspose.com/total/net/）ファイル形式操作APIがその方法です。前方。 [Aspose.Oft for .NET]（https://products.aspose.com/oft/net/）を使用すると、OFTファイル形式をHTMLに変換できます。その後、[Aspose.Words for .NET]（https://products.aspose.com/words/net/）を使用して、HTMLをPSにレンダリングできます。
+アプリケーション内にOFTからPSへの変換機能を追加しようとしている.NET開発者の場合、[Aspose.Total for .NET]（https://products.aspose.com/total/net/）ファイル形式操作APIがその方法です。前方。 [Aspose.Cells for .NET]（https://products.aspose.com/oft/net/）を使用すると、OFTファイル形式をHTMLに変換できます。その後、[Aspose.Words for .NET]（https://products.aspose.com/words/net/）を使用して、HTMLをPSにレンダリングできます。
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -41,11 +41,12 @@ message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
 Document document = new Document("HtmlOutput.html");
 
 document.Save("output.ps", SaveFormat.Ps); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2=".NET経由でOFTファイルを解析する" %}}
+{{% blocks/products/pf/feature-page-section  h2=".NET経由でOFTファイルを解析する" %}}Aspose.Cells
 OFTをPSに変換する前に、正しい電子メールを変換していることを確認したい場合は、OFTドキュメントをロードして解析し、目的のプロパティを確認できます。 [Aspose.Oft for .NET]（https://products.aspose.com/oft）の[MapiMessage]（https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage）クラスを使用する/ net /）API、送信者と受信者の情報を取得できます。たとえば、[SenderName]（https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername）プロパティを使用して、変換用の特定の送信者メールを確認できます。  
 {{% blocks/products/pf/feature-page-code %}}
 
@@ -56,7 +57,8 @@ var outlookMessageFile = MapiMessage.FromFile("message.oft");
 if(outlookMessageFile.SenderName == "John"){
     
 }
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -71,7 +73,8 @@ Document document = new Document("HtmlOutput.html");
 document.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.ps", SaveFormat.Ps);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

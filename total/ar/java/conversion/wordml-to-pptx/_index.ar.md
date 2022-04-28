@@ -17,7 +17,7 @@ otherformats: POWERPOINT PPS PPSX PPTX POT POTM PPTM PPT PPSM POTX CSV DIF FODS 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل WORDML إلى PPTX عبر Java" %}}
 1. افتح ملف WORDML باستخدام فئة [Wordmlument](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument)
-2. تحويل ملف WORDML إلى HTML باستخدام [Save](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument#save (java.lang.String، com.aspose.words.SaveOptions )) طريقة
+2. تحويل ملف WORDML إلى HTML باستخدام [Save](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument#save(java.lang.String.com.aspose.words.SaveOptions)) طريقة
 3. تهيئة كائن [عرض تقديمي] جديد (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. استخراج المحتوى من ملف HTML باستخدام BufferedReader وكتابة المحتوى في ملف العرض التقديمي الخاص بك
 6. احفظ المستند في PPTX باستخدام طريقة [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

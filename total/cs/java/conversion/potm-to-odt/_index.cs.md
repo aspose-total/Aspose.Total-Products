@@ -17,7 +17,7 @@ otherformats: WORD ODTX DOTX ODT WORDML OTT TEXT FLATOPC DOTM DOT ODTM RTF
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak převést POTM na ODT přes Java" %}}
 1. Otevřete soubor POTM pomocí třídy [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Převeďte POTM do HTML pomocí [uložit](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) a nastavte Html jako SaveFormat
+2. Převeďte POTM do HTML pomocí [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) a nastavte Html jako SaveFormat
 3. Načtěte převedený soubor HTML pomocí třídy [Odtument](https://apireference.aspose.com/words/java/com.aspose.words/Odtument)
 4. Uložte dokument ve formátu ODT pomocí metody [save](https://apireference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}

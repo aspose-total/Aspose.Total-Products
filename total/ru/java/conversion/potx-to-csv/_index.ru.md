@@ -17,7 +17,7 @@ otherformats: DIF XLAM MHTML XLSB XLTM XLSM EXCEL TSV SXC XLSX MARKDOWN ODS XLTX
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как преобразовать POTX в CSV через Java" %}}
 1. Откройте файл POTX, используя класс [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation).
-2. Преобразуйте POTX в HTML, используя [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) метод
+2. Преобразуйте POTX в HTML, используя [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) метод
 3. Загрузите HTML-документ с помощью класса [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).
 4. Сохраните документ в формате CSV, используя [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. SaveOptions)) метод
 {{% /blocks/products/pf/agp/feature-section-col %}}

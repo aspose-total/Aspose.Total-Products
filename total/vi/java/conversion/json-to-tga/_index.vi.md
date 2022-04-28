@@ -17,7 +17,7 @@ Sử dụng [Aspose.Total cho Java](https://products.aspose.com/total/java/), b�
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi định dạng JSON sang TGA qua Java" %}}
 1. Tạo đối tượng [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) mới và mở tệp JSON
-2. Lưu JSON dưới dạng JPEG bằng cách sử dụng [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save (java.lang.String,% 20com.aspose.cells.SaveOptions) ) phương pháp
+2. Lưu JSON dưới dạng JPEG bằng cách sử dụng [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,% 20com.aspose.cells.SaveOptions) ) phương pháp
 3. Tải tài liệu JPEG bằng cách sử dụng lớp [Hình ảnh](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image)
 4. Lưu tài liệu sang định dạng TGA bằng cách sử dụng [save](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase -) phương pháp
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -42,7 +42,7 @@ Antes de convertir RTF a ODS, puede eliminar la información no utilizada del rt
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Eliminar información no utilizada de un rtfumento RTF a través de Java" %}}
-Después de convertir RTF a ODS, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) le permite guardar su rtfumento para transmitir. Si necesita guardar archivos en un flujo, debe crear un objeto FileOutputStream y luego [guardar](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io. OutputStream,%20com.aspose.cells.SaveOptions)) el archivo a ese objeto Stream llamando al método de guardado de [Libro de trabajo](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) objeto. 
+Después de convertir RTF a ODS, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) le permite guardar su rtfumento para transmitir. Si necesita guardar archivos en un flujo, debe crear un objeto FileOutputStream y luego [guardar](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions)) el archivo a ese objeto Stream llamando al método de guardado de [Libro de trabajo](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) objeto. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}

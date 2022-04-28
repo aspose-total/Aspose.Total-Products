@@ -18,8 +18,8 @@ Bằng cách sử dụng [Aspose.Total for .NET](https://products.aspose.com/tot
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi định dạng WORD sang JSON qua C#" %}}
-1. Mở tệp WORD bằng lớp [Wordument](https://apireference.aspose.com/words/net/aspose.words/wordument)
-2. Chuyển đổi WORD sang HTML bằng phương pháp [Save](https://apireference.aspose.com/words/net/aspose.words.wordument/save/methods/4)
+1. Mở tệp WORD bằng lớp [Document](https://apireference.aspose.com/words/net/aspose.words/document)
+2. Chuyển đổi WORD sang HTML bằng phương pháp [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)
 3. Tải tài liệu HTML bằng cách sử dụng lớp [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Lưu tài liệu sang định dạng JSON bằng phương pháp [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}

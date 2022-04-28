@@ -18,10 +18,10 @@ En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), v
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET pour convertir WORD en XLTX" %}}
-1. Ouvrez le fichier WORD à l'aide de la classe [Wordument](https://apireference.aspose.com/words/net/aspose.words/wordument)
-2. Convertir WORD en HTML en utilisant la méthode [Save](https://apireference.aspose.com/words/net/aspose.words.wordument/save/methods/4)
-3. Chargez le wordument HTML à l'aide de la classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Enregistrez le wordument au format XLTX à l'aide de la méthode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) et définissez `XLTX` comme SaveFormat
+1. Ouvrez le fichier WORD à l'aide de la classe [Document](https://apireference.aspose.com/words/net/aspose.words/document)
+2. Convertir WORD en HTML en utilisant la méthode [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. Chargez le document HTML à l'aide de la classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+4. Enregistrez le document au format XLTX à l'aide de la méthode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) et définissez `XLTX` comme SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
@@ -38,8 +38,8 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Charger le wordument WORD à partir du flux via C#" %}}
-[Aspose.Words pour .NET](https://products.aspose.com/words/net/) vous permet également de charger un wordument WORD via un flux. Pour ouvrir un wordument à partir d'un flux, transmettez simplement un objet de flux contenant le wordument dans le constructeur [Wordument](https://apireference.aspose.com/words/net/aspose.words/wordument). L'exemple de code suivant montre comment ouvrir un wordument à partir d'un flux :  
+{{% blocks/products/pf/feature-page-section  h2="Charger le document WORD à partir du flux via C#" %}}
+[Aspose.Words pour .NET](https://products.aspose.com/words/net/) vous permet également de charger un document WORD via un flux. Pour ouvrir un document à partir d'un flux, transmettez simplement un objet de flux contenant le document dans le constructeur [Document](https://apireference.aspose.com/words/net/aspose.words/document). L'exemple de code suivant montre comment ouvrir un document à partir d'un flux :  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
@@ -48,7 +48,7 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ajouter des propriétés personnalisées dans le fichier XLTX via C#" %}}
-Lors de la conversion de WORD en XLTX, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) vous permet d'ajouter des propriétés personnalisées dans vos worduments XLTX. Pour ajouter une propriété personnalisée, vous pouvez utiliser la méthode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customwordumentpropertycollection/methods/add/index) pour la [CustomWordumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customwordumentpropertycollection). La méthode Add ajoute la propriété au fichier Excel et renvoie une référence pour la nouvelle propriété de wordument en tant que [Aspose.Cells.Properties.WordumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /wordumentpropriété). 
+Lors de la conversion de WORD en XLTX, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) vous permet d'ajouter des propriétés personnalisées dans vos documents XLTX. Pour ajouter une propriété personnalisée, vous pouvez utiliser la méthode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) pour la [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection). La méthode Add ajoute la propriété au fichier Excel et renvoie une référence pour la nouvelle propriété de document en tant que [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /documentpropriété). 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}

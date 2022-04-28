@@ -17,9 +17,9 @@ Chuyển đổi định dạng DOTM sang JSON thông qua [Aspose.Total cho Java]
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi định dạng DOTM sang JSON qua Java" %}}
 1. Mở tệp DOTM bằng lớp [Dotmument](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument)
-2. Chuyển đổi DOTM sang HTML bằng cách sử dụng [Save](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument#save (java.lang.String, com.aspose.words.SaveOptions) ) phương pháp
+2. Chuyển đổi DOTM sang HTML bằng cách sử dụng [Save](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String, com.aspose.words.SaveOptions) ) phương pháp
 3. Tải tài liệu HTML bằng cách sử dụng lớp [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Lưu tài liệu sang định dạng JSON bằng cách sử dụng [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save (java.lang.String,% 20com.aspose.cells). Phương thức SaveOptions))
+4. Lưu tài liệu sang định dạng JSON bằng cách sử dụng [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,% 20com.aspose.cells). Phương thức SaveOptions))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
 Bạn có thể dễ dàng sử dụng Aspose.Total cho Java trực tiếp từ dự án dựa trên [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và bao gồm các thư viện trong pom.xml của bạn.

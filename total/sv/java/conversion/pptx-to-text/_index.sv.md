@@ -17,7 +17,7 @@ otherformats: TEXTM TEXT WORDML TEXTX OTT DOTX DOT ODT FLATOPC WORD RTF DOTM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hur man konverterar PPTX till TEXT via Java" %}}
 1. Öppna PPTX-filen med klassen [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Konvertera PPTX till HTML genom att använda [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-)-metoden och ställ in Html som SaveFormat
+2. Konvertera PPTX till HTML genom att använda [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-)-metoden och ställ in Html som SaveFormat
 3. Ladda den konverterade HTML-filen med klassen [Textument](https://apireference.aspose.com/words/java/com.aspose.words/Textument)
 4. Spara dokumentet i TEXT-format med metoden [save](https://apireference.aspose.com/words/java/com.aspose.words/Textument#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -29,14 +29,16 @@ Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Konverteringskrav" %}}
 Med hjälp av API:t kan du också utföra PPTX-fil till TEXT-konvertering med vattenstämpel. För att lägga till en vattenstämpel till ditt TEXT-dokument kan du först konvertera PPTX-filen till HTML och lägga till en vattenstämpel till den. För att lägga till en vattenstämpel, ladda den nyskapade HTML-filen med klassen [Textument](https://apireference.aspose.com/words/java/com.aspose.words/Textument), skapa en instans av TextWatermarkOptions och ställ in dess egenskaper, anrop Watermark.setText-metoden och skicka vattenstämpeltext och objekt av TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}
+{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -17,7 +17,7 @@ Pomocí [Aspose.Total for Java](https://products.aspose.com/total/java/) můžet
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Převeďte soubor XML na ODS přes Java" %}}
 1. Otevřete soubor XML pomocí třídy [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)
-2. Převeďte XML na XLSX pomocí [uložit](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) metoda
+2. Převeďte XML na XLSX pomocí [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) metoda
 3. Načtěte dokument XLSX pomocí třídy [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Uložte dokument do formátu ODS pomocí [SaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) metoda
 {{% /blocks/products/pf/agp/feature-section-col %}}

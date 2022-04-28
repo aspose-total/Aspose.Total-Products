@@ -18,7 +18,7 @@ Genom att använda [Aspose.Total för .NET](https://products.aspose.com/total/ne
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API för att konvertera MOBI till XLAM" %}}
-1. Öppna MOBI-filen med klassen [Mobiument](https://apireference.aspose.com/words/net/aspose.words/mobiument)
+1. Öppna MOBI-filen med klassen [Document](https://apireference.aspose.com/words/net/aspose.words/mobiument)
 2. Konvertera MOBI till HTML med metoden [Save](https://apireference.aspose.com/words/net/aspose.words.mobiument/save/methods/4)
 3. Ladda HTML-dokument genom att använda klassen [Arbetsbok](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Spara dokumentet i XLAM-format med metoden [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) och ställ in "XLAM" som SaveFormat
@@ -48,7 +48,7 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 {{% /blocks/products/pf/feature-page-section %}}
 (https
 {{% blocks/products/pf/feature-page-section  h2="Lägg till anpassade egenskaper i XLAM-fil via C#" %}}
-När du konverterar MOBI till XLAM gör [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) det möjligt för dig att lägga till anpassade egenskaper i dina XLAM-dokument. För att lägga till en anpassad egenskap kan du använda metoden [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection/methods/add/index) för [CustomMobiumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection) klass. Add-metoden lägger till egenskapen i Excel-filen och returnerar en referens för den nya dokumentegenskapen som en [Aspose.Cells.Properties.MobiumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /mobiumentproperty) objekt. 
+När du konverterar MOBI till XLAM gör [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) det möjligt för dig att lägga till anpassade egenskaper i dina XLAM-dokument. För att lägga till en anpassad egenskap kan du använda metoden [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection/methods/add/index) för [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection) klass. Add-metoden lägger till egenskapen i Excel-filen och returnerar en referens för den nya dokumentegenskapen som en [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /mobiumentproperty) objekt. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

@@ -17,7 +17,7 @@ otherformats: WORDML OTT TEXTM RTF WORD FLATOPC ODT TEXT DOT TEXTX DOTX DOTM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل PPS إلى TEXT عبر Java" %}}
 1. افتح ملف PPS باستخدام فئة [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. تحويل PPS إلى HTML باستخدام [Save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) وتعيين Html كـ SaveFormat
+2. تحويل PPS إلى HTML باستخدام [Save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) وتعيين Html كـ SaveFormat
 3. قم بتحميل ملف HTML المحول باستخدام فئة [Textument](https://apireference.aspose.com/words/java/com.aspose.words/Textument)
 4. احفظ المستند بتنسيق TEXT باستخدام طريقة [Save](https://apireference.aspose.com/words/java/com.aspose.words/Textument#save(java.lang.String.int))
 {{% /blocks/products/pf/agp/feature-section-col %}}

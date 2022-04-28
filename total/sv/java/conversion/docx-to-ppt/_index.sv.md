@@ -17,7 +17,7 @@ Ofta måste utvecklare konvertera DOCX-fil till PPT programmatiskt. Genom att an
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hur man konverterar DOCX till PPT via Java" %}}
 1. Öppna DOCX-filen med klassen [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-2. Konvertera DOCX-fil till HTML genom att använda [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions )) metod
+2. Konvertera DOCX-fil till HTML genom att använda [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metod
 3. Initiera ett nytt [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) objekt
 5. Extrahera innehåll från HTML-fil med BufferedReader och skriv innehållet i din presentationsfil
 6. Spara dokumentet till PPT med metoden [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

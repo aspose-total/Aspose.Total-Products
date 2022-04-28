@@ -13,7 +13,7 @@ otherformats: DOT PNG DOTM ODT MD RTF DOC FLATOPC PCL GIF WORDML TEXT DOTX TIFF 
 {{< blocks/products/pf/i18n/feature-page-header h1="Εξαγωγή OFT σε WORDML μέσω .NET" h2=".NET API για απόδοση OFT σε WORDML σε Windows, macOS και Linux χωρίς χρήση Word ή Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Εάν είστε προγραμματιστής .NET που θέλει να προσθέσει OFT σε δυνατότητες μετατροπής WORDML μέσα στις εφαρμογές σας, τα API χειρισμού μορφής αρχείου [Aspose.Total for .NET](https://products.aspose.com/total/net/) είναι ο τρόπος προς τα εμπρός. Χρησιμοποιώντας το [Aspose.Oft for .NET](https://products.aspose.com/oft/net/), μπορείτε να μετατρέψετε τη μορφή αρχείου OFT σε HTML. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Words για .NET](https://products.aspose.com/words/net/), μπορείτε να αποδώσετε την HTML σε WORDML.
+Εάν είστε προγραμματιστής .NET που θέλει να προσθέσει OFT σε δυνατότητες μετατροπής WORDML μέσα στις εφαρμογές σας, τα API χειρισμού μορφής αρχείου [Aspose.Total for .NET](https://products.aspose.com/total/net/) είναι ο τρόπος προς τα εμπρός. Χρησιμοποιώντας το [Aspose.Cells for .NET](https://products.aspose.com/oft/net/), μπορείτε να μετατρέψετε τη μορφή αρχείου OFT σε HTML. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Words για .NET](https://products.aspose.com/words/net/), μπορείτε να αποδώσετε την HTML σε WORDML.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.wordml", SaveFormat.WordML);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ανάλυση αρχείου OFT μέσω .NET" %}}
-Πριν μετατρέψετε το OFT σε WORDML, εάν θέλετε να βεβαιωθείτε ότι μετατρέπετε το σωστό oft, μπορείτε να φορτώσετε το έγγραφο OFT, να το αναλύσετε και να ρίξετε μια ματιά στην επιθυμητή ιδιότητα. Χρησιμοποιώντας την κλάση [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) του [Aspose.Oft for .NET](https://products.aspose.com/oft /net/) API, μπορείτε να λάβετε πληροφορίες αποστολέα και παραληπτών. Για παράδειγμα, μπορείτε να ελέγξετε για ένα συγκεκριμένο μήνυμα ηλεκτρονικού ταχυδρομείου αποστολέα για τη μετατροπή χρησιμοποιώντας την ιδιότητα [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
+Πριν μετατρέψετε το OFT σε WORDML, εάν θέλετε να βεβαιωθείτε ότι μετατρέπετε το σωστό oft, μπορείτε να φορτώσετε το έγγραφο OFT, να το αναλύσετε και να ρίξετε μια ματιά στην επιθυμητή ιδιότητα. Χρησιμοποιώντας την κλάση [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) του [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API, μπορείτε να λάβετε πληροφορίες αποστολέα και παραληπτών. Για παράδειγμα, μπορείτε να ελέγξετε για ένα συγκεκριμένο μήνυμα ηλεκτρονικού ταχυδρομείου αποστολέα για τη μετατροπή χρησιμοποιώντας την ιδιότητα [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

@@ -17,7 +17,7 @@ otherformats: DOTM RTFX OTT DOT WORDML FLATOPC RTFM ODT RTF DOTX TEXT WORD
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak převést POT na RTF přes Java" %}}
 1. Otevřete soubor POT pomocí třídy [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Převeďte POT do HTML pomocí [uložit](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) a nastavte Html jako SaveFormat
+2. Převeďte POT do HTML pomocí [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) a nastavte Html jako SaveFormat
 3. Načtěte převedený soubor HTML pomocí třídy [Rtfument](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument)
 4. Uložte dokument ve formátu RTF pomocí metody [save](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -17,7 +17,7 @@ Spesso gli sviluppatori devono convertire i file ODT in PPSM a livello di codice
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Come convertire ODT in PPSM tramite Java" %}}
 1. Aprire il file ODT utilizzando la classe [Odtument](https://apiference.aspose.com/words/java/com.aspose.words/Odtument)
-2. Converti file ODT in HTML utilizzando [save](https://apiference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String,com.aspose.words.SaveOptions )) metodo
+2. Converti file ODT in HTML utilizzando [save](https://apiference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String,com.aspose.words.SaveOptions)) metodo
 3. Inizializzare un nuovo oggetto [Presentation](https://apiference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Estrarre il contenuto dal file HTML utilizzando BufferedReader e scrivere il contenuto nel file di presentazione
 6. Salvare il odtumento in PPSM utilizzando il metodo [save](https://apiference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
@@ -30,14 +30,16 @@ In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspos
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-odt-to-pptx.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisiti di conversione" %}}
 L'API consente inoltre di convertire odtumenti ODT protetti da password in PPSM. Se il odtumento ODT di input è protetto da password, non è possibile convertirlo in formato PPSM senza utilizzare la password. Per aprire un odtumento crittografato è possibile impostare la password corretta nell'oggetto LoadOptions e passarla al costruttore del odtumento.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-odt-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-odt-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

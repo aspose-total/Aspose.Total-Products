@@ -13,7 +13,7 @@ otherformats: DOTM TIFF FLATOPC ODT WORDML SVG DOC DOCX EPUB MD DOCM XPS JPEG DO
 {{< blocks/products/pf/i18n/feature-page-header h1="Exporteer OFT naar TIFF via .NET" h2=".NET API om OFT naar TIFF te renderen op Windows, macOS en Linux zonder Word of Outlook te gebruiken" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Als u een .NET-ontwikkelaar bent die OFT-naar-TIFF-conversiefuncties in uw toepassingen wilt toevoegen, zijn [Aspose.Total for .NET](https://products.aspose.com/total/net/) bestandsformaatmanipulatie-API's de juiste keuze vooruit. Door [Aspose.Oft for .NET](https://products.aspose.com/oft/net/) te gebruiken, kunt u het OFT-bestandsformaat converteren naar HTML. Daarna kunt u met [Aspose.Words for .NET](https://products.aspose.com/words/net/) HTML naar TIFF renderen.
+Als u een .NET-ontwikkelaar bent die OFT-naar-TIFF-conversiefuncties in uw toepassingen wilt toevoegen, zijn [Aspose.Total for .NET](https://products.aspose.com/total/net/) bestandsformaatmanipulatie-API's de juiste keuze vooruit. Door [Aspose.Cells for .NET](https://products.aspose.com/oft/net/) te gebruiken, kunt u het OFT-bestandsformaat converteren naar HTML. Daarna kunt u met [Aspose.Words for .NET](https://products.aspose.com/words/net/) HTML naar TIFF renderen.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.tiff", SaveFormat.Tiff);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="E-MAIL-bestand ontleden via .NET" %}}
-Voordat u OFT naar TIFF converteert, kunt u, als u er zeker van wilt zijn dat u de juiste e-mail converteert, het OFT-document laden, het ontleden en uw gewenste eigenschap bekijken. Door gebruik te maken van [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) klasse van [Aspose.Oft for .NET](https://products.aspose.com/oft /net/) API, kunt u informatie over afzender en ontvanger krijgen. U kunt bijvoorbeeld controleren op een specifiek e-mailadres van de afzender voor de conversie door de eigenschap [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername) te gebruiken.  
+Voordat u OFT naar TIFF converteert, kunt u, als u er zeker van wilt zijn dat u de juiste e-mail converteert, het OFT-document laden, het ontleden en uw gewenste eigenschap bekijken. Door gebruik te maken van [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) klasse van [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API, kunt u informatie over afzender en ontvanger krijgen. U kunt bijvoorbeeld controleren op een specifiek e-mailadres van de afzender voor de conversie door de eigenschap [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername) te gebruiken.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

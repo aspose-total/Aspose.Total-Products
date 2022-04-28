@@ -17,7 +17,7 @@ A menudo, los desarrolladores tienen que convertir el archivo TXT a POTM mediant
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir TXT a POTM a través de Java" %}}
 1. Abra el archivo TXT usando la clase [Txtumento](https://apireference.aspose.com/words/java/com.aspose.words/Txtument)
-2. Convierta el archivo TXT a HTML usando [guardar](https://apireference.aspose.com/words/java/com.aspose.words/Txtument#save(java.lang.String,com.aspose.words.SaveOptions )) método
+2. Convierta el archivo TXT a HTML usando [guardar](https://apireference.aspose.com/words/java/com.aspose.words/Txtument#save(java.lang.String,com.aspose.words.SaveOptions)) método
 3. Inicialice un nuevo objeto [Presentación](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraiga el contenido del archivo HTML usando BufferedReader y escriba el contenido en su archivo de presentación
 6. Guarde el txtumento en POTM usando el método [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

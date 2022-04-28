@@ -17,7 +17,7 @@ otherformats: FLATOPC DOCMX WORDML OTT WORD DOCM DOTM ODT RTF DOTX TEXT DOT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cara Mengonversi PPT ke DOCM melalui Java" %}}
 1. Buka file PPT menggunakan kelas [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Konversi PPT ke HTML dengan menggunakan [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) metode dan atur Html sebagai SaveFormat
+2. Konversi PPT ke HTML dengan menggunakan [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) metode dan atur Html sebagai SaveFormat
 3. Muat file HTML yang dikonversi menggunakan kelas [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. Simpan dokumen ke format DOCM menggunakan metode [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}

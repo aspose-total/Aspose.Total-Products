@@ -17,7 +17,7 @@ otherformats: RTF DOCX DOTM OTT WORD WORDML DOTX FLATOPC DOT TEXT ODT DOCXM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hoe PPSX naar DOCX te converteren via Java" %}}
 1. Open het PPSX-bestand met de klasse [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Converteer PPSX naar HTML met behulp van [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) methode en stel Html in als SaveFormat
+2. Converteer PPSX naar HTML met behulp van [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) methode en stel Html in als SaveFormat
 3. Laad het geconverteerde HTML-bestand met de klasse [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. Sla het document op in DOCX-indeling met de methode [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}

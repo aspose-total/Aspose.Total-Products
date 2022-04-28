@@ -17,7 +17,7 @@ otherformats: RTF OTT DOTM WORDML FLATOPC ODT DOCXM TEXT WORD DOTX DOCX DOT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak przekonwertować PPTM na DOCX za pomocą Javy?" %}}
 1. Otwórz plik PPTM za pomocą klasy [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Przekonwertuj PPTM na HTML, używając [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) i ustaw HTML jako SaveFormat
+2. Przekonwertuj PPTM na HTML, używając [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) i ustaw HTML jako SaveFormat
 3. Załaduj przekonwertowany plik HTML za pomocą klasy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. Zapisz dokument w formacie DOCX za pomocą metody [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}

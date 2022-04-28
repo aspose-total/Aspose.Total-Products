@@ -17,7 +17,7 @@ otherformats: ODT WORDML FLATOPC RTF DOTM OTT WORD FLATOPCX DOT DOTX TEXT FLATOP
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hoe PPTM naar FLATOPC te converteren via Java" %}}
 1. Open het PPTM-bestand met de klasse [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Converteer PPTM naar HTML met behulp van [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) methode en stel Html in als SaveFormat
+2. Converteer PPTM naar HTML met behulp van [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) methode en stel Html in als SaveFormat
 3. Laad het geconverteerde HTML-bestand met de klasse [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument)
 4. Sla het flatopcument op in FLATOPC-indeling met de methode [save](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -29,14 +29,16 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Conversievereisten" %}}
 Met behulp van de API kunt u ook een PPTM-bestand naar FLATOPC-conversie met watermerk uitvoeren. Om een watermerk aan uw FLATOPC-flatopcument toe te voegen, kunt u het PPTM-bestand eerst naar HTML converteren en er een watermerk aan toevoegen. Om een watermerk toe te voegen, laadt u het nieuw gemaakte HTML-bestand met de klasse [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument), maakt u een instantie van TextWatermarkOptions en stelt u zijn eigenschappen, Bel de methode Watermark.setText en geef de watermerktekst en het object van TextWatermarkOptions door.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -17,7 +17,7 @@ otherformats: FLATOPC WORD DOTMM DOTMX WORDML DOTM RTF DOT ODT DOTX OTT TEXT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir PPT a DOTM a través de Java" %}}
 1. Abra el archivo PPT usando la clase [Presentación](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Convierta PPT a HTML usando [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) y establezca Html como SaveFormat
+2. Convierta PPT a HTML usando [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) y establezca Html como SaveFormat
 3. Cargue el archivo HTML convertido usando la clase [Documento](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. Guarde el dotmumento en formato DOTM usando el método [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}

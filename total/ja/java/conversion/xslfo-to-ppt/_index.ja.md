@@ -42,7 +42,7 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="変換要件" %}}
-XSLFOファイル形式の読み込み中、ドキュメントはパスワードで保護されている可能性があります。 [Aspose.PDF for Java]（https://products.aspose.com/pdf/java/）を使用すると、暗号化されたドキュメントを開くこともできます。暗号化されたファイルを開くために、[ドキュメント]の新しいインスタンスを初期化できます（https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java .lang.String-）クラスを作成し、ファイル名とパスワードを引数として渡します。  
+XSLFOファイル形式の読み込み中、ドキュメントはパスワードで保護されている可能性があります。 [Aspose.PDF for Java]（https://products.aspose.com/pdf/java/）を使用すると、暗号化されたドキュメントを開くこともできます。暗号化されたファイルを開くために、[ドキュメント]の新しいインスタンスを初期化できます（https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-）クラスを作成し、ファイル名とパスワードを引数として渡します。  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java

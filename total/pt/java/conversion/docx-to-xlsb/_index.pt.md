@@ -42,7 +42,7 @@ Antes de converter DOCX para XLSB, você pode remover informações não utiliza
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Remover informações não utilizadas de um documento DOCX via Java" %}}
-Depois de converter DOCX para XLSB, o [Aspose.Cells for Java](https://products.aspose.com/cells/java/) permite que você salve seu documento para transmitir. Se você precisar salvar arquivos em um Stream, deverá criar um objeto FileOutputStream e [salvar](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io. OutputStream,%20com.aspose.cells.SaveOptions)) o arquivo para esse objeto Stream chamando o método save de [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) objeto. 
+Depois de converter DOCX para XLSB, o [Aspose.Cells for Java](https://products.aspose.com/cells/java/) permite que você salve seu documento para transmitir. Se você precisar salvar arquivos em um Stream, deverá criar um objeto FileOutputStream e [salvar](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions)) o arquivo para esse objeto Stream chamando o método save de [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) objeto. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-word-to-protected-excel.java" >}}

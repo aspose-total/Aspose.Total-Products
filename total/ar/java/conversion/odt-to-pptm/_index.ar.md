@@ -17,7 +17,7 @@ otherformats: PPSM PPSX PPS POWERPOINT PPT POTM POTX PPTM PPTX POT CSV DIF FODS 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل ODT إلى PPTM عبر Java" %}}
 1. افتح ملف ODT باستخدام فئة [Odtument](https://apireference.aspose.com/words/java/com.aspose.words/Odtument)
-2. تحويل ملف ODT إلى HTML باستخدام [Save](https://apireference.aspose.com/words/java/com.aspose.words/Odtument#save (java.lang.String، com.aspose.words.SaveOptions )) طريقة
+2. تحويل ملف ODT إلى HTML باستخدام [Save](https://apireference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String.com.aspose.words.SaveOptions)) طريقة
 3. تهيئة كائن [عرض تقديمي] جديد (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. استخراج المحتوى من ملف HTML باستخدام BufferedReader وكتابة المحتوى في ملف العرض التقديمي الخاص بك
 6. احفظ المستند في PPTM باستخدام طريقة [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

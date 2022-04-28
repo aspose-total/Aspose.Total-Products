@@ -17,7 +17,7 @@ otherformats: WORDML ODT DOTX OTT DOT WORD RTF FLATOPC DOTM TEXT DOTXX DOTXM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="So konvertieren Sie POTM über Java in DOTX" %}}
 1. Öffnen Sie die POTM-Datei mit der Klasse [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation).
-2. Konvertieren Sie POTM in HTML mit [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) Methode und legen Sie Html als SaveFormat fest
+2. Konvertieren Sie POTM in HTML mit [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) Methode und legen Sie Html als SaveFormat fest
 3. Laden Sie die konvertierte HTML-Datei mit der Klasse [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document).
 4. Speichern Sie das Dokument im DOTX-Format mit der Methode [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)).
 {{% /blocks/products/pf/agp/feature-section-col %}}

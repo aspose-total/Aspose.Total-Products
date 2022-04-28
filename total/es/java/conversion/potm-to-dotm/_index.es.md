@@ -17,7 +17,7 @@ otherformats: WORD DOTX OTT DOTM RTF DOTMM TEXT DOTMX FLATOPC WORDML ODT DOT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir POTM a DOTM a través de Java" %}}
 1. Abra el archivo POTM usando la clase [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Convierta POTM a HTML usando [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) y establezca Html como SaveFormat
+2. Convierta POTM a HTML usando [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) y establezca Html como SaveFormat
 3. Cargue el archivo HTML convertido usando la clase [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. Guarde el dotmumento en formato DOTM usando el método [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}

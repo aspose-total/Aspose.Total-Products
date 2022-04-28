@@ -29,21 +29,24 @@ Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloa
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-word-to-excel.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisitos de conversão" %}}
 Antes de converter DOC para XLSX, você pode remover informações não utilizadas do Documento DOC via [Aspose.Words for Java](https://products.aspose.com/words/java/). Às vezes, pode ser necessário remover informações não utilizadas ou duplicadas para reduzir o tamanho do documento de saída e o tempo de processamento. A classe [CleanupOptions](https://apireference.aspose.com/words/java/com.aspose.words/CleanupOptions) permite especificar opções para limpeza de documentos. Para remover estilos duplicados ou apenas estilos ou listas não utilizados do documento, você pode usar o método [Cleanup](https://apireference.aspose.com/words/java/com.aspose.words/Document#cleanup()). Você pode usar os [UnusedStyles](https://apireference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) e [UnusedBuiltinStyles](https://apireference.aspose.com/words/java /com.aspose.words/cleanupoptions#UnusedBuiltinStyles) para detectar e remover estilos marcados como “não usados”.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-protected-word-to-excel.java" >}}
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-protected-word-to-excel.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% /blocks/products/pf/feature-page-section %}}(https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions))
 {{% blocks/products/pf/feature-page-section  h2="Remover informações não utilizadas de um documento DOC via Java" %}}
-Depois de converter DOC para XLSX, o [Aspose.Cells for Java](https://products.aspose.com/cells/java/) permite que você salve seu documento para transmitir. Se você precisar salvar arquivos em um Stream, deverá criar um objeto FileOutputStream e [salvar](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io. OutputStream,%20com.aspose.cells.SaveOptions)) o arquivo para esse objeto Stream chamando o método save de [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) objeto. 
+Depois de converter DOC para XLSX, o [Aspose.Cells for Java](https://products.aspose.com/cells/java/) permite que você salve seu documento para transmitir. Se você precisar salvar arquivos em um Stream, deverá criar um objeto FileOutputStream e [salvar](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions)) o arquivo para esse objeto Stream chamando o método save de [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) objeto. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-word-to-protected-excel.java" >}}
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-word-to-protected-excel.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

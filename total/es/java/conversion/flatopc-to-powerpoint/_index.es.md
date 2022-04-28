@@ -17,7 +17,7 @@ A menudo, los desarrolladores tienen que convertir el archivo FLATOPC a POWERPOI
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir FLATOPC a POWERPOINT a través de Java" %}}
 1. Abra el archivo FLATOPC usando la clase [Flatopcumento](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument)
-2. Convierta el archivo FLATOPC a HTML usando [save](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,com.aspose.words.SaveOptions )) método
+2. Convierta el archivo FLATOPC a HTML usando [save](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,com.aspose.words.SaveOptions)) método
 3. Inicialice un nuevo objeto [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraiga el contenido del archivo HTML usando BufferedReader y escriba el contenido en su archivo de presentación
 6. Guarde el flatopcumento en POWERPOINT usando el método [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

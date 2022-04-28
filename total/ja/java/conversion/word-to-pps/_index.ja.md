@@ -16,8 +16,8 @@ otherformats: PPT PPTM PPTX POT PPS POTM PPSX POWERPOINT PPSM POTX CSV DIF FODS 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Javaを介してWORDをPPSに変換する方法" %}}
-1. [ドキュメント]（https://apireference.aspose.com/words/java/com.aspose.words/Wordument）クラスを使用してWORDファイルを開きます
-2. [save]（https://apireference.aspose.com/words/java/com.aspose.words/Wordument#save(java.lang.String,com.aspose.words.SaveOptions）を使用してWORDファイルをHTMLに変換します）） 方法
+1. [ドキュメント]（https://apireference.aspose.com/words/java/com.aspose.words/Document）クラスを使用してWORDファイルを開きます
+2. [save]（https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions）を使用してWORDファイルをHTMLに変換します）） 方法
 3.新しい[プレゼンテーション]（https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation）オブジェクトを初期化します
 5. BufferedReaderを使用してHTMLファイルからコンテンツを抽出し、プレゼンテーションファイルにコンテンツを書き込みます
 6. [save]（https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-）メソッドを使用してドキュメントをPPSに保存します
@@ -35,7 +35,7 @@ WORDからPPSファイルへの変換では、[Maven]（https://repository.aspos
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="変換要件" %}}
-APIを使用すると、パスワードで保護されたWORDドキュメントをPPSに変換することもできます。入力WORDドキュメントがパスワードで保護されている場合、パスワードを使用せずにPPS形式に変換することはできません。暗号化されたドキュメントを開くには、LoadOptionsオブジェクトに正しいパスワードを設定し、それをWordumentコンストラクターに渡すことができます。  
+APIを使用すると、パスワードで保護されたWORDドキュメントをPPSに変換することもできます。入力WORDドキュメントがパスワードで保護されている場合、パスワードを使用せずにPPS形式に変換することはできません。暗号化されたドキュメントを開くには、LoadOptionsオブジェクトに正しいパスワードを設定し、それをDocumentコンストラクターに渡すことができます。  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-word-to-pptx.java" >}}

@@ -18,8 +18,8 @@ otherformats: DIF EXCEL XLT XLS FODS TSV ODS SXC XLAM XLSX XLSB XLSM XLTM XLTX
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="OTT को CSV में बदलने के लिए .NET API" %}}
-1. [दस्तावेज़](https://apireference.aspose.com/words/net/aspose.words/ottument) वर्ग का उपयोग करके OTT फ़ाइल खोलें
-2. [Save](https://apireference.aspose.com/words/net/aspose.words.ottument/save/methods/4) विधि का उपयोग करके OTT को HTML में बदलें
+1. [दस्तावेज़](https://apireference.aspose.com/words/net/aspose.words/document) वर्ग का उपयोग करके OTT फ़ाइल खोलें
+2. [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) विधि का उपयोग करके OTT को HTML में बदलें
 3. [वर्कबुक](https://apireference.aspose.com/cells/net/aspose.cells/workbook) क्लास का इस्तेमाल करके एचटीएमएल दस्तावेज़ लोड करें
 4. [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) विधि का उपयोग करके दस्तावेज़ को CSV प्रारूप में सहेजें और `CSV` को SaveFormat के रूप में सेट करें
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -39,7 +39,7 @@ otherformats: DIF EXCEL XLT XLS FODS TSV ODS SXC XLAM XLSX XLSB XLSM XLTM XLTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="सी # के माध्यम से स्ट्रीम से डीओसी दस्तावेज़ लोड करें" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) भी आपको स्ट्रीम के माध्यम से OTT दस्तावेज़ लोड करने की अनुमति देता है। किसी स्ट्रीम से दस्तावेज़ खोलने के लिए, बस एक स्ट्रीम ऑब्जेक्ट पास करें जिसमें दस्तावेज़ [दस्तावेज़](https://apireference.aspose.com/words/net/aspose.words/ottument) कंस्ट्रक्टर में हो। निम्न कोड उदाहरण दिखाता है कि किसी स्ट्रीम से दस्तावेज़ कैसे खोलें:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) भी आपको स्ट्रीम के माध्यम से OTT दस्तावेज़ लोड करने की अनुमति देता है। किसी स्ट्रीम से दस्तावेज़ खोलने के लिए, बस एक स्ट्रीम ऑब्जेक्ट पास करें जिसमें दस्तावेज़ [दस्तावेज़](https://apireference.aspose.com/words/net/aspose.words/document) कंस्ट्रक्टर में हो। निम्न कोड उदाहरण दिखाता है कि किसी स्ट्रीम से दस्तावेज़ कैसे खोलें:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ otherformats: DIF EXCEL XLT XLS FODS TSV ODS SXC XLAM XLSX XLSB XLSM XLTM XLTX
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="सी # के माध्यम से सीएसवी फ़ाइल में कस्टम गुण जोड़ें" %}}
-OTT को CSV में कनवर्ट करते समय, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) आपको अपने CSV दस्तावेज़ों में कस्टम गुण जोड़ने में सक्षम बनाता है। कस्टम प्रॉपर्टी जोड़ने के लिए, आप [CustomOttumentPropertyCollection] के लिए [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customottumentpropertycollection/methods/add/index) मेथड का इस्तेमाल कर सकते हैं। https://apireference.aspose.com/cells/net/aspose.cells.properties/customottumentpropertycollection) वर्ग। जोड़ें विधि संपत्ति को एक्सेल फ़ाइल में जोड़ती है और नई दस्तावेज़ संपत्ति के लिए एक [Aspose.Cells.Properties.OttumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties के रूप में एक संदर्भ देता है। /दस्तावेज़प्रॉपर्टी) वस्तु। 
+OTT को CSV में कनवर्ट करते समय, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) आपको अपने CSV दस्तावेज़ों में कस्टम गुण जोड़ने में सक्षम बनाता है। कस्टम प्रॉपर्टी जोड़ने के लिए, आप [CustomDocumentPropertyCollection] के लिए [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) मेथड का इस्तेमाल कर सकते हैं। https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) वर्ग। जोड़ें विधि संपत्ति को एक्सेल फ़ाइल में जोड़ती है और नई दस्तावेज़ संपत्ति के लिए एक [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties के रूप में एक संदर्भ देता है। /दस्तावेज़प्रॉपर्टी) वस्तु। 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

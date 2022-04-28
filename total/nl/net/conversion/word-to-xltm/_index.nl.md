@@ -18,10 +18,10 @@ Door [Aspose.Total for .NET](https://products.aspose.com/total/net/) te gebruike
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API om WORD naar XLTM te converteren" %}}
-1. Open het WORD-bestand met de klasse [Wordument](https://apireference.aspose.com/words/net/aspose.words/wordument)
-2. Converteer WORD naar HTML met behulp van de [Save](https://apireference.aspose.com/words/net/aspose.words.wordument/save/methods/4) methode
-3. Laad HTML-wordument met behulp van [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) class
-4. Sla het wordument op in XLTM-indeling met de methode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) en stel `XLTM` in als SaveFormat
+1. Open het WORD-bestand met de klasse [Document](https://apireference.aspose.com/words/net/aspose.words/document)
+2. Converteer WORD naar HTML met behulp van de [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) methode
+3. Laad HTML-document met behulp van [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) class
+4. Sla het document op in XLTM-indeling met de methode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) en stel `XLTM` in als SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
@@ -38,8 +38,8 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Laad WORD Wordument van Stream via C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) stelt u ook in staat om WORD-wordumenten via stream te laden. Om een wordument uit een stream te openen, geeft u eenvoudig een stream-object dat het wordument bevat door aan de [Wordument](https://apireference.aspose.com/words/net/aspose.words/wordument)-constructor. Het volgende codevoorbeeld laat zien hoe u een wordument vanuit een stream opent:  
+{{% blocks/products/pf/feature-page-section  h2="Laad WORD Document van Stream via C#" %}}
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) stelt u ook in staat om WORD-documenten via stream te laden. Om een document uit een stream te openen, geeft u eenvoudig een stream-object dat het document bevat door aan de [Document](https://apireference.aspose.com/words/net/aspose.words/document)-constructor. Het volgende codevoorbeeld laat zien hoe u een document vanuit een stream opent:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 {{% /blocks/products/pf/feature-page-section %}}
 (https
 {{% blocks/products/pf/feature-page-section  h2="Aangepaste eigenschappen toevoegen in XLTM-bestand via C#" %}}
-Tijdens het converteren van WORD naar XLTM kunt u met [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) aangepaste eigenschappen toevoegen aan uw XLTM-wordumenten. Om een aangepaste eigenschap toe te voegen, kunt u de methode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customwordumentpropertycollection/methods/add/index) gebruiken voor de [CustomWordumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customwordumentpropertycollection) klasse. De Add-methode voegt de eigenschap toe aan het Excel-bestand en retourneert een verwijzing voor de nieuwe wordumenteigenschap als [Aspose.Cells.Properties.WordumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /wordumentproperty) object. 
+Tijdens het converteren van WORD naar XLTM kunt u met [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) aangepaste eigenschappen toevoegen aan uw XLTM-documenten. Om een aangepaste eigenschap toe te voegen, kunt u de methode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) gebruiken voor de [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) klasse. De Add-methode voegt de eigenschap toe aan het Excel-bestand en retourneert een verwijzing voor de nieuwe documenteigenschap als [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /documentproperty) object. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

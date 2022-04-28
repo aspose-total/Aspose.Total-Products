@@ -17,7 +17,7 @@ otherformats: ODT WORD FLATOPC OTT WORDML WORDMLM RTF DOTX DOTM DOT WORDMLX TEXT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل PPSX إلى WORDML عبر Java" %}}
 1. افتح ملف PPSX باستخدام فئة [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. تحويل PPSX إلى HTML باستخدام [Save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) وتعيين Html كـ SaveFormat
+2. تحويل PPSX إلى HTML باستخدام [Save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) وتعيين Html كـ SaveFormat
 3. قم بتحميل ملف HTML المحول باستخدام فئة [Wordmlument](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument)
 4. احفظ المستند بتنسيق WORDML باستخدام طريقة [Save](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument#save(java.lang.String.int))
 {{% /blocks/products/pf/agp/feature-section-col %}}

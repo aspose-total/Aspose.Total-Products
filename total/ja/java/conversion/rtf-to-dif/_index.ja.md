@@ -22,7 +22,7 @@ otherformats: XLAM ODS XLSM XLTX TSV EXCEL XLTM FODS XLT XLSB DIF XLS XLSX SXC
 4. [保存]（https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells）を使用して、ドキュメントをDIF形式で保存します。 SaveOptions））メソッド
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
-[Maven]（https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total）ベースのプロジェクトから直接Aspose.TotalforJavaを簡単に使用できます[Aspose.Words for Java]（https://rtfs.aspose.com/words/java/installation/）と[Aspose.Cells for Java]（https://rtfs.aspose.com/cells/java/）を含めます。あなたのpom.xmlのinstallation/）。
+[Maven]（https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total）ベースのプロジェクトから直接Aspose.TotalforJavaを簡単に使用できます[Aspose.Words for Java]（https://rtfs.aspose.com/words/java/installation/）と[Aspose.Cells for Java]（https://rtfs.aspose.com/cells/java/installation/）を含めますあなたのpom.xmlの。
 
 または、[ダウンロード]（https://downloads.aspose.com/total/java）からZIPファイルを取得することもできます。
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -42,7 +42,7 @@ RTFをDIFに変換する前に、[Aspose.Words for Java]（https://products.aspo
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Javaを介してRTFドキュメントから未使用の情報を削除する" %}}
-RTFをDIFに変換した後、[Aspose.Cells for Java]（https://products.aspose.com/cells/java/）を使用すると、ドキュメントをストリームに保存できます。ファイルをストリームに保存する必要がある場合は、FileOutputStreamオブジェクトを作成してから、[保存]（https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io）する必要があります。 OutputStream、％20com.aspose.cells.SaveOptions））[Workbook]（https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook）のsaveメソッドを呼び出して、そのStreamオブジェクトへのファイル物体。 
+RTFをDIFに変換した後、[Aspose.Cells for Java]（https://products.aspose.com/cells/java/）を使用すると、ドキュメントをストリームに保存できます。ファイルをストリームに保存する必要がある場合は、FileOutputStreamオブジェクトを作成してから、[保存]（https://apireference.aspose.com/cells/java/com.aspose.cells/workbook）[Workbook]（https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook）のsaveメソッドを呼び出して、そのStreamオブジェクトへのファイル物体。 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}

@@ -16,8 +16,8 @@ Mengonversi WORD ke EXCEL melalui [Aspose.Total for Java](https://products.aspos
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API untuk Mengonversi WORD ke EXCEL" %}}
-1. Buka file WORD menggunakan kelas [Wordument](https://apireference.aspose.com/words/java/com.aspose.words/Wordument)
-2. Konversi WORD ke HTML dengan menggunakan [Simpan](https://apireference.aspose.com/words/java/com.aspose.words/Wordument#save(java.lang.String,com.aspose.words.SaveOptions) ) metode
+1. Buka file WORD menggunakan kelas [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. Konversi WORD ke HTML dengan menggunakan [Simpan](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) metode
 3. Muat dokumen HTML dengan menggunakan kelas [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Simpan dokumen ke format EXCEL menggunakan [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String.%20com.aspose.cells.SaveOptions)) metode
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -34,7 +34,7 @@ Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://downloads.aspose.c
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Persyaratan Konversi" %}}
-Sebelum mengonversi WORD ke EXCEL, Anda dapat menghapus informasi yang tidak digunakan dari Dokumen WORD melalui [Aspose.Words for Java](https://products.aspose.com/words/java/). Terkadang Anda mungkin perlu menghapus informasi yang tidak digunakan atau duplikat untuk mengurangi ukuran dokumen keluaran dan waktu pemrosesan. Kelas [CleanupOptions](https://apireference.aspose.com/words/java/com.aspose.words/CleanupOptions) memungkinkan Anda menentukan opsi untuk pembersihan dokumen. Untuk menghapus gaya duplikat atau hanya gaya atau daftar yang tidak digunakan dari dokumen, Anda dapat menggunakan metode [Pembersihan](https://apireference.aspose.com/words/java/com.aspose.words/Wordument#cleanup()). Anda dapat menggunakan [UnusedStyles](https://apireference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) dan [UnusedBuiltinStyles](https://apireference.aspose.com/words/java /com.aspose.words/cleanuoptions#UnusedBuiltinStyles) properti untuk mendeteksi dan menghapus gaya yang ditandai sebagai "tidak digunakan".  
+Sebelum mengonversi WORD ke EXCEL, Anda dapat menghapus informasi yang tidak digunakan dari Dokumen WORD melalui [Aspose.Words for Java](https://products.aspose.com/words/java/). Terkadang Anda mungkin perlu menghapus informasi yang tidak digunakan atau duplikat untuk mengurangi ukuran dokumen keluaran dan waktu pemrosesan. Kelas [CleanupOptions](https://apireference.aspose.com/words/java/com.aspose.words/CleanupOptions) memungkinkan Anda menentukan opsi untuk pembersihan dokumen. Untuk menghapus gaya duplikat atau hanya gaya atau daftar yang tidak digunakan dari dokumen, Anda dapat menggunakan metode [Pembersihan](https://apireference.aspose.com/words/java/com.aspose.words/Document#cleanup()). Anda dapat menggunakan [UnusedStyles](https://apireference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) dan [UnusedBuiltinStyles](https://apireference.aspose.com/words/java /com.aspose.words/cleanuoptions#UnusedBuiltinStyles) properti untuk mendeteksi dan menghapus gaya yang ditandai sebagai "tidak digunakan".  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-protected-word-to-excel.java" >}}
@@ -42,7 +42,7 @@ Sebelum mengonversi WORD ke EXCEL, Anda dapat menghapus informasi yang tidak dig
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Hapus Informasi yang Tidak Digunakan dari Dokumen WORD melalui Java" %}}
-Setelah mengonversi WORD ke EXCEL, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) memungkinkan Anda menyimpan dokumen untuk streaming. Jika Anda perlu menyimpan file ke Stream maka Anda harus membuat objek FileOutputStream dan kemudian [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io. OutputStream,%20com.aspose.cells.SaveOptions)) file ke objek Stream tersebut dengan memanggil metode penyimpanan [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) obyek. 
+Setelah mengonversi WORD ke EXCEL, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) memungkinkan Anda menyimpan dokumen untuk streaming. Jika Anda perlu menyimpan file ke Stream maka Anda harus membuat objek FileOutputStream dan kemudian [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions)) file ke objek Stream tersebut dengan memanggil metode penyimpanan [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) obyek. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-word-to-protected-excel.java" >}}

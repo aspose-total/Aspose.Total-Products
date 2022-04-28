@@ -18,10 +18,10 @@ Al utilizar [Aspose.Total para .NET](https://products.aspose.com/total/net/), pu
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET para convertir OTT a XLTM" %}}
-1. Abra el archivo OTT usando la clase [Ottumento](https://apireference.aspose.com/words/net/aspose.words/ottument)
-2. Convierta OTT a HTML usando el método [Guardar](https://apireference.aspose.com/words/net/aspose.words.ottument/save/methods/4)
-3. Cargue el ottumento HTML utilizando la clase [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Guarde el ottumento en formato XLTM usando el método [Guardar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) y configure `XLTM` como SaveFormat
+1. Abra el archivo OTT usando la clase [Documento](https://apireference.aspose.com/words/net/aspose.words/document)
+2. Convierta OTT a HTML usando el método [Guardar](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. Cargue el documento HTML utilizando la clase [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+4. Guarde el documento en formato XLTM usando el método [Guardar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) y configure `XLTM` como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
@@ -38,8 +38,8 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Cargar ottumento OTT desde Stream a través de C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) también le permite cargar ottumentos OTT a través de la transmisión. Para abrir un ottumento desde una secuencia, simplemente pase un objeto de secuencia que contenga el ottumento al constructor [Ottumento](https://apireference.aspose.com/words/net/aspose.words/ottument). El siguiente ejemplo de código muestra cómo abrir un ottumento desde una secuencia:  
+{{% blocks/products/pf/feature-page-section  h2="Cargar documento OTT desde Stream a través de C#" %}}
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) también le permite cargar documentos OTT a través de la transmisión. Para abrir un documento desde una secuencia, simplemente pase un objeto de secuencia que contenga el documento al constructor [Documento](https://apireference.aspose.com/words/net/aspose.words/document). El siguiente ejemplo de código muestra cómo abrir un documento desde una secuencia:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Agregue propiedades personalizadas en un archivo XLTM a través de C#" %}}
-Al convertir OTT a XLTM, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) le permite agregar propiedades personalizadas en sus ottumentos XLTM. Para agregar una propiedad personalizada, puede usar el método [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customottumentpropertycollection/methods/add/index) para la [CustomOttumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customottumentpropertycollection) clase. El método Add agrega la propiedad al archivo de Excel y devuelve una referencia para la propiedad del nuevo ottumento como [Aspose.Cells.Properties.OttumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /propiedadottumento) objeto. 
+Al convertir OTT a XLTM, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) le permite agregar propiedades personalizadas en sus documentos XLTM. Para agregar una propiedad personalizada, puede usar el método [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) para la [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) clase. El método Add agrega la propiedad al archivo de Excel y devuelve una referencia para la propiedad del nuevo documento como [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /propiedaddocumento) objeto. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

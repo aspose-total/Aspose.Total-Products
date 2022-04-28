@@ -18,8 +18,8 @@ Az [Aspose.Total for .NET](https://products.aspose.com/total/net/) használatáv
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API a WORD konvertálásához XLAM-vé" %}}
-1. Nyissa meg a WORD-fájlt a [Wordument](https://apireference.aspose.com/words/net/aspose.words/wordument) osztály használatával
-2. Alakítsa át a WORD-t HTML-vé a [Mentés](https://apireference.aspose.com/words/net/aspose.words.wordument/save/methods/4) módszerrel
+1. Nyissa meg a WORD-fájlt a [Document](https://apireference.aspose.com/words/net/aspose.words/document) osztály használatával
+2. Alakítsa át a WORD-t HTML-vé a [Mentés](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) módszerrel
 3. Töltsön be HTML-dokumentumot a [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) osztály használatával
 4. Mentse a dokumentumot XLAM-formátumba a [Mentés](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) metódussal, és állítsa be a „XLAM”-t SaveFormat-ként.
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -39,7 +39,7 @@ Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eke
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="WORD dokumentum betöltése a Streamből C#-on keresztül" %}}
-Az [Aspose.Words for .NET](https://products.aspose.com/words/net/) lehetővé teszi a WORD-dokumentumok adatfolyamon keresztüli betöltését is. Egy dokumentum adatfolyamból való megnyitásához egyszerűen adja át a dokumentumot tartalmazó adatfolyam objektumot a [Dokumentum](https://apireference.aspose.com/words/net/aspose.words/wordument) konstruktornak. A következő kódpélda bemutatja, hogyan lehet megnyitni egy dokumentumot adatfolyamból:  
+Az [Aspose.Words for .NET](https://products.aspose.com/words/net/) lehetővé teszi a WORD-dokumentumok adatfolyamon keresztüli betöltését is. Egy dokumentum adatfolyamból való megnyitásához egyszerűen adja át a dokumentumot tartalmazó adatfolyam objektumot a [Dokumentum](https://apireference.aspose.com/words/net/aspose.words/document) konstruktornak. A következő kódpélda bemutatja, hogyan lehet megnyitni egy dokumentumot adatfolyamból:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ Az [Aspose.Words for .NET](https://products.aspose.com/words/net/) lehetővé te
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Egyéni tulajdonságok hozzáadása a XLAM-fájlhoz C#-on keresztül" %}}
-Miközben a WORD-t XLAM-vé alakítja, az [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) lehetővé teszi egyéni tulajdonságok hozzáadását a XLAM-dokumentumokhoz. Egyéni tulajdonság hozzáadásához használhatja az [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customwordumentpropertycollection/methods/add/index) metódust a [CustomWordumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customwordumentpropertycollection) osztály. Az Add metódus hozzáadja a tulajdonságot az Excel-fájlhoz, és az új dokumentumtulajdonság hivatkozását adja vissza [Aspose.Cells.Properties.WordumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) néven. /dokumentumtulajdonság) objektum. 
+Miközben a WORD-t XLAM-vé alakítja, az [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) lehetővé teszi egyéni tulajdonságok hozzáadását a XLAM-dokumentumokhoz. Egyéni tulajdonság hozzáadásához használhatja az [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) metódust a [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) osztály. Az Add metódus hozzáadja a tulajdonságot az Excel-fájlhoz, és az új dokumentumtulajdonság hivatkozását adja vissza [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) néven. /dokumentumtulajdonság) objektum. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

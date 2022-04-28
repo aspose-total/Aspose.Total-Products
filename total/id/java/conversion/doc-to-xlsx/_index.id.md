@@ -42,7 +42,7 @@ Sebelum mengonversi DOC ke XLSX, Anda dapat menghapus informasi yang tidak digun
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Hapus Informasi yang Tidak Digunakan dari Dokumen DOC melalui Java" %}}
-Setelah mengonversi DOC ke XLSX, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) memungkinkan Anda menyimpan dokumen untuk streaming. Jika Anda perlu menyimpan file ke Stream maka Anda harus membuat objek FileOutputStream dan kemudian [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io. OutputStream,%20com.aspose.cells.SaveOptions)) file ke objek Stream tersebut dengan memanggil metode penyimpanan [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) obyek. 
+Setelah mengonversi DOC ke XLSX, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) memungkinkan Anda menyimpan dokumen untuk streaming. Jika Anda perlu menyimpan file ke Stream maka Anda harus membuat objek FileOutputStream dan kemudian [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions)) file ke objek Stream tersebut dengan memanggil metode penyimpanan [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) obyek. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-word-to-protected-excel.java" >}}

@@ -17,7 +17,7 @@ Ofta måste utvecklare konvertera FLATOPC-fil till POTX programmatiskt. Genom at
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hur man konverterar FLATOPC till POTX via Java" %}}
 1. Öppna FLATOPC-filen med klassen [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument)
-2. Konvertera FLATOPC-fil till HTML genom att använda [save](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,com.aspose.words.SaveOptions )) metod
+2. Konvertera FLATOPC-fil till HTML genom att använda [save](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,com.aspose.words.SaveOptions)) metod
 3. Initiera ett nytt [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) objekt
 5. Extrahera innehåll från HTML-fil med BufferedReader och skriv innehållet i din presentationsfil
 6. Spara dokumentet till POTX med metoden [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
@@ -30,14 +30,16 @@ Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-flatopc-to-pptx.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Konverteringskrav" %}}
 API:et låter dig också konvertera lösenordsskyddade FLATOPC-dokument till POTX. Om ditt inmatade FLATOPC-dokument är lösenordsskyddat kan du inte konvertera det till POTX-format utan att använda lösenordet. För att öppna ett krypterat dokument kan du ställa in rätt lösenord i LoadOptions-objektet och skicka det till dokumentkonstruktorn.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-flatopc-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-flatopc-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

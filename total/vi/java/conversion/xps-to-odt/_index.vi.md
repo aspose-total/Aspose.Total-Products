@@ -19,7 +19,7 @@ Bạn có thể chuyển đổi XPS sang ODT bằng hai bước đơn giản. Tr
 1. Mở tệp XPS bằng lớp [Tài liệu](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. Chuyển đổi XPS sang DOC bằng cách sử dụng [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) phương pháp
 3. Tải tệp DOC bằng cách sử dụng lớp [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) của Aspose.Words
-4. Lưu tài liệu ở định dạng ODT bằng phương pháp [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save (java.lang.String, int)) và đặt ODT dưới dạng SaveFormat
+4. Lưu tài liệu ở định dạng ODT bằng phương pháp [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String, int)) và đặt ODT dưới dạng SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
 Bạn có thể dễ dàng sử dụng Aspose.Total cho Java trực tiếp từ dự án dựa trên [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và bao gồm [Aspose.PDF dành cho Java](https://docs.aspose.com/pdf/java/installation/) và [Aspose.Words dành cho Java](https://docs.aspose.com/words/java/ cài đặt /) trong pom.xml của bạn.

@@ -17,7 +17,7 @@ otherformats: DOTM WORD DOT OTTX TEXT OTT WORDML DOTX ODT FLATOPC OTTM RTF
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak przekonwertować POT na OTT za pomocą Javy?" %}}
 1. Otwórz plik POT za pomocą klasy [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Przekonwertuj POT na HTML, używając [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) i ustaw HTML jako SaveFormat
+2. Przekonwertuj POT na HTML, używając [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) i ustaw HTML jako SaveFormat
 3. Załaduj przekonwertowany plik HTML za pomocą klasy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. Zapisz dokument w formacie OTT za pomocą metody [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -34,7 +34,7 @@ Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Wymagania dotyczące konwersji" %}}/Document
-Korzystając z API, możesz również wykonać konwersję pliku POT do OTT ze znakiem wodnym. Aby dodać znak wodny do dokumentu OTT, możesz najpierw przekonwertować plik POT na HTML i dodać do niego znak wodny. Aby dodać znak wodny, załaduj nowo utworzony plik HTML za pomocą klasy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Ottument), utwórz instancję TextWatermarkOptions i ustaw jego właściwości, wywołaj metodę Watermark.setText i przekaż tekst znaku wodnego i obiekt TextWatermarkOptions.  
+Korzystając z API, możesz również wykonać konwersję pliku POT do OTT ze znakiem wodnym. Aby dodać znak wodny do dokumentu OTT, możesz najpierw przekonwertować plik POT na HTML i dodać do niego znak wodny. Aby dodać znak wodny, załaduj nowo utworzony plik HTML za pomocą klasy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document), utwórz instancję TextWatermarkOptions i ustaw jego właściwości, wywołaj metodę Watermark.setText i przekaż tekst znaku wodnego i obiekt TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}

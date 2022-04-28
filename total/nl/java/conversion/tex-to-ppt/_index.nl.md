@@ -37,7 +37,8 @@ document.save("PptxOutput.pptx", SaveFormat.Pptx);
 Presentation presentation = new Presentation("PptxOutput.pptx");
 // save the presentation as Ppt format
 presentation.save("output.ppt", SaveFormat.Ppt);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Conversievereisten" %}}
@@ -50,11 +51,12 @@ Document doc = new Document("input.tex", "Your@Password");
 // save TEX as PPTX format 
 document.save("PptxOutput.pptx", SaveFormat.Pptx); 
 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% /blocks/products/pf/feature-page-section %}}https://apireference.aspose.com/slides/java/com.aspose.slides/ViewType
 {{% blocks/products/pf/feature-page-section  h2="Open gecodeerd TEX-bestand via Java" %}}
-Na het converteren van TEX naar PPT, kunt u ook een vooraf gedefinieerd weergavetype voor uw presentatie toevoegen. [Aspose.Slides for Java](https://products.aspose.com/slides/java/) biedt een mogelijkheid om het weergavetype in te stellen voor de gegenereerde presentatie wanneer deze wordt geopend in PowerPoint via de [ViewProperties](https:/ /apireference.aspose.com/slides/java/com.aspose.slides/ViewProperties) klasse. De eigenschap [setLastView](https://apireference.aspose.com/slides/java/com.aspose.slides/ViewProperties#setLastView-int-) wordt gebruikt om het weergavetype in te stellen met behulp van de [ViewType](https:/ /apireference.aspose.com/slides/java/com.aspose.slides/ViewType) enumerator. 
+Na het converteren van TEX naar PPT, kunt u ook een vooraf gedefinieerd weergavetype voor uw presentatie toevoegen. [Aspose.Slides for Java](https://products.aspose.com/slides/java/) biedt een mogelijkheid om het weergavetype in te stellen voor de gegenereerde presentatie wanneer deze wordt geopend in PowerPoint via de [ViewProperties](https://apireference.aspose.com/slides/java/com.aspose.slides/ViewProperties) klasse. De eigenschap [setLastView](https://apireference.aspose.com/slides/java/com.aspose.slides/ViewProperties#setLastView-int-) wordt gebruikt om het weergavetype in te stellen met behulp van de [ViewType](https://apireference.aspose.com/slides/java/com.aspose.slides/ViewType) enumerator. 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java
@@ -64,7 +66,8 @@ Presentation presentation = new Presentation("PptxOutput.pptx");
 presentation.getViewProperties().setLastView((byte) ViewType.SlideMasterView);
 // save the presentation as Ppt format
 presentation.save("output.ppt", SaveFormat.Ppt);    
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

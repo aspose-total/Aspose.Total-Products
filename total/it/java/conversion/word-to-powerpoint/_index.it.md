@@ -16,11 +16,11 @@ Spesso gli sviluppatori devono convertire i file WORD in POWERPOINT a livello di
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Come convertire WORD in POWERPOINT tramite Java" %}}
-1. Aprire il file WORD utilizzando la classe [Wordument](https://apiference.aspose.com/words/java/com.aspose.words/Wordument)
-2. Converti file WORD in HTML utilizzando [save](https://apiference.aspose.com/words/java/com.aspose.words/Wordument#save(java.lang.String,com.aspose.words.SaveOptions )) metodo
+1. Aprire il file WORD utilizzando la classe [Document](https://apiference.aspose.com/words/java/com.aspose.words/Document)
+2. Converti file WORD in HTML utilizzando [save](https://apiference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metodo
 3. Inizializzare un nuovo oggetto [Presentation](https://apiference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Estrarre il contenuto dal file HTML utilizzando BufferedReader e scrivere il contenuto nel file di presentazione
-6. Salvare il wordumento in POWERPOINT utilizzando il metodo [save](https://apiference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. Salvare il documento in POWERPOINT utilizzando il metodo [save](https://apiference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
 Per la conversione di file da WORD a POWERPOINT, puoi facilmente utilizzare Aspose.Total per Java direttamente da un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) e includi le librerie nel tuo pom.xml.
@@ -30,14 +30,16 @@ In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspos
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-word-to-pptx.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisiti di conversione" %}}
-L'API consente inoltre di convertire wordumenti WORD protetti da password in POWERPOINT. Se il wordumento WORD di input è protetto da password, non è possibile convertirlo in formato POWERPOINT senza utilizzare la password. Per aprire un wordumento crittografato è possibile impostare la password corretta nell'oggetto LoadOptions e passarla al costruttore del wordumento.  
+L'API consente inoltre di convertire documenti WORD protetti da password in POWERPOINT. Se il documento WORD di input è protetto da password, non è possibile convertirlo in formato POWERPOINT senza utilizzare la password. Per aprire un documento crittografato è possibile impostare la password corretta nell'oggetto LoadOptions e passarla al costruttore del documento.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-word-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-word-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

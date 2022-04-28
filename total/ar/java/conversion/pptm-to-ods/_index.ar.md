@@ -17,12 +17,12 @@ otherformats: XLT XLS TSV MHTML XLSX DIF ODS XLSM XLAM XLTM EXCEL MARKDOWN XLTX 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل PPTM إلى ODS عبر Java" %}}
 1. افتح ملف PPTM باستخدام فئة [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. تحويل PPTM إلى HTML باستخدام [Save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) طريقة
+2. تحويل PPTM إلى HTML باستخدام [Save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) طريقة
 3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. احفظ المستند بتنسيق ODS باستخدام [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String%D8%8C%D9%AA20com.aspose.cells.%20SaveOptions)) الطريقة
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-لتحويل PPTM إلى ODS ، يمكنك بسهولة استخدام Aspose.Total لـ Java مباشرة من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/ aspose/aspose-total) قائم على المشروع وقم بتضمين مكتبات في ملفك pom.xml.
+لتحويل PPTM إلى ODS ، يمكنك بسهولة استخدام Aspose.Total لـ Java مباشرة من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) قائم على المشروع وقم بتضمين مكتبات في ملفك pom.xml.
 
 بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

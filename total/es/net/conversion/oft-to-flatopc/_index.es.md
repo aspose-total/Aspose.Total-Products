@@ -13,7 +13,7 @@ otherformats: JPEG MD DOCX RTF PCL TIFF DOT PS PNG EMF DOTM OTT GIF PDF TEXT DOC
 {{< blocks/products/pf/i18n/feature-page-header h1="Exportar OFT a FLATOPC a través de .NET" h2=".NET API para procesar OFT a FLATOPC en Windows, macOS y Linux sin usar Word o Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Si es un desarrollador de .NET que busca agregar funciones de conversión de OFT a FLATOPC dentro de sus aplicaciones, las API de manipulación de formato de archivo de [Aspose.Total for .NET](https://products.aspose.com/total/net/) son la solución. delantero. Al usar [Aspose.Oft para .NET](https://products.aspose.com/oft/net/), puede convertir el formato de archivo de OFT a HTML. Después de eso, al usar [Aspose.Words for .NET](https://products.aspose.com/words/net/), puede convertir HTML a FLATOPC.
+Si es un desarrollador de .NET que busca agregar funciones de conversión de OFT a FLATOPC dentro de sus aplicaciones, las API de manipulación de formato de archivo de [Aspose.Total for .NET](https://products.aspose.com/total/net/) son la solución. delantero. Al usar [Aspose.Cells para .NET](https://products.aspose.com/oft/net/), puede convertir el formato de archivo de OFT a HTML. Después de eso, al usar [Aspose.Words for .NET](https://products.aspose.com/words/net/), puede convertir HTML a FLATOPC.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.flatopc", SaveFormat.FlatOpc);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analizar archivo de correo electrónico a través de .NET" %}}
-Antes de convertir OFT a FLATOPC, si desea asegurarse de que está convirtiendo el correo electrónico correcto, puede cargar el documento OFT, analizarlo y ver la propiedad deseada. Mediante el uso de la clase [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) de [Aspose.Oft for .NET](https://products.aspose.com/oft /net/) API, puede obtener información sobre el remitente y los destinatarios. Por ejemplo, puede verificar el correo electrónico de un remitente específico para la conversión usando la propiedad [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
+Antes de convertir OFT a FLATOPC, si desea asegurarse de que está convirtiendo el correo electrónico correcto, puede cargar el documento OFT, analizarlo y ver la propiedad deseada. Mediante el uso de la clase [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) de [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API, puede obtener información sobre el remitente y los destinatarios. Por ejemplo, puede verificar el correo electrónico de un remitente específico para la conversión usando la propiedad [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

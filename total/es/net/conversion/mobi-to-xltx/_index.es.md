@@ -18,7 +18,7 @@ Al utilizar [Aspose.Total para .NET](https://products.aspose.com/total/net/), pu
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET para convertir MOBI a XLTX" %}}
-1. Abra el archivo MOBI usando la clase [Mobiumento](https://apireference.aspose.com/words/net/aspose.words/mobiument)
+1. Abra el archivo MOBI usando la clase [Documento](https://apireference.aspose.com/words/net/aspose.words/mobiument)
 2. Convierta MOBI a HTML usando el método [Guardar](https://apireference.aspose.com/words/net/aspose.words.mobiument/save/methods/4)
 3. Cargue el mobiumento HTML utilizando la clase [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Guarde el mobiumento en formato XLTX usando el método [Guardar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) y configure `XLTX` como SaveFormat
@@ -39,7 +39,7 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Cargar mobiumento MOBI desde Stream a través de C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) también le permite cargar mobiumentos MOBI a través de la transmisión. Para abrir un mobiumento desde una secuencia, simplemente pase un objeto de secuencia que contenga el mobiumento al constructor [Mobiumento](https://apireference.aspose.com/words/net/aspose.words/mobiument). El siguiente ejemplo de código muestra cómo abrir un mobiumento desde una secuencia:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) también le permite cargar mobiumentos MOBI a través de la transmisión. Para abrir un mobiumento desde una secuencia, simplemente pase un objeto de secuencia que contenga el mobiumento al constructor [Documento](https://apireference.aspose.com/words/net/aspose.words/mobiument). El siguiente ejemplo de código muestra cómo abrir un mobiumento desde una secuencia:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Agregue propiedades personalizadas en un archivo XLTX a través de C#" %}}
-Al convertir MOBI a XLTX, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) le permite agregar propiedades personalizadas en sus mobiumentos XLTX. Para agregar una propiedad personalizada, puede usar el método [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection/methods/add/index) para la [CustomMobiumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection) clase. El método Add agrega la propiedad al archivo de Excel y devuelve una referencia para la propiedad del nuevo mobiumento como [Aspose.Cells.Properties.MobiumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /propiedadmobiumento) objeto. 
+Al convertir MOBI a XLTX, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) le permite agregar propiedades personalizadas en sus mobiumentos XLTX. Para agregar una propiedad personalizada, puede usar el método [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection/methods/add/index) para la [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection) clase. El método Add agrega la propiedad al archivo de Excel y devuelve una referencia para la propiedad del nuevo mobiumento como [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /propiedadmobiumento) objeto. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

@@ -18,8 +18,8 @@ otherformats: XLSX XLSM XLS XLT CSV TSV EXCEL XLSB SXC FODS DIF ODS XLTM XLAM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="सी # के माध्यम से डीओसी को जेएसओएन प्रारूप में कनवर्ट करें" %}}
-1. [दस्तावेज़](https://apireference.aspose.com/words/net/aspose.words/wordument) वर्ग का उपयोग करके WORD फ़ाइल खोलें
-2. [Save](https://apireference.aspose.com/words/net/aspose.words.wordument/save/methods/4) विधि का उपयोग करके WORD को HTML में बदलें
+1. [दस्तावेज़](https://apireference.aspose.com/words/net/aspose.words/document) वर्ग का उपयोग करके WORD फ़ाइल खोलें
+2. [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) विधि का उपयोग करके WORD को HTML में बदलें
 3. [वर्कबुक](https://apireference.aspose.com/cells/net/aspose.cells/workbook) क्लास का इस्तेमाल करके एचटीएमएल दस्तावेज़ लोड करें
 4. [सहेजें](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) विधि का उपयोग करके दस्तावेज़ को JSON प्रारूप में सहेजें
 {{% /blocks/products/pf/agp/feature-section-col %}}

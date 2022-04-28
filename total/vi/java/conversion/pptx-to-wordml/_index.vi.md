@@ -19,7 +19,7 @@ otherformats: WORD TEXT WORDMLX WORDML WORDMLM DOTX DOT RTF ODT OTT DOTM FLATOPC
 1. Mở tệp PPTX bằng lớp [Trình bày](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Chuyển đổi PPTX sang HTML bằng cách sử dụng [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. Phương thức ISaveOptions-) và đặt Html làm SaveFormat
 3. Tải tệp HTML đã chuyển đổi bằng lớp [Wordmlument](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument)
-4. Lưu tài liệu sang định dạng WORDML bằng phương thức [save](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument#save (java.lang.String, int))
+4. Lưu tài liệu sang định dạng WORDML bằng phương thức [save](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument#save(java.lang.String, int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
 Để chuyển đổi tệp PPTX sang WORDML, bạn có thể dễ dàng sử dụng Aspose.Total cho Java trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) dựa trên dự án và bao gồm các thư viện trong pom.xml của bạn.

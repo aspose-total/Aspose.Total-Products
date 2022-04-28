@@ -13,7 +13,7 @@ otherformats: DOTM TIFF FLATOPC ODT WORDML SVG DOC DOCX EPUB MD DOCM XPS JPEG DO
 {{< blocks/products/pf/i18n/feature-page-header h1=".NET을 통해 이메일을 TIFF로 내보내기" h2="Word 또는 Outlook을 사용하지 않고 Windows, macOS 및 Linux에서 OFT을 TIFF로 렌더링하는 .NET API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-애플리케이션 내부에 OFT을 TIFF로 변환 기능을 추가하려는 .NET 개발자라면 [Aspose.Total for .NET](https://products.aspose.com/total/net/) 파일 형식 조작 API를 사용하는 것이 좋습니다. 앞으로. [Aspose.Oft for .NET](https://products.aspose.com/oft/net/)을 사용하여 OFT 파일 형식을 HTML로 변환할 수 있습니다. 그런 다음 [Aspose.Words for .NET](https://products.aspose.com/words/net/)을 사용하여 HTML을 TIFF로 렌더링할 수 있습니다.
+애플리케이션 내부에 OFT을 TIFF로 변환 기능을 추가하려는 .NET 개발자라면 [Aspose.Total for .NET](https://products.aspose.com/total/net/) 파일 형식 조작 API를 사용하는 것이 좋습니다. 앞으로. [Aspose.Cells for .NET](https://products.aspose.com/oft/net/)을 사용하여 OFT 파일 형식을 HTML로 변환할 수 있습니다. 그런 다음 [Aspose.Words for .NET](https://products.aspose.com/words/net/)을 사용하여 HTML을 TIFF로 렌더링할 수 있습니다.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -46,7 +46,7 @@ document.Save("output.tiff", SaveFormat.Tiff);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2=".NET을 통해 OFT 파일 구문 분석" %}}
-OFT을 TIFF로 변환하기 전에 올바른 이메일을 변환하고 있는지 확인하려면 OFT 문서를 로드하고 구문 분석한 다음 원하는 속성을 살펴보세요. [Aspose.Oft for .NET](https://products.aspose.com/oft)의 [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) 클래스를 사용하여 /net/) API를 사용하여 발신자 및 수신자 정보를 얻을 수 있습니다. 예를 들어 [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername) 속성을 사용하여 변환할 특정 발신자 이메일을 확인할 수 있습니다.  
+OFT을 TIFF로 변환하기 전에 올바른 이메일을 변환하고 있는지 확인하려면 OFT 문서를 로드하고 구문 분석한 다음 원하는 속성을 살펴보세요. [Aspose.Cells for .NET](https://products.aspose.com/oft)의 [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) 클래스를 사용하여 /net/) API를 사용하여 발신자 및 수신자 정보를 얻을 수 있습니다. 예를 들어 [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername) 속성을 사용하여 변환할 특정 발신자 이메일을 확인할 수 있습니다.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs// instantiate MapiMessage to load an OFT file from disk

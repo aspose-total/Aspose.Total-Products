@@ -17,7 +17,7 @@ otherformats: DOCM DOTX ODT OTT DOCX WORDML FLATOPC DOTM TEXT DOT WORD RTF
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak převést POTX na DOC přes Java" %}}
 1. Otevřete soubor POTX pomocí třídy [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Převeďte POTX do HTML pomocí [uložit](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) a nastavte Html jako SaveFormat
+2. Převeďte POTX do HTML pomocí [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) a nastavte Html jako SaveFormat
 3. Načtěte převedený soubor HTML pomocí třídy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. Uložte dokument ve formátu DOC pomocí metody [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}

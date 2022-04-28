@@ -17,7 +17,7 @@ otherformats: POWERPOINT PPTM POT PPT PPTX POTM PPSM POTX PPS PPSX CSV DIF FODS 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak převést DOCM na POWERPOINT přes Java" %}}
 1. Otevřete soubor DOCM pomocí třídy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-2. Převeďte soubor DOCM do HTML pomocí [uložit](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) metoda
+2. Převeďte soubor DOCM do HTML pomocí [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) metoda
 3. Inicializujte nový objekt [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extrahujte obsah ze souboru HTML pomocí BufferedReader a zapište obsah do souboru prezentace
 6. Uložte dokument do POWERPOINT pomocí metody [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

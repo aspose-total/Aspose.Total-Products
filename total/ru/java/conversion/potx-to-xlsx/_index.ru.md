@@ -17,7 +17,7 @@ otherformats: MARKDOWN XLS XLSM TSV ODS DIF XLTM XLSB SXC EXCEL XLAM XLSX XLTX F
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как преобразовать POTX в XLSX через Java" %}}
 1. Откройте файл POTX, используя класс [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation).
-2. Преобразуйте POTX в HTML, используя [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) метод
+2. Преобразуйте POTX в HTML, используя [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) метод
 3. Загрузите HTML-документ с помощью класса [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).
 4. Сохраните документ в формате XLSX, используя [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. SaveOptions)) метод
 {{% /blocks/products/pf/agp/feature-section-col %}}

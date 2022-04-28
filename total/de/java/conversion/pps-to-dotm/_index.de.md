@@ -17,7 +17,7 @@ otherformats: DOTM RTF ODT FLATOPC DOTMX WORDML TEXT DOTMM DOTX WORD DOT OTT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="So konvertieren Sie PPS über Java in DOTM" %}}
 1. Öffnen Sie die PPS-Datei mit der Klasse [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation).
-2. Konvertieren Sie PPS in HTML mit [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) Methode und legen Sie Html als SaveFormat fest
+2. Konvertieren Sie PPS in HTML mit [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) Methode und legen Sie Html als SaveFormat fest
 3. Laden Sie die konvertierte HTML-Datei mit der Klasse [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document).
 4. Speichern Sie das Dokument im DOTM-Format mit der Methode [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)).
 {{% /blocks/products/pf/agp/feature-section-col %}}

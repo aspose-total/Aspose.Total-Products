@@ -22,7 +22,7 @@ A POTM-fájlt EXCEL-vé konvertálhatja az [Aspose.Total for Java](https://produ
 4. Mentse a dokumentumot EXCEL formátumba a [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells) segítségével. SaveOptions)) módszer
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
-A POTM EXCEL-vé konvertálásához egyszerűen használhatja az Aspose.Total for Java alkalmazást közvetlenül a [Maven]-ből (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/ aspose/aspose-total) alapú projekt, és vegyen fel könyvtárakat a pom.xml fájlba.
+A POTM EXCEL-vé konvertálásához egyszerűen használhatja az Aspose.Total for Java alkalmazást közvetlenül a [Maven]-ből (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) alapú projekt, és vegyen fel könyvtárakat a pom.xml fájlba.
 
 Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads] webhelyről (https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

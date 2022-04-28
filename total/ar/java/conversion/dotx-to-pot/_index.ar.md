@@ -17,7 +17,7 @@ otherformats: POTM PPTM PPSM PPT PPSX POT PPS PPTX POTX POWERPOINT CSV DIF FODS 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل DOTX إلى POT عبر Java" %}}
 1. افتح ملف DOTX باستخدام فئة [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-2. تحويل ملف DOTX إلى HTML باستخدام [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save (java.lang.String، com.aspose.words.SaveOptions )) طريقة
+2. تحويل ملف DOTX إلى HTML باستخدام [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String.com.aspose.words.SaveOptions)) طريقة
 3. تهيئة كائن [عرض تقديمي] جديد (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. استخراج المحتوى من ملف HTML باستخدام BufferedReader وكتابة المحتوى في ملف العرض التقديمي الخاص بك
 6. احفظ المستند في POT باستخدام طريقة [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

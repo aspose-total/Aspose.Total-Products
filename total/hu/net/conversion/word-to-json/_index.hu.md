@@ -18,8 +18,8 @@ Az [Aspose.Total for .NET](https://products.aspose.com/total/net/) használatáv
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="A WORD konvertálása JSON formátumba a C# segítségével" %}}
-1. Nyissa meg a WORD-fájlt a [Wordument](https://apireference.aspose.com/words/net/aspose.words/wordument) osztály használatával
-2. Alakítsa át a WORD-t HTML-vé a [Mentés](https://apireference.aspose.com/words/net/aspose.words.wordument/save/methods/4) módszerrel
+1. Nyissa meg a WORD-fájlt a [Document](https://apireference.aspose.com/words/net/aspose.words/document) osztály használatával
+2. Alakítsa át a WORD-t HTML-vé a [Mentés](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) módszerrel
 3. Töltsön be HTML-dokumentumot a [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) osztály használatával
 4. Mentse a dokumentumot JSON formátumba a [Mentés](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) módszerrel
 {{% /blocks/products/pf/agp/feature-section-col %}}

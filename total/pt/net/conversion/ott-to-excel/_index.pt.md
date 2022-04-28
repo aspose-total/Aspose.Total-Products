@@ -18,10 +18,10 @@ Ao usar o [Aspose.Total for .NET](https://products.aspose.com/total/net/) você 
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET para converter OTT para EXCEL" %}}
-1. Abra o arquivo OTT usando a classe [Document](https://apireference.aspose.com/words/net/aspose.words/ottument)
-2. Converta OTT para HTML usando o método [Salvar](https://apireference.aspose.com/words/net/aspose.words.ottument/save/methods/4)
-3. Carregue o ottumento HTML usando a classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Salve o ottumento no formato EXCEL usando o método [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) e defina "EXCEL" como SaveFormat
+1. Abra o arquivo OTT usando a classe [Document](https://apireference.aspose.com/words/net/aspose.words/document)
+2. Converta OTT para HTML usando o método [Salvar](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. Carregue o documento HTML usando a classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+4. Salve o documento no formato EXCEL usando o método [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) e defina "EXCEL" como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
@@ -38,8 +38,8 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Carregar ottumento OTT do fluxo via C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) também permite carregar ottumentos OTT via stream. Para abrir um ottumento de um stream, basta passar um objeto stream que contém o ottumento para o construtor [Document](https://apireference.aspose.com/words/net/aspose.words/ottument). O exemplo de código a seguir mostra como abrir um ottumento de um fluxo:  
+{{% blocks/products/pf/feature-page-section  h2="Carregar documento OTT do fluxo via C#" %}}
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) também permite carregar documentos OTT via stream. Para abrir um documento de um stream, basta passar um objeto stream que contém o documento para o construtor [Document](https://apireference.aspose.com/words/net/aspose.words/document). O exemplo de código a seguir mostra como abrir um documento de um fluxo:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{% /blocks/products/pf/feature-page-section %}}
 (https
 {{% blocks/products/pf/feature-page-section  h2="Adicionar propriedades personalizadas no arquivo EXCEL via C#" %}}
-Ao converter OTT para EXCEL, o [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) permite adicionar propriedades personalizadas em seus ottumentos EXCEL. Para adicionar uma propriedade personalizada, você pode usar o método [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customottumentpropertycollection/methods/add/index) para o método [CustomOttumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customottumentpropertycollection) classe. O método Add adiciona a propriedade ao arquivo Excel e retorna uma referência para a nova propriedade do ottumento como um [Aspose.Cells.Properties.OttumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /ottumentproperty) objeto. 
+Ao converter OTT para EXCEL, o [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) permite adicionar propriedades personalizadas em seus documentos EXCEL. Para adicionar uma propriedade personalizada, você pode usar o método [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) para o método [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) classe. O método Add adiciona a propriedade ao arquivo Excel e retorna uma referência para a nova propriedade do documento como um [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /documentproperty) objeto. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

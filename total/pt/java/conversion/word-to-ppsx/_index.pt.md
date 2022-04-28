@@ -16,11 +16,11 @@ Muitas vezes, os desenvolvedores precisam converter o arquivo WORD para PPSX pro
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Como converter WORD para PPSX via Java" %}}
-1. Abra o arquivo WORD usando a classe [Wordument](https://apireference.aspose.com/words/java/com.aspose.words/Wordument)
-2. Converta o arquivo WORD em HTML usando [save](https://apireference.aspose.com/words/java/com.aspose.words/Wordument#save(java.lang.String,com.aspose.words.SaveOptions )) método
+1. Abra o arquivo WORD usando a classe [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. Converta o arquivo WORD em HTML usando [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) método
 3. Inicialize um novo objeto [Apresentação](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraia o conteúdo do arquivo HTML usando o BufferedReader e escreva o conteúdo em seu arquivo de apresentação
-6. Salve o wordumento no PPSX usando o método [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. Salve o documento no PPSX usando o método [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
 Para conversão de arquivos WORD para PPSX, você pode facilmente usar o Aspose.Total para Java diretamente de um [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) e inclua bibliotecas em seu pom.xml.
@@ -30,14 +30,16 @@ Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloa
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-word-to-pptx.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Requisitos de conversão" %}}
-A API também permite converter wordumentos WORD protegidos por senha em PPSX. Se o wordumento WORD de entrada estiver protegido por senha, você não poderá convertê-lo para o formato PPSX sem usar a senha. Para abrir um wordumento criptografado, você pode definir a senha correta no objeto LoadOptions e passá-la para o construtor Wordument.  
+{{% blocks/products/pf/feature-page-section  h2="Requisitos de conversão" %}}Document
+A API também permite converter documentos WORD protegidos por senha em PPSX. Se o documento WORD de entrada estiver protegido por senha, você não poderá convertê-lo para o formato PPSX sem usar a senha. Para abrir um documento criptografado, você pode definir a senha correta no objeto LoadOptions e passá-la para o construtor Wordument.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-word-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-word-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

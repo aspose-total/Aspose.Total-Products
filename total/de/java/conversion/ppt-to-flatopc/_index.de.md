@@ -17,7 +17,7 @@ otherformats: RTF FLATOPCM WORDML WORD ODT TEXT FLATOPC DOTX DOTM DOT OTT FLATOP
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="So konvertieren Sie PPT über Java in FLATOPC" %}}
 1. Öffnen Sie die PPT-Datei mit der Klasse [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation).
-2. Konvertieren Sie PPT in HTML mit [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) Methode und legen Sie Html als SaveFormat fest
+2. Konvertieren Sie PPT in HTML mit [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) Methode und legen Sie Html als SaveFormat fest
 3. Laden Sie die konvertierte HTML-Datei mit der Klasse [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument).
 4. Speichern Sie das Dokument im FLATOPC-Format mit der Methode [save](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,int)).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -29,14 +29,16 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://downloads.aspose.c
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Konvertierungsanforderungen" %}}
 Mit der API können Sie auch eine PPT-Datei in eine FLATOPC-Konvertierung mit Wasserzeichen durchführen. Um Ihrem FLATOPC-Dokument ein Wasserzeichen hinzuzufügen, können Sie zuerst die PPT-Datei in HTML konvertieren und ihr ein Wasserzeichen hinzufügen. Um ein Wasserzeichen hinzuzufügen, laden Sie die neu erstellte HTML-Datei mit der Klasse [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument), erstellen Sie eine Instanz von TextWatermarkOptions und setzen Sie sie seine Eigenschaften, Methode Watermark.setText aufrufen und Wasserzeichentext und Objekt von TextWatermarkOptions übergeben.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}
+{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

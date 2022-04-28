@@ -17,7 +17,7 @@ otherformats: TEXTM TEXTX OTT WORD DOTX RTF DOT FLATOPC TEXT DOTM ODT WORDML
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir PPSX a TEXT a través de Java" %}}
 1. Abra el archivo PPSX usando la clase [Presentación](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Convierta PPSX a HTML usando [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) y establezca Html como SaveFormat
+2. Convierta PPSX a HTML usando [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) y establezca Html como SaveFormat
 3. Cargue el archivo HTML convertido usando la clase [Textumento](https://apireference.aspose.com/words/java/com.aspose.words/Textument)
 4. Guarde el textumento en formato TEXT usando el método [save](https://apireference.aspose.com/words/java/com.aspose.words/Textument#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}

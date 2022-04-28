@@ -17,7 +17,7 @@ otherformats: DOTX ODT WORDML DOT DOTM WORD RTF OTTM OTT TEXT FLATOPC OTTX
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cara Mengonversi POWERPOINT ke OTT melalui Java" %}}
 1. Buka file POWERPOINT menggunakan kelas [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Konversi POWERPOINT ke HTML dengan menggunakan [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) metode dan atur Html sebagai SaveFormat
+2. Konversi POWERPOINT ke HTML dengan menggunakan [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) metode dan atur Html sebagai SaveFormat
 3. Muat file HTML yang dikonversi menggunakan kelas [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. Simpan dokumen ke format OTT menggunakan metode [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -34,7 +34,7 @@ Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://downloads.aspose.c
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Persyaratan Konversi" %}}/Document
-Menggunakan API, Anda juga dapat melakukan konversi file POWERPOINT ke OTT dengan tanda air. Untuk menambahkan tanda air ke dokumen OTT Anda, Anda dapat terlebih dahulu mengonversi file POWERPOINT ke HTML dan menambahkan tanda air ke dalamnya. Untuk menambahkan tanda air, muat file HTML yang baru dibuat menggunakan kelas [Document](https://apireference.aspose.com/words/java/com.aspose.words/Ottument), buat instance TextWatermarkOptions dan atur propertinya, Panggil metode Watermark.setText dan berikan teks watermark & objek TextWatermarkOptions.  
+Menggunakan API, Anda juga dapat melakukan konversi file POWERPOINT ke OTT dengan tanda air. Untuk menambahkan tanda air ke dokumen OTT Anda, Anda dapat terlebih dahulu mengonversi file POWERPOINT ke HTML dan menambahkan tanda air ke dalamnya. Untuk menambahkan tanda air, muat file HTML yang baru dibuat menggunakan kelas [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document), buat instance TextWatermarkOptions dan atur propertinya, Panggil metode Watermark.setText dan berikan teks watermark & objek TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}

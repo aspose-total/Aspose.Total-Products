@@ -42,7 +42,7 @@ otherformats: ODS FODS XLT EXCEL XLSB DIF XLSX SXC XLS XLSM XLTM XLAM XLTX TSV
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="ลบข้อมูลที่ไม่ได้ใช้ออกจากเอกสาร DOT ผ่าน Java" %}}
-หลังจากแปลง DOT เป็น SXC แล้ว [Aspose.Cells for Java](https://products.aspose.com/cells/java/) จะช่วยให้คุณบันทึกเอกสารเพื่อสตรีมได้ หากคุณต้องการบันทึกไฟล์ไปยัง Stream คุณควรสร้างวัตถุ FileOutputStream จากนั้น [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io. OutputStream,%20com.aspose.cells.SaveOptions)) ไฟล์ไปยังวัตถุ Stream นั้นโดยเรียกวิธีการบันทึกของ [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) วัตถุ. 
+หลังจากแปลง DOT เป็น SXC แล้ว [Aspose.Cells for Java](https://products.aspose.com/cells/java/) จะช่วยให้คุณบันทึกเอกสารเพื่อสตรีมได้ หากคุณต้องการบันทึกไฟล์ไปยัง Stream คุณควรสร้างวัตถุ FileOutputStream จากนั้น [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions)) ไฟล์ไปยังวัตถุ Stream นั้นโดยเรียกวิธีการบันทึกของ [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) วัตถุ. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}

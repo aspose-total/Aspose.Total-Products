@@ -18,8 +18,8 @@ Genom att använda [Aspose.Total för .NET](https://products.aspose.com/total/ne
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API för att konvertera OTT till XLAM" %}}
-1. Öppna OTT-filen med klassen [Document](https://apireference.aspose.com/words/net/aspose.words/ottument)
-2. Konvertera OTT till HTML med metoden [Save](https://apireference.aspose.com/words/net/aspose.words.ottument/save/methods/4)
+1. Öppna OTT-filen med klassen [Document](https://apireference.aspose.com/words/net/aspose.words/document)
+2. Konvertera OTT till HTML med metoden [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)
 3. Ladda HTML-dokument genom att använda klassen [Arbetsbok](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Spara dokumentet i XLAM-format med metoden [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) och ställ in "XLAM" som SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -39,7 +39,7 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ladda OTT-dokument från Stream via C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) låter dig också ladda OTT-dokument via stream. För att öppna ett dokument från en ström, skicka helt enkelt ett strömobjekt som innehåller dokumentet till konstruktorn [Dokument](https://apireference.aspose.com/words/net/aspose.words/ottument). Följande kodexempel visar hur man öppnar ett dokument från en ström:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) låter dig också ladda OTT-dokument via stream. För att öppna ett dokument från en ström, skicka helt enkelt ett strömobjekt som innehåller dokumentet till konstruktorn [Dokument](https://apireference.aspose.com/words/net/aspose.words/document). Följande kodexempel visar hur man öppnar ett dokument från en ström:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 {{% /blocks/products/pf/feature-page-section %}}
 (https
 {{% blocks/products/pf/feature-page-section  h2="Lägg till anpassade egenskaper i XLAM-fil via C#" %}}
-När du konverterar OTT till XLAM gör [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) det möjligt för dig att lägga till anpassade egenskaper i dina XLAM-dokument. För att lägga till en anpassad egenskap kan du använda metoden [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customottumentpropertycollection/methods/add/index) för [CustomOttumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customottumentpropertycollection) klass. Add-metoden lägger till egenskapen i Excel-filen och returnerar en referens för den nya dokumentegenskapen som en [Aspose.Cells.Properties.OttumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /ottumentproperty) objekt. 
+När du konverterar OTT till XLAM gör [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) det möjligt för dig att lägga till anpassade egenskaper i dina XLAM-dokument. För att lägga till en anpassad egenskap kan du använda metoden [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) för [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) klass. Add-metoden lägger till egenskapen i Excel-filen och returnerar en referens för den nya dokumentegenskapen som en [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /documentproperty) objekt. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

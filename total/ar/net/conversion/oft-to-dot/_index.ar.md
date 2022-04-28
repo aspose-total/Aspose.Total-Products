@@ -13,7 +13,7 @@ otherformats: JPEG TIFF FLATOPC TEXT EMF OTT RTF PDF EPUB DOC WORDML SVG DOCM DO
 {{< blocks/products/pf/i18n/feature-page-header h1="تصدير البريد الإلكتروني إلى DOT عبر .NET" h2=".NET API لتقديم OFT إلى DOT على أنظمة التشغيل Windows و macOS و Linux دون استخدام Word أو Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-إذا كنت مطور .NET تتطلع إلى إضافة OFT إلى ميزات تحويل DOT داخل تطبيقاتك ، فإن [Aspose.Total for .NET](https://products.aspose.com/total/net/) واجهات برمجة تطبيقات معالجة تنسيق الملف هي الطريقة إلى الأمام. باستخدام [Aspose.Oft for .NET](https://products.aspose.com/oft/net/) ، يمكنك تحويل تنسيق ملف OFT إلى HTML. بعد ذلك ، باستخدام [Aspose.Words for .NET](https://products.aspose.com/words/net/) ، يمكنك تحويل HTML إلى DOT.
+إذا كنت مطور .NET تتطلع إلى إضافة OFT إلى ميزات تحويل DOT داخل تطبيقاتك ، فإن [Aspose.Total for .NET](https://products.aspose.com/total/net/) واجهات برمجة تطبيقات معالجة تنسيق الملف هي الطريقة إلى الأمام. باستخدام [Aspose.Cells for .NET](https://products.aspose.com/oft/net/) ، يمكنك تحويل تنسيق ملف OFT إلى HTML. بعد ذلك ، باستخدام [Aspose.Words for .NET](https://products.aspose.com/words/net/) ، يمكنك تحويل HTML إلى DOT.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.dot", SaveFormat.Dot);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="تحليل ملف البريد الإلكتروني عبر .NET" %}}
-قبل تحويل OFT إلى DOT ، إذا كنت تريد التأكد من أنك تقوم بتحويل البريد الإلكتروني الصحيح ، فيمكنك تحميل مستند OFT وتحليله وإلقاء نظرة على الممتلكات التي تريدها. باستخدام [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) فئة [Aspose.Oft for .NET](https://products.aspose.com/oft/net/) API ، يمكنك الحصول على معلومات المرسل والمستلمين. على سبيل المثال ، يمكنك التحقق من وجود بريد إلكتروني معين لمرسل التحويل باستخدام خاصية [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
+قبل تحويل OFT إلى DOT ، إذا كنت تريد التأكد من أنك تقوم بتحويل البريد الإلكتروني الصحيح ، فيمكنك تحميل مستند OFT وتحليله وإلقاء نظرة على الممتلكات التي تريدها. باستخدام [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) فئة [Aspose.Cells for .NET](https://products.aspose.com/oft/net/) API ، يمكنك الحصول على معلومات المرسل والمستلمين. على سبيل المثال ، يمكنك التحقق من وجود بريد إلكتروني معين لمرسل التحويل باستخدام خاصية [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

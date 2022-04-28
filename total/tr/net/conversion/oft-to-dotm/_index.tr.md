@@ -13,7 +13,7 @@ otherformats: ODT PS DOTM RTF PCL TEXT DOT SVG DOTX OTT MD DOCX DOCM EPUB WORDML
 {{< blocks/products/pf/i18n/feature-page-header h1="OFT'i .NET aracılığıyla DOTM'ye aktarın" h2="Windows, macOS ve Linux'ta Word veya Outlook kullanmadan OFT'i DOTM'ye Oluşturmak için .NET API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Uygulamalarınızın içine OFT to DOTM dönüştürme özelliklerini eklemek isteyen bir .NET geliştiricisiyseniz, [Aspose.Total for .NET](https://products.aspose.com/total/net/) dosya biçimi işleme API'leri doğru yoldur. ileri. [Aspose.Oft for .NET](https://products.aspose.com/oft/net/) kullanarak OFT dosya biçimini HTML'ye dönüştürebilirsiniz. Bundan sonra, [Aspose.Words for .NET](https://products.aspose.com/words/net/) kullanarak HTML'yi DOTM'ye dönüştürebilirsiniz.
+Uygulamalarınızın içine OFT to DOTM dönüştürme özelliklerini eklemek isteyen bir .NET geliştiricisiyseniz, [Aspose.Total for .NET](https://products.aspose.com/total/net/) dosya biçimi işleme API'leri doğru yoldur. ileri. [Aspose.Cells for .NET](https://products.aspose.com/oft/net/) kullanarak OFT dosya biçimini HTML'ye dönüştürebilirsiniz. Bundan sonra, [Aspose.Words for .NET](https://products.aspose.com/words/net/) kullanarak HTML'yi DOTM'ye dönüştürebilirsiniz.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.dotm", SaveFormat.Dotm);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="E-POSTA Dosyasını .NET ile Ayrıştırma" %}}
-OFT'i DOTM'ye dönüştürmeden önce, doğru e-postayı dönüştürdüğünüzden emin olmak istiyorsanız, OFT belgesini yükleyebilir, ayrıştırabilir ve istediğiniz özelliğe bir göz atabilirsiniz. [Aspose.Oft for .NET](https://products.aspose.com/oft) [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) sınıfını kullanarak /net/) API, gönderici ve alıcı bilgilerini alabilirsiniz. Örneğin, [GönderenAdı](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername) özelliğini kullanarak dönüşüm için belirli bir gönderen e-postasını kontrol edebilirsiniz.  
+OFT'i DOTM'ye dönüştürmeden önce, doğru e-postayı dönüştürdüğünüzden emin olmak istiyorsanız, OFT belgesini yükleyebilir, ayrıştırabilir ve istediğiniz özelliğe bir göz atabilirsiniz. [Aspose.Cells for .NET](https://products.aspose.com/oft) [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) sınıfını kullanarak /net/) API, gönderici ve alıcı bilgilerini alabilirsiniz. Örneğin, [GönderenAdı](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername) özelliğini kullanarak dönüşüm için belirli bir gönderen e-postasını kontrol edebilirsiniz.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

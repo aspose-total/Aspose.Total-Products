@@ -18,10 +18,10 @@ En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), v
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET pour convertir OTT en XLS" %}}
-1. Ouvrez le fichier OTT à l'aide de la classe [Document](https://apireference.aspose.com/words/net/aspose.words/ottument)
-2. Convertir OTT en HTML en utilisant la méthode [Save](https://apireference.aspose.com/words/net/aspose.words.ottument/save/methods/4)
-3. Chargez le ottument HTML à l'aide de la classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Enregistrez le ottument au format XLS à l'aide de la méthode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) et définissez `XLS` comme SaveFormat
+1. Ouvrez le fichier OTT à l'aide de la classe [Document](https://apireference.aspose.com/words/net/aspose.words/document)
+2. Convertir OTT en HTML en utilisant la méthode [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. Chargez le document HTML à l'aide de la classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+4. Enregistrez le document au format XLS à l'aide de la méthode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) et définissez `XLS` comme SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
@@ -38,8 +38,8 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Charger le ottument OTT à partir du flux via C#" %}}
-[Aspose.Words pour .NET](https://products.aspose.com/words/net/) vous permet également de charger un ottument OTT via un flux. Pour ouvrir un ottument à partir d'un flux, transmettez simplement un objet de flux contenant le ottument dans le constructeur [Document](https://apireference.aspose.com/words/net/aspose.words/ottument). L'exemple de code suivant montre comment ouvrir un ottument à partir d'un flux :  
+{{% blocks/products/pf/feature-page-section  h2="Charger le document OTT à partir du flux via C#" %}}
+[Aspose.Words pour .NET](https://products.aspose.com/words/net/) vous permet également de charger un document OTT via un flux. Pour ouvrir un document à partir d'un flux, transmettez simplement un objet de flux contenant le document dans le constructeur [Document](https://apireference.aspose.com/words/net/aspose.words/document). L'exemple de code suivant montre comment ouvrir un document à partir d'un flux :  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ajouter des propriétés personnalisées dans le fichier XLS via C#" %}}
-Lors de la conversion de OTT en XLS, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) vous permet d'ajouter des propriétés personnalisées dans vos ottuments XLS. Pour ajouter une propriété personnalisée, vous pouvez utiliser la méthode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customottumentpropertycollection/methods/add/index) pour la [CustomOttumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customottumentpropertycollection). La méthode Add ajoute la propriété au fichier Excel et renvoie une référence pour la nouvelle propriété de ottument en tant que [Aspose.Cells.Properties.OttumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /ottumentpropriété). 
+Lors de la conversion de OTT en XLS, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) vous permet d'ajouter des propriétés personnalisées dans vos documents XLS. Pour ajouter une propriété personnalisée, vous pouvez utiliser la méthode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) pour la [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection). La méthode Add ajoute la propriété au fichier Excel et renvoie une référence pour la nouvelle propriété de document en tant que [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /documentpropriété). 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

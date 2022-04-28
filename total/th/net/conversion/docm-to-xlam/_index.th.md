@@ -48,7 +48,7 @@ otherformats: ODS XLT EXCEL SXC XLSB DIF XLSX XLTM XLTX XLS FODS TSV XLSM XLAM
 {{% /blocks/products/pf/feature-page-section %}}
 (https
 {{% blocks/products/pf/feature-page-section  h2="เพิ่มคุณสมบัติที่กำหนดเองในไฟล์ XLAM ผ่าน C#" %}}
-ขณะแปลง DOCM เป็น XLAM [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) ช่วยให้คุณเพิ่มคุณสมบัติที่กำหนดเองในเอกสาร XLAM ได้ ในการเพิ่มคุณสมบัติที่กำหนดเอง คุณสามารถใช้ [เพิ่ม](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentropertycollection/methods/add/index)เมธอดสำหรับ [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/CustomDocumentPropertyCollection) คลาส วิธีการเพิ่มจะเพิ่มคุณสมบัติลงในไฟล์ Excel และส่งคืนข้อมูลอ้างอิงสำหรับคุณสมบัติเอกสารใหม่เป็น [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /DocumentProperty) วัตถุ 
+ขณะแปลง DOCM เป็น XLAM [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) ช่วยให้คุณเพิ่มคุณสมบัติที่กำหนดเองในเอกสาร XLAM ได้ ในการเพิ่มคุณสมบัติที่กำหนดเอง คุณสามารถใช้ [เพิ่ม](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentropertycollection/methods/add/index)เมธอดสำหรับ [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/CustomDocumentPropertyCollection) คลาส วิธีการเพิ่มจะเพิ่มคุณสมบัติลงในไฟล์ Excel และส่งคืนข้อมูลอ้างอิงสำหรับคุณสมบัติเอกสารใหม่เป็น [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties/DocumentProperty) วัตถุ 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

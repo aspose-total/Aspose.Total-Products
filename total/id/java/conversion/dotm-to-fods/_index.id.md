@@ -42,7 +42,7 @@ Sebelum mengonversi DOTM ke FODS, Anda dapat menghapus informasi yang tidak digu
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Hapus Informasi yang Tidak Digunakan dari Dokumen DOTM melalui Java" %}}
-Setelah mengonversi DOTM ke FODS, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) memungkinkan Anda menyimpan dokumen untuk streaming. Jika Anda perlu menyimpan file ke Stream maka Anda harus membuat objek FileOutputStream dan kemudian [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io. OutputStream,%20com.aspose.cells.SaveOptions)) file ke objek Stream tersebut dengan memanggil metode penyimpanan [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) obyek. 
+Setelah mengonversi DOTM ke FODS, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) memungkinkan Anda menyimpan dokumen untuk streaming. Jika Anda perlu menyimpan file ke Stream maka Anda harus membuat objek FileOutputStream dan kemudian [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions)) file ke objek Stream tersebut dengan memanggil metode penyimpanan [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) obyek. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}

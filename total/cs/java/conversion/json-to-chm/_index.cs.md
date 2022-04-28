@@ -19,7 +19,7 @@ Pomocí [Aspose.Total for Java](https://products.aspose.com/total/java/) můžet
 1. Vytvořte nový objekt [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) a načtěte platná data JSON ze souboru
 2. Importujte soubor JSON do listu pomocí třídy [JsonUtility](https://apireference.aspose.com/cells/java/com.aspose.cells/JsonUtility) a [Save](https://apireference.aspose.com/ cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) to jako PDF
 3. Načtěte dokument PDF pomocí třídy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Uložte dokument do formátu CHM pomocí [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions )) metoda
+4. Uložte dokument do formátu CHM pomocí [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metoda
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Aspose.Total pro Javu můžete snadno používat přímo z projektu založeného na [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a zahrňte knihovny do vašeho pom.xml.

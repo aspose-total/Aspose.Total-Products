@@ -39,7 +39,7 @@ otherformats: PSD  WMZ JPEG2000 SVGZ WMF EMZ IMAGE DXF TGA DICOM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="通过 C# 在单个文件中将 XSLFO 文件转换为 WMZ" %}}
-使用 API，您还可以将 XSLFO 文件转换为 WMZ 到单个图像文件。为了转换所有页面，您可以首先将 XSLFO 文档渲染为一个 TIFF 文件，然后您可以将 TIFF 文件导出为 WMZ。您可以使用 [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) 类打开输入文件并创建 Resolution、TiffSettings 和 TIFF 设备对象。您可以使用 [TiffDevice](https:// apireference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice) 类。最后，您可以使用 [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) 类加载 TIFF 文件
+使用 API，您还可以将 XSLFO 文件转换为 WMZ 到单个图像文件。为了转换所有页面，您可以首先将 XSLFO 文档渲染为一个 TIFF 文件，然后您可以将 TIFF 文件导出为 WMZ。您可以使用 [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) 类打开输入文件并创建 Resolution、TiffSettings 和 TIFF 设备对象。您可以使用 [TiffDevice](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice) 类。最后，您可以使用 [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) 类加载 TIFF 文件
 并使用 [Save](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) 方法将其保存为 WMZ 格式。  
 {{% blocks/products/pf/feature-page-code %}}
 

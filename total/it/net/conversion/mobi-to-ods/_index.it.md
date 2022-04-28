@@ -18,7 +18,7 @@ Utilizzando [Aspose.Total for .NET](https://products.aspose.com/total/net/) puoi
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET per convertire MOBI in ODS" %}}
-1. Aprire il file MOBI utilizzando la classe [Mobiument](https://apiference.aspose.com/words/net/aspose.words/mobiument)
+1. Aprire il file MOBI utilizzando la classe [Document](https://apiference.aspose.com/words/net/aspose.words/mobiument)
 2. Converti MOBI in HTML utilizzando il metodo [Save](https://apiference.aspose.com/words/net/aspose.words.mobiument/save/methods/4)
 3. Caricare il mobiumento HTML utilizzando la classe [Workbook](https://apiference.aspose.com/cells/net/aspose.cells/workbook)
 4. Salvare il mobiumento in formato ODS utilizzando il metodo [Salva](https://apiference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) e impostare `ODS` come SaveFormat
@@ -39,7 +39,7 @@ In alternativa, scarica il programma di installazione MSI offline o le DLL in un
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Carica mobiumento MOBI da Stream tramite C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) consente anche di caricare mobiumenti MOBI tramite stream. Per aprire un mobiumento da uno stream, è sufficiente passare un oggetto stream che contiene il mobiumento nel costruttore [Mobiument](https://apiference.aspose.com/words/net/aspose.words/mobiument). L'esempio di codice seguente mostra come aprire un mobiumento da un flusso:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) consente anche di caricare mobiumenti MOBI tramite stream. Per aprire un mobiumento da uno stream, è sufficiente passare un oggetto stream che contiene il mobiumento nel costruttore [Document](https://apiference.aspose.com/words/net/aspose.words/mobiument). L'esempio di codice seguente mostra come aprire un mobiumento da un flusso:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ In alternativa, scarica il programma di installazione MSI offline o le DLL in un
 {{% /blocks/products/pf/feature-page-section %}}
 (https
 {{% blocks/products/pf/feature-page-section  h2="Aggiungi proprietà personalizzate nel file ODS tramite C#" %}}
-Durante la conversione di MOBI in ODS, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) consente di aggiungere proprietà personalizzate nei mobiumenti ODS. Per aggiungere una proprietà personalizzata, è possibile utilizzare il metodo [Add](https://apiference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection/methods/add/index) per il metodo [CustomMobiumentPropertyCollection](https://apiference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection). Il metodo Add aggiunge la proprietà al file Excel e restituisce un riferimento per la nuova proprietà del mobiumento come [Aspose.Cells.Properties.MobiumentProperty](https://apiference.aspose.com/cells/net/aspose.cells.properties /proprietà mobiumento). 
+Durante la conversione di MOBI in ODS, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) consente di aggiungere proprietà personalizzate nei mobiumenti ODS. Per aggiungere una proprietà personalizzata, è possibile utilizzare il metodo [Add](https://apiference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection/methods/add/index) per il metodo [CustomDocumentPropertyCollection](https://apiference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection). Il metodo Add aggiunge la proprietà al file Excel e restituisce un riferimento per la nuova proprietà del mobiumento come [Aspose.Cells.Properties.DocumentProperty](https://apiference.aspose.com/cells/net/aspose.cells.properties /proprietà mobiumento). 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

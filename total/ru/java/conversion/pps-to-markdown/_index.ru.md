@@ -17,7 +17,7 @@ otherformats: XLTM XLSB XLSX FODS XLS XLAM MARKDOWN XLTX MHTML SXC XLT TSV ODS E
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как преобразовать PPS в MARKDOWN через Java" %}}
 1. Откройте файл PPS, используя класс [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation).
-2. Преобразуйте PPS в HTML, используя [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) метод
+2. Преобразуйте PPS в HTML, используя [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) метод
 3. Загрузите HTML-документ с помощью класса [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).
 4. Сохраните документ в формате MARKDOWN, используя [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. SaveOptions)) метод
 {{% /blocks/products/pf/agp/feature-section-col %}}

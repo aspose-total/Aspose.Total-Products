@@ -48,7 +48,7 @@ otherformats: DIF XLSB TSV FODS XLT EXCEL XLSX ODS SXC XLAM XLTM XLSM XLS XLTX
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="C＃を介してCSVファイルにカスタムプロパティを追加する" %}}
-DOCをCSVに変換する際、[Aspose.Cells for .NET]（https://products.aspose.com/cells/net/）を使用すると、CSVドキュメントにカスタムプロパティを追加できます。カスタムプロパティを追加するには、[CustomDocumentPropertyCollection]（の[Add]（https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index）メソッドを使用できます。 https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection）クラス。 Addメソッドは、プロパティをExcelファイルに追加し、新しいドキュメントプロパティの参照を[Aspose.Cells.Properties.DocumentProperty]（https://apireference.aspose.com/cells/net/aspose.cells.properties）として返します。 / documentproperty）オブジェクト。 
+DOCをCSVに変換する際、[Aspose.Cells for .NET]（https://products.aspose.com/cells/net/）を使用すると、CSVドキュメントにカスタムプロパティを追加できます。カスタムプロパティを追加するには、[CustomDocumentPropertyCollection]の[Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index）メソッドを使用できます。 https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection）クラス。 Addメソッドは、プロパティをExcelファイルに追加し、新しいドキュメントプロパティの参照を[Aspose.Cells.Properties.DocumentProperty]（https://apireference.aspose.com/cells/net/aspose.cells.properties）として返します。 / documentproperty）オブジェクト。 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

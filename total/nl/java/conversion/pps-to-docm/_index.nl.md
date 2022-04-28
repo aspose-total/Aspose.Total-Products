@@ -17,7 +17,7 @@ otherformats: DOT FLATOPC DOCM DOTM WORDML DOCMX RTF OTT DOTX WORD ODT TEXT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hoe PPS naar DOCM te converteren via Java" %}}
 1. Open het PPS-bestand met de klasse [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Converteer PPS naar HTML met behulp van [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) methode en stel Html in als SaveFormat
+2. Converteer PPS naar HTML met behulp van [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) methode en stel Html in als SaveFormat
 3. Laad het geconverteerde HTML-bestand met de klasse [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. Sla het documentop in DOCM-indeling met de methode [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}

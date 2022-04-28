@@ -16,8 +16,8 @@ otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="تحويل WORD إلى تنسيق JSON عبر Java" %}}
-1. افتح ملف WORD باستخدام فئة [Wordument](https://apireference.aspose.com/words/java/com.aspose.words/Wordument)
-2. تحويل WORD إلى HTML باستخدام [Save](https://apireference.aspose.com/words/java/com.aspose.words/Wordument#save (java.lang.String، com.aspose.words.SaveOptions)) طريقة
+1. افتح ملف WORD باستخدام فئة [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. تحويل WORD إلى HTML باستخدام [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String.com.aspose.words.SaveOptions)) طريقة
 3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. احفظ المستند بتنسيق JSON باستخدام [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String%D8%8C%D9%AA20com.aspose.cells.%20SaveOptions)) الطريقة
 {{% /blocks/products/pf/agp/feature-section-col %}}

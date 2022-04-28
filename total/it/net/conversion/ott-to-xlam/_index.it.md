@@ -18,10 +18,10 @@ Utilizzando [Aspose.Total for .NET](https://products.aspose.com/total/net/) puoi
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET per convertire OTT in XLAM" %}}
-1. Aprire il file OTT utilizzando la classe [Document](https://apiference.aspose.com/words/net/aspose.words/ottument)
-2. Converti OTT in HTML utilizzando il metodo [Save](https://apiference.aspose.com/words/net/aspose.words.ottument/save/methods/4)
-3. Caricare il ottumento HTML utilizzando la classe [Workbook](https://apiference.aspose.com/cells/net/aspose.cells/workbook)
-4. Salvare il ottumento in formato XLAM utilizzando il metodo [Salva](https://apiference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) e impostare `XLAM` come SaveFormat
+1. Aprire il file OTT utilizzando la classe [Document](https://apiference.aspose.com/words/net/aspose.words/document)
+2. Converti OTT in HTML utilizzando il metodo [Save](https://apiference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. Caricare il documento HTML utilizzando la classe [Workbook](https://apiference.aspose.com/cells/net/aspose.cells/workbook)
+4. Salvare il documento in formato XLAM utilizzando il metodo [Salva](https://apiference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) e impostare `XLAM` come SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
@@ -38,8 +38,8 @@ In alternativa, scarica il programma di installazione MSI offline o le DLL in un
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Carica ottumento OTT da Stream tramite C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) consente anche di caricare ottumenti OTT tramite stream. Per aprire un ottumento da uno stream, è sufficiente passare un oggetto stream che contiene il ottumento nel costruttore [Document](https://apiference.aspose.com/words/net/aspose.words/ottument). L'esempio di codice seguente mostra come aprire un ottumento da un flusso:  
+{{% blocks/products/pf/feature-page-section  h2="Carica documento OTT da Stream tramite C#" %}}
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) consente anche di caricare documenti OTT tramite stream. Per aprire un documento da uno stream, è sufficiente passare un oggetto stream che contiene il documento nel costruttore [Document](https://apiference.aspose.com/words/net/aspose.words/document). L'esempio di codice seguente mostra come aprire un documento da un flusso:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ In alternativa, scarica il programma di installazione MSI offline o le DLL in un
 {{% /blocks/products/pf/feature-page-section %}}
 (https
 {{% blocks/products/pf/feature-page-section  h2="Aggiungi proprietà personalizzate nel file XLAM tramite C#" %}}
-Durante la conversione di OTT in XLAM, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) consente di aggiungere proprietà personalizzate nei ottumenti XLAM. Per aggiungere una proprietà personalizzata, è possibile utilizzare il metodo [Add](https://apiference.aspose.com/cells/net/aspose.cells.properties/customottumentpropertycollection/methods/add/index) per il metodo [CustomOttumentPropertyCollection](https://apiference.aspose.com/cells/net/aspose.cells.properties/customottumentpropertycollection). Il metodo Add aggiunge la proprietà al file Excel e restituisce un riferimento per la nuova proprietà del ottumento come [Aspose.Cells.Properties.OttumentProperty](https://apiference.aspose.com/cells/net/aspose.cells.properties /proprietà ottumento). 
+Durante la conversione di OTT in XLAM, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) consente di aggiungere proprietà personalizzate nei documenti XLAM. Per aggiungere una proprietà personalizzata, è possibile utilizzare il metodo [Add](https://apiference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) per il metodo [CustomDocumentPropertyCollection](https://apiference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection). Il metodo Add aggiunge la proprietà al file Excel e restituisce un riferimento per la nuova proprietà del documento come [Aspose.Cells.Properties.DocumentProperty](https://apiference.aspose.com/cells/net/aspose.cells.properties /proprietà documento). 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

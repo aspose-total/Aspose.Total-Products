@@ -13,7 +13,7 @@ otherformats: GIF OTT JPEG SVG PDF FLATOPC EPUB RTF PS EMF DOTM DOT TEXT DOC DOC
 {{< blocks/products/pf/i18n/feature-page-header h1="ส่งออก OFT เป็น ODT ผ่าน .NET" h2=".NET API เพื่อแสดงผล OFT เป็น ODT บน Windows, macOS และ Linux โดยไม่ต้องใช้ Word หรือ Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-หากคุณเป็นนักพัฒนา .NET ที่ต้องการเพิ่มฟีเจอร์การแปลง OFT เป็น ODT ภายในแอปพลิเคชันของคุณ [Aspose.Total for .NET](https://products.aspose.com/total/net/) การจัดการรูปแบบไฟล์ API เป็นวิธี ซึ่งไปข้างหน้า. เมื่อใช้ [Aspose.Oft for .NET](https://products.aspose.com/oft/net/) คุณจะแปลงรูปแบบไฟล์ OFT เป็น HTML ได้ หลังจากนั้น คุณสามารถใช้ [Aspose.Words for .NET](https://products.aspose.com/words/net/) เพื่อแสดง HTML เป็น ODT
+หากคุณเป็นนักพัฒนา .NET ที่ต้องการเพิ่มฟีเจอร์การแปลง OFT เป็น ODT ภายในแอปพลิเคชันของคุณ [Aspose.Total for .NET](https://products.aspose.com/total/net/) การจัดการรูปแบบไฟล์ API เป็นวิธี ซึ่งไปข้างหน้า. เมื่อใช้ [Aspose.Cells for .NET](https://products.aspose.com/oft/net/) คุณจะแปลงรูปแบบไฟล์ OFT เป็น HTML ได้ หลังจากนั้น คุณสามารถใช้ [Aspose.Words for .NET](https://products.aspose.com/words/net/) เพื่อแสดง HTML เป็น ODT
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.odt", SaveFormat.Odt);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="แยกไฟล์ OFT ผ่าน .NET" %}}
-ก่อนแปลง OFT เป็น ODT หากคุณต้องการแน่ใจว่าคุณกำลังแปลงอีเมลที่ถูกต้อง คุณสามารถโหลดเอกสาร OFT แยกวิเคราะห์ และดูคุณสมบัติที่คุณต้องการได้ โดยใช้ [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) คลาสของ [Aspose.Oft for .NET](https://products.aspose.com/oft /net/) API คุณสามารถรับข้อมูลผู้ส่งและผู้รับ ตัวอย่างเช่น คุณสามารถตรวจสอบอีเมลผู้ส่งเฉพาะสำหรับการแปลงโดยใช้คุณสมบัติ [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername)  
+ก่อนแปลง OFT เป็น ODT หากคุณต้องการแน่ใจว่าคุณกำลังแปลงอีเมลที่ถูกต้อง คุณสามารถโหลดเอกสาร OFT แยกวิเคราะห์ และดูคุณสมบัติที่คุณต้องการได้ โดยใช้ [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) คลาสของ [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API คุณสามารถรับข้อมูลผู้ส่งและผู้รับ ตัวอย่างเช่น คุณสามารถตรวจสอบอีเมลผู้ส่งเฉพาะสำหรับการแปลงโดยใช้คุณสมบัติ [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername)  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

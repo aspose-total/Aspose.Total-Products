@@ -16,8 +16,8 @@ otherformats: PPS PPSX PPTX POWERPOINT POTX POT PPTM PPSM PPT POTM CSV DIF FODS 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak převést WORD na PPT přes Java" %}}
-1. Otevřete soubor WORD pomocí třídy [Wordument](https://apireference.aspose.com/words/java/com.aspose.words/Wordument)
-2. Převeďte soubor WORD do HTML pomocí [uložit](https://apireference.aspose.com/words/java/com.aspose.words/Wordument#save(java.lang.String,com.aspose.words.SaveOptions))) metoda
+1. Otevřete soubor WORD pomocí třídy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. Převeďte soubor WORD do HTML pomocí [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) metoda
 3. Inicializujte nový objekt [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extrahujte obsah ze souboru HTML pomocí BufferedReader a zapište obsah do souboru prezentace
 6. Uložte dokument do PPT pomocí metody [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

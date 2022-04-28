@@ -17,7 +17,7 @@ otherformats: PPSX PPTX PPT PPTM PPS POWERPOINT POT POTX POTM PPSM CSV DIF FODS 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل TXT إلى ODP عبر Java" %}}
 1. افتح ملف TXT باستخدام فئة [Txtument](https://apireference.aspose.com/words/java/com.aspose.words/Txtument)
-2. تحويل ملف TXT إلى HTML باستخدام [Save](https://apireference.aspose.com/words/java/com.aspose.words/Txtument#save (java.lang.String، com.aspose.words.SaveOptions )) طريقة
+2. تحويل ملف TXT إلى HTML باستخدام [Save](https://apireference.aspose.com/words/java/com.aspose.words/Txtument#save(java.lang.String.com.aspose.words.SaveOptions)) طريقة
 3. تهيئة كائن [عرض تقديمي] جديد (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. استخراج المحتوى من ملف HTML باستخدام BufferedReader وكتابة المحتوى في ملف العرض التقديمي الخاص بك
 6. احفظ المستند في ODP باستخدام طريقة [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

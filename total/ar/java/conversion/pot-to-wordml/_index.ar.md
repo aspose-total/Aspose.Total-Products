@@ -17,7 +17,7 @@ otherformats: WORDML TEXT RTF WORD WORDMLM DOTX DOTM DOT WORDMLX ODT FLATOPC OTT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل POT إلى WORDML عبر Java" %}}
 1. افتح ملف POT باستخدام فئة [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. تحويل POT إلى HTML باستخدام [Save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) وتعيين Html كـ SaveFormat
+2. تحويل POT إلى HTML باستخدام [Save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) وتعيين Html كـ SaveFormat
 3. قم بتحميل ملف HTML المحول باستخدام فئة [Wordmlument](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument)
 4. احفظ المستند بتنسيق WORDML باستخدام طريقة [Save](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument#save(java.lang.String.int))
 {{% /blocks/products/pf/agp/feature-section-col %}}

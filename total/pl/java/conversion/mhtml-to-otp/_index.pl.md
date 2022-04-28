@@ -37,11 +37,12 @@ document.save("PptxOutput.pptx", SaveFormat.Pptx);
 Presentation presentation = new Presentation("PptxOutput.pptx");
 // save the presentation as Otp format
 presentation.save("output.otp", SaveFormat.Otp);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Wymagania dotyczące konwersji" %}}
-Podczas ładowania pliku w formacie MHTML dokument może być chroniony hasłem. [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) umożliwia również otwieranie zaszyfrowanych dokumentów. Aby otworzyć zaszyfrowany plik, możesz zainicjować nowe wystąpienie [Dokumentu](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java .lang.String-) i przekaż nazwę pliku i hasło jako argumenty.  
+{{% blocks/products/pf/feature-page-section  h2="Wymagania dotyczące konwersji" %}}Document#Document-java.lang.String-java.lang.String-
+Podczas ładowania pliku w formacie MHTML dokument może być chroniony hasłem. [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) umożliwia również otwieranie zaszyfrowanych dokumentów. Aby otworzyć zaszyfrowany plik, możesz zainicjować nowe wystąpienie [Dokumentu](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-) i przekaż nazwę pliku i hasło jako argumenty.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java
@@ -50,11 +51,12 @@ Document doc = new Document("input.mhtml", "Your@Password");
 // save MHTML as PPTX format 
 document.save("PptxOutput.pptx", SaveFormat.Pptx); 
 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Otwórz zaszyfrowany plik MHTML przez Java" %}}
-Po przekonwertowaniu MHTML na OTP możesz również dodać do prezentacji predefiniowany typ widoku. [Aspose.Slides for Java](https://products.aspose.com/slides/java/) zapewnia możliwość ustawienia typu widoku generowanej prezentacji, gdy jest ona otwierana w programie PowerPoint za pomocą [ViewProperties](https:/ /apireference.aspose.com/slides/java/com.aspose.slides/ViewProperties). Właściwość [setLastView](https://apireference.aspose.com/slides/java/com.aspose.slides/ViewProperties#setLastView-int-) służy do ustawiania typu widoku przy użyciu [ViewType](https:/ /apireference.aspose.com/slides/java/com.aspose.slides/ViewType). 
+Po przekonwertowaniu MHTML na OTP możesz również dodać do prezentacji predefiniowany typ widoku. [Aspose.Slides for Java](https://products.aspose.com/slides/java/) zapewnia możliwość ustawienia typu widoku generowanej prezentacji, gdy jest ona otwierana w programie PowerPoint za pomocą [ViewProperties](https://apireference.aspose.com/slides/java/com.aspose.slides/ViewProperties). Właściwość [setLastView](https://apireference.aspose.com/slides/java/com.aspose.slides/ViewProperties#setLastView-int-) służy do ustawiania typu widoku przy użyciu [ViewType](https://apireference.aspose.com/slides/java/com.aspose.slides/ViewType). 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java
@@ -64,7 +66,8 @@ Presentation presentation = new Presentation("PptxOutput.pptx");
 presentation.getViewProperties().setLastView((byte) ViewType.SlideMasterView);
 // save the presentation as Otp format
 presentation.save("output.otp", SaveFormat.Otp);    
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

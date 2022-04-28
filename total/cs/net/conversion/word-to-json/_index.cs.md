@@ -18,8 +18,8 @@ Pomocí [Aspose.Total for .NET](https://products.aspose.com/total/net/) můžete
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Převést WORD na formát JSON přes C#" %}}
-1. Otevřete soubor WORD pomocí třídy [Wordument](https://apireference.aspose.com/words/net/aspose.words/wordument)
-2. Převeďte WORD do HTML pomocí metody [Save](https://apireference.aspose.com/words/net/aspose.words.wordument/save/methods/4)
+1. Otevřete soubor WORD pomocí třídy [Document](https://apireference.aspose.com/words/net/aspose.words/document)
+2. Převeďte WORD do HTML pomocí metody [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)
 3. Načtěte dokument HTML pomocí třídy [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Uložte dokument do formátu JSON pomocí metody [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}

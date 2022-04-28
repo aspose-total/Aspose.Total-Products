@@ -17,7 +17,7 @@ Oft müssen Entwickler TXT-Dateien programmgesteuert in POWERPOINT konvertieren.
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="So konvertieren Sie TXT über Java in POWERPOINT" %}}
 1. Öffnen Sie die TXT-Datei mit der Klasse [Txtument](https://apireference.aspose.com/words/java/com.aspose.words/Txtument).
-2. Konvertieren Sie die TXT-Datei in HTML, indem Sie [save](https://apireference.aspose.com/words/java/com.aspose.words/Txtument#save(java.lang.String,com.aspose.words.SaveOptions )) Methode
+2. Konvertieren Sie die TXT-Datei in HTML, indem Sie [save](https://apireference.aspose.com/words/java/com.aspose.words/Txtument#save(java.lang.String,com.aspose.words.SaveOptions)) Methode
 3. Initialisieren Sie ein neues [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)-Objekt
 5. Extrahieren Sie den Inhalt aus der HTML-Datei mit BufferedReader und schreiben Sie den Inhalt in Ihre Präsentationsdatei
 6. Speichern Sie das Dokument mit der Methode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) im POWERPOINT

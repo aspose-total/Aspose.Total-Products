@@ -17,7 +17,7 @@ Spesso gli sviluppatori devono convertire i file DOTM in ODP a livello di codice
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Come convertire DOTM in ODP tramite Java" %}}
 1. Aprire il file DOTM utilizzando la classe [Dotmument](https://apiference.aspose.com/words/java/com.aspose.words/Dotmument)
-2. Converti file DOTM in HTML utilizzando [save](https://apiference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,com.aspose.words.SaveOptions )) metodo
+2. Converti file DOTM in HTML utilizzando [save](https://apiference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,com.aspose.words.SaveOptions)) metodo
 3. Inizializzare un nuovo oggetto [Presentation](https://apiference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Estrarre il contenuto dal file HTML utilizzando BufferedReader e scrivere il contenuto nel file di presentazione
 6. Salvare il dotmumento in ODP utilizzando il metodo [save](https://apiference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
@@ -30,14 +30,16 @@ In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspos
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-dotm-to-pptx.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisiti di conversione" %}}
 L'API consente inoltre di convertire dotmumenti DOTM protetti da password in ODP. Se il dotmumento DOTM di input è protetto da password, non è possibile convertirlo in formato ODP senza utilizzare la password. Per aprire un dotmumento crittografato è possibile impostare la password corretta nell'oggetto LoadOptions e passarla al costruttore del dotmumento.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dotm-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dotm-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

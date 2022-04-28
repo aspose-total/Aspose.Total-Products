@@ -17,7 +17,7 @@ Sử dụng [Aspose.Total cho Java](https://products.aspose.com/total/java/), b�
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi định dạng JSON sang PPSX qua Java" %}}
 1. Tạo đối tượng [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) mới và mở tệp JSON
-2. Lưu JSON dưới dạng PPTX bằng cách sử dụng [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save (java.lang.String,% 20com.aspose.cells.SaveOptions) ) phương pháp
+2. Lưu JSON dưới dạng PPTX bằng cách sử dụng [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,% 20com.aspose.cells.SaveOptions) ) phương pháp
 3. Tải tài liệu PPTX bằng cách sử dụng lớp [Trình bày](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 4. Lưu tài liệu sang định dạng PPSX bằng phương thức [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -16,13 +16,13 @@ Chuyển đổi MOBI sang EXCEL qua [Aspose.Total cho Java](https://products.asp
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API C ++ để chuyển đổi MOBI sang EXCEL" %}}
-1. Mở tệp MOBI bằng lớp [Mobiument](https://apireference.aspose.com/words/java/com.aspose.words/Mobiument)
-2. Chuyển đổi MOBI sang HTML bằng cách sử dụng [Save](https://apireference.aspose.com/words/java/com.aspose.words/Mobiument#save (java.lang.String, com.aspose.words.SaveOptions) ) phương pháp
+1. Mở tệp MOBI bằng lớp [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. Chuyển đổi MOBI sang HTML bằng cách sử dụng [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String, com.aspose.words.SaveOptions) ) phương pháp
 3. Tải tài liệu HTML bằng cách sử dụng lớp [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Lưu tài liệu sang định dạng EXCEL bằng cách sử dụng [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save (java.lang.String,% 20com.aspose.cells). Phương thức SaveOptions))
+4. Lưu tài liệu sang định dạng EXCEL bằng cách sử dụng [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,% 20com.aspose.cells). Phương thức SaveOptions))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
-Bạn có thể dễ dàng sử dụng Aspose.Total cho Java trực tiếp từ dự án dựa trên [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và bao gồm [Aspose.Words dành cho Java](https://mobis.aspose.com/words/java/installation/) và [Aspose.Cells dành cho Java](https://mobis.aspose.com/cells/java/ cài đặt /) trong pom.xml của bạn.
+Bạn có thể dễ dàng sử dụng Aspose.Total cho Java trực tiếp từ dự án dựa trên [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và bao gồm [Aspose.Words dành cho Java](https://docs.aspose.com/words/java/installation/) và [Aspose.Cells dành cho Java](https://docs.aspose.com/cells/java/ cài đặt /) trong pom.xml của bạn.
 
 Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -34,7 +34,7 @@ Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://download
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Yêu cầu chuyển đổi" %}}](](](](](
-Trước khi chuyển đổi MOBI sang EXCEL, bạn có thể xóa thông tin không sử dụng khỏi Tài liệu MOBI qua [Aspose.Words for Java](https://products.aspose.com/words/java/). Đôi khi bạn có thể cần phải loại bỏ thông tin không sử dụng hoặc trùng lặp để giảm kích thước của tài liệu đầu ra và thời gian xử lý. Lớp [CleanupOptions](https://apireference.aspose.com/words/java/com.aspose.words/CleanupOptions) cho phép bạn chỉ định các tùy chọn để làm sạch tài liệu. Để xóa các kiểu trùng lặp hoặc chỉ các kiểu hoặc danh sách không sử dụng khỏi tài liệu, bạn có thể sử dụng phương pháp [Dọn dẹp](https://apireference.aspose.com/words/java/com.aspose.words/Mobiument#cleanup ()). Bạn có thể sử dụng [UnusedStyles](https://apireference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) và [UnusedBuiltinStyles](https://apireference.aspose.com/words/java /com.aspose.words/cleanupoptions#UnusedBuiltinStyles) thuộc tính để phát hiện và xóa các kiểu được đánh dấu là "không sử dụng".  
+Trước khi chuyển đổi MOBI sang EXCEL, bạn có thể xóa thông tin không sử dụng khỏi Tài liệu MOBI qua [Aspose.Words for Java](https://products.aspose.com/words/java/). Đôi khi bạn có thể cần phải loại bỏ thông tin không sử dụng hoặc trùng lặp để giảm kích thước của tài liệu đầu ra và thời gian xử lý. Lớp [CleanupOptions](https://apireference.aspose.com/words/java/com.aspose.words/CleanupOptions) cho phép bạn chỉ định các tùy chọn để làm sạch tài liệu. Để xóa các kiểu trùng lặp hoặc chỉ các kiểu hoặc danh sách không sử dụng khỏi tài liệu, bạn có thể sử dụng phương pháp [Dọn dẹp](https://apireference.aspose.com/words/java/com.aspose.words/Document#cleanup()). Bạn có thể sử dụng [UnusedStyles](https://apireference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) và [UnusedBuiltinStyles](https://apireference.aspose.com/words/java /com.aspose.words/cleanupoptions#UnusedBuiltinStyles) thuộc tính để phát hiện và xóa các kiểu được đánh dấu là "không sử dụng".  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-mobiument.java" >}}
@@ -42,7 +42,7 @@ Trước khi chuyển đổi MOBI sang EXCEL, bạn có thể xóa thông tin kh
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}](](](
 {{% blocks/products/pf/feature-page-section  h2="Xóa thông tin không sử dụng khỏi tài liệu MOBI qua Java" %}}
-Sau khi chuyển đổi MOBI sang EXCEL, [Aspose.Cells cho Java](https://products.aspose.com/cells/java/) cho phép bạn lưu tài liệu của mình vào luồng. Nếu bạn cần lưu tệp vào Luồng thì bạn nên tạo một đối tượng FileOutputStream rồi [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save (java.io). OutputStream,% 20com.aspose.cells.SaveOptions)) tệp vào đối tượng Luồng đó bằng cách gọi phương thức lưu của [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) vật. 
+Sau khi chuyển đổi MOBI sang EXCEL, [Aspose.Cells cho Java](https://products.aspose.com/cells/java/) cho phép bạn lưu tài liệu của mình vào luồng. Nếu bạn cần lưu tệp vào Luồng thì bạn nên tạo một đối tượng FileOutputStream rồi [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io). OutputStream,% 20com.aspose.cells.SaveOptions)) tệp vào đối tượng Luồng đó bằng cách gọi phương thức lưu của [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) vật. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}

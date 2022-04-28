@@ -18,7 +18,7 @@ otherformats: XLTM XLT XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API для преобразования DOCM в XLT" %}}
-1. Откройте файл DOCM, используя класс [Document](https://apireference.aspose.com/words/net/aspose.words/document.
+1. Откройте файл DOCM, используя класс [Document](https://apireference.aspose.com/words/net/aspose.words/document).
 2. Преобразуйте DOCM в HTML, используя метод [Сохранить](https://apireference.aspose.com/words/net/aspose.words.documentsave/methods/4).
 3. Загрузите HTML-документ с помощью класса [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
 4. Сохраните документ в формате XLT с помощью метода [Сохранить](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) и установите «XLT» в качестве формата сохранения.
@@ -39,7 +39,7 @@ otherformats: XLTM XLT XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Загрузить документ DOCM из потока через С#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) также позволяет загружать документ DOCM через поток. Чтобы открыть документ из потока, просто передайте объект потока, содержащий документ, в конструктор [Document](https://apireference.aspose.com/words/net/aspose.words/document. В следующем примере кода показано, как открыть документ из потока:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) также позволяет загружать документ DOCM через поток. Чтобы открыть документ из потока, просто передайте объект потока, содержащий документ, в конструктор [Document](https://apireference.aspose.com/words/net/aspose.words/document). В следующем примере кода показано, как открыть документ из потока:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}

@@ -17,7 +17,7 @@ otherformats: PPTX PPTM PPSM POWERPOINT POT POTX PPS PPT PPSX POTM CSV DIF FODS 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak převést FLATOPC na PPTM přes Java" %}}
 1. Otevřete soubor FLATOPC pomocí třídy [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument)
-2. Převeďte soubor FLATOPC do HTML pomocí [uložit](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,com.aspose.words.SaveOptions))) metoda
+2. Převeďte soubor FLATOPC do HTML pomocí [save](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,com.aspose.words.SaveOptions))) metoda
 3. Inicializujte nový objekt [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extrahujte obsah ze souboru HTML pomocí BufferedReader a zapište obsah do souboru prezentace
 6. Uložte dokument do PPTM pomocí metody [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

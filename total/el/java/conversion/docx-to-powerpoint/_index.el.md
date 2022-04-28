@@ -17,7 +17,7 @@ otherformats: PPS PPSX PPT PPTM POT PPTX POTM PPSM POTX POWERPOINT CSV DIF FODS 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Πώς να μετατρέψετε το DOCX σε POWERPOINT μέσω Java" %}}
 1. Ανοίξτε το αρχείο DOCX χρησιμοποιώντας την κλάση [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-2. Μετατρέψτε το αρχείο DOCX σε HTML χρησιμοποιώντας [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions )) μέθοδος
+2. Μετατρέψτε το αρχείο DOCX σε HTML χρησιμοποιώντας [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) μέθοδος
 3. Αρχικοποιήστε ένα νέο αντικείμενο [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Εξάγετε περιεχόμενο από αρχείο HTML χρησιμοποιώντας το BufferedReader και γράψτε το περιεχόμενο στο αρχείο παρουσίασής σας
 6. Αποθηκεύστε το έγγραφο στο POWERPOINT χρησιμοποιώντας τη μέθοδο [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

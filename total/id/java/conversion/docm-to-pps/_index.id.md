@@ -17,7 +17,7 @@ Seringkali pengembang harus mengonversi file DOCM ke PPS secara terprogram. Deng
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cara Mengonversi DOCM ke PPS melalui Java" %}}
 1. Buka file DOCM menggunakan kelas [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-2. Konversi file DOCM ke HTML dengan menggunakan [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions )) metode
+2. Konversi file DOCM ke HTML dengan menggunakan [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metode
 3. Inisialisasi objek [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) baru
 5. Ekstrak konten dari file HTML menggunakan BufferedReader dan tulis konten di file presentasi Anda
 6. Simpan dokumen ke PPS menggunakan metode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

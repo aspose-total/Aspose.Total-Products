@@ -17,7 +17,7 @@ A menudo, los desarrolladores tienen que convertir el archivo DOT a POT mediante
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir DOT a POT a través de Java" %}}
 1. Abra el archivo DOT usando la clase [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-2. Convierta el archivo DOT a HTML usando [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions )) método
+2. Convierta el archivo DOT a HTML usando [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) método
 3. Inicialice un nuevo objeto [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraiga el contenido del archivo HTML usando BufferedReader y escriba el contenido en su archivo de presentación
 6. Guarde el dotumento en POT usando el método [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

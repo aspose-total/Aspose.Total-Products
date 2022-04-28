@@ -18,8 +18,8 @@ otherformats: XLSX XLSM XLS XLT CSV TSV EXCEL XLSB SXC FODS DIF ODS XLTM XLAM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="تحويل WORD إلى تنسيق JSON عبر C#" %}}
-1. افتح ملف WORD باستخدام فئة [Wordument](https://apireference.aspose.com/words/net/aspose.words/wordument)
-2. تحويل WORD إلى HTML باستخدام طريقة [Save](https://apireference.aspose.com/words/net/aspose.words.wordument/save/methods/4)
+1. افتح ملف WORD باستخدام فئة [Document](https://apireference.aspose.com/words/net/aspose.words/document)
+2. تحويل WORD إلى HTML باستخدام طريقة [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)
 3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. احفظ المستند بتنسيق JSON باستخدام طريقة [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}

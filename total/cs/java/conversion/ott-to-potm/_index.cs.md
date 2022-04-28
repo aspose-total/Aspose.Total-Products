@@ -17,7 +17,7 @@ otherformats: PPSX PPTM PPSM POWERPOINT PPTX PPT PPS POTX POTM POT CSV DIF FODS 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak převést OTT na POTM přes Java" %}}
 1. Otevřete soubor OTT pomocí třídy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-2. Převeďte soubor OTT do HTML pomocí [uložit](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) metoda
+2. Převeďte soubor OTT do HTML pomocí [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) metoda
 3. Inicializujte nový objekt [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extrahujte obsah ze souboru HTML pomocí BufferedReader a zapište obsah do souboru prezentace
 6. Uložte dokument do POTM pomocí metody [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

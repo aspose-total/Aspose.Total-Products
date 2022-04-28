@@ -18,8 +18,8 @@ Bằng cách sử dụng [Aspose.Total for .NET](https://products.aspose.com/tot
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API để chuyển đổi OTT sang CSV" %}}
-1. Mở tệp OTT bằng lớp [Document](https://apireference.aspose.com/words/net/aspose.words/ottument)
-2. Chuyển đổi OTT sang HTML bằng phương pháp [Save](https://apireference.aspose.com/words/net/aspose.words.ottument/save/methods/4)
+1. Mở tệp OTT bằng lớp [Document](https://apireference.aspose.com/words/net/aspose.words/document)
+2. Chuyển đổi OTT sang HTML bằng phương pháp [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)
 3. Tải tài liệu HTML bằng cách sử dụng lớp [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Lưu tài liệu sang định dạng CSV bằng phương pháp [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) và đặt `CSV` làm SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -39,7 +39,7 @@ Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp Z
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Tải tài liệu OTT từ Luồng qua C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) cũng cho phép bạn tải tài liệu OTT qua luồng. Để mở tài liệu từ luồng, chỉ cần chuyển đối tượng luồng có chứa tài liệu vào phương thức khởi tạo [Document](https://apireference.aspose.com/words/net/aspose.words/ottument). Ví dụ mã sau đây cho thấy cách mở một tài liệu từ một luồng:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) cũng cho phép bạn tải tài liệu OTT qua luồng. Để mở tài liệu từ luồng, chỉ cần chuyển đối tượng luồng có chứa tài liệu vào phương thức khởi tạo [Document](https://apireference.aspose.com/words/net/aspose.words/document). Ví dụ mã sau đây cho thấy cách mở một tài liệu từ một luồng:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp Z
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Thêm thuộc tính tùy chỉnh trong tệp CSV qua C#" %}}
-Trong khi chuyển đổi OTT sang CSV, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) cho phép bạn thêm các thuộc tính tùy chỉnh trong tài liệu CSV của mình. Để thêm thuộc tính tùy chỉnh, bạn có thể sử dụng phương thức [Thêm](https://apireference.aspose.com/cells/net/aspose.cells.properties/customottumentpropertycollection/methods/add/index) cho phương thức [CustomOttumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customottumentpropertycollection) lớp. Phương thức Thêm sẽ thêm thuộc tính vào tệp Excel và trả về một tham chiếu cho thuộc tính tài liệu mới dưới dạng [Aspose.Cells.Properties.OttumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties/ottumentproperty) đối tượng. 
+Trong khi chuyển đổi OTT sang CSV, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) cho phép bạn thêm các thuộc tính tùy chỉnh trong tài liệu CSV của mình. Để thêm thuộc tính tùy chỉnh, bạn có thể sử dụng phương thức [Thêm](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) cho phương thức [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) lớp. Phương thức Thêm sẽ thêm thuộc tính vào tệp Excel và trả về một tham chiếu cho thuộc tính tài liệu mới dưới dạng [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties/documentproperty) đối tượng. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

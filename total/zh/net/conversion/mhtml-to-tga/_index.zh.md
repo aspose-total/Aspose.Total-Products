@@ -39,7 +39,7 @@ otherformats: PSD  TGA EMZ WMZ JPEG2000 SVGZ IMAGE WMF DXF DICOM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="通过 C# 在单个文件中将 MHTML 文件转换为 TGA" %}}
-使用 API，您还可以将 MHTML 文件转换为 TGA 到单个图像文件。为了转换所有页面，您可以首先将 MHTML 文档渲染为一个 TIFF 文件，然后您可以将 TIFF 文件导出为 TGA。您可以使用 [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) 类打开输入文件并创建 Resolution、TiffSettings 和 TIFF 设备对象。您可以使用 [TiffDevice](https:// apireference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice) 类。最后，您可以使用 [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) 类加载 TIFF 文件
+使用 API，您还可以将 MHTML 文件转换为 TGA 到单个图像文件。为了转换所有页面，您可以首先将 MHTML 文档渲染为一个 TIFF 文件，然后您可以将 TIFF 文件导出为 TGA。您可以使用 [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) 类打开输入文件并创建 Resolution、TiffSettings 和 TIFF 设备对象。您可以使用 [TiffDevice](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice) 类。最后，您可以使用 [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) 类加载 TIFF 文件
 并使用 [Save](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) 方法将其保存为 TGA 格式。  
 {{% blocks/products/pf/feature-page-code %}}
 

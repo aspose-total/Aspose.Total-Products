@@ -17,7 +17,7 @@ Thông thường, các nhà phát triển phải chuyển đổi tệp WORDML sa
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cách chuyển WORDML sang POTM qua Java" %}}
 1. Mở tệp WORDML bằng lớp [Wordmlument](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument)
-2. Chuyển đổi tệp WORDML sang HTML bằng cách sử dụng [save](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument#save (java.lang.String, com.aspose.words.SaveOptions )) phương pháp
+2. Chuyển đổi tệp WORDML sang HTML bằng cách sử dụng [save](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument#save(java.lang.String, com.aspose.words.SaveOptions)) phương pháp
 3. Khởi tạo đối tượng [Bản trình bày](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) mới
 5. Trích xuất nội dung từ tệp HTML bằng BufferedReader và ghi nội dung vào tệp bản trình bày của bạn
 6. Lưu tài liệu vào POTM bằng phương thức [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

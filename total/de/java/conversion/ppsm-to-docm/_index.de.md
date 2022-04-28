@@ -17,7 +17,7 @@ otherformats: DOTM WORD ODT WORDML DOCM DOTX FLATOPC DOCMX TEXT OTT RTF DOT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="So konvertieren Sie PPSM über Java in DOCM" %}}
 1. Öffnen Sie die PPSM-Datei mit der Klasse [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation).
-2. Konvertieren Sie PPSM in HTML mit [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) Methode und legen Sie Html als SaveFormat fest
+2. Konvertieren Sie PPSM in HTML mit [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) Methode und legen Sie Html als SaveFormat fest
 3. Laden Sie die konvertierte HTML-Datei mit der Klasse [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document).
 4. Speichern Sie das Dokument im DOCM-Format mit der Methode [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)).
 {{% /blocks/products/pf/agp/feature-section-col %}}

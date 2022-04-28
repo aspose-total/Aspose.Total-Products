@@ -29,21 +29,24 @@ Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloa
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-word-to-excel.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisitos de conversão" %}}
 Antes de converter WORDML para XLSB, você pode remover informações não utilizadas do Wordmlumento WORDML via [Aspose.Words for Java](https://products.aspose.com/words/java/). Às vezes, pode ser necessário remover informações não utilizadas ou duplicadas para reduzir o tamanho do wordmlumento de saída e o tempo de processamento. A classe [CleanupOptions](https://apireference.aspose.com/words/java/com.aspose.words/CleanupOptions) permite especificar opções para limpeza de wordmlumentos. Para remover estilos duplicados ou apenas estilos ou listas não utilizados do wordmlumento, você pode usar o método [Cleanup](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument#cleanup()). Você pode usar os [UnusedStyles](https://apireference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) e [UnusedBuiltinStyles](https://apireference.aspose.com/words/java /com.aspose.words/cleanupoptions#UnusedBuiltinStyles) para detectar e remover estilos marcados como “não usados”.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-wordmlument.java" >}}
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-wordmlument.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% /blocks/products/pf/feature-page-section %}}(https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions))
 {{% blocks/products/pf/feature-page-section  h2="Remover informações não utilizadas de um wordmlumento WORDML via Java" %}}
-Depois de converter WORDML para XLSB, o [Aspose.Cells for Java](https://products.aspose.com/cells/java/) permite que você salve seu wordmlumento para transmitir. Se você precisar salvar arquivos em um Stream, deverá criar um objeto FileOutputStream e [salvar](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io. OutputStream,%20com.aspose.cells.SaveOptions)) o arquivo para esse objeto Stream chamando o método save de [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) objeto. 
+Depois de converter WORDML para XLSB, o [Aspose.Cells for Java](https://products.aspose.com/cells/java/) permite que você salve seu wordmlumento para transmitir. Se você precisar salvar arquivos em um Stream, deverá criar um objeto FileOutputStream e [salvar](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions)) o arquivo para esse objeto Stream chamando o método save de [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) objeto. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

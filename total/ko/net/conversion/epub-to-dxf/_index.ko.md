@@ -39,7 +39,7 @@ otherformats: EMZ JPEG2000 DXF IMAGE WMF  WMZ PSD TGA SVGZ DICOM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="C#을 통해 단일 파일에서 EPUB 파일을 DXF로 변환" %}}
-API를 사용하여 EPUB 파일을 DXF로 변환하여 단일 이미지 파일로 변환할 수도 있습니다. 모든 페이지를 변환하려면 먼저 EPUB 문서를 하나의 TIFF 파일로 렌더링한 다음 TIFF 파일을 DXF로 내보낼 수 있습니다. [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) 클래스를 사용하여 입력 파일을 열고 Resolution, TiffSettings 및 TIFF 장치 개체를 생성할 수 있습니다. [TiffDevice](https:// apireference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice) 클래스. 마지막으로 [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) 클래스를 사용하여 TIFF 파일을 로드할 수 있습니다.
+API를 사용하여 EPUB 파일을 DXF로 변환하여 단일 이미지 파일로 변환할 수도 있습니다. 모든 페이지를 변환하려면 먼저 EPUB 문서를 하나의 TIFF 파일로 렌더링한 다음 TIFF 파일을 DXF로 내보낼 수 있습니다. [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) 클래스를 사용하여 입력 파일을 열고 Resolution, TiffSettings 및 TIFF 장치 개체를 생성할 수 있습니다. [TiffDevice](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice) 클래스. 마지막으로 [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) 클래스를 사용하여 TIFF 파일을 로드할 수 있습니다.
 [저장](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) 방법을 사용하여 DXF 형식으로 저장합니다.  
 {{% blocks/products/pf/feature-page-code %}}
 

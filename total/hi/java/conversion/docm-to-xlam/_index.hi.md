@@ -42,7 +42,7 @@ DOCM को XLAM में बदलने से पहले, आप [Aspose.W
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="जावा के माध्यम से एक DOCM दस्तावेज़ से अप्रयुक्त जानकारी निकालें" %}}
-DOCM को XLAM में बदलने के बाद, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) आपको अपने दस्तावेज़ को स्ट्रीम में सहेजने में सक्षम बनाता है। यदि आपको फ़ाइलों को स्ट्रीम में सहेजने की आवश्यकता है तो आपको एक FileOutputStream ऑब्जेक्ट बनाना चाहिए और फिर [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io. OutputStream,%20com.aspose.cells.SaveOptions)) [वर्कबुक](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) की सेव मेथड को कॉल करके उस स्ट्रीम ऑब्जेक्ट में फाइल करें। वस्तु। 
+DOCM को XLAM में बदलने के बाद, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) आपको अपने दस्तावेज़ को स्ट्रीम में सहेजने में सक्षम बनाता है। यदि आपको फ़ाइलों को स्ट्रीम में सहेजने की आवश्यकता है तो आपको एक FileOutputStream ऑब्जेक्ट बनाना चाहिए और फिर [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions)) [वर्कबुक](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) की सेव मेथड को कॉल करके उस स्ट्रीम ऑब्जेक्ट में फाइल करें। वस्तु। 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}

@@ -17,10 +17,10 @@ Souvent, les développeurs doivent convertir le fichier OTT en PPSM par programm
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Comment convertir OTT en PPSM via Java" %}}
 1. Ouvrez le fichier OTT à l'aide de la classe [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-2. Convertissez le fichier OTT en HTML en utilisant [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions )) méthode
+2. Convertissez le fichier OTT en HTML en utilisant [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) méthode
 3. Initialisez un nouvel objet [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extrayez le contenu du fichier HTML à l'aide de BufferedReader et écrivez le contenu dans votre fichier de présentation
-6. Enregistrez le ottument dans PPSM à l'aide de la méthode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. Enregistrez le document dans PPSM à l'aide de la méthode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
 Pour la conversion de fichiers OTT en PPSM, vous pouvez facilement utiliser Aspose.Total pour Java directement à partir d'un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) et incluez des bibliothèques dans votre fichier pom.xml.
@@ -35,7 +35,7 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://d
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Exigences de conversion" %}}
-L'API vous permet également de convertir des ottuments OTT protégés par mot de passe en PPSM. Si votre ottument OTT d'entrée est protégé par un mot de passe, vous ne pouvez pas le convertir au format PPSM sans utiliser le mot de passe. Pour ouvrir un ottument crypté, vous pouvez définir le mot de passe correct dans l'objet LoadOptions et le transmettre au constructeur Ottument.  
+L'API vous permet également de convertir des documents OTT protégés par mot de passe en PPSM. Si votre document OTT d'entrée est protégé par un mot de passe, vous ne pouvez pas le convertir au format PPSM sans utiliser le mot de passe. Pour ouvrir un document crypté, vous pouvez définir le mot de passe correct dans l'objet LoadOptions et le transmettre au constructeur Document.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-ott-to-pptx-with-watermark.java" >}}

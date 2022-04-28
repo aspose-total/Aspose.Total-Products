@@ -18,7 +18,7 @@ Az [Aspose.Total for .NET](https://products.aspose.com/total/net/) használatáv
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API a MOBI konvertálásához XLTX-vé" %}}
-1. Nyissa meg a MOBI-fájlt a [Mobiument](https://apireference.aspose.com/words/net/aspose.words/mobiument) osztály használatával
+1. Nyissa meg a MOBI-fájlt a [Document](https://apireference.aspose.com/words/net/aspose.words/mobiument) osztály használatával
 2. Alakítsa át a MOBI-t HTML-vé a [Mentés](https://apireference.aspose.com/words/net/aspose.words.mobiument/save/methods/4) módszerrel
 3. Töltsön be HTML-dokumentumot a [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) osztály használatával
 4. Mentse a dokumentumot XLTX-formátumba a [Mentés](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) metódussal, és állítsa be a „XLTX”-t SaveFormat-ként.
@@ -48,7 +48,7 @@ Az [Aspose.Words for .NET](https://products.aspose.com/words/net/) lehetővé te
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Egyéni tulajdonságok hozzáadása a XLTX-fájlhoz C#-on keresztül" %}}
-Miközben a MOBI-t XLTX-vé alakítja, az [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) lehetővé teszi egyéni tulajdonságok hozzáadását a XLTX-dokumentumokhoz. Egyéni tulajdonság hozzáadásához használhatja az [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection/methods/add/index) metódust a [CustomMobiumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection) osztály. Az Add metódus hozzáadja a tulajdonságot az Excel-fájlhoz, és az új dokumentumtulajdonság hivatkozását adja vissza [Aspose.Cells.Properties.MobiumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) néven. /dokumentumtulajdonság) objektum. 
+Miközben a MOBI-t XLTX-vé alakítja, az [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) lehetővé teszi egyéni tulajdonságok hozzáadását a XLTX-dokumentumokhoz. Egyéni tulajdonság hozzáadásához használhatja az [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection/methods/add/index) metódust a [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection) osztály. Az Add metódus hozzáadja a tulajdonságot az Excel-fájlhoz, és az új dokumentumtulajdonság hivatkozását adja vissza [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) néven. /dokumentumtulajdonság) objektum. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

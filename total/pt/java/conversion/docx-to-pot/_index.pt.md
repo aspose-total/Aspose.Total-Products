@@ -17,7 +17,7 @@ Muitas vezes, os desenvolvedores precisam converter o arquivo DOCX para POT prog
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Como converter DOCX para POT via Java" %}}
 1. Abra o arquivo DOCX usando a classe [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-2. Converta o arquivo DOCX em HTML usando [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions )) método
+2. Converta o arquivo DOCX em HTML usando [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) método
 3. Inicialize um novo objeto [Apresentação](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraia o conteúdo do arquivo HTML usando o BufferedReader e escreva o conteúdo em seu arquivo de apresentação
 6. Salve o documento no POT usando o método [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

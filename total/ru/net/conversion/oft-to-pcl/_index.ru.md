@@ -13,7 +13,7 @@ otherformats: FLATOPC ODT PDF RTF TIFF WORDML PNG DOT MD JPEG GIF DOCX EMF PCL D
 {{< blocks/products/pf/i18n/feature-page-header h1="Экспорт OFT в PCL через .NET" h2=".NET API для преобразования электронной почты в PCL в Windows, macOS и Linux без использования Word или Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Если вы являетесь разработчиком .NET и хотите добавить функции преобразования OFT в PCL в свои приложения, API-интерфейсы для работы с форматами файлов [Aspose.Total for .NET](https://products.aspose.com/total/net/) — это то, что вам нужно. вперед. Используя [Aspose.Oft для .NET](https://products.aspose.com/oft/net/), вы можете преобразовать формат файла OFT в HTML. После этого, используя [Aspose.Words для .NET](https://products.aspose.com/words/net/), вы можете преобразовать HTML в PCL.
+Если вы являетесь разработчиком .NET и хотите добавить функции преобразования OFT в PCL в свои приложения, API-интерфейсы для работы с форматами файлов [Aspose.Total for .NET](https://products.aspose.com/total/net/) — это то, что вам нужно. вперед. Используя [Aspose.Cells для .NET](https://products.aspose.com/oft/net/), вы можете преобразовать формат файла OFT в HTML. После этого, используя [Aspose.Words для .NET](https://products.aspose.com/words/net/), вы можете преобразовать HTML в PCL.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -46,7 +46,7 @@ document.Save("output.pcl", SaveFormat.Pcl);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Разобрать файл OFT через .NET" %}}
-Перед преобразованием OFT в PCL, если вы хотите убедиться, что конвертируете правильное электронное письмо, вы можете загрузить документ OFT, проанализировать его и просмотреть желаемое свойство. Используя класс [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) класса [Aspose.Oft для .NET](https://products.aspose.com/oft /net/) API, вы можете получить информацию об отправителе и получателе. Например, вы можете проверить адрес электронной почты отправителя для конверсии, используя свойство [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
+Перед преобразованием OFT в PCL, если вы хотите убедиться, что конвертируете правильное электронное письмо, вы можете загрузить документ OFT, проанализировать его и просмотреть желаемое свойство. Используя класс [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) класса [Aspose.Cells для .NET](https://products.aspose.com/cells/net/) API, вы можете получить информацию об отправителе и получателе. Например, вы можете проверить адрес электронной почты отправителя для конверсии, используя свойство [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

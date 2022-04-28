@@ -18,7 +18,7 @@ Pomocí [Aspose.Total for .NET](https://products.aspose.com/total/net/) můžete
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API pro převod MOBI do XLTX" %}}
-1. Otevřete soubor MOBI pomocí třídy [Mobiument](https://apireference.aspose.com/words/net/aspose.words/mobiument)
+1. Otevřete soubor MOBI pomocí třídy [Document](https://apireference.aspose.com/words/net/aspose.words/mobiument)
 2. Převeďte MOBI do HTML pomocí metody [Save](https://apireference.aspose.com/words/net/aspose.words.mobiument/save/methods/4)
 3. Načtěte dokument HTML pomocí třídy [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Uložte dokument do formátu XLTX pomocí metody [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) a nastavte „XLTX“ jako SaveFormat
@@ -39,7 +39,7 @@ Případně si stáhněte offline instalační program MSI nebo knihovny DLL v s
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Načíst dokument MOBI ze streamu přes C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) vám také umožňuje načíst dokument MOBI prostřednictvím streamu. Chcete-li otevřít dokument ze streamu, jednoduše předejte objekt streamu, který obsahuje dokument, do konstruktoru [Mobiument](https://apireference.aspose.com/words/net/aspose.words/mobiument). Následující příklad kódu ukazuje, jak otevřít dokument ze streamu:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) vám také umožňuje načíst dokument MOBI prostřednictvím streamu. Chcete-li otevřít dokument ze streamu, jednoduše předejte objekt streamu, který obsahuje dokument, do konstruktoru [Document](https://apireference.aspose.com/words/net/aspose.words/mobiument). Následující příklad kódu ukazuje, jak otevřít dokument ze streamu:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ Případně si stáhněte offline instalační program MSI nebo knihovny DLL v s
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Přidejte uživatelské vlastnosti do souboru XLTX přes C#" %}}
-Při převodu MOBI na XLTX vám [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) umožňuje přidávat do dokumentů XLTX vlastní vlastnosti. Chcete-li přidat vlastní vlastnost, můžete použít metodu [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection/methods/add/index) pro [CustomMobiumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection) třídy. Metoda Add přidá vlastnost do souboru aplikace Excel a vrátí odkaz na novou vlastnost dokumentu jako [Aspose.Cells.Properties.MobiumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /mobiumentproperty) objekt. 
+Při převodu MOBI na XLTX vám [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) umožňuje přidávat do dokumentů XLTX vlastní vlastnosti. Chcete-li přidat vlastní vlastnost, můžete použít metodu [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection/methods/add/index) pro [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection) třídy. Metoda Add přidá vlastnost do souboru aplikace Excel a vrátí odkaz na novou vlastnost dokumentu jako [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /mobiumentproperty) objekt. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

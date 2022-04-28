@@ -17,7 +17,7 @@ otherformats: PPSX PPTM POWERPOINT PPT POTM POT PPS PPSM POTX PPTX CSV DIF FODS 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Πώς να μετατρέψετε το DOTM σε POTM μέσω Java" %}}
 1. Ανοίξτε το αρχείο DOTM χρησιμοποιώντας την κλάση [Dotmument](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument)
-2. Μετατρέψτε το αρχείο DOTM σε HTML χρησιμοποιώντας [save](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,com.aspose.words.SaveOptions )) μέθοδος
+2. Μετατρέψτε το αρχείο DOTM σε HTML χρησιμοποιώντας [save](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,com.aspose.words.SaveOptions)) μέθοδος
 3. Αρχικοποιήστε ένα νέο αντικείμενο [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Εξάγετε περιεχόμενο από αρχείο HTML χρησιμοποιώντας το BufferedReader και γράψτε το περιεχόμενο στο αρχείο παρουσίασής σας
 6. Αποθηκεύστε το έγγραφο στο POTM χρησιμοποιώντας τη μέθοδο [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
@@ -30,14 +30,16 @@ otherformats: PPSX PPTM POWERPOINT PPT POTM POT PPS PPSM POTX PPTX CSV DIF FODS 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-dotm-to-pptx.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Απαιτήσεις μετατροπής" %}}
 Το API σάς επιτρέπει επίσης να μετατρέπετε έγγραφα DOTM που προστατεύονται με κωδικό πρόσβασης σε POTM. Εάν το έγγραφο DOTM εισόδου σας προστατεύεται με κωδικό πρόσβασης, δεν μπορείτε να το μετατρέψετε σε μορφή POTM χωρίς να χρησιμοποιήσετε τον κωδικό πρόσβασης. Για να ανοίξετε ένα κρυπτογραφημένο έγγραφο, μπορείτε να ορίσετε τον σωστό κωδικό πρόσβασης στο αντικείμενο LoadOptions και να τον μεταβιβάσετε στον κατασκευαστή του εγγράφου.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dotm-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dotm-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

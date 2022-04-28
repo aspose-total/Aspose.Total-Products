@@ -18,8 +18,8 @@ otherformats: XLSX XLSM XLS XLT CSV TSV EXCEL XLSB SXC FODS DIF ODS XLTM XLAM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C＃を介してWORDをJSON形式に変換する" %}}
-1. [ドキュメント]（https://apireference.aspose.com/words/net/aspose.words/wordument）クラスを使用してWORDファイルを開きます
-2. [保存]（https://apireference.aspose.com/words/net/aspose.words.wordument/save/methods/4）メソッドを使用してWORDをHTMLに変換します
+1. [ドキュメント]（https://apireference.aspose.com/words/net/aspose.words/document）クラスを使用してWORDファイルを開きます
+2. [保存]（https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4）メソッドを使用してWORDをHTMLに変換します
 3. [ワークブック]（https://apireference.aspose.com/cells/net/aspose.cells/workbook）クラスを使用してHTMLドキュメントをロードします
 4. [保存]（https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4）メソッドを使用してドキュメントをJSON形式で保存します
 {{% /blocks/products/pf/agp/feature-section-col %}}

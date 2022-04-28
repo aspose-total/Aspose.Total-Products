@@ -13,7 +13,7 @@ otherformats: PS SVG XPS MD TEXT PDF OTT DOTX EMF DOCX RTF DOC PCL ODT JPEG GIF 
 {{< blocks/products/pf/i18n/feature-page-header h1="Eksportuj OFT do DOC przez .NET" h2="Interfejs API .NET do renderowania poczty e-mail do DOC w systemach Windows, macOS i Linux bez korzystania z programu Word lub Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Jeśli jesteś programistą .NET i chcesz dodać funkcje konwersji OFT do DOC w swoich aplikacjach, najlepszym rozwiązaniem są interfejsy API [Aspose.Total for .NET](https://products.aspose.com/total/net/) Naprzód. Używając [Aspose.Oft for .NET](https://products.aspose.com/oft/net/), możesz przekonwertować format pliku OFT na HTML. Następnie, używając [Aspose.Words for .NET](https://products.aspose.com/words/net/), możesz renderować HTML do DOC.
+Jeśli jesteś programistą .NET i chcesz dodać funkcje konwersji OFT do DOC w swoich aplikacjach, najlepszym rozwiązaniem są interfejsy API [Aspose.Total for .NET](https://products.aspose.com/total/net/) Naprzód. Używając [Aspose.Cells for .NET](https://products.aspose.com/oft/net/), możesz przekonwertować format pliku OFT na HTML. Następnie, używając [Aspose.Words for .NET](https://products.aspose.com/words/net/), możesz renderować HTML do DOC.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.doc", SaveFormat.Doc);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Przeanalizuj plik OFT przez .NET" %}}
-Przed konwersją OFT na DOC, jeśli chcesz się upewnić, że konwertujesz poprawny e-mail, możesz załadować dokument OFT, przeanalizować go i spojrzeć na żądaną właściwość. Korzystając z klasy [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) [Aspose.Oft for .NET](https://products.aspose.com/oft /net/) API, możesz uzyskać informacje o nadawcy i odbiorcy. Na przykład możesz sprawdzić konkretny adres e-mail nadawcy dla konwersji za pomocą właściwości [NazwaNadawcy](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
+Przed konwersją OFT na DOC, jeśli chcesz się upewnić, że konwertujesz poprawny e-mail, możesz załadować dokument OFT, przeanalizować go i spojrzeć na żądaną właściwość. Korzystając z klasy [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API, możesz uzyskać informacje o nadawcy i odbiorcy. Na przykład możesz sprawdzić konkretny adres e-mail nadawcy dla konwersji za pomocą właściwości [NazwaNadawcy](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

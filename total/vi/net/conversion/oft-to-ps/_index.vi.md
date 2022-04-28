@@ -13,7 +13,7 @@ otherformats: TIFF OTT GIF DOT DOC DOTX EPUB TEXT PS JPEG DOCX MD EMF PCL ODT DO
 {{< blocks/products/pf/i18n/feature-page-header h1="Xuất OFT sang PS qua .NET" h2=".NET API để hiển thị OFT thành PS trên Windows, macOS và Linux mà không cần sử dụng Word hoặc Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Nếu bạn là nhà phát triển .NET đang tìm cách thêm các tính năng chuyển đổi OFT sang PS bên trong ứng dụng của mình, thì API thao tác định dạng tệp [Aspose.Total for .NET](https://products.aspose.com/total/net/) là cách phía trước. Bằng cách sử dụng [Aspose.Oft for .NET](https://products.aspose.com/oft/net/), bạn có thể chuyển đổi định dạng tệp OFT sang HTML. Sau đó, bằng cách sử dụng [Aspose.Words for .NET](https://products.aspose.com/words/net/), bạn có thể kết xuất HTML thành PS.
+Nếu bạn là nhà phát triển .NET đang tìm cách thêm các tính năng chuyển đổi OFT sang PS bên trong ứng dụng của mình, thì API thao tác định dạng tệp [Aspose.Total for .NET](https://products.aspose.com/total/net/) là cách phía trước. Bằng cách sử dụng [Aspose.Cells for .NET](https://products.aspose.com/oft/net/), bạn có thể chuyển đổi định dạng tệp OFT sang HTML. Sau đó, bằng cách sử dụng [Aspose.Words for .NET](https://products.aspose.com/words/net/), bạn có thể kết xuất HTML thành PS.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.ps", SaveFormat.Ps);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Phân tích cú pháp Tệp OFT qua .NET" %}}
-Trước khi chuyển đổi OFT thành PS, nếu bạn muốn đảm bảo rằng bạn đang chuyển đổi đúng oft, bạn có thể tải tài liệu OFT, phân tích cú pháp và xem thuộc tính mong muốn của mình. Bằng cách sử dụng lớp [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) của [Aspose.Oft for .NET](https://products.aspose.com/oft/net/) API, bạn có thể lấy thông tin người gửi và người nhận. Ví dụ: bạn có thể kiểm tra oft của người gửi cụ thể cho việc chuyển đổi bằng cách sử dụng thuộc tính [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
+Trước khi chuyển đổi OFT thành PS, nếu bạn muốn đảm bảo rằng bạn đang chuyển đổi đúng oft, bạn có thể tải tài liệu OFT, phân tích cú pháp và xem thuộc tính mong muốn của mình. Bằng cách sử dụng lớp [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) của [Aspose.Cells for .NET](https://products.aspose.com/oft/net/) API, bạn có thể lấy thông tin người gửi và người nhận. Ví dụ: bạn có thể kiểm tra oft của người gửi cụ thể cho việc chuyển đổi bằng cách sử dụng thuộc tính [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

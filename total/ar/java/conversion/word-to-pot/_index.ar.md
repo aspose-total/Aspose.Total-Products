@@ -16,8 +16,8 @@ otherformats: PPTX POTX PPTM PPSX PPT PPS PPSM POWERPOINT POTM POT CSV DIF FODS 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل WORD إلى POT عبر Java" %}}
-1. افتح ملف WORD باستخدام فئة [Wordument](https://apireference.aspose.com/words/java/com.aspose.words/Wordument)
-2. تحويل ملف WORD إلى HTML باستخدام [Save](https://apireference.aspose.com/words/java/com.aspose.words/Wordument#save (java.lang.String، com.aspose.words.SaveOptions )) طريقة
+1. افتح ملف WORD باستخدام فئة [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. تحويل ملف WORD إلى HTML باستخدام [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String.com.aspose.words.SaveOptions)) طريقة
 3. تهيئة كائن [عرض تقديمي] جديد (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. استخراج المحتوى من ملف HTML باستخدام BufferedReader وكتابة المحتوى في ملف العرض التقديمي الخاص بك
 6. احفظ المستند في POT باستخدام طريقة [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

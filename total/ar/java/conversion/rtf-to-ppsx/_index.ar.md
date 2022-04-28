@@ -17,7 +17,7 @@ otherformats: POWERPOINT PPT POTM PPTM PPSX PPTX PPS PPSM POTX POT CSV DIF FODS 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل RTF إلى PPSX عبر Java" %}}
 1. افتح ملف RTF باستخدام فئة [Rtfument](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument)
-2. تحويل ملف RTF إلى HTML باستخدام [Save](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument#save (java.lang.String، com.aspose.words.SaveOptions )) طريقة
+2. تحويل ملف RTF إلى HTML باستخدام [Save](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument#save(java.lang.String.com.aspose.words.SaveOptions)) طريقة
 3. تهيئة كائن [عرض تقديمي] جديد (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. استخراج المحتوى من ملف HTML باستخدام BufferedReader وكتابة المحتوى في ملف العرض التقديمي الخاص بك
 6. احفظ المستند في PPSX باستخدام طريقة [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

@@ -17,7 +17,7 @@ otherformats: DOT DOTX TEXTX TEXT FLATOPC WORD ODT DOTM OTT WORDML RTF TEXTM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل PPT إلى TEXT عبر Java" %}}
 1. افتح ملف PPT باستخدام فئة [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. تحويل PPT إلى HTML باستخدام [Save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. ISaveOptions-) وتعيين Html كـ SaveFormat
+2. تحويل PPT إلى HTML باستخدام [Save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) وتعيين Html كـ SaveFormat
 3. قم بتحميل ملف HTML المحول باستخدام فئة [Textument](https://apireference.aspose.com/words/java/com.aspose.words/Textument)
 4. احفظ المستند بتنسيق TEXT باستخدام طريقة [Save](https://apireference.aspose.com/words/java/com.aspose.words/Textument#save(java.lang.String.int))
 {{% /blocks/products/pf/agp/feature-section-col %}}

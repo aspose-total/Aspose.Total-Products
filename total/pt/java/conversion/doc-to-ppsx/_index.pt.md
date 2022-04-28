@@ -17,7 +17,7 @@ Muitas vezes, os desenvolvedores precisam converter o arquivo DOC para PPSX prog
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Como converter DOC para PPSX via Java" %}}
 1. Abra o arquivo DOC usando a classe [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-2. Converta o arquivo DOC em HTML usando [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions )) método
+2. Converta o arquivo DOC em HTML usando [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) método
 3. Inicialize um novo objeto [Apresentação](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraia o conteúdo do arquivo HTML usando o BufferedReader e escreva o conteúdo em seu arquivo de apresentação
 6. Salve o documento no PPSX usando o método [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
@@ -30,14 +30,16 @@ Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloa
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisitos de conversão" %}}
 A API também permite converter documentos DOC protegidos por senha em PPSX. Se o documento DOC de entrada estiver protegido por senha, você não poderá convertê-lo para o formato PPSX sem usar a senha. Para abrir um documento criptografado, você pode definir a senha correta no objeto LoadOptions e passá-la para o construtor Document.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-doc-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-doc-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

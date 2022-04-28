@@ -18,8 +18,8 @@ otherformats: XLSX XLTX XLSB XLAM EXCEL XLSM ODS XLS DIF FODS XLTM XLT SXC TSV
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API 将 OTT 转换为 TSV" %}}
-1.使用[Document](https://apireference.aspose.com/words/net/aspose.words/ottument)类打开OTT文件
-2. 使用 [Save](https://apireference.aspose.com/words/net/aspose.words.ottument/save/methods/4) 方法将 OTT 转换为 HTML
+1.使用[Document](https://apireference.aspose.com/words/net/aspose.words/document)类打开OTT文件
+2. 使用 [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) 方法将 OTT 转换为 HTML
 3. 使用 [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) 类加载 HTML 文档
 4. 使用 [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 方法将文档保存为 TSV 格式，并将 `TSV` 设置为 SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -39,7 +39,7 @@ otherformats: XLSX XLTX XLSB XLAM EXCEL XLSM ODS XLS DIF FODS XLTM XLT SXC TSV
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="通过 C# 从 Stream 加载 OTT 文档" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) 还允许您通过流加载 OTT 文档。要从流中打开文档，只需将包含文档的流对象传递给 [Document](https://apireference.aspose.com/words/net/aspose.words/ottument) 构造函数。以下代码示例显示了如何从流中打开文档：  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) 还允许您通过流加载 OTT 文档。要从流中打开文档，只需将包含文档的流对象传递给 [Document](https://apireference.aspose.com/words/net/aspose.words/document) 构造函数。以下代码示例显示了如何从流中打开文档：  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ otherformats: XLSX XLTX XLSB XLAM EXCEL XLSM ODS XLS DIF FODS XLTM XLT SXC TSV
 {{% /blocks/products/pf/feature-page-section %}}
 (https
 {{% blocks/products/pf/feature-page-section  h2="通过 C# 在 TSV 文件中添加自定义属性" %}}
-在将 OTT 转换为 TSV 时，[Aspose.Cells for .NET](https://products.aspose.com/cells/net/) 允许您在 TSV 文档中添加自定义属性。为了添加自定义属性，您可以对 [CustomOttumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customottumentpropertycollection）类。 Add 方法将属性添加到 Excel 文件，并以 [Aspose.Cells.Properties.OttumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) 的形式返回新文档属性的引用/ottumentproperty) 对象。 
+在将 OTT 转换为 TSV 时，[Aspose.Cells for .NET](https://products.aspose.com/cells/net/) 允许您在 TSV 文档中添加自定义属性。为了添加自定义属性，您可以对 [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection）类。 Add 方法将属性添加到 Excel 文件，并以 [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) 的形式返回新文档属性的引用/documentproperty) 对象。 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

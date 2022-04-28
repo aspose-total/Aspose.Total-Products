@@ -42,7 +42,7 @@ otherformats: XLAM XLSM DIF XLT SXC XLTX XLSX TSV ODS XLTM EXCEL FODS XLS XLSB
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Καταργήστε τις αχρησιμοποίητες πληροφορίες από ένα έγγραφο DOCX μέσω Java" %}}
-Μετά τη μετατροπή του DOCX σε SXC, το [Aspose.Cells για Java](https://products.aspose.com/cells/java/) σάς δίνει τη δυνατότητα να αποθηκεύσετε το έγγραφό σας σε ροή. Εάν χρειάζεται να αποθηκεύσετε αρχεία σε μια ροή, τότε θα πρέπει να δημιουργήσετε ένα αντικείμενο FileOutputStream και στη συνέχεια [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io. OutputStream,%20com.aspose.cells.SaveOptions)) το αρχείο σε αυτό το αντικείμενο Stream καλώντας τη μέθοδο αποθήκευσης του [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) αντικείμενο. 
+Μετά τη μετατροπή του DOCX σε SXC, το [Aspose.Cells για Java](https://products.aspose.com/cells/java/) σάς δίνει τη δυνατότητα να αποθηκεύσετε το έγγραφό σας σε ροή. Εάν χρειάζεται να αποθηκεύσετε αρχεία σε μια ροή, τότε θα πρέπει να δημιουργήσετε ένα αντικείμενο FileOutputStream και στη συνέχεια [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions)) το αρχείο σε αυτό το αντικείμενο Stream καλώντας τη μέθοδο αποθήκευσης του [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) αντικείμενο. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}

@@ -16,11 +16,11 @@ Vaak moeten ontwikkelaars het WORD-bestand programmatisch naar PPTX converteren.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hoe WORD naar PPTX te converteren via Java" %}}
-1. Open het WORD-bestand met de klasse [Wordument](https://apireference.aspose.com/words/java/com.aspose.words/Wordument)
-2. Converteer het WORD-bestand naar HTML met behulp van [save](https://apireference.aspose.com/words/java/com.aspose.words/Wordument#save(java.lang.String,com.aspose.words.SaveOptions) )) methode
+1. Open het WORD-bestand met de klasse [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. Converteer het WORD-bestand naar HTML met behulp van [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) )) methode
 3. Initialiseer een nieuw [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) object
 5. Extraheer inhoud uit HTML-bestand met BufferedReader en schrijf de inhoud in uw presentatiebestand
-6. Sla het wordument op in PPTX met de methode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. Sla het document op in PPTX met de methode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
 Voor WORD naar PPTX-bestandsconversie kunt u Aspose.Total voor Java eenvoudig rechtstreeks vanuit een [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) gebaseerd project en neem bibliotheken op in uw pom.xml.
@@ -30,14 +30,16 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-word-to-pptx.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Conversievereisten" %}}
-Met de API kunt u ook met een wachtwoord beveiligde WORD-wordumenten naar PPTX converteren. Als uw WORD-invoerwordument met een wachtwoord is beveiligd, kunt u het niet converteren naar PPTX-indeling zonder het wachtwoord te gebruiken. Om een versleuteld wordument te openen, kunt u het juiste wachtwoord instellen in het object LoadOptions en dit doorgeven aan de wordumentconstructor.  
+Met de API kunt u ook met een wachtwoord beveiligde WORD-documenten naar PPTX converteren. Als uw WORD-invoerdocument met een wachtwoord is beveiligd, kunt u het niet converteren naar PPTX-indeling zonder het wachtwoord te gebruiken. Om een versleuteld document te openen, kunt u het juiste wachtwoord instellen in het object LoadOptions en dit doorgeven aan de documentconstructor.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-word-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-word-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
