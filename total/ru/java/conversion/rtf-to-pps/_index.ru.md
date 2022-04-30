@@ -17,7 +17,7 @@ otherformats: PPSX POWERPOINT PPT PPS POT PPSM PPTX POTM POTX PPTM CSV DIF FODS 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как конвертировать RTF в PPS через Java" %}}
 1. Откройте файл RTF, используя класс [Rtfument](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument).
-2. Преобразуйте файл RTF в HTML, используя [save](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument#save(java.lang.String,com.aspose.words.SaveOptions). )) метод
+2. Преобразуйте файл RTF в HTML, используя [save](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument#save(java.lang.String,com.aspose.words.SaveOptions).)) метод
 3. Инициализируйте новый объект [Презентация](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation).
 5. Извлеките содержимое из файла HTML с помощью BufferedReader и запишите содержимое в файл презентации.
 6. Сохраните документ в PPS, используя метод [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-).

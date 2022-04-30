@@ -19,7 +19,7 @@ otherformats: TGA DICOM JPEG2000 WMZ EMZ PSD WMF DXF SVGZ IMAGE
 1. एक नया [वर्कबुक](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) ऑब्जेक्ट बनाएं और JSON फाइल खोलें
 2. [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions) का उपयोग करके JSON को JPEG के रूप में सेव करें। ) तरीका
 3. [Image](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image) वर्ग का उपयोग करके JPEG दस्तावेज़ लोड करें
-4. [save](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase का उपयोग करके दस्तावेज़ को WMF प्रारूप में सहेजें -) तरीका
+4. [save](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase का उपयोग करके दस्तावेज़ को WMF प्रारूप में सहेजें-) तरीका
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
 आप [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) आधारित प्रोजेक्ट से सीधे Java के लिए Aspose.Total का आसानी से उपयोग कर सकते हैं और अपने pom.xml में पुस्तकालयों को शामिल करें।
@@ -40,9 +40,9 @@ otherformats: TGA DICOM JPEG2000 WMZ EMZ PSD WMF DXF SVGZ IMAGE
 {{< gist "aspose-com-gists" "05eb9605b16ab5de85e0ecb2d7e80b3f" "set-layout-and-parse-json-to-image.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}](](
+{{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="जावा के माध्यम से लेआउट सेट करें और JSON फॉर्मेट को WMF में बदलें" %}}
-एपीआई का उपयोग करके, आप अपने एपीएनजी दस्तावेज़ में वॉटरमार्क के साथ JSON को WMF में भी बदल सकते हैं। वॉटरमार्क जोड़ने के लिए आप पहले JSON को JPEG में बदल सकते हैं और उसमें वॉटरमार्क जोड़ सकते हैं। वॉटरमार्क जोड़ने के लिए, [इमेज](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image) क्लास का इस्तेमाल करके इमेज फ़ाइल लोड करें, [ग्राफ़िक्स](https) का एक ऑब्जेक्ट बनाएं ://apireference.aspose.com/imaging/java/com.aspose.imaging/Graphics) क्लास और इमेज ऑब्जेक्ट के साथ इसे इनिशियलाइज़ करें, एक नया [मैट्रिक्स] बनाएं (https://apireference.aspose.com/imaging/java/ com.aspose.imaging/Matrix) ऑब्जेक्ट और अनुवाद और रूपांतरण को वांछित कोण पर सेट करें और [Graphics.drawString](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Graphics# का उपयोग करके वॉटरमार्क जोड़ें। drawString-java.lang.String-com.aspose.imaging.Font-com.aspose.imaging.Brush-float-float-) विधि। अपनी छवि में वॉटरमार्क जोड़ने के बाद, आप JPEG को WMF प्रारूप के रूप में सहेज सकते हैं। 
+एपीआई का उपयोग करके, आप अपने एपीएनजी दस्तावेज़ में वॉटरमार्क के साथ JSON को WMF में भी बदल सकते हैं। वॉटरमार्क जोड़ने के लिए आप पहले JSON को JPEG में बदल सकते हैं और उसमें वॉटरमार्क जोड़ सकते हैं। वॉटरमार्क जोड़ने के लिए, [इमेज](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image) क्लास का इस्तेमाल करके इमेज फ़ाइल लोड करें, [ग्राफ़िक्स](https) का एक ऑब्जेक्ट बनाएं ://apireference.aspose.com/imaging/java/com.aspose.imaging/Graphics) क्लास और इमेज ऑब्जेक्ट के साथ इसे इनिशियलाइज़ करें, एक नया [मैट्रिक्स] बनाएं (https://apireference.aspose.com/imaging/java/com.aspose.imaging/Matrix) ऑब्जेक्ट और अनुवाद और रूपांतरण को वांछित कोण पर सेट करें और [Graphics.drawString](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Graphics# का उपयोग करके वॉटरमार्क जोड़ें। drawString-java.lang.String-com.aspose.imaging.Font-com.aspose.imaging.Brush-float-float-) विधि। अपनी छवि में वॉटरमार्क जोड़ने के बाद, आप JPEG को WMF प्रारूप के रूप में सहेज सकते हैं। 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "05eb9605b16ab5de85e0ecb2d7e80b3f" "convert-json-to-image-with-watermark.java" >}}

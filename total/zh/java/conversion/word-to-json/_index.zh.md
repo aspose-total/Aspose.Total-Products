@@ -17,7 +17,7 @@ otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="通过 Java 将 WORD 转换为 JSON 格式" %}}
 1. 使用 [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) 类打开 WORD 文件
-2. 使用 [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) 将 WORD 转换为 HTML ） 方法
+2. 使用 [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) 将 WORD 转换为 HTML ) 方法
 3. 使用 [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) 类加载 HTML 文档
 4. 使用 [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.) 将文档保存为 JSON 格式。 SaveOptions)) 方法
 {{% /blocks/products/pf/agp/feature-section-col %}}

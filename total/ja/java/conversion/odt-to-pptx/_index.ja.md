@@ -12,20 +12,20 @@ otherformats: POT PPSX POWERPOINT PPTX PPS PPSM POTM PPTM PPT POTX CSV DIF FODS 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java経由でODTをPPTXに変換する" h2="Microsoft<sup>＆reg;</sup> PowerPointまたはWordを使用せずに、Java J2SE、J2EE、J2MEアプリケーション内でオンプレミスのJavaAPIを使用することによるODTからPPTXへの変換" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-多くの場合、開発者はプログラムでODTファイルをPPTXに変換する必要があります。 FileAutomationJavaライブラリ[Aspose.TotalforJava]（https://products.aspose.com/total/java/）を使用すると、いくつかの簡単な手順でレンダリングプロセスを自動化できます。 [Aspose.Words for Java]（https://products.aspose.com/words/java/）を使用してODTファイルをロードし、HTMLに変換できます。その後、強力なPowerPoint操作Java API [Aspose.Slides for Java]（https://products.aspose.com/slides/java/）を使用して、新しいプレゼンテーションを作成し、その中にHTMLコンテンツを書き込んで、PPTXとして保存できます。 。
+多くの場合、開発者はプログラムでODTファイルをPPTXに変換する必要があります。 FileAutomationJavaライブラリ[Aspose.TotalforJava](https://products.aspose.com/total/java/)を使用すると、いくつかの簡単な手順でレンダリングプロセスを自動化できます。 [Aspose.Words for Java](https://products.aspose.com/words/java/)を使用してODTファイルをロードし、HTMLに変換できます。その後、強力なPowerPoint操作Java API [Aspose.Slides for Java](https://products.aspose.com/slides/java/)を使用して、新しいプレゼンテーションを作成し、その中にHTMLコンテンツを書き込んで、PPTXとして保存できます。 。
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Javaを介してODTをPPTXに変換する方法" %}}
-1. [ドキュメント]（https://apireference.aspose.com/words/java/com.aspose.words/Odtument）クラスを使用してODTファイルを開きます
-2. [save]（https://apireference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String,com.aspose.words.SaveOptions）を使用してODTファイルをHTMLに変換します）） 方法
-3.新しい[プレゼンテーション]（https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation）オブジェクトを初期化します
+1. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Odtument)クラスを使用してODTファイルを開きます
+2. [save](https://apireference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String,com.aspose.words.SaveOptions)を使用してODTファイルをHTMLに変換します)) 方法
+3.新しい[Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)オブジェクトを初期化します
 5. BufferedReaderを使用してHTMLファイルからコンテンツを抽出し、プレゼンテーションファイルにコンテンツを書き込みます
-6. [save]（https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-）メソッドを使用してドキュメントをPPTXに保存します
+6. [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)メソッドを使用してドキュメントをPPTXに保存します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
-ODTからPPTXファイルへの変換では、[Maven]（https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose）から直接Aspose.TotalforJavaを簡単に使用できます。 / aspose-total）ベースのプロジェクトであり、pom.xmlにライブラリを含めます。
+ODTからPPTXファイルへの変換では、[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose)から直接Aspose.TotalforJavaを簡単に使用できます。 / aspose-total)ベースのプロジェクトであり、pom.xmlにライブラリを含めます。
 
-または、[ダウンロード]（https://downloads.aspose.com/total/java）からZIPファイルを取得することもできます。
+または、[ダウンロード](https://downloads.aspose.com/total/java)からZIPファイルを取得することもできます。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

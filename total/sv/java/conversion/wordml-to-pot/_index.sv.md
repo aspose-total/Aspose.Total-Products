@@ -16,8 +16,8 @@ Ofta måste utvecklare konvertera WORDML-fil till POT programmatiskt. Genom att 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hur man konverterar WORDML till POT via Java" %}}
-1. Öppna WORDML-filen med klassen [Wordmlument](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument)
-2. Konvertera WORDML-fil till HTML genom att använda [save](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument#save(java.lang.String,com.aspose.words.SaveOptions)) metod
+1. Öppna WORDML-filen med klassen [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. Konvertera WORDML-fil till HTML genom att använda [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metod
 3. Initiera ett nytt [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) objekt
 5. Extrahera innehåll från HTML-fil med BufferedReader och skriv innehållet i din presentationsfil
 6. Spara dokumentet till POT med metoden [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

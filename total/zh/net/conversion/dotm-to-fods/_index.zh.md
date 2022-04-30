@@ -48,7 +48,7 @@ otherformats: XLSB FODS XLT XLSM XLSX XLTX EXCEL XLAM ODS DIF XLTM XLS SXC TSV
 {{% /blocks/products/pf/feature-page-section %}}
 (https
 {{% blocks/products/pf/feature-page-section  h2="通过 C# 在 FODS 文件中添加自定义属性" %}}
-在将 DOTM 转换为 FODS 时，[Aspose.Cells for .NET](https://products.aspose.com/cells/net/) 允许您在 FODS 文档中添加自定义属性。为了添加自定义属性，您可以对 [CustomDotmumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection）类。 Add 方法将属性添加到 Excel 文件，并以 [Aspose.Cells.Properties.DotmumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) 的形式返回新文档属性的引用/dotmumentproperty) 对象。 
+在将 DOTM 转换为 FODS 时，[Aspose.Cells for .NET](https://products.aspose.com/cells/net/) 允许您在 FODS 文档中添加自定义属性。为了添加自定义属性，您可以对 [CustomDotmumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection)类。 Add 方法将属性添加到 Excel 文件，并以 [Aspose.Cells.Properties.DotmumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) 的形式返回新文档属性的引用/dotmumentproperty) 对象。 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

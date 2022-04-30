@@ -18,10 +18,10 @@ En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), v
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET pour convertir WORDML en ODS" %}}
-1. Ouvrez le fichier WORDML à l'aide de la classe [Wordmlument](https://apireference.aspose.com/words/net/aspose.words/wordmlument)
-2. Convertir WORDML en HTML en utilisant la méthode [Save](https://apireference.aspose.com/words/net/aspose.words.wordmlument/save/methods/4)
-3. Chargez le wordmlument HTML à l'aide de la classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Enregistrez le wordmlument au format ODS à l'aide de la méthode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) et définissez `ODS` comme SaveFormat
+1. Ouvrez le fichier WORDML à l'aide de la classe [Document](https://apireference.aspose.com/words/net/aspose.words/document)
+2. Convertir WORDML en HTML en utilisant la méthode [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. Chargez le document HTML à l'aide de la classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+4. Enregistrez le document au format ODS à l'aide de la méthode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) et définissez `ODS` comme SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
@@ -38,8 +38,8 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Charger le wordmlument WORDML à partir du flux via C#" %}}
-[Aspose.Words pour .NET](https://products.aspose.com/words/net/) vous permet également de charger un wordmlument WORDML via un flux. Pour ouvrir un wordmlument à partir d'un flux, transmettez simplement un objet de flux contenant le wordmlument dans le constructeur [Wordmlument](https://apireference.aspose.com/words/net/aspose.words/wordmlument). L'exemple de code suivant montre comment ouvrir un wordmlument à partir d'un flux :  
+{{% blocks/products/pf/feature-page-section  h2="Charger le document WORDML à partir du flux via C#" %}}
+[Aspose.Words pour .NET](https://products.aspose.com/words/net/) vous permet également de charger un document WORDML via un flux. Pour ouvrir un document à partir d'un flux, transmettez simplement un objet de flux contenant le document dans le constructeur [Document](https://apireference.aspose.com/words/net/aspose.words/document). L'exemple de code suivant montre comment ouvrir un document à partir d'un flux :  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ajouter des propriétés personnalisées dans le fichier ODS via C#" %}}
-Lors de la conversion de WORDML en ODS, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) vous permet d'ajouter des propriétés personnalisées dans vos wordmluments ODS. Pour ajouter une propriété personnalisée, vous pouvez utiliser la méthode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customwordmlumentpropertycollection/methods/add/index) pour la [CustomWordmlumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customwordmlumentpropertycollection). La méthode Add ajoute la propriété au fichier Excel et renvoie une référence pour la nouvelle propriété de wordmlument en tant que [Aspose.Cells.Properties.WordmlumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /wordmlumentpropriété). 
+Lors de la conversion de WORDML en ODS, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) vous permet d'ajouter des propriétés personnalisées dans vos documents ODS. Pour ajouter une propriété personnalisée, vous pouvez utiliser la méthode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) pour la [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection). La méthode Add ajoute la propriété au fichier Excel et renvoie une référence pour la nouvelle propriété de document en tant que [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /documentpropriété). 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

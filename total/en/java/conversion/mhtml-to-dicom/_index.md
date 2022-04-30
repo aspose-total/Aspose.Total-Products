@@ -19,7 +19,7 @@ You can convert mhtml file to DICOM image in Java in two simple steps. Firstly, 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Export MHTML to DICOM via Java" %}}
 1. Open MHTML file using [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Initialize [JpegDevice](JpegDevice) class object and render MHTML to JPEG by using [Process](https://apireference.aspose.com/pdf/java/com.aspose.pdf.devices/JpegDevice#process-com.aspose.pdf.Page-java.io.OutputStream-) method
+2. Initialize class object and render MHTML to JPEG by using [Process](https://apireference.aspose.com/pdf/java/com.aspose.pdf.devices/JpegDevice#process-com.aspose.pdf.Page-java.io.OutputStream-) method
 3. Load JPEG file by using [Image](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image) class 
 4. Save the document to DICOM format using [save](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase-) method
 {{% /blocks/products/pf/agp/feature-section-col %}}

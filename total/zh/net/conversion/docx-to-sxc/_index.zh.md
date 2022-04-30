@@ -48,7 +48,7 @@ otherformats: TSV XLSB XLTX XLSX ODS FODS EXCEL DIF XLSM XLS SXC XLT XLTM XLAM
 {{% /blocks/products/pf/feature-page-section %}}
 (https
 {{% blocks/products/pf/feature-page-section  h2="通过 C# 在 SXC 文件中添加自定义属性" %}}
-在将 DOCX 转换为 SXC 时，[Aspose.Cells for .NET](https://products.aspose.com/cells/net/) 允许您在 SXC 文档中添加自定义属性。为了添加自定义属性，您可以对 [CustomDocxumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocxumentpropertycollection）类。 Add 方法将属性添加到 Excel 文件，并以 [Aspose.Cells.Properties.DocxumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) 的形式返回新文档属性的引用/docxumentproperty) 对象。 
+在将 DOCX 转换为 SXC 时，[Aspose.Cells for .NET](https://products.aspose.com/cells/net/) 允许您在 SXC 文档中添加自定义属性。为了添加自定义属性，您可以对 [CustomDocxumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocxumentpropertycollection)类。 Add 方法将属性添加到 Excel 文件，并以 [Aspose.Cells.Properties.DocxumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) 的形式返回新文档属性的引用/docxumentproperty) 对象。 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

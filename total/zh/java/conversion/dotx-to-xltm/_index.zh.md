@@ -17,7 +17,7 @@ otherformats: XLSX TSV SXC XLSB XLTM XLT FODS EXCEL ODS XLTX DIF XLAM XLSM XLS
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="将 DOTX 转换为 XLTM 的 C++ API" %}}
 1. 使用 [Dotxument](https://apireference.aspose.com/words/java/com.aspose.words/Document) 类打开 DOTX 文件
-2. 使用 [Save](https://apireference.aspose.com/words/java/com.aspose.words/Dotxument#save(java.lang.String,com.aspose.words.SaveOptions) 将 DOTX 转换为 HTML ） 方法
+2. 使用 [Save](https://apireference.aspose.com/words/java/com.aspose.words/Dotxument#save(java.lang.String,com.aspose.words.SaveOptions) 将 DOTX 转换为 HTML ) 方法
 3. 使用 [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) 类加载 HTML 文档
 4. 使用 [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells) 将文档保存为 XLTM 格式。 SaveOptions)) 方法
 {{% /blocks/products/pf/agp/feature-section-col %}}

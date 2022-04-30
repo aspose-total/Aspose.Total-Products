@@ -17,7 +17,7 @@ otherformats: POT PPTM POTM PPSM PPTX PPS POWERPOINT POTX PPSX PPT CSV DIF FODS 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="如何通过 Java 将 TXT 转换为 PPSM" %}}
 1. 使用 [Txtument](https://apireference.aspose.com/words/java/com.aspose.words/Txtument) 类打开 TXT 文件
-2. 使用 [save](https://apireference.aspose.com/words/java/com.aspose.words/Txtument#save(java.lang.String,com.aspose.words.SaveOptions) 将 TXT 文件转换为 HTML ）） 方法
+2. 使用 [save](https://apireference.aspose.com/words/java/com.aspose.words/Txtument#save(java.lang.String,com.aspose.words.SaveOptions) 将 TXT 文件转换为 HTML)) 方法
 3.初始化一个新的[Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)对象
 5. 使用 BufferedReader 从 HTML 文件中提取内容并将内容写入您的演示文件
 6. 使用 [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) 方法将文档保存到 PPSM
@@ -30,14 +30,16 @@ otherformats: POT PPTM POTM PPSM PPTX PPS POWERPOINT POTX PPSX PPT CSV DIF FODS 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-txt-to-pptx.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="转换要求" %}}
 该 API 还允许您将受密码保护的 TXT 文档转换为 PPSM。如果您输入的 TXT 文档受密码保护，则您无法在不使用密码的情况下将其转换为 PPSM 格式。为了打开加密文档，您可以在 LoadOptions 对象中设置正确的密码并将其传递给 Txtument 构造函数。  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-txt-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-txt-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

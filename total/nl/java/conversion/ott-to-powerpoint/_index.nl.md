@@ -17,7 +17,7 @@ Vaak moeten ontwikkelaars het OTT-bestand programmatisch naar POWERPOINT convert
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hoe OTT naar POWERPOINT te converteren via Java" %}}
 1. Open het OTT-bestand met de klasse [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-2. Converteer het OTT-bestand naar HTML met behulp van [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) )) methode
+2. Converteer het OTT-bestand naar HTML met behulp van [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) methode
 3. Initialiseer een nieuw [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) object
 5. Extraheer inhoud uit HTML-bestand met BufferedReader en schrijf de inhoud in uw presentatiebestand
 6. Sla het document op in POWERPOINT met de methode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

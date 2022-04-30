@@ -13,21 +13,21 @@ otherformats: FLATOPC RTF DOCX DOCM PCL SVG PNG ODT DOTM XPS JPEG OTT DOT TEXT M
 {{< blocks/products/pf/i18n/feature-page-header h1=".NET経由でEメールをEPUBにエクスポート" h2="WordやOutlookを使用せずにWindows、macOS、LinuxでOFTをEPUBにレンダリングする.NET API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-アプリケーション内にOFTからEPUBへの変換機能を追加しようとしている.NET開発者の場合、[Aspose.Total for .NET]（https://products.aspose.com/total/net/）ファイル形式操作APIがその方法です。前方。 [Aspose.Cells for .NET]（https://products.aspose.com/oft/net/）を使用すると、OFTファイル形式をHTMLに変換できます。その後、[Aspose.Words for .NET]（https://products.aspose.com/words/net/）を使用して、HTMLをEPUBにレンダリングできます。
+アプリケーション内にOFTからEPUBへの変換機能を追加しようとしている.NET開発者の場合、[Aspose.Total for .NET](https://products.aspose.com/total/net/)ファイル形式操作APIがその方法です。前方。 [Aspose.Cells for .NET](https://products.aspose.com/oft/net/)を使用すると、OFTファイル形式をHTMLに変換できます。その後、[Aspose.Words for .NET](https://products.aspose.com/words/net/)を使用して、HTMLをEPUBにレンダリングできます。
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="OFTをEPUBに変換するC＃API" %}}
-1. [MailMessage]（https://apireference.aspose.com/oft/net/aspose.oft/mailmessage）クラスを使用してOFTファイルを開きます
-2. [保存]（https://apireference.aspose.com/oft/net/aspose.oft.mailmessage/save/methods/3）メソッドを使用してOFTをHTMLに変換します
-3. [Document]（https://apireference.aspose.com/words/net/aspose.words/document）クラスを使用してHTMLをロードします
-4. [保存]（https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4）メソッドを使用してドキュメントをEPUB形式で保存し、EpubをSaveFormatとして設定します
+1. [MailMessage](https://apireference.aspose.com/oft/net/aspose.oft/mailmessage)クラスを使用してOFTファイルを開きます
+2. [保存](https://apireference.aspose.com/oft/net/aspose.oft.mailmessage/save/methods/3)メソッドを使用してOFTをHTMLに変換します
+3. [Document](https://apireference.aspose.com/words/net/aspose.words/document)クラスを使用してHTMLをロードします
+4. [保存](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してドキュメントをEPUB形式で保存し、EpubをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 コマンドラインから```nuget install Aspose.Total```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから```Install-PackageAspose.Total```を使用してインストールします。
 
-または、[ダウンロード]（https://downloads.aspose.com/total/net）からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
+または、[ダウンロード](https://downloads.aspose.com/total/net)からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
@@ -47,7 +47,7 @@ document.Save("output.epub", SaveFormat.Epub);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2=".NET経由でOFTファイルを解析する" %}}Aspose.Cells
-OFTをEPUBに変換する前に、正しい電子メールを変換していることを確認したい場合は、OFTドキュメントをロードして解析し、目的のプロパティを確認できます。 [Aspose.Oft for .NET]（https://products.aspose.com/oft）の[MapiMessage]（https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage）クラスを使用する/ net /）API、送信者と受信者の情報を取得できます。たとえば、[SenderName]（https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername）プロパティを使用して、変換用の特定の送信者メールを確認できます。  
+OFTをEPUBに変換する前に、正しい電子メールを変換していることを確認したい場合は、OFTドキュメントをロードして解析し、目的のプロパティを確認できます。 [Aspose.Oft for .NET](https://products.aspose.com/oft)の[MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage)クラスを使用する/ net /)API、送信者と受信者の情報を取得できます。たとえば、[SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername)プロパティを使用して、変換用の特定の送信者メールを確認できます。  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -63,7 +63,7 @@ if(outlookMessageFile.SenderName == "John"){
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2=".NETを介したEPUBドキュメントの編集を制限する" %}}
-ドキュメントをOFTからEPUBに保存するときに、出力ドキュメントを保護する必要がある場合があります。ドキュメントを編集する機能を制限し、特定のアクションのみを許可する必要がある場合があります。これは、他の人がドキュメント内の機密情報を編集するのを防ぐのに役立ちます。 [Aspose.Words for .NET]（https://products.aspose.com/words/net/）APIを使用すると、[ProtectionType]（https：//apireference.aspose）を使用してコンテンツを制限する方法を制御できます。 com / words / net / aspose.words / propertytype）列挙型パラメーター。次のコード行を使用して、ドキュメントを読み取り専用に設定できます。 
+ドキュメントをOFTからEPUBに保存するときに、出力ドキュメントを保護する必要がある場合があります。ドキュメントを編集する機能を制限し、特定のアクションのみを許可する必要がある場合があります。これは、他の人がドキュメント内の機密情報を編集するのを防ぐのに役立ちます。 [Aspose.Words for .NET](https://products.aspose.com/words/net/)APIを使用すると、[ProtectionType](https：//apireference.aspose)を使用してコンテンツを制限する方法を制御できます。 com / words / net / aspose.words / propertytype)列挙型パラメーター。次のコード行を使用して、ドキュメントを読み取り専用に設定できます。 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

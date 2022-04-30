@@ -17,7 +17,7 @@ otherformats: PPS PPTM POTM PPTX PPT PPSM POT POTX POWERPOINT PPSX CSV DIF FODS 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как конвертировать WORD в PPTM через Java" %}}
 1. Откройте файл WORD, используя класс [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document).
-2. Преобразуйте файл WORD в HTML, используя [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions). )) метод
+2. Преобразуйте файл WORD в HTML, используя [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions).)) метод
 3. Инициализируйте новый объект [Презентация](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation).
 5. Извлеките содержимое из файла HTML с помощью BufferedReader и запишите содержимое в файл презентации.
 6. Сохраните документ в PPTM, используя метод [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-).

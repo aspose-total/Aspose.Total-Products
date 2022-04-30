@@ -12,19 +12,19 @@ otherformats: ODT OTTM DOTX OTTX TEXT DOT FLATOPC OTT WORDML DOTM WORD RTF
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java経由でPPSMをOTTに変換する" h2="任意のJavaJ2SE、J2EE、J2MEアプリケーション内でのPowerPointPPSMからOTTへの変換のためのオンプレミスJavaAPI" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Java]（https://products.aspose.com/total/java/）ファイル形式自動化ライブラリにより、Java開発者はPowerPointPPSMからWordOTTへのバッチ変換プロセスを自動化できます。ドキュメントの変換は2段階のプロセスであり、2つのAPIを使用する必要があります。 PPSMをHTMLに変換するためのプレゼンテーションの操作と管理のためのPowerPointAPIである[Aspose.SlidesforJava]（https://products.aspose.com/slides/java/）を使用します。その後、機能豊富なワードプロセッシングAPI [Aspose.Words for Java]（https://products.aspose.com/words/java/）を使用して、HTMLをOTTに変換します。
+[Aspose.Total for Java](https://products.aspose.com/total/java/)ファイル形式自動化ライブラリにより、Java開発者はPowerPointPPSMからWordOTTへのバッチ変換プロセスを自動化できます。ドキュメントの変換は2段階のプロセスであり、2つのAPIを使用する必要があります。 PPSMをHTMLに変換するためのプレゼンテーションの操作と管理のためのPowerPointAPIである[Aspose.Slides for Java](https://products.aspose.com/slides/java/)を使用します。その後、機能豊富なワードプロセッシングAPI [Aspose.Words for Java](https://products.aspose.com/words/java/)を使用して、HTMLをOTTに変換します。
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Javaを介してPPSMをOTTに変換する方法" %}}
-1. [プレゼンテーション]（https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation）クラスを使用してPPSMファイルを開きます
-2. [save]（https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slidesを使用してPPSMをHTMLに変換します。 ISaveOptions-）メソッドを使用し、HtmlをSaveFormatとして設定します
-3. [Document]（https://apireference.aspose.com/words/java/com.aspose.words/Document）クラスを使用して変換されたHTMLファイルをロードします
-4. [save]（https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int））メソッドを使用してドキュメントをOTT形式で保存します
+1. [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)クラスを使用してPPSMファイルを開きます
+2. [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slidesを使用してPPSMをHTMLに変換します。 ISaveOptions-)メソッドを使用し、HtmlをSaveFormatとして設定します
+3. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)クラスを使用して変換されたHTMLファイルをロードします
+4. [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))メソッドを使用してドキュメントをOTT形式で保存します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
-PPSMからOTTファイルへの変換では、[Maven]（https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose）から直接Aspose.TotalforJavaを簡単に使用できます。 / aspose-total）ベースのプロジェクトであり、pom.xmlにライブラリを含めます。
+PPSMからOTTファイルへの変換では、[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose)から直接Aspose.TotalforJavaを簡単に使用できます。 / aspose-total)ベースのプロジェクトであり、pom.xmlにライブラリを含めます。
 
-または、[ダウンロード]（https://downloads.aspose.com/total/java）からZIPファイルを取得することもできます。
+または、[ダウンロード](https://downloads.aspose.com/total/java)からZIPファイルを取得することもできます。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 
@@ -34,7 +34,7 @@ PPSMからOTTファイルへの変換では、[Maven]（https://repository.aspos
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="変換要件" %}}DocumentDocument
-APIを使用して、透かしを使用してPPSMファイルからOTTへの変換を実行することもできます。 OTTドキュメントに透かしを追加するには、最初にPPSMファイルをHTMLに変換し、それに透かしを追加します。透かしを追加するには、[Ottument]（https://apireference.aspose.com/words/java/com.aspose.words/Ottument）クラスを使用して新しく作成したHTMLファイルをロードし、TextWatermarkOptionsのインスタンスを作成して設定します。そのプロパティ、Watermark.setTextメソッドを呼び出し、TextWatermarkOptionsの透かしテキストとオブジェクトを渡します。  
+APIを使用して、透かしを使用してPPSMファイルからOTTへの変換を実行することもできます。 OTTドキュメントに透かしを追加するには、最初にPPSMファイルをHTMLに変換し、それに透かしを追加します。透かしを追加するには、[Ottument](https://apireference.aspose.com/words/java/com.aspose.words/Ottument)クラスを使用して新しく作成したHTMLファイルをロードし、TextWatermarkOptionsのインスタンスを作成して設定します。そのプロパティ、Watermark.setTextメソッドを呼び出し、TextWatermarkOptionsの透かしテキストとオブジェクトを渡します。  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}

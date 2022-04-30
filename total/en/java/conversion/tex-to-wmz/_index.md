@@ -19,7 +19,7 @@ You can convert tex file to WMZ image in Java in two simple steps. Firstly, by u
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Export TEX to WMZ via Java" %}}
 1. Open TEX file using [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Initialize [JpegDevice](JpegDevice) class object and render TEX to JPEG by using [Process](https://apireference.aspose.com/pdf/java/com.aspose.pdf.devices/JpegDevice#process-com.aspose.pdf.Page-java.io.OutputStream-) method
+2. Initialize class object and render TEX to JPEG by using [Process](https://apireference.aspose.com/pdf/java/com.aspose.pdf.devices/JpegDevice#process-com.aspose.pdf.Page-java.io.OutputStream-) method
 3. Load JPEG file by using [Image](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image) class 
 4. Save the document to WMZ format using [save](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase-) method
 {{% /blocks/products/pf/agp/feature-section-col %}}

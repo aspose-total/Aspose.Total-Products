@@ -40,7 +40,7 @@ Voordat u DOTX naar XLS converteert, kunt u ongebruikte informatie uit het DOTX-
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-protected-word-to-excel.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}(https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions))
+{{% /blocks/products/pf/feature-page-section %}}https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions))
 {{% blocks/products/pf/feature-page-section  h2="Verwijder ongebruikte informatie uit een DOTX-dotxument via Java" %}}
 Na het converteren van DOTX naar XLS, kunt u met [Aspose.Cells for Java](https://products.aspose.com/cells/java/) uw dotxument opslaan om te streamen. Als u bestanden naar een stream moet opslaan, moet u een FileOutputStream-object maken en vervolgens [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions)) het bestand naar dat Stream-object door de opslagmethode van [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) aan te roepen voorwerp. 
 {{% blocks/products/pf/feature-page-code %}}

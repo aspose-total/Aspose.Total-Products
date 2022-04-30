@@ -48,7 +48,7 @@ otherformats: XLAM ODS TSV XLT FODS XLSX DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 {{% /blocks/products/pf/feature-page-section %}}
 (https
 {{% blocks/products/pf/feature-page-section  h2="通过 C# 在 XLSX 文件中添加自定义属性" %}}
-在将 DOTX 转换为 XLSX 时，[Aspose.Cells for .NET](https://products.aspose.com/cells/net/) 允许您在 XLSX 文档中添加自定义属性。为了添加自定义属性，您可以对 [CustomDotxumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotxumentpropertycollection）类。 Add 方法将属性添加到 Excel 文件，并以 [Aspose.Cells.Properties.DotxumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) 的形式返回新文档属性的引用/dotxumentproperty) 对象。 
+在将 DOTX 转换为 XLSX 时，[Aspose.Cells for .NET](https://products.aspose.com/cells/net/) 允许您在 XLSX 文档中添加自定义属性。为了添加自定义属性，您可以对 [CustomDotxumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotxumentpropertycollection)类。 Add 方法将属性添加到 Excel 文件，并以 [Aspose.Cells.Properties.DotxumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) 的形式返回新文档属性的引用/dotxumentproperty) 对象。 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}

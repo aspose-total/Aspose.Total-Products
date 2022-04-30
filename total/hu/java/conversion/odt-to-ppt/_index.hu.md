@@ -17,7 +17,7 @@ A fejlesztőknek gyakran programozottan kell konvertálniuk a ODT fájlt PPT-vé
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hogyan lehet ODT-t PPT-vé konvertálni Java-n keresztül" %}}
 1. Nyissa meg a ODT-fájlt a [Odtument](https://apireference.aspose.com/words/java/com.aspose.words/Odtument) osztály használatával
-2. Alakítsa át a ODT fájlt HTML formátumba a [save](https://apireference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String,com.aspose.words.SaveOptions) segítségével )) módszer
+2. Alakítsa át a ODT fájlt HTML formátumba a [save](https://apireference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String,com.aspose.words.SaveOptions) segítségével)) módszer
 3. Inicializáljon egy új [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) objektumot
 5. Bontsa ki a tartalmat a HTML-fájlból a BufferedReader segítségével, és írja be a tartalmat a bemutatófájlba
 6. Mentse a dokumentumot az PPT-be a [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) módszerrel

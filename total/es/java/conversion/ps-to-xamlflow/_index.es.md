@@ -41,7 +41,7 @@ outputDocument.save("output.xaml_flow", SaveFormat.XAML_FLOW);
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Requisitos de conversión" %}}](
+{{% blocks/products/pf/feature-page-section  h2="Requisitos de conversión" %}}
 Mientras convierte PS a XAMLFLOW, incluso si su documento está protegido con contraseña, aún puede abrirlo usando la API de manipulación de PDF [Aspose.PDF para Java](https://docs.aspose.com/pdf/java/installation/). Para abrir el archivo cifrado, debe crear un objeto [Documento](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) y abrir el PS con la contraseña del propietario.  
 {{% blocks/products/pf/feature-page-code %}}
 

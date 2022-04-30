@@ -27,21 +27,24 @@ U kunt Aspose.Total voor Java gemakkelijk rechtstreeks vanuit een op [Maven](htt
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d25bc6acc71106757fdc028e2cdd660b" "convert-pdf-to-excel.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Conversievereisten" %}}
+{{% blocks/products/pf/feature-page-section  h2="Conversievereisten" %}}String-java.lang.String-
 Als uw XSLFO-document met een wachtwoord is beveiligd, kunt u het niet converteren naar XLAM zonder het wachtwoord. Met behulp van de API kunt u eerst het beveiligde document openen met een geldig wachtwoord en het daarna converteren. Om het versleutelde bestand te openen, kunt u een nieuwe instantie van het [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String- java.lang.String-) class en geef bestandsnaam en wachtwoord door als argumenten.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d25bc6acc71106757fdc028e2cdd660b" "convert-protected-pdf-to-excel.java" >}}
+{{< gist "aspose-com-gists" "d25bc6acc71106757fdc028e2cdd660b" "convert-protected-pdf-to-excel.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Converteer beveiligde XSLFO naar XLAM via Java" %}}
 Tijdens het converteren van het XSLFO-bestand naar XLAM, kunt u ook een watermerk toevoegen aan uw uitvoer-XLAM-bestandsformaat. Om een watermerk toe te voegen, maakt u een nieuwe werkmap om het geconverteerde XLSX-bestand te openen. Selecteer werkblad via de index, maak een vorm en gebruik de functie addTextEffect, stel kleuren, transparantie en meer in. Daarna kunt u uw XLSX-document opslaan als XLAM met Watermark. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d25bc6acc71106757fdc028e2cdd660b" "convert-pdf-to-excel-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "d25bc6acc71106757fdc028e2cdd660b" "convert-pdf-to-excel-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

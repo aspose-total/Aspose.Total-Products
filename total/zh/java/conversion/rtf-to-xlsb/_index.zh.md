@@ -17,7 +17,7 @@ otherformats: ODS EXCEL XLTM XLT XLTX XLSX XLSM XLSB FODS TSV SXC XLAM DIF XLS
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="将 RTF 转换为 XLSB 的 C++ API" %}}
 1. 使用 [Rtfument](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument) 类打开 RTF 文件
-2. 使用 [Save](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument#save(java.lang.String,com.aspose.words.SaveOptions) 将 RTF 转换为 HTML ） 方法
+2. 使用 [Save](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument#save(java.lang.String,com.aspose.words.SaveOptions) 将 RTF 转换为 HTML ) 方法
 3. 使用 [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) 类加载 HTML 文档
 4. 使用 [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells) 将文档保存为 XLSB 格式。 SaveOptions)) 方法
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -40,7 +40,7 @@ otherformats: ODS EXCEL XLTM XLT XLTX XLSX XLSM XLSB FODS TSV SXC XLAM DIF XLS
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-rtfument.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}(https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions))
+{{% /blocks/products/pf/feature-page-section %}}https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions))
 {{% blocks/products/pf/feature-page-section  h2="通过 Java 将 XLSB 文件保存到流" %}}
 将 RTF 转换为 XLSB 后，[Aspose.Cells for Java](https://products.aspose.com/cells/java/) 使您能够将文档保存为流式传输。如果您需要将文件保存到 Stream 那么您应该创建一个 FileOutputStream 对象，然后 [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions)) 通过调用 [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) 的 save 方法将文件保存到该 Stream 对象目的。 
 {{% blocks/products/pf/feature-page-code %}}

@@ -17,7 +17,7 @@ otherformats: PPTX POT PPS PPTM POTX POTM PPSX POWERPOINT PPSM PPT CSV DIF FODS 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как конвертировать DOT в ODP через Java" %}}
 1. Откройте файл DOT, используя класс [Dotument](https://apireference.aspose.com/words/java/com.aspose.words/Dotument).
-2. Преобразуйте файл DOT в HTML, используя [save](https://apireference.aspose.com/words/java/com.aspose.words/Dotument#save(java.lang.String,com.aspose.words.SaveOptions). )) метод
+2. Преобразуйте файл DOT в HTML, используя [save](https://apireference.aspose.com/words/java/com.aspose.words/Dotument#save(java.lang.String,com.aspose.words.SaveOptions).)) метод
 3. Инициализируйте новый объект [Презентация](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation).
 5. Извлеките содержимое из файла HTML с помощью BufferedReader и запишите содержимое в файл презентации.
 6. Сохраните документ в ODP, используя метод [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-).

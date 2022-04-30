@@ -17,7 +17,7 @@ otherformats: RTF OTT DOTX WORDML PS FLATOPC DOTM MARKDOWN XAMLFLOW PCL MHTML DO
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java API 将 MD 转换为 WORDML" %}}
 1.使用[Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)类打开MD文件
-2.使用[save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-将MD转换为DOC ） 方法
+2.使用[save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-将MD转换为DOC ) 方法
 3.使用Aspose.Words的[Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)类加载DOC文件
 4. 使用 [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) 方法将文档保存为 WORDML 格式并设置 WORDML保存格式
 {{% /blocks/products/pf/agp/feature-section-col %}}

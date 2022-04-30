@@ -17,7 +17,7 @@ otherformats: PPS PPT POTX PPTX PPSM PPTM POTM POWERPOINT POT PPSX CSV DIF FODS 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как конвертировать FLATOPC в POT через Java" %}}
 1. Откройте файл FLATOPC, используя класс [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument).
-2. Преобразуйте файл FLATOPC в HTML, используя [save](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,com.aspose.words.SaveOptions). )) метод
+2. Преобразуйте файл FLATOPC в HTML, используя [save](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,com.aspose.words.SaveOptions).)) метод
 3. Инициализируйте новый объект [Презентация](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation).
 5. Извлеките содержимое из файла HTML с помощью BufferedReader и запишите содержимое в файл презентации.
 6. Сохраните документ в POT, используя метод [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-).

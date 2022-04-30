@@ -17,7 +17,7 @@ Często programiści muszą programowo przekonwertować plik DOCM na PPS. Korzys
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak przekonwertować DOCM na PPS za pomocą Javy?" %}}
 1. Otwórz plik DOCM za pomocą klasy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-2. Przekonwertuj plik DOCM na HTML za pomocą [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) )) metoda
+2. Przekonwertuj plik DOCM na HTML za pomocą [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) metoda
 3. Zainicjuj nowy obiekt [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Wyodrębnij zawartość z pliku HTML za pomocą BufferedReader i zapisz zawartość w pliku prezentacji
 6. Zapisz dokument w PPS za pomocą metody [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

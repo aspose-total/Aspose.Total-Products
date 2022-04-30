@@ -13,21 +13,21 @@ otherformats: PS EPUB PNG TEXT JPEG TIFF GIF MD FLATOPC EMF XPS ODT DOTM DOCX PC
 {{< blocks/products/pf/i18n/feature-page-header h1=".NET経由でEメールをPCLにエクスポート" h2="WordやOutlookを使用せずにWindows、macOS、LinuxでEMLXをPCLにレンダリングする.NET API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-アプリケーション内にEMLXからPCLへの変換機能を追加しようとしている.NET開発者の場合、[Aspose.Total for .NET]（https://products.aspose.com/total/net/）ファイル形式操作APIがその方法です。前方。 [Aspose.Emlx for .NET]（https://products.aspose.com/emlx/net/）を使用すると、EMLXファイル形式をHTMLに変換できます。その後、[Aspose.Words for .NET]（https://products.aspose.com/words/net/）を使用して、HTMLをPCLにレンダリングできます。
+アプリケーション内にEMLXからPCLへの変換機能を追加しようとしている.NET開発者の場合、[Aspose.Total for .NET](https://products.aspose.com/total/net/)ファイル形式操作APIがその方法です。前方。 [Aspose.Emlx for .NET](https://products.aspose.com/emlx/net/)を使用すると、EMLXファイル形式をHTMLに変換できます。その後、[Aspose.Words for .NET](https://products.aspose.com/words/net/)を使用して、HTMLをPCLにレンダリングできます。
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="EMLXをPCLに変換するC＃API" %}}
-1. [MailMessage]（https://apireference.aspose.com/emlx/net/aspose.emlx/mailmessage）クラスを使用してEMLXファイルを開きます
-2. [保存]（https://apireference.aspose.com/emlx/net/aspose.emlx.mailmessage/save/methods/3）メソッドを使用してEMLXをHTMLに変換します
-3. [Document]（https://apireference.aspose.com/words/net/aspose.words/document）クラスを使用してHTMLをロードします
-4. [保存]（https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4）メソッドを使用してドキュメントをPCL形式で保存し、PclをSaveFormatとして設定します
+1. [MailMessage](https://apireference.aspose.com/emlx/net/aspose.emlx/mailmessage)クラスを使用してEMLXファイルを開きます
+2. [保存](https://apireference.aspose.com/emlx/net/aspose.emlx.mailmessage/save/methods/3)メソッドを使用してEMLXをHTMLに変換します
+3. [Document](https://apireference.aspose.com/words/net/aspose.words/document)クラスを使用してHTMLをロードします
+4. [保存](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してドキュメントをPCL形式で保存し、PclをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 コマンドラインから```nuget install Aspose.Total```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから```Install-PackageAspose.Total```を使用してインストールします。
 
-または、[ダウンロード]（https://downloads.aspose.com/total/net）からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
+または、[ダウンロード](https://downloads.aspose.com/total/net)からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
@@ -41,12 +41,13 @@ message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
 Document document = new Document("HtmlOutput.html");
 
 document.Save("output.pcl", SaveFormat.Pcl); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2=".NET経由でEMLXファイルを解析する" %}}
-EMLXをPCLに変換する前に、正しい電子メールを変換していることを確認したい場合は、EMLXドキュメントをロードして解析し、目的のプロパティを確認できます。 [Aspose.Emlx for .NET]（https://products.aspose.com/emlx）の[MapiMessage]（https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage）クラスを使用する/ net /）API、送信者と受信者の情報を取得できます。たとえば、[SenderName]（https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername）プロパティを使用して、変換用の特定の送信者メールを確認できます。  
+{{% blocks/products/pf/feature-page-section  h2=".NET経由でEMLXファイルを解析する" %}}(
+EMLXをPCLに変換する前に、正しい電子メールを変換していることを確認したい場合は、EMLXドキュメントをロードして解析し、目的のプロパティを確認できます。 [Aspose.Emlx for .NET](https://products.aspose.com/emlx)の[MapiMessage](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage)クラスを使用する/ net /)API、送信者と受信者の情報を取得できます。たとえば、[SenderName](https://apireference.aspose.com/emlx/net/aspose.emlx.mapi/mapimessage/properties/sendername)プロパティを使用して、変換用の特定の送信者メールを確認できます。  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -56,12 +57,13 @@ var outlookMessageFile = MapiMessage.FromFile("message.emlx");
 if(outlookMessageFile.SenderName == "John"){
     
 }
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-
+((
 {{% blocks/products/pf/feature-page-section  h2=".NETを介したPCLドキュメントの編集を制限する" %}}
-ドキュメントをEMLXからPCLに保存するときに、出力ドキュメントを保護する必要がある場合があります。ドキュメントを編集する機能を制限し、特定のアクションのみを許可する必要がある場合があります。これは、他の人がドキュメント内の機密情報を編集するのを防ぐのに役立ちます。 [Aspose.Words for .NET]（https://products.aspose.com/words/net/）APIを使用すると、[ProtectionType]（https：//apireference.aspose）を使用してコンテンツを制限する方法を制御できます。 com / words / net / aspose.words / propertytype）列挙型パラメーター。次のコード行を使用して、ドキュメントを読み取り専用に設定できます。 
+ドキュメントをEMLXからPCLに保存するときに、出力ドキュメントを保護する必要がある場合があります。ドキュメントを編集する機能を制限し、特定のアクションのみを許可する必要がある場合があります。これは、他の人がドキュメント内の機密情報を編集するのを防ぐのに役立ちます。 [Aspose.Words for .NET](https://products.aspose.com/words/net/)APIを使用すると、[ProtectionType](https：//apireference.aspose)を使用してコンテンツを制限する方法を制御できます。 com / words / net / aspose.words / propertytype)列挙型パラメーター。次のコード行を使用して、ドキュメントを読み取り専用に設定できます。 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -71,7 +73,8 @@ Document document = new Document("HtmlOutput.html");
 document.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.pcl", SaveFormat.Pcl);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

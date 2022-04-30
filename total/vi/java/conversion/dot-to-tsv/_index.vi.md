@@ -33,14 +33,14 @@ Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://download
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Yêu cầu chuyển đổi" %}}](](](](](
+{{% blocks/products/pf/feature-page-section  h2="Yêu cầu chuyển đổi" %}}
 Trước khi chuyển đổi DOT sang TSV, bạn có thể xóa thông tin không sử dụng khỏi Tài liệu DOT qua [Aspose.Words for Java](https://products.aspose.com/words/java/). Đôi khi bạn có thể cần phải loại bỏ thông tin không sử dụng hoặc trùng lặp để giảm kích thước của tài liệu đầu ra và thời gian xử lý. Lớp [CleanupOptions](https://apireference.aspose.com/words/java/com.aspose.words/CleanupOptions) cho phép bạn chỉ định các tùy chọn để làm sạch tài liệu. Để xóa các kiểu trùng lặp hoặc chỉ các kiểu hoặc danh sách không sử dụng khỏi tài liệu, bạn có thể sử dụng phương pháp [Dọn dẹp](https://apireference.aspose.com/words/java/com.aspose.words/Dotument#cleanup()). Bạn có thể sử dụng [UnusedStyles](https://apireference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) và [UnusedBuiltinStyles](https://apireference.aspose.com/words/java /com.aspose.words/cleanupoptions#UnusedBuiltinStyles) thuộc tính để phát hiện và xóa các kiểu được đánh dấu là "không sử dụng".  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-dotument.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}](](](
+{{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Xóa thông tin không sử dụng khỏi tài liệu DOT qua Java" %}}
 Sau khi chuyển đổi DOT sang TSV, [Aspose.Cells cho Java](https://products.aspose.com/cells/java/) cho phép bạn lưu tài liệu của mình vào luồng. Nếu bạn cần lưu tệp vào Luồng thì bạn nên tạo một đối tượng FileOutputStream rồi [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io). OutputStream,% 20com.aspose.cells.SaveOptions)) tệp vào đối tượng Luồng đó bằng cách gọi phương thức lưu của [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) vật. 
 {{% blocks/products/pf/feature-page-code %}}

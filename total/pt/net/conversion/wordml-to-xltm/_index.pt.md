@@ -18,10 +18,10 @@ Ao usar o [Aspose.Total for .NET](https://products.aspose.com/total/net/) você 
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET para converter WORDML para XLTM" %}}
-1. Abra o arquivo WORDML usando a classe [Wordmlument](https://apireference.aspose.com/words/net/aspose.words/wordmlument)
-2. Converta WORDML para HTML usando o método [Salvar](https://apireference.aspose.com/words/net/aspose.words.wordmlument/save/methods/4)
-3. Carregue o wordmlumento HTML usando a classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Salve o wordmlumento no formato XLTM usando o método [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) e defina "XLTM" como SaveFormat
+1. Abra o arquivo WORDML usando a classe [Document](https://apireference.aspose.com/words/net/aspose.words/document)
+2. Converta WORDML para HTML usando o método [Salvar](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. Carregue o documento HTML usando a classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+4. Salve o documento no formato XLTM usando o método [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) e defina "XLTM" como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
@@ -38,8 +38,8 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Carregar wordmlumento WORDML do fluxo via C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) também permite carregar wordmlumentos WORDML via stream. Para abrir um wordmlumento de um stream, basta passar um objeto stream que contém o wordmlumento para o construtor [Wordmlument](https://apireference.aspose.com/words/net/aspose.words/wordmlument). O exemplo de código a seguir mostra como abrir um wordmlumento de um fluxo:  
+{{% blocks/products/pf/feature-page-section  h2="Carregar documento WORDML do fluxo via C#" %}}
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) também permite carregar documentos WORDML via stream. Para abrir um documento de um stream, basta passar um objeto stream que contém o documento para o construtor [Document](https://apireference.aspose.com/words/net/aspose.words/document). O exemplo de código a seguir mostra como abrir um documento de um fluxo:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{% /blocks/products/pf/feature-page-section %}}
 (https
 {{% blocks/products/pf/feature-page-section  h2="Adicionar propriedades personalizadas no arquivo XLTM via C#" %}}
-Ao converter WORDML para XLTM, o [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) permite adicionar propriedades personalizadas em seus wordmlumentos XLTM. Para adicionar uma propriedade personalizada, você pode usar o método [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customwordmlumentpropertycollection/methods/add/index) para o método [CustomWordmlumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customwordmlumentpropertycollection) classe. O método Add adiciona a propriedade ao arquivo Excel e retorna uma referência para a nova propriedade do wordmlumento como um [Aspose.Cells.Properties.WordmlumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /wordmlumentproperty) objeto. 
+Ao converter WORDML para XLTM, o [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) permite adicionar propriedades personalizadas em seus documentos XLTM. Para adicionar uma propriedade personalizada, você pode usar o método [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) para o método [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) classe. O método Add adiciona a propriedade ao arquivo Excel e retorna uma referência para a nova propriedade do documento como um [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /documentproperty) objeto. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

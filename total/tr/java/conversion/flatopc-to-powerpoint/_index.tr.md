@@ -17,7 +17,7 @@ otherformats: POT POTM PPTM PPTX PPSM PPSX POTX PPT POWERPOINT PPS CSV DIF FODS 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java ile FLATOPC'yi POWERPOINT'ye Dönüştürme" %}}
 1. FLATOPC dosyasını [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument) sınıfını kullanarak açın
-2. [save](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,com.aspose.words.SaveOptions) kullanarak FLATOPC dosyasını HTML'ye dönüştürün )) yöntem
+2. [save](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,com.aspose.words.SaveOptions) kullanarak FLATOPC dosyasını HTML'ye dönüştürün)) yöntem
 3. Yeni bir [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) nesnesini başlatın
 5. BufferedReader kullanarak HTML dosyasından içerik çıkarın ve içeriği sunum dosyanıza yazın
 6. [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) yöntemini kullanarak belgeyi POWERPOINT'ye kaydedin
@@ -30,14 +30,16 @@ Alternatif olarak, [indirilenler](https://downloads.aspose.com/total/java) adres
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-flatopc-to-pptx.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Dönüşüm Gereksinimleri" %}}
 API ayrıca parola korumalı FLATOPC belgelerini POWERPOINT'ye dönüştürmenize olanak tanır. Girdiğiniz FLATOPC belgeniz parola korumalıysa, parolayı kullanmadan POWERPOINT biçimine dönüştüremezsiniz. Şifrelenmiş bir belgeyi açmak için LoadOptions nesnesinde doğru parolayı ayarlayabilir ve bunu Flatopcument yapıcısına iletebilirsiniz.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-flatopc-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-flatopc-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -31,7 +31,7 @@ Bạn có thể dễ dàng sử dụng Aspose.Total cho Java trực tiếp từ 
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Yêu cầu chuyển đổi" %}}](
+{{% blocks/products/pf/feature-page-section  h2="Yêu cầu chuyển đổi" %}}
 Nếu tài liệu TEX của bạn được bảo vệ bằng mật khẩu, bạn không thể chuyển đổi nó thành CSV mà không có mật khẩu. Sử dụng API, trước tiên bạn có thể mở tài liệu được bảo vệ bằng mật khẩu hợp lệ và chuyển đổi sau đó. Để mở tệp được mã hóa, bạn có thể khởi tạo phiên bản mới của [Tài liệu](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String- lớp java.lang.String-) và chuyển tên tệp và mật khẩu làm đối số.  
 {{% blocks/products/pf/feature-page-code %}}
 

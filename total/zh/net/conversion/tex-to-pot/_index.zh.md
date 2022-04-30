@@ -63,7 +63,7 @@ Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
 {{% /blocks/products/pf/feature-page-section %}}
 (
 {{% blocks/products/pf/feature-page-section  h2="通过 .NET 创建只读 POT 文件" %}}
-通过使用 [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) API，您可以进一步增强转换应用程序的功能。其中一项功能可以是创建只读输出文件以提高安全性。 API 允许您将 POT 文件设置为只读，这意味着用户(在打开演示文稿后）会看到只读建议。 
+通过使用 [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) API，您可以进一步增强转换应用程序的功能。其中一项功能可以是创建只读输出文件以提高安全性。 API 允许您将 POT 文件设置为只读，这意味着用户(在打开演示文稿后)会看到只读建议。 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

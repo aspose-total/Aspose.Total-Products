@@ -48,7 +48,7 @@ otherformats: XLAM ODS FODS XLS SXC XLSX XLTX XLSB TSV XLT XLSM DIF EXCEL XLTM
 {{% /blocks/products/pf/feature-page-section %}}
 (https
 {{% blocks/products/pf/feature-page-section  h2="通过 C# 在 ODS 文件中添加自定义属性" %}}
-在将 DOC 转换为 ODS 时，[Aspose.Cells for .NET](https://products.aspose.com/cells/net/) 允许您在 ODS 文档中添加自定义属性。为了添加自定义属性，您可以对 [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection）类。 Add 方法将属性添加到 Excel 文件，并以 [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) 的形式返回新文档属性的引用/documentproperty) 对象。 
+在将 DOC 转换为 ODS 时，[Aspose.Cells for .NET](https://products.aspose.com/cells/net/) 允许您在 ODS 文档中添加自定义属性。为了添加自定义属性，您可以对 [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection)类。 Add 方法将属性添加到 Excel 文件，并以 [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) 的形式返回新文档属性的引用/documentproperty) 对象。 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

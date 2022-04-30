@@ -17,7 +17,7 @@ Vaak moeten ontwikkelaars het ODT-bestand programmatisch naar PPSX converteren. 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hoe ODT naar PPSX te converteren via Java" %}}
 1. Open het ODT-bestand met de klasse [Odtument](https://apireference.aspose.com/words/java/com.aspose.words/Odtument)
-2. Converteer het ODT-bestand naar HTML met behulp van [save](https://apireference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String,com.aspose.words.SaveOptions) )) methode
+2. Converteer het ODT-bestand naar HTML met behulp van [save](https://apireference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String,com.aspose.words.SaveOptions))) methode
 3. Initialiseer een nieuw [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) object
 5. Extraheer inhoud uit HTML-bestand met BufferedReader en schrijf de inhoud in uw presentatiebestand
 6. Sla het odtument op in PPSX met de methode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
@@ -30,14 +30,16 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-odt-to-pptx.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Conversievereisten" %}}
 Met de API kunt u ook met een wachtwoord beveiligde ODT-odtumenten naar PPSX converteren. Als uw ODT-invoerodtument met een wachtwoord is beveiligd, kunt u het niet converteren naar PPSX-indeling zonder het wachtwoord te gebruiken. Om een versleuteld odtument te openen, kunt u het juiste wachtwoord instellen in het object LoadOptions en dit doorgeven aan de odtumentconstructor.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-odt-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-odt-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

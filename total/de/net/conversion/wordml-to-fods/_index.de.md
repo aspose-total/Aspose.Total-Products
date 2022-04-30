@@ -18,8 +18,8 @@ Durch die Verwendung von [Aspose.Total for .NET](https://products.aspose.com/tot
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET-API zum Konvertieren von WORDML in FODS" %}}
-1. Öffnen Sie die WORDML-Datei mit der Klasse [Wordmlument](https://apireference.aspose.com/words/net/aspose.words/wordmlument).
-2. Konvertieren Sie WORDML in HTML, indem Sie die Methode [Save](https://apireference.aspose.com/words/net/aspose.words.wordmlument/save/methods/4) verwenden
+1. Öffnen Sie die WORDML-Datei mit der Klasse [Document](https://apireference.aspose.com/words/net/aspose.words/document).
+2. Konvertieren Sie WORDML in HTML, indem Sie die Methode [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) verwenden
 3. Laden Sie das HTML-Dokument mithilfe der Klasse [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
 4. Speichern Sie das Dokument mit der Methode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) im FODS-Format und legen Sie „FODS“ als SaveFormat fest
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -39,7 +39,7 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="WORDML-Dokument aus Stream über C# laden" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) ermöglicht es Ihnen auch, WORDML-Dokumente per Stream zu laden. Um ein Dokument aus einem Stream zu öffnen, übergeben Sie einfach ein Stream-Objekt, das das Dokument enthält, an den Konstruktor [Wordmlument](https://apireference.aspose.com/words/net/aspose.words/wordmlument). Das folgende Codebeispiel zeigt, wie Sie ein Dokument aus einem Stream öffnen:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) ermöglicht es Ihnen auch, WORDML-Dokumente per Stream zu laden. Um ein Dokument aus einem Stream zu öffnen, übergeben Sie einfach ein Stream-Objekt, das das Dokument enthält, an den Konstruktor [Document](https://apireference.aspose.com/words/net/aspose.words/document). Das folgende Codebeispiel zeigt, wie Sie ein Dokument aus einem Stream öffnen:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Benutzerdefinierte Eigenschaften in FODS-Datei über C# hinzufügen" %}}
-Beim Konvertieren von WORDML in FODS können Sie mit [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Ihren FODS-Dokumenten benutzerdefinierte Eigenschaften hinzufügen. Um eine benutzerdefinierte Eigenschaft hinzuzufügen, können Sie die Methode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customwordmlumentpropertycollection/methods/add/index) für die [CustomWordmlumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customwordmlumentpropertycollection) Klasse. Die Add-Methode fügt die Eigenschaft zur Excel-Datei hinzu und gibt eine Referenz für die neue Dokumenteigenschaft als [Aspose.Cells.Properties.WordmlumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /wordmlumentproperty)-Objekt. 
+Beim Konvertieren von WORDML in FODS können Sie mit [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Ihren FODS-Dokumenten benutzerdefinierte Eigenschaften hinzufügen. Um eine benutzerdefinierte Eigenschaft hinzuzufügen, können Sie die Methode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) für die [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) Klasse. Die Add-Methode fügt die Eigenschaft zur Excel-Datei hinzu und gibt eine Referenz für die neue Dokumenteigenschaft als [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /documentproperty)-Objekt. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

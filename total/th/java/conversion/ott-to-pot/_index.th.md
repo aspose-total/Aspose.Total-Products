@@ -17,7 +17,7 @@ otherformats: POTM PPTX PPSM PPS POT PPTM POTX PPT POWERPOINT PPSX CSV DIF FODS 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง OTT เป็น POT ผ่าน Java" %}}
 1. เปิดไฟล์ OTT โดยใช้คลาส [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-2. แปลงไฟล์ OTT เป็น HTML โดยใช้ [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) )) กระบวนการ
+2. แปลงไฟล์ OTT เป็น HTML โดยใช้ [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) กระบวนการ
 3. เริ่มต้นวัตถุ [การนำเสนอ](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) ใหม่
 5. แยกเนื้อหาจากไฟล์ HTML โดยใช้ BufferedReader และเขียนเนื้อหาลงในไฟล์นำเสนอของคุณ
 6. บันทึกเอกสารไปยัง POT โดยใช้วิธีการ [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

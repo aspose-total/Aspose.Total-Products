@@ -31,7 +31,7 @@ Puede usar fácilmente Aspose.Total para Java directamente desde un proyecto bas
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Requisitos de conversión" %}}](
+{{% blocks/products/pf/feature-page-section  h2="Requisitos de conversión" %}}
 Si su documento PDF está protegido con contraseña, no puede convertirlo a XLSM sin la contraseña. Con la API, primero puede abrir el documento protegido con una contraseña válida y convertirlo después. Para abrir el archivo cifrado, puede inicializar una nueva instancia del [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-) class y pase el nombre de archivo y la contraseña como argumentos.  
 {{% blocks/products/pf/feature-page-code %}}
 

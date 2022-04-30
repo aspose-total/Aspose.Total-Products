@@ -17,7 +17,7 @@ otherformats: PPSX PPTX POWERPOINT POT POTX PPTM PPSM PPT POTM PPS CSV DIF FODS 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java를 통해 DOCM를 PPS로 변환하는 방법" %}}
 1. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) 클래스를 사용하여 DOCM 파일을 엽니다.
-2. [저장](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)을 사용하여 DOCM 파일을 HTML로 변환합니다. )) 방법
+2. [저장](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)을 사용하여 DOCM 파일을 HTML로 변환합니다.)) 방법
 3. 새로운 [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) 객체 초기화
 5. BufferedReader를 사용하여 HTML 파일에서 콘텐츠를 추출하고 프레젠테이션 파일에 콘텐츠를 작성합니다.
 6. [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) 메서드를 사용하여 문서를 PPS에 저장합니다.

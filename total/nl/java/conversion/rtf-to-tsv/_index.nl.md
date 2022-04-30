@@ -40,7 +40,7 @@ Voordat u RTF naar TSV converteert, kunt u ongebruikte informatie uit het RTF-rt
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-rtfument.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}(https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions))
+{{% /blocks/products/pf/feature-page-section %}}https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions))
 {{% blocks/products/pf/feature-page-section  h2="Verwijder ongebruikte informatie uit een RTF-rtfument via Java" %}}
 Na het converteren van RTF naar TSV, kunt u met [Aspose.Cells for Java](https://products.aspose.com/cells/java/) uw rtfument opslaan om te streamen. Als u bestanden naar een stream moet opslaan, moet u een FileOutputStream-object maken en vervolgens [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions)) het bestand naar dat Stream-object door de opslagmethode van [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) aan te roepen voorwerp. 
 {{% blocks/products/pf/feature-page-code %}}

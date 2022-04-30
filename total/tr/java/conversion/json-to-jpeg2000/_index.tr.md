@@ -19,7 +19,7 @@ otherformats: PSD SVGZ TGA WMZ IMAGE JPEG2000 DICOM DXF EMZ WMF
 1. Yeni bir [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) nesnesi oluşturun ve JSON dosyasını açın
 2. [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions) kullanarak JSON'u JPEG olarak kaydedin. ) yöntem
 3. [Image](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image) sınıfını kullanarak JPEG belgesi yükleyin
-4. Belgeyi [save](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase) kullanarak JPEG2000 formatına kaydedin -) yöntem
+4. Belgeyi [save](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase) kullanarak JPEG2000 formatına kaydedin-) yöntem
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Dönüşüm Gereksinimleri" %}}
 Aspose.Total for Java'yı doğrudan [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) tabanlı bir projeden kolayca kullanabilirsiniz. ve pom.xml'inize kitaplıkları dahil edin.

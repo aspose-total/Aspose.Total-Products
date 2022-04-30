@@ -17,7 +17,7 @@ A fejlesztőknek gyakran programozottan kell konvertálniuk a WORD fájlt POT-v�
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hogyan lehet WORD-t POT-vé konvertálni Java-n keresztül" %}}
 1. Nyissa meg a WORD-fájlt a [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) osztály használatával
-2. Alakítsa át a WORD fájlt HTML formátumba a [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) segítségével )) módszer
+2. Alakítsa át a WORD fájlt HTML formátumba a [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) segítségével)) módszer
 3. Inicializáljon egy új [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) objektumot
 5. Bontsa ki a tartalmat a HTML-fájlból a BufferedReader segítségével, és írja be a tartalmat a bemutatófájlba
 6. Mentse a dokumentumot az POT-be a [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) módszerrel

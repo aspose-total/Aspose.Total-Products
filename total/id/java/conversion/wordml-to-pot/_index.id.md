@@ -16,8 +16,8 @@ Seringkali pengembang harus mengonversi file WORDML ke POT secara terprogram. De
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cara Mengonversi WORDML ke POT melalui Java" %}}
-1. Buka file WORDML menggunakan kelas [Wordmlument](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument)
-2. Konversi file WORDML ke HTML dengan menggunakan [save](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument#save(java.lang.String,com.aspose.words.SaveOptions)) metode
+1. Buka file WORDML menggunakan kelas [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. Konversi file WORDML ke HTML dengan menggunakan [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metode
 3. Inisialisasi objek [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) baru
 5. Ekstrak konten dari file HTML menggunakan BufferedReader dan tulis konten di file presentasi Anda
 6. Simpan dokumen ke POT menggunakan metode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

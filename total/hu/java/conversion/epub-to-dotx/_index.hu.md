@@ -41,7 +41,7 @@ outputDocument.save("output.dotx", SaveFormat.DOTX);
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Konverziós követelmények" %}}](
+{{% blocks/products/pf/feature-page-section  h2="Konverziós követelmények" %}}
 A EPUB DOTX-re konvertálása közben még akkor is megnyithatja a PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) segítségével, ha dokumentuma jelszóval védett. A titkosított fájl megnyitásához létre kell hoznia egy [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) objektumot, és meg kell nyitnia a EPUB-et a tulajdonos jelszavával.  
 {{% blocks/products/pf/feature-page-code %}}
 

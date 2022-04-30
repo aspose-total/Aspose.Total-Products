@@ -1,0 +1,55 @@
+---
+title: Convierta FODS a WORD usando Java
+description: API de Java para exportar FODS a WORD con Excel o Word
+url: /es/java/conversion/fods-to-word/
+family: total
+platformtag: net
+feature: conversion
+informat: FODS
+outformat: WORD
+otherformats: PPTX WORD WORDX POWERPOINT
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="API de Java para exportar FODS a WORD" h2="API de Java local para exportar FODS a WORD sin depender de Microsoft Excel&reg;" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Renderizar FODS a WORD es un proceso de dos pasos. Primero usará [Aspose.Cells for Java](https://products.aspose.com/cells/java) API para convertir el wordumento FODS dado a PDF, y luego usará [Aspose.Pdf for Java](https ://products.aspose.com/pdf/java), puede convertir fácilmente su wordumento PDF a WORD. Ambas API pertenecen a la colección de bibliotecas de automatización de formato de archivo [Aspose.Total for Java](https://products.aspose.com/total/java/).
+{{% /blocks/products/pf/feature-page-summary  %}}
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Cómo convertir FODS a WORD a través de la API de Java" %}}
+1. Abra el archivo FODS usando la clase [Libro de trabajo](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
+2. Convierta FODS a PDF y configure SaveFormat en AUTO
+3. Cargue el archivo PDF convertido usando la clase [Wordumento](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Wordument)
+4. Guarde el wordumento en formato WORD usando [guardar](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Wordument#save-java.lang.String-com.aspose.pdf.SaveOptions-) método y establecer Word como SaveFormat
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
+Debe usar Aspose.Total para Java directamente desde un proyecto basado en [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e incluya bibliotecas en su pom.xml.
+
+Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.aspose.com/total/java).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+```cs
+// load the FODS file using Workbook class
+Workbook book = new Workbook("input.fods");
+// save FODS as PDF
+book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
+// load the PDF file using Wordument class
+Wordument wordument = new Wordument("pdfOutput.pdf");
+// save wordument in WORD format
+wordument.save("output.word", com.aspose.pdf.SaveFormat.Word);  
+```
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Otras opciones de conversión" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/fods-to-wordx/" name="FODS Para WORDX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/fods-to-pptx/" name="FODS Para PPTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/fods-to-powerpoint/" name="FODS Para POWERPOINT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/fods-to-word/" name="FODS Para WORD" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

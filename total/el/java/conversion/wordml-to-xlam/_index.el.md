@@ -16,8 +16,8 @@ otherformats: EXCEL XLAM DIF XLTM FODS XLT XLSM XLTX XLSX SXC ODS XLS TSV XLSB
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API για μετατροπή WORDML σε XLAM" %}}
-1. Ανοίξτε το αρχείο WORDML χρησιμοποιώντας την κλάση [Wordmlument](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument)
-2. Μετατρέψτε το WORDML σε HTML χρησιμοποιώντας το [Save](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument#save(java.lang.String,com.aspose.words.SaveOptions) ) μέθοδος
+1. Ανοίξτε το αρχείο WORDML χρησιμοποιώντας την κλάση [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. Μετατρέψτε το WORDML σε HTML χρησιμοποιώντας το [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) μέθοδος
 3. Φορτώστε το έγγραφο HTML χρησιμοποιώντας την τάξη [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Αποθηκεύστε το έγγραφο σε μορφή XLAM χρησιμοποιώντας το [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. SaveOptions)) μέθοδο
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -34,13 +34,13 @@ otherformats: EXCEL XLAM DIF XLTM FODS XLT XLSM XLTX XLSX SXC ODS XLS TSV XLSB
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Απαιτήσεις μετατροπής" %}}
-Πριν μετατρέψετε το WORDML σε XLAM, μπορείτε να αφαιρέσετε αχρησιμοποίητες πληροφορίες από το έγγραφο WORDML μέσω του [Aspose.Words for Java](https://products.aspose.com/words/java/). Μερικές φορές μπορεί να χρειαστεί να αφαιρέσετε αχρησιμοποίητες ή διπλότυπες πληροφορίες για να μειώσετε το μέγεθος του εγγράφου εξόδου και τον χρόνο επεξεργασίας. Η κλάση [CleanupOptions](https://apireference.aspose.com/words/java/com.aspose.words/CleanupOptions) σάς επιτρέπει να ορίσετε επιλογές για τον καθαρισμό εγγράφων. Για να αφαιρέσετε διπλότυπα στυλ ή απλώς αχρησιμοποίητα στυλ ή λίστες από το έγγραφο, μπορείτε να χρησιμοποιήσετε τη μέθοδο [Cleanup](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument#cleanup()). Μπορείτε να χρησιμοποιήσετε τα [UnusedStyles](https://apireference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) και [UnusedBuiltinStyles](https://apireference.aspose.com/words/java Ιδιότητες /com.aspose.words/cleanupoptions#UnusedBuiltinStyles) για τον εντοπισμό και την αφαίρεση στυλ που επισημαίνονται ως "αχρησιμοποίητα".  
+Πριν μετατρέψετε το WORDML σε XLAM, μπορείτε να αφαιρέσετε αχρησιμοποίητες πληροφορίες από το έγγραφο WORDML μέσω του [Aspose.Words for Java](https://products.aspose.com/words/java/). Μερικές φορές μπορεί να χρειαστεί να αφαιρέσετε αχρησιμοποίητες ή διπλότυπες πληροφορίες για να μειώσετε το μέγεθος του εγγράφου εξόδου και τον χρόνο επεξεργασίας. Η κλάση [CleanupOptions](https://apireference.aspose.com/words/java/com.aspose.words/CleanupOptions) σάς επιτρέπει να ορίσετε επιλογές για τον καθαρισμό εγγράφων. Για να αφαιρέσετε διπλότυπα στυλ ή απλώς αχρησιμοποίητα στυλ ή λίστες από το έγγραφο, μπορείτε να χρησιμοποιήσετε τη μέθοδο [Cleanup](https://apireference.aspose.com/words/java/com.aspose.words/Document#cleanup()). Μπορείτε να χρησιμοποιήσετε τα [UnusedStyles](https://apireference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) και [UnusedBuiltinStyles](https://apireference.aspose.com/words/java Ιδιότητες /com.aspose.words/cleanupoptions#UnusedBuiltinStyles) για τον εντοπισμό και την αφαίρεση στυλ που επισημαίνονται ως "αχρησιμοποίητα".  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-wordmlument.java" >}}
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-document.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}(https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions))
+{{% /blocks/products/pf/feature-page-section %}}https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions))
 {{% blocks/products/pf/feature-page-section  h2="Καταργήστε τις αχρησιμοποίητες πληροφορίες από ένα έγγραφο WORDML μέσω Java" %}}
 Μετά τη μετατροπή του WORDML σε XLAM, το [Aspose.Cells για Java](https://products.aspose.com/cells/java/) σάς δίνει τη δυνατότητα να αποθηκεύσετε το έγγραφό σας σε ροή. Εάν χρειάζεται να αποθηκεύσετε αρχεία σε μια ροή, τότε θα πρέπει να δημιουργήσετε ένα αντικείμενο FileOutputStream και στη συνέχεια [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions)) το αρχείο σε αυτό το αντικείμενο Stream καλώντας τη μέθοδο αποθήκευσης του [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) αντικείμενο. 
 {{% blocks/products/pf/feature-page-code %}}

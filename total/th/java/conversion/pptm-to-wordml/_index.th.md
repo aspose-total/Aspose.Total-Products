@@ -18,8 +18,8 @@ otherformats: DOTX TEXT WORDML OTT ODT WORDMLX DOTM RTF FLATOPC WORD DOT WORDMLM
 {{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง PPTM เป็น WORDML ผ่าน Java" %}}
 1. เปิดไฟล์ PPTM โดยใช้คลาส [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. แปลง PPTM เป็น HTML โดยใช้ [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides ISaveOptions-) และตั้งค่า Html เป็น SaveFormat
-3. โหลดไฟล์ HTML ที่แปลงแล้วโดยใช้คลาส [Wordmlument](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument)
-4. บันทึกเอกสารในรูปแบบ WORDML โดยใช้วิธีการ [save](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument#save(java.lang.String,int))
+3. โหลดไฟล์ HTML ที่แปลงแล้วโดยใช้คลาส [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+4. บันทึกเอกสารในรูปแบบ WORDML โดยใช้วิธีการ [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
 สำหรับการแปลงไฟล์ PPTM เป็น WORDML คุณสามารถใช้ Aspose.Total สำหรับ Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) ตามโครงการและรวมไลบรารีใน pom.xml ของคุณ
@@ -29,14 +29,16 @@ otherformats: DOTX TEXT WORDML OTT ODT WORDMLX DOTM RTF FLATOPC WORD DOT WORDMLM
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="ข้อกำหนดการแปลง" %}}
+{{% blocks/products/pf/feature-page-section  h2="ข้อกำหนดการแปลง" %}}DocumentDocument
 เมื่อใช้ API คุณยังสามารถทำการแปลงไฟล์ PPTM เป็น WORDML ด้วยลายน้ำ ในการเพิ่มลายน้ำให้กับเอกสาร WORDML ของคุณ ก่อนอื่นให้แปลงไฟล์ PPTM เป็น HTML และเพิ่มลายน้ำลงไป ในการเพิ่มลายน้ำ ให้โหลดไฟล์ HTML ที่สร้างขึ้นใหม่โดยใช้คลาส [Wordmlument](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument) สร้างอินสแตนซ์ของ TextWatermarkOptions และตั้งค่า คุณสมบัติของมัน วิธี Call Watermark.setText และส่งข้อความลายน้ำ & วัตถุของ TextWatermarkOptions  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

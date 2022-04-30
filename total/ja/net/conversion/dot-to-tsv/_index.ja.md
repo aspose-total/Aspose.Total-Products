@@ -13,21 +13,21 @@ otherformats: XLS EXCEL XLT XLTX XLAM XLSM XLTM DIF TSV XLSX ODS XLSB FODS SXC
 {{< blocks/products/pf/i18n/feature-page-header h1="DOTをTSVに変換するC＃API" h2="Microsoft<sup>＆reg;</sup>WordまたはMicrosoft<sup>＆reg;</sup> Excelを使用せずにC＃経由でDOTをTSVにエクスポートする" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for .NET]（https://products.aspose.com/total/net/）を使用すると、DOTからTSVへの変換機能を.NET、C＃、ASP.NET、およびVB.NETアプリケーションに含めることができます。 2つの簡単なステップ。まず、[Aspose.Words for .NET]（https://products.aspose.com/words/net/）を使用して、DOTをHTMLにエクスポートできます。その後、[Aspose.Cells for .NET]（https://products.aspose.com/cells/net/）Spreadsheet Programming APIを使用して、HTMLをTSVに変換できます。
+[Aspose.Total for .NET](https://products.aspose.com/total/net/)を使用すると、DOTからTSVへの変換機能を.NET、C＃、ASP.NET、およびVB.NETアプリケーションに含めることができます。 2つの簡単なステップ。まず、[Aspose.Words for .NET](https://products.aspose.com/words/net/)を使用して、DOTをHTMLにエクスポートできます。その後、[Aspose.Cells for .NET](https://products.aspose.com/cells/net/)Spreadsheet Programming APIを使用して、HTMLをTSVに変換できます。
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="DOTをTSVに変換する.NETAPI" %}}
-1. [ドキュメント]（https://apireference.aspose.com/words/net/aspose.words/dotument）クラスを使用してDOTファイルを開きます
-2. [保存]（https://apireference.aspose.com/words/net/aspose.words.dotument/save/methods/4）メソッドを使用してDOTをHTMLに変換します
-3. [ワークブック]（https://apireference.aspose.com/cells/net/aspose.cells/workbook）クラスを使用してHTMLドキュメントをロードします
-4. [保存]（https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4）メソッドを使用してドキュメントをTSV形式で保存し、「TSV」をSaveFormatとして設定します
+1. [Document](https://apireference.aspose.com/words/net/aspose.words/dotument)クラスを使用してDOTファイルを開きます
+2. [保存](https://apireference.aspose.com/words/net/aspose.words.dotument/save/methods/4)メソッドを使用してDOTをHTMLに変換します
+3. [ワークブック](https://apireference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
+4. [保存](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをTSV形式で保存し、「TSV」をSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 コマンドラインから```nuget install Aspose.Total```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから```Install-PackageAspose.Total```を使用してインストールします。
 
-または、[ダウンロード]（https://downloads.aspose.com/total/net）からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
+または、[ダウンロード](https://downloads.aspose.com/total/net)からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
@@ -39,7 +39,7 @@ otherformats: XLS EXCEL XLT XLTX XLAM XLSM XLTM DIF TSV XLSX ODS XLSB FODS SXC
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="C＃経由でストリームからDOTドキュメントをロードする" %}}
-[Aspose.Words for .NET]（https://products.aspose.com/words/net/）では、ストリームを介してDOTドキュメントをロードすることもできます。ストリームからドキュメントを開くには、ドキュメントを含むストリームオブジェクトを[Dotument]（https://apireference.aspose.com/words/net/aspose.words/dotument）コンストラクターに渡すだけです。次のコード例は、ストリームからドキュメントを開く方法を示しています。  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/)では、ストリームを介してDOTドキュメントをロードすることもできます。ストリームからドキュメントを開くには、ドキュメントを含むストリームオブジェクトを[Dotument](https://apireference.aspose.com/words/net/aspose.words/dotument)コンストラクターに渡すだけです。次のコード例は、ストリームからドキュメントを開く方法を示しています。  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ otherformats: XLS EXCEL XLT XLTX XLAM XLSM XLTM DIF TSV XLSX ODS XLSB FODS SXC
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="C＃を介してTSVファイルにカスタムプロパティを追加する" %}}
-DOTをTSVに変換する際、[Aspose.Cells for .NET]（https://products.aspose.com/cells/net/）を使用すると、TSVドキュメントにカスタムプロパティを追加できます。カスタムプロパティを追加するには、[CustomDotumentPropertyCollection]（の[Add]（https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotumentpropertycollection/methods/add/index）メソッドを使用できます。 https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotumentpropertycollection）クラス。 Addメソッドは、プロパティをExcelファイルに追加し、新しいドキュメントプロパティの参照を[Aspose.Cells.Properties.DotumentProperty]（https://apireference.aspose.com/cells/net/aspose.cells.properties）として返します。 / dotumentproperty）オブジェクト。 
+DOTをTSVに変換する際、[Aspose.Cells for .NET](https://products.aspose.com/cells/net/)を使用すると、TSVドキュメントにカスタムプロパティを追加できます。カスタムプロパティを追加するには、[CustomDotumentPropertyCollection](の[Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotumentpropertycollection/methods/add/index)メソッドを使用できます。 https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotumentpropertycollection)クラス。 Addメソッドは、プロパティをExcelファイルに追加し、新しいドキュメントプロパティの参照を[Aspose.Cells.Properties.DotumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties)として返します。 / dotumentproperty)オブジェクト。 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

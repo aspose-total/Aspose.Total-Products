@@ -16,8 +16,8 @@ otherformats: PPSM PPS POTX POTM PPTM PPTX POWERPOINT PPSX PPT POT CSV DIF FODS 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง WORDML เป็น PPSX ผ่าน Java" %}}
-1. เปิดไฟล์ WORDML โดยใช้คลาส [Wordmlument](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument)
-2. แปลงไฟล์ WORDML เป็น HTML โดยใช้ [save](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument#save(java.lang.String,com.aspose.words.SaveOptions) )) กระบวนการ
+1. เปิดไฟล์ WORDML โดยใช้คลาส [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. แปลงไฟล์ WORDML เป็น HTML โดยใช้ [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) กระบวนการ
 3. เริ่มต้นวัตถุ [การนำเสนอ](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) ใหม่
 5. แยกเนื้อหาจากไฟล์ HTML โดยใช้ BufferedReader และเขียนเนื้อหาลงในไฟล์นำเสนอของคุณ
 6. บันทึกเอกสารไปยัง PPSX โดยใช้วิธีการ [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

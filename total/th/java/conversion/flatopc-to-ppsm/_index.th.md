@@ -17,7 +17,7 @@ otherformats: POT POTX POWERPOINT POTM PPSX PPSM PPTX PPTM PPS PPT CSV DIF FODS 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง FLATOPC เป็น PPSM ผ่าน Java" %}}
 1. เปิดไฟล์ FLATOPC โดยใช้คลาส [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument)
-2. แปลงไฟล์ FLATOPC เป็น HTML โดยใช้ [save](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,com.aspose.words.SaveOptions) )) กระบวนการ
+2. แปลงไฟล์ FLATOPC เป็น HTML โดยใช้ [save](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,com.aspose.words.SaveOptions))) กระบวนการ
 3. เริ่มต้นวัตถุ [การนำเสนอ](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) ใหม่
 5. แยกเนื้อหาจากไฟล์ HTML โดยใช้ BufferedReader และเขียนเนื้อหาลงในไฟล์นำเสนอของคุณ
 6. บันทึกเอกสารไปยัง PPSM โดยใช้วิธีการ [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

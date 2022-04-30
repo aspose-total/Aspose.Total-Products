@@ -19,7 +19,7 @@ otherformats: WORD DOTX PS OTT EPUB RTF PCL DOC DOCM FLATOPC ODT WORDML DOT MOBI
 1. Создайте новый объект [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) и прочитайте действительные данные JSON из файла.
 2. Импортируйте файл JSON на лист, используя класс [JsonUtility](https://apireference.aspose.com/cells/java/com.aspose.cells/JsonUtility) и [Сохранить](https://apireference.aspose.com/ ячейки/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) в формате PDF
 3. Загрузите документ PDF с помощью класса [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document).
-4. Сохраните документ в формате PS, используя [Сохранить](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions). )) метод
+4. Сохраните документ в формате PS, используя [Сохранить](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions).)) метод
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
 Вы можете легко использовать Aspose.Total для Java непосредственно из проекта на основе [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total). и включите библиотеки в свой pom.xml.

@@ -17,7 +17,7 @@ Vaak moeten ontwikkelaars het RTF-bestand programmatisch naar PPS converteren. D
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hoe RTF naar PPS te converteren via Java" %}}
 1. Open het RTF-bestand met de klasse [Rtfument](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument)
-2. Converteer het RTF-bestand naar HTML met behulp van [save](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument#save(java.lang.String,com.aspose.words.SaveOptions) )) methode
+2. Converteer het RTF-bestand naar HTML met behulp van [save](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument#save(java.lang.String,com.aspose.words.SaveOptions))) methode
 3. Initialiseer een nieuw [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) object
 5. Extraheer inhoud uit HTML-bestand met BufferedReader en schrijf de inhoud in uw presentatiebestand
 6. Sla het rtfument op in PPS met de methode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
@@ -30,14 +30,16 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-rtf-to-pptx.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Conversievereisten" %}}
 Met de API kunt u ook met een wachtwoord beveiligde RTF-rtfumenten naar PPS converteren. Als uw RTF-invoerrtfument met een wachtwoord is beveiligd, kunt u het niet converteren naar PPS-indeling zonder het wachtwoord te gebruiken. Om een versleuteld rtfument te openen, kunt u het juiste wachtwoord instellen in het object LoadOptions en dit doorgeven aan de rtfumentconstructor.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-rtf-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-rtf-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -226,7 +226,7 @@ Aspose.TeX for .NET is a TeX files typesetting API. It can easily typeset TeX fi
  <em class="fa fa-share ico-blue fa-2x col-lg-2">
  </em>
  <p class="col-lg-10">
-  Export OneNote to images &amp; PDF format
+  Export OneNote to images and PDF format
  </p>
 </div>
 <div class="col-lg-12">

@@ -12,14 +12,14 @@ otherformats: ODT WORD FLATOPC OTT WORDML WORDMLM RTF DOTX DOTM DOT WORDMLX TEXT
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Convierta PPSX a WORDML a través de Java" h2="API de Java en las instalaciones para la conversión de PowerPoint PPSX a WORDML dentro de cualquier aplicación Java J2SE, J2EE, J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total para Java](https://products.aspose.com/total/java/) Las bibliotecas de automatización de formato de archivo permiten a los desarrolladores de Java automatizar el proceso de conversión por lotes de PowerPoint PPSX a Word WORDML. La conversión del wordmlumento es un proceso de dos pasos e implica el uso de dos API. Usaremos [Aspose.Slides for Java](https://products.aspose.com/slides/java/) que es una API de PowerPoint para la manipulación y administración de presentaciones para convertir PPSX a HTML. Después de eso, mediante el uso de la API de procesamiento de textos rica en funciones [Aspose.Words for Java](https://products.aspose.com/words/java/), convertiremos el HTML a WORDML.
+[Aspose.Total para Java](https://products.aspose.com/total/java/) Las bibliotecas de automatización de formato de archivo permiten a los desarrolladores de Java automatizar el proceso de conversión por lotes de PowerPoint PPSX a Word WORDML. La conversión del documento es un proceso de dos pasos e implica el uso de dos API. Usaremos [Aspose.Slides for Java](https://products.aspose.com/slides/java/) que es una API de PowerPoint para la manipulación y administración de presentaciones para convertir PPSX a HTML. Después de eso, mediante el uso de la API de procesamiento de textos rica en funciones [Aspose.Words for Java](https://products.aspose.com/words/java/), convertiremos el HTML a WORDML.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir PPSX a WORDML a través de Java" %}}
 1. Abra el archivo PPSX usando la clase [Presentación](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Convierta PPSX a HTML usando [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) y establezca Html como SaveFormat
-3. Cargue el archivo HTML convertido usando la clase [Wordmlumento](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument)
-4. Guarde el wordmlumento en formato WORDML usando el método [save](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument#save(java.lang.String,int))
+3. Cargue el archivo HTML convertido usando la clase [Documento](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+4. Guarde el documento en formato WORDML usando el método [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
 Para la conversión de archivos PPSX a WORDML, puede usar fácilmente Aspose.Total para Java directamente desde un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) e incluya bibliotecas en su pom.xml.
@@ -34,7 +34,7 @@ Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisitos de conversión" %}}
-Usando la API, también puede realizar una conversión de archivo PPSX a WORDML con marca de agua. Para agregar una marca de agua a su wordmlumento WORDML, primero puede convertir el archivo PPSX a HTML y agregarle una marca de agua. Para agregar una marca de agua, cargue el archivo HTML recién creado usando la clase [Wordmlument](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument), cree una instancia de TextWatermarkOptions y configure sus propiedades, llame al método Watermark.setText y pase el texto y el objeto de la marca de agua de TextWatermarkOptions.  
+Usando la API, también puede realizar una conversión de archivo PPSX a WORDML con marca de agua. Para agregar una marca de agua a su documento WORDML, primero puede convertir el archivo PPSX a HTML y agregarle una marca de agua. Para agregar una marca de agua, cargue el archivo HTML recién creado usando la clase [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document), cree una instancia de TextWatermarkOptions y configure sus propiedades, llame al método Watermark.setText y pase el texto y el objeto de la marca de agua de TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}

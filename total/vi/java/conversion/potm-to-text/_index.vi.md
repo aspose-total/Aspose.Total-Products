@@ -33,7 +33,7 @@ Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://download
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Yêu cầu chuyển đổi" %}}](
+{{% blocks/products/pf/feature-page-section  h2="Yêu cầu chuyển đổi" %}}
 Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp POTM sang TEXT với hình mờ. Để thêm hình mờ vào tài liệu TEXT, trước tiên bạn có thể chuyển đổi tệp POTM sang HTML và thêm hình mờ vào đó. Để thêm hình mờ, hãy tải tệp HTML mới được tạo bằng cách sử dụng lớp [Textument](https://apireference.aspose.com/words/java/com.aspose.words/Textument), tạo một bản sao của TextWatermarkOptions và đặt thuộc tính của nó, Gọi phương thức Watermark.setText và chuyển văn bản & đối tượng hình mờ của TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 

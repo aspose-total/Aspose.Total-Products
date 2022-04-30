@@ -17,7 +17,7 @@ otherformats: PPTX POWERPOINT POT POTM PPSX PPS PPSM PPT POTX PPTM CSV DIF FODS 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как конвертировать TXT в PPS через Java" %}}
 1. Откройте файл TXT, используя класс [Txtument](https://apireference.aspose.com/words/java/com.aspose.words/Txtument).
-2. Преобразуйте файл TXT в HTML, используя [save](https://apireference.aspose.com/words/java/com.aspose.words/Txtument#save(java.lang.String,com.aspose.words.SaveOptions). )) метод
+2. Преобразуйте файл TXT в HTML, используя [save](https://apireference.aspose.com/words/java/com.aspose.words/Txtument#save(java.lang.String,com.aspose.words.SaveOptions).)) метод
 3. Инициализируйте новый объект [Презентация](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation).
 5. Извлеките содержимое из файла HTML с помощью BufferedReader и запишите содержимое в файл презентации.
 6. Сохраните документ в PPS, используя метод [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-).

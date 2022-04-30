@@ -13,21 +13,21 @@ otherformats: EXCEL TXT ODS MD FODS SXC XLSB XLTM XLT TSV DIF XLTX
 {{< blocks/products/pf/i18n/feature-page-header h1="CGMをXLTXにレンダリングするC＃API" h2="Microsoft<sup>＆reg;</sup>ExcelまたはAdobe<sup>＆reg;</sup> Acrobat Readerを使用せずにC＃経由でCGMファイルをXLTXにエクスポートする" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for .NET]（https://products.aspose.com/total/net/）を使用すると、.NET、C＃、ASP.NET、およびVB.NETアプリケーション内でCGMファイルをXLTXに簡単に変換できます。まず、[Aspose.PDF for .NET]（https://products.aspose.com/pdf/net/）を使用して、CGMをXLSXにエクスポートできます。その後、[Aspose.Cells for .NET]（https://products.aspose.com/cells/net/）Spreadsheet Programming APIを使用して、XLSXをXLTXに変換できます。
+[Aspose.Total for .NET](https://products.aspose.com/total/net/)を使用すると、.NET、C＃、ASP.NET、およびVB.NETアプリケーション内でCGMファイルをXLTXに簡単に変換できます。まず、[Aspose.PDF for .NET](https://products.aspose.com/pdf/net/)を使用して、CGMをXLSXにエクスポートできます。その後、[Aspose.Cells for .NET](https://products.aspose.com/cells/net/)Spreadsheet Programming APIを使用して、XLSXをXLTXに変換できます。
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="CGMをXLTXに変換する.NETAPI" %}}
-1. [ドキュメント]（https://apireference.aspose.com/pdf/net/aspose.pdf/document）クラスを使用してCGMファイルを開きます
-2. [保存]（https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5）メソッドを使用してCGMをXLSXに変換します
-3. [ワークブック]（https://apireference.aspose.com/cells/net/aspose.cells/workbook）クラスを使用してXLSXドキュメントをロードします
-4. [保存]（https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4）メソッドを使用してドキュメントをXLTX形式で保存し、「Xltx」をSaveFormatとして設定します
+1. [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)クラスを使用してCGMファイルを開きます
+2. [保存](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)メソッドを使用してCGMをXLSXに変換します
+3. [ワークブック](https://apireference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してXLSXドキュメントをロードします
+4. [保存](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをXLTX形式で保存し、「Xltx」をSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 コマンドラインから```nuget install Aspose.Total```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから```Install-PackageAspose.Total```を使用してインストールします。
 
-または、[ダウンロード]（https://downloads.aspose.com/total/net）からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
+または、[ダウンロード](https://downloads.aspose.com/total/net)からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
@@ -39,7 +39,7 @@ otherformats: EXCEL TXT ODS MD FODS SXC XLSB XLTM XLT TSV DIF XLTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="保護されたCGMをC＃経由でXLTXに変換する" %}}
-CGMドキュメントがパスワードで保護されている場合、パスワードなしでXLTXに変換することはできません。 APIを使用すると、最初に有効なパスワードを使用して保護されたドキュメントを開き、その後変換することができます。暗号化されたファイルを開くには、[Document]（https://apireference.aspose.com/pdf/net/aspose.pdf/document）クラスの新しいインスタンスを初期化し、ファイル名とパスワードを引数として渡すことができます。  
+CGMドキュメントがパスワードで保護されている場合、パスワードなしでXLTXに変換することはできません。 APIを使用すると、最初に有効なパスワードを使用して保護されたドキュメントを開き、その後変換することができます。暗号化されたファイルを開くには、[Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)クラスの新しいインスタンスを初期化し、ファイル名とパスワードを引数として渡すことができます。  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-password-protected-pdf-to-excel.cs" >}}

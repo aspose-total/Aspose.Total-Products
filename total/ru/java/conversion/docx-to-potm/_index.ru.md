@@ -17,7 +17,7 @@ otherformats: PPT PPTX POT PPSX PPSM POWERPOINT PPTM PPS POTM POTX CSV DIF FODS 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как конвертировать DOCX в POTM через Java" %}}
 1. Откройте файл DOCX, используя класс [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document).
-2. Преобразуйте файл DOCX в HTML, используя [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions). )) метод
+2. Преобразуйте файл DOCX в HTML, используя [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions).)) метод
 3. Инициализируйте новый объект [Презентация](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation).
 5. Извлеките содержимое из файла HTML с помощью BufferedReader и запишите содержимое в файл презентации.
 6. Сохраните документ в POTM, используя метод [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-).

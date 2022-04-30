@@ -19,7 +19,7 @@ Az [Aspose.Total for Java](https://products.aspose.com/total/java/) használatá
 1. Hozzon létre egy új [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) objektumot, és olvassa be az érvényes JSON-adatokat a fájlból
 2. Importálja a JSON-fájlt a munkalapra a [JsonUtility](https://apireference.aspose.com/cells/java/com.aspose.cells/JsonUtility) osztály és a [Mentés](https://apireference.aspose.com/) használatával cell/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) PDF formátumban
 3. Töltse be a PDF-dokumentumot a [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) osztály használatával
-4. Mentse a dokumentumot WORDML formátumba a [Mentés](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) segítségével )) módszer
+4. Mentse a dokumentumot WORDML formátumba a [Mentés](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) segítségével)) módszer
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 Az Aspose.Total for Java könnyen használható közvetlenül [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) alapú projektből és vegyen fel könyvtárakat a pom.xml fájlba.

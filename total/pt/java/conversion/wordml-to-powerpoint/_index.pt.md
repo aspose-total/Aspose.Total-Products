@@ -16,11 +16,11 @@ Muitas vezes, os desenvolvedores precisam converter o arquivo WORDML para POWERP
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Como converter WORDML para POWERPOINT via Java" %}}
-1. Abra o arquivo WORDML usando a classe [Wordmlument](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument)
-2. Converta o arquivo WORDML em HTML usando [save](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument#save(java.lang.String,com.aspose.words.SaveOptions)) método
+1. Abra o arquivo WORDML usando a classe [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. Converta o arquivo WORDML em HTML usando [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) método
 3. Inicialize um novo objeto [Apresentação](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraia o conteúdo do arquivo HTML usando o BufferedReader e escreva o conteúdo em seu arquivo de apresentação
-6. Salve o wordmlumento no POWERPOINT usando o método [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. Salve o documento no POWERPOINT usando o método [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
 Para conversão de arquivos WORDML para POWERPOINT, você pode facilmente usar o Aspose.Total para Java diretamente de um [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) e inclua bibliotecas em seu pom.xml.
@@ -35,7 +35,7 @@ Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloa
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisitos de conversão" %}}
-A API também permite converter wordmlumentos WORDML protegidos por senha em POWERPOINT. Se o wordmlumento WORDML de entrada estiver protegido por senha, você não poderá convertê-lo para o formato POWERPOINT sem usar a senha. Para abrir um wordmlumento criptografado, você pode definir a senha correta no objeto LoadOptions e passá-la para o construtor Wordmlument.  
+A API também permite converter documentos WORDML protegidos por senha em POWERPOINT. Se o documento WORDML de entrada estiver protegido por senha, você não poderá convertê-lo para o formato POWERPOINT sem usar a senha. Para abrir um documento criptografado, você pode definir a senha correta no objeto LoadOptions e passá-la para o construtor Document.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-wordml-to-pptx-with-watermark.java" >}}

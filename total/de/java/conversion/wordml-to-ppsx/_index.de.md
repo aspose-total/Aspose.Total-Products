@@ -16,8 +16,8 @@ Oft müssen Entwickler WORDML-Dateien programmgesteuert in PPSX konvertieren. Du
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="So konvertieren Sie WORDML über Java in PPSX" %}}
-1. Öffnen Sie die WORDML-Datei mit der Klasse [Wordmlument](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument).
-2. Konvertieren Sie die WORDML-Datei in HTML, indem Sie [save](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument#save(java.lang.String,com.aspose.words.SaveOptions)) Methode
+1. Öffnen Sie die WORDML-Datei mit der Klasse [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document).
+2. Konvertieren Sie die WORDML-Datei in HTML, indem Sie [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) Methode
 3. Initialisieren Sie ein neues [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)-Objekt
 5. Extrahieren Sie den Inhalt aus der HTML-Datei mit BufferedReader und schreiben Sie den Inhalt in Ihre Präsentationsdatei
 6. Speichern Sie das Dokument mit der Methode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) im PPSX
@@ -35,7 +35,7 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://downloads.aspose.c
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Konvertierungsanforderungen" %}}
-Mit der API können Sie auch passwortgeschützte WORDML-Dokumente in PPSX konvertieren. Wenn Ihr eingegebenes WORDML-Dokument kennwortgeschützt ist, können Sie es ohne Verwendung des Kennworts nicht in das PPSX-Format konvertieren. Um ein verschlüsseltes Dokument zu öffnen, können Sie das richtige Passwort im LoadOptions-Objekt setzen und es an den Wordmlument-Konstruktor übergeben.  
+Mit der API können Sie auch passwortgeschützte WORDML-Dokumente in PPSX konvertieren. Wenn Ihr eingegebenes WORDML-Dokument kennwortgeschützt ist, können Sie es ohne Verwendung des Kennworts nicht in das PPSX-Format konvertieren. Um ein verschlüsseltes Dokument zu öffnen, können Sie das richtige Passwort im LoadOptions-Objekt setzen und es an den Document-Konstruktor übergeben.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-wordml-to-pptx-with-watermark.java" >}}
