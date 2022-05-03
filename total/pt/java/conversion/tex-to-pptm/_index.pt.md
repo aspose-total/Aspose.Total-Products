@@ -41,7 +41,7 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Requisitos de conversão" %}}Document#Document-java.lang.String-java.lang.String-
+{{% blocks/products/pf/feature-page-section  h2="Requisitos de conversão" %}}
 Ao carregar o formato de arquivo TEX, seu documento pode estar protegido por senha. [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) também permite abrir documentos criptografados. Para abrir o arquivo criptografado, você pode inicializar uma nova instância do [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-) e passe o nome do arquivo e a senha como argumentos.  
 {{% blocks/products/pf/feature-page-code %}}
 

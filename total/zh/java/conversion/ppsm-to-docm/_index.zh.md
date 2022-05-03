@@ -33,7 +33,7 @@ otherformats: DOTM WORD ODT WORDML DOCM DOTX FLATOPC DOCMX TEXT OTT RTF DOT
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="转换要求" %}}DocumentDocument
+{{% blocks/products/pf/feature-page-section  h2="转换要求" %}}
 使用 API，您还可以执行 PPSM 文件到带有水印的 DOCM 转换。为了给您的 DOCM 文档添加水印，您可以先将 PPSM 文件转换为 HTML 并为其添加水印。为了添加水印，使用 [Docmument](https://apireference.aspose.com/words/java/com.aspose.words/Docmument) 类加载新创建的 HTML 文件，创建 TextWatermarkOptions 的实例并设置它的属性，调用 Watermark.setText 方法并传递水印文本和 TextWatermarkOptions 的对象。  
 {{% blocks/products/pf/feature-page-code %}}
 

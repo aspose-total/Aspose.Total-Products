@@ -33,7 +33,7 @@ otherformats: TEXT RTF WORDMLM OTT DOT ODT WORDML DOTM WORD DOTX FLATOPC WORDMLX
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="转换要求" %}}DocumentDocument
+{{% blocks/products/pf/feature-page-section  h2="转换要求" %}}
 使用 API，您还可以执行 POTX 文件到带有水印的 WORDML 转换。为了给您的 WORDML 文档添加水印，您可以先将 POTX 文件转换为 HTML 并为其添加水印。为了添加水印，使用 [Wordmlument](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument) 类加载新创建的 HTML 文件，创建 TextWatermarkOptions 的实例并设置它的属性，调用 Watermark.setText 方法并传递水印文本和 TextWatermarkOptions 的对象。  
 {{% blocks/products/pf/feature-page-code %}}
 

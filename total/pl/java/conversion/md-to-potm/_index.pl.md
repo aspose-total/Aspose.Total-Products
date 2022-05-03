@@ -41,7 +41,7 @@ presentation.save("output.potm", SaveFormat.Potm);
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Wymagania dotyczące konwersji" %}}Document#Document-java.lang.String-java.lang.String-
+{{% blocks/products/pf/feature-page-section  h2="Wymagania dotyczące konwersji" %}}
 Podczas ładowania pliku w formacie MD dokument może być chroniony hasłem. [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) umożliwia również otwieranie zaszyfrowanych dokumentów. Aby otworzyć zaszyfrowany plik, możesz zainicjować nowe wystąpienie [Dokumentu](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-) i przekaż nazwę pliku i hasło jako argumenty.  
 {{% blocks/products/pf/feature-page-code %}}
 

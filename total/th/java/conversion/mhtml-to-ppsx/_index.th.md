@@ -41,7 +41,7 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="ข้อกำหนดการแปลง" %}}Document#Document-java.lang.String-java.lang.String-
+{{% blocks/products/pf/feature-page-section  h2="ข้อกำหนดการแปลง" %}}
 ขณะโหลดรูปแบบไฟล์ MHTML เอกสารของคุณอาจมีการป้องกันด้วยรหัสผ่าน [Aspose.PDF สำหรับ Java](https://products.aspose.com/pdf/java/) ให้คุณเปิดเอกสารที่เข้ารหัสได้เช่นกัน ในการเปิดไฟล์ที่เข้ารหัส คุณสามารถเริ่มต้นอินสแตนซ์ใหม่ของ [เอกสาร](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-) คลาสและส่งชื่อไฟล์และรหัสผ่านเป็นอาร์กิวเมนต์  
 {{% blocks/products/pf/feature-page-code %}}
 

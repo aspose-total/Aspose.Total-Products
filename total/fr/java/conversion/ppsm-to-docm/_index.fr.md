@@ -33,7 +33,7 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://d
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Exigences de conversion" %}}DocumentDocument
+{{% blocks/products/pf/feature-page-section  h2="Exigences de conversion" %}}
 À l'aide de l'API, vous pouvez également effectuer une conversion de fichier PPSM en DOCM avec filigrane. Afin d'ajouter un filigrane à votre documentDOCM, vous pouvez d'abord convertir le fichier PPSM en HTML et y ajouter un filigrane. Pour ajouter un filigrane, chargez le fichier HTML nouvellement créé à l'aide de la classe [Docmument](https://apireference.aspose.com/words/java/com.aspose.words/Docmument), créez une instance de TextWatermarkOptions et définissez ses propriétés, appelez la méthode Watermark.setText et transmettez le texte et l'objet du filigrane de TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 

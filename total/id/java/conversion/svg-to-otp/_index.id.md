@@ -41,7 +41,7 @@ presentation.save("output.otp", SaveFormat.Otp);
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Persyaratan Konversi" %}}Document#Document-java.lang.String-java.lang.String-
+{{% blocks/products/pf/feature-page-section  h2="Persyaratan Konversi" %}}
 Saat memuat format file SVG, dokumen Anda mungkin dilindungi kata sandi. [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) memungkinkan Anda membuka dokumen terenkripsi juga. Untuk membuka file terenkripsi, Anda dapat menginisialisasi instance baru [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-) dan berikan nama file dan kata sandi sebagai argumen.  
 {{% blocks/products/pf/feature-page-code %}}
 

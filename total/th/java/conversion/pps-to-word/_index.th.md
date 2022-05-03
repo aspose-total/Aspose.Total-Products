@@ -33,7 +33,7 @@ otherformats: DOTM TEXT WORDX OTT WORDML FLATOPC WORD DOT DOTX WORDM ODT RTF
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="ข้อกำหนดการแปลง" %}}DocumentDocument
+{{% blocks/products/pf/feature-page-section  h2="ข้อกำหนดการแปลง" %}}
 เมื่อใช้ API คุณยังสามารถทำการแปลงไฟล์ PPS เป็น WORD ด้วยลายน้ำ ในการเพิ่มลายน้ำให้กับเอกสาร WORD ของคุณ ก่อนอื่นให้แปลงไฟล์ PPS เป็น HTML และเพิ่มลายน้ำลงไป ในการเพิ่มลายน้ำ ให้โหลดไฟล์ HTML ที่สร้างขึ้นใหม่โดยใช้คลาส [Wordument](https://apireference.aspose.com/words/java/com.aspose.words/Wordument) สร้างอินสแตนซ์ของ TextWatermarkOptions และตั้งค่า คุณสมบัติของมัน วิธี Call Watermark.setText และส่งข้อความลายน้ำ & วัตถุของ TextWatermarkOptions  
 {{% blocks/products/pf/feature-page-code %}}
 

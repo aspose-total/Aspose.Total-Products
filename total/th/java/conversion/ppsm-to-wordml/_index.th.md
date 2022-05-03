@@ -33,7 +33,7 @@ otherformats: DOTX DOTM FLATOPC RTF DOT WORDML OTT TEXT WORD ODT WORDMLX WORDMLM
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="ข้อกำหนดการแปลง" %}}DocumentDocument
+{{% blocks/products/pf/feature-page-section  h2="ข้อกำหนดการแปลง" %}}
 เมื่อใช้ API คุณยังสามารถทำการแปลงไฟล์ PPSM เป็น WORDML ด้วยลายน้ำ ในการเพิ่มลายน้ำให้กับเอกสาร WORDML ของคุณ ก่อนอื่นให้แปลงไฟล์ PPSM เป็น HTML และเพิ่มลายน้ำลงไป ในการเพิ่มลายน้ำ ให้โหลดไฟล์ HTML ที่สร้างขึ้นใหม่โดยใช้คลาส [Wordmlument](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument) สร้างอินสแตนซ์ของ TextWatermarkOptions และตั้งค่า คุณสมบัติของมัน วิธี Call Watermark.setText และส่งข้อความลายน้ำ & วัตถุของ TextWatermarkOptions  
 {{% blocks/products/pf/feature-page-code %}}
 

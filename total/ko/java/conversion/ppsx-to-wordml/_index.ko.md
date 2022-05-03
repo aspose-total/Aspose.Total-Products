@@ -33,7 +33,7 @@ PPSX에서 WORDML 파일 변환을 위해 [Maven](https://repository.aspose.com/
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="변환 요구 사항" %}}DocumentDocument
+{{% blocks/products/pf/feature-page-section  h2="변환 요구 사항" %}}
 API를 사용하여 워터마크를 사용하여 PPSX 파일을 WORDML로 변환할 수도 있습니다. WORDML 문서에 워터마크를 추가하려면 먼저 PPSX 파일을 HTML로 변환하고 워터마크를 추가할 수 있습니다. 워터마크를 추가하려면 [Wordmlument](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument) 클래스를 사용하여 새로 생성된 HTML 파일을 로드하고 TextWatermarkOptions의 인스턴스를 생성하고 설정합니다. 해당 속성, Watermark.setText 메서드를 호출하고 TextWatermarkOptions의 워터마크 텍스트 및 개체를 전달합니다.  
 {{% blocks/products/pf/feature-page-code %}}
 

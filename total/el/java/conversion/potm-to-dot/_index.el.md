@@ -33,7 +33,7 @@ otherformats: WORD TEXT DOT WORDML DOTX OTT DOTX DOTM FLATOPC DOTM ODT RTF
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Απαιτήσεις μετατροπής" %}}DocumentDocument
+{{% blocks/products/pf/feature-page-section  h2="Απαιτήσεις μετατροπής" %}}
 Χρησιμοποιώντας το API, μπορείτε επίσης να πραγματοποιήσετε μετατροπή αρχείου POTM σε DOT με υδατογράφημα. Για να προσθέσετε ένα υδατογράφημα στο έγγραφό σας DOT, μπορείτε πρώτα να μετατρέψετε το αρχείο POTM σε HTML και να προσθέσετε ένα υδατογράφημα σε αυτό. Για να προσθέσετε ένα υδατογράφημα, φορτώστε το νέο αρχείο HTML χρησιμοποιώντας την κλάση [Dotument](https://apireference.aspose.com/words/java/com.aspose.words/Dotument), δημιουργήστε μια παρουσία του TextWatermarkOptions και ορίστε Οι ιδιότητές του, Καλέστε τη μέθοδο Watermark.setText και περάστε κείμενο υδατογραφήματος & αντικείμενο του TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 

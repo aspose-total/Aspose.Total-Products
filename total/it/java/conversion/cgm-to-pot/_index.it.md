@@ -41,7 +41,7 @@ presentation.save("output.pot", SaveFormat.Pot);
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Requisiti di conversione" %}}Document#Document-java.lang.String-java.lang.String-
+{{% blocks/products/pf/feature-page-section  h2="Requisiti di conversione" %}}
 Durante il caricamento del formato file CGM, il documento potrebbe essere protetto da password. [Aspose.PDF per Java](https://products.aspose.com/pdf/java/) consente di aprire anche documenti crittografati. Per aprire il file crittografato, è possibile inizializzare una nuova istanza di [Document](https://apiference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java .lang.String-) e passare il nome del file e la password come argomenti.  
 {{% blocks/products/pf/feature-page-code %}}
 

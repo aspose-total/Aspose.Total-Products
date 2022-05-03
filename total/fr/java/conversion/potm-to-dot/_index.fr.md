@@ -33,7 +33,7 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://d
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Exigences de conversion" %}}DocumentDocumentDocument
+{{% blocks/products/pf/feature-page-section  h2="Exigences de conversion" %}}
 À l'aide de l'API, vous pouvez également effectuer une conversion de fichier POTM en DOT avec filigrane. Afin d'ajouter un filigrane à votre dotument DOT, vous pouvez d'abord convertir le fichier POTM en HTML et y ajouter un filigrane. Pour ajouter un filigrane, chargez le fichier HTML nouvellement créé à l'aide de la classe [Dotument](https://apireference.aspose.com/words/java/com.aspose.words/Dotument), créez une instance de TextWatermarkOptions et définissez ses propriétés, appelez la méthode Watermark.setText et transmettez le texte et l'objet du filigrane de TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 

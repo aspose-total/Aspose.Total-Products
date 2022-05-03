@@ -33,7 +33,7 @@ otherformats: WORDX TEXT FLATOPC WORD RTF ODT WORDM WORDML OTT DOT DOTX DOTM
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="转换要求" %}}DocumentDocument
+{{% blocks/products/pf/feature-page-section  h2="转换要求" %}}
 使用 API，您还可以执行 PPTX 文件到带有水印的 WORD 转换。为了给您的 WORD 文档添加水印，您可以先将 PPTX 文件转换为 HTML 并为其添加水印。为了添加水印，使用 [Wordument](https://apireference.aspose.com/words/java/com.aspose.words/Wordument) 类加载新创建的 HTML 文件，创建 TextWatermarkOptions 的实例并设置它的属性，调用 Watermark.setText 方法并传递水印文本和 TextWatermarkOptions 的对象。  
 {{% blocks/products/pf/feature-page-code %}}
 

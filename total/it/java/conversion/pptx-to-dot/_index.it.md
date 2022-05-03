@@ -33,7 +33,7 @@ In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspos
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Requisiti di conversione" %}}DocumentDocumentDocument
+{{% blocks/products/pf/feature-page-section  h2="Requisiti di conversione" %}}
 Utilizzando l'API, puoi anche eseguire la conversione da file PPTX a DOT con filigrana. Per aggiungere una filigrana al tuo dotumento DOT, puoi prima convertire il file PPTX in HTML e aggiungervi una filigrana. Per aggiungere una filigrana, carica il file HTML appena creato utilizzando la classe [Dotument](https://apiference.aspose.com/words/java/com.aspose.words/Dotument), crea un'istanza di TextWatermarkOptions e imposta le sue proprietà, chiama il metodo Watermark.setText e passa il testo e l'oggetto della filigrana di TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 

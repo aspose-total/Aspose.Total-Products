@@ -38,7 +38,7 @@ In alternativa, scarica il programma di installazione MSI offline o le DLL in un
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-sectDocument"Converti DOT protetto in formDocument tramite C#" %}}DocumentDocument
+{{% blocks/products/pf/feature-page-section h2="Converti DOT protetto in formDocument tramite C#" %}}
 Utilizzando l'API, puoi anche aprire il dotumento protetto da password. Se il dotumento DOT di input è protetto da password, non è possibile convertirlo in formato JSON senza utilizzare la password. L'API consente di aprire il dotumento crittografato passando la password corretta in un oggetto LoadOptions. L'esempio di codice seguente mostra come provare ad aprire un dotumento crittografato con una password:  
 {{% blocks/products/pf/feature-page-code %}}
 

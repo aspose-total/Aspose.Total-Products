@@ -33,7 +33,7 @@ In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspos
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-sectDocument"Requisiti di conversione" %}}DocumentDocumentDocument
+{{% blocks/products/pf/feature-page-section h2="Requisiti di conversione" %}}
 Utilizzando l'API, puoi anche aprire il dotumento protetto da password. Se il dotumento DOT di input è protetto da password, non è possibile convertirlo in formato JSON senza utilizzare la password. L'API consente di aprire il dotumento crittografato passando la password corretta in un oggetto LoadOptions. L'esempio di codice seguente mostra come provare ad aprire un dotumento crittografato con una password:  
 {{% blocks/products/pf/feature-page-code %}}
 

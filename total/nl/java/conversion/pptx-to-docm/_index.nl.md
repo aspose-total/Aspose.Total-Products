@@ -33,7 +33,7 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Conversievereisten" %}}DocumentDocument
+{{% blocks/products/pf/feature-page-section  h2="Conversievereisten" %}}
 Met behulp van de API kunt u ook een PPTX-bestand naar DOCM-conversie met watermerk uitvoeren. Om een watermerk aan uw DOCM-documenttoe te voegen, kunt u het PPTX-bestand eerst naar HTML converteren en er een watermerk aan toevoegen. Om een watermerk toe te voegen, laadt u het nieuw gemaakte HTML-bestand met de klasse [Docmument](https://apireference.aspose.com/words/java/com.aspose.words/Docmument), maakt u een instantie van TextWatermarkOptions en stelt u zijn eigenschappen, Bel de methode Watermark.setText en geef de watermerktekst en het object van TextWatermarkOptions door.  
 {{% blocks/products/pf/feature-page-code %}}
 

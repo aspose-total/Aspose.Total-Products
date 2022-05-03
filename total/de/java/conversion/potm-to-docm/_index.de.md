@@ -33,7 +33,7 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://downloads.aspose.c
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Konvertierungsanforderungen" %}}DocumentDocument
+{{% blocks/products/pf/feature-page-section  h2="Konvertierungsanforderungen" %}}
 Mit der API können Sie auch eine POTM-Datei in eine DOCM-Konvertierung mit Wasserzeichen durchführen. Um Ihrem DOCM-Dokument ein Wasserzeichen hinzuzufügen, können Sie zuerst die POTM-Datei in HTML konvertieren und ihr ein Wasserzeichen hinzufügen. Um ein Wasserzeichen hinzuzufügen, laden Sie die neu erstellte HTML-Datei mit der Klasse [Docmument](https://apireference.aspose.com/words/java/com.aspose.words/Docmument), erstellen Sie eine Instanz von TextWatermarkOptions und setzen Sie sie seine Eigenschaften, Methode Watermark.setText aufrufen und Wasserzeichentext und Objekt von TextWatermarkOptions übergeben.  
 {{% blocks/products/pf/feature-page-code %}}
 

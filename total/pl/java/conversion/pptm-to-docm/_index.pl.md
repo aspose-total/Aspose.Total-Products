@@ -33,7 +33,7 @@ Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Wymagania dotyczące konwersji" %}}DocumentDocument
+{{% blocks/products/pf/feature-page-section  h2="Wymagania dotyczące konwersji" %}}
 Korzystając z API, możesz również wykonać konwersję pliku PPTM do DOCM ze znakiem wodnym. Aby dodać znak wodny do dokumentu DOCM, możesz najpierw przekonwertować plik PPTM na HTML i dodać do niego znak wodny. Aby dodać znak wodny, załaduj nowo utworzony plik HTML za pomocą klasy [Docmument](https://apireference.aspose.com/words/java/com.aspose.words/Docmument), utwórz instancję TextWatermarkOptions i ustaw jego właściwości, wywołaj metodę Watermark.setText i przekaż tekst znaku wodnego i obiekt TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 

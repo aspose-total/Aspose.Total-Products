@@ -33,7 +33,7 @@ Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloa
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Requisitos de conversão" %}}DocumentDocument
+{{% blocks/products/pf/feature-page-section  h2="Requisitos de conversão" %}}
 Usando a API, você também pode realizar a conversão de arquivo POT para DOCM com marca d'água. Para adicionar uma marca d'água ao seu document DOCM, você pode primeiro converter o arquivo POT para HTML e adicionar uma marca d'água a ele. Para adicionar uma marca d'água, carregue o arquivo HTML recém-criado usando a classe [Docmument](https://apireference.aspose.com/words/java/com.aspose.words/Docmument), crie uma instância de TextWatermarkOptions e defina suas propriedades, chame o método Watermark.setText e passe o texto da marca d'água e o objeto de TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 

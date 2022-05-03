@@ -33,7 +33,7 @@ otherformats: ODT RTF WORD FLATOPC OTT WORDMLX DOT WORDMLM DOTX TEXT WORDML DOTM
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Απαιτήσεις μετατροπής" %}}DocumentDocument
+{{% blocks/products/pf/feature-page-section  h2="Απαιτήσεις μετατροπής" %}}
 Χρησιμοποιώντας το API, μπορείτε επίσης να πραγματοποιήσετε μετατροπή αρχείου POWERPOINT σε WORDML με υδατογράφημα. Για να προσθέσετε ένα υδατογράφημα στο έγγραφό σας WORDML, μπορείτε πρώτα να μετατρέψετε το αρχείο POWERPOINT σε HTML και να προσθέσετε ένα υδατογράφημα σε αυτό. Για να προσθέσετε ένα υδατογράφημα, φορτώστε το νέο αρχείο HTML χρησιμοποιώντας την κλάση [Wordmlument](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument), δημιουργήστε μια παρουσία του TextWatermarkOptions και ορίστε Οι ιδιότητές του, Καλέστε τη μέθοδο Watermark.setText και περάστε κείμενο υδατογραφήματος & αντικείμενο του TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 

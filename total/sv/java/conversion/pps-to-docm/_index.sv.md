@@ -33,7 +33,7 @@ Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Konverteringskrav" %}}DocumentDocument
+{{% blocks/products/pf/feature-page-section  h2="Konverteringskrav" %}}
 Med hjälp av API:t kan du också utföra PPS-fil till DOCM-konvertering med vattenstämpel. För att lägga till en vattenstämpel till ditt DOCM-dokument kan du först konvertera PPS-filen till HTML och lägga till en vattenstämpel till den. För att lägga till en vattenstämpel, ladda den nyskapade HTML-filen med klassen [Docmument](https://apireference.aspose.com/words/java/com.aspose.words/Docmument), skapa en instans av TextWatermarkOptions och ställ in dess egenskaper, anrop Watermark.setText-metoden och skicka vattenstämpeltext och objekt av TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 

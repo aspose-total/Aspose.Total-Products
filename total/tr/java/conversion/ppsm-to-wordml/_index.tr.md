@@ -33,7 +33,7 @@ Alternatif olarak, [indirilenler](https://downloads.aspose.com/total/java) adres
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Dönüşüm Gereksinimleri" %}}DocumentDocument
+{{% blocks/products/pf/feature-page-section  h2="Dönüşüm Gereksinimleri" %}}
 API'yi kullanarak, filigranlı PPSM dosyasını WORDML'ye dönüştürme işlemini de gerçekleştirebilirsiniz. WORDML belgenize filigran eklemek için öncelikle PPSM dosyasını HTML'ye çevirebilir ve ona bir filigran ekleyebilirsiniz. Filigran eklemek için, yeni oluşturulan HTML dosyasını [Wordmlument](https://apireference.aspose.com/words/java/com.aspose.words/Wordmlument) sınıfını kullanarak yükleyin, bir TextWatermarkOptions örneği oluşturun ve ayarlayın özellikleri, Watermark.setText yöntemini çağırın ve filigran metnini ve TextWatermarkOptions nesnesini iletin.  
 {{% blocks/products/pf/feature-page-code %}}
 

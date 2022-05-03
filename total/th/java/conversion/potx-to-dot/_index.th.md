@@ -33,7 +33,7 @@ otherformats: WORD TEXT ODT OTT WORDML RTF DOTX DOTM DOTX DOTM FLATOPC DOT
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="ข้อกำหนดการแปลง" %}}DocumentDocument
+{{% blocks/products/pf/feature-page-section  h2="ข้อกำหนดการแปลง" %}}
 เมื่อใช้ API คุณยังสามารถทำการแปลงไฟล์ POTX เป็น DOT ด้วยลายน้ำ ในการเพิ่มลายน้ำให้กับเอกสาร DOT ของคุณ ก่อนอื่นให้แปลงไฟล์ POTX เป็น HTML และเพิ่มลายน้ำลงไป ในการเพิ่มลายน้ำ ให้โหลดไฟล์ HTML ที่สร้างขึ้นใหม่โดยใช้คลาส [Dotument](https://apireference.aspose.com/words/java/com.aspose.words/Dotument) สร้างอินสแตนซ์ของ TextWatermarkOptions และตั้งค่า คุณสมบัติของมัน วิธี Call Watermark.setText และส่งข้อความลายน้ำ & วัตถุของ TextWatermarkOptions  
 {{% blocks/products/pf/feature-page-code %}}
 

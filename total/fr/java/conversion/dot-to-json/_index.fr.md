@@ -33,7 +33,7 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://d
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="ExDocumentde conversion" %}}DocumentDocumentDocument
+{{% blocks/products/pf/feature-page-section  h2="ExDocumentde conversion" %}}
 À l'aide de l'API, vous pouvez également ouvrir le dotument protégé par mot de passe. Si votre dotument DOT d'entrée est protégé par un mot de passe, vous ne pouvez pas le convertir au format JSON sans utiliser le mot de passe. L'API vous permet d'ouvrir le dotument chiffré en passant le mot de passe correct dans un objet LoadOptions. L'exemple de code suivant montre comment essayer d'ouvrir un dotument chiffré avec un mot de passe :  
 {{% blocks/products/pf/feature-page-code %}}
 
