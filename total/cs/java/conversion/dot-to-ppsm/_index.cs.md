@@ -16,7 +16,7 @@ otherformats: PPSM POWERPOINT PPSX PPTM POT PPT PPTX PPS POTM POTX CSV DIF FODS 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak převést DOT na PPSM přes Java" %}}
-1. Otevřete soubor DOT pomocí třídy [Dotument](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+1. Otevřete soubor DOT pomocí třídy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 2. Převeďte soubor DOT do HTML pomocí [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) metoda
 3. Inicializujte nový objekt [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extrahujte obsah ze souboru HTML pomocí BufferedReader a zapište obsah do souboru prezentace

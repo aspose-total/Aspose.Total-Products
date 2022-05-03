@@ -44,7 +44,7 @@ outputDocument.save("output.ps", SaveFormat.PS);
 {{% blocks/products/pf/feature-page-section  h2="Conversievereisten" %}}
 Tijdens het converteren van MD naar PS kunt u, zelfs als uw document met een wachtwoord is beveiligd, het nog steeds openen met de PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). Om het versleutelde bestand te openen, moet u een [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)-object maken en de MD openen met het wachtwoord van de eigenaar.  
 {{% blocks/products/pf/feature-page-code %}}
-```cs```cs
+```cs
 // open encrypted document
 Document document = new Document("input.md", "password");
 // save MD as a DOC 

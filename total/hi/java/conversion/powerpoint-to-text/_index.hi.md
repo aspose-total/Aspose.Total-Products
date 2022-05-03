@@ -16,9 +16,9 @@ otherformats: OTT TEXTM WORDML RTF TEXT DOTX WORD TEXTX FLATOPC ODT DOT DOTM
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="जावा के माध्यम से पीओटी को डीओसी में कैसे बदलें" %}}
-1. [प्रस्तुति](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) वर्ग का उपयोग करके POWERPOINT फ़ाइल खोलें
+1. [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) वर्ग का उपयोग करके POWERPOINT फ़ाइल खोलें
 2. [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides का उपयोग करके POWERPOINT को HTML में बदलें। ISaveOptions-) विधि और HTML को SaveFormat के रूप में सेट करें
-3. परिवर्तित HTML फ़ाइल को [दस्तावेज़](https://apireference.aspose.com/words/java/com.aspose.words/Textument) वर्ग का उपयोग करके लोड करें
+3. परिवर्तित HTML फ़ाइल को [Document](https://apireference.aspose.com/words/java/com.aspose.words/Textument) वर्ग का उपयोग करके लोड करें
 4. [save](https://apireference.aspose.com/words/java/com.aspose.words/Textument#save(java.lang.String,int)) विधि का उपयोग करके दस्तावेज़ को TEXT प्रारूप में सहेजें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
@@ -34,7 +34,7 @@ POWERPOINT से TEXT फ़ाइल रूपांतरण के लिए
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="रूपांतरण आवश्यकताएँ" %}}
-एपीआई का उपयोग करके, आप वॉटरमार्क के साथ पीओटी फ़ाइल को डीओसी रूपांतरण में भी कर सकते हैं। अपने TEXT दस्तावेज़ में वॉटरमार्क जोड़ने के लिए, आप पहले POWERPOINT फ़ाइल को HTML में बदल सकते हैं और उसमें वॉटरमार्क जोड़ सकते हैं। वॉटरमार्क जोड़ने के लिए, [दस्तावेज़](https://apireference.aspose.com/words/java/com.aspose.words/Textument) वर्ग का उपयोग करके नई बनाई गई HTML फ़ाइल लोड करें, TextWatermarkOptions का एक उदाहरण बनाएं और सेट करें इसके गुण, Watermark.setText विधि को कॉल करें और वॉटरमार्क टेक्स्ट और TextWatermarkOptions का ऑब्जेक्ट पास करें।  
+एपीआई का उपयोग करके, आप वॉटरमार्क के साथ पीओटी फ़ाइल को डीओसी रूपांतरण में भी कर सकते हैं। अपने TEXT दस्तावेज़ में वॉटरमार्क जोड़ने के लिए, आप पहले POWERPOINT फ़ाइल को HTML में बदल सकते हैं और उसमें वॉटरमार्क जोड़ सकते हैं। वॉटरमार्क जोड़ने के लिए, [Document](https://apireference.aspose.com/words/java/com.aspose.words/Textument) वर्ग का उपयोग करके नई बनाई गई HTML फ़ाइल लोड करें, TextWatermarkOptions का एक उदाहरण बनाएं और सेट करें इसके गुण, Watermark.setText विधि को कॉल करें और वॉटरमार्क टेक्स्ट और TextWatermarkOptions का ऑब्जेक्ट पास करें।  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}

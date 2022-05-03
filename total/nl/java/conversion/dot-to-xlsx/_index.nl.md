@@ -12,14 +12,14 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS XLSX EXCEL XLSX SXC TSV XLSB
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Converteer DOT naar XLSX via Java" h2="On Premise Java API om DOT naar XLSX te converteren zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Het converteren van DOT naar XLSX via [Aspose.Total for Java](https://products.aspose.com/total/java/) is een eenvoudig proces in twee stappen. Door gebruik te maken van de veelzijdige API voor dotumentmanipulatie en conversie [Aspose.Words for Java](https://products.aspose.com/words/java/), kunt u DOT naar HTML exporteren. Daarna kunt u met [Aspose.Cells for Java](https://products.aspose.com/cells/java/) HTML naar XLSX converteren.
+Het converteren van DOT naar XLSX via [Aspose.Total for Java](https://products.aspose.com/total/java/) is een eenvoudig proces in twee stappen. Door gebruik te maken van de veelzijdige API voor Documentmanipulatie en conversie [Aspose.Words for Java](https://products.aspose.com/words/java/), kunt u DOT naar HTML exporteren. Daarna kunt u met [Aspose.Cells for Java](https://products.aspose.com/cells/java/) HTML naar XLSX converteren.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API om DOT naar XLSX te converteren" %}}
-1. Open het DOT-bestand met de klasse [Dotument](https://apireference.aspose.com/words/java/com.aspose.words/Dotument)
-2. Converteer DOT naar HTML met behulp van [Save](https://apireference.aspose.com/words/java/com.aspose.words/Dotument#save(java.lang.String,com.aspose.words.SaveOptions) ) methode:
-3. Laad HTML-dotument met behulp van [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) klasse
-4. Sla het dotument op in XLSX-indeling met [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. SaveOptions)) methode
+1. Open het DOT-bestand met de klasse [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. Converteer DOT naar HTML met behulp van [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) methode:
+3. Laad HTML-Document met behulp van [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) klasse
+4. Sla het Document op in XLSX-indeling met [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. SaveOptions)) methode
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
 U kunt Aspose.Total voor Java gemakkelijk rechtstreeks vanuit een op [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) gebaseerd project gebruiken en omvatten [Aspose.Words voor Java](https://docs.aspose.com/words/java/installation/) en [Aspose.Cells voor Java](https://docs.aspose.com/cells/java/ installatie/) in uw po.xml.
@@ -34,15 +34,15 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Conversievereisten" %}}
-Voordat u DOT naar XLSX converteert, kunt u ongebruikte informatie uit het DOT-dotument verwijderen via [Aspose.Words for Java](https://products.aspose.com/words/java/). Soms moet u ongebruikte of dubbele informatie verwijderen om de grootte van het uitvoerdotument en de verwerkingstijd te verminderen. Met de klasse [CleanupOptions](https://apireference.aspose.com/words/java/com.aspose.words/CleanupOptions) kunt u opties opgeven voor het opschonen van dotumenten. Om dubbele stijlen of alleen ongebruikte stijlen of lijsten uit het dotument te verwijderen, kunt u de methode [Cleanup](https://apireference.aspose.com/words/java/com.aspose.words/Dotument#cleanup()) gebruiken. U kunt de [UnusedStyles](https://apireference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) en [UnusedBuiltinStyles](https://apireference.aspose.com/words/java gebruiken /com.aspose.words/cleanupoptions#UnusedBuiltinStyles) eigenschappen om stijlen te detecteren en te verwijderen die zijn gemarkeerd als "ongebruikt".  
+Voordat u DOT naar XLSX converteert, kunt u ongebruikte informatie uit het DOT-Document verwijderen via [Aspose.Words for Java](https://products.aspose.com/words/java/). Soms moet u ongebruikte of dubbele informatie verwijderen om de grootte van het uitvoerDocument en de verwerkingstijd te verminderen. Met de klasse [CleanupOptions](https://apireference.aspose.com/words/java/com.aspose.words/CleanupOptions) kunt u opties opgeven voor het opschonen van Documenten. Om dubbele stijlen of alleen ongebruikte stijlen of lijsten uit het Document te verwijderen, kunt u de methode [Cleanup](https://apireference.aspose.com/words/java/com.aspose.words/Document#cleanup()) gebruiken. U kunt de [UnusedStyles](https://apireference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) en [UnusedBuiltinStyles](https://apireference.aspose.com/words/java gebruiken /com.aspose.words/cleanupoptions#UnusedBuiltinStyles) eigenschappen om stijlen te detecteren en te verwijderen die zijn gemarkeerd als "ongebruikt".  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-protected-word-to-excel.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-section  h2="Verwijder ongebruikte informatie uit een DOT-dotument via Java" %}}
-Na het converteren van DOT naar XLSX, kunt u met [Aspose.Cells for Java](https://products.aspose.com/cells/java/) uw dotument opslaan om te streamen. Als u bestanden naar een stream moet opslaan, moet u een FileOutputStream-object maken en vervolgens [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions)) het bestand naar dat Stream-object door de opslagmethode van [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) aan te roepen voorwerp. 
+{{% blocks/products/pf/feature-page-section  h2="Verwijder ongebruikte informatie uit een DOT-Document via Java" %}}
+Na het converteren van DOT naar XLSX, kunt u met [Aspose.Cells for Java](https://products.aspose.com/cells/java/) uw Document opslaan om te streamen. Als u bestanden naar een stream moet opslaan, moet u een FileOutputStream-object maken en vervolgens [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions)) het bestand naar dat Stream-object door de opslagmethode van [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) aan te roepen voorwerp. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-word-to-protected-excel.java" >}}

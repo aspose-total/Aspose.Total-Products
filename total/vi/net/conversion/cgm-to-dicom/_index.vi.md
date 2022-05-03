@@ -18,7 +18,7 @@ Sử dụng [Aspose.Total for .NET](https://products.aspose.com/total/net/), b�
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi tệp CGM sang DICOM qua .NET" %}}
-1. Mở tệp CGM bằng lớp [Tài liệu](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
+1. Mở tệp CGM bằng lớp [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
 2. Khởi tạo đối tượng lớp [JpegDevice](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) và kết xuất CGM thành JPEG bằng cách sử dụng [Process](https://apireference.aspose. com/pdf/net/ aspose.pdf.devices.pagedevice/process/methods/1) method
 3. Tải tệp JPEG bằng cách sử dụng lớp [Hình ảnh](https://apireference.aspose.com/imaging/net/aspose.imaging/image)
 4. Lưu tài liệu sang định dạng DICOM bằng phương pháp [Save](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
@@ -39,7 +39,7 @@ Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp Z
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Chuyển đổi tệp CGM sang DICOM trong một tệp duy nhất qua C#" %}}
-Sử dụng API, bạn cũng có thể chuyển đổi tệp CGM sang DICOM thành một tệp hình ảnh duy nhất. Để chuyển đổi tất cả các trang, trước tiên bạn có thể kết xuất tài liệu CGM của mình thành một tệp TIFF và sau đó, bạn có thể xuất tệp TIFF sang DICOM. Bạn có thể mở tệp đầu vào bằng lớp [Tài liệu](https://apireference.aspose.com/pdf/net/aspose.pdf/document) và tạo các đối tượng thiết bị Resolution, TiffSettings và TIFF. Bạn có thể lấy một hình ảnh TIFF duy nhất bằng phương pháp [Process](https://apireference.aspose.com/pdf/net/aspose.pdf.devices.documentdevice/process/methods/3) của phương thức [TiffDevice](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice) lớp. Cuối cùng, bạn có thể tải tệp TIFF bằng lớp [Hình ảnh](https://apireference.aspose.com/imaging/net/aspose.imaging/image)
+Sử dụng API, bạn cũng có thể chuyển đổi tệp CGM sang DICOM thành một tệp hình ảnh duy nhất. Để chuyển đổi tất cả các trang, trước tiên bạn có thể kết xuất tài liệu CGM của mình thành một tệp TIFF và sau đó, bạn có thể xuất tệp TIFF sang DICOM. Bạn có thể mở tệp đầu vào bằng lớp [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) và tạo các đối tượng thiết bị Resolution, TiffSettings và TIFF. Bạn có thể lấy một hình ảnh TIFF duy nhất bằng phương pháp [Process](https://apireference.aspose.com/pdf/net/aspose.pdf.devices.documentdevice/process/methods/3) của phương thức [TiffDevice](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice) lớp. Cuối cùng, bạn có thể tải tệp TIFF bằng lớp [Hình ảnh](https://apireference.aspose.com/imaging/net/aspose.imaging/image)
 và lưu nó ở định dạng DICOM bằng phương pháp [Save](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4).  
 {{% blocks/products/pf/feature-page-code %}}
 

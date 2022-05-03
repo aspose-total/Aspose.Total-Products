@@ -18,10 +18,10 @@ Usando [Aspose.Total for .NET](https://products.aspose.com/total/net/) você pod
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converter DOT para formato JSON via C#" %}}
-1. Abra o arquivo DOT usando a classe [Dotument](https://apireference.aspose.com/words/net/aspose.words/dotument)
-2. Converta DOT para HTML usando o método [Salvar](https://apireference.aspose.com/words/net/aspose.words.dotument/save/methods/4)
-3. Carregue o dotumento HTML usando a classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Salve o dotumento no formato JSON usando o método [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+1. Abra o arquivo DOT usando a classe [Document](https://apireference.aspose.com/words/net/aspose.words/Document)
+2. Converta DOT para HTML usando o método [Salvar](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4)
+3. Carregue o Documento HTML usando a classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+4. Salve o Documento no formato JSON usando o método [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
@@ -39,7 +39,7 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Converter DOT protegido para formato JSON via C#" %}}
-Usando a API, você também pode abrir o dotumento protegido por senha. Se o dotumento DOT de entrada estiver protegido por senha, você não poderá convertê-lo para o formato JSON sem usar a senha. A API permite que você abra o dotumento criptografado passando a senha correta em um objeto LoadOptions. O exemplo de código a seguir mostra como tentar abrir um dotumento criptografado com uma senha:  
+Usando a API, você também pode abrir o Documento protegido por senha. Se o Documento DOT de entrada estiver protegido por senha, você não poderá convertê-lo para o formato JSON sem usar a senha. A API permite que você abra o Documento criptografado passando a senha correta em um objeto LoadOptions. O exemplo de código a seguir mostra como tentar abrir um Documento criptografado com uma senha:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "3320154ab7b06def2475ce90c7703f13" "convert-protected-word-to-json.cs" >}}

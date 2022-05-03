@@ -44,7 +44,7 @@ outputDocument.save("output.docm", SaveFormat.DOCM);
 {{% blocks/products/pf/feature-page-section  h2="Dönüşüm Gereksinimleri" %}}
 MHTML'yi DOCM'ye dönüştürürken belgeniz parola korumalı olsa bile PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) kullanarak belgeyi açabilirsiniz. Şifrelenmiş dosyayı açmak için bir [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) nesnesi oluşturmanız ve MHTML'yi sahibinin parolasını kullanarak açmanız gerekir.  
 {{% blocks/products/pf/feature-page-code %}}
-```cs```cs
+```cs
 // open encrypted document
 Document document = new Document("input.mhtml", "password");
 // save MHTML as a DOC 

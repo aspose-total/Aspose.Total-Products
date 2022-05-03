@@ -18,7 +18,7 @@ Sử dụng gói API tự động hóa định dạng tệp mạnh mẽ [Aspose.
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API để chuyển đổi MHTML sang POT" %}}
-1. Mở tệp MHTML bằng lớp [Tài liệu](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
+1. Mở tệp MHTML bằng lớp [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
 2. Chuyển đổi MHTML sang PPTX bằng phương pháp [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
 3. Tải tệp PPTX bằng cách sử dụng lớp [Trình bày](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 4. Lưu tài liệu sang định dạng POT bằng phương pháp [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) và đặt `Pot` thành SaveFormat
@@ -47,7 +47,7 @@ presentation.Save("output.pot", SaveFormat.Pot);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Nhận siêu dữ liệu XMP từ tệp MHTML qua .NET" %}}
-Trong khi chuyển đổi MHTML sang POT, bạn có thể cần thêm thông tin siêu dữ liệu XMP để ưu tiên quá trình chuyển đổi hàng loạt của mình. Ví dụ: bạn có thể lấy và sắp xếp các tài liệu chuyển đổi của mình dựa trên ngày tạo và xử lý tài liệu cho phù hợp. [Aspose.PDF dành for .NET](https://products.aspose.com/pdf/net/) cho phép bạn truy cập siêu dữ liệu XMP của tệp MHTML. Để nhận siêu dữ liệu của tệp MHTML, bạn có thể tạo đối tượng [Tài liệu](https://apireference.aspose.com/pdf/net/aspose.pdf/document) và mở tệp MHTML đầu vào. Sau đó, bạn có thể lấy siêu dữ liệu của tệp bằng thuộc tính [Siêu dữ liệu](https://apireference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata).  
+Trong khi chuyển đổi MHTML sang POT, bạn có thể cần thêm thông tin siêu dữ liệu XMP để ưu tiên quá trình chuyển đổi hàng loạt của mình. Ví dụ: bạn có thể lấy và sắp xếp các tài liệu chuyển đổi của mình dựa trên ngày tạo và xử lý tài liệu cho phù hợp. [Aspose.PDF dành for .NET](https://products.aspose.com/pdf/net/) cho phép bạn truy cập siêu dữ liệu XMP của tệp MHTML. Để nhận siêu dữ liệu của tệp MHTML, bạn có thể tạo đối tượng [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) và mở tệp MHTML đầu vào. Sau đó, bạn có thể lấy siêu dữ liệu của tệp bằng thuộc tính [Siêu dữ liệu](https://apireference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

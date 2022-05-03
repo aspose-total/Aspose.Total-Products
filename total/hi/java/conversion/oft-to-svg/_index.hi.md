@@ -18,7 +18,7 @@ otherformats: DOT WORDML JPEG DOTX EMF TIFF MD DOCM PNG ODT DOCX TEXT OTT GIF DO
 {{% blocks/products/pf/agp/feature-section-col title="OFT को SVG में कैसे बदलें" %}}
 1. [MailMessage](https://apireference.aspose.com/oft/java/com.aspose.oft/mailmessage) वर्ग का उपयोग करके OFT फ़ाइल खोलें
 2. [save](https://apireference.aspose.com/oft/java/com.aspose.oft/MailMessage#save(java.io.OutputStream,%20com.aspose.oft.SaveOptions) का उपयोग करके OFT को HTML में बदलें)) तरीका
-3. [दस्तावेज़](https://apireference.aspose.com/words/java/com.aspose.words/Document) वर्ग का उपयोग करके HTML लोड करें
+3. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) वर्ग का उपयोग करके HTML लोड करें
 4. [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) का उपयोग करके दस्तावेज़ को SVG प्रारूप में सहेजें)) विधि और बीएमपी को SaveFormat के रूप में सेट करें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}

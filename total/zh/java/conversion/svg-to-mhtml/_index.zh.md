@@ -44,7 +44,7 @@ outputDocument.save("output.mhtml", SaveFormat.MHTML);
 {{% blocks/products/pf/feature-page-section  h2="通过 Java 打开受密码保护的 SVG 文档" %}}
 在将 SVG 转换为 MHTML 时，即使您的文档受密码保护，您仍然可以使用 PDF 操作 API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) 打开它。为了打开加密文件，您需要创建一个 [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) 对象并使用所有者的密码打开 SVG。  
 {{% blocks/products/pf/feature-page-code %}}
-```cs```cs
+```cs
 // open encrypted document
 Document document = new Document("input.svg", "password");
 // save SVG as a DOC 

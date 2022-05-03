@@ -16,11 +16,11 @@ Vaak moeten ontwikkelaars het DOT-bestand programmatisch naar POTX converteren. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hoe DOT naar POTX te converteren via Java" %}}
-1. Open het DOT-bestand met de klasse [Dotument](https://apireference.aspose.com/words/java/com.aspose.words/Dotument)
-2. Converteer het DOT-bestand naar HTML met behulp van [save](https://apireference.aspose.com/words/java/com.aspose.words/Dotument#save(java.lang.String,com.aspose.words.SaveOptions))) methode
+1. Open het DOT-bestand met de klasse [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. Converteer het DOT-bestand naar HTML met behulp van [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) methode
 3. Initialiseer een nieuw [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) object
 5. Extraheer inhoud uit HTML-bestand met BufferedReader en schrijf de inhoud in uw presentatiebestand
-6. Sla het dotument op in POTX met de methode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. Sla het Document op in POTX met de methode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
 Voor DOT naar POTX-bestandsconversie kunt u Aspose.Total voor Java eenvoudig rechtstreeks vanuit een [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) gebaseerd project en neem bibliotheken op in uw pom.xml.
@@ -35,7 +35,7 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Conversievereisten" %}}
-Met de API kunt u ook met een wachtwoord beveiligde DOT-dotumenten naar POTX converteren. Als uw DOT-invoerdotument met een wachtwoord is beveiligd, kunt u het niet converteren naar POTX-indeling zonder het wachtwoord te gebruiken. Om een versleuteld dotument te openen, kunt u het juiste wachtwoord instellen in het object LoadOptions en dit doorgeven aan de dotumentconstructor.  
+Met de API kunt u ook met een wachtwoord beveiligde DOT-Documenten naar POTX converteren. Als uw DOT-invoerDocument met een wachtwoord is beveiligd, kunt u het niet converteren naar POTX-indeling zonder het wachtwoord te gebruiken. Om een versleuteld Document te openen, kunt u het juiste wachtwoord instellen in het object LoadOptions en dit doorgeven aan de Documentconstructor.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dot-to-pptx.java" >}}

@@ -44,7 +44,7 @@ outputDocument.save("output.ps", SaveFormat.PS);
 {{% blocks/products/pf/feature-page-section  h2="Konverteringskrav" %}}
 När du konverterar PDF till PS, även om ditt dokument är lösenordsskyddat, kan du fortfarande öppna det med PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). För att öppna den krypterade filen måste du skapa ett [Dokument](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) objekt och öppna PDF med ägarens lösenord.  
 {{% blocks/products/pf/feature-page-code %}}
-```cs```cs
+```cs
 // open encrypted document
 Document document = new Document("input.pdf", "password");
 // save PDF as a DOC 

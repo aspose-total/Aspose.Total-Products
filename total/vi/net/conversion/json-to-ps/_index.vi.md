@@ -48,7 +48,7 @@ Trong khi phân tích cú pháp JSON thành PS, bạn cũng có thể đặt cá
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Phân tích cú pháp định dạng JSON thành PS với Watermark" %}}
-Sử dụng API, bạn cũng có thể chuyển đổi JSON thành PS với hình mờ. Để thêm hình mờ vào tài liệu PS của bạn, trước tiên bạn có thể phân tích cú pháp tệp JSON thành PDF và thêm hình mờ vào đó. Để thêm hình mờ, hãy tải tệp PDF mới được tạo bằng cách sử dụng lớp [Tài liệu](https://apireference.aspose.com/words/net/aspose.words/document), tạo một bản sao của TextWatermarkOptions và đặt các thuộc tính của nó , Gọi phương thức Watermark.SetText và chuyển văn bản & đối tượng watermark của TextWatermarkOptions. Sau khi thêm hình mờ, bạn có thể lưu tài liệu vào PS. 
+Sử dụng API, bạn cũng có thể chuyển đổi JSON thành PS với hình mờ. Để thêm hình mờ vào tài liệu PS của bạn, trước tiên bạn có thể phân tích cú pháp tệp JSON thành PDF và thêm hình mờ vào đó. Để thêm hình mờ, hãy tải tệp PDF mới được tạo bằng cách sử dụng lớp [Document](https://apireference.aspose.com/words/net/aspose.words/document), tạo một bản sao của TextWatermarkOptions và đặt các thuộc tính của nó , Gọi phương thức Watermark.SetText và chuyển văn bản & đối tượng watermark của TextWatermarkOptions. Sau khi thêm hình mờ, bạn có thể lưu tài liệu vào PS. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}

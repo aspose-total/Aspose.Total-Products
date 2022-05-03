@@ -17,8 +17,8 @@ otherformats: PCL OTT RTF PDF WORDML TIFF DOCX MD EMF JPEG DOTX DOT FLATOPC XPS 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="EMAIL को DOCX में कैसे बदलें" %}}
 1. [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage) वर्ग का उपयोग करके EMAIL फ़ाइल खोलें
-2. [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions) का उपयोग करके EMAIL को HTML में बदलें)) तरीका
-3. [दस्तावेज़](https://apireference.aspose.com/words/java/com.aspose.words/Document) वर्ग का उपयोग करके HTML लोड करें
+2. [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) का उपयोग करके EMAIL को HTML में बदलें तरीका
+3. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) वर्ग का उपयोग करके HTML लोड करें
 4. [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) का उपयोग करके दस्तावेज़ को DOCX प्रारूप में सहेजें)) विधि और बीएमपी को SaveFormat के रूप में सेट करें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}

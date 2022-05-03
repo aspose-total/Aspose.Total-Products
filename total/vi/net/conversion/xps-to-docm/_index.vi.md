@@ -18,9 +18,9 @@ otherformats: DOT FLATOPC DOTM MHTML WORDML ODT PS MARKDOWN RTF PCL OTT DOTX
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API để chuyển đổi XPS sang DOCM" %}}
-1. Mở tệp XPS bằng lớp [Tài liệu](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
+1. Mở tệp XPS bằng lớp [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
 2. Chuyển đổi XPS thành Doc bằng phương pháp [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
-3. Tải tệp Tài liệu bằng cách sử dụng lớp [Tài liệu](https://apireference.aspose.com/words/net/aspose.words/document) của Aspose.Words
+3. Tải tệp Tài liệu bằng cách sử dụng lớp [Document](https://apireference.aspose.com/words/net/aspose.words/document) của Aspose.Words
 4. Lưu tài liệu sang định dạng DOCM bằng phương pháp [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) và đặt Docm thành SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -47,7 +47,7 @@ outputDocument.Save("output.docm", SaveFormat.Docm);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Giải mã tệp XPS bằng Mật khẩu chủ sở hữu qua .NET" %}}
-Trước khi chuyển đổi XPS thành DOCM, nếu bạn muốn giải mã tài liệu của mình, bạn có thể thực hiện bằng cách sử dụng API. Để giải mã tệp PDF, trước tiên bạn cần tạo đối tượng [Tài liệu](https://apireference.aspose.com/pdf/net/aspose.pdf/document) và mở XPS bằng mật khẩu của chủ sở hữu. Sau đó, bạn cần gọi phương thức [Giải mã](https://apireference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) của đối tượng Document. Cuối cùng, lưu tệp đã cập nhật bằng cách sử dụng phương thức Lưu của đối tượng Tài liệu.  
+Trước khi chuyển đổi XPS thành DOCM, nếu bạn muốn giải mã tài liệu của mình, bạn có thể thực hiện bằng cách sử dụng API. Để giải mã tệp PDF, trước tiên bạn cần tạo đối tượng [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) và mở XPS bằng mật khẩu của chủ sở hữu. Sau đó, bạn cần gọi phương thức [Giải mã](https://apireference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) của đối tượng Document. Cuối cùng, lưu tệp đã cập nhật bằng cách sử dụng phương thức Lưu của đối tượng Tài liệu.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

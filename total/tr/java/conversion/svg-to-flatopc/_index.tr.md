@@ -44,7 +44,7 @@ outputDocument.save("output.flat_opc", SaveFormat.FLAT_OPC);
 {{% blocks/products/pf/feature-page-section  h2="Dönüşüm Gereksinimleri" %}}
 SVG'yi FLATOPC'ye dönüştürürken belgeniz parola korumalı olsa bile PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) kullanarak belgeyi açabilirsiniz. Şifrelenmiş dosyayı açmak için bir [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) nesnesi oluşturmanız ve SVG'yi sahibinin parolasını kullanarak açmanız gerekir.  
 {{% blocks/products/pf/feature-page-code %}}
-```cs```cs
+```cs
 // open encrypted document
 Document document = new Document("input.svg", "password");
 // save SVG as a DOC 

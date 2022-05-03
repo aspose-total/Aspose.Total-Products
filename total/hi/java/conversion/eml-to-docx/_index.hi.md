@@ -18,7 +18,7 @@ otherformats: MD PDF GIF EPUB SVG PNG ODT XPS OTT DOC TEXT DOCX DOTX RTF PS TIFF
 {{% blocks/products/pf/agp/feature-section-col title="EML को DOCX में कैसे बदलें" %}}
 1. [MailMessage](https://apireference.aspose.com/eml/java/com.aspose.eml/mailmessage) वर्ग का उपयोग करके EML फ़ाइल खोलें
 2. [save](https://apireference.aspose.com/eml/java/com.aspose.eml/MailMessage#save(java.io.OutputStream,%20com.aspose.eml.SaveOptions) का उपयोग करके EML को HTML में बदलें)) तरीका
-3. [दस्तावेज़](https://apireference.aspose.com/words/java/com.aspose.words/Document) वर्ग का उपयोग करके HTML लोड करें
+3. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) वर्ग का उपयोग करके HTML लोड करें
 4. [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) का उपयोग करके दस्तावेज़ को DOCX प्रारूप में सहेजें)) विधि और बीएमपी को SaveFormat के रूप में सेट करें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}

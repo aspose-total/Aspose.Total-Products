@@ -18,7 +18,7 @@ otherformats: WORD XPS TIFF DOTX MD PNG DOCX DOC PDF EPUB GIF TEXT PS RTF DOTM J
 {{% blocks/products/pf/agp/feature-section-col title="MSG को WORD में कैसे बदलें" %}}
 1. [MailMessage](https://apireference.aspose.com/msg/java/com.aspose.msg/mailmessage) वर्ग का उपयोग करके MSG फ़ाइल खोलें
 2. [save](https://apireference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions) का उपयोग करके MSG को HTML में बदलें)) तरीका
-3. [दस्तावेज़](https://apireference.aspose.com/words/java/com.aspose.words/Document) वर्ग का उपयोग करके HTML लोड करें
+3. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) वर्ग का उपयोग करके HTML लोड करें
 4. [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) का उपयोग करके दस्तावेज़ को WORD प्रारूप में सहेजें)) विधि और बीएमपी को SaveFormat के रूप में सेट करें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}

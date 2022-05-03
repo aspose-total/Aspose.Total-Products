@@ -44,7 +44,7 @@ outputDocument.save("output.flat_opc", SaveFormat.FLAT_OPC);
 {{% blocks/products/pf/feature-page-section  h2="Требования к конвертации" %}}
 При преобразовании MHTML в FLATOPC, даже если ваш документ защищен паролем, вы все равно можете открыть его с помощью API управления PDF [Aspose.PDF для Java](https://docs.aspose.com/pdf/java/installation/). Чтобы открыть зашифрованный файл, вам необходимо создать объект [Документ](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) и открыть MHTML, используя пароль владельца.  
 {{% blocks/products/pf/feature-page-code %}}
-```cs```cs
+```cs
 // open encrypted document
 Document document = new Document("input.mhtml", "password");
 // save MHTML as a DOC 

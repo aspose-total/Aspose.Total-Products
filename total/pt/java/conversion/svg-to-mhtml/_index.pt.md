@@ -44,7 +44,7 @@ outputDocument.save("output.mhtml", SaveFormat.MHTML);
 {{% blocks/products/pf/feature-page-section  h2="Requisitos de conversão" %}}
 Ao converter SVG para MHTML, mesmo que seu documento esteja protegido por senha, você ainda pode abri-lo usando a API de manipulação de PDF [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). Para abrir o arquivo criptografado, você precisa criar um objeto [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) e abrir o SVG usando a senha do proprietário.  
 {{% blocks/products/pf/feature-page-code %}}
-```cs```cs
+```cs
 // open encrypted document
 Document document = new Document("input.svg", "password");
 // save SVG as a DOC 

@@ -18,14 +18,14 @@ otherformats: EMZ SVGZ IMAGE PSD WMF WMZ  TGA DXF JPEG2000 DICOM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="सीजीएम फ़ाइल को .NET के माध्यम से एपीएनजी में कनवर्ट करें" %}}
-1. [दस्तावेज़](https://apireference.aspose.com/pdf/net/aspose.pdf/document) वर्ग का उपयोग करके सीजीएम फ़ाइल खोलें
+1. [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) वर्ग का उपयोग करके सीजीएम फ़ाइल खोलें
 2. [JpegDevice](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) क्लास ऑब्जेक्ट को इनिशियलाइज़ करें और [Process](https://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) विधि
 3. [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) क्लास का इस्तेमाल करके JPEG फ़ाइल लोड करें
 4. [सेव](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) विधि का उपयोग करके दस्तावेज़ को PSD प्रारूप में सहेजें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
-कमांड लाइन से ```nuget install Aspose.Total``` के रूप में या ````Install-Package Aspose.Total`` के साथ विजुअल स्टूडियो के पैकेज मैनेजर कंसोल के माध्यम से इंस्टॉल करें।
+कमांड लाइन से ```nuget install Aspose.Total``` के रूप में या ```Install-Package Aspose.Total``` के साथ विजुअल स्टूडियो के पैकेज मैनेजर कंसोल के माध्यम से इंस्टॉल करें।
 
 वैकल्पिक रूप से, [डाउनलोड](https://downloads.aspose.com/total/net) से ज़िप फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें।
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -39,7 +39,7 @@ otherformats: EMZ SVGZ IMAGE PSD WMF WMZ  TGA DXF JPEG2000 DICOM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="सी # के माध्यम से एक ही फाइल में सीजीएम फ़ाइल को एपीएनजी में कनवर्ट करें" %}}
-एपीआई का उपयोग करके, आप सीजीएम फ़ाइल को एपीएनजी में एकल छवि फ़ाइल में भी परिवर्तित कर सकते हैं। सभी पृष्ठों को परिवर्तित करने के लिए, आप पहले अपने सीजीएम दस्तावेज़ को एक टीआईएफएफ फ़ाइल में प्रस्तुत कर सकते हैं और उसके बाद आप टीआईएफएफ फ़ाइल को एपीएनजी में निर्यात कर सकते हैं। आप [दस्तावेज़](https://apireference.aspose.com/pdf/net/aspose.pdf/document) वर्ग का उपयोग करके इनपुट फ़ाइल खोल सकते हैं और रिज़ॉल्यूशन, टिफ़सेटिंग और टीआईएफएफ डिवाइस ऑब्जेक्ट बना सकते हैं। आप TiffDevice की [Process](https://apireference.aspose.com/pdf/net/aspose.pdf.devices.documentdevice/process/methods/3) पद्धति का उपयोग करके एकल TIFF छवि प्राप्त कर सकते हैं apireference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice) वर्ग। अंत में, आप [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) वर्ग का उपयोग करके TIFF फ़ाइल लोड कर सकते हैं
+एपीआई का उपयोग करके, आप सीजीएम फ़ाइल को एपीएनजी में एकल छवि फ़ाइल में भी परिवर्तित कर सकते हैं। सभी पृष्ठों को परिवर्तित करने के लिए, आप पहले अपने सीजीएम दस्तावेज़ को एक टीआईएफएफ फ़ाइल में प्रस्तुत कर सकते हैं और उसके बाद आप टीआईएफएफ फ़ाइल को एपीएनजी में निर्यात कर सकते हैं। आप [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) वर्ग का उपयोग करके इनपुट फ़ाइल खोल सकते हैं और रिज़ॉल्यूशन, टिफ़सेटिंग और टीआईएफएफ डिवाइस ऑब्जेक्ट बना सकते हैं। आप TiffDevice की [Process](https://apireference.aspose.com/pdf/net/aspose.pdf.devices.documentdevice/process/methods/3) पद्धति का उपयोग करके एकल TIFF छवि प्राप्त कर सकते हैं apireference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice) वर्ग। अंत में, आप [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) वर्ग का उपयोग करके TIFF फ़ाइल लोड कर सकते हैं
 और इसे [Save](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) मेथड का इस्तेमाल करके PSD फॉर्मेट में सेव करें।  
 {{% blocks/products/pf/feature-page-code %}}
 

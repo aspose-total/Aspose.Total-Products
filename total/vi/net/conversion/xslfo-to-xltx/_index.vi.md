@@ -18,7 +18,7 @@ Sử dụng [Aspose.Total for .NET](https://products.aspose.com/total/net/), b�
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API để chuyển đổi XSLFO sang XLTX" %}}
-1. Mở tệp XSLFO bằng lớp [Tài liệu](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
+1. Mở tệp XSLFO bằng lớp [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
 2. Chuyển đổi XSLFO sang XLSX bằng phương pháp [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
 3. Tải tài liệu XLSX bằng cách sử dụng lớp [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Lưu tài liệu sang định dạng XLTX bằng phương pháp [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) và đặt `Xltx` làm SaveFormat

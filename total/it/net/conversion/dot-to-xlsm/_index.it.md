@@ -18,10 +18,10 @@ Utilizzando [Aspose.Total for .NET](https://products.aspose.com/total/net/) puoi
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET per convertire DOT in XLSM" %}}
-1. Aprire il file DOT utilizzando la classe [Dotument](https://apiference.aspose.com/words/net/aspose.words/dotument)
-2. Converti DOT in HTML utilizzando il metodo [Save](https://apiference.aspose.com/words/net/aspose.words.dotument/save/methods/4)
-3. Caricare il dotumento HTML utilizzando la classe [Workbook](https://apiference.aspose.com/cells/net/aspose.cells/workbook)
-4. Salvare il dotumento in formato XLSM utilizzando il metodo [Salva](https://apiference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) e impostare `XLSM` come SaveFormat
+1. Aprire il file DOT utilizzando la classe [Document](https://apiference.aspose.com/words/net/aspose.words/Document)
+2. Converti DOT in HTML utilizzando il metodo [Save](https://apiference.aspose.com/words/net/aspose.words.Document/save/methods/4)
+3. Caricare il Documento HTML utilizzando la classe [Workbook](https://apiference.aspose.com/cells/net/aspose.cells/workbook)
+4. Salvare il Documento in formato XLSM utilizzando il metodo [Salva](https://apiference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) e impostare `XLSM` come SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
@@ -38,8 +38,8 @@ In alternativa, scarica il programma di installazione MSI offline o le DLL in un
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Carica dotumento DOT da Stream tramite C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) consente anche di caricare dotumenti DOT tramite stream. Per aprire un dotumento da uno stream, è sufficiente passare un oggetto stream che contiene il dotumento nel costruttore [Dotument](https://apiference.aspose.com/words/net/aspose.words/dotument). L'esempio di codice seguente mostra come aprire un dotumento da un flusso:  
+{{% blocks/products/pf/feature-page-section  h2="Carica Documento DOT da Stream tramite C#" %}}
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) consente anche di caricare Documenti DOT tramite stream. Per aprire un Documento da uno stream, è sufficiente passare un oggetto stream che contiene il Documento nel costruttore [Document](https://apiference.aspose.com/words/net/aspose.words/Document). L'esempio di codice seguente mostra come aprire un Documento da un flusso:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
@@ -48,7 +48,7 @@ In alternativa, scarica il programma di installazione MSI offline o le DLL in un
 {{% /blocks/products/pf/feature-page-section %}}
 (https
 {{% blocks/products/pf/feature-page-section  h2="Aggiungi proprietà personalizzate nel file XLSM tramite C#" %}}
-Durante la conversione di DOT in XLSM, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) consente di aggiungere proprietà personalizzate nei dotumenti XLSM. Per aggiungere una proprietà personalizzata, è possibile utilizzare il metodo [Add](https://apiference.aspose.com/cells/net/aspose.cells.properties/customdotumentpropertycollection/methods/add/index) per il metodo [CustomDotumentPropertyCollection](https://apiference.aspose.com/cells/net/aspose.cells.properties/customdotumentpropertycollection). Il metodo Add aggiunge la proprietà al file Excel e restituisce un riferimento per la nuova proprietà del dotumento come [Aspose.Cells.Properties.DotumentProperty](https://apiference.aspose.com/cells/net/aspose.cells.properties /proprietà dotumento). 
+Durante la conversione di DOT in XLSM, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) consente di aggiungere proprietà personalizzate nei Documenti XLSM. Per aggiungere una proprietà personalizzata, è possibile utilizzare il metodo [Add](https://apiference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index) per il metodo [CustomDocumentPropertyCollection](https://apiference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection). Il metodo Add aggiunge la proprietà al file Excel e restituisce un riferimento per la nuova proprietà del Documento come [Aspose.Cells.Properties.DocumentProperty](https://apiference.aspose.com/cells/net/aspose.cells.properties /proprietà Documento). 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}

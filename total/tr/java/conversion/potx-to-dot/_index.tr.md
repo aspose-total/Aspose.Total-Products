@@ -18,8 +18,8 @@ otherformats: WORD TEXT ODT OTT WORDML RTF DOTX DOTM DOTX DOTM FLATOPC DOT
 {{% blocks/products/pf/agp/feature-section-col title="Java ile POTX'u DOT'ye Dönüştürme" %}}
 1. [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) sınıfını kullanarak POTX dosyasını açın
 2. [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides) kullanarak POTX'u HTML'ye dönüştürün. ISaveOptions-) yöntemi ve Html'yi SaveFormat olarak ayarlayın
-3. Dönüştürülen HTML dosyasını [Dotument](https://apireference.aspose.com/words/java/com.aspose.words/Dotument) sınıfını kullanarak yükleyin
-4. Belgeyi [save](https://apireference.aspose.com/words/java/com.aspose.words/Dotument#save(java.lang.String,int)) yöntemini kullanarak DOT biçiminde kaydedin
+3. Dönüştürülen HTML dosyasını [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) sınıfını kullanarak yükleyin
+4. Belgeyi [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) yöntemini kullanarak DOT biçiminde kaydedin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Dönüşüm Gereksinimleri" %}}
 POTX'tan DOT'ye dosya dönüştürme için, Aspose.Total for Java'yı doğrudan bir [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose) üzerinden kolayca kullanabilirsiniz. /aspose-total) tabanlı bir projedir ve pom.xml dosyanıza kitaplıkları dahil edin.
@@ -29,14 +29,16 @@ Alternatif olarak, [indirilenler](https://downloads.aspose.com/total/java) adres
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Dönüşüm Gereksinimleri" %}}
+{{% blocks/products/pf/feature-page-section  h2="Dönüşüm Gereksinimleri" %}}DocumentDocument
 API'yi kullanarak, filigranlı POTX dosyasını DOT'ye dönüştürme işlemini de gerçekleştirebilirsiniz. DOT belgenize filigran eklemek için öncelikle POTX dosyasını HTML'ye çevirebilir ve ona bir filigran ekleyebilirsiniz. Filigran eklemek için, yeni oluşturulan HTML dosyasını [Dotument](https://apireference.aspose.com/words/java/com.aspose.words/Dotument) sınıfını kullanarak yükleyin, bir TextWatermarkOptions örneği oluşturun ve ayarlayın özellikleri, Watermark.setText yöntemini çağırın ve filigran metnini ve TextWatermarkOptions nesnesini iletin.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

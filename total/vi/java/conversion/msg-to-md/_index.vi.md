@@ -17,12 +17,12 @@ Chuyển đổi msg là một tính năng mạnh mẽ mà các nhà phát triể
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cách chuyển đổi MSG thành MD" %}}
 1. Mở tệp MSG bằng lớp [MailMessage](https://apireference.aspose.com/msg/java/com.aspose.msg/mailmessage)
-2. Chuyển đổi MSG sang HTML bằng cách sử dụng [save](https://apireference.aspose.com/msg/java/com.aspose.msg/MailMessage#save (java.io.OutputStream,% 20com.aspose.msg.SaveOptions)) phương pháp
+2. Chuyển đổi MSG sang HTML bằng cách sử dụng [save](https://apireference.aspose.com/msg/java/com.aspose.msg/MailMessage#save (java.io.OutputStream,%20com.aspose.msg.SaveOptions)) phương pháp
 3. Tải HTML bằng cách sử dụng lớp [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. Lưu tài liệu sang định dạng MD bằng cách sử dụng [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save (java.lang.String, com.aspose.words.SaveOptions)) và đặt MD làm SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
-Bạn phải sử dụng Aspose.Total cho Java trực tiếp từ dự án dựa trên [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và bao gồm các thư viện trong pom.xml của bạn.
+Bạn phải sử dụng Aspose.Total for Java trực tiếp từ dự án dựa trên [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và bao gồm các thư viện trong pom.xml của bạn.
 
 Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

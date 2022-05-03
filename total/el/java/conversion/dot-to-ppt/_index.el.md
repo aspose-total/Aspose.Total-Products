@@ -16,8 +16,8 @@ otherformats: PPTM POT POWERPOINT POTM PPSM PPTX PPS POTX PPT PPSX CSV DIF FODS 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Πώς να μετατρέψετε το DOT σε PPT μέσω Java" %}}
-1. Ανοίξτε το αρχείο DOT χρησιμοποιώντας την κλάση [Dotument](https://apireference.aspose.com/words/java/com.aspose.words/Dotument)
-2. Μετατρέψτε το αρχείο DOT σε HTML χρησιμοποιώντας [save](https://apireference.aspose.com/words/java/com.aspose.words/Dotument#save(java.lang.String,com.aspose.words.SaveOptions)) μέθοδος
+1. Ανοίξτε το αρχείο DOT χρησιμοποιώντας την κλάση [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. Μετατρέψτε το αρχείο DOT σε HTML χρησιμοποιώντας [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) μέθοδος
 3. Αρχικοποιήστε ένα νέο αντικείμενο [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Εξάγετε περιεχόμενο από αρχείο HTML χρησιμοποιώντας το BufferedReader και γράψτε το περιεχόμενο στο αρχείο παρουσίασής σας
 6. Αποθηκεύστε το έγγραφο στο PPT χρησιμοποιώντας τη μέθοδο [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

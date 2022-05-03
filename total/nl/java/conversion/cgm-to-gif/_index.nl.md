@@ -44,7 +44,7 @@ outputDocument.save("output.gif", SaveFormat.GIF);
 {{% blocks/products/pf/feature-page-section  h2="Conversievereisten" %}}
 Tijdens het converteren van CGM naar GIF kunt u, zelfs als uw document met een wachtwoord is beveiligd, het nog steeds openen met de PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). Om het versleutelde bestand te openen, moet u een [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)-object maken en de CGM openen met het wachtwoord van de eigenaar.  
 {{% blocks/products/pf/feature-page-code %}}
-```cs```cs
+```cs
 // open encrypted document
 Document document = new Document("input.cgm", "password");
 // save CGM as a DOC 

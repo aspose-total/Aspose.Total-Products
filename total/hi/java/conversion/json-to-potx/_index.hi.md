@@ -16,9 +16,9 @@ otherformats: PPT PPSM POWERPOINT POTM POTX OTP POT PPS PPSX PPTM
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="जावा के माध्यम से JSON प्रारूप को POTX में बदलें" %}}
-1. एक नया [वर्कबुक](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) ऑब्जेक्ट बनाएं और JSON फाइल खोलें
+1. एक नया [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) ऑब्जेक्ट बनाएं और JSON फाइल खोलें
 2. [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions) का उपयोग करके JSON को PPTX के रूप में सेव करें। ) तरीका
-3. [प्रस्तुति](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) वर्ग का उपयोग करके PPTX दस्तावेज़ लोड करें
+3. [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) वर्ग का उपयोग करके PPTX दस्तावेज़ लोड करें
 4. [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) पद्धति का उपयोग करके दस्तावेज़ को POTX प्रारूप में सहेजें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
@@ -42,7 +42,7 @@ otherformats: PPT PPSM POWERPOINT POTM POTX OTP POT PPS PPSX PPTM
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="जावा के माध्यम से लेआउट सेट करें और JSON प्रारूप को POTX में बदलें" %}}
-एपीआई का उपयोग करके, आप JSON को वॉटरमार्क के साथ POTX में भी बदल सकते हैं। अपने POTX दस्तावेज़ में वॉटरमार्क जोड़ने के लिए, आप पहले JSON को PPTX में पार्स कर सकते हैं और उसमें वॉटरमार्क जोड़ सकते हैं। वॉटरमार्क जोड़ने के लिए, [प्रस्तुति](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) वर्ग का उपयोग करके नई बनाई गई PPTX फ़ाइल लोड करें, सभी स्लाइडों के माध्यम से लूप करें, टेक्स्ट जोड़ें AddTextFrame का उपयोग करके, सभी प्रासंगिक विकल्प जैसे रंग, भरण टाइप और बहुत कुछ सेट करें और दस्तावेज़ को POTX में सहेज सकते हैं। 
+एपीआई का उपयोग करके, आप JSON को वॉटरमार्क के साथ POTX में भी बदल सकते हैं। अपने POTX दस्तावेज़ में वॉटरमार्क जोड़ने के लिए, आप पहले JSON को PPTX में पार्स कर सकते हैं और उसमें वॉटरमार्क जोड़ सकते हैं। वॉटरमार्क जोड़ने के लिए, [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) वर्ग का उपयोग करके नई बनाई गई PPTX फ़ाइल लोड करें, सभी स्लाइडों के माध्यम से लूप करें, टेक्स्ट जोड़ें AddTextFrame का उपयोग करके, सभी प्रासंगिक विकल्प जैसे रंग, भरण टाइप और बहुत कुछ सेट करें और दस्तावेज़ को POTX में सहेज सकते हैं। 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "parse-json-to-powerpoint-with-watermark.java" >}}

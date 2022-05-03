@@ -18,8 +18,8 @@ Bằng cách sử dụng [Aspose.Total for .NET](https://products.aspose.com/tot
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi định dạng DOT sang JSON qua C#" %}}
-1. Mở tệp DOT bằng lớp [Dotument](https://apireference.aspose.com/words/net/aspose.words/dotument)
-2. Chuyển đổi DOT sang HTML bằng phương pháp [Save](https://apireference.aspose.com/words/net/aspose.words.dotument/save/methods/4)
+1. Mở tệp DOT bằng lớp [Document](https://apireference.aspose.com/words/net/aspose.words/Document)
+2. Chuyển đổi DOT sang HTML bằng phương pháp [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4)
 3. Tải tài liệu HTML bằng cách sử dụng lớp [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Lưu tài liệu sang định dạng JSON bằng phương pháp [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}

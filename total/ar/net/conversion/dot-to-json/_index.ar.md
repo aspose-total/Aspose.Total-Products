@@ -18,8 +18,8 @@ otherformats: XLAM XLS DIF CSV XLTX ODS TSV FODS XLSB XLT XLSX EXCEL XLSM SXC
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="تحويل DOT إلى تنسيق JSON عبر C#" %}}
-1. افتح ملف DOT باستخدام فئة [Dotument](https://apireference.aspose.com/words/net/aspose.words/dotument)
-2. تحويل DOT إلى HTML باستخدام طريقة [Save](https://apireference.aspose.com/words/net/aspose.words.dotument/save/methods/4)
+1. افتح ملف DOT باستخدام فئة [Document](https://apireference.aspose.com/words/net/aspose.words/Document)
+2. تحويل DOT إلى HTML باستخدام طريقة [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4)
 3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. احفظ المستند بتنسيق JSON باستخدام طريقة [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -19,7 +19,7 @@ Met [Aspose.Total for Java](https://products.aspose.com/total/java/) kunt u XML 
 1. Open het XML-bestand met de klasse [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. Converteer XML naar PPTX met behulp van de [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-) methode
 3. Laad PPTX-document met behulp van [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) class
-4. Sla het document op in OTP-indeling met de methode [opslaan](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) en stel ` Otp` als SaveFormat
+4. Sla het document op in OTP-indeling met de methode [opslaan](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) en stel `OTP` als SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
 U kunt Aspose.Total voor Java gemakkelijk rechtstreeks vanuit een op [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) gebaseerd project gebruiken en bevatten [Aspose.PDF voor Java](https://docs.aspose.com/pdf/java/installation/) en [Aspose.Slides voor Java](https://docs.aspose.com/slides/java/ installatie/) in uw po.xml.

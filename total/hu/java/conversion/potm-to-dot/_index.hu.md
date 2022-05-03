@@ -18,8 +18,8 @@ otherformats: WORD TEXT DOT WORDML DOTX OTT DOTX DOTM FLATOPC DOTM ODT RTF
 {{% blocks/products/pf/agp/feature-section-col title="Hogyan lehet a POTM-ot DOT-ba konvertálni Java-n keresztül" %}}
 1. Nyissa meg a POTM-fájlt a [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) osztály használatával
 2. A [mentés](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides) segítségével konvertálja a POTM-ot HTML-be. ISaveOptions-) metódust, és állítsa be a HTML-t SaveFormat-ként
-3. Töltse be a konvertált HTML-fájlt a [Dotument](https://apireference.aspose.com/words/java/com.aspose.words/Dotument) osztály használatával
-4. Mentse a dokumentumot DOT formátumba a [save](https://apireference.aspose.com/words/java/com.aspose.words/Dotument#save(java.lang.String,int)) módszerrel
+3. Töltse be a konvertált HTML-fájlt a [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) osztály használatával
+4. Mentse a dokumentumot DOT formátumba a [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) módszerrel
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 A POTM-ból DOT-fájlba konvertálásához egyszerűen használhatja az Aspose.Total for Java-t közvetlenül a [Maven]-ből (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) alapú projektet, és vegyen fel könyvtárakat a pom.xml fájlba.
@@ -34,7 +34,7 @@ Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads] webhelyről 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Konverziós követelmények" %}}
-Az API segítségével POTM fájlból DOT-ba konvertálhat vízjellel. Ha vízjelet szeretne hozzáadni a DOT dokumentumhoz, először konvertálja a POTM fájlt HTML formátumba, és vízjelet adjon hozzá. Vízjel hozzáadásához töltse be az újonnan létrehozott HTML-fájlt a [Dotument](https://apireference.aspose.com/words/java/com.aspose.words/Dotument) osztály segítségével, hozzon létre egy TextWatermarkOptions példányt, és állítsa be. tulajdonságai, Hívja meg a Watermark.setText metódust, és adja át a vízjel szövegét és a TextWatermarkOptions objektumát.  
+Az API segítségével POTM fájlból DOT-ba konvertálhat vízjellel. Ha vízjelet szeretne hozzáadni a DOT dokumentumhoz, először konvertálja a POTM fájlt HTML formátumba, és vízjelet adjon hozzá. Vízjel hozzáadásához töltse be az újonnan létrehozott HTML-fájlt a [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) osztály segítségével, hozzon létre egy TextWatermarkOptions példányt, és állítsa be. tulajdonságai, Hívja meg a Watermark.setText metódust, és adja át a vízjel szövegét és a TextWatermarkOptions objektumát.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}

@@ -16,8 +16,8 @@ A DOT konvertálása JSON formátumba az [Aspose.Total for Java] segítségével
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="A DOT konvertálása JSON formátumba Java segítségével" %}}
-1. Nyissa meg a DOT-fájlt a [Dotument](https://apireference.aspose.com/words/java/com.aspose.words/Dotument) osztály használatával
-2. A [Mentés](https://apireference.aspose.com/words/java/com.aspose.words/Dotument#save(java.lang.String,com.aspose.words.SaveOptions) segítségével konvertálja a DOT-t HTML-vé. ) módszerrel
+1. Nyissa meg a DOT-fájlt a [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) osztály használatával
+2. A [Mentés](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) segítségével konvertálja a DOT-t HTML-vé. ) módszerrel
 3. Töltsön be HTML-dokumentumot a [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) osztály használatával
 4. Mentse a dokumentumot JSON formátumba a [Mentés](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells) segítségével. SaveOptions)) módszer
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -18,8 +18,8 @@ otherformats: TIFF XPS DOTX PCL DOCM EPUB EMF DOTM DOCX DOC RTF ODT DOT PNG GIF 
 {{% blocks/products/pf/agp/feature-section-col title="EMLX को PS में कैसे बदलें" %}}
 1. [MailMessage](https://apireference.aspose.com/emlx/java/com.aspose.emlx/mailmessage) वर्ग का उपयोग करके EMLX फ़ाइल खोलें
 2. [save](https://apireference.aspose.com/emlx/java/com.aspose.emlx/MailMessage#save(java.io.OutputStream,%20com.aspose.emlx.SaveOptions) का उपयोग करके EMLX को HTML में बदलें)) तरीका
-3. [दस्तावेज़](https://apireference.aspose.com/words/java/com.aspose.words/Document) वर्ग का उपयोग करके HTML लोड करें
-4. [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) का उपयोग करके दस्तावेज़ को PS प्रारूप में सहेजें)) विधि और बीएमपी को SaveFormat के रूप में सेट करें
+3. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) वर्ग का उपयोग करके HTML लोड करें
+4. [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) का उपयोग करके दस्तावेज़ को PS प्रारूप में सहेजें विधि और बीएमपी को SaveFormat के रूप में सेट करें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
 आपको [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) आधारित प्रोजेक्ट से सीधे जावा के लिए Aspose.Total का उपयोग करना होगा। और अपने pom.xml में पुस्तकालयों को शामिल करें।

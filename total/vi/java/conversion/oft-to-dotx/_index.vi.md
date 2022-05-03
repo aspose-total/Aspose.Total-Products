@@ -17,12 +17,12 @@ Chuyển đổi oft là một tính năng mạnh mẽ mà các nhà phát triể
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cách chuyển đổi OFT thành DOTX" %}}
 1. Mở tệp OFT bằng lớp [MailMessage](https://apireference.aspose.com/oft/java/com.aspose.oft/mailmessage)
-2. Chuyển đổi OFT sang HTML bằng cách sử dụng [save](https://apireference.aspose.com/oft/java/com.aspose.oft/MailMessage#save (java.io.OutputStream,% 20com.aspose.oft.SaveOptions)) phương pháp
+2. Chuyển đổi OFT sang HTML bằng cách sử dụng [save](https://apireference.aspose.com/oft/java/com.aspose.oft/MailMessage#save (java.io.OutputStream,%20com.aspose.oft.SaveOptions)) phương pháp
 3. Tải HTML bằng cách sử dụng lớp [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. Lưu tài liệu sang định dạng DOTX bằng cách sử dụng [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save (java.lang.String, com.aspose.words.SaveOptions)) và đặt DOTX làm SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
-Bạn phải sử dụng Aspose.Total cho Java trực tiếp từ dự án dựa trên [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và bao gồm các thư viện trong pom.xml của bạn.
+Bạn phải sử dụng Aspose.Total for Java trực tiếp từ dự án dựa trên [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và bao gồm các thư viện trong pom.xml của bạn.
 
 Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

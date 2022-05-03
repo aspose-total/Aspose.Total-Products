@@ -18,8 +18,8 @@ Durch die Verwendung von [Aspose.Total for .NET](https://products.aspose.com/tot
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET-API zum Konvertieren von DOT in CSV" %}}
-1. Öffnen Sie die DOT-Datei mit der Klasse [Dotument](https://apireference.aspose.com/words/net/aspose.words/dotument).
-2. Konvertieren Sie DOT in HTML, indem Sie die Methode [Save](https://apireference.aspose.com/words/net/aspose.words.dotument/save/methods/4) verwenden
+1. Öffnen Sie die DOT-Datei mit der Klasse [Document](https://apireference.aspose.com/words/net/aspose.words/Document).
+2. Konvertieren Sie DOT in HTML, indem Sie die Methode [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4) verwenden
 3. Laden Sie das HTML-Dokument mithilfe der Klasse [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
 4. Speichern Sie das Dokument mit der Methode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) im CSV-Format und legen Sie „CSV“ als SaveFormat fest
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -39,7 +39,7 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="DOT-Dokument aus Stream über C# laden" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) ermöglicht es Ihnen auch, DOT-Dokumente per Stream zu laden. Um ein Dokument aus einem Stream zu öffnen, übergeben Sie einfach ein Stream-Objekt, das das Dokument enthält, an den Konstruktor [Dotument](https://apireference.aspose.com/words/net/aspose.words/dotument). Das folgende Codebeispiel zeigt, wie Sie ein Dokument aus einem Stream öffnen:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) ermöglicht es Ihnen auch, DOT-Dokumente per Stream zu laden. Um ein Dokument aus einem Stream zu öffnen, übergeben Sie einfach ein Stream-Objekt, das das Dokument enthält, an den Konstruktor [Document](https://apireference.aspose.com/words/net/aspose.words/Document). Das folgende Codebeispiel zeigt, wie Sie ein Dokument aus einem Stream öffnen:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Benutzerdefinierte Eigenschaften in CSV-Datei über C# hinzufügen" %}}
-Beim Konvertieren von DOT in CSV können Sie mit [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Ihren CSV-Dokumenten benutzerdefinierte Eigenschaften hinzufügen. Um eine benutzerdefinierte Eigenschaft hinzuzufügen, können Sie die Methode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotumentpropertycollection/methods/add/index) für die [CustomDotumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotumentpropertycollection) Klasse. Die Add-Methode fügt die Eigenschaft zur Excel-Datei hinzu und gibt eine Referenz für die neue Dokumenteigenschaft als [Aspose.Cells.Properties.DotumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /dotumentproperty)-Objekt. 
+Beim Konvertieren von DOT in CSV können Sie mit [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Ihren CSV-Dokumenten benutzerdefinierte Eigenschaften hinzufügen. Um eine benutzerdefinierte Eigenschaft hinzuzufügen, können Sie die Methode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index) für die [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection) Klasse. Die Add-Methode fügt die Eigenschaft zur Excel-Datei hinzu und gibt eine Referenz für die neue Dokumenteigenschaft als [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /Documentproperty)-Objekt. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

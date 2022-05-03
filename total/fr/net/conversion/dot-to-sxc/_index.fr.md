@@ -18,10 +18,10 @@ En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), v
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET pour convertir DOT en SXC" %}}
-1. Ouvrez le fichier DOT à l'aide de la classe [Dotument](https://apireference.aspose.com/words/net/aspose.words/dotument)
-2. Convertir DOT en HTML en utilisant la méthode [Save](https://apireference.aspose.com/words/net/aspose.words.dotument/save/methods/4)
-3. Chargez le dotument HTML à l'aide de la classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Enregistrez le dotument au format SXC à l'aide de la méthode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) et définissez `SXC` comme SaveFormat
+1. Ouvrez le fichier DOT à l'aide de la classe [Document](https://apireference.aspose.com/words/net/aspose.words/Document)
+2. Convertir DOT en HTML en utilisant la méthode [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4)
+3. Chargez le Document HTML à l'aide de la classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+4. Enregistrez le Document au format SXC à l'aide de la méthode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) et définissez `SXC` comme SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
@@ -38,8 +38,8 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Charger le dotument DOT à partir du flux via C#" %}}
-[Aspose.Words pour .NET](https://products.aspose.com/words/net/) vous permet également de charger un dotument DOT via un flux. Pour ouvrir un dotument à partir d'un flux, transmettez simplement un objet de flux contenant le dotument dans le constructeur [Dotument](https://apireference.aspose.com/words/net/aspose.words/dotument). L'exemple de code suivant montre comment ouvrir un dotument à partir d'un flux :  
+{{% blocks/products/pf/feature-page-section  h2="Charger le Document DOT à partir du flux via C#" %}}
+[Aspose.Words pour .NET](https://products.aspose.com/words/net/) vous permet également de charger un Document DOT via un flux. Pour ouvrir un Document à partir d'un flux, transmettez simplement un objet de flux contenant le Document dans le constructeur [Document](https://apireference.aspose.com/words/net/aspose.words/Document). L'exemple de code suivant montre comment ouvrir un Document à partir d'un flux :  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ajouter des propriétés personnalisées dans le fichier SXC via C#" %}}
-Lors de la conversion de DOT en SXC, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) vous permet d'ajouter des propriétés personnalisées dans vos dotuments SXC. Pour ajouter une propriété personnalisée, vous pouvez utiliser la méthode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotumentpropertycollection/methods/add/index) pour la [CustomDotumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotumentpropertycollection). La méthode Add ajoute la propriété au fichier Excel et renvoie une référence pour la nouvelle propriété de dotument en tant que [Aspose.Cells.Properties.DotumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /dotumentpropriété). 
+Lors de la conversion de DOT en SXC, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) vous permet d'ajouter des propriétés personnalisées dans vos Documents SXC. Pour ajouter une propriété personnalisée, vous pouvez utiliser la méthode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index) pour la [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection). La méthode Add ajoute la propriété au fichier Excel et renvoie une référence pour la nouvelle propriété de Document en tant que [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /Documentpropriété). 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

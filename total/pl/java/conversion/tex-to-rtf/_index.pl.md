@@ -44,7 +44,7 @@ outputDocument.save("output.rtf", SaveFormat.RTF);
 {{% blocks/products/pf/feature-page-section  h2="Wymagania dotyczące konwersji" %}}
 Podczas konwersji TEX na RTF, nawet jeśli dokument jest chroniony hasłem, nadal możesz go otworzyć za pomocą interfejsu API manipulacji PDF [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). Aby otworzyć zaszyfrowany plik, musisz utworzyć obiekt [Dokument](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) i otworzyć TEX przy użyciu hasła właściciela.  
 {{% blocks/products/pf/feature-page-code %}}
-```cs```cs
+```cs
 // open encrypted document
 Document document = new Document("input.tex", "password");
 // save TEX as a DOC 

@@ -18,14 +18,14 @@ otherformats: PCL RTF EPUB DOT OTT DOC WORD DOTX MOBI DOCM PS ODT WORDML FLATOPC
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="जेएसओएन प्रारूप को सी # के माध्यम से सीएचएम में कनवर्ट करें" %}}
-1. एक नया [वर्कबुक](https://apireference.aspose.com/cells/net/aspose.cells/workbook) ऑब्जेक्ट बनाएं और फ़ाइल से मान्य JSON डेटा पढ़ें
+1. एक नया [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) ऑब्जेक्ट बनाएं और फ़ाइल से मान्य JSON डेटा पढ़ें
 2. [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) वर्ग और [Save](https://apireference.aspose.com/) का उपयोग करके कार्यपत्रक में JSON फ़ाइल आयात करें cells/net/aspose.cells.workbook/save/methods/4) इसे PDF के रूप में
-3. [दस्तावेज़](https://apireference.aspose.com/words/net/aspose.words/document) वर्ग का उपयोग करके पीडीएफ दस्तावेज़ लोड करें
+3. [Document](https://apireference.aspose.com/words/net/aspose.words/document) वर्ग का उपयोग करके पीडीएफ दस्तावेज़ लोड करें
 4. [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3) विधि का उपयोग करके दस्तावेज़ को PS प्रारूप में सहेजें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
-कमांड लाइन से ```nuget install Aspose.Total``` के रूप में या ````Install-Package Aspose.Total`` के साथ विजुअल स्टूडियो के पैकेज मैनेजर कंसोल के माध्यम से इंस्टॉल करें।
+कमांड लाइन से ```nuget install Aspose.Total``` के रूप में या ```Install-Package Aspose.Total``` के साथ विजुअल स्टूडियो के पैकेज मैनेजर कंसोल के माध्यम से इंस्टॉल करें।
 
 वैकल्पिक रूप से, [डाउनलोड](https://downloads.aspose.com/total/net) से ज़िप फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें।
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -48,7 +48,7 @@ JSON को PS में पार्स करते समय, आप [JsonLay
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="पार्स JSON प्रारूप वॉटरमार्क के साथ सीएचएम करने के लिए" %}}
-एपीआई का उपयोग करके, आप JSON को वॉटरमार्क के साथ PS में भी बदल सकते हैं। अपने PS दस्तावेज़ में वॉटरमार्क जोड़ने के लिए, आप पहले JSON फ़ाइल को PDF में पार्स कर सकते हैं और उसमें वॉटरमार्क जोड़ सकते हैं। वॉटरमार्क जोड़ने के लिए, [दस्तावेज़](https://apireference.aspose.com/words/net/aspose.words/document) वर्ग का उपयोग करके नई बनाई गई पीडीएफ फाइल को लोड करें, TextWatermarkOptions का एक उदाहरण बनाएं और इसके गुण सेट करें , वॉटरमार्क पर कॉल करें। सेटटेक्स्ट विधि और वॉटरमार्क टेक्स्ट और टेक्स्टवाटरमार्कऑप्शन का ऑब्जेक्ट पास करें। वॉटरमार्क जोड़ने के बाद, आप दस्तावेज़ को सीएचएम में सहेज सकते हैं। 
+एपीआई का उपयोग करके, आप JSON को वॉटरमार्क के साथ PS में भी बदल सकते हैं। अपने PS दस्तावेज़ में वॉटरमार्क जोड़ने के लिए, आप पहले JSON फ़ाइल को PDF में पार्स कर सकते हैं और उसमें वॉटरमार्क जोड़ सकते हैं। वॉटरमार्क जोड़ने के लिए, [Document](https://apireference.aspose.com/words/net/aspose.words/document) वर्ग का उपयोग करके नई बनाई गई पीडीएफ फाइल को लोड करें, TextWatermarkOptions का एक उदाहरण बनाएं और इसके गुण सेट करें , वॉटरमार्क पर कॉल करें। सेटटेक्स्ट विधि और वॉटरमार्क टेक्स्ट और टेक्स्टवाटरमार्कऑप्शन का ऑब्जेक्ट पास करें। वॉटरमार्क जोड़ने के बाद, आप दस्तावेज़ को सीएचएम में सहेज सकते हैं। 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}

@@ -12,17 +12,17 @@ otherformats: DOTX DOTM PCL MARKDOWN XAMLFLOW FLATOPC RTF PS DOT ODT OTT WORDML
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="जावा के माध्यम से सीजीएम को डीओसीएम में बदलना" h2="किसी भी तृतीय पक्ष एप्लिकेशन का उपयोग किए बिना डीओसीएम को सीजीएम प्रस्तुत करने के लिए परिसर जावा एपीआई पर" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-आप दो सरल चरणों का उपयोग करके MHTML को WORDML में परिवर्तित कर सकते हैं। सबसे पहले आपको [जावा के लिए Aspose.PDF](https://products.aspose.com/pdf/java/) का उपयोग करके DOC को MHTML फ़ाइल प्रस्तुत करनी होगी। उसके बाद, शक्तिशाली दस्तावेज़ संसाधन API [Aspose.Words for Java](https://products.aspose.com/words/java/) का उपयोग करके, आप DOC को WORDML में बदल सकते हैं। दोनों एपीआई [Aspose.Total for Java](https://products.aspose.com/total/java/) पैकेज के तहत आते हैं।
+आप दो सरल चरणों का उपयोग करके MHTML को WORDML में परिवर्तित कर सकते हैं। सबसे पहले आपको [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) का उपयोग करके DOC को MHTML फ़ाइल प्रस्तुत करनी होगी। उसके बाद, शक्तिशाली दस्तावेज़ संसाधन API [Aspose.Words for Java](https://products.aspose.com/words/java/) का उपयोग करके, आप DOC को WORDML में बदल सकते हैं। दोनों एपीआई [Aspose.Total for Java](https://products.aspose.com/total/java/) पैकेज के तहत आते हैं।
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="सीजीएम को डीओसीएम में बदलने के लिए जावा एपीआई" %}}
-1. [दस्तावेज़](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) वर्ग का उपयोग करके सीजीएम फ़ाइल खोलें
+1. [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) वर्ग का उपयोग करके सीजीएम फ़ाइल खोलें
 2. [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- का उपयोग करके MHTML को DOC में बदलें। ) तरीका
-3. Aspose.Words के [दस्तावेज़](https://apireference.aspose.com/words/java/com.aspose.words/Document) वर्ग का उपयोग करके DOC फ़ाइल लोड करें
+3. Aspose.Words के [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) वर्ग का उपयोग करके DOC फ़ाइल लोड करें
 4. [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) विधि का उपयोग करके दस्तावेज़ को WORDML प्रारूप में सहेजें और WORDML सेट करें SaveFormat के रूप में
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
-आप [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) आधारित प्रोजेक्ट से सीधे Java के लिए Aspose.Total का आसानी से उपयोग कर सकते हैं और [जावा के लिए Aspose.PDF](https://docs.aspose.com/pdf/java/installation/) और [Aspose.Words for Java](https://docs.aspose.com/words/java/) शामिल करें स्थापना/) अपने pom.xml में।
+आप [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) आधारित प्रोजेक्ट से सीधे Java के लिए Aspose.Total का आसानी से उपयोग कर सकते हैं और [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) और [Aspose.Words for Java](https://docs.aspose.com/words/java/) शामिल करें स्थापना/) अपने pom.xml में।
 
 वैकल्पिक रूप से, आप [डाउनलोड](https://downloads.aspose.com/total/java) से एक ज़िप फ़ाइल प्राप्त कर सकते हैं।
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -42,7 +42,7 @@ outputDocument.save("output.word_ml", SaveFormat.WORD_ML);
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="रूपांतरण आवश्यकताएँ" %}}
-MHTML को WORDML में कनवर्ट करते समय, भले ही आपका दस्तावेज़ पासवर्ड से सुरक्षित हो, फिर भी आप PDF मैनिपुलेशन API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) का उपयोग करके इसे खोल सकते हैं। एन्क्रिप्ट की गई फ़ाइल को खोलने के लिए, आपको एक [दस्तावेज़](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) ऑब्जेक्ट बनाना होगा और मालिक के पासवर्ड का उपयोग करके MHTML खोलना होगा।  
+MHTML को WORDML में कनवर्ट करते समय, भले ही आपका दस्तावेज़ पासवर्ड से सुरक्षित हो, फिर भी आप PDF मैनिपुलेशन API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) का उपयोग करके इसे खोल सकते हैं। एन्क्रिप्ट की गई फ़ाइल को खोलने के लिए, आपको एक [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) ऑब्जेक्ट बनाना होगा और मालिक के पासवर्ड का उपयोग करके MHTML खोलना होगा।  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

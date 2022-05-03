@@ -18,8 +18,8 @@ otherformats: XLAM XLS DIF CSV XLTX ODS TSV FODS XLSB XLT XLSX EXCEL XLSM SXC
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C＃を介してDOTをJSON形式に変換する" %}}
-1. [Document](https://apireference.aspose.com/words/net/aspose.words/dotument)クラスを使用してDOTファイルを開きます
-2. [保存](https://apireference.aspose.com/words/net/aspose.words.dotument/save/methods/4)メソッドを使用してDOTをHTMLに変換します
+1. [Document](https://apireference.aspose.com/words/net/aspose.words/Document)クラスを使用してDOTファイルを開きます
+2. [保存](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4)メソッドを使用してDOTをHTMLに変換します
 3. [ワークブック](https://apireference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
 4. [保存](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをJSON形式で保存します
 {{% /blocks/products/pf/agp/feature-section-col %}}

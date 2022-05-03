@@ -16,7 +16,7 @@ otherformats: PPTX POWERPOINT PPT PPSM POTM POTX PPTM PPSX POT PPS CSV DIF FODS 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل DOT إلى POTM عبر Java" %}}
-1. افتح ملف DOT باستخدام فئة [Dotument](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+1. افتح ملف DOT باستخدام فئة [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 2. تحويل ملف DOT إلى HTML باستخدام [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String.com.aspose.words.SaveOptions)) طريقة
 3. تهيئة كائن [عرض تقديمي] جديد (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. استخراج المحتوى من ملف HTML باستخدام BufferedReader وكتابة المحتوى في ملف العرض التقديمي الخاص بك

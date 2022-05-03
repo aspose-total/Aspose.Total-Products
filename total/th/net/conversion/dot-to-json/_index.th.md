@@ -18,8 +18,8 @@ otherformats: XLAM XLS DIF CSV XLTX ODS TSV FODS XLSB XLT XLSX EXCEL XLSM SXC
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="แปลง DOT เป็นรูปแบบ JSON ผ่าน C#" %}}
-1. เปิดไฟล์ DOT โดยใช้คลาส [Dotument](https://apireference.aspose.com/words/net/aspose.words/dotument)
-2. แปลง DOT เป็น HTML โดยใช้วิธีการ [Save](https://apireference.aspose.com/words/net/aspose.words.dotument/save/methods/4)
+1. เปิดไฟล์ DOT โดยใช้คลาส [Document](https://apireference.aspose.com/words/net/aspose.words/Document)
+2. แปลง DOT เป็น HTML โดยใช้วิธีการ [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4)
 3. โหลดเอกสาร HTML โดยใช้คลาส [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. บันทึกเอกสารในรูปแบบ JSON โดยใช้วิธี [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
