@@ -38,7 +38,7 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Converteer beveiliDocumentnaar JSON-indeling via C#"
+{{% blocks/products/pf/feature-page-section  h2="Converteer beveiliDocumentnaar JSON-indeling via C#" %}}
 Met behulp van de API kunt u ook het met een wachtwoord beveiligde dotument openen. Als uw DOT-invoerdotument met een wachtwoord is beveiligd, kunt u het niet converteren naar JSON-indeling zonder het wachtwoord te gebruiken. Met de API kunt u het gecodeerde dotument openen door het juiste wachtwoord in een LoadOptions-object door te geven. Het volgende codevoorbeeld laat zien hoe u kunt proberen een versleuteld dotument met een wachtwoord te openen:  
 {{% blocks/products/pf/feature-page-code %}}
 

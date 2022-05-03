@@ -33,7 +33,7 @@ Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloa
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-secDocument="Requisitos de conversão" %
+{{% blocks/products/pf/feature-page-section h2="Requisitos de conversão" %}}
 Usando a API, você também pode abrir o dotumento protegido por senha. Se o dotumento DOT de entrada estiver protegido por senha, você não poderá convertê-lo para o formato JSON sem usar a senha. A API permite que você abra o dotumento criptografado passando a senha correta em um objeto LoadOptions. O exemplo de código a seguir mostra como tentar abrir um dotumento criptografado com uma senha:  
 {{% blocks/products/pf/feature-page-code %}}
 
