@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PS to POTX  
 description: Convert PS to POTX via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/ps-to-potx/
+url_ignore: /cpp/conversion/ps-to-potx/
 family: total
 platformtag: cpp
 feature: conversion

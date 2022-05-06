@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση XSLFO σε XLSM
 description: Εξαγωγή XSLFO σε XLSM μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/xslfo-to-xlsm/
+url_ignore: /el/java/conversion/xslfo-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

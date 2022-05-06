@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to POTX via C++
 description: Export TXT to POTX in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/txt-to-potx/
+url_ignore: /cpp/conversion/txt-to-potx/
 family: total
 platformtag: cpp
 feature: conversion

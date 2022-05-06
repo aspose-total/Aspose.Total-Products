@@ -1,7 +1,7 @@
 ---
 title: Export EML to DOCX via C++
 description: C++ API to Convert EML to DOCX without using Microsoft Word or Outlook
-url: /cpp/conversion/eml-to-docx/
+url_ignore: /cpp/conversion/eml-to-docx/
 family: total
 platformtag: cpp
 feature: conversion

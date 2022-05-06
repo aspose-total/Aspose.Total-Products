@@ -1,7 +1,7 @@
 ---
 title: Převeďte PS na DICOM přes C# API
 description: Exportujte PS do DICOM ve svých aplikacích .NET bez použití jakékoli aplikace třetí strany
-url: /cs/net/conversion/ps-to-dicom/
+url_ignore: /cs/net/conversion/ps-to-dicom/
 family: total
 platformtag: net
 feature: conversion

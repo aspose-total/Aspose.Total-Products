@@ -1,7 +1,7 @@
 ---
 title: PSをGIFにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにPSをGIFに変換する
-url: /ja/net/conversion/ps-to-gif/
+url_ignore: /ja/net/conversion/ps-to-gif/
 family: total
 platformtag: net
 feature: conversion

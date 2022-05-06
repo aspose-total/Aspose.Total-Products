@@ -1,7 +1,7 @@
 ---
 title: PDF'yi XAMLFLOW'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak PDF'yi XAMLFLOW'ye dönüştürün
-url: /tr/java/conversion/pdf-to-xamlflow/
+url_ignore: /tr/java/conversion/pdf-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

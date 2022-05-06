@@ -1,7 +1,7 @@
 ---
 title: NET API لتحويل WORD إلى EXCEL
 description: C# API لتحويل WORD إلى EXCEL بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/word-to-excel/
+url_ignore: /ar/net/conversion/word-to-excel/
 family: total
 platformtag: net
 feature: conversion

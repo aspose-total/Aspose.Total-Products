@@ -1,7 +1,7 @@
 ---
 title: Converteer HTML naar DXF via Java
 description: Exporteer HTML-bestand naar DXF in uw Java-applicaties zonder een applicatie van derden te gebruiken
-url: /nl/java/conversion/html-to-dxf/
+url_ignore: /nl/java/conversion/html-to-dxf/
 family: total
 platformtag: net
 feature: conversion

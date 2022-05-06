@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई सीजीएम को डीओसीएम में निर्यात करने के लिए
 description: Microsoft Word का उपयोग किए बिना EPUB को MHTML में बदलें
-url: /hi/net/conversion/epub-to-mhtml/
+url_ignore: /hi/net/conversion/epub-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

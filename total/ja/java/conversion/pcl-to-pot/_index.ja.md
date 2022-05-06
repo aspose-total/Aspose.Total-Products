@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してPCLをPOTに変換する
 description: MicrosoftWordを使用せずにPCLをPOTに変換するJavaAPI
-url: /ja/java/conversion/pcl-to-pot/
+url_ignore: /ja/java/conversion/pcl-to-pot/
 family: total
 platformtag: net
 feature: conversion

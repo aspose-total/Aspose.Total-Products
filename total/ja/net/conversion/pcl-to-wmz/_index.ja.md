@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPCLをWMZに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでPCLをWMZにエクスポートします
-url: /ja/net/conversion/pcl-to-wmz/
+url_ignore: /ja/net/conversion/pcl-to-wmz/
 family: total
 platformtag: net
 feature: conversion

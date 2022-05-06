@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MHTML to OTP  
 description: Convert MHTML to OTP via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/mhtml-to-otp/
+url_ignore: /cpp/conversion/mhtml-to-otp/
 family: total
 platformtag: cpp
 feature: conversion

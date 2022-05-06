@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert EPUB to PPT  
 description: Convert EPUB to PPT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/epub-to-ppt/
+url_ignore: /cpp/conversion/epub-to-ppt/
 family: total
 platformtag: cpp
 feature: conversion

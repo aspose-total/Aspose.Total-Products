@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MD to TXT
 description: Convert MD to TXT via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/md-to-txt/
+url_ignore: /cpp/conversion/md-to-txt/
 family: total
 platformtag: cpp
 feature: conversion

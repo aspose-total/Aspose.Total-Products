@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi định dạng JSON sang PS qua .NET
 description: Phân tích cú pháp JSON thành PS trong C# mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/json-to-ps/
+url_ignore: /vi/net/conversion/json-to-ps/
 family: total
 platformtag: net
 feature: conversion

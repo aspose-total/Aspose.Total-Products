@@ -1,7 +1,7 @@
 ---
 title: Converter POWERPOINT para XLSX via C#
 description: Converter POWERPOINT para XLSX em C# sem usar o Microsoft Excel ou Powerpoint
-url: /pt/net/conversion/powerpoint-to-xlsx/
+url_ignore: /pt/net/conversion/powerpoint-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

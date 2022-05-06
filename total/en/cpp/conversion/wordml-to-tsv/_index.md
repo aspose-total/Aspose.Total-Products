@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to TSV in C++
 description: C++ API to Convert WORDML to TSV without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/wordml-to-tsv/
+url_ignore: /cpp/conversion/wordml-to-tsv/
 family: total
 platformtag: cpp
 feature: conversion

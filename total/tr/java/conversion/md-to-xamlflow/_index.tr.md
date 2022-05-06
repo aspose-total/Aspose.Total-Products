@@ -1,7 +1,7 @@
 ---
 title: MD'yi XAMLFLOW'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak MD'yi XAMLFLOW'ye dönüştürün
-url: /tr/java/conversion/md-to-xamlflow/
+url_ignore: /tr/java/conversion/md-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

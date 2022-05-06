@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to ODS in C++
 description: C++ API to Convert WORDML to ODS without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/wordml-to-ods/
+url_ignore: /cpp/conversion/wordml-to-ods/
 family: total
 platformtag: cpp
 feature: conversion

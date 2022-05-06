@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie PPSX über C# in MHTML
 description: Konvertieren Sie PPSX in C# in MHTML, ohne Microsoft Excel oder Powerpoint zu verwenden
-url: /de/net/conversion/ppsx-to-mhtml/
+url_ignore: /de/net/conversion/ppsx-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

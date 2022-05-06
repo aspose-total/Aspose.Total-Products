@@ -1,7 +1,7 @@
 ---
 title: Преобразование XLTX в DOC с помощью .NET 
 description: Преобразование XLTX в DOC на платформах .NET Framework, .NET Core, Mono или Xamarin.
-url: /ru/net/conversion/xltx-to-doc/
+url_ignore: /ru/net/conversion/xltx-to-doc/
 family: total
 platformtag: net
 feature: conversion

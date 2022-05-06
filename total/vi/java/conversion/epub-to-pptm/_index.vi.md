@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi EPUB sang PPTM thông qua Java API
 description: Java API để chuyển đổi EPUB sang PPTM mà không cần sử dụng Microsoft Word
-url: /vi/java/conversion/epub-to-pptm/
+url_ignore: /vi/java/conversion/epub-to-pptm/
 family: total
 platformtag: net
 feature: conversion

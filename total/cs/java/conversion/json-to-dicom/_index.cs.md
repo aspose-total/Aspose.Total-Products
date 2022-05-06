@@ -1,7 +1,7 @@
 ---
 title: Převeďte formát JSON na DICOM přes Java
 description: Analyzujte JSON na DICOM v Javě bez použití Microsoft PowerPoint
-url: /cs/java/conversion/json-to-dicom/
+url_ignore: /cs/java/conversion/json-to-dicom/
 family: total
 platformtag: net
 feature: conversion

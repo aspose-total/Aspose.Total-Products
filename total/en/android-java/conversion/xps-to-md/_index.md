@@ -1,7 +1,7 @@
 ---
 title: Convert XPS to MD in Android via Java
 description: Render XPS to MD in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/xps-to-md/
+url_ignore: /android-java/conversion/xps-to-md/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPSをEXCELに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPSファイルをEXCELに変換するC＃API
-url: /ja/net/conversion/ps-to-excel/
+url_ignore: /ja/net/conversion/ps-to-excel/
 family: total
 platformtag: net
 feature: conversion

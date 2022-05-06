@@ -1,7 +1,7 @@
 ---
 title: MSG'i Java aracılığıyla TEXT'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan MSG'i TEXT'ye Dönüştürmek için Java API
-url: /tr/java/conversion/msg-to-text/
+url_ignore: /tr/java/conversion/msg-to-text/
 family: total
 platformtag: net
 feature: conversion

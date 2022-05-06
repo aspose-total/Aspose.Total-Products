@@ -1,7 +1,7 @@
 ---
 title: C# API to Export PCL to MARKDOWN
 description: Convert PCL to MARKDOWN without using Microsoft Word
-url: /net/conversion/pcl-to-markdown/
+url_ignore: /net/conversion/pcl-to-markdown/
 family: total
 platformtag: net
 feature: conversion

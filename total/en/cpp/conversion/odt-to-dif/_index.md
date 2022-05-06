@@ -1,7 +1,7 @@
 ---
 title: Convert ODT to DIF in C++
 description: C++ API to Convert ODT to DIF without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/odt-to-dif/
+url_ignore: /cpp/conversion/odt-to-dif/
 family: total
 platformtag: cpp
 feature: conversion

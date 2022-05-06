@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XSLFO to XAML  
 description: Convert XSLFO to XAML via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xslfo-to-xaml/
+url_ignore: /cpp/conversion/xslfo-to-xaml/
 family: total
 platformtag: cpp
 feature: conversion

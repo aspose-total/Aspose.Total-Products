@@ -1,7 +1,7 @@
 ---
 title: Java API pro export MHTML do XAMLFLOW
 description: Převeďte MHTML na XAMLFLOW pomocí on premise Java API
-url: /cs/java/conversion/mhtml-to-xamlflow/
+url_ignore: /cs/java/conversion/mhtml-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

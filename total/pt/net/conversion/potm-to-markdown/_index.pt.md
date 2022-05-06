@@ -1,7 +1,7 @@
 ---
 title: Converter POTM para MARKDOWN via C#
 description: Converter POTM para MARKDOWN em C# sem usar o Microsoft Excel ou Powerpoint
-url: /pt/net/conversion/potm-to-markdown/
+url_ignore: /pt/net/conversion/potm-to-markdown/
 family: total
 platformtag: net
 feature: conversion

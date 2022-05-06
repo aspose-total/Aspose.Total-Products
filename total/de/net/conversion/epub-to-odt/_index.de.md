@@ -1,7 +1,7 @@
 ---
 title: C#-API zum Exportieren von EPUB nach ODT
 description: Konvertieren Sie EPUB in ODT, ohne Microsoft Word zu verwenden
-url: /de/net/conversion/epub-to-odt/
+url_ignore: /de/net/conversion/epub-to-odt/
 family: total
 platformtag: net
 feature: conversion

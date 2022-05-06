@@ -1,7 +1,7 @@
 ---
 title: Konvertera POT till JSON-format via .NET
 description: Konvertera POT till JSON i C# utan att använda Microsoft Excel eller Powerpoint
-url: /sv/net/conversion/pot-to-json/
+url_ignore: /sv/net/conversion/pot-to-json/
 family: total
 platformtag: net
 feature: conversion
@@ -33,7 +33,8 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "da55916905648dbb8430fcb52dc2e47f" "convert-powerpoint-to-json.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 Med hjälp av API:t kan du också öppna det lösenordsskyddade dokumentet. Om ditt inmatade POT-dokument är lösenordsskyddat kan du inte konvertera det till JSON-format utan att använda lösenordet. API:et låter dig öppna det krypterade dokumentet genom att skicka in rätt lösenord i ett LoadOptions-objekt. Följande kodexempel visar hur man öppnar ett krypterat dokument med ett lösenord.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "da55916905648dbb8430fcb52dc2e47f" "convert-protected-powerpoint-to-json.cs" >}}
+{{< gist "aspose-com-gists" "da55916905648dbb8430fcb52dc2e47f" "convert-protected-powerpoint-to-json.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Med hjälp av API:t kan du också öppna det lösenordsskyddade dokumentet. Om d
 Medan du konverterar POT till JSON kan du också ställa in intervallet till ditt utdata-JSON-format. För att ställa in intervallet kan du öppna den konverterade HTML-koden med Workbook-klassen, hämta CellsCollection av arbetsbladet som innehåller data, skapa ett intervall från CellsCollection genom att ange rad- och kolumnindex och anropa ExportRangeToJson-metoden med referenser till Range & ExportRangeToJsonOptions-objekt. Slutligen kan du spara JSON-data till fil via metoden File.WriteAllText. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "da55916905648dbb8430fcb52dc2e47f" "convert-powerpoint-to-json-range.cs" >}}
+{{< gist "aspose-com-gists" "da55916905648dbb8430fcb52dc2e47f" "convert-powerpoint-to-json-range.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

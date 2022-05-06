@@ -1,7 +1,7 @@
 ---
 title: Преобразование XSLFO в WMF через C# API
 description: Экспорт XSLFO в WMF в ваших приложениях .NET без использования каких-либо сторонних приложений.
-url: /ru/net/conversion/xslfo-to-wmf/
+url_ignore: /ru/net/conversion/xslfo-to-wmf/
 family: total
 platformtag: net
 feature: conversion

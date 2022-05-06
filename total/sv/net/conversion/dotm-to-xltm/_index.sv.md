@@ -1,7 +1,7 @@
 ---
 title: .NET API för att konvertera DOTM till XLTM
 description: C# API för att konvertera DOTM till XLTM utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/net/conversion/dotm-to-xltm/
+url_ignore: /sv/net/conversion/dotm-to-xltm/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Lägg till anpassade egenskaper i XLTM-fil via C#" %}}
 När du konverterar DOTM till XLTM gör [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) det möjligt för dig att lägga till anpassade egenskaper i dina XLTM-dokument. För att lägga till en anpassad egenskap kan du använda metoden [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection/methods/add/index) för [CustomDotmumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection) klass. Add-metoden lägger till egenskapen i Excel-filen och returnerar en referens för den nya dokumentegenskapen som en [Aspose.Cells.Properties.DotmumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /dotmumentproperty) objekt. 
 {{% blocks/products/pf/feature-page-code %}}

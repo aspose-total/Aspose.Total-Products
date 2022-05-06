@@ -1,7 +1,7 @@
 ---
 title: Java API เพื่อส่งออก PCL ไปยัง RTF
 description: แปลง PCL เป็น RTF โดยใช้ Java API . ในตัว
-url: /th/java/conversion/pcl-to-rtf/
+url_ignore: /th/java/conversion/pcl-to-rtf/
 family: total
 platformtag: net
 feature: conversion

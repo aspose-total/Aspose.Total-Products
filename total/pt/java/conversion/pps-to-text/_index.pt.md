@@ -1,7 +1,7 @@
 ---
 title: Converter PPS para TEXT via Java
 description: API Java para exportar PPS para TEXT sem usar o Microsoft Word ou PowerPoint
-url: /pt/java/conversion/pps-to-text/
+url_ignore: /pt/java/conversion/pps-to-text/
 family: total
 platformtag: net
 feature: conversion

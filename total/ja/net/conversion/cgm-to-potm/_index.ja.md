@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してCGMをPOTMにエクスポートする
 description: MicrosoftWordを使用せずにCGMをPOTMに変換する.NETAPI
-url: /ja/net/conversion/cgm-to-potm/
+url_ignore: /ja/net/conversion/cgm-to-potm/
 family: total
 platformtag: net
 feature: conversion

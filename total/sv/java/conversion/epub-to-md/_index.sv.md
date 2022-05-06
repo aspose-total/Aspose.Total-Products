@@ -1,7 +1,7 @@
 ---
 title: Java API för att rendera EPUB till MD
 description: Exportera EPUB till MD via Java API utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/java/conversion/epub-to-md/
+url_ignore: /sv/java/conversion/epub-to-md/
 family: total
 platformtag: net
 feature: conversion

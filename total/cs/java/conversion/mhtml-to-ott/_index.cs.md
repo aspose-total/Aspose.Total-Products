@@ -1,7 +1,7 @@
 ---
 title: Java API pro export MHTML do OTT
 description: Převeďte MHTML na OTT pomocí on premise Java API
-url: /cs/java/conversion/mhtml-to-ott/
+url_ignore: /cs/java/conversion/mhtml-to-ott/
 family: total
 platformtag: net
 feature: conversion

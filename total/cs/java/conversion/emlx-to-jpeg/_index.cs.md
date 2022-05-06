@@ -1,7 +1,7 @@
 ---
 title: Export EMLX do JPEG přes Java
 description: Java API pro převod EMLX do JPEG bez použití Microsoft Word nebo Outlook
-url: /cs/java/conversion/emlx-to-jpeg/
+url_ignore: /cs/java/conversion/emlx-to-jpeg/
 family: total
 platformtag: net
 feature: conversion

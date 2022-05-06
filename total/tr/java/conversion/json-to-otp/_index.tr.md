@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını Java ile OTP'ye Dönüştür
 description: Microsoft PowerPoint kullanmadan Java'da JSON'u OTP'ye ayrıştırın
-url: /tr/java/conversion/json-to-otp/
+url_ignore: /tr/java/conversion/json-to-otp/
 family: total
 platformtag: net
 feature: conversion

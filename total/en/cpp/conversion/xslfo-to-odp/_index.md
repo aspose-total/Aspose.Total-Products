@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XSLFO to ODP  
 description: Convert XSLFO to ODP via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xslfo-to-odp/
+url_ignore: /cpp/conversion/xslfo-to-odp/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert EPUB to PPTM  
 description: Convert EPUB to PPTM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/epub-to-pptm/
+url_ignore: /cpp/conversion/epub-to-pptm/
 family: total
 platformtag: cpp
 feature: conversion

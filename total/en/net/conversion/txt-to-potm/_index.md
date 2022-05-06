@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to POTM via C# .NET 
-url: /net/conversion/txt-to-potm/ 
+url_ignore: /net/conversion/txt-to-potm/ 
 description: Convert Word txt documents to PowerPoint potm files with C#. Convert multiple files within ASP.NET or other .NET applications.
 ---
 

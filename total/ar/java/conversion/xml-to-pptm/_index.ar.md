@@ -1,7 +1,7 @@
 ---
 title: تحويل XML إلى PPTM عبر Java API
 description: Java API لتحويل XML إلى PPTM دون استخدام Microsoft Word
-url: /ar/java/conversion/xml-to-pptm/
+url_ignore: /ar/java/conversion/xml-to-pptm/
 family: total
 platformtag: net
 feature: conversion

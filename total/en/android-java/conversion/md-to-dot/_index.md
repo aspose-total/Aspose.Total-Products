@@ -1,7 +1,7 @@
 ---
 title: Android API to Render MD to DOT
 description: Transform MD to DOT via Android via Java API
-url: /android-java/conversion/md-to-dot/
+url_ignore: /android-java/conversion/md-to-dot/
 family: total
 platformtag: android-java
 feature: conversion

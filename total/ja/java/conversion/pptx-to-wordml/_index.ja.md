@@ -1,7 +1,7 @@
 ---
 title: Java経由でPPTXをWORDMLに変換する
 description: MicrosoftWordやPowerPointを使用せずにPPTXをWORDMLにエクスポートするJavaAPI
-url: /ja/java/conversion/pptx-to-wordml/
+url_ignore: /ja/java/conversion/pptx-to-wordml/
 family: total
 platformtag: net
 feature: conversion

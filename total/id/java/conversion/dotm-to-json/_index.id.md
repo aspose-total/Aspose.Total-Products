@@ -1,7 +1,7 @@
 ---
 title: Konversi Format DOTM ke JSON melalui Java
 description: Konversi format DOTM ke JSON melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel
-url: /id/java/conversion/dotm-to-json/
+url_ignore: /id/java/conversion/dotm-to-json/
 family: total
 platformtag: net
 feature: conversion

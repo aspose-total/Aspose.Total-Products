@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert TEX to XLTM
 description: Convert TEX to XLTM via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/tex-to-xltm/
+url_ignore: /cpp/conversion/tex-to-xltm/
 family: total
 platformtag: cpp
 feature: conversion

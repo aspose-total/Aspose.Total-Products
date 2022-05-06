@@ -1,7 +1,7 @@
 ---
 title: Convert DOCM to POT in Android via Java
 description: DOCM to POT conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/docm-to-pot/
+url_ignore: /android-java/conversion/docm-to-pot/
 family: total
 platformtag: android-java
 feature: conversion

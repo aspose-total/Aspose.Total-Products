@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση MD σε EXCEL
 description: Εξαγωγή MD σε EXCEL μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/md-to-excel/
+url_ignore: /el/java/conversion/md-to-excel/
 family: total
 platformtag: net
 feature: conversion

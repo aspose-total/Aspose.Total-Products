@@ -1,7 +1,7 @@
 ---
 title: Export MD to PPT in Android 
 description: Android API to Convert MD to PPT without using Microsoft Word
-url: /android-java/conversion/md-to-ppt/
+url_ignore: /android-java/conversion/md-to-ppt/
 family: total
 platformtag: android-java
 feature: conversion

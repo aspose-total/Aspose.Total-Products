@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất EMLX sang IMAGE
 description: Chuyển đổi EMLX thành IMAGE mà không cần sử dụng Microsoft Word hoặc Outlook trên .NET
-url: /vi/net/conversion/emlx-to-image/
+url_ignore: /vi/net/conversion/emlx-to-image/
 family: total
 platformtag: net
 feature: conversion

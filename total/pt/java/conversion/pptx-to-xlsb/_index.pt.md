@@ -1,7 +1,7 @@
 ---
 title: Converter PPTX para formato XLSB via Java
 description: Converta o formato PPTX para XLSB via Java sem usar o Microsoft Excel ou PowerPoint
-url: /pt/java/conversion/pptx-to-xlsb/
+url_ignore: /pt/java/conversion/pptx-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert PPT to XLT Format via Java
 description: Convert PPT to XLT format via Java without using using Microsoft Excel or PowerPoint
-url: /java/conversion/ppt-to-xlt/
+url_ignore: /java/conversion/ppt-to-xlt/
 family: total
 platformtag: java
 feature: conversion

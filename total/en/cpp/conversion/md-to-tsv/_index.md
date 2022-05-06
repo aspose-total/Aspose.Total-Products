@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MD to TSV
 description: Convert MD to TSV via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/md-to-tsv/
+url_ignore: /cpp/conversion/md-to-tsv/
 family: total
 platformtag: cpp
 feature: conversion

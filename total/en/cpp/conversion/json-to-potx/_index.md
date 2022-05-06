@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to POTX via C++ 
 description: Parse JSON to POTX in C++ without using Microsoft PowerPoint
-url: /cpp/conversion/json-to-potx/
+url_ignore: /cpp/conversion/json-to-potx/
 family: total
 platformtag: cpp
 feature: conversion

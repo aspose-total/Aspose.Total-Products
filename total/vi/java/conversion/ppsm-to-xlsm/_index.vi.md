@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi PPSM sang Định dạng XLSM qua Java
 description: Chuyển đổi PPSM sang định dạng XLSM qua Java mà không cần sử dụng Microsoft Excel hoặc PowerPoint
-url: /vi/java/conversion/ppsm-to-xlsm/
+url_ignore: /vi/java/conversion/ppsm-to-xlsm/
 family: total
 platformtag: net
 feature: conversion
@@ -19,7 +19,7 @@ Bạn có thể chuyển đổi tệp PPSM sang XLSM qua [Aspose.Total for Java]
 1. Mở tệp PPSM bằng lớp [Trình bày](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Chuyển đổi PPSM sang HTML bằng cách sử dụng [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. Phương thức ISaveOptions-)
 3. Tải tài liệu HTML bằng cách sử dụng lớp [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Lưu tài liệu sang định dạng XLSM bằng cách sử dụng [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells).SaveOptions)) Phương thức 
+4. Lưu tài liệu sang định dạng XLSM bằng cách sử dụng [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells)).SaveOptions)) Phương thức 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
 Để chuyển đổi PPSM sang XLSM, bạn có thể dễ dàng sử dụng Aspose.Total for Java trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/ dự án dựa trên aspose/aspose-total) và bao gồm các thư viện trong pom.xml của bạn.

@@ -1,7 +1,7 @@
 ---
 title: Převeďte EPUB na SXC přes C# API
 description: C# API pro převod souboru EPUB do SXC bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/epub-to-sxc/
+url_ignore: /cs/net/conversion/epub-to-sxc/
 family: total
 platformtag: net
 feature: conversion

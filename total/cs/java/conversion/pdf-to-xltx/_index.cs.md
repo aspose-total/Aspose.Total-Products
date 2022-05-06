@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení PDF do XLTX
 description: Export PDF do XLTX přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/pdf-to-xltx/
+url_ignore: /cs/java/conversion/pdf-to-xltx/
 family: total
 platformtag: net
 feature: conversion

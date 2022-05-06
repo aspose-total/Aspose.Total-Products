@@ -1,7 +1,7 @@
 ---
 title: Converter MD para IMAGE via API C#
 description: Exporte MD para IMAGE em seus aplicativos .NET sem usar nenhum aplicativo de terceiros
-url: /pt/net/conversion/md-to-image/
+url_ignore: /pt/net/conversion/md-to-image/
 family: total
 platformtag: net
 feature: conversion

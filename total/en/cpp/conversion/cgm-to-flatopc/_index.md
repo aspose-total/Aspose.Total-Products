@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export CGM to FLATOPC
 description: Convert CGM to FLATOPC within C++ applications.
-url: /cpp/conversion/cgm-to-flatopc/
+url_ignore: /cpp/conversion/cgm-to-flatopc/
 family: total
 platformtag: cpp
 feature: conversion

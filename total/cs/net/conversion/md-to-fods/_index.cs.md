@@ -1,7 +1,7 @@
 ---
 title: Převeďte MD na FODS přes C# API
 description: C# API pro převod souboru MD do FODS bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/md-to-fods/
+url_ignore: /cs/net/conversion/md-to-fods/
 family: total
 platformtag: net
 feature: conversion

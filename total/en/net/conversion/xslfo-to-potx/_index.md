@@ -1,7 +1,7 @@
 ---
 title: Export XSLFO to POTX via C# API
 description: .NET API to Convert XSLFO to POTX without using Microsoft Word
-url: /net/conversion/xslfo-to-potx/
+url_ignore: /net/conversion/xslfo-to-potx/
 family: total
 platformtag: net
 feature: conversion

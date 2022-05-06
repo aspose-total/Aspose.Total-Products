@@ -1,6 +1,6 @@
 ---
 title: Преобразование PPTX в DOTM через C# .NET 
-url: /ru/net/conversion/pptx-to-dotm/ 
+url_ignore: /ru/net/conversion/pptx-to-dotm/ 
 description: Преобразование документов PowerPoint pptx в файлы документов Word с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

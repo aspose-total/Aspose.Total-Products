@@ -1,7 +1,7 @@
 ---
 title: Konwertuj HTML na WMZ przez C# API
 description: Eksportuj HTML do WMZ w swoich aplikacjach .NET bez korzystania z aplikacji innych firm
-url: /pl/net/conversion/html-to-wmz/
+url_ignore: /pl/net/conversion/html-to-wmz/
 family: total
 platformtag: net
 feature: conversion

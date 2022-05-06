@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MD to CSV
 description: Convert MD to CSV via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/md-to-csv/
+url_ignore: /cpp/conversion/md-to-csv/
 family: total
 platformtag: cpp
 feature: conversion

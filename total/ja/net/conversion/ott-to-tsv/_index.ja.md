@@ -1,7 +1,7 @@
 ---
 title: OTTをTSVに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにOTTをTSVに変換するC＃API
-url: /ja/net/conversion/ott-to-tsv/
+url_ignore: /ja/net/conversion/ott-to-tsv/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to CSV in C++
 description: C++ API to Convert WORD to CSV without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/word-to-csv/
+url_ignore: /cpp/conversion/word-to-csv/
 family: total
 platformtag: cpp
 feature: conversion

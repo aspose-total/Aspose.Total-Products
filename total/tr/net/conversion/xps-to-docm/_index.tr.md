@@ -1,7 +1,7 @@
 ---
 title: XPS'yi DOCM'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan XPS'yi DOCM'ye dönüştürün
-url: /tr/net/conversion/xps-to-docm/
+url_ignore: /tr/net/conversion/xps-to-docm/
 family: total
 platformtag: net
 feature: conversion

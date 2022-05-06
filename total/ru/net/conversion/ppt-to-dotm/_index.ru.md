@@ -1,6 +1,6 @@
 ---
 title: Преобразование PPT в DOTM через C# .NET 
-url: /ru/net/conversion/ppt-to-dotm/ 
+url_ignore: /ru/net/conversion/ppt-to-dotm/ 
 description: Преобразование документов PowerPoint ppt в файлы документов Word с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

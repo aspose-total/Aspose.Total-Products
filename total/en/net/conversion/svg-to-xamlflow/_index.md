@@ -1,7 +1,7 @@
 ---
 title: C# API to Export SVG to XAMLFLOW
 description: Convert SVG to XAMLFLOW without using Microsoft Word
-url: /net/conversion/svg-to-xamlflow/
+url_ignore: /net/conversion/svg-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

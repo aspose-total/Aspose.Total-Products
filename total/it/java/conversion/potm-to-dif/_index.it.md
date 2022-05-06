@@ -1,7 +1,7 @@
 ---
 title: Converti POTM in formato DIF tramite Java
 description: Converti POTM in formato DIF tramite Java senza utilizzare Microsoft Excel o PowerPoint
-url: /it/java/conversion/potm-to-dif/
+url_ignore: /it/java/conversion/potm-to-dif/
 family: total
 platformtag: net
 feature: conversion

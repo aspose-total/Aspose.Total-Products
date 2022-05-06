@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi XML sang PPS thông qua Java API
 description: Java API để chuyển đổi XML sang PPS mà không cần sử dụng Microsoft Word
-url: /vi/java/conversion/xml-to-pps/
+url_ignore: /vi/java/conversion/xml-to-pps/
 family: total
 platformtag: net
 feature: conversion

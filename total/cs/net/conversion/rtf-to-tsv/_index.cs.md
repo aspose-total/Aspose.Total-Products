@@ -1,7 +1,7 @@
 ---
 title: .NET API pro převod RTF do TSV
 description: C# API pro převod RTF do TSV bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/rtf-to-tsv/
+url_ignore: /cs/net/conversion/rtf-to-tsv/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ Pomocí [Aspose.Total for .NET](https://products.aspose.com/total/net/) můžete
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API pro převod RTF do TSV" %}}
-1. Otevřete soubor RTF pomocí třídy [Rtfument](https://apireference.aspose.com/words/net/aspose.words/rtfument)
-2. Převeďte RTF do HTML pomocí metody [Save](https://apireference.aspose.com/words/net/aspose.words.rtfument/save/methods/4)
+1. Otevřete soubor RTF pomocí třídy [Document](https://apireference.aspose.com/words/net/aspose.words/Document)
+2. Převeďte RTF do HTML pomocí metody [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4)
 3. Načtěte dokument HTML pomocí třídy [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Uložte dokument do formátu TSV pomocí metody [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) a nastavte „TSV“ jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -39,7 +39,7 @@ Případně si stáhněte offline instalační program MSI nebo knihovny DLL v s
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Načíst dokument RTF ze streamu přes C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) vám také umožňuje načíst dokument RTF prostřednictvím streamu. Chcete-li otevřít dokument ze streamu, jednoduše předejte objekt streamu, který obsahuje dokument, do konstruktoru [Rtfument](https://apireference.aspose.com/words/net/aspose.words/rtfument). Následující příklad kódu ukazuje, jak otevřít dokument ze streamu:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) vám také umožňuje načíst dokument RTF prostřednictvím streamu. Chcete-li otevřít dokument ze streamu, jednoduše předejte objekt streamu, který obsahuje dokument, do konstruktoru [Document](https://apireference.aspose.com/words/net/aspose.words/Document). Následující příklad kódu ukazuje, jak otevřít dokument ze streamu:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ Případně si stáhněte offline instalační program MSI nebo knihovny DLL v s
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Přidejte uživatelské vlastnosti do souboru TSV přes C#" %}}
-Při převodu RTF na TSV vám [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) umožňuje přidávat do dokumentů TSV vlastní vlastnosti. Chcete-li přidat vlastní vlastnost, můžete použít metodu [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customrtfumentpropertycollection/methods/add/index) pro [CustomRtfumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customrtfumentpropertycollection) třídy. Metoda Add přidá vlastnost do souboru aplikace Excel a vrátí odkaz na novou vlastnost dokumentu jako [Aspose.Cells.Properties.RtfumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /rtfumentproperty) objekt. 
+Při převodu RTF na TSV vám [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) umožňuje přidávat do dokumentů TSV vlastní vlastnosti. Chcete-li přidat vlastní vlastnost, můžete použít metodu [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index) pro [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection) třídy. Metoda Add přidá vlastnost do souboru aplikace Excel a vrátí odkaz na novou vlastnost dokumentu jako [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /Documentproperty) objekt. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

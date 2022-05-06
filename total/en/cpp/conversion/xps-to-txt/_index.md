@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XPS to TXT
 description: Convert XPS to TXT via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xps-to-txt/
+url_ignore: /cpp/conversion/xps-to-txt/
 family: total
 platformtag: cpp
 feature: conversion

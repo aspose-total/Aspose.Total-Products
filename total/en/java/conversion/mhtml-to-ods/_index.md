@@ -1,7 +1,7 @@
 ---
 title: Java API to Render MHTML to ODS
 description: Export MHTML to ODS via Java API without using Microsoft Excel or Adobe Reader
-url: /java/conversion/mhtml-to-ods/
+url_ignore: /java/conversion/mhtml-to-ods/
 family: total
 platformtag: java
 feature: conversion

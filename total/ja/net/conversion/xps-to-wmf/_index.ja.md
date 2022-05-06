@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXPSをWMFに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでXPSをWMFにエクスポートします
-url: /ja/net/conversion/xps-to-wmf/
+url_ignore: /ja/net/conversion/xps-to-wmf/
 family: total
 platformtag: net
 feature: conversion

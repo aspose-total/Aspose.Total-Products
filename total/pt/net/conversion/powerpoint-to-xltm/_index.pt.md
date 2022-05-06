@@ -1,7 +1,7 @@
 ---
 title: Converter POWERPOINT para XLTM via C#
 description: Converter POWERPOINT para XLTM em C# sem usar o Microsoft Excel ou Powerpoint
-url: /pt/net/conversion/powerpoint-to-xltm/
+url_ignore: /pt/net/conversion/powerpoint-to-xltm/
 family: total
 platformtag: net
 feature: conversion

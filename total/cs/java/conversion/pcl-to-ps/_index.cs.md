@@ -1,7 +1,7 @@
 ---
 title: Java API pro export PCL do PS
 description: Převeďte PCL na PS pomocí on premise Java API
-url: /cs/java/conversion/pcl-to-ps/
+url_ignore: /cs/java/conversion/pcl-to-ps/
 family: total
 platformtag: net
 feature: conversion

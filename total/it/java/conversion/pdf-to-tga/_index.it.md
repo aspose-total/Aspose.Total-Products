@@ -1,7 +1,7 @@
 ---
 title: Converti PDF in TGA tramite Java
 description: Esporta file PDF in TGA nelle tue applicazioni Java senza utilizzare applicazioni di terze parti
-url: /it/java/conversion/pdf-to-tga/
+url_ignore: /it/java/conversion/pdf-to-tga/
 family: total
 platformtag: net
 feature: conversion

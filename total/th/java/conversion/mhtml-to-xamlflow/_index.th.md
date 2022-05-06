@@ -1,7 +1,7 @@
 ---
 title: Java API เพื่อส่งออก MHTML ไปยัง XAMLFLOW
 description: แปลง MHTML เป็น XAMLFLOW โดยใช้ Java API . ในตัว
-url: /th/java/conversion/mhtml-to-xamlflow/
+url_ignore: /th/java/conversion/mhtml-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: NET API لتحويل OTT إلى XLTM
 description: C# API لتحويل OTT إلى XLTM بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/ott-to-xltm/
+url_ignore: /ar/net/conversion/ott-to-xltm/
 family: total
 platformtag: net
 feature: conversion

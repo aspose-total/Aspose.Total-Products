@@ -1,7 +1,7 @@
 ---
 title: API .NET pour convertir DOTX en FODS
 description: API C# pour convertir DOTX en FODS sans utiliser Microsoft Excel ou Adobe Reader
-url: /fr/net/conversion/dotx-to-fods/
+url_ignore: /fr/net/conversion/dotx-to-fods/
 family: total
 platformtag: net
 feature: conversion
@@ -13,15 +13,15 @@ otherformats: TSV XLS XLTM FODS XLSX XLSM DIF ODS EXCEL XLT XLTX XLSB XLAM SXC
 {{< blocks/products/pf/i18n/feature-page-header h1="API C# pour convertir DOTX en FODS" h2="Exportez DOTX vers FODS via C# sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), vous pouvez inclure la fonction de conversion DOTX vers FODS dans n'importe quelle application .NET, C#, ASP.NET et VB.NET dans deux étapes simples. Tout d'abord, en utilisant [Aspose.Words pour .NET](https://products.aspose.com/words/net/), vous pouvez exporter DOTX vers HTML. Après cela, en utilisant [Aspose.Cells pour .NET](https://products.aspose.com/cells/net/) API de programmation de feuille de calcul, vous pouvez convertir HTML en FODS.
+En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez inclure la fonction de conversion DOTX vers FODS dans n'importe quelle application .NET, C#, ASP.NET et VB.NET dans deux étapes simples. Tout d'abord, en utilisant [Aspose.Words for .NET](https://products.aspose.com/words/net/), vous pouvez exporter DOTX vers HTML. Après cela, en utilisant [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API de programmation de feuille de calcul, vous pouvez convertir HTML en FODS.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET pour convertir DOTX en FODS" %}}
-1. Ouvrez le fichier DOTX à l'aide de la classe [Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument)
-2. Convertir DOTX en HTML en utilisant la méthode [Save](https://apireference.aspose.com/words/net/aspose.words.dotxument/save/methods/4)
-3. Chargez le dotxument HTML à l'aide de la classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Enregistrez le dotxument au format FODS à l'aide de la méthode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) et définissez `FODS` comme SaveFormat
+1. Ouvrez le fichier DOTX à l'aide de la classe [Document](https://apireference.aspose.com/words/net/aspose.words/Document)
+2. Convertir DOTX en HTML en utilisant la méthode [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4)
+3. Chargez le Document HTML à l'aide de la classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+4. Enregistrez le Document au format FODS à l'aide de la méthode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) et définissez `FODS` comme SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
@@ -38,8 +38,8 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Charger le dotxument DOTX à partir du flux via C#" %}}
-[Aspose.Words pour .NET](https://products.aspose.com/words/net/) vous permet également de charger un dotxument DOTX via un flux. Pour ouvrir un dotxument à partir d'un flux, transmettez simplement un objet de flux contenant le dotxument dans le constructeur [Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument). L'exemple de code suivant montre comment ouvrir un dotxument à partir d'un flux :  
+{{% blocks/products/pf/feature-page-section  h2="Charger le Document DOTX à partir du flux via C#" %}}
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) vous permet également de charger un Document DOTX via un flux. Pour ouvrir un Document à partir d'un flux, transmettez simplement un objet de flux contenant le Document dans le constructeur [Document](https://apireference.aspose.com/words/net/aspose.words/Document). L'exemple de code suivant montre comment ouvrir un Document à partir d'un flux :  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ajouter des propriétés personnalisées dans le fichier FODS via C#" %}}
-Lors de la conversion de DOTX en FODS, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) vous permet d'ajouter des propriétés personnalisées dans vos dotxuments FODS. Pour ajouter une propriété personnalisée, vous pouvez utiliser la méthode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotxumentpropertycollection/methods/add/index) pour la [CustomDotxumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotxumentpropertycollection). La méthode Add ajoute la propriété au fichier Excel et renvoie une référence pour la nouvelle propriété de dotxument en tant que [Aspose.Cells.Properties.DotxumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /dotxumentpropriété). 
+Lors de la conversion de DOTX en FODS, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) vous permet d'ajouter des propriétés personnalisées dans vos Documents FODS. Pour ajouter une propriété personnalisée, vous pouvez utiliser la méthode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index) pour la [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection). La méthode Add ajoute la propriété au fichier Excel et renvoie une référence pour la nouvelle propriété de Document en tant que [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties/documentproperties). 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

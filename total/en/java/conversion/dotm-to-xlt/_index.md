@@ -1,7 +1,7 @@
 ---
 title: Convert DOTM to XLT via Java
 description: Convert DOTM to XLT via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/dotm-to-xlt/
+url_ignore: /java/conversion/dotm-to-xlt/
 family: total
 platformtag: java
 feature: conversion

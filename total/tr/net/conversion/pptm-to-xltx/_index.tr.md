@@ -1,7 +1,7 @@
 ---
 title: PPTM'u C# ile XLTX'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan PPTM'u C#'ta XLTX'ye dönüştürün
-url: /tr/net/conversion/pptm-to-xltx/
+url_ignore: /tr/net/conversion/pptm-to-xltx/
 family: total
 platformtag: net
 feature: conversion

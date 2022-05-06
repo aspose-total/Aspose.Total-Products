@@ -1,7 +1,7 @@
 ---
 title: .NETを介してPPSをJSON形式に変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPSをJSONに変換する
-url: /ja/net/conversion/pps-to-json/
+url_ignore: /ja/net/conversion/pps-to-json/
 family: total
 platformtag: net
 feature: conversion

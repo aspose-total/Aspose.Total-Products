@@ -1,7 +1,7 @@
 ---
 title: Java経由でJSON形式をDOCMに変換する
 description: MicrosoftWordを使用せずにJavaでJSONをDOCMに解析する
-url: /ja/java/conversion/json-to-docm/
+url_ignore: /ja/java/conversion/json-to-docm/
 family: total
 platformtag: net
 feature: conversion

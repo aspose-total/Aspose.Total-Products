@@ -1,7 +1,7 @@
 ---
 title: जावा का उपयोग करके XLSB को DOC में बदलें
 description: जावा एपीआई एक्सेल या वर्ड का उपयोग करके सीएसवी को डीओसी में निर्यात करने के लिए
-url: /hi/java/conversion/xlsb-to-doc/
+url_ignore: /hi/java/conversion/xlsb-to-doc/
 family: total
 platformtag: net
 feature: conversion

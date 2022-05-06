@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert CGM to PPSM  
 description: Convert CGM to PPSM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/cgm-to-ppsm/
+url_ignore: /cpp/conversion/cgm-to-ppsm/
 family: total
 platformtag: cpp
 feature: conversion

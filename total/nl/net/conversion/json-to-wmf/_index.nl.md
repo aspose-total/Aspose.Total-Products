@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar WMF via .NET
 description: JSON ontleden naar WMF in C# zonder afhankelijkheden van derden te gebruiken
-url: /nl/net/conversion/json-to-wmf/
+url_ignore: /nl/net/conversion/json-to-wmf/
 family: total
 platformtag: net
 feature: conversion

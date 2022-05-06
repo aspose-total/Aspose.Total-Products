@@ -1,7 +1,7 @@
 ---
 title: C# API do eksportu EMAIL do DOCX
 description: Konwertuj EMAIL na DOCX bez używania Microsoft Word lub Outlook na .NET
-url: /pl/net/conversion/email-to-docx/
+url_ignore: /pl/net/conversion/email-to-docx/
 family: total
 platformtag: net
 feature: conversion

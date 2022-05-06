@@ -1,7 +1,7 @@
 ---
 title: API .NET per convertire MOBI in DIF
 description: API C# per convertire MOBI in DIF senza utilizzare Microsoft Excel o Adobe Reader
-url: /it/net/conversion/mobi-to-dif/
+url_ignore: /it/net/conversion/mobi-to-dif/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ In alternativa, scarica il programma di installazione MSI offline o le DLL in un
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Aggiungi proprietà personalizzate nel file DIF tramite C#" %}}
 Durante la conversione di MOBI in DIF, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) consente di aggiungere proprietà personalizzate nei mobiumenti DIF. Per aggiungere una proprietà personalizzata, è possibile utilizzare il metodo [Add](https://apiference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection/methods/add/index) per il metodo [CustomDocumentPropertyCollection](https://apiference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection). Il metodo Add aggiunge la proprietà al file Excel e restituisce un riferimento per la nuova proprietà del mobiumento come [Aspose.Cells.Properties.DocumentProperty](https://apiference.aspose.com/cells/net/aspose.cells.properties /proprietà mobiumento). 
 {{% blocks/products/pf/feature-page-code %}}

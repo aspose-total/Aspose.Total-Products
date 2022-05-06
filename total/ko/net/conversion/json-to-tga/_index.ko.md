@@ -1,7 +1,7 @@
 ---
 title: .NET을 통해 JSON 형식을 TGA로 변환
 description: 타사 종속성을 사용하지 않고 C#에서 JSON을 TGA로 구문 분석
-url: /ko/net/conversion/json-to-tga/
+url_ignore: /ko/net/conversion/json-to-tga/
 family: total
 platformtag: net
 feature: conversion

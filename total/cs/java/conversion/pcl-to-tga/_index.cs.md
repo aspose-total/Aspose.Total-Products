@@ -1,7 +1,7 @@
 ---
 title: Převést PCL na TGA přes Java
 description: Exportujte soubor PCL do TGA ve svých aplikacích Java bez použití jakékoli aplikace třetí strany
-url: /cs/java/conversion/pcl-to-tga/
+url_ignore: /cs/java/conversion/pcl-to-tga/
 family: total
 platformtag: net
 feature: conversion

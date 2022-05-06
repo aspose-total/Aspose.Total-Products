@@ -1,7 +1,7 @@
 ---
 title: تصدير XML إلى POTX عبر C# API
 description: NET API لتحويل XML إلى POTX دون استخدام Microsoft Word
-url: /ar/net/conversion/xml-to-potx/
+url_ignore: /ar/net/conversion/xml-to-potx/
 family: total
 platformtag: net
 feature: conversion

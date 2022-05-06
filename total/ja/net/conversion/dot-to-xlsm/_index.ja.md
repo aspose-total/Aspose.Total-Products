@@ -1,7 +1,7 @@
 ---
 title: DOTをXLSMに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにDOTをXLSMに変換するC＃API
-url: /ja/net/conversion/dot-to-xlsm/
+url_ignore: /ja/net/conversion/dot-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование PDF в WMZ через Java
 description: Экспорт файла PDF в WMZ в ваших приложениях Java без использования каких-либо сторонних приложений.
-url: /ru/java/conversion/pdf-to-wmz/
+url_ignore: /ru/java/conversion/pdf-to-wmz/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API για μετατροπή DOT σε XLSM
 description: Μετατροπή DOT σε XLSM μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel
-url: /el/java/conversion/dot-to-xlsm/
+url_ignore: /el/java/conversion/dot-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

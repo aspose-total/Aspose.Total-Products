@@ -1,7 +1,7 @@
 ---
 title: Java API για μετατροπή DOT σε EXCEL
 description: Μετατροπή DOT σε EXCEL μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel
-url: /el/java/conversion/dot-to-excel/
+url_ignore: /el/java/conversion/dot-to-excel/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi PPTX sang SXC qua C#
 description: Chuyển đổi PPTX sang SXC trong C# mà không cần sử dụng Microsoft Excel hoặc Powerpoint
-url: /vi/net/conversion/pptx-to-sxc/
+url_ignore: /vi/net/conversion/pptx-to-sxc/
 family: total
 platformtag: net
 feature: conversion

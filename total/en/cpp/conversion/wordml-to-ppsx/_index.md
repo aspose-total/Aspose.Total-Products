@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to PPSX via C++
 description: Export WORDML to PPSX in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/wordml-to-ppsx/
+url_ignore: /cpp/conversion/wordml-to-ppsx/
 family: total
 platformtag: cpp
 feature: conversion

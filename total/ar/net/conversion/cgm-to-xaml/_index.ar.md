@@ -1,7 +1,7 @@
 ---
 title: تصدير CGM إلى XAML عبر C# API
 description: NET API لتحويل CGM إلى XAML دون استخدام Microsoft Word
-url: /ar/net/conversion/cgm-to-xaml/
+url_ignore: /ar/net/conversion/cgm-to-xaml/
 family: total
 platformtag: net
 feature: conversion

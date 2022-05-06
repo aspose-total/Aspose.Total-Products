@@ -1,7 +1,7 @@
 ---
 title: .NET-API zum Konvertieren von OTT in XLSB
 description: C#-API zum Konvertieren von OTT in XLSB ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/ott-to-xlsb/
+url_ignore: /de/net/conversion/ott-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

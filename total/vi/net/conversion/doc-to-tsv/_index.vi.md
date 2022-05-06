@@ -1,7 +1,7 @@
 ---
 title: .NET API để chuyển đổi DOC sang TSV
 description: C# API để chuyển đổi DOC sang TSV mà không cần sử dụng Microsoft Excel hoặc Adobe Reader
-url: /vi/net/conversion/doc-to-tsv/
+url_ignore: /vi/net/conversion/doc-to-tsv/
 family: total
 platformtag: net
 feature: conversion

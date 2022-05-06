@@ -1,7 +1,7 @@
 ---
 title: Convert DOTM to XLSB in C++
 description: C++ API to Convert DOTM to XLSB without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/dotm-to-xlsb/
+url_ignore: /cpp/conversion/dotm-to-xlsb/
 family: total
 platformtag: cpp
 feature: conversion

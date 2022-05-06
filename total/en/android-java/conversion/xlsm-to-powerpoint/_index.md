@@ -1,7 +1,7 @@
 ---
 title: Export XLSM to POWERPOINT in Android 
 description: Android API to Convert XLSM to POWERPOINT without using Microsoft Word
-url: /android-java/conversion/xlsm-to-powerpoint/
+url_ignore: /android-java/conversion/xlsm-to-powerpoint/
 family: total
 platformtag: android-java
 feature: conversion

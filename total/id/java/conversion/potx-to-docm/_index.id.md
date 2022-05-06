@@ -1,7 +1,7 @@
 ---
 title: Konversi POTX ke DOCM melalui Java
 description: Java API untuk Mengekspor POTX ke DOCM tanpa menggunakan Microsoft Word atau PowerPoint
-url: /id/java/conversion/potx-to-docm/
+url_ignore: /id/java/conversion/potx-to-docm/
 family: total
 platformtag: net
 feature: conversion
@@ -34,7 +34,7 @@ Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://downloads.aspose.c
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Persyaratan Konversi" %}}
-Menggunakan API, Anda juga dapat melakukan konversi file POTX ke DOCM dengan tanda air. Untuk menambahkan tanda air ke dokumen DOCM Anda, Anda dapat terlebih dahulu mengonversi file POTX ke HTML dan menambahkan tanda air ke dalamnya. Untuk menambahkan tanda air, muat file HTML yang baru dibuat menggunakan kelas [Docmument](https://apireference.aspose.com/words/java/com.aspose.words/Docmument), buat instance TextWatermarkOptions dan atur propertinya, Panggil metode Watermark.setText dan berikan teks watermark & objek TextWatermarkOptions.  
+Menggunakan API, Anda juga dapat melakukan konversi file POTX ke DOCM dengan tanda air. Untuk menambahkan tanda air ke dokumen DOCM Anda, Anda dapat terlebih dahulu mengonversi file POTX ke HTML dan menambahkan tanda air ke dalamnya. Untuk menambahkan tanda air, muat file HTML yang baru dibuat menggunakan kelas [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document), buat instance TextWatermarkOptions dan atur propertinya, Panggil metode Watermark.setText dan berikan teks watermark & objek TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}

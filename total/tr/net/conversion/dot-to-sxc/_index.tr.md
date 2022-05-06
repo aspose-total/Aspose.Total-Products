@@ -1,7 +1,7 @@
 ---
 title: DOT'yi SXC'ye Dönüştürmek için .NET API
 description: Microsoft Excel veya Adobe Reader kullanmadan DOT'yi SXC'ye dönüştürmek için C# API'si
-url: /tr/net/conversion/dot-to-sxc/
+url_ignore: /tr/net/conversion/dot-to-sxc/
 family: total
 platformtag: net
 feature: conversion

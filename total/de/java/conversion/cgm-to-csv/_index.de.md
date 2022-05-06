@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Rendern von CGM in CSV
 description: Exportieren Sie CGM über die Java-API in CSV, ohne Microsoft Excel oder Adobe Reader zu verwenden
-url: /de/java/conversion/cgm-to-csv/
+url_ignore: /de/java/conversion/cgm-to-csv/
 family: total
 platformtag: net
 feature: conversion

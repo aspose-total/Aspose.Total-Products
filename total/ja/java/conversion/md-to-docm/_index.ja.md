@@ -1,7 +1,7 @@
 ---
 title: MDをDOCMにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してMDをDOCMに変換する
-url: /ja/java/conversion/md-to-docm/
+url_ignore: /ja/java/conversion/md-to-docm/
 family: total
 platformtag: net
 feature: conversion

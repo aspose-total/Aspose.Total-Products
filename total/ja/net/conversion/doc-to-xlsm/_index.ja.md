@@ -1,7 +1,7 @@
 ---
 title: DOCをXLSMに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにDOCをXLSMに変換するC＃API
-url: /ja/net/conversion/doc-to-xlsm/
+url_ignore: /ja/net/conversion/doc-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

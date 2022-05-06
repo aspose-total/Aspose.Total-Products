@@ -1,7 +1,7 @@
 ---
 title: Преобразование MHTML в XLTX через C# API
 description: C# API для преобразования файла MHTML в XLTX без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/mhtml-to-xltx/
+url_ignore: /ru/net/conversion/mhtml-to-xltx/
 family: total
 platformtag: net
 feature: conversion

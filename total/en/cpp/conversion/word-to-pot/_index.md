@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to POT via C++
 description: Export WORD to POT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/word-to-pot/
+url_ignore: /cpp/conversion/word-to-pot/
 family: total
 platformtag: cpp
 feature: conversion

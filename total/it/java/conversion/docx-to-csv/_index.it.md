@@ -1,7 +1,7 @@
 ---
 title: API Java per convertire DOCX in CSV
 description: Converti DOCX in CSV tramite Java senza utilizzare Microsoft Word o Microsoft Excel
-url: /it/java/conversion/docx-to-csv/
+url_ignore: /it/java/conversion/docx-to-csv/
 family: total
 platformtag: net
 feature: conversion

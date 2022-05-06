@@ -1,7 +1,7 @@
 ---
 title: Convert DOCM to XLS in C++
 description: C++ API to Convert DOCM to XLS without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/docm-to-xls/
+url_ignore: /cpp/conversion/docm-to-xls/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertera POT till ODS-format via Java
 description: Konvertera POT till ODS-format via Java utan att använda Microsoft Excel eller PowerPoint
-url: /sv/java/conversion/pot-to-ods/
+url_ignore: /sv/java/conversion/pot-to-ods/
 family: total
 platformtag: net
 feature: conversion

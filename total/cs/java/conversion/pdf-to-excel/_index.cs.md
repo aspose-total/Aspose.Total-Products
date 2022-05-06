@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení PDF do EXCEL
 description: Export PDF do EXCEL přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/pdf-to-excel/
+url_ignore: /cs/java/conversion/pdf-to-excel/
 family: total
 platformtag: net
 feature: conversion

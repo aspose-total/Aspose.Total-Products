@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to XLSB via .NET 
 description: Convert WORD to XLSB in C# without using Microsoft Excel or Adobe Reader
-url: /net/conversion/word-to-xlsb/
+url_ignore: /net/conversion/word-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

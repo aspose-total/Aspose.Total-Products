@@ -1,7 +1,7 @@
 ---
 title: Konvertera OTT till PPT via Java
 description: Java API för att exportera OTT till PPT utan att använda Microsoft Word eller PowerPoint
-url: /sv/java/conversion/ott-to-ppt/
+url_ignore: /sv/java/conversion/ott-to-ppt/
 family: total
 platformtag: net
 feature: conversion

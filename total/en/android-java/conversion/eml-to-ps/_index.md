@@ -1,7 +1,7 @@
 ---
 title: Render EML to PS in Andorid App
 description: Export EML to PS without using Microsoft Word or Outlook in you Andorid applications 
-url: /android-java/conversion/eml-to-ps/
+url_ignore: /android-java/conversion/eml-to-ps/
 family: total
 platformtag: android-java
 feature: conversion

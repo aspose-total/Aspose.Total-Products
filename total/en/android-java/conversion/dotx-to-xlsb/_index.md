@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOTX to XLSB
 description: Convert DOTX to XLSB in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/dotx-to-xlsb/
+url_ignore: /android-java/conversion/dotx-to-xlsb/
 family: total
 platformtag: android-java
 feature: conversion

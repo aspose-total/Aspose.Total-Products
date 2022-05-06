@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MHTML to CSV
 description: Convert MHTML to CSV via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/mhtml-to-csv/
+url_ignore: /cpp/conversion/mhtml-to-csv/
 family: total
 platformtag: cpp
 feature: conversion

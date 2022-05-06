@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MHTML to POWERPOINT  
 description: Convert MHTML to POWERPOINT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/mhtml-to-powerpoint/
+url_ignore: /cpp/conversion/mhtml-to-powerpoint/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى WORD عبر .NET
 description: تحليل JSON إلى WORD في C# بدون استخدام Microsoft Word
-url: /ar/net/conversion/json-to-word/
+url_ignore: /ar/net/conversion/json-to-word/
 family: total
 platformtag: net
 feature: conversion

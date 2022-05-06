@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXPSをAPNGに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでXPSをAPNGにエクスポートします
-url: /ja/net/conversion/xps-to-apng/
+url_ignore: /ja/net/conversion/xps-to-apng/
 family: total
 platformtag: net
 feature: conversion

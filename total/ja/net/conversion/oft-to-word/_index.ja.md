@@ -1,7 +1,7 @@
 ---
 title: OFTをWORDにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにOFTをWORDに変換する
-url: /ja/net/conversion/oft-to-word/
+url_ignore: /ja/net/conversion/oft-to-word/
 family: total
 platformtag: net
 feature: conversion

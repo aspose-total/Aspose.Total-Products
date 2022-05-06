@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से सीजीएम को एपीएनजी में कनवर्ट करें
 description: किसी भी तृतीय पक्ष एप्लिकेशन का उपयोग किए बिना अपने जावा एप्लिकेशन में MD फ़ाइल को PSD में निर्यात करें
-url: /hi/java/conversion/md-to-psd/
+url_ignore: /hi/java/conversion/md-to-psd/
 family: total
 platformtag: net
 feature: conversion

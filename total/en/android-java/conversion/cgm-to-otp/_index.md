@@ -1,7 +1,7 @@
 ---
 title: Export CGM to OTP in Android 
 description: Android API to Convert CGM to OTP without using Microsoft Word
-url: /android-java/conversion/cgm-to-otp/
+url_ignore: /android-java/conversion/cgm-to-otp/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java経由でMSGをPSにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにMSGをPSに変換するJavaAPI
-url: /ja/java/conversion/msg-to-ps/
+url_ignore: /ja/java/conversion/msg-to-ps/
 family: total
 platformtag: net
 feature: conversion

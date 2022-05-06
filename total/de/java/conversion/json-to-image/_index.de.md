@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie das JSON-Format über Java in IMAGE
 description: Analysieren Sie JSON in IMAGE in Java, ohne Microsoft PowerPoint zu verwenden
-url: /de/java/conversion/json-to-image/
+url_ignore: /de/java/conversion/json-to-image/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API to Export MD to RTF
 description: Convert MD to RTF without using Microsoft Word
-url: /net/conversion/md-to-rtf/
+url_ignore: /net/conversion/md-to-rtf/
 family: total
 platformtag: net
 feature: conversion

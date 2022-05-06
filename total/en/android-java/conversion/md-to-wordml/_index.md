@@ -1,7 +1,7 @@
 ---
 title: Android API to Render MD to WORDML
 description: Transform MD to WORDML via Android via Java API
-url: /android-java/conversion/md-to-wordml/
+url_ignore: /android-java/conversion/md-to-wordml/
 family: total
 platformtag: android-java
 feature: conversion

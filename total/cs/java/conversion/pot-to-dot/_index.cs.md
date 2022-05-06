@@ -1,7 +1,7 @@
 ---
 title: Převeďte POT na DOT přes Java
 description: Java API pro export POT do DOT bez použití Microsoft Word nebo PowerPoint
-url: /cs/java/conversion/pot-to-dot/
+url_ignore: /cs/java/conversion/pot-to-dot/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: TEX'yi OTT'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak TEX'yi OTT'ye dönüştürün
-url: /tr/java/conversion/tex-to-ott/
+url_ignore: /tr/java/conversion/tex-to-ott/
 family: total
 platformtag: net
 feature: conversion

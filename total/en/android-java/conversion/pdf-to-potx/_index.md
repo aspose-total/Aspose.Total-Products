@@ -1,7 +1,7 @@
 ---
 title: Export PDF to POTX in Android 
 description: Android API to Convert PDF to POTX without using Microsoft Word
-url: /android-java/conversion/pdf-to-potx/
+url_ignore: /android-java/conversion/pdf-to-potx/
 family: total
 platformtag: android-java
 feature: conversion

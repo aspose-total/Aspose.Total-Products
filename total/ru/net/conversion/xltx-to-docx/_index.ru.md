@@ -1,7 +1,7 @@
 ---
 title: Преобразование XLTX в DOCX с помощью .NET 
 description: Преобразование XLTX в DOCX на платформах .NET Framework, .NET Core, Mono или Xamarin.
-url: /ru/net/conversion/xltx-to-docx/
+url_ignore: /ru/net/conversion/xltx-to-docx/
 family: total
 platformtag: net
 feature: conversion

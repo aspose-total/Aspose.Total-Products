@@ -1,7 +1,7 @@
 ---
 title: MHTMLをWORDMLにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにMHTMLをWORDMLに変換する
-url: /ja/net/conversion/mhtml-to-wordml/
+url_ignore: /ja/net/conversion/mhtml-to-wordml/
 family: total
 platformtag: net
 feature: conversion

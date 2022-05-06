@@ -1,7 +1,7 @@
 ---
 title: Javaを介してPCLをTGAに変換する
 description: サードパーティのアプリケーションを使用せずに、JavaアプリケーションのTGAにPCLファイルをエクスポートします
-url: /ja/java/conversion/pcl-to-tga/
+url_ignore: /ja/java/conversion/pcl-to-tga/
 family: total
 platformtag: net
 feature: conversion
@@ -17,7 +17,7 @@ otherformats: TGA IMAGE PSD SVGZ EMZ WMZ WMF  JPEG2000 DXF DICOM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java経由でPCLをTGAにエクスポート" %}}
 1. [ドキュメント](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)クラスを使用してPCLファイルを開きます
-2. [JpegDevice](JpegDevice)クラスオブジェクトを初期化し、[Process](https://apireference.aspose.com/pdf/java/com.aspose.pdf.devices/JpegDevice#process-com)を使用してPCLをJPEGにレンダリングします。 aspose.pdf.Page-java.io.OutputStream-)メソッド
+2. JpegDeviceクラスオブジェクトを初期化し、[Process](https://apireference.aspose.com/pdf/java/com.aspose.pdf.devices/JpegDevice#process-com)を使用してPCLをJPEGにレンダリングします。 aspose.pdf.Page-java.io.OutputStream-)メソッド
 3. [Image](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image)クラスを使用してJPEGファイルをロードします
 4. [save](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBaseを使用してドキュメントをTGA形式で保存します-) 方法
 {{% /blocks/products/pf/agp/feature-section-col %}}

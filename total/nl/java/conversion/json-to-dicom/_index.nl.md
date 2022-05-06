@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar DICOM via Java
 description: JSON ontleden naar DICOM in Java zonder Microsoft PowerPoint te gebruiken
-url: /nl/java/conversion/json-to-dicom/
+url_ignore: /nl/java/conversion/json-to-dicom/
 family: total
 platformtag: net
 feature: conversion

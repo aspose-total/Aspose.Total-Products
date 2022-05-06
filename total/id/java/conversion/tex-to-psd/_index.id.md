@@ -1,7 +1,7 @@
 ---
 title: Konversi TEX ke PSD melalui Java
 description: Ekspor file TEX ke PSD di aplikasi Java Anda tanpa menggunakan aplikasi pihak ketiga
-url: /id/java/conversion/tex-to-psd/
+url_ignore: /id/java/conversion/tex-to-psd/
 family: total
 platformtag: net
 feature: conversion

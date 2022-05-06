@@ -1,7 +1,7 @@
 ---
 title: แปลง PS เป็น XAML ผ่าน Java API
 description: Java API เพื่อแปลง PS เป็น XAML โดยไม่ต้องใช้ Microsoft Word
-url: /th/java/conversion/ps-to-xaml/
+url_ignore: /th/java/conversion/ps-to-xaml/
 family: total
 platformtag: net
 feature: conversion

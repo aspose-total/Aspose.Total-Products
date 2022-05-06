@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert SVG to PPS  
 description: Convert SVG to PPS via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/svg-to-pps/
+url_ignore: /cpp/conversion/svg-to-pps/
 family: total
 platformtag: cpp
 feature: conversion

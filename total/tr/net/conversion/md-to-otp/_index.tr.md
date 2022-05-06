@@ -1,7 +1,7 @@
 ---
 title: MD'yi C# API aracılığıyla OTP'ye aktarın
 description: Microsoft Word kullanmadan MD'yi OTP'ye dönüştürmek için .NET API
-url: /tr/net/conversion/md-to-otp/
+url_ignore: /tr/net/conversion/md-to-otp/
 family: total
 platformtag: net
 feature: conversion

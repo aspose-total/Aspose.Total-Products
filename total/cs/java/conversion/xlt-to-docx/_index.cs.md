@@ -1,7 +1,7 @@
 ---
 title: Převeďte XLT na DOCX pomocí Java
 description: Java API pro export XLT do DOCX pomocí Excelu nebo Wordu
-url: /cs/java/conversion/xlt-to-docx/
+url_ignore: /cs/java/conversion/xlt-to-docx/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ Vykreslení XLT do DOCX je dvoufázový proces. Nejprve použijete [Aspose.Cells
 {{% blocks/products/pf/agp/feature-section-col title="Jak převést XLT na DOCX přes Java API" %}}
 1. Otevřete soubor XLT pomocí třídy [Sešit](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
 2. Převeďte XLT na PDF a nastavte SaveFormat na AUTO
-3. Načtěte převedený soubor PDF pomocí třídy [Docxument](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Docxument)
-4. Uložte dokument ve formátu DOCX pomocí [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Docxument#save-java.lang.String-com.aspose.pdf.SaveOptions-) a nastavte Docx jako SaveFormat
+3. Načtěte převedený soubor PDF pomocí třídy [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)
+4. Uložte dokument ve formátu DOCX pomocí [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) a nastavte Docx jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Musíte použít Aspose.Total pro Javu přímo z projektu založeného na [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a zahrňte knihovny do vašeho pom.xml.
@@ -32,10 +32,10 @@ Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.c
 Workbook book = new Workbook("input.xlt");
 // save XLT as PDF
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Docxument class
-Docxument docxument = new Docxument("pdfOutput.pdf");
-// save docxument in DOCXX format
-docxument.save("output.docxx", com.aspose.pdf.SaveFormat.DocxX);  
+// load the PDF file using Document class
+Document Document = new Document("pdfOutput.pdf");
+// save Document in DOCXX format
+Document.save("output.docxx", com.aspose.pdf.SaveFormat.DocxX);  
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}

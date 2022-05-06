@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXPSをDXFに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでXPSをDXFにエクスポートします
-url: /ja/net/conversion/xps-to-dxf/
+url_ignore: /ja/net/conversion/xps-to-dxf/
 family: total
 platformtag: net
 feature: conversion

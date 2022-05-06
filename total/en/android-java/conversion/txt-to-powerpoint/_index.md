@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to POWERPOINT in Android via Java
 description: TXT to POWERPOINT conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/txt-to-powerpoint/
+url_ignore: /android-java/conversion/txt-to-powerpoint/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: TEXをRTFにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してTEXをRTFに変換する
-url: /ja/java/conversion/tex-to-rtf/
+url_ignore: /ja/java/conversion/tex-to-rtf/
 family: total
 platformtag: net
 feature: conversion

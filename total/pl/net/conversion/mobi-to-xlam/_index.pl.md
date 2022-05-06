@@ -1,7 +1,7 @@
 ---
 title: .NET API do konwersji MOBI na XLAM
 description: C# API do konwersji MOBI na XLAM bez użycia Microsoft Excel lub Adobe Reader
-url: /pl/net/conversion/mobi-to-xlam/
+url_ignore: /pl/net/conversion/mobi-to-xlam/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ Możesz też pobrać instalator offline MSI lub biblioteki DLL w pliku ZIP ze st
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Dodaj niestandardowe właściwości w pliku XLAM za pomocą C#" %}}
 Podczas konwertowania MOBI na XLAM [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) umożliwia dodawanie niestandardowych właściwości w dokumentach XLAM. Aby dodać niestandardową właściwość, możesz użyć metody [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection/methods/add/index) dla [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection). Metoda Add dodaje właściwość do pliku Excel i zwraca odwołanie do nowej właściwości dokumentu jako [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /mobiumentproperty). 
 {{% blocks/products/pf/feature-page-code %}}

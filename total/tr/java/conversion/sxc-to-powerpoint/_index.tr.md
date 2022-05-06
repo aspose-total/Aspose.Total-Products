@@ -1,7 +1,7 @@
 ---
 title: Java kullanarak SXC'yi POWERPOINT'ye dönüştürün
 description: Excel veya Word kullanarak SXC'yi POWERPOINT'a Dışa Aktarmak için Java API
-url: /tr/java/conversion/sxc-to-powerpoint/
+url_ignore: /tr/java/conversion/sxc-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

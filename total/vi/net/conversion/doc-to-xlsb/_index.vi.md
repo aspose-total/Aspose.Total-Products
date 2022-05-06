@@ -1,7 +1,7 @@
 ---
 title: .NET API để chuyển đổi DOC sang XLSB
 description: C# API để chuyển đổi DOC sang XLSB mà không cần sử dụng Microsoft Excel hoặc Adobe Reader
-url: /vi/net/conversion/doc-to-xlsb/
+url_ignore: /vi/net/conversion/doc-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

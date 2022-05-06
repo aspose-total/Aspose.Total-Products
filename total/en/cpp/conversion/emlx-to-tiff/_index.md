@@ -1,7 +1,7 @@
 ---
 title: Export EMLX to TIFF via C++
 description: C++ API to Convert EMLX to TIFF without using Microsoft Word or Outlook
-url: /cpp/conversion/emlx-to-tiff/
+url_ignore: /cpp/conversion/emlx-to-tiff/
 family: total
 platformtag: cpp
 feature: conversion

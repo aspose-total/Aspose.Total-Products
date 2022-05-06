@@ -1,7 +1,7 @@
 ---
 title: Převeďte PPS do formátu MHTML přes Java
 description: Převeďte PPS do formátu MHTML přes Java bez použití Microsoft Excel nebo PowerPoint
-url: /cs/java/conversion/pps-to-mhtml/
+url_ignore: /cs/java/conversion/pps-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

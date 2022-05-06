@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení MHTML do DIF
 description: Export MHTML do DIF přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/mhtml-to-dif/
+url_ignore: /cs/java/conversion/mhtml-to-dif/
 family: total
 platformtag: net
 feature: conversion

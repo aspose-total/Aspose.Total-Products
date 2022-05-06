@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to XLSB in C++
 description: C++ API to Convert WORDML to XLSB without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/wordml-to-xlsb/
+url_ignore: /cpp/conversion/wordml-to-xlsb/
 family: total
 platformtag: cpp
 feature: conversion

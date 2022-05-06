@@ -1,7 +1,7 @@
 ---
 title: Экспорт MD в SWF через C# API
 description: .NET API для преобразования MD в SWF без использования Microsoft Word
-url: /ru/net/conversion/md-to-swf/
+url_ignore: /ru/net/conversion/md-to-swf/
 family: total
 platformtag: net
 feature: conversion

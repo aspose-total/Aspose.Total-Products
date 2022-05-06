@@ -1,7 +1,7 @@
 ---
 title: DOCをSXCに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにDOCをSXCに変換するC＃API
-url: /ja/net/conversion/doc-to-sxc/
+url_ignore: /ja/net/conversion/doc-to-sxc/
 family: total
 platformtag: net
 feature: conversion

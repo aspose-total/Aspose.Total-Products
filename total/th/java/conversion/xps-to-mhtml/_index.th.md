@@ -1,7 +1,7 @@
 ---
 title: Java API เพื่อส่งออก XPS ไปยัง MHTML
 description: แปลง XPS เป็น MHTML โดยใช้ Java API . ในตัว
-url: /th/java/conversion/xps-to-mhtml/
+url_ignore: /th/java/conversion/xps-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

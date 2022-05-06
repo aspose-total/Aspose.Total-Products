@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى EPUB عبر .NET
 description: تحليل JSON إلى EPUB في C# بدون استخدام Microsoft Word
-url: /ar/net/conversion/json-to-epub/
+url_ignore: /ar/net/conversion/json-to-epub/
 family: total
 platformtag: net
 feature: conversion

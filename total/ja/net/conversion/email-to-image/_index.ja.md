@@ -1,7 +1,7 @@
 ---
 title: EMAILをIMAGEにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMAILをIMAGEに変換する
-url: /ja/net/conversion/email-to-image/
+url_ignore: /ja/net/conversion/email-to-image/
 family: total
 platformtag: net
 feature: conversion

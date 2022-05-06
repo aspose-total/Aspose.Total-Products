@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XML to ODS
 description: Convert XML to ODS via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xml-to-ods/
+url_ignore: /cpp/conversion/xml-to-ods/
 family: total
 platformtag: cpp
 feature: conversion

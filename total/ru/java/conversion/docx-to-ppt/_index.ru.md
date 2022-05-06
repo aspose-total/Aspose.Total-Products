@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOCX в PPT через Java
 description: Java API для экспорта DOCX в PPT без использования Microsoft Word или PowerPoint
-url: /ru/java/conversion/docx-to-ppt/
+url_ignore: /ru/java/conversion/docx-to-ppt/
 family: total
 platformtag: net
 feature: conversion

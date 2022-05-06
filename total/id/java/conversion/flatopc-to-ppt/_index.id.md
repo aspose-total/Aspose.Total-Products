@@ -1,7 +1,7 @@
 ---
 title: Konversi FLATOPC ke PPT melalui Java
 description: Java API untuk Mengekspor FLATOPC ke PPT tanpa menggunakan Microsoft Word atau PowerPoint
-url: /id/java/conversion/flatopc-to-ppt/
+url_ignore: /id/java/conversion/flatopc-to-ppt/
 family: total
 platformtag: net
 feature: conversion

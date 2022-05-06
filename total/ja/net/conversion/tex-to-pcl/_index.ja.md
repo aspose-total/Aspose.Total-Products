@@ -1,7 +1,7 @@
 ---
 title: TEXをPCLにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにTEXをPCLに変換する
-url: /ja/net/conversion/tex-to-pcl/
+url_ignore: /ja/net/conversion/tex-to-pcl/
 family: total
 platformtag: net
 feature: conversion

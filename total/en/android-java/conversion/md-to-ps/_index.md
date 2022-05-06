@@ -1,7 +1,7 @@
 ---
 title: Android API to Render MD to PS
 description: Transform MD to PS via Android via Java API
-url: /android-java/conversion/md-to-ps/
+url_ignore: /android-java/conversion/md-to-ps/
 family: total
 platformtag: android-java
 feature: conversion

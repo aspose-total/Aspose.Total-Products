@@ -1,7 +1,7 @@
 ---
 title: C# API om EML naar GIF te exporteren
 description: Converteer EML naar GIF zonder Microsoft Word of Outlook te gebruiken op .NET
-url: /nl/net/conversion/eml-to-gif/
+url_ignore: /nl/net/conversion/eml-to-gif/
 family: total
 platformtag: net
 feature: conversion

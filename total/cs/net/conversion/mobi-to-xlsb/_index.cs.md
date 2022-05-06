@@ -1,7 +1,7 @@
 ---
 title: .NET API pro převod MOBI do XLSB
 description: C# API pro převod MOBI do XLSB bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/mobi-to-xlsb/
+url_ignore: /cs/net/conversion/mobi-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export MHTML to FLATOPC
 description: Convert MHTML to FLATOPC within C++ applications.
-url: /cpp/conversion/mhtml-to-flatopc/
+url_ignore: /cpp/conversion/mhtml-to-flatopc/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export EMLX to EMF via C++
 description: C++ API to Convert EMLX to EMF without using Microsoft Word or Outlook
-url: /cpp/conversion/emlx-to-emf/
+url_ignore: /cpp/conversion/emlx-to-emf/
 family: total
 platformtag: cpp
 feature: conversion

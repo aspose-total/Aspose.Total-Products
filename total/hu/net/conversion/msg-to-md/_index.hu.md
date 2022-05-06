@@ -1,7 +1,7 @@
 ---
 title: C# API az MSG MD-be való exportálásához
 description: Konvertálja az MSG-t MD-vé Microsoft Word vagy Outlook használata nélkül a .NET-en
-url: /hu/net/conversion/msg-to-md/
+url_ignore: /hu/net/conversion/msg-to-md/
 family: total
 platformtag: net
 feature: conversion
@@ -19,15 +19,15 @@ Ha Ön .NET-fejlesztő, szeretné hozzáadni az MSG-t az alkalmazásokon belüli
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API az MSG MD-vé konvertálásához" %}}
 1. Nyissa meg az MSG fájlt a [MailMessage](https://apireference.aspose.com/msg/net/aspose.msg/mailmessage) osztály használatával
-2. Alakítsa át az MSG-címet HTML-vé a [Mentés](https://apireference.aspose.com/msg/net/aspose.msg.mailmessage/save/methods/3) módszerrel
+2. Alakítsa át az MSG-címet HTML-vé a [Save](https://apireference.aspose.com/msg/net/aspose.msg.mailmessage/save/methods/3) módszerrel
 3. Töltse be a HTML-t a [Document](https://apireference.aspose.com/words/net/aspose.words/document) osztály használatával
-4. Mentse a dokumentumot MD formátumba a [Mentés](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) módszerrel, és állítsa be a Md-t SaveFormat-ként.
+4. Mentse a dokumentumot MD formátumba a [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) módszerrel, és állítsa be a Md-t SaveFormat-ként.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 Telepítés parancssorból ```nuget install Aspose.Total``` néven, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.Total``` paranccsal.
 
-Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads] webhelyről (https://downloads.aspose.com/total/net).
+Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads](https://downloads.aspose.com/total/net) webhelyről.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
@@ -47,7 +47,7 @@ document.Save("output.md", SaveFormat.Md);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Az MSG fájl elemzése .NET-en keresztül" %}}
-Az MSG MD-vé konvertálása előtt, ha meg szeretne győződni arról, hogy a megfelelő e-mailt konvertálja, töltse be az MSG dokumentumot, elemezze, és tekintse meg a kívánt tulajdonságot. A [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) [Aspose.Msg for .NET] osztályának használatával (https://products.aspose.com/msg /net/) API, a küldő és a címzett információkat kaphat. Például a [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername) tulajdonság használatával ellenőrizheti a konverzióhoz tartozó feladó e-mail-címét.  
+Az MSG MD-vé konvertálása előtt, ha meg szeretne győződni arról, hogy a megfelelő e-mailt konvertálja, töltse be az MSG dokumentumot, elemezze, és tekintse meg a kívánt tulajdonságot. A [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) [Aspose.Msg for .NET](https://products.aspose.com/msg /net/) API, a küldő és a címzett információkat kaphat. Például a [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername) tulajdonság használatával ellenőrizheti a konverzióhoz tartozó feladó e-mail-címét.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

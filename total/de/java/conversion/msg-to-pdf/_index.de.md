@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie E-MAIL über Java nach PDF
 description: Java-API zum Konvertieren von E-MAIL in PDF, ohne Microsoft Word oder Outlook zu verwenden
-url: /de/java/conversion/msg-to-pdf/
+url_ignore: /de/java/conversion/msg-to-pdf/
 family: total
 platformtag: net
 feature: conversion

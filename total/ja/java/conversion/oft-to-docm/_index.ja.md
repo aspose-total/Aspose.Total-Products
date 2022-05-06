@@ -1,7 +1,7 @@
 ---
 title: Java経由でOFTをDOCMにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにOFTをDOCMに変換するJavaAPI
-url: /ja/java/conversion/oft-to-docm/
+url_ignore: /ja/java/conversion/oft-to-docm/
 family: total
 platformtag: net
 feature: conversion

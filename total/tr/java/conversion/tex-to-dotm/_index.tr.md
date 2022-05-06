@@ -1,7 +1,7 @@
 ---
 title: TEX'yi DOTM'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak TEX'yi DOTM'ye dönüştürün
-url: /tr/java/conversion/tex-to-dotm/
+url_ignore: /tr/java/conversion/tex-to-dotm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Android API to Render CGM to MHTML
 description: Transform CGM to MHTML via Android via Java API
-url: /android-java/conversion/cgm-to-mhtml/
+url_ignore: /android-java/conversion/cgm-to-mhtml/
 family: total
 platformtag: android-java
 feature: conversion

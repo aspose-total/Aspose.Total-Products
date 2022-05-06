@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất TEX sang DOCM
 description: Chuyển đổi TEX sang DOCM mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/tex-to-docm/
+url_ignore: /vi/net/conversion/tex-to-docm/
 family: total
 platformtag: net
 feature: conversion

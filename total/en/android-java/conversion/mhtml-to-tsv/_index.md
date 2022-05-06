@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to TSV in Android via Java
 description: Render MHTML to TSV in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/mhtml-to-tsv/
+url_ignore: /android-java/conversion/mhtml-to-tsv/
 family: total
 platformtag: android-java
 feature: conversion

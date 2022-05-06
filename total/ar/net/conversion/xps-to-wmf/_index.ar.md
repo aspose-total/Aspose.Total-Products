@@ -1,7 +1,7 @@
 ---
 title: تحويل XPS إلى WMF عبر C# API
 description: قم بتصدير XPS إلى WMF في تطبيقات .NET دون استخدام أي تطبيق تابع لجهة خارجية
-url: /ar/net/conversion/xps-to-wmf/
+url_ignore: /ar/net/conversion/xps-to-wmf/
 family: total
 platformtag: net
 feature: conversion

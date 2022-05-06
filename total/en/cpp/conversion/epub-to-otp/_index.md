@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert EPUB to OTP  
 description: Convert EPUB to OTP via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/epub-to-otp/
+url_ignore: /cpp/conversion/epub-to-otp/
 family: total
 platformtag: cpp
 feature: conversion

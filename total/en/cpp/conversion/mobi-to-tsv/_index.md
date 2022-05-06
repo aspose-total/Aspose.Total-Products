@@ -1,7 +1,7 @@
 ---
 title: Convert MOBI to TSV in C++
 description: C++ API to Convert MOBI to TSV without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/mobi-to-tsv/
+url_ignore: /cpp/conversion/mobi-to-tsv/
 family: total
 platformtag: cpp
 feature: conversion

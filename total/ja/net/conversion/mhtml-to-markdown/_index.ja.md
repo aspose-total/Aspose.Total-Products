@@ -1,7 +1,7 @@
 ---
 title: MHTMLをMARKDOWNにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにMHTMLをMARKDOWNに変換する
-url: /ja/net/conversion/mhtml-to-markdown/
+url_ignore: /ja/net/conversion/mhtml-to-markdown/
 family: total
 platformtag: net
 feature: conversion

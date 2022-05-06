@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта EMLX в PNG
 description: Преобразование EMLX в PNG без использования Microsoft Word или Outlook на .NET
-url: /ru/net/conversion/emlx-to-png/
+url_ignore: /ru/net/conversion/emlx-to-png/
 family: total
 platformtag: net
 feature: conversion

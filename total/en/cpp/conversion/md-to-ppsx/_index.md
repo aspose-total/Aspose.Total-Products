@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MD to PPSX  
 description: Convert MD to PPSX via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/md-to-ppsx/
+url_ignore: /cpp/conversion/md-to-ppsx/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Android API to Render CGM to XAMLFLOW
 description: Transform CGM to XAMLFLOW via Android via Java API
-url: /android-java/conversion/cgm-to-xamlflow/
+url_ignore: /android-java/conversion/cgm-to-xamlflow/
 family: total
 platformtag: android-java
 feature: conversion

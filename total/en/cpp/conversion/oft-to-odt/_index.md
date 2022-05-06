@@ -1,7 +1,7 @@
 ---
 title: Export OFT to ODT via C++
 description: C++ API to Convert OFT to ODT without using Microsoft Word or Outlook
-url: /cpp/conversion/oft-to-odt/
+url_ignore: /cpp/conversion/oft-to-odt/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert POWERPOINT to JSON Format via Java
 description: Convert POWERPOINT to JSON format via Java without using using Microsoft Excel or PowerPoint
-url: /java/conversion/powerpoint-to-json/
+url_ignore: /java/conversion/powerpoint-to-json/
 family: total
 platformtag: java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export CGM to PPS via C# API
 description: .NET API to Convert CGM to PPS without using Microsoft Word
-url: /net/conversion/cgm-to-pps/
+url_ignore: /net/conversion/cgm-to-pps/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to WORD in Android via Java 
 description: Parse JSON to WORD in Java without using Microsoft Word
-url: /android-java/conversion/json-to-word/
+url_ignore: /android-java/conversion/json-to-word/
 family: total
 platformtag: android-java
 feature: conversion

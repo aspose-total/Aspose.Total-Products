@@ -1,7 +1,7 @@
 ---
 title: Converter formato POWERPOINT para JSON via .NET
 description: Converter POWERPOINT para JSON em C# sem usar o Microsoft Excel ou Powerpoint
-url: /pt/net/conversion/powerpoint-to-json/
+url_ignore: /pt/net/conversion/powerpoint-to-json/
 family: total
 platformtag: net
 feature: conversion

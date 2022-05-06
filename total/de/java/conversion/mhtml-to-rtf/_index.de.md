@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Exportieren von MHTML nach RTF
 description: Konvertieren Sie MHTML mithilfe der lokalen Java-API in RTF
-url: /de/java/conversion/mhtml-to-rtf/
+url_ignore: /de/java/conversion/mhtml-to-rtf/
 family: total
 platformtag: net
 feature: conversion

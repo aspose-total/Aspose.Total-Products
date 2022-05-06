@@ -1,7 +1,7 @@
 ---
 title: C# API για εξαγωγή OFT σε XPS
 description: Μετατροπή OFT σε XPS χωρίς χρήση του Microsoft Word ή του Outlook στο .NET
-url: /el/net/conversion/oft-to-xps/
+url_ignore: /el/net/conversion/oft-to-xps/
 family: total
 platformtag: net
 feature: conversion

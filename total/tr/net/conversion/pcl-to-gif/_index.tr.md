@@ -1,7 +1,7 @@
 ---
 title: PCL'yi GIF'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan PCL'yi GIF'ye dönüştürün
-url: /tr/net/conversion/pcl-to-gif/
+url_ignore: /tr/net/conversion/pcl-to-gif/
 family: total
 platformtag: net
 feature: conversion

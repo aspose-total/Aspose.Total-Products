@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMDをPOTXにエクスポートする
 description: MicrosoftWordを使用せずにMDをPOTXに変換する.NETAPI
-url: /ja/net/conversion/md-to-potx/
+url_ignore: /ja/net/conversion/md-to-potx/
 family: total
 platformtag: net
 feature: conversion

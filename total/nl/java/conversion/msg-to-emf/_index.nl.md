@@ -1,7 +1,7 @@
 ---
 title: Exporteer MSG naar EMF via Java
 description: Java API om MSG naar EMF te converteren zonder Microsoft Word of Outlook te gebruiken
-url: /nl/java/conversion/msg-to-emf/
+url_ignore: /nl/java/conversion/msg-to-emf/
 family: total
 platformtag: net
 feature: conversion

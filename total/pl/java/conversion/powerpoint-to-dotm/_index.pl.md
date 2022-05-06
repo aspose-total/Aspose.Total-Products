@@ -1,7 +1,7 @@
 ---
 title: Konwertuj POWERPOINT na DOTM przez Javę
 description: Java API do eksportu POWERPOINT do DOTM bez użycia Microsoft Word lub PowerPoint
-url: /pl/java/conversion/powerpoint-to-dotm/
+url_ignore: /pl/java/conversion/powerpoint-to-dotm/
 family: total
 platformtag: net
 feature: conversion

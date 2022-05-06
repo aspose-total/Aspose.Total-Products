@@ -1,7 +1,7 @@
 ---
 title: Converter TEX para IMAGE via API C#
 description: Exporte TEX para IMAGE em seus aplicativos .NET sem usar nenhum aplicativo de terceiros
-url: /pt/net/conversion/tex-to-image/
+url_ignore: /pt/net/conversion/tex-to-image/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى WORD عبر Java
 description: تحليل JSON إلى WORD في Java بدون استخدام Microsoft Word
-url: /ar/java/conversion/json-to-word/
+url_ignore: /ar/java/conversion/json-to-word/
 family: total
 platformtag: net
 feature: conversion

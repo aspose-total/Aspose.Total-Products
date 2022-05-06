@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXMLをPOTXにエクスポートする
 description: MicrosoftWordを使用せずにXMLをPOTXに変換する.NETAPI
-url: /ja/net/conversion/xml-to-potx/
+url_ignore: /ja/net/conversion/xml-to-potx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert POWERPOINT to XLAM via C++ 
 description: Export POWERPOINT to XLAM in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/powerpoint-to-xlam/
+url_ignore: /cpp/conversion/powerpoint-to-xlam/
 family: total
 platformtag: cpp
 feature: conversion

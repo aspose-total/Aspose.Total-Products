@@ -1,7 +1,7 @@
 ---
 title: تحويل POTX إلى تنسيق DIF عبر Java
 description: قم بتحويل POTX إلى تنسيق DIF عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/potx-to-dif/
+url_ignore: /ar/java/conversion/potx-to-dif/
 family: total
 platformtag: net
 feature: conversion

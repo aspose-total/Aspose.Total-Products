@@ -1,7 +1,7 @@
 ---
 title: Converteer PPS naar XLSM-formaat via Java
 description: Converteer PPS naar XLSM-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken
-url: /nl/java/conversion/pps-to-xlsm/
+url_ignore: /nl/java/conversion/pps-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

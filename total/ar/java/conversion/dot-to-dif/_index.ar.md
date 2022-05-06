@@ -1,7 +1,7 @@
 ---
 title: Java API لتحويل DOT إلى DIF
 description: قم بتحويل DOT إلى DIF عبر Java دون استخدام Microsoft Word أو Microsoft Excel
-url: /ar/java/conversion/dot-to-dif/
+url_ignore: /ar/java/conversion/dot-to-dif/
 family: total
 platformtag: net
 feature: conversion

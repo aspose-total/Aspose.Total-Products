@@ -1,7 +1,7 @@
 ---
 title: Android API to Render TEX to WORDML
 description: Transform TEX to WORDML via Android via Java API
-url: /android-java/conversion/tex-to-wordml/
+url_ignore: /android-java/conversion/tex-to-wordml/
 family: total
 platformtag: android-java
 feature: conversion

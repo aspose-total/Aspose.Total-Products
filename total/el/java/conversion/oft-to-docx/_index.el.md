@@ -1,7 +1,7 @@
 ---
 title: Εξαγωγή OFT σε DOCX μέσω Java
 description: Java API για μετατροπή OFT σε DOCX χωρίς χρήση του Microsoft Word ή του Outlook
-url: /el/java/conversion/oft-to-docx/
+url_ignore: /el/java/conversion/oft-to-docx/
 family: total
 platformtag: net
 feature: conversion

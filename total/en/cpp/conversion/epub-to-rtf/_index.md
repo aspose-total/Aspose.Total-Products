@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export EPUB to RTF
 description: Convert EPUB to RTF within C++ applications.
-url: /cpp/conversion/epub-to-rtf/
+url_ignore: /cpp/conversion/epub-to-rtf/
 family: total
 platformtag: cpp
 feature: conversion

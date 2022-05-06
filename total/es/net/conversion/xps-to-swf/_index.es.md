@@ -1,7 +1,7 @@
 ---
 title: Exportar XPS a SWF a través de la API de C#
 description: .NET API para convertir XPS a SWF sin usar Microsoft Word
-url: /es/net/conversion/xps-to-swf/
+url_ignore: /es/net/conversion/xps-to-swf/
 family: total
 platformtag: net
 feature: conversion

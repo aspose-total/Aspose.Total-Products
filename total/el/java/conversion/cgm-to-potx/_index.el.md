@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή CGM σε POTX μέσω Java API
 description: Java API για μετατροπή CGM σε POTX χωρίς χρήση του Microsoft Word
-url: /el/java/conversion/cgm-to-potx/
+url_ignore: /el/java/conversion/cgm-to-potx/
 family: total
 platformtag: net
 feature: conversion

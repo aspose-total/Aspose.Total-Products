@@ -1,7 +1,7 @@
 ---
 title: Java API pro export CGM do MARKDOWN
 description: Převeďte CGM na MARKDOWN pomocí on premise Java API
-url: /cs/java/conversion/cgm-to-markdown/
+url_ignore: /cs/java/conversion/cgm-to-markdown/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java経由でDOTをPPSに変換する
 description: MicrosoftWordやPowerPointを使用せずにDOTをPPSにエクスポートするJavaAPI
-url: /ja/java/conversion/dot-to-pps/
+url_ignore: /ja/java/conversion/dot-to-pps/
 family: total
 platformtag: net
 feature: conversion

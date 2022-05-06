@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PS to MARKDOWN
 description: Convert PS to MARKDOWN within C++ applications.
-url: /cpp/conversion/ps-to-markdown/
+url_ignore: /cpp/conversion/ps-to-markdown/
 family: total
 platformtag: cpp
 feature: conversion

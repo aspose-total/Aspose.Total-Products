@@ -1,7 +1,7 @@
 ---
 title: Convert DOCM to JSON format via .NET 
 description: Convert DOCM to JSON in C# without using Microsoft Excel or Adobe Reader
-url: /net/conversion/docm-to-json/
+url_ignore: /net/conversion/docm-to-json/
 family: total
 platformtag: net
 feature: conversion

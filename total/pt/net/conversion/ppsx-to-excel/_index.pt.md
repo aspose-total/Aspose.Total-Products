@@ -1,7 +1,7 @@
 ---
 title: Converter PPSX para EXCEL via C#
 description: Converter PPSX para EXCEL em C# sem usar o Microsoft Excel ou Powerpoint
-url: /pt/net/conversion/ppsx-to-excel/
+url_ignore: /pt/net/conversion/ppsx-to-excel/
 family: total
 platformtag: net
 feature: conversion

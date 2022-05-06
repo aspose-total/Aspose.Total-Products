@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie CSV in DOC mit Java
 description: Java-API zum Exportieren von CSV in DOC mit Excel oder Word
-url: /de/java/conversion/csv-to-doc/
+url_ignore: /de/java/conversion/csv-to-doc/
 family: total
 platformtag: net
 feature: conversion

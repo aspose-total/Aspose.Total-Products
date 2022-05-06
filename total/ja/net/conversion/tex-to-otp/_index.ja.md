@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してTEXをOTPにエクスポートする
 description: MicrosoftWordを使用せずにTEXをOTPに変換する.NETAPI
-url: /ja/net/conversion/tex-to-otp/
+url_ignore: /ja/net/conversion/tex-to-otp/
 family: total
 platformtag: net
 feature: conversion

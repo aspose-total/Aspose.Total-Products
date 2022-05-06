@@ -1,7 +1,7 @@
 ---
 title: Преобразование XSLFO в XLAM через C# API
 description: C# API для преобразования файла XSLFO в XLAM без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/xslfo-to-xlam/
+url_ignore: /ru/net/conversion/xslfo-to-xlam/
 family: total
 platformtag: net
 feature: conversion

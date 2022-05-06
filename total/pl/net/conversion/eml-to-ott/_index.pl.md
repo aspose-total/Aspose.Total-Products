@@ -1,7 +1,7 @@
 ---
 title: C# API do eksportu EML do OTT
 description: Konwertuj EML na OTT bez używania Microsoft Word lub Outlook na .NET
-url: /pl/net/conversion/eml-to-ott/
+url_ignore: /pl/net/conversion/eml-to-ott/
 family: total
 platformtag: net
 feature: conversion

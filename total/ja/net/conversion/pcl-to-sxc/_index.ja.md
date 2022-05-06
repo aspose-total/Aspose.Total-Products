@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPCLをSXCに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPCLファイルをSXCに変換するC＃API
-url: /ja/net/conversion/pcl-to-sxc/
+url_ignore: /ja/net/conversion/pcl-to-sxc/
 family: total
 platformtag: net
 feature: conversion

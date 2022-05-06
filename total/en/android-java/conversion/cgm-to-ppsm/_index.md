@@ -1,7 +1,7 @@
 ---
 title: Export CGM to PPSM in Android 
 description: Android API to Convert CGM to PPSM without using Microsoft Word
-url: /android-java/conversion/cgm-to-ppsm/
+url_ignore: /android-java/conversion/cgm-to-ppsm/
 family: total
 platformtag: android-java
 feature: conversion

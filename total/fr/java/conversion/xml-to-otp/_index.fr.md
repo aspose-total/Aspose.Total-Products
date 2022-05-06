@@ -1,7 +1,7 @@
 ---
 title: Convertir XML en OTP via l'API Java
 description: API Java pour convertir XML en OTP sans utiliser Microsoft Word
-url: /fr/java/conversion/xml-to-otp/
+url_ignore: /fr/java/conversion/xml-to-otp/
 family: total
 platformtag: net
 feature: conversion
@@ -12,7 +12,7 @@ otherformats: PPSM POT OTP PPTM PPT POWERPOINT PPS POTX POTM PPSX SWF XAML
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="API Java pour exporter XML vers OTP" h2="Exportez XML vers OTP via l'API Java sur site sans utiliser Microsoft<sup>&reg;</sup> PowerPoint ou Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour Java](https://products.aspose.com/total/java/), vous pouvez facilement convertir XML en OTP dans n'importe quelle application Java J2SE, J2EE, J2ME. Tout d'abord, en utilisant [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), vous pouvez exporter XML vers PPTX. Après cela, en utilisant l'API de traitement PowerPoint [Aspose.Slides for Java](https://products.aspose.com/slides/java/), vous pouvez convertir PPTX en OTP.
+En utilisant [Aspose.Total for Java](https://products.aspose.com/total/java/), vous pouvez facilement convertir XML en OTP dans n'importe quelle application Java J2SE, J2EE, J2ME. Tout d'abord, en utilisant [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), vous pouvez exporter XML vers PPTX. Après cela, en utilisant l'API de traitement PowerPoint [Aspose.Slides for Java](https://products.aspose.com/slides/java/), vous pouvez convertir PPTX en OTP.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API Java pour convertir XML en OTP" %}}
@@ -22,7 +22,7 @@ En utilisant [Aspose.Total pour Java](https://products.aspose.com/total/java/), 
 4. Enregistrez le document au format OTP à l'aide de la méthode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) et définissez `OTP` comme format de sauvegarde
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
-Vous pouvez facilement utiliser Aspose.Total pour Java directement à partir d'un projet basé sur [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et inclure [Aspose.PDF pour Java](https://docs.aspose.com/pdf/java/installation/) et [Aspose.Slides pour Java](https://docs.aspose.com/slides/java/ installation/) dans votre pom.xml.
+Vous pouvez facilement utiliser Aspose.Total pour Java directement à partir d'un projet basé sur [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et inclure [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) et [Aspose.Slides for Java](https://docs.aspose.com/slides/java/ installation/) dans votre pom.xml.
 
 Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

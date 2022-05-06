@@ -1,7 +1,7 @@
 ---
 title: Convert POTX to MARKDOWN via C++ 
 description: Export POTX to MARKDOWN in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/potx-to-markdown/
+url_ignore: /cpp/conversion/potx-to-markdown/
 family: total
 platformtag: cpp
 feature: conversion

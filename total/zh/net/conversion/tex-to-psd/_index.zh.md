@@ -1,7 +1,7 @@
 ---
 title: 通过 C# API 将 TEX 转换为 PSD
 description: 在您的 .NET 应用程序中将 TEX 导出为 PSD，而无需使用任何第三方应用程序
-url: /zh/net/conversion/tex-to-psd/
+url_ignore: /zh/net/conversion/tex-to-psd/
 family: total
 platformtag: net
 feature: conversion

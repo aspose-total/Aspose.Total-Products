@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPSをTXTに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPSファイルをTXTに変換するC＃API
-url: /ja/net/conversion/ps-to-txt/
+url_ignore: /ja/net/conversion/ps-to-txt/
 family: total
 platformtag: net
 feature: conversion

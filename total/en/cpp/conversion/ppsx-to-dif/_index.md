@@ -1,7 +1,7 @@
 ---
 title: Convert PPSX to DIF via C++ 
 description: Export PPSX to DIF in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/ppsx-to-dif/
+url_ignore: /cpp/conversion/ppsx-to-dif/
 family: total
 platformtag: cpp
 feature: conversion

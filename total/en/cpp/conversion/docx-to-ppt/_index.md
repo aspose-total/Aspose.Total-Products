@@ -1,7 +1,7 @@
 ---
 title: Convert DOCX to PPT via C++
 description: Export DOCX to PPT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/docx-to-ppt/
+url_ignore: /cpp/conversion/docx-to-ppt/
 family: total
 platformtag: cpp
 feature: conversion

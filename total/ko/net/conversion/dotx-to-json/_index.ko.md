@@ -1,7 +1,7 @@
 ---
 title: .NET을 통해 DOTX를 JSON 형식으로 변환
 description: Microsoft Excel 또는 Adobe Reader를 사용하지 않고 C#에서 DOTX를 JSON으로 변환
-url: /ko/net/conversion/dotx-to-json/
+url_ignore: /ko/net/conversion/dotx-to-json/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ otherformats: XLT EXCEL ODS XLTM TSV XLAM SXC DIF XLS XLSB XLTX XLSX CSV FODS
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C#을 통해 DOTX를 JSON 형식으로 변환" %}}
-1. [Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument) 클래스를 사용하여 DOTX 파일을 엽니다.
-2. [저장](https://apireference.aspose.com/words/net/aspose.words.dotxument/save/methods/4) 메서드를 사용하여 DOTX를 HTML로 변환
+1. [Document](https://apireference.aspose.com/words/net/aspose.words/Document) 클래스를 사용하여 DOTX 파일을 엽니다.
+2. [저장](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4) 메서드를 사용하여 DOTX를 HTML로 변환
 3. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) 클래스를 사용하여 HTML 문서 로드
 4. [저장](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 메서드를 사용하여 문서를 JSON 형식으로 저장합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}

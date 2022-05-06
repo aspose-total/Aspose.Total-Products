@@ -1,7 +1,7 @@
 ---
 title: Convert XLT to DOC with .NET 
 description: Convert XLT to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms
-url: /net/conversion/xlt-to-doc/
+url_ignore: /net/conversion/xlt-to-doc/
 family: total
 platformtag: net
 feature: conversion

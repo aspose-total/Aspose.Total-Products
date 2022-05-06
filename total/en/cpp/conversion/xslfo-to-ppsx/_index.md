@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XSLFO to PPSX  
 description: Convert XSLFO to PPSX via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xslfo-to-ppsx/
+url_ignore: /cpp/conversion/xslfo-to-ppsx/
 family: total
 platformtag: cpp
 feature: conversion

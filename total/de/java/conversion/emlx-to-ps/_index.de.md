@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie E-MAIL über Java nach PS
 description: Java-API zum Konvertieren von E-MAIL in PS, ohne Microsoft Word oder Outlook zu verwenden
-url: /de/java/conversion/emlx-to-ps/
+url_ignore: /de/java/conversion/emlx-to-ps/
 family: total
 platformtag: net
 feature: conversion

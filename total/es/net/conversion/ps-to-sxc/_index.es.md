@@ -1,7 +1,7 @@
 ---
 title: Convierta PS a SXC a través de la API de C#
 description: API C# para convertir archivos PS a SXC sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/ps-to-sxc/
+url_ignore: /es/net/conversion/ps-to-sxc/
 family: total
 platformtag: net
 feature: conversion

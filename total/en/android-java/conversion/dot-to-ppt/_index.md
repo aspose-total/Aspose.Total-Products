@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to PPT in Android via Java
 description: DOT to PPT conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/dot-to-ppt/
+url_ignore: /android-java/conversion/dot-to-ppt/
 family: total
 platformtag: android-java
 feature: conversion

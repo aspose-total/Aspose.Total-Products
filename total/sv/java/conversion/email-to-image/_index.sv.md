@@ -1,7 +1,7 @@
 ---
 title: Exportera EMAIL till IMAGE via Java
 description: Java API för att konvertera EMAIL till IMAGE utan att använda Microsoft Word eller Outlook
-url: /sv/java/conversion/email-to-image/
+url_ignore: /sv/java/conversion/email-to-image/
 family: total
 platformtag: net
 feature: conversion

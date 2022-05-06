@@ -1,7 +1,7 @@
 ---
 title: Convert ODT to POT in Android via Java
 description: ODT to POT conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/odt-to-pot/
+url_ignore: /android-java/conversion/odt-to-pot/
 family: total
 platformtag: android-java
 feature: conversion

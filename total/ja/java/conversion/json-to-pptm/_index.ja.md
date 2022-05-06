@@ -1,7 +1,7 @@
 ---
 title: Javaを介してJSON形式をPPTMに変換する
 description: Microsoft PowerPointを使用せずに、JavaでJSONをPPTMに解析します
-url: /ja/java/conversion/json-to-pptm/
+url_ignore: /ja/java/conversion/json-to-pptm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование XLS в PPTX с помощью .NET 
 description: Преобразование XLS в PPTX на платформах .NET Framework, .NET Core, Mono или Xamarin.
-url: /ru/net/conversion/xls-to-pptx/
+url_ignore: /ru/net/conversion/xls-to-pptx/
 family: total
 platformtag: net
 feature: conversion

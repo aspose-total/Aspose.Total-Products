@@ -1,7 +1,7 @@
 ---
 title: CGM'yi XAMLFLOW'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak CGM'yi XAMLFLOW'ye dönüştürün
-url: /tr/java/conversion/cgm-to-xamlflow/
+url_ignore: /tr/java/conversion/cgm-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

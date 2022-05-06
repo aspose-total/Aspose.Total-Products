@@ -1,7 +1,7 @@
 ---
 title: Преобразование формата JSON в JPEG2000 через .NET
 description: Разбирать JSON в JPEG2000 на C# без использования сторонних зависимостей
-url: /ru/net/conversion/json-to-jpeg2000/
+url_ignore: /ru/net/conversion/json-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

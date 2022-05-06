@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PDF to FLATOPC
 description: Convert PDF to FLATOPC within C++ applications.
-url: /cpp/conversion/pdf-to-flatopc/
+url_ignore: /cpp/conversion/pdf-to-flatopc/
 family: total
 platformtag: cpp
 feature: conversion

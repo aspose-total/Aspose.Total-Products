@@ -1,7 +1,7 @@
 ---
 title: Java API pro export PCL do ODT
 description: Převeďte PCL na ODT pomocí on premise Java API
-url: /cs/java/conversion/pcl-to-odt/
+url_ignore: /cs/java/conversion/pcl-to-odt/
 family: total
 platformtag: net
 feature: conversion

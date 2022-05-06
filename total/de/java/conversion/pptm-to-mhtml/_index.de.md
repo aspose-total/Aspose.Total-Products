@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie PPTM über Java in das MHTML-Format
 description: Konvertieren Sie PPTM über Java in das MHTML-Format, ohne Microsoft Excel oder PowerPoint zu verwenden
-url: /de/java/conversion/pptm-to-mhtml/
+url_ignore: /de/java/conversion/pptm-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

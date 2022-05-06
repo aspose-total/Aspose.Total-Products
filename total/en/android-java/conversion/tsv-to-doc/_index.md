@@ -1,7 +1,7 @@
 ---
 title: Export TSV to DOC in Android 
 description: Android API to Convert TSV to DOC without using Microsoft Word
-url: /android-java/conversion/tsv-to-doc/
+url_ignore: /android-java/conversion/tsv-to-doc/
 family: total
 platformtag: android-java
 feature: conversion

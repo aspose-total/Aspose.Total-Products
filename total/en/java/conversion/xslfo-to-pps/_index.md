@@ -1,7 +1,7 @@
 ---
 title: Convert XSLFO to PPS via Java API
 description: Java API to Convert XSLFO to PPS without using Microsoft Word
-url: /java/conversion/xslfo-to-pps/
+url_ignore: /java/conversion/xslfo-to-pps/
 family: total
 platformtag: java
 feature: conversion

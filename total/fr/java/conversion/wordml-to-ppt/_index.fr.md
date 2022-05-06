@@ -1,7 +1,7 @@
 ---
 title: Convertir WORDML en PPT via Java
 description: API Java pour exporter WORDML vers PPT sans utiliser Microsoft Word ou PowerPoint
-url: /fr/java/conversion/wordml-to-ppt/
+url_ignore: /fr/java/conversion/wordml-to-ppt/
 family: total
 platformtag: net
 feature: conversion
@@ -12,7 +12,7 @@ otherformats: POWERPOINT PPTM POT PPT POTX PPTX PPSM POTM PPSX PPS CSV DIF FODS 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Convertir WORDML en PPT via Java" h2="Conversion WORDML en PPT en utilisant l'API Java sur site dans toutes les applications Java J2SE, J2EE, J2ME sans utiliser Microsoft<sup>&reg;</sup> PowerPoint ou Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Souvent, les développeurs doivent convertir le fichier WORDML en PPT par programme. En utilisant les bibliothèques Java File Automation [Aspose.Total pour Java](https://products.aspose.com/total/java/), vous pouvez automatiser le processus de rendu en quelques étapes simples. Vous pouvez charger votre fichier WORDML en utilisant [Aspose.Words pour Java](https://products.aspose.com/words/java/) et le convertir en HTML. Après cela, en utilisant la puissante API Java de manipulation PowerPoint [Aspose.Slides pour Java](https://products.aspose.com/slides/java/), vous pouvez créer une nouvelle présentation, y écrire du contenu HTML et l'enregistrer au format PPT. .
+Souvent, les développeurs doivent convertir le fichier WORDML en PPT par programme. En utilisant les bibliothèques Java File Automation [Aspose.Total for Java](https://products.aspose.com/total/java/), vous pouvez automatiser le processus de rendu en quelques étapes simples. Vous pouvez charger votre fichier WORDML en utilisant [Aspose.Words for Java](https://products.aspose.com/words/java/) et le convertir en HTML. Après cela, en utilisant la puissante API Java de manipulation PowerPoint [Aspose.Slides for Java](https://products.aspose.com/slides/java/), vous pouvez créer une nouvelle présentation, y écrire du contenu HTML et l'enregistrer au format PPT. .
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Comment convertir WORDML en PPT via Java" %}}

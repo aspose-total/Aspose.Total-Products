@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してSVGをPPTMに変換する
 description: MicrosoftWordを使用せずにSVGをPPTMに変換するJavaAPI
-url: /ja/java/conversion/svg-to-pptm/
+url_ignore: /ja/java/conversion/svg-to-pptm/
 family: total
 platformtag: net
 feature: conversion

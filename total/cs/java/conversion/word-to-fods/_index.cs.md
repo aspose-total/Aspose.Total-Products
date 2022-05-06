@@ -1,7 +1,7 @@
 ---
 title: Java API pro převod WORD do FODS
 description: Převeďte WORD na FODS přes Java bez použití Microsoft Word nebo Microsoft Excel
-url: /cs/java/conversion/word-to-fods/
+url_ignore: /cs/java/conversion/word-to-fods/
 family: total
 platformtag: net
 feature: conversion

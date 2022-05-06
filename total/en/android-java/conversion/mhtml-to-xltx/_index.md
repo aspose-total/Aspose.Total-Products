@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to XLTX in Android via Java
 description: Render MHTML to XLTX in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/mhtml-to-xltx/
+url_ignore: /android-java/conversion/mhtml-to-xltx/
 family: total
 platformtag: android-java
 feature: conversion

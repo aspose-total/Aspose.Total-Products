@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to POT via C++
 description: Export DOT to POT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/dot-to-pot/
+url_ignore: /cpp/conversion/dot-to-pot/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تحويل PDF إلى DICOM عبر C# API
 description: قم بتصدير PDF إلى DICOM في تطبيقات .NET دون استخدام أي تطبيق تابع لجهة خارجية
-url: /ar/net/conversion/pdf-to-dicom/
+url_ignore: /ar/net/conversion/pdf-to-dicom/
 family: total
 platformtag: net
 feature: conversion

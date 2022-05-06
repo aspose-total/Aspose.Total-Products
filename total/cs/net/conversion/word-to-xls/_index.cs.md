@@ -1,7 +1,7 @@
 ---
 title: .NET API pro převod WORD do XLS
 description: C# API pro převod WORD do XLS bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/word-to-xls/
+url_ignore: /cs/net/conversion/word-to-xls/
 family: total
 platformtag: net
 feature: conversion

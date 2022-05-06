@@ -1,7 +1,7 @@
 ---
 title: Konversi Format DOT ke JSON melalui Java
 description: Konversi format DOT ke JSON melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel
-url: /id/java/conversion/dot-to-json/
+url_ignore: /id/java/conversion/dot-to-json/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení PDF do XLSM
 description: Export PDF do XLSM přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/pdf-to-xlsm/
+url_ignore: /cs/java/conversion/pdf-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

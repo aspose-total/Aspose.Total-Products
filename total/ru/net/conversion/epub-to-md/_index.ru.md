@@ -1,7 +1,7 @@
 ---
 title: Преобразование EPUB в MD через C# API
 description: C# API для преобразования файла EPUB в MD без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/epub-to-md/
+url_ignore: /ru/net/conversion/epub-to-md/
 family: total
 platformtag: net
 feature: conversion

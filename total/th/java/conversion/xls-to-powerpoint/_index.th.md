@@ -1,7 +1,7 @@
 ---
 title: แปลง XLS เป็น POWERPOINT โดยใช้ Java
 description: Java API เพื่อส่งออก XLS เป็น POWERPOINT โดยใช้ Excel หรือ Word
-url: /th/java/conversion/xls-to-powerpoint/
+url_ignore: /th/java/conversion/xls-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

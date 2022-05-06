@@ -1,7 +1,7 @@
 ---
 title: Převeďte MHTML na OTP přes Java API
 description: Java API pro převod MHTML na OTP bez použití aplikace Microsoft Word
-url: /cs/java/conversion/mhtml-to-otp/
+url_ignore: /cs/java/conversion/mhtml-to-otp/
 family: total
 platformtag: net
 feature: conversion

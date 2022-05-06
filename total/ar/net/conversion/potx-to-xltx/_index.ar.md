@@ -1,7 +1,7 @@
 ---
 title: تحويل POTX إلى XLTX عبر C#
 description: قم بتحويل POTX إلى XLTX في C# بدون استخدام Microsoft Excel أو Powerpoint
-url: /ar/net/conversion/potx-to-xltx/
+url_ignore: /ar/net/conversion/potx-to-xltx/
 family: total
 platformtag: net
 feature: conversion

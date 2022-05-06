@@ -1,7 +1,7 @@
 ---
 title: Convierta CGM a TSV a través de la API de C#
 description: API C# para convertir archivos CGM a TSV sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/cgm-to-tsv/
+url_ignore: /es/net/conversion/cgm-to-tsv/
 family: total
 platformtag: net
 feature: conversion

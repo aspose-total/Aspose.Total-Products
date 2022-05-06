@@ -1,7 +1,7 @@
 ---
 title: Export MHTML to PPSM in Android 
 description: Android API to Convert MHTML to PPSM without using Microsoft Word
-url: /android-java/conversion/mhtml-to-ppsm/
+url_ignore: /android-java/conversion/mhtml-to-ppsm/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή XSLFO σε PPTM μέσω Java API
 description: Java API για μετατροπή XSLFO σε PPTM χωρίς χρήση του Microsoft Word
-url: /el/java/conversion/xslfo-to-pptm/
+url_ignore: /el/java/conversion/xslfo-to-pptm/
 family: total
 platformtag: net
 feature: conversion

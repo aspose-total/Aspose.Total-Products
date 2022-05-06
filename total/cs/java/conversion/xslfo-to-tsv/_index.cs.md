@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení XSLFO do TSV
 description: Export XSLFO do TSV přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/xslfo-to-tsv/
+url_ignore: /cs/java/conversion/xslfo-to-tsv/
 family: total
 platformtag: net
 feature: conversion

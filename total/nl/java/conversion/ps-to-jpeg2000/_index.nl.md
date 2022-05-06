@@ -1,7 +1,7 @@
 ---
 title: Converteer PS naar JPEG2000 via Java
 description: Exporteer PS-bestand naar JPEG2000 in uw Java-applicaties zonder een applicatie van derden te gebruiken
-url: /nl/java/conversion/ps-to-jpeg2000/
+url_ignore: /nl/java/conversion/ps-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

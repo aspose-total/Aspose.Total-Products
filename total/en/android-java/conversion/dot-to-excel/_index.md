@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOT to EXCEL
 description: Convert DOT to EXCEL in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/dot-to-excel/
+url_ignore: /android-java/conversion/dot-to-excel/
 family: total
 platformtag: android-java
 feature: conversion

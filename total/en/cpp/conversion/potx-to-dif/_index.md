@@ -1,7 +1,7 @@
 ---
 title: Convert POTX to DIF via C++ 
 description: Export POTX to DIF in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/potx-to-dif/
+url_ignore: /cpp/conversion/potx-to-dif/
 family: total
 platformtag: cpp
 feature: conversion

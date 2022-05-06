@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してCGMをTXTに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにCGMファイルをTXTに変換するC＃API
-url: /ja/net/conversion/cgm-to-txt/
+url_ignore: /ja/net/conversion/cgm-to-txt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование SVG в ODP через Java API
 description: Java API для преобразования SVG в ODP без использования Microsoft Word
-url: /ru/java/conversion/svg-to-odp/
+url_ignore: /ru/java/conversion/svg-to-odp/
 family: total
 platformtag: net
 feature: conversion

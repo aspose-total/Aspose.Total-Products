@@ -1,7 +1,7 @@
 ---
 title: Convert DOTX to XLT in C++
 description: C++ API to Convert DOTX to XLT without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/dotx-to-xlt/
+url_ignore: /cpp/conversion/dotx-to-xlt/
 family: total
 platformtag: cpp
 feature: conversion

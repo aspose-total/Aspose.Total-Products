@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to PPS via C++
 description: Export WORD to PPS in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/word-to-pps/
+url_ignore: /cpp/conversion/word-to-pps/
 family: total
 platformtag: cpp
 feature: conversion

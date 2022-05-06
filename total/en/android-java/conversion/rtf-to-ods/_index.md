@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert RTF to ODS
 description: Convert RTF to ODS in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/rtf-to-ods/
+url_ignore: /android-java/conversion/rtf-to-ods/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Rendern von XPS in DIF
 description: Exportieren Sie XPS über die Java-API in DIF, ohne Microsoft Excel oder Adobe Reader zu verwenden
-url: /de/java/conversion/xps-to-dif/
+url_ignore: /de/java/conversion/xps-to-dif/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení XPS do XLT
 description: Export XPS do XLT přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/xps-to-xlt/
+url_ignore: /cs/java/conversion/xps-to-xlt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование POTM в формат XLS через Java
 description: Преобразуйте формат POTM в XLS через Java без использования Microsoft Excel или PowerPoint.
-url: /ru/java/conversion/potm-to-xls/
+url_ignore: /ru/java/conversion/potm-to-xls/
 family: total
 platformtag: net
 feature: conversion

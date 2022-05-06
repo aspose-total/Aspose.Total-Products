@@ -1,7 +1,7 @@
 ---
 title: Converter PPSX para ODS via C#
 description: Converter PPSX para ODS em C# sem usar o Microsoft Excel ou Powerpoint
-url: /pt/net/conversion/ppsx-to-ods/
+url_ignore: /pt/net/conversion/ppsx-to-ods/
 family: total
 platformtag: net
 feature: conversion

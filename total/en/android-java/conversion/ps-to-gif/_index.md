@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PS to GIF
 description: Transform PS to GIF via Android via Java API
-url: /android-java/conversion/ps-to-gif/
+url_ignore: /android-java/conversion/ps-to-gif/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: .NET API för att konvertera OTT till ODS
 description: C# API för att konvertera OTT till ODS utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/net/conversion/ott-to-ods/
+url_ignore: /sv/net/conversion/ott-to-ods/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Lägg till anpassade egenskaper i ODS-fil via C#" %}}
 När du konverterar OTT till ODS gör [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) det möjligt för dig att lägga till anpassade egenskaper i dina ODS-dokument. För att lägga till en anpassad egenskap kan du använda metoden [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) för [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) klass. Add-metoden lägger till egenskapen i Excel-filen och returnerar en referens för den nya dokumentegenskapen som en [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /documentproperty) objekt. 
 {{% blocks/products/pf/feature-page-code %}}

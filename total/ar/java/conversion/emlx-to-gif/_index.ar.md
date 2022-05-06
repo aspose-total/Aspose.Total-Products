@@ -1,7 +1,7 @@
 ---
 title: قم بتصدير EMLX إلى GIF عبر Java
 description: Java API لتحويل البريد الإلكتروني إلى GIF دون استخدام Microsoft Word أو Outlook
-url: /ar/java/conversion/emlx-to-gif/
+url_ignore: /ar/java/conversion/emlx-to-gif/
 family: total
 platformtag: net
 feature: conversion

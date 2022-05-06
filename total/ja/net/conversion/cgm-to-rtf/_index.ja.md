@@ -1,7 +1,7 @@
 ---
 title: CGMをRTFにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにCGMをRTFに変換する
-url: /ja/net/conversion/cgm-to-rtf/
+url_ignore: /ja/net/conversion/cgm-to-rtf/
 family: total
 platformtag: net
 feature: conversion

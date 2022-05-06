@@ -1,7 +1,7 @@
 ---
 title: Convertir le format JSON en DOC via .NET
 description: Analyser JSON en DOC en C# sans utiliser Microsoft Word
-url: /fr/net/conversion/json-to-doc/
+url_ignore: /fr/net/conversion/json-to-doc/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: DOCM RTF EPUB PCL WORD DOT DOC MOBI PS DOTX ODT WORDML FLATOPC OTT
 {{< blocks/products/pf/i18n/feature-page-header h1="Convertir le format JSON en DOC via C#" h2="API C# pour analyser JSON vers DOC sans utiliser Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), vous pouvez analyser JSON en DOC dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. pas. Tout d'abord, en utilisant [Aspose.Cells pour .NET](https://products.aspose.com/cells/net/), vous pouvez exporter JSON au format PDF. Après cela, en utilisant [Aspose.Words pour .NET](https://products.aspose.com/words/net/), vous pouvez convertir un PDF en DOC.
+En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez analyser JSON en DOC dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. pas. Tout d'abord, en utilisant [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), vous pouvez exporter JSON au format PDF. Après cela, en utilisant [Aspose.Words for .NET](https://products.aspose.com/words/net/), vous pouvez convertir un PDF en DOC.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

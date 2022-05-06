@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export XPS to RTF
 description: Convert XPS to RTF within C++ applications.
-url: /cpp/conversion/xps-to-rtf/
+url_ignore: /cpp/conversion/xps-to-rtf/
 family: total
 platformtag: cpp
 feature: conversion

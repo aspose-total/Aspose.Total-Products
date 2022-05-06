@@ -1,7 +1,7 @@
 ---
 title: Convert PPT to XLSB in Android via Java
 description: Convert PPT to XLSB in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/ppt-to-xlsb/
+url_ignore: /android-java/conversion/ppt-to-xlsb/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java経由でEMLをRTFにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにEMLをRTFに変換するJavaAPI
-url: /ja/java/conversion/eml-to-rtf/
+url_ignore: /ja/java/conversion/eml-to-rtf/
 family: total
 platformtag: net
 feature: conversion

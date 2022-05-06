@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export SVG to DOTX
 description: Convert SVG to DOTX within C++ applications.
-url: /cpp/conversion/svg-to-dotx/
+url_ignore: /cpp/conversion/svg-to-dotx/
 family: total
 platformtag: cpp
 feature: conversion

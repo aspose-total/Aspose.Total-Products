@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMHTMLをPPSXにエクスポートする
 description: MicrosoftWordを使用せずにMHTMLをPPSXに変換する.NETAPI
-url: /ja/net/conversion/mhtml-to-ppsx/
+url_ignore: /ja/net/conversion/mhtml-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

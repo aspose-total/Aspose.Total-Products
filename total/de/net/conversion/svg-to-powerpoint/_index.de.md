@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie SVG über die C#-API nach POWERPOINT
 description: .NET-API zum Konvertieren von SVG in POWERPOINT ohne Verwendung von Microsoft Word
-url: /de/net/conversion/svg-to-powerpoint/
+url_ignore: /de/net/conversion/svg-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

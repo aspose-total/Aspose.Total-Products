@@ -1,7 +1,7 @@
 ---
 title: PDF'yi C# API aracılığıyla POT'ye aktarın
 description: Microsoft Word kullanmadan PDF'yi POT'ye dönüştürmek için .NET API
-url: /tr/net/conversion/pdf-to-pot/
+url_ignore: /tr/net/conversion/pdf-to-pot/
 family: total
 platformtag: net
 feature: conversion

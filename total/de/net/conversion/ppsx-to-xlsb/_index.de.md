@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie PPSX über C# in XLSB
 description: Konvertieren Sie PPSX in C# in XLSB, ohne Microsoft Excel oder Powerpoint zu verwenden
-url: /de/net/conversion/ppsx-to-xlsb/
+url_ignore: /de/net/conversion/ppsx-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

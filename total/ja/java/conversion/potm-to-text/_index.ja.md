@@ -1,7 +1,7 @@
 ---
 title: Java経由でPOTMをTEXTに変換する
 description: MicrosoftWordやPowerPointを使用せずにPOTMをTEXTにエクスポートするJavaAPI
-url: /ja/java/conversion/potm-to-text/
+url_ignore: /ja/java/conversion/potm-to-text/
 family: total
 platformtag: net
 feature: conversion

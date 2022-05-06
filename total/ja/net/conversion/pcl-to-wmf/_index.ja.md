@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPCLをWMFに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでPCLをWMFにエクスポートします
-url: /ja/net/conversion/pcl-to-wmf/
+url_ignore: /ja/net/conversion/pcl-to-wmf/
 family: total
 platformtag: net
 feature: conversion

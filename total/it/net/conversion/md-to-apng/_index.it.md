@@ -1,7 +1,7 @@
 ---
 title: Converti MD in APNG tramite API C#
 description: Esporta MD in APNG nelle tue applicazioni .NET senza utilizzare applicazioni di terze parti
-url: /it/net/conversion/md-to-apng/
+url_ignore: /it/net/conversion/md-to-apng/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API för att rendera MHTML till TSV
 description: Exportera MHTML till TSV via Java API utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/java/conversion/mhtml-to-tsv/
+url_ignore: /sv/java/conversion/mhtml-to-tsv/
 family: total
 platformtag: net
 feature: conversion

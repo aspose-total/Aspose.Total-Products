@@ -1,7 +1,7 @@
 ---
 title: Convert POT to CSV via C++ 
 description: Export POT to CSV in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pot-to-csv/
+url_ignore: /cpp/conversion/pot-to-csv/
 family: total
 platformtag: cpp
 feature: conversion

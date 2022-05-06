@@ -1,7 +1,7 @@
 ---
 title: API de Java para renderizar XML a ODS
 description: Exporte XML a ODS a través de la API de Java sin usar Microsoft Excel o Adobe Reader
-url: /es/java/conversion/xml-to-ods/
+url_ignore: /es/java/conversion/xml-to-ods/
 family: total
 platformtag: net
 feature: conversion

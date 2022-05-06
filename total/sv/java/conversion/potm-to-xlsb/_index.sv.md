@@ -1,7 +1,7 @@
 ---
 title: Konvertera POTM till XLSB-format via Java
 description: Konvertera POTM till XLSB-format via Java utan att använda Microsoft Excel eller PowerPoint
-url: /sv/java/conversion/potm-to-xlsb/
+url_ignore: /sv/java/conversion/potm-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

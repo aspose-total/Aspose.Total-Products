@@ -1,6 +1,6 @@
 ---
 title: Преобразование RTF в POTX через C# .NET 
-url: /ru/net/conversion/rtf-to-potx/ 
+url_ignore: /ru/net/conversion/rtf-to-potx/ 
 description: Преобразование документов Word rtf в файлы PowerPoint potx с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

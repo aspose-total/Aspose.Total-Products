@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOTX to XLT
 description: Convert DOTX to XLT in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/dotx-to-xlt/
+url_ignore: /android-java/conversion/dotx-to-xlt/
 family: total
 platformtag: android-java
 feature: conversion

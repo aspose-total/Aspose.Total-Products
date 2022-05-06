@@ -1,7 +1,7 @@
 ---
 title: Java API เพื่อส่งออก PCL ไปยัง OTT
 description: แปลง PCL เป็น OTT โดยใช้ Java API . ในตัว
-url: /th/java/conversion/pcl-to-ott/
+url_ignore: /th/java/conversion/pcl-to-ott/
 family: total
 platformtag: net
 feature: conversion

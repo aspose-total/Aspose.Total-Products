@@ -1,7 +1,7 @@
 ---
 title: Konvertera XPS till PSD via C# API
 description: Exportera XPS till PSD i dina .NET-applikationer utan att använda någon tredjepartsapplikation
-url: /sv/net/conversion/xps-to-psd/
+url_ignore: /sv/net/conversion/xps-to-psd/
 family: total
 platformtag: net
 feature: conversion

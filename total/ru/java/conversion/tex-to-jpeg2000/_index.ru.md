@@ -1,7 +1,7 @@
 ---
 title: Преобразование TEX в JPEG2000 через Java
 description: Экспорт файла TEX в JPEG2000 в ваших приложениях Java без использования каких-либо сторонних приложений.
-url: /ru/java/conversion/tex-to-jpeg2000/
+url_ignore: /ru/java/conversion/tex-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

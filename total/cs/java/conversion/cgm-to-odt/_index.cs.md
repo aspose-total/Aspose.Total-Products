@@ -1,7 +1,7 @@
 ---
 title: Java API pro export CGM do ODT
 description: Převeďte CGM na ODT pomocí on premise Java API
-url: /cs/java/conversion/cgm-to-odt/
+url_ignore: /cs/java/conversion/cgm-to-odt/
 family: total
 platformtag: net
 feature: conversion

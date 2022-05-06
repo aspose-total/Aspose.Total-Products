@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı BMP'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan MSG'i BMP'ye dönüştürün
-url: /tr/net/conversion/msg-to-bmp/
+url_ignore: /tr/net/conversion/msg-to-bmp/
 family: total
 platformtag: net
 feature: conversion

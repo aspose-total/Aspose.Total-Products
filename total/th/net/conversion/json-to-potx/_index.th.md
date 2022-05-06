@@ -1,7 +1,7 @@
 ---
 title: แปลงรูปแบบ JSON เป็น POTX ผ่าน .NET
 description: แยก JSON เป็น POTX ใน C# โดยไม่ต้องใช้ Microsoft PowerPoint
-url: /th/net/conversion/json-to-potx/
+url_ignore: /th/net/conversion/json-to-potx/
 family: total
 platformtag: net
 feature: conversion

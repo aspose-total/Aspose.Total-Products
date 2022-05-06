@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPPTMをEXCELに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPTMをEXCELに変換する
-url: /ja/net/conversion/pptm-to-excel/
+url_ignore: /ja/net/conversion/pptm-to-excel/
 family: total
 platformtag: net
 feature: conversion

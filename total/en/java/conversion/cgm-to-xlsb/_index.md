@@ -1,7 +1,7 @@
 ---
 title: Java API to Render CGM to XLSB
 description: Export CGM to XLSB via Java API without using Microsoft Excel or Adobe Reader
-url: /java/conversion/cgm-to-xlsb/
+url_ignore: /java/conversion/cgm-to-xlsb/
 family: total
 platformtag: java
 feature: conversion

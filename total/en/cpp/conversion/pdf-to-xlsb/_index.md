@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PDF to XLSB
 description: Convert PDF to XLSB via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/pdf-to-xlsb/
+url_ignore: /cpp/conversion/pdf-to-xlsb/
 family: total
 platformtag: cpp
 feature: conversion

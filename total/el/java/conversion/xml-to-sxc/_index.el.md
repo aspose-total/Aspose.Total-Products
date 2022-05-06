@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση XML σε SXC
 description: Εξαγωγή XML σε SXC μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/xml-to-sxc/
+url_ignore: /el/java/conversion/xml-to-sxc/
 family: total
 platformtag: net
 feature: conversion

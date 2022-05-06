@@ -1,7 +1,7 @@
 ---
 title: DOTMをTSVに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにDOTMをTSVに変換するC＃API
-url: /ja/net/conversion/dotm-to-tsv/
+url_ignore: /ja/net/conversion/dotm-to-tsv/
 family: total
 platformtag: net
 feature: conversion

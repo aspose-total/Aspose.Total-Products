@@ -1,7 +1,7 @@
 ---
 title: .NET API เพื่อแปลง WORDML เป็น XLS
 description: C# API เพื่อแปลง WORDML เป็น XLS โดยไม่ต้องใช้ Microsoft Excel หรือ Adobe Reader
-url: /th/net/conversion/wordml-to-xls/
+url_ignore: /th/net/conversion/wordml-to-xls/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ otherformats: XLAM TSV XLSX XLTM DIF XLSM XLS XLTX XLT FODS ODS SXC EXCEL XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="เพิ่มคุณสมบัติที่กำหนดเองในไฟล์ XLS ผ่าน C#" %}}
 ขณะแปลง WORDML เป็น XLS [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) ช่วยให้คุณเพิ่มคุณสมบัติที่กำหนดเองในเอกสาร XLS ได้ ในการเพิ่มคุณสมบัติที่กำหนดเอง คุณสามารถใช้ [เพิ่ม](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index)เมธอดสำหรับ [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) คลาส วิธีการเพิ่มจะเพิ่มคุณสมบัติลงในไฟล์ Excel และส่งคืนข้อมูลอ้างอิงสำหรับคุณสมบัติเอกสารใหม่เป็น [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /documentproperty) วัตถุ 
 {{% blocks/products/pf/feature-page-code %}}

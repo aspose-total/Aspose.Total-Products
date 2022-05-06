@@ -1,7 +1,7 @@
 ---
 title: Převeďte POTX na DOCM přes Java
 description: Java API pro export POTX do DOCM bez použití Microsoft Word nebo PowerPoint
-url: /cs/java/conversion/potx-to-docm/
+url_ignore: /cs/java/conversion/potx-to-docm/
 family: total
 platformtag: net
 feature: conversion

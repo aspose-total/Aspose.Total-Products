@@ -1,7 +1,7 @@
 ---
 title: Convert PPSM to ODS Format via Java
 description: Convert PPSM to ODS format via Java without using using Microsoft Excel or PowerPoint
-url: /java/conversion/ppsm-to-ods/
+url_ignore: /java/conversion/ppsm-to-ods/
 family: total
 platformtag: java
 feature: conversion

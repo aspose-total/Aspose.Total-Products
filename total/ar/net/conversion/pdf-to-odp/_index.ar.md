@@ -1,7 +1,7 @@
 ---
 title: تصدير PDF إلى ODP عبر C# API
 description: NET API لتحويل PDF إلى ODP دون استخدام Microsoft Word
-url: /ar/net/conversion/pdf-to-odp/
+url_ignore: /ar/net/conversion/pdf-to-odp/
 family: total
 platformtag: net
 feature: conversion

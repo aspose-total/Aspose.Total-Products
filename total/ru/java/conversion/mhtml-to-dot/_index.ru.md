@@ -1,7 +1,7 @@
 ---
 title: Java API для экспорта MHTML в DOT
 description: Преобразование MHTML в DOT с использованием локального Java API
-url: /ru/java/conversion/mhtml-to-dot/
+url_ignore: /ru/java/conversion/mhtml-to-dot/
 family: total
 platformtag: net
 feature: conversion

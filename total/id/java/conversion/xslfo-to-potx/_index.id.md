@@ -1,7 +1,7 @@
 ---
 title: Konversi XSLFO ke POTX melalui Java API
 description: Java API untuk Mengonversi XSLFO ke POTX tanpa menggunakan Microsoft Word
-url: /id/java/conversion/xslfo-to-potx/
+url_ignore: /id/java/conversion/xslfo-to-potx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konwertuj XPS na JPEG2000 przez C# API
 description: Eksportuj XPS do JPEG2000 w swoich aplikacjach .NET bez korzystania z aplikacji innych firm
-url: /pl/net/conversion/xps-to-jpeg2000/
+url_ignore: /pl/net/conversion/xps-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

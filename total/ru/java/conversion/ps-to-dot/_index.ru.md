@@ -1,7 +1,7 @@
 ---
 title: Java API для экспорта PS в DOT
 description: Преобразование PS в DOT с использованием локального Java API
-url: /ru/java/conversion/ps-to-dot/
+url_ignore: /ru/java/conversion/ps-to-dot/
 family: total
 platformtag: net
 feature: conversion

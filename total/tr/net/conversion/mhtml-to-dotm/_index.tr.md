@@ -1,7 +1,7 @@
 ---
 title: MHTML'yi DOTM'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan MHTML'yi DOTM'ye dönüştürün
-url: /tr/net/conversion/mhtml-to-dotm/
+url_ignore: /tr/net/conversion/mhtml-to-dotm/
 family: total
 platformtag: net
 feature: conversion

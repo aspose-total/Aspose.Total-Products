@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير البريد الإلكتروني إلى SVG
 description: قم بتحويل EMLX إلى SVG دون استخدام Microsoft Word أو Outlook على .NET
-url: /ar/net/conversion/emlx-to-svg/
+url_ignore: /ar/net/conversion/emlx-to-svg/
 family: total
 platformtag: net
 feature: conversion

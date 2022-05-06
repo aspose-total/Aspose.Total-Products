@@ -1,7 +1,7 @@
 ---
 title: Exportar MSG a XPS a través de Java
 description: API de Java para convertir MSG a XPS sin usar Microsoft Word o Outlook
-url: /es/java/conversion/msg-to-xps/
+url_ignore: /es/java/conversion/msg-to-xps/
 family: total
 platformtag: net
 feature: conversion

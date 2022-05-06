@@ -1,7 +1,7 @@
 ---
 title: PCL'yi FLATOPC'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan PCL'yi FLATOPC'ye dönüştürün
-url: /tr/net/conversion/pcl-to-flatopc/
+url_ignore: /tr/net/conversion/pcl-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

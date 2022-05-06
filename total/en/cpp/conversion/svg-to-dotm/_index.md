@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export SVG to DOTM
 description: Convert SVG to DOTM within C++ applications.
-url: /cpp/conversion/svg-to-dotm/
+url_ignore: /cpp/conversion/svg-to-dotm/
 family: total
 platformtag: cpp
 feature: conversion

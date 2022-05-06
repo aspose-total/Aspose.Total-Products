@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export XPS to DOTM
 description: Convert XPS to DOTM within C++ applications.
-url: /cpp/conversion/xps-to-dotm/
+url_ignore: /cpp/conversion/xps-to-dotm/
 family: total
 platformtag: cpp
 feature: conversion

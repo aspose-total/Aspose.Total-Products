@@ -1,6 +1,6 @@
 ---
 title: Convert PPS to DOCM via C# .NET 
-url: /net/conversion/pps-to-docm/ 
+url_ignore: /net/conversion/pps-to-docm/ 
 description: Convert PowerPoint pps documents to Word docm files with C#. Convert multiple files within ASP.NET or other .NET applications.
 ---
 

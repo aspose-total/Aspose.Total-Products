@@ -1,7 +1,7 @@
 ---
 title: Convert POT to XLS via C++ 
 description: Export POT to XLS in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pot-to-xls/
+url_ignore: /cpp/conversion/pot-to-xls/
 family: total
 platformtag: cpp
 feature: conversion

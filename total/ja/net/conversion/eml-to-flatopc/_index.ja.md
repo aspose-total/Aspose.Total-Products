@@ -1,7 +1,7 @@
 ---
 title: EMLをFLATOPCにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMLをFLATOPCに変換する
-url: /ja/net/conversion/eml-to-flatopc/
+url_ignore: /ja/net/conversion/eml-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

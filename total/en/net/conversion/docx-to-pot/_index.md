@@ -1,6 +1,6 @@
 ---
 title: Convert DOCX to POT via C# .NET 
-url: /net/conversion/docx-to-pot/ 
+url_ignore: /net/conversion/docx-to-pot/ 
 description: Convert Word docx documents to PowerPoint pot files with C#. Convert multiple files within ASP.NET or other .NET applications.
 ---
 

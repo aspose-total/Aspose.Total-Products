@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to DOCM in Android via Java 
 description: Parse JSON to DOCM in Java without using Microsoft Word
-url: /android-java/conversion/json-to-docm/
+url_ignore: /android-java/conversion/json-to-docm/
 family: total
 platformtag: android-java
 feature: conversion

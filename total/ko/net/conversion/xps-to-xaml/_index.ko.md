@@ -1,7 +1,7 @@
 ---
 title: C# API를 통해 XPS을 XAML로 내보내기
 description: Microsoft Word를 사용하지 않고 XPS을 XAML로 변환하는 .NET API
-url: /ko/net/conversion/xps-to-xaml/
+url_ignore: /ko/net/conversion/xps-to-xaml/
 family: total
 platformtag: net
 feature: conversion

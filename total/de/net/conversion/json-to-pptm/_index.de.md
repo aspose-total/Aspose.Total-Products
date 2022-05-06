@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie das JSON-Format über .NET in PPTM
 description: Analysieren Sie JSON in PPTM in C#, ohne Microsoft PowerPoint zu verwenden
-url: /de/net/conversion/json-to-pptm/
+url_ignore: /de/net/conversion/json-to-pptm/
 family: total
 platformtag: net
 feature: conversion

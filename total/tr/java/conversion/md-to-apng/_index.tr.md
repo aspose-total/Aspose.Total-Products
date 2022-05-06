@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla MD'yi APNG'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan MD dosyasını Java uygulamalarınızda APNG'ye aktarın
-url: /tr/java/conversion/md-to-apng/
+url_ignore: /tr/java/conversion/md-to-apng/
 family: total
 platformtag: net
 feature: conversion

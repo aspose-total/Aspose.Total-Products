@@ -1,7 +1,7 @@
 ---
 title: CGM'yi ODT'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak CGM'yi ODT'ye dönüştürün
-url: /tr/java/conversion/cgm-to-odt/
+url_ignore: /tr/java/conversion/cgm-to-odt/
 family: total
 platformtag: net
 feature: conversion

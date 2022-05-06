@@ -1,7 +1,7 @@
 ---
 title: Converter CGM para IMAGE via API C#
 description: Exporte CGM para IMAGE em seus aplicativos .NET sem usar nenhum aplicativo de terceiros
-url: /pt/net/conversion/cgm-to-image/
+url_ignore: /pt/net/conversion/cgm-to-image/
 family: total
 platformtag: net
 feature: conversion

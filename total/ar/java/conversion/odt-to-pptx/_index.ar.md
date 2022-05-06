@@ -1,7 +1,7 @@
 ---
 title: تحويل ODT إلى PPTX عبر Java
 description: Java API لتصدير ODT إلى PPTX دون استخدام Microsoft Word أو PowerPoint
-url: /ar/java/conversion/odt-to-pptx/
+url_ignore: /ar/java/conversion/odt-to-pptx/
 family: total
 platformtag: net
 feature: conversion
@@ -18,7 +18,7 @@ otherformats: POT PPSX POWERPOINT PPTX PPS PPSM POTM PPTM PPT POTX CSV DIF FODS 
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل ODT إلى PPTX عبر Java" %}}
 1. افتح ملف ODT باستخدام فئة [Odtument](https://apireference.aspose.com/words/java/com.aspose.words/Odtument)
 2. تحويل ملف ODT إلى HTML باستخدام [Save](https://apireference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String.com.aspose.words.SaveOptions)) طريقة
-3. تهيئة كائن [عرض تقديمي] جديد (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+3. [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) جديد تهيئة كائن
 5. استخراج المحتوى من ملف HTML باستخدام BufferedReader وكتابة المحتوى في ملف العرض التقديمي الخاص بك
 6. احفظ المستند في PPTX باستخدام طريقة [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -1,7 +1,7 @@
 ---
 title: MD'yi DOTM'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak MD'yi DOTM'ye dönüştürün
-url: /tr/java/conversion/md-to-dotm/
+url_ignore: /tr/java/conversion/md-to-dotm/
 family: total
 platformtag: net
 feature: conversion

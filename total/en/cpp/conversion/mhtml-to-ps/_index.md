@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export MHTML to PS
 description: Convert MHTML to PS within C++ applications.
-url: /cpp/conversion/mhtml-to-ps/
+url_ignore: /cpp/conversion/mhtml-to-ps/
 family: total
 platformtag: cpp
 feature: conversion

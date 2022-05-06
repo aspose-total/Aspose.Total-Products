@@ -1,7 +1,7 @@
 ---
 title: SVG'yi DOTM'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak SVG'yi DOTM'ye dönüştürün
-url: /tr/java/conversion/svg-to-dotm/
+url_ignore: /tr/java/conversion/svg-to-dotm/
 family: total
 platformtag: net
 feature: conversion

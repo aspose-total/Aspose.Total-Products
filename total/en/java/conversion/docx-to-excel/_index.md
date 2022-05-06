@@ -1,7 +1,7 @@
 ---
 title: Convert DOCX to EXCEL via Java
 description: Convert DOCX to EXCEL via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/docx-to-excel/
+url_ignore: /java/conversion/docx-to-excel/
 family: total
 platformtag: java
 feature: conversion

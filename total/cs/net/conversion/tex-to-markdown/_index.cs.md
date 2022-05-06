@@ -1,7 +1,7 @@
 ---
 title: C# API pro export TEX do MARKDOWN
 description: Převeďte TEX na MARKDOWN bez použití aplikace Microsoft Word
-url: /cs/net/conversion/tex-to-markdown/
+url_ignore: /cs/net/conversion/tex-to-markdown/
 family: total
 platformtag: net
 feature: conversion

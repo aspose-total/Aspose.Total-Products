@@ -1,7 +1,7 @@
 ---
 title: API .NET per convertire WORDML in XLAM
 description: API C# per convertire WORDML in XLAM senza utilizzare Microsoft Excel o Adobe Reader
-url: /it/net/conversion/wordml-to-xlam/
+url_ignore: /it/net/conversion/wordml-to-xlam/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ In alternativa, scarica il programma di installazione MSI offline o le DLL in un
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Aggiungi proprietà personalizzate nel file XLAM tramite C#" %}}
 Durante la conversione di WORDML in XLAM, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) consente di aggiungere proprietà personalizzate nei documenti XLAM. Per aggiungere una proprietà personalizzata, è possibile utilizzare il metodo [Add](https://apiference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) per il metodo [CustomDocumentPropertyCollection](https://apiference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection). Il metodo Add aggiunge la proprietà al file Excel e restituisce un riferimento per la nuova proprietà del documento come [Aspose.Cells.Properties.DocumentProperty](https://apiference.aspose.com/cells/net/aspose.cells.properties /proprietà documento). 
 {{% blocks/products/pf/feature-page-code %}}

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export EPUB to ODT
 description: Convert EPUB to ODT within C++ applications.
-url: /cpp/conversion/epub-to-odt/
+url_ignore: /cpp/conversion/epub-to-odt/
 family: total
 platformtag: cpp
 feature: conversion

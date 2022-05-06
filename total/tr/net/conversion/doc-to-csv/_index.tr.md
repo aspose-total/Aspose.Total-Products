@@ -1,7 +1,7 @@
 ---
 title: DOC'yi CSV'ye Dönüştürmek için .NET API
 description: Microsoft Excel veya Adobe Reader kullanmadan DOC'yi CSV'ye dönüştürmek için C# API'si
-url: /tr/net/conversion/doc-to-csv/
+url_ignore: /tr/net/conversion/doc-to-csv/
 family: total
 platformtag: net
 feature: conversion

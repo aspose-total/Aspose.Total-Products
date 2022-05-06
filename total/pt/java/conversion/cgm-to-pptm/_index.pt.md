@@ -1,7 +1,7 @@
 ---
 title: Converter CGM para PPTM via API Java
 description: API Java para converter CGM para PPTM sem usar o Microsoft Word
-url: /pt/java/conversion/cgm-to-pptm/
+url_ignore: /pt/java/conversion/cgm-to-pptm/
 family: total
 platformtag: net
 feature: conversion

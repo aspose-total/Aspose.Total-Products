@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してXMLをPOTXに変換する
 description: MicrosoftWordを使用せずにXMLをPOTXに変換するJavaAPI
-url: /ja/java/conversion/xml-to-potx/
+url_ignore: /ja/java/conversion/xml-to-potx/
 family: total
 platformtag: net
 feature: conversion

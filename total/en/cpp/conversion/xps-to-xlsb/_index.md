@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XPS to XLSB
 description: Convert XPS to XLSB via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xps-to-xlsb/
+url_ignore: /cpp/conversion/xps-to-xlsb/
 family: total
 platformtag: cpp
 feature: conversion

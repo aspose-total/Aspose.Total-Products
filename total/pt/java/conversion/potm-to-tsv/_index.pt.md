@@ -1,7 +1,7 @@
 ---
 title: Converter POTM para formato TSV via Java
 description: Converta o formato POTM para TSV via Java sem usar o Microsoft Excel ou PowerPoint
-url: /pt/java/conversion/potm-to-tsv/
+url_ignore: /pt/java/conversion/potm-to-tsv/
 family: total
 platformtag: net
 feature: conversion

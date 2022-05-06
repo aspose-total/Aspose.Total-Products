@@ -1,7 +1,7 @@
 ---
 title: .NETを介してDOCMをJSON形式に変換します
 description: MicrosoftExcelまたはAdobeReaderを使用せずにC＃でDOCMをJSONに変換する
-url: /ja/net/conversion/docm-to-json/
+url_ignore: /ja/net/conversion/docm-to-json/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ otherformats: ODS XLTM XLAM FODS DIF XLS XLSM TSV XLTX EXCEL XLSB SXC CSV XLT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C＃を介してDOCMをJSON形式に変換する" %}}
-1. [Document](https://apireference.aspose.com/words/net/aspose.words/docmument)クラスを使用してDOCMファイルを開きます
-2. [保存](https://apireference.aspose.com/words/net/aspose.words.docmument/save/methods/4)メソッドを使用してDOCMをHTMLに変換します
+1. [Document](https://apireference.aspose.com/words/net/aspose.words/Document)クラスを使用してDOCMファイルを開きます
+2. [保存](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4)メソッドを使用してDOCMをHTMLに変換します
 3. [ワークブック](https://apireference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
 4. [保存](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをJSON形式で保存します
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to POTM in Android via Java
 description: RTF to POTM conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/rtf-to-potm/
+url_ignore: /android-java/conversion/rtf-to-potm/
 family: total
 platformtag: android-java
 feature: conversion

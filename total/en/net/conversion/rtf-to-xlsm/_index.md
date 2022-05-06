@@ -1,7 +1,7 @@
 ---
 title: .NET API to Convert RTF to XLSM 
 description: C# API to Convert RTF to XLSM without using Microsoft Excel or Adobe Reader
-url: /net/conversion/rtf-to-xlsm/
+url_ignore: /net/conversion/rtf-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java経由でEMAILをDOTにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにEMAILをDOTに変換するJavaAPI
-url: /ja/java/conversion/email-to-dot/
+url_ignore: /ja/java/conversion/email-to-dot/
 family: total
 platformtag: net
 feature: conversion

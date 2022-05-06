@@ -1,7 +1,7 @@
 ---
 title: Java API to Export SVG to PCL
 description: Convert SVG to PCL using on premise Java API
-url: /java/conversion/svg-to-pcl/
+url_ignore: /java/conversion/svg-to-pcl/
 family: total
 platformtag: java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: OTTをEXCELに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにOTTをEXCELに変換するC＃API
-url: /ja/net/conversion/ott-to-excel/
+url_ignore: /ja/net/conversion/ott-to-excel/
 family: total
 platformtag: net
 feature: conversion

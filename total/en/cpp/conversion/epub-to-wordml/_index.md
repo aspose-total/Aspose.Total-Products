@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export EPUB to WORDML
 description: Convert EPUB to WORDML within C++ applications.
-url: /cpp/conversion/epub-to-wordml/
+url_ignore: /cpp/conversion/epub-to-wordml/
 family: total
 platformtag: cpp
 feature: conversion

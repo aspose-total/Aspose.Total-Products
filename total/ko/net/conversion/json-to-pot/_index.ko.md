@@ -1,7 +1,7 @@
 ---
 title: .NET을 통해 JSON 형식을 POT로 변환
 description: Microsoft PowerPoint를 사용하지 않고 C#에서 JSON을 POT로 구문 분석
-url: /ko/net/conversion/json-to-pot/
+url_ignore: /ko/net/conversion/json-to-pot/
 family: total
 platformtag: net
 feature: conversion

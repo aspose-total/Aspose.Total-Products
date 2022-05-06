@@ -1,7 +1,7 @@
 ---
 title: Xuất MD sang PPS qua C# API
 description: .NET API để chuyển đổi MD sang PPS mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/md-to-pps/
+url_ignore: /vi/net/conversion/md-to-pps/
 family: total
 platformtag: net
 feature: conversion

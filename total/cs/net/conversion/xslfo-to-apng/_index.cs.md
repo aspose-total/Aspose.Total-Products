@@ -1,7 +1,7 @@
 ---
 title: Převeďte XSLFO na APNG přes C# API
 description: Exportujte XSLFO do APNG ve svých aplikacích .NET bez použití jakékoli aplikace třetí strany
-url: /cs/net/conversion/xslfo-to-apng/
+url_ignore: /cs/net/conversion/xslfo-to-apng/
 family: total
 platformtag: net
 feature: conversion

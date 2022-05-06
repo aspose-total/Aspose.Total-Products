@@ -1,7 +1,7 @@
 ---
 title: API Java per esportare PDF in FLATOPC
 description: Converti PDF in FLATOPC utilizzando l'API Java locale
-url: /it/java/conversion/pdf-to-flatopc/
+url_ignore: /it/java/conversion/pdf-to-flatopc/
 family: total
 platformtag: net
 feature: conversion
@@ -37,7 +37,8 @@ document.save("DocOutput.doc", SaveFormat.DOC);
 Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 // call save method while passing SaveFormat.FLAT_OPC
 outputDocument.save("output.flat_opc", SaveFormat.FLAT_OPC);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisiti di conversione" %}}
@@ -49,7 +50,8 @@ Durante la conversione da PDF a FLATOPC, anche se il documento è protetto da pa
 Document document = new Document("input.pdf", "password");
 // save PDF as a DOC 
 document.save("DocOutput.doc", SaveFormat.DOC);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Aprire il documento PDF protetto da password tramite Java" %}}
@@ -73,7 +75,8 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
     Statement statement = mConnection.createStatement();
     statement.executeUpdate(commandString);
 }  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Convertir MD en EXCEL via l'API C#
 description: API C# pour convertir un fichier MD en EXCEL sans utiliser Microsoft Excel ou Adobe Reader
-url: /fr/net/conversion/md-to-excel/
+url_ignore: /fr/net/conversion/md-to-excel/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: XLT EXCEL XLTM TXT FODS XLAM DIF ODS TSV SXC XLSM XLSB
 {{< blocks/products/pf/i18n/feature-page-header h1="API C# pour rendre MD en EXCEL" h2="Exporter le fichier MD au format EXCEL via C# sans utiliser Microsoft<sup>&reg;</sup> Excel ou Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), vous pouvez facilement convertir un fichier MD en EXCEL dans n'importe quelle application .NET, C#, ASP.NET et VB.NET. Tout d'abord, en utilisant [Aspose.PDF pour .NET](https://products.aspose.com/pdf/net/), vous pouvez exporter MD vers XLSX. Après cela, en utilisant l'API de programmation de feuille de calcul [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), vous pouvez convertir XLSX en EXCEL.
+En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez facilement convertir un fichier MD en EXCEL dans n'importe quelle application .NET, C#, ASP.NET et VB.NET. Tout d'abord, en utilisant [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), vous pouvez exporter MD vers XLSX. Après cela, en utilisant l'API de programmation de feuille de calcul [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), vous pouvez convertir XLSX en EXCEL.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

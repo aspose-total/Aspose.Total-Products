@@ -1,7 +1,7 @@
 ---
 title: XPSをGIFにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してXPSをGIFに変換する
-url: /ja/java/conversion/xps-to-gif/
+url_ignore: /ja/java/conversion/xps-to-gif/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Android API to Render MD to MHTML
 description: Transform MD to MHTML via Android via Java API
-url: /android-java/conversion/md-to-mhtml/
+url_ignore: /android-java/conversion/md-to-mhtml/
 family: total
 platformtag: android-java
 feature: conversion

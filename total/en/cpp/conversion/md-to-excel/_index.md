@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MD to EXCEL
 description: Convert MD to EXCEL via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/md-to-excel/
+url_ignore: /cpp/conversion/md-to-excel/
 family: total
 platformtag: cpp
 feature: conversion

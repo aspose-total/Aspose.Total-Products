@@ -1,7 +1,7 @@
 ---
 title: SVGをDOTにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してSVGをDOTに変換する
-url: /ja/java/conversion/svg-to-dot/
+url_ignore: /ja/java/conversion/svg-to-dot/
 family: total
 platformtag: net
 feature: conversion

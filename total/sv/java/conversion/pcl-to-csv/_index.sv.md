@@ -1,7 +1,7 @@
 ---
 title: Java API för att rendera PCL till CSV
 description: Exportera PCL till CSV via Java API utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/java/conversion/pcl-to-csv/
+url_ignore: /sv/java/conversion/pcl-to-csv/
 family: total
 platformtag: net
 feature: conversion

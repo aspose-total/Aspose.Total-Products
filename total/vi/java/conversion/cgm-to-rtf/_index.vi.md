@@ -1,7 +1,7 @@
 ---
 title: API Java để xuất CGM sang RTF
 description: Chuyển đổi CGM sang RTF bằng cách sử dụng API Java tiền đề
-url: /vi/java/conversion/cgm-to-rtf/
+url_ignore: /vi/java/conversion/cgm-to-rtf/
 family: total
 platformtag: net
 feature: conversion

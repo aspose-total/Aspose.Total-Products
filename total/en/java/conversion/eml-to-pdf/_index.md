@@ -1,7 +1,7 @@
 ---
 title: Export EML to PDF via Java 
 description: Java API to Convert EML to PDF without using Microsoft Word or Outlook 
-url: /java/conversion/eml-to-pdf/
+url_ignore: /java/conversion/eml-to-pdf/
 family: total
 platformtag: java
 feature: conversion

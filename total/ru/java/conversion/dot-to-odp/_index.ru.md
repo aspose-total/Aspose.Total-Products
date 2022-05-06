@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOT в ODP через Java
 description: Java API для экспорта DOT в ODP без использования Microsoft Word или PowerPoint
-url: /ru/java/conversion/dot-to-odp/
+url_ignore: /ru/java/conversion/dot-to-odp/
 family: total
 platformtag: net
 feature: conversion

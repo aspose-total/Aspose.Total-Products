@@ -1,7 +1,7 @@
 ---
 title: Java API do eksportu SVG do RTF
 description: Konwertuj SVG na RTF za pomocą lokalnego interfejsu Java API
-url: /pl/java/conversion/svg-to-rtf/
+url_ignore: /pl/java/conversion/svg-to-rtf/
 family: total
 platformtag: net
 feature: conversion

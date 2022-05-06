@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender XML ke DIF
 description: Ekspor XML ke DIF melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/xml-to-dif/
+url_ignore: /id/java/conversion/xml-to-dif/
 family: total
 platformtag: net
 feature: conversion

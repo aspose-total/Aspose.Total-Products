@@ -1,7 +1,7 @@
 ---
 title: تحويل DOCX إلى تنسيق JSON عبر .NET
 description: تحويل DOCX إلى JSON في C# بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/docx-to-json/
+url_ignore: /ar/net/conversion/docx-to-json/
 family: total
 platformtag: net
 feature: conversion

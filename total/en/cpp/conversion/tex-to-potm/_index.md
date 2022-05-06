@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert TEX to POTM  
 description: Convert TEX to POTM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/tex-to-potm/
+url_ignore: /cpp/conversion/tex-to-potm/
 family: total
 platformtag: cpp
 feature: conversion

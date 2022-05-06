@@ -1,7 +1,7 @@
 ---
 title: Konversi PPS ke XLT melalui C#
 description: Konversi PPS ke XLT dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint
-url: /id/net/conversion/pps-to-xlt/
+url_ignore: /id/net/conversion/pps-to-xlt/
 family: total
 platformtag: net
 feature: conversion
@@ -33,7 +33,8 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 Saat mengonversi file PPS ke XLT, jika dokumen PPS input Anda dilindungi kata sandi, Anda tidak dapat mengonversinya ke XLT tanpa mendekripsi dokumen. Ketika dokumen Anda dilindungi kata sandi, itu berarti memberlakukan pembatasan tertentu pada presentasi. Untuk menghapus batasan, kata sandi harus dimasukkan. Presentasi yang dilindungi kata sandi dianggap sebagai presentasi yang terkunci. API memungkinkan Anda untuk membuka dokumen terenkripsi dengan meneruskan kata sandi yang benar di objek LoadOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Saat mengonversi file PPS ke XLT, jika dokumen PPS input Anda dilindungi kata sa
 Saat mengonversi file PPS ke XLT, Anda juga dapat menambahkan tanda air ke format file XLT keluaran Anda. Untuk menambahkan tanda air, Anda dapat membuat objek Buku Kerja baru dan membuka dokumen HTML yang dikonversi, memilih Lembar Kerja melalui indeksnya, membuat Bentuk dan menggunakan fungsi AddTextEffect-nya. Setelah itu Anda dapat menyimpan dokumen HTML Anda sebagai XLT dengan Watermark. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

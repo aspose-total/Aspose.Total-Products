@@ -1,7 +1,7 @@
 ---
 title: C# API untuk Mengekspor MSG ke SVG
 description: Konversi MSG ke SVG tanpa menggunakan Microsoft Word atau Outlook di .NET
-url: /id/net/conversion/msg-to-svg/
+url_ignore: /id/net/conversion/msg-to-svg/
 family: total
 platformtag: net
 feature: conversion

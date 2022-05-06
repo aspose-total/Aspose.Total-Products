@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई बीएमपी को ईमेल निर्यात करने के लिए
 description: .NET पर Microsoft Word या Outlook का उपयोग किए बिना EMLX को PDF में बदलें
-url: /hi/net/conversion/emlx-to-pdf/
+url_ignore: /hi/net/conversion/emlx-to-pdf/
 family: total
 platformtag: net
 feature: conversion

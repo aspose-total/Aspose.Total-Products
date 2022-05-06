@@ -1,7 +1,7 @@
 ---
 title: C# API do eksportu SVG do WORDML
 description: Konwertuj SVG na WORDML bez użycia Microsoft Word
-url: /pl/net/conversion/svg-to-wordml/
+url_ignore: /pl/net/conversion/svg-to-wordml/
 family: total
 platformtag: net
 feature: conversion
@@ -41,7 +41,8 @@ document.Save("DocOutput.doc", SaveFormat.Doc);
 var outputDocument = new Aspose.Words.Document("DocOutput.doc");
 // call save method while passing SaveFormat.WordML
 outputDocument.Save("output.wordml", SaveFormat.WordML);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -56,7 +57,8 @@ Document document = new Document("Decrypt.svg", "password");
 document.Decrypt();
  
 document.Save("Decrypt_out.doc");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -71,7 +73,8 @@ Document document = new Document("input.doc");
 document.Protect(ProtectionType.ReadOnly, "password");
 // call save method while passing SaveFormat.WordML
 document.Save("output.wordml", SaveFormat.WordML);    
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

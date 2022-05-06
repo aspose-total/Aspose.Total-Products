@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPPTXをCSVに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPTXをCSVに変換する
-url: /ja/net/conversion/pptx-to-csv/
+url_ignore: /ja/net/conversion/pptx-to-csv/
 family: total
 platformtag: net
 feature: conversion

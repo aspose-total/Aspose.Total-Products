@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى ODT عبر Java
 description: تحليل JSON إلى ODT في Java بدون استخدام Microsoft Word
-url: /ar/java/conversion/json-to-odt/
+url_ignore: /ar/java/conversion/json-to-odt/
 family: total
 platformtag: net
 feature: conversion

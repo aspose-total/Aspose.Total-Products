@@ -1,7 +1,7 @@
 ---
 title: Преобразование MD в PPTM через Java API
 description: Java API для преобразования MD в PPTM без использования Microsoft Word
-url: /ru/java/conversion/md-to-pptm/
+url_ignore: /ru/java/conversion/md-to-pptm/
 family: total
 platformtag: net
 feature: conversion

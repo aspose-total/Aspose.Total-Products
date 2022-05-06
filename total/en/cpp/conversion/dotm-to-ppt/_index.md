@@ -1,7 +1,7 @@
 ---
 title: Convert DOTM to PPT via C++
 description: Export DOTM to PPT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/dotm-to-ppt/
+url_ignore: /cpp/conversion/dotm-to-ppt/
 family: total
 platformtag: cpp
 feature: conversion

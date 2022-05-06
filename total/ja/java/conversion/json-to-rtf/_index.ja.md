@@ -1,7 +1,7 @@
 ---
 title: Java経由でJSON形式をRTFに変換する
 description: MicrosoftWordを使用せずにJavaでJSONをRTFに解析する
-url: /ja/java/conversion/json-to-rtf/
+url_ignore: /ja/java/conversion/json-to-rtf/
 family: total
 platformtag: net
 feature: conversion

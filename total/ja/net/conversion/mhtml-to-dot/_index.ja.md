@@ -1,7 +1,7 @@
 ---
 title: MHTMLをDOTにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにMHTMLをDOTに変換する
-url: /ja/net/conversion/mhtml-to-dot/
+url_ignore: /ja/net/conversion/mhtml-to-dot/
 family: total
 platformtag: net
 feature: conversion

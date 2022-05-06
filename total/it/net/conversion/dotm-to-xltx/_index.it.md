@@ -1,7 +1,7 @@
 ---
 title: API .NET per convertire DOTM in XLTX
 description: API C# per convertire DOTM in XLTX senza utilizzare Microsoft Excel o Adobe Reader
-url: /it/net/conversion/dotm-to-xltx/
+url_ignore: /it/net/conversion/dotm-to-xltx/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ In alternativa, scarica il programma di installazione MSI offline o le DLL in un
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Aggiungi proprietà personalizzate nel file XLTX tramite C#" %}}
 Durante la conversione di DOTM in XLTX, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) consente di aggiungere proprietà personalizzate nei dotmumenti XLTX. Per aggiungere una proprietà personalizzata, è possibile utilizzare il metodo [Add](https://apiference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection/methods/add/index) per il metodo [CustomDotmumentPropertyCollection](https://apiference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection). Il metodo Add aggiunge la proprietà al file Excel e restituisce un riferimento per la nuova proprietà del dotmumento come [Aspose.Cells.Properties.DotmumentProperty](https://apiference.aspose.com/cells/net/aspose.cells.properties /proprietà dotmumento). 
 {{% blocks/products/pf/feature-page-code %}}

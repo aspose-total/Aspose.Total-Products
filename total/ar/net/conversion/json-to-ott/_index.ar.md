@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى OTT عبر .NET
 description: تحليل JSON إلى OTT في C# بدون استخدام Microsoft Word
-url: /ar/net/conversion/json-to-ott/
+url_ignore: /ar/net/conversion/json-to-ott/
 family: total
 platformtag: net
 feature: conversion

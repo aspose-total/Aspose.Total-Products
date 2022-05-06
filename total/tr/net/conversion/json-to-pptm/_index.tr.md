@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını .NET aracılığıyla PPTM'ye dönüştürün
 description: Microsoft PowerPoint kullanmadan JSON'u C# ile PPTM'ye ayrıştırın
-url: /tr/net/conversion/json-to-pptm/
+url_ignore: /tr/net/conversion/json-to-pptm/
 family: total
 platformtag: net
 feature: conversion

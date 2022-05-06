@@ -1,7 +1,7 @@
 ---
 title: Android API to Render EPUB to ODT
 description: Transform EPUB to ODT via Android via Java API
-url: /android-java/conversion/epub-to-odt/
+url_ignore: /android-java/conversion/epub-to-odt/
 family: total
 platformtag: android-java
 feature: conversion

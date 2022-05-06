@@ -1,7 +1,7 @@
 ---
 title: Convert DOCX to EXCEL via .NET 
 description: Convert DOCX to EXCEL in C# without using Microsoft Excel or Adobe Reader
-url: /net/conversion/docx-to-excel/
+url_ignore: /net/conversion/docx-to-excel/
 family: total
 platformtag: net
 feature: conversion

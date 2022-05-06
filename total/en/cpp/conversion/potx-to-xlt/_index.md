@@ -1,7 +1,7 @@
 ---
 title: Convert POTX to XLT via C++ 
 description: Export POTX to XLT in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/potx-to-xlt/
+url_ignore: /cpp/conversion/potx-to-xlt/
 family: total
 platformtag: cpp
 feature: conversion

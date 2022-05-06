@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση PDF σε SXC
 description: Εξαγωγή PDF σε SXC μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/pdf-to-sxc/
+url_ignore: /el/java/conversion/pdf-to-sxc/
 family: total
 platformtag: net
 feature: conversion

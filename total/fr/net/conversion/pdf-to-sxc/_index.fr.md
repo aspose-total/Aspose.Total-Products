@@ -1,7 +1,7 @@
 ---
 title: Convertir PDF en SXC via l'API C#
 description: API C# pour convertir un fichier PDF en SXC sans utiliser Microsoft Excel ou Adobe Reader
-url: /fr/net/conversion/pdf-to-sxc/
+url_ignore: /fr/net/conversion/pdf-to-sxc/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: XLTX XLAM TSV DIF TXT XLSB FODS EXCEL MD ODS XLT XLTM
 {{< blocks/products/pf/i18n/feature-page-header h1="API C# pour rendre PDF en SXC" h2="Exporter le fichier PDF au format SXC via C# sans utiliser Microsoft<sup>&reg;</sup> Excel ou Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), vous pouvez facilement convertir un fichier PDF en SXC dans n'importe quelle application .NET, C#, ASP.NET et VB.NET. Tout d'abord, en utilisant [Aspose.PDF pour .NET](https://products.aspose.com/pdf/net/), vous pouvez exporter PDF vers XLSX. Après cela, en utilisant l'API de programmation de feuille de calcul [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), vous pouvez convertir XLSX en SXC.
+En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez facilement convertir un fichier PDF en SXC dans n'importe quelle application .NET, C#, ASP.NET et VB.NET. Tout d'abord, en utilisant [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), vous pouvez exporter PDF vers XLSX. Après cela, en utilisant l'API de programmation de feuille de calcul [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), vous pouvez convertir XLSX en SXC.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

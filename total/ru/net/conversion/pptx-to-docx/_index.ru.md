@@ -1,6 +1,6 @@
 ---
 title: Преобразование PPTX в DOCX через C# .NET 
-url: /ru/net/conversion/pptx-to-docx/ 
+url_ignore: /ru/net/conversion/pptx-to-docx/ 
 description: Преобразование документов PowerPoint pptx в файлы документов Word с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

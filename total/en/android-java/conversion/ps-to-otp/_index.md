@@ -1,7 +1,7 @@
 ---
 title: Export PS to OTP in Android 
 description: Android API to Convert PS to OTP without using Microsoft Word
-url: /android-java/conversion/ps-to-otp/
+url_ignore: /android-java/conversion/ps-to-otp/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertera MD till DICOM via C# API
 description: Exportera MD till DICOM i dina .NET-applikationer utan att använda någon tredjepartsapplikation
-url: /sv/net/conversion/md-to-dicom/
+url_ignore: /sv/net/conversion/md-to-dicom/
 family: total
 platformtag: net
 feature: conversion

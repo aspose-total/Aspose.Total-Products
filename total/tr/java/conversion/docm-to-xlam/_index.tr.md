@@ -1,7 +1,7 @@
 ---
 title: DOCM'yi XLAM'ye Dönüştürmek için Java API
 description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla DOCM'yi XLAM'ye dönüştürün
-url: /tr/java/conversion/docm-to-xlam/
+url_ignore: /tr/java/conversion/docm-to-xlam/
 family: total
 platformtag: net
 feature: conversion

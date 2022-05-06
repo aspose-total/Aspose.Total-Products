@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई बीएमपी को ईमेल निर्यात करने के लिए
 description: .NET पर Microsoft Word या Outlook का उपयोग किए बिना EMAIL को EMF में बदलें
-url: /hi/net/conversion/email-to-emf/
+url_ignore: /hi/net/conversion/email-to-emf/
 family: total
 platformtag: net
 feature: conversion

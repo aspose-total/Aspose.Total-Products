@@ -1,7 +1,7 @@
 ---
 title: Export EML to FLATOPC via C++
 description: C++ API to Convert EML to FLATOPC without using Microsoft Word or Outlook
-url: /cpp/conversion/eml-to-flatopc/
+url_ignore: /cpp/conversion/eml-to-flatopc/
 family: total
 platformtag: cpp
 feature: conversion

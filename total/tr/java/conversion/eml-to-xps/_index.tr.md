@@ -1,7 +1,7 @@
 ---
 title: EML'i Java aracılığıyla XPS'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan EML'i XPS'ye Dönüştürmek için Java API
-url: /tr/java/conversion/eml-to-xps/
+url_ignore: /tr/java/conversion/eml-to-xps/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert PPSX to FODS via C# 
 description: Convert PPSX to FODS in C# without using Microsoft Excel or Powerpoint
-url: /net/conversion/ppsx-to-fods/
+url_ignore: /net/conversion/ppsx-to-fods/
 family: total
 platformtag: net
 feature: conversion

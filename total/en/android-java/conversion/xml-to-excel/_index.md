@@ -1,7 +1,7 @@
 ---
 title: Convert XML to EXCEL in Android via Java
 description: Render XML to EXCEL in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/xml-to-excel/
+url_ignore: /android-java/conversion/xml-to-excel/
 family: total
 platformtag: android-java
 feature: conversion

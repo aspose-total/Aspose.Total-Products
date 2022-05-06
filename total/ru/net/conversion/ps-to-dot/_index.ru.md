@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта PS в DOT
 description: Преобразование PS в DOT без использования Microsoft Word
-url: /ru/net/conversion/ps-to-dot/
+url_ignore: /ru/net/conversion/ps-to-dot/
 family: total
 platformtag: net
 feature: conversion

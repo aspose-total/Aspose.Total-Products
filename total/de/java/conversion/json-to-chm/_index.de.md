@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie das JSON-Format über Java in CHM
 description: Analysieren Sie JSON in CHM in Java, ohne Microsoft Word zu verwenden
-url: /de/java/conversion/json-to-chm/
+url_ignore: /de/java/conversion/json-to-chm/
 family: total
 platformtag: net
 feature: conversion

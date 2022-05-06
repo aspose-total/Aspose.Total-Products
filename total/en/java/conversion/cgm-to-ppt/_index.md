@@ -1,7 +1,7 @@
 ---
 title: Convert CGM to PPT via Java API
 description: Java API to Convert CGM to PPT without using Microsoft Word
-url: /java/conversion/cgm-to-ppt/
+url_ignore: /java/conversion/cgm-to-ppt/
 family: total
 platformtag: java
 feature: conversion

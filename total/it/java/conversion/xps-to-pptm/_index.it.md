@@ -1,7 +1,7 @@
 ---
 title: Converti XPS in PPTM tramite API Java
 description: API Java per convertire XPS in PPTM senza utilizzare Microsoft Word
-url: /it/java/conversion/xps-to-pptm/
+url_ignore: /it/java/conversion/xps-to-pptm/
 family: total
 platformtag: net
 feature: conversion

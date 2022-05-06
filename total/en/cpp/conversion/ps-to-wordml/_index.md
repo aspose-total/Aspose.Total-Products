@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PS to WORDML
 description: Convert PS to WORDML within C++ applications.
-url: /cpp/conversion/ps-to-wordml/
+url_ignore: /cpp/conversion/ps-to-wordml/
 family: total
 platformtag: cpp
 feature: conversion

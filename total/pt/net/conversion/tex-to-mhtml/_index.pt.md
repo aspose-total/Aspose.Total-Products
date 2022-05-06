@@ -1,7 +1,7 @@
 ---
 title: API C# para exportar TEX para MHTML
 description: Converter TEX para MHTML sem usar o Microsoft Word
-url: /pt/net/conversion/tex-to-mhtml/
+url_ignore: /pt/net/conversion/tex-to-mhtml/
 family: total
 platformtag: net
 feature: conversion
@@ -41,7 +41,8 @@ document.Save("DocOutput.doc", SaveFormat.Doc);
 var outputDocument = new Aspose.Words.Document("DocOutput.doc");
 
 outputDocument.Save("output.mhtml", SaveFormat.Mhtml);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -56,7 +57,8 @@ Document document = new Document("Decrypt.tex", "password");
 document.Decrypt();
  
 document.Save("Decrypt_out.doc");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -71,7 +73,8 @@ Document document = new Document("input.doc");
 document.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.mhtml", SaveFormat.Mhtml);    
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXPSをWMZに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでXPSをWMZにエクスポートします
-url: /ja/net/conversion/xps-to-wmz/
+url_ignore: /ja/net/conversion/xps-to-wmz/
 family: total
 platformtag: net
 feature: conversion

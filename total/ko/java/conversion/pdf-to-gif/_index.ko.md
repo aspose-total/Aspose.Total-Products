@@ -1,7 +1,7 @@
 ---
 title: PDF을 GIF으로 내보내기 위한 Java API
 description: 온프레미스 Java API를 사용하여 PDF을 GIF으로 변환
-url: /ko/java/conversion/pdf-to-gif/
+url_ignore: /ko/java/conversion/pdf-to-gif/
 family: total
 platformtag: net
 feature: conversion

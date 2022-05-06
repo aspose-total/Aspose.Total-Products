@@ -1,7 +1,7 @@
 ---
 title: Converteer POTM naar WORDML via Java
 description: Java API om POTM naar WORDML te exporteren zonder Microsoft Word of PowerPoint te gebruiken
-url: /nl/java/conversion/potm-to-wordml/
+url_ignore: /nl/java/conversion/potm-to-wordml/
 family: total
 platformtag: net
 feature: conversion

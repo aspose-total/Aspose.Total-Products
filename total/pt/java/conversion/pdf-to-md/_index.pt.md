@@ -1,7 +1,7 @@
 ---
 title: API Java para renderizar PDF para MD
 description: Exporte PDF para MD via API Java sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/java/conversion/pdf-to-md/
+url_ignore: /pt/java/conversion/pdf-to-md/
 family: total
 platformtag: net
 feature: conversion

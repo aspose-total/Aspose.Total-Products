@@ -1,7 +1,7 @@
 ---
 title: تحويل PPS إلى تنسيق XLTX عبر Java
 description: قم بتحويل PPS إلى تنسيق XLTX عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/pps-to-xltx/
+url_ignore: /ar/java/conversion/pps-to-xltx/
 family: total
 platformtag: net
 feature: conversion

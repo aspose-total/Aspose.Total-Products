@@ -1,7 +1,7 @@
 ---
 title: SVG'yi MARKDOWN'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan SVG'yi MARKDOWN'ye dönüştürün
-url: /tr/net/conversion/svg-to-markdown/
+url_ignore: /tr/net/conversion/svg-to-markdown/
 family: total
 platformtag: net
 feature: conversion

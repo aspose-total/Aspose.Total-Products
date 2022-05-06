@@ -1,7 +1,7 @@
 ---
 title: MDをPSにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してMDをPSに変換する
-url: /ja/java/conversion/md-to-ps/
+url_ignore: /ja/java/conversion/md-to-ps/
 family: total
 platformtag: net
 feature: conversion

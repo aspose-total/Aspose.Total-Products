@@ -1,7 +1,7 @@
 ---
 title: Convert PCL to MD in Android via Java
 description: Render PCL to MD in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/pcl-to-md/
+url_ignore: /android-java/conversion/pcl-to-md/
 family: total
 platformtag: android-java
 feature: conversion

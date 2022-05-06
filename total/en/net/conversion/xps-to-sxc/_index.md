@@ -1,7 +1,7 @@
 ---
 title: Convert XPS to SXC via C# API
 description: C# API to Convert XPS File to SXC without using Microsoft Excel or Adobe Reader
-url: /net/conversion/xps-to-sxc/
+url_ignore: /net/conversion/xps-to-sxc/
 family: total
 platformtag: net
 feature: conversion

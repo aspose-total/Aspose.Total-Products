@@ -1,7 +1,7 @@
 ---
 title: Convert DOCM to XLSB in C++
 description: C++ API to Convert DOCM to XLSB without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/docm-to-xlsb/
+url_ignore: /cpp/conversion/docm-to-xlsb/
 family: total
 platformtag: cpp
 feature: conversion

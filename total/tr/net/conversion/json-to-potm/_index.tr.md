@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını .NET aracılığıyla POTM'ye dönüştürün
 description: Microsoft PowerPoint kullanmadan JSON'u C# ile POTM'ye ayrıştırın
-url: /tr/net/conversion/json-to-potm/
+url_ignore: /tr/net/conversion/json-to-potm/
 family: total
 platformtag: net
 feature: conversion

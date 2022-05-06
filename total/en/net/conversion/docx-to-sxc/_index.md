@@ -1,7 +1,7 @@
 ---
 title: .NET API to Convert DOCX to SXC 
 description: C# API to Convert DOCX to SXC without using Microsoft Excel or Adobe Reader
-url: /net/conversion/docx-to-sxc/
+url_ignore: /net/conversion/docx-to-sxc/
 family: total
 platformtag: net
 feature: conversion

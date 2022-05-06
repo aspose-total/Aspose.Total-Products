@@ -1,7 +1,7 @@
 ---
 title: Konversi EPUB ke TGA melalui Java
 description: Ekspor file EPUB ke TGA di aplikasi Java Anda tanpa menggunakan aplikasi pihak ketiga
-url: /id/java/conversion/epub-to-tga/
+url_ignore: /id/java/conversion/epub-to-tga/
 family: total
 platformtag: net
 feature: conversion

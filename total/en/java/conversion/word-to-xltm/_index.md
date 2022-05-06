@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert WORD to XLTM
 description: Convert WORD to XLTM via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/word-to-xltm/
+url_ignore: /java/conversion/word-to-xltm/
 family: total
 platformtag: java
 feature: conversion

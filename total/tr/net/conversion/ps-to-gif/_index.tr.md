@@ -1,7 +1,7 @@
 ---
 title: PS'yi GIF'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan PS'yi GIF'ye dönüştürün
-url: /tr/net/conversion/ps-to-gif/
+url_ignore: /tr/net/conversion/ps-to-gif/
 family: total
 platformtag: net
 feature: conversion

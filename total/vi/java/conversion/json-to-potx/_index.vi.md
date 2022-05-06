@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi định dạng JSON sang POTX qua Java
 description: Phân tích cú pháp JSON thành POTX trong Java mà không cần sử dụng Microsoft PowerPoint
-url: /vi/java/conversion/json-to-potx/
+url_ignore: /vi/java/conversion/json-to-potx/
 family: total
 platformtag: net
 feature: conversion

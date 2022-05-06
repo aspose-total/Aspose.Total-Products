@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PS to GIF
 description: Convert PS to GIF within C++ applications.
-url: /cpp/conversion/ps-to-gif/
+url_ignore: /cpp/conversion/ps-to-gif/
 family: total
 platformtag: cpp
 feature: conversion

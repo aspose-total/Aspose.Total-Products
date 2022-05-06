@@ -1,7 +1,7 @@
 ---
 title: PDFをRTFにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してPDFをRTFに変換する
-url: /ja/java/conversion/pdf-to-rtf/
+url_ignore: /ja/java/conversion/pdf-to-rtf/
 family: total
 platformtag: net
 feature: conversion

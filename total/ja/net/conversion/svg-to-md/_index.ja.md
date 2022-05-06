@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してSVGをMDに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにSVGファイルをMDに変換するC＃API
-url: /ja/net/conversion/svg-to-md/
+url_ignore: /ja/net/conversion/svg-to-md/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convertir le format JSON en CHM via .NET
 description: Analyser JSON en CHM en C# sans utiliser Microsoft Word
-url: /fr/net/conversion/json-to-chm/
+url_ignore: /fr/net/conversion/json-to-chm/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: OTT FLATOPC PS DOTX RTF WORDML ODT WORD EPUB DOC DOT PCL MOBI DOCM
 {{< blocks/products/pf/i18n/feature-page-header h1="Convertir le format JSON en CHM via C#" h2="API C# pour analyser JSON vers CHM sans utiliser Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), vous pouvez analyser JSON en CHM dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. pas. Tout d'abord, en utilisant [Aspose.Cells pour .NET](https://products.aspose.com/cells/net/), vous pouvez exporter JSON au format PDF. Après cela, en utilisant [Aspose.Words pour .NET](https://products.aspose.com/words/net/), vous pouvez convertir un PDF en CHM.
+En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez analyser JSON en CHM dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. pas. Tout d'abord, en utilisant [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), vous pouvez exporter JSON au format PDF. Après cela, en utilisant [Aspose.Words for .NET](https://products.aspose.com/words/net/), vous pouvez convertir un PDF en CHM.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

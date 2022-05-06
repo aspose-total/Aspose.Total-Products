@@ -1,7 +1,7 @@
 ---
 title: Javaを使用してXLSをPPTXに変換する
 description: ExcelまたはWordを使用してXLSをPPTXにエクスポートするJavaAPI
-url: /ja/java/conversion/xls-to-pptx/
+url_ignore: /ja/java/conversion/xls-to-pptx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie SVG über die C#-API nach PPSX
 description: .NET-API zum Konvertieren von SVG in PPSX ohne Verwendung von Microsoft Word
-url: /de/net/conversion/svg-to-ppsx/
+url_ignore: /de/net/conversion/svg-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

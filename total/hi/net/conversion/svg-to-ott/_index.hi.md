@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई सीजीएम को डीओसीएम में निर्यात करने के लिए
 description: Microsoft Word का उपयोग किए बिना SVG को OTT में बदलें
-url: /hi/net/conversion/svg-to-ott/
+url_ignore: /hi/net/conversion/svg-to-ott/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Ekspor OFT ke JPEG melalui Java
 description: Java API untuk Mengonversi OFT ke JPEG tanpa menggunakan Microsoft Word atau Outlook
-url: /id/java/conversion/oft-to-jpeg/
+url_ignore: /id/java/conversion/oft-to-jpeg/
 family: total
 platformtag: net
 feature: conversion

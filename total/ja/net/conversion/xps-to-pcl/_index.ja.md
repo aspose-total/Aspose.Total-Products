@@ -1,7 +1,7 @@
 ---
 title: XPSをPCLにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにXPSをPCLに変換する
-url: /ja/net/conversion/xps-to-pcl/
+url_ignore: /ja/net/conversion/xps-to-pcl/
 family: total
 platformtag: net
 feature: conversion

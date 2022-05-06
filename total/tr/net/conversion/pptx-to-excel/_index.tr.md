@@ -1,7 +1,7 @@
 ---
 title: PPTX'u C# ile EXCEL'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan PPTX'u C#'ta EXCEL'ye dönüştürün
-url: /tr/net/conversion/pptx-to-excel/
+url_ignore: /tr/net/conversion/pptx-to-excel/
 family: total
 platformtag: net
 feature: conversion

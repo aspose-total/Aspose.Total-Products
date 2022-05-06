@@ -1,7 +1,7 @@
 ---
 title: Exportar MSG a DOCM a través de Java
 description: API de Java para convertir MSG a DOCM sin usar Microsoft Word o Outlook
-url: /es/java/conversion/msg-to-docm/
+url_ignore: /es/java/conversion/msg-to-docm/
 family: total
 platformtag: net
 feature: conversion

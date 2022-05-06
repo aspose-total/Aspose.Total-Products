@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPCLをTXTに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPCLファイルをTXTに変換するC＃API
-url: /ja/net/conversion/pcl-to-txt/
+url_ignore: /ja/net/conversion/pcl-to-txt/
 family: total
 platformtag: net
 feature: conversion

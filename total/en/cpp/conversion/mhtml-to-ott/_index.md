@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export MHTML to OTT
 description: Convert MHTML to OTT within C++ applications.
-url: /cpp/conversion/mhtml-to-ott/
+url_ignore: /cpp/conversion/mhtml-to-ott/
 family: total
 platformtag: cpp
 feature: conversion

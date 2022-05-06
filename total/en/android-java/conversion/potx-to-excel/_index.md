@@ -1,7 +1,7 @@
 ---
 title: Convert POTX to EXCEL in Android via Java
 description: Convert POTX to EXCEL in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/potx-to-excel/
+url_ignore: /android-java/conversion/potx-to-excel/
 family: total
 platformtag: android-java
 feature: conversion

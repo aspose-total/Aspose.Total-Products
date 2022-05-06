@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير البريد الإلكتروني إلى DOCM
 description: قم بتحويل OFT إلى DOCM دون استخدام Microsoft Word أو Outlook على .NET
-url: /ar/net/conversion/oft-to-docm/
+url_ignore: /ar/net/conversion/oft-to-docm/
 family: total
 platformtag: net
 feature: conversion

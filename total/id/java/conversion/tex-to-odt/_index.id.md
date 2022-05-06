@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Mengekspor TEX ke ODT
 description: Konversi TEX ke ODT menggunakan API Java di tempat
-url: /id/java/conversion/tex-to-odt/
+url_ignore: /id/java/conversion/tex-to-odt/
 family: total
 platformtag: net
 feature: conversion
@@ -37,7 +37,8 @@ document.save("DocOutput.doc", SaveFormat.DOC);
 Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 // call save method while passing SaveFormat.ODT
 outputDocument.save("output.odt", SaveFormat.ODT);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Persyaratan Konversi" %}}
@@ -49,7 +50,8 @@ Saat mengonversi TEX ke ODT, meskipun dokumen Anda dilindungi kata sandi, Anda m
 Document document = new Document("input.tex", "password");
 // save TEX as a DOC 
 document.save("DocOutput.doc", SaveFormat.DOC);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Buka Dokumen TEX yang Dilindungi Kata Sandi melalui Java" %}}
@@ -73,7 +75,8 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
     Statement statement = mConnection.createStatement();
     statement.executeUpdate(commandString);
 }  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

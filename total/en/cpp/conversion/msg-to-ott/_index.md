@@ -1,7 +1,7 @@
 ---
 title: Export MSG to OTT via C++
 description: C++ API to Convert MSG to OTT without using Microsoft Word or Outlook
-url: /cpp/conversion/msg-to-ott/
+url_ignore: /cpp/conversion/msg-to-ott/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PCL to DOT
 description: Convert PCL to DOT within C++ applications.
-url: /cpp/conversion/pcl-to-dot/
+url_ignore: /cpp/conversion/pcl-to-dot/
 family: total
 platformtag: cpp
 feature: conversion

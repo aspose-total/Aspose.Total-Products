@@ -1,7 +1,7 @@
 ---
 title: .NETを介してJSON形式をWMFに変換する
 description: サードパーティの依存関係を使用せずに、C＃でJSONをWMFに解析します
-url: /ja/net/conversion/json-to-wmf/
+url_ignore: /ja/net/conversion/json-to-wmf/
 family: total
 platformtag: net
 feature: conversion

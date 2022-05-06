@@ -1,7 +1,7 @@
 ---
 title: Convert POWERPOINT to XLSB Format via Java
 description: Convert POWERPOINT to XLSB format via Java without using using Microsoft Excel or PowerPoint
-url: /java/conversion/powerpoint-to-xlsb/
+url_ignore: /java/conversion/powerpoint-to-xlsb/
 family: total
 platformtag: java
 feature: conversion

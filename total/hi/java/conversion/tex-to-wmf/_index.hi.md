@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से सीजीएम को एपीएनजी में कनवर्ट करें
 description: किसी भी तृतीय पक्ष एप्लिकेशन का उपयोग किए बिना अपने जावा एप्लिकेशन में TEX फ़ाइल को WMF में निर्यात करें
-url: /hi/java/conversion/tex-to-wmf/
+url_ignore: /hi/java/conversion/tex-to-wmf/
 family: total
 platformtag: net
 feature: conversion

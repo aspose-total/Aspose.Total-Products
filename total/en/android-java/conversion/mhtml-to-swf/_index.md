@@ -1,7 +1,7 @@
 ---
 title: Export MHTML to SWF in Android 
 description: Android API to Convert MHTML to SWF without using Microsoft Word
-url: /android-java/conversion/mhtml-to-swf/
+url_ignore: /android-java/conversion/mhtml-to-swf/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: EMLXをXPSにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMLXをXPSに変換する
-url: /ja/net/conversion/emlx-to-xps/
+url_ignore: /ja/net/conversion/emlx-to-xps/
 family: total
 platformtag: net
 feature: conversion

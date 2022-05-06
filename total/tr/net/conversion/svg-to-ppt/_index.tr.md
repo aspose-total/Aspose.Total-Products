@@ -1,7 +1,7 @@
 ---
 title: SVG'yi C# API aracılığıyla PPT'ye aktarın
 description: Microsoft Word kullanmadan SVG'yi PPT'ye dönüştürmek için .NET API
-url: /tr/net/conversion/svg-to-ppt/
+url_ignore: /tr/net/conversion/svg-to-ppt/
 family: total
 platformtag: net
 feature: conversion

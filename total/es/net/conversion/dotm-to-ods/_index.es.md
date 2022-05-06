@@ -1,7 +1,7 @@
 ---
 title: API .NET para convertir DOTM a ODS
 description: API de C# para convertir DOTM a ODS sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/dotm-to-ods/
+url_ignore: /es/net/conversion/dotm-to-ods/
 family: total
 platformtag: net
 feature: conversion

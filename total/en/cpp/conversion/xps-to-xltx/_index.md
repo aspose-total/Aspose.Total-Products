@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XPS to XLTX
 description: Convert XPS to XLTX via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xps-to-xltx/
+url_ignore: /cpp/conversion/xps-to-xltx/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API to Render PDF to TXT
 description: Export PDF to TXT via Java API without using Microsoft Excel or Adobe Reader
-url: /java/conversion/pdf-to-txt/
+url_ignore: /java/conversion/pdf-to-txt/
 family: total
 platformtag: java
 feature: conversion

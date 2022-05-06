@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से JSON प्रारूप को PPSX में बदलें
 description: Microsoft PowerPoint का उपयोग किए बिना जावा में JSON को PPSX में पार्स करें
-url: /hi/java/conversion/json-to-ppsx/
+url_ignore: /hi/java/conversion/json-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

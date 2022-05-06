@@ -1,7 +1,7 @@
 ---
 title: Java를 통해 MSG을 WORDML로 내보내기
 description: Microsoft Word 또는 Outlook을 사용하지 않고 MSG을 WORDML로 변환하는 Java API
-url: /ko/java/conversion/msg-to-wordml/
+url_ignore: /ko/java/conversion/msg-to-wordml/
 family: total
 platformtag: net
 feature: conversion

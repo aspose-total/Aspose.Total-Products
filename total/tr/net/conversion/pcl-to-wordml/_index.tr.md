@@ -1,7 +1,7 @@
 ---
 title: PCL'yi WORDML'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan PCL'yi WORDML'ye dönüştürün
-url: /tr/net/conversion/pcl-to-wordml/
+url_ignore: /tr/net/conversion/pcl-to-wordml/
 family: total
 platformtag: net
 feature: conversion

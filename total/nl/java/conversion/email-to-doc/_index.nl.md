@@ -1,7 +1,7 @@
 ---
 title: Exporteer EMAIL naar DOC via Java
 description: Java API om EMAIL naar DOC te converteren zonder Microsoft Word of Outlook te gebruiken
-url: /nl/java/conversion/email-to-doc/
+url_ignore: /nl/java/conversion/email-to-doc/
 family: total
 platformtag: net
 feature: conversion

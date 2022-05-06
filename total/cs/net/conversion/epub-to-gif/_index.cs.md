@@ -1,7 +1,7 @@
 ---
 title: C# API pro export EPUB do GIF
 description: Převeďte EPUB na GIF bez použití aplikace Microsoft Word
-url: /cs/net/conversion/epub-to-gif/
+url_ignore: /cs/net/conversion/epub-to-gif/
 family: total
 platformtag: net
 feature: conversion

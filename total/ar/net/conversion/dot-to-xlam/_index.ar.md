@@ -1,7 +1,7 @@
 ---
 title: NET API لتحويل DOT إلى XLAM
 description: C# API لتحويل DOT إلى XLAM بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/dot-to-xlam/
+url_ignore: /ar/net/conversion/dot-to-xlam/
 family: total
 platformtag: net
 feature: conversion

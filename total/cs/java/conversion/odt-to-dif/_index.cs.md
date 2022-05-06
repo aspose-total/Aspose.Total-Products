@@ -1,7 +1,7 @@
 ---
 title: Java API pro převod ODT do DIF
 description: Převeďte ODT na DIF přes Java bez použití Microsoft Word nebo Microsoft Excel
-url: /cs/java/conversion/odt-to-dif/
+url_ignore: /cs/java/conversion/odt-to-dif/
 family: total
 platformtag: net
 feature: conversion

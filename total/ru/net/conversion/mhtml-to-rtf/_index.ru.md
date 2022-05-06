@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта MHTML в RTF
 description: Преобразование MHTML в RTF без использования Microsoft Word
-url: /ru/net/conversion/mhtml-to-rtf/
+url_ignore: /ru/net/conversion/mhtml-to-rtf/
 family: total
 platformtag: net
 feature: conversion

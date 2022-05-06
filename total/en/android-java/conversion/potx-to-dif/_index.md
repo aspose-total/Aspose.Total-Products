@@ -1,7 +1,7 @@
 ---
 title: Convert POTX to DIF in Android via Java
 description: Convert POTX to DIF in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/potx-to-dif/
+url_ignore: /android-java/conversion/potx-to-dif/
 family: total
 platformtag: android-java
 feature: conversion

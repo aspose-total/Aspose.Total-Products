@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender TEX ke FODS
 description: Ekspor TEX ke FODS melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/tex-to-fods/
+url_ignore: /id/java/conversion/tex-to-fods/
 family: total
 platformtag: net
 feature: conversion

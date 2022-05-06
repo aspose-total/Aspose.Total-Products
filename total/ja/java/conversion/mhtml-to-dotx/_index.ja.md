@@ -1,7 +1,7 @@
 ---
 title: MHTMLをDOTXにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してMHTMLをDOTXに変換する
-url: /ja/java/conversion/mhtml-to-dotx/
+url_ignore: /ja/java/conversion/mhtml-to-dotx/
 family: total
 platformtag: net
 feature: conversion

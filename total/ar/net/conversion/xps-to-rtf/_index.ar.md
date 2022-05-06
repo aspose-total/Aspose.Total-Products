@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير XPS إلى RTF
 description: تحويل XPS إلى RTF دون استخدام Microsoft Word
-url: /ar/net/conversion/xps-to-rtf/
+url_ignore: /ar/net/conversion/xps-to-rtf/
 family: total
 platformtag: net
 feature: conversion

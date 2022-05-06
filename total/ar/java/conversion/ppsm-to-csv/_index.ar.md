@@ -1,7 +1,7 @@
 ---
 title: تحويل PPSM إلى تنسيق CSV عبر Java
 description: قم بتحويل PPSM إلى تنسيق CSV عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/ppsm-to-csv/
+url_ignore: /ar/java/conversion/ppsm-to-csv/
 family: total
 platformtag: net
 feature: conversion

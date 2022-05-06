@@ -1,7 +1,7 @@
 ---
 title: Export TEX do PPS přes C# API
 description: .NET API pro převod TEX na PPS bez použití aplikace Microsoft Word
-url: /cs/net/conversion/tex-to-pps/
+url_ignore: /cs/net/conversion/tex-to-pps/
 family: total
 platformtag: net
 feature: conversion

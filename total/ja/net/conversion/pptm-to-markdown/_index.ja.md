@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPPTMをMARKDOWNに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPTMをMARKDOWNに変換する
-url: /ja/net/conversion/pptm-to-markdown/
+url_ignore: /ja/net/conversion/pptm-to-markdown/
 family: total
 platformtag: net
 feature: conversion

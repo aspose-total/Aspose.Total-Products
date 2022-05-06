@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XML to SXC
 description: Convert XML to SXC via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xml-to-sxc/
+url_ignore: /cpp/conversion/xml-to-sxc/
 family: total
 platformtag: cpp
 feature: conversion

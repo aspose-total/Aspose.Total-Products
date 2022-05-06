@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PPT na format FODS za pomocą Java
 description: Konwertuj PPT do formatu FODS za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint
-url: /pl/java/conversion/ppt-to-fods/
+url_ignore: /pl/java/conversion/ppt-to-fods/
 family: total
 platformtag: net
 feature: conversion

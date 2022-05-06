@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení TEX do XLTM
 description: Export TEX do XLTM přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/tex-to-xltm/
+url_ignore: /cs/java/conversion/tex-to-xltm/
 family: total
 platformtag: net
 feature: conversion

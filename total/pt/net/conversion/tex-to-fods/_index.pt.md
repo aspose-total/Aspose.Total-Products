@@ -1,7 +1,7 @@
 ---
 title: Converter TEX para FODS via API C#
 description: API C# para converter arquivo TEX em FODS sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/tex-to-fods/
+url_ignore: /pt/net/conversion/tex-to-fods/
 family: total
 platformtag: net
 feature: conversion

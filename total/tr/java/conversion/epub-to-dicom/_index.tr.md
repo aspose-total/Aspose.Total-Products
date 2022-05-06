@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla EPUB'yi DICOM'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan EPUB dosyasını Java uygulamalarınızda DICOM'ye aktarın
-url: /tr/java/conversion/epub-to-dicom/
+url_ignore: /tr/java/conversion/epub-to-dicom/
 family: total
 platformtag: net
 feature: conversion

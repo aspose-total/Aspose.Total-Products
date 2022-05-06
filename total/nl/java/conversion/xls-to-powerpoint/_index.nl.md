@@ -1,7 +1,7 @@
 ---
 title: Converteer XLS naar POWERPOINT met Java
 description: Java API om XLS naar POWERPOINT te exporteren met Excel of Word
-url: /nl/java/conversion/xls-to-powerpoint/
+url_ignore: /nl/java/conversion/xls-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή SVG σε PPTM μέσω Java API
 description: Java API για μετατροπή SVG σε PPTM χωρίς χρήση του Microsoft Word
-url: /el/java/conversion/svg-to-pptm/
+url_ignore: /el/java/conversion/svg-to-pptm/
 family: total
 platformtag: net
 feature: conversion

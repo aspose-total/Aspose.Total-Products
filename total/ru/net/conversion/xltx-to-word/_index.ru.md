@@ -1,7 +1,7 @@
 ---
 title: Преобразование XLTX в WORD с помощью .NET 
 description: Преобразование XLTX в WORD на платформах .NET Framework, .NET Core, Mono или Xamarin
-url: /ru/net/conversion/xltx-to-word/
+url_ignore: /ru/net/conversion/xltx-to-word/
 family: total
 platformtag: net
 feature: conversion

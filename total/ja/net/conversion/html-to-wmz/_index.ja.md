@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してHTMLをWMZに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでHTMLをWMZにエクスポートします
-url: /ja/net/conversion/html-to-wmz/
+url_ignore: /ja/net/conversion/html-to-wmz/
 family: total
 platformtag: net
 feature: conversion

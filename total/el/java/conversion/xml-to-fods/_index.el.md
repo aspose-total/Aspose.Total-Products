@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση XML σε FODS
 description: Εξαγωγή XML σε FODS μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/xml-to-fods/
+url_ignore: /el/java/conversion/xml-to-fods/
 family: total
 platformtag: net
 feature: conversion

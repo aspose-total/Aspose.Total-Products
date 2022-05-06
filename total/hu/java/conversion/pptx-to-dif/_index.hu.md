@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PPTX-ot DIF formátumba Java segítségével
 description: Konvertálja a PPTX-ot DIF formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül
-url: /hu/java/conversion/pptx-to-dif/
+url_ignore: /hu/java/conversion/pptx-to-dif/
 family: total
 platformtag: net
 feature: conversion
@@ -19,12 +19,12 @@ A PPTX-fájlt DIF-vé konvertálhatja az [Aspose.Total for Java](https://product
 1. Nyissa meg a PPTX-fájlt a [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) osztály használatával
 2. A [mentés](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides) segítségével konvertálja a PPTX-ot HTML-be. ISaveOptions-) metódus
 3. Töltsön be HTML-dokumentumot a [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) osztály használatával
-4. Mentse a dokumentumot DIF formátumba a [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells) segítségével. SaveOptions)) módszer
+4. Mentse a dokumentumot DIF formátumba a [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells)) segítségével. SaveOptions)) módszer
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 A PPTX DIF-vé konvertálásához egyszerűen használhatja az Aspose.Total for Java alkalmazást közvetlenül a [Maven]-ből (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) alapú projekt, és vegyen fel könyvtárakat a pom.xml fájlba.
 
-Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads] webhelyről (https://downloads.aspose.com/total/java).
+Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

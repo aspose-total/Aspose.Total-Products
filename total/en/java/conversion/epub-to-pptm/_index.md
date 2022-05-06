@@ -1,7 +1,7 @@
 ---
 title: Convert EPUB to PPTM via Java API
 description: Java API to Convert EPUB to PPTM without using Microsoft Word
-url: /java/conversion/epub-to-pptm/
+url_ignore: /java/conversion/epub-to-pptm/
 family: total
 platformtag: java
 feature: conversion

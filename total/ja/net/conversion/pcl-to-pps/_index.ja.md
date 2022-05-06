@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPCLをPPSにエクスポートする
 description: MicrosoftWordを使用せずにPCLをPPSに変換する.NETAPI
-url: /ja/net/conversion/pcl-to-pps/
+url_ignore: /ja/net/conversion/pcl-to-pps/
 family: total
 platformtag: net
 feature: conversion

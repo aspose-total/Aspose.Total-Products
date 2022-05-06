@@ -1,7 +1,7 @@
 ---
 title: แปลงรูปแบบ DOCM เป็น JSON ผ่าน .NET
 description: แปลง DOCM เป็น JSON ใน C# โดยไม่ต้องใช้ Microsoft Excel หรือ Adobe Reader
-url: /th/net/conversion/docm-to-json/
+url_ignore: /th/net/conversion/docm-to-json/
 family: total
 platformtag: net
 feature: conversion
@@ -18,7 +18,7 @@ otherformats: ODS XLTM XLAM FODS DIF XLS XLSM TSV XLTX EXCEL XLSB SXC CSV XLT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="แปลง DOCM เป็นรูปแบบ JSON ผ่าน C#" %}}
-1. เปิดไฟล์ DOCM โดยใช้คลาส [Document](https://apireference.aspose.com/words/net/aspose.words/document
+1. เปิดไฟล์ DOCM โดยใช้คลาส [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 2. แปลง DOCM เป็น HTML โดยใช้วิธีการ [Save](https://apireference.aspose.com/words/net/aspose.words.documentsave/methods/4)
 3. โหลดเอกสาร HTML โดยใช้คลาส [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. บันทึกเอกสารในรูปแบบ JSON โดยใช้วิธี [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)

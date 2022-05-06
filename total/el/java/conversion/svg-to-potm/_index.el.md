@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή SVG σε POTM μέσω Java API
 description: Java API για μετατροπή SVG σε POTM χωρίς χρήση του Microsoft Word
-url: /el/java/conversion/svg-to-potm/
+url_ignore: /el/java/conversion/svg-to-potm/
 family: total
 platformtag: net
 feature: conversion

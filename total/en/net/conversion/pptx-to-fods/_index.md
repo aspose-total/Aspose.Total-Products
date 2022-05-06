@@ -1,7 +1,7 @@
 ---
 title: Convert PPTX to FODS via C# 
 description: Convert PPTX to FODS in C# without using Microsoft Excel or Powerpoint
-url: /net/conversion/pptx-to-fods/
+url_ignore: /net/conversion/pptx-to-fods/
 family: total
 platformtag: net
 feature: conversion

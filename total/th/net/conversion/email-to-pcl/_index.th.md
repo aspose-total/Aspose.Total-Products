@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก EMAIL ไปยัง PCL
 description: แปลง EMAIL เป็น PCL โดยไม่ต้องใช้ Microsoft Word หรือ Outlook บน .NET
-url: /th/net/conversion/email-to-pcl/
+url_ignore: /th/net/conversion/email-to-pcl/
 family: total
 platformtag: net
 feature: conversion

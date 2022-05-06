@@ -1,7 +1,7 @@
 ---
 title: Convert POTM to XLS via C++ 
 description: Export POTM to XLS in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/potm-to-xls/
+url_ignore: /cpp/conversion/potm-to-xls/
 family: total
 platformtag: cpp
 feature: conversion

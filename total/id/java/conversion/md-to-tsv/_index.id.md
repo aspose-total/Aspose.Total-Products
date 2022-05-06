@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender MD ke TSV
 description: Ekspor MD ke TSV melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/md-to-tsv/
+url_ignore: /id/java/conversion/md-to-tsv/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API de Java para convertir DOTM a XLSB
 description: Convierta DOTM a XLSB a través de Java sin usar Microsoft Word o Microsoft Excel
-url: /es/java/conversion/dotm-to-xlsb/
+url_ignore: /es/java/conversion/dotm-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

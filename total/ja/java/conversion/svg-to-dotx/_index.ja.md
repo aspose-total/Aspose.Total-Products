@@ -1,7 +1,7 @@
 ---
 title: SVGをDOTXにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してSVGをDOTXに変換する
-url: /ja/java/conversion/svg-to-dotx/
+url_ignore: /ja/java/conversion/svg-to-dotx/
 family: total
 platformtag: net
 feature: conversion

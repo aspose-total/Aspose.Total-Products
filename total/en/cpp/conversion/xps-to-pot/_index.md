@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XPS to POT  
 description: Convert XPS to POT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xps-to-pot/
+url_ignore: /cpp/conversion/xps-to-pot/
 family: total
 platformtag: cpp
 feature: conversion

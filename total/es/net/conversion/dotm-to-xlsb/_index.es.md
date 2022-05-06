@@ -1,7 +1,7 @@
 ---
 title: API .NET para convertir DOTM a XLSB
 description: API de C# para convertir DOTM a XLSB sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/dotm-to-xlsb/
+url_ignore: /es/net/conversion/dotm-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPCLをTGAに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでPCLをTGAにエクスポートします
-url: /ja/net/conversion/pcl-to-tga/
+url_ignore: /ja/net/conversion/pcl-to-tga/
 family: total
 platformtag: net
 feature: conversion

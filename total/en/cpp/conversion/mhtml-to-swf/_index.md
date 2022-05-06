@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MHTML to SWF  
 description: Convert MHTML to SWF via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/mhtml-to-swf/
+url_ignore: /cpp/conversion/mhtml-to-swf/
 family: total
 platformtag: cpp
 feature: conversion

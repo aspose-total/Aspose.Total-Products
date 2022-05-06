@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı IMAGE'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan EMAIL'i IMAGE'ye dönüştürün
-url: /tr/net/conversion/email-to-image/
+url_ignore: /tr/net/conversion/email-to-image/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konwertuj POTM na format XLTX za pomocą Java
 description: Konwertuj POTM do formatu XLTX za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint
-url: /pl/java/conversion/potm-to-xltx/
+url_ignore: /pl/java/conversion/potm-to-xltx/
 family: total
 platformtag: net
 feature: conversion

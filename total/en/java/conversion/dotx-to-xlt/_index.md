@@ -1,7 +1,7 @@
 ---
 title: Convert DOTX to XLT via Java
 description: Convert DOTX to XLT via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/dotx-to-xlt/
+url_ignore: /java/conversion/dotx-to-xlt/
 family: total
 platformtag: java
 feature: conversion

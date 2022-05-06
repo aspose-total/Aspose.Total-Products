@@ -1,7 +1,7 @@
 ---
 title: .NET API для преобразования MOBI в EXCEL
 description: C# API для преобразования MOBI в EXCEL без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/mobi-to-excel/
+url_ignore: /ru/net/conversion/mobi-to-excel/
 family: total
 platformtag: net
 feature: conversion

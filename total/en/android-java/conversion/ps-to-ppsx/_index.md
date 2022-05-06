@@ -1,7 +1,7 @@
 ---
 title: Export PS to PPSX in Android 
 description: Android API to Convert PS to PPSX without using Microsoft Word
-url: /android-java/conversion/ps-to-ppsx/
+url_ignore: /android-java/conversion/ps-to-ppsx/
 family: total
 platformtag: android-java
 feature: conversion

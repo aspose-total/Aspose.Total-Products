@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير MD إلى PCL
 description: تحويل MD إلى PCL دون استخدام Microsoft Word
-url: /ar/net/conversion/md-to-pcl/
+url_ignore: /ar/net/conversion/md-to-pcl/
 family: total
 platformtag: net
 feature: conversion

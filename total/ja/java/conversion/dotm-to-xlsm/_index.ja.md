@@ -1,7 +1,7 @@
 ---
 title: DOTMをXLSMに変換するJavaAPI
 description: MicrosoftWordやMicrosoftExcelを使用せずに、Java経由でDOTMをXLSMに変換する
-url: /ja/java/conversion/dotm-to-xlsm/
+url_ignore: /ja/java/conversion/dotm-to-xlsm/
 family: total
 platformtag: net
 feature: conversion
@@ -19,7 +19,7 @@ otherformats: TSV XLAM SXC XLSM EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 1. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument)クラスを使用してDOTMファイルを開きます
 2. [保存](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,com.aspose.words.SaveOptions)を使用してDOTMをHTMLに変換します) 方法
 3. [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)クラスを使用してHTMLドキュメントをロードします
-4. [保存](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells)を使用して、ドキュメントをXLSM形式で保存します。 SaveOptions))メソッド
+4. [保存](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells))を使用して、ドキュメントをXLSM形式で保存します。 SaveOptions))メソッド
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)ベースのプロジェクトから直接Aspose.TotalforJavaを簡単に使用できます[Aspose.Words for Java](https://dotms.aspose.com/words/java/installation/)と[Aspose.Cells for Java](https://dotms.aspose.com/cells/java/installation/)を含めますあなたのpom.xmlの。

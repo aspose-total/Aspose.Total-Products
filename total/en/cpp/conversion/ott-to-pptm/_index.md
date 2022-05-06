@@ -1,7 +1,7 @@
 ---
 title: Convert OTT to PPTM via C++
 description: Export OTT to PPTM in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/ott-to-pptm/
+url_ignore: /cpp/conversion/ott-to-pptm/
 family: total
 platformtag: cpp
 feature: conversion

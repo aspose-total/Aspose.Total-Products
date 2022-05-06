@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení MHTML do SXC
 description: Export MHTML do SXC přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/mhtml-to-sxc/
+url_ignore: /cs/java/conversion/mhtml-to-sxc/
 family: total
 platformtag: net
 feature: conversion

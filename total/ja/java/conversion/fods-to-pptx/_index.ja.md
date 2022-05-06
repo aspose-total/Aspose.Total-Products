@@ -1,7 +1,7 @@
 ---
 title: Javaを使用してFODSをPPTXに変換する
 description: ExcelまたはWordを使用してFODSをPPTXにエクスポートするJavaAPI
-url: /ja/java/conversion/fods-to-pptx/
+url_ignore: /ja/java/conversion/fods-to-pptx/
 family: total
 platformtag: net
 feature: conversion

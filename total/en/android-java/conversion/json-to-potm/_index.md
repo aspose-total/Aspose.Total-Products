@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to POTM in Android via Java 
 description: Parse JSON to POTM in Android Applications without using Microsoft PowerPoint
-url: /android-java/conversion/json-to-potm/
+url_ignore: /android-java/conversion/json-to-potm/
 family: total
 platformtag: android-java
 feature: conversion

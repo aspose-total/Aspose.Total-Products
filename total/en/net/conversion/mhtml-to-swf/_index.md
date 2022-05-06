@@ -1,7 +1,7 @@
 ---
 title: Export MHTML to SWF via C# API
 description: .NET API to Convert MHTML to SWF without using Microsoft Word
-url: /net/conversion/mhtml-to-swf/
+url_ignore: /net/conversion/mhtml-to-swf/
 family: total
 platformtag: net
 feature: conversion

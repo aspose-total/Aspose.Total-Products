@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı EPUB'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan MSG'i EPUB'ye dönüştürün
-url: /tr/net/conversion/msg-to-epub/
+url_ignore: /tr/net/conversion/msg-to-epub/
 family: total
 platformtag: net
 feature: conversion

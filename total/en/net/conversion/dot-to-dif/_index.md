@@ -1,7 +1,7 @@
 ---
 title: .NET API to Convert DOT to DIF 
 description: C# API to Convert DOT to DIF without using Microsoft Excel or Adobe Reader
-url: /net/conversion/dot-to-dif/
+url_ignore: /net/conversion/dot-to-dif/
 family: total
 platformtag: net
 feature: conversion

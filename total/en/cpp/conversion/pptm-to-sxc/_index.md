@@ -1,7 +1,7 @@
 ---
 title: Convert PPTM to SXC via C++ 
 description: Export PPTM to SXC in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pptm-to-sxc/
+url_ignore: /cpp/conversion/pptm-to-sxc/
 family: total
 platformtag: cpp
 feature: conversion

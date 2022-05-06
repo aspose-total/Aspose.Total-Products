@@ -1,7 +1,7 @@
 ---
 title: C# API για εξαγωγή EMLX σε OTT
 description: Μετατροπή EMLX σε OTT χωρίς χρήση του Microsoft Word ή του Outlook στο .NET
-url: /el/net/conversion/emlx-to-ott/
+url_ignore: /el/net/conversion/emlx-to-ott/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: XPSをRTFにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してXPSをRTFに変換する
-url: /ja/java/conversion/xps-to-rtf/
+url_ignore: /ja/java/conversion/xps-to-rtf/
 family: total
 platformtag: net
 feature: conversion

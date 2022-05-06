@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير MHTML إلى DOTM
 description: تحويل MHTML إلى DOTM دون استخدام Microsoft Word
-url: /ar/net/conversion/mhtml-to-dotm/
+url_ignore: /ar/net/conversion/mhtml-to-dotm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API Java per il rendering da MHTML a XLTX
 description: Esporta MHTML in XLTX tramite API Java senza utilizzare Microsoft Excel o Adobe Reader
-url: /it/java/conversion/mhtml-to-xltx/
+url_ignore: /it/java/conversion/mhtml-to-xltx/
 family: total
 platformtag: net
 feature: conversion

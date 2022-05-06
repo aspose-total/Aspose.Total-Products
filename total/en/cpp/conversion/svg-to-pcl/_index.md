@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export SVG to PCL
 description: Convert SVG to PCL within C++ applications.
-url: /cpp/conversion/svg-to-pcl/
+url_ignore: /cpp/conversion/svg-to-pcl/
 family: total
 platformtag: cpp
 feature: conversion

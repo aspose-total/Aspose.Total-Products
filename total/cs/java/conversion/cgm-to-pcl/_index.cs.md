@@ -1,7 +1,7 @@
 ---
 title: Java API pro export CGM do PCL
 description: Převeďte CGM na PCL pomocí on premise Java API
-url: /cs/java/conversion/cgm-to-pcl/
+url_ignore: /cs/java/conversion/cgm-to-pcl/
 family: total
 platformtag: net
 feature: conversion

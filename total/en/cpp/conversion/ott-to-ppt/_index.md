@@ -1,7 +1,7 @@
 ---
 title: Convert OTT to PPT via C++
 description: Export OTT to PPT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/ott-to-ppt/
+url_ignore: /cpp/conversion/ott-to-ppt/
 family: total
 platformtag: cpp
 feature: conversion

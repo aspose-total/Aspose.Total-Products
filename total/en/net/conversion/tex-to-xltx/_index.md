@@ -1,7 +1,7 @@
 ---
 title: Convert TEX to XLTX via C# API
 description: C# API to Convert TEX File to XLTX without using Microsoft Excel or Adobe Reader
-url: /net/conversion/tex-to-xltx/
+url_ignore: /net/conversion/tex-to-xltx/
 family: total
 platformtag: net
 feature: conversion

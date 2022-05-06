@@ -1,7 +1,7 @@
 ---
 title: تحويل DOCM إلى ODP عبر Java
 description: Java API لتصدير DOCM إلى ODP دون استخدام Microsoft Word أو PowerPoint
-url: /ar/java/conversion/docm-to-odp/
+url_ignore: /ar/java/conversion/docm-to-odp/
 family: total
 platformtag: net
 feature: conversion
@@ -18,7 +18,7 @@ otherformats: PPT POTM POTX PPS POT PPSM PPTX POWERPOINT PPSX PPTM CSV DIF FODS 
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل DOCM إلى ODP عبر Java" %}}
 1. افتح ملف DOCM باستخدام فئة [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 2. تحويل ملف DOCM إلى HTML باستخدام [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String.com.aspose.words.SaveOptions)) طريقة
-3. تهيئة كائن [عرض تقديمي] جديد (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+3. [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) جديد تهيئة كائن
 5. استخراج المحتوى من ملف HTML باستخدام BufferedReader وكتابة المحتوى في ملف العرض التقديمي الخاص بك
 6. احفظ المستند في ODP باستخدام طريقة [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}

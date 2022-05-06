@@ -1,7 +1,7 @@
 ---
 title: Java ile PPSX'u TEXT'ye dönüştürün
 description: Microsoft Word veya PowerPoint kullanmadan PPSX'u TEXT'a Aktarmak için Java API
-url: /tr/java/conversion/ppsx-to-text/
+url_ignore: /tr/java/conversion/ppsx-to-text/
 family: total
 platformtag: net
 feature: conversion
@@ -29,14 +29,16 @@ Alternatif olarak, [indirilenler](https://downloads.aspose.com/total/java) adres
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Dönüşüm Gereksinimleri" %}}
 API'yi kullanarak, filigranlı PPSX dosyasını TEXT'ye dönüştürme işlemini de gerçekleştirebilirsiniz. TEXT belgenize filigran eklemek için öncelikle PPSX dosyasını HTML'ye çevirebilir ve ona bir filigran ekleyebilirsiniz. Filigran eklemek için, yeni oluşturulan HTML dosyasını [Textument](https://apireference.aspose.com/words/java/com.aspose.words/Textument) sınıfını kullanarak yükleyin, bir TextWatermarkOptions örneği oluşturun ve ayarlayın özellikleri, Watermark.setText yöntemini çağırın ve filigran metnini ve TextWatermarkOptions nesnesini iletin.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

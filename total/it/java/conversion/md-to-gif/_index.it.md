@@ -1,7 +1,7 @@
 ---
 title: API Java per esportare MD in GIF
 description: Converti MD in GIF utilizzando l'API Java locale
-url: /it/java/conversion/md-to-gif/
+url_ignore: /it/java/conversion/md-to-gif/
 family: total
 platformtag: net
 feature: conversion
@@ -37,7 +37,8 @@ document.save("DocOutput.doc", SaveFormat.DOC);
 Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 // call save method while passing SaveFormat.GIF
 outputDocument.save("output.gif", SaveFormat.GIF);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisiti di conversione" %}}
@@ -49,7 +50,8 @@ Durante la conversione da MD a GIF, anche se il documento è protetto da passwor
 Document document = new Document("input.md", "password");
 // save MD as a DOC 
 document.save("DocOutput.doc", SaveFormat.DOC);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Aprire il documento MD protetto da password tramite Java" %}}
@@ -73,7 +75,8 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
     Statement statement = mConnection.createStatement();
     statement.executeUpdate(commandString);
 }  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

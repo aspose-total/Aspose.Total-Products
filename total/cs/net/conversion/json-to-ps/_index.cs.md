@@ -1,7 +1,7 @@
 ---
 title: Převeďte formát JSON na PS přes .NET
 description: Analyzujte JSON na PS v C# bez použití Microsoft Word
-url: /cs/net/conversion/json-to-ps/
+url_ignore: /cs/net/conversion/json-to-ps/
 family: total
 platformtag: net
 feature: conversion

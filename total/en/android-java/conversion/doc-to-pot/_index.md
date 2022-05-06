@@ -1,7 +1,7 @@
 ---
 title: Convert DOC to POT in Android via Java
 description: DOC to POT conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/doc-to-pot/
+url_ignore: /android-java/conversion/doc-to-pot/
 family: total
 platformtag: android-java
 feature: conversion

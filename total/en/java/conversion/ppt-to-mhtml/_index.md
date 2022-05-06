@@ -1,7 +1,7 @@
 ---
 title: Convert PPT to MHTML Format via Java
 description: Convert PPT to MHTML format via Java without using using Microsoft Excel or PowerPoint
-url: /java/conversion/ppt-to-mhtml/
+url_ignore: /java/conversion/ppt-to-mhtml/
 family: total
 platformtag: java
 feature: conversion

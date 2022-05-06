@@ -1,7 +1,7 @@
 ---
 title: Export PCL do SWF přes C# API
 description: .NET API pro převod PCL na SWF bez použití aplikace Microsoft Word
-url: /cs/net/conversion/pcl-to-swf/
+url_ignore: /cs/net/conversion/pcl-to-swf/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをXLTXに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPDFファイルをXLTXに変換するC＃API
-url: /ja/net/conversion/pdf-to-xltx/
+url_ignore: /ja/net/conversion/pdf-to-xltx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API to Render EPUB to ODS
 description: Export EPUB to ODS via Java API without using Microsoft Excel or Adobe Reader
-url: /java/conversion/epub-to-ods/
+url_ignore: /java/conversion/epub-to-ods/
 family: total
 platformtag: java
 feature: conversion

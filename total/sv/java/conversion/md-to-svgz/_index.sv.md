@@ -1,7 +1,7 @@
 ---
 title: Konvertera MD till SVGZ via Java
 description: Exportera MD-fil till SVGZ i dina Java-applikationer utan att använda någon tredjepartsapplikation
-url: /sv/java/conversion/md-to-svgz/
+url_ignore: /sv/java/conversion/md-to-svgz/
 family: total
 platformtag: net
 feature: conversion

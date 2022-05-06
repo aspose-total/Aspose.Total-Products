@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PS to FLATOPC
 description: Convert PS to FLATOPC within C++ applications.
-url: /cpp/conversion/ps-to-flatopc/
+url_ignore: /cpp/conversion/ps-to-flatopc/
 family: total
 platformtag: cpp
 feature: conversion

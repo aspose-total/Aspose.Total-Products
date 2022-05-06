@@ -1,7 +1,7 @@
 ---
 title: 通过 Java 将 DOT 转换为 JSON 格式
 description: 通过 Java 将 DOT 转换为 JSON 格式，而不使用 Microsoft Word 或 Microsoft Excel
-url: /zh/java/conversion/dot-to-json/
+url_ignore: /zh/java/conversion/dot-to-json/
 family: total
 platformtag: net
 feature: conversion

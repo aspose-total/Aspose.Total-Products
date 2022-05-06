@@ -1,7 +1,7 @@
 ---
 title: PDF'yi C# API aracılığıyla PPSM'ye aktarın
 description: Microsoft Word kullanmadan PDF'yi PPSM'ye dönüştürmek için .NET API
-url: /tr/net/conversion/pdf-to-ppsm/
+url_ignore: /tr/net/conversion/pdf-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

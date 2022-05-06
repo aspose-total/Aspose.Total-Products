@@ -1,7 +1,7 @@
 ---
 title: Java経由でPPTXをOTTに変換する
 description: MicrosoftWordやPowerPointを使用せずにPPTXをOTTにエクスポートするJavaAPI
-url: /ja/java/conversion/pptx-to-ott/
+url_ignore: /ja/java/conversion/pptx-to-ott/
 family: total
 platformtag: net
 feature: conversion

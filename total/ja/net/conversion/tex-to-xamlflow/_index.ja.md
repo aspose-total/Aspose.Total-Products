@@ -1,7 +1,7 @@
 ---
 title: TEXをXAMLFLOWにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにTEXをXAMLFLOWに変換する
-url: /ja/net/conversion/tex-to-xamlflow/
+url_ignore: /ja/net/conversion/tex-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

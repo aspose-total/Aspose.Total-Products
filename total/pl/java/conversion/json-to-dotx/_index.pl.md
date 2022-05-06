@@ -1,7 +1,7 @@
 ---
 title: Konwertuj format JSON na DOTX za pomocą Javy
 description: Przetwarzaj JSON do DOTX w Javie bez użycia Microsoft Word
-url: /pl/java/conversion/json-to-dotx/
+url_ignore: /pl/java/conversion/json-to-dotx/
 family: total
 platformtag: net
 feature: conversion

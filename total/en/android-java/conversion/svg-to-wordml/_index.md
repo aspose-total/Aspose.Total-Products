@@ -1,7 +1,7 @@
 ---
 title: Android API to Render SVG to WORDML
 description: Transform SVG to WORDML via Android via Java API
-url: /android-java/conversion/svg-to-wordml/
+url_ignore: /android-java/conversion/svg-to-wordml/
 family: total
 platformtag: android-java
 feature: conversion

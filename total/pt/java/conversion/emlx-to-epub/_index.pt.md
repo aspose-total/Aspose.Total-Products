@@ -1,7 +1,7 @@
 ---
 title: Exportar EMLX para EPUB via Java
 description: API Java para converter EMLX para EPUB sem usar o Microsoft Word ou Outlook
-url: /pt/java/conversion/emlx-to-epub/
+url_ignore: /pt/java/conversion/emlx-to-epub/
 family: total
 platformtag: net
 feature: conversion

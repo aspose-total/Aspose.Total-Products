@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi PCL sang XLTM thông qua API C#
 description: C# API để chuyển đổi tệp PCL sang XLTM mà không cần sử dụng Microsoft Excel hoặc Adobe Reader
-url: /vi/net/conversion/pcl-to-xltm/
+url_ignore: /vi/net/conversion/pcl-to-xltm/
 family: total
 platformtag: net
 feature: conversion

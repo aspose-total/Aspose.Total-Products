@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar DOT via .NET
 description: Parseer JSON naar DOT in C# zonder Microsoft Word te gebruiken
-url: /nl/net/conversion/json-to-dot/
+url_ignore: /nl/net/conversion/json-to-dot/
 family: total
 platformtag: net
 feature: conversion

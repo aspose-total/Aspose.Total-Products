@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή POT σε XLTX μέσω C#
 description: Μετατροπή POT σε XLTX σε C# χωρίς χρήση Microsoft Excel ή Powerpoint
-url: /el/net/conversion/pot-to-xltx/
+url_ignore: /el/net/conversion/pot-to-xltx/
 family: total
 platformtag: net
 feature: conversion
@@ -33,7 +33,8 @@ otherformats: EXCEL FODS XLAM MARKDOWN XLSB XLS SXC XLSX DIF XLT TSV XLTM XLSM M
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ otherformats: EXCEL FODS XLAM MARKDOWN XLSB XLS SXC XLSX DIF XLT TSV XLTM XLSM M
 Κατά τη μετατροπή του αρχείου POT σε XLTX, εάν το έγγραφο POT εισόδου σας προστατεύεται με κωδικό πρόσβασης, δεν μπορείτε να το μετατρέψετε σε XLTX χωρίς να αποκρυπτογραφήσετε το έγγραφο. Όταν το έγγραφό σας προστατεύεται με κωδικό πρόσβασης, σημαίνει ότι επιβάλλει ορισμένους περιορισμούς στην παρουσίαση. Για να καταργήσετε τους περιορισμούς, πρέπει να εισαγάγετε τον κωδικό πρόσβασης. Μια παρουσίαση που προστατεύεται με κωδικό πρόσβασης θεωρείται κλειδωμένη παρουσίαση. Το API σάς επιτρέπει να ανοίξετε το κρυπτογραφημένο έγγραφο περνώντας τον σωστό κωδικό πρόσβασης σε ένα αντικείμενο LoadOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: EXCEL FODS XLAM MARKDOWN XLSB XLS SXC XLSX DIF XLT TSV XLTM XLSM M
 Κατά τη μετατροπή του αρχείου POT σε XLTX, μπορείτε επίσης να προσθέσετε υδατογράφημα στη μορφή αρχείου εξόδου XLTX. Για να προσθέσετε ένα υδατογράφημα, μπορείτε να δημιουργήσετε ένα νέο αντικείμενο βιβλίου εργασίας και να ανοίξετε το έγγραφο HTML που έχει μετατραπεί, να επιλέξετε φύλλο εργασίας μέσω του ευρετηρίου του, να δημιουργήσετε ένα σχήμα και να χρησιμοποιήσετε τη λειτουργία AddTextEffect. Μετά από αυτό, μπορείτε να αποθηκεύσετε το έγγραφό σας HTML ως XLTX με το υδατογράφημα. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

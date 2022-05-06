@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı RTF'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan EMAIL'i RTF'ye dönüştürün
-url: /tr/net/conversion/email-to-rtf/
+url_ignore: /tr/net/conversion/email-to-rtf/
 family: total
 platformtag: net
 feature: conversion

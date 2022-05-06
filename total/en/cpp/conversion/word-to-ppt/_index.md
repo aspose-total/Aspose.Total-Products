@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to PPT via C++
 description: Export WORD to PPT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/word-to-ppt/
+url_ignore: /cpp/conversion/word-to-ppt/
 family: total
 platformtag: cpp
 feature: conversion

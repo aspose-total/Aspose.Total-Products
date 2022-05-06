@@ -1,7 +1,7 @@
 ---
 title: Convert PPTX to FODS via C++ 
 description: Export PPTX to FODS in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pptx-to-fods/
+url_ignore: /cpp/conversion/pptx-to-fods/
 family: total
 platformtag: cpp
 feature: conversion

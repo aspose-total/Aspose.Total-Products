@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender TEX ke ODS
 description: Ekspor TEX ke ODS melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/tex-to-ods/
+url_ignore: /id/java/conversion/tex-to-ods/
 family: total
 platformtag: net
 feature: conversion

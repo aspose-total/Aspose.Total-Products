@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก PDF ไปยัง PS
 description: แปลง PDF เป็น PS โดยไม่ต้องใช้ Microsoft Word
-url: /th/net/conversion/pdf-to-ps/
+url_ignore: /th/net/conversion/pdf-to-ps/
 family: total
 platformtag: net
 feature: conversion

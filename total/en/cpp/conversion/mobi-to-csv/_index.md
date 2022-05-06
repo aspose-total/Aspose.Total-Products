@@ -1,7 +1,7 @@
 ---
 title: Convert MOBI to CSV in C++
 description: C++ API to Convert MOBI to CSV without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/mobi-to-csv/
+url_ignore: /cpp/conversion/mobi-to-csv/
 family: total
 platformtag: cpp
 feature: conversion

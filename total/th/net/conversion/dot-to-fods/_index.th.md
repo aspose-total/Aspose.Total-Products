@@ -1,7 +1,7 @@
 ---
 title: .NET API เพื่อแปลง DOT เป็น FODS
 description: C# API เพื่อแปลง DOT เป็น FODS โดยไม่ต้องใช้ Microsoft Excel หรือ Adobe Reader
-url: /th/net/conversion/dot-to-fods/
+url_ignore: /th/net/conversion/dot-to-fods/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ otherformats: DIF XLTM XLSX XLAM EXCEL XLTX ODS XLSB XLT XLS FODS TSV XLSM SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="เพิ่มคุณสมบัติที่กำหนดเองในไฟล์ FODS ผ่าน C#" %}}
 ขณะแปลง DOT เป็น FODS [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) ช่วยให้คุณเพิ่มคุณสมบัติที่กำหนดเองในเอกสาร FODS ได้ ในการเพิ่มคุณสมบัติที่กำหนดเอง คุณสามารถใช้ [เพิ่ม](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index)เมธอดสำหรับ [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection) คลาส วิธีการเพิ่มจะเพิ่มคุณสมบัติลงในไฟล์ Excel และส่งคืนข้อมูลอ้างอิงสำหรับคุณสมบัติเอกสารใหม่เป็น [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /Documentproperty) วัตถุ 
 {{% blocks/products/pf/feature-page-code %}}

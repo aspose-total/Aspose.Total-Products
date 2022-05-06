@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXMLをTSVに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにXMLファイルをTSVに変換するC＃API
-url: /ja/net/conversion/xml-to-tsv/
+url_ignore: /ja/net/conversion/xml-to-tsv/
 family: total
 platformtag: net
 feature: conversion

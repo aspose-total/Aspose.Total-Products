@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to POTM via C++ 
 description: Parse JSON to POTM in C++ without using Microsoft PowerPoint
-url: /cpp/conversion/json-to-potm/
+url_ignore: /cpp/conversion/json-to-potm/
 family: total
 platformtag: cpp
 feature: conversion

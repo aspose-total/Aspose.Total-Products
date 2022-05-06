@@ -1,7 +1,7 @@
 ---
 title: Java API to Render PS to XLT
 description: Export PS to XLT via Java API without using Microsoft Excel or Adobe Reader
-url: /java/conversion/ps-to-xlt/
+url_ignore: /java/conversion/ps-to-xlt/
 family: total
 platformtag: java
 feature: conversion

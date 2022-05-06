@@ -1,7 +1,7 @@
 ---
 title: Export SVG to PPSX in Android 
 description: Android API to Convert SVG to PPSX without using Microsoft Word
-url: /android-java/conversion/svg-to-ppsx/
+url_ignore: /android-java/conversion/svg-to-ppsx/
 family: total
 platformtag: android-java
 feature: conversion

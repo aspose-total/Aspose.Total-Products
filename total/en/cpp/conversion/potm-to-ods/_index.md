@@ -1,7 +1,7 @@
 ---
 title: Convert POTM to ODS via C++ 
 description: Export POTM to ODS in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/potm-to-ods/
+url_ignore: /cpp/conversion/potm-to-ods/
 family: total
 platformtag: cpp
 feature: conversion

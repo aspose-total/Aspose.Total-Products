@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई बीएमपी को ईमेल निर्यात करने के लिए
 description: .NET पर Microsoft Word या Outlook का उपयोग किए बिना EMLX को TIFF में बदलें
-url: /hi/net/conversion/emlx-to-tiff/
+url_ignore: /hi/net/conversion/emlx-to-tiff/
 family: total
 platformtag: net
 feature: conversion

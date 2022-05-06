@@ -1,7 +1,7 @@
 ---
 title: Преобразование FODS в PPTX с помощью .NET 
 description: Преобразование FODS в PPTX на платформах .NET Framework, .NET Core, Mono или Xamarin.
-url: /ru/net/conversion/fods-to-pptx/
+url_ignore: /ru/net/conversion/fods-to-pptx/
 family: total
 platformtag: net
 feature: conversion

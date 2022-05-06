@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга TEX в XLSB
 description: Экспорт TEX в XLSB через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/tex-to-xlsb/
+url_ignore: /ru/java/conversion/tex-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

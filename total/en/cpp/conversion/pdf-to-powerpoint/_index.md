@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PDF to POWERPOINT  
 description: Convert PDF to POWERPOINT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/pdf-to-powerpoint/
+url_ignore: /cpp/conversion/pdf-to-powerpoint/
 family: total
 platformtag: cpp
 feature: conversion

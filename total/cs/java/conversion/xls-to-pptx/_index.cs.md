@@ -1,7 +1,7 @@
 ---
 title: Převeďte XLS na PPTX pomocí Java
 description: Java API pro export XLS do PPTX pomocí Excelu nebo Wordu
-url: /cs/java/conversion/xls-to-pptx/
+url_ignore: /cs/java/conversion/xls-to-pptx/
 family: total
 platformtag: net
 feature: conversion

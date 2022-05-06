@@ -1,7 +1,7 @@
 ---
 title: Konversi ODT ke ODP melalui Java
 description: Java API untuk Mengekspor ODT ke ODP tanpa menggunakan Microsoft Word atau PowerPoint
-url: /id/java/conversion/odt-to-odp/
+url_ignore: /id/java/conversion/odt-to-odp/
 family: total
 platformtag: net
 feature: conversion

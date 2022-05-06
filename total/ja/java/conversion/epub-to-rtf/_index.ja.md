@@ -1,7 +1,7 @@
 ---
 title: EPUBをRTFにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してEPUBをRTFに変換する
-url: /ja/java/conversion/epub-to-rtf/
+url_ignore: /ja/java/conversion/epub-to-rtf/
 family: total
 platformtag: net
 feature: conversion

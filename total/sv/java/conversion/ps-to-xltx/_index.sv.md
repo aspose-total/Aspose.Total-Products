@@ -1,7 +1,7 @@
 ---
 title: Java API för att rendera PS till XLTX
 description: Exportera PS till XLTX via Java API utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/java/conversion/ps-to-xltx/
+url_ignore: /sv/java/conversion/ps-to-xltx/
 family: total
 platformtag: net
 feature: conversion

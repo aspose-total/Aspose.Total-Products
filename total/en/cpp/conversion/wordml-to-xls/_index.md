@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to XLS in C++
 description: C++ API to Convert WORDML to XLS without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/wordml-to-xls/
+url_ignore: /cpp/conversion/wordml-to-xls/
 family: total
 platformtag: cpp
 feature: conversion

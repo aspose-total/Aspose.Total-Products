@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMDをWMZに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでMDをWMZにエクスポートします
-url: /ja/net/conversion/md-to-wmz/
+url_ignore: /ja/net/conversion/md-to-wmz/
 family: total
 platformtag: net
 feature: conversion

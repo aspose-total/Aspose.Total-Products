@@ -1,7 +1,7 @@
 ---
 title: DOT를 DIF로 변환하는 .NET API
 description: Microsoft Excel 또는 Adobe Reader를 사용하지 않고 DOT를 DIF로 변환하는 C# API
-url: /ko/net/conversion/dot-to-dif/
+url_ignore: /ko/net/conversion/dot-to-dif/
 family: total
 platformtag: net
 feature: conversion

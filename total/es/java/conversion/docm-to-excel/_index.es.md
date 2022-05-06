@@ -1,7 +1,7 @@
 ---
 title: API de Java para convertir DOCM a EXCEL
 description: Convierta DOCM a EXCEL a través de Java sin usar Microsoft Word o Microsoft Excel
-url: /es/java/conversion/docm-to-excel/
+url_ignore: /es/java/conversion/docm-to-excel/
 family: total
 platformtag: net
 feature: conversion

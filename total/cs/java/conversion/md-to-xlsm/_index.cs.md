@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení MD do XLSM
 description: Export MD do XLSM přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/md-to-xlsm/
+url_ignore: /cs/java/conversion/md-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

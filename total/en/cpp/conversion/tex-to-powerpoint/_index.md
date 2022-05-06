@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert TEX to POWERPOINT  
 description: Convert TEX to POWERPOINT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/tex-to-powerpoint/
+url_ignore: /cpp/conversion/tex-to-powerpoint/
 family: total
 platformtag: cpp
 feature: conversion

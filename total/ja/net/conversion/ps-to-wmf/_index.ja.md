@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPSをWMFに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでPSをWMFにエクスポートします
-url: /ja/net/conversion/ps-to-wmf/
+url_ignore: /ja/net/conversion/ps-to-wmf/
 family: total
 platformtag: net
 feature: conversion

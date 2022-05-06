@@ -1,7 +1,7 @@
 ---
 title: Преобразование EPUB в TGA через C# API
 description: Экспорт EPUB в TGA в ваших приложениях .NET без использования каких-либо сторонних приложений.
-url: /ru/net/conversion/epub-to-tga/
+url_ignore: /ru/net/conversion/epub-to-tga/
 family: total
 platformtag: net
 feature: conversion

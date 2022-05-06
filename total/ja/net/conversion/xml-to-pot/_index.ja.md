@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXMLをPOTにエクスポートする
 description: MicrosoftWordを使用せずにXMLをPOTに変換する.NETAPI
-url: /ja/net/conversion/xml-to-pot/
+url_ignore: /ja/net/conversion/xml-to-pot/
 family: total
 platformtag: net
 feature: conversion

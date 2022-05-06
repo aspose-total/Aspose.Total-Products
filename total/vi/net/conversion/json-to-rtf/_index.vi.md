@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi định dạng JSON sang RTF qua .NET
 description: Phân tích cú pháp JSON thành RTF trong C# mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/json-to-rtf/
+url_ignore: /vi/net/conversion/json-to-rtf/
 family: total
 platformtag: net
 feature: conversion

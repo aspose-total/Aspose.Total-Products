@@ -1,7 +1,7 @@
 ---
 title: Convert DOTM to SXC in C++
 description: C++ API to Convert DOTM to SXC without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/dotm-to-sxc/
+url_ignore: /cpp/conversion/dotm-to-sxc/
 family: total
 platformtag: cpp
 feature: conversion

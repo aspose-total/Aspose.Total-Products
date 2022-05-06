@@ -1,7 +1,7 @@
 ---
 title: EMLXをDOTMにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMLXをDOTMに変換する
-url: /ja/net/conversion/emlx-to-dotm/
+url_ignore: /ja/net/conversion/emlx-to-dotm/
 family: total
 platformtag: net
 feature: conversion

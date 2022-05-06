@@ -1,7 +1,7 @@
 ---
 title: C#-API zum Exportieren von PS nach OTT
 description: Konvertieren Sie PS in OTT, ohne Microsoft Word zu verwenden
-url: /de/net/conversion/ps-to-ott/
+url_ignore: /de/net/conversion/ps-to-ott/
 family: total
 platformtag: net
 feature: conversion

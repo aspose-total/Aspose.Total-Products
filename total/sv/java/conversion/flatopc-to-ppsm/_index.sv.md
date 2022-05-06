@@ -1,7 +1,7 @@
 ---
 title: Konvertera FLATOPC till PPSM via Java
 description: Java API för att exportera FLATOPC till PPSM utan att använda Microsoft Word eller PowerPoint
-url: /sv/java/conversion/flatopc-to-ppsm/
+url_ignore: /sv/java/conversion/flatopc-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export MHTML to PPS in Android 
 description: Android API to Convert MHTML to PPS without using Microsoft Word
-url: /android-java/conversion/mhtml-to-pps/
+url_ignore: /android-java/conversion/mhtml-to-pps/
 family: total
 platformtag: android-java
 feature: conversion

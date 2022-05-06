@@ -1,7 +1,7 @@
 ---
 title: Convert PPT to SXC via C++ 
 description: Export PPT to SXC in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/ppt-to-sxc/
+url_ignore: /cpp/conversion/ppt-to-sxc/
 family: total
 platformtag: cpp
 feature: conversion

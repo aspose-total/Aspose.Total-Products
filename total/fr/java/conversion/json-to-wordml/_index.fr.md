@@ -1,7 +1,7 @@
 ---
 title: Convertir le format JSON en WORDML via Java
 description: Analyser JSON en WORDML en Java sans utiliser Microsoft Word
-url: /fr/java/conversion/json-to-wordml/
+url_ignore: /fr/java/conversion/json-to-wordml/
 family: total
 platformtag: net
 feature: conversion
@@ -12,7 +12,7 @@ otherformats: FLATOPC PS RTF DOC MOBI WORDML DOCM DOT PCL DOTX EPUB OTT WORD ODT
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Convertir le format JSON en WORDML via Java" h2="API Java sur site pour analyser JSON vers WORDML sans utiliser Microsoft<sup>&reg;</sup> Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour Java](https://products.aspose.com/total/java/), vous pouvez convertir JSON en WORDML dans vos applications Java en deux étapes. Tout d'abord, en utilisant [Aspose.Cells for Java](https://products.aspose.com/cells/java/), vous pouvez analyser JSON en PDF. Dans la deuxième étape, vous pouvez convertir un PDF en WORDML en utilisant l'API de traitement de texte [Aspose.Words pour Java](https://products.aspose.com/words/java/).
+En utilisant [Aspose.Total for Java](https://products.aspose.com/total/java/), vous pouvez convertir JSON en WORDML dans vos applications Java en deux étapes. Tout d'abord, en utilisant [Aspose.Cells for Java](https://products.aspose.com/cells/java/), vous pouvez analyser JSON en PDF. Dans la deuxième étape, vous pouvez convertir un PDF en WORDML en utilisant l'API de traitement de texte [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convertir le format JSON en WORDML via Java" %}}

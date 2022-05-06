@@ -1,7 +1,7 @@
 ---
 title: Convierta el formato JSON a PCL a través de .NET
 description: Analice JSON a PCL en C# sin usar Microsoft Word
-url: /es/net/conversion/json-to-pcl/
+url_ignore: /es/net/conversion/json-to-pcl/
 family: total
 platformtag: net
 feature: conversion

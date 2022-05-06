@@ -1,7 +1,7 @@
 ---
 title: แปลง PPTM เป็น XLSM ผ่าน C#
 description: แปลง PPTM เป็น XLSM ใน C# โดยไม่ต้องใช้ Microsoft Excel หรือ Powerpoint
-url: /th/net/conversion/pptm-to-xlsm/
+url_ignore: /th/net/conversion/pptm-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تحويل POT إلى تنسيق JSON عبر Java
 description: قم بتحويل تنسيق POT إلى JSON عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/pot-to-json/
+url_ignore: /ar/java/conversion/pot-to-json/
 family: total
 platformtag: net
 feature: conversion

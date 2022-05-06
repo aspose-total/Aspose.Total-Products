@@ -1,7 +1,7 @@
 ---
 title: Convertir EPUB en IMAGE via Java
 description: Exportez le fichier EPUB vers IMAGE dans vos applications Java sans utiliser d'application tierce
-url: /fr/java/conversion/epub-to-image/
+url_ignore: /fr/java/conversion/epub-to-image/
 family: total
 platformtag: net
 feature: conversion

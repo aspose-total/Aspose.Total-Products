@@ -1,7 +1,7 @@
 ---
 title: EMAIL'i Java aracılığıyla IMAGE'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan EMAIL'i IMAGE'ye Dönüştürmek için Java API
-url: /tr/java/conversion/email-to-image/
+url_ignore: /tr/java/conversion/email-to-image/
 family: total
 platformtag: net
 feature: conversion

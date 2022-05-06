@@ -1,7 +1,7 @@
 ---
 title: Convertir le format JSON en PPT via .NET
 description: Analyser JSON en PPT en C# sans utiliser Microsoft PowerPoint
-url: /fr/net/conversion/json-to-ppt/
+url_ignore: /fr/net/conversion/json-to-ppt/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: PPSM POT POTM PPS OTP POWERPOINT PPTM PPT PPSX POTX
 {{< blocks/products/pf/i18n/feature-page-header h1="Convertir le format JSON en PPT via C#" h2="API C# pour analyser JSON vers PPT sans utiliser Microsoft<sup>&reg;</sup> PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Vous pouvez convertir JSON en PPT dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.Cells pour .NET](https://products.aspose.com/cells/net/), vous pouvez analyser JSON en PPTX. Après cela, en utilisant [Aspose.Slides pour .NET](https://products.aspose.com/slides/net/), vous pouvez convertir PPTX en PPT. Les deux API relèvent du package [Aspose.Total pour .NET](https://products.aspose.com/total/net/).
+Vous pouvez convertir JSON en PPT dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), vous pouvez analyser JSON en PPTX. Après cela, en utilisant [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), vous pouvez convertir PPTX en PPT. Les deux API relèvent du package [Aspose.Total for .NET](https://products.aspose.com/total/net/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -1,7 +1,7 @@
 ---
 title: Converti MHTML in WMF tramite API C#
 description: Esporta MHTML in WMF nelle tue applicazioni .NET senza utilizzare applicazioni di terze parti
-url: /it/net/conversion/mhtml-to-wmf/
+url_ignore: /it/net/conversion/mhtml-to-wmf/
 family: total
 platformtag: net
 feature: conversion

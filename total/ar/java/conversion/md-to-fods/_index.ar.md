@@ -1,7 +1,7 @@
 ---
 title: Java API لتقديم MD إلى FODS
 description: قم بتصدير MD إلى FODS عبر Java API دون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/java/conversion/md-to-fods/
+url_ignore: /ar/java/conversion/md-to-fods/
 family: total
 platformtag: net
 feature: conversion

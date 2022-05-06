@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก TEX ไปยัง XAMLFLOW
 description: แปลง TEX เป็น XAMLFLOW โดยไม่ต้องใช้ Microsoft Word
-url: /th/net/conversion/tex-to-xamlflow/
+url_ignore: /th/net/conversion/tex-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

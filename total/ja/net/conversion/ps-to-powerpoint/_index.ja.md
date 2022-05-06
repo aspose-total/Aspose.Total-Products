@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPSをPOWERPOINTにエクスポートする
 description: MicrosoftWordを使用せずにPSをPOWERPOINTに変換する.NETAPI
-url: /ja/net/conversion/ps-to-powerpoint/
+url_ignore: /ja/net/conversion/ps-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

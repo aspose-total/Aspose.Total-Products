@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PDF to POTM  
 description: Convert PDF to POTM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/pdf-to-potm/
+url_ignore: /cpp/conversion/pdf-to-potm/
 family: total
 platformtag: cpp
 feature: conversion

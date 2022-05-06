@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PS to MD
 description: Convert PS to MD via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/ps-to-md/
+url_ignore: /cpp/conversion/ps-to-md/
 family: total
 platformtag: cpp
 feature: conversion

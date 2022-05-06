@@ -1,7 +1,7 @@
 ---
 title: Convert DOC to XLT via Java
 description: Convert DOC to XLT via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/doc-to-xlt/
+url_ignore: /java/conversion/doc-to-xlt/
 family: total
 platformtag: java
 feature: conversion

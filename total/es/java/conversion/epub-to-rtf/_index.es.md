@@ -1,7 +1,7 @@
 ---
 title: API de Java para exportar EPUB a RTF
 description: Convierta EPUB a RTF usando la API de Java en las instalaciones
-url: /es/java/conversion/epub-to-rtf/
+url_ignore: /es/java/conversion/epub-to-rtf/
 family: total
 platformtag: net
 feature: conversion

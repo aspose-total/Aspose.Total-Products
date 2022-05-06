@@ -1,7 +1,7 @@
 ---
 title: Converter TSV para WORD usando Java
 description: API Java para exportar TSV para WORD usando Excel ou Word
-url: /pt/java/conversion/tsv-to-word/
+url_ignore: /pt/java/conversion/tsv-to-word/
 family: total
 platformtag: net
 feature: conversion

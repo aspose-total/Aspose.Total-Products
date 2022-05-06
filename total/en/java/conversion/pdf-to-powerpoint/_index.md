@@ -1,7 +1,7 @@
 ---
 title: Convert PDF to POWERPOINT via Java API
 description: Java API to Convert PDF to POWERPOINT without using Microsoft Word
-url: /java/conversion/pdf-to-powerpoint/
+url_ignore: /java/conversion/pdf-to-powerpoint/
 family: total
 platformtag: java
 feature: conversion

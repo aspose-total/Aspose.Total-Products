@@ -1,7 +1,7 @@
 ---
 title: Export XPS to ODP in Android 
 description: Android API to Convert XPS to ODP without using Microsoft Word
-url: /android-java/conversion/xps-to-odp/
+url_ignore: /android-java/conversion/xps-to-odp/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: MSGをXPSにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにMSGをXPSに変換する
-url: /ja/net/conversion/msg-to-xps/
+url_ignore: /ja/net/conversion/msg-to-xps/
 family: total
 platformtag: net
 feature: conversion

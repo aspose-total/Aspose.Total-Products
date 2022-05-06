@@ -1,7 +1,7 @@
 ---
 title: Export EMLX to SVG via C++
 description: C++ API to Convert EMLX to SVG without using Microsoft Word or Outlook
-url: /cpp/conversion/emlx-to-svg/
+url_ignore: /cpp/conversion/emlx-to-svg/
 family: total
 platformtag: cpp
 feature: conversion

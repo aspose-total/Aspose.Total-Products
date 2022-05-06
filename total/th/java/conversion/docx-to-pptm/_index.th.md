@@ -1,7 +1,7 @@
 ---
 title: แปลง DOCX เป็น PPTM ผ่าน Java
 description: Java API เพื่อส่งออก DOCX ไปยัง PPTM โดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint
-url: /th/java/conversion/docx-to-pptm/
+url_ignore: /th/java/conversion/docx-to-pptm/
 family: total
 platformtag: net
 feature: conversion

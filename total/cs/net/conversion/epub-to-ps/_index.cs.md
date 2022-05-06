@@ -1,7 +1,7 @@
 ---
 title: C# API pro export EPUB do PS
 description: Převeďte EPUB na PS bez použití aplikace Microsoft Word
-url: /cs/net/conversion/epub-to-ps/
+url_ignore: /cs/net/conversion/epub-to-ps/
 family: total
 platformtag: net
 feature: conversion

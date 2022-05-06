@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to ODP via Java
 description: Java API to Export WORDML to ODP without using Microsoft Word or PowerPoint
-url: /java/conversion/wordml-to-odp/
+url_ignore: /java/conversion/wordml-to-odp/
 family: total
 platformtag: java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert PPTM to CSV via C++ 
 description: Export PPTM to CSV in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pptm-to-csv/
+url_ignore: /cpp/conversion/pptm-to-csv/
 family: total
 platformtag: cpp
 feature: conversion

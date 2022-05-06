@@ -1,7 +1,7 @@
 ---
 title: Java API για μετατροπή WORD σε XLSM
 description: Μετατροπή WORD σε XLSM μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel
-url: /el/java/conversion/word-to-xlsm/
+url_ignore: /el/java/conversion/word-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

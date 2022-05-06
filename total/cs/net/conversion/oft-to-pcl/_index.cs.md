@@ -1,7 +1,7 @@
 ---
 title: C# API pro export OFT do PCL
 description: Převeďte OFT na PCL bez použití Microsoft Word nebo Outlook na .NET
-url: /cs/net/conversion/oft-to-pcl/
+url_ignore: /cs/net/conversion/oft-to-pcl/
 family: total
 platformtag: net
 feature: conversion

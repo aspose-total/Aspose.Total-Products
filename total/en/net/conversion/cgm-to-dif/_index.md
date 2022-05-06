@@ -1,7 +1,7 @@
 ---
 title: Convert CGM to DIF via C# API
 description: C# API to Convert CGM File to DIF without using Microsoft Excel or Adobe Reader
-url: /net/conversion/cgm-to-dif/
+url_ignore: /net/conversion/cgm-to-dif/
 family: total
 platformtag: net
 feature: conversion

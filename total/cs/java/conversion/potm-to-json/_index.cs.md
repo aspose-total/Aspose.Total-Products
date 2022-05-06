@@ -1,7 +1,7 @@
 ---
 title: Převeďte POTM na formát JSON přes Java
 description: Převeďte POTM do formátu JSON přes Java bez použití Microsoft Excel nebo PowerPoint
-url: /cs/java/conversion/potm-to-json/
+url_ignore: /cs/java/conversion/potm-to-json/
 family: total
 platformtag: net
 feature: conversion

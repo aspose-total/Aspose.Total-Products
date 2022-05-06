@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMHTMLをEXCELに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにMHTMLファイルをEXCELに変換するC＃API
-url: /ja/net/conversion/mhtml-to-excel/
+url_ignore: /ja/net/conversion/mhtml-to-excel/
 family: total
 platformtag: net
 feature: conversion

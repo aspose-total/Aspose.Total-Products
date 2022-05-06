@@ -1,7 +1,7 @@
 ---
 title: Ekspor EML ke EMF melalui Java
 description: Java API untuk Mengonversi EML ke EMF tanpa menggunakan Microsoft Word atau Outlook
-url: /id/java/conversion/eml-to-emf/
+url_ignore: /id/java/conversion/eml-to-emf/
 family: total
 platformtag: net
 feature: conversion

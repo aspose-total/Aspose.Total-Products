@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта CGM в PCL
 description: Преобразование CGM в PCL без использования Microsoft Word
-url: /ru/net/conversion/cgm-to-pcl/
+url_ignore: /ru/net/conversion/cgm-to-pcl/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert CGM to POWERPOINT  
 description: Convert CGM to POWERPOINT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/cgm-to-powerpoint/
+url_ignore: /cpp/conversion/cgm-to-powerpoint/
 family: total
 platformtag: cpp
 feature: conversion

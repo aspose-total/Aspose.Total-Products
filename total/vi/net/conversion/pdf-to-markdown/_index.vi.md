@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất PDF sang MARKDOWN
 description: Chuyển đổi PDF sang MARKDOWN mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/pdf-to-markdown/
+url_ignore: /vi/net/conversion/pdf-to-markdown/
 family: total
 platformtag: net
 feature: conversion

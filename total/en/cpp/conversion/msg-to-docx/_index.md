@@ -1,7 +1,7 @@
 ---
 title: Export MSG to DOCX via C++
 description: C++ API to Convert MSG to DOCX without using Microsoft Word or Outlook
-url: /cpp/conversion/msg-to-docx/
+url_ignore: /cpp/conversion/msg-to-docx/
 family: total
 platformtag: cpp
 feature: conversion

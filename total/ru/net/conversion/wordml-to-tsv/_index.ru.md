@@ -1,7 +1,7 @@
 ---
 title: .NET API для преобразования WORDML в TSV
 description: C# API для преобразования WORDML в TSV без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/wordml-to-tsv/
+url_ignore: /ru/net/conversion/wordml-to-tsv/
 family: total
 platformtag: net
 feature: conversion

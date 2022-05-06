@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla PS'yi EMZ'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan PS'yi .NET uygulamalarınızda EMZ'ye aktarın
-url: /tr/net/conversion/ps-to-emz/
+url_ignore: /tr/net/conversion/ps-to-emz/
 family: total
 platformtag: net
 feature: conversion

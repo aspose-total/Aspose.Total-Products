@@ -1,7 +1,7 @@
 ---
 title: WORDをSXCに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにWORDをSXCに変換するC＃API
-url: /ja/net/conversion/word-to-sxc/
+url_ignore: /ja/net/conversion/word-to-sxc/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converter PPTM para DOT via Java
 description: API Java para exportar PPTM para DOT sem usar o Microsoft Word ou PowerPoint
-url: /pt/java/conversion/pptm-to-dot/
+url_ignore: /pt/java/conversion/pptm-to-dot/
 family: total
 platformtag: net
 feature: conversion

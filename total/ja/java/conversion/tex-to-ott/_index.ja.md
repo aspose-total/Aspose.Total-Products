@@ -1,7 +1,7 @@
 ---
 title: TEXをOTTにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してTEXをOTTに変換する
-url: /ja/java/conversion/tex-to-ott/
+url_ignore: /ja/java/conversion/tex-to-ott/
 family: total
 platformtag: net
 feature: conversion

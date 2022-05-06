@@ -1,7 +1,7 @@
 ---
 title: Convert ODT to CSV in C++
 description: C++ API to Convert ODT to CSV without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/odt-to-csv/
+url_ignore: /cpp/conversion/odt-to-csv/
 family: total
 platformtag: cpp
 feature: conversion

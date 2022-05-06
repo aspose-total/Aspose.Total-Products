@@ -1,7 +1,7 @@
 ---
 title: Convert PPS to DIF Format via Java
 description: Convert PPS to DIF format via Java without using using Microsoft Excel or PowerPoint
-url: /java/conversion/pps-to-dif/
+url_ignore: /java/conversion/pps-to-dif/
 family: total
 platformtag: java
 feature: conversion

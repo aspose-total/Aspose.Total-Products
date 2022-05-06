@@ -1,7 +1,7 @@
 ---
 title: Java API لتقديم PS إلى SXC
 description: قم بتصدير PS إلى SXC عبر Java API دون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/java/conversion/ps-to-sxc/
+url_ignore: /ar/java/conversion/ps-to-sxc/
 family: total
 platformtag: net
 feature: conversion

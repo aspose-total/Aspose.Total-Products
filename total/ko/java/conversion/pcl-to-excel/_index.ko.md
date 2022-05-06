@@ -1,7 +1,7 @@
 ---
 title: PCL을 EXCEL로 렌더링하는 Java API
 description: Microsoft Excel 또는 Adobe Reader를 사용하지 않고 Java API를 통해 PCL을 EXCEL로 내보내기
-url: /ko/java/conversion/pcl-to-excel/
+url_ignore: /ko/java/conversion/pcl-to-excel/
 family: total
 platformtag: net
 feature: conversion
@@ -19,7 +19,7 @@ otherformats: XLSB SXC XLT EXCEL TXT ODS TSV XLAM FODS XLTM MD XLTX
 1. [문서](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) 클래스를 사용하여 PCL 파일을 엽니다.
 2. [저장](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) 방법
 3. [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) 클래스를 사용하여 XLSX 문서 로드
-4. [저장](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells)을 사용하여 문서를 EXCEL 형식으로 저장합니다. SaveOptions)) 메서드
+4. [저장](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells))을 사용하여 문서를 EXCEL 형식으로 저장합니다. SaveOptions)) 메서드
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) 기반 프로젝트에서 직접 Java용 Aspose.Total을 쉽게 사용할 수 있습니다. [Java용 Aspose.PDF](https://docs.aspose.com/pdf/java/installation/) 및 [Java용 Aspose.Cells](https://docs.aspose.com/cells/java/ 포함) 설치/) pom.xml에 있습니다.

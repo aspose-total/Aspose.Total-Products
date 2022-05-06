@@ -1,7 +1,7 @@
 ---
 title: Export TEX to POTM in Android 
 description: Android API to Convert TEX to POTM without using Microsoft Word
-url: /android-java/conversion/tex-to-potm/
+url_ignore: /android-java/conversion/tex-to-potm/
 family: total
 platformtag: android-java
 feature: conversion

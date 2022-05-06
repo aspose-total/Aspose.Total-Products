@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई बीएमपी को ईमेल निर्यात करने के लिए
 description: .NET पर Microsoft Word या Outlook का उपयोग किए बिना EML को DOT में बदलें
-url: /hi/net/conversion/eml-to-dot/
+url_ignore: /hi/net/conversion/eml-to-dot/
 family: total
 platformtag: net
 feature: conversion

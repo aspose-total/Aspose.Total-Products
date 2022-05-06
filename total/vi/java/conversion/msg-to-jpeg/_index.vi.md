@@ -1,7 +1,7 @@
 ---
 title: Xuất MSG sang JPEG qua Java
 description: Java API để chuyển đổi MSG thành JPEG mà không cần sử dụng Microsoft Word hoặc Outlook
-url: /vi/java/conversion/msg-to-jpeg/
+url_ignore: /vi/java/conversion/msg-to-jpeg/
 family: total
 platformtag: net
 feature: conversion

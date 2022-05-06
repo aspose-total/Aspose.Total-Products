@@ -1,7 +1,7 @@
 ---
 title: Konversi MHTML ke APNG melalui Java
 description: Ekspor file MHTML ke APNG di aplikasi Java Anda tanpa menggunakan aplikasi pihak ketiga
-url: /id/java/conversion/mhtml-to-apng/
+url_ignore: /id/java/conversion/mhtml-to-apng/
 family: total
 platformtag: net
 feature: conversion

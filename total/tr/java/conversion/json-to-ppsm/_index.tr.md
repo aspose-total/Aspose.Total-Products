@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını Java ile PPSM'ye Dönüştür
 description: Microsoft PowerPoint kullanmadan Java'da JSON'u PPSM'ye ayrıştırın
-url: /tr/java/conversion/json-to-ppsm/
+url_ignore: /tr/java/conversion/json-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

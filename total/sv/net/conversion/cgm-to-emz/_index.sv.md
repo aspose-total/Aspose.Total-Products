@@ -1,7 +1,7 @@
 ---
 title: Konvertera CGM till EMZ via C# API
 description: Exportera CGM till EMZ i dina .NET-applikationer utan att använda någon tredjepartsapplikation
-url: /sv/net/conversion/cgm-to-emz/
+url_ignore: /sv/net/conversion/cgm-to-emz/
 family: total
 platformtag: net
 feature: conversion

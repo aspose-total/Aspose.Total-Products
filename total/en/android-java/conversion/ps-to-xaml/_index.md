@@ -1,7 +1,7 @@
 ---
 title: Export PS to XAML in Android 
 description: Android API to Convert PS to XAML without using Microsoft Word
-url: /android-java/conversion/ps-to-xaml/
+url_ignore: /android-java/conversion/ps-to-xaml/
 family: total
 platformtag: android-java
 feature: conversion

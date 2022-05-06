@@ -1,7 +1,7 @@
 ---
 title: Export MD to XAML in Android 
 description: Android API to Convert MD to XAML without using Microsoft Word
-url: /android-java/conversion/md-to-xaml/
+url_ignore: /android-java/conversion/md-to-xaml/
 family: total
 platformtag: android-java
 feature: conversion

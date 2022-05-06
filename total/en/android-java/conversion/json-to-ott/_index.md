@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to OTT in Android via Java 
 description: Parse JSON to OTT in Java without using Microsoft Word
-url: /android-java/conversion/json-to-ott/
+url_ignore: /android-java/conversion/json-to-ott/
 family: total
 platformtag: android-java
 feature: conversion

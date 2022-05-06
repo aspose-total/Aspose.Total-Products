@@ -1,7 +1,7 @@
 ---
 title: C# API om OFT naar DOTX te exporteren
 description: Converteer OFT naar DOTX zonder Microsoft Word of Outlook te gebruiken op .NET
-url: /nl/net/conversion/oft-to-dotx/
+url_ignore: /nl/net/conversion/oft-to-dotx/
 family: total
 platformtag: net
 feature: conversion

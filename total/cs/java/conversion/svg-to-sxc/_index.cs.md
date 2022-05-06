@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení SVG do SXC
 description: Export SVG do SXC přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/svg-to-sxc/
+url_ignore: /cs/java/conversion/svg-to-sxc/
 family: total
 platformtag: net
 feature: conversion

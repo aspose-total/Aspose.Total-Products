@@ -1,7 +1,7 @@
 ---
 title: Xuất XSLFO sang PPT qua C# API
 description: .NET API để chuyển đổi XSLFO sang PPT mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/xslfo-to-ppt/
+url_ignore: /vi/net/conversion/xslfo-to-ppt/
 family: total
 platformtag: net
 feature: conversion

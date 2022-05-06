@@ -1,7 +1,7 @@
 ---
 title: PCL'yi DOCM'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan PCL'yi DOCM'ye dönüştürün
-url: /tr/net/conversion/pcl-to-docm/
+url_ignore: /tr/net/conversion/pcl-to-docm/
 family: total
 platformtag: net
 feature: conversion

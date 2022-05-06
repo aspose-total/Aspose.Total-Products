@@ -1,7 +1,7 @@
 ---
 title: Převeďte XPS na PPSX přes Java API
 description: Java API pro převod XPS na PPSX bez použití aplikace Microsoft Word
-url: /cs/java/conversion/xps-to-ppsx/
+url_ignore: /cs/java/conversion/xps-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

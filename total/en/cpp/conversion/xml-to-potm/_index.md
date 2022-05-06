@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XML to POTM  
 description: Convert XML to POTM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xml-to-potm/
+url_ignore: /cpp/conversion/xml-to-potm/
 family: total
 platformtag: cpp
 feature: conversion

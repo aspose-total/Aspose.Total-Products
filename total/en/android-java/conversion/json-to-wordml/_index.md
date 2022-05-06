@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to WORDML in Android via Java 
 description: Parse JSON to WORDML in Java without using Microsoft Word
-url: /android-java/conversion/json-to-wordml/
+url_ignore: /android-java/conversion/json-to-wordml/
 family: total
 platformtag: android-java
 feature: conversion

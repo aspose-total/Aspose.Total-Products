@@ -1,7 +1,7 @@
 ---
 title: जावा एपीआई सीजीएम को डीओसीएम में निर्यात करने के लिए
 description: ऑन-प्रिमाइसेस जावा एपीआई का उपयोग करके सीजीएम को डीओसीएम में बदलें
-url: /hi/java/conversion/pdf-to-rtf/
+url_ignore: /hi/java/conversion/pdf-to-rtf/
 family: total
 platformtag: net
 feature: conversion

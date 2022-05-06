@@ -1,7 +1,7 @@
 ---
 title: Convierta ODT a POTX a través de Java
 description: API de Java para exportar ODT a POTX sin usar Microsoft Word o PowerPoint
-url: /es/java/conversion/odt-to-potx/
+url_ignore: /es/java/conversion/odt-to-potx/
 family: total
 platformtag: net
 feature: conversion

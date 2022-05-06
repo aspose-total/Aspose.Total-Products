@@ -1,7 +1,7 @@
 ---
 title: Java API för att exportera MHTML till DOTX
 description: Konvertera MHTML till DOTX med hjälp av det lokala Java API
-url: /sv/java/conversion/mhtml-to-dotx/
+url_ignore: /sv/java/conversion/mhtml-to-dotx/
 family: total
 platformtag: net
 feature: conversion

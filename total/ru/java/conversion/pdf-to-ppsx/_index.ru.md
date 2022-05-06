@@ -1,7 +1,7 @@
 ---
 title: Преобразование PDF в PPSX через Java API
 description: Java API для преобразования PDF в PPSX без использования Microsoft Word
-url: /ru/java/conversion/pdf-to-ppsx/
+url_ignore: /ru/java/conversion/pdf-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

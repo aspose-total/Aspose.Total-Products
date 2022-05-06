@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to ODT via .NET 
 description: Parse JSON to ODT in C# without using Microsoft Word
-url: /net/conversion/json-to-odt/
+url_ignore: /net/conversion/json-to-odt/
 family: total
 platformtag: net
 feature: conversion

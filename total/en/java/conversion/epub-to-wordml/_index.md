@@ -1,7 +1,7 @@
 ---
 title: Java API to Export EPUB to WORDML
 description: Convert EPUB to WORDML using on premise Java API
-url: /java/conversion/epub-to-wordml/
+url_ignore: /java/conversion/epub-to-wordml/
 family: total
 platformtag: java
 feature: conversion

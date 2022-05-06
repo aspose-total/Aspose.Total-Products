@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất MHTML sang MARKDOWN
 description: Chuyển đổi MHTML sang MARKDOWN mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/mhtml-to-markdown/
+url_ignore: /vi/net/conversion/mhtml-to-markdown/
 family: total
 platformtag: net
 feature: conversion

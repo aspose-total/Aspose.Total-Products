@@ -1,7 +1,7 @@
 ---
 title: MOBIをXLAMに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにMOBIをXLAMに変換するC＃API
-url: /ja/net/conversion/mobi-to-xlam/
+url_ignore: /ja/net/conversion/mobi-to-xlam/
 family: total
 platformtag: net
 feature: conversion

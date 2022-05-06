@@ -1,6 +1,6 @@
 ---
 title: Convert PPSX to DOCM via C# .NET 
-url: /net/conversion/ppsx-to-docm/ 
+url_ignore: /net/conversion/ppsx-to-docm/ 
 description: Convert PowerPoint ppsx documents to Word docm files with C#. Convert multiple files within ASP.NET or other .NET applications.
 ---
 

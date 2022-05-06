@@ -1,7 +1,7 @@
 ---
 title: NET API لتحويل DOCX إلى XLTM
 description: C# API لتحويل DOCX إلى XLTM بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/docx-to-xltm/
+url_ignore: /ar/net/conversion/docx-to-xltm/
 family: total
 platformtag: net
 feature: conversion

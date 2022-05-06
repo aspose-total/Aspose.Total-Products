@@ -1,7 +1,7 @@
 ---
 title: POWERPOINT'u C# ile MARKDOWN'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan POWERPOINT'u C#'ta MARKDOWN'ye dönüştürün
-url: /tr/net/conversion/powerpoint-to-markdown/
+url_ignore: /tr/net/conversion/powerpoint-to-markdown/
 family: total
 platformtag: net
 feature: conversion

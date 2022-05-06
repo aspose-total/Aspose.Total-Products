@@ -1,7 +1,7 @@
 ---
 title: PDFをWORDMLにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにPDFをWORDMLに変換する
-url: /ja/net/conversion/pdf-to-wordml/
+url_ignore: /ja/net/conversion/pdf-to-wordml/
 family: total
 platformtag: net
 feature: conversion

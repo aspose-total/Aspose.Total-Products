@@ -1,7 +1,7 @@
 ---
 title: Java API do renderowania TEX do XLT
 description: Eksportuj TEX do XLT przez Java API bez użycia Microsoft Excel lub Adobe Reader
-url: /pl/java/conversion/tex-to-xlt/
+url_ignore: /pl/java/conversion/tex-to-xlt/
 family: total
 platformtag: net
 feature: conversion

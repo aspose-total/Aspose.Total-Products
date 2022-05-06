@@ -1,7 +1,7 @@
 ---
 title: Konwertuj SVG na POT za pomocą Java API
 description: Java API do konwersji SVG na POT bez użycia Microsoft Word
-url: /pl/java/conversion/svg-to-pot/
+url_ignore: /pl/java/conversion/svg-to-pot/
 family: total
 platformtag: net
 feature: conversion

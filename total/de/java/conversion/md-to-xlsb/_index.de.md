@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Rendern von MD in XLSB
 description: Exportieren Sie MD über die Java-API in XLSB, ohne Microsoft Excel oder Adobe Reader zu verwenden
-url: /de/java/conversion/md-to-xlsb/
+url_ignore: /de/java/conversion/md-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير البريد الإلكتروني إلى FLATOPC
 description: قم بتحويل OFT إلى FLATOPC دون استخدام Microsoft Word أو Outlook على .NET
-url: /ar/net/conversion/oft-to-flatopc/
+url_ignore: /ar/net/conversion/oft-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

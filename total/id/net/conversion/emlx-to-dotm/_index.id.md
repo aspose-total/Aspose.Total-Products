@@ -1,7 +1,7 @@
 ---
 title: C# API untuk Mengekspor EMLX ke DOTM
 description: Konversi EMLX ke DOTM tanpa menggunakan Microsoft Word atau Outlook di .NET
-url: /id/net/conversion/emlx-to-dotm/
+url_ignore: /id/net/conversion/emlx-to-dotm/
 family: total
 platformtag: net
 feature: conversion

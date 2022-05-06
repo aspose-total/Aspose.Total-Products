@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PS to XLTM
 description: Convert PS to XLTM via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/ps-to-xltm/
+url_ignore: /cpp/conversion/ps-to-xltm/
 family: total
 platformtag: cpp
 feature: conversion

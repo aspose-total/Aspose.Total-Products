@@ -1,7 +1,7 @@
 ---
 title: Converter POT para TSV via C#
 description: Converter POT para TSV em C# sem usar o Microsoft Excel ou Powerpoint
-url: /pt/net/conversion/pot-to-tsv/
+url_ignore: /pt/net/conversion/pot-to-tsv/
 family: total
 platformtag: net
 feature: conversion

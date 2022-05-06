@@ -1,7 +1,7 @@
 ---
 title: Export CGM do POWERPOINT přes C# API
 description: .NET API pro převod CGM na POWERPOINT bez použití aplikace Microsoft Word
-url: /cs/net/conversion/cgm-to-powerpoint/
+url_ignore: /cs/net/conversion/cgm-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

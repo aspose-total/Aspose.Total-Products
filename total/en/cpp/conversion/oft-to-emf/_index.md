@@ -1,7 +1,7 @@
 ---
 title: Export OFT to EMF via C++
 description: C++ API to Convert OFT to EMF without using Microsoft Word or Outlook
-url: /cpp/conversion/oft-to-emf/
+url_ignore: /cpp/conversion/oft-to-emf/
 family: total
 platformtag: cpp
 feature: conversion

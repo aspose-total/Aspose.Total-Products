@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất EMLX sang PDF
 description: Chuyển đổi EMLX thành PDF mà không cần sử dụng Microsoft Word hoặc Outlook trên .NET
-url: /vi/net/conversion/emlx-to-pdf/
+url_ignore: /vi/net/conversion/emlx-to-pdf/
 family: total
 platformtag: net
 feature: conversion

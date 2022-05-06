@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга XML в ODS
 description: Экспорт XML в ODS через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/xml-to-ods/
+url_ignore: /ru/java/conversion/xml-to-ods/
 family: total
 platformtag: net
 feature: conversion

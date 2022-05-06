@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla PS'yi EMZ'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan PS dosyasını Java uygulamalarınızda EMZ'ye aktarın
-url: /tr/java/conversion/ps-to-emz/
+url_ignore: /tr/java/conversion/ps-to-emz/
 family: total
 platformtag: net
 feature: conversion

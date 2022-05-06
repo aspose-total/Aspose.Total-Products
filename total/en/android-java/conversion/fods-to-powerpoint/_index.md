@@ -1,7 +1,7 @@
 ---
 title: Export FODS to POWERPOINT in Android 
 description: Android API to Convert FODS to POWERPOINT without using Microsoft Word
-url: /android-java/conversion/fods-to-powerpoint/
+url_ignore: /android-java/conversion/fods-to-powerpoint/
 family: total
 platformtag: android-java
 feature: conversion

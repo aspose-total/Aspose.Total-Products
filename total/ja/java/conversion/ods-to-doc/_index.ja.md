@@ -1,7 +1,7 @@
 ---
 title: Javaを使用してODSをDOCに変換する
 description: ExcelまたはWordを使用してODSをDOCにエクスポートするJavaAPI
-url: /ja/java/conversion/ods-to-doc/
+url_ignore: /ja/java/conversion/ods-to-doc/
 family: total
 platformtag: net
 feature: conversion

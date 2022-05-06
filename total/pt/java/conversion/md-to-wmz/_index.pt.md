@@ -1,7 +1,7 @@
 ---
 title: Converter MD para WMZ via Java
 description: Exporte o arquivo MD para WMZ em seus aplicativos Java sem usar nenhum aplicativo de terceiros
-url: /pt/java/conversion/md-to-wmz/
+url_ignore: /pt/java/conversion/md-to-wmz/
 family: total
 platformtag: net
 feature: conversion

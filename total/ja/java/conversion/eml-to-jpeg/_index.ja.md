@@ -1,7 +1,7 @@
 ---
 title: Java経由でEMLをJPEGにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにEMLをJPEGに変換するJavaAPI
-url: /ja/java/conversion/eml-to-jpeg/
+url_ignore: /ja/java/conversion/eml-to-jpeg/
 family: total
 platformtag: net
 feature: conversion

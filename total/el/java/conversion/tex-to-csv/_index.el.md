@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση TEX σε CSV
 description: Εξαγωγή TEX σε CSV μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/tex-to-csv/
+url_ignore: /el/java/conversion/tex-to-csv/
 family: total
 platformtag: net
 feature: conversion

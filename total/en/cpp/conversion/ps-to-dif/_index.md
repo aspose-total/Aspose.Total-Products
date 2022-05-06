@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PS to DIF
 description: Convert PS to DIF via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/ps-to-dif/
+url_ignore: /cpp/conversion/ps-to-dif/
 family: total
 platformtag: cpp
 feature: conversion

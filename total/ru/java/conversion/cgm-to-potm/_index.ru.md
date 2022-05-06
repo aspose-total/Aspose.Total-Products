@@ -1,7 +1,7 @@
 ---
 title: Преобразование CGM в POTM через Java API
 description: Java API для преобразования CGM в POTM без использования Microsoft Word
-url: /ru/java/conversion/cgm-to-potm/
+url_ignore: /ru/java/conversion/cgm-to-potm/
 family: total
 platformtag: net
 feature: conversion

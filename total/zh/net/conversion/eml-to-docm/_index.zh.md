@@ -1,7 +1,7 @@
 ---
 title: 将 EML 导出为 DOCM 的 C# API
 description: 在 .NET 上不使用 Microsoft Word 或 Outlook 将 EML 转换为 DOCM
-url: /zh/net/conversion/eml-to-docm/
+url_ignore: /zh/net/conversion/eml-to-docm/
 family: total
 platformtag: net
 feature: conversion

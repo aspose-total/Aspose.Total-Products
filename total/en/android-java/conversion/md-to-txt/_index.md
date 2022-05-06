@@ -1,7 +1,7 @@
 ---
 title: Convert MD to TXT in Android via Java
 description: Render MD to TXT in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/md-to-txt/
+url_ignore: /android-java/conversion/md-to-txt/
 family: total
 platformtag: android-java
 feature: conversion

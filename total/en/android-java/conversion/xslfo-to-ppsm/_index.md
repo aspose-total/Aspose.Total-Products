@@ -1,7 +1,7 @@
 ---
 title: Export XSLFO to PPSM in Android 
 description: Android API to Convert XSLFO to PPSM without using Microsoft Word
-url: /android-java/conversion/xslfo-to-ppsm/
+url_ignore: /android-java/conversion/xslfo-to-ppsm/
 family: total
 platformtag: android-java
 feature: conversion

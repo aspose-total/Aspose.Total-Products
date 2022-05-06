@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export MD to FLATOPC
 description: Convert MD to FLATOPC within C++ applications.
-url: /cpp/conversion/md-to-flatopc/
+url_ignore: /cpp/conversion/md-to-flatopc/
 family: total
 platformtag: cpp
 feature: conversion

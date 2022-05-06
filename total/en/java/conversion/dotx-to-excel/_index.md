@@ -1,7 +1,7 @@
 ---
 title: Convert DOTX to EXCEL via Java
 description: Convert DOTX to EXCEL via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/dotx-to-excel/
+url_ignore: /java/conversion/dotx-to-excel/
 family: total
 platformtag: java
 feature: conversion

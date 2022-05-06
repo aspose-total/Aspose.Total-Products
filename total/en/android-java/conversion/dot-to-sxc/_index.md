@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOT to SXC
 description: Convert DOT to SXC in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/dot-to-sxc/
+url_ignore: /android-java/conversion/dot-to-sxc/
 family: total
 platformtag: android-java
 feature: conversion

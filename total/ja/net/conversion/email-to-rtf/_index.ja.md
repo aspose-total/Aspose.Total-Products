@@ -1,7 +1,7 @@
 ---
 title: EMAILをRTFにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMAILをRTFに変換する
-url: /ja/net/conversion/email-to-rtf/
+url_ignore: /ja/net/conversion/email-to-rtf/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: CGM'yi MARKDOWN'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak CGM'yi MARKDOWN'ye dönüştürün
-url: /tr/java/conversion/cgm-to-markdown/
+url_ignore: /tr/java/conversion/cgm-to-markdown/
 family: total
 platformtag: net
 feature: conversion

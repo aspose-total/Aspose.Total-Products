@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla MD'yi EMZ'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan MD'yi .NET uygulamalarınızda EMZ'ye aktarın
-url: /tr/net/conversion/md-to-emz/
+url_ignore: /tr/net/conversion/md-to-emz/
 family: total
 platformtag: net
 feature: conversion

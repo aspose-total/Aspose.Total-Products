@@ -1,7 +1,7 @@
 ---
 title: Export OFT to PCL via Java 
 description: Java API to Convert OFT to PCL without using Microsoft Word or Outlook 
-url: /java/conversion/oft-to-pcl/
+url_ignore: /java/conversion/oft-to-pcl/
 family: total
 platformtag: java
 feature: conversion

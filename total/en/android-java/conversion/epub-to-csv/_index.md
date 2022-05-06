@@ -1,7 +1,7 @@
 ---
 title: Convert EPUB to CSV in Android via Java
 description: Render EPUB to CSV in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/epub-to-csv/
+url_ignore: /android-java/conversion/epub-to-csv/
 family: total
 platformtag: android-java
 feature: conversion

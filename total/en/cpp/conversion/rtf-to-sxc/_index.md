@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to SXC in C++
 description: C++ API to Convert RTF to SXC without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/rtf-to-sxc/
+url_ignore: /cpp/conversion/rtf-to-sxc/
 family: total
 platformtag: cpp
 feature: conversion

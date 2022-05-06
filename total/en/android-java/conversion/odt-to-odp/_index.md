@@ -1,7 +1,7 @@
 ---
 title: Convert ODT to ODP in Android via Java
 description: ODT to ODP conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/odt-to-odp/
+url_ignore: /android-java/conversion/odt-to-odp/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: XPS'yi DOTM'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan XPS'yi DOTM'ye dönüştürün
-url: /tr/net/conversion/xps-to-dotm/
+url_ignore: /tr/net/conversion/xps-to-dotm/
 family: total
 platformtag: net
 feature: conversion

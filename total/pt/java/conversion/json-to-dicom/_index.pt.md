@@ -1,7 +1,7 @@
 ---
 title: Converter o formato JSON para DICOM via Java
 description: Analise JSON para DICOM em Java sem usar o Microsoft PowerPoint
-url: /pt/java/conversion/json-to-dicom/
+url_ignore: /pt/java/conversion/json-to-dicom/
 family: total
 platformtag: net
 feature: conversion

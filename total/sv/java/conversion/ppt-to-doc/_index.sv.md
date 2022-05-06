@@ -1,7 +1,7 @@
 ---
 title: Konvertera PPT till DOC via Java
 description: Java API för att exportera PPT till DOC utan att använda Microsoft Word eller PowerPoint
-url: /sv/java/conversion/ppt-to-doc/
+url_ignore: /sv/java/conversion/ppt-to-doc/
 family: total
 platformtag: net
 feature: conversion

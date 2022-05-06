@@ -1,7 +1,7 @@
 ---
 title: Converti SXC in WORD usando Java
 description: API Java per esportare SXC in WORD utilizzando Excel o Word
-url: /it/java/conversion/sxc-to-word/
+url_ignore: /it/java/conversion/sxc-to-word/
 family: total
 platformtag: net
 feature: conversion

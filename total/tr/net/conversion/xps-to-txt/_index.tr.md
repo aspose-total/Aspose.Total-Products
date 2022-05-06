@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla XPS'yi TXT'ye dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan XPS Dosyasını TXT'ye Dönüştürmek için C# API'si
-url: /tr/net/conversion/xps-to-txt/
+url_ignore: /tr/net/conversion/xps-to-txt/
 family: total
 platformtag: net
 feature: conversion

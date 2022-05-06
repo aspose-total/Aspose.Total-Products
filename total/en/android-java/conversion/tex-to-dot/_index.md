@@ -1,7 +1,7 @@
 ---
 title: Android API to Render TEX to DOT
 description: Transform TEX to DOT via Android via Java API
-url: /android-java/conversion/tex-to-dot/
+url_ignore: /android-java/conversion/tex-to-dot/
 family: total
 platformtag: android-java
 feature: conversion

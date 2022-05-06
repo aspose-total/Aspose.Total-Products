@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPPTXをEXCELに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPTXをEXCELに変換する
-url: /ja/net/conversion/pptx-to-excel/
+url_ignore: /ja/net/conversion/pptx-to-excel/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก EMAIL ไปยัง MD
 description: แปลง EMAIL เป็น MD โดยไม่ต้องใช้ Microsoft Word หรือ Outlook บน .NET
-url: /th/net/conversion/email-to-md/
+url_ignore: /th/net/conversion/email-to-md/
 family: total
 platformtag: net
 feature: conversion

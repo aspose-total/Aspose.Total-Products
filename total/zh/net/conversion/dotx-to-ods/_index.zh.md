@@ -1,7 +1,7 @@
 ---
 title: .NET API 将 DOTX 转换为 ODS
 description: 无需使用 Microsoft Excel 或 Adobe Reader 即可将 DOTX 转换为 ODS 的 C# API
-url: /zh/net/conversion/dotx-to-ods/
+url_ignore: /zh/net/conversion/dotx-to-ods/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ otherformats: ODS DIF TSV XLS XLT XLTX XLSX EXCEL XLSB XLTM XLSM SXC XLAM FODS
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API 将 DOTX 转换为 ODS" %}}
-1.使用[Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument)类打开DOTX文件
-2. 使用 [Save](https://apireference.aspose.com/words/net/aspose.words.dotxument/save/methods/4) 方法将 DOTX 转换为 HTML
+1.使用[Document](https://apireference.aspose.com/words/net/aspose.words/Document)类打开DOTX文件
+2. 使用 [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4) 方法将 DOTX 转换为 HTML
 3. 使用 [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) 类加载 HTML 文档
 4. 使用 [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 方法将文档保存为 ODS 格式，并将 `ODS` 设置为 SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -39,16 +39,15 @@ otherformats: ODS DIF TSV XLS XLT XLTX XLSX EXCEL XLSB XLTM XLSM SXC XLAM FODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="通过 C# 从 Stream 加载 DOTX 文档" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) 还允许您通过流加载 DOTX 文档。要从流中打开文档，只需将包含文档的流对象传递给 [Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument) 构造函数。以下代码示例显示了如何从流中打开文档：  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) 还允许您通过流加载 DOTX 文档。要从流中打开文档，只需将包含文档的流对象传递给 [Document](https://apireference.aspose.com/words/net/aspose.words/Document) 构造函数。以下代码示例显示了如何从流中打开文档：  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="通过 C# 在 ODS 文件中添加自定义属性" %}}
-在将 DOTX 转换为 ODS 时，[Aspose.Cells for .NET](https://products.aspose.com/cells/net/) 允许您在 ODS 文档中添加自定义属性。为了添加自定义属性，您可以对 [CustomDotxumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotxumentpropertycollection)类。 Add 方法将属性添加到 Excel 文件，并以 [Aspose.Cells.Properties.DotxumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) 的形式返回新文档属性的引用/dotxumentproperty) 对象。 
+在将 DOTX 转换为 ODS 时，[Aspose.Cells for .NET](https://products.aspose.com/cells/net/) 允许您在 ODS 文档中添加自定义属性。为了添加自定义属性，您可以对 [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection)类。 Add 方法将属性添加到 Excel 文件，并以 [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) 的形式返回新文档属性的引用/Documentproperty) 对象。 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

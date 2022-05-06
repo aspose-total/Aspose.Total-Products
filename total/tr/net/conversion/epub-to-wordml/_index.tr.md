@@ -1,7 +1,7 @@
 ---
 title: EPUB'yi WORDML'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan EPUB'yi WORDML'ye dönüştürün
-url: /tr/net/conversion/epub-to-wordml/
+url_ignore: /tr/net/conversion/epub-to-wordml/
 family: total
 platformtag: net
 feature: conversion

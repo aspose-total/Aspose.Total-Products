@@ -1,7 +1,7 @@
 ---
 title: PCL'yi DOT'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak PCL'yi DOT'ye dönüştürün
-url: /tr/java/conversion/pcl-to-dot/
+url_ignore: /tr/java/conversion/pcl-to-dot/
 family: total
 platformtag: net
 feature: conversion

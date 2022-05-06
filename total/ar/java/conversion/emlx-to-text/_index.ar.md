@@ -1,7 +1,7 @@
 ---
 title: قم بتصدير EMLX إلى TEXT عبر Java
 description: Java API لتحويل البريد الإلكتروني إلى TEXT دون استخدام Microsoft Word أو Outlook
-url: /ar/java/conversion/emlx-to-text/
+url_ignore: /ar/java/conversion/emlx-to-text/
 family: total
 platformtag: net
 feature: conversion

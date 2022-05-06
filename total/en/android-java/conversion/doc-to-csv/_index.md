@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOC to CSV
 description: Convert DOC to CSV in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/doc-to-csv/
+url_ignore: /android-java/conversion/doc-to-csv/
 family: total
 platformtag: android-java
 feature: conversion

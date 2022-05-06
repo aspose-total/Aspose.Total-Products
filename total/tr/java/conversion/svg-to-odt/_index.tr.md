@@ -1,7 +1,7 @@
 ---
 title: SVG'yi ODT'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak SVG'yi ODT'ye dönüştürün
-url: /tr/java/conversion/svg-to-odt/
+url_ignore: /tr/java/conversion/svg-to-odt/
 family: total
 platformtag: net
 feature: conversion

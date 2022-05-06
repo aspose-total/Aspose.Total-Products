@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi POWERPOINT sang Định dạng XLTM qua Java
 description: Chuyển đổi POWERPOINT sang định dạng XLTM qua Java mà không cần sử dụng Microsoft Excel hoặc PowerPoint
-url: /vi/java/conversion/powerpoint-to-xltm/
+url_ignore: /vi/java/conversion/powerpoint-to-xltm/
 family: total
 platformtag: net
 feature: conversion
@@ -19,7 +19,7 @@ Bạn có thể chuyển đổi tệp POWERPOINT sang XLTM qua [Aspose.Total for
 1. Mở tệp POWERPOINT bằng lớp [Trình bày](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Chuyển đổi POWERPOINT sang HTML bằng cách sử dụng [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. Phương thức ISaveOptions-)
 3. Tải tài liệu HTML bằng cách sử dụng lớp [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Lưu tài liệu sang định dạng XLTM bằng cách sử dụng [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells).SaveOptions)) Phương thức 
+4. Lưu tài liệu sang định dạng XLTM bằng cách sử dụng [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells)).SaveOptions)) Phương thức 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
 Để chuyển đổi POWERPOINT sang XLTM, bạn có thể dễ dàng sử dụng Aspose.Total for Java trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/ dự án dựa trên aspose/aspose-total) và bao gồm các thư viện trong pom.xml của bạn.

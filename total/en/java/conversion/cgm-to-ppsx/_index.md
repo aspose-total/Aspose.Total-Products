@@ -1,7 +1,7 @@
 ---
 title: Convert CGM to PPSX via Java API
 description: Java API to Convert CGM to PPSX without using Microsoft Word
-url: /java/conversion/cgm-to-ppsx/
+url_ignore: /java/conversion/cgm-to-ppsx/
 family: total
 platformtag: java
 feature: conversion

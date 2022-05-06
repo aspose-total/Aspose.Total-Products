@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert TEX to MD
 description: Convert TEX to MD via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/tex-to-md/
+url_ignore: /cpp/conversion/tex-to-md/
 family: total
 platformtag: cpp
 feature: conversion

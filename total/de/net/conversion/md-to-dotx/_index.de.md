@@ -1,7 +1,7 @@
 ---
 title: C#-API zum Exportieren von MD nach DOTX
 description: Konvertieren Sie MD in DOTX, ohne Microsoft Word zu verwenden
-url: /de/net/conversion/md-to-dotx/
+url_ignore: /de/net/conversion/md-to-dotx/
 family: total
 platformtag: net
 feature: conversion

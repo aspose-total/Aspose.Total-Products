@@ -1,7 +1,7 @@
 ---
 title: Преобразование EPUB в XLTX через C# API
 description: C# API для преобразования файла EPUB в XLTX без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/epub-to-xltx/
+url_ignore: /ru/net/conversion/epub-to-xltx/
 family: total
 platformtag: net
 feature: conversion

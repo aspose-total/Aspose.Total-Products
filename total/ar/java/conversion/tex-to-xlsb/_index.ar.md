@@ -1,7 +1,7 @@
 ---
 title: Java API لتقديم TEX إلى XLSB
 description: قم بتصدير TEX إلى XLSB عبر Java API دون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/java/conversion/tex-to-xlsb/
+url_ignore: /ar/java/conversion/tex-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converter PPTM para formato MARKDOWN via Java
 description: Converta o formato PPTM para MARKDOWN via Java sem usar o Microsoft Excel ou PowerPoint
-url: /pt/java/conversion/pptm-to-markdown/
+url_ignore: /pt/java/conversion/pptm-to-markdown/
 family: total
 platformtag: net
 feature: conversion

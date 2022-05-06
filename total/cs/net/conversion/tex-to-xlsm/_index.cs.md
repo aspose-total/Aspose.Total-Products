@@ -1,7 +1,7 @@
 ---
 title: Převeďte TEX na XLSM přes C# API
 description: C# API pro převod souboru TEX do XLSM bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/tex-to-xlsm/
+url_ignore: /cs/net/conversion/tex-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

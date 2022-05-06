@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie POWERPOINT über C# in CSV
 description: Konvertieren Sie POWERPOINT in C# in CSV, ohne Microsoft Excel oder Powerpoint zu verwenden
-url: /de/net/conversion/powerpoint-to-csv/
+url_ignore: /de/net/conversion/powerpoint-to-csv/
 family: total
 platformtag: net
 feature: conversion

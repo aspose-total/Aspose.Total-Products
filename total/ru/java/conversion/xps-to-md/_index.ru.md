@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга XPS в MD
 description: Экспорт XPS в MD через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/xps-to-md/
+url_ignore: /ru/java/conversion/xps-to-md/
 family: total
 platformtag: net
 feature: conversion

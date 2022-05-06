@@ -1,7 +1,7 @@
 ---
 title: Convert PS to XLT in Android via Java
 description: Render PS to XLT in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/ps-to-xlt/
+url_ignore: /android-java/conversion/ps-to-xlt/
 family: total
 platformtag: android-java
 feature: conversion

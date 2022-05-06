@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla TEX'yi SXC'ye dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan TEX Dosyasını SXC'ye Dönüştürmek için C# API'si
-url: /tr/net/conversion/tex-to-sxc/
+url_ignore: /tr/net/conversion/tex-to-sxc/
 family: total
 platformtag: net
 feature: conversion

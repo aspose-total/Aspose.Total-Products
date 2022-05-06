@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení EPUB do ODS
 description: Export EPUB do ODS přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/epub-to-ods/
+url_ignore: /cs/java/conversion/epub-to-ods/
 family: total
 platformtag: net
 feature: conversion

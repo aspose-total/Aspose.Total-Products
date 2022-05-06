@@ -1,7 +1,7 @@
 ---
 title: .NET API để chuyển đổi OTT sang FODS
 description: C# API để chuyển đổi OTT sang FODS mà không cần sử dụng Microsoft Excel hoặc Adobe Reader
-url: /vi/net/conversion/ott-to-fods/
+url_ignore: /vi/net/conversion/ott-to-fods/
 family: total
 platformtag: net
 feature: conversion

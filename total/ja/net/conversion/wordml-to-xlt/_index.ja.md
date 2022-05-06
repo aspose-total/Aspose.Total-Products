@@ -1,7 +1,7 @@
 ---
 title: WORDMLをXLTに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにWORDMLをXLTに変換するC＃API
-url: /ja/net/conversion/wordml-to-xlt/
+url_ignore: /ja/net/conversion/wordml-to-xlt/
 family: total
 platformtag: net
 feature: conversion

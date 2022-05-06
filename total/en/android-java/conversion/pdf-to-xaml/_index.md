@@ -1,7 +1,7 @@
 ---
 title: Export PDF to XAML in Android 
 description: Android API to Convert PDF to XAML without using Microsoft Word
-url: /android-java/conversion/pdf-to-xaml/
+url_ignore: /android-java/conversion/pdf-to-xaml/
 family: total
 platformtag: android-java
 feature: conversion

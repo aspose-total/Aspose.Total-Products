@@ -1,7 +1,7 @@
 ---
 title: 通过 Java 将 ODT 转换为 POT
 description: 无需使用 Microsoft Word 或 PowerPoint 即可将 ODT 导出为 POT 的 Java API
-url: /zh/java/conversion/odt-to-pot/
+url_ignore: /zh/java/conversion/odt-to-pot/
 family: total
 platformtag: net
 feature: conversion
@@ -23,7 +23,7 @@ otherformats: PPSX PPSM POTX PPTM POWERPOINT POT POTM PPS PPTX PPT CSV DIF FODS 
 6. 使用 [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) 方法将文档保存到 POT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
-对于 ODT 到 POT 文件的转换，您可以直接从 [Maven] 轻松使用 Aspose.Total for Java (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) 基于项目并在 pom.xml 中包含库。
+对于 ODT 到 POT 文件的转换，您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) 基于项目并在 pom.xml 中包含库。
 
 或者，您可以从 [下载](https://downloads.aspose.com/total/java) 获取 ZIP 文件。
 {{% /blocks/products/pf/agp/feature-section-col %}}

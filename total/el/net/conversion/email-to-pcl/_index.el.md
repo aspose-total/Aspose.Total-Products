@@ -1,7 +1,7 @@
 ---
 title: C# API για εξαγωγή EMAIL σε PCL
 description: Μετατροπή EMAIL σε PCL χωρίς χρήση του Microsoft Word ή του Outlook στο .NET
-url: /el/net/conversion/email-to-pcl/
+url_ignore: /el/net/conversion/email-to-pcl/
 family: total
 platformtag: net
 feature: conversion

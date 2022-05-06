@@ -1,7 +1,7 @@
 ---
 title: Convert DOTM to POWERPOINT via C++
 description: Export DOTM to POWERPOINT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/dotm-to-powerpoint/
+url_ignore: /cpp/conversion/dotm-to-powerpoint/
 family: total
 platformtag: cpp
 feature: conversion

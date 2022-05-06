@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Exportieren von PS nach FLATOPC
 description: Konvertieren Sie PS mithilfe der lokalen Java-API in FLATOPC
-url: /de/java/conversion/ps-to-flatopc/
+url_ignore: /de/java/conversion/ps-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

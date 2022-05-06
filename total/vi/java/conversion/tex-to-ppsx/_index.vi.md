@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi TEX sang PPSX thông qua Java API
 description: Java API để chuyển đổi TEX sang PPSX mà không cần sử dụng Microsoft Word
-url: /vi/java/conversion/tex-to-ppsx/
+url_ignore: /vi/java/conversion/tex-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MHTML to XAML  
 description: Convert MHTML to XAML via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/mhtml-to-xaml/
+url_ignore: /cpp/conversion/mhtml-to-xaml/
 family: total
 platformtag: cpp
 feature: conversion

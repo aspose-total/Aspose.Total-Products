@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير CGM إلى PS
 description: تحويل CGM إلى PS دون استخدام Microsoft Word
-url: /ar/net/conversion/cgm-to-ps/
+url_ignore: /ar/net/conversion/cgm-to-ps/
 family: total
 platformtag: net
 feature: conversion

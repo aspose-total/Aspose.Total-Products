@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar EPUB via .NET
 description: Parseer JSON naar EPUB in C# zonder Microsoft Word te gebruiken
-url: /nl/net/conversion/json-to-epub/
+url_ignore: /nl/net/conversion/json-to-epub/
 family: total
 platformtag: net
 feature: conversion

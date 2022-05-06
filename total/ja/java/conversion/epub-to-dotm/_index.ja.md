@@ -1,7 +1,7 @@
 ---
 title: EPUBをDOTMにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してEPUBをDOTMに変換する
-url: /ja/java/conversion/epub-to-dotm/
+url_ignore: /ja/java/conversion/epub-to-dotm/
 family: total
 platformtag: net
 feature: conversion

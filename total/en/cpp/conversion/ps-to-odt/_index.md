@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PS to ODT
 description: Convert PS to ODT within C++ applications.
-url: /cpp/conversion/ps-to-odt/
+url_ignore: /cpp/conversion/ps-to-odt/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή μορφής JSON σε WORD μέσω Java
 description: Ανάλυση JSON σε WORD σε Java χωρίς χρήση του Microsoft Word
-url: /el/java/conversion/json-to-word/
+url_ignore: /el/java/conversion/json-to-word/
 family: total
 platformtag: net
 feature: conversion

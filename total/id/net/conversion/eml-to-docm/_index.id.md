@@ -1,7 +1,7 @@
 ---
 title: C# API untuk Mengekspor EML ke DOCM
 description: Konversi EML ke DOCM tanpa menggunakan Microsoft Word atau Outlook di .NET
-url: /id/net/conversion/eml-to-docm/
+url_ignore: /id/net/conversion/eml-to-docm/
 family: total
 platformtag: net
 feature: conversion

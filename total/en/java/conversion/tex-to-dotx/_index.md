@@ -1,7 +1,7 @@
 ---
 title: Java API to Export TEX to DOTX
 description: Convert TEX to DOTX using on premise Java API
-url: /java/conversion/tex-to-dotx/
+url_ignore: /java/conversion/tex-to-dotx/
 family: total
 platformtag: java
 feature: conversion

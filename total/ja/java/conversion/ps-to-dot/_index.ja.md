@@ -1,7 +1,7 @@
 ---
 title: PSをDOTにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してPSをDOTに変換する
-url: /ja/java/conversion/ps-to-dot/
+url_ignore: /ja/java/conversion/ps-to-dot/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPCLをJPEG2000に変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでPCLをJPEG2000にエクスポートします
-url: /ja/net/conversion/pcl-to-jpeg2000/
+url_ignore: /ja/net/conversion/pcl-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

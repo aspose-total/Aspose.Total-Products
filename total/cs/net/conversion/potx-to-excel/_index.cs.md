@@ -1,7 +1,7 @@
 ---
 title: Převést POTX na EXCEL přes C#
 description: Převeďte POTX na EXCEL v C# bez použití Microsoft Excel nebo Powerpoint
-url: /cs/net/conversion/potx-to-excel/
+url_ignore: /cs/net/conversion/potx-to-excel/
 family: total
 platformtag: net
 feature: conversion

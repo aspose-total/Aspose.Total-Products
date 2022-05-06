@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to POTM via C++
 description: Export DOT to POTM in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/dot-to-potm/
+url_ignore: /cpp/conversion/dot-to-potm/
 family: total
 platformtag: cpp
 feature: conversion

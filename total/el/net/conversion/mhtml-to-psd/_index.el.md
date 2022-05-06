@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή MHTML σε PSD μέσω C# API
 description: Εξάγετε το MHTML σε PSD στις εφαρμογές σας .NET χωρίς να χρησιμοποιήσετε καμία εφαρμογή τρίτου μέρους
-url: /el/net/conversion/mhtml-to-psd/
+url_ignore: /el/net/conversion/mhtml-to-psd/
 family: total
 platformtag: net
 feature: conversion

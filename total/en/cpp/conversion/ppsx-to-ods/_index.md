@@ -1,7 +1,7 @@
 ---
 title: Convert PPSX to ODS via C++ 
 description: Export PPSX to ODS in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/ppsx-to-ods/
+url_ignore: /cpp/conversion/ppsx-to-ods/
 family: total
 platformtag: cpp
 feature: conversion

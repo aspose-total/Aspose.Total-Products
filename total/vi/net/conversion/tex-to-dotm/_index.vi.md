@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất TEX sang DOTM
 description: Chuyển đổi TEX sang DOTM mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/tex-to-dotm/
+url_ignore: /vi/net/conversion/tex-to-dotm/
 family: total
 platformtag: net
 feature: conversion

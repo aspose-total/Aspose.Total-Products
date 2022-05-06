@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert OTT to SXC
 description: Convert OTT to SXC in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/ott-to-sxc/
+url_ignore: /android-java/conversion/ott-to-sxc/
 family: total
 platformtag: android-java
 feature: conversion

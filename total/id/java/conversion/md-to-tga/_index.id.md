@@ -1,7 +1,7 @@
 ---
 title: Konversi MD ke TGA melalui Java
 description: Ekspor file MD ke TGA di aplikasi Java Anda tanpa menggunakan aplikasi pihak ketiga
-url: /id/java/conversion/md-to-tga/
+url_ignore: /id/java/conversion/md-to-tga/
 family: total
 platformtag: net
 feature: conversion

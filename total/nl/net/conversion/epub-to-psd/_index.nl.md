@@ -1,7 +1,7 @@
 ---
 title: Converteer EPUB naar PSD via C# API
 description: Exporteer EPUB naar PSD in uw .NET-toepassingen zonder een toepassing van derden te gebruiken
-url: /nl/net/conversion/epub-to-psd/
+url_ignore: /nl/net/conversion/epub-to-psd/
 family: total
 platformtag: net
 feature: conversion

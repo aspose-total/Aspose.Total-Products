@@ -1,7 +1,7 @@
 ---
 title: แปลง WORDML เป็น POT ผ่าน Java
 description: Java API เพื่อส่งออก WORDML ไปยัง POT โดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint
-url: /th/java/conversion/wordml-to-pot/
+url_ignore: /th/java/conversion/wordml-to-pot/
 family: total
 platformtag: net
 feature: conversion

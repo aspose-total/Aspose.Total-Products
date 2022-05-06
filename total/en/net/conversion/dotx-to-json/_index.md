@@ -1,7 +1,7 @@
 ---
 title: Convert DOTX to JSON format via .NET 
 description: Convert DOTX to JSON in C# without using Microsoft Excel or Adobe Reader
-url: /net/conversion/dotx-to-json/
+url_ignore: /net/conversion/dotx-to-json/
 family: total
 platformtag: net
 feature: conversion

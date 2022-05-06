@@ -1,7 +1,7 @@
 ---
 title: Export EML to PCL via C++
 description: C++ API to Convert EML to PCL without using Microsoft Word or Outlook
-url: /cpp/conversion/eml-to-pcl/
+url_ignore: /cpp/conversion/eml-to-pcl/
 family: total
 platformtag: cpp
 feature: conversion

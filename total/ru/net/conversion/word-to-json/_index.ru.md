@@ -1,7 +1,7 @@
 ---
 title: Преобразование WORD в формат JSON через .NET
 description: Преобразование WORD в JSON на C# без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/word-to-json/
+url_ignore: /ru/net/conversion/word-to-json/
 family: total
 platformtag: net
 feature: conversion

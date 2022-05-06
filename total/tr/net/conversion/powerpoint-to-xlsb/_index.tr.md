@@ -1,7 +1,7 @@
 ---
 title: POWERPOINT'u C# ile XLSB'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan POWERPOINT'u C#'ta XLSB'ye dönüştürün
-url: /tr/net/conversion/powerpoint-to-xlsb/
+url_ignore: /tr/net/conversion/powerpoint-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

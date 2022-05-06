@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert TEX to XLSM
 description: Convert TEX to XLSM via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/tex-to-xlsm/
+url_ignore: /cpp/conversion/tex-to-xlsm/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert ODT to PPSX via C++
 description: Export ODT to PPSX in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/odt-to-ppsx/
+url_ignore: /cpp/conversion/odt-to-ppsx/
 family: total
 platformtag: cpp
 feature: conversion

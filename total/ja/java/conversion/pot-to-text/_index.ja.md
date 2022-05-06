@@ -1,7 +1,7 @@
 ---
 title: Java経由でPOTをTEXTに変換する
 description: MicrosoftWordやPowerPointを使用せずにPOTをTEXTにエクスポートするJavaAPI
-url: /ja/java/conversion/pot-to-text/
+url_ignore: /ja/java/conversion/pot-to-text/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export SVG to FLATOPC
 description: Convert SVG to FLATOPC within C++ applications.
-url: /cpp/conversion/svg-to-flatopc/
+url_ignore: /cpp/conversion/svg-to-flatopc/
 family: total
 platformtag: cpp
 feature: conversion

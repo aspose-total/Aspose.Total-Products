@@ -1,7 +1,7 @@
 ---
 title: Converti EPUB in EMZ tramite Java
 description: Esporta file EPUB in EMZ nelle tue applicazioni Java senza utilizzare applicazioni di terze parti
-url: /it/java/conversion/epub-to-emz/
+url_ignore: /it/java/conversion/epub-to-emz/
 family: total
 platformtag: net
 feature: conversion

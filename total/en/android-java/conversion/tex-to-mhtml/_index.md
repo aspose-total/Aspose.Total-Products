@@ -1,7 +1,7 @@
 ---
 title: Android API to Render TEX to MHTML
 description: Transform TEX to MHTML via Android via Java API
-url: /android-java/conversion/tex-to-mhtml/
+url_ignore: /android-java/conversion/tex-to-mhtml/
 family: total
 platformtag: android-java
 feature: conversion

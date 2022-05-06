@@ -1,7 +1,7 @@
 ---
 title: Convert DOTM to XLS via .NET 
 description: Convert DOTM to XLS in C# without using Microsoft Excel or Adobe Reader
-url: /net/conversion/dotm-to-xls/
+url_ignore: /net/conversion/dotm-to-xls/
 family: total
 platformtag: net
 feature: conversion

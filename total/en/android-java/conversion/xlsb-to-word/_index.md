@@ -1,7 +1,7 @@
 ---
 title: Export XLSB to WORD in Android 
 description: Android API to Convert XLSB to WORD without using Microsoft Word
-url: /android-java/conversion/xlsb-to-word/
+url_ignore: /android-java/conversion/xlsb-to-word/
 family: total
 platformtag: android-java
 feature: conversion

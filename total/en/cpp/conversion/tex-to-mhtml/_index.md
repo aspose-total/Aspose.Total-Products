@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export TEX to MHTML
 description: Convert TEX to MHTML within C++ applications.
-url: /cpp/conversion/tex-to-mhtml/
+url_ignore: /cpp/conversion/tex-to-mhtml/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API de Java para renderizar MD a XLSM
 description: Exporte MD a XLSM a través de la API de Java sin usar Microsoft Excel o Adobe Reader
-url: /es/java/conversion/md-to-xlsm/
+url_ignore: /es/java/conversion/md-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

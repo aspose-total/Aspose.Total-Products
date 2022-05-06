@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してSVGをODPにエクスポートする
 description: MicrosoftWordを使用せずにSVGをODPに変換する.NETAPI
-url: /ja/net/conversion/svg-to-odp/
+url_ignore: /ja/net/conversion/svg-to-odp/
 family: total
 platformtag: net
 feature: conversion

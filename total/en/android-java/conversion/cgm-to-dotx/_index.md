@@ -1,7 +1,7 @@
 ---
 title: Android API to Render CGM to DOTX
 description: Transform CGM to DOTX via Android via Java API
-url: /android-java/conversion/cgm-to-dotx/
+url_ignore: /android-java/conversion/cgm-to-dotx/
 family: total
 platformtag: android-java
 feature: conversion

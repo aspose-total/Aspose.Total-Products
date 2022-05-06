@@ -1,6 +1,6 @@
 ---
 title: Преобразование PPSM в WORDML через C# .NET 
-url: /ru/net/conversion/ppsm-to-wordml/ 
+url_ignore: /ru/net/conversion/ppsm-to-wordml/ 
 description: Преобразование документов PowerPoint ppsm в файлы документов Word с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

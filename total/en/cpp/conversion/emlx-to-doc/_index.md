@@ -1,7 +1,7 @@
 ---
 title: Export EMLX to DOC via C++
 description: C++ API to Convert EMLX to DOC without using Microsoft Word or Outlook
-url: /cpp/conversion/emlx-to-doc/
+url_ignore: /cpp/conversion/emlx-to-doc/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API to Export MSG to WORDML
 description: Convert MSG to WORDML without using Microsoft Word or Outlook on .NET
-url: /net/conversion/msg-to-wordml/
+url_ignore: /net/conversion/msg-to-wordml/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير PDF إلى PCL
 description: تحويل PDF إلى PCL دون استخدام Microsoft Word
-url: /ar/net/conversion/pdf-to-pcl/
+url_ignore: /ar/net/conversion/pdf-to-pcl/
 family: total
 platformtag: net
 feature: conversion

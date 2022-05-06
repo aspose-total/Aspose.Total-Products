@@ -1,7 +1,7 @@
 ---
 title: Converti PPSM in formato CSV tramite Java
 description: Converti PPSM in formato CSV tramite Java senza utilizzare Microsoft Excel o PowerPoint
-url: /it/java/conversion/ppsm-to-csv/
+url_ignore: /it/java/conversion/ppsm-to-csv/
 family: total
 platformtag: net
 feature: conversion

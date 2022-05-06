@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMHTMLをPOTMにエクスポートする
 description: MicrosoftWordを使用せずにMHTMLをPOTMに変換する.NETAPI
-url: /ja/net/conversion/mhtml-to-potm/
+url_ignore: /ja/net/conversion/mhtml-to-potm/
 family: total
 platformtag: net
 feature: conversion

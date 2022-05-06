@@ -1,7 +1,7 @@
 ---
 title: XPS'yi GIF'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan XPS'yi GIF'ye dönüştürün
-url: /tr/net/conversion/xps-to-gif/
+url_ignore: /tr/net/conversion/xps-to-gif/
 family: total
 platformtag: net
 feature: conversion

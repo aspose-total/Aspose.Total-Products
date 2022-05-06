@@ -1,7 +1,7 @@
 ---
 title: Converteer WORD naar POTM via Java
 description: Java API om WORD naar POTM te exporteren zonder Microsoft Word of PowerPoint te gebruiken
-url: /nl/java/conversion/word-to-potm/
+url_ignore: /nl/java/conversion/word-to-potm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Převeďte POWERPOINT do formátu XLSM přes Java
 description: Převeďte POWERPOINT do formátu XLSM přes Java bez použití Microsoft Excel nebo PowerPoint
-url: /cs/java/conversion/powerpoint-to-xlsm/
+url_ignore: /cs/java/conversion/powerpoint-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertera PS till WMZ via C# API
 description: Exportera PS till WMZ i dina .NET-applikationer utan att använda någon tredjepartsapplikation
-url: /sv/net/conversion/ps-to-wmz/
+url_ignore: /sv/net/conversion/ps-to-wmz/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert EPUB to ODP  
 description: Convert EPUB to ODP via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/epub-to-odp/
+url_ignore: /cpp/conversion/epub-to-odp/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export XPS to POTX in Android 
 description: Android API to Convert XPS to POTX without using Microsoft Word
-url: /android-java/conversion/xps-to-potx/
+url_ignore: /android-java/conversion/xps-to-potx/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API لتقديم PDF إلى DIF
 description: قم بتصدير PDF إلى DIF عبر Java API دون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/java/conversion/pdf-to-dif/
+url_ignore: /ar/java/conversion/pdf-to-dif/
 family: total
 platformtag: net
 feature: conversion

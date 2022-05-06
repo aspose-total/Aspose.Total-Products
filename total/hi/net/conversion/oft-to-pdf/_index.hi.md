@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई बीएमपी को ईमेल निर्यात करने के लिए
 description: .NET पर Microsoft Word या Outlook का उपयोग किए बिना OFT को PDF में बदलें
-url: /hi/net/conversion/oft-to-pdf/
+url_ignore: /hi/net/conversion/oft-to-pdf/
 family: total
 platformtag: net
 feature: conversion

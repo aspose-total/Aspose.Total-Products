@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Exportieren von PCL nach MARKDOWN
 description: Konvertieren Sie PCL mithilfe der lokalen Java-API in MARKDOWN
-url: /de/java/conversion/pcl-to-markdown/
+url_ignore: /de/java/conversion/pcl-to-markdown/
 family: total
 platformtag: net
 feature: conversion

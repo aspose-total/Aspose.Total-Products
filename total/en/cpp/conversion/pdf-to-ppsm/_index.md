@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PDF to PPSM  
 description: Convert PDF to PPSM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/pdf-to-ppsm/
+url_ignore: /cpp/conversion/pdf-to-ppsm/
 family: total
 platformtag: cpp
 feature: conversion

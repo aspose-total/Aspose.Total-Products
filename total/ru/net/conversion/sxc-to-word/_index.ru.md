@@ -1,7 +1,7 @@
 ---
 title: Преобразование SXC в WORD с помощью .NET 
 description: Преобразование SXC в WORD на платформах .NET Framework, .NET Core, Mono или Xamarin
-url: /ru/net/conversion/sxc-to-word/
+url_ignore: /ru/net/conversion/sxc-to-word/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert SVG to XLTX
 description: Convert SVG to XLTX via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/svg-to-xltx/
+url_ignore: /cpp/conversion/svg-to-xltx/
 family: total
 platformtag: cpp
 feature: conversion

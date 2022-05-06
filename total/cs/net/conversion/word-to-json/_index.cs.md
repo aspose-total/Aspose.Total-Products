@@ -1,7 +1,7 @@
 ---
 title: Převeďte WORD do formátu JSON přes .NET
 description: Převeďte WORD na JSON v C# bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/word-to-json/
+url_ignore: /cs/net/conversion/word-to-json/
 family: total
 platformtag: net
 feature: conversion

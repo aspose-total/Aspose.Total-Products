@@ -1,7 +1,7 @@
 ---
 title: Export EMLX to RTF via C++
 description: C++ API to Convert EMLX to RTF without using Microsoft Word or Outlook
-url: /cpp/conversion/emlx-to-rtf/
+url_ignore: /cpp/conversion/emlx-to-rtf/
 family: total
 platformtag: cpp
 feature: conversion

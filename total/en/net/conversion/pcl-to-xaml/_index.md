@@ -1,7 +1,7 @@
 ---
 title: Export PCL to XAML via C# API
 description: .NET API to Convert PCL to XAML without using Microsoft Word
-url: /net/conversion/pcl-to-xaml/
+url_ignore: /net/conversion/pcl-to-xaml/
 family: total
 platformtag: net
 feature: conversion

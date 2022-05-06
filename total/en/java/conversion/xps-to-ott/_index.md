@@ -1,7 +1,7 @@
 ---
 title: Java API to Export XPS to OTT
 description: Convert XPS to OTT using on premise Java API
-url: /java/conversion/xps-to-ott/
+url_ignore: /java/conversion/xps-to-ott/
 family: total
 platformtag: java
 feature: conversion

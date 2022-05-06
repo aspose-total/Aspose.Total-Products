@@ -1,7 +1,7 @@
 ---
 title: C#-API zum Exportieren von PDF nach OTT
 description: Konvertieren Sie PDF in OTT, ohne Microsoft Word zu verwenden
-url: /de/net/conversion/pdf-to-ott/
+url_ignore: /de/net/conversion/pdf-to-ott/
 family: total
 platformtag: net
 feature: conversion

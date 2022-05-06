@@ -1,7 +1,7 @@
 ---
 title: Převeďte XPS na TSV přes C# API
 description: C# API pro převod souboru XPS do TSV bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/xps-to-tsv/
+url_ignore: /cs/net/conversion/xps-to-tsv/
 family: total
 platformtag: net
 feature: conversion

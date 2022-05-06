@@ -1,7 +1,7 @@
 ---
 title: Převést PPTM na XLSX přes C#
 description: Převeďte PPTM na XLSX v C# bez použití Microsoft Excel nebo Powerpoint
-url: /cs/net/conversion/pptm-to-xlsx/
+url_ignore: /cs/net/conversion/pptm-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

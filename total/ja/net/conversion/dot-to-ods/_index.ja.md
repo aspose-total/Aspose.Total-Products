@@ -1,7 +1,7 @@
 ---
 title: DOTをODSに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにDOTをODSに変換するC＃API
-url: /ja/net/conversion/dot-to-ods/
+url_ignore: /ja/net/conversion/dot-to-ods/
 family: total
 platformtag: net
 feature: conversion

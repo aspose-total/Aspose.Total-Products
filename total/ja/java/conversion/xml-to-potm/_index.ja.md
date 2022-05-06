@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してXMLをPOTMに変換する
 description: MicrosoftWordを使用せずにXMLをPOTMに変換するJavaAPI
-url: /ja/java/conversion/xml-to-potm/
+url_ignore: /ja/java/conversion/xml-to-potm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई सीजीएम को डीओसीएम में निर्यात करने के लिए
 description: Microsoft Word का उपयोग किए बिना SVG को DOTX में बदलें
-url: /hi/net/conversion/svg-to-dotx/
+url_ignore: /hi/net/conversion/svg-to-dotx/
 family: total
 platformtag: net
 feature: conversion

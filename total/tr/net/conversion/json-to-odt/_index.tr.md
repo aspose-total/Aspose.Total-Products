@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını .NET aracılığıyla ODT'ye dönüştürün
 description: Microsoft Word kullanmadan JSON'u C# ile ODT'ye ayrıştırın
-url: /tr/net/conversion/json-to-odt/
+url_ignore: /tr/net/conversion/json-to-odt/
 family: total
 platformtag: net
 feature: conversion

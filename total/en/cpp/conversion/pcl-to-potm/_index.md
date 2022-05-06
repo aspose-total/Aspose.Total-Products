@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PCL to POTM  
 description: Convert PCL to POTM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/pcl-to-potm/
+url_ignore: /cpp/conversion/pcl-to-potm/
 family: total
 platformtag: cpp
 feature: conversion

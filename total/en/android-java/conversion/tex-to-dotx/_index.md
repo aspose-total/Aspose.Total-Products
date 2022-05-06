@@ -1,7 +1,7 @@
 ---
 title: Android API to Render TEX to DOTX
 description: Transform TEX to DOTX via Android via Java API
-url: /android-java/conversion/tex-to-dotx/
+url_ignore: /android-java/conversion/tex-to-dotx/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PCL to OTT
 description: Convert PCL to OTT within C++ applications.
-url: /cpp/conversion/pcl-to-ott/
+url_ignore: /cpp/conversion/pcl-to-ott/
 family: total
 platformtag: cpp
 feature: conversion

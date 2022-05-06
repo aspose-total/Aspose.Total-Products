@@ -1,7 +1,7 @@
 ---
 title: API de Java para convertir DOTM a XLS
 description: Convierta DOTM a XLS a través de Java sin usar Microsoft Word o Microsoft Excel
-url: /es/java/conversion/dotm-to-xls/
+url_ignore: /es/java/conversion/dotm-to-xls/
 family: total
 platformtag: net
 feature: conversion

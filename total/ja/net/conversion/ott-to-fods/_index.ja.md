@@ -1,7 +1,7 @@
 ---
 title: OTTをFODSに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにOTTをFODSに変換するC＃API
-url: /ja/net/conversion/ott-to-fods/
+url_ignore: /ja/net/conversion/ott-to-fods/
 family: total
 platformtag: net
 feature: conversion

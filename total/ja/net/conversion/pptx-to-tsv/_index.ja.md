@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPPTXをTSVに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPTXをTSVに変換する
-url: /ja/net/conversion/pptx-to-tsv/
+url_ignore: /ja/net/conversion/pptx-to-tsv/
 family: total
 platformtag: net
 feature: conversion

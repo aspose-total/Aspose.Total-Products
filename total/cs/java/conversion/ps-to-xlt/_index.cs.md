@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení PS do XLT
 description: Export PS do XLT přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/ps-to-xlt/
+url_ignore: /cs/java/conversion/ps-to-xlt/
 family: total
 platformtag: net
 feature: conversion

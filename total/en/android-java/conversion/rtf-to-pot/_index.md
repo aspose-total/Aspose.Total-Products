@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to POT in Android via Java
 description: RTF to POT conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/rtf-to-pot/
+url_ignore: /android-java/conversion/rtf-to-pot/
 family: total
 platformtag: android-java
 feature: conversion

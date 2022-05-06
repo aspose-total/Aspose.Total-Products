@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से ईमेल को बीएमपी में निर्यात करें
 description: जावा एपीआई माइक्रोसॉफ्ट वर्ड या आउटलुक का उपयोग किए बिना ईमेल को बीएमपी में कनवर्ट करने के लिए
-url: /hi/java/conversion/msg-to-ps/
+url_ignore: /hi/java/conversion/msg-to-ps/
 family: total
 platformtag: net
 feature: conversion

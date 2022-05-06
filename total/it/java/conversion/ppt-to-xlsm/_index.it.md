@@ -1,7 +1,7 @@
 ---
 title: Converti PPT in formato XLSM tramite Java
 description: Converti PPT in formato XLSM tramite Java senza utilizzare Microsoft Excel o PowerPoint
-url: /it/java/conversion/ppt-to-xlsm/
+url_ignore: /it/java/conversion/ppt-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

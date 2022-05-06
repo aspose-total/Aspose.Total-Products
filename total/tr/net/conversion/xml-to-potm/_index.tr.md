@@ -1,7 +1,7 @@
 ---
 title: XML'yi C# API aracılığıyla POTM'ye aktarın
 description: Microsoft Word kullanmadan XML'yi POTM'ye dönüştürmek için .NET API
-url: /tr/net/conversion/xml-to-potm/
+url_ignore: /tr/net/conversion/xml-to-potm/
 family: total
 platformtag: net
 feature: conversion

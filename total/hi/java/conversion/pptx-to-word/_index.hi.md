@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से पीओटी को डीओसी में कनवर्ट करें
 description: Microsoft Word या PowerPoint का उपयोग किए बिना WORD को PPTX निर्यात करने के लिए Java API
-url: /hi/java/conversion/pptx-to-word/
+url_ignore: /hi/java/conversion/pptx-to-word/
 family: total
 platformtag: net
 feature: conversion

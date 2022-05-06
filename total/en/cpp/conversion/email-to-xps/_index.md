@@ -1,7 +1,7 @@
 ---
 title: Export EMAIL to XPS via C++
 description: C++ API to Convert EMAIL to XPS without using Microsoft Word or Outlook
-url: /cpp/conversion/email-to-xps/
+url_ignore: /cpp/conversion/email-to-xps/
 family: total
 platformtag: cpp
 feature: conversion

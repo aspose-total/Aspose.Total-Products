@@ -1,7 +1,7 @@
 ---
 title: API Java để xuất MD sang DOTM
 description: Chuyển đổi MD sang DOTM bằng cách sử dụng API Java tiền đề
-url: /vi/java/conversion/md-to-dotm/
+url_ignore: /vi/java/conversion/md-to-dotm/
 family: total
 platformtag: net
 feature: conversion

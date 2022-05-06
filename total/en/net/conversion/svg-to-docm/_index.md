@@ -1,7 +1,7 @@
 ---
 title: C# API to Export SVG to DOCM
 description: Convert SVG to DOCM without using Microsoft Word
-url: /net/conversion/svg-to-docm/
+url_ignore: /net/conversion/svg-to-docm/
 family: total
 platformtag: net
 feature: conversion

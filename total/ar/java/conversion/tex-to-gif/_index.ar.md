@@ -1,7 +1,7 @@
 ---
 title: Java API لتصدير TEX إلى GIF
 description: قم بتحويل TEX إلى GIF باستخدام Java API في مكان العمل
-url: /ar/java/conversion/tex-to-gif/
+url_ignore: /ar/java/conversion/tex-to-gif/
 family: total
 platformtag: net
 feature: conversion

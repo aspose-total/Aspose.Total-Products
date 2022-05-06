@@ -1,7 +1,7 @@
 ---
 title: Convert PPSX to FODS via C++ 
 description: Export PPSX to FODS in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/ppsx-to-fods/
+url_ignore: /cpp/conversion/ppsx-to-fods/
 family: total
 platformtag: cpp
 feature: conversion

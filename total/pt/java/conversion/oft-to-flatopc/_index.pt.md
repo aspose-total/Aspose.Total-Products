@@ -1,7 +1,7 @@
 ---
 title: Exportar OFT para FLATOPC via Java
 description: API Java para converter OFT para FLATOPC sem usar o Microsoft Word ou Outlook
-url: /pt/java/conversion/oft-to-flatopc/
+url_ignore: /pt/java/conversion/oft-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

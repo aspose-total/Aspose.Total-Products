@@ -1,7 +1,7 @@
 ---
 title: API .NET para converter DOTX para TSV
 description: API C# para converter DOTX para TSV sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/dotx-to-tsv/
+url_ignore: /pt/net/conversion/dotx-to-tsv/
 family: total
 platformtag: net
 feature: conversion
@@ -18,10 +18,10 @@ Ao usar o [Aspose.Total for .NET](https://products.aspose.com/total/net/) você 
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET para converter DOTX para TSV" %}}
-1. Abra o arquivo DOTX usando a classe [Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument)
-2. Converta DOTX para HTML usando o método [Salvar](https://apireference.aspose.com/words/net/aspose.words.dotxument/save/methods/4)
-3. Carregue o dotxumento HTML usando a classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Salve o dotxumento no formato TSV usando o método [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) e defina "TSV" como SaveFormat
+1. Abra o arquivo DOTX usando a classe [Document](https://apireference.aspose.com/words/net/aspose.words/Document)
+2. Converta DOTX para HTML usando o método [Salvar](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4)
+3. Carregue o Documento HTML usando a classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+4. Salve o Documento no formato TSV usando o método [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) e defina "TSV" como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
@@ -38,17 +38,16 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Carregar dotxumento DOTX do fluxo via C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) também permite carregar dotxumentos DOTX via stream. Para abrir um dotxumento de um stream, basta passar um objeto stream que contém o dotxumento para o construtor [Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument). O exemplo de código a seguir mostra como abrir um dotxumento de um fluxo:  
+{{% blocks/products/pf/feature-page-section  h2="Carregar Documento DOTX do fluxo via C#" %}}
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) também permite carregar Documentos DOTX via stream. Para abrir um Documento de um stream, basta passar um objeto stream que contém o Documento para o construtor [Document](https://apireference.aspose.com/words/net/aspose.words/Document). O exemplo de código a seguir mostra como abrir um Documento de um fluxo:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Adicionar propriedades personalizadas no arquivo TSV via C#" %}}
-Ao converter DOTX para TSV, o [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) permite adicionar propriedades personalizadas em seus dotxumentos TSV. Para adicionar uma propriedade personalizada, você pode usar o método [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotxumentpropertycollection/methods/add/index) para o método [CustomDotxumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotxumentpropertycollection) classe. O método Add adiciona a propriedade ao arquivo Excel e retorna uma referência para a nova propriedade do dotxumento como um [Aspose.Cells.Properties.DotxumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /dotxumentproperty) objeto. 
+Ao converter DOTX para TSV, o [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) permite adicionar propriedades personalizadas em seus Documentos TSV. Para adicionar uma propriedade personalizada, você pode usar o método [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index) para o método [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection) classe. O método Add adiciona a propriedade ao arquivo Excel e retorna uma referência para a nova propriedade do Documento como um [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /Documentproperty) objeto. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

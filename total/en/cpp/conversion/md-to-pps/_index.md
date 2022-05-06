@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MD to PPS  
 description: Convert MD to PPS via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/md-to-pps/
+url_ignore: /cpp/conversion/md-to-pps/
 family: total
 platformtag: cpp
 feature: conversion

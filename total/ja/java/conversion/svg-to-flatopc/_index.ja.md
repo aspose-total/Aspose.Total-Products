@@ -1,7 +1,7 @@
 ---
 title: SVGをFLATOPCにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してSVGをFLATOPCに変換する
-url: /ja/java/conversion/svg-to-flatopc/
+url_ignore: /ja/java/conversion/svg-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

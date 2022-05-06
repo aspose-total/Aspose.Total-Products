@@ -1,7 +1,7 @@
 ---
 title: Convert CGM to FODS in Android via Java
 description: Render CGM to FODS in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/cgm-to-fods/
+url_ignore: /android-java/conversion/cgm-to-fods/
 family: total
 platformtag: android-java
 feature: conversion

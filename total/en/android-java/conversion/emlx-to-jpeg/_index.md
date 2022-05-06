@@ -1,7 +1,7 @@
 ---
 title: Render EMLX to JPEG in Andorid App
 description: Export EMLX to JPEG without using Microsoft Word or Outlook in you Andorid applications 
-url: /android-java/conversion/emlx-to-jpeg/
+url_ignore: /android-java/conversion/emlx-to-jpeg/
 family: total
 platformtag: android-java
 feature: conversion

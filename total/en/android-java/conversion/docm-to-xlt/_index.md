@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOCM to XLT
 description: Convert DOCM to XLT in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/docm-to-xlt/
+url_ignore: /android-java/conversion/docm-to-xlt/
 family: total
 platformtag: android-java
 feature: conversion

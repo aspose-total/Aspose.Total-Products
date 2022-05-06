@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή DOC σε POT μέσω Java
 description: Java API για εξαγωγή DOC σε POT χωρίς χρήση Microsoft Word ή PowerPoint
-url: /el/java/conversion/doc-to-pot/
+url_ignore: /el/java/conversion/doc-to-pot/
 family: total
 platformtag: net
 feature: conversion

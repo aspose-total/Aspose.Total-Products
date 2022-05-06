@@ -1,7 +1,7 @@
 ---
 title: API .NET para convertir ODT a XLSX
 description: API de C# para convertir ODT a XLSX sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/odt-to-xlsx/
+url_ignore: /es/net/conversion/odt-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

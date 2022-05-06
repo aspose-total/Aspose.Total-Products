@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi PPTX sang DOTX qua Java
 description: Java API để xuất PPTX sang DOTX mà không cần sử dụng Microsoft Word hoặc PowerPoint
-url: /vi/java/conversion/pptx-to-dotx/
+url_ignore: /vi/java/conversion/pptx-to-dotx/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ otherformats: RTF FLATOPC WORDML TEXT DOTXM OTT DOT DOTM DOTX ODT DOTXX WORD
 {{% blocks/products/pf/agp/feature-section-col title="Cách chuyển PPTX sang DOTX qua Java" %}}
 1. Mở tệp PPTX bằng lớp [Trình bày](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Chuyển đổi PPTX sang HTML bằng cách sử dụng [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. Phương thức ISaveOptions-) và đặt Html làm SaveFormat
-3. Tải tệp HTML đã chuyển đổi bằng lớp [Dotxument](https://apireference.aspose.com/words/java/com.aspose.words/Dotxument)
-4. Lưu tài liệu sang định dạng DOTX bằng phương thức [save](https://apireference.aspose.com/words/java/com.aspose.words/Dotxument#save(java.lang.String,int))
+3. Tải tệp HTML đã chuyển đổi bằng lớp [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+4. Lưu tài liệu sang định dạng DOTX bằng phương thức [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
 Để chuyển đổi tệp PPTX sang DOTX, bạn có thể dễ dàng sử dụng Aspose.Total for Java trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) dựa trên dự án và bao gồm các thư viện trong pom.xml của bạn.
@@ -34,7 +34,7 @@ Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://download
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Yêu cầu chuyển đổi" %}}
-Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp PPTX sang DOTX với hình mờ. Để thêm hình mờ vào tài liệu DOTX, trước tiên bạn có thể chuyển đổi tệp PPTX sang HTML và thêm hình mờ vào đó. Để thêm hình mờ, hãy tải tệp HTML mới được tạo bằng cách sử dụng lớp [Dotxument](https://apireference.aspose.com/words/java/com.aspose.words/Dotxument), tạo một bản sao của TextWatermarkOptions và đặt thuộc tính của nó, Gọi phương thức Watermark.setText và chuyển văn bản & đối tượng hình mờ của TextWatermarkOptions.  
+Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp PPTX sang DOTX với hình mờ. Để thêm hình mờ vào tài liệu DOTX, trước tiên bạn có thể chuyển đổi tệp PPTX sang HTML và thêm hình mờ vào đó. Để thêm hình mờ, hãy tải tệp HTML mới được tạo bằng cách sử dụng lớp [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document), tạo một bản sao của TextWatermarkOptions và đặt thuộc tính của nó, Gọi phương thức Watermark.setText và chuyển văn bản & đối tượng hình mờ của TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}

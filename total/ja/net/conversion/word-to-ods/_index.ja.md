@@ -1,7 +1,7 @@
 ---
 title: WORDをODSに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにWORDをODSに変換するC＃API
-url: /ja/net/conversion/word-to-ods/
+url_ignore: /ja/net/conversion/word-to-ods/
 family: total
 platformtag: net
 feature: conversion

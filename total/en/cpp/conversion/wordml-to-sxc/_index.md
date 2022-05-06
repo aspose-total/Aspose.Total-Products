@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to SXC in C++
 description: C++ API to Convert WORDML to SXC without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/wordml-to-sxc/
+url_ignore: /cpp/conversion/wordml-to-sxc/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to EXCEL via Java
 description: Convert DOT to EXCEL via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/dot-to-excel/
+url_ignore: /java/conversion/dot-to-excel/
 family: total
 platformtag: java
 feature: conversion

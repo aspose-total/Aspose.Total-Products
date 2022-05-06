@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla PCL'yi ODS'ye dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan PCL Dosyasını ODS'ye Dönüştürmek için C# API'si
-url: /tr/net/conversion/pcl-to-ods/
+url_ignore: /tr/net/conversion/pcl-to-ods/
 family: total
 platformtag: net
 feature: conversion

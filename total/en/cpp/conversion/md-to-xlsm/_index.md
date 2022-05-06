@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MD to XLSM
 description: Convert MD to XLSM via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/md-to-xlsm/
+url_ignore: /cpp/conversion/md-to-xlsm/
 family: total
 platformtag: cpp
 feature: conversion

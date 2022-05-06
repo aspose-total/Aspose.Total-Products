@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi định dạng JSON sang PPT qua Java
 description: Phân tích cú pháp JSON thành PPT trong Java mà không cần sử dụng Microsoft PowerPoint
-url: /vi/java/conversion/json-to-ppt/
+url_ignore: /vi/java/conversion/json-to-ppt/
 family: total
 platformtag: net
 feature: conversion

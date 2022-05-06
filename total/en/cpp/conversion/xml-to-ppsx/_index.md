@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XML to PPSX  
 description: Convert XML to PPSX via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xml-to-ppsx/
+url_ignore: /cpp/conversion/xml-to-ppsx/
 family: total
 platformtag: cpp
 feature: conversion

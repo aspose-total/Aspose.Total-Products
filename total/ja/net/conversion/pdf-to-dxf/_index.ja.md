@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをDXFに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでPDFをDXFにエクスポートします
-url: /ja/net/conversion/pdf-to-dxf/
+url_ignore: /ja/net/conversion/pdf-to-dxf/
 family: total
 platformtag: net
 feature: conversion

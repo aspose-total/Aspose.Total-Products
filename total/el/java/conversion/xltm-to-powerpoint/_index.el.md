@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή XLTM σε POWERPOINT χρησιμοποιώντας Java
 description: Java API για εξαγωγή XLTM σε POWERPOINT με χρήση Excel ή Word
-url: /el/java/conversion/xltm-to-powerpoint/
+url_ignore: /el/java/conversion/xltm-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

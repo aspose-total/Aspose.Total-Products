@@ -1,7 +1,7 @@
 ---
 title: Convert OTT to ODS in C++
 description: C++ API to Convert OTT to ODS without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/ott-to-ods/
+url_ignore: /cpp/conversion/ott-to-ods/
 family: total
 platformtag: cpp
 feature: conversion

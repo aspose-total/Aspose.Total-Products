@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar PSD via .NET
 description: JSON ontleden naar PSD in C# zonder afhankelijkheden van derden te gebruiken
-url: /nl/net/conversion/json-to-psd/
+url_ignore: /nl/net/conversion/json-to-psd/
 family: total
 platformtag: net
 feature: conversion

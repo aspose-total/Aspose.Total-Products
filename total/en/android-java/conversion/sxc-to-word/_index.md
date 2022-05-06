@@ -1,7 +1,7 @@
 ---
 title: Export SXC to WORD in Android 
 description: Android API to Convert SXC to WORD without using Microsoft Word
-url: /android-java/conversion/sxc-to-word/
+url_ignore: /android-java/conversion/sxc-to-word/
 family: total
 platformtag: android-java
 feature: conversion

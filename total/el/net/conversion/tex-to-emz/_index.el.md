@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή TEX σε EMZ μέσω C# API
 description: Εξάγετε το TEX σε EMZ στις εφαρμογές σας .NET χωρίς να χρησιμοποιήσετε καμία εφαρμογή τρίτου μέρους
-url: /el/net/conversion/tex-to-emz/
+url_ignore: /el/net/conversion/tex-to-emz/
 family: total
 platformtag: net
 feature: conversion

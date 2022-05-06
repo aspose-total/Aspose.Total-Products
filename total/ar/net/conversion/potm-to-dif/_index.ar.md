@@ -1,7 +1,7 @@
 ---
 title: تحويل POTM إلى DIF عبر C#
 description: قم بتحويل POTM إلى DIF في C# بدون استخدام Microsoft Excel أو Powerpoint
-url: /ar/net/conversion/potm-to-dif/
+url_ignore: /ar/net/conversion/potm-to-dif/
 family: total
 platformtag: net
 feature: conversion

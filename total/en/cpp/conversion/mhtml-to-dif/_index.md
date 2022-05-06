@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MHTML to DIF
 description: Convert MHTML to DIF via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/mhtml-to-dif/
+url_ignore: /cpp/conversion/mhtml-to-dif/
 family: total
 platformtag: cpp
 feature: conversion

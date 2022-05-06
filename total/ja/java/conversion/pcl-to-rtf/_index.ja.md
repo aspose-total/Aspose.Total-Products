@@ -1,7 +1,7 @@
 ---
 title: PCLをRTFにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してPCLをRTFに変換する
-url: /ja/java/conversion/pcl-to-rtf/
+url_ignore: /ja/java/conversion/pcl-to-rtf/
 family: total
 platformtag: net
 feature: conversion

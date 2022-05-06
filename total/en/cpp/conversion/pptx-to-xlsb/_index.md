@@ -1,7 +1,7 @@
 ---
 title: Convert PPTX to XLSB via C++ 
 description: Export PPTX to XLSB in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pptx-to-xlsb/
+url_ignore: /cpp/conversion/pptx-to-xlsb/
 family: total
 platformtag: cpp
 feature: conversion

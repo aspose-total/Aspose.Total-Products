@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Rendern von PCL in XLTM
 description: Exportieren Sie PCL über die Java-API in XLTM, ohne Microsoft Excel oder Adobe Reader zu verwenden
-url: /de/java/conversion/pcl-to-xltm/
+url_ignore: /de/java/conversion/pcl-to-xltm/
 family: total
 platformtag: net
 feature: conversion

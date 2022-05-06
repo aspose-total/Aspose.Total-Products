@@ -1,7 +1,7 @@
 ---
 title: Export MSG to EPUB via C++
 description: C++ API to Convert MSG to EPUB without using Microsoft Word or Outlook
-url: /cpp/conversion/msg-to-epub/
+url_ignore: /cpp/conversion/msg-to-epub/
 family: total
 platformtag: cpp
 feature: conversion

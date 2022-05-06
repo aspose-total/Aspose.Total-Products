@@ -1,7 +1,7 @@
 ---
 title: POTM'u C# ile MHTML'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan POTM'u C#'ta MHTML'ye dönüştürün
-url: /tr/net/conversion/potm-to-mhtml/
+url_ignore: /tr/net/conversion/potm-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

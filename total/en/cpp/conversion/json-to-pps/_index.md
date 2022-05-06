@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to PPS via C++ 
 description: Parse JSON to PPS in C++ without using Microsoft PowerPoint
-url: /cpp/conversion/json-to-pps/
+url_ignore: /cpp/conversion/json-to-pps/
 family: total
 platformtag: cpp
 feature: conversion

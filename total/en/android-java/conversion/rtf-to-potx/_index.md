@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to POTX in Android via Java
 description: RTF to POTX conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/rtf-to-potx/
+url_ignore: /android-java/conversion/rtf-to-potx/
 family: total
 platformtag: android-java
 feature: conversion

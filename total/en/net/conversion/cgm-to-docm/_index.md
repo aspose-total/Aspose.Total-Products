@@ -1,7 +1,7 @@
 ---
 title: C# API to Export CGM to DOCM
 description: Convert CGM to DOCM without using Microsoft Word
-url: /net/conversion/cgm-to-docm/
+url_ignore: /net/conversion/cgm-to-docm/
 family: total
 platformtag: net
 feature: conversion

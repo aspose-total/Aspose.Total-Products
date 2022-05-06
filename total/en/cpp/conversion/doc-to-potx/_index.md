@@ -1,7 +1,7 @@
 ---
 title: Convert DOC to POTX via C++
 description: Export DOC to POTX in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/doc-to-potx/
+url_ignore: /cpp/conversion/doc-to-potx/
 family: total
 platformtag: cpp
 feature: conversion

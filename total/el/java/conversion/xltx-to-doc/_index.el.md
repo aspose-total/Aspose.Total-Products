@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή XLTX σε DOC χρησιμοποιώντας Java
 description: Java API για εξαγωγή XLTX σε DOC με χρήση Excel ή Word
-url: /el/java/conversion/xltx-to-doc/
+url_ignore: /el/java/conversion/xltx-to-doc/
 family: total
 platformtag: net
 feature: conversion

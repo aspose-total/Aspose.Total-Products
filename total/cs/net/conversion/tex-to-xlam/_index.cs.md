@@ -1,7 +1,7 @@
 ---
 title: Převeďte TEX na XLAM přes C# API
 description: C# API pro převod souboru TEX do XLAM bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/tex-to-xlam/
+url_ignore: /cs/net/conversion/tex-to-xlam/
 family: total
 platformtag: net
 feature: conversion

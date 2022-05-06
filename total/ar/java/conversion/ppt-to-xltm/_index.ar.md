@@ -1,7 +1,7 @@
 ---
 title: تحويل PPT إلى تنسيق XLTM عبر Java
 description: قم بتحويل PPT إلى تنسيق XLTM عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/ppt-to-xltm/
+url_ignore: /ar/java/conversion/ppt-to-xltm/
 family: total
 platformtag: net
 feature: conversion

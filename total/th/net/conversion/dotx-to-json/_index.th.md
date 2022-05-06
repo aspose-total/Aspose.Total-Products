@@ -1,7 +1,7 @@
 ---
 title: แปลงรูปแบบ DOTX เป็น JSON ผ่าน .NET
 description: แปลง DOTX เป็น JSON ใน C# โดยไม่ต้องใช้ Microsoft Excel หรือ Adobe Reader
-url: /th/net/conversion/dotx-to-json/
+url_ignore: /th/net/conversion/dotx-to-json/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ otherformats: XLT EXCEL ODS XLTM TSV XLAM SXC DIF XLS XLSB XLTX XLSX CSV FODS
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="แปลง DOTX เป็นรูปแบบ JSON ผ่าน C#" %}}
-1. เปิดไฟล์ DOTX โดยใช้คลาส [Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument)
-2. แปลง DOTX เป็น HTML โดยใช้วิธีการ [Save](https://apireference.aspose.com/words/net/aspose.words.dotxument/save/methods/4)
+1. เปิดไฟล์ DOTX โดยใช้คลาส [Document](https://apireference.aspose.com/words/net/aspose.words/Document)
+2. แปลง DOTX เป็น HTML โดยใช้วิธีการ [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4)
 3. โหลดเอกสาร HTML โดยใช้คลาส [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. บันทึกเอกสารในรูปแบบ JSON โดยใช้วิธี [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}

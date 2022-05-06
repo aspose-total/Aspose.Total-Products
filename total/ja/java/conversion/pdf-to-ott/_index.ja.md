@@ -1,7 +1,7 @@
 ---
 title: PDFをOTTにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してPDFをOTTに変換する
-url: /ja/java/conversion/pdf-to-ott/
+url_ignore: /ja/java/conversion/pdf-to-ott/
 family: total
 platformtag: net
 feature: conversion

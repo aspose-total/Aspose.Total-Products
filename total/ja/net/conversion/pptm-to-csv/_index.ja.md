@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPPTMをCSVに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPTMをCSVに変換する
-url: /ja/net/conversion/pptm-to-csv/
+url_ignore: /ja/net/conversion/pptm-to-csv/
 family: total
 platformtag: net
 feature: conversion

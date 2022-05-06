@@ -1,7 +1,7 @@
 ---
 title: SVG'yi OTT'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak SVG'yi OTT'ye dönüştürün
-url: /tr/java/conversion/svg-to-ott/
+url_ignore: /tr/java/conversion/svg-to-ott/
 family: total
 platformtag: net
 feature: conversion

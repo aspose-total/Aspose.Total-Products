@@ -1,7 +1,7 @@
 ---
 title: Convierta PCL a EMZ a través de la API de C#
 description: Exporte PCL a EMZ en sus aplicaciones .NET sin usar ninguna aplicación de terceros
-url: /es/net/conversion/pcl-to-emz/
+url_ignore: /es/net/conversion/pcl-to-emz/
 family: total
 platformtag: net
 feature: conversion
@@ -49,7 +49,7 @@ y guárdelo en formato EMZ usando el método [Guardar](https://apireference.aspo
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convertir y rotar archivos PCL a EMZ a través de C#" %}}
-Usando la API, también puede rotar la imagen EMZ de salida según sus necesidades. El método Image.RotateFlip se puede usar para rotar la imagen 90/180/270 grados y voltear la imagen horizontal o verticalmente. Puede especificar el tipo de rotación y volteo para aplicar a la imagen. Para rotar y voltear la imagen, puede cargar la imagen JPEG convertida utilizando el método de fábrica expuesto por la clase [Imagen](https://apireference.aspose.com/imaging/net/aspose.imaging/image) y llamar a la clase Imagen .RotateFlip al especificar el [RotateFlipType] apropiado (https://apireference.aspose.com/imaging/net/aspose.imaging/rotatefliptype). 
+Usando la API, también puede rotar la imagen EMZ de salida según sus necesidades. El método Image.RotateFlip se puede usar para rotar la imagen 90/180/270 grados y voltear la imagen horizontal o verticalmente. Puede especificar el tipo de rotación y volteo para aplicar a la imagen. Para rotar y voltear la imagen, puede cargar la imagen JPEG convertida utilizando el método de fábrica expuesto por la clase [Imagen](https://apireference.aspose.com/imaging/net/aspose.imaging/image) y llamar a la clase Imagen .RotateFlip al especificar el [RotateFlipType](https://apireference.aspose.com/imaging/net/aspose.imaging/rotatefliptype). 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-and-rotate-pdf-to-image.cs" >}}

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a POT-ot DOTM-ba Java segítségével
 description: Java API a POT exportálásához DOTM-ba Microsoft Word vagy PowerPoint használata nélkül
-url: /hu/java/conversion/pot-to-dotm/
+url_ignore: /hu/java/conversion/pot-to-dotm/
 family: total
 platformtag: net
 feature: conversion
@@ -24,7 +24,7 @@ otherformats: DOTMX DOTMM DOT DOTM ODT RTF FLATOPC OTT DOTX TEXT WORDML WORD
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 A POT-ból DOTM-fájlba konvertálásához egyszerűen használhatja az Aspose.Total for Java-t közvetlenül a [Maven]-ből (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) alapú projektet, és vegyen fel könyvtárakat a pom.xml fájlba.
 
-Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads] webhelyről (https://downloads.aspose.com/total/java).
+Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

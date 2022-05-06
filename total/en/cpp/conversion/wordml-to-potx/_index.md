@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to POTX via C++
 description: Export WORDML to POTX in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/wordml-to-potx/
+url_ignore: /cpp/conversion/wordml-to-potx/
 family: total
 platformtag: cpp
 feature: conversion

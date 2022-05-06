@@ -1,7 +1,7 @@
 ---
 title: Export MHTML to PPT in Android 
 description: Android API to Convert MHTML to PPT without using Microsoft Word
-url: /android-java/conversion/mhtml-to-ppt/
+url_ignore: /android-java/conversion/mhtml-to-ppt/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: PPSX'u C# ile XLTM'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan PPSX'u C#'ta XLTM'ye dönüştürün
-url: /tr/net/conversion/ppsx-to-xltm/
+url_ignore: /tr/net/conversion/ppsx-to-xltm/
 family: total
 platformtag: net
 feature: conversion

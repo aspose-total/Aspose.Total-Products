@@ -1,7 +1,7 @@
 ---
 title: Convert DOTX to PPSM in Android via Java
 description: DOTX to PPSM conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/dotx-to-ppsm/
+url_ignore: /android-java/conversion/dotx-to-ppsm/
 family: total
 platformtag: android-java
 feature: conversion

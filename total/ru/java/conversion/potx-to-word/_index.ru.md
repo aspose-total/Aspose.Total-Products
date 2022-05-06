@@ -1,7 +1,7 @@
 ---
 title: Конвертировать POTX в WORD через Java
 description: Java API для экспорта POTX в WORD без использования Microsoft Word или PowerPoint
-url: /ru/java/conversion/potx-to-word/
+url_ignore: /ru/java/conversion/potx-to-word/
 family: total
 platformtag: net
 feature: conversion

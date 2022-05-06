@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XPS to ODP  
 description: Convert XPS to ODP via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xps-to-odp/
+url_ignore: /cpp/conversion/xps-to-odp/
 family: total
 platformtag: cpp
 feature: conversion

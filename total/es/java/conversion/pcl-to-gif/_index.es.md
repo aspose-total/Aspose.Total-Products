@@ -1,7 +1,7 @@
 ---
 title: API de Java para exportar PCL a GIF
 description: Convierta PCL a GIF usando la API de Java en las instalaciones
-url: /es/java/conversion/pcl-to-gif/
+url_ignore: /es/java/conversion/pcl-to-gif/
 family: total
 platformtag: net
 feature: conversion

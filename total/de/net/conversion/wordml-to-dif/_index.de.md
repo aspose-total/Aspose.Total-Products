@@ -1,7 +1,7 @@
 ---
 title: .NET-API zum Konvertieren von WORDML in DIF
 description: C#-API zum Konvertieren von WORDML in DIF ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/wordml-to-dif/
+url_ignore: /de/net/conversion/wordml-to-dif/
 family: total
 platformtag: net
 feature: conversion

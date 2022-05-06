@@ -1,7 +1,7 @@
 ---
 title: Převeďte XPS na TXT přes C# API
 description: C# API pro převod souboru XPS do TXT bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/xps-to-txt/
+url_ignore: /cs/net/conversion/xps-to-txt/
 family: total
 platformtag: net
 feature: conversion

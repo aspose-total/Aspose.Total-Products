@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla TEX'yi WMF'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan TEX'yi .NET uygulamalarınızda WMF'ye aktarın
-url: /tr/net/conversion/tex-to-wmf/
+url_ignore: /tr/net/conversion/tex-to-wmf/
 family: total
 platformtag: net
 feature: conversion

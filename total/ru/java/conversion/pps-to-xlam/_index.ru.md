@@ -1,7 +1,7 @@
 ---
 title: Преобразование PPS в формат XLAM через Java
 description: Преобразуйте формат PPS в XLAM через Java без использования Microsoft Excel или PowerPoint.
-url: /ru/java/conversion/pps-to-xlam/
+url_ignore: /ru/java/conversion/pps-to-xlam/
 family: total
 platformtag: net
 feature: conversion

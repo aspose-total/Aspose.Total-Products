@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất PS sang DOT
 description: Chuyển đổi PS sang DOT mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/ps-to-dot/
+url_ignore: /vi/net/conversion/ps-to-dot/
 family: total
 platformtag: net
 feature: conversion

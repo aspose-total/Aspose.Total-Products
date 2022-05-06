@@ -1,7 +1,7 @@
 ---
 title: ODT'yi SXC'ye Dönüştürmek için .NET API
 description: Microsoft Excel veya Adobe Reader kullanmadan ODT'yi SXC'ye dönüştürmek için C# API'si
-url: /tr/net/conversion/odt-to-sxc/
+url_ignore: /tr/net/conversion/odt-to-sxc/
 family: total
 platformtag: net
 feature: conversion

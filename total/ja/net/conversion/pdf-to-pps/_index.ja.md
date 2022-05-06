@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをPPSにエクスポートする
 description: MicrosoftWordを使用せずにPDFをPPSに変換する.NETAPI
-url: /ja/net/conversion/pdf-to-pps/
+url_ignore: /ja/net/conversion/pdf-to-pps/
 family: total
 platformtag: net
 feature: conversion

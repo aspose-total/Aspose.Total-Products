@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení MD do ODS
 description: Export MD do ODS přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/md-to-ods/
+url_ignore: /cs/java/conversion/md-to-ods/
 family: total
 platformtag: net
 feature: conversion

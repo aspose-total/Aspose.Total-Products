@@ -1,7 +1,7 @@
 ---
 title: Java ile POT'u OTT'ye dönüştürün
 description: Microsoft Word veya PowerPoint kullanmadan POT'u OTT'a Aktarmak için Java API
-url: /tr/java/conversion/pot-to-ott/
+url_ignore: /tr/java/conversion/pot-to-ott/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: MDをDOCMにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにMDをDOCMに変換する
-url: /ja/net/conversion/md-to-docm/
+url_ignore: /ja/net/conversion/md-to-docm/
 family: total
 platformtag: net
 feature: conversion

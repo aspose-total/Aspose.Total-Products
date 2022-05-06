@@ -1,7 +1,7 @@
 ---
 title: Xuất PDF sang SWF qua C# API
 description: .NET API để chuyển đổi PDF sang SWF mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/pdf-to-swf/
+url_ignore: /vi/net/conversion/pdf-to-swf/
 family: total
 platformtag: net
 feature: conversion

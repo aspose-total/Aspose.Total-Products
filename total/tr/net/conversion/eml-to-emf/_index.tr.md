@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı EMF'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan EML'i EMF'ye dönüştürün
-url: /tr/net/conversion/eml-to-emf/
+url_ignore: /tr/net/conversion/eml-to-emf/
 family: total
 platformtag: net
 feature: conversion

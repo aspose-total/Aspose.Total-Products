@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie XSLFO über die C#-API in TXT
 description: C#-API zum Konvertieren von XSLFO-Dateien in TXT ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/xslfo-to-txt/
+url_ignore: /de/net/conversion/xslfo-to-txt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API untuk Mengekspor MSG ke TEXT
 description: Konversi MSG ke TEXT tanpa menggunakan Microsoft Word atau Outlook di .NET
-url: /id/net/conversion/msg-to-text/
+url_ignore: /id/net/conversion/msg-to-text/
 family: total
 platformtag: net
 feature: conversion

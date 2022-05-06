@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie MD über die C#-API in DXF
 description: Exportieren Sie MD in DXF in Ihren .NET-Anwendungen, ohne Anwendungen von Drittanbietern zu verwenden
-url: /de/net/conversion/md-to-dxf/
+url_ignore: /de/net/conversion/md-to-dxf/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar PPTM via .NET
 description: JSON ontleden naar PPTM in C# zonder Microsoft PowerPoint te gebruiken
-url: /nl/net/conversion/json-to-pptm/
+url_ignore: /nl/net/conversion/json-to-pptm/
 family: total
 platformtag: net
 feature: conversion

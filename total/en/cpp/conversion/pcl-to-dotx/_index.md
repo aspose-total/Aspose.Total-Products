@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PCL to DOTX
 description: Convert PCL to DOTX within C++ applications.
-url: /cpp/conversion/pcl-to-dotx/
+url_ignore: /cpp/conversion/pcl-to-dotx/
 family: total
 platformtag: cpp
 feature: conversion

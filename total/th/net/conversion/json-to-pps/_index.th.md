@@ -1,7 +1,7 @@
 ---
 title: แปลงรูปแบบ JSON เป็น PPS ผ่าน .NET
 description: แยก JSON เป็น PPS ใน C# โดยไม่ต้องใช้ Microsoft PowerPoint
-url: /th/net/conversion/json-to-pps/
+url_ignore: /th/net/conversion/json-to-pps/
 family: total
 platformtag: net
 feature: conversion

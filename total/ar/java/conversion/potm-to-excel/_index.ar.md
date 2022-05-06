@@ -1,7 +1,7 @@
 ---
 title: تحويل POTM إلى تنسيق EXCEL عبر Java
 description: قم بتحويل POTM إلى تنسيق EXCEL عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/potm-to-excel/
+url_ignore: /ar/java/conversion/potm-to-excel/
 family: total
 platformtag: net
 feature: conversion

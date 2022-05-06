@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してEPUBをPPSMに変換する
 description: MicrosoftWordを使用せずにEPUBをPPSMに変換するJavaAPI
-url: /ja/java/conversion/epub-to-ppsm/
+url_ignore: /ja/java/conversion/epub-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをMDに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPDFファイルをMDに変換するC＃API
-url: /ja/net/conversion/pdf-to-md/
+url_ignore: /ja/net/conversion/pdf-to-md/
 family: total
 platformtag: net
 feature: conversion

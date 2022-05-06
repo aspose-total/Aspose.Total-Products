@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή PCL σε APNG μέσω Java
 description: Εξαγωγή αρχείου PCL σε APNG στις εφαρμογές σας Java χωρίς να χρησιμοποιήσετε καμία εφαρμογή τρίτου μέρους
-url: /el/java/conversion/pcl-to-apng/
+url_ignore: /el/java/conversion/pcl-to-apng/
 family: total
 platformtag: net
 feature: conversion

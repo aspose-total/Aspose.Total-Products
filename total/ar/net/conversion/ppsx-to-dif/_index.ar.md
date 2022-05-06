@@ -1,7 +1,7 @@
 ---
 title: تحويل PPSX إلى DIF عبر C#
 description: قم بتحويل PPSX إلى DIF في C# بدون استخدام Microsoft Excel أو Powerpoint
-url: /ar/net/conversion/ppsx-to-dif/
+url_ignore: /ar/net/conversion/ppsx-to-dif/
 family: total
 platformtag: net
 feature: conversion

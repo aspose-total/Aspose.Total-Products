@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга PDF в DIF
 description: Экспорт PDF в DIF через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/pdf-to-dif/
+url_ignore: /ru/java/conversion/pdf-to-dif/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API เพื่อส่งออก PDF ไปยัง DOTX
 description: แปลง PDF เป็น DOTX โดยใช้ Java API . ในตัว
-url: /th/java/conversion/pdf-to-dotx/
+url_ignore: /th/java/conversion/pdf-to-dotx/
 family: total
 platformtag: net
 feature: conversion

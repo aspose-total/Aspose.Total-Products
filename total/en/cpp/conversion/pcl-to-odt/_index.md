@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PCL to ODT
 description: Convert PCL to ODT within C++ applications.
-url: /cpp/conversion/pcl-to-odt/
+url_ignore: /cpp/conversion/pcl-to-odt/
 family: total
 platformtag: cpp
 feature: conversion

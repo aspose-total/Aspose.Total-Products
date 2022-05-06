@@ -1,7 +1,7 @@
 ---
 title: Преобразование EXCEL в DOC с помощью Java
 description: Java API для экспорта EXCEL в DOC с использованием Excel или Word
-url: /ru/java/conversion/excel-to-doc/
+url_ignore: /ru/java/conversion/excel-to-doc/
 family: total
 platformtag: net
 feature: conversion

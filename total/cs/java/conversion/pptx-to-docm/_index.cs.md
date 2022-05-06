@@ -1,7 +1,7 @@
 ---
 title: Převeďte PPTX na DOCM přes Java
 description: Java API pro export PPTX do DOCM bez použití Microsoft Word nebo PowerPoint
-url: /cs/java/conversion/pptx-to-docm/
+url_ignore: /cs/java/conversion/pptx-to-docm/
 family: total
 platformtag: net
 feature: conversion

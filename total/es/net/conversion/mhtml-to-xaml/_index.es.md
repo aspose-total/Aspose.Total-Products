@@ -1,7 +1,7 @@
 ---
 title: Exportar MHTML a XAML a través de la API de C#
 description: .NET API para convertir MHTML a XAML sin usar Microsoft Word
-url: /es/net/conversion/mhtml-to-xaml/
+url_ignore: /es/net/conversion/mhtml-to-xaml/
 family: total
 platformtag: net
 feature: conversion

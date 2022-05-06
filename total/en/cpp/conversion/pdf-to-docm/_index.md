@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PDF to DOCM
 description: Convert PDF to DOCM within C++ applications.
-url: /cpp/conversion/pdf-to-docm/
+url_ignore: /cpp/conversion/pdf-to-docm/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してHTMLをAPNGに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでHTMLをAPNGにエクスポートします
-url: /ja/net/conversion/html-to-apng/
+url_ignore: /ja/net/conversion/html-to-apng/
 family: total
 platformtag: net
 feature: conversion

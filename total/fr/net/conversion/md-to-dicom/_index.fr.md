@@ -1,7 +1,7 @@
 ---
 title: Convertir MD en DICOM via l'API C#
 description: Exportez MD vers DICOM dans vos applications .NET sans utiliser d'application tierce
-url: /fr/net/conversion/md-to-dicom/
+url_ignore: /fr/net/conversion/md-to-dicom/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: TGA PSD DXF WMF DICOM SVGZ JPEG2000 EMZ WMZ IMAGE
 {{< blocks/products/pf/i18n/feature-page-header h1="Convertir le fichier MD en DICOM via C#" h2="Exportez MD vers DICOM dans les applications .NET sans utiliser Adobe<sup>&reg;</sup> Acrobat Reader ou toute autre application tierce" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), vous pouvez facilement exporter une image MD vers DICOM dans n'importe quelle application .NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.PDF pour .NET](https://products.aspose.com/pdf/net/), vous pouvez exporter MD au format JPEG. Après cela, en utilisant l'API de traitement d'image [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/), vous pouvez convertir JPEG en DICOM.
+En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez facilement exporter une image MD vers DICOM dans n'importe quelle application .NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), vous pouvez exporter MD au format JPEG. Après cela, en utilisant l'API de traitement d'image [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/), vous pouvez convertir JPEG en DICOM.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -1,7 +1,7 @@
 ---
 title: 用于将 PS 导出到 GIF 的 Java API
 description: 使用本地 Java API 将 PS 转换为 GIF
-url: /zh/java/conversion/ps-to-gif/
+url_ignore: /zh/java/conversion/ps-to-gif/
 family: total
 platformtag: net
 feature: conversion

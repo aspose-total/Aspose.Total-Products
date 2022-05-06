@@ -1,7 +1,7 @@
 ---
 title: DOCXをSXCに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにDOCXをSXCに変換するC＃API
-url: /ja/net/conversion/docx-to-sxc/
+url_ignore: /ja/net/conversion/docx-to-sxc/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ otherformats: TSV XLSB XLTX XLSX ODS FODS EXCEL DIF XLSM XLS SXC XLT XLTM XLAM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="DOCXをSXCに変換する.NETAPI" %}}
-1. [Document](https://apireference.aspose.com/words/net/aspose.words/docxument)クラスを使用してDOCXファイルを開きます
-2. [保存](https://apireference.aspose.com/words/net/aspose.words.docxument/save/methods/4)メソッドを使用してDOCXをHTMLに変換します
+1. [Document](https://apireference.aspose.com/words/net/aspose.words/Document)クラスを使用してDOCXファイルを開きます
+2. [保存](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4)メソッドを使用してDOCXをHTMLに変換します
 3. [ワークブック](https://apireference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
 4. [保存](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをSXC形式で保存し、「SXC」をSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -39,7 +39,7 @@ otherformats: TSV XLSB XLTX XLSX ODS FODS EXCEL DIF XLSM XLS SXC XLT XLTM XLAM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="C＃経由でストリームからDOCXドキュメントをロードする" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/)では、ストリームを介してDOCXドキュメントをロードすることもできます。ストリームからドキュメントを開くには、ドキュメントを含むストリームオブジェクトを[Docxument](https://apireference.aspose.com/words/net/aspose.words/docxument)コンストラクターに渡すだけです。次のコード例は、ストリームからドキュメントを開く方法を示しています。  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/)では、ストリームを介してDOCXドキュメントをロードすることもできます。ストリームからドキュメントを開くには、ドキュメントを含むストリームオブジェクトを[Document](https://apireference.aspose.com/words/net/aspose.words/Document)コンストラクターに渡すだけです。次のコード例は、ストリームからドキュメントを開く方法を示しています。  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ otherformats: TSV XLSB XLTX XLSX ODS FODS EXCEL DIF XLSM XLS SXC XLT XLTM XLAM
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="C＃を介してSXCファイルにカスタムプロパティを追加する" %}}
-DOCXをSXCに変換する際、[Aspose.Cells for .NET](https://products.aspose.com/cells/net/)を使用すると、SXCドキュメントにカスタムプロパティを追加できます。カスタムプロパティを追加するには、[CustomDocxumentPropertyCollection](の[Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocxumentpropertycollection/methods/add/index)メソッドを使用できます。 https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocxumentpropertycollection)クラス。 Addメソッドは、プロパティをExcelファイルに追加し、新しいドキュメントプロパティの参照を[Aspose.Cells.Properties.DocxumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties)として返します。 / docxumentproperty)オブジェクト。 
+DOCXをSXCに変換する際、[Aspose.Cells for .NET](https://products.aspose.com/cells/net/)を使用すると、SXCドキュメントにカスタムプロパティを追加できます。カスタムプロパティを追加するには、[CustomDocumentPropertyCollection](の[Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index)メソッドを使用できます。 https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection)クラス。 Addメソッドは、プロパティをExcelファイルに追加し、新しいドキュメントプロパティの参照を[Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties)として返します。 / Documentproperty)オブジェクト。 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

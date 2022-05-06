@@ -1,7 +1,7 @@
 ---
 title: Převést PPT na EXCEL přes C#
 description: Převeďte PPT na EXCEL v C# bez použití Microsoft Excel nebo Powerpoint
-url: /cs/net/conversion/ppt-to-excel/
+url_ignore: /cs/net/conversion/ppt-to-excel/
 family: total
 platformtag: net
 feature: conversion

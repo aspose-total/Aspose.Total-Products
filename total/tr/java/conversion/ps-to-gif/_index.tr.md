@@ -1,7 +1,7 @@
 ---
 title: PS'yi GIF'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak PS'yi GIF'ye dönüştürün
-url: /tr/java/conversion/ps-to-gif/
+url_ignore: /tr/java/conversion/ps-to-gif/
 family: total
 platformtag: net
 feature: conversion

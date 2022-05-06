@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XSLFO to POTM  
 description: Convert XSLFO to POTM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xslfo-to-potm/
+url_ignore: /cpp/conversion/xslfo-to-potm/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export MD to PPSM via C# API
 description: .NET API to Convert MD to PPSM without using Microsoft Word
-url: /net/conversion/md-to-ppsm/
+url_ignore: /net/conversion/md-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export CGM to SWF via C# API
 description: .NET API to Convert CGM to SWF without using Microsoft Word
-url: /net/conversion/cgm-to-swf/
+url_ignore: /net/conversion/cgm-to-swf/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: TEXをDOTMにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してTEXをDOTMに変換する
-url: /ja/java/conversion/tex-to-dotm/
+url_ignore: /ja/java/conversion/tex-to-dotm/
 family: total
 platformtag: net
 feature: conversion

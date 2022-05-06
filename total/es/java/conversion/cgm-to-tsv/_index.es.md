@@ -1,7 +1,7 @@
 ---
 title: API de Java para renderizar CGM a TSV
 description: Exporte CGM a TSV a través de la API de Java sin usar Microsoft Excel o Adobe Reader
-url: /es/java/conversion/cgm-to-tsv/
+url_ignore: /es/java/conversion/cgm-to-tsv/
 family: total
 platformtag: net
 feature: conversion

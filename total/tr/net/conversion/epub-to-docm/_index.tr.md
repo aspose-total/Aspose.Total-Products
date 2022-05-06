@@ -1,7 +1,7 @@
 ---
 title: EPUB'yi DOCM'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan EPUB'yi DOCM'ye dönüştürün
-url: /tr/net/conversion/epub-to-docm/
+url_ignore: /tr/net/conversion/epub-to-docm/
 family: total
 platformtag: net
 feature: conversion

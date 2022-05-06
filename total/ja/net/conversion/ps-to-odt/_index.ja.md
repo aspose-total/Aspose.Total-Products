@@ -1,7 +1,7 @@
 ---
 title: PSをODTにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにPSをODTに変換する
-url: /ja/net/conversion/ps-to-odt/
+url_ignore: /ja/net/conversion/ps-to-odt/
 family: total
 platformtag: net
 feature: conversion

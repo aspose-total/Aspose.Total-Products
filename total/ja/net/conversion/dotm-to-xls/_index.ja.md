@@ -1,7 +1,7 @@
 ---
 title: DOTMをXLSに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにDOTMをXLSに変換するC＃API
-url: /ja/net/conversion/dotm-to-xls/
+url_ignore: /ja/net/conversion/dotm-to-xls/
 family: total
 platformtag: net
 feature: conversion

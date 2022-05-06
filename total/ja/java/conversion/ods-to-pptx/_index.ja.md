@@ -1,7 +1,7 @@
 ---
 title: Javaを使用してODSをPPTXに変換する
 description: ExcelまたはWordを使用してODSをPPTXにエクスポートするJavaAPI
-url: /ja/java/conversion/ods-to-pptx/
+url_ignore: /ja/java/conversion/ods-to-pptx/
 family: total
 platformtag: net
 feature: conversion

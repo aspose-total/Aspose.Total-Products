@@ -1,7 +1,7 @@
 ---
 title: Convertir MD en TGA via Java
 description: Exportez le fichier MD vers TGA dans vos applications Java sans utiliser d'application tierce
-url: /fr/java/conversion/md-to-tga/
+url_ignore: /fr/java/conversion/md-to-tga/
 family: total
 platformtag: net
 feature: conversion

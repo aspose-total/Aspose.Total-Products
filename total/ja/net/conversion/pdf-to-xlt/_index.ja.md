@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをXLTに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPDFファイルをXLTに変換するC＃API
-url: /ja/net/conversion/pdf-to-xlt/
+url_ignore: /ja/net/conversion/pdf-to-xlt/
 family: total
 platformtag: net
 feature: conversion

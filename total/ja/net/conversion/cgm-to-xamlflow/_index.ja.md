@@ -1,7 +1,7 @@
 ---
 title: CGMをXAMLFLOWにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにCGMをXAMLFLOWに変換する
-url: /ja/net/conversion/cgm-to-xamlflow/
+url_ignore: /ja/net/conversion/cgm-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

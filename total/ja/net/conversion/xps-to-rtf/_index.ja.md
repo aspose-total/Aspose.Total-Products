@@ -1,7 +1,7 @@
 ---
 title: XPSをRTFにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにXPSをRTFに変換する
-url: /ja/net/conversion/xps-to-rtf/
+url_ignore: /ja/net/conversion/xps-to-rtf/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование PCL в EMZ через Java
 description: Экспорт файла PCL в EMZ в ваших приложениях Java без использования каких-либо сторонних приложений.
-url: /ru/java/conversion/pcl-to-emz/
+url_ignore: /ru/java/conversion/pcl-to-emz/
 family: total
 platformtag: net
 feature: conversion

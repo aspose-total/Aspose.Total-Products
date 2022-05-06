@@ -1,7 +1,7 @@
 ---
 title: Esporta MSG in DOT tramite Java
 description: API Java per convertire MSG in DOT senza utilizzare Microsoft Word o Outlook
-url: /it/java/conversion/msg-to-dot/
+url_ignore: /it/java/conversion/msg-to-dot/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PCL to WORDML
 description: Transform PCL to WORDML via Android via Java API
-url: /android-java/conversion/pcl-to-wordml/
+url_ignore: /android-java/conversion/pcl-to-wordml/
 family: total
 platformtag: android-java
 feature: conversion

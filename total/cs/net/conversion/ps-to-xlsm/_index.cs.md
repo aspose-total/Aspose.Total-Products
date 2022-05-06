@@ -1,7 +1,7 @@
 ---
 title: Převeďte PS na XLSM přes C# API
 description: C# API pro převod souboru PS do XLSM bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/ps-to-xlsm/
+url_ignore: /cs/net/conversion/ps-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تحويل MHTML إلى ODP عبر Java API
 description: Java API لتحويل MHTML إلى ODP دون استخدام Microsoft Word
-url: /ar/java/conversion/mhtml-to-odp/
+url_ignore: /ar/java/conversion/mhtml-to-odp/
 family: total
 platformtag: net
 feature: conversion

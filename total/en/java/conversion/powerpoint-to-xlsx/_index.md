@@ -1,7 +1,7 @@
 ---
 title: Convert POWERPOINT to XLSX Format via Java
 description: Convert POWERPOINT to XLSX format via Java without using using Microsoft Excel or PowerPoint
-url: /java/conversion/powerpoint-to-xlsx/
+url_ignore: /java/conversion/powerpoint-to-xlsx/
 family: total
 platformtag: java
 feature: conversion

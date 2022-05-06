@@ -1,7 +1,7 @@
 ---
 title: TEXをFLATOPCにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにTEXをFLATOPCに変換する
-url: /ja/net/conversion/tex-to-flatopc/
+url_ignore: /ja/net/conversion/tex-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

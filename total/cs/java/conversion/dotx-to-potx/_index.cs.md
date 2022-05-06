@@ -1,7 +1,7 @@
 ---
 title: Převést DOTX na POTX přes Java
 description: Java API pro export DOTX do POTX bez použití Microsoft Word nebo PowerPoint
-url: /cs/java/conversion/dotx-to-potx/
+url_ignore: /cs/java/conversion/dotx-to-potx/
 family: total
 platformtag: net
 feature: conversion

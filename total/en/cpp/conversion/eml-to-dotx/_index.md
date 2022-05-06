@@ -1,7 +1,7 @@
 ---
 title: Export EML to DOTX via C++
 description: C++ API to Convert EML to DOTX without using Microsoft Word or Outlook
-url: /cpp/conversion/eml-to-dotx/
+url_ignore: /cpp/conversion/eml-to-dotx/
 family: total
 platformtag: cpp
 feature: conversion

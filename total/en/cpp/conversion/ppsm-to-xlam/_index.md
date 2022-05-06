@@ -1,7 +1,7 @@
 ---
 title: Convert PPSM to XLAM via C++ 
 description: Export PPSM to XLAM in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/ppsm-to-xlam/
+url_ignore: /cpp/conversion/ppsm-to-xlam/
 family: total
 platformtag: cpp
 feature: conversion

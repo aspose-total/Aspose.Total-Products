@@ -1,7 +1,7 @@
 ---
 title: Converteer XSLFO naar DXF via C# API
 description: Exporteer XSLFO naar DXF in uw .NET-toepassingen zonder een toepassing van derden te gebruiken
-url: /nl/net/conversion/xslfo-to-dxf/
+url_ignore: /nl/net/conversion/xslfo-to-dxf/
 family: total
 platformtag: net
 feature: conversion

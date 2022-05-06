@@ -1,7 +1,7 @@
 ---
 title: PCL'yi DOCM'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak PCL'yi DOCM'ye dönüştürün
-url: /tr/java/conversion/pcl-to-docm/
+url_ignore: /tr/java/conversion/pcl-to-docm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: MOBI'yi XLSB'ye Dönüştürmek için .NET API
 description: Microsoft Excel veya Adobe Reader kullanmadan MOBI'yi XLSB'ye dönüştürmek için C# API'si
-url: /tr/net/conversion/mobi-to-xlsb/
+url_ignore: /tr/net/conversion/mobi-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

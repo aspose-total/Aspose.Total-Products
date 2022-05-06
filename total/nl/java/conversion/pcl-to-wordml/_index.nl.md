@@ -1,7 +1,7 @@
 ---
 title: Java API om PCL naar WORDML te exporteren
 description: Converteer PCL naar WORDML met behulp van on-premise Java API
-url: /nl/java/conversion/pcl-to-wordml/
+url_ignore: /nl/java/conversion/pcl-to-wordml/
 family: total
 platformtag: net
 feature: conversion

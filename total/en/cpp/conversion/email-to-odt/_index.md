@@ -1,7 +1,7 @@
 ---
 title: Export EMAIL to ODT via C++
 description: C++ API to Convert EMAIL to ODT without using Microsoft Word or Outlook
-url: /cpp/conversion/email-to-odt/
+url_ignore: /cpp/conversion/email-to-odt/
 family: total
 platformtag: cpp
 feature: conversion

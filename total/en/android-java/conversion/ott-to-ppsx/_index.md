@@ -1,7 +1,7 @@
 ---
 title: Convert OTT to PPSX in Android via Java
 description: OTT to PPSX conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/ott-to-ppsx/
+url_ignore: /android-java/conversion/ott-to-ppsx/
 family: total
 platformtag: android-java
 feature: conversion

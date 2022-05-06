@@ -1,7 +1,7 @@
 ---
 title: .NET API om DOTX naar SXC te converteren
 description: C# API om DOTX naar SXC te converteren zonder Microsoft Excel of Adobe Reader te gebruiken
-url: /nl/net/conversion/dotx-to-sxc/
+url_ignore: /nl/net/conversion/dotx-to-sxc/
 family: total
 platformtag: net
 feature: conversion
@@ -18,10 +18,10 @@ Door [Aspose.Total for .NET](https://products.aspose.com/total/net/) te gebruike
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API om DOTX naar SXC te converteren" %}}
-1. Open het DOTX-bestand met de klasse [Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument)
-2. Converteer DOTX naar HTML met behulp van de [Save](https://apireference.aspose.com/words/net/aspose.words.dotxument/save/methods/4) methode
-3. Laad HTML-dotxument met behulp van [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) class
-4. Sla het dotxument op in SXC-indeling met de methode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) en stel `SXC` in als SaveFormat
+1. Open het DOTX-bestand met de klasse [Document](https://apireference.aspose.com/words/net/aspose.words/Document)
+2. Converteer DOTX naar HTML met behulp van de [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4) methode
+3. Laad HTML-Document met behulp van [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) class
+4. Sla het Document op in SXC-indeling met de methode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) en stel `SXC` in als SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
@@ -38,17 +38,16 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Laad DOTX Dotxument van Stream via C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) stelt u ook in staat om DOTX-dotxumenten via stream te laden. Om een dotxument uit een stream te openen, geeft u eenvoudig een stream-object dat het dotxument bevat door aan de [Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument)-constructor. Het volgende codevoorbeeld laat zien hoe u een dotxument vanuit een stream opent:  
+{{% blocks/products/pf/feature-page-section  h2="Laad DOTX Document van Stream via C#" %}}
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) stelt u ook in staat om DOTX-Documenten via stream te laden. Om een Document uit een stream te openen, geeft u eenvoudig een stream-object dat het Document bevat door aan de [Document](https://apireference.aspose.com/words/net/aspose.words/Document)-constructor. Het volgende codevoorbeeld laat zien hoe u een Document vanuit een stream opent:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Aangepaste eigenschappen toevoegen in SXC-bestand via C#" %}}
-Tijdens het converteren van DOTX naar SXC kunt u met [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) aangepaste eigenschappen toevoegen aan uw SXC-dotxumenten. Om een aangepaste eigenschap toe te voegen, kunt u de methode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotxumentpropertycollection/methods/add/index) gebruiken voor de [CustomDotxumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotxumentpropertycollection) klasse. De Add-methode voegt de eigenschap toe aan het Excel-bestand en retourneert een verwijzing voor de nieuwe dotxumenteigenschap als [Aspose.Cells.Properties.DotxumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /dotxumentproperty) object. 
+Tijdens het converteren van DOTX naar SXC kunt u met [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) aangepaste eigenschappen toevoegen aan uw SXC-Documenten. Om een aangepaste eigenschap toe te voegen, kunt u de methode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index) gebruiken voor de [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection) klasse. De Add-methode voegt de eigenschap toe aan het Excel-bestand en retourneert een verwijzing voor de nieuwe Documenteigenschap als [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /Documentproperty) object. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

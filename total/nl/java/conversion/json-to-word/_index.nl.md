@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-formaat naar WORD via Java
 description: JSON ontleden naar WORD in Java zonder Microsoft Word te gebruiken
-url: /nl/java/conversion/json-to-word/
+url_ignore: /nl/java/conversion/json-to-word/
 family: total
 platformtag: net
 feature: conversion

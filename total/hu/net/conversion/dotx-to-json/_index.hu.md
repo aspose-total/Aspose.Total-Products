@@ -1,7 +1,7 @@
 ---
 title: A DOTX konvertálása JSON formátumba .NET-en keresztül
 description: Konvertálja a DOTX-t JSON-ba C#-ban Microsoft Excel vagy Adobe Reader használata nélkül
-url: /hu/net/conversion/dotx-to-json/
+url_ignore: /hu/net/conversion/dotx-to-json/
 family: total
 platformtag: net
 feature: conversion
@@ -18,16 +18,16 @@ Az [Aspose.Total for .NET](https://products.aspose.com/total/net/) használatáv
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="A DOTX konvertálása JSON formátumba a C# segítségével" %}}
-1. Nyissa meg a DOTX-fájlt a [Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument) osztály használatával
-2. Alakítsa át a DOTX-t HTML-vé a [Mentés](https://apireference.aspose.com/words/net/aspose.words.dotxument/save/methods/4) módszerrel
+1. Nyissa meg a DOTX-fájlt a [Document](https://apireference.aspose.com/words/net/aspose.words/Document) osztály használatával
+2. Alakítsa át a DOTX-t HTML-vé a [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4) módszerrel
 3. Töltsön be HTML-dokumentumot a [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) osztály használatával
-4. Mentse a dokumentumot JSON formátumba a [Mentés](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) módszerrel
+4. Mentse a dokumentumot JSON formátumba a [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) módszerrel
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 Telepítés parancssorból ```nuget install Aspose.Total``` néven, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.Total``` paranccsal.
 
-Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads] webhelyről (https://downloads.aspose.com/total/net).
+Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads](https://downloads.aspose.com/total/net) webhelyről.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}

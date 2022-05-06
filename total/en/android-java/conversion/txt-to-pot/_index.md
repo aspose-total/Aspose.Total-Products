@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to POT in Android via Java
 description: TXT to POT conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/txt-to-pot/
+url_ignore: /android-java/conversion/txt-to-pot/
 family: total
 platformtag: android-java
 feature: conversion

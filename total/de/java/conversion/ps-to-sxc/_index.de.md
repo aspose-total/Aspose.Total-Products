@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Rendern von PS in SXC
 description: Exportieren Sie PS über die Java-API in SXC, ohne Microsoft Excel oder Adobe Reader zu verwenden
-url: /de/java/conversion/ps-to-sxc/
+url_ignore: /de/java/conversion/ps-to-sxc/
 family: total
 platformtag: net
 feature: conversion

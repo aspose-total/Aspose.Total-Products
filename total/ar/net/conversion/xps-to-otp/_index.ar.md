@@ -1,7 +1,7 @@
 ---
 title: تصدير XPS إلى OTP عبر C# API
 description: NET API لتحويل XPS إلى OTP دون استخدام Microsoft Word
-url: /ar/net/conversion/xps-to-otp/
+url_ignore: /ar/net/conversion/xps-to-otp/
 family: total
 platformtag: net
 feature: conversion

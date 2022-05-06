@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してEPUBをPPSMにエクスポートする
 description: MicrosoftWordを使用せずにEPUBをPPSMに変換する.NETAPI
-url: /ja/net/conversion/epub-to-ppsm/
+url_ignore: /ja/net/conversion/epub-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

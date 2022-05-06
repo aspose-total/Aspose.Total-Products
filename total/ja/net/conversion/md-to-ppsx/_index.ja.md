@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMDをPPSXにエクスポートする
 description: MicrosoftWordを使用せずにMDをPPSXに変換する.NETAPI
-url: /ja/net/conversion/md-to-ppsx/
+url_ignore: /ja/net/conversion/md-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

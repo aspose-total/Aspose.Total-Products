@@ -1,7 +1,7 @@
 ---
 title: Java経由でJSON形式をFLATOPCに変換する
 description: MicrosoftWordを使用せずにJavaでJSONをFLATOPCに解析する
-url: /ja/java/conversion/json-to-flatopc/
+url_ignore: /ja/java/conversion/json-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

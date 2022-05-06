@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XSLFO to XLAM
 description: Convert XSLFO to XLAM via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xslfo-to-xlam/
+url_ignore: /cpp/conversion/xslfo-to-xlam/
 family: total
 platformtag: cpp
 feature: conversion

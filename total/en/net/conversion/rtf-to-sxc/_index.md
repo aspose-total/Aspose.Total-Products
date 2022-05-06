@@ -1,7 +1,7 @@
 ---
 title: .NET API to Convert RTF to SXC 
 description: C# API to Convert RTF to SXC without using Microsoft Excel or Adobe Reader
-url: /net/conversion/rtf-to-sxc/
+url_ignore: /net/conversion/rtf-to-sxc/
 family: total
 platformtag: net
 feature: conversion

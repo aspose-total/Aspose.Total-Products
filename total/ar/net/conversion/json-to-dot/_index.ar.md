@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى DOT عبر .NET
 description: تحليل JSON إلى DOT في C# بدون استخدام Microsoft Word
-url: /ar/net/conversion/json-to-dot/
+url_ignore: /ar/net/conversion/json-to-dot/
 family: total
 platformtag: net
 feature: conversion

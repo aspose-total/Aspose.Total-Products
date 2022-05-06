@@ -1,7 +1,7 @@
 ---
 title: Konvertera PPT till MARKDOWN-format via Java
 description: Konvertera PPT till MARKDOWN-format via Java utan att använda Microsoft Excel eller PowerPoint
-url: /sv/java/conversion/ppt-to-markdown/
+url_ignore: /sv/java/conversion/ppt-to-markdown/
 family: total
 platformtag: net
 feature: conversion

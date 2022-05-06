@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก SVG ไปยัง OTT
 description: แปลง SVG เป็น OTT โดยไม่ต้องใช้ Microsoft Word
-url: /th/net/conversion/svg-to-ott/
+url_ignore: /th/net/conversion/svg-to-ott/
 family: total
 platformtag: net
 feature: conversion

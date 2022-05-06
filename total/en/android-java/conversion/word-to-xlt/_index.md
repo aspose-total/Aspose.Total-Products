@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert WORD to XLT
 description: Convert WORD to XLT in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/word-to-xlt/
+url_ignore: /android-java/conversion/word-to-xlt/
 family: total
 platformtag: android-java
 feature: conversion

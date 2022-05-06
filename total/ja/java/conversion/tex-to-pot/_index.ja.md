@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してTEXをPOTに変換する
 description: MicrosoftWordを使用せずにTEXをPOTに変換するJavaAPI
-url: /ja/java/conversion/tex-to-pot/
+url_ignore: /ja/java/conversion/tex-to-pot/
 family: total
 platformtag: net
 feature: conversion

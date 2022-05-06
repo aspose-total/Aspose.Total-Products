@@ -1,7 +1,7 @@
 ---
 title: EMAILをPDFにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMAILをPDFに変換する
-url: /ja/net/conversion/email-to-pdf/
+url_ignore: /ja/net/conversion/email-to-pdf/
 family: total
 platformtag: net
 feature: conversion

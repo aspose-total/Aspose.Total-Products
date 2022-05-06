@@ -1,7 +1,7 @@
 ---
 title: Export XPS to PPSM in Android 
 description: Android API to Convert XPS to PPSM without using Microsoft Word
-url: /android-java/conversion/xps-to-ppsm/
+url_ignore: /android-java/conversion/xps-to-ppsm/
 family: total
 platformtag: android-java
 feature: conversion

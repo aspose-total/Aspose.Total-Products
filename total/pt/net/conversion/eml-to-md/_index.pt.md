@@ -1,7 +1,7 @@
 ---
 title: API C# para exportar EML para MD
 description: Converta EML para MD sem usar o Microsoft Word ou Outlook em .NET
-url: /pt/net/conversion/eml-to-md/
+url_ignore: /pt/net/conversion/eml-to-md/
 family: total
 platformtag: net
 feature: conversion

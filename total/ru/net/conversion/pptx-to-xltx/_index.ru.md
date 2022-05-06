@@ -1,7 +1,7 @@
 ---
 title: Преобразование PPTX в XLTX через C#
 description: Преобразование PPTX в XLTX на C# без использования Microsoft Excel или Powerpoint
-url: /ru/net/conversion/pptx-to-xltx/
+url_ignore: /ru/net/conversion/pptx-to-xltx/
 family: total
 platformtag: net
 feature: conversion
@@ -33,7 +33,8 @@ otherformats: EXCEL DIF ODS XLSM XLTX XLT XLSX SXC XLTM MHTML FODS TSV MARKDOWN 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ otherformats: EXCEL DIF ODS XLSM XLTX XLT XLSX SXC XLTM MHTML FODS TSV MARKDOWN 
 При преобразовании файла PPTX в XLTX, если ваш входной документ PPTX защищен паролем, вы не можете преобразовать его в XLTX без расшифровки документа. Когда ваш документ защищен паролем, это означает, что он налагает определенные ограничения на представление. Для снятия ограничений необходимо ввести пароль. Презентация, защищенная паролем, считается заблокированной презентацией. API позволяет открыть зашифрованный документ, указав правильный пароль в объекте LoadOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: EXCEL DIF ODS XLSM XLTX XLT XLSX SXC XLTM MHTML FODS TSV MARKDOWN 
 При преобразовании файла PPTX в XLTX вы также можете добавить водяной знак в формат выходного файла XLTX. Чтобы добавить водяной знак, вы можете создать новый объект Workbook и открыть преобразованный HTML-документ, выбрать Worksheet через его индекс, создать Shape и использовать его функцию AddTextEffect. После этого вы можете сохранить свой HTML-документ в формате XLTX с водяным знаком. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

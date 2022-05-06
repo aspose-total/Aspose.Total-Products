@@ -1,7 +1,7 @@
 ---
 title: TEX'yi DOT'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan TEX'yi DOT'ye dönüştürün
-url: /tr/net/conversion/tex-to-dot/
+url_ignore: /tr/net/conversion/tex-to-dot/
 family: total
 platformtag: net
 feature: conversion

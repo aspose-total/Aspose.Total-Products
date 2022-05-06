@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení PDF do SXC
 description: Export PDF do SXC přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/pdf-to-sxc/
+url_ignore: /cs/java/conversion/pdf-to-sxc/
 family: total
 platformtag: net
 feature: conversion

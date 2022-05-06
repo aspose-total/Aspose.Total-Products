@@ -1,7 +1,7 @@
 ---
 title: 通过 Java 将 DOCM 转换为 PPSX
 description: 无需使用 Microsoft Word 或 PowerPoint 即可将 DOCM 导出为 PPSX 的 Java API
-url: /zh/java/conversion/docm-to-ppsx/
+url_ignore: /zh/java/conversion/docm-to-ppsx/
 family: total
 platformtag: net
 feature: conversion
@@ -23,7 +23,7 @@ otherformats: POTX PPTX PPSM POTM POT PPTM POWERPOINT PPS PPSX PPT CSV DIF FODS 
 6. 使用 [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) 方法将文档保存到 PPSX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
-对于 DOCM 到 PPSX 文件的转换，您可以直接从 [Maven] 轻松使用 Aspose.Total for Java (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) 基于项目并在 pom.xml 中包含库。
+对于 DOCM 到 PPSX 文件的转换，您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) 基于项目并在 pom.xml 中包含库。
 
 或者，您可以从 [下载](https://downloads.aspose.com/total/java) 获取 ZIP 文件。
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -35,7 +35,7 @@ otherformats: POTX PPTX PPSM POTM POT PPTM POWERPOINT PPS PPSX PPT CSV DIF FODS 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="转换要求" %}}Document
-该 API 还允许您将受密码保护的 DOCM 文档转换为 PPSX。如果您输入的 DOCM 文档受密码保护，则您无法在不使用密码的情况下将其转换为 PPSX 格式。为了打开加密文档，您可以在 LoadOptions 对象中设置正确的密码并将其传递给 Docmument 构造函数。  
+该 API 还允许您将受密码保护的 DOCM 文档转换为 PPSX。如果您输入的 DOCM 文档受密码保护，则您无法在不使用密码的情况下将其转换为 PPSX 格式。为了打开加密文档，您可以在 LoadOptions 对象中设置正确的密码并将其传递给 Document 构造函数。  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-docm-to-pptx-with-watermark.java" >}}

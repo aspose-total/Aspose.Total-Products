@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга MD в ODS
 description: Экспорт MD в ODS через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/md-to-ods/
+url_ignore: /ru/java/conversion/md-to-ods/
 family: total
 platformtag: net
 feature: conversion

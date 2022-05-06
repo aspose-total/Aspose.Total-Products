@@ -1,7 +1,7 @@
 ---
 title: Convert DOTM to EXCEL in C++
 description: C++ API to Convert DOTM to EXCEL without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/dotm-to-excel/
+url_ignore: /cpp/conversion/dotm-to-excel/
 family: total
 platformtag: cpp
 feature: conversion

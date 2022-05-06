@@ -1,7 +1,7 @@
 ---
 title: Convert PDF to TSV in Android via Java
 description: Render PDF to TSV in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/pdf-to-tsv/
+url_ignore: /android-java/conversion/pdf-to-tsv/
 family: total
 platformtag: android-java
 feature: conversion

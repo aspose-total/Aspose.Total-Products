@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export CGM to RTF
 description: Convert CGM to RTF within C++ applications.
-url: /cpp/conversion/cgm-to-rtf/
+url_ignore: /cpp/conversion/cgm-to-rtf/
 family: total
 platformtag: cpp
 feature: conversion

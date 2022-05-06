@@ -1,7 +1,7 @@
 ---
 title: Android API to Render EPUB to PS
 description: Transform EPUB to PS via Android via Java API
-url: /android-java/conversion/epub-to-ps/
+url_ignore: /android-java/conversion/epub-to-ps/
 family: total
 platformtag: android-java
 feature: conversion

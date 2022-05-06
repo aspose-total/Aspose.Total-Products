@@ -1,7 +1,7 @@
 ---
 title: Convierta XPS a SWF a través de la API de Java
 description: API de Java para convertir XPS a SWF sin usar Microsoft Word
-url: /es/java/conversion/xps-to-swf/
+url_ignore: /es/java/conversion/xps-to-swf/
 family: total
 platformtag: net
 feature: conversion

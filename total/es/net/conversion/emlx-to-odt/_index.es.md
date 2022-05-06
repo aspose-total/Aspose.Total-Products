@@ -1,7 +1,7 @@
 ---
 title: API de C# para exportar correo electrónico a ODT
 description: Convierta EMLX a ODT sin usar Microsoft Word o Outlook en .NET
-url: /es/net/conversion/emlx-to-odt/
+url_ignore: /es/net/conversion/emlx-to-odt/
 family: total
 platformtag: net
 feature: conversion

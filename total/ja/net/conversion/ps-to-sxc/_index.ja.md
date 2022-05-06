@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPSをSXCに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPSファイルをSXCに変換するC＃API
-url: /ja/net/conversion/ps-to-sxc/
+url_ignore: /ja/net/conversion/ps-to-sxc/
 family: total
 platformtag: net
 feature: conversion

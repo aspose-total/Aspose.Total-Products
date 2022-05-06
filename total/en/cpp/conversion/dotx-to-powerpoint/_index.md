@@ -1,7 +1,7 @@
 ---
 title: Convert DOTX to POWERPOINT via C++
 description: Export DOTX to POWERPOINT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/dotx-to-powerpoint/
+url_ignore: /cpp/conversion/dotx-to-powerpoint/
 family: total
 platformtag: cpp
 feature: conversion

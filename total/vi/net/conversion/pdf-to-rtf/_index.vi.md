@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất PDF sang RTF
 description: Chuyển đổi PDF sang RTF mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/pdf-to-rtf/
+url_ignore: /vi/net/conversion/pdf-to-rtf/
 family: total
 platformtag: net
 feature: conversion

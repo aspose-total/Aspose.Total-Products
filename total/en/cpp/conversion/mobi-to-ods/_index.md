@@ -1,7 +1,7 @@
 ---
 title: Convert MOBI to ODS in C++
 description: C++ API to Convert MOBI to ODS without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/mobi-to-ods/
+url_ignore: /cpp/conversion/mobi-to-ods/
 family: total
 platformtag: cpp
 feature: conversion

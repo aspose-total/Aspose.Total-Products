@@ -1,7 +1,7 @@
 ---
 title: Export XLS to PPTX in Android 
 description: Android API to Convert XLS to PPTX without using Microsoft Word
-url: /android-java/conversion/xls-to-pptx/
+url_ignore: /android-java/conversion/xls-to-pptx/
 family: total
 platformtag: android-java
 feature: conversion

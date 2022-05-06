@@ -1,7 +1,7 @@
 ---
 title: Java API om ODT naar XLSX te converteren
 description: Converteer ODT naar XLSX via Java zonder Microsoft Word of Microsoft Excel te gebruiken
-url: /nl/java/conversion/odt-to-xlsx/
+url_ignore: /nl/java/conversion/odt-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

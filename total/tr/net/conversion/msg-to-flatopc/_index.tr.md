@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı FLATOPC'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan MSG'i FLATOPC'ye dönüştürün
-url: /tr/net/conversion/msg-to-flatopc/
+url_ignore: /tr/net/conversion/msg-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

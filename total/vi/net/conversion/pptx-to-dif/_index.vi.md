@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi PPTX sang DIF qua C#
 description: Chuyển đổi PPTX sang DIF trong C# mà không cần sử dụng Microsoft Excel hoặc Powerpoint
-url: /vi/net/conversion/pptx-to-dif/
+url_ignore: /vi/net/conversion/pptx-to-dif/
 family: total
 platformtag: net
 feature: conversion

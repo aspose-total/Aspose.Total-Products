@@ -1,7 +1,7 @@
 ---
 title: WORD'yi XLS'ye Dönüştürmek için .NET API
 description: Microsoft Excel veya Adobe Reader kullanmadan WORD'yi XLS'ye dönüştürmek için C# API'si
-url: /tr/net/conversion/word-to-xls/
+url_ignore: /tr/net/conversion/word-to-xls/
 family: total
 platformtag: net
 feature: conversion

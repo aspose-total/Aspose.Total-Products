@@ -1,7 +1,7 @@
 ---
 title: PPS'u C# ile XLT'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan PPS'u C#'ta XLT'ye dönüştürün
-url: /tr/net/conversion/pps-to-xlt/
+url_ignore: /tr/net/conversion/pps-to-xlt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convertir le format JSON en DXF via .NET
 description: Analyser JSON en DXF en C# sans utiliser de dépendances tierces
-url: /fr/net/conversion/json-to-dxf/
+url_ignore: /fr/net/conversion/json-to-dxf/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: JPEG2000 WMZ DICOM SVGZ PSD WMF DXF EMZ IMAGE TGA
 {{< blocks/products/pf/i18n/feature-page-header h1="Convertir le format JSON en DXF via C#" h2="API C# pour analyser JSON en DXF sans utiliser de dépendances tierces" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), vous pouvez analyser JSON en DXF dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. pas. Tout d'abord, en utilisant [Aspose.Cells pour .NET](https://products.aspose.com/cells/net/), vous pouvez exporter JSON vers JPEG. Après cela, en utilisant [Aspose.Imaging pour .NET](https://products.aspose.com/imaging/net/), vous pouvez convertir JPEG en DXF.
+En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez analyser JSON en DXF dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. pas. Tout d'abord, en utilisant [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), vous pouvez exporter JSON vers JPEG. Après cela, en utilisant [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/), vous pouvez convertir JPEG en DXF.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

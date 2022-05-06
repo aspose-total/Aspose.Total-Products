@@ -1,7 +1,7 @@
 ---
 title: Android API to Render EPUB to DOT
 description: Transform EPUB to DOT via Android via Java API
-url: /android-java/conversion/epub-to-dot/
+url_ignore: /android-java/conversion/epub-to-dot/
 family: total
 platformtag: android-java
 feature: conversion

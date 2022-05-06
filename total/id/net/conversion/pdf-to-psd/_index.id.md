@@ -1,7 +1,7 @@
 ---
 title: Konversi PDF ke PSD melalui C# API
 description: Ekspor PDF ke PSD di aplikasi .NET Anda tanpa menggunakan aplikasi pihak ketiga
-url: /id/net/conversion/pdf-to-psd/
+url_ignore: /id/net/conversion/pdf-to-psd/
 family: total
 platformtag: net
 feature: conversion

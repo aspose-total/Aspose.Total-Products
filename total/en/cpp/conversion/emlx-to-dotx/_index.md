@@ -1,7 +1,7 @@
 ---
 title: Export EMLX to DOTX via C++
 description: C++ API to Convert EMLX to DOTX without using Microsoft Word or Outlook
-url: /cpp/conversion/emlx-to-dotx/
+url_ignore: /cpp/conversion/emlx-to-dotx/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга XSLFO в ODS
 description: Экспорт XSLFO в ODS через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/xslfo-to-ods/
+url_ignore: /ru/java/conversion/xslfo-to-ods/
 family: total
 platformtag: net
 feature: conversion

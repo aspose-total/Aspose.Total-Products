@@ -1,7 +1,7 @@
 ---
 title: Xuất XPS sang ODP qua C# API
 description: .NET API để chuyển đổi XPS sang ODP mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/xps-to-odp/
+url_ignore: /vi/net/conversion/xps-to-odp/
 family: total
 platformtag: net
 feature: conversion

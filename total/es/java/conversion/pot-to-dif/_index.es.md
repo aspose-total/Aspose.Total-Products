@@ -1,7 +1,7 @@
 ---
 title: Convierta POT a formato DIF a través de Java
 description: Convierta POT a formato DIF a través de Java sin usar Microsoft Excel o PowerPoint
-url: /es/java/conversion/pot-to-dif/
+url_ignore: /es/java/conversion/pot-to-dif/
 family: total
 platformtag: net
 feature: conversion

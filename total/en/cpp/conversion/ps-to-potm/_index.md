@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PS to POTM  
 description: Convert PS to POTM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/ps-to-potm/
+url_ignore: /cpp/conversion/ps-to-potm/
 family: total
 platformtag: cpp
 feature: conversion

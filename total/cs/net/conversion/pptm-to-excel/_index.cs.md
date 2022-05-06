@@ -1,7 +1,7 @@
 ---
 title: Převést PPTM na EXCEL přes C#
 description: Převeďte PPTM na EXCEL v C# bez použití Microsoft Excel nebo Powerpoint
-url: /cs/net/conversion/pptm-to-excel/
+url_ignore: /cs/net/conversion/pptm-to-excel/
 family: total
 platformtag: net
 feature: conversion

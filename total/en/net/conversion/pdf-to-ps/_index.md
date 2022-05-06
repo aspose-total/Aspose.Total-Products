@@ -1,7 +1,7 @@
 ---
 title: C# API to Export PDF to PS
 description: Convert PDF to PS without using Microsoft Word
-url: /net/conversion/pdf-to-ps/
+url_ignore: /net/conversion/pdf-to-ps/
 family: total
 platformtag: net
 feature: conversion

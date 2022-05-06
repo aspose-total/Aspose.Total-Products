@@ -1,7 +1,7 @@
 ---
 title: .NET के माध्यम से JSON फॉर्मेट को OTT में बदलें
 description: माइक्रोसॉफ्ट वर्ड का उपयोग किए बिना जेएसओएन को सी # में सीएचएम में पार्स करें
-url: /hi/net/conversion/json-to-ott/
+url_ignore: /hi/net/conversion/json-to-ott/
 family: total
 platformtag: net
 feature: conversion

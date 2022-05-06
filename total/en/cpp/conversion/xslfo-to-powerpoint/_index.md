@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XSLFO to POWERPOINT  
 description: Convert XSLFO to POWERPOINT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xslfo-to-powerpoint/
+url_ignore: /cpp/conversion/xslfo-to-powerpoint/
 family: total
 platformtag: cpp
 feature: conversion

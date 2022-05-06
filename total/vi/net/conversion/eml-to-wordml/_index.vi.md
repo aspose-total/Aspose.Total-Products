@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất EML sang WORDML
 description: Chuyển đổi EML thành WORDML mà không cần sử dụng Microsoft Word hoặc Outlook trên .NET
-url: /vi/net/conversion/eml-to-wordml/
+url_ignore: /vi/net/conversion/eml-to-wordml/
 family: total
 platformtag: net
 feature: conversion

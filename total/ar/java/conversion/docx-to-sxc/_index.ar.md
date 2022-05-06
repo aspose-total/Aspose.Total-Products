@@ -1,7 +1,7 @@
 ---
 title: Java API لتحويل DOCX إلى SXC
 description: قم بتحويل DOCX إلى SXC عبر Java دون استخدام Microsoft Word أو Microsoft Excel
-url: /ar/java/conversion/docx-to-sxc/
+url_ignore: /ar/java/conversion/docx-to-sxc/
 family: total
 platformtag: net
 feature: conversion

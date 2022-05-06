@@ -1,7 +1,7 @@
 ---
 title: API de Java para convertir WORD a SXC
 description: Convierta WORD a SXC a través de Java sin usar Microsoft Word o Microsoft Excel
-url: /es/java/conversion/word-to-sxc/
+url_ignore: /es/java/conversion/word-to-sxc/
 family: total
 platformtag: net
 feature: conversion

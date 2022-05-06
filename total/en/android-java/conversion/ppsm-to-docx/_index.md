@@ -1,7 +1,7 @@
 ---
 title: Export PPSM to DOCX on Andorid via Java  
 description: Convert PPSM to DOCX in mobile apps without installing any software 
-url: /android-java/conversion/ppsm-to-docx/
+url_ignore: /android-java/conversion/ppsm-to-docx/
 family: total
 platformtag: android-java
 feature: conversion

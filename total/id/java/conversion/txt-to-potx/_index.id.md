@@ -1,7 +1,7 @@
 ---
 title: Konversi TXT ke POTX melalui Java
 description: Java API untuk Mengekspor TXT ke POTX tanpa menggunakan Microsoft Word atau PowerPoint
-url: /id/java/conversion/txt-to-potx/
+url_ignore: /id/java/conversion/txt-to-potx/
 family: total
 platformtag: net
 feature: conversion

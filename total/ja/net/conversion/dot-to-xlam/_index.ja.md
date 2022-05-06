@@ -1,7 +1,7 @@
 ---
 title: DOTをXLAMに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにDOTをXLAMに変換するC＃API
-url: /ja/net/conversion/dot-to-xlam/
+url_ignore: /ja/net/conversion/dot-to-xlam/
 family: total
 platformtag: net
 feature: conversion

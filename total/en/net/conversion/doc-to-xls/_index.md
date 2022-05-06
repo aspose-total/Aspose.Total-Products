@@ -1,7 +1,7 @@
 ---
 title: Convert DOC to XLS via .NET 
 description: Convert DOC to XLS in C# without using Microsoft Excel or Adobe Reader
-url: /net/conversion/doc-to-xls/
+url_ignore: /net/conversion/doc-to-xls/
 family: total
 platformtag: net
 feature: conversion

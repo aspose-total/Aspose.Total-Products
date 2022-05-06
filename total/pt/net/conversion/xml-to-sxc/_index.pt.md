@@ -1,7 +1,7 @@
 ---
 title: Converter XML para SXC via API C#
 description: API C# para converter arquivo XML em SXC sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/xml-to-sxc/
+url_ignore: /pt/net/conversion/xml-to-sxc/
 family: total
 platformtag: net
 feature: conversion

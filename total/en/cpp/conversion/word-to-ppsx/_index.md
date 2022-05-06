@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to PPSX via C++
 description: Export WORD to PPSX in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/word-to-ppsx/
+url_ignore: /cpp/conversion/word-to-ppsx/
 family: total
 platformtag: cpp
 feature: conversion

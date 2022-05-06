@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert OTT to ODS
 description: Convert OTT to ODS in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/ott-to-ods/
+url_ignore: /android-java/conversion/ott-to-ods/
 family: total
 platformtag: android-java
 feature: conversion

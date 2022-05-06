@@ -1,7 +1,7 @@
 ---
 title: DOTM'yi XLSX'ye Dönüştürmek için Java API
 description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla DOTM'yi XLSX'ye dönüştürün
-url: /tr/java/conversion/dotm-to-xlsx/
+url_ignore: /tr/java/conversion/dotm-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

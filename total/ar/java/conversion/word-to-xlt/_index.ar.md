@@ -1,7 +1,7 @@
 ---
 title: Java API لتحويل WORD إلى XLT
 description: قم بتحويل WORD إلى XLT عبر Java دون استخدام Microsoft Word أو Microsoft Excel
-url: /ar/java/conversion/word-to-xlt/
+url_ignore: /ar/java/conversion/word-to-xlt/
 family: total
 platformtag: net
 feature: conversion

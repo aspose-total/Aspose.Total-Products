@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PS to DOCM
 description: Convert PS to DOCM within C++ applications.
-url: /cpp/conversion/ps-to-docm/
+url_ignore: /cpp/conversion/ps-to-docm/
 family: total
 platformtag: cpp
 feature: conversion

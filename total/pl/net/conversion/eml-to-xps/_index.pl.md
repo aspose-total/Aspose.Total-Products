@@ -1,7 +1,7 @@
 ---
 title: C# API do eksportu EML do XPS
 description: Konwertuj EML na XPS bez używania Microsoft Word lub Outlook na .NET
-url: /pl/net/conversion/eml-to-xps/
+url_ignore: /pl/net/conversion/eml-to-xps/
 family: total
 platformtag: net
 feature: conversion

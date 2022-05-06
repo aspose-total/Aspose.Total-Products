@@ -1,7 +1,7 @@
 ---
 title: PDF'yi C# API aracılığıyla XAML'ye aktarın
 description: Microsoft Word kullanmadan PDF'yi XAML'ye dönüştürmek için .NET API
-url: /tr/net/conversion/pdf-to-xaml/
+url_ignore: /tr/net/conversion/pdf-to-xaml/
 family: total
 platformtag: net
 feature: conversion

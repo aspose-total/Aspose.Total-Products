@@ -1,7 +1,7 @@
 ---
 title: Converteer PPT naar JSON-formaat via Java
 description: Converteer PPT naar JSON-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken
-url: /nl/java/conversion/ppt-to-json/
+url_ignore: /nl/java/conversion/ppt-to-json/
 family: total
 platformtag: net
 feature: conversion

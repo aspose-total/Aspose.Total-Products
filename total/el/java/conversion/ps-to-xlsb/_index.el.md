@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση PS σε XLSB
 description: Εξαγωγή PS σε XLSB μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/ps-to-xlsb/
+url_ignore: /el/java/conversion/ps-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

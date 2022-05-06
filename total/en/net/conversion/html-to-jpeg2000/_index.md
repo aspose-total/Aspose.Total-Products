@@ -1,7 +1,7 @@
 ---
 title: Convert HTML to JPEG2000 via C# API
 description: Export HTML to JPEG2000 in your .NET applications without using any third party application 
-url: /net/conversion/html-to-jpeg2000/
+url_ignore: /net/conversion/html-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

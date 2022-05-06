@@ -1,7 +1,7 @@
 ---
 title: Převeďte TEX na EXCEL přes C# API
 description: C# API pro převod souboru TEX do EXCEL bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/tex-to-excel/
+url_ignore: /cs/net/conversion/tex-to-excel/
 family: total
 platformtag: net
 feature: conversion

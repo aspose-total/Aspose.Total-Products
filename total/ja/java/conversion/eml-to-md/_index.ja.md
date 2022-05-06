@@ -1,7 +1,7 @@
 ---
 title: Java経由でEMLをMDにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにEMLをMDに変換するJavaAPI
-url: /ja/java/conversion/eml-to-md/
+url_ignore: /ja/java/conversion/eml-to-md/
 family: total
 platformtag: net
 feature: conversion

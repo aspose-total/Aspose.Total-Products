@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı TIFF'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan OFT'i TIFF'ye dönüştürün
-url: /tr/net/conversion/oft-to-tiff/
+url_ignore: /tr/net/conversion/oft-to-tiff/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Javaを使用してXLSMをPOWERPOINTに変換する
 description: ExcelまたはWordを使用してXLSMをPOWERPOINTにエクスポートするJavaAPI
-url: /ja/java/conversion/xlsm-to-powerpoint/
+url_ignore: /ja/java/conversion/xlsm-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

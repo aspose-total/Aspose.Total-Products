@@ -1,7 +1,7 @@
 ---
 title: Converteer XML naar POTX via Java API
 description: Java API om XML naar POTX te converteren zonder Microsoft Word te gebruiken
-url: /nl/java/conversion/xml-to-potx/
+url_ignore: /nl/java/conversion/xml-to-potx/
 family: total
 platformtag: net
 feature: conversion

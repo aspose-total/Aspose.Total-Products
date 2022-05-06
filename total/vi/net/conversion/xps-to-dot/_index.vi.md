@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất XPS sang DOT
 description: Chuyển đổi XPS sang DOT mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/xps-to-dot/
+url_ignore: /vi/net/conversion/xps-to-dot/
 family: total
 platformtag: net
 feature: conversion

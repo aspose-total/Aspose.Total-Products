@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export XPS to MARKDOWN
 description: Convert XPS to MARKDOWN within C++ applications.
-url: /cpp/conversion/xps-to-markdown/
+url_ignore: /cpp/conversion/xps-to-markdown/
 family: total
 platformtag: cpp
 feature: conversion

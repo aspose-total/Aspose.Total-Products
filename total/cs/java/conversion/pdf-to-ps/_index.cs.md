@@ -1,7 +1,7 @@
 ---
 title: Java API pro export PDF do PS
 description: Převeďte PDF na PS pomocí on premise Java API
-url: /cs/java/conversion/pdf-to-ps/
+url_ignore: /cs/java/conversion/pdf-to-ps/
 family: total
 platformtag: net
 feature: conversion

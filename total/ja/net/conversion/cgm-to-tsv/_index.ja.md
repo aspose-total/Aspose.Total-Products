@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してCGMをTSVに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにCGMファイルをTSVに変換するC＃API
-url: /ja/net/conversion/cgm-to-tsv/
+url_ignore: /ja/net/conversion/cgm-to-tsv/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert POWERPOINT to TSV in Android via Java
 description: Convert POWERPOINT to TSV in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/powerpoint-to-tsv/
+url_ignore: /android-java/conversion/powerpoint-to-tsv/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Převeďte XSLFO na PPSX přes Java API
 description: Java API pro převod XSLFO na PPSX bez použití aplikace Microsoft Word
-url: /cs/java/conversion/xslfo-to-ppsx/
+url_ignore: /cs/java/conversion/xslfo-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

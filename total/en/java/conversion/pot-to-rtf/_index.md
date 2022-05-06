@@ -1,7 +1,7 @@
 ---
 title: Convert POT to RTF via Java
 description: Java API to Export POT to RTF without using Microsoft Word or PowerPoint
-url: /java/conversion/pot-to-rtf/
+url_ignore: /java/conversion/pot-to-rtf/
 family: total
 platformtag: java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση XML σε EXCEL
 description: Εξαγωγή XML σε EXCEL μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/xml-to-excel/
+url_ignore: /el/java/conversion/xml-to-excel/
 family: total
 platformtag: net
 feature: conversion

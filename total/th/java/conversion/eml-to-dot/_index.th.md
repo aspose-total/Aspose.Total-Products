@@ -1,7 +1,7 @@
 ---
 title: ส่งออก EML เป็น DOT ผ่าน Java
 description: Java API เพื่อแปลง EML เป็น DOT โดยไม่ต้องใช้ Microsoft Word หรือ Outlook
-url: /th/java/conversion/eml-to-dot/
+url_ignore: /th/java/conversion/eml-to-dot/
 family: total
 platformtag: net
 feature: conversion

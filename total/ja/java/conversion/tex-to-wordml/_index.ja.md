@@ -1,7 +1,7 @@
 ---
 title: TEXをWORDMLにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してTEXをWORDMLに変換する
-url: /ja/java/conversion/tex-to-wordml/
+url_ignore: /ja/java/conversion/tex-to-wordml/
 family: total
 platformtag: net
 feature: conversion

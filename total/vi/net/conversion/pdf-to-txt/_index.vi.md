@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi PDF sang TXT thông qua API C#
 description: C# API để chuyển đổi tệp PDF sang TXT mà không cần sử dụng Microsoft Excel hoặc Adobe Reader
-url: /vi/net/conversion/pdf-to-txt/
+url_ignore: /vi/net/conversion/pdf-to-txt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert PPSM to MARKDOWN via C++ 
 description: Export PPSM to MARKDOWN in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/ppsm-to-markdown/
+url_ignore: /cpp/conversion/ppsm-to-markdown/
 family: total
 platformtag: cpp
 feature: conversion

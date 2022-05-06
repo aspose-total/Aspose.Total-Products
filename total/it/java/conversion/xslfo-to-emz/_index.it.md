@@ -1,7 +1,7 @@
 ---
 title: Converti XSLFO in EMZ tramite Java
 description: Esporta file XSLFO in EMZ nelle tue applicazioni Java senza utilizzare applicazioni di terze parti
-url: /it/java/conversion/xslfo-to-emz/
+url_ignore: /it/java/conversion/xslfo-to-emz/
 family: total
 platformtag: net
 feature: conversion

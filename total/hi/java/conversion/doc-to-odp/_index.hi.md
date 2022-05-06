@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से DOC को ODP में बदलें
 description: जावा एपीआई माइक्रोसॉफ्ट वर्ड या पावरपॉइंट का उपयोग किए बिना डीओसी को ओडीपी में निर्यात करने के लिए
-url: /hi/java/conversion/doc-to-odp/
+url_ignore: /hi/java/conversion/doc-to-odp/
 family: total
 platformtag: net
 feature: conversion

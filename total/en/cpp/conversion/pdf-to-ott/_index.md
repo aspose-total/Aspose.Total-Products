@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PDF to OTT
 description: Convert PDF to OTT within C++ applications.
-url: /cpp/conversion/pdf-to-ott/
+url_ignore: /cpp/conversion/pdf-to-ott/
 family: total
 platformtag: cpp
 feature: conversion

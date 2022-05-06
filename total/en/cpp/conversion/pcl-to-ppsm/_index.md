@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PCL to PPSM  
 description: Convert PCL to PPSM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/pcl-to-ppsm/
+url_ignore: /cpp/conversion/pcl-to-ppsm/
 family: total
 platformtag: cpp
 feature: conversion

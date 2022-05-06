@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert RTF to SXC
 description: Convert RTF to SXC via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/rtf-to-sxc/
+url_ignore: /java/conversion/rtf-to-sxc/
 family: total
 platformtag: java
 feature: conversion

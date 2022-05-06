@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender MD ke XLSB
 description: Ekspor MD ke XLSB melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/md-to-xlsb/
+url_ignore: /id/java/conversion/md-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

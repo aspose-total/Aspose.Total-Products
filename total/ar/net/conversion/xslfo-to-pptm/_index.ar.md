@@ -1,7 +1,7 @@
 ---
 title: تصدير XSLFO إلى PPTM عبر C# API
 description: NET API لتحويل XSLFO إلى PPTM دون استخدام Microsoft Word
-url: /ar/net/conversion/xslfo-to-pptm/
+url_ignore: /ar/net/conversion/xslfo-to-pptm/
 family: total
 platformtag: net
 feature: conversion

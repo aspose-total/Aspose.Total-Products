@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта MSG в DOTX
 description: Преобразование MSG в DOTX без использования Microsoft Word или Outlook на .NET
-url: /ru/net/conversion/msg-to-dotx/
+url_ignore: /ru/net/conversion/msg-to-dotx/
 family: total
 platformtag: net
 feature: conversion

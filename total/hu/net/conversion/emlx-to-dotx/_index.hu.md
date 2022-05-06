@@ -1,7 +1,7 @@
 ---
 title: C# API az EMLX DOTX-be való exportálásához
 description: Konvertálja az EMLX-t DOTX-vé Microsoft Word vagy Outlook használata nélkül a .NET-en
-url: /hu/net/conversion/emlx-to-dotx/
+url_ignore: /hu/net/conversion/emlx-to-dotx/
 family: total
 platformtag: net
 feature: conversion
@@ -19,15 +19,15 @@ Ha Ön .NET-fejlesztő, szeretné hozzáadni az EMLX-t az alkalmazásokon belül
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API az EMLX DOTX-vé konvertálásához" %}}
 1. Nyissa meg az EMLX fájlt a [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage) osztály használatával
-2. Alakítsa át az EMLX-címet HTML-vé a [Mentés](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) módszerrel
+2. Alakítsa át az EMLX-címet HTML-vé a [Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) módszerrel
 3. Töltse be a HTML-t a [Document](https://apireference.aspose.com/words/net/aspose.words/document) osztály használatával
-4. Mentse a dokumentumot DOTX formátumba a [Mentés](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) módszerrel, és állítsa be a Dotx-t SaveFormat-ként.
+4. Mentse a dokumentumot DOTX formátumba a [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) módszerrel, és állítsa be a Dotx-t SaveFormat-ként.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 Telepítés parancssorból ```nuget install Aspose.Total``` néven, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.Total``` paranccsal.
 
-Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads] webhelyről (https://downloads.aspose.com/total/net).
+Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads](https://downloads.aspose.com/total/net) webhelyről.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
@@ -47,7 +47,7 @@ document.Save("output.dotx", SaveFormat.Dotx);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Az EMLX fájl elemzése .NET-en keresztül" %}}
-Az EMLX DOTX-vé konvertálása előtt, ha meg szeretne győződni arról, hogy a megfelelő e-mailt konvertálja, töltse be az EMLX dokumentumot, elemezze, és tekintse meg a kívánt tulajdonságot. A [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) [Aspose.Email for .NET] osztályának használatával (https://products.aspose.com/email /net/) API, a küldő és a címzett információkat kaphat. Például a [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername) tulajdonság használatával ellenőrizheti a konverzióhoz tartozó feladó e-mail-címét.  
+Az EMLX DOTX-vé konvertálása előtt, ha meg szeretne győződni arról, hogy a megfelelő e-mailt konvertálja, töltse be az EMLX dokumentumot, elemezze, és tekintse meg a kívánt tulajdonságot. A [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) [Aspose.Email for .NET](https://products.aspose.com/email /net/) API, a küldő és a címzett információkat kaphat. Például a [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername) tulajdonság használatával ellenőrizheti a konverzióhoz tartozó feladó e-mail-címét.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

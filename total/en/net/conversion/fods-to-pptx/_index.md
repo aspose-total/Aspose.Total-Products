@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to PPTX with .NET 
 description: Convert FODS to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms
-url: /net/conversion/fods-to-pptx/
+url_ignore: /net/conversion/fods-to-pptx/
 family: total
 platformtag: net
 feature: conversion

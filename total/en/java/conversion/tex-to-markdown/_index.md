@@ -1,7 +1,7 @@
 ---
 title: Java API to Export TEX to MARKDOWN
 description: Convert TEX to MARKDOWN using on premise Java API
-url: /java/conversion/tex-to-markdown/
+url_ignore: /java/conversion/tex-to-markdown/
 family: total
 platformtag: java
 feature: conversion

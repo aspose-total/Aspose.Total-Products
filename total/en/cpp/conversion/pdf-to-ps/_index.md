@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PDF to PS
 description: Convert PDF to PS within C++ applications.
-url: /cpp/conversion/pdf-to-ps/
+url_ignore: /cpp/conversion/pdf-to-ps/
 family: total
 platformtag: cpp
 feature: conversion

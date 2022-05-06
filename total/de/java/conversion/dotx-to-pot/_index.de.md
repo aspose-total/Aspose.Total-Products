@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie DOTX über Java in POT
 description: Java-API zum Exportieren von DOTX in POT, ohne Microsoft Word oder PowerPoint zu verwenden
-url: /de/java/conversion/dotx-to-pot/
+url_ignore: /de/java/conversion/dotx-to-pot/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convertir MD en PSD via Java
 description: Exportez le fichier MD vers PSD dans vos applications Java sans utiliser d'application tierce
-url: /fr/java/conversion/md-to-psd/
+url_ignore: /fr/java/conversion/md-to-psd/
 family: total
 platformtag: net
 feature: conversion

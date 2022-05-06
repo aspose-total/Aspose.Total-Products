@@ -1,7 +1,7 @@
 ---
 title: Exportar OFT para PNG via Java
 description: API Java para converter OFT para PNG sem usar o Microsoft Word ou Outlook
-url: /pt/java/conversion/oft-to-png/
+url_ignore: /pt/java/conversion/oft-to-png/
 family: total
 platformtag: net
 feature: conversion

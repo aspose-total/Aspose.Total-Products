@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar PS via .NET
 description: Parseer JSON naar PS in C# zonder Microsoft Word te gebruiken
-url: /nl/net/conversion/json-to-ps/
+url_ignore: /nl/net/conversion/json-to-ps/
 family: total
 platformtag: net
 feature: conversion

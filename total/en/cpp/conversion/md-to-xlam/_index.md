@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MD to XLAM
 description: Convert MD to XLAM via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/md-to-xlam/
+url_ignore: /cpp/conversion/md-to-xlam/
 family: total
 platformtag: cpp
 feature: conversion

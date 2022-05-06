@@ -1,7 +1,7 @@
 ---
 title: Convert PPSX to ODS in Android via Java
 description: Convert PPSX to ODS in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/ppsx-to-ods/
+url_ignore: /android-java/conversion/ppsx-to-ods/
 family: total
 platformtag: android-java
 feature: conversion

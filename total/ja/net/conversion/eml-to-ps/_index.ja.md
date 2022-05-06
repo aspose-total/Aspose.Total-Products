@@ -1,7 +1,7 @@
 ---
 title: EMLをPSにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMLをPSに変換する
-url: /ja/net/conversion/eml-to-ps/
+url_ignore: /ja/net/conversion/eml-to-ps/
 family: total
 platformtag: net
 feature: conversion

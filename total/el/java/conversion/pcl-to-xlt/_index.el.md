@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση PCL σε XLT
 description: Εξαγωγή PCL σε XLT μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/pcl-to-xlt/
+url_ignore: /el/java/conversion/pcl-to-xlt/
 family: total
 platformtag: net
 feature: conversion

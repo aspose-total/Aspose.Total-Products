@@ -1,7 +1,7 @@
 ---
 title: Export EMAIL to EPUB via C++
 description: C++ API to Convert EMAIL to EPUB without using Microsoft Word or Outlook
-url: /cpp/conversion/email-to-epub/
+url_ignore: /cpp/conversion/email-to-epub/
 family: total
 platformtag: cpp
 feature: conversion

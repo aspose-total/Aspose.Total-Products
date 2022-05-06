@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert CGM to ODS
 description: Convert CGM to ODS via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/cgm-to-ods/
+url_ignore: /cpp/conversion/cgm-to-ods/
 family: total
 platformtag: cpp
 feature: conversion

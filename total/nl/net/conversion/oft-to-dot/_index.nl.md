@@ -1,7 +1,7 @@
 ---
 title: C# API om OFT naar DOT te exporteren
 description: Converteer OFT naar DOT zonder Microsoft Word of Outlook te gebruiken op .NET
-url: /nl/net/conversion/oft-to-dot/
+url_ignore: /nl/net/conversion/oft-to-dot/
 family: total
 platformtag: net
 feature: conversion

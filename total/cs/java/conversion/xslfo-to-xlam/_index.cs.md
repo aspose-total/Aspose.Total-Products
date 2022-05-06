@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení XSLFO do XLAM
 description: Export XSLFO do XLAM přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/xslfo-to-xlam/
+url_ignore: /cs/java/conversion/xslfo-to-xlam/
 family: total
 platformtag: net
 feature: conversion

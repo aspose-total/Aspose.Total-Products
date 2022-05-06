@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してTEXをPOTMにエクスポートする
 description: MicrosoftWordを使用せずにTEXをPOTMに変換する.NETAPI
-url: /ja/net/conversion/tex-to-potm/
+url_ignore: /ja/net/conversion/tex-to-potm/
 family: total
 platformtag: net
 feature: conversion

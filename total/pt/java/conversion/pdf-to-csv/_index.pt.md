@@ -1,7 +1,7 @@
 ---
 title: API Java para renderizar PDF para CSV
 description: Exporte PDF para CSV via API Java sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/java/conversion/pdf-to-csv/
+url_ignore: /pt/java/conversion/pdf-to-csv/
 family: total
 platformtag: net
 feature: conversion

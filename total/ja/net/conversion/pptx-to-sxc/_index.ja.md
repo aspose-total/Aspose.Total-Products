@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPPTXをSXCに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPTXをSXCに変換する
-url: /ja/net/conversion/pptx-to-sxc/
+url_ignore: /ja/net/conversion/pptx-to-sxc/
 family: total
 platformtag: net
 feature: conversion

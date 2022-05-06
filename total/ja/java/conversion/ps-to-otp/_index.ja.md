@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してPSをOTPに変換する
 description: MicrosoftWordを使用せずにPSをOTPに変換するJavaAPI
-url: /ja/java/conversion/ps-to-otp/
+url_ignore: /ja/java/conversion/ps-to-otp/
 family: total
 platformtag: net
 feature: conversion

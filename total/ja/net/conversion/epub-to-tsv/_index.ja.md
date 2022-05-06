@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してEPUBをTSVに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにEPUBファイルをTSVに変換するC＃API
-url: /ja/net/conversion/epub-to-tsv/
+url_ignore: /ja/net/conversion/epub-to-tsv/
 family: total
 platformtag: net
 feature: conversion

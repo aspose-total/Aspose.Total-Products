@@ -1,7 +1,7 @@
 ---
 title: Konwertuj POT na DOCM przez Javę
 description: Java API do eksportu POT do DOCM bez użycia Microsoft Word lub PowerPoint
-url: /pl/java/conversion/pot-to-docm/
+url_ignore: /pl/java/conversion/pot-to-docm/
 family: total
 platformtag: net
 feature: conversion
@@ -34,7 +34,7 @@ Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Wymagania dotyczące konwersji" %}}
-Korzystając z API, możesz również wykonać konwersję pliku POT do DOCM ze znakiem wodnym. Aby dodać znak wodny do dokumentu DOCM, możesz najpierw przekonwertować plik POT na HTML i dodać do niego znak wodny. Aby dodać znak wodny, załaduj nowo utworzony plik HTML za pomocą klasy [Docmument](https://apireference.aspose.com/words/java/com.aspose.words/Docmument), utwórz instancję TextWatermarkOptions i ustaw jego właściwości, wywołaj metodę Watermark.setText i przekaż tekst znaku wodnego i obiekt TextWatermarkOptions.  
+Korzystając z API, możesz również wykonać konwersję pliku POT do DOCM ze znakiem wodnym. Aby dodać znak wodny do dokumentu DOCM, możesz najpierw przekonwertować plik POT na HTML i dodać do niego znak wodny. Aby dodać znak wodny, załaduj nowo utworzony plik HTML za pomocą klasy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document), utwórz instancję TextWatermarkOptions i ustaw jego właściwości, wywołaj metodę Watermark.setText i przekaż tekst znaku wodnego i obiekt TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}

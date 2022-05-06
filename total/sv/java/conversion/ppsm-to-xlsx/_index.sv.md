@@ -1,7 +1,7 @@
 ---
 title: Konvertera PPSM till XLSX-format via Java
 description: Konvertera PPSM till XLSX-format via Java utan att använda Microsoft Excel eller PowerPoint
-url: /sv/java/conversion/ppsm-to-xlsx/
+url_ignore: /sv/java/conversion/ppsm-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

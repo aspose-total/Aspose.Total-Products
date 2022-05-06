@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してMDをPPSMに変換する
 description: MicrosoftWordを使用せずにMDをPPSMに変換するJavaAPI
-url: /ja/java/conversion/md-to-ppsm/
+url_ignore: /ja/java/conversion/md-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

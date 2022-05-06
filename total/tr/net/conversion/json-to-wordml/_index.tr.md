@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını .NET aracılığıyla WORDML'ye dönüştürün
 description: Microsoft Word kullanmadan JSON'u C# ile WORDML'ye ayrıştırın
-url: /tr/net/conversion/json-to-wordml/
+url_ignore: /tr/net/conversion/json-to-wordml/
 family: total
 platformtag: net
 feature: conversion

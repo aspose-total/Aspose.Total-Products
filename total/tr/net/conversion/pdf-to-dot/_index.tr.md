@@ -1,7 +1,7 @@
 ---
 title: PDF'yi DOT'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan PDF'yi DOT'ye dönüştürün
-url: /tr/net/conversion/pdf-to-dot/
+url_ignore: /tr/net/conversion/pdf-to-dot/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPPSをXLSに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPSをXLSに変換する
-url: /ja/net/conversion/pps-to-xls/
+url_ignore: /ja/net/conversion/pps-to-xls/
 family: total
 platformtag: net
 feature: conversion

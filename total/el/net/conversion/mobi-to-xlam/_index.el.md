@@ -1,7 +1,7 @@
 ---
 title: .NET API για μετατροπή MOBI σε XLAM
 description: C# API για μετατροπή MOBI σε XLAM χωρίς χρήση Microsoft Excel ή Adobe Reader
-url: /el/net/conversion/mobi-to-xlam/
+url_ignore: /el/net/conversion/mobi-to-xlam/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ otherformats: XLTM SXC XLSX XLTX XLT ODS FODS TSV XLSM EXCEL XLAM DIF XLSB XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Προσθήκη προσαρμοσμένων ιδιοτήτων σε αρχείο XLAM μέσω C#" %}}
 Κατά τη μετατροπή του MOBI σε XLAM, το [Aspose.Cells για .NET](https://products.aspose.com/cells/net/) σάς δίνει τη δυνατότητα να προσθέσετε προσαρμοσμένες ιδιότητες στα έγγραφά σας XLAM. Για να προσθέσετε μια προσαρμοσμένη ιδιότητα, μπορείτε να χρησιμοποιήσετε τη μέθοδο [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection/methods/add/index) για το [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection) τάξη. Η μέθοδος Προσθήκη προσθέτει την ιδιότητα στο αρχείο Excel και επιστρέφει μια αναφορά για την ιδιότητα του νέου εγγράφου ως [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /mobiumentproperty) αντικείμενο. 
 {{% blocks/products/pf/feature-page-code %}}

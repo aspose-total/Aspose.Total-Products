@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPSをXLTMに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPSファイルをXLTMに変換するC＃API
-url: /ja/net/conversion/ps-to-xltm/
+url_ignore: /ja/net/conversion/ps-to-xltm/
 family: total
 platformtag: net
 feature: conversion

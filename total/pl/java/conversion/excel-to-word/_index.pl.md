@@ -1,7 +1,7 @@
 ---
 title: Konwertuj EXCEL na WORD za pomocą Java
 description: Java API do eksportu EXCEL do WORD za pomocą programu Excel lub Word
-url: /pl/java/conversion/excel-to-word/
+url_ignore: /pl/java/conversion/excel-to-word/
 family: total
 platformtag: net
 feature: conversion

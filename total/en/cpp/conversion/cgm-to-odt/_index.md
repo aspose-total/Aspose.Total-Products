@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export CGM to ODT
 description: Convert CGM to ODT within C++ applications.
-url: /cpp/conversion/cgm-to-odt/
+url_ignore: /cpp/conversion/cgm-to-odt/
 family: total
 platformtag: cpp
 feature: conversion

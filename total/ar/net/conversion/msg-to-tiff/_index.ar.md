@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير البريد الإلكتروني إلى TIFF
 description: قم بتحويل MSG إلى TIFF دون استخدام Microsoft Word أو Outlook على .NET
-url: /ar/net/conversion/msg-to-tiff/
+url_ignore: /ar/net/conversion/msg-to-tiff/
 family: total
 platformtag: net
 feature: conversion

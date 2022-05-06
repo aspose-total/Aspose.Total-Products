@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení XSLFO do MD
 description: Export XSLFO do MD přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/xslfo-to-md/
+url_ignore: /cs/java/conversion/xslfo-to-md/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert POTM to XLAM in Android via Java
 description: Convert POTM to XLAM in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/potm-to-xlam/
+url_ignore: /android-java/conversion/potm-to-xlam/
 family: total
 platformtag: android-java
 feature: conversion

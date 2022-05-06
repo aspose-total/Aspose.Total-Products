@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert RTF to TSV
 description: Convert RTF to TSV via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/rtf-to-tsv/
+url_ignore: /java/conversion/rtf-to-tsv/
 family: total
 platformtag: java
 feature: conversion

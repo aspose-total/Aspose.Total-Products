@@ -1,7 +1,7 @@
 ---
 title: Convert POWERPOINT to SXC Format via Java
 description: Convert POWERPOINT to SXC format via Java without using using Microsoft Excel or PowerPoint
-url: /java/conversion/powerpoint-to-sxc/
+url_ignore: /java/conversion/powerpoint-to-sxc/
 family: total
 platformtag: java
 feature: conversion

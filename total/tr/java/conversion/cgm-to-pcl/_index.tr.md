@@ -1,7 +1,7 @@
 ---
 title: CGM'yi PCL'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak CGM'yi PCL'ye dönüştürün
-url: /tr/java/conversion/cgm-to-pcl/
+url_ignore: /tr/java/conversion/cgm-to-pcl/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converti PPSX in formato MARKDOWN tramite Java
 description: Converti PPSX in formato MARKDOWN tramite Java senza utilizzare Microsoft Excel o PowerPoint
-url: /it/java/conversion/ppsx-to-markdown/
+url_ignore: /it/java/conversion/ppsx-to-markdown/
 family: total
 platformtag: net
 feature: conversion

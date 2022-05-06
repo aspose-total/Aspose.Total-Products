@@ -1,7 +1,7 @@
 ---
 title: Convierta DOT a POTM a través de Java
 description: API de Java para exportar DOT a POTM sin usar Microsoft Word o PowerPoint
-url: /es/java/conversion/dot-to-potm/
+url_ignore: /es/java/conversion/dot-to-potm/
 family: total
 platformtag: net
 feature: conversion

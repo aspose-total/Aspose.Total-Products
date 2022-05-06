@@ -1,7 +1,7 @@
 ---
 title: Java経由でPPTXをTEXTに変換する
 description: MicrosoftWordやPowerPointを使用せずにPPTXをTEXTにエクスポートするJavaAPI
-url: /ja/java/conversion/pptx-to-text/
+url_ignore: /ja/java/conversion/pptx-to-text/
 family: total
 platformtag: net
 feature: conversion

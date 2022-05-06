@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してSVGをXAMLにエクスポートする
 description: MicrosoftWordを使用せずにSVGをXAMLに変換する.NETAPI
-url: /ja/net/conversion/svg-to-xaml/
+url_ignore: /ja/net/conversion/svg-to-xaml/
 family: total
 platformtag: net
 feature: conversion

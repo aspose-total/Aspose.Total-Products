@@ -1,7 +1,7 @@
 ---
 title: CGM'yi C# API aracılığıyla PPSM'ye aktarın
 description: Microsoft Word kullanmadan CGM'yi PPSM'ye dönüştürmek için .NET API
-url: /tr/net/conversion/cgm-to-ppsm/
+url_ignore: /tr/net/conversion/cgm-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

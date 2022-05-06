@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга PCL в SXC
 description: Экспорт PCL в SXC через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/pcl-to-sxc/
+url_ignore: /ru/java/conversion/pcl-to-sxc/
 family: total
 platformtag: net
 feature: conversion

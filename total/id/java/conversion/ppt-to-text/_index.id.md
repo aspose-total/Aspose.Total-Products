@@ -1,7 +1,7 @@
 ---
 title: Konversi PPT ke TEXT melalui Java
 description: Java API untuk Mengekspor PPT ke TEXT tanpa menggunakan Microsoft Word atau PowerPoint
-url: /id/java/conversion/ppt-to-text/
+url_ignore: /id/java/conversion/ppt-to-text/
 family: total
 platformtag: net
 feature: conversion

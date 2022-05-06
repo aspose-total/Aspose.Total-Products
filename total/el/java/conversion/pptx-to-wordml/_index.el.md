@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή PPTX σε WORDML μέσω Java
 description: Java API για εξαγωγή PPTX σε WORDML χωρίς χρήση Microsoft Word ή PowerPoint
-url: /el/java/conversion/pptx-to-wordml/
+url_ignore: /el/java/conversion/pptx-to-wordml/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई के माध्यम से सीजीएम को ओडीपी में निर्यात करें
 description: Microsoft Word का उपयोग किए बिना MHTML को SWF में बदलने के लिए .NET API
-url: /hi/net/conversion/mhtml-to-swf/
+url_ignore: /hi/net/conversion/mhtml-to-swf/
 family: total
 platformtag: net
 feature: conversion

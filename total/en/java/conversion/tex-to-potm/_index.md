@@ -1,7 +1,7 @@
 ---
 title: Convert TEX to POTM via Java API
 description: Java API to Convert TEX to POTM without using Microsoft Word
-url: /java/conversion/tex-to-potm/
+url_ignore: /java/conversion/tex-to-potm/
 family: total
 platformtag: java
 feature: conversion

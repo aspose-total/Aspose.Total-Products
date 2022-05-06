@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert POT to RTF 
 description: Export POT to RTF within your C++ applications 
-url: /cpp/conversion/pot-to-rtf/
+url_ignore: /cpp/conversion/pot-to-rtf/
 family: total
 platformtag: cpp
 feature: conversion

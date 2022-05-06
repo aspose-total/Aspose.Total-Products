@@ -1,7 +1,7 @@
 ---
 title: 通过 Java 将 WORD 转换为 JSON 格式
 description: 通过 Java 将 WORD 转换为 JSON 格式，而不使用 Microsoft Word 或 Microsoft Excel
-url: /zh/java/conversion/word-to-json/
+url_ignore: /zh/java/conversion/word-to-json/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API för att exportera EMAIL till IMAGE
 description: Konvertera EMAIL till IMAGE utan att använda Microsoft Word eller Outlook på .NET
-url: /sv/net/conversion/email-to-image/
+url_ignore: /sv/net/conversion/email-to-image/
 family: total
 platformtag: net
 feature: conversion

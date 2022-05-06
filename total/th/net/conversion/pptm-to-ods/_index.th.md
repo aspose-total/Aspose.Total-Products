@@ -1,7 +1,7 @@
 ---
 title: แปลง PPTM เป็น ODS ผ่าน C#
 description: แปลง PPTM เป็น ODS ใน C# โดยไม่ต้องใช้ Microsoft Excel หรือ Powerpoint
-url: /th/net/conversion/pptm-to-ods/
+url_ignore: /th/net/conversion/pptm-to-ods/
 family: total
 platformtag: net
 feature: conversion

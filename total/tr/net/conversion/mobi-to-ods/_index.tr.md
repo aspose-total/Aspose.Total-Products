@@ -1,7 +1,7 @@
 ---
 title: MOBI'yi ODS'ye Dönüştürmek için .NET API
 description: Microsoft Excel veya Adobe Reader kullanmadan MOBI'yi ODS'ye dönüştürmek için C# API'si
-url: /tr/net/conversion/mobi-to-ods/
+url_ignore: /tr/net/conversion/mobi-to-ods/
 family: total
 platformtag: net
 feature: conversion

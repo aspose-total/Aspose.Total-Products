@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير MHTML إلى WORDML
 description: تحويل MHTML إلى WORDML دون استخدام Microsoft Word
-url: /ar/net/conversion/mhtml-to-wordml/
+url_ignore: /ar/net/conversion/mhtml-to-wordml/
 family: total
 platformtag: net
 feature: conversion

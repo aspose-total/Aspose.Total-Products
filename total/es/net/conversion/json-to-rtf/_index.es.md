@@ -1,7 +1,7 @@
 ---
 title: Convierta el formato JSON a RTF a través de .NET
 description: Analice JSON a RTF en C# sin usar Microsoft Word
-url: /es/net/conversion/json-to-rtf/
+url_ignore: /es/net/conversion/json-to-rtf/
 family: total
 platformtag: net
 feature: conversion

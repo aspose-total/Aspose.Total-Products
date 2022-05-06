@@ -1,7 +1,7 @@
 ---
 title: Convert PS to XLSB via C# API
 description: C# API to Convert PS File to XLSB without using Microsoft Excel or Adobe Reader
-url: /net/conversion/ps-to-xlsb/
+url_ignore: /net/conversion/ps-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

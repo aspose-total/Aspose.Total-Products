@@ -1,7 +1,7 @@
 ---
 title: Převeďte XSLFO na XAML přes Java API
 description: Java API pro převod XSLFO na XAML bez použití aplikace Microsoft Word
-url: /cs/java/conversion/xslfo-to-xaml/
+url_ignore: /cs/java/conversion/xslfo-to-xaml/
 family: total
 platformtag: net
 feature: conversion

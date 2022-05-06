@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert WORDML to XLT
 description: Convert WORDML to XLT in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/wordml-to-xlt/
+url_ignore: /android-java/conversion/wordml-to-xlt/
 family: total
 platformtag: android-java
 feature: conversion

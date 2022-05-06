@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى TGA عبر .NET
 description: تحليل JSON إلى TGA في C# بدون استخدام تبعيات الطرف الثالث
-url: /ar/net/conversion/json-to-tga/
+url_ignore: /ar/net/conversion/json-to-tga/
 family: total
 platformtag: net
 feature: conversion

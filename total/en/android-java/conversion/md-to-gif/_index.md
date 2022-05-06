@@ -1,7 +1,7 @@
 ---
 title: Android API to Render MD to GIF
 description: Transform MD to GIF via Android via Java API
-url: /android-java/conversion/md-to-gif/
+url_ignore: /android-java/conversion/md-to-gif/
 family: total
 platformtag: android-java
 feature: conversion

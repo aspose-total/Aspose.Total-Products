@@ -1,7 +1,7 @@
 ---
 title: TEX'yi OTT'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan TEX'yi OTT'ye dönüştürün
-url: /tr/net/conversion/tex-to-ott/
+url_ignore: /tr/net/conversion/tex-to-ott/
 family: total
 platformtag: net
 feature: conversion

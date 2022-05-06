@@ -1,7 +1,7 @@
 ---
 title: Převeďte formát JSON na OTT přes .NET
 description: Analyzujte JSON na OTT v C# bez použití Microsoft Word
-url: /cs/net/conversion/json-to-ott/
+url_ignore: /cs/net/conversion/json-to-ott/
 family: total
 platformtag: net
 feature: conversion

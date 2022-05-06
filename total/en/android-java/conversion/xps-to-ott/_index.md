@@ -1,7 +1,7 @@
 ---
 title: Android API to Render XPS to OTT
 description: Transform XPS to OTT via Android via Java API
-url: /android-java/conversion/xps-to-ott/
+url_ignore: /android-java/conversion/xps-to-ott/
 family: total
 platformtag: android-java
 feature: conversion

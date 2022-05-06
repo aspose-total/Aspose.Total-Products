@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXSLFOをWMFに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでXSLFOをWMFにエクスポートします
-url: /ja/net/conversion/xslfo-to-wmf/
+url_ignore: /ja/net/conversion/xslfo-to-wmf/
 family: total
 platformtag: net
 feature: conversion

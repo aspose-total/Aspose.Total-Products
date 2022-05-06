@@ -1,7 +1,7 @@
 ---
 title: Преобразование CGM в PPSM через Java API
 description: Java API для преобразования CGM в PPSM без использования Microsoft Word
-url: /ru/java/conversion/cgm-to-ppsm/
+url_ignore: /ru/java/conversion/cgm-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

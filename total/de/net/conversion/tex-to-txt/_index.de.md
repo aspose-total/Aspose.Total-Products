@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie TEX über die C#-API in TXT
 description: C#-API zum Konvertieren von TEX-Dateien in TXT ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/tex-to-txt/
+url_ignore: /de/net/conversion/tex-to-txt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi XPS sang IMAGE thông qua API C#
 description: Xuất XPS sang IMAGE trong các ứng dụng .NET của bạn mà không cần sử dụng bất kỳ ứng dụng nào của bên thứ ba
-url: /vi/net/conversion/xps-to-image/
+url_ignore: /vi/net/conversion/xps-to-image/
 family: total
 platformtag: net
 feature: conversion

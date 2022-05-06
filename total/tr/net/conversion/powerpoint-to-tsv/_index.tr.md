@@ -1,7 +1,7 @@
 ---
 title: POWERPOINT'u C# ile TSV'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan POWERPOINT'u C#'ta TSV'ye dönüştürün
-url: /tr/net/conversion/powerpoint-to-tsv/
+url_ignore: /tr/net/conversion/powerpoint-to-tsv/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOCM to FODS
 description: Convert DOCM to FODS in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/docm-to-fods/
+url_ignore: /android-java/conversion/docm-to-fods/
 family: total
 platformtag: android-java
 feature: conversion

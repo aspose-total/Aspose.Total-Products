@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή μορφής JSON σε PS μέσω Java
 description: Ανάλυση JSON σε PS σε Java χωρίς χρήση του Microsoft Word
-url: /el/java/conversion/json-to-ps/
+url_ignore: /el/java/conversion/json-to-ps/
 family: total
 platformtag: net
 feature: conversion

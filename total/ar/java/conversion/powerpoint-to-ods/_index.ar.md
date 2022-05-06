@@ -1,7 +1,7 @@
 ---
 title: تحويل POWERPOINT إلى تنسيق ODS عبر Java
 description: قم بتحويل POWERPOINT إلى تنسيق ODS عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/powerpoint-to-ods/
+url_ignore: /ar/java/conversion/powerpoint-to-ods/
 family: total
 platformtag: net
 feature: conversion

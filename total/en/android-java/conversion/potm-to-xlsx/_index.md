@@ -1,7 +1,7 @@
 ---
 title: Convert POTM to XLSX in Android via Java
 description: Convert POTM to XLSX in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/potm-to-xlsx/
+url_ignore: /android-java/conversion/potm-to-xlsx/
 family: total
 platformtag: android-java
 feature: conversion

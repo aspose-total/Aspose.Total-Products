@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PCL to PPT  
 description: Convert PCL to PPT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/pcl-to-ppt/
+url_ignore: /cpp/conversion/pcl-to-ppt/
 family: total
 platformtag: cpp
 feature: conversion

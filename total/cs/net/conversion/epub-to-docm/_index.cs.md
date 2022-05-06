@@ -1,7 +1,7 @@
 ---
 title: C# API pro export EPUB do DOCM
 description: Převeďte EPUB na DOCM bez použití aplikace Microsoft Word
-url: /cs/net/conversion/epub-to-docm/
+url_ignore: /cs/net/conversion/epub-to-docm/
 family: total
 platformtag: net
 feature: conversion

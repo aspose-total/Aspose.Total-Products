@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını Java ile POWERPOINT'ye Dönüştür
 description: Microsoft PowerPoint kullanmadan Java'da JSON'u POWERPOINT'ye ayrıştırın
-url: /tr/java/conversion/json-to-powerpoint/
+url_ignore: /tr/java/conversion/json-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export EPUB to DOCM
 description: Convert EPUB to DOCM within C++ applications.
-url: /cpp/conversion/epub-to-docm/
+url_ignore: /cpp/conversion/epub-to-docm/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert XSLFO to WMF via C# API
 description: Export XSLFO to WMF in your .NET applications without using any third party application 
-url: /net/conversion/xslfo-to-wmf/
+url_ignore: /net/conversion/xslfo-to-wmf/
 family: total
 platformtag: net
 feature: conversion

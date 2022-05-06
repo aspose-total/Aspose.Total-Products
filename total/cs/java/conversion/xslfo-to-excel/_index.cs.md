@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení XSLFO do EXCEL
 description: Export XSLFO do EXCEL přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/xslfo-to-excel/
+url_ignore: /cs/java/conversion/xslfo-to-excel/
 family: total
 platformtag: net
 feature: conversion

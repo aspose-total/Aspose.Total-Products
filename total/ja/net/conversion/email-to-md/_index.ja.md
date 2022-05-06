@@ -1,7 +1,7 @@
 ---
 title: EMAILをMDにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMAILをMDに変換する
-url: /ja/net/conversion/email-to-md/
+url_ignore: /ja/net/conversion/email-to-md/
 family: total
 platformtag: net
 feature: conversion

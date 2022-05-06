@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXPSをJPEG2000に変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでXPSをJPEG2000にエクスポートします
-url: /ja/net/conversion/xps-to-jpeg2000/
+url_ignore: /ja/net/conversion/xps-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

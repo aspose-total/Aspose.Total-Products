@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MHTML to TXT
 description: Convert MHTML to TXT via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/mhtml-to-txt/
+url_ignore: /cpp/conversion/mhtml-to-txt/
 family: total
 platformtag: cpp
 feature: conversion

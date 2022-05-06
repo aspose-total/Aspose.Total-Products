@@ -1,7 +1,7 @@
 ---
 title: แปลง FODS เป็น POWERPOINT โดยใช้ Java
 description: Java API เพื่อส่งออก FODS เป็น POWERPOINT โดยใช้ Excel หรือ Word
-url: /th/java/conversion/fods-to-powerpoint/
+url_ignore: /th/java/conversion/fods-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C#-API zum Exportieren von EPUB nach MHTML
 description: Konvertieren Sie EPUB in MHTML, ohne Microsoft Word zu verwenden
-url: /de/net/conversion/epub-to-mhtml/
+url_ignore: /de/net/conversion/epub-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

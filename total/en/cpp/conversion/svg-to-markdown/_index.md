@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export SVG to MARKDOWN
 description: Convert SVG to MARKDOWN within C++ applications.
-url: /cpp/conversion/svg-to-markdown/
+url_ignore: /cpp/conversion/svg-to-markdown/
 family: total
 platformtag: cpp
 feature: conversion

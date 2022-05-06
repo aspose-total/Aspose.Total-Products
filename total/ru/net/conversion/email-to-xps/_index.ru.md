@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта EMAIL в XPS
 description: Преобразование EMAIL в XPS без использования Microsoft Word или Outlook на .NET
-url: /ru/net/conversion/email-to-xps/
+url_ignore: /ru/net/conversion/email-to-xps/
 family: total
 platformtag: net
 feature: conversion

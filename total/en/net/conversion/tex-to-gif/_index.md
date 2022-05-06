@@ -1,7 +1,7 @@
 ---
 title: C# API to Export TEX to GIF
 description: Convert TEX to GIF without using Microsoft Word
-url: /net/conversion/tex-to-gif/
+url_ignore: /net/conversion/tex-to-gif/
 family: total
 platformtag: net
 feature: conversion

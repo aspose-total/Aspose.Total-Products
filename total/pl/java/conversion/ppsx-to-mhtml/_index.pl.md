@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PPSX na format MHTML za pomocą Java
 description: Konwertuj PPSX do formatu MHTML za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint
-url: /pl/java/conversion/ppsx-to-mhtml/
+url_ignore: /pl/java/conversion/ppsx-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

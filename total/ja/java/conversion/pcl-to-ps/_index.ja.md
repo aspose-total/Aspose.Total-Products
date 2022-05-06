@@ -1,7 +1,7 @@
 ---
 title: PCLをPSにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してPCLをPSに変換する
-url: /ja/java/conversion/pcl-to-ps/
+url_ignore: /ja/java/conversion/pcl-to-ps/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar EMZ via Java
 description: JSON ontleden naar EMZ in Java zonder Microsoft PowerPoint te gebruiken
-url: /nl/java/conversion/json-to-emz/
+url_ignore: /nl/java/conversion/json-to-emz/
 family: total
 platformtag: net
 feature: conversion

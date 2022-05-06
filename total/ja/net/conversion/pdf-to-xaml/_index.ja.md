@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをXAMLにエクスポートする
 description: MicrosoftWordを使用せずにPDFをXAMLに変換する.NETAPI
-url: /ja/net/conversion/pdf-to-xaml/
+url_ignore: /ja/net/conversion/pdf-to-xaml/
 family: total
 platformtag: net
 feature: conversion

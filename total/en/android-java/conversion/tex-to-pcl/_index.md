@@ -1,7 +1,7 @@
 ---
 title: Android API to Render TEX to PCL
 description: Transform TEX to PCL via Android via Java API
-url: /android-java/conversion/tex-to-pcl/
+url_ignore: /android-java/conversion/tex-to-pcl/
 family: total
 platformtag: android-java
 feature: conversion

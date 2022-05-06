@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını Java ile POTX'ye Dönüştür
 description: Microsoft PowerPoint kullanmadan Java'da JSON'u POTX'ye ayrıştırın
-url: /tr/java/conversion/json-to-potx/
+url_ignore: /tr/java/conversion/json-to-potx/
 family: total
 platformtag: net
 feature: conversion

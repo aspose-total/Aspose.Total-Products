@@ -1,7 +1,7 @@
 ---
 title: Java API för att rendera XML till XLAM
 description: Exportera XML till XLAM via Java API utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/java/conversion/xml-to-xlam/
+url_ignore: /sv/java/conversion/xml-to-xlam/
 family: total
 platformtag: net
 feature: conversion

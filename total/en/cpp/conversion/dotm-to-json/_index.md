@@ -1,7 +1,7 @@
 ---
 title: Convert DOTM to JSON format in C++ 
 description: Export DOTM to JSON in C++ without using Microsoft Excel or Word
-url: /cpp/conversion/dotm-to-json/
+url_ignore: /cpp/conversion/dotm-to-json/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: .NETを介してJSON形式をDICOMに変換する
 description: サードパーティの依存関係を使用せずに、C＃でJSONをDICOMに解析します
-url: /ja/net/conversion/json-to-dicom/
+url_ignore: /ja/net/conversion/json-to-dicom/
 family: total
 platformtag: net
 feature: conversion

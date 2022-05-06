@@ -1,7 +1,7 @@
 ---
 title: Экспорт MHTML в PPSM через C# API
 description: .NET API для преобразования MHTML в PPSM без использования Microsoft Word
-url: /ru/net/conversion/mhtml-to-ppsm/
+url_ignore: /ru/net/conversion/mhtml-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

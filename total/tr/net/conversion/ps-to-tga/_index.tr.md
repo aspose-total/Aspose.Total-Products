@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla PS'yi TGA'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan PS'yi .NET uygulamalarınızda TGA'ye aktarın
-url: /tr/net/conversion/ps-to-tga/
+url_ignore: /tr/net/conversion/ps-to-tga/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert FLATOPC to PPT in Android via Java
 description: FLATOPC to PPT conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/flatopc-to-ppt/
+url_ignore: /android-java/conversion/flatopc-to-ppt/
 family: total
 platformtag: android-java
 feature: conversion

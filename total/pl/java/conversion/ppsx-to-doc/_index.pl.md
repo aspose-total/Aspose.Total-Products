@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PPSX na DOC przez Javę
 description: Java API do eksportu PPSX do DOC bez użycia Microsoft Word lub PowerPoint
-url: /pl/java/conversion/ppsx-to-doc/
+url_ignore: /pl/java/conversion/ppsx-to-doc/
 family: total
 platformtag: net
 feature: conversion

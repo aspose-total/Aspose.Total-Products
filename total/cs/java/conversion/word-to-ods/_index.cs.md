@@ -1,7 +1,7 @@
 ---
 title: Java API pro převod WORD do ODS
 description: Převeďte WORD na ODS přes Java bez použití Microsoft Word nebo Microsoft Excel
-url: /cs/java/conversion/word-to-ods/
+url_ignore: /cs/java/conversion/word-to-ods/
 family: total
 platformtag: net
 feature: conversion

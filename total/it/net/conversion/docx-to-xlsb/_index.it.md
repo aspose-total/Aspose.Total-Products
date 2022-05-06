@@ -1,7 +1,7 @@
 ---
 title: API .NET per convertire DOCX in XLSB
 description: API C# per convertire DOCX in XLSB senza utilizzare Microsoft Excel o Adobe Reader
-url: /it/net/conversion/docx-to-xlsb/
+url_ignore: /it/net/conversion/docx-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

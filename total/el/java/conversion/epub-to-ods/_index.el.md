@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση EPUB σε ODS
 description: Εξαγωγή EPUB σε ODS μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/epub-to-ods/
+url_ignore: /el/java/conversion/epub-to-ods/
 family: total
 platformtag: net
 feature: conversion

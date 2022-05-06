@@ -1,7 +1,7 @@
 ---
 title: Convert POTX to JSON format via .NET 
 description: Convert POTX to JSON in C# without using Microsoft Excel or Powerpoint
-url: /net/conversion/potx-to-json/
+url_ignore: /net/conversion/potx-to-json/
 family: total
 platformtag: net
 feature: conversion

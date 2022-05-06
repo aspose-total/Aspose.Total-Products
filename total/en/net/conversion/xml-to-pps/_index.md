@@ -1,7 +1,7 @@
 ---
 title: Export XML to PPS via C# API
 description: .NET API to Convert XML to PPS without using Microsoft Word
-url: /net/conversion/xml-to-pps/
+url_ignore: /net/conversion/xml-to-pps/
 family: total
 platformtag: net
 feature: conversion

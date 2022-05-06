@@ -1,7 +1,7 @@
 ---
 title: Convert DOCM to XLT in C++
 description: C++ API to Convert DOCM to XLT without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/docm-to-xlt/
+url_ignore: /cpp/conversion/docm-to-xlt/
 family: total
 platformtag: cpp
 feature: conversion

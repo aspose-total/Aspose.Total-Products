@@ -1,7 +1,7 @@
 ---
 title: Converter DOT para POT via Java
 description: API Java para exportar DOT para POT sem usar o Microsoft Word ou PowerPoint
-url: /pt/java/conversion/dot-to-pot/
+url_ignore: /pt/java/conversion/dot-to-pot/
 family: total
 platformtag: net
 feature: conversion

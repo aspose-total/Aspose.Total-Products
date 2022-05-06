@@ -1,7 +1,7 @@
 ---
 title: DOCをFODSに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにDOCをFODSに変換するC＃API
-url: /ja/net/conversion/doc-to-fods/
+url_ignore: /ja/net/conversion/doc-to-fods/
 family: total
 platformtag: net
 feature: conversion

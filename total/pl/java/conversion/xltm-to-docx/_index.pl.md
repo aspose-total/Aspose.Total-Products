@@ -1,7 +1,7 @@
 ---
 title: Konwertuj XLTM na DOCX za pomocą Java
 description: Java API do eksportu XLTM do DOCX za pomocą programu Excel lub Word
-url: /pl/java/conversion/xltm-to-docx/
+url_ignore: /pl/java/conversion/xltm-to-docx/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ Renderowanie XLTM do DOCX to proces dwuetapowy. Najpierw użyjesz interfejsu API
 {{% blocks/products/pf/agp/feature-section-col title="Jak przekonwertować XLTM do DOCX za pomocą Java API" %}}
 1. Otwórz plik XLTM za pomocą klasy [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
 2. Konwertuj XLTM na PDF i ustaw SaveFormat na AUTO
-3. Załaduj przekonwertowany plik PDF za pomocą klasy [Docxument](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Docxument)
-4. Zapisz dokument w formacie DOCX za pomocą [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Docxument#save-java.lang.String-com.aspose.pdf.SaveOptions-) metodę i ustaw Docx jako SaveFormat
+3. Załaduj przekonwertowany plik PDF za pomocą klasy [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)
+4. Zapisz dokument w formacie DOCX za pomocą [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) metodę i ustaw Docx jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
 Musisz użyć Aspose.Total for Java bezpośrednio z projektu opartego na [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i dołącz biblioteki do swojego pom.xml.
@@ -32,10 +32,10 @@ Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com
 Workbook book = new Workbook("input.xltm");
 // save XLTM as PDF
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Docxument class
-Docxument docxument = new Docxument("pdfOutput.pdf");
-// save docxument in DOCXX format
-docxument.save("output.docxx", com.aspose.pdf.SaveFormat.DocxX);  
+// load the PDF file using Document class
+Document Document = new Document("pdfOutput.pdf");
+// save Document in DOCXX format
+Document.save("output.docxx", com.aspose.pdf.SaveFormat.DocxX);  
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}

@@ -1,7 +1,7 @@
 ---
 title: Převeďte MHTML na TSV přes C# API
 description: C# API pro převod souboru MHTML do TSV bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/mhtml-to-tsv/
+url_ignore: /cs/net/conversion/mhtml-to-tsv/
 family: total
 platformtag: net
 feature: conversion

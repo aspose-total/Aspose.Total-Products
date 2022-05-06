@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert WORDML to DIF
 description: Convert WORDML to DIF in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/wordml-to-dif/
+url_ignore: /android-java/conversion/wordml-to-dif/
 family: total
 platformtag: android-java
 feature: conversion

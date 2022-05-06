@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export XPS to MHTML
 description: Convert XPS to MHTML within C++ applications.
-url: /cpp/conversion/xps-to-mhtml/
+url_ignore: /cpp/conversion/xps-to-mhtml/
 family: total
 platformtag: cpp
 feature: conversion

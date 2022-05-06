@@ -1,7 +1,7 @@
 ---
 title: Converti POT in formato CSV tramite Java
 description: Converti POT in formato CSV tramite Java senza utilizzare Microsoft Excel o PowerPoint
-url: /it/java/conversion/pot-to-csv/
+url_ignore: /it/java/conversion/pot-to-csv/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPSをAPNGに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでPSをAPNGにエクスポートします
-url: /ja/net/conversion/ps-to-apng/
+url_ignore: /ja/net/conversion/ps-to-apng/
 family: total
 platformtag: net
 feature: conversion

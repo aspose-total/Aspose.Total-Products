@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PS to SXC
 description: Convert PS to SXC via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/ps-to-sxc/
+url_ignore: /cpp/conversion/ps-to-sxc/
 family: total
 platformtag: cpp
 feature: conversion

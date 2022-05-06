@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi PDF sang OTP thông qua Java API
 description: Java API để chuyển đổi PDF sang OTP mà không cần sử dụng Microsoft Word
-url: /vi/java/conversion/pdf-to-otp/
+url_ignore: /vi/java/conversion/pdf-to-otp/
 family: total
 platformtag: net
 feature: conversion

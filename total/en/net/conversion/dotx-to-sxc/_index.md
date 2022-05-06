@@ -1,7 +1,7 @@
 ---
 title: .NET API to Convert DOTX to SXC 
 description: C# API to Convert DOTX to SXC without using Microsoft Excel or Adobe Reader
-url: /net/conversion/dotx-to-sxc/
+url_ignore: /net/conversion/dotx-to-sxc/
 family: total
 platformtag: net
 feature: conversion

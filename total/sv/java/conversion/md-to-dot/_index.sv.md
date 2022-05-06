@@ -1,7 +1,7 @@
 ---
 title: Java API för att exportera MD till DOT
 description: Konvertera MD till DOT med hjälp av det lokala Java API
-url: /sv/java/conversion/md-to-dot/
+url_ignore: /sv/java/conversion/md-to-dot/
 family: total
 platformtag: net
 feature: conversion

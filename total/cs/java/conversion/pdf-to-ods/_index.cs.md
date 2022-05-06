@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení PDF do ODS
 description: Export PDF do ODS přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/pdf-to-ods/
+url_ignore: /cs/java/conversion/pdf-to-ods/
 family: total
 platformtag: net
 feature: conversion

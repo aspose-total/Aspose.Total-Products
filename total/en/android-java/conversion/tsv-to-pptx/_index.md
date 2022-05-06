@@ -1,7 +1,7 @@
 ---
 title: Export TSV to PPTX in Android 
 description: Android API to Convert TSV to PPTX without using Microsoft Word
-url: /android-java/conversion/tsv-to-pptx/
+url_ignore: /android-java/conversion/tsv-to-pptx/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie CGM über die C#-API in EXCEL
 description: C#-API zum Konvertieren von CGM-Dateien in EXCEL ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/cgm-to-excel/
+url_ignore: /de/net/conversion/cgm-to-excel/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie XSLFO über die C#-API in EMZ
 description: Exportieren Sie XSLFO in EMZ in Ihren .NET-Anwendungen, ohne Anwendungen von Drittanbietern zu verwenden
-url: /de/net/conversion/xslfo-to-emz/
+url_ignore: /de/net/conversion/xslfo-to-emz/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: DOTMをDIFに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにDOTMをDIFに変換するC＃API
-url: /ja/net/conversion/dotm-to-dif/
+url_ignore: /ja/net/conversion/dotm-to-dif/
 family: total
 platformtag: net
 feature: conversion

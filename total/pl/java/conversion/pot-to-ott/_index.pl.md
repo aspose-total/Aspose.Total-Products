@@ -1,7 +1,7 @@
 ---
 title: Konwertuj POT na OTT przez Javę
 description: Java API do eksportu POT do OTT bez użycia Microsoft Word lub PowerPoint
-url: /pl/java/conversion/pot-to-ott/
+url_ignore: /pl/java/conversion/pot-to-ott/
 family: total
 platformtag: net
 feature: conversion

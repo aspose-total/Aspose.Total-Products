@@ -1,7 +1,7 @@
 ---
 title: Java経由でPPSをDOCに変換する
 description: MicrosoftWordやPowerPointを使用せずにPPSをDOCにエクスポートするJavaAPI
-url: /ja/java/conversion/pps-to-doc/
+url_ignore: /ja/java/conversion/pps-to-doc/
 family: total
 platformtag: net
 feature: conversion

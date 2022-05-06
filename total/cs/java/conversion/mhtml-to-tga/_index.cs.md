@@ -1,7 +1,7 @@
 ---
 title: Převést MHTML na TGA přes Java
 description: Exportujte soubor MHTML do TGA ve svých aplikacích Java bez použití jakékoli aplikace třetí strany
-url: /cs/java/conversion/mhtml-to-tga/
+url_ignore: /cs/java/conversion/mhtml-to-tga/
 family: total
 platformtag: net
 feature: conversion

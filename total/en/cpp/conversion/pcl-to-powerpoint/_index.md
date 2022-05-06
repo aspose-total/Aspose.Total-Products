@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PCL to POWERPOINT  
 description: Convert PCL to POWERPOINT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/pcl-to-powerpoint/
+url_ignore: /cpp/conversion/pcl-to-powerpoint/
 family: total
 platformtag: cpp
 feature: conversion

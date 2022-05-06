@@ -1,7 +1,7 @@
 ---
 title: Export EPUB to SWF in Android 
 description: Android API to Convert EPUB to SWF without using Microsoft Word
-url: /android-java/conversion/epub-to-swf/
+url_ignore: /android-java/conversion/epub-to-swf/
 family: total
 platformtag: android-java
 feature: conversion

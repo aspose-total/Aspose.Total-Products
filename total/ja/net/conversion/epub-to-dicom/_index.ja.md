@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してEPUBをDICOMに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでEPUBをDICOMにエクスポートします
-url: /ja/net/conversion/epub-to-dicom/
+url_ignore: /ja/net/conversion/epub-to-dicom/
 family: total
 platformtag: net
 feature: conversion

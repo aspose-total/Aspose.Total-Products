@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга MD в XLSM
 description: Экспорт MD в XLSM через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/md-to-xlsm/
+url_ignore: /ru/java/conversion/md-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

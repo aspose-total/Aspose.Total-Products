@@ -1,7 +1,7 @@
 ---
 title: Converter PDF para XLTX via API C#
 description: API C# para converter arquivo PDF em XLTX sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/pdf-to-xltx/
+url_ignore: /pt/net/conversion/pdf-to-xltx/
 family: total
 platformtag: net
 feature: conversion

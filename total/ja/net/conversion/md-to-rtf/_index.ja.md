@@ -1,7 +1,7 @@
 ---
 title: MDをRTFにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにMDをRTFに変換する
-url: /ja/net/conversion/md-to-rtf/
+url_ignore: /ja/net/conversion/md-to-rtf/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API 将 CGM 导出到 OTT
 description: 在不使用 Microsoft Word 的情况下将 CGM 转换为 OTT
-url: /zh/net/conversion/cgm-to-ott/
+url_ignore: /zh/net/conversion/cgm-to-ott/
 family: total
 platformtag: net
 feature: conversion
@@ -41,7 +41,8 @@ document.Save("DocOutput.doc", SaveFormat.Doc);
 var outputDocument = new Aspose.Words.Document("DocOutput.doc");
 
 outputDocument.Save("output.ott", SaveFormat.Ott);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -56,7 +57,8 @@ Document document = new Document("Decrypt.cgm", "password");
 document.Decrypt();
  
 document.Save("Decrypt_out.doc");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -71,7 +73,8 @@ Document document = new Document("input.doc");
 doc.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.ott", SaveFormat.Ott);    
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

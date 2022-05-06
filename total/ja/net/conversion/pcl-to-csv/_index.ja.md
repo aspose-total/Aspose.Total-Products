@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPCLをCSVに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPCLファイルをCSVに変換するC＃API
-url: /ja/net/conversion/pcl-to-csv/
+url_ignore: /ja/net/conversion/pcl-to-csv/
 family: total
 platformtag: net
 feature: conversion

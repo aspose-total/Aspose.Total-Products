@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení EPUB do TSV
 description: Export EPUB do TSV přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/epub-to-tsv/
+url_ignore: /cs/java/conversion/epub-to-tsv/
 family: total
 platformtag: net
 feature: conversion

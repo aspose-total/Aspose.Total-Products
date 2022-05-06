@@ -1,7 +1,7 @@
 ---
 title: Export EMAIL to DOCX via C++
 description: C++ API to Convert EMAIL to DOCX without using Microsoft Word or Outlook
-url: /cpp/conversion/email-to-docx/
+url_ignore: /cpp/conversion/email-to-docx/
 family: total
 platformtag: cpp
 feature: conversion

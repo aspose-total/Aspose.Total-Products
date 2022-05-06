@@ -1,7 +1,7 @@
 ---
 title: Convierta DOTM a formato JSON a través de Java
 description: Convierta el formato DOTM a JSON a través de Java sin usar Microsoft Word o Microsoft Excel
-url: /es/java/conversion/dotm-to-json/
+url_ignore: /es/java/conversion/dotm-to-json/
 family: total
 platformtag: net
 feature: conversion

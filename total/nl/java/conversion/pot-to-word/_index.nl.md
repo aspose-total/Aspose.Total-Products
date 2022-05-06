@@ -1,7 +1,7 @@
 ---
 title: Converteer POT naar WORD via Java
 description: Java API om POT naar WORD te exporteren zonder Microsoft Word of PowerPoint te gebruiken
-url: /nl/java/conversion/pot-to-word/
+url_ignore: /nl/java/conversion/pot-to-word/
 family: total
 platformtag: net
 feature: conversion

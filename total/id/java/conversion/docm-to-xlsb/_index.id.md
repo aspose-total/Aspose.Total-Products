@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Mengonversi DOCM ke XLSB
 description: Konversi DOCM ke XLSB melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel
-url: /id/java/conversion/docm-to-xlsb/
+url_ignore: /id/java/conversion/docm-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

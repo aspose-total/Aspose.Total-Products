@@ -1,7 +1,7 @@
 ---
 title: Convert OTT to POTM via Java
 description: Java API to Export OTT to POTM without using Microsoft Word or PowerPoint
-url: /java/conversion/ott-to-potm/
+url_ignore: /java/conversion/ott-to-potm/
 family: total
 platformtag: java
 feature: conversion

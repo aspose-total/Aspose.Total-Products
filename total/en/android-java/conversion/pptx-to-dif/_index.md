@@ -1,7 +1,7 @@
 ---
 title: Convert PPTX to DIF in Android via Java
 description: Convert PPTX to DIF in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/pptx-to-dif/
+url_ignore: /android-java/conversion/pptx-to-dif/
 family: total
 platformtag: android-java
 feature: conversion

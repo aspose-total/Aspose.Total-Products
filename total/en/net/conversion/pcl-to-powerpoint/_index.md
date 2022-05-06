@@ -1,7 +1,7 @@
 ---
 title: Export PCL to POWERPOINT via C# API
 description: .NET API to Convert PCL to POWERPOINT without using Microsoft Word
-url: /net/conversion/pcl-to-powerpoint/
+url_ignore: /net/conversion/pcl-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: OFTをDOCにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにOFTをDOCに変換する
-url: /ja/net/conversion/oft-to-doc/
+url_ignore: /ja/net/conversion/oft-to-doc/
 family: total
 platformtag: net
 feature: conversion

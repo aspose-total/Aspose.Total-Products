@@ -1,7 +1,7 @@
 ---
 title: Konwertuj MHTML na PPTM za pomocą Java API
 description: Java API do konwersji MHTML na PPTM bez użycia Microsoft Word
-url: /pl/java/conversion/mhtml-to-pptm/
+url_ignore: /pl/java/conversion/mhtml-to-pptm/
 family: total
 platformtag: net
 feature: conversion

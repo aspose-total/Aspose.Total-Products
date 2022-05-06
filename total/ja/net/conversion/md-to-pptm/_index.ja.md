@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMDをPPTMにエクスポートする
 description: MicrosoftWordを使用せずにMDをPPTMに変換する.NETAPI
-url: /ja/net/conversion/md-to-pptm/
+url_ignore: /ja/net/conversion/md-to-pptm/
 family: total
 platformtag: net
 feature: conversion

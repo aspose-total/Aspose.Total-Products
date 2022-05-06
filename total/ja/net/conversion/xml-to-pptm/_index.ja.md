@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXMLをPPTMにエクスポートする
 description: MicrosoftWordを使用せずにXMLをPPTMに変換する.NETAPI
-url: /ja/net/conversion/xml-to-pptm/
+url_ignore: /ja/net/conversion/xml-to-pptm/
 family: total
 platformtag: net
 feature: conversion

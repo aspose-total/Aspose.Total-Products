@@ -1,7 +1,7 @@
 ---
 title: Converti PPT in formato DIF tramite Java
 description: Converti PPT in formato DIF tramite Java senza utilizzare Microsoft Excel o PowerPoint
-url: /it/java/conversion/ppt-to-dif/
+url_ignore: /it/java/conversion/ppt-to-dif/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: แปลง WORD เป็น POT ผ่าน Java
 description: Java API เพื่อส่งออก WORD ไปยัง POT โดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint
-url: /th/java/conversion/word-to-pot/
+url_ignore: /th/java/conversion/word-to-pot/
 family: total
 platformtag: net
 feature: conversion

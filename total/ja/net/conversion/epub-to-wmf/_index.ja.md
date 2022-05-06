@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してEPUBをWMFに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでEPUBをWMFにエクスポートします
-url: /ja/net/conversion/epub-to-wmf/
+url_ignore: /ja/net/conversion/epub-to-wmf/
 family: total
 platformtag: net
 feature: conversion

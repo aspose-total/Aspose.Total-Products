@@ -1,7 +1,7 @@
 ---
 title: Převeďte EPUB na ODP přes Java API
 description: Java API pro převod EPUB na ODP bez použití aplikace Microsoft Word
-url: /cs/java/conversion/epub-to-odp/
+url_ignore: /cs/java/conversion/epub-to-odp/
 family: total
 platformtag: net
 feature: conversion

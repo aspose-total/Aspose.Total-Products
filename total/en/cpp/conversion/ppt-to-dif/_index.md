@@ -1,7 +1,7 @@
 ---
 title: Convert PPT to DIF via C++ 
 description: Export PPT to DIF in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/ppt-to-dif/
+url_ignore: /cpp/conversion/ppt-to-dif/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API для экспорта MD в PS
 description: Преобразование MD в PS с использованием локального Java API
-url: /ru/java/conversion/md-to-ps/
+url_ignore: /ru/java/conversion/md-to-ps/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export XML to PPSX in Android 
 description: Android API to Convert XML to PPSX without using Microsoft Word
-url: /android-java/conversion/xml-to-ppsx/
+url_ignore: /android-java/conversion/xml-to-ppsx/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API to Render EPUB to FODS
 description: Export EPUB to FODS via Java API without using Microsoft Excel or Adobe Reader
-url: /java/conversion/epub-to-fods/
+url_ignore: /java/conversion/epub-to-fods/
 family: total
 platformtag: java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API de Java para renderizar PDF a XLSM
 description: Exporte PDF a XLSM a través de la API de Java sin usar Microsoft Excel o Adobe Reader
-url: /es/java/conversion/pdf-to-xlsm/
+url_ignore: /es/java/conversion/pdf-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

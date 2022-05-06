@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してSVGをPOTMにエクスポートする
 description: MicrosoftWordを使用せずにSVGをPOTMに変換する.NETAPI
-url: /ja/net/conversion/svg-to-potm/
+url_ignore: /ja/net/conversion/svg-to-potm/
 family: total
 platformtag: net
 feature: conversion

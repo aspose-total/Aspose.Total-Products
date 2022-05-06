@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert ODT to XLS
 description: Convert ODT to XLS in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/odt-to-xls/
+url_ignore: /android-java/conversion/odt-to-xls/
 family: total
 platformtag: android-java
 feature: conversion

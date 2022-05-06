@@ -1,6 +1,6 @@
 ---
 title: Преобразование RTF в PPT через C# .NET 
-url: /ru/net/conversion/rtf-to-ppt/ 
+url_ignore: /ru/net/conversion/rtf-to-ppt/ 
 description: Преобразование документов Word rtf в файлы PowerPoint ppt с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Konvertera PPS till MARKDOWN-format via Java
 description: Konvertera PPS till MARKDOWN-format via Java utan att använda Microsoft Excel eller PowerPoint
-url: /sv/java/conversion/pps-to-markdown/
+url_ignore: /sv/java/conversion/pps-to-markdown/
 family: total
 platformtag: net
 feature: conversion

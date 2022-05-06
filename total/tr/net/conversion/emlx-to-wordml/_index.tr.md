@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı WORDML'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan EMLX'i WORDML'ye dönüştürün
-url: /tr/net/conversion/emlx-to-wordml/
+url_ignore: /tr/net/conversion/emlx-to-wordml/
 family: total
 platformtag: net
 feature: conversion

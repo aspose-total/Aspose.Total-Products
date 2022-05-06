@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга PDF в ODS
 description: Экспорт PDF в ODS через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/pdf-to-ods/
+url_ignore: /ru/java/conversion/pdf-to-ods/
 family: total
 platformtag: net
 feature: conversion

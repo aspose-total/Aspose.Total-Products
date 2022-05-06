@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla CGM'yi EMZ'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan CGM dosyasını Java uygulamalarınızda EMZ'ye aktarın
-url: /tr/java/conversion/cgm-to-emz/
+url_ignore: /tr/java/conversion/cgm-to-emz/
 family: total
 platformtag: net
 feature: conversion

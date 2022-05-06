@@ -1,7 +1,7 @@
 ---
 title: Convert DOC to POWERPOINT via Java
 description: Java API to Export DOC to POWERPOINT without using Microsoft Word or PowerPoint
-url: /java/conversion/doc-to-powerpoint/
+url_ignore: /java/conversion/doc-to-powerpoint/
 family: total
 platformtag: java
 feature: conversion

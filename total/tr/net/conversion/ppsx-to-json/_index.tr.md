@@ -1,7 +1,7 @@
 ---
 title: PPSX'yi .NET aracılığıyla JSON formatına dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan PPSX'yi C# ile JSON'a dönüştürün
-url: /tr/net/conversion/ppsx-to-json/
+url_ignore: /tr/net/conversion/ppsx-to-json/
 family: total
 platformtag: net
 feature: conversion

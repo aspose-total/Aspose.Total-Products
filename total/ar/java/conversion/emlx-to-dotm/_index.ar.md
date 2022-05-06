@@ -1,7 +1,7 @@
 ---
 title: قم بتصدير EMLX إلى DOTM عبر Java
 description: Java API لتحويل البريد الإلكتروني إلى DOTM دون استخدام Microsoft Word أو Outlook
-url: /ar/java/conversion/emlx-to-dotm/
+url_ignore: /ar/java/conversion/emlx-to-dotm/
 family: total
 platformtag: net
 feature: conversion

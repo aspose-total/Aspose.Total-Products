@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XPS to TSV
 description: Convert XPS to TSV via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xps-to-tsv/
+url_ignore: /cpp/conversion/xps-to-tsv/
 family: total
 platformtag: cpp
 feature: conversion

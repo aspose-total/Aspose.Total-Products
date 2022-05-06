@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert SVG to PPSM  
 description: Convert SVG to PPSM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/svg-to-ppsm/
+url_ignore: /cpp/conversion/svg-to-ppsm/
 family: total
 platformtag: cpp
 feature: conversion

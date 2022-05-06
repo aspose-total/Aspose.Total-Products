@@ -1,7 +1,7 @@
 ---
 title: Преобразование формата JSON в WORD через Java
 description: Разобрать JSON в WORD на Java без использования Microsoft Word
-url: /ru/java/conversion/json-to-word/
+url_ignore: /ru/java/conversion/json-to-word/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: 使用 Java 将 SXC 转换为 POWERPOINT
 description: 使用 Excel 或 Word 将 SXC 导出为 POWERPOINT 的 Java API
-url: /zh/java/conversion/sxc-to-powerpoint/
+url_ignore: /zh/java/conversion/sxc-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPOTをXLTXに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPOTをXLTXに変換する
-url: /ja/net/conversion/pot-to-xltx/
+url_ignore: /ja/net/conversion/pot-to-xltx/
 family: total
 platformtag: net
 feature: conversion

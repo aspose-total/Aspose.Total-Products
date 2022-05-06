@@ -1,7 +1,7 @@
 ---
 title: تحويل POTM إلى تنسيق FODS عبر Java
 description: قم بتحويل POTM إلى تنسيق FODS عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/potm-to-fods/
+url_ignore: /ar/java/conversion/potm-to-fods/
 family: total
 platformtag: net
 feature: conversion

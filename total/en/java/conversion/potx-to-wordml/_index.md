@@ -1,7 +1,7 @@
 ---
 title: Convert POTX to WORDML via Java
 description: Java API to Export POTX to WORDML without using Microsoft Word or PowerPoint
-url: /java/conversion/potx-to-wordml/
+url_ignore: /java/conversion/potx-to-wordml/
 family: total
 platformtag: java
 feature: conversion

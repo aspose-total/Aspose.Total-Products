@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Exportieren von PDF nach PS
 description: Konvertieren Sie PDF mithilfe der lokalen Java-API in PS
-url: /de/java/conversion/pdf-to-ps/
+url_ignore: /de/java/conversion/pdf-to-ps/
 family: total
 platformtag: net
 feature: conversion

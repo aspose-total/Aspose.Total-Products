@@ -1,7 +1,7 @@
 ---
 title: Konversi PCL ke SWF melalui Java API
 description: Java API untuk Mengonversi PCL ke SWF tanpa menggunakan Microsoft Word
-url: /id/java/conversion/pcl-to-swf/
+url_ignore: /id/java/conversion/pcl-to-swf/
 family: total
 platformtag: net
 feature: conversion

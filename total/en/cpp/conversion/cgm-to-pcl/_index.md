@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export CGM to PCL
 description: Convert CGM to PCL within C++ applications.
-url: /cpp/conversion/cgm-to-pcl/
+url_ignore: /cpp/conversion/cgm-to-pcl/
 family: total
 platformtag: cpp
 feature: conversion

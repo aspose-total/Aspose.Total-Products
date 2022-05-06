@@ -1,7 +1,7 @@
 ---
 title: TEX'yi C# API aracılığıyla PPS'ye aktarın
 description: Microsoft Word kullanmadan TEX'yi PPS'ye dönüştürmek için .NET API
-url: /tr/net/conversion/tex-to-pps/
+url_ignore: /tr/net/conversion/tex-to-pps/
 family: total
 platformtag: net
 feature: conversion

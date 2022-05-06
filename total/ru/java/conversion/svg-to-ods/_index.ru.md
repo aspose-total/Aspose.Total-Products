@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга SVG в ODS
 description: Экспорт SVG в ODS через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/svg-to-ods/
+url_ignore: /ru/java/conversion/svg-to-ods/
 family: total
 platformtag: net
 feature: conversion

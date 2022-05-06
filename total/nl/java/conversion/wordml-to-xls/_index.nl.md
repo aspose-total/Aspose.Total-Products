@@ -1,7 +1,7 @@
 ---
 title: Java API om WORDML naar XLS te converteren
 description: Converteer WORDML naar XLS via Java zonder Microsoft Word of Microsoft Excel te gebruiken
-url: /nl/java/conversion/wordml-to-xls/
+url_ignore: /nl/java/conversion/wordml-to-xls/
 family: total
 platformtag: net
 feature: conversion

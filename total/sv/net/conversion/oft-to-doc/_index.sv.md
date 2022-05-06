@@ -1,7 +1,7 @@
 ---
 title: C# API för att exportera OFT till DOC
 description: Konvertera OFT till DOC utan att använda Microsoft Word eller Outlook på .NET
-url: /sv/net/conversion/oft-to-doc/
+url_ignore: /sv/net/conversion/oft-to-doc/
 family: total
 platformtag: net
 feature: conversion

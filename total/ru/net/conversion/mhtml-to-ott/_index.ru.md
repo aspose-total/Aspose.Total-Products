@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта MHTML в OTT
 description: Преобразование MHTML в OTT без использования Microsoft Word
-url: /ru/net/conversion/mhtml-to-ott/
+url_ignore: /ru/net/conversion/mhtml-to-ott/
 family: total
 platformtag: net
 feature: conversion

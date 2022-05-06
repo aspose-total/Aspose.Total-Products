@@ -1,7 +1,7 @@
 ---
 title: Converti PPT in formato XLSX tramite Java
 description: Converti PPT in formato XLSX tramite Java senza utilizzare Microsoft Excel o PowerPoint
-url: /it/java/conversion/ppt-to-xlsx/
+url_ignore: /it/java/conversion/ppt-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

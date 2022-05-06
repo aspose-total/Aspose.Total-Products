@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга XPS в DIF
 description: Экспорт XPS в DIF через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/xps-to-dif/
+url_ignore: /ru/java/conversion/xps-to-dif/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してTEXをPOTMに変換する
 description: MicrosoftWordを使用せずにTEXをPOTMに変換するJavaAPI
-url: /ja/java/conversion/tex-to-potm/
+url_ignore: /ja/java/conversion/tex-to-potm/
 family: total
 platformtag: net
 feature: conversion

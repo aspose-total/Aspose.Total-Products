@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XSLFO to XLSB
 description: Convert XSLFO to XLSB via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xslfo-to-xlsb/
+url_ignore: /cpp/conversion/xslfo-to-xlsb/
 family: total
 platformtag: cpp
 feature: conversion

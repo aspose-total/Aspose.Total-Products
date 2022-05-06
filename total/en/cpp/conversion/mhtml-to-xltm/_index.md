@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MHTML to XLTM
 description: Convert MHTML to XLTM via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/mhtml-to-xltm/
+url_ignore: /cpp/conversion/mhtml-to-xltm/
 family: total
 platformtag: cpp
 feature: conversion

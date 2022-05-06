@@ -1,7 +1,7 @@
 ---
 title: .NETを介してJSON形式をODTに変換する
 description: Microsoft Wordを使用せずにC＃でJSONをODTに解析する
-url: /ja/net/conversion/json-to-odt/
+url_ignore: /ja/net/conversion/json-to-odt/
 family: total
 platformtag: net
 feature: conversion

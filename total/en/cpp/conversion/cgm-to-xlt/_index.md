@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert CGM to XLT
 description: Convert CGM to XLT via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/cgm-to-xlt/
+url_ignore: /cpp/conversion/cgm-to-xlt/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla SVG'yi EXCEL'ye dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan SVG Dosyasını EXCEL'ye Dönüştürmek için C# API'si
-url: /tr/net/conversion/svg-to-excel/
+url_ignore: /tr/net/conversion/svg-to-excel/
 family: total
 platformtag: net
 feature: conversion

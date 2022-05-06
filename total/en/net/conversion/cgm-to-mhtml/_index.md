@@ -1,7 +1,7 @@
 ---
 title: C# API to Export CGM to MHTML
 description: Convert CGM to MHTML without using Microsoft Word
-url: /net/conversion/cgm-to-mhtml/
+url_ignore: /net/conversion/cgm-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert ODP to JSON format via C++ 
 description: Export ODP to JSON format in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/odp-to-json/
+url_ignore: /cpp/conversion/odp-to-json/
 family: total
 platformtag: cpp
 feature: conversion

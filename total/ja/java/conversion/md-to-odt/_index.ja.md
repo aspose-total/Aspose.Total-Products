@@ -1,7 +1,7 @@
 ---
 title: MDをODTにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してMDをODTに変換する
-url: /ja/java/conversion/md-to-odt/
+url_ignore: /ja/java/conversion/md-to-odt/
 family: total
 platformtag: net
 feature: conversion

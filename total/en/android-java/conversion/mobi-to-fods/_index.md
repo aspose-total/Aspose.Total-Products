@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert MOBI to FODS
 description: Convert MOBI to FODS in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/mobi-to-fods/
+url_ignore: /android-java/conversion/mobi-to-fods/
 family: total
 platformtag: android-java
 feature: conversion

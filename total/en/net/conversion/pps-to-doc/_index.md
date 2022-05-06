@@ -1,6 +1,6 @@
 ---
 title: Convert PPS to DOC via C# .NET 
-url: /net/conversion/pps-to-doc/ 
+url_ignore: /net/conversion/pps-to-doc/ 
 description: Convert PowerPoint pps documents to Word doc files with C#. Convert multiple files within ASP.NET or other .NET applications.
 ---
 

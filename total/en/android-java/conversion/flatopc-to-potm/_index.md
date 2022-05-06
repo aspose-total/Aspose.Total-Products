@@ -1,7 +1,7 @@
 ---
 title: Convert FLATOPC to POTM in Android via Java
 description: FLATOPC to POTM conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/flatopc-to-potm/
+url_ignore: /android-java/conversion/flatopc-to-potm/
 family: total
 platformtag: android-java
 feature: conversion

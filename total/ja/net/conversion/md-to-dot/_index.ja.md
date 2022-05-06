@@ -1,7 +1,7 @@
 ---
 title: MDをDOTにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにMDをDOTに変換する
-url: /ja/net/conversion/md-to-dot/
+url_ignore: /ja/net/conversion/md-to-dot/
 family: total
 platformtag: net
 feature: conversion

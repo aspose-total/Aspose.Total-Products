@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert CGM to SXC
 description: Convert CGM to SXC via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/cgm-to-sxc/
+url_ignore: /cpp/conversion/cgm-to-sxc/
 family: total
 platformtag: cpp
 feature: conversion

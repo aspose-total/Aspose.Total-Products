@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PCL to SXC
 description: Convert PCL to SXC via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/pcl-to-sxc/
+url_ignore: /cpp/conversion/pcl-to-sxc/
 family: total
 platformtag: cpp
 feature: conversion

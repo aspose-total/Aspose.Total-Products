@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender EPUB ke XLTM
 description: Ekspor EPUB ke XLTM melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/epub-to-xltm/
+url_ignore: /id/java/conversion/epub-to-xltm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API pro export EMLX do WORDML
 description: Převeďte EMLX na WORDML bez použití Microsoft Word nebo Outlook na .NET
-url: /cs/net/conversion/emlx-to-wordml/
+url_ignore: /cs/net/conversion/emlx-to-wordml/
 family: total
 platformtag: net
 feature: conversion

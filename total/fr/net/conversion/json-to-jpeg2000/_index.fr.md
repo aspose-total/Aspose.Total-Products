@@ -1,7 +1,7 @@
 ---
 title: Convertir le format JSON en JPEG2000 via .NET
 description: Analyser JSON en JPEG2000 en C# sans utiliser de dépendances tierces
-url: /fr/net/conversion/json-to-jpeg2000/
+url_ignore: /fr/net/conversion/json-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: DXF SVGZ DICOM EMZ IMAGE PSD WMF JPEG2000 TGA WMZ
 {{< blocks/products/pf/i18n/feature-page-header h1="Convertir le format JSON en JPEG2000 via C#" h2="API C# pour analyser JSON en JPEG2000 sans utiliser de dépendances tierces" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), vous pouvez analyser JSON en JPEG2000 dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. pas. Tout d'abord, en utilisant [Aspose.Cells pour .NET](https://products.aspose.com/cells/net/), vous pouvez exporter JSON vers JPEG. Après cela, en utilisant [Aspose.Imaging pour .NET](https://products.aspose.com/imaging/net/), vous pouvez convertir JPEG en JPEG2000.
+En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez analyser JSON en JPEG2000 dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. pas. Tout d'abord, en utilisant [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), vous pouvez exporter JSON vers JPEG. Après cela, en utilisant [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/), vous pouvez convertir JPEG en JPEG2000.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

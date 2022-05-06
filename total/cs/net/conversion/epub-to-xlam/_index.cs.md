@@ -1,7 +1,7 @@
 ---
 title: Převeďte EPUB na XLAM přes C# API
 description: C# API pro převod souboru EPUB do XLAM bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/epub-to-xlam/
+url_ignore: /cs/net/conversion/epub-to-xlam/
 family: total
 platformtag: net
 feature: conversion

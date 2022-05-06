@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to XLSX via .NET 
 description: Convert WORD to XLSX in C# without using Microsoft Excel or Adobe Reader
-url: /net/conversion/word-to-xlsx/
+url_ignore: /net/conversion/word-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

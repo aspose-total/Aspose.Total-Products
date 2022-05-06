@@ -1,7 +1,7 @@
 ---
 title: Convert DOCM to FODS in C++
 description: C++ API to Convert DOCM to FODS without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/docm-to-fods/
+url_ignore: /cpp/conversion/docm-to-fods/
 family: total
 platformtag: cpp
 feature: conversion

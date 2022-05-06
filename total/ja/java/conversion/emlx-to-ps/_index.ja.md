@@ -1,7 +1,7 @@
 ---
 title: Java経由でEMLXをPSにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにEMLXをPSに変換するJavaAPI
-url: /ja/java/conversion/emlx-to-ps/
+url_ignore: /ja/java/conversion/emlx-to-ps/
 family: total
 platformtag: net
 feature: conversion

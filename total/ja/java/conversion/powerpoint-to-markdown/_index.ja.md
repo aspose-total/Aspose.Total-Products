@@ -1,7 +1,7 @@
 ---
 title: Javaを介してPOWERPOINTをMARKDOWN形式に変換する
 description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPOWERPOINTをMARKDOWN形式に変換する
-url: /ja/java/conversion/powerpoint-to-markdown/
+url_ignore: /ja/java/conversion/powerpoint-to-markdown/
 family: total
 platformtag: net
 feature: conversion
@@ -19,7 +19,7 @@ otherformats: EXCEL MARKDOWN XLSX ODS XLS DIF XLT FODS MHTML XLTM TSV XLAM XLSM 
 1. [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)クラスを使用してPOWERPOINTファイルを開きます
 2. [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slidesを使用してPOWERPOINTをHTMLに変換します。 ISaveOptions-)メソッド
 3. [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)クラスを使用してHTMLドキュメントをロードします
-4. [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells)を使用して、ドキュメントをMARKDOWN形式で保存します。 SaveOptions))メソッド
+4. [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells))を使用して、ドキュメントをMARKDOWN形式で保存します。 SaveOptions))メソッド
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 POWERPOINTをMARKDOWNに変換するには、[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/)から直接Aspose.TotalforJavaを簡単に使用できます。 aspose / aspose-total)ベースのプロジェクトであり、pom.xmlにライブラリを含めます。

@@ -1,7 +1,7 @@
 ---
 title: C# API pro export EMAIL do TEXT
 description: Převeďte EMAIL na TEXT bez použití Microsoft Word nebo Outlook na .NET
-url: /cs/net/conversion/email-to-text/
+url_ignore: /cs/net/conversion/email-to-text/
 family: total
 platformtag: net
 feature: conversion

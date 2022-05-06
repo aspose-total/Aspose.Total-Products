@@ -1,7 +1,7 @@
 ---
 title: Export PCL to PPSM in Android 
 description: Android API to Convert PCL to PPSM without using Microsoft Word
-url: /android-java/conversion/pcl-to-ppsm/
+url_ignore: /android-java/conversion/pcl-to-ppsm/
 family: total
 platformtag: android-java
 feature: conversion

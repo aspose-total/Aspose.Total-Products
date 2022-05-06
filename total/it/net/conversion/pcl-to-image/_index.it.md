@@ -1,7 +1,7 @@
 ---
 title: Converti PCL in IMAGE tramite API C#
 description: Esporta PCL in IMAGE nelle tue applicazioni .NET senza utilizzare applicazioni di terze parti
-url: /it/net/conversion/pcl-to-image/
+url_ignore: /it/net/conversion/pcl-to-image/
 family: total
 platformtag: net
 feature: conversion

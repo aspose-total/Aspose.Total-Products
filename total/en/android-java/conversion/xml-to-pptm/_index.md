@@ -1,7 +1,7 @@
 ---
 title: Export XML to PPTM in Android 
 description: Android API to Convert XML to PPTM without using Microsoft Word
-url: /android-java/conversion/xml-to-pptm/
+url_ignore: /android-java/conversion/xml-to-pptm/
 family: total
 platformtag: android-java
 feature: conversion

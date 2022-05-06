@@ -1,7 +1,7 @@
 ---
 title: Java API pro převod MOBI do EXCEL
 description: Převeďte MOBI na EXCEL přes Java bez použití Microsoft Word nebo Microsoft Excel
-url: /cs/java/conversion/mobi-to-excel/
+url_ignore: /cs/java/conversion/mobi-to-excel/
 family: total
 platformtag: net
 feature: conversion

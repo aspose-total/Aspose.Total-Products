@@ -1,7 +1,7 @@
 ---
 title: Export MD to SWF in Android 
 description: Android API to Convert MD to SWF without using Microsoft Word
-url: /android-java/conversion/md-to-swf/
+url_ignore: /android-java/conversion/md-to-swf/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXMLをMDに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにXMLファイルをMDに変換するC＃API
-url: /ja/net/conversion/xml-to-md/
+url_ignore: /ja/net/conversion/xml-to-md/
 family: total
 platformtag: net
 feature: conversion

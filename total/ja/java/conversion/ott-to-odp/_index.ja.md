@@ -1,7 +1,7 @@
 ---
 title: Java経由でOTTをODPに変換する
 description: MicrosoftWordやPowerPointを使用せずにOTTをODPにエクスポートするJavaAPI
-url: /ja/java/conversion/ott-to-odp/
+url_ignore: /ja/java/conversion/ott-to-odp/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java経由でPOWERPOINTをWORDに変換する
 description: MicrosoftWordやPowerPointを使用せずにPOWERPOINTをWORDにエクスポートするJavaAPI
-url: /ja/java/conversion/powerpoint-to-word/
+url_ignore: /ja/java/conversion/powerpoint-to-word/
 family: total
 platformtag: net
 feature: conversion

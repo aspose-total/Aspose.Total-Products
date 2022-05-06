@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก EMAIL ไปยัง JPEG
 description: แปลง EMAIL เป็น JPEG โดยไม่ต้องใช้ Microsoft Word หรือ Outlook บน .NET
-url: /th/net/conversion/email-to-jpeg/
+url_ignore: /th/net/conversion/email-to-jpeg/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert TEX to EXCEL via C# API
 description: C# API to Convert TEX File to EXCEL without using Microsoft Excel or Adobe Reader
-url: /net/conversion/tex-to-excel/
+url_ignore: /net/conversion/tex-to-excel/
 family: total
 platformtag: net
 feature: conversion

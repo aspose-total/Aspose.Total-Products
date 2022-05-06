@@ -1,7 +1,7 @@
 ---
 title: Convert PPT to DIF via C# 
 description: Convert PPT to DIF in C# without using Microsoft Excel or Powerpoint
-url: /net/conversion/ppt-to-dif/
+url_ignore: /net/conversion/ppt-to-dif/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert PPT to TSV in Android via Java
 description: Convert PPT to TSV in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/ppt-to-tsv/
+url_ignore: /android-java/conversion/ppt-to-tsv/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export PDF to SWF in Android 
 description: Android API to Convert PDF to SWF without using Microsoft Word
-url: /android-java/conversion/pdf-to-swf/
+url_ignore: /android-java/conversion/pdf-to-swf/
 family: total
 platformtag: android-java
 feature: conversion

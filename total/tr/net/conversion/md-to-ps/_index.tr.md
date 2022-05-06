@@ -1,7 +1,7 @@
 ---
 title: MD'yi PS'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan MD'yi PS'ye dönüştürün
-url: /tr/net/conversion/md-to-ps/
+url_ignore: /tr/net/conversion/md-to-ps/
 family: total
 platformtag: net
 feature: conversion

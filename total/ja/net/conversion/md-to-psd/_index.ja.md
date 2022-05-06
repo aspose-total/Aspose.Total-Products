@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMDをPSDに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでMDをPSDにエクスポートします
-url: /ja/net/conversion/md-to-psd/
+url_ignore: /ja/net/conversion/md-to-psd/
 family: total
 platformtag: net
 feature: conversion

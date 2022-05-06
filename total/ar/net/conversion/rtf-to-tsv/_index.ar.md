@@ -1,7 +1,7 @@
 ---
 title: NET API لتحويل RTF إلى TSV
 description: C# API لتحويل RTF إلى TSV بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/rtf-to-tsv/
+url_ignore: /ar/net/conversion/rtf-to-tsv/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ otherformats: FODS XLAM EXCEL XLSX SXC DIF XLSM ODS XLTX XLSB TSV XLS XLTM XLT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="NET API لتحويل RTF إلى TSV" %}}
-1. افتح ملف RTF باستخدام فئة [Rtfument](https://apireference.aspose.com/words/net/aspose.words/rtfument)
-2. تحويل RTF إلى HTML باستخدام طريقة [Save](https://apireference.aspose.com/words/net/aspose.words.rtfument/save/methods/4)
+1. افتح ملف RTF باستخدام فئة [Document](https://apireference.aspose.com/words/net/aspose.words/Document)
+2. تحويل RTF إلى HTML باستخدام طريقة [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4)
 3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. احفظ المستند بتنسيق TSV باستخدام طريقة [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) وعيّن `TSV` على أنه SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -39,7 +39,7 @@ otherformats: FODS XLAM EXCEL XLSX SXC DIF XLSM ODS XLTX XLSB TSV XLS XLTM XLT
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="قم بتحميل مستند RTF من الدفق عبر C#" %}}
-يسمح لك [Aspose.Words for .NET](https://products.aspose.com/words/net/) أيضًا بتحميل مستند RTF عبر الدفق. لفتح مستند من تيار ، ما عليك سوى تمرير كائن تيار يحتوي على المستند إلى مُنشئ [Rtfument](https://apireference.aspose.com/words/net/aspose.words/rtfument). يوضح المثال التالي من التعليمات البرمجية كيفية فتح مستند من دفق:  
+يسمح لك [Aspose.Words for .NET](https://products.aspose.com/words/net/) أيضًا بتحميل مستند RTF عبر الدفق. لفتح مستند من تيار ، ما عليك سوى تمرير كائن تيار يحتوي على المستند إلى مُنشئ [Document](https://apireference.aspose.com/words/net/aspose.words/Document). يوضح المثال التالي من التعليمات البرمجية كيفية فتح مستند من دفق:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ otherformats: FODS XLAM EXCEL XLSX SXC DIF XLSM ODS XLTX XLSB TSV XLS XLTM XLT
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="إضافة خصائص مخصصة في ملف TSV عبر C#" %}}
-أثناء تحويل RTF إلى TSV ، يمكّنك [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) من إضافة خصائص مخصصة في مستندات TSV. لإضافة خاصية مخصصة ، يمكنك استخدام طريقة [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customrtfumentpropertycollection/methods/add/index) للأسلوب [CustomRtfumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customrtfumentpropertycollection) فئة. يضيف الأسلوب Add الخاصية إلى ملف Excel ويعيد مرجعًا لخاصية المستند الجديدة كـ [Aspose.Cells.Properties.RtfumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties/rtfumentproperty) كائن. 
+أثناء تحويل RTF إلى TSV ، يمكّنك [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) من إضافة خصائص مخصصة في مستندات TSV. لإضافة خاصية مخصصة ، يمكنك استخدام طريقة [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index) للأسلوب [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection) فئة. يضيف الأسلوب Add الخاصية إلى ملف Excel ويعيد مرجعًا لخاصية المستند الجديدة كـ [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties/Documentproperty) كائن. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

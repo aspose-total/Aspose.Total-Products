@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla MD'yi XLAM'ye dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan MD Dosyasını XLAM'ye Dönüştürmek için C# API'si
-url: /tr/net/conversion/md-to-xlam/
+url_ignore: /tr/net/conversion/md-to-xlam/
 family: total
 platformtag: net
 feature: conversion

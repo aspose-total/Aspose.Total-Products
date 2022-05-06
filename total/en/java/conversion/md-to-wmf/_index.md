@@ -1,7 +1,7 @@
 ---
 title: Convert MD to WMF via Java
 description: Export MD file to WMF  in your Java applications without using any third party application 
-url: /java/conversion/md-to-wmf/
+url_ignore: /java/conversion/md-to-wmf/
 family: total
 platformtag: java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Převeďte TEX na POT přes Java API
 description: Java API pro převod TEX na POT bez použití aplikace Microsoft Word
-url: /cs/java/conversion/tex-to-pot/
+url_ignore: /cs/java/conversion/tex-to-pot/
 family: total
 platformtag: net
 feature: conversion

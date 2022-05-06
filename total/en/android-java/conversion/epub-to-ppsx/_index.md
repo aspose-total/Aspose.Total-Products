@@ -1,7 +1,7 @@
 ---
 title: Export EPUB to PPSX in Android 
 description: Android API to Convert EPUB to PPSX without using Microsoft Word
-url: /android-java/conversion/epub-to-ppsx/
+url_ignore: /android-java/conversion/epub-to-ppsx/
 family: total
 platformtag: android-java
 feature: conversion

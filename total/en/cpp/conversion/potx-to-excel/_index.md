@@ -1,7 +1,7 @@
 ---
 title: Convert POTX to EXCEL via C++ 
 description: Export POTX to EXCEL in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/potx-to-excel/
+url_ignore: /cpp/conversion/potx-to-excel/
 family: total
 platformtag: cpp
 feature: conversion

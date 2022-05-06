@@ -1,7 +1,7 @@
 ---
 title: DOCM'yi EXCEL'ye Dönüştürmek için .NET API
 description: Microsoft Excel veya Adobe Reader kullanmadan DOCM'yi EXCEL'ye dönüştürmek için C# API'si
-url: /tr/net/conversion/docm-to-excel/
+url_ignore: /tr/net/conversion/docm-to-excel/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convertir POWERPOINT en XLSB via C#
 description: Convertir POWERPOINT en XLSB en C# sans utiliser Microsoft Excel ou Powerpoint
-url: /fr/net/conversion/powerpoint-to-xlsb/
+url_ignore: /fr/net/conversion/powerpoint-to-xlsb/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: FODS SXC DIF XLS XLT MARKDOWN TSV XLAM EXCEL MHTML ODS XLTX XLSM X
 {{< blocks/products/pf/i18n/feature-page-header h1="Convertir POWERPOINT en XLSB via C#" h2="API .NET pour la conversion POWERPOINT en XLSB sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), vous pouvez convertir le fichier POWERPOINT en XLSB dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.Slides pour .NET](https://products.aspose.com/slides/net/), vous pouvez exporter POWERPOINT vers HTML. Après cela, en utilisant [Aspose.Cells pour .NET](https://products.aspose.com/cells/net/) API de programmation de feuille de calcul, vous pouvez convertir HTML en XLSB.
+En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez convertir le fichier POWERPOINT en XLSB dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), vous pouvez exporter POWERPOINT vers HTML. Après cela, en utilisant [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API de programmation de feuille de calcul, vous pouvez convertir HTML en XLSB.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

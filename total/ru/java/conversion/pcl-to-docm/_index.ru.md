@@ -1,7 +1,7 @@
 ---
 title: Java API для экспорта PCL в DOCM
 description: Преобразование PCL в DOCM с использованием локального Java API
-url: /ru/java/conversion/pcl-to-docm/
+url_ignore: /ru/java/conversion/pcl-to-docm/
 family: total
 platformtag: net
 feature: conversion

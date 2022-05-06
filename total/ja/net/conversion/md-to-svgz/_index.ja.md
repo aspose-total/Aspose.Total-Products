@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMDをSVGZに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでMDをSVGZにエクスポートします
-url: /ja/net/conversion/md-to-svgz/
+url_ignore: /ja/net/conversion/md-to-svgz/
 family: total
 platformtag: net
 feature: conversion

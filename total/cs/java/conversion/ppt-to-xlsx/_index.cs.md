@@ -1,7 +1,7 @@
 ---
 title: Převeďte PPT do formátu XLSX přes Java
 description: Převeďte PPT do formátu XLSX přes Java bez použití Microsoft Excel nebo PowerPoint
-url: /cs/java/conversion/ppt-to-xlsx/
+url_ignore: /cs/java/conversion/ppt-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

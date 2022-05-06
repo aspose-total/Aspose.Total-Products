@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Mengekspor CGM ke DOCM
 description: Konversi CGM ke DOCM menggunakan API Java di tempat
-url: /id/java/conversion/cgm-to-docm/
+url_ignore: /id/java/conversion/cgm-to-docm/
 family: total
 platformtag: net
 feature: conversion
@@ -37,7 +37,8 @@ document.save("DocOutput.doc", SaveFormat.DOC);
 Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 // call save method while passing SaveFormat.DOCM
 outputDocument.save("output.docm", SaveFormat.DOCM);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Persyaratan Konversi" %}}
@@ -49,7 +50,8 @@ Saat mengonversi CGM ke DOCM, meskipun dokumen Anda dilindungi kata sandi, Anda 
 Document document = new Document("input.cgm", "password");
 // save CGM as a DOC 
 document.save("DocOutput.doc", SaveFormat.DOC);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Buka Dokumen CGM yang Dilindungi Kata Sandi melalui Java" %}}
@@ -73,7 +75,8 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
     Statement statement = mConnection.createStatement();
     statement.executeUpdate(commandString);
 }  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

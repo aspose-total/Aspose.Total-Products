@@ -1,7 +1,7 @@
 ---
 title: Convert PPSX to EXCEL via C++ 
 description: Export PPSX to EXCEL in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/ppsx-to-excel/
+url_ignore: /cpp/conversion/ppsx-to-excel/
 family: total
 platformtag: cpp
 feature: conversion

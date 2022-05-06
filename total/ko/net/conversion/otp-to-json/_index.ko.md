@@ -1,7 +1,7 @@
 ---
 title: .NET을 통해 OTP를 JSON 형식으로 변환
 description: Microsoft Excel 또는 Powerpoint를 사용하지 않고 C#에서 OTP를 JSON으로 변환
-url: /ko/net/conversion/otp-to-json/
+url_ignore: /ko/net/conversion/otp-to-json/
 family: total
 platformtag: net
 feature: conversion

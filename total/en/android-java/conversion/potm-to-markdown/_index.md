@@ -1,7 +1,7 @@
 ---
 title: Convert POTM to MARKDOWN in Android via Java
 description: Convert POTM to MARKDOWN in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/potm-to-markdown/
+url_ignore: /android-java/conversion/potm-to-markdown/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert DOCM to DIF in C++
 description: C++ API to Convert DOCM to DIF without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/docm-to-dif/
+url_ignore: /cpp/conversion/docm-to-dif/
 family: total
 platformtag: cpp
 feature: conversion

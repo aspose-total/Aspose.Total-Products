@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى OTT عبر Java
 description: تحليل JSON إلى OTT في Java بدون استخدام Microsoft Word
-url: /ar/java/conversion/json-to-ott/
+url_ignore: /ar/java/conversion/json-to-ott/
 family: total
 platformtag: net
 feature: conversion

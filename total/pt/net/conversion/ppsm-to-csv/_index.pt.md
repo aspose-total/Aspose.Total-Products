@@ -1,7 +1,7 @@
 ---
 title: Converter PPSM para CSV via C#
 description: Converter PPSM para CSV em C# sem usar o Microsoft Excel ou Powerpoint
-url: /pt/net/conversion/ppsm-to-csv/
+url_ignore: /pt/net/conversion/ppsm-to-csv/
 family: total
 platformtag: net
 feature: conversion

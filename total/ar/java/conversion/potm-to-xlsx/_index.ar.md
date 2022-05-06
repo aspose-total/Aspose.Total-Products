@@ -1,7 +1,7 @@
 ---
 title: تحويل POTM إلى تنسيق XLSX عبر Java
 description: قم بتحويل POTM إلى تنسيق XLSX عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/potm-to-xlsx/
+url_ignore: /ar/java/conversion/potm-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

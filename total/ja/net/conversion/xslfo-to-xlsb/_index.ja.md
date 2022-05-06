@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXSLFOをXLSBに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにXSLFOファイルをXLSBに変換するC＃API
-url: /ja/net/conversion/xslfo-to-xlsb/
+url_ignore: /ja/net/conversion/xslfo-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

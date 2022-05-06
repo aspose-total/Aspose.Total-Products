@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก EMAIL ไปยัง EMF
 description: แปลง EMAIL เป็น EMF โดยไม่ต้องใช้ Microsoft Word หรือ Outlook บน .NET
-url: /th/net/conversion/email-to-emf/
+url_ignore: /th/net/conversion/email-to-emf/
 family: total
 platformtag: net
 feature: conversion

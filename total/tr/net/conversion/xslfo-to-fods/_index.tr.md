@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla XSLFO'yi FODS'ye dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan XSLFO Dosyasını FODS'ye Dönüştürmek için C# API'si
-url: /tr/net/conversion/xslfo-to-fods/
+url_ignore: /tr/net/conversion/xslfo-to-fods/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: DOCをXLSXに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにDOCをXLSXに変換するC＃API
-url: /ja/net/conversion/doc-to-xlsx/
+url_ignore: /ja/net/conversion/doc-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

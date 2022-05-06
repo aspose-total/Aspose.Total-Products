@@ -1,7 +1,7 @@
 ---
 title: Converter MHTML para XLSB via API C#
 description: API C# para converter arquivo MHTML em XLSB sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/mhtml-to-xlsb/
+url_ignore: /pt/net/conversion/mhtml-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: OFTをMDにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにOFTをMDに変換する
-url: /ja/net/conversion/oft-to-md/
+url_ignore: /ja/net/conversion/oft-to-md/
 family: total
 platformtag: net
 feature: conversion

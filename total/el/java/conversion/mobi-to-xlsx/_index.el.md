@@ -1,7 +1,7 @@
 ---
 title: Java API για μετατροπή MOBI σε XLSX
 description: Μετατροπή MOBI σε XLSX μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel
-url: /el/java/conversion/mobi-to-xlsx/
+url_ignore: /el/java/conversion/mobi-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

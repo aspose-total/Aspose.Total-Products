@@ -1,7 +1,7 @@
 ---
 title: Java API لتحويل WORD إلى XLSB
 description: قم بتحويل WORD إلى XLSB عبر Java دون استخدام Microsoft Word أو Microsoft Excel
-url: /ar/java/conversion/word-to-xlsb/
+url_ignore: /ar/java/conversion/word-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

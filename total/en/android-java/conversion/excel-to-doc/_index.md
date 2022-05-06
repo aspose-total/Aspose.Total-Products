@@ -1,7 +1,7 @@
 ---
 title: Export EXCEL to DOC in Android 
 description: Android API to Convert EXCEL to DOC without using Microsoft Word
-url: /android-java/conversion/excel-to-doc/
+url_ignore: /android-java/conversion/excel-to-doc/
 family: total
 platformtag: android-java
 feature: conversion

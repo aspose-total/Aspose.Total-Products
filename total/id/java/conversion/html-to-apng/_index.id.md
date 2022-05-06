@@ -1,7 +1,7 @@
 ---
 title: Konversi HTML ke APNG melalui Java
 description: Ekspor file HTML ke APNG di aplikasi Java Anda tanpa menggunakan aplikasi pihak ketiga
-url: /id/java/conversion/html-to-apng/
+url_ignore: /id/java/conversion/html-to-apng/
 family: total
 platformtag: net
 feature: conversion

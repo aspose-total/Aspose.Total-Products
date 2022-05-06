@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla SVG'yi XLSB'ye dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan SVG Dosyasını XLSB'ye Dönüştürmek için C# API'si
-url: /tr/net/conversion/svg-to-xlsb/
+url_ignore: /tr/net/conversion/svg-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

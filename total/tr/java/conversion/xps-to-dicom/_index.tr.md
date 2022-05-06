@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla XPS'yi DICOM'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan XPS dosyasını Java uygulamalarınızda DICOM'ye aktarın
-url: /tr/java/conversion/xps-to-dicom/
+url_ignore: /tr/java/conversion/xps-to-dicom/
 family: total
 platformtag: net
 feature: conversion

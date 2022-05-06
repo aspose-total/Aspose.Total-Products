@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender TEX ke TSV
 description: Ekspor TEX ke TSV melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/tex-to-tsv/
+url_ignore: /id/java/conversion/tex-to-tsv/
 family: total
 platformtag: net
 feature: conversion

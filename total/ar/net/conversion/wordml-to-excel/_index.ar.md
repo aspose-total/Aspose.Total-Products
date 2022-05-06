@@ -1,7 +1,7 @@
 ---
 title: NET API لتحويل WORDML إلى EXCEL
 description: C# API لتحويل WORDML إلى EXCEL بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/wordml-to-excel/
+url_ignore: /ar/net/conversion/wordml-to-excel/
 family: total
 platformtag: net
 feature: conversion

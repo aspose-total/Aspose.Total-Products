@@ -1,7 +1,7 @@
 ---
 title: API .NET para convertir DOTM a CSV
 description: API de C# para convertir DOTM a CSV sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/dotm-to-csv/
+url_ignore: /es/net/conversion/dotm-to-csv/
 family: total
 platformtag: net
 feature: conversion

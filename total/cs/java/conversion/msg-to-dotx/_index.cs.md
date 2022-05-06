@@ -1,7 +1,7 @@
 ---
 title: Export MSG do DOTX přes Java
 description: Java API pro převod MSG do DOTX bez použití Microsoft Word nebo Outlook
-url: /cs/java/conversion/msg-to-dotx/
+url_ignore: /cs/java/conversion/msg-to-dotx/
 family: total
 platformtag: net
 feature: conversion

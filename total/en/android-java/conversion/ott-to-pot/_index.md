@@ -1,7 +1,7 @@
 ---
 title: Convert OTT to POT in Android via Java
 description: OTT to POT conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/ott-to-pot/
+url_ignore: /android-java/conversion/ott-to-pot/
 family: total
 platformtag: android-java
 feature: conversion

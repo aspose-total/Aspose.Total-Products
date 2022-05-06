@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie XLT in DOC mit Java
 description: Java-API zum Exportieren von XLT in DOC mit Excel oder Word
-url: /de/java/conversion/xlt-to-doc/
+url_ignore: /de/java/conversion/xlt-to-doc/
 family: total
 platformtag: net
 feature: conversion

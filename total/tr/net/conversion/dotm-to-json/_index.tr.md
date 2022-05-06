@@ -1,7 +1,7 @@
 ---
 title: DOTM'yi .NET aracılığıyla JSON formatına dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan DOTM'yi C#'ta JSON'a dönüştürün
-url: /tr/net/conversion/dotm-to-json/
+url_ignore: /tr/net/conversion/dotm-to-json/
 family: total
 platformtag: net
 feature: conversion

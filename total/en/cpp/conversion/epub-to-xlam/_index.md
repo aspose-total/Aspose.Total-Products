@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert EPUB to XLAM
 description: Convert EPUB to XLAM via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/epub-to-xlam/
+url_ignore: /cpp/conversion/epub-to-xlam/
 family: total
 platformtag: cpp
 feature: conversion

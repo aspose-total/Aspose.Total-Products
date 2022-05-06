@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PPS na format XLTX za pomocą Java
 description: Konwertuj PPS do formatu XLTX za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint
-url: /pl/java/conversion/pps-to-xltx/
+url_ignore: /pl/java/conversion/pps-to-xltx/
 family: total
 platformtag: net
 feature: conversion

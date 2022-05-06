@@ -1,7 +1,7 @@
 ---
 title: Export SVG to PPT via C# API
 description: .NET API to Convert SVG to PPT without using Microsoft Word
-url: /net/conversion/svg-to-ppt/
+url_ignore: /net/conversion/svg-to-ppt/
 family: total
 platformtag: net
 feature: conversion

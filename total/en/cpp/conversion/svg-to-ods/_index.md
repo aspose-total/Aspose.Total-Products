@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert SVG to ODS
 description: Convert SVG to ODS via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/svg-to-ods/
+url_ignore: /cpp/conversion/svg-to-ods/
 family: total
 platformtag: cpp
 feature: conversion

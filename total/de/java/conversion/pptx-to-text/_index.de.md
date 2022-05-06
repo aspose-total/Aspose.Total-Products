@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie PPTX über Java in TEXT
 description: Java-API zum Exportieren von PPTX nach TEXT, ohne Microsoft Word oder PowerPoint zu verwenden
-url: /de/java/conversion/pptx-to-text/
+url_ignore: /de/java/conversion/pptx-to-text/
 family: total
 platformtag: net
 feature: conversion

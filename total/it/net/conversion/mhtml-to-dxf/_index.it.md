@@ -1,7 +1,7 @@
 ---
 title: Converti MHTML in DXF tramite API C#
 description: Esporta MHTML in DXF nelle tue applicazioni .NET senza utilizzare applicazioni di terze parti
-url: /it/net/conversion/mhtml-to-dxf/
+url_ignore: /it/net/conversion/mhtml-to-dxf/
 family: total
 platformtag: net
 feature: conversion

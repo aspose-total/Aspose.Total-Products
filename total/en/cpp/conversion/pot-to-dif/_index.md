@@ -1,7 +1,7 @@
 ---
 title: Convert POT to DIF via C++ 
 description: Export POT to DIF in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pot-to-dif/
+url_ignore: /cpp/conversion/pot-to-dif/
 family: total
 platformtag: cpp
 feature: conversion

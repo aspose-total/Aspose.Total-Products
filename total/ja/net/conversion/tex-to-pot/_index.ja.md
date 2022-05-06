@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してTEXをPOTにエクスポートする
 description: MicrosoftWordを使用せずにTEXをPOTに変換する.NETAPI
-url: /ja/net/conversion/tex-to-pot/
+url_ignore: /ja/net/conversion/tex-to-pot/
 family: total
 platformtag: net
 feature: conversion

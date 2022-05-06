@@ -1,7 +1,7 @@
 ---
 title: تحويل CGM إلى SWF عبر Java API
 description: Java API لتحويل CGM إلى SWF دون استخدام Microsoft Word
-url: /ar/java/conversion/cgm-to-swf/
+url_ignore: /ar/java/conversion/cgm-to-swf/
 family: total
 platformtag: net
 feature: conversion

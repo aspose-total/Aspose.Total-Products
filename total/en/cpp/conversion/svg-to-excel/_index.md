@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert SVG to EXCEL
 description: Convert SVG to EXCEL via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/svg-to-excel/
+url_ignore: /cpp/conversion/svg-to-excel/
 family: total
 platformtag: cpp
 feature: conversion

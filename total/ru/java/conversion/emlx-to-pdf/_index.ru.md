@@ -1,7 +1,7 @@
 ---
 title: Экспорт EMLX в PDF через Java
 description: Java API для преобразования EMLX в PDF без использования Microsoft Word или Outlook
-url: /ru/java/conversion/emlx-to-pdf/
+url_ignore: /ru/java/conversion/emlx-to-pdf/
 family: total
 platformtag: net
 feature: conversion

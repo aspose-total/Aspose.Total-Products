@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export TEX to PS
 description: Convert TEX to PS within C++ applications.
-url: /cpp/conversion/tex-to-ps/
+url_ignore: /cpp/conversion/tex-to-ps/
 family: total
 platformtag: cpp
 feature: conversion

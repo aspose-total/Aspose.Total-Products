@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई बीएमपी को ईमेल निर्यात करने के लिए
 description: .NET पर Microsoft Word या Outlook का उपयोग किए बिना OFT को GIF में बदलें
-url: /hi/net/conversion/oft-to-gif/
+url_ignore: /hi/net/conversion/oft-to-gif/
 family: total
 platformtag: net
 feature: conversion

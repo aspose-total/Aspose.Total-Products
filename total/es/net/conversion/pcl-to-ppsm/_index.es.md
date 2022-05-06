@@ -1,7 +1,7 @@
 ---
 title: Exportar PCL a PPSM a través de la API de C#
 description: .NET API para convertir PCL a PPSM sin usar Microsoft Word
-url: /es/net/conversion/pcl-to-ppsm/
+url_ignore: /es/net/conversion/pcl-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

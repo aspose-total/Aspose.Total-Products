@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMDをEXCELに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにMDファイルをEXCELに変換するC＃API
-url: /ja/net/conversion/md-to-excel/
+url_ignore: /ja/net/conversion/md-to-excel/
 family: total
 platformtag: net
 feature: conversion

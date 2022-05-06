@@ -1,7 +1,7 @@
 ---
 title: Преобразование MD в WMF через C# API
 description: Экспорт MD в WMF в ваших приложениях .NET без использования каких-либо сторонних приложений.
-url: /ru/net/conversion/md-to-wmf/
+url_ignore: /ru/net/conversion/md-to-wmf/
 family: total
 platformtag: net
 feature: conversion

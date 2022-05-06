@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert EPUB to SXC
 description: Convert EPUB to SXC via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/epub-to-sxc/
+url_ignore: /cpp/conversion/epub-to-sxc/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: .NET API do konwersji WORDML na XLS
 description: C# API do konwersji WORDML na XLS bez użycia Microsoft Excel lub Adobe Reader
-url: /pl/net/conversion/wordml-to-xls/
+url_ignore: /pl/net/conversion/wordml-to-xls/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ Możesz też pobrać instalator offline MSI lub biblioteki DLL w pliku ZIP ze st
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Dodaj niestandardowe właściwości w pliku XLS za pomocą C#" %}}
 Podczas konwertowania WORDML na XLS [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) umożliwia dodawanie niestandardowych właściwości w dokumentach XLS. Aby dodać niestandardową właściwość, możesz użyć metody [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) dla [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection). Metoda Add dodaje właściwość do pliku Excel i zwraca odwołanie do nowej właściwości dokumentu jako [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /documentproperty). 
 {{% blocks/products/pf/feature-page-code %}}

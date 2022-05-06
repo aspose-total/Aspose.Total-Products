@@ -1,7 +1,7 @@
 ---
 title: PCLをOTTにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してPCLをOTTに変換する
-url: /ja/java/conversion/pcl-to-ott/
+url_ignore: /ja/java/conversion/pcl-to-ott/
 family: total
 platformtag: net
 feature: conversion

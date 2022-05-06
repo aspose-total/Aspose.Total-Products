@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert MOBI to CSV
 description: Convert MOBI to CSV via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/mobi-to-csv/
+url_ignore: /java/conversion/mobi-to-csv/
 family: total
 platformtag: java
 feature: conversion

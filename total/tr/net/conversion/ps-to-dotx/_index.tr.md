@@ -1,7 +1,7 @@
 ---
 title: PS'yi DOTX'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan PS'yi DOTX'ye dönüştürün
-url: /tr/net/conversion/ps-to-dotx/
+url_ignore: /tr/net/conversion/ps-to-dotx/
 family: total
 platformtag: net
 feature: conversion

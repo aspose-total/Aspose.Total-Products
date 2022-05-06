@@ -1,7 +1,7 @@
 ---
 title: C# API untuk Mengekspor EMLX ke BMP
 description: Konversi EMLX ke BMP tanpa menggunakan Microsoft Word atau Outlook di .NET
-url: /id/net/conversion/emlx-to-bmp/
+url_ignore: /id/net/conversion/emlx-to-bmp/
 family: total
 platformtag: net
 feature: conversion

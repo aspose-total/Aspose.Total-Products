@@ -1,7 +1,7 @@
 ---
 title: SVG'yi WORDML'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan SVG'yi WORDML'ye dönüştürün
-url: /tr/net/conversion/svg-to-wordml/
+url_ignore: /tr/net/conversion/svg-to-wordml/
 family: total
 platformtag: net
 feature: conversion

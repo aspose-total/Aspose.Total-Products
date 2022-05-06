@@ -1,7 +1,7 @@
 ---
 title: Export MD to PPSX in Android 
 description: Android API to Convert MD to PPSX without using Microsoft Word
-url: /android-java/conversion/md-to-ppsx/
+url_ignore: /android-java/conversion/md-to-ppsx/
 family: total
 platformtag: android-java
 feature: conversion

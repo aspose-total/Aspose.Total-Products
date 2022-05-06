@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPPTXをXLSBに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPTXをXLSBに変換する
-url: /ja/net/conversion/pptx-to-xlsb/
+url_ignore: /ja/net/conversion/pptx-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar POWERPOINT via .NET
 description: JSON ontleden naar POWERPOINT in C# zonder Microsoft PowerPoint te gebruiken
-url: /nl/net/conversion/json-to-powerpoint/
+url_ignore: /nl/net/conversion/json-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

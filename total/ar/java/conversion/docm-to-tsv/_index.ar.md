@@ -1,7 +1,7 @@
 ---
 title: Java API لتحويل DOCM إلى TSV
 description: قم بتحويل DOCM إلى TSV عبر Java دون استخدام Microsoft Word أو Microsoft Excel
-url: /ar/java/conversion/docm-to-tsv/
+url_ignore: /ar/java/conversion/docm-to-tsv/
 family: total
 platformtag: net
 feature: conversion

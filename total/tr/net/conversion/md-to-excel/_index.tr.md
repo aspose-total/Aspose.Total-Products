@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla MD'yi EXCEL'ye dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan MD Dosyasını EXCEL'ye Dönüştürmek için C# API'si
-url: /tr/net/conversion/md-to-excel/
+url_ignore: /tr/net/conversion/md-to-excel/
 family: total
 platformtag: net
 feature: conversion

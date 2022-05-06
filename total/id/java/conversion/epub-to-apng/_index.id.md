@@ -1,7 +1,7 @@
 ---
 title: Konversi EPUB ke APNG melalui Java
 description: Ekspor file EPUB ke APNG di aplikasi Java Anda tanpa menggunakan aplikasi pihak ketiga
-url: /id/java/conversion/epub-to-apng/
+url_ignore: /id/java/conversion/epub-to-apng/
 family: total
 platformtag: net
 feature: conversion

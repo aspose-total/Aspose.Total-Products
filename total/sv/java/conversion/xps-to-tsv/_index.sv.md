@@ -1,7 +1,7 @@
 ---
 title: Java API för att rendera XPS till TSV
 description: Exportera XPS till TSV via Java API utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/java/conversion/xps-to-tsv/
+url_ignore: /sv/java/conversion/xps-to-tsv/
 family: total
 platformtag: net
 feature: conversion

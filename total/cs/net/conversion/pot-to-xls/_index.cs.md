@@ -1,7 +1,7 @@
 ---
 title: Převést POT na XLS přes C#
 description: Převeďte POT na XLS v C# bez použití Microsoft Excel nebo Powerpoint
-url: /cs/net/conversion/pot-to-xls/
+url_ignore: /cs/net/conversion/pot-to-xls/
 family: total
 platformtag: net
 feature: conversion

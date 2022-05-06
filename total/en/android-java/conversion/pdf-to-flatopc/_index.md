@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PDF to FLATOPC
 description: Transform PDF to FLATOPC via Android via Java API
-url: /android-java/conversion/pdf-to-flatopc/
+url_ignore: /android-java/conversion/pdf-to-flatopc/
 family: total
 platformtag: android-java
 feature: conversion

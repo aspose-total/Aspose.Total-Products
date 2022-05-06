@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie XPS über die C#-API nach POWERPOINT
 description: .NET-API zum Konvertieren von XPS in POWERPOINT ohne Verwendung von Microsoft Word
-url: /de/net/conversion/xps-to-powerpoint/
+url_ignore: /de/net/conversion/xps-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

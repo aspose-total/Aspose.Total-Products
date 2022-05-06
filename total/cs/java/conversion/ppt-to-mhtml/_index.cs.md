@@ -1,7 +1,7 @@
 ---
 title: Převeďte PPT do formátu MHTML přes Java
 description: Převeďte PPT do formátu MHTML přes Java bez použití Microsoft Excel nebo PowerPoint
-url: /cs/java/conversion/ppt-to-mhtml/
+url_ignore: /cs/java/conversion/ppt-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

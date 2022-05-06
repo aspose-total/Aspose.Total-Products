@@ -1,7 +1,7 @@
 ---
 title: Convert PPS to XLSM in Android via Java
 description: Convert PPS to XLSM in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/pps-to-xlsm/
+url_ignore: /android-java/conversion/pps-to-xlsm/
 family: total
 platformtag: android-java
 feature: conversion

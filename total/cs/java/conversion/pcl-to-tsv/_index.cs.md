@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení PCL do TSV
 description: Export PCL do TSV přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/pcl-to-tsv/
+url_ignore: /cs/java/conversion/pcl-to-tsv/
 family: total
 platformtag: net
 feature: conversion

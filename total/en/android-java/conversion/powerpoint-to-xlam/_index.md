@@ -1,7 +1,7 @@
 ---
 title: Convert POWERPOINT to XLAM in Android via Java
 description: Convert POWERPOINT to XLAM in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/powerpoint-to-xlam/
+url_ignore: /android-java/conversion/powerpoint-to-xlam/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API pro export PCL do DOT
 description: Převeďte PCL na DOT pomocí on premise Java API
-url: /cs/java/conversion/pcl-to-dot/
+url_ignore: /cs/java/conversion/pcl-to-dot/
 family: total
 platformtag: net
 feature: conversion

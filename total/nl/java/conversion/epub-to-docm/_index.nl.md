@@ -1,7 +1,7 @@
 ---
 title: Java API om EPUB naar DOCM te exporteren
 description: Converteer EPUB naar DOCM met behulp van on-premise Java API
-url: /nl/java/conversion/epub-to-docm/
+url_ignore: /nl/java/conversion/epub-to-docm/
 family: total
 platformtag: net
 feature: conversion

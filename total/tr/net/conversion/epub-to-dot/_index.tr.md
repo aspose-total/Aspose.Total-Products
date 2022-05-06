@@ -1,7 +1,7 @@
 ---
 title: EPUB'yi DOT'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan EPUB'yi DOT'ye dönüştürün
-url: /tr/net/conversion/epub-to-dot/
+url_ignore: /tr/net/conversion/epub-to-dot/
 family: total
 platformtag: net
 feature: conversion

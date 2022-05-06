@@ -1,6 +1,6 @@
 ---
 title: Преобразование DOC в PPS через C# .NET 
-url: /ru/net/conversion/doc-to-pps/ 
+url_ignore: /ru/net/conversion/doc-to-pps/ 
 description: Преобразование документов Word doc в файлы PowerPoint pps с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

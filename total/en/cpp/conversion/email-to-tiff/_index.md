@@ -1,7 +1,7 @@
 ---
 title: Export EMAIL to TIFF via C++
 description: C++ API to Convert EMAIL to TIFF without using Microsoft Word or Outlook
-url: /cpp/conversion/email-to-tiff/
+url_ignore: /cpp/conversion/email-to-tiff/
 family: total
 platformtag: cpp
 feature: conversion

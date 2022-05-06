@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをXLSBに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPDFファイルをXLSBに変換するC＃API
-url: /ja/net/conversion/pdf-to-xlsb/
+url_ignore: /ja/net/conversion/pdf-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

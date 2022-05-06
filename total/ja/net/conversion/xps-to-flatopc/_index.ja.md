@@ -1,7 +1,7 @@
 ---
 title: XPSをFLATOPCにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにXPSをFLATOPCに変換する
-url: /ja/net/conversion/xps-to-flatopc/
+url_ignore: /ja/net/conversion/xps-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

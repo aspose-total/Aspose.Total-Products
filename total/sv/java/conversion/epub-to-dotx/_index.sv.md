@@ -1,7 +1,7 @@
 ---
 title: Java API för att exportera EPUB till DOTX
 description: Konvertera EPUB till DOTX med hjälp av det lokala Java API
-url: /sv/java/conversion/epub-to-dotx/
+url_ignore: /sv/java/conversion/epub-to-dotx/
 family: total
 platformtag: net
 feature: conversion

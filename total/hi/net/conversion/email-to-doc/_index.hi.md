@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई बीएमपी को ईमेल निर्यात करने के लिए
 description: .NET पर Microsoft Word या Outlook का उपयोग किए बिना EMAIL को DOC में बदलें
-url: /hi/net/conversion/email-to-doc/
+url_ignore: /hi/net/conversion/email-to-doc/
 family: total
 platformtag: net
 feature: conversion

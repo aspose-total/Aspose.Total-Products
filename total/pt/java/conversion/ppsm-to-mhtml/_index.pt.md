@@ -1,7 +1,7 @@
 ---
 title: Converter PPSM para formato MHTML via Java
 description: Converta o formato PPSM para MHTML via Java sem usar o Microsoft Excel ou PowerPoint
-url: /pt/java/conversion/ppsm-to-mhtml/
+url_ignore: /pt/java/conversion/ppsm-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

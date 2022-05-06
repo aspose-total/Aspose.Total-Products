@@ -1,7 +1,7 @@
 ---
 title: Convert POWERPOINT to XLAM Format via Java
 description: Convert POWERPOINT to XLAM format via Java without using using Microsoft Excel or PowerPoint
-url: /java/conversion/powerpoint-to-xlam/
+url_ignore: /java/conversion/powerpoint-to-xlam/
 family: total
 platformtag: java
 feature: conversion

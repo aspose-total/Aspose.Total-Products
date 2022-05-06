@@ -1,7 +1,7 @@
 ---
 title: API Java để xuất PCL sang DOT
 description: Chuyển đổi PCL sang DOT bằng cách sử dụng API Java tiền đề
-url: /vi/java/conversion/pcl-to-dot/
+url_ignore: /vi/java/conversion/pcl-to-dot/
 family: total
 platformtag: net
 feature: conversion

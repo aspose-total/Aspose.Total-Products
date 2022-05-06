@@ -1,7 +1,7 @@
 ---
 title: PS'yi ODT'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak PS'yi ODT'ye dönüştürün
-url: /tr/java/conversion/ps-to-odt/
+url_ignore: /tr/java/conversion/ps-to-odt/
 family: total
 platformtag: net
 feature: conversion

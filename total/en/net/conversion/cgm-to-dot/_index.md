@@ -1,7 +1,7 @@
 ---
 title: C# API to Export CGM to DOT
 description: Convert CGM to DOT without using Microsoft Word
-url: /net/conversion/cgm-to-dot/
+url_ignore: /net/conversion/cgm-to-dot/
 family: total
 platformtag: net
 feature: conversion

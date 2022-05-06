@@ -1,7 +1,7 @@
 ---
 title: Converter o formato JSON para WORDML via .NET
 description: Analise JSON para WORDML em C# sem usar o Microsoft Word
-url: /pt/net/conversion/json-to-wordml/
+url_ignore: /pt/net/conversion/json-to-wordml/
 family: total
 platformtag: net
 feature: conversion

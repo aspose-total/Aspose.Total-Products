@@ -1,7 +1,7 @@
 ---
 title: PSをFLATOPCにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してPSをFLATOPCに変換する
-url: /ja/java/conversion/ps-to-flatopc/
+url_ignore: /ja/java/conversion/ps-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

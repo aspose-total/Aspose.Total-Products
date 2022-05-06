@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie POTM über C# in EXCEL
 description: Konvertieren Sie POTM in C# in EXCEL, ohne Microsoft Excel oder Powerpoint zu verwenden
-url: /de/net/conversion/potm-to-excel/
+url_ignore: /de/net/conversion/potm-to-excel/
 family: total
 platformtag: net
 feature: conversion

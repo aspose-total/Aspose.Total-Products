@@ -1,7 +1,7 @@
 ---
 title: Java ile ODT'yi POT'ye dönüştürün
 description: Microsoft Word veya PowerPoint kullanmadan ODT'yi POT'ye Dışa Aktarmak için Java API
-url: /tr/java/conversion/odt-to-pot/
+url_ignore: /tr/java/conversion/odt-to-pot/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: .NET-API zum Konvertieren von MOBI in XLSX
 description: C#-API zum Konvertieren von MOBI in XLSX ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/mobi-to-xlsx/
+url_ignore: /de/net/conversion/mobi-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

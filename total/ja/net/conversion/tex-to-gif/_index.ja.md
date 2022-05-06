@@ -1,7 +1,7 @@
 ---
 title: TEXをGIFにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにTEXをGIFに変換する
-url: /ja/net/conversion/tex-to-gif/
+url_ignore: /ja/net/conversion/tex-to-gif/
 family: total
 platformtag: net
 feature: conversion

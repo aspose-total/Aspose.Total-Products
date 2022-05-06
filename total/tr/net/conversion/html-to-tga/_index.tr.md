@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla HTML'yi TGA'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan HTML'yi .NET uygulamalarınızda TGA'ye aktarın
-url: /tr/net/conversion/html-to-tga/
+url_ignore: /tr/net/conversion/html-to-tga/
 family: total
 platformtag: net
 feature: conversion

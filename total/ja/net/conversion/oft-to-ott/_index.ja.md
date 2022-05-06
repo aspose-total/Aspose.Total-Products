@@ -1,7 +1,7 @@
 ---
 title: OFTをOTTにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにOFTをOTTに変換する
-url: /ja/net/conversion/oft-to-ott/
+url_ignore: /ja/net/conversion/oft-to-ott/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exportar MHTML a OTP a través de la API de C#
 description: .NET API para convertir MHTML a OTP sin usar Microsoft Word
-url: /es/net/conversion/mhtml-to-otp/
+url_ignore: /es/net/conversion/mhtml-to-otp/
 family: total
 platformtag: net
 feature: conversion

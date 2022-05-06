@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie XSLFO über die C#-API in XLT
 description: C#-API zum Konvertieren von XSLFO-Dateien in XLT ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/xslfo-to-xlt/
+url_ignore: /de/net/conversion/xslfo-to-xlt/
 family: total
 platformtag: net
 feature: conversion

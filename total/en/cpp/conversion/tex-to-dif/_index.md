@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert TEX to DIF
 description: Convert TEX to DIF via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/tex-to-dif/
+url_ignore: /cpp/conversion/tex-to-dif/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تحويل PPT إلى تنسيق XLSM عبر Java
 description: قم بتحويل PPT إلى تنسيق XLSM عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/ppt-to-xlsm/
+url_ignore: /ar/java/conversion/ppt-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

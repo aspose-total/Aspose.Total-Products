@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla MHTML'yi TXT'ye dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan MHTML Dosyasını TXT'ye Dönüştürmek için C# API'si
-url: /tr/net/conversion/mhtml-to-txt/
+url_ignore: /tr/net/conversion/mhtml-to-txt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar JPEG2000 via .NET
 description: JSON ontleden naar JPEG2000 in C# zonder afhankelijkheden van derden te gebruiken
-url: /nl/net/conversion/json-to-jpeg2000/
+url_ignore: /nl/net/conversion/json-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

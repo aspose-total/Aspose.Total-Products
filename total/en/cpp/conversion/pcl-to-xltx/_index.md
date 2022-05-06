@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PCL to XLTX
 description: Convert PCL to XLTX via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/pcl-to-xltx/
+url_ignore: /cpp/conversion/pcl-to-xltx/
 family: total
 platformtag: cpp
 feature: conversion

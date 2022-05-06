@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してTEXをTSVに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにTEXファイルをTSVに変換するC＃API
-url: /ja/net/conversion/tex-to-tsv/
+url_ignore: /ja/net/conversion/tex-to-tsv/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: SVG'yi RTF'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan SVG'yi RTF'ye dönüştürün
-url: /tr/net/conversion/svg-to-rtf/
+url_ignore: /tr/net/conversion/svg-to-rtf/
 family: total
 platformtag: net
 feature: conversion

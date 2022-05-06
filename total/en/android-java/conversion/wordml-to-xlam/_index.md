@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert WORDML to XLAM
 description: Convert WORDML to XLAM in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/wordml-to-xlam/
+url_ignore: /android-java/conversion/wordml-to-xlam/
 family: total
 platformtag: android-java
 feature: conversion

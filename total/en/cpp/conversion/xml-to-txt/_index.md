@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XML to TXT
 description: Convert XML to TXT via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xml-to-txt/
+url_ignore: /cpp/conversion/xml-to-txt/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convertir CGM en XLAM via l'API C#
 description: API C# pour convertir un fichier CGM en XLAM sans utiliser Microsoft Excel ou Adobe Reader
-url: /fr/net/conversion/cgm-to-xlam/
+url_ignore: /fr/net/conversion/cgm-to-xlam/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: XLAM ODS XLTM XLTX DIF XLSB XLT EXCEL SXC TXT TSV MD
 {{< blocks/products/pf/i18n/feature-page-header h1="API C# pour rendre CGM en XLAM" h2="Exporter le fichier CGM au format XLAM via C# sans utiliser Microsoft<sup>&reg;</sup> Excel ou Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), vous pouvez facilement convertir un fichier CGM en XLAM dans n'importe quelle application .NET, C#, ASP.NET et VB.NET. Tout d'abord, en utilisant [Aspose.PDF pour .NET](https://products.aspose.com/pdf/net/), vous pouvez exporter CGM vers XLSX. Après cela, en utilisant l'API de programmation de feuille de calcul [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), vous pouvez convertir XLSX en XLAM.
+En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez facilement convertir un fichier CGM en XLAM dans n'importe quelle application .NET, C#, ASP.NET et VB.NET. Tout d'abord, en utilisant [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), vous pouvez exporter CGM vers XLSX. Après cela, en utilisant l'API de programmation de feuille de calcul [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), vous pouvez convertir XLSX en XLAM.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PDF to ODS
 description: Convert PDF to ODS via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/pdf-to-ods/
+url_ignore: /cpp/conversion/pdf-to-ods/
 family: total
 platformtag: cpp
 feature: conversion

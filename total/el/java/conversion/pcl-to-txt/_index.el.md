@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση PCL σε TXT
 description: Εξαγωγή PCL σε TXT μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/pcl-to-txt/
+url_ignore: /el/java/conversion/pcl-to-txt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert XLTX to POWERPOINT using Java 
 description: Java API to Export XLTX to POWERPOINT with using Excel or Word 
-url: /java/conversion/xltx-to-powerpoint/
+url_ignore: /java/conversion/xltx-to-powerpoint/
 family: total
 platformtag: java
 feature: conversion

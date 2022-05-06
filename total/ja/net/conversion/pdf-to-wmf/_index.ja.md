@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをWMFに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでPDFをWMFにエクスポートします
-url: /ja/net/conversion/pdf-to-wmf/
+url_ignore: /ja/net/conversion/pdf-to-wmf/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API pro převod WORD do XLAM
 description: Převeďte WORD na XLAM přes Java bez použití Microsoft Word nebo Microsoft Excel
-url: /cs/java/conversion/word-to-xlam/
+url_ignore: /cs/java/conversion/word-to-xlam/
 family: total
 platformtag: net
 feature: conversion

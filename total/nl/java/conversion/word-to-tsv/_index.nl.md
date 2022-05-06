@@ -1,7 +1,7 @@
 ---
 title: Java API om WORD naar TSV te converteren
 description: Converteer WORD naar TSV via Java zonder Microsoft Word of Microsoft Excel te gebruiken
-url: /nl/java/conversion/word-to-tsv/
+url_ignore: /nl/java/conversion/word-to-tsv/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert OTT to EXCEL in C++
 description: C++ API to Convert OTT to EXCEL without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/ott-to-excel/
+url_ignore: /cpp/conversion/ott-to-excel/
 family: total
 platformtag: cpp
 feature: conversion

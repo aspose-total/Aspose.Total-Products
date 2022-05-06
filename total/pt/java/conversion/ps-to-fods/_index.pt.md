@@ -1,7 +1,7 @@
 ---
 title: API Java para renderizar PS para FODS
 description: Exporte PS para FODS via API Java sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/java/conversion/ps-to-fods/
+url_ignore: /pt/java/conversion/ps-to-fods/
 family: total
 platformtag: net
 feature: conversion

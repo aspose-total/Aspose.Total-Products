@@ -1,7 +1,7 @@
 ---
 title: Convert EPUB to POWERPOINT via Java API
 description: Java API to Convert EPUB to POWERPOINT without using Microsoft Word
-url: /java/conversion/epub-to-powerpoint/
+url_ignore: /java/conversion/epub-to-powerpoint/
 family: total
 platformtag: java
 feature: conversion

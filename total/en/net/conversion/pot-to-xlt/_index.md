@@ -1,7 +1,7 @@
 ---
 title: Convert POT to XLT via C# 
 description: Convert POT to XLT in C# without using Microsoft Excel or Powerpoint
-url: /net/conversion/pot-to-xlt/
+url_ignore: /net/conversion/pot-to-xlt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга XPS в TXT
 description: Экспорт XPS в TXT через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/xps-to-txt/
+url_ignore: /ru/java/conversion/xps-to-txt/
 family: total
 platformtag: net
 feature: conversion

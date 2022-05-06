@@ -1,7 +1,7 @@
 ---
 title: Convert PCL to PPTM via Java API
 description: Java API to Convert PCL to PPTM without using Microsoft Word
-url: /java/conversion/pcl-to-pptm/
+url_ignore: /java/conversion/pcl-to-pptm/
 family: total
 platformtag: java
 feature: conversion

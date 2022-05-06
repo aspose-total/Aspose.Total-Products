@@ -1,7 +1,7 @@
 ---
 title: PPSM'yi .NET aracılığıyla JSON formatına dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan PPSM'yi C# ile JSON'a dönüştürün
-url: /tr/net/conversion/ppsm-to-json/
+url_ignore: /tr/net/conversion/ppsm-to-json/
 family: total
 platformtag: net
 feature: conversion

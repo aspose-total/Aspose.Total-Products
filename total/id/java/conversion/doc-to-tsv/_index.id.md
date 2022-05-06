@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Mengonversi DOC ke TSV
 description: Konversi DOC ke TSV melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel
-url: /id/java/conversion/doc-to-tsv/
+url_ignore: /id/java/conversion/doc-to-tsv/
 family: total
 platformtag: net
 feature: conversion

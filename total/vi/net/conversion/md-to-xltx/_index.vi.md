@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi MD sang XLTX thông qua API C#
 description: C# API để chuyển đổi tệp MD sang XLTX mà không cần sử dụng Microsoft Excel hoặc Adobe Reader
-url: /vi/net/conversion/md-to-xltx/
+url_ignore: /vi/net/conversion/md-to-xltx/
 family: total
 platformtag: net
 feature: conversion

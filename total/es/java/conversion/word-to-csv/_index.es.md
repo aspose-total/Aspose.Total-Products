@@ -1,7 +1,7 @@
 ---
 title: API de Java para convertir WORD a CSV
 description: Convierta WORD a CSV a través de Java sin usar Microsoft Word o Microsoft Excel
-url: /es/java/conversion/word-to-csv/
+url_ignore: /es/java/conversion/word-to-csv/
 family: total
 platformtag: net
 feature: conversion

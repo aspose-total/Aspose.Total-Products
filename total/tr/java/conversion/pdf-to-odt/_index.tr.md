@@ -1,7 +1,7 @@
 ---
 title: PDF'yi ODT'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak PDF'yi ODT'ye dönüştürün
-url: /tr/java/conversion/pdf-to-odt/
+url_ignore: /tr/java/conversion/pdf-to-odt/
 family: total
 platformtag: net
 feature: conversion

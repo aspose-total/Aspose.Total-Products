@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してXMLをPPTMに変換する
 description: MicrosoftWordを使用せずにXMLをPPTMに変換するJavaAPI
-url: /ja/java/conversion/xml-to-pptm/
+url_ignore: /ja/java/conversion/xml-to-pptm/
 family: total
 platformtag: net
 feature: conversion

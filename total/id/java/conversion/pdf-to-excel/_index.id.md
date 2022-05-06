@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender PDF ke EXCEL
 description: Ekspor PDF ke EXCEL melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/pdf-to-excel/
+url_ignore: /id/java/conversion/pdf-to-excel/
 family: total
 platformtag: net
 feature: conversion

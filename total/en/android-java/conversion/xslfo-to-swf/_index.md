@@ -1,7 +1,7 @@
 ---
 title: Export XSLFO to SWF in Android 
 description: Android API to Convert XSLFO to SWF without using Microsoft Word
-url: /android-java/conversion/xslfo-to-swf/
+url_ignore: /android-java/conversion/xslfo-to-swf/
 family: total
 platformtag: android-java
 feature: conversion

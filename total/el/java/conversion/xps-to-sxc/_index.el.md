@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση XPS σε SXC
 description: Εξαγωγή XPS σε SXC μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/xps-to-sxc/
+url_ignore: /el/java/conversion/xps-to-sxc/
 family: total
 platformtag: net
 feature: conversion

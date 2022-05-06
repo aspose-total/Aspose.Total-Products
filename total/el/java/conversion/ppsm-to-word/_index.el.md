@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή PPSM σε WORD μέσω Java
 description: Java API για εξαγωγή PPSM σε WORD χωρίς χρήση Microsoft Word ή PowerPoint
-url: /el/java/conversion/ppsm-to-word/
+url_ignore: /el/java/conversion/ppsm-to-word/
 family: total
 platformtag: net
 feature: conversion

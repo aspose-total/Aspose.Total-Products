@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla CGM'yi SVGZ'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan CGM'yi .NET uygulamalarınızda SVGZ'ye aktarın
-url: /tr/net/conversion/cgm-to-svgz/
+url_ignore: /tr/net/conversion/cgm-to-svgz/
 family: total
 platformtag: net
 feature: conversion

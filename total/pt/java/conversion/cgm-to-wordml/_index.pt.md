@@ -1,7 +1,7 @@
 ---
 title: API Java para exportar CGM para WORDML
 description: Converter CGM para WORDML usando a API Java local
-url: /pt/java/conversion/cgm-to-wordml/
+url_ignore: /pt/java/conversion/cgm-to-wordml/
 family: total
 platformtag: net
 feature: conversion

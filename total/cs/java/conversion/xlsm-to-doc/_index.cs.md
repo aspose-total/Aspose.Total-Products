@@ -1,7 +1,7 @@
 ---
 title: Převeďte XLSM na DOC pomocí Java
 description: Java API pro export XLSM do DOC pomocí Excelu nebo Wordu
-url: /cs/java/conversion/xlsm-to-doc/
+url_ignore: /cs/java/conversion/xlsm-to-doc/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをDICOMに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでPDFをDICOMにエクスポートします
-url: /ja/net/conversion/pdf-to-dicom/
+url_ignore: /ja/net/conversion/pdf-to-dicom/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: .NET API для преобразования DOCM в XLSM
 description: C# API для преобразования DOCM в XLSM без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/docm-to-xlsm/
+url_ignore: /ru/net/conversion/docm-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

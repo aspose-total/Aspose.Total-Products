@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie ODT über Java in PPTX
 description: Java-API zum Exportieren von ODT in PPTX, ohne Microsoft Word oder PowerPoint zu verwenden
-url: /de/java/conversion/odt-to-pptx/
+url_ignore: /de/java/conversion/odt-to-pptx/
 family: total
 platformtag: net
 feature: conversion

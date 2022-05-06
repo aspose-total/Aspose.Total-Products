@@ -1,7 +1,7 @@
 ---
 title: Javaを介してJSON形式をPOTに変換する
 description: Microsoft PowerPointを使用せずに、JavaでJSONをPOTに解析します
-url: /ja/java/conversion/json-to-pot/
+url_ignore: /ja/java/conversion/json-to-pot/
 family: total
 platformtag: net
 feature: conversion

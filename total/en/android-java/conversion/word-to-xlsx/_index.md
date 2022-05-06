@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert WORD to XLSX
 description: Convert WORD to XLSX in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/word-to-xlsx/
+url_ignore: /android-java/conversion/word-to-xlsx/
 family: total
 platformtag: android-java
 feature: conversion

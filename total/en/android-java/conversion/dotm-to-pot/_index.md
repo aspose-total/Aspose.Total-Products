@@ -1,7 +1,7 @@
 ---
 title: Convert DOTM to POT in Android via Java
 description: DOTM to POT conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/dotm-to-pot/
+url_ignore: /android-java/conversion/dotm-to-pot/
 family: total
 platformtag: android-java
 feature: conversion

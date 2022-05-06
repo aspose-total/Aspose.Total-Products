@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してHTMLをWMFに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでHTMLをWMFにエクスポートします
-url: /ja/net/conversion/html-to-wmf/
+url_ignore: /ja/net/conversion/html-to-wmf/
 family: total
 platformtag: net
 feature: conversion

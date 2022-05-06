@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení PS do EXCEL
 description: Export PS do EXCEL přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/ps-to-excel/
+url_ignore: /cs/java/conversion/ps-to-excel/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: .NETを介してJSON形式をPSDに変換する
 description: サードパーティの依存関係を使用せずに、C＃でJSONをPSDに解析します
-url: /ja/net/conversion/json-to-psd/
+url_ignore: /ja/net/conversion/json-to-psd/
 family: total
 platformtag: net
 feature: conversion

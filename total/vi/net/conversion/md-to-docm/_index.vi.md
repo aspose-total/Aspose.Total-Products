@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất MD sang DOCM
 description: Chuyển đổi MD sang DOCM mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/md-to-docm/
+url_ignore: /vi/net/conversion/md-to-docm/
 family: total
 platformtag: net
 feature: conversion

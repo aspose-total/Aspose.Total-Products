@@ -1,7 +1,7 @@
 ---
 title: WORDML'yi CSV'ye Dönüştürmek için Java API
 description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla WORDML'yi CSV'ye dönüştürün
-url: /tr/java/conversion/wordml-to-csv/
+url_ignore: /tr/java/conversion/wordml-to-csv/
 family: total
 platformtag: net
 feature: conversion

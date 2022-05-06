@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई बीएमपी को ईमेल निर्यात करने के लिए
 description: .NET पर Microsoft Word या Outlook का उपयोग किए बिना EML को DOTX में बदलें
-url: /hi/net/conversion/eml-to-dotx/
+url_ignore: /hi/net/conversion/eml-to-dotx/
 family: total
 platformtag: net
 feature: conversion

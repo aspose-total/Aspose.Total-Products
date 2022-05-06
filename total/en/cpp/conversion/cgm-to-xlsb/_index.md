@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert CGM to XLSB
 description: Convert CGM to XLSB via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/cgm-to-xlsb/
+url_ignore: /cpp/conversion/cgm-to-xlsb/
 family: total
 platformtag: cpp
 feature: conversion

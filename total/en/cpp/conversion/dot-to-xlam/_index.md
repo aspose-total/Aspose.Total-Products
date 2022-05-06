@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to XLAM in C++
 description: C++ API to Convert DOT to XLAM without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/dot-to-xlam/
+url_ignore: /cpp/conversion/dot-to-xlam/
 family: total
 platformtag: cpp
 feature: conversion

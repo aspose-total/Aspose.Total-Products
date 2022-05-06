@@ -1,7 +1,7 @@
 ---
 title: Convierta FODS a DOCX usando Java
 description: API de Java para exportar FODS a DOCX con Excel o Word
-url: /es/java/conversion/fods-to-docx/
+url_ignore: /es/java/conversion/fods-to-docx/
 family: total
 platformtag: net
 feature: conversion
@@ -12,14 +12,14 @@ otherformats: POWERPOINT WORD DOCX PPTX
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="API de Java para exportar FODS a DOCX" h2="API de Java local para exportar FODS a DOCX sin depender de Microsoft Excel&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Renderizar FODS a DOCX es un proceso de dos pasos. Primero usará [Aspose.Cells for Java](https://products.aspose.com/cells/java) API para convertir el docxumento FODS dado a PDF, y luego usará [Aspose.Pdf for Java](https ://products.aspose.com/pdf/java), puede convertir fácilmente su docxumento PDF a DOCX. Ambas API pertenecen a la colección de bibliotecas de automatización de formato de archivo [Aspose.Total for Java](https://products.aspose.com/total/java/).
+Renderizar FODS a DOCX es un proceso de dos pasos. Primero usará [Aspose.Cells for Java](https://products.aspose.com/cells/java) API para convertir el Documento FODS dado a PDF, y luego usará [Aspose.Pdf for Java](https ://products.aspose.com/pdf/java), puede convertir fácilmente su Documento PDF a DOCX. Ambas API pertenecen a la colección de bibliotecas de automatización de formato de archivo [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir FODS a DOCX a través de la API de Java" %}}
 1. Abra el archivo FODS usando la clase [Libro de trabajo](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
 2. Convierta FODS a PDF y configure SaveFormat en AUTO
-3. Cargue el archivo PDF convertido usando la clase [Docxumento](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Docxument)
-4. Guarde el docxumento en formato DOCX usando [guardar](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Docxument#save-java.lang.String-com.aspose.pdf.SaveOptions-) método y establecer Docx como SaveFormat
+3. Cargue el archivo PDF convertido usando la clase [Documento](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)
+4. Guarde el Documento en formato DOCX usando [guardar](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) método y establecer Docx como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
 Debe usar Aspose.Total para Java directamente desde un proyecto basado en [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e incluya bibliotecas en su pom.xml.
@@ -32,10 +32,10 @@ Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.
 Workbook book = new Workbook("input.fods");
 // save FODS as PDF
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Docxument class
-Docxument docxument = new Docxument("pdfOutput.pdf");
-// save docxument in DOCXX format
-docxument.save("output.docxx", com.aspose.pdf.SaveFormat.DocxX);  
+// load the PDF file using Document class
+Document Document = new Document("pdfOutput.pdf");
+// save Document in DOCXX format
+Document.save("output.docxx", com.aspose.pdf.SaveFormat.DocxX);  
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}

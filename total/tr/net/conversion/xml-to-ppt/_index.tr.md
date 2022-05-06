@@ -1,7 +1,7 @@
 ---
 title: XML'yi C# API aracılığıyla PPT'ye aktarın
 description: Microsoft Word kullanmadan XML'yi PPT'ye dönüştürmek için .NET API
-url: /tr/net/conversion/xml-to-ppt/
+url_ignore: /tr/net/conversion/xml-to-ppt/
 family: total
 platformtag: net
 feature: conversion

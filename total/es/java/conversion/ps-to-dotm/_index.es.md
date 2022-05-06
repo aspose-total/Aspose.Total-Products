@@ -1,7 +1,7 @@
 ---
 title: API de Java para exportar PS a DOTM
 description: Convierta PS a DOTM usando la API de Java en las instalaciones
-url: /es/java/conversion/ps-to-dotm/
+url_ignore: /es/java/conversion/ps-to-dotm/
 family: total
 platformtag: net
 feature: conversion

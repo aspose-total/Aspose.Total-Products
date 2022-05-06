@@ -1,7 +1,7 @@
 ---
 title: Android API to Render MD to DOTX
 description: Transform MD to DOTX via Android via Java API
-url: /android-java/conversion/md-to-dotx/
+url_ignore: /android-java/conversion/md-to-dotx/
 family: total
 platformtag: android-java
 feature: conversion

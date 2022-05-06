@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга EPUB в MD
 description: Экспорт EPUB в MD через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/epub-to-md/
+url_ignore: /ru/java/conversion/epub-to-md/
 family: total
 platformtag: net
 feature: conversion

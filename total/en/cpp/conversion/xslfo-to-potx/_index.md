@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XSLFO to POTX  
 description: Convert XSLFO to POTX via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xslfo-to-potx/
+url_ignore: /cpp/conversion/xslfo-to-potx/
 family: total
 platformtag: cpp
 feature: conversion

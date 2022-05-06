@@ -1,7 +1,7 @@
 ---
 title: .NET-API zum Konvertieren von WORDML in XLSM
 description: C#-API zum Konvertieren von WORDML in XLSM ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/wordml-to-xlsm/
+url_ignore: /de/net/conversion/wordml-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

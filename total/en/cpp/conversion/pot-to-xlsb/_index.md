@@ -1,7 +1,7 @@
 ---
 title: Convert POT to XLSB via C++ 
 description: Export POT to XLSB in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pot-to-xlsb/
+url_ignore: /cpp/conversion/pot-to-xlsb/
 family: total
 platformtag: cpp
 feature: conversion

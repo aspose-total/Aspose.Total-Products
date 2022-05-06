@@ -1,7 +1,7 @@
 ---
 title: Convertir EPUB en DXF via Java
 description: Exportez le fichier EPUB vers DXF dans vos applications Java sans utiliser d'application tierce
-url: /fr/java/conversion/epub-to-dxf/
+url_ignore: /fr/java/conversion/epub-to-dxf/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: แปลง TSV เป็น POWERPOINT โดยใช้ Java
 description: Java API เพื่อส่งออก TSV เป็น POWERPOINT โดยใช้ Excel หรือ Word
-url: /th/java/conversion/tsv-to-powerpoint/
+url_ignore: /th/java/conversion/tsv-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

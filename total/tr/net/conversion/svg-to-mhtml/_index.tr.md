@@ -1,7 +1,7 @@
 ---
 title: SVG'yi MHTML'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan SVG'yi MHTML'ye dönüştürün
-url: /tr/net/conversion/svg-to-mhtml/
+url_ignore: /tr/net/conversion/svg-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

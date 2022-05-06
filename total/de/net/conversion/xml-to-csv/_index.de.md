@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie XML über die C#-API in CSV
 description: C#-API zum Konvertieren von XML-Dateien in CSV ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/xml-to-csv/
+url_ignore: /de/net/conversion/xml-to-csv/
 family: total
 platformtag: net
 feature: conversion

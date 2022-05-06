@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to PPT via C++
 description: Export DOT to PPT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/dot-to-ppt/
+url_ignore: /cpp/conversion/dot-to-ppt/
 family: total
 platformtag: cpp
 feature: conversion

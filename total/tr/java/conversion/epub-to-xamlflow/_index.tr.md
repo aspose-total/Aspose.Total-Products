@@ -1,7 +1,7 @@
 ---
 title: EPUB'yi XAMLFLOW'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak EPUB'yi XAMLFLOW'ye dönüştürün
-url: /tr/java/conversion/epub-to-xamlflow/
+url_ignore: /tr/java/conversion/epub-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

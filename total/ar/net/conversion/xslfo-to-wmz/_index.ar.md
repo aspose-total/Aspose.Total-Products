@@ -1,7 +1,7 @@
 ---
 title: تحويل XSLFO إلى WMZ عبر C# API
 description: قم بتصدير XSLFO إلى WMZ في تطبيقات .NET دون استخدام أي تطبيق تابع لجهة خارجية
-url: /ar/net/conversion/xslfo-to-wmz/
+url_ignore: /ar/net/conversion/xslfo-to-wmz/
 family: total
 platformtag: net
 feature: conversion

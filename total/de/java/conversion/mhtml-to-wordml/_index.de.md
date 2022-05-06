@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Exportieren von MHTML nach WORDML
 description: Konvertieren Sie MHTML mithilfe der lokalen Java-API in WORDML
-url: /de/java/conversion/mhtml-to-wordml/
+url_ignore: /de/java/conversion/mhtml-to-wordml/
 family: total
 platformtag: net
 feature: conversion

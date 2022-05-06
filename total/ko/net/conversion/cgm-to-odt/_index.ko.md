@@ -1,7 +1,7 @@
 ---
 title: CGM을 ODT으로 내보내기 위한 C# API
 description: Microsoft Word를 사용하지 않고 CGM을 ODT으로 변환
-url: /ko/net/conversion/cgm-to-odt/
+url_ignore: /ko/net/conversion/cgm-to-odt/
 family: total
 platformtag: net
 feature: conversion

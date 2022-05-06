@@ -1,7 +1,7 @@
 ---
 title: Javaを介してPPSMをXLT形式に変換する
 description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPPSMをXLT形式に変換する
-url: /ja/java/conversion/ppsm-to-xlt/
+url_ignore: /ja/java/conversion/ppsm-to-xlt/
 family: total
 platformtag: net
 feature: conversion
@@ -19,7 +19,7 @@ otherformats: XLS XLAM EXCEL ODS TSV DIF XLT XLTX XLSB FODS XLSX MHTML XLTM XLSM
 1. [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)クラスを使用してPPSMファイルを開きます
 2. [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slidesを使用してPPSMをHTMLに変換します。 ISaveOptions-)メソッド
 3. [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)クラスを使用してHTMLドキュメントをロードします
-4. [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells)を使用して、ドキュメントをXLT形式で保存します。 SaveOptions))メソッド
+4. [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells))を使用して、ドキュメントをXLT形式で保存します。 SaveOptions))メソッド
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 PPSMをXLTに変換するには、[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/)から直接Aspose.TotalforJavaを簡単に使用できます。 aspose / aspose-total)ベースのプロジェクトであり、pom.xmlにライブラリを含めます。

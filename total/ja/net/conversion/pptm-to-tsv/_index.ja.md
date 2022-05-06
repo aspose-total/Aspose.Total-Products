@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPPTMをTSVに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPTMをTSVに変換する
-url: /ja/net/conversion/pptm-to-tsv/
+url_ignore: /ja/net/conversion/pptm-to-tsv/
 family: total
 platformtag: net
 feature: conversion

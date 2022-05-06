@@ -1,7 +1,7 @@
 ---
 title: Java를 통해 DOCX를 PPT로 변환
 description: Microsoft Word 또는 PowerPoint를 사용하지 않고 DOCX를 PPT로 내보내는 Java API
-url: /ko/java/conversion/docx-to-ppt/
+url_ignore: /ko/java/conversion/docx-to-ppt/
 family: total
 platformtag: net
 feature: conversion

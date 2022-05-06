@@ -1,7 +1,7 @@
 ---
 title: تحويل POWERPOINT إلى تنسيق XLSM عبر Java
 description: قم بتحويل POWERPOINT إلى تنسيق XLSM عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/powerpoint-to-xlsm/
+url_ignore: /ar/java/conversion/powerpoint-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

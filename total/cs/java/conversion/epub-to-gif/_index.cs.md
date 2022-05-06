@@ -1,7 +1,7 @@
 ---
 title: Java API pro export EPUB do GIF
 description: Převeďte EPUB na GIF pomocí on premise Java API
-url: /cs/java/conversion/epub-to-gif/
+url_ignore: /cs/java/conversion/epub-to-gif/
 family: total
 platformtag: net
 feature: conversion

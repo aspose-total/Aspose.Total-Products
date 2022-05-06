@@ -1,7 +1,7 @@
 ---
 title: Java API för att rendera MD till ODS
 description: Exportera MD till ODS via Java API utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/java/conversion/md-to-ods/
+url_ignore: /sv/java/conversion/md-to-ods/
 family: total
 platformtag: net
 feature: conversion

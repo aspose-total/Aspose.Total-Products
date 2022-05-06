@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie POTX über C# in DIF
 description: Konvertieren Sie POTX in C# in DIF, ohne Microsoft Excel oder Powerpoint zu verwenden
-url: /de/net/conversion/potx-to-dif/
+url_ignore: /de/net/conversion/potx-to-dif/
 family: total
 platformtag: net
 feature: conversion

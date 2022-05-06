@@ -1,7 +1,7 @@
 ---
 title: TEX'yi C# API aracılığıyla ODP'ye aktarın
 description: Microsoft Word kullanmadan TEX'yi ODP'ye dönüştürmek için .NET API
-url: /tr/net/conversion/tex-to-odp/
+url_ignore: /tr/net/conversion/tex-to-odp/
 family: total
 platformtag: net
 feature: conversion

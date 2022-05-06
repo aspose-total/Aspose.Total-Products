@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert RTF to XLSB
 description: Convert RTF to XLSB in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/rtf-to-xlsb/
+url_ignore: /android-java/conversion/rtf-to-xlsb/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API pro export PCL do WORDML
 description: Převeďte PCL na WORDML bez použití aplikace Microsoft Word
-url: /cs/net/conversion/pcl-to-wordml/
+url_ignore: /cs/net/conversion/pcl-to-wordml/
 family: total
 platformtag: net
 feature: conversion

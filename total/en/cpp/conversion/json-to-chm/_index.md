@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to CHM via C++ 
 description: C++ API t0 Parse JSON to CHM without using Microsoft Word
-url: /cpp/conversion/json-to-chm/
+url_ignore: /cpp/conversion/json-to-chm/
 family: total
 platformtag: cpp
 feature: conversion

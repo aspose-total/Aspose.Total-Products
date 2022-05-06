@@ -1,7 +1,7 @@
 ---
 title: Converti PDF in PPTM tramite API Java
 description: API Java per convertire PDF in PPTM senza utilizzare Microsoft Word
-url: /it/java/conversion/pdf-to-pptm/
+url_ignore: /it/java/conversion/pdf-to-pptm/
 family: total
 platformtag: net
 feature: conversion

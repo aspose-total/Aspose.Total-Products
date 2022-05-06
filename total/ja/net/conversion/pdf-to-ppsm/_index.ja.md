@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをPPSMにエクスポートする
 description: MicrosoftWordを使用せずにPDFをPPSMに変換する.NETAPI
-url: /ja/net/conversion/pdf-to-ppsm/
+url_ignore: /ja/net/conversion/pdf-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

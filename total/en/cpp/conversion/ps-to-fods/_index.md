@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PS to FODS
 description: Convert PS to FODS via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/ps-to-fods/
+url_ignore: /cpp/conversion/ps-to-fods/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Převeďte PPSX do formátu XLT přes Java
 description: Převeďte PPSX do formátu XLT přes Java bez použití Microsoft Excel nebo PowerPoint
-url: /cs/java/conversion/ppsx-to-xlt/
+url_ignore: /cs/java/conversion/ppsx-to-xlt/
 family: total
 platformtag: net
 feature: conversion

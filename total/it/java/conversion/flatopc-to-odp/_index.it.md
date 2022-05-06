@@ -1,7 +1,7 @@
 ---
 title: Converti FLATOPC in ODP tramite Java
 description: API Java per esportare FLATOPC in ODP senza utilizzare Microsoft Word o PowerPoint
-url: /it/java/conversion/flatopc-to-odp/
+url_ignore: /it/java/conversion/flatopc-to-odp/
 family: total
 platformtag: net
 feature: conversion

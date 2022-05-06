@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất PS sang RTF
 description: Chuyển đổi PS sang RTF mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/ps-to-rtf/
+url_ignore: /vi/net/conversion/ps-to-rtf/
 family: total
 platformtag: net
 feature: conversion

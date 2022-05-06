@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से WORDML को POTX में बदलें
 description: जावा एपीआई माइक्रोसॉफ्ट वर्ड या पावरपॉइंट का उपयोग किए बिना डीओसी को ओडीपी में निर्यात करने के लिए
-url: /hi/java/conversion/wordml-to-potx/
+url_ignore: /hi/java/conversion/wordml-to-potx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie XSLFO über die Java-API in PPSX
 description: Java-API zum Konvertieren von XSLFO in PPSX ohne Verwendung von Microsoft Word
-url: /de/java/conversion/xslfo-to-ppsx/
+url_ignore: /de/java/conversion/xslfo-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

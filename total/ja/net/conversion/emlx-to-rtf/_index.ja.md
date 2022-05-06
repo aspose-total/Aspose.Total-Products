@@ -1,7 +1,7 @@
 ---
 title: EMLXをRTFにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMLXをRTFに変換する
-url: /ja/net/conversion/emlx-to-rtf/
+url_ignore: /ja/net/conversion/emlx-to-rtf/
 family: total
 platformtag: net
 feature: conversion

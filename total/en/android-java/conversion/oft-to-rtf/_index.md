@@ -1,7 +1,7 @@
 ---
 title: Render OFT to RTF in Andorid App
 description: Export OFT to RTF without using Microsoft Word or Outlook in you Andorid applications 
-url: /android-java/conversion/oft-to-rtf/
+url_ignore: /android-java/conversion/oft-to-rtf/
 family: total
 platformtag: android-java
 feature: conversion

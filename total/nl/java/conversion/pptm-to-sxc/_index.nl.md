@@ -1,7 +1,7 @@
 ---
 title: Converteer PPTM naar SXC-formaat via Java
 description: Converteer PPTM naar SXC-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken
-url: /nl/java/conversion/pptm-to-sxc/
+url_ignore: /nl/java/conversion/pptm-to-sxc/
 family: total
 platformtag: net
 feature: conversion

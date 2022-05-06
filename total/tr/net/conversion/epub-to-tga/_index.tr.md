@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla EPUB'yi TGA'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan EPUB'yi .NET uygulamalarınızda TGA'ye aktarın
-url: /tr/net/conversion/epub-to-tga/
+url_ignore: /tr/net/conversion/epub-to-tga/
 family: total
 platformtag: net
 feature: conversion

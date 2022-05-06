@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก PS ไปยัง DOTM
 description: แปลง PS เป็น DOTM โดยไม่ต้องใช้ Microsoft Word
-url: /th/net/conversion/ps-to-dotm/
+url_ignore: /th/net/conversion/ps-to-dotm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convierta XLSM a PPTX usando Java
 description: API de Java para exportar XLSM a PPTX con Excel o Word
-url: /es/java/conversion/xlsm-to-pptx/
+url_ignore: /es/java/conversion/xlsm-to-pptx/
 family: total
 platformtag: net
 feature: conversion

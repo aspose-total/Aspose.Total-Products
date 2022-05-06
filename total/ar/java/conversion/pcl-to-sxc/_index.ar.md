@@ -1,7 +1,7 @@
 ---
 title: Java API لتقديم PCL إلى SXC
 description: قم بتصدير PCL إلى SXC عبر Java API دون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/java/conversion/pcl-to-sxc/
+url_ignore: /ar/java/conversion/pcl-to-sxc/
 family: total
 platformtag: net
 feature: conversion

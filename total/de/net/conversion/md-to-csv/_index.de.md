@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie MD über die C#-API in CSV
 description: C#-API zum Konvertieren von MD-Dateien in CSV ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/md-to-csv/
+url_ignore: /de/net/conversion/md-to-csv/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPPTMをXLTXに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPTMをXLTXに変換する
-url: /ja/net/conversion/pptm-to-xltx/
+url_ignore: /ja/net/conversion/pptm-to-xltx/
 family: total
 platformtag: net
 feature: conversion

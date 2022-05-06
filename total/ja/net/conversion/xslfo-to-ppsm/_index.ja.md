@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXSLFOをPPSMにエクスポートする
 description: MicrosoftWordを使用せずにXSLFOをPPSMに変換する.NETAPI
-url: /ja/net/conversion/xslfo-to-ppsm/
+url_ignore: /ja/net/conversion/xslfo-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

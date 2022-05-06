@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση EPUB σε XLTM
 description: Εξαγωγή EPUB σε XLTM μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/epub-to-xltm/
+url_ignore: /el/java/conversion/epub-to-xltm/
 family: total
 platformtag: net
 feature: conversion

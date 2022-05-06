@@ -1,7 +1,7 @@
 ---
 title: EMAILをGIFにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMAILをGIFに変換する
-url: /ja/net/conversion/email-to-gif/
+url_ignore: /ja/net/conversion/email-to-gif/
 family: total
 platformtag: net
 feature: conversion

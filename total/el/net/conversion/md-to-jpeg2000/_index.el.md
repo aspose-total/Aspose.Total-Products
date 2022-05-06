@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή MD σε JPEG2000 μέσω C# API
 description: Εξάγετε το MD σε JPEG2000 στις εφαρμογές σας .NET χωρίς να χρησιμοποιήσετε καμία εφαρμογή τρίτου μέρους
-url: /el/net/conversion/md-to-jpeg2000/
+url_ignore: /el/net/conversion/md-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

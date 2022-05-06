@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export MD to XAMLFLOW
 description: Convert MD to XAMLFLOW within C++ applications.
-url: /cpp/conversion/md-to-xamlflow/
+url_ignore: /cpp/conversion/md-to-xamlflow/
 family: total
 platformtag: cpp
 feature: conversion

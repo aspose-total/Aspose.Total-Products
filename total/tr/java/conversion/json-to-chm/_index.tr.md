@@ -1,7 +1,7 @@
 ---
 title: Java ile JSON Formatını CHM'ye Dönüştür
 description: Microsoft Word kullanmadan Java'da JSON'u CHM'ye ayrıştırın
-url: /tr/java/conversion/json-to-chm/
+url_ignore: /tr/java/conversion/json-to-chm/
 family: total
 platformtag: net
 feature: conversion

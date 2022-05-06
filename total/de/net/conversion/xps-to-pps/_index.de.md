@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie XPS über die C#-API nach PPS
 description: .NET-API zum Konvertieren von XPS in PPS ohne Verwendung von Microsoft Word
-url: /de/net/conversion/xps-to-pps/
+url_ignore: /de/net/conversion/xps-to-pps/
 family: total
 platformtag: net
 feature: conversion

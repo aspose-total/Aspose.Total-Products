@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى ODT عبر .NET
 description: تحليل JSON إلى ODT في C# بدون استخدام Microsoft Word
-url: /ar/net/conversion/json-to-odt/
+url_ignore: /ar/net/conversion/json-to-odt/
 family: total
 platformtag: net
 feature: conversion

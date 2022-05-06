@@ -1,7 +1,7 @@
 ---
 title: Java経由でEMLをEPUBにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにEMLをEPUBに変換するJavaAPI
-url: /ja/java/conversion/eml-to-epub/
+url_ignore: /ja/java/conversion/eml-to-epub/
 family: total
 platformtag: net
 feature: conversion

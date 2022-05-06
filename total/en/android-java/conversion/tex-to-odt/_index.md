@@ -1,7 +1,7 @@
 ---
 title: Android API to Render TEX to ODT
 description: Transform TEX to ODT via Android via Java API
-url: /android-java/conversion/tex-to-odt/
+url_ignore: /android-java/conversion/tex-to-odt/
 family: total
 platformtag: android-java
 feature: conversion

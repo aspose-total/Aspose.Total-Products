@@ -1,7 +1,7 @@
 ---
 title: Convert OTT to PPTM in Android via Java
 description: OTT to PPTM conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/ott-to-pptm/
+url_ignore: /android-java/conversion/ott-to-pptm/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Eksportuj OFT do PS przez Java
 description: Java API do konwersji OFT na PS bez użycia Microsoft Word lub Outlook
-url: /pl/java/conversion/oft-to-ps/
+url_ignore: /pl/java/conversion/oft-to-ps/
 family: total
 platformtag: net
 feature: conversion

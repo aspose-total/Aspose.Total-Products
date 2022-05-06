@@ -1,7 +1,7 @@
 ---
 title: API Java per convertire WORDML in XLAM
 description: Converti WORDML in XLAM tramite Java senza utilizzare Microsoft Word o Microsoft Excel
-url: /it/java/conversion/wordml-to-xlam/
+url_ignore: /it/java/conversion/wordml-to-xlam/
 family: total
 platformtag: net
 feature: conversion

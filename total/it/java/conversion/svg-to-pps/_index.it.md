@@ -1,7 +1,7 @@
 ---
 title: Converti SVG in PPS tramite API Java
 description: API Java per convertire SVG in PPS senza utilizzare Microsoft Word
-url: /it/java/conversion/svg-to-pps/
+url_ignore: /it/java/conversion/svg-to-pps/
 family: total
 platformtag: net
 feature: conversion

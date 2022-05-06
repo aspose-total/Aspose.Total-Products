@@ -1,7 +1,7 @@
 ---
 title: Java経由でTXTをPOTに変換する
 description: MicrosoftWordやPowerPointを使用せずにTXTをPOTにエクスポートするJavaAPI
-url: /ja/java/conversion/txt-to-pot/
+url_ignore: /ja/java/conversion/txt-to-pot/
 family: total
 platformtag: net
 feature: conversion

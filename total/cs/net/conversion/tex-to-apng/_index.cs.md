@@ -1,7 +1,7 @@
 ---
 title: Převeďte TEX na APNG přes C# API
 description: Exportujte TEX do APNG ve svých aplikacích .NET bez použití jakékoli aplikace třetí strany
-url: /cs/net/conversion/tex-to-apng/
+url_ignore: /cs/net/conversion/tex-to-apng/
 family: total
 platformtag: net
 feature: conversion

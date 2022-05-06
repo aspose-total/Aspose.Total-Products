@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PDF to XLTX
 description: Convert PDF to XLTX via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/pdf-to-xltx/
+url_ignore: /cpp/conversion/pdf-to-xltx/
 family: total
 platformtag: cpp
 feature: conversion

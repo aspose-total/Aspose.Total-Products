@@ -1,7 +1,7 @@
 ---
 title: Java経由でDOTをPOTに変換する
 description: MicrosoftWordやPowerPointを使用せずにDOTをPOTにエクスポートするJavaAPI
-url: /ja/java/conversion/dot-to-pot/
+url_ignore: /ja/java/conversion/dot-to-pot/
 family: total
 platformtag: net
 feature: conversion

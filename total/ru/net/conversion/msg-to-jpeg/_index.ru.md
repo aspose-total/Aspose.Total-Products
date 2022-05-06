@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта MSG в JPEG
 description: Преобразование MSG в JPEG без использования Microsoft Word или Outlook на .NET
-url: /ru/net/conversion/msg-to-jpeg/
+url_ignore: /ru/net/conversion/msg-to-jpeg/
 family: total
 platformtag: net
 feature: conversion

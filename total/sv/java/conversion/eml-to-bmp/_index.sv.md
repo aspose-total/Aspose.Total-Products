@@ -1,7 +1,7 @@
 ---
 title: Exportera EML till BMP via Java
 description: Java API för att konvertera EML till BMP utan att använda Microsoft Word eller Outlook
-url: /sv/java/conversion/eml-to-bmp/
+url_ignore: /sv/java/conversion/eml-to-bmp/
 family: total
 platformtag: net
 feature: conversion

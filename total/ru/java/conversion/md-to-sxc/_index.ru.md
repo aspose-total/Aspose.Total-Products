@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга MD в SXC
 description: Экспорт MD в SXC через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/md-to-sxc/
+url_ignore: /ru/java/conversion/md-to-sxc/
 family: total
 platformtag: net
 feature: conversion

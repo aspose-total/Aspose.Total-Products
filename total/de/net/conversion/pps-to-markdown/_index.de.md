@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie PPS über C# in MARKDOWN
 description: Konvertieren Sie PPS in C# in MARKDOWN, ohne Microsoft Excel oder Powerpoint zu verwenden
-url: /de/net/conversion/pps-to-markdown/
+url_ignore: /de/net/conversion/pps-to-markdown/
 family: total
 platformtag: net
 feature: conversion

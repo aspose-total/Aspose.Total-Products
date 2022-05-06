@@ -1,7 +1,7 @@
 ---
 title: EMLXをEMFにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMLXをEMFに変換する
-url: /ja/net/conversion/emlx-to-emf/
+url_ignore: /ja/net/conversion/emlx-to-emf/
 family: total
 platformtag: net
 feature: conversion

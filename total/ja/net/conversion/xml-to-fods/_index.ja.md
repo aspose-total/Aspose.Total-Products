@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXMLをFODSに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにXMLファイルをFODSに変換するC＃API
-url: /ja/net/conversion/xml-to-fods/
+url_ignore: /ja/net/conversion/xml-to-fods/
 family: total
 platformtag: net
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Преобразование TXT в POTX через C# .NET 
-url: /ru/net/conversion/txt-to-potx/ 
+url_ignore: /ru/net/conversion/txt-to-potx/ 
 description: Преобразование документов Word txt в файлы PowerPoint potx с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

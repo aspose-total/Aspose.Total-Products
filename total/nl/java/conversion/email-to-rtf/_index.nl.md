@@ -1,7 +1,7 @@
 ---
 title: Exporteer EMAIL naar RTF via Java
 description: Java API om EMAIL naar RTF te converteren zonder Microsoft Word of Outlook te gebruiken
-url: /nl/java/conversion/email-to-rtf/
+url_ignore: /nl/java/conversion/email-to-rtf/
 family: total
 platformtag: net
 feature: conversion

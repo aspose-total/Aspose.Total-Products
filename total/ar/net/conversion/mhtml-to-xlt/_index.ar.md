@@ -1,7 +1,7 @@
 ---
 title: تحويل MHTML إلى XLT عبر C# API
 description: C# API لتحويل ملف MHTML إلى XLT بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/mhtml-to-xlt/
+url_ignore: /ar/net/conversion/mhtml-to-xlt/
 family: total
 platformtag: net
 feature: conversion

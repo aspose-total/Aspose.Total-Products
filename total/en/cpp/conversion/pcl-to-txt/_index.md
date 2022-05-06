@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PCL to TXT
 description: Convert PCL to TXT via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/pcl-to-txt/
+url_ignore: /cpp/conversion/pcl-to-txt/
 family: total
 platformtag: cpp
 feature: conversion

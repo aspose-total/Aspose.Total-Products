@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXMLをODSに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにXMLファイルをODSに変換するC＃API
-url: /ja/net/conversion/xml-to-ods/
+url_ignore: /ja/net/conversion/xml-to-ods/
 family: total
 platformtag: net
 feature: conversion

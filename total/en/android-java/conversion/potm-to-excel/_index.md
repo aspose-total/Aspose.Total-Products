@@ -1,7 +1,7 @@
 ---
 title: Convert POTM to EXCEL in Android via Java
 description: Convert POTM to EXCEL in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/potm-to-excel/
+url_ignore: /android-java/conversion/potm-to-excel/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert TEX to XLSB in Android via Java
 description: Render TEX to XLSB in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/tex-to-xlsb/
+url_ignore: /android-java/conversion/tex-to-xlsb/
 family: total
 platformtag: android-java
 feature: conversion

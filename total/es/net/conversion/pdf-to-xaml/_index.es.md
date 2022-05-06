@@ -1,7 +1,7 @@
 ---
 title: Exportar PDF a XAML a través de la API de C#
 description: .NET API para convertir PDF a XAML sin usar Microsoft Word
-url: /es/net/conversion/pdf-to-xaml/
+url_ignore: /es/net/conversion/pdf-to-xaml/
 family: total
 platformtag: net
 feature: conversion

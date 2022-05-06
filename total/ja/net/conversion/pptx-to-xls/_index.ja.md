@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPPTXをXLSに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPTXをXLSに変換する
-url: /ja/net/conversion/pptx-to-xls/
+url_ignore: /ja/net/conversion/pptx-to-xls/
 family: total
 platformtag: net
 feature: conversion

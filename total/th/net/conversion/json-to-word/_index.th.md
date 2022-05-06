@@ -1,7 +1,7 @@
 ---
 title: แปลงรูปแบบ JSON เป็น WORD ผ่าน .NET
 description: แยก JSON เป็น WORD ใน C# โดยไม่ต้องใช้ Microsoft Word
-url: /th/net/conversion/json-to-word/
+url_ignore: /th/net/conversion/json-to-word/
 family: total
 platformtag: net
 feature: conversion

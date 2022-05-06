@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก EMLX ไปยัง XPS
 description: แปลง EMLX เป็น XPS โดยไม่ต้องใช้ Microsoft Word หรือ Outlook บน .NET
-url: /th/net/conversion/emlx-to-xps/
+url_ignore: /th/net/conversion/emlx-to-xps/
 family: total
 platformtag: net
 feature: conversion

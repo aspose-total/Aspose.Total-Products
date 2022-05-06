@@ -1,7 +1,7 @@
 ---
 title: Konversi Format JSON ke DICOM melalui .NET
 description: Parsing JSON ke DICOM di C# tanpa menggunakan dependensi pihak ketiga
-url: /id/net/conversion/json-to-dicom/
+url_ignore: /id/net/conversion/json-to-dicom/
 family: total
 platformtag: net
 feature: conversion
@@ -33,7 +33,8 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "parse-json-to-image.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 Saat mengurai JSON ke DICOM, Anda juga dapat menyetel opsi tata letak untuk JSON menggunakan [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Ini memungkinkan Anda untuk memproses Array sebagai tabel, mengabaikan nol, mengabaikan judul array, mengabaikan judul objek, mengonversi string menjadi angka atau tanggal, mengatur format tanggal dan angka, dan mengatur gaya judul. Semua opsi ini memungkinkan Anda untuk menyajikan data sesuai kebutuhan Anda. Cuplikan kode berikut menunjukkan cara menyetel opsi tata letak.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "set-layout-and-parse-json-to-image.cs" >}}
+{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "set-layout-and-parse-json-to-image.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Saat mengurai JSON ke DICOM, Anda juga dapat menyetel opsi tata letak untuk JSON
 Menggunakan API, Anda juga dapat mengonversi JSON ke DICOM dengan tanda air di dokumen DICOM Anda. Untuk menambahkan tanda air, pertama-tama Anda dapat merender dokumen JSON Anda ke JPEG dan menambahkan tanda air di dalamnya. Untuk mendemonstrasikan operasi, Anda dapat memuat gambar JPEG yang dikonversi, menambahkan transformasi menggunakan objek kelas Matrix dan menggambar string sebagai tanda air pada permukaan gambar menggunakan [Graphics](https://apireference.aspose.com/imaging/ net/aspose.imaging/graphics) class' [DrawString](https://apireference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring). Setelah menambahkan tanda air ke dalamnya, Anda dapat menyimpan JPEG sebagai format DICOM. Di bawah ini adalah contoh kode yang menunjukkan cara menambahkan tanda air diagonal ke dokumen Anda. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

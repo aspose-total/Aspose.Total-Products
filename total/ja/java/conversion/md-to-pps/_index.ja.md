@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してMDをPPSに変換する
 description: MicrosoftWordを使用せずにMDをPPSに変換するJavaAPI
-url: /ja/java/conversion/md-to-pps/
+url_ignore: /ja/java/conversion/md-to-pps/
 family: total
 platformtag: net
 feature: conversion

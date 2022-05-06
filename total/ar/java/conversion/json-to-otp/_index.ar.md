@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى OTP عبر Java
 description: تحليل JSON إلى OTP في Java بدون استخدام Microsoft PowerPoint
-url: /ar/java/conversion/json-to-otp/
+url_ignore: /ar/java/conversion/json-to-otp/
 family: total
 platformtag: net
 feature: conversion

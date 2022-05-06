@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى POT عبر .NET
 description: تحليل JSON إلى POT في C# بدون استخدام Microsoft PowerPoint
-url: /ar/net/conversion/json-to-pot/
+url_ignore: /ar/net/conversion/json-to-pot/
 family: total
 platformtag: net
 feature: conversion

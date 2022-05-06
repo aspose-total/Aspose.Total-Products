@@ -1,7 +1,7 @@
 ---
 title: Convert MD to PPSX via Java API
 description: Java API to Convert MD to PPSX without using Microsoft Word
-url: /java/conversion/md-to-ppsx/
+url_ignore: /java/conversion/md-to-ppsx/
 family: total
 platformtag: java
 feature: conversion

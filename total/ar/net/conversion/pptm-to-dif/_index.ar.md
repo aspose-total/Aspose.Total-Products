@@ -1,7 +1,7 @@
 ---
 title: تحويل PPTM إلى DIF عبر C#
 description: قم بتحويل PPTM إلى DIF في C# بدون استخدام Microsoft Excel أو Powerpoint
-url: /ar/net/conversion/pptm-to-dif/
+url_ignore: /ar/net/conversion/pptm-to-dif/
 family: total
 platformtag: net
 feature: conversion

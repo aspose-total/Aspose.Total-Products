@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをJPEG2000に変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでPDFをJPEG2000にエクスポートします
-url: /ja/net/conversion/pdf-to-jpeg2000/
+url_ignore: /ja/net/conversion/pdf-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

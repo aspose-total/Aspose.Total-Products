@@ -1,7 +1,7 @@
 ---
 title: Convert PPS to SXC via C++ 
 description: Export PPS to SXC in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pps-to-sxc/
+url_ignore: /cpp/conversion/pps-to-sxc/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: TEXをPSにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにTEXをPSに変換する
-url: /ja/net/conversion/tex-to-ps/
+url_ignore: /ja/net/conversion/tex-to-ps/
 family: total
 platformtag: net
 feature: conversion

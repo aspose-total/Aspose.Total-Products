@@ -1,7 +1,7 @@
 ---
 title: Convert PPTX to XLAM via C++ 
 description: Export PPTX to XLAM in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pptx-to-xlam/
+url_ignore: /cpp/conversion/pptx-to-xlam/
 family: total
 platformtag: cpp
 feature: conversion

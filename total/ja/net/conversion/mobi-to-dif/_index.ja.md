@@ -1,7 +1,7 @@
 ---
 title: MOBIをDIFに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにMOBIをDIFに変換するC＃API
-url: /ja/net/conversion/mobi-to-dif/
+url_ignore: /ja/net/conversion/mobi-to-dif/
 family: total
 platformtag: net
 feature: conversion

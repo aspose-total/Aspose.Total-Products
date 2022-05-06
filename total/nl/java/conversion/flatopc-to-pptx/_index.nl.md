@@ -1,7 +1,7 @@
 ---
 title: Converteer FLATOPC naar PPTX via Java
 description: Java API om FLATOPC naar PPTX te exporteren zonder Microsoft Word of PowerPoint te gebruiken
-url: /nl/java/conversion/flatopc-to-pptx/
+url_ignore: /nl/java/conversion/flatopc-to-pptx/
 family: total
 platformtag: net
 feature: conversion

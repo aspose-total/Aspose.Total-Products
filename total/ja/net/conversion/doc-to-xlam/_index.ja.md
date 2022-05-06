@@ -1,7 +1,7 @@
 ---
 title: DOCをXLAMに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにDOCをXLAMに変換するC＃API
-url: /ja/net/conversion/doc-to-xlam/
+url_ignore: /ja/net/conversion/doc-to-xlam/
 family: total
 platformtag: net
 feature: conversion

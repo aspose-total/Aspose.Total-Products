@@ -1,7 +1,7 @@
 ---
 title: 将 OFT 导出为 DOTM 的 C# API
 description: 在 .NET 上不使用 Microsoft Word 或 Outlook 将 OFT 转换为 DOTM
-url: /zh/net/conversion/oft-to-dotm/
+url_ignore: /zh/net/conversion/oft-to-dotm/
 family: total
 platformtag: net
 feature: conversion

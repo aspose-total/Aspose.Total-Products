@@ -1,7 +1,7 @@
 ---
 title: Export EML to GIF via C++
 description: C++ API to Convert EML to GIF without using Microsoft Word or Outlook
-url: /cpp/conversion/eml-to-gif/
+url_ignore: /cpp/conversion/eml-to-gif/
 family: total
 platformtag: cpp
 feature: conversion

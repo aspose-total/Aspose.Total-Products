@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını Java ile EMZ'ye Dönüştür
 description: Microsoft PowerPoint kullanmadan Java'da JSON'u EMZ'ye ayrıştırın
-url: /tr/java/conversion/json-to-emz/
+url_ignore: /tr/java/conversion/json-to-emz/
 family: total
 platformtag: net
 feature: conversion

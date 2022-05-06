@@ -1,7 +1,7 @@
 ---
 title: Java API เพื่อส่งออก MD ไปยัง PS
 description: แปลง MD เป็น PS โดยใช้ Java API . ในตัว
-url: /th/java/conversion/md-to-ps/
+url_ignore: /th/java/conversion/md-to-ps/
 family: total
 platformtag: net
 feature: conversion

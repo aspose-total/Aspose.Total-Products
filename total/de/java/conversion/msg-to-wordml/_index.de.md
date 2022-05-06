@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie E-MAIL über Java nach WORDML
 description: Java-API zum Konvertieren von E-MAIL in WORDML, ohne Microsoft Word oder Outlook zu verwenden
-url: /de/java/conversion/msg-to-wordml/
+url_ignore: /de/java/conversion/msg-to-wordml/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Экспорт XPS в PPT через C# API
 description: .NET API для преобразования XPS в PPT без использования Microsoft Word
-url: /ru/net/conversion/xps-to-ppt/
+url_ignore: /ru/net/conversion/xps-to-ppt/
 family: total
 platformtag: net
 feature: conversion

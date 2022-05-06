@@ -1,7 +1,7 @@
 ---
 title: Преобразование PDF в DICOM через Java
 description: Экспорт файла PDF в DICOM в ваших приложениях Java без использования каких-либо сторонних приложений.
-url: /ru/java/conversion/pdf-to-dicom/
+url_ignore: /ru/java/conversion/pdf-to-dicom/
 family: total
 platformtag: net
 feature: conversion

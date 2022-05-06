@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất TEX sang MARKDOWN
 description: Chuyển đổi TEX sang MARKDOWN mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/tex-to-markdown/
+url_ignore: /vi/net/conversion/tex-to-markdown/
 family: total
 platformtag: net
 feature: conversion

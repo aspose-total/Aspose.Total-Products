@@ -1,7 +1,7 @@
 ---
 title: Convert ODT to FODS in C++
 description: C++ API to Convert ODT to FODS without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/odt-to-fods/
+url_ignore: /cpp/conversion/odt-to-fods/
 family: total
 platformtag: cpp
 feature: conversion

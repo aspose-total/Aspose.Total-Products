@@ -1,7 +1,7 @@
 ---
 title: C# API untuk Mengekspor OFT ke PS
 description: Konversi OFT ke PS tanpa menggunakan Microsoft Word atau Outlook di .NET
-url: /id/net/conversion/oft-to-ps/
+url_ignore: /id/net/conversion/oft-to-ps/
 family: total
 platformtag: net
 feature: conversion

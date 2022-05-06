@@ -1,7 +1,7 @@
 ---
 title: Java API لتقديم XPS إلى XLSB
 description: قم بتصدير XPS إلى XLSB عبر Java API دون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/java/conversion/xps-to-xlsb/
+url_ignore: /ar/java/conversion/xps-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

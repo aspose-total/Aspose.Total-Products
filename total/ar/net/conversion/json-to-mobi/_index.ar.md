@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى MOBI عبر .NET
 description: تحليل JSON إلى MOBI في C# بدون استخدام Microsoft Word
-url: /ar/net/conversion/json-to-mobi/
+url_ignore: /ar/net/conversion/json-to-mobi/
 family: total
 platformtag: net
 feature: conversion

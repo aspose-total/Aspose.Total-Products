@@ -1,7 +1,7 @@
 ---
 title: API Java để xuất PDF sang PCL
 description: Chuyển đổi PDF sang PCL bằng cách sử dụng API Java tiền đề
-url: /vi/java/conversion/pdf-to-pcl/
+url_ignore: /vi/java/conversion/pdf-to-pcl/
 family: total
 platformtag: net
 feature: conversion

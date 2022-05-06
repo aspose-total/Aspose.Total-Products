@@ -1,7 +1,7 @@
 ---
 title: Convert CGM to WMZ via C# API
 description: Export CGM to WMZ in your .NET applications without using any third party application 
-url: /net/conversion/cgm-to-wmz/
+url_ignore: /net/conversion/cgm-to-wmz/
 family: total
 platformtag: net
 feature: conversion

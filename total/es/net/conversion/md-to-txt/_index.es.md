@@ -1,7 +1,7 @@
 ---
 title: Convierta MD a TXT a través de la API de C#
 description: API C# para convertir archivos MD a TXT sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/md-to-txt/
+url_ignore: /es/net/conversion/md-to-txt/
 family: total
 platformtag: net
 feature: conversion

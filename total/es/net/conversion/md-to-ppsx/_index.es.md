@@ -1,7 +1,7 @@
 ---
 title: Exportar MD a PPSX a través de la API de C#
 description: .NET API para convertir MD a PPSX sin usar Microsoft Word
-url: /es/net/conversion/md-to-ppsx/
+url_ignore: /es/net/conversion/md-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

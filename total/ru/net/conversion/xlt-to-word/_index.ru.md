@@ -1,7 +1,7 @@
 ---
 title: Преобразование XLT в WORD с помощью .NET 
 description: Преобразование XLT в WORD на платформах .NET Framework, .NET Core, Mono или Xamarin
-url: /ru/net/conversion/xlt-to-word/
+url_ignore: /ru/net/conversion/xlt-to-word/
 family: total
 platformtag: net
 feature: conversion

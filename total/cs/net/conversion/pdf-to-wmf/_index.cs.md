@@ -1,7 +1,7 @@
 ---
 title: Převeďte PDF na WMF přes C# API
 description: Exportujte PDF do WMF ve svých aplikacích .NET bez použití jakékoli aplikace třetí strany
-url: /cs/net/conversion/pdf-to-wmf/
+url_ignore: /cs/net/conversion/pdf-to-wmf/
 family: total
 platformtag: net
 feature: conversion

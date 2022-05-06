@@ -1,7 +1,7 @@
 ---
 title: تحويل PPSX إلى TSV عبر C#
 description: قم بتحويل PPSX إلى TSV في C# بدون استخدام Microsoft Excel أو Powerpoint
-url: /ar/net/conversion/ppsx-to-tsv/
+url_ignore: /ar/net/conversion/ppsx-to-tsv/
 family: total
 platformtag: net
 feature: conversion

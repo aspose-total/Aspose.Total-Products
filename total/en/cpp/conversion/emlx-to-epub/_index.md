@@ -1,7 +1,7 @@
 ---
 title: Export EMLX to EPUB via C++
 description: C++ API to Convert EMLX to EPUB without using Microsoft Word or Outlook
-url: /cpp/conversion/emlx-to-epub/
+url_ignore: /cpp/conversion/emlx-to-epub/
 family: total
 platformtag: cpp
 feature: conversion

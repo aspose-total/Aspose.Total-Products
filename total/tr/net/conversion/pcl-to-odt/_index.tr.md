@@ -1,7 +1,7 @@
 ---
 title: PCL'yi ODT'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan PCL'yi ODT'ye dönüştürün
-url: /tr/net/conversion/pcl-to-odt/
+url_ignore: /tr/net/conversion/pcl-to-odt/
 family: total
 platformtag: net
 feature: conversion

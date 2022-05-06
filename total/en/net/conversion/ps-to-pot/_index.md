@@ -1,7 +1,7 @@
 ---
 title: Export PS to POT via C# API
 description: .NET API to Convert PS to POT without using Microsoft Word
-url: /net/conversion/ps-to-pot/
+url_ignore: /net/conversion/ps-to-pot/
 family: total
 platformtag: net
 feature: conversion

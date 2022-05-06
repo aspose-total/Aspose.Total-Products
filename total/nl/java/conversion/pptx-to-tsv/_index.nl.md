@@ -1,7 +1,7 @@
 ---
 title: Converteer PPTX naar TSV-formaat via Java
 description: Converteer PPTX naar TSV-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken
-url: /nl/java/conversion/pptx-to-tsv/
+url_ignore: /nl/java/conversion/pptx-to-tsv/
 family: total
 platformtag: net
 feature: conversion

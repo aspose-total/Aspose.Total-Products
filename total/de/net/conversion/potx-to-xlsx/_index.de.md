@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie POTX über C# in XLSX
 description: Konvertieren Sie POTX in C# in XLSX, ohne Microsoft Excel oder Powerpoint zu verwenden
-url: /de/net/conversion/potx-to-xlsx/
+url_ignore: /de/net/conversion/potx-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API .NET para convertir WORD a XLTX
 description: API de C# para convertir WORD a XLTX sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/word-to-xltx/
+url_ignore: /es/net/conversion/word-to-xltx/
 family: total
 platformtag: net
 feature: conversion

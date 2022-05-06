@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XPS to PPSX  
 description: Convert XPS to PPSX via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xps-to-ppsx/
+url_ignore: /cpp/conversion/xps-to-ppsx/
 family: total
 platformtag: cpp
 feature: conversion

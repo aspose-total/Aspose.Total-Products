@@ -1,7 +1,7 @@
 ---
 title: Převést MD na APNG přes Java
 description: Exportujte soubor MD do APNG ve svých aplikacích Java bez použití jakékoli aplikace třetí strany
-url: /cs/java/conversion/md-to-apng/
+url_ignore: /cs/java/conversion/md-to-apng/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converter MD para XLT via API C#
 description: API C# para converter arquivo MD em XLT sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/md-to-xlt/
+url_ignore: /pt/net/conversion/md-to-xlt/
 family: total
 platformtag: net
 feature: conversion

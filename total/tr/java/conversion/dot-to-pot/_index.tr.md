@@ -1,7 +1,7 @@
 ---
 title: Java ile DOT'yi POT'ye dönüştürün
 description: Microsoft Word veya PowerPoint kullanmadan DOT'yi POT'ye Dışa Aktarmak için Java API
-url: /tr/java/conversion/dot-to-pot/
+url_ignore: /tr/java/conversion/dot-to-pot/
 family: total
 platformtag: net
 feature: conversion

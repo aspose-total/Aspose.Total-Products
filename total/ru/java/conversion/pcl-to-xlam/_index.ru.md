@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга PCL в XLAM
 description: Экспорт PCL в XLAM через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/pcl-to-xlam/
+url_ignore: /ru/java/conversion/pcl-to-xlam/
 family: total
 platformtag: net
 feature: conversion

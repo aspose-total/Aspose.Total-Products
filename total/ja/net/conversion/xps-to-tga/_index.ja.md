@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXPSをTGAに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでXPSをTGAにエクスポートします
-url: /ja/net/conversion/xps-to-tga/
+url_ignore: /ja/net/conversion/xps-to-tga/
 family: total
 platformtag: net
 feature: conversion

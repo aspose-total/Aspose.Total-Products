@@ -1,7 +1,7 @@
 ---
 title: PDF'yi C# API aracılığıyla PPTM'ye aktarın
 description: Microsoft Word kullanmadan PDF'yi PPTM'ye dönüştürmek için .NET API
-url: /tr/net/conversion/pdf-to-pptm/
+url_ignore: /tr/net/conversion/pdf-to-pptm/
 family: total
 platformtag: net
 feature: conversion

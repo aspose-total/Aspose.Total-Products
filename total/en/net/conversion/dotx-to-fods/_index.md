@@ -1,7 +1,7 @@
 ---
 title: .NET API to Convert DOTX to FODS 
 description: C# API to Convert DOTX to FODS without using Microsoft Excel or Adobe Reader
-url: /net/conversion/dotx-to-fods/
+url_ignore: /net/conversion/dotx-to-fods/
 family: total
 platformtag: net
 feature: conversion

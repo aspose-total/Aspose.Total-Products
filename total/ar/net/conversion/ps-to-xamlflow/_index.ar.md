@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير PS إلى XAMLFLOW
 description: تحويل PS إلى XAMLFLOW دون استخدام Microsoft Word
-url: /ar/net/conversion/ps-to-xamlflow/
+url_ignore: /ar/net/conversion/ps-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

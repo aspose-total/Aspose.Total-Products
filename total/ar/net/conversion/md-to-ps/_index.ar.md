@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير MD إلى PS
 description: تحويل MD إلى PS دون استخدام Microsoft Word
-url: /ar/net/conversion/md-to-ps/
+url_ignore: /ar/net/conversion/md-to-ps/
 family: total
 platformtag: net
 feature: conversion

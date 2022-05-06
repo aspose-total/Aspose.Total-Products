@@ -1,7 +1,7 @@
 ---
 title: Converter PPTM para ODS via C#
 description: Converter PPTM para ODS em C# sem usar o Microsoft Excel ou Powerpoint
-url: /pt/net/conversion/pptm-to-ods/
+url_ignore: /pt/net/conversion/pptm-to-ods/
 family: total
 platformtag: net
 feature: conversion

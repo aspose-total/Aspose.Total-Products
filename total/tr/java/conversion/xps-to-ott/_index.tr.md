@@ -1,7 +1,7 @@
 ---
 title: XPS'yi OTT'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak XPS'yi OTT'ye dönüştürün
-url: /tr/java/conversion/xps-to-ott/
+url_ignore: /tr/java/conversion/xps-to-ott/
 family: total
 platformtag: net
 feature: conversion

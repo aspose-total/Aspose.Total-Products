@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PCL to XLTM
 description: Convert PCL to XLTM via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/pcl-to-xltm/
+url_ignore: /cpp/conversion/pcl-to-xltm/
 family: total
 platformtag: cpp
 feature: conversion

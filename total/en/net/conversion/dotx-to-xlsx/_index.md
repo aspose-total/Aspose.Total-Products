@@ -1,7 +1,7 @@
 ---
 title: Convert DOTX to XLSX via .NET 
 description: Convert DOTX to XLSX in C# without using Microsoft Excel or Adobe Reader
-url: /net/conversion/dotx-to-xlsx/
+url_ignore: /net/conversion/dotx-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PCL to XLSM
 description: Convert PCL to XLSM via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/pcl-to-xlsm/
+url_ignore: /cpp/conversion/pcl-to-xlsm/
 family: total
 platformtag: cpp
 feature: conversion

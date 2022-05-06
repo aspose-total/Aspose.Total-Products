@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to JSON format in C++ 
 description: Export WORD to JSON in C++ without using Microsoft Excel or Word
-url: /cpp/conversion/word-to-json/
+url_ignore: /cpp/conversion/word-to-json/
 family: total
 platformtag: cpp
 feature: conversion

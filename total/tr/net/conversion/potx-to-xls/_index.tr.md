@@ -1,7 +1,7 @@
 ---
 title: POTX'u C# ile XLS'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan POTX'u C#'ta XLS'ye dönüştürün
-url: /tr/net/conversion/potx-to-xls/
+url_ignore: /tr/net/conversion/potx-to-xls/
 family: total
 platformtag: net
 feature: conversion

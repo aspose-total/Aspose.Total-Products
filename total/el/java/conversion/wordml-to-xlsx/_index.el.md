@@ -1,7 +1,7 @@
 ---
 title: Java API για μετατροπή WORDML σε XLSX
 description: Μετατροπή WORDML σε XLSX μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel
-url: /el/java/conversion/wordml-to-xlsx/
+url_ignore: /el/java/conversion/wordml-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

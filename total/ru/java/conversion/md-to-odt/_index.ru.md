@@ -1,7 +1,7 @@
 ---
 title: Java API для экспорта MD в ODT
 description: Преобразование MD в ODT с использованием локального Java API
-url: /ru/java/conversion/md-to-odt/
+url_ignore: /ru/java/conversion/md-to-odt/
 family: total
 platformtag: net
 feature: conversion

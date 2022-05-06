@@ -1,7 +1,7 @@
 ---
 title: Android API to Render CGM to WORDML
 description: Transform CGM to WORDML via Android via Java API
-url: /android-java/conversion/cgm-to-wordml/
+url_ignore: /android-java/conversion/cgm-to-wordml/
 family: total
 platformtag: android-java
 feature: conversion

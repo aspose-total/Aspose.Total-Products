@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをPOTMにエクスポートする
 description: MicrosoftWordを使用せずにPDFをPOTMに変換する.NETAPI
-url: /ja/net/conversion/pdf-to-potm/
+url_ignore: /ja/net/conversion/pdf-to-potm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PPTX-ot XLSB-vé a C# segítségével
 description: Konvertálja a PPTX-ot XLSB-vé C#-ban Microsoft Excel vagy Powerpoint használata nélkül
-url: /hu/net/conversion/pptx-to-xlsb/
+url_ignore: /hu/net/conversion/pptx-to-xlsb/
 family: total
 platformtag: net
 feature: conversion
@@ -19,15 +19,15 @@ Az [Aspose.Total for .NET](https://products.aspose.com/total/net/) használatáv
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hogyan lehet a PPTX-ot XLSB-vé konvertálni C#-on keresztül" %}}
 1. Nyissa meg a PPTX-fájlt a [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) osztály használatával
-2. Exportálja a PPTX-ot HTML-ként a [Mentés](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) módszerrel
+2. Exportálja a PPTX-ot HTML-ként a [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) módszerrel
 3. Töltsön be HTML-dokumentumot a [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) osztály használatával
-4. Mentse a dokumentumot XLSB-fájlba a [Mentés](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) módszerrel
+4. Mentse a dokumentumot XLSB-fájlba a [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) módszerrel
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 Telepítés parancssorból ```nuget install Aspose.Total``` néven, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.Total``` paranccsal.
 
-Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads] webhelyről (https://downloads.aspose.com/total/net).
+Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads](https://downloads.aspose.com/total/net) webhelyről.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}

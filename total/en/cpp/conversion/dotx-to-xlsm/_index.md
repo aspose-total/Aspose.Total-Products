@@ -1,7 +1,7 @@
 ---
 title: Convert DOTX to XLSM in C++
 description: C++ API to Convert DOTX to XLSM without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/dotx-to-xlsm/
+url_ignore: /cpp/conversion/dotx-to-xlsm/
 family: total
 platformtag: cpp
 feature: conversion

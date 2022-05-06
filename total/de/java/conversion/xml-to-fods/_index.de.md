@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Rendern von XML in FODS
 description: Exportieren Sie XML über die Java-API in FODS, ohne Microsoft Excel oder Adobe Reader zu verwenden
-url: /de/java/conversion/xml-to-fods/
+url_ignore: /de/java/conversion/xml-to-fods/
 family: total
 platformtag: net
 feature: conversion

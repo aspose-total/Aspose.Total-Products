@@ -1,7 +1,7 @@
 ---
 title: Java経由でEMLをFLATOPCにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにEMLをFLATOPCに変換するJavaAPI
-url: /ja/java/conversion/eml-to-flatopc/
+url_ignore: /ja/java/conversion/eml-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

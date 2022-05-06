@@ -1,7 +1,7 @@
 ---
 title: تحويل CGM إلى XLTM عبر C# API
 description: C# API لتحويل ملف CGM إلى XLTM بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/cgm-to-xltm/
+url_ignore: /ar/net/conversion/cgm-to-xltm/
 family: total
 platformtag: net
 feature: conversion

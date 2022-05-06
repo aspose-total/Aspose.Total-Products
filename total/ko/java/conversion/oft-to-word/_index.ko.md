@@ -1,7 +1,7 @@
 ---
 title: Java를 통해 OFT을 WORD로 내보내기
 description: Microsoft Word 또는 Outlook을 사용하지 않고 OFT을 WORD로 변환하는 Java API
-url: /ko/java/conversion/oft-to-word/
+url_ignore: /ko/java/conversion/oft-to-word/
 family: total
 platformtag: net
 feature: conversion

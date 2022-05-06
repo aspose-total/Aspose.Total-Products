@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert TEX to POTX  
 description: Convert TEX to POTX via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/tex-to-potx/
+url_ignore: /cpp/conversion/tex-to-potx/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: TEX'yi C# API aracılığıyla XAML'ye aktarın
 description: Microsoft Word kullanmadan TEX'yi XAML'ye dönüştürmek için .NET API
-url: /tr/net/conversion/tex-to-xaml/
+url_ignore: /tr/net/conversion/tex-to-xaml/
 family: total
 platformtag: net
 feature: conversion

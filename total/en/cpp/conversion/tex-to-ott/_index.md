@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export TEX to OTT
 description: Convert TEX to OTT within C++ applications.
-url: /cpp/conversion/tex-to-ott/
+url_ignore: /cpp/conversion/tex-to-ott/
 family: total
 platformtag: cpp
 feature: conversion

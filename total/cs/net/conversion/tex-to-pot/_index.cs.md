@@ -1,7 +1,7 @@
 ---
 title: Export TEX do POT přes C# API
 description: .NET API pro převod TEX na POT bez použití aplikace Microsoft Word
-url: /cs/net/conversion/tex-to-pot/
+url_ignore: /cs/net/conversion/tex-to-pot/
 family: total
 platformtag: net
 feature: conversion

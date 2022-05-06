@@ -1,7 +1,7 @@
 ---
 title: API Java per il rendering da XPS a TXT
 description: Esporta XPS in TXT tramite API Java senza utilizzare Microsoft Excel o Adobe Reader
-url: /it/java/conversion/xps-to-txt/
+url_ignore: /it/java/conversion/xps-to-txt/
 family: total
 platformtag: net
 feature: conversion

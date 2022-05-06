@@ -1,7 +1,7 @@
 ---
 title: Export TEX do POWERPOINT přes C# API
 description: .NET API pro převod TEX na POWERPOINT bez použití aplikace Microsoft Word
-url: /cs/net/conversion/tex-to-powerpoint/
+url_ignore: /cs/net/conversion/tex-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie PPTM über C# in XLSB
 description: Konvertieren Sie PPTM in C# in XLSB, ohne Microsoft Excel oder Powerpoint zu verwenden
-url: /de/net/conversion/pptm-to-xlsb/
+url_ignore: /de/net/conversion/pptm-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

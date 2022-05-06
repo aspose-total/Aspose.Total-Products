@@ -1,7 +1,7 @@
 ---
 title: Export XSLFO to PPT in Android 
 description: Android API to Convert XSLFO to PPT without using Microsoft Word
-url: /android-java/conversion/xslfo-to-ppt/
+url_ignore: /android-java/conversion/xslfo-to-ppt/
 family: total
 platformtag: android-java
 feature: conversion

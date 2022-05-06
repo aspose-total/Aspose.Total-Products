@@ -1,7 +1,7 @@
 ---
 title: تحويل PPTM إلى تنسيق MHTML عبر Java
 description: قم بتحويل PPTM إلى تنسيق MHTML عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/pptm-to-mhtml/
+url_ignore: /ar/java/conversion/pptm-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

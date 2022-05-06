@@ -1,7 +1,7 @@
 ---
 title: تحويل CGM إلى EMZ عبر Java
 description: قم بتصدير ملف CGM إلى EMZ في تطبيقات Java الخاصة بك دون استخدام أي تطبيق تابع لجهة خارجية
-url: /ar/java/conversion/cgm-to-emz/
+url_ignore: /ar/java/conversion/cgm-to-emz/
 family: total
 platformtag: net
 feature: conversion

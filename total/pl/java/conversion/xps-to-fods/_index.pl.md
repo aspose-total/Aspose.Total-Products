@@ -1,7 +1,7 @@
 ---
 title: Java API do renderowania XPS do FODS
 description: Eksportuj XPS do FODS przez Java API bez użycia Microsoft Excel lub Adobe Reader
-url: /pl/java/conversion/xps-to-fods/
+url_ignore: /pl/java/conversion/xps-to-fods/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Ekspor EMAIL ke XPS melalui Java
 description: Java API untuk Mengonversi EMAIL ke XPS tanpa menggunakan Microsoft Word atau Outlook
-url: /id/java/conversion/email-to-xps/
+url_ignore: /id/java/conversion/email-to-xps/
 family: total
 platformtag: net
 feature: conversion

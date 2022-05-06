@@ -1,7 +1,7 @@
 ---
 title: PCLをODTにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにPCLをODTに変換する
-url: /ja/net/conversion/pcl-to-odt/
+url_ignore: /ja/net/conversion/pcl-to-odt/
 family: total
 platformtag: net
 feature: conversion

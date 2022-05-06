@@ -1,7 +1,7 @@
 ---
 title: C# API to Export CGM to WORDML
 description: Convert CGM to WORDML without using Microsoft Word
-url: /net/conversion/cgm-to-wordml/
+url_ignore: /net/conversion/cgm-to-wordml/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API för att exportera SVG till ODT
 description: Konvertera SVG till ODT med hjälp av det lokala Java API
-url: /sv/java/conversion/svg-to-odt/
+url_ignore: /sv/java/conversion/svg-to-odt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: OFT'i Java aracılığıyla SVG'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan OFT'i SVG'ye Dönüştürmek için Java API
-url: /tr/java/conversion/oft-to-svg/
+url_ignore: /tr/java/conversion/oft-to-svg/
 family: total
 platformtag: net
 feature: conversion

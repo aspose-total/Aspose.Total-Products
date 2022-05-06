@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOCM to CSV
 description: Convert DOCM to CSV in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/docm-to-csv/
+url_ignore: /android-java/conversion/docm-to-csv/
 family: total
 platformtag: android-java
 feature: conversion

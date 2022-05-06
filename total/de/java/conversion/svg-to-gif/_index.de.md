@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Exportieren von SVG nach GIF
 description: Konvertieren Sie SVG mithilfe der lokalen Java-API in GIF
-url: /de/java/conversion/svg-to-gif/
+url_ignore: /de/java/conversion/svg-to-gif/
 family: total
 platformtag: net
 feature: conversion

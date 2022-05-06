@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PCL to DOTM
 description: Convert PCL to DOTM within C++ applications.
-url: /cpp/conversion/pcl-to-dotm/
+url_ignore: /cpp/conversion/pcl-to-dotm/
 family: total
 platformtag: cpp
 feature: conversion

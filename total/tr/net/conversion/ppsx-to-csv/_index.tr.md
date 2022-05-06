@@ -1,7 +1,7 @@
 ---
 title: PPSX'u C# ile CSV'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan PPSX'u C#'ta CSV'ye dönüştürün
-url: /tr/net/conversion/ppsx-to-csv/
+url_ignore: /tr/net/conversion/ppsx-to-csv/
 family: total
 platformtag: net
 feature: conversion

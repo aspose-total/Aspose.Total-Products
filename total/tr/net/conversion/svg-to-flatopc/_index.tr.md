@@ -1,7 +1,7 @@
 ---
 title: SVG'yi FLATOPC'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan SVG'yi FLATOPC'ye dönüştürün
-url: /tr/net/conversion/svg-to-flatopc/
+url_ignore: /tr/net/conversion/svg-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

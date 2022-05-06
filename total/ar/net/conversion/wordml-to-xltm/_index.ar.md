@@ -1,7 +1,7 @@
 ---
 title: NET API لتحويل WORDML إلى XLTM
 description: C# API لتحويل WORDML إلى XLTM بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/wordml-to-xltm/
+url_ignore: /ar/net/conversion/wordml-to-xltm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Převést FLATOPC na POTM přes Java
 description: Java API pro export FLATOPC do POTM bez použití Microsoft Word nebo PowerPoint
-url: /cs/java/conversion/flatopc-to-potm/
+url_ignore: /cs/java/conversion/flatopc-to-potm/
 family: total
 platformtag: net
 feature: conversion

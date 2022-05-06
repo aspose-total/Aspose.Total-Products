@@ -1,7 +1,7 @@
 ---
 title: 使用 Java 将 ODS 转换为 DOC
 description: 使用 Excel 或 Word 将 ODS 导出为 DOC 的 Java API
-url: /zh/java/conversion/ods-to-doc/
+url_ignore: /zh/java/conversion/ods-to-doc/
 family: total
 platformtag: net
 feature: conversion

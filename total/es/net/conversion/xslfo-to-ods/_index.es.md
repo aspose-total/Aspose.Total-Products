@@ -1,7 +1,7 @@
 ---
 title: Convierta XSLFO a ODS a través de la API de C#
 description: API C# para convertir archivos XSLFO a ODS sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/xslfo-to-ods/
+url_ignore: /es/net/conversion/xslfo-to-ods/
 family: total
 platformtag: net
 feature: conversion

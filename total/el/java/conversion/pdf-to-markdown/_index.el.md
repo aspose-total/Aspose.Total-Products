@@ -1,7 +1,7 @@
 ---
 title: Java API για εξαγωγή PDF σε MARKDOWN
 description: Μετατρέψτε το PDF σε MARKDOWN χρησιμοποιώντας το Java API premise
-url: /el/java/conversion/pdf-to-markdown/
+url_ignore: /el/java/conversion/pdf-to-markdown/
 family: total
 platformtag: net
 feature: conversion
@@ -37,7 +37,8 @@ document.save("DocOutput.doc", SaveFormat.DOC);
 Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 // call save method while passing SaveFormat.MARKDOWN
 outputDocument.save("output.markdown", SaveFormat.MARKDOWN);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Απαιτήσεις μετατροπής" %}}
@@ -49,7 +50,8 @@ outputDocument.save("output.markdown", SaveFormat.MARKDOWN);
 Document document = new Document("input.pdf", "password");
 // save PDF as a DOC 
 document.save("DocOutput.doc", SaveFormat.DOC);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Ανοίξτε το έγγραφο PDF που προστατεύεται με κωδικό πρόσβασης μέσω Java" %}}
@@ -73,7 +75,8 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
     Statement statement = mConnection.createStatement();
     statement.executeUpdate(commandString);
 }  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

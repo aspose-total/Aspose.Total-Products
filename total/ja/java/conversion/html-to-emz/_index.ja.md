@@ -1,7 +1,7 @@
 ---
 title: Javaを介してHTMLをEMZに変換する
 description: サードパーティのアプリケーションを使用せずに、JavaアプリケーションのEMZにHTMLファイルをエクスポートします
-url: /ja/java/conversion/html-to-emz/
+url_ignore: /ja/java/conversion/html-to-emz/
 family: total
 platformtag: net
 feature: conversion
@@ -17,7 +17,7 @@ otherformats: PSD DXF TGA  SVGZ IMAGE WMZ JPEG2000 EMZ WMF DICOM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java経由でHTMLをEMZにエクスポート" %}}
 1. [ドキュメント](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)クラスを使用してHTMLファイルを開きます
-2. [JpegDevice](JpegDevice)クラスオブジェクトを初期化し、[Process](https://apireference.aspose.com/pdf/java/com.aspose.pdf.devices/JpegDevice#process-com)を使用してHTMLをJPEGにレンダリングします。 aspose.pdf.Page-java.io.OutputStream-)メソッド
+2. JpegDeviceクラスオブジェクトを初期化し、[Process](https://apireference.aspose.com/pdf/java/com.aspose.pdf.devices/JpegDevice#process-com)を使用してHTMLをJPEGにレンダリングします。 aspose.pdf.Page-java.io.OutputStream-)メソッド
 3. [Image](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image)クラスを使用してJPEGファイルをロードします
 4. [save](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBaseを使用してドキュメントをEMZ形式で保存します-) 方法
 {{% /blocks/products/pf/agp/feature-section-col %}}

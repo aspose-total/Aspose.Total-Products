@@ -1,7 +1,7 @@
 ---
 title: API .NET para converter RTF para XLSB
 description: API C# para converter RTF para XLSB sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/rtf-to-xlsb/
+url_ignore: /pt/net/conversion/rtf-to-xlsb/
 family: total
 platformtag: net
 feature: conversion
@@ -18,10 +18,10 @@ Ao usar o [Aspose.Total for .NET](https://products.aspose.com/total/net/) você 
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET para converter RTF para XLSB" %}}
-1. Abra o arquivo RTF usando a classe [Rtfument](https://apireference.aspose.com/words/net/aspose.words/rtfument)
-2. Converta RTF para HTML usando o método [Salvar](https://apireference.aspose.com/words/net/aspose.words.rtfument/save/methods/4)
-3. Carregue o rtfumento HTML usando a classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Salve o rtfumento no formato XLSB usando o método [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) e defina "XLSB" como SaveFormat
+1. Abra o arquivo RTF usando a classe [Document](https://apireference.aspose.com/words/net/aspose.words/Document)
+2. Converta RTF para HTML usando o método [Salvar](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4)
+3. Carregue o Documento HTML usando a classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+4. Salve o Documento no formato XLSB usando o método [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) e defina "XLSB" como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
@@ -38,17 +38,16 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Carregar rtfumento RTF do fluxo via C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) também permite carregar rtfumentos RTF via stream. Para abrir um rtfumento de um stream, basta passar um objeto stream que contém o rtfumento para o construtor [Rtfument](https://apireference.aspose.com/words/net/aspose.words/rtfument). O exemplo de código a seguir mostra como abrir um rtfumento de um fluxo:  
+{{% blocks/products/pf/feature-page-section  h2="Carregar Documento RTF do fluxo via C#" %}}
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) também permite carregar Documentos RTF via stream. Para abrir um Documento de um stream, basta passar um objeto stream que contém o Documento para o construtor [Document](https://apireference.aspose.com/words/net/aspose.words/Document). O exemplo de código a seguir mostra como abrir um Documento de um fluxo:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Adicionar propriedades personalizadas no arquivo XLSB via C#" %}}
-Ao converter RTF para XLSB, o [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) permite adicionar propriedades personalizadas em seus rtfumentos XLSB. Para adicionar uma propriedade personalizada, você pode usar o método [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customrtfumentpropertycollection/methods/add/index) para o método [CustomRtfumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customrtfumentpropertycollection) classe. O método Add adiciona a propriedade ao arquivo Excel e retorna uma referência para a nova propriedade do rtfumento como um [Aspose.Cells.Properties.RtfumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /rtfumentproperty) objeto. 
+Ao converter RTF para XLSB, o [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) permite adicionar propriedades personalizadas em seus Documentos XLSB. Para adicionar uma propriedade personalizada, você pode usar o método [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index) para o método [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection) classe. O método Add adiciona a propriedade ao arquivo Excel e retorna uma referência para a nova propriedade do Documento como um [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /Documentproperty) objeto. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

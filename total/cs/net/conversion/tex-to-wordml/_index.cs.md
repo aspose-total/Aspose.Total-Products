@@ -1,7 +1,7 @@
 ---
 title: C# API pro export TEX do WORDML
 description: Převeďte TEX na WORDML bez použití aplikace Microsoft Word
-url: /cs/net/conversion/tex-to-wordml/
+url_ignore: /cs/net/conversion/tex-to-wordml/
 family: total
 platformtag: net
 feature: conversion

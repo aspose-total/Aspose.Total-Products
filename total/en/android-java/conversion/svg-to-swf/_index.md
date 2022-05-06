@@ -1,7 +1,7 @@
 ---
 title: Export SVG to SWF in Android 
 description: Android API to Convert SVG to SWF without using Microsoft Word
-url: /android-java/conversion/svg-to-swf/
+url_ignore: /android-java/conversion/svg-to-swf/
 family: total
 platformtag: android-java
 feature: conversion

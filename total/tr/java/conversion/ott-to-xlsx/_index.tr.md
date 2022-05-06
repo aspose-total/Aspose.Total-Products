@@ -1,7 +1,7 @@
 ---
 title: OTT'yi XLSX'ye Dönüştürmek için Java API
 description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla OTT'yi XLSX'ye dönüştürün
-url: /tr/java/conversion/ott-to-xlsx/
+url_ignore: /tr/java/conversion/ott-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert XSLFO to TXT in Android via Java
 description: Render XSLFO to TXT in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/xslfo-to-txt/
+url_ignore: /android-java/conversion/xslfo-to-txt/
 family: total
 platformtag: android-java
 feature: conversion

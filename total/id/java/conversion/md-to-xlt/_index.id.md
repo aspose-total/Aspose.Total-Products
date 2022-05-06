@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender MD ke XLT
 description: Ekspor MD ke XLT melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/md-to-xlt/
+url_ignore: /id/java/conversion/md-to-xlt/
 family: total
 platformtag: net
 feature: conversion

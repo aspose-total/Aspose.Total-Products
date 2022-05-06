@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをXLAMに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPDFファイルをXLAMに変換するC＃API
-url: /ja/net/conversion/pdf-to-xlam/
+url_ignore: /ja/net/conversion/pdf-to-xlam/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تحويل POWERPOINT إلى تنسيق XLSB عبر Java
 description: قم بتحويل POWERPOINT إلى تنسيق XLSB عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/powerpoint-to-xlsb/
+url_ignore: /ar/java/conversion/powerpoint-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

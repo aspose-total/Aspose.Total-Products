@@ -1,7 +1,7 @@
 ---
 title: .NET API για μετατροπή DOTM σε CSV
 description: C# API για μετατροπή DOTM σε CSV χωρίς χρήση Microsoft Excel ή Adobe Reader
-url: /el/net/conversion/dotm-to-csv/
+url_ignore: /el/net/conversion/dotm-to-csv/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ otherformats: DIF XLTX XLSM EXCEL XLS TSV XLT XLSB FODS ODS SXC XLSX XLAM XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Προσθήκη προσαρμοσμένων ιδιοτήτων σε αρχείο CSV μέσω C#" %}}
 Κατά τη μετατροπή του DOTM σε CSV, το [Aspose.Cells για .NET](https://products.aspose.com/cells/net/) σάς δίνει τη δυνατότητα να προσθέσετε προσαρμοσμένες ιδιότητες στα έγγραφά σας CSV. Για να προσθέσετε μια προσαρμοσμένη ιδιότητα, μπορείτε να χρησιμοποιήσετε τη μέθοδο [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection/methods/add/index) για το [CustomDotmumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection) τάξη. Η μέθοδος Προσθήκη προσθέτει την ιδιότητα στο αρχείο Excel και επιστρέφει μια αναφορά για την ιδιότητα του νέου εγγράφου ως [Aspose.Cells.Properties.DotmumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /dotmumentproperty) αντικείμενο. 
 {{% blocks/products/pf/feature-page-code %}}

@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してXPSをPPTMに変換する
 description: MicrosoftWordを使用せずにXPSをPPTMに変換するJavaAPI
-url: /ja/java/conversion/xps-to-pptm/
+url_ignore: /ja/java/conversion/xps-to-pptm/
 family: total
 platformtag: net
 feature: conversion

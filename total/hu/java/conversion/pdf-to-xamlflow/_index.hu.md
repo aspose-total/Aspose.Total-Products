@@ -1,7 +1,7 @@
 ---
 title: Java API a PDF exportálásához XAMLFLOW-be
 description: Konvertálja a PDF-et XAMLFLOW-re a helyszíni Java API használatával
-url: /hu/java/conversion/pdf-to-xamlflow/
+url_ignore: /hu/java/conversion/pdf-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion
@@ -12,7 +12,7 @@ otherformats: WORDML XAMLFLOW OTT ODT RTF FLATOPC DOTX PS DOTM MARKDOWN PCL DOT
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="A PDF átalakítása XAMLFLOW-re Java segítségével" h2="On Premise Java API a PDF megjelenítéséhez XAMLFLOW-ben harmadik féltől származó alkalmazások használata nélkül" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Két egyszerű lépéssel a PDF-et XAMLFLOW-má konvertálhatja. Először is le kell renderelnie a PDF-fájlt DOC-ban az [Aspose.PDF for Java] használatával (https://products.aspose.com/pdf/java/). Ezt követően a hatékony dokumentumfeldolgozási API [Aspose.Words for Java](https://products.aspose.com/words/java/) használatával a DOC-t XAMLFLOW-má konvertálhatja. Mindkét API az [Aspose.Total for Java](https://products.aspose.com/total/java/) csomagban található.
+Két egyszerű lépéssel a PDF-et XAMLFLOW-má konvertálhatja. Először is le kell renderelnie a PDF-fájlt DOC-ban az [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). Ezt követően a hatékony dokumentumfeldolgozási API [Aspose.Words for Java](https://products.aspose.com/words/java/) használatával a DOC-t XAMLFLOW-má konvertálhatja. Mindkét API az [Aspose.Total for Java](https://products.aspose.com/total/java/) csomagban található.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java API a PDF XAMLFLOW-má konvertálásához" %}}
@@ -22,9 +22,9 @@ Két egyszerű lépéssel a PDF-et XAMLFLOW-má konvertálhatja. Először is le
 4. Mentse a dokumentumot XAMLFLOW formátumba a [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) módszerrel, és állítsa be a XAMLFLOW-et mint SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
-Az Aspose.Total for Java könnyen használható közvetlenül [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) alapú projektből és tartalmazza az [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) és az [Aspose.Words for Java](https://docs.aspose.com/words/java/) install/) a pom.xml-ben.
+Az Aspose.Total for Java könnyen használható közvetlenül [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) alapú projektből és tartalmazza az [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) és az [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) a pom.xml-ben.
 
-Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads] webhelyről (https://downloads.aspose.com/total/java).
+Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

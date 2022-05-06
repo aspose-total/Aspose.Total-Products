@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से पीओटी को डीओसी में कनवर्ट करें
 description: Microsoft Word या PowerPoint का उपयोग किए बिना TEXT को POTM निर्यात करने के लिए Java API
-url: /hi/java/conversion/potm-to-text/
+url_ignore: /hi/java/conversion/potm-to-text/
 family: total
 platformtag: net
 feature: conversion

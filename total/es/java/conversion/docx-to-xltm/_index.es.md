@@ -1,7 +1,7 @@
 ---
 title: API de Java para convertir DOCX a XLTM
 description: Convierta DOCX a XLTM a través de Java sin usar Microsoft Word o Microsoft Excel
-url: /es/java/conversion/docx-to-xltm/
+url_ignore: /es/java/conversion/docx-to-xltm/
 family: total
 platformtag: net
 feature: conversion
@@ -34,15 +34,15 @@ Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisitos de conversión" %}}document
-Antes de convertir DOCX a XLTM, puede eliminar la información no utilizada del docxumento DOCX a través de [Aspose.Words for Java](https://products.aspose.com/words/java/). En ocasiones, es posible que deba eliminar información no utilizada o duplicada para reducir el tamaño del docxumento de salida y el tiempo de procesamiento. La clase [CleanupOptions](https://apireference.aspose.com/words/java/com.aspose.words/CleanupOptions) le permite especificar opciones para la limpieza de docxumentos. Para eliminar estilos duplicados o simplemente estilos o listas no utilizados del docxumento, puede usar el método [Cleanup](https://apireference.aspose.com/words/java/com.aspose.words/Document#cleanup()). Puede usar [UnusedStyles](https://apireference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) y [UnusedBuiltinStyles](https://apireference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedBuiltinStyles) para detectar y eliminar estilos marcados como "sin usar".  
+Antes de convertir DOCX a XLTM, puede eliminar la información no utilizada del Documento DOCX a través de [Aspose.Words for Java](https://products.aspose.com/words/java/). En ocasiones, es posible que deba eliminar información no utilizada o duplicada para reducir el tamaño del Documento de salida y el tiempo de procesamiento. La clase [CleanupOptions](https://apireference.aspose.com/words/java/com.aspose.words/CleanupOptions) le permite especificar opciones para la limpieza de Documentos. Para eliminar estilos duplicados o simplemente estilos o listas no utilizados del Documento, puede usar el método [Cleanup](https://apireference.aspose.com/words/java/com.aspose.words/Document#cleanup()). Puede usar [UnusedStyles](https://apireference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) y [UnusedBuiltinStyles](https://apireference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedBuiltinStyles) para detectar y eliminar estilos marcados como "sin usar".  
 {{% blocks/products/pf/feature-page-code %}}
 document
-{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-docxument.java" >}}
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-Document.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}document
 {{% /blocks/products/pf/feature-page-section %}}document
-{{% blocks/products/pf/feature-page-section  h2="Eliminar información no utilizada de un docxumento DOCX a través de Java" %}}
-Después de convertir DOCX a XLTM, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) le permite guardar su docxumento para transmitir. Si necesita guardar archivos en un flujo, debe crear un objeto FileOutputStream y luego [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) el archivo a ese objeto Stream llamando al método de guardado de [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) objeto. 
+{{% blocks/products/pf/feature-page-section  h2="Eliminar información no utilizada de un Documento DOCX a través de Java" %}}
+Después de convertir DOCX a XLTM, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) le permite guardar su Documento para transmitir. Si necesita guardar archivos en un flujo, debe crear un objeto FileOutputStream y luego [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) el archivo a ese objeto Stream llamando al método de guardado de [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) objeto. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}

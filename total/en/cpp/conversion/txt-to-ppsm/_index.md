@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to PPSM via C++
 description: Export TXT to PPSM in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/txt-to-ppsm/
+url_ignore: /cpp/conversion/txt-to-ppsm/
 family: total
 platformtag: cpp
 feature: conversion

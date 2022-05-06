@@ -1,7 +1,7 @@
 ---
 title: EMAILをODTにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMAILをODTに変換する
-url: /ja/net/conversion/email-to-odt/
+url_ignore: /ja/net/conversion/email-to-odt/
 family: total
 platformtag: net
 feature: conversion

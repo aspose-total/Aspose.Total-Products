@@ -1,7 +1,7 @@
 ---
 title: 通过 Java 将 MSG 导出为 MD
 description: 无需使用 Microsoft Word 或 Outlook 即可将 MSG 转换为 MD 的 Java API
-url: /zh/java/conversion/msg-to-md/
+url_ignore: /zh/java/conversion/msg-to-md/
 family: total
 platformtag: net
 feature: conversion

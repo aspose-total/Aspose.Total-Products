@@ -1,7 +1,7 @@
 ---
 title: Convert DOC to XLTX via .NET 
 description: Convert DOC to XLTX in C# without using Microsoft Excel or Adobe Reader
-url: /net/conversion/doc-to-xltx/
+url_ignore: /net/conversion/doc-to-xltx/
 family: total
 platformtag: net
 feature: conversion

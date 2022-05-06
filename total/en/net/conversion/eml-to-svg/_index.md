@@ -1,7 +1,7 @@
 ---
 title: C# API to Export EML to SVG
 description: Convert EML to SVG without using Microsoft Word or Outlook on .NET
-url: /net/conversion/eml-to-svg/
+url_ignore: /net/conversion/eml-to-svg/
 family: total
 platformtag: net
 feature: conversion

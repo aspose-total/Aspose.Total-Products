@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender XML ke TXT
 description: Ekspor XML ke TXT melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/xml-to-txt/
+url_ignore: /id/java/conversion/xml-to-txt/
 family: total
 platformtag: net
 feature: conversion

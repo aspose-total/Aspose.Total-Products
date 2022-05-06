@@ -1,7 +1,7 @@
 ---
 title: تحويل PPS إلى XLSB عبر C#
 description: قم بتحويل PPS إلى XLSB في C# بدون استخدام Microsoft Excel أو Powerpoint
-url: /ar/net/conversion/pps-to-xlsb/
+url_ignore: /ar/net/conversion/pps-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

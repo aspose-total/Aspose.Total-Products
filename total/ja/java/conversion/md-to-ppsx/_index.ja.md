@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してMDをPPSXに変換する
 description: MicrosoftWordを使用せずにMDをPPSXに変換するJavaAPI
-url: /ja/java/conversion/md-to-ppsx/
+url_ignore: /ja/java/conversion/md-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

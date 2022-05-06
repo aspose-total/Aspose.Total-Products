@@ -1,7 +1,7 @@
 ---
 title: Convert PDF to TSV via C# API
 description: C# API to Convert PDF File to TSV without using Microsoft Excel or Adobe Reader
-url: /net/conversion/pdf-to-tsv/
+url_ignore: /net/conversion/pdf-to-tsv/
 family: total
 platformtag: net
 feature: conversion

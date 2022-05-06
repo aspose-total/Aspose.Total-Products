@@ -1,7 +1,7 @@
 ---
 title: Xuất PCL sang POTX qua C# API
 description: .NET API để chuyển đổi PCL sang POTX mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/pcl-to-potx/
+url_ignore: /vi/net/conversion/pcl-to-potx/
 family: total
 platformtag: net
 feature: conversion

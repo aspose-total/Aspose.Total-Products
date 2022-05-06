@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PDF to MHTML
 description: Convert PDF to MHTML within C++ applications.
-url: /cpp/conversion/pdf-to-mhtml/
+url_ignore: /cpp/conversion/pdf-to-mhtml/
 family: total
 platformtag: cpp
 feature: conversion

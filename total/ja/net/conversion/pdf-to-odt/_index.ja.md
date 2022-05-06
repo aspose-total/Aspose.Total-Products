@@ -1,7 +1,7 @@
 ---
 title: PDFをODTにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにPDFをODTに変換する
-url: /ja/net/conversion/pdf-to-odt/
+url_ignore: /ja/net/conversion/pdf-to-odt/
 family: total
 platformtag: net
 feature: conversion

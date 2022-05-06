@@ -1,7 +1,7 @@
 ---
 title: Java API to Render TEX to XLSB
 description: Export TEX to XLSB via Java API without using Microsoft Excel or Adobe Reader
-url: /java/conversion/tex-to-xlsb/
+url_ignore: /java/conversion/tex-to-xlsb/
 family: total
 platformtag: java
 feature: conversion

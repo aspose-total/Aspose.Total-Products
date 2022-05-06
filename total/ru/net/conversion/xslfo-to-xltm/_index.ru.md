@@ -1,7 +1,7 @@
 ---
 title: Преобразование XSLFO в XLTM через C# API
 description: C# API для преобразования файла XSLFO в XLTM без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/xslfo-to-xltm/
+url_ignore: /ru/net/conversion/xslfo-to-xltm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert EPUB to ODS
 description: Convert EPUB to ODS via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/epub-to-ods/
+url_ignore: /cpp/conversion/epub-to-ods/
 family: total
 platformtag: cpp
 feature: conversion

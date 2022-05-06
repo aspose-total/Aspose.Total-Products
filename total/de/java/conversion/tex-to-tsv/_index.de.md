@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Rendern von TEX in TSV
 description: Exportieren Sie TEX über die Java-API in TSV, ohne Microsoft Excel oder Adobe Reader zu verwenden
-url: /de/java/conversion/tex-to-tsv/
+url_ignore: /de/java/conversion/tex-to-tsv/
 family: total
 platformtag: net
 feature: conversion

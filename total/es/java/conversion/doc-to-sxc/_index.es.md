@@ -1,7 +1,7 @@
 ---
 title: API de Java para convertir DOC a SXC
 description: Convierta DOC a SXC a través de Java sin usar Microsoft Word o Microsoft Excel
-url: /es/java/conversion/doc-to-sxc/
+url_ignore: /es/java/conversion/doc-to-sxc/
 family: total
 platformtag: net
 feature: conversion

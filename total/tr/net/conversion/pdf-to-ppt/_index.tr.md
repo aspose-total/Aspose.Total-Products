@@ -1,7 +1,7 @@
 ---
 title: PDF'yi C# API aracılığıyla PPT'ye aktarın
 description: Microsoft Word kullanmadan PDF'yi PPT'ye dönüştürmek için .NET API
-url: /tr/net/conversion/pdf-to-ppt/
+url_ignore: /tr/net/conversion/pdf-to-ppt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: PSをMARKDOWNにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにPSをMARKDOWNに変換する
-url: /ja/net/conversion/ps-to-markdown/
+url_ignore: /ja/net/conversion/ps-to-markdown/
 family: total
 platformtag: net
 feature: conversion

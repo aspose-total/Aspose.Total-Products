@@ -1,7 +1,7 @@
 ---
 title: Convertir le format JSON en ODT via .NET
 description: Analyser JSON en ODT en C# sans utiliser Microsoft Word
-url: /fr/net/conversion/json-to-odt/
+url_ignore: /fr/net/conversion/json-to-odt/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: DOTX WORD DOT RTF DOC DOCM MOBI OTT WORDML PCL ODT PS FLATOPC EPUB
 {{< blocks/products/pf/i18n/feature-page-header h1="Convertir le format JSON en ODT via C#" h2="API C# pour analyser JSON vers ODT sans utiliser Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), vous pouvez analyser JSON en ODT dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. pas. Tout d'abord, en utilisant [Aspose.Cells pour .NET](https://products.aspose.com/cells/net/), vous pouvez exporter JSON au format PDF. Après cela, en utilisant [Aspose.Words pour .NET](https://products.aspose.com/words/net/), vous pouvez convertir un PDF en ODT.
+En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez analyser JSON en ODT dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. pas. Tout d'abord, en utilisant [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), vous pouvez exporter JSON au format PDF. Après cela, en utilisant [Aspose.Words for .NET](https://products.aspose.com/words/net/), vous pouvez convertir un PDF en ODT.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

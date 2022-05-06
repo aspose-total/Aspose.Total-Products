@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PDF to XAMLFLOW
 description: Convert PDF to XAMLFLOW within C++ applications.
-url: /cpp/conversion/pdf-to-xamlflow/
+url_ignore: /cpp/conversion/pdf-to-xamlflow/
 family: total
 platformtag: cpp
 feature: conversion

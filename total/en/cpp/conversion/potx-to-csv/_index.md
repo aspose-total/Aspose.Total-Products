@@ -1,7 +1,7 @@
 ---
 title: Convert POTX to CSV via C++ 
 description: Export POTX to CSV in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/potx-to-csv/
+url_ignore: /cpp/conversion/potx-to-csv/
 family: total
 platformtag: cpp
 feature: conversion

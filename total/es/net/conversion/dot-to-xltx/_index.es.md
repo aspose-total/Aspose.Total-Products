@@ -1,7 +1,7 @@
 ---
 title: API .NET para convertir DOT a XLTX
 description: API de C# para convertir DOT a XLTX sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/dot-to-xltx/
+url_ignore: /es/net/conversion/dot-to-xltx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C#-API zum Exportieren von E-MAIL nach PCL
 description: Konvertieren Sie E-MAIL in PCL, ohne Microsoft Word oder Outlook auf .NET zu verwenden
-url: /de/net/conversion/emlx-to-pcl/
+url_ignore: /de/net/conversion/emlx-to-pcl/
 family: total
 platformtag: net
 feature: conversion

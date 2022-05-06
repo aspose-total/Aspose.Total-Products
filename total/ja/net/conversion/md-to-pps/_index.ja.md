@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMDをPPSにエクスポートする
 description: MicrosoftWordを使用せずにMDをPPSに変換する.NETAPI
-url: /ja/net/conversion/md-to-pps/
+url_ignore: /ja/net/conversion/md-to-pps/
 family: total
 platformtag: net
 feature: conversion

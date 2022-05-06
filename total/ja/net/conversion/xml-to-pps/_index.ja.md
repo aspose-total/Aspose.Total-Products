@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXMLをPPSにエクスポートする
 description: MicrosoftWordを使用せずにXMLをPPSに変換する.NETAPI
-url: /ja/net/conversion/xml-to-pps/
+url_ignore: /ja/net/conversion/xml-to-pps/
 family: total
 platformtag: net
 feature: conversion

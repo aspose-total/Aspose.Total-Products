@@ -1,7 +1,7 @@
 ---
 title: Convert PPS to XLTM via C++ 
 description: Export PPS to XLTM in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pps-to-xltm/
+url_ignore: /cpp/conversion/pps-to-xltm/
 family: total
 platformtag: cpp
 feature: conversion

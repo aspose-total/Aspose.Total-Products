@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PS to EXCEL
 description: Convert PS to EXCEL via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/ps-to-excel/
+url_ignore: /cpp/conversion/ps-to-excel/
 family: total
 platformtag: cpp
 feature: conversion

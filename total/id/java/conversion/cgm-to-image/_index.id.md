@@ -1,7 +1,7 @@
 ---
 title: Konversi CGM ke IMAGE melalui Java
 description: Ekspor file CGM ke IMAGE di aplikasi Java Anda tanpa menggunakan aplikasi pihak ketiga
-url: /id/java/conversion/cgm-to-image/
+url_ignore: /id/java/conversion/cgm-to-image/
 family: total
 platformtag: net
 feature: conversion

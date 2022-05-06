@@ -1,7 +1,7 @@
 ---
 title: Java経由でDOCMをPPSに変換する
 description: MicrosoftWordやPowerPointを使用せずにDOCMをPPSにエクスポートするJavaAPI
-url: /ja/java/conversion/docm-to-pps/
+url_ignore: /ja/java/conversion/docm-to-pps/
 family: total
 platformtag: net
 feature: conversion
@@ -16,8 +16,8 @@ otherformats: PPSX PPTX POWERPOINT POT POTX PPTM PPSM PPT POTM PPS CSV DIF FODS 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Javaを介してDOCMをPPSに変換する方法" %}}
-1. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Docmument)クラスを使用してDOCMファイルを開きます
-2. [save](https://apireference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions)を使用してDOCMファイルをHTMLに変換します)) 方法
+1. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)クラスを使用してDOCMファイルを開きます
+2. [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)を使用してDOCMファイルをHTMLに変換します)) 方法
 3.新しい[Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)オブジェクトを初期化します
 5. BufferedReaderを使用してHTMLファイルからコンテンツを抽出し、プレゼンテーションファイルにコンテンツを書き込みます
 6. [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)メソッドを使用してドキュメントをPPSに保存します
@@ -35,7 +35,7 @@ DOCMからPPSファイルへの変換では、[Maven](https://repository.aspose.
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="変換要件" %}}
-APIを使用すると、パスワードで保護されたDOCMドキュメントをPPSに変換することもできます。入力DOCMドキュメントがパスワードで保護されている場合、パスワードを使用せずにPPS形式に変換することはできません。暗号化されたドキュメントを開くには、LoadOptionsオブジェクトに正しいパスワードを設定し、それをDocmumentコンストラクターに渡すことができます。  
+APIを使用すると、パスワードで保護されたDOCMドキュメントをPPSに変換することもできます。入力DOCMドキュメントがパスワードで保護されている場合、パスワードを使用せずにPPS形式に変換することはできません。暗号化されたドキュメントを開くには、LoadOptionsオブジェクトに正しいパスワードを設定し、それをDocumentコンストラクターに渡すことができます。  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-docm-to-pptx-with-watermark.java" >}}

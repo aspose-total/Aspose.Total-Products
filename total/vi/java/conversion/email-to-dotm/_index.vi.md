@@ -1,7 +1,7 @@
 ---
 title: Xuất EMAIL sang DOTM qua Java
 description: Java API để chuyển đổi EMAIL thành DOTM mà không cần sử dụng Microsoft Word hoặc Outlook
-url: /vi/java/conversion/email-to-dotm/
+url_ignore: /vi/java/conversion/email-to-dotm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı DOC'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan EMAIL'i DOC'ye dönüştürün
-url: /tr/net/conversion/email-to-doc/
+url_ignore: /tr/net/conversion/email-to-doc/
 family: total
 platformtag: net
 feature: conversion

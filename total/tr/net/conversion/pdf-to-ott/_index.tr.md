@@ -1,7 +1,7 @@
 ---
 title: PDF'yi OTT'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan PDF'yi OTT'ye dönüştürün
-url: /tr/net/conversion/pdf-to-ott/
+url_ignore: /tr/net/conversion/pdf-to-ott/
 family: total
 platformtag: net
 feature: conversion

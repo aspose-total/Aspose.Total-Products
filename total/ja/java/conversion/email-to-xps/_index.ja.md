@@ -1,7 +1,7 @@
 ---
 title: Java経由でEMAILをXPSにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにEMAILをXPSに変換するJavaAPI
-url: /ja/java/conversion/email-to-xps/
+url_ignore: /ja/java/conversion/email-to-xps/
 family: total
 platformtag: net
 feature: conversion

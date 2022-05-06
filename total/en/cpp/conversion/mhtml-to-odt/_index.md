@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export MHTML to ODT
 description: Convert MHTML to ODT within C++ applications.
-url: /cpp/conversion/mhtml-to-odt/
+url_ignore: /cpp/conversion/mhtml-to-odt/
 family: total
 platformtag: cpp
 feature: conversion

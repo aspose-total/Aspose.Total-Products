@@ -1,7 +1,7 @@
 ---
 title: Convert DOC to PPTM via C++
 description: Export DOC to PPTM in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/doc-to-pptm/
+url_ignore: /cpp/conversion/doc-to-pptm/
 family: total
 platformtag: cpp
 feature: conversion

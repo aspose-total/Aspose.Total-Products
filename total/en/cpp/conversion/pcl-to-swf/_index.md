@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PCL to SWF  
 description: Convert PCL to SWF via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/pcl-to-swf/
+url_ignore: /cpp/conversion/pcl-to-swf/
 family: total
 platformtag: cpp
 feature: conversion

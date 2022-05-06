@@ -1,7 +1,7 @@
 ---
 title: C# API to Export EML to DOC
 description: Convert EML to DOC without using Microsoft Word or Outlook on .NET
-url: /net/conversion/eml-to-doc/
+url_ignore: /net/conversion/eml-to-doc/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: CGM'yi WORDML'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak CGM'yi WORDML'ye dönüştürün
-url: /tr/java/conversion/cgm-to-wordml/
+url_ignore: /tr/java/conversion/cgm-to-wordml/
 family: total
 platformtag: net
 feature: conversion

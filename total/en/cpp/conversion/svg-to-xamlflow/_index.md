@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export SVG to XAMLFLOW
 description: Convert SVG to XAMLFLOW within C++ applications.
-url: /cpp/conversion/svg-to-xamlflow/
+url_ignore: /cpp/conversion/svg-to-xamlflow/
 family: total
 platformtag: cpp
 feature: conversion

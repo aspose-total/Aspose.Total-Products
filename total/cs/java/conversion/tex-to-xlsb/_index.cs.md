@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení TEX do XLSB
 description: Export TEX do XLSB přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/tex-to-xlsb/
+url_ignore: /cs/java/conversion/tex-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

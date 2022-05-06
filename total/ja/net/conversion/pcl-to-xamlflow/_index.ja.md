@@ -1,7 +1,7 @@
 ---
 title: PCLをXAMLFLOWにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにPCLをXAMLFLOWに変換する
-url: /ja/net/conversion/pcl-to-xamlflow/
+url_ignore: /ja/net/conversion/pcl-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

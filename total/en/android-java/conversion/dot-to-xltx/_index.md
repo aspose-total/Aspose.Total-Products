@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOT to XLTX
 description: Convert DOT to XLTX in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/dot-to-xltx/
+url_ignore: /android-java/conversion/dot-to-xltx/
 family: total
 platformtag: android-java
 feature: conversion

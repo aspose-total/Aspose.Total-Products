@@ -1,7 +1,7 @@
 ---
 title: ODTをODSに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにODTをODSに変換するC＃API
-url: /ja/net/conversion/odt-to-ods/
+url_ignore: /ja/net/conversion/odt-to-ods/
 family: total
 platformtag: net
 feature: conversion

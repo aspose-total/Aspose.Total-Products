@@ -1,7 +1,7 @@
 ---
 title: MDをODTにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにMDをODTに変換する
-url: /ja/net/conversion/md-to-odt/
+url_ignore: /ja/net/conversion/md-to-odt/
 family: total
 platformtag: net
 feature: conversion

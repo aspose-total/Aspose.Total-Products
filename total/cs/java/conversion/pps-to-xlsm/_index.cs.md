@@ -1,7 +1,7 @@
 ---
 title: Převeďte PPS do formátu XLSM přes Java
 description: Převeďte PPS do formátu XLSM přes Java bez použití Microsoft Excel nebo PowerPoint
-url: /cs/java/conversion/pps-to-xlsm/
+url_ignore: /cs/java/conversion/pps-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

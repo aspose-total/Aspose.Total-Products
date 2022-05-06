@@ -1,7 +1,7 @@
 ---
 title: C# API untuk Mengekspor MSG ke IMAGE
 description: Konversi MSG ke IMAGE tanpa menggunakan Microsoft Word atau Outlook di .NET
-url: /id/net/conversion/msg-to-image/
+url_ignore: /id/net/conversion/msg-to-image/
 family: total
 platformtag: net
 feature: conversion

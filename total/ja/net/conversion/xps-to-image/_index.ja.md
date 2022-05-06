@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXPSをIMAGEに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでXPSをIMAGEにエクスポートします
-url: /ja/net/conversion/xps-to-image/
+url_ignore: /ja/net/conversion/xps-to-image/
 family: total
 platformtag: net
 feature: conversion

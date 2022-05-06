@@ -1,7 +1,7 @@
 ---
 title: PS'yi C# API aracılığıyla ODP'ye aktarın
 description: Microsoft Word kullanmadan PS'yi ODP'ye dönüştürmek için .NET API
-url: /tr/net/conversion/ps-to-odp/
+url_ignore: /tr/net/conversion/ps-to-odp/
 family: total
 platformtag: net
 feature: conversion

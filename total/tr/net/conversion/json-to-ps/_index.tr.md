@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını .NET aracılığıyla PS'ye dönüştürün
 description: Microsoft Word kullanmadan JSON'u C# ile PS'ye ayrıştırın
-url: /tr/net/conversion/json-to-ps/
+url_ignore: /tr/net/conversion/json-to-ps/
 family: total
 platformtag: net
 feature: conversion

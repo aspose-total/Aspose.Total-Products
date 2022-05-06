@@ -1,7 +1,7 @@
 ---
 title: Export EMLX to FLATOPC via C++
 description: C++ API to Convert EMLX to FLATOPC without using Microsoft Word or Outlook
-url: /cpp/conversion/emlx-to-flatopc/
+url_ignore: /cpp/conversion/emlx-to-flatopc/
 family: total
 platformtag: cpp
 feature: conversion

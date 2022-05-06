@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert CGM to TSV
 description: Convert CGM to TSV via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/cgm-to-tsv/
+url_ignore: /cpp/conversion/cgm-to-tsv/
 family: total
 platformtag: cpp
 feature: conversion

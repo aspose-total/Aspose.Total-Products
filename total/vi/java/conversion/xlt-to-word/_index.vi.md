@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi XLT sang WORD bằng Java
 description: Java API để xuất XLT sang WORD bằng Excel hoặc Word
-url: /vi/java/conversion/xlt-to-word/
+url_ignore: /vi/java/conversion/xlt-to-word/
 family: total
 platformtag: net
 feature: conversion

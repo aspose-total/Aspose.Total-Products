@@ -1,7 +1,7 @@
 ---
 title: API de Java para exportar TEX a PCL
 description: Convierta TEX a PCL usando la API de Java en las instalaciones
-url: /es/java/conversion/tex-to-pcl/
+url_ignore: /es/java/conversion/tex-to-pcl/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Převeďte PPTX do formátu XLSM přes Java
 description: Převeďte PPTX do formátu XLSM přes Java bez použití Microsoft Excel nebo PowerPoint
-url: /cs/java/conversion/pptx-to-xlsm/
+url_ignore: /cs/java/conversion/pptx-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

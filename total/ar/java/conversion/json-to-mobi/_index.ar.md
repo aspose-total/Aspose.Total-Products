@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى MOBI عبر Java
 description: تحليل JSON إلى MOBI في Java بدون استخدام Microsoft Word
-url: /ar/java/conversion/json-to-mobi/
+url_ignore: /ar/java/conversion/json-to-mobi/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPCLをPPTMにエクスポートする
 description: MicrosoftWordを使用せずにPCLをPPTMに変換する.NETAPI
-url: /ja/net/conversion/pcl-to-pptm/
+url_ignore: /ja/net/conversion/pcl-to-pptm/
 family: total
 platformtag: net
 feature: conversion

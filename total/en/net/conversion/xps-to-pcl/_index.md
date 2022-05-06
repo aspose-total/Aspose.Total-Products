@@ -1,7 +1,7 @@
 ---
 title: C# API to Export XPS to PCL
 description: Convert XPS to PCL without using Microsoft Word
-url: /net/conversion/xps-to-pcl/
+url_ignore: /net/conversion/xps-to-pcl/
 family: total
 platformtag: net
 feature: conversion

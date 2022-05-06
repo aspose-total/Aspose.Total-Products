@@ -1,7 +1,7 @@
 ---
 title: Javaを介してDOCMをJSON形式に変換する
 description: MicrosoftWordまたはMicrosoftExcelを使用せずに、Javaを介してDOCMをJSON形式に変換します
-url: /ja/java/conversion/docm-to-json/
+url_ignore: /ja/java/conversion/docm-to-json/
 family: total
 platformtag: net
 feature: conversion
@@ -16,10 +16,10 @@ otherformats: XLT XLTM FODS SXC XLAM XLS EXCEL ODS XLSM DIF XLSB XLTX TSV CSV
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Javaを介してDOCMをJSON形式に変換する" %}}
-1. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Docmument)クラスを使用してDOCMファイルを開きます
-2. [保存](https://apireference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions)を使用してDOCMをHTMLに変換します) 方法
+1. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)クラスを使用してDOCMファイルを開きます
+2. [保存](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)を使用してDOCMをHTMLに変換します) 方法
 3. [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)クラスを使用してHTMLドキュメントをロードします
-4. [保存](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells)を使用して、ドキュメントをJSON形式で保存します。 SaveOptions))メソッド
+4. [保存](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells))を使用して、ドキュメントをJSON形式で保存します。 SaveOptions))メソッド
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)ベースのプロジェクトから直接Aspose.TotalforJavaを簡単に使用できますそして、pom.xmlにライブラリを含めます。

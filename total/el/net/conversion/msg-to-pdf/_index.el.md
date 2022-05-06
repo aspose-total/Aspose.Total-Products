@@ -1,7 +1,7 @@
 ---
 title: C# API για εξαγωγή MSG σε PDF
 description: Μετατροπή MSG σε PDF χωρίς χρήση του Microsoft Word ή του Outlook στο .NET
-url: /el/net/conversion/msg-to-pdf/
+url_ignore: /el/net/conversion/msg-to-pdf/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to JSON format via .NET 
 description: Convert WORD to JSON in C# without using Microsoft Excel or Adobe Reader
-url: /net/conversion/word-to-json/
+url_ignore: /net/conversion/word-to-json/
 family: total
 platformtag: net
 feature: conversion

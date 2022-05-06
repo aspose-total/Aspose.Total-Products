@@ -1,7 +1,7 @@
 ---
 title: Android API to Render MHTML to DOTM
 description: Transform MHTML to DOTM via Android via Java API
-url: /android-java/conversion/mhtml-to-dotm/
+url_ignore: /android-java/conversion/mhtml-to-dotm/
 family: total
 platformtag: android-java
 feature: conversion

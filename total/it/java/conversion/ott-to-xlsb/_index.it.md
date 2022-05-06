@@ -1,7 +1,7 @@
 ---
 title: API Java per convertire OTT in XLSB
 description: Converti OTT in XLSB tramite Java senza utilizzare Microsoft Word o Microsoft Excel
-url: /it/java/conversion/ott-to-xlsb/
+url_ignore: /it/java/conversion/ott-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

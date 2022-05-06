@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをSWFにエクスポートする
 description: MicrosoftWordを使用せずにPDFをSWFに変換する.NETAPI
-url: /ja/net/conversion/pdf-to-swf/
+url_ignore: /ja/net/conversion/pdf-to-swf/
 family: total
 platformtag: net
 feature: conversion

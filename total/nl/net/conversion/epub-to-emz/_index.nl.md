@@ -1,7 +1,7 @@
 ---
 title: Converteer EPUB naar EMZ via C# API
 description: Exporteer EPUB naar EMZ in uw .NET-toepassingen zonder een toepassing van derden te gebruiken
-url: /nl/net/conversion/epub-to-emz/
+url_ignore: /nl/net/conversion/epub-to-emz/
 family: total
 platformtag: net
 feature: conversion

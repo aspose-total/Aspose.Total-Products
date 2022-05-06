@@ -1,7 +1,7 @@
 ---
 title: Převést PPSM na MARKDOWN přes C#
 description: Převeďte PPSM na MARKDOWN v C# bez použití Microsoft Excel nebo Powerpoint
-url: /cs/net/conversion/ppsm-to-markdown/
+url_ignore: /cs/net/conversion/ppsm-to-markdown/
 family: total
 platformtag: net
 feature: conversion

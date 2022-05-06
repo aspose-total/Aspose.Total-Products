@@ -1,7 +1,7 @@
 ---
 title: EMAIL'i Java aracılığıyla WORD'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan EMAIL'i WORD'ye Dönüştürmek için Java API
-url: /tr/java/conversion/email-to-word/
+url_ignore: /tr/java/conversion/email-to-word/
 family: total
 platformtag: net
 feature: conversion

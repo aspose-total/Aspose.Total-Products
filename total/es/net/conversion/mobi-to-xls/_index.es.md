@@ -1,7 +1,7 @@
 ---
 title: API .NET para convertir MOBI a XLS
 description: API de C# para convertir MOBI a XLS sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/mobi-to-xls/
+url_ignore: /es/net/conversion/mobi-to-xls/
 family: total
 platformtag: net
 feature: conversion

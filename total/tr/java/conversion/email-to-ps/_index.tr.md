@@ -1,7 +1,7 @@
 ---
 title: EMAIL'i Java aracılığıyla PS'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan EMAIL'i PS'ye Dönüştürmek için Java API
-url: /tr/java/conversion/email-to-ps/
+url_ignore: /tr/java/conversion/email-to-ps/
 family: total
 platformtag: net
 feature: conversion

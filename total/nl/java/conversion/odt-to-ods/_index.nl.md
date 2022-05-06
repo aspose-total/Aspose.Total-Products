@@ -1,7 +1,7 @@
 ---
 title: Java API om ODT naar ODS te converteren
 description: Converteer ODT naar ODS via Java zonder Microsoft Word of Microsoft Excel te gebruiken
-url: /nl/java/conversion/odt-to-ods/
+url_ignore: /nl/java/conversion/odt-to-ods/
 family: total
 platformtag: net
 feature: conversion

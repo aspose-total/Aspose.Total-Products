@@ -1,7 +1,7 @@
 ---
 title: .NET API to Convert RTF to ODS 
 description: C# API to Convert RTF to ODS without using Microsoft Excel or Adobe Reader
-url: /net/conversion/rtf-to-ods/
+url_ignore: /net/conversion/rtf-to-ods/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تحويل POTM إلى تنسيق TSV عبر Java
 description: قم بتحويل POTM إلى تنسيق TSV عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/potm-to-tsv/
+url_ignore: /ar/java/conversion/potm-to-tsv/
 family: total
 platformtag: net
 feature: conversion

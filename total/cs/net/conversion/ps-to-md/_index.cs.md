@@ -1,7 +1,7 @@
 ---
 title: Převeďte PS na MD přes C# API
 description: C# API pro převod souboru PS do MD bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/ps-to-md/
+url_ignore: /cs/net/conversion/ps-to-md/
 family: total
 platformtag: net
 feature: conversion

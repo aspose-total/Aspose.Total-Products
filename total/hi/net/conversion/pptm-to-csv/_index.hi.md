@@ -1,7 +1,7 @@
 ---
 title: सी # के माध्यम से पीओटी को सीएसवी में कनवर्ट करें
 description: Microsoft Excel या Powerpoint का उपयोग किए बिना PPTM को CSV में C# में बदलें
-url: /hi/net/conversion/pptm-to-csv/
+url_ignore: /hi/net/conversion/pptm-to-csv/
 family: total
 platformtag: net
 feature: conversion

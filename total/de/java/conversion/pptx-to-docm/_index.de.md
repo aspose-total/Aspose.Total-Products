@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie PPTX über Java in DOCM
 description: Java-API zum Exportieren von PPTX nach DOCM, ohne Microsoft Word oder PowerPoint zu verwenden
-url: /de/java/conversion/pptx-to-docm/
+url_ignore: /de/java/conversion/pptx-to-docm/
 family: total
 platformtag: net
 feature: conversion
@@ -34,7 +34,7 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://downloads.aspose.c
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Konvertierungsanforderungen" %}}
-Mit der API können Sie auch eine PPTX-Datei in eine DOCM-Konvertierung mit Wasserzeichen durchführen. Um Ihrem DOCM-Dokument ein Wasserzeichen hinzuzufügen, können Sie zuerst die PPTX-Datei in HTML konvertieren und ihr ein Wasserzeichen hinzufügen. Um ein Wasserzeichen hinzuzufügen, laden Sie die neu erstellte HTML-Datei mit der Klasse [Docmument](https://apireference.aspose.com/words/java/com.aspose.words/Docmument), erstellen Sie eine Instanz von TextWatermarkOptions und setzen Sie sie seine Eigenschaften, Methode Watermark.setText aufrufen und Wasserzeichentext und Objekt von TextWatermarkOptions übergeben.  
+Mit der API können Sie auch eine PPTX-Datei in eine DOCM-Konvertierung mit Wasserzeichen durchführen. Um Ihrem DOCM-Dokument ein Wasserzeichen hinzuzufügen, können Sie zuerst die PPTX-Datei in HTML konvertieren und ihr ein Wasserzeichen hinzufügen. Um ein Wasserzeichen hinzuzufügen, laden Sie die neu erstellte HTML-Datei mit der Klasse [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document), erstellen Sie eine Instanz von TextWatermarkOptions und setzen Sie sie seine Eigenschaften, Methode Watermark.setText aufrufen und Wasserzeichentext und Objekt von TextWatermarkOptions übergeben.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}

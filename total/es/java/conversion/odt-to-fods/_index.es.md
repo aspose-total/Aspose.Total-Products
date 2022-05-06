@@ -1,7 +1,7 @@
 ---
 title: API de Java para convertir ODT a FODS
 description: Convierta ODT a FODS a través de Java sin usar Microsoft Word o Microsoft Excel
-url: /es/java/conversion/odt-to-fods/
+url_ignore: /es/java/conversion/odt-to-fods/
 family: total
 platformtag: net
 feature: conversion

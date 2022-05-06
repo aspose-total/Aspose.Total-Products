@@ -1,7 +1,7 @@
 ---
 title: Java API do eksportu PCL do WORDML
 description: Konwertuj PCL na WORDML za pomocą lokalnego interfejsu Java API
-url: /pl/java/conversion/pcl-to-wordml/
+url_ignore: /pl/java/conversion/pcl-to-wordml/
 family: total
 platformtag: net
 feature: conversion
@@ -37,7 +37,8 @@ document.save("DocOutput.doc", SaveFormat.DOC);
 Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 // call save method while passing SaveFormat.WORD_ML
 outputDocument.save("output.word_ml", SaveFormat.WORD_ML);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Wymagania dotyczące konwersji" %}}
@@ -49,7 +50,8 @@ Podczas konwersji PCL na WORDML, nawet jeśli dokument jest chroniony hasłem, n
 Document document = new Document("input.pcl", "password");
 // save PCL as a DOC 
 document.save("DocOutput.doc", SaveFormat.DOC);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Otwórz dokument PCL chroniony hasłem przez Java" %}}
@@ -73,7 +75,8 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
     Statement statement = mConnection.createStatement();
     statement.executeUpdate(commandString);
 }  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

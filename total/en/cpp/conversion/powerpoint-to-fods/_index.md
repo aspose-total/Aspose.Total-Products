@@ -1,7 +1,7 @@
 ---
 title: Convert POWERPOINT to FODS via C++ 
 description: Export POWERPOINT to FODS in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/powerpoint-to-fods/
+url_ignore: /cpp/conversion/powerpoint-to-fods/
 family: total
 platformtag: cpp
 feature: conversion

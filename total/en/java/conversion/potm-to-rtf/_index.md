@@ -1,7 +1,7 @@
 ---
 title: Convert POTM to RTF via Java
 description: Java API to Export POTM to RTF without using Microsoft Word or PowerPoint
-url: /java/conversion/potm-to-rtf/
+url_ignore: /java/conversion/potm-to-rtf/
 family: total
 platformtag: java
 feature: conversion

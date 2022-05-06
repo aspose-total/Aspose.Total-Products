@@ -1,7 +1,7 @@
 ---
 title: Android API to Render MD to MARKDOWN
 description: Transform MD to MARKDOWN via Android via Java API
-url: /android-java/conversion/md-to-markdown/
+url_ignore: /android-java/conversion/md-to-markdown/
 family: total
 platformtag: android-java
 feature: conversion

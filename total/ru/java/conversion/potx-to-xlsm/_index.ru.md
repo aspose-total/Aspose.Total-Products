@@ -1,7 +1,7 @@
 ---
 title: Преобразование POTX в формат XLSM через Java
 description: Преобразуйте формат POTX в XLSM через Java без использования Microsoft Excel или PowerPoint.
-url: /ru/java/conversion/potx-to-xlsm/
+url_ignore: /ru/java/conversion/potx-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

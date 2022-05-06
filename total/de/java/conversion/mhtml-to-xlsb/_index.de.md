@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Rendern von MHTML in XLSB
 description: Exportieren Sie MHTML über die Java-API in XLSB, ohne Microsoft Excel oder Adobe Reader zu verwenden
-url: /de/java/conversion/mhtml-to-xlsb/
+url_ignore: /de/java/conversion/mhtml-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

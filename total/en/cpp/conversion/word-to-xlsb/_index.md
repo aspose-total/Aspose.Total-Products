@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to XLSB in C++
 description: C++ API to Convert WORD to XLSB without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/word-to-xlsb/
+url_ignore: /cpp/conversion/word-to-xlsb/
 family: total
 platformtag: cpp
 feature: conversion

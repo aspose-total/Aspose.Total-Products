@@ -1,7 +1,7 @@
 ---
 title: Convert DOCM to ODP in Android via Java
 description: DOCM to ODP conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/docm-to-odp/
+url_ignore: /android-java/conversion/docm-to-odp/
 family: total
 platformtag: android-java
 feature: conversion

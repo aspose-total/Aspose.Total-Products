@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή MHTML σε PPS μέσω Java API
 description: Java API για μετατροπή MHTML σε PPS χωρίς χρήση του Microsoft Word
-url: /el/java/conversion/mhtml-to-pps/
+url_ignore: /el/java/conversion/mhtml-to-pps/
 family: total
 platformtag: net
 feature: conversion

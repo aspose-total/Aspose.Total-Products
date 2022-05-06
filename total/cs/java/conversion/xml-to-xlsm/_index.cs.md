@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení XML do XLSM
 description: Export XML do XLSM přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/xml-to-xlsm/
+url_ignore: /cs/java/conversion/xml-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

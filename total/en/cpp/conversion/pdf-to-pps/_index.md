@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PDF to PPS  
 description: Convert PDF to PPS via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/pdf-to-pps/
+url_ignore: /cpp/conversion/pdf-to-pps/
 family: total
 platformtag: cpp
 feature: conversion

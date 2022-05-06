@@ -1,7 +1,7 @@
 ---
 title: TEX'yi XLSM'ye Dönüştürmek için Java API
 description: Microsoft Excel veya Adobe Reader kullanmadan TEX'yi Java API aracılığıyla XLSM'ye aktarın
-url: /tr/java/conversion/tex-to-xlsm/
+url_ignore: /tr/java/conversion/tex-to-xlsm/
 family: total
 platformtag: net
 feature: conversion
@@ -19,7 +19,7 @@ otherformats: SXC FODS XLT XLTM EXCEL XLSM XLTX XLSB ODS XLAM TXT TSV
 1. [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) sınıfını kullanarak TEX dosyasını açın
 2. [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- kullanarak TEX'yi XLSX'e dönüştürün) ) yöntem
 3. [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak XLSX belgesini yükleyin
-4. Belgeyi [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells) kullanarak XLSM formatına kaydedin. SaveOptions)) yöntemi
+4. Belgeyi [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells)) kullanarak XLSM formatına kaydedin. SaveOptions)) yöntemi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Dönüşüm Gereksinimleri" %}}
 Aspose.Total for Java'yı doğrudan [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) tabanlı bir projeden kolayca kullanabilirsiniz. ve [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) ve [Aspose.Cells for Java](https://docs.aspose.com/cells/java/) içerir kurulum/) pom.xml dosyanızda.

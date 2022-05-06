@@ -1,7 +1,7 @@
 ---
 title: XPS'yi C# API aracılığıyla PPSM'ye aktarın
 description: Microsoft Word kullanmadan XPS'yi PPSM'ye dönüştürmek için .NET API
-url: /tr/net/conversion/xps-to-ppsm/
+url_ignore: /tr/net/conversion/xps-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

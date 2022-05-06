@@ -1,7 +1,7 @@
 ---
 title: Convert PPS to XLTM Format via Java
 description: Convert PPS to XLTM format via Java without using using Microsoft Excel or PowerPoint
-url: /java/conversion/pps-to-xltm/
+url_ignore: /java/conversion/pps-to-xltm/
 family: total
 platformtag: java
 feature: conversion

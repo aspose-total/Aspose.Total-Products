@@ -1,7 +1,7 @@
 ---
 title: แปลงรูปแบบ JSON เป็น PCL ผ่าน .NET
 description: แยก JSON เป็น PCL ใน C# โดยไม่ต้องใช้ Microsoft Word
-url: /th/net/conversion/json-to-pcl/
+url_ignore: /th/net/conversion/json-to-pcl/
 family: total
 platformtag: net
 feature: conversion

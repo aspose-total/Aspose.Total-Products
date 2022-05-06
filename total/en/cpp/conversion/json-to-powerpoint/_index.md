@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to POWERPOINT via C++ 
 description: Parse JSON to POWERPOINT in C++ without using Microsoft PowerPoint
-url: /cpp/conversion/json-to-powerpoint/
+url_ignore: /cpp/conversion/json-to-powerpoint/
 family: total
 platformtag: cpp
 feature: conversion

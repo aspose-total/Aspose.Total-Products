@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to PPSM via C++
 description: Export WORD to PPSM in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/word-to-ppsm/
+url_ignore: /cpp/conversion/word-to-ppsm/
 family: total
 platformtag: cpp
 feature: conversion

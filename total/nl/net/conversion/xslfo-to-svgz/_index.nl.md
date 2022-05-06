@@ -1,7 +1,7 @@
 ---
 title: Converteer XSLFO naar SVGZ via C# API
 description: Exporteer XSLFO naar SVGZ in uw .NET-toepassingen zonder een toepassing van derden te gebruiken
-url: /nl/net/conversion/xslfo-to-svgz/
+url_ignore: /nl/net/conversion/xslfo-to-svgz/
 family: total
 platformtag: net
 feature: conversion

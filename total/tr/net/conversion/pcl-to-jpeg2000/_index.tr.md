@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla PCL'yi JPEG2000'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan PCL'yi .NET uygulamalarınızda JPEG2000'ye aktarın
-url: /tr/net/conversion/pcl-to-jpeg2000/
+url_ignore: /tr/net/conversion/pcl-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

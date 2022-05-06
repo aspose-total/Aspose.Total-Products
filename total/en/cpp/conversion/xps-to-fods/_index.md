@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XPS to FODS
 description: Convert XPS to FODS via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xps-to-fods/
+url_ignore: /cpp/conversion/xps-to-fods/
 family: total
 platformtag: cpp
 feature: conversion

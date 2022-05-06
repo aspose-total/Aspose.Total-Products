@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to DOC with .NET 
 description: Convert CSV to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms
-url: /net/conversion/csv-to-doc/
+url_ignore: /net/conversion/csv-to-doc/
 family: total
 platformtag: net
 feature: conversion

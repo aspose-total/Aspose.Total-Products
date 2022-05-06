@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXSLFOをDICOMに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでXSLFOをDICOMにエクスポートします
-url: /ja/net/conversion/xslfo-to-dicom/
+url_ignore: /ja/net/conversion/xslfo-to-dicom/
 family: total
 platformtag: net
 feature: conversion

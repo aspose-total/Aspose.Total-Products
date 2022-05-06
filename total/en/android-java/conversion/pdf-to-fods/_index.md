@@ -1,7 +1,7 @@
 ---
 title: Convert PDF to FODS in Android via Java
 description: Render PDF to FODS in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/pdf-to-fods/
+url_ignore: /android-java/conversion/pdf-to-fods/
 family: total
 platformtag: android-java
 feature: conversion

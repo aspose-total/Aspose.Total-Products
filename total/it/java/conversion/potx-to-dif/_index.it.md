@@ -1,7 +1,7 @@
 ---
 title: Converti POTX in formato DIF tramite Java
 description: Converti POTX in formato DIF tramite Java senza utilizzare Microsoft Excel o PowerPoint
-url: /it/java/conversion/potx-to-dif/
+url_ignore: /it/java/conversion/potx-to-dif/
 family: total
 platformtag: net
 feature: conversion

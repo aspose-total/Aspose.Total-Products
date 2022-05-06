@@ -1,7 +1,7 @@
 ---
 title: Xuất SVG sang XAML qua C# API
 description: .NET API để chuyển đổi SVG sang XAML mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/svg-to-xaml/
+url_ignore: /vi/net/conversion/svg-to-xaml/
 family: total
 platformtag: net
 feature: conversion

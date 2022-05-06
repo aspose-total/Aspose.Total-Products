@@ -1,7 +1,7 @@
 ---
 title: MD'yi FLATOPC'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan MD'yi FLATOPC'ye dönüştürün
-url: /tr/net/conversion/md-to-flatopc/
+url_ignore: /tr/net/conversion/md-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

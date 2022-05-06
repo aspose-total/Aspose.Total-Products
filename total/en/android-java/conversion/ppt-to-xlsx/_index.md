@@ -1,7 +1,7 @@
 ---
 title: Convert PPT to XLSX in Android via Java
 description: Convert PPT to XLSX in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/ppt-to-xlsx/
+url_ignore: /android-java/conversion/ppt-to-xlsx/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender MD ke DIF
 description: Ekspor MD ke DIF melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/md-to-dif/
+url_ignore: /id/java/conversion/md-to-dif/
 family: total
 platformtag: net
 feature: conversion

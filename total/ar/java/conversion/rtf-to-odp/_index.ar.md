@@ -1,7 +1,7 @@
 ---
 title: تحويل RTF إلى ODP عبر Java
 description: Java API لتصدير RTF إلى ODP دون استخدام Microsoft Word أو PowerPoint
-url: /ar/java/conversion/rtf-to-odp/
+url_ignore: /ar/java/conversion/rtf-to-odp/
 family: total
 platformtag: net
 feature: conversion
@@ -16,9 +16,9 @@ otherformats: PPT POTX PPTM PPS POWERPOINT POT PPTX POTM PPSX PPSM CSV DIF FODS 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل RTF إلى ODP عبر Java" %}}
-1. افتح ملف RTF باستخدام فئة [Rtfument](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument)
-2. تحويل ملف RTF إلى HTML باستخدام [Save](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument#save(java.lang.String.com.aspose.words.SaveOptions)) طريقة
-3. تهيئة كائن [عرض تقديمي] جديد (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+1. افتح ملف RTF باستخدام فئة [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. تحويل ملف RTF إلى HTML باستخدام [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String.com.aspose.words.SaveOptions)) طريقة
+3. [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) جديد تهيئة كائن
 5. استخراج المحتوى من ملف HTML باستخدام BufferedReader وكتابة المحتوى في ملف العرض التقديمي الخاص بك
 6. احفظ المستند في ODP باستخدام طريقة [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}

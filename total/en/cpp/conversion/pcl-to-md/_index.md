@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PCL to MD
 description: Convert PCL to MD via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/pcl-to-md/
+url_ignore: /cpp/conversion/pcl-to-md/
 family: total
 platformtag: cpp
 feature: conversion

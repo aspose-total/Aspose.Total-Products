@@ -1,7 +1,7 @@
 ---
 title: Преобразование POWERPOINT в формат EXCEL через Java
 description: Преобразуйте формат POWERPOINT в EXCEL через Java без использования Microsoft Excel или PowerPoint.
-url: /ru/java/conversion/powerpoint-to-excel/
+url_ignore: /ru/java/conversion/powerpoint-to-excel/
 family: total
 platformtag: net
 feature: conversion

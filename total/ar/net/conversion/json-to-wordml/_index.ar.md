@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى WORDML عبر .NET
 description: تحليل JSON إلى WORDML في C# بدون استخدام Microsoft Word
-url: /ar/net/conversion/json-to-wordml/
+url_ignore: /ar/net/conversion/json-to-wordml/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converter SVG para SWF via API Java
 description: API Java para converter SVG para SWF sem usar o Microsoft Word
-url: /pt/java/conversion/svg-to-swf/
+url_ignore: /pt/java/conversion/svg-to-swf/
 family: total
 platformtag: net
 feature: conversion

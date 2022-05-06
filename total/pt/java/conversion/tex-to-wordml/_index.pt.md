@@ -1,7 +1,7 @@
 ---
 title: API Java para exportar TEX para WORDML
 description: Converter TEX para WORDML usando a API Java local
-url: /pt/java/conversion/tex-to-wordml/
+url_ignore: /pt/java/conversion/tex-to-wordml/
 family: total
 platformtag: net
 feature: conversion

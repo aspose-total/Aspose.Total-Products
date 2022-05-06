@@ -1,7 +1,7 @@
 ---
 title: C#-API zum Exportieren von MD nach GIF
 description: Konvertieren Sie MD in GIF, ohne Microsoft Word zu verwenden
-url: /de/net/conversion/md-to-gif/
+url_ignore: /de/net/conversion/md-to-gif/
 family: total
 platformtag: net
 feature: conversion

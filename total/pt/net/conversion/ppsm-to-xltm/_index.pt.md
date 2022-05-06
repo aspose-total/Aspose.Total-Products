@@ -1,7 +1,7 @@
 ---
 title: Converter PPSM para XLTM via C#
 description: Converter PPSM para XLTM em C# sem usar o Microsoft Excel ou Powerpoint
-url: /pt/net/conversion/ppsm-to-xltm/
+url_ignore: /pt/net/conversion/ppsm-to-xltm/
 family: total
 platformtag: net
 feature: conversion

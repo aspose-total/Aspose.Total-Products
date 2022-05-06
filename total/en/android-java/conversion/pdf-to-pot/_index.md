@@ -1,7 +1,7 @@
 ---
 title: Export PDF to POT in Android 
 description: Android API to Convert PDF to POT without using Microsoft Word
-url: /android-java/conversion/pdf-to-pot/
+url_ignore: /android-java/conversion/pdf-to-pot/
 family: total
 platformtag: android-java
 feature: conversion

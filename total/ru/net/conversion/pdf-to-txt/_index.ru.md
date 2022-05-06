@@ -1,7 +1,7 @@
 ---
 title: Преобразование PDF в TXT через C# API
 description: C# API для преобразования файла PDF в TXT без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/pdf-to-txt/
+url_ignore: /ru/net/conversion/pdf-to-txt/
 family: total
 platformtag: net
 feature: conversion

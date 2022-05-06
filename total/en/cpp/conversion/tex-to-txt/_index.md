@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert TEX to TXT
 description: Convert TEX to TXT via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/tex-to-txt/
+url_ignore: /cpp/conversion/tex-to-txt/
 family: total
 platformtag: cpp
 feature: conversion

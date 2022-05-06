@@ -1,7 +1,7 @@
 ---
 title: Konvertera PPSX till XLAM-format via Java
 description: Konvertera PPSX till XLAM-format via Java utan att använda Microsoft Excel eller PowerPoint
-url: /sv/java/conversion/ppsx-to-xlam/
+url_ignore: /sv/java/conversion/ppsx-to-xlam/
 family: total
 platformtag: net
 feature: conversion

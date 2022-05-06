@@ -1,7 +1,7 @@
 ---
 title: MD'yi ODT'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan MD'yi ODT'ye dönüştürün
-url: /tr/net/conversion/md-to-odt/
+url_ignore: /tr/net/conversion/md-to-odt/
 family: total
 platformtag: net
 feature: conversion

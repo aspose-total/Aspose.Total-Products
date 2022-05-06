@@ -1,7 +1,7 @@
 ---
 title: แปลงรูปแบบ JSON เป็น FLATOPC ผ่าน .NET
 description: แยก JSON เป็น FLATOPC ใน C# โดยไม่ต้องใช้ Microsoft Word
-url: /th/net/conversion/json-to-flatopc/
+url_ignore: /th/net/conversion/json-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

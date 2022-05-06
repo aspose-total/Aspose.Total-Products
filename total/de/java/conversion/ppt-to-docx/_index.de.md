@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie PPT über Java in DOCX
 description: Java-API zum Exportieren von PPT nach DOCX, ohne Microsoft Word oder PowerPoint zu verwenden
-url: /de/java/conversion/ppt-to-docx/
+url_ignore: /de/java/conversion/ppt-to-docx/
 family: total
 platformtag: net
 feature: conversion

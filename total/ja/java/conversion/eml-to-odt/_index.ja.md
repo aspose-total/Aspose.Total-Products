@@ -1,7 +1,7 @@
 ---
 title: Java経由でEMLをODTにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにEMLをODTに変換するJavaAPI
-url: /ja/java/conversion/eml-to-odt/
+url_ignore: /ja/java/conversion/eml-to-odt/
 family: total
 platformtag: net
 feature: conversion

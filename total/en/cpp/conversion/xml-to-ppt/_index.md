@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XML to PPT  
 description: Convert XML to PPT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xml-to-ppt/
+url_ignore: /cpp/conversion/xml-to-ppt/
 family: total
 platformtag: cpp
 feature: conversion

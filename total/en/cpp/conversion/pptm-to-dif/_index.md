@@ -1,7 +1,7 @@
 ---
 title: Convert PPTM to DIF via C++ 
 description: Export PPTM to DIF in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pptm-to-dif/
+url_ignore: /cpp/conversion/pptm-to-dif/
 family: total
 platformtag: cpp
 feature: conversion

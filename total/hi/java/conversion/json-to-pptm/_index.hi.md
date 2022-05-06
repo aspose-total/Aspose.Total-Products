@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से JSON प्रारूप को PPTM में बदलें
 description: Microsoft PowerPoint का उपयोग किए बिना जावा में JSON को PPTM में पार्स करें
-url: /hi/java/conversion/json-to-pptm/
+url_ignore: /hi/java/conversion/json-to-pptm/
 family: total
 platformtag: net
 feature: conversion

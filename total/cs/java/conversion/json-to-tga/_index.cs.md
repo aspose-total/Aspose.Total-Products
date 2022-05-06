@@ -1,7 +1,7 @@
 ---
 title: Převeďte formát JSON na TGA přes Java
 description: Analyzujte JSON na TGA v Javě bez použití Microsoft PowerPoint
-url: /cs/java/conversion/json-to-tga/
+url_ignore: /cs/java/conversion/json-to-tga/
 family: total
 platformtag: net
 feature: conversion

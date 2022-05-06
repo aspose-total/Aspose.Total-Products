@@ -1,7 +1,7 @@
 ---
 title: C# API를 통해 XML을 PPS로 내보내기
 description: Microsoft Word를 사용하지 않고 XML을 PPS로 변환하는 .NET API
-url: /ko/net/conversion/xml-to-pps/
+url_ignore: /ko/net/conversion/xml-to-pps/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MHTML to XLAM
 description: Convert MHTML to XLAM via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/mhtml-to-xlam/
+url_ignore: /cpp/conversion/mhtml-to-xlam/
 family: total
 platformtag: cpp
 feature: conversion

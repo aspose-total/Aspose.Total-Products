@@ -1,7 +1,7 @@
 ---
 title: C# .NET File Automation API:er - Aspose
 weight: 30
-url: /net/ 
+url_ignore: /net/ 
 description: C# ASP.NET VB.NET API:er för att skapa manipulera konvertera och rendera alla typer av dokument.
 ---
 

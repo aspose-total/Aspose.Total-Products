@@ -1,7 +1,7 @@
 ---
 title: Convert XPS to DICOM via C# API
 description: Export XPS to DICOM in your .NET applications without using any third party application 
-url: /net/conversion/xps-to-dicom/
+url_ignore: /net/conversion/xps-to-dicom/
 family: total
 platformtag: net
 feature: conversion

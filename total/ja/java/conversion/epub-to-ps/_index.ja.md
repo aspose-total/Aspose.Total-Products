@@ -1,7 +1,7 @@
 ---
 title: EPUBをPSにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してEPUBをPSに変換する
-url: /ja/java/conversion/epub-to-ps/
+url_ignore: /ja/java/conversion/epub-to-ps/
 family: total
 platformtag: net
 feature: conversion

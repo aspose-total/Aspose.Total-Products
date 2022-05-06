@@ -1,7 +1,7 @@
 ---
 title: Android API to Render EPUB to PCL
 description: Transform EPUB to PCL via Android via Java API
-url: /android-java/conversion/epub-to-pcl/
+url_ignore: /android-java/conversion/epub-to-pcl/
 family: total
 platformtag: android-java
 feature: conversion

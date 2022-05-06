@@ -1,7 +1,7 @@
 ---
 title: Convert MOBI to FODS in C++
 description: C++ API to Convert MOBI to FODS without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/mobi-to-fods/
+url_ignore: /cpp/conversion/mobi-to-fods/
 family: total
 platformtag: cpp
 feature: conversion

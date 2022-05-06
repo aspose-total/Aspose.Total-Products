@@ -1,7 +1,7 @@
 ---
 title: DOCX'yi ODS'ye Dönüştürmek için Java API
 description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla DOCX'yi ODS'ye dönüştürün
-url: /tr/java/conversion/docx-to-ods/
+url_ignore: /tr/java/conversion/docx-to-ods/
 family: total
 platformtag: net
 feature: conversion

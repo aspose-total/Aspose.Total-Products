@@ -1,7 +1,7 @@
 ---
 title: Převeďte PDF na JPEG2000 přes C# API
 description: Exportujte PDF do JPEG2000 ve svých aplikacích .NET bez použití jakékoli aplikace třetí strany
-url: /cs/net/conversion/pdf-to-jpeg2000/
+url_ignore: /cs/net/conversion/pdf-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

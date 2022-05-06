@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie CGM über die C#-API in TGA
 description: Exportieren Sie CGM in TGA in Ihren .NET-Anwendungen, ohne Anwendungen von Drittanbietern zu verwenden
-url: /de/net/conversion/cgm-to-tga/
+url_ignore: /de/net/conversion/cgm-to-tga/
 family: total
 platformtag: net
 feature: conversion

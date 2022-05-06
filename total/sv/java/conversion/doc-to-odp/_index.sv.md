@@ -1,7 +1,7 @@
 ---
 title: Konvertera DOC till ODP via Java
 description: Java API för att exportera DOC till ODP utan att använda Microsoft Word eller PowerPoint
-url: /sv/java/conversion/doc-to-odp/
+url_ignore: /sv/java/conversion/doc-to-odp/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: PSをDOTXにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してPSをDOTXに変換する
-url: /ja/java/conversion/ps-to-dotx/
+url_ignore: /ja/java/conversion/ps-to-dotx/
 family: total
 platformtag: net
 feature: conversion

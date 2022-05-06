@@ -1,7 +1,7 @@
 ---
 title: Export MHTML to OTP in Android 
 description: Android API to Convert MHTML to OTP without using Microsoft Word
-url: /android-java/conversion/mhtml-to-otp/
+url_ignore: /android-java/conversion/mhtml-to-otp/
 family: total
 platformtag: android-java
 feature: conversion

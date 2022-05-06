@@ -1,7 +1,7 @@
 ---
 title: Exportar EMAIL a TIFF a través de Java
 description: API de Java para convertir EMAIL a TIFF sin usar Microsoft Word o Outlook
-url: /es/java/conversion/email-to-tiff/
+url_ignore: /es/java/conversion/email-to-tiff/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert DOCX to PPS via C++
 description: Export DOCX to PPS in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/docx-to-pps/
+url_ignore: /cpp/conversion/docx-to-pps/
 family: total
 platformtag: cpp
 feature: conversion

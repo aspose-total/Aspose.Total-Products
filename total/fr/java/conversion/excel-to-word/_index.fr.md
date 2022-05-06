@@ -1,7 +1,7 @@
 ---
 title: Convertir EXCEL en WORD en utilisant Java
 description: API Java pour exporter EXCEL vers WORD en utilisant Excel ou Word
-url: /fr/java/conversion/excel-to-word/
+url_ignore: /fr/java/conversion/excel-to-word/
 family: total
 platformtag: net
 feature: conversion
@@ -12,7 +12,7 @@ otherformats: POWERPOINT PPTX WORD WORDX
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="API Java pour exporter EXCEL vers WORD" h2="API Java sur site pour exporter EXCEL vers WORD sans dépendre de Microsoft Excel®" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Le rendu EXCEL en WORD est un processus en deux étapes. Vous utiliserez d'abord l'API [Aspose.Cells pour Java](https://products.aspose.com/cells/java) pour convertir le wordument EXCEL donné en PDF, puis en utilisant [Aspose.Pdf pour Java](https ://products.aspose.com/pdf/java) API, vous pouvez facilement convertir votre wordument PDF en WORD. Les deux API font partie de la collection de bibliothèques d'automatisation de format de fichier [Aspose.Total pour Java](https://products.aspose.com/total/java/).
+Le rendu EXCEL en WORD est un processus en deux étapes. Vous utiliserez d'abord l'API [Aspose.Cells for Java](https://products.aspose.com/cells/java) pour convertir le wordument EXCEL donné en PDF, puis en utilisant [Aspose.Pdf for Java](https ://products.aspose.com/pdf/java) API, vous pouvez facilement convertir votre wordument PDF en WORD. Les deux API font partie de la collection de bibliothèques d'automatisation de format de fichier [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Comment convertir EXCEL en WORD via l'API Java" %}}

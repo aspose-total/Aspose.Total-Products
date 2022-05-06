@@ -1,7 +1,7 @@
 ---
 title: Konvertera PPT till XLTM-format via Java
 description: Konvertera PPT till XLTM-format via Java utan att använda Microsoft Excel eller PowerPoint
-url: /sv/java/conversion/ppt-to-xltm/
+url_ignore: /sv/java/conversion/ppt-to-xltm/
 family: total
 platformtag: net
 feature: conversion

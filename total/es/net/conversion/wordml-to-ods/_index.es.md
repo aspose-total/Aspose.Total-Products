@@ -1,7 +1,7 @@
 ---
 title: API .NET para convertir WORDML a ODS
 description: API de C# para convertir WORDML a ODS sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/wordml-to-ods/
+url_ignore: /es/net/conversion/wordml-to-ods/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert EPUB to FODS in Android via Java
 description: Render EPUB to FODS in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/epub-to-fods/
+url_ignore: /android-java/conversion/epub-to-fods/
 family: total
 platformtag: android-java
 feature: conversion

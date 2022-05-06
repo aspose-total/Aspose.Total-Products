@@ -1,7 +1,7 @@
 ---
 title: Export MHTML to PPTM via C# API
 description: .NET API to Convert MHTML to PPTM without using Microsoft Word
-url: /net/conversion/mhtml-to-pptm/
+url_ignore: /net/conversion/mhtml-to-pptm/
 family: total
 platformtag: net
 feature: conversion

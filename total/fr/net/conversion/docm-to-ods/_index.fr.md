@@ -1,7 +1,7 @@
 ---
 title: API .NET pour convertir DOCM en ODS
 description: API C# pour convertir DOCM en ODS sans utiliser Microsoft Excel ou Adobe Reader
-url: /fr/net/conversion/docm-to-ods/
+url_ignore: /fr/net/conversion/docm-to-ods/
 family: total
 platformtag: net
 feature: conversion
@@ -13,12 +13,12 @@ otherformats: XLT XLSM SXC XLAM DIF FODS XLSB TSV XLS XLTM XLSX XLTX EXCEL ODS
 {{< blocks/products/pf/i18n/feature-page-header h1="API C# pour convertir DOCM en ODS" h2="Exportez DOCM vers ODS via C# sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), vous pouvez inclure la fonction de conversion DOCM vers ODS dans n'importe quelle application .NET, C#, ASP.NET et VB.NET dans deux étapes simples. Tout d'abord, en utilisant [Aspose.Words pour .NET](https://products.aspose.com/words/net/), vous pouvez exporter DOCM vers HTML. Après cela, en utilisant [Aspose.Cells pour .NET](https://products.aspose.com/cells/net/) API de programmation de feuille de calcul, vous pouvez convertir HTML en ODS.
+En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez inclure la fonction de conversion DOCM vers ODS dans n'importe quelle application .NET, C#, ASP.NET et VB.NET dans deux étapes simples. Tout d'abord, en utilisant [Aspose.Words for .NET](https://products.aspose.com/words/net/), vous pouvez exporter DOCM vers HTML. Après cela, en utilisant [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API de programmation de feuille de calcul, vous pouvez convertir HTML en ODS.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET pour convertir DOCM en ODS" %}}
-1. Ouvrez le fichier DOCM à l'aide de la classe [Document](https://apireference.aspose.com/words/net/aspose.words/document
+1. Ouvrez le fichier DOCM à l'aide de la classe [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 2. Convertir DOCM en HTML en utilisant la méthode [Save](https://apireference.aspose.com/words/net/aspose.words.documentsave/methods/4)
 3. Chargez le documentHTML à l'aide de la classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Enregistrez le documentau format ODS à l'aide de la méthode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) et définissez `ODS` comme SaveFormat
@@ -39,7 +39,7 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Charger le documentDOCM à partir du flux via C#" %}}
-[Aspose.Words pour .NET](https://products.aspose.com/words/net/) vous permet également de charger un documentDOCM via un flux. Pour ouvrir un ddocument partir d'un flux, transmettez simplement un objet de flux contenant le dodocumentns le constructeur [Document](https://apireference.aspose.com/words/net/aspose.words/docdocument'exemple de code suivant montre comment ouvrir un docudocumentrtir d'un flux :  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) vous permet également de charger un documentDOCM via un flux. Pour ouvrir un ddocument partir d'un flux, transmettez simplement un objet de flux contenant le dodocumentns le constructeur [Document](https://apireference.aspose.com/words/net/aspose.words/docdocument'exemple de code suivant montre comment ouvrir un docudocumentrtir d'un flux :  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}

@@ -1,7 +1,7 @@
 ---
 title: Android API to Render CGM to FLATOPC
 description: Transform CGM to FLATOPC via Android via Java API
-url: /android-java/conversion/cgm-to-flatopc/
+url_ignore: /android-java/conversion/cgm-to-flatopc/
 family: total
 platformtag: android-java
 feature: conversion

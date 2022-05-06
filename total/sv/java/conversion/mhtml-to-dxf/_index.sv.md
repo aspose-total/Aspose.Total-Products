@@ -1,7 +1,7 @@
 ---
 title: Konvertera MHTML till DXF via Java
 description: Exportera MHTML-fil till DXF i dina Java-applikationer utan att använda någon tredjepartsapplikation
-url: /sv/java/conversion/mhtml-to-dxf/
+url_ignore: /sv/java/conversion/mhtml-to-dxf/
 family: total
 platformtag: net
 feature: conversion

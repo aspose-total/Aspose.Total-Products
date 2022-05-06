@@ -1,7 +1,7 @@
 ---
 title: .NET API do konwersji DOTX na XLSX
 description: C# API do konwersji DOTX na XLSX bez użycia Microsoft Excel lub Adobe Reader
-url: /pl/net/conversion/dotx-to-xlsx/
+url_ignore: /pl/net/conversion/dotx-to-xlsx/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ Używając [Aspose.Total for .NET](https://products.aspose.com/total/net/) może
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API do konwersji DOTX na XLSX" %}}
-1. Otwórz plik DOTX za pomocą klasy [Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument)
-2. Konwertuj DOTX na HTML za pomocą metody [Save](https://apireference.aspose.com/words/net/aspose.words.dotxument/save/methods/4)
+1. Otwórz plik DOTX za pomocą klasy [Document](https://apireference.aspose.com/words/net/aspose.words/Document)
+2. Konwertuj DOTX na HTML za pomocą metody [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4)
 3. Załaduj dokument HTML za pomocą klasy [Książka](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Zapisz dokument w formacie XLSX za pomocą metody [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) i ustaw `XLSX` jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -39,16 +39,15 @@ Możesz też pobrać instalator offline MSI lub biblioteki DLL w pliku ZIP ze st
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Załaduj dokument DOTX ze strumienia za pomocą C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) umożliwia również ładowanie dokumentu DOTX przez strumień. Aby otworzyć dokument ze strumienia, po prostu przekaż obiekt strumienia, który zawiera dokument, do konstruktora [Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument). Poniższy przykład kodu pokazuje, jak otworzyć dokument ze strumienia:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) umożliwia również ładowanie dokumentu DOTX przez strumień. Aby otworzyć dokument ze strumienia, po prostu przekaż obiekt strumienia, który zawiera dokument, do konstruktora [Document](https://apireference.aspose.com/words/net/aspose.words/Document). Poniższy przykład kodu pokazuje, jak otworzyć dokument ze strumienia:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Dodaj niestandardowe właściwości w pliku XLSX za pomocą C#" %}}
-Podczas konwertowania DOTX na XLSX [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) umożliwia dodawanie niestandardowych właściwości w dokumentach XLSX. Aby dodać niestandardową właściwość, możesz użyć metody [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotxumentpropertycollection/methods/add/index) dla [CustomDotxumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotxumentpropertycollection). Metoda Add dodaje właściwość do pliku Excel i zwraca odwołanie do nowej właściwości dokumentu jako [Aspose.Cells.Properties.DotxumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /dotxumentproperty). 
+Podczas konwertowania DOTX na XLSX [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) umożliwia dodawanie niestandardowych właściwości w dokumentach XLSX. Aby dodać niestandardową właściwość, możesz użyć metody [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index) dla [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection). Metoda Add dodaje właściwość do pliku Excel i zwraca odwołanie do nowej właściwości dokumentu jako [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /Documentproperty). 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}

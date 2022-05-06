@@ -1,7 +1,7 @@
 ---
 title: Convert ODT to PPSM in Android via Java
 description: ODT to PPSM conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/odt-to-ppsm/
+url_ignore: /android-java/conversion/odt-to-ppsm/
 family: total
 platformtag: android-java
 feature: conversion

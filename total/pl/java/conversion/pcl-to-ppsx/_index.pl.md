@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PCL na PPSX za pomocą Java API
 description: Java API do konwersji PCL na PPSX bez użycia Microsoft Word
-url: /pl/java/conversion/pcl-to-ppsx/
+url_ignore: /pl/java/conversion/pcl-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to DICOM via .NET 
 description: Parse JSON to DICOM in C# without using third party dependencies
-url: /net/conversion/json-to-dicom/
+url_ignore: /net/conversion/json-to-dicom/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование XPS в DIF через C# API
 description: C# API для преобразования файла XPS в DIF без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/xps-to-dif/
+url_ignore: /ru/net/conversion/xps-to-dif/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API to Export OFT to DOTM
 description: Convert OFT to DOTM without using Microsoft Word or Outlook on .NET
-url: /net/conversion/oft-to-dotm/
+url_ignore: /net/conversion/oft-to-dotm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: EMAILをXPSにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMAILをXPSに変換する
-url: /ja/net/conversion/email-to-xps/
+url_ignore: /ja/net/conversion/email-to-xps/
 family: total
 platformtag: net
 feature: conversion

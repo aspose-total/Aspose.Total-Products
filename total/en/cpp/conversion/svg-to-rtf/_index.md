@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export SVG to RTF
 description: Convert SVG to RTF within C++ applications.
-url: /cpp/conversion/svg-to-rtf/
+url_ignore: /cpp/conversion/svg-to-rtf/
 family: total
 platformtag: cpp
 feature: conversion

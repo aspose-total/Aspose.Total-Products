@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير MHTML إلى GIF
 description: تحويل MHTML إلى GIF دون استخدام Microsoft Word
-url: /ar/net/conversion/mhtml-to-gif/
+url_ignore: /ar/net/conversion/mhtml-to-gif/
 family: total
 platformtag: net
 feature: conversion

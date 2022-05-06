@@ -1,7 +1,7 @@
 ---
 title: Экспорт EMLX в EMF через Java
 description: Java API для преобразования EMLX в EMF без использования Microsoft Word или Outlook
-url: /ru/java/conversion/emlx-to-emf/
+url_ignore: /ru/java/conversion/emlx-to-emf/
 family: total
 platformtag: net
 feature: conversion

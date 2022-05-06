@@ -1,7 +1,7 @@
 ---
 title: MSGをEMFにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにMSGをEMFに変換する
-url: /ja/net/conversion/msg-to-emf/
+url_ignore: /ja/net/conversion/msg-to-emf/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση CGM σε ODS
 description: Εξαγωγή CGM σε ODS μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/cgm-to-ods/
+url_ignore: /el/java/conversion/cgm-to-ods/
 family: total
 platformtag: net
 feature: conversion

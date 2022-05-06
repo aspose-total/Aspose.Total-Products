@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı OTT'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan MSG'i OTT'ye dönüştürün
-url: /tr/net/conversion/msg-to-ott/
+url_ignore: /tr/net/conversion/msg-to-ott/
 family: total
 platformtag: net
 feature: conversion

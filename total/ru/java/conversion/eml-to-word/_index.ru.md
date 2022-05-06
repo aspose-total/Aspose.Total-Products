@@ -1,7 +1,7 @@
 ---
 title: Экспорт EML в WORD через Java
 description: Java API для преобразования EML в WORD без использования Microsoft Word или Outlook
-url: /ru/java/conversion/eml-to-word/
+url_ignore: /ru/java/conversion/eml-to-word/
 family: total
 platformtag: net
 feature: conversion

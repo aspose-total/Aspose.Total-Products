@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi POT sang TEXT qua Java
 description: Java API để xuất POT sang TEXT mà không cần sử dụng Microsoft Word hoặc PowerPoint
-url: /vi/java/conversion/pot-to-text/
+url_ignore: /vi/java/conversion/pot-to-text/
 family: total
 platformtag: net
 feature: conversion

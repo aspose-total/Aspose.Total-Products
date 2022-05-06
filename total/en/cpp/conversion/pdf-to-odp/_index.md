@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PDF to ODP  
 description: Convert PDF to ODP via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/pdf-to-odp/
+url_ignore: /cpp/conversion/pdf-to-odp/
 family: total
 platformtag: cpp
 feature: conversion

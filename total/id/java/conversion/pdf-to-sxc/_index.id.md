@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender PDF ke SXC
 description: Ekspor PDF ke SXC melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/pdf-to-sxc/
+url_ignore: /id/java/conversion/pdf-to-sxc/
 family: total
 platformtag: net
 feature: conversion

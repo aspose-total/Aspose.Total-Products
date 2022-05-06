@@ -1,7 +1,7 @@
 ---
 title: Konvertera JSON-format till EMZ via .NET
 description: Analysera JSON till EMZ i C# utan att använda tredje parts beroenden
-url: /sv/net/conversion/json-to-emz/
+url_ignore: /sv/net/conversion/json-to-emz/
 family: total
 platformtag: net
 feature: conversion
@@ -33,7 +33,8 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "parse-json-to-image.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 Medan du analyserar JSON till EMZ kan du också ställa in layoutalternativ för din JSON med [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Det låter dig bearbeta Array som en tabell, ignorera nollvärden, ignorera arraytitel, ignorera objekttitel, konvertera sträng till nummer eller datum, ställa in datum och nummerformat och ställa in titelstil. Alla dessa alternativ låter dig presentera din data enligt dina behov. Följande kodavsnitt visar hur du ställer in layoutalternativen.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "set-layout-and-parse-json-to-image.cs" >}}
+{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "set-layout-and-parse-json-to-image.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Medan du analyserar JSON till EMZ kan du också ställa in layoutalternativ för
 Med hjälp av API:t kan du också konvertera JSON till EMZ med vattenstämpel i ditt EMZ-dokument. För att lägga till en vattenstämpel kan du först rendera ditt JSON-dokument till JPEG och lägga till en vattenstämpel i den. För att demonstrera operationen kan du ladda din konverterade JPEG-bild, lägga till transformationer med hjälp av ett objekt av klassen Matrix och rita en sträng som vattenstämpel på bildytan med hjälp av [Graphics](https://apireference.aspose.com/imaging/ net/aspose.imaging/graphics) klassens [DrawString](https://apireference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring) metod. När du har lagt till vattenstämpeln kan du spara JPEG som EMZ-format. Nedan är ett kodexempel som visar hur man lägger till en diagonal vattenstämpel till ditt dokument. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

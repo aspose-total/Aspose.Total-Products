@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar EMZ via .NET
 description: JSON ontleden naar EMZ in C# zonder afhankelijkheden van derden te gebruiken
-url: /nl/net/conversion/json-to-emz/
+url_ignore: /nl/net/conversion/json-to-emz/
 family: total
 platformtag: net
 feature: conversion

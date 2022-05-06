@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to ODP via C++
 description: Export WORDML to ODP in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/wordml-to-odp/
+url_ignore: /cpp/conversion/wordml-to-odp/
 family: total
 platformtag: cpp
 feature: conversion

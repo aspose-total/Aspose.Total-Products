@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert CGM to PPT  
 description: Convert CGM to PPT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/cgm-to-ppt/
+url_ignore: /cpp/conversion/cgm-to-ppt/
 family: total
 platformtag: cpp
 feature: conversion

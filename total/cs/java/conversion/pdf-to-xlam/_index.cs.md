@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení PDF do XLAM
 description: Export PDF do XLAM přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/pdf-to-xlam/
+url_ignore: /cs/java/conversion/pdf-to-xlam/
 family: total
 platformtag: net
 feature: conversion

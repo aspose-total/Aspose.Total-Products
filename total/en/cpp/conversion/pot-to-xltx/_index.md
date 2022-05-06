@@ -1,7 +1,7 @@
 ---
 title: Convert POT to XLTX via C++ 
 description: Export POT to XLTX in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pot-to-xltx/
+url_ignore: /cpp/conversion/pot-to-xltx/
 family: total
 platformtag: cpp
 feature: conversion

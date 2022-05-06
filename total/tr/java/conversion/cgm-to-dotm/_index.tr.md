@@ -1,7 +1,7 @@
 ---
 title: CGM'yi DOTM'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak CGM'yi DOTM'ye dönüştürün
-url: /tr/java/conversion/cgm-to-dotm/
+url_ignore: /tr/java/conversion/cgm-to-dotm/
 family: total
 platformtag: net
 feature: conversion

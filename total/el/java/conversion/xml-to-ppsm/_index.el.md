@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή XML σε PPSM μέσω Java API
 description: Java API για μετατροπή XML σε PPSM χωρίς χρήση του Microsoft Word
-url: /el/java/conversion/xml-to-ppsm/
+url_ignore: /el/java/conversion/xml-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई बीएमपी को ईमेल निर्यात करने के लिए
 description: .NET पर Microsoft Word या Outlook का उपयोग किए बिना EMLX को DOCM में बदलें
-url: /hi/net/conversion/emlx-to-docm/
+url_ignore: /hi/net/conversion/emlx-to-docm/
 family: total
 platformtag: net
 feature: conversion

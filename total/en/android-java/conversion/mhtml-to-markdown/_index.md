@@ -1,7 +1,7 @@
 ---
 title: Android API to Render MHTML to MARKDOWN
 description: Transform MHTML to MARKDOWN via Android via Java API
-url: /android-java/conversion/mhtml-to-markdown/
+url_ignore: /android-java/conversion/mhtml-to-markdown/
 family: total
 platformtag: android-java
 feature: conversion

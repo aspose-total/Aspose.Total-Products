@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPSをDIFに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPSファイルをDIFに変換するC＃API
-url: /ja/net/conversion/ps-to-dif/
+url_ignore: /ja/net/conversion/ps-to-dif/
 family: total
 platformtag: net
 feature: conversion

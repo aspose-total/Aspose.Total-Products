@@ -1,7 +1,7 @@
 ---
 title: Convert POT to MARKDOWN via C++ 
 description: Export POT to MARKDOWN in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pot-to-markdown/
+url_ignore: /cpp/conversion/pot-to-markdown/
 family: total
 platformtag: cpp
 feature: conversion

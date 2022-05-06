@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई सीजीएम को डीओसीएम में निर्यात करने के लिए
 description: Microsoft Word का उपयोग किए बिना PDF को FLATOPC में बदलें
-url: /hi/net/conversion/pdf-to-flatopc/
+url_ignore: /hi/net/conversion/pdf-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

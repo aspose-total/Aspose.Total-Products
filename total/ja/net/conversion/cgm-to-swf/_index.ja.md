@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してCGMをSWFにエクスポートする
 description: MicrosoftWordを使用せずにCGMをSWFに変換する.NETAPI
-url: /ja/net/conversion/cgm-to-swf/
+url_ignore: /ja/net/conversion/cgm-to-swf/
 family: total
 platformtag: net
 feature: conversion

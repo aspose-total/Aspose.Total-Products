@@ -1,7 +1,7 @@
 ---
 title: Convert PPSM to JSON format via C++ 
 description: Export PPSM to JSON format in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/ppsm-to-json/
+url_ignore: /cpp/conversion/ppsm-to-json/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تحويل POTX إلى تنسيق EXCEL عبر Java
 description: قم بتحويل POTX إلى تنسيق EXCEL عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/potx-to-excel/
+url_ignore: /ar/java/conversion/potx-to-excel/
 family: total
 platformtag: net
 feature: conversion

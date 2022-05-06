@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar WMZ via .NET
 description: JSON ontleden naar WMZ in C# zonder afhankelijkheden van derden te gebruiken
-url: /nl/net/conversion/json-to-wmz/
+url_ignore: /nl/net/conversion/json-to-wmz/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API pro export MSG do DOT
 description: Převeďte MSG na DOT bez použití Microsoft Word nebo Outlook na .NET
-url: /cs/net/conversion/msg-to-dot/
+url_ignore: /cs/net/conversion/msg-to-dot/
 family: total
 platformtag: net
 feature: conversion

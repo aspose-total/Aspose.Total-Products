@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XML to FODS
 description: Convert XML to FODS via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xml-to-fods/
+url_ignore: /cpp/conversion/xml-to-fods/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PS to SWF  
 description: Convert PS to SWF via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/ps-to-swf/
+url_ignore: /cpp/conversion/ps-to-swf/
 family: total
 platformtag: cpp
 feature: conversion

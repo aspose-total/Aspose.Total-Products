@@ -1,7 +1,7 @@
 ---
 title: Java API för att rendera CGM till MD
 description: Exportera CGM till MD via Java API utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/java/conversion/cgm-to-md/
+url_ignore: /sv/java/conversion/cgm-to-md/
 family: total
 platformtag: net
 feature: conversion

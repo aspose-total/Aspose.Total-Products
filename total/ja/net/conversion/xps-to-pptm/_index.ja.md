@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXPSをPPTMにエクスポートする
 description: MicrosoftWordを使用せずにXPSをPPTMに変換する.NETAPI
-url: /ja/net/conversion/xps-to-pptm/
+url_ignore: /ja/net/conversion/xps-to-pptm/
 family: total
 platformtag: net
 feature: conversion

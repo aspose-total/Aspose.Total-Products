@@ -1,7 +1,7 @@
 ---
 title: Java API to Export PS to XAMLFLOW
 description: Convert PS to XAMLFLOW using on premise Java API
-url: /java/conversion/ps-to-xamlflow/
+url_ignore: /java/conversion/ps-to-xamlflow/
 family: total
 platformtag: java
 feature: conversion

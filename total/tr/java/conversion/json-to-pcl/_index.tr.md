@@ -1,7 +1,7 @@
 ---
 title: Java ile JSON Formatını PCL'ye Dönüştür
 description: Microsoft Word kullanmadan Java'da JSON'u PCL'ye ayrıştırın
-url: /tr/java/conversion/json-to-pcl/
+url_ignore: /tr/java/conversion/json-to-pcl/
 family: total
 platformtag: net
 feature: conversion

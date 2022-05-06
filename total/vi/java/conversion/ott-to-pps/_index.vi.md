@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi OTT sang PPS qua Java
 description: Java API để xuất OTT sang PPS mà không cần sử dụng Microsoft Word hoặc PowerPoint
-url: /vi/java/conversion/ott-to-pps/
+url_ignore: /vi/java/conversion/ott-to-pps/
 family: total
 platformtag: net
 feature: conversion

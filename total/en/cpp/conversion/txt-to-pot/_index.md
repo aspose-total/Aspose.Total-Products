@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to POT via C++
 description: Export TXT to POT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/txt-to-pot/
+url_ignore: /cpp/conversion/txt-to-pot/
 family: total
 platformtag: cpp
 feature: conversion

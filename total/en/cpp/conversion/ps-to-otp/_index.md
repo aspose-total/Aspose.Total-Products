@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PS to OTP  
 description: Convert PS to OTP via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/ps-to-otp/
+url_ignore: /cpp/conversion/ps-to-otp/
 family: total
 platformtag: cpp
 feature: conversion

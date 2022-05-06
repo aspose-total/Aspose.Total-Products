@@ -1,7 +1,7 @@
 ---
 title: OFT'i Java aracılığıyla EPUB'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan OFT'i EPUB'ye Dönüştürmek için Java API
-url: /tr/java/conversion/oft-to-epub/
+url_ignore: /tr/java/conversion/oft-to-epub/
 family: total
 platformtag: net
 feature: conversion

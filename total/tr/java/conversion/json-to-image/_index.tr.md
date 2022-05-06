@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını Java ile IMAGE'ye Dönüştür
 description: Microsoft PowerPoint kullanmadan Java'da JSON'u IMAGE'ye ayrıştırın
-url: /tr/java/conversion/json-to-image/
+url_ignore: /tr/java/conversion/json-to-image/
 family: total
 platformtag: net
 feature: conversion

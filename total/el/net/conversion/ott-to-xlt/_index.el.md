@@ -1,7 +1,7 @@
 ---
 title: .NET API για μετατροπή OTT σε XLT
 description: C# API για μετατροπή OTT σε XLT χωρίς χρήση Microsoft Excel ή Adobe Reader
-url: /el/net/conversion/ott-to-xlt/
+url_ignore: /el/net/conversion/ott-to-xlt/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ otherformats: XLT FODS XLSX TSV SXC XLAM XLSM EXCEL DIF XLTX XLS XLSB XLTM ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Προσθήκη προσαρμοσμένων ιδιοτήτων σε αρχείο XLT μέσω C#" %}}
 Κατά τη μετατροπή του OTT σε XLT, το [Aspose.Cells για .NET](https://products.aspose.com/cells/net/) σάς δίνει τη δυνατότητα να προσθέσετε προσαρμοσμένες ιδιότητες στα έγγραφά σας XLT. Για να προσθέσετε μια προσαρμοσμένη ιδιότητα, μπορείτε να χρησιμοποιήσετε τη μέθοδο [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) για το [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) τάξη. Η μέθοδος Προσθήκη προσθέτει την ιδιότητα στο αρχείο Excel και επιστρέφει μια αναφορά για την ιδιότητα του νέου εγγράφου ως [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /documentproperty) αντικείμενο. 
 {{% blocks/products/pf/feature-page-code %}}

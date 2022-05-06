@@ -1,7 +1,7 @@
 ---
 title: Java API pro export XPS do DOTX
 description: Převeďte XPS na DOTX pomocí on premise Java API
-url: /cs/java/conversion/xps-to-dotx/
+url_ignore: /cs/java/conversion/xps-to-dotx/
 family: total
 platformtag: net
 feature: conversion

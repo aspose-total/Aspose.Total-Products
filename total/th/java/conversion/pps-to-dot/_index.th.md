@@ -1,7 +1,7 @@
 ---
 title: แปลง PPS เป็น DOT ผ่าน Java
 description: Java API เพื่อส่งออก PPS เป็น DOT โดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint
-url: /th/java/conversion/pps-to-dot/
+url_ignore: /th/java/conversion/pps-to-dot/
 family: total
 platformtag: net
 feature: conversion

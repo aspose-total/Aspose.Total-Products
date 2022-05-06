@@ -1,7 +1,7 @@
 ---
 title: تحويل MHTML إلى XLAM عبر C# API
 description: C# API لتحويل ملف MHTML إلى XLAM بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/mhtml-to-xlam/
+url_ignore: /ar/net/conversion/mhtml-to-xlam/
 family: total
 platformtag: net
 feature: conversion

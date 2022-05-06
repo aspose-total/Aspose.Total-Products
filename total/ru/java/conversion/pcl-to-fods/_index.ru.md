@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга PCL в FODS
 description: Экспорт PCL в FODS через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/pcl-to-fods/
+url_ignore: /ru/java/conversion/pcl-to-fods/
 family: total
 platformtag: net
 feature: conversion

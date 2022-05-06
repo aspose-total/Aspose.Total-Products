@@ -1,7 +1,7 @@
 ---
 title: Java API لتقديم XML إلى MD
 description: قم بتصدير XML إلى MD عبر Java API دون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/java/conversion/xml-to-md/
+url_ignore: /ar/java/conversion/xml-to-md/
 family: total
 platformtag: net
 feature: conversion

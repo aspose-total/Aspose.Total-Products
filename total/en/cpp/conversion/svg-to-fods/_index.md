@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert SVG to FODS
 description: Convert SVG to FODS via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/svg-to-fods/
+url_ignore: /cpp/conversion/svg-to-fods/
 family: total
 platformtag: cpp
 feature: conversion

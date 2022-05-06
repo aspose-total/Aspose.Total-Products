@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to POTX in Android via Java
 description: TXT to POTX conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/txt-to-potx/
+url_ignore: /android-java/conversion/txt-to-potx/
 family: total
 platformtag: android-java
 feature: conversion

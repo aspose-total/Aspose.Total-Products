@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení PS do MD
 description: Export PS do MD přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/ps-to-md/
+url_ignore: /cs/java/conversion/ps-to-md/
 family: total
 platformtag: net
 feature: conversion

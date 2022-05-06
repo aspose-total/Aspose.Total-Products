@@ -1,7 +1,7 @@
 ---
 title: Export PS to ODP via C# API
 description: .NET API to Convert PS to ODP without using Microsoft Word
-url: /net/conversion/ps-to-odp/
+url_ignore: /net/conversion/ps-to-odp/
 family: total
 platformtag: net
 feature: conversion

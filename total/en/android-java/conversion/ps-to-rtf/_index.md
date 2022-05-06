@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PS to RTF
 description: Transform PS to RTF via Android via Java API
-url: /android-java/conversion/ps-to-rtf/
+url_ignore: /android-java/conversion/ps-to-rtf/
 family: total
 platformtag: android-java
 feature: conversion

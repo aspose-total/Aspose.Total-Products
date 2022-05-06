@@ -1,7 +1,7 @@
 ---
 title: WORDをCSVに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにWORDをCSVに変換するC＃API
-url: /ja/net/conversion/word-to-csv/
+url_ignore: /ja/net/conversion/word-to-csv/
 family: total
 platformtag: net
 feature: conversion

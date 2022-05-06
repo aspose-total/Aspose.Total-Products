@@ -1,7 +1,7 @@
 ---
 title: Konversi XSLFO ke ODP melalui Java API
 description: Java API untuk Mengonversi XSLFO ke ODP tanpa menggunakan Microsoft Word
-url: /id/java/conversion/xslfo-to-odp/
+url_ignore: /id/java/conversion/xslfo-to-odp/
 family: total
 platformtag: net
 feature: conversion

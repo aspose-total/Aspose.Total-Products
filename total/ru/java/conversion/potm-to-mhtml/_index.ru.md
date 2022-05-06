@@ -1,7 +1,7 @@
 ---
 title: Преобразование POTM в формат MHTML через Java
 description: Преобразуйте формат POTM в MHTML через Java без использования Microsoft Excel или PowerPoint.
-url: /ru/java/conversion/potm-to-mhtml/
+url_ignore: /ru/java/conversion/potm-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

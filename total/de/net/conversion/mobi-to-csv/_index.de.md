@@ -1,7 +1,7 @@
 ---
 title: .NET-API zum Konvertieren von MOBI in CSV
 description: C#-API zum Konvertieren von MOBI in CSV ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/mobi-to-csv/
+url_ignore: /de/net/conversion/mobi-to-csv/
 family: total
 platformtag: net
 feature: conversion

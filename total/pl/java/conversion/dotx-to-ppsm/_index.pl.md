@@ -1,7 +1,7 @@
 ---
 title: Konwertuj DOTX na PPSM za pomocą Javy
 description: Java API do eksportu DOTX do PPSM bez użycia Microsoft Word lub PowerPoint
-url: /pl/java/conversion/dotx-to-ppsm/
+url_ignore: /pl/java/conversion/dotx-to-ppsm/
 family: total
 platformtag: net
 feature: conversion
@@ -16,8 +16,8 @@ Często programiści muszą programowo przekonwertować plik DOTX na PPSM. Korzy
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak przekonwertować DOTX na PPSM za pomocą Javy?" %}}
-1. Otwórz plik DOTX za pomocą klasy [Dotxument](https://apireference.aspose.com/words/java/com.aspose.words/Dotxument)
-2. Przekonwertuj plik DOTX na HTML za pomocą [save](https://apireference.aspose.com/words/java/com.aspose.words/Dotxument#save(java.lang.String,com.aspose.words.SaveOptions))) metoda
+1. Otwórz plik DOTX za pomocą klasy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. Przekonwertuj plik DOTX na HTML za pomocą [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) metoda
 3. Zainicjuj nowy obiekt [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Wyodrębnij zawartość z pliku HTML za pomocą BufferedReader i zapisz zawartość w pliku prezentacji
 6. Zapisz dokument w PPSM za pomocą metody [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

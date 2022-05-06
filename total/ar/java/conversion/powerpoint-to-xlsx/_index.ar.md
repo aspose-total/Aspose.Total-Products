@@ -1,7 +1,7 @@
 ---
 title: تحويل POWERPOINT إلى تنسيق XLSX عبر Java
 description: قم بتحويل POWERPOINT إلى تنسيق XLSX عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/powerpoint-to-xlsx/
+url_ignore: /ar/java/conversion/powerpoint-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

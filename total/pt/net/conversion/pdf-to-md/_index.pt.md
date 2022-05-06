@@ -1,7 +1,7 @@
 ---
 title: Converter PDF para MD via API C#
 description: API C# para converter arquivo PDF em MD sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/pdf-to-md/
+url_ignore: /pt/net/conversion/pdf-to-md/
 family: total
 platformtag: net
 feature: conversion

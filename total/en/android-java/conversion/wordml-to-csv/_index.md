@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert WORDML to CSV
 description: Convert WORDML to CSV in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/wordml-to-csv/
+url_ignore: /android-java/conversion/wordml-to-csv/
 family: total
 platformtag: android-java
 feature: conversion

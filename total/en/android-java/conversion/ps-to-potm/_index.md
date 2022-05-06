@@ -1,7 +1,7 @@
 ---
 title: Export PS to POTM in Android 
 description: Android API to Convert PS to POTM without using Microsoft Word
-url: /android-java/conversion/ps-to-potm/
+url_ignore: /android-java/conversion/ps-to-potm/
 family: total
 platformtag: android-java
 feature: conversion

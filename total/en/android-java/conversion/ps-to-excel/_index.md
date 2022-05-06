@@ -1,7 +1,7 @@
 ---
 title: Convert PS to EXCEL in Android via Java
 description: Render PS to EXCEL in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/ps-to-excel/
+url_ignore: /android-java/conversion/ps-to-excel/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert PPSM to EXCEL via C++ 
 description: Export PPSM to EXCEL in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/ppsm-to-excel/
+url_ignore: /cpp/conversion/ppsm-to-excel/
 family: total
 platformtag: cpp
 feature: conversion

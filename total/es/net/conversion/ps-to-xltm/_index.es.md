@@ -1,7 +1,7 @@
 ---
 title: Convierta PS a XLTM a través de la API de C#
 description: API C# para convertir archivos PS a XLTM sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/ps-to-xltm/
+url_ignore: /es/net/conversion/ps-to-xltm/
 family: total
 platformtag: net
 feature: conversion

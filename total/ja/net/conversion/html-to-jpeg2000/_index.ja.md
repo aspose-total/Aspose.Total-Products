@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してHTMLをJPEG2000に変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでHTMLをJPEG2000にエクスポートします
-url: /ja/net/conversion/html-to-jpeg2000/
+url_ignore: /ja/net/conversion/html-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

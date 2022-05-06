@@ -1,7 +1,7 @@
 ---
 title: Converti MHTML in SWF tramite API Java
 description: API Java per convertire MHTML in SWF senza utilizzare Microsoft Word
-url: /it/java/conversion/mhtml-to-swf/
+url_ignore: /it/java/conversion/mhtml-to-swf/
 family: total
 platformtag: net
 feature: conversion

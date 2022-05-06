@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert MOBI to XLSX
 description: Convert MOBI to XLSX in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/mobi-to-xlsx/
+url_ignore: /android-java/conversion/mobi-to-xlsx/
 family: total
 platformtag: android-java
 feature: conversion

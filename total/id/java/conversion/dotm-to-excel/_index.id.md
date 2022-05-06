@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Mengonversi DOTM ke EXCEL
 description: Konversi DOTM ke EXCEL melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel
-url: /id/java/conversion/dotm-to-excel/
+url_ignore: /id/java/conversion/dotm-to-excel/
 family: total
 platformtag: net
 feature: conversion

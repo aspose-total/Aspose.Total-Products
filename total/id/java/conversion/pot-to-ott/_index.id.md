@@ -1,7 +1,7 @@
 ---
 title: Konversi POT ke OTT melalui Java
 description: Java API untuk Mengekspor POT ke OTT tanpa menggunakan Microsoft Word atau PowerPoint
-url: /id/java/conversion/pot-to-ott/
+url_ignore: /id/java/conversion/pot-to-ott/
 family: total
 platformtag: net
 feature: conversion

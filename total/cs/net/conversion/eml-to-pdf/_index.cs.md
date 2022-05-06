@@ -1,7 +1,7 @@
 ---
 title: C# API pro export EML do PDF
 description: Převeďte EML na PDF bez použití Microsoft Word nebo Outlook na .NET
-url: /cs/net/conversion/eml-to-pdf/
+url_ignore: /cs/net/conversion/eml-to-pdf/
 family: total
 platformtag: net
 feature: conversion

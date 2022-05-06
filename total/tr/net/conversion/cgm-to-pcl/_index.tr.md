@@ -1,7 +1,7 @@
 ---
 title: CGM'yi PCL'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan CGM'yi PCL'ye dönüştürün
-url: /tr/net/conversion/cgm-to-pcl/
+url_ignore: /tr/net/conversion/cgm-to-pcl/
 family: total
 platformtag: net
 feature: conversion

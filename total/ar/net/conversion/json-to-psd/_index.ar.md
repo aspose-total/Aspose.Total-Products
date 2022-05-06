@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى PSD عبر .NET
 description: تحليل JSON إلى PSD في C# بدون استخدام تبعيات الطرف الثالث
-url: /ar/net/conversion/json-to-psd/
+url_ignore: /ar/net/conversion/json-to-psd/
 family: total
 platformtag: net
 feature: conversion

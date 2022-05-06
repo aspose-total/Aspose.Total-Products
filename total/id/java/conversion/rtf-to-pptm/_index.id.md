@@ -1,7 +1,7 @@
 ---
 title: Konversi RTF ke PPTM melalui Java
 description: Java API untuk Mengekspor RTF ke PPTM tanpa menggunakan Microsoft Word atau PowerPoint
-url: /id/java/conversion/rtf-to-pptm/
+url_ignore: /id/java/conversion/rtf-to-pptm/
 family: total
 platformtag: net
 feature: conversion
@@ -16,8 +16,8 @@ Seringkali pengembang harus mengonversi file RTF ke PPTM secara terprogram. Deng
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cara Mengonversi RTF ke PPTM melalui Java" %}}
-1. Buka file RTF menggunakan kelas [Rtfument](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument)
-2. Konversi file RTF ke HTML dengan menggunakan [save](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument#save(java.lang.String,com.aspose.words.SaveOptions)) metode
+1. Buka file RTF menggunakan kelas [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. Konversi file RTF ke HTML dengan menggunakan [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metode
 3. Inisialisasi objek [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) baru
 5. Ekstrak konten dari file HTML menggunakan BufferedReader dan tulis konten di file presentasi Anda
 6. Simpan dokumen ke PPTM menggunakan metode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

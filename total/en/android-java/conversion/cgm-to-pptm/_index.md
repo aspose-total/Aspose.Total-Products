@@ -1,7 +1,7 @@
 ---
 title: Export CGM to PPTM in Android 
 description: Android API to Convert CGM to PPTM without using Microsoft Word
-url: /android-java/conversion/cgm-to-pptm/
+url_ignore: /android-java/conversion/cgm-to-pptm/
 family: total
 platformtag: android-java
 feature: conversion

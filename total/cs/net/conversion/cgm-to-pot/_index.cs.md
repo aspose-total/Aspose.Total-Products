@@ -1,7 +1,7 @@
 ---
 title: Export CGM do POT přes C# API
 description: .NET API pro převod CGM na POT bez použití aplikace Microsoft Word
-url: /cs/net/conversion/cgm-to-pot/
+url_ignore: /cs/net/conversion/cgm-to-pot/
 family: total
 platformtag: net
 feature: conversion

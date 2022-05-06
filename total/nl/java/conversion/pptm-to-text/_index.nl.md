@@ -1,7 +1,7 @@
 ---
 title: Converteer PPTM naar TEXT via Java
 description: Java API om PPTM naar TEXT te exporteren zonder Microsoft Word of PowerPoint te gebruiken
-url: /nl/java/conversion/pptm-to-text/
+url_ignore: /nl/java/conversion/pptm-to-text/
 family: total
 platformtag: net
 feature: conversion

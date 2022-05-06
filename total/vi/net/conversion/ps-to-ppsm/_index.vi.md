@@ -1,7 +1,7 @@
 ---
 title: Xuất PS sang PPSM qua C# API
 description: .NET API để chuyển đổi PS sang PPSM mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/ps-to-ppsm/
+url_ignore: /vi/net/conversion/ps-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

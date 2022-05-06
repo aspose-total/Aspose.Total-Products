@@ -1,7 +1,7 @@
 ---
 title: Export XML do OTP přes C# API
 description: .NET API pro převod XML na OTP bez použití aplikace Microsoft Word
-url: /cs/net/conversion/xml-to-otp/
+url_ignore: /cs/net/conversion/xml-to-otp/
 family: total
 platformtag: net
 feature: conversion

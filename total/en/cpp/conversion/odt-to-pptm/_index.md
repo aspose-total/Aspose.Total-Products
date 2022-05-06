@@ -1,7 +1,7 @@
 ---
 title: Convert ODT to PPTM via C++
 description: Export ODT to PPTM in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/odt-to-pptm/
+url_ignore: /cpp/conversion/odt-to-pptm/
 family: total
 platformtag: cpp
 feature: conversion

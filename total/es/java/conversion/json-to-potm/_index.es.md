@@ -1,7 +1,7 @@
 ---
 title: Convierta el formato JSON a POTM a través de Java
 description: Analice JSON a POTM en Java sin usar Microsoft PowerPoint
-url: /es/java/conversion/json-to-potm/
+url_ignore: /es/java/conversion/json-to-potm/
 family: total
 platformtag: net
 feature: conversion

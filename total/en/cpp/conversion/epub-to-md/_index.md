@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert EPUB to MD
 description: Convert EPUB to MD via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/epub-to-md/
+url_ignore: /cpp/conversion/epub-to-md/
 family: total
 platformtag: cpp
 feature: conversion

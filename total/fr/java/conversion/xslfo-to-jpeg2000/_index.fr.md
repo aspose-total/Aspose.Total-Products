@@ -1,7 +1,7 @@
 ---
 title: Convertir XSLFO en JPEG2000 via Java
 description: Exportez le fichier XSLFO vers JPEG2000 dans vos applications Java sans utiliser d'application tierce
-url: /fr/java/conversion/xslfo-to-jpeg2000/
+url_ignore: /fr/java/conversion/xslfo-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

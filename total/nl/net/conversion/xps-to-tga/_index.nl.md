@@ -1,7 +1,7 @@
 ---
 title: Converteer XPS naar TGA via C# API
 description: Exporteer XPS naar TGA in uw .NET-toepassingen zonder een toepassing van derden te gebruiken
-url: /nl/net/conversion/xps-to-tga/
+url_ignore: /nl/net/conversion/xps-to-tga/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: जावा एपीआई के माध्यम से सीजीएम को ओडीपी में कनवर्ट करें
 description: जावा एपीआई माइक्रोसॉफ्ट वर्ड का उपयोग किए बिना सीजीएम को ओडीपी में कनवर्ट करने के लिए
-url: /hi/java/conversion/cgm-to-ppt/
+url_ignore: /hi/java/conversion/cgm-to-ppt/
 family: total
 platformtag: net
 feature: conversion

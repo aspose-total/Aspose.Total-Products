@@ -1,7 +1,7 @@
 ---
 title: Java API pro export PDF do OTT
 description: Převeďte PDF na OTT pomocí on premise Java API
-url: /cs/java/conversion/pdf-to-ott/
+url_ignore: /cs/java/conversion/pdf-to-ott/
 family: total
 platformtag: net
 feature: conversion

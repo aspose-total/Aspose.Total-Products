@@ -1,7 +1,7 @@
 ---
 title: Java API เพื่อส่งออก MD ไปยัง PCL
 description: แปลง MD เป็น PCL โดยใช้ Java API . ในตัว
-url: /th/java/conversion/md-to-pcl/
+url_ignore: /th/java/conversion/md-to-pcl/
 family: total
 platformtag: net
 feature: conversion

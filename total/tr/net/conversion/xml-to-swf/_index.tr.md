@@ -1,7 +1,7 @@
 ---
 title: XML'yi C# API aracılığıyla SWF'ye aktarın
 description: Microsoft Word kullanmadan XML'yi SWF'ye dönüştürmek için .NET API
-url: /tr/net/conversion/xml-to-swf/
+url_ignore: /tr/net/conversion/xml-to-swf/
 family: total
 platformtag: net
 feature: conversion

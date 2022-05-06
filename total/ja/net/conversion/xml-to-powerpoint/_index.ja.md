@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXMLをPOWERPOINTにエクスポートする
 description: MicrosoftWordを使用せずにXMLをPOWERPOINTに変換する.NETAPI
-url: /ja/net/conversion/xml-to-powerpoint/
+url_ignore: /ja/net/conversion/xml-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

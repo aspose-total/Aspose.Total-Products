@@ -1,7 +1,7 @@
 ---
 title: Java API om PCL naar FLATOPC te exporteren
 description: Converteer PCL naar FLATOPC met behulp van on-premise Java API
-url: /nl/java/conversion/pcl-to-flatopc/
+url_ignore: /nl/java/conversion/pcl-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

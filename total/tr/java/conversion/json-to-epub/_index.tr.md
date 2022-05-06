@@ -1,7 +1,7 @@
 ---
 title: Java ile JSON Formatını EPUB'ye Dönüştür
 description: Microsoft Word kullanmadan Java'da JSON'u EPUB'ye ayrıştırın
-url: /tr/java/conversion/json-to-epub/
+url_ignore: /tr/java/conversion/json-to-epub/
 family: total
 platformtag: net
 feature: conversion

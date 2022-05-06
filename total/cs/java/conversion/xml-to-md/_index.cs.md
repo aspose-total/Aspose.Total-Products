@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení XML do MD
 description: Export XML do MD přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/xml-to-md/
+url_ignore: /cs/java/conversion/xml-to-md/
 family: total
 platformtag: net
 feature: conversion

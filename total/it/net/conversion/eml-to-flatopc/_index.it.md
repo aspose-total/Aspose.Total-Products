@@ -1,7 +1,7 @@
 ---
 title: API C# per esportare EML in FLATOPC
 description: Converti EML in FLATOPC senza utilizzare Microsoft Word o Outlook su .NET
-url: /it/net/conversion/eml-to-flatopc/
+url_ignore: /it/net/conversion/eml-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

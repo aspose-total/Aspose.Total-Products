@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PDF to SXC
 description: Convert PDF to SXC via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/pdf-to-sxc/
+url_ignore: /cpp/conversion/pdf-to-sxc/
 family: total
 platformtag: cpp
 feature: conversion

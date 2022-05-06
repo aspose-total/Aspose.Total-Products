@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPOTをXLAMに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPOTをXLAMに変換する
-url: /ja/net/conversion/pot-to-xlam/
+url_ignore: /ja/net/conversion/pot-to-xlam/
 family: total
 platformtag: net
 feature: conversion

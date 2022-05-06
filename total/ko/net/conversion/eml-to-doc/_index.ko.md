@@ -1,7 +1,7 @@
 ---
 title: EML을 DOC로 내보내는 C# API
 description: .NET에서 Microsoft Word 또는 Outlook을 사용하지 않고 EML을 DOC로 변환
-url: /ko/net/conversion/eml-to-doc/
+url_ignore: /ko/net/conversion/eml-to-doc/
 family: total
 platformtag: net
 feature: conversion

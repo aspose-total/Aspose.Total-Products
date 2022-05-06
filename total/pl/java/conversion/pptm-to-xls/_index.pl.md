@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PPTM na format XLS za pomocą Java
 description: Konwertuj PPTM do formatu XLS za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint
-url: /pl/java/conversion/pptm-to-xls/
+url_ignore: /pl/java/conversion/pptm-to-xls/
 family: total
 platformtag: net
 feature: conversion

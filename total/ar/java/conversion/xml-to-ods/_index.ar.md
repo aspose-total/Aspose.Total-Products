@@ -1,7 +1,7 @@
 ---
 title: Java API لتقديم XML إلى ODS
 description: قم بتصدير XML إلى ODS عبر Java API دون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/java/conversion/xml-to-ods/
+url_ignore: /ar/java/conversion/xml-to-ods/
 family: total
 platformtag: net
 feature: conversion

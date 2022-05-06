@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してXSLFOをSWFに変換する
 description: MicrosoftWordを使用せずにXSLFOをSWFに変換するJavaAPI
-url: /ja/java/conversion/xslfo-to-swf/
+url_ignore: /ja/java/conversion/xslfo-to-swf/
 family: total
 platformtag: net
 feature: conversion

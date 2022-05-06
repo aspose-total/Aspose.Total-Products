@@ -1,7 +1,7 @@
 ---
 title: Android API to Render XPS to MARKDOWN
 description: Transform XPS to MARKDOWN via Android via Java API
-url: /android-java/conversion/xps-to-markdown/
+url_ignore: /android-java/conversion/xps-to-markdown/
 family: total
 platformtag: android-java
 feature: conversion

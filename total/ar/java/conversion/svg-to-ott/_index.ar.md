@@ -1,7 +1,7 @@
 ---
 title: Java API لتصدير SVG إلى OTT
 description: قم بتحويل SVG إلى OTT باستخدام Java API في مكان العمل
-url: /ar/java/conversion/svg-to-ott/
+url_ignore: /ar/java/conversion/svg-to-ott/
 family: total
 platformtag: net
 feature: conversion

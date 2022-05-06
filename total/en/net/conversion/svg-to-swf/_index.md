@@ -1,7 +1,7 @@
 ---
 title: Export SVG to SWF via C# API
 description: .NET API to Convert SVG to SWF without using Microsoft Word
-url: /net/conversion/svg-to-swf/
+url_ignore: /net/conversion/svg-to-swf/
 family: total
 platformtag: net
 feature: conversion

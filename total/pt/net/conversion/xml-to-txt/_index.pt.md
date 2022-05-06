@@ -1,7 +1,7 @@
 ---
 title: Converter XML para TXT via API C#
 description: API C# para converter arquivo XML em TXT sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/xml-to-txt/
+url_ignore: /pt/net/conversion/xml-to-txt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PPTM-ot WORD-ba Java segítségével
 description: Java API a PPTM exportálásához WORD-ba Microsoft Word vagy PowerPoint használata nélkül
-url: /hu/java/conversion/pptm-to-word/
+url_ignore: /hu/java/conversion/pptm-to-word/
 family: total
 platformtag: net
 feature: conversion
@@ -24,7 +24,7 @@ otherformats: WORD DOT DOTM ODT TEXT DOTX FLATOPC RTF WORDX OTT WORDML WORDM
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 A PPTM-ból WORD-fájlba konvertálásához egyszerűen használhatja az Aspose.Total for Java-t közvetlenül a [Maven]-ből (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) alapú projektet, és vegyen fel könyvtárakat a pom.xml fájlba.
 
-Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads] webhelyről (https://downloads.aspose.com/total/java).
+Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

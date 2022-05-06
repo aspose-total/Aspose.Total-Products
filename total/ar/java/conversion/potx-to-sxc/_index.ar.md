@@ -1,7 +1,7 @@
 ---
 title: تحويل POTX إلى تنسيق SXC عبر Java
 description: قم بتحويل POTX إلى تنسيق SXC عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/potx-to-sxc/
+url_ignore: /ar/java/conversion/potx-to-sxc/
 family: total
 platformtag: net
 feature: conversion

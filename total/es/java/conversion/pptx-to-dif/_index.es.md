@@ -1,7 +1,7 @@
 ---
 title: Convierta PPTX a formato DIF a través de Java
 description: Convierta PPTX a formato DIF a través de Java sin usar Microsoft Excel o PowerPoint
-url: /es/java/conversion/pptx-to-dif/
+url_ignore: /es/java/conversion/pptx-to-dif/
 family: total
 platformtag: net
 feature: conversion

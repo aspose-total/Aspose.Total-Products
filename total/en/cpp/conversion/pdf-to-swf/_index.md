@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PDF to SWF  
 description: Convert PDF to SWF via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/pdf-to-swf/
+url_ignore: /cpp/conversion/pdf-to-swf/
 family: total
 platformtag: cpp
 feature: conversion

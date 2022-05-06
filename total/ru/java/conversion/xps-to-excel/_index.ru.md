@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга XPS в EXCEL
 description: Экспорт XPS в EXCEL через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/xps-to-excel/
+url_ignore: /ru/java/conversion/xps-to-excel/
 family: total
 platformtag: net
 feature: conversion

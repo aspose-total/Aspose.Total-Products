@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई के माध्यम से सीजीएम को ओडीपी में निर्यात करें
 description: Microsoft Word का उपयोग किए बिना TEX को POT में बदलने के लिए .NET API
-url: /hi/net/conversion/tex-to-pot/
+url_ignore: /hi/net/conversion/tex-to-pot/
 family: total
 platformtag: net
 feature: conversion

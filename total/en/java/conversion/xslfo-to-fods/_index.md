@@ -1,7 +1,7 @@
 ---
 title: Java API to Render XSLFO to FODS
 description: Export XSLFO to FODS via Java API without using Microsoft Excel or Adobe Reader
-url: /java/conversion/xslfo-to-fods/
+url_ignore: /java/conversion/xslfo-to-fods/
 family: total
 platformtag: java
 feature: conversion

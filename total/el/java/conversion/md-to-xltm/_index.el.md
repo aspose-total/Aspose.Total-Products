@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση MD σε XLTM
 description: Εξαγωγή MD σε XLTM μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/md-to-xltm/
+url_ignore: /el/java/conversion/md-to-xltm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java経由でMSGをODTにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにMSGをODTに変換するJavaAPI
-url: /ja/java/conversion/msg-to-odt/
+url_ignore: /ja/java/conversion/msg-to-odt/
 family: total
 platformtag: net
 feature: conversion

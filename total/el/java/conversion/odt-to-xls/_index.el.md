@@ -1,7 +1,7 @@
 ---
 title: Java API για μετατροπή ODT σε XLS
 description: Μετατροπή ODT σε XLS μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel
-url: /el/java/conversion/odt-to-xls/
+url_ignore: /el/java/conversion/odt-to-xls/
 family: total
 platformtag: net
 feature: conversion

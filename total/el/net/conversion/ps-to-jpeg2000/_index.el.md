@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή PS σε JPEG2000 μέσω C# API
 description: Εξάγετε το PS σε JPEG2000 στις εφαρμογές σας .NET χωρίς να χρησιμοποιήσετε καμία εφαρμογή τρίτου μέρους
-url: /el/net/conversion/ps-to-jpeg2000/
+url_ignore: /el/net/conversion/ps-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

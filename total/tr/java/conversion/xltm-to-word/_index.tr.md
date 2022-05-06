@@ -1,7 +1,7 @@
 ---
 title: Java kullanarak XLTM'yi WORD'ye dönüştürün
 description: Excel veya Word kullanarak XLTM'yi WORD'a Dışa Aktarmak için Java API
-url: /tr/java/conversion/xltm-to-word/
+url_ignore: /tr/java/conversion/xltm-to-word/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export CGM to GIF
 description: Convert CGM to GIF within C++ applications.
-url: /cpp/conversion/cgm-to-gif/
+url_ignore: /cpp/conversion/cgm-to-gif/
 family: total
 platformtag: cpp
 feature: conversion

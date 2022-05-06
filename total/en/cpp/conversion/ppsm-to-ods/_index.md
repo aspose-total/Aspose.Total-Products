@@ -1,7 +1,7 @@
 ---
 title: Convert PPSM to ODS via C++ 
 description: Export PPSM to ODS in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/ppsm-to-ods/
+url_ignore: /cpp/conversion/ppsm-to-ods/
 family: total
 platformtag: cpp
 feature: conversion

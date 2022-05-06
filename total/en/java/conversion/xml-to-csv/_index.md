@@ -1,7 +1,7 @@
 ---
 title: Java API to Render XML to CSV
 description: Export XML to CSV via Java API without using Microsoft Excel or Adobe Reader
-url: /java/conversion/xml-to-csv/
+url_ignore: /java/conversion/xml-to-csv/
 family: total
 platformtag: java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert OTT to ODP via C++
 description: Export OTT to ODP in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/ott-to-odp/
+url_ignore: /cpp/conversion/ott-to-odp/
 family: total
 platformtag: cpp
 feature: conversion

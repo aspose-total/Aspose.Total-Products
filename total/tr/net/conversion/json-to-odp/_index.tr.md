@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını .NET aracılığıyla ODP'ye dönüştürün
 description: Microsoft PowerPoint kullanmadan JSON'u C# ile ODP'ye ayrıştırın
-url: /tr/net/conversion/json-to-odp/
+url_ignore: /tr/net/conversion/json-to-odp/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: 用于将 SVG 导出到 RTF 的 Java API
 description: 使用本地 Java API 将 SVG 转换为 RTF
-url: /zh/java/conversion/svg-to-rtf/
+url_ignore: /zh/java/conversion/svg-to-rtf/
 family: total
 platformtag: net
 feature: conversion

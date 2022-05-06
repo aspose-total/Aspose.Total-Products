@@ -1,7 +1,7 @@
 ---
 title: Преобразование формата JSON в FLATOPC через Java
 description: Разобрать JSON в FLATOPC на Java без использования Microsoft Word
-url: /ru/java/conversion/json-to-flatopc/
+url_ignore: /ru/java/conversion/json-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

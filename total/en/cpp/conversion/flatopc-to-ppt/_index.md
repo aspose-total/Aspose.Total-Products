@@ -1,7 +1,7 @@
 ---
 title: Convert FLATOPC to PPT via C++
 description: Export FLATOPC to PPT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/flatopc-to-ppt/
+url_ignore: /cpp/conversion/flatopc-to-ppt/
 family: total
 platformtag: cpp
 feature: conversion

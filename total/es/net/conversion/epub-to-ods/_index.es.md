@@ -1,7 +1,7 @@
 ---
 title: Convierta EPUB a ODS a través de la API de C#
 description: API C# para convertir archivos EPUB a ODS sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/epub-to-ods/
+url_ignore: /es/net/conversion/epub-to-ods/
 family: total
 platformtag: net
 feature: conversion

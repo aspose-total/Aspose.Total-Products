@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a JSON-formátumot PPSM-vé .NET-en keresztül
 description: Elemezze a JSON-t PPSM-re C#-ban Microsoft PowerPoint használata nélkül
-url: /hu/net/conversion/json-to-ppsm/
+url_ignore: /hu/net/conversion/json-to-ppsm/
 family: total
 platformtag: net
 feature: conversion
@@ -19,15 +19,15 @@ Két egyszerű lépésben konvertálhatja a JSON-t PPSM-vé bármely .NET, C#, A
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertálja a JSON formátumot PPSM-vé a C# segítségével" %}}
 1. Hozzon létre egy új [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) objektumot, és olvassa be az érvényes JSON-adatokat a fájlból
-2. Importálja a JSON-fájlt a munkalapra a [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) osztály és a [Mentés](https://apireference.aspose.com/) használatával. cell/net/aspose.cells.workbook/save/methods/4) PPTX-ként
+2. Importálja a JSON-fájlt a munkalapra a [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) osztály és a [Save](https://apireference.aspose.com/) használatával. cell/net/aspose.cells.workbook/save/methods/4) PPTX-ként
 3. Töltse be a PPTX dokumentumot a [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) osztály használatával
-4. Mentse a dokumentumot PPSM formátumba a [Mentés](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) módszerrel
+4. Mentse a dokumentumot PPSM formátumba a [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) módszerrel
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 Telepítés parancssorból ```nuget install Aspose.Total``` néven, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.Total``` paranccsal.
 
-Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads] webhelyről (https://downloads.aspose.com/total/net).
+Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads](https://downloads.aspose.com/total/net) webhelyről.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}

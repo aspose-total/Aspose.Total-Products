@@ -1,7 +1,7 @@
 ---
 title: Converter PPSX para XLSM via C#
 description: Converter PPSX para XLSM em C# sem usar o Microsoft Excel ou Powerpoint
-url: /pt/net/conversion/ppsx-to-xlsm/
+url_ignore: /pt/net/conversion/ppsx-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XSLFO to POT  
 description: Convert XSLFO to POT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xslfo-to-pot/
+url_ignore: /cpp/conversion/xslfo-to-pot/
 family: total
 platformtag: cpp
 feature: conversion

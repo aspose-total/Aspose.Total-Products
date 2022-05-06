@@ -1,7 +1,7 @@
 ---
 title: Converter POT para formato EXCEL via Java
 description: Converta o formato POT para EXCEL via Java sem usar o Microsoft Excel ou PowerPoint
-url: /pt/java/conversion/pot-to-excel/
+url_ignore: /pt/java/conversion/pot-to-excel/
 family: total
 platformtag: net
 feature: conversion

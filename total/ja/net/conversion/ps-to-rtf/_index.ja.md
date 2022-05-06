@@ -1,7 +1,7 @@
 ---
 title: PSをRTFにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにPSをRTFに変換する
-url: /ja/net/conversion/ps-to-rtf/
+url_ignore: /ja/net/conversion/ps-to-rtf/
 family: total
 platformtag: net
 feature: conversion

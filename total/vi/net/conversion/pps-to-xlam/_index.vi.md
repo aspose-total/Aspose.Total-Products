@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi PPS sang XLAM qua C#
 description: Chuyển đổi PPS sang XLAM trong C# mà không cần sử dụng Microsoft Excel hoặc Powerpoint
-url: /vi/net/conversion/pps-to-xlam/
+url_ignore: /vi/net/conversion/pps-to-xlam/
 family: total
 platformtag: net
 feature: conversion

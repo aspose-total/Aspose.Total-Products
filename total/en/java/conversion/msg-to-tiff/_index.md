@@ -1,7 +1,7 @@
 ---
 title: Export MSG to TIFF via Java 
 description: Java API to Convert MSG to TIFF without using Microsoft Word or Outlook 
-url: /java/conversion/msg-to-tiff/
+url_ignore: /java/conversion/msg-to-tiff/
 family: total
 platformtag: java
 feature: conversion

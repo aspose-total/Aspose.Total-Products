@@ -1,7 +1,7 @@
 ---
 title: Java kullanarak XLSB'yi DOC'ye dönüştürün
 description: Excel veya Word kullanarak XLSB'yi DOC'a Dışa Aktarmak için Java API
-url: /tr/java/conversion/xlsb-to-doc/
+url_ignore: /tr/java/conversion/xlsb-to-doc/
 family: total
 platformtag: net
 feature: conversion

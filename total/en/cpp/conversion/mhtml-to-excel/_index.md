@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MHTML to EXCEL
 description: Convert MHTML to EXCEL via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/mhtml-to-excel/
+url_ignore: /cpp/conversion/mhtml-to-excel/
 family: total
 platformtag: cpp
 feature: conversion

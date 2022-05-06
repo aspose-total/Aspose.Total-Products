@@ -1,7 +1,7 @@
 ---
 title: 使用 Java 将 EXCEL 转换为 WORD
 description: 使用 Excel 或 Word 将 EXCEL 导出为 WORD 的 Java API
-url: /zh/java/conversion/excel-to-word/
+url_ignore: /zh/java/conversion/excel-to-word/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Xuất XSLFO sang PPSX qua C# API
 description: .NET API để chuyển đổi XSLFO sang PPSX mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/xslfo-to-ppsx/
+url_ignore: /vi/net/conversion/xslfo-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

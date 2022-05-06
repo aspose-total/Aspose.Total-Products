@@ -1,7 +1,7 @@
 ---
 title: Converteer PPTM naar EXCEL-formaat via Java
 description: Converteer PPTM naar EXCEL-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken
-url: /nl/java/conversion/pptm-to-excel/
+url_ignore: /nl/java/conversion/pptm-to-excel/
 family: total
 platformtag: net
 feature: conversion

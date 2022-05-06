@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to POTX via C++
 description: Export WORD to POTX in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/word-to-potx/
+url_ignore: /cpp/conversion/word-to-potx/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert PPTX to EXCEL via C++ 
 description: Export PPTX to EXCEL in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pptx-to-excel/
+url_ignore: /cpp/conversion/pptx-to-excel/
 family: total
 platformtag: cpp
 feature: conversion

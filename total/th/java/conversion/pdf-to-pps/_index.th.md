@@ -1,7 +1,7 @@
 ---
 title: แปลง PDF เป็น PPS ผ่าน Java API
 description: Java API เพื่อแปลง PDF เป็น PPS โดยไม่ต้องใช้ Microsoft Word
-url: /th/java/conversion/pdf-to-pps/
+url_ignore: /th/java/conversion/pdf-to-pps/
 family: total
 platformtag: net
 feature: conversion

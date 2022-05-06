@@ -1,7 +1,7 @@
 ---
 title: Java API för att rendera CGM till XLTX
 description: Exportera CGM till XLTX via Java API utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/java/conversion/cgm-to-xltx/
+url_ignore: /sv/java/conversion/cgm-to-xltx/
 family: total
 platformtag: net
 feature: conversion

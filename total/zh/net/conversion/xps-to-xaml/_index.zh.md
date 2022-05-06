@@ -1,7 +1,7 @@
 ---
 title: 通过 C# API 将 XPS 导出到 XAML
 description: .NET API 在不使用 Microsoft Word 的情况下将 XPS 转换为 XAML
-url: /zh/net/conversion/xps-to-xaml/
+url_ignore: /zh/net/conversion/xps-to-xaml/
 family: total
 platformtag: net
 feature: conversion

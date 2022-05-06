@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını .NET aracılığıyla POT'ye dönüştürün
 description: Microsoft PowerPoint kullanmadan JSON'u C# ile POT'ye ayrıştırın
-url: /tr/net/conversion/json-to-pot/
+url_ignore: /tr/net/conversion/json-to-pot/
 family: total
 platformtag: net
 feature: conversion

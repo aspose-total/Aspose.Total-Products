@@ -1,7 +1,7 @@
 ---
 title: API .NET para convertir ODT a FODS
 description: API de C# para convertir ODT a FODS sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/odt-to-fods/
+url_ignore: /es/net/conversion/odt-to-fods/
 family: total
 platformtag: net
 feature: conversion

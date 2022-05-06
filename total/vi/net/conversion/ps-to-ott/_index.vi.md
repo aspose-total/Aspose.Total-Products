@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất PS sang OTT
 description: Chuyển đổi PS sang OTT mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/ps-to-ott/
+url_ignore: /vi/net/conversion/ps-to-ott/
 family: total
 platformtag: net
 feature: conversion

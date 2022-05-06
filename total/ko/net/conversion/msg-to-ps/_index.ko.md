@@ -1,7 +1,7 @@
 ---
 title: MSG을 PS로 내보내는 C# API
 description: .NET에서 Microsoft Word 또는 Outlook을 사용하지 않고 MSG을 PS로 변환
-url: /ko/net/conversion/msg-to-ps/
+url_ignore: /ko/net/conversion/msg-to-ps/
 family: total
 platformtag: net
 feature: conversion

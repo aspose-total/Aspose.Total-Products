@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก XPS ไปยัง FLATOPC
 description: แปลง XPS เป็น FLATOPC โดยไม่ต้องใช้ Microsoft Word
-url: /th/net/conversion/xps-to-flatopc/
+url_ignore: /th/net/conversion/xps-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

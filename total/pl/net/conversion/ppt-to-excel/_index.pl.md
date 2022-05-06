@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PPT na EXCEL za pomocą C#
 description: Konwertuj PPT na EXCEL w C# bez użycia Microsoft Excel lub Powerpoint
-url: /pl/net/conversion/ppt-to-excel/
+url_ignore: /pl/net/conversion/ppt-to-excel/
 family: total
 platformtag: net
 feature: conversion
@@ -33,7 +33,8 @@ Możesz też pobrać instalator offline MSI lub biblioteki DLL w pliku ZIP ze st
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ Możesz też pobrać instalator offline MSI lub biblioteki DLL w pliku ZIP ze st
 Podczas konwertowania pliku PPT do EXCEL, jeśli wejściowy dokument PPT jest chroniony hasłem, nie można go przekonwertować do EXCEL bez odszyfrowania dokumentu. Gdy Twój dokument jest chroniony hasłem, oznacza to, że wymusza pewne ograniczenia prezentacji. Aby usunąć ograniczenia, należy wprowadzić hasło. Prezentacja chroniona hasłem jest uważana za prezentację zablokowaną. API umożliwia otwarcie zaszyfrowanego dokumentu poprzez podanie prawidłowego hasła w obiekcie LoadOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Podczas konwertowania pliku PPT do EXCEL, jeśli wejściowy dokument PPT jest ch
 Podczas konwertowania pliku PPT do EXCEL możesz również dodać znak wodny do wyjściowego formatu pliku EXCEL. Aby dodać znak wodny, możesz utworzyć nowy obiekt Workbook i otworzyć przekonwertowany dokument HTML, wybrać Arkusz roboczy poprzez jego indeks, utworzyć Kształt i użyć jego funkcji AddTextEffect. Następnie możesz zapisać swój dokument HTML jako EXCEL ze znakiem wodnym. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

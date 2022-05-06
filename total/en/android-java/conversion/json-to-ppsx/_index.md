@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to PPSX in Android via Java 
 description: Parse JSON to PPSX in Android Applications without using Microsoft PowerPoint
-url: /android-java/conversion/json-to-ppsx/
+url_ignore: /android-java/conversion/json-to-ppsx/
 family: total
 platformtag: android-java
 feature: conversion

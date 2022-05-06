@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOTX to TSV
 description: Convert DOTX to TSV in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/dotx-to-tsv/
+url_ignore: /android-java/conversion/dotx-to-tsv/
 family: total
 platformtag: android-java
 feature: conversion

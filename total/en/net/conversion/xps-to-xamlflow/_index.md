@@ -1,7 +1,7 @@
 ---
 title: C# API to Export XPS to XAMLFLOW
 description: Convert XPS to XAMLFLOW without using Microsoft Word
-url: /net/conversion/xps-to-xamlflow/
+url_ignore: /net/conversion/xps-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

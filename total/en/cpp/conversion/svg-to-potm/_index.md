@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert SVG to POTM  
 description: Convert SVG to POTM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/svg-to-potm/
+url_ignore: /cpp/conversion/svg-to-potm/
 family: total
 platformtag: cpp
 feature: conversion

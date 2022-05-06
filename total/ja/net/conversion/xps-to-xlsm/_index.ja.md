@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXPSをXLSMに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにXPSファイルをXLSMに変換するC＃API
-url: /ja/net/conversion/xps-to-xlsm/
+url_ignore: /ja/net/conversion/xps-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

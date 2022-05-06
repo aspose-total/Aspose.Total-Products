@@ -1,7 +1,7 @@
 ---
 title: Convert DOCM to PPT via Java
 description: Java API to Export DOCM to PPT without using Microsoft Word or PowerPoint
-url: /java/conversion/docm-to-ppt/
+url_ignore: /java/conversion/docm-to-ppt/
 family: total
 platformtag: java
 feature: conversion

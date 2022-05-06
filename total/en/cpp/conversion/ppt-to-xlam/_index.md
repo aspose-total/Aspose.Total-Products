@@ -1,7 +1,7 @@
 ---
 title: Convert PPT to XLAM via C++ 
 description: Export PPT to XLAM in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/ppt-to-xlam/
+url_ignore: /cpp/conversion/ppt-to-xlam/
 family: total
 platformtag: cpp
 feature: conversion

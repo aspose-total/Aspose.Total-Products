@@ -1,7 +1,7 @@
 ---
 title: Converter PPT para formato XLSB via Java
 description: Converta o formato PPT para XLSB via Java sem usar o Microsoft Excel ou PowerPoint
-url: /pt/java/conversion/ppt-to-xlsb/
+url_ignore: /pt/java/conversion/ppt-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to FLATOPC in Android via Java 
 description: Parse JSON to FLATOPC in Java without using Microsoft Word
-url: /android-java/conversion/json-to-flatopc/
+url_ignore: /android-java/conversion/json-to-flatopc/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını Java ile TGA'ye Dönüştür
 description: Microsoft PowerPoint kullanmadan Java'da JSON'u TGA'ye ayrıştırın
-url: /tr/java/conversion/json-to-tga/
+url_ignore: /tr/java/conversion/json-to-tga/
 family: total
 platformtag: net
 feature: conversion

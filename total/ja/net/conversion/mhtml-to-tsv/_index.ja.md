@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMHTMLをTSVに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにMHTMLファイルをTSVに変換するC＃API
-url: /ja/net/conversion/mhtml-to-tsv/
+url_ignore: /ja/net/conversion/mhtml-to-tsv/
 family: total
 platformtag: net
 feature: conversion

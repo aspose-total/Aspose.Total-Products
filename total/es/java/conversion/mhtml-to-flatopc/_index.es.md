@@ -1,7 +1,7 @@
 ---
 title: API de Java para exportar MHTML a FLATOPC
 description: Convierta MHTML a FLATOPC usando la API de Java en las instalaciones
-url: /es/java/conversion/mhtml-to-flatopc/
+url_ignore: /es/java/conversion/mhtml-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exportar PDF a PPT a través de la API de C#
 description: .NET API para convertir PDF a PPT sin usar Microsoft Word
-url: /es/net/conversion/pdf-to-ppt/
+url_ignore: /es/net/conversion/pdf-to-ppt/
 family: total
 platformtag: net
 feature: conversion

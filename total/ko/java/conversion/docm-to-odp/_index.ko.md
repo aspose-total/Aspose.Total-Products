@@ -1,7 +1,7 @@
 ---
 title: Java를 통해 DOCM를 ODP로 변환
 description: Microsoft Word 또는 PowerPoint를 사용하지 않고 DOCM를 ODP로 내보내는 Java API
-url: /ko/java/conversion/docm-to-odp/
+url_ignore: /ko/java/conversion/docm-to-odp/
 family: total
 platformtag: net
 feature: conversion
@@ -35,7 +35,7 @@ DOCM에서 ODP로 파일 변환을 위해 [Maven](https://repository.aspose.com/
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="변환 요구 사항" %}}Document
-API를 사용하면 암호로 보호된 DOCM 문서를 ODP로 변환할 수도 있습니다. 입력한 DOCM 문서가 비밀번호로 보호되어 있는 경우 비밀번호를 사용하지 않고는 ODP 형식으로 변환할 수 없습니다. 암호화된 문서를 열려면 LoadOptions 개체에 올바른 암호를 설정하고 이를 Docmument 생성자에 전달할 수 있습니다.  
+API를 사용하면 암호로 보호된 DOCM 문서를 ODP로 변환할 수도 있습니다. 입력한 DOCM 문서가 비밀번호로 보호되어 있는 경우 비밀번호를 사용하지 않고는 ODP 형식으로 변환할 수 없습니다. 암호화된 문서를 열려면 LoadOptions 개체에 올바른 암호를 설정하고 이를 Document 생성자에 전달할 수 있습니다.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-docm-to-pptx-with-watermark.java" >}}

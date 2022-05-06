@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất EMAIL sang XPS
 description: Chuyển đổi EMAIL thành XPS mà không cần sử dụng Microsoft Word hoặc Outlook trên .NET
-url: /vi/net/conversion/email-to-xps/
+url_ignore: /vi/net/conversion/email-to-xps/
 family: total
 platformtag: net
 feature: conversion

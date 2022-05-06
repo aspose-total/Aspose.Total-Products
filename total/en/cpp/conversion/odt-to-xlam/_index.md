@@ -1,7 +1,7 @@
 ---
 title: Convert ODT to XLAM in C++
 description: C++ API to Convert ODT to XLAM without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/odt-to-xlam/
+url_ignore: /cpp/conversion/odt-to-xlam/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını .NET aracılığıyla WORD'ye dönüştürün
 description: Microsoft Word kullanmadan JSON'u C# ile WORD'ye ayrıştırın
-url: /tr/net/conversion/json-to-word/
+url_ignore: /tr/net/conversion/json-to-word/
 family: total
 platformtag: net
 feature: conversion

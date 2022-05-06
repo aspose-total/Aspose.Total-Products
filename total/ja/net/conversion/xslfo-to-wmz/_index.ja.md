@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXSLFOをWMZに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでXSLFOをWMZにエクスポートします
-url: /ja/net/conversion/xslfo-to-wmz/
+url_ignore: /ja/net/conversion/xslfo-to-wmz/
 family: total
 platformtag: net
 feature: conversion

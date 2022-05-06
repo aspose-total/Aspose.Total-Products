@@ -1,7 +1,7 @@
 ---
 title: Convert PPTX to CSV via C++ 
 description: Export PPTX to CSV in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pptx-to-csv/
+url_ignore: /cpp/conversion/pptx-to-csv/
 family: total
 platformtag: cpp
 feature: conversion

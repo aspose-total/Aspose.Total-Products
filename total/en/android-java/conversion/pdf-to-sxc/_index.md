@@ -1,7 +1,7 @@
 ---
 title: Convert PDF to SXC in Android via Java
 description: Render PDF to SXC in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/pdf-to-sxc/
+url_ignore: /android-java/conversion/pdf-to-sxc/
 family: total
 platformtag: android-java
 feature: conversion

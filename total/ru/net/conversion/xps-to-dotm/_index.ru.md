@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта XPS в DOTM
 description: Преобразование XPS в DOTM без использования Microsoft Word
-url: /ru/net/conversion/xps-to-dotm/
+url_ignore: /ru/net/conversion/xps-to-dotm/
 family: total
 platformtag: net
 feature: conversion

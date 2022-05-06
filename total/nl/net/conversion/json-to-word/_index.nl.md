@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar WORD via .NET
 description: Parseer JSON naar WORD in C# zonder Microsoft Word te gebruiken
-url: /nl/net/conversion/json-to-word/
+url_ignore: /nl/net/conversion/json-to-word/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API เพื่อส่งออก EPUB ไปยัง WORDML
 description: แปลง EPUB เป็น WORDML โดยใช้ Java API . ในตัว
-url: /th/java/conversion/epub-to-wordml/
+url_ignore: /th/java/conversion/epub-to-wordml/
 family: total
 platformtag: net
 feature: conversion

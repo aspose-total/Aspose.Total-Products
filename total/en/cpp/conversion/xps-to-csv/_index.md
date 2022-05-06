@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XPS to CSV
 description: Convert XPS to CSV via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xps-to-csv/
+url_ignore: /cpp/conversion/xps-to-csv/
 family: total
 platformtag: cpp
 feature: conversion

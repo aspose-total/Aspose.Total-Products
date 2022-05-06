@@ -1,7 +1,7 @@
 ---
 title: API .NET para convertir ODT a CSV
 description: API de C# para convertir ODT a CSV sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/odt-to-csv/
+url_ignore: /es/net/conversion/odt-to-csv/
 family: total
 platformtag: net
 feature: conversion

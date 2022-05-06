@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してEPUBをPPTMに変換する
 description: MicrosoftWordを使用せずにEPUBをPPTMに変換するJavaAPI
-url: /ja/java/conversion/epub-to-pptm/
+url_ignore: /ja/java/conversion/epub-to-pptm/
 family: total
 platformtag: net
 feature: conversion

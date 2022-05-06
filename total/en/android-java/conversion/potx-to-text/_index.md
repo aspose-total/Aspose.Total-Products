@@ -1,7 +1,7 @@
 ---
 title: Export POTX to TEXT on Andorid via Java  
 description: Convert POTX to TEXT in mobile apps without installing any software 
-url: /android-java/conversion/potx-to-text/
+url_ignore: /android-java/conversion/potx-to-text/
 family: total
 platformtag: android-java
 feature: conversion

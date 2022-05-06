@@ -1,7 +1,7 @@
 ---
 title: Преобразование MD в EXCEL через C# API
 description: C# API для преобразования файла MD в EXCEL без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/md-to-excel/
+url_ignore: /ru/net/conversion/md-to-excel/
 family: total
 platformtag: net
 feature: conversion

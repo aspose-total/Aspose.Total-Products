@@ -1,7 +1,7 @@
 ---
 title: Export PDF to POWERPOINT in Android 
 description: Android API to Convert PDF to POWERPOINT without using Microsoft Word
-url: /android-java/conversion/pdf-to-powerpoint/
+url_ignore: /android-java/conversion/pdf-to-powerpoint/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API de Java para convertir WORD a XLS
 description: Convierta WORD a XLS a través de Java sin usar Microsoft Word o Microsoft Excel
-url: /es/java/conversion/word-to-xls/
+url_ignore: /es/java/conversion/word-to-xls/
 family: total
 platformtag: net
 feature: conversion

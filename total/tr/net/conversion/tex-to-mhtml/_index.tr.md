@@ -1,7 +1,7 @@
 ---
 title: TEX'yi MHTML'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan TEX'yi MHTML'ye dönüştürün
-url: /tr/net/conversion/tex-to-mhtml/
+url_ignore: /tr/net/conversion/tex-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

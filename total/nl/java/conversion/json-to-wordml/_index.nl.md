@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-formaat naar WORDML via Java
 description: JSON ontleden naar WORDML in Java zonder Microsoft Word te gebruiken
-url: /nl/java/conversion/json-to-wordml/
+url_ignore: /nl/java/conversion/json-to-wordml/
 family: total
 platformtag: net
 feature: conversion

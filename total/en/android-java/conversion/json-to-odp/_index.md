@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to ODP in Android via Java 
 description: Parse JSON to ODP in Android Applications without using Microsoft PowerPoint
-url: /android-java/conversion/json-to-odp/
+url_ignore: /android-java/conversion/json-to-odp/
 family: total
 platformtag: android-java
 feature: conversion

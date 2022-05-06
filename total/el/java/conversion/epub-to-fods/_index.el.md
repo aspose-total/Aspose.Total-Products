@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση EPUB σε FODS
 description: Εξαγωγή EPUB σε FODS μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/epub-to-fods/
+url_ignore: /el/java/conversion/epub-to-fods/
 family: total
 platformtag: net
 feature: conversion

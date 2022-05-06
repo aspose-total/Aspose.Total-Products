@@ -1,7 +1,7 @@
 ---
 title: Преобразование PCL в WMZ через C# API
 description: Экспорт PCL в WMZ в ваших приложениях .NET без использования каких-либо сторонних приложений.
-url: /ru/net/conversion/pcl-to-wmz/
+url_ignore: /ru/net/conversion/pcl-to-wmz/
 family: total
 platformtag: net
 feature: conversion

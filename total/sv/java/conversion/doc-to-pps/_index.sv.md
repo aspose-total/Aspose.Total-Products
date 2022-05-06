@@ -1,7 +1,7 @@
 ---
 title: Konvertera DOC till PPS via Java
 description: Java API för att exportera DOC till PPS utan att använda Microsoft Word eller PowerPoint
-url: /sv/java/conversion/doc-to-pps/
+url_ignore: /sv/java/conversion/doc-to-pps/
 family: total
 platformtag: net
 feature: conversion

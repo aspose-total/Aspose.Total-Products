@@ -1,7 +1,7 @@
 ---
 title: C# API για εξαγωγή MSG σε PS
 description: Μετατροπή MSG σε PS χωρίς χρήση του Microsoft Word ή του Outlook στο .NET
-url: /el/net/conversion/msg-to-ps/
+url_ignore: /el/net/conversion/msg-to-ps/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convierta EPUB a FODS a través de la API de C#
 description: API C# para convertir archivos EPUB a FODS sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/epub-to-fods/
+url_ignore: /es/net/conversion/epub-to-fods/
 family: total
 platformtag: net
 feature: conversion

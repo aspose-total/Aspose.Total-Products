@@ -1,7 +1,7 @@
 ---
 title: Export EML to PDF via C++
 description: C++ API to Convert EML to PDF without using Microsoft Word or Outlook
-url: /cpp/conversion/eml-to-pdf/
+url_ignore: /cpp/conversion/eml-to-pdf/
 family: total
 platformtag: cpp
 feature: conversion

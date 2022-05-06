@@ -1,7 +1,7 @@
 ---
 title: Convert POTM to TSV in Android via Java
 description: Convert POTM to TSV in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/potm-to-tsv/
+url_ignore: /android-java/conversion/potm-to-tsv/
 family: total
 platformtag: android-java
 feature: conversion

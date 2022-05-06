@@ -1,7 +1,7 @@
 ---
 title: Преобразование FODS в DOC с помощью .NET 
 description: Преобразование FODS в DOC на платформах .NET Framework, .NET Core, Mono или Xamarin.
-url: /ru/net/conversion/fods-to-doc/
+url_ignore: /ru/net/conversion/fods-to-doc/
 family: total
 platformtag: net
 feature: conversion

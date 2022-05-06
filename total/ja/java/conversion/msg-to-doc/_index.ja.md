@@ -1,7 +1,7 @@
 ---
 title: Java経由でMSGをDOCにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにMSGをDOCに変換するJavaAPI
-url: /ja/java/conversion/msg-to-doc/
+url_ignore: /ja/java/conversion/msg-to-doc/
 family: total
 platformtag: net
 feature: conversion

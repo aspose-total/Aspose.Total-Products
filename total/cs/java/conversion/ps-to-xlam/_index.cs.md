@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení PS do XLAM
 description: Export PS do XLAM přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/ps-to-xlam/
+url_ignore: /cs/java/conversion/ps-to-xlam/
 family: total
 platformtag: net
 feature: conversion

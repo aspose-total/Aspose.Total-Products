@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Konvertieren von DOCX in FODS
 description: Konvertieren Sie DOCX über Java in FODS, ohne Microsoft Word oder Microsoft Excel zu verwenden
-url: /de/java/conversion/docx-to-fods/
+url_ignore: /de/java/conversion/docx-to-fods/
 family: total
 platformtag: net
 feature: conversion

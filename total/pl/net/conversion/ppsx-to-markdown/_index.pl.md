@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PPSX na MARKDOWN za pomocą C#
 description: Konwertuj PPSX na MARKDOWN w C# bez użycia Microsoft Excel lub Powerpoint
-url: /pl/net/conversion/ppsx-to-markdown/
+url_ignore: /pl/net/conversion/ppsx-to-markdown/
 family: total
 platformtag: net
 feature: conversion
@@ -33,7 +33,8 @@ Możesz też pobrać instalator offline MSI lub biblioteki DLL w pliku ZIP ze st
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ Możesz też pobrać instalator offline MSI lub biblioteki DLL w pliku ZIP ze st
 Podczas konwertowania pliku PPSX do MARKDOWN, jeśli wejściowy dokument PPSX jest chroniony hasłem, nie można go przekonwertować do MARKDOWN bez odszyfrowania dokumentu. Gdy Twój dokument jest chroniony hasłem, oznacza to, że wymusza pewne ograniczenia prezentacji. Aby usunąć ograniczenia, należy wprowadzić hasło. Prezentacja chroniona hasłem jest uważana za prezentację zablokowaną. API umożliwia otwarcie zaszyfrowanego dokumentu poprzez podanie prawidłowego hasła w obiekcie LoadOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Podczas konwertowania pliku PPSX do MARKDOWN, jeśli wejściowy dokument PPSX je
 Podczas konwertowania pliku PPSX do MARKDOWN możesz również dodać znak wodny do wyjściowego formatu pliku MARKDOWN. Aby dodać znak wodny, możesz utworzyć nowy obiekt Workbook i otworzyć przekonwertowany dokument HTML, wybrać Arkusz roboczy poprzez jego indeks, utworzyć Kształt i użyć jego funkcji AddTextEffect. Następnie możesz zapisać swój dokument HTML jako MARKDOWN ze znakiem wodnym. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

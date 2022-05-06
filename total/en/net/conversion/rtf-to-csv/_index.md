@@ -1,7 +1,7 @@
 ---
 title: .NET API to Convert RTF to CSV 
 description: C# API to Convert RTF to CSV without using Microsoft Excel or Adobe Reader
-url: /net/conversion/rtf-to-csv/
+url_ignore: /net/conversion/rtf-to-csv/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: CGMをRTFにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してCGMをRTFに変換する
-url: /ja/java/conversion/cgm-to-rtf/
+url_ignore: /ja/java/conversion/cgm-to-rtf/
 family: total
 platformtag: net
 feature: conversion

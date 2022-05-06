@@ -1,7 +1,7 @@
 ---
 title: TEXをMHTMLにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してTEXをMHTMLに変換する
-url: /ja/java/conversion/tex-to-mhtml/
+url_ignore: /ja/java/conversion/tex-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

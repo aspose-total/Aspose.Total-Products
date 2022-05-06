@@ -1,7 +1,7 @@
 ---
 title: C# API pro export MSG do FLATOPC
 description: Převeďte MSG na FLATOPC bez použití Microsoft Word nebo Outlook na .NET
-url: /cs/net/conversion/msg-to-flatopc/
+url_ignore: /cs/net/conversion/msg-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

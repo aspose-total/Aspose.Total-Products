@@ -1,7 +1,7 @@
 ---
 title: Export CGM to PPS in Android 
 description: Android API to Convert CGM to PPS without using Microsoft Word
-url: /android-java/conversion/cgm-to-pps/
+url_ignore: /android-java/conversion/cgm-to-pps/
 family: total
 platformtag: android-java
 feature: conversion

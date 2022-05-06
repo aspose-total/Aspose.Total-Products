@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してPDFをPPSに変換する
 description: MicrosoftWordを使用せずにPDFをPPSに変換するJavaAPI
-url: /ja/java/conversion/pdf-to-pps/
+url_ignore: /ja/java/conversion/pdf-to-pps/
 family: total
 platformtag: net
 feature: conversion

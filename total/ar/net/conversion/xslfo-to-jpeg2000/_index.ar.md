@@ -1,7 +1,7 @@
 ---
 title: تحويل XSLFO إلى JPEG2000 عبر C# API
 description: قم بتصدير XSLFO إلى JPEG2000 في تطبيقات .NET دون استخدام أي تطبيق تابع لجهة خارجية
-url: /ar/net/conversion/xslfo-to-jpeg2000/
+url_ignore: /ar/net/conversion/xslfo-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

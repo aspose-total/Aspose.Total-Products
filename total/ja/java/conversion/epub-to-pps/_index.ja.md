@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してEPUBをPPSに変換する
 description: MicrosoftWordを使用せずにEPUBをPPSに変換するJavaAPI
-url: /ja/java/conversion/epub-to-pps/
+url_ignore: /ja/java/conversion/epub-to-pps/
 family: total
 platformtag: net
 feature: conversion

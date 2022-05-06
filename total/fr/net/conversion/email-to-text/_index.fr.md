@@ -1,7 +1,7 @@
 ---
 title: API C# pour exporter EMAIL vers TEXT
 description: Convertir EMAIL en TEXT sans utiliser Microsoft Word ou Outlook sur .NET
-url: /fr/net/conversion/email-to-text/
+url_ignore: /fr/net/conversion/email-to-text/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: EPUB GIF MD RTF DOCM PCL FLATOPC JPEG PDF EMF WORDML DOTX ODT DOTM
 {{< blocks/products/pf/i18n/feature-page-header h1="Exporter EMAIL vers TEXT via .NET" h2="API .NET pour rendre EMAIL en TEXT sous Windows, macOS et Linux sans utiliser Word ou Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Si vous êtes un développeur .NET cherchant à ajouter des fonctionnalités de conversion EMAIL vers TEXT dans vos applications, les API de manipulation de format de fichier [Aspose.Total pour .NET](https://products.aspose.com/total/net/) sont la solution. avant. En utilisant [Aspose.Email pour .NET](https://products.aspose.com/email/net/), vous pouvez convertir le format de fichier EMAIL en HTML. Après cela, en utilisant [Aspose.Words pour .NET](https://products.aspose.com/words/net/), vous pouvez restituer HTML en TEXT.
+Si vous êtes un développeur .NET cherchant à ajouter des fonctionnalités de conversion EMAIL vers TEXT dans vos applications, les API de manipulation de format de fichier [Aspose.Total for .NET](https://products.aspose.com/total/net/) sont la solution. avant. En utilisant [Aspose.Email for .NET](https://products.aspose.com/email/net/), vous pouvez convertir le format de fichier EMAIL en HTML. Après cela, en utilisant [Aspose.Words for .NET](https://products.aspose.com/words/net/), vous pouvez restituer HTML en TEXT.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.text", SaveFormat.Text);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analyser le fichier EMAIL via .NET" %}}
-Avant de convertir EMAIL en TEXT, si vous voulez vous assurer que vous convertissez le bon e-mail, vous pouvez charger le document EMAIL, l'analyser et jeter un œil à la propriété souhaitée. En utilisant la classe [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) de [Aspose.Email pour .NET](https://products.aspose.com/email /net/), vous pouvez obtenir des informations sur l'expéditeur et les destinataires. Par exemple, vous pouvez rechercher un e-mail d'expéditeur spécifique pour la conversion à l'aide de la propriété [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
+Avant de convertir EMAIL en TEXT, si vous voulez vous assurer que vous convertissez le bon e-mail, vous pouvez charger le document EMAIL, l'analyser et jeter un œil à la propriété souhaitée. En utilisant la classe [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) de [Aspose.Email for .NET](https://products.aspose.com/email /net/), vous pouvez obtenir des informations sur l'expéditeur et les destinataires. Par exemple, vous pouvez rechercher un e-mail d'expéditeur spécifique pour la conversion à l'aide de la propriété [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -63,7 +63,7 @@ if(outlookMessageFile.SenderName == "John"){
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Restreindre l'édition de documents TEXT via .NET" %}}
-Lors de l'enregistrement du document de EMAIL vers TEXT, vous devrez peut-être protéger votre document de sortie. Parfois, vous devrez peut-être limiter la possibilité de modifier un document et n'autoriser que certaines actions avec celui-ci. Cela peut être utile pour empêcher d'autres personnes de modifier des informations sensibles et confidentielles dans votre document. L'API [Aspose.Words pour .NET](https://products.aspose.com/words/net/) vous permet de contrôler la manière dont vous restreignez le contenu à l'aide de [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype) paramètre d'énumération. Vous pouvez définir votre document en lecture seule en utilisant les lignes de code suivantes. 
+Lors de l'enregistrement du document de EMAIL vers TEXT, vous devrez peut-être protéger votre document de sortie. Parfois, vous devrez peut-être limiter la possibilité de modifier un document et n'autoriser que certaines actions avec celui-ci. Cela peut être utile pour empêcher d'autres personnes de modifier des informations sensibles et confidentielles dans votre document. L'API [Aspose.Words for .NET](https://products.aspose.com/words/net/) vous permet de contrôler la manière dont vous restreignez le contenu à l'aide de [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype) paramètre d'énumération. Vous pouvez définir votre document en lecture seule en utilisant les lignes de code suivantes. 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

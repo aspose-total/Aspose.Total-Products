@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie XLTM in WORD mit Java
 description: Java-API zum Exportieren von XLTM in WORD mit Excel oder Word
-url: /de/java/conversion/xltm-to-word/
+url_ignore: /de/java/conversion/xltm-to-word/
 family: total
 platformtag: net
 feature: conversion

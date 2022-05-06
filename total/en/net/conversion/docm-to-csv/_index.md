@@ -1,7 +1,7 @@
 ---
 title: .NET API to Convert DOCM to CSV 
 description: C# API to Convert DOCM to CSV without using Microsoft Excel or Adobe Reader
-url: /net/conversion/docm-to-csv/
+url_ignore: /net/conversion/docm-to-csv/
 family: total
 platformtag: net
 feature: conversion

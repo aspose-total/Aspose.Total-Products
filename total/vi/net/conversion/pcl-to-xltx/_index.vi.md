@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi PCL sang XLTX thông qua API C#
 description: C# API để chuyển đổi tệp PCL sang XLTX mà không cần sử dụng Microsoft Excel hoặc Adobe Reader
-url: /vi/net/conversion/pcl-to-xltx/
+url_ignore: /vi/net/conversion/pcl-to-xltx/
 family: total
 platformtag: net
 feature: conversion

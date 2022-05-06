@@ -1,7 +1,7 @@
 ---
 title: แปลงรูปแบบ JSON เป็น PCL ผ่าน Java
 description: แยก JSON เป็น PCL ใน Java โดยไม่ต้องใช้ Microsoft Word
-url: /th/java/conversion/json-to-pcl/
+url_ignore: /th/java/conversion/json-to-pcl/
 family: total
 platformtag: net
 feature: conversion

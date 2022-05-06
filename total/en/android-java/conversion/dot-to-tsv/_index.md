@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOT to TSV
 description: Convert DOT to TSV in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/dot-to-tsv/
+url_ignore: /android-java/conversion/dot-to-tsv/
 family: total
 platformtag: android-java
 feature: conversion

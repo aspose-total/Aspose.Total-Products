@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPSをPSDに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでPSをPSDにエクスポートします
-url: /ja/net/conversion/ps-to-psd/
+url_ignore: /ja/net/conversion/ps-to-psd/
 family: total
 platformtag: net
 feature: conversion

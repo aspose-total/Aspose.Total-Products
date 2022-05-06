@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PS to WORDML
 description: Transform PS to WORDML via Android via Java API
-url: /android-java/conversion/ps-to-wordml/
+url_ignore: /android-java/conversion/ps-to-wordml/
 family: total
 platformtag: android-java
 feature: conversion

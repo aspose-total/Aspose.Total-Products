@@ -1,7 +1,7 @@
 ---
 title: .NET-API zum Konvertieren von DOTM in XLT
 description: C#-API zum Konvertieren von DOTM in XLT ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/dotm-to-xlt/
+url_ignore: /de/net/conversion/dotm-to-xlt/
 family: total
 platformtag: net
 feature: conversion

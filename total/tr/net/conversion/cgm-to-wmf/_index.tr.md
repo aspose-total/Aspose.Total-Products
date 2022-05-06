@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla CGM'yi WMF'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan CGM'yi .NET uygulamalarınızda WMF'ye aktarın
-url: /tr/net/conversion/cgm-to-wmf/
+url_ignore: /tr/net/conversion/cgm-to-wmf/
 family: total
 platformtag: net
 feature: conversion

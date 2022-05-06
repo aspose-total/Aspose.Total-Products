@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXPSをPOTMにエクスポートする
 description: MicrosoftWordを使用せずにXPSをPOTMに変換する.NETAPI
-url: /ja/net/conversion/xps-to-potm/
+url_ignore: /ja/net/conversion/xps-to-potm/
 family: total
 platformtag: net
 feature: conversion

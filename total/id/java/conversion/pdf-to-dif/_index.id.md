@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender PDF ke DIF
 description: Ekspor PDF ke DIF melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/pdf-to-dif/
+url_ignore: /id/java/conversion/pdf-to-dif/
 family: total
 platformtag: net
 feature: conversion

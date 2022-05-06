@@ -1,7 +1,7 @@
 ---
 title: Java API do renderowania XSLFO do CSV
 description: Eksportuj XSLFO do CSV przez Java API bez użycia Microsoft Excel lub Adobe Reader
-url: /pl/java/conversion/xslfo-to-csv/
+url_ignore: /pl/java/conversion/xslfo-to-csv/
 family: total
 platformtag: net
 feature: conversion

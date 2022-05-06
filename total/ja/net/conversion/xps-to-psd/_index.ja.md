@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXPSをPSDに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでXPSをPSDにエクスポートします
-url: /ja/net/conversion/xps-to-psd/
+url_ignore: /ja/net/conversion/xps-to-psd/
 family: total
 platformtag: net
 feature: conversion

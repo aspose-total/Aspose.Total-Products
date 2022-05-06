@@ -1,7 +1,7 @@
 ---
 title: C#-API zum Exportieren von SVG nach DOT
 description: Konvertieren Sie SVG in DOT, ohne Microsoft Word zu verwenden
-url: /de/net/conversion/svg-to-dot/
+url_ignore: /de/net/conversion/svg-to-dot/
 family: total
 platformtag: net
 feature: conversion

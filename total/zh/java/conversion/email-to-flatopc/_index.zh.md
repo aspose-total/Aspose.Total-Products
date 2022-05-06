@@ -1,7 +1,7 @@
 ---
 title: 通过 Java 将 EMAIL 导出为 FLATOPC
 description: 无需使用 Microsoft Word 或 Outlook 即可将 EMAIL 转换为 FLATOPC 的 Java API
-url: /zh/java/conversion/email-to-flatopc/
+url_ignore: /zh/java/conversion/email-to-flatopc/
 family: total
 platformtag: net
 feature: conversion
@@ -17,7 +17,7 @@ otherformats: ODT OTT WORDML PS XPS JPEG PCL EMF PNG TEXT EPUB GIF MD DOCX TIFF 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="如何将 EMAIL 转换为 FLATOPC" %}}
 1. 使用 [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage) 类打开 EMAIL 文件
-2. 使用 [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions) 将 EMAIL 转换为 HTML)) 方法
+2. 使用 [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) 将 EMAIL 转换为 HTML 方法
 3. 使用 [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) 类加载 HTML
 4. 使用 [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) 将文档保存为 FLATOPC 格式)) 方法并将 FLATOPC 设置为 SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

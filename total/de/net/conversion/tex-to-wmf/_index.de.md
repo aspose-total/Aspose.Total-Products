@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie TEX über die C#-API in WMF
 description: Exportieren Sie TEX in WMF in Ihren .NET-Anwendungen, ohne Anwendungen von Drittanbietern zu verwenden
-url: /de/net/conversion/tex-to-wmf/
+url_ignore: /de/net/conversion/tex-to-wmf/
 family: total
 platformtag: net
 feature: conversion

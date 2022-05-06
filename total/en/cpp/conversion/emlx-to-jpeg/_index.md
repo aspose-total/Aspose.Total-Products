@@ -1,7 +1,7 @@
 ---
 title: Export EMLX to JPEG via C++
 description: C++ API to Convert EMLX to JPEG without using Microsoft Word or Outlook
-url: /cpp/conversion/emlx-to-jpeg/
+url_ignore: /cpp/conversion/emlx-to-jpeg/
 family: total
 platformtag: cpp
 feature: conversion

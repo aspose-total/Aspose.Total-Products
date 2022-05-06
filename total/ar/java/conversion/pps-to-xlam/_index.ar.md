@@ -1,7 +1,7 @@
 ---
 title: تحويل PPS إلى تنسيق XLAM عبر Java
 description: قم بتحويل PPS إلى تنسيق XLAM عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/pps-to-xlam/
+url_ignore: /ar/java/conversion/pps-to-xlam/
 family: total
 platformtag: net
 feature: conversion

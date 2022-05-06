@@ -1,7 +1,7 @@
 ---
 title: EPUBをWORDMLにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにEPUBをWORDMLに変換する
-url: /ja/net/conversion/epub-to-wordml/
+url_ignore: /ja/net/conversion/epub-to-wordml/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: CGMをPCLにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにCGMをPCLに変換する
-url: /ja/net/conversion/cgm-to-pcl/
+url_ignore: /ja/net/conversion/cgm-to-pcl/
 family: total
 platformtag: net
 feature: conversion

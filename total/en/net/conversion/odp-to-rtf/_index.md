@@ -1,6 +1,6 @@
 ---
 title: Convert ODP to RTF via C# .NET 
-url: /net/conversion/odp-to-rtf/ 
+url_ignore: /net/conversion/odp-to-rtf/ 
 description: Convert PowerPoint odp documents to Word rtf files with C#. Convert multiple files within ASP.NET or other .NET applications.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Java ile JSON Formatını WORD'ye Dönüştür
 description: Microsoft Word kullanmadan Java'da JSON'u WORD'ye ayrıştırın
-url: /tr/java/conversion/json-to-word/
+url_ignore: /tr/java/conversion/json-to-word/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convertir XSLFO en APNG via Java
 description: Exportez le fichier XSLFO vers APNG dans vos applications Java sans utiliser d'application tierce
-url: /fr/java/conversion/xslfo-to-apng/
+url_ignore: /fr/java/conversion/xslfo-to-apng/
 family: total
 platformtag: net
 feature: conversion

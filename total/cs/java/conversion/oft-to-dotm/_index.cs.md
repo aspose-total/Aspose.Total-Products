@@ -1,7 +1,7 @@
 ---
 title: Export OFT do DOTM přes Java
 description: Java API pro převod OFT do DOTM bez použití Microsoft Word nebo Outlook
-url: /cs/java/conversion/oft-to-dotm/
+url_ignore: /cs/java/conversion/oft-to-dotm/
 family: total
 platformtag: net
 feature: conversion

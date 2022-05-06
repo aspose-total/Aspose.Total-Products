@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта CGM в RTF
 description: Преобразование CGM в RTF без использования Microsoft Word
-url: /ru/net/conversion/cgm-to-rtf/
+url_ignore: /ru/net/conversion/cgm-to-rtf/
 family: total
 platformtag: net
 feature: conversion

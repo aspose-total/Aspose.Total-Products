@@ -1,7 +1,7 @@
 ---
 title: C# API untuk Mengekspor MSG ke ODT
 description: Konversi MSG ke ODT tanpa menggunakan Microsoft Word atau Outlook di .NET
-url: /id/net/conversion/msg-to-odt/
+url_ignore: /id/net/conversion/msg-to-odt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOT в PPT через Java
 description: Java API для экспорта DOT в PPT без использования Microsoft Word или PowerPoint
-url: /ru/java/conversion/dot-to-ppt/
+url_ignore: /ru/java/conversion/dot-to-ppt/
 family: total
 platformtag: net
 feature: conversion

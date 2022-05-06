@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPSをEMZに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでPSをEMZにエクスポートします
-url: /ja/net/conversion/ps-to-emz/
+url_ignore: /ja/net/conversion/ps-to-emz/
 family: total
 platformtag: net
 feature: conversion

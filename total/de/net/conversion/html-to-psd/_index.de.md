@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie HTML über die C#-API in PSD
 description: Exportieren Sie HTML in PSD in Ihren .NET-Anwendungen, ohne Anwendungen von Drittanbietern zu verwenden
-url: /de/net/conversion/html-to-psd/
+url_ignore: /de/net/conversion/html-to-psd/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert ODT to POTM via C++
 description: Export ODT to POTM in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/odt-to-potm/
+url_ignore: /cpp/conversion/odt-to-potm/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: MDをMHTMLにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにMDをMHTMLに変換する
-url: /ja/net/conversion/md-to-mhtml/
+url_ignore: /ja/net/conversion/md-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

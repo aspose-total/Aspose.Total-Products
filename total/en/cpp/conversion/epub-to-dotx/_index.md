@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export EPUB to DOTX
 description: Convert EPUB to DOTX within C++ applications.
-url: /cpp/conversion/epub-to-dotx/
+url_ignore: /cpp/conversion/epub-to-dotx/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert DOTM to POT via C++
 description: Export DOTM to POT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/dotm-to-pot/
+url_ignore: /cpp/conversion/dotm-to-pot/
 family: total
 platformtag: cpp
 feature: conversion

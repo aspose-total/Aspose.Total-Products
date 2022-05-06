@@ -1,7 +1,7 @@
 ---
 title: .NETを介してJSON形式をFLATOPCに変換する
 description: Microsoft Wordを使用せずにC＃でJSONをFLATOPCに解析する
-url: /ja/net/conversion/json-to-flatopc/
+url_ignore: /ja/net/conversion/json-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: .NET API для преобразования ODT в EXCEL
 description: C# API для преобразования ODT в EXCEL без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/odt-to-excel/
+url_ignore: /ru/net/conversion/odt-to-excel/
 family: total
 platformtag: net
 feature: conversion

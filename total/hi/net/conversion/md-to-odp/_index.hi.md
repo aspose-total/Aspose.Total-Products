@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई के माध्यम से सीजीएम को ओडीपी में निर्यात करें
 description: Microsoft Word का उपयोग किए बिना MD को ODP में बदलने के लिए .NET API
-url: /hi/net/conversion/md-to-odp/
+url_ignore: /hi/net/conversion/md-to-odp/
 family: total
 platformtag: net
 feature: conversion

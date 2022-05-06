@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをEXCELに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPDFファイルをEXCELに変換するC＃API
-url: /ja/net/conversion/pdf-to-excel/
+url_ignore: /ja/net/conversion/pdf-to-excel/
 family: total
 platformtag: net
 feature: conversion

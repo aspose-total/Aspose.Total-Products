@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση PS σε TXT
 description: Εξαγωγή PS σε TXT μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/ps-to-txt/
+url_ignore: /el/java/conversion/ps-to-txt/
 family: total
 platformtag: net
 feature: conversion

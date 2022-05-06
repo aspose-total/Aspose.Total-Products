@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してPCLをXAMLに変換する
 description: MicrosoftWordを使用せずにPCLをXAMLに変換するJavaAPI
-url: /ja/java/conversion/pcl-to-xaml/
+url_ignore: /ja/java/conversion/pcl-to-xaml/
 family: total
 platformtag: net
 feature: conversion

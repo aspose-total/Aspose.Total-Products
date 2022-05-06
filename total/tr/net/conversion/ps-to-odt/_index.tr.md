@@ -1,7 +1,7 @@
 ---
 title: PS'yi ODT'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan PS'yi ODT'ye dönüştürün
-url: /tr/net/conversion/ps-to-odt/
+url_ignore: /tr/net/conversion/ps-to-odt/
 family: total
 platformtag: net
 feature: conversion

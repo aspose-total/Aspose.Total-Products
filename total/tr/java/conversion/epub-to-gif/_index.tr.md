@@ -1,7 +1,7 @@
 ---
 title: EPUB'yi GIF'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak EPUB'yi GIF'ye dönüştürün
-url: /tr/java/conversion/epub-to-gif/
+url_ignore: /tr/java/conversion/epub-to-gif/
 family: total
 platformtag: net
 feature: conversion

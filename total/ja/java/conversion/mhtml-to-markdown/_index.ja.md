@@ -1,7 +1,7 @@
 ---
 title: MHTMLをMARKDOWNにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してMHTMLをMARKDOWNに変換する
-url: /ja/java/conversion/mhtml-to-markdown/
+url_ignore: /ja/java/conversion/mhtml-to-markdown/
 family: total
 platformtag: net
 feature: conversion

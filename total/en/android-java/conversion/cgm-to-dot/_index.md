@@ -1,7 +1,7 @@
 ---
 title: Android API to Render CGM to DOT
 description: Transform CGM to DOT via Android via Java API
-url: /android-java/conversion/cgm-to-dot/
+url_ignore: /android-java/conversion/cgm-to-dot/
 family: total
 platformtag: android-java
 feature: conversion

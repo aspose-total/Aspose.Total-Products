@@ -1,7 +1,7 @@
 ---
 title: Xuất TEX sang XAML qua C# API
 description: .NET API để chuyển đổi TEX sang XAML mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/tex-to-xaml/
+url_ignore: /vi/net/conversion/tex-to-xaml/
 family: total
 platformtag: net
 feature: conversion

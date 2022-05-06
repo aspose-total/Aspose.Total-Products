@@ -1,7 +1,7 @@
 ---
 title: تحويل TEX إلى ODP عبر Java API
 description: Java API لتحويل TEX إلى ODP دون استخدام Microsoft Word
-url: /ar/java/conversion/tex-to-odp/
+url_ignore: /ar/java/conversion/tex-to-odp/
 family: total
 platformtag: net
 feature: conversion

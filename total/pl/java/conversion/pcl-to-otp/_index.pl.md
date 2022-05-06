@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PCL na OTP za pomocą Java API
 description: Java API do konwersji PCL na OTP bez użycia Microsoft Word
-url: /pl/java/conversion/pcl-to-otp/
+url_ignore: /pl/java/conversion/pcl-to-otp/
 family: total
 platformtag: net
 feature: conversion

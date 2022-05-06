@@ -1,7 +1,7 @@
 ---
 title: Java API om WORDML naar FODS te converteren
 description: Converteer WORDML naar FODS via Java zonder Microsoft Word of Microsoft Excel te gebruiken
-url: /nl/java/conversion/wordml-to-fods/
+url_ignore: /nl/java/conversion/wordml-to-fods/
 family: total
 platformtag: net
 feature: conversion

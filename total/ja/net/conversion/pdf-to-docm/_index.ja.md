@@ -1,7 +1,7 @@
 ---
 title: PDFをDOCMにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにPDFをDOCMに変換する
-url: /ja/net/conversion/pdf-to-docm/
+url_ignore: /ja/net/conversion/pdf-to-docm/
 family: total
 platformtag: net
 feature: conversion

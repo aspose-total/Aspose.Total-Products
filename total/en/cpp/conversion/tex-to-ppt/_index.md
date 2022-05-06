@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert TEX to PPT  
 description: Convert TEX to PPT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/tex-to-ppt/
+url_ignore: /cpp/conversion/tex-to-ppt/
 family: total
 platformtag: cpp
 feature: conversion

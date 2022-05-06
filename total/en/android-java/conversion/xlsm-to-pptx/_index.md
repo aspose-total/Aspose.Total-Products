@@ -1,7 +1,7 @@
 ---
 title: Export XLSM to PPTX in Android 
 description: Android API to Convert XLSM to PPTX without using Microsoft Word
-url: /android-java/conversion/xlsm-to-pptx/
+url_ignore: /android-java/conversion/xlsm-to-pptx/
 family: total
 platformtag: android-java
 feature: conversion

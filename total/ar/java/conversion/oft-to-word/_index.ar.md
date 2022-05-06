@@ -1,7 +1,7 @@
 ---
 title: قم بتصدير OFT إلى WORD عبر Java
 description: Java API لتحويل البريد الإلكتروني إلى WORD دون استخدام Microsoft Word أو Outlook
-url: /ar/java/conversion/oft-to-word/
+url_ignore: /ar/java/conversion/oft-to-word/
 family: total
 platformtag: net
 feature: conversion

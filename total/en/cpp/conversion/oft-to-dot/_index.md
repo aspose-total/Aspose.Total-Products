@@ -1,7 +1,7 @@
 ---
 title: Export OFT to DOT via C++
 description: C++ API to Convert OFT to DOT without using Microsoft Word or Outlook
-url: /cpp/conversion/oft-to-dot/
+url_ignore: /cpp/conversion/oft-to-dot/
 family: total
 platformtag: cpp
 feature: conversion

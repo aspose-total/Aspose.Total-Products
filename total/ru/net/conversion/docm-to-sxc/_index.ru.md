@@ -1,7 +1,7 @@
 ---
 title: .NET API для преобразования DOCM в SXC
 description: C# API для преобразования DOCM в SXC без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/docm-to-sxc/
+url_ignore: /ru/net/conversion/docm-to-sxc/
 family: total
 platformtag: net
 feature: conversion

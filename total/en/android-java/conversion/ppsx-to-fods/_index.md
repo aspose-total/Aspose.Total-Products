@@ -1,7 +1,7 @@
 ---
 title: Convert PPSX to FODS in Android via Java
 description: Convert PPSX to FODS in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/ppsx-to-fods/
+url_ignore: /android-java/conversion/ppsx-to-fods/
 family: total
 platformtag: android-java
 feature: conversion

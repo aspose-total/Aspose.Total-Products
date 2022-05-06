@@ -1,7 +1,7 @@
 ---
 title: DOTX'yi .NET aracılığıyla JSON formatına dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan DOTX'yi C#'ta JSON'a dönüştürün
-url: /tr/net/conversion/dotx-to-json/
+url_ignore: /tr/net/conversion/dotx-to-json/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ otherformats: XLT EXCEL ODS XLTM TSV XLAM SXC DIF XLS XLSB XLTX XLSX CSV FODS
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="DOTX'yi C# ile JSON Formatına Dönüştür" %}}
-1. DOTX dosyasını [Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument) sınıfını kullanarak açın
-2. [Save](https://apireference.aspose.com/words/net/aspose.words.dotxument/save/methods/4) yöntemini kullanarak DOTX'u HTML'ye dönüştürün
+1. DOTX dosyasını [Document](https://apireference.aspose.com/words/net/aspose.words/Document) sınıfını kullanarak açın
+2. [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4) yöntemini kullanarak DOTX'u HTML'ye dönüştürün
 3. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) sınıfını kullanarak HTML belgesini yükleyin
 4. [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) yöntemini kullanarak belgeyi JSON biçiminde kaydedin
 {{% /blocks/products/pf/agp/feature-section-col %}}

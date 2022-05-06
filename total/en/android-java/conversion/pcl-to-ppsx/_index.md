@@ -1,7 +1,7 @@
 ---
 title: Export PCL to PPSX in Android 
 description: Android API to Convert PCL to PPSX without using Microsoft Word
-url: /android-java/conversion/pcl-to-ppsx/
+url_ignore: /android-java/conversion/pcl-to-ppsx/
 family: total
 platformtag: android-java
 feature: conversion

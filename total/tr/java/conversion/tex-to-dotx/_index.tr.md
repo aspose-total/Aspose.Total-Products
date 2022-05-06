@@ -1,7 +1,7 @@
 ---
 title: TEX'yi DOTX'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak TEX'yi DOTX'ye dönüştürün
-url: /tr/java/conversion/tex-to-dotx/
+url_ignore: /tr/java/conversion/tex-to-dotx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert PPS to CSV in Android via Java
 description: Convert PPS to CSV in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/pps-to-csv/
+url_ignore: /android-java/conversion/pps-to-csv/
 family: total
 platformtag: android-java
 feature: conversion

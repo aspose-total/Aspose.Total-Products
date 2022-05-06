@@ -1,7 +1,7 @@
 ---
 title: Java経由でJSON形式をDOTに変換する
 description: MicrosoftWordを使用せずにJavaでJSONをDOTに解析する
-url: /ja/java/conversion/json-to-dot/
+url_ignore: /ja/java/conversion/json-to-dot/
 family: total
 platformtag: net
 feature: conversion

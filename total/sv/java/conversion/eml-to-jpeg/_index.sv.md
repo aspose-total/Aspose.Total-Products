@@ -1,7 +1,7 @@
 ---
 title: Exportera EML till JPEG via Java
 description: Java API för att konvertera EML till JPEG utan att använda Microsoft Word eller Outlook
-url: /sv/java/conversion/eml-to-jpeg/
+url_ignore: /sv/java/conversion/eml-to-jpeg/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converti DOCX in formato JSON tramite Java
 description: Converti il formato DOCX in JSON tramite Java senza utilizzare Microsoft Word o Microsoft Excel
-url: /it/java/conversion/docx-to-json/
+url_ignore: /it/java/conversion/docx-to-json/
 family: total
 platformtag: net
 feature: conversion

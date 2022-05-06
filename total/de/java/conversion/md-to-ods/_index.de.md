@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Rendern von MD in ODS
 description: Exportieren Sie MD über die Java-API in ODS, ohne Microsoft Excel oder Adobe Reader zu verwenden
-url: /de/java/conversion/md-to-ods/
+url_ignore: /de/java/conversion/md-to-ods/
 family: total
 platformtag: net
 feature: conversion

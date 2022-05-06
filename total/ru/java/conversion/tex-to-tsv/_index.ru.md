@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга TEX в TSV
 description: Экспорт TEX в TSV через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/tex-to-tsv/
+url_ignore: /ru/java/conversion/tex-to-tsv/
 family: total
 platformtag: net
 feature: conversion

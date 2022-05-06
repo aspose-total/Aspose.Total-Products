@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla PCL'yi JPEG2000'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan PCL dosyasını Java uygulamalarınızda JPEG2000'ye aktarın
-url: /tr/java/conversion/pcl-to-jpeg2000/
+url_ignore: /tr/java/conversion/pcl-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to PPTX using Java 
 description: Java API to Export CSV to PPTX with using Excel or Word 
-url: /java/conversion/csv-to-pptx/
+url_ignore: /java/conversion/csv-to-pptx/
 family: total
 platformtag: java
 feature: conversion

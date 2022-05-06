@@ -1,7 +1,7 @@
 ---
 title: Export MSG do EPUB přes Java
 description: Java API pro převod MSG do EPUB bez použití Microsoft Word nebo Outlook
-url: /cs/java/conversion/msg-to-epub/
+url_ignore: /cs/java/conversion/msg-to-epub/
 family: total
 platformtag: net
 feature: conversion

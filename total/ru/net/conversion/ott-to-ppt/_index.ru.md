@@ -1,6 +1,6 @@
 ---
 title: Преобразование OTT в PPT через C# .NET 
-url: /ru/net/conversion/ott-to-ppt/ 
+url_ignore: /ru/net/conversion/ott-to-ppt/ 
 description: Преобразование документов Word ott в файлы PowerPoint ppt с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

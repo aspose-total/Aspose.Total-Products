@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى DOT عبر Java
 description: تحليل JSON إلى DOT في Java بدون استخدام Microsoft Word
-url: /ar/java/conversion/json-to-dot/
+url_ignore: /ar/java/conversion/json-to-dot/
 family: total
 platformtag: net
 feature: conversion

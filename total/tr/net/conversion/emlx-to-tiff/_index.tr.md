@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı TIFF'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan EMLX'i TIFF'ye dönüştürün
-url: /tr/net/conversion/emlx-to-tiff/
+url_ignore: /tr/net/conversion/emlx-to-tiff/
 family: total
 platformtag: net
 feature: conversion

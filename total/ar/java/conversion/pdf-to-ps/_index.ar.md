@@ -1,7 +1,7 @@
 ---
 title: Java API لتصدير PDF إلى PS
 description: قم بتحويل PDF إلى PS باستخدام Java API في مكان العمل
-url: /ar/java/conversion/pdf-to-ps/
+url_ignore: /ar/java/conversion/pdf-to-ps/
 family: total
 platformtag: net
 feature: conversion

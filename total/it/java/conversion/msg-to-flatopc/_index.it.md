@@ -1,7 +1,7 @@
 ---
 title: Esporta MSG in FLATOPC tramite Java
 description: API Java per convertire MSG in FLATOPC senza utilizzare Microsoft Word o Outlook
-url: /it/java/conversion/msg-to-flatopc/
+url_ignore: /it/java/conversion/msg-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

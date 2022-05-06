@@ -1,7 +1,7 @@
 ---
 title: C# API pro export SVG do PS
 description: Převeďte SVG na PS bez použití aplikace Microsoft Word
-url: /cs/net/conversion/svg-to-ps/
+url_ignore: /cs/net/conversion/svg-to-ps/
 family: total
 platformtag: net
 feature: conversion

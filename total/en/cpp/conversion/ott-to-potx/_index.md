@@ -1,7 +1,7 @@
 ---
 title: Convert OTT to POTX via C++
 description: Export OTT to POTX in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/ott-to-potx/
+url_ignore: /cpp/conversion/ott-to-potx/
 family: total
 platformtag: cpp
 feature: conversion

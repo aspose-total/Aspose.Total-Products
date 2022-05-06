@@ -1,7 +1,7 @@
 ---
 title: تحويل PPSM إلى تنسيق FODS عبر Java
 description: قم بتحويل PPSM إلى تنسيق FODS عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/ppsm-to-fods/
+url_ignore: /ar/java/conversion/ppsm-to-fods/
 family: total
 platformtag: net
 feature: conversion

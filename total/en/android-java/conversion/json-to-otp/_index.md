@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to OTP in Android via Java 
 description: Parse JSON to OTP in Android Applications without using Microsoft PowerPoint
-url: /android-java/conversion/json-to-otp/
+url_ignore: /android-java/conversion/json-to-otp/
 family: total
 platformtag: android-java
 feature: conversion

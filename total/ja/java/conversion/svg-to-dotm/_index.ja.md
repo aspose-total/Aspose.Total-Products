@@ -1,7 +1,7 @@
 ---
 title: SVGをDOTMにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してSVGをDOTMに変換する
-url: /ja/java/conversion/svg-to-dotm/
+url_ignore: /ja/java/conversion/svg-to-dotm/
 family: total
 platformtag: net
 feature: conversion

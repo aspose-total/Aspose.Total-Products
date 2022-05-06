@@ -1,7 +1,7 @@
 ---
 title: SVG'yi DOT'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan SVG'yi DOT'ye dönüştürün
-url: /tr/net/conversion/svg-to-dot/
+url_ignore: /tr/net/conversion/svg-to-dot/
 family: total
 platformtag: net
 feature: conversion

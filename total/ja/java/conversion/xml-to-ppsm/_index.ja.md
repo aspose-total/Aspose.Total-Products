@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してXMLをPPSMに変換する
 description: MicrosoftWordを使用せずにXMLをPPSMに変換するJavaAPI
-url: /ja/java/conversion/xml-to-ppsm/
+url_ignore: /ja/java/conversion/xml-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

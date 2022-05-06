@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта PS в ODT
 description: Преобразование PS в ODT без использования Microsoft Word
-url: /ru/net/conversion/ps-to-odt/
+url_ignore: /ru/net/conversion/ps-to-odt/
 family: total
 platformtag: net
 feature: conversion

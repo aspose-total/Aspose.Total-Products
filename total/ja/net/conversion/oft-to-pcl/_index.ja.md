@@ -1,7 +1,7 @@
 ---
 title: OFTをPCLにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにOFTをPCLに変換する
-url: /ja/net/conversion/oft-to-pcl/
+url_ignore: /ja/net/conversion/oft-to-pcl/
 family: total
 platformtag: net
 feature: conversion

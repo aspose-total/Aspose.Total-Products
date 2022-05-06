@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPOTMをXLTXに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPOTMをXLTXに変換する
-url: /ja/net/conversion/potm-to-xltx/
+url_ignore: /ja/net/conversion/potm-to-xltx/
 family: total
 platformtag: net
 feature: conversion

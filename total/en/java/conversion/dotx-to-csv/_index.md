@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert DOTX to CSV
 description: Convert DOTX to CSV via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/dotx-to-csv/
+url_ignore: /java/conversion/dotx-to-csv/
 family: total
 platformtag: java
 feature: conversion

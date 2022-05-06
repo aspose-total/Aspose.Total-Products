@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก EML ไปยัง PS
 description: แปลง EML เป็น PS โดยไม่ต้องใช้ Microsoft Word หรือ Outlook บน .NET
-url: /th/net/conversion/eml-to-ps/
+url_ignore: /th/net/conversion/eml-to-ps/
 family: total
 platformtag: net
 feature: conversion

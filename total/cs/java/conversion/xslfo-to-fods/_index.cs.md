@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení XSLFO do FODS
 description: Export XSLFO do FODS přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/xslfo-to-fods/
+url_ignore: /cs/java/conversion/xslfo-to-fods/
 family: total
 platformtag: net
 feature: conversion

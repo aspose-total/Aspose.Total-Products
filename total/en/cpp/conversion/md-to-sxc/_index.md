@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MD to SXC
 description: Convert MD to SXC via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/md-to-sxc/
+url_ignore: /cpp/conversion/md-to-sxc/
 family: total
 platformtag: cpp
 feature: conversion

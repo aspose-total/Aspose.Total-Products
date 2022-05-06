@@ -1,7 +1,7 @@
 ---
 title: Export PS do PPSX přes C# API
 description: .NET API pro převod PS na PPSX bez použití aplikace Microsoft Word
-url: /cs/net/conversion/ps-to-ppsx/
+url_ignore: /cs/net/conversion/ps-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

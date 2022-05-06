@@ -1,7 +1,7 @@
 ---
 title: Convert DOC to PPSX via C++
 description: Export DOC to PPSX in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/doc-to-ppsx/
+url_ignore: /cpp/conversion/doc-to-ppsx/
 family: total
 platformtag: cpp
 feature: conversion

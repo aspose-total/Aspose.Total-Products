@@ -1,7 +1,7 @@
 ---
 title: Konvertera PPS till CSV-format via Java
 description: Konvertera PPS till CSV-format via Java utan att använda Microsoft Excel eller PowerPoint
-url: /sv/java/conversion/pps-to-csv/
+url_ignore: /sv/java/conversion/pps-to-csv/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก EML ไปยัง MD
 description: แปลง EML เป็น MD โดยไม่ต้องใช้ Microsoft Word หรือ Outlook บน .NET
-url: /th/net/conversion/eml-to-md/
+url_ignore: /th/net/conversion/eml-to-md/
 family: total
 platformtag: net
 feature: conversion

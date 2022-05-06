@@ -1,7 +1,7 @@
 ---
 title: Convert MD to XLTM in Android via Java
 description: Render MD to XLTM in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/md-to-xltm/
+url_ignore: /android-java/conversion/md-to-xltm/
 family: total
 platformtag: android-java
 feature: conversion

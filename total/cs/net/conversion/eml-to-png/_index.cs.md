@@ -1,7 +1,7 @@
 ---
 title: C# API pro export EML do PNG
 description: Převeďte EML na PNG bez použití Microsoft Word nebo Outlook na .NET
-url: /cs/net/conversion/eml-to-png/
+url_ignore: /cs/net/conversion/eml-to-png/
 family: total
 platformtag: net
 feature: conversion

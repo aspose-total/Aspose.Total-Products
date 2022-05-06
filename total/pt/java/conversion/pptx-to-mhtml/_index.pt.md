@@ -1,7 +1,7 @@
 ---
 title: Converter PPTX para formato MHTML via Java
 description: Converta o formato PPTX para MHTML via Java sem usar o Microsoft Excel ou PowerPoint
-url: /pt/java/conversion/pptx-to-mhtml/
+url_ignore: /pt/java/conversion/pptx-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

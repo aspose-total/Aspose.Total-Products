@@ -1,7 +1,7 @@
 ---
 title: Converteer FLATOPC naar PPS via Java
 description: Java API om FLATOPC naar PPS te exporteren zonder Microsoft Word of PowerPoint te gebruiken
-url: /nl/java/conversion/flatopc-to-pps/
+url_ignore: /nl/java/conversion/flatopc-to-pps/
 family: total
 platformtag: net
 feature: conversion

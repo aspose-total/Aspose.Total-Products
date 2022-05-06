@@ -1,7 +1,7 @@
 ---
 title: Convertir OTT en PPSM via Java
 description: API Java pour exporter OTT vers PPSM sans utiliser Microsoft Word ou PowerPoint
-url: /fr/java/conversion/ott-to-ppsm/
+url_ignore: /fr/java/conversion/ott-to-ppsm/
 family: total
 platformtag: net
 feature: conversion
@@ -12,7 +12,7 @@ otherformats: POTM PPTM PPT POTX POWERPOINT PPSM PPSX PPTX PPS POT CSV DIF FODS 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Convertir OTT en PPSM via Java" h2="Conversion OTT en PPSM en utilisant l'API Java sur site dans toutes les applications Java J2SE, J2EE, J2ME sans utiliser Microsoft<sup>&reg;</sup> PowerPoint ou Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Souvent, les développeurs doivent convertir le fichier OTT en PPSM par programme. En utilisant les bibliothèques Java File Automation [Aspose.Total pour Java](https://products.aspose.com/total/java/), vous pouvez automatiser le processus de rendu en quelques étapes simples. Vous pouvez charger votre fichier OTT en utilisant [Aspose.Words pour Java](https://products.aspose.com/words/java/) et le convertir en HTML. Après cela, en utilisant la puissante API Java de manipulation PowerPoint [Aspose.Slides pour Java](https://products.aspose.com/slides/java/), vous pouvez créer une nouvelle présentation, y écrire du contenu HTML et l'enregistrer au format PPSM. .
+Souvent, les développeurs doivent convertir le fichier OTT en PPSM par programme. En utilisant les bibliothèques Java File Automation [Aspose.Total for Java](https://products.aspose.com/total/java/), vous pouvez automatiser le processus de rendu en quelques étapes simples. Vous pouvez charger votre fichier OTT en utilisant [Aspose.Words for Java](https://products.aspose.com/words/java/) et le convertir en HTML. Après cela, en utilisant la puissante API Java de manipulation PowerPoint [Aspose.Slides for Java](https://products.aspose.com/slides/java/), vous pouvez créer une nouvelle présentation, y écrire du contenu HTML et l'enregistrer au format PPSM. .
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Comment convertir OTT en PPSM via Java" %}}

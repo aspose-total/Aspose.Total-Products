@@ -1,7 +1,7 @@
 ---
 title: Převeďte PPT na formát JSON přes Java
 description: Převeďte PPT do formátu JSON přes Java bez použití Microsoft Excel nebo PowerPoint
-url: /cs/java/conversion/ppt-to-json/
+url_ignore: /cs/java/conversion/ppt-to-json/
 family: total
 platformtag: net
 feature: conversion

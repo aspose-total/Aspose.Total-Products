@@ -1,7 +1,7 @@
 ---
 title: Преобразование CGM в WMF через C# API
 description: Экспорт CGM в WMF в ваших приложениях .NET без использования каких-либо сторонних приложений.
-url: /ru/net/conversion/cgm-to-wmf/
+url_ignore: /ru/net/conversion/cgm-to-wmf/
 family: total
 platformtag: net
 feature: conversion

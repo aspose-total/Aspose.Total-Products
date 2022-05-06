@@ -1,7 +1,7 @@
 ---
 title: Export PCL to PPTM in Android 
 description: Android API to Convert PCL to PPTM without using Microsoft Word
-url: /android-java/conversion/pcl-to-pptm/
+url_ignore: /android-java/conversion/pcl-to-pptm/
 family: total
 platformtag: android-java
 feature: conversion

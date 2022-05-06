@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení CGM do TXT
 description: Export CGM do TXT přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/cgm-to-txt/
+url_ignore: /cs/java/conversion/cgm-to-txt/
 family: total
 platformtag: net
 feature: conversion

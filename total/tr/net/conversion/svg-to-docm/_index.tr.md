@@ -1,7 +1,7 @@
 ---
 title: SVG'yi DOCM'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan SVG'yi DOCM'ye dönüştürün
-url: /tr/net/conversion/svg-to-docm/
+url_ignore: /tr/net/conversion/svg-to-docm/
 family: total
 platformtag: net
 feature: conversion

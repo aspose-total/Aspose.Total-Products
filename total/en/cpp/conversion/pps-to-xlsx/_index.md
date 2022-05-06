@@ -1,7 +1,7 @@
 ---
 title: Convert PPS to XLSX via C++ 
 description: Export PPS to XLSX in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pps-to-xlsx/
+url_ignore: /cpp/conversion/pps-to-xlsx/
 family: total
 platformtag: cpp
 feature: conversion

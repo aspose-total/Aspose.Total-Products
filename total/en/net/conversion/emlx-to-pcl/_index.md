@@ -1,7 +1,7 @@
 ---
 title: C# API to Export EMLX to PCL
 description: Convert EMLX to PCL without using Microsoft Word or Outlook on .NET
-url: /net/conversion/emlx-to-pcl/
+url_ignore: /net/conversion/emlx-to-pcl/
 family: total
 platformtag: net
 feature: conversion

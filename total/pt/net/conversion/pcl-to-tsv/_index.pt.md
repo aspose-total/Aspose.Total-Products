@@ -1,7 +1,7 @@
 ---
 title: Converter PCL para TSV via API C#
 description: API C# para converter arquivo PCL em TSV sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/pcl-to-tsv/
+url_ignore: /pt/net/conversion/pcl-to-tsv/
 family: total
 platformtag: net
 feature: conversion

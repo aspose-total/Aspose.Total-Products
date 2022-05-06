@@ -1,7 +1,7 @@
 ---
 title: PCLをPSにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにPCLをPSに変換する
-url: /ja/net/conversion/pcl-to-ps/
+url_ignore: /ja/net/conversion/pcl-to-ps/
 family: total
 platformtag: net
 feature: conversion

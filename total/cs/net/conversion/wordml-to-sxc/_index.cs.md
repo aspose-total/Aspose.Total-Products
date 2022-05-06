@@ -1,7 +1,7 @@
 ---
 title: .NET API pro převod WORDML do SXC
 description: C# API pro převod WORDML do SXC bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/wordml-to-sxc/
+url_ignore: /cs/net/conversion/wordml-to-sxc/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API pro export MSG do RTF
 description: Převeďte MSG na RTF bez použití Microsoft Word nebo Outlook na .NET
-url: /cs/net/conversion/msg-to-rtf/
+url_ignore: /cs/net/conversion/msg-to-rtf/
 family: total
 platformtag: net
 feature: conversion

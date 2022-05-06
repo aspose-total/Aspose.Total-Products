@@ -1,7 +1,7 @@
 ---
 title: Android API to Render XPS to ODT
 description: Transform XPS to ODT via Android via Java API
-url: /android-java/conversion/xps-to-odt/
+url_ignore: /android-java/conversion/xps-to-odt/
 family: total
 platformtag: android-java
 feature: conversion

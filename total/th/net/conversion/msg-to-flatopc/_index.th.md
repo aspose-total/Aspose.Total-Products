@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก MSG ไปยัง FLATOPC
 description: แปลง MSG เป็น FLATOPC โดยไม่ต้องใช้ Microsoft Word หรือ Outlook บน .NET
-url: /th/net/conversion/msg-to-flatopc/
+url_ignore: /th/net/conversion/msg-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

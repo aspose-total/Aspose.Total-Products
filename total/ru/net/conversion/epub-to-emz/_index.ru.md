@@ -1,7 +1,7 @@
 ---
 title: Преобразование EPUB в EMZ через C# API
 description: Экспорт EPUB в EMZ в ваших приложениях .NET без использования каких-либо сторонних приложений.
-url: /ru/net/conversion/epub-to-emz/
+url_ignore: /ru/net/conversion/epub-to-emz/
 family: total
 platformtag: net
 feature: conversion

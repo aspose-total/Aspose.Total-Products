@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to PPT in Android via Java 
 description: Parse JSON to PPT in Android Applications without using Microsoft PowerPoint
-url: /android-java/conversion/json-to-ppt/
+url_ignore: /android-java/conversion/json-to-ppt/
 family: total
 platformtag: android-java
 feature: conversion

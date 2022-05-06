@@ -1,7 +1,7 @@
 ---
 title: تحويل POT إلى XLAM عبر C#
 description: قم بتحويل POT إلى XLAM في C# بدون استخدام Microsoft Excel أو Powerpoint
-url: /ar/net/conversion/pot-to-xlam/
+url_ignore: /ar/net/conversion/pot-to-xlam/
 family: total
 platformtag: net
 feature: conversion

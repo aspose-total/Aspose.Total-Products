@@ -1,7 +1,7 @@
 ---
 title: EMAILをDOTにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMAILをDOTに変換する
-url: /ja/net/conversion/email-to-dot/
+url_ignore: /ja/net/conversion/email-to-dot/
 family: total
 platformtag: net
 feature: conversion

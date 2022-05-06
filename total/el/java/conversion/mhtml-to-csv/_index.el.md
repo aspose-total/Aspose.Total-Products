@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση MHTML σε CSV
 description: Εξαγωγή MHTML σε CSV μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/mhtml-to-csv/
+url_ignore: /el/java/conversion/mhtml-to-csv/
 family: total
 platformtag: net
 feature: conversion

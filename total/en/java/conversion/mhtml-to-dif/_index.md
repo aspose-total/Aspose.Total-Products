@@ -1,7 +1,7 @@
 ---
 title: Java API to Render MHTML to DIF
 description: Export MHTML to DIF via Java API without using Microsoft Excel or Adobe Reader
-url: /java/conversion/mhtml-to-dif/
+url_ignore: /java/conversion/mhtml-to-dif/
 family: total
 platformtag: java
 feature: conversion

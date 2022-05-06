@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi TEX sang POTX thông qua Java API
 description: Java API để chuyển đổi TEX sang POTX mà không cần sử dụng Microsoft Word
-url: /vi/java/conversion/tex-to-potx/
+url_ignore: /vi/java/conversion/tex-to-potx/
 family: total
 platformtag: net
 feature: conversion

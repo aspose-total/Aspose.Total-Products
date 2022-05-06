@@ -1,7 +1,7 @@
 ---
 title: ODT'yi XLSM'ye Dönüştürmek için .NET API
 description: Microsoft Excel veya Adobe Reader kullanmadan ODT'yi XLSM'ye dönüştürmek için C# API'si
-url: /tr/net/conversion/odt-to-xlsm/
+url_ignore: /tr/net/conversion/odt-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

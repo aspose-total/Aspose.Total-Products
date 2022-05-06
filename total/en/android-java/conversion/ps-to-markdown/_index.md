@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PS to MARKDOWN
 description: Transform PS to MARKDOWN via Android via Java API
-url: /android-java/conversion/ps-to-markdown/
+url_ignore: /android-java/conversion/ps-to-markdown/
 family: total
 platformtag: android-java
 feature: conversion

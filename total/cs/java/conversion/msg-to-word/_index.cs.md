@@ -1,7 +1,7 @@
 ---
 title: Export MSG do WORD přes Java
 description: Java API pro převod MSG do WORD bez použití Microsoft Word nebo Outlook
-url: /cs/java/conversion/msg-to-word/
+url_ignore: /cs/java/conversion/msg-to-word/
 family: total
 platformtag: net
 feature: conversion

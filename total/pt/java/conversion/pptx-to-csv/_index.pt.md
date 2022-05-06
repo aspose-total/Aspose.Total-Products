@@ -1,7 +1,7 @@
 ---
 title: Converter PPTX para formato CSV via Java
 description: Converta o formato PPTX para CSV via Java sem usar o Microsoft Excel ou PowerPoint
-url: /pt/java/conversion/pptx-to-csv/
+url_ignore: /pt/java/conversion/pptx-to-csv/
 family: total
 platformtag: net
 feature: conversion

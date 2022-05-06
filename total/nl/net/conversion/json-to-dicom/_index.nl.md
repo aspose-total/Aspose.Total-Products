@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar DICOM via .NET
 description: JSON ontleden naar DICOM in C# zonder afhankelijkheden van derden te gebruiken
-url: /nl/net/conversion/json-to-dicom/
+url_ignore: /nl/net/conversion/json-to-dicom/
 family: total
 platformtag: net
 feature: conversion

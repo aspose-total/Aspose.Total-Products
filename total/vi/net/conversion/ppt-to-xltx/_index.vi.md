@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi PPT sang XLTX qua C#
 description: Chuyển đổi PPT sang XLTX trong C# mà không cần sử dụng Microsoft Excel hoặc Powerpoint
-url: /vi/net/conversion/ppt-to-xltx/
+url_ignore: /vi/net/conversion/ppt-to-xltx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تحويل PPSX إلى تنسيق FODS عبر Java
 description: قم بتحويل PPSX إلى تنسيق FODS عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/ppsx-to-fods/
+url_ignore: /ar/java/conversion/ppsx-to-fods/
 family: total
 platformtag: net
 feature: conversion

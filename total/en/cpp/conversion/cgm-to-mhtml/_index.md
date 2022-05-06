@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export CGM to MHTML
 description: Convert CGM to MHTML within C++ applications.
-url: /cpp/conversion/cgm-to-mhtml/
+url_ignore: /cpp/conversion/cgm-to-mhtml/
 family: total
 platformtag: cpp
 feature: conversion

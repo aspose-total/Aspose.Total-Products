@@ -1,7 +1,7 @@
 ---
 title: Преобразование SXC в PPTX с помощью .NET 
 description: Преобразование SXC в PPTX на платформах .NET Framework, .NET Core, Mono или Xamarin.
-url: /ru/net/conversion/sxc-to-pptx/
+url_ignore: /ru/net/conversion/sxc-to-pptx/
 family: total
 platformtag: net
 feature: conversion

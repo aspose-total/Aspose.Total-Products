@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή EPUB σε DXF μέσω C# API
 description: Εξάγετε το EPUB σε DXF στις εφαρμογές σας .NET χωρίς να χρησιμοποιήσετε καμία εφαρμογή τρίτου μέρους
-url: /el/net/conversion/epub-to-dxf/
+url_ignore: /el/net/conversion/epub-to-dxf/
 family: total
 platformtag: net
 feature: conversion

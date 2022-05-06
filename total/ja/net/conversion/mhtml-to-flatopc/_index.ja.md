@@ -1,7 +1,7 @@
 ---
 title: MHTMLをFLATOPCにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにMHTMLをFLATOPCに変換する
-url: /ja/net/conversion/mhtml-to-flatopc/
+url_ignore: /ja/net/conversion/mhtml-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

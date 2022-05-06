@@ -1,7 +1,7 @@
 ---
 title: Převést TEX na SVGZ přes Java
 description: Exportujte soubor TEX do SVGZ ve svých aplikacích Java bez použití jakékoli aplikace třetí strany
-url: /cs/java/conversion/tex-to-svgz/
+url_ignore: /cs/java/conversion/tex-to-svgz/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export XPS to POTM in Android 
 description: Android API to Convert XPS to POTM without using Microsoft Word
-url: /android-java/conversion/xps-to-potm/
+url_ignore: /android-java/conversion/xps-to-potm/
 family: total
 platformtag: android-java
 feature: conversion

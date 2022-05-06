@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to CSV in C++
 description: C++ API to Convert DOT to CSV without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/dot-to-csv/
+url_ignore: /cpp/conversion/dot-to-csv/
 family: total
 platformtag: cpp
 feature: conversion

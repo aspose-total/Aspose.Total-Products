@@ -1,7 +1,7 @@
 ---
 title: Java API do renderowania SVG do DIF
 description: Eksportuj SVG do DIF przez Java API bez użycia Microsoft Excel lub Adobe Reader
-url: /pl/java/conversion/svg-to-dif/
+url_ignore: /pl/java/conversion/svg-to-dif/
 family: total
 platformtag: net
 feature: conversion

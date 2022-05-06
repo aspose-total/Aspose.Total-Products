@@ -1,7 +1,7 @@
 ---
 title: C# API pro export OFT do TIFF
 description: Převeďte OFT na TIFF bez použití Microsoft Word nebo Outlook na .NET
-url: /cs/net/conversion/oft-to-tiff/
+url_ignore: /cs/net/conversion/oft-to-tiff/
 family: total
 platformtag: net
 feature: conversion

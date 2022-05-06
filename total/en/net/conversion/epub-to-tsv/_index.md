@@ -1,7 +1,7 @@
 ---
 title: Convert EPUB to TSV via C# API
 description: C# API to Convert EPUB File to TSV without using Microsoft Excel or Adobe Reader
-url: /net/conversion/epub-to-tsv/
+url_ignore: /net/conversion/epub-to-tsv/
 family: total
 platformtag: net
 feature: conversion

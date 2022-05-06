@@ -1,7 +1,7 @@
 ---
 title: Export MHTML to PPSX via C# API
 description: .NET API to Convert MHTML to PPSX without using Microsoft Word
-url: /net/conversion/mhtml-to-ppsx/
+url_ignore: /net/conversion/mhtml-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

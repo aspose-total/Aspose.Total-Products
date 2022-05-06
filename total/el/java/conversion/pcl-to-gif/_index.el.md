@@ -1,7 +1,7 @@
 ---
 title: Java API για εξαγωγή PCL σε GIF
 description: Μετατρέψτε το PCL σε GIF χρησιμοποιώντας το Java API premise
-url: /el/java/conversion/pcl-to-gif/
+url_ignore: /el/java/conversion/pcl-to-gif/
 family: total
 platformtag: net
 feature: conversion
@@ -37,7 +37,8 @@ document.save("DocOutput.doc", SaveFormat.DOC);
 Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 // call save method while passing SaveFormat.GIF
 outputDocument.save("output.gif", SaveFormat.GIF);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Απαιτήσεις μετατροπής" %}}
@@ -49,7 +50,8 @@ outputDocument.save("output.gif", SaveFormat.GIF);
 Document document = new Document("input.pcl", "password");
 // save PCL as a DOC 
 document.save("DocOutput.doc", SaveFormat.DOC);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Ανοίξτε το έγγραφο PCL που προστατεύεται με κωδικό πρόσβασης μέσω Java" %}}
@@ -73,7 +75,8 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
     Statement statement = mConnection.createStatement();
     statement.executeUpdate(commandString);
 }  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: تحويل PDF إلى DXF عبر Java
 description: قم بتصدير ملف PDF إلى DXF في تطبيقات Java الخاصة بك دون استخدام أي تطبيق تابع لجهة خارجية
-url: /ar/java/conversion/pdf-to-dxf/
+url_ignore: /ar/java/conversion/pdf-to-dxf/
 family: total
 platformtag: net
 feature: conversion

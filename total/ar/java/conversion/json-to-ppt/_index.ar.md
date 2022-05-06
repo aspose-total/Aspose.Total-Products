@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى PPT عبر Java
 description: تحليل JSON إلى PPT في Java بدون استخدام Microsoft PowerPoint
-url: /ar/java/conversion/json-to-ppt/
+url_ignore: /ar/java/conversion/json-to-ppt/
 family: total
 platformtag: net
 feature: conversion

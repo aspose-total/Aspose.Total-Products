@@ -1,7 +1,7 @@
 ---
 title: Xuất EMAIL sang MD qua Java
 description: Java API để chuyển đổi EMAIL thành MD mà không cần sử dụng Microsoft Word hoặc Outlook
-url: /vi/java/conversion/email-to-md/
+url_ignore: /vi/java/conversion/email-to-md/
 family: total
 platformtag: net
 feature: conversion

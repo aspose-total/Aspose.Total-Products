@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export XPS to DOT
 description: Convert XPS to DOT within C++ applications.
-url: /cpp/conversion/xps-to-dot/
+url_ignore: /cpp/conversion/xps-to-dot/
 family: total
 platformtag: cpp
 feature: conversion

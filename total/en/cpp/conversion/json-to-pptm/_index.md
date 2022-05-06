@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to PPTM via C++ 
 description: Parse JSON to PPTM in C++ without using Microsoft PowerPoint
-url: /cpp/conversion/json-to-pptm/
+url_ignore: /cpp/conversion/json-to-pptm/
 family: total
 platformtag: cpp
 feature: conversion

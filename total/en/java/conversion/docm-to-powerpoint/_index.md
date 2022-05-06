@@ -1,7 +1,7 @@
 ---
 title: Convert DOCM to POWERPOINT via Java
 description: Java API to Export DOCM to POWERPOINT without using Microsoft Word or PowerPoint
-url: /java/conversion/docm-to-powerpoint/
+url_ignore: /java/conversion/docm-to-powerpoint/
 family: total
 platformtag: java
 feature: conversion

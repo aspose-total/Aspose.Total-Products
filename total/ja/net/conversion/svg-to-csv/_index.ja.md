@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してSVGをCSVに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにSVGファイルをCSVに変換するC＃API
-url: /ja/net/conversion/svg-to-csv/
+url_ignore: /ja/net/conversion/svg-to-csv/
 family: total
 platformtag: net
 feature: conversion

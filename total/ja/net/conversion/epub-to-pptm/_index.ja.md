@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してEPUBをPPTMにエクスポートする
 description: MicrosoftWordを使用せずにEPUBをPPTMに変換する.NETAPI
-url: /ja/net/conversion/epub-to-pptm/
+url_ignore: /ja/net/conversion/epub-to-pptm/
 family: total
 platformtag: net
 feature: conversion

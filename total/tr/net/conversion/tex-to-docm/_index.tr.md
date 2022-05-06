@@ -1,7 +1,7 @@
 ---
 title: TEX'yi DOCM'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan TEX'yi DOCM'ye dönüştürün
-url: /tr/net/conversion/tex-to-docm/
+url_ignore: /tr/net/conversion/tex-to-docm/
 family: total
 platformtag: net
 feature: conversion

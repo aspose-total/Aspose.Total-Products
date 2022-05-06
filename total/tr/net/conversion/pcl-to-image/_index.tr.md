@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla PCL'yi IMAGE'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan PCL'yi .NET uygulamalarınızda IMAGE'ye aktarın
-url: /tr/net/conversion/pcl-to-image/
+url_ignore: /tr/net/conversion/pcl-to-image/
 family: total
 platformtag: net
 feature: conversion

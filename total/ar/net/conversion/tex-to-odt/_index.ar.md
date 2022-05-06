@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير TEX إلى ODT
 description: تحويل TEX إلى ODT دون استخدام Microsoft Word
-url: /ar/net/conversion/tex-to-odt/
+url_ignore: /ar/net/conversion/tex-to-odt/
 family: total
 platformtag: net
 feature: conversion

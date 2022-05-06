@@ -1,7 +1,7 @@
 ---
 title: تحويل DOC إلى تنسيق JSON عبر Java
 description: قم بتحويل تنسيق DOC إلى تنسيق JSON عبر Java دون استخدام Microsoft Word أو Microsoft Excel
-url: /ar/java/conversion/doc-to-json/
+url_ignore: /ar/java/conversion/doc-to-json/
 family: total
 platformtag: net
 feature: conversion

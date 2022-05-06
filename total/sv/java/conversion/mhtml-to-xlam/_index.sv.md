@@ -1,7 +1,7 @@
 ---
 title: Java API för att rendera MHTML till XLAM
 description: Exportera MHTML till XLAM via Java API utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/java/conversion/mhtml-to-xlam/
+url_ignore: /sv/java/conversion/mhtml-to-xlam/
 family: total
 platformtag: net
 feature: conversion

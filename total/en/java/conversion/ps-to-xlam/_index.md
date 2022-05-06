@@ -1,7 +1,7 @@
 ---
 title: Java API to Render PS to XLAM
 description: Export PS to XLAM via Java API without using Microsoft Excel or Adobe Reader
-url: /java/conversion/ps-to-xlam/
+url_ignore: /java/conversion/ps-to-xlam/
 family: total
 platformtag: java
 feature: conversion

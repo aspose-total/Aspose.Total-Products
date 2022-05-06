@@ -1,7 +1,7 @@
 ---
 title: PDF'yi RTF'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan PDF'yi RTF'ye dönüştürün
-url: /tr/net/conversion/pdf-to-rtf/
+url_ignore: /tr/net/conversion/pdf-to-rtf/
 family: total
 platformtag: net
 feature: conversion

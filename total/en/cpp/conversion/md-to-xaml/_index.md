@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MD to XAML  
 description: Convert MD to XAML via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/md-to-xaml/
+url_ignore: /cpp/conversion/md-to-xaml/
 family: total
 platformtag: cpp
 feature: conversion

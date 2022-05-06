@@ -1,7 +1,7 @@
 ---
 title: تحويل POWERPOINT إلى تنسيق MHTML عبر Java
 description: قم بتحويل POWERPOINT إلى تنسيق MHTML عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/powerpoint-to-mhtml/
+url_ignore: /ar/java/conversion/powerpoint-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

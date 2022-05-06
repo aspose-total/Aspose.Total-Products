@@ -1,7 +1,7 @@
 ---
 title: Convert DOTM to EXCEL via .NET 
 description: Convert DOTM to EXCEL in C# without using Microsoft Excel or Adobe Reader
-url: /net/conversion/dotm-to-excel/
+url_ignore: /net/conversion/dotm-to-excel/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie PS über die Java-API in PPTM
 description: Java-API zum Konvertieren von PS in PPTM ohne Verwendung von Microsoft Word
-url: /de/java/conversion/ps-to-pptm/
+url_ignore: /de/java/conversion/ps-to-pptm/
 family: total
 platformtag: net
 feature: conversion

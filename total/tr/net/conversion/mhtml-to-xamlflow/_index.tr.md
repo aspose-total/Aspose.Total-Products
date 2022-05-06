@@ -1,7 +1,7 @@
 ---
 title: MHTML'yi XAMLFLOW'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan MHTML'yi XAMLFLOW'ye dönüştürün
-url: /tr/net/conversion/mhtml-to-xamlflow/
+url_ignore: /tr/net/conversion/mhtml-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

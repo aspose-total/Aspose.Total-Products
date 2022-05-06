@@ -1,7 +1,7 @@
 ---
 title: PDF'yi DOTX'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan PDF'yi DOTX'ye dönüştürün
-url: /tr/net/conversion/pdf-to-dotx/
+url_ignore: /tr/net/conversion/pdf-to-dotx/
 family: total
 platformtag: net
 feature: conversion

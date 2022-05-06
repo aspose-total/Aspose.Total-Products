@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई बीएमपी को ईमेल निर्यात करने के लिए
 description: .NET पर Microsoft Word या Outlook का उपयोग किए बिना EML को WORD में बदलें
-url: /hi/net/conversion/eml-to-word/
+url_ignore: /hi/net/conversion/eml-to-word/
 family: total
 platformtag: net
 feature: conversion

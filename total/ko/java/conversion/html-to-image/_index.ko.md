@@ -1,7 +1,7 @@
 ---
 title: Java를 통해 HTML을 IMAGE로 변환
 description: 타사 응용 프로그램을 사용하지 않고 Java 응용 프로그램에서 HTML 파일을 IMAGE로 내보내기
-url: /ko/java/conversion/html-to-image/
+url_ignore: /ko/java/conversion/html-to-image/
 family: total
 platformtag: net
 feature: conversion

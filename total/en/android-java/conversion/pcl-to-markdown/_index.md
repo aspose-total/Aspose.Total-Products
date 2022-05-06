@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PCL to MARKDOWN
 description: Transform PCL to MARKDOWN via Android via Java API
-url: /android-java/conversion/pcl-to-markdown/
+url_ignore: /android-java/conversion/pcl-to-markdown/
 family: total
 platformtag: android-java
 feature: conversion

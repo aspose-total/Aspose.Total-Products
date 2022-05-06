@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MHTML to POTX  
 description: Convert MHTML to POTX via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/mhtml-to-potx/
+url_ignore: /cpp/conversion/mhtml-to-potx/
 family: total
 platformtag: cpp
 feature: conversion

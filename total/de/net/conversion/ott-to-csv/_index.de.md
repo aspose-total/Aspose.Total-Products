@@ -1,7 +1,7 @@
 ---
 title: .NET-API zum Konvertieren von OTT in CSV
 description: C#-API zum Konvertieren von OTT in CSV ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/ott-to-csv/
+url_ignore: /de/net/conversion/ott-to-csv/
 family: total
 platformtag: net
 feature: conversion

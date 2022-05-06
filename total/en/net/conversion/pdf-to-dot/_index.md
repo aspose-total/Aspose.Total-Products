@@ -1,7 +1,7 @@
 ---
 title: C# API to Export PDF to DOT
 description: Convert PDF to DOT without using Microsoft Word
-url: /net/conversion/pdf-to-dot/
+url_ignore: /net/conversion/pdf-to-dot/
 family: total
 platformtag: net
 feature: conversion

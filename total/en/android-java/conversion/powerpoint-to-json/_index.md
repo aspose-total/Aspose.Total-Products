@@ -1,7 +1,7 @@
 ---
 title: Convert POWERPOINT to JSON Format in Android via Java
 description: Convert POWERPOINT to JSON format in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/powerpoint-to-json/
+url_ignore: /android-java/conversion/powerpoint-to-json/
 family: total
 platformtag: android-java
 feature: conversion

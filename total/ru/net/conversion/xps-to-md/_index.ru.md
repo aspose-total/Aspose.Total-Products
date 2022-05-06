@@ -1,7 +1,7 @@
 ---
 title: Преобразование XPS в MD через C# API
 description: C# API для преобразования файла XPS в MD без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/xps-to-md/
+url_ignore: /ru/net/conversion/xps-to-md/
 family: total
 platformtag: net
 feature: conversion

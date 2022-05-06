@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení MD do TXT
 description: Export MD do TXT přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/md-to-txt/
+url_ignore: /cs/java/conversion/md-to-txt/
 family: total
 platformtag: net
 feature: conversion

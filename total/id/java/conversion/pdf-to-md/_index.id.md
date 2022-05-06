@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender PDF ke MD
 description: Ekspor PDF ke MD melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/pdf-to-md/
+url_ignore: /id/java/conversion/pdf-to-md/
 family: total
 platformtag: net
 feature: conversion

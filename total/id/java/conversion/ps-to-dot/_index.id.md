@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Mengekspor PS ke DOT
 description: Konversi PS ke DOT menggunakan API Java di tempat
-url: /id/java/conversion/ps-to-dot/
+url_ignore: /id/java/conversion/ps-to-dot/
 family: total
 platformtag: net
 feature: conversion
@@ -37,7 +37,8 @@ document.save("DocOutput.doc", SaveFormat.DOC);
 Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 // call save method while passing SaveFormat.DOT
 outputDocument.save("output.dot", SaveFormat.DOT);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Persyaratan Konversi" %}}
@@ -49,7 +50,8 @@ Saat mengonversi PS ke DOT, meskipun dokumen Anda dilindungi kata sandi, Anda ma
 Document document = new Document("input.ps", "password");
 // save PS as a DOC 
 document.save("DocOutput.doc", SaveFormat.DOC);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Buka Dokumen PS yang Dilindungi Kata Sandi melalui Java" %}}
@@ -73,7 +75,8 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
     Statement statement = mConnection.createStatement();
     statement.executeUpdate(commandString);
 }  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

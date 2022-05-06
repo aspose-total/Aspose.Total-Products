@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to POTM via C++
 description: Export TXT to POTM in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/txt-to-potm/
+url_ignore: /cpp/conversion/txt-to-potm/
 family: total
 platformtag: cpp
 feature: conversion

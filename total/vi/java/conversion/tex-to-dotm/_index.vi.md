@@ -1,7 +1,7 @@
 ---
 title: API Java để xuất TEX sang DOTM
 description: Chuyển đổi TEX sang DOTM bằng cách sử dụng API Java tiền đề
-url: /vi/java/conversion/tex-to-dotm/
+url_ignore: /vi/java/conversion/tex-to-dotm/
 family: total
 platformtag: net
 feature: conversion

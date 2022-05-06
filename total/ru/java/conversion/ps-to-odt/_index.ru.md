@@ -1,7 +1,7 @@
 ---
 title: Java API для экспорта PS в ODT
 description: Преобразование PS в ODT с использованием локального Java API
-url: /ru/java/conversion/ps-to-odt/
+url_ignore: /ru/java/conversion/ps-to-odt/
 family: total
 platformtag: net
 feature: conversion

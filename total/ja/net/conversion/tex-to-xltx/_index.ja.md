@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してTEXをXLTXに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにTEXファイルをXLTXに変換するC＃API
-url: /ja/net/conversion/tex-to-xltx/
+url_ignore: /ja/net/conversion/tex-to-xltx/
 family: total
 platformtag: net
 feature: conversion

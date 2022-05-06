@@ -1,7 +1,7 @@
 ---
 title: تحويل DOCM إلى تنسيق JSON عبر .NET
 description: تحويل DOCM إلى JSON في C# بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/docm-to-json/
+url_ignore: /ar/net/conversion/docm-to-json/
 family: total
 platformtag: net
 feature: conversion
@@ -18,7 +18,7 @@ otherformats: ODS XLTM XLAM FODS DIF XLS XLSM TSV XLTX EXCEL XLSB SXC CSV XLT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="تحويل DOCM إلى تنسيق JSON عبر C#" %}}
-1. افتح ملف DOCM باستخدام فئة [Document](https://apireference.aspose.com/words/net/aspose.words/document
+1. افتح ملف DOCM باستخدام فئة [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 2. تحويل DOCM إلى HTML باستخدام طريقة [Save](https://apireference.aspose.com/words/net/aspose.words.documentsave/methods/4)
 3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. احفظ المستند بتنسيق JSON باستخدام طريقة [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)

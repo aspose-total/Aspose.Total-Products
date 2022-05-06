@@ -1,7 +1,7 @@
 ---
 title: 通过 .NET 将 DOT 转换为 JSON 格式
 description: 不使用 Microsoft Excel 或 Adobe Reader 在 C# 中将 DOT 转换为 JSON
-url: /zh/net/conversion/dot-to-json/
+url_ignore: /zh/net/conversion/dot-to-json/
 family: total
 platformtag: net
 feature: conversion

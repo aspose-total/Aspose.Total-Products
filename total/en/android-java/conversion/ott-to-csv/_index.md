@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert OTT to CSV
 description: Convert OTT to CSV in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/ott-to-csv/
+url_ignore: /android-java/conversion/ott-to-csv/
 family: total
 platformtag: android-java
 feature: conversion

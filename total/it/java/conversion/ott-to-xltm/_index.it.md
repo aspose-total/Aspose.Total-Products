@@ -1,7 +1,7 @@
 ---
 title: API Java per convertire OTT in XLTM
 description: Converti OTT in XLTM tramite Java senza utilizzare Microsoft Word o Microsoft Excel
-url: /it/java/conversion/ott-to-xltm/
+url_ignore: /it/java/conversion/ott-to-xltm/
 family: total
 platformtag: net
 feature: conversion

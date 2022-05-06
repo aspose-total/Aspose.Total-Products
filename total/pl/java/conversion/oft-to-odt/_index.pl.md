@@ -1,7 +1,7 @@
 ---
 title: Eksportuj OFT do ODT przez Java
 description: Java API do konwersji OFT na ODT bez użycia Microsoft Word lub Outlook
-url: /pl/java/conversion/oft-to-odt/
+url_ignore: /pl/java/conversion/oft-to-odt/
 family: total
 platformtag: net
 feature: conversion

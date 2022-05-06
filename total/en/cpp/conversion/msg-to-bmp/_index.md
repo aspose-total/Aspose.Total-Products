@@ -1,7 +1,7 @@
 ---
 title: Export MSG to BMP via C++
 description: C++ API to Convert MSG to BMP without using Microsoft Word or Outlook
-url: /cpp/conversion/msg-to-bmp/
+url_ignore: /cpp/conversion/msg-to-bmp/
 family: total
 platformtag: cpp
 feature: conversion

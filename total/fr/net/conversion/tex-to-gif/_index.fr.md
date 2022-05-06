@@ -1,7 +1,7 @@
 ---
 title: API C# pour exporter TEX vers GIF
 description: Convertir TEX en GIF sans utiliser Microsoft Word
-url: /fr/net/conversion/tex-to-gif/
+url_ignore: /fr/net/conversion/tex-to-gif/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: ODT DOTX OTT MARKDOWN PCL RTF DOTM DOT GIF WORDML XAMLFLOW MHTML
 {{< blocks/products/pf/i18n/feature-page-header h1="Rendre TEX en GIF via .NET" h2="API .NET pour exporter TEX vers GIF sous Windows, macOS et Linux sans utiliser Microsoft Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total pour .NET](https://products.aspose.com/total/net/) est une API puissante pour ajouter des fonctionnalités de manipulation et de conversion de documents dans votre application .NET. En utilisant l'API de traitement PDF avancée [Aspose.PDF pour .NET](https://products.aspose.com/pdf/net/), vous pouvez convertir le format de fichier TEX en DOC. Après cela, en utilisant la puissante API de traitement de documents [Aspose.Words pour .NET](https://products.aspose.com/words/net/), vous pouvez restituer DOC en GIF.
+[Aspose.Total for .NET](https://products.aspose.com/total/net/) est une API puissante pour ajouter des fonctionnalités de manipulation et de conversion de documents dans votre application .NET. En utilisant l'API de traitement PDF avancée [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), vous pouvez convertir le format de fichier TEX en DOC. Après cela, en utilisant la puissante API de traitement de documents [Aspose.Words for .NET](https://products.aspose.com/words/net/), vous pouvez restituer DOC en GIF.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -63,7 +63,7 @@ document.Save("Decrypt_out.doc");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Créer un fichier GIF en lecture seule via .NET" %}}
-Afin de protéger votre GIF contre la modification et d'empêcher d'autres personnes de modifier des informations sensibles et confidentielles dans votre document, vous pouvez également définir la protection du document à l'aide de l'API. Vous pouvez limiter la possibilité de modifier un document et n'autoriser que certaines actions avec celui-ci. Cela peut être fait à l'aide de l'API [Aspose.Words pour .NET](https://products.aspose.com/words/net/). Il vous permet de contrôler la façon dont vous restreignez le contenu à l'aide du paramètre d'énumération [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype). Vous pouvez définir votre document en lecture seule en utilisant les lignes de code suivantes. 
+Afin de protéger votre GIF contre la modification et d'empêcher d'autres personnes de modifier des informations sensibles et confidentielles dans votre document, vous pouvez également définir la protection du document à l'aide de l'API. Vous pouvez limiter la possibilité de modifier un document et n'autoriser que certaines actions avec celui-ci. Cela peut être fait à l'aide de l'API [Aspose.Words for .NET](https://products.aspose.com/words/net/). Il vous permet de contrôler la façon dont vous restreignez le contenu à l'aide du paramètre d'énumération [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype). Vous pouvez définir votre document en lecture seule en utilisant les lignes de code suivantes. 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

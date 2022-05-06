@@ -1,7 +1,7 @@
 ---
 title: Convert POTM to SXC via C++ 
 description: Export POTM to SXC in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/potm-to-sxc/
+url_ignore: /cpp/conversion/potm-to-sxc/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java ile PPSM'u OTT'ye dönüştürün
 description: Microsoft Word veya PowerPoint kullanmadan PPSM'u OTT'a Aktarmak için Java API
-url: /tr/java/conversion/ppsm-to-ott/
+url_ignore: /tr/java/conversion/ppsm-to-ott/
 family: total
 platformtag: net
 feature: conversion

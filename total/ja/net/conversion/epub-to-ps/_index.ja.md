@@ -1,7 +1,7 @@
 ---
 title: EPUBをPSにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにEPUBをPSに変換する
-url: /ja/net/conversion/epub-to-ps/
+url_ignore: /ja/net/conversion/epub-to-ps/
 family: total
 platformtag: net
 feature: conversion

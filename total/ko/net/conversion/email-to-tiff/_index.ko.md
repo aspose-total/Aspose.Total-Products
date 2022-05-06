@@ -1,7 +1,7 @@
 ---
 title: EMAIL을 TIFF로 내보내는 C# API
 description: .NET에서 Microsoft Word 또는 Outlook을 사용하지 않고 EMAIL을 TIFF로 변환
-url: /ko/net/conversion/email-to-tiff/
+url_ignore: /ko/net/conversion/email-to-tiff/
 family: total
 platformtag: net
 feature: conversion

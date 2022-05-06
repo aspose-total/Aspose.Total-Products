@@ -1,7 +1,7 @@
 ---
 title: OFTをODTにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにOFTをODTに変換する
-url: /ja/net/conversion/oft-to-odt/
+url_ignore: /ja/net/conversion/oft-to-odt/
 family: total
 platformtag: net
 feature: conversion

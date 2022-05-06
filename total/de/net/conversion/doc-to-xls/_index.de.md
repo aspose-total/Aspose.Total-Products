@@ -1,7 +1,7 @@
 ---
 title: .NET-API zum Konvertieren von DOC in XLS
 description: C#-API zum Konvertieren von DOC in XLS ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/doc-to-xls/
+url_ignore: /de/net/conversion/doc-to-xls/
 family: total
 platformtag: net
 feature: conversion

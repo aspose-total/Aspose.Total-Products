@@ -1,7 +1,7 @@
 ---
 title: XPS'yi MARKDOWN'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak XPS'yi MARKDOWN'ye dönüştürün
-url: /tr/java/conversion/xps-to-markdown/
+url_ignore: /tr/java/conversion/xps-to-markdown/
 family: total
 platformtag: net
 feature: conversion

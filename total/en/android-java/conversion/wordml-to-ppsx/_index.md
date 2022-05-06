@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to PPSX in Android via Java
 description: WORDML to PPSX conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/wordml-to-ppsx/
+url_ignore: /android-java/conversion/wordml-to-ppsx/
 family: total
 platformtag: android-java
 feature: conversion

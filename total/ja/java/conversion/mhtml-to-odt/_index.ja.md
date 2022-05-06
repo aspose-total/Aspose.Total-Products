@@ -1,7 +1,7 @@
 ---
 title: MHTMLをODTにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してMHTMLをODTに変換する
-url: /ja/java/conversion/mhtml-to-odt/
+url_ignore: /ja/java/conversion/mhtml-to-odt/
 family: total
 platformtag: net
 feature: conversion

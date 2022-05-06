@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга CGM в FODS
 description: Экспорт CGM в FODS через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/cgm-to-fods/
+url_ignore: /ru/java/conversion/cgm-to-fods/
 family: total
 platformtag: net
 feature: conversion

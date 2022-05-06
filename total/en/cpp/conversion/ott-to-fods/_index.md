@@ -1,7 +1,7 @@
 ---
 title: Convert OTT to FODS in C++
 description: C++ API to Convert OTT to FODS without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/ott-to-fods/
+url_ignore: /cpp/conversion/ott-to-fods/
 family: total
 platformtag: cpp
 feature: conversion

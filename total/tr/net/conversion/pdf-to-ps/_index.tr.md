@@ -1,7 +1,7 @@
 ---
 title: PDF'yi PS'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan PDF'yi PS'ye dönüştürün
-url: /tr/net/conversion/pdf-to-ps/
+url_ignore: /tr/net/conversion/pdf-to-ps/
 family: total
 platformtag: net
 feature: conversion

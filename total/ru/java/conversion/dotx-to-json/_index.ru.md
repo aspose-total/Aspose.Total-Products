@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOTX в формат JSON через Java
 description: Преобразование DOTX в формат JSON через Java без использования Microsoft Word или Microsoft Excel
-url: /ru/java/conversion/dotx-to-json/
+url_ignore: /ru/java/conversion/dotx-to-json/
 family: total
 platformtag: net
 feature: conversion
@@ -16,10 +16,10 @@ otherformats: SXC XLSM XLSB TSV XLAM XLT DIF EXCEL XLTX CSV XLTM FODS ODS XLSX
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование DOTX в формат JSON через Java" %}}
-1. Откройте файл DOTX, используя класс [Dotxument](https://apireference.aspose.com/words/java/com.aspose.words/Dotxument).
-2. Преобразуйте DOTX в HTML, используя [Сохранить](https://apireference.aspose.com/words/java/com.aspose.words/Dotxument#save(java.lang.String,com.aspose.words.SaveOptions) ) метод
+1. Откройте файл DOTX, используя класс [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document).
+2. Преобразуйте DOTX в HTML, используя [Сохранить](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) метод
 3. Загрузите HTML-документ с помощью класса [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).
-4. Сохраните документ в формате JSON с помощью [Сохранить](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. SaveOptions)) метод
+4. Сохраните документ в формате JSON с помощью [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. SaveOptions)) метод
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
 Вы можете легко использовать Aspose.Total для Java непосредственно из проекта на основе [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total). и включите библиотеки в свой pom.xml.

@@ -1,7 +1,7 @@
 ---
 title: Export XLTX to WORD in Android 
 description: Android API to Convert XLTX to WORD without using Microsoft Word
-url: /android-java/conversion/xltx-to-word/
+url_ignore: /android-java/conversion/xltx-to-word/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi WORD sang PPS qua Java
 description: Java API để xuất WORD sang PPS mà không cần sử dụng Microsoft Word hoặc PowerPoint
-url: /vi/java/conversion/word-to-pps/
+url_ignore: /vi/java/conversion/word-to-pps/
 family: total
 platformtag: net
 feature: conversion

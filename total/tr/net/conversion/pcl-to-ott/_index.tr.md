@@ -1,7 +1,7 @@
 ---
 title: PCL'yi OTT'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan PCL'yi OTT'ye dönüştürün
-url: /tr/net/conversion/pcl-to-ott/
+url_ignore: /tr/net/conversion/pcl-to-ott/
 family: total
 platformtag: net
 feature: conversion

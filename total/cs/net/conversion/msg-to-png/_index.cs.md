@@ -1,7 +1,7 @@
 ---
 title: C# API pro export MSG do PNG
 description: Převeďte MSG na PNG bez použití Microsoft Word nebo Outlook na .NET
-url: /cs/net/conversion/msg-to-png/
+url_ignore: /cs/net/conversion/msg-to-png/
 family: total
 platformtag: net
 feature: conversion

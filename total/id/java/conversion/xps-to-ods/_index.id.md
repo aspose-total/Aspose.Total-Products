@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender XPS ke ODS
 description: Ekspor XPS ke ODS melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/xps-to-ods/
+url_ignore: /id/java/conversion/xps-to-ods/
 family: total
 platformtag: net
 feature: conversion

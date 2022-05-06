@@ -1,7 +1,7 @@
 ---
 title: API Java per convertire DOCX in XLS
 description: Converti DOCX in XLS tramite Java senza utilizzare Microsoft Word o Microsoft Excel
-url: /it/java/conversion/docx-to-xls/
+url_ignore: /it/java/conversion/docx-to-xls/
 family: total
 platformtag: net
 feature: conversion

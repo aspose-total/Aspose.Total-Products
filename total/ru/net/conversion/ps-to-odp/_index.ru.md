@@ -1,7 +1,7 @@
 ---
 title: Экспорт PS в ODP через C# API
 description: .NET API для преобразования PS в ODP без использования Microsoft Word
-url: /ru/net/conversion/ps-to-odp/
+url_ignore: /ru/net/conversion/ps-to-odp/
 family: total
 platformtag: net
 feature: conversion

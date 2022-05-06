@@ -1,7 +1,7 @@
 ---
 title: PS'yi C# API aracılığıyla OTP'ye aktarın
 description: Microsoft Word kullanmadan PS'yi OTP'ye dönüştürmek için .NET API
-url: /tr/net/conversion/ps-to-otp/
+url_ignore: /tr/net/conversion/ps-to-otp/
 family: total
 platformtag: net
 feature: conversion

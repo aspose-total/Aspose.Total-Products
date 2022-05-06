@@ -1,7 +1,7 @@
 ---
 title: API Java para renderizar MD para CSV
 description: Exporte MD para CSV via API Java sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/java/conversion/md-to-csv/
+url_ignore: /pt/java/conversion/md-to-csv/
 family: total
 platformtag: net
 feature: conversion

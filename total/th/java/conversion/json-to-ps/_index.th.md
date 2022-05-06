@@ -1,7 +1,7 @@
 ---
 title: แปลงรูปแบบ JSON เป็น PS ผ่าน Java
 description: แยก JSON เป็น PS ใน Java โดยไม่ต้องใช้ Microsoft Word
-url: /th/java/conversion/json-to-ps/
+url_ignore: /th/java/conversion/json-to-ps/
 family: total
 platformtag: net
 feature: conversion

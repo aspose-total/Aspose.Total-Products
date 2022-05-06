@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してEPUBをPSDに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでEPUBをPSDにエクスポートします
-url: /ja/net/conversion/epub-to-psd/
+url_ignore: /ja/net/conversion/epub-to-psd/
 family: total
 platformtag: net
 feature: conversion

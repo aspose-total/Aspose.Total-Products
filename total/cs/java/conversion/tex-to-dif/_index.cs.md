@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení TEX do DIF
 description: Export TEX do DIF přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/tex-to-dif/
+url_ignore: /cs/java/conversion/tex-to-dif/
 family: total
 platformtag: net
 feature: conversion

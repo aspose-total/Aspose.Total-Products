@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to XLSX in C++
 description: C++ API to Convert RTF to XLSX without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/rtf-to-xlsx/
+url_ignore: /cpp/conversion/rtf-to-xlsx/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API C# per esportare EML in IMAGE
 description: Converti EML in IMAGE senza utilizzare Microsoft Word o Outlook su .NET
-url: /it/net/conversion/eml-to-image/
+url_ignore: /it/net/conversion/eml-to-image/
 family: total
 platformtag: net
 feature: conversion

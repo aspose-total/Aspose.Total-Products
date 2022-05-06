@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMDをWMFに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでMDをWMFにエクスポートします
-url: /ja/net/conversion/md-to-wmf/
+url_ignore: /ja/net/conversion/md-to-wmf/
 family: total
 platformtag: net
 feature: conversion

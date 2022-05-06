@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してCGMをAPNGに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでCGMをAPNGにエクスポートします
-url: /ja/net/conversion/cgm-to-apng/
+url_ignore: /ja/net/conversion/cgm-to-apng/
 family: total
 platformtag: net
 feature: conversion

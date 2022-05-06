@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı PDF'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan EMLX'i PDF'ye dönüştürün
-url: /tr/net/conversion/emlx-to-pdf/
+url_ignore: /tr/net/conversion/emlx-to-pdf/
 family: total
 platformtag: net
 feature: conversion

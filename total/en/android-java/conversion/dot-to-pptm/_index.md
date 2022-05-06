@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to PPTM in Android via Java
 description: DOT to PPTM conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/dot-to-pptm/
+url_ignore: /android-java/conversion/dot-to-pptm/
 family: total
 platformtag: android-java
 feature: conversion

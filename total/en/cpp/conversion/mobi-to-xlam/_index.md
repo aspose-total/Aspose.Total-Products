@@ -1,7 +1,7 @@
 ---
 title: Convert MOBI to XLAM in C++
 description: C++ API to Convert MOBI to XLAM without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/mobi-to-xlam/
+url_ignore: /cpp/conversion/mobi-to-xlam/
 family: total
 platformtag: cpp
 feature: conversion

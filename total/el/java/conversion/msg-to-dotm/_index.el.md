@@ -1,7 +1,7 @@
 ---
 title: Εξαγωγή MSG σε DOTM μέσω Java
 description: Java API για μετατροπή MSG σε DOTM χωρίς χρήση του Microsoft Word ή του Outlook
-url: /el/java/conversion/msg-to-dotm/
+url_ignore: /el/java/conversion/msg-to-dotm/
 family: total
 platformtag: net
 feature: conversion

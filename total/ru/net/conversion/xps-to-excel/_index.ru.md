@@ -1,7 +1,7 @@
 ---
 title: Преобразование XPS в EXCEL через C# API
 description: C# API для преобразования файла XPS в EXCEL без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/xps-to-excel/
+url_ignore: /ru/net/conversion/xps-to-excel/
 family: total
 platformtag: net
 feature: conversion

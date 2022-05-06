@@ -1,7 +1,7 @@
 ---
 title: Convert PPTM to XLAM Format via Java
 description: Convert PPTM to XLAM format via Java without using using Microsoft Excel or PowerPoint
-url: /java/conversion/pptm-to-xlam/
+url_ignore: /java/conversion/pptm-to-xlam/
 family: total
 platformtag: java
 feature: conversion

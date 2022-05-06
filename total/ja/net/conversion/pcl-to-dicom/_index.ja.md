@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPCLをDICOMに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでPCLをDICOMにエクスポートします
-url: /ja/net/conversion/pcl-to-dicom/
+url_ignore: /ja/net/conversion/pcl-to-dicom/
 family: total
 platformtag: net
 feature: conversion

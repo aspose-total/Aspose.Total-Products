@@ -1,7 +1,7 @@
 ---
 title: Export XML to PPS in Android 
 description: Android API to Convert XML to PPS without using Microsoft Word
-url: /android-java/conversion/xml-to-pps/
+url_ignore: /android-java/conversion/xml-to-pps/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to FODS in C++
 description: C++ API to Convert DOT to FODS without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/dot-to-fods/
+url_ignore: /cpp/conversion/dot-to-fods/
 family: total
 platformtag: cpp
 feature: conversion

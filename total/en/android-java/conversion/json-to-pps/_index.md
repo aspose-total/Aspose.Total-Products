@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to PPS in Android via Java 
 description: Parse JSON to PPS in Android Applications without using Microsoft PowerPoint
-url: /android-java/conversion/json-to-pps/
+url_ignore: /android-java/conversion/json-to-pps/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converter PPTX para DOCM via Java
 description: API Java para exportar PPTX para DOCM sem usar o Microsoft Word ou PowerPoint
-url: /pt/java/conversion/pptx-to-docm/
+url_ignore: /pt/java/conversion/pptx-to-docm/
 family: total
 platformtag: net
 feature: conversion
@@ -34,7 +34,7 @@ Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloa
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisitos de conversão" %}}
-Usando a API, você também pode realizar a conversão de arquivo PPTX para DOCM com marca d'água. Para adicionar uma marca d'água ao seu document DOCM, você pode primeiro converter o arquivo PPTX para HTML e adicionar uma marca d'água a ele. Para adicionar uma marca d'água, carregue o arquivo HTML recém-criado usando a classe [Docmument](https://apireference.aspose.com/words/java/com.aspose.words/Docmument), crie uma instância de TextWatermarkOptions e defina suas propriedades, chame o método Watermark.setText e passe o texto da marca d'água e o objeto de TextWatermarkOptions.  
+Usando a API, você também pode realizar a conversão de arquivo PPTX para DOCM com marca d'água. Para adicionar uma marca d'água ao seu document DOCM, você pode primeiro converter o arquivo PPTX para HTML e adicionar uma marca d'água a ele. Para adicionar uma marca d'água, carregue o arquivo HTML recém-criado usando a classe [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document), crie uma instância de TextWatermarkOptions e defina suas propriedades, chame o método Watermark.setText e passe o texto da marca d'água e o objeto de TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}

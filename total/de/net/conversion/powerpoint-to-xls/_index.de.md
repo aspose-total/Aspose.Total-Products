@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie POWERPOINT über C# in XLS
 description: Konvertieren Sie POWERPOINT in C# in XLS, ohne Microsoft Excel oder Powerpoint zu verwenden
-url: /de/net/conversion/powerpoint-to-xls/
+url_ignore: /de/net/conversion/powerpoint-to-xls/
 family: total
 platformtag: net
 feature: conversion

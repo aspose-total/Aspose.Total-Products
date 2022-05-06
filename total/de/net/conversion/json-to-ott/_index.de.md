@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie das JSON-Format über .NET in OTT
 description: Analysieren Sie JSON in OTT in C#, ohne Microsoft Word zu verwenden
-url: /de/net/conversion/json-to-ott/
+url_ignore: /de/net/conversion/json-to-ott/
 family: total
 platformtag: net
 feature: conversion

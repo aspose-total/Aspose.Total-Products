@@ -1,7 +1,7 @@
 ---
 title: Převeďte PPSM do formátu XLAM přes Java
 description: Převeďte PPSM do formátu XLAM přes Java bez použití Microsoft Excel nebo PowerPoint
-url: /cs/java/conversion/ppsm-to-xlam/
+url_ignore: /cs/java/conversion/ppsm-to-xlam/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API de Java para convertir WORDML a DIF
 description: Convierta WORDML a DIF a través de Java sin usar Microsoft Word o Microsoft Excel
-url: /es/java/conversion/wordml-to-dif/
+url_ignore: /es/java/conversion/wordml-to-dif/
 family: total
 platformtag: net
 feature: conversion

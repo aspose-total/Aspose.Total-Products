@@ -1,7 +1,7 @@
 ---
 title: Konversi MD ke IMAGE melalui Java
 description: Ekspor file MD ke IMAGE di aplikasi Java Anda tanpa menggunakan aplikasi pihak ketiga
-url: /id/java/conversion/md-to-image/
+url_ignore: /id/java/conversion/md-to-image/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تصدير EPUB إلى PPSX عبر C# API
 description: NET API لتحويل EPUB إلى PPSX دون استخدام Microsoft Word
-url: /ar/net/conversion/epub-to-ppsx/
+url_ignore: /ar/net/conversion/epub-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converter o formato JSON para POTM via .NET
 description: Analise JSON para POTM em C# sem usar o Microsoft PowerPoint
-url: /pt/net/conversion/json-to-potm/
+url_ignore: /pt/net/conversion/json-to-potm/
 family: total
 platformtag: net
 feature: conversion
@@ -33,7 +33,8 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 Ao analisar JSON para POTM, você também pode definir opções de layout para seu formato JSON usando [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayouttoptions). Ele permite que você processe array como uma tabela, ignore nulos, ignore o título do array, ignore o título do objeto, converta string em número ou data, defina data e formato de número e defina estilo de título. Todas essas opções permitem que você apresente seus dados conforme suas necessidades. O trecho de código a seguir mostra como definir as opções de layout.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "set-layout-and-parse-json-to-powerpoint.cs" >}}
+{{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "set-layout-and-parse-json-to-powerpoint.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Ao analisar JSON para POTM, você também pode definir opções de layout para s
 Usando a API, você também pode converter JSON em POTM com marca d'água. Para adicionar uma marca d'água ao seu documento POTM, você pode primeiro analisar JSON para PPTX e adicionar uma marca d'água a ele. Para adicionar uma marca d'água, carregue o arquivo PPTX recém-criado usando a classe [Apresentação](https://apireference.aspose.com/slides/net/aspose.slides/presentation), selecione a apresentação principal, adicione o tipo de forma usando AddAutoShape e adicione texto de marca d'água usando AddTextFrame. Depois de adicionar a marca d'água, você pode salvar o documento no POTM. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή TEX σε JPEG2000 μέσω C# API
 description: Εξάγετε το TEX σε JPEG2000 στις εφαρμογές σας .NET χωρίς να χρησιμοποιήσετε καμία εφαρμογή τρίτου μέρους
-url: /el/net/conversion/tex-to-jpeg2000/
+url_ignore: /el/net/conversion/tex-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

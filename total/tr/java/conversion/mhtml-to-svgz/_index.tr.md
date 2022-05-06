@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla MHTML'yi SVGZ'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan MHTML dosyasını Java uygulamalarınızda SVGZ'ye aktarın
-url: /tr/java/conversion/mhtml-to-svgz/
+url_ignore: /tr/java/conversion/mhtml-to-svgz/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert CGM to ODP  
 description: Convert CGM to ODP via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/cgm-to-odp/
+url_ignore: /cpp/conversion/cgm-to-odp/
 family: total
 platformtag: cpp
 feature: conversion

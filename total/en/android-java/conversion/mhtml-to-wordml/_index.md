@@ -1,7 +1,7 @@
 ---
 title: Android API to Render MHTML to WORDML
 description: Transform MHTML to WORDML via Android via Java API
-url: /android-java/conversion/mhtml-to-wordml/
+url_ignore: /android-java/conversion/mhtml-to-wordml/
 family: total
 platformtag: android-java
 feature: conversion

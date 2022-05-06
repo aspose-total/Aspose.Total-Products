@@ -1,7 +1,7 @@
 ---
 title: Convert EPUB to DIF in Android via Java
 description: Render EPUB to DIF in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/epub-to-dif/
+url_ignore: /android-java/conversion/epub-to-dif/
 family: total
 platformtag: android-java
 feature: conversion

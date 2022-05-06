@@ -1,7 +1,7 @@
 ---
 title: Export EMAIL to JPEG via C++
 description: C++ API to Convert EMAIL to JPEG without using Microsoft Word or Outlook
-url: /cpp/conversion/email-to-jpeg/
+url_ignore: /cpp/conversion/email-to-jpeg/
 family: total
 platformtag: cpp
 feature: conversion

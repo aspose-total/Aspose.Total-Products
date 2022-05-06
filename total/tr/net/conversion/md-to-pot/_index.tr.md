@@ -1,7 +1,7 @@
 ---
 title: MD'yi C# API aracılığıyla POT'ye aktarın
 description: Microsoft Word kullanmadan MD'yi POT'ye dönüştürmek için .NET API
-url: /tr/net/conversion/md-to-pot/
+url_ignore: /tr/net/conversion/md-to-pot/
 family: total
 platformtag: net
 feature: conversion

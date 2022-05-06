@@ -1,7 +1,7 @@
 ---
 title: Convert POTX to FODS Format via Java
 description: Convert POTX to FODS format via Java without using using Microsoft Excel or PowerPoint
-url: /java/conversion/potx-to-fods/
+url_ignore: /java/conversion/potx-to-fods/
 family: total
 platformtag: java
 feature: conversion

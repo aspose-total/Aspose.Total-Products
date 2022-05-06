@@ -1,7 +1,7 @@
 ---
 title: Java API για μετατροπή MOBI σε TSV
 description: Μετατροπή MOBI σε TSV μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel
-url: /el/java/conversion/mobi-to-tsv/
+url_ignore: /el/java/conversion/mobi-to-tsv/
 family: total
 platformtag: net
 feature: conversion

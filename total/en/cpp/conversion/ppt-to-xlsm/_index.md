@@ -1,7 +1,7 @@
 ---
 title: Convert PPT to XLSM via C++ 
 description: Export PPT to XLSM in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/ppt-to-xlsm/
+url_ignore: /cpp/conversion/ppt-to-xlsm/
 family: total
 platformtag: cpp
 feature: conversion

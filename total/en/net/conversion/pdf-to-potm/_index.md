@@ -1,7 +1,7 @@
 ---
 title: Export PDF to POTM via C# API
 description: .NET API to Convert PDF to POTM without using Microsoft Word
-url: /net/conversion/pdf-to-potm/
+url_ignore: /net/conversion/pdf-to-potm/
 family: total
 platformtag: net
 feature: conversion

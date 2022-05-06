@@ -1,7 +1,7 @@
 ---
 title: POT'u C# ile TSV'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan POT'u C#'ta TSV'ye dönüştürün
-url: /tr/net/conversion/pot-to-tsv/
+url_ignore: /tr/net/conversion/pot-to-tsv/
 family: total
 platformtag: net
 feature: conversion

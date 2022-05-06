@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXSLFOをPPTMにエクスポートする
 description: MicrosoftWordを使用せずにXSLFOをPPTMに変換する.NETAPI
-url: /ja/net/conversion/xslfo-to-pptm/
+url_ignore: /ja/net/conversion/xslfo-to-pptm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export EMAIL to DOTM via C++
 description: C++ API to Convert EMAIL to DOTM without using Microsoft Word or Outlook
-url: /cpp/conversion/email-to-dotm/
+url_ignore: /cpp/conversion/email-to-dotm/
 family: total
 platformtag: cpp
 feature: conversion

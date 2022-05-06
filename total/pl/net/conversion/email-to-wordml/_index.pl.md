@@ -1,7 +1,7 @@
 ---
 title: C# API do eksportu EMAIL do WORDML
 description: Konwertuj EMAIL na WORDML bez używania Microsoft Word lub Outlook na .NET
-url: /pl/net/conversion/email-to-wordml/
+url_ignore: /pl/net/conversion/email-to-wordml/
 family: total
 platformtag: net
 feature: conversion

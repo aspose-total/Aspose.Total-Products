@@ -1,7 +1,7 @@
 ---
 title: .NETを介してODPをJSON形式に変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でODPをJSONに変換する
-url: /ja/net/conversion/odp-to-json/
+url_ignore: /ja/net/conversion/odp-to-json/
 family: total
 platformtag: net
 feature: conversion

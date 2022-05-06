@@ -1,7 +1,7 @@
 ---
 title: EMLをWORDMLにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMLをWORDMLに変換する
-url: /ja/net/conversion/eml-to-wordml/
+url_ignore: /ja/net/conversion/eml-to-wordml/
 family: total
 platformtag: net
 feature: conversion

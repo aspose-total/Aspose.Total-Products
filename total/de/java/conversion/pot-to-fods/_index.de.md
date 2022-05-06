@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie POT über Java in das FODS-Format
 description: Konvertieren Sie POT über Java in das FODS-Format, ohne Microsoft Excel oder PowerPoint zu verwenden
-url: /de/java/conversion/pot-to-fods/
+url_ignore: /de/java/conversion/pot-to-fods/
 family: total
 platformtag: net
 feature: conversion

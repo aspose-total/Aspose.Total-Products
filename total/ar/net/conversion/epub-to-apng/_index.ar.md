@@ -1,7 +1,7 @@
 ---
 title: تحويل EPUB إلى APNG عبر C# API
 description: قم بتصدير EPUB إلى APNG في تطبيقات .NET دون استخدام أي تطبيق تابع لجهة خارجية
-url: /ar/net/conversion/epub-to-apng/
+url_ignore: /ar/net/conversion/epub-to-apng/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert POTM to EXCEL via C++ 
 description: Export POTM to EXCEL in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/potm-to-excel/
+url_ignore: /cpp/conversion/potm-to-excel/
 family: total
 platformtag: cpp
 feature: conversion

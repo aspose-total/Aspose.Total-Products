@@ -1,7 +1,7 @@
 ---
 title: Преобразование формата JSON в ODT через Java
 description: Разобрать JSON в ODT на Java без использования Microsoft Word
-url: /ru/java/conversion/json-to-odt/
+url_ignore: /ru/java/conversion/json-to-odt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convierta XML a ODS a través de la API de C#
 description: API C# para convertir archivos XML a ODS sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/xml-to-ods/
+url_ignore: /es/net/conversion/xml-to-ods/
 family: total
 platformtag: net
 feature: conversion

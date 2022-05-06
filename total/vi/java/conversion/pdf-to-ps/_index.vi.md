@@ -1,7 +1,7 @@
 ---
 title: API Java để xuất PDF sang PS
 description: Chuyển đổi PDF sang PS bằng cách sử dụng API Java tiền đề
-url: /vi/java/conversion/pdf-to-ps/
+url_ignore: /vi/java/conversion/pdf-to-ps/
 family: total
 platformtag: net
 feature: conversion

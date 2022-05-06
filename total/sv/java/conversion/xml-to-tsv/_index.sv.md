@@ -1,7 +1,7 @@
 ---
 title: Java API för att rendera XML till TSV
 description: Exportera XML till TSV via Java API utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/java/conversion/xml-to-tsv/
+url_ignore: /sv/java/conversion/xml-to-tsv/
 family: total
 platformtag: net
 feature: conversion

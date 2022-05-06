@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı GIF'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan MSG'i GIF'ye dönüştürün
-url: /tr/net/conversion/msg-to-gif/
+url_ignore: /tr/net/conversion/msg-to-gif/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: EML'i Java aracılığıyla OTT'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan EML'i OTT'ye Dönüştürmek için Java API
-url: /tr/java/conversion/eml-to-ott/
+url_ignore: /tr/java/conversion/eml-to-ott/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export MSG do PCL přes Java
 description: Java API pro převod MSG do PCL bez použití Microsoft Word nebo Outlook
-url: /cs/java/conversion/msg-to-pcl/
+url_ignore: /cs/java/conversion/msg-to-pcl/
 family: total
 platformtag: net
 feature: conversion

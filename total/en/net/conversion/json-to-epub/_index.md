@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to EPUB via .NET 
 description: Parse JSON to EPUB in C# without using Microsoft Word
-url: /net/conversion/json-to-epub/
+url_ignore: /net/conversion/json-to-epub/
 family: total
 platformtag: net
 feature: conversion

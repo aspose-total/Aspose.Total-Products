@@ -1,7 +1,7 @@
 ---
 title: Export EMAIL to IMAGE via C++
 description: C++ API to Convert EMAIL to IMAGE without using Microsoft Word or Outlook
-url: /cpp/conversion/email-to-image/
+url_ignore: /cpp/conversion/email-to-image/
 family: total
 platformtag: cpp
 feature: conversion

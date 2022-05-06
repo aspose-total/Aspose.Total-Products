@@ -1,7 +1,7 @@
 ---
 title: Convert PPTM to JSON format via C++ 
 description: Export PPTM to JSON format in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pptm-to-json/
+url_ignore: /cpp/conversion/pptm-to-json/
 family: total
 platformtag: cpp
 feature: conversion

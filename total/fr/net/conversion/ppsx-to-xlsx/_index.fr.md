@@ -1,7 +1,7 @@
 ---
 title: Convertir PPSX en XLSX via C#
 description: Convertir PPSX en XLSX en C# sans utiliser Microsoft Excel ou Powerpoint
-url: /fr/net/conversion/ppsx-to-xlsx/
+url_ignore: /fr/net/conversion/ppsx-to-xlsx/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: MARKDOWN FODS EXCEL ODS SXC XLT XLSM XLSB XLS MHTML TSV XLTM DIF X
 {{< blocks/products/pf/i18n/feature-page-header h1="Convertir PPSX en XLSX via C#" h2="API .NET pour la conversion PPSX en XLSX sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), vous pouvez convertir le fichier PPSX en XLSX dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.Slides pour .NET](https://products.aspose.com/slides/net/), vous pouvez exporter PPSX vers HTML. Après cela, en utilisant [Aspose.Cells pour .NET](https://products.aspose.com/cells/net/) API de programmation de feuille de calcul, vous pouvez convertir HTML en XLSX.
+En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez convertir le fichier PPSX en XLSX dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), vous pouvez exporter PPSX vers HTML. Après cela, en utilisant [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API de programmation de feuille de calcul, vous pouvez convertir HTML en XLSX.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

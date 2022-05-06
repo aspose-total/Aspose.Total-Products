@@ -1,7 +1,7 @@
 ---
 title: CGMをFLATOPCにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してCGMをFLATOPCに変換する
-url: /ja/java/conversion/cgm-to-flatopc/
+url_ignore: /ja/java/conversion/cgm-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

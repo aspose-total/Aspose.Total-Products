@@ -1,7 +1,7 @@
 ---
 title: EMLX'i Java aracılığıyla DOTM'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan EMLX'i DOTM'ye Dönüştürmek için Java API
-url: /tr/java/conversion/emlx-to-dotm/
+url_ignore: /tr/java/conversion/emlx-to-dotm/
 family: total
 platformtag: net
 feature: conversion

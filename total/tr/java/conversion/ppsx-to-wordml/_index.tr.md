@@ -1,7 +1,7 @@
 ---
 title: Java ile PPSX'u WORDML'ye dönüştürün
 description: Microsoft Word veya PowerPoint kullanmadan PPSX'u WORDML'a Aktarmak için Java API
-url: /tr/java/conversion/ppsx-to-wordml/
+url_ignore: /tr/java/conversion/ppsx-to-wordml/
 family: total
 platformtag: net
 feature: conversion

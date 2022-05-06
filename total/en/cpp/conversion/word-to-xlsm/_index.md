@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to XLSM in C++
 description: C++ API to Convert WORD to XLSM without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/word-to-xlsm/
+url_ignore: /cpp/conversion/word-to-xlsm/
 family: total
 platformtag: cpp
 feature: conversion

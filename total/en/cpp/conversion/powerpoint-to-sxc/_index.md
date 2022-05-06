@@ -1,7 +1,7 @@
 ---
 title: Convert POWERPOINT to SXC via C++ 
 description: Export POWERPOINT to SXC in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/powerpoint-to-sxc/
+url_ignore: /cpp/conversion/powerpoint-to-sxc/
 family: total
 platformtag: cpp
 feature: conversion

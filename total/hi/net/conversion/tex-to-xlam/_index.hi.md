@@ -1,7 +1,7 @@
 ---
 title: C# API के माध्यम से TEX को XLAM में बदलें
 description: सी # एपीआई माइक्रोसॉफ्ट एक्सेल या एडोब रीडर का उपयोग किए बिना सीजीएम फ़ाइल को सीएसवी में कनवर्ट करने के लिए
-url: /hi/net/conversion/tex-to-xlam/
+url_ignore: /hi/net/conversion/tex-to-xlam/
 family: total
 platformtag: net
 feature: conversion

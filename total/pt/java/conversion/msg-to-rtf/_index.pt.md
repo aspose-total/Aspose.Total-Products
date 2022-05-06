@@ -1,7 +1,7 @@
 ---
 title: Exportar MSG para RTF via Java
 description: API Java para converter MSG para RTF sem usar o Microsoft Word ou Outlook
-url: /pt/java/conversion/msg-to-rtf/
+url_ignore: /pt/java/conversion/msg-to-rtf/
 family: total
 platformtag: net
 feature: conversion

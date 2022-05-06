@@ -1,7 +1,7 @@
 ---
 title: POTM'u C# ile XLSM'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan POTM'u C#'ta XLSM'ye dönüştürün
-url: /tr/net/conversion/potm-to-xlsm/
+url_ignore: /tr/net/conversion/potm-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

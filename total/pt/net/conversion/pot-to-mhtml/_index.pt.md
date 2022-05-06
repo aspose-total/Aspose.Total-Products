@@ -1,7 +1,7 @@
 ---
 title: Converter POT para MHTML via C#
 description: Converter POT para MHTML em C# sem usar o Microsoft Excel ou Powerpoint
-url: /pt/net/conversion/pot-to-mhtml/
+url_ignore: /pt/net/conversion/pot-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير البريد الإلكتروني إلى TEXT
 description: قم بتحويل EMLX إلى TEXT دون استخدام Microsoft Word أو Outlook على .NET
-url: /ar/net/conversion/emlx-to-text/
+url_ignore: /ar/net/conversion/emlx-to-text/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert SVG to TSV
 description: Convert SVG to TSV via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/svg-to-tsv/
+url_ignore: /cpp/conversion/svg-to-tsv/
 family: total
 platformtag: cpp
 feature: conversion

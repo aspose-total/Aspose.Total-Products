@@ -1,7 +1,7 @@
 ---
 title: MD'yi RTF'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak MD'yi RTF'ye dönüştürün
-url: /tr/java/conversion/md-to-rtf/
+url_ignore: /tr/java/conversion/md-to-rtf/
 family: total
 platformtag: net
 feature: conversion

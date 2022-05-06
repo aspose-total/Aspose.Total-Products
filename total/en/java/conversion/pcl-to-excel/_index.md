@@ -1,7 +1,7 @@
 ---
 title: Java API to Render PCL to EXCEL
 description: Export PCL to EXCEL via Java API without using Microsoft Excel or Adobe Reader
-url: /java/conversion/pcl-to-excel/
+url_ignore: /java/conversion/pcl-to-excel/
 family: total
 platformtag: java
 feature: conversion

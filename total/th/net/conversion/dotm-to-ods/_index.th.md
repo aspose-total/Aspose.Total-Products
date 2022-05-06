@@ -1,7 +1,7 @@
 ---
 title: .NET API เพื่อแปลง DOTM เป็น ODS
 description: C# API เพื่อแปลง DOTM เป็น ODS โดยไม่ต้องใช้ Microsoft Excel หรือ Adobe Reader
-url: /th/net/conversion/dotm-to-ods/
+url_ignore: /th/net/conversion/dotm-to-ods/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ otherformats: XLAM ODS XLSB XLTX XLS SXC XLSM XLTM XLT FODS EXCEL TSV DIF XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="เพิ่มคุณสมบัติที่กำหนดเองในไฟล์ ODS ผ่าน C#" %}}
 ขณะแปลง DOTM เป็น ODS [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) ช่วยให้คุณเพิ่มคุณสมบัติที่กำหนดเองในเอกสาร ODS ได้ ในการเพิ่มคุณสมบัติที่กำหนดเอง คุณสามารถใช้ [เพิ่ม](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection/methods/add/index)เมธอดสำหรับ [CustomDotmumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection) คลาส วิธีการเพิ่มจะเพิ่มคุณสมบัติลงในไฟล์ Excel และส่งคืนข้อมูลอ้างอิงสำหรับคุณสมบัติเอกสารใหม่เป็น [Aspose.Cells.Properties.DotmumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /dotmumentproperty) วัตถุ 
 {{% blocks/products/pf/feature-page-code %}}

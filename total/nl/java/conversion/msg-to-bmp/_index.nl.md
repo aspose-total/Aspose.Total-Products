@@ -1,7 +1,7 @@
 ---
 title: Exporteer MSG naar BMP via Java
 description: Java API om MSG naar BMP te converteren zonder Microsoft Word of Outlook te gebruiken
-url: /nl/java/conversion/msg-to-bmp/
+url_ignore: /nl/java/conversion/msg-to-bmp/
 family: total
 platformtag: net
 feature: conversion

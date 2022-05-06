@@ -1,7 +1,7 @@
 ---
 title: Konvertera PPSX till TEXT via Java
 description: Java API för att exportera PPSX till TEXT utan att använda Microsoft Word eller PowerPoint
-url: /sv/java/conversion/ppsx-to-text/
+url_ignore: /sv/java/conversion/ppsx-to-text/
 family: total
 platformtag: net
 feature: conversion

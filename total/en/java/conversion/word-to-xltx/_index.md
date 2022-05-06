@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to XLTX via Java
 description: Convert WORD to XLTX via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/word-to-xltx/
+url_ignore: /java/conversion/word-to-xltx/
 family: total
 platformtag: java
 feature: conversion

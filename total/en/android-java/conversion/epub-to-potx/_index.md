@@ -1,7 +1,7 @@
 ---
 title: Export EPUB to POTX in Android 
 description: Android API to Convert EPUB to POTX without using Microsoft Word
-url: /android-java/conversion/epub-to-potx/
+url_ignore: /android-java/conversion/epub-to-potx/
 family: total
 platformtag: android-java
 feature: conversion

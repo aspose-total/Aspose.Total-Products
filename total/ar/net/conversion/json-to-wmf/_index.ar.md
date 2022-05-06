@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى WMF عبر .NET
 description: تحليل JSON إلى WMF في C# بدون استخدام تبعيات الطرف الثالث
-url: /ar/net/conversion/json-to-wmf/
+url_ignore: /ar/net/conversion/json-to-wmf/
 family: total
 platformtag: net
 feature: conversion

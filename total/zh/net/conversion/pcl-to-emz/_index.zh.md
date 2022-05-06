@@ -1,7 +1,7 @@
 ---
 title: 通过 C# API 将 PCL 转换为 EMZ
 description: 在您的 .NET 应用程序中将 PCL 导出为 EMZ，而无需使用任何第三方应用程序
-url: /zh/net/conversion/pcl-to-emz/
+url_ignore: /zh/net/conversion/pcl-to-emz/
 family: total
 platformtag: net
 feature: conversion

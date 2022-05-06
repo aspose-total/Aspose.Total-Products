@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to ODP in Android via Java
 description: DOT to ODP conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/dot-to-odp/
+url_ignore: /android-java/conversion/dot-to-odp/
 family: total
 platformtag: android-java
 feature: conversion

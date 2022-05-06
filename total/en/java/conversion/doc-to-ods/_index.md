@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert DOC to ODS
 description: Convert DOC to ODS via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/doc-to-ods/
+url_ignore: /java/conversion/doc-to-ods/
 family: total
 platformtag: java
 feature: conversion

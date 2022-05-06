@@ -1,7 +1,7 @@
 ---
 title: Convert DOTX to PPS in Android via Java
 description: DOTX to PPS conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/dotx-to-pps/
+url_ignore: /android-java/conversion/dotx-to-pps/
 family: total
 platformtag: android-java
 feature: conversion

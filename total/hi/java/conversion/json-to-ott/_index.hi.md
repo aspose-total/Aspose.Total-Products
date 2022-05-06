@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से JSON प्रारूप को OTT में बदलें
 description: माइक्रोसॉफ्ट वर्ड का उपयोग किए बिना जावा में जेएसओएन को सीएचएम में पार्स करें
-url: /hi/java/conversion/json-to-ott/
+url_ignore: /hi/java/conversion/json-to-ott/
 family: total
 platformtag: net
 feature: conversion

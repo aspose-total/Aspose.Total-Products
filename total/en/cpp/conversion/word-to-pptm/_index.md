@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to PPTM via C++
 description: Export WORD to PPTM in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/word-to-pptm/
+url_ignore: /cpp/conversion/word-to-pptm/
 family: total
 platformtag: cpp
 feature: conversion

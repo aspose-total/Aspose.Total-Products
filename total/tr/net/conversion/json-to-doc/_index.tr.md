@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını .NET aracılığıyla DOC'ye dönüştürün
 description: Microsoft Word kullanmadan JSON'u C# ile DOC'ye ayrıştırın
-url: /tr/net/conversion/json-to-doc/
+url_ignore: /tr/net/conversion/json-to-doc/
 family: total
 platformtag: net
 feature: conversion

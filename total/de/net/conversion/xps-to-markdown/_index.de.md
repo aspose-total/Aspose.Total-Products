@@ -1,7 +1,7 @@
 ---
 title: C#-API zum Exportieren von XPS nach MARKDOWN
 description: Konvertieren Sie XPS in MARKDOWN, ohne Microsoft Word zu verwenden
-url: /de/net/conversion/xps-to-markdown/
+url_ignore: /de/net/conversion/xps-to-markdown/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: XPS'yi C# API aracılığıyla PPS'ye aktarın
 description: Microsoft Word kullanmadan XPS'yi PPS'ye dönüştürmek için .NET API
-url: /tr/net/conversion/xps-to-pps/
+url_ignore: /tr/net/conversion/xps-to-pps/
 family: total
 platformtag: net
 feature: conversion

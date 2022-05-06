@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení CGM do MD
 description: Export CGM do MD přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/cgm-to-md/
+url_ignore: /cs/java/conversion/cgm-to-md/
 family: total
 platformtag: net
 feature: conversion

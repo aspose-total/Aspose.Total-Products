@@ -1,7 +1,7 @@
 ---
 title: सी # के माध्यम से पीओटी को सीएसवी में कनवर्ट करें
 description: Microsoft Excel या Powerpoint का उपयोग किए बिना PPSX को MARKDOWN में C# में बदलें
-url: /hi/net/conversion/ppsx-to-markdown/
+url_ignore: /hi/net/conversion/ppsx-to-markdown/
 family: total
 platformtag: net
 feature: conversion

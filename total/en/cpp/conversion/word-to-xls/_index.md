@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to XLS in C++
 description: C++ API to Convert WORD to XLS without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/word-to-xls/
+url_ignore: /cpp/conversion/word-to-xls/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: 通过 C# .NET 将 DOT 转换为 PPTM 
-url: /zh/net/conversion/dot-to-pptm/ 
+url_ignore: /zh/net/conversion/dot-to-pptm/ 
 description: 使用 C# 将 Word dot 文档转换为 PowerPoint pptm 文件。在 ASP.NET 或其他 .NET 应用程序中转换多个文件。
 ---
 

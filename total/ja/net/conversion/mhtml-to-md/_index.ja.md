@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMHTMLをMDに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにMHTMLファイルをMDに変換するC＃API
-url: /ja/net/conversion/mhtml-to-md/
+url_ignore: /ja/net/conversion/mhtml-to-md/
 family: total
 platformtag: net
 feature: conversion

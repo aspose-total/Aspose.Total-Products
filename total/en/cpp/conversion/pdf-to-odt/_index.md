@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PDF to ODT
 description: Convert PDF to ODT within C++ applications.
-url: /cpp/conversion/pdf-to-odt/
+url_ignore: /cpp/conversion/pdf-to-odt/
 family: total
 platformtag: cpp
 feature: conversion

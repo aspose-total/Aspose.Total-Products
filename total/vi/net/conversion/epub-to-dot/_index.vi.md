@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất EPUB sang DOT
 description: Chuyển đổi EPUB sang DOT mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/epub-to-dot/
+url_ignore: /vi/net/conversion/epub-to-dot/
 family: total
 platformtag: net
 feature: conversion

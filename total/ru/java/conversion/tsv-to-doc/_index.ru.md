@@ -1,7 +1,7 @@
 ---
 title: Преобразование TSV в DOC с помощью Java
 description: Java API для экспорта TSV в DOC с использованием Excel или Word
-url: /ru/java/conversion/tsv-to-doc/
+url_ignore: /ru/java/conversion/tsv-to-doc/
 family: total
 platformtag: net
 feature: conversion

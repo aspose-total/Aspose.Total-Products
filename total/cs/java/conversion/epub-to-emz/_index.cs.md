@@ -1,7 +1,7 @@
 ---
 title: Převést EPUB na EMZ přes Java
 description: Exportujte soubor EPUB do EMZ ve svých aplikacích Java bez použití jakékoli aplikace třetí strany
-url: /cs/java/conversion/epub-to-emz/
+url_ignore: /cs/java/conversion/epub-to-emz/
 family: total
 platformtag: net
 feature: conversion

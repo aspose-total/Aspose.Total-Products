@@ -1,7 +1,7 @@
 ---
 title: C#-API zum Exportieren von SVG nach GIF
 description: Konvertieren Sie SVG in GIF, ohne Microsoft Word zu verwenden
-url: /de/net/conversion/svg-to-gif/
+url_ignore: /de/net/conversion/svg-to-gif/
 family: total
 platformtag: net
 feature: conversion

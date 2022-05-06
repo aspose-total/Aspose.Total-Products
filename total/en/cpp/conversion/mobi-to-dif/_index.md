@@ -1,7 +1,7 @@
 ---
 title: Convert MOBI to DIF in C++
 description: C++ API to Convert MOBI to DIF without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/mobi-to-dif/
+url_ignore: /cpp/conversion/mobi-to-dif/
 family: total
 platformtag: cpp
 feature: conversion

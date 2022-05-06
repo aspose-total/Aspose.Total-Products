@@ -1,7 +1,7 @@
 ---
 title: API Java để xuất CGM sang XAMLFLOW
 description: Chuyển đổi CGM sang XAMLFLOW bằng cách sử dụng API Java tiền đề
-url: /vi/java/conversion/cgm-to-xamlflow/
+url_ignore: /vi/java/conversion/cgm-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

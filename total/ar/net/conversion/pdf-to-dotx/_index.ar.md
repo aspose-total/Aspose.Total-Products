@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير PDF إلى DOTX
 description: تحويل PDF إلى DOTX دون استخدام Microsoft Word
-url: /ar/net/conversion/pdf-to-dotx/
+url_ignore: /ar/net/conversion/pdf-to-dotx/
 family: total
 platformtag: net
 feature: conversion

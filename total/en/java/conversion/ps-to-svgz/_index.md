@@ -1,7 +1,7 @@
 ---
 title: Convert PS to SVGZ via Java
 description: Export PS file to SVGZ  in your Java applications without using any third party application 
-url: /java/conversion/ps-to-svgz/
+url_ignore: /java/conversion/ps-to-svgz/
 family: total
 platformtag: java
 feature: conversion

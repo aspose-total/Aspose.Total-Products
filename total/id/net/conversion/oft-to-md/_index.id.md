@@ -1,7 +1,7 @@
 ---
 title: C# API untuk Mengekspor OFT ke MD
 description: Konversi OFT ke MD tanpa menggunakan Microsoft Word atau Outlook di .NET
-url: /id/net/conversion/oft-to-md/
+url_ignore: /id/net/conversion/oft-to-md/
 family: total
 platformtag: net
 feature: conversion

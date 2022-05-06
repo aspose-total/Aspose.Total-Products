@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى IMAGE عبر .NET
 description: تحليل JSON إلى IMAGE في C# بدون استخدام تبعيات الطرف الثالث
-url: /ar/net/conversion/json-to-image/
+url_ignore: /ar/net/conversion/json-to-image/
 family: total
 platformtag: net
 feature: conversion

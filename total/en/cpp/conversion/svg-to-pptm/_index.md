@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert SVG to PPTM  
 description: Convert SVG to PPTM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/svg-to-pptm/
+url_ignore: /cpp/conversion/svg-to-pptm/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert EPUB to SXC in Android via Java
 description: Render EPUB to SXC in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/epub-to-sxc/
+url_ignore: /android-java/conversion/epub-to-sxc/
 family: total
 platformtag: android-java
 feature: conversion

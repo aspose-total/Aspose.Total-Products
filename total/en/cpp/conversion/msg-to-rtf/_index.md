@@ -1,7 +1,7 @@
 ---
 title: Export MSG to RTF via C++
 description: C++ API to Convert MSG to RTF without using Microsoft Word or Outlook
-url: /cpp/conversion/msg-to-rtf/
+url_ignore: /cpp/conversion/msg-to-rtf/
 family: total
 platformtag: cpp
 feature: conversion

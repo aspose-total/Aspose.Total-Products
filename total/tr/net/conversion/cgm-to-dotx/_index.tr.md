@@ -1,7 +1,7 @@
 ---
 title: CGM'yi DOTX'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan CGM'yi DOTX'ye dönüştürün
-url: /tr/net/conversion/cgm-to-dotx/
+url_ignore: /tr/net/conversion/cgm-to-dotx/
 family: total
 platformtag: net
 feature: conversion

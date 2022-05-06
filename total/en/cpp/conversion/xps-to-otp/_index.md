@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XPS to OTP  
 description: Convert XPS to OTP via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xps-to-otp/
+url_ignore: /cpp/conversion/xps-to-otp/
 family: total
 platformtag: cpp
 feature: conversion

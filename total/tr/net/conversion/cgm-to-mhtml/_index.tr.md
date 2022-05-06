@@ -1,7 +1,7 @@
 ---
 title: CGM'yi MHTML'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan CGM'yi MHTML'ye dönüştürün
-url: /tr/net/conversion/cgm-to-mhtml/
+url_ignore: /tr/net/conversion/cgm-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

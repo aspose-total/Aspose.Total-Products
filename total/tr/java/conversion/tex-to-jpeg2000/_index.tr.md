@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla TEX'yi JPEG2000'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan TEX dosyasını Java uygulamalarınızda JPEG2000'ye aktarın
-url: /tr/java/conversion/tex-to-jpeg2000/
+url_ignore: /tr/java/conversion/tex-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

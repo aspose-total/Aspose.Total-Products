@@ -1,7 +1,7 @@
 ---
 title: Exportera EMAIL till PCL via Java
 description: Java API för att konvertera EMAIL till PCL utan att använda Microsoft Word eller Outlook
-url: /sv/java/conversion/email-to-pcl/
+url_ignore: /sv/java/conversion/email-to-pcl/
 family: total
 platformtag: net
 feature: conversion

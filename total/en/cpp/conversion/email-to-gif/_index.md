@@ -1,7 +1,7 @@
 ---
 title: Export EMAIL to GIF via C++
 description: C++ API to Convert EMAIL to GIF without using Microsoft Word or Outlook
-url: /cpp/conversion/email-to-gif/
+url_ignore: /cpp/conversion/email-to-gif/
 family: total
 platformtag: cpp
 feature: conversion

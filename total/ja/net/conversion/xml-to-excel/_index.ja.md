@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXMLをEXCELに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにXMLファイルをEXCELに変換するC＃API
-url: /ja/net/conversion/xml-to-excel/
+url_ignore: /ja/net/conversion/xml-to-excel/
 family: total
 platformtag: net
 feature: conversion

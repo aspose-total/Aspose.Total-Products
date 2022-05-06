@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई के माध्यम से सीजीएम को ओडीपी में निर्यात करें
 description: Microsoft Word का उपयोग किए बिना PDF को XAML में बदलने के लिए .NET API
-url: /hi/net/conversion/pdf-to-xaml/
+url_ignore: /hi/net/conversion/pdf-to-xaml/
 family: total
 platformtag: net
 feature: conversion

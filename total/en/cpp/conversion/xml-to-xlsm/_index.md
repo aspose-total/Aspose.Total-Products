@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XML to XLSM
 description: Convert XML to XLSM via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xml-to-xlsm/
+url_ignore: /cpp/conversion/xml-to-xlsm/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exportar PDF a PPSX a través de la API de C#
 description: .NET API para convertir PDF a PPSX sin usar Microsoft Word
-url: /es/net/conversion/pdf-to-ppsx/
+url_ignore: /es/net/conversion/pdf-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

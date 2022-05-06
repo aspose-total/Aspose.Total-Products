@@ -1,7 +1,7 @@
 ---
 title: Convert EXCEL to POWERPOINT using Java 
 description: Java API to Export EXCEL to POWERPOINT with using Excel or Word 
-url: /java/conversion/excel-to-powerpoint/
+url_ignore: /java/conversion/excel-to-powerpoint/
 family: total
 platformtag: java
 feature: conversion

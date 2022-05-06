@@ -1,6 +1,6 @@
 ---
 title: Преобразование RTF в PPSM через C# .NET 
-url: /ru/net/conversion/rtf-to-ppsm/ 
+url_ignore: /ru/net/conversion/rtf-to-ppsm/ 
 description: Преобразование документов Word rtf в файлы PowerPoint ppsm с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

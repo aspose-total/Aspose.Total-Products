@@ -1,7 +1,7 @@
 ---
 title: Convert MD to ODS in Android via Java
 description: Render MD to ODS in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/md-to-ods/
+url_ignore: /android-java/conversion/md-to-ods/
 family: total
 platformtag: android-java
 feature: conversion

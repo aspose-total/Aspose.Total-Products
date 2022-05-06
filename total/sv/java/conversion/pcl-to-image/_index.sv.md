@@ -1,7 +1,7 @@
 ---
 title: Konvertera PCL till IMAGE via Java
 description: Exportera PCL-fil till IMAGE i dina Java-applikationer utan att använda någon tredjepartsapplikation
-url: /sv/java/conversion/pcl-to-image/
+url_ignore: /sv/java/conversion/pcl-to-image/
 family: total
 platformtag: net
 feature: conversion

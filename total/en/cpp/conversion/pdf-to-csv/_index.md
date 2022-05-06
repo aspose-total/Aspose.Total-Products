@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PDF to CSV
 description: Convert PDF to CSV via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/pdf-to-csv/
+url_ignore: /cpp/conversion/pdf-to-csv/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга PCL в ODS
 description: Экспорт PCL в ODS через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/pcl-to-ods/
+url_ignore: /ru/java/conversion/pcl-to-ods/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert POTX to ODS via C++ 
 description: Export POTX to ODS in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/potx-to-ods/
+url_ignore: /cpp/conversion/potx-to-ods/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API to Export MHTML to PCL
 description: Convert MHTML to PCL using on premise Java API
-url: /java/conversion/mhtml-to-pcl/
+url_ignore: /java/conversion/mhtml-to-pcl/
 family: total
 platformtag: java
 feature: conversion

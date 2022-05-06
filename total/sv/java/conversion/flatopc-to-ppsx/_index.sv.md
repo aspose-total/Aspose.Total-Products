@@ -1,7 +1,7 @@
 ---
 title: Konvertera FLATOPC till PPSX via Java
 description: Java API för att exportera FLATOPC till PPSX utan att använda Microsoft Word eller PowerPoint
-url: /sv/java/conversion/flatopc-to-ppsx/
+url_ignore: /sv/java/conversion/flatopc-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

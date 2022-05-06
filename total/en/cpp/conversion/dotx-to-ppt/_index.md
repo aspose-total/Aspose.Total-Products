@@ -1,7 +1,7 @@
 ---
 title: Convert DOTX to PPT via C++
 description: Export DOTX to PPT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/dotx-to-ppt/
+url_ignore: /cpp/conversion/dotx-to-ppt/
 family: total
 platformtag: cpp
 feature: conversion

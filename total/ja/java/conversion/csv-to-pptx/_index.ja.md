@@ -1,7 +1,7 @@
 ---
 title: Javaを使用してCSVをPPTXに変換する
 description: ExcelまたはWordを使用してCSVをPPTXにエクスポートするJavaAPI
-url: /ja/java/conversion/csv-to-pptx/
+url_ignore: /ja/java/conversion/csv-to-pptx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert DOCM to XLSM via .NET 
 description: Convert DOCM to XLSM in C# without using Microsoft Excel or Adobe Reader
-url: /net/conversion/docm-to-xlsm/
+url_ignore: /net/conversion/docm-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

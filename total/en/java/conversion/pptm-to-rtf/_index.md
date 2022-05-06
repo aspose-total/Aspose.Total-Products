@@ -1,7 +1,7 @@
 ---
 title: Convert PPTM to RTF via Java
 description: Java API to Export PPTM to RTF without using Microsoft Word or PowerPoint
-url: /java/conversion/pptm-to-rtf/
+url_ignore: /java/conversion/pptm-to-rtf/
 family: total
 platformtag: java
 feature: conversion

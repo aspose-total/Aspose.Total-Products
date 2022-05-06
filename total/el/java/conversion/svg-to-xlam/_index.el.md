@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση SVG σε XLAM
 description: Εξαγωγή SVG σε XLAM μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/svg-to-xlam/
+url_ignore: /el/java/conversion/svg-to-xlam/
 family: total
 platformtag: net
 feature: conversion

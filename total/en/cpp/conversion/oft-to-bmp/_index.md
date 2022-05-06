@@ -1,7 +1,7 @@
 ---
 title: Export OFT to BMP via C++
 description: C++ API to Convert OFT to BMP without using Microsoft Word or Outlook
-url: /cpp/conversion/oft-to-bmp/
+url_ignore: /cpp/conversion/oft-to-bmp/
 family: total
 platformtag: cpp
 feature: conversion

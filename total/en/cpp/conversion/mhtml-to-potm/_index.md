@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MHTML to POTM  
 description: Convert MHTML to POTM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/mhtml-to-potm/
+url_ignore: /cpp/conversion/mhtml-to-potm/
 family: total
 platformtag: cpp
 feature: conversion

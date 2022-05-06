@@ -1,7 +1,7 @@
 ---
 title: .NET API do konwersji OTT na XLSB
 description: C# API do konwersji OTT na XLSB bez użycia Microsoft Excel lub Adobe Reader
-url: /pl/net/conversion/ott-to-xlsb/
+url_ignore: /pl/net/conversion/ott-to-xlsb/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ Możesz też pobrać instalator offline MSI lub biblioteki DLL w pliku ZIP ze st
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Dodaj niestandardowe właściwości w pliku XLSB za pomocą C#" %}}
 Podczas konwertowania OTT na XLSB [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) umożliwia dodawanie niestandardowych właściwości w dokumentach XLSB. Aby dodać niestandardową właściwość, możesz użyć metody [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) dla [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection). Metoda Add dodaje właściwość do pliku Excel i zwraca odwołanie do nowej właściwości dokumentu jako [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /documentproperty). 
 {{% blocks/products/pf/feature-page-code %}}

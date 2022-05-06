@@ -1,7 +1,7 @@
 ---
 title: API de C# para exportar correo electrónico a WORDML
 description: Convierta EMLX a WORDML sin usar Microsoft Word o Outlook en .NET
-url: /es/net/conversion/emlx-to-wordml/
+url_ignore: /es/net/conversion/emlx-to-wordml/
 family: total
 platformtag: net
 feature: conversion

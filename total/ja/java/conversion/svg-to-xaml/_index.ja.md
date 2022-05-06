@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してSVGをXAMLに変換する
 description: MicrosoftWordを使用せずにSVGをXAMLに変換するJavaAPI
-url: /ja/java/conversion/svg-to-xaml/
+url_ignore: /ja/java/conversion/svg-to-xaml/
 family: total
 platformtag: net
 feature: conversion

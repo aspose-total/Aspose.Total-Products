@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert SVG to XAML  
 description: Convert SVG to XAML via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/svg-to-xaml/
+url_ignore: /cpp/conversion/svg-to-xaml/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PS to POWERPOINT  
 description: Convert PS to POWERPOINT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/ps-to-powerpoint/
+url_ignore: /cpp/conversion/ps-to-powerpoint/
 family: total
 platformtag: cpp
 feature: conversion

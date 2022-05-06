@@ -1,7 +1,7 @@
 ---
 title: تحويل POWERPOINT إلى ODS عبر C#
 description: قم بتحويل POWERPOINT إلى ODS في C# بدون استخدام Microsoft Excel أو Powerpoint
-url: /ar/net/conversion/powerpoint-to-ods/
+url_ignore: /ar/net/conversion/powerpoint-to-ods/
 family: total
 platformtag: net
 feature: conversion

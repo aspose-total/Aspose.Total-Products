@@ -1,7 +1,7 @@
 ---
 title: Export XSLFO to ODP in Android 
 description: Android API to Convert XSLFO to ODP without using Microsoft Word
-url: /android-java/conversion/xslfo-to-odp/
+url_ignore: /android-java/conversion/xslfo-to-odp/
 family: total
 platformtag: android-java
 feature: conversion

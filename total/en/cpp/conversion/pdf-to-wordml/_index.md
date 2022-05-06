@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PDF to WORDML
 description: Convert PDF to WORDML within C++ applications.
-url: /cpp/conversion/pdf-to-wordml/
+url_ignore: /cpp/conversion/pdf-to-wordml/
 family: total
 platformtag: cpp
 feature: conversion

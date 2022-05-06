@@ -1,7 +1,7 @@
 ---
 title: 用于将 SVG 导出到 DOT 的 Java API
 description: 使用本地 Java API 将 SVG 转换为 DOT
-url: /zh/java/conversion/svg-to-dot/
+url_ignore: /zh/java/conversion/svg-to-dot/
 family: total
 platformtag: net
 feature: conversion

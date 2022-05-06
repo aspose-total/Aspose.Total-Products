@@ -1,7 +1,7 @@
 ---
 title: Export XML do PPTM přes C# API
 description: .NET API pro převod XML na PPTM bez použití aplikace Microsoft Word
-url: /cs/net/conversion/xml-to-pptm/
+url_ignore: /cs/net/conversion/xml-to-pptm/
 family: total
 platformtag: net
 feature: conversion

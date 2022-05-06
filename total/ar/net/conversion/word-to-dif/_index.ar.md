@@ -1,7 +1,7 @@
 ---
 title: NET API لتحويل WORD إلى DIF
 description: C# API لتحويل WORD إلى DIF بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/word-to-dif/
+url_ignore: /ar/net/conversion/word-to-dif/
 family: total
 platformtag: net
 feature: conversion

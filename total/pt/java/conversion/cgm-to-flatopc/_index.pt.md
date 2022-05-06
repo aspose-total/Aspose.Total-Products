@@ -1,7 +1,7 @@
 ---
 title: API Java para exportar CGM para FLATOPC
 description: Converter CGM para FLATOPC usando a API Java local
-url: /pt/java/conversion/cgm-to-flatopc/
+url_ignore: /pt/java/conversion/cgm-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

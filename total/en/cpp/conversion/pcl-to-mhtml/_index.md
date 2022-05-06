@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PCL to MHTML
 description: Convert PCL to MHTML within C++ applications.
-url: /cpp/conversion/pcl-to-mhtml/
+url_ignore: /cpp/conversion/pcl-to-mhtml/
 family: total
 platformtag: cpp
 feature: conversion

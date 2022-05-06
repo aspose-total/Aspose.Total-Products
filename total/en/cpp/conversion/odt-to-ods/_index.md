@@ -1,7 +1,7 @@
 ---
 title: Convert ODT to ODS in C++
 description: C++ API to Convert ODT to ODS without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/odt-to-ods/
+url_ignore: /cpp/conversion/odt-to-ods/
 family: total
 platformtag: cpp
 feature: conversion

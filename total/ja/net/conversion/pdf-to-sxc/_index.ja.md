@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをSXCに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPDFファイルをSXCに変換するC＃API
-url: /ja/net/conversion/pdf-to-sxc/
+url_ignore: /ja/net/conversion/pdf-to-sxc/
 family: total
 platformtag: net
 feature: conversion

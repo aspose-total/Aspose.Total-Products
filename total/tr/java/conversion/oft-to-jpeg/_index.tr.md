@@ -1,7 +1,7 @@
 ---
 title: OFT'i Java aracılığıyla JPEG'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan OFT'i JPEG'ye Dönüştürmek için Java API
-url: /tr/java/conversion/oft-to-jpeg/
+url_ignore: /tr/java/conversion/oft-to-jpeg/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: XPS'yi DOTX'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan XPS'yi DOTX'ye dönüştürün
-url: /tr/net/conversion/xps-to-dotx/
+url_ignore: /tr/net/conversion/xps-to-dotx/
 family: total
 platformtag: net
 feature: conversion

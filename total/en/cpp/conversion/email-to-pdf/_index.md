@@ -1,7 +1,7 @@
 ---
 title: Export EMAIL to PDF via C++
 description: C++ API to Convert EMAIL to PDF without using Microsoft Word or Outlook
-url: /cpp/conversion/email-to-pdf/
+url_ignore: /cpp/conversion/email-to-pdf/
 family: total
 platformtag: cpp
 feature: conversion

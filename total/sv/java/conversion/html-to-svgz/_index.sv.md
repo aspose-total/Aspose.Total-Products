@@ -1,7 +1,7 @@
 ---
 title: Konvertera HTML till SVGZ via Java
 description: Exportera HTML-fil till SVGZ i dina Java-applikationer utan att använda någon tredjepartsapplikation
-url: /sv/java/conversion/html-to-svgz/
+url_ignore: /sv/java/conversion/html-to-svgz/
 family: total
 platformtag: net
 feature: conversion

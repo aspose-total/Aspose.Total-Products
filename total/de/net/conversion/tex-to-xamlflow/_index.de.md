@@ -1,7 +1,7 @@
 ---
 title: C#-API zum Exportieren von TEX nach XAMLFLOW
 description: Konvertieren Sie TEX in XAMLFLOW, ohne Microsoft Word zu verwenden
-url: /de/net/conversion/tex-to-xamlflow/
+url_ignore: /de/net/conversion/tex-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert PS to PSD via C# API
 description: Export PS to PSD in your .NET applications without using any third party application 
-url: /net/conversion/ps-to-psd/
+url_ignore: /net/conversion/ps-to-psd/
 family: total
 platformtag: net
 feature: conversion

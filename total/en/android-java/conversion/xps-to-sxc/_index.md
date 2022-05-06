@@ -1,7 +1,7 @@
 ---
 title: Convert XPS to SXC in Android via Java
 description: Render XPS to SXC in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/xps-to-sxc/
+url_ignore: /android-java/conversion/xps-to-sxc/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: .NET API untuk Mengonversi DOCM ke CSV
 description: C# API untuk Mengonversi DOCM ke CSV tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/net/conversion/docm-to-csv/
+url_ignore: /id/net/conversion/docm-to-csv/
 family: total
 platformtag: net
 feature: conversion
@@ -18,7 +18,7 @@ Dengan menggunakan [Aspose.Total for .NET](https://products.aspose.com/total/net
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API untuk Mengonversi DOCM ke CSV" %}}
-1. Buka file DOCM menggunakan kelas [Document](https://apireference.aspose.com/words/net/aspose.words/document
+1. Buka file DOCM menggunakan kelas [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 2. Konversi DOCM ke HTML dengan menggunakan metode [Simpan](https://apireference.aspose.com/words/net/aspose.words.documentsave/methods/4)
 3. Muat dokumen HTML dengan menggunakan kelas [Buku Kerja](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Simpan dokumen ke format CSV menggunakan metode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) dan setel `CSV` sebagai SaveFormat
@@ -46,7 +46,6 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Tambahkan Properti Kustom dalam File CSV melalui C#" %}}
 Saat mengonversi DOCM ke CSV, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) memungkinkan Anda menambahkan properti khusus di dokumen CSV Anda. Untuk menambahkan properti kustom, Anda dapat menggunakan metode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentropertycollection/methods/add/index) untuk [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/CustomDocumentPropertyCollection) kelas. Metode Add menambahkan properti ke file Excel dan mengembalikan referensi untuk properti dokumen baru sebagai [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties/DocumentProperty) objek. 
 {{% blocks/products/pf/feature-page-code %}}

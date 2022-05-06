@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Konvertieren von DOTM in XLT
 description: Konvertieren Sie DOTM über Java in XLT, ohne Microsoft Word oder Microsoft Excel zu verwenden
-url: /de/java/conversion/dotm-to-xlt/
+url_ignore: /de/java/conversion/dotm-to-xlt/
 family: total
 platformtag: net
 feature: conversion

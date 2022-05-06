@@ -1,7 +1,7 @@
 ---
 title: Converti POTX in formato MARKDOWN tramite Java
 description: Converti POTX in formato MARKDOWN tramite Java senza utilizzare Microsoft Excel o PowerPoint
-url: /it/java/conversion/potx-to-markdown/
+url_ignore: /it/java/conversion/potx-to-markdown/
 family: total
 platformtag: net
 feature: conversion

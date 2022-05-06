@@ -1,7 +1,7 @@
 ---
 title: Konwertuj CGM na TGA przez Java
 description: Eksportuj plik CGM do TGA w swoich aplikacjach Java bez korzystania z aplikacji innych firm
-url: /pl/java/conversion/cgm-to-tga/
+url_ignore: /pl/java/conversion/cgm-to-tga/
 family: total
 platformtag: net
 feature: conversion

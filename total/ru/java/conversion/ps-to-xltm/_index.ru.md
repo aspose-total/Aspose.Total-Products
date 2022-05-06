@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга PS в XLTM
 description: Экспорт PS в XLTM через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/ps-to-xltm/
+url_ignore: /ru/java/conversion/ps-to-xltm/
 family: total
 platformtag: net
 feature: conversion

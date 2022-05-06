@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất TEX sang RTF
 description: Chuyển đổi TEX sang RTF mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/tex-to-rtf/
+url_ignore: /vi/net/conversion/tex-to-rtf/
 family: total
 platformtag: net
 feature: conversion

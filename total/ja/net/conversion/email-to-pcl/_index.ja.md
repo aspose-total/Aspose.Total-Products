@@ -1,7 +1,7 @@
 ---
 title: EMAILをPCLにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMAILをPCLに変換する
-url: /ja/net/conversion/email-to-pcl/
+url_ignore: /ja/net/conversion/email-to-pcl/
 family: total
 platformtag: net
 feature: conversion

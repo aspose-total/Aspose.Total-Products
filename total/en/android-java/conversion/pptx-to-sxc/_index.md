@@ -1,7 +1,7 @@
 ---
 title: Convert PPTX to SXC in Android via Java
 description: Convert PPTX to SXC in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/pptx-to-sxc/
+url_ignore: /android-java/conversion/pptx-to-sxc/
 family: total
 platformtag: android-java
 feature: conversion

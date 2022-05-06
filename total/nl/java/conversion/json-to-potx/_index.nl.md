@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar POTX via Java
 description: JSON ontleden naar POTX in Java zonder Microsoft PowerPoint te gebruiken
-url: /nl/java/conversion/json-to-potx/
+url_ignore: /nl/java/conversion/json-to-potx/
 family: total
 platformtag: net
 feature: conversion
@@ -29,21 +29,24 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "convert-json-to-powerpoint.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Conversievereisten" %}}
 Bovendien kunt u met de API JSON naar POTX ontleden met gespecificeerde lay-outopties. Om de lay-outopties te specificeren, kunt u de klasse [JsonLayoutOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonlayoutoptions) gebruiken. Hiermee kunt u een array als een tabel verwerken, nulls negeren, de arraytitel negeren, de objecttitel negeren, een tekenreeks converteren naar een getal of datum, de datum- en getalnotatie instellen en de titelstijl instellen. Met al deze opties kunt u uw gegevens presenteren volgens uw behoeften. Het volgende codefragment laat zien hoe u de lay-outopties instelt.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "set-layout-and-parse-json-to-powerpoint.java" >}}
+{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "set-layout-and-parse-json-to-powerpoint.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Lay-out instellen en JSON-indeling converteren naar POTX via Java" %}}
 Met behulp van de API kunt u JSON ook converteren naar POTX met watermerk. Om een watermerk aan uw POTX-document toe te voegen, kunt u eerst JSON naar PPTX ontleden en er een watermerk aan toevoegen. Om een watermerk toe te voegen, laadt u het nieuw gemaakte PPTX-bestand met behulp van de klasse [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation), loopt u door alle dia's, voegt u tekst toe gebruik addTextFrame om alle relevante opties in te stellen, zoals kleur, fillType en meer, en u kunt het document opslaan in POTX. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "parse-json-to-powerpoint-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "parse-json-to-powerpoint-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

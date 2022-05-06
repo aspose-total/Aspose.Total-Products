@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert EPUB to CSV
 description: Convert EPUB to CSV via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/epub-to-csv/
+url_ignore: /cpp/conversion/epub-to-csv/
 family: total
 platformtag: cpp
 feature: conversion

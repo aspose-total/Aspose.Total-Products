@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXSLFOをEXCELに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにXSLFOファイルをEXCELに変換するC＃API
-url: /ja/net/conversion/xslfo-to-excel/
+url_ignore: /ja/net/conversion/xslfo-to-excel/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Экспорт OFT в RTF через Java
 description: Java API для преобразования OFT в RTF без использования Microsoft Word или Outlook
-url: /ru/java/conversion/oft-to-rtf/
+url_ignore: /ru/java/conversion/oft-to-rtf/
 family: total
 platformtag: net
 feature: conversion

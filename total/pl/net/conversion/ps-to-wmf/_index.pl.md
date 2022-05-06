@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PS na WMF przez C# API
 description: Eksportuj PS do WMF w swoich aplikacjach .NET bez korzystania z aplikacji innych firm
-url: /pl/net/conversion/ps-to-wmf/
+url_ignore: /pl/net/conversion/ps-to-wmf/
 family: total
 platformtag: net
 feature: conversion

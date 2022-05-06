@@ -1,7 +1,7 @@
 ---
 title: MHTML'yi C# API aracılığıyla PPSX'ye aktarın
 description: Microsoft Word kullanmadan MHTML'yi PPSX'ye dönüştürmek için .NET API
-url: /tr/net/conversion/mhtml-to-ppsx/
+url_ignore: /tr/net/conversion/mhtml-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convierta el formato JSON a WMZ a través de Java
 description: Analizar JSON a WMZ en Java sin usar Microsoft PowerPoint
-url: /es/java/conversion/json-to-wmz/
+url_ignore: /es/java/conversion/json-to-wmz/
 family: total
 platformtag: net
 feature: conversion

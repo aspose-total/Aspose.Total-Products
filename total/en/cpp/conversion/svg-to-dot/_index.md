@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export SVG to DOT
 description: Convert SVG to DOT within C++ applications.
-url: /cpp/conversion/svg-to-dot/
+url_ignore: /cpp/conversion/svg-to-dot/
 family: total
 platformtag: cpp
 feature: conversion

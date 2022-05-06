@@ -1,7 +1,7 @@
 ---
 title: C# API pro export MSG do TIFF
 description: Převeďte MSG na TIFF bez použití Microsoft Word nebo Outlook na .NET
-url: /cs/net/conversion/msg-to-tiff/
+url_ignore: /cs/net/conversion/msg-to-tiff/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMDをPOTにエクスポートする
 description: MicrosoftWordを使用せずにMDをPOTに変換する.NETAPI
-url: /ja/net/conversion/md-to-pot/
+url_ignore: /ja/net/conversion/md-to-pot/
 family: total
 platformtag: net
 feature: conversion

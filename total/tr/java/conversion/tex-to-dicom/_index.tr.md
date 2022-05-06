@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla TEX'yi DICOM'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan TEX dosyasını Java uygulamalarınızda DICOM'ye aktarın
-url: /tr/java/conversion/tex-to-dicom/
+url_ignore: /tr/java/conversion/tex-to-dicom/
 family: total
 platformtag: net
 feature: conversion

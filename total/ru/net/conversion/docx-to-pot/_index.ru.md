@@ -1,6 +1,6 @@
 ---
 title: Преобразование DOCX в POT через C# .NET 
-url: /ru/net/conversion/docx-to-pot/ 
+url_ignore: /ru/net/conversion/docx-to-pot/ 
 description: Преобразование документов Word docx в файлы PowerPoint pot с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Java API do renderowania EPUB do EXCEL
 description: Eksportuj EPUB do EXCEL przez Java API bez użycia Microsoft Excel lub Adobe Reader
-url: /pl/java/conversion/epub-to-excel/
+url_ignore: /pl/java/conversion/epub-to-excel/
 family: total
 platformtag: net
 feature: conversion

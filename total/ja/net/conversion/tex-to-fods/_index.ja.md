@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してTEXをFODSに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにTEXファイルをFODSに変換するC＃API
-url: /ja/net/conversion/tex-to-fods/
+url_ignore: /ja/net/conversion/tex-to-fods/
 family: total
 platformtag: net
 feature: conversion

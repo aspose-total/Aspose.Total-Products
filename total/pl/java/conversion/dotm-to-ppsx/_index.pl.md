@@ -1,7 +1,7 @@
 ---
 title: Konwertuj DOTM na PPSX za pomocą Javy
 description: Java API do eksportu DOTM do PPSX bez użycia Microsoft Word lub PowerPoint
-url: /pl/java/conversion/dotm-to-ppsx/
+url_ignore: /pl/java/conversion/dotm-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

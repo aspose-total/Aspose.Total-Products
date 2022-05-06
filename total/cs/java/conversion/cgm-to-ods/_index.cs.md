@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení CGM do ODS
 description: Export CGM do ODS přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/cgm-to-ods/
+url_ignore: /cs/java/conversion/cgm-to-ods/
 family: total
 platformtag: net
 feature: conversion

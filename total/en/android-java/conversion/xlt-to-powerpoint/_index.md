@@ -1,7 +1,7 @@
 ---
 title: Export XLT to POWERPOINT in Android 
 description: Android API to Convert XLT to POWERPOINT without using Microsoft Word
-url: /android-java/conversion/xlt-to-powerpoint/
+url_ignore: /android-java/conversion/xlt-to-powerpoint/
 family: total
 platformtag: android-java
 feature: conversion

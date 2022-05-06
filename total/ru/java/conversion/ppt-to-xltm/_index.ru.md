@@ -1,7 +1,7 @@
 ---
 title: Преобразование PPT в формат XLTM через Java
 description: Преобразуйте формат PPT в XLTM через Java без использования Microsoft Excel или PowerPoint.
-url: /ru/java/conversion/ppt-to-xltm/
+url_ignore: /ru/java/conversion/ppt-to-xltm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı XPS'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan MSG'i XPS'ye dönüştürün
-url: /tr/net/conversion/msg-to-xps/
+url_ignore: /tr/net/conversion/msg-to-xps/
 family: total
 platformtag: net
 feature: conversion

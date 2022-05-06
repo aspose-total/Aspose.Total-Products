@@ -1,7 +1,7 @@
 ---
 title: EPUB'yi GIF'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan EPUB'yi GIF'ye dönüştürün
-url: /tr/net/conversion/epub-to-gif/
+url_ignore: /tr/net/conversion/epub-to-gif/
 family: total
 platformtag: net
 feature: conversion

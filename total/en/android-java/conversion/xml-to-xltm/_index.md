@@ -1,7 +1,7 @@
 ---
 title: Convert XML to XLTM in Android via Java
 description: Render XML to XLTM in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/xml-to-xltm/
+url_ignore: /android-java/conversion/xml-to-xltm/
 family: total
 platformtag: android-java
 feature: conversion

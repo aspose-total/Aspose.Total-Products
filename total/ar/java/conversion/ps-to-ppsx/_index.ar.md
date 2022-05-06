@@ -1,7 +1,7 @@
 ---
 title: تحويل PS إلى PPSX عبر Java API
 description: Java API لتحويل PS إلى PPSX دون استخدام Microsoft Word
-url: /ar/java/conversion/ps-to-ppsx/
+url_ignore: /ar/java/conversion/ps-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

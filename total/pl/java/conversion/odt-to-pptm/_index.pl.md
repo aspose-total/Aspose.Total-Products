@@ -1,7 +1,7 @@
 ---
 title: Konwertuj ODT na PPTM za pomocą Javy
 description: Java API do eksportu ODT do PPTM bez użycia Microsoft Word lub PowerPoint
-url: /pl/java/conversion/odt-to-pptm/
+url_ignore: /pl/java/conversion/odt-to-pptm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení XML do TXT
 description: Export XML do TXT přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/xml-to-txt/
+url_ignore: /cs/java/conversion/xml-to-txt/
 family: total
 platformtag: net
 feature: conversion

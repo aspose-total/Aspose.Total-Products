@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Mengekspor SVG ke OTT
 description: Konversi SVG ke OTT menggunakan API Java di tempat
-url: /id/java/conversion/svg-to-ott/
+url_ignore: /id/java/conversion/svg-to-ott/
 family: total
 platformtag: net
 feature: conversion
@@ -37,7 +37,8 @@ document.save("DocOutput.doc", SaveFormat.DOC);
 Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 // call save method while passing SaveFormat.OTT
 outputDocument.save("output.ott", SaveFormat.OTT);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Persyaratan Konversi" %}}
@@ -49,7 +50,8 @@ Saat mengonversi SVG ke OTT, meskipun dokumen Anda dilindungi kata sandi, Anda m
 Document document = new Document("input.svg", "password");
 // save SVG as a DOC 
 document.save("DocOutput.doc", SaveFormat.DOC);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Buka Dokumen SVG yang Dilindungi Kata Sandi melalui Java" %}}
@@ -73,7 +75,8 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
     Statement statement = mConnection.createStatement();
     statement.executeUpdate(commandString);
 }  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

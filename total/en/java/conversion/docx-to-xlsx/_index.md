@@ -1,7 +1,7 @@
 ---
 title: Convert DOCX to XLSX via Java
 description: Convert DOCX to XLSX via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/docx-to-xlsx/
+url_ignore: /java/conversion/docx-to-xlsx/
 family: total
 platformtag: java
 feature: conversion

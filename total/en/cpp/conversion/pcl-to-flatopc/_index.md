@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PCL to FLATOPC
 description: Convert PCL to FLATOPC within C++ applications.
-url: /cpp/conversion/pcl-to-flatopc/
+url_ignore: /cpp/conversion/pcl-to-flatopc/
 family: total
 platformtag: cpp
 feature: conversion

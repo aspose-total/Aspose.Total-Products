@@ -1,7 +1,7 @@
 ---
 title: Java kullanarak TSV'yi PPTX'ye dönüştürün
 description: Excel veya Word kullanarak TSV'yi PPTX'a Dışa Aktarmak için Java API
-url: /tr/java/conversion/tsv-to-pptx/
+url_ignore: /tr/java/conversion/tsv-to-pptx/
 family: total
 platformtag: net
 feature: conversion

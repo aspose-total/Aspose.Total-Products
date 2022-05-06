@@ -1,7 +1,7 @@
 ---
 title: تصدير XSLFO إلى XAML عبر C# API
 description: NET API لتحويل XSLFO إلى XAML دون استخدام Microsoft Word
-url: /ar/net/conversion/xslfo-to-xaml/
+url_ignore: /ar/net/conversion/xslfo-to-xaml/
 family: total
 platformtag: net
 feature: conversion

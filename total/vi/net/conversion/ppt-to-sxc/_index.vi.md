@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi PPT sang SXC qua C#
 description: Chuyển đổi PPT sang SXC trong C# mà không cần sử dụng Microsoft Excel hoặc Powerpoint
-url: /vi/net/conversion/ppt-to-sxc/
+url_ignore: /vi/net/conversion/ppt-to-sxc/
 family: total
 platformtag: net
 feature: conversion

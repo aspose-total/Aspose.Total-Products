@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to EXCEL in C++
 description: C++ API to Convert WORD to EXCEL without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/word-to-excel/
+url_ignore: /cpp/conversion/word-to-excel/
 family: total
 platformtag: cpp
 feature: conversion

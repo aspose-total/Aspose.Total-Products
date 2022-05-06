@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга PS в TSV
 description: Экспорт PS в TSV через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/ps-to-tsv/
+url_ignore: /ru/java/conversion/ps-to-tsv/
 family: total
 platformtag: net
 feature: conversion

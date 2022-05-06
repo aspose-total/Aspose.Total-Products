@@ -1,7 +1,7 @@
 ---
 title: Java API do eksportu MHTML do DOCM
 description: Konwertuj MHTML na DOCM za pomocą lokalnego interfejsu Java API
-url: /pl/java/conversion/mhtml-to-docm/
+url_ignore: /pl/java/conversion/mhtml-to-docm/
 family: total
 platformtag: net
 feature: conversion

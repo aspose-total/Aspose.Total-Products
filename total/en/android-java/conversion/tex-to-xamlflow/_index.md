@@ -1,7 +1,7 @@
 ---
 title: Android API to Render TEX to XAMLFLOW
 description: Transform TEX to XAMLFLOW via Android via Java API
-url: /android-java/conversion/tex-to-xamlflow/
+url_ignore: /android-java/conversion/tex-to-xamlflow/
 family: total
 platformtag: android-java
 feature: conversion

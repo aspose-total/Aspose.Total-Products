@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPOTをXLTMに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPOTをXLTMに変換する
-url: /ja/net/conversion/pot-to-xltm/
+url_ignore: /ja/net/conversion/pot-to-xltm/
 family: total
 platformtag: net
 feature: conversion

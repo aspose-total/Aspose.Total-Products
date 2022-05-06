@@ -1,7 +1,7 @@
 ---
 title: .NET API 将 DOC 转换为 XLS
 description: 无需使用 Microsoft Excel 或 Adobe Reader 即可将 DOC 转换为 XLS 的 C# API
-url: /zh/net/conversion/doc-to-xls/
+url_ignore: /zh/net/conversion/doc-to-xls/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ otherformats: XLS SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="通过 C# 在 XLS 文件中添加自定义属性" %}}
 在将 DOC 转换为 XLS 时，[Aspose.Cells for .NET](https://products.aspose.com/cells/net/) 允许您在 XLS 文档中添加自定义属性。为了添加自定义属性，您可以对 [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection)类。 Add 方法将属性添加到 Excel 文件，并以 [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) 的形式返回新文档属性的引用/documentproperty) 对象。 
 {{% blocks/products/pf/feature-page-code %}}

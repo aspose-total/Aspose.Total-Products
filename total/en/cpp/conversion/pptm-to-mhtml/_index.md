@@ -1,7 +1,7 @@
 ---
 title: Convert PPTM to MHTML via C++ 
 description: Export PPTM to MHTML in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pptm-to-mhtml/
+url_ignore: /cpp/conversion/pptm-to-mhtml/
 family: total
 platformtag: cpp
 feature: conversion

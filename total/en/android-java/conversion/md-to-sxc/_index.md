@@ -1,7 +1,7 @@
 ---
 title: Convert MD to SXC in Android via Java
 description: Render MD to SXC in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/md-to-sxc/
+url_ignore: /android-java/conversion/md-to-sxc/
 family: total
 platformtag: android-java
 feature: conversion

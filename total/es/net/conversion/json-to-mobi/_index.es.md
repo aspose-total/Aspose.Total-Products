@@ -1,7 +1,7 @@
 ---
 title: Convierta el formato JSON a MOBI a través de .NET
 description: Analice JSON a MOBI en C# sin usar Microsoft Word
-url: /es/net/conversion/json-to-mobi/
+url_ignore: /es/net/conversion/json-to-mobi/
 family: total
 platformtag: net
 feature: conversion

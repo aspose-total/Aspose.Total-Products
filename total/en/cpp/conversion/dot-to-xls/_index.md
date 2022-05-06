@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to XLS in C++
 description: C++ API to Convert DOT to XLS without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/dot-to-xls/
+url_ignore: /cpp/conversion/dot-to-xls/
 family: total
 platformtag: cpp
 feature: conversion

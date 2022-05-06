@@ -1,7 +1,7 @@
 ---
 title: ODTをEXCELに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにODTをEXCELに変換するC＃API
-url: /ja/net/conversion/odt-to-excel/
+url_ignore: /ja/net/conversion/odt-to-excel/
 family: total
 platformtag: net
 feature: conversion

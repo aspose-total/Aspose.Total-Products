@@ -1,7 +1,7 @@
 ---
 title: Convierta PDF a EXCEL a través de la API de C#
 description: API C# para convertir archivos PDF a EXCEL sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/pdf-to-excel/
+url_ignore: /es/net/conversion/pdf-to-excel/
 family: total
 platformtag: net
 feature: conversion

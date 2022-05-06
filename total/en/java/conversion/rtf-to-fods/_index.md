@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert RTF to FODS
 description: Convert RTF to FODS via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/rtf-to-fods/
+url_ignore: /java/conversion/rtf-to-fods/
 family: total
 platformtag: java
 feature: conversion

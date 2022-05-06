@@ -1,7 +1,7 @@
 ---
 title: Converteer PCL naar DXF via C# API
 description: Exporteer PCL naar DXF in uw .NET-toepassingen zonder een toepassing van derden te gebruiken
-url: /nl/net/conversion/pcl-to-dxf/
+url_ignore: /nl/net/conversion/pcl-to-dxf/
 family: total
 platformtag: net
 feature: conversion

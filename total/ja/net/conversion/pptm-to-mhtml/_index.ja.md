@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPPTMをMHTMLに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPTMをMHTMLに変換する
-url: /ja/net/conversion/pptm-to-mhtml/
+url_ignore: /ja/net/conversion/pptm-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

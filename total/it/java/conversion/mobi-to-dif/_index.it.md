@@ -1,7 +1,7 @@
 ---
 title: API Java per convertire MOBI in DIF
 description: Converti MOBI in DIF tramite Java senza utilizzare Microsoft Word o Microsoft Excel
-url: /it/java/conversion/mobi-to-dif/
+url_ignore: /it/java/conversion/mobi-to-dif/
 family: total
 platformtag: net
 feature: conversion

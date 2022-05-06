@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert TEX to POT  
 description: Convert TEX to POT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/tex-to-pot/
+url_ignore: /cpp/conversion/tex-to-pot/
 family: total
 platformtag: cpp
 feature: conversion

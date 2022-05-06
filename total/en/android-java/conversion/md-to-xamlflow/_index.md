@@ -1,7 +1,7 @@
 ---
 title: Android API to Render MD to XAMLFLOW
 description: Transform MD to XAMLFLOW via Android via Java API
-url: /android-java/conversion/md-to-xamlflow/
+url_ignore: /android-java/conversion/md-to-xamlflow/
 family: total
 platformtag: android-java
 feature: conversion

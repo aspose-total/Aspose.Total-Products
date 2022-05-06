@@ -1,7 +1,7 @@
 ---
 title: Java API om XML naar XLTX te renderen
 description: Exporteer XML naar XLTX via Java API zonder Microsoft Excel of Adobe Reader te gebruiken
-url: /nl/java/conversion/xml-to-xltx/
+url_ignore: /nl/java/conversion/xml-to-xltx/
 family: total
 platformtag: net
 feature: conversion

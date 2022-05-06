@@ -1,7 +1,7 @@
 ---
 title: EMAILをJPEGにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMAILをJPEGに変換する
-url: /ja/net/conversion/email-to-jpeg/
+url_ignore: /ja/net/conversion/email-to-jpeg/
 family: total
 platformtag: net
 feature: conversion

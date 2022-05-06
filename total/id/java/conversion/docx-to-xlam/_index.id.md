@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Mengonversi DOCX ke XLAM
 description: Konversi DOCX ke XLAM melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel
-url: /id/java/conversion/docx-to-xlam/
+url_ignore: /id/java/conversion/docx-to-xlam/
 family: total
 platformtag: net
 feature: conversion

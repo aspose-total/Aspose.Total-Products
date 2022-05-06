@@ -1,7 +1,7 @@
 ---
 title: Convierta WORD a PPTM a través de Java
 description: API de Java para exportar WORD a PPTM sin usar Microsoft Word o PowerPoint
-url: /es/java/conversion/word-to-pptm/
+url_ignore: /es/java/conversion/word-to-pptm/
 family: total
 platformtag: net
 feature: conversion

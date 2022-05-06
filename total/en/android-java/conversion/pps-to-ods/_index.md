@@ -1,7 +1,7 @@
 ---
 title: Convert PPS to ODS in Android via Java
 description: Convert PPS to ODS in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/pps-to-ods/
+url_ignore: /android-java/conversion/pps-to-ods/
 family: total
 platformtag: android-java
 feature: conversion

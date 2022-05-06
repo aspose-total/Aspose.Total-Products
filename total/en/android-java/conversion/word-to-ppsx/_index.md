@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to PPSX in Android via Java
 description: WORD to PPSX conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/word-to-ppsx/
+url_ignore: /android-java/conversion/word-to-ppsx/
 family: total
 platformtag: android-java
 feature: conversion

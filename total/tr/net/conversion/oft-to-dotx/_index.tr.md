@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı DOTX'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan OFT'i DOTX'ye dönüştürün
-url: /tr/net/conversion/oft-to-dotx/
+url_ignore: /tr/net/conversion/oft-to-dotx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert DOC to EXCEL via .NET 
 description: Convert DOC to EXCEL in C# without using Microsoft Excel or Adobe Reader
-url: /net/conversion/doc-to-excel/
+url_ignore: /net/conversion/doc-to-excel/
 family: total
 platformtag: net
 feature: conversion

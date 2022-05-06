@@ -1,7 +1,7 @@
 ---
 title: SVGをMARKDOWNにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにSVGをMARKDOWNに変換する
-url: /ja/net/conversion/svg-to-markdown/
+url_ignore: /ja/net/conversion/svg-to-markdown/
 family: total
 platformtag: net
 feature: conversion

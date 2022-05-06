@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to POWERPOINT in Android via Java
 description: WORD to POWERPOINT conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/word-to-powerpoint/
+url_ignore: /android-java/conversion/word-to-powerpoint/
 family: total
 platformtag: android-java
 feature: conversion

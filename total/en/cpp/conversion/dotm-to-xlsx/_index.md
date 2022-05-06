@@ -1,7 +1,7 @@
 ---
 title: Convert DOTM to XLSX in C++
 description: C++ API to Convert DOTM to XLSX without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/dotm-to-xlsx/
+url_ignore: /cpp/conversion/dotm-to-xlsx/
 family: total
 platformtag: cpp
 feature: conversion

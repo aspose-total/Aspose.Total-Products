@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMHTMLをPSDに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでMHTMLをPSDにエクスポートします
-url: /ja/net/conversion/mhtml-to-psd/
+url_ignore: /ja/net/conversion/mhtml-to-psd/
 family: total
 platformtag: net
 feature: conversion

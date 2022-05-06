@@ -1,7 +1,7 @@
 ---
 title: .NET API pro převod OTT do XLSM
 description: C# API pro převod OTT do XLSM bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/ott-to-xlsm/
+url_ignore: /cs/net/conversion/ott-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

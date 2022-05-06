@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XML to POWERPOINT  
 description: Convert XML to POWERPOINT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xml-to-powerpoint/
+url_ignore: /cpp/conversion/xml-to-powerpoint/
 family: total
 platformtag: cpp
 feature: conversion

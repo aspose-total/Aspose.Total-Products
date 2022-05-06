@@ -1,7 +1,7 @@
 ---
 title: Export MHTML to XAML in Android 
 description: Android API to Convert MHTML to XAML without using Microsoft Word
-url: /android-java/conversion/mhtml-to-xaml/
+url_ignore: /android-java/conversion/mhtml-to-xaml/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export XSLFO to OTP in Android 
 description: Android API to Convert XSLFO to OTP without using Microsoft Word
-url: /android-java/conversion/xslfo-to-otp/
+url_ignore: /android-java/conversion/xslfo-to-otp/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: TEXをRTFにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにTEXをRTFに変換する
-url: /ja/net/conversion/tex-to-rtf/
+url_ignore: /ja/net/conversion/tex-to-rtf/
 family: total
 platformtag: net
 feature: conversion

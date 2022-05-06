@@ -1,7 +1,7 @@
 ---
 title: Render EMLX to XPS in Andorid App
 description: Export EMLX to XPS without using Microsoft Word or Outlook in you Andorid applications 
-url: /android-java/conversion/emlx-to-xps/
+url_ignore: /android-java/conversion/emlx-to-xps/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi PPTM sang WORD qua Java
 description: Java API để xuất PPTM sang WORD mà không cần sử dụng Microsoft Word hoặc PowerPoint
-url: /vi/java/conversion/pptm-to-word/
+url_ignore: /vi/java/conversion/pptm-to-word/
 family: total
 platformtag: net
 feature: conversion

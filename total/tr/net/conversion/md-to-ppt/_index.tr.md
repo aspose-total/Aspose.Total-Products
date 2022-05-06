@@ -1,7 +1,7 @@
 ---
 title: MD'yi C# API aracılığıyla PPT'ye aktarın
 description: Microsoft Word kullanmadan MD'yi PPT'ye dönüştürmek için .NET API
-url: /tr/net/conversion/md-to-ppt/
+url_ignore: /tr/net/conversion/md-to-ppt/
 family: total
 platformtag: net
 feature: conversion

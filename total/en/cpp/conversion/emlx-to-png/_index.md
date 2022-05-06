@@ -1,7 +1,7 @@
 ---
 title: Export EMLX to PNG via C++
 description: C++ API to Convert EMLX to PNG without using Microsoft Word or Outlook
-url: /cpp/conversion/emlx-to-png/
+url_ignore: /cpp/conversion/emlx-to-png/
 family: total
 platformtag: cpp
 feature: conversion

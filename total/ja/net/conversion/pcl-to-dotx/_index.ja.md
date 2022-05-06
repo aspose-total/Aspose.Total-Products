@@ -1,7 +1,7 @@
 ---
 title: PCLをDOTXにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにPCLをDOTXに変換する
-url: /ja/net/conversion/pcl-to-dotx/
+url_ignore: /ja/net/conversion/pcl-to-dotx/
 family: total
 platformtag: net
 feature: conversion

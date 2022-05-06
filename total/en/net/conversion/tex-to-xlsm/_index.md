@@ -1,7 +1,7 @@
 ---
 title: Convert TEX to XLSM via C# API
 description: C# API to Convert TEX File to XLSM without using Microsoft Excel or Adobe Reader
-url: /net/conversion/tex-to-xlsm/
+url_ignore: /net/conversion/tex-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

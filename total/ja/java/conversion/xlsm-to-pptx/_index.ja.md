@@ -1,7 +1,7 @@
 ---
 title: Javaを使用してXLSMをPPTXに変換する
 description: ExcelまたはWordを使用してXLSMをPPTXにエクスポートするJavaAPI
-url: /ja/java/conversion/xlsm-to-pptx/
+url_ignore: /ja/java/conversion/xlsm-to-pptx/
 family: total
 platformtag: net
 feature: conversion

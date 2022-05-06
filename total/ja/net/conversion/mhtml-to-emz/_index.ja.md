@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMHTMLをEMZに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでMHTMLをEMZにエクスポートします
-url: /ja/net/conversion/mhtml-to-emz/
+url_ignore: /ja/net/conversion/mhtml-to-emz/
 family: total
 platformtag: net
 feature: conversion

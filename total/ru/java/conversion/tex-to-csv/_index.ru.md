@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга TEX в CSV
 description: Экспорт TEX в CSV через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/tex-to-csv/
+url_ignore: /ru/java/conversion/tex-to-csv/
 family: total
 platformtag: net
 feature: conversion

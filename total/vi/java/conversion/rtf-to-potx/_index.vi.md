@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi RTF sang POTX qua Java
 description: Java API để xuất RTF sang POTX mà không cần sử dụng Microsoft Word hoặc PowerPoint
-url: /vi/java/conversion/rtf-to-potx/
+url_ignore: /vi/java/conversion/rtf-to-potx/
 family: total
 platformtag: net
 feature: conversion
@@ -16,8 +16,8 @@ Thông thường, các nhà phát triển phải chuyển đổi tệp RTF sang 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cách chuyển RTF sang POTX qua Java" %}}
-1. Mở tệp RTF bằng lớp [Rtfument](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument)
-2. Chuyển đổi tệp RTF sang HTML bằng cách sử dụng [save](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument#save(java.lang.String, com.aspose.words.SaveOptions)) phương pháp
+1. Mở tệp RTF bằng lớp [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. Chuyển đổi tệp RTF sang HTML bằng cách sử dụng [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String, com.aspose.words.SaveOptions)) phương pháp
 3. Khởi tạo đối tượng [Bản trình bày](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) mới
 5. Trích xuất nội dung từ tệp HTML bằng BufferedReader và ghi nội dung vào tệp bản trình bày của bạn
 6. Lưu tài liệu vào POTX bằng phương thức [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

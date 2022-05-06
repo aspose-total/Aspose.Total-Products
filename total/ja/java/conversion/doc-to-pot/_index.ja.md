@@ -1,7 +1,7 @@
 ---
 title: Java経由でDOCをPOTに変換する
 description: MicrosoftWordやPowerPointを使用せずにDOCをPOTにエクスポートするJavaAPI
-url: /ja/java/conversion/doc-to-pot/
+url_ignore: /ja/java/conversion/doc-to-pot/
 family: total
 platformtag: net
 feature: conversion

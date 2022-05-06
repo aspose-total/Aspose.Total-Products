@@ -1,7 +1,7 @@
 ---
 title: EMLをDOCMにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMLをDOCMに変換する
-url: /ja/net/conversion/eml-to-docm/
+url_ignore: /ja/net/conversion/eml-to-docm/
 family: total
 platformtag: net
 feature: conversion

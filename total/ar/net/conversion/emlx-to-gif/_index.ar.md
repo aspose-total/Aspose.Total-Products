@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير البريد الإلكتروني إلى GIF
 description: قم بتحويل EMLX إلى GIF دون استخدام Microsoft Word أو Outlook على .NET
-url: /ar/net/conversion/emlx-to-gif/
+url_ignore: /ar/net/conversion/emlx-to-gif/
 family: total
 platformtag: net
 feature: conversion

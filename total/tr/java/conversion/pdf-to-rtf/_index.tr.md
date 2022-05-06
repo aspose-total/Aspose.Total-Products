@@ -1,7 +1,7 @@
 ---
 title: PDF'yi RTF'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak PDF'yi RTF'ye dönüştürün
-url: /tr/java/conversion/pdf-to-rtf/
+url_ignore: /tr/java/conversion/pdf-to-rtf/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API .NET para convertir MOBI a XLTM
 description: API de C# para convertir MOBI a XLTM sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/mobi-to-xltm/
+url_ignore: /es/net/conversion/mobi-to-xltm/
 family: total
 platformtag: net
 feature: conversion

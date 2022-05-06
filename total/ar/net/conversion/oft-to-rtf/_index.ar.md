@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير البريد الإلكتروني إلى RTF
 description: قم بتحويل OFT إلى RTF دون استخدام Microsoft Word أو Outlook على .NET
-url: /ar/net/conversion/oft-to-rtf/
+url_ignore: /ar/net/conversion/oft-to-rtf/
 family: total
 platformtag: net
 feature: conversion

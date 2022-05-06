@@ -1,7 +1,7 @@
 ---
 title: Export PCL do ODP přes C# API
 description: .NET API pro převod PCL na ODP bez použití aplikace Microsoft Word
-url: /cs/net/conversion/pcl-to-odp/
+url_ignore: /cs/net/conversion/pcl-to-odp/
 family: total
 platformtag: net
 feature: conversion

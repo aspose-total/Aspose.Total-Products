@@ -1,7 +1,7 @@
 ---
 title: แปลงรูปแบบ JSON เป็น PPSM ผ่าน .NET
 description: แยก JSON เป็น PPSM ใน C# โดยไม่ต้องใช้ Microsoft PowerPoint
-url: /th/net/conversion/json-to-ppsm/
+url_ignore: /th/net/conversion/json-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

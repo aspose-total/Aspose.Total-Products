@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή MHTML σε DICOM μέσω C# API
 description: Εξάγετε το MHTML σε DICOM στις εφαρμογές σας .NET χωρίς να χρησιμοποιήσετε καμία εφαρμογή τρίτου μέρους
-url: /el/net/conversion/mhtml-to-dicom/
+url_ignore: /el/net/conversion/mhtml-to-dicom/
 family: total
 platformtag: net
 feature: conversion

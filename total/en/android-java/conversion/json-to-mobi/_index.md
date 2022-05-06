@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to MOBI in Android via Java 
 description: Parse JSON to MOBI in Java without using Microsoft Word
-url: /android-java/conversion/json-to-mobi/
+url_ignore: /android-java/conversion/json-to-mobi/
 family: total
 platformtag: android-java
 feature: conversion

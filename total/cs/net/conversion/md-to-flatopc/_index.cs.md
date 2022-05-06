@@ -1,7 +1,7 @@
 ---
 title: C# API pro export MD do FLATOPC
 description: Převeďte MD na FLATOPC bez použití aplikace Microsoft Word
-url: /cs/net/conversion/md-to-flatopc/
+url_ignore: /cs/net/conversion/md-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

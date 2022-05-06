@@ -1,7 +1,7 @@
 ---
 title: Javaを使用してXLSMをDOCに変換する
 description: ExcelまたはWordを使用してXLSMをDOCにエクスポートするJavaAPI
-url: /ja/java/conversion/xlsm-to-doc/
+url_ignore: /ja/java/conversion/xlsm-to-doc/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender SVG ke TSV
 description: Ekspor SVG ke TSV melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/svg-to-tsv/
+url_ignore: /id/java/conversion/svg-to-tsv/
 family: total
 platformtag: net
 feature: conversion

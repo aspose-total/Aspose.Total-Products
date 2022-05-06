@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してEPUBをPOTにエクスポートする
 description: MicrosoftWordを使用せずにEPUBをPOTに変換する.NETAPI
-url: /ja/net/conversion/epub-to-pot/
+url_ignore: /ja/net/conversion/epub-to-pot/
 family: total
 platformtag: net
 feature: conversion

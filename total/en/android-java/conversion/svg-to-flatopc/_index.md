@@ -1,7 +1,7 @@
 ---
 title: Android API to Render SVG to FLATOPC
 description: Transform SVG to FLATOPC via Android via Java API
-url: /android-java/conversion/svg-to-flatopc/
+url_ignore: /android-java/conversion/svg-to-flatopc/
 family: total
 platformtag: android-java
 feature: conversion

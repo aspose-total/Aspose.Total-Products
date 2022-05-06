@@ -1,6 +1,6 @@
 ---
 title: Convert PPS to ODT via C# .NET 
-url: /net/conversion/pps-to-odt/ 
+url_ignore: /net/conversion/pps-to-odt/ 
 description: Convert PowerPoint pps documents to Word odt files with C#. Convert multiple files within ASP.NET or other .NET applications.
 ---
 

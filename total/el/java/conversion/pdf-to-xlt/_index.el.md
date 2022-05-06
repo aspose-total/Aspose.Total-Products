@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση PDF σε XLT
 description: Εξαγωγή PDF σε XLT μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/pdf-to-xlt/
+url_ignore: /el/java/conversion/pdf-to-xlt/
 family: total
 platformtag: net
 feature: conversion

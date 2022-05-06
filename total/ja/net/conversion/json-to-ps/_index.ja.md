@@ -1,7 +1,7 @@
 ---
 title: .NETを介してJSON形式をPSに変換する
 description: Microsoft Wordを使用せずにC＃でJSONをPSに解析する
-url: /ja/net/conversion/json-to-ps/
+url_ignore: /ja/net/conversion/json-to-ps/
 family: total
 platformtag: net
 feature: conversion

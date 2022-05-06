@@ -1,7 +1,7 @@
 ---
 title: Ekspor EMAIL ke BMP melalui Java
 description: Java API untuk Mengonversi EMAIL ke BMP tanpa menggunakan Microsoft Word atau Outlook
-url: /id/java/conversion/email-to-bmp/
+url_ignore: /id/java/conversion/email-to-bmp/
 family: total
 platformtag: net
 feature: conversion

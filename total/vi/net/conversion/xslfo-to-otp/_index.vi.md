@@ -1,7 +1,7 @@
 ---
 title: Xuất XSLFO sang OTP qua C# API
 description: .NET API để chuyển đổi XSLFO sang OTP mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/xslfo-to-otp/
+url_ignore: /vi/net/conversion/xslfo-to-otp/
 family: total
 platformtag: net
 feature: conversion

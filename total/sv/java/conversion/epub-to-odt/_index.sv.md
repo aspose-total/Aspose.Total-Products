@@ -1,7 +1,7 @@
 ---
 title: Java API för att exportera EPUB till ODT
 description: Konvertera EPUB till ODT med hjälp av det lokala Java API
-url: /sv/java/conversion/epub-to-odt/
+url_ignore: /sv/java/conversion/epub-to-odt/
 family: total
 platformtag: net
 feature: conversion

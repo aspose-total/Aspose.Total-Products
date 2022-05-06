@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to WORD via C++ 
 description: C++ API t0 Parse JSON to WORD without using Microsoft Word
-url: /cpp/conversion/json-to-word/
+url_ignore: /cpp/conversion/json-to-word/
 family: total
 platformtag: cpp
 feature: conversion

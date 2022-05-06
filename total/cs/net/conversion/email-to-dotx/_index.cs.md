@@ -1,7 +1,7 @@
 ---
 title: C# API pro export EMAIL do DOTX
 description: Převeďte EMAIL na DOTX bez použití Microsoft Word nebo Outlook na .NET
-url: /cs/net/conversion/email-to-dotx/
+url_ignore: /cs/net/conversion/email-to-dotx/
 family: total
 platformtag: net
 feature: conversion

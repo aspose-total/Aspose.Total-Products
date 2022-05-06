@@ -1,7 +1,7 @@
 ---
 title: Export XSLFO to POWERPOINT in Android 
 description: Android API to Convert XSLFO to POWERPOINT without using Microsoft Word
-url: /android-java/conversion/xslfo-to-powerpoint/
+url_ignore: /android-java/conversion/xslfo-to-powerpoint/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование MD в EMZ через Java
 description: Экспорт файла MD в EMZ в ваших приложениях Java без использования каких-либо сторонних приложений.
-url: /ru/java/conversion/md-to-emz/
+url_ignore: /ru/java/conversion/md-to-emz/
 family: total
 platformtag: net
 feature: conversion

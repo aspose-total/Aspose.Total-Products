@@ -1,7 +1,7 @@
 ---
 title: Converteer MHTML naar JPEG2000 via Java
 description: Exporteer MHTML-bestand naar JPEG2000 in uw Java-applicaties zonder een applicatie van derden te gebruiken
-url: /nl/java/conversion/mhtml-to-jpeg2000/
+url_ignore: /nl/java/conversion/mhtml-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

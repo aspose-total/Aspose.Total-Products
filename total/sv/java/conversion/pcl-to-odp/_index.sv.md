@@ -1,7 +1,7 @@
 ---
 title: Konvertera PCL till ODP via Java API
 description: Java API för att konvertera PCL till ODP utan att använda Microsoft Word
-url: /sv/java/conversion/pcl-to-odp/
+url_ignore: /sv/java/conversion/pcl-to-odp/
 family: total
 platformtag: net
 feature: conversion

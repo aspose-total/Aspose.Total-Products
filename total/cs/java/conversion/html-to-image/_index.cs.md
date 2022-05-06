@@ -1,7 +1,7 @@
 ---
 title: Převést HTML na IMAGE přes Java
 description: Exportujte soubor HTML do IMAGE ve svých aplikacích Java bez použití jakékoli aplikace třetí strany
-url: /cs/java/conversion/html-to-image/
+url_ignore: /cs/java/conversion/html-to-image/
 family: total
 platformtag: net
 feature: conversion

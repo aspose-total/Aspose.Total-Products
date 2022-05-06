@@ -1,7 +1,7 @@
 ---
 title: Java API to Render PDF to XLTM
 description: Export PDF to XLTM via Java API without using Microsoft Excel or Adobe Reader
-url: /java/conversion/pdf-to-xltm/
+url_ignore: /java/conversion/pdf-to-xltm/
 family: total
 platformtag: java
 feature: conversion

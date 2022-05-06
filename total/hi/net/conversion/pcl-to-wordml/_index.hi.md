@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई सीजीएम को डीओसीएम में निर्यात करने के लिए
 description: Microsoft Word का उपयोग किए बिना PCL को WORDML में बदलें
-url: /hi/net/conversion/pcl-to-wordml/
+url_ignore: /hi/net/conversion/pcl-to-wordml/
 family: total
 platformtag: net
 feature: conversion

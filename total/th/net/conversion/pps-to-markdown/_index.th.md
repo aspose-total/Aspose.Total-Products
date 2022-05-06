@@ -1,7 +1,7 @@
 ---
 title: แปลง PPS เป็น MARKDOWN ผ่าน C#
 description: แปลง PPS เป็น MARKDOWN ใน C# โดยไม่ต้องใช้ Microsoft Excel หรือ Powerpoint
-url: /th/net/conversion/pps-to-markdown/
+url_ignore: /th/net/conversion/pps-to-markdown/
 family: total
 platformtag: net
 feature: conversion

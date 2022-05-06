@@ -1,7 +1,7 @@
 ---
 title: Konversi Format JSON ke APNG melalui Java
 description: Parsing JSON ke APNG di Java tanpa menggunakan Microsoft PowerPoint
-url: /id/java/conversion/json-to-apng/
+url_ignore: /id/java/conversion/json-to-apng/
 family: total
 platformtag: net
 feature: conversion

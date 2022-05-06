@@ -1,7 +1,7 @@
 ---
 title: API Java per il rendering da TEX a DIF
 description: Esporta TEX in DIF tramite API Java senza utilizzare Microsoft Excel o Adobe Reader
-url: /it/java/conversion/tex-to-dif/
+url_ignore: /it/java/conversion/tex-to-dif/
 family: total
 platformtag: net
 feature: conversion

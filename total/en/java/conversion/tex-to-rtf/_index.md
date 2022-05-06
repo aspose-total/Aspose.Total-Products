@@ -1,7 +1,7 @@
 ---
 title: Java API to Export TEX to RTF
 description: Convert TEX to RTF using on premise Java API
-url: /java/conversion/tex-to-rtf/
+url_ignore: /java/conversion/tex-to-rtf/
 family: total
 platformtag: java
 feature: conversion

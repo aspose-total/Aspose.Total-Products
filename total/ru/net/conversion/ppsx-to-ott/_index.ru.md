@@ -1,6 +1,6 @@
 ---
 title: Преобразование PPSX в OTT через C# .NET 
-url: /ru/net/conversion/ppsx-to-ott/ 
+url_ignore: /ru/net/conversion/ppsx-to-ott/ 
 description: Преобразование документов PowerPoint ppsx в файлы документов Word с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Java API för att exportera MHTML till DOTM
 description: Konvertera MHTML till DOTM med hjälp av det lokala Java API
-url: /sv/java/conversion/mhtml-to-dotm/
+url_ignore: /sv/java/conversion/mhtml-to-dotm/
 family: total
 platformtag: net
 feature: conversion

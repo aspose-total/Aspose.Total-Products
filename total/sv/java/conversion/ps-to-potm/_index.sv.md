@@ -1,7 +1,7 @@
 ---
 title: Konvertera PS till POTM via Java API
 description: Java API för att konvertera PS till POTM utan att använda Microsoft Word
-url: /sv/java/conversion/ps-to-potm/
+url_ignore: /sv/java/conversion/ps-to-potm/
 family: total
 platformtag: net
 feature: conversion

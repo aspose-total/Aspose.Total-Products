@@ -1,7 +1,7 @@
 ---
 title: API Java para renderizar XSLFO para ODS
 description: Exporte XSLFO para ODS via API Java sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/java/conversion/xslfo-to-ods/
+url_ignore: /pt/java/conversion/xslfo-to-ods/
 family: total
 platformtag: net
 feature: conversion

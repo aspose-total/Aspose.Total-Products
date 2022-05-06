@@ -1,7 +1,7 @@
 ---
 title: Converter PPTM para CSV via C#
 description: Converter PPTM para CSV em C# sem usar o Microsoft Excel ou Powerpoint
-url: /pt/net/conversion/pptm-to-csv/
+url_ignore: /pt/net/conversion/pptm-to-csv/
 family: total
 platformtag: net
 feature: conversion

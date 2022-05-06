@@ -1,7 +1,7 @@
 ---
 title: Преобразование XLT в POWERPOINT с помощью Java
 description: Java API для экспорта XLT в POWERPOINT с использованием Excel или Word
-url: /ru/java/conversion/xlt-to-powerpoint/
+url_ignore: /ru/java/conversion/xlt-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

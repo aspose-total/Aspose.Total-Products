@@ -1,7 +1,7 @@
 ---
 title: MHTML'yi ODT'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan MHTML'yi ODT'ye dönüştürün
-url: /tr/net/conversion/mhtml-to-odt/
+url_ignore: /tr/net/conversion/mhtml-to-odt/
 family: total
 platformtag: net
 feature: conversion

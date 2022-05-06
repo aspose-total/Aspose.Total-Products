@@ -1,7 +1,7 @@
 ---
 title: Konwertuj EPUB na SVGZ przez Java
 description: Eksportuj plik EPUB do SVGZ w swoich aplikacjach Java bez korzystania z aplikacji innych firm
-url: /pl/java/conversion/epub-to-svgz/
+url_ignore: /pl/java/conversion/epub-to-svgz/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PS to OTT
 description: Convert PS to OTT within C++ applications.
-url: /cpp/conversion/ps-to-ott/
+url_ignore: /cpp/conversion/ps-to-ott/
 family: total
 platformtag: cpp
 feature: conversion

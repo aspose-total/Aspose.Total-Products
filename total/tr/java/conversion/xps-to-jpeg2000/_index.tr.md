@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla XPS'yi JPEG2000'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan XPS dosyasını Java uygulamalarınızda JPEG2000'ye aktarın
-url: /tr/java/conversion/xps-to-jpeg2000/
+url_ignore: /tr/java/conversion/xps-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

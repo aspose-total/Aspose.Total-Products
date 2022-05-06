@@ -1,7 +1,7 @@
 ---
 title: .NETを介してPOTをJSON形式に変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPOTをJSONに変換する
-url: /ja/net/conversion/pot-to-json/
+url_ignore: /ja/net/conversion/pot-to-json/
 family: total
 platformtag: net
 feature: conversion

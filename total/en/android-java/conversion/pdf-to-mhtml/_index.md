@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PDF to MHTML
 description: Transform PDF to MHTML via Android via Java API
-url: /android-java/conversion/pdf-to-mhtml/
+url_ignore: /android-java/conversion/pdf-to-mhtml/
 family: total
 platformtag: android-java
 feature: conversion

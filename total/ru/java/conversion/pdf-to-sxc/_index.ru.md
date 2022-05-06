@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга PDF в SXC
 description: Экспорт PDF в SXC через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/pdf-to-sxc/
+url_ignore: /ru/java/conversion/pdf-to-sxc/
 family: total
 platformtag: net
 feature: conversion

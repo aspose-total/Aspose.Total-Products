@@ -1,7 +1,7 @@
 ---
 title: Converteer POTM naar XLSX-formaat via Java
 description: Converteer POTM naar XLSX-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken
-url: /nl/java/conversion/potm-to-xlsx/
+url_ignore: /nl/java/conversion/potm-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

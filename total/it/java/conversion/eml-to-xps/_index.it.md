@@ -1,7 +1,7 @@
 ---
 title: Esporta EML in XPS tramite Java
 description: API Java per convertire EML in XPS senza utilizzare Microsoft Word o Outlook
-url: /it/java/conversion/eml-to-xps/
+url_ignore: /it/java/conversion/eml-to-xps/
 family: total
 platformtag: net
 feature: conversion

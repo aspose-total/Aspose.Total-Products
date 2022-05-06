@@ -1,7 +1,7 @@
 ---
 title: MSG을 TEXT로 내보내는 C# API
 description: .NET에서 Microsoft Word 또는 Outlook을 사용하지 않고 MSG을 TEXT로 변환
-url: /ko/net/conversion/msg-to-text/
+url_ignore: /ko/net/conversion/msg-to-text/
 family: total
 platformtag: net
 feature: conversion

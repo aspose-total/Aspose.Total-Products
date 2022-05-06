@@ -1,7 +1,7 @@
 ---
 title: Converter MD para IMAGE via Java
 description: Exporte o arquivo MD para IMAGE em seus aplicativos Java sem usar nenhum aplicativo de terceiros
-url: /pt/java/conversion/md-to-image/
+url_ignore: /pt/java/conversion/md-to-image/
 family: total
 platformtag: net
 feature: conversion

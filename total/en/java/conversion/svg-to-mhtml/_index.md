@@ -1,7 +1,7 @@
 ---
 title: Java API to Export SVG to MHTML
 description: Convert SVG to MHTML using on premise Java API
-url: /java/conversion/svg-to-mhtml/
+url_ignore: /java/conversion/svg-to-mhtml/
 family: total
 platformtag: java
 feature: conversion

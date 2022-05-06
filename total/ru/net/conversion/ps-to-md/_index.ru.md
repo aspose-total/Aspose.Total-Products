@@ -1,7 +1,7 @@
 ---
 title: Преобразование PS в MD через C# API
 description: C# API для преобразования файла PS в MD без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/ps-to-md/
+url_ignore: /ru/net/conversion/ps-to-md/
 family: total
 platformtag: net
 feature: conversion

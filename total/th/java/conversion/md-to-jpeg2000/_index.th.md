@@ -1,7 +1,7 @@
 ---
 title: แปลง MD เป็น JPEG2000 ผ่าน Java
 description: ส่งออกไฟล์ MD เป็น JPEG2000 ในแอปพลิเคชัน Java ของคุณโดยไม่ต้องใช้แอปพลิเคชันของบุคคลที่สาม
-url: /th/java/conversion/md-to-jpeg2000/
+url_ignore: /th/java/conversion/md-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

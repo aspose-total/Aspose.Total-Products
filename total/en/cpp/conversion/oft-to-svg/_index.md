@@ -1,7 +1,7 @@
 ---
 title: Export OFT to SVG via C++
 description: C++ API to Convert OFT to SVG without using Microsoft Word or Outlook
-url: /cpp/conversion/oft-to-svg/
+url_ignore: /cpp/conversion/oft-to-svg/
 family: total
 platformtag: cpp
 feature: conversion

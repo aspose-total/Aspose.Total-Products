@@ -1,7 +1,7 @@
 ---
 title: Java API om OTT naar DIF te converteren
 description: Converteer OTT naar DIF via Java zonder Microsoft Word of Microsoft Excel te gebruiken
-url: /nl/java/conversion/ott-to-dif/
+url_ignore: /nl/java/conversion/ott-to-dif/
 family: total
 platformtag: net
 feature: conversion

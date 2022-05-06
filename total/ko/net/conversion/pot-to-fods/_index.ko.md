@@ -1,7 +1,7 @@
 ---
 title: C#을 통해 POT을 FODS로 변환
 description: Microsoft Excel 또는 Powerpoint를 사용하지 않고 C#에서 POT을 FODS로 변환
-url: /ko/net/conversion/pot-to-fods/
+url_ignore: /ko/net/conversion/pot-to-fods/
 family: total
 platformtag: net
 feature: conversion

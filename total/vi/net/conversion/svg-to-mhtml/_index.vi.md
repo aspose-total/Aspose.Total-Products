@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất SVG sang MHTML
 description: Chuyển đổi SVG sang MHTML mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/svg-to-mhtml/
+url_ignore: /vi/net/conversion/svg-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

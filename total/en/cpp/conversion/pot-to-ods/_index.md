@@ -1,7 +1,7 @@
 ---
 title: Convert POT to ODS via C++ 
 description: Export POT to ODS in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pot-to-ods/
+url_ignore: /cpp/conversion/pot-to-ods/
 family: total
 platformtag: cpp
 feature: conversion

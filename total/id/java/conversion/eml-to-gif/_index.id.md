@@ -1,7 +1,7 @@
 ---
 title: Ekspor EML ke GIF melalui Java
 description: Java API untuk Mengonversi EML ke GIF tanpa menggunakan Microsoft Word atau Outlook
-url: /id/java/conversion/eml-to-gif/
+url_ignore: /id/java/conversion/eml-to-gif/
 family: total
 platformtag: net
 feature: conversion

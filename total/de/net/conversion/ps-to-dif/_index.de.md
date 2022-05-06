@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie PS über die C#-API in DIF
 description: C#-API zum Konvertieren von PS-Dateien in DIF ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/ps-to-dif/
+url_ignore: /de/net/conversion/ps-to-dif/
 family: total
 platformtag: net
 feature: conversion

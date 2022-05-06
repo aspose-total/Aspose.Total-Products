@@ -1,7 +1,7 @@
 ---
 title: PPS'u C# ile FODS'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan PPS'u C#'ta FODS'ye dönüştürün
-url: /tr/net/conversion/pps-to-fods/
+url_ignore: /tr/net/conversion/pps-to-fods/
 family: total
 platformtag: net
 feature: conversion

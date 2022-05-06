@@ -1,7 +1,7 @@
 ---
 title: Convert PPTX to MHTML via C++ 
 description: Export PPTX to MHTML in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pptx-to-mhtml/
+url_ignore: /cpp/conversion/pptx-to-mhtml/
 family: total
 platformtag: cpp
 feature: conversion

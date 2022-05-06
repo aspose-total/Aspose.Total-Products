@@ -1,7 +1,7 @@
 ---
 title: Converti PCL in WMF tramite API C#
 description: Esporta PCL in WMF nelle tue applicazioni .NET senza utilizzare applicazioni di terze parti
-url: /it/net/conversion/pcl-to-wmf/
+url_ignore: /it/net/conversion/pcl-to-wmf/
 family: total
 platformtag: net
 feature: conversion

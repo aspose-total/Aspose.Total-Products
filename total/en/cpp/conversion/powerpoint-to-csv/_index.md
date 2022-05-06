@@ -1,7 +1,7 @@
 ---
 title: Convert POWERPOINT to CSV via C++ 
 description: Export POWERPOINT to CSV in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/powerpoint-to-csv/
+url_ignore: /cpp/conversion/powerpoint-to-csv/
 family: total
 platformtag: cpp
 feature: conversion

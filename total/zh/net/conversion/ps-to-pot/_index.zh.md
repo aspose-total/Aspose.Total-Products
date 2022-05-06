@@ -1,7 +1,7 @@
 ---
 title: 通过 C# API 将 PS 导出到 POT
 description: .NET API 在不使用 Microsoft Word 的情况下将 PS 转换为 POT
-url: /zh/net/conversion/ps-to-pot/
+url_ignore: /zh/net/conversion/ps-to-pot/
 family: total
 platformtag: net
 feature: conversion

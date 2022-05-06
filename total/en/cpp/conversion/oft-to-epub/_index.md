@@ -1,7 +1,7 @@
 ---
 title: Export OFT to EPUB via C++
 description: C++ API to Convert OFT to EPUB without using Microsoft Word or Outlook
-url: /cpp/conversion/oft-to-epub/
+url_ignore: /cpp/conversion/oft-to-epub/
 family: total
 platformtag: cpp
 feature: conversion

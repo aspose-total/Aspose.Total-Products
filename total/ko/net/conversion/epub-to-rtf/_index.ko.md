@@ -1,7 +1,7 @@
 ---
 title: EPUB을 RTF으로 내보내기 위한 C# API
 description: Microsoft Word를 사용하지 않고 EPUB을 RTF으로 변환
-url: /ko/net/conversion/epub-to-rtf/
+url_ignore: /ko/net/conversion/epub-to-rtf/
 family: total
 platformtag: net
 feature: conversion

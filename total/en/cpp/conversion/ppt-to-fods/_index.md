@@ -1,7 +1,7 @@
 ---
 title: Convert PPT to FODS via C++ 
 description: Export PPT to FODS in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/ppt-to-fods/
+url_ignore: /cpp/conversion/ppt-to-fods/
 family: total
 platformtag: cpp
 feature: conversion

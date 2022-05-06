@@ -1,7 +1,7 @@
 ---
 title: Java ile TXT'yi POT'ye dönüştürün
 description: Microsoft Word veya PowerPoint kullanmadan TXT'yi POT'ye Dışa Aktarmak için Java API
-url: /tr/java/conversion/txt-to-pot/
+url_ignore: /tr/java/conversion/txt-to-pot/
 family: total
 platformtag: net
 feature: conversion

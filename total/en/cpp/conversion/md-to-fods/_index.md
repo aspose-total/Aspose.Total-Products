@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MD to FODS
 description: Convert MD to FODS via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/md-to-fods/
+url_ignore: /cpp/conversion/md-to-fods/
 family: total
 platformtag: cpp
 feature: conversion

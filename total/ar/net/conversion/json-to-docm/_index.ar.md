@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى DOCM عبر .NET
 description: تحليل JSON إلى DOCM في C# بدون استخدام Microsoft Word
-url: /ar/net/conversion/json-to-docm/
+url_ignore: /ar/net/conversion/json-to-docm/
 family: total
 platformtag: net
 feature: conversion

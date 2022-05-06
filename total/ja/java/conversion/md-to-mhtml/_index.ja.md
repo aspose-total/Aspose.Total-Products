@@ -1,7 +1,7 @@
 ---
 title: MDをMHTMLにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してMDをMHTMLに変換する
-url: /ja/java/conversion/md-to-mhtml/
+url_ignore: /ja/java/conversion/md-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

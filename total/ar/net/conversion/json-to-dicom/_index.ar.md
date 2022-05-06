@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى DICOM عبر .NET
 description: تحليل JSON إلى DICOM في C# بدون استخدام تبعيات الطرف الثالث
-url: /ar/net/conversion/json-to-dicom/
+url_ignore: /ar/net/conversion/json-to-dicom/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: NET API لتحويل DOTM إلى XLTM
 description: C# API لتحويل DOTM إلى XLTM بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/dotm-to-xltm/
+url_ignore: /ar/net/conversion/dotm-to-xltm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert TEX to WMZ via C# API
 description: Export TEX to WMZ in your .NET applications without using any third party application 
-url: /net/conversion/tex-to-wmz/
+url_ignore: /net/conversion/tex-to-wmz/
 family: total
 platformtag: net
 feature: conversion

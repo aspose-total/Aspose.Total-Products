@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı OTT'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan OFT'i OTT'ye dönüştürün
-url: /tr/net/conversion/oft-to-ott/
+url_ignore: /tr/net/conversion/oft-to-ott/
 family: total
 platformtag: net
 feature: conversion

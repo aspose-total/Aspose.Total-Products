@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOCM to ODS
 description: Convert DOCM to ODS in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/docm-to-ods/
+url_ignore: /android-java/conversion/docm-to-ods/
 family: total
 platformtag: android-java
 feature: conversion

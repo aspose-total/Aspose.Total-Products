@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してPDFをPOTに変換する
 description: MicrosoftWordを使用せずにPDFをPOTに変換するJavaAPI
-url: /ja/java/conversion/pdf-to-pot/
+url_ignore: /ja/java/conversion/pdf-to-pot/
 family: total
 platformtag: net
 feature: conversion

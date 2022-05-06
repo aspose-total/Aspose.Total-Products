@@ -1,7 +1,7 @@
 ---
 title: Convert FLATOPC to POT in Android via Java
 description: FLATOPC to POT conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/flatopc-to-pot/
+url_ignore: /android-java/conversion/flatopc-to-pot/
 family: total
 platformtag: android-java
 feature: conversion

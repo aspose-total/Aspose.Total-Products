@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla PDF'yi DIF'ye dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan PDF Dosyasını DIF'ye Dönüştürmek için C# API'si
-url: /tr/net/conversion/pdf-to-dif/
+url_ignore: /tr/net/conversion/pdf-to-dif/
 family: total
 platformtag: net
 feature: conversion

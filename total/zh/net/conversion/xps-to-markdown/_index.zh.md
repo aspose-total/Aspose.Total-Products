@@ -1,7 +1,7 @@
 ---
 title: C# API 将 XPS 导出到 MARKDOWN
 description: 在不使用 Microsoft Word 的情况下将 XPS 转换为 MARKDOWN
-url: /zh/net/conversion/xps-to-markdown/
+url_ignore: /zh/net/conversion/xps-to-markdown/
 family: total
 platformtag: net
 feature: conversion
@@ -41,7 +41,8 @@ document.Save("DocOutput.doc", SaveFormat.Doc);
 var outputDocument = new Aspose.Words.Document("DocOutput.doc");
 
 outputDocument.Save("output.markdown", SaveFormat.Markdown);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -56,7 +57,8 @@ Document document = new Document("Decrypt.xps", "password");
 document.Decrypt();
  
 document.Save("Decrypt_out.doc");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -71,7 +73,8 @@ Document document = new Document("input.doc");
 doc.Protect(ProtectionType.ReadOnly, "password");
 
 document.Save("output.markdown", SaveFormat.Markdown);    
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

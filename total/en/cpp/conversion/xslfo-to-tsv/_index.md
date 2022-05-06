@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XSLFO to TSV
 description: Convert XSLFO to TSV via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xslfo-to-tsv/
+url_ignore: /cpp/conversion/xslfo-to-tsv/
 family: total
 platformtag: cpp
 feature: conversion

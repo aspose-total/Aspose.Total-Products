@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export MD to MARKDOWN
 description: Convert MD to MARKDOWN within C++ applications.
-url: /cpp/conversion/md-to-markdown/
+url_ignore: /cpp/conversion/md-to-markdown/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to POTM via .NET 
 description: Parse JSON to POTM in C# without using Microsoft PowerPoint
-url: /net/conversion/json-to-potm/
+url_ignore: /net/conversion/json-to-potm/
 family: total
 platformtag: net
 feature: conversion

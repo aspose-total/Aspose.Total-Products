@@ -1,7 +1,7 @@
 ---
 title: C# API untuk Mengekspor EMAIL ke PS
 description: Konversi EMAIL ke PS tanpa menggunakan Microsoft Word atau Outlook di .NET
-url: /id/net/conversion/email-to-ps/
+url_ignore: /id/net/conversion/email-to-ps/
 family: total
 platformtag: net
 feature: conversion

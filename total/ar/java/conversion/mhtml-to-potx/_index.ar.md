@@ -1,7 +1,7 @@
 ---
 title: تحويل MHTML إلى POTX عبر Java API
 description: Java API لتحويل MHTML إلى POTX دون استخدام Microsoft Word
-url: /ar/java/conversion/mhtml-to-potx/
+url_ignore: /ar/java/conversion/mhtml-to-potx/
 family: total
 platformtag: net
 feature: conversion

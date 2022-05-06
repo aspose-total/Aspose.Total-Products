@@ -1,7 +1,7 @@
 ---
 title: Android API to Render SVG to ODT
 description: Transform SVG to ODT via Android via Java API
-url: /android-java/conversion/svg-to-odt/
+url_ignore: /android-java/conversion/svg-to-odt/
 family: total
 platformtag: android-java
 feature: conversion

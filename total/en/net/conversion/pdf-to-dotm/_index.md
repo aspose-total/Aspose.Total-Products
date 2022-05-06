@@ -1,7 +1,7 @@
 ---
 title: C# API to Export PDF to DOTM
 description: Convert PDF to DOTM without using Microsoft Word
-url: /net/conversion/pdf-to-dotm/
+url_ignore: /net/conversion/pdf-to-dotm/
 family: total
 platformtag: net
 feature: conversion

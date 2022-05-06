@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to XLTM in C++
 description: C++ API to Convert RTF to XLTM without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/rtf-to-xltm/
+url_ignore: /cpp/conversion/rtf-to-xltm/
 family: total
 platformtag: cpp
 feature: conversion

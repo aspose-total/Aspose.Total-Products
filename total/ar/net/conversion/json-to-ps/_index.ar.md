@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى PS عبر .NET
 description: تحليل JSON إلى PS في C# بدون استخدام Microsoft Word
-url: /ar/net/conversion/json-to-ps/
+url_ignore: /ar/net/conversion/json-to-ps/
 family: total
 platformtag: net
 feature: conversion

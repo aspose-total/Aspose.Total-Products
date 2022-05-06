@@ -1,7 +1,7 @@
 ---
 title: API de Java para renderizar SVG a XLSB
 description: Exporte SVG a XLSB a través de la API de Java sin usar Microsoft Excel o Adobe Reader
-url: /es/java/conversion/svg-to-xlsb/
+url_ignore: /es/java/conversion/svg-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

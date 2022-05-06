@@ -1,7 +1,7 @@
 ---
 title: Java経由でJSON形式をEPUBに変換する
 description: MicrosoftWordを使用せずにJavaでJSONをEPUBに解析する
-url: /ja/java/conversion/json-to-epub/
+url_ignore: /ja/java/conversion/json-to-epub/
 family: total
 platformtag: net
 feature: conversion

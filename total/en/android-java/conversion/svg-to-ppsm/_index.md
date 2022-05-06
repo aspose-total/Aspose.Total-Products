@@ -1,7 +1,7 @@
 ---
 title: Export SVG to PPSM in Android 
 description: Android API to Convert SVG to PPSM without using Microsoft Word
-url: /android-java/conversion/svg-to-ppsm/
+url_ignore: /android-java/conversion/svg-to-ppsm/
 family: total
 platformtag: android-java
 feature: conversion

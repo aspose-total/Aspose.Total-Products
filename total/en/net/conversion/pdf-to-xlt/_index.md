@@ -1,7 +1,7 @@
 ---
 title: Convert PDF to XLT via C# API
 description: C# API to Convert PDF File to XLT without using Microsoft Excel or Adobe Reader
-url: /net/conversion/pdf-to-xlt/
+url_ignore: /net/conversion/pdf-to-xlt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converteer PCL naar WMZ via Java
 description: Exporteer PCL-bestand naar WMZ in uw Java-applicaties zonder een applicatie van derden te gebruiken
-url: /nl/java/conversion/pcl-to-wmz/
+url_ignore: /nl/java/conversion/pcl-to-wmz/
 family: total
 platformtag: net
 feature: conversion

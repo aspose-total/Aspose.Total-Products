@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert EPUB to SWF  
 description: Convert EPUB to SWF via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/epub-to-swf/
+url_ignore: /cpp/conversion/epub-to-swf/
 family: total
 platformtag: cpp
 feature: conversion

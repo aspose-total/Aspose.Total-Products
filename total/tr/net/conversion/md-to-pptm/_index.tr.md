@@ -1,7 +1,7 @@
 ---
 title: MD'yi C# API aracılığıyla PPTM'ye aktarın
 description: Microsoft Word kullanmadan MD'yi PPTM'ye dönüştürmek için .NET API
-url: /tr/net/conversion/md-to-pptm/
+url_ignore: /tr/net/conversion/md-to-pptm/
 family: total
 platformtag: net
 feature: conversion

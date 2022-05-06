@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してHTMLをDXFに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでHTMLをDXFにエクスポートします
-url: /ja/net/conversion/html-to-dxf/
+url_ignore: /ja/net/conversion/html-to-dxf/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MHTML to PPS  
 description: Convert MHTML to PPS via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/mhtml-to-pps/
+url_ignore: /cpp/conversion/mhtml-to-pps/
 family: total
 platformtag: cpp
 feature: conversion

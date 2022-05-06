@@ -1,7 +1,7 @@
 ---
 title: WORD'yi .NET aracılığıyla JSON formatına dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan WORD'yi C#'ta JSON'a dönüştürün
-url: /tr/net/conversion/word-to-json/
+url_ignore: /tr/net/conversion/word-to-json/
 family: total
 platformtag: net
 feature: conversion

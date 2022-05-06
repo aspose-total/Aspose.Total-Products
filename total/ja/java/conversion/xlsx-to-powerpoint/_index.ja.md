@@ -1,7 +1,7 @@
 ---
 title: Javaを使用してXLSXをPOWERPOINTに変換する
 description: ExcelまたはWordを使用してXLSXをPOWERPOINTにエクスポートするJavaAPI
-url: /ja/java/conversion/xlsx-to-powerpoint/
+url_ignore: /ja/java/conversion/xlsx-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

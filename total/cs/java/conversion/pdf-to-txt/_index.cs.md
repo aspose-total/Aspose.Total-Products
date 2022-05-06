@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení PDF do TXT
 description: Export PDF do TXT přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/pdf-to-txt/
+url_ignore: /cs/java/conversion/pdf-to-txt/
 family: total
 platformtag: net
 feature: conversion

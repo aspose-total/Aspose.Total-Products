@@ -1,7 +1,7 @@
 ---
 title: Convert PPT to RTF via Java
 description: Java API to Export PPT to RTF without using Microsoft Word or PowerPoint
-url: /java/conversion/ppt-to-rtf/
+url_ignore: /java/conversion/ppt-to-rtf/
 family: total
 platformtag: java
 feature: conversion

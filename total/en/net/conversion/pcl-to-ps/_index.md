@@ -1,7 +1,7 @@
 ---
 title: C# API to Export PCL to PS
 description: Convert PCL to PS without using Microsoft Word
-url: /net/conversion/pcl-to-ps/
+url_ignore: /net/conversion/pcl-to-ps/
 family: total
 platformtag: net
 feature: conversion

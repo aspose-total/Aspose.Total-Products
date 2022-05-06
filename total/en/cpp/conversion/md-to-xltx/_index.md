@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MD to XLTX
 description: Convert MD to XLTX via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/md-to-xltx/
+url_ignore: /cpp/conversion/md-to-xltx/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exportera MSG till MD via Java
 description: Java API för att konvertera MSG till MD utan att använda Microsoft Word eller Outlook
-url: /sv/java/conversion/msg-to-md/
+url_ignore: /sv/java/conversion/msg-to-md/
 family: total
 platformtag: net
 feature: conversion

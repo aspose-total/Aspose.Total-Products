@@ -1,7 +1,7 @@
 ---
 title: API Java para renderizar PCL para XLTX
 description: Exporte PCL para XLTX via API Java sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/java/conversion/pcl-to-xltx/
+url_ignore: /pt/java/conversion/pcl-to-xltx/
 family: total
 platformtag: net
 feature: conversion

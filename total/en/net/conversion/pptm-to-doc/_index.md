@@ -1,6 +1,6 @@
 ---
 title: Convert PPTM to DOC via C# .NET 
-url: /net/conversion/pptm-to-doc/ 
+url_ignore: /net/conversion/pptm-to-doc/ 
 description: Convert PowerPoint pptm documents to Word doc files with C#. Convert multiple files within ASP.NET or other .NET applications.
 ---
 

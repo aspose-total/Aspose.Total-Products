@@ -1,7 +1,7 @@
 ---
 title: Export MSG to PS via C++
 description: C++ API to Convert MSG to PS without using Microsoft Word or Outlook
-url: /cpp/conversion/msg-to-ps/
+url_ignore: /cpp/conversion/msg-to-ps/
 family: total
 platformtag: cpp
 feature: conversion

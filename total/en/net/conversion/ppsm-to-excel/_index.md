@@ -1,7 +1,7 @@
 ---
 title: Convert PPSM to EXCEL via C# 
 description: Convert PPSM to EXCEL in C# without using Microsoft Excel or Powerpoint
-url: /net/conversion/ppsm-to-excel/
+url_ignore: /net/conversion/ppsm-to-excel/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konwertuj format JSON na PCL za pomocą Javy
 description: Przetwarzaj JSON do PCL w Javie bez użycia Microsoft Word
-url: /pl/java/conversion/json-to-pcl/
+url_ignore: /pl/java/conversion/json-to-pcl/
 family: total
 platformtag: net
 feature: conversion

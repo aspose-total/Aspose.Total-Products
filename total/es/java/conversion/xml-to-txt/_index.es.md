@@ -1,7 +1,7 @@
 ---
 title: API de Java para renderizar XML a TXT
 description: Exporte XML a TXT a través de la API de Java sin usar Microsoft Excel o Adobe Reader
-url: /es/java/conversion/xml-to-txt/
+url_ignore: /es/java/conversion/xml-to-txt/
 family: total
 platformtag: net
 feature: conversion

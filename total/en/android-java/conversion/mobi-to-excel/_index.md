@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert MOBI to EXCEL
 description: Convert MOBI to EXCEL in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/mobi-to-excel/
+url_ignore: /android-java/conversion/mobi-to-excel/
 family: total
 platformtag: android-java
 feature: conversion

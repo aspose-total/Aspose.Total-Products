@@ -1,7 +1,7 @@
 ---
 title: Convert TEX to SXC via C# API
 description: C# API to Convert TEX File to SXC without using Microsoft Excel or Adobe Reader
-url: /net/conversion/tex-to-sxc/
+url_ignore: /net/conversion/tex-to-sxc/
 family: total
 platformtag: net
 feature: conversion

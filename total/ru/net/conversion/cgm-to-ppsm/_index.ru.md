@@ -1,7 +1,7 @@
 ---
 title: Экспорт CGM в PPSM через C# API
 description: .NET API для преобразования CGM в PPSM без использования Microsoft Word
-url: /ru/net/conversion/cgm-to-ppsm/
+url_ignore: /ru/net/conversion/cgm-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

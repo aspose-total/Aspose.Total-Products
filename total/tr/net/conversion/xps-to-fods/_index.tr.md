@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla XPS'yi FODS'ye dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan XPS Dosyasını FODS'ye Dönüştürmek için C# API'si
-url: /tr/net/conversion/xps-to-fods/
+url_ignore: /tr/net/conversion/xps-to-fods/
 family: total
 platformtag: net
 feature: conversion

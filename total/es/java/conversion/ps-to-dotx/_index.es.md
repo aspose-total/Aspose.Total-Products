@@ -1,7 +1,7 @@
 ---
 title: API de Java para exportar PS a DOTX
 description: Convierta PS a DOTX usando la API de Java en las instalaciones
-url: /es/java/conversion/ps-to-dotx/
+url_ignore: /es/java/conversion/ps-to-dotx/
 family: total
 platformtag: net
 feature: conversion

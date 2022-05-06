@@ -1,7 +1,7 @@
 ---
 title: C#을 통해 POTX을 XLSM로 변환
 description: Microsoft Excel 또는 Powerpoint를 사용하지 않고 C#에서 POTX을 XLSM로 변환
-url: /ko/net/conversion/potx-to-xlsm/
+url_ignore: /ko/net/conversion/potx-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

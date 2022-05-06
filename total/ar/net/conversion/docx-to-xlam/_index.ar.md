@@ -1,7 +1,7 @@
 ---
 title: NET API لتحويل DOCX إلى XLAM
 description: C# API لتحويل DOCX إلى XLAM بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/docx-to-xlam/
+url_ignore: /ar/net/conversion/docx-to-xlam/
 family: total
 platformtag: net
 feature: conversion

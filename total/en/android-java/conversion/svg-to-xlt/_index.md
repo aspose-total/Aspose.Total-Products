@@ -1,7 +1,7 @@
 ---
 title: Convert SVG to XLT in Android via Java
 description: Render SVG to XLT in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/svg-to-xlt/
+url_ignore: /android-java/conversion/svg-to-xlt/
 family: total
 platformtag: android-java
 feature: conversion

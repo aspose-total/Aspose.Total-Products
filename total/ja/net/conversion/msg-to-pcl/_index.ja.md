@@ -1,7 +1,7 @@
 ---
 title: MSGをPCLにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにMSGをPCLに変換する
-url: /ja/net/conversion/msg-to-pcl/
+url_ignore: /ja/net/conversion/msg-to-pcl/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API de Java para renderizar PDF a EXCEL
 description: Exporte PDF a EXCEL a través de la API de Java sin usar Microsoft Excel o Adobe Reader
-url: /es/java/conversion/pdf-to-excel/
+url_ignore: /es/java/conversion/pdf-to-excel/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convierta el formato JSON a PPSM a través de Java
 description: Analice JSON a PPSM en Java sin usar Microsoft PowerPoint
-url: /es/java/conversion/json-to-ppsm/
+url_ignore: /es/java/conversion/json-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

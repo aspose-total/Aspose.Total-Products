@@ -1,7 +1,7 @@
 ---
 title: Convert XLSM to WORD with .NET 
 description: Convert XLSM to WORD on .NET Framework, .NET Core, Mono or Xamarin Platforms
-url: /net/conversion/xlsm-to-word/
+url_ignore: /net/conversion/xlsm-to-word/
 family: total
 platformtag: net
 feature: conversion

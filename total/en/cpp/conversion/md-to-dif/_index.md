@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MD to DIF
 description: Convert MD to DIF via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/md-to-dif/
+url_ignore: /cpp/conversion/md-to-dif/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Mengonversi DOT ke FODS
 description: Konversi DOT ke FODS melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel
-url: /id/java/conversion/dot-to-fods/
+url_ignore: /id/java/conversion/dot-to-fods/
 family: total
 platformtag: net
 feature: conversion

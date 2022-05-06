@@ -1,7 +1,7 @@
 ---
 title: Convert DOC to ODP in Android via Java
 description: DOC to ODP conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/doc-to-odp/
+url_ignore: /android-java/conversion/doc-to-odp/
 family: total
 platformtag: android-java
 feature: conversion

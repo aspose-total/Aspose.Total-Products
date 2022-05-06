@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XSLFO to XLTX
 description: Convert XSLFO to XLTX via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xslfo-to-xltx/
+url_ignore: /cpp/conversion/xslfo-to-xltx/
 family: total
 platformtag: cpp
 feature: conversion

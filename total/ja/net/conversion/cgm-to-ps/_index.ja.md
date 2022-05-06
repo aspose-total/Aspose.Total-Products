@@ -1,7 +1,7 @@
 ---
 title: CGMをPSにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにCGMをPSに変換する
-url: /ja/net/conversion/cgm-to-ps/
+url_ignore: /ja/net/conversion/cgm-to-ps/
 family: total
 platformtag: net
 feature: conversion

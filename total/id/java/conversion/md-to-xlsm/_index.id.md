@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender MD ke XLSM
 description: Ekspor MD ke XLSM melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/md-to-xlsm/
+url_ignore: /id/java/conversion/md-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

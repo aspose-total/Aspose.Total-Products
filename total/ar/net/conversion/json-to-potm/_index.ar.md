@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى POTM عبر .NET
 description: تحليل JSON إلى POTM في C# بدون استخدام Microsoft PowerPoint
-url: /ar/net/conversion/json-to-potm/
+url_ignore: /ar/net/conversion/json-to-potm/
 family: total
 platformtag: net
 feature: conversion

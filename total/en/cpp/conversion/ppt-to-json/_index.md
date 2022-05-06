@@ -1,7 +1,7 @@
 ---
 title: Convert PPT to JSON format via C++ 
 description: Export PPT to JSON format in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/ppt-to-json/
+url_ignore: /cpp/conversion/ppt-to-json/
 family: total
 platformtag: cpp
 feature: conversion

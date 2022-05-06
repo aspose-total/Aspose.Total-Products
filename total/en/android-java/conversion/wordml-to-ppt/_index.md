@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to PPT in Android via Java
 description: WORDML to PPT conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/wordml-to-ppt/
+url_ignore: /android-java/conversion/wordml-to-ppt/
 family: total
 platformtag: android-java
 feature: conversion

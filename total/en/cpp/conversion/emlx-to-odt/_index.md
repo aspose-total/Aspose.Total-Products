@@ -1,7 +1,7 @@
 ---
 title: Export EMLX to ODT via C++
 description: C++ API to Convert EMLX to ODT without using Microsoft Word or Outlook
-url: /cpp/conversion/emlx-to-odt/
+url_ignore: /cpp/conversion/emlx-to-odt/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PDF to OTT
 description: Transform PDF to OTT via Android via Java API
-url: /android-java/conversion/pdf-to-ott/
+url_ignore: /android-java/conversion/pdf-to-ott/
 family: total
 platformtag: android-java
 feature: conversion

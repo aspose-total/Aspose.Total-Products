@@ -1,7 +1,7 @@
 ---
 title: Render EML to MD in Andorid App
 description: Export EML to MD without using Microsoft Word or Outlook in you Andorid applications 
-url: /android-java/conversion/eml-to-md/
+url_ignore: /android-java/conversion/eml-to-md/
 family: total
 platformtag: android-java
 feature: conversion

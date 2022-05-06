@@ -1,7 +1,7 @@
 ---
 title: EPUB'yi C# API aracılığıyla POTM'ye aktarın
 description: Microsoft Word kullanmadan EPUB'yi POTM'ye dönüştürmek için .NET API
-url: /tr/net/conversion/epub-to-potm/
+url_ignore: /tr/net/conversion/epub-to-potm/
 family: total
 platformtag: net
 feature: conversion

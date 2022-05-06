@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení PDF do TSV
 description: Export PDF do TSV přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/pdf-to-tsv/
+url_ignore: /cs/java/conversion/pdf-to-tsv/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converter MD para DIF via API C#
 description: API C# para converter arquivo MD em DIF sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/md-to-dif/
+url_ignore: /pt/net/conversion/md-to-dif/
 family: total
 platformtag: net
 feature: conversion

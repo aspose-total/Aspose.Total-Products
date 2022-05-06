@@ -1,7 +1,7 @@
 ---
 title: Convert POWERPOINT to XLT Format via Java
 description: Convert POWERPOINT to XLT format via Java without using using Microsoft Excel or PowerPoint
-url: /java/conversion/powerpoint-to-xlt/
+url_ignore: /java/conversion/powerpoint-to-xlt/
 family: total
 platformtag: java
 feature: conversion

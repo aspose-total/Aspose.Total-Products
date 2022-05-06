@@ -1,7 +1,7 @@
 ---
 title: API Java para exportar MHTML para PS
 description: Converter MHTML para PS usando a API Java local
-url: /pt/java/conversion/mhtml-to-ps/
+url_ignore: /pt/java/conversion/mhtml-to-ps/
 family: total
 platformtag: net
 feature: conversion

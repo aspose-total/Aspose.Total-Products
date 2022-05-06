@@ -1,7 +1,7 @@
 ---
 title: CGMをODTにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにCGMをODTに変換する
-url: /ja/net/conversion/cgm-to-odt/
+url_ignore: /ja/net/conversion/cgm-to-odt/
 family: total
 platformtag: net
 feature: conversion

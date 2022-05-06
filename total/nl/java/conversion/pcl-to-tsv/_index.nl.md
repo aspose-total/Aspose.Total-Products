@@ -1,7 +1,7 @@
 ---
 title: Java API om PCL naar TSV te renderen
 description: Exporteer PCL naar TSV via Java API zonder Microsoft Excel of Adobe Reader te gebruiken
-url: /nl/java/conversion/pcl-to-tsv/
+url_ignore: /nl/java/conversion/pcl-to-tsv/
 family: total
 platformtag: net
 feature: conversion

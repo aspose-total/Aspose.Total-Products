@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PS to TSV
 description: Convert PS to TSV via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/ps-to-tsv/
+url_ignore: /cpp/conversion/ps-to-tsv/
 family: total
 platformtag: cpp
 feature: conversion

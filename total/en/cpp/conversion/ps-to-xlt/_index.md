@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PS to XLT
 description: Convert PS to XLT via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/ps-to-xlt/
+url_ignore: /cpp/conversion/ps-to-xlt/
 family: total
 platformtag: cpp
 feature: conversion

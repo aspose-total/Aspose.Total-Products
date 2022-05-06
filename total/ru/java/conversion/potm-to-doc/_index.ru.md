@@ -1,7 +1,7 @@
 ---
 title: Конвертировать POTM в DOC через Java
 description: Java API для экспорта POTM в DOC без использования Microsoft Word или PowerPoint
-url: /ru/java/conversion/potm-to-doc/
+url_ignore: /ru/java/conversion/potm-to-doc/
 family: total
 platformtag: net
 feature: conversion

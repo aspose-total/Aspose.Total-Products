@@ -1,7 +1,7 @@
 ---
 title: Export EML to PCL via Java 
 description: Java API to Convert EML to PCL without using Microsoft Word or Outlook 
-url: /java/conversion/eml-to-pcl/
+url_ignore: /java/conversion/eml-to-pcl/
 family: total
 platformtag: java
 feature: conversion

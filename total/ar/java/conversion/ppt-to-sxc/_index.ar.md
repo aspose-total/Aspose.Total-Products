@@ -1,7 +1,7 @@
 ---
 title: تحويل PPT إلى تنسيق SXC عبر Java
 description: قم بتحويل PPT إلى تنسيق SXC عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/ppt-to-sxc/
+url_ignore: /ar/java/conversion/ppt-to-sxc/
 family: total
 platformtag: net
 feature: conversion

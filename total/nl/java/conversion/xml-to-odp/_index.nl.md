@@ -1,7 +1,7 @@
 ---
 title: Converteer XML naar ODP via Java API
 description: Java API om XML naar ODP te converteren zonder Microsoft Word te gebruiken
-url: /nl/java/conversion/xml-to-odp/
+url_ignore: /nl/java/conversion/xml-to-odp/
 family: total
 platformtag: net
 feature: conversion

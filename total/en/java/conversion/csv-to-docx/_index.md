@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to DOCX using Java 
 description: Java API to Export CSV to DOCX with using Excel or Word 
-url: /java/conversion/csv-to-docx/
+url_ignore: /java/conversion/csv-to-docx/
 family: total
 platformtag: java
 feature: conversion

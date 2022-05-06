@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOTX to EXCEL
 description: Convert DOTX to EXCEL in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/dotx-to-excel/
+url_ignore: /android-java/conversion/dotx-to-excel/
 family: total
 platformtag: android-java
 feature: conversion

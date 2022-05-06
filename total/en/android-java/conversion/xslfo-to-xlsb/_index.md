@@ -1,7 +1,7 @@
 ---
 title: Convert XSLFO to XLSB in Android via Java
 description: Render XSLFO to XLSB in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/xslfo-to-xlsb/
+url_ignore: /android-java/conversion/xslfo-to-xlsb/
 family: total
 platformtag: android-java
 feature: conversion

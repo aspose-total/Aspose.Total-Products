@@ -1,7 +1,7 @@
 ---
 title: Convert POT to MHTML via C++ 
 description: Export POT to MHTML in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pot-to-mhtml/
+url_ignore: /cpp/conversion/pot-to-mhtml/
 family: total
 platformtag: cpp
 feature: conversion

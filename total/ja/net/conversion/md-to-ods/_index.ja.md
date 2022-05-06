@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMDをODSに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにMDファイルをODSに変換するC＃API
-url: /ja/net/conversion/md-to-ods/
+url_ignore: /ja/net/conversion/md-to-ods/
 family: total
 platformtag: net
 feature: conversion

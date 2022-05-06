@@ -1,7 +1,7 @@
 ---
 title: Converter PPSX para formato FODS via Java
 description: Converta o formato PPSX para FODS via Java sem usar o Microsoft Excel ou PowerPoint
-url: /pt/java/conversion/ppsx-to-fods/
+url_ignore: /pt/java/conversion/ppsx-to-fods/
 family: total
 platformtag: net
 feature: conversion

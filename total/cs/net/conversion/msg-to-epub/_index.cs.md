@@ -1,7 +1,7 @@
 ---
 title: C# API pro export MSG do EPUB
 description: Převeďte MSG na EPUB bez použití Microsoft Word nebo Outlook na .NET
-url: /cs/net/conversion/msg-to-epub/
+url_ignore: /cs/net/conversion/msg-to-epub/
 family: total
 platformtag: net
 feature: conversion

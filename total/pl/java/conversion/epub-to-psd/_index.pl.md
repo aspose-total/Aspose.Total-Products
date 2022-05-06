@@ -1,7 +1,7 @@
 ---
 title: Konwertuj EPUB na PSD przez Java
 description: Eksportuj plik EPUB do PSD w swoich aplikacjach Java bez korzystania z aplikacji innych firm
-url: /pl/java/conversion/epub-to-psd/
+url_ignore: /pl/java/conversion/epub-to-psd/
 family: total
 platformtag: net
 feature: conversion

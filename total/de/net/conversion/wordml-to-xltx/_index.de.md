@@ -1,7 +1,7 @@
 ---
 title: .NET-API zum Konvertieren von WORDML in XLTX
 description: C#-API zum Konvertieren von WORDML in XLTX ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/wordml-to-xltx/
+url_ignore: /de/net/conversion/wordml-to-xltx/
 family: total
 platformtag: net
 feature: conversion

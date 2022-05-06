@@ -1,7 +1,7 @@
 ---
 title: Converti TSV in DOC usando Java
 description: API Java per esportare TSV in DOC utilizzando Excel o Word
-url: /it/java/conversion/tsv-to-doc/
+url_ignore: /it/java/conversion/tsv-to-doc/
 family: total
 platformtag: net
 feature: conversion

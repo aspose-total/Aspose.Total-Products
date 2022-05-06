@@ -1,7 +1,7 @@
 ---
 title: C# API untuk Mengekspor OFT ke TIFF
 description: Konversi OFT ke TIFF tanpa menggunakan Microsoft Word atau Outlook di .NET
-url: /id/net/conversion/oft-to-tiff/
+url_ignore: /id/net/conversion/oft-to-tiff/
 family: total
 platformtag: net
 feature: conversion

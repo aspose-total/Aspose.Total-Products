@@ -1,7 +1,7 @@
 ---
 title: Преобразование PPS в CSV через C#
 description: Преобразование PPS в CSV на C# без использования Microsoft Excel или Powerpoint
-url: /ru/net/conversion/pps-to-csv/
+url_ignore: /ru/net/conversion/pps-to-csv/
 family: total
 platformtag: net
 feature: conversion
@@ -33,7 +33,8 @@ otherformats: MHTML XLS ODS XLSM MARKDOWN XLTX TSV FODS XLSX DIF EXCEL XLTM SXC 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ otherformats: MHTML XLS ODS XLSM MARKDOWN XLTX TSV FODS XLSX DIF EXCEL XLTM SXC 
 При преобразовании файла PPS в CSV, если ваш входной документ PPS защищен паролем, вы не можете преобразовать его в CSV без расшифровки документа. Когда ваш документ защищен паролем, это означает, что он налагает определенные ограничения на представление. Для снятия ограничений необходимо ввести пароль. Презентация, защищенная паролем, считается заблокированной презентацией. API позволяет открыть зашифрованный документ, указав правильный пароль в объекте LoadOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: MHTML XLS ODS XLSM MARKDOWN XLTX TSV FODS XLSX DIF EXCEL XLTM SXC 
 При преобразовании файла PPS в CSV вы также можете добавить водяной знак в формат выходного файла CSV. Чтобы добавить водяной знак, вы можете создать новый объект Workbook и открыть преобразованный HTML-документ, выбрать Worksheet через его индекс, создать Shape и использовать его функцию AddTextEffect. После этого вы можете сохранить свой HTML-документ в формате CSV с водяным знаком. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

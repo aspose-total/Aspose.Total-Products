@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını .NET aracılığıyla FLATOPC'ye dönüştürün
 description: Microsoft Word kullanmadan JSON'u C# ile FLATOPC'ye ayrıştırın
-url: /tr/net/conversion/json-to-flatopc/
+url_ignore: /tr/net/conversion/json-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

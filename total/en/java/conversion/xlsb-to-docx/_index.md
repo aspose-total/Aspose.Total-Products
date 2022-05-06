@@ -1,7 +1,7 @@
 ---
 title: Convert XLSB to DOCX using Java 
 description: Java API to Export XLSB to DOCX with using Excel or Word 
-url: /java/conversion/xlsb-to-docx/
+url_ignore: /java/conversion/xlsb-to-docx/
 family: total
 platformtag: java
 feature: conversion

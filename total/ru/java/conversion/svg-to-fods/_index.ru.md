@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга SVG в FODS
 description: Экспорт SVG в FODS через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/svg-to-fods/
+url_ignore: /ru/java/conversion/svg-to-fods/
 family: total
 platformtag: net
 feature: conversion

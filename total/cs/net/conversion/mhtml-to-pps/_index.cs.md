@@ -1,7 +1,7 @@
 ---
 title: Export MHTML do PPS přes C# API
 description: .NET API pro převod MHTML na PPS bez použití aplikace Microsoft Word
-url: /cs/net/conversion/mhtml-to-pps/
+url_ignore: /cs/net/conversion/mhtml-to-pps/
 family: total
 platformtag: net
 feature: conversion

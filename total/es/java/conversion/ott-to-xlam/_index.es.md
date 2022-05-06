@@ -1,7 +1,7 @@
 ---
 title: API de Java para convertir OTT a XLAM
 description: Convierta OTT a XLAM a través de Java sin usar Microsoft Word o Microsoft Excel
-url: /es/java/conversion/ott-to-xlam/
+url_ignore: /es/java/conversion/ott-to-xlam/
 family: total
 platformtag: net
 feature: conversion

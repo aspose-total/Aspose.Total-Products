@@ -1,7 +1,7 @@
 ---
 title: SVGをPSにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してSVGをPSに変換する
-url: /ja/java/conversion/svg-to-ps/
+url_ignore: /ja/java/conversion/svg-to-ps/
 family: total
 platformtag: net
 feature: conversion

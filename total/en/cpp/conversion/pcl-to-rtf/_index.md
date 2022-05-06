@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PCL to RTF
 description: Convert PCL to RTF within C++ applications.
-url: /cpp/conversion/pcl-to-rtf/
+url_ignore: /cpp/conversion/pcl-to-rtf/
 family: total
 platformtag: cpp
 feature: conversion

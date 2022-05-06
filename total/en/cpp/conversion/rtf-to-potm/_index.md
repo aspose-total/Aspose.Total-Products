@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to POTM via C++
 description: Export RTF to POTM in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/rtf-to-potm/
+url_ignore: /cpp/conversion/rtf-to-potm/
 family: total
 platformtag: cpp
 feature: conversion

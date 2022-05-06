@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PS to CSV
 description: Convert PS to CSV via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/ps-to-csv/
+url_ignore: /cpp/conversion/ps-to-csv/
 family: total
 platformtag: cpp
 feature: conversion

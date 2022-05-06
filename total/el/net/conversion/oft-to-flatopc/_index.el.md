@@ -1,7 +1,7 @@
 ---
 title: C# API για εξαγωγή OFT σε FLATOPC
 description: Μετατροπή OFT σε FLATOPC χωρίς χρήση του Microsoft Word ή του Outlook στο .NET
-url: /el/net/conversion/oft-to-flatopc/
+url_ignore: /el/net/conversion/oft-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

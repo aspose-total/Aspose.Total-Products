@@ -1,7 +1,7 @@
 ---
 title: Convert DOTX to EXCEL via .NET 
 description: Convert DOTX to EXCEL in C# without using Microsoft Excel or Adobe Reader
-url: /net/conversion/dotx-to-excel/
+url_ignore: /net/conversion/dotx-to-excel/
 family: total
 platformtag: net
 feature: conversion

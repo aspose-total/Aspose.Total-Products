@@ -1,7 +1,7 @@
 ---
 title: تحويل PPTM إلى تنسيق XLS عبر Java
 description: قم بتحويل PPTM إلى تنسيق XLS عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/pptm-to-xls/
+url_ignore: /ar/java/conversion/pptm-to-xls/
 family: total
 platformtag: net
 feature: conversion

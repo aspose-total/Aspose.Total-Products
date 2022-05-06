@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to PPT via C++ 
 description: Parse JSON to PPT in C++ without using Microsoft PowerPoint
-url: /cpp/conversion/json-to-ppt/
+url_ignore: /cpp/conversion/json-to-ppt/
 family: total
 platformtag: cpp
 feature: conversion

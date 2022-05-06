@@ -1,7 +1,7 @@
 ---
 title: Export XSLFO to PPTM in Android 
 description: Android API to Convert XSLFO to PPTM without using Microsoft Word
-url: /android-java/conversion/xslfo-to-pptm/
+url_ignore: /android-java/conversion/xslfo-to-pptm/
 family: total
 platformtag: android-java
 feature: conversion

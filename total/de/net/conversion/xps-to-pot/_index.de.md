@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie XPS über die C#-API nach POT
 description: .NET-API zum Konvertieren von XPS in POT ohne Verwendung von Microsoft Word
-url: /de/net/conversion/xps-to-pot/
+url_ignore: /de/net/conversion/xps-to-pot/
 family: total
 platformtag: net
 feature: conversion

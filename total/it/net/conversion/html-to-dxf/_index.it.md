@@ -1,7 +1,7 @@
 ---
 title: Converti HTML in DXF tramite API C#
 description: Esporta HTML in DXF nelle tue applicazioni .NET senza utilizzare applicazioni di terze parti
-url: /it/net/conversion/html-to-dxf/
+url_ignore: /it/net/conversion/html-to-dxf/
 family: total
 platformtag: net
 feature: conversion

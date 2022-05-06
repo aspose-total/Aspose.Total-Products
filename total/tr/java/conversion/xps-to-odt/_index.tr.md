@@ -1,7 +1,7 @@
 ---
 title: XPS'yi ODT'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak XPS'yi ODT'ye dönüştürün
-url: /tr/java/conversion/xps-to-odt/
+url_ignore: /tr/java/conversion/xps-to-odt/
 family: total
 platformtag: net
 feature: conversion

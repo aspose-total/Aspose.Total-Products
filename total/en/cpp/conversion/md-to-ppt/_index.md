@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MD to PPT  
 description: Convert MD to PPT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/md-to-ppt/
+url_ignore: /cpp/conversion/md-to-ppt/
 family: total
 platformtag: cpp
 feature: conversion

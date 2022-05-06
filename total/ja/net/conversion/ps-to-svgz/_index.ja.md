@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPSをSVGZに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでPSをSVGZにエクスポートします
-url: /ja/net/conversion/ps-to-svgz/
+url_ignore: /ja/net/conversion/ps-to-svgz/
 family: total
 platformtag: net
 feature: conversion

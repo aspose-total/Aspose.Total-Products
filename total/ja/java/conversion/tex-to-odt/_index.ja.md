@@ -1,7 +1,7 @@
 ---
 title: TEXをODTにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してTEXをODTに変換する
-url: /ja/java/conversion/tex-to-odt/
+url_ignore: /ja/java/conversion/tex-to-odt/
 family: total
 platformtag: net
 feature: conversion

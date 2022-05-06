@@ -1,7 +1,7 @@
 ---
 title: Export EPUB to OTP in Android 
 description: Android API to Convert EPUB to OTP without using Microsoft Word
-url: /android-java/conversion/epub-to-otp/
+url_ignore: /android-java/conversion/epub-to-otp/
 family: total
 platformtag: android-java
 feature: conversion

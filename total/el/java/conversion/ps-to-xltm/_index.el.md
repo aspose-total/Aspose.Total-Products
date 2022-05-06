@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση PS σε XLTM
 description: Εξαγωγή PS σε XLTM μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/ps-to-xltm/
+url_ignore: /el/java/conversion/ps-to-xltm/
 family: total
 platformtag: net
 feature: conversion

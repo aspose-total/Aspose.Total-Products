@@ -1,7 +1,7 @@
 ---
 title: .NETを介してJSON形式をPCLに変換する
 description: Microsoft Wordを使用せずにC＃でJSONをPCLに解析する
-url: /ja/net/conversion/json-to-pcl/
+url_ignore: /ja/net/conversion/json-to-pcl/
 family: total
 platformtag: net
 feature: conversion

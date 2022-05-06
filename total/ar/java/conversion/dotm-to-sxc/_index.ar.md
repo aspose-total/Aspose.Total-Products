@@ -1,7 +1,7 @@
 ---
 title: Java API لتحويل DOTM إلى SXC
 description: قم بتحويل DOTM إلى SXC عبر Java دون استخدام Microsoft Word أو Microsoft Excel
-url: /ar/java/conversion/dotm-to-sxc/
+url_ignore: /ar/java/conversion/dotm-to-sxc/
 family: total
 platformtag: net
 feature: conversion

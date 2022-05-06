@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a POWERPOINT-ot DOCM-ba Java segítségével
 description: Java API a POWERPOINT exportálásához DOCM-ba Microsoft Word vagy PowerPoint használata nélkül
-url: /hu/java/conversion/powerpoint-to-docm/
+url_ignore: /hu/java/conversion/powerpoint-to-docm/
 family: total
 platformtag: net
 feature: conversion
@@ -24,7 +24,7 @@ otherformats: TEXT DOTX DOCMX WORDML FLATOPC DOT ODT RTF WORD DOCM OTT DOTM
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 A POWERPOINT-ból DOCM-fájlba konvertálásához egyszerűen használhatja az Aspose.Total for Java-t közvetlenül a [Maven]-ből (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) alapú projektet, és vegyen fel könyvtárakat a pom.xml fájlba.
 
-Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads] webhelyről (https://downloads.aspose.com/total/java).
+Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

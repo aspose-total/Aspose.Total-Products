@@ -1,7 +1,7 @@
 ---
 title: C#-API zum Exportieren von PDF nach GIF
 description: Konvertieren Sie PDF in GIF, ohne Microsoft Word zu verwenden
-url: /de/net/conversion/pdf-to-gif/
+url_ignore: /de/net/conversion/pdf-to-gif/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API to Export CGM to RTF
 description: Convert CGM to RTF using on premise Java API
-url: /java/conversion/cgm-to-rtf/
+url_ignore: /java/conversion/cgm-to-rtf/
 family: total
 platformtag: java
 feature: conversion

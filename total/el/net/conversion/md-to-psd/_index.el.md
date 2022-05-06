@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή MD σε PSD μέσω C# API
 description: Εξάγετε το MD σε PSD στις εφαρμογές σας .NET χωρίς να χρησιμοποιήσετε καμία εφαρμογή τρίτου μέρους
-url: /el/net/conversion/md-to-psd/
+url_ignore: /el/net/conversion/md-to-psd/
 family: total
 platformtag: net
 feature: conversion

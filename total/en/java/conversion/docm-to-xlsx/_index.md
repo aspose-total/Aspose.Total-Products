@@ -1,7 +1,7 @@
 ---
 title: Convert DOCM to XLSX via Java
 description: Convert DOCM to XLSX via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/docm-to-xlsx/
+url_ignore: /java/conversion/docm-to-xlsx/
 family: total
 platformtag: java
 feature: conversion

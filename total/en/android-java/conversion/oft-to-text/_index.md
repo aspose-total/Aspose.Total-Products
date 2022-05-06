@@ -1,7 +1,7 @@
 ---
 title: Render OFT to TEXT in Andorid App
 description: Export OFT to TEXT without using Microsoft Word or Outlook in you Andorid applications 
-url: /android-java/conversion/oft-to-text/
+url_ignore: /android-java/conversion/oft-to-text/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convierta TXT a PPSM a través de Java
 description: API de Java para exportar TXT a PPSM sin usar Microsoft Word o PowerPoint
-url: /es/java/conversion/txt-to-ppsm/
+url_ignore: /es/java/conversion/txt-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

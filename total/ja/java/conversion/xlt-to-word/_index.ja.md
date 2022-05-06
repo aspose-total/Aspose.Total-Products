@@ -1,7 +1,7 @@
 ---
 title: Javaを使用してXLTをWORDに変換する
 description: ExcelまたはWordを使用してXLTをWORDにエクスポートするJavaAPI
-url: /ja/java/conversion/xlt-to-word/
+url_ignore: /ja/java/conversion/xlt-to-word/
 family: total
 platformtag: net
 feature: conversion

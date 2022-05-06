@@ -1,7 +1,7 @@
 ---
 title: قم بتصدير EMAIL إلى ODT عبر Java
 description: Java API لتحويل البريد الإلكتروني إلى ODT دون استخدام Microsoft Word أو Outlook
-url: /ar/java/conversion/email-to-odt/
+url_ignore: /ar/java/conversion/email-to-odt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOTX to SXC
 description: Convert DOTX to SXC in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/dotx-to-sxc/
+url_ignore: /android-java/conversion/dotx-to-sxc/
 family: total
 platformtag: android-java
 feature: conversion

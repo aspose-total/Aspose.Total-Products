@@ -1,7 +1,7 @@
 ---
 title: OFTをFLATOPCにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにOFTをFLATOPCに変換する
-url: /ja/net/conversion/oft-to-flatopc/
+url_ignore: /ja/net/conversion/oft-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

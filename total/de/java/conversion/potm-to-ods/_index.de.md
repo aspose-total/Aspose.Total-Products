@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie POTM über Java in das ODS-Format
 description: Konvertieren Sie POTM über Java in das ODS-Format, ohne Microsoft Excel oder PowerPoint zu verwenden
-url: /de/java/conversion/potm-to-ods/
+url_ignore: /de/java/conversion/potm-to-ods/
 family: total
 platformtag: net
 feature: conversion

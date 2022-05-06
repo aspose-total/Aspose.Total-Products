@@ -1,7 +1,7 @@
 ---
 title: Export CGM to POTX in Android 
 description: Android API to Convert CGM to POTX without using Microsoft Word
-url: /android-java/conversion/cgm-to-potx/
+url_ignore: /android-java/conversion/cgm-to-potx/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してEPUBをSXCに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにEPUBファイルをSXCに変換するC＃API
-url: /ja/net/conversion/epub-to-sxc/
+url_ignore: /ja/net/conversion/epub-to-sxc/
 family: total
 platformtag: net
 feature: conversion

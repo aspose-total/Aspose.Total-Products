@@ -1,7 +1,7 @@
 ---
 title: MHTMLをGIFにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してMHTMLをGIFに変換する
-url: /ja/java/conversion/mhtml-to-gif/
+url_ignore: /ja/java/conversion/mhtml-to-gif/
 family: total
 platformtag: net
 feature: conversion

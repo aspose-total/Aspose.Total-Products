@@ -1,7 +1,7 @@
 ---
 title: JSON प्रारूप को .NET के माध्यम से एपीएनजी में कनवर्ट करें
 description: तीसरे पक्ष की निर्भरता का उपयोग किए बिना JSON को C# में DICOM में पार्स करें
-url: /hi/net/conversion/json-to-dicom/
+url_ignore: /hi/net/conversion/json-to-dicom/
 family: total
 platformtag: net
 feature: conversion

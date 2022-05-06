@@ -1,7 +1,7 @@
 ---
 title: MD'yi ODT'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak MD'yi ODT'ye dönüştürün
-url: /tr/java/conversion/md-to-odt/
+url_ignore: /tr/java/conversion/md-to-odt/
 family: total
 platformtag: net
 feature: conversion

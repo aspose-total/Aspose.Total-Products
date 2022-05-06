@@ -1,7 +1,7 @@
 ---
 title: Converti PS in PPS tramite API Java
 description: API Java per convertire PS in PPS senza utilizzare Microsoft Word
-url: /it/java/conversion/ps-to-pps/
+url_ignore: /it/java/conversion/ps-to-pps/
 family: total
 platformtag: net
 feature: conversion

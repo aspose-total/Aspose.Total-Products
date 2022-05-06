@@ -1,7 +1,7 @@
 ---
 title: Convert SVG to XAML via Java API
 description: Java API to Convert SVG to XAML without using Microsoft Word
-url: /java/conversion/svg-to-xaml/
+url_ignore: /java/conversion/svg-to-xaml/
 family: total
 platformtag: java
 feature: conversion

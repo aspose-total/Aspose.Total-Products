@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก EMAIL ไปยัง GIF
 description: แปลง EMAIL เป็น GIF โดยไม่ต้องใช้ Microsoft Word หรือ Outlook บน .NET
-url: /th/net/conversion/email-to-gif/
+url_ignore: /th/net/conversion/email-to-gif/
 family: total
 platformtag: net
 feature: conversion

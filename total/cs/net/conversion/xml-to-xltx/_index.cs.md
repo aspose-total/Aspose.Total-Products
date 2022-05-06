@@ -1,7 +1,7 @@
 ---
 title: Převeďte XML na XLTX přes C# API
 description: C# API pro převod souboru XML do XLTX bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/xml-to-xltx/
+url_ignore: /cs/net/conversion/xml-to-xltx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert WORDML to XLSB
 description: Convert WORDML to XLSB in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/wordml-to-xlsb/
+url_ignore: /android-java/conversion/wordml-to-xlsb/
 family: total
 platformtag: android-java
 feature: conversion

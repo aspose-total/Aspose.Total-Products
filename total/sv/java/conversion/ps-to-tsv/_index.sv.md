@@ -1,7 +1,7 @@
 ---
 title: Java API för att rendera PS till TSV
 description: Exportera PS till TSV via Java API utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/java/conversion/ps-to-tsv/
+url_ignore: /sv/java/conversion/ps-to-tsv/
 family: total
 platformtag: net
 feature: conversion

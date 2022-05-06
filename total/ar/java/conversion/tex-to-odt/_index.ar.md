@@ -1,7 +1,7 @@
 ---
 title: Java API لتصدير TEX إلى ODT
 description: قم بتحويل TEX إلى ODT باستخدام Java API في مكان العمل
-url: /ar/java/conversion/tex-to-odt/
+url_ignore: /ar/java/conversion/tex-to-odt/
 family: total
 platformtag: net
 feature: conversion

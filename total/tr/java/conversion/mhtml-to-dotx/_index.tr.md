@@ -1,7 +1,7 @@
 ---
 title: MHTML'yi DOTX'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak MHTML'yi DOTX'ye dönüştürün
-url: /tr/java/conversion/mhtml-to-dotx/
+url_ignore: /tr/java/conversion/mhtml-to-dotx/
 family: total
 platformtag: net
 feature: conversion

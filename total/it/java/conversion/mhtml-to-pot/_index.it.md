@@ -1,7 +1,7 @@
 ---
 title: Converti MHTML in POT tramite API Java
 description: API Java per convertire MHTML in POT senza utilizzare Microsoft Word
-url: /it/java/conversion/mhtml-to-pot/
+url_ignore: /it/java/conversion/mhtml-to-pot/
 family: total
 platformtag: net
 feature: conversion

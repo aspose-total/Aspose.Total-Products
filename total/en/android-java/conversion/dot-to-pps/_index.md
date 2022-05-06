@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to PPS in Android via Java
 description: DOT to PPS conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/dot-to-pps/
+url_ignore: /android-java/conversion/dot-to-pps/
 family: total
 platformtag: android-java
 feature: conversion

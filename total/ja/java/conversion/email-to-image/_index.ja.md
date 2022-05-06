@@ -1,7 +1,7 @@
 ---
 title: Java経由でEMAILをIMAGEにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにEMAILをIMAGEに変換するJavaAPI
-url: /ja/java/conversion/email-to-image/
+url_ignore: /ja/java/conversion/email-to-image/
 family: total
 platformtag: net
 feature: conversion

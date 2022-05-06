@@ -1,7 +1,7 @@
 ---
 title: Java API để kết xuất PS sang MD
 description: Xuất PS sang MD qua Java API mà không cần sử dụng Microsoft Excel hoặc Adobe Reader
-url: /vi/java/conversion/ps-to-md/
+url_ignore: /vi/java/conversion/ps-to-md/
 family: total
 platformtag: net
 feature: conversion
@@ -19,7 +19,7 @@ Bằng cách sử dụng [Aspose.Total for Java](https://products.aspose.com/tot
 1. Mở tệp PS bằng lớp [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. Chuyển đổi PS sang XLSX bằng cách sử dụng [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) phương pháp
 3. Tải tài liệu XLSX bằng cách sử dụng lớp [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Lưu tài liệu sang định dạng MD bằng cách sử dụng [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells).SaveOptions)) Phương thức 
+4. Lưu tài liệu sang định dạng MD bằng cách sử dụng [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells)).SaveOptions)) Phương thức 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
 Bạn có thể dễ dàng sử dụng Aspose.Total for Java trực tiếp từ dự án dựa trên [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và bao gồm [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) và [Aspose.Cells for Java](https://docs.aspose.com/cells/java/installation/) trong pom.xml của bạn.

@@ -1,7 +1,7 @@
 ---
 title: Java API för att rendera MHTML till XLSM
 description: Exportera MHTML till XLSM via Java API utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/java/conversion/mhtml-to-xlsm/
+url_ignore: /sv/java/conversion/mhtml-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

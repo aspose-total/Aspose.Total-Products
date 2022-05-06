@@ -1,7 +1,7 @@
 ---
 title: Convert PPSM to XLSB via C++ 
 description: Export PPSM to XLSB in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/ppsm-to-xlsb/
+url_ignore: /cpp/conversion/ppsm-to-xlsb/
 family: total
 platformtag: cpp
 feature: conversion

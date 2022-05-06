@@ -1,7 +1,7 @@
 ---
 title: تحويل XLS إلى WORD باستخدام Java
 description: Java API لتصدير XLS إلى WORD باستخدام Excel أو Word
-url: /ar/java/conversion/xls-to-word/
+url_ignore: /ar/java/conversion/xls-to-word/
 family: total
 platformtag: net
 feature: conversion

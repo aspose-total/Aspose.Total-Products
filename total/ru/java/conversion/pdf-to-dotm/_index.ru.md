@@ -1,7 +1,7 @@
 ---
 title: Java API для экспорта PDF в DOTM
 description: Преобразование PDF в DOTM с использованием локального Java API
-url: /ru/java/conversion/pdf-to-dotm/
+url_ignore: /ru/java/conversion/pdf-to-dotm/
 family: total
 platformtag: net
 feature: conversion

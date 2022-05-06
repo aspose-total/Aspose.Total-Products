@@ -1,7 +1,7 @@
 ---
 title: ODTをCSVに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにODTをCSVに変換するC＃API
-url: /ja/net/conversion/odt-to-csv/
+url_ignore: /ja/net/conversion/odt-to-csv/
 family: total
 platformtag: net
 feature: conversion

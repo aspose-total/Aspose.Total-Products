@@ -1,7 +1,7 @@
 ---
 title: Convierta POTM a formato XLAM a través de Java
 description: Convierta POTM a formato XLAM a través de Java sin usar Microsoft Excel o PowerPoint
-url: /es/java/conversion/potm-to-xlam/
+url_ignore: /es/java/conversion/potm-to-xlam/
 family: total
 platformtag: net
 feature: conversion

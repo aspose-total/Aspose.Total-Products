@@ -1,7 +1,7 @@
 ---
 title: API Java para exportar PCL para DOTM
 description: Converter PCL para DOTM usando a API Java local
-url: /pt/java/conversion/pcl-to-dotm/
+url_ignore: /pt/java/conversion/pcl-to-dotm/
 family: total
 platformtag: net
 feature: conversion

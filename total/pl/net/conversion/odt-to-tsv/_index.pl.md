@@ -1,7 +1,7 @@
 ---
 title: .NET API do konwersji ODT na TSV
 description: C# API do konwersji ODT na TSV bez użycia Microsoft Excel lub Adobe Reader
-url: /pl/net/conversion/odt-to-tsv/
+url_ignore: /pl/net/conversion/odt-to-tsv/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ Możesz też pobrać instalator offline MSI lub biblioteki DLL w pliku ZIP ze st
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Dodaj niestandardowe właściwości w pliku TSV za pomocą C#" %}}
 Podczas konwertowania ODT na TSV [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) umożliwia dodawanie niestandardowych właściwości w dokumentach TSV. Aby dodać niestandardową właściwość, możesz użyć metody [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customodtumentpropertycollection/methods/add/index) dla [CustomOdtumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customodtumentpropertycollection). Metoda Add dodaje właściwość do pliku Excel i zwraca odwołanie do nowej właściwości dokumentu jako [Aspose.Cells.Properties.OdtumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /odtumentproperty). 
 {{% blocks/products/pf/feature-page-code %}}

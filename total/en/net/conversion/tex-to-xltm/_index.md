@@ -1,7 +1,7 @@
 ---
 title: Convert TEX to XLTM via C# API
 description: C# API to Convert TEX File to XLTM without using Microsoft Excel or Adobe Reader
-url: /net/conversion/tex-to-xltm/
+url_ignore: /net/conversion/tex-to-xltm/
 family: total
 platformtag: net
 feature: conversion

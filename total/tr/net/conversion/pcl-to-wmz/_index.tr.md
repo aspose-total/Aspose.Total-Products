@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla PCL'yi WMZ'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan PCL'yi .NET uygulamalarınızda WMZ'ye aktarın
-url: /tr/net/conversion/pcl-to-wmz/
+url_ignore: /tr/net/conversion/pcl-to-wmz/
 family: total
 platformtag: net
 feature: conversion

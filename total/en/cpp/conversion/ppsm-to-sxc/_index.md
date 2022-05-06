@@ -1,7 +1,7 @@
 ---
 title: Convert PPSM to SXC via C++ 
 description: Export PPSM to SXC in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/ppsm-to-sxc/
+url_ignore: /cpp/conversion/ppsm-to-sxc/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla XSLFO'yi XLTX'ye dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan XSLFO Dosyasını XLTX'ye Dönüştürmek için C# API'si
-url: /tr/net/conversion/xslfo-to-xltx/
+url_ignore: /tr/net/conversion/xslfo-to-xltx/
 family: total
 platformtag: net
 feature: conversion

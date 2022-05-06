@@ -1,7 +1,7 @@
 ---
 title: Java를 통해 EMLX을 PNG로 내보내기
 description: Microsoft Word 또는 Outlook을 사용하지 않고 EMLX을 PNG로 변환하는 Java API
-url: /ko/java/conversion/emlx-to-png/
+url_ignore: /ko/java/conversion/emlx-to-png/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converti CGM in PSD tramite API C#
 description: Esporta CGM in PSD nelle tue applicazioni .NET senza utilizzare applicazioni di terze parti
-url: /it/net/conversion/cgm-to-psd/
+url_ignore: /it/net/conversion/cgm-to-psd/
 family: total
 platformtag: net
 feature: conversion

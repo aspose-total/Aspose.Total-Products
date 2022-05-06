@@ -1,7 +1,7 @@
 ---
 title: WORD'yi TSV'ye Dönüştürmek için .NET API
 description: Microsoft Excel veya Adobe Reader kullanmadan WORD'yi TSV'ye dönüştürmek için C# API'si
-url: /tr/net/conversion/word-to-tsv/
+url_ignore: /tr/net/conversion/word-to-tsv/
 family: total
 platformtag: net
 feature: conversion

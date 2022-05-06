@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı XPS'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan EMLX'i XPS'ye dönüştürün
-url: /tr/net/conversion/emlx-to-xps/
+url_ignore: /tr/net/conversion/emlx-to-xps/
 family: total
 platformtag: net
 feature: conversion

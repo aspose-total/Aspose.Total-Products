@@ -1,7 +1,7 @@
 ---
 title: Konwertuj XPS na WMF przez Java
 description: Eksportuj plik XPS do WMF w swoich aplikacjach Java bez korzystania z aplikacji innych firm
-url: /pl/java/conversion/xps-to-wmf/
+url_ignore: /pl/java/conversion/xps-to-wmf/
 family: total
 platformtag: net
 feature: conversion

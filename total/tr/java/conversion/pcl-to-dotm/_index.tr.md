@@ -1,7 +1,7 @@
 ---
 title: PCL'yi DOTM'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak PCL'yi DOTM'ye dönüştürün
-url: /tr/java/conversion/pcl-to-dotm/
+url_ignore: /tr/java/conversion/pcl-to-dotm/
 family: total
 platformtag: net
 feature: conversion

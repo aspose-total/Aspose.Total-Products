@@ -1,7 +1,7 @@
 ---
 title: Convert POTM to EXCEL Format via Java
 description: Convert POTM to EXCEL format via Java without using using Microsoft Excel or PowerPoint
-url: /java/conversion/potm-to-excel/
+url_ignore: /java/conversion/potm-to-excel/
 family: total
 platformtag: java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование формата JSON в PPSM через .NET
 description: Разбор JSON в PPSM на C# без использования Microsoft PowerPoint
-url: /ru/net/conversion/json-to-ppsm/
+url_ignore: /ru/net/conversion/json-to-ppsm/
 family: total
 platformtag: net
 feature: conversion
@@ -33,7 +33,8 @@ otherformats: POTM PPS PPSM POWERPOINT POT OTP PPT POTX PPTM PPSX
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ otherformats: POTM PPS PPSM POWERPOINT POT OTP PPT POTX PPTM PPSX
 При синтаксическом анализе JSON в PPSM вы также можете установить параметры макета для вашего формата JSON, используя [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Он позволяет обрабатывать массив как таблицу, игнорировать нули, игнорировать заголовок массива, игнорировать заголовок объекта, преобразовывать строку в число или дату, устанавливать формат даты и числа и устанавливать стиль заголовка. Все эти параметры позволяют вам представить ваши данные в соответствии с вашими потребностями. В следующем фрагменте кода показано, как установить параметры макета.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "set-layout-and-parse-json-to-powerpoint.cs" >}}
+{{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "set-layout-and-parse-json-to-powerpoint.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: POTM PPS PPSM POWERPOINT POT OTP PPT POTX PPTM PPSX
 Используя API, вы также можете конвертировать JSON в PPSM с водяным знаком. Чтобы добавить водяной знак в документ PPSM, вы можете сначала преобразовать JSON в PPTX и добавить к нему водяной знак. Чтобы добавить водяной знак, загрузите вновь созданный файл PPTX с помощью класса [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation), выберите основную презентацию, добавьте тип формы с помощью AddAutoShape и добавьте текст водяного знака с помощью AddTextFrame. После добавления водяного знака вы можете сохранить документ в PPSM. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

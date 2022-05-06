@@ -1,7 +1,7 @@
 ---
 title: แปลงรูปแบบ JSON เป็น DOC ผ่าน .NET
 description: แยก JSON เป็น DOC ใน C# โดยไม่ต้องใช้ Microsoft Word
-url: /th/net/conversion/json-to-doc/
+url_ignore: /th/net/conversion/json-to-doc/
 family: total
 platformtag: net
 feature: conversion

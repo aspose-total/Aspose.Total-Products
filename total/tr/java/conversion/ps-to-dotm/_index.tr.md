@@ -1,7 +1,7 @@
 ---
 title: PS'yi DOTM'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak PS'yi DOTM'ye dönüştürün
-url: /tr/java/conversion/ps-to-dotm/
+url_ignore: /tr/java/conversion/ps-to-dotm/
 family: total
 platformtag: net
 feature: conversion

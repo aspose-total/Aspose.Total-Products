@@ -1,7 +1,7 @@
 ---
 title: Converter o formato JSON para CHM via .NET
 description: Analise JSON para CHM em C# sem usar o Microsoft Word
-url: /pt/net/conversion/json-to-chm/
+url_ignore: /pt/net/conversion/json-to-chm/
 family: total
 platformtag: net
 feature: conversion

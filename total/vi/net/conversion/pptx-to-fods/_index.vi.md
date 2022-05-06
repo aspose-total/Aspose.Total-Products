@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi PPTX sang FODS qua C#
 description: Chuyển đổi PPTX sang FODS trong C# mà không cần sử dụng Microsoft Excel hoặc Powerpoint
-url: /vi/net/conversion/pptx-to-fods/
+url_ignore: /vi/net/conversion/pptx-to-fods/
 family: total
 platformtag: net
 feature: conversion

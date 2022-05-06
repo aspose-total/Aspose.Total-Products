@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PCL to EXCEL
 description: Convert PCL to EXCEL via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/pcl-to-excel/
+url_ignore: /cpp/conversion/pcl-to-excel/
 family: total
 platformtag: cpp
 feature: conversion

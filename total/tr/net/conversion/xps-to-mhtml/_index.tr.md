@@ -1,7 +1,7 @@
 ---
 title: XPS'yi MHTML'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan XPS'yi MHTML'ye dönüştürün
-url: /tr/net/conversion/xps-to-mhtml/
+url_ignore: /tr/net/conversion/xps-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

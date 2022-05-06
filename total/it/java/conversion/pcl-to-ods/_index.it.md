@@ -1,7 +1,7 @@
 ---
 title: API Java per il rendering da PCL a ODS
 description: Esporta PCL in ODS tramite API Java senza utilizzare Microsoft Excel o Adobe Reader
-url: /it/java/conversion/pcl-to-ods/
+url_ignore: /it/java/conversion/pcl-to-ods/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: .NET API to Convert DOTX to CSV 
 description: C# API to Convert DOTX to CSV without using Microsoft Excel or Adobe Reader
-url: /net/conversion/dotx-to-csv/
+url_ignore: /net/conversion/dotx-to-csv/
 family: total
 platformtag: net
 feature: conversion

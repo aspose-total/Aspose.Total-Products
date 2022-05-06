@@ -1,7 +1,7 @@
 ---
 title: EML'i Java aracılığıyla SVG'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan EML'i SVG'ye Dönüştürmek için Java API
-url: /tr/java/conversion/eml-to-svg/
+url_ignore: /tr/java/conversion/eml-to-svg/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: .NET-API zum Konvertieren von DOCM in XLS
 description: C#-API zum Konvertieren von DOCM in XLS ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/docm-to-xls/
+url_ignore: /de/net/conversion/docm-to-xls/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: DOTをFODSに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにDOTをFODSに変換するC＃API
-url: /ja/net/conversion/dot-to-fods/
+url_ignore: /ja/net/conversion/dot-to-fods/
 family: total
 platformtag: net
 feature: conversion

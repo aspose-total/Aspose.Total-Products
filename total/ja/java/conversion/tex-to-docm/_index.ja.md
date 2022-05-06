@@ -1,7 +1,7 @@
 ---
 title: TEXをDOCMにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してTEXをDOCMに変換する
-url: /ja/java/conversion/tex-to-docm/
+url_ignore: /ja/java/conversion/tex-to-docm/
 family: total
 platformtag: net
 feature: conversion

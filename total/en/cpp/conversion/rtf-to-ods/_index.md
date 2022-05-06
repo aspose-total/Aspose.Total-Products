@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to ODS in C++
 description: C++ API to Convert RTF to ODS without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/rtf-to-ods/
+url_ignore: /cpp/conversion/rtf-to-ods/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert DOTM to JSON Format in Android via Java
 description: Parse DOTM to JSON format in Android via Java without using Microsoft Word or Excel
-url: /android-java/conversion/dotm-to-json/
+url_ignore: /android-java/conversion/dotm-to-json/
 family: total
 platformtag: android-java
 feature: conversion

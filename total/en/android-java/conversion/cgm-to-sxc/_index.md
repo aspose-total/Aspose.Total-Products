@@ -1,7 +1,7 @@
 ---
 title: Convert CGM to SXC in Android via Java
 description: Render CGM to SXC in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/cgm-to-sxc/
+url_ignore: /android-java/conversion/cgm-to-sxc/
 family: total
 platformtag: android-java
 feature: conversion

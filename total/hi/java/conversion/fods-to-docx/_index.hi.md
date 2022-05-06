@@ -1,7 +1,7 @@
 ---
 title: जावा का उपयोग करके FODS को DOCX में बदलें
 description: जावा एपीआई एक्सेल या वर्ड का उपयोग करके सीएसवी को डीओसी में निर्यात करने के लिए
-url: /hi/java/conversion/fods-to-docx/
+url_ignore: /hi/java/conversion/fods-to-docx/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ otherformats: POWERPOINT WORD DOCX PPTX
 {{% blocks/products/pf/agp/feature-section-col title="जावा एपीआई के माध्यम से सीएसवी को डीओसी में कैसे बदलें" %}}
 1. [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) क्लास का इस्तेमाल करके FODS फ़ाइल खोलें
 2. FODS को PDF में बदलें और SaveFormat को AUTO पर सेट करें
-3. [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Docxument) वर्ग का उपयोग करके परिवर्तित पीडीएफ फाइल को लोड करें
-4. दस्तावेज़ को [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Docxument#save-java.lang.String-com.aspose.pdf.SaveOptions का उपयोग करके DOCX प्रारूप में सहेजें।-) विधि और डॉक को SaveFormat के रूप में सेट करें
+3. [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) वर्ग का उपयोग करके परिवर्तित पीडीएफ फाइल को लोड करें
+4. दस्तावेज़ को [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions का उपयोग करके DOCX प्रारूप में सहेजें।-) विधि और डॉक को SaveFormat के रूप में सेट करें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
 आपको [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) आधारित प्रोजेक्ट से सीधे जावा के लिए Aspose.Total का उपयोग करना होगा। और अपने pom.xml में पुस्तकालयों को शामिल करें।
@@ -32,10 +32,10 @@ otherformats: POWERPOINT WORD DOCX PPTX
 Workbook book = new Workbook("input.fods");
 // save FODS as PDF
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Docxument class
-Docxument docxument = new Docxument("pdfOutput.pdf");
-// save docxument in DOCXX format
-docxument.save("output.docxx", com.aspose.pdf.SaveFormat.DocxX);  
+// load the PDF file using Document class
+Document Document = new Document("pdfOutput.pdf");
+// save Document in DOCXX format
+Document.save("output.docxx", com.aspose.pdf.SaveFormat.DocxX);  
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}

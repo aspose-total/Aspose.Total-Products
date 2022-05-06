@@ -1,7 +1,7 @@
 ---
 title: OTTをODSに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにOTTをODSに変換するC＃API
-url: /ja/net/conversion/ott-to-ods/
+url_ignore: /ja/net/conversion/ott-to-ods/
 family: total
 platformtag: net
 feature: conversion

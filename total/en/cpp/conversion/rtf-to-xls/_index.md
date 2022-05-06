@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to XLS in C++
 description: C++ API to Convert RTF to XLS without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/rtf-to-xls/
+url_ignore: /cpp/conversion/rtf-to-xls/
 family: total
 platformtag: cpp
 feature: conversion

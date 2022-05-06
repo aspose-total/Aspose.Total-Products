@@ -1,7 +1,7 @@
 ---
 title: C# API pro export MHTML do DOT
 description: Převeďte MHTML na DOT bez použití aplikace Microsoft Word
-url: /cs/net/conversion/mhtml-to-dot/
+url_ignore: /cs/net/conversion/mhtml-to-dot/
 family: total
 platformtag: net
 feature: conversion

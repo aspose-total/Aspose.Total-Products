@@ -1,7 +1,7 @@
 ---
 title: .NET-API zum Konvertieren von DOCM in ODS
 description: C#-API zum Konvertieren von DOCM in ODS ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/docm-to-ods/
+url_ignore: /de/net/conversion/docm-to-ods/
 family: total
 platformtag: net
 feature: conversion

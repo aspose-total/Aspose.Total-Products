@@ -1,7 +1,7 @@
 ---
 title: PCL'yi MHTML'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak PCL'yi MHTML'ye dönüştürün
-url: /tr/java/conversion/pcl-to-mhtml/
+url_ignore: /tr/java/conversion/pcl-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

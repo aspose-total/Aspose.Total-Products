@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla PS'yi WMF'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan PS dosyasını Java uygulamalarınızda WMF'ye aktarın
-url: /tr/java/conversion/ps-to-wmf/
+url_ignore: /tr/java/conversion/ps-to-wmf/
 family: total
 platformtag: net
 feature: conversion

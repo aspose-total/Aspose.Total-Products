@@ -1,7 +1,7 @@
 ---
 title: Convert MD to XLTM via C# API
 description: C# API to Convert MD File to XLTM without using Microsoft Excel or Adobe Reader
-url: /net/conversion/md-to-xltm/
+url_ignore: /net/conversion/md-to-xltm/
 family: total
 platformtag: net
 feature: conversion

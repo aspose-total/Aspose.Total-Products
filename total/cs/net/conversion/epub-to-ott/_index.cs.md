@@ -1,7 +1,7 @@
 ---
 title: C# API pro export EPUB do OTT
 description: Převeďte EPUB na OTT bez použití aplikace Microsoft Word
-url: /cs/net/conversion/epub-to-ott/
+url_ignore: /cs/net/conversion/epub-to-ott/
 family: total
 platformtag: net
 feature: conversion

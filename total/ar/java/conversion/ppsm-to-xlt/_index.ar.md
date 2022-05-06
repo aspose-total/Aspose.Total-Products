@@ -1,7 +1,7 @@
 ---
 title: تحويل PPSM إلى تنسيق XLT عبر Java
 description: قم بتحويل PPSM إلى تنسيق XLT عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/ppsm-to-xlt/
+url_ignore: /ar/java/conversion/ppsm-to-xlt/
 family: total
 platformtag: net
 feature: conversion

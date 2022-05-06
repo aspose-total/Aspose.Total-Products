@@ -1,7 +1,7 @@
 ---
 title: Převést PPSM na DIF přes C#
 description: Převeďte PPSM na DIF v C# bez použití Microsoft Excel nebo Powerpoint
-url: /cs/net/conversion/ppsm-to-dif/
+url_ignore: /cs/net/conversion/ppsm-to-dif/
 family: total
 platformtag: net
 feature: conversion

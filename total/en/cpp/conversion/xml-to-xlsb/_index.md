@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XML to XLSB
 description: Convert XML to XLSB via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xml-to-xlsb/
+url_ignore: /cpp/conversion/xml-to-xlsb/
 family: total
 platformtag: cpp
 feature: conversion

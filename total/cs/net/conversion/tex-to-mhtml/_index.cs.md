@@ -1,7 +1,7 @@
 ---
 title: C# API pro export TEX do MHTML
 description: Převeďte TEX na MHTML bez použití aplikace Microsoft Word
-url: /cs/net/conversion/tex-to-mhtml/
+url_ignore: /cs/net/conversion/tex-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

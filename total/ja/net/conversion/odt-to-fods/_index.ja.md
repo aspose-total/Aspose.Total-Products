@@ -1,7 +1,7 @@
 ---
 title: ODTをFODSに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにODTをFODSに変換するC＃API
-url: /ja/net/conversion/odt-to-fods/
+url_ignore: /ja/net/conversion/odt-to-fods/
 family: total
 platformtag: net
 feature: conversion

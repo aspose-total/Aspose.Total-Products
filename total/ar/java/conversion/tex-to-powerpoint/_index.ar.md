@@ -1,7 +1,7 @@
 ---
 title: تحويل TEX إلى POWERPOINT عبر Java API
 description: Java API لتحويل TEX إلى POWERPOINT دون استخدام Microsoft Word
-url: /ar/java/conversion/tex-to-powerpoint/
+url_ignore: /ar/java/conversion/tex-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exporter MSG vers EMF via Java
 description: API Java pour convertir MSG en EMF sans utiliser Microsoft Word ou Outlook
-url: /fr/java/conversion/msg-to-emf/
+url_ignore: /fr/java/conversion/msg-to-emf/
 family: total
 platformtag: net
 feature: conversion
@@ -12,7 +12,7 @@ otherformats: RTF OTT ODT FLATOPC DOC TIFF DOCM DOCX GIF TEXT DOTX PDF SVG DOTM 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="API Java pour rendre MSG en EMF" h2="Exportez MSG vers EMF en utilisant l'API Java sur site sans utiliser de dépendances tierces" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-La conversion des e-mails est une fonctionnalité puissante que les développeurs Java peuvent intégrer dans toutes les applications Java J2SE, J2EE, J2ME via [Aspose.Total pour Java](https://products.aspose.com/total/java/). En utilisant deux API dans le package, vous pouvez convertir Msg MSG en EMF sans aucune dépendance de tiers. Tout d'abord, vous pouvez utiliser l'API Msg Manipulation [Aspose.Msg for Java](https://products.aspose.com/msg/java/) pour convertir le format de fichier MSG en HTML. Deuxièmement, vous pouvez restituer HTML en EMF à l'aide de l'API de traitement de documents [Aspose.Words pour Java](https://products.aspose.com/words/java/).
+La conversion des e-mails est une fonctionnalité puissante que les développeurs Java peuvent intégrer dans toutes les applications Java J2SE, J2EE, J2ME via [Aspose.Total for Java](https://products.aspose.com/total/java/). En utilisant deux API dans le package, vous pouvez convertir Msg MSG en EMF sans aucune dépendance de tiers. Tout d'abord, vous pouvez utiliser l'API Msg Manipulation [Aspose.Msg for Java](https://products.aspose.com/msg/java/) pour convertir le format de fichier MSG en HTML. Deuxièmement, vous pouvez restituer HTML en EMF à l'aide de l'API de traitement de documents [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Comment convertir MSG en EMF" %}}

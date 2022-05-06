@@ -1,7 +1,7 @@
 ---
 title: Convert POT to MARKDOWN via C# 
 description: Convert POT to MARKDOWN in C# without using Microsoft Excel or Powerpoint
-url: /net/conversion/pot-to-markdown/
+url_ignore: /net/conversion/pot-to-markdown/
 family: total
 platformtag: net
 feature: conversion

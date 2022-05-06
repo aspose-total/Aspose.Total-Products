@@ -1,7 +1,7 @@
 ---
 title: Java ile JSON Formatını ODT'ye Dönüştür
 description: Microsoft Word kullanmadan Java'da JSON'u ODT'ye ayrıştırın
-url: /tr/java/conversion/json-to-odt/
+url_ignore: /tr/java/conversion/json-to-odt/
 family: total
 platformtag: net
 feature: conversion

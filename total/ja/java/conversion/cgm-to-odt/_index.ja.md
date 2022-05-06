@@ -1,7 +1,7 @@
 ---
 title: CGMをODTにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してCGMをODTに変換する
-url: /ja/java/conversion/cgm-to-odt/
+url_ignore: /ja/java/conversion/cgm-to-odt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení MD do TSV
 description: Export MD do TSV přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/md-to-tsv/
+url_ignore: /cs/java/conversion/md-to-tsv/
 family: total
 platformtag: net
 feature: conversion

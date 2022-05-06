@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXMLをXLTに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにXMLファイルをXLTに変換するC＃API
-url: /ja/net/conversion/xml-to-xlt/
+url_ignore: /ja/net/conversion/xml-to-xlt/
 family: total
 platformtag: net
 feature: conversion

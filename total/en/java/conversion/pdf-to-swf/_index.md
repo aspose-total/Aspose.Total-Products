@@ -1,7 +1,7 @@
 ---
 title: Convert PDF to SWF via Java API
 description: Java API to Convert PDF to SWF without using Microsoft Word
-url: /java/conversion/pdf-to-swf/
+url_ignore: /java/conversion/pdf-to-swf/
 family: total
 platformtag: java
 feature: conversion

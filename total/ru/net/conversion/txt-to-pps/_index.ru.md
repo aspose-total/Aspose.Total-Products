@@ -1,6 +1,6 @@
 ---
 title: Преобразование TXT в PPS через C# .NET 
-url: /ru/net/conversion/txt-to-pps/ 
+url_ignore: /ru/net/conversion/txt-to-pps/ 
 description: Преобразование документов Word txt в файлы PowerPoint pps с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

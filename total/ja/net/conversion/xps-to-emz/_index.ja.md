@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXPSをEMZに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでXPSをEMZにエクスポートします
-url: /ja/net/conversion/xps-to-emz/
+url_ignore: /ja/net/conversion/xps-to-emz/
 family: total
 platformtag: net
 feature: conversion

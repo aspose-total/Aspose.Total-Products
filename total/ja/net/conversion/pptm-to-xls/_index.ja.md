@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPPTMをXLSに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPTMをXLSに変換する
-url: /ja/net/conversion/pptm-to-xls/
+url_ignore: /ja/net/conversion/pptm-to-xls/
 family: total
 platformtag: net
 feature: conversion

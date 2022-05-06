@@ -1,7 +1,7 @@
 ---
 title: API Java để xuất TEX sang ODT
 description: Chuyển đổi TEX sang ODT bằng cách sử dụng API Java tiền đề
-url: /vi/java/conversion/tex-to-odt/
+url_ignore: /vi/java/conversion/tex-to-odt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: सी # के माध्यम से पीओटी को सीएसवी में कनवर्ट करें
 description: Microsoft Excel या Powerpoint का उपयोग किए बिना PPTX को MHTML में C# में बदलें
-url: /hi/net/conversion/pptx-to-mhtml/
+url_ignore: /hi/net/conversion/pptx-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

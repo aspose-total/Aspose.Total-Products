@@ -1,7 +1,7 @@
 ---
 title: 用于将 PDF 导出到 OTT 的 Java API
 description: 使用本地 Java API 将 PDF 转换为 OTT
-url: /zh/java/conversion/pdf-to-ott/
+url_ignore: /zh/java/conversion/pdf-to-ott/
 family: total
 platformtag: net
 feature: conversion

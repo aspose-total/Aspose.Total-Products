@@ -1,7 +1,7 @@
 ---
 title: Convert DOCM to XLT via .NET 
 description: Convert DOCM to XLT in C# without using Microsoft Excel or Adobe Reader
-url: /net/conversion/docm-to-xlt/
+url_ignore: /net/conversion/docm-to-xlt/
 family: total
 platformtag: net
 feature: conversion

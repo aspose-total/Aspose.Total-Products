@@ -1,7 +1,7 @@
 ---
 title: Java API για μετατροπή DOCM σε XLAM
 description: Μετατροπή DOCM σε XLAM μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel
-url: /el/java/conversion/docm-to-xlam/
+url_ignore: /el/java/conversion/docm-to-xlam/
 family: total
 platformtag: net
 feature: conversion
@@ -34,7 +34,7 @@ otherformats: DIF ODS XLAM XLSM TSV FODS EXCEL SXC XLTM XLSX XLSB XLS XLTX XLT
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Απαιτήσεις μετατροπής" %}}Document
-Πριν μετατρέψετε το DOCM σε XLAM, μπορείτε να αφαιρέσετε αχρησιμοποίητες πληροφορίες από το έγγραφο DOCM μέσω του [Aspose.Words for Java](https://products.aspose.com/words/java/). Μερικές φορές μπορεί να χρειαστεί να αφαιρέσετε αχρησιμοποίητες ή διπλότυπες πληροφορίες για να μειώσετε το μέγεθος του εγγράφου εξόδου και τον χρόνο επεξεργασίας. Η κλάση [CleanupOptions](https://apireference.aspose.com/words/java/com.aspose.words/CleanupOptions) σάς επιτρέπει να ορίσετε επιλογές για τον καθαρισμό εγγράφων. Για να αφαιρέσετε διπλότυπα στυλ ή απλώς αχρησιμοποίητα στυλ ή λίστες από το έγγραφο, μπορείτε να χρησιμοποιήσετε τη μέθοδο [Cleanup](https://apireference.aspose.com/words/java/com.aspose.words/Docmument#cleanup()). Μπορείτε να χρησιμοποιήσετε τα [UnusedStyles](https://apireference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) και [UnusedBuiltinStyles](https://apireference.aspose.com/words/java Ιδιότητες /com.aspose.words/cleanupoptions#UnusedBuiltinStyles) για τον εντοπισμό και την αφαίρεση στυλ που επισημαίνονται ως "αχρησιμοποίητα".  
+Πριν μετατρέψετε το DOCM σε XLAM, μπορείτε να αφαιρέσετε αχρησιμοποίητες πληροφορίες από το έγγραφο DOCM μέσω του [Aspose.Words for Java](https://products.aspose.com/words/java/). Μερικές φορές μπορεί να χρειαστεί να αφαιρέσετε αχρησιμοποίητες ή διπλότυπες πληροφορίες για να μειώσετε το μέγεθος του εγγράφου εξόδου και τον χρόνο επεξεργασίας. Η κλάση [CleanupOptions](https://apireference.aspose.com/words/java/com.aspose.words/CleanupOptions) σάς επιτρέπει να ορίσετε επιλογές για τον καθαρισμό εγγράφων. Για να αφαιρέσετε διπλότυπα στυλ ή απλώς αχρησιμοποίητα στυλ ή λίστες από το έγγραφο, μπορείτε να χρησιμοποιήσετε τη μέθοδο [Cleanup](https://apireference.aspose.com/words/java/com.aspose.words/Document#cleanup()). Μπορείτε να χρησιμοποιήσετε τα [UnusedStyles](https://apireference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) και [UnusedBuiltinStyles](https://apireference.aspose.com/words/java Ιδιότητες /com.aspose.words/cleanupoptions#UnusedBuiltinStyles) για τον εντοπισμό και την αφαίρεση στυλ που επισημαίνονται ως "αχρησιμοποίητα".  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-documentjava" >}}

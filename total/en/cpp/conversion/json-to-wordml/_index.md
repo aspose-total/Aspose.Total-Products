@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to WORDML via C++ 
 description: C++ API t0 Parse JSON to WORDML without using Microsoft Word
-url: /cpp/conversion/json-to-wordml/
+url_ignore: /cpp/conversion/json-to-wordml/
 family: total
 platformtag: cpp
 feature: conversion

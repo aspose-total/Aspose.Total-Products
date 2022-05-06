@@ -1,7 +1,7 @@
 ---
 title: Convert PPTM to XLSB in Android via Java
 description: Convert PPTM to XLSB in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/pptm-to-xlsb/
+url_ignore: /android-java/conversion/pptm-to-xlsb/
 family: total
 platformtag: android-java
 feature: conversion

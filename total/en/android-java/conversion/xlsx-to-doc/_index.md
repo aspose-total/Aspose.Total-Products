@@ -1,7 +1,7 @@
 ---
 title: Export XLSX to DOC in Android 
 description: Android API to Convert XLSX to DOC without using Microsoft Word
-url: /android-java/conversion/xlsx-to-doc/
+url_ignore: /android-java/conversion/xlsx-to-doc/
 family: total
 platformtag: android-java
 feature: conversion

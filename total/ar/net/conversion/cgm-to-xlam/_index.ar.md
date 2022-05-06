@@ -1,7 +1,7 @@
 ---
 title: تحويل CGM إلى XLAM عبر C# API
 description: C# API لتحويل ملف CGM إلى XLAM بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/cgm-to-xlam/
+url_ignore: /ar/net/conversion/cgm-to-xlam/
 family: total
 platformtag: net
 feature: conversion

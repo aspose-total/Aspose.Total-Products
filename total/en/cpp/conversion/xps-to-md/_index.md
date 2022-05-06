@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XPS to MD
 description: Convert XPS to MD via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xps-to-md/
+url_ignore: /cpp/conversion/xps-to-md/
 family: total
 platformtag: cpp
 feature: conversion

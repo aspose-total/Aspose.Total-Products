@@ -1,7 +1,7 @@
 ---
 title: NET API لتحويل DOC إلى DIF
 description: C# API لتحويل DOC إلى DIF بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/doc-to-dif/
+url_ignore: /ar/net/conversion/doc-to-dif/
 family: total
 platformtag: net
 feature: conversion

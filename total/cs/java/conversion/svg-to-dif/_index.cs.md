@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení SVG do DIF
 description: Export SVG do DIF přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/svg-to-dif/
+url_ignore: /cs/java/conversion/svg-to-dif/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PS to DOT
 description: Convert PS to DOT within C++ applications.
-url: /cpp/conversion/ps-to-dot/
+url_ignore: /cpp/conversion/ps-to-dot/
 family: total
 platformtag: cpp
 feature: conversion

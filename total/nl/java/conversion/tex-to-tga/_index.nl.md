@@ -1,7 +1,7 @@
 ---
 title: Converteer TEX naar TGA via Java
 description: Exporteer TEX-bestand naar TGA in uw Java-applicaties zonder een applicatie van derden te gebruiken
-url: /nl/java/conversion/tex-to-tga/
+url_ignore: /nl/java/conversion/tex-to-tga/
 family: total
 platformtag: net
 feature: conversion

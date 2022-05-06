@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก XPS ไปยัง GIF
 description: แปลง XPS เป็น GIF โดยไม่ต้องใช้ Microsoft Word
-url: /th/net/conversion/xps-to-gif/
+url_ignore: /th/net/conversion/xps-to-gif/
 family: total
 platformtag: net
 feature: conversion

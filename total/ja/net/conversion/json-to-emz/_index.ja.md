@@ -1,7 +1,7 @@
 ---
 title: .NETを介してJSON形式をEMZに変換する
 description: サードパーティの依存関係を使用せずに、C＃でJSONをEMZに解析します
-url: /ja/net/conversion/json-to-emz/
+url_ignore: /ja/net/conversion/json-to-emz/
 family: total
 platformtag: net
 feature: conversion

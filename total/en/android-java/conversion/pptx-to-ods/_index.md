@@ -1,7 +1,7 @@
 ---
 title: Convert PPTX to ODS in Android via Java
 description: Convert PPTX to ODS in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/pptx-to-ods/
+url_ignore: /android-java/conversion/pptx-to-ods/
 family: total
 platformtag: android-java
 feature: conversion

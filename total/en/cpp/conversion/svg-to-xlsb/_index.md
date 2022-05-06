@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert SVG to XLSB
 description: Convert SVG to XLSB via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/svg-to-xlsb/
+url_ignore: /cpp/conversion/svg-to-xlsb/
 family: total
 platformtag: cpp
 feature: conversion

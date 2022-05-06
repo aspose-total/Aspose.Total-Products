@@ -1,7 +1,7 @@
 ---
 title: Εξαγωγή EMLX σε IMAGE μέσω Java
 description: Java API για μετατροπή EMLX σε IMAGE χωρίς χρήση του Microsoft Word ή του Outlook
-url: /el/java/conversion/emlx-to-image/
+url_ignore: /el/java/conversion/emlx-to-image/
 family: total
 platformtag: net
 feature: conversion

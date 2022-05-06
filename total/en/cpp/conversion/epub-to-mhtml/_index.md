@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export EPUB to MHTML
 description: Convert EPUB to MHTML within C++ applications.
-url: /cpp/conversion/epub-to-mhtml/
+url_ignore: /cpp/conversion/epub-to-mhtml/
 family: total
 platformtag: cpp
 feature: conversion

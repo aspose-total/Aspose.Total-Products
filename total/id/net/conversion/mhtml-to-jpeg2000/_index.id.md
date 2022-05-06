@@ -1,7 +1,7 @@
 ---
 title: Konversi MHTML ke JPEG2000 melalui C# API
 description: Ekspor MHTML ke JPEG2000 di aplikasi .NET Anda tanpa menggunakan aplikasi pihak ketiga
-url: /id/net/conversion/mhtml-to-jpeg2000/
+url_ignore: /id/net/conversion/mhtml-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

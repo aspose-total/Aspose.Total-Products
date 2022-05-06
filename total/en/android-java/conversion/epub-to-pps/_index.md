@@ -1,7 +1,7 @@
 ---
 title: Export EPUB to PPS in Android 
 description: Android API to Convert EPUB to PPS without using Microsoft Word
-url: /android-java/conversion/epub-to-pps/
+url_ignore: /android-java/conversion/epub-to-pps/
 family: total
 platformtag: android-java
 feature: conversion

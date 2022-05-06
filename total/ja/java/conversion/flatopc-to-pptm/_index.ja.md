@@ -1,7 +1,7 @@
 ---
 title: Java経由でFLATOPCをPPTMに変換する
 description: MicrosoftWordやPowerPointを使用せずにFLATOPCをPPTMにエクスポートするJavaAPI
-url: /ja/java/conversion/flatopc-to-pptm/
+url_ignore: /ja/java/conversion/flatopc-to-pptm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: CGM'yi FLATOPC'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan CGM'yi FLATOPC'ye dönüştürün
-url: /tr/net/conversion/cgm-to-flatopc/
+url_ignore: /tr/net/conversion/cgm-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

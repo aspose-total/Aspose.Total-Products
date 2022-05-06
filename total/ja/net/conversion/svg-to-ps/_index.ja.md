@@ -1,7 +1,7 @@
 ---
 title: SVGをPSにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにSVGをPSに変換する
-url: /ja/net/conversion/svg-to-ps/
+url_ignore: /ja/net/conversion/svg-to-ps/
 family: total
 platformtag: net
 feature: conversion

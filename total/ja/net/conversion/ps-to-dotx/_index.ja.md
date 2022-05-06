@@ -1,7 +1,7 @@
 ---
 title: PSをDOTXにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにPSをDOTXに変換する
-url: /ja/net/conversion/ps-to-dotx/
+url_ignore: /ja/net/conversion/ps-to-dotx/
 family: total
 platformtag: net
 feature: conversion

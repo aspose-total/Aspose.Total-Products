@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXMLをOTPにエクスポートする
 description: MicrosoftWordを使用せずにXMLをOTPに変換する.NETAPI
-url: /ja/net/conversion/xml-to-otp/
+url_ignore: /ja/net/conversion/xml-to-otp/
 family: total
 platformtag: net
 feature: conversion

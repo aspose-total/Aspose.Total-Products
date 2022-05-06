@@ -1,7 +1,7 @@
 ---
 title: Export XML do ODP přes C# API
 description: .NET API pro převod XML na ODP bez použití aplikace Microsoft Word
-url: /cs/net/conversion/xml-to-odp/
+url_ignore: /cs/net/conversion/xml-to-odp/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга TEX в XLAM
 description: Экспорт TEX в XLAM через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/tex-to-xlam/
+url_ignore: /ru/java/conversion/tex-to-xlam/
 family: total
 platformtag: net
 feature: conversion

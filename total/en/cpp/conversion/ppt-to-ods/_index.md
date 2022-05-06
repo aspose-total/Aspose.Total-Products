@@ -1,7 +1,7 @@
 ---
 title: Convert PPT to ODS via C++ 
 description: Export PPT to ODS in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/ppt-to-ods/
+url_ignore: /cpp/conversion/ppt-to-ods/
 family: total
 platformtag: cpp
 feature: conversion

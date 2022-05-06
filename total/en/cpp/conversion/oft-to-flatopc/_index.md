@@ -1,7 +1,7 @@
 ---
 title: Export OFT to FLATOPC via C++
 description: C++ API to Convert OFT to FLATOPC without using Microsoft Word or Outlook
-url: /cpp/conversion/oft-to-flatopc/
+url_ignore: /cpp/conversion/oft-to-flatopc/
 family: total
 platformtag: cpp
 feature: conversion

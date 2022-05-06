@@ -1,7 +1,7 @@
 ---
 title: Convert MOBI to EXCEL in C++
 description: C++ API to Convert MOBI to EXCEL without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/mobi-to-excel/
+url_ignore: /cpp/conversion/mobi-to-excel/
 family: total
 platformtag: cpp
 feature: conversion

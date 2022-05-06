@@ -1,7 +1,7 @@
 ---
 title: تحويل PPS إلى تنسيق EXCEL عبر Java
 description: قم بتحويل PPS إلى تنسيق EXCEL عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/pps-to-excel/
+url_ignore: /ar/java/conversion/pps-to-excel/
 family: total
 platformtag: net
 feature: conversion

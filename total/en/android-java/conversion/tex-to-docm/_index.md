@@ -1,7 +1,7 @@
 ---
 title: Android API to Render TEX to DOCM
 description: Transform TEX to DOCM via Android via Java API
-url: /android-java/conversion/tex-to-docm/
+url_ignore: /android-java/conversion/tex-to-docm/
 family: total
 platformtag: android-java
 feature: conversion

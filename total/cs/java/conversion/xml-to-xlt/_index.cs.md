@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení XML do XLT
 description: Export XML do XLT přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/xml-to-xlt/
+url_ignore: /cs/java/conversion/xml-to-xlt/
 family: total
 platformtag: net
 feature: conversion

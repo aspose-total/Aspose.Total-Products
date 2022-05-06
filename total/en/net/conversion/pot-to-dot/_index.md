@@ -1,6 +1,6 @@
 ---
 title: Convert POT to DOT via C# .NET 
-url: /net/conversion/pot-to-dot/ 
+url_ignore: /net/conversion/pot-to-dot/ 
 description: Convert PowerPoint pot documents to Word dot files with C#. Convert multiple files within ASP.NET or other .NET applications.
 ---
 

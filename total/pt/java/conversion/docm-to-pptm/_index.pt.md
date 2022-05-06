@@ -1,7 +1,7 @@
 ---
 title: Converter DOCM para PPTM via Java
 description: API Java para exportar DOCM para PPTM sem usar o Microsoft Word ou PowerPoint
-url: /pt/java/conversion/docm-to-pptm/
+url_ignore: /pt/java/conversion/docm-to-pptm/
 family: total
 platformtag: net
 feature: conversion
@@ -35,7 +35,7 @@ Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloa
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisitos de conversão" %}}Document
-A API também permite converter documents DOCM protegidos por senha em PPTM. Se o ddocumentDOCM de entrada estiver protegido por senha, você não poderá convertê-lo para o formato PPTM sem usar a senha. Para abrir um dodocumentriptografado, você pode definir a senha correta no objeto LoadOptions e passá-la para o construtor Docmument.  
+A API também permite converter documents DOCM protegidos por senha em PPTM. Se o ddocumentDOCM de entrada estiver protegido por senha, você não poderá convertê-lo para o formato PPTM sem usar a senha. Para abrir um dodocumentriptografado, você pode definir a senha correta no objeto LoadOptions e passá-la para o construtor Document.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-docm-to-pptx-with-watermark.java" >}}

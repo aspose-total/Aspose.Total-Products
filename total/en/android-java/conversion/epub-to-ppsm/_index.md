@@ -1,7 +1,7 @@
 ---
 title: Export EPUB to PPSM in Android 
 description: Android API to Convert EPUB to PPSM without using Microsoft Word
-url: /android-java/conversion/epub-to-ppsm/
+url_ignore: /android-java/conversion/epub-to-ppsm/
 family: total
 platformtag: android-java
 feature: conversion

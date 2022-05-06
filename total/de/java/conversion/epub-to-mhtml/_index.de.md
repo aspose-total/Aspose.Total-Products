@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Exportieren von EPUB nach MHTML
 description: Konvertieren Sie EPUB mithilfe der lokalen Java-API in MHTML
-url: /de/java/conversion/epub-to-mhtml/
+url_ignore: /de/java/conversion/epub-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

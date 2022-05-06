@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất XPS sang XAMLFLOW
 description: Chuyển đổi XPS sang XAMLFLOW mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/xps-to-xamlflow/
+url_ignore: /vi/net/conversion/xps-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

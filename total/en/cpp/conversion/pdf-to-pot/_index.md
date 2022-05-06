@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PDF to POT  
 description: Convert PDF to POT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/pdf-to-pot/
+url_ignore: /cpp/conversion/pdf-to-pot/
 family: total
 platformtag: cpp
 feature: conversion

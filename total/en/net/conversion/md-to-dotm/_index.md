@@ -1,7 +1,7 @@
 ---
 title: C# API to Export MD to DOTM
 description: Convert MD to DOTM without using Microsoft Word
-url: /net/conversion/md-to-dotm/
+url_ignore: /net/conversion/md-to-dotm/
 family: total
 platformtag: net
 feature: conversion

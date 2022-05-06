@@ -1,7 +1,7 @@
 ---
 title: Exportar EPUB a OTP a través de la API de C#
 description: .NET API para convertir EPUB a OTP sin usar Microsoft Word
-url: /es/net/conversion/epub-to-otp/
+url_ignore: /es/net/conversion/epub-to-otp/
 family: total
 platformtag: net
 feature: conversion

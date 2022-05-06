@@ -1,7 +1,7 @@
 ---
 title: Export SVG to ODP in Android 
 description: Android API to Convert SVG to ODP without using Microsoft Word
-url: /android-java/conversion/svg-to-odp/
+url_ignore: /android-java/conversion/svg-to-odp/
 family: total
 platformtag: android-java
 feature: conversion

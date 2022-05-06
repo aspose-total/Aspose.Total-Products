@@ -1,7 +1,7 @@
 ---
 title: Преобразование PCL в DIF через C# API
 description: C# API для преобразования файла PCL в DIF без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/pcl-to-dif/
+url_ignore: /ru/net/conversion/pcl-to-dif/
 family: total
 platformtag: net
 feature: conversion

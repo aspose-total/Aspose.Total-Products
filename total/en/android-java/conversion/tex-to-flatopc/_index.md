@@ -1,7 +1,7 @@
 ---
 title: Android API to Render TEX to FLATOPC
 description: Transform TEX to FLATOPC via Android via Java API
-url: /android-java/conversion/tex-to-flatopc/
+url_ignore: /android-java/conversion/tex-to-flatopc/
 family: total
 platformtag: android-java
 feature: conversion

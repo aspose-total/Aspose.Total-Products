@@ -1,7 +1,7 @@
 ---
 title: تحويل WORD إلى تنسيق JSON عبر Java
 description: قم بتحويل تنسيق WORD إلى تنسيق JSON عبر Java دون استخدام Microsoft Word أو Microsoft Excel
-url: /ar/java/conversion/word-to-json/
+url_ignore: /ar/java/conversion/word-to-json/
 family: total
 platformtag: net
 feature: conversion

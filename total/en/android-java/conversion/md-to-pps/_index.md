@@ -1,7 +1,7 @@
 ---
 title: Export MD to PPS in Android 
 description: Android API to Convert MD to PPS without using Microsoft Word
-url: /android-java/conversion/md-to-pps/
+url_ignore: /android-java/conversion/md-to-pps/
 family: total
 platformtag: android-java
 feature: conversion

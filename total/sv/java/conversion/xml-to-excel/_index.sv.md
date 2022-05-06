@@ -1,7 +1,7 @@
 ---
 title: Java API för att rendera XML till EXCEL
 description: Exportera XML till EXCEL via Java API utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/java/conversion/xml-to-excel/
+url_ignore: /sv/java/conversion/xml-to-excel/
 family: total
 platformtag: net
 feature: conversion

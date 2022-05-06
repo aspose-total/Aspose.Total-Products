@@ -1,7 +1,7 @@
 ---
 title: Export MD to POTM in Android 
 description: Android API to Convert MD to POTM without using Microsoft Word
-url: /android-java/conversion/md-to-potm/
+url_ignore: /android-java/conversion/md-to-potm/
 family: total
 platformtag: android-java
 feature: conversion

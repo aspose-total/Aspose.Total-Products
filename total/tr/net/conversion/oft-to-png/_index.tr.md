@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı PNG'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan OFT'i PNG'ye dönüştürün
-url: /tr/net/conversion/oft-to-png/
+url_ignore: /tr/net/conversion/oft-to-png/
 family: total
 platformtag: net
 feature: conversion

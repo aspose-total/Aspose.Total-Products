@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта EML в WORD
 description: Преобразование EML в WORD без использования Microsoft Word или Outlook на .NET
-url: /ru/net/conversion/eml-to-word/
+url_ignore: /ru/net/conversion/eml-to-word/
 family: total
 platformtag: net
 feature: conversion

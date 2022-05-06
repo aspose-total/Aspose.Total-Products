@@ -1,7 +1,7 @@
 ---
 title: EMAILをDOCXにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMAILをDOCXに変換する
-url: /ja/net/conversion/email-to-docx/
+url_ignore: /ja/net/conversion/email-to-docx/
 family: total
 platformtag: net
 feature: conversion

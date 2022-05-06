@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi POTX sang OTT qua Java
 description: Java API để xuất POTX sang OTT mà không cần sử dụng Microsoft Word hoặc PowerPoint
-url: /vi/java/conversion/potx-to-ott/
+url_ignore: /vi/java/conversion/potx-to-ott/
 family: total
 platformtag: net
 feature: conversion

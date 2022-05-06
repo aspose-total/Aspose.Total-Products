@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to PPTX via C++
 description: Export WORDML to PPTX in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/wordml-to-pptx/
+url_ignore: /cpp/conversion/wordml-to-pptx/
 family: total
 platformtag: cpp
 feature: conversion

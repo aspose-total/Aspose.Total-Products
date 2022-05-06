@@ -1,7 +1,7 @@
 ---
 title: Εξαγωγή OFT σε WORD μέσω Java
 description: Java API για μετατροπή OFT σε WORD χωρίς χρήση του Microsoft Word ή του Outlook
-url: /el/java/conversion/oft-to-word/
+url_ignore: /el/java/conversion/oft-to-word/
 family: total
 platformtag: net
 feature: conversion

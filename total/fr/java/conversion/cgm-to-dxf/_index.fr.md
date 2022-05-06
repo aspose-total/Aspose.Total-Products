@@ -1,7 +1,7 @@
 ---
 title: Convertir CGM en DXF via Java
 description: Exportez le fichier CGM vers DXF dans vos applications Java sans utiliser d'application tierce
-url: /fr/java/conversion/cgm-to-dxf/
+url_ignore: /fr/java/conversion/cgm-to-dxf/
 family: total
 platformtag: net
 feature: conversion

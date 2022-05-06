@@ -1,7 +1,7 @@
 ---
 title: Convierta MHTML a CSV a través de la API de C#
 description: API C# para convertir archivos MHTML a CSV sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/mhtml-to-csv/
+url_ignore: /es/net/conversion/mhtml-to-csv/
 family: total
 platformtag: net
 feature: conversion

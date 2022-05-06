@@ -1,7 +1,7 @@
 ---
 title: Преобразование HTML в EMZ через Java
 description: Экспорт файла HTML в EMZ в ваших приложениях Java без использования каких-либо сторонних приложений.
-url: /ru/java/conversion/html-to-emz/
+url_ignore: /ru/java/conversion/html-to-emz/
 family: total
 platformtag: net
 feature: conversion

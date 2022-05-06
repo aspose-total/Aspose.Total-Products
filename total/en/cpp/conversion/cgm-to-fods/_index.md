@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert CGM to FODS
 description: Convert CGM to FODS via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/cgm-to-fods/
+url_ignore: /cpp/conversion/cgm-to-fods/
 family: total
 platformtag: cpp
 feature: conversion

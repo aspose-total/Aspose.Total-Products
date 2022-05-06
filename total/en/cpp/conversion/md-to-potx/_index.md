@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MD to POTX  
 description: Convert MD to POTX via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/md-to-potx/
+url_ignore: /cpp/conversion/md-to-potx/
 family: total
 platformtag: cpp
 feature: conversion

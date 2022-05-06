@@ -1,7 +1,7 @@
 ---
 title: Convert ODT to XLSX in C++
 description: C++ API to Convert ODT to XLSX without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/odt-to-xlsx/
+url_ignore: /cpp/conversion/odt-to-xlsx/
 family: total
 platformtag: cpp
 feature: conversion

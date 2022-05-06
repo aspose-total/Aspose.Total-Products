@@ -1,7 +1,7 @@
 ---
 title: Convert PPTX to XLT in Android via Java
 description: Convert PPTX to XLT in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/pptx-to-xlt/
+url_ignore: /android-java/conversion/pptx-to-xlt/
 family: total
 platformtag: android-java
 feature: conversion

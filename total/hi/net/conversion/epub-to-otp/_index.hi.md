@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई के माध्यम से सीजीएम को ओडीपी में निर्यात करें
 description: Microsoft Word का उपयोग किए बिना EPUB को OTP में बदलने के लिए .NET API
-url: /hi/net/conversion/epub-to-otp/
+url_ignore: /hi/net/conversion/epub-to-otp/
 family: total
 platformtag: net
 feature: conversion

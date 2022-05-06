@@ -1,7 +1,7 @@
 ---
 title: تصدير PCL إلى POT عبر C# API
 description: NET API لتحويل PCL إلى POT دون استخدام Microsoft Word
-url: /ar/net/conversion/pcl-to-pot/
+url_ignore: /ar/net/conversion/pcl-to-pot/
 family: total
 platformtag: net
 feature: conversion

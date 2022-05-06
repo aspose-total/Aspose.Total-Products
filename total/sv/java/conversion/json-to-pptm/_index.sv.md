@@ -1,7 +1,7 @@
 ---
 title: Konvertera JSON-format till PPTM via Java
 description: Analysera JSON till PPTM i Java utan att använda Microsoft PowerPoint
-url: /sv/java/conversion/json-to-pptm/
+url_ignore: /sv/java/conversion/json-to-pptm/
 family: total
 platformtag: net
 feature: conversion
@@ -29,21 +29,24 @@ Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "convert-json-to-powerpoint.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Konverteringskrav" %}}
 Dessutom låter API:et dig tolka JSON till PPTM med specificerade layoutalternativ. För att specificera layoutalternativen kan du använda klassen [JsonLayoutOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonlayoutoptions). Det låter dig bearbeta en array som en tabell, ignorera nollvärden, ignorera arraytitel, ignorera objekttitel, konvertera sträng till nummer eller datum, ställa in datum och nummerformat och ställa in titelstil. Alla dessa alternativ låter dig presentera din data enligt dina behov. Följande kodavsnitt visar hur du ställer in layoutalternativen.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "set-layout-and-parse-json-to-powerpoint.java" >}}
+{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "set-layout-and-parse-json-to-powerpoint.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Ställ in layout och konvertera JSON-format till PPTM via Java" %}}
 Med hjälp av API:t kan du också konvertera JSON till PPTM med vattenstämpel. För att lägga till ett vattenmärke till ditt PPTM-dokument kan du först analysera JSON till PPTX och lägga till ett vattenmärke till det. För att lägga till en vattenstämpel, ladda den nyskapade PPTX-filen med klassen [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation), gå igenom alla bilder, lägg till text Använd addTextFrame, ställ in alla relevanta alternativ som färg, fillType och mer och kan spara dokumentet till PPTM. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "parse-json-to-powerpoint-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "parse-json-to-powerpoint-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender PCL ke ODS
 description: Ekspor PCL ke ODS melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/pcl-to-ods/
+url_ignore: /id/java/conversion/pcl-to-ods/
 family: total
 platformtag: net
 feature: conversion

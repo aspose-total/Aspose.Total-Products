@@ -1,7 +1,7 @@
 ---
 title: EMAIL'i Java aracılığıyla PDF'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan EMAIL'i PDF'ye Dönüştürmek için Java API
-url: /tr/java/conversion/email-to-pdf/
+url_ignore: /tr/java/conversion/email-to-pdf/
 family: total
 platformtag: net
 feature: conversion

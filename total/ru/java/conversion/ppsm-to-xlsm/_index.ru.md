@@ -1,7 +1,7 @@
 ---
 title: Преобразование PPSM в формат XLSM через Java
 description: Преобразуйте формат PPSM в XLSM через Java без использования Microsoft Excel или PowerPoint.
-url: /ru/java/conversion/ppsm-to-xlsm/
+url_ignore: /ru/java/conversion/ppsm-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

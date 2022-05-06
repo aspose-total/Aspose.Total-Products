@@ -1,7 +1,7 @@
 ---
 title: Convertir PCL en IMAGE via l'API C#
 description: Exportez PCL vers IMAGE dans vos applications .NET sans utiliser d'application tierce
-url: /fr/net/conversion/pcl-to-image/
+url_ignore: /fr/net/conversion/pcl-to-image/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: EMZ  SVGZ PSD JPEG2000 WMF WMZ IMAGE DXF TGA DICOM
 {{< blocks/products/pf/i18n/feature-page-header h1="Convertir le fichier PCL en IMAGE via C#" h2="Exportez PCL vers IMAGE dans les applications .NET sans utiliser Adobe<sup>&reg;</sup> Acrobat Reader ou toute autre application tierce" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), vous pouvez facilement exporter une image PCL vers IMAGE dans n'importe quelle application .NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.PDF pour .NET](https://products.aspose.com/pdf/net/), vous pouvez exporter PCL au format JPEG. Après cela, en utilisant l'API de traitement d'image [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/), vous pouvez convertir JPEG en IMAGE.
+En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez facilement exporter une image PCL vers IMAGE dans n'importe quelle application .NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), vous pouvez exporter PCL au format JPEG. Après cela, en utilisant l'API de traitement d'image [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/), vous pouvez convertir JPEG en IMAGE.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

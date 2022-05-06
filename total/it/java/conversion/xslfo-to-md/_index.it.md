@@ -1,7 +1,7 @@
 ---
 title: API Java per il rendering da XSLFO a MD
 description: Esporta XSLFO in MD tramite API Java senza utilizzare Microsoft Excel o Adobe Reader
-url: /it/java/conversion/xslfo-to-md/
+url_ignore: /it/java/conversion/xslfo-to-md/
 family: total
 platformtag: net
 feature: conversion

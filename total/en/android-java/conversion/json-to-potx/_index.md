@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to POTX in Android via Java 
 description: Parse JSON to POTX in Android Applications without using Microsoft PowerPoint
-url: /android-java/conversion/json-to-potx/
+url_ignore: /android-java/conversion/json-to-potx/
 family: total
 platformtag: android-java
 feature: conversion

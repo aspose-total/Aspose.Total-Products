@@ -1,7 +1,7 @@
 ---
 title: API de C# para exportar correo electrónico a IMAGE
 description: Convierta MSG a IMAGE sin usar Microsoft Word o Outlook en .NET
-url: /es/net/conversion/msg-to-image/
+url_ignore: /es/net/conversion/msg-to-image/
 family: total
 platformtag: net
 feature: conversion

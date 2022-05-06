@@ -1,7 +1,7 @@
 ---
 title: SVG'yi OTT'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan SVG'yi OTT'ye dönüştürün
-url: /tr/net/conversion/svg-to-ott/
+url_ignore: /tr/net/conversion/svg-to-ott/
 family: total
 platformtag: net
 feature: conversion

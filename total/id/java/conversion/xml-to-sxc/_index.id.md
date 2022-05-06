@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender XML ke SXC
 description: Ekspor XML ke SXC melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/xml-to-sxc/
+url_ignore: /id/java/conversion/xml-to-sxc/
 family: total
 platformtag: net
 feature: conversion

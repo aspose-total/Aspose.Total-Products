@@ -1,7 +1,7 @@
 ---
 title: Konvertera WORD till JSON-format via Java
 description: Konvertera WORD till JSON-format via Java utan att använda Microsoft Word eller Microsoft Excel
-url: /sv/java/conversion/word-to-json/
+url_ignore: /sv/java/conversion/word-to-json/
 family: total
 platformtag: net
 feature: conversion

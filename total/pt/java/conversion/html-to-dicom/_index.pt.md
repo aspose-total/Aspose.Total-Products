@@ -1,7 +1,7 @@
 ---
 title: Converter HTML para DICOM via Java
 description: Exporte o arquivo HTML para DICOM em seus aplicativos Java sem usar nenhum aplicativo de terceiros
-url: /pt/java/conversion/html-to-dicom/
+url_ignore: /pt/java/conversion/html-to-dicom/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exportar XSLFO a PPS a través de la API de C#
 description: .NET API para convertir XSLFO a PPS sin usar Microsoft Word
-url: /es/net/conversion/xslfo-to-pps/
+url_ignore: /es/net/conversion/xslfo-to-pps/
 family: total
 platformtag: net
 feature: conversion

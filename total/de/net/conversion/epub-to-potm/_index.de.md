@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie EPUB über die C#-API nach POTM
 description: .NET-API zum Konvertieren von EPUB in POTM ohne Verwendung von Microsoft Word
-url: /de/net/conversion/epub-to-potm/
+url_ignore: /de/net/conversion/epub-to-potm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: File Format Conversion via Java 
-url: /java/conversion/
+url_ignore: /java/conversion/
 description: Convert Microsoft Office Word, Excel, PowerPoint, Outlook, PDF, HTML, 3D Images, Diagrams, Video Formats and different other formats with just few lines of Java code.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Java API för att exportera PCL till OTT
 description: Konvertera PCL till OTT med hjälp av det lokala Java API
-url: /sv/java/conversion/pcl-to-ott/
+url_ignore: /sv/java/conversion/pcl-to-ott/
 family: total
 platformtag: net
 feature: conversion

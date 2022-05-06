@@ -1,7 +1,7 @@
 ---
 title: Converti XML in POWERPOINT tramite API Java
 description: API Java per convertire XML in POWERPOINT senza utilizzare Microsoft Word
-url: /it/java/conversion/xml-to-powerpoint/
+url_ignore: /it/java/conversion/xml-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

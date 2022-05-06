@@ -1,7 +1,7 @@
 ---
 title: EMLをWORDにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMLをWORDに変換する
-url: /ja/net/conversion/eml-to-word/
+url_ignore: /ja/net/conversion/eml-to-word/
 family: total
 platformtag: net
 feature: conversion

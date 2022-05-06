@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XML to PPSM  
 description: Convert XML to PPSM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xml-to-ppsm/
+url_ignore: /cpp/conversion/xml-to-ppsm/
 family: total
 platformtag: cpp
 feature: conversion

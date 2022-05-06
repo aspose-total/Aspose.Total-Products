@@ -1,7 +1,7 @@
 ---
 title: Android API to Render MHTML to DOCM
 description: Transform MHTML to DOCM via Android via Java API
-url: /android-java/conversion/mhtml-to-docm/
+url_ignore: /android-java/conversion/mhtml-to-docm/
 family: total
 platformtag: android-java
 feature: conversion

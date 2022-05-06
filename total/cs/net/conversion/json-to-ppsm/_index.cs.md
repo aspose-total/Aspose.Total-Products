@@ -1,7 +1,7 @@
 ---
 title: Převeďte formát JSON na PPSM přes .NET
 description: Analyzujte JSON na PPSM v C# bez použití Microsoft PowerPoint
-url: /cs/net/conversion/json-to-ppsm/
+url_ignore: /cs/net/conversion/json-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

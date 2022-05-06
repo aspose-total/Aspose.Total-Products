@@ -1,7 +1,7 @@
 ---
 title: Převeďte formát JSON na PSD přes Java
 description: Analyzujte JSON na PSD v Javě bez použití Microsoft PowerPoint
-url: /cs/java/conversion/json-to-psd/
+url_ignore: /cs/java/conversion/json-to-psd/
 family: total
 platformtag: net
 feature: conversion

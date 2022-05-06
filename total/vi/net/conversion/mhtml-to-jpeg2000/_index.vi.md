@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi MHTML sang JPEG2000 thông qua API C#
 description: Xuất MHTML sang JPEG2000 trong các ứng dụng .NET của bạn mà không cần sử dụng bất kỳ ứng dụng nào của bên thứ ba
-url: /vi/net/conversion/mhtml-to-jpeg2000/
+url_ignore: /vi/net/conversion/mhtml-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

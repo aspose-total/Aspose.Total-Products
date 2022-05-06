@@ -1,7 +1,7 @@
 ---
 title: API C# para exportar MSG para ODT
 description: Converta MSG para ODT sem usar o Microsoft Word ou Outlook em .NET
-url: /pt/net/conversion/msg-to-odt/
+url_ignore: /pt/net/conversion/msg-to-odt/
 family: total
 platformtag: net
 feature: conversion

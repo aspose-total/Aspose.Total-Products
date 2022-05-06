@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení PDF do XLSB
 description: Export PDF do XLSB přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/pdf-to-xlsb/
+url_ignore: /cs/java/conversion/pdf-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

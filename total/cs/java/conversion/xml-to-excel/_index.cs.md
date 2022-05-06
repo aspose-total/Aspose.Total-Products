@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení XML do EXCEL
 description: Export XML do EXCEL přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/xml-to-excel/
+url_ignore: /cs/java/conversion/xml-to-excel/
 family: total
 platformtag: net
 feature: conversion

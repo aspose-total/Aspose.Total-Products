@@ -1,7 +1,7 @@
 ---
 title: Export PCL to PPT via C# API
 description: .NET API to Convert PCL to PPT without using Microsoft Word
-url: /net/conversion/pcl-to-ppt/
+url_ignore: /net/conversion/pcl-to-ppt/
 family: total
 platformtag: net
 feature: conversion

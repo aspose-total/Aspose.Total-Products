@@ -1,7 +1,7 @@
 ---
 title: .NET-API zum Konvertieren von DOCX in XLTX
 description: C#-API zum Konvertieren von DOCX in XLTX ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/docx-to-xltx/
+url_ignore: /de/net/conversion/docx-to-xltx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: 将 MD 渲染为 ODS 的 Java API
 description: 通过 Java API 将 MD 导出为 ODS，无需使用 Microsoft Excel 或 Adobe Reader
-url: /zh/java/conversion/md-to-ods/
+url_ignore: /zh/java/conversion/md-to-ods/
 family: total
 platformtag: net
 feature: conversion
@@ -19,7 +19,7 @@ otherformats: TXT XLT TSV ODS XLAM EXCEL XLTX DIF FODS SXC XLSB XLTM
 1.使用[Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)类打开MD文件
 2. 使用 [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- 将 MD 转换为 XLSX ) 方法
 3. 使用 [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) 类加载 XLSX 文档
-4. 使用 [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells) 将文档保存为 ODS 格式。 SaveOptions)) 方法
+4. 使用 [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells)) 将文档保存为 ODS 格式。 SaveOptions)) 方法
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
 从您可以直接从基于 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) 的项目轻松地使用 Aspose.Total for Java 并在您的 pom.xml 中包含库。。

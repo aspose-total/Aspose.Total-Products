@@ -1,7 +1,7 @@
 ---
 title: تحويل XML إلى FODS عبر C# API
 description: C# API لتحويل ملف XML إلى FODS بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/xml-to-fods/
+url_ignore: /ar/net/conversion/xml-to-fods/
 family: total
 platformtag: net
 feature: conversion

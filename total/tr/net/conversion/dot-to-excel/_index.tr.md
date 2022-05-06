@@ -1,7 +1,7 @@
 ---
 title: DOT'yi EXCEL'ye Dönüştürmek için .NET API
 description: Microsoft Excel veya Adobe Reader kullanmadan DOT'yi EXCEL'ye dönüştürmek için C# API'si
-url: /tr/net/conversion/dot-to-excel/
+url_ignore: /tr/net/conversion/dot-to-excel/
 family: total
 platformtag: net
 feature: conversion

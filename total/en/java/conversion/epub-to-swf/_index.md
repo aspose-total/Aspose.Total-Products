@@ -1,7 +1,7 @@
 ---
 title: Convert EPUB to SWF via Java API
 description: Java API to Convert EPUB to SWF without using Microsoft Word
-url: /java/conversion/epub-to-swf/
+url_ignore: /java/conversion/epub-to-swf/
 family: total
 platformtag: java
 feature: conversion

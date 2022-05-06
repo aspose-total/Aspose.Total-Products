@@ -1,7 +1,7 @@
 ---
 title: Java API เพื่อส่งออก PS ไปยัง OTT
 description: แปลง PS เป็น OTT โดยใช้ Java API . ในตัว
-url: /th/java/conversion/ps-to-ott/
+url_ignore: /th/java/conversion/ps-to-ott/
 family: total
 platformtag: net
 feature: conversion

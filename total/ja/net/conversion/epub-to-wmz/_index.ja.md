@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してEPUBをWMZに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでEPUBをWMZにエクスポートします
-url: /ja/net/conversion/epub-to-wmz/
+url_ignore: /ja/net/conversion/epub-to-wmz/
 family: total
 platformtag: net
 feature: conversion

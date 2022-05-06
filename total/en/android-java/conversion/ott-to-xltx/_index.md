@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert OTT to XLTX
 description: Convert OTT to XLTX in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/ott-to-xltx/
+url_ignore: /android-java/conversion/ott-to-xltx/
 family: total
 platformtag: android-java
 feature: conversion

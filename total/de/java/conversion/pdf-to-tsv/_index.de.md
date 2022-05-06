@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Rendern von PDF in TSV
 description: Exportieren Sie PDF über die Java-API in TSV, ohne Microsoft Excel oder Adobe Reader zu verwenden
-url: /de/java/conversion/pdf-to-tsv/
+url_ignore: /de/java/conversion/pdf-to-tsv/
 family: total
 platformtag: net
 feature: conversion

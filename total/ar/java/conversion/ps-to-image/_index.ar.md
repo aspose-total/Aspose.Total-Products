@@ -1,7 +1,7 @@
 ---
 title: تحويل PS إلى IMAGE عبر Java
 description: قم بتصدير ملف PS إلى IMAGE في تطبيقات Java الخاصة بك دون استخدام أي تطبيق تابع لجهة خارجية
-url: /ar/java/conversion/ps-to-image/
+url_ignore: /ar/java/conversion/ps-to-image/
 family: total
 platformtag: net
 feature: conversion

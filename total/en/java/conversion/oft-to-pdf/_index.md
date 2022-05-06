@@ -1,7 +1,7 @@
 ---
 title: Export OFT to PDF via Java 
 description: Java API to Convert OFT to PDF without using Microsoft Word or Outlook 
-url: /java/conversion/oft-to-pdf/
+url_ignore: /java/conversion/oft-to-pdf/
 family: total
 platformtag: java
 feature: conversion

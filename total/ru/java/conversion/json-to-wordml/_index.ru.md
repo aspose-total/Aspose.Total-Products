@@ -1,7 +1,7 @@
 ---
 title: Преобразование формата JSON в WORDML через Java
 description: Разобрать JSON в WORDML на Java без использования Microsoft Word
-url: /ru/java/conversion/json-to-wordml/
+url_ignore: /ru/java/conversion/json-to-wordml/
 family: total
 platformtag: net
 feature: conversion

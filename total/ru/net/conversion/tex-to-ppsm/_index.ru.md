@@ -1,7 +1,7 @@
 ---
 title: Экспорт TEX в PPSM через C# API
 description: .NET API для преобразования TEX в PPSM без использования Microsoft Word
-url: /ru/net/conversion/tex-to-ppsm/
+url_ignore: /ru/net/conversion/tex-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

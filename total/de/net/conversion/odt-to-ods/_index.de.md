@@ -1,7 +1,7 @@
 ---
 title: .NET-API zum Konvertieren von ODT in ODS
 description: C#-API zum Konvertieren von ODT in ODS ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/odt-to-ods/
+url_ignore: /de/net/conversion/odt-to-ods/
 family: total
 platformtag: net
 feature: conversion

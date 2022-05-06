@@ -1,7 +1,7 @@
 ---
 title: Android API to Render MD to FLATOPC
 description: Transform MD to FLATOPC via Android via Java API
-url: /android-java/conversion/md-to-flatopc/
+url_ignore: /android-java/conversion/md-to-flatopc/
 family: total
 platformtag: android-java
 feature: conversion

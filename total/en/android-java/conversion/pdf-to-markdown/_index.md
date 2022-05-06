@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PDF to MARKDOWN
 description: Transform PDF to MARKDOWN via Android via Java API
-url: /android-java/conversion/pdf-to-markdown/
+url_ignore: /android-java/conversion/pdf-to-markdown/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converter EPUB para DIF via API C#
 description: API C# para converter arquivo EPUB em DIF sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/epub-to-dif/
+url_ignore: /pt/net/conversion/epub-to-dif/
 family: total
 platformtag: net
 feature: conversion

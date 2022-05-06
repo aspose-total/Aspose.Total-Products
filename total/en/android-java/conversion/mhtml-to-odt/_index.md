@@ -1,7 +1,7 @@
 ---
 title: Android API to Render MHTML to ODT
 description: Transform MHTML to ODT via Android via Java API
-url: /android-java/conversion/mhtml-to-odt/
+url_ignore: /android-java/conversion/mhtml-to-odt/
 family: total
 platformtag: android-java
 feature: conversion

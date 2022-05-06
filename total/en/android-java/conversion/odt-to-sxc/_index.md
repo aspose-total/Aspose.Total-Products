@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert ODT to SXC
 description: Convert ODT to SXC in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/odt-to-sxc/
+url_ignore: /android-java/conversion/odt-to-sxc/
 family: total
 platformtag: android-java
 feature: conversion

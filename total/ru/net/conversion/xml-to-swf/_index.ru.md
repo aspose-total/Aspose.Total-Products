@@ -1,7 +1,7 @@
 ---
 title: Экспорт XML в SWF через C# API
 description: .NET API для преобразования XML в SWF без использования Microsoft Word
-url: /ru/net/conversion/xml-to-swf/
+url_ignore: /ru/net/conversion/xml-to-swf/
 family: total
 platformtag: net
 feature: conversion

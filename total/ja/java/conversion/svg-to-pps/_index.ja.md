@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してSVGをPPSに変換する
 description: MicrosoftWordを使用せずにSVGをPPSに変換するJavaAPI
-url: /ja/java/conversion/svg-to-pps/
+url_ignore: /ja/java/conversion/svg-to-pps/
 family: total
 platformtag: net
 feature: conversion

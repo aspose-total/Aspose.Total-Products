@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı GIF'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan EMLX'i GIF'ye dönüştürün
-url: /tr/net/conversion/emlx-to-gif/
+url_ignore: /tr/net/conversion/emlx-to-gif/
 family: total
 platformtag: net
 feature: conversion

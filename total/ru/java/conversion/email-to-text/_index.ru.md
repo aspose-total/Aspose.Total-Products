@@ -1,7 +1,7 @@
 ---
 title: Экспорт EMAIL в TEXT через Java
 description: Java API для преобразования EMAIL в TEXT без использования Microsoft Word или Outlook
-url: /ru/java/conversion/email-to-text/
+url_ignore: /ru/java/conversion/email-to-text/
 family: total
 platformtag: net
 feature: conversion

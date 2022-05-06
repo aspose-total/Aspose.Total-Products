@@ -1,7 +1,7 @@
 ---
 title: Android API to Render XPS to MHTML
 description: Transform XPS to MHTML via Android via Java API
-url: /android-java/conversion/xps-to-mhtml/
+url_ignore: /android-java/conversion/xps-to-mhtml/
 family: total
 platformtag: android-java
 feature: conversion

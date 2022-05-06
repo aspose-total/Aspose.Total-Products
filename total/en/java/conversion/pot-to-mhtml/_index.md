@@ -1,7 +1,7 @@
 ---
 title: Convert POT to MHTML Format via Java
 description: Convert POT to MHTML format via Java without using using Microsoft Excel or PowerPoint
-url: /java/conversion/pot-to-mhtml/
+url_ignore: /java/conversion/pot-to-mhtml/
 family: total
 platformtag: java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert WORD to XLTM
 description: Convert WORD to XLTM in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/word-to-xltm/
+url_ignore: /android-java/conversion/word-to-xltm/
 family: total
 platformtag: android-java
 feature: conversion

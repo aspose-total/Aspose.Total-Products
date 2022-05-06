@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert SVG to POT  
 description: Convert SVG to POT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/svg-to-pot/
+url_ignore: /cpp/conversion/svg-to-pot/
 family: total
 platformtag: cpp
 feature: conversion

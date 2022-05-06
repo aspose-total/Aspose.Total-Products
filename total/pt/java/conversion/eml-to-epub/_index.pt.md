@@ -1,7 +1,7 @@
 ---
 title: Exportar EML para EPUB via Java
 description: API Java para converter EML para EPUB sem usar o Microsoft Word ou Outlook
-url: /pt/java/conversion/eml-to-epub/
+url_ignore: /pt/java/conversion/eml-to-epub/
 family: total
 platformtag: net
 feature: conversion

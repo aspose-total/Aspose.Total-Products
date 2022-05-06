@@ -1,7 +1,7 @@
 ---
 title: PPT'u C# ile FODS'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan PPT'u C#'ta FODS'ye dönüştürün
-url: /tr/net/conversion/ppt-to-fods/
+url_ignore: /tr/net/conversion/ppt-to-fods/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تحويل MHTML إلى WMZ عبر C# API
 description: قم بتصدير MHTML إلى WMZ في تطبيقات .NET دون استخدام أي تطبيق تابع لجهة خارجية
-url: /ar/net/conversion/mhtml-to-wmz/
+url_ignore: /ar/net/conversion/mhtml-to-wmz/
 family: total
 platformtag: net
 feature: conversion

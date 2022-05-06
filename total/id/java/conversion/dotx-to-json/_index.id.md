@@ -1,7 +1,7 @@
 ---
 title: Konversi Format DOTX ke JSON melalui Java
 description: Konversi format DOTX ke JSON melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel
-url: /id/java/conversion/dotx-to-json/
+url_ignore: /id/java/conversion/dotx-to-json/
 family: total
 platformtag: net
 feature: conversion
@@ -16,8 +16,8 @@ Mengonversi format DOTX ke JSON melalui [Aspose.Total for Java](https://products
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konversi Format DOTX ke JSON melalui Java" %}}
-1. Buka file DOTX menggunakan kelas [Dotxument](https://apireference.aspose.com/words/java/com.aspose.words/Dotxument)
-2. Konversi DOTX ke HTML dengan menggunakan [Simpan](https://apireference.aspose.com/words/java/com.aspose.words/Dotxument#save(java.lang.String,com.aspose.words.SaveOptions) ) metode
+1. Buka file DOTX menggunakan kelas [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. Konversi DOTX ke HTML dengan menggunakan [Simpan](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) metode
 3. Muat dokumen HTML dengan menggunakan kelas [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Simpan dokumen ke format JSON menggunakan [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String.%20com.aspose.cells.SaveOptions)) metode
 {{% /blocks/products/pf/agp/feature-section-col %}}

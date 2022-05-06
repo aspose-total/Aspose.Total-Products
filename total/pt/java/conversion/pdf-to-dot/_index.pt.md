@@ -1,7 +1,7 @@
 ---
 title: API Java para exportar PDF para DOT
 description: Converter PDF para DOT usando a API Java local
-url: /pt/java/conversion/pdf-to-dot/
+url_ignore: /pt/java/conversion/pdf-to-dot/
 family: total
 platformtag: net
 feature: conversion

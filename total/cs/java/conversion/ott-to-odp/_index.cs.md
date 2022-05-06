@@ -1,7 +1,7 @@
 ---
 title: Převést OTT na ODP přes Java
 description: Java API pro export OTT do ODP bez použití Microsoft Word nebo PowerPoint
-url: /cs/java/conversion/ott-to-odp/
+url_ignore: /cs/java/conversion/ott-to-odp/
 family: total
 platformtag: net
 feature: conversion

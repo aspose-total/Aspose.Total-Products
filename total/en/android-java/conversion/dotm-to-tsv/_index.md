@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOTM to TSV
 description: Convert DOTM to TSV in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/dotm-to-tsv/
+url_ignore: /android-java/conversion/dotm-to-tsv/
 family: total
 platformtag: android-java
 feature: conversion

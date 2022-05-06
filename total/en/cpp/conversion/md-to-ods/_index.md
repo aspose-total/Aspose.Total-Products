@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MD to ODS
 description: Convert MD to ODS via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/md-to-ods/
+url_ignore: /cpp/conversion/md-to-ods/
 family: total
 platformtag: cpp
 feature: conversion

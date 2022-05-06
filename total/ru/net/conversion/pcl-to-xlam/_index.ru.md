@@ -1,7 +1,7 @@
 ---
 title: Преобразование PCL в XLAM через C# API
 description: C# API для преобразования файла PCL в XLAM без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/pcl-to-xlam/
+url_ignore: /ru/net/conversion/pcl-to-xlam/
 family: total
 platformtag: net
 feature: conversion

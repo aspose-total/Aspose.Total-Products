@@ -1,7 +1,7 @@
 ---
 title: MDをMARKDOWNにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにMDをMARKDOWNに変換する
-url: /ja/net/conversion/md-to-markdown/
+url_ignore: /ja/net/conversion/md-to-markdown/
 family: total
 platformtag: net
 feature: conversion

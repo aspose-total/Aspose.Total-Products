@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie PPSX über C# in XLAM
 description: Konvertieren Sie PPSX in C# in XLAM, ohne Microsoft Excel oder Powerpoint zu verwenden
-url: /de/net/conversion/ppsx-to-xlam/
+url_ignore: /de/net/conversion/ppsx-to-xlam/
 family: total
 platformtag: net
 feature: conversion

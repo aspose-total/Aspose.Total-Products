@@ -1,7 +1,7 @@
 ---
 title: MSGをRTFにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにMSGをRTFに変換する
-url: /ja/net/conversion/msg-to-rtf/
+url_ignore: /ja/net/conversion/msg-to-rtf/
 family: total
 platformtag: net
 feature: conversion

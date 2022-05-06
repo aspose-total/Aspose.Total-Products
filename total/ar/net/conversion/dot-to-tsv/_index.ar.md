@@ -1,7 +1,7 @@
 ---
 title: NET API لتحويل DOT إلى TSV
 description: C# API لتحويل DOT إلى TSV بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/dot-to-tsv/
+url_ignore: /ar/net/conversion/dot-to-tsv/
 family: total
 platformtag: net
 feature: conversion

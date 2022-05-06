@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई सीजीएम को डीओसीएम में निर्यात करने के लिए
 description: Microsoft Word का उपयोग किए बिना SVG को MARKDOWN में बदलें
-url: /hi/net/conversion/svg-to-markdown/
+url_ignore: /hi/net/conversion/svg-to-markdown/
 family: total
 platformtag: net
 feature: conversion

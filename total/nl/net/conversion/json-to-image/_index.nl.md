@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar IMAGE via .NET
 description: JSON ontleden naar IMAGE in C# zonder afhankelijkheden van derden te gebruiken
-url: /nl/net/conversion/json-to-image/
+url_ignore: /nl/net/conversion/json-to-image/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: MSGをPNGにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにMSGをPNGに変換する
-url: /ja/net/conversion/msg-to-png/
+url_ignore: /ja/net/conversion/msg-to-png/
 family: total
 platformtag: net
 feature: conversion

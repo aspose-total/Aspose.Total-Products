@@ -1,7 +1,7 @@
 ---
 title: PDFをDOTXにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにPDFをDOTXに変換する
-url: /ja/net/conversion/pdf-to-dotx/
+url_ignore: /ja/net/conversion/pdf-to-dotx/
 family: total
 platformtag: net
 feature: conversion

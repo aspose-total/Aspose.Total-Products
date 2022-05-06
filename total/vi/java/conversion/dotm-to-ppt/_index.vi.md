@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi DOTM sang PPT qua Java
 description: Java API để xuất DOTM sang PPT mà không cần sử dụng Microsoft Word hoặc PowerPoint
-url: /vi/java/conversion/dotm-to-ppt/
+url_ignore: /vi/java/conversion/dotm-to-ppt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java kullanarak FODS'yi PPTX'ye dönüştürün
 description: Excel veya Word kullanarak FODS'yi PPTX'a Dışa Aktarmak için Java API
-url: /tr/java/conversion/fods-to-pptx/
+url_ignore: /tr/java/conversion/fods-to-pptx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert RTF to XLAM
 description: Convert RTF to XLAM via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/rtf-to-xlam/
+url_ignore: /java/conversion/rtf-to-xlam/
 family: total
 platformtag: java
 feature: conversion

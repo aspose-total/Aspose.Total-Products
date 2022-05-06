@@ -1,7 +1,7 @@
 ---
 title: Convert PCL to TSV in Android via Java
 description: Render PCL to TSV in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/pcl-to-tsv/
+url_ignore: /android-java/conversion/pcl-to-tsv/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export EML to DOCX via Java 
 description: Java API to Convert EML to DOCX without using Microsoft Word or Outlook 
-url: /java/conversion/eml-to-docx/
+url_ignore: /java/conversion/eml-to-docx/
 family: total
 platformtag: java
 feature: conversion

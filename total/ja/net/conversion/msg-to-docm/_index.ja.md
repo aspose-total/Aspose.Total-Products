@@ -1,7 +1,7 @@
 ---
 title: MSGをDOCMにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにMSGをDOCMに変換する
-url: /ja/net/conversion/msg-to-docm/
+url_ignore: /ja/net/conversion/msg-to-docm/
 family: total
 platformtag: net
 feature: conversion

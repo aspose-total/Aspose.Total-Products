@@ -1,7 +1,7 @@
 ---
 title: Convert PPS to JSON format via C++ 
 description: Export PPS to JSON format in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pps-to-json/
+url_ignore: /cpp/conversion/pps-to-json/
 family: total
 platformtag: cpp
 feature: conversion

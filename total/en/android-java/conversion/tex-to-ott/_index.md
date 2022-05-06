@@ -1,7 +1,7 @@
 ---
 title: Android API to Render TEX to OTT
 description: Transform TEX to OTT via Android via Java API
-url: /android-java/conversion/tex-to-ott/
+url_ignore: /android-java/conversion/tex-to-ott/
 family: total
 platformtag: android-java
 feature: conversion

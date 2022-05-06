@@ -1,7 +1,7 @@
 ---
 title: Export OFT to PDF via C++
 description: C++ API to Convert OFT to PDF without using Microsoft Word or Outlook
-url: /cpp/conversion/oft-to-pdf/
+url_ignore: /cpp/conversion/oft-to-pdf/
 family: total
 platformtag: cpp
 feature: conversion

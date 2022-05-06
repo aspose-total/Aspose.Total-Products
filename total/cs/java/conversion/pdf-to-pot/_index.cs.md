@@ -1,7 +1,7 @@
 ---
 title: Převeďte PDF na POT přes Java API
 description: Java API pro převod PDF na POT bez použití aplikace Microsoft Word
-url: /cs/java/conversion/pdf-to-pot/
+url_ignore: /cs/java/conversion/pdf-to-pot/
 family: total
 platformtag: net
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Преобразование TXT в POT через C# .NET 
-url: /ru/net/conversion/txt-to-pot/ 
+url_ignore: /ru/net/conversion/txt-to-pot/ 
 description: Преобразование документов Word txt в файлы PowerPoint pot с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

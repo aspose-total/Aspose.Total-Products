@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してTEXをODPにエクスポートする
 description: MicrosoftWordを使用せずにTEXをODPに変換する.NETAPI
-url: /ja/net/conversion/tex-to-odp/
+url_ignore: /ja/net/conversion/tex-to-odp/
 family: total
 platformtag: net
 feature: conversion

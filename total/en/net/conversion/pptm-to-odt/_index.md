@@ -1,6 +1,6 @@
 ---
 title: Convert PPTM to ODT via C# .NET 
-url: /net/conversion/pptm-to-odt/ 
+url_ignore: /net/conversion/pptm-to-odt/ 
 description: Convert PowerPoint pptm documents to Word odt files with C#. Convert multiple files within ASP.NET or other .NET applications.
 ---
 

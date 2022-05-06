@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to WORD with C++ 
 description: Convert SXC to WORD within C++ applications
-url: /cpp/conversion/sxc-to-word/
+url_ignore: /cpp/conversion/sxc-to-word/
 family: total
 platformtag: cpp
 feature: conversion

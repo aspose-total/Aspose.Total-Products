@@ -1,7 +1,7 @@
 ---
 title: Android API to Render TEX to MARKDOWN
 description: Transform TEX to MARKDOWN via Android via Java API
-url: /android-java/conversion/tex-to-markdown/
+url_ignore: /android-java/conversion/tex-to-markdown/
 family: total
 platformtag: android-java
 feature: conversion

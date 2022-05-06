@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPOTMをFODSに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPOTMをFODSに変換する
-url: /ja/net/conversion/potm-to-fods/
+url_ignore: /ja/net/conversion/potm-to-fods/
 family: total
 platformtag: net
 feature: conversion

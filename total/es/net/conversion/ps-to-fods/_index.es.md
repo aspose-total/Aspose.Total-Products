@@ -1,7 +1,7 @@
 ---
 title: Convierta PS a FODS a través de la API de C#
 description: API C# para convertir archivos PS a FODS sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/ps-to-fods/
+url_ignore: /es/net/conversion/ps-to-fods/
 family: total
 platformtag: net
 feature: conversion

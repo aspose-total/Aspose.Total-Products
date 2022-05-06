@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή SVG σε POWERPOINT μέσω Java API
 description: Java API για μετατροπή SVG σε POWERPOINT χωρίς χρήση του Microsoft Word
-url: /el/java/conversion/svg-to-powerpoint/
+url_ignore: /el/java/conversion/svg-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

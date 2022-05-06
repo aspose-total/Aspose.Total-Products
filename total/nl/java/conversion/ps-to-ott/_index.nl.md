@@ -1,7 +1,7 @@
 ---
 title: Java API om PS naar OTT te exporteren
 description: Converteer PS naar OTT met behulp van on-premise Java API
-url: /nl/java/conversion/ps-to-ott/
+url_ignore: /nl/java/conversion/ps-to-ott/
 family: total
 platformtag: net
 feature: conversion

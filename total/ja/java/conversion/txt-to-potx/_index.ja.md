@@ -1,7 +1,7 @@
 ---
 title: Java経由でTXTをPOTXに変換する
 description: MicrosoftWordやPowerPointを使用せずにTXTをPOTXにエクスポートするJavaAPI
-url: /ja/java/conversion/txt-to-potx/
+url_ignore: /ja/java/conversion/txt-to-potx/
 family: total
 platformtag: net
 feature: conversion

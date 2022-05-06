@@ -1,7 +1,7 @@
 ---
 title: SVG'yi PS'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan SVG'yi PS'ye dönüştürün
-url: /tr/net/conversion/svg-to-ps/
+url_ignore: /tr/net/conversion/svg-to-ps/
 family: total
 platformtag: net
 feature: conversion

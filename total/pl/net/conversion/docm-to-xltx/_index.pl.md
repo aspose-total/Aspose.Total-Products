@@ -1,7 +1,7 @@
 ---
 title: .NET API do konwersji DOCM na XLTX
 description: C# API do konwersji DOCM na XLTX bez użycia Microsoft Excel lub Adobe Reader
-url: /pl/net/conversion/docm-to-xltx/
+url_ignore: /pl/net/conversion/docm-to-xltx/
 family: total
 platformtag: net
 feature: conversion
@@ -18,7 +18,7 @@ Używając [Aspose.Total for .NET](https://products.aspose.com/total/net/) może
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API do konwersji DOCM na XLTX" %}}
-1. Otwórz plik DOCM za pomocą klasy [Document](https://apireference.aspose.com/words/net/aspose.words/document
+1. Otwórz plik DOCM za pomocą klasy [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 2. Konwertuj DOCM na HTML za pomocą metody [Save](https://apireference.aspose.com/words/net/aspose.words.documentsave/methods/4)
 3. Załaduj dokument HTML za pomocą klasy [Książka](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Zapisz dokument w formacie XLTX za pomocą metody [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) i ustaw `XLTX` jako SaveFormat
@@ -46,7 +46,6 @@ Możesz też pobrać instalator offline MSI lub biblioteki DLL w pliku ZIP ze st
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Dodaj niestandardowe właściwości w pliku XLTX za pomocą C#" %}}
 Podczas konwertowania DOCM na XLTX [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) umożliwia dodawanie niestandardowych właściwości w dokumentach XLTX. Aby dodać niestandardową właściwość, możesz użyć metody [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentropertycollection/methods/add/index) dla [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/CustomDocumentPropertyCollection). Metoda Add dodaje właściwość do pliku Excel i zwraca odwołanie do nowej właściwości dokumentu jako [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties/DocumentProperty). 
 {{% blocks/products/pf/feature-page-code %}}

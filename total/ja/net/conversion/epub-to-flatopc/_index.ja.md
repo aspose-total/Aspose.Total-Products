@@ -1,7 +1,7 @@
 ---
 title: EPUBをFLATOPCにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにEPUBをFLATOPCに変換する
-url: /ja/net/conversion/epub-to-flatopc/
+url_ignore: /ja/net/conversion/epub-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

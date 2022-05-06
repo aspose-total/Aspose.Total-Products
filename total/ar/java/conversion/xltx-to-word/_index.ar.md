@@ -1,7 +1,7 @@
 ---
 title: تحويل XLTX إلى WORD باستخدام Java
 description: Java API لتصدير XLTX إلى WORD باستخدام Excel أو Word
-url: /ar/java/conversion/xltx-to-word/
+url_ignore: /ar/java/conversion/xltx-to-word/
 family: total
 platformtag: net
 feature: conversion

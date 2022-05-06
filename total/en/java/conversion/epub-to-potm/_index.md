@@ -1,7 +1,7 @@
 ---
 title: Convert EPUB to POTM via Java API
 description: Java API to Convert EPUB to POTM without using Microsoft Word
-url: /java/conversion/epub-to-potm/
+url_ignore: /java/conversion/epub-to-potm/
 family: total
 platformtag: java
 feature: conversion

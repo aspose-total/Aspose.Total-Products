@@ -1,7 +1,7 @@
 ---
 title: ODTをODSに変換するJavaAPI
 description: MicrosoftWordやMicrosoftExcelを使用せずに、Java経由でODTをODSに変換する
-url: /ja/java/conversion/odt-to-ods/
+url_ignore: /ja/java/conversion/odt-to-ods/
 family: total
 platformtag: net
 feature: conversion
@@ -19,7 +19,7 @@ otherformats: XLS FODS XLAM XLT XLSM EXCEL XLSB XLSX SXC XLTX TSV DIF XLTM ODS
 1. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Odtument)クラスを使用してODTファイルを開きます
 2. [保存](https://apireference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String,com.aspose.words.SaveOptions)を使用してODTをHTMLに変換します) 方法
 3. [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)クラスを使用してHTMLドキュメントをロードします
-4. [保存](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells)を使用して、ドキュメントをODS形式で保存します。 SaveOptions))メソッド
+4. [保存](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells))を使用して、ドキュメントをODS形式で保存します。 SaveOptions))メソッド
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)ベースのプロジェクトから直接Aspose.TotalforJavaを簡単に使用できます[Aspose.Words for Java](https://odts.aspose.com/words/java/installation/)と[Aspose.Cells for Java](https://odts.aspose.com/cells/java/installation/)を含めますあなたのpom.xmlの。

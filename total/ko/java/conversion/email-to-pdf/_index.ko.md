@@ -1,7 +1,7 @@
 ---
 title: Java를 통해 EMAIL을 PDF로 내보내기
 description: Microsoft Word 또는 Outlook을 사용하지 않고 EMAIL을 PDF로 변환하는 Java API
-url: /ko/java/conversion/email-to-pdf/
+url_ignore: /ko/java/conversion/email-to-pdf/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API για μετατροπή DOC σε XLAM
 description: Μετατροπή DOC σε XLAM μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel
-url: /el/java/conversion/doc-to-xlam/
+url_ignore: /el/java/conversion/doc-to-xlam/
 family: total
 platformtag: net
 feature: conversion

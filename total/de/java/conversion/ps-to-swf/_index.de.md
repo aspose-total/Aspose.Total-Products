@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie PS über die Java-API in SWF
 description: Java-API zum Konvertieren von PS in SWF ohne Verwendung von Microsoft Word
-url: /de/java/conversion/ps-to-swf/
+url_ignore: /de/java/conversion/ps-to-swf/
 family: total
 platformtag: net
 feature: conversion

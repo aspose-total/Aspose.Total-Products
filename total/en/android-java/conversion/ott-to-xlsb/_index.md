@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert OTT to XLSB
 description: Convert OTT to XLSB in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/ott-to-xlsb/
+url_ignore: /android-java/conversion/ott-to-xlsb/
 family: total
 platformtag: android-java
 feature: conversion

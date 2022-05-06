@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOCX to XLT
 description: Convert DOCX to XLT in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/docx-to-xlt/
+url_ignore: /android-java/conversion/docx-to-xlt/
 family: total
 platformtag: android-java
 feature: conversion

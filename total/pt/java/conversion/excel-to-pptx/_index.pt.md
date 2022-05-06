@@ -1,7 +1,7 @@
 ---
 title: Converter EXCEL para PPTX usando Java
 description: API Java para exportar EXCEL para PPTX usando Excel ou Word
-url: /pt/java/conversion/excel-to-pptx/
+url_ignore: /pt/java/conversion/excel-to-pptx/
 family: total
 platformtag: net
 feature: conversion

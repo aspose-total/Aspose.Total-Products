@@ -1,7 +1,7 @@
 ---
 title: Преобразование формата JSON в DOCM через Java
 description: Разобрать JSON в DOCM на Java без использования Microsoft Word
-url: /ru/java/conversion/json-to-docm/
+url_ignore: /ru/java/conversion/json-to-docm/
 family: total
 platformtag: net
 feature: conversion

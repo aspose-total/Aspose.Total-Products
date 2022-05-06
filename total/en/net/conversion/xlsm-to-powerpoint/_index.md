@@ -1,7 +1,7 @@
 ---
 title: Convert XLSM to POWERPOINT with .NET 
 description: Convert XLSM to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms
-url: /net/conversion/xlsm-to-powerpoint/
+url_ignore: /net/conversion/xlsm-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

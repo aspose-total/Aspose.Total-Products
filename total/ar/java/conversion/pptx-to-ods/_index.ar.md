@@ -1,7 +1,7 @@
 ---
 title: تحويل PPTX إلى تنسيق ODS عبر Java
 description: قم بتحويل PPTX إلى تنسيق ODS عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/pptx-to-ods/
+url_ignore: /ar/java/conversion/pptx-to-ods/
 family: total
 platformtag: net
 feature: conversion

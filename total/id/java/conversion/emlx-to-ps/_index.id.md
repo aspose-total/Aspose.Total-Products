@@ -1,7 +1,7 @@
 ---
 title: Ekspor EMLX ke PS melalui Java
 description: Java API untuk Mengonversi EMLX ke PS tanpa menggunakan Microsoft Word atau Outlook
-url: /id/java/conversion/emlx-to-ps/
+url_ignore: /id/java/conversion/emlx-to-ps/
 family: total
 platformtag: net
 feature: conversion

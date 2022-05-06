@@ -1,7 +1,7 @@
 ---
 title: Java経由でJSON形式をJPEG2000に変換する
 description: Microsoft PowerPointを使用せずに、JavaでJSONをJPEG2000に解析します
-url: /ja/java/conversion/json-to-jpeg2000/
+url_ignore: /ja/java/conversion/json-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

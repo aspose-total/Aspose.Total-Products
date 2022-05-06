@@ -1,7 +1,7 @@
 ---
 title: Java経由でOFTをPSにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにOFTをPSに変換するJavaAPI
-url: /ja/java/conversion/oft-to-ps/
+url_ignore: /ja/java/conversion/oft-to-ps/
 family: total
 platformtag: net
 feature: conversion

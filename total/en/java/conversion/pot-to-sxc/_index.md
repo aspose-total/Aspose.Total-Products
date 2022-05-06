@@ -1,7 +1,7 @@
 ---
 title: Convert POT to SXC Format via Java
 description: Convert POT to SXC format via Java without using using Microsoft Excel or PowerPoint
-url: /java/conversion/pot-to-sxc/
+url_ignore: /java/conversion/pot-to-sxc/
 family: total
 platformtag: java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: 通过 C# API 将 EPUB 转换为 PSD
 description: 在您的 .NET 应用程序中将 EPUB 导出为 PSD，而无需使用任何第三方应用程序
-url: /zh/net/conversion/epub-to-psd/
+url_ignore: /zh/net/conversion/epub-to-psd/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java ile POWERPOINT'u WORD'ye dönüştürün
 description: Microsoft Word veya PowerPoint kullanmadan POWERPOINT'u WORD'a Aktarmak için Java API
-url: /tr/java/conversion/powerpoint-to-word/
+url_ignore: /tr/java/conversion/powerpoint-to-word/
 family: total
 platformtag: net
 feature: conversion

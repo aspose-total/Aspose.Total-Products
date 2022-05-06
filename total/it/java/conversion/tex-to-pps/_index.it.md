@@ -1,7 +1,7 @@
 ---
 title: Converti TEX in PPS tramite API Java
 description: API Java per convertire TEX in PPS senza utilizzare Microsoft Word
-url: /it/java/conversion/tex-to-pps/
+url_ignore: /it/java/conversion/tex-to-pps/
 family: total
 platformtag: net
 feature: conversion

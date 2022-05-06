@@ -1,7 +1,7 @@
 ---
 title: PS'yi MHTML'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak PS'yi MHTML'ye dönüştürün
-url: /tr/java/conversion/ps-to-mhtml/
+url_ignore: /tr/java/conversion/ps-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

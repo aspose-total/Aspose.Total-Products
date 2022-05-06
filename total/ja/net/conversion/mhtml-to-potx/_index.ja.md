@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMHTMLをPOTXにエクスポートする
 description: MicrosoftWordを使用せずにMHTMLをPOTXに変換する.NETAPI
-url: /ja/net/conversion/mhtml-to-potx/
+url_ignore: /ja/net/conversion/mhtml-to-potx/
 family: total
 platformtag: net
 feature: conversion

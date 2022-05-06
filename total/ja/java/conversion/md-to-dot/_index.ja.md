@@ -1,7 +1,7 @@
 ---
 title: MDをDOTにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してMDをDOTに変換する
-url: /ja/java/conversion/md-to-dot/
+url_ignore: /ja/java/conversion/md-to-dot/
 family: total
 platformtag: net
 feature: conversion

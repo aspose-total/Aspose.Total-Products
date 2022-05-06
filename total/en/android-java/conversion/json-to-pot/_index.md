@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to POT in Android via Java 
 description: Parse JSON to POT in Android Applications without using Microsoft PowerPoint
-url: /android-java/conversion/json-to-pot/
+url_ignore: /android-java/conversion/json-to-pot/
 family: total
 platformtag: android-java
 feature: conversion

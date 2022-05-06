@@ -1,7 +1,7 @@
 ---
 title: DOCM'yi XLTM'ye Dönüştürmek için .NET API
 description: Microsoft Excel veya Adobe Reader kullanmadan DOCM'yi XLTM'ye dönüştürmek için C# API'si
-url: /tr/net/conversion/docm-to-xltm/
+url_ignore: /tr/net/conversion/docm-to-xltm/
 family: total
 platformtag: net
 feature: conversion

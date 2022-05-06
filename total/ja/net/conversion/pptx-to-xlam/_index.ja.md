@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPPTXをXLAMに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPTXをXLAMに変換する
-url: /ja/net/conversion/pptx-to-xlam/
+url_ignore: /ja/net/conversion/pptx-to-xlam/
 family: total
 platformtag: net
 feature: conversion

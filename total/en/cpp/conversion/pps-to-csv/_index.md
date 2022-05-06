@@ -1,7 +1,7 @@
 ---
 title: Convert PPS to CSV via C++ 
 description: Export PPS to CSV in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pps-to-csv/
+url_ignore: /cpp/conversion/pps-to-csv/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a JSON-formátumot DICOM-vé .NET-en keresztül
 description: Elemezze a JSON-t DICOM-re C#-ban harmadik féltől származó függőségek használata nélkül
-url: /hu/net/conversion/json-to-dicom/
+url_ignore: /hu/net/conversion/json-to-dicom/
 family: total
 platformtag: net
 feature: conversion
@@ -19,15 +19,15 @@ Az [Aspose.Total for .NET](https://products.aspose.com/total/net/) használatáv
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertálja a JSON formátumot DICOM-re a C# segítségével" %}}
 1. Hozzon létre egy új [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) objektumot, és olvassa be a JSON-adatokat a fájlból
-2. Konvertálja a JSON fájlt JPEG formátumba a [Mentés](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) módszerrel
+2. Konvertálja a JSON fájlt JPEG formátumba a [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) módszerrel
 3. Töltse be a JPEG dokumentumot az [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) osztály használatával
-4. Mentse a dokumentumot DICOM formátumba a [Mentés](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) módszerrel
+4. Mentse a dokumentumot DICOM formátumba a [Save](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) módszerrel
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 Telepítés parancssorból ```nuget install Aspose.Total``` néven, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.Total``` paranccsal.
 
-Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads] webhelyről (https://downloads.aspose.com/total/net).
+Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads](https://downloads.aspose.com/total/net) webhelyről.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}

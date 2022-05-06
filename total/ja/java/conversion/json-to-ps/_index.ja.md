@@ -1,7 +1,7 @@
 ---
 title: Java経由でJSON形式をPSに変換する
 description: MicrosoftWordを使用せずにJavaでJSONをPSに解析する
-url: /ja/java/conversion/json-to-ps/
+url_ignore: /ja/java/conversion/json-to-ps/
 family: total
 platformtag: net
 feature: conversion

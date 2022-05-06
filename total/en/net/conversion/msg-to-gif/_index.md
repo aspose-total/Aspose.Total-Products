@@ -1,7 +1,7 @@
 ---
 title: C# API to Export MSG to GIF
 description: Convert MSG to GIF without using Microsoft Word or Outlook on .NET
-url: /net/conversion/msg-to-gif/
+url_ignore: /net/conversion/msg-to-gif/
 family: total
 platformtag: net
 feature: conversion

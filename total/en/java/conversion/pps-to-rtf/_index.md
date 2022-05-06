@@ -1,7 +1,7 @@
 ---
 title: Convert PPS to RTF via Java
 description: Java API to Export PPS to RTF without using Microsoft Word or PowerPoint
-url: /java/conversion/pps-to-rtf/
+url_ignore: /java/conversion/pps-to-rtf/
 family: total
 platformtag: java
 feature: conversion

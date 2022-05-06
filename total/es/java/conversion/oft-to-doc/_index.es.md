@@ -1,7 +1,7 @@
 ---
 title: Exportar OFT a DOC a través de Java
 description: API de Java para convertir OFT a DOC sin usar Microsoft Word o Outlook
-url: /es/java/conversion/oft-to-doc/
+url_ignore: /es/java/conversion/oft-to-doc/
 family: total
 platformtag: net
 feature: conversion

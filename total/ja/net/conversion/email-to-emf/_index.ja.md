@@ -1,7 +1,7 @@
 ---
 title: EMAILをEMFにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMAILをEMFに変換する
-url: /ja/net/conversion/email-to-emf/
+url_ignore: /ja/net/conversion/email-to-emf/
 family: total
 platformtag: net
 feature: conversion

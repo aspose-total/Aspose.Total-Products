@@ -1,7 +1,7 @@
 ---
 title: C# API pro export MD do PCL
 description: Převeďte MD na PCL bez použití aplikace Microsoft Word
-url: /cs/net/conversion/md-to-pcl/
+url_ignore: /cs/net/conversion/md-to-pcl/
 family: total
 platformtag: net
 feature: conversion

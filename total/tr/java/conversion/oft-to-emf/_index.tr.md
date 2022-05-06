@@ -1,7 +1,7 @@
 ---
 title: OFT'i Java aracılığıyla EMF'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan OFT'i EMF'ye Dönüştürmek için Java API
-url: /tr/java/conversion/oft-to-emf/
+url_ignore: /tr/java/conversion/oft-to-emf/
 family: total
 platformtag: net
 feature: conversion

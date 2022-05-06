@@ -1,7 +1,7 @@
 ---
 title: Konversi Format JSON ke TGA melalui Java
 description: Parsing JSON ke TGA di Java tanpa menggunakan Microsoft PowerPoint
-url: /id/java/conversion/json-to-tga/
+url_ignore: /id/java/conversion/json-to-tga/
 family: total
 platformtag: net
 feature: conversion

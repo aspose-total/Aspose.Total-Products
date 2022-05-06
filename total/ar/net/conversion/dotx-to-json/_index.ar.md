@@ -1,7 +1,7 @@
 ---
 title: تحويل DOTX إلى تنسيق JSON عبر .NET
 description: تحويل DOTX إلى JSON في C# بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/dotx-to-json/
+url_ignore: /ar/net/conversion/dotx-to-json/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ otherformats: XLT EXCEL ODS XLTM TSV XLAM SXC DIF XLS XLSB XLTX XLSX CSV FODS
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="تحويل DOTX إلى تنسيق JSON عبر C#" %}}
-1. افتح ملف DOTX باستخدام فئة [Document](https://apireference.aspose.com/words/net/aspose.words/dotxument)
-2. تحويل DOTX إلى HTML باستخدام طريقة [Save](https://apireference.aspose.com/words/net/aspose.words.dotxument/save/methods/4)
+1. افتح ملف DOTX باستخدام فئة [Document](https://apireference.aspose.com/words/net/aspose.words/Document)
+2. تحويل DOTX إلى HTML باستخدام طريقة [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4)
 3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. احفظ المستند بتنسيق JSON باستخدام طريقة [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή CGM σε POWERPOINT μέσω Java API
 description: Java API για μετατροπή CGM σε POWERPOINT χωρίς χρήση του Microsoft Word
-url: /el/java/conversion/cgm-to-powerpoint/
+url_ignore: /el/java/conversion/cgm-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

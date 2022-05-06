@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to POWERPOINT via Java
 description: Java API to Export WORDML to POWERPOINT without using Microsoft Word or PowerPoint
-url: /java/conversion/wordml-to-powerpoint/
+url_ignore: /java/conversion/wordml-to-powerpoint/
 family: total
 platformtag: java
 feature: conversion

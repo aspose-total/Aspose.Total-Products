@@ -1,7 +1,7 @@
 ---
 title: Convert POT to XLAM via C++ 
 description: Export POT to XLAM in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pot-to-xlam/
+url_ignore: /cpp/conversion/pot-to-xlam/
 family: total
 platformtag: cpp
 feature: conversion

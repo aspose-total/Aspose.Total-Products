@@ -1,7 +1,7 @@
 ---
 title: Konvertera PPSX till DIF-format via Java
 description: Konvertera PPSX till DIF-format via Java utan att använda Microsoft Excel eller PowerPoint
-url: /sv/java/conversion/ppsx-to-dif/
+url_ignore: /sv/java/conversion/ppsx-to-dif/
 family: total
 platformtag: net
 feature: conversion

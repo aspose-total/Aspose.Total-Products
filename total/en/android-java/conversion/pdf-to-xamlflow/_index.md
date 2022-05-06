@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PDF to XAMLFLOW
 description: Transform PDF to XAMLFLOW via Android via Java API
-url: /android-java/conversion/pdf-to-xamlflow/
+url_ignore: /android-java/conversion/pdf-to-xamlflow/
 family: total
 platformtag: android-java
 feature: conversion

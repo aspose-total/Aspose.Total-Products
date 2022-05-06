@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PCL to WORDML
 description: Convert PCL to WORDML within C++ applications.
-url: /cpp/conversion/pcl-to-wordml/
+url_ignore: /cpp/conversion/pcl-to-wordml/
 family: total
 platformtag: cpp
 feature: conversion

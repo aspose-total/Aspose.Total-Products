@@ -1,7 +1,7 @@
 ---
 title: TEX을 MHTML으로 내보내기 위한 C# API
 description: Microsoft Word를 사용하지 않고 TEX을 MHTML으로 변환
-url: /ko/net/conversion/tex-to-mhtml/
+url_ignore: /ko/net/conversion/tex-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

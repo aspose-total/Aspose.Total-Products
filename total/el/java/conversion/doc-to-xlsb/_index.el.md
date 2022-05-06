@@ -1,7 +1,7 @@
 ---
 title: Java API για μετατροπή DOC σε XLSB
 description: Μετατροπή DOC σε XLSB μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel
-url: /el/java/conversion/doc-to-xlsb/
+url_ignore: /el/java/conversion/doc-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

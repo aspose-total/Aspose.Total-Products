@@ -1,7 +1,7 @@
 ---
 title: Convert ODT to POTX in Android via Java
 description: ODT to POTX conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/odt-to-potx/
+url_ignore: /android-java/conversion/odt-to-potx/
 family: total
 platformtag: android-java
 feature: conversion

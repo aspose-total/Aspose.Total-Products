@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to POWERPOINT in Android via Java
 description: WORDML to POWERPOINT conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/wordml-to-powerpoint/
+url_ignore: /android-java/conversion/wordml-to-powerpoint/
 family: total
 platformtag: android-java
 feature: conversion

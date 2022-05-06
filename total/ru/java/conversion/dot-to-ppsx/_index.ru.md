@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOT в PPSX через Java
 description: Java API для экспорта DOT в PPSX без использования Microsoft Word или PowerPoint
-url: /ru/java/conversion/dot-to-ppsx/
+url_ignore: /ru/java/conversion/dot-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

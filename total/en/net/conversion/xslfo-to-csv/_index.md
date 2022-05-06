@@ -1,7 +1,7 @@
 ---
 title: Convert XSLFO to CSV via C# API
 description: C# API to Convert XSLFO File to CSV without using Microsoft Excel or Adobe Reader
-url: /net/conversion/xslfo-to-csv/
+url_ignore: /net/conversion/xslfo-to-csv/
 family: total
 platformtag: net
 feature: conversion

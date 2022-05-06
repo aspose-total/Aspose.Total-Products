@@ -1,7 +1,7 @@
 ---
 title: Экспорт PS в PPS через C# API
 description: .NET API для преобразования PS в PPS без использования Microsoft Word
-url: /ru/net/conversion/ps-to-pps/
+url_ignore: /ru/net/conversion/ps-to-pps/
 family: total
 platformtag: net
 feature: conversion

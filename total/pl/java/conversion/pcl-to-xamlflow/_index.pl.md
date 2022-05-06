@@ -1,7 +1,7 @@
 ---
 title: Java API do eksportu PCL do XAMLFLOW
 description: Konwertuj PCL na XAMLFLOW za pomocą lokalnego interfejsu Java API
-url: /pl/java/conversion/pcl-to-xamlflow/
+url_ignore: /pl/java/conversion/pcl-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API를 통해 MD을 POT로 내보내기
 description: Microsoft Word를 사용하지 않고 MD을 POT로 변환하는 .NET API
-url: /ko/net/conversion/md-to-pot/
+url_ignore: /ko/net/conversion/md-to-pot/
 family: total
 platformtag: net
 feature: conversion

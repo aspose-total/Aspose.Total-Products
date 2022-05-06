@@ -1,7 +1,7 @@
 ---
 title: DOTX'yi XLT'ye Dönüştürmek için Java API
 description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla DOTX'yi XLT'ye dönüştürün
-url: /tr/java/conversion/dotx-to-xlt/
+url_ignore: /tr/java/conversion/dotx-to-xlt/
 family: total
 platformtag: net
 feature: conversion

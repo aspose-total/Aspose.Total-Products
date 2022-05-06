@@ -1,7 +1,7 @@
 ---
 title: PCL'yi GIF'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak PCL'yi GIF'ye dönüştürün
-url: /tr/java/conversion/pcl-to-gif/
+url_ignore: /tr/java/conversion/pcl-to-gif/
 family: total
 platformtag: net
 feature: conversion

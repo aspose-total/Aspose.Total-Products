@@ -1,6 +1,6 @@
 ---
 title: Преобразование WORDML в PPSX через C# .NET 
-url: /ru/net/conversion/wordml-to-ppsx/ 
+url_ignore: /ru/net/conversion/wordml-to-ppsx/ 
 description: Преобразование документов Word wordml в файлы PowerPoint ppsx с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

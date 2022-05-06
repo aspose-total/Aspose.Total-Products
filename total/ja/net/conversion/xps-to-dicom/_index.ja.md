@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXPSをDICOMに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでXPSをDICOMにエクスポートします
-url: /ja/net/conversion/xps-to-dicom/
+url_ignore: /ja/net/conversion/xps-to-dicom/
 family: total
 platformtag: net
 feature: conversion

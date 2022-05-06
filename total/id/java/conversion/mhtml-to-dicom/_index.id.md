@@ -1,7 +1,7 @@
 ---
 title: Konversi MHTML ke DICOM melalui Java
 description: Ekspor file MHTML ke DICOM di aplikasi Java Anda tanpa menggunakan aplikasi pihak ketiga
-url: /id/java/conversion/mhtml-to-dicom/
+url_ignore: /id/java/conversion/mhtml-to-dicom/
 family: total
 platformtag: net
 feature: conversion

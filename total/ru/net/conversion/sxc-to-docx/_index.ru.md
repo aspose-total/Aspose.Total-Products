@@ -1,7 +1,7 @@
 ---
 title: Преобразование SXC в DOCX с помощью .NET 
 description: Преобразование SXC в DOCX на платформах .NET Framework, .NET Core, Mono или Xamarin.
-url: /ru/net/conversion/sxc-to-docx/
+url_ignore: /ru/net/conversion/sxc-to-docx/
 family: total
 platformtag: net
 feature: conversion

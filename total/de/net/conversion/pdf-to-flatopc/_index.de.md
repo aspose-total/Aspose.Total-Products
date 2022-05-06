@@ -1,7 +1,7 @@
 ---
 title: C#-API zum Exportieren von PDF nach FLATOPC
 description: Konvertieren Sie PDF in FLATOPC, ohne Microsoft Word zu verwenden
-url: /de/net/conversion/pdf-to-flatopc/
+url_ignore: /de/net/conversion/pdf-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API för att exportera EPUB till PS
 description: Konvertera EPUB till PS med hjälp av det lokala Java API
-url: /sv/java/conversion/epub-to-ps/
+url_ignore: /sv/java/conversion/epub-to-ps/
 family: total
 platformtag: net
 feature: conversion

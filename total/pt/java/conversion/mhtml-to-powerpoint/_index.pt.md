@@ -1,7 +1,7 @@
 ---
 title: Converter MHTML para POWERPOINT via API Java
 description: API Java para converter MHTML para POWERPOINT sem usar o Microsoft Word
-url: /pt/java/conversion/mhtml-to-powerpoint/
+url_ignore: /pt/java/conversion/mhtml-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

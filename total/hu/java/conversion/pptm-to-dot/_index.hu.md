@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PPTM-ot DOT-ba Java segítségével
 description: Java API a PPTM exportálásához DOT-ba Microsoft Word vagy PowerPoint használata nélkül
-url: /hu/java/conversion/pptm-to-dot/
+url_ignore: /hu/java/conversion/pptm-to-dot/
 family: total
 platformtag: net
 feature: conversion
@@ -24,7 +24,7 @@ otherformats: FLATOPC ODT DOTM TEXT DOTM DOTX OTT DOT WORDML DOTX WORD RTF
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 A PPTM-ból DOT-fájlba konvertálásához egyszerűen használhatja az Aspose.Total for Java-t közvetlenül a [Maven]-ből (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) alapú projektet, és vegyen fel könyvtárakat a pom.xml fájlba.
 
-Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads] webhelyről (https://downloads.aspose.com/total/java).
+Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

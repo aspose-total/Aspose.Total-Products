@@ -1,7 +1,7 @@
 ---
 title: Преобразование формата JSON в OTP через Java
 description: Разбор JSON в OTP на Java без использования Microsoft PowerPoint
-url: /ru/java/conversion/json-to-otp/
+url_ignore: /ru/java/conversion/json-to-otp/
 family: total
 platformtag: net
 feature: conversion

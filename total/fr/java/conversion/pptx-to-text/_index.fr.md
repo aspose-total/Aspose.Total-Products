@@ -1,7 +1,7 @@
 ---
 title: Convertir PPTX en TEXT via Java
 description: API Java pour exporter PPTX vers TEXT sans utiliser Microsoft Word ou PowerPoint
-url: /fr/java/conversion/pptx-to-text/
+url_ignore: /fr/java/conversion/pptx-to-text/
 family: total
 platformtag: net
 feature: conversion
@@ -12,7 +12,7 @@ otherformats: TEXTM TEXT WORDML TEXTX OTT DOTX DOT ODT FLATOPC WORD RTF DOTM
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Convertir PPTX en TEXT via Java" h2="API Java sur site pour la conversion PowerPoint PPTX en TEXT dans toutes les applications Java J2SE, J2EE, J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total pour Java](https://products.aspose.com/total/java/) Les bibliothèques d'automatisation du format de fichier permettent aux développeurs Java d'automatiser le processus de conversion par lots de PowerPoint PPTX en Word TEXT. La conversion du textument est un processus en deux étapes et implique l'utilisation de deux API. Nous utiliserons [Aspose.Slides for Java](https://products.aspose.com/slides/java/) qui est une API PowerPoint pour la manipulation et la gestion des présentations afin de convertir PPTX en HTML. Après cela, en utilisant l'API de traitement de texte riche en fonctionnalités [Aspose.Words pour Java](https://products.aspose.com/words/java/), nous convertirons le HTML en TEXT.
+[Aspose.Total for Java](https://products.aspose.com/total/java/) Les bibliothèques d'automatisation du format de fichier permettent aux développeurs Java d'automatiser le processus de conversion par lots de PowerPoint PPTX en Word TEXT. La conversion du textument est un processus en deux étapes et implique l'utilisation de deux API. Nous utiliserons [Aspose.Slides for Java](https://products.aspose.com/slides/java/) qui est une API PowerPoint pour la manipulation et la gestion des présentations afin de convertir PPTX en HTML. Après cela, en utilisant l'API de traitement de texte riche en fonctionnalités [Aspose.Words for Java](https://products.aspose.com/words/java/), nous convertirons le HTML en TEXT.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Comment convertir PPTX en TEXT via Java" %}}
@@ -29,14 +29,16 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://d
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Exigences de conversion" %}}
 À l'aide de l'API, vous pouvez également effectuer une conversion de fichier PPTX en TEXT avec filigrane. Afin d'ajouter un filigrane à votre textument TEXT, vous pouvez d'abord convertir le fichier PPTX en HTML et y ajouter un filigrane. Pour ajouter un filigrane, chargez le fichier HTML nouvellement créé à l'aide de la classe [Textument](https://apireference.aspose.com/words/java/com.aspose.words/Textument), créez une instance de TextWatermarkOptions et définissez ses propriétés, appelez la méthode Watermark.setText et transmettez le texte et l'objet du filigrane de TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}
+{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

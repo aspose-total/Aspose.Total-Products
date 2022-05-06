@@ -1,7 +1,7 @@
 ---
 title: Преобразование TEX в SWF через Java API
 description: Java API для преобразования TEX в SWF без использования Microsoft Word
-url: /ru/java/conversion/tex-to-swf/
+url_ignore: /ru/java/conversion/tex-to-swf/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to XLTX in C++
 description: C++ API to Convert RTF to XLTX without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/rtf-to-xltx/
+url_ignore: /cpp/conversion/rtf-to-xltx/
 family: total
 platformtag: cpp
 feature: conversion

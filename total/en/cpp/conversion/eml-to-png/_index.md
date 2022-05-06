@@ -1,7 +1,7 @@
 ---
 title: Export EML to PNG via C++
 description: C++ API to Convert EML to PNG without using Microsoft Word or Outlook
-url: /cpp/conversion/eml-to-png/
+url_ignore: /cpp/conversion/eml-to-png/
 family: total
 platformtag: cpp
 feature: conversion

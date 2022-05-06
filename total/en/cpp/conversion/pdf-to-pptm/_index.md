@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PDF to PPTM  
 description: Convert PDF to PPTM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/pdf-to-pptm/
+url_ignore: /cpp/conversion/pdf-to-pptm/
 family: total
 platformtag: cpp
 feature: conversion

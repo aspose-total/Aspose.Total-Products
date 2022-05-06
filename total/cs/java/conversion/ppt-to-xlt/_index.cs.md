@@ -1,7 +1,7 @@
 ---
 title: Převeďte PPT do formátu XLT přes Java
 description: Převeďte PPT do formátu XLT přes Java bez použití Microsoft Excel nebo PowerPoint
-url: /cs/java/conversion/ppt-to-xlt/
+url_ignore: /cs/java/conversion/ppt-to-xlt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: 使用 Java 将 XLT 转换为 POWERPOINT
 description: 使用 Excel 或 Word 将 XLT 导出为 POWERPOINT 的 Java API
-url: /zh/java/conversion/xlt-to-powerpoint/
+url_ignore: /zh/java/conversion/xlt-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

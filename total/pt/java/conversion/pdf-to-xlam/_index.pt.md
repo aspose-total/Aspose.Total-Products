@@ -1,7 +1,7 @@
 ---
 title: API Java para renderizar PDF para XLAM
 description: Exporte PDF para XLAM via API Java sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/java/conversion/pdf-to-xlam/
+url_ignore: /pt/java/conversion/pdf-to-xlam/
 family: total
 platformtag: net
 feature: conversion

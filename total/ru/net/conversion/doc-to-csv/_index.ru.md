@@ -1,7 +1,7 @@
 ---
 title: .NET API для преобразования DOC в CSV
 description: C# API для преобразования DOC в CSV без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/doc-to-csv/
+url_ignore: /ru/net/conversion/doc-to-csv/
 family: total
 platformtag: net
 feature: conversion

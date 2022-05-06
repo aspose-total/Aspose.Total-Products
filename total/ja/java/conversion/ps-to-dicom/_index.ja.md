@@ -1,7 +1,7 @@
 ---
 title: Javaを介してPSをDICOMに変換する
 description: サードパーティのアプリケーションを使用せずに、JavaアプリケーションのDICOMにPSファイルをエクスポートします
-url: /ja/java/conversion/ps-to-dicom/
+url_ignore: /ja/java/conversion/ps-to-dicom/
 family: total
 platformtag: net
 feature: conversion
@@ -17,7 +17,7 @@ otherformats: TGA DICOM JPEG2000 IMAGE WMF PSD WMZ DXF EMZ SVGZ
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java経由でPSをDICOMにエクスポート" %}}
 1. [ドキュメント](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)クラスを使用してPSファイルを開きます
-2. [JpegDevice](JpegDevice)クラスオブジェクトを初期化し、[Process](https://apireference.aspose.com/pdf/java/com.aspose.pdf.devices/JpegDevice#process-com)を使用してPSをJPEGにレンダリングします。 aspose.pdf.Page-java.io.OutputStream-)メソッド
+2. JpegDeviceクラスオブジェクトを初期化し、[Process](https://apireference.aspose.com/pdf/java/com.aspose.pdf.devices/JpegDevice#process-com)を使用してPSをJPEGにレンダリングします。 aspose.pdf.Page-java.io.OutputStream-)メソッド
 3. [Image](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image)クラスを使用してJPEGファイルをロードします
 4. [save](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBaseを使用してドキュメントをDICOM形式で保存します-) 方法
 {{% /blocks/products/pf/agp/feature-section-col %}}

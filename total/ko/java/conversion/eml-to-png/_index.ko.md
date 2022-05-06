@@ -1,7 +1,7 @@
 ---
 title: Java를 통해 EML을 PNG로 내보내기
 description: Microsoft Word 또는 Outlook을 사용하지 않고 EML을 PNG로 변환하는 Java API
-url: /ko/java/conversion/eml-to-png/
+url_ignore: /ko/java/conversion/eml-to-png/
 family: total
 platformtag: net
 feature: conversion

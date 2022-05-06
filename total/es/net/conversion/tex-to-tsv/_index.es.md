@@ -1,7 +1,7 @@
 ---
 title: Convierta TEX a TSV a través de la API de C#
 description: API C# para convertir archivos TEX a TSV sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/tex-to-tsv/
+url_ignore: /es/net/conversion/tex-to-tsv/
 family: total
 platformtag: net
 feature: conversion

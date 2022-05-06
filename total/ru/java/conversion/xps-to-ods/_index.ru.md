@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга XPS в ODS
 description: Экспорт XPS в ODS через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/xps-to-ods/
+url_ignore: /ru/java/conversion/xps-to-ods/
 family: total
 platformtag: net
 feature: conversion

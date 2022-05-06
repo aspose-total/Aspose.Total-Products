@@ -1,7 +1,7 @@
 ---
 title: Convert PPT to CSV via C# 
 description: Convert PPT to CSV in C# without using Microsoft Excel or Powerpoint
-url: /net/conversion/ppt-to-csv/
+url_ignore: /net/conversion/ppt-to-csv/
 family: total
 platformtag: net
 feature: conversion

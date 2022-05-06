@@ -1,7 +1,7 @@
 ---
 title: Convert DOCM to PPT via C++
 description: Export DOCM to PPT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/docm-to-ppt/
+url_ignore: /cpp/conversion/docm-to-ppt/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してTEXをXLSMに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにTEXファイルをXLSMに変換するC＃API
-url: /ja/net/conversion/tex-to-xlsm/
+url_ignore: /ja/net/conversion/tex-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

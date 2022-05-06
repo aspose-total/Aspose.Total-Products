@@ -1,7 +1,7 @@
 ---
 title: Convert POT to EXCEL via C++ 
 description: Export POT to EXCEL in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pot-to-excel/
+url_ignore: /cpp/conversion/pot-to-excel/
 family: total
 platformtag: cpp
 feature: conversion

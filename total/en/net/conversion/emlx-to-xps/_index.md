@@ -1,7 +1,7 @@
 ---
 title: C# API to Export EMLX to XPS
 description: Convert EMLX to XPS without using Microsoft Word or Outlook on .NET
-url: /net/conversion/emlx-to-xps/
+url_ignore: /net/conversion/emlx-to-xps/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to XLSB in C++
 description: C++ API to Convert DOT to XLSB without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/dot-to-xlsb/
+url_ignore: /cpp/conversion/dot-to-xlsb/
 family: total
 platformtag: cpp
 feature: conversion

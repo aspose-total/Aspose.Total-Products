@@ -1,7 +1,7 @@
 ---
 title: API C# per esportare EML in DOT
 description: Converti EML in DOT senza utilizzare Microsoft Word o Outlook su .NET
-url: /it/net/conversion/eml-to-dot/
+url_ignore: /it/net/conversion/eml-to-dot/
 family: total
 platformtag: net
 feature: conversion

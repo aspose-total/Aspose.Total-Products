@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PDF to ODT
 description: Transform PDF to ODT via Android via Java API
-url: /android-java/conversion/pdf-to-odt/
+url_ignore: /android-java/conversion/pdf-to-odt/
 family: total
 platformtag: android-java
 feature: conversion

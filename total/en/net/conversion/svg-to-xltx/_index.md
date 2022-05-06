@@ -1,7 +1,7 @@
 ---
 title: Convert SVG to XLTX via C# API
 description: C# API to Convert SVG File to XLTX without using Microsoft Excel or Adobe Reader
-url: /net/conversion/svg-to-xltx/
+url_ignore: /net/conversion/svg-to-xltx/
 family: total
 platformtag: net
 feature: conversion

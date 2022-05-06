@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXMLをTXTに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにXMLファイルをTXTに変換するC＃API
-url: /ja/net/conversion/xml-to-txt/
+url_ignore: /ja/net/conversion/xml-to-txt/
 family: total
 platformtag: net
 feature: conversion

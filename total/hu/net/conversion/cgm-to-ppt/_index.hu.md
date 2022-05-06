@@ -1,7 +1,7 @@
 ---
 title: CGM exportálása PPT-be C# API-n keresztül
 description: .NET API a CGM konvertálásához PPT-vé Microsoft Word használata nélkül
-url: /hu/net/conversion/cgm-to-ppt/
+url_ignore: /hu/net/conversion/cgm-to-ppt/
 family: total
 platformtag: net
 feature: conversion
@@ -19,15 +19,15 @@ Hatékony fájlformátum-automatizálási API-k csomagja [Aspose.Total for .NET]
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API a CGM PPT-vé konvertálásához" %}}
 1. Nyissa meg a CGM-fájlt a [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) osztály használatával
-2. Konvertálja a CGM-et PPTX-vé a [Mentés](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) módszerrel
+2. Konvertálja a CGM-et PPTX-vé a [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) módszerrel
 3. Töltse be a PPTX fájlt a [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) osztály használatával
-4. Mentse a dokumentumot PPT-formátumba a [Mentés](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) metódussal, és állítsa be az `Ppt-t SaveFormat-ként.
+4. Mentse a dokumentumot PPT-formátumba a [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) metódussal, és állítsa be az `Ppt-t SaveFormat-ként.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 Telepítés parancssorból ```nuget install Aspose.Total``` néven, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.Total``` paranccsal.
 
-Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads] webhelyről (https://downloads.aspose.com/total/net).
+Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads](https://downloads.aspose.com/total/net) webhelyről.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}

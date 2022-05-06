@@ -1,7 +1,7 @@
 ---
 title: Export PPT to RTF on Andorid via Java  
 description: Convert PPT to RTF in mobile apps without installing any software 
-url: /android-java/conversion/ppt-to-rtf/
+url_ignore: /android-java/conversion/ppt-to-rtf/
 family: total
 platformtag: android-java
 feature: conversion

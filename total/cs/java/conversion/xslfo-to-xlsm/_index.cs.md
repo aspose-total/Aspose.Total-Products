@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení XSLFO do XLSM
 description: Export XSLFO do XLSM přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/xslfo-to-xlsm/
+url_ignore: /cs/java/conversion/xslfo-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

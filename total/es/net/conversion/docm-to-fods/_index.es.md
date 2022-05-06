@@ -1,7 +1,7 @@
 ---
 title: API .NET para convertir DOCM a FODS
 description: API de C# para convertir DOCM a FODS sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/docm-to-fods/
+url_ignore: /es/net/conversion/docm-to-fods/
 family: total
 platformtag: net
 feature: conversion

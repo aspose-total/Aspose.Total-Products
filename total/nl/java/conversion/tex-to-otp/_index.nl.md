@@ -1,7 +1,7 @@
 ---
 title: Converteer TEX naar OTP via Java API
 description: Java API om TEX naar OTP te converteren zonder Microsoft Word te gebruiken
-url: /nl/java/conversion/tex-to-otp/
+url_ignore: /nl/java/conversion/tex-to-otp/
 family: total
 platformtag: net
 feature: conversion

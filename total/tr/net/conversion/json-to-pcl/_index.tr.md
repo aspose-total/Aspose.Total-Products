@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını .NET aracılığıyla PCL'ye dönüştürün
 description: Microsoft Word kullanmadan JSON'u C# ile PCL'ye ayrıştırın
-url: /tr/net/conversion/json-to-pcl/
+url_ignore: /tr/net/conversion/json-to-pcl/
 family: total
 platformtag: net
 feature: conversion

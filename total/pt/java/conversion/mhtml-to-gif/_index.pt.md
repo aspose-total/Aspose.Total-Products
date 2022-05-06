@@ -1,7 +1,7 @@
 ---
 title: API Java para exportar MHTML para GIF
 description: Converter MHTML para GIF usando a API Java local
-url: /pt/java/conversion/mhtml-to-gif/
+url_ignore: /pt/java/conversion/mhtml-to-gif/
 family: total
 platformtag: net
 feature: conversion

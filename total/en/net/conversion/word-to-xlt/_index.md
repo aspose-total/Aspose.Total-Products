@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to XLT via .NET 
 description: Convert WORD to XLT in C# without using Microsoft Excel or Adobe Reader
-url: /net/conversion/word-to-xlt/
+url_ignore: /net/conversion/word-to-xlt/
 family: total
 platformtag: net
 feature: conversion

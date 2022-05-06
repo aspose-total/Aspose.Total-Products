@@ -1,7 +1,7 @@
 ---
 title: Render EML to DOCM in Andorid App
 description: Export EML to DOCM without using Microsoft Word or Outlook in you Andorid applications 
-url: /android-java/conversion/eml-to-docm/
+url_ignore: /android-java/conversion/eml-to-docm/
 family: total
 platformtag: android-java
 feature: conversion

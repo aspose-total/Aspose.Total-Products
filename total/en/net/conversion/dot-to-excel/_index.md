@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to EXCEL via .NET 
 description: Convert DOT to EXCEL in C# without using Microsoft Excel or Adobe Reader
-url: /net/conversion/dot-to-excel/
+url_ignore: /net/conversion/dot-to-excel/
 family: total
 platformtag: net
 feature: conversion

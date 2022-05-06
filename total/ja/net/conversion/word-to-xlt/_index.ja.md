@@ -1,7 +1,7 @@
 ---
 title: WORDをXLTに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにWORDをXLTに変換するC＃API
-url: /ja/net/conversion/word-to-xlt/
+url_ignore: /ja/net/conversion/word-to-xlt/
 family: total
 platformtag: net
 feature: conversion

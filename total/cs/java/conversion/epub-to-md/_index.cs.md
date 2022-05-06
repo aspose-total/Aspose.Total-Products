@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení EPUB do MD
 description: Export EPUB do MD přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/epub-to-md/
+url_ignore: /cs/java/conversion/epub-to-md/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: PDFをPSにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにPDFをPSに変換する
-url: /ja/net/conversion/pdf-to-ps/
+url_ignore: /ja/net/conversion/pdf-to-ps/
 family: total
 platformtag: net
 feature: conversion

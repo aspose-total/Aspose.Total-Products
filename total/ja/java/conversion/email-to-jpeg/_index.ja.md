@@ -1,7 +1,7 @@
 ---
 title: Java経由でEMAILをJPEGにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにEMAILをJPEGに変換するJavaAPI
-url: /ja/java/conversion/email-to-jpeg/
+url_ignore: /ja/java/conversion/email-to-jpeg/
 family: total
 platformtag: net
 feature: conversion

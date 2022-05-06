@@ -1,7 +1,7 @@
 ---
 title: Konvertera XPS till POTM via Java API
 description: Java API för att konvertera XPS till POTM utan att använda Microsoft Word
-url: /sv/java/conversion/xps-to-potm/
+url_ignore: /sv/java/conversion/xps-to-potm/
 family: total
 platformtag: net
 feature: conversion

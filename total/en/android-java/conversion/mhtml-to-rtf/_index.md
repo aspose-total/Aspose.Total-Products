@@ -1,7 +1,7 @@
 ---
 title: Android API to Render MHTML to RTF
 description: Transform MHTML to RTF via Android via Java API
-url: /android-java/conversion/mhtml-to-rtf/
+url_ignore: /android-java/conversion/mhtml-to-rtf/
 family: total
 platformtag: android-java
 feature: conversion

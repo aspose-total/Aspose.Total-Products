@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PS to XLSM
 description: Convert PS to XLSM via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/ps-to-xlsm/
+url_ignore: /cpp/conversion/ps-to-xlsm/
 family: total
 platformtag: cpp
 feature: conversion

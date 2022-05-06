@@ -1,7 +1,7 @@
 ---
 title: C# API to Export PS to DOTM
 description: Convert PS to DOTM without using Microsoft Word
-url: /net/conversion/ps-to-dotm/
+url_ignore: /net/conversion/ps-to-dotm/
 family: total
 platformtag: net
 feature: conversion

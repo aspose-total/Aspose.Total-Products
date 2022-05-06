@@ -1,7 +1,7 @@
 ---
 title: MD'yi GIF'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan MD'yi GIF'ye dönüştürün
-url: /tr/net/conversion/md-to-gif/
+url_ignore: /tr/net/conversion/md-to-gif/
 family: total
 platformtag: net
 feature: conversion

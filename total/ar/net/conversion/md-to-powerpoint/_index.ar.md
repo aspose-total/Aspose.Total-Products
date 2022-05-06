@@ -1,7 +1,7 @@
 ---
 title: تصدير MD إلى POWERPOINT عبر C# API
 description: NET API لتحويل MD إلى POWERPOINT دون استخدام Microsoft Word
-url: /ar/net/conversion/md-to-powerpoint/
+url_ignore: /ar/net/conversion/md-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

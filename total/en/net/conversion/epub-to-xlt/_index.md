@@ -1,7 +1,7 @@
 ---
 title: Convert EPUB to XLT via C# API
 description: C# API to Convert EPUB File to XLT without using Microsoft Excel or Adobe Reader
-url: /net/conversion/epub-to-xlt/
+url_ignore: /net/conversion/epub-to-xlt/
 family: total
 platformtag: net
 feature: conversion

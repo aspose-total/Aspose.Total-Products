@@ -1,7 +1,7 @@
 ---
 title: Konwertuj OTT na PPTX za pomocą Javy
 description: Java API do eksportu OTT do PPTX bez użycia Microsoft Word lub PowerPoint
-url: /pl/java/conversion/ott-to-pptx/
+url_ignore: /pl/java/conversion/ott-to-pptx/
 family: total
 platformtag: net
 feature: conversion

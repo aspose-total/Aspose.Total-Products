@@ -1,7 +1,7 @@
 ---
 title: API Java để xuất TEX sang PS
 description: Chuyển đổi TEX sang PS bằng cách sử dụng API Java tiền đề
-url: /vi/java/conversion/tex-to-ps/
+url_ignore: /vi/java/conversion/tex-to-ps/
 family: total
 platformtag: net
 feature: conversion

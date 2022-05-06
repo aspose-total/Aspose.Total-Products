@@ -1,7 +1,7 @@
 ---
 title: 通过 Java 将 PPT 转换为 DOT
 description: 无需使用 Microsoft Word 或 PowerPoint 即可将 PPT 导出为 DOT 的 Java API
-url: /zh/java/conversion/ppt-to-dot/
+url_ignore: /zh/java/conversion/ppt-to-dot/
 family: total
 platformtag: net
 feature: conversion

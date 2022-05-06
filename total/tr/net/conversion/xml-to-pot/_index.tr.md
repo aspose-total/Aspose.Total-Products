@@ -1,7 +1,7 @@
 ---
 title: XML'yi C# API aracılığıyla POT'ye aktarın
 description: Microsoft Word kullanmadan XML'yi POT'ye dönüştürmek için .NET API
-url: /tr/net/conversion/xml-to-pot/
+url_ignore: /tr/net/conversion/xml-to-pot/
 family: total
 platformtag: net
 feature: conversion

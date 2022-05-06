@@ -1,7 +1,7 @@
 ---
 title: Export TEX to SWF in Android 
 description: Android API to Convert TEX to SWF without using Microsoft Word
-url: /android-java/conversion/tex-to-swf/
+url_ignore: /android-java/conversion/tex-to-swf/
 family: total
 platformtag: android-java
 feature: conversion

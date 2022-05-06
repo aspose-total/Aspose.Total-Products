@@ -1,7 +1,7 @@
 ---
 title: Преобразование формата JSON в PPTM через Java
 description: Разбор JSON в PPTM на Java без использования Microsoft PowerPoint
-url: /ru/java/conversion/json-to-pptm/
+url_ignore: /ru/java/conversion/json-to-pptm/
 family: total
 platformtag: net
 feature: conversion

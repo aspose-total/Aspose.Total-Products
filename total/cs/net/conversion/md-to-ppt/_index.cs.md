@@ -1,7 +1,7 @@
 ---
 title: Export MD do PPT přes C# API
 description: .NET API pro převod MD na PPT bez použití aplikace Microsoft Word
-url: /cs/net/conversion/md-to-ppt/
+url_ignore: /cs/net/conversion/md-to-ppt/
 family: total
 platformtag: net
 feature: conversion

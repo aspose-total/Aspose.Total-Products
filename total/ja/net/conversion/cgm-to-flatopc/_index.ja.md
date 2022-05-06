@@ -1,7 +1,7 @@
 ---
 title: CGMをFLATOPCにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにCGMをFLATOPCに変換する
-url: /ja/net/conversion/cgm-to-flatopc/
+url_ignore: /ja/net/conversion/cgm-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

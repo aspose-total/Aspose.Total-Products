@@ -1,7 +1,7 @@
 ---
 title: Converter PPSM para SXC via C#
 description: Converter PPSM para SXC em C# sem usar o Microsoft Excel ou Powerpoint
-url: /pt/net/conversion/ppsm-to-sxc/
+url_ignore: /pt/net/conversion/ppsm-to-sxc/
 family: total
 platformtag: net
 feature: conversion

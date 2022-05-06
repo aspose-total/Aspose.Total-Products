@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга PDF в FODS
 description: Экспорт PDF в FODS через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/pdf-to-fods/
+url_ignore: /ru/java/conversion/pdf-to-fods/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก PDF ไปยัง WORDML
 description: แปลง PDF เป็น WORDML โดยไม่ต้องใช้ Microsoft Word
-url: /th/net/conversion/pdf-to-wordml/
+url_ignore: /th/net/conversion/pdf-to-wordml/
 family: total
 platformtag: net
 feature: conversion

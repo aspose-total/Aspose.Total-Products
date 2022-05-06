@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to PPT via Java 
 description: Parse JSON to PPT in Java without using Microsoft PowerPoint
-url: /java/conversion/json-to-ppt/
+url_ignore: /java/conversion/json-to-ppt/
 family: total
 platformtag: java
 feature: conversion

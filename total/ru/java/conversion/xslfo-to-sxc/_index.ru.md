@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга XSLFO в SXC
 description: Экспорт XSLFO в SXC через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/xslfo-to-sxc/
+url_ignore: /ru/java/conversion/xslfo-to-sxc/
 family: total
 platformtag: net
 feature: conversion

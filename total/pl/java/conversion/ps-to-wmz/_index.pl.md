@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PS na WMZ przez Java
 description: Eksportuj plik PS do WMZ w swoich aplikacjach Java bez korzystania z aplikacji innych firm
-url: /pl/java/conversion/ps-to-wmz/
+url_ignore: /pl/java/conversion/ps-to-wmz/
 family: total
 platformtag: net
 feature: conversion

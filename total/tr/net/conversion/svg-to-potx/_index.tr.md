@@ -1,7 +1,7 @@
 ---
 title: SVG'yi C# API aracılığıyla POTX'ye aktarın
 description: Microsoft Word kullanmadan SVG'yi POTX'ye dönüştürmek için .NET API
-url: /tr/net/conversion/svg-to-potx/
+url_ignore: /tr/net/conversion/svg-to-potx/
 family: total
 platformtag: net
 feature: conversion

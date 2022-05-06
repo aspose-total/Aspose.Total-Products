@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPSをCSVに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPSファイルをCSVに変換するC＃API
-url: /ja/net/conversion/ps-to-csv/
+url_ignore: /ja/net/conversion/ps-to-csv/
 family: total
 platformtag: net
 feature: conversion

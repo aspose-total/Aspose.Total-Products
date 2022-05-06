@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してTEXをPSDに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでTEXをPSDにエクスポートします
-url: /ja/net/conversion/tex-to-psd/
+url_ignore: /ja/net/conversion/tex-to-psd/
 family: total
 platformtag: net
 feature: conversion

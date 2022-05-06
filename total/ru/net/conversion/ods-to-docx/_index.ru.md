@@ -1,7 +1,7 @@
 ---
 title: Преобразование ODS в DOCX с помощью .NET 
 description: Преобразование ODS в DOCX на платформах .NET Framework, .NET Core, Mono или Xamarin.
-url: /ru/net/conversion/ods-to-docx/
+url_ignore: /ru/net/conversion/ods-to-docx/
 family: total
 platformtag: net
 feature: conversion

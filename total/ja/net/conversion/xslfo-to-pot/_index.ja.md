@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXSLFOをPOTにエクスポートする
 description: MicrosoftWordを使用せずにXSLFOをPOTに変換する.NETAPI
-url: /ja/net/conversion/xslfo-to-pot/
+url_ignore: /ja/net/conversion/xslfo-to-pot/
 family: total
 platformtag: net
 feature: conversion

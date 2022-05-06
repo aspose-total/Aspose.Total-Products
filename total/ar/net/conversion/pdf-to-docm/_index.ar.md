@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير PDF إلى DOCM
 description: تحويل PDF إلى DOCM دون استخدام Microsoft Word
-url: /ar/net/conversion/pdf-to-docm/
+url_ignore: /ar/net/conversion/pdf-to-docm/
 family: total
 platformtag: net
 feature: conversion

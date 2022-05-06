@@ -1,7 +1,7 @@
 ---
 title: C# API pro export SVG do MARKDOWN
 description: Převeďte SVG na MARKDOWN bez použití aplikace Microsoft Word
-url: /cs/net/conversion/svg-to-markdown/
+url_ignore: /cs/net/conversion/svg-to-markdown/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert POTM to FLATOPC via Java
 description: Java API to Export POTM to FLATOPC without using Microsoft Word or PowerPoint
-url: /java/conversion/potm-to-flatopc/
+url_ignore: /java/conversion/potm-to-flatopc/
 family: total
 platformtag: java
 feature: conversion

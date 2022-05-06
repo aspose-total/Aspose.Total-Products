@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта OFT в TEXT
 description: Преобразование OFT в TEXT без использования Microsoft Word или Outlook на .NET
-url: /ru/net/conversion/oft-to-text/
+url_ignore: /ru/net/conversion/oft-to-text/
 family: total
 platformtag: net
 feature: conversion

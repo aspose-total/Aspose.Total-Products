@@ -1,7 +1,7 @@
 ---
 title: Export PCL to XAML in Android 
 description: Android API to Convert PCL to XAML without using Microsoft Word
-url: /android-java/conversion/pcl-to-xaml/
+url_ignore: /android-java/conversion/pcl-to-xaml/
 family: total
 platformtag: android-java
 feature: conversion

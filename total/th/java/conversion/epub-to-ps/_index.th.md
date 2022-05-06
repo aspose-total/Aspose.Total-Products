@@ -1,7 +1,7 @@
 ---
 title: Java API เพื่อส่งออก EPUB ไปยัง PS
 description: แปลง EPUB เป็น PS โดยใช้ Java API . ในตัว
-url: /th/java/conversion/epub-to-ps/
+url_ignore: /th/java/conversion/epub-to-ps/
 family: total
 platformtag: net
 feature: conversion

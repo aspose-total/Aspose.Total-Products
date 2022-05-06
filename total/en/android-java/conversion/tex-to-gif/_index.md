@@ -1,7 +1,7 @@
 ---
 title: Android API to Render TEX to GIF
 description: Transform TEX to GIF via Android via Java API
-url: /android-java/conversion/tex-to-gif/
+url_ignore: /android-java/conversion/tex-to-gif/
 family: total
 platformtag: android-java
 feature: conversion

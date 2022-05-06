@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PDF to XLAM
 description: Convert PDF to XLAM via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/pdf-to-xlam/
+url_ignore: /cpp/conversion/pdf-to-xlam/
 family: total
 platformtag: cpp
 feature: conversion

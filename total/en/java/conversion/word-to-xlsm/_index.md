@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to XLSM via Java
 description: Convert WORD to XLSM via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/word-to-xlsm/
+url_ignore: /java/conversion/word-to-xlsm/
 family: total
 platformtag: java
 feature: conversion

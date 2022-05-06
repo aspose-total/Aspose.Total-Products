@@ -1,7 +1,7 @@
 ---
 title: Android API to Render SVG to MARKDOWN
 description: Transform SVG to MARKDOWN via Android via Java API
-url: /android-java/conversion/svg-to-markdown/
+url_ignore: /android-java/conversion/svg-to-markdown/
 family: total
 platformtag: android-java
 feature: conversion

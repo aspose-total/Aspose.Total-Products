@@ -1,7 +1,7 @@
 ---
 title: Převeďte DOT do formátu JSON přes Java
 description: Převeďte DOT do formátu JSON přes Java bez použití Microsoft Word nebo Microsoft Excel
-url: /cs/java/conversion/dot-to-json/
+url_ignore: /cs/java/conversion/dot-to-json/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: EMLX'i Java aracılığıyla IMAGE'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan EMLX'i IMAGE'ye Dönüştürmek için Java API
-url: /tr/java/conversion/emlx-to-image/
+url_ignore: /tr/java/conversion/emlx-to-image/
 family: total
 platformtag: net
 feature: conversion

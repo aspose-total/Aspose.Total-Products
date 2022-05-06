@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта EPUB в PCL
 description: Преобразование EPUB в PCL без использования Microsoft Word
-url: /ru/net/conversion/epub-to-pcl/
+url_ignore: /ru/net/conversion/epub-to-pcl/
 family: total
 platformtag: net
 feature: conversion

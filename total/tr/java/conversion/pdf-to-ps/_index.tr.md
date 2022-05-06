@@ -1,7 +1,7 @@
 ---
 title: PDF'yi PS'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak PDF'yi PS'ye dönüştürün
-url: /tr/java/conversion/pdf-to-ps/
+url_ignore: /tr/java/conversion/pdf-to-ps/
 family: total
 platformtag: net
 feature: conversion

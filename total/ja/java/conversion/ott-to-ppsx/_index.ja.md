@@ -1,7 +1,7 @@
 ---
 title: Java経由でOTTをPPSXに変換する
 description: MicrosoftWordやPowerPointを使用せずにOTTをPPSXにエクスポートするJavaAPI
-url: /ja/java/conversion/ott-to-ppsx/
+url_ignore: /ja/java/conversion/ott-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla CGM'yi DXF'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan CGM'yi .NET uygulamalarınızda DXF'ye aktarın
-url: /tr/net/conversion/cgm-to-dxf/
+url_ignore: /tr/net/conversion/cgm-to-dxf/
 family: total
 platformtag: net
 feature: conversion

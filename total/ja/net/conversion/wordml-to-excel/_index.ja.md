@@ -1,7 +1,7 @@
 ---
 title: WORDMLをEXCELに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにWORDMLをEXCELに変換するC＃API
-url: /ja/net/conversion/wordml-to-excel/
+url_ignore: /ja/net/conversion/wordml-to-excel/
 family: total
 platformtag: net
 feature: conversion

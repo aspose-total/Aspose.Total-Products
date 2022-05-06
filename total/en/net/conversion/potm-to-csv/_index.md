@@ -1,7 +1,7 @@
 ---
 title: Convert POTM to CSV via C# 
 description: Convert POTM to CSV in C# without using Microsoft Excel or Powerpoint
-url: /net/conversion/potm-to-csv/
+url_ignore: /net/conversion/potm-to-csv/
 family: total
 platformtag: net
 feature: conversion

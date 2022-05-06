@@ -1,7 +1,7 @@
 ---
 title: تحويل PCL إلى POTM عبر Java API
 description: Java API لتحويل PCL إلى POTM دون استخدام Microsoft Word
-url: /ar/java/conversion/pcl-to-potm/
+url_ignore: /ar/java/conversion/pcl-to-potm/
 family: total
 platformtag: net
 feature: conversion

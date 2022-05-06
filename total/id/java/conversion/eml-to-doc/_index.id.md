@@ -1,7 +1,7 @@
 ---
 title: Ekspor EML ke DOC melalui Java
 description: Java API untuk Mengonversi EML ke DOC tanpa menggunakan Microsoft Word atau Outlook
-url: /id/java/conversion/eml-to-doc/
+url_ignore: /id/java/conversion/eml-to-doc/
 family: total
 platformtag: net
 feature: conversion

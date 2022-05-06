@@ -1,6 +1,6 @@
 ---
 title: Преобразование DOCM в POTM через C# .NET 
-url: /ru/net/conversion/docm-to-potm/ 
+url_ignore: /ru/net/conversion/docm-to-potm/ 
 description: Преобразование документов Word docm в файлы PowerPoint potm с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

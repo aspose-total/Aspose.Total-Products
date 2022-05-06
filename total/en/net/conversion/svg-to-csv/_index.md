@@ -1,7 +1,7 @@
 ---
 title: Convert SVG to CSV via C# API
 description: C# API to Convert SVG File to CSV without using Microsoft Excel or Adobe Reader
-url: /net/conversion/svg-to-csv/
+url_ignore: /net/conversion/svg-to-csv/
 family: total
 platformtag: net
 feature: conversion

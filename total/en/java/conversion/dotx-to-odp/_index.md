@@ -1,7 +1,7 @@
 ---
 title: Convert DOTX to ODP via Java
 description: Java API to Export DOTX to ODP without using Microsoft Word or PowerPoint
-url: /java/conversion/dotx-to-odp/
+url_ignore: /java/conversion/dotx-to-odp/
 family: total
 platformtag: java
 feature: conversion

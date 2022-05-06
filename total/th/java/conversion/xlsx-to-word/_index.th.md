@@ -1,7 +1,7 @@
 ---
 title: แปลง XLSX เป็น WORD โดยใช้ Java
 description: Java API เพื่อส่งออก XLSX เป็น WORD โดยใช้ Excel หรือ Word
-url: /th/java/conversion/xlsx-to-word/
+url_ignore: /th/java/conversion/xlsx-to-word/
 family: total
 platformtag: net
 feature: conversion

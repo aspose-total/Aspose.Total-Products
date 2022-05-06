@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất OFT sang ODT
 description: Chuyển đổi OFT thành ODT mà không cần sử dụng Microsoft Word hoặc Outlook trên .NET
-url: /vi/net/conversion/oft-to-odt/
+url_ignore: /vi/net/conversion/oft-to-odt/
 family: total
 platformtag: net
 feature: conversion

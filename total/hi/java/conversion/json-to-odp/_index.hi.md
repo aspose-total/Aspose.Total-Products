@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से JSON प्रारूप को ODP में बदलें
 description: Microsoft PowerPoint का उपयोग किए बिना जावा में JSON को ODP में पार्स करें
-url: /hi/java/conversion/json-to-odp/
+url_ignore: /hi/java/conversion/json-to-odp/
 family: total
 platformtag: net
 feature: conversion

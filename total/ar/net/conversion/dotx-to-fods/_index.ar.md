@@ -1,7 +1,7 @@
 ---
 title: NET API لتحويل DOTX إلى FODS
 description: C# API لتحويل DOTX إلى FODS بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/dotx-to-fods/
+url_ignore: /ar/net/conversion/dotx-to-fods/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ otherformats: TSV XLS XLTM FODS XLSX XLSM DIF ODS EXCEL XLT XLTX XLSB XLAM SXC
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="NET API لتحويل DOTX إلى FODS" %}}
-1. افتح ملف DOTX باستخدام فئة [Document](https://apireference.aspose.com/words/net/aspose.words/dotxument)
-2. تحويل DOTX إلى HTML باستخدام طريقة [Save](https://apireference.aspose.com/words/net/aspose.words.dotxument/save/methods/4)
+1. افتح ملف DOTX باستخدام فئة [Document](https://apireference.aspose.com/words/net/aspose.words/Document)
+2. تحويل DOTX إلى HTML باستخدام طريقة [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4)
 3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. احفظ المستند بتنسيق FODS باستخدام طريقة [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) وعيّن `FODS` على أنه SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -39,7 +39,7 @@ otherformats: TSV XLS XLTM FODS XLSX XLSM DIF ODS EXCEL XLT XLTX XLSB XLAM SXC
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="قم بتحميل مستند DOTX من الدفق عبر C#" %}}
-يسمح لك [Aspose.Words for .NET](https://products.aspose.com/words/net/) أيضًا بتحميل مستند DOTX عبر الدفق. لفتح مستند من تيار ، ما عليك سوى تمرير كائن تيار يحتوي على المستند إلى مُنشئ [Document](https://apireference.aspose.com/words/net/aspose.words/dotxument). يوضح المثال التالي من التعليمات البرمجية كيفية فتح مستند من دفق:  
+يسمح لك [Aspose.Words for .NET](https://products.aspose.com/words/net/) أيضًا بتحميل مستند DOTX عبر الدفق. لفتح مستند من تيار ، ما عليك سوى تمرير كائن تيار يحتوي على المستند إلى مُنشئ [Document](https://apireference.aspose.com/words/net/aspose.words/Document). يوضح المثال التالي من التعليمات البرمجية كيفية فتح مستند من دفق:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ otherformats: TSV XLS XLTM FODS XLSX XLSM DIF ODS EXCEL XLT XLTX XLSB XLAM SXC
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="إضافة خصائص مخصصة في ملف FODS عبر C#" %}}
-أثناء تحويل DOTX إلى FODS ، يمكّنك [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) من إضافة خصائص مخصصة في مستندات FODS. لإضافة خاصية مخصصة ، يمكنك استخدام طريقة [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotxumentpropertycollection/methods/add/index) للأسلوب [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotxumentpropertycollection) فئة. يضيف الأسلوب Add الخاصية إلى ملف Excel ويعيد مرجعًا لخاصية المستند الجديدة كـ [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties/dotxumentproperty) كائن. 
+أثناء تحويل DOTX إلى FODS ، يمكّنك [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) من إضافة خصائص مخصصة في مستندات FODS. لإضافة خاصية مخصصة ، يمكنك استخدام طريقة [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index) للأسلوب [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection) فئة. يضيف الأسلوب Add الخاصية إلى ملف Excel ويعيد مرجعًا لخاصية المستند الجديدة كـ [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties/Documentproperty) كائن. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

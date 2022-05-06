@@ -1,7 +1,7 @@
 ---
 title: OTTをSXCに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにOTTをSXCに変換するC＃API
-url: /ja/net/conversion/ott-to-sxc/
+url_ignore: /ja/net/conversion/ott-to-sxc/
 family: total
 platformtag: net
 feature: conversion

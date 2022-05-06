@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Exportieren von CGM nach PS
 description: Konvertieren Sie CGM mithilfe der lokalen Java-API in PS
-url: /de/java/conversion/cgm-to-ps/
+url_ignore: /de/java/conversion/cgm-to-ps/
 family: total
 platformtag: net
 feature: conversion

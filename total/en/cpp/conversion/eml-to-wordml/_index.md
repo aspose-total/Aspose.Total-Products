@@ -1,7 +1,7 @@
 ---
 title: Export EML to WORDML via C++
 description: C++ API to Convert EML to WORDML without using Microsoft Word or Outlook
-url: /cpp/conversion/eml-to-wordml/
+url_ignore: /cpp/conversion/eml-to-wordml/
 family: total
 platformtag: cpp
 feature: conversion

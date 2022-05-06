@@ -1,7 +1,7 @@
 ---
 title: Konvertera PCL till DICOM via Java
 description: Exportera PCL-fil till DICOM i dina Java-applikationer utan att använda någon tredjepartsapplikation
-url: /sv/java/conversion/pcl-to-dicom/
+url_ignore: /sv/java/conversion/pcl-to-dicom/
 family: total
 platformtag: net
 feature: conversion

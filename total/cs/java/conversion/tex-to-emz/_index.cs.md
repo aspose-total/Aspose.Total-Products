@@ -1,7 +1,7 @@
 ---
 title: Převést TEX na EMZ přes Java
 description: Exportujte soubor TEX do EMZ ve svých aplikacích Java bez použití jakékoli aplikace třetí strany
-url: /cs/java/conversion/tex-to-emz/
+url_ignore: /cs/java/conversion/tex-to-emz/
 family: total
 platformtag: net
 feature: conversion

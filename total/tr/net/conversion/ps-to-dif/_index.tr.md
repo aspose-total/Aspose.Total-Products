@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla PS'yi DIF'ye dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan PS Dosyasını DIF'ye Dönüştürmek için C# API'si
-url: /tr/net/conversion/ps-to-dif/
+url_ignore: /tr/net/conversion/ps-to-dif/
 family: total
 platformtag: net
 feature: conversion

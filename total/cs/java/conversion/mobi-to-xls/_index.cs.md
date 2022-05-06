@@ -1,7 +1,7 @@
 ---
 title: Java API pro převod MOBI do XLS
 description: Převeďte MOBI na XLS přes Java bez použití Microsoft Word nebo Microsoft Excel
-url: /cs/java/conversion/mobi-to-xls/
+url_ignore: /cs/java/conversion/mobi-to-xls/
 family: total
 platformtag: net
 feature: conversion

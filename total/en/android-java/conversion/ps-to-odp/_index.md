@@ -1,7 +1,7 @@
 ---
 title: Export PS to ODP in Android 
 description: Android API to Convert PS to ODP without using Microsoft Word
-url: /android-java/conversion/ps-to-odp/
+url_ignore: /android-java/conversion/ps-to-odp/
 family: total
 platformtag: android-java
 feature: conversion

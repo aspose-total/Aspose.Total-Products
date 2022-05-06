@@ -1,7 +1,7 @@
 ---
 title: แปลง PCL เป็น JPEG2000 ผ่าน Java
 description: ส่งออกไฟล์ PCL เป็น JPEG2000 ในแอปพลิเคชัน Java ของคุณโดยไม่ต้องใช้แอปพลิเคชันของบุคคลที่สาม
-url: /th/java/conversion/pcl-to-jpeg2000/
+url_ignore: /th/java/conversion/pcl-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

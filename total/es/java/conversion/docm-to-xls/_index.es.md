@@ -1,7 +1,7 @@
 ---
 title: API de Java para convertir DOCM a XLS
 description: Convierta DOCM a XLS a través de Java sin usar Microsoft Word o Microsoft Excel
-url: /es/java/conversion/docm-to-xls/
+url_ignore: /es/java/conversion/docm-to-xls/
 family: total
 platformtag: net
 feature: conversion

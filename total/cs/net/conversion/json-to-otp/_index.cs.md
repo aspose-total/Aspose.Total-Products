@@ -1,7 +1,7 @@
 ---
 title: Převeďte formát JSON na OTP přes .NET
 description: Analyzujte JSON na OTP v C# bez použití Microsoft PowerPoint
-url: /cs/net/conversion/json-to-otp/
+url_ignore: /cs/net/conversion/json-to-otp/
 family: total
 platformtag: net
 feature: conversion

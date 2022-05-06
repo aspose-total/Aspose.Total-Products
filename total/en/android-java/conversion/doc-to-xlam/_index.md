@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOC to XLAM
 description: Convert DOC to XLAM in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/doc-to-xlam/
+url_ignore: /android-java/conversion/doc-to-xlam/
 family: total
 platformtag: android-java
 feature: conversion

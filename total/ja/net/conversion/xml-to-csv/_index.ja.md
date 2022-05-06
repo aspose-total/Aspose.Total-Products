@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXMLをCSVに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにXMLファイルをCSVに変換するC＃API
-url: /ja/net/conversion/xml-to-csv/
+url_ignore: /ja/net/conversion/xml-to-csv/
 family: total
 platformtag: net
 feature: conversion

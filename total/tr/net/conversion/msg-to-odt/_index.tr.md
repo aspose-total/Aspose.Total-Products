@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı ODT'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan MSG'i ODT'ye dönüştürün
-url: /tr/net/conversion/msg-to-odt/
+url_ignore: /tr/net/conversion/msg-to-odt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: .NETを介してWORDをJSON形式に変換します
 description: MicrosoftExcelまたはAdobeReaderを使用せずにC＃でWORDをJSONに変換する
-url: /ja/net/conversion/word-to-json/
+url_ignore: /ja/net/conversion/word-to-json/
 family: total
 platformtag: net
 feature: conversion

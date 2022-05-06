@@ -1,7 +1,7 @@
 ---
 title: Converter EPUB para CSV via API C#
 description: API C# para converter arquivo EPUB em CSV sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/epub-to-csv/
+url_ignore: /pt/net/conversion/epub-to-csv/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C#-API zum Exportieren von PDF nach MARKDOWN
 description: Konvertieren Sie PDF in MARKDOWN, ohne Microsoft Word zu verwenden
-url: /de/net/conversion/pdf-to-markdown/
+url_ignore: /de/net/conversion/pdf-to-markdown/
 family: total
 platformtag: net
 feature: conversion

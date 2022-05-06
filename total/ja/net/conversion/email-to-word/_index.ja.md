@@ -1,7 +1,7 @@
 ---
 title: EMAILをWORDにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMAILをWORDに変換する
-url: /ja/net/conversion/email-to-word/
+url_ignore: /ja/net/conversion/email-to-word/
 family: total
 platformtag: net
 feature: conversion

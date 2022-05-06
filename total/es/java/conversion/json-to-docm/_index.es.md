@@ -1,7 +1,7 @@
 ---
 title: Convierta el formato JSON a DOCM a través de Java
 description: Analice JSON a DOCM en Java sin usar Microsoft Word
-url: /es/java/conversion/json-to-docm/
+url_ignore: /es/java/conversion/json-to-docm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert RTF to XLS
 description: Convert RTF to XLS in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/rtf-to-xls/
+url_ignore: /android-java/conversion/rtf-to-xls/
 family: total
 platformtag: android-java
 feature: conversion

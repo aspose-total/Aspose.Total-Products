@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Mengonversi DOC ke XLTM
 description: Konversi DOC ke XLTM melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel
-url: /id/java/conversion/doc-to-xltm/
+url_ignore: /id/java/conversion/doc-to-xltm/
 family: total
 platformtag: net
 feature: conversion

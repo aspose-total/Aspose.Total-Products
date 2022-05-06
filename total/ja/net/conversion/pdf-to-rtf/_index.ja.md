@@ -1,7 +1,7 @@
 ---
 title: PDFをRTFにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにPDFをRTFに変換する
-url: /ja/net/conversion/pdf-to-rtf/
+url_ignore: /ja/net/conversion/pdf-to-rtf/
 family: total
 platformtag: net
 feature: conversion

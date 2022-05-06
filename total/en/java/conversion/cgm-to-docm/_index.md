@@ -1,7 +1,7 @@
 ---
 title: Java API to Export CGM to DOCM
 description: Convert CGM to DOCM using on premise Java API
-url: /java/conversion/cgm-to-docm/
+url_ignore: /java/conversion/cgm-to-docm/
 family: total
 platformtag: java
 feature: conversion

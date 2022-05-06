@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをTXTに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPDFファイルをTXTに変換するC＃API
-url: /ja/net/conversion/pdf-to-txt/
+url_ignore: /ja/net/conversion/pdf-to-txt/
 family: total
 platformtag: net
 feature: conversion

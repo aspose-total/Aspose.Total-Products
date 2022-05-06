@@ -1,7 +1,7 @@
 ---
 title: Convertir PPTX en XLTX via C#
 description: Convertir PPTX en XLTX en C# sans utiliser Microsoft Excel ou Powerpoint
-url: /fr/net/conversion/pptx-to-xltx/
+url_ignore: /fr/net/conversion/pptx-to-xltx/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: EXCEL DIF ODS XLSM XLTX XLT XLSX SXC XLTM MHTML FODS TSV MARKDOWN 
 {{< blocks/products/pf/i18n/feature-page-header h1="Convertir PPTX en XLTX via C#" h2="API .NET pour la conversion PPTX en XLTX sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), vous pouvez convertir le fichier PPTX en XLTX dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.Slides pour .NET](https://products.aspose.com/slides/net/), vous pouvez exporter PPTX vers HTML. Après cela, en utilisant [Aspose.Cells pour .NET](https://products.aspose.com/cells/net/) API de programmation de feuille de calcul, vous pouvez convertir HTML en XLTX.
+En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez convertir le fichier PPTX en XLTX dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), vous pouvez exporter PPTX vers HTML. Après cela, en utilisant [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API de programmation de feuille de calcul, vous pouvez convertir HTML en XLTX.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

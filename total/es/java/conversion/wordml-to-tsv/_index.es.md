@@ -1,7 +1,7 @@
 ---
 title: API de Java para convertir WORDML a TSV
 description: Convierta WORDML a TSV a través de Java sin usar Microsoft Word o Microsoft Excel
-url: /es/java/conversion/wordml-to-tsv/
+url_ignore: /es/java/conversion/wordml-to-tsv/
 family: total
 platformtag: net
 feature: conversion

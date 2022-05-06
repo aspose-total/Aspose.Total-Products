@@ -1,7 +1,7 @@
 ---
 title: Ekspor OFT ke GIF melalui Java
 description: Java API untuk Mengonversi OFT ke GIF tanpa menggunakan Microsoft Word atau Outlook
-url: /id/java/conversion/oft-to-gif/
+url_ignore: /id/java/conversion/oft-to-gif/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar POT via .NET
 description: JSON ontleden naar POT in C# zonder Microsoft PowerPoint te gebruiken
-url: /nl/net/conversion/json-to-pot/
+url_ignore: /nl/net/conversion/json-to-pot/
 family: total
 platformtag: net
 feature: conversion

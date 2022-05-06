@@ -1,7 +1,7 @@
 ---
 title: C#-API zum Exportieren von EPUB nach DOTM
 description: Konvertieren Sie EPUB in DOTM, ohne Microsoft Word zu verwenden
-url: /de/net/conversion/epub-to-dotm/
+url_ignore: /de/net/conversion/epub-to-dotm/
 family: total
 platformtag: net
 feature: conversion

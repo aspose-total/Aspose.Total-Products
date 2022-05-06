@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất MD sang OTT
 description: Chuyển đổi MD sang OTT mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/md-to-ott/
+url_ignore: /vi/net/conversion/md-to-ott/
 family: total
 platformtag: net
 feature: conversion

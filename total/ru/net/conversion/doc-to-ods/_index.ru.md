@@ -1,7 +1,7 @@
 ---
 title: .NET API для преобразования DOC в ODS
 description: C# API для преобразования DOC в ODS без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/doc-to-ods/
+url_ignore: /ru/net/conversion/doc-to-ods/
 family: total
 platformtag: net
 feature: conversion

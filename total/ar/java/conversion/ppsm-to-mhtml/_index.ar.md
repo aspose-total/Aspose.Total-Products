@@ -1,7 +1,7 @@
 ---
 title: تحويل PPSM إلى تنسيق MHTML عبر Java
 description: قم بتحويل PPSM إلى تنسيق MHTML عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/ppsm-to-mhtml/
+url_ignore: /ar/java/conversion/ppsm-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

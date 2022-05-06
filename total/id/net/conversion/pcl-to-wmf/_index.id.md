@@ -1,7 +1,7 @@
 ---
 title: Konversi PCL ke WMF melalui C# API
 description: Ekspor PCL ke WMF di aplikasi .NET Anda tanpa menggunakan aplikasi pihak ketiga
-url: /id/net/conversion/pcl-to-wmf/
+url_ignore: /id/net/conversion/pcl-to-wmf/
 family: total
 platformtag: net
 feature: conversion

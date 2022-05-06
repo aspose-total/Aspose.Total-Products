@@ -1,7 +1,7 @@
 ---
 title: Convert PCL to XLT in Android via Java
 description: Render PCL to XLT in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/pcl-to-xlt/
+url_ignore: /android-java/conversion/pcl-to-xlt/
 family: total
 platformtag: android-java
 feature: conversion

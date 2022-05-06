@@ -1,7 +1,7 @@
 ---
 title: .NET API om DOCM naar EXCEL te converteren
 description: C# API om DOCM naar EXCEL te converteren zonder Microsoft Excel of Adobe Reader te gebruiken
-url: /nl/net/conversion/docm-to-excel/
+url_ignore: /nl/net/conversion/docm-to-excel/
 family: total
 platformtag: net
 feature: conversion
@@ -18,7 +18,7 @@ Door [Aspose.Total for .NET](https://products.aspose.com/total/net/) te gebruike
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API om DOCM naar EXCEL te converteren" %}}
-1. Open het DOCM-bestand met de klasse [Document](https://apireference.aspose.com/words/net/aspose.words/document
+1. Open het DOCM-bestand met de klasse [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 2. Converteer DOCM naar HTML met behulp van de [Save](https://apireference.aspose.com/words/net/aspose.words.documentsave/methods/4) methode
 3. Laad HTML-documentmet behulp van [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) class
 4. Sla het documentop in EXCEL-indeling met de methode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) en stel `EXCEL` in als SaveFormat
@@ -46,7 +46,6 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Aangepaste eigenschappen toevoegen in EXCEL-bestand via C#" %}}
 Tijdens het converteren van DOCM naar EXCEL kunt u met [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) aangepaste eigenschappen toevoegen aan uw EXCEL-documentn. Om een aangepaste eigenschap toe te voegen, kunt u de methode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/CustomDocumentPropertyCollection/methods/add/index) gebruiken voor de [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentPropertycollection) klasse. De Add-methode voegt de eigenschap toe aan het Excel-bestand en retourneert een verwijzing voor de nieuwe docdocumentnschap als [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /docudocumentrty) object. 
 {{% blocks/products/pf/feature-page-code %}}

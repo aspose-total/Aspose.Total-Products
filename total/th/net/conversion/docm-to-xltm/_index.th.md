@@ -1,7 +1,7 @@
 ---
 title: .NET API เพื่อแปลง DOCM เป็น XLTM
 description: C# API เพื่อแปลง DOCM เป็น XLTM โดยไม่ต้องใช้ Microsoft Excel หรือ Adobe Reader
-url: /th/net/conversion/docm-to-xltm/
+url_ignore: /th/net/conversion/docm-to-xltm/
 family: total
 platformtag: net
 feature: conversion
@@ -18,7 +18,7 @@ otherformats: XLT XLSB XLTM XLTX XLS XLAM SXC ODS XLSX TSV FODS EXCEL DIF XLSM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API เพื่อแปลง DOCM เป็น XLTM" %}}
-1. เปิดไฟล์ DOCM โดยใช้คลาส [Document](https://apireference.aspose.com/words/net/aspose.words/document
+1. เปิดไฟล์ DOCM โดยใช้คลาส [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 2. แปลง DOCM เป็น HTML โดยใช้วิธีการ [Save](https://apireference.aspose.com/words/net/aspose.words.documentsave/methods/4)
 3. โหลดเอกสาร HTML โดยใช้คลาส [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. บันทึกเอกสารในรูปแบบ XLTM โดยใช้วิธี [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) และตั้งค่า `XLTM' เป็น SaveFormat
@@ -46,7 +46,6 @@ otherformats: XLT XLSB XLTM XLTX XLS XLAM SXC ODS XLSX TSV FODS EXCEL DIF XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="เพิ่มคุณสมบัติที่กำหนดเองในไฟล์ XLTM ผ่าน C#" %}}
 ขณะแปลง DOCM เป็น XLTM [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) ช่วยให้คุณเพิ่มคุณสมบัติที่กำหนดเองในเอกสาร XLTM ได้ ในการเพิ่มคุณสมบัติที่กำหนดเอง คุณสามารถใช้ [เพิ่ม](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentropertycollection/methods/add/index)เมธอดสำหรับ [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/CustomDocumentPropertyCollection) คลาส วิธีการเพิ่มจะเพิ่มคุณสมบัติลงในไฟล์ Excel และส่งคืนข้อมูลอ้างอิงสำหรับคุณสมบัติเอกสารใหม่เป็น [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties/DocumentProperty) วัตถุ 
 {{% blocks/products/pf/feature-page-code %}}

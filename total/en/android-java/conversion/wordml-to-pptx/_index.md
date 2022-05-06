@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to PPTX in Android via Java
 description: WORDML to PPTX conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/wordml-to-pptx/
+url_ignore: /android-java/conversion/wordml-to-pptx/
 family: total
 platformtag: android-java
 feature: conversion

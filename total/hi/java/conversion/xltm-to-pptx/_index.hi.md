@@ -1,7 +1,7 @@
 ---
 title: जावा का उपयोग करके XLTM को PPTX में बदलें
 description: जावा एपीआई एक्सेल या वर्ड का उपयोग करके सीएसवी को डीओसी में निर्यात करने के लिए
-url: /hi/java/conversion/xltm-to-pptx/
+url_ignore: /hi/java/conversion/xltm-to-pptx/
 family: total
 platformtag: net
 feature: conversion

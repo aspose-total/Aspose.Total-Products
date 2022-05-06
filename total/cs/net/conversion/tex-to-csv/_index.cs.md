@@ -1,7 +1,7 @@
 ---
 title: Převeďte TEX na CSV přes C# API
 description: C# API pro převod souboru TEX do CSV bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/tex-to-csv/
+url_ignore: /cs/net/conversion/tex-to-csv/
 family: total
 platformtag: net
 feature: conversion

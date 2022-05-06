@@ -1,7 +1,7 @@
 ---
 title: EPUB'yi ODT'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak EPUB'yi ODT'ye dönüştürün
-url: /tr/java/conversion/epub-to-odt/
+url_ignore: /tr/java/conversion/epub-to-odt/
 family: total
 platformtag: net
 feature: conversion

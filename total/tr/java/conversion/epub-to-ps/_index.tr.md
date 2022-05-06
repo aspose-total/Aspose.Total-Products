@@ -1,7 +1,7 @@
 ---
 title: EPUB'yi PS'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak EPUB'yi PS'ye dönüştürün
-url: /tr/java/conversion/epub-to-ps/
+url_ignore: /tr/java/conversion/epub-to-ps/
 family: total
 platformtag: net
 feature: conversion

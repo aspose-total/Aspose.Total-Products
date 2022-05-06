@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to EXCEL via Java
 description: Convert WORD to EXCEL via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/word-to-excel/
+url_ignore: /java/conversion/word-to-excel/
 family: total
 platformtag: java
 feature: conversion

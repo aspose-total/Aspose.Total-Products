@@ -1,6 +1,6 @@
 ---
 title: Преобразование PPS в OTT через C# .NET 
-url: /ru/net/conversion/pps-to-ott/ 
+url_ignore: /ru/net/conversion/pps-to-ott/ 
 description: Преобразование документов PowerPoint pps в файлы документов Word с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

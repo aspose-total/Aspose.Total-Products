@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export SVG to PS
 description: Convert SVG to PS within C++ applications.
-url: /cpp/conversion/svg-to-ps/
+url_ignore: /cpp/conversion/svg-to-ps/
 family: total
 platformtag: cpp
 feature: conversion

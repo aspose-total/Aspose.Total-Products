@@ -1,7 +1,7 @@
 ---
 title: MSGをDOTにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにMSGをDOTに変換する
-url: /ja/net/conversion/msg-to-dot/
+url_ignore: /ja/net/conversion/msg-to-dot/
 family: total
 platformtag: net
 feature: conversion

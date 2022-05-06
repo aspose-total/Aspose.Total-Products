@@ -1,7 +1,7 @@
 ---
 title: Converteer MHTML naar DIF via C# API
 description: C# API om MHTML-bestand naar DIF te converteren zonder Microsoft Excel of Adobe Reader te gebruiken
-url: /nl/net/conversion/mhtml-to-dif/
+url_ignore: /nl/net/conversion/mhtml-to-dif/
 family: total
 platformtag: net
 feature: conversion
@@ -33,7 +33,8 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-pdf-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 Als uw MHTML-document met een wachtwoord is beveiligd, kunt u het niet converteren naar DIF zonder het wachtwoord. Met behulp van de API kunt u eerst het beveiligde document openen met een geldig wachtwoord en het daarna converteren. Om het versleutelde bestand te openen, kunt u een nieuwe instantie van de klasse [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) initialiseren en de bestandsnaam en het wachtwoord als argumenten doorgeven.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-password-protected-pdf-to-excel.cs" >}}
+{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-password-protected-pdf-to-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Als uw MHTML-document met een wachtwoord is beveiligd, kunt u het niet converter
 Tijdens het converteren van het MHTML-bestand naar DIF, kunt u ook een watermerk toevoegen aan uw uitvoer-DIF-bestandsformaat. Om een watermerk toe te voegen, kunt u een nieuw werkmapobject maken en het geconverteerde XLSX-document openen, Werkblad selecteren via de index, een vorm maken en de functie AddTextEffect gebruiken. Daarna kunt u uw XLSX-document opslaan als DIF met Watermark. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-pdf-to-excel-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-pdf-to-excel-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก PCL ไปยัง RTF
 description: แปลง PCL เป็น RTF โดยไม่ต้องใช้ Microsoft Word
-url: /th/net/conversion/pcl-to-rtf/
+url_ignore: /th/net/conversion/pcl-to-rtf/
 family: total
 platformtag: net
 feature: conversion

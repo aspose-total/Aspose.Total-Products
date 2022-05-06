@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXSLFOをCSVに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにXSLFOファイルをCSVに変換するC＃API
-url: /ja/net/conversion/xslfo-to-csv/
+url_ignore: /ja/net/conversion/xslfo-to-csv/
 family: total
 platformtag: net
 feature: conversion

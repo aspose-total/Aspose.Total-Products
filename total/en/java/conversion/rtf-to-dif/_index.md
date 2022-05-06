@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert RTF to DIF
 description: Convert RTF to DIF via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/rtf-to-dif/
+url_ignore: /java/conversion/rtf-to-dif/
 family: total
 platformtag: java
 feature: conversion

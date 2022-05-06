@@ -1,7 +1,7 @@
 ---
 title: Java API لتقديم PS إلى CSV
 description: قم بتصدير PS إلى CSV عبر Java API دون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/java/conversion/ps-to-csv/
+url_ignore: /ar/java/conversion/ps-to-csv/
 family: total
 platformtag: net
 feature: conversion

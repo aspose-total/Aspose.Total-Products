@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to XLS via Java
 description: Convert WORD to XLS via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/word-to-xls/
+url_ignore: /java/conversion/word-to-xls/
 family: total
 platformtag: java
 feature: conversion

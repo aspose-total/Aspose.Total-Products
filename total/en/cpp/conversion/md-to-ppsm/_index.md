@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MD to PPSM  
 description: Convert MD to PPSM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/md-to-ppsm/
+url_ignore: /cpp/conversion/md-to-ppsm/
 family: total
 platformtag: cpp
 feature: conversion

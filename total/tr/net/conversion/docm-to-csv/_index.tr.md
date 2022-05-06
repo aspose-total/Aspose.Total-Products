@@ -1,7 +1,7 @@
 ---
 title: DOCM'yi CSV'ye Dönüştürmek için .NET API
 description: Microsoft Excel veya Adobe Reader kullanmadan DOCM'yi CSV'ye dönüştürmek için C# API'si
-url: /tr/net/conversion/docm-to-csv/
+url_ignore: /tr/net/conversion/docm-to-csv/
 family: total
 platformtag: net
 feature: conversion

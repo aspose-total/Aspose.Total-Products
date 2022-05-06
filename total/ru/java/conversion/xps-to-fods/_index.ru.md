@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга XPS в FODS
 description: Экспорт XPS в FODS через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/xps-to-fods/
+url_ignore: /ru/java/conversion/xps-to-fods/
 family: total
 platformtag: net
 feature: conversion

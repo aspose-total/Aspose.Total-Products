@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση EPUB σε XLAM
 description: Εξαγωγή EPUB σε XLAM μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/epub-to-xlam/
+url_ignore: /el/java/conversion/epub-to-xlam/
 family: total
 platformtag: net
 feature: conversion

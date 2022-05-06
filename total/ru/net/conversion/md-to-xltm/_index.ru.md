@@ -1,7 +1,7 @@
 ---
 title: Преобразование MD в XLTM через C# API
 description: C# API для преобразования файла MD в XLTM без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/md-to-xltm/
+url_ignore: /ru/net/conversion/md-to-xltm/
 family: total
 platformtag: net
 feature: conversion

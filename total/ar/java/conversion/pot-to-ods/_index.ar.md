@@ -1,7 +1,7 @@
 ---
 title: تحويل POT إلى تنسيق ODS عبر Java
 description: قم بتحويل POT إلى تنسيق ODS عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/pot-to-ods/
+url_ignore: /ar/java/conversion/pot-to-ods/
 family: total
 platformtag: net
 feature: conversion

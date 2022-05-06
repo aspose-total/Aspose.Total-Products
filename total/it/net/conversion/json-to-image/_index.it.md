@@ -1,7 +1,7 @@
 ---
 title: Converti il formato JSON in IMAGE tramite .NET
 description: Analizza JSON in IMAGE in C# senza utilizzare dipendenze di terze parti
-url: /it/net/conversion/json-to-image/
+url_ignore: /it/net/conversion/json-to-image/
 family: total
 platformtag: net
 feature: conversion
@@ -33,7 +33,8 @@ In alternativa, scarica il programma di installazione MSI offline o le DLL in un
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "parse-json-to-image.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ In alternativa, scarica il programma di installazione MSI offline o le DLL in un
 Durante l'analisi da JSON a IMAGE, puoi anche impostare le opzioni di layout per il tuo JSON utilizzando [JsonLayoutOptions](https://apiference.aspose.com/cells/net/aspose.cells.utility/jsonlayouttions). Ti consente di elaborare Array come una tabella, ignorare i valori null, ignorare il titolo dell'array, ignorare il titolo dell'oggetto, convertire la stringa in numero o data, impostare il formato della data e del numero e impostare lo stile del titolo. Tutte queste opzioni ti consentono di presentare i tuoi dati secondo le tue esigenze. Il frammento di codice seguente mostra come impostare le opzioni di layout.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "set-layout-and-parse-json-to-image.cs" >}}
+{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "set-layout-and-parse-json-to-image.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Durante l'analisi da JSON a IMAGE, puoi anche impostare le opzioni di layout per
 Utilizzando l'API, puoi anche convertire JSON in IMAGE con filigrana nel tuo documento IMAGE. Per aggiungere una filigrana, puoi prima eseguire il rendering del tuo documento JSON in JPEG e aggiungervi una filigrana. Per dimostrare l'operazione, puoi caricare l'immagine JPEG convertita, aggiungere trasformazioni utilizzando un oggetto della classe Matrix e disegnare una stringa come filigrana sulla superficie dell'immagine utilizzando [Graphics](https://apiference.aspose.com/imaging/ net/aspose.imaging/graphics) class' [DrawString](https://apiference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring). Dopo aver aggiunto la filigrana, puoi salvare il JPEG come formato IMAGE. Di seguito è riportato un esempio di codice che mostra come aggiungere una filigrana diagonale al documento. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

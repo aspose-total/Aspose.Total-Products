@@ -1,7 +1,7 @@
 ---
 title: 用于将 MD 导出到 RTF 的 Java API
 description: 使用本地 Java API 将 MD 转换为 RTF
-url: /zh/java/conversion/md-to-rtf/
+url_ignore: /zh/java/conversion/md-to-rtf/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export MHTML to MARKDOWN
 description: Convert MHTML to MARKDOWN within C++ applications.
-url: /cpp/conversion/mhtml-to-markdown/
+url_ignore: /cpp/conversion/mhtml-to-markdown/
 family: total
 platformtag: cpp
 feature: conversion

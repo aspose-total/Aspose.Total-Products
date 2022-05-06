@@ -1,7 +1,7 @@
 ---
 title: API de Java para convertir DOT a XLTM
 description: Convierta DOT a XLTM a través de Java sin usar Microsoft Word o Microsoft Excel
-url: /es/java/conversion/dot-to-xltm/
+url_ignore: /es/java/conversion/dot-to-xltm/
 family: total
 platformtag: net
 feature: conversion

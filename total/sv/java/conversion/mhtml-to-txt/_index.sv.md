@@ -1,7 +1,7 @@
 ---
 title: Java API för att rendera MHTML till TXT
 description: Exportera MHTML till TXT via Java API utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/java/conversion/mhtml-to-txt/
+url_ignore: /sv/java/conversion/mhtml-to-txt/
 family: total
 platformtag: net
 feature: conversion

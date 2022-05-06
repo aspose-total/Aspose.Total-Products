@@ -1,7 +1,7 @@
 ---
 title: Java API to Export TEX to PS
 description: Convert TEX to PS using on premise Java API
-url: /java/conversion/tex-to-ps/
+url_ignore: /java/conversion/tex-to-ps/
 family: total
 platformtag: java
 feature: conversion

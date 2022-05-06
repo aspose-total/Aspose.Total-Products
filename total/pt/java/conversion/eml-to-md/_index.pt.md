@@ -1,7 +1,7 @@
 ---
 title: Exportar EML para MD via Java
 description: API Java para converter EML para MD sem usar o Microsoft Word ou Outlook
-url: /pt/java/conversion/eml-to-md/
+url_ignore: /pt/java/conversion/eml-to-md/
 family: total
 platformtag: net
 feature: conversion

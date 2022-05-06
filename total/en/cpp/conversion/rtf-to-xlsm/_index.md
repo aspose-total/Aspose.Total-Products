@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to XLSM in C++
 description: C++ API to Convert RTF to XLSM without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/rtf-to-xlsm/
+url_ignore: /cpp/conversion/rtf-to-xlsm/
 family: total
 platformtag: cpp
 feature: conversion

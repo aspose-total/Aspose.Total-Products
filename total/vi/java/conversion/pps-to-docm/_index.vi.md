@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi PPS sang DOCM qua Java
 description: Java API để xuất PPS sang DOCM mà không cần sử dụng Microsoft Word hoặc PowerPoint
-url: /vi/java/conversion/pps-to-docm/
+url_ignore: /vi/java/conversion/pps-to-docm/
 family: total
 platformtag: net
 feature: conversion

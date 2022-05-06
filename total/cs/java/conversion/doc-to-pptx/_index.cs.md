@@ -1,7 +1,7 @@
 ---
 title: Převést DOC na PPTX přes Java
 description: Java API pro export DOC do PPTX bez použití Microsoft Word nebo PowerPoint
-url: /cs/java/conversion/doc-to-pptx/
+url_ignore: /cs/java/conversion/doc-to-pptx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert SVG to POTX  
 description: Convert SVG to POTX via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/svg-to-potx/
+url_ignore: /cpp/conversion/svg-to-potx/
 family: total
 platformtag: cpp
 feature: conversion

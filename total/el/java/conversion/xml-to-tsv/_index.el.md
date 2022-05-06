@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση XML σε TSV
 description: Εξαγωγή XML σε TSV μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/xml-to-tsv/
+url_ignore: /el/java/conversion/xml-to-tsv/
 family: total
 platformtag: net
 feature: conversion

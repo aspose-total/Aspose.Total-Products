@@ -1,7 +1,7 @@
 ---
 title: Java API do eksportu PDF do PCL
 description: Konwertuj PDF na PCL za pomocą lokalnego interfejsu Java API
-url: /pl/java/conversion/pdf-to-pcl/
+url_ignore: /pl/java/conversion/pdf-to-pcl/
 family: total
 platformtag: net
 feature: conversion
@@ -37,7 +37,8 @@ document.save("DocOutput.doc", SaveFormat.DOC);
 Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 // call save method while passing SaveFormat.PCL
 outputDocument.save("output.pcl", SaveFormat.PCL);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Wymagania dotyczące konwersji" %}}
@@ -49,7 +50,8 @@ Podczas konwersji PDF na PCL, nawet jeśli dokument jest chroniony hasłem, nada
 Document document = new Document("input.pdf", "password");
 // save PDF as a DOC 
 document.save("DocOutput.doc", SaveFormat.DOC);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Otwórz dokument PDF chroniony hasłem przez Java" %}}
@@ -73,7 +75,8 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
     Statement statement = mConnection.createStatement();
     statement.executeUpdate(commandString);
 }  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

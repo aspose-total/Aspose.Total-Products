@@ -1,7 +1,7 @@
 ---
 title: Konversi TEX ke PPTM melalui Java API
 description: Java API untuk Mengonversi TEX ke PPTM tanpa menggunakan Microsoft Word
-url: /id/java/conversion/tex-to-pptm/
+url_ignore: /id/java/conversion/tex-to-pptm/
 family: total
 platformtag: net
 feature: conversion

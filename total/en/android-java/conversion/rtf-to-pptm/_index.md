@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to PPTM in Android via Java
 description: RTF to PPTM conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/rtf-to-pptm/
+url_ignore: /android-java/conversion/rtf-to-pptm/
 family: total
 platformtag: android-java
 feature: conversion

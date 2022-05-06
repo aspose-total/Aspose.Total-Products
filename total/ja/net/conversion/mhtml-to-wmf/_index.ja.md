@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMHTMLをWMFに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでMHTMLをWMFにエクスポートします
-url: /ja/net/conversion/mhtml-to-wmf/
+url_ignore: /ja/net/conversion/mhtml-to-wmf/
 family: total
 platformtag: net
 feature: conversion

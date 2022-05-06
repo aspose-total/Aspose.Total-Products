@@ -1,7 +1,7 @@
 ---
 title: Преобразование POWERPOINT в формат CSV через Java
 description: Преобразуйте формат POWERPOINT в CSV через Java без использования Microsoft Excel или PowerPoint.
-url: /ru/java/conversion/powerpoint-to-csv/
+url_ignore: /ru/java/conversion/powerpoint-to-csv/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOTM to DIF
 description: Convert DOTM to DIF in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/dotm-to-dif/
+url_ignore: /android-java/conversion/dotm-to-dif/
 family: total
 platformtag: android-java
 feature: conversion

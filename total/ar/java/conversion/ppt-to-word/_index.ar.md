@@ -1,7 +1,7 @@
 ---
 title: تحويل PPT إلى WORD عبر Java
 description: Java API لتصدير PPT إلى WORD دون استخدام Microsoft Word أو PowerPoint
-url: /ar/java/conversion/ppt-to-word/
+url_ignore: /ar/java/conversion/ppt-to-word/
 family: total
 platformtag: net
 feature: conversion

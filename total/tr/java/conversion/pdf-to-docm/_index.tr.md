@@ -1,7 +1,7 @@
 ---
 title: PDF'yi DOCM'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak PDF'yi DOCM'ye dönüştürün
-url: /tr/java/conversion/pdf-to-docm/
+url_ignore: /tr/java/conversion/pdf-to-docm/
 family: total
 platformtag: net
 feature: conversion

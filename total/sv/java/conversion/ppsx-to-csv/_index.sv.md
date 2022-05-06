@@ -1,7 +1,7 @@
 ---
 title: Konvertera PPSX till CSV-format via Java
 description: Konvertera PPSX till CSV-format via Java utan att använda Microsoft Excel eller PowerPoint
-url: /sv/java/conversion/ppsx-to-csv/
+url_ignore: /sv/java/conversion/ppsx-to-csv/
 family: total
 platformtag: net
 feature: conversion

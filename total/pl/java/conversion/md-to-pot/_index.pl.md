@@ -1,7 +1,7 @@
 ---
 title: Konwertuj MD na POT za pomocą Java API
 description: Java API do konwersji MD na POT bez użycia Microsoft Word
-url: /pl/java/conversion/md-to-pot/
+url_ignore: /pl/java/conversion/md-to-pot/
 family: total
 platformtag: net
 feature: conversion

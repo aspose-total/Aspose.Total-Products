@@ -1,7 +1,7 @@
 ---
 title: Converter PDF para XLTM via API C#
 description: API C# para converter arquivo PDF em XLTM sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/pdf-to-xltm/
+url_ignore: /pt/net/conversion/pdf-to-xltm/
 family: total
 platformtag: net
 feature: conversion

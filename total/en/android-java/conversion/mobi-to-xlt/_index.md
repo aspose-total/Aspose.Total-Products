@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert MOBI to XLT
 description: Convert MOBI to XLT in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/mobi-to-xlt/
+url_ignore: /android-java/conversion/mobi-to-xlt/
 family: total
 platformtag: android-java
 feature: conversion

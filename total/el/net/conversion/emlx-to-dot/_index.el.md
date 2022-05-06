@@ -1,7 +1,7 @@
 ---
 title: C# API για εξαγωγή EMLX σε DOT
 description: Μετατροπή EMLX σε DOT χωρίς χρήση του Microsoft Word ή του Outlook στο .NET
-url: /el/net/conversion/emlx-to-dot/
+url_ignore: /el/net/conversion/emlx-to-dot/
 family: total
 platformtag: net
 feature: conversion

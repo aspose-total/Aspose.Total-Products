@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPCLをPOTXにエクスポートする
 description: MicrosoftWordを使用せずにPCLをPOTXに変換する.NETAPI
-url: /ja/net/conversion/pcl-to-potx/
+url_ignore: /ja/net/conversion/pcl-to-potx/
 family: total
 platformtag: net
 feature: conversion

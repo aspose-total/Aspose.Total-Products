@@ -1,7 +1,7 @@
 ---
 title: OFTをJPEGにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにOFTをJPEGに変換する
-url: /ja/net/conversion/oft-to-jpeg/
+url_ignore: /ja/net/conversion/oft-to-jpeg/
 family: total
 platformtag: net
 feature: conversion

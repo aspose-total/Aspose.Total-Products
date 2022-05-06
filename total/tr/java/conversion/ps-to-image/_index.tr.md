@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla PS'yi IMAGE'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan PS dosyasını Java uygulamalarınızda IMAGE'ye aktarın
-url: /tr/java/conversion/ps-to-image/
+url_ignore: /tr/java/conversion/ps-to-image/
 family: total
 platformtag: net
 feature: conversion

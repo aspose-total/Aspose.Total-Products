@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してTEXをPPTMにエクスポートする
 description: MicrosoftWordを使用せずにTEXをPPTMに変換する.NETAPI
-url: /ja/net/conversion/tex-to-pptm/
+url_ignore: /ja/net/conversion/tex-to-pptm/
 family: total
 platformtag: net
 feature: conversion

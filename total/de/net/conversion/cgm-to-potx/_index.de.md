@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie CGM über die C#-API nach POTX
 description: .NET-API zum Konvertieren von CGM in POTX ohne Verwendung von Microsoft Word
-url: /de/net/conversion/cgm-to-potx/
+url_ignore: /de/net/conversion/cgm-to-potx/
 family: total
 platformtag: net
 feature: conversion

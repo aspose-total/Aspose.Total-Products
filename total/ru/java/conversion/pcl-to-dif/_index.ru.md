@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга PCL в DIF
 description: Экспорт PCL в DIF через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/pcl-to-dif/
+url_ignore: /ru/java/conversion/pcl-to-dif/
 family: total
 platformtag: net
 feature: conversion

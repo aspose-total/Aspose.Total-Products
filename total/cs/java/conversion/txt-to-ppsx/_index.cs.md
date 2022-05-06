@@ -1,7 +1,7 @@
 ---
 title: Převést TXT na PPSX přes Java
 description: Java API pro export TXT do PPSX bez použití Microsoft Word nebo PowerPoint
-url: /cs/java/conversion/txt-to-ppsx/
+url_ignore: /cs/java/conversion/txt-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

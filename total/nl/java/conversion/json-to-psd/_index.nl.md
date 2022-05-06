@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar PSD via Java
 description: JSON ontleden naar PSD in Java zonder Microsoft PowerPoint te gebruiken
-url: /nl/java/conversion/json-to-psd/
+url_ignore: /nl/java/conversion/json-to-psd/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: แปลงรูปแบบ JSON เป็น ODT ผ่าน .NET
 description: แยก JSON เป็น ODT ใน C# โดยไม่ต้องใช้ Microsoft Word
-url: /th/net/conversion/json-to-odt/
+url_ignore: /th/net/conversion/json-to-odt/
 family: total
 platformtag: net
 feature: conversion

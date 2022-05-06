@@ -1,7 +1,7 @@
 ---
 title: Java API لتحويل DOCX إلى TSV
 description: قم بتحويل DOCX إلى TSV عبر Java دون استخدام Microsoft Word أو Microsoft Excel
-url: /ar/java/conversion/docx-to-tsv/
+url_ignore: /ar/java/conversion/docx-to-tsv/
 family: total
 platformtag: net
 feature: conversion

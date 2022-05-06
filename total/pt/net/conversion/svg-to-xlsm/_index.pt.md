@@ -1,7 +1,7 @@
 ---
 title: Converter SVG para XLSM via API C#
 description: API C# para converter arquivo SVG em XLSM sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/svg-to-xlsm/
+url_ignore: /pt/net/conversion/svg-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converteer TXT naar POWERPOINT via Java
 description: Java API om TXT naar POWERPOINT te exporteren zonder Microsoft Word of PowerPoint te gebruiken
-url: /nl/java/conversion/txt-to-powerpoint/
+url_ignore: /nl/java/conversion/txt-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert DOC to POWERPOINT in Android via Java
 description: DOC to POWERPOINT conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/doc-to-powerpoint/
+url_ignore: /android-java/conversion/doc-to-powerpoint/
 family: total
 platformtag: android-java
 feature: conversion

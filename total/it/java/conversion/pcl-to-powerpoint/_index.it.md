@@ -1,7 +1,7 @@
 ---
 title: Converti PCL in POWERPOINT tramite API Java
 description: API Java per convertire PCL in POWERPOINT senza utilizzare Microsoft Word
-url: /it/java/conversion/pcl-to-powerpoint/
+url_ignore: /it/java/conversion/pcl-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

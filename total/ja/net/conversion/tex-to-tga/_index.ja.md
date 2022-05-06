@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してTEXをTGAに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでTEXをTGAにエクスポートします
-url: /ja/net/conversion/tex-to-tga/
+url_ignore: /ja/net/conversion/tex-to-tga/
 family: total
 platformtag: net
 feature: conversion

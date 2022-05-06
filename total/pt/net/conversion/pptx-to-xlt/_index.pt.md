@@ -1,7 +1,7 @@
 ---
 title: Converter PPTX para XLT via C#
 description: Converter PPTX para XLT em C# sem usar o Microsoft Excel ou Powerpoint
-url: /pt/net/conversion/pptx-to-xlt/
+url_ignore: /pt/net/conversion/pptx-to-xlt/
 family: total
 platformtag: net
 feature: conversion

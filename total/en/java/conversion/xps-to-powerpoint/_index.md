@@ -1,7 +1,7 @@
 ---
 title: Convert XPS to POWERPOINT via Java API
 description: Java API to Convert XPS to POWERPOINT without using Microsoft Word
-url: /java/conversion/xps-to-powerpoint/
+url_ignore: /java/conversion/xps-to-powerpoint/
 family: total
 platformtag: java
 feature: conversion

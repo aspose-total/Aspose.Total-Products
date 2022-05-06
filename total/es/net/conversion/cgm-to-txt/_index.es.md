@@ -1,7 +1,7 @@
 ---
 title: Convierta CGM a TXT a través de la API de C#
 description: API C# para convertir archivos CGM a TXT sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/cgm-to-txt/
+url_ignore: /es/net/conversion/cgm-to-txt/
 family: total
 platformtag: net
 feature: conversion

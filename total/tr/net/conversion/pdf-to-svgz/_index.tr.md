@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla PDF'yi SVGZ'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan PDF'yi .NET uygulamalarınızda SVGZ'ye aktarın
-url: /tr/net/conversion/pdf-to-svgz/
+url_ignore: /tr/net/conversion/pdf-to-svgz/
 family: total
 platformtag: net
 feature: conversion

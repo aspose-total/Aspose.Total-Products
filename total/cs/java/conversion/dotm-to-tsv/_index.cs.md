@@ -1,7 +1,7 @@
 ---
 title: Java API pro převod DOTM do TSV
 description: Převeďte DOTM na TSV přes Java bez použití Microsoft Word nebo Microsoft Excel
-url: /cs/java/conversion/dotm-to-tsv/
+url_ignore: /cs/java/conversion/dotm-to-tsv/
 family: total
 platformtag: net
 feature: conversion

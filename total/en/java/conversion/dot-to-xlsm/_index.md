@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to XLSM via Java
 description: Convert DOT to XLSM via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/dot-to-xlsm/
+url_ignore: /java/conversion/dot-to-xlsm/
 family: total
 platformtag: java
 feature: conversion

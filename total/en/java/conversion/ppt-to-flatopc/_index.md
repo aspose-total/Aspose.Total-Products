@@ -1,7 +1,7 @@
 ---
 title: Convert PPT to FLATOPC via Java
 description: Java API to Export PPT to FLATOPC without using Microsoft Word or PowerPoint
-url: /java/conversion/ppt-to-flatopc/
+url_ignore: /java/conversion/ppt-to-flatopc/
 family: total
 platformtag: java
 feature: conversion

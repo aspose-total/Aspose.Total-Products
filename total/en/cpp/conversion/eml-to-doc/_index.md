@@ -1,7 +1,7 @@
 ---
 title: Export EML to DOC via C++
 description: C++ API to Convert EML to DOC without using Microsoft Word or Outlook
-url: /cpp/conversion/eml-to-doc/
+url_ignore: /cpp/conversion/eml-to-doc/
 family: total
 platformtag: cpp
 feature: conversion

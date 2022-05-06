@@ -1,7 +1,7 @@
 ---
 title: Преобразование XLT в PPTX с помощью Java
 description: Java API для экспорта XLT в PPTX с использованием Excel или Word
-url: /ru/java/conversion/xlt-to-pptx/
+url_ignore: /ru/java/conversion/xlt-to-pptx/
 family: total
 platformtag: net
 feature: conversion

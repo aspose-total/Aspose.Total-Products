@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert MOBI to XLSX
 description: Convert MOBI to XLSX via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/mobi-to-xlsx/
+url_ignore: /java/conversion/mobi-to-xlsx/
 family: total
 platformtag: java
 feature: conversion

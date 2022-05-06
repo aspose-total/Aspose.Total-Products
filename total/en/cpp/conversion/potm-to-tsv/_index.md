@@ -1,7 +1,7 @@
 ---
 title: Convert POTM to TSV via C++ 
 description: Export POTM to TSV in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/potm-to-tsv/
+url_ignore: /cpp/conversion/potm-to-tsv/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı PS'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan MSG'i PS'ye dönüştürün
-url: /tr/net/conversion/msg-to-ps/
+url_ignore: /tr/net/conversion/msg-to-ps/
 family: total
 platformtag: net
 feature: conversion

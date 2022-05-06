@@ -1,6 +1,6 @@
 ---
 title: Преобразование DOC в PPSM через C# .NET 
-url: /ru/net/conversion/doc-to-ppsm/ 
+url_ignore: /ru/net/conversion/doc-to-ppsm/ 
 description: Преобразование документов Word doc в файлы PowerPoint ppsm с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

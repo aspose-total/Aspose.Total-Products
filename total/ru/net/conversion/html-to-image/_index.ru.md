@@ -1,7 +1,7 @@
 ---
 title: Преобразование HTML в IMAGE через C# API
 description: Экспорт HTML в IMAGE в ваших приложениях .NET без использования каких-либо сторонних приложений.
-url: /ru/net/conversion/html-to-image/
+url_ignore: /ru/net/conversion/html-to-image/
 family: total
 platformtag: net
 feature: conversion

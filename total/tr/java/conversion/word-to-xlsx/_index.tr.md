@@ -1,7 +1,7 @@
 ---
 title: WORD'yi XLSX'ye Dönüştürmek için Java API
 description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla WORD'yi XLSX'ye dönüştürün
-url: /tr/java/conversion/word-to-xlsx/
+url_ignore: /tr/java/conversion/word-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

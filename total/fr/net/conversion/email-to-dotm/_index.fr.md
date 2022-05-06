@@ -1,7 +1,7 @@
 ---
 title: API C# pour exporter EMAIL vers DOTM
 description: Convertir EMAIL en DOTM sans utiliser Microsoft Word ou Outlook sur .NET
-url: /fr/net/conversion/email-to-dotm/
+url_ignore: /fr/net/conversion/email-to-dotm/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: PNG DOCM DOC EMF DOT EPUB PDF SVG XPS TIFF DOTX MD ODT PS PCL RTF 
 {{< blocks/products/pf/i18n/feature-page-header h1="Exporter EMAIL vers DOTM via .NET" h2="API .NET pour rendre EMAIL en DOTM sous Windows, macOS et Linux sans utiliser Word ou Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Si vous êtes un développeur .NET cherchant à ajouter des fonctionnalités de conversion EMAIL vers DOTM dans vos applications, les API de manipulation de format de fichier [Aspose.Total pour .NET](https://products.aspose.com/total/net/) sont la solution. avant. En utilisant [Aspose.Email pour .NET](https://products.aspose.com/email/net/), vous pouvez convertir le format de fichier EMAIL en HTML. Après cela, en utilisant [Aspose.Words pour .NET](https://products.aspose.com/words/net/), vous pouvez restituer HTML en DOTM.
+Si vous êtes un développeur .NET cherchant à ajouter des fonctionnalités de conversion EMAIL vers DOTM dans vos applications, les API de manipulation de format de fichier [Aspose.Total for .NET](https://products.aspose.com/total/net/) sont la solution. avant. En utilisant [Aspose.Email for .NET](https://products.aspose.com/email/net/), vous pouvez convertir le format de fichier EMAIL en HTML. Après cela, en utilisant [Aspose.Words for .NET](https://products.aspose.com/words/net/), vous pouvez restituer HTML en DOTM.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.dotm", SaveFormat.Dotm);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analyser le fichier EMAIL via .NET" %}}
-Avant de convertir EMAIL en DOTM, si vous voulez vous assurer que vous convertissez le bon e-mail, vous pouvez charger le document EMAIL, l'analyser et jeter un œil à la propriété souhaitée. En utilisant la classe [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) de [Aspose.Email pour .NET](https://products.aspose.com/email /net/), vous pouvez obtenir des informations sur l'expéditeur et les destinataires. Par exemple, vous pouvez rechercher un e-mail d'expéditeur spécifique pour la conversion à l'aide de la propriété [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
+Avant de convertir EMAIL en DOTM, si vous voulez vous assurer que vous convertissez le bon e-mail, vous pouvez charger le document EMAIL, l'analyser et jeter un œil à la propriété souhaitée. En utilisant la classe [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) de [Aspose.Email for .NET](https://products.aspose.com/email /net/), vous pouvez obtenir des informations sur l'expéditeur et les destinataires. Par exemple, vous pouvez rechercher un e-mail d'expéditeur spécifique pour la conversion à l'aide de la propriété [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -63,7 +63,7 @@ if(outlookMessageFile.SenderName == "John"){
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Restreindre l'édition de documents DOTM via .NET" %}}
-Lors de l'enregistrement du document de EMAIL vers DOTM, vous devrez peut-être protéger votre document de sortie. Parfois, vous devrez peut-être limiter la possibilité de modifier un document et n'autoriser que certaines actions avec celui-ci. Cela peut être utile pour empêcher d'autres personnes de modifier des informations sensibles et confidentielles dans votre document. L'API [Aspose.Words pour .NET](https://products.aspose.com/words/net/) vous permet de contrôler la manière dont vous restreignez le contenu à l'aide de [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype) paramètre d'énumération. Vous pouvez définir votre document en lecture seule en utilisant les lignes de code suivantes. 
+Lors de l'enregistrement du document de EMAIL vers DOTM, vous devrez peut-être protéger votre document de sortie. Parfois, vous devrez peut-être limiter la possibilité de modifier un document et n'autoriser que certaines actions avec celui-ci. Cela peut être utile pour empêcher d'autres personnes de modifier des informations sensibles et confidentielles dans votre document. L'API [Aspose.Words for .NET](https://products.aspose.com/words/net/) vous permet de contrôler la manière dont vous restreignez le contenu à l'aide de [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype) paramètre d'énumération. Vous pouvez définir votre document en lecture seule en utilisant les lignes de code suivantes. 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

@@ -1,7 +1,7 @@
 ---
 title: Converti SVG in PPT tramite API Java
 description: API Java per convertire SVG in PPT senza utilizzare Microsoft Word
-url: /it/java/conversion/svg-to-ppt/
+url_ignore: /it/java/conversion/svg-to-ppt/
 family: total
 platformtag: net
 feature: conversion

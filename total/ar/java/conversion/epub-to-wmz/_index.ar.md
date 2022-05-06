@@ -1,7 +1,7 @@
 ---
 title: تحويل EPUB إلى WMZ عبر Java
 description: قم بتصدير ملف EPUB إلى WMZ في تطبيقات Java الخاصة بك دون استخدام أي تطبيق تابع لجهة خارجية
-url: /ar/java/conversion/epub-to-wmz/
+url_ignore: /ar/java/conversion/epub-to-wmz/
 family: total
 platformtag: net
 feature: conversion

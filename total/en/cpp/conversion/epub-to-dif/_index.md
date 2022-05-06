@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert EPUB to DIF
 description: Convert EPUB to DIF via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/epub-to-dif/
+url_ignore: /cpp/conversion/epub-to-dif/
 family: total
 platformtag: cpp
 feature: conversion

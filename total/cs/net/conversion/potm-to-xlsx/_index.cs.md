@@ -1,7 +1,7 @@
 ---
 title: Převést POTM na XLSX přes C#
 description: Převeďte POTM na XLSX v C# bez použití Microsoft Excel nebo Powerpoint
-url: /cs/net/conversion/potm-to-xlsx/
+url_ignore: /cs/net/conversion/potm-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

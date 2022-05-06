@@ -1,7 +1,7 @@
 ---
 title: Export XML do POT přes C# API
 description: .NET API pro převod XML na POT bez použití aplikace Microsoft Word
-url: /cs/net/conversion/xml-to-pot/
+url_ignore: /cs/net/conversion/xml-to-pot/
 family: total
 platformtag: net
 feature: conversion

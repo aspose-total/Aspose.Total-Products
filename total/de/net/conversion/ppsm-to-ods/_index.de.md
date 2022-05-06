@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie PPSM über C# in ODS
 description: Konvertieren Sie PPSM in C# in ODS, ohne Microsoft Excel oder Powerpoint zu verwenden
-url: /de/net/conversion/ppsm-to-ods/
+url_ignore: /de/net/conversion/ppsm-to-ods/
 family: total
 platformtag: net
 feature: conversion

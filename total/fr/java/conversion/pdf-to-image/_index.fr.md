@@ -1,7 +1,7 @@
 ---
 title: Convertir PDF en IMAGE via Java
 description: Exportez le fichier PDF vers IMAGE dans vos applications Java sans utiliser d'application tierce
-url: /fr/java/conversion/pdf-to-image/
+url_ignore: /fr/java/conversion/pdf-to-image/
 family: total
 platformtag: net
 feature: conversion

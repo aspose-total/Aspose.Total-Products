@@ -1,7 +1,7 @@
 ---
 title: Android API to Render MHTML to DOTX
 description: Transform MHTML to DOTX via Android via Java API
-url: /android-java/conversion/mhtml-to-dotx/
+url_ignore: /android-java/conversion/mhtml-to-dotx/
 family: total
 platformtag: android-java
 feature: conversion

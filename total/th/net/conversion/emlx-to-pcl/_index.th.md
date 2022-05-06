@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก EMLX ไปยัง PCL
 description: แปลง EMLX เป็น PCL โดยไม่ต้องใช้ Microsoft Word หรือ Outlook บน .NET
-url: /th/net/conversion/emlx-to-pcl/
+url_ignore: /th/net/conversion/emlx-to-pcl/
 family: total
 platformtag: net
 feature: conversion

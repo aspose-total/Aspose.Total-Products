@@ -1,7 +1,7 @@
 ---
 title: C#-API zum Exportieren von MHTML nach DOTX
 description: Konvertieren Sie MHTML in DOTX, ohne Microsoft Word zu verwenden
-url: /de/net/conversion/mhtml-to-dotx/
+url_ignore: /de/net/conversion/mhtml-to-dotx/
 family: total
 platformtag: net
 feature: conversion

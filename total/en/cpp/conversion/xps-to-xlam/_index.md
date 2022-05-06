@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XPS to XLAM
 description: Convert XPS to XLAM via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xps-to-xlam/
+url_ignore: /cpp/conversion/xps-to-xlam/
 family: total
 platformtag: cpp
 feature: conversion

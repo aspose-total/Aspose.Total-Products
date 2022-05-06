@@ -1,7 +1,7 @@
 ---
 title: .NETを介してJSON形式をPOTXに変換する
 description: Microsoft PowerPointを使用せずにC＃でJSONをPOTXに解析する
-url: /ja/net/conversion/json-to-potx/
+url_ignore: /ja/net/conversion/json-to-potx/
 family: total
 platformtag: net
 feature: conversion

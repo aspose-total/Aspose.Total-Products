@@ -1,7 +1,7 @@
 ---
 title: SVGをMHTMLにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにSVGをMHTMLに変換する
-url: /ja/net/conversion/svg-to-mhtml/
+url_ignore: /ja/net/conversion/svg-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

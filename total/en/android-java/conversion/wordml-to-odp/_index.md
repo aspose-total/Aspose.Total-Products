@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to ODP in Android via Java
 description: WORDML to ODP conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/wordml-to-odp/
+url_ignore: /android-java/conversion/wordml-to-odp/
 family: total
 platformtag: android-java
 feature: conversion

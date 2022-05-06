@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してPSをPPSMに変換する
 description: MicrosoftWordを使用せずにPSをPPSMに変換するJavaAPI
-url: /ja/java/conversion/ps-to-ppsm/
+url_ignore: /ja/java/conversion/ps-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

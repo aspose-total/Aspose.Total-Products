@@ -1,7 +1,7 @@
 ---
 title: Export EMLX to TEXT via C++
 description: C++ API to Convert EMLX to TEXT without using Microsoft Word or Outlook
-url: /cpp/conversion/emlx-to-text/
+url_ignore: /cpp/conversion/emlx-to-text/
 family: total
 platformtag: cpp
 feature: conversion

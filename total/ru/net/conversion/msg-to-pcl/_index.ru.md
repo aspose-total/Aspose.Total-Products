@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта MSG в PCL
 description: Преобразование MSG в PCL без использования Microsoft Word или Outlook на .NET
-url: /ru/net/conversion/msg-to-pcl/
+url_ignore: /ru/net/conversion/msg-to-pcl/
 family: total
 platformtag: net
 feature: conversion

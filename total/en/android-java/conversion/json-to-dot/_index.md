@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to DOT in Android via Java 
 description: Parse JSON to DOT in Java without using Microsoft Word
-url: /android-java/conversion/json-to-dot/
+url_ignore: /android-java/conversion/json-to-dot/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export PPTM to DOT on Andorid via Java  
 description: Convert PPTM to DOT in mobile apps without installing any software 
-url: /android-java/conversion/pptm-to-dot/
+url_ignore: /android-java/conversion/pptm-to-dot/
 family: total
 platformtag: android-java
 feature: conversion

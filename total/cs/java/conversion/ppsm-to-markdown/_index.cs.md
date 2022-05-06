@@ -1,7 +1,7 @@
 ---
 title: Převeďte PPSM do formátu MARKDOWN přes Java
 description: Převeďte PPSM do formátu MARKDOWN přes Java bez použití Microsoft Excel nebo PowerPoint
-url: /cs/java/conversion/ppsm-to-markdown/
+url_ignore: /cs/java/conversion/ppsm-to-markdown/
 family: total
 platformtag: net
 feature: conversion

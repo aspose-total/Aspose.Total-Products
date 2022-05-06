@@ -1,7 +1,7 @@
 ---
 title: Eksportuj EMLX do XPS przez Java
 description: Java API do konwersji EMLX na XPS bez użycia Microsoft Word lub Outlook
-url: /pl/java/conversion/emlx-to-xps/
+url_ignore: /pl/java/conversion/emlx-to-xps/
 family: total
 platformtag: net
 feature: conversion

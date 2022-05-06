@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPOTをXLSに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPOTをXLSに変換する
-url: /ja/net/conversion/pot-to-xls/
+url_ignore: /ja/net/conversion/pot-to-xls/
 family: total
 platformtag: net
 feature: conversion

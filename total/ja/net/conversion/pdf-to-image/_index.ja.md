@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをIMAGEに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでPDFをIMAGEにエクスポートします
-url: /ja/net/conversion/pdf-to-image/
+url_ignore: /ja/net/conversion/pdf-to-image/
 family: total
 platformtag: net
 feature: conversion

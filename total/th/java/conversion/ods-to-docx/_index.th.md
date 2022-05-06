@@ -1,7 +1,7 @@
 ---
 title: แปลง ODS เป็น DOCX โดยใช้ Java
 description: Java API เพื่อส่งออก ODS เป็น DOCX โดยใช้ Excel หรือ Word
-url: /th/java/conversion/ods-to-docx/
+url_ignore: /th/java/conversion/ods-to-docx/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ otherformats: DOCX POWERPOINT WORD PPTX
 {{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง ODS เป็น DOCX ผ่าน Java API" %}}
 1. เปิดไฟล์ ODS โดยใช้คลาส [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
 2. แปลง ODS เป็น PDF และตั้งค่า SaveFormat เป็น AUTO
-3. โหลดไฟล์ PDF ที่แปลงแล้วโดยใช้คลาส [Docxument](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Docxument)
-4. บันทึกเอกสารในรูปแบบ DOCX โดยใช้ [บันทึก](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Docxument#save-java.lang.String-com.aspose.pdf.SaveOptions-) วิธีการและตั้งค่า Docx เป็น SaveFormat
+3. โหลดไฟล์ PDF ที่แปลงแล้วโดยใช้คลาส [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)
+4. บันทึกเอกสารในรูปแบบ DOCX โดยใช้ [บันทึก](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) วิธีการและตั้งค่า Docx เป็น SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
 คุณต้องใช้ Aspose.Total สำหรับ Java โดยตรงจากโครงการที่ใช้ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และรวมไลบรารี่ใน pom.xml ของคุณ
@@ -32,10 +32,10 @@ otherformats: DOCX POWERPOINT WORD PPTX
 Workbook book = new Workbook("input.ods");
 // save ODS as PDF
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Docxument class
-Docxument docxument = new Docxument("pdfOutput.pdf");
-// save docxument in DOCXX format
-docxument.save("output.docxx", com.aspose.pdf.SaveFormat.DocxX);  
+// load the PDF file using Document class
+Document Document = new Document("pdfOutput.pdf");
+// save Document in DOCXX format
+Document.save("output.docxx", com.aspose.pdf.SaveFormat.DocxX);  
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}

@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга CGM в XLT
 description: Экспорт CGM в XLT через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/cgm-to-xlt/
+url_ignore: /ru/java/conversion/cgm-to-xlt/
 family: total
 platformtag: net
 feature: conversion

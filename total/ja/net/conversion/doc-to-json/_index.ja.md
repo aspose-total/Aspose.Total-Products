@@ -1,7 +1,7 @@
 ---
 title: .NETを介してDOCをJSON形式に変換します
 description: MicrosoftExcelまたはAdobeReaderを使用せずにC＃でDOCをJSONに変換する
-url: /ja/net/conversion/doc-to-json/
+url_ignore: /ja/net/conversion/doc-to-json/
 family: total
 platformtag: net
 feature: conversion

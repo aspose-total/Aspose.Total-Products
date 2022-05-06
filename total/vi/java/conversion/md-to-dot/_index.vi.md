@@ -1,7 +1,7 @@
 ---
 title: API Java để xuất MD sang DOT
 description: Chuyển đổi MD sang DOT bằng cách sử dụng API Java tiền đề
-url: /vi/java/conversion/md-to-dot/
+url_ignore: /vi/java/conversion/md-to-dot/
 family: total
 platformtag: net
 feature: conversion

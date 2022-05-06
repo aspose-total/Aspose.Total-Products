@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してCGMをPPTにエクスポートする
 description: MicrosoftWordを使用せずにCGMをPPTに変換する.NETAPI
-url: /ja/net/conversion/cgm-to-ppt/
+url_ignore: /ja/net/conversion/cgm-to-ppt/
 family: total
 platformtag: net
 feature: conversion

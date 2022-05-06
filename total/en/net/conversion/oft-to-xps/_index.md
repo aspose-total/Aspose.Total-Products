@@ -1,7 +1,7 @@
 ---
 title: C# API to Export OFT to XPS
 description: Convert OFT to XPS without using Microsoft Word or Outlook on .NET
-url: /net/conversion/oft-to-xps/
+url_ignore: /net/conversion/oft-to-xps/
 family: total
 platformtag: net
 feature: conversion

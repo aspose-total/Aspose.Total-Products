@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMHTMLをTXTに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにMHTMLファイルをTXTに変換するC＃API
-url: /ja/net/conversion/mhtml-to-txt/
+url_ignore: /ja/net/conversion/mhtml-to-txt/
 family: total
 platformtag: net
 feature: conversion

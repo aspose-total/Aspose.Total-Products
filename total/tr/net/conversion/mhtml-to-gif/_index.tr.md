@@ -1,7 +1,7 @@
 ---
 title: MHTML'yi GIF'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan MHTML'yi GIF'ye dönüştürün
-url: /tr/net/conversion/mhtml-to-gif/
+url_ignore: /tr/net/conversion/mhtml-to-gif/
 family: total
 platformtag: net
 feature: conversion

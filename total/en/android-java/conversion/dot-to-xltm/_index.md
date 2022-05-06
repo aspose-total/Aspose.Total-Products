@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOT to XLTM
 description: Convert DOT to XLTM in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/dot-to-xltm/
+url_ignore: /android-java/conversion/dot-to-xltm/
 family: total
 platformtag: android-java
 feature: conversion

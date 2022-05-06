@@ -1,7 +1,7 @@
 ---
 title: Render EML to RTF in Andorid App
 description: Export EML to RTF without using Microsoft Word or Outlook in you Andorid applications 
-url: /android-java/conversion/eml-to-rtf/
+url_ignore: /android-java/conversion/eml-to-rtf/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert PPTX to DIF via C++ 
 description: Export PPTX to DIF in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pptx-to-dif/
+url_ignore: /cpp/conversion/pptx-to-dif/
 family: total
 platformtag: cpp
 feature: conversion

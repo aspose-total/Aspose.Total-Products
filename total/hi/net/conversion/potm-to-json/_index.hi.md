@@ -1,7 +1,7 @@
 ---
 title: .NET . के माध्यम से POTM को JSON फॉर्मेट में बदलें
 description: Microsoft Excel या Powerpoint का उपयोग किए बिना POTM को JSON में C# में बदलें
-url: /hi/net/conversion/potm-to-json/
+url_ignore: /hi/net/conversion/potm-to-json/
 family: total
 platformtag: net
 feature: conversion

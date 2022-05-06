@@ -1,7 +1,7 @@
 ---
 title: CGM'yi MHTML'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak CGM'yi MHTML'ye dönüştürün
-url: /tr/java/conversion/cgm-to-mhtml/
+url_ignore: /tr/java/conversion/cgm-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

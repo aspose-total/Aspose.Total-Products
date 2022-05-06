@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PDF to DOTM
 description: Transform PDF to DOTM via Android via Java API
-url: /android-java/conversion/pdf-to-dotm/
+url_ignore: /android-java/conversion/pdf-to-dotm/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to XLSM via .NET 
 description: Convert DOT to XLSM in C# without using Microsoft Excel or Adobe Reader
-url: /net/conversion/dot-to-xlsm/
+url_ignore: /net/conversion/dot-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: MOBI'yi XLAM'ye Dönüştürmek için .NET API
 description: Microsoft Excel veya Adobe Reader kullanmadan MOBI'yi XLAM'ye dönüştürmek için C# API'si
-url: /tr/net/conversion/mobi-to-xlam/
+url_ignore: /tr/net/conversion/mobi-to-xlam/
 family: total
 platformtag: net
 feature: conversion

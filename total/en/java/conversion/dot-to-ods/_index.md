@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert DOT to ODS
 description: Convert DOT to ODS via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/dot-to-ods/
+url_ignore: /java/conversion/dot-to-ods/
 family: total
 platformtag: java
 feature: conversion

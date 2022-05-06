@@ -1,7 +1,7 @@
 ---
 title: Převeďte formát JSON na ODP přes .NET
 description: Analyzujte JSON na ODP v C# bez použití Microsoft PowerPoint
-url: /cs/net/conversion/json-to-odp/
+url_ignore: /cs/net/conversion/json-to-odp/
 family: total
 platformtag: net
 feature: conversion

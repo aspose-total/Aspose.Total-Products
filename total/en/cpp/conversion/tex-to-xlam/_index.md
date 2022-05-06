@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert TEX to XLAM
 description: Convert TEX to XLAM via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/tex-to-xlam/
+url_ignore: /cpp/conversion/tex-to-xlam/
 family: total
 platformtag: cpp
 feature: conversion

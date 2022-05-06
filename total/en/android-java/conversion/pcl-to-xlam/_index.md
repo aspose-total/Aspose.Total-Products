@@ -1,7 +1,7 @@
 ---
 title: Convert PCL to XLAM in Android via Java
 description: Render PCL to XLAM in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/pcl-to-xlam/
+url_ignore: /android-java/conversion/pcl-to-xlam/
 family: total
 platformtag: android-java
 feature: conversion

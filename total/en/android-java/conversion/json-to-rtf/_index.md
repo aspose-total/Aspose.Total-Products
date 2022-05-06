@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to RTF in Android via Java 
 description: Parse JSON to RTF in Java without using Microsoft Word
-url: /android-java/conversion/json-to-rtf/
+url_ignore: /android-java/conversion/json-to-rtf/
 family: total
 platformtag: android-java
 feature: conversion

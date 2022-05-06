@@ -1,7 +1,7 @@
 ---
 title: .NET API для преобразования MOBI в XLTX
 description: C# API для преобразования MOBI в XLTX без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/mobi-to-xltx/
+url_ignore: /ru/net/conversion/mobi-to-xltx/
 family: total
 platformtag: net
 feature: conversion

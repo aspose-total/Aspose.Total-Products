@@ -1,7 +1,7 @@
 ---
 title: Converter PPTX para formato XLAM via Java
 description: Converta o formato PPTX para XLAM via Java sem usar o Microsoft Excel ou PowerPoint
-url: /pt/java/conversion/pptx-to-xlam/
+url_ignore: /pt/java/conversion/pptx-to-xlam/
 family: total
 platformtag: net
 feature: conversion

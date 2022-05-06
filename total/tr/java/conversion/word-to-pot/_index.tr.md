@@ -1,7 +1,7 @@
 ---
 title: Java ile WORD'yi POT'ye dönüştürün
 description: Microsoft Word veya PowerPoint kullanmadan WORD'yi POT'ye Dışa Aktarmak için Java API
-url: /tr/java/conversion/word-to-pot/
+url_ignore: /tr/java/conversion/word-to-pot/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: MSGをFLATOPCにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにMSGをFLATOPCに変換する
-url: /ja/net/conversion/msg-to-flatopc/
+url_ignore: /ja/net/conversion/msg-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

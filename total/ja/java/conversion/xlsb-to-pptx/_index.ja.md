@@ -1,7 +1,7 @@
 ---
 title: Javaを使用してXLSBをPPTXに変換する
 description: ExcelまたはWordを使用してXLSBをPPTXにエクスポートするJavaAPI
-url: /ja/java/conversion/xlsb-to-pptx/
+url_ignore: /ja/java/conversion/xlsb-to-pptx/
 family: total
 platformtag: net
 feature: conversion

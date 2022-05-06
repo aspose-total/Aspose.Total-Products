@@ -1,7 +1,7 @@
 ---
 title: Converter PPT para formato XLTX via Java
 description: Converta o formato PPT para XLTX via Java sem usar o Microsoft Excel ou PowerPoint
-url: /pt/java/conversion/ppt-to-xltx/
+url_ignore: /pt/java/conversion/ppt-to-xltx/
 family: total
 platformtag: net
 feature: conversion

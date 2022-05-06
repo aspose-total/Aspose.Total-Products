@@ -1,7 +1,7 @@
 ---
 title: Converti DOTX in ODP tramite Java
 description: API Java per esportare DOTX in ODP senza utilizzare Microsoft Word o PowerPoint
-url: /it/java/conversion/dotx-to-odp/
+url_ignore: /it/java/conversion/dotx-to-odp/
 family: total
 platformtag: net
 feature: conversion
@@ -16,11 +16,11 @@ Spesso gli sviluppatori devono convertire i file DOTX in ODP a livello di codice
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Come convertire DOTX in ODP tramite Java" %}}
-1. Aprire il file DOTX utilizzando la classe [Dotxument](https://apiference.aspose.com/words/java/com.aspose.words/Dotxument)
-2. Converti file DOTX in HTML utilizzando [save](https://apiference.aspose.com/words/java/com.aspose.words/Dotxument#save(java.lang.String,com.aspose.words.SaveOptions)) metodo
+1. Aprire il file DOTX utilizzando la classe [Document](https://apiference.aspose.com/words/java/com.aspose.words/Document)
+2. Converti file DOTX in HTML utilizzando [save](https://apiference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metodo
 3. Inizializzare un nuovo oggetto [Presentation](https://apiference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Estrarre il contenuto dal file HTML utilizzando BufferedReader e scrivere il contenuto nel file di presentazione
-6. Salvare il dotxumento in ODP utilizzando il metodo [save](https://apiference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. Salvare il Documento in ODP utilizzando il metodo [save](https://apiference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
 Per la conversione di file da DOTX a ODP, puoi facilmente utilizzare Aspose.Total per Java direttamente da un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) e includi le librerie nel tuo pom.xml.
@@ -35,7 +35,7 @@ In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspos
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisiti di conversione" %}}
-L'API consente inoltre di convertire dotxumenti DOTX protetti da password in ODP. Se il dotxumento DOTX di input è protetto da password, non è possibile convertirlo in formato ODP senza utilizzare la password. Per aprire un dotxumento crittografato è possibile impostare la password corretta nell'oggetto LoadOptions e passarla al costruttore del dotxumento.  
+L'API consente inoltre di convertire Documenti DOTX protetti da password in ODP. Se il Documento DOTX di input è protetto da password, non è possibile convertirlo in formato ODP senza utilizzare la password. Per aprire un Documento crittografato è possibile impostare la password corretta nell'oggetto LoadOptions e passarla al costruttore del Documento.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dotx-to-pptx.java" >}}

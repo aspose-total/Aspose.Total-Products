@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export TEX to MARKDOWN
 description: Convert TEX to MARKDOWN within C++ applications.
-url: /cpp/conversion/tex-to-markdown/
+url_ignore: /cpp/conversion/tex-to-markdown/
 family: total
 platformtag: cpp
 feature: conversion

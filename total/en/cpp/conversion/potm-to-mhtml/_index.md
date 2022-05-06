@@ -1,7 +1,7 @@
 ---
 title: Convert POTM to MHTML via C++ 
 description: Export POTM to MHTML in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/potm-to-mhtml/
+url_ignore: /cpp/conversion/potm-to-mhtml/
 family: total
 platformtag: cpp
 feature: conversion

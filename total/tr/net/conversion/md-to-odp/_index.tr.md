@@ -1,7 +1,7 @@
 ---
 title: MD'yi C# API aracılığıyla ODP'ye aktarın
 description: Microsoft Word kullanmadan MD'yi ODP'ye dönüştürmek için .NET API
-url: /tr/net/conversion/md-to-odp/
+url_ignore: /tr/net/conversion/md-to-odp/
 family: total
 platformtag: net
 feature: conversion

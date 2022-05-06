@@ -1,7 +1,7 @@
 ---
 title: Converter MHTML para EMZ via Java
 description: Exporte o arquivo MHTML para EMZ em seus aplicativos Java sem usar nenhum aplicativo de terceiros
-url: /pt/java/conversion/mhtml-to-emz/
+url_ignore: /pt/java/conversion/mhtml-to-emz/
 family: total
 platformtag: net
 feature: conversion

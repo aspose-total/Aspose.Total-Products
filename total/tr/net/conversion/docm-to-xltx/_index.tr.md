@@ -1,7 +1,7 @@
 ---
 title: DOCM'yi XLTX'ye Dönüştürmek için .NET API
 description: Microsoft Excel veya Adobe Reader kullanmadan DOCM'yi XLTX'ye dönüştürmek için C# API'si
-url: /tr/net/conversion/docm-to-xltx/
+url_ignore: /tr/net/conversion/docm-to-xltx/
 family: total
 platformtag: net
 feature: conversion

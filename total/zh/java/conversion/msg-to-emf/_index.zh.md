@@ -1,7 +1,7 @@
 ---
 title: 通过 Java 将 MSG 导出为 EMF
 description: 无需使用 Microsoft Word 或 Outlook 即可将 MSG 转换为 EMF 的 Java API
-url: /zh/java/conversion/msg-to-emf/
+url_ignore: /zh/java/conversion/msg-to-emf/
 family: total
 platformtag: net
 feature: conversion

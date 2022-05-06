@@ -1,7 +1,7 @@
 ---
 title: Export MSG to XPS via C++
 description: C++ API to Convert MSG to XPS without using Microsoft Word or Outlook
-url: /cpp/conversion/msg-to-xps/
+url_ignore: /cpp/conversion/msg-to-xps/
 family: total
 platformtag: cpp
 feature: conversion

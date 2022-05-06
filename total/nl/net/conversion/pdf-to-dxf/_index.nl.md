@@ -1,7 +1,7 @@
 ---
 title: Converteer PDF naar DXF via C# API
 description: Exporteer PDF naar DXF in uw .NET-toepassingen zonder een toepassing van derden te gebruiken
-url: /nl/net/conversion/pdf-to-dxf/
+url_ignore: /nl/net/conversion/pdf-to-dxf/
 family: total
 platformtag: net
 feature: conversion

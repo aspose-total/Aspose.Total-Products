@@ -1,7 +1,7 @@
 ---
 title: Export OFT to IMAGE via C++
 description: C++ API to Convert OFT to IMAGE without using Microsoft Word or Outlook
-url: /cpp/conversion/oft-to-image/
+url_ignore: /cpp/conversion/oft-to-image/
 family: total
 platformtag: cpp
 feature: conversion

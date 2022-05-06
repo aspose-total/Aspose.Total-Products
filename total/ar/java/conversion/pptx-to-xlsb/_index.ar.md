@@ -1,7 +1,7 @@
 ---
 title: تحويل PPTX إلى تنسيق XLSB عبر Java
 description: قم بتحويل PPTX إلى تنسيق XLSB عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/pptx-to-xlsb/
+url_ignore: /ar/java/conversion/pptx-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

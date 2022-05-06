@@ -1,7 +1,7 @@
 ---
 title: MHTMLをPSにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してMHTMLをPSに変換する
-url: /ja/java/conversion/mhtml-to-ps/
+url_ignore: /ja/java/conversion/mhtml-to-ps/
 family: total
 platformtag: net
 feature: conversion

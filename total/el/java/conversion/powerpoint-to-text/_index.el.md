@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή POWERPOINT σε TEXT μέσω Java
 description: Java API για εξαγωγή POWERPOINT σε TEXT χωρίς χρήση Microsoft Word ή PowerPoint
-url: /el/java/conversion/powerpoint-to-text/
+url_ignore: /el/java/conversion/powerpoint-to-text/
 family: total
 platformtag: net
 feature: conversion
@@ -29,14 +29,16 @@ otherformats: OTT TEXTM WORDML RTF TEXT DOTX WORD TEXTX FLATOPC ODT DOT DOTM
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Απαιτήσεις μετατροπής" %}}
 Χρησιμοποιώντας το API, μπορείτε επίσης να πραγματοποιήσετε μετατροπή αρχείου POWERPOINT σε TEXT με υδατογράφημα. Για να προσθέσετε ένα υδατογράφημα στο έγγραφό σας TEXT, μπορείτε πρώτα να μετατρέψετε το αρχείο POWERPOINT σε HTML και να προσθέσετε ένα υδατογράφημα σε αυτό. Για να προσθέσετε ένα υδατογράφημα, φορτώστε το νέο αρχείο HTML χρησιμοποιώντας την κλάση [Textument](https://apireference.aspose.com/words/java/com.aspose.words/Textument), δημιουργήστε μια παρουσία του TextWatermarkOptions και ορίστε Οι ιδιότητές του, Καλέστε τη μέθοδο Watermark.setText και περάστε κείμενο υδατογραφήματος & αντικείμενο του TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}
+{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

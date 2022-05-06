@@ -1,7 +1,7 @@
 ---
 title: Convert FLATOPC to ODP in Android via Java
 description: FLATOPC to ODP conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/flatopc-to-odp/
+url_ignore: /android-java/conversion/flatopc-to-odp/
 family: total
 platformtag: android-java
 feature: conversion

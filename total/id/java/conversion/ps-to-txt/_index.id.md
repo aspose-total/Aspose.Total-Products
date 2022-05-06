@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender PS ke TXT
 description: Ekspor PS ke TXT melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/ps-to-txt/
+url_ignore: /id/java/conversion/ps-to-txt/
 family: total
 platformtag: net
 feature: conversion

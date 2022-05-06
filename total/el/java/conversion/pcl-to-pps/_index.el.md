@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή PCL σε PPS μέσω Java API
 description: Java API για μετατροπή PCL σε PPS χωρίς χρήση του Microsoft Word
-url: /el/java/conversion/pcl-to-pps/
+url_ignore: /el/java/conversion/pcl-to-pps/
 family: total
 platformtag: net
 feature: conversion

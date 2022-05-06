@@ -1,7 +1,7 @@
 ---
 title: DOCをCSVに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにDOCをCSVに変換するC＃API
-url: /ja/net/conversion/doc-to-csv/
+url_ignore: /ja/net/conversion/doc-to-csv/
 family: total
 platformtag: net
 feature: conversion

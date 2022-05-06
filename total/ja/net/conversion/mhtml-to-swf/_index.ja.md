@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMHTMLをSWFにエクスポートする
 description: MicrosoftWordを使用せずにMHTMLをSWFに変換する.NETAPI
-url: /ja/net/conversion/mhtml-to-swf/
+url_ignore: /ja/net/conversion/mhtml-to-swf/
 family: total
 platformtag: net
 feature: conversion

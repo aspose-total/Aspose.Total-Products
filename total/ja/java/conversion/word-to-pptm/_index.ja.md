@@ -1,7 +1,7 @@
 ---
 title: Java経由でWORDをPPTMに変換する
 description: MicrosoftWordやPowerPointを使用せずにWORDをPPTMにエクスポートするJavaAPI
-url: /ja/java/conversion/word-to-pptm/
+url_ignore: /ja/java/conversion/word-to-pptm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konversi Format JSON ke PCL melalui Java
 description: Parsing JSON ke PCL di Java tanpa menggunakan Microsoft Word
-url: /id/java/conversion/json-to-pcl/
+url_ignore: /id/java/conversion/json-to-pcl/
 family: total
 platformtag: net
 feature: conversion

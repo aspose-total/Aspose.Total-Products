@@ -1,7 +1,7 @@
 ---
 title: API .NET per convertire DOCX in DIF
 description: API C# per convertire DOCX in DIF senza utilizzare Microsoft Excel o Adobe Reader
-url: /it/net/conversion/docx-to-dif/
+url_ignore: /it/net/conversion/docx-to-dif/
 family: total
 platformtag: net
 feature: conversion

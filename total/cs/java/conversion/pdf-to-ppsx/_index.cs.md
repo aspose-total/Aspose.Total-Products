@@ -1,7 +1,7 @@
 ---
 title: Převeďte PDF na PPSX přes Java API
 description: Java API pro převod PDF na PPSX bez použití aplikace Microsoft Word
-url: /cs/java/conversion/pdf-to-ppsx/
+url_ignore: /cs/java/conversion/pdf-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

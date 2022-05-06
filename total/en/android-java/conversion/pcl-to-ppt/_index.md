@@ -1,7 +1,7 @@
 ---
 title: Export PCL to PPT in Android 
 description: Android API to Convert PCL to PPT without using Microsoft Word
-url: /android-java/conversion/pcl-to-ppt/
+url_ignore: /android-java/conversion/pcl-to-ppt/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: OFTをDOTにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにOFTをDOTに変換する
-url: /ja/net/conversion/oft-to-dot/
+url_ignore: /ja/net/conversion/oft-to-dot/
 family: total
 platformtag: net
 feature: conversion

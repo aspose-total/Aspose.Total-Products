@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPPTをCSVに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPTをCSVに変換する
-url: /ja/net/conversion/ppt-to-csv/
+url_ignore: /ja/net/conversion/ppt-to-csv/
 family: total
 platformtag: net
 feature: conversion

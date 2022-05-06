@@ -1,7 +1,7 @@
 ---
 title: تحويل PCL إلى XLSM عبر C# API
 description: C# API لتحويل ملف PCL إلى XLSM بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/pcl-to-xlsm/
+url_ignore: /ar/net/conversion/pcl-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

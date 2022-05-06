@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してMDをPOTに変換する
 description: MicrosoftWordを使用せずにMDをPOTに変換するJavaAPI
-url: /ja/java/conversion/md-to-pot/
+url_ignore: /ja/java/conversion/md-to-pot/
 family: total
 platformtag: net
 feature: conversion

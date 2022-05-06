@@ -1,7 +1,7 @@
 ---
 title: Convert POTM to XLTM via C++ 
 description: Export POTM to XLTM in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/potm-to-xltm/
+url_ignore: /cpp/conversion/potm-to-xltm/
 family: total
 platformtag: cpp
 feature: conversion

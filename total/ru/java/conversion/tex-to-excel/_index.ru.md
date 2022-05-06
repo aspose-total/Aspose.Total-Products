@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга TEX в EXCEL
 description: Экспорт TEX в EXCEL через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/tex-to-excel/
+url_ignore: /ru/java/conversion/tex-to-excel/
 family: total
 platformtag: net
 feature: conversion

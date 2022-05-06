@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert DOTM to XLAM
 description: Convert DOTM to XLAM via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/dotm-to-xlam/
+url_ignore: /java/conversion/dotm-to-xlam/
 family: total
 platformtag: java
 feature: conversion

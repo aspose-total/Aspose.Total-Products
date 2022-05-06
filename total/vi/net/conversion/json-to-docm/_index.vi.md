@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi định dạng JSON sang DOCM qua .NET
 description: Phân tích cú pháp JSON thành DOCM trong C# mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/json-to-docm/
+url_ignore: /vi/net/conversion/json-to-docm/
 family: total
 platformtag: net
 feature: conversion

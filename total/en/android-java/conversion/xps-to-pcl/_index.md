@@ -1,7 +1,7 @@
 ---
 title: Android API to Render XPS to PCL
 description: Transform XPS to PCL via Android via Java API
-url: /android-java/conversion/xps-to-pcl/
+url_ignore: /android-java/conversion/xps-to-pcl/
 family: total
 platformtag: android-java
 feature: conversion

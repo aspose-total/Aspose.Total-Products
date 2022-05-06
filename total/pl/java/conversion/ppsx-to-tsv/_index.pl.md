@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PPSX na format TSV za pomocą Java
 description: Konwertuj PPSX do formatu TSV za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint
-url: /pl/java/conversion/ppsx-to-tsv/
+url_ignore: /pl/java/conversion/ppsx-to-tsv/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: NET API لتحويل DOCM إلى ODS
 description: C# API لتحويل DOCM إلى ODS بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/docm-to-ods/
+url_ignore: /ar/net/conversion/docm-to-ods/
 family: total
 platformtag: net
 feature: conversion
@@ -18,7 +18,7 @@ otherformats: XLT XLSM SXC XLAM DIF FODS XLSB TSV XLS XLTM XLSX XLTX EXCEL ODS
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="NET API لتحويل DOCM إلى ODS" %}}
-1. افتح ملف DOCM باستخدام فئة [Document](https://apireference.aspose.com/words/net/aspose.words/document
+1. افتح ملف DOCM باستخدام فئة [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 2. تحويل DOCM إلى HTML باستخدام طريقة [Save](https://apireference.aspose.com/words/net/aspose.words.documentsave/methods/4)
 3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. احفظ المستند بتنسيق ODS باستخدام طريقة [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) وعيّن `ODS` على أنه SaveFormat

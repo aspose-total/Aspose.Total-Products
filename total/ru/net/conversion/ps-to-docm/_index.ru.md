@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта PS в DOCM
 description: Преобразование PS в DOCM без использования Microsoft Word
-url: /ru/net/conversion/ps-to-docm/
+url_ignore: /ru/net/conversion/ps-to-docm/
 family: total
 platformtag: net
 feature: conversion

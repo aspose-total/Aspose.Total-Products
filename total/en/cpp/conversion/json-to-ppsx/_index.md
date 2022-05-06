@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to PPSX via C++ 
 description: Parse JSON to PPSX in C++ without using Microsoft PowerPoint
-url: /cpp/conversion/json-to-ppsx/
+url_ignore: /cpp/conversion/json-to-ppsx/
 family: total
 platformtag: cpp
 feature: conversion

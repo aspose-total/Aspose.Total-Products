@@ -1,7 +1,7 @@
 ---
 title: Convert OTT to XLSM in C++
 description: C++ API to Convert OTT to XLSM without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/ott-to-xlsm/
+url_ignore: /cpp/conversion/ott-to-xlsm/
 family: total
 platformtag: cpp
 feature: conversion

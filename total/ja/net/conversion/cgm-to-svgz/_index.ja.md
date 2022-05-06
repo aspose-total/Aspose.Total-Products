@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してCGMをSVGZに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでCGMをSVGZにエクスポートします
-url: /ja/net/conversion/cgm-to-svgz/
+url_ignore: /ja/net/conversion/cgm-to-svgz/
 family: total
 platformtag: net
 feature: conversion

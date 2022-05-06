@@ -1,7 +1,7 @@
 ---
 title: API Java để xuất SVG sang MARKDOWN
 description: Chuyển đổi SVG sang MARKDOWN bằng cách sử dụng API Java tiền đề
-url: /vi/java/conversion/svg-to-markdown/
+url_ignore: /vi/java/conversion/svg-to-markdown/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export PDF to PPSM via C# API
 description: .NET API to Convert PDF to PPSM without using Microsoft Word
-url: /net/conversion/pdf-to-ppsm/
+url_ignore: /net/conversion/pdf-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

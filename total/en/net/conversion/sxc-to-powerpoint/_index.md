@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to POWERPOINT with .NET 
 description: Convert SXC to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms
-url: /net/conversion/sxc-to-powerpoint/
+url_ignore: /net/conversion/sxc-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

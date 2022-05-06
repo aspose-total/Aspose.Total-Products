@@ -1,7 +1,7 @@
 ---
 title: Convert PPT to SXC in Android via Java
 description: Convert PPT to SXC in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/ppt-to-sxc/
+url_ignore: /android-java/conversion/ppt-to-sxc/
 family: total
 platformtag: android-java
 feature: conversion

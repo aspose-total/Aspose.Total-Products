@@ -1,7 +1,7 @@
 ---
 title: 用于将 TEX 导出到 FLATOPC 的 Java API
 description: 使用本地 Java API 将 TEX 转换为 FLATOPC
-url: /zh/java/conversion/tex-to-flatopc/
+url_ignore: /zh/java/conversion/tex-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

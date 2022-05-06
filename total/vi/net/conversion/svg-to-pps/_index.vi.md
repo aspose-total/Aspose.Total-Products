@@ -1,7 +1,7 @@
 ---
 title: Xuất SVG sang PPS qua C# API
 description: .NET API để chuyển đổi SVG sang PPS mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/svg-to-pps/
+url_ignore: /vi/net/conversion/svg-to-pps/
 family: total
 platformtag: net
 feature: conversion

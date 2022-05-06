@@ -1,7 +1,7 @@
 ---
 title: Export MSG to JPEG via C++
 description: C++ API to Convert MSG to JPEG without using Microsoft Word or Outlook
-url: /cpp/conversion/msg-to-jpeg/
+url_ignore: /cpp/conversion/msg-to-jpeg/
 family: total
 platformtag: cpp
 feature: conversion

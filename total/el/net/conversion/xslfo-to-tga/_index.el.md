@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή XSLFO σε TGA μέσω C# API
 description: Εξάγετε το XSLFO σε TGA στις εφαρμογές σας .NET χωρίς να χρησιμοποιήσετε καμία εφαρμογή τρίτου μέρους
-url: /el/net/conversion/xslfo-to-tga/
+url_ignore: /el/net/conversion/xslfo-to-tga/
 family: total
 platformtag: net
 feature: conversion

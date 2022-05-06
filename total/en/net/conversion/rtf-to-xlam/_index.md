@@ -1,7 +1,7 @@
 ---
 title: .NET API to Convert RTF to XLAM 
 description: C# API to Convert RTF to XLAM without using Microsoft Excel or Adobe Reader
-url: /net/conversion/rtf-to-xlam/
+url_ignore: /net/conversion/rtf-to-xlam/
 family: total
 platformtag: net
 feature: conversion

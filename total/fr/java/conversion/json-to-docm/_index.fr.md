@@ -1,7 +1,7 @@
 ---
 title: Convertir le format JSON en DOCM via Java
 description: Analyser JSON en DOCM en Java sans utiliser Microsoft Word
-url: /fr/java/conversion/json-to-docm/
+url_ignore: /fr/java/conversion/json-to-docm/
 family: total
 platformtag: net
 feature: conversion
@@ -12,7 +12,7 @@ otherformats: EPUB RTF DOTX WORDML DOCM OTT ODT PCL DOC FLATOPC PS MOBI DOT WORD
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Convertir le format JSON en DOCM via Java" h2="API Java sur site pour analyser JSON vers DOCM sans utiliser Microsoft<sup>&reg;</sup> Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour Java](https://products.aspose.com/total/java/), vous pouvez convertir JSON en DOCM dans vos applications Java en deux étapes. Tout d'abord, en utilisant [Aspose.Cells for Java](https://products.aspose.com/cells/java/), vous pouvez analyser JSON en PDF. Dans la deuxième étape, vous pouvez convertir un PDF en DOCM en utilisant l'API de traitement de texte [Aspose.Words pour Java](https://products.aspose.com/words/java/).
+En utilisant [Aspose.Total for Java](https://products.aspose.com/total/java/), vous pouvez convertir JSON en DOCM dans vos applications Java en deux étapes. Tout d'abord, en utilisant [Aspose.Cells for Java](https://products.aspose.com/cells/java/), vous pouvez analyser JSON en PDF. Dans la deuxième étape, vous pouvez convertir un PDF en DOCM en utilisant l'API de traitement de texte [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convertir le format JSON en DOCM via Java" %}}

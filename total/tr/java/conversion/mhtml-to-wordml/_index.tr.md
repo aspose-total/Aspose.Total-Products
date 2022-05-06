@@ -1,7 +1,7 @@
 ---
 title: MHTML'yi WORDML'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak MHTML'yi WORDML'ye dönüştürün
-url: /tr/java/conversion/mhtml-to-wordml/
+url_ignore: /tr/java/conversion/mhtml-to-wordml/
 family: total
 platformtag: net
 feature: conversion

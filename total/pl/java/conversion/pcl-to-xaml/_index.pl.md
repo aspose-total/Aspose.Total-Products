@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PCL na XAML za pomocą Java API
 description: Java API do konwersji PCL na XAML bez użycia Microsoft Word
-url: /pl/java/conversion/pcl-to-xaml/
+url_ignore: /pl/java/conversion/pcl-to-xaml/
 family: total
 platformtag: net
 feature: conversion

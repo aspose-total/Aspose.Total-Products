@@ -1,7 +1,7 @@
 ---
 title: Converter PS para IMAGE via API C#
 description: Exporte PS para IMAGE em seus aplicativos .NET sem usar nenhum aplicativo de terceiros
-url: /pt/net/conversion/ps-to-image/
+url_ignore: /pt/net/conversion/ps-to-image/
 family: total
 platformtag: net
 feature: conversion

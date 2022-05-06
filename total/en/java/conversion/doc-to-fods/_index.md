@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert DOC to FODS
 description: Convert DOC to FODS via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/doc-to-fods/
+url_ignore: /java/conversion/doc-to-fods/
 family: total
 platformtag: java
 feature: conversion

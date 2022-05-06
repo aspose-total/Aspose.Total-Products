@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PS to DOTM
 description: Transform PS to DOTM via Android via Java API
-url: /android-java/conversion/ps-to-dotm/
+url_ignore: /android-java/conversion/ps-to-dotm/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exportar EMAIL para DOCM via Java
 description: API Java para converter EMAIL para DOCM sem usar o Microsoft Word ou Outlook
-url: /pt/java/conversion/email-to-docm/
+url_ignore: /pt/java/conversion/email-to-docm/
 family: total
 platformtag: net
 feature: conversion

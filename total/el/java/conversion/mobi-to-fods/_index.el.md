@@ -1,7 +1,7 @@
 ---
 title: Java API για μετατροπή MOBI σε FODS
 description: Μετατροπή MOBI σε FODS μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel
-url: /el/java/conversion/mobi-to-fods/
+url_ignore: /el/java/conversion/mobi-to-fods/
 family: total
 platformtag: net
 feature: conversion

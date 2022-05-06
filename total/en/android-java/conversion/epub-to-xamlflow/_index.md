@@ -1,7 +1,7 @@
 ---
 title: Android API to Render EPUB to XAMLFLOW
 description: Transform EPUB to XAMLFLOW via Android via Java API
-url: /android-java/conversion/epub-to-xamlflow/
+url_ignore: /android-java/conversion/epub-to-xamlflow/
 family: total
 platformtag: android-java
 feature: conversion

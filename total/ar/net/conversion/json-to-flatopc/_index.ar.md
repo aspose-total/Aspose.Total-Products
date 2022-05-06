@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى FLATOPC عبر .NET
 description: تحليل JSON إلى FLATOPC في C# بدون استخدام Microsoft Word
-url: /ar/net/conversion/json-to-flatopc/
+url_ignore: /ar/net/conversion/json-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

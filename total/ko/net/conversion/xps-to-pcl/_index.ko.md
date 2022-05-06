@@ -1,7 +1,7 @@
 ---
 title: XPS을 PCL으로 내보내기 위한 C# API
 description: Microsoft Word를 사용하지 않고 XPS을 PCL으로 변환
-url: /ko/net/conversion/xps-to-pcl/
+url_ignore: /ko/net/conversion/xps-to-pcl/
 family: total
 platformtag: net
 feature: conversion

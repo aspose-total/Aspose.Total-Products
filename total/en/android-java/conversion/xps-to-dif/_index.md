@@ -1,7 +1,7 @@
 ---
 title: Convert XPS to DIF in Android via Java
 description: Render XPS to DIF in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/xps-to-dif/
+url_ignore: /android-java/conversion/xps-to-dif/
 family: total
 platformtag: android-java
 feature: conversion

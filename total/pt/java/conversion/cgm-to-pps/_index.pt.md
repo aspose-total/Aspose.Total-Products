@@ -1,7 +1,7 @@
 ---
 title: Converter CGM para PPS via API Java
 description: API Java para converter CGM para PPS sem usar o Microsoft Word
-url: /pt/java/conversion/cgm-to-pps/
+url_ignore: /pt/java/conversion/cgm-to-pps/
 family: total
 platformtag: net
 feature: conversion

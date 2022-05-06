@@ -1,7 +1,7 @@
 ---
 title: Java経由でPPTXをWORDに変換する
 description: MicrosoftWordやPowerPointを使用せずにPPTXをWORDにエクスポートするJavaAPI
-url: /ja/java/conversion/pptx-to-word/
+url_ignore: /ja/java/conversion/pptx-to-word/
 family: total
 platformtag: net
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Преобразование RTF в PPTM через C# .NET 
-url: /ru/net/conversion/rtf-to-pptm/ 
+url_ignore: /ru/net/conversion/rtf-to-pptm/ 
 description: Преобразование документов Word rtf в файлы PowerPoint pptm с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

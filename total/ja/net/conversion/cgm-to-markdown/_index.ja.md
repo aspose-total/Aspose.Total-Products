@@ -1,7 +1,7 @@
 ---
 title: CGMをMARKDOWNにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにCGMをMARKDOWNに変換する
-url: /ja/net/conversion/cgm-to-markdown/
+url_ignore: /ja/net/conversion/cgm-to-markdown/
 family: total
 platformtag: net
 feature: conversion

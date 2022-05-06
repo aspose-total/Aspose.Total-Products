@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı MD'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan EML'i MD'ye dönüştürün
-url: /tr/net/conversion/eml-to-md/
+url_ignore: /tr/net/conversion/eml-to-md/
 family: total
 platformtag: net
 feature: conversion

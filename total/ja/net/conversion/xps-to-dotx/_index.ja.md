@@ -1,7 +1,7 @@
 ---
 title: XPSをDOTXにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにXPSをDOTXに変換する
-url: /ja/net/conversion/xps-to-dotx/
+url_ignore: /ja/net/conversion/xps-to-dotx/
 family: total
 platformtag: net
 feature: conversion

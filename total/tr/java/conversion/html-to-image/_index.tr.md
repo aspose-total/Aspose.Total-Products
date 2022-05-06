@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla HTML'yi IMAGE'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan HTML dosyasını Java uygulamalarınızda IMAGE'ye aktarın
-url: /tr/java/conversion/html-to-image/
+url_ignore: /tr/java/conversion/html-to-image/
 family: total
 platformtag: net
 feature: conversion

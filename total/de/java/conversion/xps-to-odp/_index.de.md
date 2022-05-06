@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie XPS über die Java-API in ODP
 description: Java-API zum Konvertieren von XPS in ODP ohne Verwendung von Microsoft Word
-url: /de/java/conversion/xps-to-odp/
+url_ignore: /de/java/conversion/xps-to-odp/
 family: total
 platformtag: net
 feature: conversion

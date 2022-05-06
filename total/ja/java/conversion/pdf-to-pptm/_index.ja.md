@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してPDFをPPTMに変換する
 description: MicrosoftWordを使用せずにPDFをPPTMに変換するJavaAPI
-url: /ja/java/conversion/pdf-to-pptm/
+url_ignore: /ja/java/conversion/pdf-to-pptm/
 family: total
 platformtag: net
 feature: conversion

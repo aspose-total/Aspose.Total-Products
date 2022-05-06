@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई सीजीएम को डीओसीएम में निर्यात करने के लिए
 description: Microsoft Word का उपयोग किए बिना MHTML को DOT में बदलें
-url: /hi/net/conversion/mhtml-to-dot/
+url_ignore: /hi/net/conversion/mhtml-to-dot/
 family: total
 platformtag: net
 feature: conversion

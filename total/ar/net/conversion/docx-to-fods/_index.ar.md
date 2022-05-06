@@ -1,7 +1,7 @@
 ---
 title: NET API لتحويل DOCX إلى FODS
 description: C# API لتحويل DOCX إلى FODS بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/docx-to-fods/
+url_ignore: /ar/net/conversion/docx-to-fods/
 family: total
 platformtag: net
 feature: conversion

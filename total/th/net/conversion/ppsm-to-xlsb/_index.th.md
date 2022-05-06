@@ -1,7 +1,7 @@
 ---
 title: แปลง PPSM เป็น XLSB ผ่าน C#
 description: แปลง PPSM เป็น XLSB ใน C# โดยไม่ต้องใช้ Microsoft Excel หรือ Powerpoint
-url: /th/net/conversion/ppsm-to-xlsb/
+url_ignore: /th/net/conversion/ppsm-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

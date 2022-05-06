@@ -1,7 +1,7 @@
 ---
 title: Java API για μετατροπή DOT σε XLAM
 description: Μετατροπή DOT σε XLAM μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel
-url: /el/java/conversion/dot-to-xlam/
+url_ignore: /el/java/conversion/dot-to-xlam/
 family: total
 platformtag: net
 feature: conversion

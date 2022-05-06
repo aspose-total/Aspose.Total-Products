@@ -1,7 +1,7 @@
 ---
 title: Konvertera POTX till JSON-format via Java
 description: Konvertera POTX till JSON-format via Java utan att använda Microsoft Excel eller PowerPoint
-url: /sv/java/conversion/potx-to-json/
+url_ignore: /sv/java/conversion/potx-to-json/
 family: total
 platformtag: net
 feature: conversion

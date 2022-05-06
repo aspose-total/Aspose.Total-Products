@@ -1,7 +1,7 @@
 ---
 title: Převést TEX na APNG přes Java
 description: Exportujte soubor TEX do APNG ve svých aplikacích Java bez použití jakékoli aplikace třetí strany
-url: /cs/java/conversion/tex-to-apng/
+url_ignore: /cs/java/conversion/tex-to-apng/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تحويل SVG إلى FODS عبر C# API
 description: C# API لتحويل ملف SVG إلى FODS بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/svg-to-fods/
+url_ignore: /ar/net/conversion/svg-to-fods/
 family: total
 platformtag: net
 feature: conversion

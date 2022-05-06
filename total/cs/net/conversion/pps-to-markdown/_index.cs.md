@@ -1,7 +1,7 @@
 ---
 title: Převést PPS na MARKDOWN přes C#
 description: Převeďte PPS na MARKDOWN v C# bez použití Microsoft Excel nebo Powerpoint
-url: /cs/net/conversion/pps-to-markdown/
+url_ignore: /cs/net/conversion/pps-to-markdown/
 family: total
 platformtag: net
 feature: conversion

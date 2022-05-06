@@ -1,7 +1,7 @@
 ---
 title: Преобразование XLTM в PPTX с помощью .NET 
 description: Преобразование XLTM в PPTX на платформах .NET Framework, .NET Core, Mono или Xamarin.
-url: /ru/net/conversion/xltm-to-pptx/
+url_ignore: /ru/net/conversion/xltm-to-pptx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してTEXをWMFに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでTEXをWMFにエクスポートします
-url: /ja/net/conversion/tex-to-wmf/
+url_ignore: /ja/net/conversion/tex-to-wmf/
 family: total
 platformtag: net
 feature: conversion

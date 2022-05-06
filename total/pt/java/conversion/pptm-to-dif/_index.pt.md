@@ -1,7 +1,7 @@
 ---
 title: Converter PPTM para formato DIF via Java
 description: Converta o formato PPTM para DIF via Java sem usar o Microsoft Excel ou PowerPoint
-url: /pt/java/conversion/pptm-to-dif/
+url_ignore: /pt/java/conversion/pptm-to-dif/
 family: total
 platformtag: net
 feature: conversion

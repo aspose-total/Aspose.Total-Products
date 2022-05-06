@@ -1,7 +1,7 @@
 ---
 title: Export MHTML to ODP in Android 
 description: Android API to Convert MHTML to ODP without using Microsoft Word
-url: /android-java/conversion/mhtml-to-odp/
+url_ignore: /android-java/conversion/mhtml-to-odp/
 family: total
 platformtag: android-java
 feature: conversion

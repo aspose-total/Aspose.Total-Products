@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to ODP via C++
 description: Export TXT to ODP in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/txt-to-odp/
+url_ignore: /cpp/conversion/txt-to-odp/
 family: total
 platformtag: cpp
 feature: conversion

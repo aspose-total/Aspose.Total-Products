@@ -1,7 +1,7 @@
 ---
 title: Ekspor EMLX ke WORD melalui Java
 description: Java API untuk Mengonversi EMLX ke WORD tanpa menggunakan Microsoft Word atau Outlook
-url: /id/java/conversion/emlx-to-word/
+url_ignore: /id/java/conversion/emlx-to-word/
 family: total
 platformtag: net
 feature: conversion

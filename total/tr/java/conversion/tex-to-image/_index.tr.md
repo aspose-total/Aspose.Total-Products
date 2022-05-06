@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla TEX'yi IMAGE'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan TEX dosyasını Java uygulamalarınızda IMAGE'ye aktarın
-url: /tr/java/conversion/tex-to-image/
+url_ignore: /tr/java/conversion/tex-to-image/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: .NET API to Convert RTF to XLT 
 description: C# API to Convert RTF to XLT without using Microsoft Excel or Adobe Reader
-url: /net/conversion/rtf-to-xlt/
+url_ignore: /net/conversion/rtf-to-xlt/
 family: total
 platformtag: net
 feature: conversion

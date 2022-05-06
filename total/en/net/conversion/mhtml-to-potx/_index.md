@@ -1,7 +1,7 @@
 ---
 title: Export MHTML to POTX via C# API
 description: .NET API to Convert MHTML to POTX without using Microsoft Word
-url: /net/conversion/mhtml-to-potx/
+url_ignore: /net/conversion/mhtml-to-potx/
 family: total
 platformtag: net
 feature: conversion

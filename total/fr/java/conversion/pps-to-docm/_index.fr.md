@@ -1,7 +1,7 @@
 ---
 title: Convertir PPS en DOCM via Java
 description: API Java pour exporter PPS vers DOCM sans utiliser Microsoft Word ou PowerPoint
-url: /fr/java/conversion/pps-to-docm/
+url_ignore: /fr/java/conversion/pps-to-docm/
 family: total
 platformtag: net
 feature: conversion
@@ -12,7 +12,7 @@ otherformats: DOT FLATOPC DOCM DOTM WORDML DOCMX RTF OTT DOTX WORD ODT TEXT
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Convertir PPS en DOCM via Java" h2="API Java sur site pour la conversion PowerPoint PPS en DOCM dans toutes les applications Java J2SE, J2EE, J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total pour Java](https://products.aspose.com/total/java/) Les bibliothèques d'automatisation du format de fichier permettent aux développeurs Java d'automatiser le processus de conversion par lots de PowerPoint PPS en Word DOCM. La conversion du documentest un processus en deux étapes et implique l'utilisation de deux API. Nous utiliserons [Aspose.Slides for Java](https://products.aspose.com/slides/java/) qui est une API PowerPoint pour la manipulation et la gestion des présentations afin de convertir PPS en HTML. Après cela, en utilisant l'API de traitement de texte riche en fonctionnalités [Aspose.Words pour Java](https://products.aspose.com/words/java/), nous convertirons le HTML en DOCM.
+[Aspose.Total for Java](https://products.aspose.com/total/java/) Les bibliothèques d'automatisation du format de fichier permettent aux développeurs Java d'automatiser le processus de conversion par lots de PowerPoint PPS en Word DOCM. La conversion du documentest un processus en deux étapes et implique l'utilisation de deux API. Nous utiliserons [Aspose.Slides for Java](https://products.aspose.com/slides/java/) qui est une API PowerPoint pour la manipulation et la gestion des présentations afin de convertir PPS en HTML. Après cela, en utilisant l'API de traitement de texte riche en fonctionnalités [Aspose.Words for Java](https://products.aspose.com/words/java/), nous convertirons le HTML en DOCM.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Comment convertir PPS en DOCM via Java" %}}
@@ -34,7 +34,7 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://d
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Exigences de conversion" %}}
-À l'aide de l'API, vous pouvez également effectuer une conversion de fichier PPS en DOCM avec filigrane. Afin d'ajouter un filigrane à votre documentDOCM, vous pouvez d'abord convertir le fichier PPS en HTML et y ajouter un filigrane. Pour ajouter un filigrane, chargez le fichier HTML nouvellement créé à l'aide de la classe [Docmument](https://apireference.aspose.com/words/java/com.aspose.words/Docmument), créez une instance de TextWatermarkOptions et définissez ses propriétés, appelez la méthode Watermark.setText et transmettez le texte et l'objet du filigrane de TextWatermarkOptions.  
+À l'aide de l'API, vous pouvez également effectuer une conversion de fichier PPS en DOCM avec filigrane. Afin d'ajouter un filigrane à votre documentDOCM, vous pouvez d'abord convertir le fichier PPS en HTML et y ajouter un filigrane. Pour ajouter un filigrane, chargez le fichier HTML nouvellement créé à l'aide de la classe [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document), créez une instance de TextWatermarkOptions et définissez ses propriétés, appelez la méthode Watermark.setText et transmettez le texte et l'objet du filigrane de TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}

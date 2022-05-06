@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Konvertieren von DOTM in XLSM
 description: Konvertieren Sie DOTM über Java in XLSM, ohne Microsoft Word oder Microsoft Excel zu verwenden
-url: /de/java/conversion/dotm-to-xlsm/
+url_ignore: /de/java/conversion/dotm-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

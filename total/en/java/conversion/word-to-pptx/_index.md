@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to PPTX via Java
 description: Java API to Export WORD to PPTX without using Microsoft Word or PowerPoint
-url: /java/conversion/word-to-pptx/
+url_ignore: /java/conversion/word-to-pptx/
 family: total
 platformtag: java
 feature: conversion

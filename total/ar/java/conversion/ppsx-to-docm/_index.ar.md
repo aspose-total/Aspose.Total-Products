@@ -1,7 +1,7 @@
 ---
 title: تحويل PPSX إلى DOCM عبر Java
 description: Java API لتصدير PPSX إلى DOCM دون استخدام Microsoft Word أو PowerPoint
-url: /ar/java/conversion/ppsx-to-docm/
+url_ignore: /ar/java/conversion/ppsx-to-docm/
 family: total
 platformtag: net
 feature: conversion

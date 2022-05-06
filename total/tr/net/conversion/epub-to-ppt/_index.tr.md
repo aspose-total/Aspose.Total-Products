@@ -1,7 +1,7 @@
 ---
 title: EPUB'yi C# API aracılığıyla PPT'ye aktarın
 description: Microsoft Word kullanmadan EPUB'yi PPT'ye dönüştürmek için .NET API
-url: /tr/net/conversion/epub-to-ppt/
+url_ignore: /tr/net/conversion/epub-to-ppt/
 family: total
 platformtag: net
 feature: conversion

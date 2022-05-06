@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení TEX do ODS
 description: Export TEX do ODS přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/tex-to-ods/
+url_ignore: /cs/java/conversion/tex-to-ods/
 family: total
 platformtag: net
 feature: conversion

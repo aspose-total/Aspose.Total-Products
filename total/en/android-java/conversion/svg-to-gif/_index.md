@@ -1,7 +1,7 @@
 ---
 title: Android API to Render SVG to GIF
 description: Transform SVG to GIF via Android via Java API
-url: /android-java/conversion/svg-to-gif/
+url_ignore: /android-java/conversion/svg-to-gif/
 family: total
 platformtag: android-java
 feature: conversion

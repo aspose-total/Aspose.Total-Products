@@ -1,7 +1,7 @@
 ---
 title: API Java pour rendre PCL en ODS
 description: Exportez PCL vers ODS via l'API Java sans utiliser Microsoft Excel ou Adobe Reader
-url: /fr/java/conversion/pcl-to-ods/
+url_ignore: /fr/java/conversion/pcl-to-ods/
 family: total
 platformtag: net
 feature: conversion
@@ -12,7 +12,7 @@ otherformats: MD SXC TXT XLT XLAM XLSB XLTM XLSM TSV XLTX FODS ODS
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Exporter PCL vers ODS via Java" h2="Convertissez le fichier PCL en ODS en utilisant l'API Java sur site dans toutes les applications Java J2SE, J2EE, J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour Java](https://products.aspose.com/total/java/), vous pouvez intégrer la fonction de conversion PCL vers ODS dans vos applications Java en deux étapes. Tout d'abord, en utilisant [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), vous pouvez rendre PCL en XLSX. Dans la deuxième étape, vous pouvez convertir XLSX en ODS à l'aide de l'API de programmation de feuille de calcul [Aspose.Cells for Java](https://products.aspose.com/cells/java/).
+En utilisant [Aspose.Total for Java](https://products.aspose.com/total/java/), vous pouvez intégrer la fonction de conversion PCL vers ODS dans vos applications Java en deux étapes. Tout d'abord, en utilisant [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), vous pouvez rendre PCL en XLSX. Dans la deuxième étape, vous pouvez convertir XLSX en ODS à l'aide de l'API de programmation de feuille de calcul [Aspose.Cells for Java](https://products.aspose.com/cells/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convertir le fichier PCL en ODS via Java" %}}
@@ -22,7 +22,7 @@ En utilisant [Aspose.Total pour Java](https://products.aspose.com/total/java/), 
 4. Enregistrez le document au format ODS en utilisant [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. Méthode SaveOptions))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
-Vous pouvez facilement utiliser Aspose.Total pour Java directement à partir d'un projet basé sur [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et inclure [Aspose.PDF pour Java](https://docs.aspose.com/pdf/java/installation/) et [Aspose.Cells pour Java](https://docs.aspose.com/cells/java/ installation/) dans votre pom.xml.
+Vous pouvez facilement utiliser Aspose.Total pour Java directement à partir d'un projet basé sur [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et inclure [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) et [Aspose.Cells for Java](https://docs.aspose.com/cells/java/ installation/) dans votre pom.xml.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

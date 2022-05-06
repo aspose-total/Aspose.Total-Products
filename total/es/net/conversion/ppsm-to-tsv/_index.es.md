@@ -1,7 +1,7 @@
 ---
 title: Convierta PPSM a TSV a través de C#
 description: Convierta PPSM a TSV en C# sin usar Microsoft Excel o Powerpoint
-url: /es/net/conversion/ppsm-to-tsv/
+url_ignore: /es/net/conversion/ppsm-to-tsv/
 family: total
 platformtag: net
 feature: conversion
@@ -33,7 +33,8 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 Al convertir un archivo PPSM a TSV, si su documento PPSM de entrada está protegido con contraseña, no puede convertirlo a TSV sin descifrar el documento. Cuando su documento está protegido con contraseña, significa que impone ciertas restricciones en la presentación. Para eliminar las restricciones, se debe ingresar la contraseña. Una presentación protegida con contraseña se considera una presentación bloqueada. La API le permite abrir el documento cifrado pasando la contraseña correcta en un objeto LoadOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Al convertir un archivo PPSM a TSV, si su documento PPSM de entrada está proteg
 Al convertir un archivo PPSM a TSV, también puede agregar una marca de agua a su formato de archivo TSV de salida. Para agregar una marca de agua, puede crear un nuevo objeto Libro de trabajo y abrir el documento HTML convertido, seleccionar Hoja de trabajo a través de su índice, crear una Forma y usar su función AddTextEffect. Después de eso, puede guardar su documento HTML como TSV con marca de agua. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

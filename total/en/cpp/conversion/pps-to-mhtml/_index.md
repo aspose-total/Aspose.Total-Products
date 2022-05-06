@@ -1,7 +1,7 @@
 ---
 title: Convert PPS to MHTML via C++ 
 description: Export PPS to MHTML in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pps-to-mhtml/
+url_ignore: /cpp/conversion/pps-to-mhtml/
 family: total
 platformtag: cpp
 feature: conversion

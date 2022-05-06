@@ -1,7 +1,7 @@
 ---
 title: تحويل XPS إلى EMZ عبر C# API
 description: قم بتصدير XPS إلى EMZ في تطبيقات .NET دون استخدام أي تطبيق تابع لجهة خارجية
-url: /ar/net/conversion/xps-to-emz/
+url_ignore: /ar/net/conversion/xps-to-emz/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất PS sang MARKDOWN
 description: Chuyển đổi PS sang MARKDOWN mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/ps-to-markdown/
+url_ignore: /vi/net/conversion/ps-to-markdown/
 family: total
 platformtag: net
 feature: conversion

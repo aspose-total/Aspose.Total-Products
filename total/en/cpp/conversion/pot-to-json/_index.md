@@ -1,7 +1,7 @@
 ---
 title: Convert POT to JSON format via C++ 
 description: Export POT to JSON format in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pot-to-json/
+url_ignore: /cpp/conversion/pot-to-json/
 family: total
 platformtag: cpp
 feature: conversion

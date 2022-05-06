@@ -1,7 +1,7 @@
 ---
 title: Java API do eksportu TEX do MARKDOWN
 description: Konwertuj TEX na MARKDOWN za pomocą lokalnego interfejsu Java API
-url: /pl/java/conversion/tex-to-markdown/
+url_ignore: /pl/java/conversion/tex-to-markdown/
 family: total
 platformtag: net
 feature: conversion

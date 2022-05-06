@@ -1,7 +1,7 @@
 ---
 title: Convert XSLFO to SXC via C# API
 description: C# API to Convert XSLFO File to SXC without using Microsoft Excel or Adobe Reader
-url: /net/conversion/xslfo-to-sxc/
+url_ignore: /net/conversion/xslfo-to-sxc/
 family: total
 platformtag: net
 feature: conversion

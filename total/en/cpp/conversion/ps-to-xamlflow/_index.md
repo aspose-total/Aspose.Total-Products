@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PS to XAMLFLOW
 description: Convert PS to XAMLFLOW within C++ applications.
-url: /cpp/conversion/ps-to-xamlflow/
+url_ignore: /cpp/conversion/ps-to-xamlflow/
 family: total
 platformtag: cpp
 feature: conversion

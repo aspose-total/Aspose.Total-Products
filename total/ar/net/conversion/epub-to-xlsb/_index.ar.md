@@ -1,7 +1,7 @@
 ---
 title: تحويل EPUB إلى XLSB عبر C# API
 description: C# API لتحويل ملف EPUB إلى XLSB بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/epub-to-xlsb/
+url_ignore: /ar/net/conversion/epub-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

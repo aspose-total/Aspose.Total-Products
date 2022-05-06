@@ -1,7 +1,7 @@
 ---
 title: API C# pour exporter EML vers DOTX
 description: Convertir EML en DOTX sans utiliser Microsoft Word ou Outlook sur .NET
-url: /fr/net/conversion/eml-to-dotx/
+url_ignore: /fr/net/conversion/eml-to-dotx/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: EPUB DOCM TEXT MD DOC GIF DOTX DOTM JPEG ODT PDF XPS PCL DOCX PNG 
 {{< blocks/products/pf/i18n/feature-page-header h1="Exporter EML vers DOTX via .NET" h2="API .NET pour rendre EML en DOTX sous Windows, macOS et Linux sans utiliser Word ou Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Si vous êtes un développeur .NET cherchant à ajouter des fonctionnalités de conversion EML vers DOTX dans vos applications, les API de manipulation de format de fichier [Aspose.Total pour .NET](https://products.aspose.com/total/net/) sont la solution. avant. En utilisant [Aspose.Eml pour .NET](https://products.aspose.com/eml/net/), vous pouvez convertir le format de fichier EML en HTML. Après cela, en utilisant [Aspose.Words pour .NET](https://products.aspose.com/words/net/), vous pouvez restituer HTML en DOTX.
+Si vous êtes un développeur .NET cherchant à ajouter des fonctionnalités de conversion EML vers DOTX dans vos applications, les API de manipulation de format de fichier [Aspose.Total for .NET](https://products.aspose.com/total/net/) sont la solution. avant. En utilisant [Aspose.Eml for .NET](https://products.aspose.com/eml/net/), vous pouvez convertir le format de fichier EML en HTML. Après cela, en utilisant [Aspose.Words for .NET](https://products.aspose.com/words/net/), vous pouvez restituer HTML en DOTX.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.dotx", SaveFormat.Dotx);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analyser le fichier EML via .NET" %}}
-Avant de convertir EML en DOTX, si vous voulez vous assurer que vous convertissez le bon e-mail, vous pouvez charger le document EML, l'analyser et jeter un œil à la propriété souhaitée. En utilisant la classe [MapiMessage](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage) de [Aspose.Eml pour .NET](https://products.aspose.com/eml /net/), vous pouvez obtenir des informations sur l'expéditeur et les destinataires. Par exemple, vous pouvez rechercher un e-mail d'expéditeur spécifique pour la conversion à l'aide de la propriété [SenderName](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage/properties/sendername).  
+Avant de convertir EML en DOTX, si vous voulez vous assurer que vous convertissez le bon e-mail, vous pouvez charger le document EML, l'analyser et jeter un œil à la propriété souhaitée. En utilisant la classe [MapiMessage](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage) de [Aspose.Eml for .NET](https://products.aspose.com/eml /net/), vous pouvez obtenir des informations sur l'expéditeur et les destinataires. Par exemple, vous pouvez rechercher un e-mail d'expéditeur spécifique pour la conversion à l'aide de la propriété [SenderName](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -63,7 +63,7 @@ if(outlookMessageFile.SenderName == "John"){
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Restreindre l'édition de documents DOTX via .NET" %}}
-Lors de l'enregistrement du document de EML vers DOTX, vous devrez peut-être protéger votre document de sortie. Parfois, vous devrez peut-être limiter la possibilité de modifier un document et n'autoriser que certaines actions avec celui-ci. Cela peut être utile pour empêcher d'autres personnes de modifier des informations sensibles et confidentielles dans votre document. L'API [Aspose.Words pour .NET](https://products.aspose.com/words/net/) vous permet de contrôler la manière dont vous restreignez le contenu à l'aide de [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype) paramètre d'énumération. Vous pouvez définir votre document en lecture seule en utilisant les lignes de code suivantes. 
+Lors de l'enregistrement du document de EML vers DOTX, vous devrez peut-être protéger votre document de sortie. Parfois, vous devrez peut-être limiter la possibilité de modifier un document et n'autoriser que certaines actions avec celui-ci. Cela peut être utile pour empêcher d'autres personnes de modifier des informations sensibles et confidentielles dans votre document. L'API [Aspose.Words for .NET](https://products.aspose.com/words/net/) vous permet de contrôler la manière dont vous restreignez le contenu à l'aide de [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype) paramètre d'énumération. Vous pouvez définir votre document en lecture seule en utilisant les lignes de code suivantes. 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

@@ -1,7 +1,7 @@
 ---
 title: Convert PPT to TSV via C++ 
 description: Export PPT to TSV in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/ppt-to-tsv/
+url_ignore: /cpp/conversion/ppt-to-tsv/
 family: total
 platformtag: cpp
 feature: conversion

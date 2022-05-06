@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar ODP via .NET
 description: JSON ontleden naar ODP in C# zonder Microsoft PowerPoint te gebruiken
-url: /nl/net/conversion/json-to-odp/
+url_ignore: /nl/net/conversion/json-to-odp/
 family: total
 platformtag: net
 feature: conversion

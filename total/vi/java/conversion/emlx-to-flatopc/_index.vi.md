@@ -1,7 +1,7 @@
 ---
 title: Xuất EMLX sang FLATOPC qua Java
 description: Java API để chuyển đổi EMLX thành FLATOPC mà không cần sử dụng Microsoft Word hoặc Outlook
-url: /vi/java/conversion/emlx-to-flatopc/
+url_ignore: /vi/java/conversion/emlx-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

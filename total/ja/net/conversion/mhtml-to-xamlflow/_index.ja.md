@@ -1,7 +1,7 @@
 ---
 title: MHTMLをXAMLFLOWにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにMHTMLをXAMLFLOWに変換する
-url: /ja/net/conversion/mhtml-to-xamlflow/
+url_ignore: /ja/net/conversion/mhtml-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

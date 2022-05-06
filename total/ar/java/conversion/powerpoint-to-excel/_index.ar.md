@@ -1,7 +1,7 @@
 ---
 title: تحويل POWERPOINT إلى تنسيق EXCEL عبر Java
 description: قم بتحويل POWERPOINT إلى تنسيق EXCEL عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/powerpoint-to-excel/
+url_ignore: /ar/java/conversion/powerpoint-to-excel/
 family: total
 platformtag: net
 feature: conversion

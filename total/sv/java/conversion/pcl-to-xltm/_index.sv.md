@@ -1,7 +1,7 @@
 ---
 title: Java API för att rendera PCL till XLTM
 description: Exportera PCL till XLTM via Java API utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/java/conversion/pcl-to-xltm/
+url_ignore: /sv/java/conversion/pcl-to-xltm/
 family: total
 platformtag: net
 feature: conversion

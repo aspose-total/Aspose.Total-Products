@@ -1,7 +1,7 @@
 ---
 title: .NET API для преобразования OTT в EXCEL
 description: C# API для преобразования OTT в EXCEL без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/ott-to-excel/
+url_ignore: /ru/net/conversion/ott-to-excel/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Převést PPT na XLT přes C#
 description: Převeďte PPT na XLT v C# bez použití Microsoft Excel nebo Powerpoint
-url: /cs/net/conversion/ppt-to-xlt/
+url_ignore: /cs/net/conversion/ppt-to-xlt/
 family: total
 platformtag: net
 feature: conversion

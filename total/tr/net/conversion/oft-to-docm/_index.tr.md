@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı DOCM'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan OFT'i DOCM'ye dönüştürün
-url: /tr/net/conversion/oft-to-docm/
+url_ignore: /tr/net/conversion/oft-to-docm/
 family: total
 platformtag: net
 feature: conversion

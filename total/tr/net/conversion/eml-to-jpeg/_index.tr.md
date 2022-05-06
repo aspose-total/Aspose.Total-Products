@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı JPEG'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan EML'i JPEG'ye dönüştürün
-url: /tr/net/conversion/eml-to-jpeg/
+url_ignore: /tr/net/conversion/eml-to-jpeg/
 family: total
 platformtag: net
 feature: conversion

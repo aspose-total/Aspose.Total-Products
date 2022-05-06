@@ -1,7 +1,7 @@
 ---
 title: PCL'yi MARKDOWN'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak PCL'yi MARKDOWN'ye dönüştürün
-url: /tr/java/conversion/pcl-to-markdown/
+url_ignore: /tr/java/conversion/pcl-to-markdown/
 family: total
 platformtag: net
 feature: conversion

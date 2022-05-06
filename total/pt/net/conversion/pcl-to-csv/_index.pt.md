@@ -1,7 +1,7 @@
 ---
 title: Converter PCL para CSV via API C#
 description: API C# para converter arquivo PCL em CSV sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/pcl-to-csv/
+url_ignore: /pt/net/conversion/pcl-to-csv/
 family: total
 platformtag: net
 feature: conversion

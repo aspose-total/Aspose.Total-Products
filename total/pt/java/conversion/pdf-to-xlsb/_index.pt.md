@@ -1,7 +1,7 @@
 ---
 title: API Java para renderizar PDF para XLSB
 description: Exporte PDF para XLSB via API Java sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/java/conversion/pdf-to-xlsb/
+url_ignore: /pt/java/conversion/pdf-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

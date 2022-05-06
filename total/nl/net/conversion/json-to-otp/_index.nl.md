@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar OTP via .NET
 description: JSON ontleden naar OTP in C# zonder Microsoft PowerPoint te gebruiken
-url: /nl/net/conversion/json-to-otp/
+url_ignore: /nl/net/conversion/json-to-otp/
 family: total
 platformtag: net
 feature: conversion

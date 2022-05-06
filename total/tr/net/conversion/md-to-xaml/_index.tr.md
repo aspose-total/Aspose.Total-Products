@@ -1,7 +1,7 @@
 ---
 title: MD'yi C# API aracılığıyla XAML'ye aktarın
 description: Microsoft Word kullanmadan MD'yi XAML'ye dönüştürmek için .NET API
-url: /tr/net/conversion/md-to-xaml/
+url_ignore: /tr/net/conversion/md-to-xaml/
 family: total
 platformtag: net
 feature: conversion

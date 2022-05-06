@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie MD über die C#-API in XLSB
 description: C#-API zum Konvertieren von MD-Dateien in XLSB ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/md-to-xlsb/
+url_ignore: /de/net/conversion/md-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

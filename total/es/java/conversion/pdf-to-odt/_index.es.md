@@ -1,7 +1,7 @@
 ---
 title: API de Java para exportar PDF a ODT
 description: Convierta PDF a ODT usando la API de Java en las instalaciones
-url: /es/java/conversion/pdf-to-odt/
+url_ignore: /es/java/conversion/pdf-to-odt/
 family: total
 platformtag: net
 feature: conversion

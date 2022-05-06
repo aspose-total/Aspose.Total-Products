@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PDF to DOT
 description: Convert PDF to DOT within C++ applications.
-url: /cpp/conversion/pdf-to-dot/
+url_ignore: /cpp/conversion/pdf-to-dot/
 family: total
 platformtag: cpp
 feature: conversion

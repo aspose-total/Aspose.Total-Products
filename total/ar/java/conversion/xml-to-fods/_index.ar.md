@@ -1,7 +1,7 @@
 ---
 title: Java API لتقديم XML إلى FODS
 description: قم بتصدير XML إلى FODS عبر Java API دون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/java/conversion/xml-to-fods/
+url_ignore: /ar/java/conversion/xml-to-fods/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してMHTMLをOTPに変換する
 description: MicrosoftWordを使用せずにMHTMLをOTPに変換するJavaAPI
-url: /ja/java/conversion/mhtml-to-otp/
+url_ignore: /ja/java/conversion/mhtml-to-otp/
 family: total
 platformtag: net
 feature: conversion

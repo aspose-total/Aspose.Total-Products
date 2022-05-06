@@ -1,7 +1,7 @@
 ---
 title: Converti POWERPOINT in DOT tramite Java
 description: API Java per esportare POWERPOINT in DOT senza utilizzare Microsoft Word o PowerPoint
-url: /it/java/conversion/powerpoint-to-dot/
+url_ignore: /it/java/conversion/powerpoint-to-dot/
 family: total
 platformtag: net
 feature: conversion

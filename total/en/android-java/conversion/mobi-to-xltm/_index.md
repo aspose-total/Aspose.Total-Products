@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert MOBI to XLTM
 description: Convert MOBI to XLTM in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/mobi-to-xltm/
+url_ignore: /android-java/conversion/mobi-to-xltm/
 family: total
 platformtag: android-java
 feature: conversion

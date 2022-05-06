@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export TEX to DOT
 description: Convert TEX to DOT within C++ applications.
-url: /cpp/conversion/tex-to-dot/
+url_ignore: /cpp/conversion/tex-to-dot/
 family: total
 platformtag: cpp
 feature: conversion

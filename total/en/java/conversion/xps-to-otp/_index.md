@@ -1,7 +1,7 @@
 ---
 title: Convert XPS to OTP via Java API
 description: Java API to Convert XPS to OTP without using Microsoft Word
-url: /java/conversion/xps-to-otp/
+url_ignore: /java/conversion/xps-to-otp/
 family: total
 platformtag: java
 feature: conversion

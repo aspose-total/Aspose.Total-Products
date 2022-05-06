@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XPS to EXCEL
 description: Convert XPS to EXCEL via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xps-to-excel/
+url_ignore: /cpp/conversion/xps-to-excel/
 family: total
 platformtag: cpp
 feature: conversion

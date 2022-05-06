@@ -1,7 +1,7 @@
 ---
 title: Convierta PPSM a ODT a través de Java
 description: API de Java para exportar PPSM a ODT sin usar Microsoft Word o PowerPoint
-url: /es/java/conversion/ppsm-to-odt/
+url_ignore: /es/java/conversion/ppsm-to-odt/
 family: total
 platformtag: net
 feature: conversion

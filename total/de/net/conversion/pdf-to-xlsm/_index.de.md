@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie PDF über die C#-API in XLSM
 description: C#-API zum Konvertieren von PDF-Dateien in XLSM ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/pdf-to-xlsm/
+url_ignore: /de/net/conversion/pdf-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

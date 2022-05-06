@@ -1,7 +1,7 @@
 ---
 title: Converter PCL para TXT via API C#
 description: API C# para converter arquivo PCL em TXT sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/pcl-to-txt/
+url_ignore: /pt/net/conversion/pcl-to-txt/
 family: total
 platformtag: net
 feature: conversion

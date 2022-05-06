@@ -1,7 +1,7 @@
 ---
 title: Converti PPSX in formato XLS tramite Java
 description: Converti PPSX in formato XLS tramite Java senza utilizzare Microsoft Excel o PowerPoint
-url: /it/java/conversion/ppsx-to-xls/
+url_ignore: /it/java/conversion/ppsx-to-xls/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API لتقديم XML إلى XLSB
 description: قم بتصدير XML إلى XLSB عبر Java API دون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/java/conversion/xml-to-xlsb/
+url_ignore: /ar/java/conversion/xml-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPCLをPPTにエクスポートする
 description: MicrosoftWordを使用せずにPCLをPPTに変換する.NETAPI
-url: /ja/net/conversion/pcl-to-ppt/
+url_ignore: /ja/net/conversion/pcl-to-ppt/
 family: total
 platformtag: net
 feature: conversion

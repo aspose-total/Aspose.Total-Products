@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή DOCM σε μορφή JSON μέσω .NET
 description: Μετατρέψτε το DOCM σε JSON σε C# χωρίς να χρησιμοποιήσετε το Microsoft Excel ή το Adobe Reader
-url: /el/net/conversion/docm-to-json/
+url_ignore: /el/net/conversion/docm-to-json/
 family: total
 platformtag: net
 feature: conversion
@@ -18,7 +18,7 @@ otherformats: ODS XLTM XLAM FODS DIF XLS XLSM TSV XLTX EXCEL XLSB SXC CSV XLT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Μετατροπή DOCM σε μορφή JSON μέσω C#" %}}
-1. Ανοίξτε το αρχείο DOCM χρησιμοποιώντας την τάξη [Document](https://apireference.aspose.com/words/net/aspose.words/document
+1. Ανοίξτε το αρχείο DOCM χρησιμοποιώντας την τάξη [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 2. Μετατρέψτε το DOCM σε HTML χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/words/net/aspose.words.documentsave/methods/4)
 3. Φορτώστε το έγγραφο HTML χρησιμοποιώντας την τάξη [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Αποθηκεύστε το έγγραφο σε μορφή JSON χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)

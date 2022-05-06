@@ -1,7 +1,7 @@
 ---
 title: C# API to Export EMAIL to WORD
 description: Convert EMAIL to WORD without using Microsoft Word or Outlook on .NET
-url: /net/conversion/email-to-word/
+url_ignore: /net/conversion/email-to-word/
 family: total
 platformtag: net
 feature: conversion

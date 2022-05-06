@@ -1,7 +1,7 @@
 ---
 title: TEXをPSにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してTEXをPSに変換する
-url: /ja/java/conversion/tex-to-ps/
+url_ignore: /ja/java/conversion/tex-to-ps/
 family: total
 platformtag: net
 feature: conversion

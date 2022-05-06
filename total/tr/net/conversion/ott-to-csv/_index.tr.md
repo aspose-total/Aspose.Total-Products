@@ -1,7 +1,7 @@
 ---
 title: OTT'yi CSV'ye Dönüştürmek için .NET API
 description: Microsoft Excel veya Adobe Reader kullanmadan OTT'yi CSV'ye dönüştürmek için C# API'si
-url: /tr/net/conversion/ott-to-csv/
+url_ignore: /tr/net/conversion/ott-to-csv/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してPCLをPPTMに変換する
 description: MicrosoftWordを使用せずにPCLをPPTMに変換するJavaAPI
-url: /ja/java/conversion/pcl-to-pptm/
+url_ignore: /ja/java/conversion/pcl-to-pptm/
 family: total
 platformtag: net
 feature: conversion

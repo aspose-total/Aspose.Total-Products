@@ -1,7 +1,7 @@
 ---
 title: RTF'yi XLAM'ye Dönüştürmek için .NET API
 description: Microsoft Excel veya Adobe Reader kullanmadan RTF'yi XLAM'ye dönüştürmek için C# API'si
-url: /tr/net/conversion/rtf-to-xlam/
+url_ignore: /tr/net/conversion/rtf-to-xlam/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ otherformats: XLT XLTX XLSX XLS EXCEL SXC FODS ODS XLSM TSV XLTM XLAM XLSB DIF
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="RTF'yi XLAM'ye Dönüştürmek için .NET API" %}}
-1. RTF dosyasını [Rtfument](https://apireference.aspose.com/words/net/aspose.words/rtfument) sınıfını kullanarak açın
-2. [Save](https://apireference.aspose.com/words/net/aspose.words.rtfument/save/methods/4) yöntemini kullanarak RTF'u HTML'ye dönüştürün
+1. RTF dosyasını [Document](https://apireference.aspose.com/words/net/aspose.words/Document) sınıfını kullanarak açın
+2. [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4) yöntemini kullanarak RTF'u HTML'ye dönüştürün
 3. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) sınıfını kullanarak HTML belgesini yükleyin
 4. [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) yöntemini kullanarak belgeyi XLAM formatına kaydedin ve 'XLAM'yi SaveFormat olarak ayarlayın
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -39,7 +39,7 @@ Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [indirilenler
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="RTF Belgesini Akıştan C# ile Yükle" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) ayrıca akış yoluyla RTF belgesini yüklemenizi sağlar. Bir akıştan bir belge açmak için belgeyi içeren bir akış nesnesini [Rtfument](https://apireference.aspose.com/words/net/aspose.words/rtfument) yapıcısına iletmeniz yeterlidir. Aşağıdaki kod örneği, bir akıştan bir belgenin nasıl açılacağını gösterir:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) ayrıca akış yoluyla RTF belgesini yüklemenizi sağlar. Bir akıştan bir belge açmak için belgeyi içeren bir akış nesnesini [Document](https://apireference.aspose.com/words/net/aspose.words/Document) yapıcısına iletmeniz yeterlidir. Aşağıdaki kod örneği, bir akıştan bir belgenin nasıl açılacağını gösterir:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [indirilenler
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="C# ile XLAM Dosyasına Özel Özellikler Ekleme" %}}
-RTF'yi XLAM'ye dönüştürürken, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), XLAM belgelerinize özel özellikler eklemenizi sağlar. Özel bir özellik eklemek için [CustomRtfumentPropertyCollection]( için [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customrtfumentpropertycollection/methods/add/index) yöntemini kullanabilirsiniz. https://apireference.aspose.com/cells/net/aspose.cells.properties/customrtfumentpropertycollection) sınıfı. Add yöntemi, özelliği Excel dosyasına ekler ve yeni belge özelliği için [Aspose.Cells.Properties.RtfumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) olarak bir başvuru döndürür. /rtfumentproperty) nesnesi. 
+RTF'yi XLAM'ye dönüştürürken, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), XLAM belgelerinize özel özellikler eklemenizi sağlar. Özel bir özellik eklemek için [CustomDocumentPropertyCollection]( için [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index) yöntemini kullanabilirsiniz. https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection) sınıfı. Add yöntemi, özelliği Excel dosyasına ekler ve yeni belge özelliği için [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) olarak bir başvuru döndürür. /Documentproperty) nesnesi. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

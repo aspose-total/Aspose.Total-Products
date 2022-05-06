@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı WORDML'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan OFT'i WORDML'ye dönüştürün
-url: /tr/net/conversion/oft-to-wordml/
+url_ignore: /tr/net/conversion/oft-to-wordml/
 family: total
 platformtag: net
 feature: conversion

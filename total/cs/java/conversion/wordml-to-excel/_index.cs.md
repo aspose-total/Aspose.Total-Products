@@ -1,7 +1,7 @@
 ---
 title: Java API pro převod WORDML do EXCEL
 description: Převeďte WORDML na EXCEL přes Java bez použití Microsoft Word nebo Microsoft Excel
-url: /cs/java/conversion/wordml-to-excel/
+url_ignore: /cs/java/conversion/wordml-to-excel/
 family: total
 platformtag: net
 feature: conversion

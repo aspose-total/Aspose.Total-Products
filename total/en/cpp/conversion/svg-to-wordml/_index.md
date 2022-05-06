@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export SVG to WORDML
 description: Convert SVG to WORDML within C++ applications.
-url: /cpp/conversion/svg-to-wordml/
+url_ignore: /cpp/conversion/svg-to-wordml/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API de C# para exportar correo electrónico a JPEG
 description: Convierta OFT a JPEG sin usar Microsoft Word o Outlook en .NET
-url: /es/net/conversion/oft-to-jpeg/
+url_ignore: /es/net/conversion/oft-to-jpeg/
 family: total
 platformtag: net
 feature: conversion

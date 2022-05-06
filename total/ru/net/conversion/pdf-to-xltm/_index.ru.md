@@ -1,7 +1,7 @@
 ---
 title: Преобразование PDF в XLTM через C# API
 description: C# API для преобразования файла PDF в XLTM без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/pdf-to-xltm/
+url_ignore: /ru/net/conversion/pdf-to-xltm/
 family: total
 platformtag: net
 feature: conversion

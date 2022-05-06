@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert ODT to DIF
 description: Convert ODT to DIF in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/odt-to-dif/
+url_ignore: /android-java/conversion/odt-to-dif/
 family: total
 platformtag: android-java
 feature: conversion

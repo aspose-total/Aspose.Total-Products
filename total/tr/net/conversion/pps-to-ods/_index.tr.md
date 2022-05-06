@@ -1,7 +1,7 @@
 ---
 title: PPS'u C# ile ODS'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan PPS'u C#'ta ODS'ye dönüştürün
-url: /tr/net/conversion/pps-to-ods/
+url_ignore: /tr/net/conversion/pps-to-ods/
 family: total
 platformtag: net
 feature: conversion

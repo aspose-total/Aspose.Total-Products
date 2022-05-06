@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie EPUB über die C#-API nach PPT
 description: .NET-API zum Konvertieren von EPUB in PPT ohne Verwendung von Microsoft Word
-url: /de/net/conversion/epub-to-ppt/
+url_ignore: /de/net/conversion/epub-to-ppt/
 family: total
 platformtag: net
 feature: conversion

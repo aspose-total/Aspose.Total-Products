@@ -1,7 +1,7 @@
 ---
 title: تحويل HTML إلى WMZ عبر Java
 description: قم بتصدير ملف HTML إلى WMZ في تطبيقات Java الخاصة بك دون استخدام أي تطبيق تابع لجهة خارجية
-url: /ar/java/conversion/html-to-wmz/
+url_ignore: /ar/java/conversion/html-to-wmz/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất XPS sang MARKDOWN
 description: Chuyển đổi XPS sang MARKDOWN mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/xps-to-markdown/
+url_ignore: /vi/net/conversion/xps-to-markdown/
 family: total
 platformtag: net
 feature: conversion

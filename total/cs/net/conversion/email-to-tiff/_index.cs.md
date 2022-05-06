@@ -1,7 +1,7 @@
 ---
 title: C# API pro export EMAIL do TIFF
 description: Převeďte EMAIL na TIFF bez použití Microsoft Word nebo Outlook na .NET
-url: /cs/net/conversion/email-to-tiff/
+url_ignore: /cs/net/conversion/email-to-tiff/
 family: total
 platformtag: net
 feature: conversion

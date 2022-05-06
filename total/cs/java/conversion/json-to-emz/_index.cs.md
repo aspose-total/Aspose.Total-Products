@@ -1,7 +1,7 @@
 ---
 title: Převeďte formát JSON na EMZ přes Java
 description: Analyzujte JSON na EMZ v Javě bez použití Microsoft PowerPoint
-url: /cs/java/conversion/json-to-emz/
+url_ignore: /cs/java/conversion/json-to-emz/
 family: total
 platformtag: net
 feature: conversion

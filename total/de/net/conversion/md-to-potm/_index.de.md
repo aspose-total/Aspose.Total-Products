@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie MD über die C#-API nach POTM
 description: .NET-API zum Konvertieren von MD in POTM ohne Verwendung von Microsoft Word
-url: /de/net/conversion/md-to-potm/
+url_ignore: /de/net/conversion/md-to-potm/
 family: total
 platformtag: net
 feature: conversion

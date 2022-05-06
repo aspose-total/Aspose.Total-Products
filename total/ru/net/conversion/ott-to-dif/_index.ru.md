@@ -1,7 +1,7 @@
 ---
 title: .NET API для преобразования OTT в DIF
 description: C# API для преобразования OTT в DIF без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/ott-to-dif/
+url_ignore: /ru/net/conversion/ott-to-dif/
 family: total
 platformtag: net
 feature: conversion

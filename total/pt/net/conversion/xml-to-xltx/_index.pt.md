@@ -1,7 +1,7 @@
 ---
 title: Converter XML para XLTX via API C#
 description: API C# para converter arquivo XML em XLTX sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/xml-to-xltx/
+url_ignore: /pt/net/conversion/xml-to-xltx/
 family: total
 platformtag: net
 feature: conversion

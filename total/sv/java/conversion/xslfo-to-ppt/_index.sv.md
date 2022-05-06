@@ -1,7 +1,7 @@
 ---
 title: Konvertera XSLFO till PPT via Java API
 description: Java API för att konvertera XSLFO till PPT utan att använda Microsoft Word
-url: /sv/java/conversion/xslfo-to-ppt/
+url_ignore: /sv/java/conversion/xslfo-to-ppt/
 family: total
 platformtag: net
 feature: conversion

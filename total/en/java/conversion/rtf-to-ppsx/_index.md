@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to PPSX via Java
 description: Java API to Export RTF to PPSX without using Microsoft Word or PowerPoint
-url: /java/conversion/rtf-to-ppsx/
+url_ignore: /java/conversion/rtf-to-ppsx/
 family: total
 platformtag: java
 feature: conversion

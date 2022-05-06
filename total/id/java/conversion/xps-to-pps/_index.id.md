@@ -1,7 +1,7 @@
 ---
 title: Konversi XPS ke PPS melalui Java API
 description: Java API untuk Mengonversi XPS ke PPS tanpa menggunakan Microsoft Word
-url: /id/java/conversion/xps-to-pps/
+url_ignore: /id/java/conversion/xps-to-pps/
 family: total
 platformtag: net
 feature: conversion

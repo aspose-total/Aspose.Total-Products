@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή TXT σε PPTM μέσω Java
 description: Java API για εξαγωγή TXT σε PPTM χωρίς χρήση Microsoft Word ή PowerPoint
-url: /el/java/conversion/txt-to-pptm/
+url_ignore: /el/java/conversion/txt-to-pptm/
 family: total
 platformtag: net
 feature: conversion

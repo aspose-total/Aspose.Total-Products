@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをODPにエクスポートする
 description: MicrosoftWordを使用せずにPDFをODPに変換する.NETAPI
-url: /ja/net/conversion/pdf-to-odp/
+url_ignore: /ja/net/conversion/pdf-to-odp/
 family: total
 platformtag: net
 feature: conversion

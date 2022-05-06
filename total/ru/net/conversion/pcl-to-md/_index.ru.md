@@ -1,7 +1,7 @@
 ---
 title: Преобразование PCL в MD через C# API
 description: C# API для преобразования файла PCL в MD без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/pcl-to-md/
+url_ignore: /ru/net/conversion/pcl-to-md/
 family: total
 platformtag: net
 feature: conversion

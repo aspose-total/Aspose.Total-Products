@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender TEX ke TXT
 description: Ekspor TEX ke TXT melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/tex-to-txt/
+url_ignore: /id/java/conversion/tex-to-txt/
 family: total
 platformtag: net
 feature: conversion

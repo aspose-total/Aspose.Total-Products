@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie DOTM über Java in PPTX
 description: Java-API zum Exportieren von DOTM in PPTX, ohne Microsoft Word oder PowerPoint zu verwenden
-url: /de/java/conversion/dotm-to-pptx/
+url_ignore: /de/java/conversion/dotm-to-pptx/
 family: total
 platformtag: net
 feature: conversion

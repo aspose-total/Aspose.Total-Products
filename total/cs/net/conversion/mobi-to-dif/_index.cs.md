@@ -1,7 +1,7 @@
 ---
 title: .NET API pro převod MOBI do DIF
 description: C# API pro převod MOBI do DIF bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/mobi-to-dif/
+url_ignore: /cs/net/conversion/mobi-to-dif/
 family: total
 platformtag: net
 feature: conversion

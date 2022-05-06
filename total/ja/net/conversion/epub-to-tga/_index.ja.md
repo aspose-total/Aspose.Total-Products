@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してEPUBをTGAに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでEPUBをTGAにエクスポートします
-url: /ja/net/conversion/epub-to-tga/
+url_ignore: /ja/net/conversion/epub-to-tga/
 family: total
 platformtag: net
 feature: conversion

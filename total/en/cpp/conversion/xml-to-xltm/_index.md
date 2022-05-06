@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XML to XLTM
 description: Convert XML to XLTM via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xml-to-xltm/
+url_ignore: /cpp/conversion/xml-to-xltm/
 family: total
 platformtag: cpp
 feature: conversion

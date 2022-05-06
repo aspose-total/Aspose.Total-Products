@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PCL to PPTM  
 description: Convert PCL to PPTM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/pcl-to-pptm/
+url_ignore: /cpp/conversion/pcl-to-pptm/
 family: total
 platformtag: cpp
 feature: conversion

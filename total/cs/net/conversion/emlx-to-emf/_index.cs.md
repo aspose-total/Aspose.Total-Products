@@ -1,7 +1,7 @@
 ---
 title: C# API pro export EMLX do EMF
 description: Převeďte EMLX na EMF bez použití Microsoft Word nebo Outlook na .NET
-url: /cs/net/conversion/emlx-to-emf/
+url_ignore: /cs/net/conversion/emlx-to-emf/
 family: total
 platformtag: net
 feature: conversion

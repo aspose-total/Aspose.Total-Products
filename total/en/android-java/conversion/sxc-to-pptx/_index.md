@@ -1,7 +1,7 @@
 ---
 title: Export SXC to PPTX in Android 
 description: Android API to Convert SXC to PPTX without using Microsoft Word
-url: /android-java/conversion/sxc-to-pptx/
+url_ignore: /android-java/conversion/sxc-to-pptx/
 family: total
 platformtag: android-java
 feature: conversion

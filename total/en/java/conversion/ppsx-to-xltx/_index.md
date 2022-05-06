@@ -1,7 +1,7 @@
 ---
 title: Convert PPSX to XLTX Format via Java
 description: Convert PPSX to XLTX format via Java without using using Microsoft Excel or PowerPoint
-url: /java/conversion/ppsx-to-xltx/
+url_ignore: /java/conversion/ppsx-to-xltx/
 family: total
 platformtag: java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export EMLX to MD via C++
 description: C++ API to Convert EMLX to MD without using Microsoft Word or Outlook
-url: /cpp/conversion/emlx-to-md/
+url_ignore: /cpp/conversion/emlx-to-md/
 family: total
 platformtag: cpp
 feature: conversion

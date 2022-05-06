@@ -1,7 +1,7 @@
 ---
 title: Преобразование PS в CSV через C# API
 description: C# API для преобразования файла PS в CSV без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/ps-to-csv/
+url_ignore: /ru/net/conversion/ps-to-csv/
 family: total
 platformtag: net
 feature: conversion

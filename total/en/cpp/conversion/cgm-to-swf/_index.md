@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert CGM to SWF  
 description: Convert CGM to SWF via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/cgm-to-swf/
+url_ignore: /cpp/conversion/cgm-to-swf/
 family: total
 platformtag: cpp
 feature: conversion

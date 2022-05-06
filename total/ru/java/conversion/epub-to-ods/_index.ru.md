@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга EPUB в ODS
 description: Экспорт EPUB в ODS через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/epub-to-ods/
+url_ignore: /ru/java/conversion/epub-to-ods/
 family: total
 platformtag: net
 feature: conversion

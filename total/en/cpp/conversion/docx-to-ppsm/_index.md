@@ -1,7 +1,7 @@
 ---
 title: Convert DOCX to PPSM via C++
 description: Export DOCX to PPSM in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/docx-to-ppsm/
+url_ignore: /cpp/conversion/docx-to-ppsm/
 family: total
 platformtag: cpp
 feature: conversion

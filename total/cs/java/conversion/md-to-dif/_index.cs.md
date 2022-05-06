@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení MD do DIF
 description: Export MD do DIF přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/md-to-dif/
+url_ignore: /cs/java/conversion/md-to-dif/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: MSG'i Java aracılığıyla BMP'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan MSG'i BMP'ye Dönüştürmek için Java API
-url: /tr/java/conversion/msg-to-bmp/
+url_ignore: /tr/java/conversion/msg-to-bmp/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: EMAIL을 DOCX로 내보내는 C# API
 description: .NET에서 Microsoft Word 또는 Outlook을 사용하지 않고 EMAIL을 DOCX로 변환
-url: /ko/net/conversion/email-to-docx/
+url_ignore: /ko/net/conversion/email-to-docx/
 family: total
 platformtag: net
 feature: conversion

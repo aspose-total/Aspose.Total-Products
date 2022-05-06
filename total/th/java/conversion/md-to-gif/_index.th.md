@@ -1,7 +1,7 @@
 ---
 title: Java API เพื่อส่งออก MD ไปยัง GIF
 description: แปลง MD เป็น GIF โดยใช้ Java API . ในตัว
-url: /th/java/conversion/md-to-gif/
+url_ignore: /th/java/conversion/md-to-gif/
 family: total
 platformtag: net
 feature: conversion

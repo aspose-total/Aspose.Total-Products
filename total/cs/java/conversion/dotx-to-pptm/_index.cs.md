@@ -1,7 +1,7 @@
 ---
 title: Převést DOTX na PPTM přes Java
 description: Java API pro export DOTX do PPTM bez použití Microsoft Word nebo PowerPoint
-url: /cs/java/conversion/dotx-to-pptm/
+url_ignore: /cs/java/conversion/dotx-to-pptm/
 family: total
 platformtag: net
 feature: conversion

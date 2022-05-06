@@ -1,7 +1,7 @@
 ---
 title: XSLFO'yi C# API aracılığıyla XAML'ye aktarın
 description: Microsoft Word kullanmadan XSLFO'yi XAML'ye dönüştürmek için .NET API
-url: /tr/net/conversion/xslfo-to-xaml/
+url_ignore: /tr/net/conversion/xslfo-to-xaml/
 family: total
 platformtag: net
 feature: conversion

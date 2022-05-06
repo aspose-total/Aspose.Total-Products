@@ -1,7 +1,7 @@
 ---
 title: XPS'yi GIF'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak XPS'yi GIF'ye dönüştürün
-url: /tr/java/conversion/xps-to-gif/
+url_ignore: /tr/java/conversion/xps-to-gif/
 family: total
 platformtag: net
 feature: conversion

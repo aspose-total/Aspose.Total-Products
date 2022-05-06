@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert SVG to XLSM
 description: Convert SVG to XLSM via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/svg-to-xlsm/
+url_ignore: /cpp/conversion/svg-to-xlsm/
 family: total
 platformtag: cpp
 feature: conversion

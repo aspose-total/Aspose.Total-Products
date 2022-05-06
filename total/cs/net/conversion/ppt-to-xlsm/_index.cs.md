@@ -1,7 +1,7 @@
 ---
 title: Převést PPT na XLSM přes C#
 description: Převeďte PPT na XLSM v C# bez použití Microsoft Excel nebo Powerpoint
-url: /cs/net/conversion/ppt-to-xlsm/
+url_ignore: /cs/net/conversion/ppt-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export PS to SWF in Android 
 description: Android API to Convert PS to SWF without using Microsoft Word
-url: /android-java/conversion/ps-to-swf/
+url_ignore: /android-java/conversion/ps-to-swf/
 family: total
 platformtag: android-java
 feature: conversion

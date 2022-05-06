@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση PS σε DIF
 description: Εξαγωγή PS σε DIF μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/ps-to-dif/
+url_ignore: /el/java/conversion/ps-to-dif/
 family: total
 platformtag: net
 feature: conversion

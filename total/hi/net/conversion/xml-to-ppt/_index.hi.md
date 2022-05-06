@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई के माध्यम से सीजीएम को ओडीपी में निर्यात करें
 description: Microsoft Word का उपयोग किए बिना XML को PPT में बदलने के लिए .NET API
-url: /hi/net/conversion/xml-to-ppt/
+url_ignore: /hi/net/conversion/xml-to-ppt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API to Render PCL to TXT
 description: Export PCL to TXT via Java API without using Microsoft Excel or Adobe Reader
-url: /java/conversion/pcl-to-txt/
+url_ignore: /java/conversion/pcl-to-txt/
 family: total
 platformtag: java
 feature: conversion

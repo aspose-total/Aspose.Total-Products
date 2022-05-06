@@ -1,7 +1,7 @@
 ---
 title: API Java para converter DOTM para XLSX
 description: Converta DOTM para XLSX via Java sem usar o Microsoft Word ou o Microsoft Excel
-url: /pt/java/conversion/dotm-to-xlsx/
+url_ignore: /pt/java/conversion/dotm-to-xlsx/
 family: total
 platformtag: net
 feature: conversion
@@ -34,7 +34,7 @@ Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloa
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisitos de conversão" %}}
-Antes de converter DOTM para XLSX, você pode remover informações não utilizadas do Dotmumento DOTM via [Aspose.Words for Java](https://products.aspose.com/words/java/). Às vezes, pode ser necessário remover informações não utilizadas ou duplicadas para reduzir o tamanho do dotmumento de saída e o tempo de processamento. A classe [CleanupOptions](https://apireference.aspose.com/words/java/com.aspose.words/CleanupOptions) permite especificar opções para limpeza de dotmumentos. Para remover estilos duplicados ou apenas estilos ou listas não utilizados do dotmumento, você pode usar o método [Cleanup](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument#cleanup()). Você pode usar os [UnusedStyles](https://apireference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) e [UnusedBuiltinStyles](https://apireference.aspose.com/words/java /com.aspose.words/cleanupoptions#UnusedBuiltinStyles) para detectar e remover estilos marcados como “não usados”.  
+Antes de converter DOTM para XLSX, você pode remover informações não utilizadas do Dotmumento DOTM via [Aspose.Words for Java](https://products.aspose.com/words/java/). Às vezes, pode ser necessário remover informações não utilizadas ou duplicadas para reduzir o tamanho do dotmumento de saída e o tempo de processamento. A classe [CleanupOptions](https://apireference.aspose.com/words/java/com.aspose.words/CleanupOptions) permite especificar opções para limpeza de dotmumentos. Para remover estilos duplicados ou apenas estilos ou listas não utilizados do dotmumento, você pode usar o método [Cleanup](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument#cleanup()). Você pode usar os [UnusedStyles](https://apireference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) e [UnusedBuiltinStyles](https://apireference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedBuiltinStyles) para detectar e remover estilos marcados como “não usados”.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-protected-word-to-excel.java" >}}

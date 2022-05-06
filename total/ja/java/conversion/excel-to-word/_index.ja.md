@@ -1,7 +1,7 @@
 ---
 title: Javaを使用してEXCELをWORDに変換する
 description: ExcelまたはWordを使用してEXCELをWORDにエクスポートするJavaAPI
-url: /ja/java/conversion/excel-to-word/
+url_ignore: /ja/java/conversion/excel-to-word/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: .NET-API zum Konvertieren von DOCM in DIF
 description: C#-API zum Konvertieren von DOCM in DIF ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/docm-to-dif/
+url_ignore: /de/net/conversion/docm-to-dif/
 family: total
 platformtag: net
 feature: conversion

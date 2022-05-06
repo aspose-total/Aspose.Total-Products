@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή μορφής JSON σε EMZ μέσω .NET
 description: Αναλύστε το JSON σε EMZ σε C# χωρίς να χρησιμοποιήσετε εξαρτήσεις τρίτων
-url: /el/net/conversion/json-to-emz/
+url_ignore: /el/net/conversion/json-to-emz/
 family: total
 platformtag: net
 feature: conversion
@@ -33,7 +33,8 @@ otherformats: IMAGE TGA SVGZ JPEG2000 EMZ DXF WMZ WMF DICOM PSD
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "parse-json-to-image.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ otherformats: IMAGE TGA SVGZ JPEG2000 EMZ DXF WMZ WMF DICOM PSD
 Κατά την ανάλυση του JSON σε EMZ, μπορείτε επίσης να ορίσετε επιλογές διάταξης για το JSON χρησιμοποιώντας το [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Σας επιτρέπει να επεξεργαστείτε τον πίνακα ως πίνακα, να αγνοήσετε τα μηδενικά, να αγνοήσετε τον τίτλο του πίνακα, να αγνοήσετε τον τίτλο του αντικειμένου, να μετατρέψετε τη συμβολοσειρά σε αριθμό ή ημερομηνία, να ορίσετε την ημερομηνία και τη μορφή αριθμού και να ορίσετε στυλ τίτλου. Όλες αυτές οι επιλογές σάς επιτρέπουν να παρουσιάζετε τα δεδομένα σας σύμφωνα με τις ανάγκες σας. Το παρακάτω απόσπασμα κώδικα σάς δείχνει πώς να ορίσετε τις επιλογές διάταξης.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "set-layout-and-parse-json-to-image.cs" >}}
+{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "set-layout-and-parse-json-to-image.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: IMAGE TGA SVGZ JPEG2000 EMZ DXF WMZ WMF DICOM PSD
 Χρησιμοποιώντας το API, μπορείτε επίσης να μετατρέψετε το JSON σε EMZ με υδατογράφημα στο έγγραφό σας EMZ. Για να προσθέσετε ένα υδατογράφημα, μπορείτε πρώτα να αποδώσετε το έγγραφό σας JSON σε JPEG και να προσθέσετε ένα υδατογράφημα σε αυτό. Για να επιδείξετε τη λειτουργία, μπορείτε να φορτώσετε την εικόνα JPEG που έχετε μετατρέψει, να προσθέσετε μετασχηματισμούς χρησιμοποιώντας ένα αντικείμενο της κλάσης Matrix και να σχεδιάσετε μια συμβολοσειρά ως υδατογράφημα στην επιφάνεια της εικόνας χρησιμοποιώντας το [Graphics](https://apireference.aspose.com/imaging/ net/aspose.imaging/graphics) class' [DrawString](https://apireference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring) μέθοδος. Αφού προσθέσετε το υδατογράφημα σε αυτό, μπορείτε να αποθηκεύσετε το JPEG ως μορφή EMZ. Ακολουθεί ένα παράδειγμα κώδικα που δείχνει πώς να προσθέσετε ένα διαγώνιο υδατογράφημα στο έγγραφό σας. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

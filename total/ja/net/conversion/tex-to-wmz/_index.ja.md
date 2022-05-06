@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してTEXをWMZに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでTEXをWMZにエクスポートします
-url: /ja/net/conversion/tex-to-wmz/
+url_ignore: /ja/net/conversion/tex-to-wmz/
 family: total
 platformtag: net
 feature: conversion

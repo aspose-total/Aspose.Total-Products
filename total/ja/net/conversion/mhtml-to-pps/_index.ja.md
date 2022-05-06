@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMHTMLをPPSにエクスポートする
 description: MicrosoftWordを使用せずにMHTMLをPPSに変換する.NETAPI
-url: /ja/net/conversion/mhtml-to-pps/
+url_ignore: /ja/net/conversion/mhtml-to-pps/
 family: total
 platformtag: net
 feature: conversion

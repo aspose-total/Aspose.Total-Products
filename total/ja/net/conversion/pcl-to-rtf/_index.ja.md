@@ -1,7 +1,7 @@
 ---
 title: PCLをRTFにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにPCLをRTFに変換する
-url: /ja/net/conversion/pcl-to-rtf/
+url_ignore: /ja/net/conversion/pcl-to-rtf/
 family: total
 platformtag: net
 feature: conversion

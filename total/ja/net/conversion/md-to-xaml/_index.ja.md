@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMDをXAMLにエクスポートする
 description: MicrosoftWordを使用せずにMDをXAMLに変換する.NETAPI
-url: /ja/net/conversion/md-to-xaml/
+url_ignore: /ja/net/conversion/md-to-xaml/
 family: total
 platformtag: net
 feature: conversion

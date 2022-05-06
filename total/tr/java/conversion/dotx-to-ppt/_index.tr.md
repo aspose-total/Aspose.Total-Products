@@ -1,7 +1,7 @@
 ---
 title: Java ile DOTX'yi PPT'ye dönüştürün
 description: Microsoft Word veya PowerPoint kullanmadan DOTX'yi PPT'ye Dışa Aktarmak için Java API
-url: /tr/java/conversion/dotx-to-ppt/
+url_ignore: /tr/java/conversion/dotx-to-ppt/
 family: total
 platformtag: net
 feature: conversion

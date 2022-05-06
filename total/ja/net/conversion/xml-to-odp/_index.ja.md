@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXMLをODPにエクスポートする
 description: MicrosoftWordを使用せずにXMLをODPに変換する.NETAPI
-url: /ja/net/conversion/xml-to-odp/
+url_ignore: /ja/net/conversion/xml-to-odp/
 family: total
 platformtag: net
 feature: conversion

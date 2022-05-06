@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга PDF в XLSB
 description: Экспорт PDF в XLSB через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/pdf-to-xlsb/
+url_ignore: /ru/java/conversion/pdf-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

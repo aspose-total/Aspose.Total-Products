@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してSVGをPPTにエクスポートする
 description: MicrosoftWordを使用せずにSVGをPPTに変換する.NETAPI
-url: /ja/net/conversion/svg-to-ppt/
+url_ignore: /ja/net/conversion/svg-to-ppt/
 family: total
 platformtag: net
 feature: conversion

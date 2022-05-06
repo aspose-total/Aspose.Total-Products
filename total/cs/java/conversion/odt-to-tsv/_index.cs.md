@@ -1,7 +1,7 @@
 ---
 title: Java API pro převod ODT do TSV
 description: Převeďte ODT na TSV přes Java bez použití Microsoft Word nebo Microsoft Excel
-url: /cs/java/conversion/odt-to-tsv/
+url_ignore: /cs/java/conversion/odt-to-tsv/
 family: total
 platformtag: net
 feature: conversion

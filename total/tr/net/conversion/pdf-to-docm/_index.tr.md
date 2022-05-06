@@ -1,7 +1,7 @@
 ---
 title: PDF'yi DOCM'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan PDF'yi DOCM'ye dönüştürün
-url: /tr/net/conversion/pdf-to-docm/
+url_ignore: /tr/net/conversion/pdf-to-docm/
 family: total
 platformtag: net
 feature: conversion

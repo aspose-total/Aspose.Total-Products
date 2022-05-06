@@ -1,7 +1,7 @@
 ---
 title: .NET API για μετατροπή DOCM σε CSV
 description: C# API για μετατροπή DOCM σε CSV χωρίς χρήση Microsoft Excel ή Adobe Reader
-url: /el/net/conversion/docm-to-csv/
+url_ignore: /el/net/conversion/docm-to-csv/
 family: total
 platformtag: net
 feature: conversion
@@ -18,7 +18,7 @@ otherformats: XLSX XLTM FODS EXCEL XLAM DIF ODS SXC XLSB XLS XLT XLTX XLSM TSV
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API για μετατροπή DOCM σε CSV" %}}
-1. Ανοίξτε το αρχείο DOCM χρησιμοποιώντας την τάξη [Document](https://apireference.aspose.com/words/net/aspose.words/document
+1. Ανοίξτε το αρχείο DOCM χρησιμοποιώντας την τάξη [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 2. Μετατρέψτε το DOCM σε HTML χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/words/net/aspose.words.documentsave/methods/4)
 3. Φορτώστε το έγγραφο HTML χρησιμοποιώντας την τάξη [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Αποθηκεύστε το έγγραφο σε μορφή CSV χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) και ορίστε το "CSV" ως SaveFormat
@@ -46,7 +46,6 @@ otherformats: XLSX XLTM FODS EXCEL XLAM DIF ODS SXC XLSB XLS XLT XLTX XLSM TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Προσθήκη προσαρμοσμένων ιδιοτήτων σε αρχείο CSV μέσω C#" %}}
 Κατά τη μετατροπή του DOCM σε CSV, το [Aspose.Cells για .NET](https://products.aspose.com/cells/net/) σάς δίνει τη δυνατότητα να προσθέσετε προσαρμοσμένες ιδιότητες στα έγγραφά σας CSV. Για να προσθέσετε μια προσαρμοσμένη ιδιότητα, μπορείτε να χρησιμοποιήσετε τη μέθοδο [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentropertycollection/methods/add/index) για το [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/CustomDocumentPropertyCollection) τάξη. Η μέθοδος Προσθήκη προσθέτει την ιδιότητα στο αρχείο Excel και επιστρέφει μια αναφορά για την ιδιότητα του νέου εγγράφου ως [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties/DocumentProperty) αντικείμενο. 
 {{% blocks/products/pf/feature-page-code %}}

@@ -1,7 +1,7 @@
 ---
 title: .NET-API zum Konvertieren von DOCX in CSV
 description: C#-API zum Konvertieren von DOCX in CSV ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/docx-to-csv/
+url_ignore: /de/net/conversion/docx-to-csv/
 family: total
 platformtag: net
 feature: conversion

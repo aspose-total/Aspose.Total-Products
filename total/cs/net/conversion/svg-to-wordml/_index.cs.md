@@ -1,7 +1,7 @@
 ---
 title: C# API pro export SVG do WORDML
 description: Převeďte SVG na WORDML bez použití aplikace Microsoft Word
-url: /cs/net/conversion/svg-to-wordml/
+url_ignore: /cs/net/conversion/svg-to-wordml/
 family: total
 platformtag: net
 feature: conversion

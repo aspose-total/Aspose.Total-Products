@@ -1,7 +1,7 @@
 ---
 title: Convert DOC to JSON format in C++ 
 description: Export DOC to JSON in C++ without using Microsoft Excel or Word
-url: /cpp/conversion/doc-to-json/
+url_ignore: /cpp/conversion/doc-to-json/
 family: total
 platformtag: cpp
 feature: conversion

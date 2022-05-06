@@ -1,7 +1,7 @@
 ---
 title: Экспорт OFT в DOT через Java
 description: Java API для преобразования OFT в DOT без использования Microsoft Word или Outlook
-url: /ru/java/conversion/oft-to-dot/
+url_ignore: /ru/java/conversion/oft-to-dot/
 family: total
 platformtag: net
 feature: conversion

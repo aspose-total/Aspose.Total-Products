@@ -1,7 +1,7 @@
 ---
 title: Экспорт XSLFO в PPSM через C# API
 description: .NET API для преобразования XSLFO в PPSM без использования Microsoft Word
-url: /ru/net/conversion/xslfo-to-ppsm/
+url_ignore: /ru/net/conversion/xslfo-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Převeďte HTML na TGA přes C# API
 description: Exportujte HTML do TGA ve svých aplikacích .NET bez použití jakékoli aplikace třetí strany
-url: /cs/net/conversion/html-to-tga/
+url_ignore: /cs/net/conversion/html-to-tga/
 family: total
 platformtag: net
 feature: conversion

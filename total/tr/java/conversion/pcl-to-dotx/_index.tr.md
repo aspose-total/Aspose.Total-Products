@@ -1,7 +1,7 @@
 ---
 title: PCL'yi DOTX'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak PCL'yi DOTX'ye dönüştürün
-url: /tr/java/conversion/pcl-to-dotx/
+url_ignore: /tr/java/conversion/pcl-to-dotx/
 family: total
 platformtag: net
 feature: conversion

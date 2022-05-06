@@ -1,7 +1,7 @@
 ---
 title: MDをRTFにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してMDをRTFに変換する
-url: /ja/java/conversion/md-to-rtf/
+url_ignore: /ja/java/conversion/md-to-rtf/
 family: total
 platformtag: net
 feature: conversion

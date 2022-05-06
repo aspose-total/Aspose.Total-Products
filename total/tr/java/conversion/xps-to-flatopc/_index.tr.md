@@ -1,7 +1,7 @@
 ---
 title: XPS'yi FLATOPC'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak XPS'yi FLATOPC'ye dönüştürün
-url: /tr/java/conversion/xps-to-flatopc/
+url_ignore: /tr/java/conversion/xps-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

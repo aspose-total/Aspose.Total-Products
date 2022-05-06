@@ -1,7 +1,7 @@
 ---
 title: 用于将 MHTML 导出到 DOTM 的 Java API
 description: 使用本地 Java API 将 MHTML 转换为 DOTM
-url: /zh/java/conversion/mhtml-to-dotm/
+url_ignore: /zh/java/conversion/mhtml-to-dotm/
 family: total
 platformtag: net
 feature: conversion

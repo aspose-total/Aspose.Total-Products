@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPPSMをMHTMLに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPSMをMHTMLに変換する
-url: /ja/net/conversion/ppsm-to-mhtml/
+url_ignore: /ja/net/conversion/ppsm-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

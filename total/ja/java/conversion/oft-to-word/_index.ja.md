@@ -1,7 +1,7 @@
 ---
 title: Java経由でOFTをWORDにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにOFTをWORDに変換するJavaAPI
-url: /ja/java/conversion/oft-to-word/
+url_ignore: /ja/java/conversion/oft-to-word/
 family: total
 platformtag: net
 feature: conversion

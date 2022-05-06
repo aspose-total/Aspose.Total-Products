@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга XML в SXC
 description: Экспорт XML в SXC через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/xml-to-sxc/
+url_ignore: /ru/java/conversion/xml-to-sxc/
 family: total
 platformtag: net
 feature: conversion

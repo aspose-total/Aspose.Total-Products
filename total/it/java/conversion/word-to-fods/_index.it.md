@@ -1,7 +1,7 @@
 ---
 title: API Java per convertire WORD in FODS
 description: Converti WORD in FODS tramite Java senza utilizzare Microsoft Word o Microsoft Excel
-url: /it/java/conversion/word-to-fods/
+url_ignore: /it/java/conversion/word-to-fods/
 family: total
 platformtag: net
 feature: conversion

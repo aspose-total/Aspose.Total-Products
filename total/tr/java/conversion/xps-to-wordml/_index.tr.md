@@ -1,7 +1,7 @@
 ---
 title: XPS'yi WORDML'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak XPS'yi WORDML'ye dönüştürün
-url: /tr/java/conversion/xps-to-wordml/
+url_ignore: /tr/java/conversion/xps-to-wordml/
 family: total
 platformtag: net
 feature: conversion

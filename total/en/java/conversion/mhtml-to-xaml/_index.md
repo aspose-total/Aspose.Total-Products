@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to XAML via Java API
 description: Java API to Convert MHTML to XAML without using Microsoft Word
-url: /java/conversion/mhtml-to-xaml/
+url_ignore: /java/conversion/mhtml-to-xaml/
 family: total
 platformtag: java
 feature: conversion

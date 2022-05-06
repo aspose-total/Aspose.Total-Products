@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender XPS ke XLAM
 description: Ekspor XPS ke XLAM melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/xps-to-xlam/
+url_ignore: /id/java/conversion/xps-to-xlam/
 family: total
 platformtag: net
 feature: conversion

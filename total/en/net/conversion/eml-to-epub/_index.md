@@ -1,7 +1,7 @@
 ---
 title: C# API to Export EML to EPUB
 description: Convert EML to EPUB without using Microsoft Word or Outlook on .NET
-url: /net/conversion/eml-to-epub/
+url_ignore: /net/conversion/eml-to-epub/
 family: total
 platformtag: net
 feature: conversion

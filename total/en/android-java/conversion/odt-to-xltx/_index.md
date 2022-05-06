@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert ODT to XLTX
 description: Convert ODT to XLTX in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/odt-to-xltx/
+url_ignore: /android-java/conversion/odt-to-xltx/
 family: total
 platformtag: android-java
 feature: conversion

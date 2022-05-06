@@ -1,7 +1,7 @@
 ---
 title: Convertir PDF en PSD via Java
 description: Exportez le fichier PDF vers PSD dans vos applications Java sans utiliser d'application tierce
-url: /fr/java/conversion/pdf-to-psd/
+url_ignore: /fr/java/conversion/pdf-to-psd/
 family: total
 platformtag: net
 feature: conversion

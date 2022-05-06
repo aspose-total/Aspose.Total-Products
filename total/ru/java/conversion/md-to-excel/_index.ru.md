@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга MD в EXCEL
 description: Экспорт MD в EXCEL через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/md-to-excel/
+url_ignore: /ru/java/conversion/md-to-excel/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API pro převod MOBI do ODS
 description: Převeďte MOBI na ODS přes Java bez použití Microsoft Word nebo Microsoft Excel
-url: /cs/java/conversion/mobi-to-ods/
+url_ignore: /cs/java/conversion/mobi-to-ods/
 family: total
 platformtag: net
 feature: conversion

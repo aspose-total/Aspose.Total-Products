@@ -1,7 +1,7 @@
 ---
 title: POT'yi .NET aracılığıyla JSON formatına dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan POT'yi C# ile JSON'a dönüştürün
-url: /tr/net/conversion/pot-to-json/
+url_ignore: /tr/net/conversion/pot-to-json/
 family: total
 platformtag: net
 feature: conversion

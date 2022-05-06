@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PS na POTX za pomocą Java API
 description: Java API do konwersji PS na POTX bez użycia Microsoft Word
-url: /pl/java/conversion/ps-to-potx/
+url_ignore: /pl/java/conversion/ps-to-potx/
 family: total
 platformtag: net
 feature: conversion

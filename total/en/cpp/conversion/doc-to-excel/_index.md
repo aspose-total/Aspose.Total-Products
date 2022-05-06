@@ -1,7 +1,7 @@
 ---
 title: Convert DOC to EXCEL in C++
 description: C++ API to Convert DOC to EXCEL without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/doc-to-excel/
+url_ignore: /cpp/conversion/doc-to-excel/
 family: total
 platformtag: cpp
 feature: conversion

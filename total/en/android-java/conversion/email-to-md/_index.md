@@ -1,7 +1,7 @@
 ---
 title: Render EMAIL to MD in Andorid App
 description: Export EMAIL to MD without using Microsoft Word or Outlook in you Andorid applications 
-url: /android-java/conversion/email-to-md/
+url_ignore: /android-java/conversion/email-to-md/
 family: total
 platformtag: android-java
 feature: conversion

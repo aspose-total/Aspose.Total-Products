@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга TEX в TXT
 description: Экспорт TEX в TXT через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/tex-to-txt/
+url_ignore: /ru/java/conversion/tex-to-txt/
 family: total
 platformtag: net
 feature: conversion

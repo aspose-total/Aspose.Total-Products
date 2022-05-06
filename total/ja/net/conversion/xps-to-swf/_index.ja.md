@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXPSをSWFにエクスポートする
 description: MicrosoftWordを使用せずにXPSをSWFに変換する.NETAPI
-url: /ja/net/conversion/xps-to-swf/
+url_ignore: /ja/net/conversion/xps-to-swf/
 family: total
 platformtag: net
 feature: conversion

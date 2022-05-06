@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MD to OTP  
 description: Convert MD to OTP via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/md-to-otp/
+url_ignore: /cpp/conversion/md-to-otp/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert DOCM to CSV in C++
 description: C++ API to Convert DOCM to CSV without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/docm-to-csv/
+url_ignore: /cpp/conversion/docm-to-csv/
 family: total
 platformtag: cpp
 feature: conversion

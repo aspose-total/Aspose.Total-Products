@@ -1,7 +1,7 @@
 ---
 title: Convierta el formato JSON a DOC a través de Java
 description: Analice JSON a DOC en Java sin usar Microsoft Word
-url: /es/java/conversion/json-to-doc/
+url_ignore: /es/java/conversion/json-to-doc/
 family: total
 platformtag: net
 feature: conversion

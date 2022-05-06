@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert SVG to TXT
 description: Convert SVG to TXT via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/svg-to-txt/
+url_ignore: /cpp/conversion/svg-to-txt/
 family: total
 platformtag: cpp
 feature: conversion

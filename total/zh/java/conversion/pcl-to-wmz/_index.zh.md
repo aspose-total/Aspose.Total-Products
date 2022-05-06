@@ -1,7 +1,7 @@
 ---
 title: 通过 Java 将 PCL 转换为 WMZ
 description: 在您的 Java 应用程序中将 PCL 文件导出为 WMZ，而无需使用任何第三方应用程序
-url: /zh/java/conversion/pcl-to-wmz/
+url_ignore: /zh/java/conversion/pcl-to-wmz/
 family: total
 platformtag: net
 feature: conversion
@@ -17,7 +17,7 @@ otherformats: WMZ IMAGE PSD TGA WMF SVGZ  DXF JPEG2000 EMZ DICOM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="通过 Java 将 PCL 导出为 WMZ" %}}
 1.使用[Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)类打开PCL文件
-2.初始化[JpegDevice](JpegDevice)类对象，使用[Process](https://apireference.aspose.com/pdf/java/com.aspose.pdf.devices/JpegDevice#process-com.aspose.pdf.Page-java.io.OutputStream-) 方法
+2.初始化JpegDevice类对象，使用[Process](https://apireference.aspose.com/pdf/java/com.aspose.pdf.devices/JpegDevice#process-com.aspose.pdf.Page-java.io.OutputStream-) 方法
 3. 使用 [Image](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image) 类加载 JPEG 文件
 4. 使用 [save](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase) 将文档保存为 WMZ 格式-) 方法
 {{% /blocks/products/pf/agp/feature-section-col %}}

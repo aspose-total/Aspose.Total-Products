@@ -1,7 +1,7 @@
 ---
 title: تحويل OTP إلى تنسيق JSON عبر .NET
 description: تحويل OTP إلى JSON في C# بدون استخدام Microsoft Excel أو Powerpoint
-url: /ar/net/conversion/otp-to-json/
+url_ignore: /ar/net/conversion/otp-to-json/
 family: total
 platformtag: net
 feature: conversion

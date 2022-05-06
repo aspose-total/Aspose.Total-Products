@@ -1,7 +1,7 @@
 ---
 title: API .NET para convertir DOCM a XLSB
 description: API de C# para convertir DOCM a XLSB sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/docm-to-xlsb/
+url_ignore: /es/net/conversion/docm-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Android API to Render EPUB to GIF
 description: Transform EPUB to GIF via Android via Java API
-url: /android-java/conversion/epub-to-gif/
+url_ignore: /android-java/conversion/epub-to-gif/
 family: total
 platformtag: android-java
 feature: conversion

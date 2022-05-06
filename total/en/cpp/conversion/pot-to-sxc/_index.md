@@ -1,7 +1,7 @@
 ---
 title: Convert POT to SXC via C++ 
 description: Export POT to SXC in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pot-to-sxc/
+url_ignore: /cpp/conversion/pot-to-sxc/
 family: total
 platformtag: cpp
 feature: conversion

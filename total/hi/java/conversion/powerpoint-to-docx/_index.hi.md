@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से पीओटी को डीओसी में कनवर्ट करें
 description: Microsoft Word या PowerPoint का उपयोग किए बिना DOCX को POWERPOINT निर्यात करने के लिए Java API
-url: /hi/java/conversion/powerpoint-to-docx/
+url_ignore: /hi/java/conversion/powerpoint-to-docx/
 family: total
 platformtag: net
 feature: conversion
@@ -34,7 +34,7 @@ POWERPOINT से DOCX फ़ाइल रूपांतरण के लिए
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="रूपांतरण आवश्यकताएँ" %}}Document
-एपीआई का उपयोग करके, आप वॉटरमार्क के साथ पीओटी फ़ाइल को डीओसी रूपांतरण में भी कर सकते हैं। अपने DOCX दस्तावेज़ में वॉटरमार्क जोड़ने के लिए, आप पहले POWERPOINT फ़ाइल को HTML में बदल सकते हैं और उसमें वॉटरमार्क जोड़ सकते हैं। वॉटरमार्क जोड़ने के लिए, [Document](https://apireference.aspose.com/words/java/com.aspose.words/Docxument) वर्ग का उपयोग करके नई बनाई गई HTML फ़ाइल लोड करें, TextWatermarkOptions का एक उदाहरण बनाएं और सेट करें इसके गुण, Watermark.setText विधि को कॉल करें और वॉटरमार्क टेक्स्ट और TextWatermarkOptions का ऑब्जेक्ट पास करें।  
+एपीआई का उपयोग करके, आप वॉटरमार्क के साथ पीओटी फ़ाइल को डीओसी रूपांतरण में भी कर सकते हैं। अपने DOCX दस्तावेज़ में वॉटरमार्क जोड़ने के लिए, आप पहले POWERPOINT फ़ाइल को HTML में बदल सकते हैं और उसमें वॉटरमार्क जोड़ सकते हैं। वॉटरमार्क जोड़ने के लिए, [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) वर्ग का उपयोग करके नई बनाई गई HTML फ़ाइल लोड करें, TextWatermarkOptions का एक उदाहरण बनाएं और सेट करें इसके गुण, Watermark.setText विधि को कॉल करें और वॉटरमार्क टेक्स्ट और TextWatermarkOptions का ऑब्जेक्ट पास करें।  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}

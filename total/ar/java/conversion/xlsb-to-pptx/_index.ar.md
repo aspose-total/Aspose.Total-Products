@@ -1,7 +1,7 @@
 ---
 title: تحويل XLSB إلى PPTX باستخدام Java
 description: Java API لتصدير XLSB إلى PPTX باستخدام Excel أو Word
-url: /ar/java/conversion/xlsb-to-pptx/
+url_ignore: /ar/java/conversion/xlsb-to-pptx/
 family: total
 platformtag: net
 feature: conversion

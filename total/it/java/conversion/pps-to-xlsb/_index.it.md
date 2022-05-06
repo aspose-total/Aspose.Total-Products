@@ -1,7 +1,7 @@
 ---
 title: Converti PPS in formato XLSB tramite Java
 description: Converti PPS in formato XLSB tramite Java senza utilizzare Microsoft Excel o PowerPoint
-url: /it/java/conversion/pps-to-xlsb/
+url_ignore: /it/java/conversion/pps-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert POT to ODS in Android via Java
 description: Convert POT to ODS in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/pot-to-ods/
+url_ignore: /android-java/conversion/pot-to-ods/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convertir PPS en EXCEL via C#
 description: Convertir PPS en EXCEL en C# sans utiliser Microsoft Excel ou Powerpoint
-url: /fr/net/conversion/pps-to-excel/
+url_ignore: /fr/net/conversion/pps-to-excel/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: XLT ODS XLTX XLTM EXCEL SXC MHTML MARKDOWN FODS DIF XLSB XLAM TSV 
 {{< blocks/products/pf/i18n/feature-page-header h1="Convertir PPS en EXCEL via C#" h2="API .NET pour la conversion PPS en EXCEL sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), vous pouvez convertir le fichier PPS en EXCEL dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.Slides pour .NET](https://products.aspose.com/slides/net/), vous pouvez exporter PPS vers HTML. Après cela, en utilisant [Aspose.Cells pour .NET](https://products.aspose.com/cells/net/) API de programmation de feuille de calcul, vous pouvez convertir HTML en EXCEL.
+En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez convertir le fichier PPS en EXCEL dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), vous pouvez exporter PPS vers HTML. Après cela, en utilisant [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API de programmation de feuille de calcul, vous pouvez convertir HTML en EXCEL.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

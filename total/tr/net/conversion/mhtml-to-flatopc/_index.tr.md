@@ -1,7 +1,7 @@
 ---
 title: MHTML'yi FLATOPC'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan MHTML'yi FLATOPC'ye dönüştürün
-url: /tr/net/conversion/mhtml-to-flatopc/
+url_ignore: /tr/net/conversion/mhtml-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

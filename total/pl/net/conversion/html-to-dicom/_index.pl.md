@@ -1,7 +1,7 @@
 ---
 title: Konwertuj HTML na DICOM przez C# API
 description: Eksportuj HTML do DICOM w swoich aplikacjach .NET bez korzystania z aplikacji innych firm
-url: /pl/net/conversion/html-to-dicom/
+url_ignore: /pl/net/conversion/html-to-dicom/
 family: total
 platformtag: net
 feature: conversion

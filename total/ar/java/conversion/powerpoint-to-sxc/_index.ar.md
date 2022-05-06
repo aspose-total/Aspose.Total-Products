@@ -1,7 +1,7 @@
 ---
 title: تحويل POWERPOINT إلى تنسيق SXC عبر Java
 description: قم بتحويل POWERPOINT إلى تنسيق SXC عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/powerpoint-to-sxc/
+url_ignore: /ar/java/conversion/powerpoint-to-sxc/
 family: total
 platformtag: net
 feature: conversion

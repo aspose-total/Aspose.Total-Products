@@ -1,7 +1,7 @@
 ---
 title: सी # के माध्यम से पीओटी को सीएसवी में कनवर्ट करें
 description: Microsoft Excel या Powerpoint का उपयोग किए बिना PPT को CSV में C# में बदलें
-url: /hi/net/conversion/ppt-to-csv/
+url_ignore: /hi/net/conversion/ppt-to-csv/
 family: total
 platformtag: net
 feature: conversion

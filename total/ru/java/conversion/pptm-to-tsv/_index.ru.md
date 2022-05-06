@@ -1,7 +1,7 @@
 ---
 title: Преобразование PPTM в формат TSV через Java
 description: Преобразуйте формат PPTM в TSV через Java без использования Microsoft Excel или PowerPoint.
-url: /ru/java/conversion/pptm-to-tsv/
+url_ignore: /ru/java/conversion/pptm-to-tsv/
 family: total
 platformtag: net
 feature: conversion

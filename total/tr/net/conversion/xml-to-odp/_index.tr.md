@@ -1,7 +1,7 @@
 ---
 title: XML'yi C# API aracılığıyla ODP'ye aktarın
 description: Microsoft Word kullanmadan XML'yi ODP'ye dönüştürmek için .NET API
-url: /tr/net/conversion/xml-to-odp/
+url_ignore: /tr/net/conversion/xml-to-odp/
 family: total
 platformtag: net
 feature: conversion

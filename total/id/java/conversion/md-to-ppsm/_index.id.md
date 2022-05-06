@@ -1,7 +1,7 @@
 ---
 title: Konversi MD ke PPSM melalui Java API
 description: Java API untuk Mengonversi MD ke PPSM tanpa menggunakan Microsoft Word
-url: /id/java/conversion/md-to-ppsm/
+url_ignore: /id/java/conversion/md-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

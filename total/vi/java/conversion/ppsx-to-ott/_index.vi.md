@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi PPSX sang OTT qua Java
 description: Java API để xuất PPSX sang OTT mà không cần sử dụng Microsoft Word hoặc PowerPoint
-url: /vi/java/conversion/ppsx-to-ott/
+url_ignore: /vi/java/conversion/ppsx-to-ott/
 family: total
 platformtag: net
 feature: conversion

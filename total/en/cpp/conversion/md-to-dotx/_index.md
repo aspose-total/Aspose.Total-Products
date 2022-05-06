@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export MD to DOTX
 description: Convert MD to DOTX within C++ applications.
-url: /cpp/conversion/md-to-dotx/
+url_ignore: /cpp/conversion/md-to-dotx/
 family: total
 platformtag: cpp
 feature: conversion

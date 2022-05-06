@@ -1,7 +1,7 @@
 ---
 title: Convert FLATOPC to ODP via C++
 description: Export FLATOPC to ODP in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/flatopc-to-odp/
+url_ignore: /cpp/conversion/flatopc-to-odp/
 family: total
 platformtag: cpp
 feature: conversion

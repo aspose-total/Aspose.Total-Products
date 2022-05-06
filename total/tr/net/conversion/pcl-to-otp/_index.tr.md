@@ -1,7 +1,7 @@
 ---
 title: PCL'yi C# API aracılığıyla OTP'ye aktarın
 description: Microsoft Word kullanmadan PCL'yi OTP'ye dönüştürmek için .NET API
-url: /tr/net/conversion/pcl-to-otp/
+url_ignore: /tr/net/conversion/pcl-to-otp/
 family: total
 platformtag: net
 feature: conversion

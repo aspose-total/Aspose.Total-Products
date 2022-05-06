@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export MD to DOT
 description: Convert MD to DOT within C++ applications.
-url: /cpp/conversion/md-to-dot/
+url_ignore: /cpp/conversion/md-to-dot/
 family: total
 platformtag: cpp
 feature: conversion

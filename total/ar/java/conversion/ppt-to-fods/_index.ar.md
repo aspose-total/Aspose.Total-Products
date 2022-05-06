@@ -1,7 +1,7 @@
 ---
 title: تحويل PPT إلى تنسيق FODS عبر Java
 description: قم بتحويل PPT إلى تنسيق FODS عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/ppt-to-fods/
+url_ignore: /ar/java/conversion/ppt-to-fods/
 family: total
 platformtag: net
 feature: conversion

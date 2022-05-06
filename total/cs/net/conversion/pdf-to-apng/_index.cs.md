@@ -1,7 +1,7 @@
 ---
 title: Převeďte PDF na APNG přes C# API
 description: Exportujte PDF do APNG ve svých aplikacích .NET bez použití jakékoli aplikace třetí strany
-url: /cs/net/conversion/pdf-to-apng/
+url_ignore: /cs/net/conversion/pdf-to-apng/
 family: total
 platformtag: net
 feature: conversion

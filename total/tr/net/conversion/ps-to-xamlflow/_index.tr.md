@@ -1,7 +1,7 @@
 ---
 title: PS'yi XAMLFLOW'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan PS'yi XAMLFLOW'ye dönüştürün
-url: /tr/net/conversion/ps-to-xamlflow/
+url_ignore: /tr/net/conversion/ps-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

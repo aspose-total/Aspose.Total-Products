@@ -1,7 +1,7 @@
 ---
 title: 通过 Java 将 PPTX 转换为 DOTX
 description: 无需使用 Microsoft Word 或 PowerPoint 即可将 PPTX 导出为 DOTX 的 Java API
-url: /zh/java/conversion/pptx-to-dotx/
+url_ignore: /zh/java/conversion/pptx-to-dotx/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ otherformats: RTF FLATOPC WORDML TEXT DOTXM OTT DOT DOTM DOTX ODT DOTXX WORD
 {{% blocks/products/pf/agp/feature-section-col title="如何通过 Java 将 PPTX 转换为 DOTX" %}}
 1. 使用 [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) 类打开 PPTX 文件
 2. 使用 [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides) 将 PPTX 转换为 HTML。 ISaveOptions-) 方法并将 Html 设置为 SaveFormat
-3. 使用 [Dotxument](https://apireference.aspose.com/words/java/com.aspose.words/Document) 类加载转换后的 HTML 文件
-4. 使用 [save](https://apireference.aspose.com/words/java/com.aspose.words/Dotxument#save(java.lang.String,int)) 方法将文档保存为 DOTX 格式
+3. 使用 [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) 类加载转换后的 HTML 文件
+4. 使用 [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) 方法将文档保存为 DOTX 格式
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
 对于 PPTX 到 DOTX 文件的转换，您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose 轻松使用 Aspose.Total for Java /aspose-total) 基于项目并在 pom.xml 中包含库。
@@ -34,7 +34,7 @@ otherformats: RTF FLATOPC WORDML TEXT DOTXM OTT DOT DOTM DOTX ODT DOTXX WORD
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="转换要求" %}}/com.aspose.words/Document)
-使用 API，您还可以执行 PPTX 文件到带有水印的 DOTX 转换。为了给您的 DOTX 文档添加水印，您可以先将 PPTX 文件转换为 HTML 并为其添加水印。为了添加水印，使用 [Dotxument](https://apireference.aspose.com/words/java/com.aspose.words/Dotxument) 类加载新创建的 HTML 文件，创建 TextWatermarkOptions 的实例并设置它的属性，调用 Watermark.setText 方法并传递水印文本和 TextWatermarkOptions 的对象。  
+使用 API，您还可以执行 PPTX 文件到带有水印的 DOTX 转换。为了给您的 DOTX 文档添加水印，您可以先将 PPTX 文件转换为 HTML 并为其添加水印。为了添加水印，使用 [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) 类加载新创建的 HTML 文件，创建 TextWatermarkOptions 的实例并设置它的属性，调用 Watermark.setText 方法并传递水印文本和 TextWatermarkOptions 的对象。  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}

@@ -1,7 +1,7 @@
 ---
 title: Export PDF to PPS via C# API
 description: .NET API to Convert PDF to PPS without using Microsoft Word
-url: /net/conversion/pdf-to-pps/
+url_ignore: /net/conversion/pdf-to-pps/
 family: total
 platformtag: net
 feature: conversion

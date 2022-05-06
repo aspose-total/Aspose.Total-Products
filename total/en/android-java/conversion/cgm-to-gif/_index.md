@@ -1,7 +1,7 @@
 ---
 title: Android API to Render CGM to GIF
 description: Transform CGM to GIF via Android via Java API
-url: /android-java/conversion/cgm-to-gif/
+url_ignore: /android-java/conversion/cgm-to-gif/
 family: total
 platformtag: android-java
 feature: conversion

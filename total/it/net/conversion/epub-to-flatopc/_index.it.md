@@ -1,7 +1,7 @@
 ---
 title: API C# per esportare EPUB in FLATOPC
 description: Converti EPUB in FLATOPC senza utilizzare Microsoft Word
-url: /it/net/conversion/epub-to-flatopc/
+url_ignore: /it/net/conversion/epub-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

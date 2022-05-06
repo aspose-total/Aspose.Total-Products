@@ -1,7 +1,7 @@
 ---
 title: Convertir PCL en PSD via l'API C#
 description: Exportez PCL vers PSD dans vos applications .NET sans utiliser d'application tierce
-url: /fr/net/conversion/pcl-to-psd/
+url_ignore: /fr/net/conversion/pcl-to-psd/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: SVGZ WMF PSD WMZ EMZ TGA JPEG2000 DXF  IMAGE DICOM
 {{< blocks/products/pf/i18n/feature-page-header h1="Convertir le fichier PCL en PSD via C#" h2="Exportez PCL vers PSD dans les applications .NET sans utiliser Adobe<sup>&reg;</sup> Acrobat Reader ou toute autre application tierce" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), vous pouvez facilement exporter une image PCL vers PSD dans n'importe quelle application .NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.PDF pour .NET](https://products.aspose.com/pdf/net/), vous pouvez exporter PCL au format JPEG. Après cela, en utilisant l'API de traitement d'image [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/), vous pouvez convertir JPEG en PSD.
+En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez facilement exporter une image PCL vers PSD dans n'importe quelle application .NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), vous pouvez exporter PCL au format JPEG. Après cela, en utilisant l'API de traitement d'image [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/), vous pouvez convertir JPEG en PSD.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

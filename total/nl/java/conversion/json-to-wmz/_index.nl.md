@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar WMZ via Java
 description: JSON ontleden naar WMZ in Java zonder Microsoft PowerPoint te gebruiken
-url: /nl/java/conversion/json-to-wmz/
+url_ignore: /nl/java/conversion/json-to-wmz/
 family: total
 platformtag: net
 feature: conversion

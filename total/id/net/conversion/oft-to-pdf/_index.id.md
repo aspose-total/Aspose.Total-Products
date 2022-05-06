@@ -1,7 +1,7 @@
 ---
 title: C# API untuk Mengekspor OFT ke PDF
 description: Konversi OFT ke PDF tanpa menggunakan Microsoft Word atau Outlook di .NET
-url: /id/net/conversion/oft-to-pdf/
+url_ignore: /id/net/conversion/oft-to-pdf/
 family: total
 platformtag: net
 feature: conversion

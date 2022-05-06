@@ -1,7 +1,7 @@
 ---
 title: PPTX'u C# ile DIF'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan PPTX'u C#'ta DIF'ye dönüştürün
-url: /tr/net/conversion/pptx-to-dif/
+url_ignore: /tr/net/conversion/pptx-to-dif/
 family: total
 platformtag: net
 feature: conversion

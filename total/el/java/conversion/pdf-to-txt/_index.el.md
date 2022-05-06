@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση PDF σε TXT
 description: Εξαγωγή PDF σε TXT μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/pdf-to-txt/
+url_ignore: /el/java/conversion/pdf-to-txt/
 family: total
 platformtag: net
 feature: conversion

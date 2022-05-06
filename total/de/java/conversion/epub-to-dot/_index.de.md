@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Exportieren von EPUB nach DOT
 description: Konvertieren Sie EPUB mithilfe der lokalen Java-API in DOT
-url: /de/java/conversion/epub-to-dot/
+url_ignore: /de/java/conversion/epub-to-dot/
 family: total
 platformtag: net
 feature: conversion

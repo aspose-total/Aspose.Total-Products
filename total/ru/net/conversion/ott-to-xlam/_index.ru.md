@@ -1,7 +1,7 @@
 ---
 title: .NET API для преобразования OTT в XLAM
 description: C# API для преобразования OTT в XLAM без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/ott-to-xlam/
+url_ignore: /ru/net/conversion/ott-to-xlam/
 family: total
 platformtag: net
 feature: conversion

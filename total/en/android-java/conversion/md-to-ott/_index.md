@@ -1,7 +1,7 @@
 ---
 title: Android API to Render MD to OTT
 description: Transform MD to OTT via Android via Java API
-url: /android-java/conversion/md-to-ott/
+url_ignore: /android-java/conversion/md-to-ott/
 family: total
 platformtag: android-java
 feature: conversion

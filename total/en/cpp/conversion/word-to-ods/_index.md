@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to ODS in C++
 description: C++ API to Convert WORD to ODS without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/word-to-ods/
+url_ignore: /cpp/conversion/word-to-ods/
 family: total
 platformtag: cpp
 feature: conversion

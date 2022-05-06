@@ -1,7 +1,7 @@
 ---
 title: MHTMLをXAMLFLOWにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してMHTMLをXAMLFLOWに変換する
-url: /ja/java/conversion/mhtml-to-xamlflow/
+url_ignore: /ja/java/conversion/mhtml-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

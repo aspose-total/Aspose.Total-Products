@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla PCL'yi XLT'ye dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan PCL Dosyasını XLT'ye Dönüştürmek için C# API'si
-url: /tr/net/conversion/pcl-to-xlt/
+url_ignore: /tr/net/conversion/pcl-to-xlt/
 family: total
 platformtag: net
 feature: conversion

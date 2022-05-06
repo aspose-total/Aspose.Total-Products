@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก OFT ไปยัง RTF
 description: แปลง OFT เป็น RTF โดยไม่ต้องใช้ Microsoft Word หรือ Outlook บน .NET
-url: /th/net/conversion/oft-to-rtf/
+url_ignore: /th/net/conversion/oft-to-rtf/
 family: total
 platformtag: net
 feature: conversion

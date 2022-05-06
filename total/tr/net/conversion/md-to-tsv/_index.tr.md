@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla MD'yi TSV'ye dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan MD Dosyasını TSV'ye Dönüştürmek için C# API'si
-url: /tr/net/conversion/md-to-tsv/
+url_ignore: /tr/net/conversion/md-to-tsv/
 family: total
 platformtag: net
 feature: conversion

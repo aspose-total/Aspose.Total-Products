@@ -1,7 +1,7 @@
 ---
 title: Export EMAIL to EMF via C++
 description: C++ API to Convert EMAIL to EMF without using Microsoft Word or Outlook
-url: /cpp/conversion/email-to-emf/
+url_ignore: /cpp/conversion/email-to-emf/
 family: total
 platformtag: cpp
 feature: conversion

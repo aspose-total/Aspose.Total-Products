@@ -1,7 +1,7 @@
 ---
 title: Export XPS do PPSX přes C# API
 description: .NET API pro převod XPS na PPSX bez použití aplikace Microsoft Word
-url: /cs/net/conversion/xps-to-ppsx/
+url_ignore: /cs/net/conversion/xps-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

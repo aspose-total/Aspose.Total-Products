@@ -1,7 +1,7 @@
 ---
 title: Převést PDF na DICOM přes Java
 description: Exportujte soubor PDF do DICOM ve svých aplikacích Java bez použití jakékoli aplikace třetí strany
-url: /cs/java/conversion/pdf-to-dicom/
+url_ignore: /cs/java/conversion/pdf-to-dicom/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert RTF to SXC
 description: Convert RTF to SXC in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/rtf-to-sxc/
+url_ignore: /android-java/conversion/rtf-to-sxc/
 family: total
 platformtag: android-java
 feature: conversion

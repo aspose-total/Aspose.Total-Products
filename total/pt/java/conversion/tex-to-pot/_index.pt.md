@@ -1,7 +1,7 @@
 ---
 title: Converter TEX para POT via API Java
 description: API Java para converter TEX para POT sem usar o Microsoft Word
-url: /pt/java/conversion/tex-to-pot/
+url_ignore: /pt/java/conversion/tex-to-pot/
 family: total
 platformtag: net
 feature: conversion

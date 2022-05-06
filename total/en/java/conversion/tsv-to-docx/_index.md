@@ -1,7 +1,7 @@
 ---
 title: Convert TSV to DOCX using Java 
 description: Java API to Export TSV to DOCX with using Excel or Word 
-url: /java/conversion/tsv-to-docx/
+url_ignore: /java/conversion/tsv-to-docx/
 family: total
 platformtag: java
 feature: conversion

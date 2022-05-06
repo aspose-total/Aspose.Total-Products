@@ -1,7 +1,7 @@
 ---
 title: Převeďte XML na OTP přes Java API
 description: Java API pro převod XML na OTP bez použití aplikace Microsoft Word
-url: /cs/java/conversion/xml-to-otp/
+url_ignore: /cs/java/conversion/xml-to-otp/
 family: total
 platformtag: net
 feature: conversion

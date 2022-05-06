@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi định dạng JSON sang POTM qua Java
 description: Phân tích cú pháp JSON thành POTM trong Java mà không cần sử dụng Microsoft PowerPoint
-url: /vi/java/conversion/json-to-potm/
+url_ignore: /vi/java/conversion/json-to-potm/
 family: total
 platformtag: net
 feature: conversion

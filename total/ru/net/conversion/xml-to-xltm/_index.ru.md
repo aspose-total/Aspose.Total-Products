@@ -1,7 +1,7 @@
 ---
 title: Преобразование XML в XLTM через C# API
 description: C# API для преобразования файла XML в XLTM без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/xml-to-xltm/
+url_ignore: /ru/net/conversion/xml-to-xltm/
 family: total
 platformtag: net
 feature: conversion

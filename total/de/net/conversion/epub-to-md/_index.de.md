@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie EPUB über die C#-API in MD
 description: C#-API zum Konvertieren von EPUB-Dateien in MD ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/epub-to-md/
+url_ignore: /de/net/conversion/epub-to-md/
 family: total
 platformtag: net
 feature: conversion

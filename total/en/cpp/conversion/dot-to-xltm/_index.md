@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to XLTM in C++
 description: C++ API to Convert DOT to XLTM without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/dot-to-xltm/
+url_ignore: /cpp/conversion/dot-to-xltm/
 family: total
 platformtag: cpp
 feature: conversion

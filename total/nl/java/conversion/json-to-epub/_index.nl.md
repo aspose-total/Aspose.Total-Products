@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-formaat naar EPUB via Java
 description: JSON ontleden naar EPUB in Java zonder Microsoft Word te gebruiken
-url: /nl/java/conversion/json-to-epub/
+url_ignore: /nl/java/conversion/json-to-epub/
 family: total
 platformtag: net
 feature: conversion

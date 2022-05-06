@@ -1,7 +1,7 @@
 ---
 title: MDをMARKDOWNにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してMDをMARKDOWNに変換する
-url: /ja/java/conversion/md-to-markdown/
+url_ignore: /ja/java/conversion/md-to-markdown/
 family: total
 platformtag: net
 feature: conversion

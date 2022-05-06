@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi định dạng JSON sang POT qua .NET
 description: Phân tích cú pháp JSON thành POT trong C# mà không cần sử dụng Microsoft PowerPoint
-url: /vi/net/conversion/json-to-pot/
+url_ignore: /vi/net/conversion/json-to-pot/
 family: total
 platformtag: net
 feature: conversion

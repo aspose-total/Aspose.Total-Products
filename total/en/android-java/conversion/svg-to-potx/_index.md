@@ -1,7 +1,7 @@
 ---
 title: Export SVG to POTX in Android 
 description: Android API to Convert SVG to POTX without using Microsoft Word
-url: /android-java/conversion/svg-to-potx/
+url_ignore: /android-java/conversion/svg-to-potx/
 family: total
 platformtag: android-java
 feature: conversion

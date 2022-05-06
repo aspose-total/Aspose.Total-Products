@@ -1,7 +1,7 @@
 ---
 title: Converter MD para XAML via API Java
 description: API Java para converter MD para XAML sem usar o Microsoft Word
-url: /pt/java/conversion/md-to-xaml/
+url_ignore: /pt/java/conversion/md-to-xaml/
 family: total
 platformtag: net
 feature: conversion

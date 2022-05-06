@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie POTM über C# in SXC
 description: Konvertieren Sie POTM in C# in SXC, ohne Microsoft Excel oder Powerpoint zu verwenden
-url: /de/net/conversion/potm-to-sxc/
+url_ignore: /de/net/conversion/potm-to-sxc/
 family: total
 platformtag: net
 feature: conversion

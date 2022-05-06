@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई के माध्यम से सीजीएम को ओडीपी में निर्यात करें
 description: Microsoft Word का उपयोग किए बिना PDF को POTX में बदलने के लिए .NET API
-url: /hi/net/conversion/pdf-to-potx/
+url_ignore: /hi/net/conversion/pdf-to-potx/
 family: total
 platformtag: net
 feature: conversion

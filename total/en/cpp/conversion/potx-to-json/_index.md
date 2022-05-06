@@ -1,7 +1,7 @@
 ---
 title: Convert POTX to JSON format via C++ 
 description: Export POTX to JSON format in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/potx-to-json/
+url_ignore: /cpp/conversion/potx-to-json/
 family: total
 platformtag: cpp
 feature: conversion

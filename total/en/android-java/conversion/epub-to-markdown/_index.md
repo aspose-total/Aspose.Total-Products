@@ -1,7 +1,7 @@
 ---
 title: Android API to Render EPUB to MARKDOWN
 description: Transform EPUB to MARKDOWN via Android via Java API
-url: /android-java/conversion/epub-to-markdown/
+url_ignore: /android-java/conversion/epub-to-markdown/
 family: total
 platformtag: android-java
 feature: conversion

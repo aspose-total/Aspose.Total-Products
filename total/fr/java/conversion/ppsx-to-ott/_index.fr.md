@@ -1,7 +1,7 @@
 ---
 title: Convertir PPSX en OTT via Java
 description: API Java pour exporter PPSX vers OTT sans utiliser Microsoft Word ou PowerPoint
-url: /fr/java/conversion/ppsx-to-ott/
+url_ignore: /fr/java/conversion/ppsx-to-ott/
 family: total
 platformtag: net
 feature: conversion
@@ -12,7 +12,7 @@ otherformats: WORDML RTF DOT OTT DOTM TEXT WORD OTTM FLATOPC ODT DOTX OTTX
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Convertir PPSX en OTT via Java" h2="API Java sur site pour la conversion PowerPoint PPSX en OTT dans toutes les applications Java J2SE, J2EE, J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total pour Java](https://products.aspose.com/total/java/) Les bibliothèques d'automatisation du format de fichier permettent aux développeurs Java d'automatiser le processus de conversion par lots de PowerPoint PPSX en Word OTT. La conversion du document est un processus en deux étapes et implique l'utilisation de deux API. Nous utiliserons [Aspose.Slides for Java](https://products.aspose.com/slides/java/) qui est une API PowerPoint pour la manipulation et la gestion des présentations afin de convertir PPSX en HTML. Après cela, en utilisant l'API de traitement de texte riche en fonctionnalités [Aspose.Words pour Java](https://products.aspose.com/words/java/), nous convertirons le HTML en OTT.
+[Aspose.Total for Java](https://products.aspose.com/total/java/) Les bibliothèques d'automatisation du format de fichier permettent aux développeurs Java d'automatiser le processus de conversion par lots de PowerPoint PPSX en Word OTT. La conversion du document est un processus en deux étapes et implique l'utilisation de deux API. Nous utiliserons [Aspose.Slides for Java](https://products.aspose.com/slides/java/) qui est une API PowerPoint pour la manipulation et la gestion des présentations afin de convertir PPSX en HTML. Après cela, en utilisant l'API de traitement de texte riche en fonctionnalités [Aspose.Words for Java](https://products.aspose.com/words/java/), nous convertirons le HTML en OTT.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Comment convertir PPSX en OTT via Java" %}}

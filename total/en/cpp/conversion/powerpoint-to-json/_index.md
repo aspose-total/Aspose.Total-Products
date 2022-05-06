@@ -1,7 +1,7 @@
 ---
 title: Convert POWERPOINT to JSON format via C++ 
 description: Export POWERPOINT to JSON format in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/powerpoint-to-json/
+url_ignore: /cpp/conversion/powerpoint-to-json/
 family: total
 platformtag: cpp
 feature: conversion

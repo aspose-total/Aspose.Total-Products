@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXMLをPPSXにエクスポートする
 description: MicrosoftWordを使用せずにXMLをPPSXに変換する.NETAPI
-url: /ja/net/conversion/xml-to-ppsx/
+url_ignore: /ja/net/conversion/xml-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

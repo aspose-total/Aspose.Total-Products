@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi POWERPOINT sang XLTX qua C#
 description: Chuyển đổi POWERPOINT sang XLTX trong C# mà không cần sử dụng Microsoft Excel hoặc Powerpoint
-url: /vi/net/conversion/powerpoint-to-xltx/
+url_ignore: /vi/net/conversion/powerpoint-to-xltx/
 family: total
 platformtag: net
 feature: conversion

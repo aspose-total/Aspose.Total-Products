@@ -1,7 +1,7 @@
 ---
 title: PCL'yi RTF'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan PCL'yi RTF'ye dönüştürün
-url: /tr/net/conversion/pcl-to-rtf/
+url_ignore: /tr/net/conversion/pcl-to-rtf/
 family: total
 platformtag: net
 feature: conversion

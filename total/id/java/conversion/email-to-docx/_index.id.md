@@ -1,7 +1,7 @@
 ---
 title: Ekspor EMAIL ke DOCX melalui Java
 description: Java API untuk Mengonversi EMAIL ke DOCX tanpa menggunakan Microsoft Word atau Outlook
-url: /id/java/conversion/email-to-docx/
+url_ignore: /id/java/conversion/email-to-docx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Android API to Render CGM to ODT
 description: Transform CGM to ODT via Android via Java API
-url: /android-java/conversion/cgm-to-odt/
+url_ignore: /android-java/conversion/cgm-to-odt/
 family: total
 platformtag: android-java
 feature: conversion

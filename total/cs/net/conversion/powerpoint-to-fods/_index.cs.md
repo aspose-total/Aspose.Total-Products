@@ -1,7 +1,7 @@
 ---
 title: Převést POWERPOINT na FODS přes C#
 description: Převeďte POWERPOINT na FODS v C# bez použití Microsoft Excel nebo Powerpoint
-url: /cs/net/conversion/powerpoint-to-fods/
+url_ignore: /cs/net/conversion/powerpoint-to-fods/
 family: total
 platformtag: net
 feature: conversion

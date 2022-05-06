@@ -1,7 +1,7 @@
 ---
 title: .NET API untuk Mengonversi WORD ke FODS
 description: C# API untuk Mengonversi WORD ke FODS tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/net/conversion/word-to-fods/
+url_ignore: /id/net/conversion/word-to-fods/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Tambahkan Properti Kustom dalam File FODS melalui C#" %}}
 Saat mengonversi WORD ke FODS, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) memungkinkan Anda menambahkan properti khusus di dokumen FODS Anda. Untuk menambahkan properti kustom, Anda dapat menggunakan metode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) untuk [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) kelas. Metode Add menambahkan properti ke file Excel dan mengembalikan referensi untuk properti dokumen baru sebagai [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /documentproperty) objek. 
 {{% blocks/products/pf/feature-page-code %}}

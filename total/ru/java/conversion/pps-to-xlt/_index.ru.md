@@ -1,7 +1,7 @@
 ---
 title: Преобразование PPS в формат XLT через Java
 description: Преобразуйте формат PPS в XLT через Java без использования Microsoft Excel или PowerPoint.
-url: /ru/java/conversion/pps-to-xlt/
+url_ignore: /ru/java/conversion/pps-to-xlt/
 family: total
 platformtag: net
 feature: conversion

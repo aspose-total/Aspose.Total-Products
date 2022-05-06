@@ -1,7 +1,7 @@
 ---
 title: API C# per esportare OFT in EPUB
 description: Converti OFT in EPUB senza utilizzare Microsoft Word o Outlook su .NET
-url: /it/net/conversion/oft-to-epub/
+url_ignore: /it/net/conversion/oft-to-epub/
 family: total
 platformtag: net
 feature: conversion

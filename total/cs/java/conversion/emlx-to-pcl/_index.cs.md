@@ -1,7 +1,7 @@
 ---
 title: Export EMLX do PCL přes Java
 description: Java API pro převod EMLX do PCL bez použití Microsoft Word nebo Outlook
-url: /cs/java/conversion/emlx-to-pcl/
+url_ignore: /cs/java/conversion/emlx-to-pcl/
 family: total
 platformtag: net
 feature: conversion

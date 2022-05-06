@@ -1,7 +1,7 @@
 ---
 title: Xuất PDF sang POT qua C# API
 description: .NET API để chuyển đổi PDF sang POT mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/pdf-to-pot/
+url_ignore: /vi/net/conversion/pdf-to-pot/
 family: total
 platformtag: net
 feature: conversion

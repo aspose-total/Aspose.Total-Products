@@ -1,7 +1,7 @@
 ---
 title: تحويل PPTX إلى تنسيق XLAM عبر Java
 description: قم بتحويل PPTX إلى تنسيق XLAM عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/pptx-to-xlam/
+url_ignore: /ar/java/conversion/pptx-to-xlam/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert OTT to PPSX via C++
 description: Export OTT to PPSX in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/ott-to-ppsx/
+url_ignore: /cpp/conversion/ott-to-ppsx/
 family: total
 platformtag: cpp
 feature: conversion

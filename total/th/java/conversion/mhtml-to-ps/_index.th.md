@@ -1,7 +1,7 @@
 ---
 title: Java API เพื่อส่งออก MHTML ไปยัง PS
 description: แปลง MHTML เป็น PS โดยใช้ Java API . ในตัว
-url: /th/java/conversion/mhtml-to-ps/
+url_ignore: /th/java/conversion/mhtml-to-ps/
 family: total
 platformtag: net
 feature: conversion

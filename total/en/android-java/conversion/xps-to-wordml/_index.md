@@ -1,7 +1,7 @@
 ---
 title: Android API to Render XPS to WORDML
 description: Transform XPS to WORDML via Android via Java API
-url: /android-java/conversion/xps-to-wordml/
+url_ignore: /android-java/conversion/xps-to-wordml/
 family: total
 platformtag: android-java
 feature: conversion

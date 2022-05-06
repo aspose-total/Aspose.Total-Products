@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Exportieren von PCL nach PS
 description: Konvertieren Sie PCL mithilfe der lokalen Java-API in PS
-url: /de/java/conversion/pcl-to-ps/
+url_ignore: /de/java/conversion/pcl-to-ps/
 family: total
 platformtag: net
 feature: conversion

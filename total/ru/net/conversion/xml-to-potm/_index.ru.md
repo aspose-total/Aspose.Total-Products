@@ -1,7 +1,7 @@
 ---
 title: Экспорт XML в POTM через C# API
 description: .NET API для преобразования XML в POTM без использования Microsoft Word
-url: /ru/net/conversion/xml-to-potm/
+url_ignore: /ru/net/conversion/xml-to-potm/
 family: total
 platformtag: net
 feature: conversion

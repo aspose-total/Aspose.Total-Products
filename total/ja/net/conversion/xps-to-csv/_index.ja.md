@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXPSをCSVに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにXPSファイルをCSVに変換するC＃API
-url: /ja/net/conversion/xps-to-csv/
+url_ignore: /ja/net/conversion/xps-to-csv/
 family: total
 platformtag: net
 feature: conversion

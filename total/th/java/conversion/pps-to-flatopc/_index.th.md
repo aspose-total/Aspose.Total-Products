@@ -1,7 +1,7 @@
 ---
 title: แปลง PPS เป็น FLATOPC ผ่าน Java
 description: Java API เพื่อส่งออก PPS เป็น FLATOPC โดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint
-url: /th/java/conversion/pps-to-flatopc/
+url_ignore: /th/java/conversion/pps-to-flatopc/
 family: total
 platformtag: net
 feature: conversion
@@ -29,14 +29,16 @@ otherformats: OTT FLATOPCX DOTM DOT FLATOPC ODT WORD WORDML DOTX TEXT RTF FLATOP
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="ข้อกำหนดการแปลง" %}}
 เมื่อใช้ API คุณยังสามารถทำการแปลงไฟล์ PPS เป็น FLATOPC ด้วยลายน้ำ ในการเพิ่มลายน้ำให้กับเอกสาร FLATOPC ของคุณ ก่อนอื่นให้แปลงไฟล์ PPS เป็น HTML และเพิ่มลายน้ำลงไป ในการเพิ่มลายน้ำ ให้โหลดไฟล์ HTML ที่สร้างขึ้นใหม่โดยใช้คลาส [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument) สร้างอินสแตนซ์ของ TextWatermarkOptions และตั้งค่า คุณสมบัติของมัน วิธี Call Watermark.setText และส่งข้อความลายน้ำ & วัตถุของ TextWatermarkOptions  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

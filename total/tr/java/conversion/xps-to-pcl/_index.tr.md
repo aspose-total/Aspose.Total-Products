@@ -1,7 +1,7 @@
 ---
 title: XPS'yi PCL'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak XPS'yi PCL'ye dönüştürün
-url: /tr/java/conversion/xps-to-pcl/
+url_ignore: /tr/java/conversion/xps-to-pcl/
 family: total
 platformtag: net
 feature: conversion

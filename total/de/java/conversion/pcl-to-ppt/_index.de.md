@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie PCL über die Java-API in PPT
 description: Java-API zum Konvertieren von PCL in PPT ohne Verwendung von Microsoft Word
-url: /de/java/conversion/pcl-to-ppt/
+url_ignore: /de/java/conversion/pcl-to-ppt/
 family: total
 platformtag: net
 feature: conversion

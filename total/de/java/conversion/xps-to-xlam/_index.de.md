@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Rendern von XPS in XLAM
 description: Exportieren Sie XPS über die Java-API in XLAM, ohne Microsoft Excel oder Adobe Reader zu verwenden
-url: /de/java/conversion/xps-to-xlam/
+url_ignore: /de/java/conversion/xps-to-xlam/
 family: total
 platformtag: net
 feature: conversion

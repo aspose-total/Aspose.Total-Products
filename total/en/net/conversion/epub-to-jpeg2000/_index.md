@@ -1,7 +1,7 @@
 ---
 title: Convert EPUB to JPEG2000 via C# API
 description: Export EPUB to JPEG2000 in your .NET applications without using any third party application 
-url: /net/conversion/epub-to-jpeg2000/
+url_ignore: /net/conversion/epub-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XML to SWF  
 description: Convert XML to SWF via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xml-to-swf/
+url_ignore: /cpp/conversion/xml-to-swf/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to PSD via Java
 description: Export MHTML file to PSD  in your Java applications without using any third party application 
-url: /java/conversion/mhtml-to-psd/
+url_ignore: /java/conversion/mhtml-to-psd/
 family: total
 platformtag: java
 feature: conversion

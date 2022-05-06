@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar PPS via .NET
 description: JSON ontleden naar PPS in C# zonder Microsoft PowerPoint te gebruiken
-url: /nl/net/conversion/json-to-pps/
+url_ignore: /nl/net/conversion/json-to-pps/
 family: total
 platformtag: net
 feature: conversion

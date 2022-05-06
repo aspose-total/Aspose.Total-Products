@@ -1,7 +1,7 @@
 ---
 title: Convert DOC to PPSM in Android via Java
 description: DOC to PPSM conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/doc-to-ppsm/
+url_ignore: /android-java/conversion/doc-to-ppsm/
 family: total
 platformtag: android-java
 feature: conversion

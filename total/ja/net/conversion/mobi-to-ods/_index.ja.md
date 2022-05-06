@@ -1,7 +1,7 @@
 ---
 title: MOBIをODSに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにMOBIをODSに変換するC＃API
-url: /ja/net/conversion/mobi-to-ods/
+url_ignore: /ja/net/conversion/mobi-to-ods/
 family: total
 platformtag: net
 feature: conversion

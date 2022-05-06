@@ -1,7 +1,7 @@
 ---
 title: CGM'yi DOT'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan CGM'yi DOT'ye dönüştürün
-url: /tr/net/conversion/cgm-to-dot/
+url_ignore: /tr/net/conversion/cgm-to-dot/
 family: total
 platformtag: net
 feature: conversion

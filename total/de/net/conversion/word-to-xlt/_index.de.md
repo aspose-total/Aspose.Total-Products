@@ -1,7 +1,7 @@
 ---
 title: .NET-API zum Konvertieren von WORD in XLT
 description: C#-API zum Konvertieren von WORD in XLT ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/word-to-xlt/
+url_ignore: /de/net/conversion/word-to-xlt/
 family: total
 platformtag: net
 feature: conversion

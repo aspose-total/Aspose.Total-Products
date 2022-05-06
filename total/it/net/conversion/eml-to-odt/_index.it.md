@@ -1,7 +1,7 @@
 ---
 title: API C# per esportare EML in ODT
 description: Converti EML in ODT senza utilizzare Microsoft Word o Outlook su .NET
-url: /it/net/conversion/eml-to-odt/
+url_ignore: /it/net/conversion/eml-to-odt/
 family: total
 platformtag: net
 feature: conversion

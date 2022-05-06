@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга XSLFO в EXCEL
 description: Экспорт XSLFO в EXCEL через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/xslfo-to-excel/
+url_ignore: /ru/java/conversion/xslfo-to-excel/
 family: total
 platformtag: net
 feature: conversion

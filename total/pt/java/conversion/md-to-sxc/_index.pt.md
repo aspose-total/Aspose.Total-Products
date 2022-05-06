@@ -1,7 +1,7 @@
 ---
 title: API Java para renderizar MD para SXC
 description: Exporte MD para SXC via API Java sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/java/conversion/md-to-sxc/
+url_ignore: /pt/java/conversion/md-to-sxc/
 family: total
 platformtag: net
 feature: conversion

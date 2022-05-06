@@ -1,7 +1,7 @@
 ---
 title: Java経由でDOTMをPOTに変換する
 description: MicrosoftWordやPowerPointを使用せずにDOTMをPOTにエクスポートするJavaAPI
-url: /ja/java/conversion/dotm-to-pot/
+url_ignore: /ja/java/conversion/dotm-to-pot/
 family: total
 platformtag: net
 feature: conversion

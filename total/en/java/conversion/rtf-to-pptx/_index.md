@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to PPTX via Java
 description: Java API to Export RTF to PPTX without using Microsoft Word or PowerPoint
-url: /java/conversion/rtf-to-pptx/
+url_ignore: /java/conversion/rtf-to-pptx/
 family: total
 platformtag: java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API to Export PCL to DOTM
 description: Convert PCL to DOTM without using Microsoft Word
-url: /net/conversion/pcl-to-dotm/
+url_ignore: /net/conversion/pcl-to-dotm/
 family: total
 platformtag: net
 feature: conversion

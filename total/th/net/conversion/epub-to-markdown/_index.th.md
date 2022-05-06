@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก EPUB ไปยัง MARKDOWN
 description: แปลง EPUB เป็น MARKDOWN โดยไม่ต้องใช้ Microsoft Word
-url: /th/net/conversion/epub-to-markdown/
+url_ignore: /th/net/conversion/epub-to-markdown/
 family: total
 platformtag: net
 feature: conversion

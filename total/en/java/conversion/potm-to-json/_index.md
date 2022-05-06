@@ -1,7 +1,7 @@
 ---
 title: Convert POTM to JSON Format via Java
 description: Convert POTM to JSON format via Java without using using Microsoft Excel or PowerPoint
-url: /java/conversion/potm-to-json/
+url_ignore: /java/conversion/potm-to-json/
 family: total
 platformtag: java
 feature: conversion

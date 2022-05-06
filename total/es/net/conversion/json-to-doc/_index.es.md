@@ -1,7 +1,7 @@
 ---
 title: Convierta el formato JSON a DOC a través de .NET
 description: Analice JSON a DOC en C# sin usar Microsoft Word
-url: /es/net/conversion/json-to-doc/
+url_ignore: /es/net/conversion/json-to-doc/
 family: total
 platformtag: net
 feature: conversion

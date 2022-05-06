@@ -1,7 +1,7 @@
 ---
 title: Convierta XPS a DIF a través de la API de C#
 description: API C# para convertir archivos XPS a DIF sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/xps-to-dif/
+url_ignore: /es/net/conversion/xps-to-dif/
 family: total
 platformtag: net
 feature: conversion

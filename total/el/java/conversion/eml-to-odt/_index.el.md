@@ -1,7 +1,7 @@
 ---
 title: Εξαγωγή EML σε ODT μέσω Java
 description: Java API για μετατροπή EML σε ODT χωρίς χρήση του Microsoft Word ή του Outlook
-url: /el/java/conversion/eml-to-odt/
+url_ignore: /el/java/conversion/eml-to-odt/
 family: total
 platformtag: net
 feature: conversion

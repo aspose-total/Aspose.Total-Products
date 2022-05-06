@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení MHTML do FODS
 description: Export MHTML do FODS přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/mhtml-to-fods/
+url_ignore: /cs/java/conversion/mhtml-to-fods/
 family: total
 platformtag: net
 feature: conversion

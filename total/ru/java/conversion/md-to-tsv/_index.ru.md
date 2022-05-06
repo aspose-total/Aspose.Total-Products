@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга MD в TSV
 description: Экспорт MD в TSV через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/md-to-tsv/
+url_ignore: /ru/java/conversion/md-to-tsv/
 family: total
 platformtag: net
 feature: conversion

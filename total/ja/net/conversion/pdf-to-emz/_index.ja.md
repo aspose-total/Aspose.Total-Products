@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをEMZに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでPDFをEMZにエクスポートします
-url: /ja/net/conversion/pdf-to-emz/
+url_ignore: /ja/net/conversion/pdf-to-emz/
 family: total
 platformtag: net
 feature: conversion

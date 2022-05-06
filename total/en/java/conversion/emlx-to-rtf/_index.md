@@ -1,7 +1,7 @@
 ---
 title: Export EMLX to RTF via Java 
 description: Java API to Convert EMLX to RTF without using Microsoft Word or Outlook 
-url: /java/conversion/emlx-to-rtf/
+url_ignore: /java/conversion/emlx-to-rtf/
 family: total
 platformtag: java
 feature: conversion

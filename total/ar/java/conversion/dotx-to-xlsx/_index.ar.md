@@ -1,7 +1,7 @@
 ---
 title: Java API لتحويل DOTX إلى XLSX
 description: قم بتحويل DOTX إلى XLSX عبر Java دون استخدام Microsoft Word أو Microsoft Excel
-url: /ar/java/conversion/dotx-to-xlsx/
+url_ignore: /ar/java/conversion/dotx-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

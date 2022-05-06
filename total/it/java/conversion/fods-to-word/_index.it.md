@@ -1,7 +1,7 @@
 ---
 title: Converti FODS in WORD usando Java
 description: API Java per esportare FODS in WORD utilizzando Excel o Word
-url: /it/java/conversion/fods-to-word/
+url_ignore: /it/java/conversion/fods-to-word/
 family: total
 platformtag: net
 feature: conversion

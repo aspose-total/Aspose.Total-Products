@@ -1,7 +1,7 @@
 ---
 title: Exporteer EMAIL naar DOTX via Java
 description: Java API om EMAIL naar DOTX te converteren zonder Microsoft Word of Outlook te gebruiken
-url: /nl/java/conversion/email-to-dotx/
+url_ignore: /nl/java/conversion/email-to-dotx/
 family: total
 platformtag: net
 feature: conversion

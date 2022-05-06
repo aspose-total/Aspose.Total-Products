@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XPS to DIF
 description: Convert XPS to DIF via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xps-to-dif/
+url_ignore: /cpp/conversion/xps-to-dif/
 family: total
 platformtag: cpp
 feature: conversion

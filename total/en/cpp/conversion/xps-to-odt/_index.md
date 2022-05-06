@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export XPS to ODT
 description: Convert XPS to ODT within C++ applications.
-url: /cpp/conversion/xps-to-odt/
+url_ignore: /cpp/conversion/xps-to-odt/
 family: total
 platformtag: cpp
 feature: conversion

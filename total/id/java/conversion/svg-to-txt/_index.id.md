@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender SVG ke TXT
 description: Ekspor SVG ke TXT melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/svg-to-txt/
+url_ignore: /id/java/conversion/svg-to-txt/
 family: total
 platformtag: net
 feature: conversion

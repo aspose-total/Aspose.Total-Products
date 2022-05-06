@@ -1,7 +1,7 @@
 ---
 title: Convierta XSLFO a PPSM a través de la API de Java
 description: API de Java para convertir XSLFO a PPSM sin usar Microsoft Word
-url: /es/java/conversion/xslfo-to-ppsm/
+url_ignore: /es/java/conversion/xslfo-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPPSをEXCELに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPSをEXCELに変換する
-url: /ja/net/conversion/pps-to-excel/
+url_ignore: /ja/net/conversion/pps-to-excel/
 family: total
 platformtag: net
 feature: conversion

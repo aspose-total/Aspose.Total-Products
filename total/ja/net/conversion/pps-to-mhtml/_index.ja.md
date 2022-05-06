@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPPSをMHTMLに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPSをMHTMLに変換する
-url: /ja/net/conversion/pps-to-mhtml/
+url_ignore: /ja/net/conversion/pps-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

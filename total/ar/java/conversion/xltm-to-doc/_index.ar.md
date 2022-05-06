@@ -1,7 +1,7 @@
 ---
 title: تحويل XLTM إلى DOC باستخدام Java
 description: Java API لتصدير XLTM إلى DOC باستخدام Excel أو Word
-url: /ar/java/conversion/xltm-to-doc/
+url_ignore: /ar/java/conversion/xltm-to-doc/
 family: total
 platformtag: net
 feature: conversion

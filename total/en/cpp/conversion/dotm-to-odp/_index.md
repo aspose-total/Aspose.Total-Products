@@ -1,7 +1,7 @@
 ---
 title: Convert DOTM to ODP via C++
 description: Export DOTM to ODP in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/dotm-to-odp/
+url_ignore: /cpp/conversion/dotm-to-odp/
 family: total
 platformtag: cpp
 feature: conversion

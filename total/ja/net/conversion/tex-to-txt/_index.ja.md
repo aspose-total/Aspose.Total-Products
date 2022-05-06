@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してTEXをTXTに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにTEXファイルをTXTに変換するC＃API
-url: /ja/net/conversion/tex-to-txt/
+url_ignore: /ja/net/conversion/tex-to-txt/
 family: total
 platformtag: net
 feature: conversion

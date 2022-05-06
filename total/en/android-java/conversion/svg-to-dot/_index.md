@@ -1,7 +1,7 @@
 ---
 title: Android API to Render SVG to DOT
 description: Transform SVG to DOT via Android via Java API
-url: /android-java/conversion/svg-to-dot/
+url_ignore: /android-java/conversion/svg-to-dot/
 family: total
 platformtag: android-java
 feature: conversion

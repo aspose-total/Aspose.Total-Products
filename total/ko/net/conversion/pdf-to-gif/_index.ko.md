@@ -1,7 +1,7 @@
 ---
 title: PDF을 GIF으로 내보내기 위한 C# API
 description: Microsoft Word를 사용하지 않고 PDF을 GIF으로 변환
-url: /ko/net/conversion/pdf-to-gif/
+url_ignore: /ko/net/conversion/pdf-to-gif/
 family: total
 platformtag: net
 feature: conversion

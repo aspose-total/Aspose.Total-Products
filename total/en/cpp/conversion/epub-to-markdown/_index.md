@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export EPUB to MARKDOWN
 description: Convert EPUB to MARKDOWN within C++ applications.
-url: /cpp/conversion/epub-to-markdown/
+url_ignore: /cpp/conversion/epub-to-markdown/
 family: total
 platformtag: cpp
 feature: conversion

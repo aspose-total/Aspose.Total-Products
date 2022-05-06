@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをPSDに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでPDFをPSDにエクスポートします
-url: /ja/net/conversion/pdf-to-psd/
+url_ignore: /ja/net/conversion/pdf-to-psd/
 family: total
 platformtag: net
 feature: conversion

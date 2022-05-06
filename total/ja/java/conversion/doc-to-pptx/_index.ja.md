@@ -1,7 +1,7 @@
 ---
 title: Java経由でDOCをPPTXに変換する
 description: MicrosoftWordやPowerPointを使用せずにDOCをPPTXにエクスポートするJavaAPI
-url: /ja/java/conversion/doc-to-pptx/
+url_ignore: /ja/java/conversion/doc-to-pptx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API เพื่อส่งออก EPUB ไปยัง OTT
 description: แปลง EPUB เป็น OTT โดยใช้ Java API . ในตัว
-url: /th/java/conversion/epub-to-ott/
+url_ignore: /th/java/conversion/epub-to-ott/
 family: total
 platformtag: net
 feature: conversion

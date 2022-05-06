@@ -1,7 +1,7 @@
 ---
 title: Export MD to POT in Android 
 description: Android API to Convert MD to POT without using Microsoft Word
-url: /android-java/conversion/md-to-pot/
+url_ignore: /android-java/conversion/md-to-pot/
 family: total
 platformtag: android-java
 feature: conversion

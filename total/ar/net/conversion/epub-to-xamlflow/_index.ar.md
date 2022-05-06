@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير EPUB إلى XAMLFLOW
 description: تحويل EPUB إلى XAMLFLOW دون استخدام Microsoft Word
-url: /ar/net/conversion/epub-to-xamlflow/
+url_ignore: /ar/net/conversion/epub-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: PSをDOTにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにPSをDOTに変換する
-url: /ja/net/conversion/ps-to-dot/
+url_ignore: /ja/net/conversion/ps-to-dot/
 family: total
 platformtag: net
 feature: conversion

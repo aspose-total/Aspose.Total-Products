@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a JSON formátumot WORD-re Java segítségével
 description: Elemezze a JSON-t WORD-be Java-ban Microsoft Word használata nélkül
-url: /hu/java/conversion/json-to-word/
+url_ignore: /hu/java/conversion/json-to-word/
 family: total
 platformtag: net
 feature: conversion
@@ -17,14 +17,14 @@ Az [Aspose.Total for Java](https://products.aspose.com/total/java/) használatá
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertálja a JSON formátumot WORD-re Java segítségével" %}}
 1. Hozzon létre egy új [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) objektumot, és olvassa be az érvényes JSON-adatokat a fájlból
-2. Importálja a JSON-fájlt a munkalapra a [JsonUtility](https://apireference.aspose.com/cells/java/com.aspose.cells/JsonUtility) osztály és a [Mentés](https://apireference.aspose.com/) használatával cell/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) PDF formátumban
+2. Importálja a JSON-fájlt a munkalapra a [JsonUtility](https://apireference.aspose.com/cells/java/com.aspose.cells/JsonUtility) osztály és a [Save](https://apireference.aspose.com/) használatával cell/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) PDF formátumban
 3. Töltse be a PDF-dokumentumot a [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) osztály használatával
-4. Mentse a dokumentumot WORD formátumba a [Mentés](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) segítségével)) módszer
+4. Mentse a dokumentumot WORD formátumba a [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) segítségével)) módszer
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 Az Aspose.Total for Java könnyen használható közvetlenül [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) alapú projektből és vegyen fel könyvtárakat a pom.xml fájlba.
 
-Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads] webhelyről (https://downloads.aspose.com/total/java).
+Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

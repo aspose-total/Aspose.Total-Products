@@ -1,7 +1,7 @@
 ---
 title: Converti XSLFO in DICOM tramite API C#
 description: Esporta XSLFO in DICOM nelle tue applicazioni .NET senza utilizzare applicazioni di terze parti
-url: /it/net/conversion/xslfo-to-dicom/
+url_ignore: /it/net/conversion/xslfo-to-dicom/
 family: total
 platformtag: net
 feature: conversion

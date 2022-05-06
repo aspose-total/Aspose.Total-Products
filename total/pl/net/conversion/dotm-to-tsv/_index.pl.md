@@ -1,7 +1,7 @@
 ---
 title: .NET API do konwersji DOTM na TSV
 description: C# API do konwersji DOTM na TSV bez użycia Microsoft Excel lub Adobe Reader
-url: /pl/net/conversion/dotm-to-tsv/
+url_ignore: /pl/net/conversion/dotm-to-tsv/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ Możesz też pobrać instalator offline MSI lub biblioteki DLL w pliku ZIP ze st
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Dodaj niestandardowe właściwości w pliku TSV za pomocą C#" %}}
 Podczas konwertowania DOTM na TSV [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) umożliwia dodawanie niestandardowych właściwości w dokumentach TSV. Aby dodać niestandardową właściwość, możesz użyć metody [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection/methods/add/index) dla [CustomDotmumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection). Metoda Add dodaje właściwość do pliku Excel i zwraca odwołanie do nowej właściwości dokumentu jako [Aspose.Cells.Properties.DotmumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /dotmumentproperty). 
 {{% blocks/products/pf/feature-page-code %}}

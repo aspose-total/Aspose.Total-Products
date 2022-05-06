@@ -1,7 +1,7 @@
 ---
 title: PSをODTにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してPSをODTに変換する
-url: /ja/java/conversion/ps-to-odt/
+url_ignore: /ja/java/conversion/ps-to-odt/
 family: total
 platformtag: net
 feature: conversion

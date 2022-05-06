@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to POT via C++
 description: Export RTF to POT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/rtf-to-pot/
+url_ignore: /cpp/conversion/rtf-to-pot/
 family: total
 platformtag: cpp
 feature: conversion

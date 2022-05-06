@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PDF to WORDML
 description: Transform PDF to WORDML via Android via Java API
-url: /android-java/conversion/pdf-to-wordml/
+url_ignore: /android-java/conversion/pdf-to-wordml/
 family: total
 platformtag: android-java
 feature: conversion

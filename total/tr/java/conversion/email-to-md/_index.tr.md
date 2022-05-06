@@ -1,7 +1,7 @@
 ---
 title: EMAIL'i Java aracılığıyla MD'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan EMAIL'i MD'ye Dönüştürmek için Java API
-url: /tr/java/conversion/email-to-md/
+url_ignore: /tr/java/conversion/email-to-md/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení TEX do XLSM
 description: Export TEX do XLSM přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/tex-to-xlsm/
+url_ignore: /cs/java/conversion/tex-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

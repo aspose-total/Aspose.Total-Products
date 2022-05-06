@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert MOBI to SXC
 description: Convert MOBI to SXC in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/mobi-to-sxc/
+url_ignore: /android-java/conversion/mobi-to-sxc/
 family: total
 platformtag: android-java
 feature: conversion

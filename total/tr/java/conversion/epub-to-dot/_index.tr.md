@@ -1,7 +1,7 @@
 ---
 title: EPUB'yi DOT'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak EPUB'yi DOT'ye dönüştürün
-url: /tr/java/conversion/epub-to-dot/
+url_ignore: /tr/java/conversion/epub-to-dot/
 family: total
 platformtag: net
 feature: conversion

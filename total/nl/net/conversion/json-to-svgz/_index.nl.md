@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar SVGZ via .NET
 description: JSON ontleden naar SVGZ in C# zonder afhankelijkheden van derden te gebruiken
-url: /nl/net/conversion/json-to-svgz/
+url_ignore: /nl/net/conversion/json-to-svgz/
 family: total
 platformtag: net
 feature: conversion

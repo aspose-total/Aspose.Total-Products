@@ -1,7 +1,7 @@
 ---
 title: Java経由でEMLをDOCMにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにEMLをDOCMに変換するJavaAPI
-url: /ja/java/conversion/eml-to-docm/
+url_ignore: /ja/java/conversion/eml-to-docm/
 family: total
 platformtag: net
 feature: conversion

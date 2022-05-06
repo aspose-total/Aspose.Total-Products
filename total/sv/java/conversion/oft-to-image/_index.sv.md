@@ -1,7 +1,7 @@
 ---
 title: Exportera OFT till IMAGE via Java
 description: Java API för att konvertera OFT till IMAGE utan att använda Microsoft Word eller Outlook
-url: /sv/java/conversion/oft-to-image/
+url_ignore: /sv/java/conversion/oft-to-image/
 family: total
 platformtag: net
 feature: conversion

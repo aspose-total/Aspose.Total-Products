@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PDF to GIF
 description: Transform PDF to GIF via Android via Java API
-url: /android-java/conversion/pdf-to-gif/
+url_ignore: /android-java/conversion/pdf-to-gif/
 family: total
 platformtag: android-java
 feature: conversion

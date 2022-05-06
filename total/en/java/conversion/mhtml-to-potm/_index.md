@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to POTM via Java API
 description: Java API to Convert MHTML to POTM without using Microsoft Word
-url: /java/conversion/mhtml-to-potm/
+url_ignore: /java/conversion/mhtml-to-potm/
 family: total
 platformtag: java
 feature: conversion

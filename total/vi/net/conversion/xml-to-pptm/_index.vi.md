@@ -1,7 +1,7 @@
 ---
 title: Xuất XML sang PPTM qua C# API
 description: .NET API để chuyển đổi XML sang PPTM mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/xml-to-pptm/
+url_ignore: /vi/net/conversion/xml-to-pptm/
 family: total
 platformtag: net
 feature: conversion

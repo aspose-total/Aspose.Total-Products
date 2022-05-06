@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PCL to GIF
 description: Transform PCL to GIF via Android via Java API
-url: /android-java/conversion/pcl-to-gif/
+url_ignore: /android-java/conversion/pcl-to-gif/
 family: total
 platformtag: android-java
 feature: conversion

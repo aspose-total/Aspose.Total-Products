@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie POT über Java in ODT
 description: Java-API zum Exportieren von POT nach ODT, ohne Microsoft Word oder PowerPoint zu verwenden
-url: /de/java/conversion/pot-to-odt/
+url_ignore: /de/java/conversion/pot-to-odt/
 family: total
 platformtag: net
 feature: conversion

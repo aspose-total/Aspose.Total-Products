@@ -1,7 +1,7 @@
 ---
 title: Converter CGM para MD via API C#
 description: API C# para converter arquivo CGM em MD sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/cgm-to-md/
+url_ignore: /pt/net/conversion/cgm-to-md/
 family: total
 platformtag: net
 feature: conversion

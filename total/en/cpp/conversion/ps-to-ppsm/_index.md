@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PS to PPSM  
 description: Convert PS to PPSM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/ps-to-ppsm/
+url_ignore: /cpp/conversion/ps-to-ppsm/
 family: total
 platformtag: cpp
 feature: conversion

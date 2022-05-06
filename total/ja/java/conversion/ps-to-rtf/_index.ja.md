@@ -1,7 +1,7 @@
 ---
 title: PSをRTFにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してPSをRTFに変換する
-url: /ja/java/conversion/ps-to-rtf/
+url_ignore: /ja/java/conversion/ps-to-rtf/
 family: total
 platformtag: net
 feature: conversion

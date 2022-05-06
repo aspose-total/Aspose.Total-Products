@@ -1,7 +1,7 @@
 ---
 title: MOBIをXLTMに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにMOBIをXLTMに変換するC＃API
-url: /ja/net/conversion/mobi-to-xltm/
+url_ignore: /ja/net/conversion/mobi-to-xltm/
 family: total
 platformtag: net
 feature: conversion

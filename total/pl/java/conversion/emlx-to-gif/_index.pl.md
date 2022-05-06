@@ -1,7 +1,7 @@
 ---
 title: Eksportuj EMLX do GIF przez Java
 description: Java API do konwersji EMLX na GIF bez użycia Microsoft Word lub Outlook
-url: /pl/java/conversion/emlx-to-gif/
+url_ignore: /pl/java/conversion/emlx-to-gif/
 family: total
 platformtag: net
 feature: conversion

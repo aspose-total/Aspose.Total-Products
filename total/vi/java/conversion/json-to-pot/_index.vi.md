@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi định dạng JSON sang POT qua Java
 description: Phân tích cú pháp JSON thành POT trong Java mà không cần sử dụng Microsoft PowerPoint
-url: /vi/java/conversion/json-to-pot/
+url_ignore: /vi/java/conversion/json-to-pot/
 family: total
 platformtag: net
 feature: conversion

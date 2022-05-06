@@ -1,7 +1,7 @@
 ---
 title: POT'u C# ile SXC'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan POT'u C#'ta SXC'ye dönüştürün
-url: /tr/net/conversion/pot-to-sxc/
+url_ignore: /tr/net/conversion/pot-to-sxc/
 family: total
 platformtag: net
 feature: conversion

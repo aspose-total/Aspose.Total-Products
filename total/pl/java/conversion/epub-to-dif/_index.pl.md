@@ -1,7 +1,7 @@
 ---
 title: Java API do renderowania EPUB do DIF
 description: Eksportuj EPUB do DIF przez Java API bez użycia Microsoft Excel lub Adobe Reader
-url: /pl/java/conversion/epub-to-dif/
+url_ignore: /pl/java/conversion/epub-to-dif/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Převeďte SVG na DIF přes C# API
 description: C# API pro převod souboru SVG do DIF bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/svg-to-dif/
+url_ignore: /cs/net/conversion/svg-to-dif/
 family: total
 platformtag: net
 feature: conversion

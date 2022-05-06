@@ -1,7 +1,7 @@
 ---
 title: Convert DOTX to XLT via .NET 
 description: Convert DOTX to XLT in C# without using Microsoft Excel or Adobe Reader
-url: /net/conversion/dotx-to-xlt/
+url_ignore: /net/conversion/dotx-to-xlt/
 family: total
 platformtag: net
 feature: conversion

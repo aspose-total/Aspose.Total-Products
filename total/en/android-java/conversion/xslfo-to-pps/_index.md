@@ -1,7 +1,7 @@
 ---
 title: Export XSLFO to PPS in Android 
 description: Android API to Convert XSLFO to PPS without using Microsoft Word
-url: /android-java/conversion/xslfo-to-pps/
+url_ignore: /android-java/conversion/xslfo-to-pps/
 family: total
 platformtag: android-java
 feature: conversion

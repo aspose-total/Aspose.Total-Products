@@ -1,7 +1,7 @@
 ---
 title: Convert OTT to DIF in C++
 description: C++ API to Convert OTT to DIF without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/ott-to-dif/
+url_ignore: /cpp/conversion/ott-to-dif/
 family: total
 platformtag: cpp
 feature: conversion

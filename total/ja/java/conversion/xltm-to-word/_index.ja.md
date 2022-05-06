@@ -1,7 +1,7 @@
 ---
 title: Javaを使用してXLTMをWORDに変換する
 description: ExcelまたはWordを使用してXLTMをWORDにエクスポートするJavaAPI
-url: /ja/java/conversion/xltm-to-word/
+url_ignore: /ja/java/conversion/xltm-to-word/
 family: total
 platformtag: net
 feature: conversion

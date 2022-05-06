@@ -1,7 +1,7 @@
 ---
 title: Konvertera DOTX till POTM via Java
 description: Java API för att exportera DOTX till POTM utan att använda Microsoft Word eller PowerPoint
-url: /sv/java/conversion/dotx-to-potm/
+url_ignore: /sv/java/conversion/dotx-to-potm/
 family: total
 platformtag: net
 feature: conversion
@@ -16,8 +16,8 @@ Ofta måste utvecklare konvertera DOTX-fil till POTM programmatiskt. Genom att a
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hur man konverterar DOTX till POTM via Java" %}}
-1. Öppna DOTX-filen med klassen [Dotxument](https://apireference.aspose.com/words/java/com.aspose.words/Dotxument)
-2. Konvertera DOTX-fil till HTML genom att använda [save](https://apireference.aspose.com/words/java/com.aspose.words/Dotxument#save(java.lang.String,com.aspose.words.SaveOptions)) metod
+1. Öppna DOTX-filen med klassen [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. Konvertera DOTX-fil till HTML genom att använda [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metod
 3. Initiera ett nytt [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) objekt
 5. Extrahera innehåll från HTML-fil med BufferedReader och skriv innehållet i din presentationsfil
 6. Spara dokumentet till POTM med metoden [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

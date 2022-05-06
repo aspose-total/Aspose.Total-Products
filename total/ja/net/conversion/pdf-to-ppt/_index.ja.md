@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをPPTにエクスポートする
 description: MicrosoftWordを使用せずにPDFをPPTに変換する.NETAPI
-url: /ja/net/conversion/pdf-to-ppt/
+url_ignore: /ja/net/conversion/pdf-to-ppt/
 family: total
 platformtag: net
 feature: conversion

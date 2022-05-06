@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla MD'yi JPEG2000'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan MD dosyasını Java uygulamalarınızda JPEG2000'ye aktarın
-url: /tr/java/conversion/md-to-jpeg2000/
+url_ignore: /tr/java/conversion/md-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

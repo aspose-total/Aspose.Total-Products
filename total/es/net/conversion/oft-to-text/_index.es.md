@@ -1,7 +1,7 @@
 ---
 title: API de C# para exportar correo electrónico a TEXT
 description: Convierta OFT a TEXT sin usar Microsoft Word o Outlook en .NET
-url: /es/net/conversion/oft-to-text/
+url_ignore: /es/net/conversion/oft-to-text/
 family: total
 platformtag: net
 feature: conversion

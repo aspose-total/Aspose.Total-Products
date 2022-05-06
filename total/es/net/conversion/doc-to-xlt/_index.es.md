@@ -1,7 +1,7 @@
 ---
 title: API .NET para convertir DOC a XLT
 description: API de C# para convertir DOC a XLT sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/doc-to-xlt/
+url_ignore: /es/net/conversion/doc-to-xlt/
 family: total
 platformtag: net
 feature: conversion

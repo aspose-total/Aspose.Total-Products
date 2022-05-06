@@ -1,7 +1,7 @@
 ---
 title: Export CGM to PPT in Android 
 description: Android API to Convert CGM to PPT without using Microsoft Word
-url: /android-java/conversion/cgm-to-ppt/
+url_ignore: /android-java/conversion/cgm-to-ppt/
 family: total
 platformtag: android-java
 feature: conversion

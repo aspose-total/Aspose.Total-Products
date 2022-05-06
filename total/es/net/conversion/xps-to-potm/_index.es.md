@@ -1,7 +1,7 @@
 ---
 title: Exportar XPS a POTM a través de la API de C#
 description: .NET API para convertir XPS a POTM sin usar Microsoft Word
-url: /es/net/conversion/xps-to-potm/
+url_ignore: /es/net/conversion/xps-to-potm/
 family: total
 platformtag: net
 feature: conversion

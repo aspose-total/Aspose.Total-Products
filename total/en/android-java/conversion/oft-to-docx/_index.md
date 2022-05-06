@@ -1,7 +1,7 @@
 ---
 title: Render OFT to DOCX in Andorid App
 description: Export OFT to DOCX without using Microsoft Word or Outlook in you Andorid applications 
-url: /android-java/conversion/oft-to-docx/
+url_ignore: /android-java/conversion/oft-to-docx/
 family: total
 platformtag: android-java
 feature: conversion

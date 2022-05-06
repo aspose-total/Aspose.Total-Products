@@ -1,7 +1,7 @@
 ---
 title: MSG'i Java aracılığıyla XPS'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan MSG'i XPS'ye Dönüştürmek için Java API
-url: /tr/java/conversion/msg-to-xps/
+url_ignore: /tr/java/conversion/msg-to-xps/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MHTML to PPT  
 description: Convert MHTML to PPT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/mhtml-to-ppt/
+url_ignore: /cpp/conversion/mhtml-to-ppt/
 family: total
 platformtag: cpp
 feature: conversion

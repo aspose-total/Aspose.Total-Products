@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XML to PPS  
 description: Convert XML to PPS via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xml-to-pps/
+url_ignore: /cpp/conversion/xml-to-pps/
 family: total
 platformtag: cpp
 feature: conversion

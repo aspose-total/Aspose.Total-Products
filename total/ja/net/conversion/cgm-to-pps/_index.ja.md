@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してCGMをPPSにエクスポートする
 description: MicrosoftWordを使用せずにCGMをPPSに変換する.NETAPI
-url: /ja/net/conversion/cgm-to-pps/
+url_ignore: /ja/net/conversion/cgm-to-pps/
 family: total
 platformtag: net
 feature: conversion

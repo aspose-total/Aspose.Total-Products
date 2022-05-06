@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert SVG to XLTM
 description: Convert SVG to XLTM via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/svg-to-xltm/
+url_ignore: /cpp/conversion/svg-to-xltm/
 family: total
 platformtag: cpp
 feature: conversion

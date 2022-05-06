@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई सीजीएम को डीओसीएम में निर्यात करने के लिए
 description: Microsoft Word का उपयोग किए बिना PDF को DOTM में बदलें
-url: /hi/net/conversion/pdf-to-dotm/
+url_ignore: /hi/net/conversion/pdf-to-dotm/
 family: total
 platformtag: net
 feature: conversion

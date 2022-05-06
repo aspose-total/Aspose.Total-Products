@@ -1,7 +1,7 @@
 ---
 title: C# API pro export MHTML do PS
 description: Převeďte MHTML na PS bez použití aplikace Microsoft Word
-url: /cs/net/conversion/mhtml-to-ps/
+url_ignore: /cs/net/conversion/mhtml-to-ps/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API pro export TEX do OTT
 description: Převeďte TEX na OTT bez použití aplikace Microsoft Word
-url: /cs/net/conversion/tex-to-ott/
+url_ignore: /cs/net/conversion/tex-to-ott/
 family: total
 platformtag: net
 feature: conversion

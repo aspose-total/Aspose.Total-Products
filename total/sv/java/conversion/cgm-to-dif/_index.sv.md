@@ -1,7 +1,7 @@
 ---
 title: Java API för att rendera CGM till DIF
 description: Exportera CGM till DIF via Java API utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/java/conversion/cgm-to-dif/
+url_ignore: /sv/java/conversion/cgm-to-dif/
 family: total
 platformtag: net
 feature: conversion

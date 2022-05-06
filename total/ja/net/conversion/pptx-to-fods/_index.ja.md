@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPPTXをFODSに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPTXをFODSに変換する
-url: /ja/net/conversion/pptx-to-fods/
+url_ignore: /ja/net/conversion/pptx-to-fods/
 family: total
 platformtag: net
 feature: conversion

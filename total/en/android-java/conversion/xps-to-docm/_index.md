@@ -1,7 +1,7 @@
 ---
 title: Android API to Render XPS to DOCM
 description: Transform XPS to DOCM via Android via Java API
-url: /android-java/conversion/xps-to-docm/
+url_ignore: /android-java/conversion/xps-to-docm/
 family: total
 platformtag: android-java
 feature: conversion

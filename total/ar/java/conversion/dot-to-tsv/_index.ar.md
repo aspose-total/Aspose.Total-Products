@@ -1,7 +1,7 @@
 ---
 title: Java API لتحويل DOT إلى TSV
 description: قم بتحويل DOT إلى TSV عبر Java دون استخدام Microsoft Word أو Microsoft Excel
-url: /ar/java/conversion/dot-to-tsv/
+url_ignore: /ar/java/conversion/dot-to-tsv/
 family: total
 platformtag: net
 feature: conversion

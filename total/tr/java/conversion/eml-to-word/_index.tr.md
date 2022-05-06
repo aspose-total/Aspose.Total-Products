@@ -1,7 +1,7 @@
 ---
 title: EML'i Java aracılığıyla WORD'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan EML'i WORD'ye Dönüştürmek için Java API
-url: /tr/java/conversion/eml-to-word/
+url_ignore: /tr/java/conversion/eml-to-word/
 family: total
 platformtag: net
 feature: conversion

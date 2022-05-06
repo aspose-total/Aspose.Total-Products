@@ -1,7 +1,7 @@
 ---
 title: Převeďte TEX na PPSM přes Java API
 description: Java API pro převod TEX na PPSM bez použití aplikace Microsoft Word
-url: /cs/java/conversion/tex-to-ppsm/
+url_ignore: /cs/java/conversion/tex-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

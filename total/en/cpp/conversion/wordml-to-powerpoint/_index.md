@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to POWERPOINT via C++
 description: Export WORDML to POWERPOINT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/wordml-to-powerpoint/
+url_ignore: /cpp/conversion/wordml-to-powerpoint/
 family: total
 platformtag: cpp
 feature: conversion

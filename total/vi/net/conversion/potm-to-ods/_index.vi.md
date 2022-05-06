@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi POTM sang ODS qua C#
 description: Chuyển đổi POTM sang ODS trong C# mà không cần sử dụng Microsoft Excel hoặc Powerpoint
-url: /vi/net/conversion/potm-to-ods/
+url_ignore: /vi/net/conversion/potm-to-ods/
 family: total
 platformtag: net
 feature: conversion

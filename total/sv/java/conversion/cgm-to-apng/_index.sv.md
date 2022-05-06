@@ -1,7 +1,7 @@
 ---
 title: Konvertera CGM till APNG via Java
 description: Exportera CGM-fil till APNG i dina Java-applikationer utan att använda någon tredjepartsapplikation
-url: /sv/java/conversion/cgm-to-apng/
+url_ignore: /sv/java/conversion/cgm-to-apng/
 family: total
 platformtag: net
 feature: conversion

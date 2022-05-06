@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert DOCM to DIF
 description: Convert DOCM to DIF via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/docm-to-dif/
+url_ignore: /java/conversion/docm-to-dif/
 family: total
 platformtag: java
 feature: conversion

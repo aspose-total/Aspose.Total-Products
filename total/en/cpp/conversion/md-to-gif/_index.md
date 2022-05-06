@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export MD to GIF
 description: Convert MD to GIF within C++ applications.
-url: /cpp/conversion/md-to-gif/
+url_ignore: /cpp/conversion/md-to-gif/
 family: total
 platformtag: cpp
 feature: conversion

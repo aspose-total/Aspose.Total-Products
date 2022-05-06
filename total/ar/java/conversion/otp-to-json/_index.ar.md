@@ -1,7 +1,7 @@
 ---
 title: تحويل OTP إلى تنسيق JSON عبر Java
 description: قم بتحويل تنسيق OTP إلى JSON عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/otp-to-json/
+url_ignore: /ar/java/conversion/otp-to-json/
 family: total
 platformtag: net
 feature: conversion

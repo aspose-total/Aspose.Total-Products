@@ -1,7 +1,7 @@
 ---
 title: Convert POT to MARKDOWN Format via Java
 description: Convert POT to MARKDOWN format via Java without using using Microsoft Excel or PowerPoint
-url: /java/conversion/pot-to-markdown/
+url_ignore: /java/conversion/pot-to-markdown/
 family: total
 platformtag: java
 feature: conversion

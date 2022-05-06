@@ -1,7 +1,7 @@
 ---
 title: Export XML to XAML via C# API
 description: .NET API to Convert XML to XAML without using Microsoft Word
-url: /net/conversion/xml-to-xaml/
+url_ignore: /net/conversion/xml-to-xaml/
 family: total
 platformtag: net
 feature: conversion

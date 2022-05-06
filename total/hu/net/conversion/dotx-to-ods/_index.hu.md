@@ -1,7 +1,7 @@
 ---
 title: .NET API a DOTX konvertálásához ODS-vé
 description: C# API a DOTX konvertálásához ODS-vé Microsoft Excel vagy Adobe Reader használata nélkül
-url: /hu/net/conversion/dotx-to-ods/
+url_ignore: /hu/net/conversion/dotx-to-ods/
 family: total
 platformtag: net
 feature: conversion
@@ -18,16 +18,16 @@ Az [Aspose.Total for .NET](https://products.aspose.com/total/net/) használatáv
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API a DOTX konvertálásához ODS-vé" %}}
-1. Nyissa meg a DOTX-fájlt a [Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument) osztály használatával
-2. Alakítsa át a DOTX-t HTML-vé a [Mentés](https://apireference.aspose.com/words/net/aspose.words.dotxument/save/methods/4) módszerrel
+1. Nyissa meg a DOTX-fájlt a [Document](https://apireference.aspose.com/words/net/aspose.words/Document) osztály használatával
+2. Alakítsa át a DOTX-t HTML-vé a [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4) módszerrel
 3. Töltsön be HTML-dokumentumot a [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) osztály használatával
-4. Mentse a dokumentumot ODS-formátumba a [Mentés](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) metódussal, és állítsa be a „ODS”-t SaveFormat-ként.
+4. Mentse a dokumentumot ODS-formátumba a [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) metódussal, és állítsa be a „ODS”-t SaveFormat-ként.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 Telepítés parancssorból ```nuget install Aspose.Total``` néven, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.Total``` paranccsal.
 
-Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads] webhelyről (https://downloads.aspose.com/total/net).
+Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads](https://downloads.aspose.com/total/net) webhelyről.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
@@ -39,7 +39,7 @@ Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eke
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="DOTX dokumentum betöltése a Streamből C#-on keresztül" %}}
-Az [Aspose.Words for .NET](https://products.aspose.com/words/net/) lehetővé teszi a DOTX-dokumentumok adatfolyamon keresztüli betöltését is. Egy dokumentum adatfolyamból való megnyitásához egyszerűen adja át a dokumentumot tartalmazó adatfolyam objektumot a [Dokumentum](https://apireference.aspose.com/words/net/aspose.words/dotxument) konstruktornak. A következő kódpélda bemutatja, hogyan lehet megnyitni egy dokumentumot adatfolyamból:  
+Az [Aspose.Words for .NET](https://products.aspose.com/words/net/) lehetővé teszi a DOTX-dokumentumok adatfolyamon keresztüli betöltését is. Egy dokumentum adatfolyamból való megnyitásához egyszerűen adja át a dokumentumot tartalmazó adatfolyam objektumot a [Document](https://apireference.aspose.com/words/net/aspose.words/Document) konstruktornak. A következő kódpélda bemutatja, hogyan lehet megnyitni egy dokumentumot adatfolyamból:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ Az [Aspose.Words for .NET](https://products.aspose.com/words/net/) lehetővé te
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Egyéni tulajdonságok hozzáadása a ODS-fájlhoz C#-on keresztül" %}}
-Miközben a DOTX-t ODS-vé alakítja, az [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) lehetővé teszi egyéni tulajdonságok hozzáadását a ODS-dokumentumokhoz. Egyéni tulajdonság hozzáadásához használhatja az [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotxumentpropertycollection/methods/add/index) metódust a [CustomDotxumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotxumentpropertycollection) osztály. Az Add metódus hozzáadja a tulajdonságot az Excel-fájlhoz, és az új dokumentumtulajdonság hivatkozását adja vissza [Aspose.Cells.Properties.DotxumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) néven. /dokumentumtulajdonság) objektum. 
+Miközben a DOTX-t ODS-vé alakítja, az [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) lehetővé teszi egyéni tulajdonságok hozzáadását a ODS-dokumentumokhoz. Egyéni tulajdonság hozzáadásához használhatja az [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index) metódust a [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection) osztály. Az Add metódus hozzáadja a tulajdonságot az Excel-fájlhoz, és az új dokumentumtulajdonság hivatkozását adja vissza [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) néven. /dokumentumtulajdonság) objektum. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

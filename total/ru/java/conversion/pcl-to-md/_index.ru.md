@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга PCL в MD
 description: Экспорт PCL в MD через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/pcl-to-md/
+url_ignore: /ru/java/conversion/pcl-to-md/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPOWERPOINTをXLTに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPOWERPOINTをXLTに変換する
-url: /ja/net/conversion/powerpoint-to-xlt/
+url_ignore: /ja/net/conversion/powerpoint-to-xlt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してSVGをTXTに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにSVGファイルをTXTに変換するC＃API
-url: /ja/net/conversion/svg-to-txt/
+url_ignore: /ja/net/conversion/svg-to-txt/
 family: total
 platformtag: net
 feature: conversion

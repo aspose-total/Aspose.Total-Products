@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してXMLをPOTに変換する
 description: MicrosoftWordを使用せずにXMLをPOTに変換するJavaAPI
-url: /ja/java/conversion/xml-to-pot/
+url_ignore: /ja/java/conversion/xml-to-pot/
 family: total
 platformtag: net
 feature: conversion

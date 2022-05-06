@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXPSをDIFに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにXPSファイルをDIFに変換するC＃API
-url: /ja/net/conversion/xps-to-dif/
+url_ignore: /ja/net/conversion/xps-to-dif/
 family: total
 platformtag: net
 feature: conversion

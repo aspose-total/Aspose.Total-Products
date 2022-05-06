@@ -1,7 +1,7 @@
 ---
 title: Преобразование EPUB в XLSM через C# API
 description: C# API для преобразования файла EPUB в XLSM без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/epub-to-xlsm/
+url_ignore: /ru/net/conversion/epub-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

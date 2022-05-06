@@ -1,7 +1,7 @@
 ---
 title: API C# per esportare EMAIL in EMF
 description: Converti EMAIL in EMF senza utilizzare Microsoft Word o Outlook su .NET
-url: /it/net/conversion/email-to-emf/
+url_ignore: /it/net/conversion/email-to-emf/
 family: total
 platformtag: net
 feature: conversion

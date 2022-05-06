@@ -1,6 +1,6 @@
 ---
 title: Преобразование RTF в PPTX через C# .NET 
-url: /ru/net/conversion/rtf-to-pptx/ 
+url_ignore: /ru/net/conversion/rtf-to-pptx/ 
 description: Преобразование документов Word rtf в файлы PowerPoint pptx с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

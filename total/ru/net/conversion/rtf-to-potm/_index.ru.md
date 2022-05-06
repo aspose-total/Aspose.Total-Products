@@ -1,6 +1,6 @@
 ---
 title: Преобразование RTF в POTM через C# .NET 
-url: /ru/net/conversion/rtf-to-potm/ 
+url_ignore: /ru/net/conversion/rtf-to-potm/ 
 description: Преобразование документов Word rtf в файлы PowerPoint potm с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

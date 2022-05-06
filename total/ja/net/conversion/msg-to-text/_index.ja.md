@@ -1,7 +1,7 @@
 ---
 title: MSGをTEXTにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにMSGをTEXTに変換する
-url: /ja/net/conversion/msg-to-text/
+url_ignore: /ja/net/conversion/msg-to-text/
 family: total
 platformtag: net
 feature: conversion

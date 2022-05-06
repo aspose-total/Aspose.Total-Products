@@ -1,7 +1,7 @@
 ---
 title: تحويل PPTX إلى تنسيق XLT عبر Java
 description: قم بتحويل PPTX إلى تنسيق XLT عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/pptx-to-xlt/
+url_ignore: /ar/java/conversion/pptx-to-xlt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertera PPT till ODS-format via Java
 description: Konvertera PPT till ODS-format via Java utan att använda Microsoft Excel eller PowerPoint
-url: /sv/java/conversion/ppt-to-ods/
+url_ignore: /sv/java/conversion/ppt-to-ods/
 family: total
 platformtag: net
 feature: conversion

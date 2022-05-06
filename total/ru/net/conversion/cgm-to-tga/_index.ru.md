@@ -1,7 +1,7 @@
 ---
 title: Преобразование CGM в TGA через C# API
 description: Экспорт CGM в TGA в ваших приложениях .NET без использования каких-либо сторонних приложений.
-url: /ru/net/conversion/cgm-to-tga/
+url_ignore: /ru/net/conversion/cgm-to-tga/
 family: total
 platformtag: net
 feature: conversion

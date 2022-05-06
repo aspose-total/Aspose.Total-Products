@@ -1,7 +1,7 @@
 ---
 title: Android API to Render XPS to FLATOPC
 description: Transform XPS to FLATOPC via Android via Java API
-url: /android-java/conversion/xps-to-flatopc/
+url_ignore: /android-java/conversion/xps-to-flatopc/
 family: total
 platformtag: android-java
 feature: conversion

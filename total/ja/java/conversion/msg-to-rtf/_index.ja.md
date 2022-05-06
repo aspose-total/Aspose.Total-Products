@@ -1,7 +1,7 @@
 ---
 title: Java経由でMSGをRTFにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにMSGをRTFに変換するJavaAPI
-url: /ja/java/conversion/msg-to-rtf/
+url_ignore: /ja/java/conversion/msg-to-rtf/
 family: total
 platformtag: net
 feature: conversion

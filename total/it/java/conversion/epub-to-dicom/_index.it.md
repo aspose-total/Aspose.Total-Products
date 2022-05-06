@@ -1,7 +1,7 @@
 ---
 title: Converti EPUB in DICOM tramite Java
 description: Esporta file EPUB in DICOM nelle tue applicazioni Java senza utilizzare applicazioni di terze parti
-url: /it/java/conversion/epub-to-dicom/
+url_ignore: /it/java/conversion/epub-to-dicom/
 family: total
 platformtag: net
 feature: conversion

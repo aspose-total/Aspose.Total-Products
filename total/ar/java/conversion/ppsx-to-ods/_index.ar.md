@@ -1,7 +1,7 @@
 ---
 title: تحويل PPSX إلى تنسيق ODS عبر Java
 description: قم بتحويل PPSX إلى تنسيق ODS عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/ppsx-to-ods/
+url_ignore: /ar/java/conversion/ppsx-to-ods/
 family: total
 platformtag: net
 feature: conversion

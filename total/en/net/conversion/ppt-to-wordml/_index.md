@@ -1,6 +1,6 @@
 ---
 title: Convert PPT to WORDML via C# .NET 
-url: /net/conversion/ppt-to-wordml/ 
+url_ignore: /net/conversion/ppt-to-wordml/ 
 description: Convert PowerPoint ppt documents to Word wordml files with C#. Convert multiple files within ASP.NET or other .NET applications.
 ---
 

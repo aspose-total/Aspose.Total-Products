@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar TGA via Java
 description: JSON ontleden naar TGA in Java zonder Microsoft PowerPoint te gebruiken
-url: /nl/java/conversion/json-to-tga/
+url_ignore: /nl/java/conversion/json-to-tga/
 family: total
 platformtag: net
 feature: conversion

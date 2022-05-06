@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MHTML to MD
 description: Convert MHTML to MD via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/mhtml-to-md/
+url_ignore: /cpp/conversion/mhtml-to-md/
 family: total
 platformtag: cpp
 feature: conversion

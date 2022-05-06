@@ -1,7 +1,7 @@
 ---
 title: OFTをDOCMにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにOFTをDOCMに変換する
-url: /ja/net/conversion/oft-to-docm/
+url_ignore: /ja/net/conversion/oft-to-docm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender TEX ke EXCEL
 description: Ekspor TEX ke EXCEL melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/tex-to-excel/
+url_ignore: /id/java/conversion/tex-to-excel/
 family: total
 platformtag: net
 feature: conversion

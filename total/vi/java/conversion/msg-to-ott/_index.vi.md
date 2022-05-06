@@ -1,7 +1,7 @@
 ---
 title: Xuất MSG sang OTT qua Java
 description: Java API để chuyển đổi MSG thành OTT mà không cần sử dụng Microsoft Word hoặc Outlook
-url: /vi/java/conversion/msg-to-ott/
+url_ignore: /vi/java/conversion/msg-to-ott/
 family: total
 platformtag: net
 feature: conversion

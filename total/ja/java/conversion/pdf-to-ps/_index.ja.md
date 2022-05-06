@@ -1,7 +1,7 @@
 ---
 title: PDFをPSにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してPDFをPSに変換する
-url: /ja/java/conversion/pdf-to-ps/
+url_ignore: /ja/java/conversion/pdf-to-ps/
 family: total
 platformtag: net
 feature: conversion

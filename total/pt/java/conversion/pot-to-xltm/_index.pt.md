@@ -1,7 +1,7 @@
 ---
 title: Converter POT para formato XLTM via Java
 description: Converta o formato POT para XLTM via Java sem usar o Microsoft Excel ou PowerPoint
-url: /pt/java/conversion/pot-to-xltm/
+url_ignore: /pt/java/conversion/pot-to-xltm/
 family: total
 platformtag: net
 feature: conversion

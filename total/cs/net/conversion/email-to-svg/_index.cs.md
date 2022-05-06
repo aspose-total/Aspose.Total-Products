@@ -1,7 +1,7 @@
 ---
 title: C# API pro export EMAIL do SVG
 description: Převeďte EMAIL na SVG bez použití Microsoft Word nebo Outlook na .NET
-url: /cs/net/conversion/email-to-svg/
+url_ignore: /cs/net/conversion/email-to-svg/
 family: total
 platformtag: net
 feature: conversion

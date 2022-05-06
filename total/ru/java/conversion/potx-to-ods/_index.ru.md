@@ -1,7 +1,7 @@
 ---
 title: Преобразование POTX в формат ODS через Java
 description: Преобразуйте формат POTX в ODS через Java без использования Microsoft Excel или PowerPoint.
-url: /ru/java/conversion/potx-to-ods/
+url_ignore: /ru/java/conversion/potx-to-ods/
 family: total
 platformtag: net
 feature: conversion

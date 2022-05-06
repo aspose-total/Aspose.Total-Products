@@ -1,7 +1,7 @@
 ---
 title: Преобразование формата JSON в POWERPOINT через Java
 description: Разбор JSON в POWERPOINT на Java без использования Microsoft PowerPoint
-url: /ru/java/conversion/json-to-powerpoint/
+url_ignore: /ru/java/conversion/json-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

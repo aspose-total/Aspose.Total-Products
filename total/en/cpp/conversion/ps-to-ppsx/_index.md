@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PS to PPSX  
 description: Convert PS to PPSX via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/ps-to-ppsx/
+url_ignore: /cpp/conversion/ps-to-ppsx/
 family: total
 platformtag: cpp
 feature: conversion

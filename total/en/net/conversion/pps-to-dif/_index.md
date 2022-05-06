@@ -1,7 +1,7 @@
 ---
 title: Convert PPS to DIF via C# 
 description: Convert PPS to DIF in C# without using Microsoft Excel or Powerpoint
-url: /net/conversion/pps-to-dif/
+url_ignore: /net/conversion/pps-to-dif/
 family: total
 platformtag: net
 feature: conversion

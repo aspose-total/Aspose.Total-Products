@@ -1,7 +1,7 @@
 ---
 title: Converti SVG in POTX tramite API Java
 description: API Java per convertire SVG in POTX senza utilizzare Microsoft Word
-url: /it/java/conversion/svg-to-potx/
+url_ignore: /it/java/conversion/svg-to-potx/
 family: total
 platformtag: net
 feature: conversion

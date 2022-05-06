@@ -1,7 +1,7 @@
 ---
 title: แปลงรูปแบบ JSON เป็น DOTX ผ่าน .NET
 description: แยก JSON เป็น DOTX ใน C# โดยไม่ต้องใช้ Microsoft Word
-url: /th/net/conversion/json-to-dotx/
+url_ignore: /th/net/conversion/json-to-dotx/
 family: total
 platformtag: net
 feature: conversion

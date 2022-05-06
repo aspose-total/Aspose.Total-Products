@@ -1,7 +1,7 @@
 ---
 title: Convierta POT a formato JSON a través de Java
 description: Convierta el formato POT a JSON a través de Java sin usar Microsoft Excel o PowerPoint
-url: /es/java/conversion/pot-to-json/
+url_ignore: /es/java/conversion/pot-to-json/
 family: total
 platformtag: net
 feature: conversion

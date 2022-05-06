@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PPSM na OTT przez Javę
 description: Java API do eksportu PPSM do OTT bez użycia Microsoft Word lub PowerPoint
-url: /pl/java/conversion/ppsm-to-ott/
+url_ignore: /pl/java/conversion/ppsm-to-ott/
 family: total
 platformtag: net
 feature: conversion

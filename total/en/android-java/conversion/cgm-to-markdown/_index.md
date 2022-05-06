@@ -1,7 +1,7 @@
 ---
 title: Android API to Render CGM to MARKDOWN
 description: Transform CGM to MARKDOWN via Android via Java API
-url: /android-java/conversion/cgm-to-markdown/
+url_ignore: /android-java/conversion/cgm-to-markdown/
 family: total
 platformtag: android-java
 feature: conversion

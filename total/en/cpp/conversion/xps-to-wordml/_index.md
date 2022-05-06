@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export XPS to WORDML
 description: Convert XPS to WORDML within C++ applications.
-url: /cpp/conversion/xps-to-wordml/
+url_ignore: /cpp/conversion/xps-to-wordml/
 family: total
 platformtag: cpp
 feature: conversion

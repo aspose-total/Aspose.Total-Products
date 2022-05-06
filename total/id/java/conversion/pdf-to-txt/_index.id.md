@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender PDF ke TXT
 description: Ekspor PDF ke TXT melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/pdf-to-txt/
+url_ignore: /id/java/conversion/pdf-to-txt/
 family: total
 platformtag: net
 feature: conversion

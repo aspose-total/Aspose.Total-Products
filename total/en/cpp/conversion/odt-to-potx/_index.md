@@ -1,7 +1,7 @@
 ---
 title: Convert ODT to POTX via C++
 description: Export ODT to POTX in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/odt-to-potx/
+url_ignore: /cpp/conversion/odt-to-potx/
 family: total
 platformtag: cpp
 feature: conversion

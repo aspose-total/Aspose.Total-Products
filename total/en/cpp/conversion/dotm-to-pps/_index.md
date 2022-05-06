@@ -1,7 +1,7 @@
 ---
 title: Convert DOTM to PPS via C++
 description: Export DOTM to PPS in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/dotm-to-pps/
+url_ignore: /cpp/conversion/dotm-to-pps/
 family: total
 platformtag: cpp
 feature: conversion

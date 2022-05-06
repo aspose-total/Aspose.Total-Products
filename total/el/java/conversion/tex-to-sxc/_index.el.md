@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση TEX σε SXC
 description: Εξαγωγή TEX σε SXC μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/tex-to-sxc/
+url_ignore: /el/java/conversion/tex-to-sxc/
 family: total
 platformtag: net
 feature: conversion

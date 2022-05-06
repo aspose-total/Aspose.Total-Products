@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export TEX to DOTX
 description: Convert TEX to DOTX within C++ applications.
-url: /cpp/conversion/tex-to-dotx/
+url_ignore: /cpp/conversion/tex-to-dotx/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: .NET-API zum Konvertieren von WORD in SXC
 description: C#-API zum Konvertieren von WORD in SXC ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/word-to-sxc/
+url_ignore: /de/net/conversion/word-to-sxc/
 family: total
 platformtag: net
 feature: conversion

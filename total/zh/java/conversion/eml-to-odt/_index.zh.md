@@ -1,7 +1,7 @@
 ---
 title: 通过 Java 将 EML 导出为 ODT
 description: 无需使用 Microsoft Word 或 Outlook 即可将 EML 转换为 ODT 的 Java API
-url: /zh/java/conversion/eml-to-odt/
+url_ignore: /zh/java/conversion/eml-to-odt/
 family: total
 platformtag: net
 feature: conversion

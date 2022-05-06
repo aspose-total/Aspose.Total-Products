@@ -1,7 +1,7 @@
 ---
 title: Convert OTT to POT via C++
 description: Export OTT to POT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/ott-to-pot/
+url_ignore: /cpp/conversion/ott-to-pot/
 family: total
 platformtag: cpp
 feature: conversion

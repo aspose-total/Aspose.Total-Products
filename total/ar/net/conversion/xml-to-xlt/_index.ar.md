@@ -1,7 +1,7 @@
 ---
 title: تحويل XML إلى XLT عبر C# API
 description: C# API لتحويل ملف XML إلى XLT بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/xml-to-xlt/
+url_ignore: /ar/net/conversion/xml-to-xlt/
 family: total
 platformtag: net
 feature: conversion

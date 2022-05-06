@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export EPUB to FLATOPC
 description: Convert EPUB to FLATOPC within C++ applications.
-url: /cpp/conversion/epub-to-flatopc/
+url_ignore: /cpp/conversion/epub-to-flatopc/
 family: total
 platformtag: cpp
 feature: conversion

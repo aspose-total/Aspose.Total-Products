@@ -1,7 +1,7 @@
 ---
 title: Java API to Render XSLFO to XLTM
 description: Export XSLFO to XLTM via Java API without using Microsoft Excel or Adobe Reader
-url: /java/conversion/xslfo-to-xltm/
+url_ignore: /java/conversion/xslfo-to-xltm/
 family: total
 platformtag: java
 feature: conversion

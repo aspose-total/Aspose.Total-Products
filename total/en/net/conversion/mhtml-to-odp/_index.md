@@ -1,7 +1,7 @@
 ---
 title: Export MHTML to ODP via C# API
 description: .NET API to Convert MHTML to ODP without using Microsoft Word
-url: /net/conversion/mhtml-to-odp/
+url_ignore: /net/conversion/mhtml-to-odp/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export CGM to ODP via C# API
 description: .NET API to Convert CGM to ODP without using Microsoft Word
-url: /net/conversion/cgm-to-odp/
+url_ignore: /net/conversion/cgm-to-odp/
 family: total
 platformtag: net
 feature: conversion

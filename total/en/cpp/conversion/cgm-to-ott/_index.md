@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export CGM to OTT
 description: Convert CGM to OTT within C++ applications.
-url: /cpp/conversion/cgm-to-ott/
+url_ignore: /cpp/conversion/cgm-to-ott/
 family: total
 platformtag: cpp
 feature: conversion

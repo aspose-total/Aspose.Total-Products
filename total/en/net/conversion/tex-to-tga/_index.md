@@ -1,7 +1,7 @@
 ---
 title: Convert TEX to TGA via C# API
 description: Export TEX to TGA in your .NET applications without using any third party application 
-url: /net/conversion/tex-to-tga/
+url_ignore: /net/conversion/tex-to-tga/
 family: total
 platformtag: net
 feature: conversion

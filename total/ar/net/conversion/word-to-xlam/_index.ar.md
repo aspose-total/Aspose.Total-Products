@@ -1,7 +1,7 @@
 ---
 title: NET API لتحويل WORD إلى XLAM
 description: C# API لتحويل WORD إلى XLAM بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/word-to-xlam/
+url_ignore: /ar/net/conversion/word-to-xlam/
 family: total
 platformtag: net
 feature: conversion

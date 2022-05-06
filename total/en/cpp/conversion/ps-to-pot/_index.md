@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PS to POT  
 description: Convert PS to POT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/ps-to-pot/
+url_ignore: /cpp/conversion/ps-to-pot/
 family: total
 platformtag: cpp
 feature: conversion

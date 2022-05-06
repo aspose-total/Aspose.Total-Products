@@ -1,7 +1,7 @@
 ---
 title: Javaを介してJSON形式をOTPに変換する
 description: Microsoft PowerPointを使用せずに、JavaでJSONをOTPに解析します
-url: /ja/java/conversion/json-to-otp/
+url_ignore: /ja/java/conversion/json-to-otp/
 family: total
 platformtag: net
 feature: conversion

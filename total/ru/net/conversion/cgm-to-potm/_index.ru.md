@@ -1,7 +1,7 @@
 ---
 title: Экспорт CGM в POTM через C# API
 description: .NET API для преобразования CGM в POTM без использования Microsoft Word
-url: /ru/net/conversion/cgm-to-potm/
+url_ignore: /ru/net/conversion/cgm-to-potm/
 family: total
 platformtag: net
 feature: conversion

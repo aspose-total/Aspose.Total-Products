@@ -1,7 +1,7 @@
 ---
 title: Преобразование TEX в WMF через Java
 description: Экспорт файла TEX в WMF в ваших приложениях Java без использования каких-либо сторонних приложений.
-url: /ru/java/conversion/tex-to-wmf/
+url_ignore: /ru/java/conversion/tex-to-wmf/
 family: total
 platformtag: net
 feature: conversion

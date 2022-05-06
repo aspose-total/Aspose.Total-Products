@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MHTML to POT  
 description: Convert MHTML to POT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/mhtml-to-pot/
+url_ignore: /cpp/conversion/mhtml-to-pot/
 family: total
 platformtag: cpp
 feature: conversion

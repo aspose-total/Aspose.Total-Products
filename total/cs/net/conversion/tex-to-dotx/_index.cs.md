@@ -1,7 +1,7 @@
 ---
 title: C# API pro export TEX do DOTX
 description: Převeďte TEX na DOTX bez použití aplikace Microsoft Word
-url: /cs/net/conversion/tex-to-dotx/
+url_ignore: /cs/net/conversion/tex-to-dotx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: .NET API pro převod DOT do EXCEL
 description: C# API pro převod DOT do EXCEL bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/dot-to-excel/
+url_ignore: /cs/net/conversion/dot-to-excel/
 family: total
 platformtag: net
 feature: conversion

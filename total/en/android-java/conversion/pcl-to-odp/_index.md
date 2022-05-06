@@ -1,7 +1,7 @@
 ---
 title: Export PCL to ODP in Android 
 description: Android API to Convert PCL to ODP without using Microsoft Word
-url: /android-java/conversion/pcl-to-odp/
+url_ignore: /android-java/conversion/pcl-to-odp/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API om MD naar DIF te renderen
 description: Exporteer MD naar DIF via Java API zonder Microsoft Excel of Adobe Reader te gebruiken
-url: /nl/java/conversion/md-to-dif/
+url_ignore: /nl/java/conversion/md-to-dif/
 family: total
 platformtag: net
 feature: conversion

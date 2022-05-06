@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla XML'yi XLSM'ye dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan XML Dosyasını XLSM'ye Dönüştürmek için C# API'si
-url: /tr/net/conversion/xml-to-xlsm/
+url_ignore: /tr/net/conversion/xml-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

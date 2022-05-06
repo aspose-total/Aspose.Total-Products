@@ -1,7 +1,7 @@
 ---
 title: EMAILをPSにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMAILをPSに変換する
-url: /ja/net/conversion/email-to-ps/
+url_ignore: /ja/net/conversion/email-to-ps/
 family: total
 platformtag: net
 feature: conversion

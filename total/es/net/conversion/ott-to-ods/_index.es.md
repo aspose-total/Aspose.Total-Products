@@ -1,7 +1,7 @@
 ---
 title: API .NET para convertir OTT a ODS
 description: API de C# para convertir OTT a ODS sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/ott-to-ods/
+url_ignore: /es/net/conversion/ott-to-ods/
 family: total
 platformtag: net
 feature: conversion

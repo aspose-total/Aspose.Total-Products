@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPCLをPSDに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでPCLをPSDにエクスポートします
-url: /ja/net/conversion/pcl-to-psd/
+url_ignore: /ja/net/conversion/pcl-to-psd/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование SVG в TSV через C# API
 description: C# API для преобразования файла SVG в TSV без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/svg-to-tsv/
+url_ignore: /ru/net/conversion/svg-to-tsv/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to ODP via C++
 description: Export DOT to ODP in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/dot-to-odp/
+url_ignore: /cpp/conversion/dot-to-odp/
 family: total
 platformtag: cpp
 feature: conversion

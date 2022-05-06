@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını .NET aracılığıyla DXF'ye dönüştürün
 description: Üçüncü taraf bağımlılıklarını kullanmadan JSON'u C#'ta DXF'ye ayrıştırın
-url: /tr/net/conversion/json-to-dxf/
+url_ignore: /tr/net/conversion/json-to-dxf/
 family: total
 platformtag: net
 feature: conversion

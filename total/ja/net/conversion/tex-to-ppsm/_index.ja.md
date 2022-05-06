@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してTEXをPPSMにエクスポートする
 description: MicrosoftWordを使用せずにTEXをPPSMに変換する.NETAPI
-url: /ja/net/conversion/tex-to-ppsm/
+url_ignore: /ja/net/conversion/tex-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

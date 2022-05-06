@@ -1,7 +1,7 @@
 ---
 title: PCLをFLATOPCにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにPCLをFLATOPCに変換する
-url: /ja/net/conversion/pcl-to-flatopc/
+url_ignore: /ja/net/conversion/pcl-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export XPS to FLATOPC
 description: Convert XPS to FLATOPC within C++ applications.
-url: /cpp/conversion/xps-to-flatopc/
+url_ignore: /cpp/conversion/xps-to-flatopc/
 family: total
 platformtag: cpp
 feature: conversion

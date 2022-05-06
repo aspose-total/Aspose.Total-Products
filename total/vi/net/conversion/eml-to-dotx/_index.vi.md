@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất EML sang DOTX
 description: Chuyển đổi EML thành DOTX mà không cần sử dụng Microsoft Word hoặc Outlook trên .NET
-url: /vi/net/conversion/eml-to-dotx/
+url_ignore: /vi/net/conversion/eml-to-dotx/
 family: total
 platformtag: net
 feature: conversion

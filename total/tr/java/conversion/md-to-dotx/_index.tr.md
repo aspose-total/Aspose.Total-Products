@@ -1,7 +1,7 @@
 ---
 title: MD'yi DOTX'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak MD'yi DOTX'ye dönüştürün
-url: /tr/java/conversion/md-to-dotx/
+url_ignore: /tr/java/conversion/md-to-dotx/
 family: total
 platformtag: net
 feature: conversion

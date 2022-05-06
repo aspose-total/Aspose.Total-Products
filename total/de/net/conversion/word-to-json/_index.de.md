@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie WORD über .NET in das JSON-Format
 description: Konvertieren Sie WORD in C# in JSON, ohne Microsoft Excel oder Adobe Reader zu verwenden
-url: /de/net/conversion/word-to-json/
+url_ignore: /de/net/conversion/word-to-json/
 family: total
 platformtag: net
 feature: conversion

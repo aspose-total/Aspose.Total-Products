@@ -1,7 +1,7 @@
 ---
 title: Convert DOC to ODP via C++
 description: Export DOC to ODP in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/doc-to-odp/
+url_ignore: /cpp/conversion/doc-to-odp/
 family: total
 platformtag: cpp
 feature: conversion

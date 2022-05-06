@@ -1,7 +1,7 @@
 ---
 title: Konvertera HTML till PSD via Java
 description: Exportera HTML-fil till PSD i dina Java-applikationer utan att använda någon tredjepartsapplikation
-url: /sv/java/conversion/html-to-psd/
+url_ignore: /sv/java/conversion/html-to-psd/
 family: total
 platformtag: net
 feature: conversion

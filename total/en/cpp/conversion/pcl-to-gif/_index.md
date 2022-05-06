@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PCL to GIF
 description: Convert PCL to GIF within C++ applications.
-url: /cpp/conversion/pcl-to-gif/
+url_ignore: /cpp/conversion/pcl-to-gif/
 family: total
 platformtag: cpp
 feature: conversion

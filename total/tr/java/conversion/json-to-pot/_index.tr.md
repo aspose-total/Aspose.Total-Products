@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını Java ile POT'ye Dönüştür
 description: Microsoft PowerPoint kullanmadan Java'da JSON'u POT'ye ayrıştırın
-url: /tr/java/conversion/json-to-pot/
+url_ignore: /tr/java/conversion/json-to-pot/
 family: total
 platformtag: net
 feature: conversion

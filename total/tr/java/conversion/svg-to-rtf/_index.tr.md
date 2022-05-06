@@ -1,7 +1,7 @@
 ---
 title: SVG'yi RTF'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak SVG'yi RTF'ye dönüştürün
-url: /tr/java/conversion/svg-to-rtf/
+url_ignore: /tr/java/conversion/svg-to-rtf/
 family: total
 platformtag: net
 feature: conversion

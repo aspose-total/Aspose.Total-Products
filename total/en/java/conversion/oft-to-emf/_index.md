@@ -1,7 +1,7 @@
 ---
 title: Export OFT to EMF via Java 
 description: Java API to Convert OFT to EMF without using Microsoft Word or Outlook 
-url: /java/conversion/oft-to-emf/
+url_ignore: /java/conversion/oft-to-emf/
 family: total
 platformtag: java
 feature: conversion

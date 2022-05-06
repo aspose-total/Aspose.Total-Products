@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert TEX to PPSM  
 description: Convert TEX to PPSM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/tex-to-ppsm/
+url_ignore: /cpp/conversion/tex-to-ppsm/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export MD to POTX in Android 
 description: Android API to Convert MD to POTX without using Microsoft Word
-url: /android-java/conversion/md-to-potx/
+url_ignore: /android-java/conversion/md-to-potx/
 family: total
 platformtag: android-java
 feature: conversion

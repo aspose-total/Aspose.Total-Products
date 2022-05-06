@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOTM в формат JSON через Java
 description: Преобразование DOTM в формат JSON через Java без использования Microsoft Word или Microsoft Excel
-url: /ru/java/conversion/dotm-to-json/
+url_ignore: /ru/java/conversion/dotm-to-json/
 family: total
 platformtag: net
 feature: conversion
@@ -19,7 +19,7 @@ otherformats: XLAM XLTX TSV FODS XLT DIF CSV EXCEL XLSB XLS XLSM XLTM SXC ODS
 1. Откройте файл DOTM, используя класс [Dotmument](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument).
 2. Преобразуйте DOTM в HTML, используя [Сохранить](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,com.aspose.words.SaveOptions) ) метод
 3. Загрузите HTML-документ с помощью класса [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).
-4. Сохраните документ в формате JSON с помощью [Сохранить](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. SaveOptions)) метод
+4. Сохраните документ в формате JSON с помощью [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. SaveOptions)) метод
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
 Вы можете легко использовать Aspose.Total для Java непосредственно из проекта на основе [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total). и включите библиотеки в свой pom.xml.

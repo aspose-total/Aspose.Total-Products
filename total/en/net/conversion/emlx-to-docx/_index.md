@@ -1,7 +1,7 @@
 ---
 title: C# API to Export EMLX to DOCX
 description: Convert EMLX to DOCX without using Microsoft Word or Outlook on .NET
-url: /net/conversion/emlx-to-docx/
+url_ignore: /net/conversion/emlx-to-docx/
 family: total
 platformtag: net
 feature: conversion

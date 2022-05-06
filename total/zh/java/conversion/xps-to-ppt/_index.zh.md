@@ -1,7 +1,7 @@
 ---
 title: 通过 Java API 将 XPS 转换为 PPT
 description: Java API 在不使用 Microsoft Word 的情况下将 XPS 转换为 PPT
-url: /zh/java/conversion/xps-to-ppt/
+url_ignore: /zh/java/conversion/xps-to-ppt/
 family: total
 platformtag: net
 feature: conversion

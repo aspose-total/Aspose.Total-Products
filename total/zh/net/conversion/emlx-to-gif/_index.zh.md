@@ -1,7 +1,7 @@
 ---
 title: 将 EMLX 导出为 GIF 的 C# API
 description: 在 .NET 上不使用 Microsoft Word 或 Outlook 将 EMLX 转换为 GIF
-url: /zh/net/conversion/emlx-to-gif/
+url_ignore: /zh/net/conversion/emlx-to-gif/
 family: total
 platformtag: net
 feature: conversion

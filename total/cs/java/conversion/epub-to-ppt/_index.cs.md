@@ -1,7 +1,7 @@
 ---
 title: Převeďte EPUB na PPT přes Java API
 description: Java API pro převod EPUB na PPT bez použití aplikace Microsoft Word
-url: /cs/java/conversion/epub-to-ppt/
+url_ignore: /cs/java/conversion/epub-to-ppt/
 family: total
 platformtag: net
 feature: conversion

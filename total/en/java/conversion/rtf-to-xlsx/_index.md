@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert RTF to XLSX
 description: Convert RTF to XLSX via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/rtf-to-xlsx/
+url_ignore: /java/conversion/rtf-to-xlsx/
 family: total
 platformtag: java
 feature: conversion

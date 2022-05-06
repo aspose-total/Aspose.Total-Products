@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení PDF do FODS
 description: Export PDF do FODS přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/pdf-to-fods/
+url_ignore: /cs/java/conversion/pdf-to-fods/
 family: total
 platformtag: net
 feature: conversion

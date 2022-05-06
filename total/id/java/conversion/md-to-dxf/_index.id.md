@@ -1,7 +1,7 @@
 ---
 title: Konversi MD ke DXF melalui Java
 description: Ekspor file MD ke DXF di aplikasi Java Anda tanpa menggunakan aplikasi pihak ketiga
-url: /id/java/conversion/md-to-dxf/
+url_ignore: /id/java/conversion/md-to-dxf/
 family: total
 platformtag: net
 feature: conversion

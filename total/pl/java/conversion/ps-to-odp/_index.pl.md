@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PS na ODP za pomocą Java API
 description: Java API do konwersji PS na ODP bez użycia Microsoft Word
-url: /pl/java/conversion/ps-to-odp/
+url_ignore: /pl/java/conversion/ps-to-odp/
 family: total
 platformtag: net
 feature: conversion

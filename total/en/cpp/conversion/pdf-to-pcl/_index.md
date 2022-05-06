@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PDF to PCL
 description: Convert PDF to PCL within C++ applications.
-url: /cpp/conversion/pdf-to-pcl/
+url_ignore: /cpp/conversion/pdf-to-pcl/
 family: total
 platformtag: cpp
 feature: conversion

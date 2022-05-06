@@ -1,7 +1,7 @@
 ---
 title: Java API om DOC naar DIF te converteren
 description: Converteer DOC naar DIF via Java zonder Microsoft Word of Microsoft Excel te gebruiken
-url: /nl/java/conversion/doc-to-dif/
+url_ignore: /nl/java/conversion/doc-to-dif/
 family: total
 platformtag: net
 feature: conversion

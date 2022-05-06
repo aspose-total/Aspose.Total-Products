@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı FLATOPC'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan EMLX'i FLATOPC'ye dönüştürün
-url: /tr/net/conversion/emlx-to-flatopc/
+url_ignore: /tr/net/conversion/emlx-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

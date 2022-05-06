@@ -1,7 +1,7 @@
 ---
 title: XPS'yi C# API aracılığıyla POTM'ye aktarın
 description: Microsoft Word kullanmadan XPS'yi POTM'ye dönüştürmek için .NET API
-url: /tr/net/conversion/xps-to-potm/
+url_ignore: /tr/net/conversion/xps-to-potm/
 family: total
 platformtag: net
 feature: conversion

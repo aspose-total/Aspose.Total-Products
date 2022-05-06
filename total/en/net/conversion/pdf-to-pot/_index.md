@@ -1,7 +1,7 @@
 ---
 title: Export PDF to POT via C# API
 description: .NET API to Convert PDF to POT without using Microsoft Word
-url: /net/conversion/pdf-to-pot/
+url_ignore: /net/conversion/pdf-to-pot/
 family: total
 platformtag: net
 feature: conversion

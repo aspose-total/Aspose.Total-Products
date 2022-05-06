@@ -1,7 +1,7 @@
 ---
 title: Convert CGM to XLSB in Android via Java
 description: Render CGM to XLSB in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/cgm-to-xlsb/
+url_ignore: /android-java/conversion/cgm-to-xlsb/
 family: total
 platformtag: android-java
 feature: conversion

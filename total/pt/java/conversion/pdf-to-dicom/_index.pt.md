@@ -1,7 +1,7 @@
 ---
 title: Converter PDF para DICOM via Java
 description: Exporte o arquivo PDF para DICOM em seus aplicativos Java sem usar nenhum aplicativo de terceiros
-url: /pt/java/conversion/pdf-to-dicom/
+url_ignore: /pt/java/conversion/pdf-to-dicom/
 family: total
 platformtag: net
 feature: conversion

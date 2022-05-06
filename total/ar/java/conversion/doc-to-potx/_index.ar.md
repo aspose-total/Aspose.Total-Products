@@ -1,7 +1,7 @@
 ---
 title: تحويل DOC إلى POTX عبر Java
 description: Java API لتصدير DOC إلى POTX دون استخدام Microsoft Word أو PowerPoint
-url: /ar/java/conversion/doc-to-potx/
+url_ignore: /ar/java/conversion/doc-to-potx/
 family: total
 platformtag: net
 feature: conversion
@@ -18,7 +18,7 @@ otherformats: PPSX PPTM POTX POTM PPT POWERPOINT PPS POT PPTX PPSM CSV DIF FODS 
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل DOC إلى POTX عبر Java" %}}
 1. افتح ملف DOC باستخدام فئة [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 2. تحويل ملف DOC إلى HTML باستخدام [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String.com.aspose.words.SaveOptions)) طريقة
-3. تهيئة كائن [عرض تقديمي] جديد (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+3. [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) جديد تهيئة كائن
 5. استخراج المحتوى من ملف HTML باستخدام BufferedReader وكتابة المحتوى في ملف العرض التقديمي الخاص بك
 6. احفظ المستند في POTX باستخدام طريقة [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}

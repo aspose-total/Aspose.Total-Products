@@ -1,7 +1,7 @@
 ---
 title: Konvertera HTML till EMZ via C# API
 description: Exportera HTML till EMZ i dina .NET-applikationer utan att använda någon tredjepartsapplikation
-url: /sv/net/conversion/html-to-emz/
+url_ignore: /sv/net/conversion/html-to-emz/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: EMAIL'i Java aracılığıyla RTF'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan EMAIL'i RTF'ye Dönüştürmek için Java API
-url: /tr/java/conversion/email-to-rtf/
+url_ignore: /tr/java/conversion/email-to-rtf/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование PCL в PSD через C# API
 description: Экспорт PCL в PSD в ваших приложениях .NET без использования каких-либо сторонних приложений.
-url: /ru/net/conversion/pcl-to-psd/
+url_ignore: /ru/net/conversion/pcl-to-psd/
 family: total
 platformtag: net
 feature: conversion

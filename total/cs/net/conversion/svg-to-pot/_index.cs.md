@@ -1,7 +1,7 @@
 ---
 title: Export SVG do POT přes C# API
 description: .NET API pro převod SVG na POT bez použití aplikace Microsoft Word
-url: /cs/net/conversion/svg-to-pot/
+url_ignore: /cs/net/conversion/svg-to-pot/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Převést CGM na IMAGE přes Java
 description: Exportujte soubor CGM do IMAGE ve svých aplikacích Java bez použití jakékoli aplikace třetí strany
-url: /cs/java/conversion/cgm-to-image/
+url_ignore: /cs/java/conversion/cgm-to-image/
 family: total
 platformtag: net
 feature: conversion

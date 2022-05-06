@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert EPUB to TXT
 description: Convert EPUB to TXT via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/epub-to-txt/
+url_ignore: /cpp/conversion/epub-to-txt/
 family: total
 platformtag: cpp
 feature: conversion

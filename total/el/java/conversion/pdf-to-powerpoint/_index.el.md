@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή PDF σε POWERPOINT μέσω Java API
 description: Java API για μετατροπή PDF σε POWERPOINT χωρίς χρήση του Microsoft Word
-url: /el/java/conversion/pdf-to-powerpoint/
+url_ignore: /el/java/conversion/pdf-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

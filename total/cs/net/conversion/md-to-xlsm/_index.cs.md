@@ -1,7 +1,7 @@
 ---
 title: Převeďte MD na XLSM přes C# API
 description: C# API pro převod souboru MD do XLSM bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/md-to-xlsm/
+url_ignore: /cs/net/conversion/md-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

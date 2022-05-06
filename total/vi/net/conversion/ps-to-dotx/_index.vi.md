@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất PS sang DOTX
 description: Chuyển đổi PS sang DOTX mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/ps-to-dotx/
+url_ignore: /vi/net/conversion/ps-to-dotx/
 family: total
 platformtag: net
 feature: conversion

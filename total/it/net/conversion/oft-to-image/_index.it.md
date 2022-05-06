@@ -1,7 +1,7 @@
 ---
 title: API C# per esportare OFT in IMAGE
 description: Converti OFT in IMAGE senza utilizzare Microsoft Word o Outlook su .NET
-url: /it/net/conversion/oft-to-image/
+url_ignore: /it/net/conversion/oft-to-image/
 family: total
 platformtag: net
 feature: conversion

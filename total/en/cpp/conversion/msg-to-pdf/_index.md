@@ -1,7 +1,7 @@
 ---
 title: Export MSG to PDF via C++
 description: C++ API to Convert MSG to PDF without using Microsoft Word or Outlook
-url: /cpp/conversion/msg-to-pdf/
+url_ignore: /cpp/conversion/msg-to-pdf/
 family: total
 platformtag: cpp
 feature: conversion

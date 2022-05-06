@@ -1,7 +1,7 @@
 ---
 title: تحويل FLATOPC إلى PPTX عبر Java
 description: Java API لتصدير FLATOPC إلى PPTX دون استخدام Microsoft Word أو PowerPoint
-url: /ar/java/conversion/flatopc-to-pptx/
+url_ignore: /ar/java/conversion/flatopc-to-pptx/
 family: total
 platformtag: net
 feature: conversion
@@ -18,7 +18,7 @@ otherformats: POWERPOINT POT POTM PPSX PPT PPS PPTX POTX PPSM PPTM CSV DIF FODS 
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل FLATOPC إلى PPTX عبر Java" %}}
 1. افتح ملف FLATOPC باستخدام فئة [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument)
 2. تحويل ملف FLATOPC إلى HTML باستخدام [Save](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String.com.aspose.words.SaveOptions)) طريقة
-3. تهيئة كائن [عرض تقديمي] جديد (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+3. [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) جديد تهيئة كائن
 5. استخراج المحتوى من ملف HTML باستخدام BufferedReader وكتابة المحتوى في ملف العرض التقديمي الخاص بك
 6. احفظ المستند في PPTX باستخدام طريقة [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}

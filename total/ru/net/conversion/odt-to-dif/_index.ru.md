@@ -1,7 +1,7 @@
 ---
 title: .NET API для преобразования ODT в DIF
 description: C# API для преобразования ODT в DIF без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/odt-to-dif/
+url_ignore: /ru/net/conversion/odt-to-dif/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: MSG'i Java aracılığıyla PS'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan MSG'i PS'ye Dönüştürmek için Java API
-url: /tr/java/conversion/msg-to-ps/
+url_ignore: /tr/java/conversion/msg-to-ps/
 family: total
 platformtag: net
 feature: conversion

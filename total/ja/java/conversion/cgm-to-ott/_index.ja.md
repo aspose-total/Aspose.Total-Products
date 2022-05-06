@@ -1,7 +1,7 @@
 ---
 title: CGMをOTTにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してCGMをOTTに変換する
-url: /ja/java/conversion/cgm-to-ott/
+url_ignore: /ja/java/conversion/cgm-to-ott/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert TEX to FODS
 description: Convert TEX to FODS via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/tex-to-fods/
+url_ignore: /cpp/conversion/tex-to-fods/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converter PS para EXCEL via API C#
 description: API C# para converter arquivo PS em EXCEL sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/ps-to-excel/
+url_ignore: /pt/net/conversion/ps-to-excel/
 family: total
 platformtag: net
 feature: conversion

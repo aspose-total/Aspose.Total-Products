@@ -1,7 +1,7 @@
 ---
 title: EMAIL을 PNG로 내보내는 C# API
 description: .NET에서 Microsoft Word 또는 Outlook을 사용하지 않고 EMAIL을 PNG로 변환
-url: /ko/net/conversion/email-to-png/
+url_ignore: /ko/net/conversion/email-to-png/
 family: total
 platformtag: net
 feature: conversion

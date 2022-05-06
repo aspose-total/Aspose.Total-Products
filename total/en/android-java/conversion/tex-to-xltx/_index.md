@@ -1,7 +1,7 @@
 ---
 title: Convert TEX to XLTX in Android via Java
 description: Render TEX to XLTX in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/tex-to-xltx/
+url_ignore: /android-java/conversion/tex-to-xltx/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してCGMをPPSXにエクスポートする
 description: MicrosoftWordを使用せずにCGMをPPSXに変換する.NETAPI
-url: /ja/net/conversion/cgm-to-ppsx/
+url_ignore: /ja/net/conversion/cgm-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

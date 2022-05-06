@@ -1,7 +1,7 @@
 ---
 title: Převeďte XML na XLSB přes C# API
 description: C# API pro převod souboru XML do XLSB bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/xml-to-xlsb/
+url_ignore: /cs/net/conversion/xml-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

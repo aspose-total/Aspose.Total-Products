@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender XML ke ODS
 description: Ekspor XML ke ODS melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/xml-to-ods/
+url_ignore: /id/java/conversion/xml-to-ods/
 family: total
 platformtag: net
 feature: conversion

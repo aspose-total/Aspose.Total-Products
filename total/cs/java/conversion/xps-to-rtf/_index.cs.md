@@ -1,7 +1,7 @@
 ---
 title: Java API pro export XPS do RTF
 description: Převeďte XPS na RTF pomocí on premise Java API
-url: /cs/java/conversion/xps-to-rtf/
+url_ignore: /cs/java/conversion/xps-to-rtf/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converti PPS in formato ODS tramite Java
 description: Converti PPS in formato ODS tramite Java senza utilizzare Microsoft Excel o PowerPoint
-url: /it/java/conversion/pps-to-ods/
+url_ignore: /it/java/conversion/pps-to-ods/
 family: total
 platformtag: net
 feature: conversion

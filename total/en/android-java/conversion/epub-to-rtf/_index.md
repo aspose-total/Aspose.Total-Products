@@ -1,7 +1,7 @@
 ---
 title: Android API to Render EPUB to RTF
 description: Transform EPUB to RTF via Android via Java API
-url: /android-java/conversion/epub-to-rtf/
+url_ignore: /android-java/conversion/epub-to-rtf/
 family: total
 platformtag: android-java
 feature: conversion

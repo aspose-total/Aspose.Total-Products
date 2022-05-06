@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert TEX to CSV
 description: Convert TEX to CSV via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/tex-to-csv/
+url_ignore: /cpp/conversion/tex-to-csv/
 family: total
 platformtag: cpp
 feature: conversion

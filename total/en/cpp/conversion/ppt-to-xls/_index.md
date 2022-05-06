@@ -1,7 +1,7 @@
 ---
 title: Convert PPT to XLS via C++ 
 description: Export PPT to XLS in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/ppt-to-xls/
+url_ignore: /cpp/conversion/ppt-to-xls/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: .NET API để chuyển đổi DOT sang XLSB
 description: C# API để chuyển đổi DOT sang XLSB mà không cần sử dụng Microsoft Excel hoặc Adobe Reader
-url: /vi/net/conversion/dot-to-xlsb/
+url_ignore: /vi/net/conversion/dot-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

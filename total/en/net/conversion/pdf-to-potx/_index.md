@@ -1,7 +1,7 @@
 ---
 title: Export PDF to POTX via C# API
 description: .NET API to Convert PDF to POTX without using Microsoft Word
-url: /net/conversion/pdf-to-potx/
+url_ignore: /net/conversion/pdf-to-potx/
 family: total
 platformtag: net
 feature: conversion

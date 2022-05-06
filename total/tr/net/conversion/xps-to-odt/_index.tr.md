@@ -1,7 +1,7 @@
 ---
 title: XPS'yi ODT'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan XPS'yi ODT'ye dönüştürün
-url: /tr/net/conversion/xps-to-odt/
+url_ignore: /tr/net/conversion/xps-to-odt/
 family: total
 platformtag: net
 feature: conversion

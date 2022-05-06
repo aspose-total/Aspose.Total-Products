@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PS to XLAM
 description: Convert PS to XLAM via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/ps-to-xlam/
+url_ignore: /cpp/conversion/ps-to-xlam/
 family: total
 platformtag: cpp
 feature: conversion

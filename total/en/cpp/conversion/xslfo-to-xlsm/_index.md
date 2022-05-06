@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XSLFO to XLSM
 description: Convert XSLFO to XLSM via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xslfo-to-xlsm/
+url_ignore: /cpp/conversion/xslfo-to-xlsm/
 family: total
 platformtag: cpp
 feature: conversion

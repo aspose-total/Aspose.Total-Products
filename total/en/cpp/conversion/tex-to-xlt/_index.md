@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert TEX to XLT
 description: Convert TEX to XLT via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/tex-to-xlt/
+url_ignore: /cpp/conversion/tex-to-xlt/
 family: total
 platformtag: cpp
 feature: conversion

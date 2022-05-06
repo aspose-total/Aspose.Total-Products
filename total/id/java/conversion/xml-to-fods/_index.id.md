@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender XML ke FODS
 description: Ekspor XML ke FODS melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/xml-to-fods/
+url_ignore: /id/java/conversion/xml-to-fods/
 family: total
 platformtag: net
 feature: conversion

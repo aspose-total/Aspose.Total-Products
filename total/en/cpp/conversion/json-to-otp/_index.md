@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to OTP via C++ 
 description: Parse JSON to OTP in C++ without using Microsoft PowerPoint
-url: /cpp/conversion/json-to-otp/
+url_ignore: /cpp/conversion/json-to-otp/
 family: total
 platformtag: cpp
 feature: conversion

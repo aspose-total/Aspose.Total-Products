@@ -1,7 +1,7 @@
 ---
 title: Export OFT to TEXT via C++
 description: C++ API to Convert OFT to TEXT without using Microsoft Word or Outlook
-url: /cpp/conversion/oft-to-text/
+url_ignore: /cpp/conversion/oft-to-text/
 family: total
 platformtag: cpp
 feature: conversion

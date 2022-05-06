@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie XPS über die C#-API in XLTX
 description: C#-API zum Konvertieren von XPS-Dateien in XLTX ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/xps-to-xltx/
+url_ignore: /de/net/conversion/xps-to-xltx/
 family: total
 platformtag: net
 feature: conversion

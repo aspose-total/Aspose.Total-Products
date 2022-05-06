@@ -1,7 +1,7 @@
 ---
 title: Convertir le format DOTM au format JSON via .NET
 description: Convertir DOTM en JSON en C# sans utiliser Microsoft Excel ou Adobe Reader
-url: /fr/net/conversion/dotm-to-json/
+url_ignore: /fr/net/conversion/dotm-to-json/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: XLAM SXC XLTM TSV DIF FODS XLSM XLSX ODS XLTX XLS EXCEL XLSB XLT
 {{< blocks/products/pf/i18n/feature-page-header h1="Convertir DOTM au format JSON via C#" h2="Analyser DOTM en JSON via C# sans utiliser Microsoft<sup>&reg;</sup> Word ou Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), vous pouvez convertir le format DOTM au format JSON dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.Words pour .NET](https://products.aspose.com/words/net/), vous pouvez exporter DOTM vers HTML. Après cela, en utilisant [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, vous pouvez convertir HTML en JSON.
+En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez convertir le format DOTM au format JSON dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.Words for .NET](https://products.aspose.com/words/net/), vous pouvez exporter DOTM vers HTML. Après cela, en utilisant [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, vous pouvez convertir HTML en JSON.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

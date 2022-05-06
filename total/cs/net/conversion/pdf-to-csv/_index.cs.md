@@ -1,7 +1,7 @@
 ---
 title: Převeďte PDF na CSV přes C# API
 description: C# API pro převod souboru PDF do CSV bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/pdf-to-csv/
+url_ignore: /cs/net/conversion/pdf-to-csv/
 family: total
 platformtag: net
 feature: conversion

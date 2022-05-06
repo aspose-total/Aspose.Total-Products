@@ -1,7 +1,7 @@
 ---
 title: Export OFT to WORDML via C++
 description: C++ API to Convert OFT to WORDML without using Microsoft Word or Outlook
-url: /cpp/conversion/oft-to-wordml/
+url_ignore: /cpp/conversion/oft-to-wordml/
 family: total
 platformtag: cpp
 feature: conversion

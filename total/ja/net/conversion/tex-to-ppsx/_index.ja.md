@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してTEXをPPSXにエクスポートする
 description: MicrosoftWordを使用せずにTEXをPPSXに変換する.NETAPI
-url: /ja/net/conversion/tex-to-ppsx/
+url_ignore: /ja/net/conversion/tex-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

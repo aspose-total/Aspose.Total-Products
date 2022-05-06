@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOTM to CSV
 description: Convert DOTM to CSV in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/dotm-to-csv/
+url_ignore: /android-java/conversion/dotm-to-csv/
 family: total
 platformtag: android-java
 feature: conversion

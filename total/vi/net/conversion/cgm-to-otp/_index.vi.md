@@ -1,7 +1,7 @@
 ---
 title: Xuất CGM sang OTP qua C# API
 description: .NET API để chuyển đổi CGM sang OTP mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/cgm-to-otp/
+url_ignore: /vi/net/conversion/cgm-to-otp/
 family: total
 platformtag: net
 feature: conversion

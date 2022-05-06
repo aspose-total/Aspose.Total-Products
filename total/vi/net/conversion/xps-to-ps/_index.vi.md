@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất XPS sang PS
 description: Chuyển đổi XPS sang PS mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/xps-to-ps/
+url_ignore: /vi/net/conversion/xps-to-ps/
 family: total
 platformtag: net
 feature: conversion

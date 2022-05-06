@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير البريد الإلكتروني إلى DOTM
 description: قم بتحويل MSG إلى DOTM دون استخدام Microsoft Word أو Outlook على .NET
-url: /ar/net/conversion/msg-to-dotm/
+url_ignore: /ar/net/conversion/msg-to-dotm/
 family: total
 platformtag: net
 feature: conversion

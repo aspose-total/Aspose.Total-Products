@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to POTM via C++
 description: Export WORD to POTM in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/word-to-potm/
+url_ignore: /cpp/conversion/word-to-potm/
 family: total
 platformtag: cpp
 feature: conversion

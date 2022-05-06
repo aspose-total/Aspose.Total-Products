@@ -1,6 +1,6 @@
 ---
 title: Преобразование WORDML в POTX через C# .NET 
-url: /ru/net/conversion/wordml-to-potx/ 
+url_ignore: /ru/net/conversion/wordml-to-potx/ 
 description: Преобразование документов Word wordml в файлы PowerPoint potx с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

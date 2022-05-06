@@ -1,6 +1,6 @@
 ---
 title: Convert DOTM to POT via C# .NET 
-url: /net/conversion/dotm-to-pot/ 
+url_ignore: /net/conversion/dotm-to-pot/ 
 description: Convert Word dotm documents to PowerPoint pot files with C#. Convert multiple files within ASP.NET or other .NET applications.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: .NET API to Convert WORDML to XLS 
 description: C# API to Convert WORDML to XLS without using Microsoft Excel or Adobe Reader
-url: /net/conversion/wordml-to-xls/
+url_ignore: /net/conversion/wordml-to-xls/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: EMLX'i Java aracılığıyla PS'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan EMLX'i PS'ye Dönüştürmek için Java API
-url: /tr/java/conversion/emlx-to-ps/
+url_ignore: /tr/java/conversion/emlx-to-ps/
 family: total
 platformtag: net
 feature: conversion

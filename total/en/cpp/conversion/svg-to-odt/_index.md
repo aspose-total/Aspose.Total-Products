@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export SVG to ODT
 description: Convert SVG to ODT within C++ applications.
-url: /cpp/conversion/svg-to-odt/
+url_ignore: /cpp/conversion/svg-to-odt/
 family: total
 platformtag: cpp
 feature: conversion

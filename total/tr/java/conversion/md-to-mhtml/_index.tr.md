@@ -1,7 +1,7 @@
 ---
 title: MD'yi MHTML'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak MD'yi MHTML'ye dönüştürün
-url: /tr/java/conversion/md-to-mhtml/
+url_ignore: /tr/java/conversion/md-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

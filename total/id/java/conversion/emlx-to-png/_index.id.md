@@ -1,7 +1,7 @@
 ---
 title: Ekspor EMLX ke PNG melalui Java
 description: Java API untuk Mengonversi EMLX ke PNG tanpa menggunakan Microsoft Word atau Outlook
-url: /id/java/conversion/emlx-to-png/
+url_ignore: /id/java/conversion/emlx-to-png/
 family: total
 platformtag: net
 feature: conversion

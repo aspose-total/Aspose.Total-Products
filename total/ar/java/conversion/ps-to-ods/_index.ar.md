@@ -1,7 +1,7 @@
 ---
 title: Java API لتقديم PS إلى ODS
 description: قم بتصدير PS إلى ODS عبر Java API دون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/java/conversion/ps-to-ods/
+url_ignore: /ar/java/conversion/ps-to-ods/
 family: total
 platformtag: net
 feature: conversion

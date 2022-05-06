@@ -1,7 +1,7 @@
 ---
 title: API de Java para exportar PCL a DOTX
 description: Convierta PCL a DOTX usando la API de Java en las instalaciones
-url: /es/java/conversion/pcl-to-dotx/
+url_ignore: /es/java/conversion/pcl-to-dotx/
 family: total
 platformtag: net
 feature: conversion

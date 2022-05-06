@@ -1,7 +1,7 @@
 ---
 title: Export TEX to PPSX via C# API
 description: .NET API to Convert TEX to PPSX without using Microsoft Word
-url: /net/conversion/tex-to-ppsx/
+url_ignore: /net/conversion/tex-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

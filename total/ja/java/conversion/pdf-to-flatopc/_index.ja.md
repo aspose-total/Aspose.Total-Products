@@ -1,7 +1,7 @@
 ---
 title: PDFをFLATOPCにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してPDFをFLATOPCに変換する
-url: /ja/java/conversion/pdf-to-flatopc/
+url_ignore: /ja/java/conversion/pdf-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

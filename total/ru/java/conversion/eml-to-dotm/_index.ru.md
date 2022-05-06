@@ -1,7 +1,7 @@
 ---
 title: Экспорт EML в DOTM через Java
 description: Java API для преобразования EML в DOTM без использования Microsoft Word или Outlook
-url: /ru/java/conversion/eml-to-dotm/
+url_ignore: /ru/java/conversion/eml-to-dotm/
 family: total
 platformtag: net
 feature: conversion

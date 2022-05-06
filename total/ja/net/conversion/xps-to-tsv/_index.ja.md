@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXPSをTSVに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにXPSファイルをTSVに変換するC＃API
-url: /ja/net/conversion/xps-to-tsv/
+url_ignore: /ja/net/conversion/xps-to-tsv/
 family: total
 platformtag: net
 feature: conversion

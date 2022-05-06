@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını .NET aracılığıyla OTT'ye dönüştürün
 description: Microsoft Word kullanmadan JSON'u C# ile OTT'ye ayrıştırın
-url: /tr/net/conversion/json-to-ott/
+url_ignore: /tr/net/conversion/json-to-ott/
 family: total
 platformtag: net
 feature: conversion

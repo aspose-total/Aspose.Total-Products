@@ -1,7 +1,7 @@
 ---
 title: SVGをRTFにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにSVGをRTFに変換する
-url: /ja/net/conversion/svg-to-rtf/
+url_ignore: /ja/net/conversion/svg-to-rtf/
 family: total
 platformtag: net
 feature: conversion

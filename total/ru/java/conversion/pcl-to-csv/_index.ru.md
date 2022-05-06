@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга PCL в CSV
 description: Экспорт PCL в CSV через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/pcl-to-csv/
+url_ignore: /ru/java/conversion/pcl-to-csv/
 family: total
 platformtag: net
 feature: conversion

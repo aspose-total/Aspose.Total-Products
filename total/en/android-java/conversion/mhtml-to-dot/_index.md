@@ -1,7 +1,7 @@
 ---
 title: Android API to Render MHTML to DOT
 description: Transform MHTML to DOT via Android via Java API
-url: /android-java/conversion/mhtml-to-dot/
+url_ignore: /android-java/conversion/mhtml-to-dot/
 family: total
 platformtag: android-java
 feature: conversion

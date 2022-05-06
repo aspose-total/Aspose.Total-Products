@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to POWERPOINT in Android via Java
 description: RTF to POWERPOINT conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/rtf-to-powerpoint/
+url_ignore: /android-java/conversion/rtf-to-powerpoint/
 family: total
 platformtag: android-java
 feature: conversion

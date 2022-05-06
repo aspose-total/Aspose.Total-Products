@@ -1,7 +1,7 @@
 ---
 title: Java API για μετατροπή DOTM σε DIF
 description: Μετατροπή DOTM σε DIF μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel
-url: /el/java/conversion/dotm-to-dif/
+url_ignore: /el/java/conversion/dotm-to-dif/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMHTMLをXAMLにエクスポートする
 description: MicrosoftWordを使用せずにMHTMLをXAMLに変換する.NETAPI
-url: /ja/net/conversion/mhtml-to-xaml/
+url_ignore: /ja/net/conversion/mhtml-to-xaml/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API Java para renderizar SVG para CSV
 description: Exporte SVG para CSV via API Java sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/java/conversion/svg-to-csv/
+url_ignore: /pt/java/conversion/svg-to-csv/
 family: total
 platformtag: net
 feature: conversion

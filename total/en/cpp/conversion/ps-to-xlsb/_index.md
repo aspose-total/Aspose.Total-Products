@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PS to XLSB
 description: Convert PS to XLSB via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/ps-to-xlsb/
+url_ignore: /cpp/conversion/ps-to-xlsb/
 family: total
 platformtag: cpp
 feature: conversion

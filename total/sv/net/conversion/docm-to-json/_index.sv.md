@@ -1,7 +1,7 @@
 ---
 title: Konvertera DOCM till JSON-format via .NET
 description: Konvertera DOCM till JSON i C# utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/net/conversion/docm-to-json/
+url_ignore: /sv/net/conversion/docm-to-json/
 family: total
 platformtag: net
 feature: conversion
@@ -18,7 +18,7 @@ Genom att använda [Aspose.Total för .NET](https://products.aspose.com/total/ne
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertera DOCM till JSON-format via C#" %}}
-1. Öppna DOCM-filen med klassen [Document](https://apireference.aspose.com/words/net/aspose.words/document
+1. Öppna DOCM-filen med klassen [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 2. Konvertera DOCM till HTML med metoden [Save](https://apireference.aspose.com/words/net/aspose.words.documentsave/methods/4)
 3. Ladda HTML-dokument genom att använda klassen [Arbetsbok](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Spara dokumentet i JSON-format med metoden [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)

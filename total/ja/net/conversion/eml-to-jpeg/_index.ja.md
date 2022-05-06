@@ -1,7 +1,7 @@
 ---
 title: EMLをJPEGにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMLをJPEGに変換する
-url: /ja/net/conversion/eml-to-jpeg/
+url_ignore: /ja/net/conversion/eml-to-jpeg/
 family: total
 platformtag: net
 feature: conversion

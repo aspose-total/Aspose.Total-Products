@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert WORDML to CSV
 description: Convert WORDML to CSV via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/wordml-to-csv/
+url_ignore: /java/conversion/wordml-to-csv/
 family: total
 platformtag: java
 feature: conversion

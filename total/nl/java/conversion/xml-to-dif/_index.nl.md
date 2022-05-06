@@ -1,7 +1,7 @@
 ---
 title: Java API om XML naar DIF te renderen
 description: Exporteer XML naar DIF via Java API zonder Microsoft Excel of Adobe Reader te gebruiken
-url: /nl/java/conversion/xml-to-dif/
+url_ignore: /nl/java/conversion/xml-to-dif/
 family: total
 platformtag: net
 feature: conversion

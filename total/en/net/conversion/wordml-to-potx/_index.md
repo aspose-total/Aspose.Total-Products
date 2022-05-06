@@ -1,6 +1,6 @@
 ---
 title: Convert WORDML to POTX via C# .NET 
-url: /net/conversion/wordml-to-potx/ 
+url_ignore: /net/conversion/wordml-to-potx/ 
 description: Convert Word wordml documents to PowerPoint potx files with C#. Convert multiple files within ASP.NET or other .NET applications.
 ---
 

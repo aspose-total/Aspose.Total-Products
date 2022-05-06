@@ -1,7 +1,7 @@
 ---
 title: Konversi DOTX ke PPTX melalui Java
 description: Java API untuk Mengekspor DOTX ke PPTX tanpa menggunakan Microsoft Word atau PowerPoint
-url: /id/java/conversion/dotx-to-pptx/
+url_ignore: /id/java/conversion/dotx-to-pptx/
 family: total
 platformtag: net
 feature: conversion
@@ -16,8 +16,8 @@ Seringkali pengembang harus mengonversi file DOTX ke PPTX secara terprogram. Den
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cara Mengonversi DOTX ke PPTX melalui Java" %}}
-1. Buka file DOTX menggunakan kelas [Dotxument](https://apireference.aspose.com/words/java/com.aspose.words/Dotxument)
-2. Konversi file DOTX ke HTML dengan menggunakan [save](https://apireference.aspose.com/words/java/com.aspose.words/Dotxument#save(java.lang.String,com.aspose.words.SaveOptions)) metode
+1. Buka file DOTX menggunakan kelas [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. Konversi file DOTX ke HTML dengan menggunakan [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metode
 3. Inisialisasi objek [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) baru
 5. Ekstrak konten dari file HTML menggunakan BufferedReader dan tulis konten di file presentasi Anda
 6. Simpan dokumen ke PPTX menggunakan metode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

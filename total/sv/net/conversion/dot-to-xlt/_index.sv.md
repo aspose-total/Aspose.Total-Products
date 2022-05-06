@@ -1,7 +1,7 @@
 ---
 title: .NET API för att konvertera DOT till XLT
 description: C# API för att konvertera DOT till XLT utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/net/conversion/dot-to-xlt/
+url_ignore: /sv/net/conversion/dot-to-xlt/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Lägg till anpassade egenskaper i XLT-fil via C#" %}}
 När du konverterar DOT till XLT gör [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) det möjligt för dig att lägga till anpassade egenskaper i dina XLT-dokument. För att lägga till en anpassad egenskap kan du använda metoden [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index) för [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection) klass. Add-metoden lägger till egenskapen i Excel-filen och returnerar en referens för den nya dokumentegenskapen som en [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /Documentproperty) objekt. 
 {{% blocks/products/pf/feature-page-code %}}

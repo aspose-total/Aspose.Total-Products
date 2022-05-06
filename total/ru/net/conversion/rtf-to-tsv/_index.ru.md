@@ -1,7 +1,7 @@
 ---
 title: .NET API для преобразования RTF в TSV
 description: C# API для преобразования RTF в TSV без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/rtf-to-tsv/
+url_ignore: /ru/net/conversion/rtf-to-tsv/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ otherformats: FODS XLAM EXCEL XLSX SXC DIF XLSM ODS XLTX XLSB TSV XLS XLTM XLT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API для преобразования RTF в TSV" %}}
-1. Откройте файл RTF, используя класс [Rtfument](https://apireference.aspose.com/words/net/aspose.words/rtfument).
-2. Преобразуйте RTF в HTML, используя метод [Сохранить](https://apireference.aspose.com/words/net/aspose.words.rtfument/save/methods/4).
+1. Откройте файл RTF, используя класс [Document](https://apireference.aspose.com/words/net/aspose.words/Document).
+2. Преобразуйте RTF в HTML, используя метод [Сохранить](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4).
 3. Загрузите HTML-документ с помощью класса [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
 4. Сохраните документ в формате TSV с помощью метода [Сохранить](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) и установите «TSV» в качестве формата сохранения.
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -39,7 +39,7 @@ otherformats: FODS XLAM EXCEL XLSX SXC DIF XLSM ODS XLTX XLSB TSV XLS XLTM XLT
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Загрузить документ RTF из потока через С#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) также позволяет загружать документ RTF через поток. Чтобы открыть документ из потока, просто передайте объект потока, содержащий документ, в конструктор [Rtfument](https://apireference.aspose.com/words/net/aspose.words/rtfument). В следующем примере кода показано, как открыть документ из потока:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) также позволяет загружать документ RTF через поток. Чтобы открыть документ из потока, просто передайте объект потока, содержащий документ, в конструктор [Document](https://apireference.aspose.com/words/net/aspose.words/Document). В следующем примере кода показано, как открыть документ из потока:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ otherformats: FODS XLAM EXCEL XLSX SXC DIF XLSM ODS XLTX XLSB TSV XLS XLTM XLT
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Добавить пользовательские свойства в файл TSV через С#" %}}
-При преобразовании RTF в TSV [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) позволяет добавлять пользовательские свойства в документы TSV. Чтобы добавить пользовательское свойство, вы можете использовать метод [Добавить](https://apireference.aspose.com/cells/net/aspose.cells.properties/customrtfumentpropertycollection/methods/add/index) для [CustomRtfumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customrtfumentpropertycollection). Метод Add добавляет свойство в файл Excel и возвращает ссылку на новое свойство документа в виде [Aspose.Cells.Properties.RtfumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties). /rtfumentproperty) объект. 
+При преобразовании RTF в TSV [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) позволяет добавлять пользовательские свойства в документы TSV. Чтобы добавить пользовательское свойство, вы можете использовать метод [Добавить](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index) для [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection). Метод Add добавляет свойство в файл Excel и возвращает ссылку на новое свойство документа в виде [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties). /Documentproperty) объект. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

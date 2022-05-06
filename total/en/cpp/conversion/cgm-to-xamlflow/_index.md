@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export CGM to XAMLFLOW
 description: Convert CGM to XAMLFLOW within C++ applications.
-url: /cpp/conversion/cgm-to-xamlflow/
+url_ignore: /cpp/conversion/cgm-to-xamlflow/
 family: total
 platformtag: cpp
 feature: conversion

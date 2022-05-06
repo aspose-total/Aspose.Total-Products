@@ -1,7 +1,7 @@
 ---
 title: .NET API для преобразования DOTM в EXCEL
 description: C# API для преобразования DOTM в EXCEL без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/dotm-to-excel/
+url_ignore: /ru/net/conversion/dotm-to-excel/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Render EMLX to TEXT in Andorid App
 description: Export EMLX to TEXT without using Microsoft Word or Outlook in you Andorid applications 
-url: /android-java/conversion/emlx-to-text/
+url_ignore: /android-java/conversion/emlx-to-text/
 family: total
 platformtag: android-java
 feature: conversion

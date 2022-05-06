@@ -1,7 +1,7 @@
 ---
 title: Convert HTML to TGA via Java
 description: Export HTML file to TGA  in your Java applications without using any third party application 
-url: /java/conversion/html-to-tga/
+url_ignore: /java/conversion/html-to-tga/
 family: total
 platformtag: java
 feature: conversion

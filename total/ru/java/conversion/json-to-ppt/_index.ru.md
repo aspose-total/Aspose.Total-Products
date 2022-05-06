@@ -1,7 +1,7 @@
 ---
 title: Преобразование формата JSON в PPT через Java
 description: Разбор JSON в PPT на Java без использования Microsoft PowerPoint
-url: /ru/java/conversion/json-to-ppt/
+url_ignore: /ru/java/conversion/json-to-ppt/
 family: total
 platformtag: net
 feature: conversion

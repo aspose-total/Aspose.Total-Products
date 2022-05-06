@@ -1,7 +1,7 @@
 ---
 title: Convierta ODP a formato JSON a través de Java
 description: Convierta el formato ODP a JSON a través de Java sin usar Microsoft Excel o PowerPoint
-url: /es/java/conversion/odp-to-json/
+url_ignore: /es/java/conversion/odp-to-json/
 family: total
 platformtag: net
 feature: conversion

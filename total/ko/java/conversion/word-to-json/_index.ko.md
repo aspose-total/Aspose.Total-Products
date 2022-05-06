@@ -1,7 +1,7 @@
 ---
 title: Java를 통해 WORD를 JSON 형식으로 변환
 description: Microsoft Word 또는 Microsoft Excel을 사용하지 않고 Java를 통해 WORD를 JSON 형식으로 변환
-url: /ko/java/conversion/word-to-json/
+url_ignore: /ko/java/conversion/word-to-json/
 family: total
 platformtag: net
 feature: conversion
@@ -19,7 +19,7 @@ otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 1. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) 클래스를 사용하여 WORD 파일을 엽니다.
 2. [저장](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)을 사용하여 WORD를 HTML로 변환합니다. ) 방법
 3. [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) 클래스를 사용하여 HTML 문서 로드
-4. [저장](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells)을 사용하여 문서를 JSON 형식으로 저장합니다. SaveOptions)) 메서드
+4. [저장](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells))을 사용하여 문서를 JSON 형식으로 저장합니다. SaveOptions)) 메서드
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) 기반 프로젝트에서 직접 Java용 Aspose.Total을 쉽게 사용할 수 있습니다. pom.xml에 라이브러리를 포함합니다.

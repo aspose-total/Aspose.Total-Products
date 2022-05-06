@@ -1,7 +1,7 @@
 ---
 title: Convert POWERPOINT to MARKDOWN via C++ 
 description: Export POWERPOINT to MARKDOWN in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/powerpoint-to-markdown/
+url_ignore: /cpp/conversion/powerpoint-to-markdown/
 family: total
 platformtag: cpp
 feature: conversion

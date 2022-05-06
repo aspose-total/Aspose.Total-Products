@@ -1,6 +1,6 @@
 ---
 title: Преобразование POTM в ODT через C# .NET 
-url: /ru/net/conversion/potm-to-odt/ 
+url_ignore: /ru/net/conversion/potm-to-odt/ 
 description: Преобразование документов PowerPoint potm в файлы документов Word с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

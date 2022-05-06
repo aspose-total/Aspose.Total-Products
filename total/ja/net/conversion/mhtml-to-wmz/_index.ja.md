@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMHTMLをWMZに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでMHTMLをWMZにエクスポートします
-url: /ja/net/conversion/mhtml-to-wmz/
+url_ignore: /ja/net/conversion/mhtml-to-wmz/
 family: total
 platformtag: net
 feature: conversion

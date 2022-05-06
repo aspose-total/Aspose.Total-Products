@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга TEX в FODS
 description: Экспорт TEX в FODS через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/tex-to-fods/
+url_ignore: /ru/java/conversion/tex-to-fods/
 family: total
 platformtag: net
 feature: conversion

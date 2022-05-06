@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى SVGZ عبر .NET
 description: تحليل JSON إلى SVGZ في C# بدون استخدام تبعيات الطرف الثالث
-url: /ar/net/conversion/json-to-svgz/
+url_ignore: /ar/net/conversion/json-to-svgz/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга MD в FODS
 description: Экспорт MD в FODS через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/md-to-fods/
+url_ignore: /ru/java/conversion/md-to-fods/
 family: total
 platformtag: net
 feature: conversion

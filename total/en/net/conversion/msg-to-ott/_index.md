@@ -1,7 +1,7 @@
 ---
 title: C# API to Export MSG to OTT
 description: Convert MSG to OTT without using Microsoft Word or Outlook on .NET
-url: /net/conversion/msg-to-ott/
+url_ignore: /net/conversion/msg-to-ott/
 family: total
 platformtag: net
 feature: conversion

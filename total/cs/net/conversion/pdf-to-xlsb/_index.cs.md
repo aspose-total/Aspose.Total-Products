@@ -1,7 +1,7 @@
 ---
 title: Převeďte PDF na XLSB přes C# API
 description: C# API pro převod souboru PDF do XLSB bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/pdf-to-xlsb/
+url_ignore: /cs/net/conversion/pdf-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

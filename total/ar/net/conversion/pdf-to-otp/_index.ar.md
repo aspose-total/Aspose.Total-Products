@@ -1,7 +1,7 @@
 ---
 title: تصدير PDF إلى OTP عبر C# API
 description: NET API لتحويل PDF إلى OTP دون استخدام Microsoft Word
-url: /ar/net/conversion/pdf-to-otp/
+url_ignore: /ar/net/conversion/pdf-to-otp/
 family: total
 platformtag: net
 feature: conversion

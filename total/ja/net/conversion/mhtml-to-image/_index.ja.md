@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMHTMLをIMAGEに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでMHTMLをIMAGEにエクスポートします
-url: /ja/net/conversion/mhtml-to-image/
+url_ignore: /ja/net/conversion/mhtml-to-image/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Xuất EMLX sang DOT qua Java
 description: Java API để chuyển đổi EMLX thành DOT mà không cần sử dụng Microsoft Word hoặc Outlook
-url: /vi/java/conversion/emlx-to-dot/
+url_ignore: /vi/java/conversion/emlx-to-dot/
 family: total
 platformtag: net
 feature: conversion

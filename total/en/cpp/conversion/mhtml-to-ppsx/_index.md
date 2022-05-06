@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MHTML to PPSX  
 description: Convert MHTML to PPSX via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/mhtml-to-ppsx/
+url_ignore: /cpp/conversion/mhtml-to-ppsx/
 family: total
 platformtag: cpp
 feature: conversion

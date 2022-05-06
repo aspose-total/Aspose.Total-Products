@@ -1,7 +1,7 @@
 ---
 title: Converti EPUB in POTX tramite API Java
 description: API Java per convertire EPUB in POTX senza utilizzare Microsoft Word
-url: /it/java/conversion/epub-to-potx/
+url_ignore: /it/java/conversion/epub-to-potx/
 family: total
 platformtag: net
 feature: conversion

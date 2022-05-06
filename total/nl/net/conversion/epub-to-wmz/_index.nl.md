@@ -1,7 +1,7 @@
 ---
 title: Converteer EPUB naar WMZ via C# API
 description: Exporteer EPUB naar WMZ in uw .NET-toepassingen zonder een toepassing van derden te gebruiken
-url: /nl/net/conversion/epub-to-wmz/
+url_ignore: /nl/net/conversion/epub-to-wmz/
 family: total
 platformtag: net
 feature: conversion

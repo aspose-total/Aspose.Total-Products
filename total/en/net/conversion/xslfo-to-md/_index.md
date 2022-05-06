@@ -1,7 +1,7 @@
 ---
 title: Convert XSLFO to MD via C# API
 description: C# API to Convert XSLFO File to MD without using Microsoft Excel or Adobe Reader
-url: /net/conversion/xslfo-to-md/
+url_ignore: /net/conversion/xslfo-to-md/
 family: total
 platformtag: net
 feature: conversion

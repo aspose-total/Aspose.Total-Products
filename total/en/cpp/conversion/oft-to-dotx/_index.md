@@ -1,7 +1,7 @@
 ---
 title: Export OFT to DOTX via C++
 description: C++ API to Convert OFT to DOTX without using Microsoft Word or Outlook
-url: /cpp/conversion/oft-to-dotx/
+url_ignore: /cpp/conversion/oft-to-dotx/
 family: total
 platformtag: cpp
 feature: conversion

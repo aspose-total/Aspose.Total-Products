@@ -1,7 +1,7 @@
 ---
 title: Convert DOCM to PPSM via Java
 description: Java API to Export DOCM to PPSM without using Microsoft Word or PowerPoint
-url: /java/conversion/docm-to-ppsm/
+url_ignore: /java/conversion/docm-to-ppsm/
 family: total
 platformtag: java
 feature: conversion

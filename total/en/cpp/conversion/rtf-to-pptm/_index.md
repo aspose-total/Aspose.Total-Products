@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to PPTM via C++
 description: Export RTF to PPTM in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/rtf-to-pptm/
+url_ignore: /cpp/conversion/rtf-to-pptm/
 family: total
 platformtag: cpp
 feature: conversion

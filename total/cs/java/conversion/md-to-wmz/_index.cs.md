@@ -1,7 +1,7 @@
 ---
 title: Převést MD na WMZ přes Java
 description: Exportujte soubor MD do WMZ ve svých aplikacích Java bez použití jakékoli aplikace třetí strany
-url: /cs/java/conversion/md-to-wmz/
+url_ignore: /cs/java/conversion/md-to-wmz/
 family: total
 platformtag: net
 feature: conversion

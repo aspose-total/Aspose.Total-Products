@@ -1,7 +1,7 @@
 ---
 title: Konversi MD ke TGA melalui C# API
 description: Ekspor MD ke TGA di aplikasi .NET Anda tanpa menggunakan aplikasi pihak ketiga
-url: /id/net/conversion/md-to-tga/
+url_ignore: /id/net/conversion/md-to-tga/
 family: total
 platformtag: net
 feature: conversion

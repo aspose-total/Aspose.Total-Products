@@ -1,7 +1,7 @@
 ---
 title: Convert PPSM to DOTX via Java
 description: Java API to Export PPSM to DOTX without using Microsoft Word or PowerPoint
-url: /java/conversion/ppsm-to-dotx/
+url_ignore: /java/conversion/ppsm-to-dotx/
 family: total
 platformtag: java
 feature: conversion

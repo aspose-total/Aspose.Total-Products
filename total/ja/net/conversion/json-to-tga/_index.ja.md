@@ -1,7 +1,7 @@
 ---
 title: .NETを介してJSON形式をTGAに変換する
 description: サードパーティの依存関係を使用せずに、C＃でJSONをTGAに解析します
-url: /ja/net/conversion/json-to-tga/
+url_ignore: /ja/net/conversion/json-to-tga/
 family: total
 platformtag: net
 feature: conversion

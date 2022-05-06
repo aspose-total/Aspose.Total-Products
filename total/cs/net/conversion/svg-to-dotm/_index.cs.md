@@ -1,7 +1,7 @@
 ---
 title: C# API pro export SVG do DOTM
 description: Převeďte SVG na DOTM bez použití aplikace Microsoft Word
-url: /cs/net/conversion/svg-to-dotm/
+url_ignore: /cs/net/conversion/svg-to-dotm/
 family: total
 platformtag: net
 feature: conversion

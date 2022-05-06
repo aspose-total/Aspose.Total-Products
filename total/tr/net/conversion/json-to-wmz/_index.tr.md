@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını .NET aracılığıyla WMZ'ye dönüştürün
 description: Üçüncü taraf bağımlılıklarını kullanmadan JSON'u C#'ta WMZ'ye ayrıştırın
-url: /tr/net/conversion/json-to-wmz/
+url_ignore: /tr/net/conversion/json-to-wmz/
 family: total
 platformtag: net
 feature: conversion

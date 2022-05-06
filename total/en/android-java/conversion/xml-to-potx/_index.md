@@ -1,7 +1,7 @@
 ---
 title: Export XML to POTX in Android 
 description: Android API to Convert XML to POTX without using Microsoft Word
-url: /android-java/conversion/xml-to-potx/
+url_ignore: /android-java/conversion/xml-to-potx/
 family: total
 platformtag: android-java
 feature: conversion

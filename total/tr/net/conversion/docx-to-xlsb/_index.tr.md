@@ -1,7 +1,7 @@
 ---
 title: DOCX'yi XLSB'ye Dönüştürmek için .NET API
 description: Microsoft Excel veya Adobe Reader kullanmadan DOCX'yi XLSB'ye dönüştürmek için C# API'si
-url: /tr/net/conversion/docx-to-xlsb/
+url_ignore: /tr/net/conversion/docx-to-xlsb/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ otherformats: XLSB SXC XLT XLSM XLSB XLTX XLS EXCEL TSV ODS XLAM XLTM FODS DIF
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="DOCX'yi XLSB'ye Dönüştürmek için .NET API" %}}
-1. DOCX dosyasını [Docxument](https://apireference.aspose.com/words/net/aspose.words/docxument) sınıfını kullanarak açın
-2. [Save](https://apireference.aspose.com/words/net/aspose.words.docxument/save/methods/4) yöntemini kullanarak DOCX'u HTML'ye dönüştürün
+1. DOCX dosyasını [Document](https://apireference.aspose.com/words/net/aspose.words/Document) sınıfını kullanarak açın
+2. [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4) yöntemini kullanarak DOCX'u HTML'ye dönüştürün
 3. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) sınıfını kullanarak HTML belgesini yükleyin
 4. [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) yöntemini kullanarak belgeyi XLSB formatına kaydedin ve 'XLSB'yi SaveFormat olarak ayarlayın
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -39,7 +39,7 @@ Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [indirilenler
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="DOCX Belgesini Akıştan C# ile Yükle" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) ayrıca akış yoluyla DOCX belgesini yüklemenizi sağlar. Bir akıştan bir belge açmak için belgeyi içeren bir akış nesnesini [Docxument](https://apireference.aspose.com/words/net/aspose.words/docxument) yapıcısına iletmeniz yeterlidir. Aşağıdaki kod örneği, bir akıştan bir belgenin nasıl açılacağını gösterir:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) ayrıca akış yoluyla DOCX belgesini yüklemenizi sağlar. Bir akıştan bir belge açmak için belgeyi içeren bir akış nesnesini [Document](https://apireference.aspose.com/words/net/aspose.words/Document) yapıcısına iletmeniz yeterlidir. Aşağıdaki kod örneği, bir akıştan bir belgenin nasıl açılacağını gösterir:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
@@ -48,7 +48,7 @@ Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [indirilenler
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="C# ile XLSB Dosyasına Özel Özellikler Ekleme" %}}
-DOCX'yi XLSB'ye dönüştürürken, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), XLSB belgelerinize özel özellikler eklemenizi sağlar. Özel bir özellik eklemek için [CustomDocxumentPropertyCollection]( için [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocxumentpropertycollection/methods/add/index) yöntemini kullanabilirsiniz. https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocxumentpropertycollection) sınıfı. Add yöntemi, özelliği Excel dosyasına ekler ve yeni belge özelliği için [Aspose.Cells.Properties.DocxumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) olarak bir başvuru döndürür. /docxumentproperty) nesnesi. 
+DOCX'yi XLSB'ye dönüştürürken, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), XLSB belgelerinize özel özellikler eklemenizi sağlar. Özel bir özellik eklemek için [CustomDocumentPropertyCollection]( için [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index) yöntemini kullanabilirsiniz. https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection) sınıfı. Add yöntemi, özelliği Excel dosyasına ekler ve yeni belge özelliği için [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) olarak bir başvuru döndürür. /Documentproperty) nesnesi. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}

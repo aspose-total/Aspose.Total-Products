@@ -1,7 +1,7 @@
 ---
 title: Convert POTM to FODS via C# 
 description: Convert POTM to FODS in C# without using Microsoft Excel or Powerpoint
-url: /net/conversion/potm-to-fods/
+url_ignore: /net/conversion/potm-to-fods/
 family: total
 platformtag: net
 feature: conversion

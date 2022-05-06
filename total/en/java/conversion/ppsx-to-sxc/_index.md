@@ -1,7 +1,7 @@
 ---
 title: Convert PPSX to SXC Format via Java
 description: Convert PPSX to SXC format via Java without using using Microsoft Excel or PowerPoint
-url: /java/conversion/ppsx-to-sxc/
+url_ignore: /java/conversion/ppsx-to-sxc/
 family: total
 platformtag: java
 feature: conversion

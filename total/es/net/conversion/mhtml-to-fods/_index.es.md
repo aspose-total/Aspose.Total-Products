@@ -1,7 +1,7 @@
 ---
 title: Convierta MHTML a FODS a través de la API de C#
 description: API C# para convertir archivos MHTML a FODS sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/mhtml-to-fods/
+url_ignore: /es/net/conversion/mhtml-to-fods/
 family: total
 platformtag: net
 feature: conversion

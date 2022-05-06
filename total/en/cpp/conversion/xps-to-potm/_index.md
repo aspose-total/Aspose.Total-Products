@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XPS to POTM  
 description: Convert XPS to POTM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xps-to-potm/
+url_ignore: /cpp/conversion/xps-to-potm/
 family: total
 platformtag: cpp
 feature: conversion

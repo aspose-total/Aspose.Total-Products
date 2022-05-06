@@ -1,7 +1,7 @@
 ---
 title: تحويل POTX إلى تنسيق XLSB عبر Java
 description: قم بتحويل POTX إلى تنسيق XLSB عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/potx-to-xlsb/
+url_ignore: /ar/java/conversion/potx-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

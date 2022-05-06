@@ -1,7 +1,7 @@
 ---
 title: Converter PCL para ODS via API C#
 description: API C# para converter arquivo PCL em ODS sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/pcl-to-ods/
+url_ignore: /pt/net/conversion/pcl-to-ods/
 family: total
 platformtag: net
 feature: conversion

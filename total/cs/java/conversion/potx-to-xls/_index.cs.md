@@ -1,7 +1,7 @@
 ---
 title: Převeďte POTX do formátu XLS přes Java
 description: Převeďte POTX do formátu XLS přes Java bez použití Microsoft Excel nebo PowerPoint
-url: /cs/java/conversion/potx-to-xls/
+url_ignore: /cs/java/conversion/potx-to-xls/
 family: total
 platformtag: net
 feature: conversion

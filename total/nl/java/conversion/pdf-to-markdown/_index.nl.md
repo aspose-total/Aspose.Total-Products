@@ -1,7 +1,7 @@
 ---
 title: Java API om PDF naar MARKDOWN te exporteren
 description: Converteer PDF naar MARKDOWN met behulp van on-premise Java API
-url: /nl/java/conversion/pdf-to-markdown/
+url_ignore: /nl/java/conversion/pdf-to-markdown/
 family: total
 platformtag: net
 feature: conversion

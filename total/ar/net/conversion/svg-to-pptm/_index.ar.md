@@ -1,7 +1,7 @@
 ---
 title: تصدير SVG إلى PPTM عبر C# API
 description: NET API لتحويل SVG إلى PPTM دون استخدام Microsoft Word
-url: /ar/net/conversion/svg-to-pptm/
+url_ignore: /ar/net/conversion/svg-to-pptm/
 family: total
 platformtag: net
 feature: conversion

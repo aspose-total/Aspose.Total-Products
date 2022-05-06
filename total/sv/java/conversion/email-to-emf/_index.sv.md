@@ -1,7 +1,7 @@
 ---
 title: Exportera EMAIL till EMF via Java
 description: Java API för att konvertera EMAIL till EMF utan att använda Microsoft Word eller Outlook
-url: /sv/java/conversion/email-to-emf/
+url_ignore: /sv/java/conversion/email-to-emf/
 family: total
 platformtag: net
 feature: conversion

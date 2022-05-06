@@ -1,7 +1,7 @@
 ---
 title: C# API to Export MHTML to PS
 description: Convert MHTML to PS without using Microsoft Word
-url: /net/conversion/mhtml-to-ps/
+url_ignore: /net/conversion/mhtml-to-ps/
 family: total
 platformtag: net
 feature: conversion

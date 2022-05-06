@@ -1,7 +1,7 @@
 ---
 title: API .NET para convertir OTT a TSV
 description: API de C# para convertir OTT a TSV sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/ott-to-tsv/
+url_ignore: /es/net/conversion/ott-to-tsv/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API เพื่อส่งออก PDF ไปยัง RTF
 description: แปลง PDF เป็น RTF โดยใช้ Java API . ในตัว
-url: /th/java/conversion/pdf-to-rtf/
+url_ignore: /th/java/conversion/pdf-to-rtf/
 family: total
 platformtag: net
 feature: conversion

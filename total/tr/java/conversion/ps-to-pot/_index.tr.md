@@ -1,7 +1,7 @@
 ---
 title: Java API aracılığıyla PS'yi POT'ye dönüştürün
 description: Microsoft Word kullanmadan PS'yi POT'ye dönüştürmek için Java API
-url: /tr/java/conversion/ps-to-pot/
+url_ignore: /tr/java/conversion/ps-to-pot/
 family: total
 platformtag: net
 feature: conversion
@@ -37,7 +37,8 @@ document.save("PptxOutput.pptx", SaveFormat.Pptx);
 Presentation presentation = new Presentation("PptxOutput.pptx");
 // save the presentation as Pot format
 presentation.save("output.pot", SaveFormat.Pot);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Dönüşüm Gereksinimleri" %}}
@@ -50,7 +51,8 @@ Document doc = new Document("input.ps", "Your@Password");
 // save PS as PPTX format 
 document.save("PptxOutput.pptx", SaveFormat.Pptx); 
 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Java ile Şifreli PS Dosyasını Açın" %}}
@@ -64,7 +66,8 @@ Presentation presentation = new Presentation("PptxOutput.pptx");
 presentation.getViewProperties().setLastView((byte) ViewType.SlideMasterView);
 // save the presentation as Pot format
 presentation.save("output.pot", SaveFormat.Pot);    
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

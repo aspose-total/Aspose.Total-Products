@@ -1,7 +1,7 @@
 ---
 title: Export PDF to PPSM in Android 
 description: Android API to Convert PDF to PPSM without using Microsoft Word
-url: /android-java/conversion/pdf-to-ppsm/
+url_ignore: /android-java/conversion/pdf-to-ppsm/
 family: total
 platformtag: android-java
 feature: conversion

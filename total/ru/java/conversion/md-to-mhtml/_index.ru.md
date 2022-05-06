@@ -1,7 +1,7 @@
 ---
 title: Java API для экспорта MD в MHTML
 description: Преобразование MD в MHTML с использованием локального Java API
-url: /ru/java/conversion/md-to-mhtml/
+url_ignore: /ru/java/conversion/md-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

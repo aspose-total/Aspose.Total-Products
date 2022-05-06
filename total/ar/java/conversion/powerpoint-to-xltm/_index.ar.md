@@ -1,7 +1,7 @@
 ---
 title: تحويل POWERPOINT إلى تنسيق XLTM عبر Java
 description: قم بتحويل POWERPOINT إلى تنسيق XLTM عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/powerpoint-to-xltm/
+url_ignore: /ar/java/conversion/powerpoint-to-xltm/
 family: total
 platformtag: net
 feature: conversion

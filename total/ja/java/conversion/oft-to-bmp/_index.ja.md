@@ -1,7 +1,7 @@
 ---
 title: Java経由でOFTをBMPにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにOFTをBMPに変換するJavaAPI
-url: /ja/java/conversion/oft-to-bmp/
+url_ignore: /ja/java/conversion/oft-to-bmp/
 family: total
 platformtag: net
 feature: conversion

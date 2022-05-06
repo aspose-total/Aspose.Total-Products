@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi định dạng JSON sang MOBI thông qua Java
 description: Phân tích cú pháp JSON thành MOBI trong Java mà không cần sử dụng Microsoft Word
-url: /vi/java/conversion/json-to-mobi/
+url_ignore: /vi/java/conversion/json-to-mobi/
 family: total
 platformtag: net
 feature: conversion
@@ -16,7 +16,7 @@ Bằng cách sử dụng [Aspose.Total for Java](https://products.aspose.com/tot
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi định dạng JSON sang MOBI qua Java" %}}
-1. Tạo đối tượng [Workbook] mới (https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) đối tượng và đọc dữ liệu JSON hợp lệ từ tệp
+1. Tạo đối tượng [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) đối tượng và đọc dữ liệu JSON hợp lệ từ tệp
 2. Nhập tệp JSON vào trang tính bằng cách sử dụng lớp [JsonUtility](https://apireference.aspose.com/cells/java/com.aspose.cells/JsonUtility) và [Save](https://apireference.aspose.com/ cells/java/com.aspose.cells/workbook # save (java.lang.String,%20com.aspose.cells.SaveOptions)) nó dưới dạng PDF
 3. Tải tài liệu PDF bằng cách sử dụng lớp [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. Lưu tài liệu sang định dạng MOBI bằng cách sử dụng [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String, com.aspose.words.SaveOptions))) phương pháp

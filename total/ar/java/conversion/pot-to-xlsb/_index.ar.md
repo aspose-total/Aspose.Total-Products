@@ -1,7 +1,7 @@
 ---
 title: تحويل POT إلى تنسيق XLSB عبر Java
 description: قم بتحويل POT إلى تنسيق XLSB عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/pot-to-xlsb/
+url_ignore: /ar/java/conversion/pot-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

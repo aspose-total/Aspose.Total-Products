@@ -1,7 +1,7 @@
 ---
 title: POT'u C# ile DIF'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan POT'u C#'ta DIF'ye dönüştürün
-url: /tr/net/conversion/pot-to-dif/
+url_ignore: /tr/net/conversion/pot-to-dif/
 family: total
 platformtag: net
 feature: conversion

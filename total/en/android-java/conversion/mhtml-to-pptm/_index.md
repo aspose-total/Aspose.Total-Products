@@ -1,7 +1,7 @@
 ---
 title: Export MHTML to PPTM in Android 
 description: Android API to Convert MHTML to PPTM without using Microsoft Word
-url: /android-java/conversion/mhtml-to-pptm/
+url_ignore: /android-java/conversion/mhtml-to-pptm/
 family: total
 platformtag: android-java
 feature: conversion

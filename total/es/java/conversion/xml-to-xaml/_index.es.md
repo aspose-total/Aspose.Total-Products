@@ -1,7 +1,7 @@
 ---
 title: Convierta XML a XAML a través de la API de Java
 description: API de Java para convertir XML a XAML sin usar Microsoft Word
-url: /es/java/conversion/xml-to-xaml/
+url_ignore: /es/java/conversion/xml-to-xaml/
 family: total
 platformtag: net
 feature: conversion

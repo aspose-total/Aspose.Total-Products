@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to EXCEL in C++
 description: C++ API to Convert DOT to EXCEL without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/dot-to-excel/
+url_ignore: /cpp/conversion/dot-to-excel/
 family: total
 platformtag: cpp
 feature: conversion

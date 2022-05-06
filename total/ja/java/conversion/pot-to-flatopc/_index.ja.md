@@ -1,7 +1,7 @@
 ---
 title: Java経由でPOTをFLATOPCに変換する
 description: MicrosoftWordやPowerPointを使用せずにPOTをFLATOPCにエクスポートするJavaAPI
-url: /ja/java/conversion/pot-to-flatopc/
+url_ignore: /ja/java/conversion/pot-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

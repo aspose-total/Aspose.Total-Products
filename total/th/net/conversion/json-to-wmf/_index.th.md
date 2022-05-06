@@ -1,7 +1,7 @@
 ---
 title: แปลงรูปแบบ JSON เป็น WMF ผ่าน .NET
 description: แยก JSON เป็น WMF ใน C# โดยไม่ต้องใช้การพึ่งพาบุคคลที่สาม
-url: /th/net/conversion/json-to-wmf/
+url_ignore: /th/net/conversion/json-to-wmf/
 family: total
 platformtag: net
 feature: conversion

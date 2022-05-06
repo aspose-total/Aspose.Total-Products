@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PDF to XLT
 description: Convert PDF to XLT via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/pdf-to-xlt/
+url_ignore: /cpp/conversion/pdf-to-xlt/
 family: total
 platformtag: cpp
 feature: conversion

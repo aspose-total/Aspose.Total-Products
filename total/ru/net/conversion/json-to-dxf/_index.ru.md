@@ -1,7 +1,7 @@
 ---
 title: Преобразование формата JSON в DXF через .NET
 description: Разбирать JSON в DXF на C# без использования сторонних зависимостей
-url: /ru/net/conversion/json-to-dxf/
+url_ignore: /ru/net/conversion/json-to-dxf/
 family: total
 platformtag: net
 feature: conversion

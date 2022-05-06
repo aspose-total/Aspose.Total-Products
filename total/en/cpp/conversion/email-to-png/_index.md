@@ -1,7 +1,7 @@
 ---
 title: Export EMAIL to PNG via C++
 description: C++ API to Convert EMAIL to PNG without using Microsoft Word or Outlook
-url: /cpp/conversion/email-to-png/
+url_ignore: /cpp/conversion/email-to-png/
 family: total
 platformtag: cpp
 feature: conversion

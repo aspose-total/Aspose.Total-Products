@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi TEX sang PPT thông qua Java API
 description: Java API để chuyển đổi TEX sang PPT mà không cần sử dụng Microsoft Word
-url: /vi/java/conversion/tex-to-ppt/
+url_ignore: /vi/java/conversion/tex-to-ppt/
 family: total
 platformtag: net
 feature: conversion

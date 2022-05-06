@@ -1,7 +1,7 @@
 ---
 title: SVG'yi GIF'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan SVG'yi GIF'ye dönüştürün
-url: /tr/net/conversion/svg-to-gif/
+url_ignore: /tr/net/conversion/svg-to-gif/
 family: total
 platformtag: net
 feature: conversion

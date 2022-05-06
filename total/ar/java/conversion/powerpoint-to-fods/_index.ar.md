@@ -1,7 +1,7 @@
 ---
 title: تحويل POWERPOINT إلى تنسيق FODS عبر Java
 description: قم بتحويل POWERPOINT إلى تنسيق FODS عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/powerpoint-to-fods/
+url_ignore: /ar/java/conversion/powerpoint-to-fods/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertera XPS till POTX via Java API
 description: Java API för att konvertera XPS till POTX utan att använda Microsoft Word
-url: /sv/java/conversion/xps-to-potx/
+url_ignore: /sv/java/conversion/xps-to-potx/
 family: total
 platformtag: net
 feature: conversion

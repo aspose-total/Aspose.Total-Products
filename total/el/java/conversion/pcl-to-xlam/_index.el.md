@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση PCL σε XLAM
 description: Εξαγωγή PCL σε XLAM μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/pcl-to-xlam/
+url_ignore: /el/java/conversion/pcl-to-xlam/
 family: total
 platformtag: net
 feature: conversion

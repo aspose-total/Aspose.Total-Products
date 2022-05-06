@@ -1,7 +1,7 @@
 ---
 title: Конвертировать POTX в DOT через Java
 description: Java API для экспорта POTX в DOT без использования Microsoft Word или PowerPoint
-url: /ru/java/conversion/potx-to-dot/
+url_ignore: /ru/java/conversion/potx-to-dot/
 family: total
 platformtag: net
 feature: conversion

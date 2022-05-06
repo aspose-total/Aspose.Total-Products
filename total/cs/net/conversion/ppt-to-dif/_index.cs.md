@@ -1,7 +1,7 @@
 ---
 title: Převést PPT na DIF přes C#
 description: Převeďte PPT na DIF v C# bez použití Microsoft Excel nebo Powerpoint
-url: /cs/net/conversion/ppt-to-dif/
+url_ignore: /cs/net/conversion/ppt-to-dif/
 family: total
 platformtag: net
 feature: conversion

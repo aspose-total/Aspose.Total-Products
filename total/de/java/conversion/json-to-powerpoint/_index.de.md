@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie das JSON-Format über Java in POWERPOINT
 description: Analysieren Sie JSON in POWERPOINT in Java, ohne Microsoft PowerPoint zu verwenden
-url: /de/java/conversion/json-to-powerpoint/
+url_ignore: /de/java/conversion/json-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

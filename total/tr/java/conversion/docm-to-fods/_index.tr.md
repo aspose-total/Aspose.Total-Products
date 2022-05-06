@@ -1,7 +1,7 @@
 ---
 title: DOCM'yi FODS'ye Dönüştürmek için Java API
 description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla DOCM'yi FODS'ye dönüştürün
-url: /tr/java/conversion/docm-to-fods/
+url_ignore: /tr/java/conversion/docm-to-fods/
 family: total
 platformtag: net
 feature: conversion

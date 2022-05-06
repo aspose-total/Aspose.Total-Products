@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PDF to DOTX
 description: Transform PDF to DOTX via Android via Java API
-url: /android-java/conversion/pdf-to-dotx/
+url_ignore: /android-java/conversion/pdf-to-dotx/
 family: total
 platformtag: android-java
 feature: conversion

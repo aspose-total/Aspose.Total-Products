@@ -1,7 +1,7 @@
 ---
 title: PS'yi C# API aracılığıyla PPS'ye aktarın
 description: Microsoft Word kullanmadan PS'yi PPS'ye dönüştürmek için .NET API
-url: /tr/net/conversion/ps-to-pps/
+url_ignore: /tr/net/conversion/ps-to-pps/
 family: total
 platformtag: net
 feature: conversion

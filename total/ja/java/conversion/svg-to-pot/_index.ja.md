@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してSVGをPOTに変換する
 description: MicrosoftWordを使用せずにSVGをPOTに変換するJavaAPI
-url: /ja/java/conversion/svg-to-pot/
+url_ignore: /ja/java/conversion/svg-to-pot/
 family: total
 platformtag: net
 feature: conversion

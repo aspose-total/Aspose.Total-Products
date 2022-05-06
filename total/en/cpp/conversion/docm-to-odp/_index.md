@@ -1,7 +1,7 @@
 ---
 title: Convert DOCM to ODP via C++
 description: Export DOCM to ODP in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/docm-to-odp/
+url_ignore: /cpp/conversion/docm-to-odp/
 family: total
 platformtag: cpp
 feature: conversion

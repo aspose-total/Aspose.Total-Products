@@ -1,7 +1,7 @@
 ---
 title: Export MHTML to POTM in Android 
 description: Android API to Convert MHTML to POTM without using Microsoft Word
-url: /android-java/conversion/mhtml-to-potm/
+url_ignore: /android-java/conversion/mhtml-to-potm/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование TEX в TXT через C# API
 description: C# API для преобразования файла TEX в TXT без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/tex-to-txt/
+url_ignore: /ru/net/conversion/tex-to-txt/
 family: total
 platformtag: net
 feature: conversion

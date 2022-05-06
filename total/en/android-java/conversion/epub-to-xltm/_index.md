@@ -1,7 +1,7 @@
 ---
 title: Convert EPUB to XLTM in Android via Java
 description: Render EPUB to XLTM in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/epub-to-xltm/
+url_ignore: /android-java/conversion/epub-to-xltm/
 family: total
 platformtag: android-java
 feature: conversion

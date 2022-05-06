@@ -1,7 +1,7 @@
 ---
 title: MHTML'yi DOT'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak MHTML'yi DOT'ye dönüştürün
-url: /tr/java/conversion/mhtml-to-dot/
+url_ignore: /tr/java/conversion/mhtml-to-dot/
 family: total
 platformtag: net
 feature: conversion

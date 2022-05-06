@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MHTML to PPSM  
 description: Convert MHTML to PPSM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/mhtml-to-ppsm/
+url_ignore: /cpp/conversion/mhtml-to-ppsm/
 family: total
 platformtag: cpp
 feature: conversion

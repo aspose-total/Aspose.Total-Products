@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير البريد الإلكتروني إلى EMF
 description: قم بتحويل OFT إلى EMF دون استخدام Microsoft Word أو Outlook على .NET
-url: /ar/net/conversion/oft-to-emf/
+url_ignore: /ar/net/conversion/oft-to-emf/
 family: total
 platformtag: net
 feature: conversion

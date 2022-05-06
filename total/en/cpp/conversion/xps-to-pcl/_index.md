@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export XPS to PCL
 description: Convert XPS to PCL within C++ applications.
-url: /cpp/conversion/xps-to-pcl/
+url_ignore: /cpp/conversion/xps-to-pcl/
 family: total
 platformtag: cpp
 feature: conversion

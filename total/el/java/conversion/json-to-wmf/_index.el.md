@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή μορφής JSON σε WMF μέσω Java
 description: Ανάλυση JSON σε WMF σε Java χωρίς χρήση του Microsoft PowerPoint
-url: /el/java/conversion/json-to-wmf/
+url_ignore: /el/java/conversion/json-to-wmf/
 family: total
 platformtag: net
 feature: conversion

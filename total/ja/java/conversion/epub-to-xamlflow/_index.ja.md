@@ -1,7 +1,7 @@
 ---
 title: EPUBをXAMLFLOWにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してEPUBをXAMLFLOWに変換する
-url: /ja/java/conversion/epub-to-xamlflow/
+url_ignore: /ja/java/conversion/epub-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla CGM'yi SVGZ'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan CGM dosyasını Java uygulamalarınızda SVGZ'ye aktarın
-url: /tr/java/conversion/cgm-to-svgz/
+url_ignore: /tr/java/conversion/cgm-to-svgz/
 family: total
 platformtag: net
 feature: conversion

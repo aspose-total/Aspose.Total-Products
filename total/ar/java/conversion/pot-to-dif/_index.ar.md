@@ -1,7 +1,7 @@
 ---
 title: تحويل POT إلى تنسيق DIF عبر Java
 description: قم بتحويل POT إلى تنسيق DIF عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/pot-to-dif/
+url_ignore: /ar/java/conversion/pot-to-dif/
 family: total
 platformtag: net
 feature: conversion

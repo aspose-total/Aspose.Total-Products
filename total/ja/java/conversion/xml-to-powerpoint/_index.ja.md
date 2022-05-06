@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してXMLをPOWERPOINTに変換する
 description: MicrosoftWordを使用せずにXMLをPOWERPOINTに変換するJavaAPI
-url: /ja/java/conversion/xml-to-powerpoint/
+url_ignore: /ja/java/conversion/xml-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

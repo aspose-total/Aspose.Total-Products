@@ -1,7 +1,7 @@
 ---
 title: Convert POT to FODS via C++ 
 description: Export POT to FODS in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pot-to-fods/
+url_ignore: /cpp/conversion/pot-to-fods/
 family: total
 platformtag: cpp
 feature: conversion

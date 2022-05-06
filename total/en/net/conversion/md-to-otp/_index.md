@@ -1,7 +1,7 @@
 ---
 title: Export MD to OTP via C# API
 description: .NET API to Convert MD to OTP without using Microsoft Word
-url: /net/conversion/md-to-otp/
+url_ignore: /net/conversion/md-to-otp/
 family: total
 platformtag: net
 feature: conversion

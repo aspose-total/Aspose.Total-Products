@@ -1,7 +1,7 @@
 ---
 title: Konwertuj WORDML na PPT za pomocą Javy
 description: Java API do eksportu WORDML do PPT bez użycia Microsoft Word lub PowerPoint
-url: /pl/java/conversion/wordml-to-ppt/
+url_ignore: /pl/java/conversion/wordml-to-ppt/
 family: total
 platformtag: net
 feature: conversion

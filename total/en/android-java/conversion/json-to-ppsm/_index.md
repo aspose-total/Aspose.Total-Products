@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to PPSM in Android via Java 
 description: Parse JSON to PPSM in Android Applications without using Microsoft PowerPoint
-url: /android-java/conversion/json-to-ppsm/
+url_ignore: /android-java/conversion/json-to-ppsm/
 family: total
 platformtag: android-java
 feature: conversion

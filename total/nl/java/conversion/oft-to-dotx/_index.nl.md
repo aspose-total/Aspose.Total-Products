@@ -1,7 +1,7 @@
 ---
 title: Exporteer OFT naar DOTX via Java
 description: Java API om OFT naar DOTX te converteren zonder Microsoft Word of Outlook te gebruiken
-url: /nl/java/conversion/oft-to-dotx/
+url_ignore: /nl/java/conversion/oft-to-dotx/
 family: total
 platformtag: net
 feature: conversion

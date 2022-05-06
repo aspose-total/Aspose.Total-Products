@@ -1,7 +1,7 @@
 ---
 title: Exporteer OFT naar GIF via Java
 description: Java API om OFT naar GIF te converteren zonder Microsoft Word of Outlook te gebruiken
-url: /nl/java/conversion/oft-to-gif/
+url_ignore: /nl/java/conversion/oft-to-gif/
 family: total
 platformtag: net
 feature: conversion

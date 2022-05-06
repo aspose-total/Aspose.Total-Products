@@ -1,7 +1,7 @@
 ---
 title: Android API to Render SVG to PS
 description: Transform SVG to PS via Android via Java API
-url: /android-java/conversion/svg-to-ps/
+url_ignore: /android-java/conversion/svg-to-ps/
 family: total
 platformtag: android-java
 feature: conversion

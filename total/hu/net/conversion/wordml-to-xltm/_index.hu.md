@@ -1,7 +1,7 @@
 ---
 title: .NET API a WORDML konvertálásához XLTM-vé
 description: C# API a WORDML konvertálásához XLTM-vé Microsoft Excel vagy Adobe Reader használata nélkül
-url: /hu/net/conversion/wordml-to-xltm/
+url_ignore: /hu/net/conversion/wordml-to-xltm/
 family: total
 platformtag: net
 feature: conversion
@@ -19,15 +19,15 @@ Az [Aspose.Total for .NET](https://products.aspose.com/total/net/) használatáv
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API a WORDML konvertálásához XLTM-vé" %}}
 1. Nyissa meg a WORDML-fájlt a [Document](https://apireference.aspose.com/words/net/aspose.words/document) osztály használatával
-2. Alakítsa át a WORDML-t HTML-vé a [Mentés](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) módszerrel
+2. Alakítsa át a WORDML-t HTML-vé a [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) módszerrel
 3. Töltsön be HTML-dokumentumot a [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) osztály használatával
-4. Mentse a dokumentumot XLTM-formátumba a [Mentés](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) metódussal, és állítsa be a „XLTM”-t SaveFormat-ként.
+4. Mentse a dokumentumot XLTM-formátumba a [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) metódussal, és állítsa be a „XLTM”-t SaveFormat-ként.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 Telepítés parancssorból ```nuget install Aspose.Total``` néven, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.Total``` paranccsal.
 
-Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads] webhelyről (https://downloads.aspose.com/total/net).
+Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads](https://downloads.aspose.com/total/net) webhelyről.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
@@ -39,7 +39,7 @@ Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eke
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="WORDML dokumentum betöltése a Streamből C#-on keresztül" %}}
-Az [Aspose.Words for .NET](https://products.aspose.com/words/net/) lehetővé teszi a WORDML-dokumentumok adatfolyamon keresztüli betöltését is. Egy dokumentum adatfolyamból való megnyitásához egyszerűen adja át a dokumentumot tartalmazó adatfolyam objektumot a [Dokumentum](https://apireference.aspose.com/words/net/aspose.words/document) konstruktornak. A következő kódpélda bemutatja, hogyan lehet megnyitni egy dokumentumot adatfolyamból:  
+Az [Aspose.Words for .NET](https://products.aspose.com/words/net/) lehetővé teszi a WORDML-dokumentumok adatfolyamon keresztüli betöltését is. Egy dokumentum adatfolyamból való megnyitásához egyszerűen adja át a dokumentumot tartalmazó adatfolyam objektumot a [Document](https://apireference.aspose.com/words/net/aspose.words/document) konstruktornak. A következő kódpélda bemutatja, hogyan lehet megnyitni egy dokumentumot adatfolyamból:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}

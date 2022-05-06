@@ -1,7 +1,7 @@
 ---
 title: Export EMAIL to DOT via C++
 description: C++ API to Convert EMAIL to DOT without using Microsoft Word or Outlook
-url: /cpp/conversion/email-to-dot/
+url_ignore: /cpp/conversion/email-to-dot/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to XLT via Java
 description: Convert WORD to XLT via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/word-to-xlt/
+url_ignore: /java/conversion/word-to-xlt/
 family: total
 platformtag: java
 feature: conversion

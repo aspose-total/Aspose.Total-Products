@@ -1,7 +1,7 @@
 ---
 title: Convert XPS to WMZ via Java
 description: Export XPS file to WMZ  in your Java applications without using any third party application 
-url: /java/conversion/xps-to-wmz/
+url_ignore: /java/conversion/xps-to-wmz/
 family: total
 platformtag: java
 feature: conversion

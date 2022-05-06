@@ -1,7 +1,7 @@
 ---
 title: API C# para exportar OFT para WORDML
 description: Converta OFT para WORDML sem usar o Microsoft Word ou Outlook em .NET
-url: /pt/net/conversion/oft-to-wordml/
+url_ignore: /pt/net/conversion/oft-to-wordml/
 family: total
 platformtag: net
 feature: conversion

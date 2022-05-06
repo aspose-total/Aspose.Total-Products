@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή XML σε PPSX μέσω Java API
 description: Java API για μετατροπή XML σε PPSX χωρίς χρήση του Microsoft Word
-url: /el/java/conversion/xml-to-ppsx/
+url_ignore: /el/java/conversion/xml-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

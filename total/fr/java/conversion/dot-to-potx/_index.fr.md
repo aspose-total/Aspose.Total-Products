@@ -1,7 +1,7 @@
 ---
 title: Convertir DOT en POTX via Java
 description: API Java pour exporter DOT vers POTX sans utiliser Microsoft Word ou PowerPoint
-url: /fr/java/conversion/dot-to-potx/
+url_ignore: /fr/java/conversion/dot-to-potx/
 family: total
 platformtag: net
 feature: conversion
@@ -12,7 +12,7 @@ otherformats: PPTM PPSM PPS PPT POWERPOINT POT POTX POTM PPSX PPTX CSV DIF FODS 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Convertir DOT en POTX via Java" h2="Conversion DOT en POTX en utilisant l'API Java sur site dans toutes les applications Java J2SE, J2EE, J2ME sans utiliser Microsoft<sup>&reg;</sup> PowerPoint ou Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Souvent, les développeurs doivent convertir le fichier DOT en POTX par programme. En utilisant les bibliothèques Java File Automation [Aspose.Total pour Java](https://products.aspose.com/total/java/), vous pouvez automatiser le processus de rendu en quelques étapes simples. Vous pouvez charger votre fichier DOT en utilisant [Aspose.Words pour Java](https://products.aspose.com/words/java/) et le convertir en HTML. Après cela, en utilisant la puissante API Java de manipulation PowerPoint [Aspose.Slides pour Java](https://products.aspose.com/slides/java/), vous pouvez créer une nouvelle présentation, y écrire du contenu HTML et l'enregistrer au format POTX. .
+Souvent, les développeurs doivent convertir le fichier DOT en POTX par programme. En utilisant les bibliothèques Java File Automation [Aspose.Total for Java](https://products.aspose.com/total/java/), vous pouvez automatiser le processus de rendu en quelques étapes simples. Vous pouvez charger votre fichier DOT en utilisant [Aspose.Words for Java](https://products.aspose.com/words/java/) et le convertir en HTML. Après cela, en utilisant la puissante API Java de manipulation PowerPoint [Aspose.Slides for Java](https://products.aspose.com/slides/java/), vous pouvez créer une nouvelle présentation, y écrire du contenu HTML et l'enregistrer au format POTX. .
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Comment convertir DOT en POTX via Java" %}}

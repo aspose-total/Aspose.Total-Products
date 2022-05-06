@@ -1,7 +1,7 @@
 ---
 title: Java API to Render SVG to XLTX
 description: Export SVG to XLTX via Java API without using Microsoft Excel or Adobe Reader
-url: /java/conversion/svg-to-xltx/
+url_ignore: /java/conversion/svg-to-xltx/
 family: total
 platformtag: java
 feature: conversion

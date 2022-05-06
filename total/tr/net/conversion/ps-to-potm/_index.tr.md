@@ -1,7 +1,7 @@
 ---
 title: PS'yi C# API aracılığıyla POTM'ye aktarın
 description: Microsoft Word kullanmadan PS'yi POTM'ye dönüştürmek için .NET API
-url: /tr/net/conversion/ps-to-potm/
+url_ignore: /tr/net/conversion/ps-to-potm/
 family: total
 platformtag: net
 feature: conversion

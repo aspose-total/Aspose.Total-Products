@@ -1,7 +1,7 @@
 ---
 title: تحويل POT إلى DIF عبر C#
 description: قم بتحويل POT إلى DIF في C# بدون استخدام Microsoft Excel أو Powerpoint
-url: /ar/net/conversion/pot-to-dif/
+url_ignore: /ar/net/conversion/pot-to-dif/
 family: total
 platformtag: net
 feature: conversion

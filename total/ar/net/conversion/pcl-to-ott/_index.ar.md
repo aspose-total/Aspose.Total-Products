@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير PCL إلى OTT
 description: تحويل PCL إلى OTT دون استخدام Microsoft Word
-url: /ar/net/conversion/pcl-to-ott/
+url_ignore: /ar/net/conversion/pcl-to-ott/
 family: total
 platformtag: net
 feature: conversion

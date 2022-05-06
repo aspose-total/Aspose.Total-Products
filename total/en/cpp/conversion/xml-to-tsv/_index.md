@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XML to TSV
 description: Convert XML to TSV via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xml-to-tsv/
+url_ignore: /cpp/conversion/xml-to-tsv/
 family: total
 platformtag: cpp
 feature: conversion

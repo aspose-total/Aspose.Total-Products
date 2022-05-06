@@ -1,7 +1,7 @@
 ---
 title: Convert OTT to PPSM via C++
 description: Export OTT to PPSM in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/ott-to-ppsm/
+url_ignore: /cpp/conversion/ott-to-ppsm/
 family: total
 platformtag: cpp
 feature: conversion

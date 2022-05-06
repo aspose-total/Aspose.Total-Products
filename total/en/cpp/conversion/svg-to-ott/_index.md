@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export SVG to OTT
 description: Convert SVG to OTT within C++ applications.
-url: /cpp/conversion/svg-to-ott/
+url_ignore: /cpp/conversion/svg-to-ott/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla XPS'yi IMAGE'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan XPS dosyasını Java uygulamalarınızda IMAGE'ye aktarın
-url: /tr/java/conversion/xps-to-image/
+url_ignore: /tr/java/conversion/xps-to-image/
 family: total
 platformtag: net
 feature: conversion

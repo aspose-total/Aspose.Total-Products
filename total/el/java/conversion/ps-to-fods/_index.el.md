@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση PS σε FODS
 description: Εξαγωγή PS σε FODS μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/ps-to-fods/
+url_ignore: /el/java/conversion/ps-to-fods/
 family: total
 platformtag: net
 feature: conversion

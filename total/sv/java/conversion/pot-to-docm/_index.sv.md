@@ -1,7 +1,7 @@
 ---
 title: Konvertera POT till DOCM via Java
 description: Java API för att exportera POT till DOCM utan att använda Microsoft Word eller PowerPoint
-url: /sv/java/conversion/pot-to-docm/
+url_ignore: /sv/java/conversion/pot-to-docm/
 family: total
 platformtag: net
 feature: conversion
@@ -34,7 +34,7 @@ Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Konverteringskrav" %}}
-Med hjälp av API:t kan du också utföra POT-fil till DOCM-konvertering med vattenstämpel. För att lägga till en vattenstämpel till ditt DOCM-dokument kan du först konvertera POT-filen till HTML och lägga till en vattenstämpel till den. För att lägga till en vattenstämpel, ladda den nyskapade HTML-filen med klassen [Docmument](https://apireference.aspose.com/words/java/com.aspose.words/Docmument), skapa en instans av TextWatermarkOptions och ställ in dess egenskaper, anrop Watermark.setText-metoden och skicka vattenstämpeltext och objekt av TextWatermarkOptions.  
+Med hjälp av API:t kan du också utföra POT-fil till DOCM-konvertering med vattenstämpel. För att lägga till en vattenstämpel till ditt DOCM-dokument kan du först konvertera POT-filen till HTML och lägga till en vattenstämpel till den. För att lägga till en vattenstämpel, ladda den nyskapade HTML-filen med klassen [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document), skapa en instans av TextWatermarkOptions och ställ in dess egenskaper, anrop Watermark.setText-metoden och skicka vattenstämpeltext och objekt av TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}

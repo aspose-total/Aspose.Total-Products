@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export MHTML to DOTM
 description: Convert MHTML to DOTM within C++ applications.
-url: /cpp/conversion/mhtml-to-dotm/
+url_ignore: /cpp/conversion/mhtml-to-dotm/
 family: total
 platformtag: cpp
 feature: conversion

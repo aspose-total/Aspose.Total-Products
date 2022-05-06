@@ -1,7 +1,7 @@
 ---
 title: Converteer POWERPOINT naar DIF-formaat via Java
 description: Converteer POWERPOINT naar DIF-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken
-url: /nl/java/conversion/powerpoint-to-dif/
+url_ignore: /nl/java/conversion/powerpoint-to-dif/
 family: total
 platformtag: net
 feature: conversion

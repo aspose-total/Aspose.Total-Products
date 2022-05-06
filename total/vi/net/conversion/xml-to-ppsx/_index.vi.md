@@ -1,7 +1,7 @@
 ---
 title: Xuất XML sang PPSX qua C# API
 description: .NET API để chuyển đổi XML sang PPSX mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/xml-to-ppsx/
+url_ignore: /vi/net/conversion/xml-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

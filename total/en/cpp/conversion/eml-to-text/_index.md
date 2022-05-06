@@ -1,7 +1,7 @@
 ---
 title: Export EML to TEXT via C++
 description: C++ API to Convert EML to TEXT without using Microsoft Word or Outlook
-url: /cpp/conversion/eml-to-text/
+url_ignore: /cpp/conversion/eml-to-text/
 family: total
 platformtag: cpp
 feature: conversion

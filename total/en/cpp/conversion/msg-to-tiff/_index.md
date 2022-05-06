@@ -1,7 +1,7 @@
 ---
 title: Export MSG to TIFF via C++
 description: C++ API to Convert MSG to TIFF without using Microsoft Word or Outlook
-url: /cpp/conversion/msg-to-tiff/
+url_ignore: /cpp/conversion/msg-to-tiff/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla SVG'yi XLAM'ye dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan SVG Dosyasını XLAM'ye Dönüştürmek için C# API'si
-url: /tr/net/conversion/svg-to-xlam/
+url_ignore: /tr/net/conversion/svg-to-xlam/
 family: total
 platformtag: net
 feature: conversion

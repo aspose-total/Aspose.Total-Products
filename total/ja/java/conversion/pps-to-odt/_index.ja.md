@@ -1,7 +1,7 @@
 ---
 title: Java経由でPPSをODTに変換する
 description: MicrosoftWordやPowerPointを使用せずにPPSをODTにエクスポートするJavaAPI
-url: /ja/java/conversion/pps-to-odt/
+url_ignore: /ja/java/conversion/pps-to-odt/
 family: total
 platformtag: net
 feature: conversion

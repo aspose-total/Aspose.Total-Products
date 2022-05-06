@@ -1,7 +1,7 @@
 ---
 title: Exportar XPS a PPTM a través de la API de C#
 description: .NET API para convertir XPS a PPTM sin usar Microsoft Word
-url: /es/net/conversion/xps-to-pptm/
+url_ignore: /es/net/conversion/xps-to-pptm/
 family: total
 platformtag: net
 feature: conversion

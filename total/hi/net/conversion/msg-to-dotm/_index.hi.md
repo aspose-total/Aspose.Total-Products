@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई बीएमपी को ईमेल निर्यात करने के लिए
 description: .NET पर Microsoft Word या Outlook का उपयोग किए बिना MSG को DOTM में बदलें
-url: /hi/net/conversion/msg-to-dotm/
+url_ignore: /hi/net/conversion/msg-to-dotm/
 family: total
 platformtag: net
 feature: conversion

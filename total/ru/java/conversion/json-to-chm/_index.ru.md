@@ -1,7 +1,7 @@
 ---
 title: Преобразование формата JSON в CHM через Java
 description: Разобрать JSON в CHM на Java без использования Microsoft Word
-url: /ru/java/conversion/json-to-chm/
+url_ignore: /ru/java/conversion/json-to-chm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converter formato PPTM para JSON via .NET
 description: Converter PPTM para JSON em C# sem usar o Microsoft Excel ou Powerpoint
-url: /pt/net/conversion/pptm-to-json/
+url_ignore: /pt/net/conversion/pptm-to-json/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converti XSLFO in POT tramite API Java
 description: API Java per convertire XSLFO in POT senza utilizzare Microsoft Word
-url: /it/java/conversion/xslfo-to-pot/
+url_ignore: /it/java/conversion/xslfo-to-pot/
 family: total
 platformtag: net
 feature: conversion

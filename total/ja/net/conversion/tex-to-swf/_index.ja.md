@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してTEXをSWFにエクスポートする
 description: MicrosoftWordを使用せずにTEXをSWFに変換する.NETAPI
-url: /ja/net/conversion/tex-to-swf/
+url_ignore: /ja/net/conversion/tex-to-swf/
 family: total
 platformtag: net
 feature: conversion

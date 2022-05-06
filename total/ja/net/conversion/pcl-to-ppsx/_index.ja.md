@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPCLをPPSXにエクスポートする
 description: MicrosoftWordを使用せずにPCLをPPSXに変換する.NETAPI
-url: /ja/net/conversion/pcl-to-ppsx/
+url_ignore: /ja/net/conversion/pcl-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

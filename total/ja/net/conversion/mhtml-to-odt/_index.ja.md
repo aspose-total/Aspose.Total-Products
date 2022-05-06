@@ -1,7 +1,7 @@
 ---
 title: MHTMLをODTにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにMHTMLをODTに変換する
-url: /ja/net/conversion/mhtml-to-odt/
+url_ignore: /ja/net/conversion/mhtml-to-odt/
 family: total
 platformtag: net
 feature: conversion

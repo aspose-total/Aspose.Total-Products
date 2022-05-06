@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Exportieren von SVG nach XAMLFLOW
 description: Konvertieren Sie SVG mithilfe der lokalen Java-API in XAMLFLOW
-url: /de/java/conversion/svg-to-xamlflow/
+url_ignore: /de/java/conversion/svg-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export XML to ODP in Android 
 description: Android API to Convert XML to ODP without using Microsoft Word
-url: /android-java/conversion/xml-to-odp/
+url_ignore: /android-java/conversion/xml-to-odp/
 family: total
 platformtag: android-java
 feature: conversion

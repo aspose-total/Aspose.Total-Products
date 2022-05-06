@@ -1,7 +1,7 @@
 ---
 title: EMLXをPNGにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMLXをPNGに変換する
-url: /ja/net/conversion/emlx-to-png/
+url_ignore: /ja/net/conversion/emlx-to-png/
 family: total
 platformtag: net
 feature: conversion

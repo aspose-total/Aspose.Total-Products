@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई बीएमपी को ईमेल निर्यात करने के लिए
 description: .NET पर Microsoft Word या Outlook का उपयोग किए बिना MSG को WORDML में बदलें
-url: /hi/net/conversion/msg-to-wordml/
+url_ignore: /hi/net/conversion/msg-to-wordml/
 family: total
 platformtag: net
 feature: conversion

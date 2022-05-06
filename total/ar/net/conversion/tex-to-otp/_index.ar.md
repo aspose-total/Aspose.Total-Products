@@ -1,7 +1,7 @@
 ---
 title: تصدير TEX إلى OTP عبر C# API
 description: NET API لتحويل TEX إلى OTP دون استخدام Microsoft Word
-url: /ar/net/conversion/tex-to-otp/
+url_ignore: /ar/net/conversion/tex-to-otp/
 family: total
 platformtag: net
 feature: conversion

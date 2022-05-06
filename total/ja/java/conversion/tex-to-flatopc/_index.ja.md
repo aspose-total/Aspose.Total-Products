@@ -1,7 +1,7 @@
 ---
 title: TEXをFLATOPCにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してTEXをFLATOPCに変換する
-url: /ja/java/conversion/tex-to-flatopc/
+url_ignore: /ja/java/conversion/tex-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla MHTML'yi DICOM'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan MHTML dosyasını Java uygulamalarınızda DICOM'ye aktarın
-url: /tr/java/conversion/mhtml-to-dicom/
+url_ignore: /tr/java/conversion/mhtml-to-dicom/
 family: total
 platformtag: net
 feature: conversion

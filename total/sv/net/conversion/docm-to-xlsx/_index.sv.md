@@ -1,7 +1,7 @@
 ---
 title: .NET API för att konvertera DOCM till XLSX
 description: C# API för att konvertera DOCM till XLSX utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/net/conversion/docm-to-xlsx/
+url_ignore: /sv/net/conversion/docm-to-xlsx/
 family: total
 platformtag: net
 feature: conversion
@@ -18,7 +18,7 @@ Genom att använda [Aspose.Total för .NET](https://products.aspose.com/total/ne
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API för att konvertera DOCM till XLSX" %}}
-1. Öppna DOCM-filen med klassen [Document](https://apireference.aspose.com/words/net/aspose.words/document
+1. Öppna DOCM-filen med klassen [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 2. Konvertera DOCM till HTML med metoden [Save](https://apireference.aspose.com/words/net/aspose.words.documentsave/methods/4)
 3. Ladda HTML-dokument genom att använda klassen [Arbetsbok](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Spara dokumentet i XLSX-format med metoden [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) och ställ in "XLSX" som SaveFormat
@@ -46,7 +46,6 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Lägg till anpassade egenskaper i XLSX-fil via C#" %}}
 När du konverterar DOCM till XLSX gör [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) det möjligt för dig att lägga till anpassade egenskaper i dina XLSX-dokument. För att lägga till en anpassad egenskap kan du använda metoden [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentropertycollection/methods/add/index) för [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/CustomDocumentPropertyCollection) klass. Add-metoden lägger till egenskapen i Excel-filen och returnerar en referens för den nya dokumentegenskapen som en [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties/DocumentProperty) objekt. 
 {{% blocks/products/pf/feature-page-code %}}

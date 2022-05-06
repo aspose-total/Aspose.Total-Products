@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Rendern von TEX in MD
 description: Exportieren Sie TEX über die Java-API in MD, ohne Microsoft Excel oder Adobe Reader zu verwenden
-url: /de/java/conversion/tex-to-md/
+url_ignore: /de/java/conversion/tex-to-md/
 family: total
 platformtag: net
 feature: conversion

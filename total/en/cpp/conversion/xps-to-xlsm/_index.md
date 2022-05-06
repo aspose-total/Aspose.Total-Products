@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XPS to XLSM
 description: Convert XPS to XLSM via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xps-to-xlsm/
+url_ignore: /cpp/conversion/xps-to-xlsm/
 family: total
 platformtag: cpp
 feature: conversion

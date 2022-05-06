@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie TEX über die C#-API in MD
 description: C#-API zum Konvertieren von TEX-Dateien in MD ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/tex-to-md/
+url_ignore: /de/net/conversion/tex-to-md/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: .NET API för att konvertera ODT till FODS
 description: C# API för att konvertera ODT till FODS utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/net/conversion/odt-to-fods/
+url_ignore: /sv/net/conversion/odt-to-fods/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Lägg till anpassade egenskaper i FODS-fil via C#" %}}
 När du konverterar ODT till FODS gör [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) det möjligt för dig att lägga till anpassade egenskaper i dina FODS-dokument. För att lägga till en anpassad egenskap kan du använda metoden [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customodtumentpropertycollection/methods/add/index) för [CustomOdtumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customodtumentpropertycollection) klass. Add-metoden lägger till egenskapen i Excel-filen och returnerar en referens för den nya dokumentegenskapen som en [Aspose.Cells.Properties.OdtumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /odtumentproperty) objekt. 
 {{% blocks/products/pf/feature-page-code %}}

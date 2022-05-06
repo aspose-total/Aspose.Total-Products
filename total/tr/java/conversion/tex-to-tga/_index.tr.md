@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla TEX'yi TGA'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan TEX dosyasını Java uygulamalarınızda TGA'ye aktarın
-url: /tr/java/conversion/tex-to-tga/
+url_ignore: /tr/java/conversion/tex-to-tga/
 family: total
 platformtag: net
 feature: conversion

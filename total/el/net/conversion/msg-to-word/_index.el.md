@@ -1,7 +1,7 @@
 ---
 title: C# API για εξαγωγή MSG σε WORD
 description: Μετατροπή MSG σε WORD χωρίς χρήση του Microsoft Word ή του Outlook στο .NET
-url: /el/net/conversion/msg-to-word/
+url_ignore: /el/net/conversion/msg-to-word/
 family: total
 platformtag: net
 feature: conversion

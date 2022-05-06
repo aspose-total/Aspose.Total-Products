@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PCL to DOCM
 description: Convert PCL to DOCM within C++ applications.
-url: /cpp/conversion/pcl-to-docm/
+url_ignore: /cpp/conversion/pcl-to-docm/
 family: total
 platformtag: cpp
 feature: conversion

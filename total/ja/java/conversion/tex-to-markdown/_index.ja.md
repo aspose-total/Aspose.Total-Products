@@ -1,7 +1,7 @@
 ---
 title: TEXをMARKDOWNにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してTEXをMARKDOWNに変換する
-url: /ja/java/conversion/tex-to-markdown/
+url_ignore: /ja/java/conversion/tex-to-markdown/
 family: total
 platformtag: net
 feature: conversion

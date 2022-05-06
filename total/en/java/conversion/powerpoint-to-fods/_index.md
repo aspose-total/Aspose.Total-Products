@@ -1,7 +1,7 @@
 ---
 title: Convert POWERPOINT to FODS Format via Java
 description: Convert POWERPOINT to FODS format via Java without using using Microsoft Excel or PowerPoint
-url: /java/conversion/powerpoint-to-fods/
+url_ignore: /java/conversion/powerpoint-to-fods/
 family: total
 platformtag: java
 feature: conversion

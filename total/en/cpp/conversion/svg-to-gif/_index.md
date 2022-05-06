@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export SVG to GIF
 description: Convert SVG to GIF within C++ applications.
-url: /cpp/conversion/svg-to-gif/
+url_ignore: /cpp/conversion/svg-to-gif/
 family: total
 platformtag: cpp
 feature: conversion

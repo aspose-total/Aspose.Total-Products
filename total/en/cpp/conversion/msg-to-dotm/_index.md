@@ -1,7 +1,7 @@
 ---
 title: Export MSG to DOTM via C++
 description: C++ API to Convert MSG to DOTM without using Microsoft Word or Outlook
-url: /cpp/conversion/msg-to-dotm/
+url_ignore: /cpp/conversion/msg-to-dotm/
 family: total
 platformtag: cpp
 feature: conversion

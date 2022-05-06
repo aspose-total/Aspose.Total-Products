@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to POTX via C++
 description: Export RTF to POTX in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/rtf-to-potx/
+url_ignore: /cpp/conversion/rtf-to-potx/
 family: total
 platformtag: cpp
 feature: conversion

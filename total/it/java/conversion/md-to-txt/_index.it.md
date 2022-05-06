@@ -1,7 +1,7 @@
 ---
 title: API Java per il rendering da MD a TXT
 description: Esporta MD in TXT tramite API Java senza utilizzare Microsoft Excel o Adobe Reader
-url: /it/java/conversion/md-to-txt/
+url_ignore: /it/java/conversion/md-to-txt/
 family: total
 platformtag: net
 feature: conversion

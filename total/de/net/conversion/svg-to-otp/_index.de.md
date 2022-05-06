@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie SVG über die C#-API nach OTP
 description: .NET-API zum Konvertieren von SVG in OTP ohne Verwendung von Microsoft Word
-url: /de/net/conversion/svg-to-otp/
+url_ignore: /de/net/conversion/svg-to-otp/
 family: total
 platformtag: net
 feature: conversion

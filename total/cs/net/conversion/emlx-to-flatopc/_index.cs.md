@@ -1,7 +1,7 @@
 ---
 title: C# API pro export EMLX do FLATOPC
 description: Převeďte EMLX na FLATOPC bez použití Microsoft Word nebo Outlook na .NET
-url: /cs/net/conversion/emlx-to-flatopc/
+url_ignore: /cs/net/conversion/emlx-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

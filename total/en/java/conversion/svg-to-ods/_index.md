@@ -1,7 +1,7 @@
 ---
 title: Java API to Render SVG to ODS
 description: Export SVG to ODS via Java API without using Microsoft Excel or Adobe Reader
-url: /java/conversion/svg-to-ods/
+url_ignore: /java/conversion/svg-to-ods/
 family: total
 platformtag: java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API om WORD naar DIF te converteren
 description: Converteer WORD naar DIF via Java zonder Microsoft Word of Microsoft Excel te gebruiken
-url: /nl/java/conversion/word-to-dif/
+url_ignore: /nl/java/conversion/word-to-dif/
 family: total
 platformtag: net
 feature: conversion

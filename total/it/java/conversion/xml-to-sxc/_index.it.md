@@ -1,7 +1,7 @@
 ---
 title: API Java per il rendering da XML a SXC
 description: Esporta XML in SXC tramite API Java senza utilizzare Microsoft Excel o Adobe Reader
-url: /it/java/conversion/xml-to-sxc/
+url_ignore: /it/java/conversion/xml-to-sxc/
 family: total
 platformtag: net
 feature: conversion

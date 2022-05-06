@@ -1,7 +1,7 @@
 ---
 title: PPTX'u C# ile MARKDOWN'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan PPTX'u C#'ta MARKDOWN'ye dönüştürün
-url: /tr/net/conversion/pptx-to-markdown/
+url_ignore: /tr/net/conversion/pptx-to-markdown/
 family: total
 platformtag: net
 feature: conversion

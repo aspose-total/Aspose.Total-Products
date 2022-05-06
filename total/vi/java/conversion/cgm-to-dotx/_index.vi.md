@@ -1,7 +1,7 @@
 ---
 title: API Java để xuất CGM sang DOTX
 description: Chuyển đổi CGM sang DOTX bằng cách sử dụng API Java tiền đề
-url: /vi/java/conversion/cgm-to-dotx/
+url_ignore: /vi/java/conversion/cgm-to-dotx/
 family: total
 platformtag: net
 feature: conversion

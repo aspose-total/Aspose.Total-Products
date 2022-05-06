@@ -1,7 +1,7 @@
 ---
 title: Converti XML in POTM tramite API Java
 description: API Java per convertire XML in POTM senza utilizzare Microsoft Word
-url: /it/java/conversion/xml-to-potm/
+url_ignore: /it/java/conversion/xml-to-potm/
 family: total
 platformtag: net
 feature: conversion

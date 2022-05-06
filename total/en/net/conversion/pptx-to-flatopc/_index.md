@@ -1,6 +1,6 @@
 ---
 title: Convert PPTX to FLATOPC via C# .NET 
-url: /net/conversion/pptx-to-flatopc/ 
+url_ignore: /net/conversion/pptx-to-flatopc/ 
 description: Convert PowerPoint pptx documents to Word flatopc files with C#. Convert multiple files within ASP.NET or other .NET applications.
 ---
 

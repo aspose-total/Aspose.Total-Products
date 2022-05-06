@@ -1,7 +1,7 @@
 ---
 title: Android API to Render SVG to MHTML
 description: Transform SVG to MHTML via Android via Java API
-url: /android-java/conversion/svg-to-mhtml/
+url_ignore: /android-java/conversion/svg-to-mhtml/
 family: total
 platformtag: android-java
 feature: conversion

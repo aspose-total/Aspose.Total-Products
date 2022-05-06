@@ -1,7 +1,7 @@
 ---
 title: Export EMAIL to DOTX via C++
 description: C++ API to Convert EMAIL to DOTX without using Microsoft Word or Outlook
-url: /cpp/conversion/email-to-dotx/
+url_ignore: /cpp/conversion/email-to-dotx/
 family: total
 platformtag: cpp
 feature: conversion

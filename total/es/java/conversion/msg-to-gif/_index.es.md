@@ -1,7 +1,7 @@
 ---
 title: Exportar MSG a GIF a través de Java
 description: API de Java para convertir MSG a GIF sin usar Microsoft Word o Outlook
-url: /es/java/conversion/msg-to-gif/
+url_ignore: /es/java/conversion/msg-to-gif/
 family: total
 platformtag: net
 feature: conversion

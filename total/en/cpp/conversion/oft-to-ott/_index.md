@@ -1,7 +1,7 @@
 ---
 title: Export OFT to OTT via C++
 description: C++ API to Convert OFT to OTT without using Microsoft Word or Outlook
-url: /cpp/conversion/oft-to-ott/
+url_ignore: /cpp/conversion/oft-to-ott/
 family: total
 platformtag: cpp
 feature: conversion

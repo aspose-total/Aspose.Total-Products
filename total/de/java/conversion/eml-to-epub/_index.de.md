@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie E-MAIL über Java nach EPUB
 description: Java-API zum Konvertieren von E-MAIL in EPUB, ohne Microsoft Word oder Outlook zu verwenden
-url: /de/java/conversion/eml-to-epub/
+url_ignore: /de/java/conversion/eml-to-epub/
 family: total
 platformtag: net
 feature: conversion

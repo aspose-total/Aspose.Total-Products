@@ -1,7 +1,7 @@
 ---
 title: Java API do renderowania XPS do MD
 description: Eksportuj XPS do MD przez Java API bez użycia Microsoft Excel lub Adobe Reader
-url: /pl/java/conversion/xps-to-md/
+url_ignore: /pl/java/conversion/xps-to-md/
 family: total
 platformtag: net
 feature: conversion

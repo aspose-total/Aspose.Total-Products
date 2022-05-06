@@ -1,7 +1,7 @@
 ---
 title: Exporter EMLX vers SVG via Java
 description: API Java pour convertir EMLX en SVG sans utiliser Microsoft Word ou Outlook
-url: /fr/java/conversion/emlx-to-svg/
+url_ignore: /fr/java/conversion/emlx-to-svg/
 family: total
 platformtag: net
 feature: conversion
@@ -12,7 +12,7 @@ otherformats: PNG PCL EMF RTF WORDML PDF EPUB TEXT JPEG DOTM SVG MD XPS GIF FLAT
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="API Java pour rendre EMLX en SVG" h2="Exportez EMLX vers SVG en utilisant l'API Java sur site sans utiliser de dépendances tierces" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-La conversion des e-mails est une fonctionnalité puissante que les développeurs Java peuvent intégrer dans toutes les applications Java J2SE, J2EE, J2ME via [Aspose.Total pour Java](https://products.aspose.com/total/java/). En utilisant deux API dans le package, vous pouvez convertir Emlx EMLX en SVG sans aucune dépendance de tiers. Tout d'abord, vous pouvez utiliser l'API Emlx Manipulation [Aspose.Emlx for Java](https://products.aspose.com/emlx/java/) pour convertir le format de fichier EMLX en HTML. Deuxièmement, vous pouvez restituer HTML en SVG à l'aide de l'API de traitement de documents [Aspose.Words pour Java](https://products.aspose.com/words/java/).
+La conversion des e-mails est une fonctionnalité puissante que les développeurs Java peuvent intégrer dans toutes les applications Java J2SE, J2EE, J2ME via [Aspose.Total for Java](https://products.aspose.com/total/java/). En utilisant deux API dans le package, vous pouvez convertir Emlx EMLX en SVG sans aucune dépendance de tiers. Tout d'abord, vous pouvez utiliser l'API Emlx Manipulation [Aspose.Emlx for Java](https://products.aspose.com/emlx/java/) pour convertir le format de fichier EMLX en HTML. Deuxièmement, vous pouvez restituer HTML en SVG à l'aide de l'API de traitement de documents [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Comment convertir EMLX en SVG" %}}

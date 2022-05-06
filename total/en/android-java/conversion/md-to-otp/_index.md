@@ -1,7 +1,7 @@
 ---
 title: Export MD to OTP in Android 
 description: Android API to Convert MD to OTP without using Microsoft Word
-url: /android-java/conversion/md-to-otp/
+url_ignore: /android-java/conversion/md-to-otp/
 family: total
 platformtag: android-java
 feature: conversion

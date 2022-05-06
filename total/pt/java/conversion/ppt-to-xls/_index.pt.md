@@ -1,7 +1,7 @@
 ---
 title: Converter PPT para formato XLS via Java
 description: Converta o formato PPT para XLS via Java sem usar o Microsoft Excel ou PowerPoint
-url: /pt/java/conversion/ppt-to-xls/
+url_ignore: /pt/java/conversion/ppt-to-xls/
 family: total
 platformtag: net
 feature: conversion

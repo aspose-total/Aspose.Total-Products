@@ -1,7 +1,7 @@
 ---
 title: XPS'yi C# API aracılığıyla POWERPOINT'ye aktarın
 description: Microsoft Word kullanmadan XPS'yi POWERPOINT'ye dönüştürmek için .NET API
-url: /tr/net/conversion/xps-to-powerpoint/
+url_ignore: /tr/net/conversion/xps-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

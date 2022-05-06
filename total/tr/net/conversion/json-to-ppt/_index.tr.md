@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını .NET aracılığıyla PPT'ye dönüştürün
 description: Microsoft PowerPoint kullanmadan JSON'u C# ile PPT'ye ayrıştırın
-url: /tr/net/conversion/json-to-ppt/
+url_ignore: /tr/net/conversion/json-to-ppt/
 family: total
 platformtag: net
 feature: conversion

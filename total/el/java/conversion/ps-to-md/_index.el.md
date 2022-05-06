@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση PS σε MD
 description: Εξαγωγή PS σε MD μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/ps-to-md/
+url_ignore: /el/java/conversion/ps-to-md/
 family: total
 platformtag: net
 feature: conversion

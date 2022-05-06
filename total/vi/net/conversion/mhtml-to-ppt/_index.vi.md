@@ -1,7 +1,7 @@
 ---
 title: Xuất MHTML sang PPT qua C# API
 description: .NET API để chuyển đổi MHTML sang PPT mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/mhtml-to-ppt/
+url_ignore: /vi/net/conversion/mhtml-to-ppt/
 family: total
 platformtag: net
 feature: conversion

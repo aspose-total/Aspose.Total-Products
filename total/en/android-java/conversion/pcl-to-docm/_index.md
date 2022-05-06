@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PCL to DOCM
 description: Transform PCL to DOCM via Android via Java API
-url: /android-java/conversion/pcl-to-docm/
+url_ignore: /android-java/conversion/pcl-to-docm/
 family: total
 platformtag: android-java
 feature: conversion

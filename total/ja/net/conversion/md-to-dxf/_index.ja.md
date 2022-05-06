@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMDをDXFに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでMDをDXFにエクスポートします
-url: /ja/net/conversion/md-to-dxf/
+url_ignore: /ja/net/conversion/md-to-dxf/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie PS über die Java-API in POT
 description: Java-API zum Konvertieren von PS in POT ohne Verwendung von Microsoft Word
-url: /de/java/conversion/ps-to-pot/
+url_ignore: /de/java/conversion/ps-to-pot/
 family: total
 platformtag: net
 feature: conversion

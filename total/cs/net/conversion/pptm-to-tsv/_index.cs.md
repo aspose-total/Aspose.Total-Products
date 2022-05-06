@@ -1,7 +1,7 @@
 ---
 title: Převést PPTM na TSV přes C#
 description: Převeďte PPTM na TSV v C# bez použití Microsoft Excel nebo Powerpoint
-url: /cs/net/conversion/pptm-to-tsv/
+url_ignore: /cs/net/conversion/pptm-to-tsv/
 family: total
 platformtag: net
 feature: conversion

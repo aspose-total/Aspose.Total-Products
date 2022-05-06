@@ -1,7 +1,7 @@
 ---
 title: Εξαγωγή XPS σε POWERPOINT μέσω C# API
 description: .NET API για μετατροπή XPS σε POWERPOINT χωρίς χρήση του Microsoft Word
-url: /el/net/conversion/xps-to-powerpoint/
+url_ignore: /el/net/conversion/xps-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion
@@ -41,7 +41,8 @@ document.Save("PptxOutput.pptx", SaveFormat.Pptx);
 Presentation presentation = new Presentation("PptxOutput.pptx");
 // call save method while passing SaveFormat.Ppt
 presentation.Save("output.ppt", SaveFormat.Ppt);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -56,7 +57,8 @@ Document doc = new Document("input.xps");
 Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
 Console.WriteLine(doc.Metadata["xmp:Nickname"]);
 Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -71,7 +73,8 @@ Presentation presentation = new Presentation("PptxOutput.pptx");
 presentation.ProtectionManager.ReadOnlyRecommended = true;
 // call save method while passing SaveFormat.Ppt
 presentation.Save("output.ppt", SaveFormat.Ppt);     
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

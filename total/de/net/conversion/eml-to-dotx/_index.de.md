@@ -1,7 +1,7 @@
 ---
 title: C#-API zum Exportieren von E-MAIL nach DOTX
 description: Konvertieren Sie E-MAIL in DOTX, ohne Microsoft Word oder Outlook auf .NET zu verwenden
-url: /de/net/conversion/eml-to-dotx/
+url_ignore: /de/net/conversion/eml-to-dotx/
 family: total
 platformtag: net
 feature: conversion

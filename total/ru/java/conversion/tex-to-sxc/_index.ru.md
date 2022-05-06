@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга TEX в SXC
 description: Экспорт TEX в SXC через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/tex-to-sxc/
+url_ignore: /ru/java/conversion/tex-to-sxc/
 family: total
 platformtag: net
 feature: conversion

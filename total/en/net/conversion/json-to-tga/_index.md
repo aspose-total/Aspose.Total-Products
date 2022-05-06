@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to TGA via .NET 
 description: Parse JSON to TGA in C# without using third party dependencies
-url: /net/conversion/json-to-tga/
+url_ignore: /net/conversion/json-to-tga/
 family: total
 platformtag: net
 feature: conversion

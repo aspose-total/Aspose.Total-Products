@@ -1,7 +1,7 @@
 ---
 title: Converter MD para SXC via API C#
 description: API C# para converter arquivo MD em SXC sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/md-to-sxc/
+url_ignore: /pt/net/conversion/md-to-sxc/
 family: total
 platformtag: net
 feature: conversion

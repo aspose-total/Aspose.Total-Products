@@ -1,7 +1,7 @@
 ---
 title: Java API เพื่อส่งออก CGM ไปยัง GIF
 description: แปลง CGM เป็น GIF โดยใช้ Java API . ในตัว
-url: /th/java/conversion/cgm-to-gif/
+url_ignore: /th/java/conversion/cgm-to-gif/
 family: total
 platformtag: net
 feature: conversion

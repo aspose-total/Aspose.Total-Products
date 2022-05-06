@@ -1,7 +1,7 @@
 ---
 title: Export PS to XAML via C# API
 description: .NET API to Convert PS to XAML without using Microsoft Word
-url: /net/conversion/ps-to-xaml/
+url_ignore: /net/conversion/ps-to-xaml/
 family: total
 platformtag: net
 feature: conversion

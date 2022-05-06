@@ -1,7 +1,7 @@
 ---
 title: Exportar EMLX a SVG a través de Java
 description: API de Java para convertir EMLX a SVG sin usar Microsoft Word o Outlook
-url: /es/java/conversion/emlx-to-svg/
+url_ignore: /es/java/conversion/emlx-to-svg/
 family: total
 platformtag: net
 feature: conversion

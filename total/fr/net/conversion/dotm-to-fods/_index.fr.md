@@ -1,7 +1,7 @@
 ---
 title: API .NET pour convertir DOTM en FODS
 description: API C# pour convertir DOTM en FODS sans utiliser Microsoft Excel ou Adobe Reader
-url: /fr/net/conversion/dotm-to-fods/
+url_ignore: /fr/net/conversion/dotm-to-fods/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: XLSB FODS XLT XLSM XLSX XLTX EXCEL XLAM ODS DIF XLTM XLS SXC TSV
 {{< blocks/products/pf/i18n/feature-page-header h1="API C# pour convertir DOTM en FODS" h2="Exportez DOTM vers FODS via C# sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), vous pouvez inclure la fonction de conversion DOTM vers FODS dans n'importe quelle application .NET, C#, ASP.NET et VB.NET dans deux étapes simples. Tout d'abord, en utilisant [Aspose.Words pour .NET](https://products.aspose.com/words/net/), vous pouvez exporter DOTM vers HTML. Après cela, en utilisant [Aspose.Cells pour .NET](https://products.aspose.com/cells/net/) API de programmation de feuille de calcul, vous pouvez convertir HTML en FODS.
+En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez inclure la fonction de conversion DOTM vers FODS dans n'importe quelle application .NET, C#, ASP.NET et VB.NET dans deux étapes simples. Tout d'abord, en utilisant [Aspose.Words for .NET](https://products.aspose.com/words/net/), vous pouvez exporter DOTM vers HTML. Après cela, en utilisant [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API de programmation de feuille de calcul, vous pouvez convertir HTML en FODS.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -39,7 +39,7 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Charger le dotmument DOTM à partir du flux via C#" %}}
-[Aspose.Words pour .NET](https://products.aspose.com/words/net/) vous permet également de charger un dotmument DOTM via un flux. Pour ouvrir un dotmument à partir d'un flux, transmettez simplement un objet de flux contenant le dotmument dans le constructeur [Dotmument](https://apireference.aspose.com/words/net/aspose.words/dotmument). L'exemple de code suivant montre comment ouvrir un dotmument à partir d'un flux :  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) vous permet également de charger un dotmument DOTM via un flux. Pour ouvrir un dotmument à partir d'un flux, transmettez simplement un objet de flux contenant le dotmument dans le constructeur [Dotmument](https://apireference.aspose.com/words/net/aspose.words/dotmument). L'exemple de code suivant montre comment ouvrir un dotmument à partir d'un flux :  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}

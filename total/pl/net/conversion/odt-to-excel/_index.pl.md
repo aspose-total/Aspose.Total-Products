@@ -1,7 +1,7 @@
 ---
 title: .NET API do konwersji ODT na EXCEL
 description: C# API do konwersji ODT na EXCEL bez użycia Microsoft Excel lub Adobe Reader
-url: /pl/net/conversion/odt-to-excel/
+url_ignore: /pl/net/conversion/odt-to-excel/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ Możesz też pobrać instalator offline MSI lub biblioteki DLL w pliku ZIP ze st
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Dodaj niestandardowe właściwości w pliku EXCEL za pomocą C#" %}}
 Podczas konwertowania ODT na EXCEL [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) umożliwia dodawanie niestandardowych właściwości w dokumentach EXCEL. Aby dodać niestandardową właściwość, możesz użyć metody [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customodtumentpropertycollection/methods/add/index) dla [CustomOdtumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customodtumentpropertycollection). Metoda Add dodaje właściwość do pliku Excel i zwraca odwołanie do nowej właściwości dokumentu jako [Aspose.Cells.Properties.OdtumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /odtumentproperty). 
 {{% blocks/products/pf/feature-page-code %}}

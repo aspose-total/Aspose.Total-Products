@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PDF to OTP  
 description: Convert PDF to OTP via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/pdf-to-otp/
+url_ignore: /cpp/conversion/pdf-to-otp/
 family: total
 platformtag: cpp
 feature: conversion

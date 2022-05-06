@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก EMAIL ไปยัง ODT
 description: แปลง EMAIL เป็น ODT โดยไม่ต้องใช้ Microsoft Word หรือ Outlook บน .NET
-url: /th/net/conversion/email-to-odt/
+url_ignore: /th/net/conversion/email-to-odt/
 family: total
 platformtag: net
 feature: conversion

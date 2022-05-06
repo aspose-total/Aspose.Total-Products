@@ -1,7 +1,7 @@
 ---
 title: Java API لتحويل DOTX إلى XLSB
 description: قم بتحويل DOTX إلى XLSB عبر Java دون استخدام Microsoft Word أو Microsoft Excel
-url: /ar/java/conversion/dotx-to-xlsb/
+url_ignore: /ar/java/conversion/dotx-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

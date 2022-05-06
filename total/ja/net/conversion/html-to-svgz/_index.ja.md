@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してHTMLをSVGZに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでHTMLをSVGZにエクスポートします
-url: /ja/net/conversion/html-to-svgz/
+url_ignore: /ja/net/conversion/html-to-svgz/
 family: total
 platformtag: net
 feature: conversion

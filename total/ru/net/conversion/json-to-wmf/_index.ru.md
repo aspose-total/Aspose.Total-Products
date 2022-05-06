@@ -1,7 +1,7 @@
 ---
 title: Преобразование формата JSON в WMF через .NET
 description: Разбирать JSON в WMF на C# без использования сторонних зависимостей
-url: /ru/net/conversion/json-to-wmf/
+url_ignore: /ru/net/conversion/json-to-wmf/
 family: total
 platformtag: net
 feature: conversion

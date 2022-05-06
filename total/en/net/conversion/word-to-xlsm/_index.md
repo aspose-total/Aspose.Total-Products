@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to XLSM via .NET 
 description: Convert WORD to XLSM in C# without using Microsoft Excel or Adobe Reader
-url: /net/conversion/word-to-xlsm/
+url_ignore: /net/conversion/word-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

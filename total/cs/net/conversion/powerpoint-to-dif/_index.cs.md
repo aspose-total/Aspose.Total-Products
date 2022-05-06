@@ -1,7 +1,7 @@
 ---
 title: Převést POWERPOINT na DIF přes C#
 description: Převeďte POWERPOINT na DIF v C# bez použití Microsoft Excel nebo Powerpoint
-url: /cs/net/conversion/powerpoint-to-dif/
+url_ignore: /cs/net/conversion/powerpoint-to-dif/
 family: total
 platformtag: net
 feature: conversion

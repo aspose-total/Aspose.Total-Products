@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export MD to PS
 description: Convert MD to PS within C++ applications.
-url: /cpp/conversion/md-to-ps/
+url_ignore: /cpp/conversion/md-to-ps/
 family: total
 platformtag: cpp
 feature: conversion

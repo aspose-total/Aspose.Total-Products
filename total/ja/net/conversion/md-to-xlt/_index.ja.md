@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMDをXLTに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにMDファイルをXLTに変換するC＃API
-url: /ja/net/conversion/md-to-xlt/
+url_ignore: /ja/net/conversion/md-to-xlt/
 family: total
 platformtag: net
 feature: conversion

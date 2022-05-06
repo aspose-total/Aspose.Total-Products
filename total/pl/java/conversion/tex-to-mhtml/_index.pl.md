@@ -1,7 +1,7 @@
 ---
 title: Java API do eksportu TEX do MHTML
 description: Konwertuj TEX na MHTML za pomocą lokalnego interfejsu Java API
-url: /pl/java/conversion/tex-to-mhtml/
+url_ignore: /pl/java/conversion/tex-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export MD to DOTM
 description: Convert MD to DOTM within C++ applications.
-url: /cpp/conversion/md-to-dotm/
+url_ignore: /cpp/conversion/md-to-dotm/
 family: total
 platformtag: cpp
 feature: conversion

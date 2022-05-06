@@ -1,7 +1,7 @@
 ---
 title: .NET API 将 ODT 转换为 XLSX
 description: 无需使用 Microsoft Excel 或 Adobe Reader 即可将 ODT 转换为 XLSX 的 C# API
-url: /zh/net/conversion/odt-to-xlsx/
+url_ignore: /zh/net/conversion/odt-to-xlsx/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ otherformats: XLSB XLAM FODS XLT XLS ODS DIF XLTX SXC XLSX XLSM TSV XLTM EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="通过 C# 在 XLSX 文件中添加自定义属性" %}}
 在将 ODT 转换为 XLSX 时，[Aspose.Cells for .NET](https://products.aspose.com/cells/net/) 允许您在 XLSX 文档中添加自定义属性。为了添加自定义属性，您可以对 [CustomOdtumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customodtumentpropertycollection)类。 Add 方法将属性添加到 Excel 文件，并以 [Aspose.Cells.Properties.OdtumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) 的形式返回新文档属性的引用/odtumentproperty) 对象。 
 {{% blocks/products/pf/feature-page-code %}}

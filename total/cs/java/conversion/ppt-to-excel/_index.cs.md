@@ -1,7 +1,7 @@
 ---
 title: Převeďte PPT do formátu EXCEL přes Java
 description: Převeďte PPT do formátu EXCEL přes Java bez použití Microsoft Excel nebo PowerPoint
-url: /cs/java/conversion/ppt-to-excel/
+url_ignore: /cs/java/conversion/ppt-to-excel/
 family: total
 platformtag: net
 feature: conversion

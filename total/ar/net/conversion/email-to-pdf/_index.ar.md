@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير البريد الإلكتروني إلى PDF
 description: قم بتحويل EMAIL إلى PDF دون استخدام Microsoft Word أو Outlook على .NET
-url: /ar/net/conversion/email-to-pdf/
+url_ignore: /ar/net/conversion/email-to-pdf/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से जेएसओएन प्रारूप को एपीएनजी में कनवर्ट करें
 description: Microsoft PowerPoint का उपयोग किए बिना जावा में JSON को DXF में पार्स करें
-url: /hi/java/conversion/json-to-dxf/
+url_ignore: /hi/java/conversion/json-to-dxf/
 family: total
 platformtag: net
 feature: conversion

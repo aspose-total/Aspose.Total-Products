@@ -1,7 +1,7 @@
 ---
 title: Converter PDF para EMZ via API C#
 description: Exporte PDF para EMZ em seus aplicativos .NET sem usar nenhum aplicativo de terceiros
-url: /pt/net/conversion/pdf-to-emz/
+url_ignore: /pt/net/conversion/pdf-to-emz/
 family: total
 platformtag: net
 feature: conversion

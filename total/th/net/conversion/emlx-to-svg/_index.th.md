@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก EMLX ไปยัง SVG
 description: แปลง EMLX เป็น SVG โดยไม่ต้องใช้ Microsoft Word หรือ Outlook บน .NET
-url: /th/net/conversion/emlx-to-svg/
+url_ignore: /th/net/conversion/emlx-to-svg/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi POTX sang DOC qua Java
 description: Java API để xuất POTX sang DOC mà không cần sử dụng Microsoft Word hoặc PowerPoint
-url: /vi/java/conversion/potx-to-doc/
+url_ignore: /vi/java/conversion/potx-to-doc/
 family: total
 platformtag: net
 feature: conversion

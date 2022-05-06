@@ -1,7 +1,7 @@
 ---
 title: Convertir PS en EMZ via Java
 description: Exportez le fichier PS vers EMZ dans vos applications Java sans utiliser d'application tierce
-url: /fr/java/conversion/ps-to-emz/
+url_ignore: /fr/java/conversion/ps-to-emz/
 family: total
 platformtag: net
 feature: conversion

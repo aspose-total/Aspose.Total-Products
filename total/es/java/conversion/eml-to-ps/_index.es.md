@@ -1,7 +1,7 @@
 ---
 title: Exportar EML a PS a través de Java
 description: API de Java para convertir EML a PS sin usar Microsoft Word o Outlook
-url: /es/java/conversion/eml-to-ps/
+url_ignore: /es/java/conversion/eml-to-ps/
 family: total
 platformtag: net
 feature: conversion

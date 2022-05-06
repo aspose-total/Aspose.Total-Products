@@ -1,7 +1,7 @@
 ---
 title: Converti PPTM in formato ODS tramite Java
 description: Converti PPTM in formato ODS tramite Java senza utilizzare Microsoft Excel o PowerPoint
-url: /it/java/conversion/pptm-to-ods/
+url_ignore: /it/java/conversion/pptm-to-ods/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга XML в DIF
 description: Экспорт XML в DIF через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/xml-to-dif/
+url_ignore: /ru/java/conversion/xml-to-dif/
 family: total
 platformtag: net
 feature: conversion

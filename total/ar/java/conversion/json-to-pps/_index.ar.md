@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى PPS عبر Java
 description: تحليل JSON إلى PPS في Java بدون استخدام Microsoft PowerPoint
-url: /ar/java/conversion/json-to-pps/
+url_ignore: /ar/java/conversion/json-to-pps/
 family: total
 platformtag: net
 feature: conversion

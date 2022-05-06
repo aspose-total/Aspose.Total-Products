@@ -1,7 +1,7 @@
 ---
 title: Convert PDF to APNG via Java
 description: Export PDF file to APNG  in your Java applications without using any third party application 
-url: /java/conversion/pdf-to-apng/
+url_ignore: /java/conversion/pdf-to-apng/
 family: total
 platformtag: java
 feature: conversion

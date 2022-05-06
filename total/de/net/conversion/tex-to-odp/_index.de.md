@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie TEX über die C#-API nach ODP
 description: .NET-API zum Konvertieren von TEX in ODP ohne Verwendung von Microsoft Word
-url: /de/net/conversion/tex-to-odp/
+url_ignore: /de/net/conversion/tex-to-odp/
 family: total
 platformtag: net
 feature: conversion

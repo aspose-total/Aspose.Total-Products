@@ -1,7 +1,7 @@
 ---
 title: C# API untuk Mengekspor EMLX ke EMF
 description: Konversi EMLX ke EMF tanpa menggunakan Microsoft Word atau Outlook di .NET
-url: /id/net/conversion/emlx-to-emf/
+url_ignore: /id/net/conversion/emlx-to-emf/
 family: total
 platformtag: net
 feature: conversion

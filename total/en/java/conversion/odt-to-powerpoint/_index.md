@@ -1,7 +1,7 @@
 ---
 title: Convert ODT to POWERPOINT via Java
 description: Java API to Export ODT to POWERPOINT without using Microsoft Word or PowerPoint
-url: /java/conversion/odt-to-powerpoint/
+url_ignore: /java/conversion/odt-to-powerpoint/
 family: total
 platformtag: java
 feature: conversion

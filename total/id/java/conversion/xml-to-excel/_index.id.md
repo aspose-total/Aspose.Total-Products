@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender XML ke EXCEL
 description: Ekspor XML ke EXCEL melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/xml-to-excel/
+url_ignore: /id/java/conversion/xml-to-excel/
 family: total
 platformtag: net
 feature: conversion

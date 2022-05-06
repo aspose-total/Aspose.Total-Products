@@ -1,7 +1,7 @@
 ---
 title: Convert POTX to MARKDOWN in Android via Java
 description: Convert POTX to MARKDOWN in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/potx-to-markdown/
+url_ignore: /android-java/conversion/potx-to-markdown/
 family: total
 platformtag: android-java
 feature: conversion

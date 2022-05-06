@@ -1,7 +1,7 @@
 ---
 title: NET API لتحويل WORD إلى FODS
 description: C# API لتحويل WORD إلى FODS بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/word-to-fods/
+url_ignore: /ar/net/conversion/word-to-fods/
 family: total
 platformtag: net
 feature: conversion

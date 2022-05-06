@@ -1,7 +1,7 @@
 ---
 title: Java API เพื่อส่งออก PCL ไปยัง PS
 description: แปลง PCL เป็น PS โดยใช้ Java API . ในตัว
-url: /th/java/conversion/pcl-to-ps/
+url_ignore: /th/java/conversion/pcl-to-ps/
 family: total
 platformtag: net
 feature: conversion

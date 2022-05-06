@@ -1,7 +1,7 @@
 ---
 title: Export MSG to FLATOPC via C++
 description: C++ API to Convert MSG to FLATOPC without using Microsoft Word or Outlook
-url: /cpp/conversion/msg-to-flatopc/
+url_ignore: /cpp/conversion/msg-to-flatopc/
 family: total
 platformtag: cpp
 feature: conversion

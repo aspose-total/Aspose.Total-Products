@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PCL to DOTX
 description: Transform PCL to DOTX via Android via Java API
-url: /android-java/conversion/pcl-to-dotx/
+url_ignore: /android-java/conversion/pcl-to-dotx/
 family: total
 platformtag: android-java
 feature: conversion

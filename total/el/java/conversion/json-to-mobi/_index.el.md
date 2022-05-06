@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή μορφής JSON σε MOBI μέσω Java
 description: Ανάλυση JSON σε MOBI σε Java χωρίς χρήση του Microsoft Word
-url: /el/java/conversion/json-to-mobi/
+url_ignore: /el/java/conversion/json-to-mobi/
 family: total
 platformtag: net
 feature: conversion

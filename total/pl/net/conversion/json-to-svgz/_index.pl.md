@@ -1,7 +1,7 @@
 ---
 title: Konwertuj format JSON na SVGZ przez .NET
 description: Przetwarzaj JSON do SVGZ w C# bez korzystania z zależności stron trzecich
-url: /pl/net/conversion/json-to-svgz/
+url_ignore: /pl/net/conversion/json-to-svgz/
 family: total
 platformtag: net
 feature: conversion
@@ -33,7 +33,8 @@ Możesz też pobrać instalator offline MSI lub biblioteki DLL w pliku ZIP ze st
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "parse-json-to-image.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ Możesz też pobrać instalator offline MSI lub biblioteki DLL w pliku ZIP ze st
 Podczas analizowania JSON do SVGZ możesz także ustawić opcje układu dla swojego JSON za pomocą [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Umożliwia przetwarzanie tablicy jako tabeli, ignorowanie wartości null, ignorowanie tytułu tablicy, ignorowanie tytułu obiektu, konwersję ciągu na liczbę lub datę, ustawianie formatu daty i liczby oraz ustawianie stylu tytułu. Wszystkie te opcje umożliwiają prezentację danych zgodnie z własnymi potrzebami. Poniższy fragment kodu pokazuje, jak ustawić opcje układu.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "set-layout-and-parse-json-to-image.cs" >}}
+{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "set-layout-and-parse-json-to-image.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Podczas analizowania JSON do SVGZ możesz także ustawić opcje układu dla swoj
 Korzystając z API, możesz również przekonwertować JSON na SVGZ ze znakiem wodnym w swoim dokumencie SVGZ. Aby dodać znak wodny, możesz najpierw wyrenderować dokument JSON do formatu JPEG i dodać do niego znak wodny. Aby zademonstrować operację, możesz załadować przekonwertowany obraz JPEG, dodać przekształcenia za pomocą obiektu klasy Matrix i narysować ciąg znaków jako znak wodny na powierzchni obrazu za pomocą [Grafika](https://apireference.aspose.com/imaging/ net/aspose.imaging/graphics) metoda [DrawString](https://apireference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring). Po dodaniu do niego znaku wodnego możesz zapisać plik JPEG jako format SVGZ. Poniżej znajduje się przykład kodu, który pokazuje, jak dodać ukośny znak wodny do dokumentu. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

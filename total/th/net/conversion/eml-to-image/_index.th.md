@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก EML ไปยัง IMAGE
 description: แปลง EML เป็น IMAGE โดยไม่ต้องใช้ Microsoft Word หรือ Outlook บน .NET
-url: /th/net/conversion/eml-to-image/
+url_ignore: /th/net/conversion/eml-to-image/
 family: total
 platformtag: net
 feature: conversion

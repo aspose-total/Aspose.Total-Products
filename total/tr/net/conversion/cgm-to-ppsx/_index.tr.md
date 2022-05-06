@@ -1,7 +1,7 @@
 ---
 title: CGM'yi C# API aracılığıyla PPSX'ye aktarın
 description: Microsoft Word kullanmadan CGM'yi PPSX'ye dönüştürmek için .NET API
-url: /tr/net/conversion/cgm-to-ppsx/
+url_ignore: /tr/net/conversion/cgm-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

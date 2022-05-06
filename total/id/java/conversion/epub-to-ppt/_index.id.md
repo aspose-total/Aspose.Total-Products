@@ -1,7 +1,7 @@
 ---
 title: Konversi EPUB ke PPT melalui Java API
 description: Java API untuk Mengonversi EPUB ke PPT tanpa menggunakan Microsoft Word
-url: /id/java/conversion/epub-to-ppt/
+url_ignore: /id/java/conversion/epub-to-ppt/
 family: total
 platformtag: net
 feature: conversion

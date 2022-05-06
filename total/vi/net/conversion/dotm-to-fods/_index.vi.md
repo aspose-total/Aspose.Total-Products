@@ -1,7 +1,7 @@
 ---
 title: .NET API để chuyển đổi DOTM sang FODS
 description: C# API để chuyển đổi DOTM sang FODS mà không cần sử dụng Microsoft Excel hoặc Adobe Reader
-url: /vi/net/conversion/dotm-to-fods/
+url_ignore: /vi/net/conversion/dotm-to-fods/
 family: total
 platformtag: net
 feature: conversion

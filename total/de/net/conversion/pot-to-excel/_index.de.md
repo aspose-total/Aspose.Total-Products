@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie POT über C# in EXCEL
 description: Konvertieren Sie POT in C# in EXCEL, ohne Microsoft Excel oder Powerpoint zu verwenden
-url: /de/net/conversion/pot-to-excel/
+url_ignore: /de/net/conversion/pot-to-excel/
 family: total
 platformtag: net
 feature: conversion

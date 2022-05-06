@@ -1,7 +1,7 @@
 ---
 title: EMLXをODTにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMLXをODTに変換する
-url: /ja/net/conversion/emlx-to-odt/
+url_ignore: /ja/net/conversion/emlx-to-odt/
 family: total
 platformtag: net
 feature: conversion

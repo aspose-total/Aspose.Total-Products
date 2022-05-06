@@ -1,7 +1,7 @@
 ---
 title: Javaを介してJSON形式をPOWERPOINTに変換する
 description: Microsoft PowerPointを使用せずに、JavaでJSONをPOWERPOINTに解析します
-url: /ja/java/conversion/json-to-powerpoint/
+url_ignore: /ja/java/conversion/json-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: जावा का उपयोग करके ODS को POWERPOINT में बदलें
 description: जावा एपीआई एक्सेल या वर्ड का उपयोग करके सीएसवी को डीओसी में निर्यात करने के लिए
-url: /hi/java/conversion/ods-to-powerpoint/
+url_ignore: /hi/java/conversion/ods-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert PPS to XLTM via C# 
 description: Convert PPS to XLTM in C# without using Microsoft Excel or Powerpoint
-url: /net/conversion/pps-to-xltm/
+url_ignore: /net/conversion/pps-to-xltm/
 family: total
 platformtag: net
 feature: conversion

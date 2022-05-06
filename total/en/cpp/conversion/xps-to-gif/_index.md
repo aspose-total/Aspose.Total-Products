@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export XPS to GIF
 description: Convert XPS to GIF within C++ applications.
-url: /cpp/conversion/xps-to-gif/
+url_ignore: /cpp/conversion/xps-to-gif/
 family: total
 platformtag: cpp
 feature: conversion

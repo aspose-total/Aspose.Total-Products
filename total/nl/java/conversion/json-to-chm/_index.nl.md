@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-formaat naar CHM via Java
 description: JSON ontleden naar CHM in Java zonder Microsoft Word te gebruiken
-url: /nl/java/conversion/json-to-chm/
+url_ignore: /nl/java/conversion/json-to-chm/
 family: total
 platformtag: net
 feature: conversion

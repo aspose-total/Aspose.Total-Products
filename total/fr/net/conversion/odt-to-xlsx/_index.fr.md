@@ -1,7 +1,7 @@
 ---
 title: API .NET pour convertir ODT en XLSX
 description: API C# pour convertir ODT en XLSX sans utiliser Microsoft Excel ou Adobe Reader
-url: /fr/net/conversion/odt-to-xlsx/
+url_ignore: /fr/net/conversion/odt-to-xlsx/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: XLSB XLAM FODS XLT XLS ODS DIF XLTX SXC XLSX XLSM TSV XLTM EXCEL
 {{< blocks/products/pf/i18n/feature-page-header h1="API C# pour convertir ODT en XLSX" h2="Exportez ODT vers XLSX via C# sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), vous pouvez inclure la fonction de conversion ODT vers XLSX dans n'importe quelle application .NET, C#, ASP.NET et VB.NET dans deux étapes simples. Tout d'abord, en utilisant [Aspose.Words pour .NET](https://products.aspose.com/words/net/), vous pouvez exporter ODT vers HTML. Après cela, en utilisant [Aspose.Cells pour .NET](https://products.aspose.com/cells/net/) API de programmation de feuille de calcul, vous pouvez convertir HTML en XLSX.
+En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez inclure la fonction de conversion ODT vers XLSX dans n'importe quelle application .NET, C#, ASP.NET et VB.NET dans deux étapes simples. Tout d'abord, en utilisant [Aspose.Words for .NET](https://products.aspose.com/words/net/), vous pouvez exporter ODT vers HTML. Après cela, en utilisant [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API de programmation de feuille de calcul, vous pouvez convertir HTML en XLSX.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -39,7 +39,7 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Charger le odtument ODT à partir du flux via C#" %}}
-[Aspose.Words pour .NET](https://products.aspose.com/words/net/) vous permet également de charger un odtument ODT via un flux. Pour ouvrir un odtument à partir d'un flux, transmettez simplement un objet de flux contenant le odtument dans le constructeur [Odtument](https://apireference.aspose.com/words/net/aspose.words/odtument). L'exemple de code suivant montre comment ouvrir un odtument à partir d'un flux :  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) vous permet également de charger un odtument ODT via un flux. Pour ouvrir un odtument à partir d'un flux, transmettez simplement un objet de flux contenant le odtument dans le constructeur [Odtument](https://apireference.aspose.com/words/net/aspose.words/odtument). L'exemple de code suivant montre comment ouvrir un odtument à partir d'un flux :  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}

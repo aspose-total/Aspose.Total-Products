@@ -1,6 +1,6 @@
 ---
 title: Преобразование ODT в PPT через C# .NET 
-url: /ru/net/conversion/odt-to-ppt/ 
+url_ignore: /ru/net/conversion/odt-to-ppt/ 
 description: Преобразование документов Word odt в файлы PowerPoint ppt с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

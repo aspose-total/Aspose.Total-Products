@@ -1,7 +1,7 @@
 ---
 title: Java API لتصدير XPS إلى DOTM
 description: قم بتحويل XPS إلى DOTM باستخدام Java API في مكان العمل
-url: /ar/java/conversion/xps-to-dotm/
+url_ignore: /ar/java/conversion/xps-to-dotm/
 family: total
 platformtag: net
 feature: conversion

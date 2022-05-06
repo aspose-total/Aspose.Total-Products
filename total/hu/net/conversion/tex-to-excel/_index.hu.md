@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a TEX-et EXCEL-vé a C# API-n keresztül
 description: C# API a TEX-fájlok EXCEL-vé konvertálásához Microsoft Excel vagy Adobe Reader használata nélkül
-url: /hu/net/conversion/tex-to-excel/
+url_ignore: /hu/net/conversion/tex-to-excel/
 family: total
 platformtag: net
 feature: conversion
@@ -19,15 +19,15 @@ Az [Aspose.Total for .NET](https://products.aspose.com/total/net/) használatáv
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API a TEX EXCEL-vé alakításához" %}}
 1. Nyissa meg a TEX-fájlt a [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) osztály használatával
-2. Konvertálja a TEX-et XLSX-re a [Mentés](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) módszerrel
+2. Konvertálja a TEX-et XLSX-re a [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) módszerrel
 3. Töltse be az XLSX dokumentumot a [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) osztály használatával
-4. Mentse a dokumentumot EXCEL-formátumba a [Mentés](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) metódussal, és állítsa be a „Excel”-t SaveFormat-ként.
+4. Mentse a dokumentumot EXCEL-formátumba a [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) metódussal, és állítsa be a „Excel”-t SaveFormat-ként.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 Telepítés parancssorból ```nuget install Aspose.Total``` néven, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.Total``` paranccsal.
 
-Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads] webhelyről (https://downloads.aspose.com/total/net).
+Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads](https://downloads.aspose.com/total/net) webhelyről.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}

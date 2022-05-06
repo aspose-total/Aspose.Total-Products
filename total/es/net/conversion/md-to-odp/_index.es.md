@@ -1,7 +1,7 @@
 ---
 title: Exportar MD a ODP a través de la API de C#
 description: .NET API para convertir MD a ODP sin usar Microsoft Word
-url: /es/net/conversion/md-to-odp/
+url_ignore: /es/net/conversion/md-to-odp/
 family: total
 platformtag: net
 feature: conversion

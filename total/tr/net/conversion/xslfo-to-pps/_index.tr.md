@@ -1,7 +1,7 @@
 ---
 title: XSLFO'yi C# API aracılığıyla PPS'ye aktarın
 description: Microsoft Word kullanmadan XSLFO'yi PPS'ye dönüştürmek için .NET API
-url: /tr/net/conversion/xslfo-to-pps/
+url_ignore: /tr/net/conversion/xslfo-to-pps/
 family: total
 platformtag: net
 feature: conversion

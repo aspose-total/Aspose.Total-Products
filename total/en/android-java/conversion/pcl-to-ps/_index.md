@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PCL to PS
 description: Transform PCL to PS via Android via Java API
-url: /android-java/conversion/pcl-to-ps/
+url_ignore: /android-java/conversion/pcl-to-ps/
 family: total
 platformtag: android-java
 feature: conversion

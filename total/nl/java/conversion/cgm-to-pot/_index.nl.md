@@ -1,7 +1,7 @@
 ---
 title: Converteer CGM naar POT via Java API
 description: Java API om CGM naar POT te converteren zonder Microsoft Word te gebruiken
-url: /nl/java/conversion/cgm-to-pot/
+url_ignore: /nl/java/conversion/cgm-to-pot/
 family: total
 platformtag: net
 feature: conversion

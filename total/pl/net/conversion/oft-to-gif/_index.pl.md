@@ -1,7 +1,7 @@
 ---
 title: C# API do eksportu OFT do GIF
 description: Konwertuj OFT na GIF bez używania Microsoft Word lub Outlook na .NET
-url: /pl/net/conversion/oft-to-gif/
+url_ignore: /pl/net/conversion/oft-to-gif/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export EMAIL to MD via C++
 description: C++ API to Convert EMAIL to MD without using Microsoft Word or Outlook
-url: /cpp/conversion/email-to-md/
+url_ignore: /cpp/conversion/email-to-md/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie XSLFO über die C#-API nach SWF
 description: .NET-API zum Konvertieren von XSLFO in SWF ohne Verwendung von Microsoft Word
-url: /de/net/conversion/xslfo-to-swf/
+url_ignore: /de/net/conversion/xslfo-to-swf/
 family: total
 platformtag: net
 feature: conversion

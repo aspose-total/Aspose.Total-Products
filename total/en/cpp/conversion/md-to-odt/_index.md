@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export MD to ODT
 description: Convert MD to ODT within C++ applications.
-url: /cpp/conversion/md-to-odt/
+url_ignore: /cpp/conversion/md-to-odt/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Převeďte MD na POTX přes Java API
 description: Java API pro převod MD na POTX bez použití aplikace Microsoft Word
-url: /cs/java/conversion/md-to-potx/
+url_ignore: /cs/java/conversion/md-to-potx/
 family: total
 platformtag: net
 feature: conversion

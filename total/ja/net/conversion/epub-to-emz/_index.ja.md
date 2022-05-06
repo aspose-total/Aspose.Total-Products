@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してEPUBをEMZに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでEPUBをEMZにエクスポートします
-url: /ja/net/conversion/epub-to-emz/
+url_ignore: /ja/net/conversion/epub-to-emz/
 family: total
 platformtag: net
 feature: conversion

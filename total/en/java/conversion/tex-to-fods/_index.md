@@ -1,7 +1,7 @@
 ---
 title: Java API to Render TEX to FODS
 description: Export TEX to FODS via Java API without using Microsoft Excel or Adobe Reader
-url: /java/conversion/tex-to-fods/
+url_ignore: /java/conversion/tex-to-fods/
 family: total
 platformtag: java
 feature: conversion

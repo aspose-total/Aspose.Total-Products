@@ -1,7 +1,7 @@
 ---
 title: Android API to Render MD to DOCM
 description: Transform MD to DOCM via Android via Java API
-url: /android-java/conversion/md-to-docm/
+url_ignore: /android-java/conversion/md-to-docm/
 family: total
 platformtag: android-java
 feature: conversion

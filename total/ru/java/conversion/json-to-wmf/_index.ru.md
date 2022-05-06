@@ -1,7 +1,7 @@
 ---
 title: Преобразование формата JSON в WMF через Java
 description: Разбор JSON в WMF на Java без использования Microsoft PowerPoint
-url: /ru/java/conversion/json-to-wmf/
+url_ignore: /ru/java/conversion/json-to-wmf/
 family: total
 platformtag: net
 feature: conversion

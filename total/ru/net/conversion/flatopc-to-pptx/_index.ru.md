@@ -1,6 +1,6 @@
 ---
 title: Преобразование FLATOPC в PPTX через C# .NET 
-url: /ru/net/conversion/flatopc-to-pptx/ 
+url_ignore: /ru/net/conversion/flatopc-to-pptx/ 
 description: Преобразование документов Word flatopc в файлы PowerPoint pptx с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

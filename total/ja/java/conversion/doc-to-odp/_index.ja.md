@@ -1,7 +1,7 @@
 ---
 title: Java経由でDOCをODPに変換する
 description: MicrosoftWordやPowerPointを使用せずにDOCをODPにエクスポートするJavaAPI
-url: /ja/java/conversion/doc-to-odp/
+url_ignore: /ja/java/conversion/doc-to-odp/
 family: total
 platformtag: net
 feature: conversion

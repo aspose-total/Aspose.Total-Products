@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPOTXをXLAMに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPOTXをXLAMに変換する
-url: /ja/net/conversion/potx-to-xlam/
+url_ignore: /ja/net/conversion/potx-to-xlam/
 family: total
 platformtag: net
 feature: conversion

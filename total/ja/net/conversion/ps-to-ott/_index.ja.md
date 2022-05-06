@@ -1,7 +1,7 @@
 ---
 title: PSをOTTにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにPSをOTTに変換する
-url: /ja/net/conversion/ps-to-ott/
+url_ignore: /ja/net/conversion/ps-to-ott/
 family: total
 platformtag: net
 feature: conversion

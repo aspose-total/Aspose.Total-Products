@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert CGM to XLAM
 description: Convert CGM to XLAM via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/cgm-to-xlam/
+url_ignore: /cpp/conversion/cgm-to-xlam/
 family: total
 platformtag: cpp
 feature: conversion

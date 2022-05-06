@@ -1,7 +1,7 @@
 ---
 title: Export MSG do WORDML přes Java
 description: Java API pro převod MSG do WORDML bez použití Microsoft Word nebo Outlook
-url: /cs/java/conversion/msg-to-wordml/
+url_ignore: /cs/java/conversion/msg-to-wordml/
 family: total
 platformtag: net
 feature: conversion

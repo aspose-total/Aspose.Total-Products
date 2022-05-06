@@ -1,7 +1,7 @@
 ---
 title: Convierta XSLFO a PSD a través de Java
 description: Exporte el archivo XSLFO a PSD en sus aplicaciones Java sin usar ninguna aplicación de terceros
-url: /es/java/conversion/xslfo-to-psd/
+url_ignore: /es/java/conversion/xslfo-to-psd/
 family: total
 platformtag: net
 feature: conversion
@@ -50,7 +50,7 @@ Con la API, también puede exportar un archivo XSLFO a PSD con marca de agua en 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Convertir y rotar archivos XSLFO a PSD a través de Java" %}}
-Usando la API, también puede rotar la imagen PSD de salida según sus necesidades. El método Image.rotateFlip se puede utilizar para rotar la imagen 90/180/270 grados y voltear la imagen horizontal o verticalmente. La biblioteca proporciona métodos simples para realizar operaciones complejas mientras encapsula todos los detalles desagradables. Puede especificar el tipo de rotación y volteo para aplicar a la imagen. Para rotar y voltear la imagen, puede cargar la imagen JPEG convertida usando la clase [Imagen](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image) y llamar a la imagen. giratorio mientras especifica el [RotateFlipType] apropiado (https://apireference.aspose.com/imaging/java/com.aspose.imaging/RotateFlipType). 
+Usando la API, también puede rotar la imagen PSD de salida según sus necesidades. El método Image.rotateFlip se puede utilizar para rotar la imagen 90/180/270 grados y voltear la imagen horizontal o verticalmente. La biblioteca proporciona métodos simples para realizar operaciones complejas mientras encapsula todos los detalles desagradables. Puede especificar el tipo de rotación y volteo para aplicar a la imagen. Para rotar y voltear la imagen, puede cargar la imagen JPEG convertida usando la clase [Imagen](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image) y llamar a la imagen. giratorio mientras especifica el [RotateFlipType](https://apireference.aspose.com/imaging/java/com.aspose.imaging/RotateFlipType). 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "a0abf986a98e2b1f1e86127b1a4449bd" "convert-and-rotate-pdf-to-image.java" >}}

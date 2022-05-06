@@ -1,7 +1,7 @@
 ---
 title: SVGをFLATOPCにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにSVGをFLATOPCに変換する
-url: /ja/net/conversion/svg-to-flatopc/
+url_ignore: /ja/net/conversion/svg-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

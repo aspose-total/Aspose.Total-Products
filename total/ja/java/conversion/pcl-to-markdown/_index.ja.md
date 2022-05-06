@@ -1,7 +1,7 @@
 ---
 title: PCLをMARKDOWNにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してPCLをMARKDOWNに変換する
-url: /ja/java/conversion/pcl-to-markdown/
+url_ignore: /ja/java/conversion/pcl-to-markdown/
 family: total
 platformtag: net
 feature: conversion

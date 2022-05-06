@@ -1,7 +1,7 @@
 ---
 title: Convert PPSM to TEXT via Java
 description: Java API to Export PPSM to TEXT without using Microsoft Word or PowerPoint
-url: /java/conversion/ppsm-to-text/
+url_ignore: /java/conversion/ppsm-to-text/
 family: total
 platformtag: java
 feature: conversion

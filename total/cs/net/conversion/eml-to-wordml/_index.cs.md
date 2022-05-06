@@ -1,7 +1,7 @@
 ---
 title: C# API pro export EML do WORDML
 description: Převeďte EML na WORDML bez použití Microsoft Word nebo Outlook na .NET
-url: /cs/net/conversion/eml-to-wordml/
+url_ignore: /cs/net/conversion/eml-to-wordml/
 family: total
 platformtag: net
 feature: conversion

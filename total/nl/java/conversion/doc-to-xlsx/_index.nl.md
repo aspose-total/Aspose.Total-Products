@@ -1,7 +1,7 @@
 ---
 title: Java API om DOC naar XLSX te converteren
 description: Converteer DOC naar XLSX via Java zonder Microsoft Word of Microsoft Excel te gebruiken
-url: /nl/java/conversion/doc-to-xlsx/
+url_ignore: /nl/java/conversion/doc-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

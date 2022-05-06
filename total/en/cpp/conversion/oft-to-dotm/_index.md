@@ -1,7 +1,7 @@
 ---
 title: Export OFT to DOTM via C++
 description: C++ API to Convert OFT to DOTM without using Microsoft Word or Outlook
-url: /cpp/conversion/oft-to-dotm/
+url_ignore: /cpp/conversion/oft-to-dotm/
 family: total
 platformtag: cpp
 feature: conversion

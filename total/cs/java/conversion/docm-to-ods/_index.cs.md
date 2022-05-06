@@ -1,7 +1,7 @@
 ---
 title: Java API pro převod DOCM do ODS
 description: Převeďte DOCM na ODS přes Java bez použití Microsoft Word nebo Microsoft Excel
-url: /cs/java/conversion/docm-to-ods/
+url_ignore: /cs/java/conversion/docm-to-ods/
 family: total
 platformtag: net
 feature: conversion

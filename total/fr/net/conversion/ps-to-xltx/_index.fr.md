@@ -1,7 +1,7 @@
 ---
 title: Convertir PS en XLTX via l'API C#
 description: API C# pour convertir un fichier PS en XLTX sans utiliser Microsoft Excel ou Adobe Reader
-url: /fr/net/conversion/ps-to-xltx/
+url_ignore: /fr/net/conversion/ps-to-xltx/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: ODS XLAM TXT XLSM XLT MD XLTM XLSB EXCEL DIF SXC FODS
 {{< blocks/products/pf/i18n/feature-page-header h1="API C# pour rendre PS en XLTX" h2="Exporter le fichier PS au format XLTX via C# sans utiliser Microsoft<sup>&reg;</sup> Excel ou Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), vous pouvez facilement convertir un fichier PS en XLTX dans n'importe quelle application .NET, C#, ASP.NET et VB.NET. Tout d'abord, en utilisant [Aspose.PDF pour .NET](https://products.aspose.com/pdf/net/), vous pouvez exporter PS vers XLSX. Après cela, en utilisant l'API de programmation de feuille de calcul [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), vous pouvez convertir XLSX en XLTX.
+En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez facilement convertir un fichier PS en XLTX dans n'importe quelle application .NET, C#, ASP.NET et VB.NET. Tout d'abord, en utilisant [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), vous pouvez exporter PS vers XLSX. Après cela, en utilisant l'API de programmation de feuille de calcul [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), vous pouvez convertir XLSX en XLTX.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

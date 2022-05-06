@@ -1,7 +1,7 @@
 ---
 title: EPUBをDOTにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにEPUBをDOTに変換する
-url: /ja/net/conversion/epub-to-dot/
+url_ignore: /ja/net/conversion/epub-to-dot/
 family: total
 platformtag: net
 feature: conversion

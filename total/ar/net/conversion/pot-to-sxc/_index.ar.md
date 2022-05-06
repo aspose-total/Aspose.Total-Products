@@ -1,7 +1,7 @@
 ---
 title: تحويل POT إلى SXC عبر C#
 description: قم بتحويل POT إلى SXC في C# بدون استخدام Microsoft Excel أو Powerpoint
-url: /ar/net/conversion/pot-to-sxc/
+url_ignore: /ar/net/conversion/pot-to-sxc/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to ODP via C++
 description: Export WORD to ODP in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/word-to-odp/
+url_ignore: /cpp/conversion/word-to-odp/
 family: total
 platformtag: cpp
 feature: conversion

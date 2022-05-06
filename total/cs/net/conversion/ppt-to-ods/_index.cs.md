@@ -1,7 +1,7 @@
 ---
 title: Převést PPT na ODS přes C#
 description: Převeďte PPT na ODS v C# bez použití Microsoft Excel nebo Powerpoint
-url: /cs/net/conversion/ppt-to-ods/
+url_ignore: /cs/net/conversion/ppt-to-ods/
 family: total
 platformtag: net
 feature: conversion

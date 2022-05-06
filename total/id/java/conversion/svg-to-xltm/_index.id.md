@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender SVG ke XLTM
 description: Ekspor SVG ke XLTM melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/svg-to-xltm/
+url_ignore: /id/java/conversion/svg-to-xltm/
 family: total
 platformtag: net
 feature: conversion

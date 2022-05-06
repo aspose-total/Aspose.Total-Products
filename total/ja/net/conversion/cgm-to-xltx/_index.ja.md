@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してCGMをXLTXに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにCGMファイルをXLTXに変換するC＃API
-url: /ja/net/conversion/cgm-to-xltx/
+url_ignore: /ja/net/conversion/cgm-to-xltx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование TXT в ODP через Java
 description: Java API для экспорта TXT в ODP без использования Microsoft Word или PowerPoint
-url: /ru/java/conversion/txt-to-odp/
+url_ignore: /ru/java/conversion/txt-to-odp/
 family: total
 platformtag: net
 feature: conversion

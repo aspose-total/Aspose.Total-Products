@@ -1,7 +1,7 @@
 ---
 title: Převeďte CGM na XLT přes C# API
 description: C# API pro převod souboru CGM do XLT bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/cgm-to-xlt/
+url_ignore: /cs/net/conversion/cgm-to-xlt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PS to DOTM
 description: Convert PS to DOTM within C++ applications.
-url: /cpp/conversion/ps-to-dotm/
+url_ignore: /cpp/conversion/ps-to-dotm/
 family: total
 platformtag: cpp
 feature: conversion

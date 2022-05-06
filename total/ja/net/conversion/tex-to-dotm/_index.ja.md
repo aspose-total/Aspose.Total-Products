@@ -1,7 +1,7 @@
 ---
 title: TEXをDOTMにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにTEXをDOTMに変換する
-url: /ja/net/conversion/tex-to-dotm/
+url_ignore: /ja/net/conversion/tex-to-dotm/
 family: total
 platformtag: net
 feature: conversion

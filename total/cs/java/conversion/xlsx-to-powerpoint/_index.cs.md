@@ -1,7 +1,7 @@
 ---
 title: Převeďte XLSX na POWERPOINT pomocí Java
 description: Java API pro export XLSX do POWERPOINT pomocí Excelu nebo Wordu
-url: /cs/java/conversion/xlsx-to-powerpoint/
+url_ignore: /cs/java/conversion/xlsx-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

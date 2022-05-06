@@ -1,7 +1,7 @@
 ---
 title: MSG'i Java aracılığıyla SVG'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan MSG'i SVG'ye Dönüştürmek için Java API
-url: /tr/java/conversion/msg-to-svg/
+url_ignore: /tr/java/conversion/msg-to-svg/
 family: total
 platformtag: net
 feature: conversion

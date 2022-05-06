@@ -1,7 +1,7 @@
 ---
 title: .NET API to Convert DOT to FODS 
 description: C# API to Convert DOT to FODS without using Microsoft Excel or Adobe Reader
-url: /net/conversion/dot-to-fods/
+url_ignore: /net/conversion/dot-to-fods/
 family: total
 platformtag: net
 feature: conversion

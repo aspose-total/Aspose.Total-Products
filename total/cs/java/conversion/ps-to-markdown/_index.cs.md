@@ -1,7 +1,7 @@
 ---
 title: Java API pro export PS do MARKDOWN
 description: Převeďte PS na MARKDOWN pomocí on premise Java API
-url: /cs/java/conversion/ps-to-markdown/
+url_ignore: /cs/java/conversion/ps-to-markdown/
 family: total
 platformtag: net
 feature: conversion

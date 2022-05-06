@@ -1,7 +1,7 @@
 ---
 title: PPSX'u C# ile XLAM'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan PPSX'u C#'ta XLAM'ye dönüştürün
-url: /tr/net/conversion/ppsx-to-xlam/
+url_ignore: /tr/net/conversion/ppsx-to-xlam/
 family: total
 platformtag: net
 feature: conversion

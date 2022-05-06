@@ -1,7 +1,7 @@
 ---
 title: CGM'yi FLATOPC'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak CGM'yi FLATOPC'ye dönüştürün
-url: /tr/java/conversion/cgm-to-flatopc/
+url_ignore: /tr/java/conversion/cgm-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

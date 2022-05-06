@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla EPUB'yi CSV'ye dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan EPUB Dosyasını CSV'ye Dönüştürmek için C# API'si
-url: /tr/net/conversion/epub-to-csv/
+url_ignore: /tr/net/conversion/epub-to-csv/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PS to FLATOPC
 description: Transform PS to FLATOPC via Android via Java API
-url: /android-java/conversion/ps-to-flatopc/
+url_ignore: /android-java/conversion/ps-to-flatopc/
 family: total
 platformtag: android-java
 feature: conversion

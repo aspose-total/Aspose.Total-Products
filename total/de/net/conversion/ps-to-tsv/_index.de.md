@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie PS über die C#-API in TSV
 description: C#-API zum Konvertieren von PS-Dateien in TSV ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/ps-to-tsv/
+url_ignore: /de/net/conversion/ps-to-tsv/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất PCL sang GIF
 description: Chuyển đổi PCL sang GIF mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/pcl-to-gif/
+url_ignore: /vi/net/conversion/pcl-to-gif/
 family: total
 platformtag: net
 feature: conversion

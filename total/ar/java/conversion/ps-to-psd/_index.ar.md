@@ -1,7 +1,7 @@
 ---
 title: تحويل PS إلى PSD عبر Java
 description: قم بتصدير ملف PS إلى PSD في تطبيقات Java الخاصة بك دون استخدام أي تطبيق تابع لجهة خارجية
-url: /ar/java/conversion/ps-to-psd/
+url_ignore: /ar/java/conversion/ps-to-psd/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PS to OTT
 description: Transform PS to OTT via Android via Java API
-url: /android-java/conversion/ps-to-ott/
+url_ignore: /android-java/conversion/ps-to-ott/
 family: total
 platformtag: android-java
 feature: conversion

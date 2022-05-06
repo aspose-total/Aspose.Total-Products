@@ -1,7 +1,7 @@
 ---
 title: NET API لتحويل WORD إلى CSV
 description: C# API لتحويل WORD إلى CSV بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/word-to-csv/
+url_ignore: /ar/net/conversion/word-to-csv/
 family: total
 platformtag: net
 feature: conversion

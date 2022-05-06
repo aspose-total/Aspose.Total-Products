@@ -1,7 +1,7 @@
 ---
 title: Java経由でDOTMをPPTMに変換する
 description: MicrosoftWordやPowerPointを使用せずにDOTMをPPTMにエクスポートするJavaAPI
-url: /ja/java/conversion/dotm-to-pptm/
+url_ignore: /ja/java/conversion/dotm-to-pptm/
 family: total
 platformtag: net
 feature: conversion

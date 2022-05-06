@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert DOTX to ODS
 description: Convert DOTX to ODS via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/dotx-to-ods/
+url_ignore: /java/conversion/dotx-to-ods/
 family: total
 platformtag: java
 feature: conversion

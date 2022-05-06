@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar RTF via .NET
 description: Parseer JSON naar RTF in C# zonder Microsoft Word te gebruiken
-url: /nl/net/conversion/json-to-rtf/
+url_ignore: /nl/net/conversion/json-to-rtf/
 family: total
 platformtag: net
 feature: conversion

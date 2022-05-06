@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to EXCEL via C# API
 description: C# API to Convert MHTML File to EXCEL without using Microsoft Excel or Adobe Reader
-url: /net/conversion/mhtml-to-excel/
+url_ignore: /net/conversion/mhtml-to-excel/
 family: total
 platformtag: net
 feature: conversion

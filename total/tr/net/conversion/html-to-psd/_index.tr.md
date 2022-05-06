@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla HTML'yi PSD'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan HTML'yi .NET uygulamalarınızda PSD'ye aktarın
-url: /tr/net/conversion/html-to-psd/
+url_ignore: /tr/net/conversion/html-to-psd/
 family: total
 platformtag: net
 feature: conversion

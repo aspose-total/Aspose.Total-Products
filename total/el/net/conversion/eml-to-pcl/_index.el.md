@@ -1,7 +1,7 @@
 ---
 title: C# API για εξαγωγή EML σε PCL
 description: Μετατροπή EML σε PCL χωρίς χρήση του Microsoft Word ή του Outlook στο .NET
-url: /el/net/conversion/eml-to-pcl/
+url_ignore: /el/net/conversion/eml-to-pcl/
 family: total
 platformtag: net
 feature: conversion

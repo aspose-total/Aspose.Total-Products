@@ -1,7 +1,7 @@
 ---
 title: MOBIをSXCに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにMOBIをSXCに変換するC＃API
-url: /ja/net/conversion/mobi-to-sxc/
+url_ignore: /ja/net/conversion/mobi-to-sxc/
 family: total
 platformtag: net
 feature: conversion

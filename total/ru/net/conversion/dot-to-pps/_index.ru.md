@@ -1,6 +1,6 @@
 ---
 title: Преобразование DOT в PPS через C# .NET 
-url: /ru/net/conversion/dot-to-pps/ 
+url_ignore: /ru/net/conversion/dot-to-pps/ 
 description: Преобразование документов Word dot в файлы PowerPoint pps с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

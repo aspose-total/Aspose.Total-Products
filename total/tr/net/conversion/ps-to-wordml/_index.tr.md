@@ -1,7 +1,7 @@
 ---
 title: PS'yi WORDML'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan PS'yi WORDML'ye dönüştürün
-url: /tr/net/conversion/ps-to-wordml/
+url_ignore: /tr/net/conversion/ps-to-wordml/
 family: total
 platformtag: net
 feature: conversion

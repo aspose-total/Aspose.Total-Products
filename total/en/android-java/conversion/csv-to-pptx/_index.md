@@ -1,7 +1,7 @@
 ---
 title: Export CSV to PPTX in Android 
 description: Android API to Convert CSV to PPTX without using Microsoft Word
-url: /android-java/conversion/csv-to-pptx/
+url_ignore: /android-java/conversion/csv-to-pptx/
 family: total
 platformtag: android-java
 feature: conversion

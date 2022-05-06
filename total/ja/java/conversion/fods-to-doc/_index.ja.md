@@ -1,7 +1,7 @@
 ---
 title: Javaを使用してFODSをDOCに変換する
 description: ExcelまたはWordを使用してFODSをDOCにエクスポートするJavaAPI
-url: /ja/java/conversion/fods-to-doc/
+url_ignore: /ja/java/conversion/fods-to-doc/
 family: total
 platformtag: net
 feature: conversion

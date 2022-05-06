@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してCGMをPOWERPOINTにエクスポートする
 description: MicrosoftWordを使用せずにCGMをPOWERPOINTに変換する.NETAPI
-url: /ja/net/conversion/cgm-to-powerpoint/
+url_ignore: /ja/net/conversion/cgm-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

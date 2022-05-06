@@ -1,7 +1,7 @@
 ---
 title: تحويل XLS إلى DOC باستخدام Java
 description: Java API لتصدير XLS إلى DOC باستخدام Excel أو Word
-url: /ar/java/conversion/xls-to-doc/
+url_ignore: /ar/java/conversion/xls-to-doc/
 family: total
 platformtag: net
 feature: conversion

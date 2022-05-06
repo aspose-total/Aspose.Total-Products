@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar DOC via .NET
 description: Parseer JSON naar DOC in C# zonder Microsoft Word te gebruiken
-url: /nl/net/conversion/json-to-doc/
+url_ignore: /nl/net/conversion/json-to-doc/
 family: total
 platformtag: net
 feature: conversion

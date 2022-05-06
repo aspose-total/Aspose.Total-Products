@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar PPSX via .NET
 description: JSON ontleden naar PPSX in C# zonder Microsoft PowerPoint te gebruiken
-url: /nl/net/conversion/json-to-ppsx/
+url_ignore: /nl/net/conversion/json-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

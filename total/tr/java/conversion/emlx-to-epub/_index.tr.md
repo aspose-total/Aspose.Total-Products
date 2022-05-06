@@ -1,7 +1,7 @@
 ---
 title: EMLX'i Java aracılığıyla EPUB'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan EMLX'i EPUB'ye Dönüştürmek için Java API
-url: /tr/java/conversion/emlx-to-epub/
+url_ignore: /tr/java/conversion/emlx-to-epub/
 family: total
 platformtag: net
 feature: conversion

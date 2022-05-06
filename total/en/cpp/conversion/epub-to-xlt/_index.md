@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert EPUB to XLT
 description: Convert EPUB to XLT via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/epub-to-xlt/
+url_ignore: /cpp/conversion/epub-to-xlt/
 family: total
 platformtag: cpp
 feature: conversion

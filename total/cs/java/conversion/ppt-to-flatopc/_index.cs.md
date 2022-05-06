@@ -1,7 +1,7 @@
 ---
 title: Převeďte PPT na FLATOPC přes Java
 description: Java API pro export PPT do FLATOPC bez použití Microsoft Word nebo PowerPoint
-url: /cs/java/conversion/ppt-to-flatopc/
+url_ignore: /cs/java/conversion/ppt-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

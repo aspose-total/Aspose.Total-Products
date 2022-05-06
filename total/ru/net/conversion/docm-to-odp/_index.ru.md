@@ -1,6 +1,6 @@
 ---
 title: Преобразование DOCM в ODP через C# .NET 
-url: /ru/net/conversion/docm-to-odp/ 
+url_ignore: /ru/net/conversion/docm-to-odp/ 
 description: Преобразование документов Word docm в файлы PowerPoint odp с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

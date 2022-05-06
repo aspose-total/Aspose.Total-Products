@@ -1,7 +1,7 @@
 ---
 title: Konwertuj format JSON na MOBI za pomocą Javy
 description: Przetwarzaj JSON do MOBI w Javie bez użycia Microsoft Word
-url: /pl/java/conversion/json-to-mobi/
+url_ignore: /pl/java/conversion/json-to-mobi/
 family: total
 platformtag: net
 feature: conversion

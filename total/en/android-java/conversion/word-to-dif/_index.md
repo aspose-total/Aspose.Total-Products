@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert WORD to DIF
 description: Convert WORD to DIF in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/word-to-dif/
+url_ignore: /android-java/conversion/word-to-dif/
 family: total
 platformtag: android-java
 feature: conversion

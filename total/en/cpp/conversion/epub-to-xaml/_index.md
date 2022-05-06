@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert EPUB to XAML  
 description: Convert EPUB to XAML via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/epub-to-xaml/
+url_ignore: /cpp/conversion/epub-to-xaml/
 family: total
 platformtag: cpp
 feature: conversion

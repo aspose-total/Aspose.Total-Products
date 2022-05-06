@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPPSXをTSVに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPSXをTSVに変換する
-url: /ja/net/conversion/ppsx-to-tsv/
+url_ignore: /ja/net/conversion/ppsx-to-tsv/
 family: total
 platformtag: net
 feature: conversion

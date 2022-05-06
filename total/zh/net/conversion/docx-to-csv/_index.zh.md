@@ -1,7 +1,7 @@
 ---
 title: .NET API 将 DOCX 转换为 CSV
 description: 无需使用 Microsoft Excel 或 Adobe Reader 即可将 DOCX 转换为 CSV 的 C# API
-url: /zh/net/conversion/docx-to-csv/
+url_ignore: /zh/net/conversion/docx-to-csv/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ otherformats: TSV SXC XLTX XLS XLSX XLT XLTM DIF XLSB FODS EXCEL XLSM XLAM ODS
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API 将 DOCX 转换为 CSV" %}}
-1.使用[Docxument](https://apireference.aspose.com/words/net/aspose.words/docxument)类打开DOCX文件
-2. 使用 [Save](https://apireference.aspose.com/words/net/aspose.words.docxument/save/methods/4) 方法将 DOCX 转换为 HTML
+1.使用[Document](https://apireference.aspose.com/words/net/aspose.words/Document)类打开DOCX文件
+2. 使用 [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4) 方法将 DOCX 转换为 HTML
 3. 使用 [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) 类加载 HTML 文档
 4. 使用 [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 方法将文档保存为 CSV 格式，并将 `CSV` 设置为 SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -39,16 +39,15 @@ otherformats: TSV SXC XLTX XLS XLSX XLT XLTM DIF XLSB FODS EXCEL XLSM XLAM ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="通过 C# 从 Stream 加载 DOCX 文档" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) 还允许您通过流加载 DOCX 文档。要从流中打开文档，只需将包含文档的流对象传递给 [Docxument](https://apireference.aspose.com/words/net/aspose.words/docxument) 构造函数。以下代码示例显示了如何从流中打开文档：  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) 还允许您通过流加载 DOCX 文档。要从流中打开文档，只需将包含文档的流对象传递给 [Document](https://apireference.aspose.com/words/net/aspose.words/Document) 构造函数。以下代码示例显示了如何从流中打开文档：  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="通过 C# 在 CSV 文件中添加自定义属性" %}}
-在将 DOCX 转换为 CSV 时，[Aspose.Cells for .NET](https://products.aspose.com/cells/net/) 允许您在 CSV 文档中添加自定义属性。为了添加自定义属性，您可以对 [CustomDocxumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocxumentpropertycollection)类。 Add 方法将属性添加到 Excel 文件，并以 [Aspose.Cells.Properties.DocxumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) 的形式返回新文档属性的引用/docxumentproperty) 对象。 
+在将 DOCX 转换为 CSV 时，[Aspose.Cells for .NET](https://products.aspose.com/cells/net/) 允许您在 CSV 文档中添加自定义属性。为了添加自定义属性，您可以对 [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection)类。 Add 方法将属性添加到 Excel 文件，并以 [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) 的形式返回新文档属性的引用 Documentproperty 对象。 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

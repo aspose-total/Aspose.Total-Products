@@ -1,7 +1,7 @@
 ---
 title: Java API για μετατροπή RTF σε ODS
 description: Μετατροπή RTF σε ODS μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel
-url: /el/java/conversion/rtf-to-ods/
+url_ignore: /el/java/conversion/rtf-to-ods/
 family: total
 platformtag: net
 feature: conversion
@@ -16,8 +16,8 @@ otherformats: XLTM DIF TSV XLSB XLTX XLAM FODS XLSM XLS EXCEL XLSX SXC ODS XLT
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API για μετατροπή RTF σε ODS" %}}
-1. Ανοίξτε το αρχείο RTF χρησιμοποιώντας την κλάση [Rtfument](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument)
-2. Μετατρέψτε το RTF σε HTML χρησιμοποιώντας το [Save](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument#save(java.lang.String,com.aspose.words.SaveOptions) ) μέθοδος
+1. Ανοίξτε το αρχείο RTF χρησιμοποιώντας την κλάση [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. Μετατρέψτε το RTF σε HTML χρησιμοποιώντας το [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) μέθοδος
 3. Φορτώστε το έγγραφο HTML χρησιμοποιώντας την τάξη [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Αποθηκεύστε το έγγραφο σε μορφή ODS χρησιμοποιώντας το [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. SaveOptions)) μέθοδο
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -34,10 +34,10 @@ otherformats: XLTM DIF TSV XLSB XLTX XLAM FODS XLSM XLS EXCEL XLSX SXC ODS XLT
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Απαιτήσεις μετατροπής" %}}
-Πριν μετατρέψετε το RTF σε ODS, μπορείτε να αφαιρέσετε αχρησιμοποίητες πληροφορίες από το έγγραφο RTF μέσω του [Aspose.Words for Java](https://products.aspose.com/words/java/). Μερικές φορές μπορεί να χρειαστεί να αφαιρέσετε αχρησιμοποίητες ή διπλότυπες πληροφορίες για να μειώσετε το μέγεθος του εγγράφου εξόδου και τον χρόνο επεξεργασίας. Η κλάση [CleanupOptions](https://apireference.aspose.com/words/java/com.aspose.words/CleanupOptions) σάς επιτρέπει να ορίσετε επιλογές για τον καθαρισμό εγγράφων. Για να αφαιρέσετε διπλότυπα στυλ ή απλώς αχρησιμοποίητα στυλ ή λίστες από το έγγραφο, μπορείτε να χρησιμοποιήσετε τη μέθοδο [Cleanup](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument#cleanup()). Μπορείτε να χρησιμοποιήσετε τα [UnusedStyles](https://apireference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) και [UnusedBuiltinStyles](https://apireference.aspose.com/words/java Ιδιότητες /com.aspose.words/cleanupoptions#UnusedBuiltinStyles) για τον εντοπισμό και την αφαίρεση στυλ που επισημαίνονται ως "αχρησιμοποίητα".  
+Πριν μετατρέψετε το RTF σε ODS, μπορείτε να αφαιρέσετε αχρησιμοποίητες πληροφορίες από το έγγραφο RTF μέσω του [Aspose.Words for Java](https://products.aspose.com/words/java/). Μερικές φορές μπορεί να χρειαστεί να αφαιρέσετε αχρησιμοποίητες ή διπλότυπες πληροφορίες για να μειώσετε το μέγεθος του εγγράφου εξόδου και τον χρόνο επεξεργασίας. Η κλάση [CleanupOptions](https://apireference.aspose.com/words/java/com.aspose.words/CleanupOptions) σάς επιτρέπει να ορίσετε επιλογές για τον καθαρισμό εγγράφων. Για να αφαιρέσετε διπλότυπα στυλ ή απλώς αχρησιμοποίητα στυλ ή λίστες από το έγγραφο, μπορείτε να χρησιμοποιήσετε τη μέθοδο [Cleanup](https://apireference.aspose.com/words/java/com.aspose.words/Document#cleanup()). Μπορείτε να χρησιμοποιήσετε τα [UnusedStyles](https://apireference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) και [UnusedBuiltinStyles](https://apireference.aspose.com/words/java Ιδιότητες /com.aspose.words/cleanupoptions#UnusedBuiltinStyles) για τον εντοπισμό και την αφαίρεση στυλ που επισημαίνονται ως "αχρησιμοποίητα".  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-rtfument.java" >}}
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-Document.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions))

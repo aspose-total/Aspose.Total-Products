@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XSLFO to MD
 description: Convert XSLFO to MD via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xslfo-to-md/
+url_ignore: /cpp/conversion/xslfo-to-md/
 family: total
 platformtag: cpp
 feature: conversion

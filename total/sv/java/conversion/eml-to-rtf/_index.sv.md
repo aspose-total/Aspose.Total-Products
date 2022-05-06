@@ -1,7 +1,7 @@
 ---
 title: Exportera EML till RTF via Java
 description: Java API för att konvertera EML till RTF utan att använda Microsoft Word eller Outlook
-url: /sv/java/conversion/eml-to-rtf/
+url_ignore: /sv/java/conversion/eml-to-rtf/
 family: total
 platformtag: net
 feature: conversion

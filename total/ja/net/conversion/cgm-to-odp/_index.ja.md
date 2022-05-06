@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してCGMをODPにエクスポートする
 description: MicrosoftWordを使用せずにCGMをODPに変換する.NETAPI
-url: /ja/net/conversion/cgm-to-odp/
+url_ignore: /ja/net/conversion/cgm-to-odp/
 family: total
 platformtag: net
 feature: conversion

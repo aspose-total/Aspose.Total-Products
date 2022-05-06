@@ -1,7 +1,7 @@
 ---
 title: تحويل PPT إلى ODT عبر Java
 description: Java API لتصدير PPT إلى ODT دون استخدام Microsoft Word أو PowerPoint
-url: /ar/java/conversion/ppt-to-odt/
+url_ignore: /ar/java/conversion/ppt-to-odt/
 family: total
 platformtag: net
 feature: conversion

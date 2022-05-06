@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi POWERPOINT sang FLATOPC qua Java
 description: Java API để xuất POWERPOINT sang FLATOPC mà không cần sử dụng Microsoft Word hoặc PowerPoint
-url: /vi/java/conversion/powerpoint-to-flatopc/
+url_ignore: /vi/java/conversion/powerpoint-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

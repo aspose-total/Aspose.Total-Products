@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını .NET aracılığıyla RTF'ye dönüştürün
 description: Microsoft Word kullanmadan JSON'u C# ile RTF'ye ayrıştırın
-url: /tr/net/conversion/json-to-rtf/
+url_ignore: /tr/net/conversion/json-to-rtf/
 family: total
 platformtag: net
 feature: conversion

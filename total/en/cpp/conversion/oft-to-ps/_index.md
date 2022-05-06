@@ -1,7 +1,7 @@
 ---
 title: Export OFT to PS via C++
 description: C++ API to Convert OFT to PS without using Microsoft Word or Outlook
-url: /cpp/conversion/oft-to-ps/
+url_ignore: /cpp/conversion/oft-to-ps/
 family: total
 platformtag: cpp
 feature: conversion

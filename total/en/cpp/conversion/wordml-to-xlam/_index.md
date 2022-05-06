@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to XLAM in C++
 description: C++ API to Convert WORDML to XLAM without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/wordml-to-xlam/
+url_ignore: /cpp/conversion/wordml-to-xlam/
 family: total
 platformtag: cpp
 feature: conversion

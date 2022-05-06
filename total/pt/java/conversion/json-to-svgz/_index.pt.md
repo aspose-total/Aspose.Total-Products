@@ -1,7 +1,7 @@
 ---
 title: Converter o formato JSON para SVGZ via Java
 description: Analise JSON para SVGZ em Java sem usar o Microsoft PowerPoint
-url: /pt/java/conversion/json-to-svgz/
+url_ignore: /pt/java/conversion/json-to-svgz/
 family: total
 platformtag: net
 feature: conversion

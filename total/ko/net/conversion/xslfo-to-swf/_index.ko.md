@@ -1,7 +1,7 @@
 ---
 title: C# API를 통해 XSLFO을 SWF로 내보내기
 description: Microsoft Word를 사용하지 않고 XSLFO을 SWF로 변환하는 .NET API
-url: /ko/net/conversion/xslfo-to-swf/
+url_ignore: /ko/net/conversion/xslfo-to-swf/
 family: total
 platformtag: net
 feature: conversion

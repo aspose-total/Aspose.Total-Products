@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to ODS in C++
 description: C++ API to Convert DOT to ODS without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/dot-to-ods/
+url_ignore: /cpp/conversion/dot-to-ods/
 family: total
 platformtag: cpp
 feature: conversion

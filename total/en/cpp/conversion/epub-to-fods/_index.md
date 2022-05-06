@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert EPUB to FODS
 description: Convert EPUB to FODS via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/epub-to-fods/
+url_ignore: /cpp/conversion/epub-to-fods/
 family: total
 platformtag: cpp
 feature: conversion

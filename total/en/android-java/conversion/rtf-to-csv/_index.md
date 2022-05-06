@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert RTF to CSV
 description: Convert RTF to CSV in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/rtf-to-csv/
+url_ignore: /android-java/conversion/rtf-to-csv/
 family: total
 platformtag: android-java
 feature: conversion

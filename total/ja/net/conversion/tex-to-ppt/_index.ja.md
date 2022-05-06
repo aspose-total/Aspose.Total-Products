@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してTEXをPPTにエクスポートする
 description: MicrosoftWordを使用せずにTEXをPPTに変換する.NETAPI
-url: /ja/net/conversion/tex-to-ppt/
+url_ignore: /ja/net/conversion/tex-to-ppt/
 family: total
 platformtag: net
 feature: conversion

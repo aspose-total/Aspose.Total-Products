@@ -1,7 +1,7 @@
 ---
 title: Export EMAIL to OTT via C++
 description: C++ API to Convert EMAIL to OTT without using Microsoft Word or Outlook
-url: /cpp/conversion/email-to-ott/
+url_ignore: /cpp/conversion/email-to-ott/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: DOTMをXLAMに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにDOTMをXLAMに変換するC＃API
-url: /ja/net/conversion/dotm-to-xlam/
+url_ignore: /ja/net/conversion/dotm-to-xlam/
 family: total
 platformtag: net
 feature: conversion

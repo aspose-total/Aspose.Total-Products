@@ -1,7 +1,7 @@
 ---
 title: Java経由でMSGをOTTにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにMSGをOTTに変換するJavaAPI
-url: /ja/java/conversion/msg-to-ott/
+url_ignore: /ja/java/conversion/msg-to-ott/
 family: total
 platformtag: net
 feature: conversion

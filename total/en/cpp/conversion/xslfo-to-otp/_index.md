@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XSLFO to OTP  
 description: Convert XSLFO to OTP via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xslfo-to-otp/
+url_ignore: /cpp/conversion/xslfo-to-otp/
 family: total
 platformtag: cpp
 feature: conversion

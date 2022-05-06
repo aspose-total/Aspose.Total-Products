@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى DXF عبر .NET
 description: تحليل JSON إلى DXF في C# بدون استخدام تبعيات الطرف الثالث
-url: /ar/net/conversion/json-to-dxf/
+url_ignore: /ar/net/conversion/json-to-dxf/
 family: total
 platformtag: net
 feature: conversion

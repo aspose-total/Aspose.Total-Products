@@ -1,7 +1,7 @@
 ---
 title: Převést PPSX na XLSX přes C#
 description: Převeďte PPSX na XLSX v C# bez použití Microsoft Excel nebo Powerpoint
-url: /cs/net/conversion/ppsx-to-xlsx/
+url_ignore: /cs/net/conversion/ppsx-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

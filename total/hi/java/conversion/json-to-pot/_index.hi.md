@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से JSON प्रारूप को POT में बदलें
 description: Microsoft PowerPoint का उपयोग किए बिना जावा में JSON को POT में पार्स करें
-url: /hi/java/conversion/json-to-pot/
+url_ignore: /hi/java/conversion/json-to-pot/
 family: total
 platformtag: net
 feature: conversion

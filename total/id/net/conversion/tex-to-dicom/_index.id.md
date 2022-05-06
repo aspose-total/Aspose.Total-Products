@@ -1,7 +1,7 @@
 ---
 title: Konversi TEX ke DICOM melalui C# API
 description: Ekspor TEX ke DICOM di aplikasi .NET Anda tanpa menggunakan aplikasi pihak ketiga
-url: /id/net/conversion/tex-to-dicom/
+url_ignore: /id/net/conversion/tex-to-dicom/
 family: total
 platformtag: net
 feature: conversion

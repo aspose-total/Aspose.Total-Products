@@ -1,7 +1,7 @@
 ---
 title: Convert DOCM to POWERPOINT in Android via Java
 description: DOCM to POWERPOINT conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/docm-to-powerpoint/
+url_ignore: /android-java/conversion/docm-to-powerpoint/
 family: total
 platformtag: android-java
 feature: conversion

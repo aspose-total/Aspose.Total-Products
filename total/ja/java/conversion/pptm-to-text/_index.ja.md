@@ -1,7 +1,7 @@
 ---
 title: Java経由でPPTMをTEXTに変換する
 description: MicrosoftWordやPowerPointを使用せずにPPTMをTEXTにエクスポートするJavaAPI
-url: /ja/java/conversion/pptm-to-text/
+url_ignore: /ja/java/conversion/pptm-to-text/
 family: total
 platformtag: net
 feature: conversion

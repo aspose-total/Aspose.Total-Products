@@ -1,7 +1,7 @@
 ---
 title: Convert POWERPOINT to TSV Format via Java
 description: Convert POWERPOINT to TSV format via Java without using using Microsoft Excel or PowerPoint
-url: /java/conversion/powerpoint-to-tsv/
+url_ignore: /java/conversion/powerpoint-to-tsv/
 family: total
 platformtag: java
 feature: conversion

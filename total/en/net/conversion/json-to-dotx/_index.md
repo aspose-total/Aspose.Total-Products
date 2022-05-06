@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to DOTX via .NET 
 description: Parse JSON to DOTX in C# without using Microsoft Word
-url: /net/conversion/json-to-dotx/
+url_ignore: /net/conversion/json-to-dotx/
 family: total
 platformtag: net
 feature: conversion

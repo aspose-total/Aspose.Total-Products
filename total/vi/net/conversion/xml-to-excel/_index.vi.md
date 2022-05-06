@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi XML sang EXCEL thông qua API C#
 description: C# API để chuyển đổi tệp XML sang EXCEL mà không cần sử dụng Microsoft Excel hoặc Adobe Reader
-url: /vi/net/conversion/xml-to-excel/
+url_ignore: /vi/net/conversion/xml-to-excel/
 family: total
 platformtag: net
 feature: conversion

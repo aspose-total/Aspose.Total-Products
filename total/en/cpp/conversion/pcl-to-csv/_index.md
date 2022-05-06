@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PCL to CSV
 description: Convert PCL to CSV via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/pcl-to-csv/
+url_ignore: /cpp/conversion/pcl-to-csv/
 family: total
 platformtag: cpp
 feature: conversion

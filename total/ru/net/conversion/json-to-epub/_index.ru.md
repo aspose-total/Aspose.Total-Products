@@ -1,7 +1,7 @@
 ---
 title: Преобразование формата JSON в EPUB через .NET
 description: Разобрать JSON в EPUB на C# без использования Microsoft Word
-url: /ru/net/conversion/json-to-epub/
+url_ignore: /ru/net/conversion/json-to-epub/
 family: total
 platformtag: net
 feature: conversion
@@ -33,7 +33,8 @@ otherformats: WORD RTF OTT DOTX DOCM DOT FLATOPC DOC PCL EPUB PS MOBI WORDML ODT
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-doc.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ otherformats: WORD RTF OTT DOTX DOCM DOT FLATOPC DOC PCL EPUB PS MOBI WORDML ODT
 При синтаксическом анализе JSON в EPUB вы также можете установить параметры макета для вашего JSON с помощью [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Он позволяет обрабатывать массив как таблицу, игнорировать нули, игнорировать заголовок массива, игнорировать заголовок объекта, преобразовывать строку в число или дату, устанавливать формат даты и числа и устанавливать стиль заголовка. Все эти параметры позволяют вам представить ваши данные в соответствии с вашими потребностями. В следующем фрагменте кода показано, как установить параметры макета.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "set-layout-and-parse-json-to-doc.cs" >}}
+{{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "set-layout-and-parse-json-to-doc.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: WORD RTF OTT DOTX DOCM DOT FLATOPC DOC PCL EPUB PS MOBI WORDML ODT
 Используя API, вы также можете конвертировать JSON в EPUB с водяным знаком. Чтобы добавить водяной знак в ваш документ EPUB, вы можете сначала преобразовать файл JSON в PDF и добавить к нему водяной знак. Чтобы добавить водяной знак, загрузите только что созданный файл PDF с помощью класса [Document](https://apireference.aspose.com/words/net/aspose.words/document), создайте экземпляр TextWatermarkOptions и задайте его свойства. , Вызовите метод Watermark.SetText и передайте текст водяного знака и объект TextWatermarkOptions. После добавления водяного знака вы можете сохранить документ в EPUB. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

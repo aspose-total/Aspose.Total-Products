@@ -1,7 +1,7 @@
 ---
 title: Export EML do SVG přes Java
 description: Java API pro převod EML do SVG bez použití Microsoft Word nebo Outlook
-url: /cs/java/conversion/eml-to-svg/
+url_ignore: /cs/java/conversion/eml-to-svg/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: OFT'i Java aracılığıyla IMAGE'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan OFT'i IMAGE'ye Dönüştürmek için Java API
-url: /tr/java/conversion/oft-to-image/
+url_ignore: /tr/java/conversion/oft-to-image/
 family: total
 platformtag: net
 feature: conversion

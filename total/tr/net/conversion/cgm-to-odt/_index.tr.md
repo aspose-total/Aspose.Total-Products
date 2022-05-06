@@ -1,7 +1,7 @@
 ---
 title: CGM'yi ODT'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan CGM'yi ODT'ye dönüştürün
-url: /tr/net/conversion/cgm-to-odt/
+url_ignore: /tr/net/conversion/cgm-to-odt/
 family: total
 platformtag: net
 feature: conversion

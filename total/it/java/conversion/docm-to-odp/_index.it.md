@@ -1,7 +1,7 @@
 ---
 title: Converti DOCM in ODP tramite Java
 description: API Java per esportare DOCM in ODP senza utilizzare Microsoft Word o PowerPoint
-url: /it/java/conversion/docm-to-odp/
+url_ignore: /it/java/conversion/docm-to-odp/
 family: total
 platformtag: net
 feature: conversion

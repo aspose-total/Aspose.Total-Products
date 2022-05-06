@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to FLATOPC via Java 
 description: Parse JSON to FLATOPC in Java without using Microsoft Word
-url: /java/conversion/json-to-flatopc/
+url_ignore: /java/conversion/json-to-flatopc/
 family: total
 platformtag: java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: .NET . के माध्यम से DOT को JSON फॉर्मेट में बदलें
 description: Microsoft Excel या Adobe Reader का उपयोग किए बिना DOT को JSON में C# में बदलें
-url: /hi/net/conversion/dot-to-json/
+url_ignore: /hi/net/conversion/dot-to-json/
 family: total
 platformtag: net
 feature: conversion

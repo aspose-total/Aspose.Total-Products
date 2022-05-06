@@ -1,7 +1,7 @@
 ---
 title: Convert PPT to ODS via C# 
 description: Convert PPT to ODS in C# without using Microsoft Excel or Powerpoint
-url: /net/conversion/ppt-to-ods/
+url_ignore: /net/conversion/ppt-to-ods/
 family: total
 platformtag: net
 feature: conversion

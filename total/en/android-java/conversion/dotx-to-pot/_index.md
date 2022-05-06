@@ -1,7 +1,7 @@
 ---
 title: Convert DOTX to POT in Android via Java
 description: DOTX to POT conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/dotx-to-pot/
+url_ignore: /android-java/conversion/dotx-to-pot/
 family: total
 platformtag: android-java
 feature: conversion

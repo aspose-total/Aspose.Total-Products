@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してMHTMLをPOTに変換する
 description: MicrosoftWordを使用せずにMHTMLをPOTに変換するJavaAPI
-url: /ja/java/conversion/mhtml-to-pot/
+url_ignore: /ja/java/conversion/mhtml-to-pot/
 family: total
 platformtag: net
 feature: conversion

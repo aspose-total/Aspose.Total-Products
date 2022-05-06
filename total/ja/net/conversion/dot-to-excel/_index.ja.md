@@ -1,7 +1,7 @@
 ---
 title: DOTをEXCELに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにDOTをEXCELに変換するC＃API
-url: /ja/net/conversion/dot-to-excel/
+url_ignore: /ja/net/conversion/dot-to-excel/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOTM в PPSM через Java
 description: Java API для экспорта DOTM в PPSM без использования Microsoft Word или PowerPoint
-url: /ru/java/conversion/dotm-to-ppsm/
+url_ignore: /ru/java/conversion/dotm-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

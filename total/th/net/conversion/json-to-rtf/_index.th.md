@@ -1,7 +1,7 @@
 ---
 title: แปลงรูปแบบ JSON เป็น RTF ผ่าน .NET
 description: แยก JSON เป็น RTF ใน C# โดยไม่ต้องใช้ Microsoft Word
-url: /th/net/conversion/json-to-rtf/
+url_ignore: /th/net/conversion/json-to-rtf/
 family: total
 platformtag: net
 feature: conversion

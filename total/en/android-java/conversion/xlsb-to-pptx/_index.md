@@ -1,7 +1,7 @@
 ---
 title: Export XLSB to PPTX in Android 
 description: Android API to Convert XLSB to PPTX without using Microsoft Word
-url: /android-java/conversion/xlsb-to-pptx/
+url_ignore: /android-java/conversion/xlsb-to-pptx/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تحويل PDF إلى WMZ عبر Java
 description: قم بتصدير ملف PDF إلى WMZ في تطبيقات Java الخاصة بك دون استخدام أي تطبيق تابع لجهة خارجية
-url: /ar/java/conversion/pdf-to-wmz/
+url_ignore: /ar/java/conversion/pdf-to-wmz/
 family: total
 platformtag: net
 feature: conversion

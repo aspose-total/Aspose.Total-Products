@@ -1,7 +1,7 @@
 ---
 title: Převeďte PPTM na FLATOPC přes Java
 description: Java API pro export PPTM do FLATOPC bez použití Microsoft Word nebo PowerPoint
-url: /cs/java/conversion/pptm-to-flatopc/
+url_ignore: /cs/java/conversion/pptm-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

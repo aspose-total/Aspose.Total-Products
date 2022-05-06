@@ -1,7 +1,7 @@
 ---
 title: Convertir WORDML en PPTX via Java
 description: API Java pour exporter WORDML vers PPTX sans utiliser Microsoft Word ou PowerPoint
-url: /fr/java/conversion/wordml-to-pptx/
+url_ignore: /fr/java/conversion/wordml-to-pptx/
 family: total
 platformtag: net
 feature: conversion
@@ -12,7 +12,7 @@ otherformats: POWERPOINT PPS PPSX PPTX POT POTM PPTM PPT PPSM POTX CSV DIF FODS 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Convertir WORDML en PPTX via Java" h2="Conversion WORDML en PPTX en utilisant l'API Java sur site dans toutes les applications Java J2SE, J2EE, J2ME sans utiliser Microsoft<sup>&reg;</sup> PowerPoint ou Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Souvent, les développeurs doivent convertir le fichier WORDML en PPTX par programme. En utilisant les bibliothèques Java File Automation [Aspose.Total pour Java](https://products.aspose.com/total/java/), vous pouvez automatiser le processus de rendu en quelques étapes simples. Vous pouvez charger votre fichier WORDML en utilisant [Aspose.Words pour Java](https://products.aspose.com/words/java/) et le convertir en HTML. Après cela, en utilisant la puissante API Java de manipulation PowerPoint [Aspose.Slides pour Java](https://products.aspose.com/slides/java/), vous pouvez créer une nouvelle présentation, y écrire du contenu HTML et l'enregistrer au format PPTX. .
+Souvent, les développeurs doivent convertir le fichier WORDML en PPTX par programme. En utilisant les bibliothèques Java File Automation [Aspose.Total for Java](https://products.aspose.com/total/java/), vous pouvez automatiser le processus de rendu en quelques étapes simples. Vous pouvez charger votre fichier WORDML en utilisant [Aspose.Words for Java](https://products.aspose.com/words/java/) et le convertir en HTML. Après cela, en utilisant la puissante API Java de manipulation PowerPoint [Aspose.Slides for Java](https://products.aspose.com/slides/java/), vous pouvez créer une nouvelle présentation, y écrire du contenu HTML et l'enregistrer au format PPTX. .
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Comment convertir WORDML en PPTX via Java" %}}

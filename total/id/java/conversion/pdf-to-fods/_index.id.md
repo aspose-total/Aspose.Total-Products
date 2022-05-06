@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender PDF ke FODS
 description: Ekspor PDF ke FODS melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/pdf-to-fods/
+url_ignore: /id/java/conversion/pdf-to-fods/
 family: total
 platformtag: net
 feature: conversion

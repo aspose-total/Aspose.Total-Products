@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PDF to DOTM
 description: Convert PDF to DOTM within C++ applications.
-url: /cpp/conversion/pdf-to-dotm/
+url_ignore: /cpp/conversion/pdf-to-dotm/
 family: total
 platformtag: cpp
 feature: conversion

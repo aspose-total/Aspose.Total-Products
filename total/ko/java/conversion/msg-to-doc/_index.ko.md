@@ -1,7 +1,7 @@
 ---
 title: Java를 통해 MSG을 DOC로 내보내기
 description: Microsoft Word 또는 Outlook을 사용하지 않고 MSG을 DOC로 변환하는 Java API
-url: /ko/java/conversion/msg-to-doc/
+url_ignore: /ko/java/conversion/msg-to-doc/
 family: total
 platformtag: net
 feature: conversion

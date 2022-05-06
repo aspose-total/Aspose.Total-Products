@@ -1,7 +1,7 @@
 ---
 title: Converteer POWERPOINT naar ODS-formaat via Java
 description: Converteer POWERPOINT naar ODS-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken
-url: /nl/java/conversion/powerpoint-to-ods/
+url_ignore: /nl/java/conversion/powerpoint-to-ods/
 family: total
 platformtag: net
 feature: conversion

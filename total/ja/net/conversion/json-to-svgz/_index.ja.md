@@ -1,7 +1,7 @@
 ---
 title: .NETを介してJSON形式をSVGZに変換する
 description: サードパーティの依存関係を使用せずに、C＃でJSONをSVGZに解析します
-url: /ja/net/conversion/json-to-svgz/
+url_ignore: /ja/net/conversion/json-to-svgz/
 family: total
 platformtag: net
 feature: conversion

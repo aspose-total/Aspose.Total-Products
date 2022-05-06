@@ -1,7 +1,7 @@
 ---
 title: Converter PS para XLAM via API C#
 description: API C# para converter arquivo PS em XLAM sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/ps-to-xlam/
+url_ignore: /pt/net/conversion/ps-to-xlam/
 family: total
 platformtag: net
 feature: conversion

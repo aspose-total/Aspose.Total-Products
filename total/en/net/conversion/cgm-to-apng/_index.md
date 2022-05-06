@@ -1,7 +1,7 @@
 ---
 title: Convert CGM to APNG via C# API
 description: Export CGM to APNG in your .NET applications without using any third party application 
-url: /net/conversion/cgm-to-apng/
+url_ignore: /net/conversion/cgm-to-apng/
 family: total
 platformtag: net
 feature: conversion

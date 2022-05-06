@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Mengekspor XPS ke XAMLFLOW
 description: Konversi XPS ke XAMLFLOW menggunakan API Java di tempat
-url: /id/java/conversion/xps-to-xamlflow/
+url_ignore: /id/java/conversion/xps-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion
@@ -37,7 +37,8 @@ document.save("DocOutput.doc", SaveFormat.DOC);
 Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 // call save method while passing SaveFormat.XAML_FLOW
 outputDocument.save("output.xaml_flow", SaveFormat.XAML_FLOW);   
-```
+```
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Persyaratan Konversi" %}}
@@ -49,7 +50,8 @@ Saat mengonversi XPS ke XAMLFLOW, meskipun dokumen Anda dilindungi kata sandi, A
 Document document = new Document("input.xps", "password");
 // save XPS as a DOC 
 document.save("DocOutput.doc", SaveFormat.DOC);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Buka Dokumen XPS yang Dilindungi Kata Sandi melalui Java" %}}
@@ -73,7 +75,8 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
     Statement statement = mConnection.createStatement();
     statement.executeUpdate(commandString);
 }  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

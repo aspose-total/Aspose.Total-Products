@@ -1,7 +1,7 @@
 ---
 title: EPUB'yi RTF'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak EPUB'yi RTF'ye dönüştürün
-url: /tr/java/conversion/epub-to-rtf/
+url_ignore: /tr/java/conversion/epub-to-rtf/
 family: total
 platformtag: net
 feature: conversion

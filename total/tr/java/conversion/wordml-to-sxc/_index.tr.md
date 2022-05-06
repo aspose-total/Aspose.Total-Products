@@ -1,7 +1,7 @@
 ---
 title: WORDML'yi SXC'ye Dönüştürmek için Java API
 description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla WORDML'yi SXC'ye dönüştürün
-url: /tr/java/conversion/wordml-to-sxc/
+url_ignore: /tr/java/conversion/wordml-to-sxc/
 family: total
 platformtag: net
 feature: conversion

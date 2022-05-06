@@ -1,7 +1,7 @@
 ---
 title: Android API to Render CGM to DOTM
 description: Transform CGM to DOTM via Android via Java API
-url: /android-java/conversion/cgm-to-dotm/
+url_ignore: /android-java/conversion/cgm-to-dotm/
 family: total
 platformtag: android-java
 feature: conversion

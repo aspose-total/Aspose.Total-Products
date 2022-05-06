@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export MHTML to RTF
 description: Convert MHTML to RTF within C++ applications.
-url: /cpp/conversion/mhtml-to-rtf/
+url_ignore: /cpp/conversion/mhtml-to-rtf/
 family: total
 platformtag: cpp
 feature: conversion

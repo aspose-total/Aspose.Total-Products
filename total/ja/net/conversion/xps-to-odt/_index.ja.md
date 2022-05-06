@@ -1,7 +1,7 @@
 ---
 title: XPSをODTにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにXPSをODTに変換する
-url: /ja/net/conversion/xps-to-odt/
+url_ignore: /ja/net/conversion/xps-to-odt/
 family: total
 platformtag: net
 feature: conversion

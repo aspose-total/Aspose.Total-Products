@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή HTML σε WMF μέσω Java
 description: Εξαγωγή αρχείου HTML σε WMF στις εφαρμογές σας Java χωρίς να χρησιμοποιήσετε καμία εφαρμογή τρίτου μέρους
-url: /el/java/conversion/html-to-wmf/
+url_ignore: /el/java/conversion/html-to-wmf/
 family: total
 platformtag: net
 feature: conversion

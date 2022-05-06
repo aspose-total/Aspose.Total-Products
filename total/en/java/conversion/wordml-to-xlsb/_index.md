@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert WORDML to XLSB
 description: Convert WORDML to XLSB via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/wordml-to-xlsb/
+url_ignore: /java/conversion/wordml-to-xlsb/
 family: total
 platformtag: java
 feature: conversion

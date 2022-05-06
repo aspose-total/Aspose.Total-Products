@@ -1,7 +1,7 @@
 ---
 title: Konwertuj MD na POTM za pomocą Java API
 description: Java API do konwersji MD na POTM bez użycia Microsoft Word
-url: /pl/java/conversion/md-to-potm/
+url_ignore: /pl/java/conversion/md-to-potm/
 family: total
 platformtag: net
 feature: conversion

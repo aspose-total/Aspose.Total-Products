@@ -1,7 +1,7 @@
 ---
 title: Export EPUB do XAML přes C# API
 description: .NET API pro převod EPUB na XAML bez použití aplikace Microsoft Word
-url: /cs/net/conversion/epub-to-xaml/
+url_ignore: /cs/net/conversion/epub-to-xaml/
 family: total
 platformtag: net
 feature: conversion

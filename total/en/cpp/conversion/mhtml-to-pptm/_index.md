@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MHTML to PPTM  
 description: Convert MHTML to PPTM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/mhtml-to-pptm/
+url_ignore: /cpp/conversion/mhtml-to-pptm/
 family: total
 platformtag: cpp
 feature: conversion

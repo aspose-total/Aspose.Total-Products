@@ -1,7 +1,7 @@
 ---
 title: Convierta MD a OTP a través de la API de Java
 description: API de Java para convertir MD a OTP sin usar Microsoft Word
-url: /es/java/conversion/md-to-otp/
+url_ignore: /es/java/conversion/md-to-otp/
 family: total
 platformtag: net
 feature: conversion

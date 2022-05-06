@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى POTX عبر Java
 description: تحليل JSON إلى POTX في Java بدون استخدام Microsoft PowerPoint
-url: /ar/java/conversion/json-to-potx/
+url_ignore: /ar/java/conversion/json-to-potx/
 family: total
 platformtag: net
 feature: conversion

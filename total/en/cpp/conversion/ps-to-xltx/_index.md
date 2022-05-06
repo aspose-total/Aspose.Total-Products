@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PS to XLTX
 description: Convert PS to XLTX via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/ps-to-xltx/
+url_ignore: /cpp/conversion/ps-to-xltx/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPPTXをODSに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPTXをODSに変換する
-url: /ja/net/conversion/pptx-to-ods/
+url_ignore: /ja/net/conversion/pptx-to-ods/
 family: total
 platformtag: net
 feature: conversion

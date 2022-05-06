@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Exportieren von XPS nach GIF
 description: Konvertieren Sie XPS mithilfe der lokalen Java-API in GIF
-url: /de/java/conversion/xps-to-gif/
+url_ignore: /de/java/conversion/xps-to-gif/
 family: total
 platformtag: net
 feature: conversion

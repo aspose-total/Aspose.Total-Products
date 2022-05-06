@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie das JSON-Format über .NET in PPS
 description: Analysieren Sie JSON in PPS in C#, ohne Microsoft PowerPoint zu verwenden
-url: /de/net/conversion/json-to-pps/
+url_ignore: /de/net/conversion/json-to-pps/
 family: total
 platformtag: net
 feature: conversion

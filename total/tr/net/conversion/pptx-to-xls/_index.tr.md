@@ -1,7 +1,7 @@
 ---
 title: PPTX'u C# ile XLS'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan PPTX'u C#'ta XLS'ye dönüştürün
-url: /tr/net/conversion/pptx-to-xls/
+url_ignore: /tr/net/conversion/pptx-to-xls/
 family: total
 platformtag: net
 feature: conversion

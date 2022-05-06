@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to PPSM in Android via Java
 description: RTF to PPSM conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/rtf-to-ppsm/
+url_ignore: /android-java/conversion/rtf-to-ppsm/
 family: total
 platformtag: android-java
 feature: conversion

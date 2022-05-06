@@ -1,7 +1,7 @@
 ---
 title: 用于将 CGM 导出到 DOTM 的 Java API
 description: 使用本地 Java API 将 CGM 转换为 DOTM
-url: /zh/java/conversion/cgm-to-dotm/
+url_ignore: /zh/java/conversion/cgm-to-dotm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını Java ile PPS'ye Dönüştür
 description: Microsoft PowerPoint kullanmadan Java'da JSON'u PPS'ye ayrıştırın
-url: /tr/java/conversion/json-to-pps/
+url_ignore: /tr/java/conversion/json-to-pps/
 family: total
 platformtag: net
 feature: conversion

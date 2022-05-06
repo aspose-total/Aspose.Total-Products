@@ -1,7 +1,7 @@
 ---
 title: Java経由でWORDをPOTに変換する
 description: MicrosoftWordやPowerPointを使用せずにWORDをPOTにエクスポートするJavaAPI
-url: /ja/java/conversion/word-to-pot/
+url_ignore: /ja/java/conversion/word-to-pot/
 family: total
 platformtag: net
 feature: conversion

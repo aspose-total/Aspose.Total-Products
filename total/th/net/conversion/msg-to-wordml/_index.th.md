@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก MSG ไปยัง WORDML
 description: แปลง MSG เป็น WORDML โดยไม่ต้องใช้ Microsoft Word หรือ Outlook บน .NET
-url: /th/net/conversion/msg-to-wordml/
+url_ignore: /th/net/conversion/msg-to-wordml/
 family: total
 platformtag: net
 feature: conversion

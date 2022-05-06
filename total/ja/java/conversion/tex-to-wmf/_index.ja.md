@@ -1,7 +1,7 @@
 ---
 title: Javaを介してTEXをWMFに変換する
 description: サードパーティのアプリケーションを使用せずに、JavaアプリケーションのWMFにTEXファイルをエクスポートします
-url: /ja/java/conversion/tex-to-wmf/
+url_ignore: /ja/java/conversion/tex-to-wmf/
 family: total
 platformtag: net
 feature: conversion
@@ -17,7 +17,7 @@ otherformats: TGA IMAGE DXF EMZ JPEG2000  SVGZ PSD WMZ WMF DICOM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java経由でTEXをWMFにエクスポート" %}}
 1. [ドキュメント](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)クラスを使用してTEXファイルを開きます
-2. [JpegDevice](JpegDevice)クラスオブジェクトを初期化し、[Process](https://apireference.aspose.com/pdf/java/com.aspose.pdf.devices/JpegDevice#process-com)を使用してTEXをJPEGにレンダリングします。 aspose.pdf.Page-java.io.OutputStream-)メソッド
+2. JpegDeviceクラスオブジェクトを初期化し、[Process](https://apireference.aspose.com/pdf/java/com.aspose.pdf.devices/JpegDevice#process-com)を使用してTEXをJPEGにレンダリングします。 aspose.pdf.Page-java.io.OutputStream-)メソッド
 3. [Image](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image)クラスを使用してJPEGファイルをロードします
 4. [save](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBaseを使用してドキュメントをWMF形式で保存します-) 方法
 {{% /blocks/products/pf/agp/feature-section-col %}}

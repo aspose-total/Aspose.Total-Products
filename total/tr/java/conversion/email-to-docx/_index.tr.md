@@ -1,7 +1,7 @@
 ---
 title: EMAIL'i Java aracılığıyla DOCX'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan EMAIL'i DOCX'ye Dönüştürmek için Java API
-url: /tr/java/conversion/email-to-docx/
+url_ignore: /tr/java/conversion/email-to-docx/
 family: total
 platformtag: net
 feature: conversion

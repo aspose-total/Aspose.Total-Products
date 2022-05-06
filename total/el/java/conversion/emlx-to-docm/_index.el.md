@@ -1,7 +1,7 @@
 ---
 title: Εξαγωγή EMLX σε DOCM μέσω Java
 description: Java API για μετατροπή EMLX σε DOCM χωρίς χρήση του Microsoft Word ή του Outlook
-url: /el/java/conversion/emlx-to-docm/
+url_ignore: /el/java/conversion/emlx-to-docm/
 family: total
 platformtag: net
 feature: conversion

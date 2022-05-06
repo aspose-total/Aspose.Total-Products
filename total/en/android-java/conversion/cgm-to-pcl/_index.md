@@ -1,7 +1,7 @@
 ---
 title: Android API to Render CGM to PCL
 description: Transform CGM to PCL via Android via Java API
-url: /android-java/conversion/cgm-to-pcl/
+url_ignore: /android-java/conversion/cgm-to-pcl/
 family: total
 platformtag: android-java
 feature: conversion

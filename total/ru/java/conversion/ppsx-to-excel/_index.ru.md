@@ -1,7 +1,7 @@
 ---
 title: Преобразование PPSX в формат EXCEL через Java
 description: Преобразуйте формат PPSX в EXCEL через Java без использования Microsoft Excel или PowerPoint.
-url: /ru/java/conversion/ppsx-to-excel/
+url_ignore: /ru/java/conversion/ppsx-to-excel/
 family: total
 platformtag: net
 feature: conversion

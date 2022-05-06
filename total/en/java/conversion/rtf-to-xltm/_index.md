@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert RTF to XLTM
 description: Convert RTF to XLTM via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/rtf-to-xltm/
+url_ignore: /java/conversion/rtf-to-xltm/
 family: total
 platformtag: java
 feature: conversion

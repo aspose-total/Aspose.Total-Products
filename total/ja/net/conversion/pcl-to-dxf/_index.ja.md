@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPCLをDXFに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでPCLをDXFにエクスポートします
-url: /ja/net/conversion/pcl-to-dxf/
+url_ignore: /ja/net/conversion/pcl-to-dxf/
 family: total
 platformtag: net
 feature: conversion

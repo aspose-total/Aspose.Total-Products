@@ -1,7 +1,7 @@
 ---
 title: SVGをRTFにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してSVGをRTFに変換する
-url: /ja/java/conversion/svg-to-rtf/
+url_ignore: /ja/java/conversion/svg-to-rtf/
 family: total
 platformtag: net
 feature: conversion

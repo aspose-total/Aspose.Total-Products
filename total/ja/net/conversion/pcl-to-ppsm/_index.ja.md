@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPCLをPPSMにエクスポートする
 description: MicrosoftWordを使用せずにPCLをPPSMに変換する.NETAPI
-url: /ja/net/conversion/pcl-to-ppsm/
+url_ignore: /ja/net/conversion/pcl-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

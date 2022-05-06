@@ -1,7 +1,7 @@
 ---
 title: Java API لتحويل OTT إلى TSV
 description: قم بتحويل OTT إلى TSV عبر Java دون استخدام Microsoft Word أو Microsoft Excel
-url: /ar/java/conversion/ott-to-tsv/
+url_ignore: /ar/java/conversion/ott-to-tsv/
 family: total
 platformtag: net
 feature: conversion

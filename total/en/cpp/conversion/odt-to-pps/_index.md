@@ -1,7 +1,7 @@
 ---
 title: Convert ODT to PPS via C++
 description: Export ODT to PPS in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/odt-to-pps/
+url_ignore: /cpp/conversion/odt-to-pps/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exportar TEX a PPT a través de la API de C#
 description: .NET API para convertir TEX a PPT sin usar Microsoft Word
-url: /es/net/conversion/tex-to-ppt/
+url_ignore: /es/net/conversion/tex-to-ppt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してHTMLをTGAに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでHTMLをTGAにエクスポートします
-url: /ja/net/conversion/html-to-tga/
+url_ignore: /ja/net/conversion/html-to-tga/
 family: total
 platformtag: net
 feature: conversion

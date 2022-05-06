@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı PS'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan OFT'i PS'ye dönüştürün
-url: /tr/net/conversion/oft-to-ps/
+url_ignore: /tr/net/conversion/oft-to-ps/
 family: total
 platformtag: net
 feature: conversion

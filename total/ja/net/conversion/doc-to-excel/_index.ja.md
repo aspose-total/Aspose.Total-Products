@@ -1,7 +1,7 @@
 ---
 title: DOCをEXCELに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにDOCをEXCELに変換するC＃API
-url: /ja/net/conversion/doc-to-excel/
+url_ignore: /ja/net/conversion/doc-to-excel/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export XPS to PS
 description: Convert XPS to PS within C++ applications.
-url: /cpp/conversion/xps-to-ps/
+url_ignore: /cpp/conversion/xps-to-ps/
 family: total
 platformtag: cpp
 feature: conversion

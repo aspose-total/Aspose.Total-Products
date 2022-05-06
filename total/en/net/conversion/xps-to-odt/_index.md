@@ -1,7 +1,7 @@
 ---
 title: C# API to Export XPS to ODT
 description: Convert XPS to ODT without using Microsoft Word
-url: /net/conversion/xps-to-odt/
+url_ignore: /net/conversion/xps-to-odt/
 family: total
 platformtag: net
 feature: conversion

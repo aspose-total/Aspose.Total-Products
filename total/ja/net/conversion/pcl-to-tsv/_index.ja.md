@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPCLをTSVに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPCLファイルをTSVに変換するC＃API
-url: /ja/net/conversion/pcl-to-tsv/
+url_ignore: /ja/net/conversion/pcl-to-tsv/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API om EMAIL naar JPEG te exporteren
 description: Converteer EMAIL naar JPEG zonder Microsoft Word of Outlook te gebruiken op .NET
-url: /nl/net/conversion/email-to-jpeg/
+url_ignore: /nl/net/conversion/email-to-jpeg/
 family: total
 platformtag: net
 feature: conversion

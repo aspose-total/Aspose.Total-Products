@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PCL to DIF
 description: Convert PCL to DIF via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/pcl-to-dif/
+url_ignore: /cpp/conversion/pcl-to-dif/
 family: total
 platformtag: cpp
 feature: conversion

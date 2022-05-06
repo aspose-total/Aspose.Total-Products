@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert TEX to ODS
 description: Convert TEX to ODS via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/tex-to-ods/
+url_ignore: /cpp/conversion/tex-to-ods/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert DOCM to POWERPOINT via C++
 description: Export DOCM to POWERPOINT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/docm-to-powerpoint/
+url_ignore: /cpp/conversion/docm-to-powerpoint/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender EPUB ke FODS
 description: Ekspor EPUB ke FODS melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/epub-to-fods/
+url_ignore: /id/java/conversion/epub-to-fods/
 family: total
 platformtag: net
 feature: conversion

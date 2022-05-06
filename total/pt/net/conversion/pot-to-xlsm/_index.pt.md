@@ -1,7 +1,7 @@
 ---
 title: Converter POT para XLSM via C#
 description: Converter POT para XLSM em C# sem usar o Microsoft Excel ou Powerpoint
-url: /pt/net/conversion/pot-to-xlsm/
+url_ignore: /pt/net/conversion/pot-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export OFT to MD via C++
 description: C++ API to Convert OFT to MD without using Microsoft Word or Outlook
-url: /cpp/conversion/oft-to-md/
+url_ignore: /cpp/conversion/oft-to-md/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla MHTML'yi SVGZ'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan MHTML'yi .NET uygulamalarınızda SVGZ'ye aktarın
-url: /tr/net/conversion/mhtml-to-svgz/
+url_ignore: /tr/net/conversion/mhtml-to-svgz/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to POTX via C++
 description: Export DOT to POTX in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/dot-to-potx/
+url_ignore: /cpp/conversion/dot-to-potx/
 family: total
 platformtag: cpp
 feature: conversion

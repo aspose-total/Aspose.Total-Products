@@ -1,7 +1,7 @@
 ---
 title: Converter CGM para JPEG2000 via API C#
 description: Exporte CGM para JPEG2000 em seus aplicativos .NET sem usar nenhum aplicativo de terceiros
-url: /pt/net/conversion/cgm-to-jpeg2000/
+url_ignore: /pt/net/conversion/cgm-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

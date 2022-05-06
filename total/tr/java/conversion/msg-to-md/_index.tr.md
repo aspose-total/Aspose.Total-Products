@@ -1,7 +1,7 @@
 ---
 title: MSG'i Java aracılığıyla MD'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan MSG'i MD'ye Dönüştürmek için Java API
-url: /tr/java/conversion/msg-to-md/
+url_ignore: /tr/java/conversion/msg-to-md/
 family: total
 platformtag: net
 feature: conversion

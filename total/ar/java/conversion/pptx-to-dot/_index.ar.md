@@ -1,7 +1,7 @@
 ---
 title: تحويل PPTX إلى DOT عبر Java
 description: Java API لتصدير PPTX إلى DOT دون استخدام Microsoft Word أو PowerPoint
-url: /ar/java/conversion/pptx-to-dot/
+url_ignore: /ar/java/conversion/pptx-to-dot/
 family: total
 platformtag: net
 feature: conversion

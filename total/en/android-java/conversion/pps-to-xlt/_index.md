@@ -1,7 +1,7 @@
 ---
 title: Convert PPS to XLT in Android via Java
 description: Convert PPS to XLT in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/pps-to-xlt/
+url_ignore: /android-java/conversion/pps-to-xlt/
 family: total
 platformtag: android-java
 feature: conversion

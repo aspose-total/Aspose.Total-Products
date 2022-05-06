@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPCLをXAMLにエクスポートする
 description: MicrosoftWordを使用せずにPCLをXAMLに変換する.NETAPI
-url: /ja/net/conversion/pcl-to-xaml/
+url_ignore: /ja/net/conversion/pcl-to-xaml/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie TEX über die Java-API in PPT
 description: Java-API zum Konvertieren von TEX in PPT ohne Verwendung von Microsoft Word
-url: /de/java/conversion/tex-to-ppt/
+url_ignore: /de/java/conversion/tex-to-ppt/
 family: total
 platformtag: net
 feature: conversion

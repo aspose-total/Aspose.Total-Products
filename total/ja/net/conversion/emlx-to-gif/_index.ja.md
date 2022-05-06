@@ -1,7 +1,7 @@
 ---
 title: EMLXをGIFにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMLXをGIFに変換する
-url: /ja/net/conversion/emlx-to-gif/
+url_ignore: /ja/net/conversion/emlx-to-gif/
 family: total
 platformtag: net
 feature: conversion

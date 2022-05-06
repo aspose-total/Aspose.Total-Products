@@ -1,7 +1,7 @@
 ---
 title: Java API to Export MD to FLATOPC
 description: Convert MD to FLATOPC using on premise Java API
-url: /java/conversion/md-to-flatopc/
+url_ignore: /java/conversion/md-to-flatopc/
 family: total
 platformtag: java
 feature: conversion

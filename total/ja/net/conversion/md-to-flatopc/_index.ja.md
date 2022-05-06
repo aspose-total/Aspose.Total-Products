@@ -1,7 +1,7 @@
 ---
 title: MDをFLATOPCにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにMDをFLATOPCに変換する
-url: /ja/net/conversion/md-to-flatopc/
+url_ignore: /ja/net/conversion/md-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

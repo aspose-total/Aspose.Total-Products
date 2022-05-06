@@ -1,7 +1,7 @@
 ---
 title: Konversi XPS ke EMZ melalui Java
 description: Ekspor file XPS ke EMZ di aplikasi Java Anda tanpa menggunakan aplikasi pihak ketiga
-url: /id/java/conversion/xps-to-emz/
+url_ignore: /id/java/conversion/xps-to-emz/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPCLをXLTに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPCLファイルをXLTに変換するC＃API
-url: /ja/net/conversion/pcl-to-xlt/
+url_ignore: /ja/net/conversion/pcl-to-xlt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export MD to MHTML
 description: Convert MD to MHTML within C++ applications.
-url: /cpp/conversion/md-to-mhtml/
+url_ignore: /cpp/conversion/md-to-mhtml/
 family: total
 platformtag: cpp
 feature: conversion

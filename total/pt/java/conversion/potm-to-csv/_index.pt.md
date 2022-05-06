@@ -1,7 +1,7 @@
 ---
 title: Converter POTM para formato CSV via Java
 description: Converta o formato POTM para CSV via Java sem usar o Microsoft Excel ou PowerPoint
-url: /pt/java/conversion/potm-to-csv/
+url_ignore: /pt/java/conversion/potm-to-csv/
 family: total
 platformtag: net
 feature: conversion

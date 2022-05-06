@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга MD в DIF
 description: Экспорт MD в DIF через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/md-to-dif/
+url_ignore: /ru/java/conversion/md-to-dif/
 family: total
 platformtag: net
 feature: conversion

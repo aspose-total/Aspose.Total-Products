@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert MOBI to XLS
 description: Convert MOBI to XLS in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/mobi-to-xls/
+url_ignore: /android-java/conversion/mobi-to-xls/
 family: total
 platformtag: android-java
 feature: conversion

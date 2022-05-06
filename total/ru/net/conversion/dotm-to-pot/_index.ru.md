@@ -1,6 +1,6 @@
 ---
 title: Преобразование DOTM в POT через C# .NET 
-url: /ru/net/conversion/dotm-to-pot/ 
+url_ignore: /ru/net/conversion/dotm-to-pot/ 
 description: Преобразование документов Word dotm в файлы PowerPoint pot с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

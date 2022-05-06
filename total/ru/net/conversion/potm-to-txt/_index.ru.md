@@ -1,6 +1,6 @@
 ---
 title: Преобразование POTM в TXT через C# .NET 
-url: /ru/net/conversion/potm-to-txt/ 
+url_ignore: /ru/net/conversion/potm-to-txt/ 
 description: Преобразование документов PowerPoint potm в файлы документов Word с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

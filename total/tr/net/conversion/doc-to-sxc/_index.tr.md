@@ -1,7 +1,7 @@
 ---
 title: DOC'yi SXC'ye Dönüştürmek için .NET API
 description: Microsoft Excel veya Adobe Reader kullanmadan DOC'yi SXC'ye dönüştürmek için C# API'si
-url: /tr/net/conversion/doc-to-sxc/
+url_ignore: /tr/net/conversion/doc-to-sxc/
 family: total
 platformtag: net
 feature: conversion

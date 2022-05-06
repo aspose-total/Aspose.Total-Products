@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή DOC σε PPSM μέσω Java
 description: Java API για εξαγωγή DOC σε PPSM χωρίς χρήση Microsoft Word ή PowerPoint
-url: /el/java/conversion/doc-to-ppsm/
+url_ignore: /el/java/conversion/doc-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API to Export EMLX to RTF
 description: Convert EMLX to RTF without using Microsoft Word or Outlook on .NET
-url: /net/conversion/emlx-to-rtf/
+url_ignore: /net/conversion/emlx-to-rtf/
 family: total
 platformtag: net
 feature: conversion

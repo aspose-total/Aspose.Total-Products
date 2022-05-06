@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير SVG إلى FLATOPC
 description: تحويل SVG إلى FLATOPC دون استخدام Microsoft Word
-url: /ar/net/conversion/svg-to-flatopc/
+url_ignore: /ar/net/conversion/svg-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

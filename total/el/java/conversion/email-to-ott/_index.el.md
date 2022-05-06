@@ -1,7 +1,7 @@
 ---
 title: Εξαγωγή EMAIL σε OTT μέσω Java
 description: Java API για μετατροπή EMAIL σε OTT χωρίς χρήση του Microsoft Word ή του Outlook
-url: /el/java/conversion/email-to-ott/
+url_ignore: /el/java/conversion/email-to-ott/
 family: total
 platformtag: net
 feature: conversion

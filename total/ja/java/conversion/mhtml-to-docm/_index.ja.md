@@ -1,7 +1,7 @@
 ---
 title: MHTMLをDOCMにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してMHTMLをDOCMに変換する
-url: /ja/java/conversion/mhtml-to-docm/
+url_ignore: /ja/java/conversion/mhtml-to-docm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi PCL sang EXCEL thông qua API C#
 description: C# API để chuyển đổi tệp PCL sang EXCEL mà không cần sử dụng Microsoft Excel hoặc Adobe Reader
-url: /vi/net/conversion/pcl-to-excel/
+url_ignore: /vi/net/conversion/pcl-to-excel/
 family: total
 platformtag: net
 feature: conversion

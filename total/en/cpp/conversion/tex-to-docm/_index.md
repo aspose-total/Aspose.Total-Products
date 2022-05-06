@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export TEX to DOCM
 description: Convert TEX to DOCM within C++ applications.
-url: /cpp/conversion/tex-to-docm/
+url_ignore: /cpp/conversion/tex-to-docm/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта MD в MHTML
 description: Преобразование MD в MHTML без использования Microsoft Word
-url: /ru/net/conversion/md-to-mhtml/
+url_ignore: /ru/net/conversion/md-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

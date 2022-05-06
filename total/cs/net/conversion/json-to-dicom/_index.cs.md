@@ -1,7 +1,7 @@
 ---
 title: Převeďte formát JSON na DICOM přes .NET
 description: Analyzujte JSON na DICOM v C# bez použití závislostí třetích stran
-url: /cs/net/conversion/json-to-dicom/
+url_ignore: /cs/net/conversion/json-to-dicom/
 family: total
 platformtag: net
 feature: conversion

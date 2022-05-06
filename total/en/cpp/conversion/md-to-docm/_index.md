@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export MD to DOCM
 description: Convert MD to DOCM within C++ applications.
-url: /cpp/conversion/md-to-docm/
+url_ignore: /cpp/conversion/md-to-docm/
 family: total
 platformtag: cpp
 feature: conversion

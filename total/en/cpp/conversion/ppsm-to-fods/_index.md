@@ -1,7 +1,7 @@
 ---
 title: Convert PPSM to FODS via C++ 
 description: Export PPSM to FODS in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/ppsm-to-fods/
+url_ignore: /cpp/conversion/ppsm-to-fods/
 family: total
 platformtag: cpp
 feature: conversion

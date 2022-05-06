@@ -1,7 +1,7 @@
 ---
 title: PSをDOTMにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してPSをDOTMに変換する
-url: /ja/java/conversion/ps-to-dotm/
+url_ignore: /ja/java/conversion/ps-to-dotm/
 family: total
 platformtag: net
 feature: conversion

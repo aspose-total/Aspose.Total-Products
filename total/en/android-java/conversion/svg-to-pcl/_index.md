@@ -1,7 +1,7 @@
 ---
 title: Android API to Render SVG to PCL
 description: Transform SVG to PCL via Android via Java API
-url: /android-java/conversion/svg-to-pcl/
+url_ignore: /android-java/conversion/svg-to-pcl/
 family: total
 platformtag: android-java
 feature: conversion

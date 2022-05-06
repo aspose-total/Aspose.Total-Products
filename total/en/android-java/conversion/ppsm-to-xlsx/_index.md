@@ -1,7 +1,7 @@
 ---
 title: Convert PPSM to XLSX in Android via Java
 description: Convert PPSM to XLSX in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/ppsm-to-xlsx/
+url_ignore: /android-java/conversion/ppsm-to-xlsx/
 family: total
 platformtag: android-java
 feature: conversion

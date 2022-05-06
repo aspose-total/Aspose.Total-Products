@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to RTF via C++ 
 description: C++ API t0 Parse JSON to RTF without using Microsoft Word
-url: /cpp/conversion/json-to-rtf/
+url_ignore: /cpp/conversion/json-to-rtf/
 family: total
 platformtag: cpp
 feature: conversion

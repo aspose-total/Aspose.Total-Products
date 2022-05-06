@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга XPS в CSV
 description: Экспорт XPS в CSV через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/xps-to-csv/
+url_ignore: /ru/java/conversion/xps-to-csv/
 family: total
 platformtag: net
 feature: conversion

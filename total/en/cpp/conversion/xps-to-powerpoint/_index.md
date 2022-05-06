@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XPS to POWERPOINT  
 description: Convert XPS to POWERPOINT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xps-to-powerpoint/
+url_ignore: /cpp/conversion/xps-to-powerpoint/
 family: total
 platformtag: cpp
 feature: conversion

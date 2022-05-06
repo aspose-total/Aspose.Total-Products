@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to XLSM in C++
 description: C++ API to Convert DOT to XLSM without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/dot-to-xlsm/
+url_ignore: /cpp/conversion/dot-to-xlsm/
 family: total
 platformtag: cpp
 feature: conversion

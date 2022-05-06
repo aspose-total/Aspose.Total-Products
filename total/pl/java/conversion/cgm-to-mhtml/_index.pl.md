@@ -1,7 +1,7 @@
 ---
 title: Java API do eksportu CGM do MHTML
 description: Konwertuj CGM na MHTML za pomocą lokalnego interfejsu Java API
-url: /pl/java/conversion/cgm-to-mhtml/
+url_ignore: /pl/java/conversion/cgm-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

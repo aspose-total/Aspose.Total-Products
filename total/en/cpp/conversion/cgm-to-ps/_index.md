@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export CGM to PS
 description: Convert CGM to PS within C++ applications.
-url: /cpp/conversion/cgm-to-ps/
+url_ignore: /cpp/conversion/cgm-to-ps/
 family: total
 platformtag: cpp
 feature: conversion

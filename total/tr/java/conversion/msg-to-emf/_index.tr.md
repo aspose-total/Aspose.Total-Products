@@ -1,7 +1,7 @@
 ---
 title: MSG'i Java aracılığıyla EMF'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan MSG'i EMF'ye Dönüştürmek için Java API
-url: /tr/java/conversion/msg-to-emf/
+url_ignore: /tr/java/conversion/msg-to-emf/
 family: total
 platformtag: net
 feature: conversion

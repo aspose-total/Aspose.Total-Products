@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXPSをTXTに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにXPSファイルをTXTに変換するC＃API
-url: /ja/net/conversion/xps-to-txt/
+url_ignore: /ja/net/conversion/xps-to-txt/
 family: total
 platformtag: net
 feature: conversion

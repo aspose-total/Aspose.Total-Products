@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert ODT to EXCEL
 description: Convert ODT to EXCEL via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/odt-to-excel/
+url_ignore: /java/conversion/odt-to-excel/
 family: total
 platformtag: java
 feature: conversion

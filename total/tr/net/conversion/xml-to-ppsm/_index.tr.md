@@ -1,7 +1,7 @@
 ---
 title: XML'yi C# API aracılığıyla PPSM'ye aktarın
 description: Microsoft Word kullanmadan XML'yi PPSM'ye dönüştürmek için .NET API
-url: /tr/net/conversion/xml-to-ppsm/
+url_ignore: /tr/net/conversion/xml-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

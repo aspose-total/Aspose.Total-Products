@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla CGM'yi PSD'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan CGM'yi .NET uygulamalarınızda PSD'ye aktarın
-url: /tr/net/conversion/cgm-to-psd/
+url_ignore: /tr/net/conversion/cgm-to-psd/
 family: total
 platformtag: net
 feature: conversion

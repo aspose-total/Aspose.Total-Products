@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してCGMをPSDに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでCGMをPSDにエクスポートします
-url: /ja/net/conversion/cgm-to-psd/
+url_ignore: /ja/net/conversion/cgm-to-psd/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PS to MHTML
 description: Transform PS to MHTML via Android via Java API
-url: /android-java/conversion/ps-to-mhtml/
+url_ignore: /android-java/conversion/ps-to-mhtml/
 family: total
 platformtag: android-java
 feature: conversion

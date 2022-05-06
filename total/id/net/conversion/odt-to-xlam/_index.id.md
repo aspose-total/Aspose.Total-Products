@@ -1,7 +1,7 @@
 ---
 title: .NET API untuk Mengonversi ODT ke XLAM
 description: C# API untuk Mengonversi ODT ke XLAM tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/net/conversion/odt-to-xlam/
+url_ignore: /id/net/conversion/odt-to-xlam/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Tambahkan Properti Kustom dalam File XLAM melalui C#" %}}
 Saat mengonversi ODT ke XLAM, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) memungkinkan Anda menambahkan properti khusus di dokumen XLAM Anda. Untuk menambahkan properti kustom, Anda dapat menggunakan metode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customodtumentpropertycollection/methods/add/index) untuk [CustomOdtumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customodtumentpropertycollection) kelas. Metode Add menambahkan properti ke file Excel dan mengembalikan referensi untuk properti dokumen baru sebagai [Aspose.Cells.Properties.OdtumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /odtumentproperty) objek. 
 {{% blocks/products/pf/feature-page-code %}}

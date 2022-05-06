@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XPS to PPSM  
 description: Convert XPS to PPSM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xps-to-ppsm/
+url_ignore: /cpp/conversion/xps-to-ppsm/
 family: total
 platformtag: cpp
 feature: conversion

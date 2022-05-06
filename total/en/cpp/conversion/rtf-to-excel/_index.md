@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to EXCEL in C++
 description: C++ API to Convert RTF to EXCEL without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/rtf-to-excel/
+url_ignore: /cpp/conversion/rtf-to-excel/
 family: total
 platformtag: cpp
 feature: conversion

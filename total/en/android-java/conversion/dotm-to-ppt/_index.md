@@ -1,7 +1,7 @@
 ---
 title: Convert DOTM to PPT in Android via Java
 description: DOTM to PPT conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/dotm-to-ppt/
+url_ignore: /android-java/conversion/dotm-to-ppt/
 family: total
 platformtag: android-java
 feature: conversion

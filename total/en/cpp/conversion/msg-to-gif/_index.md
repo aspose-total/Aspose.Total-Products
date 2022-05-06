@@ -1,7 +1,7 @@
 ---
 title: Export MSG to GIF via C++
 description: C++ API to Convert MSG to GIF without using Microsoft Word or Outlook
-url: /cpp/conversion/msg-to-gif/
+url_ignore: /cpp/conversion/msg-to-gif/
 family: total
 platformtag: cpp
 feature: conversion

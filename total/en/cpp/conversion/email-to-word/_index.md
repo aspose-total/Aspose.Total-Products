@@ -1,7 +1,7 @@
 ---
 title: Export EMAIL to WORD via C++
 description: C++ API to Convert EMAIL to WORD without using Microsoft Word or Outlook
-url: /cpp/conversion/email-to-word/
+url_ignore: /cpp/conversion/email-to-word/
 family: total
 platformtag: cpp
 feature: conversion

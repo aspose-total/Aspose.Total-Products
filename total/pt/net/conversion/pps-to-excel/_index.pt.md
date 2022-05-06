@@ -1,7 +1,7 @@
 ---
 title: Converter PPS para EXCEL via C#
 description: Converter PPS para EXCEL em C# sem usar o Microsoft Excel ou Powerpoint
-url: /pt/net/conversion/pps-to-excel/
+url_ignore: /pt/net/conversion/pps-to-excel/
 family: total
 platformtag: net
 feature: conversion

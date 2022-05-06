@@ -1,7 +1,7 @@
 ---
 title: Convert DOC to EXCEL via Java
 description: Convert DOC to EXCEL via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/doc-to-excel/
+url_ignore: /java/conversion/doc-to-excel/
 family: total
 platformtag: java
 feature: conversion

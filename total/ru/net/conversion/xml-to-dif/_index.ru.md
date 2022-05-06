@@ -1,7 +1,7 @@
 ---
 title: Преобразование XML в DIF через C# API
 description: C# API для преобразования файла XML в DIF без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/xml-to-dif/
+url_ignore: /ru/net/conversion/xml-to-dif/
 family: total
 platformtag: net
 feature: conversion

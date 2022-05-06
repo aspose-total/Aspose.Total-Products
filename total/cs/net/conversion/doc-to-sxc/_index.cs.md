@@ -1,7 +1,7 @@
 ---
 title: .NET API pro převod DOC do SXC
 description: C# API pro převod DOC do SXC bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/doc-to-sxc/
+url_ignore: /cs/net/conversion/doc-to-sxc/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converteer CGM naar DICOM via C# API
 description: Exporteer CGM naar DICOM in uw .NET-toepassingen zonder een toepassing van derden te gebruiken
-url: /nl/net/conversion/cgm-to-dicom/
+url_ignore: /nl/net/conversion/cgm-to-dicom/
 family: total
 platformtag: net
 feature: conversion

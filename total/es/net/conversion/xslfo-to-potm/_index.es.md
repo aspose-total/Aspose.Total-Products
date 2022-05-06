@@ -1,7 +1,7 @@
 ---
 title: Exportar XSLFO a POTM a través de la API de C#
 description: .NET API para convertir XSLFO a POTM sin usar Microsoft Word
-url: /es/net/conversion/xslfo-to-potm/
+url_ignore: /es/net/conversion/xslfo-to-potm/
 family: total
 platformtag: net
 feature: conversion

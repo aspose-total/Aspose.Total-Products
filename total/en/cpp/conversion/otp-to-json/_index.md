@@ -1,7 +1,7 @@
 ---
 title: Convert OTP to JSON format via C++ 
 description: Export OTP to JSON format in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/otp-to-json/
+url_ignore: /cpp/conversion/otp-to-json/
 family: total
 platformtag: cpp
 feature: conversion

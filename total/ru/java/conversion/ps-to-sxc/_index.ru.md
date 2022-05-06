@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга PS в SXC
 description: Экспорт PS в SXC через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/ps-to-sxc/
+url_ignore: /ru/java/conversion/ps-to-sxc/
 family: total
 platformtag: net
 feature: conversion

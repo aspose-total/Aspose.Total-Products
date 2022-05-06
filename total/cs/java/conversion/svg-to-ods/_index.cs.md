@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení SVG do ODS
 description: Export SVG do ODS přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/svg-to-ods/
+url_ignore: /cs/java/conversion/svg-to-ods/
 family: total
 platformtag: net
 feature: conversion

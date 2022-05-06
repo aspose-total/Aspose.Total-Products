@@ -1,7 +1,7 @@
 ---
 title: Convert XML to POT via Java API
 description: Java API to Convert XML to POT without using Microsoft Word
-url: /java/conversion/xml-to-pot/
+url_ignore: /java/conversion/xml-to-pot/
 family: total
 platformtag: java
 feature: conversion

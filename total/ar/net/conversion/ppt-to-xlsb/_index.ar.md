@@ -1,7 +1,7 @@
 ---
 title: تحويل PPT إلى XLSB عبر C#
 description: قم بتحويل PPT إلى XLSB في C# بدون استخدام Microsoft Excel أو Powerpoint
-url: /ar/net/conversion/ppt-to-xlsb/
+url_ignore: /ar/net/conversion/ppt-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

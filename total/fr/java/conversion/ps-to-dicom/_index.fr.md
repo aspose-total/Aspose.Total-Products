@@ -1,7 +1,7 @@
 ---
 title: Convertir PS en DICOM via Java
 description: Exportez le fichier PS vers DICOM dans vos applications Java sans utiliser d'application tierce
-url: /fr/java/conversion/ps-to-dicom/
+url_ignore: /fr/java/conversion/ps-to-dicom/
 family: total
 platformtag: net
 feature: conversion

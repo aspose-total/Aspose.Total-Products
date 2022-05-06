@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMDをEMZに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでMDをEMZにエクスポートします
-url: /ja/net/conversion/md-to-emz/
+url_ignore: /ja/net/conversion/md-to-emz/
 family: total
 platformtag: net
 feature: conversion

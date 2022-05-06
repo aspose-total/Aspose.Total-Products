@@ -1,7 +1,7 @@
 ---
 title: Konvertera TEX till SVGZ via C# API
 description: Exportera TEX till SVGZ i dina .NET-applikationer utan att använda någon tredjepartsapplikation
-url: /sv/net/conversion/tex-to-svgz/
+url_ignore: /sv/net/conversion/tex-to-svgz/
 family: total
 platformtag: net
 feature: conversion

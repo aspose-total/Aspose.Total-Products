@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى POWERPOINT عبر Java
 description: تحليل JSON إلى POWERPOINT في Java بدون استخدام Microsoft PowerPoint
-url: /ar/java/conversion/json-to-powerpoint/
+url_ignore: /ar/java/conversion/json-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

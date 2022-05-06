@@ -1,6 +1,6 @@
 ---
 title: Преобразование PPS в DOTM через C# .NET 
-url: /ru/net/conversion/pps-to-dotm/ 
+url_ignore: /ru/net/conversion/pps-to-dotm/ 
 description: Преобразование документов PowerPoint pps в файлы документов Word с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

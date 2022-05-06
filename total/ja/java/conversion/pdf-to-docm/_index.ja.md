@@ -1,7 +1,7 @@
 ---
 title: PDFをDOCMにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してPDFをDOCMに変換する
-url: /ja/java/conversion/pdf-to-docm/
+url_ignore: /ja/java/conversion/pdf-to-docm/
 family: total
 platformtag: net
 feature: conversion

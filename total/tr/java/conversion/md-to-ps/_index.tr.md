@@ -1,7 +1,7 @@
 ---
 title: MD'yi PS'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak MD'yi PS'ye dönüştürün
-url: /tr/java/conversion/md-to-ps/
+url_ignore: /tr/java/conversion/md-to-ps/
 family: total
 platformtag: net
 feature: conversion

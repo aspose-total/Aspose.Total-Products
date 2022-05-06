@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení TEX do SXC
 description: Export TEX do SXC přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/tex-to-sxc/
+url_ignore: /cs/java/conversion/tex-to-sxc/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export CGM to MARKDOWN
 description: Convert CGM to MARKDOWN within C++ applications.
-url: /cpp/conversion/cgm-to-markdown/
+url_ignore: /cpp/conversion/cgm-to-markdown/
 family: total
 platformtag: cpp
 feature: conversion

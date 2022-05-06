@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to IMAGE via C# API
 description: Export MHTML to IMAGE in your .NET applications without using any third party application 
-url: /net/conversion/mhtml-to-image/
+url_ignore: /net/conversion/mhtml-to-image/
 family: total
 platformtag: net
 feature: conversion

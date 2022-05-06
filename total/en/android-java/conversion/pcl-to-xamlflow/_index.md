@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PCL to XAMLFLOW
 description: Transform PCL to XAMLFLOW via Android via Java API
-url: /android-java/conversion/pcl-to-xamlflow/
+url_ignore: /android-java/conversion/pcl-to-xamlflow/
 family: total
 platformtag: android-java
 feature: conversion

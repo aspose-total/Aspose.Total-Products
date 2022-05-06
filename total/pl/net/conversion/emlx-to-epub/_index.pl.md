@@ -1,7 +1,7 @@
 ---
 title: C# API do eksportu EMLX do EPUB
 description: Konwertuj EMLX na EPUB bez używania Microsoft Word lub Outlook na .NET
-url: /pl/net/conversion/emlx-to-epub/
+url_ignore: /pl/net/conversion/emlx-to-epub/
 family: total
 platformtag: net
 feature: conversion

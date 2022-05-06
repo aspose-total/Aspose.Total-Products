@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar POTX via .NET
 description: JSON ontleden naar POTX in C# zonder Microsoft PowerPoint te gebruiken
-url: /nl/net/conversion/json-to-potx/
+url_ignore: /nl/net/conversion/json-to-potx/
 family: total
 platformtag: net
 feature: conversion

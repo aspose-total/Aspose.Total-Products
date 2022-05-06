@@ -1,7 +1,7 @@
 ---
 title: Export EPUB do PPS přes C# API
 description: .NET API pro převod EPUB na PPS bez použití aplikace Microsoft Word
-url: /cs/net/conversion/epub-to-pps/
+url_ignore: /cs/net/conversion/epub-to-pps/
 family: total
 platformtag: net
 feature: conversion

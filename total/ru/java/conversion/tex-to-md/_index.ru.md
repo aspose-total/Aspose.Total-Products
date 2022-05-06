@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга TEX в MD
 description: Экспорт TEX в MD через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/tex-to-md/
+url_ignore: /ru/java/conversion/tex-to-md/
 family: total
 platformtag: net
 feature: conversion

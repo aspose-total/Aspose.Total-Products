@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert EPUB to POTX  
 description: Convert EPUB to POTX via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/epub-to-potx/
+url_ignore: /cpp/conversion/epub-to-potx/
 family: total
 platformtag: cpp
 feature: conversion

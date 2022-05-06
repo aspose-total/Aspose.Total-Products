@@ -1,7 +1,7 @@
 ---
 title: Java API to Export MD to PCL
 description: Convert MD to PCL using on premise Java API
-url: /java/conversion/md-to-pcl/
+url_ignore: /java/conversion/md-to-pcl/
 family: total
 platformtag: java
 feature: conversion

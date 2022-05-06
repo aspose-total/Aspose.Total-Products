@@ -1,7 +1,7 @@
 ---
 title: Convert DOTM to XLT via .NET 
 description: Convert DOTM to XLT in C# without using Microsoft Excel or Adobe Reader
-url: /net/conversion/dotm-to-xlt/
+url_ignore: /net/conversion/dotm-to-xlt/
 family: total
 platformtag: net
 feature: conversion

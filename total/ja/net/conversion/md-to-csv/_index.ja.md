@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMDをCSVに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにMDファイルをCSVに変換するC＃API
-url: /ja/net/conversion/md-to-csv/
+url_ignore: /ja/net/conversion/md-to-csv/
 family: total
 platformtag: net
 feature: conversion

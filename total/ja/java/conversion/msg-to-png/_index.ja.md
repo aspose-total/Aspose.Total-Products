@@ -1,7 +1,7 @@
 ---
 title: Java経由でMSGをPNGにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにMSGをPNGに変換するJavaAPI
-url: /ja/java/conversion/msg-to-png/
+url_ignore: /ja/java/conversion/msg-to-png/
 family: total
 platformtag: net
 feature: conversion

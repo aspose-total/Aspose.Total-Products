@@ -1,7 +1,7 @@
 ---
 title: Convert DOCM to PPT in Android via Java
 description: DOCM to PPT conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/docm-to-ppt/
+url_ignore: /android-java/conversion/docm-to-ppt/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование XPS в APNG через C# API
 description: Экспорт XPS в APNG в ваших приложениях .NET без использования каких-либо сторонних приложений.
-url: /ru/net/conversion/xps-to-apng/
+url_ignore: /ru/net/conversion/xps-to-apng/
 family: total
 platformtag: net
 feature: conversion

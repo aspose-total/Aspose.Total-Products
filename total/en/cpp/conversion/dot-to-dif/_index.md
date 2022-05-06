@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to DIF in C++
 description: C++ API to Convert DOT to DIF without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/dot-to-dif/
+url_ignore: /cpp/conversion/dot-to-dif/
 family: total
 platformtag: cpp
 feature: conversion

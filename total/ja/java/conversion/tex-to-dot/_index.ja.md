@@ -1,7 +1,7 @@
 ---
 title: TEXをDOTにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してTEXをDOTに変換する
-url: /ja/java/conversion/tex-to-dot/
+url_ignore: /ja/java/conversion/tex-to-dot/
 family: total
 platformtag: net
 feature: conversion

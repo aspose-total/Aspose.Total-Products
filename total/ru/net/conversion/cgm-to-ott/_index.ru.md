@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта CGM в OTT
 description: Преобразование CGM в OTT без использования Microsoft Word
-url: /ru/net/conversion/cgm-to-ott/
+url_ignore: /ru/net/conversion/cgm-to-ott/
 family: total
 platformtag: net
 feature: conversion

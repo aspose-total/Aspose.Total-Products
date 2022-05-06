@@ -1,7 +1,7 @@
 ---
 title: تحويل PPS إلى تنسيق CSV عبر Java
 description: قم بتحويل PPS إلى تنسيق CSV عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/pps-to-csv/
+url_ignore: /ar/java/conversion/pps-to-csv/
 family: total
 platformtag: net
 feature: conversion

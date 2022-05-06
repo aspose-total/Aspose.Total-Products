@@ -1,7 +1,7 @@
 ---
 title: Export EMAIL to TEXT via C++
 description: C++ API to Convert EMAIL to TEXT without using Microsoft Word or Outlook
-url: /cpp/conversion/email-to-text/
+url_ignore: /cpp/conversion/email-to-text/
 family: total
 platformtag: cpp
 feature: conversion

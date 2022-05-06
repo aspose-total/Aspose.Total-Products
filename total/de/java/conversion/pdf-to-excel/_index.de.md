@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Rendern von PDF in EXCEL
 description: Exportieren Sie PDF über die Java-API in EXCEL, ohne Microsoft Excel oder Adobe Reader zu verwenden
-url: /de/java/conversion/pdf-to-excel/
+url_ignore: /de/java/conversion/pdf-to-excel/
 family: total
 platformtag: net
 feature: conversion

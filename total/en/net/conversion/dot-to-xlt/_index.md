@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to XLT via .NET 
 description: Convert DOT to XLT in C# without using Microsoft Excel or Adobe Reader
-url: /net/conversion/dot-to-xlt/
+url_ignore: /net/conversion/dot-to-xlt/
 family: total
 platformtag: net
 feature: conversion

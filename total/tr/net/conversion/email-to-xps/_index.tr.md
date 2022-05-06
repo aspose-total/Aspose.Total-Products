@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı XPS'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan EMAIL'i XPS'ye dönüştürün
-url: /tr/net/conversion/email-to-xps/
+url_ignore: /tr/net/conversion/email-to-xps/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API to Export PCL to MHTML
 description: Convert PCL to MHTML without using Microsoft Word
-url: /net/conversion/pcl-to-mhtml/
+url_ignore: /net/conversion/pcl-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

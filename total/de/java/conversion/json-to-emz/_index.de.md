@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie das JSON-Format über Java in EMZ
 description: Analysieren Sie JSON in EMZ in Java, ohne Microsoft PowerPoint zu verwenden
-url: /de/java/conversion/json-to-emz/
+url_ignore: /de/java/conversion/json-to-emz/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: PPT'u C# ile CSV'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan PPT'u C#'ta CSV'ye dönüştürün
-url: /tr/net/conversion/ppt-to-csv/
+url_ignore: /tr/net/conversion/ppt-to-csv/
 family: total
 platformtag: net
 feature: conversion

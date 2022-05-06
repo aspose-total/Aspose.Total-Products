@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Mengonversi MOBI ke SXC
 description: Konversi MOBI ke SXC melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel
-url: /id/java/conversion/mobi-to-sxc/
+url_ignore: /id/java/conversion/mobi-to-sxc/
 family: total
 platformtag: net
 feature: conversion

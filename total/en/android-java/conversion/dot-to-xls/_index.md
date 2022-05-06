@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOT to XLS
 description: Convert DOT to XLS in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/dot-to-xls/
+url_ignore: /android-java/conversion/dot-to-xls/
 family: total
 platformtag: android-java
 feature: conversion

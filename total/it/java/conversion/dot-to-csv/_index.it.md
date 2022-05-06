@@ -1,7 +1,7 @@
 ---
 title: API Java per convertire DOT in CSV
 description: Converti DOT in CSV tramite Java senza utilizzare Microsoft Word o Microsoft Excel
-url: /it/java/conversion/dot-to-csv/
+url_ignore: /it/java/conversion/dot-to-csv/
 family: total
 platformtag: net
 feature: conversion

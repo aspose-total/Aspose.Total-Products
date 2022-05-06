@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга PDF в XLT
 description: Экспорт PDF в XLT через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/pdf-to-xlt/
+url_ignore: /ru/java/conversion/pdf-to-xlt/
 family: total
 platformtag: net
 feature: conversion

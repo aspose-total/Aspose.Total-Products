@@ -1,7 +1,7 @@
 ---
 title: Ekspor EMLX ke EPUB melalui Java
 description: Java API untuk Mengonversi EMLX ke EPUB tanpa menggunakan Microsoft Word atau Outlook
-url: /id/java/conversion/emlx-to-epub/
+url_ignore: /id/java/conversion/emlx-to-epub/
 family: total
 platformtag: net
 feature: conversion

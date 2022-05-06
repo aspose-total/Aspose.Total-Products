@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert ODT to XLSM
 description: Convert ODT to XLSM in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/odt-to-xlsm/
+url_ignore: /android-java/conversion/odt-to-xlsm/
 family: total
 platformtag: android-java
 feature: conversion

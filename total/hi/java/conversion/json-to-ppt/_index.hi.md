@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से JSON प्रारूप को PPT में बदलें
 description: Microsoft PowerPoint का उपयोग किए बिना जावा में JSON को PPT में पार्स करें
-url: /hi/java/conversion/json-to-ppt/
+url_ignore: /hi/java/conversion/json-to-ppt/
 family: total
 platformtag: net
 feature: conversion

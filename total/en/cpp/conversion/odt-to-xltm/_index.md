@@ -1,7 +1,7 @@
 ---
 title: Convert ODT to XLTM in C++
 description: C++ API to Convert ODT to XLTM without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/odt-to-xltm/
+url_ignore: /cpp/conversion/odt-to-xltm/
 family: total
 platformtag: cpp
 feature: conversion

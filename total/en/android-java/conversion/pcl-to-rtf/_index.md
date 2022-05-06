@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PCL to RTF
 description: Transform PCL to RTF via Android via Java API
-url: /android-java/conversion/pcl-to-rtf/
+url_ignore: /android-java/conversion/pcl-to-rtf/
 family: total
 platformtag: android-java
 feature: conversion

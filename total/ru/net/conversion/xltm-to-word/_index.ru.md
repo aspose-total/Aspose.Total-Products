@@ -1,7 +1,7 @@
 ---
 title: Преобразование XLTM в WORD с помощью .NET 
 description: Преобразование XLTM в WORD на платформах .NET Framework, .NET Core, Mono или Xamarin
-url: /ru/net/conversion/xltm-to-word/
+url_ignore: /ru/net/conversion/xltm-to-word/
 family: total
 platformtag: net
 feature: conversion

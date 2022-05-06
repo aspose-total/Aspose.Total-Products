@@ -1,7 +1,7 @@
 ---
 title: 通过 Java 将 EML 导出为 FLATOPC
 description: 无需使用 Microsoft Word 或 Outlook 即可将 EML 转换为 FLATOPC 的 Java API
-url: /zh/java/conversion/eml-to-flatopc/
+url_ignore: /zh/java/conversion/eml-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

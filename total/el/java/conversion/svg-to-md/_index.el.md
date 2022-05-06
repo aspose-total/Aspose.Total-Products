@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση SVG σε MD
 description: Εξαγωγή SVG σε MD μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/svg-to-md/
+url_ignore: /el/java/conversion/svg-to-md/
 family: total
 platformtag: net
 feature: conversion

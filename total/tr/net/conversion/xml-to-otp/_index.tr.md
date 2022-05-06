@@ -1,7 +1,7 @@
 ---
 title: XML'yi C# API aracılığıyla OTP'ye aktarın
 description: Microsoft Word kullanmadan XML'yi OTP'ye dönüştürmek için .NET API
-url: /tr/net/conversion/xml-to-otp/
+url_ignore: /tr/net/conversion/xml-to-otp/
 family: total
 platformtag: net
 feature: conversion

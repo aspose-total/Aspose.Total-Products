@@ -1,7 +1,7 @@
 ---
 title: TEXをDOTにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにTEXをDOTに変換する
-url: /ja/net/conversion/tex-to-dot/
+url_ignore: /ja/net/conversion/tex-to-dot/
 family: total
 platformtag: net
 feature: conversion

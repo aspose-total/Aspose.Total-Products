@@ -1,7 +1,7 @@
 ---
 title: Преобразование ODS в PPTX с помощью .NET 
 description: Преобразование ODS в PPTX на платформах .NET Framework, .NET Core, Mono или Xamarin.
-url: /ru/net/conversion/ods-to-pptx/
+url_ignore: /ru/net/conversion/ods-to-pptx/
 family: total
 platformtag: net
 feature: conversion

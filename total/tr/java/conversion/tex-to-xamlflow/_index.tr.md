@@ -1,7 +1,7 @@
 ---
 title: TEX'yi XAMLFLOW'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak TEX'yi XAMLFLOW'ye dönüştürün
-url: /tr/java/conversion/tex-to-xamlflow/
+url_ignore: /tr/java/conversion/tex-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта PS в DOTX
 description: Преобразование PS в DOTX без использования Microsoft Word
-url: /ru/net/conversion/ps-to-dotx/
+url_ignore: /ru/net/conversion/ps-to-dotx/
 family: total
 platformtag: net
 feature: conversion

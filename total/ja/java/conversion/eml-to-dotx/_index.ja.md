@@ -1,7 +1,7 @@
 ---
 title: Java経由でEMLをDOTXにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにEMLをDOTXに変換するJavaAPI
-url: /ja/java/conversion/eml-to-dotx/
+url_ignore: /ja/java/conversion/eml-to-dotx/
 family: total
 platformtag: net
 feature: conversion

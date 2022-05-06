@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή ODT σε POTM μέσω Java
 description: Java API για εξαγωγή ODT σε POTM χωρίς χρήση Microsoft Word ή PowerPoint
-url: /el/java/conversion/odt-to-potm/
+url_ignore: /el/java/conversion/odt-to-potm/
 family: total
 platformtag: net
 feature: conversion

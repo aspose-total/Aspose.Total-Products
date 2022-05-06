@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга XSLFO в DIF
 description: Экспорт XSLFO в DIF через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/xslfo-to-dif/
+url_ignore: /ru/java/conversion/xslfo-to-dif/
 family: total
 platformtag: net
 feature: conversion

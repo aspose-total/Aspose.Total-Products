@@ -1,7 +1,7 @@
 ---
 title: Export EMAIL to BMP via C++
 description: C++ API to Convert EMAIL to BMP without using Microsoft Word or Outlook
-url: /cpp/conversion/email-to-bmp/
+url_ignore: /cpp/conversion/email-to-bmp/
 family: total
 platformtag: cpp
 feature: conversion

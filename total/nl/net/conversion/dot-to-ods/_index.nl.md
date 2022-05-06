@@ -1,7 +1,7 @@
 ---
 title: .NET API om DOT naar ODS te converteren
 description: C# API om DOT naar ODS te converteren zonder Microsoft Excel of Adobe Reader te gebruiken
-url: /nl/net/conversion/dot-to-ods/
+url_ignore: /nl/net/conversion/dot-to-ods/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Aangepaste eigenschappen toevoegen in ODS-bestand via C#" %}}
 Tijdens het converteren van DOT naar ODS kunt u met [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) aangepaste eigenschappen toevoegen aan uw ODS-Documenten. Om een aangepaste eigenschap toe te voegen, kunt u de methode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index) gebruiken voor de [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection) klasse. De Add-methode voegt de eigenschap toe aan het Excel-bestand en retourneert een verwijzing voor de nieuwe Documenteigenschap als [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /Documentproperty) object. 
 {{% blocks/products/pf/feature-page-code %}}

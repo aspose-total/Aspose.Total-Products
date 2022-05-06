@@ -1,7 +1,7 @@
 ---
 title: PS'yi C# API aracılığıyla PPSM'ye aktarın
 description: Microsoft Word kullanmadan PS'yi PPSM'ye dönüştürmek için .NET API
-url: /tr/net/conversion/ps-to-ppsm/
+url_ignore: /tr/net/conversion/ps-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi định dạng JSON sang FLATOPC qua .NET
 description: Phân tích cú pháp JSON thành FLATOPC trong C# mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/json-to-flatopc/
+url_ignore: /vi/net/conversion/json-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

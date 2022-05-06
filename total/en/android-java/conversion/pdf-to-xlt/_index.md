@@ -1,7 +1,7 @@
 ---
 title: Convert PDF to XLT in Android via Java
 description: Render PDF to XLT in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/pdf-to-xlt/
+url_ignore: /android-java/conversion/pdf-to-xlt/
 family: total
 platformtag: android-java
 feature: conversion

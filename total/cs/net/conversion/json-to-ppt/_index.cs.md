@@ -1,7 +1,7 @@
 ---
 title: Převeďte formát JSON na PPT přes .NET
 description: Analyzujte JSON na PPT v C# bez použití Microsoft PowerPoint
-url: /cs/net/conversion/json-to-ppt/
+url_ignore: /cs/net/conversion/json-to-ppt/
 family: total
 platformtag: net
 feature: conversion

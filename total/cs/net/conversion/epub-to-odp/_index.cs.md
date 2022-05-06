@@ -1,7 +1,7 @@
 ---
 title: Export EPUB do ODP přes C# API
 description: .NET API pro převod EPUB na ODP bez použití aplikace Microsoft Word
-url: /cs/net/conversion/epub-to-odp/
+url_ignore: /cs/net/conversion/epub-to-odp/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API de Java para exportar PS a DOCM
 description: Convierta PS a DOCM usando la API de Java en las instalaciones
-url: /es/java/conversion/ps-to-docm/
+url_ignore: /es/java/conversion/ps-to-docm/
 family: total
 platformtag: net
 feature: conversion

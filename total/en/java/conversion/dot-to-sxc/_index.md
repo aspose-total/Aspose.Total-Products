@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert DOT to SXC
 description: Convert DOT to SXC via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/dot-to-sxc/
+url_ignore: /java/conversion/dot-to-sxc/
 family: total
 platformtag: java
 feature: conversion

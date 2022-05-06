@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MHTML to SXC
 description: Convert MHTML to SXC via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/mhtml-to-sxc/
+url_ignore: /cpp/conversion/mhtml-to-sxc/
 family: total
 platformtag: cpp
 feature: conversion

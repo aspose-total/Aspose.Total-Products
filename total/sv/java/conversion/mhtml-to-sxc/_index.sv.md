@@ -1,7 +1,7 @@
 ---
 title: Java API för att rendera MHTML till SXC
 description: Exportera MHTML till SXC via Java API utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/java/conversion/mhtml-to-sxc/
+url_ignore: /sv/java/conversion/mhtml-to-sxc/
 family: total
 platformtag: net
 feature: conversion

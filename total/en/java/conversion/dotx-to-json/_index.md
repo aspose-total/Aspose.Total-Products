@@ -1,7 +1,7 @@
 ---
 title: Convert DOTX to JSON Format via Java
 description: Convert DOTX to JSON format via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/dotx-to-json/
+url_ignore: /java/conversion/dotx-to-json/
 family: total
 platformtag: java
 feature: conversion

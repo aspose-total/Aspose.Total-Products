@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất MHTML sang XAMLFLOW
 description: Chuyển đổi MHTML sang XAMLFLOW mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/mhtml-to-xamlflow/
+url_ignore: /vi/net/conversion/mhtml-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

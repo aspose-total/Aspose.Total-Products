@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXPSをXLTに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにXPSファイルをXLTに変換するC＃API
-url: /ja/net/conversion/xps-to-xlt/
+url_ignore: /ja/net/conversion/xps-to-xlt/
 family: total
 platformtag: net
 feature: conversion

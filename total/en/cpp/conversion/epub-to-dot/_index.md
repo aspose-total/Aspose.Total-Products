@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export EPUB to DOT
 description: Convert EPUB to DOT within C++ applications.
-url: /cpp/conversion/epub-to-dot/
+url_ignore: /cpp/conversion/epub-to-dot/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPSをMDに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPSファイルをMDに変換するC＃API
-url: /ja/net/conversion/ps-to-md/
+url_ignore: /ja/net/conversion/ps-to-md/
 family: total
 platformtag: net
 feature: conversion

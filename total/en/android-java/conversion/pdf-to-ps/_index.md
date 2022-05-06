@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PDF to PS
 description: Transform PDF to PS via Android via Java API
-url: /android-java/conversion/pdf-to-ps/
+url_ignore: /android-java/conversion/pdf-to-ps/
 family: total
 platformtag: android-java
 feature: conversion

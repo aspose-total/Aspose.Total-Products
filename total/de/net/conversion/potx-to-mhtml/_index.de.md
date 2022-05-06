@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie POTX über C# in MHTML
 description: Konvertieren Sie POTX in C# in MHTML, ohne Microsoft Excel oder Powerpoint zu verwenden
-url: /de/net/conversion/potx-to-mhtml/
+url_ignore: /de/net/conversion/potx-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

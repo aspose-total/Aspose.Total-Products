@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert CGM to DIF
 description: Convert CGM to DIF via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/cgm-to-dif/
+url_ignore: /cpp/conversion/cgm-to-dif/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование POT в формат XLS через Java
 description: Преобразуйте формат POT в XLS через Java без использования Microsoft Excel или PowerPoint.
-url: /ru/java/conversion/pot-to-xls/
+url_ignore: /ru/java/conversion/pot-to-xls/
 family: total
 platformtag: net
 feature: conversion

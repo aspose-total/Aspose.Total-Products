@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта XPS в OTT
 description: Преобразование XPS в OTT без использования Microsoft Word
-url: /ru/net/conversion/xps-to-ott/
+url_ignore: /ru/net/conversion/xps-to-ott/
 family: total
 platformtag: net
 feature: conversion

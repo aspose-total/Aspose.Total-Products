@@ -1,7 +1,7 @@
 ---
 title: Convertir le format JSON en PSD via Java
 description: Analyser JSON en PSD en Java sans utiliser Microsoft PowerPoint
-url: /fr/java/conversion/json-to-psd/
+url_ignore: /fr/java/conversion/json-to-psd/
 family: total
 platformtag: net
 feature: conversion
@@ -12,7 +12,7 @@ otherformats: SVGZ WMF DICOM DXF IMAGE TGA EMZ PSD WMZ JPEG2000
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Convertir le format JSON en PSD via Java" h2="API Java pour analyser le format JSON en PSD dans toutes les applications Java J2SE, J2EE, J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour Java](https://products.aspose.com/total/java/), vous pouvez convertir le format JSON en PSD dans n'importe quelle application Java en deux étapes simples. Tout d'abord, en utilisant [Aspose.Cells for Java](https://products.aspose.com/cells/java/), vous pouvez analyser JSON en JPEG. Après cela, en utilisant [Aspose.Imaging for Java](https://products.aspose.com/imaging/java/), vous pouvez convertir JPEG en PSD.
+En utilisant [Aspose.Total for Java](https://products.aspose.com/total/java/), vous pouvez convertir le format JSON en PSD dans n'importe quelle application Java en deux étapes simples. Tout d'abord, en utilisant [Aspose.Cells for Java](https://products.aspose.com/cells/java/), vous pouvez analyser JSON en JPEG. Après cela, en utilisant [Aspose.Imaging for Java](https://products.aspose.com/imaging/java/), vous pouvez convertir JPEG en PSD.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convertir le format JSON en PSD via Java" %}}

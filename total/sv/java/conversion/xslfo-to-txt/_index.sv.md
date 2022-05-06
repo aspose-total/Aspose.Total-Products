@@ -1,7 +1,7 @@
 ---
 title: Java API för att rendera XSLFO till TXT
 description: Exportera XSLFO till TXT via Java API utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/java/conversion/xslfo-to-txt/
+url_ignore: /sv/java/conversion/xslfo-to-txt/
 family: total
 platformtag: net
 feature: conversion

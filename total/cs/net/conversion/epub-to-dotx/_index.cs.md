@@ -1,7 +1,7 @@
 ---
 title: C# API pro export EPUB do DOTX
 description: Převeďte EPUB na DOTX bez použití aplikace Microsoft Word
-url: /cs/net/conversion/epub-to-dotx/
+url_ignore: /cs/net/conversion/epub-to-dotx/
 family: total
 platformtag: net
 feature: conversion

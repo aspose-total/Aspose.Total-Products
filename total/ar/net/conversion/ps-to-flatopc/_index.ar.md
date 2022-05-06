@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير PS إلى FLATOPC
 description: تحويل PS إلى FLATOPC دون استخدام Microsoft Word
-url: /ar/net/conversion/ps-to-flatopc/
+url_ignore: /ar/net/conversion/ps-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

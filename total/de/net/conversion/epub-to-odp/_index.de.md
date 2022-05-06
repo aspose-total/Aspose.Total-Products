@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie EPUB über die C#-API nach ODP
 description: .NET-API zum Konvertieren von EPUB in ODP ohne Verwendung von Microsoft Word
-url: /de/net/conversion/epub-to-odp/
+url_ignore: /de/net/conversion/epub-to-odp/
 family: total
 platformtag: net
 feature: conversion

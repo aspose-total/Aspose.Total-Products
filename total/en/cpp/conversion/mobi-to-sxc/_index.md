@@ -1,7 +1,7 @@
 ---
 title: Convert MOBI to SXC in C++
 description: C++ API to Convert MOBI to SXC without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/mobi-to-sxc/
+url_ignore: /cpp/conversion/mobi-to-sxc/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konversi format DOT ke JSON melalui .NET
 description: Konversi DOT ke JSON dalam C# tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/net/conversion/dot-to-json/
+url_ignore: /id/net/conversion/dot-to-json/
 family: total
 platformtag: net
 feature: conversion

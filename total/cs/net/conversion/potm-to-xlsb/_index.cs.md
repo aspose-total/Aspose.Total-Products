@@ -1,7 +1,7 @@
 ---
 title: Převést POTM na XLSB přes C#
 description: Převeďte POTM na XLSB v C# bez použití Microsoft Excel nebo Powerpoint
-url: /cs/net/conversion/potm-to-xlsb/
+url_ignore: /cs/net/conversion/potm-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

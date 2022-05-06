@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie E-MAIL über Java nach MD
 description: Java-API zum Konvertieren von E-MAIL in MD, ohne Microsoft Word oder Outlook zu verwenden
-url: /de/java/conversion/eml-to-md/
+url_ignore: /de/java/conversion/eml-to-md/
 family: total
 platformtag: net
 feature: conversion

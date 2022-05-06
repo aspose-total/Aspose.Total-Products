@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PCL to POT  
 description: Convert PCL to POT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/pcl-to-pot/
+url_ignore: /cpp/conversion/pcl-to-pot/
 family: total
 platformtag: cpp
 feature: conversion

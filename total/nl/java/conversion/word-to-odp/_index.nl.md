@@ -1,7 +1,7 @@
 ---
 title: Converteer WORD naar ODP via Java
 description: Java API om WORD naar ODP te exporteren zonder Microsoft Word of PowerPoint te gebruiken
-url: /nl/java/conversion/word-to-odp/
+url_ignore: /nl/java/conversion/word-to-odp/
 family: total
 platformtag: net
 feature: conversion

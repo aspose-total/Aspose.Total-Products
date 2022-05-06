@@ -1,7 +1,7 @@
 ---
 title: Převeďte PDF na MD přes C# API
 description: C# API pro převod souboru PDF do MD bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/pdf-to-md/
+url_ignore: /cs/net/conversion/pdf-to-md/
 family: total
 platformtag: net
 feature: conversion

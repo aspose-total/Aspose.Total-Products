@@ -1,7 +1,7 @@
 ---
 title: Export CGM to SWF in Android 
 description: Android API to Convert CGM to SWF without using Microsoft Word
-url: /android-java/conversion/cgm-to-swf/
+url_ignore: /android-java/conversion/cgm-to-swf/
 family: total
 platformtag: android-java
 feature: conversion

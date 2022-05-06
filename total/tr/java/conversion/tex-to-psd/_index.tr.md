@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla TEX'yi PSD'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan TEX dosyasını Java uygulamalarınızda PSD'ye aktarın
-url: /tr/java/conversion/tex-to-psd/
+url_ignore: /tr/java/conversion/tex-to-psd/
 family: total
 platformtag: net
 feature: conversion

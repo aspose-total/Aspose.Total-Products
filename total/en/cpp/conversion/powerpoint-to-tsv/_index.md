@@ -1,7 +1,7 @@
 ---
 title: Convert POWERPOINT to TSV via C++ 
 description: Export POWERPOINT to TSV in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/powerpoint-to-tsv/
+url_ignore: /cpp/conversion/powerpoint-to-tsv/
 family: total
 platformtag: cpp
 feature: conversion

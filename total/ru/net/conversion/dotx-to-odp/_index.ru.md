@@ -1,6 +1,6 @@
 ---
 title: Преобразование DOTX в ODP через C# .NET 
-url: /ru/net/conversion/dotx-to-odp/ 
+url_ignore: /ru/net/conversion/dotx-to-odp/ 
 description: Преобразование документов Word dotx в файлы PowerPoint odp с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

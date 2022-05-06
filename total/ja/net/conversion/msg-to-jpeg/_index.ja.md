@@ -1,7 +1,7 @@
 ---
 title: MSGをJPEGにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにMSGをJPEGに変換する
-url: /ja/net/conversion/msg-to-jpeg/
+url_ignore: /ja/net/conversion/msg-to-jpeg/
 family: total
 platformtag: net
 feature: conversion

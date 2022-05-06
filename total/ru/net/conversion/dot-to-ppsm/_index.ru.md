@@ -1,6 +1,6 @@
 ---
 title: Преобразование DOT в PPSM через C# .NET 
-url: /ru/net/conversion/dot-to-ppsm/ 
+url_ignore: /ru/net/conversion/dot-to-ppsm/ 
 description: Преобразование документов Word dot в файлы PowerPoint ppsm с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

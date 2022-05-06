@@ -1,7 +1,7 @@
 ---
 title: WORDをXLSMに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにWORDをXLSMに変換するC＃API
-url: /ja/net/conversion/word-to-xlsm/
+url_ignore: /ja/net/conversion/word-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

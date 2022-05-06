@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi định dạng WORD sang JSON qua .NET
 description: Chuyển đổi WORD sang JSON trong C# mà không cần sử dụng Microsoft Excel hoặc Adobe Reader
-url: /vi/net/conversion/word-to-json/
+url_ignore: /vi/net/conversion/word-to-json/
 family: total
 platformtag: net
 feature: conversion

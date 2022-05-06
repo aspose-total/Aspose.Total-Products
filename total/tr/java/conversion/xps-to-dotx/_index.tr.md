@@ -1,7 +1,7 @@
 ---
 title: XPS'yi DOTX'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak XPS'yi DOTX'ye dönüştürün
-url: /tr/java/conversion/xps-to-dotx/
+url_ignore: /tr/java/conversion/xps-to-dotx/
 family: total
 platformtag: net
 feature: conversion

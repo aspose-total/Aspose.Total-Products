@@ -1,7 +1,7 @@
 ---
 title: 通过 .NET 将 WORD 转换为 JSON 格式
 description: 不使用 Microsoft Excel 或 Adobe Reader 在 C# 中将 WORD 转换为 JSON
-url: /zh/net/conversion/word-to-json/
+url_ignore: /zh/net/conversion/word-to-json/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender MHTML ke MD
 description: Ekspor MHTML ke MD melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/mhtml-to-md/
+url_ignore: /id/java/conversion/mhtml-to-md/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをPPTMにエクスポートする
 description: MicrosoftWordを使用せずにPDFをPPTMに変換する.NETAPI
-url: /ja/net/conversion/pdf-to-pptm/
+url_ignore: /ja/net/conversion/pdf-to-pptm/
 family: total
 platformtag: net
 feature: conversion

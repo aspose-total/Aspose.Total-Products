@@ -1,7 +1,7 @@
 ---
 title: .NETを介してJSON形式をOTTに変換する
 description: Microsoft Wordを使用せずにC＃でJSONをOTTに解析する
-url: /ja/net/conversion/json-to-ott/
+url_ignore: /ja/net/conversion/json-to-ott/
 family: total
 platformtag: net
 feature: conversion

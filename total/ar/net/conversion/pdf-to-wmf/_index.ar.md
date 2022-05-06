@@ -1,7 +1,7 @@
 ---
 title: تحويل PDF إلى WMF عبر C# API
 description: قم بتصدير PDF إلى WMF في تطبيقات .NET دون استخدام أي تطبيق تابع لجهة خارجية
-url: /ar/net/conversion/pdf-to-wmf/
+url_ignore: /ar/net/conversion/pdf-to-wmf/
 family: total
 platformtag: net
 feature: conversion

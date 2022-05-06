@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla TEX'yi DXF'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan TEX'yi .NET uygulamalarınızda DXF'ye aktarın
-url: /tr/net/conversion/tex-to-dxf/
+url_ignore: /tr/net/conversion/tex-to-dxf/
 family: total
 platformtag: net
 feature: conversion

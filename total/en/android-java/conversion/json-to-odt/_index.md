@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to ODT in Android via Java 
 description: Parse JSON to ODT in Java without using Microsoft Word
-url: /android-java/conversion/json-to-odt/
+url_ignore: /android-java/conversion/json-to-odt/
 family: total
 platformtag: android-java
 feature: conversion

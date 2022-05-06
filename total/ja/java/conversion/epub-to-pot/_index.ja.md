@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してEPUBをPOTに変換する
 description: MicrosoftWordを使用せずにEPUBをPOTに変換するJavaAPI
-url: /ja/java/conversion/epub-to-pot/
+url_ignore: /ja/java/conversion/epub-to-pot/
 family: total
 platformtag: net
 feature: conversion

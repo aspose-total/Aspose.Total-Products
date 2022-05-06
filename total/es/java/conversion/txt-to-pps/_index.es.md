@@ -1,7 +1,7 @@
 ---
 title: Convierta TXT a PPS a través de Java
 description: API de Java para exportar TXT a PPS sin usar Microsoft Word o PowerPoint
-url: /es/java/conversion/txt-to-pps/
+url_ignore: /es/java/conversion/txt-to-pps/
 family: total
 platformtag: net
 feature: conversion

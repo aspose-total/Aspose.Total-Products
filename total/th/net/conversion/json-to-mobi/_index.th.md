@@ -1,7 +1,7 @@
 ---
 title: แปลงรูปแบบ JSON เป็น MOBI ผ่าน .NET
 description: แยก JSON เป็น MOBI ใน C# โดยไม่ต้องใช้ Microsoft Word
-url: /th/net/conversion/json-to-mobi/
+url_ignore: /th/net/conversion/json-to-mobi/
 family: total
 platformtag: net
 feature: conversion

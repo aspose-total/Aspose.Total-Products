@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOTM to XLS
 description: Convert DOTM to XLS in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/dotm-to-xls/
+url_ignore: /android-java/conversion/dotm-to-xls/
 family: total
 platformtag: android-java
 feature: conversion

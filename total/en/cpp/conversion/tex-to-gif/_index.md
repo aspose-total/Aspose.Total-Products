@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export TEX to GIF
 description: Convert TEX to GIF within C++ applications.
-url: /cpp/conversion/tex-to-gif/
+url_ignore: /cpp/conversion/tex-to-gif/
 family: total
 platformtag: cpp
 feature: conversion

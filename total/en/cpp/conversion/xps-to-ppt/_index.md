@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XPS to PPT  
 description: Convert XPS to PPT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xps-to-ppt/
+url_ignore: /cpp/conversion/xps-to-ppt/
 family: total
 platformtag: cpp
 feature: conversion

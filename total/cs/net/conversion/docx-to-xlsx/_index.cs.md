@@ -1,7 +1,7 @@
 ---
 title: .NET API pro převod DOCX do XLSX
 description: C# API pro převod DOCX do XLSX bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/docx-to-xlsx/
+url_ignore: /cs/net/conversion/docx-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

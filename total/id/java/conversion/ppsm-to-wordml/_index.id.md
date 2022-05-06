@@ -1,7 +1,7 @@
 ---
 title: Konversi PPSM ke WORDML melalui Java
 description: Java API untuk Mengekspor PPSM ke WORDML tanpa menggunakan Microsoft Word atau PowerPoint
-url: /id/java/conversion/ppsm-to-wordml/
+url_ignore: /id/java/conversion/ppsm-to-wordml/
 family: total
 platformtag: net
 feature: conversion

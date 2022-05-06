@@ -1,6 +1,6 @@
 ---
 title: Преобразование WORDML в PPT через C# .NET 
-url: /ru/net/conversion/wordml-to-ppt/ 
+url_ignore: /ru/net/conversion/wordml-to-ppt/ 
 description: Преобразование документов Word wordml в файлы PowerPoint ppt с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

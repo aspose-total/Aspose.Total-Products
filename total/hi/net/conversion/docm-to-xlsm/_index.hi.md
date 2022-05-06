@@ -1,7 +1,7 @@
 ---
 title: DOCM को XLSM में बदलने के लिए .NET API
 description: सी # एपीआई माइक्रोसॉफ्ट एक्सेल या एडोब रीडर का उपयोग किए बिना डीओसी को सीएसवी में कनवर्ट करने के लिए
-url: /hi/net/conversion/docm-to-xlsm/
+url_ignore: /hi/net/conversion/docm-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

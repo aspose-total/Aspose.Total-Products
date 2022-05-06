@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert OTT to EXCEL
 description: Convert OTT to EXCEL in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/ott-to-excel/
+url_ignore: /android-java/conversion/ott-to-excel/
 family: total
 platformtag: android-java
 feature: conversion

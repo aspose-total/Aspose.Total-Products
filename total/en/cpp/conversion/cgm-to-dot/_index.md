@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export CGM to DOT
 description: Convert CGM to DOT within C++ applications.
-url: /cpp/conversion/cgm-to-dot/
+url_ignore: /cpp/conversion/cgm-to-dot/
 family: total
 platformtag: cpp
 feature: conversion

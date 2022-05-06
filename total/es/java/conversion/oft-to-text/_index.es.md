@@ -1,7 +1,7 @@
 ---
 title: Exportar OFT a TEXT a través de Java
 description: API de Java para convertir OFT a TEXT sin usar Microsoft Word o Outlook
-url: /es/java/conversion/oft-to-text/
+url_ignore: /es/java/conversion/oft-to-text/
 family: total
 platformtag: net
 feature: conversion

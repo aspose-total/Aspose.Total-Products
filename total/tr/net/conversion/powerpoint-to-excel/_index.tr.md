@@ -1,7 +1,7 @@
 ---
 title: POWERPOINT'u C# ile EXCEL'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan POWERPOINT'u C#'ta EXCEL'ye dönüştürün
-url: /tr/net/conversion/powerpoint-to-excel/
+url_ignore: /tr/net/conversion/powerpoint-to-excel/
 family: total
 platformtag: net
 feature: conversion

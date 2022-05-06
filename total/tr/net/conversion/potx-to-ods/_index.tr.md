@@ -1,7 +1,7 @@
 ---
 title: POTX'u C# ile ODS'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan POTX'u C#'ta ODS'ye dönüştürün
-url: /tr/net/conversion/potx-to-ods/
+url_ignore: /tr/net/conversion/potx-to-ods/
 family: total
 platformtag: net
 feature: conversion

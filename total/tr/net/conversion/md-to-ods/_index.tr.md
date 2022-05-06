@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla MD'yi ODS'ye dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan MD Dosyasını ODS'ye Dönüştürmek için C# API'si
-url: /tr/net/conversion/md-to-ods/
+url_ignore: /tr/net/conversion/md-to-ods/
 family: total
 platformtag: net
 feature: conversion

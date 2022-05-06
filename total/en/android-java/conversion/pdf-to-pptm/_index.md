@@ -1,7 +1,7 @@
 ---
 title: Export PDF to PPTM in Android 
 description: Android API to Convert PDF to PPTM without using Microsoft Word
-url: /android-java/conversion/pdf-to-pptm/
+url_ignore: /android-java/conversion/pdf-to-pptm/
 family: total
 platformtag: android-java
 feature: conversion

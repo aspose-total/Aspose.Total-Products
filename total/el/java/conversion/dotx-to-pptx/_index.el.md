@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή DOTX σε PPTX μέσω Java
 description: Java API για εξαγωγή DOTX σε PPTX χωρίς χρήση Microsoft Word ή PowerPoint
-url: /el/java/conversion/dotx-to-pptx/
+url_ignore: /el/java/conversion/dotx-to-pptx/
 family: total
 platformtag: net
 feature: conversion
@@ -16,8 +16,8 @@ otherformats: POTX POTM POT PPSX PPS POWERPOINT PPTM PPT PPSM PPTX CSV DIF FODS 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Πώς να μετατρέψετε το DOTX σε PPTX μέσω Java" %}}
-1. Ανοίξτε το αρχείο DOTX χρησιμοποιώντας την κλάση [Dotxument](https://apireference.aspose.com/words/java/com.aspose.words/Dotxument)
-2. Μετατρέψτε το αρχείο DOTX σε HTML χρησιμοποιώντας [save](https://apireference.aspose.com/words/java/com.aspose.words/Dotxument#save(java.lang.String,com.aspose.words.SaveOptions)) μέθοδος
+1. Ανοίξτε το αρχείο DOTX χρησιμοποιώντας την κλάση [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. Μετατρέψτε το αρχείο DOTX σε HTML χρησιμοποιώντας [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) μέθοδος
 3. Αρχικοποιήστε ένα νέο αντικείμενο [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Εξάγετε περιεχόμενο από αρχείο HTML χρησιμοποιώντας το BufferedReader και γράψτε το περιεχόμενο στο αρχείο παρουσίασής σας
 6. Αποθηκεύστε το έγγραφο στο PPTX χρησιμοποιώντας τη μέθοδο [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

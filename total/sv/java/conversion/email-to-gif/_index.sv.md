@@ -1,7 +1,7 @@
 ---
 title: Exportera EMAIL till GIF via Java
 description: Java API för att konvertera EMAIL till GIF utan att använda Microsoft Word eller Outlook
-url: /sv/java/conversion/email-to-gif/
+url_ignore: /sv/java/conversion/email-to-gif/
 family: total
 platformtag: net
 feature: conversion

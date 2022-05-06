@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert TEX to XAML  
 description: Convert TEX to XAML via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/tex-to-xaml/
+url_ignore: /cpp/conversion/tex-to-xaml/
 family: total
 platformtag: cpp
 feature: conversion

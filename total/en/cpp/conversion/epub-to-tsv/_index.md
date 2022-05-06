@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert EPUB to TSV
 description: Convert EPUB to TSV via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/epub-to-tsv/
+url_ignore: /cpp/conversion/epub-to-tsv/
 family: total
 platformtag: cpp
 feature: conversion

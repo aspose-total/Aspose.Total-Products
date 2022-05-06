@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してTEXをDICOMに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでTEXをDICOMにエクスポートします
-url: /ja/net/conversion/tex-to-dicom/
+url_ignore: /ja/net/conversion/tex-to-dicom/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converter PDF para WMZ via API C#
 description: Exporte PDF para WMZ em seus aplicativos .NET sem usar nenhum aplicativo de terceiros
-url: /pt/net/conversion/pdf-to-wmz/
+url_ignore: /pt/net/conversion/pdf-to-wmz/
 family: total
 platformtag: net
 feature: conversion

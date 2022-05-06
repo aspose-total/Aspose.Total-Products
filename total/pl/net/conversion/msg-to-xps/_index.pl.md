@@ -1,7 +1,7 @@
 ---
 title: C# API do eksportu MSG do XPS
 description: Konwertuj MSG na XPS bez używania Microsoft Word lub Outlook na .NET
-url: /pl/net/conversion/msg-to-xps/
+url_ignore: /pl/net/conversion/msg-to-xps/
 family: total
 platformtag: net
 feature: conversion

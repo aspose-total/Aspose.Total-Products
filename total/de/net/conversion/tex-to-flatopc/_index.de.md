@@ -1,7 +1,7 @@
 ---
 title: C#-API zum Exportieren von TEX nach FLATOPC
 description: Konvertieren Sie TEX in FLATOPC, ohne Microsoft Word zu verwenden
-url: /de/net/conversion/tex-to-flatopc/
+url_ignore: /de/net/conversion/tex-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

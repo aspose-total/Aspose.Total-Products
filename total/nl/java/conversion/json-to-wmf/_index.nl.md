@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar WMF via Java
 description: JSON ontleden naar WMF in Java zonder Microsoft PowerPoint te gebruiken
-url: /nl/java/conversion/json-to-wmf/
+url_ignore: /nl/java/conversion/json-to-wmf/
 family: total
 platformtag: net
 feature: conversion

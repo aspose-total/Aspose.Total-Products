@@ -1,7 +1,7 @@
 ---
 title: Converter PPTX para formato ODS via Java
 description: Converta o formato PPTX para ODS via Java sem usar o Microsoft Excel ou PowerPoint
-url: /pt/java/conversion/pptx-to-ods/
+url_ignore: /pt/java/conversion/pptx-to-ods/
 family: total
 platformtag: net
 feature: conversion

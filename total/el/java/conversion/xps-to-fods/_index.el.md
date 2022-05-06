@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση XPS σε FODS
 description: Εξαγωγή XPS σε FODS μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/xps-to-fods/
+url_ignore: /el/java/conversion/xps-to-fods/
 family: total
 platformtag: net
 feature: conversion

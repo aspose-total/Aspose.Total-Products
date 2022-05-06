@@ -1,7 +1,7 @@
 ---
 title: تحويل XML إلى XLAM عبر C# API
 description: C# API لتحويل ملف XML إلى XLAM بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/xml-to-xlam/
+url_ignore: /ar/net/conversion/xml-to-xlam/
 family: total
 platformtag: net
 feature: conversion

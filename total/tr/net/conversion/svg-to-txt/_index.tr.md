@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla SVG'yi TXT'ye dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan SVG Dosyasını TXT'ye Dönüştürmek için C# API'si
-url: /tr/net/conversion/svg-to-txt/
+url_ignore: /tr/net/conversion/svg-to-txt/
 family: total
 platformtag: net
 feature: conversion

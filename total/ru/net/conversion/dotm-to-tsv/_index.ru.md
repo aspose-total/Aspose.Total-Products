@@ -1,7 +1,7 @@
 ---
 title: .NET API для преобразования DOTM в TSV
 description: C# API для преобразования DOTM в TSV без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/dotm-to-tsv/
+url_ignore: /ru/net/conversion/dotm-to-tsv/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Převeďte PPT na DOTX přes Java
 description: Java API pro export PPT do DOTX bez použití Microsoft Word nebo PowerPoint
-url: /cs/java/conversion/ppt-to-dotx/
+url_ignore: /cs/java/conversion/ppt-to-dotx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してXMLをODPに変換する
 description: MicrosoftWordを使用せずにXMLをODPに変換するJavaAPI
-url: /ja/java/conversion/xml-to-odp/
+url_ignore: /ja/java/conversion/xml-to-odp/
 family: total
 platformtag: net
 feature: conversion

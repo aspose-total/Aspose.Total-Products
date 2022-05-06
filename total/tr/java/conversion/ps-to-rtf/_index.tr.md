@@ -1,7 +1,7 @@
 ---
 title: PS'yi RTF'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak PS'yi RTF'ye dönüştürün
-url: /tr/java/conversion/ps-to-rtf/
+url_ignore: /tr/java/conversion/ps-to-rtf/
 family: total
 platformtag: net
 feature: conversion

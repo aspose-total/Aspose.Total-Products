@@ -1,7 +1,7 @@
 ---
 title: .NETを介してPOWERPOINTをJSON形式に変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPOWERPOINTをJSONに変換する
-url: /ja/net/conversion/powerpoint-to-json/
+url_ignore: /ja/net/conversion/powerpoint-to-json/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API de Java para renderizar XSLFO a TSV
 description: Exporte XSLFO a TSV a través de la API de Java sin usar Microsoft Excel o Adobe Reader
-url: /es/java/conversion/xslfo-to-tsv/
+url_ignore: /es/java/conversion/xslfo-to-tsv/
 family: total
 platformtag: net
 feature: conversion

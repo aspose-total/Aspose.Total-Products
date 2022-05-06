@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга XPS в SXC
 description: Экспорт XPS в SXC через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/xps-to-sxc/
+url_ignore: /ru/java/conversion/xps-to-sxc/
 family: total
 platformtag: net
 feature: conversion

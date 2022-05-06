@@ -1,7 +1,7 @@
 ---
 title: Convert DOTX to XLSM via Java
 description: Convert DOTX to XLSM via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/dotx-to-xlsm/
+url_ignore: /java/conversion/dotx-to-xlsm/
 family: total
 platformtag: java
 feature: conversion

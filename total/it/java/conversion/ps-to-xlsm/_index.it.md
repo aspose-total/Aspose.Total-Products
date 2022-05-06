@@ -1,7 +1,7 @@
 ---
 title: API Java per il rendering da PS a XLSM
 description: Esporta PS in XLSM tramite API Java senza utilizzare Microsoft Excel o Adobe Reader
-url: /it/java/conversion/ps-to-xlsm/
+url_ignore: /it/java/conversion/ps-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

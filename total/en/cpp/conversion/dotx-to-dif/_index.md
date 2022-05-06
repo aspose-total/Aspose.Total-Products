@@ -1,7 +1,7 @@
 ---
 title: Convert DOTX to DIF in C++
 description: C++ API to Convert DOTX to DIF without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/dotx-to-dif/
+url_ignore: /cpp/conversion/dotx-to-dif/
 family: total
 platformtag: cpp
 feature: conversion

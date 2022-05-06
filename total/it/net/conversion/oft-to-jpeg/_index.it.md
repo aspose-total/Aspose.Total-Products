@@ -1,7 +1,7 @@
 ---
 title: API C# per esportare OFT in JPEG
 description: Converti OFT in JPEG senza utilizzare Microsoft Word o Outlook su .NET
-url: /it/net/conversion/oft-to-jpeg/
+url_ignore: /it/net/conversion/oft-to-jpeg/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API de Java para renderizar EPUB a XLT
 description: Exporte EPUB a XLT a través de la API de Java sin usar Microsoft Excel o Adobe Reader
-url: /es/java/conversion/epub-to-xlt/
+url_ignore: /es/java/conversion/epub-to-xlt/
 family: total
 platformtag: net
 feature: conversion

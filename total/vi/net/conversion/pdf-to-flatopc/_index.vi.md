@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất PDF sang FLATOPC
 description: Chuyển đổi PDF sang FLATOPC mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/pdf-to-flatopc/
+url_ignore: /vi/net/conversion/pdf-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

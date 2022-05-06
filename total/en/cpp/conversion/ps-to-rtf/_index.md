@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PS to RTF
 description: Convert PS to RTF within C++ applications.
-url: /cpp/conversion/ps-to-rtf/
+url_ignore: /cpp/conversion/ps-to-rtf/
 family: total
 platformtag: cpp
 feature: conversion

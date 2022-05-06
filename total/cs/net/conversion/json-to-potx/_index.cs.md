@@ -1,7 +1,7 @@
 ---
 title: Převeďte formát JSON na POTX přes .NET
 description: Analyzujte JSON na POTX v C# bez použití Microsoft PowerPoint
-url: /cs/net/conversion/json-to-potx/
+url_ignore: /cs/net/conversion/json-to-potx/
 family: total
 platformtag: net
 feature: conversion

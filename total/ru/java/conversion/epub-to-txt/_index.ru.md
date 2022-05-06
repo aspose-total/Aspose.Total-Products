@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга EPUB в TXT
 description: Экспорт EPUB в TXT через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/epub-to-txt/
+url_ignore: /ru/java/conversion/epub-to-txt/
 family: total
 platformtag: net
 feature: conversion

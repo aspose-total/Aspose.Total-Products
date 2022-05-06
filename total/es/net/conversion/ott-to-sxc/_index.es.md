@@ -1,7 +1,7 @@
 ---
 title: API .NET para convertir OTT a SXC
 description: API de C# para convertir OTT a SXC sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/ott-to-sxc/
+url_ignore: /es/net/conversion/ott-to-sxc/
 family: total
 platformtag: net
 feature: conversion

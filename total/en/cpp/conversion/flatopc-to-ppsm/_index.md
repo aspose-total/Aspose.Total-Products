@@ -1,7 +1,7 @@
 ---
 title: Convert FLATOPC to PPSM via C++
 description: Export FLATOPC to PPSM in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/flatopc-to-ppsm/
+url_ignore: /cpp/conversion/flatopc-to-ppsm/
 family: total
 platformtag: cpp
 feature: conversion

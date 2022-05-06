@@ -1,7 +1,7 @@
 ---
 title: تحويل PPSM إلى XLAM عبر C#
 description: قم بتحويل PPSM إلى XLAM في C# بدون استخدام Microsoft Excel أو Powerpoint
-url: /ar/net/conversion/ppsm-to-xlam/
+url_ignore: /ar/net/conversion/ppsm-to-xlam/
 family: total
 platformtag: net
 feature: conversion

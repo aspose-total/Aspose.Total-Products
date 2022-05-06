@@ -1,7 +1,7 @@
 ---
 title: .NET API pro převod DOC do XLSM
 description: C# API pro převod DOC do XLSM bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/doc-to-xlsm/
+url_ignore: /cs/net/conversion/doc-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

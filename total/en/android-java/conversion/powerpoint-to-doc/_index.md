@@ -1,7 +1,7 @@
 ---
 title: Export POWERPOINT to DOC on Andorid via Java  
 description: Convert POWERPOINT to DOC in mobile apps without installing any software 
-url: /android-java/conversion/powerpoint-to-doc/
+url_ignore: /android-java/conversion/powerpoint-to-doc/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: MDをXAMLFLOWにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してMDをXAMLFLOWに変換する
-url: /ja/java/conversion/md-to-xamlflow/
+url_ignore: /ja/java/conversion/md-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

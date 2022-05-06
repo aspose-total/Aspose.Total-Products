@@ -1,7 +1,7 @@
 ---
 title: MD'yi OTT'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak MD'yi OTT'ye dönüştürün
-url: /tr/java/conversion/md-to-ott/
+url_ignore: /tr/java/conversion/md-to-ott/
 family: total
 platformtag: net
 feature: conversion

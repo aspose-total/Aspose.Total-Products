@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla PDF'yi IMAGE'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan PDF dosyasını Java uygulamalarınızda IMAGE'ye aktarın
-url: /tr/java/conversion/pdf-to-image/
+url_ignore: /tr/java/conversion/pdf-to-image/
 family: total
 platformtag: net
 feature: conversion

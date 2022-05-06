@@ -1,7 +1,7 @@
 ---
 title: Convert FLATOPC to POWERPOINT via C++
 description: Export FLATOPC to POWERPOINT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/flatopc-to-powerpoint/
+url_ignore: /cpp/conversion/flatopc-to-powerpoint/
 family: total
 platformtag: cpp
 feature: conversion

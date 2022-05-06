@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير SVG إلى RTF
 description: تحويل SVG إلى RTF دون استخدام Microsoft Word
-url: /ar/net/conversion/svg-to-rtf/
+url_ignore: /ar/net/conversion/svg-to-rtf/
 family: total
 platformtag: net
 feature: conversion

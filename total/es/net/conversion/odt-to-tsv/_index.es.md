@@ -1,7 +1,7 @@
 ---
 title: API .NET para convertir ODT a TSV
 description: API de C# para convertir ODT a TSV sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/odt-to-tsv/
+url_ignore: /es/net/conversion/odt-to-tsv/
 family: total
 platformtag: net
 feature: conversion

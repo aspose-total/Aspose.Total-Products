@@ -1,7 +1,7 @@
 ---
 title: Java経由でEMLXをTEXTにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにEMLXをTEXTに変換するJavaAPI
-url: /ja/java/conversion/emlx-to-text/
+url_ignore: /ja/java/conversion/emlx-to-text/
 family: total
 platformtag: net
 feature: conversion

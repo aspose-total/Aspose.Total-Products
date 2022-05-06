@@ -1,7 +1,7 @@
 ---
 title: PSをDOCMにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してPSをDOCMに変換する
-url: /ja/java/conversion/ps-to-docm/
+url_ignore: /ja/java/conversion/ps-to-docm/
 family: total
 platformtag: net
 feature: conversion

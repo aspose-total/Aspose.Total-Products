@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to DIF in C++
 description: C++ API to Convert WORDML to DIF without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/wordml-to-dif/
+url_ignore: /cpp/conversion/wordml-to-dif/
 family: total
 platformtag: cpp
 feature: conversion

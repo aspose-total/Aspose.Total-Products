@@ -1,7 +1,7 @@
 ---
 title: Convert PPT to XLTM via C++ 
 description: Export PPT to XLTM in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/ppt-to-xltm/
+url_ignore: /cpp/conversion/ppt-to-xltm/
 family: total
 platformtag: cpp
 feature: conversion

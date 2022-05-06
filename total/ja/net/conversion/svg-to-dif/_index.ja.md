@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してSVGをDIFに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにSVGファイルをDIFに変換するC＃API
-url: /ja/net/conversion/svg-to-dif/
+url_ignore: /ja/net/conversion/svg-to-dif/
 family: total
 platformtag: net
 feature: conversion

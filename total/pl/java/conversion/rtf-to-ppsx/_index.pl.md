@@ -1,7 +1,7 @@
 ---
 title: Konwertuj RTF na PPSX za pomocą Javy
 description: Java API do eksportu RTF do PPSX bez użycia Microsoft Word lub PowerPoint
-url: /pl/java/conversion/rtf-to-ppsx/
+url_ignore: /pl/java/conversion/rtf-to-ppsx/
 family: total
 platformtag: net
 feature: conversion
@@ -16,8 +16,8 @@ Często programiści muszą programowo przekonwertować plik RTF na PPSX. Korzys
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak przekonwertować RTF na PPSX za pomocą Javy?" %}}
-1. Otwórz plik RTF za pomocą klasy [Rtfument](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument)
-2. Przekonwertuj plik RTF na HTML za pomocą [save](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument#save(java.lang.String,com.aspose.words.SaveOptions))) metoda
+1. Otwórz plik RTF za pomocą klasy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. Przekonwertuj plik RTF na HTML za pomocą [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) metoda
 3. Zainicjuj nowy obiekt [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Wyodrębnij zawartość z pliku HTML za pomocą BufferedReader i zapisz zawartość w pliku prezentacji
 6. Zapisz dokument w PPSX za pomocą metody [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

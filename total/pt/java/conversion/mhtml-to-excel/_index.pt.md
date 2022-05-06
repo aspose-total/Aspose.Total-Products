@@ -1,7 +1,7 @@
 ---
 title: API Java para renderizar MHTML para EXCEL
 description: Exporte MHTML para EXCEL via API Java sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/java/conversion/mhtml-to-excel/
+url_ignore: /pt/java/conversion/mhtml-to-excel/
 family: total
 platformtag: net
 feature: conversion

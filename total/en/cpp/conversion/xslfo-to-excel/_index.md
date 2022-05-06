@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XSLFO to EXCEL
 description: Convert XSLFO to EXCEL via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xslfo-to-excel/
+url_ignore: /cpp/conversion/xslfo-to-excel/
 family: total
 platformtag: cpp
 feature: conversion

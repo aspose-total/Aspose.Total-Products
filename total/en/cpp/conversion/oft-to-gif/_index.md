@@ -1,7 +1,7 @@
 ---
 title: Export OFT to GIF via C++
 description: C++ API to Convert OFT to GIF without using Microsoft Word or Outlook
-url: /cpp/conversion/oft-to-gif/
+url_ignore: /cpp/conversion/oft-to-gif/
 family: total
 platformtag: cpp
 feature: conversion

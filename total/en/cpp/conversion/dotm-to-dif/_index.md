@@ -1,7 +1,7 @@
 ---
 title: Convert DOTM to DIF in C++
 description: C++ API to Convert DOTM to DIF without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/dotm-to-dif/
+url_ignore: /cpp/conversion/dotm-to-dif/
 family: total
 platformtag: cpp
 feature: conversion

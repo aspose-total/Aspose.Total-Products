@@ -1,7 +1,7 @@
 ---
 title: Export MHTML to POT via C# API
 description: .NET API to Convert MHTML to POT without using Microsoft Word
-url: /net/conversion/mhtml-to-pot/
+url_ignore: /net/conversion/mhtml-to-pot/
 family: total
 platformtag: net
 feature: conversion

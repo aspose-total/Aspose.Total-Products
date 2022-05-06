@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất CGM sang GIF
 description: Chuyển đổi CGM sang GIF mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/cgm-to-gif/
+url_ignore: /vi/net/conversion/cgm-to-gif/
 family: total
 platformtag: net
 feature: conversion

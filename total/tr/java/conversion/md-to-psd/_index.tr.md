@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla MD'yi PSD'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan MD dosyasını Java uygulamalarınızda PSD'ye aktarın
-url: /tr/java/conversion/md-to-psd/
+url_ignore: /tr/java/conversion/md-to-psd/
 family: total
 platformtag: net
 feature: conversion

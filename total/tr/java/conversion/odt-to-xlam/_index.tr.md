@@ -1,7 +1,7 @@
 ---
 title: ODT'yi XLAM'ye Dönüştürmek için Java API
 description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla ODT'yi XLAM'ye dönüştürün
-url: /tr/java/conversion/odt-to-xlam/
+url_ignore: /tr/java/conversion/odt-to-xlam/
 family: total
 platformtag: net
 feature: conversion

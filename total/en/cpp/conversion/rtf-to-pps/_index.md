@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to PPS via C++
 description: Export RTF to PPS in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/rtf-to-pps/
+url_ignore: /cpp/conversion/rtf-to-pps/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: PDF'yi WORDML'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak PDF'yi WORDML'ye dönüştürün
-url: /tr/java/conversion/pdf-to-wordml/
+url_ignore: /tr/java/conversion/pdf-to-wordml/
 family: total
 platformtag: net
 feature: conversion

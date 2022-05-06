@@ -1,7 +1,7 @@
 ---
 title: Convert PPTX to MARKDOWN via C++ 
 description: Export PPTX to MARKDOWN in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pptx-to-markdown/
+url_ignore: /cpp/conversion/pptx-to-markdown/
 family: total
 platformtag: cpp
 feature: conversion

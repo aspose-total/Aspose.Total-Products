@@ -1,7 +1,7 @@
 ---
 title: API .NET para converter DOCX para FODS
 description: API C# para converter DOCX para FODS sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/docx-to-fods/
+url_ignore: /pt/net/conversion/docx-to-fods/
 family: total
 platformtag: net
 feature: conversion
@@ -18,10 +18,10 @@ Ao usar o [Aspose.Total for .NET](https://products.aspose.com/total/net/) você 
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET para converter DOCX para FODS" %}}
-1. Abra o arquivo DOCX usando a classe [Docxument](https://apireference.aspose.com/words/net/aspose.words/docxument)
-2. Converta DOCX para HTML usando o método [Salvar](https://apireference.aspose.com/words/net/aspose.words.docxument/save/methods/4)
-3. Carregue o docxumento HTML usando a classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Salve o docxumento no formato FODS usando o método [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) e defina "FODS" como SaveFormat
+1. Abra o arquivo DOCX usando a classe [Document](https://apireference.aspose.com/words/net/aspose.words/Document)
+2. Converta DOCX para HTML usando o método [Salvar](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4)
+3. Carregue o Documento HTML usando a classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+4. Salve o Documento no formato FODS usando o método [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) e defina "FODS" como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
@@ -38,17 +38,16 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Carregar docxumento DOCX do fluxo via C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) também permite carregar docxumentos DOCX via stream. Para abrir um docxumento de um stream, basta passar um objeto stream que contém o docxumento para o construtor [Docxument](https://apireference.aspose.com/words/net/aspose.words/docxument). O exemplo de código a seguir mostra como abrir um docxumento de um fluxo:  
+{{% blocks/products/pf/feature-page-section  h2="Carregar Documento DOCX do fluxo via C#" %}}
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) também permite carregar Documentos DOCX via stream. Para abrir um Documento de um stream, basta passar um objeto stream que contém o Documento para o construtor [Document](https://apireference.aspose.com/words/net/aspose.words/Document). O exemplo de código a seguir mostra como abrir um Documento de um fluxo:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Adicionar propriedades personalizadas no arquivo FODS via C#" %}}
-Ao converter DOCX para FODS, o [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) permite adicionar propriedades personalizadas em seus docxumentos FODS. Para adicionar uma propriedade personalizada, você pode usar o método [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocxumentpropertycollection/methods/add/index) para o método [CustomDocxumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocxumentpropertycollection) classe. O método Add adiciona a propriedade ao arquivo Excel e retorna uma referência para a nova propriedade do docxumento como um [Aspose.Cells.Properties.DocxumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /docxumentproperty) objeto. 
+Ao converter DOCX para FODS, o [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) permite adicionar propriedades personalizadas em seus Documentos FODS. Para adicionar uma propriedade personalizada, você pode usar o método [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index) para o método [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection) classe. O método Add adiciona a propriedade ao arquivo Excel e retorna uma referência para a nova propriedade do Documento como um [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /Documentproperty) objeto. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

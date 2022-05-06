@@ -1,7 +1,7 @@
 ---
 title: Export MSG to ODT via Java 
 description: Java API to Convert MSG to ODT without using Microsoft Word or Outlook 
-url: /java/conversion/msg-to-odt/
+url_ignore: /java/conversion/msg-to-odt/
 family: total
 platformtag: java
 feature: conversion

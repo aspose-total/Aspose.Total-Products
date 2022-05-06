@@ -1,6 +1,6 @@
 ---
 title: Преобразование POTX в FLATOPC через C# .NET 
-url: /ru/net/conversion/potx-to-flatopc/ 
+url_ignore: /ru/net/conversion/potx-to-flatopc/ 
 description: Преобразование документов PowerPoint potx в файлы документов Word с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

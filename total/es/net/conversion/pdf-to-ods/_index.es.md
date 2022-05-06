@@ -1,7 +1,7 @@
 ---
 title: Convierta PDF a ODS a través de la API de C#
 description: API C# para convertir archivos PDF a ODS sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/pdf-to-ods/
+url_ignore: /es/net/conversion/pdf-to-ods/
 family: total
 platformtag: net
 feature: conversion

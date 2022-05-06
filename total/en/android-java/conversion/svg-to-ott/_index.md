@@ -1,7 +1,7 @@
 ---
 title: Android API to Render SVG to OTT
 description: Transform SVG to OTT via Android via Java API
-url: /android-java/conversion/svg-to-ott/
+url_ignore: /android-java/conversion/svg-to-ott/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export MSG to PNG via C++
 description: C++ API to Convert MSG to PNG without using Microsoft Word or Outlook
-url: /cpp/conversion/msg-to-png/
+url_ignore: /cpp/conversion/msg-to-png/
 family: total
 platformtag: cpp
 feature: conversion

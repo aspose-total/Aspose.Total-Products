@@ -1,7 +1,7 @@
 ---
 title: Convert XLS to DOCX using Java 
 description: Java API to Export XLS to DOCX with using Excel or Word 
-url: /java/conversion/xls-to-docx/
+url_ignore: /java/conversion/xls-to-docx/
 family: total
 platformtag: java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Android API to Render SVG to DOTM
 description: Transform SVG to DOTM via Android via Java API
-url: /android-java/conversion/svg-to-dotm/
+url_ignore: /android-java/conversion/svg-to-dotm/
 family: total
 platformtag: android-java
 feature: conversion

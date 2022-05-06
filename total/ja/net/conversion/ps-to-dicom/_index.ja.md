@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPSをDICOMに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでPSをDICOMにエクスポートします
-url: /ja/net/conversion/ps-to-dicom/
+url_ignore: /ja/net/conversion/ps-to-dicom/
 family: total
 platformtag: net
 feature: conversion

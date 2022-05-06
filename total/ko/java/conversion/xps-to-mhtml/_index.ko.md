@@ -1,7 +1,7 @@
 ---
 title: XPS을 MHTML으로 내보내기 위한 Java API
 description: 온프레미스 Java API를 사용하여 XPS을 MHTML으로 변환
-url: /ko/java/conversion/xps-to-mhtml/
+url_ignore: /ko/java/conversion/xps-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

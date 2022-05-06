@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PCL to DOT
 description: Transform PCL to DOT via Android via Java API
-url: /android-java/conversion/pcl-to-dot/
+url_ignore: /android-java/conversion/pcl-to-dot/
 family: total
 platformtag: android-java
 feature: conversion

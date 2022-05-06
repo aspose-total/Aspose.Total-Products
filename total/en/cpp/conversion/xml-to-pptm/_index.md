@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XML to PPTM  
 description: Convert XML to PPTM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xml-to-pptm/
+url_ignore: /cpp/conversion/xml-to-pptm/
 family: total
 platformtag: cpp
 feature: conversion

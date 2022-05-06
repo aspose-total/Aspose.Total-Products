@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PCL to OTP  
 description: Convert PCL to OTP via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/pcl-to-otp/
+url_ignore: /cpp/conversion/pcl-to-otp/
 family: total
 platformtag: cpp
 feature: conversion

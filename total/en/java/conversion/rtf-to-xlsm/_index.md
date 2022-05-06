@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert RTF to XLSM
 description: Convert RTF to XLSM via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/rtf-to-xlsm/
+url_ignore: /java/conversion/rtf-to-xlsm/
 family: total
 platformtag: java
 feature: conversion

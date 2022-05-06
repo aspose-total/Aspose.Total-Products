@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert RTF to XLS
 description: Convert RTF to XLS via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/rtf-to-xls/
+url_ignore: /java/conversion/rtf-to-xls/
 family: total
 platformtag: java
 feature: conversion

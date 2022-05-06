@@ -1,6 +1,6 @@
 ---
 title: Convert PPT to DOC via C# .NET 
-url: /net/conversion/ppt-to-doc/ 
+url_ignore: /net/conversion/ppt-to-doc/ 
 description: Convert PowerPoint ppt documents to Word doc files with C#. Convert multiple files within ASP.NET or other .NET applications.
 ---
 

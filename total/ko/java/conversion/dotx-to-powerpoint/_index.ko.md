@@ -1,7 +1,7 @@
 ---
 title: Java를 통해 DOTX를 POWERPOINT로 변환
 description: Microsoft Word 또는 PowerPoint를 사용하지 않고 DOTX를 POWERPOINT로 내보내는 Java API
-url: /ko/java/conversion/dotx-to-powerpoint/
+url_ignore: /ko/java/conversion/dotx-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion
@@ -16,8 +16,8 @@ otherformats: POT PPTM POWERPOINT PPT POTM PPSX PPSM PPTX POTX PPS CSV DIF FODS 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java를 통해 DOTX를 POWERPOINT로 변환하는 방법" %}}
-1. [Dotxument](https://apireference.aspose.com/words/java/com.aspose.words/Dotxument) 클래스를 사용하여 DOTX 파일을 엽니다.
-2. [저장](https://apireference.aspose.com/words/java/com.aspose.words/Dotxument#save(java.lang.String,com.aspose.words.SaveOptions)을 사용하여 DOTX 파일을 HTML로 변환합니다.)) 방법
+1. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) 클래스를 사용하여 DOTX 파일을 엽니다.
+2. [저장](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)을 사용하여 DOTX 파일을 HTML로 변환합니다.)) 방법
 3. 새로운 [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) 객체 초기화
 5. BufferedReader를 사용하여 HTML 파일에서 콘텐츠를 추출하고 프레젠테이션 파일에 콘텐츠를 작성합니다.
 6. [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) 메서드를 사용하여 문서를 POWERPOINT에 저장합니다.
@@ -35,7 +35,7 @@ DOTX에서 POWERPOINT로 파일 변환을 위해 [Maven](https://repository.aspo
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="변환 요구 사항" %}}
-API를 사용하면 암호로 보호된 DOTX 문서를 POWERPOINT로 변환할 수도 있습니다. 입력한 DOTX 문서가 비밀번호로 보호되어 있는 경우 비밀번호를 사용하지 않고는 POWERPOINT 형식으로 변환할 수 없습니다. 암호화된 문서를 열려면 LoadOptions 개체에 올바른 암호를 설정하고 이를 Dotxument 생성자에 전달할 수 있습니다.  
+API를 사용하면 암호로 보호된 DOTX 문서를 POWERPOINT로 변환할 수도 있습니다. 입력한 DOTX 문서가 비밀번호로 보호되어 있는 경우 비밀번호를 사용하지 않고는 POWERPOINT 형식으로 변환할 수 없습니다. 암호화된 문서를 열려면 LoadOptions 개체에 올바른 암호를 설정하고 이를 Document 생성자에 전달할 수 있습니다.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dotx-to-pptx.java" >}}

@@ -1,7 +1,7 @@
 ---
 title: EPUB'yi FLATOPC'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan EPUB'yi FLATOPC'ye dönüştürün
-url: /tr/net/conversion/epub-to-flatopc/
+url_ignore: /tr/net/conversion/epub-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

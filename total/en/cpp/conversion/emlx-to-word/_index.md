@@ -1,7 +1,7 @@
 ---
 title: Export EMLX to WORD via C++
 description: C++ API to Convert EMLX to WORD without using Microsoft Word or Outlook
-url: /cpp/conversion/emlx-to-word/
+url_ignore: /cpp/conversion/emlx-to-word/
 family: total
 platformtag: cpp
 feature: conversion

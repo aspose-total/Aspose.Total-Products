@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to SXC in C++
 description: C++ API to Convert WORD to SXC without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/word-to-sxc/
+url_ignore: /cpp/conversion/word-to-sxc/
 family: total
 platformtag: cpp
 feature: conversion

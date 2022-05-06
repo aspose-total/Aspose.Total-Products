@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση XPS σε XLSM
 description: Εξαγωγή XPS σε XLSM μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/xps-to-xlsm/
+url_ignore: /el/java/conversion/xps-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

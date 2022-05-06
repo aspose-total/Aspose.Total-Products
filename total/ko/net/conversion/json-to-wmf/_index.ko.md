@@ -1,7 +1,7 @@
 ---
 title: .NET을 통해 JSON 형식을 WMF로 변환
 description: 타사 종속성을 사용하지 않고 C#에서 JSON을 WMF로 구문 분석
-url: /ko/net/conversion/json-to-wmf/
+url_ignore: /ko/net/conversion/json-to-wmf/
 family: total
 platformtag: net
 feature: conversion

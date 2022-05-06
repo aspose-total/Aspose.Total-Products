@@ -1,7 +1,7 @@
 ---
 title: Export PDF to POTM in Android 
 description: Android API to Convert PDF to POTM without using Microsoft Word
-url: /android-java/conversion/pdf-to-potm/
+url_ignore: /android-java/conversion/pdf-to-potm/
 family: total
 platformtag: android-java
 feature: conversion

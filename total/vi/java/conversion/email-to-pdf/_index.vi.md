@@ -1,7 +1,7 @@
 ---
 title: Xuất EMAIL sang PDF qua Java
 description: Java API để chuyển đổi EMAIL thành PDF mà không cần sử dụng Microsoft Word hoặc Outlook
-url: /vi/java/conversion/email-to-pdf/
+url_ignore: /vi/java/conversion/email-to-pdf/
 family: total
 platformtag: net
 feature: conversion

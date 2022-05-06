@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PPTM na format XLSB za pomocą Java
 description: Konwertuj PPTM do formatu XLSB za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint
-url: /pl/java/conversion/pptm-to-xlsb/
+url_ignore: /pl/java/conversion/pptm-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: MD'yi DOTM'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan MD'yi DOTM'ye dönüştürün
-url: /tr/net/conversion/md-to-dotm/
+url_ignore: /tr/net/conversion/md-to-dotm/
 family: total
 platformtag: net
 feature: conversion

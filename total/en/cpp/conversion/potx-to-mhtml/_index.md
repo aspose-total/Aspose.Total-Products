@@ -1,7 +1,7 @@
 ---
 title: Convert POTX to MHTML via C++ 
 description: Export POTX to MHTML in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/potx-to-mhtml/
+url_ignore: /cpp/conversion/potx-to-mhtml/
 family: total
 platformtag: cpp
 feature: conversion

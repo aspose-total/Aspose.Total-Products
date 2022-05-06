@@ -1,7 +1,7 @@
 ---
 title: Экспорт EML в FLATOPC через Java
 description: Java API для преобразования EML в FLATOPC без использования Microsoft Word или Outlook
-url: /ru/java/conversion/eml-to-flatopc/
+url_ignore: /ru/java/conversion/eml-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export EPUB to XAMLFLOW
 description: Convert EPUB to XAMLFLOW within C++ applications.
-url: /cpp/conversion/epub-to-xamlflow/
+url_ignore: /cpp/conversion/epub-to-xamlflow/
 family: total
 platformtag: cpp
 feature: conversion

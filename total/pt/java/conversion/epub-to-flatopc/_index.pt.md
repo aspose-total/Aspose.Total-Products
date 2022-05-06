@@ -1,7 +1,7 @@
 ---
 title: API Java para exportar EPUB para FLATOPC
 description: Converter EPUB para FLATOPC usando a API Java local
-url: /pt/java/conversion/epub-to-flatopc/
+url_ignore: /pt/java/conversion/epub-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

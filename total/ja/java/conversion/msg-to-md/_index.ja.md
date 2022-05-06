@@ -1,7 +1,7 @@
 ---
 title: Java経由でMSGをMDにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにMSGをMDに変換するJavaAPI
-url: /ja/java/conversion/msg-to-md/
+url_ignore: /ja/java/conversion/msg-to-md/
 family: total
 platformtag: net
 feature: conversion

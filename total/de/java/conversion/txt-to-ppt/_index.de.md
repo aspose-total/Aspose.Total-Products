@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie TXT über Java in PPT
 description: Java-API zum Exportieren von TXT in PPT, ohne Microsoft Word oder PowerPoint zu verwenden
-url: /de/java/conversion/txt-to-ppt/
+url_ignore: /de/java/conversion/txt-to-ppt/
 family: total
 platformtag: net
 feature: conversion

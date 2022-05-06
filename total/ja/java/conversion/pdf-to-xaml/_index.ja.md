@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してPDFをXAMLに変換する
 description: MicrosoftWordを使用せずにPDFをXAMLに変換するJavaAPI
-url: /ja/java/conversion/pdf-to-xaml/
+url_ignore: /ja/java/conversion/pdf-to-xaml/
 family: total
 platformtag: net
 feature: conversion

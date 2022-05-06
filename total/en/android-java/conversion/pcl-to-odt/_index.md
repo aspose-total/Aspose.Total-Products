@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PCL to ODT
 description: Transform PCL to ODT via Android via Java API
-url: /android-java/conversion/pcl-to-odt/
+url_ignore: /android-java/conversion/pcl-to-odt/
 family: total
 platformtag: android-java
 feature: conversion

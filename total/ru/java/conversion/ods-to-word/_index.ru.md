@@ -1,7 +1,7 @@
 ---
 title: Преобразование ODS в WORD с помощью Java
 description: Java API для экспорта ODS в WORD с использованием Excel или Word
-url: /ru/java/conversion/ods-to-word/
+url_ignore: /ru/java/conversion/ods-to-word/
 family: total
 platformtag: net
 feature: conversion

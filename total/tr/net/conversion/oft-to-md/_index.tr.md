@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı MD'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan OFT'i MD'ye dönüştürün
-url: /tr/net/conversion/oft-to-md/
+url_ignore: /tr/net/conversion/oft-to-md/
 family: total
 platformtag: net
 feature: conversion

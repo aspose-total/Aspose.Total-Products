@@ -1,7 +1,7 @@
 ---
 title: TEXをMHTMLにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにTEXをMHTMLに変換する
-url: /ja/net/conversion/tex-to-mhtml/
+url_ignore: /ja/net/conversion/tex-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: PDFをXAMLFLOWにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにPDFをXAMLFLOWに変換する
-url: /ja/net/conversion/pdf-to-xamlflow/
+url_ignore: /ja/net/conversion/pdf-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

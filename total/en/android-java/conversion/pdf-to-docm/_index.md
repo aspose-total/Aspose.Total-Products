@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PDF to DOCM
 description: Transform PDF to DOCM via Android via Java API
-url: /android-java/conversion/pdf-to-docm/
+url_ignore: /android-java/conversion/pdf-to-docm/
 family: total
 platformtag: android-java
 feature: conversion

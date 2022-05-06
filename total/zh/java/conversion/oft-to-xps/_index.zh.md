@@ -1,7 +1,7 @@
 ---
 title: 通过 Java 将 OFT 导出为 XPS
 description: 无需使用 Microsoft Word 或 Outlook 即可将 OFT 转换为 XPS 的 Java API
-url: /zh/java/conversion/oft-to-xps/
+url_ignore: /zh/java/conversion/oft-to-xps/
 family: total
 platformtag: net
 feature: conversion

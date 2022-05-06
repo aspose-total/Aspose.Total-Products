@@ -1,7 +1,7 @@
 ---
 title: Ekspor EML ke IMAGE melalui Java
 description: Java API untuk Mengonversi EML ke IMAGE tanpa menggunakan Microsoft Word atau Outlook
-url: /id/java/conversion/eml-to-image/
+url_ignore: /id/java/conversion/eml-to-image/
 family: total
 platformtag: net
 feature: conversion

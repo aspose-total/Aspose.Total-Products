@@ -1,7 +1,7 @@
 ---
 title: Převeďte formát JSON na TGA přes .NET
 description: Analyzujte JSON na TGA v C# bez použití závislostí třetích stran
-url: /cs/net/conversion/json-to-tga/
+url_ignore: /cs/net/conversion/json-to-tga/
 family: total
 platformtag: net
 feature: conversion

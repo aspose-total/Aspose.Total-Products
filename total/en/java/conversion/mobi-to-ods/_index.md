@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert MOBI to ODS
 description: Convert MOBI to ODS via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/mobi-to-ods/
+url_ignore: /java/conversion/mobi-to-ods/
 family: total
 platformtag: java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export TEX to PPSX in Android 
 description: Android API to Convert TEX to PPSX without using Microsoft Word
-url: /android-java/conversion/tex-to-ppsx/
+url_ignore: /android-java/conversion/tex-to-ppsx/
 family: total
 platformtag: android-java
 feature: conversion

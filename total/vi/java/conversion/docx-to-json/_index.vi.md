@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi định dạng DOCX sang JSON qua Java
 description: Chuyển đổi định dạng DOCX sang JSON qua Java mà không cần sử dụng Microsoft Word hoặc Microsoft Excel
-url: /vi/java/conversion/docx-to-json/
+url_ignore: /vi/java/conversion/docx-to-json/
 family: total
 platformtag: net
 feature: conversion
@@ -17,9 +17,9 @@ Chuyển đổi định dạng DOCX sang JSON thông qua [Aspose.Total for Java]
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi định dạng DOCX sang JSON qua Java" %}}
 1. Mở tệp DOCX bằng lớp [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-2. Chuyển đổi DOCX sang HTML bằng cách sử dụng [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String, com.aspose.words.SaveOptions) ) phương pháp
+2. Chuyển đổi DOCX sang HTML bằng cách sử dụng [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) phương pháp
 3. Tải tài liệu HTML bằng cách sử dụng lớp [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Lưu tài liệu sang định dạng JSON bằng cách sử dụng [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells).SaveOptions)) Phương thức 
+4. Lưu tài liệu sang định dạng JSON bằng cách sử dụng [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells)).SaveOptions)) Phương thức 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
 Bạn có thể dễ dàng sử dụng Aspose.Total for Java trực tiếp từ dự án dựa trên [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và bao gồm các thư viện trong pom.xml của bạn.

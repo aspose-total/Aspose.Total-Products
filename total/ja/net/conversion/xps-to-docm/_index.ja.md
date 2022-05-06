@@ -1,7 +1,7 @@
 ---
 title: XPSをDOCMにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにXPSをDOCMに変換する
-url: /ja/net/conversion/xps-to-docm/
+url_ignore: /ja/net/conversion/xps-to-docm/
 family: total
 platformtag: net
 feature: conversion

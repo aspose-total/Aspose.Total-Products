@@ -1,7 +1,7 @@
 ---
 title: CGM'yi GIF'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak CGM'yi GIF'ye dönüştürün
-url: /tr/java/conversion/cgm-to-gif/
+url_ignore: /tr/java/conversion/cgm-to-gif/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to ODP in Android via Java
 description: RTF to ODP conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/rtf-to-odp/
+url_ignore: /android-java/conversion/rtf-to-odp/
 family: total
 platformtag: android-java
 feature: conversion

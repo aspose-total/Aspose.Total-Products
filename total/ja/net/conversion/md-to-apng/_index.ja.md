@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMDをAPNGに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでMDをAPNGにエクスポートします
-url: /ja/net/conversion/md-to-apng/
+url_ignore: /ja/net/conversion/md-to-apng/
 family: total
 platformtag: net
 feature: conversion

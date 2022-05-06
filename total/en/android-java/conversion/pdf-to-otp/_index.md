@@ -1,7 +1,7 @@
 ---
 title: Export PDF to OTP in Android 
 description: Android API to Convert PDF to OTP without using Microsoft Word
-url: /android-java/conversion/pdf-to-otp/
+url_ignore: /android-java/conversion/pdf-to-otp/
 family: total
 platformtag: android-java
 feature: conversion

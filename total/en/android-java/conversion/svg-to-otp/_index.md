@@ -1,7 +1,7 @@
 ---
 title: Export SVG to OTP in Android 
 description: Android API to Convert SVG to OTP without using Microsoft Word
-url: /android-java/conversion/svg-to-otp/
+url_ignore: /android-java/conversion/svg-to-otp/
 family: total
 platformtag: android-java
 feature: conversion

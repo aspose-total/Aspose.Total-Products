@@ -1,7 +1,7 @@
 ---
 title: Convert POTM to MARKDOWN via C++ 
 description: Export POTM to MARKDOWN in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/potm-to-markdown/
+url_ignore: /cpp/conversion/potm-to-markdown/
 family: total
 platformtag: cpp
 feature: conversion

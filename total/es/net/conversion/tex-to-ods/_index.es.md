@@ -1,7 +1,7 @@
 ---
 title: Convierta TEX a ODS a través de la API de C#
 description: API C# para convertir archivos TEX a ODS sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/tex-to-ods/
+url_ignore: /es/net/conversion/tex-to-ods/
 family: total
 platformtag: net
 feature: conversion

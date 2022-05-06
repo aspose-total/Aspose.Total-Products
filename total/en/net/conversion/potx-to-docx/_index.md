@@ -1,6 +1,6 @@
 ---
 title: Convert POTX to DOCX via C# .NET 
-url: /net/conversion/potx-to-docx/ 
+url_ignore: /net/conversion/potx-to-docx/ 
 description: Convert PowerPoint potx documents to Word docx files with C#. Convert multiple files within ASP.NET or other .NET applications.
 ---
 

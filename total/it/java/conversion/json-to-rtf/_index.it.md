@@ -1,7 +1,7 @@
 ---
 title: Converti il formato JSON in RTF tramite Java
 description: Analizza JSON in RTF in Java senza utilizzare Microsoft Word
-url: /it/java/conversion/json-to-rtf/
+url_ignore: /it/java/conversion/json-to-rtf/
 family: total
 platformtag: net
 feature: conversion

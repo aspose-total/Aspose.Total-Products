@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi định dạng JSON sang WORDML qua .NET
 description: Phân tích cú pháp JSON thành WORDML trong C# mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/json-to-wordml/
+url_ignore: /vi/net/conversion/json-to-wordml/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export EMLX to PCL via C++
 description: C++ API to Convert EMLX to PCL without using Microsoft Word or Outlook
-url: /cpp/conversion/emlx-to-pcl/
+url_ignore: /cpp/conversion/emlx-to-pcl/
 family: total
 platformtag: cpp
 feature: conversion

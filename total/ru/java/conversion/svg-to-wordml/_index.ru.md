@@ -1,7 +1,7 @@
 ---
 title: Java API для экспорта SVG в WORDML
 description: Преобразование SVG в WORDML с использованием локального Java API
-url: /ru/java/conversion/svg-to-wordml/
+url_ignore: /ru/java/conversion/svg-to-wordml/
 family: total
 platformtag: net
 feature: conversion

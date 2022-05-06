@@ -1,7 +1,7 @@
 ---
 title: Преобразование PDF в PSD через Java
 description: Экспорт файла PDF в PSD в ваших приложениях Java без использования каких-либо сторонних приложений.
-url: /ru/java/conversion/pdf-to-psd/
+url_ignore: /ru/java/conversion/pdf-to-psd/
 family: total
 platformtag: net
 feature: conversion

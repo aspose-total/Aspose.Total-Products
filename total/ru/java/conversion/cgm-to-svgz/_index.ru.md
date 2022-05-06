@@ -1,7 +1,7 @@
 ---
 title: Преобразование CGM в SVGZ через Java
 description: Экспорт файла CGM в SVGZ в ваших приложениях Java без использования каких-либо сторонних приложений.
-url: /ru/java/conversion/cgm-to-svgz/
+url_ignore: /ru/java/conversion/cgm-to-svgz/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга PCL в EXCEL
 description: Экспорт PCL в EXCEL через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/pcl-to-excel/
+url_ignore: /ru/java/conversion/pcl-to-excel/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта PCL в ODT
 description: Преобразование PCL в ODT без использования Microsoft Word
-url: /ru/net/conversion/pcl-to-odt/
+url_ignore: /ru/net/conversion/pcl-to-odt/
 family: total
 platformtag: net
 feature: conversion

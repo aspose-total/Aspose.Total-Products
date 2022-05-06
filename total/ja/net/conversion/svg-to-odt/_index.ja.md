@@ -1,7 +1,7 @@
 ---
 title: SVGをODTにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにSVGをODTに変換する
-url: /ja/net/conversion/svg-to-odt/
+url_ignore: /ja/net/conversion/svg-to-odt/
 family: total
 platformtag: net
 feature: conversion

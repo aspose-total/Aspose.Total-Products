@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení EPUB do FODS
 description: Export EPUB do FODS přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/epub-to-fods/
+url_ignore: /cs/java/conversion/epub-to-fods/
 family: total
 platformtag: net
 feature: conversion

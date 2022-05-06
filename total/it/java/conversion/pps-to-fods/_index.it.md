@@ -1,7 +1,7 @@
 ---
 title: Converti PPS in formato FODS tramite Java
 description: Converti PPS in formato FODS tramite Java senza utilizzare Microsoft Excel o PowerPoint
-url: /it/java/conversion/pps-to-fods/
+url_ignore: /it/java/conversion/pps-to-fods/
 family: total
 platformtag: net
 feature: conversion

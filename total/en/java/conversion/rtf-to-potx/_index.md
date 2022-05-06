@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to POTX via Java
 description: Java API to Export RTF to POTX without using Microsoft Word or PowerPoint
-url: /java/conversion/rtf-to-potx/
+url_ignore: /java/conversion/rtf-to-potx/
 family: total
 platformtag: java
 feature: conversion

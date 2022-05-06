@@ -1,7 +1,7 @@
 ---
 title: Konvertera EPUB till SVGZ via C# API
 description: Exportera EPUB till SVGZ i dina .NET-applikationer utan att använda någon tredjepartsapplikation
-url: /sv/net/conversion/epub-to-svgz/
+url_ignore: /sv/net/conversion/epub-to-svgz/
 family: total
 platformtag: net
 feature: conversion

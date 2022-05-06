@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PS to PPS  
 description: Convert PS to PPS via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/ps-to-pps/
+url_ignore: /cpp/conversion/ps-to-pps/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla MD'yi WMF'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan MD'yi .NET uygulamalarınızda WMF'ye aktarın
-url: /tr/net/conversion/md-to-wmf/
+url_ignore: /tr/net/conversion/md-to-wmf/
 family: total
 platformtag: net
 feature: conversion

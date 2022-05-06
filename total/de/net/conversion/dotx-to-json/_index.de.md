@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie DOTX über .NET in das JSON-Format
 description: Konvertieren Sie DOTX in C# in JSON, ohne Microsoft Excel oder Adobe Reader zu verwenden
-url: /de/net/conversion/dotx-to-json/
+url_ignore: /de/net/conversion/dotx-to-json/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ Durch die Verwendung von [Aspose.Total for .NET](https://products.aspose.com/tot
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertieren Sie DOTX in das JSON-Format über C#" %}}
-1. Öffnen Sie die DOTX-Datei mit der Klasse [Document](https://apireference.aspose.com/words/net/aspose.words/dotxument).
-2. Konvertieren Sie DOTX in HTML, indem Sie die Methode [Save](https://apireference.aspose.com/words/net/aspose.words.dotxument/save/methods/4) verwenden
+1. Öffnen Sie die DOTX-Datei mit der Klasse [Document](https://apireference.aspose.com/words/net/aspose.words/Document).
+2. Konvertieren Sie DOTX in HTML, indem Sie die Methode [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4) verwenden
 3. Laden Sie das HTML-Dokument mithilfe der Klasse [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
 4. Speichern Sie das Dokument mit der Methode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) im JSON-Format
 {{% /blocks/products/pf/agp/feature-section-col %}}

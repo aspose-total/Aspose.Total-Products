@@ -1,7 +1,7 @@
 ---
 title: SVGをODTにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してSVGをODTに変換する
-url: /ja/java/conversion/svg-to-odt/
+url_ignore: /ja/java/conversion/svg-to-odt/
 family: total
 platformtag: net
 feature: conversion

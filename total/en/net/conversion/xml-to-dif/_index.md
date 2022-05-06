@@ -1,7 +1,7 @@
 ---
 title: Convert XML to DIF via C# API
 description: C# API to Convert XML File to DIF without using Microsoft Excel or Adobe Reader
-url: /net/conversion/xml-to-dif/
+url_ignore: /net/conversion/xml-to-dif/
 family: total
 platformtag: net
 feature: conversion

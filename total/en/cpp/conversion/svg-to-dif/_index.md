@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert SVG to DIF
 description: Convert SVG to DIF via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/svg-to-dif/
+url_ignore: /cpp/conversion/svg-to-dif/
 family: total
 platformtag: cpp
 feature: conversion

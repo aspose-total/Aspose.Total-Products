@@ -1,7 +1,7 @@
 ---
 title: Převést PCL na PSD přes Java
 description: Exportujte soubor PCL do PSD ve svých aplikacích Java bez použití jakékoli aplikace třetí strany
-url: /cs/java/conversion/pcl-to-psd/
+url_ignore: /cs/java/conversion/pcl-to-psd/
 family: total
 platformtag: net
 feature: conversion

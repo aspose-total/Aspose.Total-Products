@@ -1,7 +1,7 @@
 ---
 title: Convert DOTM to PPTM via C++
 description: Export DOTM to PPTM in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/dotm-to-pptm/
+url_ignore: /cpp/conversion/dotm-to-pptm/
 family: total
 platformtag: cpp
 feature: conversion

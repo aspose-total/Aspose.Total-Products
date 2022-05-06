@@ -1,7 +1,7 @@
 ---
 title: Převeďte formát JSON na DOT přes .NET
 description: Analyzujte JSON na DOT v C# bez použití Microsoft Word
-url: /cs/net/conversion/json-to-dot/
+url_ignore: /cs/net/conversion/json-to-dot/
 family: total
 platformtag: net
 feature: conversion

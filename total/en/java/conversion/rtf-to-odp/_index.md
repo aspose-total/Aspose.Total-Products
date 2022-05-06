@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to ODP via Java
 description: Java API to Export RTF to ODP without using Microsoft Word or PowerPoint
-url: /java/conversion/rtf-to-odp/
+url_ignore: /java/conversion/rtf-to-odp/
 family: total
 platformtag: java
 feature: conversion

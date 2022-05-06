@@ -1,7 +1,7 @@
 ---
 title: Konwertuj POTX na format SXC za pomocą Java
 description: Konwertuj POTX do formatu SXC za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint
-url: /pl/java/conversion/potx-to-sxc/
+url_ignore: /pl/java/conversion/potx-to-sxc/
 family: total
 platformtag: net
 feature: conversion

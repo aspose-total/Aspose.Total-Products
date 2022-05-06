@@ -1,7 +1,7 @@
 ---
 title: NET API لتحويل ODT إلى XLSB
 description: C# API لتحويل ODT إلى XLSB بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/odt-to-xlsb/
+url_ignore: /ar/net/conversion/odt-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

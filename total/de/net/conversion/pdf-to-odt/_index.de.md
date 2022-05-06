@@ -1,7 +1,7 @@
 ---
 title: C#-API zum Exportieren von PDF nach ODT
 description: Konvertieren Sie PDF in ODT, ohne Microsoft Word zu verwenden
-url: /de/net/conversion/pdf-to-odt/
+url_ignore: /de/net/conversion/pdf-to-odt/
 family: total
 platformtag: net
 feature: conversion

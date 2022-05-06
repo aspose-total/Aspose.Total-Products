@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení PDF do XLT
 description: Export PDF do XLT přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/pdf-to-xlt/
+url_ignore: /cs/java/conversion/pdf-to-xlt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تحويل PPTM إلى XLS عبر C#
 description: قم بتحويل PPTM إلى XLS في C# بدون استخدام Microsoft Excel أو Powerpoint
-url: /ar/net/conversion/pptm-to-xls/
+url_ignore: /ar/net/conversion/pptm-to-xls/
 family: total
 platformtag: net
 feature: conversion

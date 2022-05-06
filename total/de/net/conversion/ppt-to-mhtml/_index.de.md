@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie PPT über C# in MHTML
 description: Konvertieren Sie PPT in C# in MHTML, ohne Microsoft Excel oder Powerpoint zu verwenden
-url: /de/net/conversion/ppt-to-mhtml/
+url_ignore: /de/net/conversion/ppt-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

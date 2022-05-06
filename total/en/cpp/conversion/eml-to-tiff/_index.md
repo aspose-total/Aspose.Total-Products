@@ -1,7 +1,7 @@
 ---
 title: Export EML to TIFF via C++
 description: C++ API to Convert EML to TIFF without using Microsoft Word or Outlook
-url: /cpp/conversion/eml-to-tiff/
+url_ignore: /cpp/conversion/eml-to-tiff/
 family: total
 platformtag: cpp
 feature: conversion

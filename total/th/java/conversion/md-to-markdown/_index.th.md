@@ -1,7 +1,7 @@
 ---
 title: Java API เพื่อส่งออก MD ไปยัง MARKDOWN
 description: แปลง MD เป็น MARKDOWN โดยใช้ Java API . ในตัว
-url: /th/java/conversion/md-to-markdown/
+url_ignore: /th/java/conversion/md-to-markdown/
 family: total
 platformtag: net
 feature: conversion

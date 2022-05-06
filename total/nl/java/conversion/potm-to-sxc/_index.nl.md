@@ -1,7 +1,7 @@
 ---
 title: Converteer POTM naar SXC-formaat via Java
 description: Converteer POTM naar SXC-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken
-url: /nl/java/conversion/potm-to-sxc/
+url_ignore: /nl/java/conversion/potm-to-sxc/
 family: total
 platformtag: net
 feature: conversion

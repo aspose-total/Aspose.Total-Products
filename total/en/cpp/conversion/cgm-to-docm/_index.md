@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export CGM to DOCM
 description: Convert CGM to DOCM within C++ applications.
-url: /cpp/conversion/cgm-to-docm/
+url_ignore: /cpp/conversion/cgm-to-docm/
 family: total
 platformtag: cpp
 feature: conversion

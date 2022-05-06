@@ -1,7 +1,7 @@
 ---
 title: MHTML'yi DOTM'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak MHTML'yi DOTM'ye dönüştürün
-url: /tr/java/conversion/mhtml-to-dotm/
+url_ignore: /tr/java/conversion/mhtml-to-dotm/
 family: total
 platformtag: net
 feature: conversion

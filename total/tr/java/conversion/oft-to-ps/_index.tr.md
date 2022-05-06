@@ -1,7 +1,7 @@
 ---
 title: OFT'i Java aracılığıyla PS'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan OFT'i PS'ye Dönüştürmek için Java API
-url: /tr/java/conversion/oft-to-ps/
+url_ignore: /tr/java/conversion/oft-to-ps/
 family: total
 platformtag: net
 feature: conversion

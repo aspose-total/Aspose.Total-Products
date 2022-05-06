@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してTEXをPOWERPOINTにエクスポートする
 description: MicrosoftWordを使用せずにTEXをPOWERPOINTに変換する.NETAPI
-url: /ja/net/conversion/tex-to-powerpoint/
+url_ignore: /ja/net/conversion/tex-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

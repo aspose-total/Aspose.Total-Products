@@ -1,7 +1,7 @@
 ---
 title: Convierta PS a ODS a través de la API de C#
 description: API C# para convertir archivos PS a ODS sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/ps-to-ods/
+url_ignore: /es/net/conversion/ps-to-ods/
 family: total
 platformtag: net
 feature: conversion

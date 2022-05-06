@@ -1,7 +1,7 @@
 ---
 title: Преобразование CGM в JPEG2000 через Java
 description: Экспорт файла CGM в JPEG2000 в ваших приложениях Java без использования каких-либо сторонних приложений.
-url: /ru/java/conversion/cgm-to-jpeg2000/
+url_ignore: /ru/java/conversion/cgm-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

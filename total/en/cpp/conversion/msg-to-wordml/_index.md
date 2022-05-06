@@ -1,7 +1,7 @@
 ---
 title: Export MSG to WORDML via C++
 description: C++ API to Convert MSG to WORDML without using Microsoft Word or Outlook
-url: /cpp/conversion/msg-to-wordml/
+url_ignore: /cpp/conversion/msg-to-wordml/
 family: total
 platformtag: cpp
 feature: conversion

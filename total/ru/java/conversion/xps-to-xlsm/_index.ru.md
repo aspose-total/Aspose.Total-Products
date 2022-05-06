@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга XPS в XLSM
 description: Экспорт XPS в XLSM через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/xps-to-xlsm/
+url_ignore: /ru/java/conversion/xps-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Преобразование DOTX в PPT через C# .NET 
-url: /ru/net/conversion/dotx-to-ppt/ 
+url_ignore: /ru/net/conversion/dotx-to-ppt/ 
 description: Преобразование документов Word dotx в файлы PowerPoint ppt с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Convert DOTX to CSV in C++
 description: C++ API to Convert DOTX to CSV without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/dotx-to-csv/
+url_ignore: /cpp/conversion/dotx-to-csv/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Экспорт EMAIL в DOC через Java
 description: Java API для преобразования EMAIL в DOC без использования Microsoft Word или Outlook
-url: /ru/java/conversion/email-to-doc/
+url_ignore: /ru/java/conversion/email-to-doc/
 family: total
 platformtag: net
 feature: conversion

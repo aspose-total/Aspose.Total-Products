@@ -1,7 +1,7 @@
 ---
 title: On Premise, Cloud & App Based File Format Solutions 
 weight: 9630
-url: /
+url_ignore: /
 description: Build document manipulation applications using On Premise or Cloud APIs, or simply use cross-platform apps to view, compare, inspect or convert 100+ file formats
 ---
 

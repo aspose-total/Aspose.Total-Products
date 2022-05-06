@@ -1,7 +1,7 @@
 ---
 title: تحويل PCL إلى APNG عبر C# API
 description: قم بتصدير PCL إلى APNG في تطبيقات .NET دون استخدام أي تطبيق تابع لجهة خارجية
-url: /ar/net/conversion/pcl-to-apng/
+url_ignore: /ar/net/conversion/pcl-to-apng/
 family: total
 platformtag: net
 feature: conversion

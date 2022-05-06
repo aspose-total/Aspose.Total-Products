@@ -1,7 +1,7 @@
 ---
 title: Convert CGM to CSV via C# API
 description: C# API to Convert CGM File to CSV without using Microsoft Excel or Adobe Reader
-url: /net/conversion/cgm-to-csv/
+url_ignore: /net/conversion/cgm-to-csv/
 family: total
 platformtag: net
 feature: conversion

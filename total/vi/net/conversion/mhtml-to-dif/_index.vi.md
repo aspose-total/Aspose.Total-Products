@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi MHTML sang DIF thông qua API C#
 description: C# API để chuyển đổi tệp MHTML sang DIF mà không cần sử dụng Microsoft Excel hoặc Adobe Reader
-url: /vi/net/conversion/mhtml-to-dif/
+url_ignore: /vi/net/conversion/mhtml-to-dif/
 family: total
 platformtag: net
 feature: conversion

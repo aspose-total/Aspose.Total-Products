@@ -1,6 +1,6 @@
 ---
 title: Преобразование TXT в PPT через C# .NET 
-url: /ru/net/conversion/txt-to-ppt/ 
+url_ignore: /ru/net/conversion/txt-to-ppt/ 
 description: Преобразование документов Word txt в файлы PowerPoint ppt с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

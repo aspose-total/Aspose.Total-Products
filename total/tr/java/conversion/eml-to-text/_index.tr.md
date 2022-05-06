@@ -1,7 +1,7 @@
 ---
 title: EML'i Java aracılığıyla TEXT'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan EML'i TEXT'ye Dönüştürmek için Java API
-url: /tr/java/conversion/eml-to-text/
+url_ignore: /tr/java/conversion/eml-to-text/
 family: total
 platformtag: net
 feature: conversion

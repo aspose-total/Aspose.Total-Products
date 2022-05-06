@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى PS عبر Java
 description: تحليل JSON إلى PS في Java بدون استخدام Microsoft Word
-url: /ar/java/conversion/json-to-ps/
+url_ignore: /ar/java/conversion/json-to-ps/
 family: total
 platformtag: net
 feature: conversion

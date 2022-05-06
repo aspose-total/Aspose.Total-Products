@@ -1,7 +1,7 @@
 ---
 title: Java API для экспорта MHTML в PCL
 description: Преобразование MHTML в PCL с использованием локального Java API
-url: /ru/java/conversion/mhtml-to-pcl/
+url_ignore: /ru/java/conversion/mhtml-to-pcl/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: 用于将 XPS 导出到 MARKDOWN 的 Java API
 description: 使用本地 Java API 将 XPS 转换为 MARKDOWN
-url: /zh/java/conversion/xps-to-markdown/
+url_ignore: /zh/java/conversion/xps-to-markdown/
 family: total
 platformtag: net
 feature: conversion

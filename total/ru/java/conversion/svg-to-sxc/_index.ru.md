@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга SVG в SXC
 description: Экспорт SVG в SXC через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/svg-to-sxc/
+url_ignore: /ru/java/conversion/svg-to-sxc/
 family: total
 platformtag: net
 feature: conversion

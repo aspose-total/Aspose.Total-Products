@@ -1,7 +1,7 @@
 ---
 title: Convert DOC to POWERPOINT via C++
 description: Export DOC to POWERPOINT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/doc-to-powerpoint/
+url_ignore: /cpp/conversion/doc-to-powerpoint/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert MOBI to XLT in C++
 description: C++ API to Convert MOBI to XLT without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/mobi-to-xlt/
+url_ignore: /cpp/conversion/mobi-to-xlt/
 family: total
 platformtag: cpp
 feature: conversion

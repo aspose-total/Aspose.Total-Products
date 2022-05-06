@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení EPUB do XLAM
 description: Export EPUB do XLAM přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/epub-to-xlam/
+url_ignore: /cs/java/conversion/epub-to-xlam/
 family: total
 platformtag: net
 feature: conversion

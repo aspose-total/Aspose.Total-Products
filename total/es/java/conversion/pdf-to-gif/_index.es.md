@@ -1,7 +1,7 @@
 ---
 title: API de Java para exportar PDF a GIF
 description: Convierta PDF a GIF usando la API de Java en las instalaciones
-url: /es/java/conversion/pdf-to-gif/
+url_ignore: /es/java/conversion/pdf-to-gif/
 family: total
 platformtag: net
 feature: conversion

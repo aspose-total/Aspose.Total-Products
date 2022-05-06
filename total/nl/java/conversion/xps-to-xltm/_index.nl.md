@@ -1,7 +1,7 @@
 ---
 title: Java API om XPS naar XLTM te renderen
 description: Exporteer XPS naar XLTM via Java API zonder Microsoft Excel of Adobe Reader te gebruiken
-url: /nl/java/conversion/xps-to-xltm/
+url_ignore: /nl/java/conversion/xps-to-xltm/
 family: total
 platformtag: net
 feature: conversion

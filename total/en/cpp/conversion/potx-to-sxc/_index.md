@@ -1,7 +1,7 @@
 ---
 title: Convert POTX to SXC via C++ 
 description: Export POTX to SXC in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/potx-to-sxc/
+url_ignore: /cpp/conversion/potx-to-sxc/
 family: total
 platformtag: cpp
 feature: conversion

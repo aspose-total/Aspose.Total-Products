@@ -1,7 +1,7 @@
 ---
 title: API Java para renderizar EPUB para TSV
 description: Exporte EPUB para TSV via API Java sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/java/conversion/epub-to-tsv/
+url_ignore: /pt/java/conversion/epub-to-tsv/
 family: total
 platformtag: net
 feature: conversion

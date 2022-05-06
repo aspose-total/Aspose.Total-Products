@@ -1,7 +1,7 @@
 ---
 title: .NET API untuk Mengonversi DOCX ke XLTX
 description: C# API untuk Mengonversi DOCX ke XLTX tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/net/conversion/docx-to-xltx/
+url_ignore: /id/net/conversion/docx-to-xltx/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ Dengan menggunakan [Aspose.Total for .NET](https://products.aspose.com/total/net
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API untuk Mengonversi DOCX ke XLTX" %}}
-1. Buka file DOCX menggunakan kelas [Docxument](https://apireference.aspose.com/words/net/aspose.words/docxument)
-2. Konversi DOCX ke HTML dengan menggunakan metode [Simpan](https://apireference.aspose.com/words/net/aspose.words.docxument/save/methods/4)
+1. Buka file DOCX menggunakan kelas [Document](https://apireference.aspose.com/words/net/aspose.words/Document)
+2. Konversi DOCX ke HTML dengan menggunakan metode [Simpan](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4)
 3. Muat dokumen HTML dengan menggunakan kelas [Buku Kerja](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Simpan dokumen ke format XLTX menggunakan metode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) dan setel `XLTX` sebagai SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -39,16 +39,15 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Muat Dokumen DOCX dari Stream melalui C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) juga memungkinkan Anda memuat dokumen DOCX melalui aliran. Untuk membuka dokumen dari aliran, cukup teruskan objek aliran yang berisi dokumen ke konstruktor [Dokumen](https://apireference.aspose.com/words/net/aspose.words/docxument). Contoh kode berikut menunjukkan cara membuka dokumen dari aliran:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) juga memungkinkan Anda memuat dokumen DOCX melalui aliran. Untuk membuka dokumen dari aliran, cukup teruskan objek aliran yang berisi dokumen ke konstruktor [Dokumen](https://apireference.aspose.com/words/net/aspose.words/Document). Contoh kode berikut menunjukkan cara membuka dokumen dari aliran:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Tambahkan Properti Kustom dalam File XLTX melalui C#" %}}
-Saat mengonversi DOCX ke XLTX, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) memungkinkan Anda menambahkan properti khusus di dokumen XLTX Anda. Untuk menambahkan properti kustom, Anda dapat menggunakan metode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocxumentpropertycollection/methods/add/index) untuk [CustomDocxumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocxumentpropertycollection) kelas. Metode Add menambahkan properti ke file Excel dan mengembalikan referensi untuk properti dokumen baru sebagai [Aspose.Cells.Properties.DocxumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /docxumentproperty) objek. 
+Saat mengonversi DOCX ke XLTX, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) memungkinkan Anda menambahkan properti khusus di dokumen XLTX Anda. Untuk menambahkan properti kustom, Anda dapat menggunakan metode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index) untuk [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection) kelas. Metode Add menambahkan properti ke file Excel dan mengembalikan referensi untuk properti dokumen baru sebagai [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /Documentproperty) objek. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}

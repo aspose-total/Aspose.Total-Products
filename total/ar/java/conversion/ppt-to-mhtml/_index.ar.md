@@ -1,7 +1,7 @@
 ---
 title: تحويل PPT إلى تنسيق MHTML عبر Java
 description: قم بتحويل PPT إلى تنسيق MHTML عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/ppt-to-mhtml/
+url_ignore: /ar/java/conversion/ppt-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API do renderowania PS do TXT
 description: Eksportuj PS do TXT przez Java API bez użycia Microsoft Excel lub Adobe Reader
-url: /pl/java/conversion/ps-to-txt/
+url_ignore: /pl/java/conversion/ps-to-txt/
 family: total
 platformtag: net
 feature: conversion

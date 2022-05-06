@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-formaat naar FLATOPC via Java
 description: JSON ontleden naar FLATOPC in Java zonder Microsoft Word te gebruiken
-url: /nl/java/conversion/json-to-flatopc/
+url_ignore: /nl/java/conversion/json-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

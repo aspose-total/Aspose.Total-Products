@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení PS do ODS
 description: Export PS do ODS přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/ps-to-ods/
+url_ignore: /cs/java/conversion/ps-to-ods/
 family: total
 platformtag: net
 feature: conversion

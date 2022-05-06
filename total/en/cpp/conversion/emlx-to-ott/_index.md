@@ -1,7 +1,7 @@
 ---
 title: Export EMLX to OTT via C++
 description: C++ API to Convert EMLX to OTT without using Microsoft Word or Outlook
-url: /cpp/conversion/emlx-to-ott/
+url_ignore: /cpp/conversion/emlx-to-ott/
 family: total
 platformtag: cpp
 feature: conversion

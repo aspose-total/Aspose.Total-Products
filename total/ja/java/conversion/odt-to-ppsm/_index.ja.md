@@ -1,7 +1,7 @@
 ---
 title: Java経由でODTをPPSMに変換する
 description: MicrosoftWordやPowerPointを使用せずにODTをPPSMにエクスポートするJavaAPI
-url: /ja/java/conversion/odt-to-ppsm/
+url_ignore: /ja/java/conversion/odt-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

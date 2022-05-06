@@ -1,7 +1,7 @@
 ---
 title: .NET API to Convert DOTX to TSV 
 description: C# API to Convert DOTX to TSV without using Microsoft Excel or Adobe Reader
-url: /net/conversion/dotx-to-tsv/
+url_ignore: /net/conversion/dotx-to-tsv/
 family: total
 platformtag: net
 feature: conversion

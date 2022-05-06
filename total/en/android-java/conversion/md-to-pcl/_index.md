@@ -1,7 +1,7 @@
 ---
 title: Android API to Render MD to PCL
 description: Transform MD to PCL via Android via Java API
-url: /android-java/conversion/md-to-pcl/
+url_ignore: /android-java/conversion/md-to-pcl/
 family: total
 platformtag: android-java
 feature: conversion

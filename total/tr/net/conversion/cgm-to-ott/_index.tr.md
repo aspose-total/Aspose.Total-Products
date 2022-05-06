@@ -1,7 +1,7 @@
 ---
 title: CGM'yi OTT'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan CGM'yi OTT'ye dönüştürün
-url: /tr/net/conversion/cgm-to-ott/
+url_ignore: /tr/net/conversion/cgm-to-ott/
 family: total
 platformtag: net
 feature: conversion

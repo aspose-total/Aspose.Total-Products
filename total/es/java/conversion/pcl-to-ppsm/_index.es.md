@@ -1,7 +1,7 @@
 ---
 title: Convierta PCL a PPSM a través de la API de Java
 description: API de Java para convertir PCL a PPSM sin usar Microsoft Word
-url: /es/java/conversion/pcl-to-ppsm/
+url_ignore: /es/java/conversion/pcl-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: PPT'u C# ile XLTM'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan PPT'u C#'ta XLTM'ye dönüştürün
-url: /tr/net/conversion/ppt-to-xltm/
+url_ignore: /tr/net/conversion/ppt-to-xltm/
 family: total
 platformtag: net
 feature: conversion

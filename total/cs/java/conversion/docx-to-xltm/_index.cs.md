@@ -1,7 +1,7 @@
 ---
 title: Java API pro převod DOCX do XLTM
 description: Převeďte DOCX na XLTM přes Java bez použití Microsoft Word nebo Microsoft Excel
-url: /cs/java/conversion/docx-to-xltm/
+url_ignore: /cs/java/conversion/docx-to-xltm/
 family: total
 platformtag: net
 feature: conversion

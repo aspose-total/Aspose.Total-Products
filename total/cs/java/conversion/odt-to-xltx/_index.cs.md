@@ -1,7 +1,7 @@
 ---
 title: Java API pro převod ODT do XLTX
 description: Převeďte ODT na XLTX přes Java bez použití Microsoft Word nebo Microsoft Excel
-url: /cs/java/conversion/odt-to-xltx/
+url_ignore: /cs/java/conversion/odt-to-xltx/
 family: total
 platformtag: net
 feature: conversion

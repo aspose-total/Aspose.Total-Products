@@ -1,7 +1,7 @@
 ---
 title: Konversi HTML ke EMZ melalui Java
 description: Ekspor file HTML ke EMZ di aplikasi Java Anda tanpa menggunakan aplikasi pihak ketiga
-url: /id/java/conversion/html-to-emz/
+url_ignore: /id/java/conversion/html-to-emz/
 family: total
 platformtag: net
 feature: conversion

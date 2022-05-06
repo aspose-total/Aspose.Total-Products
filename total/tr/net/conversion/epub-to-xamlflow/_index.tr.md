@@ -1,7 +1,7 @@
 ---
 title: EPUB'yi XAMLFLOW'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan EPUB'yi XAMLFLOW'ye dönüştürün
-url: /tr/net/conversion/epub-to-xamlflow/
+url_ignore: /tr/net/conversion/epub-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PDF to XAML  
 description: Convert PDF to XAML via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/pdf-to-xaml/
+url_ignore: /cpp/conversion/pdf-to-xaml/
 family: total
 platformtag: cpp
 feature: conversion

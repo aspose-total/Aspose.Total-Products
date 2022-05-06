@@ -1,7 +1,7 @@
 ---
 title: Export EMLX to TEXT via Java 
 description: Java API to Convert EMLX to TEXT without using Microsoft Word or Outlook 
-url: /java/conversion/emlx-to-text/
+url_ignore: /java/conversion/emlx-to-text/
 family: total
 platformtag: java
 feature: conversion

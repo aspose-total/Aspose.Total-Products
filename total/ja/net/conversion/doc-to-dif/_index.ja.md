@@ -1,7 +1,7 @@
 ---
 title: DOCをDIFに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにDOCをDIFに変換するC＃API
-url: /ja/net/conversion/doc-to-dif/
+url_ignore: /ja/net/conversion/doc-to-dif/
 family: total
 platformtag: net
 feature: conversion

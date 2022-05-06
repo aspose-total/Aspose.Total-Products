@@ -1,7 +1,7 @@
 ---
 title: WORDをFODSに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにWORDをFODSに変換するC＃API
-url: /ja/net/conversion/word-to-fods/
+url_ignore: /ja/net/conversion/word-to-fods/
 family: total
 platformtag: net
 feature: conversion

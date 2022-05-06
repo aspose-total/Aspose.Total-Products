@@ -1,7 +1,7 @@
 ---
 title: POWERPOINT'u C# ile XLAM'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan POWERPOINT'u C#'ta XLAM'ye dönüştürün
-url: /tr/net/conversion/powerpoint-to-xlam/
+url_ignore: /tr/net/conversion/powerpoint-to-xlam/
 family: total
 platformtag: net
 feature: conversion

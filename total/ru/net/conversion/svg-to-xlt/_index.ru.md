@@ -1,7 +1,7 @@
 ---
 title: Преобразование SVG в XLT через C# API
 description: C# API для преобразования файла SVG в XLT без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/svg-to-xlt/
+url_ignore: /ru/net/conversion/svg-to-xlt/
 family: total
 platformtag: net
 feature: conversion

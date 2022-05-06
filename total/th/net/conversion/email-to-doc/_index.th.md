@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก EMAIL ไปยัง DOC
 description: แปลง EMAIL เป็น DOC โดยไม่ต้องใช้ Microsoft Word หรือ Outlook บน .NET
-url: /th/net/conversion/email-to-doc/
+url_ignore: /th/net/conversion/email-to-doc/
 family: total
 platformtag: net
 feature: conversion

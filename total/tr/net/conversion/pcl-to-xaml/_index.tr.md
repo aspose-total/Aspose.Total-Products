@@ -1,7 +1,7 @@
 ---
 title: PCL'yi C# API aracılığıyla XAML'ye aktarın
 description: Microsoft Word kullanmadan PCL'yi XAML'ye dönüştürmek için .NET API
-url: /tr/net/conversion/pcl-to-xaml/
+url_ignore: /tr/net/conversion/pcl-to-xaml/
 family: total
 platformtag: net
 feature: conversion

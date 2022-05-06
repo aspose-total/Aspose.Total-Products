@@ -1,7 +1,7 @@
 ---
 title: Export ODS to WORD in Android 
 description: Android API to Convert ODS to WORD without using Microsoft Word
-url: /android-java/conversion/ods-to-word/
+url_ignore: /android-java/conversion/ods-to-word/
 family: total
 platformtag: android-java
 feature: conversion

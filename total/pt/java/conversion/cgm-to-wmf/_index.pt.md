@@ -1,7 +1,7 @@
 ---
 title: Converter CGM para WMF via Java
 description: Exporte o arquivo CGM para WMF em seus aplicativos Java sem usar nenhum aplicativo de terceiros
-url: /pt/java/conversion/cgm-to-wmf/
+url_ignore: /pt/java/conversion/cgm-to-wmf/
 family: total
 platformtag: net
 feature: conversion

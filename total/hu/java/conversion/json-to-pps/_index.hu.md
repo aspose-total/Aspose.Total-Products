@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a JSON formátumot PPS-re Java segítségével
 description: Elemezze a JSON-t PPS-vé Java-ban Microsoft PowerPoint használata nélkül
-url: /hu/java/conversion/json-to-pps/
+url_ignore: /hu/java/conversion/json-to-pps/
 family: total
 platformtag: net
 feature: conversion
@@ -24,7 +24,7 @@ Az [Aspose.Total for Java](https://products.aspose.com/total/java/) használatá
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 Az Aspose.Total for Java könnyen használható közvetlenül [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) alapú projektből és vegyen fel könyvtárakat a pom.xml fájlba.
 
-Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads] webhelyről (https://downloads.aspose.com/total/java).
+Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

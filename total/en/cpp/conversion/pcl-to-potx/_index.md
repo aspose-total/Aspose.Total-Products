@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PCL to POTX  
 description: Convert PCL to POTX via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/pcl-to-potx/
+url_ignore: /cpp/conversion/pcl-to-potx/
 family: total
 platformtag: cpp
 feature: conversion

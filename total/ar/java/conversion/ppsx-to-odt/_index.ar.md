@@ -1,7 +1,7 @@
 ---
 title: تحويل PPSX إلى ODT عبر Java
 description: Java API لتصدير PPSX إلى ODT دون استخدام Microsoft Word أو PowerPoint
-url: /ar/java/conversion/ppsx-to-odt/
+url_ignore: /ar/java/conversion/ppsx-to-odt/
 family: total
 platformtag: net
 feature: conversion

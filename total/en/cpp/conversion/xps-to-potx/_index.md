@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XPS to POTX  
 description: Convert XPS to POTX via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xps-to-potx/
+url_ignore: /cpp/conversion/xps-to-potx/
 family: total
 platformtag: cpp
 feature: conversion

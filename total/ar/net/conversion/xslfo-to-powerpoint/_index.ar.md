@@ -1,7 +1,7 @@
 ---
 title: تصدير XSLFO إلى POWERPOINT عبر C# API
 description: NET API لتحويل XSLFO إلى POWERPOINT دون استخدام Microsoft Word
-url: /ar/net/conversion/xslfo-to-powerpoint/
+url_ignore: /ar/net/conversion/xslfo-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

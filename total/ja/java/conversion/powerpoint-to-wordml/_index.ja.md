@@ -1,7 +1,7 @@
 ---
 title: Java経由でPOWERPOINTをWORDMLに変換する
 description: MicrosoftWordやPowerPointを使用せずにPOWERPOINTをWORDMLにエクスポートするJavaAPI
-url: /ja/java/conversion/powerpoint-to-wordml/
+url_ignore: /ja/java/conversion/powerpoint-to-wordml/
 family: total
 platformtag: net
 feature: conversion

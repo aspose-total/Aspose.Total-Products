@@ -1,7 +1,7 @@
 ---
 title: Convert OTT to XLTX in C++
 description: C++ API to Convert OTT to XLTX without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/ott-to-xltx/
+url_ignore: /cpp/conversion/ott-to-xltx/
 family: total
 platformtag: cpp
 feature: conversion

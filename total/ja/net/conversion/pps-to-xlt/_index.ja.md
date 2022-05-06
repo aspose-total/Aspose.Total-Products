@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPPSをXLTに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPSをXLTに変換する
-url: /ja/net/conversion/pps-to-xlt/
+url_ignore: /ja/net/conversion/pps-to-xlt/
 family: total
 platformtag: net
 feature: conversion

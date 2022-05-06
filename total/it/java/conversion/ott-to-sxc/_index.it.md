@@ -1,7 +1,7 @@
 ---
 title: API Java per convertire OTT in SXC
 description: Converti OTT in SXC tramite Java senza utilizzare Microsoft Word o Microsoft Excel
-url: /it/java/conversion/ott-to-sxc/
+url_ignore: /it/java/conversion/ott-to-sxc/
 family: total
 platformtag: net
 feature: conversion

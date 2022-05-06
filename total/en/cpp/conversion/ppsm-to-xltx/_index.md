@@ -1,7 +1,7 @@
 ---
 title: Convert PPSM to XLTX via C++ 
 description: Export PPSM to XLTX in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/ppsm-to-xltx/
+url_ignore: /cpp/conversion/ppsm-to-xltx/
 family: total
 platformtag: cpp
 feature: conversion

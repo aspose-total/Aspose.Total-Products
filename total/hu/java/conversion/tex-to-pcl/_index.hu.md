@@ -1,7 +1,7 @@
 ---
 title: Java API a TEX exportálásához PCL-be
 description: Konvertálja a TEX-et PCL-re a helyszíni Java API használatával
-url: /hu/java/conversion/tex-to-pcl/
+url_ignore: /hu/java/conversion/tex-to-pcl/
 family: total
 platformtag: net
 feature: conversion
@@ -12,7 +12,7 @@ otherformats: PS DOTX ODT FLATOPC OTT PCL DOTM MARKDOWN DOT WORDML RTF XAMLFLOW
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="A TEX átalakítása PCL-re Java segítségével" h2="On Premise Java API a TEX megjelenítéséhez PCL-ben harmadik féltől származó alkalmazások használata nélkül" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Két egyszerű lépéssel a TEX-et PCL-má konvertálhatja. Először is le kell renderelnie a TEX-fájlt DOC-ban az [Aspose.PDF for Java] használatával (https://products.aspose.com/pdf/java/). Ezt követően a hatékony dokumentumfeldolgozási API [Aspose.Words for Java](https://products.aspose.com/words/java/) használatával a DOC-t PCL-má konvertálhatja. Mindkét API az [Aspose.Total for Java](https://products.aspose.com/total/java/) csomagban található.
+Két egyszerű lépéssel a TEX-et PCL-má konvertálhatja. Először is le kell renderelnie a TEX-fájlt DOC-ban az [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). Ezt követően a hatékony dokumentumfeldolgozási API [Aspose.Words for Java](https://products.aspose.com/words/java/) használatával a DOC-t PCL-má konvertálhatja. Mindkét API az [Aspose.Total for Java](https://products.aspose.com/total/java/) csomagban található.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java API a TEX PCL-má konvertálásához" %}}
@@ -22,9 +22,9 @@ Két egyszerű lépéssel a TEX-et PCL-má konvertálhatja. Először is le kell
 4. Mentse a dokumentumot PCL formátumba a [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) módszerrel, és állítsa be a PCL-et mint SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
-Az Aspose.Total for Java könnyen használható közvetlenül [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) alapú projektből és tartalmazza az [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) és az [Aspose.Words for Java](https://docs.aspose.com/words/java/) install/) a pom.xml-ben.
+Az Aspose.Total for Java könnyen használható közvetlenül [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) alapú projektből és tartalmazza az [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) és az [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) a pom.xml-ben.
 
-Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads] webhelyről (https://downloads.aspose.com/total/java).
+Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

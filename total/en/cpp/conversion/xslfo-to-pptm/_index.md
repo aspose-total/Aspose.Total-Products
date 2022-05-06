@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XSLFO to PPTM  
 description: Convert XSLFO to PPTM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xslfo-to-pptm/
+url_ignore: /cpp/conversion/xslfo-to-pptm/
 family: total
 platformtag: cpp
 feature: conversion

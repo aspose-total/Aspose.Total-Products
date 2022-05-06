@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export CGM to DOTX
 description: Convert CGM to DOTX within C++ applications.
-url: /cpp/conversion/cgm-to-dotx/
+url_ignore: /cpp/conversion/cgm-to-dotx/
 family: total
 platformtag: cpp
 feature: conversion

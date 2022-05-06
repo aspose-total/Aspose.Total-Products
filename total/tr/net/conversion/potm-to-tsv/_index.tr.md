@@ -1,7 +1,7 @@
 ---
 title: POTM'u C# ile TSV'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan POTM'u C#'ta TSV'ye dönüştürün
-url: /tr/net/conversion/potm-to-tsv/
+url_ignore: /tr/net/conversion/potm-to-tsv/
 family: total
 platformtag: net
 feature: conversion

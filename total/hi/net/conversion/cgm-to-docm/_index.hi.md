@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई सीजीएम को डीओसीएम में निर्यात करने के लिए
 description: Microsoft Word का उपयोग किए बिना CGM को DOCM में बदलें
-url: /hi/net/conversion/cgm-to-docm/
+url_ignore: /hi/net/conversion/cgm-to-docm/
 family: total
 platformtag: net
 feature: conversion

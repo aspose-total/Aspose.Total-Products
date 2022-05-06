@@ -1,7 +1,7 @@
 ---
 title: .NET API для преобразования DOCM в TSV
 description: C# API для преобразования DOCM в TSV без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/docm-to-tsv/
+url_ignore: /ru/net/conversion/docm-to-tsv/
 family: total
 platformtag: net
 feature: conversion

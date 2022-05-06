@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PCL to DOTM
 description: Transform PCL to DOTM via Android via Java API
-url: /android-java/conversion/pcl-to-dotm/
+url_ignore: /android-java/conversion/pcl-to-dotm/
 family: total
 platformtag: android-java
 feature: conversion

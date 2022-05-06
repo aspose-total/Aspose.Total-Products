@@ -1,7 +1,7 @@
 ---
 title: Konwertuj DOCX na POT za pomocą Javy
 description: Java API do eksportu DOCX do POT bez użycia Microsoft Word lub PowerPoint
-url: /pl/java/conversion/docx-to-pot/
+url_ignore: /pl/java/conversion/docx-to-pot/
 family: total
 platformtag: net
 feature: conversion

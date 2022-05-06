@@ -1,7 +1,7 @@
 ---
 title: Convert DOTM to PPSX via C++
 description: Export DOTM to PPSX in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/dotm-to-ppsx/
+url_ignore: /cpp/conversion/dotm-to-ppsx/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تحويل DOC إلى تنسيق JSON عبر .NET
 description: تحويل DOC إلى JSON في C# بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/doc-to-json/
+url_ignore: /ar/net/conversion/doc-to-json/
 family: total
 platformtag: net
 feature: conversion

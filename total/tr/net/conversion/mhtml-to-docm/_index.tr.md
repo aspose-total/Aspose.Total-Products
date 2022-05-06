@@ -1,7 +1,7 @@
 ---
 title: MHTML'yi DOCM'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan MHTML'yi DOCM'ye dönüştürün
-url: /tr/net/conversion/mhtml-to-docm/
+url_ignore: /tr/net/conversion/mhtml-to-docm/
 family: total
 platformtag: net
 feature: conversion

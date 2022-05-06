@@ -1,7 +1,7 @@
 ---
 title: Převeďte PDF na DIF přes C# API
 description: C# API pro převod souboru PDF do DIF bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/pdf-to-dif/
+url_ignore: /cs/net/conversion/pdf-to-dif/
 family: total
 platformtag: net
 feature: conversion

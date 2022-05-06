@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PCL to FODS
 description: Convert PCL to FODS via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/pcl-to-fods/
+url_ignore: /cpp/conversion/pcl-to-fods/
 family: total
 platformtag: cpp
 feature: conversion

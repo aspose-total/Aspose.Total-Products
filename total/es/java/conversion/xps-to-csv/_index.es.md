@@ -1,7 +1,7 @@
 ---
 title: API de Java para renderizar XPS a CSV
 description: Exporte XPS a CSV a través de la API de Java sin usar Microsoft Excel o Adobe Reader
-url: /es/java/conversion/xps-to-csv/
+url_ignore: /es/java/conversion/xps-to-csv/
 family: total
 platformtag: net
 feature: conversion

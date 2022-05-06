@@ -1,7 +1,7 @@
 ---
 title: Convert MD to PPS via Java API
 description: Java API to Convert MD to PPS without using Microsoft Word
-url: /java/conversion/md-to-pps/
+url_ignore: /java/conversion/md-to-pps/
 family: total
 platformtag: java
 feature: conversion

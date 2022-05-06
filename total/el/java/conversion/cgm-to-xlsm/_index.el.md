@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση CGM σε XLSM
 description: Εξαγωγή CGM σε XLSM μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/cgm-to-xlsm/
+url_ignore: /el/java/conversion/cgm-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى EMZ عبر .NET
 description: تحليل JSON إلى EMZ في C# بدون استخدام تبعيات الطرف الثالث
-url: /ar/net/conversion/json-to-emz/
+url_ignore: /ar/net/conversion/json-to-emz/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to XLS via .NET 
 description: Convert DOT to XLS in C# without using Microsoft Excel or Adobe Reader
-url: /net/conversion/dot-to-xls/
+url_ignore: /net/conversion/dot-to-xls/
 family: total
 platformtag: net
 feature: conversion

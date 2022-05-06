@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie CSV in POWERPOINT mit Java
 description: Java-API zum Exportieren von CSV in POWERPOINT mit Excel oder Word
-url: /de/java/conversion/csv-to-powerpoint/
+url_ignore: /de/java/conversion/csv-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

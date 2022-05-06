@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı RTF'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan EMLX'i RTF'ye dönüştürün
-url: /tr/net/conversion/emlx-to-rtf/
+url_ignore: /tr/net/conversion/emlx-to-rtf/
 family: total
 platformtag: net
 feature: conversion

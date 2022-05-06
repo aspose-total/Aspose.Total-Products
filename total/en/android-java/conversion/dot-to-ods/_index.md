@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOT to ODS
 description: Convert DOT to ODS in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/dot-to-ods/
+url_ignore: /android-java/conversion/dot-to-ods/
 family: total
 platformtag: android-java
 feature: conversion

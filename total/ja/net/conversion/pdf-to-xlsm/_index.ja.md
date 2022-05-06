@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをXLSMに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPDFファイルをXLSMに変換するC＃API
-url: /ja/net/conversion/pdf-to-xlsm/
+url_ignore: /ja/net/conversion/pdf-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

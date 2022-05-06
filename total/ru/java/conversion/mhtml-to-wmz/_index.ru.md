@@ -1,7 +1,7 @@
 ---
 title: Преобразование MHTML в WMZ через Java
 description: Экспорт файла MHTML в WMZ в ваших приложениях Java без использования каких-либо сторонних приложений.
-url: /ru/java/conversion/mhtml-to-wmz/
+url_ignore: /ru/java/conversion/mhtml-to-wmz/
 family: total
 platformtag: net
 feature: conversion

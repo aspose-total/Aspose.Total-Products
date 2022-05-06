@@ -1,7 +1,7 @@
 ---
 title: Exportera OFT till TIFF via Java
 description: Java API för att konvertera OFT till TIFF utan att använda Microsoft Word eller Outlook
-url: /sv/java/conversion/oft-to-tiff/
+url_ignore: /sv/java/conversion/oft-to-tiff/
 family: total
 platformtag: net
 feature: conversion

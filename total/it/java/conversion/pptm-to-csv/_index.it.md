@@ -1,7 +1,7 @@
 ---
 title: Converti PPTM in formato CSV tramite Java
 description: Converti PPTM in formato CSV tramite Java senza utilizzare Microsoft Excel o PowerPoint
-url: /it/java/conversion/pptm-to-csv/
+url_ignore: /it/java/conversion/pptm-to-csv/
 family: total
 platformtag: net
 feature: conversion

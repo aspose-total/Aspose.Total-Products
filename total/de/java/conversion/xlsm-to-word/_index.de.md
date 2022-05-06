@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie XLSM in WORD mit Java
 description: Java-API zum Exportieren von XLSM in WORD mit Excel oder Word
-url: /de/java/conversion/xlsm-to-word/
+url_ignore: /de/java/conversion/xlsm-to-word/
 family: total
 platformtag: net
 feature: conversion

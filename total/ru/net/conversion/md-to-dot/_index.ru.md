@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта MD в DOT
 description: Преобразование MD в DOT без использования Microsoft Word
-url: /ru/net/conversion/md-to-dot/
+url_ignore: /ru/net/conversion/md-to-dot/
 family: total
 platformtag: net
 feature: conversion

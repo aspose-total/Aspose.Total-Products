@@ -1,7 +1,7 @@
 ---
 title: Convierta el formato JSON a PSD a través de .NET
 description: Analice JSON a PSD en C# sin usar dependencias de terceros
-url: /es/net/conversion/json-to-psd/
+url_ignore: /es/net/conversion/json-to-psd/
 family: total
 platformtag: net
 feature: conversion

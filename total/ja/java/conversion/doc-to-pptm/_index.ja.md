@@ -1,7 +1,7 @@
 ---
 title: Java経由でDOCをPPTMに変換する
 description: MicrosoftWordやPowerPointを使用せずにDOCをPPTMにエクスポートするJavaAPI
-url: /ja/java/conversion/doc-to-pptm/
+url_ignore: /ja/java/conversion/doc-to-pptm/
 family: total
 platformtag: net
 feature: conversion

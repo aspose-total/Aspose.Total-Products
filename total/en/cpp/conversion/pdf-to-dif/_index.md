@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PDF to DIF
 description: Convert PDF to DIF via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/pdf-to-dif/
+url_ignore: /cpp/conversion/pdf-to-dif/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: 通过 C# API 将 PCL 导出到 PPSX
 description: .NET API 在不使用 Microsoft Word 的情况下将 PCL 转换为 PPSX
-url: /zh/net/conversion/pcl-to-ppsx/
+url_ignore: /zh/net/conversion/pcl-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

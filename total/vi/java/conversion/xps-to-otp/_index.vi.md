@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi XPS sang OTP thông qua Java API
 description: Java API để chuyển đổi XPS sang OTP mà không cần sử dụng Microsoft Word
-url: /vi/java/conversion/xps-to-otp/
+url_ignore: /vi/java/conversion/xps-to-otp/
 family: total
 platformtag: net
 feature: conversion

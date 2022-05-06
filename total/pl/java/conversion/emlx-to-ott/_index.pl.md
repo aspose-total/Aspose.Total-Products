@@ -1,7 +1,7 @@
 ---
 title: Eksportuj EMLX do OTT przez Java
 description: Java API do konwersji EMLX na OTT bez użycia Microsoft Word lub Outlook
-url: /pl/java/conversion/emlx-to-ott/
+url_ignore: /pl/java/conversion/emlx-to-ott/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOTX to XLAM
 description: Convert DOTX to XLAM in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/dotx-to-xlam/
+url_ignore: /android-java/conversion/dotx-to-xlam/
 family: total
 platformtag: android-java
 feature: conversion

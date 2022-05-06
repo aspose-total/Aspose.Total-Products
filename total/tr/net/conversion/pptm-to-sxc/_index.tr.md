@@ -1,7 +1,7 @@
 ---
 title: PPTM'u C# ile SXC'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan PPTM'u C#'ta SXC'ye dönüştürün
-url: /tr/net/conversion/pptm-to-sxc/
+url_ignore: /tr/net/conversion/pptm-to-sxc/
 family: total
 platformtag: net
 feature: conversion

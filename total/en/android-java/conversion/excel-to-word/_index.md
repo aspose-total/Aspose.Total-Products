@@ -1,7 +1,7 @@
 ---
 title: Export EXCEL to WORD in Android 
 description: Android API to Convert EXCEL to WORD without using Microsoft Word
-url: /android-java/conversion/excel-to-word/
+url_ignore: /android-java/conversion/excel-to-word/
 family: total
 platformtag: android-java
 feature: conversion

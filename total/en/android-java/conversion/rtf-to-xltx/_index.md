@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert RTF to XLTX
 description: Convert RTF to XLTX in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/rtf-to-xltx/
+url_ignore: /android-java/conversion/rtf-to-xltx/
 family: total
 platformtag: android-java
 feature: conversion

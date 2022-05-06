@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to DOT via C++ 
 description: C++ API t0 Parse JSON to DOT without using Microsoft Word
-url: /cpp/conversion/json-to-dot/
+url_ignore: /cpp/conversion/json-to-dot/
 family: total
 platformtag: cpp
 feature: conversion

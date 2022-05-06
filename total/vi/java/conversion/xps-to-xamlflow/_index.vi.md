@@ -1,7 +1,7 @@
 ---
 title: API Java để xuất XPS sang XAMLFLOW
 description: Chuyển đổi XPS sang XAMLFLOW bằng cách sử dụng API Java tiền đề
-url: /vi/java/conversion/xps-to-xamlflow/
+url_ignore: /vi/java/conversion/xps-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

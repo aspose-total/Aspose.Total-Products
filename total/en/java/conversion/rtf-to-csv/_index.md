@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert RTF to CSV
 description: Convert RTF to CSV via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/rtf-to-csv/
+url_ignore: /java/conversion/rtf-to-csv/
 family: total
 platformtag: java
 feature: conversion

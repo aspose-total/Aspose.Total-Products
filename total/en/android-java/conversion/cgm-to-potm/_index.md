@@ -1,7 +1,7 @@
 ---
 title: Export CGM to POTM in Android 
 description: Android API to Convert CGM to POTM without using Microsoft Word
-url: /android-java/conversion/cgm-to-potm/
+url_ignore: /android-java/conversion/cgm-to-potm/
 family: total
 platformtag: android-java
 feature: conversion

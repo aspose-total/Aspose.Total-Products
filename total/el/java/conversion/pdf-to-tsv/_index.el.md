@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση PDF σε TSV
 description: Εξαγωγή PDF σε TSV μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/pdf-to-tsv/
+url_ignore: /el/java/conversion/pdf-to-tsv/
 family: total
 platformtag: net
 feature: conversion

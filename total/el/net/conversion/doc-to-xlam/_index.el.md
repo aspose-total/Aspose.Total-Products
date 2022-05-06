@@ -1,7 +1,7 @@
 ---
 title: .NET API για μετατροπή DOC σε XLAM
 description: C# API για μετατροπή DOC σε XLAM χωρίς χρήση Microsoft Excel ή Adobe Reader
-url: /el/net/conversion/doc-to-xlam/
+url_ignore: /el/net/conversion/doc-to-xlam/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ otherformats: TSV XLTM XLSM EXCEL XLSB XLSX XLS ODS XLT DIF XLTX XLAM FODS SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Προσθήκη προσαρμοσμένων ιδιοτήτων σε αρχείο XLAM μέσω C#" %}}
 Κατά τη μετατροπή του DOC σε XLAM, το [Aspose.Cells για .NET](https://products.aspose.com/cells/net/) σάς δίνει τη δυνατότητα να προσθέσετε προσαρμοσμένες ιδιότητες στα έγγραφά σας XLAM. Για να προσθέσετε μια προσαρμοσμένη ιδιότητα, μπορείτε να χρησιμοποιήσετε τη μέθοδο [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) για το [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) τάξη. Η μέθοδος Προσθήκη προσθέτει την ιδιότητα στο αρχείο Excel και επιστρέφει μια αναφορά για την ιδιότητα του νέου εγγράφου ως [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties/documentproperty) αντικείμενο. 
 {{% blocks/products/pf/feature-page-code %}}

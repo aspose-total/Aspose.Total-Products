@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi MD sang SWF thông qua Java API
 description: Java API để chuyển đổi MD sang SWF mà không cần sử dụng Microsoft Word
-url: /vi/java/conversion/md-to-swf/
+url_ignore: /vi/java/conversion/md-to-swf/
 family: total
 platformtag: net
 feature: conversion

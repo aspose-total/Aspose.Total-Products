@@ -1,7 +1,7 @@
 ---
 title: API Java para renderizar SVG para EXCEL
 description: Exporte SVG para EXCEL via API Java sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/java/conversion/svg-to-excel/
+url_ignore: /pt/java/conversion/svg-to-excel/
 family: total
 platformtag: net
 feature: conversion

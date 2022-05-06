@@ -1,7 +1,7 @@
 ---
 title: Преобразование TEX в IMAGE через Java
 description: Экспорт файла TEX в IMAGE в ваших приложениях Java без использования каких-либо сторонних приложений.
-url: /ru/java/conversion/tex-to-image/
+url_ignore: /ru/java/conversion/tex-to-image/
 family: total
 platformtag: net
 feature: conversion

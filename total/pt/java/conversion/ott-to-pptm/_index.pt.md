@@ -1,7 +1,7 @@
 ---
 title: Converter OTT para PPTM via Java
 description: API Java para exportar OTT para PPTM sem usar o Microsoft Word ou PowerPoint
-url: /pt/java/conversion/ott-to-pptm/
+url_ignore: /pt/java/conversion/ott-to-pptm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java経由でMSGをTEXTにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにMSGをTEXTに変換するJavaAPI
-url: /ja/java/conversion/msg-to-text/
+url_ignore: /ja/java/conversion/msg-to-text/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C#-API zum Exportieren von CGM nach DOTX
 description: Konvertieren Sie CGM in DOTX, ohne Microsoft Word zu verwenden
-url: /de/net/conversion/cgm-to-dotx/
+url_ignore: /de/net/conversion/cgm-to-dotx/
 family: total
 platformtag: net
 feature: conversion

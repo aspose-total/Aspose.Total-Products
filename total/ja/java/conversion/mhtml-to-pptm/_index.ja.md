@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してMHTMLをPPTMに変換する
 description: MicrosoftWordを使用せずにMHTMLをPPTMに変換するJavaAPI
-url: /ja/java/conversion/mhtml-to-pptm/
+url_ignore: /ja/java/conversion/mhtml-to-pptm/
 family: total
 platformtag: net
 feature: conversion

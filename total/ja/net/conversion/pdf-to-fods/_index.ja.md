@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをFODSに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPDFファイルをFODSに変換するC＃API
-url: /ja/net/conversion/pdf-to-fods/
+url_ignore: /ja/net/conversion/pdf-to-fods/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converter PPTX para formato XLS via Java
 description: Converta o formato PPTX para XLS via Java sem usar o Microsoft Excel ou PowerPoint
-url: /pt/java/conversion/pptx-to-xls/
+url_ignore: /pt/java/conversion/pptx-to-xls/
 family: total
 platformtag: net
 feature: conversion

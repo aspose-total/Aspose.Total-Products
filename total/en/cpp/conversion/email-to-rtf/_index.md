@@ -1,7 +1,7 @@
 ---
 title: Export EMAIL to RTF via C++
 description: C++ API to Convert EMAIL to RTF without using Microsoft Word or Outlook
-url: /cpp/conversion/email-to-rtf/
+url_ignore: /cpp/conversion/email-to-rtf/
 family: total
 platformtag: cpp
 feature: conversion

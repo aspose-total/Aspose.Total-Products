@@ -1,7 +1,7 @@
 ---
 title: Android API to Render SVG to XAMLFLOW
 description: Transform SVG to XAMLFLOW via Android via Java API
-url: /android-java/conversion/svg-to-xamlflow/
+url_ignore: /android-java/conversion/svg-to-xamlflow/
 family: total
 platformtag: android-java
 feature: conversion

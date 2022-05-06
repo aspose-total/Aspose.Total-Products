@@ -1,7 +1,7 @@
 ---
 title: PDF'yi MHTML'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan PDF'yi MHTML'ye dönüştürün
-url: /tr/net/conversion/pdf-to-mhtml/
+url_ignore: /tr/net/conversion/pdf-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

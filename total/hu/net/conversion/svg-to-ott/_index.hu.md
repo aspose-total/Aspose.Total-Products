@@ -1,7 +1,7 @@
 ---
 title: C# API a SVG exportálásához OTT-be
 description: A SVG konvertálása OTT-re Microsoft Word használata nélkül
-url: /hu/net/conversion/svg-to-ott/
+url_ignore: /hu/net/conversion/svg-to-ott/
 family: total
 platformtag: net
 feature: conversion
@@ -19,15 +19,15 @@ Az [Aspose.Total for .NET](https://products.aspose.com/total/net/) egy hatékony
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API a SVG OTT-má konvertálásához" %}}
 1. Nyissa meg a SVG-fájlt a [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) osztály használatával
-2. Konvertálja a SVG-et dokumentummá a [Mentés](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) módszerrel
+2. Konvertálja a SVG-et dokumentummá a [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) módszerrel
 3. Töltse be a Doc fájlt az Aspose.Words [Document](https://apireference.aspose.com/words/net/aspose.words/document) osztályával
-4. Mentse a dokumentumot OTT-formátumba a [Mentés](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) metódussal, és állítsa be a Ott-et SaveFormat-ként.
+4. Mentse a dokumentumot OTT-formátumba a [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) metódussal, és állítsa be a Ott-et SaveFormat-ként.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 Telepítés parancssorból ```nuget install Aspose.Total``` néven, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.Total``` paranccsal.
 
-Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads] webhelyről (https://downloads.aspose.com/total/net).
+Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads](https://downloads.aspose.com/total/net) webhelyről.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}

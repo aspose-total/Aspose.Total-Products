@@ -1,7 +1,7 @@
 ---
 title: PCL'yi DOTM'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan PCL'yi DOTM'ye dönüştürün
-url: /tr/net/conversion/pcl-to-dotm/
+url_ignore: /tr/net/conversion/pcl-to-dotm/
 family: total
 platformtag: net
 feature: conversion

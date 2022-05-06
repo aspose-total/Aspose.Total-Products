@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση MD σε FODS
 description: Εξαγωγή MD σε FODS μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/md-to-fods/
+url_ignore: /el/java/conversion/md-to-fods/
 family: total
 platformtag: net
 feature: conversion

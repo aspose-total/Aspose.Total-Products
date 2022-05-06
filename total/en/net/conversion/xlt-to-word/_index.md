@@ -1,7 +1,7 @@
 ---
 title: Convert XLT to WORD with .NET 
 description: Convert XLT to WORD on .NET Framework, .NET Core, Mono or Xamarin Platforms
-url: /net/conversion/xlt-to-word/
+url_ignore: /net/conversion/xlt-to-word/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converter XML para MD via API C#
 description: API C# para converter arquivo XML em MD sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/xml-to-md/
+url_ignore: /pt/net/conversion/xml-to-md/
 family: total
 platformtag: net
 feature: conversion

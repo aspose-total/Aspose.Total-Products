@@ -1,7 +1,7 @@
 ---
 title: Convert PCL to SXC via C# API
 description: C# API to Convert PCL File to SXC without using Microsoft Excel or Adobe Reader
-url: /net/conversion/pcl-to-sxc/
+url_ignore: /net/conversion/pcl-to-sxc/
 family: total
 platformtag: net
 feature: conversion

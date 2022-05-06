@@ -1,7 +1,7 @@
 ---
 title: Export MSG do PS přes Java
 description: Java API pro převod MSG do PS bez použití Microsoft Word nebo Outlook
-url: /cs/java/conversion/msg-to-ps/
+url_ignore: /cs/java/conversion/msg-to-ps/
 family: total
 platformtag: net
 feature: conversion

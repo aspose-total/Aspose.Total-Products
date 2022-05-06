@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert WORD to CSV
 description: Convert WORD to CSV in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/word-to-csv/
+url_ignore: /android-java/conversion/word-to-csv/
 family: total
 platformtag: android-java
 feature: conversion

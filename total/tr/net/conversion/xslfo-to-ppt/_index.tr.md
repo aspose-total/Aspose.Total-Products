@@ -1,7 +1,7 @@
 ---
 title: XSLFO'yi C# API aracılığıyla PPT'ye aktarın
 description: Microsoft Word kullanmadan XSLFO'yi PPT'ye dönüştürmek için .NET API
-url: /tr/net/conversion/xslfo-to-ppt/
+url_ignore: /tr/net/conversion/xslfo-to-ppt/
 family: total
 platformtag: net
 feature: conversion

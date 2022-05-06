@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта EMAIL в FLATOPC
 description: Преобразование EMAIL в FLATOPC без использования Microsoft Word или Outlook на .NET
-url: /ru/net/conversion/email-to-flatopc/
+url_ignore: /ru/net/conversion/email-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

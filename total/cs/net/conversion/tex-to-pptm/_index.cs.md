@@ -1,7 +1,7 @@
 ---
 title: Export TEX do PPTM přes C# API
 description: .NET API pro převod TEX na PPTM bez použití aplikace Microsoft Word
-url: /cs/net/conversion/tex-to-pptm/
+url_ignore: /cs/net/conversion/tex-to-pptm/
 family: total
 platformtag: net
 feature: conversion

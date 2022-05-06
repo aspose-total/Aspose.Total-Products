@@ -1,7 +1,7 @@
 ---
 title: MHTML'yi C# API aracılığıyla POT'ye aktarın
 description: Microsoft Word kullanmadan MHTML'yi POT'ye dönüştürmek için .NET API
-url: /tr/net/conversion/mhtml-to-pot/
+url_ignore: /tr/net/conversion/mhtml-to-pot/
 family: total
 platformtag: net
 feature: conversion

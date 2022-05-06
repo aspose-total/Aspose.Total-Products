@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى DOC عبر .NET
 description: تحليل JSON إلى DOC في C# بدون استخدام Microsoft Word
-url: /ar/net/conversion/json-to-doc/
+url_ignore: /ar/net/conversion/json-to-doc/
 family: total
 platformtag: net
 feature: conversion

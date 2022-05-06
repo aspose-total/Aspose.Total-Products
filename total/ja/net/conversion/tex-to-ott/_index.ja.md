@@ -1,7 +1,7 @@
 ---
 title: TEXをOTTにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにTEXをOTTに変換する
-url: /ja/net/conversion/tex-to-ott/
+url_ignore: /ja/net/conversion/tex-to-ott/
 family: total
 platformtag: net
 feature: conversion

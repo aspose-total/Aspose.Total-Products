@@ -1,7 +1,7 @@
 ---
 title: Export PDF to ODP in Android 
 description: Android API to Convert PDF to ODP without using Microsoft Word
-url: /android-java/conversion/pdf-to-odp/
+url_ignore: /android-java/conversion/pdf-to-odp/
 family: total
 platformtag: android-java
 feature: conversion

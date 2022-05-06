@@ -1,7 +1,7 @@
 ---
 title: Java経由でJSON形式をWORDに変換する
 description: MicrosoftWordを使用せずにJavaでJSONをWORDに解析する
-url: /ja/java/conversion/json-to-word/
+url_ignore: /ja/java/conversion/json-to-word/
 family: total
 platformtag: net
 feature: conversion

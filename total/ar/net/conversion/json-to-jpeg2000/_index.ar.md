@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى JPEG2000 عبر .NET
 description: تحليل JSON إلى JPEG2000 في C# بدون استخدام تبعيات الطرف الثالث
-url: /ar/net/conversion/json-to-jpeg2000/
+url_ignore: /ar/net/conversion/json-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

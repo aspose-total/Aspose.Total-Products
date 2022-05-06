@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PCL to FLATOPC
 description: Transform PCL to FLATOPC via Android via Java API
-url: /android-java/conversion/pcl-to-flatopc/
+url_ignore: /android-java/conversion/pcl-to-flatopc/
 family: total
 platformtag: android-java
 feature: conversion

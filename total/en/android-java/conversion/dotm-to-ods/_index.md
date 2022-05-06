@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOTM to ODS
 description: Convert DOTM to ODS in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/dotm-to-ods/
+url_ignore: /android-java/conversion/dotm-to-ods/
 family: total
 platformtag: android-java
 feature: conversion

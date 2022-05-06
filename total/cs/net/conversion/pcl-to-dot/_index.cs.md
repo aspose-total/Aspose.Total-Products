@@ -1,7 +1,7 @@
 ---
 title: C# API pro export PCL do DOT
 description: Převeďte PCL na DOT bez použití aplikace Microsoft Word
-url: /cs/net/conversion/pcl-to-dot/
+url_ignore: /cs/net/conversion/pcl-to-dot/
 family: total
 platformtag: net
 feature: conversion

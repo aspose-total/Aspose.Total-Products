@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı DOT'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan EML'i DOT'ye dönüştürün
-url: /tr/net/conversion/eml-to-dot/
+url_ignore: /tr/net/conversion/eml-to-dot/
 family: total
 platformtag: net
 feature: conversion

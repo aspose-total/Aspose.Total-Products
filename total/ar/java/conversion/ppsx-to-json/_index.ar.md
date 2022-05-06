@@ -1,7 +1,7 @@
 ---
 title: تحويل PPSX إلى تنسيق JSON عبر Java
 description: قم بتحويل تنسيق PPSX إلى JSON عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/ppsx-to-json/
+url_ignore: /ar/java/conversion/ppsx-to-json/
 family: total
 platformtag: net
 feature: conversion

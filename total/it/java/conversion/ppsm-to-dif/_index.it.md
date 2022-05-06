@@ -1,7 +1,7 @@
 ---
 title: Converti PPSM in formato DIF tramite Java
 description: Converti PPSM in formato DIF tramite Java senza utilizzare Microsoft Excel o PowerPoint
-url: /it/java/conversion/ppsm-to-dif/
+url_ignore: /it/java/conversion/ppsm-to-dif/
 family: total
 platformtag: net
 feature: conversion

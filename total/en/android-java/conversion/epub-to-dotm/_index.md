@@ -1,7 +1,7 @@
 ---
 title: Android API to Render EPUB to DOTM
 description: Transform EPUB to DOTM via Android via Java API
-url: /android-java/conversion/epub-to-dotm/
+url_ignore: /android-java/conversion/epub-to-dotm/
 family: total
 platformtag: android-java
 feature: conversion

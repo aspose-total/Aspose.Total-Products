@@ -1,7 +1,7 @@
 ---
 title: Converter POWERPOINT para XLAM via C#
 description: Converter POWERPOINT para XLAM em C# sem usar o Microsoft Excel ou Powerpoint
-url: /pt/net/conversion/powerpoint-to-xlam/
+url_ignore: /pt/net/conversion/powerpoint-to-xlam/
 family: total
 platformtag: net
 feature: conversion

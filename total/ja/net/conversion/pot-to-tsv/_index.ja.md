@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPOTをTSVに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPOTをTSVに変換する
-url: /ja/net/conversion/pot-to-tsv/
+url_ignore: /ja/net/conversion/pot-to-tsv/
 family: total
 platformtag: net
 feature: conversion

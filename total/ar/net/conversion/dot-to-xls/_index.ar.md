@@ -1,7 +1,7 @@
 ---
 title: NET API لتحويل DOT إلى XLS
 description: C# API لتحويل DOT إلى XLS بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/dot-to-xls/
+url_ignore: /ar/net/conversion/dot-to-xls/
 family: total
 platformtag: net
 feature: conversion

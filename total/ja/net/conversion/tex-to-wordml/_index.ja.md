@@ -1,7 +1,7 @@
 ---
 title: TEXをWORDMLにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにTEXをWORDMLに変換する
-url: /ja/net/conversion/tex-to-wordml/
+url_ignore: /ja/net/conversion/tex-to-wordml/
 family: total
 platformtag: net
 feature: conversion

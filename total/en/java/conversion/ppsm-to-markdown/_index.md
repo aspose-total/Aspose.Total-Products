@@ -1,7 +1,7 @@
 ---
 title: Convert PPSM to MARKDOWN Format via Java
 description: Convert PPSM to MARKDOWN format via Java without using using Microsoft Excel or PowerPoint
-url: /java/conversion/ppsm-to-markdown/
+url_ignore: /java/conversion/ppsm-to-markdown/
 family: total
 platformtag: java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: MOBIをTSVに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにMOBIをTSVに変換するC＃API
-url: /ja/net/conversion/mobi-to-tsv/
+url_ignore: /ja/net/conversion/mobi-to-tsv/
 family: total
 platformtag: net
 feature: conversion

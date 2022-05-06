@@ -1,7 +1,7 @@
 ---
 title: DOT को XLSB में बदलने के लिए .NET API
 description: सी # एपीआई माइक्रोसॉफ्ट एक्सेल या एडोब रीडर का उपयोग किए बिना डीओसी को सीएसवी में कनवर्ट करने के लिए
-url: /hi/net/conversion/dot-to-xlsb/
+url_ignore: /hi/net/conversion/dot-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

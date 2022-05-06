@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOCM to SXC
 description: Convert DOCM to SXC in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/docm-to-sxc/
+url_ignore: /android-java/conversion/docm-to-sxc/
 family: total
 platformtag: android-java
 feature: conversion

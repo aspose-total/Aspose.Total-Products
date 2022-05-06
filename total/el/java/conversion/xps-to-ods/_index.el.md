@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση XPS σε ODS
 description: Εξαγωγή XPS σε ODS μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/xps-to-ods/
+url_ignore: /el/java/conversion/xps-to-ods/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert ODT to SXC in C++
 description: C++ API to Convert ODT to SXC without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/odt-to-sxc/
+url_ignore: /cpp/conversion/odt-to-sxc/
 family: total
 platformtag: cpp
 feature: conversion

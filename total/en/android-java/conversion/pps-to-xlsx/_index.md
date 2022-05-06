@@ -1,7 +1,7 @@
 ---
 title: Convert PPS to XLSX in Android via Java
 description: Convert PPS to XLSX in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/pps-to-xlsx/
+url_ignore: /android-java/conversion/pps-to-xlsx/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla CGM'yi JPEG2000'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan CGM dosyasını Java uygulamalarınızda JPEG2000'ye aktarın
-url: /tr/java/conversion/cgm-to-jpeg2000/
+url_ignore: /tr/java/conversion/cgm-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

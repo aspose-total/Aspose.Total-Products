@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга XML в FODS
 description: Экспорт XML в FODS через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/xml-to-fods/
+url_ignore: /ru/java/conversion/xml-to-fods/
 family: total
 platformtag: net
 feature: conversion

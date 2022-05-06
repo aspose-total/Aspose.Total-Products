@@ -1,7 +1,7 @@
 ---
 title: API .NET per convertire DOTX in XLTM
 description: API C# per convertire DOTX in XLTM senza utilizzare Microsoft Excel o Adobe Reader
-url: /it/net/conversion/dotx-to-xltm/
+url_ignore: /it/net/conversion/dotx-to-xltm/
 family: total
 platformtag: net
 feature: conversion
@@ -18,10 +18,10 @@ Utilizzando [Aspose.Total for .NET](https://products.aspose.com/total/net/) puoi
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET per convertire DOTX in XLTM" %}}
-1. Aprire il file DOTX utilizzando la classe [Dotxument](https://apiference.aspose.com/words/net/aspose.words/dotxument)
-2. Converti DOTX in HTML utilizzando il metodo [Save](https://apiference.aspose.com/words/net/aspose.words.dotxument/save/methods/4)
-3. Caricare il dotxumento HTML utilizzando la classe [Workbook](https://apiference.aspose.com/cells/net/aspose.cells/workbook)
-4. Salvare il dotxumento in formato XLTM utilizzando il metodo [Salva](https://apiference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) e impostare `XLTM` come SaveFormat
+1. Aprire il file DOTX utilizzando la classe [Document](https://apiference.aspose.com/words/net/aspose.words/Document)
+2. Converti DOTX in HTML utilizzando il metodo [Save](https://apiference.aspose.com/words/net/aspose.words.Document/save/methods/4)
+3. Caricare il Documento HTML utilizzando la classe [Workbook](https://apiference.aspose.com/cells/net/aspose.cells/workbook)
+4. Salvare il Documento in formato XLTM utilizzando il metodo [Salva](https://apiference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) e impostare `XLTM` come SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
@@ -38,17 +38,16 @@ In alternativa, scarica il programma di installazione MSI offline o le DLL in un
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Carica dotxumento DOTX da Stream tramite C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) consente anche di caricare dotxumenti DOTX tramite stream. Per aprire un dotxumento da uno stream, è sufficiente passare un oggetto stream che contiene il dotxumento nel costruttore [Dotxument](https://apiference.aspose.com/words/net/aspose.words/dotxument). L'esempio di codice seguente mostra come aprire un dotxumento da un flusso:  
+{{% blocks/products/pf/feature-page-section  h2="Carica Documento DOTX da Stream tramite C#" %}}
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) consente anche di caricare Documenti DOTX tramite stream. Per aprire un Documento da uno stream, è sufficiente passare un oggetto stream che contiene il Documento nel costruttore [Document](https://apiference.aspose.com/words/net/aspose.words/Document). L'esempio di codice seguente mostra come aprire un Documento da un flusso:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Aggiungi proprietà personalizzate nel file XLTM tramite C#" %}}
-Durante la conversione di DOTX in XLTM, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) consente di aggiungere proprietà personalizzate nei dotxumenti XLTM. Per aggiungere una proprietà personalizzata, è possibile utilizzare il metodo [Add](https://apiference.aspose.com/cells/net/aspose.cells.properties/customdotxumentpropertycollection/methods/add/index) per il metodo [CustomDotxumentPropertyCollection](https://apiference.aspose.com/cells/net/aspose.cells.properties/customdotxumentpropertycollection). Il metodo Add aggiunge la proprietà al file Excel e restituisce un riferimento per la nuova proprietà del dotxumento come [Aspose.Cells.Properties.DotxumentProperty](https://apiference.aspose.com/cells/net/aspose.cells.properties /proprietà dotxumento). 
+Durante la conversione di DOTX in XLTM, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) consente di aggiungere proprietà personalizzate nei Documenti XLTM. Per aggiungere una proprietà personalizzata, è possibile utilizzare il metodo [Add](https://apiference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index) per il metodo [CustomDocumentPropertyCollection](https://apiference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection). Il metodo Add aggiunge la proprietà al file Excel e restituisce un riferimento per la nuova proprietà del Documento come [Aspose.Cells.Properties.DocumentProperty](https://apiference.aspose.com/cells/net/aspose.cells.properties /proprietà Documento). 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

@@ -1,7 +1,7 @@
 ---
 title: Java経由でOFTをODTにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにOFTをODTに変換するJavaAPI
-url: /ja/java/conversion/oft-to-odt/
+url_ignore: /ja/java/conversion/oft-to-odt/
 family: total
 platformtag: net
 feature: conversion

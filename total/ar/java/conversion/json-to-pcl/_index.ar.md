@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى PCL عبر Java
 description: تحليل JSON إلى PCL في Java بدون استخدام Microsoft Word
-url: /ar/java/conversion/json-to-pcl/
+url_ignore: /ar/java/conversion/json-to-pcl/
 family: total
 platformtag: net
 feature: conversion

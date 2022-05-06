@@ -1,7 +1,7 @@
 ---
 title: Java ile POTX'u DOTX'ye dönüştürün
 description: Microsoft Word veya PowerPoint kullanmadan POTX'u DOTX'a Aktarmak için Java API
-url: /tr/java/conversion/potx-to-dotx/
+url_ignore: /tr/java/conversion/potx-to-dotx/
 family: total
 platformtag: net
 feature: conversion

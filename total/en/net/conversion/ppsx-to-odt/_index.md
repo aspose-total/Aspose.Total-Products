@@ -1,6 +1,6 @@
 ---
 title: Convert PPSX to ODT via C# .NET 
-url: /net/conversion/ppsx-to-odt/ 
+url_ignore: /net/conversion/ppsx-to-odt/ 
 description: Convert PowerPoint ppsx documents to Word odt files with C#. Convert multiple files within ASP.NET or other .NET applications.
 ---
 

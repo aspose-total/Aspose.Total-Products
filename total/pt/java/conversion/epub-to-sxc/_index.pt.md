@@ -1,7 +1,7 @@
 ---
 title: API Java para renderizar EPUB para SXC
 description: Exporte EPUB para SXC via API Java sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/java/conversion/epub-to-sxc/
+url_ignore: /pt/java/conversion/epub-to-sxc/
 family: total
 platformtag: net
 feature: conversion

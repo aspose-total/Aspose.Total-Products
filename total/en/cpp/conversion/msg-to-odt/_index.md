@@ -1,7 +1,7 @@
 ---
 title: Export MSG to ODT via C++
 description: C++ API to Convert MSG to ODT without using Microsoft Word or Outlook
-url: /cpp/conversion/msg-to-odt/
+url_ignore: /cpp/conversion/msg-to-odt/
 family: total
 platformtag: cpp
 feature: conversion

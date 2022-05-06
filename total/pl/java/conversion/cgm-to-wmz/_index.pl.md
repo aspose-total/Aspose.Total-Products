@@ -1,7 +1,7 @@
 ---
 title: Konwertuj CGM na WMZ przez Java
 description: Eksportuj plik CGM do WMZ w swoich aplikacjach Java bez korzystania z aplikacji innych firm
-url: /pl/java/conversion/cgm-to-wmz/
+url_ignore: /pl/java/conversion/cgm-to-wmz/
 family: total
 platformtag: net
 feature: conversion

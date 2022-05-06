@@ -1,7 +1,7 @@
 ---
 title: .NET API pro převod DOTM do DIF
 description: C# API pro převod DOTM do DIF bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/dotm-to-dif/
+url_ignore: /cs/net/conversion/dotm-to-dif/
 family: total
 platformtag: net
 feature: conversion

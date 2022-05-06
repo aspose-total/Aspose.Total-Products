@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى WMZ عبر .NET
 description: تحليل JSON إلى WMZ في C# بدون استخدام تبعيات الطرف الثالث
-url: /ar/net/conversion/json-to-wmz/
+url_ignore: /ar/net/conversion/json-to-wmz/
 family: total
 platformtag: net
 feature: conversion

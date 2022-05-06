@@ -1,7 +1,7 @@
 ---
 title: Konwertuj EPUB na JPEG2000 przez Java
 description: Eksportuj plik EPUB do JPEG2000 w swoich aplikacjach Java bez korzystania z aplikacji innych firm
-url: /pl/java/conversion/epub-to-jpeg2000/
+url_ignore: /pl/java/conversion/epub-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

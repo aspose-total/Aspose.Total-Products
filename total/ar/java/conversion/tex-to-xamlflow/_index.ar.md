@@ -1,7 +1,7 @@
 ---
 title: Java API لتصدير TEX إلى XAMLFLOW
 description: قم بتحويل TEX إلى XAMLFLOW باستخدام Java API في مكان العمل
-url: /ar/java/conversion/tex-to-xamlflow/
+url_ignore: /ar/java/conversion/tex-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

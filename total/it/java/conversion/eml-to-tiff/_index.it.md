@@ -1,7 +1,7 @@
 ---
 title: Esporta EML in TIFF tramite Java
 description: API Java per convertire EML in TIFF senza utilizzare Microsoft Word o Outlook
-url: /it/java/conversion/eml-to-tiff/
+url_ignore: /it/java/conversion/eml-to-tiff/
 family: total
 platformtag: net
 feature: conversion

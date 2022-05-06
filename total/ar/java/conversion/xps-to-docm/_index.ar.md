@@ -1,7 +1,7 @@
 ---
 title: Java API لتصدير XPS إلى DOCM
 description: قم بتحويل XPS إلى DOCM باستخدام Java API في مكان العمل
-url: /ar/java/conversion/xps-to-docm/
+url_ignore: /ar/java/conversion/xps-to-docm/
 family: total
 platformtag: net
 feature: conversion

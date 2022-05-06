@@ -1,7 +1,7 @@
 ---
 title: Java API для экспорта TEX в OTT
 description: Преобразование TEX в OTT с использованием локального Java API
-url: /ru/java/conversion/tex-to-ott/
+url_ignore: /ru/java/conversion/tex-to-ott/
 family: total
 platformtag: net
 feature: conversion

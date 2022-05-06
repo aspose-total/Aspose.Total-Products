@@ -1,7 +1,7 @@
 ---
 title: تحويل POTM إلى تنسيق ODS عبر Java
 description: قم بتحويل POTM إلى تنسيق ODS عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/potm-to-ods/
+url_ignore: /ar/java/conversion/potm-to-ods/
 family: total
 platformtag: net
 feature: conversion

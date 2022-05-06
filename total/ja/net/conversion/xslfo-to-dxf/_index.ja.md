@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXSLFOをDXFに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでXSLFOをDXFにエクスポートします
-url: /ja/net/conversion/xslfo-to-dxf/
+url_ignore: /ja/net/conversion/xslfo-to-dxf/
 family: total
 platformtag: net
 feature: conversion

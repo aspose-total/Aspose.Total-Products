@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XML to DIF
 description: Convert XML to DIF via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xml-to-dif/
+url_ignore: /cpp/conversion/xml-to-dif/
 family: total
 platformtag: cpp
 feature: conversion

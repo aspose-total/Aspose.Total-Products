@@ -1,7 +1,7 @@
 ---
 title: Java API pro export XPS do PS
 description: Převeďte XPS na PS pomocí on premise Java API
-url: /cs/java/conversion/xps-to-ps/
+url_ignore: /cs/java/conversion/xps-to-ps/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Ekspor EMLX ke ODT melalui Java
 description: Java API untuk Mengonversi EMLX ke ODT tanpa menggunakan Microsoft Word atau Outlook
-url: /id/java/conversion/emlx-to-odt/
+url_ignore: /id/java/conversion/emlx-to-odt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to PPS in Android via Java
 description: TXT to PPS conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/txt-to-pps/
+url_ignore: /android-java/conversion/txt-to-pps/
 family: total
 platformtag: android-java
 feature: conversion

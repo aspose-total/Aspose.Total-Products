@@ -1,7 +1,7 @@
 ---
 title: Java ile JSON Formatını RTF'ye Dönüştür
 description: Microsoft Word kullanmadan Java'da JSON'u RTF'ye ayrıştırın
-url: /tr/java/conversion/json-to-rtf/
+url_ignore: /tr/java/conversion/json-to-rtf/
 family: total
 platformtag: net
 feature: conversion

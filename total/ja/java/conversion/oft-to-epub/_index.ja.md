@@ -1,7 +1,7 @@
 ---
 title: Java経由でOFTをEPUBにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにOFTをEPUBに変換するJavaAPI
-url: /ja/java/conversion/oft-to-epub/
+url_ignore: /ja/java/conversion/oft-to-epub/
 family: total
 platformtag: net
 feature: conversion

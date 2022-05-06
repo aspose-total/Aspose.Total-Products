@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى CHM عبر .NET
 description: تحليل JSON إلى CHM في C# بدون استخدام Microsoft Word
-url: /ar/net/conversion/json-to-chm/
+url_ignore: /ar/net/conversion/json-to-chm/
 family: total
 platformtag: net
 feature: conversion

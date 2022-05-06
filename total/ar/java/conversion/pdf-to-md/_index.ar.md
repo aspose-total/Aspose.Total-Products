@@ -1,7 +1,7 @@
 ---
 title: Java API لتقديم PDF إلى MD
 description: قم بتصدير PDF إلى MD عبر Java API دون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/java/conversion/pdf-to-md/
+url_ignore: /ar/java/conversion/pdf-to-md/
 family: total
 platformtag: net
 feature: conversion

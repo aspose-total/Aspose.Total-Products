@@ -1,7 +1,7 @@
 ---
 title: Render EMLX to ODT in Andorid App
 description: Export EMLX to ODT without using Microsoft Word or Outlook in you Andorid applications 
-url: /android-java/conversion/emlx-to-odt/
+url_ignore: /android-java/conversion/emlx-to-odt/
 family: total
 platformtag: android-java
 feature: conversion

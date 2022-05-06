@@ -1,7 +1,7 @@
 ---
 title: Konwertuj POWERPOINT na format XLTM za pomocą Java
 description: Konwertuj POWERPOINT do formatu XLTM za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint
-url: /pl/java/conversion/powerpoint-to-xltm/
+url_ignore: /pl/java/conversion/powerpoint-to-xltm/
 family: total
 platformtag: net
 feature: conversion

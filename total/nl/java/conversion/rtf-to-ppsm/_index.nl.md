@@ -1,7 +1,7 @@
 ---
 title: Converteer RTF naar PPSM via Java
 description: Java API om RTF naar PPSM te exporteren zonder Microsoft Word of PowerPoint te gebruiken
-url: /nl/java/conversion/rtf-to-ppsm/
+url_ignore: /nl/java/conversion/rtf-to-ppsm/
 family: total
 platformtag: net
 feature: conversion
@@ -16,11 +16,11 @@ Vaak moeten ontwikkelaars het RTF-bestand programmatisch naar PPSM converteren. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hoe RTF naar PPSM te converteren via Java" %}}
-1. Open het RTF-bestand met de klasse [Rtfument](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument)
-2. Converteer het RTF-bestand naar HTML met behulp van [save](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument#save(java.lang.String,com.aspose.words.SaveOptions))) methode
+1. Open het RTF-bestand met de klasse [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. Converteer het RTF-bestand naar HTML met behulp van [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) methode
 3. Initialiseer een nieuw [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) object
 5. Extraheer inhoud uit HTML-bestand met BufferedReader en schrijf de inhoud in uw presentatiebestand
-6. Sla het rtfument op in PPSM met de methode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. Sla het Document op in PPSM met de methode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
 Voor RTF naar PPSM-bestandsconversie kunt u Aspose.Total voor Java eenvoudig rechtstreeks vanuit een [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) gebaseerd project en neem bibliotheken op in uw pom.xml.
@@ -35,7 +35,7 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Conversievereisten" %}}
-Met de API kunt u ook met een wachtwoord beveiligde RTF-rtfumenten naar PPSM converteren. Als uw RTF-invoerrtfument met een wachtwoord is beveiligd, kunt u het niet converteren naar PPSM-indeling zonder het wachtwoord te gebruiken. Om een versleuteld rtfument te openen, kunt u het juiste wachtwoord instellen in het object LoadOptions en dit doorgeven aan de rtfumentconstructor.  
+Met de API kunt u ook met een wachtwoord beveiligde RTF-Documenten naar PPSM converteren. Als uw RTF-invoerDocument met een wachtwoord is beveiligd, kunt u het niet converteren naar PPSM-indeling zonder het wachtwoord te gebruiken. Om een versleuteld Document te openen, kunt u het juiste wachtwoord instellen in het object LoadOptions en dit doorgeven aan de Documentconstructor.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-rtf-to-pptx-with-watermark.java" >}}

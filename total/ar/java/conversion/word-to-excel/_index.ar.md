@@ -1,7 +1,7 @@
 ---
 title: Java API لتحويل WORD إلى EXCEL
 description: قم بتحويل WORD إلى EXCEL عبر Java دون استخدام Microsoft Word أو Microsoft Excel
-url: /ar/java/conversion/word-to-excel/
+url_ignore: /ar/java/conversion/word-to-excel/
 family: total
 platformtag: net
 feature: conversion

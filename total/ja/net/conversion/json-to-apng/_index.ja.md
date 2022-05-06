@@ -1,7 +1,7 @@
 ---
 title: .NETを介してJSON形式をAPNGに変換する
 description: サードパーティの依存関係を使用せずに、C＃でJSONをAPNGに解析します
-url: /ja/net/conversion/json-to-apng/
+url_ignore: /ja/net/conversion/json-to-apng/
 family: total
 platformtag: net
 feature: conversion

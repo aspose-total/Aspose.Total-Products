@@ -1,7 +1,7 @@
 ---
 title: Export EPUB to POWERPOINT via C# API
 description: .NET API to Convert EPUB to POWERPOINT without using Microsoft Word
-url: /net/conversion/epub-to-powerpoint/
+url_ignore: /net/conversion/epub-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

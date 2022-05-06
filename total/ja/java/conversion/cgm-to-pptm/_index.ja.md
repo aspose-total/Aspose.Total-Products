@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してCGMをPPTMに変換する
 description: MicrosoftWordを使用せずにCGMをPPTMに変換するJavaAPI
-url: /ja/java/conversion/cgm-to-pptm/
+url_ignore: /ja/java/conversion/cgm-to-pptm/
 family: total
 platformtag: net
 feature: conversion

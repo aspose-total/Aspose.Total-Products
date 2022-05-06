@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してCGMをPPTMにエクスポートする
 description: MicrosoftWordを使用せずにCGMをPPTMに変換する.NETAPI
-url: /ja/net/conversion/cgm-to-pptm/
+url_ignore: /ja/net/conversion/cgm-to-pptm/
 family: total
 platformtag: net
 feature: conversion

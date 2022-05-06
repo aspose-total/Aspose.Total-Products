@@ -1,7 +1,7 @@
 ---
 title: C#-API zum Exportieren von PCL nach FLATOPC
 description: Konvertieren Sie PCL in FLATOPC, ohne Microsoft Word zu verwenden
-url: /de/net/conversion/pcl-to-flatopc/
+url_ignore: /de/net/conversion/pcl-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

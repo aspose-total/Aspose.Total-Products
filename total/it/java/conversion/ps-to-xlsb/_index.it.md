@@ -1,7 +1,7 @@
 ---
 title: API Java per il rendering da PS a XLSB
 description: Esporta PS in XLSB tramite API Java senza utilizzare Microsoft Excel o Adobe Reader
-url: /it/java/conversion/ps-to-xlsb/
+url_ignore: /it/java/conversion/ps-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

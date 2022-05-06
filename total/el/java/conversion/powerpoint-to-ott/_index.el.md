@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή POWERPOINT σε OTT μέσω Java
 description: Java API για εξαγωγή POWERPOINT σε OTT χωρίς χρήση Microsoft Word ή PowerPoint
-url: /el/java/conversion/powerpoint-to-ott/
+url_ignore: /el/java/conversion/powerpoint-to-ott/
 family: total
 platformtag: net
 feature: conversion

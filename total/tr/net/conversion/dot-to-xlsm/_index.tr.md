@@ -1,7 +1,7 @@
 ---
 title: DOT'yi XLSM'ye Dönüştürmek için .NET API
 description: Microsoft Excel veya Adobe Reader kullanmadan DOT'yi XLSM'ye dönüştürmek için C# API'si
-url: /tr/net/conversion/dot-to-xlsm/
+url_ignore: /tr/net/conversion/dot-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

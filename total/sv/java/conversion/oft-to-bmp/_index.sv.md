@@ -1,7 +1,7 @@
 ---
 title: Exportera OFT till BMP via Java
 description: Java API för att konvertera OFT till BMP utan att använda Microsoft Word eller Outlook
-url: /sv/java/conversion/oft-to-bmp/
+url_ignore: /sv/java/conversion/oft-to-bmp/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: PDF'yi MARKDOWN'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan PDF'yi MARKDOWN'ye dönüştürün
-url: /tr/net/conversion/pdf-to-markdown/
+url_ignore: /tr/net/conversion/pdf-to-markdown/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to POWERPOINT via C++
 description: Export WORD to POWERPOINT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/word-to-powerpoint/
+url_ignore: /cpp/conversion/word-to-powerpoint/
 family: total
 platformtag: cpp
 feature: conversion

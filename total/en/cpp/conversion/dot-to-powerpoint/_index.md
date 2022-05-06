@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to POWERPOINT via C++
 description: Export DOT to POWERPOINT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/dot-to-powerpoint/
+url_ignore: /cpp/conversion/dot-to-powerpoint/
 family: total
 platformtag: cpp
 feature: conversion

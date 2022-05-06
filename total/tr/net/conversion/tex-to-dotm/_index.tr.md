@@ -1,7 +1,7 @@
 ---
 title: TEX'yi DOTM'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan TEX'yi DOTM'ye dönüştürün
-url: /tr/net/conversion/tex-to-dotm/
+url_ignore: /tr/net/conversion/tex-to-dotm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export TSV to POWERPOINT in Android 
 description: Android API to Convert TSV to POWERPOINT without using Microsoft Word
-url: /android-java/conversion/tsv-to-powerpoint/
+url_ignore: /android-java/conversion/tsv-to-powerpoint/
 family: total
 platformtag: android-java
 feature: conversion

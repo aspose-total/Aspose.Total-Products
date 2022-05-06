@@ -1,7 +1,7 @@
 ---
 title: .NET API pro převod ODT do XLTM
 description: C# API pro převod ODT do XLTM bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/odt-to-xltm/
+url_ignore: /cs/net/conversion/odt-to-xltm/
 family: total
 platformtag: net
 feature: conversion

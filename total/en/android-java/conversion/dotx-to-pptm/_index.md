@@ -1,7 +1,7 @@
 ---
 title: Convert DOTX to PPTM in Android via Java
 description: DOTX to PPTM conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/dotx-to-pptm/
+url_ignore: /android-java/conversion/dotx-to-pptm/
 family: total
 platformtag: android-java
 feature: conversion

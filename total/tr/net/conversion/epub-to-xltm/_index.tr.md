@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla EPUB'yi XLTM'ye dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan EPUB Dosyasını XLTM'ye Dönüştürmek için C# API'si
-url: /tr/net/conversion/epub-to-xltm/
+url_ignore: /tr/net/conversion/epub-to-xltm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: .NET API 将 WORDML 转换为 SXC
 description: 无需使用 Microsoft Excel 或 Adobe Reader 即可将 WORDML 转换为 SXC 的 C# API
-url: /zh/net/conversion/wordml-to-sxc/
+url_ignore: /zh/net/conversion/wordml-to-sxc/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ otherformats: EXCEL FODS SXC XLSM XLAM XLTM TSV ODS XLTX DIF XLS XLSB XLSX XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="通过 C# 在 SXC 文件中添加自定义属性" %}}
 在将 WORDML 转换为 SXC 时，[Aspose.Cells for .NET](https://products.aspose.com/cells/net/) 允许您在 SXC 文档中添加自定义属性。为了添加自定义属性，您可以对 [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection)类。 Add 方法将属性添加到 Excel 文件，并以 [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) 的形式返回新文档属性的引用/documentproperty) 对象。 
 {{% blocks/products/pf/feature-page-code %}}

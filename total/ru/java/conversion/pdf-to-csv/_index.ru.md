@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга PDF в CSV
 description: Экспорт PDF в CSV через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/pdf-to-csv/
+url_ignore: /ru/java/conversion/pdf-to-csv/
 family: total
 platformtag: net
 feature: conversion

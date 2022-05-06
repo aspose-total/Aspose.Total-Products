@@ -1,7 +1,7 @@
 ---
 title: Java API to Render PDF to FODS
 description: Export PDF to FODS via Java API without using Microsoft Excel or Adobe Reader
-url: /java/conversion/pdf-to-fods/
+url_ignore: /java/conversion/pdf-to-fods/
 family: total
 platformtag: java
 feature: conversion

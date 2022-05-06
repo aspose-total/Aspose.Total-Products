@@ -1,7 +1,7 @@
 ---
 title: POT'u C# ile EXCEL'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan POT'u C#'ta EXCEL'ye dönüştürün
-url: /tr/net/conversion/pot-to-excel/
+url_ignore: /tr/net/conversion/pot-to-excel/
 family: total
 platformtag: net
 feature: conversion

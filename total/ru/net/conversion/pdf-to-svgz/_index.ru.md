@@ -1,7 +1,7 @@
 ---
 title: Преобразование PDF в SVGZ через C# API
 description: Экспорт PDF в SVGZ в ваших приложениях .NET без использования каких-либо сторонних приложений.
-url: /ru/net/conversion/pdf-to-svgz/
+url_ignore: /ru/net/conversion/pdf-to-svgz/
 family: total
 platformtag: net
 feature: conversion

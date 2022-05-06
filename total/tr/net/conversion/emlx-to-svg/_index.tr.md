@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı SVG'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan EMLX'i SVG'ye dönüştürün
-url: /tr/net/conversion/emlx-to-svg/
+url_ignore: /tr/net/conversion/emlx-to-svg/
 family: total
 platformtag: net
 feature: conversion

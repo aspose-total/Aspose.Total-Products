@@ -1,7 +1,7 @@
 ---
 title: Java ile JSON Formatını PS'ye Dönüştür
 description: Microsoft Word kullanmadan Java'da JSON'u PS'ye ayrıştırın
-url: /tr/java/conversion/json-to-ps/
+url_ignore: /tr/java/conversion/json-to-ps/
 family: total
 platformtag: net
 feature: conversion

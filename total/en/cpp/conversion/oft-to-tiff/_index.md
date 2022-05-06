@@ -1,7 +1,7 @@
 ---
 title: Export OFT to TIFF via C++
 description: C++ API to Convert OFT to TIFF without using Microsoft Word or Outlook
-url: /cpp/conversion/oft-to-tiff/
+url_ignore: /cpp/conversion/oft-to-tiff/
 family: total
 platformtag: cpp
 feature: conversion

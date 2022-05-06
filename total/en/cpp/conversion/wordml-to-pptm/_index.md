@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to PPTM via C++
 description: Export WORDML to PPTM in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/wordml-to-pptm/
+url_ignore: /cpp/conversion/wordml-to-pptm/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converter XSLFO para POWERPOINT via API Java
 description: API Java para converter XSLFO para POWERPOINT sem usar o Microsoft Word
-url: /pt/java/conversion/xslfo-to-powerpoint/
+url_ignore: /pt/java/conversion/xslfo-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

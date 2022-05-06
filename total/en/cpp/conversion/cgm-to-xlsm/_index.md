@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert CGM to XLSM
 description: Convert CGM to XLSM via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/cgm-to-xlsm/
+url_ignore: /cpp/conversion/cgm-to-xlsm/
 family: total
 platformtag: cpp
 feature: conversion

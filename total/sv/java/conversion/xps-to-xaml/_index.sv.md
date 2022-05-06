@@ -1,7 +1,7 @@
 ---
 title: Konvertera XPS till XAML via Java API
 description: Java API för att konvertera XPS till XAML utan att använda Microsoft Word
-url: /sv/java/conversion/xps-to-xaml/
+url_ignore: /sv/java/conversion/xps-to-xaml/
 family: total
 platformtag: net
 feature: conversion

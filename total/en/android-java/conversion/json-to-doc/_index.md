@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to DOC in Android via Java 
 description: Parse JSON to DOC in Java without using Microsoft Word
-url: /android-java/conversion/json-to-doc/
+url_ignore: /android-java/conversion/json-to-doc/
 family: total
 platformtag: android-java
 feature: conversion

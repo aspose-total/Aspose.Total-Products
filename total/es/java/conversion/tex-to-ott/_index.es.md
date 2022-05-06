@@ -1,7 +1,7 @@
 ---
 title: API de Java para exportar TEX a OTT
 description: Convierta TEX a OTT usando la API de Java en las instalaciones
-url: /es/java/conversion/tex-to-ott/
+url_ignore: /es/java/conversion/tex-to-ott/
 family: total
 platformtag: net
 feature: conversion

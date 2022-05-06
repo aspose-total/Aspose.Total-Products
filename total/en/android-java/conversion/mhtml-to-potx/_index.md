@@ -1,7 +1,7 @@
 ---
 title: Export MHTML to POTX in Android 
 description: Android API to Convert MHTML to POTX without using Microsoft Word
-url: /android-java/conversion/mhtml-to-potx/
+url_ignore: /android-java/conversion/mhtml-to-potx/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla TEX'yi APNG'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan TEX dosyasını Java uygulamalarınızda APNG'ye aktarın
-url: /tr/java/conversion/tex-to-apng/
+url_ignore: /tr/java/conversion/tex-to-apng/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование POTM в формат MARKDOWN через Java
 description: Преобразуйте формат POTM в MARKDOWN через Java без использования Microsoft Excel или PowerPoint.
-url: /ru/java/conversion/potm-to-markdown/
+url_ignore: /ru/java/conversion/potm-to-markdown/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API för att rendera PDF till XLTX
 description: Exportera PDF till XLTX via Java API utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/java/conversion/pdf-to-xltx/
+url_ignore: /sv/java/conversion/pdf-to-xltx/
 family: total
 platformtag: net
 feature: conversion

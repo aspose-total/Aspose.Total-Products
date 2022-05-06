@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى RTF عبر .NET
 description: تحليل JSON إلى RTF في C# بدون استخدام Microsoft Word
-url: /ar/net/conversion/json-to-rtf/
+url_ignore: /ar/net/conversion/json-to-rtf/
 family: total
 platformtag: net
 feature: conversion

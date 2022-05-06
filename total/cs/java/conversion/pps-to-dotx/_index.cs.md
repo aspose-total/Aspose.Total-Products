@@ -1,7 +1,7 @@
 ---
 title: Převeďte PPS na DOTX přes Java
 description: Java API pro export PPS do DOTX bez použití Microsoft Word nebo PowerPoint
-url: /cs/java/conversion/pps-to-dotx/
+url_ignore: /cs/java/conversion/pps-to-dotx/
 family: total
 platformtag: net
 feature: conversion

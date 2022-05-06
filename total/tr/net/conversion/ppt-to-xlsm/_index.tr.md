@@ -1,7 +1,7 @@
 ---
 title: PPT'u C# ile XLSM'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan PPT'u C#'ta XLSM'ye dönüştürün
-url: /tr/net/conversion/ppt-to-xlsm/
+url_ignore: /tr/net/conversion/ppt-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

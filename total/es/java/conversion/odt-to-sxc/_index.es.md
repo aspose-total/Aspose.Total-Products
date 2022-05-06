@@ -1,7 +1,7 @@
 ---
 title: API de Java para convertir ODT a SXC
 description: Convierta ODT a SXC a través de Java sin usar Microsoft Word o Microsoft Excel
-url: /es/java/conversion/odt-to-sxc/
+url_ignore: /es/java/conversion/odt-to-sxc/
 family: total
 platformtag: net
 feature: conversion

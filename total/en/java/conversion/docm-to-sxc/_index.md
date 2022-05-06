@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert DOCM to SXC
 description: Convert DOCM to SXC via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/docm-to-sxc/
+url_ignore: /java/conversion/docm-to-sxc/
 family: total
 platformtag: java
 feature: conversion

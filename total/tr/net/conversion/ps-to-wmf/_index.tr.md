@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla PS'yi WMF'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan PS'yi .NET uygulamalarınızda WMF'ye aktarın
-url: /tr/net/conversion/ps-to-wmf/
+url_ignore: /tr/net/conversion/ps-to-wmf/
 family: total
 platformtag: net
 feature: conversion

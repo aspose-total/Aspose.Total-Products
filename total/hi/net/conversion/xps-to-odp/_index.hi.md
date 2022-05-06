@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई के माध्यम से सीजीएम को ओडीपी में निर्यात करें
 description: Microsoft Word का उपयोग किए बिना XPS को ODP में बदलने के लिए .NET API
-url: /hi/net/conversion/xps-to-odp/
+url_ignore: /hi/net/conversion/xps-to-odp/
 family: total
 platformtag: net
 feature: conversion

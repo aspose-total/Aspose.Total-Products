@@ -1,7 +1,7 @@
 ---
 title: Export EMAIL to PCL via C++
 description: C++ API to Convert EMAIL to PCL without using Microsoft Word or Outlook
-url: /cpp/conversion/email-to-pcl/
+url_ignore: /cpp/conversion/email-to-pcl/
 family: total
 platformtag: cpp
 feature: conversion

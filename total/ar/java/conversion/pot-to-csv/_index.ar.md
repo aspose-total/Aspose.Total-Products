@@ -1,7 +1,7 @@
 ---
 title: تحويل POT إلى تنسيق CSV عبر Java
 description: قم بتحويل POT إلى تنسيق CSV عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/pot-to-csv/
+url_ignore: /ar/java/conversion/pot-to-csv/
 family: total
 platformtag: net
 feature: conversion

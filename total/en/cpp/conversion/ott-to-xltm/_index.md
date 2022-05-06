@@ -1,7 +1,7 @@
 ---
 title: Convert OTT to XLTM in C++
 description: C++ API to Convert OTT to XLTM without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/ott-to-xltm/
+url_ignore: /cpp/conversion/ott-to-xltm/
 family: total
 platformtag: cpp
 feature: conversion

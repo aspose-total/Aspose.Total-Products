@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή μορφής JSON σε OTT μέσω Java
 description: Ανάλυση JSON σε OTT σε Java χωρίς χρήση του Microsoft Word
-url: /el/java/conversion/json-to-ott/
+url_ignore: /el/java/conversion/json-to-ott/
 family: total
 platformtag: net
 feature: conversion

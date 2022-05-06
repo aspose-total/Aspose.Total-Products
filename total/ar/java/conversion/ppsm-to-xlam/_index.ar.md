@@ -1,7 +1,7 @@
 ---
 title: تحويل PPSM إلى تنسيق XLAM عبر Java
 description: قم بتحويل PPSM إلى تنسيق XLAM عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/ppsm-to-xlam/
+url_ignore: /ar/java/conversion/ppsm-to-xlam/
 family: total
 platformtag: net
 feature: conversion

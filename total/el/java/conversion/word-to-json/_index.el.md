@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή WORD σε μορφή JSON μέσω Java
 description: Μετατροπή WORD σε μορφή JSON μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel
-url: /el/java/conversion/word-to-json/
+url_ignore: /el/java/conversion/word-to-json/
 family: total
 platformtag: net
 feature: conversion

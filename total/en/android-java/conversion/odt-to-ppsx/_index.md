@@ -1,7 +1,7 @@
 ---
 title: Convert ODT to PPSX in Android via Java
 description: ODT to PPSX conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/odt-to-ppsx/
+url_ignore: /android-java/conversion/odt-to-ppsx/
 family: total
 platformtag: android-java
 feature: conversion

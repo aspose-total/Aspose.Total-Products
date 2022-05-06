@@ -1,7 +1,7 @@
 ---
 title: 通过 Java 将 EMLX 导出为 SVG
 description: 无需使用 Microsoft Word 或 Outlook 即可将 EMLX 转换为 SVG 的 Java API
-url: /zh/java/conversion/emlx-to-svg/
+url_ignore: /zh/java/conversion/emlx-to-svg/
 family: total
 platformtag: net
 feature: conversion

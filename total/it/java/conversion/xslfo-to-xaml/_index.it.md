@@ -1,7 +1,7 @@
 ---
 title: Converti XSLFO in XAML tramite API Java
 description: API Java per convertire XSLFO in XAML senza utilizzare Microsoft Word
-url: /it/java/conversion/xslfo-to-xaml/
+url_ignore: /it/java/conversion/xslfo-to-xaml/
 family: total
 platformtag: net
 feature: conversion

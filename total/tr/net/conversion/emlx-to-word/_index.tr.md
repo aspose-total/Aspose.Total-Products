@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı WORD'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan EMLX'i WORD'ye dönüştürün
-url: /tr/net/conversion/emlx-to-word/
+url_ignore: /tr/net/conversion/emlx-to-word/
 family: total
 platformtag: net
 feature: conversion

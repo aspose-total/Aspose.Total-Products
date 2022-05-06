@@ -1,7 +1,7 @@
 ---
 title: Convert PPS to DIF via C++ 
 description: Export PPS to DIF in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pps-to-dif/
+url_ignore: /cpp/conversion/pps-to-dif/
 family: total
 platformtag: cpp
 feature: conversion

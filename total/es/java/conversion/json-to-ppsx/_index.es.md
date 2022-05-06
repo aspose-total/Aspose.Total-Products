@@ -1,7 +1,7 @@
 ---
 title: Convierta el formato JSON a PPSX a través de Java
 description: Analice JSON a PPSX en Java sin usar Microsoft PowerPoint
-url: /es/java/conversion/json-to-ppsx/
+url_ignore: /es/java/conversion/json-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

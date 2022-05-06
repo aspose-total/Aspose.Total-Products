@@ -1,7 +1,7 @@
 ---
 title: Converteer PPS naar JSON-formaat via Java
 description: Converteer PPS naar JSON-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken
-url: /nl/java/conversion/pps-to-json/
+url_ignore: /nl/java/conversion/pps-to-json/
 family: total
 platformtag: net
 feature: conversion

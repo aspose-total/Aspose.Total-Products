@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla XPS'yi SVGZ'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan XPS dosyasını Java uygulamalarınızda SVGZ'ye aktarın
-url: /tr/java/conversion/xps-to-svgz/
+url_ignore: /tr/java/conversion/xps-to-svgz/
 family: total
 platformtag: net
 feature: conversion

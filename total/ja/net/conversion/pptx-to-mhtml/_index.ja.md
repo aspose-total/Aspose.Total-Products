@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPPTXをMHTMLに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPTXをMHTMLに変換する
-url: /ja/net/conversion/pptx-to-mhtml/
+url_ignore: /ja/net/conversion/pptx-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

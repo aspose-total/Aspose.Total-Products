@@ -1,7 +1,7 @@
 ---
 title: XPSをFLATOPCにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してXPSをFLATOPCに変換する
-url: /ja/java/conversion/xps-to-flatopc/
+url_ignore: /ja/java/conversion/xps-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

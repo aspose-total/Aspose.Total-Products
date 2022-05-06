@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してXMLをPPTに変換する
 description: MicrosoftWordを使用せずにXMLをPPTに変換するJavaAPI
-url: /ja/java/conversion/xml-to-ppt/
+url_ignore: /ja/java/conversion/xml-to-ppt/
 family: total
 platformtag: net
 feature: conversion

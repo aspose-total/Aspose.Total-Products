@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to PPS in Android via Java
 description: WORDML to PPS conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/wordml-to-pps/
+url_ignore: /android-java/conversion/wordml-to-pps/
 family: total
 platformtag: android-java
 feature: conversion

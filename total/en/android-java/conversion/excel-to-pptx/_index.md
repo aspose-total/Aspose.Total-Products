@@ -1,7 +1,7 @@
 ---
 title: Export EXCEL to PPTX in Android 
 description: Android API to Convert EXCEL to PPTX without using Microsoft Word
-url: /android-java/conversion/excel-to-pptx/
+url_ignore: /android-java/conversion/excel-to-pptx/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını .NET aracılığıyla EPUB'ye dönüştürün
 description: Microsoft Word kullanmadan JSON'u C# ile EPUB'ye ayrıştırın
-url: /tr/net/conversion/json-to-epub/
+url_ignore: /tr/net/conversion/json-to-epub/
 family: total
 platformtag: net
 feature: conversion

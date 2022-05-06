@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı DOT'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan OFT'i DOT'ye dönüştürün
-url: /tr/net/conversion/oft-to-dot/
+url_ignore: /tr/net/conversion/oft-to-dot/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: قم بتصدير OFT إلى IMAGE عبر Java
 description: Java API لتحويل البريد الإلكتروني إلى IMAGE دون استخدام Microsoft Word أو Outlook
-url: /ar/java/conversion/oft-to-image/
+url_ignore: /ar/java/conversion/oft-to-image/
 family: total
 platformtag: net
 feature: conversion

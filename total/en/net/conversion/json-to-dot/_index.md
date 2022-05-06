@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to DOT via .NET 
 description: Parse JSON to DOT in C# without using Microsoft Word
-url: /net/conversion/json-to-dot/
+url_ignore: /net/conversion/json-to-dot/
 family: total
 platformtag: net
 feature: conversion

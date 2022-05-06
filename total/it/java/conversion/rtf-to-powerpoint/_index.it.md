@@ -1,7 +1,7 @@
 ---
 title: Converti RTF in POWERPOINT tramite Java
 description: API Java per esportare RTF in POWERPOINT senza utilizzare Microsoft Word o PowerPoint
-url: /it/java/conversion/rtf-to-powerpoint/
+url_ignore: /it/java/conversion/rtf-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion
@@ -16,11 +16,11 @@ Spesso gli sviluppatori devono convertire i file RTF in POWERPOINT a livello di 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Come convertire RTF in POWERPOINT tramite Java" %}}
-1. Aprire il file RTF utilizzando la classe [Rtfument](https://apiference.aspose.com/words/java/com.aspose.words/Rtfument)
-2. Converti file RTF in HTML utilizzando [save](https://apiference.aspose.com/words/java/com.aspose.words/Rtfument#save(java.lang.String,com.aspose.words.SaveOptions)) metodo
+1. Aprire il file RTF utilizzando la classe [Document](https://apiference.aspose.com/words/java/com.aspose.words/Document)
+2. Converti file RTF in HTML utilizzando [save](https://apiference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metodo
 3. Inizializzare un nuovo oggetto [Presentation](https://apiference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Estrarre il contenuto dal file HTML utilizzando BufferedReader e scrivere il contenuto nel file di presentazione
-6. Salvare il rtfumento in POWERPOINT utilizzando il metodo [save](https://apiference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. Salvare il Documento in POWERPOINT utilizzando il metodo [save](https://apiference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
 Per la conversione di file da RTF a POWERPOINT, puoi facilmente utilizzare Aspose.Total per Java direttamente da un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) e includi le librerie nel tuo pom.xml.
@@ -35,7 +35,7 @@ In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspos
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisiti di conversione" %}}
-L'API consente inoltre di convertire rtfumenti RTF protetti da password in POWERPOINT. Se il rtfumento RTF di input è protetto da password, non è possibile convertirlo in formato POWERPOINT senza utilizzare la password. Per aprire un rtfumento crittografato è possibile impostare la password corretta nell'oggetto LoadOptions e passarla al costruttore del rtfumento.  
+L'API consente inoltre di convertire Documenti RTF protetti da password in POWERPOINT. Se il Documento RTF di input è protetto da password, non è possibile convertirlo in formato POWERPOINT senza utilizzare la password. Per aprire un Documento crittografato è possibile impostare la password corretta nell'oggetto LoadOptions e passarla al costruttore del Documento.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-rtf-to-pptx-with-watermark.java" >}}

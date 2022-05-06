@@ -1,6 +1,6 @@
 ---
 title: Convert PPT to TXT via C# .NET 
-url: /net/conversion/ppt-to-txt/ 
+url_ignore: /net/conversion/ppt-to-txt/ 
 description: Convert PowerPoint ppt documents to Word txt files with C#. Convert multiple files within ASP.NET or other .NET applications.
 ---
 

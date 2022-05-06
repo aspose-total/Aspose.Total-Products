@@ -1,7 +1,7 @@
 ---
 title: API Java per il rendering da PCL a MD
 description: Esporta PCL in MD tramite API Java senza utilizzare Microsoft Excel o Adobe Reader
-url: /it/java/conversion/pcl-to-md/
+url_ignore: /it/java/conversion/pcl-to-md/
 family: total
 platformtag: net
 feature: conversion

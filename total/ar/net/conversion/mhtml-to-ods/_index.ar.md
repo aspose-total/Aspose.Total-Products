@@ -1,7 +1,7 @@
 ---
 title: تحويل MHTML إلى ODS عبر C# API
 description: C# API لتحويل ملف MHTML إلى ODS بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/mhtml-to-ods/
+url_ignore: /ar/net/conversion/mhtml-to-ods/
 family: total
 platformtag: net
 feature: conversion

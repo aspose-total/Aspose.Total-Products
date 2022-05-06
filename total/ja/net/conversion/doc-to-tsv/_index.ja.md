@@ -1,7 +1,7 @@
 ---
 title: DOCをTSVに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにDOCをTSVに変換するC＃API
-url: /ja/net/conversion/doc-to-tsv/
+url_ignore: /ja/net/conversion/doc-to-tsv/
 family: total
 platformtag: net
 feature: conversion

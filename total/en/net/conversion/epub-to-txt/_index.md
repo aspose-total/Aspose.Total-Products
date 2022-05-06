@@ -1,7 +1,7 @@
 ---
 title: Convert EPUB to TXT via C# API
 description: C# API to Convert EPUB File to TXT without using Microsoft Excel or Adobe Reader
-url: /net/conversion/epub-to-txt/
+url_ignore: /net/conversion/epub-to-txt/
 family: total
 platformtag: net
 feature: conversion

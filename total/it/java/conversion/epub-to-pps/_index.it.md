@@ -1,7 +1,7 @@
 ---
 title: Converti EPUB in PPS tramite API Java
 description: API Java per convertire EPUB in PPS senza utilizzare Microsoft Word
-url: /it/java/conversion/epub-to-pps/
+url_ignore: /it/java/conversion/epub-to-pps/
 family: total
 platformtag: net
 feature: conversion

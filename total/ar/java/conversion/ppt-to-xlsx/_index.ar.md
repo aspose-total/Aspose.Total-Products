@@ -1,7 +1,7 @@
 ---
 title: تحويل PPT إلى تنسيق XLSX عبر Java
 description: قم بتحويل PPT إلى تنسيق XLSX عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/ppt-to-xlsx/
+url_ignore: /ar/java/conversion/ppt-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: PS을 XAMLFLOW으로 내보내기 위한 C# API
 description: Microsoft Word를 사용하지 않고 PS을 XAMLFLOW으로 변환
-url: /ko/net/conversion/ps-to-xamlflow/
+url_ignore: /ko/net/conversion/ps-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

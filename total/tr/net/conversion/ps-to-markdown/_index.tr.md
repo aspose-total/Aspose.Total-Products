@@ -1,7 +1,7 @@
 ---
 title: PS'yi MARKDOWN'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan PS'yi MARKDOWN'ye dönüştürün
-url: /tr/net/conversion/ps-to-markdown/
+url_ignore: /tr/net/conversion/ps-to-markdown/
 family: total
 platformtag: net
 feature: conversion

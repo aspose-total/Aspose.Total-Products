@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to OTP via Java 
 description: Parse JSON to OTP in Java without using Microsoft PowerPoint
-url: /java/conversion/json-to-otp/
+url_ignore: /java/conversion/json-to-otp/
 family: total
 platformtag: java
 feature: conversion

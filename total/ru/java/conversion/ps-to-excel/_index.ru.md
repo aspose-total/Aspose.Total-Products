@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга PS в EXCEL
 description: Экспорт PS в EXCEL через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/ps-to-excel/
+url_ignore: /ru/java/conversion/ps-to-excel/
 family: total
 platformtag: net
 feature: conversion

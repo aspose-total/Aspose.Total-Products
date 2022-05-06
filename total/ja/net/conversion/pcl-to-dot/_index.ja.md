@@ -1,7 +1,7 @@
 ---
 title: PCLをDOTにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにPCLをDOTに変換する
-url: /ja/net/conversion/pcl-to-dot/
+url_ignore: /ja/net/conversion/pcl-to-dot/
 family: total
 platformtag: net
 feature: conversion

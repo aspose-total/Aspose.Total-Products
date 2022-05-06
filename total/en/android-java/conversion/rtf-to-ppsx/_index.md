@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to PPSX in Android via Java
 description: RTF to PPSX conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/rtf-to-ppsx/
+url_ignore: /android-java/conversion/rtf-to-ppsx/
 family: total
 platformtag: android-java
 feature: conversion

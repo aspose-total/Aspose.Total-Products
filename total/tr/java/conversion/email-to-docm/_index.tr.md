@@ -1,7 +1,7 @@
 ---
 title: EMAIL'i Java aracılığıyla DOCM'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan EMAIL'i DOCM'ye Dönüştürmek için Java API
-url: /tr/java/conversion/email-to-docm/
+url_ignore: /tr/java/conversion/email-to-docm/
 family: total
 platformtag: net
 feature: conversion

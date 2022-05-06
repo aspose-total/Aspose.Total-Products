@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XSLFO to PPSM  
 description: Convert XSLFO to PPSM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xslfo-to-ppsm/
+url_ignore: /cpp/conversion/xslfo-to-ppsm/
 family: total
 platformtag: cpp
 feature: conversion

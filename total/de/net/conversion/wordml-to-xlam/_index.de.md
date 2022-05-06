@@ -1,7 +1,7 @@
 ---
 title: .NET-API zum Konvertieren von WORDML in XLAM
 description: C#-API zum Konvertieren von WORDML in XLAM ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/wordml-to-xlam/
+url_ignore: /de/net/conversion/wordml-to-xlam/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert EPUB to POTM  
 description: Convert EPUB to POTM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/epub-to-potm/
+url_ignore: /cpp/conversion/epub-to-potm/
 family: total
 platformtag: cpp
 feature: conversion

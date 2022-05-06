@@ -1,7 +1,7 @@
 ---
 title: Convert DOCM to ODS in C++
 description: C++ API to Convert DOCM to ODS without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/docm-to-ods/
+url_ignore: /cpp/conversion/docm-to-ods/
 family: total
 platformtag: cpp
 feature: conversion

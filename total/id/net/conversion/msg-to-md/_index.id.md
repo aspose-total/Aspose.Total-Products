@@ -1,7 +1,7 @@
 ---
 title: C# API untuk Mengekspor MSG ke MD
 description: Konversi MSG ke MD tanpa menggunakan Microsoft Word atau Outlook di .NET
-url: /id/net/conversion/msg-to-md/
+url_ignore: /id/net/conversion/msg-to-md/
 family: total
 platformtag: net
 feature: conversion

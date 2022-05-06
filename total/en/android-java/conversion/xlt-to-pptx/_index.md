@@ -1,7 +1,7 @@
 ---
 title: Export XLT to PPTX in Android 
 description: Android API to Convert XLT to PPTX without using Microsoft Word
-url: /android-java/conversion/xlt-to-pptx/
+url_ignore: /android-java/conversion/xlt-to-pptx/
 family: total
 platformtag: android-java
 feature: conversion

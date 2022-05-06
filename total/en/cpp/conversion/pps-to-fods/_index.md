@@ -1,7 +1,7 @@
 ---
 title: Convert PPS to FODS via C++ 
 description: Export PPS to FODS in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pps-to-fods/
+url_ignore: /cpp/conversion/pps-to-fods/
 family: total
 platformtag: cpp
 feature: conversion

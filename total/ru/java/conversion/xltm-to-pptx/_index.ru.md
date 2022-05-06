@@ -1,7 +1,7 @@
 ---
 title: Преобразование XLTM в PPTX с помощью Java
 description: Java API для экспорта XLTM в PPTX с использованием Excel или Word
-url: /ru/java/conversion/xltm-to-pptx/
+url_ignore: /ru/java/conversion/xltm-to-pptx/
 family: total
 platformtag: net
 feature: conversion

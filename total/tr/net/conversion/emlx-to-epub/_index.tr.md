@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı EPUB'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan EMLX'i EPUB'ye dönüştürün
-url: /tr/net/conversion/emlx-to-epub/
+url_ignore: /tr/net/conversion/emlx-to-epub/
 family: total
 platformtag: net
 feature: conversion

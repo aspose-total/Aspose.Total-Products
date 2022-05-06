@@ -1,7 +1,7 @@
 ---
 title: Converti PPTM in formato FODS tramite Java
 description: Converti PPTM in formato FODS tramite Java senza utilizzare Microsoft Excel o PowerPoint
-url: /it/java/conversion/pptm-to-fods/
+url_ignore: /it/java/conversion/pptm-to-fods/
 family: total
 platformtag: net
 feature: conversion

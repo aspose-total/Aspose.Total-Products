@@ -1,7 +1,7 @@
 ---
 title: Java API do renderowania CGM do TXT
 description: Eksportuj CGM do TXT przez Java API bez użycia Microsoft Excel lub Adobe Reader
-url: /pl/java/conversion/cgm-to-txt/
+url_ignore: /pl/java/conversion/cgm-to-txt/
 family: total
 platformtag: net
 feature: conversion

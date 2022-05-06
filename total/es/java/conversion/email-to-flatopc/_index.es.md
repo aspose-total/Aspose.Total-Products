@@ -1,7 +1,7 @@
 ---
 title: Exportar EMAIL a FLATOPC a través de Java
 description: API de Java para convertir EMAIL a FLATOPC sin usar Microsoft Word o Outlook
-url: /es/java/conversion/email-to-flatopc/
+url_ignore: /es/java/conversion/email-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

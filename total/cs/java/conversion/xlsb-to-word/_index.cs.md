@@ -1,7 +1,7 @@
 ---
 title: Převeďte XLSB na WORD pomocí Java
 description: Java API pro export XLSB do WORD pomocí Excelu nebo Wordu
-url: /cs/java/conversion/xlsb-to-word/
+url_ignore: /cs/java/conversion/xlsb-to-word/
 family: total
 platformtag: net
 feature: conversion

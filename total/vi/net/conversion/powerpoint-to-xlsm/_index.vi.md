@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi POWERPOINT sang XLSM qua C#
 description: Chuyển đổi POWERPOINT sang XLSM trong C# mà không cần sử dụng Microsoft Excel hoặc Powerpoint
-url: /vi/net/conversion/powerpoint-to-xlsm/
+url_ignore: /vi/net/conversion/powerpoint-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

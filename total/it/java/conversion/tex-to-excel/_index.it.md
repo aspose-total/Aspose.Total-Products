@@ -1,7 +1,7 @@
 ---
 title: API Java per il rendering da TEX a EXCEL
 description: Esporta TEX in EXCEL tramite API Java senza utilizzare Microsoft Excel o Adobe Reader
-url: /it/java/conversion/tex-to-excel/
+url_ignore: /it/java/conversion/tex-to-excel/
 family: total
 platformtag: net
 feature: conversion

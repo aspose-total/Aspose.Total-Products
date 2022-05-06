@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PCL to ODS
 description: Convert PCL to ODS via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/pcl-to-ods/
+url_ignore: /cpp/conversion/pcl-to-ods/
 family: total
 platformtag: cpp
 feature: conversion

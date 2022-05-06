@@ -1,7 +1,7 @@
 ---
 title: Java API do renderowania XSLFO do XLSB
 description: Eksportuj XSLFO do XLSB przez Java API bez użycia Microsoft Excel lub Adobe Reader
-url: /pl/java/conversion/xslfo-to-xlsb/
+url_ignore: /pl/java/conversion/xslfo-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

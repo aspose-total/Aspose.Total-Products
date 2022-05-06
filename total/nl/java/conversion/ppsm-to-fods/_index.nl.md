@@ -1,7 +1,7 @@
 ---
 title: Converteer PPSM naar FODS-formaat via Java
 description: Converteer PPSM naar FODS-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken
-url: /nl/java/conversion/ppsm-to-fods/
+url_ignore: /nl/java/conversion/ppsm-to-fods/
 family: total
 platformtag: net
 feature: conversion

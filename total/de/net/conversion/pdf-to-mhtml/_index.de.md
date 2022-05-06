@@ -1,7 +1,7 @@
 ---
 title: C#-API zum Exportieren von PDF nach MHTML
 description: Konvertieren Sie PDF in MHTML, ohne Microsoft Word zu verwenden
-url: /de/net/conversion/pdf-to-mhtml/
+url_ignore: /de/net/conversion/pdf-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

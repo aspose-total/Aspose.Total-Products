@@ -1,7 +1,7 @@
 ---
 title: TEXをODTにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにTEXをODTに変換する
-url: /ja/net/conversion/tex-to-odt/
+url_ignore: /ja/net/conversion/tex-to-odt/
 family: total
 platformtag: net
 feature: conversion

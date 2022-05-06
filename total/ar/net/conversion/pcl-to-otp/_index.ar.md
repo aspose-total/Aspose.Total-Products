@@ -1,7 +1,7 @@
 ---
 title: تصدير PCL إلى OTP عبر C# API
 description: NET API لتحويل PCL إلى OTP دون استخدام Microsoft Word
-url: /ar/net/conversion/pcl-to-otp/
+url_ignore: /ar/net/conversion/pcl-to-otp/
 family: total
 platformtag: net
 feature: conversion

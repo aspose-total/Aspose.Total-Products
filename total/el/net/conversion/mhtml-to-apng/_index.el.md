@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή MHTML σε APNG μέσω C# API
 description: Εξάγετε το MHTML σε APNG στις εφαρμογές σας .NET χωρίς να χρησιμοποιήσετε καμία εφαρμογή τρίτου μέρους
-url: /el/net/conversion/mhtml-to-apng/
+url_ignore: /el/net/conversion/mhtml-to-apng/
 family: total
 platformtag: net
 feature: conversion

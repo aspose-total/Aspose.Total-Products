@@ -1,7 +1,7 @@
 ---
 title: Android API to Render CGM to PS
 description: Transform CGM to PS via Android via Java API
-url: /android-java/conversion/cgm-to-ps/
+url_ignore: /android-java/conversion/cgm-to-ps/
 family: total
 platformtag: android-java
 feature: conversion

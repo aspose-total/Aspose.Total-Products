@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert OTT to CSV
 description: Convert OTT to CSV via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/ott-to-csv/
+url_ignore: /java/conversion/ott-to-csv/
 family: total
 platformtag: java
 feature: conversion

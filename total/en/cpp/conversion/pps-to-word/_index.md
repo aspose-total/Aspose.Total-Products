@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PPS to WORD 
 description: Export PPS to WORD within your C++ applications 
-url: /cpp/conversion/pps-to-word/
+url_ignore: /cpp/conversion/pps-to-word/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير البريد الإلكتروني إلى TEXT
 description: قم بتحويل MSG إلى TEXT دون استخدام Microsoft Word أو Outlook على .NET
-url: /ar/net/conversion/msg-to-text/
+url_ignore: /ar/net/conversion/msg-to-text/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API pro převod DOTX do XLSM
 description: Převeďte DOTX na XLSM přes Java bez použití Microsoft Word nebo Microsoft Excel
-url: /cs/java/conversion/dotx-to-xlsm/
+url_ignore: /cs/java/conversion/dotx-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

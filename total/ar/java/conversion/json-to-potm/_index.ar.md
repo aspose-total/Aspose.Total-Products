@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى POTM عبر Java
 description: تحليل JSON إلى POTM في Java بدون استخدام Microsoft PowerPoint
-url: /ar/java/conversion/json-to-potm/
+url_ignore: /ar/java/conversion/json-to-potm/
 family: total
 platformtag: net
 feature: conversion

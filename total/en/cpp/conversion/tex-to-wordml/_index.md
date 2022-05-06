@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export TEX to WORDML
 description: Convert TEX to WORDML within C++ applications.
-url: /cpp/conversion/tex-to-wordml/
+url_ignore: /cpp/conversion/tex-to-wordml/
 family: total
 platformtag: cpp
 feature: conversion

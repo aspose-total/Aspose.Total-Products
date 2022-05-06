@@ -1,7 +1,7 @@
 ---
 title: Java経由でJSON形式をODTに変換する
 description: MicrosoftWordを使用せずにJavaでJSONをODTに解析する
-url: /ja/java/conversion/json-to-odt/
+url_ignore: /ja/java/conversion/json-to-odt/
 family: total
 platformtag: net
 feature: conversion

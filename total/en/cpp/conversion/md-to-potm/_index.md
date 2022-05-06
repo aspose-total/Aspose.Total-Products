@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MD to POTM  
 description: Convert MD to POTM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/md-to-potm/
+url_ignore: /cpp/conversion/md-to-potm/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie MHTML über die C#-API nach PPTM
 description: .NET-API zum Konvertieren von MHTML in PPTM ohne Verwendung von Microsoft Word
-url: /de/net/conversion/mhtml-to-pptm/
+url_ignore: /de/net/conversion/mhtml-to-pptm/
 family: total
 platformtag: net
 feature: conversion

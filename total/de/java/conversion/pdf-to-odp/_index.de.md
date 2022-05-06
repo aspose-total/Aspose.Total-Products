@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie PDF über die Java-API in ODP
 description: Java-API zum Konvertieren von PDF in ODP ohne Verwendung von Microsoft Word
-url: /de/java/conversion/pdf-to-odp/
+url_ignore: /de/java/conversion/pdf-to-odp/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Převést PCL na DXF přes Java
 description: Exportujte soubor PCL do DXF ve svých aplikacích Java bez použití jakékoli aplikace třetí strany
-url: /cs/java/conversion/pcl-to-dxf/
+url_ignore: /cs/java/conversion/pcl-to-dxf/
 family: total
 platformtag: net
 feature: conversion

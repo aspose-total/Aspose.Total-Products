@@ -1,7 +1,7 @@
 ---
 title: Converti MD in DICOM tramite Java
 description: Esporta file MD in DICOM nelle tue applicazioni Java senza utilizzare applicazioni di terze parti
-url: /it/java/conversion/md-to-dicom/
+url_ignore: /it/java/conversion/md-to-dicom/
 family: total
 platformtag: net
 feature: conversion

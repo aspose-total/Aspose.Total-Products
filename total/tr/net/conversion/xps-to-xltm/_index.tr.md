@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla XPS'yi XLTM'ye dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan XPS Dosyasını XLTM'ye Dönüştürmek için C# API'si
-url: /tr/net/conversion/xps-to-xltm/
+url_ignore: /tr/net/conversion/xps-to-xltm/
 family: total
 platformtag: net
 feature: conversion

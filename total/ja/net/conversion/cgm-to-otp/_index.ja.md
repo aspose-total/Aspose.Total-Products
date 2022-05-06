@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してCGMをOTPにエクスポートする
 description: MicrosoftWordを使用せずにCGMをOTPに変換する.NETAPI
-url: /ja/net/conversion/cgm-to-otp/
+url_ignore: /ja/net/conversion/cgm-to-otp/
 family: total
 platformtag: net
 feature: conversion

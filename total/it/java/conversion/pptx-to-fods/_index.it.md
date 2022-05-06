@@ -1,7 +1,7 @@
 ---
 title: Converti PPTX in formato FODS tramite Java
 description: Converti PPTX in formato FODS tramite Java senza utilizzare Microsoft Excel o PowerPoint
-url: /it/java/conversion/pptx-to-fods/
+url_ignore: /it/java/conversion/pptx-to-fods/
 family: total
 platformtag: net
 feature: conversion

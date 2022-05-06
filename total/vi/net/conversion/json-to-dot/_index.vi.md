@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi định dạng JSON sang DOT qua .NET
 description: Phân tích cú pháp JSON thành DOT trong C# mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/json-to-dot/
+url_ignore: /vi/net/conversion/json-to-dot/
 family: total
 platformtag: net
 feature: conversion

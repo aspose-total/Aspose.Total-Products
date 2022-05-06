@@ -1,7 +1,7 @@
 ---
 title: Převeďte PS na POWERPOINT přes Java API
 description: Java API pro převod PS na POWERPOINT bez použití aplikace Microsoft Word
-url: /cs/java/conversion/ps-to-powerpoint/
+url_ignore: /cs/java/conversion/ps-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

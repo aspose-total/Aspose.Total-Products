@@ -1,7 +1,7 @@
 ---
 title: Convert OTT to PPT in Android via Java
 description: OTT to PPT conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/ott-to-ppt/
+url_ignore: /android-java/conversion/ott-to-ppt/
 family: total
 platformtag: android-java
 feature: conversion

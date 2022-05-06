@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export MD to PCL
 description: Convert MD to PCL within C++ applications.
-url: /cpp/conversion/md-to-pcl/
+url_ignore: /cpp/conversion/md-to-pcl/
 family: total
 platformtag: cpp
 feature: conversion

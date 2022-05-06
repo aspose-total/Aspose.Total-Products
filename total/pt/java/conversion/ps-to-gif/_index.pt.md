@@ -1,7 +1,7 @@
 ---
 title: API Java para exportar PS para GIF
 description: Converter PS para GIF usando a API Java local
-url: /pt/java/conversion/ps-to-gif/
+url_ignore: /pt/java/conversion/ps-to-gif/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API pro export EML do TEXT
 description: Převeďte EML na TEXT bez použití Microsoft Word nebo Outlook na .NET
-url: /cs/net/conversion/eml-to-text/
+url_ignore: /cs/net/conversion/eml-to-text/
 family: total
 platformtag: net
 feature: conversion

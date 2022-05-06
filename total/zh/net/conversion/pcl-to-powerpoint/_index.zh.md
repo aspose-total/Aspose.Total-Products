@@ -1,7 +1,7 @@
 ---
 title: 通过 C# API 将 PCL 导出到 POWERPOINT
 description: .NET API 在不使用 Microsoft Word 的情况下将 PCL 转换为 POWERPOINT
-url: /zh/net/conversion/pcl-to-powerpoint/
+url_ignore: /zh/net/conversion/pcl-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

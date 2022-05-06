@@ -1,7 +1,7 @@
 ---
 title: Export XLT to DOC in Android 
 description: Android API to Convert XLT to DOC without using Microsoft Word
-url: /android-java/conversion/xlt-to-doc/
+url_ignore: /android-java/conversion/xlt-to-doc/
 family: total
 platformtag: android-java
 feature: conversion

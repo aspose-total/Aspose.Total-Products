@@ -1,7 +1,7 @@
 ---
 title: API .NET para converter DOT para XLSB
 description: API C# para converter DOT para XLSB sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/dot-to-xlsb/
+url_ignore: /pt/net/conversion/dot-to-xlsb/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Adicionar propriedades personalizadas no arquivo XLSB via C#" %}}
 Ao converter DOT para XLSB, o [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) permite adicionar propriedades personalizadas em seus Documentos XLSB. Para adicionar uma propriedade personalizada, você pode usar o método [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index) para o método [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection) classe. O método Add adiciona a propriedade ao arquivo Excel e retorna uma referência para a nova propriedade do Documento como um [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /Documentproperty) objeto. 
 {{% blocks/products/pf/feature-page-code %}}

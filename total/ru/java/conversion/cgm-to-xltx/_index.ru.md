@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга CGM в XLTX
 description: Экспорт CGM в XLTX через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/cgm-to-xltx/
+url_ignore: /ru/java/conversion/cgm-to-xltx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert PPSM to TSV via C++ 
 description: Export PPSM to TSV in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/ppsm-to-tsv/
+url_ignore: /cpp/conversion/ppsm-to-tsv/
 family: total
 platformtag: cpp
 feature: conversion

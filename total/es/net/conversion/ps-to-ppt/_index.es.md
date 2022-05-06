@@ -1,7 +1,7 @@
 ---
 title: Exportar PS a PPT a través de la API de C#
 description: .NET API para convertir PS a PPT sin usar Microsoft Word
-url: /es/net/conversion/ps-to-ppt/
+url_ignore: /es/net/conversion/ps-to-ppt/
 family: total
 platformtag: net
 feature: conversion

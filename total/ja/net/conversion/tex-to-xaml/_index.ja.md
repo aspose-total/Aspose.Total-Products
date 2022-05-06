@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してTEXをXAMLにエクスポートする
 description: MicrosoftWordを使用せずにTEXをXAMLに変換する.NETAPI
-url: /ja/net/conversion/tex-to-xaml/
+url_ignore: /ja/net/conversion/tex-to-xaml/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to TSV in C++
 description: C++ API to Convert WORD to TSV without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/word-to-tsv/
+url_ignore: /cpp/conversion/word-to-tsv/
 family: total
 platformtag: cpp
 feature: conversion

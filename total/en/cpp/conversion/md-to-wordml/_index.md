@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export MD to WORDML
 description: Convert MD to WORDML within C++ applications.
-url: /cpp/conversion/md-to-wordml/
+url_ignore: /cpp/conversion/md-to-wordml/
 family: total
 platformtag: cpp
 feature: conversion

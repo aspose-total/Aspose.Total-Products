@@ -1,7 +1,7 @@
 ---
 title: แปลง PDF เป็น FODS ผ่าน C# API
 description: C# API เพื่อแปลงไฟล์ PDF เป็น FODS โดยไม่ต้องใช้ Microsoft Excel หรือ Adobe Reader
-url: /th/net/conversion/pdf-to-fods/
+url_ignore: /th/net/conversion/pdf-to-fods/
 family: total
 platformtag: net
 feature: conversion

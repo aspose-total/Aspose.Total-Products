@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى DOC عبر Java
 description: تحليل JSON إلى DOC في Java بدون استخدام Microsoft Word
-url: /ar/java/conversion/json-to-doc/
+url_ignore: /ar/java/conversion/json-to-doc/
 family: total
 platformtag: net
 feature: conversion

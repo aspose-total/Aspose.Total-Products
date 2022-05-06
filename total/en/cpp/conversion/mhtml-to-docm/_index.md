@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export MHTML to DOCM
 description: Convert MHTML to DOCM within C++ applications.
-url: /cpp/conversion/mhtml-to-docm/
+url_ignore: /cpp/conversion/mhtml-to-docm/
 family: total
 platformtag: cpp
 feature: conversion

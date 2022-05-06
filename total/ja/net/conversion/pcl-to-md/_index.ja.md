@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPCLをMDに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPCLファイルをMDに変換するC＃API
-url: /ja/net/conversion/pcl-to-md/
+url_ignore: /ja/net/conversion/pcl-to-md/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: .NET API για μετατροπή MOBI σε XLTX
 description: C# API για μετατροπή MOBI σε XLTX χωρίς χρήση Microsoft Excel ή Adobe Reader
-url: /el/net/conversion/mobi-to-xltx/
+url_ignore: /el/net/conversion/mobi-to-xltx/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ otherformats: XLTM XLTX XLT XLSB EXCEL XLS XLSX ODS TSV SXC XLSM XLAM FODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Προσθήκη προσαρμοσμένων ιδιοτήτων σε αρχείο XLTX μέσω C#" %}}
 Κατά τη μετατροπή του MOBI σε XLTX, το [Aspose.Cells για .NET](https://products.aspose.com/cells/net/) σάς δίνει τη δυνατότητα να προσθέσετε προσαρμοσμένες ιδιότητες στα έγγραφά σας XLTX. Για να προσθέσετε μια προσαρμοσμένη ιδιότητα, μπορείτε να χρησιμοποιήσετε τη μέθοδο [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection/methods/add/index) για το [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection) τάξη. Η μέθοδος Προσθήκη προσθέτει την ιδιότητα στο αρχείο Excel και επιστρέφει μια αναφορά για την ιδιότητα του νέου εγγράφου ως [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /mobiumentproperty) αντικείμενο. 
 {{% blocks/products/pf/feature-page-code %}}

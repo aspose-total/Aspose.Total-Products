@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to WORD using Java 
 description: Java API to Export ODS to WORD with using Excel or Word 
-url: /java/conversion/ods-to-word/
+url_ignore: /java/conversion/ods-to-word/
 family: total
 platformtag: java
 feature: conversion

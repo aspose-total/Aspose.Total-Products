@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını .NET aracılığıyla WMF'ye dönüştürün
 description: Üçüncü taraf bağımlılıklarını kullanmadan JSON'u C#'ta WMF'ye ayrıştırın
-url: /tr/net/conversion/json-to-wmf/
+url_ignore: /tr/net/conversion/json-to-wmf/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export EMLX to DOT via C++
 description: C++ API to Convert EMLX to DOT without using Microsoft Word or Outlook
-url: /cpp/conversion/emlx-to-dot/
+url_ignore: /cpp/conversion/emlx-to-dot/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: MDをPSにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにMDをPSに変換する
-url: /ja/net/conversion/md-to-ps/
+url_ignore: /ja/net/conversion/md-to-ps/
 family: total
 platformtag: net
 feature: conversion

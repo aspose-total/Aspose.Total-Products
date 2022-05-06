@@ -1,7 +1,7 @@
 ---
 title: MD'yi WORDML'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan MD'yi WORDML'ye dönüştürün
-url: /tr/net/conversion/md-to-wordml/
+url_ignore: /tr/net/conversion/md-to-wordml/
 family: total
 platformtag: net
 feature: conversion

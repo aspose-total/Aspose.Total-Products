@@ -1,7 +1,7 @@
 ---
 title: Konvertera PPSX till EXCEL-format via Java
 description: Konvertera PPSX till EXCEL-format via Java utan att använda Microsoft Excel eller PowerPoint
-url: /sv/java/conversion/ppsx-to-excel/
+url_ignore: /sv/java/conversion/ppsx-to-excel/
 family: total
 platformtag: net
 feature: conversion

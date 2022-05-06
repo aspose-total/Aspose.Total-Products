@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XML to POTX  
 description: Convert XML to POTX via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xml-to-potx/
+url_ignore: /cpp/conversion/xml-to-potx/
 family: total
 platformtag: cpp
 feature: conversion

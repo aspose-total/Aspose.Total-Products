@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie ODS in DOCX mit Java
 description: Java-API zum Exportieren von ODS in DOCX mit Excel oder Word
-url: /de/java/conversion/ods-to-docx/
+url_ignore: /de/java/conversion/ods-to-docx/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ Das Rendern von ODS in DOCX ist ein zweistufiger Prozess. Sie verwenden zuerst d
 {{% blocks/products/pf/agp/feature-section-col title="So konvertieren Sie ODS in DOCX über die Java-API" %}}
 1. Öffnen Sie die ODS-Datei mit der Klasse [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).
 2. Konvertieren Sie ODS in PDF und setzen Sie SaveFormat auf AUTO
-3. Laden Sie die konvertierte PDF-Datei mit der Klasse [Docxument](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Docxument).
-4. Speichern Sie das Dokument im DOCX-Format mit [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Docxument#save-java.lang.String-com.aspose.pdf.SaveOptions-) Methode und legen Sie Docx als SaveFormat fest
+3. Laden Sie die konvertierte PDF-Datei mit der Klasse [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document).
+4. Speichern Sie das Dokument im DOCX-Format mit [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) Methode und legen Sie Docx als SaveFormat fest
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
 Sie müssen Aspose.Total für Java direkt aus einem [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)-basierten Projekt verwenden und fügen Sie Bibliotheken in Ihre pom.xml ein.
@@ -32,10 +32,10 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://downloads.aspose.c
 Workbook book = new Workbook("input.ods");
 // save ODS as PDF
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Docxument class
-Docxument docxument = new Docxument("pdfOutput.pdf");
-// save docxument in DOCXX format
-docxument.save("output.docxx", com.aspose.pdf.SaveFormat.DocxX);  
+// load the PDF file using Document class
+Document Document = new Document("pdfOutput.pdf");
+// save Document in DOCXX format
+Document.save("output.docxx", com.aspose.pdf.SaveFormat.DocxX);  
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}

@@ -1,7 +1,7 @@
 ---
 title: Java API pro převod DOCX do XLSB
 description: Převeďte DOCX na XLSB přes Java bez použití Microsoft Word nebo Microsoft Excel
-url: /cs/java/conversion/docx-to-xlsb/
+url_ignore: /cs/java/conversion/docx-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

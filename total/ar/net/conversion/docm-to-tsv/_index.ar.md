@@ -1,7 +1,7 @@
 ---
 title: NET API لتحويل DOCM إلى TSV
 description: C# API لتحويل DOCM إلى TSV بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/docm-to-tsv/
+url_ignore: /ar/net/conversion/docm-to-tsv/
 family: total
 platformtag: net
 feature: conversion
@@ -18,7 +18,7 @@ otherformats: FODS SXC XLTM EXCEL ODS XLS XLAM TSV XLSX XLTX XLT XLSB XLSM DIF
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="NET API لتحويل DOCM إلى TSV" %}}
-1. افتح ملف DOCM باستخدام فئة [Document](https://apireference.aspose.com/words/net/aspose.words/document
+1. افتح ملف DOCM باستخدام فئة [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 2. تحويل DOCM إلى HTML باستخدام طريقة [Save](https://apireference.aspose.com/words/net/aspose.words.documentsave/methods/4)
 3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. احفظ المستند بتنسيق TSV باستخدام طريقة [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) وعيّن `TSV` على أنه SaveFormat

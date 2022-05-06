@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή DOT σε PPSM μέσω Java
 description: Java API για εξαγωγή DOT σε PPSM χωρίς χρήση Microsoft Word ή PowerPoint
-url: /el/java/conversion/dot-to-ppsm/
+url_ignore: /el/java/conversion/dot-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

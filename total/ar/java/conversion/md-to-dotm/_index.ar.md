@@ -1,7 +1,7 @@
 ---
 title: Java API لتصدير MD إلى DOTM
 description: قم بتحويل MD إلى DOTM باستخدام Java API في مكان العمل
-url: /ar/java/conversion/md-to-dotm/
+url_ignore: /ar/java/conversion/md-to-dotm/
 family: total
 platformtag: net
 feature: conversion

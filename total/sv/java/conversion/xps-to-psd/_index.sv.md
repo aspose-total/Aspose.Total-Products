@@ -1,7 +1,7 @@
 ---
 title: Konvertera XPS till PSD via Java
 description: Exportera XPS-fil till PSD i dina Java-applikationer utan att använda någon tredjepartsapplikation
-url: /sv/java/conversion/xps-to-psd/
+url_ignore: /sv/java/conversion/xps-to-psd/
 family: total
 platformtag: net
 feature: conversion

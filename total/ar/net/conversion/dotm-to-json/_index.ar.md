@@ -1,7 +1,7 @@
 ---
 title: تحويل DOTM إلى تنسيق JSON عبر .NET
 description: تحويل DOTM إلى JSON في C# بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/dotm-to-json/
+url_ignore: /ar/net/conversion/dotm-to-json/
 family: total
 platformtag: net
 feature: conversion

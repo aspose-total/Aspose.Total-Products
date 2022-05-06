@@ -1,7 +1,7 @@
 ---
 title: Esporta EMLX in DOC tramite Java
 description: API Java per convertire EMLX in DOC senza utilizzare Microsoft Word o Outlook
-url: /it/java/conversion/emlx-to-doc/
+url_ignore: /it/java/conversion/emlx-to-doc/
 family: total
 platformtag: net
 feature: conversion

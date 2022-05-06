@@ -1,7 +1,7 @@
 ---
 title: NET API لتحويل DOCX إلى EXCEL
 description: C# API لتحويل DOCX إلى EXCEL بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/docx-to-excel/
+url_ignore: /ar/net/conversion/docx-to-excel/
 family: total
 platformtag: net
 feature: conversion

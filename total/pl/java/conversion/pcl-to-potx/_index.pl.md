@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PCL na POTX za pomocą Java API
 description: Java API do konwersji PCL na POTX bez użycia Microsoft Word
-url: /pl/java/conversion/pcl-to-potx/
+url_ignore: /pl/java/conversion/pcl-to-potx/
 family: total
 platformtag: net
 feature: conversion

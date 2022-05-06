@@ -1,7 +1,7 @@
 ---
 title: .NET API to Convert RTF to EXCEL 
 description: C# API to Convert RTF to EXCEL without using Microsoft Excel or Adobe Reader
-url: /net/conversion/rtf-to-excel/
+url_ignore: /net/conversion/rtf-to-excel/
 family: total
 platformtag: net
 feature: conversion

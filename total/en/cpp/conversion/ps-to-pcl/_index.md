@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PS to PCL
 description: Convert PS to PCL within C++ applications.
-url: /cpp/conversion/ps-to-pcl/
+url_ignore: /cpp/conversion/ps-to-pcl/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export EML to DOTM via C++
 description: C++ API to Convert EML to DOTM without using Microsoft Word or Outlook
-url: /cpp/conversion/eml-to-dotm/
+url_ignore: /cpp/conversion/eml-to-dotm/
 family: total
 platformtag: cpp
 feature: conversion

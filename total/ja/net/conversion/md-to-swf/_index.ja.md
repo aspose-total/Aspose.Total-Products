@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMDをSWFにエクスポートする
 description: MicrosoftWordを使用せずにMDをSWFに変換する.NETAPI
-url: /ja/net/conversion/md-to-swf/
+url_ignore: /ja/net/conversion/md-to-swf/
 family: total
 platformtag: net
 feature: conversion

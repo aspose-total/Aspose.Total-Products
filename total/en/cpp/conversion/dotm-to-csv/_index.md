@@ -1,7 +1,7 @@
 ---
 title: Convert DOTM to CSV in C++
 description: C++ API to Convert DOTM to CSV without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/dotm-to-csv/
+url_ignore: /cpp/conversion/dotm-to-csv/
 family: total
 platformtag: cpp
 feature: conversion

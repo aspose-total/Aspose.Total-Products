@@ -1,7 +1,7 @@
 ---
 title: .NET-API zum Konvertieren von MOBI in TSV
 description: C#-API zum Konvertieren von MOBI in TSV ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/mobi-to-tsv/
+url_ignore: /de/net/conversion/mobi-to-tsv/
 family: total
 platformtag: net
 feature: conversion

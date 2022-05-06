@@ -1,7 +1,7 @@
 ---
 title: EPUB'yi MARKDOWN'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan EPUB'yi MARKDOWN'ye dönüştürün
-url: /tr/net/conversion/epub-to-markdown/
+url_ignore: /tr/net/conversion/epub-to-markdown/
 family: total
 platformtag: net
 feature: conversion

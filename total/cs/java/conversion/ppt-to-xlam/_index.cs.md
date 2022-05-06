@@ -1,7 +1,7 @@
 ---
 title: Převeďte PPT do formátu XLAM přes Java
 description: Převeďte PPT do formátu XLAM přes Java bez použití Microsoft Excel nebo PowerPoint
-url: /cs/java/conversion/ppt-to-xlam/
+url_ignore: /cs/java/conversion/ppt-to-xlam/
 family: total
 platformtag: net
 feature: conversion

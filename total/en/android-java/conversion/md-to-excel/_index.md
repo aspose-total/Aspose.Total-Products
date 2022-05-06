@@ -1,7 +1,7 @@
 ---
 title: Convert MD to EXCEL in Android via Java
 description: Render MD to EXCEL in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/md-to-excel/
+url_ignore: /android-java/conversion/md-to-excel/
 family: total
 platformtag: android-java
 feature: conversion

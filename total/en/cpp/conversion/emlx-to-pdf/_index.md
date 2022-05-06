@@ -1,7 +1,7 @@
 ---
 title: Export EMLX to PDF via C++
 description: C++ API to Convert EMLX to PDF without using Microsoft Word or Outlook
-url: /cpp/conversion/emlx-to-pdf/
+url_ignore: /cpp/conversion/emlx-to-pdf/
 family: total
 platformtag: cpp
 feature: conversion

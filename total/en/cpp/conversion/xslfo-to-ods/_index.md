@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XSLFO to ODS
 description: Convert XSLFO to ODS via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xslfo-to-ods/
+url_ignore: /cpp/conversion/xslfo-to-ods/
 family: total
 platformtag: cpp
 feature: conversion

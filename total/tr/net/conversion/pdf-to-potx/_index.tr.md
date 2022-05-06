@@ -1,7 +1,7 @@
 ---
 title: PDF'yi C# API aracılığıyla POTX'ye aktarın
 description: Microsoft Word kullanmadan PDF'yi POTX'ye dönüştürmek için .NET API
-url: /tr/net/conversion/pdf-to-potx/
+url_ignore: /tr/net/conversion/pdf-to-potx/
 family: total
 platformtag: net
 feature: conversion

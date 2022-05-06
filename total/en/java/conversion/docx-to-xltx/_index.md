@@ -1,7 +1,7 @@
 ---
 title: Convert DOCX to XLTX via Java
 description: Convert DOCX to XLTX via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/docx-to-xltx/
+url_ignore: /java/conversion/docx-to-xltx/
 family: total
 platformtag: java
 feature: conversion

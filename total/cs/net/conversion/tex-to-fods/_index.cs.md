@@ -1,7 +1,7 @@
 ---
 title: Převeďte TEX na FODS přes C# API
 description: C# API pro převod souboru TEX do FODS bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/tex-to-fods/
+url_ignore: /cs/net/conversion/tex-to-fods/
 family: total
 platformtag: net
 feature: conversion

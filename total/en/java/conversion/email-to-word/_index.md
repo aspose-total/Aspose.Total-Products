@@ -1,7 +1,7 @@
 ---
 title: Export EMAIL to WORD via Java 
 description: Java API to Convert EMAIL to WORD without using Microsoft Word or Outlook 
-url: /java/conversion/email-to-word/
+url_ignore: /java/conversion/email-to-word/
 family: total
 platformtag: java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تصدير TEX إلى SWF عبر C# API
 description: NET API لتحويل TEX إلى SWF دون استخدام Microsoft Word
-url: /ar/net/conversion/tex-to-swf/
+url_ignore: /ar/net/conversion/tex-to-swf/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converti POTX in formato TSV tramite Java
 description: Converti POTX in formato TSV tramite Java senza utilizzare Microsoft Excel o PowerPoint
-url: /it/java/conversion/potx-to-tsv/
+url_ignore: /it/java/conversion/potx-to-tsv/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie E-MAIL über Java nach JPEG
 description: Java-API zum Konvertieren von E-MAIL in JPEG, ohne Microsoft Word oder Outlook zu verwenden
-url: /de/java/conversion/oft-to-jpeg/
+url_ignore: /de/java/conversion/oft-to-jpeg/
 family: total
 platformtag: net
 feature: conversion

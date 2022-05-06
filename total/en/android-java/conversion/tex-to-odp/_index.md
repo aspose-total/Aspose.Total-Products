@@ -1,7 +1,7 @@
 ---
 title: Export TEX to ODP in Android 
 description: Android API to Convert TEX to ODP without using Microsoft Word
-url: /android-java/conversion/tex-to-odp/
+url_ignore: /android-java/conversion/tex-to-odp/
 family: total
 platformtag: android-java
 feature: conversion

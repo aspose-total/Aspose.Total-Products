@@ -1,7 +1,7 @@
 ---
 title: Преобразование EPUB в POT через Java API
 description: Java API для преобразования EPUB в POT без использования Microsoft Word
-url: /ru/java/conversion/epub-to-pot/
+url_ignore: /ru/java/conversion/epub-to-pot/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API Java per il rendering da CGM a XLAM
 description: Esporta CGM in XLAM tramite API Java senza utilizzare Microsoft Excel o Adobe Reader
-url: /it/java/conversion/cgm-to-xlam/
+url_ignore: /it/java/conversion/cgm-to-xlam/
 family: total
 platformtag: net
 feature: conversion

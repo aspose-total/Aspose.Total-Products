@@ -1,7 +1,7 @@
 ---
 title: Преобразование PPSX в XLSB через C#
 description: Преобразование PPSX в XLSB на C# без использования Microsoft Excel или Powerpoint
-url: /ru/net/conversion/ppsx-to-xlsb/
+url_ignore: /ru/net/conversion/ppsx-to-xlsb/
 family: total
 platformtag: net
 feature: conversion
@@ -33,7 +33,8 @@ otherformats: TSV XLAM XLTM MHTML XLSM XLSB FODS ODS XLSX DIF XLTX XLT SXC XLS M
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ otherformats: TSV XLAM XLTM MHTML XLSM XLSB FODS ODS XLSX DIF XLTX XLT SXC XLS M
 При преобразовании файла PPSX в XLSB, если ваш входной документ PPSX защищен паролем, вы не можете преобразовать его в XLSB без расшифровки документа. Когда ваш документ защищен паролем, это означает, что он налагает определенные ограничения на представление. Для снятия ограничений необходимо ввести пароль. Презентация, защищенная паролем, считается заблокированной презентацией. API позволяет открыть зашифрованный документ, указав правильный пароль в объекте LoadOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: TSV XLAM XLTM MHTML XLSM XLSB FODS ODS XLSX DIF XLTX XLT SXC XLS M
 При преобразовании файла PPSX в XLSB вы также можете добавить водяной знак в формат выходного файла XLSB. Чтобы добавить водяной знак, вы можете создать новый объект Workbook и открыть преобразованный HTML-документ, выбрать Worksheet через его индекс, создать Shape и использовать его функцию AddTextEffect. После этого вы можете сохранить свой HTML-документ в формате XLSB с водяным знаком. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

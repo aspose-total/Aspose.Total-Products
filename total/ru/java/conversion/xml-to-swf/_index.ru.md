@@ -1,7 +1,7 @@
 ---
 title: Преобразование XML в SWF через Java API
 description: Java API для преобразования XML в SWF без использования Microsoft Word
-url: /ru/java/conversion/xml-to-swf/
+url_ignore: /ru/java/conversion/xml-to-swf/
 family: total
 platformtag: net
 feature: conversion

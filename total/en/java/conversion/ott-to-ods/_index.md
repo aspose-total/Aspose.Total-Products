@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert OTT to ODS
 description: Convert OTT to ODS via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/ott-to-ods/
+url_ignore: /java/conversion/ott-to-ods/
 family: total
 platformtag: java
 feature: conversion

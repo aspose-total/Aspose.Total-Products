@@ -1,7 +1,7 @@
 ---
 title: Converter PPT para XLSX via C#
 description: Converter PPT para XLSX em C# sem usar o Microsoft Excel ou Powerpoint
-url: /pt/net/conversion/ppt-to-xlsx/
+url_ignore: /pt/net/conversion/ppt-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

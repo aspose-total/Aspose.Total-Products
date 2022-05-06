@@ -1,7 +1,7 @@
 ---
 title: WORDMLをODSに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにWORDMLをODSに変換するC＃API
-url: /ja/net/conversion/wordml-to-ods/
+url_ignore: /ja/net/conversion/wordml-to-ods/
 family: total
 platformtag: net
 feature: conversion

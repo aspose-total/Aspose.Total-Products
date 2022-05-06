@@ -1,7 +1,7 @@
 ---
 title: API de Java para renderizar TEX a CSV
 description: Exporte TEX a CSV a través de la API de Java sin usar Microsoft Excel o Adobe Reader
-url: /es/java/conversion/tex-to-csv/
+url_ignore: /es/java/conversion/tex-to-csv/
 family: total
 platformtag: net
 feature: conversion

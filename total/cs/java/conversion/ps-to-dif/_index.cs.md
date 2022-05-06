@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení PS do DIF
 description: Export PS do DIF přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/ps-to-dif/
+url_ignore: /cs/java/conversion/ps-to-dif/
 family: total
 platformtag: net
 feature: conversion

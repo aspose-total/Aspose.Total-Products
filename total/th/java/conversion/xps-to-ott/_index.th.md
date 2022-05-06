@@ -1,7 +1,7 @@
 ---
 title: Java API เพื่อส่งออก XPS ไปยัง OTT
 description: แปลง XPS เป็น OTT โดยใช้ Java API . ในตัว
-url: /th/java/conversion/xps-to-ott/
+url_ignore: /th/java/conversion/xps-to-ott/
 family: total
 platformtag: net
 feature: conversion

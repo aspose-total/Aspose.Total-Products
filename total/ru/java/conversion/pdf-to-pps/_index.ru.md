@@ -1,7 +1,7 @@
 ---
 title: Преобразование PDF в PPS через Java API
 description: Java API для преобразования PDF в PPS без использования Microsoft Word
-url: /ru/java/conversion/pdf-to-pps/
+url_ignore: /ru/java/conversion/pdf-to-pps/
 family: total
 platformtag: net
 feature: conversion

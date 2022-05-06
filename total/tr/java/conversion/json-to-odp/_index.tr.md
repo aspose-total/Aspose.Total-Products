@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını Java ile ODP'ye Dönüştür
 description: Microsoft PowerPoint kullanmadan Java'da JSON'u ODP'ye ayrıştırın
-url: /tr/java/conversion/json-to-odp/
+url_ignore: /tr/java/conversion/json-to-odp/
 family: total
 platformtag: net
 feature: conversion

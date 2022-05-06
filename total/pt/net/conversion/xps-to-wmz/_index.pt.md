@@ -1,7 +1,7 @@
 ---
 title: Converter XPS para WMZ via API C#
 description: Exporte XPS para WMZ em seus aplicativos .NET sem usar nenhum aplicativo de terceiros
-url: /pt/net/conversion/xps-to-wmz/
+url_ignore: /pt/net/conversion/xps-to-wmz/
 family: total
 platformtag: net
 feature: conversion

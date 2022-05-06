@@ -1,7 +1,7 @@
 ---
 title: Converti DOT in PPT tramite Java
 description: API Java per esportare DOT in PPT senza utilizzare Microsoft Word o PowerPoint
-url: /it/java/conversion/dot-to-ppt/
+url_ignore: /it/java/conversion/dot-to-ppt/
 family: total
 platformtag: net
 feature: conversion

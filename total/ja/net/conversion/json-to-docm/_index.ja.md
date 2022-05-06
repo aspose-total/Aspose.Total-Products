@@ -1,7 +1,7 @@
 ---
 title: .NETを介してJSON形式をDOCMに変換する
 description: Microsoft Wordを使用せずにC＃でJSONをDOCMに解析する
-url: /ja/net/conversion/json-to-docm/
+url_ignore: /ja/net/conversion/json-to-docm/
 family: total
 platformtag: net
 feature: conversion

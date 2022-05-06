@@ -1,7 +1,7 @@
 ---
 title: Convert POT to XLSB in Android via Java
 description: Convert POT to XLSB in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/pot-to-xlsb/
+url_ignore: /android-java/conversion/pot-to-xlsb/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MD to ODP  
 description: Convert MD to ODP via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/md-to-odp/
+url_ignore: /cpp/conversion/md-to-odp/
 family: total
 platformtag: cpp
 feature: conversion

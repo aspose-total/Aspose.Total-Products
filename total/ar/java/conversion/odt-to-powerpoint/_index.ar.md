@@ -1,7 +1,7 @@
 ---
 title: تحويل ODT إلى POWERPOINT عبر Java
 description: Java API لتصدير ODT إلى POWERPOINT دون استخدام Microsoft Word أو PowerPoint
-url: /ar/java/conversion/odt-to-powerpoint/
+url_ignore: /ar/java/conversion/odt-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion
@@ -18,7 +18,7 @@ otherformats: PPSM POTM PPT POT PPS PPTM PPSX PPTX POWERPOINT POTX CSV DIF FODS 
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل ODT إلى POWERPOINT عبر Java" %}}
 1. افتح ملف ODT باستخدام فئة [Odtument](https://apireference.aspose.com/words/java/com.aspose.words/Odtument)
 2. تحويل ملف ODT إلى HTML باستخدام [Save](https://apireference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String.com.aspose.words.SaveOptions)) طريقة
-3. تهيئة كائن [عرض تقديمي] جديد (https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+3. [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) جديد تهيئة كائن
 5. استخراج المحتوى من ملف HTML باستخدام BufferedReader وكتابة المحتوى في ملف العرض التقديمي الخاص بك
 6. احفظ المستند في POWERPOINT باستخدام طريقة [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}

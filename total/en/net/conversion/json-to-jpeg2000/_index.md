@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to JPEG2000 via .NET 
 description: Parse JSON to JPEG2000 in C# without using third party dependencies
-url: /net/conversion/json-to-jpeg2000/
+url_ignore: /net/conversion/json-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

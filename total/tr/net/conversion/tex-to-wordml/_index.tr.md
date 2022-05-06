@@ -1,7 +1,7 @@
 ---
 title: TEX'yi WORDML'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan TEX'yi WORDML'ye dönüştürün
-url: /tr/net/conversion/tex-to-wordml/
+url_ignore: /tr/net/conversion/tex-to-wordml/
 family: total
 platformtag: net
 feature: conversion

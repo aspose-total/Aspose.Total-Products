@@ -1,7 +1,7 @@
 ---
 title: API .NET per convertire DOCX in ODS
 description: API C# per convertire DOCX in ODS senza utilizzare Microsoft Excel o Adobe Reader
-url: /it/net/conversion/docx-to-ods/
+url_ignore: /it/net/conversion/docx-to-ods/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export MD to OTT
 description: Convert MD to OTT within C++ applications.
-url: /cpp/conversion/md-to-ott/
+url_ignore: /cpp/conversion/md-to-ott/
 family: total
 platformtag: cpp
 feature: conversion

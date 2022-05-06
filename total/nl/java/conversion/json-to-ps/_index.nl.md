@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-formaat naar PS via Java
 description: JSON ontleden naar PS in Java zonder Microsoft Word te gebruiken
-url: /nl/java/conversion/json-to-ps/
+url_ignore: /nl/java/conversion/json-to-ps/
 family: total
 platformtag: net
 feature: conversion

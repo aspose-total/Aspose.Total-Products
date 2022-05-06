@@ -1,7 +1,7 @@
 ---
 title: .NET API untuk Mengonversi DOT ke XLSX
 description: C# API untuk Mengonversi DOT ke XLSX tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/net/conversion/dot-to-xlsx/
+url_ignore: /id/net/conversion/dot-to-xlsx/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Tambahkan Properti Kustom dalam File XLSX melalui C#" %}}
 Saat mengonversi DOT ke XLSX, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) memungkinkan Anda menambahkan properti khusus di dokumen XLSX Anda. Untuk menambahkan properti kustom, Anda dapat menggunakan metode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index) untuk [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection) kelas. Metode Add menambahkan properti ke file Excel dan mengembalikan referensi untuk properti dokumen baru sebagai [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /Documentproperty) objek. 
 {{% blocks/products/pf/feature-page-code %}}

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してSVGをPOTにエクスポートする
 description: MicrosoftWordを使用せずにSVGをPOTに変換する.NETAPI
-url: /ja/net/conversion/svg-to-pot/
+url_ignore: /ja/net/conversion/svg-to-pot/
 family: total
 platformtag: net
 feature: conversion

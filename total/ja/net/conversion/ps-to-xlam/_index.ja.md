@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPSをXLAMに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPSファイルをXLAMに変換するC＃API
-url: /ja/net/conversion/ps-to-xlam/
+url_ignore: /ja/net/conversion/ps-to-xlam/
 family: total
 platformtag: net
 feature: conversion

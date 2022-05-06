@@ -1,7 +1,7 @@
 ---
 title: Преобразование XPS в TGA через Java
 description: Экспорт файла XPS в TGA в ваших приложениях Java без использования каких-либо сторонних приложений.
-url: /ru/java/conversion/xps-to-tga/
+url_ignore: /ru/java/conversion/xps-to-tga/
 family: total
 platformtag: net
 feature: conversion

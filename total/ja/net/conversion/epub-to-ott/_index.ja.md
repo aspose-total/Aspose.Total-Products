@@ -1,7 +1,7 @@
 ---
 title: EPUBをOTTにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにEPUBをOTTに変換する
-url: /ja/net/conversion/epub-to-ott/
+url_ignore: /ja/net/conversion/epub-to-ott/
 family: total
 platformtag: net
 feature: conversion

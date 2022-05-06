@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to XLAM in C++
 description: C++ API to Convert RTF to XLAM without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/rtf-to-xlam/
+url_ignore: /cpp/conversion/rtf-to-xlam/
 family: total
 platformtag: cpp
 feature: conversion

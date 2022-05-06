@@ -1,7 +1,7 @@
 ---
 title: TEX'yi ODT'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan TEX'yi ODT'ye dönüştürün
-url: /tr/net/conversion/tex-to-odt/
+url_ignore: /tr/net/conversion/tex-to-odt/
 family: total
 platformtag: net
 feature: conversion

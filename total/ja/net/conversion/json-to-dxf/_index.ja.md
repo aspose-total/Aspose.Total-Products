@@ -1,7 +1,7 @@
 ---
 title: .NETを介してJSON形式をDXFに変換する
 description: サードパーティの依存関係を使用せずに、C＃でJSONをDXFに解析します
-url: /ja/net/conversion/json-to-dxf/
+url_ignore: /ja/net/conversion/json-to-dxf/
 family: total
 platformtag: net
 feature: conversion

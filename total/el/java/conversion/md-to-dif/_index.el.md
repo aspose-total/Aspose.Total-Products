@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση MD σε DIF
 description: Εξαγωγή MD σε DIF μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/md-to-dif/
+url_ignore: /el/java/conversion/md-to-dif/
 family: total
 platformtag: net
 feature: conversion

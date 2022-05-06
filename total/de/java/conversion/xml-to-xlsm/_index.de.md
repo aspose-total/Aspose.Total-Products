@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Rendern von XML in XLSM
 description: Exportieren Sie XML über die Java-API in XLSM, ohne Microsoft Excel oder Adobe Reader zu verwenden
-url: /de/java/conversion/xml-to-xlsm/
+url_ignore: /de/java/conversion/xml-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

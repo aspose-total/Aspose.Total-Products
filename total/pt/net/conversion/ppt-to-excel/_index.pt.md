@@ -1,7 +1,7 @@
 ---
 title: Converter PPT para EXCEL via C#
 description: Converter PPT para EXCEL em C# sem usar o Microsoft Excel ou Powerpoint
-url: /pt/net/conversion/ppt-to-excel/
+url_ignore: /pt/net/conversion/ppt-to-excel/
 family: total
 platformtag: net
 feature: conversion

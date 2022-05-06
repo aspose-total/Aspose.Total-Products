@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก SVG ไปยัง ODT
 description: แปลง SVG เป็น ODT โดยไม่ต้องใช้ Microsoft Word
-url: /th/net/conversion/svg-to-odt/
+url_ignore: /th/net/conversion/svg-to-odt/
 family: total
 platformtag: net
 feature: conversion

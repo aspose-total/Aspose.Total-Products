@@ -1,7 +1,7 @@
 ---
 title: Xuất MD sang PPSM qua C# API
 description: .NET API để chuyển đổi MD sang PPSM mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/md-to-ppsm/
+url_ignore: /vi/net/conversion/md-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

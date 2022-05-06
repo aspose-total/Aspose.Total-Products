@@ -1,7 +1,7 @@
 ---
 title: C# API pro export MD do MARKDOWN
 description: Převeďte MD na MARKDOWN bez použití aplikace Microsoft Word
-url: /cs/net/conversion/md-to-markdown/
+url_ignore: /cs/net/conversion/md-to-markdown/
 family: total
 platformtag: net
 feature: conversion

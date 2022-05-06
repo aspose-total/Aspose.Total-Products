@@ -1,7 +1,7 @@
 ---
 title: EPUB'yi C# API aracılığıyla OTP'ye aktarın
 description: Microsoft Word kullanmadan EPUB'yi OTP'ye dönüştürmek için .NET API
-url: /tr/net/conversion/epub-to-otp/
+url_ignore: /tr/net/conversion/epub-to-otp/
 family: total
 platformtag: net
 feature: conversion

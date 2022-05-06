@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to PPTX via C++
 description: Export RTF to PPTX in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/rtf-to-pptx/
+url_ignore: /cpp/conversion/rtf-to-pptx/
 family: total
 platformtag: cpp
 feature: conversion

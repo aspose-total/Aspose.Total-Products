@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení TEX do TSV
 description: Export TEX do TSV přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/tex-to-tsv/
+url_ignore: /cs/java/conversion/tex-to-tsv/
 family: total
 platformtag: net
 feature: conversion

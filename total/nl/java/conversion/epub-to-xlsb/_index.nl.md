@@ -1,7 +1,7 @@
 ---
 title: Java API om EPUB naar XLSB te renderen
 description: Exporteer EPUB naar XLSB via Java API zonder Microsoft Excel of Adobe Reader te gebruiken
-url: /nl/java/conversion/epub-to-xlsb/
+url_ignore: /nl/java/conversion/epub-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

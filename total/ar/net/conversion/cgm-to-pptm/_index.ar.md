@@ -1,7 +1,7 @@
 ---
 title: تصدير CGM إلى PPTM عبر C# API
 description: NET API لتحويل CGM إلى PPTM دون استخدام Microsoft Word
-url: /ar/net/conversion/cgm-to-pptm/
+url_ignore: /ar/net/conversion/cgm-to-pptm/
 family: total
 platformtag: net
 feature: conversion

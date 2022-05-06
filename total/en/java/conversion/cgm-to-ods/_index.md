@@ -1,7 +1,7 @@
 ---
 title: Java API to Render CGM to ODS
 description: Export CGM to ODS via Java API without using Microsoft Excel or Adobe Reader
-url: /java/conversion/cgm-to-ods/
+url_ignore: /java/conversion/cgm-to-ods/
 family: total
 platformtag: java
 feature: conversion

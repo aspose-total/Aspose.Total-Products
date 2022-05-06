@@ -1,7 +1,7 @@
 ---
 title: تحويل PPSM إلى FODS عبر C#
 description: قم بتحويل PPSM إلى FODS في C# بدون استخدام Microsoft Excel أو Powerpoint
-url: /ar/net/conversion/ppsm-to-fods/
+url_ignore: /ar/net/conversion/ppsm-to-fods/
 family: total
 platformtag: net
 feature: conversion

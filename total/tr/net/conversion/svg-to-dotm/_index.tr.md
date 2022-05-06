@@ -1,7 +1,7 @@
 ---
 title: SVG'yi DOTM'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan SVG'yi DOTM'ye dönüştürün
-url: /tr/net/conversion/svg-to-dotm/
+url_ignore: /tr/net/conversion/svg-to-dotm/
 family: total
 platformtag: net
 feature: conversion

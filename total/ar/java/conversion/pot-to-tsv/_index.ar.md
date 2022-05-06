@@ -1,7 +1,7 @@
 ---
 title: تحويل POT إلى تنسيق TSV عبر Java
 description: قم بتحويل POT إلى تنسيق TSV عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/pot-to-tsv/
+url_ignore: /ar/java/conversion/pot-to-tsv/
 family: total
 platformtag: net
 feature: conversion

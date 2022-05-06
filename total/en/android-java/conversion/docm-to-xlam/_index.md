@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOCM to XLAM
 description: Convert DOCM to XLAM in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/docm-to-xlam/
+url_ignore: /android-java/conversion/docm-to-xlam/
 family: total
 platformtag: android-java
 feature: conversion

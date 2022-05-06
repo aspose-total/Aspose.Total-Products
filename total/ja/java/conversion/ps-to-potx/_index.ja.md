@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してPSをPOTXに変換する
 description: MicrosoftWordを使用せずにPSをPOTXに変換するJavaAPI
-url: /ja/java/conversion/ps-to-potx/
+url_ignore: /ja/java/conversion/ps-to-potx/
 family: total
 platformtag: net
 feature: conversion

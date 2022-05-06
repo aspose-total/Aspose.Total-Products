@@ -1,7 +1,7 @@
 ---
 title: Convert DOCM to XLSX via .NET 
 description: Convert DOCM to XLSX in C# without using Microsoft Excel or Adobe Reader
-url: /net/conversion/docm-to-xlsx/
+url_ignore: /net/conversion/docm-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

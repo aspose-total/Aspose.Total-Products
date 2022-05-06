@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXMLをDIFに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにXMLファイルをDIFに変換するC＃API
-url: /ja/net/conversion/xml-to-dif/
+url_ignore: /ja/net/conversion/xml-to-dif/
 family: total
 platformtag: net
 feature: conversion

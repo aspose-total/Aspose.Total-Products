@@ -1,7 +1,7 @@
 ---
 title: Convert PS to XLTX via C# API
 description: C# API to Convert PS File to XLTX without using Microsoft Excel or Adobe Reader
-url: /net/conversion/ps-to-xltx/
+url_ignore: /net/conversion/ps-to-xltx/
 family: total
 platformtag: net
 feature: conversion

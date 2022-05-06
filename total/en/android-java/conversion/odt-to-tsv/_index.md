@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert ODT to TSV
 description: Convert ODT to TSV in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/odt-to-tsv/
+url_ignore: /android-java/conversion/odt-to-tsv/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API Java per il rendering da XSLFO a SXC
 description: Esporta XSLFO in SXC tramite API Java senza utilizzare Microsoft Excel o Adobe Reader
-url: /it/java/conversion/xslfo-to-sxc/
+url_ignore: /it/java/conversion/xslfo-to-sxc/
 family: total
 platformtag: net
 feature: conversion

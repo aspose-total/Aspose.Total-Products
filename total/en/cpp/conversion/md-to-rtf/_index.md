@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export MD to RTF
 description: Convert MD to RTF within C++ applications.
-url: /cpp/conversion/md-to-rtf/
+url_ignore: /cpp/conversion/md-to-rtf/
 family: total
 platformtag: cpp
 feature: conversion

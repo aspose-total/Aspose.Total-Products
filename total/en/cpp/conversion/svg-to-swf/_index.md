@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert SVG to SWF  
 description: Convert SVG to SWF via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/svg-to-swf/
+url_ignore: /cpp/conversion/svg-to-swf/
 family: total
 platformtag: cpp
 feature: conversion

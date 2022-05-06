@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie PS über die C#-API nach OTP
 description: .NET-API zum Konvertieren von PS in OTP ohne Verwendung von Microsoft Word
-url: /de/net/conversion/ps-to-otp/
+url_ignore: /de/net/conversion/ps-to-otp/
 family: total
 platformtag: net
 feature: conversion

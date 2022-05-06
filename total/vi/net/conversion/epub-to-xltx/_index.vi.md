@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi EPUB sang XLTX thông qua API C#
 description: C# API để chuyển đổi tệp EPUB sang XLTX mà không cần sử dụng Microsoft Excel hoặc Adobe Reader
-url: /vi/net/conversion/epub-to-xltx/
+url_ignore: /vi/net/conversion/epub-to-xltx/
 family: total
 platformtag: net
 feature: conversion

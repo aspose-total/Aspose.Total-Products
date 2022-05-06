@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi SXC sang PPTX bằng Java
 description: Java API để xuất SXC sang PPTX bằng Excel hoặc Word
-url: /vi/java/conversion/sxc-to-pptx/
+url_ignore: /vi/java/conversion/sxc-to-pptx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konversi XSLFO ke OTP melalui Java API
 description: Java API untuk Mengonversi XSLFO ke OTP tanpa menggunakan Microsoft Word
-url: /id/java/conversion/xslfo-to-otp/
+url_ignore: /id/java/conversion/xslfo-to-otp/
 family: total
 platformtag: net
 feature: conversion

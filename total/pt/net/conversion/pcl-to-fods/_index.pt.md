@@ -1,7 +1,7 @@
 ---
 title: Converter PCL para FODS via API C#
 description: API C# para converter arquivo PCL em FODS sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/pcl-to-fods/
+url_ignore: /pt/net/conversion/pcl-to-fods/
 family: total
 platformtag: net
 feature: conversion

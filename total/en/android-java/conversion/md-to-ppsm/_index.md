@@ -1,7 +1,7 @@
 ---
 title: Export MD to PPSM in Android 
 description: Android API to Convert MD to PPSM without using Microsoft Word
-url: /android-java/conversion/md-to-ppsm/
+url_ignore: /android-java/conversion/md-to-ppsm/
 family: total
 platformtag: android-java
 feature: conversion

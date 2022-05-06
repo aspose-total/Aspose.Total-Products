@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert RTF to EXCEL
 description: Convert RTF to EXCEL via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/rtf-to-excel/
+url_ignore: /java/conversion/rtf-to-excel/
 family: total
 platformtag: java
 feature: conversion

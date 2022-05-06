@@ -1,7 +1,7 @@
 ---
 title: .NET API pro převod WORD do XLSM
 description: C# API pro převod WORD do XLSM bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/word-to-xlsm/
+url_ignore: /cs/net/conversion/word-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

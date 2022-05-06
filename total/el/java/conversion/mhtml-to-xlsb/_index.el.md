@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση MHTML σε XLSB
 description: Εξαγωγή MHTML σε XLSB μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/mhtml-to-xlsb/
+url_ignore: /el/java/conversion/mhtml-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

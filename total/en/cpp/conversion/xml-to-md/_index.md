@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XML to MD
 description: Convert XML to MD via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xml-to-md/
+url_ignore: /cpp/conversion/xml-to-md/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export MSG to SVG via C++
 description: C++ API to Convert MSG to SVG without using Microsoft Word or Outlook
-url: /cpp/conversion/msg-to-svg/
+url_ignore: /cpp/conversion/msg-to-svg/
 family: total
 platformtag: cpp
 feature: conversion

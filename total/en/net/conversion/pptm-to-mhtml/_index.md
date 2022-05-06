@@ -1,7 +1,7 @@
 ---
 title: Convert PPTM to MHTML via C# 
 description: Convert PPTM to MHTML in C# without using Microsoft Excel or Powerpoint
-url: /net/conversion/pptm-to-mhtml/
+url_ignore: /net/conversion/pptm-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

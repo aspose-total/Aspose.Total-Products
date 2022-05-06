@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert TEX to TSV
 description: Convert TEX to TSV via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/tex-to-tsv/
+url_ignore: /cpp/conversion/tex-to-tsv/
 family: total
 platformtag: cpp
 feature: conversion

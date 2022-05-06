@@ -1,7 +1,7 @@
 ---
 title: .NET API для преобразования DOTM в SXC
 description: C# API для преобразования DOTM в SXC без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/dotm-to-sxc/
+url_ignore: /ru/net/conversion/dotm-to-sxc/
 family: total
 platformtag: net
 feature: conversion

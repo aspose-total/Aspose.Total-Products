@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してXMLをPPSに変換する
 description: MicrosoftWordを使用せずにXMLをPPSに変換するJavaAPI
-url: /ja/java/conversion/xml-to-pps/
+url_ignore: /ja/java/conversion/xml-to-pps/
 family: total
 platformtag: net
 feature: conversion

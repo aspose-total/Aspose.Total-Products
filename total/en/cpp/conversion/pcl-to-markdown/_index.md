@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PCL to MARKDOWN
 description: Convert PCL to MARKDOWN within C++ applications.
-url: /cpp/conversion/pcl-to-markdown/
+url_ignore: /cpp/conversion/pcl-to-markdown/
 family: total
 platformtag: cpp
 feature: conversion

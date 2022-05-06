@@ -1,7 +1,7 @@
 ---
 title: Exportar EPUB a POTX a través de la API de C#
 description: .NET API para convertir EPUB a POTX sin usar Microsoft Word
-url: /es/net/conversion/epub-to-potx/
+url_ignore: /es/net/conversion/epub-to-potx/
 family: total
 platformtag: net
 feature: conversion

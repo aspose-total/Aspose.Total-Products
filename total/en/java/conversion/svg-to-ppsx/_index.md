@@ -1,7 +1,7 @@
 ---
 title: Convert SVG to PPSX via Java API
 description: Java API to Convert SVG to PPSX without using Microsoft Word
-url: /java/conversion/svg-to-ppsx/
+url_ignore: /java/conversion/svg-to-ppsx/
 family: total
 platformtag: java
 feature: conversion

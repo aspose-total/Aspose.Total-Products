@@ -1,7 +1,7 @@
 ---
 title: Converti FLATOPC in POWERPOINT tramite Java
 description: API Java per esportare FLATOPC in POWERPOINT senza utilizzare Microsoft Word o PowerPoint
-url: /it/java/conversion/flatopc-to-powerpoint/
+url_ignore: /it/java/conversion/flatopc-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

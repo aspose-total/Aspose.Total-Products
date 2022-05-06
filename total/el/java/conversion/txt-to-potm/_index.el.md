@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή TXT σε POTM μέσω Java
 description: Java API για εξαγωγή TXT σε POTM χωρίς χρήση Microsoft Word ή PowerPoint
-url: /el/java/conversion/txt-to-potm/
+url_ignore: /el/java/conversion/txt-to-potm/
 family: total
 platformtag: net
 feature: conversion

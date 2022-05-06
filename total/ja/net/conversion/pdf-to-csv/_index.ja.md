@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをCSVに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPDFファイルをCSVに変換するC＃API
-url: /ja/net/conversion/pdf-to-csv/
+url_ignore: /ja/net/conversion/pdf-to-csv/
 family: total
 platformtag: net
 feature: conversion

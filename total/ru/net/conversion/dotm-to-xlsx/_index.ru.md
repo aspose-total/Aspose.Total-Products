@@ -1,7 +1,7 @@
 ---
 title: .NET API для преобразования DOTM в XLSX
 description: C# API для преобразования DOTM в XLSX без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/dotm-to-xlsx/
+url_ignore: /ru/net/conversion/dotm-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

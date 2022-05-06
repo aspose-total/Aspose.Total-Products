@@ -1,7 +1,7 @@
 ---
 title: تحويل PPSX إلى MARKDOWN عبر C#
 description: قم بتحويل PPSX إلى MARKDOWN في C# بدون استخدام Microsoft Excel أو Powerpoint
-url: /ar/net/conversion/ppsx-to-markdown/
+url_ignore: /ar/net/conversion/ppsx-to-markdown/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: XPS'yi WORDML'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan XPS'yi WORDML'ye dönüştürün
-url: /tr/net/conversion/xps-to-wordml/
+url_ignore: /tr/net/conversion/xps-to-wordml/
 family: total
 platformtag: net
 feature: conversion

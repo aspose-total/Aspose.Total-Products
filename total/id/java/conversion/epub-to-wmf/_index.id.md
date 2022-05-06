@@ -1,7 +1,7 @@
 ---
 title: Konversi EPUB ke WMF melalui Java
 description: Ekspor file EPUB ke WMF di aplikasi Java Anda tanpa menggunakan aplikasi pihak ketiga
-url: /id/java/conversion/epub-to-wmf/
+url_ignore: /id/java/conversion/epub-to-wmf/
 family: total
 platformtag: net
 feature: conversion

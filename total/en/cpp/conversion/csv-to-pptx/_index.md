@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to PPTX with C++ 
 description: Convert CSV to PPTX within C++ applications
-url: /cpp/conversion/csv-to-pptx/
+url_ignore: /cpp/conversion/csv-to-pptx/
 family: total
 platformtag: cpp
 feature: conversion

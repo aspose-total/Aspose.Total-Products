@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก MHTML ไปยัง DOCM
 description: แปลง MHTML เป็น DOCM โดยไม่ต้องใช้ Microsoft Word
-url: /th/net/conversion/mhtml-to-docm/
+url_ignore: /th/net/conversion/mhtml-to-docm/
 family: total
 platformtag: net
 feature: conversion

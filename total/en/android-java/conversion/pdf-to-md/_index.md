@@ -1,7 +1,7 @@
 ---
 title: Convert PDF to MD in Android via Java
 description: Render PDF to MD in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/pdf-to-md/
+url_ignore: /android-java/conversion/pdf-to-md/
 family: total
 platformtag: android-java
 feature: conversion

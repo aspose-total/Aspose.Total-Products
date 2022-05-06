@@ -1,7 +1,7 @@
 ---
 title: Android API to Render EPUB to MHTML
 description: Transform EPUB to MHTML via Android via Java API
-url: /android-java/conversion/epub-to-mhtml/
+url_ignore: /android-java/conversion/epub-to-mhtml/
 family: total
 platformtag: android-java
 feature: conversion

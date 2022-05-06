@@ -1,7 +1,7 @@
 ---
 title: API Java para renderizar XSLFO para XLT
 description: Exporte XSLFO para XLT via API Java sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/java/conversion/xslfo-to-xlt/
+url_ignore: /pt/java/conversion/xslfo-to-xlt/
 family: total
 platformtag: net
 feature: conversion

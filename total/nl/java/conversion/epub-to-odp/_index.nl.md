@@ -1,7 +1,7 @@
 ---
 title: Converteer EPUB naar ODP via Java API
 description: Java API om EPUB naar ODP te converteren zonder Microsoft Word te gebruiken
-url: /nl/java/conversion/epub-to-odp/
+url_ignore: /nl/java/conversion/epub-to-odp/
 family: total
 platformtag: net
 feature: conversion

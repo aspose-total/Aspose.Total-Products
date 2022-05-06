@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı BMP'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan EML'i BMP'ye dönüştürün
-url: /tr/net/conversion/eml-to-bmp/
+url_ignore: /tr/net/conversion/eml-to-bmp/
 family: total
 platformtag: net
 feature: conversion

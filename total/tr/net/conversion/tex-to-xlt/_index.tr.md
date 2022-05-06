@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla TEX'yi XLT'ye dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan TEX Dosyasını XLT'ye Dönüştürmek için C# API'si
-url: /tr/net/conversion/tex-to-xlt/
+url_ignore: /tr/net/conversion/tex-to-xlt/
 family: total
 platformtag: net
 feature: conversion

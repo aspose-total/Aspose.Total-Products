@@ -1,7 +1,7 @@
 ---
 title: Converter POTX para formato EXCEL via Java
 description: Converta o formato POTX para EXCEL via Java sem usar o Microsoft Excel ou PowerPoint
-url: /pt/java/conversion/potx-to-excel/
+url_ignore: /pt/java/conversion/potx-to-excel/
 family: total
 platformtag: net
 feature: conversion

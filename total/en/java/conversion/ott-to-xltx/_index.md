@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert OTT to XLTX
 description: Convert OTT to XLTX via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/ott-to-xltx/
+url_ignore: /java/conversion/ott-to-xltx/
 family: total
 platformtag: java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert PPTM to EXCEL via C++ 
 description: Export PPTM to EXCEL in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pptm-to-excel/
+url_ignore: /cpp/conversion/pptm-to-excel/
 family: total
 platformtag: cpp
 feature: conversion

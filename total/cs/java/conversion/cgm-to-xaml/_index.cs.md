@@ -1,7 +1,7 @@
 ---
 title: Převeďte CGM na XAML přes Java API
 description: Java API pro převod CGM na XAML bez použití aplikace Microsoft Word
-url: /cs/java/conversion/cgm-to-xaml/
+url_ignore: /cs/java/conversion/cgm-to-xaml/
 family: total
 platformtag: net
 feature: conversion

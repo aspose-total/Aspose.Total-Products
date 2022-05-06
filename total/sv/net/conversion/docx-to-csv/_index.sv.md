@@ -1,7 +1,7 @@
 ---
 title: .NET API för att konvertera DOCX till CSV
 description: C# API för att konvertera DOCX till CSV utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/net/conversion/docx-to-csv/
+url_ignore: /sv/net/conversion/docx-to-csv/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ Genom att använda [Aspose.Total för .NET](https://products.aspose.com/total/ne
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API för att konvertera DOCX till CSV" %}}
-1. Öppna DOCX-filen med klassen [Docxument](https://apireference.aspose.com/words/net/aspose.words/docxument)
-2. Konvertera DOCX till HTML med metoden [Save](https://apireference.aspose.com/words/net/aspose.words.docxument/save/methods/4)
+1. Öppna DOCX-filen med klassen [Document](https://apireference.aspose.com/words/net/aspose.words/Document)
+2. Konvertera DOCX till HTML med metoden [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4)
 3. Ladda HTML-dokument genom att använda klassen [Arbetsbok](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Spara dokumentet i CSV-format med metoden [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) och ställ in "CSV" som SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -39,16 +39,15 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ladda DOCX-dokument från Stream via C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) låter dig också ladda DOCX-dokument via stream. För att öppna ett dokument från en ström, skicka helt enkelt ett strömobjekt som innehåller dokumentet till konstruktorn [Dokument](https://apireference.aspose.com/words/net/aspose.words/docxument). Följande kodexempel visar hur man öppnar ett dokument från en ström:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) låter dig också ladda DOCX-dokument via stream. För att öppna ett dokument från en ström, skicka helt enkelt ett strömobjekt som innehåller dokumentet till konstruktorn [Dokument](https://apireference.aspose.com/words/net/aspose.words/Document). Följande kodexempel visar hur man öppnar ett dokument från en ström:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Lägg till anpassade egenskaper i CSV-fil via C#" %}}
-När du konverterar DOCX till CSV gör [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) det möjligt för dig att lägga till anpassade egenskaper i dina CSV-dokument. För att lägga till en anpassad egenskap kan du använda metoden [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocxumentpropertycollection/methods/add/index) för [CustomDocxumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocxumentpropertycollection) klass. Add-metoden lägger till egenskapen i Excel-filen och returnerar en referens för den nya dokumentegenskapen som en [Aspose.Cells.Properties.DocxumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /docxumentproperty) objekt. 
+När du konverterar DOCX till CSV gör [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) det möjligt för dig att lägga till anpassade egenskaper i dina CSV-dokument. För att lägga till en anpassad egenskap kan du använda metoden [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index) för [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection) klass. Add-metoden lägger till egenskapen i Excel-filen och returnerar en referens för den nya dokumentegenskapen som en [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /Documentproperty) objekt. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

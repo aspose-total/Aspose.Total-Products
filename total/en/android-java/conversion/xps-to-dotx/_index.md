@@ -1,7 +1,7 @@
 ---
 title: Android API to Render XPS to DOTX
 description: Transform XPS to DOTX via Android via Java API
-url: /android-java/conversion/xps-to-dotx/
+url_ignore: /android-java/conversion/xps-to-dotx/
 family: total
 platformtag: android-java
 feature: conversion

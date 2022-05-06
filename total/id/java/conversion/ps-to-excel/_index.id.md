@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender PS ke EXCEL
 description: Ekspor PS ke EXCEL melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/ps-to-excel/
+url_ignore: /id/java/conversion/ps-to-excel/
 family: total
 platformtag: net
 feature: conversion

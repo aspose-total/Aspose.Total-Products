@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してSVGをXLTXに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにSVGファイルをXLTXに変換するC＃API
-url: /ja/net/conversion/svg-to-xltx/
+url_ignore: /ja/net/conversion/svg-to-xltx/
 family: total
 platformtag: net
 feature: conversion

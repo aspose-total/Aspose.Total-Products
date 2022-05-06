@@ -1,7 +1,7 @@
 ---
 title: Convert OTT to SXC in C++
 description: C++ API to Convert OTT to SXC without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/ott-to-sxc/
+url_ignore: /cpp/conversion/ott-to-sxc/
 family: total
 platformtag: cpp
 feature: conversion

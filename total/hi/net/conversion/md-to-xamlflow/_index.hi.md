@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई सीजीएम को डीओसीएम में निर्यात करने के लिए
 description: Microsoft Word का उपयोग किए बिना MD को XAMLFLOW में बदलें
-url: /hi/net/conversion/md-to-xamlflow/
+url_ignore: /hi/net/conversion/md-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

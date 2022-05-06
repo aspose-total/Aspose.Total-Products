@@ -1,6 +1,6 @@
 ---
 title: Преобразование DOT в PPT через C# .NET 
-url: /ru/net/conversion/dot-to-ppt/ 
+url_ignore: /ru/net/conversion/dot-to-ppt/ 
 description: Преобразование документов Word dot в файлы PowerPoint ppt с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

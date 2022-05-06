@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก EMLX ไปยัง MD
 description: แปลง EMLX เป็น MD โดยไม่ต้องใช้ Microsoft Word หรือ Outlook บน .NET
-url: /th/net/conversion/emlx-to-md/
+url_ignore: /th/net/conversion/emlx-to-md/
 family: total
 platformtag: net
 feature: conversion

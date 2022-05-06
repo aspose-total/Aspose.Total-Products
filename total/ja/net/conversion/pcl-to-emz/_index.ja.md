@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPCLをEMZに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでPCLをEMZにエクスポートします
-url: /ja/net/conversion/pcl-to-emz/
+url_ignore: /ja/net/conversion/pcl-to-emz/
 family: total
 platformtag: net
 feature: conversion

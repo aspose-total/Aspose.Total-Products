@@ -1,7 +1,7 @@
 ---
 title: Преобразование POT в формат ODS через Java
 description: Преобразуйте формат POT в ODS через Java без использования Microsoft Excel или PowerPoint.
-url: /ru/java/conversion/pot-to-ods/
+url_ignore: /ru/java/conversion/pot-to-ods/
 family: total
 platformtag: net
 feature: conversion

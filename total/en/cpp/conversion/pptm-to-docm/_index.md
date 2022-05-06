@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PPTM to DOCM 
 description: Export PPTM to DOCM within your C++ applications 
-url: /cpp/conversion/pptm-to-docm/
+url_ignore: /cpp/conversion/pptm-to-docm/
 family: total
 platformtag: cpp
 feature: conversion

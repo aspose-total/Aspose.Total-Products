@@ -1,7 +1,7 @@
 ---
 title: Convertir XSLFO en DXF via Java
 description: Exportez le fichier XSLFO vers DXF dans vos applications Java sans utiliser d'application tierce
-url: /fr/java/conversion/xslfo-to-dxf/
+url_ignore: /fr/java/conversion/xslfo-to-dxf/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API C# per esportare EMAIL in RTF
 description: Converti EMAIL in RTF senza utilizzare Microsoft Word o Outlook su .NET
-url: /it/net/conversion/email-to-rtf/
+url_ignore: /it/net/conversion/email-to-rtf/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java kullanarak XLT'yi DOC'ye dönüştürün
 description: Excel veya Word kullanarak XLT'yi DOC'a Dışa Aktarmak için Java API
-url: /tr/java/conversion/xlt-to-doc/
+url_ignore: /tr/java/conversion/xlt-to-doc/
 family: total
 platformtag: net
 feature: conversion

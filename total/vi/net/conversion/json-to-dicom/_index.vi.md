@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi định dạng JSON sang DICOM qua .NET
 description: Phân tích cú pháp JSON thành DICOM bằng C# mà không sử dụng phụ thuộc của bên thứ ba
-url: /vi/net/conversion/json-to-dicom/
+url_ignore: /vi/net/conversion/json-to-dicom/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MHTML to ODP  
 description: Convert MHTML to ODP via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/mhtml-to-odp/
+url_ignore: /cpp/conversion/mhtml-to-odp/
 family: total
 platformtag: cpp
 feature: conversion

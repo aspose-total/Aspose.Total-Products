@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير البريد الإلكتروني إلى WORDML
 description: قم بتحويل MSG إلى WORDML دون استخدام Microsoft Word أو Outlook على .NET
-url: /ar/net/conversion/msg-to-wordml/
+url_ignore: /ar/net/conversion/msg-to-wordml/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: SVG'yi PCL'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak SVG'yi PCL'ye dönüştürün
-url: /tr/java/conversion/svg-to-pcl/
+url_ignore: /tr/java/conversion/svg-to-pcl/
 family: total
 platformtag: net
 feature: conversion

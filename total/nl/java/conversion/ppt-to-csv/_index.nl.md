@@ -1,7 +1,7 @@
 ---
 title: Converteer PPT naar CSV-formaat via Java
 description: Converteer PPT naar CSV-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken
-url: /nl/java/conversion/ppt-to-csv/
+url_ignore: /nl/java/conversion/ppt-to-csv/
 family: total
 platformtag: net
 feature: conversion

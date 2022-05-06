@@ -1,7 +1,7 @@
 ---
 title: .NET API untuk Mengonversi DOTM ke SXC
 description: C# API untuk Mengonversi DOTM ke SXC tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/net/conversion/dotm-to-sxc/
+url_ignore: /id/net/conversion/dotm-to-sxc/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Tambahkan Properti Kustom dalam File SXC melalui C#" %}}
 Saat mengonversi DOTM ke SXC, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) memungkinkan Anda menambahkan properti khusus di dokumen SXC Anda. Untuk menambahkan properti kustom, Anda dapat menggunakan metode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection/methods/add/index) untuk [CustomDotmumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection) kelas. Metode Add menambahkan properti ke file Excel dan mengembalikan referensi untuk properti dokumen baru sebagai [Aspose.Cells.Properties.DotmumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /dotmumentproperty) objek. 
 {{% blocks/products/pf/feature-page-code %}}

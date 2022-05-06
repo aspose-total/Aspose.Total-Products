@@ -1,7 +1,7 @@
 ---
 title: Konversi Format JSON ke JPEG2000 melalui Java
 description: Parsing JSON ke JPEG2000 di Java tanpa menggunakan Microsoft PowerPoint
-url: /id/java/conversion/json-to-jpeg2000/
+url_ignore: /id/java/conversion/json-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

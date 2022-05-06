@@ -1,7 +1,7 @@
 ---
 title: सी # के माध्यम से पीओटी को सीएसवी में कनवर्ट करें
 description: Microsoft Excel या Powerpoint का उपयोग किए बिना POT को XLTM में C# में बदलें
-url: /hi/net/conversion/pot-to-xltm/
+url_ignore: /hi/net/conversion/pot-to-xltm/
 family: total
 platformtag: net
 feature: conversion

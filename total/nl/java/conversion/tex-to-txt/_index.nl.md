@@ -1,7 +1,7 @@
 ---
 title: Java API om TEX naar TXT te renderen
 description: Exporteer TEX naar TXT via Java API zonder Microsoft Excel of Adobe Reader te gebruiken
-url: /nl/java/conversion/tex-to-txt/
+url_ignore: /nl/java/conversion/tex-to-txt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してCGMをEMZに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでCGMをEMZにエクスポートします
-url: /ja/net/conversion/cgm-to-emz/
+url_ignore: /ja/net/conversion/cgm-to-emz/
 family: total
 platformtag: net
 feature: conversion

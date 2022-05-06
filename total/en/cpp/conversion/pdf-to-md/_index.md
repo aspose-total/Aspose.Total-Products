@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PDF to MD
 description: Convert PDF to MD via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/pdf-to-md/
+url_ignore: /cpp/conversion/pdf-to-md/
 family: total
 platformtag: cpp
 feature: conversion

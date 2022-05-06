@@ -1,7 +1,7 @@
 ---
 title: Konversi Format JSON ke OTT melalui Java
 description: Parsing JSON ke OTT di Java tanpa menggunakan Microsoft Word
-url: /id/java/conversion/json-to-ott/
+url_ignore: /id/java/conversion/json-to-ott/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: XPS'yi C# API aracılığıyla XAML'ye aktarın
 description: Microsoft Word kullanmadan XPS'yi XAML'ye dönüştürmek için .NET API
-url: /tr/net/conversion/xps-to-xaml/
+url_ignore: /tr/net/conversion/xps-to-xaml/
 family: total
 platformtag: net
 feature: conversion

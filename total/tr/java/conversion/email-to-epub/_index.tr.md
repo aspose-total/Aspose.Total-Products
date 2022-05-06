@@ -1,7 +1,7 @@
 ---
 title: EMAIL'i Java aracılığıyla EPUB'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan EMAIL'i EPUB'ye Dönüştürmek için Java API
-url: /tr/java/conversion/email-to-epub/
+url_ignore: /tr/java/conversion/email-to-epub/
 family: total
 platformtag: net
 feature: conversion

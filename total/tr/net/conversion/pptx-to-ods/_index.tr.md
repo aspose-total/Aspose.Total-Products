@@ -1,7 +1,7 @@
 ---
 title: PPTX'u C# ile ODS'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan PPTX'u C#'ta ODS'ye dönüştürün
-url: /tr/net/conversion/pptx-to-ods/
+url_ignore: /tr/net/conversion/pptx-to-ods/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: .NET API pro převod DOCX do CSV
 description: C# API pro převod DOCX do CSV bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/docx-to-csv/
+url_ignore: /cs/net/conversion/docx-to-csv/
 family: total
 platformtag: net
 feature: conversion

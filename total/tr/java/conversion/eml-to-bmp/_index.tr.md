@@ -1,7 +1,7 @@
 ---
 title: EML'i Java aracılığıyla BMP'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan EML'i BMP'ye Dönüştürmek için Java API
-url: /tr/java/conversion/eml-to-bmp/
+url_ignore: /tr/java/conversion/eml-to-bmp/
 family: total
 platformtag: net
 feature: conversion

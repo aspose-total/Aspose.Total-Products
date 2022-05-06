@@ -1,7 +1,7 @@
 ---
 title: Преобразование формата JSON в ODP через Java
 description: Разбор JSON в ODP на Java без использования Microsoft PowerPoint
-url: /ru/java/conversion/json-to-odp/
+url_ignore: /ru/java/conversion/json-to-odp/
 family: total
 platformtag: net
 feature: conversion

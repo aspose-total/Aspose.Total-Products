@@ -1,7 +1,7 @@
 ---
 title: Export OFT to PNG via C++
 description: C++ API to Convert OFT to PNG without using Microsoft Word or Outlook
-url: /cpp/conversion/oft-to-png/
+url_ignore: /cpp/conversion/oft-to-png/
 family: total
 platformtag: cpp
 feature: conversion

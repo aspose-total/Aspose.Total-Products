@@ -1,7 +1,7 @@
 ---
 title: Esporta OFT in MD tramite Java
 description: API Java per convertire OFT in MD senza utilizzare Microsoft Word o Outlook
-url: /it/java/conversion/oft-to-md/
+url_ignore: /it/java/conversion/oft-to-md/
 family: total
 platformtag: net
 feature: conversion

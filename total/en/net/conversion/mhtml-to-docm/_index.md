@@ -1,7 +1,7 @@
 ---
 title: C# API to Export MHTML to DOCM
 description: Convert MHTML to DOCM without using Microsoft Word
-url: /net/conversion/mhtml-to-docm/
+url_ignore: /net/conversion/mhtml-to-docm/
 family: total
 platformtag: net
 feature: conversion

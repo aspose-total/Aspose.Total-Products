@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта EMAIL в ODT
 description: Преобразование EMAIL в ODT без использования Microsoft Word или Outlook на .NET
-url: /ru/net/conversion/email-to-odt/
+url_ignore: /ru/net/conversion/email-to-odt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تحويل PPSX إلى تنسيق TSV عبر Java
 description: قم بتحويل PPSX إلى تنسيق TSV عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/ppsx-to-tsv/
+url_ignore: /ar/java/conversion/ppsx-to-tsv/
 family: total
 platformtag: net
 feature: conversion

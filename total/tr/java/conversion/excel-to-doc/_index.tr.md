@@ -1,7 +1,7 @@
 ---
 title: Java kullanarak EXCEL'yi DOC'ye dönüştürün
 description: Excel veya Word kullanarak EXCEL'yi DOC'a Dışa Aktarmak için Java API
-url: /tr/java/conversion/excel-to-doc/
+url_ignore: /tr/java/conversion/excel-to-doc/
 family: total
 platformtag: net
 feature: conversion

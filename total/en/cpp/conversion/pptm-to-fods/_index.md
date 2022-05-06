@@ -1,7 +1,7 @@
 ---
 title: Convert PPTM to FODS via C++ 
 description: Export PPTM to FODS in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pptm-to-fods/
+url_ignore: /cpp/conversion/pptm-to-fods/
 family: total
 platformtag: cpp
 feature: conversion

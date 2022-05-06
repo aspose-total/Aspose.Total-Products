@@ -1,7 +1,7 @@
 ---
 title: Exportálja az EMLX-t TEXT-be Java-n keresztül
 description: Java API az EMLX TEXT-vé konvertálásához Microsoft Word vagy Outlook használata nélkül
-url: /hu/java/conversion/emlx-to-text/
+url_ignore: /hu/java/conversion/emlx-to-text/
 family: total
 platformtag: net
 feature: conversion
@@ -12,7 +12,7 @@ otherformats: PS DOTM GIF JPEG DOCM DOC PNG ODT TIFF SVG PDF DOT PCL EMF WORDML 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API az EMLX rendereléséhez TEXT-be" h2="Exportálja az EMLX e-mail-címet TEXT-be a helyszíni Java API használatával, harmadik féltől származó függőségek használata nélkül" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Az e-mail konvertálás egy hatékony funkció, amelyet a Java fejlesztők integrálhatnak bármely Java J2SE, J2EE, J2ME alkalmazásba az [Aspose.Total for Java] segítségével (https://products.aspose.com/total/java/). A csomagon belüli két API használatával az EMLX e-mail címet TEXT-vé alakíthatja harmadik féltől való függőség nélkül. Először is használhatja az Emlx Manipulation API-t [Aspose.Emlx for Java](https://products.aspose.com/emlx/java/) az EMLX fájlformátum HTML-lé alakításához. Másodszor, a HTML-t TEXT-be renderelheti a Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) használatával.
+Az e-mail konvertálás egy hatékony funkció, amelyet a Java fejlesztők integrálhatnak bármely Java J2SE, J2EE, J2ME alkalmazásba az [Aspose.Total for Java](https://products.aspose.com/total/java/). A csomagon belüli két API használatával az EMLX e-mail címet TEXT-vé alakíthatja harmadik féltől való függőség nélkül. Először is használhatja az Emlx Manipulation API-t [Aspose.Emlx for Java](https://products.aspose.com/emlx/java/) az EMLX fájlformátum HTML-lé alakításához. Másodszor, a HTML-t TEXT-be renderelheti a Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) használatával.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hogyan lehet az EMLX-t TEXT-vé konvertálni" %}}
@@ -24,7 +24,7 @@ Az e-mail konvertálás egy hatékony funkció, amelyet a Java fejlesztők integ
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 Az Aspose.Total for Java programot közvetlenül egy [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) alapú projektből kell használnia és vegyen fel könyvtárakat a pom.xml fájlba.
 
-Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads] webhelyről (https://downloads.aspose.com/total/java).
+Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 ```cs

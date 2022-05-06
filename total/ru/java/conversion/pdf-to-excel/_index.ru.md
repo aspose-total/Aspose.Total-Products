@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга PDF в EXCEL
 description: Экспорт PDF в EXCEL через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/pdf-to-excel/
+url_ignore: /ru/java/conversion/pdf-to-excel/
 family: total
 platformtag: net
 feature: conversion

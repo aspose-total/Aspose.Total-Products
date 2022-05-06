@@ -1,7 +1,7 @@
 ---
 title: Převeďte SVG na ODS přes C# API
 description: C# API pro převod souboru SVG do ODS bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/svg-to-ods/
+url_ignore: /cs/net/conversion/svg-to-ods/
 family: total
 platformtag: net
 feature: conversion

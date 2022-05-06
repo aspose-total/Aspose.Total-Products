@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie XSLFO über die C#-API in IMAGE
 description: Exportieren Sie XSLFO in IMAGE in Ihren .NET-Anwendungen, ohne Anwendungen von Drittanbietern zu verwenden
-url: /de/net/conversion/xslfo-to-image/
+url_ignore: /de/net/conversion/xslfo-to-image/
 family: total
 platformtag: net
 feature: conversion

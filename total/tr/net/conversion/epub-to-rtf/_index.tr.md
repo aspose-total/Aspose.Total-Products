@@ -1,7 +1,7 @@
 ---
 title: EPUB'yi RTF'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan EPUB'yi RTF'ye dönüştürün
-url: /tr/net/conversion/epub-to-rtf/
+url_ignore: /tr/net/conversion/epub-to-rtf/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi định dạng DOTX sang JSON qua .NET
 description: Chuyển đổi DOTX sang JSON trong C# mà không cần sử dụng Microsoft Excel hoặc Adobe Reader
-url: /vi/net/conversion/dotx-to-json/
+url_ignore: /vi/net/conversion/dotx-to-json/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ Bằng cách sử dụng [Aspose.Total for .NET](https://products.aspose.com/tot
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi định dạng DOTX sang JSON qua C#" %}}
-1. Mở tệp DOTX bằng lớp [Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument)
-2. Chuyển đổi DOTX sang HTML bằng phương pháp [Save](https://apireference.aspose.com/words/net/aspose.words.dotxument/save/methods/4)
+1. Mở tệp DOTX bằng lớp [Document](https://apireference.aspose.com/words/net/aspose.words/Document)
+2. Chuyển đổi DOTX sang HTML bằng phương pháp [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4)
 3. Tải tài liệu HTML bằng cách sử dụng lớp [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Lưu tài liệu sang định dạng JSON bằng phương pháp [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}

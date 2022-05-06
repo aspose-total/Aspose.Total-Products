@@ -1,7 +1,7 @@
 ---
 title: Java API to Render SVG to MD
 description: Export SVG to MD via Java API without using Microsoft Excel or Adobe Reader
-url: /java/conversion/svg-to-md/
+url_ignore: /java/conversion/svg-to-md/
 family: total
 platformtag: java
 feature: conversion

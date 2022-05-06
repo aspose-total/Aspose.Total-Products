@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla PCL'yi APNG'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan PCL'yi .NET uygulamalarınızda APNG'ye aktarın
-url: /tr/net/conversion/pcl-to-apng/
+url_ignore: /tr/net/conversion/pcl-to-apng/
 family: total
 platformtag: net
 feature: conversion

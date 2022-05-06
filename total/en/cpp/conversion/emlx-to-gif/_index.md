@@ -1,7 +1,7 @@
 ---
 title: Export EMLX to GIF via C++
 description: C++ API to Convert EMLX to GIF without using Microsoft Word or Outlook
-url: /cpp/conversion/emlx-to-gif/
+url_ignore: /cpp/conversion/emlx-to-gif/
 family: total
 platformtag: cpp
 feature: conversion

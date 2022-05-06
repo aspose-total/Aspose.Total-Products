@@ -1,7 +1,7 @@
 ---
 title: Java API om DOC naar EXCEL te converteren
 description: Converteer DOC naar EXCEL via Java zonder Microsoft Word of Microsoft Excel te gebruiken
-url: /nl/java/conversion/doc-to-excel/
+url_ignore: /nl/java/conversion/doc-to-excel/
 family: total
 platformtag: net
 feature: conversion

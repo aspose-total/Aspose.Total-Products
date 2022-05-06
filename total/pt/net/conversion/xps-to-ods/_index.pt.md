@@ -1,7 +1,7 @@
 ---
 title: Converter XPS para ODS via API C#
 description: API C# para converter arquivo XPS em ODS sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/xps-to-ods/
+url_ignore: /pt/net/conversion/xps-to-ods/
 family: total
 platformtag: net
 feature: conversion

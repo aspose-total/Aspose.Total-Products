@@ -1,7 +1,7 @@
 ---
 title: Export PS to POT in Android 
 description: Android API to Convert PS to POT without using Microsoft Word
-url: /android-java/conversion/ps-to-pot/
+url_ignore: /android-java/conversion/ps-to-pot/
 family: total
 platformtag: android-java
 feature: conversion

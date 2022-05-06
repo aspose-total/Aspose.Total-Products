@@ -1,7 +1,7 @@
 ---
 title: Převeďte PDF na PPS přes Java API
 description: Java API pro převod PDF na PPS bez použití aplikace Microsoft Word
-url: /cs/java/conversion/pdf-to-pps/
+url_ignore: /cs/java/conversion/pdf-to-pps/
 family: total
 platformtag: net
 feature: conversion

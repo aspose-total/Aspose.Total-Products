@@ -1,7 +1,7 @@
 ---
 title: Экспорт XML в PPSM через C# API
 description: .NET API для преобразования XML в PPSM без использования Microsoft Word
-url: /ru/net/conversion/xml-to-ppsm/
+url_ignore: /ru/net/conversion/xml-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

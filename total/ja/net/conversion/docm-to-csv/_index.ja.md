@@ -1,7 +1,7 @@
 ---
 title: DOCMをCSVに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにDOCMをCSVに変換するC＃API
-url: /ja/net/conversion/docm-to-csv/
+url_ignore: /ja/net/conversion/docm-to-csv/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ otherformats: XLSX XLTM FODS EXCEL XLAM DIF ODS SXC XLSB XLS XLT XLTX XLSM TSV
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="DOCMをCSVに変換する.NETAPI" %}}
-1. [Document](https://apireference.aspose.com/words/net/aspose.words/docmument)クラスを使用してDOCMファイルを開きます
-2. [保存](https://apireference.aspose.com/words/net/aspose.words.docmument/save/methods/4)メソッドを使用してDOCMをHTMLに変換します
+1. [Document](https://apireference.aspose.com/words/net/aspose.words/Document)クラスを使用してDOCMファイルを開きます
+2. [保存](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4)メソッドを使用してDOCMをHTMLに変換します
 3. [ワークブック](https://apireference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
 4. [保存](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをCSV形式で保存し、「CSV」をSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -39,7 +39,7 @@ otherformats: XLSX XLTM FODS EXCEL XLAM DIF ODS SXC XLSB XLS XLT XLTX XLSM TSV
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="C＃経由でストリームからDOCMドキュメントをロードする" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/)では、ストリームを介してDOCMドキュメントをロードすることもできます。ストリームからドキュメントを開くには、ドキュメントを含むストリームオブジェクトを[Docmument](https://apireference.aspose.com/words/net/aspose.words/docmument)コンストラクターに渡すだけです。次のコード例は、ストリームからドキュメントを開く方法を示しています。  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/)では、ストリームを介してDOCMドキュメントをロードすることもできます。ストリームからドキュメントを開くには、ドキュメントを含むストリームオブジェクトを[Document](https://apireference.aspose.com/words/net/aspose.words/Document)コンストラクターに渡すだけです。次のコード例は、ストリームからドキュメントを開く方法を示しています。  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ otherformats: XLSX XLTM FODS EXCEL XLAM DIF ODS SXC XLSB XLS XLT XLTX XLSM TSV
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="C＃を介してCSVファイルにカスタムプロパティを追加する" %}}
-DOCMをCSVに変換する際、[Aspose.Cells for .NET](https://products.aspose.com/cells/net/)を使用すると、CSVドキュメントにカスタムプロパティを追加できます。カスタムプロパティを追加するには、[CustomDocmumentPropertyCollection](の[Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocmumentpropertycollection/methods/add/index)メソッドを使用できます。 https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocmumentpropertycollection)クラス。 Addメソッドは、プロパティをExcelファイルに追加し、新しいドキュメントプロパティの参照を[Aspose.Cells.Properties.DocmumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties)として返します。 / docmumentproperty)オブジェクト。 
+DOCMをCSVに変換する際、[Aspose.Cells for .NET](https://products.aspose.com/cells/net/)を使用すると、CSVドキュメントにカスタムプロパティを追加できます。カスタムプロパティを追加するには、[CustomDocumentPropertyCollection](の[Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index)メソッドを使用できます。 https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection)クラス。 Addメソッドは、プロパティをExcelファイルに追加し、新しいドキュメントプロパティの参照を[Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties)として返します。 / Documentproperty)オブジェクト。 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

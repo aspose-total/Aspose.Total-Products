@@ -1,7 +1,7 @@
 ---
 title: Java API เพื่อส่งออก XPS ไปยัง PCL
 description: แปลง XPS เป็น PCL โดยใช้ Java API . ในตัว
-url: /th/java/conversion/xps-to-pcl/
+url_ignore: /th/java/conversion/xps-to-pcl/
 family: total
 platformtag: net
 feature: conversion

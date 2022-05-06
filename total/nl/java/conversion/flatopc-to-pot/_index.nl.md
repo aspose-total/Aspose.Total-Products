@@ -1,7 +1,7 @@
 ---
 title: Converteer FLATOPC naar POT via Java
 description: Java API om FLATOPC naar POT te exporteren zonder Microsoft Word of PowerPoint te gebruiken
-url: /nl/java/conversion/flatopc-to-pot/
+url_ignore: /nl/java/conversion/flatopc-to-pot/
 family: total
 platformtag: net
 feature: conversion

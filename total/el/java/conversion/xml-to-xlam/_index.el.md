@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση XML σε XLAM
 description: Εξαγωγή XML σε XLAM μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/xml-to-xlam/
+url_ignore: /el/java/conversion/xml-to-xlam/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: MHTMLをRTFにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してMHTMLをRTFに変換する
-url: /ja/java/conversion/mhtml-to-rtf/
+url_ignore: /ja/java/conversion/mhtml-to-rtf/
 family: total
 platformtag: net
 feature: conversion

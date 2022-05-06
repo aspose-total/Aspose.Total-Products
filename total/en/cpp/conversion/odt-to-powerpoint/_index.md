@@ -1,7 +1,7 @@
 ---
 title: Convert ODT to POWERPOINT via C++
 description: Export ODT to POWERPOINT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/odt-to-powerpoint/
+url_ignore: /cpp/conversion/odt-to-powerpoint/
 family: total
 platformtag: cpp
 feature: conversion

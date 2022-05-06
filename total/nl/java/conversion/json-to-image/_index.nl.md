@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar IMAGE via Java
 description: JSON ontleden naar IMAGE in Java zonder Microsoft PowerPoint te gebruiken
-url: /nl/java/conversion/json-to-image/
+url_ignore: /nl/java/conversion/json-to-image/
 family: total
 platformtag: net
 feature: conversion

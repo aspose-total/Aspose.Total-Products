@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export EPUB to PS
 description: Convert EPUB to PS within C++ applications.
-url: /cpp/conversion/epub-to-ps/
+url_ignore: /cpp/conversion/epub-to-ps/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení PDF do DIF
 description: Export PDF do DIF přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/pdf-to-dif/
+url_ignore: /cs/java/conversion/pdf-to-dif/
 family: total
 platformtag: net
 feature: conversion

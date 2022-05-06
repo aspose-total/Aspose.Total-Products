@@ -1,7 +1,7 @@
 ---
 title: POT'u C# ile ODS'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan POT'u C#'ta ODS'ye dönüştürün
-url: /tr/net/conversion/pot-to-ods/
+url_ignore: /tr/net/conversion/pot-to-ods/
 family: total
 platformtag: net
 feature: conversion

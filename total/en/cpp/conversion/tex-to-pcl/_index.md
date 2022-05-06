@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export TEX to PCL
 description: Convert TEX to PCL within C++ applications.
-url: /cpp/conversion/tex-to-pcl/
+url_ignore: /cpp/conversion/tex-to-pcl/
 family: total
 platformtag: cpp
 feature: conversion

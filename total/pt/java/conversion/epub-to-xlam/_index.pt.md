@@ -1,7 +1,7 @@
 ---
 title: API Java para renderizar EPUB para XLAM
 description: Exporte EPUB para XLAM via API Java sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/java/conversion/epub-to-xlam/
+url_ignore: /pt/java/conversion/epub-to-xlam/
 family: total
 platformtag: net
 feature: conversion

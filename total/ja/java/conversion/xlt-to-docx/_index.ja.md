@@ -1,7 +1,7 @@
 ---
 title: Javaを使用してXLTをDOCXに変換する
 description: ExcelまたはWordを使用してXLTをDOCXにエクスポートするJavaAPI
-url: /ja/java/conversion/xlt-to-docx/
+url_ignore: /ja/java/conversion/xlt-to-docx/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ XLTをDOCXにレンダリングするのは2段階のプロセスです。最初
 {{% blocks/products/pf/agp/feature-section-col title="JavaAPIを介してXLTをDOCXに変換する方法" %}}
 1. [ワークブック](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)クラスを使用してXLTファイルを開きます
 2. XLTをPDFに変換し、SaveFormatをAUTOに設定します
-3. [Docxument](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Docxument)クラスを使用して変換されたPDFファイルをロードします
-4. [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Docxument#save-java.lang.String-com.aspose.pdf.SaveOptions)を使用してドキュメントをDOCX形式で保存します-)メソッドとDocxをSaveFormatとして設定します
+3. [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)クラスを使用して変換されたPDFファイルをロードします
+4. [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions)を使用してドキュメントをDOCX形式で保存します-)メソッドとDocxをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)ベースのプロジェクトから直接Aspose.TotalforJavaを使用する必要がありますそして、pom.xmlにライブラリを含めます。
@@ -32,10 +32,10 @@ XLTをDOCXにレンダリングするのは2段階のプロセスです。最初
 Workbook book = new Workbook("input.xlt");
 // save XLT as PDF
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Docxument class
-Docxument docxument = new Docxument("pdfOutput.pdf");
-// save docxument in DOCXX format
-docxument.save("output.docxx", com.aspose.pdf.SaveFormat.DocxX);  
+// load the PDF file using Document class
+Document Document = new Document("pdfOutput.pdf");
+// save Document in DOCXX format
+Document.save("output.docxx", com.aspose.pdf.SaveFormat.DocxX);  
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}

@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla XML'yi TSV'ye dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan XML Dosyasını TSV'ye Dönüştürmek için C# API'si
-url: /tr/net/conversion/xml-to-tsv/
+url_ignore: /tr/net/conversion/xml-to-tsv/
 family: total
 platformtag: net
 feature: conversion

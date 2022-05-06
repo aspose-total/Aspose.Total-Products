@@ -1,7 +1,7 @@
 ---
 title: Export EMLX to BMP via C++
 description: C++ API to Convert EMLX to BMP without using Microsoft Word or Outlook
-url: /cpp/conversion/emlx-to-bmp/
+url_ignore: /cpp/conversion/emlx-to-bmp/
 family: total
 platformtag: cpp
 feature: conversion

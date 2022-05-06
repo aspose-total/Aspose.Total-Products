@@ -1,7 +1,7 @@
 ---
 title: Java API to Render PS to EXCEL
 description: Export PS to EXCEL via Java API without using Microsoft Excel or Adobe Reader
-url: /java/conversion/ps-to-excel/
+url_ignore: /java/conversion/ps-to-excel/
 family: total
 platformtag: java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование CSV в DOC с помощью Java
 description: Java API для экспорта CSV в DOC с использованием Excel или Word
-url: /ru/java/conversion/csv-to-doc/
+url_ignore: /ru/java/conversion/csv-to-doc/
 family: total
 platformtag: net
 feature: conversion

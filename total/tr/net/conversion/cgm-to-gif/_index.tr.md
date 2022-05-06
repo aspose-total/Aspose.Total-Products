@@ -1,7 +1,7 @@
 ---
 title: CGM'yi GIF'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan CGM'yi GIF'ye dönüştürün
-url: /tr/net/conversion/cgm-to-gif/
+url_ignore: /tr/net/conversion/cgm-to-gif/
 family: total
 platformtag: net
 feature: conversion

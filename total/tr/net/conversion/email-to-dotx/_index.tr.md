@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı DOTX'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan EMAIL'i DOTX'ye dönüştürün
-url: /tr/net/conversion/email-to-dotx/
+url_ignore: /tr/net/conversion/email-to-dotx/
 family: total
 platformtag: net
 feature: conversion

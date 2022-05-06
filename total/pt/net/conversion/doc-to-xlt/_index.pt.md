@@ -1,7 +1,7 @@
 ---
 title: API .NET para converter DOC para XLT
 description: API C# para converter DOC para XLT sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/doc-to-xlt/
+url_ignore: /pt/net/conversion/doc-to-xlt/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Adicionar propriedades personalizadas no arquivo XLT via C#" %}}
 Ao converter DOC para XLT, o [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) permite adicionar propriedades personalizadas em seus documentos XLT. Para adicionar uma propriedade personalizada, você pode usar o método [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) para o método [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) classe. O método Add adiciona a propriedade ao arquivo Excel e retorna uma referência para a nova propriedade do documento como um [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties/documentproperty) objeto. 
 {{% blocks/products/pf/feature-page-code %}}

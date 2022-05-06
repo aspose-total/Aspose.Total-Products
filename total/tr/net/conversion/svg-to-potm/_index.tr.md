@@ -1,7 +1,7 @@
 ---
 title: SVG'yi C# API aracılığıyla POTM'ye aktarın
 description: Microsoft Word kullanmadan SVG'yi POTM'ye dönüştürmek için .NET API
-url: /tr/net/conversion/svg-to-potm/
+url_ignore: /tr/net/conversion/svg-to-potm/
 family: total
 platformtag: net
 feature: conversion

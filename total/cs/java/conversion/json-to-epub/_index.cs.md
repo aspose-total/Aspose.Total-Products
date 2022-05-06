@@ -1,7 +1,7 @@
 ---
 title: Převeďte formát JSON na EPUB přes Java
 description: Analyzujte JSON na EPUB v Javě bez použití Microsoft Word
-url: /cs/java/conversion/json-to-epub/
+url_ignore: /cs/java/conversion/json-to-epub/
 family: total
 platformtag: net
 feature: conversion

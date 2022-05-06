@@ -1,7 +1,7 @@
 ---
 title: Java API do renderowania XPS do XLTX
 description: Eksportuj XPS do XLTX przez Java API bez użycia Microsoft Excel lub Adobe Reader
-url: /pl/java/conversion/xps-to-xltx/
+url_ignore: /pl/java/conversion/xps-to-xltx/
 family: total
 platformtag: net
 feature: conversion

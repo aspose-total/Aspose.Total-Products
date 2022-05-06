@@ -1,7 +1,7 @@
 ---
 title: ODT'yi XLT'ye Dönüştürmek için Java API
 description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla ODT'yi XLT'ye dönüştürün
-url: /tr/java/conversion/odt-to-xlt/
+url_ignore: /tr/java/conversion/odt-to-xlt/
 family: total
 platformtag: net
 feature: conversion

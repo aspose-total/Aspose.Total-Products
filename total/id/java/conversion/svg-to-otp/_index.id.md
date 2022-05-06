@@ -1,7 +1,7 @@
 ---
 title: Konversi SVG ke OTP melalui Java API
 description: Java API untuk Mengonversi SVG ke OTP tanpa menggunakan Microsoft Word
-url: /id/java/conversion/svg-to-otp/
+url_ignore: /id/java/conversion/svg-to-otp/
 family: total
 platformtag: net
 feature: conversion

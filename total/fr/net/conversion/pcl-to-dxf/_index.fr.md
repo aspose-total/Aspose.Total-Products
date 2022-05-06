@@ -1,7 +1,7 @@
 ---
 title: Convertir PCL en DXF via l'API C#
 description: Exportez PCL vers DXF dans vos applications .NET sans utiliser d'application tierce
-url: /fr/net/conversion/pcl-to-dxf/
+url_ignore: /fr/net/conversion/pcl-to-dxf/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: DXF JPEG2000 WMF PSD WMZ IMAGE EMZ  SVGZ TGA DICOM
 {{< blocks/products/pf/i18n/feature-page-header h1="Convertir le fichier PCL en DXF via C#" h2="Exportez PCL vers DXF dans les applications .NET sans utiliser Adobe<sup>&reg;</sup> Acrobat Reader ou toute autre application tierce" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), vous pouvez facilement exporter une image PCL vers DXF dans n'importe quelle application .NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.PDF pour .NET](https://products.aspose.com/pdf/net/), vous pouvez exporter PCL au format JPEG. Après cela, en utilisant l'API de traitement d'image [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/), vous pouvez convertir JPEG en DXF.
+En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez facilement exporter une image PCL vers DXF dans n'importe quelle application .NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), vous pouvez exporter PCL au format JPEG. Après cela, en utilisant l'API de traitement d'image [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/), vous pouvez convertir JPEG en DXF.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

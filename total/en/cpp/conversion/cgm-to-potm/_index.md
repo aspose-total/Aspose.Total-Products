@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert CGM to POTM  
 description: Convert CGM to POTM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/cgm-to-potm/
+url_ignore: /cpp/conversion/cgm-to-potm/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export OFT to WORD via C++
 description: C++ API to Convert OFT to WORD without using Microsoft Word or Outlook
-url: /cpp/conversion/oft-to-word/
+url_ignore: /cpp/conversion/oft-to-word/
 family: total
 platformtag: cpp
 feature: conversion

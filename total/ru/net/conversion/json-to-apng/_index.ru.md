@@ -1,7 +1,7 @@
 ---
 title: Преобразование формата JSON в APNG через .NET
 description: Разбирать JSON в APNG на C# без использования сторонних зависимостей
-url: /ru/net/conversion/json-to-apng/
+url_ignore: /ru/net/conversion/json-to-apng/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert DOTX to XLSB in C++
 description: C++ API to Convert DOTX to XLSB without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/dotx-to-xlsb/
+url_ignore: /cpp/conversion/dotx-to-xlsb/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert DOCX to POT via C++
 description: Export DOCX to POT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/docx-to-pot/
+url_ignore: /cpp/conversion/docx-to-pot/
 family: total
 platformtag: cpp
 feature: conversion

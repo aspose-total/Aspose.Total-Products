@@ -1,7 +1,7 @@
 ---
 title: Convert ODT to EXCEL in C++
 description: C++ API to Convert ODT to EXCEL without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/odt-to-excel/
+url_ignore: /cpp/conversion/odt-to-excel/
 family: total
 platformtag: cpp
 feature: conversion

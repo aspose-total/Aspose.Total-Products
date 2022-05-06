@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XPS to SWF  
 description: Convert XPS to SWF via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xps-to-swf/
+url_ignore: /cpp/conversion/xps-to-swf/
 family: total
 platformtag: cpp
 feature: conversion

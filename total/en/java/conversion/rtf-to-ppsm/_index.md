@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to PPSM via Java
 description: Java API to Export RTF to PPSM without using Microsoft Word or PowerPoint
-url: /java/conversion/rtf-to-ppsm/
+url_ignore: /java/conversion/rtf-to-ppsm/
 family: total
 platformtag: java
 feature: conversion

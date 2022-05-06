@@ -1,7 +1,7 @@
 ---
 title: Преобразование SVG в SXC через C# API
 description: C# API для преобразования файла SVG в SXC без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/svg-to-sxc/
+url_ignore: /ru/net/conversion/svg-to-sxc/
 family: total
 platformtag: net
 feature: conversion

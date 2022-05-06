@@ -1,7 +1,7 @@
 ---
 title: Konversi CGM ke TGA melalui C# API
 description: Ekspor CGM ke TGA di aplikasi .NET Anda tanpa menggunakan aplikasi pihak ketiga
-url: /id/net/conversion/cgm-to-tga/
+url_ignore: /id/net/conversion/cgm-to-tga/
 family: total
 platformtag: net
 feature: conversion

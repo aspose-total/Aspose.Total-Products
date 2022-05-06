@@ -1,7 +1,7 @@
 ---
 title: Convierta PCL a POT a través de la API de Java
 description: API de Java para convertir PCL a POT sin usar Microsoft Word
-url: /es/java/conversion/pcl-to-pot/
+url_ignore: /es/java/conversion/pcl-to-pot/
 family: total
 platformtag: net
 feature: conversion

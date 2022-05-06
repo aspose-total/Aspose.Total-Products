@@ -1,7 +1,7 @@
 ---
 title: Convert PPTX to SXC via C++ 
 description: Export PPTX to SXC in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pptx-to-sxc/
+url_ignore: /cpp/conversion/pptx-to-sxc/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Преобразование PPTX в WORDML через C# .NET 
-url: /ru/net/conversion/pptx-to-wordml/ 
+url_ignore: /ru/net/conversion/pptx-to-wordml/ 
 description: Преобразование документов PowerPoint pptx в файлы документов Word с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

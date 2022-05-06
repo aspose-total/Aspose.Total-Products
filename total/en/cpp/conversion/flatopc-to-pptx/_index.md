@@ -1,7 +1,7 @@
 ---
 title: Convert FLATOPC to PPTX via C++
 description: Export FLATOPC to PPTX in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/flatopc-to-pptx/
+url_ignore: /cpp/conversion/flatopc-to-pptx/
 family: total
 platformtag: cpp
 feature: conversion

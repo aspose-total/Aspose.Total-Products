@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to PPS in Android via Java
 description: RTF to PPS conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/rtf-to-pps/
+url_ignore: /android-java/conversion/rtf-to-pps/
 family: total
 platformtag: android-java
 feature: conversion

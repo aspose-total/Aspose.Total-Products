@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してCGMをPOTに変換する
 description: MicrosoftWordを使用せずにCGMをPOTに変換するJavaAPI
-url: /ja/java/conversion/cgm-to-pot/
+url_ignore: /ja/java/conversion/cgm-to-pot/
 family: total
 platformtag: net
 feature: conversion

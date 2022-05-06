@@ -1,7 +1,7 @@
 ---
 title: تحويل POWERPOINT إلى تنسيق JSON عبر Java
 description: قم بتحويل تنسيق POWERPOINT إلى JSON عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/powerpoint-to-json/
+url_ignore: /ar/java/conversion/powerpoint-to-json/
 family: total
 platformtag: net
 feature: conversion

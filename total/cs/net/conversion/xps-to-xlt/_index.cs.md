@@ -1,7 +1,7 @@
 ---
 title: Převeďte XPS na XLT přes C# API
 description: C# API pro převod souboru XPS do XLT bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/xps-to-xlt/
+url_ignore: /cs/net/conversion/xps-to-xlt/
 family: total
 platformtag: net
 feature: conversion

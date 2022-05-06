@@ -1,7 +1,7 @@
 ---
 title: API de Java para renderizar TEX a XLAM
 description: Exporte TEX a XLAM a través de la API de Java sin usar Microsoft Excel o Adobe Reader
-url: /es/java/conversion/tex-to-xlam/
+url_ignore: /es/java/conversion/tex-to-xlam/
 family: total
 platformtag: net
 feature: conversion

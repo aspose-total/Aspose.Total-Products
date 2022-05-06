@@ -1,7 +1,7 @@
 ---
 title: PDF'yi XAMLFLOW'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan PDF'yi XAMLFLOW'ye dönüştürün
-url: /tr/net/conversion/pdf-to-xamlflow/
+url_ignore: /tr/net/conversion/pdf-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

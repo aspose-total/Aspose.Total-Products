@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar WORDML via .NET
 description: Parseer JSON naar WORDML in C# zonder Microsoft Word te gebruiken
-url: /nl/net/conversion/json-to-wordml/
+url_ignore: /nl/net/conversion/json-to-wordml/
 family: total
 platformtag: net
 feature: conversion

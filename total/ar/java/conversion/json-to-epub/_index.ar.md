@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى EPUB عبر Java
 description: تحليل JSON إلى EPUB في Java بدون استخدام Microsoft Word
-url: /ar/java/conversion/json-to-epub/
+url_ignore: /ar/java/conversion/json-to-epub/
 family: total
 platformtag: net
 feature: conversion

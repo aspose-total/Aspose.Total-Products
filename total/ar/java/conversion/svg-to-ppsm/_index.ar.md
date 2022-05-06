@@ -1,7 +1,7 @@
 ---
 title: تحويل SVG إلى PPSM عبر Java API
 description: Java API لتحويل SVG إلى PPSM دون استخدام Microsoft Word
-url: /ar/java/conversion/svg-to-ppsm/
+url_ignore: /ar/java/conversion/svg-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

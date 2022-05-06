@@ -1,7 +1,7 @@
 ---
 title: Export EML to JPEG via C++
 description: C++ API to Convert EML to JPEG without using Microsoft Word or Outlook
-url: /cpp/conversion/eml-to-jpeg/
+url_ignore: /cpp/conversion/eml-to-jpeg/
 family: total
 platformtag: cpp
 feature: conversion

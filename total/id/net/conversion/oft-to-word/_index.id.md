@@ -1,7 +1,7 @@
 ---
 title: C# API untuk Mengekspor OFT ke WORD
 description: Konversi OFT ke WORD tanpa menggunakan Microsoft Word atau Outlook di .NET
-url: /id/net/conversion/oft-to-word/
+url_ignore: /id/net/conversion/oft-to-word/
 family: total
 platformtag: net
 feature: conversion

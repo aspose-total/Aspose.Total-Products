@@ -1,7 +1,7 @@
 ---
 title: C# API för att exportera EMAIL till PNG
 description: Konvertera EMAIL till PNG utan att använda Microsoft Word eller Outlook på .NET
-url: /sv/net/conversion/email-to-png/
+url_ignore: /sv/net/conversion/email-to-png/
 family: total
 platformtag: net
 feature: conversion

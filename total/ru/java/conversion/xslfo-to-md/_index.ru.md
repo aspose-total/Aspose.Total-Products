@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга XSLFO в MD
 description: Экспорт XSLFO в MD через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/xslfo-to-md/
+url_ignore: /ru/java/conversion/xslfo-to-md/
 family: total
 platformtag: net
 feature: conversion

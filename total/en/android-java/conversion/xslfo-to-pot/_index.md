@@ -1,7 +1,7 @@
 ---
 title: Export XSLFO to POT in Android 
 description: Android API to Convert XSLFO to POT without using Microsoft Word
-url: /android-java/conversion/xslfo-to-pot/
+url_ignore: /android-java/conversion/xslfo-to-pot/
 family: total
 platformtag: android-java
 feature: conversion

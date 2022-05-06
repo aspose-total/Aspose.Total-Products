@@ -1,7 +1,7 @@
 ---
 title: Export SVG to ODP via C# API
 description: .NET API to Convert SVG to ODP without using Microsoft Word
-url: /net/conversion/svg-to-odp/
+url_ignore: /net/conversion/svg-to-odp/
 family: total
 platformtag: net
 feature: conversion

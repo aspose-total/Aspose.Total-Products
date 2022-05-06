@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PCL to TSV
 description: Convert PCL to TSV via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/pcl-to-tsv/
+url_ignore: /cpp/conversion/pcl-to-tsv/
 family: total
 platformtag: cpp
 feature: conversion

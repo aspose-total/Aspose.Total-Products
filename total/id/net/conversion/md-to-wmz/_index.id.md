@@ -1,7 +1,7 @@
 ---
 title: Konversi MD ke WMZ melalui C# API
 description: Ekspor MD ke WMZ di aplikasi .NET Anda tanpa menggunakan aplikasi pihak ketiga
-url: /id/net/conversion/md-to-wmz/
+url_ignore: /id/net/conversion/md-to-wmz/
 family: total
 platformtag: net
 feature: conversion

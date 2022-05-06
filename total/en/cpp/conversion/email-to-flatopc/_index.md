@@ -1,7 +1,7 @@
 ---
 title: Export EMAIL to FLATOPC via C++
 description: C++ API to Convert EMAIL to FLATOPC without using Microsoft Word or Outlook
-url: /cpp/conversion/email-to-flatopc/
+url_ignore: /cpp/conversion/email-to-flatopc/
 family: total
 platformtag: cpp
 feature: conversion

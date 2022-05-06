@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMDをPPTにエクスポートする
 description: MicrosoftWordを使用せずにMDをPPTに変換する.NETAPI
-url: /ja/net/conversion/md-to-ppt/
+url_ignore: /ja/net/conversion/md-to-ppt/
 family: total
 platformtag: net
 feature: conversion

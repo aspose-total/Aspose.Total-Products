@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export TEX to ODT
 description: Convert TEX to ODT within C++ applications.
-url: /cpp/conversion/tex-to-odt/
+url_ignore: /cpp/conversion/tex-to-odt/
 family: total
 platformtag: cpp
 feature: conversion

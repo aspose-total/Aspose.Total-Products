@@ -1,7 +1,7 @@
 ---
 title: Export OFT to PCL via C++
 description: C++ API to Convert OFT to PCL without using Microsoft Word or Outlook
-url: /cpp/conversion/oft-to-pcl/
+url_ignore: /cpp/conversion/oft-to-pcl/
 family: total
 platformtag: cpp
 feature: conversion

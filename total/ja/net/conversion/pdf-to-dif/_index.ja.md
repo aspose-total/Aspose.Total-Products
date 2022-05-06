@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをDIFに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPDFファイルをDIFに変換するC＃API
-url: /ja/net/conversion/pdf-to-dif/
+url_ignore: /ja/net/conversion/pdf-to-dif/
 family: total
 platformtag: net
 feature: conversion

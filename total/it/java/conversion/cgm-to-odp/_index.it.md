@@ -1,7 +1,7 @@
 ---
 title: Converti CGM in ODP tramite API Java
 description: API Java per convertire CGM in ODP senza utilizzare Microsoft Word
-url: /it/java/conversion/cgm-to-odp/
+url_ignore: /it/java/conversion/cgm-to-odp/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Převést PDF na EMZ přes Java
 description: Exportujte soubor PDF do EMZ ve svých aplikacích Java bez použití jakékoli aplikace třetí strany
-url: /cs/java/conversion/pdf-to-emz/
+url_ignore: /cs/java/conversion/pdf-to-emz/
 family: total
 platformtag: net
 feature: conversion

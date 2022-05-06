@@ -1,7 +1,7 @@
 ---
 title: C# API pro export PDF do PS
 description: Převeďte PDF na PS bez použití aplikace Microsoft Word
-url: /cs/net/conversion/pdf-to-ps/
+url_ignore: /cs/net/conversion/pdf-to-ps/
 family: total
 platformtag: net
 feature: conversion

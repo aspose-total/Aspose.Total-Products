@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してTEXをIMAGEに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでTEXをIMAGEにエクスポートします
-url: /ja/net/conversion/tex-to-image/
+url_ignore: /ja/net/conversion/tex-to-image/
 family: total
 platformtag: net
 feature: conversion

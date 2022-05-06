@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar DXF via Java
 description: JSON ontleden naar DXF in Java zonder Microsoft PowerPoint te gebruiken
-url: /nl/java/conversion/json-to-dxf/
+url_ignore: /nl/java/conversion/json-to-dxf/
 family: total
 platformtag: net
 feature: conversion

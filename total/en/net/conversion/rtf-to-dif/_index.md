@@ -1,7 +1,7 @@
 ---
 title: .NET API to Convert RTF to DIF 
 description: C# API to Convert RTF to DIF without using Microsoft Excel or Adobe Reader
-url: /net/conversion/rtf-to-dif/
+url_ignore: /net/conversion/rtf-to-dif/
 family: total
 platformtag: net
 feature: conversion

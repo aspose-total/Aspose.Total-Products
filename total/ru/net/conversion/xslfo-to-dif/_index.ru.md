@@ -1,7 +1,7 @@
 ---
 title: Преобразование XSLFO в DIF через C# API
 description: C# API для преобразования файла XSLFO в DIF без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/xslfo-to-dif/
+url_ignore: /ru/net/conversion/xslfo-to-dif/
 family: total
 platformtag: net
 feature: conversion

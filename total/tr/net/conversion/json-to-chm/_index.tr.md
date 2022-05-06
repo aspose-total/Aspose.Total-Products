@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını .NET aracılığıyla CHM'ye dönüştürün
 description: Microsoft Word kullanmadan JSON'u C# ile CHM'ye ayrıştırın
-url: /tr/net/conversion/json-to-chm/
+url_ignore: /tr/net/conversion/json-to-chm/
 family: total
 platformtag: net
 feature: conversion

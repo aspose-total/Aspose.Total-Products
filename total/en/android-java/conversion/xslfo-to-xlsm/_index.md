@@ -1,7 +1,7 @@
 ---
 title: Convert XSLFO to XLSM in Android via Java
 description: Render XSLFO to XLSM in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/xslfo-to-xlsm/
+url_ignore: /android-java/conversion/xslfo-to-xlsm/
 family: total
 platformtag: android-java
 feature: conversion

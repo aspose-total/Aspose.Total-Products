@@ -1,7 +1,7 @@
 ---
 title: Render EML to DOC in Andorid App
 description: Export EML to DOC without using Microsoft Word or Outlook in you Andorid applications 
-url: /android-java/conversion/eml-to-doc/
+url_ignore: /android-java/conversion/eml-to-doc/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert EPUB to PPSM  
 description: Convert EPUB to PPSM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/epub-to-ppsm/
+url_ignore: /cpp/conversion/epub-to-ppsm/
 family: total
 platformtag: cpp
 feature: conversion

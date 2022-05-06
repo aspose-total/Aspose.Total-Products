@@ -1,7 +1,7 @@
 ---
 title: Převeďte PPSX do formátu ODS přes Java
 description: Převeďte PPSX do formátu ODS přes Java bez použití Microsoft Excel nebo PowerPoint
-url: /cs/java/conversion/ppsx-to-ods/
+url_ignore: /cs/java/conversion/ppsx-to-ods/
 family: total
 platformtag: net
 feature: conversion

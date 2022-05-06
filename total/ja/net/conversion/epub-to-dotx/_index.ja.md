@@ -1,7 +1,7 @@
 ---
 title: EPUBをDOTXにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにEPUBをDOTXに変換する
-url: /ja/net/conversion/epub-to-dotx/
+url_ignore: /ja/net/conversion/epub-to-dotx/
 family: total
 platformtag: net
 feature: conversion

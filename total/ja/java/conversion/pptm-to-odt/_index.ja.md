@@ -1,7 +1,7 @@
 ---
 title: Java経由でPPTMをODTに変換する
 description: MicrosoftWordやPowerPointを使用せずにPPTMをODTにエクスポートするJavaAPI
-url: /ja/java/conversion/pptm-to-odt/
+url_ignore: /ja/java/conversion/pptm-to-odt/
 family: total
 platformtag: net
 feature: conversion

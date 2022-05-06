@@ -1,7 +1,7 @@
 ---
 title: Экспорт XPS в POTX через C# API
 description: .NET API для преобразования XPS в POTX без использования Microsoft Word
-url: /ru/net/conversion/xps-to-potx/
+url_ignore: /ru/net/conversion/xps-to-potx/
 family: total
 platformtag: net
 feature: conversion

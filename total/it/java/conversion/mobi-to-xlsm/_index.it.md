@@ -1,7 +1,7 @@
 ---
 title: API Java per convertire MOBI in XLSM
 description: Converti MOBI in XLSM tramite Java senza utilizzare Microsoft Word o Microsoft Excel
-url: /it/java/conversion/mobi-to-xlsm/
+url_ignore: /it/java/conversion/mobi-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

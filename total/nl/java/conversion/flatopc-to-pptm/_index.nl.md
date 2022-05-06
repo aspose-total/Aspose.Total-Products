@@ -1,7 +1,7 @@
 ---
 title: Converteer FLATOPC naar PPTM via Java
 description: Java API om FLATOPC naar PPTM te exporteren zonder Microsoft Word of PowerPoint te gebruiken
-url: /nl/java/conversion/flatopc-to-pptm/
+url_ignore: /nl/java/conversion/flatopc-to-pptm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converter XSLFO para POTM via API Java
 description: API Java para converter XSLFO para POTM sem usar o Microsoft Word
-url: /pt/java/conversion/xslfo-to-potm/
+url_ignore: /pt/java/conversion/xslfo-to-potm/
 family: total
 platformtag: net
 feature: conversion

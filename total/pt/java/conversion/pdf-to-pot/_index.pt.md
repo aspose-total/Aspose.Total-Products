@@ -1,7 +1,7 @@
 ---
 title: Converter PDF para POT via API Java
 description: API Java para converter PDF para POT sem usar o Microsoft Word
-url: /pt/java/conversion/pdf-to-pot/
+url_ignore: /pt/java/conversion/pdf-to-pot/
 family: total
 platformtag: net
 feature: conversion

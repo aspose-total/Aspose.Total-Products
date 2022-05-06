@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта MHTML в FLATOPC
 description: Преобразование MHTML в FLATOPC без использования Microsoft Word
-url: /ru/net/conversion/mhtml-to-flatopc/
+url_ignore: /ru/net/conversion/mhtml-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

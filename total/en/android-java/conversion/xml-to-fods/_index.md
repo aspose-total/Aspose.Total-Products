@@ -1,7 +1,7 @@
 ---
 title: Convert XML to FODS in Android via Java
 description: Render XML to FODS in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/xml-to-fods/
+url_ignore: /android-java/conversion/xml-to-fods/
 family: total
 platformtag: android-java
 feature: conversion

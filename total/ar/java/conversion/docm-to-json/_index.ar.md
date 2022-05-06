@@ -1,7 +1,7 @@
 ---
 title: تحويل DOCM إلى تنسيق JSON عبر Java
 description: قم بتحويل تنسيق DOCM إلى تنسيق JSON عبر Java دون استخدام Microsoft Word أو Microsoft Excel
-url: /ar/java/conversion/docm-to-json/
+url_ignore: /ar/java/conversion/docm-to-json/
 family: total
 platformtag: net
 feature: conversion

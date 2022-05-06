@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to XLT in C++
 description: C++ API to Convert DOT to XLT without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/dot-to-xlt/
+url_ignore: /cpp/conversion/dot-to-xlt/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPSをPPSMにエクスポートする
 description: MicrosoftWordを使用せずにPSをPPSMに変換する.NETAPI
-url: /ja/net/conversion/ps-to-ppsm/
+url_ignore: /ja/net/conversion/ps-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

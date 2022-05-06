@@ -1,7 +1,7 @@
 ---
 title: تحويل XPS إلى WMZ عبر Java
 description: قم بتصدير ملف XPS إلى WMZ في تطبيقات Java الخاصة بك دون استخدام أي تطبيق تابع لجهة خارجية
-url: /ar/java/conversion/xps-to-wmz/
+url_ignore: /ar/java/conversion/xps-to-wmz/
 family: total
 platformtag: net
 feature: conversion

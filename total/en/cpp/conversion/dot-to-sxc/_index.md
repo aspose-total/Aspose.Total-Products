@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to SXC in C++
 description: C++ API to Convert DOT to SXC without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/dot-to-sxc/
+url_ignore: /cpp/conversion/dot-to-sxc/
 family: total
 platformtag: cpp
 feature: conversion

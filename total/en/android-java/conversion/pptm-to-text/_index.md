@@ -1,7 +1,7 @@
 ---
 title: Export PPTM to TEXT on Andorid via Java  
 description: Convert PPTM to TEXT in mobile apps without installing any software 
-url: /android-java/conversion/pptm-to-text/
+url_ignore: /android-java/conversion/pptm-to-text/
 family: total
 platformtag: android-java
 feature: conversion

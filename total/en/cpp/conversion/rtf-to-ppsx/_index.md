@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to PPSX via C++
 description: Export RTF to PPSX in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/rtf-to-ppsx/
+url_ignore: /cpp/conversion/rtf-to-ppsx/
 family: total
 platformtag: cpp
 feature: conversion

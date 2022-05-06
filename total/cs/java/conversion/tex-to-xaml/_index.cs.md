@@ -1,7 +1,7 @@
 ---
 title: Převeďte TEX na XAML přes Java API
 description: Java API pro převod TEX na XAML bez použití aplikace Microsoft Word
-url: /cs/java/conversion/tex-to-xaml/
+url_ignore: /cs/java/conversion/tex-to-xaml/
 family: total
 platformtag: net
 feature: conversion

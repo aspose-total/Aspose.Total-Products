@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie POWERPOINT über Java in das MARKDOWN-Format
 description: Konvertieren Sie POWERPOINT über Java in das MARKDOWN-Format, ohne Microsoft Excel oder PowerPoint zu verwenden
-url: /de/java/conversion/powerpoint-to-markdown/
+url_ignore: /de/java/conversion/powerpoint-to-markdown/
 family: total
 platformtag: net
 feature: conversion

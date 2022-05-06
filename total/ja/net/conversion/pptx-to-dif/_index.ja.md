@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPPTXをDIFに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPTXをDIFに変換する
-url: /ja/net/conversion/pptx-to-dif/
+url_ignore: /ja/net/conversion/pptx-to-dif/
 family: total
 platformtag: net
 feature: conversion

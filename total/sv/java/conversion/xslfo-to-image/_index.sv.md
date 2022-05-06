@@ -1,7 +1,7 @@
 ---
 title: Konvertera XSLFO till IMAGE via Java
 description: Exportera XSLFO-fil till IMAGE i dina Java-applikationer utan att använda någon tredjepartsapplikation
-url: /sv/java/conversion/xslfo-to-image/
+url_ignore: /sv/java/conversion/xslfo-to-image/
 family: total
 platformtag: net
 feature: conversion

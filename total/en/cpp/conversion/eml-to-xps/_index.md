@@ -1,7 +1,7 @@
 ---
 title: Export EML to XPS via C++
 description: C++ API to Convert EML to XPS without using Microsoft Word or Outlook
-url: /cpp/conversion/eml-to-xps/
+url_ignore: /cpp/conversion/eml-to-xps/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertera HTML till APNG via C# API
 description: Exportera HTML till APNG i dina .NET-applikationer utan att använda någon tredjepartsapplikation
-url: /sv/net/conversion/html-to-apng/
+url_ignore: /sv/net/conversion/html-to-apng/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してEPUBをPPSにエクスポートする
 description: MicrosoftWordを使用せずにEPUBをPPSに変換する.NETAPI
-url: /ja/net/conversion/epub-to-pps/
+url_ignore: /ja/net/conversion/epub-to-pps/
 family: total
 platformtag: net
 feature: conversion

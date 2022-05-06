@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή μορφής JSON σε RTF μέσω Java
 description: Ανάλυση JSON σε RTF σε Java χωρίς χρήση του Microsoft Word
-url: /el/java/conversion/json-to-rtf/
+url_ignore: /el/java/conversion/json-to-rtf/
 family: total
 platformtag: net
 feature: conversion

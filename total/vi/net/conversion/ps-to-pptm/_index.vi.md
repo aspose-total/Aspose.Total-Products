@@ -1,7 +1,7 @@
 ---
 title: Xuất PS sang PPTM qua C# API
 description: .NET API để chuyển đổi PS sang PPTM mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/ps-to-pptm/
+url_ignore: /vi/net/conversion/ps-to-pptm/
 family: total
 platformtag: net
 feature: conversion

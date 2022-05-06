@@ -1,7 +1,7 @@
 ---
 title: Convert XSLFO to MD in Android via Java
 description: Render XSLFO to MD in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/xslfo-to-md/
+url_ignore: /android-java/conversion/xslfo-to-md/
 family: total
 platformtag: android-java
 feature: conversion

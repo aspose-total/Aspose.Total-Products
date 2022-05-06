@@ -1,7 +1,7 @@
 ---
 title: Convertir TEX en DXF via Java
 description: Exportez le fichier TEX vers DXF dans vos applications Java sans utiliser d'application tierce
-url: /fr/java/conversion/tex-to-dxf/
+url_ignore: /fr/java/conversion/tex-to-dxf/
 family: total
 platformtag: net
 feature: conversion

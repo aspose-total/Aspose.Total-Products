@@ -1,7 +1,7 @@
 ---
 title: Java API pro převod WORDML do ODS
 description: Převeďte WORDML na ODS přes Java bez použití Microsoft Word nebo Microsoft Excel
-url: /cs/java/conversion/wordml-to-ods/
+url_ignore: /cs/java/conversion/wordml-to-ods/
 family: total
 platformtag: net
 feature: conversion

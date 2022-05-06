@@ -1,7 +1,7 @@
 ---
 title: Convert DOTX to ODP via C++
 description: Export DOTX to ODP in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/dotx-to-odp/
+url_ignore: /cpp/conversion/dotx-to-odp/
 family: total
 platformtag: cpp
 feature: conversion

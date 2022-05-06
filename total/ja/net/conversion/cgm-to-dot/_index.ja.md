@@ -1,7 +1,7 @@
 ---
 title: CGMをDOTにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにCGMをDOTに変換する
-url: /ja/net/conversion/cgm-to-dot/
+url_ignore: /ja/net/conversion/cgm-to-dot/
 family: total
 platformtag: net
 feature: conversion

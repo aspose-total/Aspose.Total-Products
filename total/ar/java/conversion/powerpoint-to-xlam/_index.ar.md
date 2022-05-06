@@ -1,7 +1,7 @@
 ---
 title: تحويل POWERPOINT إلى تنسيق XLAM عبر Java
 description: قم بتحويل POWERPOINT إلى تنسيق XLAM عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/powerpoint-to-xlam/
+url_ignore: /ar/java/conversion/powerpoint-to-xlam/
 family: total
 platformtag: net
 feature: conversion

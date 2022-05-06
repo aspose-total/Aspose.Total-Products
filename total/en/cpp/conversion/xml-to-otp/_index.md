@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XML to OTP  
 description: Convert XML to OTP via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xml-to-otp/
+url_ignore: /cpp/conversion/xml-to-otp/
 family: total
 platformtag: cpp
 feature: conversion

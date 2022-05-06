@@ -1,7 +1,7 @@
 ---
 title: EMAIL'i Java aracılığıyla TIFF'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan EMAIL'i TIFF'ye Dönüştürmek için Java API
-url: /tr/java/conversion/email-to-tiff/
+url_ignore: /tr/java/conversion/email-to-tiff/
 family: total
 platformtag: net
 feature: conversion

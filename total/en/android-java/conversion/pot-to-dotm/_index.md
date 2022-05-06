@@ -1,7 +1,7 @@
 ---
 title: Export POT to DOTM on Andorid via Java  
 description: Convert POT to DOTM in mobile apps without installing any software 
-url: /android-java/conversion/pot-to-dotm/
+url_ignore: /android-java/conversion/pot-to-dotm/
 family: total
 platformtag: android-java
 feature: conversion

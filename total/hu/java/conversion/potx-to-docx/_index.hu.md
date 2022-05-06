@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a POTX-ot DOCX-ba Java segítségével
 description: Java API a POTX exportálásához DOCX-ba Microsoft Word vagy PowerPoint használata nélkül
-url: /hu/java/conversion/potx-to-docx/
+url_ignore: /hu/java/conversion/potx-to-docx/
 family: total
 platformtag: net
 feature: conversion
@@ -24,7 +24,7 @@ otherformats: DOCXM ODT DOTX FLATOPC DOCX DOT TEXT DOTM WORD OTT RTF WORDML
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 A POTX-ból DOCX-fájlba konvertálásához egyszerűen használhatja az Aspose.Total for Java-t közvetlenül a [Maven]-ből (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) alapú projektet, és vegyen fel könyvtárakat a pom.xml fájlba.
 
-Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads] webhelyről (https://downloads.aspose.com/total/java).
+Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

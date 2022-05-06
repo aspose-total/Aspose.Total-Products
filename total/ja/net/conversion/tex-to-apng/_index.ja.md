@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してTEXをAPNGに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでTEXをAPNGにエクスポートします
-url: /ja/net/conversion/tex-to-apng/
+url_ignore: /ja/net/conversion/tex-to-apng/
 family: total
 platformtag: net
 feature: conversion

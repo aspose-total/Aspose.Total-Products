@@ -1,7 +1,7 @@
 ---
 title: แปลง EPUB เป็น XAML ผ่าน Java API
 description: Java API เพื่อแปลง EPUB เป็น XAML โดยไม่ต้องใช้ Microsoft Word
-url: /th/java/conversion/epub-to-xaml/
+url_ignore: /th/java/conversion/epub-to-xaml/
 family: total
 platformtag: net
 feature: conversion

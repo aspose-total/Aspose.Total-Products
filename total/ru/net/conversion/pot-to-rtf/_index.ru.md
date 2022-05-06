@@ -1,6 +1,6 @@
 ---
 title: Преобразование POT в RTF через C# .NET 
-url: /ru/net/conversion/pot-to-rtf/ 
+url_ignore: /ru/net/conversion/pot-to-rtf/ 
 description: Преобразование документов PowerPoint pot в файлы документов Word с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

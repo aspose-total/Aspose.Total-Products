@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMDをTGAに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでMDをTGAにエクスポートします
-url: /ja/net/conversion/md-to-tga/
+url_ignore: /ja/net/conversion/md-to-tga/
 family: total
 platformtag: net
 feature: conversion

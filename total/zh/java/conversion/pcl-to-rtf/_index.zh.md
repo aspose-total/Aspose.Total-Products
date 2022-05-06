@@ -1,7 +1,7 @@
 ---
 title: 用于将 PCL 导出到 RTF 的 Java API
 description: 使用本地 Java API 将 PCL 转换为 RTF
-url: /zh/java/conversion/pcl-to-rtf/
+url_ignore: /zh/java/conversion/pcl-to-rtf/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını .NET aracılığıyla PPSM'ye dönüştürün
 description: Microsoft PowerPoint kullanmadan JSON'u C# ile PPSM'ye ayrıştırın
-url: /tr/net/conversion/json-to-ppsm/
+url_ignore: /tr/net/conversion/json-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

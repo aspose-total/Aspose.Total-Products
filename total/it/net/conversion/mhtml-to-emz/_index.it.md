@@ -1,7 +1,7 @@
 ---
 title: Converti MHTML in EMZ tramite API C#
 description: Esporta MHTML in EMZ nelle tue applicazioni .NET senza utilizzare applicazioni di terze parti
-url: /it/net/conversion/mhtml-to-emz/
+url_ignore: /it/net/conversion/mhtml-to-emz/
 family: total
 platformtag: net
 feature: conversion

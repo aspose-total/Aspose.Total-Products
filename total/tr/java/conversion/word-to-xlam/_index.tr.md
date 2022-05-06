@@ -1,7 +1,7 @@
 ---
 title: WORD'yi XLAM'ye Dönüştürmek için Java API
 description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla WORD'yi XLAM'ye dönüştürün
-url: /tr/java/conversion/word-to-xlam/
+url_ignore: /tr/java/conversion/word-to-xlam/
 family: total
 platformtag: net
 feature: conversion

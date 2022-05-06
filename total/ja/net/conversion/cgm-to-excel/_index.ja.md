@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してCGMをEXCELに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにCGMファイルをEXCELに変換するC＃API
-url: /ja/net/conversion/cgm-to-excel/
+url_ignore: /ja/net/conversion/cgm-to-excel/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export EPUB to OTT
 description: Convert EPUB to OTT within C++ applications.
-url: /cpp/conversion/epub-to-ott/
+url_ignore: /cpp/conversion/epub-to-ott/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export XSLFO to POTM in Android 
 description: Android API to Convert XSLFO to POTM without using Microsoft Word
-url: /android-java/conversion/xslfo-to-potm/
+url_ignore: /android-java/conversion/xslfo-to-potm/
 family: total
 platformtag: android-java
 feature: conversion

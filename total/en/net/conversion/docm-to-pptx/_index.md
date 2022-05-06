@@ -1,6 +1,6 @@
 ---
 title: Convert DOCM to PPTX via C# .NET 
-url: /net/conversion/docm-to-pptx/ 
+url_ignore: /net/conversion/docm-to-pptx/ 
 description: Convert Word docm documents to PowerPoint pptx files with C#. Convert multiple files within ASP.NET or other .NET applications.
 ---
 

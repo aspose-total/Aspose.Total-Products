@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير PS إلى ODT
 description: تحويل PS إلى ODT دون استخدام Microsoft Word
-url: /ar/net/conversion/ps-to-odt/
+url_ignore: /ar/net/conversion/ps-to-odt/
 family: total
 platformtag: net
 feature: conversion

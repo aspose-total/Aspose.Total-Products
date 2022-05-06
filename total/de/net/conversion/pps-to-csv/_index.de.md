@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie PPS über C# in CSV
 description: Konvertieren Sie PPS in C# in CSV, ohne Microsoft Excel oder Powerpoint zu verwenden
-url: /de/net/conversion/pps-to-csv/
+url_ignore: /de/net/conversion/pps-to-csv/
 family: total
 platformtag: net
 feature: conversion

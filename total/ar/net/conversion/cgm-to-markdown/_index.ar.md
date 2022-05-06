@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير CGM إلى MARKDOWN
 description: تحويل CGM إلى MARKDOWN دون استخدام Microsoft Word
-url: /ar/net/conversion/cgm-to-markdown/
+url_ignore: /ar/net/conversion/cgm-to-markdown/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: MSGをODTにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにMSGをODTに変換する
-url: /ja/net/conversion/msg-to-odt/
+url_ignore: /ja/net/conversion/msg-to-odt/
 family: total
 platformtag: net
 feature: conversion

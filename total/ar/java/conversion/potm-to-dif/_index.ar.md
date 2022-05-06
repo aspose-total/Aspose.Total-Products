@@ -1,7 +1,7 @@
 ---
 title: تحويل POTM إلى تنسيق DIF عبر Java
 description: قم بتحويل POTM إلى تنسيق DIF عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/potm-to-dif/
+url_ignore: /ar/java/conversion/potm-to-dif/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export EMAIL to TEXT via Java 
 description: Java API to Convert EMAIL to TEXT without using Microsoft Word or Outlook 
-url: /java/conversion/email-to-text/
+url_ignore: /java/conversion/email-to-text/
 family: total
 platformtag: java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してTEXをPPTMに変換する
 description: MicrosoftWordを使用せずにTEXをPPTMに変換するJavaAPI
-url: /ja/java/conversion/tex-to-pptm/
+url_ignore: /ja/java/conversion/tex-to-pptm/
 family: total
 platformtag: net
 feature: conversion

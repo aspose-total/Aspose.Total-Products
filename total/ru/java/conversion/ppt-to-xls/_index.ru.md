@@ -1,7 +1,7 @@
 ---
 title: Преобразование PPT в формат XLS через Java
 description: Преобразуйте формат PPT в XLS через Java без использования Microsoft Excel или PowerPoint.
-url: /ru/java/conversion/ppt-to-xls/
+url_ignore: /ru/java/conversion/ppt-to-xls/
 family: total
 platformtag: net
 feature: conversion

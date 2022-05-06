@@ -1,7 +1,7 @@
 ---
 title: EMLをXPSにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMLをXPSに変換する
-url: /ja/net/conversion/eml-to-xps/
+url_ignore: /ja/net/conversion/eml-to-xps/
 family: total
 platformtag: net
 feature: conversion

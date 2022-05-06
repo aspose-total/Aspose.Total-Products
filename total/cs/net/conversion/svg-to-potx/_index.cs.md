@@ -1,7 +1,7 @@
 ---
 title: Export SVG do POTX přes C# API
 description: .NET API pro převod SVG na POTX bez použití aplikace Microsoft Word
-url: /cs/net/conversion/svg-to-potx/
+url_ignore: /cs/net/conversion/svg-to-potx/
 family: total
 platformtag: net
 feature: conversion

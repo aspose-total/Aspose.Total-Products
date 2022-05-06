@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MD to POWERPOINT  
 description: Convert MD to POWERPOINT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/md-to-powerpoint/
+url_ignore: /cpp/conversion/md-to-powerpoint/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してXMLをPPSXに変換する
 description: MicrosoftWordを使用せずにXMLをPPSXに変換するJavaAPI
-url: /ja/java/conversion/xml-to-ppsx/
+url_ignore: /ja/java/conversion/xml-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

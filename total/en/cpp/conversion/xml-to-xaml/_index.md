@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XML to XAML  
 description: Convert XML to XAML via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xml-to-xaml/
+url_ignore: /cpp/conversion/xml-to-xaml/
 family: total
 platformtag: cpp
 feature: conversion

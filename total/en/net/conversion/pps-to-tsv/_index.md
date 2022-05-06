@@ -1,7 +1,7 @@
 ---
 title: Convert PPS to TSV via C# 
 description: Convert PPS to TSV in C# without using Microsoft Excel or Powerpoint
-url: /net/conversion/pps-to-tsv/
+url_ignore: /net/conversion/pps-to-tsv/
 family: total
 platformtag: net
 feature: conversion

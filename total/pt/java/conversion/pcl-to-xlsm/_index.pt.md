@@ -1,7 +1,7 @@
 ---
 title: API Java para renderizar PCL para XLSM
 description: Exporte PCL para XLSM via API Java sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/java/conversion/pcl-to-xlsm/
+url_ignore: /pt/java/conversion/pcl-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

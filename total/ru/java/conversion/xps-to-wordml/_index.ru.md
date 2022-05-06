@@ -1,7 +1,7 @@
 ---
 title: Java API для экспорта XPS в WORDML
 description: Преобразование XPS в WORDML с использованием локального Java API
-url: /ru/java/conversion/xps-to-wordml/
+url_ignore: /ru/java/conversion/xps-to-wordml/
 family: total
 platformtag: net
 feature: conversion

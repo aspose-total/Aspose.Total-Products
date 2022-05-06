@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση TEX σε ODS
 description: Εξαγωγή TEX σε ODS μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/tex-to-ods/
+url_ignore: /el/java/conversion/tex-to-ods/
 family: total
 platformtag: net
 feature: conversion

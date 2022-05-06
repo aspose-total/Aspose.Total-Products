@@ -1,7 +1,7 @@
 ---
 title: PDF'yi WORDML'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan PDF'yi WORDML'ye dönüştürün
-url: /tr/net/conversion/pdf-to-wordml/
+url_ignore: /tr/net/conversion/pdf-to-wordml/
 family: total
 platformtag: net
 feature: conversion

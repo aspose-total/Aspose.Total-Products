@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi PPTX sang XLAM qua C#
 description: Chuyển đổi PPTX sang XLAM trong C# mà không cần sử dụng Microsoft Excel hoặc Powerpoint
-url: /vi/net/conversion/pptx-to-xlam/
+url_ignore: /vi/net/conversion/pptx-to-xlam/
 family: total
 platformtag: net
 feature: conversion

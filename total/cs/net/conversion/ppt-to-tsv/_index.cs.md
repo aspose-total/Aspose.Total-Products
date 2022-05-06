@@ -1,7 +1,7 @@
 ---
 title: Převést PPT na TSV přes C#
 description: Převeďte PPT na TSV v C# bez použití Microsoft Excel nebo Powerpoint
-url: /cs/net/conversion/ppt-to-tsv/
+url_ignore: /cs/net/conversion/ppt-to-tsv/
 family: total
 platformtag: net
 feature: conversion

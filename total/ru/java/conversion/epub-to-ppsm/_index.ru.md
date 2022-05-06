@@ -1,7 +1,7 @@
 ---
 title: Преобразование EPUB в PPSM через Java API
 description: Java API для преобразования EPUB в PPSM без использования Microsoft Word
-url: /ru/java/conversion/epub-to-ppsm/
+url_ignore: /ru/java/conversion/epub-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

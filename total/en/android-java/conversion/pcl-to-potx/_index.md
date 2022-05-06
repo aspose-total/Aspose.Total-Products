@@ -1,7 +1,7 @@
 ---
 title: Export PCL to POTX in Android 
 description: Android API to Convert PCL to POTX without using Microsoft Word
-url: /android-java/conversion/pcl-to-potx/
+url_ignore: /android-java/conversion/pcl-to-potx/
 family: total
 platformtag: android-java
 feature: conversion

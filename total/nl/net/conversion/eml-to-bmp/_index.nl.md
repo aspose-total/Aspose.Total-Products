@@ -1,7 +1,7 @@
 ---
 title: C# API om EML naar BMP te exporteren
 description: Converteer EML naar BMP zonder Microsoft Word of Outlook te gebruiken op .NET
-url: /nl/net/conversion/eml-to-bmp/
+url_ignore: /nl/net/conversion/eml-to-bmp/
 family: total
 platformtag: net
 feature: conversion

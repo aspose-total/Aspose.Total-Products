@@ -1,7 +1,7 @@
 ---
 title: Convert TEX to WMF via Java
 description: Export TEX file to WMF  in your Java applications without using any third party application 
-url: /java/conversion/tex-to-wmf/
+url_ignore: /java/conversion/tex-to-wmf/
 family: total
 platformtag: java
 feature: conversion

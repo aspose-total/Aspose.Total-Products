@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı ODT'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan EMAIL'i ODT'ye dönüştürün
-url: /tr/net/conversion/email-to-odt/
+url_ignore: /tr/net/conversion/email-to-odt/
 family: total
 platformtag: net
 feature: conversion

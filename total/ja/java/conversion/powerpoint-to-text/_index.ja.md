@@ -1,7 +1,7 @@
 ---
 title: Java経由でPOWERPOINTをTEXTに変換する
 description: MicrosoftWordやPowerPointを使用せずにPOWERPOINTをTEXTにエクスポートするJavaAPI
-url: /ja/java/conversion/powerpoint-to-text/
+url_ignore: /ja/java/conversion/powerpoint-to-text/
 family: total
 platformtag: net
 feature: conversion

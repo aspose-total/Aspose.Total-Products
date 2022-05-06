@@ -1,7 +1,7 @@
 ---
 title: Convierta MD a DICOM a través de la API de C#
 description: Exporte MD a DICOM en sus aplicaciones .NET sin usar ninguna aplicación de terceros
-url: /es/net/conversion/md-to-dicom/
+url_ignore: /es/net/conversion/md-to-dicom/
 family: total
 platformtag: net
 feature: conversion
@@ -49,7 +49,7 @@ y guárdelo en formato DICOM usando el método [Guardar](https://apireference.as
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convertir y rotar archivos MD a DICOM a través de C#" %}}
-Usando la API, también puede rotar la imagen DICOM de salida según sus necesidades. El método Image.RotateFlip se puede usar para rotar la imagen 90/180/270 grados y voltear la imagen horizontal o verticalmente. Puede especificar el tipo de rotación y volteo para aplicar a la imagen. Para rotar y voltear la imagen, puede cargar la imagen JPEG convertida utilizando el método de fábrica expuesto por la clase [Imagen](https://apireference.aspose.com/imaging/net/aspose.imaging/image) y llamar a la clase Imagen .RotateFlip al especificar el [RotateFlipType] apropiado (https://apireference.aspose.com/imaging/net/aspose.imaging/rotatefliptype). 
+Usando la API, también puede rotar la imagen DICOM de salida según sus necesidades. El método Image.RotateFlip se puede usar para rotar la imagen 90/180/270 grados y voltear la imagen horizontal o verticalmente. Puede especificar el tipo de rotación y volteo para aplicar a la imagen. Para rotar y voltear la imagen, puede cargar la imagen JPEG convertida utilizando el método de fábrica expuesto por la clase [Imagen](https://apireference.aspose.com/imaging/net/aspose.imaging/image) y llamar a la clase Imagen .RotateFlip al especificar el [RotateFlipType](https://apireference.aspose.com/imaging/net/aspose.imaging/rotatefliptype). 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-and-rotate-pdf-to-image.cs" >}}

@@ -1,7 +1,7 @@
 ---
 title: MHTML'yi C# API aracılığıyla OTP'ye aktarın
 description: Microsoft Word kullanmadan MHTML'yi OTP'ye dönüştürmek için .NET API
-url: /tr/net/conversion/mhtml-to-otp/
+url_ignore: /tr/net/conversion/mhtml-to-otp/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert MD to EMZ via Java
 description: Export MD file to EMZ  in your Java applications without using any third party application 
-url: /java/conversion/md-to-emz/
+url_ignore: /java/conversion/md-to-emz/
 family: total
 platformtag: java
 feature: conversion

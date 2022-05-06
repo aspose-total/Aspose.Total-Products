@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してXPSをPOTXに変換する
 description: MicrosoftWordを使用せずにXPSをPOTXに変換するJavaAPI
-url: /ja/java/conversion/xps-to-potx/
+url_ignore: /ja/java/conversion/xps-to-potx/
 family: total
 platformtag: net
 feature: conversion

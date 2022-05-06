@@ -1,7 +1,7 @@
 ---
 title: .NET-API zum Konvertieren von DOC in FODS
 description: C#-API zum Konvertieren von DOC in FODS ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/doc-to-fods/
+url_ignore: /de/net/conversion/doc-to-fods/
 family: total
 platformtag: net
 feature: conversion

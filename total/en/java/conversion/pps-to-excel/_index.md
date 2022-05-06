@@ -1,7 +1,7 @@
 ---
 title: Convert PPS to EXCEL Format via Java
 description: Convert PPS to EXCEL format via Java without using using Microsoft Excel or PowerPoint
-url: /java/conversion/pps-to-excel/
+url_ignore: /java/conversion/pps-to-excel/
 family: total
 platformtag: java
 feature: conversion

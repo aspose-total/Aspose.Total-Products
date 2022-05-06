@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to PPT via C++
 description: Export TXT to PPT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/txt-to-ppt/
+url_ignore: /cpp/conversion/txt-to-ppt/
 family: total
 platformtag: cpp
 feature: conversion

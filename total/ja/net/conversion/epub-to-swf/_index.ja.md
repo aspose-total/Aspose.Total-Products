@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してEPUBをSWFにエクスポートする
 description: MicrosoftWordを使用せずにEPUBをSWFに変換する.NETAPI
-url: /ja/net/conversion/epub-to-swf/
+url_ignore: /ja/net/conversion/epub-to-swf/
 family: total
 platformtag: net
 feature: conversion

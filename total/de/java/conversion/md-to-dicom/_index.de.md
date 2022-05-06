@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie MD über Java in DICOM
 description: Exportieren Sie die MD-Datei in DICOM in Ihren Java-Anwendungen, ohne eine Anwendung von Drittanbietern zu verwenden
-url: /de/java/conversion/md-to-dicom/
+url_ignore: /de/java/conversion/md-to-dicom/
 family: total
 platformtag: net
 feature: conversion
@@ -50,7 +50,7 @@ Mit der API können Sie auch MD-Dateien mit Wasserzeichen in Ihrem DICOM-Dokumen
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Konvertieren und drehen Sie MD über Java in eine DICOM-Datei" %}}
-Mit der API können Sie das ausgegebene DICOM-Bild auch nach Ihren Bedürfnissen drehen. Die Image.rotateFlip-Methode kann verwendet werden, um das Bild um 90/180/270 Grad zu drehen und das Bild horizontal oder vertikal zu spiegeln. Die Bibliothek bietet einfache Methoden, um komplexe Operationen durchzuführen und gleichzeitig alle hässlichen Details zu kapseln. Sie können die Art der Drehung und Spiegelung angeben, die auf das Bild angewendet werden soll. Um das Bild zu drehen und zu spiegeln, können Sie das konvertierte JPEG-Bild mit der Klasse [Image](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image) laden und Image aufrufen. RotateFlip-Methode, während Sie den entsprechenden [RotateFlipType] angeben (https://apireference.aspose.com/imaging/java/com.aspose.imaging/RotateFlipType). 
+Mit der API können Sie das ausgegebene DICOM-Bild auch nach Ihren Bedürfnissen drehen. Die Image.rotateFlip-Methode kann verwendet werden, um das Bild um 90/180/270 Grad zu drehen und das Bild horizontal oder vertikal zu spiegeln. Die Bibliothek bietet einfache Methoden, um komplexe Operationen durchzuführen und gleichzeitig alle hässlichen Details zu kapseln. Sie können die Art der Drehung und Spiegelung angeben, die auf das Bild angewendet werden soll. Um das Bild zu drehen und zu spiegeln, können Sie das konvertierte JPEG-Bild mit der Klasse [Image](https://apireference.aspose.com/imaging/java/com.aspose.imaging/Image) laden und Image aufrufen. RotateFlip-Methode, während Sie den entsprechenden [RotateFlipType](https://apireference.aspose.com/imaging/java/com.aspose.imaging/RotateFlipType). 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "a0abf986a98e2b1f1e86127b1a4449bd" "convert-and-rotate-pdf-to-image.java" >}}

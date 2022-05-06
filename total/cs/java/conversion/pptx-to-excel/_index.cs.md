@@ -1,7 +1,7 @@
 ---
 title: Převeďte PPTX do formátu EXCEL přes Java
 description: Převeďte PPTX do formátu EXCEL přes Java bez použití Microsoft Excel nebo PowerPoint
-url: /cs/java/conversion/pptx-to-excel/
+url_ignore: /cs/java/conversion/pptx-to-excel/
 family: total
 platformtag: net
 feature: conversion

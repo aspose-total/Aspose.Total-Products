@@ -1,7 +1,7 @@
 ---
 title: .NETを介してJSON形式をIMAGEに変換する
 description: サードパーティの依存関係を使用せずに、C＃でJSONをIMAGEに解析します
-url: /ja/net/conversion/json-to-image/
+url_ignore: /ja/net/conversion/json-to-image/
 family: total
 platformtag: net
 feature: conversion

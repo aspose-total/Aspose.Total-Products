@@ -1,7 +1,7 @@
 ---
 title: Converteer POT naar JSON-formaat via .NET
 description: Converteer POT naar JSON in C# zonder Microsoft Excel of Powerpoint te gebruiken
-url: /nl/net/conversion/pot-to-json/
+url_ignore: /nl/net/conversion/pot-to-json/
 family: total
 platformtag: net
 feature: conversion
@@ -33,7 +33,8 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "da55916905648dbb8430fcb52dc2e47f" "convert-powerpoint-to-json.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 Met behulp van de API kunt u ook het met een wachtwoord beveiligde document openen. Als uw invoer-POT-document met een wachtwoord is beveiligd, kunt u het niet converteren naar JSON-indeling zonder het wachtwoord te gebruiken. Met de API kunt u het gecodeerde document openen door het juiste wachtwoord in een LoadOptions-object door te geven. Het volgende codevoorbeeld laat zien hoe u een versleuteld document opent met een wachtwoord.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "da55916905648dbb8430fcb52dc2e47f" "convert-protected-powerpoint-to-json.cs" >}}
+{{< gist "aspose-com-gists" "da55916905648dbb8430fcb52dc2e47f" "convert-protected-powerpoint-to-json.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Met behulp van de API kunt u ook het met een wachtwoord beveiligde document open
 Terwijl u POT naar JSON converteert, kunt u het bereik ook instellen op uw output-JSON-formaat. Om het bereik in te stellen, kunt u de geconverteerde HTML openen met behulp van de Workbook-klasse, CellsCollection van het werkblad met de gegevens ophalen, een bereik maken vanuit CellsCollection door rij- en kolomindexen op te geven en de ExportRangeToJson-methode aanroepen met verwijzingen naar Range & ExportRangeToJsonOptions-objecten. Ten slotte kunt u de JSON-gegevens in een bestand opslaan via de File.WriteAllText-methode. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "da55916905648dbb8430fcb52dc2e47f" "convert-powerpoint-to-json-range.cs" >}}
+{{< gist "aspose-com-gists" "da55916905648dbb8430fcb52dc2e47f" "convert-powerpoint-to-json-range.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

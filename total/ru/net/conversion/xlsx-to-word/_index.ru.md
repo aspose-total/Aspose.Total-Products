@@ -1,7 +1,7 @@
 ---
 title: Преобразование XLSX в WORD с помощью .NET 
 description: Преобразование XLSX в WORD на платформах .NET Framework, .NET Core, Mono или Xamarin
-url: /ru/net/conversion/xlsx-to-word/
+url_ignore: /ru/net/conversion/xlsx-to-word/
 family: total
 platformtag: net
 feature: conversion

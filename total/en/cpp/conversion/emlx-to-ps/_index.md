@@ -1,7 +1,7 @@
 ---
 title: Export EMLX to PS via C++
 description: C++ API to Convert EMLX to PS without using Microsoft Word or Outlook
-url: /cpp/conversion/emlx-to-ps/
+url_ignore: /cpp/conversion/emlx-to-ps/
 family: total
 platformtag: cpp
 feature: conversion

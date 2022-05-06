@@ -1,7 +1,7 @@
 ---
 title: C#-API zum Exportieren von E-MAIL nach MD
 description: Konvertieren Sie E-MAIL in MD, ohne Microsoft Word oder Outlook auf .NET zu verwenden
-url: /de/net/conversion/emlx-to-md/
+url_ignore: /de/net/conversion/emlx-to-md/
 family: total
 platformtag: net
 feature: conversion

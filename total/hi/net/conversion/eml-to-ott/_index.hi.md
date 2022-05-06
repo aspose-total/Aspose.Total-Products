@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई बीएमपी को ईमेल निर्यात करने के लिए
 description: .NET पर Microsoft Word या Outlook का उपयोग किए बिना EML को OTT में बदलें
-url: /hi/net/conversion/eml-to-ott/
+url_ignore: /hi/net/conversion/eml-to-ott/
 family: total
 platformtag: net
 feature: conversion

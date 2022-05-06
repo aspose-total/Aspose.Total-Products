@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XML to POT  
 description: Convert XML to POT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xml-to-pot/
+url_ignore: /cpp/conversion/xml-to-pot/
 family: total
 platformtag: cpp
 feature: conversion

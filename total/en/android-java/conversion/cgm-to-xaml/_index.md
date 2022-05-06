@@ -1,7 +1,7 @@
 ---
 title: Export CGM to XAML in Android 
 description: Android API to Convert CGM to XAML without using Microsoft Word
-url: /android-java/conversion/cgm-to-xaml/
+url_ignore: /android-java/conversion/cgm-to-xaml/
 family: total
 platformtag: android-java
 feature: conversion

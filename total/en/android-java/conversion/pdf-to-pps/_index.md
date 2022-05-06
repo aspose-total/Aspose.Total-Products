@@ -1,7 +1,7 @@
 ---
 title: Export PDF to PPS in Android 
 description: Android API to Convert PDF to PPS without using Microsoft Word
-url: /android-java/conversion/pdf-to-pps/
+url_ignore: /android-java/conversion/pdf-to-pps/
 family: total
 platformtag: android-java
 feature: conversion

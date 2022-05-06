@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení XSLFO do SXC
 description: Export XSLFO do SXC přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/xslfo-to-sxc/
+url_ignore: /cs/java/conversion/xslfo-to-sxc/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: XPSをDOTにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにXPSをDOTに変換する
-url: /ja/net/conversion/xps-to-dot/
+url_ignore: /ja/net/conversion/xps-to-dot/
 family: total
 platformtag: net
 feature: conversion

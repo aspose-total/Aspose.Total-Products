@@ -1,7 +1,7 @@
 ---
 title: Export OFT to XPS via C++
 description: C++ API to Convert OFT to XPS without using Microsoft Word or Outlook
-url: /cpp/conversion/oft-to-xps/
+url_ignore: /cpp/conversion/oft-to-xps/
 family: total
 platformtag: cpp
 feature: conversion

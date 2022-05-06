@@ -1,7 +1,7 @@
 ---
 title: EMLX'i Java aracılığıyla TIFF'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan EMLX'i TIFF'ye Dönüştürmek için Java API
-url: /tr/java/conversion/emlx-to-tiff/
+url_ignore: /tr/java/conversion/emlx-to-tiff/
 family: total
 platformtag: net
 feature: conversion

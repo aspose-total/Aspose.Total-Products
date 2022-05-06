@@ -1,7 +1,7 @@
 ---
 title: API Java per convertire WORDML in XLTM
 description: Converti WORDML in XLTM tramite Java senza utilizzare Microsoft Word o Microsoft Excel
-url: /it/java/conversion/wordml-to-xltm/
+url_ignore: /it/java/conversion/wordml-to-xltm/
 family: total
 platformtag: net
 feature: conversion

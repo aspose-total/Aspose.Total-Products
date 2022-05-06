@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to PPTX via C++
 description: Export WORD to PPTX in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/word-to-pptx/
+url_ignore: /cpp/conversion/word-to-pptx/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API om PCL naar DIF te renderen
 description: Exporteer PCL naar DIF via Java API zonder Microsoft Excel of Adobe Reader te gebruiken
-url: /nl/java/conversion/pcl-to-dif/
+url_ignore: /nl/java/conversion/pcl-to-dif/
 family: total
 platformtag: net
 feature: conversion

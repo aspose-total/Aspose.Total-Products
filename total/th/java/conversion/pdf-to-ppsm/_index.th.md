@@ -1,7 +1,7 @@
 ---
 title: แปลง PDF เป็น PPSM ผ่าน Java API
 description: Java API เพื่อแปลง PDF เป็น PPSM โดยไม่ต้องใช้ Microsoft Word
-url: /th/java/conversion/pdf-to-ppsm/
+url_ignore: /th/java/conversion/pdf-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

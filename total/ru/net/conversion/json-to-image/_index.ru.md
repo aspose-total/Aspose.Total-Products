@@ -1,7 +1,7 @@
 ---
 title: Преобразование формата JSON в IMAGE через .NET
 description: Разбирать JSON в IMAGE на C# без использования сторонних зависимостей
-url: /ru/net/conversion/json-to-image/
+url_ignore: /ru/net/conversion/json-to-image/
 family: total
 platformtag: net
 feature: conversion

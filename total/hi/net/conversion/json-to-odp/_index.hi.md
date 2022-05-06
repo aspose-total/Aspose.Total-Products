@@ -1,7 +1,7 @@
 ---
 title: .NET . के माध्यम से JSON फॉर्मेट को ODP में बदलें
 description: माइक्रोसॉफ्ट पावरपॉइंट का उपयोग किए बिना जेएसओएन को ओडीपी में सी # में पार्स करें
-url: /hi/net/conversion/json-to-odp/
+url_ignore: /hi/net/conversion/json-to-odp/
 family: total
 platformtag: net
 feature: conversion

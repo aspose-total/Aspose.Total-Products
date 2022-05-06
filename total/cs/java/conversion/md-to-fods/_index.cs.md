@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení MD do FODS
 description: Export MD do FODS přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/md-to-fods/
+url_ignore: /cs/java/conversion/md-to-fods/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java ile OTT'yi POTM'ye dönüştürün
 description: Microsoft Word veya PowerPoint kullanmadan OTT'yi POTM'ye Dışa Aktarmak için Java API
-url: /tr/java/conversion/ott-to-potm/
+url_ignore: /tr/java/conversion/ott-to-potm/
 family: total
 platformtag: net
 feature: conversion

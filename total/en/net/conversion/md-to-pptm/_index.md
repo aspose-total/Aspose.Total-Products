@@ -1,7 +1,7 @@
 ---
 title: Export MD to PPTM via C# API
 description: .NET API to Convert MD to PPTM without using Microsoft Word
-url: /net/conversion/md-to-pptm/
+url_ignore: /net/conversion/md-to-pptm/
 family: total
 platformtag: net
 feature: conversion

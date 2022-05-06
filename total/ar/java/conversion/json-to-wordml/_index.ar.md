@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى WORDML عبر Java
 description: تحليل JSON إلى WORDML في Java بدون استخدام Microsoft Word
-url: /ar/java/conversion/json-to-wordml/
+url_ignore: /ar/java/conversion/json-to-wordml/
 family: total
 platformtag: net
 feature: conversion

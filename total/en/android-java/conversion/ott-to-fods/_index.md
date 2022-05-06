@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert OTT to FODS
 description: Convert OTT to FODS in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/ott-to-fods/
+url_ignore: /android-java/conversion/ott-to-fods/
 family: total
 platformtag: android-java
 feature: conversion

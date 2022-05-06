@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してCGMをFODSに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにCGMファイルをFODSに変換するC＃API
-url: /ja/net/conversion/cgm-to-fods/
+url_ignore: /ja/net/conversion/cgm-to-fods/
 family: total
 platformtag: net
 feature: conversion

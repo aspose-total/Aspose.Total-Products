@@ -1,7 +1,7 @@
 ---
 title: Convert PPT to FODS in Android via Java
 description: Convert PPT to FODS in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/ppt-to-fods/
+url_ignore: /android-java/conversion/ppt-to-fods/
 family: total
 platformtag: android-java
 feature: conversion

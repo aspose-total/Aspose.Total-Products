@@ -1,7 +1,7 @@
 ---
 title: EPUB'yi DOTX'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan EPUB'yi DOTX'ye dönüştürün
-url: /tr/net/conversion/epub-to-dotx/
+url_ignore: /tr/net/conversion/epub-to-dotx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convertir PS en JPEG2000 via l'API C#
 description: Exportez PS vers JPEG2000 dans vos applications .NET sans utiliser d'application tierce
-url: /fr/net/conversion/ps-to-jpeg2000/
+url_ignore: /fr/net/conversion/ps-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: TGA WMZ SVGZ WMF PSD IMAGE DXF  EMZ JPEG2000 DICOM
 {{< blocks/products/pf/i18n/feature-page-header h1="Convertir le fichier PS en JPEG2000 via C#" h2="Exportez PS vers JPEG2000 dans les applications .NET sans utiliser Adobe<sup>&reg;</sup> Acrobat Reader ou toute autre application tierce" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), vous pouvez facilement exporter une image PS vers JPEG2000 dans n'importe quelle application .NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.PDF pour .NET](https://products.aspose.com/pdf/net/), vous pouvez exporter PS au format JPEG. Après cela, en utilisant l'API de traitement d'image [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/), vous pouvez convertir JPEG en JPEG2000.
+En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez facilement exporter une image PS vers JPEG2000 dans n'importe quelle application .NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), vous pouvez exporter PS au format JPEG. Après cela, en utilisant l'API de traitement d'image [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/), vous pouvez convertir JPEG en JPEG2000.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

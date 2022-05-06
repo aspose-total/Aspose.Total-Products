@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PDF to POTX  
 description: Convert PDF to POTX via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/pdf-to-potx/
+url_ignore: /cpp/conversion/pdf-to-potx/
 family: total
 platformtag: cpp
 feature: conversion

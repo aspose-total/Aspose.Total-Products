@@ -1,7 +1,7 @@
 ---
 title: Konvertera MHTML till PPT via Java API
 description: Java API för att konvertera MHTML till PPT utan att använda Microsoft Word
-url: /sv/java/conversion/mhtml-to-ppt/
+url_ignore: /sv/java/conversion/mhtml-to-ppt/
 family: total
 platformtag: net
 feature: conversion

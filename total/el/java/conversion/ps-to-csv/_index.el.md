@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση PS σε CSV
 description: Εξαγωγή PS σε CSV μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/ps-to-csv/
+url_ignore: /el/java/conversion/ps-to-csv/
 family: total
 platformtag: net
 feature: conversion

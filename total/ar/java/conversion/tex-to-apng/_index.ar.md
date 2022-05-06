@@ -1,7 +1,7 @@
 ---
 title: تحويل TEX إلى APNG عبر Java
 description: قم بتصدير ملف TEX إلى APNG في تطبيقات Java الخاصة بك دون استخدام أي تطبيق تابع لجهة خارجية
-url: /ar/java/conversion/tex-to-apng/
+url_ignore: /ar/java/conversion/tex-to-apng/
 family: total
 platformtag: net
 feature: conversion

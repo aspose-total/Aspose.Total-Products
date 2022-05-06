@@ -1,7 +1,7 @@
 ---
 title: Java API to Export EPUB to OTT
 description: Convert EPUB to OTT using on premise Java API
-url: /java/conversion/epub-to-ott/
+url_ignore: /java/conversion/epub-to-ott/
 family: total
 platformtag: java
 feature: conversion

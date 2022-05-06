@@ -1,7 +1,7 @@
 ---
 title: Java API لتقديم PS إلى DIF
 description: قم بتصدير PS إلى DIF عبر Java API دون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/java/conversion/ps-to-dif/
+url_ignore: /ar/java/conversion/ps-to-dif/
 family: total
 platformtag: net
 feature: conversion

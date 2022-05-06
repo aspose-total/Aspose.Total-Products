@@ -1,7 +1,7 @@
 ---
 title: Export SVG to PPSM via C# API
 description: .NET API to Convert SVG to PPSM without using Microsoft Word
-url: /net/conversion/svg-to-ppsm/
+url_ignore: /net/conversion/svg-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

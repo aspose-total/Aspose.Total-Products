@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをWMZに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでPDFをWMZにエクスポートします
-url: /ja/net/conversion/pdf-to-wmz/
+url_ignore: /ja/net/conversion/pdf-to-wmz/
 family: total
 platformtag: net
 feature: conversion

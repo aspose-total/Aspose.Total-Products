@@ -1,7 +1,7 @@
 ---
 title: Převeďte POWERPOINT do formátu TSV přes Java
 description: Převeďte POWERPOINT do formátu TSV přes Java bez použití Microsoft Excel nebo PowerPoint
-url: /cs/java/conversion/powerpoint-to-tsv/
+url_ignore: /cs/java/conversion/powerpoint-to-tsv/
 family: total
 platformtag: net
 feature: conversion

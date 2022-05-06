@@ -1,7 +1,7 @@
 ---
 title: Convert PDF to TXT via C# API
 description: C# API to Convert PDF File to TXT without using Microsoft Excel or Adobe Reader
-url: /net/conversion/pdf-to-txt/
+url_ignore: /net/conversion/pdf-to-txt/
 family: total
 platformtag: net
 feature: conversion

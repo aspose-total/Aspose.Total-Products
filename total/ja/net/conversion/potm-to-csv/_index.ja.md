@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPOTMをCSVに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPOTMをCSVに変換する
-url: /ja/net/conversion/potm-to-csv/
+url_ignore: /ja/net/conversion/potm-to-csv/
 family: total
 platformtag: net
 feature: conversion

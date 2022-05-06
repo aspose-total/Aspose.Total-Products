@@ -1,6 +1,6 @@
 ---
 title: Convert PPTX to TXT via C# .NET 
-url: /net/conversion/pptx-to-txt/ 
+url_ignore: /net/conversion/pptx-to-txt/ 
 description: Convert PowerPoint pptx documents to Word txt files with C#. Convert multiple files within ASP.NET or other .NET applications.
 ---
 

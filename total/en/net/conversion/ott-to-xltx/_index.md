@@ -1,7 +1,7 @@
 ---
 title: .NET API to Convert OTT to XLTX 
 description: C# API to Convert OTT to XLTX without using Microsoft Excel or Adobe Reader
-url: /net/conversion/ott-to-xltx/
+url_ignore: /net/conversion/ott-to-xltx/
 family: total
 platformtag: net
 feature: conversion

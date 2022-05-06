@@ -1,7 +1,7 @@
 ---
 title: Exporteer OFT naar XPS via Java
 description: Java API om OFT naar XPS te converteren zonder Microsoft Word of Outlook te gebruiken
-url: /nl/java/conversion/oft-to-xps/
+url_ignore: /nl/java/conversion/oft-to-xps/
 family: total
 platformtag: net
 feature: conversion

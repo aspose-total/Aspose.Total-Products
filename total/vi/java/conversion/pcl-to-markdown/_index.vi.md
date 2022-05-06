@@ -1,7 +1,7 @@
 ---
 title: API Java để xuất PCL sang MARKDOWN
 description: Chuyển đổi PCL sang MARKDOWN bằng cách sử dụng API Java tiền đề
-url: /vi/java/conversion/pcl-to-markdown/
+url_ignore: /vi/java/conversion/pcl-to-markdown/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга TEX в XLSM
 description: Экспорт TEX в XLSM через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/tex-to-xlsm/
+url_ignore: /ru/java/conversion/tex-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

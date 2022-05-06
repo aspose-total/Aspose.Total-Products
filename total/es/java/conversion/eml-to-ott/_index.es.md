@@ -1,7 +1,7 @@
 ---
 title: Exportar EML a OTT a través de Java
 description: API de Java para convertir EML a OTT sin usar Microsoft Word o Outlook
-url: /es/java/conversion/eml-to-ott/
+url_ignore: /es/java/conversion/eml-to-ott/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert DOTX to ODS in C++
 description: C++ API to Convert DOTX to ODS without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/dotx-to-ods/
+url_ignore: /cpp/conversion/dotx-to-ods/
 family: total
 platformtag: cpp
 feature: conversion

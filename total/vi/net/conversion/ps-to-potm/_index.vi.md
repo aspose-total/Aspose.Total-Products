@@ -1,7 +1,7 @@
 ---
 title: Xuất PS sang POTM qua C# API
 description: .NET API để chuyển đổi PS sang POTM mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/ps-to-potm/
+url_ignore: /vi/net/conversion/ps-to-potm/
 family: total
 platformtag: net
 feature: conversion

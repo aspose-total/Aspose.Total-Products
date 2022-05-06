@@ -1,7 +1,7 @@
 ---
 title: Converter PCL para WMF via Java
 description: Exporte o arquivo PCL para WMF em seus aplicativos Java sem usar nenhum aplicativo de terceiros
-url: /pt/java/conversion/pcl-to-wmf/
+url_ignore: /pt/java/conversion/pcl-to-wmf/
 family: total
 platformtag: net
 feature: conversion

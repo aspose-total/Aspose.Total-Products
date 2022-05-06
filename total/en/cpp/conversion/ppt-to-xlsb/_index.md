@@ -1,7 +1,7 @@
 ---
 title: Convert PPT to XLSB via C++ 
 description: Export PPT to XLSB in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/ppt-to-xlsb/
+url_ignore: /cpp/conversion/ppt-to-xlsb/
 family: total
 platformtag: cpp
 feature: conversion

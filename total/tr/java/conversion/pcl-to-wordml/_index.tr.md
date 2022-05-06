@@ -1,7 +1,7 @@
 ---
 title: PCL'yi WORDML'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak PCL'yi WORDML'ye dönüştürün
-url: /tr/java/conversion/pcl-to-wordml/
+url_ignore: /tr/java/conversion/pcl-to-wordml/
 family: total
 platformtag: net
 feature: conversion

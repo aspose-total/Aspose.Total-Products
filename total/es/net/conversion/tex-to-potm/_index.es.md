@@ -1,7 +1,7 @@
 ---
 title: Exportar TEX a POTM a través de la API de C#
 description: .NET API para convertir TEX a POTM sin usar Microsoft Word
-url: /es/net/conversion/tex-to-potm/
+url_ignore: /es/net/conversion/tex-to-potm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converti PS in TGA tramite API C#
 description: Esporta PS in TGA nelle tue applicazioni .NET senza utilizzare applicazioni di terze parti
-url: /it/net/conversion/ps-to-tga/
+url_ignore: /it/net/conversion/ps-to-tga/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını .NET aracılığıyla DOCM'ye dönüştürün
 description: Microsoft Word kullanmadan JSON'u C# ile DOCM'ye ayrıştırın
-url: /tr/net/conversion/json-to-docm/
+url_ignore: /tr/net/conversion/json-to-docm/
 family: total
 platformtag: net
 feature: conversion

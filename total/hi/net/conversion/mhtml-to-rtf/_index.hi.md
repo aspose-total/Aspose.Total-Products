@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई सीजीएम को डीओसीएम में निर्यात करने के लिए
 description: Microsoft Word का उपयोग किए बिना MHTML को RTF में बदलें
-url: /hi/net/conversion/mhtml-to-rtf/
+url_ignore: /hi/net/conversion/mhtml-to-rtf/
 family: total
 platformtag: net
 feature: conversion

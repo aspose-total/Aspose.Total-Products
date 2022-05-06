@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPSをFODSに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPSファイルをFODSに変換するC＃API
-url: /ja/net/conversion/ps-to-fods/
+url_ignore: /ja/net/conversion/ps-to-fods/
 family: total
 platformtag: net
 feature: conversion

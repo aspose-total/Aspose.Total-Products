@@ -1,7 +1,7 @@
 ---
 title: C# API to Export MSG to WORD
 description: Convert MSG to WORD without using Microsoft Word or Outlook on .NET
-url: /net/conversion/msg-to-word/
+url_ignore: /net/conversion/msg-to-word/
 family: total
 platformtag: net
 feature: conversion

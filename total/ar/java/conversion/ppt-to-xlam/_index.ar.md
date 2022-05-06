@@ -1,7 +1,7 @@
 ---
 title: تحويل PPT إلى تنسيق XLAM عبر Java
 description: قم بتحويل PPT إلى تنسيق XLAM عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/ppt-to-xlam/
+url_ignore: /ar/java/conversion/ppt-to-xlam/
 family: total
 platformtag: net
 feature: conversion

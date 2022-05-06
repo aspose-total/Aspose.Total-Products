@@ -1,7 +1,7 @@
 ---
 title: Convertir PS en WMZ via l'API C#
 description: Exportez PS vers WMZ dans vos applications .NET sans utiliser d'application tierce
-url: /fr/net/conversion/ps-to-wmz/
+url_ignore: /fr/net/conversion/ps-to-wmz/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: TGA  DXF EMZ WMF PSD WMZ JPEG2000 IMAGE SVGZ DICOM
 {{< blocks/products/pf/i18n/feature-page-header h1="Convertir le fichier PS en WMZ via C#" h2="Exportez PS vers WMZ dans les applications .NET sans utiliser Adobe<sup>&reg;</sup> Acrobat Reader ou toute autre application tierce" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), vous pouvez facilement exporter une image PS vers WMZ dans n'importe quelle application .NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.PDF pour .NET](https://products.aspose.com/pdf/net/), vous pouvez exporter PS au format JPEG. Après cela, en utilisant l'API de traitement d'image [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/), vous pouvez convertir JPEG en WMZ.
+En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez facilement exporter une image PS vers WMZ dans n'importe quelle application .NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), vous pouvez exporter PS au format JPEG. Après cela, en utilisant l'API de traitement d'image [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/), vous pouvez convertir JPEG en WMZ.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

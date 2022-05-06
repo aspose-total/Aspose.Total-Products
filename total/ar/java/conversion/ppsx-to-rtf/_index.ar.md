@@ -1,7 +1,7 @@
 ---
 title: تحويل PPSX إلى RTF عبر Java
 description: Java API لتصدير PPSX إلى RTF دون استخدام Microsoft Word أو PowerPoint
-url: /ar/java/conversion/ppsx-to-rtf/
+url_ignore: /ar/java/conversion/ppsx-to-rtf/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ otherformats: DOTX RTF RTFM FLATOPC WORD ODT TEXT WORDML DOTM DOT RTFX OTT
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل PPSX إلى RTF عبر Java" %}}
 1. افتح ملف PPSX باستخدام فئة [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. تحويل PPSX إلى HTML باستخدام [Save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) وتعيين Html كـ SaveFormat
-3. قم بتحميل ملف HTML المحول باستخدام فئة [Rtfument](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument)
-4. احفظ المستند بتنسيق RTF باستخدام طريقة [Save](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument#save(java.lang.String.int))
+3. قم بتحميل ملف HTML المحول باستخدام فئة [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+4. احفظ المستند بتنسيق RTF باستخدام طريقة [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String.int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
 لتحويل ملف PPSX إلى RTF ، يمكنك بسهولة استخدام Aspose.Total لـ Java مباشرة من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) القائم على المشروع وتضمين المكتبات في ملفك pom.xml.
@@ -34,7 +34,7 @@ otherformats: DOTX RTF RTFM FLATOPC WORD ODT TEXT WORDML DOTM DOT RTFX OTT
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="متطلبات التحويل" %}}
-باستخدام API ، يمكنك أيضًا تنفيذ ملف PPSX لتحويل RTF بعلامة مائية. لإضافة علامة مائية إلى مستند RTF الخاص بك ، يمكنك أولاً تحويل ملف PPSX إلى HTML وإضافة علامة مائية إليه. لإضافة علامة مائية ، قم بتحميل ملف HTML الذي تم إنشاؤه حديثًا باستخدام فئة [Rtfument](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument) ، وأنشئ مثيلاً لـ TextWatermarkOptions وعيّن خصائصه ، استدعاء طريقة Watermark.setText وتمرير نص العلامة المائية وكائن TextWatermarkOptions.  
+باستخدام API ، يمكنك أيضًا تنفيذ ملف PPSX لتحويل RTF بعلامة مائية. لإضافة علامة مائية إلى مستند RTF الخاص بك ، يمكنك أولاً تحويل ملف PPSX إلى HTML وإضافة علامة مائية إليه. لإضافة علامة مائية ، قم بتحميل ملف HTML الذي تم إنشاؤه حديثًا باستخدام فئة [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) ، وأنشئ مثيلاً لـ TextWatermarkOptions وعيّن خصائصه ، استدعاء طريقة Watermark.setText وتمرير نص العلامة المائية وكائن TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}

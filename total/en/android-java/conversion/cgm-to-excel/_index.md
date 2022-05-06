@@ -1,7 +1,7 @@
 ---
 title: Convert CGM to EXCEL in Android via Java
 description: Render CGM to EXCEL in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/cgm-to-excel/
+url_ignore: /android-java/conversion/cgm-to-excel/
 family: total
 platformtag: android-java
 feature: conversion

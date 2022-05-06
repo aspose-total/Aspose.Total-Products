@@ -1,7 +1,7 @@
 ---
 title: XPSをPCLにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してXPSをPCLに変換する
-url: /ja/java/conversion/xps-to-pcl/
+url_ignore: /ja/java/conversion/xps-to-pcl/
 family: total
 platformtag: net
 feature: conversion

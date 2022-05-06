@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to ODP in Android via Java
 description: WORD to ODP conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/word-to-odp/
+url_ignore: /android-java/conversion/word-to-odp/
 family: total
 platformtag: android-java
 feature: conversion

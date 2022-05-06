@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert CGM to PPSX  
 description: Convert CGM to PPSX via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/cgm-to-ppsx/
+url_ignore: /cpp/conversion/cgm-to-ppsx/
 family: total
 platformtag: cpp
 feature: conversion

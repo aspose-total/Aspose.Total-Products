@@ -1,7 +1,7 @@
 ---
 title: Java kullanarak XLS'yi DOC'ye dönüştürün
 description: Excel veya Word kullanarak XLS'yi DOC'a Dışa Aktarmak için Java API
-url: /tr/java/conversion/xls-to-doc/
+url_ignore: /tr/java/conversion/xls-to-doc/
 family: total
 platformtag: net
 feature: conversion

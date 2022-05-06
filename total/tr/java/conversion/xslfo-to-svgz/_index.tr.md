@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla XSLFO'yi SVGZ'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan XSLFO dosyasını Java uygulamalarınızda SVGZ'ye aktarın
-url: /tr/java/conversion/xslfo-to-svgz/
+url_ignore: /tr/java/conversion/xslfo-to-svgz/
 family: total
 platformtag: net
 feature: conversion

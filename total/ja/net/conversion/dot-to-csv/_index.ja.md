@@ -1,7 +1,7 @@
 ---
 title: DOTをCSVに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにDOTをCSVに変換するC＃API
-url: /ja/net/conversion/dot-to-csv/
+url_ignore: /ja/net/conversion/dot-to-csv/
 family: total
 platformtag: net
 feature: conversion

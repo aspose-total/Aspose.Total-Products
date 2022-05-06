@@ -1,7 +1,7 @@
 ---
 title: ODT'yi ODS'ye Dönüştürmek için .NET API
 description: Microsoft Excel veya Adobe Reader kullanmadan ODT'yi ODS'ye dönüştürmek için C# API'si
-url: /tr/net/conversion/odt-to-ods/
+url_ignore: /tr/net/conversion/odt-to-ods/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert XLTX to PPTX with .NET 
 description: Convert XLTX to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms
-url: /net/conversion/xltx-to-pptx/
+url_ignore: /net/conversion/xltx-to-pptx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تصدير EPUB إلى PPSM عبر C# API
 description: NET API لتحويل EPUB إلى PPSM دون استخدام Microsoft Word
-url: /ar/net/conversion/epub-to-ppsm/
+url_ignore: /ar/net/conversion/epub-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

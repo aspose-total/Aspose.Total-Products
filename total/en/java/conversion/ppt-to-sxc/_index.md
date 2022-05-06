@@ -1,7 +1,7 @@
 ---
 title: Convert PPT to SXC Format via Java
 description: Convert PPT to SXC format via Java without using using Microsoft Excel or PowerPoint
-url: /java/conversion/ppt-to-sxc/
+url_ignore: /java/conversion/ppt-to-sxc/
 family: total
 platformtag: java
 feature: conversion

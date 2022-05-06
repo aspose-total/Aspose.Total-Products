@@ -1,7 +1,7 @@
 ---
 title: Converti POTX in formato XLT tramite Java
 description: Converti POTX in formato XLT tramite Java senza utilizzare Microsoft Excel o PowerPoint
-url: /it/java/conversion/potx-to-xlt/
+url_ignore: /it/java/conversion/potx-to-xlt/
 family: total
 platformtag: net
 feature: conversion

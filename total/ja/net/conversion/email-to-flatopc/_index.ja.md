@@ -1,7 +1,7 @@
 ---
 title: EMAILをFLATOPCにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMAILをFLATOPCに変換する
-url: /ja/net/conversion/email-to-flatopc/
+url_ignore: /ja/net/conversion/email-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

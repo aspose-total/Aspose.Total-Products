@@ -1,7 +1,7 @@
 ---
 title: .NET API để chuyển đổi WORD sang XLSX
 description: C# API để chuyển đổi WORD sang XLSX mà không cần sử dụng Microsoft Excel hoặc Adobe Reader
-url: /vi/net/conversion/word-to-xlsx/
+url_ignore: /vi/net/conversion/word-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование PDF в TGA через C# API
 description: Экспорт PDF в TGA в ваших приложениях .NET без использования каких-либо сторонних приложений.
-url: /ru/net/conversion/pdf-to-tga/
+url_ignore: /ru/net/conversion/pdf-to-tga/
 family: total
 platformtag: net
 feature: conversion

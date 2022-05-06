@@ -1,7 +1,7 @@
 ---
 title: แปลง XLSB เป็น WORD โดยใช้ Java
 description: Java API เพื่อส่งออก XLSB เป็น WORD โดยใช้ Excel หรือ Word
-url: /th/java/conversion/xlsb-to-word/
+url_ignore: /th/java/conversion/xlsb-to-word/
 family: total
 platformtag: net
 feature: conversion

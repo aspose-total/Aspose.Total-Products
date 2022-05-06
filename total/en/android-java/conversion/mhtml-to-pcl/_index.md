@@ -1,7 +1,7 @@
 ---
 title: Android API to Render MHTML to PCL
 description: Transform MHTML to PCL via Android via Java API
-url: /android-java/conversion/mhtml-to-pcl/
+url_ignore: /android-java/conversion/mhtml-to-pcl/
 family: total
 platformtag: android-java
 feature: conversion

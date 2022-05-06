@@ -1,7 +1,7 @@
 ---
 title: Převeďte CGM na ODS přes C# API
 description: C# API pro převod souboru CGM do ODS bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/cgm-to-ods/
+url_ignore: /cs/net/conversion/cgm-to-ods/
 family: total
 platformtag: net
 feature: conversion

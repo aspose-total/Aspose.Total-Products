@@ -1,7 +1,7 @@
 ---
 title: MD'yi MARKDOWN'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak MD'yi MARKDOWN'ye dönüştürün
-url: /tr/java/conversion/md-to-markdown/
+url_ignore: /tr/java/conversion/md-to-markdown/
 family: total
 platformtag: net
 feature: conversion

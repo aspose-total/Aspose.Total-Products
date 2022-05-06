@@ -1,7 +1,7 @@
 ---
 title: Convert XLT to DOCX using Java 
 description: Java API to Export XLT to DOCX with using Excel or Word 
-url: /java/conversion/xlt-to-docx/
+url_ignore: /java/conversion/xlt-to-docx/
 family: total
 platformtag: java
 feature: conversion

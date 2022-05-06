@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất PDF sang XAMLFLOW
 description: Chuyển đổi PDF sang XAMLFLOW mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/pdf-to-xamlflow/
+url_ignore: /vi/net/conversion/pdf-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

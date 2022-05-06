@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Exportieren von SVG nach FLATOPC
 description: Konvertieren Sie SVG mithilfe der lokalen Java-API in FLATOPC
-url: /de/java/conversion/svg-to-flatopc/
+url_ignore: /de/java/conversion/svg-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

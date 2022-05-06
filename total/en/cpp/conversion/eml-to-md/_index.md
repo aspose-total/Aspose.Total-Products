@@ -1,7 +1,7 @@
 ---
 title: Export EML to MD via C++
 description: C++ API to Convert EML to MD without using Microsoft Word or Outlook
-url: /cpp/conversion/eml-to-md/
+url_ignore: /cpp/conversion/eml-to-md/
 family: total
 platformtag: cpp
 feature: conversion

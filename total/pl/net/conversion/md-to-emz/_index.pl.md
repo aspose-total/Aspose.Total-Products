@@ -1,7 +1,7 @@
 ---
 title: Konwertuj MD na EMZ przez C# API
 description: Eksportuj MD do EMZ w swoich aplikacjach .NET bez korzystania z aplikacji innych firm
-url: /pl/net/conversion/md-to-emz/
+url_ignore: /pl/net/conversion/md-to-emz/
 family: total
 platformtag: net
 feature: conversion

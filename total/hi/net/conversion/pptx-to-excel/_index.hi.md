@@ -1,7 +1,7 @@
 ---
 title: सी # के माध्यम से पीओटी को सीएसवी में कनवर्ट करें
 description: Microsoft Excel या Powerpoint का उपयोग किए बिना PPTX को EXCEL में C# में बदलें
-url: /hi/net/conversion/pptx-to-excel/
+url_ignore: /hi/net/conversion/pptx-to-excel/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert DOCM to PPS in Android via Java
 description: DOCM to PPS conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/docm-to-pps/
+url_ignore: /android-java/conversion/docm-to-pps/
 family: total
 platformtag: android-java
 feature: conversion

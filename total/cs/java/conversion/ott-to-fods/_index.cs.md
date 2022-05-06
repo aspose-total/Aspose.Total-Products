@@ -1,7 +1,7 @@
 ---
 title: Java API pro převod OTT do FODS
 description: Převeďte OTT na FODS přes Java bez použití Microsoft Word nebo Microsoft Excel
-url: /cs/java/conversion/ott-to-fods/
+url_ignore: /cs/java/conversion/ott-to-fods/
 family: total
 platformtag: net
 feature: conversion

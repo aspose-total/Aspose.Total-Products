@@ -1,7 +1,7 @@
 ---
 title: Преобразование XLSB в DOCX с помощью .NET 
 description: Преобразование XLSB в DOCX на платформах .NET Framework, .NET Core, Mono или Xamarin
-url: /ru/net/conversion/xlsb-to-docx/
+url_ignore: /ru/net/conversion/xlsb-to-docx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert PPSX to TSV via C++ 
 description: Export PPSX to TSV in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/ppsx-to-tsv/
+url_ignore: /cpp/conversion/ppsx-to-tsv/
 family: total
 platformtag: cpp
 feature: conversion

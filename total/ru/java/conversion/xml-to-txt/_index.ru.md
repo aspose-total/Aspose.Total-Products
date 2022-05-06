@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга XML в TXT
 description: Экспорт XML в TXT через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/xml-to-txt/
+url_ignore: /ru/java/conversion/xml-to-txt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert DOTX to FODS
 description: Convert DOTX to FODS via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/dotx-to-fods/
+url_ignore: /java/conversion/dotx-to-fods/
 family: total
 platformtag: java
 feature: conversion

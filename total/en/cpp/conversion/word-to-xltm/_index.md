@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to XLTM in C++
 description: C++ API to Convert WORD to XLTM without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/word-to-xltm/
+url_ignore: /cpp/conversion/word-to-xltm/
 family: total
 platformtag: cpp
 feature: conversion

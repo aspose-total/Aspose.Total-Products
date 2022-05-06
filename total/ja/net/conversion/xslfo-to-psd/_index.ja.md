@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXSLFOをPSDに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでXSLFOをPSDにエクスポートします
-url: /ja/net/conversion/xslfo-to-psd/
+url_ignore: /ja/net/conversion/xslfo-to-psd/
 family: total
 platformtag: net
 feature: conversion

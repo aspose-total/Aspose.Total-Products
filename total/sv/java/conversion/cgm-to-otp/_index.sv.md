@@ -1,7 +1,7 @@
 ---
 title: Konvertera CGM till OTP via Java API
 description: Java API för att konvertera CGM till OTP utan att använda Microsoft Word
-url: /sv/java/conversion/cgm-to-otp/
+url_ignore: /sv/java/conversion/cgm-to-otp/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: CGMをPSにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してCGMをPSに変換する
-url: /ja/java/conversion/cgm-to-ps/
+url_ignore: /ja/java/conversion/cgm-to-ps/
 family: total
 platformtag: net
 feature: conversion

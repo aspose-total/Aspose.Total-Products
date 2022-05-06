@@ -1,7 +1,7 @@
 ---
 title: .NET을 통해 JSON 형식을 SVGZ로 변환
 description: 타사 종속성을 사용하지 않고 C#에서 JSON을 SVGZ로 구문 분석
-url: /ko/net/conversion/json-to-svgz/
+url_ignore: /ko/net/conversion/json-to-svgz/
 family: total
 platformtag: net
 feature: conversion

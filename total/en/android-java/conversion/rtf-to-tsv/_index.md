@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert RTF to TSV
 description: Convert RTF to TSV in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/rtf-to-tsv/
+url_ignore: /android-java/conversion/rtf-to-tsv/
 family: total
 platformtag: android-java
 feature: conversion

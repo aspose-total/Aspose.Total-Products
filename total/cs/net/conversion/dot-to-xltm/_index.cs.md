@@ -1,7 +1,7 @@
 ---
 title: .NET API pro převod DOT do XLTM
 description: C# API pro převod DOT do XLTM bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/dot-to-xltm/
+url_ignore: /cs/net/conversion/dot-to-xltm/
 family: total
 platformtag: net
 feature: conversion

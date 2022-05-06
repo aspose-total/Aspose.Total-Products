@@ -1,7 +1,7 @@
 ---
 title: تحويل POTX إلى TSV عبر C#
 description: قم بتحويل POTX إلى TSV في C# بدون استخدام Microsoft Excel أو Powerpoint
-url: /ar/net/conversion/potx-to-tsv/
+url_ignore: /ar/net/conversion/potx-to-tsv/
 family: total
 platformtag: net
 feature: conversion

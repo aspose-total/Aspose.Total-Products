@@ -1,7 +1,7 @@
 ---
 title: Java経由でPOTをWORDMLに変換する
 description: MicrosoftWordやPowerPointを使用せずにPOTをWORDMLにエクスポートするJavaAPI
-url: /ja/java/conversion/pot-to-wordml/
+url_ignore: /ja/java/conversion/pot-to-wordml/
 family: total
 platformtag: net
 feature: conversion

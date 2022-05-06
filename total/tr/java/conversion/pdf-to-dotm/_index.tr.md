@@ -1,7 +1,7 @@
 ---
 title: PDF'yi DOTM'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak PDF'yi DOTM'ye dönüştürün
-url: /tr/java/conversion/pdf-to-dotm/
+url_ignore: /tr/java/conversion/pdf-to-dotm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта TEX в RTF
 description: Преобразование TEX в RTF без использования Microsoft Word
-url: /ru/net/conversion/tex-to-rtf/
+url_ignore: /ru/net/conversion/tex-to-rtf/
 family: total
 platformtag: net
 feature: conversion

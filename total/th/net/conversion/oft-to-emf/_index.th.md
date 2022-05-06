@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก OFT ไปยัง EMF
 description: แปลง OFT เป็น EMF โดยไม่ต้องใช้ Microsoft Word หรือ Outlook บน .NET
-url: /th/net/conversion/oft-to-emf/
+url_ignore: /th/net/conversion/oft-to-emf/
 family: total
 platformtag: net
 feature: conversion

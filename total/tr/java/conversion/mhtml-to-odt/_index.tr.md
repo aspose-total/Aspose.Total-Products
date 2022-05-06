@@ -1,7 +1,7 @@
 ---
 title: MHTML'yi ODT'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak MHTML'yi ODT'ye dönüştürün
-url: /tr/java/conversion/mhtml-to-odt/
+url_ignore: /tr/java/conversion/mhtml-to-odt/
 family: total
 platformtag: net
 feature: conversion

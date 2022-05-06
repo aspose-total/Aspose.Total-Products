@@ -1,7 +1,7 @@
 ---
 title: WORDMLをFODSに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにWORDMLをFODSに変換するC＃API
-url: /ja/net/conversion/wordml-to-fods/
+url_ignore: /ja/net/conversion/wordml-to-fods/
 family: total
 platformtag: net
 feature: conversion

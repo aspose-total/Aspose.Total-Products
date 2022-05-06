@@ -1,7 +1,7 @@
 ---
 title: MD'yi PCL'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan MD'yi PCL'ye dönüştürün
-url: /tr/net/conversion/md-to-pcl/
+url_ignore: /tr/net/conversion/md-to-pcl/
 family: total
 platformtag: net
 feature: conversion

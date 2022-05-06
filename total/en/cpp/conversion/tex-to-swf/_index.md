@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert TEX to SWF  
 description: Convert TEX to SWF via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/tex-to-swf/
+url_ignore: /cpp/conversion/tex-to-swf/
 family: total
 platformtag: cpp
 feature: conversion

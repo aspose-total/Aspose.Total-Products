@@ -1,7 +1,7 @@
 ---
 title: Java API لتقديم PS إلى MD
 description: قم بتصدير PS إلى MD عبر Java API دون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/java/conversion/ps-to-md/
+url_ignore: /ar/java/conversion/ps-to-md/
 family: total
 platformtag: net
 feature: conversion

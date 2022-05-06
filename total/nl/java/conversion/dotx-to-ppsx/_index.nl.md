@@ -1,7 +1,7 @@
 ---
 title: Converteer DOTX naar PPSX via Java
 description: Java API om DOTX naar PPSX te exporteren zonder Microsoft Word of PowerPoint te gebruiken
-url: /nl/java/conversion/dotx-to-ppsx/
+url_ignore: /nl/java/conversion/dotx-to-ppsx/
 family: total
 platformtag: net
 feature: conversion
@@ -16,11 +16,11 @@ Vaak moeten ontwikkelaars het DOTX-bestand programmatisch naar PPSX converteren.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hoe DOTX naar PPSX te converteren via Java" %}}
-1. Open het DOTX-bestand met de klasse [Dotxument](https://apireference.aspose.com/words/java/com.aspose.words/Dotxument)
-2. Converteer het DOTX-bestand naar HTML met behulp van [save](https://apireference.aspose.com/words/java/com.aspose.words/Dotxument#save(java.lang.String,com.aspose.words.SaveOptions))) methode
+1. Open het DOTX-bestand met de klasse [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. Converteer het DOTX-bestand naar HTML met behulp van [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) methode
 3. Initialiseer een nieuw [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) object
 5. Extraheer inhoud uit HTML-bestand met BufferedReader en schrijf de inhoud in uw presentatiebestand
-6. Sla het dotxument op in PPSX met de methode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. Sla het Document op in PPSX met de methode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
 Voor DOTX naar PPSX-bestandsconversie kunt u Aspose.Total voor Java eenvoudig rechtstreeks vanuit een [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) gebaseerd project en neem bibliotheken op in uw pom.xml.
@@ -35,7 +35,7 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Conversievereisten" %}}
-Met de API kunt u ook met een wachtwoord beveiligde DOTX-dotxumenten naar PPSX converteren. Als uw DOTX-invoerdotxument met een wachtwoord is beveiligd, kunt u het niet converteren naar PPSX-indeling zonder het wachtwoord te gebruiken. Om een versleuteld dotxument te openen, kunt u het juiste wachtwoord instellen in het object LoadOptions en dit doorgeven aan de dotxumentconstructor.  
+Met de API kunt u ook met een wachtwoord beveiligde DOTX-Documenten naar PPSX converteren. Als uw DOTX-invoerDocument met een wachtwoord is beveiligd, kunt u het niet converteren naar PPSX-indeling zonder het wachtwoord te gebruiken. Om een versleuteld Document te openen, kunt u het juiste wachtwoord instellen in het object LoadOptions en dit doorgeven aan de Documentconstructor.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dotx-to-pptx.java" >}}

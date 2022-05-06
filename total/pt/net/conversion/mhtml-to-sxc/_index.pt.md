@@ -1,7 +1,7 @@
 ---
 title: Converter MHTML para SXC via API C#
 description: API C# para converter arquivo MHTML em SXC sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/mhtml-to-sxc/
+url_ignore: /pt/net/conversion/mhtml-to-sxc/
 family: total
 platformtag: net
 feature: conversion

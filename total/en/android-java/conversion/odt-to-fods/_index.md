@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert ODT to FODS
 description: Convert ODT to FODS in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/odt-to-fods/
+url_ignore: /android-java/conversion/odt-to-fods/
 family: total
 platformtag: android-java
 feature: conversion

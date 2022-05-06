@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to PPSX via C++
 description: Export TXT to PPSX in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/txt-to-ppsx/
+url_ignore: /cpp/conversion/txt-to-ppsx/
 family: total
 platformtag: cpp
 feature: conversion

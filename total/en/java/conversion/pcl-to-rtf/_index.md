@@ -1,7 +1,7 @@
 ---
 title: Java API to Export PCL to RTF
 description: Convert PCL to RTF using on premise Java API
-url: /java/conversion/pcl-to-rtf/
+url_ignore: /java/conversion/pcl-to-rtf/
 family: total
 platformtag: java
 feature: conversion

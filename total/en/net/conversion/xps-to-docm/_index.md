@@ -1,7 +1,7 @@
 ---
 title: C# API to Export XPS to DOCM
 description: Convert XPS to DOCM without using Microsoft Word
-url: /net/conversion/xps-to-docm/
+url_ignore: /net/conversion/xps-to-docm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: MD'yi DOCM'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan MD'yi DOCM'ye dönüştürün
-url: /tr/net/conversion/md-to-docm/
+url_ignore: /tr/net/conversion/md-to-docm/
 family: total
 platformtag: net
 feature: conversion

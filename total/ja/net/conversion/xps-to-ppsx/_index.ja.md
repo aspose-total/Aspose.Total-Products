@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXPSをPPSXにエクスポートする
 description: MicrosoftWordを使用せずにXPSをPPSXに変換する.NETAPI
-url: /ja/net/conversion/xps-to-ppsx/
+url_ignore: /ja/net/conversion/xps-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

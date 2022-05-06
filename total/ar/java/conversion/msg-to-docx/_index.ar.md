@@ -1,7 +1,7 @@
 ---
 title: قم بتصدير MSG إلى DOCX عبر Java
 description: Java API لتحويل البريد الإلكتروني إلى DOCX دون استخدام Microsoft Word أو Outlook
-url: /ar/java/conversion/msg-to-docx/
+url_ignore: /ar/java/conversion/msg-to-docx/
 family: total
 platformtag: net
 feature: conversion

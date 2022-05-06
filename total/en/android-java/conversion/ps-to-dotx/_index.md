@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PS to DOTX
 description: Transform PS to DOTX via Android via Java API
-url: /android-java/conversion/ps-to-dotx/
+url_ignore: /android-java/conversion/ps-to-dotx/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert POT to XLSM via C++ 
 description: Export POT to XLSM in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pot-to-xlsm/
+url_ignore: /cpp/conversion/pot-to-xlsm/
 family: total
 platformtag: cpp
 feature: conversion

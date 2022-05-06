@@ -1,7 +1,7 @@
 ---
 title: Java API to Render PCL to FODS
 description: Export PCL to FODS via Java API without using Microsoft Excel or Adobe Reader
-url: /java/conversion/pcl-to-fods/
+url_ignore: /java/conversion/pcl-to-fods/
 family: total
 platformtag: java
 feature: conversion

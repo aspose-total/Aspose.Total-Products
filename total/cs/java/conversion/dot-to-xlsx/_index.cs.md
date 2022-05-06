@@ -1,7 +1,7 @@
 ---
 title: Java API pro převod DOT do XLSX
 description: Převeďte DOT na XLSX přes Java bez použití Microsoft Word nebo Microsoft Excel
-url: /cs/java/conversion/dot-to-xlsx/
+url_ignore: /cs/java/conversion/dot-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

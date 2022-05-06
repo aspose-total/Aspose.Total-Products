@@ -1,7 +1,7 @@
 ---
 title: Java API do eksportu XPS do MARKDOWN
 description: Konwertuj XPS na MARKDOWN za pomocą lokalnego interfejsu Java API
-url: /pl/java/conversion/xps-to-markdown/
+url_ignore: /pl/java/conversion/xps-to-markdown/
 family: total
 platformtag: net
 feature: conversion

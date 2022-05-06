@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert WORD to XLSM
 description: Convert WORD to XLSM in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/word-to-xlsm/
+url_ignore: /android-java/conversion/word-to-xlsm/
 family: total
 platformtag: android-java
 feature: conversion

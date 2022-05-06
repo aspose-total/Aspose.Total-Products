@@ -1,7 +1,7 @@
 ---
 title: C# API pro export EMLX do MD
 description: Převeďte EMLX na MD bez použití Microsoft Word nebo Outlook na .NET
-url: /cs/net/conversion/emlx-to-md/
+url_ignore: /cs/net/conversion/emlx-to-md/
 family: total
 platformtag: net
 feature: conversion

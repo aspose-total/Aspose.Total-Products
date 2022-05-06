@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla TEX'yi TGA'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan TEX'yi .NET uygulamalarınızda TGA'ye aktarın
-url: /tr/net/conversion/tex-to-tga/
+url_ignore: /tr/net/conversion/tex-to-tga/
 family: total
 platformtag: net
 feature: conversion

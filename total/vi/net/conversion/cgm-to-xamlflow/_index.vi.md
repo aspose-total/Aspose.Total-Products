@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất CGM sang XAMLFLOW
 description: Chuyển đổi CGM sang XAMLFLOW mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/cgm-to-xamlflow/
+url_ignore: /vi/net/conversion/cgm-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

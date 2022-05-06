@@ -1,7 +1,7 @@
 ---
 title: Java経由でJSON形式をOTTに変換する
 description: MicrosoftWordを使用せずにJavaでJSONをOTTに解析する
-url: /ja/java/conversion/json-to-ott/
+url_ignore: /ja/java/conversion/json-to-ott/
 family: total
 platformtag: net
 feature: conversion

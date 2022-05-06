@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất EMAIL sang PS
 description: Chuyển đổi EMAIL thành PS mà không cần sử dụng Microsoft Word hoặc Outlook trên .NET
-url: /vi/net/conversion/email-to-ps/
+url_ignore: /vi/net/conversion/email-to-ps/
 family: total
 platformtag: net
 feature: conversion

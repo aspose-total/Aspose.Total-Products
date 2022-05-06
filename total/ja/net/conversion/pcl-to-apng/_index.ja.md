@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPCLをAPNGに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでPCLをAPNGにエクスポートします
-url: /ja/net/conversion/pcl-to-apng/
+url_ignore: /ja/net/conversion/pcl-to-apng/
 family: total
 platformtag: net
 feature: conversion

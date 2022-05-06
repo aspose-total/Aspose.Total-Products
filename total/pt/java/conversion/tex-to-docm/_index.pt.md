@@ -1,7 +1,7 @@
 ---
 title: API Java para exportar TEX para DOCM
 description: Converter TEX para DOCM usando a API Java local
-url: /pt/java/conversion/tex-to-docm/
+url_ignore: /pt/java/conversion/tex-to-docm/
 family: total
 platformtag: net
 feature: conversion

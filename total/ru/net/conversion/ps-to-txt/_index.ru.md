@@ -1,7 +1,7 @@
 ---
 title: Преобразование PS в TXT через C# API
 description: C# API для преобразования файла PS в TXT без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/ps-to-txt/
+url_ignore: /ru/net/conversion/ps-to-txt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: PDFをDOTMにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにPDFをDOTMに変換する
-url: /ja/net/conversion/pdf-to-dotm/
+url_ignore: /ja/net/conversion/pdf-to-dotm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تصدير PCL إلى PPS عبر C# API
 description: NET API لتحويل PCL إلى PPS دون استخدام Microsoft Word
-url: /ar/net/conversion/pcl-to-pps/
+url_ignore: /ar/net/conversion/pcl-to-pps/
 family: total
 platformtag: net
 feature: conversion

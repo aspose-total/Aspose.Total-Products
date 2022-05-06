@@ -1,7 +1,7 @@
 ---
 title: Android API to Render TEX to PS
 description: Transform TEX to PS via Android via Java API
-url: /android-java/conversion/tex-to-ps/
+url_ignore: /android-java/conversion/tex-to-ps/
 family: total
 platformtag: android-java
 feature: conversion

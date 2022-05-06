@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export TEX to RTF
 description: Convert TEX to RTF within C++ applications.
-url: /cpp/conversion/tex-to-rtf/
+url_ignore: /cpp/conversion/tex-to-rtf/
 family: total
 platformtag: cpp
 feature: conversion

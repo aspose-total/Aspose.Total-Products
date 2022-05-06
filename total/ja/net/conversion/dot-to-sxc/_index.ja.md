@@ -1,7 +1,7 @@
 ---
 title: DOTをSXCに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにDOTをSXCに変換するC＃API
-url: /ja/net/conversion/dot-to-sxc/
+url_ignore: /ja/net/conversion/dot-to-sxc/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất MD sang XAMLFLOW
 description: Chuyển đổi MD sang XAMLFLOW mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/md-to-xamlflow/
+url_ignore: /vi/net/conversion/md-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

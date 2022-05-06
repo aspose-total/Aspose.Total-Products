@@ -1,7 +1,7 @@
 ---
 title: Конвертировать PPTX в DOCX через Java
 description: Java API для экспорта PPTX в DOCX без использования Microsoft Word или PowerPoint
-url: /ru/java/conversion/pptx-to-docx/
+url_ignore: /ru/java/conversion/pptx-to-docx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से सीजीएम को एपीएनजी में कनवर्ट करें
 description: किसी भी तृतीय पक्ष एप्लिकेशन का उपयोग किए बिना अपने जावा एप्लिकेशन में HTML फ़ाइल को WMZ में निर्यात करें
-url: /hi/java/conversion/html-to-wmz/
+url_ignore: /hi/java/conversion/html-to-wmz/
 family: total
 platformtag: net
 feature: conversion

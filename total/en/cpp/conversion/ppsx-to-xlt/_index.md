@@ -1,7 +1,7 @@
 ---
 title: Convert PPSX to XLT via C++ 
 description: Export PPSX to XLT in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/ppsx-to-xlt/
+url_ignore: /cpp/conversion/ppsx-to-xlt/
 family: total
 platformtag: cpp
 feature: conversion

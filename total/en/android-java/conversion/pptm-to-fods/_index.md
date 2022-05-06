@@ -1,7 +1,7 @@
 ---
 title: Convert PPTM to FODS in Android via Java
 description: Convert PPTM to FODS in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/pptm-to-fods/
+url_ignore: /android-java/conversion/pptm-to-fods/
 family: total
 platformtag: android-java
 feature: conversion

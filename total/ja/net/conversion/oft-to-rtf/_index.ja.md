@@ -1,7 +1,7 @@
 ---
 title: OFTをRTFにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにOFTをRTFに変換する
-url: /ja/net/conversion/oft-to-rtf/
+url_ignore: /ja/net/conversion/oft-to-rtf/
 family: total
 platformtag: net
 feature: conversion

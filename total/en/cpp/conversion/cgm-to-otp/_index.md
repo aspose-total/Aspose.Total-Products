@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert CGM to OTP  
 description: Convert CGM to OTP via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/cgm-to-otp/
+url_ignore: /cpp/conversion/cgm-to-otp/
 family: total
 platformtag: cpp
 feature: conversion

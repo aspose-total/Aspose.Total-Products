@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert OTT to TSV
 description: Convert OTT to TSV in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/ott-to-tsv/
+url_ignore: /android-java/conversion/ott-to-tsv/
 family: total
 platformtag: android-java
 feature: conversion

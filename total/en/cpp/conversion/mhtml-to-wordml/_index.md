@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export MHTML to WORDML
 description: Convert MHTML to WORDML within C++ applications.
-url: /cpp/conversion/mhtml-to-wordml/
+url_ignore: /cpp/conversion/mhtml-to-wordml/
 family: total
 platformtag: cpp
 feature: conversion

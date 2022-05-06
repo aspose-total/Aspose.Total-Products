@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất MSG sang BMP
 description: Chuyển đổi MSG thành BMP mà không cần sử dụng Microsoft Word hoặc Outlook trên .NET
-url: /vi/net/conversion/msg-to-bmp/
+url_ignore: /vi/net/conversion/msg-to-bmp/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert SVG to MD
 description: Convert SVG to MD via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/svg-to-md/
+url_ignore: /cpp/conversion/svg-to-md/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PCL to XLSB
 description: Convert PCL to XLSB via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/pcl-to-xlsb/
+url_ignore: /cpp/conversion/pcl-to-xlsb/
 family: total
 platformtag: cpp
 feature: conversion

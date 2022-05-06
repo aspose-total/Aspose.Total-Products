@@ -1,7 +1,7 @@
 ---
 title: API de Java para exportar CGM a DOTM
 description: Convierta CGM a DOTM usando la API de Java en las instalaciones
-url: /es/java/conversion/cgm-to-dotm/
+url_ignore: /es/java/conversion/cgm-to-dotm/
 family: total
 platformtag: net
 feature: conversion

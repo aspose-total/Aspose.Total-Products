@@ -1,7 +1,7 @@
 ---
 title: Převeďte PPSM na TEXT přes Java
 description: Java API pro export PPSM do TEXT bez použití Microsoft Word nebo PowerPoint
-url: /cs/java/conversion/ppsm-to-text/
+url_ignore: /cs/java/conversion/ppsm-to-text/
 family: total
 platformtag: net
 feature: conversion

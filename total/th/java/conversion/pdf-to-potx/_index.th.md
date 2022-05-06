@@ -1,7 +1,7 @@
 ---
 title: แปลง PDF เป็น POTX ผ่าน Java API
 description: Java API เพื่อแปลง PDF เป็น POTX โดยไม่ต้องใช้ Microsoft Word
-url: /th/java/conversion/pdf-to-potx/
+url_ignore: /th/java/conversion/pdf-to-potx/
 family: total
 platformtag: net
 feature: conversion

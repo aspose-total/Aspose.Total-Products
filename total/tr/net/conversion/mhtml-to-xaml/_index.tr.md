@@ -1,7 +1,7 @@
 ---
 title: MHTML'yi C# API aracılığıyla XAML'ye aktarın
 description: Microsoft Word kullanmadan MHTML'yi XAML'ye dönüştürmek için .NET API
-url: /tr/net/conversion/mhtml-to-xaml/
+url_ignore: /tr/net/conversion/mhtml-to-xaml/
 family: total
 platformtag: net
 feature: conversion

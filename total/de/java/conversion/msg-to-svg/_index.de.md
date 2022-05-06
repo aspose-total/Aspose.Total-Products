@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie E-MAIL über Java nach SVG
 description: Java-API zum Konvertieren von E-MAIL in SVG, ohne Microsoft Word oder Outlook zu verwenden
-url: /de/java/conversion/msg-to-svg/
+url_ignore: /de/java/conversion/msg-to-svg/
 family: total
 platformtag: net
 feature: conversion

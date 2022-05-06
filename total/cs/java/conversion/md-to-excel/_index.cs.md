@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení MD do EXCEL
 description: Export MD do EXCEL přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/md-to-excel/
+url_ignore: /cs/java/conversion/md-to-excel/
 family: total
 platformtag: net
 feature: conversion

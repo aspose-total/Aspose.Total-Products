@@ -1,7 +1,7 @@
 ---
 title: C# API to Export EMLX to TEXT
 description: Convert EMLX to TEXT without using Microsoft Word or Outlook on .NET
-url: /net/conversion/emlx-to-text/
+url_ignore: /net/conversion/emlx-to-text/
 family: total
 platformtag: net
 feature: conversion

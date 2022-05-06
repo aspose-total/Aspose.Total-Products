@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई बीएमपी को ईमेल निर्यात करने के लिए
 description: .NET पर Microsoft Word या Outlook का उपयोग किए बिना MSG को SVG में बदलें
-url: /hi/net/conversion/msg-to-svg/
+url_ignore: /hi/net/conversion/msg-to-svg/
 family: total
 platformtag: net
 feature: conversion

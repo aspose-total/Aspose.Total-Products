@@ -1,7 +1,7 @@
 ---
 title: Export EMAIL to WORDML via C++
 description: C++ API to Convert EMAIL to WORDML without using Microsoft Word or Outlook
-url: /cpp/conversion/email-to-wordml/
+url_ignore: /cpp/conversion/email-to-wordml/
 family: total
 platformtag: cpp
 feature: conversion

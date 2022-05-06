@@ -1,7 +1,7 @@
 ---
 title: Java ile FLATOPC'yi PPSX'ye dönüştürün
 description: Microsoft Word veya PowerPoint kullanmadan FLATOPC'yi PPSX'ye Dışa Aktarmak için Java API
-url: /tr/java/conversion/flatopc-to-ppsx/
+url_ignore: /tr/java/conversion/flatopc-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

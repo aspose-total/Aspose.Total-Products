@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export CGM to DOTM
 description: Convert CGM to DOTM within C++ applications.
-url: /cpp/conversion/cgm-to-dotm/
+url_ignore: /cpp/conversion/cgm-to-dotm/
 family: total
 platformtag: cpp
 feature: conversion

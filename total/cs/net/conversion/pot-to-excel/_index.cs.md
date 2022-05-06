@@ -1,7 +1,7 @@
 ---
 title: Převést POT na EXCEL přes C#
 description: Převeďte POT na EXCEL v C# bez použití Microsoft Excel nebo Powerpoint
-url: /cs/net/conversion/pot-to-excel/
+url_ignore: /cs/net/conversion/pot-to-excel/
 family: total
 platformtag: net
 feature: conversion

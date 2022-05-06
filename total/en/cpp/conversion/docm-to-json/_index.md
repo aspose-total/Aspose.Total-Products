@@ -1,7 +1,7 @@
 ---
 title: Convert DOCM to JSON format in C++ 
 description: Export DOCM to JSON in C++ without using Microsoft Excel or Word
-url: /cpp/conversion/docm-to-json/
+url_ignore: /cpp/conversion/docm-to-json/
 family: total
 platformtag: cpp
 feature: conversion

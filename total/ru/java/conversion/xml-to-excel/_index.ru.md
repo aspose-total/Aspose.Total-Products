@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга XML в EXCEL
 description: Экспорт XML в EXCEL через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/xml-to-excel/
+url_ignore: /ru/java/conversion/xml-to-excel/
 family: total
 platformtag: net
 feature: conversion

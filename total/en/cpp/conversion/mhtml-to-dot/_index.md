@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export MHTML to DOT
 description: Convert MHTML to DOT within C++ applications.
-url: /cpp/conversion/mhtml-to-dot/
+url_ignore: /cpp/conversion/mhtml-to-dot/
 family: total
 platformtag: cpp
 feature: conversion

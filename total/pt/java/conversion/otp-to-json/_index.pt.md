@@ -1,7 +1,7 @@
 ---
 title: Converter OTP para o formato JSON via Java
 description: Converta o formato OTP para JSON via Java sem usar o Microsoft Excel ou PowerPoint
-url: /pt/java/conversion/otp-to-json/
+url_ignore: /pt/java/conversion/otp-to-json/
 family: total
 platformtag: net
 feature: conversion

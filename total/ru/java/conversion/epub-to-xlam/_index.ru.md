@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга EPUB в XLAM
 description: Экспорт EPUB в XLAM через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/epub-to-xlam/
+url_ignore: /ru/java/conversion/epub-to-xlam/
 family: total
 platformtag: net
 feature: conversion

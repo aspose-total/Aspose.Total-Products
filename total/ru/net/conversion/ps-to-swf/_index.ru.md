@@ -1,7 +1,7 @@
 ---
 title: Экспорт PS в SWF через C# API
 description: .NET API для преобразования PS в SWF без использования Microsoft Word
-url: /ru/net/conversion/ps-to-swf/
+url_ignore: /ru/net/conversion/ps-to-swf/
 family: total
 platformtag: net
 feature: conversion

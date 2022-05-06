@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení SVG do XLSM
 description: Export SVG do XLSM přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/svg-to-xlsm/
+url_ignore: /cs/java/conversion/svg-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

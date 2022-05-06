@@ -1,7 +1,7 @@
 ---
 title: API de Java para convertir ODT a XLT
 description: Convierta ODT a XLT a través de Java sin usar Microsoft Word o Microsoft Excel
-url: /es/java/conversion/odt-to-xlt/
+url_ignore: /es/java/conversion/odt-to-xlt/
 family: total
 platformtag: net
 feature: conversion

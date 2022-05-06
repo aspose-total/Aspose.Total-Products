@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई सीजीएम को डीओसीएम में निर्यात करने के लिए
 description: Microsoft Word का उपयोग किए बिना CGM को ODT में बदलें
-url: /hi/net/conversion/cgm-to-odt/
+url_ignore: /hi/net/conversion/cgm-to-odt/
 family: total
 platformtag: net
 feature: conversion

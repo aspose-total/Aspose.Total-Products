@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή μορφής JSON σε EPUB μέσω Java
 description: Ανάλυση JSON σε EPUB σε Java χωρίς χρήση του Microsoft Word
-url: /el/java/conversion/json-to-epub/
+url_ignore: /el/java/conversion/json-to-epub/
 family: total
 platformtag: net
 feature: conversion

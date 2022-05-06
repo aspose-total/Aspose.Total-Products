@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PS to DOCM
 description: Transform PS to DOCM via Android via Java API
-url: /android-java/conversion/ps-to-docm/
+url_ignore: /android-java/conversion/ps-to-docm/
 family: total
 platformtag: android-java
 feature: conversion

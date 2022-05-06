@@ -1,7 +1,7 @@
 ---
 title: Java API لتصدير CGM إلى PS
 description: قم بتحويل CGM إلى PS باستخدام Java API في مكان العمل
-url: /ar/java/conversion/cgm-to-ps/
+url_ignore: /ar/java/conversion/cgm-to-ps/
 family: total
 platformtag: net
 feature: conversion

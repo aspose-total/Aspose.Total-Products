@@ -1,7 +1,7 @@
 ---
 title: API .NET para converter DOTM para XLSB
 description: API C# para converter DOTM para XLSB sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/dotm-to-xlsb/
+url_ignore: /pt/net/conversion/dotm-to-xlsb/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Adicionar propriedades personalizadas no arquivo XLSB via C#" %}}
 Ao converter DOTM para XLSB, o [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) permite adicionar propriedades personalizadas em seus dotmumentos XLSB. Para adicionar uma propriedade personalizada, você pode usar o método [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection/methods/add/index) para o método [CustomDotmumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection) classe. O método Add adiciona a propriedade ao arquivo Excel e retorna uma referência para a nova propriedade do dotmumento como um [Aspose.Cells.Properties.DotmumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /dotmumentproperty) objeto. 
 {{% blocks/products/pf/feature-page-code %}}

@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert ODT to CSV
 description: Convert ODT to CSV via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/odt-to-csv/
+url_ignore: /java/conversion/odt-to-csv/
 family: total
 platformtag: java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: DOCX'yi XLTX'ye Dönüştürmek için Java API
 description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla DOCX'yi XLTX'ye dönüştürün
-url: /tr/java/conversion/docx-to-xltx/
+url_ignore: /tr/java/conversion/docx-to-xltx/
 family: total
 platformtag: net
 feature: conversion

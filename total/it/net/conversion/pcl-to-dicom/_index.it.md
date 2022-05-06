@@ -1,7 +1,7 @@
 ---
 title: Converti PCL in DICOM tramite API C#
 description: Esporta PCL in DICOM nelle tue applicazioni .NET senza utilizzare applicazioni di terze parti
-url: /it/net/conversion/pcl-to-dicom/
+url_ignore: /it/net/conversion/pcl-to-dicom/
 family: total
 platformtag: net
 feature: conversion

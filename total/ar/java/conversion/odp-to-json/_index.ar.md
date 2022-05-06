@@ -1,7 +1,7 @@
 ---
 title: تحويل ODP إلى تنسيق JSON عبر Java
 description: قم بتحويل تنسيق ODP إلى JSON عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/odp-to-json/
+url_ignore: /ar/java/conversion/odp-to-json/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất MD sang DOT
 description: Chuyển đổi MD sang DOT mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/md-to-dot/
+url_ignore: /vi/net/conversion/md-to-dot/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converter formato POT para JSON via .NET
 description: Converter POT para JSON em C# sem usar o Microsoft Excel ou Powerpoint
-url: /pt/net/conversion/pot-to-json/
+url_ignore: /pt/net/conversion/pot-to-json/
 family: total
 platformtag: net
 feature: conversion

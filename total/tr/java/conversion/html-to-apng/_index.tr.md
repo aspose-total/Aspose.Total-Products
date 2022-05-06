@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla HTML'yi APNG'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan HTML dosyasını Java uygulamalarınızda APNG'ye aktarın
-url: /tr/java/conversion/html-to-apng/
+url_ignore: /tr/java/conversion/html-to-apng/
 family: total
 platformtag: net
 feature: conversion

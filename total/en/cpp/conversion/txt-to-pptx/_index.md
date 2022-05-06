@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to PPTX via C++
 description: Export TXT to PPTX in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/txt-to-pptx/
+url_ignore: /cpp/conversion/txt-to-pptx/
 family: total
 platformtag: cpp
 feature: conversion

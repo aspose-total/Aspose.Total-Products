@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPSをPOTにエクスポートする
 description: MicrosoftWordを使用せずにPSをPOTに変換する.NETAPI
-url: /ja/net/conversion/ps-to-pot/
+url_ignore: /ja/net/conversion/ps-to-pot/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPSをIMAGEに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでPSをIMAGEにエクスポートします
-url: /ja/net/conversion/ps-to-image/
+url_ignore: /ja/net/conversion/ps-to-image/
 family: total
 platformtag: net
 feature: conversion

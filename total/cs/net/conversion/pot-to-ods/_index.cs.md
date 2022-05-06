@@ -1,7 +1,7 @@
 ---
 title: Převést POT na ODS přes C#
 description: Převeďte POT na ODS v C# bez použití Microsoft Excel nebo Powerpoint
-url: /cs/net/conversion/pot-to-ods/
+url_ignore: /cs/net/conversion/pot-to-ods/
 family: total
 platformtag: net
 feature: conversion

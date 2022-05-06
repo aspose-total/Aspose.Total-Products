@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή DOCX σε μορφή JSON μέσω Java
 description: Μετατροπή DOCX σε μορφή JSON μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel
-url: /el/java/conversion/docx-to-json/
+url_ignore: /el/java/conversion/docx-to-json/
 family: total
 platformtag: net
 feature: conversion

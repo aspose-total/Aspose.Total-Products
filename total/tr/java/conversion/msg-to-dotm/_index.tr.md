@@ -1,7 +1,7 @@
 ---
 title: MSG'i Java aracılığıyla DOTM'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan MSG'i DOTM'ye Dönüştürmek için Java API
-url: /tr/java/conversion/msg-to-dotm/
+url_ignore: /tr/java/conversion/msg-to-dotm/
 family: total
 platformtag: net
 feature: conversion

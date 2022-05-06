@@ -1,7 +1,7 @@
 ---
 title: Java API to Export EPUB to PCL
 description: Convert EPUB to PCL using on premise Java API
-url: /java/conversion/epub-to-pcl/
+url_ignore: /java/conversion/epub-to-pcl/
 family: total
 platformtag: java
 feature: conversion

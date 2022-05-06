@@ -1,7 +1,7 @@
 ---
 title: Convert POTX to TEXT via Java
 description: Java API to Export POTX to TEXT without using Microsoft Word or PowerPoint
-url: /java/conversion/potx-to-text/
+url_ignore: /java/conversion/potx-to-text/
 family: total
 platformtag: java
 feature: conversion

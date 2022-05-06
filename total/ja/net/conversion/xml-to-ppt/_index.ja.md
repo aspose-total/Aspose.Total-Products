@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXMLをPPTにエクスポートする
 description: MicrosoftWordを使用せずにXMLをPPTに変換する.NETAPI
-url: /ja/net/conversion/xml-to-ppt/
+url_ignore: /ja/net/conversion/xml-to-ppt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export XPS to PPT in Android 
 description: Android API to Convert XPS to PPT without using Microsoft Word
-url: /android-java/conversion/xps-to-ppt/
+url_ignore: /android-java/conversion/xps-to-ppt/
 family: total
 platformtag: android-java
 feature: conversion

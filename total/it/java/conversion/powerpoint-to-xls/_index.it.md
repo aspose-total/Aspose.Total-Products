@@ -1,7 +1,7 @@
 ---
 title: Converti POWERPOINT in formato XLS tramite Java
 description: Converti POWERPOINT in formato XLS tramite Java senza utilizzare Microsoft Excel o PowerPoint
-url: /it/java/conversion/powerpoint-to-xls/
+url_ignore: /it/java/conversion/powerpoint-to-xls/
 family: total
 platformtag: net
 feature: conversion

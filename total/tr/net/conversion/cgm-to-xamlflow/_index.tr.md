@@ -1,7 +1,7 @@
 ---
 title: CGM'yi XAMLFLOW'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan CGM'yi XAMLFLOW'ye dönüştürün
-url: /tr/net/conversion/cgm-to-xamlflow/
+url_ignore: /tr/net/conversion/cgm-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

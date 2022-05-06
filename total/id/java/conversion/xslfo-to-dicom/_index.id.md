@@ -1,7 +1,7 @@
 ---
 title: Konversi XSLFO ke DICOM melalui Java
 description: Ekspor file XSLFO ke DICOM di aplikasi Java Anda tanpa menggunakan aplikasi pihak ketiga
-url: /id/java/conversion/xslfo-to-dicom/
+url_ignore: /id/java/conversion/xslfo-to-dicom/
 family: total
 platformtag: net
 feature: conversion

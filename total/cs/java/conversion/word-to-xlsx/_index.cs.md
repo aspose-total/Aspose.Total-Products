@@ -1,7 +1,7 @@
 ---
 title: Java API pro převod WORD do XLSX
 description: Převeďte WORD na XLSX přes Java bez použití Microsoft Word nebo Microsoft Excel
-url: /cs/java/conversion/word-to-xlsx/
+url_ignore: /cs/java/conversion/word-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

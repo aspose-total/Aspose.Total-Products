@@ -1,7 +1,7 @@
 ---
 title: C#-API zum Exportieren von E-MAIL nach OTT
 description: Konvertieren Sie E-MAIL in OTT, ohne Microsoft Word oder Outlook auf .NET zu verwenden
-url: /de/net/conversion/email-to-ott/
+url_ignore: /de/net/conversion/email-to-ott/
 family: total
 platformtag: net
 feature: conversion

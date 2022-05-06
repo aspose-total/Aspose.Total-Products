@@ -1,7 +1,7 @@
 ---
 title: DOTMをXLTに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにDOTMをXLTに変換するC＃API
-url: /ja/net/conversion/dotm-to-xlt/
+url_ignore: /ja/net/conversion/dotm-to-xlt/
 family: total
 platformtag: net
 feature: conversion

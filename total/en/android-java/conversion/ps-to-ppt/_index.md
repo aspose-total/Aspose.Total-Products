@@ -1,7 +1,7 @@
 ---
 title: Export PS to PPT in Android 
 description: Android API to Convert PS to PPT without using Microsoft Word
-url: /android-java/conversion/ps-to-ppt/
+url_ignore: /android-java/conversion/ps-to-ppt/
 family: total
 platformtag: android-java
 feature: conversion

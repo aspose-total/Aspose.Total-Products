@@ -1,7 +1,7 @@
 ---
 title: แปลง TEX เป็น WMZ ผ่าน Java
 description: ส่งออกไฟล์ TEX เป็น WMZ ในแอปพลิเคชัน Java ของคุณโดยไม่ต้องใช้แอปพลิเคชันของบุคคลที่สาม
-url: /th/java/conversion/tex-to-wmz/
+url_ignore: /th/java/conversion/tex-to-wmz/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: PCL'yi DOT'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan PCL'yi DOT'ye dönüştürün
-url: /tr/net/conversion/pcl-to-dot/
+url_ignore: /tr/net/conversion/pcl-to-dot/
 family: total
 platformtag: net
 feature: conversion

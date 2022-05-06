@@ -1,7 +1,7 @@
 ---
 title: Converti POTX in formato XLAM tramite Java
 description: Converti POTX in formato XLAM tramite Java senza utilizzare Microsoft Excel o PowerPoint
-url: /it/java/conversion/potx-to-xlam/
+url_ignore: /it/java/conversion/potx-to-xlam/
 family: total
 platformtag: net
 feature: conversion

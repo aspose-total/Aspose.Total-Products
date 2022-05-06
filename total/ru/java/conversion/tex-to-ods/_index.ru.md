@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга TEX в ODS
 description: Экспорт TEX в ODS через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/tex-to-ods/
+url_ignore: /ru/java/conversion/tex-to-ods/
 family: total
 platformtag: net
 feature: conversion

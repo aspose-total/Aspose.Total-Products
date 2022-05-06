@@ -1,7 +1,7 @@
 ---
 title: Java API для экспорта PDF в MHTML
 description: Преобразование PDF в MHTML с использованием локального Java API
-url: /ru/java/conversion/pdf-to-mhtml/
+url_ignore: /ru/java/conversion/pdf-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

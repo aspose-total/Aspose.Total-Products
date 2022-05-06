@@ -1,7 +1,7 @@
 ---
 title: Преобразование POWERPOINT в формат MHTML через Java
 description: Преобразуйте формат POWERPOINT в MHTML через Java без использования Microsoft Excel или PowerPoint.
-url: /ru/java/conversion/powerpoint-to-mhtml/
+url_ignore: /ru/java/conversion/powerpoint-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

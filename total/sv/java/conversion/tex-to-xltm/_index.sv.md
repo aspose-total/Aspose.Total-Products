@@ -1,7 +1,7 @@
 ---
 title: Java API för att rendera TEX till XLTM
 description: Exportera TEX till XLTM via Java API utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/java/conversion/tex-to-xltm/
+url_ignore: /sv/java/conversion/tex-to-xltm/
 family: total
 platformtag: net
 feature: conversion

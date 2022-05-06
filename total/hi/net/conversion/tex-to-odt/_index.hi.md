@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई सीजीएम को डीओसीएम में निर्यात करने के लिए
 description: Microsoft Word का उपयोग किए बिना TEX को ODT में बदलें
-url: /hi/net/conversion/tex-to-odt/
+url_ignore: /hi/net/conversion/tex-to-odt/
 family: total
 platformtag: net
 feature: conversion

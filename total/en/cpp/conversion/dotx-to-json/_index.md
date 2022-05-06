@@ -1,7 +1,7 @@
 ---
 title: Convert DOTX to JSON format in C++ 
 description: Export DOTX to JSON in C++ without using Microsoft Excel or Word
-url: /cpp/conversion/dotx-to-json/
+url_ignore: /cpp/conversion/dotx-to-json/
 family: total
 platformtag: cpp
 feature: conversion

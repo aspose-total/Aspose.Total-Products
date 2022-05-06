@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to JSON format in C++ 
 description: Export DOT to JSON in C++ without using Microsoft Excel or Word
-url: /cpp/conversion/dot-to-json/
+url_ignore: /cpp/conversion/dot-to-json/
 family: total
 platformtag: cpp
 feature: conversion

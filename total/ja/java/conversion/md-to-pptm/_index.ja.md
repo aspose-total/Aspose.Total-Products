@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してMDをPPTMに変換する
 description: MicrosoftWordを使用せずにMDをPPTMに変換するJavaAPI
-url: /ja/java/conversion/md-to-pptm/
+url_ignore: /ja/java/conversion/md-to-pptm/
 family: total
 platformtag: net
 feature: conversion

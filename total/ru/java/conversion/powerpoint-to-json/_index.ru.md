@@ -1,7 +1,7 @@
 ---
 title: Преобразование POWERPOINT в формат JSON через Java
 description: Преобразование POWERPOINT в формат JSON через Java без использования Microsoft Excel или PowerPoint
-url: /ru/java/conversion/powerpoint-to-json/
+url_ignore: /ru/java/conversion/powerpoint-to-json/
 family: total
 platformtag: net
 feature: conversion

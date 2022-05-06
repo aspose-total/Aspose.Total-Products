@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPPSMをFODSに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPSMをFODSに変換する
-url: /ja/net/conversion/ppsm-to-fods/
+url_ignore: /ja/net/conversion/ppsm-to-fods/
 family: total
 platformtag: net
 feature: conversion

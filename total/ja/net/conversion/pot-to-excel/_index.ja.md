@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPOTをEXCELに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPOTをEXCELに変換する
-url: /ja/net/conversion/pot-to-excel/
+url_ignore: /ja/net/conversion/pot-to-excel/
 family: total
 platformtag: net
 feature: conversion

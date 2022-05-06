@@ -1,7 +1,7 @@
 ---
 title: Android API to Render CGM to RTF
 description: Transform CGM to RTF via Android via Java API
-url: /android-java/conversion/cgm-to-rtf/
+url_ignore: /android-java/conversion/cgm-to-rtf/
 family: total
 platformtag: android-java
 feature: conversion

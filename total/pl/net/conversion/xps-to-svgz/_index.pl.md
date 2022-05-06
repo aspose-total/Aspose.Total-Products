@@ -1,7 +1,7 @@
 ---
 title: Konwertuj XPS na SVGZ przez C# API
 description: Eksportuj XPS do SVGZ w swoich aplikacjach .NET bez korzystania z aplikacji innych firm
-url: /pl/net/conversion/xps-to-svgz/
+url_ignore: /pl/net/conversion/xps-to-svgz/
 family: total
 platformtag: net
 feature: conversion

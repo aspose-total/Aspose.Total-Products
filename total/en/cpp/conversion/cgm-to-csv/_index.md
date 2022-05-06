@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert CGM to CSV
 description: Convert CGM to CSV via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/cgm-to-csv/
+url_ignore: /cpp/conversion/cgm-to-csv/
 family: total
 platformtag: cpp
 feature: conversion

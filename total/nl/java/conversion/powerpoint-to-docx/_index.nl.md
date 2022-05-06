@@ -1,7 +1,7 @@
 ---
 title: Converteer POWERPOINT naar DOCX via Java
 description: Java API om POWERPOINT naar DOCX te exporteren zonder Microsoft Word of PowerPoint te gebruiken
-url: /nl/java/conversion/powerpoint-to-docx/
+url_ignore: /nl/java/conversion/powerpoint-to-docx/
 family: total
 platformtag: net
 feature: conversion

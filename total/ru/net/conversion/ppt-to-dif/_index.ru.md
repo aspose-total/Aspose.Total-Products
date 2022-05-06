@@ -1,7 +1,7 @@
 ---
 title: Преобразование PPT в DIF через C#
 description: Преобразование PPT в DIF на C# без использования Microsoft Excel или Powerpoint
-url: /ru/net/conversion/ppt-to-dif/
+url_ignore: /ru/net/conversion/ppt-to-dif/
 family: total
 platformtag: net
 feature: conversion
@@ -33,7 +33,8 @@ otherformats: XLSX XLT ODS SXC EXCEL TSV XLSB XLAM DIF XLTX MARKDOWN XLS XLSM FO
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ otherformats: XLSX XLT ODS SXC EXCEL TSV XLSB XLAM DIF XLTX MARKDOWN XLS XLSM FO
 При преобразовании файла PPT в DIF, если ваш входной документ PPT защищен паролем, вы не можете преобразовать его в DIF без расшифровки документа. Когда ваш документ защищен паролем, это означает, что он налагает определенные ограничения на представление. Для снятия ограничений необходимо ввести пароль. Презентация, защищенная паролем, считается заблокированной презентацией. API позволяет открыть зашифрованный документ, указав правильный пароль в объекте LoadOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: XLSX XLT ODS SXC EXCEL TSV XLSB XLAM DIF XLTX MARKDOWN XLS XLSM FO
 При преобразовании файла PPT в DIF вы также можете добавить водяной знак в формат выходного файла DIF. Чтобы добавить водяной знак, вы можете создать новый объект Workbook и открыть преобразованный HTML-документ, выбрать Worksheet через его индекс, создать Shape и использовать его функцию AddTextEffect. После этого вы можете сохранить свой HTML-документ в формате DIF с водяным знаком. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

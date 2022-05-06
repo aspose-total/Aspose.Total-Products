@@ -1,7 +1,7 @@
 ---
 title: CGM'yi RTF'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak CGM'yi RTF'ye dönüştürün
-url: /tr/java/conversion/cgm-to-rtf/
+url_ignore: /tr/java/conversion/cgm-to-rtf/
 family: total
 platformtag: net
 feature: conversion

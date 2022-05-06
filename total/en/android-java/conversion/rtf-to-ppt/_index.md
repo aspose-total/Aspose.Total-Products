@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to PPT in Android via Java
 description: RTF to PPT conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/rtf-to-ppt/
+url_ignore: /android-java/conversion/rtf-to-ppt/
 family: total
 platformtag: android-java
 feature: conversion

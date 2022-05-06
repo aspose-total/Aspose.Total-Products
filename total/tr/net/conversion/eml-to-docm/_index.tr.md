@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı DOCM'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan EML'i DOCM'ye dönüştürün
-url: /tr/net/conversion/eml-to-docm/
+url_ignore: /tr/net/conversion/eml-to-docm/
 family: total
 platformtag: net
 feature: conversion

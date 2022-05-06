@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to ODP via C++ 
 description: Parse JSON to ODP in C++ without using Microsoft PowerPoint
-url: /cpp/conversion/json-to-odp/
+url_ignore: /cpp/conversion/json-to-odp/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى RTF عبر Java
 description: تحليل JSON إلى RTF في Java بدون استخدام Microsoft Word
-url: /ar/java/conversion/json-to-rtf/
+url_ignore: /ar/java/conversion/json-to-rtf/
 family: total
 platformtag: net
 feature: conversion

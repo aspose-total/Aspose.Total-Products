@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してSVGをPPTMにエクスポートする
 description: MicrosoftWordを使用せずにSVGをPPTMに変換する.NETAPI
-url: /ja/net/conversion/svg-to-pptm/
+url_ignore: /ja/net/conversion/svg-to-pptm/
 family: total
 platformtag: net
 feature: conversion

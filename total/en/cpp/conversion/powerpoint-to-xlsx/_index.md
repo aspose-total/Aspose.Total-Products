@@ -1,7 +1,7 @@
 ---
 title: Convert POWERPOINT to XLSX via C++ 
 description: Export POWERPOINT to XLSX in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/powerpoint-to-xlsx/
+url_ignore: /cpp/conversion/powerpoint-to-xlsx/
 family: total
 platformtag: cpp
 feature: conversion

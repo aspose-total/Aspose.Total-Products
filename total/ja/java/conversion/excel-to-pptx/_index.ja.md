@@ -1,7 +1,7 @@
 ---
 title: Javaを使用してEXCELをPPTXに変換する
 description: ExcelまたはWordを使用してEXCELをPPTXにエクスポートするJavaAPI
-url: /ja/java/conversion/excel-to-pptx/
+url_ignore: /ja/java/conversion/excel-to-pptx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: قم بتصدير OFT إلى ODT عبر Java
 description: Java API لتحويل البريد الإلكتروني إلى ODT دون استخدام Microsoft Word أو Outlook
-url: /ar/java/conversion/oft-to-odt/
+url_ignore: /ar/java/conversion/oft-to-odt/
 family: total
 platformtag: net
 feature: conversion

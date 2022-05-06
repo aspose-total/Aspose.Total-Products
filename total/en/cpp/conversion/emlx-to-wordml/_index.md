@@ -1,7 +1,7 @@
 ---
 title: Export EMLX to WORDML via C++
 description: C++ API to Convert EMLX to WORDML without using Microsoft Word or Outlook
-url: /cpp/conversion/emlx-to-wordml/
+url_ignore: /cpp/conversion/emlx-to-wordml/
 family: total
 platformtag: cpp
 feature: conversion

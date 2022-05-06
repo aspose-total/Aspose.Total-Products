@@ -1,7 +1,7 @@
 ---
 title: Java経由でMSGをDOTXにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにMSGをDOTXに変換するJavaAPI
-url: /ja/java/conversion/msg-to-dotx/
+url_ignore: /ja/java/conversion/msg-to-dotx/
 family: total
 platformtag: net
 feature: conversion

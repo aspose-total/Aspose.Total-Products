@@ -1,7 +1,7 @@
 ---
 title: قم بتصدير MSG إلى OTT عبر Java
 description: Java API لتحويل البريد الإلكتروني إلى OTT دون استخدام Microsoft Word أو Outlook
-url: /ar/java/conversion/msg-to-ott/
+url_ignore: /ar/java/conversion/msg-to-ott/
 family: total
 platformtag: net
 feature: conversion

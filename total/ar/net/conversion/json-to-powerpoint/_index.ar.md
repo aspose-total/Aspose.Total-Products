@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى POWERPOINT عبر .NET
 description: تحليل JSON إلى POWERPOINT في C# بدون استخدام Microsoft PowerPoint
-url: /ar/net/conversion/json-to-powerpoint/
+url_ignore: /ar/net/conversion/json-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير MHTML إلى ODT
 description: تحويل MHTML إلى ODT دون استخدام Microsoft Word
-url: /ar/net/conversion/mhtml-to-odt/
+url_ignore: /ar/net/conversion/mhtml-to-odt/
 family: total
 platformtag: net
 feature: conversion

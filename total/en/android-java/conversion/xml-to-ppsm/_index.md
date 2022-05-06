@@ -1,7 +1,7 @@
 ---
 title: Export XML to PPSM in Android 
 description: Android API to Convert XML to PPSM without using Microsoft Word
-url: /android-java/conversion/xml-to-ppsm/
+url_ignore: /android-java/conversion/xml-to-ppsm/
 family: total
 platformtag: android-java
 feature: conversion

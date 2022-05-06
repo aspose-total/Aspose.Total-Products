@@ -1,7 +1,7 @@
 ---
 title: Android API to Render CGM to OTT
 description: Transform CGM to OTT via Android via Java API
-url: /android-java/conversion/cgm-to-ott/
+url_ignore: /android-java/conversion/cgm-to-ott/
 family: total
 platformtag: android-java
 feature: conversion

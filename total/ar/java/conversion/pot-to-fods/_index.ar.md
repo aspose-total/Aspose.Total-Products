@@ -1,7 +1,7 @@
 ---
 title: تحويل POT إلى تنسيق FODS عبر Java
 description: قم بتحويل POT إلى تنسيق FODS عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/pot-to-fods/
+url_ignore: /ar/java/conversion/pot-to-fods/
 family: total
 platformtag: net
 feature: conversion

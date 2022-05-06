@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPPTMをDIFに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPTMをDIFに変換する
-url: /ja/net/conversion/pptm-to-dif/
+url_ignore: /ja/net/conversion/pptm-to-dif/
 family: total
 platformtag: net
 feature: conversion

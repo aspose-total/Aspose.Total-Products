@@ -1,7 +1,7 @@
 ---
 title: API Java per il rendering da PDF a DIF
 description: Esporta PDF in DIF tramite API Java senza utilizzare Microsoft Excel o Adobe Reader
-url: /it/java/conversion/pdf-to-dif/
+url_ignore: /it/java/conversion/pdf-to-dif/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API om EMLX naar JPEG te exporteren
 description: Converteer EMLX naar JPEG zonder Microsoft Word of Outlook te gebruiken op .NET
-url: /nl/net/conversion/emlx-to-jpeg/
+url_ignore: /nl/net/conversion/emlx-to-jpeg/
 family: total
 platformtag: net
 feature: conversion

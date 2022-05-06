@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOT to XLSB
 description: Convert DOT to XLSB in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/dot-to-xlsb/
+url_ignore: /android-java/conversion/dot-to-xlsb/
 family: total
 platformtag: android-java
 feature: conversion

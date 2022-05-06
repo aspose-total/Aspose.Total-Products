@@ -1,7 +1,7 @@
 ---
 title: EMAIL'i Java aracılığıyla JPEG'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan EMAIL'i JPEG'ye Dönüştürmek için Java API
-url: /tr/java/conversion/email-to-jpeg/
+url_ignore: /tr/java/conversion/email-to-jpeg/
 family: total
 platformtag: net
 feature: conversion

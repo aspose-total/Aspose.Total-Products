@@ -1,7 +1,7 @@
 ---
 title: Export EML to EMF via C++
 description: C++ API to Convert EML to EMF without using Microsoft Word or Outlook
-url: /cpp/conversion/eml-to-emf/
+url_ignore: /cpp/conversion/eml-to-emf/
 family: total
 platformtag: cpp
 feature: conversion

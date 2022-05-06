@@ -1,7 +1,7 @@
 ---
 title: .NET . के माध्यम से DOCM को JSON फॉर्मेट में बदलें
 description: Microsoft Excel या Adobe Reader का उपयोग किए बिना DOCM को JSON में C# में बदलें
-url: /hi/net/conversion/docm-to-json/
+url_ignore: /hi/net/conversion/docm-to-json/
 family: total
 platformtag: net
 feature: conversion

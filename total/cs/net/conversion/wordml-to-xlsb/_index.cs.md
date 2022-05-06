@@ -1,7 +1,7 @@
 ---
 title: .NET API pro převod WORDML do XLSB
 description: C# API pro převod WORDML do XLSB bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/wordml-to-xlsb/
+url_ignore: /cs/net/conversion/wordml-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: PSをFLATOPCにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにPSをFLATOPCに変換する
-url: /ja/net/conversion/ps-to-flatopc/
+url_ignore: /ja/net/conversion/ps-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API pro export MD do XAMLFLOW
 description: Převeďte MD na XAMLFLOW pomocí on premise Java API
-url: /cs/java/conversion/md-to-xamlflow/
+url_ignore: /cs/java/conversion/md-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

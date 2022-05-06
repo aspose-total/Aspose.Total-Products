@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PDF to EXCEL
 description: Convert PDF to EXCEL via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/pdf-to-excel/
+url_ignore: /cpp/conversion/pdf-to-excel/
 family: total
 platformtag: cpp
 feature: conversion

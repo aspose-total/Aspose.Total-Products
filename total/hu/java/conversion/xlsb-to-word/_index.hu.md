@@ -1,7 +1,7 @@
 ---
 title: A XLSB konvertálása WORD formátumba Java segítségével
 description: Java API a XLSB exportálásához WORD-ba Excel vagy Word használatával
-url: /hu/java/conversion/xlsb-to-word/
+url_ignore: /hu/java/conversion/xlsb-to-word/
 family: total
 platformtag: net
 feature: conversion
@@ -24,7 +24,7 @@ A XLSB megjelenítése WORD-ba kétlépéses folyamat. Először az [Aspose.Cell
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 Az Aspose.Total for Java programot közvetlenül egy [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) alapú projektből kell használnia és vegyen fel könyvtárakat a pom.xml fájlba.
 
-Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads] webhelyről (https://downloads.aspose.com/total/java).
+Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 ```cs

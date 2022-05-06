@@ -1,7 +1,7 @@
 ---
 title: API de Java para exportar PDF a DOCM
 description: Convierta PDF a DOCM usando la API de Java en las instalaciones
-url: /es/java/conversion/pdf-to-docm/
+url_ignore: /es/java/conversion/pdf-to-docm/
 family: total
 platformtag: net
 feature: conversion

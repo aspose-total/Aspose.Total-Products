@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXSLFOをEMZに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでXSLFOをEMZにエクスポートします
-url: /ja/net/conversion/xslfo-to-emz/
+url_ignore: /ja/net/conversion/xslfo-to-emz/
 family: total
 platformtag: net
 feature: conversion

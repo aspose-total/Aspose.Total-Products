@@ -1,7 +1,7 @@
 ---
 title: Convert CGM to XLTM in Android via Java
 description: Render CGM to XLTM in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/cgm-to-xltm/
+url_ignore: /android-java/conversion/cgm-to-xltm/
 family: total
 platformtag: android-java
 feature: conversion

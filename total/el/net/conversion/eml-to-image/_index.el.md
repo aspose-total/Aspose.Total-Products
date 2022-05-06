@@ -1,7 +1,7 @@
 ---
 title: C# API για εξαγωγή EML σε IMAGE
 description: Μετατροπή EML σε IMAGE χωρίς χρήση του Microsoft Word ή του Outlook στο .NET
-url: /el/net/conversion/eml-to-image/
+url_ignore: /el/net/conversion/eml-to-image/
 family: total
 platformtag: net
 feature: conversion

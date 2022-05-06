@@ -1,7 +1,7 @@
 ---
 title: แปลง MD เป็น DICOM ผ่าน Java
 description: ส่งออกไฟล์ MD เป็น DICOM ในแอปพลิเคชัน Java ของคุณโดยไม่ต้องใช้แอปพลิเคชันของบุคคลที่สาม
-url: /th/java/conversion/md-to-dicom/
+url_ignore: /th/java/conversion/md-to-dicom/
 family: total
 platformtag: net
 feature: conversion

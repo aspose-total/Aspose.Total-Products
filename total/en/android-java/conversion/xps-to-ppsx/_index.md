@@ -1,7 +1,7 @@
 ---
 title: Export XPS to PPSX in Android 
 description: Android API to Convert XPS to PPSX without using Microsoft Word
-url: /android-java/conversion/xps-to-ppsx/
+url_ignore: /android-java/conversion/xps-to-ppsx/
 family: total
 platformtag: android-java
 feature: conversion

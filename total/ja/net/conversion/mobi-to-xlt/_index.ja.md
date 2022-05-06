@@ -1,7 +1,7 @@
 ---
 title: MOBIをXLTに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにMOBIをXLTに変換するC＃API
-url: /ja/net/conversion/mobi-to-xlt/
+url_ignore: /ja/net/conversion/mobi-to-xlt/
 family: total
 platformtag: net
 feature: conversion

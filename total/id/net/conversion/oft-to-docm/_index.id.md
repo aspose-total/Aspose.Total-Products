@@ -1,7 +1,7 @@
 ---
 title: C# API untuk Mengekspor OFT ke DOCM
 description: Konversi OFT ke DOCM tanpa menggunakan Microsoft Word atau Outlook di .NET
-url: /id/net/conversion/oft-to-docm/
+url_ignore: /id/net/conversion/oft-to-docm/
 family: total
 platformtag: net
 feature: conversion

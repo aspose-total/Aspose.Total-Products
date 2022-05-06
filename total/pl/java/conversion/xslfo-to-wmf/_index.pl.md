@@ -1,7 +1,7 @@
 ---
 title: Konwertuj XSLFO na WMF przez Java
 description: Eksportuj plik XSLFO do WMF w swoich aplikacjach Java bez korzystania z aplikacji innych firm
-url: /pl/java/conversion/xslfo-to-wmf/
+url_ignore: /pl/java/conversion/xslfo-to-wmf/
 family: total
 platformtag: net
 feature: conversion

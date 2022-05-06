@@ -1,7 +1,7 @@
 ---
 title: SVGをXAMLFLOWにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにSVGをXAMLFLOWに変換する
-url: /ja/net/conversion/svg-to-xamlflow/
+url_ignore: /ja/net/conversion/svg-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

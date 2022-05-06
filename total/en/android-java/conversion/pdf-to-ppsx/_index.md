@@ -1,7 +1,7 @@
 ---
 title: Export PDF to PPSX in Android 
 description: Android API to Convert PDF to PPSX without using Microsoft Word
-url: /android-java/conversion/pdf-to-ppsx/
+url_ignore: /android-java/conversion/pdf-to-ppsx/
 family: total
 platformtag: android-java
 feature: conversion

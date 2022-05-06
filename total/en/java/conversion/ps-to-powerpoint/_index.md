@@ -1,7 +1,7 @@
 ---
 title: Convert PS to POWERPOINT via Java API
 description: Java API to Convert PS to POWERPOINT without using Microsoft Word
-url: /java/conversion/ps-to-powerpoint/
+url_ignore: /java/conversion/ps-to-powerpoint/
 family: total
 platformtag: java
 feature: conversion

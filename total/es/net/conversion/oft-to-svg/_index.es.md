@@ -1,7 +1,7 @@
 ---
 title: API de C# para exportar correo electrónico a SVG
 description: Convierta OFT a SVG sin usar Microsoft Word o Outlook en .NET
-url: /es/net/conversion/oft-to-svg/
+url_ignore: /es/net/conversion/oft-to-svg/
 family: total
 platformtag: net
 feature: conversion

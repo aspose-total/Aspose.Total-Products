@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXSLFOをJPEG2000に変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでXSLFOをJPEG2000にエクスポートします
-url: /ja/net/conversion/xslfo-to-jpeg2000/
+url_ignore: /ja/net/conversion/xslfo-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Esporta MSG in TEXT tramite Java
 description: API Java per convertire MSG in TEXT senza utilizzare Microsoft Word o Outlook
-url: /it/java/conversion/msg-to-text/
+url_ignore: /it/java/conversion/msg-to-text/
 family: total
 platformtag: net
 feature: conversion

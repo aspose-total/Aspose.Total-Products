@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Mengonversi DOCX ke XLT
 description: Konversi DOCX ke XLT melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel
-url: /id/java/conversion/docx-to-xlt/
+url_ignore: /id/java/conversion/docx-to-xlt/
 family: total
 platformtag: net
 feature: conversion

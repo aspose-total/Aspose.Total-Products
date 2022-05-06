@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert OTT to XLSM
 description: Convert OTT to XLSM in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/ott-to-xlsm/
+url_ignore: /android-java/conversion/ott-to-xlsm/
 family: total
 platformtag: android-java
 feature: conversion

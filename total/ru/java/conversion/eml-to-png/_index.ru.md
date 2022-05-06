@@ -1,7 +1,7 @@
 ---
 title: Экспорт EML в PNG через Java
 description: Java API для преобразования EML в PNG без использования Microsoft Word или Outlook
-url: /ru/java/conversion/eml-to-png/
+url_ignore: /ru/java/conversion/eml-to-png/
 family: total
 platformtag: net
 feature: conversion

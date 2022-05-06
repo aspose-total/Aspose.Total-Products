@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to DIF in C++
 description: C++ API to Convert RTF to DIF without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/rtf-to-dif/
+url_ignore: /cpp/conversion/rtf-to-dif/
 family: total
 platformtag: cpp
 feature: conversion

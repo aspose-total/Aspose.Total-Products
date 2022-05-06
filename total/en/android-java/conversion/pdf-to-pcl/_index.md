@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PDF to PCL
 description: Transform PDF to PCL via Android via Java API
-url: /android-java/conversion/pdf-to-pcl/
+url_ignore: /android-java/conversion/pdf-to-pcl/
 family: total
 platformtag: android-java
 feature: conversion

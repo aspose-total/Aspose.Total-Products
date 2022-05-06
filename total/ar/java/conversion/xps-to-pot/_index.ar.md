@@ -1,7 +1,7 @@
 ---
 title: تحويل XPS إلى POT عبر Java API
 description: Java API لتحويل XPS إلى POT دون استخدام Microsoft Word
-url: /ar/java/conversion/xps-to-pot/
+url_ignore: /ar/java/conversion/xps-to-pot/
 family: total
 platformtag: net
 feature: conversion

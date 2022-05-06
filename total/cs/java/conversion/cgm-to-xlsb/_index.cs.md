@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení CGM do XLSB
 description: Export CGM do XLSB přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/cgm-to-xlsb/
+url_ignore: /cs/java/conversion/cgm-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

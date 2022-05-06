@@ -1,7 +1,7 @@
 ---
 title: OFTをXPSにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにOFTをXPSに変換する
-url: /ja/net/conversion/oft-to-xps/
+url_ignore: /ja/net/conversion/oft-to-xps/
 family: total
 platformtag: net
 feature: conversion

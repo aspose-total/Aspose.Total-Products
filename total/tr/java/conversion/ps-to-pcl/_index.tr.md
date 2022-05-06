@@ -1,7 +1,7 @@
 ---
 title: PS'yi PCL'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak PS'yi PCL'ye dönüştürün
-url: /tr/java/conversion/ps-to-pcl/
+url_ignore: /tr/java/conversion/ps-to-pcl/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender XPS ke XLT
 description: Ekspor XPS ke XLT melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/xps-to-xlt/
+url_ignore: /id/java/conversion/xps-to-xlt/
 family: total
 platformtag: net
 feature: conversion

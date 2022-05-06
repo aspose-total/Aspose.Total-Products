@@ -1,7 +1,7 @@
 ---
 title: Convert PPTM to XLTM Format via Java
 description: Convert PPTM to XLTM format via Java without using using Microsoft Excel or PowerPoint
-url: /java/conversion/pptm-to-xltm/
+url_ignore: /java/conversion/pptm-to-xltm/
 family: total
 platformtag: java
 feature: conversion

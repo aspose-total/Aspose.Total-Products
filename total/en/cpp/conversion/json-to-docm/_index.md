@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to DOCM via C++ 
 description: C++ API t0 Parse JSON to DOCM without using Microsoft Word
-url: /cpp/conversion/json-to-docm/
+url_ignore: /cpp/conversion/json-to-docm/
 family: total
 platformtag: cpp
 feature: conversion

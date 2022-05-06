@@ -1,7 +1,7 @@
 ---
 title: POTM'u C# ile ODS'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan POTM'u C#'ta ODS'ye dönüştürün
-url: /tr/net/conversion/potm-to-ods/
+url_ignore: /tr/net/conversion/potm-to-ods/
 family: total
 platformtag: net
 feature: conversion

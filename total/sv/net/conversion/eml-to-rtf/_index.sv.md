@@ -1,7 +1,7 @@
 ---
 title: C# API för att exportera EML till RTF
 description: Konvertera EML till RTF utan att använda Microsoft Word eller Outlook på .NET
-url: /sv/net/conversion/eml-to-rtf/
+url_ignore: /sv/net/conversion/eml-to-rtf/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert PDF to XLTX in Android via Java
 description: Render PDF to XLTX in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/pdf-to-xltx/
+url_ignore: /android-java/conversion/pdf-to-xltx/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование POTM в формат SXC через Java
 description: Преобразуйте формат POTM в SXC через Java без использования Microsoft Excel или PowerPoint.
-url: /ru/java/conversion/potm-to-sxc/
+url_ignore: /ru/java/conversion/potm-to-sxc/
 family: total
 platformtag: net
 feature: conversion

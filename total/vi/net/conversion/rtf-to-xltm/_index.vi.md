@@ -1,7 +1,7 @@
 ---
 title: .NET API để chuyển đổi RTF sang XLTM
 description: C# API để chuyển đổi RTF sang XLTM mà không cần sử dụng Microsoft Excel hoặc Adobe Reader
-url: /vi/net/conversion/rtf-to-xltm/
+url_ignore: /vi/net/conversion/rtf-to-xltm/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ Bằng cách sử dụng [Aspose.Total for .NET](https://products.aspose.com/tot
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API để chuyển đổi RTF sang XLTM" %}}
-1. Mở tệp RTF bằng lớp [Rtfument](https://apireference.aspose.com/words/net/aspose.words/rtfument)
-2. Chuyển đổi RTF sang HTML bằng phương pháp [Save](https://apireference.aspose.com/words/net/aspose.words.rtfument/save/methods/4)
+1. Mở tệp RTF bằng lớp [Document](https://apireference.aspose.com/words/net/aspose.words/Document)
+2. Chuyển đổi RTF sang HTML bằng phương pháp [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4)
 3. Tải tài liệu HTML bằng cách sử dụng lớp [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Lưu tài liệu sang định dạng XLTM bằng phương pháp [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) và đặt `XLTM` làm SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -39,7 +39,7 @@ Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp Z
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Tải tài liệu RTF từ Luồng qua C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) cũng cho phép bạn tải tài liệu RTF qua luồng. Để mở tài liệu từ luồng, chỉ cần chuyển đối tượng luồng có chứa tài liệu vào phương thức khởi tạo [Rtfument](https://apireference.aspose.com/words/net/aspose.words/rtfument). Ví dụ mã sau đây cho thấy cách mở một tài liệu từ một luồng:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) cũng cho phép bạn tải tài liệu RTF qua luồng. Để mở tài liệu từ luồng, chỉ cần chuyển đối tượng luồng có chứa tài liệu vào phương thức khởi tạo [Document](https://apireference.aspose.com/words/net/aspose.words/Document). Ví dụ mã sau đây cho thấy cách mở một tài liệu từ một luồng:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp Z
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Thêm thuộc tính tùy chỉnh trong tệp XLTM qua C#" %}}
-Trong khi chuyển đổi RTF sang XLTM, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) cho phép bạn thêm các thuộc tính tùy chỉnh trong tài liệu XLTM của mình. Để thêm thuộc tính tùy chỉnh, bạn có thể sử dụng phương thức [Thêm](https://apireference.aspose.com/cells/net/aspose.cells.properties/customrtfumentpropertycollection/methods/add/index) cho phương thức [CustomRtfumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customrtfumentpropertycollection) lớp. Phương thức Thêm sẽ thêm thuộc tính vào tệp Excel và trả về một tham chiếu cho thuộc tính tài liệu mới dưới dạng [Aspose.Cells.Properties.RtfumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties/rtfumentproperty) đối tượng. 
+Trong khi chuyển đổi RTF sang XLTM, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) cho phép bạn thêm các thuộc tính tùy chỉnh trong tài liệu XLTM của mình. Để thêm thuộc tính tùy chỉnh, bạn có thể sử dụng phương thức [Thêm](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index) cho phương thức [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection) lớp. Phương thức Thêm sẽ thêm thuộc tính vào tệp Excel và trả về một tham chiếu cho thuộc tính tài liệu mới dưới dạng [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties/Documentproperty) đối tượng. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

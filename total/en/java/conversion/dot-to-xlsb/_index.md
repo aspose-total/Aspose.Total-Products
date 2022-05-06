@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to XLSB via Java
 description: Convert DOT to XLSB via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/dot-to-xlsb/
+url_ignore: /java/conversion/dot-to-xlsb/
 family: total
 platformtag: java
 feature: conversion

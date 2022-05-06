@@ -1,7 +1,7 @@
 ---
 title: API Java per convertire MOBI in XLTX
 description: Converti MOBI in XLTX tramite Java senza utilizzare Microsoft Word o Microsoft Excel
-url: /it/java/conversion/mobi-to-xltx/
+url_ignore: /it/java/conversion/mobi-to-xltx/
 family: total
 platformtag: net
 feature: conversion

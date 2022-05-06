@@ -1,7 +1,7 @@
 ---
 title: Exportar PDF a PPTM a través de la API de C#
 description: .NET API para convertir PDF a PPTM sin usar Microsoft Word
-url: /es/net/conversion/pdf-to-pptm/
+url_ignore: /es/net/conversion/pdf-to-pptm/
 family: total
 platformtag: net
 feature: conversion

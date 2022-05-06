@@ -1,7 +1,7 @@
 ---
 title: Java経由でPPTMをWORDMLに変換する
 description: MicrosoftWordやPowerPointを使用せずにPPTMをWORDMLにエクスポートするJavaAPI
-url: /ja/java/conversion/pptm-to-wordml/
+url_ignore: /ja/java/conversion/pptm-to-wordml/
 family: total
 platformtag: net
 feature: conversion

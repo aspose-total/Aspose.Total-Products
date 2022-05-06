@@ -1,7 +1,7 @@
 ---
 title: XPS'yi DOT'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan XPS'yi DOT'ye dönüştürün
-url: /tr/net/conversion/xps-to-dot/
+url_ignore: /tr/net/conversion/xps-to-dot/
 family: total
 platformtag: net
 feature: conversion

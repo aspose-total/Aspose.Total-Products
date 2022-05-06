@@ -1,7 +1,7 @@
 ---
 title: NET API لتحويل ODT إلى XLT
 description: C# API لتحويل ODT إلى XLT بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/odt-to-xlt/
+url_ignore: /ar/net/conversion/odt-to-xlt/
 family: total
 platformtag: net
 feature: conversion

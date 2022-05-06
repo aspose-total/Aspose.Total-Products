@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPSをTGAに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでPSをTGAにエクスポートします
-url: /ja/net/conversion/ps-to-tga/
+url_ignore: /ja/net/conversion/ps-to-tga/
 family: total
 platformtag: net
 feature: conversion

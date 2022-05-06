@@ -1,7 +1,7 @@
 ---
 title: Convertir POTX en XLTM via C#
 description: Convertir POTX en XLTM en C# sans utiliser Microsoft Excel ou Powerpoint
-url: /fr/net/conversion/potx-to-xltm/
+url_ignore: /fr/net/conversion/potx-to-xltm/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: XLSB XLS XLT SXC XLTX MHTML DIF XLTM XLSX XLSM TSV EXCEL MARKDOWN 
 {{< blocks/products/pf/i18n/feature-page-header h1="Convertir POTX en XLTM via C#" h2="API .NET pour la conversion POTX en XLTM sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), vous pouvez convertir le fichier POTX en XLTM dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.Slides pour .NET](https://products.aspose.com/slides/net/), vous pouvez exporter POTX vers HTML. Après cela, en utilisant [Aspose.Cells pour .NET](https://products.aspose.com/cells/net/) API de programmation de feuille de calcul, vous pouvez convertir HTML en XLTM.
+En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez convertir le fichier POTX en XLTM dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), vous pouvez exporter POTX vers HTML. Après cela, en utilisant [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API de programmation de feuille de calcul, vous pouvez convertir HTML en XLTM.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

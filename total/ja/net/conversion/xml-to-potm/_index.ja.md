@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXMLをPOTMにエクスポートする
 description: MicrosoftWordを使用せずにXMLをPOTMに変換する.NETAPI
-url: /ja/net/conversion/xml-to-potm/
+url_ignore: /ja/net/conversion/xml-to-potm/
 family: total
 platformtag: net
 feature: conversion

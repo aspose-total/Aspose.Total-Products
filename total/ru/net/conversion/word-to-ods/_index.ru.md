@@ -1,7 +1,7 @@
 ---
 title: .NET API для преобразования WORD в ODS
 description: C# API для преобразования WORD в ODS без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/word-to-ods/
+url_ignore: /ru/net/conversion/word-to-ods/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование MD в XLTX через C# API
 description: C# API для преобразования файла MD в XLTX без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/md-to-xltx/
+url_ignore: /ru/net/conversion/md-to-xltx/
 family: total
 platformtag: net
 feature: conversion

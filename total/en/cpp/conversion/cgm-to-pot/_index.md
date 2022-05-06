@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert CGM to POT  
 description: Convert CGM to POT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/cgm-to-pot/
+url_ignore: /cpp/conversion/cgm-to-pot/
 family: total
 platformtag: cpp
 feature: conversion

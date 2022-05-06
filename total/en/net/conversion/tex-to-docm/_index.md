@@ -1,7 +1,7 @@
 ---
 title: C# API to Export TEX to DOCM
 description: Convert TEX to DOCM without using Microsoft Word
-url: /net/conversion/tex-to-docm/
+url_ignore: /net/conversion/tex-to-docm/
 family: total
 platformtag: net
 feature: conversion

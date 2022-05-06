@@ -1,7 +1,7 @@
 ---
 title: Export PCL to PPS in Android 
 description: Android API to Convert PCL to PPS without using Microsoft Word
-url: /android-java/conversion/pcl-to-pps/
+url_ignore: /android-java/conversion/pcl-to-pps/
 family: total
 platformtag: android-java
 feature: conversion

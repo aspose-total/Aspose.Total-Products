@@ -1,7 +1,7 @@
 ---
 title: C#-API zum Exportieren von E-MAIL nach BMP
 description: Konvertieren Sie E-MAIL in BMP, ohne Microsoft Word oder Outlook auf .NET zu verwenden
-url: /de/net/conversion/msg-to-bmp/
+url_ignore: /de/net/conversion/msg-to-bmp/
 family: total
 platformtag: net
 feature: conversion

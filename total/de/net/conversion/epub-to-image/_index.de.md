@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie EPUB über die C#-API in IMAGE
 description: Exportieren Sie EPUB in IMAGE in Ihren .NET-Anwendungen, ohne Anwendungen von Drittanbietern zu verwenden
-url: /de/net/conversion/epub-to-image/
+url_ignore: /de/net/conversion/epub-to-image/
 family: total
 platformtag: net
 feature: conversion

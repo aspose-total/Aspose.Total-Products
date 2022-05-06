@@ -1,7 +1,7 @@
 ---
 title: 通过 .NET 将 JSON 格式转换为 EPUB
 description: 在 C# 中将 JSON 解析为 EPUB，而不使用 Microsoft Word
-url: /zh/net/conversion/json-to-epub/
+url_ignore: /zh/net/conversion/json-to-epub/
 family: total
 platformtag: net
 feature: conversion
@@ -33,7 +33,8 @@ otherformats: WORD RTF OTT DOTX DOCM DOT FLATOPC DOC PCL EPUB PS MOBI WORDML ODT
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-doc.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ otherformats: WORD RTF OTT DOTX DOCM DOT FLATOPC DOC PCL EPUB PS MOBI WORDML ODT
 在将 JSON 解析为 EPUB 时，您还可以使用 [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions) 为 JSON 设置布局选项。它允许您将 Array 处理为表格、忽略空值、忽略数组标题、忽略对象标题、将字符串转换为数字或日期、设置日期和数字格式以及设置标题样式。所有这些选项都允许您根据需要呈现数据。以下代码片段向您展示了如何设置布局选项。  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "set-layout-and-parse-json-to-doc.cs" >}}
+{{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "set-layout-and-parse-json-to-doc.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: WORD RTF OTT DOTX DOCM DOT FLATOPC DOC PCL EPUB PS MOBI WORDML ODT
 使用 API，您还可以将 JSON 转换为带水印的 EPUB。为了给您的 EPUB 文档添加水印，您可以首先将 JSON 文件解析为 PDF 并为其添加水印。为了添加水印，使用 [Document](https://apireference.aspose.com/words/net/aspose.words/document) 类加载新创建的 PDF 文件，创建 TextWatermarkOptions 的实例并设置其属性, 调用 Watermark.SetText 方法并传递水印文本和 TextWatermarkOptions 的对象。添加水印后，您可以将文档保存到 EPUB。 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

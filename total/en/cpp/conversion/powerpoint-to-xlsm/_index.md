@@ -1,7 +1,7 @@
 ---
 title: Convert POWERPOINT to XLSM via C++ 
 description: Export POWERPOINT to XLSM in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/powerpoint-to-xlsm/
+url_ignore: /cpp/conversion/powerpoint-to-xlsm/
 family: total
 platformtag: cpp
 feature: conversion

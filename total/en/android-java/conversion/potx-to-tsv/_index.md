@@ -1,7 +1,7 @@
 ---
 title: Convert POTX to TSV in Android via Java
 description: Convert POTX to TSV in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/potx-to-tsv/
+url_ignore: /android-java/conversion/potx-to-tsv/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: MSG'i Java aracılığıyla EPUB'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan MSG'i EPUB'ye Dönüştürmek için Java API
-url: /tr/java/conversion/msg-to-epub/
+url_ignore: /tr/java/conversion/msg-to-epub/
 family: total
 platformtag: net
 feature: conversion

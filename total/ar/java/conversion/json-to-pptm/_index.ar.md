@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى PPTM عبر Java
 description: تحليل JSON إلى PPTM في Java بدون استخدام Microsoft PowerPoint
-url: /ar/java/conversion/json-to-pptm/
+url_ignore: /ar/java/conversion/json-to-pptm/
 family: total
 platformtag: net
 feature: conversion

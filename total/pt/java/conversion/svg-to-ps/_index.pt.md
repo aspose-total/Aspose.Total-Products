@@ -1,7 +1,7 @@
 ---
 title: API Java para exportar SVG para PS
 description: Converter SVG para PS usando a API Java local
-url: /pt/java/conversion/svg-to-ps/
+url_ignore: /pt/java/conversion/svg-to-ps/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Android API to Render MD to DOTM
 description: Transform MD to DOTM via Android via Java API
-url: /android-java/conversion/md-to-dotm/
+url_ignore: /android-java/conversion/md-to-dotm/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से सीजीएम को एपीएनजी में कनवर्ट करें
 description: किसी भी तृतीय पक्ष एप्लिकेशन का उपयोग किए बिना अपने जावा एप्लिकेशन में PCL फ़ाइल को IMAGE में निर्यात करें
-url: /hi/java/conversion/pcl-to-image/
+url_ignore: /hi/java/conversion/pcl-to-image/
 family: total
 platformtag: net
 feature: conversion

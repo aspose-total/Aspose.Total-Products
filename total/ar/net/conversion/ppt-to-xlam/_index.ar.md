@@ -1,7 +1,7 @@
 ---
 title: تحويل PPT إلى XLAM عبر C#
 description: قم بتحويل PPT إلى XLAM في C# بدون استخدام Microsoft Excel أو Powerpoint
-url: /ar/net/conversion/ppt-to-xlam/
+url_ignore: /ar/net/conversion/ppt-to-xlam/
 family: total
 platformtag: net
 feature: conversion

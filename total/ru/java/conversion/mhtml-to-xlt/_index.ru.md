@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга MHTML в XLT
 description: Экспорт MHTML в XLT через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/mhtml-to-xlt/
+url_ignore: /ru/java/conversion/mhtml-to-xlt/
 family: total
 platformtag: net
 feature: conversion

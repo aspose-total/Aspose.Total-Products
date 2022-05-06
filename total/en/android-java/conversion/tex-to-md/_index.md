@@ -1,7 +1,7 @@
 ---
 title: Convert TEX to MD in Android via Java
 description: Render TEX to MD in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/tex-to-md/
+url_ignore: /android-java/conversion/tex-to-md/
 family: total
 platformtag: android-java
 feature: conversion

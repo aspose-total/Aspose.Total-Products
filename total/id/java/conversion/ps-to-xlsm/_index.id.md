@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender PS ke XLSM
 description: Ekspor PS ke XLSM melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/ps-to-xlsm/
+url_ignore: /id/java/conversion/ps-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

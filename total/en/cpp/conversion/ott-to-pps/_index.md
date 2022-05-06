@@ -1,7 +1,7 @@
 ---
 title: Convert OTT to PPS via C++
 description: Export OTT to PPS in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/ott-to-pps/
+url_ignore: /cpp/conversion/ott-to-pps/
 family: total
 platformtag: cpp
 feature: conversion

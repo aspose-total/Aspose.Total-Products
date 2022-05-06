@@ -1,7 +1,7 @@
 ---
 title: Exportera OFT till WORDML via Java
 description: Java API för att konvertera OFT till WORDML utan att använda Microsoft Word eller Outlook
-url: /sv/java/conversion/oft-to-wordml/
+url_ignore: /sv/java/conversion/oft-to-wordml/
 family: total
 platformtag: net
 feature: conversion

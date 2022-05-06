@@ -1,7 +1,7 @@
 ---
 title: Javaを使用してXLTXをPPTXに変換する
 description: ExcelまたはWordを使用してXLTXをPPTXにエクスポートするJavaAPI
-url: /ja/java/conversion/xltx-to-pptx/
+url_ignore: /ja/java/conversion/xltx-to-pptx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: MHTML'yi C# API aracılığıyla PPT'ye aktarın
 description: Microsoft Word kullanmadan MHTML'yi PPT'ye dönüştürmek için .NET API
-url: /tr/net/conversion/mhtml-to-ppt/
+url_ignore: /tr/net/conversion/mhtml-to-ppt/
 family: total
 platformtag: net
 feature: conversion

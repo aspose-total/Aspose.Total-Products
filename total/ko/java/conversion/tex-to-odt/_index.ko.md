@@ -1,7 +1,7 @@
 ---
 title: TEX을 ODT으로 내보내기 위한 Java API
 description: 온프레미스 Java API를 사용하여 TEX을 ODT으로 변환
-url: /ko/java/conversion/tex-to-odt/
+url_ignore: /ko/java/conversion/tex-to-odt/
 family: total
 platformtag: net
 feature: conversion

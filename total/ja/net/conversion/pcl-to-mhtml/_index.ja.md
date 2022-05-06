@@ -1,7 +1,7 @@
 ---
 title: PCLをMHTMLにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにPCLをMHTMLに変換する
-url: /ja/net/conversion/pcl-to-mhtml/
+url_ignore: /ja/net/conversion/pcl-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

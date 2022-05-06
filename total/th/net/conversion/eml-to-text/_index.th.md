@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก EML ไปยัง TEXT
 description: แปลง EML เป็น TEXT โดยไม่ต้องใช้ Microsoft Word หรือ Outlook บน .NET
-url: /th/net/conversion/eml-to-text/
+url_ignore: /th/net/conversion/eml-to-text/
 family: total
 platformtag: net
 feature: conversion

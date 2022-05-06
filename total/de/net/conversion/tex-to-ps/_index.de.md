@@ -1,7 +1,7 @@
 ---
 title: C#-API zum Exportieren von TEX nach PS
 description: Konvertieren Sie TEX in PS, ohne Microsoft Word zu verwenden
-url: /de/net/conversion/tex-to-ps/
+url_ignore: /de/net/conversion/tex-to-ps/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PS to DOTX
 description: Convert PS to DOTX within C++ applications.
-url: /cpp/conversion/ps-to-dotx/
+url_ignore: /cpp/conversion/ps-to-dotx/
 family: total
 platformtag: cpp
 feature: conversion

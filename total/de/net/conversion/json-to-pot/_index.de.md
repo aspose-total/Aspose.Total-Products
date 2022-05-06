@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie das JSON-Format über .NET in POT
 description: Analysieren Sie JSON in POT in C#, ohne Microsoft PowerPoint zu verwenden
-url: /de/net/conversion/json-to-pot/
+url_ignore: /de/net/conversion/json-to-pot/
 family: total
 platformtag: net
 feature: conversion

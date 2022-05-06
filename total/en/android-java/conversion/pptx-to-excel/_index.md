@@ -1,7 +1,7 @@
 ---
 title: Convert PPTX to EXCEL in Android via Java
 description: Convert PPTX to EXCEL in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/pptx-to-excel/
+url_ignore: /android-java/conversion/pptx-to-excel/
 family: total
 platformtag: android-java
 feature: conversion

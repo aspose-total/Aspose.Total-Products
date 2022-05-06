@@ -1,7 +1,7 @@
 ---
 title: C# API om MSG naar EMF te exporteren
 description: Converteer MSG naar EMF zonder Microsoft Word of Outlook te gebruiken op .NET
-url: /nl/net/conversion/msg-to-emf/
+url_ignore: /nl/net/conversion/msg-to-emf/
 family: total
 platformtag: net
 feature: conversion

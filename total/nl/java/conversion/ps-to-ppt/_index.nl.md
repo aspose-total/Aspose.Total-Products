@@ -1,7 +1,7 @@
 ---
 title: Converteer PS naar PPT via Java API
 description: Java API om PS naar PPT te converteren zonder Microsoft Word te gebruiken
-url: /nl/java/conversion/ps-to-ppt/
+url_ignore: /nl/java/conversion/ps-to-ppt/
 family: total
 platformtag: net
 feature: conversion

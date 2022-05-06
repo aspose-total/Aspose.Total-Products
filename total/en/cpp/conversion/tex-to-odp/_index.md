@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert TEX to ODP  
 description: Convert TEX to ODP via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/tex-to-odp/
+url_ignore: /cpp/conversion/tex-to-odp/
 family: total
 platformtag: cpp
 feature: conversion

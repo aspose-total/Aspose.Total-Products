@@ -1,7 +1,7 @@
 ---
 title: Android API to Render XPS to XAMLFLOW
 description: Transform XPS to XAMLFLOW via Android via Java API
-url: /android-java/conversion/xps-to-xamlflow/
+url_ignore: /android-java/conversion/xps-to-xamlflow/
 family: total
 platformtag: android-java
 feature: conversion

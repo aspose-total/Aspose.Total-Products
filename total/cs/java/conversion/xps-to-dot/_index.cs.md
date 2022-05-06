@@ -1,7 +1,7 @@
 ---
 title: Java API pro export XPS do DOT
 description: Převeďte XPS na DOT pomocí on premise Java API
-url: /cs/java/conversion/xps-to-dot/
+url_ignore: /cs/java/conversion/xps-to-dot/
 family: total
 platformtag: net
 feature: conversion

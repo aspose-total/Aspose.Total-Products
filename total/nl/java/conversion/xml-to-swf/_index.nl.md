@@ -1,7 +1,7 @@
 ---
 title: Converteer XML naar SWF via Java API
 description: Java API om XML naar SWF te converteren zonder Microsoft Word te gebruiken
-url: /nl/java/conversion/xml-to-swf/
+url_ignore: /nl/java/conversion/xml-to-swf/
 family: total
 platformtag: net
 feature: conversion

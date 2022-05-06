@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してPSをPPTMに変換する
 description: MicrosoftWordを使用せずにPSをPPTMに変換するJavaAPI
-url: /ja/java/conversion/ps-to-pptm/
+url_ignore: /ja/java/conversion/ps-to-pptm/
 family: total
 platformtag: net
 feature: conversion

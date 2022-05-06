@@ -1,7 +1,7 @@
 ---
 title: Convert DOCM to EXCEL via .NET 
 description: Convert DOCM to EXCEL in C# without using Microsoft Excel or Adobe Reader
-url: /net/conversion/docm-to-excel/
+url_ignore: /net/conversion/docm-to-excel/
 family: total
 platformtag: net
 feature: conversion

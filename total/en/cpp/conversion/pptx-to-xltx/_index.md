@@ -1,7 +1,7 @@
 ---
 title: Convert PPTX to XLTX via C++ 
 description: Export PPTX to XLTX in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pptx-to-xltx/
+url_ignore: /cpp/conversion/pptx-to-xltx/
 family: total
 platformtag: cpp
 feature: conversion

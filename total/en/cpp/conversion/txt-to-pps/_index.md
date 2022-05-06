@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to PPS via C++
 description: Export TXT to PPS in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/txt-to-pps/
+url_ignore: /cpp/conversion/txt-to-pps/
 family: total
 platformtag: cpp
 feature: conversion

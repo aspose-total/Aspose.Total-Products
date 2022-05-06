@@ -1,7 +1,7 @@
 ---
 title: PPSM'u C# ile TSV'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan PPSM'u C#'ta TSV'ye dönüştürün
-url: /tr/net/conversion/ppsm-to-tsv/
+url_ignore: /tr/net/conversion/ppsm-to-tsv/
 family: total
 platformtag: net
 feature: conversion

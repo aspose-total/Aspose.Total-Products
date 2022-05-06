@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie PCL über die C#-API nach POTM
 description: .NET-API zum Konvertieren von PCL in POTM ohne Verwendung von Microsoft Word
-url: /de/net/conversion/pcl-to-potm/
+url_ignore: /de/net/conversion/pcl-to-potm/
 family: total
 platformtag: net
 feature: conversion

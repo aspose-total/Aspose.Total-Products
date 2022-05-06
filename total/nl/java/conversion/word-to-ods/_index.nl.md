@@ -1,7 +1,7 @@
 ---
 title: Java API om WORD naar ODS te converteren
 description: Converteer WORD naar ODS via Java zonder Microsoft Word of Microsoft Excel te gebruiken
-url: /nl/java/conversion/word-to-ods/
+url_ignore: /nl/java/conversion/word-to-ods/
 family: total
 platformtag: net
 feature: conversion

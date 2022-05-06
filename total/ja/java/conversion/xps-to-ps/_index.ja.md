@@ -1,7 +1,7 @@
 ---
 title: XPSをPSにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してXPSをPSに変換する
-url: /ja/java/conversion/xps-to-ps/
+url_ignore: /ja/java/conversion/xps-to-ps/
 family: total
 platformtag: net
 feature: conversion

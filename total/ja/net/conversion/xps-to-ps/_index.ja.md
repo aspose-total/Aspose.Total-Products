@@ -1,7 +1,7 @@
 ---
 title: XPSをPSにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにXPSをPSに変換する
-url: /ja/net/conversion/xps-to-ps/
+url_ignore: /ja/net/conversion/xps-to-ps/
 family: total
 platformtag: net
 feature: conversion

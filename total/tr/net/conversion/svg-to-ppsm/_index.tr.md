@@ -1,7 +1,7 @@
 ---
 title: SVG'yi C# API aracılığıyla PPSM'ye aktarın
 description: Microsoft Word kullanmadan SVG'yi PPSM'ye dönüştürmek için .NET API
-url: /tr/net/conversion/svg-to-ppsm/
+url_ignore: /tr/net/conversion/svg-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

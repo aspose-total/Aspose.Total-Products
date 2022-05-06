@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してCGMをWMFに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでCGMをWMFにエクスポートします
-url: /ja/net/conversion/cgm-to-wmf/
+url_ignore: /ja/net/conversion/cgm-to-wmf/
 family: total
 platformtag: net
 feature: conversion

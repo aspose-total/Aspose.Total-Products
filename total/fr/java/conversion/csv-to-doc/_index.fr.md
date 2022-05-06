@@ -1,7 +1,7 @@
 ---
 title: Convertir CSV en DOC en utilisant Java
 description: API Java pour exporter CSV vers DOC en utilisant Excel ou Word
-url: /fr/java/conversion/csv-to-doc/
+url_ignore: /fr/java/conversion/csv-to-doc/
 family: total
 platformtag: net
 feature: conversion
@@ -12,7 +12,7 @@ otherformats: DOCX PPTX POWERPOINT WORD
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="API Java pour exporter CSV vers DOC" h2="API Java sur site pour exporter CSV vers DOC sans dépendre de Microsoft Excel®" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Le rendu CSV en DOC est un processus en deux étapes. Vous utiliserez d'abord l'API [Aspose.Cells pour Java](https://products.aspose.com/cells/java) pour convertir le document CSV donné en PDF, puis en utilisant [Aspose.Pdf pour Java](https ://products.aspose.com/pdf/java) API, vous pouvez facilement convertir votre document PDF en DOC. Les deux API font partie de la collection de bibliothèques d'automatisation de format de fichier [Aspose.Total pour Java](https://products.aspose.com/total/java/).
+Le rendu CSV en DOC est un processus en deux étapes. Vous utiliserez d'abord l'API [Aspose.Cells for Java](https://products.aspose.com/cells/java) pour convertir le document CSV donné en PDF, puis en utilisant [Aspose.Pdf for Java](https ://products.aspose.com/pdf/java) API, vous pouvez facilement convertir votre document PDF en DOC. Les deux API font partie de la collection de bibliothèques d'automatisation de format de fichier [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Comment convertir CSV en DOC via l'API Java" %}}

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してHTMLをDICOMに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでHTMLをDICOMにエクスポートします
-url: /ja/net/conversion/html-to-dicom/
+url_ignore: /ja/net/conversion/html-to-dicom/
 family: total
 platformtag: net
 feature: conversion

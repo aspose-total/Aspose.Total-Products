@@ -1,7 +1,7 @@
 ---
 title: EMAILをDOTMにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMAILをDOTMに変換する
-url: /ja/net/conversion/email-to-dotm/
+url_ignore: /ja/net/conversion/email-to-dotm/
 family: total
 platformtag: net
 feature: conversion

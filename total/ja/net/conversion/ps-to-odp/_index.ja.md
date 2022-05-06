@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPSをODPにエクスポートする
 description: MicrosoftWordを使用せずにPSをODPに変換する.NETAPI
-url: /ja/net/conversion/ps-to-odp/
+url_ignore: /ja/net/conversion/ps-to-odp/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API för att exportera PDF till FLATOPC
 description: Konvertera PDF till FLATOPC med hjälp av det lokala Java API
-url: /sv/java/conversion/pdf-to-flatopc/
+url_ignore: /sv/java/conversion/pdf-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

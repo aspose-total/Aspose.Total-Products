@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XML to ODP  
 description: Convert XML to ODP via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/xml-to-odp/
+url_ignore: /cpp/conversion/xml-to-odp/
 family: total
 platformtag: cpp
 feature: conversion

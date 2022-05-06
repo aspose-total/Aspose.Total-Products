@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert CGM to TXT
 description: Convert CGM to TXT via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/cgm-to-txt/
+url_ignore: /cpp/conversion/cgm-to-txt/
 family: total
 platformtag: cpp
 feature: conversion

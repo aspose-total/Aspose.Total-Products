@@ -1,7 +1,7 @@
 ---
 title: Android API to Render MHTML to FLATOPC
 description: Transform MHTML to FLATOPC via Android via Java API
-url: /android-java/conversion/mhtml-to-flatopc/
+url_ignore: /android-java/conversion/mhtml-to-flatopc/
 family: total
 platformtag: android-java
 feature: conversion

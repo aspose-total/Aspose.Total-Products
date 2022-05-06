@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير TEX إلى PCL
 description: تحويل TEX إلى PCL دون استخدام Microsoft Word
-url: /ar/net/conversion/tex-to-pcl/
+url_ignore: /ar/net/conversion/tex-to-pcl/
 family: total
 platformtag: net
 feature: conversion

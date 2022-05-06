@@ -1,7 +1,7 @@
 ---
 title: Konversi MD ke PPT melalui Java API
 description: Java API untuk Mengonversi MD ke PPT tanpa menggunakan Microsoft Word
-url: /id/java/conversion/md-to-ppt/
+url_ignore: /id/java/conversion/md-to-ppt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to POTM via C++
 description: Export WORDML to POTM in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/wordml-to-potm/
+url_ignore: /cpp/conversion/wordml-to-potm/
 family: total
 platformtag: cpp
 feature: conversion

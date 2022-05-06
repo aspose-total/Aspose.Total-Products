@@ -1,7 +1,7 @@
 ---
 title: تحويل PPS إلى MHTML عبر C#
 description: قم بتحويل PPS إلى MHTML في C# بدون استخدام Microsoft Excel أو Powerpoint
-url: /ar/net/conversion/pps-to-mhtml/
+url_ignore: /ar/net/conversion/pps-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

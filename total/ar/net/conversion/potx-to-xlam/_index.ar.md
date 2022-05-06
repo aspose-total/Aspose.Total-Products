@@ -1,7 +1,7 @@
 ---
 title: تحويل POTX إلى XLAM عبر C#
 description: قم بتحويل POTX إلى XLAM في C# بدون استخدام Microsoft Excel أو Powerpoint
-url: /ar/net/conversion/potx-to-xlam/
+url_ignore: /ar/net/conversion/potx-to-xlam/
 family: total
 platformtag: net
 feature: conversion

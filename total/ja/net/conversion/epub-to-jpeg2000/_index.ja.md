@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してEPUBをJPEG2000に変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでEPUBをJPEG2000にエクスポートします
-url: /ja/net/conversion/epub-to-jpeg2000/
+url_ignore: /ja/net/conversion/epub-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API to Export PDF to XAMLFLOW
 description: Convert PDF to XAMLFLOW using on premise Java API
-url: /java/conversion/pdf-to-xamlflow/
+url_ignore: /java/conversion/pdf-to-xamlflow/
 family: total
 platformtag: java
 feature: conversion

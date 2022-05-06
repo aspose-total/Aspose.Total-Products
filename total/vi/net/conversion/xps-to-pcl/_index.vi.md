@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất XPS sang PCL
 description: Chuyển đổi XPS sang PCL mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/xps-to-pcl/
+url_ignore: /vi/net/conversion/xps-to-pcl/
 family: total
 platformtag: net
 feature: conversion

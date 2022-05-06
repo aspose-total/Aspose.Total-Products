@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをXLTMに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPDFファイルをXLTMに変換するC＃API
-url: /ja/net/conversion/pdf-to-xltm/
+url_ignore: /ja/net/conversion/pdf-to-xltm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API لتقديم CGM إلى FODS
 description: قم بتصدير CGM إلى FODS عبر Java API دون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/java/conversion/cgm-to-fods/
+url_ignore: /ar/java/conversion/cgm-to-fods/
 family: total
 platformtag: net
 feature: conversion

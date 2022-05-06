@@ -1,7 +1,7 @@
 ---
 title: Exportar EMAIL a PNG a través de Java
 description: API de Java para convertir EMAIL a PNG sin usar Microsoft Word o Outlook
-url: /es/java/conversion/email-to-png/
+url_ignore: /es/java/conversion/email-to-png/
 family: total
 platformtag: net
 feature: conversion

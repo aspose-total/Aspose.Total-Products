@@ -1,7 +1,7 @@
 ---
 title: Java API för att rendera XML till XLT
 description: Exportera XML till XLT via Java API utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/java/conversion/xml-to-xlt/
+url_ignore: /sv/java/conversion/xml-to-xlt/
 family: total
 platformtag: net
 feature: conversion

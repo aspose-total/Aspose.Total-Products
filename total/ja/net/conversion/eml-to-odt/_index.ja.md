@@ -1,7 +1,7 @@
 ---
 title: EMLをODTにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMLをODTに変換する
-url: /ja/net/conversion/eml-to-odt/
+url_ignore: /ja/net/conversion/eml-to-odt/
 family: total
 platformtag: net
 feature: conversion

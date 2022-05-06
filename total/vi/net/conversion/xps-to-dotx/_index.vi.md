@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất XPS sang DOTX
 description: Chuyển đổi XPS sang DOTX mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/xps-to-dotx/
+url_ignore: /vi/net/conversion/xps-to-dotx/
 family: total
 platformtag: net
 feature: conversion

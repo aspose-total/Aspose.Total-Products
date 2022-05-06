@@ -1,7 +1,7 @@
 ---
 title: C# API pro export XPS do MHTML
 description: Převeďte XPS na MHTML bez použití aplikace Microsoft Word
-url: /cs/net/conversion/xps-to-mhtml/
+url_ignore: /cs/net/conversion/xps-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

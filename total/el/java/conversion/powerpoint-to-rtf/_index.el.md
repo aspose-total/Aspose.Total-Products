@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή POWERPOINT σε RTF μέσω Java
 description: Java API για εξαγωγή POWERPOINT σε RTF χωρίς χρήση Microsoft Word ή PowerPoint
-url: /el/java/conversion/powerpoint-to-rtf/
+url_ignore: /el/java/conversion/powerpoint-to-rtf/
 family: total
 platformtag: net
 feature: conversion
@@ -18,8 +18,8 @@ otherformats: WORDML RTF FLATOPC OTT WORD DOTX RTFM DOTM RTFX DOT TEXT ODT
 {{% blocks/products/pf/agp/feature-section-col title="Πώς να μετατρέψετε το POWERPOINT σε RTF μέσω Java" %}}
 1. Ανοίξτε το αρχείο POWERPOINT χρησιμοποιώντας την τάξη [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Μετατρέψτε το POWERPOINT σε HTML χρησιμοποιώντας το [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. μέθοδο ISaveOptions-) και ορίστε το Html ως SaveFormat
-3. Φορτώστε το αρχείο HTML που έχει μετατραπεί χρησιμοποιώντας την κλάση [Rtfument](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument)
-4. Αποθηκεύστε το έγγραφο σε μορφή RTF χρησιμοποιώντας τη μέθοδο [save](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument#save(java.lang.String,int))
+3. Φορτώστε το αρχείο HTML που έχει μετατραπεί χρησιμοποιώντας την κλάση [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+4. Αποθηκεύστε το έγγραφο σε μορφή RTF χρησιμοποιώντας τη μέθοδο [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
 Για μετατροπή αρχείου POWERPOINT σε RTF, μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.Total για Java απευθείας από ένα [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose έργο που βασίζεται στο /aspose-total) και συμπεριλάβετε βιβλιοθήκες στο pom.xml σας.
@@ -29,14 +29,16 @@ otherformats: WORDML RTF FLATOPC OTT WORD DOTX RTFM DOTM RTFX DOT TEXT ODT
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Απαιτήσεις μετατροπής" %}}
 Χρησιμοποιώντας το API, μπορείτε επίσης να πραγματοποιήσετε μετατροπή αρχείου POWERPOINT σε RTF με υδατογράφημα. Για να προσθέσετε ένα υδατογράφημα στο έγγραφό σας RTF, μπορείτε πρώτα να μετατρέψετε το αρχείο POWERPOINT σε HTML και να προσθέσετε ένα υδατογράφημα σε αυτό. Για να προσθέσετε ένα υδατογράφημα, φορτώστε το νέο αρχείο HTML χρησιμοποιώντας την κλάση [Rtfument](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument), δημιουργήστε μια παρουσία του TextWatermarkOptions και ορίστε Οι ιδιότητές του, Καλέστε τη μέθοδο Watermark.setText και περάστε κείμενο υδατογραφήματος & αντικείμενο του TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}
+{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

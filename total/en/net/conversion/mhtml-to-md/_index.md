@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to MD via C# API
 description: C# API to Convert MHTML File to MD without using Microsoft Excel or Adobe Reader
-url: /net/conversion/mhtml-to-md/
+url_ignore: /net/conversion/mhtml-to-md/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PS to ODT
 description: Transform PS to ODT via Android via Java API
-url: /android-java/conversion/ps-to-odt/
+url_ignore: /android-java/conversion/ps-to-odt/
 family: total
 platformtag: android-java
 feature: conversion

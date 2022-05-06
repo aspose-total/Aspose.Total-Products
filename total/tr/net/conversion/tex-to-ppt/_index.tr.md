@@ -1,7 +1,7 @@
 ---
 title: TEX'yi C# API aracılığıyla PPT'ye aktarın
 description: Microsoft Word kullanmadan TEX'yi PPT'ye dönüştürmek için .NET API
-url: /tr/net/conversion/tex-to-ppt/
+url_ignore: /tr/net/conversion/tex-to-ppt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση CGM σε EXCEL
 description: Εξαγωγή CGM σε EXCEL μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/cgm-to-excel/
+url_ignore: /el/java/conversion/cgm-to-excel/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert OTT to ODP in Android via Java
 description: OTT to ODP conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/ott-to-odp/
+url_ignore: /android-java/conversion/ott-to-odp/
 family: total
 platformtag: android-java
 feature: conversion

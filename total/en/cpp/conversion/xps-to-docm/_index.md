@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export XPS to DOCM
 description: Convert XPS to DOCM within C++ applications.
-url: /cpp/conversion/xps-to-docm/
+url_ignore: /cpp/conversion/xps-to-docm/
 family: total
 platformtag: cpp
 feature: conversion

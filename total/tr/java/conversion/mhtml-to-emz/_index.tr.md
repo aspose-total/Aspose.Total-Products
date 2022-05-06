@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla MHTML'yi EMZ'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan MHTML dosyasını Java uygulamalarınızda EMZ'ye aktarın
-url: /tr/java/conversion/mhtml-to-emz/
+url_ignore: /tr/java/conversion/mhtml-to-emz/
 family: total
 platformtag: net
 feature: conversion

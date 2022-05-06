@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XPS to SXC
 description: Convert XPS to SXC via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xps-to-sxc/
+url_ignore: /cpp/conversion/xps-to-sxc/
 family: total
 platformtag: cpp
 feature: conversion

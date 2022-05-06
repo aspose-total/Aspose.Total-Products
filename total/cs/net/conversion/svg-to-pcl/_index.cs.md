@@ -1,7 +1,7 @@
 ---
 title: C# API pro export SVG do PCL
 description: Převeďte SVG na PCL bez použití aplikace Microsoft Word
-url: /cs/net/conversion/svg-to-pcl/
+url_ignore: /cs/net/conversion/svg-to-pcl/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to XLT in C++
 description: C++ API to Convert WORD to XLT without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/word-to-xlt/
+url_ignore: /cpp/conversion/word-to-xlt/
 family: total
 platformtag: cpp
 feature: conversion

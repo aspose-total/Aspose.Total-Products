@@ -1,7 +1,7 @@
 ---
 title: TEX'yi MHTML'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak TEX'yi MHTML'ye dönüştürün
-url: /tr/java/conversion/tex-to-mhtml/
+url_ignore: /tr/java/conversion/tex-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

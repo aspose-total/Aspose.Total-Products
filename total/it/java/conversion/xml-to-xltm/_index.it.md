@@ -1,7 +1,7 @@
 ---
 title: API Java per il rendering da XML a XLTM
 description: Esporta XML in XLTM tramite API Java senza utilizzare Microsoft Excel o Adobe Reader
-url: /it/java/conversion/xml-to-xltm/
+url_ignore: /it/java/conversion/xml-to-xltm/
 family: total
 platformtag: net
 feature: conversion

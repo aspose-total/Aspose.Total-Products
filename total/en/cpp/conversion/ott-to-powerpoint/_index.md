@@ -1,7 +1,7 @@
 ---
 title: Convert OTT to POWERPOINT via C++
 description: Export OTT to POWERPOINT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/ott-to-powerpoint/
+url_ignore: /cpp/conversion/ott-to-powerpoint/
 family: total
 platformtag: cpp
 feature: conversion

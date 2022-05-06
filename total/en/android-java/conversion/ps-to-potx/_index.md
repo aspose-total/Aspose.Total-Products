@@ -1,7 +1,7 @@
 ---
 title: Export PS to POTX in Android 
 description: Android API to Convert PS to POTX without using Microsoft Word
-url: /android-java/conversion/ps-to-potx/
+url_ignore: /android-java/conversion/ps-to-potx/
 family: total
 platformtag: android-java
 feature: conversion

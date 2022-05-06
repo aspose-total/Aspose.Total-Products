@@ -1,7 +1,7 @@
 ---
 title: OTTをDIFに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにOTTをDIFに変換するC＃API
-url: /ja/net/conversion/ott-to-dif/
+url_ignore: /ja/net/conversion/ott-to-dif/
 family: total
 platformtag: net
 feature: conversion

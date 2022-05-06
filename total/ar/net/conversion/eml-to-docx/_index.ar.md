@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير البريد الإلكتروني إلى DOCX
 description: قم بتحويل EML إلى DOCX دون استخدام Microsoft Word أو Outlook على .NET
-url: /ar/net/conversion/eml-to-docx/
+url_ignore: /ar/net/conversion/eml-to-docx/
 family: total
 platformtag: net
 feature: conversion

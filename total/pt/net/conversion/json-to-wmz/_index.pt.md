@@ -1,7 +1,7 @@
 ---
 title: Converter o formato JSON para WMZ via .NET
 description: Analise JSON para WMZ em C# sem usar dependências de terceiros
-url: /pt/net/conversion/json-to-wmz/
+url_ignore: /pt/net/conversion/json-to-wmz/
 family: total
 platformtag: net
 feature: conversion

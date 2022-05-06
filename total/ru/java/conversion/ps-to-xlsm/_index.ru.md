@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга PS в XLSM
 description: Экспорт PS в XLSM через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/ps-to-xlsm/
+url_ignore: /ru/java/conversion/ps-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

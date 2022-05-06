@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MD to POT  
 description: Convert MD to POT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/md-to-pot/
+url_ignore: /cpp/conversion/md-to-pot/
 family: total
 platformtag: cpp
 feature: conversion

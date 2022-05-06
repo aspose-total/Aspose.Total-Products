@@ -1,7 +1,7 @@
 ---
 title: Converter POTM para formato XLSM via Java
 description: Converta o formato POTM para XLSM via Java sem usar o Microsoft Excel ou PowerPoint
-url: /pt/java/conversion/potm-to-xlsm/
+url_ignore: /pt/java/conversion/potm-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

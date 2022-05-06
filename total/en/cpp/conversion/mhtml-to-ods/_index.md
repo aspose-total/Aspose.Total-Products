@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MHTML to ODS
 description: Convert MHTML to ODS via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/mhtml-to-ods/
+url_ignore: /cpp/conversion/mhtml-to-ods/
 family: total
 platformtag: cpp
 feature: conversion

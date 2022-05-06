@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση XML σε CSV
 description: Εξαγωγή XML σε CSV μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/xml-to-csv/
+url_ignore: /el/java/conversion/xml-to-csv/
 family: total
 platformtag: net
 feature: conversion

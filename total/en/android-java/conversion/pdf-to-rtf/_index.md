@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PDF to RTF
 description: Transform PDF to RTF via Android via Java API
-url: /android-java/conversion/pdf-to-rtf/
+url_ignore: /android-java/conversion/pdf-to-rtf/
 family: total
 platformtag: android-java
 feature: conversion

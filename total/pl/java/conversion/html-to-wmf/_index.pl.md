@@ -1,7 +1,7 @@
 ---
 title: Konwertuj HTML na WMF przez Java
 description: Eksportuj plik HTML do WMF w swoich aplikacjach Java bez korzystania z aplikacji innych firm
-url: /pl/java/conversion/html-to-wmf/
+url_ignore: /pl/java/conversion/html-to-wmf/
 family: total
 platformtag: net
 feature: conversion

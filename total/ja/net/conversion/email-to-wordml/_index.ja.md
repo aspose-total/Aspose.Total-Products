@@ -1,7 +1,7 @@
 ---
 title: EMAILをWORDMLにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMAILをWORDMLに変換する
-url: /ja/net/conversion/email-to-wordml/
+url_ignore: /ja/net/conversion/email-to-wordml/
 family: total
 platformtag: net
 feature: conversion

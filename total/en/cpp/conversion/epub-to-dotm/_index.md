@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export EPUB to DOTM
 description: Convert EPUB to DOTM within C++ applications.
-url: /cpp/conversion/epub-to-dotm/
+url_ignore: /cpp/conversion/epub-to-dotm/
 family: total
 platformtag: cpp
 feature: conversion

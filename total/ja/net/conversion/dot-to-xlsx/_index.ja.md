@@ -1,7 +1,7 @@
 ---
 title: DOTをXLSXに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにDOTをXLSXに変換するC＃API
-url: /ja/net/conversion/dot-to-xlsx/
+url_ignore: /ja/net/conversion/dot-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

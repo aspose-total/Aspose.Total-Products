@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to PPTM in Android via Java
 description: TXT to PPTM conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/txt-to-pptm/
+url_ignore: /android-java/conversion/txt-to-pptm/
 family: total
 platformtag: android-java
 feature: conversion

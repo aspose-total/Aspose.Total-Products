@@ -1,7 +1,7 @@
 ---
 title: EMAILをTEXTにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMAILをTEXTに変換する
-url: /ja/net/conversion/email-to-text/
+url_ignore: /ja/net/conversion/email-to-text/
 family: total
 platformtag: net
 feature: conversion

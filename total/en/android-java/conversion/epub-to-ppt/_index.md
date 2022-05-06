@@ -1,7 +1,7 @@
 ---
 title: Export EPUB to PPT in Android 
 description: Android API to Convert EPUB to PPT without using Microsoft Word
-url: /android-java/conversion/epub-to-ppt/
+url_ignore: /android-java/conversion/epub-to-ppt/
 family: total
 platformtag: android-java
 feature: conversion

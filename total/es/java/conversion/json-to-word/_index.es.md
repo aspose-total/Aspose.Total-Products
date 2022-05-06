@@ -1,7 +1,7 @@
 ---
 title: Convierta el formato JSON a WORD a través de Java
 description: Analice JSON a WORD en Java sin usar Microsoft Word
-url: /es/java/conversion/json-to-word/
+url_ignore: /es/java/conversion/json-to-word/
 family: total
 platformtag: net
 feature: conversion

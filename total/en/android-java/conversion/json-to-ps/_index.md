@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to PS in Android via Java 
 description: Parse JSON to PS in Java without using Microsoft Word
-url: /android-java/conversion/json-to-ps/
+url_ignore: /android-java/conversion/json-to-ps/
 family: total
 platformtag: android-java
 feature: conversion

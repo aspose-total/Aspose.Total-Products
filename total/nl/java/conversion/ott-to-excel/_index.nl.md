@@ -1,7 +1,7 @@
 ---
 title: Java API om OTT naar EXCEL te converteren
 description: Converteer OTT naar EXCEL via Java zonder Microsoft Word of Microsoft Excel te gebruiken
-url: /nl/java/conversion/ott-to-excel/
+url_ignore: /nl/java/conversion/ott-to-excel/
 family: total
 platformtag: net
 feature: conversion

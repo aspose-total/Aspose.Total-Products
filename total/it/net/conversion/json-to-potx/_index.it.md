@@ -1,7 +1,7 @@
 ---
 title: Converti il formato JSON in POTX tramite .NET
 description: Analizza JSON in POTX in C# senza utilizzare Microsoft PowerPoint
-url: /it/net/conversion/json-to-potx/
+url_ignore: /it/net/conversion/json-to-potx/
 family: total
 platformtag: net
 feature: conversion
@@ -33,7 +33,8 @@ In alternativa, scarica il programma di installazione MSI offline o le DLL in un
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ In alternativa, scarica il programma di installazione MSI offline o le DLL in un
 Durante l'analisi da JSON a POTX, puoi anche impostare le opzioni di layout per il tuo formato JSON utilizzando [JsonLayoutOptions](https://apiference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutions). Ti consente di elaborare l'array come una tabella, ignorare i valori null, ignorare il titolo dell'array, ignorare il titolo dell'oggetto, convertire la stringa in numero o data, impostare il formato della data e del numero e impostare lo stile del titolo. Tutte queste opzioni ti consentono di presentare i tuoi dati secondo le tue esigenze. Il frammento di codice seguente mostra come impostare le opzioni di layout.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "set-layout-and-parse-json-to-powerpoint.cs" >}}
+{{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "set-layout-and-parse-json-to-powerpoint.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Durante l'analisi da JSON a POTX, puoi anche impostare le opzioni di layout per 
 Utilizzando l'API, puoi anche convertire JSON in POTX con filigrana. Per aggiungere una filigrana al documento POTX, puoi prima analizzare JSON in PPTX e aggiungervi una filigrana. Per aggiungere una filigrana, carica il file PPTX appena creato utilizzando la classe [Presentazione](https://apiference.aspose.com/slides/net/aspose.slides/presentation), seleziona la presentazione principale, aggiungi il tipo di forma utilizzando AddAutoShape e aggiungi il testo della filigrana usando AddTextFrame. Dopo aver aggiunto la filigrana, è possibile salvare il documento su POTX. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

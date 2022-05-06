@@ -1,7 +1,7 @@
 ---
 title: Java API pro převod DOC do XLSM
 description: Převeďte DOC na XLSM přes Java bez použití Microsoft Word nebo Microsoft Excel
-url: /cs/java/conversion/doc-to-xlsm/
+url_ignore: /cs/java/conversion/doc-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

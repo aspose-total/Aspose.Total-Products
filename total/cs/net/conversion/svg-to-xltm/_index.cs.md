@@ -1,7 +1,7 @@
 ---
 title: Převeďte SVG na XLTM přes C# API
 description: C# API pro převod souboru SVG do XLTM bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/svg-to-xltm/
+url_ignore: /cs/net/conversion/svg-to-xltm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してPSをPOTに変換する
 description: MicrosoftWordを使用せずにPSをPOTに変換するJavaAPI
-url: /ja/java/conversion/ps-to-pot/
+url_ignore: /ja/java/conversion/ps-to-pot/
 family: total
 platformtag: net
 feature: conversion

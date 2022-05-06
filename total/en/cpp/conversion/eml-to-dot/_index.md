@@ -1,7 +1,7 @@
 ---
 title: Export EML to DOT via C++
 description: C++ API to Convert EML to DOT without using Microsoft Word or Outlook
-url: /cpp/conversion/eml-to-dot/
+url_ignore: /cpp/conversion/eml-to-dot/
 family: total
 platformtag: cpp
 feature: conversion

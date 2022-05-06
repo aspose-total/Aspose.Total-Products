@@ -1,7 +1,7 @@
 ---
 title: แปลง HTML เป็น SVGZ ผ่าน C# API
 description: ส่งออก HTML เป็น SVGZ ในแอปพลิเคชัน .NET ของคุณโดยไม่ต้องใช้แอปพลิเคชันของบุคคลที่สาม
-url: /th/net/conversion/html-to-svgz/
+url_ignore: /th/net/conversion/html-to-svgz/
 family: total
 platformtag: net
 feature: conversion

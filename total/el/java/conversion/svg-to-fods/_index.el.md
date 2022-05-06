@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση SVG σε FODS
 description: Εξαγωγή SVG σε FODS μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/svg-to-fods/
+url_ignore: /el/java/conversion/svg-to-fods/
 family: total
 platformtag: net
 feature: conversion

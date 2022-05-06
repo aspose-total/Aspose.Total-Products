@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى PCL عبر .NET
 description: تحليل JSON إلى PCL في C# بدون استخدام Microsoft Word
-url: /ar/net/conversion/json-to-pcl/
+url_ignore: /ar/net/conversion/json-to-pcl/
 family: total
 platformtag: net
 feature: conversion

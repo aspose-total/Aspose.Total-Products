@@ -1,7 +1,7 @@
 ---
 title: Exportar MD a POT a través de la API de C#
 description: .NET API para convertir MD a POT sin usar Microsoft Word
-url: /es/net/conversion/md-to-pot/
+url_ignore: /es/net/conversion/md-to-pot/
 family: total
 platformtag: net
 feature: conversion

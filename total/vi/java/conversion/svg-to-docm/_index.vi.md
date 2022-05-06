@@ -1,7 +1,7 @@
 ---
 title: API Java để xuất SVG sang DOCM
 description: Chuyển đổi SVG sang DOCM bằng cách sử dụng API Java tiền đề
-url: /vi/java/conversion/svg-to-docm/
+url_ignore: /vi/java/conversion/svg-to-docm/
 family: total
 platformtag: net
 feature: conversion

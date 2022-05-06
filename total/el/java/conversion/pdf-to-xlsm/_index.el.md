@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση PDF σε XLSM
 description: Εξαγωγή PDF σε XLSM μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/pdf-to-xlsm/
+url_ignore: /el/java/conversion/pdf-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

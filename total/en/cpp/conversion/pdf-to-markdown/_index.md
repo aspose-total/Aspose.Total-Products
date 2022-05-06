@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PDF to MARKDOWN
 description: Convert PDF to MARKDOWN within C++ applications.
-url: /cpp/conversion/pdf-to-markdown/
+url_ignore: /cpp/conversion/pdf-to-markdown/
 family: total
 platformtag: cpp
 feature: conversion

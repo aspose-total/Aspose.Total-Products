@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXPSをXAMLにエクスポートする
 description: MicrosoftWordを使用せずにXPSをXAMLに変換する.NETAPI
-url: /ja/net/conversion/xps-to-xaml/
+url_ignore: /ja/net/conversion/xps-to-xaml/
 family: total
 platformtag: net
 feature: conversion

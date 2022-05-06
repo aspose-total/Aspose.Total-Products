@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı PCL'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan EMAIL'i PCL'ye dönüştürün
-url: /tr/net/conversion/email-to-pcl/
+url_ignore: /tr/net/conversion/email-to-pcl/
 family: total
 platformtag: net
 feature: conversion

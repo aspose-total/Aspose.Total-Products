@@ -1,7 +1,7 @@
 ---
 title: Convierta XPS a PPSM a través de la API de Java
 description: API de Java para convertir XPS a PPSM sin usar Microsoft Word
-url: /es/java/conversion/xps-to-ppsm/
+url_ignore: /es/java/conversion/xps-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

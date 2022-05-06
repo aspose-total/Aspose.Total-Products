@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla PDF'yi XLT'ye dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan PDF Dosyasını XLT'ye Dönüştürmek için C# API'si
-url: /tr/net/conversion/pdf-to-xlt/
+url_ignore: /tr/net/conversion/pdf-to-xlt/
 family: total
 platformtag: net
 feature: conversion

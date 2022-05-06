@@ -1,7 +1,7 @@
 ---
 title: Convert PS to XLSM via C# API
 description: C# API to Convert PS File to XLSM without using Microsoft Excel or Adobe Reader
-url: /net/conversion/ps-to-xlsm/
+url_ignore: /net/conversion/ps-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

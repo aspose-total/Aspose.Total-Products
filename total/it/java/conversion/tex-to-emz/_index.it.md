@@ -1,7 +1,7 @@
 ---
 title: Converti TEX in EMZ tramite Java
 description: Esporta file TEX in EMZ nelle tue applicazioni Java senza utilizzare applicazioni di terze parti
-url: /it/java/conversion/tex-to-emz/
+url_ignore: /it/java/conversion/tex-to-emz/
 family: total
 platformtag: net
 feature: conversion

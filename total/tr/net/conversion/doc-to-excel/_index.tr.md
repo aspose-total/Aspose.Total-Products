@@ -1,7 +1,7 @@
 ---
 title: DOC'yi EXCEL'ye Dönüştürmek için .NET API
 description: Microsoft Excel veya Adobe Reader kullanmadan DOC'yi EXCEL'ye dönüştürmek için C# API'si
-url: /tr/net/conversion/doc-to-excel/
+url_ignore: /tr/net/conversion/doc-to-excel/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API Java para exportar MD para WORDML
 description: Converter MD para WORDML usando a API Java local
-url: /pt/java/conversion/md-to-wordml/
+url_ignore: /pt/java/conversion/md-to-wordml/
 family: total
 platformtag: net
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Преобразование DOC в PPT через C# .NET 
-url: /ru/net/conversion/doc-to-ppt/ 
+url_ignore: /ru/net/conversion/doc-to-ppt/ 
 description: Преобразование документов Word doc в файлы PowerPoint ppt с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Java API لتحويل DOTM إلى ODS
 description: قم بتحويل DOTM إلى ODS عبر Java دون استخدام Microsoft Word أو Microsoft Excel
-url: /ar/java/conversion/dotm-to-ods/
+url_ignore: /ar/java/conversion/dotm-to-ods/
 family: total
 platformtag: net
 feature: conversion

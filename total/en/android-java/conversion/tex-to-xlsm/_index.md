@@ -1,7 +1,7 @@
 ---
 title: Convert TEX to XLSM in Android via Java
 description: Render TEX to XLSM in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/tex-to-xlsm/
+url_ignore: /android-java/conversion/tex-to-xlsm/
 family: total
 platformtag: android-java
 feature: conversion

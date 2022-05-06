@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to PPTX via C++
 description: Export DOT to PPTX in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/dot-to-pptx/
+url_ignore: /cpp/conversion/dot-to-pptx/
 family: total
 platformtag: cpp
 feature: conversion

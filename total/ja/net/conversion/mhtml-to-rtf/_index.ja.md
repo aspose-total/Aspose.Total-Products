@@ -1,7 +1,7 @@
 ---
 title: MHTMLをRTFにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにMHTMLをRTFに変換する
-url: /ja/net/conversion/mhtml-to-rtf/
+url_ignore: /ja/net/conversion/mhtml-to-rtf/
 family: total
 platformtag: net
 feature: conversion

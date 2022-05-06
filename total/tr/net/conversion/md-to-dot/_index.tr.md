@@ -1,7 +1,7 @@
 ---
 title: MD'yi DOT'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan MD'yi DOT'ye dönüştürün
-url: /tr/net/conversion/md-to-dot/
+url_ignore: /tr/net/conversion/md-to-dot/
 family: total
 platformtag: net
 feature: conversion

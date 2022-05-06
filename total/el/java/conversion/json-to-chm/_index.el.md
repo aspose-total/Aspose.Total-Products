@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή μορφής JSON σε CHM μέσω Java
 description: Ανάλυση JSON σε CHM σε Java χωρίς χρήση του Microsoft Word
-url: /el/java/conversion/json-to-chm/
+url_ignore: /el/java/conversion/json-to-chm/
 family: total
 platformtag: net
 feature: conversion

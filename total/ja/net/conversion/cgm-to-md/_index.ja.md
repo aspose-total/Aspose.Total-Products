@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してCGMをMDに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにCGMファイルをMDに変換するC＃API
-url: /ja/net/conversion/cgm-to-md/
+url_ignore: /ja/net/conversion/cgm-to-md/
 family: total
 platformtag: net
 feature: conversion

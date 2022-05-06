@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से JSON प्रारूप को POWERPOINT में बदलें
 description: Microsoft PowerPoint का उपयोग किए बिना जावा में JSON को POWERPOINT में पार्स करें
-url: /hi/java/conversion/json-to-powerpoint/
+url_ignore: /hi/java/conversion/json-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

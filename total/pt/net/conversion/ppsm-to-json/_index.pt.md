@@ -1,7 +1,7 @@
 ---
 title: Converter formato PPSM para JSON via .NET
 description: Converter PPSM para JSON em C# sem usar o Microsoft Excel ou Powerpoint
-url: /pt/net/conversion/ppsm-to-json/
+url_ignore: /pt/net/conversion/ppsm-to-json/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Převést POT na CSV přes C#
 description: Převeďte POT na CSV v C# bez použití Microsoft Excel nebo Powerpoint
-url: /cs/net/conversion/pot-to-csv/
+url_ignore: /cs/net/conversion/pot-to-csv/
 family: total
 platformtag: net
 feature: conversion

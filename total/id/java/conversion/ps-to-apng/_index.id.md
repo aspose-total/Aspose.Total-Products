@@ -1,7 +1,7 @@
 ---
 title: Konversi PS ke APNG melalui Java
 description: Ekspor file PS ke APNG di aplikasi Java Anda tanpa menggunakan aplikasi pihak ketiga
-url: /id/java/conversion/ps-to-apng/
+url_ignore: /id/java/conversion/ps-to-apng/
 family: total
 platformtag: net
 feature: conversion

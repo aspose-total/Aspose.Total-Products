@@ -1,6 +1,6 @@
 ---
 title: Преобразование POTX в ODT через C# .NET 
-url: /ru/net/conversion/potx-to-odt/ 
+url_ignore: /ru/net/conversion/potx-to-odt/ 
 description: Преобразование документов PowerPoint potx в файлы документов Word с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

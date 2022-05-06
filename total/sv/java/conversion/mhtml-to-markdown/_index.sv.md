@@ -1,7 +1,7 @@
 ---
 title: Java API för att exportera MHTML till MARKDOWN
 description: Konvertera MHTML till MARKDOWN med hjälp av det lokala Java API
-url: /sv/java/conversion/mhtml-to-markdown/
+url_ignore: /sv/java/conversion/mhtml-to-markdown/
 family: total
 platformtag: net
 feature: conversion

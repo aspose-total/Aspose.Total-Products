@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга XML в XLT
 description: Экспорт XML в XLT через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/xml-to-xlt/
+url_ignore: /ru/java/conversion/xml-to-xlt/
 family: total
 platformtag: net
 feature: conversion

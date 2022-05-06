@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してXSLFOをPPSに変換する
 description: MicrosoftWordを使用せずにXSLFOをPPSに変換するJavaAPI
-url: /ja/java/conversion/xslfo-to-pps/
+url_ignore: /ja/java/conversion/xslfo-to-pps/
 family: total
 platformtag: net
 feature: conversion

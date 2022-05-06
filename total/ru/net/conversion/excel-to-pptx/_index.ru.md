@@ -1,7 +1,7 @@
 ---
 title: Преобразование EXCEL в PPTX с помощью .NET 
 description: Преобразование EXCEL в PPTX на платформах .NET Framework, .NET Core, Mono или Xamarin
-url: /ru/net/conversion/excel-to-pptx/
+url_ignore: /ru/net/conversion/excel-to-pptx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení PDF do XLTM
 description: Export PDF do XLTM přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/pdf-to-xltm/
+url_ignore: /cs/java/conversion/pdf-to-xltm/
 family: total
 platformtag: net
 feature: conversion

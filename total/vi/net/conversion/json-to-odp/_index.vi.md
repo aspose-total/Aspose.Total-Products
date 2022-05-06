@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi định dạng JSON sang ODP qua .NET
 description: Phân tích cú pháp JSON thành ODP trong C# mà không cần sử dụng Microsoft PowerPoint
-url: /vi/net/conversion/json-to-odp/
+url_ignore: /vi/net/conversion/json-to-odp/
 family: total
 platformtag: net
 feature: conversion

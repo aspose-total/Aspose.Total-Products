@@ -1,7 +1,7 @@
 ---
 title: C# API pro export EMLX do WORD
 description: Převeďte EMLX na WORD bez použití Microsoft Word nebo Outlook na .NET
-url: /cs/net/conversion/emlx-to-word/
+url_ignore: /cs/net/conversion/emlx-to-word/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPOTをMARKDOWNに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPOTをMARKDOWNに変換する
-url: /ja/net/conversion/pot-to-markdown/
+url_ignore: /ja/net/conversion/pot-to-markdown/
 family: total
 platformtag: net
 feature: conversion

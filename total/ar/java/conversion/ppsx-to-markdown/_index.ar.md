@@ -1,7 +1,7 @@
 ---
 title: تحويل PPSX إلى تنسيق MARKDOWN عبر Java
 description: قم بتحويل PPSX إلى تنسيق MARKDOWN عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/ppsx-to-markdown/
+url_ignore: /ar/java/conversion/ppsx-to-markdown/
 family: total
 platformtag: net
 feature: conversion

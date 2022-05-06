@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга XPS в XLAM
 description: Экспорт XPS в XLAM через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/xps-to-xlam/
+url_ignore: /ru/java/conversion/xps-to-xlam/
 family: total
 platformtag: net
 feature: conversion

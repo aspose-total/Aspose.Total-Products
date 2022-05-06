@@ -1,7 +1,7 @@
 ---
 title: API .NET per convertire DOCX in TSV
 description: API C# per convertire DOCX in TSV senza utilizzare Microsoft Excel o Adobe Reader
-url: /it/net/conversion/docx-to-tsv/
+url_ignore: /it/net/conversion/docx-to-tsv/
 family: total
 platformtag: net
 feature: conversion

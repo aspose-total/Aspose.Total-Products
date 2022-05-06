@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPOWERPOINTをSXCに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPOWERPOINTをSXCに変換する
-url: /ja/net/conversion/powerpoint-to-sxc/
+url_ignore: /ja/net/conversion/powerpoint-to-sxc/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert PPSX to JSON format via C++ 
 description: Export PPSX to JSON format in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/ppsx-to-json/
+url_ignore: /cpp/conversion/ppsx-to-json/
 family: total
 platformtag: cpp
 feature: conversion

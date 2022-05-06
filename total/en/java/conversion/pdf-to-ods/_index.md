@@ -1,7 +1,7 @@
 ---
 title: Java API to Render PDF to ODS
 description: Export PDF to ODS via Java API without using Microsoft Excel or Adobe Reader
-url: /java/conversion/pdf-to-ods/
+url_ignore: /java/conversion/pdf-to-ods/
 family: total
 platformtag: java
 feature: conversion

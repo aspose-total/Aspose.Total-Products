@@ -1,7 +1,7 @@
 ---
 title: Exportar MSG a SVG a través de Java
 description: API de Java para convertir MSG a SVG sin usar Microsoft Word o Outlook
-url: /es/java/conversion/msg-to-svg/
+url_ignore: /es/java/conversion/msg-to-svg/
 family: total
 platformtag: net
 feature: conversion

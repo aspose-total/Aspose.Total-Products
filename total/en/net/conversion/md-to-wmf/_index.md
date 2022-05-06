@@ -1,7 +1,7 @@
 ---
 title: Convert MD to WMF via C# API
 description: Export MD to WMF in your .NET applications without using any third party application 
-url: /net/conversion/md-to-wmf/
+url_ignore: /net/conversion/md-to-wmf/
 family: total
 platformtag: net
 feature: conversion

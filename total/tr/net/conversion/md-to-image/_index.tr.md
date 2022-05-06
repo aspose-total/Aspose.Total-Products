@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla MD'yi IMAGE'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan MD'yi .NET uygulamalarınızda IMAGE'ye aktarın
-url: /tr/net/conversion/md-to-image/
+url_ignore: /tr/net/conversion/md-to-image/
 family: total
 platformtag: net
 feature: conversion

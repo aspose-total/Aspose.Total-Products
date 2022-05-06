@@ -1,7 +1,7 @@
 ---
 title: Converti PCL in TGA tramite API C#
 description: Esporta PCL in TGA nelle tue applicazioni .NET senza utilizzare applicazioni di terze parti
-url: /it/net/conversion/pcl-to-tga/
+url_ignore: /it/net/conversion/pcl-to-tga/
 family: total
 platformtag: net
 feature: conversion

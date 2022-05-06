@@ -1,7 +1,7 @@
 ---
 title: Export MHTML do POWERPOINT přes C# API
 description: .NET API pro převod MHTML na POWERPOINT bez použití aplikace Microsoft Word
-url: /cs/net/conversion/mhtml-to-powerpoint/
+url_ignore: /cs/net/conversion/mhtml-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

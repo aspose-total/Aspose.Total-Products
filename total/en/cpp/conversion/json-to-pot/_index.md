@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to POT via C++ 
 description: Parse JSON to POT in C++ without using Microsoft PowerPoint
-url: /cpp/conversion/json-to-pot/
+url_ignore: /cpp/conversion/json-to-pot/
 family: total
 platformtag: cpp
 feature: conversion

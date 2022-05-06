@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก PCL ไปยัง XAMLFLOW
 description: แปลง PCL เป็น XAMLFLOW โดยไม่ต้องใช้ Microsoft Word
-url: /th/net/conversion/pcl-to-xamlflow/
+url_ignore: /th/net/conversion/pcl-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση MD σε TXT
 description: Εξαγωγή MD σε TXT μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/md-to-txt/
+url_ignore: /el/java/conversion/md-to-txt/
 family: total
 platformtag: net
 feature: conversion

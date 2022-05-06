@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla CGM'yi SXC'ye dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan CGM Dosyasını SXC'ye Dönüştürmek için C# API'si
-url: /tr/net/conversion/cgm-to-sxc/
+url_ignore: /tr/net/conversion/cgm-to-sxc/
 family: total
 platformtag: net
 feature: conversion

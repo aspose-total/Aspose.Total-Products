@@ -1,7 +1,7 @@
 ---
 title: Convert ODT to PPT via C++
 description: Export ODT to PPT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/odt-to-ppt/
+url_ignore: /cpp/conversion/odt-to-ppt/
 family: total
 platformtag: cpp
 feature: conversion

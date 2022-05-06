@@ -1,7 +1,7 @@
 ---
 title: Convert POWERPOINT to ODS via C++ 
 description: Export POWERPOINT to ODS in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/powerpoint-to-ods/
+url_ignore: /cpp/conversion/powerpoint-to-ods/
 family: total
 platformtag: cpp
 feature: conversion

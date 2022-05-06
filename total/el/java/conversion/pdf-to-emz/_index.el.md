@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή PDF σε EMZ μέσω Java
 description: Εξαγωγή αρχείου PDF σε EMZ στις εφαρμογές σας Java χωρίς να χρησιμοποιήσετε καμία εφαρμογή τρίτου μέρους
-url: /el/java/conversion/pdf-to-emz/
+url_ignore: /el/java/conversion/pdf-to-emz/
 family: total
 platformtag: net
 feature: conversion

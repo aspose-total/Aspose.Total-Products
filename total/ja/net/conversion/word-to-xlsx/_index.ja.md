@@ -1,7 +1,7 @@
 ---
 title: WORDをXLSXに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにWORDをXLSXに変換するC＃API
-url: /ja/net/conversion/word-to-xlsx/
+url_ignore: /ja/net/conversion/word-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

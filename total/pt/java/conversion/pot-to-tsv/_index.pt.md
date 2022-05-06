@@ -1,7 +1,7 @@
 ---
 title: Converter POT para formato TSV via Java
 description: Converta o formato POT para TSV via Java sem usar o Microsoft Excel ou PowerPoint
-url: /pt/java/conversion/pot-to-tsv/
+url_ignore: /pt/java/conversion/pot-to-tsv/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert PS to DIF in Android via Java
 description: Render PS to DIF in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/ps-to-dif/
+url_ignore: /android-java/conversion/ps-to-dif/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to PPSM via C++ 
 description: Parse JSON to PPSM in C++ without using Microsoft PowerPoint
-url: /cpp/conversion/json-to-ppsm/
+url_ignore: /cpp/conversion/json-to-ppsm/
 family: total
 platformtag: cpp
 feature: conversion

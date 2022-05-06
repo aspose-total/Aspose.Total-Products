@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert SVG to POWERPOINT  
 description: Convert SVG to POWERPOINT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/svg-to-powerpoint/
+url_ignore: /cpp/conversion/svg-to-powerpoint/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PCL to OTT
 description: Transform PCL to OTT via Android via Java API
-url: /android-java/conversion/pcl-to-ott/
+url_ignore: /android-java/conversion/pcl-to-ott/
 family: total
 platformtag: android-java
 feature: conversion

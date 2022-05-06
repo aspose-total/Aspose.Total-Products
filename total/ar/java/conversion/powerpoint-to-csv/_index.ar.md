@@ -1,7 +1,7 @@
 ---
 title: تحويل POWERPOINT إلى تنسيق CSV عبر Java
 description: قم بتحويل POWERPOINT إلى تنسيق CSV عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/powerpoint-to-csv/
+url_ignore: /ar/java/conversion/powerpoint-to-csv/
 family: total
 platformtag: net
 feature: conversion

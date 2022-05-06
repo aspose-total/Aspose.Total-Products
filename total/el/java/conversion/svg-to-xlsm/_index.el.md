@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση SVG σε XLSM
 description: Εξαγωγή SVG σε XLSM μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/svg-to-xlsm/
+url_ignore: /el/java/conversion/svg-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

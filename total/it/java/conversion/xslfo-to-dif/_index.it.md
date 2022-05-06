@@ -1,7 +1,7 @@
 ---
 title: API Java per il rendering da XSLFO a DIF
 description: Esporta XSLFO in DIF tramite API Java senza utilizzare Microsoft Excel o Adobe Reader
-url: /it/java/conversion/xslfo-to-dif/
+url_ignore: /it/java/conversion/xslfo-to-dif/
 family: total
 platformtag: net
 feature: conversion

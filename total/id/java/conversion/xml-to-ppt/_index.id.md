@@ -1,7 +1,7 @@
 ---
 title: Konversi XML ke PPT melalui Java API
 description: Java API untuk Mengonversi XML ke PPT tanpa menggunakan Microsoft Word
-url: /id/java/conversion/xml-to-ppt/
+url_ignore: /id/java/conversion/xml-to-ppt/
 family: total
 platformtag: net
 feature: conversion

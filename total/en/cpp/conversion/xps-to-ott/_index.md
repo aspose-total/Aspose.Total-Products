@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export XPS to OTT
 description: Convert XPS to OTT within C++ applications.
-url: /cpp/conversion/xps-to-ott/
+url_ignore: /cpp/conversion/xps-to-ott/
 family: total
 platformtag: cpp
 feature: conversion

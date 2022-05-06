@@ -1,7 +1,7 @@
 ---
 title: Convert PS to DXF via Java
 description: Export PS file to DXF  in your Java applications without using any third party application 
-url: /java/conversion/ps-to-dxf/
+url_ignore: /java/conversion/ps-to-dxf/
 family: total
 platformtag: java
 feature: conversion

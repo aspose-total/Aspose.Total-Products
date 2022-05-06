@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPSをSWFにエクスポートする
 description: MicrosoftWordを使用せずにPSをSWFに変換する.NETAPI
-url: /ja/net/conversion/ps-to-swf/
+url_ignore: /ja/net/conversion/ps-to-swf/
 family: total
 platformtag: net
 feature: conversion

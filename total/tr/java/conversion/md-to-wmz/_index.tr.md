@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla MD'yi WMZ'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan MD dosyasını Java uygulamalarınızda WMZ'ye aktarın
-url: /tr/java/conversion/md-to-wmz/
+url_ignore: /tr/java/conversion/md-to-wmz/
 family: total
 platformtag: net
 feature: conversion

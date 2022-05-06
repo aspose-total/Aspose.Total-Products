@@ -1,7 +1,7 @@
 ---
 title: DOCをXLTXに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにDOCをXLTXに変換するC＃API
-url: /ja/net/conversion/doc-to-xltx/
+url_ignore: /ja/net/conversion/doc-to-xltx/
 family: total
 platformtag: net
 feature: conversion

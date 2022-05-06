@@ -1,7 +1,7 @@
 ---
 title: Преобразование формата JSON в EMZ через .NET
 description: Разбирать JSON в EMZ на C# без использования сторонних зависимостей
-url: /ru/net/conversion/json-to-emz/
+url_ignore: /ru/net/conversion/json-to-emz/
 family: total
 platformtag: net
 feature: conversion

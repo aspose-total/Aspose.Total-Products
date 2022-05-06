@@ -1,7 +1,7 @@
 ---
 title: Android API to Render SVG to DOCM
 description: Transform SVG to DOCM via Android via Java API
-url: /android-java/conversion/svg-to-docm/
+url_ignore: /android-java/conversion/svg-to-docm/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convierta CGM a XLSB a través de la API de C#
 description: API C# para convertir archivos CGM a XLSB sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/cgm-to-xlsb/
+url_ignore: /es/net/conversion/cgm-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PDF na JPEG2000 przez Java
 description: Eksportuj plik PDF do JPEG2000 w swoich aplikacjach Java bez korzystania z aplikacji innych firm
-url: /pl/java/conversion/pdf-to-jpeg2000/
+url_ignore: /pl/java/conversion/pdf-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

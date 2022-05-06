@@ -1,7 +1,7 @@
 ---
 title: Převeďte formát JSON na PPSX přes .NET
 description: Analyzujte JSON na PPSX v C# bez použití Microsoft PowerPoint
-url: /cs/net/conversion/json-to-ppsx/
+url_ignore: /cs/net/conversion/json-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

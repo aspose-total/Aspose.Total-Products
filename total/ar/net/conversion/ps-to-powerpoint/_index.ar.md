@@ -1,7 +1,7 @@
 ---
 title: تصدير PS إلى POWERPOINT عبر C# API
 description: NET API لتحويل PS إلى POWERPOINT دون استخدام Microsoft Word
-url: /ar/net/conversion/ps-to-powerpoint/
+url_ignore: /ar/net/conversion/ps-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

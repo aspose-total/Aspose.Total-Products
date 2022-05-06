@@ -1,7 +1,7 @@
 ---
 title: Javaを使用してCSVをWORDに変換する
 description: ExcelまたはWordを使用してCSVをWORDにエクスポートするJavaAPI
-url: /ja/java/conversion/csv-to-word/
+url_ignore: /ja/java/conversion/csv-to-word/
 family: total
 platformtag: net
 feature: conversion

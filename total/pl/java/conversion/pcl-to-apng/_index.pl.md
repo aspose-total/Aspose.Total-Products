@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PCL na APNG przez Java
 description: Eksportuj plik PCL do APNG w swoich aplikacjach Java bez korzystania z aplikacji innych firm
-url: /pl/java/conversion/pcl-to-apng/
+url_ignore: /pl/java/conversion/pcl-to-apng/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Android API to Render MD to ODT
 description: Transform MD to ODT via Android via Java API
-url: /android-java/conversion/md-to-odt/
+url_ignore: /android-java/conversion/md-to-odt/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konwertuj MHTML na SVGZ przez Java
 description: Eksportuj plik MHTML do SVGZ w swoich aplikacjach Java bez korzystania z aplikacji innych firm
-url: /pl/java/conversion/mhtml-to-svgz/
+url_ignore: /pl/java/conversion/mhtml-to-svgz/
 family: total
 platformtag: net
 feature: conversion

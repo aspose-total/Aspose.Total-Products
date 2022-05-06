@@ -1,7 +1,7 @@
 ---
 title: Java経由でMSGをJPEGにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにMSGをJPEGに変換するJavaAPI
-url: /ja/java/conversion/msg-to-jpeg/
+url_ignore: /ja/java/conversion/msg-to-jpeg/
 family: total
 platformtag: net
 feature: conversion

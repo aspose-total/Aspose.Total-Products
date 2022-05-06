@@ -1,7 +1,7 @@
 ---
 title: Export EML to OTT via C++
 description: C++ API to Convert EML to OTT without using Microsoft Word or Outlook
-url: /cpp/conversion/eml-to-ott/
+url_ignore: /cpp/conversion/eml-to-ott/
 family: total
 platformtag: cpp
 feature: conversion

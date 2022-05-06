@@ -1,7 +1,7 @@
 ---
 title: Convert SVG to CSV in Android via Java
 description: Render SVG to CSV in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/svg-to-csv/
+url_ignore: /android-java/conversion/svg-to-csv/
 family: total
 platformtag: android-java
 feature: conversion

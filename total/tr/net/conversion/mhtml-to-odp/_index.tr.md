@@ -1,7 +1,7 @@
 ---
 title: MHTML'yi C# API aracılığıyla ODP'ye aktarın
 description: Microsoft Word kullanmadan MHTML'yi ODP'ye dönüştürmek için .NET API
-url: /tr/net/conversion/mhtml-to-odp/
+url_ignore: /tr/net/conversion/mhtml-to-odp/
 family: total
 platformtag: net
 feature: conversion

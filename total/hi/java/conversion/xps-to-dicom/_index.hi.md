@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से सीजीएम को एपीएनजी में कनवर्ट करें
 description: किसी भी तृतीय पक्ष एप्लिकेशन का उपयोग किए बिना अपने जावा एप्लिकेशन में XPS फ़ाइल को DICOM में निर्यात करें
-url: /hi/java/conversion/xps-to-dicom/
+url_ignore: /hi/java/conversion/xps-to-dicom/
 family: total
 platformtag: net
 feature: conversion

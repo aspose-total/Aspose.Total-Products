@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга PDF в MD
 description: Экспорт PDF в MD через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/pdf-to-md/
+url_ignore: /ru/java/conversion/pdf-to-md/
 family: total
 platformtag: net
 feature: conversion

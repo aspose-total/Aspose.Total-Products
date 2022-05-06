@@ -1,7 +1,7 @@
 ---
 title: Převeďte DOC do formátu JSON přes Java
 description: Převeďte DOC do formátu JSON přes Java bez použití Microsoft Word nebo Microsoft Excel
-url: /cs/java/conversion/doc-to-json/
+url_ignore: /cs/java/conversion/doc-to-json/
 family: total
 platformtag: net
 feature: conversion

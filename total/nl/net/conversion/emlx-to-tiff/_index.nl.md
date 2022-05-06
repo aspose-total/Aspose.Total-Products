@@ -1,7 +1,7 @@
 ---
 title: C# API om EMLX naar TIFF te exporteren
 description: Converteer EMLX naar TIFF zonder Microsoft Word of Outlook te gebruiken op .NET
-url: /nl/net/conversion/emlx-to-tiff/
+url_ignore: /nl/net/conversion/emlx-to-tiff/
 family: total
 platformtag: net
 feature: conversion

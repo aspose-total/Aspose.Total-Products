@@ -1,7 +1,7 @@
 ---
 title: Преобразование ODS в WORD с помощью .NET 
 description: Преобразование ODS в WORD на платформах .NET Framework, .NET Core, Mono или Xamarin
-url: /ru/net/conversion/ods-to-word/
+url_ignore: /ru/net/conversion/ods-to-word/
 family: total
 platformtag: net
 feature: conversion

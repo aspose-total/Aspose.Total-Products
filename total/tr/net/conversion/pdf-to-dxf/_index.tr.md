@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla PDF'yi DXF'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan PDF'yi .NET uygulamalarınızda DXF'ye aktarın
-url: /tr/net/conversion/pdf-to-dxf/
+url_ignore: /tr/net/conversion/pdf-to-dxf/
 family: total
 platformtag: net
 feature: conversion

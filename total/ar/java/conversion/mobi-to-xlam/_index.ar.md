@@ -1,7 +1,7 @@
 ---
 title: Java API لتحويل MOBI إلى XLAM
 description: قم بتحويل MOBI إلى XLAM عبر Java دون استخدام Microsoft Word أو Microsoft Excel
-url: /ar/java/conversion/mobi-to-xlam/
+url_ignore: /ar/java/conversion/mobi-to-xlam/
 family: total
 platformtag: net
 feature: conversion

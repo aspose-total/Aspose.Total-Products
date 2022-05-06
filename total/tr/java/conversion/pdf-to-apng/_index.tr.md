@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla PDF'yi APNG'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan PDF dosyasını Java uygulamalarınızda APNG'ye aktarın
-url: /tr/java/conversion/pdf-to-apng/
+url_ignore: /tr/java/conversion/pdf-to-apng/
 family: total
 platformtag: net
 feature: conversion

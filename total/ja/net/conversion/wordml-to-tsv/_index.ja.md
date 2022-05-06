@@ -1,7 +1,7 @@
 ---
 title: WORDMLをTSVに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにWORDMLをTSVに変換するC＃API
-url: /ja/net/conversion/wordml-to-tsv/
+url_ignore: /ja/net/conversion/wordml-to-tsv/
 family: total
 platformtag: net
 feature: conversion

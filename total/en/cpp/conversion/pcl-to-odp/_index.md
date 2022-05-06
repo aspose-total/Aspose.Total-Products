@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PCL to ODP  
 description: Convert PCL to ODP via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/pcl-to-odp/
+url_ignore: /cpp/conversion/pcl-to-odp/
 family: total
 platformtag: cpp
 feature: conversion

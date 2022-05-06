@@ -1,7 +1,7 @@
 ---
 title: Ekspor EMAIL ke WORD melalui Java
 description: Java API untuk Mengonversi EMAIL ke WORD tanpa menggunakan Microsoft Word atau Outlook
-url: /id/java/conversion/email-to-word/
+url_ignore: /id/java/conversion/email-to-word/
 family: total
 platformtag: net
 feature: conversion

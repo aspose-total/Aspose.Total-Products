@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPSをDXFに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでPSをDXFにエクスポートします
-url: /ja/net/conversion/ps-to-dxf/
+url_ignore: /ja/net/conversion/ps-to-dxf/
 family: total
 platformtag: net
 feature: conversion

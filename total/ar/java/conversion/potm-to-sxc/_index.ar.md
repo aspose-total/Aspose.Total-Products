@@ -1,7 +1,7 @@
 ---
 title: تحويل POTM إلى تنسيق SXC عبر Java
 description: قم بتحويل POTM إلى تنسيق SXC عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/potm-to-sxc/
+url_ignore: /ar/java/conversion/potm-to-sxc/
 family: total
 platformtag: net
 feature: conversion

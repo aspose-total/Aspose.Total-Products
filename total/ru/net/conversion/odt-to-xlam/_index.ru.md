@@ -1,7 +1,7 @@
 ---
 title: .NET API для преобразования ODT в XLAM
 description: C# API для преобразования ODT в XLAM без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/odt-to-xlam/
+url_ignore: /ru/net/conversion/odt-to-xlam/
 family: total
 platformtag: net
 feature: conversion

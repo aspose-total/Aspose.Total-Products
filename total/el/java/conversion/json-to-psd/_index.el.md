@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή μορφής JSON σε PSD μέσω Java
 description: Ανάλυση JSON σε PSD σε Java χωρίς χρήση του Microsoft PowerPoint
-url: /el/java/conversion/json-to-psd/
+url_ignore: /el/java/conversion/json-to-psd/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PPSX to OTT 
 description: Export PPSX to OTT within your C++ applications 
-url: /cpp/conversion/ppsx-to-ott/
+url_ignore: /cpp/conversion/ppsx-to-ott/
 family: total
 platformtag: cpp
 feature: conversion

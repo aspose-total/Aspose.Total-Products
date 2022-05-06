@@ -1,7 +1,7 @@
 ---
 title: .NETを介してJSON形式をWORDMLに変換する
 description: Microsoft Wordを使用せずにC＃でJSONをWORDMLに解析する
-url: /ja/net/conversion/json-to-wordml/
+url_ignore: /ja/net/conversion/json-to-wordml/
 family: total
 platformtag: net
 feature: conversion

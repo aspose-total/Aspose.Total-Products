@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก CGM ไปยัง FLATOPC
 description: แปลง CGM เป็น FLATOPC โดยไม่ต้องใช้ Microsoft Word
-url: /th/net/conversion/cgm-to-flatopc/
+url_ignore: /th/net/conversion/cgm-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

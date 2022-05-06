@@ -1,7 +1,7 @@
 ---
 title: Convert DOT to XLT via Java
 description: Convert DOT to XLT via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/dot-to-xlt/
+url_ignore: /java/conversion/dot-to-xlt/
 family: total
 platformtag: java
 feature: conversion

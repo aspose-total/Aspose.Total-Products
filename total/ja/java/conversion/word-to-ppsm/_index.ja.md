@@ -1,7 +1,7 @@
 ---
 title: Java経由でWORDをPPSMに変換する
 description: MicrosoftWordやPowerPointを使用せずにWORDをPPSMにエクスポートするJavaAPI
-url: /ja/java/conversion/word-to-ppsm/
+url_ignore: /ja/java/conversion/word-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

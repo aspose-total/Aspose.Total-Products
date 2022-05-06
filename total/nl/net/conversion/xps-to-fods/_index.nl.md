@@ -1,7 +1,7 @@
 ---
 title: Converteer XPS naar FODS via C# API
 description: C# API om XPS-bestand naar FODS te converteren zonder Microsoft Excel of Adobe Reader te gebruiken
-url: /nl/net/conversion/xps-to-fods/
+url_ignore: /nl/net/conversion/xps-to-fods/
 family: total
 platformtag: net
 feature: conversion
@@ -33,7 +33,8 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-pdf-to-excel.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -41,7 +42,8 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 Als uw XPS-document met een wachtwoord is beveiligd, kunt u het niet converteren naar FODS zonder het wachtwoord. Met behulp van de API kunt u eerst het beveiligde document openen met een geldig wachtwoord en het daarna converteren. Om het versleutelde bestand te openen, kunt u een nieuwe instantie van de klasse [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) initialiseren en de bestandsnaam en het wachtwoord als argumenten doorgeven.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-password-protected-pdf-to-excel.cs" >}}
+{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-password-protected-pdf-to-excel.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Als uw XPS-document met een wachtwoord is beveiligd, kunt u het niet converteren
 Tijdens het converteren van het XPS-bestand naar FODS, kunt u ook een watermerk toevoegen aan uw uitvoer-FODS-bestandsformaat. Om een watermerk toe te voegen, kunt u een nieuw werkmapobject maken en het geconverteerde XLSX-document openen, Werkblad selecteren via de index, een vorm maken en de functie AddTextEffect gebruiken. Daarna kunt u uw XLSX-document opslaan als FODS met Watermark. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-pdf-to-excel-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-pdf-to-excel-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

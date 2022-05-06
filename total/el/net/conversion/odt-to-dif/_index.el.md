@@ -1,7 +1,7 @@
 ---
 title: .NET API για μετατροπή ODT σε DIF
 description: C# API για μετατροπή ODT σε DIF χωρίς χρήση Microsoft Excel ή Adobe Reader
-url: /el/net/conversion/odt-to-dif/
+url_ignore: /el/net/conversion/odt-to-dif/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ otherformats: XLSM XLS XLSX ODS SXC XLTM TSV XLTX XLAM EXCEL XLSB DIF XLT FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Προσθήκη προσαρμοσμένων ιδιοτήτων σε αρχείο DIF μέσω C#" %}}
 Κατά τη μετατροπή του ODT σε DIF, το [Aspose.Cells για .NET](https://products.aspose.com/cells/net/) σάς δίνει τη δυνατότητα να προσθέσετε προσαρμοσμένες ιδιότητες στα έγγραφά σας DIF. Για να προσθέσετε μια προσαρμοσμένη ιδιότητα, μπορείτε να χρησιμοποιήσετε τη μέθοδο [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customodtumentpropertycollection/methods/add/index) για το [CustomOdtumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customodtumentpropertycollection) τάξη. Η μέθοδος Προσθήκη προσθέτει την ιδιότητα στο αρχείο Excel και επιστρέφει μια αναφορά για την ιδιότητα του νέου εγγράφου ως [Aspose.Cells.Properties.OdtumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /odtumentproperty) αντικείμενο. 
 {{% blocks/products/pf/feature-page-code %}}

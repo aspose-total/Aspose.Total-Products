@@ -1,7 +1,7 @@
 ---
 title: EMLX'i Java aracılığıyla WORD'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan EMLX'i WORD'ye Dönüştürmek için Java API
-url: /tr/java/conversion/emlx-to-word/
+url_ignore: /tr/java/conversion/emlx-to-word/
 family: total
 platformtag: net
 feature: conversion

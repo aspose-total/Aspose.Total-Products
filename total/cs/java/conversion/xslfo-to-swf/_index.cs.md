@@ -1,7 +1,7 @@
 ---
 title: Převeďte XSLFO na SWF přes Java API
 description: Java API pro převod XSLFO na SWF bez použití aplikace Microsoft Word
-url: /cs/java/conversion/xslfo-to-swf/
+url_ignore: /cs/java/conversion/xslfo-to-swf/
 family: total
 platformtag: net
 feature: conversion

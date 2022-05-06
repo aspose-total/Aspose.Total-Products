@@ -1,7 +1,7 @@
 ---
 title: MHTML'yi C# API aracılığıyla PPTM'ye aktarın
 description: Microsoft Word kullanmadan MHTML'yi PPTM'ye dönüştürmek için .NET API
-url: /tr/net/conversion/mhtml-to-pptm/
+url_ignore: /tr/net/conversion/mhtml-to-pptm/
 family: total
 platformtag: net
 feature: conversion

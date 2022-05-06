@@ -1,7 +1,7 @@
 ---
 title: Konversi Format JSON ke PPT melalui .NET
 description: Parsing JSON ke PPT dalam C# tanpa menggunakan Microsoft PowerPoint
-url: /id/net/conversion/json-to-ppt/
+url_ignore: /id/net/conversion/json-to-ppt/
 family: total
 platformtag: net
 feature: conversion

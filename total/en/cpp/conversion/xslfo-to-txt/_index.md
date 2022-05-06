@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XSLFO to TXT
 description: Convert XSLFO to TXT via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xslfo-to-txt/
+url_ignore: /cpp/conversion/xslfo-to-txt/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก PS ไปยัง GIF
 description: แปลง PS เป็น GIF โดยไม่ต้องใช้ Microsoft Word
-url: /th/net/conversion/ps-to-gif/
+url_ignore: /th/net/conversion/ps-to-gif/
 family: total
 platformtag: net
 feature: conversion

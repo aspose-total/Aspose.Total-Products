@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PS to PPTM  
 description: Convert PS to PPTM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/ps-to-pptm/
+url_ignore: /cpp/conversion/ps-to-pptm/
 family: total
 platformtag: cpp
 feature: conversion

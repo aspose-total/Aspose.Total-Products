@@ -1,7 +1,7 @@
 ---
 title: API de Java para convertir OTT a XLSM
 description: Convierta OTT a XLSM a través de Java sin usar Microsoft Word o Microsoft Excel
-url: /es/java/conversion/ott-to-xlsm/
+url_ignore: /es/java/conversion/ott-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

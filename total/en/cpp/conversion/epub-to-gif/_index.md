@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export EPUB to GIF
 description: Convert EPUB to GIF within C++ applications.
-url: /cpp/conversion/epub-to-gif/
+url_ignore: /cpp/conversion/epub-to-gif/
 family: total
 platformtag: cpp
 feature: conversion

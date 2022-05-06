@@ -1,7 +1,7 @@
 ---
 title: Экспорт PS в POTX через C# API
 description: .NET API для преобразования PS в POTX без использования Microsoft Word
-url: /ru/net/conversion/ps-to-potx/
+url_ignore: /ru/net/conversion/ps-to-potx/
 family: total
 platformtag: net
 feature: conversion

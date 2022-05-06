@@ -1,7 +1,7 @@
 ---
 title: Export EPUB to POT via C# API
 description: .NET API to Convert EPUB to POT without using Microsoft Word
-url: /net/conversion/epub-to-pot/
+url_ignore: /net/conversion/epub-to-pot/
 family: total
 platformtag: net
 feature: conversion

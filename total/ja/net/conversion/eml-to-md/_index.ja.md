@@ -1,7 +1,7 @@
 ---
 title: EMLをMDにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMLをMDに変換する
-url: /ja/net/conversion/eml-to-md/
+url_ignore: /ja/net/conversion/eml-to-md/
 family: total
 platformtag: net
 feature: conversion

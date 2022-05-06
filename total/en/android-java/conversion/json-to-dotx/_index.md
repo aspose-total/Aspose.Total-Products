@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to DOTX in Android via Java 
 description: Parse JSON to DOTX in Java without using Microsoft Word
-url: /android-java/conversion/json-to-dotx/
+url_ignore: /android-java/conversion/json-to-dotx/
 family: total
 platformtag: android-java
 feature: conversion

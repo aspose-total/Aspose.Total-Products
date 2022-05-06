@@ -1,7 +1,7 @@
 ---
 title: API Java để xuất MD sang DOTX
 description: Chuyển đổi MD sang DOTX bằng cách sử dụng API Java tiền đề
-url: /vi/java/conversion/md-to-dotx/
+url_ignore: /vi/java/conversion/md-to-dotx/
 family: total
 platformtag: net
 feature: conversion

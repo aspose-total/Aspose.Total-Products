@@ -1,7 +1,7 @@
 ---
 title: EPUB'yi MHTML'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan EPUB'yi MHTML'ye dönüştürün
-url: /tr/net/conversion/epub-to-mhtml/
+url_ignore: /tr/net/conversion/epub-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

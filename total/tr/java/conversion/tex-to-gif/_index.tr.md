@@ -1,7 +1,7 @@
 ---
 title: TEX'yi GIF'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak TEX'yi GIF'ye dönüştürün
-url: /tr/java/conversion/tex-to-gif/
+url_ignore: /tr/java/conversion/tex-to-gif/
 family: total
 platformtag: net
 feature: conversion

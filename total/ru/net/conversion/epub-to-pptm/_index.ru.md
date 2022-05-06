@@ -1,7 +1,7 @@
 ---
 title: Экспорт EPUB в PPTM через C# API
 description: .NET API для преобразования EPUB в PPTM без использования Microsoft Word
-url: /ru/net/conversion/epub-to-pptm/
+url_ignore: /ru/net/conversion/epub-to-pptm/
 family: total
 platformtag: net
 feature: conversion

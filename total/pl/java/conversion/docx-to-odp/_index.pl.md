@@ -1,7 +1,7 @@
 ---
 title: Konwertuj DOCX na ODP za pomocą Javy
 description: Java API do eksportu DOCX do ODP bez użycia Microsoft Word lub PowerPoint
-url: /pl/java/conversion/docx-to-odp/
+url_ignore: /pl/java/conversion/docx-to-odp/
 family: total
 platformtag: net
 feature: conversion

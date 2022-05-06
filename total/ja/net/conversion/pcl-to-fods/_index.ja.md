@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPCLをFODSに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPCLファイルをFODSに変換するC＃API
-url: /ja/net/conversion/pcl-to-fods/
+url_ignore: /ja/net/conversion/pcl-to-fods/
 family: total
 platformtag: net
 feature: conversion

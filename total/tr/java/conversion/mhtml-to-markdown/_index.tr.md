@@ -1,7 +1,7 @@
 ---
 title: MHTML'yi MARKDOWN'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak MHTML'yi MARKDOWN'ye dönüştürün
-url: /tr/java/conversion/mhtml-to-markdown/
+url_ignore: /tr/java/conversion/mhtml-to-markdown/
 family: total
 platformtag: net
 feature: conversion

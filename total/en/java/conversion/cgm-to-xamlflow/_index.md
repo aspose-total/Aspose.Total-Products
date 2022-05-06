@@ -1,7 +1,7 @@
 ---
 title: Java API to Export CGM to XAMLFLOW
 description: Convert CGM to XAMLFLOW using on premise Java API
-url: /java/conversion/cgm-to-xamlflow/
+url_ignore: /java/conversion/cgm-to-xamlflow/
 family: total
 platformtag: java
 feature: conversion

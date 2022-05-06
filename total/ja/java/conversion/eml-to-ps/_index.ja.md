@@ -1,7 +1,7 @@
 ---
 title: Java経由でEMLをPSにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにEMLをPSに変換するJavaAPI
-url: /ja/java/conversion/eml-to-ps/
+url_ignore: /ja/java/conversion/eml-to-ps/
 family: total
 platformtag: net
 feature: conversion

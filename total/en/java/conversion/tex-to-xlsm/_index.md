@@ -1,7 +1,7 @@
 ---
 title: Java API to Render TEX to XLSM
 description: Export TEX to XLSM via Java API without using Microsoft Excel or Adobe Reader
-url: /java/conversion/tex-to-xlsm/
+url_ignore: /java/conversion/tex-to-xlsm/
 family: total
 platformtag: java
 feature: conversion

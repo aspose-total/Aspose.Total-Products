@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to PCL in Android via Java 
 description: Parse JSON to PCL in Java without using Microsoft Word
-url: /android-java/conversion/json-to-pcl/
+url_ignore: /android-java/conversion/json-to-pcl/
 family: total
 platformtag: android-java
 feature: conversion

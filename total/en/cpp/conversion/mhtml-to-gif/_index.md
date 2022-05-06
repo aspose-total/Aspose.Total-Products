@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export MHTML to GIF
 description: Convert MHTML to GIF within C++ applications.
-url: /cpp/conversion/mhtml-to-gif/
+url_ignore: /cpp/conversion/mhtml-to-gif/
 family: total
 platformtag: cpp
 feature: conversion

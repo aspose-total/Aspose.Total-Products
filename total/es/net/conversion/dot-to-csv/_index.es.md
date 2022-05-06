@@ -1,7 +1,7 @@
 ---
 title: API .NET para convertir DOT a CSV
 description: API de C# para convertir DOT a CSV sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/dot-to-csv/
+url_ignore: /es/net/conversion/dot-to-csv/
 family: total
 platformtag: net
 feature: conversion

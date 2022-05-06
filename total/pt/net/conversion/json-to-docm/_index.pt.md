@@ -1,7 +1,7 @@
 ---
 title: Converter o formato JSON para DOCM via .NET
 description: Analise JSON para DOCM em C# sem usar o Microsoft Word
-url: /pt/net/conversion/json-to-docm/
+url_ignore: /pt/net/conversion/json-to-docm/
 family: total
 platformtag: net
 feature: conversion

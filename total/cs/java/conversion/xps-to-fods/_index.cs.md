@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení XPS do FODS
 description: Export XPS do FODS přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/xps-to-fods/
+url_ignore: /cs/java/conversion/xps-to-fods/
 family: total
 platformtag: net
 feature: conversion

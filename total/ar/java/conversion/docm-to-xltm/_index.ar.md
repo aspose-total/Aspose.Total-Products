@@ -1,7 +1,7 @@
 ---
 title: Java API لتحويل DOCM إلى XLTM
 description: قم بتحويل DOCM إلى XLTM عبر Java دون استخدام Microsoft Word أو Microsoft Excel
-url: /ar/java/conversion/docm-to-xltm/
+url_ignore: /ar/java/conversion/docm-to-xltm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: แปลง PPT เป็น DOCM ผ่าน Java
 description: Java API เพื่อส่งออก PPT เป็น DOCM โดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint
-url: /th/java/conversion/ppt-to-docm/
+url_ignore: /th/java/conversion/ppt-to-docm/
 family: total
 platformtag: net
 feature: conversion
@@ -34,7 +34,7 @@ otherformats: FLATOPC DOCMX WORDML OTT WORD DOCM DOTM ODT RTF DOTX TEXT DOT
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="ข้อกำหนดการแปลง" %}}
-เมื่อใช้ API คุณยังสามารถทำการแปลงไฟล์ PPT เป็น DOCM ด้วยลายน้ำ ในการเพิ่มลายน้ำให้กับเอกสาร DOCM ของคุณ ก่อนอื่นให้แปลงไฟล์ PPT เป็น HTML และเพิ่มลายน้ำลงไป ในการเพิ่มลายน้ำ ให้โหลดไฟล์ HTML ที่สร้างขึ้นใหม่โดยใช้คลาส [Docmument](https://apireference.aspose.com/words/java/com.aspose.words/Docmument) สร้างอินสแตนซ์ของ TextWatermarkOptions และตั้งค่า คุณสมบัติของมัน วิธี Call Watermark.setText และส่งข้อความลายน้ำ & วัตถุของ TextWatermarkOptions  
+เมื่อใช้ API คุณยังสามารถทำการแปลงไฟล์ PPT เป็น DOCM ด้วยลายน้ำ ในการเพิ่มลายน้ำให้กับเอกสาร DOCM ของคุณ ก่อนอื่นให้แปลงไฟล์ PPT เป็น HTML และเพิ่มลายน้ำลงไป ในการเพิ่มลายน้ำ ให้โหลดไฟล์ HTML ที่สร้างขึ้นใหม่โดยใช้คลาส [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) สร้างอินสแตนซ์ของ TextWatermarkOptions และตั้งค่า คุณสมบัติของมัน วิธี Call Watermark.setText และส่งข้อความลายน้ำ & วัตถุของ TextWatermarkOptions  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}

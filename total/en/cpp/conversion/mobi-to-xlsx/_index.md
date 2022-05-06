@@ -1,7 +1,7 @@
 ---
 title: Convert MOBI to XLSX in C++
 description: C++ API to Convert MOBI to XLSX without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/mobi-to-xlsx/
+url_ignore: /cpp/conversion/mobi-to-xlsx/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PPTM to FLATOPC 
 description: Export PPTM to FLATOPC within your C++ applications 
-url: /cpp/conversion/pptm-to-flatopc/
+url_ignore: /cpp/conversion/pptm-to-flatopc/
 family: total
 platformtag: cpp
 feature: conversion

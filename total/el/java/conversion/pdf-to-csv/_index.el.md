@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση PDF σε CSV
 description: Εξαγωγή PDF σε CSV μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/pdf-to-csv/
+url_ignore: /el/java/conversion/pdf-to-csv/
 family: total
 platformtag: net
 feature: conversion

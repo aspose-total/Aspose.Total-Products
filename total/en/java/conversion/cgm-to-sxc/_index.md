@@ -1,7 +1,7 @@
 ---
 title: Java API to Render CGM to SXC
 description: Export CGM to SXC via Java API without using Microsoft Excel or Adobe Reader
-url: /java/conversion/cgm-to-sxc/
+url_ignore: /java/conversion/cgm-to-sxc/
 family: total
 platformtag: java
 feature: conversion

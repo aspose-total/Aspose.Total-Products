@@ -1,7 +1,7 @@
 ---
 title: แปลง CGM เป็น DICOM ผ่าน Java
 description: ส่งออกไฟล์ CGM เป็น DICOM ในแอปพลิเคชัน Java ของคุณโดยไม่ต้องใช้แอปพลิเคชันของบุคคลที่สาม
-url: /th/java/conversion/cgm-to-dicom/
+url_ignore: /th/java/conversion/cgm-to-dicom/
 family: total
 platformtag: net
 feature: conversion

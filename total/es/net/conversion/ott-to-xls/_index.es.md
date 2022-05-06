@@ -1,7 +1,7 @@
 ---
 title: API .NET para convertir OTT a XLS
 description: API de C# para convertir OTT a XLS sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/ott-to-xls/
+url_ignore: /es/net/conversion/ott-to-xls/
 family: total
 platformtag: net
 feature: conversion

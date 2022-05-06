@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to DOC using Java 
 description: Java API to Export SXC to DOC with using Excel or Word 
-url: /java/conversion/sxc-to-doc/
+url_ignore: /java/conversion/sxc-to-doc/
 family: total
 platformtag: java
 feature: conversion

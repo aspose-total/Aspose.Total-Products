@@ -1,7 +1,7 @@
 ---
 title: Export XML to POT in Android 
 description: Android API to Convert XML to POT without using Microsoft Word
-url: /android-java/conversion/xml-to-pot/
+url_ignore: /android-java/conversion/xml-to-pot/
 family: total
 platformtag: android-java
 feature: conversion

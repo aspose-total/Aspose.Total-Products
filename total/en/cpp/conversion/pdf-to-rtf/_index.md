@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PDF to RTF
 description: Convert PDF to RTF within C++ applications.
-url: /cpp/conversion/pdf-to-rtf/
+url_ignore: /cpp/conversion/pdf-to-rtf/
 family: total
 platformtag: cpp
 feature: conversion

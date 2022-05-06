@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PCL to XLAM
 description: Convert PCL to XLAM via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/pcl-to-xlam/
+url_ignore: /cpp/conversion/pcl-to-xlam/
 family: total
 platformtag: cpp
 feature: conversion

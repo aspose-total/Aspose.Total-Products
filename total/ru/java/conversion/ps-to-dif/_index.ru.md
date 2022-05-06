@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга PS в DIF
 description: Экспорт PS в DIF через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/ps-to-dif/
+url_ignore: /ru/java/conversion/ps-to-dif/
 family: total
 platformtag: net
 feature: conversion

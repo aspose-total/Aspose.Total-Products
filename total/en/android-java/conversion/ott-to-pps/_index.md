@@ -1,7 +1,7 @@
 ---
 title: Convert OTT to PPS in Android via Java
 description: OTT to PPS conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/ott-to-pps/
+url_ignore: /android-java/conversion/ott-to-pps/
 family: total
 platformtag: android-java
 feature: conversion

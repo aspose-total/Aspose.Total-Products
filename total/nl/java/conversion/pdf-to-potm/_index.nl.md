@@ -1,7 +1,7 @@
 ---
 title: Converteer PDF naar POTM via Java API
 description: Java API om PDF naar POTM te converteren zonder Microsoft Word te gebruiken
-url: /nl/java/conversion/pdf-to-potm/
+url_ignore: /nl/java/conversion/pdf-to-potm/
 family: total
 platformtag: net
 feature: conversion

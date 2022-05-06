@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie PDF über die C#-API nach POWERPOINT
 description: .NET-API zum Konvertieren von PDF in POWERPOINT ohne Verwendung von Microsoft Word
-url: /de/net/conversion/pdf-to-powerpoint/
+url_ignore: /de/net/conversion/pdf-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

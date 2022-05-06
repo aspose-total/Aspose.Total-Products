@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export TEX to DOTM
 description: Convert TEX to DOTM within C++ applications.
-url: /cpp/conversion/tex-to-dotm/
+url_ignore: /cpp/conversion/tex-to-dotm/
 family: total
 platformtag: cpp
 feature: conversion

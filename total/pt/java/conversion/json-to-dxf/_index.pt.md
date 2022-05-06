@@ -1,7 +1,7 @@
 ---
 title: Converter o formato JSON para DXF via Java
 description: Analise JSON para DXF em Java sem usar o Microsoft PowerPoint
-url: /pt/java/conversion/json-to-dxf/
+url_ignore: /pt/java/conversion/json-to-dxf/
 family: total
 platformtag: net
 feature: conversion

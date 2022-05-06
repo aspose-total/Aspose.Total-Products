@@ -1,7 +1,7 @@
 ---
 title: Convert DOC to PPTM via Java
 description: Java API to Export DOC to PPTM without using Microsoft Word or PowerPoint
-url: /java/conversion/doc-to-pptm/
+url_ignore: /java/conversion/doc-to-pptm/
 family: total
 platformtag: java
 feature: conversion

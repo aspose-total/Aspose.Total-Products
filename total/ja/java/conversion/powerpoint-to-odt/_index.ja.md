@@ -1,7 +1,7 @@
 ---
 title: Java経由でPOWERPOINTをODTに変換する
 description: MicrosoftWordやPowerPointを使用せずにPOWERPOINTをODTにエクスポートするJavaAPI
-url: /ja/java/conversion/powerpoint-to-odt/
+url_ignore: /ja/java/conversion/powerpoint-to-odt/
 family: total
 platformtag: net
 feature: conversion

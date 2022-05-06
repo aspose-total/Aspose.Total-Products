@@ -1,7 +1,7 @@
 ---
 title: تحويل POTX إلى تنسيق ODS عبر Java
 description: قم بتحويل POTX إلى تنسيق ODS عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/potx-to-ods/
+url_ignore: /ar/java/conversion/potx-to-ods/
 family: total
 platformtag: net
 feature: conversion

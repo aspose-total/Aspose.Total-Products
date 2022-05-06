@@ -1,7 +1,7 @@
 ---
 title: Převést MD na WMF přes Java
 description: Exportujte soubor MD do WMF ve svých aplikacích Java bez použití jakékoli aplikace třetí strany
-url: /cs/java/conversion/md-to-wmf/
+url_ignore: /cs/java/conversion/md-to-wmf/
 family: total
 platformtag: net
 feature: conversion

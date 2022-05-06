@@ -1,7 +1,7 @@
 ---
 title: Convert XML to OTP via Java API
 description: Java API to Convert XML to OTP without using Microsoft Word
-url: /java/conversion/xml-to-otp/
+url_ignore: /java/conversion/xml-to-otp/
 family: total
 platformtag: java
 feature: conversion

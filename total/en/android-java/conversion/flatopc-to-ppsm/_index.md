@@ -1,7 +1,7 @@
 ---
 title: Convert FLATOPC to PPSM in Android via Java
 description: FLATOPC to PPSM conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/flatopc-to-ppsm/
+url_ignore: /android-java/conversion/flatopc-to-ppsm/
 family: total
 platformtag: android-java
 feature: conversion

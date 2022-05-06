@@ -1,7 +1,7 @@
 ---
 title: MSGをPSにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにMSGをPSに変換する
-url: /ja/net/conversion/msg-to-ps/
+url_ignore: /ja/net/conversion/msg-to-ps/
 family: total
 platformtag: net
 feature: conversion

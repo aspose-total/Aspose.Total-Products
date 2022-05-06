@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก EML ไปยัง DOCX
 description: แปลง EML เป็น DOCX โดยไม่ต้องใช้ Microsoft Word หรือ Outlook บน .NET
-url: /th/net/conversion/eml-to-docx/
+url_ignore: /th/net/conversion/eml-to-docx/
 family: total
 platformtag: net
 feature: conversion

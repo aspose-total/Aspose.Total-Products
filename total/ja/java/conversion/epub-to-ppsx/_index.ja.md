@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してEPUBをPPSXに変換する
 description: MicrosoftWordを使用せずにEPUBをPPSXに変換するJavaAPI
-url: /ja/java/conversion/epub-to-ppsx/
+url_ignore: /ja/java/conversion/epub-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

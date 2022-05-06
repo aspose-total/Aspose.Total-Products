@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert DOTX to SXC
 description: Convert DOTX to SXC via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/dotx-to-sxc/
+url_ignore: /java/conversion/dotx-to-sxc/
 family: total
 platformtag: java
 feature: conversion

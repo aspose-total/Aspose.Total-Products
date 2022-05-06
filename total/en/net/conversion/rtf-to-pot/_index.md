@@ -1,6 +1,6 @@
 ---
 title: Convert RTF to POT via C# .NET 
-url: /net/conversion/rtf-to-pot/ 
+url_ignore: /net/conversion/rtf-to-pot/ 
 description: Convert Word rtf documents to PowerPoint pot files with C#. Convert multiple files within ASP.NET or other .NET applications.
 ---
 

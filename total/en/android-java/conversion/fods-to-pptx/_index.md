@@ -1,7 +1,7 @@
 ---
 title: Export FODS to PPTX in Android 
 description: Android API to Convert FODS to PPTX without using Microsoft Word
-url: /android-java/conversion/fods-to-pptx/
+url_ignore: /android-java/conversion/fods-to-pptx/
 family: total
 platformtag: android-java
 feature: conversion

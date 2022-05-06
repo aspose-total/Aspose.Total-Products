@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất EMAIL sang EPUB
 description: Chuyển đổi EMAIL thành EPUB mà không cần sử dụng Microsoft Word hoặc Outlook trên .NET
-url: /vi/net/conversion/email-to-epub/
+url_ignore: /vi/net/conversion/email-to-epub/
 family: total
 platformtag: net
 feature: conversion

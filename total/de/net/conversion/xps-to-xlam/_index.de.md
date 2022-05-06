@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie XPS über die C#-API in XLAM
 description: C#-API zum Konvertieren von XPS-Dateien in XLAM ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/xps-to-xlam/
+url_ignore: /de/net/conversion/xps-to-xlam/
 family: total
 platformtag: net
 feature: conversion

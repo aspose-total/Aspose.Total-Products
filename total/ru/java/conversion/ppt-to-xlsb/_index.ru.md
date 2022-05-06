@@ -1,7 +1,7 @@
 ---
 title: Преобразование PPT в формат XLSB через Java
 description: Преобразуйте формат PPT в XLSB через Java без использования Microsoft Excel или PowerPoint.
-url: /ru/java/conversion/ppt-to-xlsb/
+url_ignore: /ru/java/conversion/ppt-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

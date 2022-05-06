@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير MD إلى ODT
 description: تحويل MD إلى ODT دون استخدام Microsoft Word
-url: /ar/net/conversion/md-to-odt/
+url_ignore: /ar/net/conversion/md-to-odt/
 family: total
 platformtag: net
 feature: conversion

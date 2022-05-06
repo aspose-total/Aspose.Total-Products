@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export TEX to FLATOPC
 description: Convert TEX to FLATOPC within C++ applications.
-url: /cpp/conversion/tex-to-flatopc/
+url_ignore: /cpp/conversion/tex-to-flatopc/
 family: total
 platformtag: cpp
 feature: conversion

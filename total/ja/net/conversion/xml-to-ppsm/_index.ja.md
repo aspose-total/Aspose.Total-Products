@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXMLをPPSMにエクスポートする
 description: MicrosoftWordを使用せずにXMLをPPSMに変換する.NETAPI
-url: /ja/net/conversion/xml-to-ppsm/
+url_ignore: /ja/net/conversion/xml-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

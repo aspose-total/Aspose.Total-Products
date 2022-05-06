@@ -1,7 +1,7 @@
 ---
 title: Преобразование XPS в CSV через C# API
 description: C# API для преобразования файла XPS в CSV без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/xps-to-csv/
+url_ignore: /ru/net/conversion/xps-to-csv/
 family: total
 platformtag: net
 feature: conversion

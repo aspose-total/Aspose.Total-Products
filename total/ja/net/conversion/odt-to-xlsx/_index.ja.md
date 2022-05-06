@@ -1,7 +1,7 @@
 ---
 title: ODTをXLSXに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにODTをXLSXに変換するC＃API
-url: /ja/net/conversion/odt-to-xlsx/
+url_ignore: /ja/net/conversion/odt-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

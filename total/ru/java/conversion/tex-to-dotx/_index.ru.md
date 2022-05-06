@@ -1,7 +1,7 @@
 ---
 title: Java API для экспорта TEX в DOTX
 description: Преобразование TEX в DOTX с использованием локального Java API
-url: /ru/java/conversion/tex-to-dotx/
+url_ignore: /ru/java/conversion/tex-to-dotx/
 family: total
 platformtag: net
 feature: conversion

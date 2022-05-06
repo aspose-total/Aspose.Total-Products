@@ -1,7 +1,7 @@
 ---
 title: Converter DOC para formato JSON via .NET
 description: Converter DOC para JSON em C# sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/doc-to-json/
+url_ignore: /pt/net/conversion/doc-to-json/
 family: total
 platformtag: net
 feature: conversion

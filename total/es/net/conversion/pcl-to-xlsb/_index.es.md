@@ -1,7 +1,7 @@
 ---
 title: Convierta PCL a XLSB a través de la API de C#
 description: API C# para convertir archivos PCL a XLSB sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/pcl-to-xlsb/
+url_ignore: /es/net/conversion/pcl-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

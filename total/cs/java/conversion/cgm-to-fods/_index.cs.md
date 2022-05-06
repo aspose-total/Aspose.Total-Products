@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení CGM do FODS
 description: Export CGM do FODS přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/cgm-to-fods/
+url_ignore: /cs/java/conversion/cgm-to-fods/
 family: total
 platformtag: net
 feature: conversion

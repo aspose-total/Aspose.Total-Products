@@ -1,7 +1,7 @@
 ---
 title: C# API to Export MD to MHTML
 description: Convert MD to MHTML without using Microsoft Word
-url: /net/conversion/md-to-mhtml/
+url_ignore: /net/conversion/md-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

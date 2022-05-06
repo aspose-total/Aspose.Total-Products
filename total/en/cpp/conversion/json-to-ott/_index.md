@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to OTT via C++ 
 description: C++ API t0 Parse JSON to OTT without using Microsoft Word
-url: /cpp/conversion/json-to-ott/
+url_ignore: /cpp/conversion/json-to-ott/
 family: total
 platformtag: cpp
 feature: conversion

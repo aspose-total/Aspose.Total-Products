@@ -1,7 +1,7 @@
 ---
 title: Java API för att exportera PS till RTF
 description: Konvertera PS till RTF med hjälp av det lokala Java API
-url: /sv/java/conversion/ps-to-rtf/
+url_ignore: /sv/java/conversion/ps-to-rtf/
 family: total
 platformtag: net
 feature: conversion

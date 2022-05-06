@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to POT in Android via Java
 description: WORDML to POT conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/wordml-to-pot/
+url_ignore: /android-java/conversion/wordml-to-pot/
 family: total
 platformtag: android-java
 feature: conversion

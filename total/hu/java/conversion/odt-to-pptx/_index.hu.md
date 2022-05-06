@@ -1,7 +1,7 @@
 ---
 title: A ODT konvertálása PPTX-re Java segítségével
 description: Java API a ODT exportálásához PPTX-be Microsoft Word vagy PowerPoint használata nélkül
-url: /hu/java/conversion/odt-to-pptx/
+url_ignore: /hu/java/conversion/odt-to-pptx/
 family: total
 platformtag: net
 feature: conversion
@@ -25,7 +25,7 @@ A fejlesztőknek gyakran programozottan kell konvertálniuk a ODT fájlt PPTX-v�
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 A ODT-fájl PPTX-vé konvertálásához egyszerűen használhatja az Aspose.Total for Java-t közvetlenül a [Maven]-ből (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) alapú projektet, és vegyen fel könyvtárakat a pom.xml fájlba.
 
-Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads] webhelyről (https://downloads.aspose.com/total/java).
+Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

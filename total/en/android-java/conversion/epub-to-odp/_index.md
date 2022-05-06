@@ -1,7 +1,7 @@
 ---
 title: Export EPUB to ODP in Android 
 description: Android API to Convert EPUB to ODP without using Microsoft Word
-url: /android-java/conversion/epub-to-odp/
+url_ignore: /android-java/conversion/epub-to-odp/
 family: total
 platformtag: android-java
 feature: conversion

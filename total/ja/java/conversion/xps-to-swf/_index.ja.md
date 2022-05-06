@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してXPSをSWFに変換する
 description: MicrosoftWordを使用せずにXPSをSWFに変換するJavaAPI
-url: /ja/java/conversion/xps-to-swf/
+url_ignore: /ja/java/conversion/xps-to-swf/
 family: total
 platformtag: net
 feature: conversion

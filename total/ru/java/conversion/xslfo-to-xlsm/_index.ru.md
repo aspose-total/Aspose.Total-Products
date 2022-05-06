@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга XSLFO в XLSM
 description: Экспорт XSLFO в XLSM через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/xslfo-to-xlsm/
+url_ignore: /ru/java/conversion/xslfo-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

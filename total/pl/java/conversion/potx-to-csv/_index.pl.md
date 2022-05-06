@@ -1,7 +1,7 @@
 ---
 title: Konwertuj POTX na format CSV za pomocą Java
 description: Konwertuj POTX do formatu CSV za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint
-url: /pl/java/conversion/potx-to-csv/
+url_ignore: /pl/java/conversion/potx-to-csv/
 family: total
 platformtag: net
 feature: conversion

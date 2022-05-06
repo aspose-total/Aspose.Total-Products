@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMHTMLをPPTMにエクスポートする
 description: MicrosoftWordを使用せずにMHTMLをPPTMに変換する.NETAPI
-url: /ja/net/conversion/mhtml-to-pptm/
+url_ignore: /ja/net/conversion/mhtml-to-pptm/
 family: total
 platformtag: net
 feature: conversion

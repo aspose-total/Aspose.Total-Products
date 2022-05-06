@@ -1,7 +1,7 @@
 ---
 title: Converter POT para formato XLAM via Java
 description: Converta o formato POT para XLAM via Java sem usar o Microsoft Excel ou PowerPoint
-url: /pt/java/conversion/pot-to-xlam/
+url_ignore: /pt/java/conversion/pot-to-xlam/
 family: total
 platformtag: net
 feature: conversion

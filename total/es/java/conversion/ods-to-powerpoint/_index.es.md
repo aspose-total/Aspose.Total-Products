@@ -1,7 +1,7 @@
 ---
 title: Convierta ODS a POWERPOINT usando Java
 description: API de Java para exportar ODS a POWERPOINT con Excel o Word
-url: /es/java/conversion/ods-to-powerpoint/
+url_ignore: /es/java/conversion/ods-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

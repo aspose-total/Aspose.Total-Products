@@ -1,7 +1,7 @@
 ---
 title: Konvertera PCL till SVGZ via C# API
 description: Exportera PCL till SVGZ i dina .NET-applikationer utan att använda någon tredjepartsapplikation
-url: /sv/net/conversion/pcl-to-svgz/
+url_ignore: /sv/net/conversion/pcl-to-svgz/
 family: total
 platformtag: net
 feature: conversion

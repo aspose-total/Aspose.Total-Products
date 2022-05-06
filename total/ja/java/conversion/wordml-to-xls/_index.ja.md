@@ -1,7 +1,7 @@
 ---
 title: WORDMLをXLSに変換するJavaAPI
 description: MicrosoftWordやMicrosoftExcelを使用せずに、Java経由でWORDMLをXLSに変換する
-url: /ja/java/conversion/wordml-to-xls/
+url_ignore: /ja/java/conversion/wordml-to-xls/
 family: total
 platformtag: net
 feature: conversion
@@ -19,7 +19,7 @@ otherformats: EXCEL XLSX XLTM FODS XLSM XLSB XLTX ODS XLS XLAM TSV XLT SXC DIF
 1. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)クラスを使用してWORDMLファイルを開きます
 2. [保存](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)を使用してWORDMLをHTMLに変換します) 方法
 3. [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)クラスを使用してHTMLドキュメントをロードします
-4. [保存](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells)を使用して、ドキュメントをXLS形式で保存します。 SaveOptions))メソッド
+4. [保存](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells))を使用して、ドキュメントをXLS形式で保存します。 SaveOptions))メソッド
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)ベースのプロジェクトから直接Aspose.TotalforJavaを簡単に使用できます[Aspose.Words for Java](https://wordmls.aspose.com/words/java/installation/)と[Aspose.Cells for Java](https://wordmls.aspose.com/cells/java/installation/)を含めますあなたのpom.xmlの。

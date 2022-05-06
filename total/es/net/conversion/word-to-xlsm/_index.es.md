@@ -1,7 +1,7 @@
 ---
 title: API .NET para convertir WORD a XLSM
 description: API de C# para convertir WORD a XLSM sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/word-to-xlsm/
+url_ignore: /es/net/conversion/word-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

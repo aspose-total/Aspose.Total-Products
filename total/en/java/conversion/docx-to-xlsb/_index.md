@@ -1,7 +1,7 @@
 ---
 title: Convert DOCX to XLSB via Java
 description: Convert DOCX to XLSB via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/docx-to-xlsb/
+url_ignore: /java/conversion/docx-to-xlsb/
 family: total
 platformtag: java
 feature: conversion

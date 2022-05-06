@@ -1,7 +1,7 @@
 ---
 title: Převést POT na XLTM přes C#
 description: Převeďte POT na XLTM v C# bez použití Microsoft Excel nebo Powerpoint
-url: /cs/net/conversion/pot-to-xltm/
+url_ignore: /cs/net/conversion/pot-to-xltm/
 family: total
 platformtag: net
 feature: conversion

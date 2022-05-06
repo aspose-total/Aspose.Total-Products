@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOCX в PPSM через Java
 description: Java API для экспорта DOCX в PPSM без использования Microsoft Word или PowerPoint
-url: /ru/java/conversion/docx-to-ppsm/
+url_ignore: /ru/java/conversion/docx-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

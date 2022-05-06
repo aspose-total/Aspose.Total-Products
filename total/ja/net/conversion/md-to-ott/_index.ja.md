@@ -1,7 +1,7 @@
 ---
 title: MDをOTTにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにMDをOTTに変換する
-url: /ja/net/conversion/md-to-ott/
+url_ignore: /ja/net/conversion/md-to-ott/
 family: total
 platformtag: net
 feature: conversion

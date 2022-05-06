@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to ODS in Android via Java
 description: Render MHTML to ODS in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/mhtml-to-ods/
+url_ignore: /android-java/conversion/mhtml-to-ods/
 family: total
 platformtag: android-java
 feature: conversion

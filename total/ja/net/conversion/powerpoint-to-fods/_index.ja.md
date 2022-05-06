@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPOWERPOINTをFODSに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPOWERPOINTをFODSに変換する
-url: /ja/net/conversion/powerpoint-to-fods/
+url_ignore: /ja/net/conversion/powerpoint-to-fods/
 family: total
 platformtag: net
 feature: conversion

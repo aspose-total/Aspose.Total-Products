@@ -1,7 +1,7 @@
 ---
 title: Export TEX to OTP in Android 
 description: Android API to Convert TEX to OTP without using Microsoft Word
-url: /android-java/conversion/tex-to-otp/
+url_ignore: /android-java/conversion/tex-to-otp/
 family: total
 platformtag: android-java
 feature: conversion

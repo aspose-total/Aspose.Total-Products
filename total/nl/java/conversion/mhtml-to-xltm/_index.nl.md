@@ -1,7 +1,7 @@
 ---
 title: Java API om MHTML naar XLTM te renderen
 description: Exporteer MHTML naar XLTM via Java API zonder Microsoft Excel of Adobe Reader te gebruiken
-url: /nl/java/conversion/mhtml-to-xltm/
+url_ignore: /nl/java/conversion/mhtml-to-xltm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: OFT'i Java aracılığıyla BMP'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan OFT'i BMP'ye Dönüştürmek için Java API
-url: /tr/java/conversion/oft-to-bmp/
+url_ignore: /tr/java/conversion/oft-to-bmp/
 family: total
 platformtag: net
 feature: conversion

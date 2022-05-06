@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to PPTM in Android via Java 
 description: Parse JSON to PPTM in Android Applications without using Microsoft PowerPoint
-url: /android-java/conversion/json-to-pptm/
+url_ignore: /android-java/conversion/json-to-pptm/
 family: total
 platformtag: android-java
 feature: conversion

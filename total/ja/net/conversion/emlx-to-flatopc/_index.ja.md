@@ -1,7 +1,7 @@
 ---
 title: EMLXをFLATOPCにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMLXをFLATOPCに変換する
-url: /ja/net/conversion/emlx-to-flatopc/
+url_ignore: /ja/net/conversion/emlx-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

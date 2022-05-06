@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPSをWMZに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでPSをWMZにエクスポートします
-url: /ja/net/conversion/ps-to-wmz/
+url_ignore: /ja/net/conversion/ps-to-wmz/
 family: total
 platformtag: net
 feature: conversion

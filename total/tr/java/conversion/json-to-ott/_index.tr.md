@@ -1,7 +1,7 @@
 ---
 title: Java ile JSON Formatını OTT'ye Dönüştür
 description: Microsoft Word kullanmadan Java'da JSON'u OTT'ye ayrıştırın
-url: /tr/java/conversion/json-to-ott/
+url_ignore: /tr/java/conversion/json-to-ott/
 family: total
 platformtag: net
 feature: conversion

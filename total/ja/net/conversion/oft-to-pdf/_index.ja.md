@@ -1,7 +1,7 @@
 ---
 title: OFTをPDFにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにOFTをPDFに変換する
-url: /ja/net/conversion/oft-to-pdf/
+url_ignore: /ja/net/conversion/oft-to-pdf/
 family: total
 platformtag: net
 feature: conversion

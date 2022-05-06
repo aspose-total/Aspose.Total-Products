@@ -1,7 +1,7 @@
 ---
 title: Convert POT to SXC in Android via Java
 description: Convert POT to SXC in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/pot-to-sxc/
+url_ignore: /android-java/conversion/pot-to-sxc/
 family: total
 platformtag: android-java
 feature: conversion

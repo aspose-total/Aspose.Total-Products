@@ -1,7 +1,7 @@
 ---
 title: Convertir MHTML en WMF via Java
 description: Exportez le fichier MHTML vers WMF dans vos applications Java sans utiliser d'application tierce
-url: /fr/java/conversion/mhtml-to-wmf/
+url_ignore: /fr/java/conversion/mhtml-to-wmf/
 family: total
 platformtag: net
 feature: conversion

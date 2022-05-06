@@ -1,7 +1,7 @@
 ---
 title: XPSをWORDMLにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにXPSをWORDMLに変換する
-url: /ja/net/conversion/xps-to-wordml/
+url_ignore: /ja/net/conversion/xps-to-wordml/
 family: total
 platformtag: net
 feature: conversion

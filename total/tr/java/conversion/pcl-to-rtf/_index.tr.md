@@ -1,7 +1,7 @@
 ---
 title: PCL'yi RTF'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak PCL'yi RTF'ye dönüştürün
-url: /tr/java/conversion/pcl-to-rtf/
+url_ignore: /tr/java/conversion/pcl-to-rtf/
 family: total
 platformtag: net
 feature: conversion

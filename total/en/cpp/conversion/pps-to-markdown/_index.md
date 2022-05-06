@@ -1,7 +1,7 @@
 ---
 title: Convert PPS to MARKDOWN via C++ 
 description: Export PPS to MARKDOWN in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pps-to-markdown/
+url_ignore: /cpp/conversion/pps-to-markdown/
 family: total
 platformtag: cpp
 feature: conversion

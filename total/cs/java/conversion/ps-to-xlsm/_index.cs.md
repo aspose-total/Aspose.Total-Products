@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení PS do XLSM
 description: Export PS do XLSM přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/ps-to-xlsm/
+url_ignore: /cs/java/conversion/ps-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

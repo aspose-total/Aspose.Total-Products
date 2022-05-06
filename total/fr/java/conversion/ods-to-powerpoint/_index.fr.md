@@ -1,7 +1,7 @@
 ---
 title: Convertir ODS en POWERPOINT en utilisant Java
 description: API Java pour exporter ODS vers POWERPOINT en utilisant Excel ou Word
-url: /fr/java/conversion/ods-to-powerpoint/
+url_ignore: /fr/java/conversion/ods-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion
@@ -12,7 +12,7 @@ otherformats: POWERPOINTX WORD PPTX POWERPOINT
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="API Java pour exporter ODS vers POWERPOINT" h2="API Java sur site pour exporter ODS vers POWERPOINT sans dépendre de Microsoft Excel®" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Le rendu ODS en POWERPOINT est un processus en deux étapes. Vous utiliserez d'abord l'API [Aspose.Cells pour Java](https://products.aspose.com/cells/java) pour convertir le powerpointument ODS donné en PDF, puis en utilisant [Aspose.Pdf pour Java](https ://products.aspose.com/pdf/java) API, vous pouvez facilement convertir votre powerpointument PDF en POWERPOINT. Les deux API font partie de la collection de bibliothèques d'automatisation de format de fichier [Aspose.Total pour Java](https://products.aspose.com/total/java/).
+Le rendu ODS en POWERPOINT est un processus en deux étapes. Vous utiliserez d'abord l'API [Aspose.Cells for Java](https://products.aspose.com/cells/java) pour convertir le powerpointument ODS donné en PDF, puis en utilisant [Aspose.Pdf for Java](https ://products.aspose.com/pdf/java) API, vous pouvez facilement convertir votre powerpointument PDF en POWERPOINT. Les deux API font partie de la collection de bibliothèques d'automatisation de format de fichier [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Comment convertir ODS en POWERPOINT via l'API Java" %}}

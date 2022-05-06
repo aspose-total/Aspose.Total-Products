@@ -1,7 +1,7 @@
 ---
 title: Convert DOCM to XLT via Java
 description: Convert DOCM to XLT via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/docm-to-xlt/
+url_ignore: /java/conversion/docm-to-xlt/
 family: total
 platformtag: java
 feature: conversion

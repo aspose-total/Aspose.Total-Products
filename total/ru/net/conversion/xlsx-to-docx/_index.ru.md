@@ -1,7 +1,7 @@
 ---
 title: Преобразование XLSX в DOCX с помощью .NET 
 description: Преобразование XLSX в DOCX на платформах .NET Framework, .NET Core, Mono или Xamarin.
-url: /ru/net/conversion/xlsx-to-docx/
+url_ignore: /ru/net/conversion/xlsx-to-docx/
 family: total
 platformtag: net
 feature: conversion

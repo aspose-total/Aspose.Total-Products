@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта CGM в DOTM
 description: Преобразование CGM в DOTM без использования Microsoft Word
-url: /ru/net/conversion/cgm-to-dotm/
+url_ignore: /ru/net/conversion/cgm-to-dotm/
 family: total
 platformtag: net
 feature: conversion

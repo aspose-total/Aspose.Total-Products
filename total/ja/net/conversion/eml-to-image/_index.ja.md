@@ -1,7 +1,7 @@
 ---
 title: EMLをIMAGEにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにEMLをIMAGEに変換する
-url: /ja/net/conversion/eml-to-image/
+url_ignore: /ja/net/conversion/eml-to-image/
 family: total
 platformtag: net
 feature: conversion

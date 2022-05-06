@@ -1,7 +1,7 @@
 ---
 title: C# API a PCL exportálásához GIF-be
 description: A PCL konvertálása GIF-re Microsoft Word használata nélkül
-url: /hu/net/conversion/pcl-to-gif/
+url_ignore: /hu/net/conversion/pcl-to-gif/
 family: total
 platformtag: net
 feature: conversion
@@ -19,15 +19,15 @@ Az [Aspose.Total for .NET](https://products.aspose.com/total/net/) egy hatékony
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API a PCL GIF-má konvertálásához" %}}
 1. Nyissa meg a PCL-fájlt a [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) osztály használatával
-2. Konvertálja a PCL-et dokumentummá a [Mentés](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) módszerrel
+2. Konvertálja a PCL-et dokumentummá a [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) módszerrel
 3. Töltse be a Doc fájlt az Aspose.Words [Document](https://apireference.aspose.com/words/net/aspose.words/document) osztályával
-4. Mentse a dokumentumot GIF-formátumba a [Mentés](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) metódussal, és állítsa be a Gif-et SaveFormat-ként.
+4. Mentse a dokumentumot GIF-formátumba a [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) metódussal, és állítsa be a Gif-et SaveFormat-ként.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 Telepítés parancssorból ```nuget install Aspose.Total``` néven, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.Total``` paranccsal.
 
-Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads] webhelyről (https://downloads.aspose.com/total/net).
+Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads](https://downloads.aspose.com/total/net) webhelyről.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}

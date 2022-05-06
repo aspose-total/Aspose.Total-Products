@@ -1,7 +1,7 @@
 ---
 title: Java API لتحويل DOC إلى CSV
 description: قم بتحويل DOC إلى CSV عبر Java دون استخدام Microsoft Word أو Microsoft Excel
-url: /ar/java/conversion/doc-to-csv/
+url_ignore: /ar/java/conversion/doc-to-csv/
 family: total
 platformtag: net
 feature: conversion

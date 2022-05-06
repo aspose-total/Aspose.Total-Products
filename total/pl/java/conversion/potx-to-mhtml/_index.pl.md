@@ -1,7 +1,7 @@
 ---
 title: Konwertuj POTX na format MHTML za pomocą Java
 description: Konwertuj POTX do formatu MHTML za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint
-url: /pl/java/conversion/potx-to-mhtml/
+url_ignore: /pl/java/conversion/potx-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

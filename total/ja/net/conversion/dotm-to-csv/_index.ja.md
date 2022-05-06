@@ -1,7 +1,7 @@
 ---
 title: DOTMをCSVに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにDOTMをCSVに変換するC＃API
-url: /ja/net/conversion/dotm-to-csv/
+url_ignore: /ja/net/conversion/dotm-to-csv/
 family: total
 platformtag: net
 feature: conversion

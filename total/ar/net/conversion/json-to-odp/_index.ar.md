@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى ODP عبر .NET
 description: تحليل JSON إلى ODP في C# بدون استخدام Microsoft PowerPoint
-url: /ar/net/conversion/json-to-odp/
+url_ignore: /ar/net/conversion/json-to-odp/
 family: total
 platformtag: net
 feature: conversion

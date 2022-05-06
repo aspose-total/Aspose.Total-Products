@@ -1,7 +1,7 @@
 ---
 title: XPSをMHTMLにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにXPSをMHTMLに変換する
-url: /ja/net/conversion/xps-to-mhtml/
+url_ignore: /ja/net/conversion/xps-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

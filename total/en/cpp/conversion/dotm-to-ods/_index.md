@@ -1,7 +1,7 @@
 ---
 title: Convert DOTM to ODS in C++
 description: C++ API to Convert DOTM to ODS without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/dotm-to-ods/
+url_ignore: /cpp/conversion/dotm-to-ods/
 family: total
 platformtag: cpp
 feature: conversion

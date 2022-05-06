@@ -1,7 +1,7 @@
 ---
 title: Java API do eksportu TEX do DOTM
 description: Konwertuj TEX na DOTM za pomocą lokalnego interfejsu Java API
-url: /pl/java/conversion/tex-to-dotm/
+url_ignore: /pl/java/conversion/tex-to-dotm/
 family: total
 platformtag: net
 feature: conversion

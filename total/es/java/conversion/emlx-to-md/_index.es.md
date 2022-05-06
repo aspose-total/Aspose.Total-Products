@@ -1,7 +1,7 @@
 ---
 title: Exportar EMLX a MD a través de Java
 description: API de Java para convertir EMLX a MD sin usar Microsoft Word o Outlook
-url: /es/java/conversion/emlx-to-md/
+url_ignore: /es/java/conversion/emlx-to-md/
 family: total
 platformtag: net
 feature: conversion

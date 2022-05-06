@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla HTML'yi WMZ'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan HTML dosyasını Java uygulamalarınızda WMZ'ye aktarın
-url: /tr/java/conversion/html-to-wmz/
+url_ignore: /tr/java/conversion/html-to-wmz/
 family: total
 platformtag: net
 feature: conversion

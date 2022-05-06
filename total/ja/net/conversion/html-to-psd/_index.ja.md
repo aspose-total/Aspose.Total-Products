@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してHTMLをPSDに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでHTMLをPSDにエクスポートします
-url: /ja/net/conversion/html-to-psd/
+url_ignore: /ja/net/conversion/html-to-psd/
 family: total
 platformtag: net
 feature: conversion

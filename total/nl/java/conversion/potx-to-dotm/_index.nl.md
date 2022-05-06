@@ -1,7 +1,7 @@
 ---
 title: Converteer POTX naar DOTM via Java
 description: Java API om POTX naar DOTM te exporteren zonder Microsoft Word of PowerPoint te gebruiken
-url: /nl/java/conversion/potx-to-dotm/
+url_ignore: /nl/java/conversion/potx-to-dotm/
 family: total
 platformtag: net
 feature: conversion

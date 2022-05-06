@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XSLFO to SXC
 description: Convert XSLFO to SXC via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xslfo-to-sxc/
+url_ignore: /cpp/conversion/xslfo-to-sxc/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API pro export MD do RTF
 description: Převeďte MD na RTF pomocí on premise Java API
-url: /cs/java/conversion/md-to-rtf/
+url_ignore: /cs/java/conversion/md-to-rtf/
 family: total
 platformtag: net
 feature: conversion

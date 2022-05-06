@@ -1,7 +1,7 @@
 ---
 title: API .NET para converter DOCM para XLAM
 description: API C# para converter DOCM para XLAM sem usar o Microsoft Excel ou Adobe Reader
-url: /pt/net/conversion/docm-to-xlam/
+url_ignore: /pt/net/conversion/docm-to-xlam/
 family: total
 platformtag: net
 feature: conversion
@@ -18,7 +18,7 @@ Ao usar o [Aspose.Total for .NET](https://products.aspose.com/total/net/) você 
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET para converter DOCM para XLAM" %}}
-1. Abra o arquivo DOCM usando a classe [Document](https://apireference.aspose.com/words/net/aspose.words/document
+1. Abra o arquivo DOCM usando a classe [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 2. Converta DOCM para HTML usando o método [Salvar](https://apireference.aspose.com/words/net/aspose.words.documentsave/methods/4)
 3. Carregue o document HTML usando a classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. Salve o document no formato XLAM usando o método [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) e defina "XLAM" como SaveFormat
@@ -46,7 +46,6 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="Adicionar propriedades personalizadas no arquivo XLAM via C#" %}}
 Ao converter DOCM para XLAM, o [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) permite adicionar propriedades personalizadas em seus documents XLAM. Para adicionar uma propriedade personalizada, você pode usar o método [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/CustomDocumentPropertyCollection/methods/add/index) para o método [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentPropertycollection) classe. O método Add adiciona a propriedade ao arquivo Excel e retorna uma referência para a nova propriedade do docdocumentmo um [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /docudocumentrty) objeto. 
 {{% blocks/products/pf/feature-page-code %}}

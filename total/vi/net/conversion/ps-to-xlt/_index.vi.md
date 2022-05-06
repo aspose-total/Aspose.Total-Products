@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi PS sang XLT thông qua API C#
 description: C# API để chuyển đổi tệp PS sang XLT mà không cần sử dụng Microsoft Excel hoặc Adobe Reader
-url: /vi/net/conversion/ps-to-xlt/
+url_ignore: /vi/net/conversion/ps-to-xlt/
 family: total
 platformtag: net
 feature: conversion

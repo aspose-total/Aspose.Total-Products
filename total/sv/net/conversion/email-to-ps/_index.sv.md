@@ -1,7 +1,7 @@
 ---
 title: C# API för att exportera EMAIL till PS
 description: Konvertera EMAIL till PS utan att använda Microsoft Word eller Outlook på .NET
-url: /sv/net/conversion/email-to-ps/
+url_ignore: /sv/net/conversion/email-to-ps/
 family: total
 platformtag: net
 feature: conversion

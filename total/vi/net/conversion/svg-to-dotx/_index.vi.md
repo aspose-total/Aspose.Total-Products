@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất SVG sang DOTX
 description: Chuyển đổi SVG sang DOTX mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/svg-to-dotx/
+url_ignore: /vi/net/conversion/svg-to-dotx/
 family: total
 platformtag: net
 feature: conversion

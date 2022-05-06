@@ -1,7 +1,7 @@
 ---
 title: Android API to Render SVG to RTF
 description: Transform SVG to RTF via Android via Java API
-url: /android-java/conversion/svg-to-rtf/
+url_ignore: /android-java/conversion/svg-to-rtf/
 family: total
 platformtag: android-java
 feature: conversion

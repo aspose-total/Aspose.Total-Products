@@ -1,7 +1,7 @@
 ---
 title: Convert POWERPOINT to MHTML via C++ 
 description: Export POWERPOINT to MHTML in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/powerpoint-to-mhtml/
+url_ignore: /cpp/conversion/powerpoint-to-mhtml/
 family: total
 platformtag: cpp
 feature: conversion

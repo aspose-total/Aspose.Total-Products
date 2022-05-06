@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı TEXT'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan EML'i TEXT'ye dönüştürün
-url: /tr/net/conversion/eml-to-text/
+url_ignore: /tr/net/conversion/eml-to-text/
 family: total
 platformtag: net
 feature: conversion

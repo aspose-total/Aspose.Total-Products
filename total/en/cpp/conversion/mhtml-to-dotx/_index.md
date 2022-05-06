@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export MHTML to DOTX
 description: Convert MHTML to DOTX within C++ applications.
-url: /cpp/conversion/mhtml-to-dotx/
+url_ignore: /cpp/conversion/mhtml-to-dotx/
 family: total
 platformtag: cpp
 feature: conversion

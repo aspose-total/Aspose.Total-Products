@@ -1,7 +1,7 @@
 ---
 title: Export MSG to MD via C++
 description: C++ API to Convert MSG to MD without using Microsoft Word or Outlook
-url: /cpp/conversion/msg-to-md/
+url_ignore: /cpp/conversion/msg-to-md/
 family: total
 platformtag: cpp
 feature: conversion

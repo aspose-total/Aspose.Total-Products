@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση PS σε EXCEL
 description: Εξαγωγή PS σε EXCEL μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/ps-to-excel/
+url_ignore: /el/java/conversion/ps-to-excel/
 family: total
 platformtag: net
 feature: conversion

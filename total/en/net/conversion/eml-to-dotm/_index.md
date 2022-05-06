@@ -1,7 +1,7 @@
 ---
 title: C# API to Export EML to DOTM
 description: Convert EML to DOTM without using Microsoft Word or Outlook on .NET
-url: /net/conversion/eml-to-dotm/
+url_ignore: /net/conversion/eml-to-dotm/
 family: total
 platformtag: net
 feature: conversion

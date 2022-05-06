@@ -1,7 +1,7 @@
 ---
 title: Export MSG do DOT přes Java
 description: Java API pro převod MSG do DOT bez použití Microsoft Word nebo Outlook
-url: /cs/java/conversion/msg-to-dot/
+url_ignore: /cs/java/conversion/msg-to-dot/
 family: total
 platformtag: net
 feature: conversion

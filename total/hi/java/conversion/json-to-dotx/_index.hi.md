@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से JSON प्रारूप को DOTX में बदलें
 description: माइक्रोसॉफ्ट वर्ड का उपयोग किए बिना जावा में जेएसओएन को सीएचएम में पार्स करें
-url: /hi/java/conversion/json-to-dotx/
+url_ignore: /hi/java/conversion/json-to-dotx/
 family: total
 platformtag: net
 feature: conversion

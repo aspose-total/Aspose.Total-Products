@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert MD to XLT
 description: Convert MD to XLT via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/md-to-xlt/
+url_ignore: /cpp/conversion/md-to-xlt/
 family: total
 platformtag: cpp
 feature: conversion

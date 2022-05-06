@@ -1,7 +1,7 @@
 ---
 title: Java API to Export TEX to DOT
 description: Convert TEX to DOT using on premise Java API
-url: /java/conversion/tex-to-dot/
+url_ignore: /java/conversion/tex-to-dot/
 family: total
 platformtag: java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export XML to PPT in Android 
 description: Android API to Convert XML to PPT without using Microsoft Word
-url: /android-java/conversion/xml-to-ppt/
+url_ignore: /android-java/conversion/xml-to-ppt/
 family: total
 platformtag: android-java
 feature: conversion

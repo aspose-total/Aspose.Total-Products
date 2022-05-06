@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPSをTSVに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPSファイルをTSVに変換するC＃API
-url: /ja/net/conversion/ps-to-tsv/
+url_ignore: /ja/net/conversion/ps-to-tsv/
 family: total
 platformtag: net
 feature: conversion

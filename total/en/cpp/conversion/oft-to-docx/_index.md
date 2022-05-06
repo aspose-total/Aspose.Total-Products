@@ -1,7 +1,7 @@
 ---
 title: Export OFT to DOCX via C++
 description: C++ API to Convert OFT to DOCX without using Microsoft Word or Outlook
-url: /cpp/conversion/oft-to-docx/
+url_ignore: /cpp/conversion/oft-to-docx/
 family: total
 platformtag: cpp
 feature: conversion

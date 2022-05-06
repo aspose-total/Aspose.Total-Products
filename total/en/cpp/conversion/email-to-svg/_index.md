@@ -1,7 +1,7 @@
 ---
 title: Export EMAIL to SVG via C++
 description: C++ API to Convert EMAIL to SVG without using Microsoft Word or Outlook
-url: /cpp/conversion/email-to-svg/
+url_ignore: /cpp/conversion/email-to-svg/
 family: total
 platformtag: cpp
 feature: conversion

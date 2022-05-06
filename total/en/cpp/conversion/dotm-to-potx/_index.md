@@ -1,7 +1,7 @@
 ---
 title: Convert DOTM to POTX via C++
 description: Export DOTM to POTX in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/dotm-to-potx/
+url_ignore: /cpp/conversion/dotm-to-potx/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してMHTMLをPOTMに変換する
 description: MicrosoftWordを使用せずにMHTMLをPOTMに変換するJavaAPI
-url: /ja/java/conversion/mhtml-to-potm/
+url_ignore: /ja/java/conversion/mhtml-to-potm/
 family: total
 platformtag: net
 feature: conversion

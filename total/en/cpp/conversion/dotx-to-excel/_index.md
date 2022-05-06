@@ -1,7 +1,7 @@
 ---
 title: Convert DOTX to EXCEL in C++
 description: C++ API to Convert DOTX to EXCEL without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/dotx-to-excel/
+url_ignore: /cpp/conversion/dotx-to-excel/
 family: total
 platformtag: cpp
 feature: conversion

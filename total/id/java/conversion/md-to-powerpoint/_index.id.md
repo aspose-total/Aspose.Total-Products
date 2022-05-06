@@ -1,7 +1,7 @@
 ---
 title: Konversi MD ke POWERPOINT melalui Java API
 description: Java API untuk Mengonversi MD ke POWERPOINT tanpa menggunakan Microsoft Word
-url: /id/java/conversion/md-to-powerpoint/
+url_ignore: /id/java/conversion/md-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

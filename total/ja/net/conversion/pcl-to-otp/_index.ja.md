@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPCLをOTPにエクスポートする
 description: MicrosoftWordを使用せずにPCLをOTPに変換する.NETAPI
-url: /ja/net/conversion/pcl-to-otp/
+url_ignore: /ja/net/conversion/pcl-to-otp/
 family: total
 platformtag: net
 feature: conversion

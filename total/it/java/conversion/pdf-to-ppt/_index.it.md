@@ -1,7 +1,7 @@
 ---
 title: Converti PDF in PPT tramite API Java
 description: API Java per convertire PDF in PPT senza utilizzare Microsoft Word
-url: /it/java/conversion/pdf-to-ppt/
+url_ignore: /it/java/conversion/pdf-to-ppt/
 family: total
 platformtag: net
 feature: conversion

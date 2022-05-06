@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга MD в XLSB
 description: Экспорт MD в XLSB через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/md-to-xlsb/
+url_ignore: /ru/java/conversion/md-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование MHTML в PPSX через Java API
 description: Java API для преобразования MHTML в PPSX без использования Microsoft Word
-url: /ru/java/conversion/mhtml-to-ppsx/
+url_ignore: /ru/java/conversion/mhtml-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

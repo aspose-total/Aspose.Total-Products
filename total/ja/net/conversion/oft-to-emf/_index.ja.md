@@ -1,7 +1,7 @@
 ---
 title: OFTをEMFにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにOFTをEMFに変換する
-url: /ja/net/conversion/oft-to-emf/
+url_ignore: /ja/net/conversion/oft-to-emf/
 family: total
 platformtag: net
 feature: conversion

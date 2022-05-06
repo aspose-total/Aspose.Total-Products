@@ -1,7 +1,7 @@
 ---
 title: Konwertuj XPS na DXF przez C# API
 description: Eksportuj XPS do DXF w swoich aplikacjach .NET bez korzystania z aplikacji innych firm
-url: /pl/net/conversion/xps-to-dxf/
+url_ignore: /pl/net/conversion/xps-to-dxf/
 family: total
 platformtag: net
 feature: conversion

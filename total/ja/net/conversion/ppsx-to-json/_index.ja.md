@@ -1,7 +1,7 @@
 ---
 title: .NETを介してPPSXをJSON形式に変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPSXをJSONに変換する
-url: /ja/net/conversion/ppsx-to-json/
+url_ignore: /ja/net/conversion/ppsx-to-json/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: MDをPCLにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにMDをPCLに変換する
-url: /ja/net/conversion/md-to-pcl/
+url_ignore: /ja/net/conversion/md-to-pcl/
 family: total
 platformtag: net
 feature: conversion

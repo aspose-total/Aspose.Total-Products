@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى PPT عبر .NET
 description: تحليل JSON إلى PPT في C# بدون استخدام Microsoft PowerPoint
-url: /ar/net/conversion/json-to-ppt/
+url_ignore: /ar/net/conversion/json-to-ppt/
 family: total
 platformtag: net
 feature: conversion

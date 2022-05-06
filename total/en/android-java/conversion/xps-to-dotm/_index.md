@@ -1,7 +1,7 @@
 ---
 title: Android API to Render XPS to DOTM
 description: Transform XPS to DOTM via Android via Java API
-url: /android-java/conversion/xps-to-dotm/
+url_ignore: /android-java/conversion/xps-to-dotm/
 family: total
 platformtag: android-java
 feature: conversion

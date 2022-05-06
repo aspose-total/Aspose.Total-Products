@@ -1,7 +1,7 @@
 ---
 title: Преобразование XSLFO в WMZ через Java
 description: Экспорт файла XSLFO в WMZ в ваших приложениях Java без использования каких-либо сторонних приложений.
-url: /ru/java/conversion/xslfo-to-wmz/
+url_ignore: /ru/java/conversion/xslfo-to-wmz/
 family: total
 platformtag: net
 feature: conversion

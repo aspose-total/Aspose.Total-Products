@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını Java ile PPSX'ye Dönüştür
 description: Microsoft PowerPoint kullanmadan Java'da JSON'u PPSX'ye ayrıştırın
-url: /tr/java/conversion/json-to-ppsx/
+url_ignore: /tr/java/conversion/json-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

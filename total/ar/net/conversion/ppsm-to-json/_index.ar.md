@@ -1,7 +1,7 @@
 ---
 title: تحويل PPSM إلى تنسيق JSON عبر .NET
 description: تحويل PPSM إلى JSON في C# بدون استخدام Microsoft Excel أو Powerpoint
-url: /ar/net/conversion/ppsm-to-json/
+url_ignore: /ar/net/conversion/ppsm-to-json/
 family: total
 platformtag: net
 feature: conversion

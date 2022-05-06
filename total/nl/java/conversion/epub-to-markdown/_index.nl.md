@@ -1,7 +1,7 @@
 ---
 title: Java API om EPUB naar MARKDOWN te exporteren
 description: Converteer EPUB naar MARKDOWN met behulp van on-premise Java API
-url: /nl/java/conversion/epub-to-markdown/
+url_ignore: /nl/java/conversion/epub-to-markdown/
 family: total
 platformtag: net
 feature: conversion

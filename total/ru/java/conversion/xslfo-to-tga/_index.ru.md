@@ -1,7 +1,7 @@
 ---
 title: Преобразование XSLFO в TGA через Java
 description: Экспорт файла XSLFO в TGA в ваших приложениях Java без использования каких-либо сторонних приложений.
-url: /ru/java/conversion/xslfo-to-tga/
+url_ignore: /ru/java/conversion/xslfo-to-tga/
 family: total
 platformtag: net
 feature: conversion

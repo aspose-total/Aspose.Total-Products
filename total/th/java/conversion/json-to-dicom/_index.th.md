@@ -1,7 +1,7 @@
 ---
 title: แปลงรูปแบบ JSON เป็น DICOM ผ่าน Java
 description: แยก JSON เป็น DICOM ใน Java โดยไม่ต้องใช้ Microsoft PowerPoint
-url: /th/java/conversion/json-to-dicom/
+url_ignore: /th/java/conversion/json-to-dicom/
 family: total
 platformtag: net
 feature: conversion

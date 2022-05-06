@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to ODP in Android via Java
 description: TXT to ODP conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/txt-to-odp/
+url_ignore: /android-java/conversion/txt-to-odp/
 family: total
 platformtag: android-java
 feature: conversion

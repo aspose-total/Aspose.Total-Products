@@ -1,7 +1,7 @@
 ---
 title: MD'yi RTF'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan MD'yi RTF'ye dönüştürün
-url: /tr/net/conversion/md-to-rtf/
+url_ignore: /tr/net/conversion/md-to-rtf/
 family: total
 platformtag: net
 feature: conversion

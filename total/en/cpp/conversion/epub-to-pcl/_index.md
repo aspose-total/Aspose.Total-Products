@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export EPUB to PCL
 description: Convert EPUB to PCL within C++ applications.
-url: /cpp/conversion/epub-to-pcl/
+url_ignore: /cpp/conversion/epub-to-pcl/
 family: total
 platformtag: cpp
 feature: conversion

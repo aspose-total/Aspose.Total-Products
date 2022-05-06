@@ -1,7 +1,7 @@
 ---
 title: Java API om PDF naar OTT te exporteren
 description: Converteer PDF naar OTT met behulp van on-premise Java API
-url: /nl/java/conversion/pdf-to-ott/
+url_ignore: /nl/java/conversion/pdf-to-ott/
 family: total
 platformtag: net
 feature: conversion

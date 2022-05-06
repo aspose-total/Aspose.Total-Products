@@ -1,7 +1,7 @@
 ---
 title: Export CGM do PPT přes C# API
 description: .NET API pro převod CGM na PPT bez použití aplikace Microsoft Word
-url: /cs/net/conversion/cgm-to-ppt/
+url_ignore: /cs/net/conversion/cgm-to-ppt/
 family: total
 platformtag: net
 feature: conversion

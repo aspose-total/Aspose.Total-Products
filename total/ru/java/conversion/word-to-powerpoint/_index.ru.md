@@ -1,7 +1,7 @@
 ---
 title: Преобразование WORD в POWERPOINT через Java
 description: Java API для экспорта WORD в POWERPOINT без использования Microsoft Word или PowerPoint
-url: /ru/java/conversion/word-to-powerpoint/
+url_ignore: /ru/java/conversion/word-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

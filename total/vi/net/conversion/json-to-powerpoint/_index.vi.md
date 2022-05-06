@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi định dạng JSON sang POWERPOINT qua .NET
 description: Phân tích cú pháp JSON thành POWERPOINT trong C# mà không cần sử dụng Microsoft PowerPoint
-url: /vi/net/conversion/json-to-powerpoint/
+url_ignore: /vi/net/conversion/json-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

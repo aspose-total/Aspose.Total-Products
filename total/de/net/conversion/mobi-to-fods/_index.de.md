@@ -1,7 +1,7 @@
 ---
 title: .NET-API zum Konvertieren von MOBI in FODS
 description: C#-API zum Konvertieren von MOBI in FODS ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/mobi-to-fods/
+url_ignore: /de/net/conversion/mobi-to-fods/
 family: total
 platformtag: net
 feature: conversion

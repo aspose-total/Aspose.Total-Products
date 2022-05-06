@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPCLをODPにエクスポートする
 description: MicrosoftWordを使用せずにPCLをODPに変換する.NETAPI
-url: /ja/net/conversion/pcl-to-odp/
+url_ignore: /ja/net/conversion/pcl-to-odp/
 family: total
 platformtag: net
 feature: conversion

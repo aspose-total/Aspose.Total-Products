@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση PDF σε ODS
 description: Εξαγωγή PDF σε ODS μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/pdf-to-ods/
+url_ignore: /el/java/conversion/pdf-to-ods/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPOTXをEXCELに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPOTXをEXCELに変換する
-url: /ja/net/conversion/potx-to-excel/
+url_ignore: /ja/net/conversion/potx-to-excel/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert POWERPOINT to MARKDOWN in Android via Java
 description: Convert POWERPOINT to MARKDOWN in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/powerpoint-to-markdown/
+url_ignore: /android-java/conversion/powerpoint-to-markdown/
 family: total
 platformtag: android-java
 feature: conversion

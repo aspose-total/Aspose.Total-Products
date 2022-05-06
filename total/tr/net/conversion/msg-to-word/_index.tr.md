@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı WORD'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan MSG'i WORD'ye dönüştürün
-url: /tr/net/conversion/msg-to-word/
+url_ignore: /tr/net/conversion/msg-to-word/
 family: total
 platformtag: net
 feature: conversion

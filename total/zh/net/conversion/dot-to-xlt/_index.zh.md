@@ -1,7 +1,7 @@
 ---
 title: .NET API 将 DOT 转换为 XLT
 description: 无需使用 Microsoft Excel 或 Adobe Reader 即可将 DOT 转换为 XLT 的 C# API
-url: /zh/net/conversion/dot-to-xlt/
+url_ignore: /zh/net/conversion/dot-to-xlt/
 family: total
 platformtag: net
 feature: conversion
@@ -46,7 +46,6 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS XLT EXCEL XLSX SXC TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-(https
 {{% blocks/products/pf/feature-page-section  h2="通过 C# 在 XLT 文件中添加自定义属性" %}}
 在将 DOT 转换为 XLT 时，[Aspose.Cells for .NET](https://products.aspose.com/cells/net/) 允许您在 XLT 文档中添加自定义属性。为了添加自定义属性，您可以对 [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection)类。 Add 方法将属性添加到 Excel 文件，并以 [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) 的形式返回新文档属性的引用/Documentproperty) 对象。 
 {{% blocks/products/pf/feature-page-code %}}

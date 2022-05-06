@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PDF to XLTM
 description: Convert PDF to XLTM via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/pdf-to-xltm/
+url_ignore: /cpp/conversion/pdf-to-xltm/
 family: total
 platformtag: cpp
 feature: conversion

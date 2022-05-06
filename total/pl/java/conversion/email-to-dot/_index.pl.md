@@ -1,7 +1,7 @@
 ---
 title: Eksportuj EMAIL do DOT przez Java
 description: Java API do konwersji EMAIL na DOT bez użycia Microsoft Word lub Outlook
-url: /pl/java/conversion/email-to-dot/
+url_ignore: /pl/java/conversion/email-to-dot/
 family: total
 platformtag: net
 feature: conversion

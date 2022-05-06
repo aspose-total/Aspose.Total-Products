@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to POWERPOINT via .NET 
 description: Parse JSON to POWERPOINT in C# without using Microsoft PowerPoint
-url: /net/conversion/json-to-powerpoint/
+url_ignore: /net/conversion/json-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

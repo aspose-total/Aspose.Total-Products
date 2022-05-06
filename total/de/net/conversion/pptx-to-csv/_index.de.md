@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie PPTX über C# in CSV
 description: Konvertieren Sie PPTX in C# in CSV, ohne Microsoft Excel oder Powerpoint zu verwenden
-url: /de/net/conversion/pptx-to-csv/
+url_ignore: /de/net/conversion/pptx-to-csv/
 family: total
 platformtag: net
 feature: conversion

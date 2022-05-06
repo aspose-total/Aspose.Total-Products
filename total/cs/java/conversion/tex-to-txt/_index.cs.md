@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení TEX do TXT
 description: Export TEX do TXT přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/tex-to-txt/
+url_ignore: /cs/java/conversion/tex-to-txt/
 family: total
 platformtag: net
 feature: conversion

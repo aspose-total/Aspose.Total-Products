@@ -1,7 +1,7 @@
 ---
 title: Преобразование XPS в XLSB через C# API
 description: C# API для преобразования файла XPS в XLSB без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/xps-to-xlsb/
+url_ignore: /ru/net/conversion/xps-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

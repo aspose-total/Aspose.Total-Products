@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPOTXをMHTMLに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPOTXをMHTMLに変換する
-url: /ja/net/conversion/potx-to-mhtml/
+url_ignore: /ja/net/conversion/potx-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

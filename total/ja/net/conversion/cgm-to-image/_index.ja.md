@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してCGMをIMAGEに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでCGMをIMAGEにエクスポートします
-url: /ja/net/conversion/cgm-to-image/
+url_ignore: /ja/net/conversion/cgm-to-image/
 family: total
 platformtag: net
 feature: conversion

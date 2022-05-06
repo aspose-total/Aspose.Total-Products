@@ -1,7 +1,7 @@
 ---
 title: OTT'yi FODS'ye Dönüştürmek için .NET API
 description: Microsoft Excel veya Adobe Reader kullanmadan OTT'yi FODS'ye dönüştürmek için C# API'si
-url: /tr/net/conversion/ott-to-fods/
+url_ignore: /tr/net/conversion/ott-to-fods/
 family: total
 platformtag: net
 feature: conversion

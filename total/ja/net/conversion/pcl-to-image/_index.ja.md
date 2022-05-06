@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPCLをIMAGEに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでPCLをIMAGEにエクスポートします
-url: /ja/net/conversion/pcl-to-image/
+url_ignore: /ja/net/conversion/pcl-to-image/
 family: total
 platformtag: net
 feature: conversion

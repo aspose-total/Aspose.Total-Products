@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert CGM to MD
 description: Convert CGM to MD via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/cgm-to-md/
+url_ignore: /cpp/conversion/cgm-to-md/
 family: total
 platformtag: cpp
 feature: conversion

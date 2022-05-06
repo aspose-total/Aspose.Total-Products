@@ -1,7 +1,7 @@
 ---
 title: تحويل PPTM إلى XLTM عبر C#
 description: قم بتحويل PPTM إلى XLTM في C# بدون استخدام Microsoft Excel أو Powerpoint
-url: /ar/net/conversion/pptm-to-xltm/
+url_ignore: /ar/net/conversion/pptm-to-xltm/
 family: total
 platformtag: net
 feature: conversion

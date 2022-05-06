@@ -1,7 +1,7 @@
 ---
 title: Export XML to SWF in Android 
 description: Android API to Convert XML to SWF without using Microsoft Word
-url: /android-java/conversion/xml-to-swf/
+url_ignore: /android-java/conversion/xml-to-swf/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to XLTM in C++
 description: C++ API to Convert WORDML to XLTM without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/wordml-to-xltm/
+url_ignore: /cpp/conversion/wordml-to-xltm/
 family: total
 platformtag: cpp
 feature: conversion

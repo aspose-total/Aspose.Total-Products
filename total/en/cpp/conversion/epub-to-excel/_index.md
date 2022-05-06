@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert EPUB to EXCEL
 description: Convert EPUB to EXCEL via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/epub-to-excel/
+url_ignore: /cpp/conversion/epub-to-excel/
 family: total
 platformtag: cpp
 feature: conversion

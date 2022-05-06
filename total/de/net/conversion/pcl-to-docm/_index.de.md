@@ -1,7 +1,7 @@
 ---
 title: C#-API zum Exportieren von PCL nach DOCM
 description: Konvertieren Sie PCL in DOCM, ohne Microsoft Word zu verwenden
-url: /de/net/conversion/pcl-to-docm/
+url_ignore: /de/net/conversion/pcl-to-docm/
 family: total
 platformtag: net
 feature: conversion

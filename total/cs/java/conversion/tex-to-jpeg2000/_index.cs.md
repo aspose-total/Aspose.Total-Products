@@ -1,7 +1,7 @@
 ---
 title: Převést TEX na JPEG2000 přes Java
 description: Exportujte soubor TEX do JPEG2000 ve svých aplikacích Java bez použití jakékoli aplikace třetí strany
-url: /cs/java/conversion/tex-to-jpeg2000/
+url_ignore: /cs/java/conversion/tex-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

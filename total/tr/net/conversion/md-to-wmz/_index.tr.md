@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla MD'yi WMZ'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan MD'yi .NET uygulamalarınızda WMZ'ye aktarın
-url: /tr/net/conversion/md-to-wmz/
+url_ignore: /tr/net/conversion/md-to-wmz/
 family: total
 platformtag: net
 feature: conversion

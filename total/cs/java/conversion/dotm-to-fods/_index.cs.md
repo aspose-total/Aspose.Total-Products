@@ -1,7 +1,7 @@
 ---
 title: Java API pro převod DOTM do FODS
 description: Převeďte DOTM na FODS přes Java bez použití Microsoft Word nebo Microsoft Excel
-url: /cs/java/conversion/dotm-to-fods/
+url_ignore: /cs/java/conversion/dotm-to-fods/
 family: total
 platformtag: net
 feature: conversion

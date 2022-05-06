@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to PPT via C++
 description: Export WORDML to PPT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/wordml-to-ppt/
+url_ignore: /cpp/conversion/wordml-to-ppt/
 family: total
 platformtag: cpp
 feature: conversion

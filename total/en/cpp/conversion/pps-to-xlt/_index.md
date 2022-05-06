@@ -1,7 +1,7 @@
 ---
 title: Convert PPS to XLT via C++ 
 description: Export PPS to XLT in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pps-to-xlt/
+url_ignore: /cpp/conversion/pps-to-xlt/
 family: total
 platformtag: cpp
 feature: conversion

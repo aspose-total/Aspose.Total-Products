@@ -1,7 +1,7 @@
 ---
 title: C# API pro export PS do WORDML
 description: Převeďte PS na WORDML bez použití aplikace Microsoft Word
-url: /cs/net/conversion/ps-to-wordml/
+url_ignore: /cs/net/conversion/ps-to-wordml/
 family: total
 platformtag: net
 feature: conversion

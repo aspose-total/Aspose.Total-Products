@@ -1,7 +1,7 @@
 ---
 title: Java API om DOCM naar XLAM te converteren
 description: Converteer DOCM naar XLAM via Java zonder Microsoft Word of Microsoft Excel te gebruiken
-url: /nl/java/conversion/docm-to-xlam/
+url_ignore: /nl/java/conversion/docm-to-xlam/
 family: total
 platformtag: net
 feature: conversion
@@ -34,7 +34,7 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Conversievereisten" %}}Document
-Voordat u DOCM naar XLAM converteert, kunt u ongebruikte informatie uit het DOCM-documentverwijderen via [Aspose.Words for Java](https://products.aspose.com/words/java/). Soms moet u ongebruikte of dubbele informatie verwijderen om de grootte van het uitvoerddocumentn de verwerkingstijd te verminderen. Met de klasse [CleanupOptions](https://apireference.aspose.com/words/java/com.aspose.words/CleanupOptions) kunt u opties opgeven voor het opschonen van dodocument Om dubbele stijlen of alleen ongebruikte stijlen of lijsten uit het docdocumentverwijderen, kunt u de methode [Cleanup](https://apireference.aspose.com/words/java/com.aspose.words/Docmument#cleanup()) gebruiken. U kunt de [UnusedStyles](https://apireference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) en [UnusedBuiltinStyles](https://apireference.aspose.com/words/java gebruiken /com.aspose.words/cleanupoptions#UnusedBuiltinStyles) eigenschappen om stijlen te detecteren en te verwijderen die zijn gemarkeerd als "ongebruikt".  
+Voordat u DOCM naar XLAM converteert, kunt u ongebruikte informatie uit het DOCM-documentverwijderen via [Aspose.Words for Java](https://products.aspose.com/words/java/). Soms moet u ongebruikte of dubbele informatie verwijderen om de grootte van het uitvoerddocumentn de verwerkingstijd te verminderen. Met de klasse [CleanupOptions](https://apireference.aspose.com/words/java/com.aspose.words/CleanupOptions) kunt u opties opgeven voor het opschonen van dodocument Om dubbele stijlen of alleen ongebruikte stijlen of lijsten uit het docdocumentverwijderen, kunt u de methode [Cleanup](https://apireference.aspose.com/words/java/com.aspose.words/Document#cleanup()) gebruiken. U kunt de [UnusedStyles](https://apireference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) en [UnusedBuiltinStyles](https://apireference.aspose.com/words/java gebruiken /com.aspose.words/cleanupoptions#UnusedBuiltinStyles) eigenschappen om stijlen te detecteren en te verwijderen die zijn gemarkeerd als "ongebruikt".  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-documentjava" >}}

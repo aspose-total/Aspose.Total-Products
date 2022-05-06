@@ -1,7 +1,7 @@
 ---
 title: WORDMLをCSVに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにWORDMLをCSVに変換するC＃API
-url: /ja/net/conversion/wordml-to-csv/
+url_ignore: /ja/net/conversion/wordml-to-csv/
 family: total
 platformtag: net
 feature: conversion

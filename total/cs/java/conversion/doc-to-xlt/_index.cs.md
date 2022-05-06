@@ -1,7 +1,7 @@
 ---
 title: Java API pro převod DOC do XLT
 description: Převeďte DOC na XLT přes Java bez použití Microsoft Word nebo Microsoft Excel
-url: /cs/java/conversion/doc-to-xlt/
+url_ignore: /cs/java/conversion/doc-to-xlt/
 family: total
 platformtag: net
 feature: conversion

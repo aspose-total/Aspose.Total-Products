@@ -1,7 +1,7 @@
 ---
 title: Konversi MD ke SVGZ melalui C# API
 description: Ekspor MD ke SVGZ di aplikasi .NET Anda tanpa menggunakan aplikasi pihak ketiga
-url: /id/net/conversion/md-to-svgz/
+url_ignore: /id/net/conversion/md-to-svgz/
 family: total
 platformtag: net
 feature: conversion

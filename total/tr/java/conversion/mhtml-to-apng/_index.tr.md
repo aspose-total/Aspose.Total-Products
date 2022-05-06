@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla MHTML'yi APNG'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan MHTML dosyasını Java uygulamalarınızda APNG'ye aktarın
-url: /tr/java/conversion/mhtml-to-apng/
+url_ignore: /tr/java/conversion/mhtml-to-apng/
 family: total
 platformtag: net
 feature: conversion

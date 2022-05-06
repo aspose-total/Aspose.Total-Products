@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla TEX'yi IMAGE'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan TEX'yi .NET uygulamalarınızda IMAGE'ye aktarın
-url: /tr/net/conversion/tex-to-image/
+url_ignore: /tr/net/conversion/tex-to-image/
 family: total
 platformtag: net
 feature: conversion

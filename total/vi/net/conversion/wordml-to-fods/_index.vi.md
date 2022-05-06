@@ -1,7 +1,7 @@
 ---
 title: .NET API để chuyển đổi WORDML sang FODS
 description: C# API để chuyển đổi WORDML sang FODS mà không cần sử dụng Microsoft Excel hoặc Adobe Reader
-url: /vi/net/conversion/wordml-to-fods/
+url_ignore: /vi/net/conversion/wordml-to-fods/
 family: total
 platformtag: net
 feature: conversion

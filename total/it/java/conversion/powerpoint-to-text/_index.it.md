@@ -1,7 +1,7 @@
 ---
 title: Converti POWERPOINT in TEXT tramite Java
 description: API Java per esportare POWERPOINT in TEXT senza utilizzare Microsoft Word o PowerPoint
-url: /it/java/conversion/powerpoint-to-text/
+url_ignore: /it/java/conversion/powerpoint-to-text/
 family: total
 platformtag: net
 feature: conversion
@@ -29,14 +29,16 @@ In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspos
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisiti di conversione" %}}
 Utilizzando l'API, puoi anche eseguire la conversione da file POWERPOINT a TEXT con filigrana. Per aggiungere una filigrana al tuo textumento TEXT, puoi prima convertire il file POWERPOINT in HTML e aggiungervi una filigrana. Per aggiungere una filigrana, carica il file HTML appena creato utilizzando la classe [Textument](https://apiference.aspose.com/words/java/com.aspose.words/Textument), crea un'istanza di TextWatermarkOptions e imposta le sue proprietà, chiama il metodo Watermark.setText e passa il testo e l'oggetto della filigrana di TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}
+{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга SVG в EXCEL
 description: Экспорт SVG в EXCEL через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/svg-to-excel/
+url_ignore: /ru/java/conversion/svg-to-excel/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: PDF'yi ODT'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan PDF'yi ODT'ye dönüştürün
-url: /tr/net/conversion/pdf-to-odt/
+url_ignore: /tr/net/conversion/pdf-to-odt/
 family: total
 platformtag: net
 feature: conversion

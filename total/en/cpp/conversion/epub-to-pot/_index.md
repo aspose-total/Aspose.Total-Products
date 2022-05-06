@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert EPUB to POT  
 description: Convert EPUB to POT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/epub-to-pot/
+url_ignore: /cpp/conversion/epub-to-pot/
 family: total
 platformtag: cpp
 feature: conversion

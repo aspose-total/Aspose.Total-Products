@@ -1,7 +1,7 @@
 ---
 title: MDをGIFにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してMDをGIFに変換する
-url: /ja/java/conversion/md-to-gif/
+url_ignore: /ja/java/conversion/md-to-gif/
 family: total
 platformtag: net
 feature: conversion

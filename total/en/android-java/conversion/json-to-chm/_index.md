@@ -1,7 +1,7 @@
 ---
 title: Convert JSON Format to CHM in Android via Java 
 description: Parse JSON to CHM in Java without using Microsoft Word
-url: /android-java/conversion/json-to-chm/
+url_ignore: /android-java/conversion/json-to-chm/
 family: total
 platformtag: android-java
 feature: conversion

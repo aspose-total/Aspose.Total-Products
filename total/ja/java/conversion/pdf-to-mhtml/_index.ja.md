@@ -1,7 +1,7 @@
 ---
 title: PDFをMHTMLにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してPDFをMHTMLに変換する
-url: /ja/java/conversion/pdf-to-mhtml/
+url_ignore: /ja/java/conversion/pdf-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

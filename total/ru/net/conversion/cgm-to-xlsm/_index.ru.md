@@ -1,7 +1,7 @@
 ---
 title: Преобразование CGM в XLSM через C# API
 description: C# API для преобразования файла CGM в XLSM без использования Microsoft Excel или Adobe Reader
-url: /ru/net/conversion/cgm-to-xlsm/
+url_ignore: /ru/net/conversion/cgm-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

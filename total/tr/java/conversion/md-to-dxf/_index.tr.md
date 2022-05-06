@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla MD'yi DXF'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan MD dosyasını Java uygulamalarınızda DXF'ye aktarın
-url: /tr/java/conversion/md-to-dxf/
+url_ignore: /tr/java/conversion/md-to-dxf/
 family: total
 platformtag: net
 feature: conversion

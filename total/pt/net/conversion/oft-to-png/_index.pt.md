@@ -1,7 +1,7 @@
 ---
 title: API C# para exportar OFT para PNG
 description: Converta OFT para PNG sem usar o Microsoft Word ou Outlook em .NET
-url: /pt/net/conversion/oft-to-png/
+url_ignore: /pt/net/conversion/oft-to-png/
 family: total
 platformtag: net
 feature: conversion

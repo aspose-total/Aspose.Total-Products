@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMDをTXTに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにMDファイルをTXTに変換するC＃API
-url: /ja/net/conversion/md-to-txt/
+url_ignore: /ja/net/conversion/md-to-txt/
 family: total
 platformtag: net
 feature: conversion

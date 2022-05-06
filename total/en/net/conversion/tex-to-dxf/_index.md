@@ -1,7 +1,7 @@
 ---
 title: Convert TEX to DXF via C# API
 description: Export TEX to DXF in your .NET applications without using any third party application 
-url: /net/conversion/tex-to-dxf/
+url_ignore: /net/conversion/tex-to-dxf/
 family: total
 platformtag: net
 feature: conversion

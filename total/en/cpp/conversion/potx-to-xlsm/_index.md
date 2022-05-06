@@ -1,7 +1,7 @@
 ---
 title: Convert POTX to XLSM via C++ 
 description: Export POTX to XLSM in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/potx-to-xlsm/
+url_ignore: /cpp/conversion/potx-to-xlsm/
 family: total
 platformtag: cpp
 feature: conversion

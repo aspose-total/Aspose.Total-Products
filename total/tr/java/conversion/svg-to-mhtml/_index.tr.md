@@ -1,7 +1,7 @@
 ---
 title: SVG'yi MHTML'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak SVG'yi MHTML'ye dönüştürün
-url: /tr/java/conversion/svg-to-mhtml/
+url_ignore: /tr/java/conversion/svg-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

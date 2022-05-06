@@ -1,7 +1,7 @@
 ---
 title: Convert PPT to JSON format via .NET 
 description: Convert PPT to JSON in C# without using Microsoft Excel or Powerpoint
-url: /net/conversion/ppt-to-json/
+url_ignore: /net/conversion/ppt-to-json/
 family: total
 platformtag: net
 feature: conversion

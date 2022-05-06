@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení XML do DIF
 description: Export XML do DIF přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/xml-to-dif/
+url_ignore: /cs/java/conversion/xml-to-dif/
 family: total
 platformtag: net
 feature: conversion

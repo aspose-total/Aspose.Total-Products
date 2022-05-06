@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή PS σε DXF μέσω C# API
 description: Εξάγετε το PS σε DXF στις εφαρμογές σας .NET χωρίς να χρησιμοποιήσετε καμία εφαρμογή τρίτου μέρους
-url: /el/net/conversion/ps-to-dxf/
+url_ignore: /el/net/conversion/ps-to-dxf/
 family: total
 platformtag: net
 feature: conversion

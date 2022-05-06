@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PDF to TXT
 description: Convert PDF to TXT via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/pdf-to-txt/
+url_ignore: /cpp/conversion/pdf-to-txt/
 family: total
 platformtag: cpp
 feature: conversion

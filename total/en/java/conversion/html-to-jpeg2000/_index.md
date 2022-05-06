@@ -1,7 +1,7 @@
 ---
 title: Convert HTML to JPEG2000 via Java
 description: Export HTML file to JPEG2000  in your Java applications without using any third party application 
-url: /java/conversion/html-to-jpeg2000/
+url_ignore: /java/conversion/html-to-jpeg2000/
 family: total
 platformtag: java
 feature: conversion

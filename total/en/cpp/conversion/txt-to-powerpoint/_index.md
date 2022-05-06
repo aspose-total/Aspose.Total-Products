@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to POWERPOINT via C++
 description: Export TXT to POWERPOINT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/txt-to-powerpoint/
+url_ignore: /cpp/conversion/txt-to-powerpoint/
 family: total
 platformtag: cpp
 feature: conversion

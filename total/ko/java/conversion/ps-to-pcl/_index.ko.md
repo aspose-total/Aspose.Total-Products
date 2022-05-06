@@ -1,7 +1,7 @@
 ---
 title: PS을 PCL으로 내보내기 위한 Java API
 description: 온프레미스 Java API를 사용하여 PS을 PCL으로 변환
-url: /ko/java/conversion/ps-to-pcl/
+url_ignore: /ko/java/conversion/ps-to-pcl/
 family: total
 platformtag: net
 feature: conversion

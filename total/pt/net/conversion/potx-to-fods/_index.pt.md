@@ -1,7 +1,7 @@
 ---
 title: Converter POTX para FODS via C#
 description: Converter POTX para FODS em C# sem usar o Microsoft Excel ou Powerpoint
-url: /pt/net/conversion/potx-to-fods/
+url_ignore: /pt/net/conversion/potx-to-fods/
 family: total
 platformtag: net
 feature: conversion

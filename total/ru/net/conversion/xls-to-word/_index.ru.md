@@ -1,7 +1,7 @@
 ---
 title: Преобразование XLS в WORD с помощью .NET 
 description: Преобразование XLS в WORD на платформах .NET Framework, .NET Core, Mono или Xamarin
-url: /ru/net/conversion/xls-to-word/
+url_ignore: /ru/net/conversion/xls-to-word/
 family: total
 platformtag: net
 feature: conversion

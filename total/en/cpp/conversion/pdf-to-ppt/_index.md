@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PDF to PPT  
 description: Convert PDF to PPT via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/pdf-to-ppt/
+url_ignore: /cpp/conversion/pdf-to-ppt/
 family: total
 platformtag: cpp
 feature: conversion

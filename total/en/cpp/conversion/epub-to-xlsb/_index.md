@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert EPUB to XLSB
 description: Convert EPUB to XLSB via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/epub-to-xlsb/
+url_ignore: /cpp/conversion/epub-to-xlsb/
 family: total
 platformtag: cpp
 feature: conversion

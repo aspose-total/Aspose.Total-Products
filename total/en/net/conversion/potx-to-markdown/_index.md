@@ -1,7 +1,7 @@
 ---
 title: Convert POTX to MARKDOWN via C# 
 description: Convert POTX to MARKDOWN in C# without using Microsoft Excel or Powerpoint
-url: /net/conversion/potx-to-markdown/
+url_ignore: /net/conversion/potx-to-markdown/
 family: total
 platformtag: net
 feature: conversion

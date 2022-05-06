@@ -1,7 +1,7 @@
 ---
 title: Java経由でPPSMをTEXTに変換する
 description: MicrosoftWordやPowerPointを使用せずにPPSMをTEXTにエクスポートするJavaAPI
-url: /ja/java/conversion/ppsm-to-text/
+url_ignore: /ja/java/conversion/ppsm-to-text/
 family: total
 platformtag: net
 feature: conversion

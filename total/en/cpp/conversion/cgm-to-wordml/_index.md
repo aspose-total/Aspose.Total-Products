@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export CGM to WORDML
 description: Convert CGM to WORDML within C++ applications.
-url: /cpp/conversion/cgm-to-wordml/
+url_ignore: /cpp/conversion/cgm-to-wordml/
 family: total
 platformtag: cpp
 feature: conversion

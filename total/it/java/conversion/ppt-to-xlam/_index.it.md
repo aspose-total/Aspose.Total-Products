@@ -1,7 +1,7 @@
 ---
 title: Converti PPT in formato XLAM tramite Java
 description: Converti PPT in formato XLAM tramite Java senza utilizzare Microsoft Excel o PowerPoint
-url: /it/java/conversion/ppt-to-xlam/
+url_ignore: /it/java/conversion/ppt-to-xlam/
 family: total
 platformtag: net
 feature: conversion

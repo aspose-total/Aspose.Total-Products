@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก EMAIL ไปยัง RTF
 description: แปลง EMAIL เป็น RTF โดยไม่ต้องใช้ Microsoft Word หรือ Outlook บน .NET
-url: /th/net/conversion/email-to-rtf/
+url_ignore: /th/net/conversion/email-to-rtf/
 family: total
 platformtag: net
 feature: conversion

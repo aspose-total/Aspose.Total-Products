@@ -1,7 +1,7 @@
 ---
 title: Konversi PDF ke SVGZ melalui Java
 description: Ekspor file PDF ke SVGZ di aplikasi Java Anda tanpa menggunakan aplikasi pihak ketiga
-url: /id/java/conversion/pdf-to-svgz/
+url_ignore: /id/java/conversion/pdf-to-svgz/
 family: total
 platformtag: net
 feature: conversion

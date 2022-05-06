@@ -1,7 +1,7 @@
 ---
 title: EMAIL'i Java aracılığıyla PCL'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan EMAIL'i PCL'ye Dönüştürmek için Java API
-url: /tr/java/conversion/email-to-pcl/
+url_ignore: /tr/java/conversion/email-to-pcl/
 family: total
 platformtag: net
 feature: conversion

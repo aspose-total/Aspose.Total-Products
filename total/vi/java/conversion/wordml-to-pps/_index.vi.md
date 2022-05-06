@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi WORDML sang PPS qua Java
 description: Java API để xuất WORDML sang PPS mà không cần sử dụng Microsoft Word hoặc PowerPoint
-url: /vi/java/conversion/wordml-to-pps/
+url_ignore: /vi/java/conversion/wordml-to-pps/
 family: total
 platformtag: net
 feature: conversion

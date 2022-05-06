@@ -1,7 +1,7 @@
 ---
 title: Convert POWERPOINT to XLTX via C++ 
 description: Export POWERPOINT to XLTX in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/powerpoint-to-xltx/
+url_ignore: /cpp/conversion/powerpoint-to-xltx/
 family: total
 platformtag: cpp
 feature: conversion

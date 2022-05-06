@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXSLFOをODPにエクスポートする
 description: MicrosoftWordを使用せずにXSLFOをODPに変換する.NETAPI
-url: /ja/net/conversion/xslfo-to-odp/
+url_ignore: /ja/net/conversion/xslfo-to-odp/
 family: total
 platformtag: net
 feature: conversion

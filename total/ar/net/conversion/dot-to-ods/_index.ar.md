@@ -1,7 +1,7 @@
 ---
 title: NET API لتحويل DOT إلى ODS
 description: C# API لتحويل DOT إلى ODS بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/dot-to-ods/
+url_ignore: /ar/net/conversion/dot-to-ods/
 family: total
 platformtag: net
 feature: conversion

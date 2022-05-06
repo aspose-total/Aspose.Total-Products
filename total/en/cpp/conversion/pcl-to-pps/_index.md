@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PCL to PPS  
 description: Convert PCL to PPS via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/pcl-to-pps/
+url_ignore: /cpp/conversion/pcl-to-pps/
 family: total
 platformtag: cpp
 feature: conversion

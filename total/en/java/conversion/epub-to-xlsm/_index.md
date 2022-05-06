@@ -1,7 +1,7 @@
 ---
 title: Java API to Render EPUB to XLSM
 description: Export EPUB to XLSM via Java API without using Microsoft Excel or Adobe Reader
-url: /java/conversion/epub-to-xlsm/
+url_ignore: /java/conversion/epub-to-xlsm/
 family: total
 platformtag: java
 feature: conversion

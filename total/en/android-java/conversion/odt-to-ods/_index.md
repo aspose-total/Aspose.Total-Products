@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert ODT to ODS
 description: Convert ODT to ODS in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/odt-to-ods/
+url_ignore: /android-java/conversion/odt-to-ods/
 family: total
 platformtag: android-java
 feature: conversion

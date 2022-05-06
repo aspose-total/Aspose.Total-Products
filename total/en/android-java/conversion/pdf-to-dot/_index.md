@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PDF to DOT
 description: Transform PDF to DOT via Android via Java API
-url: /android-java/conversion/pdf-to-dot/
+url_ignore: /android-java/conversion/pdf-to-dot/
 family: total
 platformtag: android-java
 feature: conversion

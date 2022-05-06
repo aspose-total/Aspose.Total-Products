@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert SVG to CSV
 description: Convert SVG to CSV via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/svg-to-csv/
+url_ignore: /cpp/conversion/svg-to-csv/
 family: total
 platformtag: cpp
 feature: conversion

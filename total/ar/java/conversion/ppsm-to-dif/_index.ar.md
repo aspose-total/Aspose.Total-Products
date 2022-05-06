@@ -1,7 +1,7 @@
 ---
 title: تحويل PPSM إلى تنسيق DIF عبر Java
 description: قم بتحويل PPSM إلى تنسيق DIF عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/ppsm-to-dif/
+url_ignore: /ar/java/conversion/ppsm-to-dif/
 family: total
 platformtag: net
 feature: conversion

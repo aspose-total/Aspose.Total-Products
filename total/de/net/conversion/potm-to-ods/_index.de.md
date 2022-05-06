@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie POTM über C# in ODS
 description: Konvertieren Sie POTM in C# in ODS, ohne Microsoft Excel oder Powerpoint zu verwenden
-url: /de/net/conversion/potm-to-ods/
+url_ignore: /de/net/conversion/potm-to-ods/
 family: total
 platformtag: net
 feature: conversion

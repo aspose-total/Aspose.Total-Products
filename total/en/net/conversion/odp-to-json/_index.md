@@ -1,7 +1,7 @@
 ---
 title: Convert ODP to JSON format via .NET 
 description: Convert ODP to JSON in C# without using Microsoft Excel or Powerpoint
-url: /net/conversion/odp-to-json/
+url_ignore: /net/conversion/odp-to-json/
 family: total
 platformtag: net
 feature: conversion

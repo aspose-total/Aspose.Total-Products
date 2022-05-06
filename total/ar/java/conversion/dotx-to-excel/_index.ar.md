@@ -1,7 +1,7 @@
 ---
 title: Java API لتحويل DOTX إلى EXCEL
 description: قم بتحويل DOTX إلى EXCEL عبر Java دون استخدام Microsoft Word أو Microsoft Excel
-url: /ar/java/conversion/dotx-to-excel/
+url_ignore: /ar/java/conversion/dotx-to-excel/
 family: total
 platformtag: net
 feature: conversion

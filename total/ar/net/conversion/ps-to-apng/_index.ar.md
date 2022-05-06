@@ -1,7 +1,7 @@
 ---
 title: تحويل PS إلى APNG عبر C# API
 description: قم بتصدير PS إلى APNG في تطبيقات .NET دون استخدام أي تطبيق تابع لجهة خارجية
-url: /ar/net/conversion/ps-to-apng/
+url_ignore: /ar/net/conversion/ps-to-apng/
 family: total
 platformtag: net
 feature: conversion

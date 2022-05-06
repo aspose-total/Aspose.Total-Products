@@ -1,7 +1,7 @@
 ---
 title: Java API om XPS naar ODT te exporteren
 description: Converteer XPS naar ODT met behulp van on-premise Java API
-url: /nl/java/conversion/xps-to-odt/
+url_ignore: /nl/java/conversion/xps-to-odt/
 family: total
 platformtag: net
 feature: conversion

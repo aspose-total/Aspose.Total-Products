@@ -1,7 +1,7 @@
 ---
 title: Android API to Render XPS to PS
 description: Transform XPS to PS via Android via Java API
-url: /android-java/conversion/xps-to-ps/
+url_ignore: /android-java/conversion/xps-to-ps/
 family: total
 platformtag: android-java
 feature: conversion

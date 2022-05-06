@@ -1,7 +1,7 @@
 ---
 title: Konvertera TEX till DICOM via Java
 description: Exportera TEX-fil till DICOM i dina Java-applikationer utan att använda någon tredjepartsapplikation
-url: /sv/java/conversion/tex-to-dicom/
+url_ignore: /sv/java/conversion/tex-to-dicom/
 family: total
 platformtag: net
 feature: conversion

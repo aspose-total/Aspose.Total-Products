@@ -1,7 +1,7 @@
 ---
 title: Exporteer EMLX naar DOTX via Java
 description: Java API om EMLX naar DOTX te converteren zonder Microsoft Word of Outlook te gebruiken
-url: /nl/java/conversion/emlx-to-dotx/
+url_ignore: /nl/java/conversion/emlx-to-dotx/
 family: total
 platformtag: net
 feature: conversion

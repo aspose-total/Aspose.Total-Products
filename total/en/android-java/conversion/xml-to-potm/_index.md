@@ -1,7 +1,7 @@
 ---
 title: Export XML to POTM in Android 
 description: Android API to Convert XML to POTM without using Microsoft Word
-url: /android-java/conversion/xml-to-potm/
+url_ignore: /android-java/conversion/xml-to-potm/
 family: total
 platformtag: android-java
 feature: conversion

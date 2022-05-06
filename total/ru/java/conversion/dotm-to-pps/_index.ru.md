@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOTM в PPS через Java
 description: Java API для экспорта DOTM в PPS без использования Microsoft Word или PowerPoint
-url: /ru/java/conversion/dotm-to-pps/
+url_ignore: /ru/java/conversion/dotm-to-pps/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất EPUB sang RTF
 description: Chuyển đổi EPUB sang RTF mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/epub-to-rtf/
+url_ignore: /vi/net/conversion/epub-to-rtf/
 family: total
 platformtag: net
 feature: conversion

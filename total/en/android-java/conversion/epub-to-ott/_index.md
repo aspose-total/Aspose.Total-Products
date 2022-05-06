@@ -1,7 +1,7 @@
 ---
 title: Android API to Render EPUB to OTT
 description: Transform EPUB to OTT via Android via Java API
-url: /android-java/conversion/epub-to-ott/
+url_ignore: /android-java/conversion/epub-to-ott/
 family: total
 platformtag: android-java
 feature: conversion

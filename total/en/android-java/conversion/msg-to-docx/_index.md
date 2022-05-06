@@ -1,7 +1,7 @@
 ---
 title: Render MSG to DOCX in Andorid App
 description: Export MSG to DOCX without using Microsoft Word or Outlook in you Andorid applications 
-url: /android-java/conversion/msg-to-docx/
+url_ignore: /android-java/conversion/msg-to-docx/
 family: total
 platformtag: android-java
 feature: conversion

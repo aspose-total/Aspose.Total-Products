@@ -1,7 +1,7 @@
 ---
 title: MSGをDOCにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにMSGをDOCに変換する
-url: /ja/net/conversion/msg-to-doc/
+url_ignore: /ja/net/conversion/msg-to-doc/
 family: total
 platformtag: net
 feature: conversion

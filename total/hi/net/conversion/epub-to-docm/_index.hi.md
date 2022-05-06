@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई सीजीएम को डीओसीएम में निर्यात करने के लिए
 description: Microsoft Word का उपयोग किए बिना EPUB को DOCM में बदलें
-url: /hi/net/conversion/epub-to-docm/
+url_ignore: /hi/net/conversion/epub-to-docm/
 family: total
 platformtag: net
 feature: conversion

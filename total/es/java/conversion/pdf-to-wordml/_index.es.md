@@ -1,7 +1,7 @@
 ---
 title: API de Java para exportar PDF a WORDML
 description: Convierta PDF a WORDML usando la API de Java en las instalaciones
-url: /es/java/conversion/pdf-to-wordml/
+url_ignore: /es/java/conversion/pdf-to-wordml/
 family: total
 platformtag: net
 feature: conversion

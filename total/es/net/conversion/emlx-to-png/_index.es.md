@@ -1,7 +1,7 @@
 ---
 title: API de C# para exportar correo electrónico a PNG
 description: Convierta EMLX a PNG sin usar Microsoft Word o Outlook en .NET
-url: /es/net/conversion/emlx-to-png/
+url_ignore: /es/net/conversion/emlx-to-png/
 family: total
 platformtag: net
 feature: conversion

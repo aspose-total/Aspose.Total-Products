@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert WORDML to ODS
 description: Convert WORDML to ODS in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/wordml-to-ods/
+url_ignore: /android-java/conversion/wordml-to-ods/
 family: total
 platformtag: android-java
 feature: conversion

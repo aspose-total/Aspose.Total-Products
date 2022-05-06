@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất PDF sang GIF
 description: Chuyển đổi PDF sang GIF mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/pdf-to-gif/
+url_ignore: /vi/net/conversion/pdf-to-gif/
 family: total
 platformtag: net
 feature: conversion

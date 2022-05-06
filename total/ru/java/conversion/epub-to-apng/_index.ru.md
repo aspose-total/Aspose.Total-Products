@@ -1,7 +1,7 @@
 ---
 title: Преобразование EPUB в APNG через Java
 description: Экспорт файла EPUB в APNG в ваших приложениях Java без использования каких-либо сторонних приложений.
-url: /ru/java/conversion/epub-to-apng/
+url_ignore: /ru/java/conversion/epub-to-apng/
 family: total
 platformtag: net
 feature: conversion

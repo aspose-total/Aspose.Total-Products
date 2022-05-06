@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export TEX to XAMLFLOW
 description: Convert TEX to XAMLFLOW within C++ applications.
-url: /cpp/conversion/tex-to-xamlflow/
+url_ignore: /cpp/conversion/tex-to-xamlflow/
 family: total
 platformtag: cpp
 feature: conversion

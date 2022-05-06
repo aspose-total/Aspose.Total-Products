@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをPOTにエクスポートする
 description: MicrosoftWordを使用せずにPDFをPOTに変換する.NETAPI
-url: /ja/net/conversion/pdf-to-pot/
+url_ignore: /ja/net/conversion/pdf-to-pot/
 family: total
 platformtag: net
 feature: conversion

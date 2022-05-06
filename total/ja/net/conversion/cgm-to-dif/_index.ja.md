@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してCGMをDIFに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにCGMファイルをDIFに変換するC＃API
-url: /ja/net/conversion/cgm-to-dif/
+url_ignore: /ja/net/conversion/cgm-to-dif/
 family: total
 platformtag: net
 feature: conversion

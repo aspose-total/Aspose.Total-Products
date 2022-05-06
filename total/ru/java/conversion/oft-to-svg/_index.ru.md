@@ -1,7 +1,7 @@
 ---
 title: Экспорт OFT в SVG через Java
 description: Java API для преобразования OFT в SVG без использования Microsoft Word или Outlook
-url: /ru/java/conversion/oft-to-svg/
+url_ignore: /ru/java/conversion/oft-to-svg/
 family: total
 platformtag: net
 feature: conversion

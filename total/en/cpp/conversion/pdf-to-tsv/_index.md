@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PDF to TSV
 description: Convert PDF to TSV via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/pdf-to-tsv/
+url_ignore: /cpp/conversion/pdf-to-tsv/
 family: total
 platformtag: cpp
 feature: conversion

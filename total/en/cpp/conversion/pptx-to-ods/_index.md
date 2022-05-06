@@ -1,7 +1,7 @@
 ---
 title: Convert PPTX to ODS via C++ 
 description: Export PPTX to ODS in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/pptx-to-ods/
+url_ignore: /cpp/conversion/pptx-to-ods/
 family: total
 platformtag: cpp
 feature: conversion

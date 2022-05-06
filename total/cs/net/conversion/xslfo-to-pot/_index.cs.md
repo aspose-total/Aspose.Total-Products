@@ -1,7 +1,7 @@
 ---
 title: Export XSLFO do POT přes C# API
 description: .NET API pro převod XSLFO na POT bez použití aplikace Microsoft Word
-url: /cs/net/conversion/xslfo-to-pot/
+url_ignore: /cs/net/conversion/xslfo-to-pot/
 family: total
 platformtag: net
 feature: conversion

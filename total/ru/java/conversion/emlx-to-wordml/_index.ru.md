@@ -1,7 +1,7 @@
 ---
 title: Экспорт EMLX в WORDML через Java
 description: Java API для преобразования EMLX в WORDML без использования Microsoft Word или Outlook
-url: /ru/java/conversion/emlx-to-wordml/
+url_ignore: /ru/java/conversion/emlx-to-wordml/
 family: total
 platformtag: net
 feature: conversion

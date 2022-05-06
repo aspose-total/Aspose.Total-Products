@@ -1,7 +1,7 @@
 ---
 title: Convert ODT to PPSM via C++
 description: Export ODT to PPSM in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/odt-to-ppsm/
+url_ignore: /cpp/conversion/odt-to-ppsm/
 family: total
 platformtag: cpp
 feature: conversion

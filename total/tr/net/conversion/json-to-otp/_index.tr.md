@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını .NET aracılığıyla OTP'ye dönüştürün
 description: Microsoft PowerPoint kullanmadan JSON'u C# ile OTP'ye ayrıştırın
-url: /tr/net/conversion/json-to-otp/
+url_ignore: /tr/net/conversion/json-to-otp/
 family: total
 platformtag: net
 feature: conversion

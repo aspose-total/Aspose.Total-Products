@@ -1,7 +1,7 @@
 ---
 title: Converteer PPT naar TSV-formaat via Java
 description: Converteer PPT naar TSV-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken
-url: /nl/java/conversion/ppt-to-tsv/
+url_ignore: /nl/java/conversion/ppt-to-tsv/
 family: total
 platformtag: net
 feature: conversion

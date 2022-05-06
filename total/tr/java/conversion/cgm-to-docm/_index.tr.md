@@ -1,7 +1,7 @@
 ---
 title: CGM'yi DOCM'ye Dışa Aktarmak için Java API
 description: Yerinde Java API kullanarak CGM'yi DOCM'ye dönüştürün
-url: /tr/java/conversion/cgm-to-docm/
+url_ignore: /tr/java/conversion/cgm-to-docm/
 family: total
 platformtag: net
 feature: conversion

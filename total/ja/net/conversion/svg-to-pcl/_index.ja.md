@@ -1,7 +1,7 @@
 ---
 title: SVGをPCLにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにSVGをPCLに変換する
-url: /ja/net/conversion/svg-to-pcl/
+url_ignore: /ja/net/conversion/svg-to-pcl/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java経由でEMLをTEXTにエクスポートする
 description: MicrosoftWordやOutlookを使用せずにEMLをTEXTに変換するJavaAPI
-url: /ja/java/conversion/eml-to-text/
+url_ignore: /ja/java/conversion/eml-to-text/
 family: total
 platformtag: net
 feature: conversion

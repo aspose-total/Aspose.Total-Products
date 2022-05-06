@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie XLSX in WORD mit Java
 description: Java-API zum Exportieren von XLSX in WORD mit Excel oder Word
-url: /de/java/conversion/xlsx-to-word/
+url_ignore: /de/java/conversion/xlsx-to-word/
 family: total
 platformtag: net
 feature: conversion

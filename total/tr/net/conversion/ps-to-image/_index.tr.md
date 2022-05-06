@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla PS'yi IMAGE'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan PS'yi .NET uygulamalarınızda IMAGE'ye aktarın
-url: /tr/net/conversion/ps-to-image/
+url_ignore: /tr/net/conversion/ps-to-image/
 family: total
 platformtag: net
 feature: conversion

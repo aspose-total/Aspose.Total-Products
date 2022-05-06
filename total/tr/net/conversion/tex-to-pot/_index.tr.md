@@ -1,7 +1,7 @@
 ---
 title: TEX'yi C# API aracılığıyla POT'ye aktarın
 description: Microsoft Word kullanmadan TEX'yi POT'ye dönüştürmek için .NET API
-url: /tr/net/conversion/tex-to-pot/
+url_ignore: /tr/net/conversion/tex-to-pot/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى FLATOPC عبر Java
 description: تحليل JSON إلى FLATOPC في Java بدون استخدام Microsoft Word
-url: /ar/java/conversion/json-to-flatopc/
+url_ignore: /ar/java/conversion/json-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

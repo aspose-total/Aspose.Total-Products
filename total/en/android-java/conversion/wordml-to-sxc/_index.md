@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert WORDML to SXC
 description: Convert WORDML to SXC in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/wordml-to-sxc/
+url_ignore: /android-java/conversion/wordml-to-sxc/
 family: total
 platformtag: android-java
 feature: conversion

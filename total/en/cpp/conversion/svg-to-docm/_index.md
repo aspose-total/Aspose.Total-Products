@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export SVG to DOCM
 description: Convert SVG to DOCM within C++ applications.
-url: /cpp/conversion/svg-to-docm/
+url_ignore: /cpp/conversion/svg-to-docm/
 family: total
 platformtag: cpp
 feature: conversion

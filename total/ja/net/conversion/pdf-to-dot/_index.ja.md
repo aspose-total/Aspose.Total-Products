@@ -1,7 +1,7 @@
 ---
 title: PDFをDOTにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにPDFをDOTに変換する
-url: /ja/net/conversion/pdf-to-dot/
+url_ignore: /ja/net/conversion/pdf-to-dot/
 family: total
 platformtag: net
 feature: conversion

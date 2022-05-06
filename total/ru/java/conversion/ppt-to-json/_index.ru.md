@@ -1,7 +1,7 @@
 ---
 title: Преобразование PPT в формат JSON через Java
 description: Преобразование PPT в формат JSON через Java без использования Microsoft Excel или PowerPoint
-url: /ru/java/conversion/ppt-to-json/
+url_ignore: /ru/java/conversion/ppt-to-json/
 family: total
 platformtag: net
 feature: conversion

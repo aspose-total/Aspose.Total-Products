@@ -1,7 +1,7 @@
 ---
 title: API de Java para exportar MD a PS
 description: Convierta MD a PS usando la API de Java en las instalaciones
-url: /es/java/conversion/md-to-ps/
+url_ignore: /es/java/conversion/md-to-ps/
 family: total
 platformtag: net
 feature: conversion

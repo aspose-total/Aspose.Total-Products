@@ -1,7 +1,7 @@
 ---
 title: C# API to Export XPS to WORDML
 description: Convert XPS to WORDML without using Microsoft Word
-url: /net/conversion/xps-to-wordml/
+url_ignore: /net/conversion/xps-to-wordml/
 family: total
 platformtag: net
 feature: conversion

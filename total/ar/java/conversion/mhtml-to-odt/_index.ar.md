@@ -1,7 +1,7 @@
 ---
 title: Java API لتصدير MHTML إلى ODT
 description: قم بتحويل MHTML إلى ODT باستخدام Java API في مكان العمل
-url: /ar/java/conversion/mhtml-to-odt/
+url_ignore: /ar/java/conversion/mhtml-to-odt/
 family: total
 platformtag: net
 feature: conversion

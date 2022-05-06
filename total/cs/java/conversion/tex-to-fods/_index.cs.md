@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení TEX do FODS
 description: Export TEX do FODS přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/tex-to-fods/
+url_ignore: /cs/java/conversion/tex-to-fods/
 family: total
 platformtag: net
 feature: conversion

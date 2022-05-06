@@ -1,7 +1,7 @@
 ---
 title: Android API to Render PS to XAMLFLOW
 description: Transform PS to XAMLFLOW via Android via Java API
-url: /android-java/conversion/ps-to-xamlflow/
+url_ignore: /android-java/conversion/ps-to-xamlflow/
 family: total
 platformtag: android-java
 feature: conversion

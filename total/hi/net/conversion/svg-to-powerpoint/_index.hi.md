@@ -1,7 +1,7 @@
 ---
 title: सी # एपीआई के माध्यम से सीजीएम को ओडीपी में निर्यात करें
 description: Microsoft Word का उपयोग किए बिना SVG को POWERPOINT में बदलने के लिए .NET API
-url: /hi/net/conversion/svg-to-powerpoint/
+url_ignore: /hi/net/conversion/svg-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

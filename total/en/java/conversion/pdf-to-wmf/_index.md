@@ -1,7 +1,7 @@
 ---
 title: Convert PDF to WMF via Java
 description: Export PDF file to WMF  in your Java applications without using any third party application 
-url: /java/conversion/pdf-to-wmf/
+url_ignore: /java/conversion/pdf-to-wmf/
 family: total
 platformtag: java
 feature: conversion

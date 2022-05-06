@@ -1,7 +1,7 @@
 ---
 title: OFTをDOTMにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにOFTをDOTMに変換する
-url: /ja/net/conversion/oft-to-dotm/
+url_ignore: /ja/net/conversion/oft-to-dotm/
 family: total
 platformtag: net
 feature: conversion

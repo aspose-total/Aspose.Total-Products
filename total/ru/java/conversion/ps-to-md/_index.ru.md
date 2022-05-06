@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга PS в MD
 description: Экспорт PS в MD через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/ps-to-md/
+url_ignore: /ru/java/conversion/ps-to-md/
 family: total
 platformtag: net
 feature: conversion

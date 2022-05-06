@@ -1,7 +1,7 @@
 ---
 title: API Java para exportar TEX para RTF
 description: Converter TEX para RTF usando a API Java local
-url: /pt/java/conversion/tex-to-rtf/
+url_ignore: /pt/java/conversion/tex-to-rtf/
 family: total
 platformtag: net
 feature: conversion

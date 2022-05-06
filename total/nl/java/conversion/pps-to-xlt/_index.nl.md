@@ -1,7 +1,7 @@
 ---
 title: Converteer PPS naar XLT-formaat via Java
 description: Converteer PPS naar XLT-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken
-url: /nl/java/conversion/pps-to-xlt/
+url_ignore: /nl/java/conversion/pps-to-xlt/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: MHTML'yi C# API aracılığıyla SWF'ye aktarın
 description: Microsoft Word kullanmadan MHTML'yi SWF'ye dönüştürmek için .NET API
-url: /tr/net/conversion/mhtml-to-swf/
+url_ignore: /tr/net/conversion/mhtml-to-swf/
 family: total
 platformtag: net
 feature: conversion

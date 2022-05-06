@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to EXCEL in C++
 description: C++ API to Convert WORDML to EXCEL without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/wordml-to-excel/
+url_ignore: /cpp/conversion/wordml-to-excel/
 family: total
 platformtag: cpp
 feature: conversion

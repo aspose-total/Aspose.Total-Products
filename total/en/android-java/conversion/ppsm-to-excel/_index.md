@@ -1,7 +1,7 @@
 ---
 title: Convert PPSM to EXCEL in Android via Java
 description: Convert PPSM to EXCEL in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/ppsm-to-excel/
+url_ignore: /android-java/conversion/ppsm-to-excel/
 family: total
 platformtag: android-java
 feature: conversion

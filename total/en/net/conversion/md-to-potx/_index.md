@@ -1,7 +1,7 @@
 ---
 title: Export MD to POTX via C# API
 description: .NET API to Convert MD to POTX without using Microsoft Word
-url: /net/conversion/md-to-potx/
+url_ignore: /net/conversion/md-to-potx/
 family: total
 platformtag: net
 feature: conversion

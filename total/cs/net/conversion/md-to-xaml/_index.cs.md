@@ -1,7 +1,7 @@
 ---
 title: Export MD do XAML přes C# API
 description: .NET API pro převod MD na XAML bez použití aplikace Microsoft Word
-url: /cs/net/conversion/md-to-xaml/
+url_ignore: /cs/net/conversion/md-to-xaml/
 family: total
 platformtag: net
 feature: conversion

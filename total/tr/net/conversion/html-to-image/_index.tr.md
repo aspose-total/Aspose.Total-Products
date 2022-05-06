@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla HTML'yi IMAGE'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan HTML'yi .NET uygulamalarınızda IMAGE'ye aktarın
-url: /tr/net/conversion/html-to-image/
+url_ignore: /tr/net/conversion/html-to-image/
 family: total
 platformtag: net
 feature: conversion

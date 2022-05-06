@@ -1,7 +1,7 @@
 ---
 title: Android API to Render XPS to GIF
 description: Transform XPS to GIF via Android via Java API
-url: /android-java/conversion/xps-to-gif/
+url_ignore: /android-java/conversion/xps-to-gif/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή PDF σε IMAGE μέσω C# API
 description: Εξάγετε το PDF σε IMAGE στις εφαρμογές σας .NET χωρίς να χρησιμοποιήσετε καμία εφαρμογή τρίτου μέρους
-url: /el/net/conversion/pdf-to-image/
+url_ignore: /el/net/conversion/pdf-to-image/
 family: total
 platformtag: net
 feature: conversion

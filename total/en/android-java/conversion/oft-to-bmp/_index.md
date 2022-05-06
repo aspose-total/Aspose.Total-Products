@@ -1,7 +1,7 @@
 ---
 title: Render OFT to BMP in Andorid App
 description: Export OFT to BMP without using Microsoft Word or Outlook in you Andorid applications 
-url: /android-java/conversion/oft-to-bmp/
+url_ignore: /android-java/conversion/oft-to-bmp/
 family: total
 platformtag: android-java
 feature: conversion

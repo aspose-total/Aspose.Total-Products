@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى PPSM عبر Java
 description: تحليل JSON إلى PPSM في Java بدون استخدام Microsoft PowerPoint
-url: /ar/java/conversion/json-to-ppsm/
+url_ignore: /ar/java/conversion/json-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

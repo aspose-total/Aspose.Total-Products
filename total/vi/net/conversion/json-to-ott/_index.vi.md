@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi định dạng JSON sang OTT qua .NET
 description: Phân tích cú pháp JSON thành OTT trong C# mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/json-to-ott/
+url_ignore: /vi/net/conversion/json-to-ott/
 family: total
 platformtag: net
 feature: conversion

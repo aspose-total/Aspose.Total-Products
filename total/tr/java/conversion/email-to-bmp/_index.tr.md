@@ -1,7 +1,7 @@
 ---
 title: EMAIL'i Java aracılığıyla BMP'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan EMAIL'i BMP'ye Dönüştürmek için Java API
-url: /tr/java/conversion/email-to-bmp/
+url_ignore: /tr/java/conversion/email-to-bmp/
 family: total
 platformtag: net
 feature: conversion

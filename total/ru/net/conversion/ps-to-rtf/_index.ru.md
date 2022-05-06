@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта PS в RTF
 description: Преобразование PS в RTF без использования Microsoft Word
-url: /ru/net/conversion/ps-to-rtf/
+url_ignore: /ru/net/conversion/ps-to-rtf/
 family: total
 platformtag: net
 feature: conversion

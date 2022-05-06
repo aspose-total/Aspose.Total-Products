@@ -1,7 +1,7 @@
 ---
 title: डीओसी को सीएसवी में बदलने के लिए जावा एपीआई
 description: माइक्रोसॉफ्ट वर्ड या माइक्रोसॉफ्ट एक्सेल का उपयोग किए बिना जावा के माध्यम से डीओसी को सीएसवी में कनवर्ट करें
-url: /hi/java/conversion/doc-to-xlsx/
+url_ignore: /hi/java/conversion/doc-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

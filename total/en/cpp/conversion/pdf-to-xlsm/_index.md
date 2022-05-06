@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PDF to XLSM
 description: Convert PDF to XLSM via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/pdf-to-xlsm/
+url_ignore: /cpp/conversion/pdf-to-xlsm/
 family: total
 platformtag: cpp
 feature: conversion

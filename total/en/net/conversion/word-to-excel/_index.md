@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to EXCEL via .NET 
 description: Convert WORD to EXCEL in C# without using Microsoft Excel or Adobe Reader
-url: /net/conversion/word-to-excel/
+url_ignore: /net/conversion/word-to-excel/
 family: total
 platformtag: net
 feature: conversion

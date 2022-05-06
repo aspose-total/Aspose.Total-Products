@@ -1,7 +1,7 @@
 ---
 title: Converteer PPTM naar JSON-formaat via Java
 description: Converteer PPTM naar JSON-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken
-url: /nl/java/conversion/pptm-to-json/
+url_ignore: /nl/java/conversion/pptm-to-json/
 family: total
 platformtag: net
 feature: conversion

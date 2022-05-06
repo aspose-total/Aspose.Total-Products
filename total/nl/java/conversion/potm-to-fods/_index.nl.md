@@ -1,7 +1,7 @@
 ---
 title: Converteer POTM naar FODS-formaat via Java
 description: Converteer POTM naar FODS-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken
-url: /nl/java/conversion/potm-to-fods/
+url_ignore: /nl/java/conversion/potm-to-fods/
 family: total
 platformtag: net
 feature: conversion

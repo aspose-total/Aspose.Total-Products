@@ -1,7 +1,7 @@
 ---
 title: Java経由でPPTMをDOTに変換する
 description: MicrosoftWordやPowerPointを使用せずにPPTMをDOTにエクスポートするJavaAPI
-url: /ja/java/conversion/pptm-to-dot/
+url_ignore: /ja/java/conversion/pptm-to-dot/
 family: total
 platformtag: net
 feature: conversion

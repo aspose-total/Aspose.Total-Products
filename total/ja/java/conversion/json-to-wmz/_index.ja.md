@@ -1,7 +1,7 @@
 ---
 title: Java経由でJSON形式をWMZに変換する
 description: Microsoft PowerPointを使用せずに、JavaでJSONをWMZに解析します
-url: /ja/java/conversion/json-to-wmz/
+url_ignore: /ja/java/conversion/json-to-wmz/
 family: total
 platformtag: net
 feature: conversion

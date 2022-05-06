@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert PS to XAML  
 description: Convert PS to XAML via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/ps-to-xaml/
+url_ignore: /cpp/conversion/ps-to-xaml/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPSをPPTMにエクスポートする
 description: MicrosoftWordを使用せずにPSをPPTMに変換する.NETAPI
-url: /ja/net/conversion/ps-to-pptm/
+url_ignore: /ja/net/conversion/ps-to-pptm/
 family: total
 platformtag: net
 feature: conversion

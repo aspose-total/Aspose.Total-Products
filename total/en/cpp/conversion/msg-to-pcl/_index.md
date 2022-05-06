@@ -1,7 +1,7 @@
 ---
 title: Export MSG to PCL via C++
 description: C++ API to Convert MSG to PCL without using Microsoft Word or Outlook
-url: /cpp/conversion/msg-to-pcl/
+url_ignore: /cpp/conversion/msg-to-pcl/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a POWERPOINT-ot ODT-ba Java segítségével
 description: Java API a POWERPOINT exportálásához ODT-ba Microsoft Word vagy PowerPoint használata nélkül
-url: /hu/java/conversion/powerpoint-to-odt/
+url_ignore: /hu/java/conversion/powerpoint-to-odt/
 family: total
 platformtag: net
 feature: conversion
@@ -24,7 +24,7 @@ otherformats: ODT FLATOPC OTT DOTM TEXT WORD ODTM ODTX DOT DOTX RTF WORDML
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 A POWERPOINT-ból ODT-fájlba konvertálásához egyszerűen használhatja az Aspose.Total for Java-t közvetlenül a [Maven]-ből (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) alapú projektet, és vegyen fel könyvtárakat a pom.xml fájlba.
 
-Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads] webhelyről (https://downloads.aspose.com/total/java).
+Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

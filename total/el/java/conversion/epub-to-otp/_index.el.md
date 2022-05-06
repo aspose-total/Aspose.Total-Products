@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή EPUB σε OTP μέσω Java API
 description: Java API για μετατροπή EPUB σε OTP χωρίς χρήση του Microsoft Word
-url: /el/java/conversion/epub-to-otp/
+url_ignore: /el/java/conversion/epub-to-otp/
 family: total
 platformtag: net
 feature: conversion

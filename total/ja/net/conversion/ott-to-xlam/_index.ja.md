@@ -1,7 +1,7 @@
 ---
 title: OTTをXLAMに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにOTTをXLAMに変換するC＃API
-url: /ja/net/conversion/ott-to-xlam/
+url_ignore: /ja/net/conversion/ott-to-xlam/
 family: total
 platformtag: net
 feature: conversion

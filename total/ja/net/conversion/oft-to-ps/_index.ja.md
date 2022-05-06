@@ -1,7 +1,7 @@
 ---
 title: OFTをPSにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにOFTをPSに変換する
-url: /ja/net/conversion/oft-to-ps/
+url_ignore: /ja/net/conversion/oft-to-ps/
 family: total
 platformtag: net
 feature: conversion

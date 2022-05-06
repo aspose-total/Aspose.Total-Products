@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to TSV in C++
 description: C++ API to Convert RTF to TSV without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/rtf-to-tsv/
+url_ignore: /cpp/conversion/rtf-to-tsv/
 family: total
 platformtag: cpp
 feature: conversion

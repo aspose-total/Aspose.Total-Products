@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMDをXLSMに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにMDファイルをXLSMに変換するC＃API
-url: /ja/net/conversion/md-to-xlsm/
+url_ignore: /ja/net/conversion/md-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

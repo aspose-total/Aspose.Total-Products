@@ -1,7 +1,7 @@
 ---
 title: .NET-API zum Konvertieren von WORDML in CSV
 description: C#-API zum Konvertieren von WORDML in CSV ohne Verwendung von Microsoft Excel oder Adobe Reader
-url: /de/net/conversion/wordml-to-csv/
+url_ignore: /de/net/conversion/wordml-to-csv/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта EMAIL в BMP
 description: Преобразование EMAIL в BMP без использования Microsoft Word или Outlook на .NET
-url: /ru/net/conversion/email-to-bmp/
+url_ignore: /ru/net/conversion/email-to-bmp/
 family: total
 platformtag: net
 feature: conversion

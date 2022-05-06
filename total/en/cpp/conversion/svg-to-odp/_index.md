@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert SVG to ODP  
 description: Convert SVG to ODP via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/svg-to-odp/
+url_ignore: /cpp/conversion/svg-to-odp/
 family: total
 platformtag: cpp
 feature: conversion

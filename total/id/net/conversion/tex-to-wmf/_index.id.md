@@ -1,7 +1,7 @@
 ---
 title: Konversi TEX ke WMF melalui C# API
 description: Ekspor TEX ke WMF di aplikasi .NET Anda tanpa menggunakan aplikasi pihak ketiga
-url: /id/net/conversion/tex-to-wmf/
+url_ignore: /id/net/conversion/tex-to-wmf/
 family: total
 platformtag: net
 feature: conversion

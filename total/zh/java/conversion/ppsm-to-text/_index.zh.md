@@ -1,7 +1,7 @@
 ---
 title: 通过 Java 将 PPSM 转换为 TEXT
 description: 无需使用 Microsoft Word 或 PowerPoint 即可将 PPSM 导出为 TEXT 的 Java API
-url: /zh/java/conversion/ppsm-to-text/
+url_ignore: /zh/java/conversion/ppsm-to-text/
 family: total
 platformtag: net
 feature: conversion
@@ -29,14 +29,16 @@ otherformats: RTF TEXTM ODT FLATOPC DOTM TEXTX DOT TEXT OTT DOTX WORD WORDML
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word.java" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="转换要求" %}}
 使用 API，您还可以执行 PPSM 文件到带有水印的 TEXT 转换。为了给您的 TEXT 文档添加水印，您可以先将 PPSM 文件转换为 HTML 并为其添加水印。为了添加水印，使用 [Textument](https://apireference.aspose.com/words/java/com.aspose.words/Textument) 类加载新创建的 HTML 文件，创建 TextWatermarkOptions 的实例并设置它的属性，调用 Watermark.setText 方法并传递水印文本和 TextWatermarkOptions 的对象。  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

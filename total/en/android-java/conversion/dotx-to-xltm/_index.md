@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOTX to XLTM
 description: Convert DOTX to XLTM in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/dotx-to-xltm/
+url_ignore: /android-java/conversion/dotx-to-xltm/
 family: total
 platformtag: android-java
 feature: conversion

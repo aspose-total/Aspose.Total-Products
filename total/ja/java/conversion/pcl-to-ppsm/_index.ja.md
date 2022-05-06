@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してPCLをPPSMに変換する
 description: MicrosoftWordを使用せずにPCLをPPSMに変換するJavaAPI
-url: /ja/java/conversion/pcl-to-ppsm/
+url_ignore: /ja/java/conversion/pcl-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

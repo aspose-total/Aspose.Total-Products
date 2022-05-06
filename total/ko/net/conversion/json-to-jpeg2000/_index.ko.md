@@ -1,7 +1,7 @@
 ---
 title: .NET을 통해 JSON 형식을 JPEG2000로 변환
 description: 타사 종속성을 사용하지 않고 C#에서 JSON을 JPEG2000로 구문 분석
-url: /ko/net/conversion/json-to-jpeg2000/
+url_ignore: /ko/net/conversion/json-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

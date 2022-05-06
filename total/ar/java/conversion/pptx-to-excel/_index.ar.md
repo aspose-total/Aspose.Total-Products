@@ -1,7 +1,7 @@
 ---
 title: تحويل PPTX إلى تنسيق EXCEL عبر Java
 description: قم بتحويل PPTX إلى تنسيق EXCEL عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/pptx-to-excel/
+url_ignore: /ar/java/conversion/pptx-to-excel/
 family: total
 platformtag: net
 feature: conversion

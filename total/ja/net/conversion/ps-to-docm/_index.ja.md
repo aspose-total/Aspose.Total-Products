@@ -1,7 +1,7 @@
 ---
 title: PSをDOCMにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにPSをDOCMに変換する
-url: /ja/net/conversion/ps-to-docm/
+url_ignore: /ja/net/conversion/ps-to-docm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API om PS naar DOT te exporteren
 description: Converteer PS naar DOT met behulp van on-premise Java API
-url: /nl/java/conversion/ps-to-dot/
+url_ignore: /nl/java/conversion/ps-to-dot/
 family: total
 platformtag: net
 feature: conversion

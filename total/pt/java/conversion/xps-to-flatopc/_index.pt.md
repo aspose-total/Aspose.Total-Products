@@ -1,7 +1,7 @@
 ---
 title: API Java para exportar XPS para FLATOPC
 description: Converter XPS para FLATOPC usando a API Java local
-url: /pt/java/conversion/xps-to-flatopc/
+url_ignore: /pt/java/conversion/xps-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

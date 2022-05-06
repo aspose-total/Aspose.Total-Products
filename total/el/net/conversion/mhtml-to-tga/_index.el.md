@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή MHTML σε TGA μέσω C# API
 description: Εξάγετε το MHTML σε TGA στις εφαρμογές σας .NET χωρίς να χρησιμοποιήσετε καμία εφαρμογή τρίτου μέρους
-url: /el/net/conversion/mhtml-to-tga/
+url_ignore: /el/net/conversion/mhtml-to-tga/
 family: total
 platformtag: net
 feature: conversion

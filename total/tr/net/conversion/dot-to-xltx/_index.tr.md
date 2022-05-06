@@ -1,7 +1,7 @@
 ---
 title: DOT'yi XLTX'ye Dönüştürmek için .NET API
 description: Microsoft Excel veya Adobe Reader kullanmadan DOT'yi XLTX'ye dönüştürmek için C# API'si
-url: /tr/net/conversion/dot-to-xltx/
+url_ignore: /tr/net/conversion/dot-to-xltx/
 family: total
 platformtag: net
 feature: conversion

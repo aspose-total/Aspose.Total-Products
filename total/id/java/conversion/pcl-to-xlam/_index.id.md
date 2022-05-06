@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender PCL ke XLAM
 description: Ekspor PCL ke XLAM melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/pcl-to-xlam/
+url_ignore: /id/java/conversion/pcl-to-xlam/
 family: total
 platformtag: net
 feature: conversion

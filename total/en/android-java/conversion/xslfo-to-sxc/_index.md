@@ -1,7 +1,7 @@
 ---
 title: Convert XSLFO to SXC in Android via Java
 description: Render XSLFO to SXC in Android via Java API without using Microsoft Excel or Adobe Reader
-url: /android-java/conversion/xslfo-to-sxc/
+url_ignore: /android-java/conversion/xslfo-to-sxc/
 family: total
 platformtag: android-java
 feature: conversion

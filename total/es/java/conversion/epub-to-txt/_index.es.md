@@ -1,7 +1,7 @@
 ---
 title: API de Java para renderizar EPUB a TXT
 description: Exporte EPUB a TXT a través de la API de Java sin usar Microsoft Excel o Adobe Reader
-url: /es/java/conversion/epub-to-txt/
+url_ignore: /es/java/conversion/epub-to-txt/
 family: total
 platformtag: net
 feature: conversion

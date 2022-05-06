@@ -1,7 +1,7 @@
 ---
 title: MSGをMDにエクスポートするためのC＃API
 description: .NETでMicrosoftWordまたはOutlookを使用せずにMSGをMDに変換する
-url: /ja/net/conversion/msg-to-md/
+url_ignore: /ja/net/conversion/msg-to-md/
 family: total
 platformtag: net
 feature: conversion

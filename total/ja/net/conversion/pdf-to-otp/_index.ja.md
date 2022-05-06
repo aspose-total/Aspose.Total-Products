@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをOTPにエクスポートする
 description: MicrosoftWordを使用せずにPDFをOTPに変換する.NETAPI
-url: /ja/net/conversion/pdf-to-otp/
+url_ignore: /ja/net/conversion/pdf-to-otp/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie PS über die C#-API in EMZ
 description: Exportieren Sie PS in EMZ in Ihren .NET-Anwendungen, ohne Anwendungen von Drittanbietern zu verwenden
-url: /de/net/conversion/ps-to-emz/
+url_ignore: /de/net/conversion/ps-to-emz/
 family: total
 platformtag: net
 feature: conversion

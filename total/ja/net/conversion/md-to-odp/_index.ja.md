@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMDをODPにエクスポートする
 description: MicrosoftWordを使用せずにMDをODPに変換する.NETAPI
-url: /ja/net/conversion/md-to-odp/
+url_ignore: /ja/net/conversion/md-to-odp/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API de Java para renderizar MD a XLTM
 description: Exporte MD a XLTM a través de la API de Java sin usar Microsoft Excel o Adobe Reader
-url: /es/java/conversion/md-to-xltm/
+url_ignore: /es/java/conversion/md-to-xltm/
 family: total
 platformtag: net
 feature: conversion

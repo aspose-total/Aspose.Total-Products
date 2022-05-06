@@ -1,7 +1,7 @@
 ---
 title: Export MHTML to POWERPOINT in Android 
 description: Android API to Convert MHTML to POWERPOINT without using Microsoft Word
-url: /android-java/conversion/mhtml-to-powerpoint/
+url_ignore: /android-java/conversion/mhtml-to-powerpoint/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Export TEX to POT in Android 
 description: Android API to Convert TEX to POT without using Microsoft Word
-url: /android-java/conversion/tex-to-pot/
+url_ignore: /android-java/conversion/tex-to-pot/
 family: total
 platformtag: android-java
 feature: conversion

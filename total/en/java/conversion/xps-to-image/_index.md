@@ -1,7 +1,7 @@
 ---
 title: Convert XPS to IMAGE via Java
 description: Export XPS file to IMAGE  in your Java applications without using any third party application 
-url: /java/conversion/xps-to-image/
+url_ignore: /java/conversion/xps-to-image/
 family: total
 platformtag: java
 feature: conversion

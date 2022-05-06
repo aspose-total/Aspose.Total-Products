@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMHTMLをPPTにエクスポートする
 description: MicrosoftWordを使用せずにMHTMLをPPTに変換する.NETAPI
-url: /ja/net/conversion/mhtml-to-ppt/
+url_ignore: /ja/net/conversion/mhtml-to-ppt/
 family: total
 platformtag: net
 feature: conversion

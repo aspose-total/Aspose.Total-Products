@@ -1,7 +1,7 @@
 ---
 title: Преобразование PS в SVGZ через C# API
 description: Экспорт PS в SVGZ в ваших приложениях .NET без использования каких-либо сторонних приложений.
-url: /ru/net/conversion/ps-to-svgz/
+url_ignore: /ru/net/conversion/ps-to-svgz/
 family: total
 platformtag: net
 feature: conversion

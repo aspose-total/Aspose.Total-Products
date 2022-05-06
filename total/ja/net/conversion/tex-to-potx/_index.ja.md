@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してTEXをPOTXにエクスポートする
 description: MicrosoftWordを使用せずにTEXをPOTXに変換する.NETAPI
-url: /ja/net/conversion/tex-to-potx/
+url_ignore: /ja/net/conversion/tex-to-potx/
 family: total
 platformtag: net
 feature: conversion

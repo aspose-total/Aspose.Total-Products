@@ -1,7 +1,7 @@
 ---
 title: EMAIL'i Java aracılığıyla EMF'ye aktarın
 description: Microsoft Word veya Outlook kullanmadan EMAIL'i EMF'ye Dönüştürmek için Java API
-url: /tr/java/conversion/email-to-emf/
+url_ignore: /tr/java/conversion/email-to-emf/
 family: total
 platformtag: net
 feature: conversion

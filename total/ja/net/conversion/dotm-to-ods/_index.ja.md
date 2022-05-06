@@ -1,7 +1,7 @@
 ---
 title: DOTMをODSに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにDOTMをODSに変換するC＃API
-url: /ja/net/conversion/dotm-to-ods/
+url_ignore: /ja/net/conversion/dotm-to-ods/
 family: total
 platformtag: net
 feature: conversion

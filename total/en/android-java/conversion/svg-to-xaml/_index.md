@@ -1,7 +1,7 @@
 ---
 title: Export SVG to XAML in Android 
 description: Android API to Convert SVG to XAML without using Microsoft Word
-url: /android-java/conversion/svg-to-xaml/
+url_ignore: /android-java/conversion/svg-to-xaml/
 family: total
 platformtag: android-java
 feature: conversion

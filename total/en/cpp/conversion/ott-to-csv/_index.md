@@ -1,7 +1,7 @@
 ---
 title: Convert OTT to CSV in C++
 description: C++ API to Convert OTT to CSV without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/ott-to-csv/
+url_ignore: /cpp/conversion/ott-to-csv/
 family: total
 platformtag: cpp
 feature: conversion

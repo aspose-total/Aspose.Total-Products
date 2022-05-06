@@ -1,7 +1,7 @@
 ---
 title: Java API om DOT naar XLSB te converteren
 description: Converteer DOT naar XLSB via Java zonder Microsoft Word of Microsoft Excel te gebruiken
-url: /nl/java/conversion/dot-to-xlsb/
+url_ignore: /nl/java/conversion/dot-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

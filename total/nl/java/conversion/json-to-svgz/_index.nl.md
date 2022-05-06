@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar SVGZ via Java
 description: JSON ontleden naar SVGZ in Java zonder Microsoft PowerPoint te gebruiken
-url: /nl/java/conversion/json-to-svgz/
+url_ignore: /nl/java/conversion/json-to-svgz/
 family: total
 platformtag: net
 feature: conversion

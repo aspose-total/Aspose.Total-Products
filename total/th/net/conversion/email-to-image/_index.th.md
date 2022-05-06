@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก EMAIL ไปยัง IMAGE
 description: แปลง EMAIL เป็น IMAGE โดยไม่ต้องใช้ Microsoft Word หรือ Outlook บน .NET
-url: /th/net/conversion/email-to-image/
+url_ignore: /th/net/conversion/email-to-image/
 family: total
 platformtag: net
 feature: conversion

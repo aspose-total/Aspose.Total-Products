@@ -1,7 +1,7 @@
 ---
 title: Render MSG to DOTX in Andorid App
 description: Export MSG to DOTX without using Microsoft Word or Outlook in you Andorid applications 
-url: /android-java/conversion/msg-to-dotx/
+url_ignore: /android-java/conversion/msg-to-dotx/
 family: total
 platformtag: android-java
 feature: conversion

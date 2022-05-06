@@ -1,7 +1,7 @@
 ---
 title: API de Java para convertir DOT a XLS
 description: Convierta DOT a XLS a través de Java sin usar Microsoft Word o Microsoft Excel
-url: /es/java/conversion/dot-to-xls/
+url_ignore: /es/java/conversion/dot-to-xls/
 family: total
 platformtag: net
 feature: conversion

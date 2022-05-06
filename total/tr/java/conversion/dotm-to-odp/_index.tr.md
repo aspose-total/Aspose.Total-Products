@@ -1,7 +1,7 @@
 ---
 title: Java ile DOTM'yi ODP'ye dönüştürün
 description: Microsoft Word veya PowerPoint kullanmadan DOTM'yi ODP'ye Dışa Aktarmak için Java API
-url: /tr/java/conversion/dotm-to-odp/
+url_ignore: /tr/java/conversion/dotm-to-odp/
 family: total
 platformtag: net
 feature: conversion

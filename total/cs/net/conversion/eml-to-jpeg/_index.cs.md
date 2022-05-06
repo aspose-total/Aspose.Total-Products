@@ -1,7 +1,7 @@
 ---
 title: C# API pro export EML do JPEG
 description: Převeďte EML na JPEG bez použití Microsoft Word nebo Outlook na .NET
-url: /cs/net/conversion/eml-to-jpeg/
+url_ignore: /cs/net/conversion/eml-to-jpeg/
 family: total
 platformtag: net
 feature: conversion

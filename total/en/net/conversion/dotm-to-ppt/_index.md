@@ -1,6 +1,6 @@
 ---
 title: Convert DOTM to PPT via C# .NET 
-url: /net/conversion/dotm-to-ppt/ 
+url_ignore: /net/conversion/dotm-to-ppt/ 
 description: Convert Word dotm documents to PowerPoint ppt files with C#. Convert multiple files within ASP.NET or other .NET applications.
 ---
 

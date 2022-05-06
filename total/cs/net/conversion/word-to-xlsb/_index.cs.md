@@ -1,7 +1,7 @@
 ---
 title: .NET API pro převod WORD do XLSB
 description: C# API pro převod WORD do XLSB bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/word-to-xlsb/
+url_ignore: /cs/net/conversion/word-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

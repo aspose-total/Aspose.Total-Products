@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení PDF do CSV
 description: Export PDF do CSV přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/pdf-to-csv/
+url_ignore: /cs/java/conversion/pdf-to-csv/
 family: total
 platformtag: net
 feature: conversion

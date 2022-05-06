@@ -1,7 +1,7 @@
 ---
 title: Java API για απόδοση EPUB σε CSV
 description: Εξαγωγή EPUB σε CSV μέσω Java API χωρίς χρήση του Microsoft Excel ή του Adobe Reader
-url: /el/java/conversion/epub-to-csv/
+url_ignore: /el/java/conversion/epub-to-csv/
 family: total
 platformtag: net
 feature: conversion

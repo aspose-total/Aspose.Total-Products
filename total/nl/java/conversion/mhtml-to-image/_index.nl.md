@@ -1,7 +1,7 @@
 ---
 title: Converteer MHTML naar IMAGE via Java
 description: Exporteer MHTML-bestand naar IMAGE in uw Java-applicaties zonder een applicatie van derden te gebruiken
-url: /nl/java/conversion/mhtml-to-image/
+url_ignore: /nl/java/conversion/mhtml-to-image/
 family: total
 platformtag: net
 feature: conversion

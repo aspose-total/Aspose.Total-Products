@@ -1,7 +1,7 @@
 ---
 title: Java API för att rendera PS till XLTM
 description: Exportera PS till XLTM via Java API utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/java/conversion/ps-to-xltm/
+url_ignore: /sv/java/conversion/ps-to-xltm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API to Render PCL to XLSB
 description: Export PCL to XLSB via Java API without using Microsoft Excel or Adobe Reader
-url: /java/conversion/pcl-to-xlsb/
+url_ignore: /java/conversion/pcl-to-xlsb/
 family: total
 platformtag: java
 feature: conversion

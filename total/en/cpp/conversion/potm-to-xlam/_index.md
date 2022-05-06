@@ -1,7 +1,7 @@
 ---
 title: Convert POTM to XLAM via C++ 
 description: Export POTM to XLAM in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/potm-to-xlam/
+url_ignore: /cpp/conversion/potm-to-xlam/
 family: total
 platformtag: cpp
 feature: conversion

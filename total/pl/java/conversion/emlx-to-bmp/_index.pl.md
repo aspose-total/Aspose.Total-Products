@@ -1,7 +1,7 @@
 ---
 title: Eksportuj EMLX do BMP przez Java
 description: Java API do konwersji EMLX na BMP bez użycia Microsoft Word lub Outlook
-url: /pl/java/conversion/emlx-to-bmp/
+url_ignore: /pl/java/conversion/emlx-to-bmp/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: MHTML'yi RTF'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan MHTML'yi RTF'ye dönüştürün
-url: /tr/net/conversion/mhtml-to-rtf/
+url_ignore: /tr/net/conversion/mhtml-to-rtf/
 family: total
 platformtag: net
 feature: conversion

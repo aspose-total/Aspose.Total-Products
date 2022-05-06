@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert WORDML to EXCEL
 description: Convert WORDML to EXCEL in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/wordml-to-excel/
+url_ignore: /android-java/conversion/wordml-to-excel/
 family: total
 platformtag: android-java
 feature: conversion

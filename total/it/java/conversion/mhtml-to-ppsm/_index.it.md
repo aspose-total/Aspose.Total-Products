@@ -1,7 +1,7 @@
 ---
 title: Converti MHTML in PPSM tramite API Java
 description: API Java per convertire MHTML in PPSM senza utilizzare Microsoft Word
-url: /it/java/conversion/mhtml-to-ppsm/
+url_ignore: /it/java/conversion/mhtml-to-ppsm/
 family: total
 platformtag: net
 feature: conversion

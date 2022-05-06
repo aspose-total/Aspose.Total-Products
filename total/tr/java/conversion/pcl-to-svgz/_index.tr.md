@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla PCL'yi SVGZ'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan PCL dosyasını Java uygulamalarınızda SVGZ'ye aktarın
-url: /tr/java/conversion/pcl-to-svgz/
+url_ignore: /tr/java/conversion/pcl-to-svgz/
 family: total
 platformtag: net
 feature: conversion

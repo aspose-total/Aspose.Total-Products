@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi PPS sang ODT qua Java
 description: Java API để xuất PPS sang ODT mà không cần sử dụng Microsoft Word hoặc PowerPoint
-url: /vi/java/conversion/pps-to-odt/
+url_ignore: /vi/java/conversion/pps-to-odt/
 family: total
 platformtag: net
 feature: conversion

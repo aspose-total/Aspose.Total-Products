@@ -1,7 +1,7 @@
 ---
 title: C# API aracılığıyla TEX'yi WMZ'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan TEX'yi .NET uygulamalarınızda WMZ'ye aktarın
-url: /tr/net/conversion/tex-to-wmz/
+url_ignore: /tr/net/conversion/tex-to-wmz/
 family: total
 platformtag: net
 feature: conversion

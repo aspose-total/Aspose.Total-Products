@@ -1,7 +1,7 @@
 ---
 title: تحويل POWERPOINT إلى DOTX عبر Java
 description: Java API لتصدير POWERPOINT إلى DOTX دون استخدام Microsoft Word أو PowerPoint
-url: /ar/java/conversion/powerpoint-to-dotx/
+url_ignore: /ar/java/conversion/powerpoint-to-dotx/
 family: total
 platformtag: net
 feature: conversion

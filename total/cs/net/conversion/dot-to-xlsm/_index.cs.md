@@ -1,7 +1,7 @@
 ---
 title: .NET API pro převod DOT do XLSM
 description: C# API pro převod DOT do XLSM bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/net/conversion/dot-to-xlsm/
+url_ignore: /cs/net/conversion/dot-to-xlsm/
 family: total
 platformtag: net
 feature: conversion

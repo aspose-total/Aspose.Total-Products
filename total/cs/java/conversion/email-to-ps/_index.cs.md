@@ -1,7 +1,7 @@
 ---
 title: Export EMAIL do PS přes Java
 description: Java API pro převod EMAIL do PS bez použití Microsoft Word nebo Outlook
-url: /cs/java/conversion/email-to-ps/
+url_ignore: /cs/java/conversion/email-to-ps/
 family: total
 platformtag: net
 feature: conversion

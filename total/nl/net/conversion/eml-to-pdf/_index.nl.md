@@ -1,7 +1,7 @@
 ---
 title: C# API om EML naar PDF te exporteren
 description: Converteer EML naar PDF zonder Microsoft Word of Outlook te gebruiken op .NET
-url: /nl/net/conversion/eml-to-pdf/
+url_ignore: /nl/net/conversion/eml-to-pdf/
 family: total
 platformtag: net
 feature: conversion

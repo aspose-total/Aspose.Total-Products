@@ -1,7 +1,7 @@
 ---
 title: Converter POWERPOINT para MHTML via C#
 description: Converter POWERPOINT para MHTML em C# sem usar o Microsoft Excel ou Powerpoint
-url: /pt/net/conversion/powerpoint-to-mhtml/
+url_ignore: /pt/net/conversion/powerpoint-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

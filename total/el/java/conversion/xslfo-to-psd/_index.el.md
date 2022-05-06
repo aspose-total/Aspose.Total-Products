@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή XSLFO σε PSD μέσω Java
 description: Εξαγωγή αρχείου XSLFO σε PSD στις εφαρμογές σας Java χωρίς να χρησιμοποιήσετε καμία εφαρμογή τρίτου μέρους
-url: /el/java/conversion/xslfo-to-psd/
+url_ignore: /el/java/conversion/xslfo-to-psd/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API لتصدير البريد الإلكتروني إلى PCL
 description: قم بتحويل EML إلى PCL دون استخدام Microsoft Word أو Outlook على .NET
-url: /ar/net/conversion/eml-to-pcl/
+url_ignore: /ar/net/conversion/eml-to-pcl/
 family: total
 platformtag: net
 feature: conversion

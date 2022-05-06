@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPPSMをTSVに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPSMをTSVに変換する
-url: /ja/net/conversion/ppsm-to-tsv/
+url_ignore: /ja/net/conversion/ppsm-to-tsv/
 family: total
 platformtag: net
 feature: conversion

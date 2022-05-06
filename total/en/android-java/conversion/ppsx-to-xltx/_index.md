@@ -1,7 +1,7 @@
 ---
 title: Convert PPSX to XLTX in Android via Java
 description: Convert PPSX to XLTX in Android via Java without using using Microsoft Excel or PowerPoint
-url: /android-java/conversion/ppsx-to-xltx/
+url_ignore: /android-java/conversion/ppsx-to-xltx/
 family: total
 platformtag: android-java
 feature: conversion

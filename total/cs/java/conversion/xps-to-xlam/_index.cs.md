@@ -1,7 +1,7 @@
 ---
 title: Java API pro vykreslení XPS do XLAM
 description: Export XPS do XLAM přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/java/conversion/xps-to-xlam/
+url_ignore: /cs/java/conversion/xps-to-xlam/
 family: total
 platformtag: net
 feature: conversion

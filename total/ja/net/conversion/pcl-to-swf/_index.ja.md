@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPCLをSWFにエクスポートする
 description: MicrosoftWordを使用せずにPCLをSWFに変換する.NETAPI
-url: /ja/net/conversion/pcl-to-swf/
+url_ignore: /ja/net/conversion/pcl-to-swf/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPSをODSに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずにPSファイルをODSに変換するC＃API
-url: /ja/net/conversion/ps-to-ods/
+url_ignore: /ja/net/conversion/ps-to-ods/
 family: total
 platformtag: net
 feature: conversion

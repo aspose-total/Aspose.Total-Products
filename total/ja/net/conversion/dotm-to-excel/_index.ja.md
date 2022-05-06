@@ -1,7 +1,7 @@
 ---
 title: DOTMをEXCELに変換する.NETAPI
 description: MicrosoftExcelまたはAdobeReaderを使用せずにDOTMをEXCELに変換するC＃API
-url: /ja/net/conversion/dotm-to-excel/
+url_ignore: /ja/net/conversion/dotm-to-excel/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert MD to ODP via Java API
 description: Java API to Convert MD to ODP without using Microsoft Word
-url: /java/conversion/md-to-odp/
+url_ignore: /java/conversion/md-to-odp/
 family: total
 platformtag: java
 feature: conversion

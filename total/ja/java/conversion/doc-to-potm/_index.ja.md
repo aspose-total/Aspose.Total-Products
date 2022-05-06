@@ -1,7 +1,7 @@
 ---
 title: Java経由でDOCをPOTMに変換する
 description: MicrosoftWordやPowerPointを使用せずにDOCをPOTMにエクスポートするJavaAPI
-url: /ja/java/conversion/doc-to-potm/
+url_ignore: /ja/java/conversion/doc-to-potm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API to Export CGM to DOT
 description: Convert CGM to DOT using on premise Java API
-url: /java/conversion/cgm-to-dot/
+url_ignore: /java/conversion/cgm-to-dot/
 family: total
 platformtag: java
 feature: conversion

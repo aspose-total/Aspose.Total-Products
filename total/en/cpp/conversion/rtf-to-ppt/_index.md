@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to PPT via C++
 description: Export RTF to PPT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/rtf-to-ppt/
+url_ignore: /cpp/conversion/rtf-to-ppt/
 family: total
 platformtag: cpp
 feature: conversion

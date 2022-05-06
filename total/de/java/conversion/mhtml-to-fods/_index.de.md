@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Rendern von MHTML in FODS
 description: Exportieren Sie MHTML über die Java-API in FODS, ohne Microsoft Excel oder Adobe Reader zu verwenden
-url: /de/java/conversion/mhtml-to-fods/
+url_ignore: /de/java/conversion/mhtml-to-fods/
 family: total
 platformtag: net
 feature: conversion

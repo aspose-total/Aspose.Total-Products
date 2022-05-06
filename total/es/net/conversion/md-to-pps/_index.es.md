@@ -1,7 +1,7 @@
 ---
 title: Exportar MD a PPS a través de la API de C#
 description: .NET API para convertir MD a PPS sin usar Microsoft Word
-url: /es/net/conversion/md-to-pps/
+url_ignore: /es/net/conversion/md-to-pps/
 family: total
 platformtag: net
 feature: conversion

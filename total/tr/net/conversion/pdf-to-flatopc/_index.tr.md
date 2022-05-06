@@ -1,7 +1,7 @@
 ---
 title: PDF'yi FLATOPC'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan PDF'yi FLATOPC'ye dönüştürün
-url: /tr/net/conversion/pdf-to-flatopc/
+url_ignore: /tr/net/conversion/pdf-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

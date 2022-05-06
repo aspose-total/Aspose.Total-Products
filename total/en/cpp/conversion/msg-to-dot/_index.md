@@ -1,7 +1,7 @@
 ---
 title: Export MSG to DOT via C++
 description: C++ API to Convert MSG to DOT without using Microsoft Word or Outlook
-url: /cpp/conversion/msg-to-dot/
+url_ignore: /cpp/conversion/msg-to-dot/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exportar OFT para OTT via Java
 description: API Java para converter OFT para OTT sem usar o Microsoft Word ou Outlook
-url: /pt/java/conversion/oft-to-ott/
+url_ignore: /pt/java/conversion/oft-to-ott/
 family: total
 platformtag: net
 feature: conversion

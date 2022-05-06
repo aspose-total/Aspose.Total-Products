@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert RTF to DIF
 description: Convert RTF to DIF in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/rtf-to-dif/
+url_ignore: /android-java/conversion/rtf-to-dif/
 family: total
 platformtag: android-java
 feature: conversion

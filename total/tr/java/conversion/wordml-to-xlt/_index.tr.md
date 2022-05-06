@@ -1,7 +1,7 @@
 ---
 title: WORDML'yi XLT'ye Dönüştürmek için Java API
 description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla WORDML'yi XLT'ye dönüştürün
-url: /tr/java/conversion/wordml-to-xlt/
+url_ignore: /tr/java/conversion/wordml-to-xlt/
 family: total
 platformtag: net
 feature: conversion

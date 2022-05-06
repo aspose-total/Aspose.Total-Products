@@ -1,7 +1,7 @@
 ---
 title: CGMをOTTにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにCGMをOTTに変換する
-url: /ja/net/conversion/cgm-to-ott/
+url_ignore: /ja/net/conversion/cgm-to-ott/
 family: total
 platformtag: net
 feature: conversion

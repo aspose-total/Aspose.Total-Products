@@ -1,7 +1,7 @@
 ---
 title: Java API pro export MD do DOTM
 description: Převeďte MD na DOTM pomocí on premise Java API
-url: /cs/java/conversion/md-to-dotm/
+url_ignore: /cs/java/conversion/md-to-dotm/
 family: total
 platformtag: net
 feature: conversion

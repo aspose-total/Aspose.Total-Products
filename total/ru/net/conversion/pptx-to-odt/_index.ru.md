@@ -1,6 +1,6 @@
 ---
 title: Преобразование PPTX в ODT через C# .NET 
-url: /ru/net/conversion/pptx-to-odt/ 
+url_ignore: /ru/net/conversion/pptx-to-odt/ 
 description: Преобразование документов PowerPoint pptx в файлы документов Word с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

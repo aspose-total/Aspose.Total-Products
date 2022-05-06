@@ -1,7 +1,7 @@
 ---
 title: PS'yi C# API aracılığıyla XAML'ye aktarın
 description: Microsoft Word kullanmadan PS'yi XAML'ye dönüştürmek için .NET API
-url: /tr/net/conversion/ps-to-xaml/
+url_ignore: /tr/net/conversion/ps-to-xaml/
 family: total
 platformtag: net
 feature: conversion

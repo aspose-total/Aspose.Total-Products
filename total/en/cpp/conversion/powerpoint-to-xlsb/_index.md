@@ -1,7 +1,7 @@
 ---
 title: Convert POWERPOINT to XLSB via C++ 
 description: Export POWERPOINT to XLSB in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/powerpoint-to-xlsb/
+url_ignore: /cpp/conversion/powerpoint-to-xlsb/
 family: total
 platformtag: cpp
 feature: conversion

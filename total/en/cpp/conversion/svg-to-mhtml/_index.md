@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export SVG to MHTML
 description: Convert SVG to MHTML within C++ applications.
-url: /cpp/conversion/svg-to-mhtml/
+url_ignore: /cpp/conversion/svg-to-mhtml/
 family: total
 platformtag: cpp
 feature: conversion

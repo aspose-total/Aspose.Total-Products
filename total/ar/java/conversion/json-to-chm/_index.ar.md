@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى CHM عبر Java
 description: تحليل JSON إلى CHM في Java بدون استخدام Microsoft Word
-url: /ar/java/conversion/json-to-chm/
+url_ignore: /ar/java/conversion/json-to-chm/
 family: total
 platformtag: net
 feature: conversion

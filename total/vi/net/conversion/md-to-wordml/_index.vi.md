@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất MD sang WORDML
 description: Chuyển đổi MD sang WORDML mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/md-to-wordml/
+url_ignore: /vi/net/conversion/md-to-wordml/
 family: total
 platformtag: net
 feature: conversion

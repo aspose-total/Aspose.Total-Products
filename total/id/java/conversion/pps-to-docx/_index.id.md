@@ -1,7 +1,7 @@
 ---
 title: Konversi PPS ke DOCX melalui Java
 description: Java API untuk Mengekspor PPS ke DOCX tanpa menggunakan Microsoft Word atau PowerPoint
-url: /id/java/conversion/pps-to-docx/
+url_ignore: /id/java/conversion/pps-to-docx/
 family: total
 platformtag: net
 feature: conversion

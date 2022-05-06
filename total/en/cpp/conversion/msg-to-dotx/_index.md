@@ -1,7 +1,7 @@
 ---
 title: Export MSG to DOTX via C++
 description: C++ API to Convert MSG to DOTX without using Microsoft Word or Outlook
-url: /cpp/conversion/msg-to-dotx/
+url_ignore: /cpp/conversion/msg-to-dotx/
 family: total
 platformtag: cpp
 feature: conversion

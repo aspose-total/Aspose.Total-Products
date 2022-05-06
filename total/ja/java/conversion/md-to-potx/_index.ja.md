@@ -1,7 +1,7 @@
 ---
 title: JavaAPIを介してMDをPOTXに変換する
 description: MicrosoftWordを使用せずにMDをPOTXに変換するJavaAPI
-url: /ja/java/conversion/md-to-potx/
+url_ignore: /ja/java/conversion/md-to-potx/
 family: total
 platformtag: net
 feature: conversion

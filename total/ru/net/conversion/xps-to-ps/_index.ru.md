@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта XPS в PS
 description: Преобразование XPS в PS без использования Microsoft Word
-url: /ru/net/conversion/xps-to-ps/
+url_ignore: /ru/net/conversion/xps-to-ps/
 family: total
 platformtag: net
 feature: conversion

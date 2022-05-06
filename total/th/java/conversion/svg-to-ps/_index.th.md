@@ -1,7 +1,7 @@
 ---
 title: Java API เพื่อส่งออก SVG ไปยัง PS
 description: แปลง SVG เป็น PS โดยใช้ Java API . ในตัว
-url: /th/java/conversion/svg-to-ps/
+url_ignore: /th/java/conversion/svg-to-ps/
 family: total
 platformtag: net
 feature: conversion

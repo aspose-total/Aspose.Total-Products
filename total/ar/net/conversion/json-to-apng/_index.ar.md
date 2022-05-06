@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى APNG عبر .NET
 description: تحليل JSON إلى APNG في C# بدون استخدام تبعيات الطرف الثالث
-url: /ar/net/conversion/json-to-apng/
+url_ignore: /ar/net/conversion/json-to-apng/
 family: total
 platformtag: net
 feature: conversion

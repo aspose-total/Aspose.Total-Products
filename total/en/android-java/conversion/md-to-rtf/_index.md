@@ -1,7 +1,7 @@
 ---
 title: Android API to Render MD to RTF
 description: Transform MD to RTF via Android via Java API
-url: /android-java/conversion/md-to-rtf/
+url_ignore: /android-java/conversion/md-to-rtf/
 family: total
 platformtag: android-java
 feature: conversion

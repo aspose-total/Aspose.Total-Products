@@ -1,7 +1,7 @@
 ---
 title: TEXをMARKDOWNにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにTEXをMARKDOWNに変換する
-url: /ja/net/conversion/tex-to-markdown/
+url_ignore: /ja/net/conversion/tex-to-markdown/
 family: total
 platformtag: net
 feature: conversion

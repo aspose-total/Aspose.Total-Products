@@ -1,7 +1,7 @@
 ---
 title: Converteer DOCX naar JSON-formaat via .NET
 description: Converteer DOCX naar JSON in C# zonder Microsoft Excel of Adobe Reader te gebruiken
-url: /nl/net/conversion/docx-to-json/
+url_ignore: /nl/net/conversion/docx-to-json/
 family: total
 platformtag: net
 feature: conversion
@@ -18,10 +18,10 @@ Door [Aspose.Total for .NET](https://products.aspose.com/total/net/) te gebruike
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converteer DOCX naar JSON-formaat via C#" %}}
-1. Open het DOCX-bestand met de klasse [Docxument](https://apireference.aspose.com/words/net/aspose.words/docxument)
-2. Converteer DOCX naar HTML met behulp van de [Save](https://apireference.aspose.com/words/net/aspose.words.docxument/save/methods/4) methode
-3. Laad HTML-docxument met behulp van [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) class
-4. Sla het docxument op in JSON-indeling met de methode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+1. Open het DOCX-bestand met de klasse [Document](https://apireference.aspose.com/words/net/aspose.words/Document)
+2. Converteer DOCX naar HTML met behulp van de [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4) methode
+3. Laad HTML-Document met behulp van [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) class
+4. Sla het Document op in JSON-indeling met de methode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
@@ -33,15 +33,17 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "3320154ab7b06def2475ce90c7703f13" "convert-word-to-json.cs" >}}
-
+
+
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Converteer beveiligde DOCX naar JSON-indeling via C#" %}}
-Met behulp van de API kunt u ook het met een wachtwoord beveiligde docxument openen. Als uw DOCX-invoerdocxument met een wachtwoord is beveiligd, kunt u het niet converteren naar JSON-indeling zonder het wachtwoord te gebruiken. Met de API kunt u het gecodeerde docxument openen door het juiste wachtwoord in een LoadOptions-object door te geven. Het volgende codevoorbeeld laat zien hoe u kunt proberen een versleuteld docxument met een wachtwoord te openen:  
+{{% blocks/products/pf/feature-page-section  h2="Converteer beveiliDocumentnaar JSON-indeling via C#" %}}
+Met behulp van de API kunt u ook het met een wachtwoord beveiligde Document openen. Als uw DOCX-invoerDocument met een wachtwoord is beveiligd, kunt u het niet converteren naar JSON-indeling zonder het wachtwoord te gebruiken. Met de API kunt u het gecodeerde Document openen door het juiste wachtwoord in een LoadOptions-object door te geven. Het volgende codevoorbeeld laat zien hoe u kunt proberen een versleuteld Document met een wachtwoord te openen:  
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "3320154ab7b06def2475ce90c7703f13" "convert-protected-word-to-json.cs" >}}
+{{< gist "aspose-com-gists" "3320154ab7b06def2475ce90c7703f13" "convert-protected-word-to-json.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Met behulp van de API kunt u ook het met een wachtwoord beveiligde docxument ope
 Terwijl u DOCX naar JSON converteert, kunt u het bereik ook instellen op uw JSON-uitvoerformaat. Om het bereik in te stellen, kunt u de geconverteerde HTML openen met behulp van de Workbook-klasse, CellsCollection van het werkblad met de gegevens ophalen, een bereik maken vanuit CellsCollection door rij- en kolomindexen op te geven en de ExportRangeToJson-methode aanroepen met verwijzingen naar Range & ExportRangeToJsonOptions-objecten. Ten slotte kunt u de JSON-gegevens in een bestand opslaan via de File.WriteAllText-methode. 
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "3320154ab7b06def2475ce90c7703f13" "convert-word-to-json-range.cs" >}}
+{{< gist "aspose-com-gists" "3320154ab7b06def2475ce90c7703f13" "convert-word-to-json-range.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

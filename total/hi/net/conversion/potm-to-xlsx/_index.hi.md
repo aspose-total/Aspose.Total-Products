@@ -1,7 +1,7 @@
 ---
 title: सी # के माध्यम से पीओटी को सीएसवी में कनवर्ट करें
 description: Microsoft Excel या Powerpoint का उपयोग किए बिना POTM को XLSX में C# में बदलें
-url: /hi/net/conversion/potm-to-xlsx/
+url_ignore: /hi/net/conversion/potm-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

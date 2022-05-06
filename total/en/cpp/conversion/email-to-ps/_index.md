@@ -1,7 +1,7 @@
 ---
 title: Export EMAIL to PS via C++
 description: C++ API to Convert EMAIL to PS without using Microsoft Word or Outlook
-url: /cpp/conversion/email-to-ps/
+url_ignore: /cpp/conversion/email-to-ps/
 family: total
 platformtag: cpp
 feature: conversion

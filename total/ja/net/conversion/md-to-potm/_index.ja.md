@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMDをPOTMにエクスポートする
 description: MicrosoftWordを使用せずにMDをPOTMに変換する.NETAPI
-url: /ja/net/conversion/md-to-potm/
+url_ignore: /ja/net/conversion/md-to-potm/
 family: total
 platformtag: net
 feature: conversion

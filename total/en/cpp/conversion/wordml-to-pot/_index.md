@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to POT via C++
 description: Export WORDML to POT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/wordml-to-pot/
+url_ignore: /cpp/conversion/wordml-to-pot/
 family: total
 platformtag: cpp
 feature: conversion

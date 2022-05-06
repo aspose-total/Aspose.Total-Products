@@ -1,7 +1,7 @@
 ---
 title: Convierta EPUB a EXCEL a través de la API de C#
 description: API C# para convertir archivos EPUB a EXCEL sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/epub-to-excel/
+url_ignore: /es/net/conversion/epub-to-excel/
 family: total
 platformtag: net
 feature: conversion

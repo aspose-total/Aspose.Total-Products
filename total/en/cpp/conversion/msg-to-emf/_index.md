@@ -1,7 +1,7 @@
 ---
 title: Export MSG to EMF via C++
 description: C++ API to Convert MSG to EMF without using Microsoft Word or Outlook
-url: /cpp/conversion/msg-to-emf/
+url_ignore: /cpp/conversion/msg-to-emf/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: NET API لتحويل DOCM إلى XLAM
 description: C# API لتحويل DOCM إلى XLAM بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/docm-to-xlam/
+url_ignore: /ar/net/conversion/docm-to-xlam/
 family: total
 platformtag: net
 feature: conversion
@@ -18,7 +18,7 @@ otherformats: ODS XLT EXCEL SXC XLSB DIF XLSX XLTM XLTX XLS FODS TSV XLSM XLAM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="NET API لتحويل DOCM إلى XLAM" %}}
-1. افتح ملف DOCM باستخدام فئة [Document](https://apireference.aspose.com/words/net/aspose.words/document
+1. افتح ملف DOCM باستخدام فئة [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 2. تحويل DOCM إلى HTML باستخدام طريقة [Save](https://apireference.aspose.com/words/net/aspose.words.documentsave/methods/4)
 3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 4. احفظ المستند بتنسيق XLAM باستخدام طريقة [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) وعيّن `XLAM` على أنه SaveFormat

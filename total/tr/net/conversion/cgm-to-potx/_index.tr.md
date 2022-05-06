@@ -1,7 +1,7 @@
 ---
 title: CGM'yi C# API aracılığıyla POTX'ye aktarın
 description: Microsoft Word kullanmadan CGM'yi POTX'ye dönüştürmek için .NET API
-url: /tr/net/conversion/cgm-to-potx/
+url_ignore: /tr/net/conversion/cgm-to-potx/
 family: total
 platformtag: net
 feature: conversion

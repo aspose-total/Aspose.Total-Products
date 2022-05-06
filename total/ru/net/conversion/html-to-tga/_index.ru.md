@@ -1,7 +1,7 @@
 ---
 title: Преобразование HTML в TGA через C# API
 description: Экспорт HTML в TGA в ваших приложениях .NET без использования каких-либо сторонних приложений.
-url: /ru/net/conversion/html-to-tga/
+url_ignore: /ru/net/conversion/html-to-tga/
 family: total
 platformtag: net
 feature: conversion

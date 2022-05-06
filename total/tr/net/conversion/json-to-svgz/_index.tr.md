@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını .NET aracılığıyla SVGZ'ye dönüştürün
 description: Üçüncü taraf bağımlılıklarını kullanmadan JSON'u C#'ta SVGZ'ye ayrıştırın
-url: /tr/net/conversion/json-to-svgz/
+url_ignore: /tr/net/conversion/json-to-svgz/
 family: total
 platformtag: net
 feature: conversion

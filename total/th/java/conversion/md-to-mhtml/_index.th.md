@@ -1,7 +1,7 @@
 ---
 title: Java API เพื่อส่งออก MD ไปยัง MHTML
 description: แปลง MD เป็น MHTML โดยใช้ Java API . ในตัว
-url: /th/java/conversion/md-to-mhtml/
+url_ignore: /th/java/conversion/md-to-mhtml/
 family: total
 platformtag: net
 feature: conversion

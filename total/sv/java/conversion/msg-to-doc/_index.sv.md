@@ -1,7 +1,7 @@
 ---
 title: Exportera MSG till DOC via Java
 description: Java API för att konvertera MSG till DOC utan att använda Microsoft Word eller Outlook
-url: /sv/java/conversion/msg-to-doc/
+url_ignore: /sv/java/conversion/msg-to-doc/
 family: total
 platformtag: net
 feature: conversion

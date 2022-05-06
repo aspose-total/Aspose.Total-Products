@@ -1,7 +1,7 @@
 ---
 title: Android API to Render MHTML to OTT
 description: Transform MHTML to OTT via Android via Java API
-url: /android-java/conversion/mhtml-to-ott/
+url_ignore: /android-java/conversion/mhtml-to-ott/
 family: total
 platformtag: android-java
 feature: conversion

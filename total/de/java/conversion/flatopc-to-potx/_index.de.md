@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie FLATOPC über Java in POTX
 description: Java-API zum Exportieren von FLATOPC in POTX, ohne Microsoft Word oder PowerPoint zu verwenden
-url: /de/java/conversion/flatopc-to-potx/
+url_ignore: /de/java/conversion/flatopc-to-potx/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してXMLをSWFにエクスポートする
 description: MicrosoftWordを使用せずにXMLをSWFに変換する.NETAPI
-url: /ja/net/conversion/xml-to-swf/
+url_ignore: /ja/net/conversion/xml-to-swf/
 family: total
 platformtag: net
 feature: conversion

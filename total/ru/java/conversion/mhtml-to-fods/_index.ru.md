@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга MHTML в FODS
 description: Экспорт MHTML в FODS через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/mhtml-to-fods/
+url_ignore: /ru/java/conversion/mhtml-to-fods/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Android API to Render XPS to RTF
 description: Transform XPS to RTF via Android via Java API
-url: /android-java/conversion/xps-to-rtf/
+url_ignore: /android-java/conversion/xps-to-rtf/
 family: total
 platformtag: android-java
 feature: conversion

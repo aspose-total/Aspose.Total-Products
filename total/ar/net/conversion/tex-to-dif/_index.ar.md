@@ -1,7 +1,7 @@
 ---
 title: تحويل TEX إلى DIF عبر C# API
 description: C# API لتحويل ملف TEX إلى DIF بدون استخدام Microsoft Excel أو Adobe Reader
-url: /ar/net/conversion/tex-to-dif/
+url_ignore: /ar/net/conversion/tex-to-dif/
 family: total
 platformtag: net
 feature: conversion

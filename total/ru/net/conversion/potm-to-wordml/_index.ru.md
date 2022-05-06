@@ -1,6 +1,6 @@
 ---
 title: Преобразование POTM в WORDML через C# .NET 
-url: /ru/net/conversion/potm-to-wordml/ 
+url_ignore: /ru/net/conversion/potm-to-wordml/ 
 description: Преобразование документов PowerPoint potm в файлы документов Word с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

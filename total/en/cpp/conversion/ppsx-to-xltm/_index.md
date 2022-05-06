@@ -1,7 +1,7 @@
 ---
 title: Convert PPSX to XLTM via C++ 
 description: Export PPSX to XLTM in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/ppsx-to-xltm/
+url_ignore: /cpp/conversion/ppsx-to-xltm/
 family: total
 platformtag: cpp
 feature: conversion

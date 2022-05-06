@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XML to XLAM
 description: Convert XML to XLAM via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xml-to-xlam/
+url_ignore: /cpp/conversion/xml-to-xlam/
 family: total
 platformtag: cpp
 feature: conversion

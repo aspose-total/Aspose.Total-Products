@@ -1,7 +1,7 @@
 ---
 title: C# API เพื่อส่งออก TEX ไปยัง DOT
 description: แปลง TEX เป็น DOT โดยไม่ต้องใช้ Microsoft Word
-url: /th/net/conversion/tex-to-dot/
+url_ignore: /th/net/conversion/tex-to-dot/
 family: total
 platformtag: net
 feature: conversion

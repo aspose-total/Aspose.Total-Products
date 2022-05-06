@@ -1,7 +1,7 @@
 ---
 title: تحويل PPTM إلى تنسيق SXC عبر Java
 description: قم بتحويل PPTM إلى تنسيق SXC عبر Java دون استخدام Microsoft Excel أو PowerPoint
-url: /ar/java/conversion/pptm-to-sxc/
+url_ignore: /ar/java/conversion/pptm-to-sxc/
 family: total
 platformtag: net
 feature: conversion

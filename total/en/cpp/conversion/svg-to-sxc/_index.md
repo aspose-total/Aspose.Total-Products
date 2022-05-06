@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert SVG to SXC
 description: Convert SVG to SXC via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/svg-to-sxc/
+url_ignore: /cpp/conversion/svg-to-sxc/
 family: total
 platformtag: cpp
 feature: conversion

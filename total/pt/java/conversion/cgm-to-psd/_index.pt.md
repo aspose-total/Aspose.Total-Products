@@ -1,7 +1,7 @@
 ---
 title: Converter CGM para PSD via Java
 description: Exporte o arquivo CGM para PSD em seus aplicativos Java sem usar nenhum aplicativo de terceiros
-url: /pt/java/conversion/cgm-to-psd/
+url_ignore: /pt/java/conversion/cgm-to-psd/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert TEX to PPTM  
 description: Convert TEX to PPTM via C++ without using Microsoft Word or Adobe Acrobat Reader
-url: /cpp/conversion/tex-to-pptm/
+url_ignore: /cpp/conversion/tex-to-pptm/
 family: total
 platformtag: cpp
 feature: conversion

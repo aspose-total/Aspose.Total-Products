@@ -1,7 +1,7 @@
 ---
 title: Java ile WORD'yi POTX'ye dönüştürün
 description: Microsoft Word veya PowerPoint kullanmadan WORD'yi POTX'ye Dışa Aktarmak için Java API
-url: /tr/java/conversion/word-to-potx/
+url_ignore: /tr/java/conversion/word-to-potx/
 family: total
 platformtag: net
 feature: conversion

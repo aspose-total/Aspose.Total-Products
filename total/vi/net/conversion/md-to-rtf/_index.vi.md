@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất MD sang RTF
 description: Chuyển đổi MD sang RTF mà không cần sử dụng Microsoft Word
-url: /vi/net/conversion/md-to-rtf/
+url_ignore: /vi/net/conversion/md-to-rtf/
 family: total
 platformtag: net
 feature: conversion

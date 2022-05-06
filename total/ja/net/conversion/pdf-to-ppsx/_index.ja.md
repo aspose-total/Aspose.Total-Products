@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPDFをPPSXにエクスポートする
 description: MicrosoftWordを使用せずにPDFをPPSXに変換する.NETAPI
-url: /ja/net/conversion/pdf-to-ppsx/
+url_ignore: /ja/net/conversion/pdf-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

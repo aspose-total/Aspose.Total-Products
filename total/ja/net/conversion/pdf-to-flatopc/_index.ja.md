@@ -1,7 +1,7 @@
 ---
 title: PDFをFLATOPCにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにPDFをFLATOPCに変換する
-url: /ja/net/conversion/pdf-to-flatopc/
+url_ignore: /ja/net/conversion/pdf-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

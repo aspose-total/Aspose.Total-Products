@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla XPS'yi DXF'ye dönüştürün
 description: Herhangi bir üçüncü taraf uygulaması kullanmadan XPS dosyasını Java uygulamalarınızda DXF'ye aktarın
-url: /tr/java/conversion/xps-to-dxf/
+url_ignore: /tr/java/conversion/xps-to-dxf/
 family: total
 platformtag: net
 feature: conversion

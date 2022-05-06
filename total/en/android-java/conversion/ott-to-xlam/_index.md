@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert OTT to XLAM
 description: Convert OTT to XLAM in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/ott-to-xlam/
+url_ignore: /android-java/conversion/ott-to-xlam/
 family: total
 platformtag: android-java
 feature: conversion

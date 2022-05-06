@@ -1,6 +1,6 @@
 ---
 title: Преобразование PPSX в DOCX через C# .NET 
-url: /ru/net/conversion/ppsx-to-docx/ 
+url_ignore: /ru/net/conversion/ppsx-to-docx/ 
 description: Преобразование документов PowerPoint ppsx в файлы документов Word с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

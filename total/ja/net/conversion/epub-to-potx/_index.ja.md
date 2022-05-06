@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してEPUBをPOTXにエクスポートする
 description: MicrosoftWordを使用せずにEPUBをPOTXに変換する.NETAPI
-url: /ja/net/conversion/epub-to-potx/
+url_ignore: /ja/net/conversion/epub-to-potx/
 family: total
 platformtag: net
 feature: conversion

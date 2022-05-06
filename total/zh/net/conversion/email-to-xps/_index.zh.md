@@ -1,7 +1,7 @@
 ---
 title: 将 EMAIL 导出为 XPS 的 C# API
 description: 在 .NET 上不使用 Microsoft Word 或 Outlook 将 EMAIL 转换为 XPS
-url: /zh/net/conversion/email-to-xps/
+url_ignore: /zh/net/conversion/email-to-xps/
 family: total
 platformtag: net
 feature: conversion

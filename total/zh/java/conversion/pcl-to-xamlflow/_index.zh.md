@@ -1,7 +1,7 @@
 ---
 title: 用于将 PCL 导出到 XAMLFLOW 的 Java API
 description: 使用本地 Java API 将 PCL 转换为 XAMLFLOW
-url: /zh/java/conversion/pcl-to-xamlflow/
+url_ignore: /zh/java/conversion/pcl-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

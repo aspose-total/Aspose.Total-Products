@@ -1,7 +1,7 @@
 ---
 title: تصدير XML إلى PPT عبر C# API
 description: NET API لتحويل XML إلى PPT دون استخدام Microsoft Word
-url: /ar/net/conversion/xml-to-ppt/
+url_ignore: /ar/net/conversion/xml-to-ppt/
 family: total
 platformtag: net
 feature: conversion

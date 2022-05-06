@@ -1,7 +1,7 @@
 ---
 title: Export EML to EPUB via C++
 description: C++ API to Convert EML to EPUB without using Microsoft Word or Outlook
-url: /cpp/conversion/eml-to-epub/
+url_ignore: /cpp/conversion/eml-to-epub/
 family: total
 platformtag: cpp
 feature: conversion

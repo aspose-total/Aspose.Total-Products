@@ -1,7 +1,7 @@
 ---
 title: PDFをODTにエクスポートするJavaAPI
 description: オンプレミスのJavaAPIを使用してPDFをODTに変換する
-url: /ja/java/conversion/pdf-to-odt/
+url_ignore: /ja/java/conversion/pdf-to-odt/
 family: total
 platformtag: net
 feature: conversion

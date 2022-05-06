@@ -1,7 +1,7 @@
 ---
 title: Exportar EML a WORDML a través de Java
 description: API de Java para convertir EML a WORDML sin usar Microsoft Word o Outlook
-url: /es/java/conversion/eml-to-wordml/
+url_ignore: /es/java/conversion/eml-to-wordml/
 family: total
 platformtag: net
 feature: conversion

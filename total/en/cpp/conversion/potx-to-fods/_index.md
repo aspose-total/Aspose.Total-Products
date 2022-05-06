@@ -1,7 +1,7 @@
 ---
 title: Convert POTX to FODS via C++ 
 description: Export POTX to FODS in C++ without using Microsoft Excel or Powerpoint
-url: /cpp/conversion/potx-to-fods/
+url_ignore: /cpp/conversion/potx-to-fods/
 family: total
 platformtag: cpp
 feature: conversion

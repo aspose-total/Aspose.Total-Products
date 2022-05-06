@@ -1,7 +1,7 @@
 ---
 title: API de Java para exportar MD a OTT
 description: Convierta MD a OTT usando la API de Java en las instalaciones
-url: /es/java/conversion/md-to-ott/
+url_ignore: /es/java/conversion/md-to-ott/
 family: total
 platformtag: net
 feature: conversion

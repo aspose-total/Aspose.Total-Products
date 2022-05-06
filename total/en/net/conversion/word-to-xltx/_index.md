@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to XLTX via .NET 
 description: Convert WORD to XLTX in C# without using Microsoft Excel or Adobe Reader
-url: /net/conversion/word-to-xltx/
+url_ignore: /net/conversion/word-to-xltx/
 family: total
 platformtag: net
 feature: conversion

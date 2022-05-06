@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PDF to DOTX
 description: Convert PDF to DOTX within C++ applications.
-url: /cpp/conversion/pdf-to-dotx/
+url_ignore: /cpp/conversion/pdf-to-dotx/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convertir le format JSON en TGA via .NET
 description: Analyser JSON en TGA en C# sans utiliser de dépendances tierces
-url: /fr/net/conversion/json-to-tga/
+url_ignore: /fr/net/conversion/json-to-tga/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: EMZ PSD IMAGE TGA DXF WMZ WMF JPEG2000 SVGZ DICOM
 {{< blocks/products/pf/i18n/feature-page-header h1="Convertir le format JSON en TGA via C#" h2="API C# pour analyser JSON en TGA sans utiliser de dépendances tierces" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour .NET](https://products.aspose.com/total/net/), vous pouvez analyser JSON en TGA dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. pas. Tout d'abord, en utilisant [Aspose.Cells pour .NET](https://products.aspose.com/cells/net/), vous pouvez exporter JSON vers JPEG. Après cela, en utilisant [Aspose.Imaging pour .NET](https://products.aspose.com/imaging/net/), vous pouvez convertir JPEG en TGA.
+En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez analyser JSON en TGA dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. pas. Tout d'abord, en utilisant [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), vous pouvez exporter JSON vers JPEG. Après cela, en utilisant [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/), vous pouvez convertir JPEG en TGA.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

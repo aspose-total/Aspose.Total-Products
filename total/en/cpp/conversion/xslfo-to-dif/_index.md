@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XSLFO to DIF
 description: Convert XSLFO to DIF via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xslfo-to-dif/
+url_ignore: /cpp/conversion/xslfo-to-dif/
 family: total
 platformtag: cpp
 feature: conversion

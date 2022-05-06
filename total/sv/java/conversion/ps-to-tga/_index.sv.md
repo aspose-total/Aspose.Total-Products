@@ -1,7 +1,7 @@
 ---
 title: Konvertera PS till TGA via Java
 description: Exportera PS-fil till TGA i dina Java-applikationer utan att använda någon tredjepartsapplikation
-url: /sv/java/conversion/ps-to-tga/
+url_ignore: /sv/java/conversion/ps-to-tga/
 family: total
 platformtag: net
 feature: conversion

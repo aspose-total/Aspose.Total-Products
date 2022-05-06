@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してPSをXAMLにエクスポートする
 description: MicrosoftWordを使用せずにPSをXAMLに変換する.NETAPI
-url: /ja/net/conversion/ps-to-xaml/
+url_ignore: /ja/net/conversion/ps-to-xaml/
 family: total
 platformtag: net
 feature: conversion

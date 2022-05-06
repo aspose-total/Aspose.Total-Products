@@ -1,7 +1,7 @@
 ---
 title: .NET API to Convert DOTX to ODS 
 description: C# API to Convert DOTX to ODS without using Microsoft Excel or Adobe Reader
-url: /net/conversion/dotx-to-ods/
+url_ignore: /net/conversion/dotx-to-ods/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Android API to Render TEX to RTF
 description: Transform TEX to RTF via Android via Java API
-url: /android-java/conversion/tex-to-rtf/
+url_ignore: /android-java/conversion/tex-to-rtf/
 family: total
 platformtag: android-java
 feature: conversion

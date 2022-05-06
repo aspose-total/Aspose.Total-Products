@@ -1,7 +1,7 @@
 ---
 title: Converti XPS in APNG tramite Java
 description: Esporta file XPS in APNG nelle tue applicazioni Java senza utilizzare applicazioni di terze parti
-url: /it/java/conversion/xps-to-apng/
+url_ignore: /it/java/conversion/xps-to-apng/
 family: total
 platformtag: net
 feature: conversion

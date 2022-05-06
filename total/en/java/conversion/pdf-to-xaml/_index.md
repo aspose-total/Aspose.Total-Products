@@ -1,7 +1,7 @@
 ---
 title: Convert PDF to XAML via Java API
 description: Java API to Convert PDF to XAML without using Microsoft Word
-url: /java/conversion/pdf-to-xaml/
+url_ignore: /java/conversion/pdf-to-xaml/
 family: total
 platformtag: java
 feature: conversion

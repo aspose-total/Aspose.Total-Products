@@ -1,7 +1,7 @@
 ---
 title: Convert POTM to XLS via C# 
 description: Convert POTM to XLS in C# without using Microsoft Excel or Powerpoint
-url: /net/conversion/potm-to-xls/
+url_ignore: /net/conversion/potm-to-xls/
 family: total
 platformtag: net
 feature: conversion

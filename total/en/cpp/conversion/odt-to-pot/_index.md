@@ -1,7 +1,7 @@
 ---
 title: Convert ODT to POT via C++
 description: Export ODT to POT in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/odt-to-pot/
+url_ignore: /cpp/conversion/odt-to-pot/
 family: total
 platformtag: cpp
 feature: conversion

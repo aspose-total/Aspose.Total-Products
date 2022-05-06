@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PCL to XAMLFLOW
 description: Convert PCL to XAMLFLOW within C++ applications.
-url: /cpp/conversion/pcl-to-xamlflow/
+url_ignore: /cpp/conversion/pcl-to-xamlflow/
 family: total
 platformtag: cpp
 feature: conversion

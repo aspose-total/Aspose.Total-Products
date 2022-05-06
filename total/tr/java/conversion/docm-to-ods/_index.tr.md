@@ -1,7 +1,7 @@
 ---
 title: DOCM'yi ODS'ye Dönüştürmek için Java API
 description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla DOCM'yi ODS'ye dönüştürün
-url: /tr/java/conversion/docm-to-ods/
+url_ignore: /tr/java/conversion/docm-to-ods/
 family: total
 platformtag: net
 feature: conversion

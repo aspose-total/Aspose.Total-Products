@@ -1,7 +1,7 @@
 ---
 title: Export MSG to TEXT via C++
 description: C++ API to Convert MSG to TEXT without using Microsoft Word or Outlook
-url: /cpp/conversion/msg-to-text/
+url_ignore: /cpp/conversion/msg-to-text/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Render EMAIL to TIFF in Andorid App
 description: Export EMAIL to TIFF without using Microsoft Word or Outlook in you Andorid applications 
-url: /android-java/conversion/email-to-tiff/
+url_ignore: /android-java/conversion/email-to-tiff/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API do renderowania MD do XLAM
 description: Eksportuj MD do XLAM przez Java API bez użycia Microsoft Excel lub Adobe Reader
-url: /pl/java/conversion/md-to-xlam/
+url_ignore: /pl/java/conversion/md-to-xlam/
 family: total
 platformtag: net
 feature: conversion

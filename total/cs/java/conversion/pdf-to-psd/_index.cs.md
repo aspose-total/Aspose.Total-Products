@@ -1,7 +1,7 @@
 ---
 title: Převést PDF na PSD přes Java
 description: Exportujte soubor PDF do PSD ve svých aplikacích Java bez použití jakékoli aplikace třetí strany
-url: /cs/java/conversion/pdf-to-psd/
+url_ignore: /cs/java/conversion/pdf-to-psd/
 family: total
 platformtag: net
 feature: conversion

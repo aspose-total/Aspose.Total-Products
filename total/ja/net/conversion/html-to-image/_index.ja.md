@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してHTMLをIMAGEに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでHTMLをIMAGEにエクスポートします
-url: /ja/net/conversion/html-to-image/
+url_ignore: /ja/net/conversion/html-to-image/
 family: total
 platformtag: net
 feature: conversion

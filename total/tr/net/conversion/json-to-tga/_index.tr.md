@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını .NET aracılığıyla TGA'ye dönüştürün
 description: Üçüncü taraf bağımlılıklarını kullanmadan JSON'u C#'ta TGA'ye ayrıştırın
-url: /tr/net/conversion/json-to-tga/
+url_ignore: /tr/net/conversion/json-to-tga/
 family: total
 platformtag: net
 feature: conversion

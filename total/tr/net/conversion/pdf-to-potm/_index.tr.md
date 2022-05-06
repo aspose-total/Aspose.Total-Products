@@ -1,7 +1,7 @@
 ---
 title: PDF'yi C# API aracılığıyla POTM'ye aktarın
 description: Microsoft Word kullanmadan PDF'yi POTM'ye dönüştürmek için .NET API
-url: /tr/net/conversion/pdf-to-potm/
+url_ignore: /tr/net/conversion/pdf-to-potm/
 family: total
 platformtag: net
 feature: conversion

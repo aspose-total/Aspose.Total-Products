@@ -1,7 +1,7 @@
 ---
 title: MHTML을 FLATOPC으로 내보내기 위한 Java API
 description: 온프레미스 Java API를 사용하여 MHTML을 FLATOPC으로 변환
-url: /ko/java/conversion/mhtml-to-flatopc/
+url_ignore: /ko/java/conversion/mhtml-to-flatopc/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: ODT'yi XLSB'ye Dönüştürmek için Java API
 description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla ODT'yi XLSB'ye dönüştürün
-url: /tr/java/conversion/odt-to-xlsb/
+url_ignore: /tr/java/conversion/odt-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

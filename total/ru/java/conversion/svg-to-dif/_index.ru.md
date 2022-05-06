@@ -1,7 +1,7 @@
 ---
 title: Java API для рендеринга SVG в DIF
 description: Экспорт SVG в DIF через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/java/conversion/svg-to-dif/
+url_ignore: /ru/java/conversion/svg-to-dif/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# API om OFT naar DOCX te exporteren
 description: Converteer OFT naar DOCX zonder Microsoft Word of Outlook te gebruiken op .NET
-url: /nl/net/conversion/oft-to-docx/
+url_ignore: /nl/net/conversion/oft-to-docx/
 family: total
 platformtag: net
 feature: conversion

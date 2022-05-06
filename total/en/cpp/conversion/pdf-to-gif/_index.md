@@ -1,7 +1,7 @@
 ---
 title: C++ API to Export PDF to GIF
 description: Convert PDF to GIF within C++ applications.
-url: /cpp/conversion/pdf-to-gif/
+url_ignore: /cpp/conversion/pdf-to-gif/
 family: total
 platformtag: cpp
 feature: conversion

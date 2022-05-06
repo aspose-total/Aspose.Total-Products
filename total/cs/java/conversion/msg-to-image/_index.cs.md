@@ -1,7 +1,7 @@
 ---
 title: Export MSG do IMAGE přes Java
 description: Java API pro převod MSG do IMAGE bez použití Microsoft Word nebo Outlook
-url: /cs/java/conversion/msg-to-image/
+url_ignore: /cs/java/conversion/msg-to-image/
 family: total
 platformtag: net
 feature: conversion

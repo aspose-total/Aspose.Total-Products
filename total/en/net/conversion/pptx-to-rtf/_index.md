@@ -1,6 +1,6 @@
 ---
 title: Convert PPTX to RTF via C# .NET 
-url: /net/conversion/pptx-to-rtf/ 
+url_ignore: /net/conversion/pptx-to-rtf/ 
 description: Convert PowerPoint pptx documents to Word rtf files with C#. Convert multiple files within ASP.NET or other .NET applications.
 ---
 

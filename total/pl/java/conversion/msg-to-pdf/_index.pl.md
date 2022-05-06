@@ -1,7 +1,7 @@
 ---
 title: Eksportuj MSG do PDF przez Java
 description: Java API do konwersji MSG na PDF bez użycia Microsoft Word lub Outlook
-url: /pl/java/conversion/msg-to-pdf/
+url_ignore: /pl/java/conversion/msg-to-pdf/
 family: total
 platformtag: net
 feature: conversion

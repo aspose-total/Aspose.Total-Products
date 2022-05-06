@@ -1,7 +1,7 @@
 ---
 title: Esporta EMAIL in BMP tramite Java
 description: API Java per convertire EMAIL in BMP senza utilizzare Microsoft Word o Outlook
-url: /it/java/conversion/email-to-bmp/
+url_ignore: /it/java/conversion/email-to-bmp/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convierta TEX a XLSB a través de la API de C#
 description: API C# para convertir archivos TEX a XLSB sin usar Microsoft Excel o Adobe Reader
-url: /es/net/conversion/tex-to-xlsb/
+url_ignore: /es/net/conversion/tex-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

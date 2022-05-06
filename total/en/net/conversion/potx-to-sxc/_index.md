@@ -1,7 +1,7 @@
 ---
 title: Convert POTX to SXC via C# 
 description: Convert POTX to SXC in C# without using Microsoft Excel or Powerpoint
-url: /net/conversion/potx-to-sxc/
+url_ignore: /net/conversion/potx-to-sxc/
 family: total
 platformtag: net
 feature: conversion

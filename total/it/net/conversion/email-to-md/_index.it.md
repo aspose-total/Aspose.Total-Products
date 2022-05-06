@@ -1,7 +1,7 @@
 ---
 title: API C# per esportare EMAIL in MD
 description: Converti EMAIL in MD senza utilizzare Microsoft Word o Outlook su .NET
-url: /it/net/conversion/email-to-md/
+url_ignore: /it/net/conversion/email-to-md/
 family: total
 platformtag: net
 feature: conversion

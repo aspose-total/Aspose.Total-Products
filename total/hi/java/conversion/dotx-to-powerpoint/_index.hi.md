@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से DOTX को POWERPOINT में बदलें
 description: जावा एपीआई माइक्रोसॉफ्ट वर्ड या पावरपॉइंट का उपयोग किए बिना डीओसी को ओडीपी में निर्यात करने के लिए
-url: /hi/java/conversion/dotx-to-powerpoint/
+url_ignore: /hi/java/conversion/dotx-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion
@@ -16,8 +16,8 @@ otherformats: POT PPTM POWERPOINT PPT POTM PPSX PPSM PPTX POTX PPS CSV DIF FODS 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="जावा के माध्यम से DOTX को POWERPOINT में कैसे बदलें" %}}
-1. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Dotxument) वर्ग का उपयोग करके DOTX फ़ाइल खोलें
-2. [save](https://apireference.aspose.com/words/java/com.aspose.words/Dotxument#save(java.lang.String,com.aspose.words.SaveOptions)) का उपयोग करके DOTX फ़ाइल को HTML में बदलें तरीका
+1. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) वर्ग का उपयोग करके DOTX फ़ाइल खोलें
+2. [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) का उपयोग करके DOTX फ़ाइल को HTML में बदलें तरीका
 3. एक नया [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) ऑब्जेक्ट प्रारंभ करें
 5. BufferedReader का उपयोग करके HTML फ़ाइल से सामग्री निकालें और अपनी प्रस्तुति फ़ाइल में सामग्री लिखें
 6. [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) पद्धति का उपयोग करके दस्तावेज़ को POWERPOINT में सहेजें

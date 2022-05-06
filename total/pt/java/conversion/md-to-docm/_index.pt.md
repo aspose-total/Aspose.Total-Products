@@ -1,7 +1,7 @@
 ---
 title: API Java para exportar MD para DOCM
 description: Converter MD para DOCM usando a API Java local
-url: /pt/java/conversion/md-to-docm/
+url_ignore: /pt/java/conversion/md-to-docm/
 family: total
 platformtag: net
 feature: conversion

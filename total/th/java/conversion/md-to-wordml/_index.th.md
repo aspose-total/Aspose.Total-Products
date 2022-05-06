@@ -1,7 +1,7 @@
 ---
 title: Java API เพื่อส่งออก MD ไปยัง WORDML
 description: แปลง MD เป็น WORDML โดยใช้ Java API . ในตัว
-url: /th/java/conversion/md-to-wordml/
+url_ignore: /th/java/conversion/md-to-wordml/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Android API to Render EPUB to DOTX
 description: Transform EPUB to DOTX via Android via Java API
-url: /android-java/conversion/epub-to-dotx/
+url_ignore: /android-java/conversion/epub-to-dotx/
 family: total
 platformtag: android-java
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert RTF to XLSB in C++
 description: C++ API to Convert RTF to XLSB without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/rtf-to-xlsb/
+url_ignore: /cpp/conversion/rtf-to-xlsb/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to XLT in C++
 description: C++ API to Convert WORDML to XLT without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/wordml-to-xlt/
+url_ignore: /cpp/conversion/wordml-to-xlt/
 family: total
 platformtag: cpp
 feature: conversion

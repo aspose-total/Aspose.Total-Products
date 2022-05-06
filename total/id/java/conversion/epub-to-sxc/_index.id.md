@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender EPUB ke SXC
 description: Ekspor EPUB ke SXC melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/epub-to-sxc/
+url_ignore: /id/java/conversion/epub-to-sxc/
 family: total
 platformtag: net
 feature: conversion

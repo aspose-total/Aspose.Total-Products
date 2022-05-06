@@ -1,7 +1,7 @@
 ---
 title: Преобразование RTF в PPTX через Java
 description: Java API для экспорта RTF в PPTX без использования Microsoft Word или PowerPoint
-url: /ru/java/conversion/rtf-to-pptx/
+url_ignore: /ru/java/conversion/rtf-to-pptx/
 family: total
 platformtag: net
 feature: conversion
@@ -16,8 +16,8 @@ otherformats: POTX POT POTM POWERPOINT PPTM PPTX PPSM PPSX PPT PPS CSV DIF FODS 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как конвертировать RTF в PPTX через Java" %}}
-1. Откройте файл RTF, используя класс [Rtfument](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument).
-2. Преобразуйте файл RTF в HTML, используя [save](https://apireference.aspose.com/words/java/com.aspose.words/Rtfument#save(java.lang.String,com.aspose.words.SaveOptions).)) метод
+1. Откройте файл RTF, используя класс [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document).
+2. Преобразуйте файл RTF в HTML, используя [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions).)) метод
 3. Инициализируйте новый объект [Презентация](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation).
 5. Извлеките содержимое из файла HTML с помощью BufferedReader и запишите содержимое в файл презентации.
 6. Сохраните документ в PPTX, используя метод [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-).

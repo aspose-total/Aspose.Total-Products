@@ -1,7 +1,7 @@
 ---
 title: Ekspor EML ke TEXT melalui Java
 description: Java API untuk Mengonversi EML ke TEXT tanpa menggunakan Microsoft Word atau Outlook
-url: /id/java/conversion/eml-to-text/
+url_ignore: /id/java/conversion/eml-to-text/
 family: total
 platformtag: net
 feature: conversion

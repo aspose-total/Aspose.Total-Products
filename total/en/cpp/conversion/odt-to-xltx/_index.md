@@ -1,7 +1,7 @@
 ---
 title: Convert ODT to XLTX in C++
 description: C++ API to Convert ODT to XLTX without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/odt-to-xltx/
+url_ignore: /cpp/conversion/odt-to-xltx/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: TEX'yi XAMLFLOW'ye Dışa Aktarmak için C# API'si
 description: Microsoft Word kullanmadan TEX'yi XAMLFLOW'ye dönüştürün
-url: /tr/net/conversion/tex-to-xamlflow/
+url_ignore: /tr/net/conversion/tex-to-xamlflow/
 family: total
 platformtag: net
 feature: conversion

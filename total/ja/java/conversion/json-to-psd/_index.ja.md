@@ -1,7 +1,7 @@
 ---
 title: Java経由でJSON形式をPSDに変換する
 description: Microsoft PowerPointを使用せずに、JavaでJSONをPSDに解析します
-url: /ja/java/conversion/json-to-psd/
+url_ignore: /ja/java/conversion/json-to-psd/
 family: total
 platformtag: net
 feature: conversion

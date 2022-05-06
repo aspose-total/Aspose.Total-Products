@@ -1,7 +1,7 @@
 ---
 title: API de Java para convertir DOTM a CSV
 description: Convierta DOTM a CSV a través de Java sin usar Microsoft Word o Microsoft Excel
-url: /es/java/conversion/dotm-to-csv/
+url_ignore: /es/java/conversion/dotm-to-csv/
 family: total
 platformtag: net
 feature: conversion

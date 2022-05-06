@@ -1,7 +1,7 @@
 ---
 title: Converter o formato JSON para EMZ via .NET
 description: Analise JSON para EMZ em C# sem usar dependências de terceiros
-url: /pt/net/conversion/json-to-emz/
+url_ignore: /pt/net/conversion/json-to-emz/
 family: total
 platformtag: net
 feature: conversion

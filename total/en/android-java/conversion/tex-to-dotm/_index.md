@@ -1,7 +1,7 @@
 ---
 title: Android API to Render TEX to DOTM
 description: Transform TEX to DOTM via Android via Java API
-url: /android-java/conversion/tex-to-dotm/
+url_ignore: /android-java/conversion/tex-to-dotm/
 family: total
 platformtag: android-java
 feature: conversion

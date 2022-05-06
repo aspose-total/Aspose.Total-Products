@@ -1,7 +1,7 @@
 ---
 title: 用于将 TEX 导出到 ODT 的 Java API
 description: 使用本地 Java API 将 TEX 转换为 ODT
-url: /zh/java/conversion/tex-to-odt/
+url_ignore: /zh/java/conversion/tex-to-odt/
 family: total
 platformtag: net
 feature: conversion

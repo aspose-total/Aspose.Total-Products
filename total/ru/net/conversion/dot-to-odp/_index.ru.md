@@ -1,6 +1,6 @@
 ---
 title: Преобразование DOT в ODP через C# .NET 
-url: /ru/net/conversion/dot-to-odp/ 
+url_ignore: /ru/net/conversion/dot-to-odp/ 
 description: Преобразование документов Word dot в файлы PowerPoint odp с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

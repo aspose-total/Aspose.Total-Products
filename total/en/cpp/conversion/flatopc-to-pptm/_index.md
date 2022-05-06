@@ -1,7 +1,7 @@
 ---
 title: Convert FLATOPC to PPTM via C++
 description: Export FLATOPC to PPTM in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/flatopc-to-pptm/
+url_ignore: /cpp/conversion/flatopc-to-pptm/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: MHTMLをDOCMにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにMHTMLをDOCMに変換する
-url: /ja/net/conversion/mhtml-to-docm/
+url_ignore: /ja/net/conversion/mhtml-to-docm/
 family: total
 platformtag: net
 feature: conversion

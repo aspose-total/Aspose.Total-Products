@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını .NET aracılığıyla DOT'ye dönüştürün
 description: Microsoft Word kullanmadan JSON'u C# ile DOT'ye ayrıştırın
-url: /tr/net/conversion/json-to-dot/
+url_ignore: /tr/net/conversion/json-to-dot/
 family: total
 platformtag: net
 feature: conversion

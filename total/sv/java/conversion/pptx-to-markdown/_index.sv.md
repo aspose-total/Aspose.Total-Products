@@ -1,7 +1,7 @@
 ---
 title: Konvertera PPTX till MARKDOWN-format via Java
 description: Konvertera PPTX till MARKDOWN-format via Java utan att använda Microsoft Excel eller PowerPoint
-url: /sv/java/conversion/pptx-to-markdown/
+url_ignore: /sv/java/conversion/pptx-to-markdown/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: SVGをGIFにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにSVGをGIFに変換する
-url: /ja/net/conversion/svg-to-gif/
+url_ignore: /ja/net/conversion/svg-to-gif/
 family: total
 platformtag: net
 feature: conversion

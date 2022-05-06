@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XML to XLT
 description: Convert XML to XLT via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xml-to-xlt/
+url_ignore: /cpp/conversion/xml-to-xlt/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java経由でPPTXをODTに変換する
 description: MicrosoftWordやPowerPointを使用せずにPPTXをODTにエクスポートするJavaAPI
-url: /ja/java/conversion/pptx-to-odt/
+url_ignore: /ja/java/conversion/pptx-to-odt/
 family: total
 platformtag: net
 feature: conversion

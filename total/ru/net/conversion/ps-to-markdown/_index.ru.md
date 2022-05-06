@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта PS в MARKDOWN
 description: Преобразование PS в MARKDOWN без использования Microsoft Word
-url: /ru/net/conversion/ps-to-markdown/
+url_ignore: /ru/net/conversion/ps-to-markdown/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java API เพื่อส่งออก PS ไปยัง WORDML
 description: แปลง PS เป็น WORDML โดยใช้ Java API . ในตัว
-url: /th/java/conversion/ps-to-wordml/
+url_ignore: /th/java/conversion/ps-to-wordml/
 family: total
 platformtag: net
 feature: conversion

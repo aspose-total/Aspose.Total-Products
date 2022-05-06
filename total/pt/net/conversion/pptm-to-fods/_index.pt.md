@@ -1,7 +1,7 @@
 ---
 title: Converter PPTM para FODS via C#
 description: Converter PPTM para FODS em C# sem usar o Microsoft Excel ou Powerpoint
-url: /pt/net/conversion/pptm-to-fods/
+url_ignore: /pt/net/conversion/pptm-to-fods/
 family: total
 platformtag: net
 feature: conversion

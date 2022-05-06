@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie XML über die C#-API nach POWERPOINT
 description: .NET-API zum Konvertieren von XML in POWERPOINT ohne Verwendung von Microsoft Word
-url: /de/net/conversion/xml-to-powerpoint/
+url_ignore: /de/net/conversion/xml-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

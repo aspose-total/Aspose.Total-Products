@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie HTML über die C#-API in WMF
 description: Exportieren Sie HTML in WMF in Ihren .NET-Anwendungen, ohne Anwendungen von Drittanbietern zu verwenden
-url: /de/net/conversion/html-to-wmf/
+url_ignore: /de/net/conversion/html-to-wmf/
 family: total
 platformtag: net
 feature: conversion

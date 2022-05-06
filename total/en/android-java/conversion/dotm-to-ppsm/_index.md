@@ -1,7 +1,7 @@
 ---
 title: Convert DOTM to PPSM in Android via Java
 description: DOTM to PPSM conversion in your Android Phones without using Microsoft Word of PowerPoint 
-url: /android-java/conversion/dotm-to-ppsm/
+url_ignore: /android-java/conversion/dotm-to-ppsm/
 family: total
 platformtag: android-java
 feature: conversion

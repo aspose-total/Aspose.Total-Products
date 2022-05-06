@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή XSLFO σε PSD μέσω C# API
 description: Εξάγετε το XSLFO σε PSD στις εφαρμογές σας .NET χωρίς να χρησιμοποιήσετε καμία εφαρμογή τρίτου μέρους
-url: /el/net/conversion/xslfo-to-psd/
+url_ignore: /el/net/conversion/xslfo-to-psd/
 family: total
 platformtag: net
 feature: conversion

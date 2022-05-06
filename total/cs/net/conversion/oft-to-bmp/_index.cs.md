@@ -1,7 +1,7 @@
 ---
 title: C# API pro export OFT do BMP
 description: Převeďte OFT na BMP bez použití Microsoft Word nebo Outlook na .NET
-url: /cs/net/conversion/oft-to-bmp/
+url_ignore: /cs/net/conversion/oft-to-bmp/
 family: total
 platformtag: net
 feature: conversion

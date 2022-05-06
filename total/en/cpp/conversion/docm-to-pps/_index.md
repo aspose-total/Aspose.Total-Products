@@ -1,7 +1,7 @@
 ---
 title: Convert DOCM to PPS via C++
 description: Export DOCM to PPS in your C++ applications without using Microsoft Word of PowerPoint 
-url: /cpp/conversion/docm-to-pps/
+url_ignore: /cpp/conversion/docm-to-pps/
 family: total
 platformtag: cpp
 feature: conversion

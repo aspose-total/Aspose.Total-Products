@@ -1,7 +1,7 @@
 ---
 title: .NET API to Convert RTF to FODS 
 description: C# API to Convert RTF to FODS without using Microsoft Excel or Adobe Reader
-url: /net/conversion/rtf-to-fods/
+url_ignore: /net/conversion/rtf-to-fods/
 family: total
 platformtag: net
 feature: conversion

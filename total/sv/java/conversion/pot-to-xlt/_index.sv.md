@@ -1,7 +1,7 @@
 ---
 title: Konvertera POT till XLT-format via Java
 description: Konvertera POT till XLT-format via Java utan att använda Microsoft Excel eller PowerPoint
-url: /sv/java/conversion/pot-to-xlt/
+url_ignore: /sv/java/conversion/pot-to-xlt/
 family: total
 platformtag: net
 feature: conversion

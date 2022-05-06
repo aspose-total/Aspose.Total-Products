@@ -1,7 +1,7 @@
 ---
 title: C++ API to Convert XSLFO to FODS
 description: Convert XSLFO to FODS via C++ API without using Microsoft Excel or Adobe Reader
-url: /cpp/conversion/xslfo-to-fods/
+url_ignore: /cpp/conversion/xslfo-to-fods/
 family: total
 platformtag: cpp
 feature: conversion

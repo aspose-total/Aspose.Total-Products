@@ -1,7 +1,7 @@
 ---
 title: E-POSTA'yı DOTM'ye Dışa Aktarmak için C# API
 description: .NET üzerinde Microsoft Word veya Outlook kullanmadan MSG'i DOTM'ye dönüştürün
-url: /tr/net/conversion/msg-to-dotm/
+url_ignore: /tr/net/conversion/msg-to-dotm/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert CGM to FODS via C# API
 description: C# API to Convert CGM File to FODS without using Microsoft Excel or Adobe Reader
-url: /net/conversion/cgm-to-fods/
+url_ignore: /net/conversion/cgm-to-fods/
 family: total
 platformtag: net
 feature: conversion

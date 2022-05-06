@@ -1,7 +1,7 @@
 ---
 title: API C# để xuất EMAIL sang DOTM
 description: Chuyển đổi EMAIL thành DOTM mà không cần sử dụng Microsoft Word hoặc Outlook trên .NET
-url: /vi/net/conversion/email-to-dotm/
+url_ignore: /vi/net/conversion/email-to-dotm/
 family: total
 platformtag: net
 feature: conversion

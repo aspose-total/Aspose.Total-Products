@@ -1,7 +1,7 @@
 ---
 title: Převést PPTX na XLSX přes C#
 description: Převeďte PPTX na XLSX v C# bez použití Microsoft Excel nebo Powerpoint
-url: /cs/net/conversion/pptx-to-xlsx/
+url_ignore: /cs/net/conversion/pptx-to-xlsx/
 family: total
 platformtag: net
 feature: conversion

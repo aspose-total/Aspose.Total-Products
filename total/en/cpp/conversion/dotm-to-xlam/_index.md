@@ -1,7 +1,7 @@
 ---
 title: Convert DOTM to XLAM in C++
 description: C++ API to Convert DOTM to XLAM without using using Microsoft Word or Microsoft Excel
-url: /cpp/conversion/dotm-to-xlam/
+url_ignore: /cpp/conversion/dotm-to-xlam/
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Render OFT to FLATOPC in Andorid App
 description: Export OFT to FLATOPC without using Microsoft Word or Outlook in you Andorid applications 
-url: /android-java/conversion/oft-to-flatopc/
+url_ignore: /android-java/conversion/oft-to-flatopc/
 family: total
 platformtag: android-java
 feature: conversion

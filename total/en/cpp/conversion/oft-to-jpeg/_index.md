@@ -1,7 +1,7 @@
 ---
 title: Export OFT to JPEG via C++
 description: C++ API to Convert OFT to JPEG without using Microsoft Word or Outlook
-url: /cpp/conversion/oft-to-jpeg/
+url_ignore: /cpp/conversion/oft-to-jpeg/
 family: total
 platformtag: cpp
 feature: conversion

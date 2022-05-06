@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή XLSB σε POWERPOINT χρησιμοποιώντας Java
 description: Java API για εξαγωγή XLSB σε POWERPOINT με χρήση Excel ή Word
-url: /el/java/conversion/xlsb-to-powerpoint/
+url_ignore: /el/java/conversion/xlsb-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion

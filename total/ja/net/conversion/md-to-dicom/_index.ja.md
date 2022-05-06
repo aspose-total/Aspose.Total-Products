@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してMDをDICOMに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでMDをDICOMにエクスポートします
-url: /ja/net/conversion/md-to-dicom/
+url_ignore: /ja/net/conversion/md-to-dicom/
 family: total
 platformtag: net
 feature: conversion

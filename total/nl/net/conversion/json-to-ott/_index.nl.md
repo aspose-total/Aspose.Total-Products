@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar OTT via .NET
 description: Parseer JSON naar OTT in C# zonder Microsoft Word te gebruiken
-url: /nl/net/conversion/json-to-ott/
+url_ignore: /nl/net/conversion/json-to-ott/
 family: total
 platformtag: net
 feature: conversion

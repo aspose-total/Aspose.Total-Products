@@ -1,7 +1,7 @@
 ---
 title: C# API untuk Mengekspor EMLX ke PS
 description: Konversi EMLX ke PS tanpa menggunakan Microsoft Word atau Outlook di .NET
-url: /id/net/conversion/emlx-to-ps/
+url_ignore: /id/net/conversion/emlx-to-ps/
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converter PPT para MARKDOWN via C#
 description: Converter PPT para MARKDOWN em C# sem usar o Microsoft Excel ou Powerpoint
-url: /pt/net/conversion/ppt-to-markdown/
+url_ignore: /pt/net/conversion/ppt-to-markdown/
 family: total
 platformtag: net
 feature: conversion

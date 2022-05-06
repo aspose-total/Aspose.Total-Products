@@ -1,6 +1,6 @@
 ---
 title: Преобразование FLATOPC в POTM через C# .NET 
-url: /ru/net/conversion/flatopc-to-potm/ 
+url_ignore: /ru/net/conversion/flatopc-to-potm/ 
 description: Преобразование документов Word flatopc в файлы PowerPoint potm с помощью C#. Преобразование нескольких файлов в ASP.NET или других приложениях .NET.
 ---
 

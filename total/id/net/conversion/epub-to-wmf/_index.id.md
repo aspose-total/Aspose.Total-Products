@@ -1,7 +1,7 @@
 ---
 title: Konversi EPUB ke WMF melalui C# API
 description: Ekspor EPUB ke WMF di aplikasi .NET Anda tanpa menggunakan aplikasi pihak ketiga
-url: /id/net/conversion/epub-to-wmf/
+url_ignore: /id/net/conversion/epub-to-wmf/
 family: total
 platformtag: net
 feature: conversion

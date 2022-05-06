@@ -1,7 +1,7 @@
 ---
 title: .NET API để chuyển đổi WORD sang XLTM
 description: C# API để chuyển đổi WORD sang XLTM mà không cần sử dụng Microsoft Excel hoặc Adobe Reader
-url: /vi/net/conversion/word-to-xltm/
+url_ignore: /vi/net/conversion/word-to-xltm/
 family: total
 platformtag: net
 feature: conversion

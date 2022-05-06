@@ -1,7 +1,7 @@
 ---
 title: C# API για εξαγωγή MSG σε DOCX
 description: Μετατροπή MSG σε DOCX χωρίς χρήση του Microsoft Word ή του Outlook στο .NET
-url: /el/net/conversion/msg-to-docx/
+url_ignore: /el/net/conversion/msg-to-docx/
 family: total
 platformtag: net
 feature: conversion

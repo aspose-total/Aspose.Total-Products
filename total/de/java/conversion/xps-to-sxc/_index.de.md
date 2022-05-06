@@ -1,7 +1,7 @@
 ---
 title: Java-API zum Rendern von XPS in SXC
 description: Exportieren Sie XPS über die Java-API in SXC, ohne Microsoft Excel oder Adobe Reader zu verwenden
-url: /de/java/conversion/xps-to-sxc/
+url_ignore: /de/java/conversion/xps-to-sxc/
 family: total
 platformtag: net
 feature: conversion

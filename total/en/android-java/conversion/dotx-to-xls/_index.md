@@ -1,7 +1,7 @@
 ---
 title: Android API to Convert DOTX to XLS
 description: Convert DOTX to XLS in Android via Java without using using Microsoft Word or Microsoft Excel
-url: /android-java/conversion/dotx-to-xls/
+url_ignore: /android-java/conversion/dotx-to-xls/
 family: total
 platformtag: android-java
 feature: conversion

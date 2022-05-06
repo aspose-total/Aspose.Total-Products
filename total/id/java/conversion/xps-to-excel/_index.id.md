@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Merender XPS ke EXCEL
 description: Ekspor XPS ke EXCEL melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/java/conversion/xps-to-excel/
+url_ignore: /id/java/conversion/xps-to-excel/
 family: total
 platformtag: net
 feature: conversion

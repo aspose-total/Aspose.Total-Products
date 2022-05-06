@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to DOCX using Java 
 description: Java API to Export ODS to DOCX with using Excel or Word 
-url: /java/conversion/ods-to-docx/
+url_ignore: /java/conversion/ods-to-docx/
 family: total
 platformtag: java
 feature: conversion

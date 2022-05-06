@@ -1,7 +1,7 @@
 ---
 title: C# API för att exportera EMAIL till DOT
 description: Konvertera EMAIL till DOT utan att använda Microsoft Word eller Outlook på .NET
-url: /sv/net/conversion/email-to-dot/
+url_ignore: /sv/net/conversion/email-to-dot/
 family: total
 platformtag: net
 feature: conversion

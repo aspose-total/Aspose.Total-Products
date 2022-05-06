@@ -1,7 +1,7 @@
 ---
 title: Konvertera ODS till PPTX med Java
 description: Java API för att exportera ODS till PPTX med hjälp av Excel eller Word
-url: /sv/java/conversion/ods-to-pptx/
+url_ignore: /sv/java/conversion/ods-to-pptx/
 family: total
 platformtag: net
 feature: conversion

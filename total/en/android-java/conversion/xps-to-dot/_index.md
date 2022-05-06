@@ -1,7 +1,7 @@
 ---
 title: Android API to Render XPS to DOT
 description: Transform XPS to DOT via Android via Java API
-url: /android-java/conversion/xps-to-dot/
+url_ignore: /android-java/conversion/xps-to-dot/
 family: total
 platformtag: android-java
 feature: conversion

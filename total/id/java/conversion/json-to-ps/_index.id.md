@@ -1,7 +1,7 @@
 ---
 title: Konversi Format JSON ke PS melalui Java
 description: Parsing JSON ke PS di Java tanpa menggunakan Microsoft Word
-url: /id/java/conversion/json-to-ps/
+url_ignore: /id/java/conversion/json-to-ps/
 family: total
 platformtag: net
 feature: conversion

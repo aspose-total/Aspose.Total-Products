@@ -1,7 +1,7 @@
 ---
 title: C# API для экспорта EML в PS
 description: Преобразование EML в PS без использования Microsoft Word или Outlook на .NET
-url: /ru/net/conversion/eml-to-ps/
+url_ignore: /ru/net/conversion/eml-to-ps/
 family: total
 platformtag: net
 feature: conversion

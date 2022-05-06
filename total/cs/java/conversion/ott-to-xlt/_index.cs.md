@@ -1,7 +1,7 @@
 ---
 title: Java API pro převod OTT do XLT
 description: Převeďte OTT na XLT přes Java bez použití Microsoft Word nebo Microsoft Excel
-url: /cs/java/conversion/ott-to-xlt/
+url_ignore: /cs/java/conversion/ott-to-xlt/
 family: total
 platformtag: net
 feature: conversion

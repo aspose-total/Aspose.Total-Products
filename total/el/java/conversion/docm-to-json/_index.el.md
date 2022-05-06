@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή DOCM σε μορφή JSON μέσω Java
 description: Μετατροπή DOCM σε μορφή JSON μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel
-url: /el/java/conversion/docm-to-json/
+url_ignore: /el/java/conversion/docm-to-json/
 family: total
 platformtag: net
 feature: conversion

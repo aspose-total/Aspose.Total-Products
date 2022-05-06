@@ -1,7 +1,7 @@
 ---
 title: C＃APIを介してCGMをWMZに変換する
 description: サードパーティのアプリケーションを使用せずに、.NETアプリケーションでCGMをWMZにエクスポートします
-url: /ja/net/conversion/cgm-to-wmz/
+url_ignore: /ja/net/conversion/cgm-to-wmz/
 family: total
 platformtag: net
 feature: conversion

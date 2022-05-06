@@ -1,7 +1,7 @@
 ---
 title: Java API to Convert DOTX to XLAM
 description: Convert DOTX to XLAM via Java without using using Microsoft Word or Microsoft Excel
-url: /java/conversion/dotx-to-xlam/
+url_ignore: /java/conversion/dotx-to-xlam/
 family: total
 platformtag: java
 feature: conversion

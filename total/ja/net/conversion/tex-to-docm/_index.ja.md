@@ -1,7 +1,7 @@
 ---
 title: TEXをDOCMにエクスポートするためのC＃API
 description: MicrosoftWordを使用せずにTEXをDOCMに変換する
-url: /ja/net/conversion/tex-to-docm/
+url_ignore: /ja/net/conversion/tex-to-docm/
 family: total
 platformtag: net
 feature: conversion

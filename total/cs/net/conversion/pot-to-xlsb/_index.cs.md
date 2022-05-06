@@ -1,7 +1,7 @@
 ---
 title: Převést POT na XLSB přes C#
 description: Převeďte POT na XLSB v C# bez použití Microsoft Excel nebo Powerpoint
-url: /cs/net/conversion/pot-to-xlsb/
+url_ignore: /cs/net/conversion/pot-to-xlsb/
 family: total
 platformtag: net
 feature: conversion

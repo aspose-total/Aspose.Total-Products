@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie MD über die C#-API in PSD
 description: Exportieren Sie MD in PSD in Ihren .NET-Anwendungen, ohne Anwendungen von Drittanbietern zu verwenden
-url: /de/net/conversion/md-to-psd/
+url_ignore: /de/net/conversion/md-to-psd/
 family: total
 platformtag: net
 feature: conversion

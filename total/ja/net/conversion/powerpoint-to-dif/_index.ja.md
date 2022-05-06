@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPOWERPOINTをDIFに変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPOWERPOINTをDIFに変換する
-url: /ja/net/conversion/powerpoint-to-dif/
+url_ignore: /ja/net/conversion/powerpoint-to-dif/
 family: total
 platformtag: net
 feature: conversion

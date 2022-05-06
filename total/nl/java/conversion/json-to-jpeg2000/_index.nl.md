@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar JPEG2000 via Java
 description: JSON ontleden naar JPEG2000 in Java zonder Microsoft PowerPoint te gebruiken
-url: /nl/java/conversion/json-to-jpeg2000/
+url_ignore: /nl/java/conversion/json-to-jpeg2000/
 family: total
 platformtag: net
 feature: conversion

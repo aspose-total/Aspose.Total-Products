@@ -1,7 +1,7 @@
 ---
 title: .NETを介してPPTMをJSON形式に変換する
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPTMをJSONに変換する
-url: /ja/net/conversion/pptm-to-json/
+url_ignore: /ja/net/conversion/pptm-to-json/
 family: total
 platformtag: net
 feature: conversion

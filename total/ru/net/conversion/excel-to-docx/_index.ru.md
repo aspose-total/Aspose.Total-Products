@@ -1,7 +1,7 @@
 ---
 title: Преобразование EXCEL в DOCX с помощью .NET 
 description: Преобразование EXCEL в DOCX на платформах .NET Framework, .NET Core, Mono или Xamarin
-url: /ru/net/conversion/excel-to-docx/
+url_ignore: /ru/net/conversion/excel-to-docx/
 family: total
 platformtag: net
 feature: conversion

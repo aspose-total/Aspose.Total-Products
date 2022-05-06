@@ -1,7 +1,7 @@
 ---
 title: C# API untuk Mengekspor EMLX ke IMAGE
 description: Konversi EMLX ke IMAGE tanpa menggunakan Microsoft Word atau Outlook di .NET
-url: /id/net/conversion/emlx-to-image/
+url_ignore: /id/net/conversion/emlx-to-image/
 family: total
 platformtag: net
 feature: conversion

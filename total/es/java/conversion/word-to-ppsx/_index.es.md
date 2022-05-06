@@ -1,7 +1,7 @@
 ---
 title: Convierta WORD a PPSX a través de Java
 description: API de Java para exportar WORD a PPSX sin usar Microsoft Word o PowerPoint
-url: /es/java/conversion/word-to-ppsx/
+url_ignore: /es/java/conversion/word-to-ppsx/
 family: total
 platformtag: net
 feature: conversion

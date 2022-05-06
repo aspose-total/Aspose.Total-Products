@@ -1,7 +1,7 @@
 ---
 title: Java API untuk Mengonversi DOT ke XLT
 description: Konversi DOT ke XLT melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel
-url: /id/java/conversion/dot-to-xlt/
+url_ignore: /id/java/conversion/dot-to-xlt/
 family: total
 platformtag: net
 feature: conversion
