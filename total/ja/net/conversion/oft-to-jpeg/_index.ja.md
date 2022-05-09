@@ -13,13 +13,13 @@ otherformats: RTF GIF MD EPUB DOC DOTM ODT DOTX TEXT FLATOPC DOCM DOCX WORDML PD
 {{< blocks/products/pf/i18n/feature-page-header h1=".NET経由でEメールをJPEGにエクスポート" h2="WordやOutlookを使用せずにWindows、macOS、LinuxでOFTをJPEGにレンダリングする.NET API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-アプリケーション内にOFTからJPEGへの変換機能を追加しようとしている.NET開発者の場合、[Aspose.Total for .NET](https://products.aspose.com/total/net/)ファイル形式操作APIがその方法です。前方。 [Aspose.Cells for .NET](https://products.aspose.com/oft/net/)を使用すると、OFTファイル形式をHTMLに変換できます。その後、[Aspose.Words for .NET](https://products.aspose.com/words/net/)を使用して、HTMLをJPEGにレンダリングできます。
+アプリケーション内にOFTからJPEGへの変換機能を追加しようとしている.NET開発者の場合、[Aspose.Total for .NET](https://products.aspose.com/total/net/)ファイル形式操作APIがその方法です。前方。 [Aspose.Cells for .NET](https://products.aspose.com/cells/net/)を使用すると、OFTファイル形式をHTMLに変換できます。その後、[Aspose.Words for .NET](https://products.aspose.com/words/net/)を使用して、HTMLをJPEGにレンダリングできます。
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="OFTをJPEGに変換するC＃API" %}}
-1. [MailMessage](https://apireference.aspose.com/oft/net/aspose.oft/mailmessage)クラスを使用してOFTファイルを開きます
-2. [保存](https://apireference.aspose.com/oft/net/aspose.oft.mailmessage/save/methods/3)メソッドを使用してOFTをHTMLに変換します
+1. [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage)クラスを使用してOFTファイルを開きます
+2. [保存](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)メソッドを使用してOFTをHTMLに変換します
 3. [Document](https://apireference.aspose.com/words/net/aspose.words/document)クラスを使用してHTMLをロードします
 4. [保存](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してドキュメントをJPEG形式で保存し、JpegをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -47,7 +47,7 @@ document.Save("output.jpeg", SaveFormat.Jpeg);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2=".NET経由でOFTファイルを解析する" %}}Aspose.Cells
-OFTをJPEGに変換する前に、正しい電子メールを変換していることを確認したい場合は、OFTドキュメントをロードして解析し、目的のプロパティを確認できます。 [Aspose.Oft for .NET](https://products.aspose.com/oft)の[MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage)クラスを使用する/ net /)API、送信者と受信者の情報を取得できます。たとえば、[SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername)プロパティを使用して、変換用の特定の送信者メールを確認できます。  
+OFTをJPEGに変換する前に、正しい電子メールを変換していることを確認したい場合は、OFTドキュメントをロードして解析し、目的のプロパティを確認できます。 [Aspose.Oft for .NET](https://products.aspose.com/email)の[MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage)クラスを使用する/ net /)API、送信者と受信者の情報を取得できます。たとえば、[SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername)プロパティを使用して、変換用の特定の送信者メールを確認できます。  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

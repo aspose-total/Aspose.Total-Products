@@ -12,14 +12,14 @@ otherformats: POWERPOINT PPTX WORD WORDX
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API a EXCEL exportálásához WORD-ba" h2="On Premise Java API a EXCEL exportálásához WORD-ba anélkül, hogy a Microsoft Excel&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-A EXCEL megjelenítése WORD-ba kétlépéses folyamat. Először az [Aspose.Cells for Java](https://products.aspose.com/cells/java) API segítségével konvertálja az adott EXCEL-dokumentumot PDF-be, majd az [Aspose.Pdf for Java](https ://products.aspose.com/pdf/java) API segítségével könnyedén konvertálhatja PDF dokumentumát WORD formátumba. Mindkét API az [Aspose.Total for Java](https://products.aspose.com/total/java/) fájlformátumú automatizálási könyvtárak gyűjteményébe tartozik.
+A EXCEL megjelenítése WORD-ba kétlépéses folyamat. Először az [Aspose.Cells for Java](https://products.aspose.com/cells/java) API segítségével konvertálja az adott EXCEL-dokumentumot PDF-be, majd az [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API segítségével könnyedén konvertálhatja PDF dokumentumát WORD formátumba. Mindkét API az [Aspose.Total for Java](https://products.aspose.com/total/java/) fájlformátumú automatizálási könyvtárak gyűjteményébe tartozik.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hogyan lehet EXCEL-t WORD-ba konvertálni Java API-n keresztül" %}}
 1. Nyissa meg a EXCEL-fájlt a [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) osztály használatával
 2. Alakítsa át a EXCEL-t PDF-be, és állítsa a SaveFormat beállítást AUTO-ra
-3. Töltse be a konvertált PDF-fájlt a [Wordument](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Wordument) osztály használatával
-4. Mentse a dokumentumot WORD formátumba a [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Wordument#save-java.lang.String-com.aspose.pdf.SaveOptions) segítségével-) metódust, és állítsa be a Word-ot SaveFormat-ként
+3. Töltse be a konvertált PDF-fájlt a [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) osztály használatával
+4. Mentse a dokumentumot WORD formátumba a [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions) segítségével-) metódust, és állítsa be a Word-ot SaveFormat-ként
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 Az Aspose.Total for Java programot közvetlenül egy [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) alapú projektből kell használnia és vegyen fel könyvtárakat a pom.xml fájlba.
@@ -32,10 +32,10 @@ Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://down
 Workbook book = new Workbook("input.excel");
 // save EXCEL as PDF
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Wordument class
-Wordument wordument = new Wordument("pdfOutput.pdf");
-// save wordument in WORD format
-wordument.save("output.word", com.aspose.pdf.SaveFormat.Word);  
+// load the PDF file using Document class
+Document document = new Document("pdfOutput.pdf");
+// save document in WORD format
+document.save("output.word", com.aspose.pdf.SaveFormat.Word);  
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}

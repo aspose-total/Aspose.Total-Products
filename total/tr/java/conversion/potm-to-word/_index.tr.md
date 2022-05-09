@@ -34,7 +34,7 @@ Alternatif olarak, [indirilenler](https://downloads.aspose.com/total/java) adres
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Dönüşüm Gereksinimleri" %}}
-API'yi kullanarak, filigranlı POTM dosyasını WORD'ye dönüştürme işlemini de gerçekleştirebilirsiniz. WORD belgenize filigran eklemek için öncelikle POTM dosyasını HTML'ye çevirebilir ve ona bir filigran ekleyebilirsiniz. Filigran eklemek için, yeni oluşturulan HTML dosyasını [Wordument](https://apireference.aspose.com/words/java/com.aspose.words/Wordument) sınıfını kullanarak yükleyin, bir TextWatermarkOptions örneği oluşturun ve ayarlayın özellikleri, Watermark.setText yöntemini çağırın ve filigran metnini ve TextWatermarkOptions nesnesini iletin.  
+API'yi kullanarak, filigranlı POTM dosyasını WORD'ye dönüştürme işlemini de gerçekleştirebilirsiniz. WORD belgenize filigran eklemek için öncelikle POTM dosyasını HTML'ye çevirebilir ve ona bir filigran ekleyebilirsiniz. Filigran eklemek için, yeni oluşturulan HTML dosyasını [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) sınıfını kullanarak yükleyin, bir TextWatermarkOptions örneği oluşturun ve ayarlayın özellikleri, Watermark.setText yöntemini çağırın ve filigran metnini ve TextWatermarkOptions nesnesini iletin.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}

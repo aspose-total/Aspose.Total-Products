@@ -13,7 +13,7 @@ otherformats: GIF EPUB DOT DOTX OTT PDF ODT FLATOPC PCL PNG MD DOC EMF PS RTF TE
 {{< blocks/products/pf/i18n/feature-page-header h1="Exporter MSG vers FLATOPC via .NET" h2="API .NET pour rendre MSG en FLATOPC sous Windows, macOS et Linux sans utiliser Word ou Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Si vous êtes un développeur .NET cherchant à ajouter des fonctionnalités de conversion MSG vers FLATOPC dans vos applications, les API de manipulation de format de fichier [Aspose.Total for .NET](https://products.aspose.com/total/net/) sont la solution. avant. En utilisant [Aspose.Msg for .NET](https://products.aspose.com/msg/net/), vous pouvez convertir le format de fichier MSG en HTML. Après cela, en utilisant [Aspose.Words for .NET](https://products.aspose.com/words/net/), vous pouvez restituer HTML en FLATOPC.
+Si vous êtes un développeur .NET cherchant à ajouter des fonctionnalités de conversion MSG vers FLATOPC dans vos applications, les API de manipulation de format de fichier [Aspose.Total for .NET](https://products.aspose.com/total/net/) sont la solution. avant. En utilisant [Aspose.Email for .NET](https://products.aspose.com/email/net/), vous pouvez convertir le format de fichier MSG en HTML. Après cela, en utilisant [Aspose.Words for .NET](https://products.aspose.com/words/net/), vous pouvez restituer HTML en FLATOPC.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.flatopc", SaveFormat.FlatOpc);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analyser le fichier MSG via .NET" %}}
-Avant de convertir MSG en FLATOPC, si vous voulez vous assurer que vous convertissez le bon e-mail, vous pouvez charger le document MSG, l'analyser et jeter un œil à la propriété souhaitée. En utilisant la classe [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) de [Aspose.Msg for .NET](https://products.aspose.com/msg /net/), vous pouvez obtenir des informations sur l'expéditeur et les destinataires. Par exemple, vous pouvez rechercher un e-mail d'expéditeur spécifique pour la conversion à l'aide de la propriété [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername).  
+Avant de convertir MSG en FLATOPC, si vous voulez vous assurer que vous convertissez le bon e-mail, vous pouvez charger le document MSG, l'analyser et jeter un œil à la propriété souhaitée. En utilisant la classe [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) de [Aspose.Email for .NET](https://products.aspose.com/msg /net/), vous pouvez obtenir des informations sur l'expéditeur et les destinataires. Par exemple, vous pouvez rechercher un e-mail d'expéditeur spécifique pour la conversion à l'aide de la propriété [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

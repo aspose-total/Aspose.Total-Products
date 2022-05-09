@@ -12,14 +12,14 @@ otherformats: PPTX POWERPOINTX POWERPOINT WORD
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API για εξαγωγή EXCEL σε POWERPOINT" h2="On Premise Java API για εξαγωγή EXCEL σε POWERPOINT χωρίς να βασίζεστε στο Microsoft Excel&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Η απόδοση του EXCEL σε POWERPOINT είναι μια διαδικασία δύο βημάτων. Θα χρησιμοποιήσετε πρώτα το [Aspose.Cells for Java](https://products.aspose.com/cells/java) API για να μετατρέψετε το δεδομένο έγγραφο EXCEL σε PDF και, στη συνέχεια, χρησιμοποιώντας το [Aspose.Pdf για Java](https ://products.aspose.com/pdf/java) API, μπορείτε εύκολα να μετατρέψετε το έγγραφο PDF σας σε POWERPOINT. Και τα δύο API ανήκουν στη συλλογή των βιβλιοθηκών αυτοματισμού μορφών αρχείων [Aspose.Total for Java](https://products.aspose.com/total/java/).
+Η απόδοση του EXCEL σε POWERPOINT είναι μια διαδικασία δύο βημάτων. Θα χρησιμοποιήσετε πρώτα το [Aspose.Cells for Java](https://products.aspose.com/cells/java) API για να μετατρέψετε το δεδομένο έγγραφο EXCEL σε PDF και, στη συνέχεια, χρησιμοποιώντας το [Aspose.Pdf για Java](https://products.aspose.com/pdf/java) API, μπορείτε εύκολα να μετατρέψετε το έγγραφο PDF σας σε POWERPOINT. Και τα δύο API ανήκουν στη συλλογή των βιβλιοθηκών αυτοματισμού μορφών αρχείων [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Πώς να μετατρέψετε EXCEL σε POWERPOINT μέσω Java API" %}}
 1. Ανοίξτε το αρχείο EXCEL χρησιμοποιώντας την τάξη [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
 2. Μετατρέψτε το EXCEL σε PDF και ορίστε το SaveFormat σε AUTO
-3. Φορτώστε το αρχείο PDF που έχει μετατραπεί χρησιμοποιώντας την κλάση [Powerpointument](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Powerpointument)
-4. Αποθηκεύστε το έγγραφο σε μορφή POWERPOINT χρησιμοποιώντας [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Powerpointument#save-java.lang.String-com.aspose.pdf.SaveOptions-) και ορίστε το Powerpoint ως SaveFormat
+3. Φορτώστε το αρχείο PDF που έχει μετατραπεί χρησιμοποιώντας την κλάση [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)
+4. Αποθηκεύστε το έγγραφο σε μορφή POWERPOINT χρησιμοποιώντας [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) και ορίστε το Powerpoint ως SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
 Πρέπει να χρησιμοποιήσετε το Aspose.Total για Java απευθείας από ένα έργο που βασίζεται στο [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) και συμπεριλάβετε βιβλιοθήκες στο pom.xml σας.
@@ -32,10 +32,10 @@ otherformats: PPTX POWERPOINTX POWERPOINT WORD
 Workbook book = new Workbook("input.excel");
 // save EXCEL as PDF
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Powerpointument class
-Powerpointument powerpointument = new Powerpointument("pdfOutput.pdf");
-// save powerpointument in PPTX format
-powerpointument.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);  
+// load the PDF file using Document class
+Document document = new Document("pdfOutput.pdf");
+// save document in PPTX format
+document.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);  
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}

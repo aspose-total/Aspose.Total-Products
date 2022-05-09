@@ -13,13 +13,13 @@ otherformats: XPS DOC EMF RTF GIF MD ODT DOCX PDF DOT DOTX WORDML TIFF JPEG PS E
 {{< blocks/products/pf/i18n/feature-page-header h1="Exportujte OFT do PDF přes .NET" h2=".NET API pro vykreslení OFT do PDF na Windows, macOS a Linux bez použití Wordu nebo Outlooku" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Pokud jste vývojář .NET, který chce přidat OFT do funkcí převodu PDF ve svých aplikacích, [Aspose.Total for .NET](https://products.aspose.com/total/net/) API pro manipulaci s formátem souborů jsou tím způsobem vpřed. Pomocí [Aspose.Cells for .NET](https://products.aspose.com/oft/net/) můžete převést formát souboru OFT do HTML. Poté můžete pomocí [Aspose.Words for .NET](https://products.aspose.com/words/net/) vykreslit HTML do PDF.
+Pokud jste vývojář .NET, který chce přidat OFT do funkcí převodu PDF ve svých aplikacích, [Aspose.Total for .NET](https://products.aspose.com/total/net/) API pro manipulaci s formátem souborů jsou tím způsobem vpřed. Pomocí [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) můžete převést formát souboru OFT do HTML. Poté můžete pomocí [Aspose.Words for .NET](https://products.aspose.com/words/net/) vykreslit HTML do PDF.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API pro převod OFT na PDF" %}}
-1. Otevřete soubor OFT pomocí třídy [MailMessage](https://apireference.aspose.com/oft/net/aspose.oft/mailmessage)
-2. Převeďte OFT na HTML pomocí metody [Save](https://apireference.aspose.com/oft/net/aspose.oft.mailmessage/save/methods/3)
+1. Otevřete soubor OFT pomocí třídy [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage)
+2. Převeďte OFT na HTML pomocí metody [Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
 3. Načtěte HTML pomocí třídy [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 4. Uložte dokument do formátu PDF pomocí metody [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) a nastavte Pdf jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -47,7 +47,7 @@ document.Save("output.pdf", SaveFormat.Pdf);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analyzujte soubor OFT přes .NET" %}}
-Před převodem OFT na PDF, pokud se chcete ujistit, že převádíte správný e-mail, můžete načíst dokument OFT, analyzovat jej a podívat se na požadovanou vlastnost. Pomocí třídy [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) třídy [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API, můžete získat informace o odesílateli a příjemcích. Můžete například zkontrolovat e-mail konkrétního odesílatele pro konverzi pomocí vlastnosti [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
+Před převodem OFT na PDF, pokud se chcete ujistit, že převádíte správný e-mail, můžete načíst dokument OFT, analyzovat jej a podívat se na požadovanou vlastnost. Pomocí třídy [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) třídy [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API, můžete získat informace o odesílateli a příjemcích. Můžete například zkontrolovat e-mail konkrétního odesílatele pro konverzi pomocí vlastnosti [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

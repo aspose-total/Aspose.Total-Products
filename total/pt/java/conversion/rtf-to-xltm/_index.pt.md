@@ -19,10 +19,10 @@ Converter RTF para XLTM via [Aspose.Total for Java](https://products.aspose.com/
 1. Abra o arquivo RTF usando a classe [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 2. Converta RTF para HTML usando [Salvar](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) método
 3. Carregue o Documento HTML usando a classe [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Salve o Documento no formato XLTM usando [Salvar](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. SaveOptions)) método
+4. Salve o Documento no formato XLTM usando [Salvar](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
-Você pode facilmente usar o Aspose.Total para Java diretamente de um projeto baseado em [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e inclua [Aspose.Words for Java](https://rtfs.aspose.com/words/java/installation/) e [Aspose.Cells for Java](https://rtfs.aspose.com/cells/java/ install/) em seu pom.xml.
+Você pode facilmente usar o Aspose.Total para Java diretamente de um projeto baseado em [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e inclua [Aspose.Words for Java](https://rtfs.aspose.com/words/java/installation/) e [Aspose.Cells for Java](https://rtfs.aspose.com/cells/java/installation/) em seu pom.xml.
 
 Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

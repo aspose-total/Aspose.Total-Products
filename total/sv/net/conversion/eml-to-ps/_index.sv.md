@@ -13,7 +13,7 @@ otherformats: FLATOPC DOCM DOCX PNG XPS ODT DOC DOT SVG PCL PDF DOTM EPUB RTF GI
 {{< blocks/products/pf/i18n/feature-page-header h1="Exportera EML till PS via .NET" h2=".NET API för att rendera EML till PS på Windows, macOS och Linux utan att använda Word eller Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Om du är en .NET-utvecklare som vill lägga till EML till PS-konverteringsfunktioner i dina applikationer, är [Aspose.Total for .NET](https://products.aspose.com/total/net/) API:er för filformatsmanipulation vägen fram. Genom att använda [Aspose.Eml for .NET](https://products.aspose.com/eml/net/), kan du konvertera EML-filformat till HTML. Efter det, genom att använda [Aspose.Words for .NET](https://products.aspose.com/words/net/), kan du rendera HTML till PS.
+Om du är en .NET-utvecklare som vill lägga till EML till PS-konverteringsfunktioner i dina applikationer, är [Aspose.Total for .NET](https://products.aspose.com/total/net/) API:er för filformatsmanipulation vägen fram. Genom att använda [Aspose.Email for .NET](https://products.aspose.com/email/net/), kan du konvertera EML-filformat till HTML. Efter det, genom att använda [Aspose.Words for .NET](https://products.aspose.com/words/net/), kan du rendera HTML till PS.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.ps", SaveFormat.Ps);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analysera EML-fil via .NET" %}}
-Innan du konverterar EML till PS, om du vill vara säker på att du konverterar rätt e-post, kan du ladda EML-dokumentet, analysera det och ta en titt på din önskade egenskap. Genom att använda [MapiMessage](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage) klass av [Aspose.Eml for .NET](https://products.aspose.com/eml /net/) API kan du få information om avsändare och mottagare. Du kan till exempel söka efter en specifik avsändar-e-post för konverteringen genom att använda egenskapen [SenderName](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage/properties/sendername).  
+Innan du konverterar EML till PS, om du vill vara säker på att du konverterar rätt e-post, kan du ladda EML-dokumentet, analysera det och ta en titt på din önskade egenskap. Genom att använda [MapiMessage](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage) klass av [Aspose.Email for .NET](https://products.aspose.com/eml /net/) API kan du få information om avsändare och mottagare. Du kan till exempel söka efter en specifik avsändar-e-post för konverteringen genom att använda egenskapen [SenderName](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

@@ -19,7 +19,7 @@ E-mailová konverze je výkonná funkce, kterou mohou vývojáři Java integrova
 1. Otevřete soubor EMAIL pomocí třídy [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)
 2. Převeďte EMAIL na HTML pomocí [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) metoda
 3. Načtěte HTML pomocí třídy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Uložte dokument do formátu JPEG pomocí [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) a nastavte JPEG jako SaveFormat
+4. Uložte dokument do formátu JPEG pomocí [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) a nastavte JPEG jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Musíte použít Aspose.Total pro Javu přímo z projektu založeného na [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a zahrňte knihovny do vašeho pom.xml.

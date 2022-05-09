@@ -18,8 +18,8 @@ ODS를 PPTX로 렌더링하는 것은 2단계 프로세스입니다. 먼저 [Asp
 {{% blocks/products/pf/agp/feature-section-col title="Java API를 통해 ODS를 PPTX로 변환하는 방법" %}}
 1. [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) 클래스를 사용하여 ODS 파일 열기
 2. ODS를 PDF로 변환하고 SaveFormat을 AUTO로 설정
-3. [문서](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Pptxument) 클래스를 이용하여 변환된 PDF 파일을 불러옵니다.
-4. [저장](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Pptxument#save-java.lang.String-com.aspose.pdf.SaveOptions)을 사용하여 문서를 PPTX 형식으로 저장합니다.-) 메서드 및 Pptx을 SaveFormat으로 설정
+3. [문서](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) 클래스를 이용하여 변환된 PDF 파일을 불러옵니다.
+4. [저장](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions)을 사용하여 문서를 PPTX 형식으로 저장합니다.-) 메서드 및 Pptx을 SaveFormat으로 설정
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) 기반 프로젝트에서 직접 Java용 Aspose.Total을 사용해야 합니다. pom.xml에 라이브러리를 포함합니다.
@@ -32,10 +32,10 @@ ODS를 PPTX로 렌더링하는 것은 2단계 프로세스입니다. 먼저 [Asp
 Workbook book = new Workbook("input.ods");
 // save ODS as PDF
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Pptxument class
-Pptxument pptxument = new Pptxument("pdfOutput.pdf");
-// save pptxument in PPTX format
-pptxument.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);  
+// load the PDF file using Document class
+Document document = new Document("pdfOutput.pdf");
+// save document in PPTX format
+document.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);  
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}

@@ -12,7 +12,7 @@ otherformats: DOTM TEXTM RTF WORDML DOTX TEXTX TEXT FLATOPC WORD DOT OTT ODT
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Převeďte PPTM na TEXT přes Java" h2="On Premise Java API pro PowerPoint převod PPTM na TEXT v jakékoli Java J2SE, J2EE, J2ME aplikací" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total pro Java](https://products.aspose.com/total/java/) Knihovny pro automatizaci formátů souborů umožňují vývojářům Java automatizovat proces dávkového převodu PowerPoint PPTM do Word TEXT. Převod dokumentu je dvoukrokový proces a zahrnuje použití dvou rozhraní API. K převodu PPTM do HTML použijeme [Aspose.Slides for Java](https://products.aspose.com/slides/java/), což je PowerPoint API pro manipulaci a správu prezentací. Pptmé pomocí rozhraní API pro zpracování textu s bohatými funkcemi [Aspose.Words for Java](https://products.aspose.com/words/java/) převedeme HTML na TEXT.
+[Aspose.Total for Java](https://products.aspose.com/total/java/) Knihovny pro automatizaci formátů souborů umožňují vývojářům Java automatizovat proces dávkového převodu PowerPoint PPTM do Word TEXT. Převod dokumentu je dvoukrokový proces a zahrnuje použití dvou rozhraní API. K převodu PPTM do HTML použijeme [Aspose.Slides for Java](https://products.aspose.com/slides/java/), což je PowerPoint API pro manipulaci a správu prezentací. Pptmé pomocí rozhraní API pro zpracování textu s bohatými funkcemi [Aspose.Words for Java](https://products.aspose.com/words/java/) převedeme HTML na TEXT.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak převést PPTM na TEXT přes Java" %}}
@@ -22,7 +22,7 @@ otherformats: DOTM TEXTM RTF WORDML DOTX TEXTX TEXT FLATOPC WORD DOT OTT ODT
 4. Uložte dokument ve formátu TEXT pomocí metody [save](https://apireference.aspose.com/words/java/com.aspose.words/Textument#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
-Pro převod souborů PPTM na TEXT můžete snadno použít Aspose.Total pro Java přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) a zahrňte knihovny do vašeho pom.xml.
+Pro převod souborů PPTM na TEXT můžete snadno použít Aspose.Total for Java přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a zahrňte knihovny do vašeho pom.xml.
 
 Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

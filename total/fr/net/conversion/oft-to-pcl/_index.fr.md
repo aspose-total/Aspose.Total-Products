@@ -13,13 +13,13 @@ otherformats: FLATOPC ODT PDF RTF TIFF WORDML PNG DOT MD JPEG GIF DOCX EMF PCL D
 {{< blocks/products/pf/i18n/feature-page-header h1="Exporter OFT vers PCL via .NET" h2="API .NET pour rendre OFT en PCL sous Windows, macOS et Linux sans utiliser Word ou Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Si vous êtes un développeur .NET cherchant à ajouter des fonctionnalités de conversion OFT vers PCL dans vos applications, les API de manipulation de format de fichier [Aspose.Total for .NET](https://products.aspose.com/total/net/) sont la solution. avant. En utilisant [Aspose.Cells for .NET](https://products.aspose.com/oft/net/), vous pouvez convertir le format de fichier OFT en HTML. Après cela, en utilisant [Aspose.Words for .NET](https://products.aspose.com/words/net/), vous pouvez restituer HTML en PCL.
+Si vous êtes un développeur .NET cherchant à ajouter des fonctionnalités de conversion OFT vers PCL dans vos applications, les API de manipulation de format de fichier [Aspose.Total for .NET](https://products.aspose.com/total/net/) sont la solution. avant. En utilisant [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), vous pouvez convertir le format de fichier OFT en HTML. Après cela, en utilisant [Aspose.Words for .NET](https://products.aspose.com/words/net/), vous pouvez restituer HTML en PCL.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API C# pour convertir OFT en PCL" %}}
-1. Ouvrez le fichier OFT à l'aide de la classe [MailMessage](https://apireference.aspose.com/oft/net/aspose.oft/mailmessage)
-2. Convertissez OFT en HTML en utilisant la méthode [Save](https://apireference.aspose.com/oft/net/aspose.oft.mailmessage/save/methods/3)
+1. Ouvrez le fichier OFT à l'aide de la classe [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage)
+2. Convertissez OFT en HTML en utilisant la méthode [Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
 3. Chargez HTML en utilisant la classe [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 4. Enregistrez le document au format PCL en utilisant la méthode [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) et définissez Pcl comme SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -47,7 +47,7 @@ document.Save("output.pcl", SaveFormat.Pcl);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analyser le fichier OFT via .NET" %}}
-Avant de convertir OFT en PCL, si vous voulez vous assurer que vous convertissez le bon e-mail, vous pouvez charger le document OFT, l'analyser et jeter un œil à la propriété souhaitée. En utilisant la classe [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) de [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), vous pouvez obtenir des informations sur l'expéditeur et les destinataires. Par exemple, vous pouvez rechercher un e-mail d'expéditeur spécifique pour la conversion à l'aide de la propriété [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
+Avant de convertir OFT en PCL, si vous voulez vous assurer que vous convertissez le bon e-mail, vous pouvez charger le document OFT, l'analyser et jeter un œil à la propriété souhaitée. En utilisant la classe [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) de [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), vous pouvez obtenir des informations sur l'expéditeur et les destinataires. Par exemple, vous pouvez rechercher un e-mail d'expéditeur spécifique pour la conversion à l'aide de la propriété [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

@@ -13,7 +13,7 @@ otherformats: MD DOCX RTF WORDML ODT PCL SVG DOT DOC XPS DOTM JPEG OTT PDF EPUB 
 {{< blocks/products/pf/i18n/feature-page-header h1="Ekspor EML ke PCL melalui .NET" h2=".NET API untuk Merender EML ke PCL di Windows, macOS, dan Linux tanpa menggunakan Word atau Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Jika Anda adalah pengembang .NET yang ingin menambahkan fitur konversi EML ke PCL di dalam aplikasi Anda, [Aspose.Total for .NET](https://products.aspose.com/total/net/) API manipulasi format file adalah caranya maju. Dengan menggunakan [Aspose.Eml for .NET](https://products.aspose.com/eml/net/), Anda dapat mengonversi format file EML ke HTML. Setelah itu, dengan menggunakan [Aspose.Words for .NET](https://products.aspose.com/words/net/), Anda dapat merender HTML ke PCL.
+Jika Anda adalah pengembang .NET yang ingin menambahkan fitur konversi EML ke PCL di dalam aplikasi Anda, [Aspose.Total for .NET](https://products.aspose.com/total/net/) API manipulasi format file adalah caranya maju. Dengan menggunakan [Aspose.Email for .NET](https://products.aspose.com/email/net/), Anda dapat mengonversi format file EML ke HTML. Setelah itu, dengan menggunakan [Aspose.Words for .NET](https://products.aspose.com/words/net/), Anda dapat merender HTML ke PCL.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.pcl", SaveFormat.Pcl);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Parsing File EML melalui .NET" %}}
-Sebelum mengonversi EML ke PCL, jika Anda ingin memastikan bahwa Anda mengonversi eml yang benar, Anda dapat memuat dokumen EML, menguraikannya dan melihat properti yang Anda inginkan. Dengan menggunakan kelas [MapiMessage](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage) dari [Aspose.Eml for .NET](https://products.aspose.com/eml /net/) API, Anda bisa mendapatkan informasi pengirim dan penerima. Misalnya, Anda dapat memeriksa eml pengirim tertentu untuk konversi dengan menggunakan properti [SenderName](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage/properties/sendername).  
+Sebelum mengonversi EML ke PCL, jika Anda ingin memastikan bahwa Anda mengonversi eml yang benar, Anda dapat memuat dokumen EML, menguraikannya dan melihat properti yang Anda inginkan. Dengan menggunakan kelas [MapiMessage](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage) dari [Aspose.Email for .NET](https://products.aspose.com/eml /net/) API, Anda bisa mendapatkan informasi pengirim dan penerima. Misalnya, Anda dapat memeriksa eml pengirim tertentu untuk konversi dengan menggunakan properti [SenderName](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

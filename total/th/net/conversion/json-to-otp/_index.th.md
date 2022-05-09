@@ -19,7 +19,7 @@ otherformats: PPSX PPT PPSM PPTM POWERPOINT POTM POT OTP PPS POTX
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="แปลงรูปแบบ JSON เป็น OTP ผ่าน C#" %}}
 1. สร้าง [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) วัตถุใหม่และอ่านข้อมูล JSON ที่ถูกต้องจากไฟล์
-2. นำเข้าไฟล์ JSON ไปยังเวิร์กชีตโดยใช้คลาส [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) และ [Save](https://apireference.aspose.com/ cells/net/aspose.cells.workbook/save/methods/4) เป็น PPTX
+2. นำเข้าไฟล์ JSON ไปยังเวิร์กชีตโดยใช้คลาส [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) และ [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) เป็น PPTX
 3. โหลดเอกสาร PPTX โดยใช้คลาส [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 4. บันทึกเอกสารในรูปแบบ OTP โดยใช้วิธี [บันทึก](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 {{% /blocks/products/pf/agp/feature-section-col %}}

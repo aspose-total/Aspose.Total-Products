@@ -12,14 +12,14 @@ otherformats: FLATOPC SVG XPS PCL GIF DOTM DOCM PDF DOTX PS EPUB DOT DOC JPEG TI
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API do renderowania e-maili do FLATOPC" h2="Eksportuj MSG do FLATOPC za pomocą lokalnego interfejsu API Java bez korzystania z zależności innych firm" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Konwersja wiadomości e-mail to potężna funkcja, którą programiści Java mogą zintegrować z dowolnymi aplikacjami Java J2SE, J2EE, J2ME za pośrednictwem [Aspose.Total for Java](https://products.aspose.com/total/java/). Korzystając z dwóch interfejsów API w pakiecie, możesz przekonwertować e-mail MSG na FLATOPC bez żadnych zależności od stron trzecich. Po pierwsze, możesz użyć interfejsu Msg Manipulation API [Aspose.Msg for Java](https://products.aspose.com/msg/java/), aby przekonwertować format pliku MSG na HTML. Po drugie, możesz renderować HTML do FLATOPC za pomocą interfejsu API przetwarzania dokumentów [Aspose.Words for Java](https://products.aspose.com/words/java/).
+Konwersja wiadomości e-mail to potężna funkcja, którą programiści Java mogą zintegrować z dowolnymi aplikacjami Java J2SE, J2EE, J2ME za pośrednictwem [Aspose.Total for Java](https://products.aspose.com/total/java/). Korzystając z dwóch interfejsów API w pakiecie, możesz przekonwertować e-mail MSG na FLATOPC bez żadnych zależności od stron trzecich. Po pierwsze, możesz użyć interfejsu Msg Manipulation API [Aspose.Email for Java](https://products.aspose.com/email/java/), aby przekonwertować format pliku MSG na HTML. Po drugie, możesz renderować HTML do FLATOPC za pomocą interfejsu API przetwarzania dokumentów [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak przekonwertować MSG na FLATOPC" %}}
 1. Otwórz plik MSG za pomocą klasy [MailMessage](https://apireference.aspose.com/msg/java/com.aspose.msg/mailmessage)
-2. Przekonwertuj MSG na HTML, używając [save](https://apireference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions))) metoda
+2. Przekonwertuj MSG na HTML, używając [save](https://apireference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)) metoda
 3. Załaduj HTML za pomocą klasy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Zapisz dokument w formacie FLATOPC za pomocą [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) metodę i ustaw FLATOPC jako SaveFormat
+4. Zapisz dokument w formacie FLATOPC za pomocą [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metodę i ustaw FLATOPC jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
 Musisz użyć Aspose.Total for Java bezpośrednio z projektu opartego na [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i dołącz biblioteki do swojego pom.xml.

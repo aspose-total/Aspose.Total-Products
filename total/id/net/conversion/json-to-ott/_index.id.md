@@ -19,7 +19,7 @@ Dengan menggunakan [Aspose.Total for .NET](https://products.aspose.com/total/net
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konversikan Format JSON ke OTT melalui C#" %}}
 1. Buat objek [Buku Kerja](https://apireference.aspose.com/cells/net/aspose.cells/workbook) baru dan baca data JSON yang valid dari file
-2. Impor file JSON ke lembar kerja menggunakan kelas [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) dan [Simpan](https://apireference.aspose.com/ cells/net/aspose.cells.workbook/save/methods/4) sebagai PDF
+2. Impor file JSON ke lembar kerja menggunakan kelas [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) dan [Simpan](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) sebagai PDF
 3. Muat dokumen PDF dengan menggunakan kelas [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 4. Simpan dokumen ke format OTT menggunakan metode [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)
 {{% /blocks/products/pf/agp/feature-section-col %}}

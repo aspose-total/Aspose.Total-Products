@@ -12,14 +12,14 @@ otherformats: MD DOCM PS GIF XPS DOC DOT ODT DOTM EMF OTT DOTX SVG TEXT WORDML D
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API do renderowania e-maili do DOTM" h2="Eksportuj OFT do DOTM za pomocą lokalnego interfejsu API Java bez korzystania z zależności innych firm" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Konwersja wiadomości e-mail to potężna funkcja, którą programiści Java mogą zintegrować z dowolnymi aplikacjami Java J2SE, J2EE, J2ME za pośrednictwem [Aspose.Total for Java](https://products.aspose.com/total/java/). Korzystając z dwóch interfejsów API w pakiecie, możesz przekonwertować e-mail OFT na DOTM bez żadnych zależności od stron trzecich. Po pierwsze, możesz użyć interfejsu Oft Manipulation API [Aspose.Oft for Java](https://products.aspose.com/oft/java/), aby przekonwertować format pliku OFT na HTML. Po drugie, możesz renderować HTML do DOTM za pomocą interfejsu API przetwarzania dokumentów [Aspose.Words for Java](https://products.aspose.com/words/java/).
+Konwersja wiadomości e-mail to potężna funkcja, którą programiści Java mogą zintegrować z dowolnymi aplikacjami Java J2SE, J2EE, J2ME za pośrednictwem [Aspose.Total for Java](https://products.aspose.com/total/java/). Korzystając z dwóch interfejsów API w pakiecie, możesz przekonwertować e-mail OFT na DOTM bez żadnych zależności od stron trzecich. Po pierwsze, możesz użyć interfejsu Oft Manipulation API [Aspose.Oft for Java](https://products.aspose.com/email/java/), aby przekonwertować format pliku OFT na HTML. Po drugie, możesz renderować HTML do DOTM za pomocą interfejsu API przetwarzania dokumentów [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak przekonwertować OFT na DOTM" %}}
-1. Otwórz plik OFT za pomocą klasy [MailMessage](https://apireference.aspose.com/oft/java/com.aspose.oft/mailmessage)
-2. Przekonwertuj OFT na HTML, używając [save](https://apireference.aspose.com/oft/java/com.aspose.oft/MailMessage#save(java.io.OutputStream,%20com.aspose.oft.SaveOptions))) metoda
+1. Otwórz plik OFT za pomocą klasy [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Przekonwertuj OFT na HTML, używając [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) metoda
 3. Załaduj HTML za pomocą klasy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Zapisz dokument w formacie DOTM za pomocą [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) metodę i ustaw DOTM jako SaveFormat
+4. Zapisz dokument w formacie DOTM za pomocą [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metodę i ustaw DOTM jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
 Musisz użyć Aspose.Total for Java bezpośrednio z projektu opartego na [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i dołącz biblioteki do swojego pom.xml.

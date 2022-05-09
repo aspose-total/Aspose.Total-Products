@@ -42,7 +42,7 @@ Trước khi chuyển đổi DOT sang XLTX, bạn có thể xóa thông tin khô
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Xóa thông tin không sử dụng khỏi tài liệu DOT qua Java" %}}
-Sau khi chuyển đổi DOT sang XLTX, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) cho phép bạn lưu tài liệu của mình vào luồng. Nếu bạn cần lưu tệp vào Luồng thì bạn nên tạo một đối tượng FileOutputStream rồi [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions))) tệp vào đối tượng Luồng đó bằng cách gọi phương thức lưu của [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) vật. 
+Sau khi chuyển đổi DOT sang XLTX, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) cho phép bạn lưu tài liệu của mình vào luồng. Nếu bạn cần lưu tệp vào Luồng thì bạn nên tạo một đối tượng FileOutputStream rồi [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) tệp vào đối tượng Luồng đó bằng cách gọi phương thức lưu của [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) vật. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-word-to-protected-excel.java" >}}

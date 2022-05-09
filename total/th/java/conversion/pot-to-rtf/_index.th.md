@@ -22,7 +22,7 @@ otherformats: DOTM RTFX OTT DOT WORDML FLATOPC RTFM ODT RTF DOTX TEXT WORD
 4. บันทึกเอกสารในรูปแบบ RTF โดยใช้วิธีการ [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
-สำหรับการแปลงไฟล์ POT เป็น RTF คุณสามารถใช้ Aspose.Total สำหรับ Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) ตามโครงการและรวมไลบรารีใน pom.xml ของคุณ
+สำหรับการแปลงไฟล์ POT เป็น RTF คุณสามารถใช้ Aspose.Total สำหรับ Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) ตามโครงการและรวมไลบรารีใน pom.xml ของคุณ
 
 หรือคุณสามารถรับไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/total/java)
 {{% /blocks/products/pf/agp/feature-section-col %}}

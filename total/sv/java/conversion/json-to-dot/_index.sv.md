@@ -17,7 +17,7 @@ Genom att använda [Aspose.Total for Java](https://products.aspose.com/total/jav
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertera JSON-format till DOT via Java" %}}
 1. Skapa ett nytt [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) objekt och läs giltig JSON-data från filen
-2. Importera JSON-fil till kalkylblad med klassen [JsonUtility](https://apireference.aspose.com/cells/java/com.aspose.cells/JsonUtility) och [Save](https://apireference.aspose.com/ cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) den som PDF
+2. Importera JSON-fil till kalkylblad med klassen [JsonUtility](https://apireference.aspose.com/cells/java/com.aspose.cells/JsonUtility) och [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) den som PDF
 3. Ladda PDF-dokument genom att använda klassen [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. Spara dokumentet i DOT-format med [Spara](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metod
 {{% /blocks/products/pf/agp/feature-section-col %}}

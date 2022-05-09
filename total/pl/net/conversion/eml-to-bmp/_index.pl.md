@@ -13,7 +13,7 @@ otherformats: DOC EMF DOT PCL GIF RTF OTT FLATOPC DOTM TIFF PDF PNG DOCM PS XPS 
 {{< blocks/products/pf/i18n/feature-page-header h1="Eksportuj EML do BMP przez .NET" h2="Interfejs API .NET do renderowania poczty e-mail do BMP w systemach Windows, macOS i Linux bez korzystania z programu Word lub Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Jeśli jesteś programistą .NET i chcesz dodać funkcje konwersji EML do BMP w swoich aplikacjach, najlepszym rozwiązaniem są interfejsy API [Aspose.Total for .NET](https://products.aspose.com/total/net/) Naprzód. Używając [Aspose.Eml for .NET](https://products.aspose.com/eml/net/), możesz przekonwertować format pliku EML na HTML. Następnie, używając [Aspose.Words for .NET](https://products.aspose.com/words/net/), możesz renderować HTML do BMP.
+Jeśli jesteś programistą .NET i chcesz dodać funkcje konwersji EML do BMP w swoich aplikacjach, najlepszym rozwiązaniem są interfejsy API [Aspose.Total for .NET](https://products.aspose.com/total/net/) Naprzód. Używając [Aspose.Email for .NET](https://products.aspose.com/email/net/), możesz przekonwertować format pliku EML na HTML. Następnie, używając [Aspose.Words for .NET](https://products.aspose.com/words/net/), możesz renderować HTML do BMP.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.bmp", SaveFormat.Bmp);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Przeanalizuj plik EML przez .NET" %}}
-Przed konwersją EML na BMP, jeśli chcesz się upewnić, że konwertujesz poprawny e-mail, możesz załadować dokument EML, przeanalizować go i spojrzeć na żądaną właściwość. Korzystając z klasy [MapiMessage](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage) [Aspose.Eml for .NET](https://products.aspose.com/eml /net/) API, możesz uzyskać informacje o nadawcy i odbiorcy. Na przykład możesz sprawdzić konkretny adres e-mail nadawcy dla konwersji za pomocą właściwości [NazwaNadawcy](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage/properties/sendername).  
+Przed konwersją EML na BMP, jeśli chcesz się upewnić, że konwertujesz poprawny e-mail, możesz załadować dokument EML, przeanalizować go i spojrzeć na żądaną właściwość. Korzystając z klasy [MapiMessage](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage) [Aspose.Email for .NET](https://products.aspose.com/eml /net/) API, możesz uzyskać informacje o nadawcy i odbiorcy. Na przykład możesz sprawdzić konkretny adres e-mail nadawcy dla konwersji za pomocą właściwości [NazwaNadawcy](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

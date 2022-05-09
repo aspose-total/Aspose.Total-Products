@@ -12,7 +12,7 @@ otherformats: FLATOPC DOC TIFF ODT RTF EMF DOCX PNG PS JPEG GIF TEXT WORDML DOTM
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="将 EML 渲染为 EMF 的 Java API" h2="使用本地 Java API 将 EML 导出到 EMF，而不使用任何第三方依赖项" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-电子邮件转换是一项强大的功能，Java 开发人员可以通过 [Aspose.Total for Java](https://products.aspose.com/total/java/) 将其集成到任何 Java J2SE、J2EE、J2ME 应用程序中。通过使用包中的两个 API，您可以将电子邮件 EML 转换为 EMF，而无需任何第三方依赖项。首先，您可以使用电子邮件操作 API [Aspose.Eml for Java](https://products.aspose.com/eml/java/) 将 EML 文件格式转换为 HTML。其次，您可以使用文档处理 API [Aspose.Words for Java](https://products.aspose.com/words/java/) 将 HTML 渲染为 EMF。
+电子邮件转换是一项强大的功能，Java 开发人员可以通过 [Aspose.Total for Java](https://products.aspose.com/total/java/) 将其集成到任何 Java J2SE、J2EE、J2ME 应用程序中。通过使用包中的两个 API，您可以将电子邮件 EML 转换为 EMF，而无需任何第三方依赖项。首先，您可以使用电子邮件操作 API [Aspose.Email for Java](https://products.aspose.com/email/java/) 将 EML 文件格式转换为 HTML。其次，您可以使用文档处理 API [Aspose.Words for Java](https://products.aspose.com/words/java/) 将 HTML 渲染为 EMF。
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="如何将 EML 转换为 EMF" %}}

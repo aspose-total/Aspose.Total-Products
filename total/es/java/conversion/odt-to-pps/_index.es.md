@@ -16,14 +16,14 @@ A menudo, los desarrolladores tienen que convertir el archivo ODT a PPS mediante
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir ODT a PPS a través de Java" %}}
-1. Abra el archivo ODT usando la clase [Odtumento](https://apireference.aspose.com/words/java/com.aspose.words/Odtument)
-2. Convierta el archivo ODT a HTML usando [save](https://apireference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String,com.aspose.words.SaveOptions)) método
+1. Abra el archivo ODT usando la clase [Documento](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. Convierta el archivo ODT a HTML usando [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) método
 3. Inicialice un nuevo objeto [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraiga el contenido del archivo HTML usando BufferedReader y escriba el contenido en su archivo de presentación
-6. Guarde el odtumento en PPS usando el método [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. Guarde el documento en PPS usando el método [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
-Para la conversión de archivos ODT a PPS, puede usar fácilmente Aspose.Total para Java directamente desde un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) e incluya bibliotecas en su pom.xml.
+Para la conversión de archivos ODT a PPS, puede usar fácilmente Aspose.Total para Java directamente desde un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e incluya bibliotecas en su pom.xml.
 
 Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -35,7 +35,7 @@ Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisitos de conversión" %}}
-La API también le permite convertir odtumentos ODT protegidos con contraseña a PPS. Si su odtumento ODT de entrada está protegido con contraseña, no puede convertirlo al formato PPS sin usar la contraseña. Para abrir un odtumento cifrado, puede establecer la contraseña correcta en el objeto LoadOptions y pasarla al constructor del odtumento.  
+La API también le permite convertir documentos ODT protegidos con contraseña a PPS. Si su documento ODT de entrada está protegido con contraseña, no puede convertirlo al formato PPS sin usar la contraseña. Para abrir un documento cifrado, puede establecer la contraseña correcta en el objeto LoadOptions y pasarla al constructor del documento.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-odt-to-pptx-with-watermark.java" >}}

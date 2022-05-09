@@ -12,14 +12,14 @@ otherformats: MD DOCM PS GIF XPS DOC DOT ODT DOTM EMF OTT DOTX SVG TEXT WORDML D
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API pro vykreslení OFT do DOTM" h2="Exportujte OFT do DOTM pomocí on premise Java API bez použití jakýchkoli závislostí třetích stran" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-E-mailová konverze je výkonná funkce, kterou mohou vývojáři Java integrovat do jakékoli Java J2SE, J2EE, J2ME aplikace prostřednictvím [Aspose.Total for Java](https://products.aspose.com/total/java/). Pomocí dvou rozhraní API v rámci balíčku můžete převést e-mailovou adresu OFT na DOTM bez jakýchkoli závislostí třetích stran. Za prvé, můžete použít Oft Manipulation API [Aspose.Oft for Java](https://products.aspose.com/oft/java/) k převodu formátu souboru OFT do HTML. Za druhé, můžete vykreslit HTML do DOTM pomocí Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/).
+E-mailová konverze je výkonná funkce, kterou mohou vývojáři Java integrovat do jakékoli Java J2SE, J2EE, J2ME aplikace prostřednictvím [Aspose.Total for Java](https://products.aspose.com/total/java/). Pomocí dvou rozhraní API v rámci balíčku můžete převést e-mailovou adresu OFT na DOTM bez jakýchkoli závislostí třetích stran. Za prvé, můžete použít Oft Manipulation API [Aspose.Oft for Java](https://products.aspose.com/email/java/) k převodu formátu souboru OFT do HTML. Za druhé, můžete vykreslit HTML do DOTM pomocí Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak převést OFT na DOTM" %}}
-1. Otevřete soubor OFT pomocí třídy [MailMessage](https://apireference.aspose.com/oft/java/com.aspose.oft/mailmessage)
-2. Převeďte OFT na HTML pomocí [save](https://apireference.aspose.com/oft/java/com.aspose.oft/MailMessage#save(java.io.OutputStream,%20com.aspose.oft.SaveOptions)) metoda
+1. Otevřete soubor OFT pomocí třídy [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Převeďte OFT na HTML pomocí [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) metoda
 3. Načtěte HTML pomocí třídy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Uložte dokument do formátu DOTM pomocí [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) a nastavte DOTM jako SaveFormat
+4. Uložte dokument do formátu DOTM pomocí [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) a nastavte DOTM jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Musíte použít Aspose.Total pro Javu přímo z projektu založeného na [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a zahrňte knihovny do vašeho pom.xml.

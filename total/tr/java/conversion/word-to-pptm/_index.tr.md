@@ -35,7 +35,7 @@ Alternatif olarak, [indirilenler](https://downloads.aspose.com/total/java) adres
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Dönüşüm Gereksinimleri" %}}Document
-API ayrıca parola korumalı WORD belgelerini PPTM'ye dönüştürmenize olanak tanır. Girdiğiniz WORD belgeniz parola korumalıysa, parolayı kullanmadan PPTM biçimine dönüştüremezsiniz. Şifrelenmiş bir belgeyi açmak için LoadOptions nesnesinde doğru parolayı ayarlayabilir ve bunu Wordument yapıcısına iletebilirsiniz.  
+API ayrıca parola korumalı WORD belgelerini PPTM'ye dönüştürmenize olanak tanır. Girdiğiniz WORD belgeniz parola korumalıysa, parolayı kullanmadan PPTM biçimine dönüştüremezsiniz. Şifrelenmiş bir belgeyi açmak için LoadOptions nesnesinde doğru parolayı ayarlayabilir ve bunu Document yapıcısına iletebilirsiniz.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-word-to-pptx.java" >}}

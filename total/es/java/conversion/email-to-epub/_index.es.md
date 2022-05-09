@@ -19,7 +19,7 @@ La conversión de correo electrónico es una característica poderosa que los de
 1. Abra el archivo EMAIL usando la clase [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)
 2. Convierta CORREO ELECTRÓNICO a HTML usando [guardar](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) método
 3. Cargue HTML usando la clase [Documento](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Guarde el documento en formato EPUB utilizando [guardar](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) método y establecer EPUB como SaveFormat
+4. Guarde el documento en formato EPUB utilizando [guardar](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) método y establecer EPUB como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
 Debe usar Aspose.Total para Java directamente desde un proyecto basado en [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e incluya bibliotecas en su pom.xml.

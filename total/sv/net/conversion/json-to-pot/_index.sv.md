@@ -19,7 +19,7 @@ Du kan konvertera JSON till POT i alla .NET-, C#-, ASP.NET- och VB.NET-applikati
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertera JSON-format till POT via C#" %}}
 1. Skapa ett nytt [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) objekt och läs giltig JSON-data från filen
-2. Importera JSON-fil till kalkylblad med klassen [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) och [Spara](https://apireference.aspose.com/ cells/net/aspose.cells.workbook/save/methods/4) det som PPTX
+2. Importera JSON-fil till kalkylblad med klassen [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) och [Spara](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) det som PPTX
 3. Ladda PPTX-dokument genom att använda klassen [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 4. Spara dokumentet i POT-format med metoden [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 {{% /blocks/products/pf/agp/feature-section-col %}}

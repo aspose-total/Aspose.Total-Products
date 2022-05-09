@@ -18,8 +18,8 @@ otherformats: POWERPOINT PPTX WORD POWERPOINTX
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل XLTX إلى POWERPOINT عبر Java API" %}}
 1. افتح ملف XLTX باستخدام فئة [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
 2. تحويل XLTX إلى PDF وتعيين SaveFormat على AUTO
-3. قم بتحميل ملف PDF المحول باستخدام فئة [Powerpointument](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Powerpointument)
-4. احفظ المستند بتنسيق POWERPOINT باستخدام [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Powerpointument#save-java.lang.String-com.aspose.pdf.SaveOptions-) طريقة وتعيين Powerpoint كـ SaveFormat
+3. قم بتحميل ملف PDF المحول باستخدام فئة [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)
+4. احفظ المستند بتنسيق POWERPOINT باستخدام [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) طريقة وتعيين Powerpoint كـ SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
 يجب عليك استخدام Aspose.Total for Java مباشرة من مشروع قائم على [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) وتضمين مكتبات في ملفك pom.xml.
@@ -32,10 +32,10 @@ otherformats: POWERPOINT PPTX WORD POWERPOINTX
 Workbook book = new Workbook("input.xltx");
 // save XLTX as PDF
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Powerpointument class
-Powerpointument powerpointument = new Powerpointument("pdfOutput.pdf");
-// save powerpointument in PPTX format
-powerpointument.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);  
+// load the PDF file using Document class
+Document document = new Document("pdfOutput.pdf");
+// save document in PPTX format
+document.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);  
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}

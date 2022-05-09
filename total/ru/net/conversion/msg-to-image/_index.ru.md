@@ -13,7 +13,7 @@ otherformats: XPS MD PNG DOT EPUB DOCM JPEG GIF ODT PCL DOCX WORDML DOTX TEXT DO
 {{< blocks/products/pf/i18n/feature-page-header h1="Экспорт MSG в IMAGE через .NET" h2=".NET API для преобразования электронной почты в IMAGE в Windows, macOS и Linux без использования Word или Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Если вы являетесь разработчиком .NET и хотите добавить функции преобразования MSG в IMAGE в свои приложения, API-интерфейсы для работы с форматами файлов [Aspose.Total for .NET](https://products.aspose.com/total/net/) — это то, что вам нужно. вперед. Используя [Aspose.Msg для .NET](https://products.aspose.com/msg/net/), вы можете преобразовать формат файла MSG в HTML. После этого, используя [Aspose.Words для .NET](https://products.aspose.com/words/net/), вы можете преобразовать HTML в IMAGE.
+Если вы являетесь разработчиком .NET и хотите добавить функции преобразования MSG в IMAGE в свои приложения, API-интерфейсы для работы с форматами файлов [Aspose.Total for .NET](https://products.aspose.com/total/net/) — это то, что вам нужно. вперед. Используя [Aspose.Email для .NET](https://products.aspose.com/email/net/), вы можете преобразовать формат файла MSG в HTML. После этого, используя [Aspose.Words для .NET](https://products.aspose.com/words/net/), вы можете преобразовать HTML в IMAGE.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -46,7 +46,7 @@ document.Save("output.image", SaveFormat.Image);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Разобрать файл MSG через .NET" %}}
-Перед преобразованием MSG в IMAGE, если вы хотите убедиться, что конвертируете правильное электронное письмо, вы можете загрузить документ MSG, проанализировать его и просмотреть желаемое свойство. Используя класс [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) класса [Aspose.Msg для .NET](https://products.aspose.com/msg /net/) API, вы можете получить информацию об отправителе и получателе. Например, вы можете проверить адрес электронной почты отправителя для конверсии, используя свойство [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername).  
+Перед преобразованием MSG в IMAGE, если вы хотите убедиться, что конвертируете правильное электронное письмо, вы можете загрузить документ MSG, проанализировать его и просмотреть желаемое свойство. Используя класс [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) класса [Aspose.Email для .NET](https://products.aspose.com/msg /net/) API, вы можете получить информацию об отправителе и получателе. Например, вы можете проверить адрес электронной почты отправителя для конверсии, используя свойство [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

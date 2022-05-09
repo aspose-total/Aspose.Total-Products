@@ -23,7 +23,7 @@ Oft müssen Entwickler OTT-Dateien programmgesteuert in PPSM konvertieren. Durch
 6. Speichern Sie das Dokument mit der Methode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) im PPSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
-Für die Konvertierung von OTT- in PPSM-Dateien können Sie Aspose.Total für Java direkt von einem [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total)-basiertes Projekt und fügen Sie Bibliotheken in Ihre pom.xml ein.
+Für die Konvertierung von OTT- in PPSM-Dateien können Sie Aspose.Total für Java direkt von einem [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)-basiertes Projekt und fügen Sie Bibliotheken in Ihre pom.xml ein.
 
 Alternativ können Sie eine ZIP-Datei von [downloads](https://downloads.aspose.com/total/java) herunterladen.
 {{% /blocks/products/pf/agp/feature-section-col %}}

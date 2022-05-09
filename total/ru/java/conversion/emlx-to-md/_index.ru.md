@@ -12,12 +12,12 @@ otherformats: SVG TEXT OTT DOCX XPS DOT GIF PCL PNG DOC DOTX PS DOTM EMF MD PDF 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API для рендеринга EMLX в MD" h2="Экспортируйте EMLX в MD с помощью локального Java API без использования каких-либо сторонних зависимостей." >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Преобразование электронной почты — это мощная функция, которую разработчики Java могут интегрировать в любые приложения Java J2SE, J2EE, J2ME через [Aspose.Total for Java](https://products.aspose.com/total/java/). Используя два API в пакете, вы можете преобразовать электронную почту EMLX в MD без каких-либо сторонних зависимостей. Во-первых, вы можете использовать API обработки электронной почты [Aspose.Emlx для Java](https://products.aspose.com/emlx/java/) для преобразования формата файла EMLX в HTML. Во-вторых, вы можете преобразовать HTML в MD с помощью API обработки документов [Aspose.Words for Java](https://products.aspose.com/words/java/).
+Преобразование электронной почты — это мощная функция, которую разработчики Java могут интегрировать в любые приложения Java J2SE, J2EE, J2ME через [Aspose.Total for Java](https://products.aspose.com/total/java/). Используя два API в пакете, вы можете преобразовать электронную почту EMLX в MD без каких-либо сторонних зависимостей. Во-первых, вы можете использовать API обработки электронной почты [Aspose.Email для Java](https://products.aspose.com/email/java/) для преобразования формата файла EMLX в HTML. Во-вторых, вы можете преобразовать HTML в MD с помощью API обработки документов [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как конвертировать EMLX в MD" %}}
-1. Откройте файл EMLX с помощью класса [MailMessage](https://apireference.aspose.com/emlx/java/com.aspose.emlx/mailmessage).
-2. Преобразуйте EMLX в HTML, используя [save](https://apireference.aspose.com/emlx/java/com.aspose.emlx/MailMessage#save(java.io.OutputStream,%20com.aspose.emlx.SaveOptions).)) метод
+1. Откройте файл EMLX с помощью класса [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage).
+2. Преобразуйте EMLX в HTML, используя [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.emlx.SaveOptions).)) метод
 3. Загрузите HTML с помощью класса [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document).
 4. Сохраните документ в формате MD, используя [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions).)) и установите MD как SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

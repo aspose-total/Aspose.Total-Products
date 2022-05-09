@@ -12,12 +12,12 @@ otherformats: PNG PCL EMF RTF WORDML PDF EPUB TEXT JPEG DOTM SVG MD XPS GIF FLAT
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API لتقديم البريد الإلكتروني إلى SVG" h2="قم بتصدير EMLX إلى SVG باستخدام Java API في مكان العمل دون استخدام أي تبعيات لطرف ثالث" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-يعد تحويل البريد الإلكتروني ميزة قوية يمكن لمطوري Java دمجها في أي تطبيقات Java J2SE و J2EE و J2ME عبر [Aspose.Total for Java](https://products.aspose.com/total/java/). باستخدام اثنين من واجهات برمجة التطبيقات داخل الحزمة ، يمكنك تحويل البريد الإلكتروني EMLX إلى SVG دون أي تبعيات لطرف ثالث. أولاً ، يمكنك استخدام واجهة برمجة تطبيقات معالجة البريد الإلكتروني [Aspose.Emlx لجافا](https://products.aspose.com/emlx/java/) لتحويل تنسيق ملف EMLX إلى HTML. ثانيًا ، يمكنك عرض HTML إلى SVG باستخدام واجهة برمجة تطبيقات معالجة المستندات [Aspose.Words for Java](https://products.aspose.com/words/java/).
+يعد تحويل البريد الإلكتروني ميزة قوية يمكن لمطوري Java دمجها في أي تطبيقات Java J2SE و J2EE و J2ME عبر [Aspose.Total for Java](https://products.aspose.com/total/java/). باستخدام اثنين من واجهات برمجة التطبيقات داخل الحزمة ، يمكنك تحويل البريد الإلكتروني EMLX إلى SVG دون أي تبعيات لطرف ثالث. أولاً ، يمكنك استخدام واجهة برمجة تطبيقات معالجة البريد الإلكتروني [Aspose.Email لجافا](https://products.aspose.com/email/java/) لتحويل تنسيق ملف EMLX إلى HTML. ثانيًا ، يمكنك عرض HTML إلى SVG باستخدام واجهة برمجة تطبيقات معالجة المستندات [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل البريد الإلكتروني إلى SVG" %}}
-1. افتح ملف EMLX باستخدام فئة [MailMessage](https://apireference.aspose.com/emlx/java/com.aspose.emlx/mailmessage)
-2. تحويل EMLX إلى HTML باستخدام [save](https://apireference.aspose.com/emlx/java/com.aspose.emlx/MailMessage#save (java.io.OutputStream،٪ 20com.aspose.emlx.SaveOptions)) طريقة
+1. افتح ملف EMLX باستخدام فئة [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. تحويل EMLX إلى HTML باستخدام [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save (java.io.OutputStream،٪20com.aspose.emlx.SaveOptions)) طريقة
 3. قم بتحميل HTML باستخدام فئة [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. احفظ المستند بتنسيق SVG باستخدام [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save (java.lang.String، com.aspose.words.SaveOptions)) وضبط SVG على أنه SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

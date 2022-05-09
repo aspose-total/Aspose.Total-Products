@@ -19,7 +19,7 @@ JSON můžete převést na PPSX v rámci libovolné aplikace .NET, C#, ASP.NET a
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Převést formát JSON na PPSX přes C#" %}}
 1. Vytvořte nový objekt [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) a načtěte platná data JSON ze souboru
-2. Importujte soubor JSON do listu pomocí třídy [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) a [Save](https://apireference.aspose.com/ cells/net/aspose.cells.workbook/save/methods/4) to jako PPTX
+2. Importujte soubor JSON do listu pomocí třídy [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) a [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) to jako PPTX
 3. Načtěte dokument PPTX pomocí třídy [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 4. Uložte dokument do formátu PPSX pomocí metody [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 {{% /blocks/products/pf/agp/feature-section-col %}}

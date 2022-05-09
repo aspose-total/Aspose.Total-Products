@@ -12,14 +12,14 @@ otherformats: XPS MD EPUB EMF SVG WORDML DOCX PNG FLATOPC PS DOCM DOTX RTF DOTM 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API do renderowania e-maili do DOTX" h2="Eksportuj EML do DOTX za pomocą lokalnego interfejsu API Java bez korzystania z zależności innych firm" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Konwersja wiadomości e-mail to potężna funkcja, którą programiści Java mogą zintegrować z dowolnymi aplikacjami Java J2SE, J2EE, J2ME za pośrednictwem [Aspose.Total for Java](https://products.aspose.com/total/java/). Korzystając z dwóch interfejsów API w pakiecie, możesz przekonwertować e-mail EML na DOTX bez żadnych zależności od stron trzecich. Po pierwsze, możesz użyć interfejsu Eml Manipulation API [Aspose.Eml for Java](https://products.aspose.com/eml/java/), aby przekonwertować format pliku EML na HTML. Po drugie, możesz renderować HTML do DOTX za pomocą interfejsu API przetwarzania dokumentów [Aspose.Words for Java](https://products.aspose.com/words/java/).
+Konwersja wiadomości e-mail to potężna funkcja, którą programiści Java mogą zintegrować z dowolnymi aplikacjami Java J2SE, J2EE, J2ME za pośrednictwem [Aspose.Total for Java](https://products.aspose.com/total/java/). Korzystając z dwóch interfejsów API w pakiecie, możesz przekonwertować e-mail EML na DOTX bez żadnych zależności od stron trzecich. Po pierwsze, możesz użyć interfejsu Eml Manipulation API [Aspose.Email for Java](https://products.aspose.com/email/java/), aby przekonwertować format pliku EML na HTML. Po drugie, możesz renderować HTML do DOTX za pomocą interfejsu API przetwarzania dokumentów [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak przekonwertować EML na DOTX" %}}
 1. Otwórz plik EML za pomocą klasy [MailMessage](https://apireference.aspose.com/eml/java/com.aspose.eml/mailmessage)
-2. Przekonwertuj EML na HTML, używając [save](https://apireference.aspose.com/eml/java/com.aspose.eml/MailMessage#save(java.io.OutputStream,%20com.aspose.eml.SaveOptions))) metoda
+2. Przekonwertuj EML na HTML, używając [save](https://apireference.aspose.com/eml/java/com.aspose.eml/MailMessage#save(java.io.OutputStream,%20com.aspose.eml.SaveOptions)) metoda
 3. Załaduj HTML za pomocą klasy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Zapisz dokument w formacie DOTX za pomocą [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) metodę i ustaw DOTX jako SaveFormat
+4. Zapisz dokument w formacie DOTX za pomocą [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metodę i ustaw DOTX jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
 Musisz użyć Aspose.Total for Java bezpośrednio z projektu opartego na [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i dołącz biblioteki do swojego pom.xml.

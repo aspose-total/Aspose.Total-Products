@@ -19,7 +19,7 @@ Durch die Verwendung von [Aspose.Total for .NET](https://products.aspose.com/tot
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertieren Sie das JSON-Format über C# in WORDML" %}}
 1. Erstellen Sie ein neues [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)-Objekt und lesen Sie gültige JSON-Daten aus der Datei
-2. Importieren Sie die JSON-Datei in das Arbeitsblatt mit der Klasse [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) und [Save](https://apireference.aspose.com/ cells/net/aspose.cells.workbook/save/methods/4) als PDF
+2. Importieren Sie die JSON-Datei in das Arbeitsblatt mit der Klasse [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) und [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) als PDF
 3. Laden Sie das PDF-Dokument mithilfe der Klasse [Document](https://apireference.aspose.com/words/net/aspose.words/document).
 4. Speichern Sie das Dokument im WORDML-Format mit der Methode [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3).
 {{% /blocks/products/pf/agp/feature-section-col %}}

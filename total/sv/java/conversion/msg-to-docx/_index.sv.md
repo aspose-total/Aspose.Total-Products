@@ -12,14 +12,14 @@ otherformats: SVG PDF DOCX JPEG XPS WORDML FLATOPC OTT MD PCL DOC DOT TIFF EPUB 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API för att rendera MSG till DOCX" h2="Exportera MSG till DOCX genom att använda det lokala Java API utan att använda några tredje parts beroenden" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-E-postkonvertering är en kraftfull funktion som Java-utvecklare kan integrera i alla Java J2SE, J2EE, J2ME-applikationer via [Aspose.Total for Java](https://products.aspose.com/total/java/). Genom att använda två API:er i paketet kan du konvertera e-post MSG till DOCX utan några tredje parts beroenden. För det första kan du använda Msg Manipulation API [Aspose.Msg for Java](https://products.aspose.com/msg/java/) för att konvertera MSG-filformat till HTML. För det andra kan du rendera HTML till DOCX genom att använda Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/).
+E-postkonvertering är en kraftfull funktion som Java-utvecklare kan integrera i alla Java J2SE, J2EE, J2ME-applikationer via [Aspose.Total for Java](https://products.aspose.com/total/java/). Genom att använda två API:er i paketet kan du konvertera e-post MSG till DOCX utan några tredje parts beroenden. För det första kan du använda Msg Manipulation API [Aspose.Email for Java](https://products.aspose.com/email/java/) för att konvertera MSG-filformat till HTML. För det andra kan du rendera HTML till DOCX genom att använda Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hur man konverterar MSG till DOCX" %}}
 1. Öppna MSG-filen med klassen [MailMessage](https://apireference.aspose.com/msg/java/com.aspose.msg/mailmessage)
 2. Konvertera MSG till HTML genom att använda [save](https://apireference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)) metod
 3. Ladda HTML genom att använda klassen [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Spara dokumentet i DOCX-format med [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) och ställ in DOCX som SaveFormat
+4. Spara dokumentet i DOCX-format med [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) och ställ in DOCX som SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
 Du måste använda Aspose.Total för Java direkt från ett [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) baserat projekt och inkludera bibliotek i din pom.xml.

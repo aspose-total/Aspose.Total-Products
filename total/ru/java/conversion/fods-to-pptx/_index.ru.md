@@ -12,14 +12,14 @@ otherformats: PPTX POWERPOINT PPTXX WORD
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API для экспорта FODS в PPTX" h2="Локальный Java API для экспорта FODS в PPTX, не полагаясь на Microsoft Excel&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Преобразование FODS в PPTX — это двухэтапный процесс. Сначала вы будете использовать API [Aspose.Cells для Java](https://products.aspose.com/cells/java) для преобразования данного документа FODS в PDF, а затем с помощью [Aspose.Pdf для Java](https ://products.aspose.com/pdf/java) API, вы можете легко конвертировать PDF-документ в PPTX. Оба API входят в набор библиотек автоматизации форматов файлов [Aspose.Total for Java](https://products.aspose.com/total/java/).
+Преобразование FODS в PPTX — это двухэтапный процесс. Сначала вы будете использовать API [Aspose.Cells для Java](https://products.aspose.com/cells/java) для преобразования данного документа FODS в PDF, а затем с помощью [Aspose.Pdf для Java](https://products.aspose.com/pdf/java) API, вы можете легко конвертировать PDF-документ в PPTX. Оба API входят в набор библиотек автоматизации форматов файлов [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как конвертировать FODS в PPTX через Java API" %}}
 1. Откройте файл FODS с помощью класса [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).
 2. Преобразуйте FODS в PDF и установите для SaveFormat значение AUTO.
-3. Загрузите преобразованный файл PDF с помощью класса [Pptxument](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Pptxument).
-4. Сохраните документ в формате PPTX, используя [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Pptxument#save-java.lang.String-com.aspose.pdf.SaveOptions-) метод и установите Pptx как SaveFormat
+3. Загрузите преобразованный файл PDF с помощью класса [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document).
+4. Сохраните документ в формате PPTX, используя [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) метод и установите Pptx как SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
 Вы должны использовать Aspose.Total для Java непосредственно из проекта на основе [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total). и включите библиотеки в свой pom.xml.
@@ -32,10 +32,10 @@ otherformats: PPTX POWERPOINT PPTXX WORD
 Workbook book = new Workbook("input.fods");
 // save FODS as PDF
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Pptxument class
-Pptxument pptxument = new Pptxument("pdfOutput.pdf");
-// save pptxument in PPTX format
-pptxument.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);  
+// load the PDF file using Document class
+Document document = new Document("pdfOutput.pdf");
+// save document in PPTX format
+document.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);  
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}

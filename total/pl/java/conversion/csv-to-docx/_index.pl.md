@@ -12,7 +12,7 @@ otherformats: POWERPOINT WORD DOCX PPTX
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API do eksportu CSV do DOCX" h2="On Premise Java API do eksportu CSV do DOCX bez korzystania z Microsoft Excel&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Renderowanie CSV do DOCX to proces dwuetapowy. Najpierw użyjesz interfejsu API [Aspose.Cells for Java](https://products.aspose.com/cells/java), aby przekonwertować dany dokument CSV na PDF, a następnie użyjesz [Aspose.Pdf for Java](https ://products.aspose.com/pdf/java) API, możesz łatwo przekonwertować dokument PDF na DOCX. Oba interfejsy API należą do kolekcji bibliotek automatyzacji formatu plików [Aspose.Total for Java](https://products.aspose.com/total/java/).
+Renderowanie CSV do DOCX to proces dwuetapowy. Najpierw użyjesz interfejsu API [Aspose.Cells for Java](https://products.aspose.com/cells/java), aby przekonwertować dany dokument CSV na PDF, a następnie użyjesz [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API, możesz łatwo przekonwertować dokument PDF na DOCX. Oba interfejsy API należą do kolekcji bibliotek automatyzacji formatu plików [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak przekonwertować CSV do DOCX za pomocą Java API" %}}

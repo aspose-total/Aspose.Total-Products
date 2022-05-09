@@ -19,7 +19,7 @@ Anda dapat mengonversi JSON ke PPT dalam aplikasi .NET, C#, ASP.NET, dan VB.NET 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konversi Format JSON ke PPT melalui C#" %}}
 1. Buat objek [Buku Kerja](https://apireference.aspose.com/cells/net/aspose.cells/workbook) baru dan baca data JSON yang valid dari file
-2. Impor file JSON ke lembar kerja menggunakan kelas [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) dan [Simpan](https://apireference.aspose.com/ cells/net/aspose.cells.workbook/save/methods/4) sebagai PPTX
+2. Impor file JSON ke lembar kerja menggunakan kelas [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) dan [Simpan](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) sebagai PPTX
 3. Muat dokumen PPTX dengan menggunakan kelas [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 4. Simpan dokumen ke format PPT menggunakan metode [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 {{% /blocks/products/pf/agp/feature-section-col %}}

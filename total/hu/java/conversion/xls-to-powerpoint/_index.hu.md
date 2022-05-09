@@ -12,14 +12,14 @@ otherformats: WORD POWERPOINT PPTX POWERPOINTX
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API a XLS exportálásához POWERPOINT-ba" h2="On Premise Java API a XLS exportálásához POWERPOINT-ba anélkül, hogy a Microsoft Excel&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-A XLS megjelenítése POWERPOINT-ba kétlépéses folyamat. Először az [Aspose.Cells for Java](https://products.aspose.com/cells/java) API segítségével konvertálja az adott XLS-dokumentumot PDF-be, majd az [Aspose.Pdf for Java](https ://products.aspose.com/pdf/java) API segítségével könnyedén konvertálhatja PDF dokumentumát POWERPOINT formátumba. Mindkét API az [Aspose.Total for Java](https://products.aspose.com/total/java/) fájlformátumú automatizálási könyvtárak gyűjteményébe tartozik.
+A XLS megjelenítése POWERPOINT-ba kétlépéses folyamat. Először az [Aspose.Cells for Java](https://products.aspose.com/cells/java) API segítségével konvertálja az adott XLS-dokumentumot PDF-be, majd az [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API segítségével könnyedén konvertálhatja PDF dokumentumát POWERPOINT formátumba. Mindkét API az [Aspose.Total for Java](https://products.aspose.com/total/java/) fájlformátumú automatizálási könyvtárak gyűjteményébe tartozik.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hogyan lehet XLS-t POWERPOINT-ba konvertálni Java API-n keresztül" %}}
 1. Nyissa meg a XLS-fájlt a [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) osztály használatával
 2. Alakítsa át a XLS-t PDF-be, és állítsa a SaveFormat beállítást AUTO-ra
-3. Töltse be a konvertált PDF-fájlt a [Powerpointument](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Powerpointument) osztály használatával
-4. Mentse a dokumentumot POWERPOINT formátumba a [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Powerpointument#save-java.lang.String-com.aspose.pdf.SaveOptions) segítségével-) metódust, és állítsa be a Powerpoint-ot SaveFormat-ként
+3. Töltse be a konvertált PDF-fájlt a [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) osztály használatával
+4. Mentse a dokumentumot POWERPOINT formátumba a [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions) segítségével-) metódust, és állítsa be a Powerpoint-ot SaveFormat-ként
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 Az Aspose.Total for Java programot közvetlenül egy [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) alapú projektből kell használnia és vegyen fel könyvtárakat a pom.xml fájlba.
@@ -32,10 +32,10 @@ Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://down
 Workbook book = new Workbook("input.xls");
 // save XLS as PDF
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Powerpointument class
-Powerpointument powerpointument = new Powerpointument("pdfOutput.pdf");
-// save powerpointument in PPTX format
-powerpointument.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);  
+// load the PDF file using Document class
+Document document = new Document("pdfOutput.pdf");
+// save document in PPTX format
+document.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);  
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}

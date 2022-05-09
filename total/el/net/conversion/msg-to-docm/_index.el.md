@@ -13,7 +13,7 @@ otherformats: DOCM SVG DOC DOT PCL XPS MD EPUB RTF GIF DOTX PS TEXT FLATOPC WORD
 {{< blocks/products/pf/i18n/feature-page-header h1="Εξαγωγή MSG σε DOCM μέσω .NET" h2=".NET API για απόδοση MSG σε DOCM σε Windows, macOS και Linux χωρίς χρήση Word ή Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Εάν είστε προγραμματιστής .NET που θέλει να προσθέσει MSG σε δυνατότητες μετατροπής DOCM μέσα στις εφαρμογές σας, τα API χειρισμού μορφής αρχείου [Aspose.Total for .NET](https://products.aspose.com/total/net/) είναι ο τρόπος προς τα εμπρός. Χρησιμοποιώντας το [Aspose.Msg for .NET](https://products.aspose.com/msg/net/), μπορείτε να μετατρέψετε τη μορφή αρχείου MSG σε HTML. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Words για .NET](https://products.aspose.com/words/net/), μπορείτε να αποδώσετε την HTML σε DOCM.
+Εάν είστε προγραμματιστής .NET που θέλει να προσθέσει MSG σε δυνατότητες μετατροπής DOCM μέσα στις εφαρμογές σας, τα API χειρισμού μορφής αρχείου [Aspose.Total for .NET](https://products.aspose.com/total/net/) είναι ο τρόπος προς τα εμπρός. Χρησιμοποιώντας το [Aspose.Email for .NET](https://products.aspose.com/email/net/), μπορείτε να μετατρέψετε τη μορφή αρχείου MSG σε HTML. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Words για .NET](https://products.aspose.com/words/net/), μπορείτε να αποδώσετε την HTML σε DOCM.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.docm", SaveFormat.Docm);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ανάλυση αρχείου MSG μέσω .NET" %}}
-Πριν μετατρέψετε το MSG σε DOCM, εάν θέλετε να βεβαιωθείτε ότι μετατρέπετε το σωστό msg, μπορείτε να φορτώσετε το έγγραφο MSG, να το αναλύσετε και να ρίξετε μια ματιά στην επιθυμητή ιδιότητα. Χρησιμοποιώντας την κλάση [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) του [Aspose.Msg for .NET](https://products.aspose.com/msg /net/) API, μπορείτε να λάβετε πληροφορίες αποστολέα και παραληπτών. Για παράδειγμα, μπορείτε να ελέγξετε για ένα συγκεκριμένο μήνυμα ηλεκτρονικού ταχυδρομείου αποστολέα για τη μετατροπή χρησιμοποιώντας την ιδιότητα [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername).  
+Πριν μετατρέψετε το MSG σε DOCM, εάν θέλετε να βεβαιωθείτε ότι μετατρέπετε το σωστό msg, μπορείτε να φορτώσετε το έγγραφο MSG, να το αναλύσετε και να ρίξετε μια ματιά στην επιθυμητή ιδιότητα. Χρησιμοποιώντας την κλάση [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) του [Aspose.Email for .NET](https://products.aspose.com/msg /net/) API, μπορείτε να λάβετε πληροφορίες αποστολέα και παραληπτών. Για παράδειγμα, μπορείτε να ελέγξετε για ένα συγκεκριμένο μήνυμα ηλεκτρονικού ταχυδρομείου αποστολέα για τη μετατροπή χρησιμοποιώντας την ιδιότητα [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

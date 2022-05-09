@@ -17,9 +17,9 @@ Bằng cách sử dụng [Aspose.Total for Java](https://products.aspose.com/tot
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi định dạng JSON sang DOTX qua Java" %}}
 1. Tạo đối tượng [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) đối tượng và đọc dữ liệu JSON hợp lệ từ tệp
-2. Nhập tệp JSON vào trang tính bằng cách sử dụng lớp [JsonUtility](https://apireference.aspose.com/cells/java/com.aspose.cells/JsonUtility) và [Save](https://apireference.aspose.com/ cells/java/com.aspose.cells/workbook # save (java.lang.String,%20com.aspose.cells.SaveOptions)) nó dưới dạng PDF
+2. Nhập tệp JSON vào trang tính bằng cách sử dụng lớp [JsonUtility](https://apireference.aspose.com/cells/java/com.aspose.cells/JsonUtility) và [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook # save (java.lang.String,%20com.aspose.cells.SaveOptions)) nó dưới dạng PDF
 3. Tải tài liệu PDF bằng cách sử dụng lớp [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Lưu tài liệu sang định dạng DOTX bằng cách sử dụng [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String, com.aspose.words.SaveOptions))) phương pháp
+4. Lưu tài liệu sang định dạng DOTX bằng cách sử dụng [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String, com.aspose.words.SaveOptions)) phương pháp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
 Bạn có thể dễ dàng sử dụng Aspose.Total for Java trực tiếp từ dự án dựa trên [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và bao gồm các thư viện trong pom.xml của bạn.

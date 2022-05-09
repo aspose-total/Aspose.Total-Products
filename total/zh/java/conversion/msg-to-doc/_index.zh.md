@@ -12,7 +12,7 @@ otherformats: OTT RTF PNG TIFF EPUB XPS WORDML JPEG ODT MD TEXT GIF PS SVG DOCM 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="将 MSG 渲染为 DOC 的 Java API" h2="使用本地 Java API 将 MSG 导出到 DOC，而不使用任何第三方依赖项" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-电子邮件转换是一项强大的功能，Java 开发人员可以通过 [Aspose.Total for Java](https://products.aspose.com/total/java/) 将其集成到任何 Java J2SE、J2EE、J2ME 应用程序中。通过使用包中的两个 API，您可以将电子邮件 MSG 转换为 DOC，而无需任何第三方依赖项。首先，您可以使用电子邮件操作 API [Aspose.Msg for Java](https://products.aspose.com/msg/java/) 将 MSG 文件格式转换为 HTML。其次，您可以使用文档处理 API [Aspose.Words for Java](https://products.aspose.com/words/java/) 将 HTML 渲染为 DOC。
+电子邮件转换是一项强大的功能，Java 开发人员可以通过 [Aspose.Total for Java](https://products.aspose.com/total/java/) 将其集成到任何 Java J2SE、J2EE、J2ME 应用程序中。通过使用包中的两个 API，您可以将电子邮件 MSG 转换为 DOC，而无需任何第三方依赖项。首先，您可以使用电子邮件操作 API [Aspose.Email for Java](https://products.aspose.com/email/java/) 将 MSG 文件格式转换为 HTML。其次，您可以使用文档处理 API [Aspose.Words for Java](https://products.aspose.com/words/java/) 将 HTML 渲染为 DOC。
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="如何将 MSG 转换为 DOC" %}}

@@ -12,7 +12,7 @@ otherformats: PCL ODT GIF TIFF PNG EPUB DOC OTT DOCM WORDML DOTM PS DOT DOTX SVG
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="MSGをBMPにレンダリングするJavaAPI" h2="サードパーティの依存関係を使用せずに、オンプレミスのJavaAPIを使用してMSGをBMPにエクスポートします" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-電子メール変換は、Java開発者が[Aspose.Total for Java](https://products.aspose.com/total/java/)を介してJava J2SE、J2EE、J2MEアプリケーションに統合できる強力な機能です。パッケージ内で2つのAPIを使用することにより、サードパーティの依存関係なしに電子メールMSGをBMPに変換できます。まず、Msg Manipulation API [Aspose.Msg for Java](https://products.aspose.com/msg/java/)を使用して、MSGファイル形式をHTMLに変換できます。次に、Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/)を使用してHTMLをBMPにレンダリングできます。
+電子メール変換は、Java開発者が[Aspose.Total for Java](https://products.aspose.com/total/java/)を介してJava J2SE、J2EE、J2MEアプリケーションに統合できる強力な機能です。パッケージ内で2つのAPIを使用することにより、サードパーティの依存関係なしに電子メールMSGをBMPに変換できます。まず、Msg Manipulation API [Aspose.Email for Java](https://products.aspose.com/email/java/)を使用して、MSGファイル形式をHTMLに変換できます。次に、Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/)を使用してHTMLをBMPにレンダリングできます。
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="メールをBMPに変換する方法" %}}

@@ -17,7 +17,7 @@ otherformats: JPEG DOTM DOCX IMAGE OTT EPUB DOCM EMF FLATOPC DOT TEXT ODT SVG DO
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل البريد الإلكتروني إلى IMAGE" %}}
 1. افتح ملف EMAIL باستخدام فئة [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)
-2. تحويل EMAIL إلى HTML باستخدام [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save (java.io.OutputStream،٪ 20com.aspose.email.SaveOptions)) طريقة
+2. تحويل EMAIL إلى HTML باستخدام [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save (java.io.OutputStream،٪20com.aspose.email.SaveOptions)) طريقة
 3. قم بتحميل HTML باستخدام فئة [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. احفظ المستند بتنسيق IMAGE باستخدام [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save (java.lang.String، com.aspose.words.SaveOptions)) وضبط IMAGE على أنه SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -13,7 +13,7 @@ otherformats: DOT DOCX DOTX RTF TEXT GIF PCL SVG DOCM WORDML EPUB TIFF PNG ODT J
 {{< blocks/products/pf/i18n/feature-page-header h1="通过 .NET 将 MSG 导出到 JPEG" h2=".NET API 在 Windows、macOS 和 Linux 上将 MSG 渲染为 JPEG，而无需使用 Word 或 Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-如果您是一名 .NET 开发人员，希望在您的应用程序中添加 MSG 到 JPEG 转换功能，那么 [Aspose.Total for .NET](https://products.aspose.com/total/net/) 文件格式操作 API 是一种方式向前。通过使用 [Aspose.Msg for .NET](https://products.aspose.com/msg/net/)，您可以将 MSG 文件格式转换为 HTML。之后，通过使用 [Aspose.Words for .NET](https://products.aspose.com/words/net/)，您可以将 HTML 渲染为 JPEG。
+如果您是一名 .NET 开发人员，希望在您的应用程序中添加 MSG 到 JPEG 转换功能，那么 [Aspose.Total for .NET](https://products.aspose.com/total/net/) 文件格式操作 API 是一种方式向前。通过使用 [Aspose.Email for .NET](https://products.aspose.com/email/net/)，您可以将 MSG 文件格式转换为 HTML。之后，通过使用 [Aspose.Words for .NET](https://products.aspose.com/words/net/)，您可以将 HTML 渲染为 JPEG。
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.jpeg", SaveFormat.Jpeg);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="通过 .NET 解析 MSG 文件" %}}
-在将 MSG 转换为 JPEG 之前，如果您想确保您正在转换正确的电子邮件，您可以加载 MSG 文档，对其进行解析并查看您想要的属性。通过使用 [Aspose.Msg for .NET](https://products.aspose.com/msg) 的 [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) 类/net/) API，可以获取发件人和收件人信息。例如，您可以使用 [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername) 属性检查转换的特定发件人电子邮件。  
+在将 MSG 转换为 JPEG 之前，如果您想确保您正在转换正确的电子邮件，您可以加载 MSG 文档，对其进行解析并查看您想要的属性。通过使用 [Aspose.Email for .NET](https://products.aspose.com/msg) 的 [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) 类/net/) API，可以获取发件人和收件人信息。例如，您可以使用 [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername) 属性检查转换的特定发件人电子邮件。  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

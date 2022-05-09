@@ -18,8 +18,8 @@ SXC'yi POWERPOINT'ye işlemek iki adımlı bir işlemdir. Verilen SXC belgesini 
 {{% blocks/products/pf/agp/feature-section-col title="Java API ile SXC'yi POWERPOINT'ye Dönüştürme" %}}
 1. [Çalışma Kitabı](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak SXC dosyasını açın
 2. SXC'yi PDF'ye dönüştürün ve SaveFormat'ı AUTO olarak ayarlayın
-3. Dönüştürülen PDF dosyasını [Powerpointument](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Powerpointument) sınıfını kullanarak yükleyin
-4. Belgeyi [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Powerpointument#save-java.lang.String-com.aspose.pdf.SaveOptions) kullanarak POWERPOINT biçiminde kaydedin-) yöntemi ve Powerpoint'u SaveFormat olarak ayarlayın
+3. Dönüştürülen PDF dosyasını [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) sınıfını kullanarak yükleyin
+4. Belgeyi [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions) kullanarak POWERPOINT biçiminde kaydedin-) yöntemi ve Powerpoint'u SaveFormat olarak ayarlayın
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Dönüşüm Gereksinimleri" %}}
 Aspose.Total for Java'yı doğrudan [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) tabanlı bir projeden kullanmanız gerekir. ve pom.xml'inize kitaplıkları dahil edin.
@@ -32,10 +32,10 @@ Alternatif olarak, [indirilenler](https://downloads.aspose.com/total/java) adres
 Workbook book = new Workbook("input.sxc");
 // save SXC as PDF
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Powerpointument class
-Powerpointument powerpointument = new Powerpointument("pdfOutput.pdf");
-// save powerpointument in PPTX format
-powerpointument.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);  
+// load the PDF file using Document class
+Document document = new Document("pdfOutput.pdf");
+// save document in PPTX format
+document.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);  
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}

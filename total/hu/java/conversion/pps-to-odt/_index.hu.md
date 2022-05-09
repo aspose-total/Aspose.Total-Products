@@ -18,11 +18,11 @@ otherformats: OTT DOTM WORDML RTF ODT ODTX FLATOPC ODTM TEXT DOT WORD DOTX
 {{% blocks/products/pf/agp/feature-section-col title="Hogyan lehet a PPS-ot ODT-ba konvertálni Java-n keresztül" %}}
 1. Nyissa meg a PPS-fájlt a [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) osztály használatával
 2. A [mentés](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides) segítségével konvertálja a PPS-ot HTML-be. ISaveOptions-) metódust, és állítsa be a HTML-t SaveFormat-ként
-3. Töltse be a konvertált HTML-fájlt a [Odtument](https://apireference.aspose.com/words/java/com.aspose.words/Odtument) osztály használatával
-4. Mentse a dokumentumot ODT formátumba a [save](https://apireference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String,int)) módszerrel
+3. Töltse be a konvertált HTML-fájlt a [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) osztály használatával
+4. Mentse a dokumentumot ODT formátumba a [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) módszerrel
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
-A PPS-ból ODT-fájlba konvertálásához egyszerűen használhatja az Aspose.Total for Java-t közvetlenül a [Maven]-ből (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) alapú projektet, és vegyen fel könyvtárakat a pom.xml fájlba.
+A PPS-ból ODT-fájlba konvertálásához egyszerűen használhatja az Aspose.Total for Java-t közvetlenül a [Maven]-ből (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) alapú projektet, és vegyen fel könyvtárakat a pom.xml fájlba.
 
 Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -34,7 +34,7 @@ Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://down
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Konverziós követelmények" %}}
-Az API segítségével PPS fájlból ODT-ba konvertálhat vízjellel. Ha vízjelet szeretne hozzáadni a ODT dokumentumhoz, először konvertálja a PPS fájlt HTML formátumba, és vízjelet adjon hozzá. Vízjel hozzáadásához töltse be az újonnan létrehozott HTML-fájlt a [Odtument](https://apireference.aspose.com/words/java/com.aspose.words/Odtument) osztály segítségével, hozzon létre egy TextWatermarkOptions példányt, és állítsa be. tulajdonságai, Hívja meg a Watermark.setText metódust, és adja át a vízjel szövegét és a TextWatermarkOptions objektumát.  
+Az API segítségével PPS fájlból ODT-ba konvertálhat vízjellel. Ha vízjelet szeretne hozzáadni a ODT dokumentumhoz, először konvertálja a PPS fájlt HTML formátumba, és vízjelet adjon hozzá. Vízjel hozzáadásához töltse be az újonnan létrehozott HTML-fájlt a [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) osztály segítségével, hozzon létre egy TextWatermarkOptions példányt, és állítsa be. tulajdonságai, Hívja meg a Watermark.setText metódust, és adja át a vízjel szövegét és a TextWatermarkOptions objektumát.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}

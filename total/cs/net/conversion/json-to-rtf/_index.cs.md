@@ -19,7 +19,7 @@ Pomocí [Aspose.Total for .NET](https://products.aspose.com/total/net/) můžete
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Převést formát JSON na RTF přes C#" %}}
 1. Vytvořte nový objekt [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) a načtěte platná data JSON ze souboru
-2. Importujte soubor JSON do listu pomocí třídy [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) a [Save](https://apireference.aspose.com/ cells/net/aspose.cells.workbook/save/methods/4) jej jako PDF
+2. Importujte soubor JSON do listu pomocí třídy [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) a [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) jej jako PDF
 3. Načtěte dokument PDF pomocí třídy [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 4. Uložte dokument do formátu RTF pomocí metody [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)
 {{% /blocks/products/pf/agp/feature-section-col %}}

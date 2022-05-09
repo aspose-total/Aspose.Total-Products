@@ -19,7 +19,7 @@ Usando [Aspose.Total for .NET](https://products.aspose.com/total/net/) você pod
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converter o formato JSON para FLATOPC via C#" %}}
 1. Crie um novo objeto [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) e leia dados JSON válidos do arquivo
-2. Importe o arquivo JSON para a planilha usando a classe [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) e [Salvar](https://apireference.aspose.com/ cells/net/aspose.cells.workbook/save/methods/4) como PDF
+2. Importe o arquivo JSON para a planilha usando a classe [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) e [Salvar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) como PDF
 3. Carregue o documento PDF usando a classe [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 4. Salve o documento no formato FLATOPC usando o método [Salvar](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -12,12 +12,12 @@ otherformats: PDF TIFF RTF EMF JPEG PCL XPS DOTX DOT TEXT PNG MD OTT DOCM EPUB W
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="API Java para renderizar OFT para GIF" h2="Exporte OFT para GIF usando a API Java local sem usar dependências de terceiros" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-A conversão de e-mail é um recurso poderoso que os desenvolvedores Java podem integrar em qualquer aplicativo Java J2SE, J2EE, J2ME via [Aspose.Total for Java](https://products.aspose.com/total/java/). Usando duas APIs dentro do pacote, você pode converter Oft OFT para GIF sem dependências de terceiros. Em primeiro lugar, você pode usar a API de manipulação de e-mail [Aspose.Oft for Java](https://products.aspose.com/oft/java/) para converter o formato de arquivo OFT para HTML. Em segundo lugar, você pode renderizar HTML para GIF usando a API de processamento de documentos [Aspose.Words for Java](https://products.aspose.com/words/java/).
+A conversão de e-mail é um recurso poderoso que os desenvolvedores Java podem integrar em qualquer aplicativo Java J2SE, J2EE, J2ME via [Aspose.Total for Java](https://products.aspose.com/total/java/). Usando duas APIs dentro do pacote, você pode converter Oft OFT para GIF sem dependências de terceiros. Em primeiro lugar, você pode usar a API de manipulação de e-mail [Aspose.Oft for Java](https://products.aspose.com/email/java/) para converter o formato de arquivo OFT para HTML. Em segundo lugar, você pode renderizar HTML para GIF usando a API de processamento de documentos [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Como converter OFT para GIF" %}}
-1. Abra o arquivo OFT usando a classe [MailMessage](https://apireference.aspose.com/oft/java/com.aspose.oft/mailmessage)
-2. Converta OFT para HTML usando [save](https://apireference.aspose.com/oft/java/com.aspose.oft/MailMessage#save(java.io.OutputStream,%20com.aspose.oft.SaveOptions)) método
+1. Abra o arquivo OFT usando a classe [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Converta OFT para HTML usando [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) método
 3. Carregue HTML usando a classe [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. Salve o documento no formato GIF usando [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) e defina GIF como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -17,7 +17,7 @@ Durch die Verwendung von [Aspose.Total for Java](https://products.aspose.com/tot
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertieren Sie das JSON-Format über Java in FLATOPC" %}}
 1. Erstellen Sie ein neues [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)-Objekt und lesen Sie gültige JSON-Daten aus der Datei
-2. Importieren Sie die JSON-Datei in das Arbeitsblatt mit der Klasse [JsonUtility](https://apireference.aspose.com/cells/java/com.aspose.cells/JsonUtility) und [Save](https://apireference.aspose.com/ cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) als PDF
+2. Importieren Sie die JSON-Datei in das Arbeitsblatt mit der Klasse [JsonUtility](https://apireference.aspose.com/cells/java/com.aspose.cells/JsonUtility) und [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) als PDF
 3. Laden Sie das PDF-Dokument mithilfe der Klasse [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document).
 4. Speichern Sie das Dokument im FLATOPC-Format mit [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) Methode
 {{% /blocks/products/pf/agp/feature-section-col %}}

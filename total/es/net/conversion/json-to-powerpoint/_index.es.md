@@ -19,7 +19,7 @@ Puede convertir JSON a POWERPOINT dentro de cualquier aplicación .NET, C#, ASP.
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convierta el formato JSON a POWERPOINT a través de C#" %}}
 1. Cree un nuevo objeto [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook) y lea los datos JSON válidos del archivo.
-2. Importe el archivo JSON a la hoja de trabajo usando la clase [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) y [Guardar](https://apireference.aspose.com/ cells/net/aspose.cells.workbook/save/methods/4) como PPTX
+2. Importe el archivo JSON a la hoja de trabajo usando la clase [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) y [Guardar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) como PPTX
 3. Cargue el documento PPTX usando la clase [Presentación](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 4. Guarde el documento en formato POWERPOINT usando el método [Guardar](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 {{% /blocks/products/pf/agp/feature-section-col %}}

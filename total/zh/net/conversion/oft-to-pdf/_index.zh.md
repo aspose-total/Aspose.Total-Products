@@ -13,13 +13,13 @@ otherformats: XPS DOC EMF RTF GIF MD ODT DOCX PDF DOT DOTX WORDML TIFF JPEG PS E
 {{< blocks/products/pf/i18n/feature-page-header h1="通过 .NET 将 OFT 导出到 PDF" h2=".NET API 在 Windows、macOS 和 Linux 上将 OFT 渲染为 PDF，而无需使用 Word 或 Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-如果您是一名 .NET 开发人员，希望在您的应用程序中添加 OFT 到 PDF 转换功能，那么 [Aspose.Total for .NET](https://products.aspose.com/total/net/) 文件格式操作 API 是一种方式向前。通过使用 [Aspose.Cells for .NET](https://products.aspose.com/oft/net/)，您可以将 OFT 文件格式转换为 HTML。之后，通过使用 [Aspose.Words for .NET](https://products.aspose.com/words/net/)，您可以将 HTML 渲染为 PDF。
+如果您是一名 .NET 开发人员，希望在您的应用程序中添加 OFT 到 PDF 转换功能，那么 [Aspose.Total for .NET](https://products.aspose.com/total/net/) 文件格式操作 API 是一种方式向前。通过使用 [Aspose.Cells for .NET](https://products.aspose.com/cells/net/)，您可以将 OFT 文件格式转换为 HTML。之后，通过使用 [Aspose.Words for .NET](https://products.aspose.com/words/net/)，您可以将 HTML 渲染为 PDF。
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API 将 OFT 转换为 PDF" %}}
-1. 使用 [MailMessage](https://apireference.aspose.com/oft/net/aspose.oft/mailmessage) 类打开 OFT 文件
-2. 使用 [Save](https://apireference.aspose.com/oft/net/aspose.oft.mailmessage/save/methods/3) 方法将 OFT 转换为 HTML
+1. 使用 [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage) 类打开 OFT 文件
+2. 使用 [Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) 方法将 OFT 转换为 HTML
 3. 使用 [Document](https://apireference.aspose.com/words/net/aspose.words/document) 类加载 HTML
 4. 使用 [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) 方法将文档保存为 PDF 格式，并将 Pdf 设置为 SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -47,7 +47,7 @@ document.Save("output.pdf", SaveFormat.Pdf);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="通过 .NET 解析 OFT 文件" %}}
-在将 OFT 转换为 PDF 之前，如果您想确保您正在转换正确的电子邮件，您可以加载 OFT 文档，对其进行解析并查看您想要的属性。通过使用 [Aspose.Cells for .NET](https://products.aspose.com/oft) 的 [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) 类/net/) API，可以获取发件人和收件人信息。例如，您可以使用 [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername) 属性检查转换的特定发件人电子邮件。  
+在将 OFT 转换为 PDF 之前，如果您想确保您正在转换正确的电子邮件，您可以加载 OFT 文档，对其进行解析并查看您想要的属性。通过使用 [Aspose.Cells for .NET](https://products.aspose.com/email) 的 [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) 类/net/) API，可以获取发件人和收件人信息。例如，您可以使用 [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername) 属性检查转换的特定发件人电子邮件。  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

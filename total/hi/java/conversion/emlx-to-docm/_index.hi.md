@@ -12,12 +12,12 @@ otherformats: PDF PNG DOTX PCL OTT ODT PS DOT EPUB TEXT JPEG DOCM SVG FLATOPC WO
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="जावा एपीआई बीएमपी को ईमेल प्रस्तुत करने के लिए" h2="किसी तीसरे पक्ष की निर्भरता का उपयोग किए बिना ऑन-प्रिमाइसेस जावा एपीआई का उपयोग करके बीएमपी को ईमेल निर्यात करें" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-ईमेल रूपांतरण एक शक्तिशाली विशेषता है जिसे जावा डेवलपर्स [Aspose.Total for Java](https://products.aspose.com/total/java/) के माध्यम से किसी भी Java J2SE, J2EE, J2ME अनुप्रयोगों में एकीकृत कर सकते हैं। पैकेज के भीतर दो एपीआई का उपयोग करके आप ईमेल ईमेल को बीएमपी में बिना किसी तीसरे पक्ष की निर्भरता के परिवर्तित कर सकते हैं। सबसे पहले, आप EMLX फ़ाइल स्वरूप को HTML में बदलने के लिए ईमेल मैनिपुलेशन API [Aspose.Emlx for Java](https://products.aspose.com/emlx/java/) का उपयोग कर सकते हैं। दूसरे, आप दस्तावेज़ प्रसंस्करण API [Aspose.Words for Java](https://products.aspose.com/words/java/) का उपयोग करके HTML को DOCM में रेंडर कर सकते हैं।
+ईमेल रूपांतरण एक शक्तिशाली विशेषता है जिसे जावा डेवलपर्स [Aspose.Total for Java](https://products.aspose.com/total/java/) के माध्यम से किसी भी Java J2SE, J2EE, J2ME अनुप्रयोगों में एकीकृत कर सकते हैं। पैकेज के भीतर दो एपीआई का उपयोग करके आप ईमेल ईमेल को बीएमपी में बिना किसी तीसरे पक्ष की निर्भरता के परिवर्तित कर सकते हैं। सबसे पहले, आप EMLX फ़ाइल स्वरूप को HTML में बदलने के लिए ईमेल मैनिपुलेशन API [Aspose.Email for Java](https://products.aspose.com/email/java/) का उपयोग कर सकते हैं। दूसरे, आप दस्तावेज़ प्रसंस्करण API [Aspose.Words for Java](https://products.aspose.com/words/java/) का उपयोग करके HTML को DOCM में रेंडर कर सकते हैं।
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="EMLX को DOCM में कैसे बदलें" %}}
-1. [MailMessage](https://apireference.aspose.com/emlx/java/com.aspose.emlx/mailmessage) वर्ग का उपयोग करके EMLX फ़ाइल खोलें
-2. [save](https://apireference.aspose.com/emlx/java/com.aspose.emlx/MailMessage#save(java.io.OutputStream,%20com.aspose.emlx.SaveOptions) का उपयोग करके EMLX को HTML में बदलें)) तरीका
+1. [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage) वर्ग का उपयोग करके EMLX फ़ाइल खोलें
+2. [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.emlx.SaveOptions) का उपयोग करके EMLX को HTML में बदलें)) तरीका
 3. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) वर्ग का उपयोग करके HTML लोड करें
 4. [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) का उपयोग करके दस्तावेज़ को DOCM प्रारूप में सहेजें विधि और बीएमपी को SaveFormat के रूप में सेट करें
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -19,7 +19,7 @@ Bằng cách sử dụng [Aspose.Total for .NET](https://products.aspose.com/tot
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi định dạng JSON sang ODT qua C#" %}}
 1. Tạo một đối tượng [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) mới và đọc dữ liệu JSON hợp lệ từ tệp
-2. Nhập tệp JSON vào trang tính bằng cách sử dụng lớp [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) và [Save](https://apireference.aspose.com/ cells/net/ aspose.cells.workbook/save/method/4) nó dưới dạng PDF
+2. Nhập tệp JSON vào trang tính bằng cách sử dụng lớp [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) và [Save](https://apireference.aspose.com/cells/net/ aspose.cells.workbook/save/method/4) nó dưới dạng PDF
 3. Tải tài liệu PDF bằng cách sử dụng lớp [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 4. Lưu tài liệu sang định dạng ODT bằng phương pháp [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)
 {{% /blocks/products/pf/agp/feature-section-col %}}

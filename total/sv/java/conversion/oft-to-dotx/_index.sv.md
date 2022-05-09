@@ -12,14 +12,14 @@ otherformats: EPUB DOCX EMF DOTX DOTM JPEG PDF TEXT WORDML FLATOPC PS PCL MD DOC
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API för att rendera OFT till DOTX" h2="Exportera OFT till DOTX genom att använda det lokala Java API utan att använda några tredje parts beroenden" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-E-postkonvertering är en kraftfull funktion som Java-utvecklare kan integrera i alla Java J2SE, J2EE, J2ME-applikationer via [Aspose.Total for Java](https://products.aspose.com/total/java/). Genom att använda två API:er i paketet kan du konvertera e-post OFT till DOTX utan några tredje parts beroenden. För det första kan du använda Oft Manipulation API [Aspose.Oft for Java](https://products.aspose.com/oft/java/) för att konvertera OFT-filformat till HTML. För det andra kan du rendera HTML till DOTX genom att använda Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/).
+E-postkonvertering är en kraftfull funktion som Java-utvecklare kan integrera i alla Java J2SE, J2EE, J2ME-applikationer via [Aspose.Total for Java](https://products.aspose.com/total/java/). Genom att använda två API:er i paketet kan du konvertera e-post OFT till DOTX utan några tredje parts beroenden. För det första kan du använda Oft Manipulation API [Aspose.Oft for Java](https://products.aspose.com/email/java/) för att konvertera OFT-filformat till HTML. För det andra kan du rendera HTML till DOTX genom att använda Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hur man konverterar OFT till DOTX" %}}
-1. Öppna OFT-filen med klassen [MailMessage](https://apireference.aspose.com/oft/java/com.aspose.oft/mailmessage)
-2. Konvertera OFT till HTML genom att använda [save](https://apireference.aspose.com/oft/java/com.aspose.oft/MailMessage#save(java.io.OutputStream,%20com.aspose.oft.SaveOptions)) metod
+1. Öppna OFT-filen med klassen [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Konvertera OFT till HTML genom att använda [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) metod
 3. Ladda HTML genom att använda klassen [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Spara dokumentet i DOTX-format med [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) och ställ in DOTX som SaveFormat
+4. Spara dokumentet i DOTX-format med [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) och ställ in DOTX som SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
 Du måste använda Aspose.Total för Java direkt från ett [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) baserat projekt och inkludera bibliotek i din pom.xml.

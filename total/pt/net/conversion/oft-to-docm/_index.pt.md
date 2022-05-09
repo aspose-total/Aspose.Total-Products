@@ -13,13 +13,13 @@ otherformats: OTT DOCM DOTX EPUB JPEG PNG GIF ODT PCL DOC WORDML PDF DOCX XPS EM
 {{< blocks/products/pf/i18n/feature-page-header h1="Exportar OFT para DOCM via .NET" h2="API .NET para renderizar OFT para DOCM no Windows, macOS e Linux sem usar Word ou Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Se você é um desenvolvedor .NET que deseja adicionar recursos de conversão de OFT para DOCM dentro de seus aplicativos, as APIs de manipulação de formato de arquivo [Aspose.Total for .NET](https://products.aspose.com/total/net/) são o caminho. frente. Usando [Aspose.Cells para .NET](https://products.aspose.com/oft/net/), você pode converter o formato de arquivo OFT para HTML. Depois disso, usando [Aspose.Words for .NET](https://products.aspose.com/words/net/), você pode renderizar HTML para DOCM.
+Se você é um desenvolvedor .NET que deseja adicionar recursos de conversão de OFT para DOCM dentro de seus aplicativos, as APIs de manipulação de formato de arquivo [Aspose.Total for .NET](https://products.aspose.com/total/net/) são o caminho. frente. Usando [Aspose.Cells para .NET](https://products.aspose.com/cells/net/), você pode converter o formato de arquivo OFT para HTML. Depois disso, usando [Aspose.Words for .NET](https://products.aspose.com/words/net/), você pode renderizar HTML para DOCM.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API C# para converter OFT em DOCM" %}}
-1. Abra o arquivo OFT usando a classe [MailMessage](https://apireference.aspose.com/oft/net/aspose.oft/mailmessage)
-2. Converta OFT para HTML usando o método [Save](https://apireference.aspose.com/oft/net/aspose.oft.mailmessage/save/methods/3)
+1. Abra o arquivo OFT usando a classe [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage)
+2. Converta OFT para HTML usando o método [Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
 3. Carregue HTML usando a classe [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 4. Salve o documento no formato DOCM usando o método [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) e defina Docm como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -47,7 +47,7 @@ document.Save("output.docm", SaveFormat.Docm);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analisar arquivo OFT via .NET" %}}
-Antes de converter OFT para DOCM, se você quiser ter certeza de que está convertendo o oft correto, você pode carregar o documento OFT, analisá-lo e dar uma olhada na propriedade desejada. Usando a classe [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) de [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API, você pode obter informações de remetente e destinatários. Por exemplo, você pode verificar um e-mail de remetente específico para a conversão usando a propriedade [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
+Antes de converter OFT para DOCM, se você quiser ter certeza de que está convertendo o oft correto, você pode carregar o documento OFT, analisá-lo e dar uma olhada na propriedade desejada. Usando a classe [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) de [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API, você pode obter informações de remetente e destinatários. Por exemplo, você pode verificar um e-mail de remetente específico para a conversão usando a propriedade [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

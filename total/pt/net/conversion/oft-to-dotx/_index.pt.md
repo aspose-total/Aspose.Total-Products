@@ -13,13 +13,13 @@ otherformats: FLATOPC JPEG PDF PCL DOCM PNG GIF OTT DOTX SVG DOC MD DOT ODT PS R
 {{< blocks/products/pf/i18n/feature-page-header h1="Exportar OFT para DOTX via .NET" h2="API .NET para renderizar OFT para DOTX no Windows, macOS e Linux sem usar Word ou Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Se você é um desenvolvedor .NET que deseja adicionar recursos de conversão de OFT para DOTX dentro de seus aplicativos, as APIs de manipulação de formato de arquivo [Aspose.Total for .NET](https://products.aspose.com/total/net/) são o caminho. frente. Usando [Aspose.Cells para .NET](https://products.aspose.com/oft/net/), você pode converter o formato de arquivo OFT para HTML. Depois disso, usando [Aspose.Words for .NET](https://products.aspose.com/words/net/), você pode renderizar HTML para DOTX.
+Se você é um desenvolvedor .NET que deseja adicionar recursos de conversão de OFT para DOTX dentro de seus aplicativos, as APIs de manipulação de formato de arquivo [Aspose.Total for .NET](https://products.aspose.com/total/net/) são o caminho. frente. Usando [Aspose.Cells para .NET](https://products.aspose.com/cells/net/), você pode converter o formato de arquivo OFT para HTML. Depois disso, usando [Aspose.Words for .NET](https://products.aspose.com/words/net/), você pode renderizar HTML para DOTX.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API C# para converter OFT em DOTX" %}}
-1. Abra o arquivo OFT usando a classe [MailMessage](https://apireference.aspose.com/oft/net/aspose.oft/mailmessage)
-2. Converta OFT para HTML usando o método [Save](https://apireference.aspose.com/oft/net/aspose.oft.mailmessage/save/methods/3)
+1. Abra o arquivo OFT usando a classe [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage)
+2. Converta OFT para HTML usando o método [Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
 3. Carregue HTML usando a classe [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 4. Salve o documento no formato DOTX usando o método [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) e defina Dotx como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -47,7 +47,7 @@ document.Save("output.dotx", SaveFormat.Dotx);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analisar arquivo OFT via .NET" %}}
-Antes de converter OFT para DOTX, se você quiser ter certeza de que está convertendo o oft correto, você pode carregar o documento OFT, analisá-lo e dar uma olhada na propriedade desejada. Usando a classe [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) de [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API, você pode obter informações de remetente e destinatários. Por exemplo, você pode verificar um e-mail de remetente específico para a conversão usando a propriedade [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
+Antes de converter OFT para DOTX, se você quiser ter certeza de que está convertendo o oft correto, você pode carregar o documento OFT, analisá-lo e dar uma olhada na propriedade desejada. Usando a classe [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) de [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API, você pode obter informações de remetente e destinatários. Por exemplo, você pode verificar um e-mail de remetente específico para a conversão usando a propriedade [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

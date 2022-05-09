@@ -12,12 +12,12 @@ otherformats: DOCX ODT DOCM DOTM EMF PNG DOC DOT SVG FLATOPC EPUB TIFF GIF TEXT 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API для рендеринга OFT в TIFF" h2="Экспортируйте OFT в TIFF с помощью локального Java API без использования каких-либо сторонних зависимостей." >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Преобразование электронной почты — это мощная функция, которую разработчики Java могут интегрировать в любые приложения Java J2SE, J2EE, J2ME через [Aspose.Total for Java](https://products.aspose.com/total/java/). Используя два API в пакете, вы можете преобразовать электронную почту OFT в TIFF без каких-либо сторонних зависимостей. Во-первых, вы можете использовать API обработки электронной почты [Aspose.Oft для Java](https://products.aspose.com/oft/java/) для преобразования формата файла OFT в HTML. Во-вторых, вы можете преобразовать HTML в TIFF с помощью API обработки документов [Aspose.Words for Java](https://products.aspose.com/words/java/).
+Преобразование электронной почты — это мощная функция, которую разработчики Java могут интегрировать в любые приложения Java J2SE, J2EE, J2ME через [Aspose.Total for Java](https://products.aspose.com/total/java/). Используя два API в пакете, вы можете преобразовать электронную почту OFT в TIFF без каких-либо сторонних зависимостей. Во-первых, вы можете использовать API обработки электронной почты [Aspose.Oft для Java](https://products.aspose.com/email/java/) для преобразования формата файла OFT в HTML. Во-вторых, вы можете преобразовать HTML в TIFF с помощью API обработки документов [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как конвертировать OFT в TIFF" %}}
-1. Откройте файл OFT с помощью класса [MailMessage](https://apireference.aspose.com/oft/java/com.aspose.oft/mailmessage).
-2. Преобразуйте OFT в HTML, используя [save](https://apireference.aspose.com/oft/java/com.aspose.oft/MailMessage#save(java.io.OutputStream,%20com.aspose.oft.SaveOptions).)) метод
+1. Откройте файл OFT с помощью класса [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage).
+2. Преобразуйте OFT в HTML, используя [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions).)) метод
 3. Загрузите HTML с помощью класса [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document).
 4. Сохраните документ в формате TIFF, используя [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions).)) и установите TIFF как SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

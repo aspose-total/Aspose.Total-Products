@@ -13,13 +13,13 @@ otherformats: TIFF OTT GIF DOT DOC DOTX EPUB TEXT PS JPEG DOCX MD EMF PCL ODT DO
 {{< blocks/products/pf/i18n/feature-page-header h1="Exportálja az OFT-t PS-be .NET-en keresztül" h2=".NET API az OFT PS formátumban való megjelenítéséhez Windows, macOS és Linux rendszeren Word vagy Outlook használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Ha Ön .NET-fejlesztő, szeretné hozzáadni az OFT-t az alkalmazásokon belüli PS-konverziós funkciókhoz, az [Aspose.Total for .NET](https://products.aspose.com/total/net/) fájlformátum-manipulációs API-k jelentik az utat. előre. Az [Aspose.Cells for .NET](https://products.aspose.com/oft/net/) használatával konvertálhatja az OFT fájlformátumot HTML-re. Ezt követően az [Aspose.Words for .NET](https://products.aspose.com/words/net/) használatával a HTML-t PS-be renderelheti.
+Ha Ön .NET-fejlesztő, szeretné hozzáadni az OFT-t az alkalmazásokon belüli PS-konverziós funkciókhoz, az [Aspose.Total for .NET](https://products.aspose.com/total/net/) fájlformátum-manipulációs API-k jelentik az utat. előre. Az [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) használatával konvertálhatja az OFT fájlformátumot HTML-re. Ezt követően az [Aspose.Words for .NET](https://products.aspose.com/words/net/) használatával a HTML-t PS-be renderelheti.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API az OFT PS-vé konvertálásához" %}}
-1. Nyissa meg az OFT fájlt a [MailMessage](https://apireference.aspose.com/oft/net/aspose.oft/mailmessage) osztály használatával
-2. Alakítsa át az OFT-címet HTML-vé a [Save](https://apireference.aspose.com/oft/net/aspose.oft.mailmessage/save/methods/3) módszerrel
+1. Nyissa meg az OFT fájlt a [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage) osztály használatával
+2. Alakítsa át az OFT-címet HTML-vé a [Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) módszerrel
 3. Töltse be a HTML-t a [Document](https://apireference.aspose.com/words/net/aspose.words/document) osztály használatával
 4. Mentse a dokumentumot PS formátumba a [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) módszerrel, és állítsa be a Ps-t SaveFormat-ként.
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -47,7 +47,7 @@ document.Save("output.ps", SaveFormat.Ps);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Az OFT fájl elemzése .NET-en keresztül" %}}
-Az OFT PS-vé konvertálása előtt, ha meg szeretne győződni arról, hogy a megfelelő e-mailt konvertálja, töltse be az OFT dokumentumot, elemezze, és tekintse meg a kívánt tulajdonságot. A [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API, a küldő és a címzett információkat kaphat. Például a [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername) tulajdonság használatával ellenőrizheti a konverzióhoz tartozó feladó e-mail-címét.  
+Az OFT PS-vé konvertálása előtt, ha meg szeretne győződni arról, hogy a megfelelő e-mailt konvertálja, töltse be az OFT dokumentumot, elemezze, és tekintse meg a kívánt tulajdonságot. A [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API, a küldő és a címzett információkat kaphat. Például a [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername) tulajdonság használatával ellenőrizheti a konverzióhoz tartozó feladó e-mail-címét.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

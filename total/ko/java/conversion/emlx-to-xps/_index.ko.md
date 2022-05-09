@@ -12,12 +12,12 @@ otherformats: DOCX PNG DOCM DOTM JPEG SVG MD TEXT RTF TIFF DOTX EPUB WORDML PCL 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="EMLX을 XPS로 렌더링하는 Java API" h2="타사 종속성을 사용하지 않고 사내 Java API를 사용하여 EMLX을 XPS로 내보내기" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-이메일 변환은 Java 개발자가 [Aspose.Total for Java](https://products.aspose.com/total/java/)를 통해 모든 Java J2SE, J2EE, J2ME 애플리케이션에 통합할 수 있는 강력한 기능입니다. 패키지 내에서 두 개의 API를 사용하여 타사 종속성 없이 이메일 EMLX을 XPS로 변환할 수 있습니다. 먼저 이메일 조작 API[Aspose.Emlx for Java](https://products.aspose.com/emlx/java/)를 사용하여 EMLX 파일 형식을 HTML로 변환할 수 있습니다. 둘째, Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/)를 사용하여 HTML을 XPS로 렌더링할 수 있습니다.
+이메일 변환은 Java 개발자가 [Aspose.Total for Java](https://products.aspose.com/total/java/)를 통해 모든 Java J2SE, J2EE, J2ME 애플리케이션에 통합할 수 있는 강력한 기능입니다. 패키지 내에서 두 개의 API를 사용하여 타사 종속성 없이 이메일 EMLX을 XPS로 변환할 수 있습니다. 먼저 이메일 조작 API[Aspose.Email for Java](https://products.aspose.com/email/java/)를 사용하여 EMLX 파일 형식을 HTML로 변환할 수 있습니다. 둘째, Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/)를 사용하여 HTML을 XPS로 렌더링할 수 있습니다.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="이메일을 XPS로 변환하는 방법" %}}
-1. [MailMessage](https://apireference.aspose.com/emlx/java/com.aspose.emlx/mailmessage) 클래스를 사용하여 EMLX 파일을 엽니다.
-2. [저장](https://apireference.aspose.com/emlx/java/com.aspose.emlx/MailMessage#save(java.io.OutputStream,%20com.aspose.emlx.SaveOptions)을 사용하여 EMLX을 HTML로 변환합니다.)) 방법
+1. [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage) 클래스를 사용하여 EMLX 파일을 엽니다.
+2. [저장](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.emlx.SaveOptions)을 사용하여 EMLX을 HTML로 변환합니다.)) 방법
 3. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) 클래스를 사용하여 HTML 로드
 4. [저장](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)을 사용하여 문서를 XPS 형식으로 저장합니다.)) 메서드 및 XPS를 SaveFormat으로 설정
 {{% /blocks/products/pf/agp/feature-section-col %}}

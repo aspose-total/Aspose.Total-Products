@@ -23,7 +23,7 @@ otherformats: PPTX POTX PPTM PPSX PPT PPS PPSM POWERPOINT POTM POT CSV DIF FODS 
 6. 使用 [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) 方法将文档保存到 POT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
-对于 WORD 到 POT 文件的转换，您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) 基于项目并在 pom.xml 中包含库。
+对于 WORD 到 POT 文件的转换，您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) 基于项目并在 pom.xml 中包含库。
 
 或者，您可以从 [下载](https://downloads.aspose.com/total/java) 获取 ZIP 文件。
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -35,7 +35,7 @@ otherformats: PPTX POTX PPTM PPSX PPT PPS PPSM POWERPOINT POTM POT CSV DIF FODS 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="转换要求" %}}Document
-该 API 还允许您将受密码保护的 WORD 文档转换为 POT。如果您输入的 WORD 文档受密码保护，则您无法在不使用密码的情况下将其转换为 POT 格式。为了打开加密文档，您可以在 LoadOptions 对象中设置正确的密码并将其传递给 Wordument 构造函数。  
+该 API 还允许您将受密码保护的 WORD 文档转换为 POT。如果您输入的 WORD 文档受密码保护，则您无法在不使用密码的情况下将其转换为 POT 格式。为了打开加密文档，您可以在 LoadOptions 对象中设置正确的密码并将其传递给 Document 构造函数。  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-word-to-pptx.java" >}}

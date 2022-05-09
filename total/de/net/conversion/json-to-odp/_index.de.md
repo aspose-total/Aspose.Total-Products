@@ -19,7 +19,7 @@ Sie können JSON in jeder .NET-, C#-, ASP.NET- und VB.NET-Anwendung in zwei einf
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertieren Sie das JSON-Format über C# in ODP" %}}
 1. Erstellen Sie ein neues [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)-Objekt und lesen Sie gültige JSON-Daten aus der Datei
-2. Importieren Sie die JSON-Datei in das Arbeitsblatt mit der Klasse [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) und [Save](https://apireference.aspose.com/ cells/net/aspose.cells.workbook/save/methods/4) als PPTX
+2. Importieren Sie die JSON-Datei in das Arbeitsblatt mit der Klasse [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) und [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) als PPTX
 3. Laden Sie das PPTX-Dokument mithilfe der Klasse [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation).
 4. Speichern Sie das Dokument mit der Methode [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) im ODP-Format
 {{% /blocks/products/pf/agp/feature-section-col %}}

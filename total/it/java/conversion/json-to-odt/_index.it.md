@@ -17,7 +17,7 @@ Utilizzando [Aspose.Total for Java](https://products.aspose.com/total/java/) puo
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converti il formato JSON in ODT tramite Java" %}}
 1. Crea un nuovo oggetto [Workbook](https://apiference.aspose.com/cells/java/com.aspose.cells/Workbook) e leggi dati JSON validi dal file
-2. Importa il file JSON nel foglio di lavoro utilizzando la classe [JsonUtility](https://apiference.aspose.com/cells/java/com.aspose.cells/JsonUtility) e [Salva](https://apiference.aspose.com/ cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) come PDF
+2. Importa il file JSON nel foglio di lavoro utilizzando la classe [JsonUtility](https://apiference.aspose.com/cells/java/com.aspose.cells/JsonUtility) e [Salva](https://apiference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) come PDF
 3. Caricare il documento PDF utilizzando la classe [Document](https://apiference.aspose.com/words/java/com.aspose.words/Document)
 4. Salvare il documento in formato ODT utilizzando [Salva](https://apiference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metodo
 {{% /blocks/products/pf/agp/feature-section-col %}}

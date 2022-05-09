@@ -12,17 +12,17 @@ otherformats: WORD ODTX DOTX ODT WORDML OTT TEXT FLATOPC DOTM DOT ODTM RTF
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Converter POTM para ODT via Java" h2="On Premise Java API para conversão PowerPoint POTM para ODT em qualquer aplicativo Java J2SE, J2EE, J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Java](https://products.aspose.com/total/java/) Bibliotecas de Automação de Formato de Arquivo capacitam os desenvolvedores Java a automatizar o processo de conversão em lote do PowerPoint POTM para Word ODT. A conversão do odtumento é um processo de duas etapas e envolve o uso de duas APIs. Usaremos [Aspose.Slides for Java](https://products.aspose.com/slides/java/) que é uma API do PowerPoint para manipulação e gerenciamento de apresentações para converter POTM em HTML. Depois disso, usando a API de processamento de texto rica em recursos [Aspose.Words for Java](https://products.aspose.com/words/java/), converteremos o HTML em ODT.
+[Aspose.Total for Java](https://products.aspose.com/total/java/) Bibliotecas de Automação de Formato de Arquivo capacitam os desenvolvedores Java a automatizar o processo de conversão em lote do PowerPoint POTM para Word ODT. A conversão do documento é um processo de duas etapas e envolve o uso de duas APIs. Usaremos [Aspose.Slides for Java](https://products.aspose.com/slides/java/) que é uma API do PowerPoint para manipulação e gerenciamento de apresentações para converter POTM em HTML. Depois disso, usando a API de processamento de texto rica em recursos [Aspose.Words for Java](https://products.aspose.com/words/java/), converteremos o HTML em ODT.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Como converter POTM para ODT via Java" %}}
 1. Abra o arquivo POTM usando a classe [Apresentação](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Converta POTM em HTML usando [salvar](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) e defina Html como SaveFormat
-3. Carregue o arquivo HTML convertido usando a classe [Odtument](https://apireference.aspose.com/words/java/com.aspose.words/Odtument)
-4. Salve o odtumento no formato ODT usando o método [save](https://apireference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String,int))
+3. Carregue o arquivo HTML convertido usando a classe [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+4. Salve o documento no formato ODT usando o método [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
-Para conversão de arquivos POTM para ODT, você pode facilmente usar o Aspose.Total para Java diretamente de um [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) e inclua bibliotecas em seu pom.xml.
+Para conversão de arquivos POTM para ODT, você pode facilmente usar o Aspose.Total para Java diretamente de um [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e inclua bibliotecas em seu pom.xml.
 
 Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -34,7 +34,7 @@ Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloa
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisitos de conversão" %}}
-Usando a API, você também pode realizar a conversão de arquivo POTM para ODT com marca d'água. Para adicionar uma marca d'água ao seu odtumento ODT, você pode primeiro converter o arquivo POTM para HTML e adicionar uma marca d'água a ele. Para adicionar uma marca d'água, carregue o arquivo HTML recém-criado usando a classe [Odtument](https://apireference.aspose.com/words/java/com.aspose.words/Odtument), crie uma instância de TextWatermarkOptions e defina suas propriedades, chame o método Watermark.setText e passe o texto da marca d'água e o objeto de TextWatermarkOptions.  
+Usando a API, você também pode realizar a conversão de arquivo POTM para ODT com marca d'água. Para adicionar uma marca d'água ao seu documento ODT, você pode primeiro converter o arquivo POTM para HTML e adicionar uma marca d'água a ele. Para adicionar uma marca d'água, carregue o arquivo HTML recém-criado usando a classe [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document), crie uma instância de TextWatermarkOptions e defina suas propriedades, chame o método Watermark.setText e passe o texto da marca d'água e o objeto de TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}

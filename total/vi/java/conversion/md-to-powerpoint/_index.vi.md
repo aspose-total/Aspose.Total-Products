@@ -19,7 +19,7 @@ Sử dụng [Aspose.Total for Java](https://products.aspose.com/total/java/), b�
 1. Mở tệp MD bằng lớp [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. Chuyển đổi MD sang PPTX bằng phương pháp [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-)
 3. Tải tài liệu PPTX bằng cách sử dụng lớp [Trình bày](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-4. Lưu tài liệu sang định dạng POWERPOINT bằng phương thức [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) và đặt ` Powerpoint` dưới dạng SaveFormat
+4. Lưu tài liệu sang định dạng POWERPOINT bằng phương thức [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) và đặt `Powerpoint` dưới dạng SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
 Bạn có thể dễ dàng sử dụng Aspose.Total for Java trực tiếp từ dự án dựa trên [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và bao gồm [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) và [Aspose.Slides for Java](https://docs.aspose.com/slides/java/installation/) trong pom.xml của bạn.

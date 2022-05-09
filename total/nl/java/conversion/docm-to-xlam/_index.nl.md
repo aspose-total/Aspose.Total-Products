@@ -19,7 +19,7 @@ Het converteren van DOCM naar XLAM via [Aspose.Total for Java](https://products.
 1. Open het DOCM-bestand met de klasse [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 2. Converteer DOCM naar HTML met behulp van [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) methode:
 3. Laad HTML-documentmet behulp van [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) klasse
-4. Sla het documentop in XLAM-indeling met [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. SaveOptions)) methode
+4. Sla het documentop in XLAM-indeling met [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) methode
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
 U kunt Aspose.Total voor Java gemakkelijk rechtstreeks vanuit een op [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) gebaseerd project gebruiken en omvatten [Aspose.Words voor Java](https://docms.aspose.com/words/java/installation/) en [Aspose.Cells voor Java](https://docms.aspose.com/cells/java/ installatie/) in uw po.xml.

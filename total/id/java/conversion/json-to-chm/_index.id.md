@@ -17,7 +17,7 @@ Dengan menggunakan [Aspose.Total for Java](https://products.aspose.com/total/jav
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konversi Format JSON ke CHM melalui Java" %}}
 1. Buat objek [Buku Kerja](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) baru dan baca data JSON yang valid dari file
-2. Impor file JSON ke lembar kerja menggunakan kelas [JsonUtility](https://apireference.aspose.com/cells/java/com.aspose.cells/JsonUtility) dan [Simpan](https://apireference.aspose.com/ cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) sebagai PDF
+2. Impor file JSON ke lembar kerja menggunakan kelas [JsonUtility](https://apireference.aspose.com/cells/java/com.aspose.cells/JsonUtility) dan [Simpan](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) sebagai PDF
 3. Muat dokumen PDF dengan menggunakan kelas [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. Simpan dokumen ke format CHM menggunakan [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metode
 {{% /blocks/products/pf/agp/feature-section-col %}}

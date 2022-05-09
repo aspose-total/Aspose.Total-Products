@@ -13,13 +13,13 @@ otherformats: EPUB DOCX SVG JPEG FLATOPC TIFF RTF PS WORDML PCL ODT GIF TEXT MD 
 {{< blocks/products/pf/i18n/feature-page-header h1=".NET . के माध्यम से बीएमपी को ईमेल निर्यात करें" h2="वर्ड या आउटलुक का उपयोग किए बिना विंडोज़, मैकओएस और लिनक्स पर बीएमपी को ईमेल प्रस्तुत करने के लिए .NET एपीआई" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-यदि आप एक .NET डेवलपर हैं, जो अपने एप्लिकेशन के अंदर OFT को PNG रूपांतरण सुविधाओं में जोड़ना चाहते हैं, तो [Aspose.Total for .NET](https://products.aspose.com/total/net/) फ़ाइल प्रारूप में हेरफेर API एक तरीका है। आगे। [Aspose.Cells for .NET](https://products.aspose.com/oft/net/) का उपयोग करके, आप OFT फ़ाइल स्वरूप को HTML में बदल सकते हैं। उसके बाद, [Aspose.Words for .NET](https://products.aspose.com/words/net/) का उपयोग करके, आप HTML को PNG में रेंडर कर सकते हैं।
+यदि आप एक .NET डेवलपर हैं, जो अपने एप्लिकेशन के अंदर OFT को PNG रूपांतरण सुविधाओं में जोड़ना चाहते हैं, तो [Aspose.Total for .NET](https://products.aspose.com/total/net/) फ़ाइल प्रारूप में हेरफेर API एक तरीका है। आगे। [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) का उपयोग करके, आप OFT फ़ाइल स्वरूप को HTML में बदल सकते हैं। उसके बाद, [Aspose.Words for .NET](https://products.aspose.com/words/net/) का उपयोग करके, आप HTML को PNG में रेंडर कर सकते हैं।
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="सी # एपीआई ईमेल को बीएमपी में कनवर्ट करने के लिए" %}}
-1. [MailMessage](https://apireference.aspose.com/oft/net/aspose.oft/mailmessage) वर्ग का उपयोग करके OFT फ़ाइल खोलें
-2. [MailMessage.Save](https://apireference.aspose.com/oft/net/aspose.oft.mailmessage/save/methods/3) विधि का उपयोग करके OFT को HTML में बदलें
+1. [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage) वर्ग का उपयोग करके OFT फ़ाइल खोलें
+2. [MailMessage.Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) विधि का उपयोग करके OFT को HTML में बदलें
 3. [Document](https://apireference.aspose.com/words/net/aspose.words/document) वर्ग का उपयोग करके HTML लोड करें
 4. [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) विधि का उपयोग करके दस्तावेज़ को PNG प्रारूप में सहेजें और Png को SaveFormat के रूप में सेट करें
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -47,7 +47,7 @@ document.Save("output.png", SaveFormat.Png);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2=".NET के माध्यम से ईमेल फ़ाइल को पार्स करें" %}}
-OFT को PNG में बदलने से पहले, यदि आप यह सुनिश्चित करना चाहते हैं कि आप सही ईमेल परिवर्तित कर रहे हैं, तो आप OFT दस्तावेज़ लोड कर सकते हैं, उसे पार्स कर सकते हैं और अपनी वांछित संपत्ति पर एक नज़र डाल सकते हैं। [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) वर्ग [Aspose.Cells for .NET](https://products.aspose.com/oft) का उपयोग करके /net/) एपीआई, आप प्रेषक और प्राप्तकर्ताओं की जानकारी प्राप्त कर सकते हैं। उदाहरण के लिए, आप [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername) प्रॉपर्टी का इस्तेमाल करके कन्वर्ज़न के लिए किसी खास ईमेल भेजने वाले की जांच कर सकते हैं।  
+OFT को PNG में बदलने से पहले, यदि आप यह सुनिश्चित करना चाहते हैं कि आप सही ईमेल परिवर्तित कर रहे हैं, तो आप OFT दस्तावेज़ लोड कर सकते हैं, उसे पार्स कर सकते हैं और अपनी वांछित संपत्ति पर एक नज़र डाल सकते हैं। [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) वर्ग [Aspose.Cells for .NET](https://products.aspose.com/email) का उपयोग करके /net/) एपीआई, आप प्रेषक और प्राप्तकर्ताओं की जानकारी प्राप्त कर सकते हैं। उदाहरण के लिए, आप [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername) प्रॉपर्टी का इस्तेमाल करके कन्वर्ज़न के लिए किसी खास ईमेल भेजने वाले की जांच कर सकते हैं।  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

@@ -13,7 +13,7 @@ otherformats: TEXT FLATOPC XPS DOCM DOTM RTF OTT EMF PCL ODT GIF JPEG PDF PS WOR
 {{< blocks/products/pf/i18n/feature-page-header h1="Exportar MSG a DOT a través de .NET" h2=".NET API para procesar MSG a DOT en Windows, macOS y Linux sin usar Word o Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Si es un desarrollador de .NET que busca agregar funciones de conversión de MSG a DOT dentro de sus aplicaciones, las API de manipulación de formato de archivo de [Aspose.Total for .NET](https://products.aspose.com/total/net/) son la solución. delantero. Al usar [Aspose.Msg para .NET](https://products.aspose.com/msg/net/), puede convertir el formato de archivo de MSG a HTML. Después de eso, al usar [Aspose.Words for .NET](https://products.aspose.com/words/net/), puede convertir HTML a DOT.
+Si es un desarrollador de .NET que busca agregar funciones de conversión de MSG a DOT dentro de sus aplicaciones, las API de manipulación de formato de archivo de [Aspose.Total for .NET](https://products.aspose.com/total/net/) son la solución. delantero. Al usar [Aspose.Email para .NET](https://products.aspose.com/email/net/), puede convertir el formato de archivo de MSG a HTML. Después de eso, al usar [Aspose.Words for .NET](https://products.aspose.com/words/net/), puede convertir HTML a DOT.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.dot", SaveFormat.Dot);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analizar archivo de correo electrónico a través de .NET" %}}
-Antes de convertir MSG a DOT, si desea asegurarse de que está convirtiendo el correo electrónico correcto, puede cargar el documento MSG, analizarlo y ver la propiedad deseada. Mediante el uso de la clase [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) de [Aspose.Msg for .NET](https://products.aspose.com/msg /net/) API, puede obtener información sobre el remitente y los destinatarios. Por ejemplo, puede verificar el correo electrónico de un remitente específico para la conversión usando la propiedad [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername).  
+Antes de convertir MSG a DOT, si desea asegurarse de que está convirtiendo el correo electrónico correcto, puede cargar el documento MSG, analizarlo y ver la propiedad deseada. Mediante el uso de la clase [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) de [Aspose.Email for .NET](https://products.aspose.com/msg /net/) API, puede obtener información sobre el remitente y los destinatarios. Por ejemplo, puede verificar el correo electrónico de un remitente específico para la conversión usando la propiedad [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

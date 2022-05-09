@@ -12,12 +12,12 @@ otherformats: DOC MD EMF PCL ODT GIF PNG FLATOPC XPS DOT TEXT OTT TIFF SVG PS WO
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="OFTをPCLにレンダリングするJavaAPI" h2="サードパーティの依存関係を使用せずに、オンプレミスのJavaAPIを使用してOFTをPCLにエクスポートします" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-電子メール変換は、Java開発者が[Aspose.Total for Java](https://products.aspose.com/total/java/)を介してJava J2SE、J2EE、J2MEアプリケーションに統合できる強力な機能です。パッケージ内で2つのAPIを使用することにより、サードパーティの依存関係なしに電子メールOFTをPCLに変換できます。まず、Oft Manipulation API [Aspose.Oft for Java](https://products.aspose.com/oft/java/)を使用して、OFTファイル形式をHTMLに変換できます。次に、Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/)を使用してHTMLをPCLにレンダリングできます。
+電子メール変換は、Java開発者が[Aspose.Total for Java](https://products.aspose.com/total/java/)を介してJava J2SE、J2EE、J2MEアプリケーションに統合できる強力な機能です。パッケージ内で2つのAPIを使用することにより、サードパーティの依存関係なしに電子メールOFTをPCLに変換できます。まず、Oft Manipulation API [Aspose.Oft for Java](https://products.aspose.com/email/java/)を使用して、OFTファイル形式をHTMLに変換できます。次に、Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/)を使用してHTMLをPCLにレンダリングできます。
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="メールをPCLに変換する方法" %}}
-1. [MailMessage](https://apireference.aspose.com/oft/java/com.aspose.oft/mailmessage)クラスを使用してOFTファイルを開きます
-2. [save](https://apireference.aspose.com/oft/java/com.aspose.oft/MailMessage#save(java.io.OutputStream,%20com.aspose.oft.SaveOptions)を使用してOFTをHTMLに変換します)) 方法
+1. [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)クラスを使用してOFTファイルを開きます
+2. [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)を使用してOFTをHTMLに変換します)) 方法
 3. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)クラスを使用してHTMLをロードします
 4. [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)を使用してドキュメントをPCL形式で保存します))メソッドとPCLをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}

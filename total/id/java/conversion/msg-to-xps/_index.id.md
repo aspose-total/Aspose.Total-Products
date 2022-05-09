@@ -12,7 +12,7 @@ otherformats: PCL SVG XPS EMF DOCM DOTM GIF JPEG RTF ODT WORDML DOTX EPUB TEXT D
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API untuk Merender MSG ke XPS" h2="Ekspor MSG ke XPS dengan menggunakan Java API lokal tanpa menggunakan dependensi pihak ketiga" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Konversi msg adalah fitur canggih yang dapat diintegrasikan oleh pengembang Java dalam aplikasi Java J2SE, J2EE, J2ME melalui [Aspose.Total for Java](https://products.aspose.com/total/java/). Dengan menggunakan dua API dalam paket, Anda dapat mengonversi Msg MSG ke XPS tanpa ketergantungan pihak ketiga. Pertama, Anda dapat menggunakan API Manipulasi Msg [Aspose.Msg for Java](https://products.aspose.com/msg/java/) untuk mengonversi format file MSG ke HTML. Kedua, Anda dapat merender HTML ke XPS dengan menggunakan API Pemrosesan Dokumen [Aspose.Words for Java](https://products.aspose.com/words/java/).
+Konversi msg adalah fitur canggih yang dapat diintegrasikan oleh pengembang Java dalam aplikasi Java J2SE, J2EE, J2ME melalui [Aspose.Total for Java](https://products.aspose.com/total/java/). Dengan menggunakan dua API dalam paket, Anda dapat mengonversi Msg MSG ke XPS tanpa ketergantungan pihak ketiga. Pertama, Anda dapat menggunakan API Manipulasi Msg [Aspose.Email for Java](https://products.aspose.com/email/java/) untuk mengonversi format file MSG ke HTML. Kedua, Anda dapat merender HTML ke XPS dengan menggunakan API Pemrosesan Dokumen [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cara Mengonversi MSG ke XPS" %}}

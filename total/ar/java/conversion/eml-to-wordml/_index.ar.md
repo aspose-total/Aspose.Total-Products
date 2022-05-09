@@ -12,12 +12,12 @@ otherformats: DOT MD FLATOPC SVG GIF PCL DOCX JPEG PDF EPUB DOCM TEXT ODT RTF DO
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API لتقديم البريد الإلكتروني إلى WORDML" h2="قم بتصدير EML إلى WORDML باستخدام Java API في مكان العمل دون استخدام أي تبعيات لطرف ثالث" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-يعد تحويل البريد الإلكتروني ميزة قوية يمكن لمطوري Java دمجها في أي تطبيقات Java J2SE و J2EE و J2ME عبر [Aspose.Total for Java](https://products.aspose.com/total/java/). باستخدام اثنين من واجهات برمجة التطبيقات داخل الحزمة ، يمكنك تحويل البريد الإلكتروني EML إلى WORDML دون أي تبعيات لطرف ثالث. أولاً ، يمكنك استخدام واجهة برمجة تطبيقات معالجة البريد الإلكتروني [Aspose.Eml لجافا](https://products.aspose.com/eml/java/) لتحويل تنسيق ملف EML إلى HTML. ثانيًا ، يمكنك عرض HTML إلى WORDML باستخدام واجهة برمجة تطبيقات معالجة المستندات [Aspose.Words for Java](https://products.aspose.com/words/java/).
+يعد تحويل البريد الإلكتروني ميزة قوية يمكن لمطوري Java دمجها في أي تطبيقات Java J2SE و J2EE و J2ME عبر [Aspose.Total for Java](https://products.aspose.com/total/java/). باستخدام اثنين من واجهات برمجة التطبيقات داخل الحزمة ، يمكنك تحويل البريد الإلكتروني EML إلى WORDML دون أي تبعيات لطرف ثالث. أولاً ، يمكنك استخدام واجهة برمجة تطبيقات معالجة البريد الإلكتروني [Aspose.Email لجافا](https://products.aspose.com/email/java/) لتحويل تنسيق ملف EML إلى HTML. ثانيًا ، يمكنك عرض HTML إلى WORDML باستخدام واجهة برمجة تطبيقات معالجة المستندات [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل البريد الإلكتروني إلى WORDML" %}}
 1. افتح ملف EML باستخدام فئة [MailMessage](https://apireference.aspose.com/eml/java/com.aspose.eml/mailmessage)
-2. تحويل EML إلى HTML باستخدام [save](https://apireference.aspose.com/eml/java/com.aspose.eml/MailMessage#save (java.io.OutputStream،٪ 20com.aspose.eml.SaveOptions)) طريقة
+2. تحويل EML إلى HTML باستخدام [save](https://apireference.aspose.com/eml/java/com.aspose.eml/MailMessage#save (java.io.OutputStream،٪20com.aspose.eml.SaveOptions)) طريقة
 3. قم بتحميل HTML باستخدام فئة [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. احفظ المستند بتنسيق WORDML باستخدام [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save (java.lang.String، com.aspose.words.SaveOptions)) وضبط WORDML على أنه SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

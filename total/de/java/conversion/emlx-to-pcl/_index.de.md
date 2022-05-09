@@ -12,12 +12,12 @@ otherformats: TEXT PS PDF DOTX OTT PCL WORDML RTF JPEG MD XPS EPUB PNG GIF TIFF 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java-API zum Rendern von E-MAIL in PCL" h2="Exportieren Sie E-MAIL nach PCL, indem Sie die lokale Java-API verwenden, ohne Abhängigkeiten von Drittanbietern zu verwenden" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Die E-Mail-Konvertierung ist eine leistungsstarke Funktion, die Java-Entwickler über [Aspose.Total for Java](https://products.aspose.com/total/java/) in alle Java J2SE-, J2EE-, J2ME-Anwendungen integrieren können. Durch die Verwendung von zwei APIs innerhalb des Pakets können Sie E-Mail-E-MAIL ohne Abhängigkeiten von Drittanbietern in PCL konvertieren. Erstens können Sie die E-Mail-Manipulations-API [Aspose.Emlx for Java](https://products.aspose.com/emlx/java/) verwenden, um das EMLX-Dateiformat in HTML zu konvertieren. Zweitens können Sie HTML in PCL rendern, indem Sie die Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) verwenden.
+Die E-Mail-Konvertierung ist eine leistungsstarke Funktion, die Java-Entwickler über [Aspose.Total for Java](https://products.aspose.com/total/java/) in alle Java J2SE-, J2EE-, J2ME-Anwendungen integrieren können. Durch die Verwendung von zwei APIs innerhalb des Pakets können Sie E-Mail-E-MAIL ohne Abhängigkeiten von Drittanbietern in PCL konvertieren. Erstens können Sie die E-Mail-Manipulations-API [Aspose.Email for Java](https://products.aspose.com/email/java/) verwenden, um das EMLX-Dateiformat in HTML zu konvertieren. Zweitens können Sie HTML in PCL rendern, indem Sie die Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) verwenden.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="So konvertieren Sie E-MAIL in PCL" %}}
-1. Öffnen Sie die EMLX-Datei mit der Klasse [MailMessage](https://apireference.aspose.com/emlx/java/com.aspose.emlx/mailmessage).
-2. Konvertieren Sie E-MAIL in HTML, indem Sie [save](https://apireference.aspose.com/emlx/java/com.aspose.emlx/MailMessage#save(java.io.OutputStream,%20com.aspose.emlx.SaveOptions)) Methode
+1. Öffnen Sie die EMLX-Datei mit der Klasse [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage).
+2. Konvertieren Sie E-MAIL in HTML, indem Sie [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.emlx.SaveOptions)) Methode
 3. Laden Sie HTML mithilfe der Klasse [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document).
 4. Speichern Sie das Dokument im PCL-Format mit [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) Methode und legen Sie PCL als SaveFormat fest
 {{% /blocks/products/pf/agp/feature-section-col %}}

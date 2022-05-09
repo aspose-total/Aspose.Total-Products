@@ -13,13 +13,13 @@ otherformats: TIFF OTT GIF DOT DOC DOTX EPUB TEXT PS JPEG DOCX MD EMF PCL ODT DO
 {{< blocks/products/pf/i18n/feature-page-header h1="ส่งออก OFT เป็น PS ผ่าน .NET" h2=".NET API เพื่อแสดงผล OFT เป็น PS บน Windows, macOS และ Linux โดยไม่ต้องใช้ Word หรือ Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-หากคุณเป็นนักพัฒนา .NET ที่ต้องการเพิ่มฟีเจอร์การแปลง OFT เป็น PS ภายในแอปพลิเคชันของคุณ [Aspose.Total for .NET](https://products.aspose.com/total/net/) การจัดการรูปแบบไฟล์ API เป็นวิธี ซึ่งไปข้างหน้า. เมื่อใช้ [Aspose.Cells for .NET](https://products.aspose.com/oft/net/) คุณจะแปลงรูปแบบไฟล์ OFT เป็น HTML ได้ หลังจากนั้น คุณสามารถใช้ [Aspose.Words for .NET](https://products.aspose.com/words/net/) เพื่อแสดง HTML เป็น PS
+หากคุณเป็นนักพัฒนา .NET ที่ต้องการเพิ่มฟีเจอร์การแปลง OFT เป็น PS ภายในแอปพลิเคชันของคุณ [Aspose.Total for .NET](https://products.aspose.com/total/net/) การจัดการรูปแบบไฟล์ API เป็นวิธี ซึ่งไปข้างหน้า. เมื่อใช้ [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) คุณจะแปลงรูปแบบไฟล์ OFT เป็น HTML ได้ หลังจากนั้น คุณสามารถใช้ [Aspose.Words for .NET](https://products.aspose.com/words/net/) เพื่อแสดง HTML เป็น PS
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API เพื่อแปลง OFT เป็น PS" %}}
-1. เปิดไฟล์ OFT โดยใช้คลาส [MailMessage](https://apireference.aspose.com/oft/net/aspose.oft/mailmessage)
-2. แปลง OFT เป็น HTML โดยใช้วิธีการ [Save](https://apireference.aspose.com/oft/net/aspose.oft.mailmessage/save/methods/3)
+1. เปิดไฟล์ OFT โดยใช้คลาส [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage)
+2. แปลง OFT เป็น HTML โดยใช้วิธีการ [Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
 3. โหลด HTML โดยใช้คลาส [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 4. บันทึกเอกสารเป็นรูปแบบ PS โดยใช้เมธอด [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) และตั้งค่า Ps เป็น SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -47,7 +47,7 @@ document.Save("output.ps", SaveFormat.Ps);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="แยกไฟล์ OFT ผ่าน .NET" %}}
-ก่อนแปลง OFT เป็น PS หากคุณต้องการแน่ใจว่าคุณกำลังแปลงอีเมลที่ถูกต้อง คุณสามารถโหลดเอกสาร OFT แยกวิเคราะห์ และดูคุณสมบัติที่คุณต้องการได้ โดยใช้ [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) คลาสของ [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API คุณสามารถรับข้อมูลผู้ส่งและผู้รับ ตัวอย่างเช่น คุณสามารถตรวจสอบอีเมลผู้ส่งเฉพาะสำหรับการแปลงโดยใช้คุณสมบัติ [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername)  
+ก่อนแปลง OFT เป็น PS หากคุณต้องการแน่ใจว่าคุณกำลังแปลงอีเมลที่ถูกต้อง คุณสามารถโหลดเอกสาร OFT แยกวิเคราะห์ และดูคุณสมบัติที่คุณต้องการได้ โดยใช้ [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) คลาสของ [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API คุณสามารถรับข้อมูลผู้ส่งและผู้รับ ตัวอย่างเช่น คุณสามารถตรวจสอบอีเมลผู้ส่งเฉพาะสำหรับการแปลงโดยใช้คุณสมบัติ [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername)  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

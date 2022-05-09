@@ -13,7 +13,7 @@ otherformats: DOCX SVG DOTM WORDML JPEG GIF PS XPS DOT DOTX MD RTF DOC PCL OTT T
 {{< blocks/products/pf/i18n/feature-page-header h1="Exportera MSG till RTF via .NET" h2=".NET API för att rendera MSG till RTF på Windows, macOS och Linux utan att använda Word eller Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Om du är en .NET-utvecklare som vill lägga till MSG till RTF-konverteringsfunktioner i dina applikationer, är [Aspose.Total for .NET](https://products.aspose.com/total/net/) API:er för filformatsmanipulation vägen fram. Genom att använda [Aspose.Msg for .NET](https://products.aspose.com/msg/net/), kan du konvertera MSG-filformat till HTML. Efter det, genom att använda [Aspose.Words for .NET](https://products.aspose.com/words/net/), kan du rendera HTML till RTF.
+Om du är en .NET-utvecklare som vill lägga till MSG till RTF-konverteringsfunktioner i dina applikationer, är [Aspose.Total for .NET](https://products.aspose.com/total/net/) API:er för filformatsmanipulation vägen fram. Genom att använda [Aspose.Email for .NET](https://products.aspose.com/email/net/), kan du konvertera MSG-filformat till HTML. Efter det, genom att använda [Aspose.Words for .NET](https://products.aspose.com/words/net/), kan du rendera HTML till RTF.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.rtf", SaveFormat.Rtf);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analysera MSG-fil via .NET" %}}
-Innan du konverterar MSG till RTF, om du vill vara säker på att du konverterar rätt e-post, kan du ladda MSG-dokumentet, analysera det och ta en titt på din önskade egenskap. Genom att använda [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) klass av [Aspose.Msg for .NET](https://products.aspose.com/msg /net/) API kan du få information om avsändare och mottagare. Du kan till exempel söka efter en specifik avsändar-e-post för konverteringen genom att använda egenskapen [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername).  
+Innan du konverterar MSG till RTF, om du vill vara säker på att du konverterar rätt e-post, kan du ladda MSG-dokumentet, analysera det och ta en titt på din önskade egenskap. Genom att använda [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) klass av [Aspose.Email for .NET](https://products.aspose.com/msg /net/) API kan du få information om avsändare och mottagare. Du kan till exempel söka efter en specifik avsändar-e-post för konverteringen genom att använda egenskapen [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

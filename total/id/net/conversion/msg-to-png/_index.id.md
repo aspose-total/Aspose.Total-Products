@@ -13,7 +13,7 @@ otherformats: DOCX XPS WORDML DOT SVG TIFF OTT ODT EMF FLATOPC EPUB DOC GIF TEXT
 {{< blocks/products/pf/i18n/feature-page-header h1="Ekspor MSG ke PNG melalui .NET" h2=".NET API untuk Merender MSG ke PNG di Windows, macOS, dan Linux tanpa menggunakan Word atau Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Jika Anda adalah pengembang .NET yang ingin menambahkan fitur konversi MSG ke PNG di dalam aplikasi Anda, [Aspose.Total for .NET](https://products.aspose.com/total/net/) API manipulasi format file adalah caranya maju. Dengan menggunakan [Aspose.Msg for .NET](https://products.aspose.com/msg/net/), Anda dapat mengonversi format file MSG ke HTML. Setelah itu, dengan menggunakan [Aspose.Words for .NET](https://products.aspose.com/words/net/), Anda dapat merender HTML ke PNG.
+Jika Anda adalah pengembang .NET yang ingin menambahkan fitur konversi MSG ke PNG di dalam aplikasi Anda, [Aspose.Total for .NET](https://products.aspose.com/total/net/) API manipulasi format file adalah caranya maju. Dengan menggunakan [Aspose.Email for .NET](https://products.aspose.com/email/net/), Anda dapat mengonversi format file MSG ke HTML. Setelah itu, dengan menggunakan [Aspose.Words for .NET](https://products.aspose.com/words/net/), Anda dapat merender HTML ke PNG.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.png", SaveFormat.Png);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Parsing File MSG melalui .NET" %}}
-Sebelum mengonversi MSG ke PNG, jika Anda ingin memastikan bahwa Anda mengonversi msg yang benar, Anda dapat memuat dokumen MSG, menguraikannya dan melihat properti yang Anda inginkan. Dengan menggunakan kelas [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) dari [Aspose.Msg for .NET](https://products.aspose.com/msg /net/) API, Anda bisa mendapatkan informasi pengirim dan penerima. Misalnya, Anda dapat memeriksa msg pengirim tertentu untuk konversi dengan menggunakan properti [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername).  
+Sebelum mengonversi MSG ke PNG, jika Anda ingin memastikan bahwa Anda mengonversi msg yang benar, Anda dapat memuat dokumen MSG, menguraikannya dan melihat properti yang Anda inginkan. Dengan menggunakan kelas [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) dari [Aspose.Email for .NET](https://products.aspose.com/msg /net/) API, Anda bisa mendapatkan informasi pengirim dan penerima. Misalnya, Anda dapat memeriksa msg pengirim tertentu untuk konversi dengan menggunakan properti [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

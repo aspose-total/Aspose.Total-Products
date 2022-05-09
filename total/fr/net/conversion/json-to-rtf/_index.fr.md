@@ -19,7 +19,7 @@ En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vo
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convertir le format JSON en RTF via C#" %}}
 1. Créez un nouvel objet [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) et lisez les données JSON valides du fichier
-2. Importez le fichier JSON dans la feuille de calcul à l'aide de la classe [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) et [Save](https://apireference.aspose.com/ cells/net/aspose.cells.workbook/save/methods/4) au format PDF
+2. Importez le fichier JSON dans la feuille de calcul à l'aide de la classe [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) et [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) au format PDF
 3. Chargez le document PDF en utilisant la classe [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 4. Enregistrez le document au format RTF en utilisant la méthode [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -33,8 +33,8 @@ otherformats: XLAM XLSB ODS TXT EXCEL DIF FODS TSV XLTM SXC XLSM XLTX
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="通过 Java 将受保护的 XSLFO 转换为 XLSM" %}}String-java.lang.String-
-如果您的 XSLFO 文档受密码保护，则您无法在没有密码的情况下将其转换为 XLSM。使用 API，您可以先使用有效密码打开受保护的文档，然后再进行转换。为了打开加密文件，可以初始化一个新的[Document]实例(https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String- java.lang.String-) 类并将文件名和密码作为参数传递。  
+{{% blocks/products/pf/feature-page-section  h2="通过 Java 将受保护的 XSLFO 转换为 XLSM" %}}
+如果您的 XSLFO 文档受密码保护，则您无法在没有密码的情况下将其转换为 XLSM。使用 API，您可以先使用有效密码打开受保护的文档，然后再进行转换。为了打开加密文件，可以初始化一个新的[Document]实例(https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-) 类并将文件名和密码作为参数传递。  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d25bc6acc71106757fdc028e2cdd660b" "convert-protected-pdf-to-excel.java" >}}

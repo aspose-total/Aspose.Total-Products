@@ -12,17 +12,17 @@ otherformats: RTF ODTM FLATOPC ODTX DOTM DOT TEXT WORD WORDML DOTX OTT ODT
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Convierta PPSM a ODT a través de Java" h2="API de Java en las instalaciones para la conversión de PowerPoint PPSM a ODT dentro de cualquier aplicación Java J2SE, J2EE, J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Java](https://products.aspose.com/total/java/) Las bibliotecas de automatización de formato de archivo permiten a los desarrolladores de Java automatizar el proceso de conversión por lotes de PowerPoint PPSM a Word ODT. La conversión del odtumento es un proceso de dos pasos e implica el uso de dos API. Usaremos [Aspose.Slides for Java](https://products.aspose.com/slides/java/) que es una API de PowerPoint para la manipulación y administración de presentaciones para convertir PPSM a HTML. Después de eso, mediante el uso de la API de procesamiento de textos rica en funciones [Aspose.Words for Java](https://products.aspose.com/words/java/), convertiremos el HTML a ODT.
+[Aspose.Total for Java](https://products.aspose.com/total/java/) Las bibliotecas de automatización de formato de archivo permiten a los desarrolladores de Java automatizar el proceso de conversión por lotes de PowerPoint PPSM a Word ODT. La conversión del documento es un proceso de dos pasos e implica el uso de dos API. Usaremos [Aspose.Slides for Java](https://products.aspose.com/slides/java/) que es una API de PowerPoint para la manipulación y administración de presentaciones para convertir PPSM a HTML. Después de eso, mediante el uso de la API de procesamiento de textos rica en funciones [Aspose.Words for Java](https://products.aspose.com/words/java/), convertiremos el HTML a ODT.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir PPSM a ODT a través de Java" %}}
 1. Abra el archivo PPSM usando la clase [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Convierta PPSM a HTML usando [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) y establezca Html como SaveFormat
-3. Cargue el archivo HTML convertido usando la clase [Odtumento](https://apireference.aspose.com/words/java/com.aspose.words/Odtument)
-4. Guarde el odtumento en formato ODT usando el método [save](https://apireference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String,int))
+3. Cargue el archivo HTML convertido usando la clase [Documento](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+4. Guarde el documento en formato ODT usando el método [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
-Para la conversión de archivos PPSM a ODT, puede usar fácilmente Aspose.Total para Java directamente desde un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) e incluya bibliotecas en su pom.xml.
+Para la conversión de archivos PPSM a ODT, puede usar fácilmente Aspose.Total para Java directamente desde un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e incluya bibliotecas en su pom.xml.
 
 Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -34,7 +34,7 @@ Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisitos de conversión" %}}
-Usando la API, también puede realizar una conversión de archivo PPSM a ODT con marca de agua. Para agregar una marca de agua a su odtumento ODT, primero puede convertir el archivo PPSM a HTML y agregarle una marca de agua. Para agregar una marca de agua, cargue el archivo HTML recién creado usando la clase [Odtument](https://apireference.aspose.com/words/java/com.aspose.words/Odtument), cree una instancia de TextWatermarkOptions y configure sus propiedades, llame al método Watermark.setText y pase el texto y el objeto de la marca de agua de TextWatermarkOptions.  
+Usando la API, también puede realizar una conversión de archivo PPSM a ODT con marca de agua. Para agregar una marca de agua a su documento ODT, primero puede convertir el archivo PPSM a HTML y agregarle una marca de agua. Para agregar una marca de agua, cargue el archivo HTML recién creado usando la clase [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document), cree una instancia de TextWatermarkOptions y configure sus propiedades, llame al método Watermark.setText y pase el texto y el objeto de la marca de agua de TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}

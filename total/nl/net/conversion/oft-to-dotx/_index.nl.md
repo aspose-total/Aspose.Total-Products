@@ -13,13 +13,13 @@ otherformats: FLATOPC JPEG PDF PCL DOCM PNG GIF OTT DOTX SVG DOC MD DOT ODT PS R
 {{< blocks/products/pf/i18n/feature-page-header h1="Exporteer OFT naar DOTX via .NET" h2=".NET API om OFT naar DOTX te renderen op Windows, macOS en Linux zonder Word of Outlook te gebruiken" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Als u een .NET-ontwikkelaar bent die OFT-naar-DOTX-conversiefuncties in uw toepassingen wilt toevoegen, zijn [Aspose.Total for .NET](https://products.aspose.com/total/net/) bestandsformaatmanipulatie-API's de juiste keuze vooruit. Door [Aspose.Cells for .NET](https://products.aspose.com/oft/net/) te gebruiken, kunt u het OFT-bestandsformaat converteren naar HTML. Daarna kunt u met [Aspose.Words for .NET](https://products.aspose.com/words/net/) HTML naar DOTX renderen.
+Als u een .NET-ontwikkelaar bent die OFT-naar-DOTX-conversiefuncties in uw toepassingen wilt toevoegen, zijn [Aspose.Total for .NET](https://products.aspose.com/total/net/) bestandsformaatmanipulatie-API's de juiste keuze vooruit. Door [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) te gebruiken, kunt u het OFT-bestandsformaat converteren naar HTML. Daarna kunt u met [Aspose.Words for .NET](https://products.aspose.com/words/net/) HTML naar DOTX renderen.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API om OFT naar DOTX te converteren" %}}
-1. Open het OFT-bestand met de klasse [MailMessage](https://apireference.aspose.com/oft/net/aspose.oft/mailmessage)
-2. Converteer OFT naar HTML met behulp van de [Save](https://apireference.aspose.com/oft/net/aspose.oft.mailmessage/save/methods/3) methode
+1. Open het OFT-bestand met de klasse [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage)
+2. Converteer OFT naar HTML met behulp van de [Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) methode
 3. Laad HTML met behulp van [Document](https://apireference.aspose.com/words/net/aspose.words/document) klasse
 4. Sla het document op in DOTX-indeling met de methode [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) en stel Dotx in als SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -47,7 +47,7 @@ document.Save("output.dotx", SaveFormat.Dotx);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="E-MAIL-bestand ontleden via .NET" %}}
-Voordat u OFT naar DOTX converteert, kunt u, als u er zeker van wilt zijn dat u de juiste e-mail converteert, het OFT-document laden, het ontleden en uw gewenste eigenschap bekijken. Door gebruik te maken van [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) klasse van [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API, kunt u informatie over afzender en ontvanger krijgen. U kunt bijvoorbeeld controleren op een specifiek e-mailadres van de afzender voor de conversie door de eigenschap [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername) te gebruiken.  
+Voordat u OFT naar DOTX converteert, kunt u, als u er zeker van wilt zijn dat u de juiste e-mail converteert, het OFT-document laden, het ontleden en uw gewenste eigenschap bekijken. Door gebruik te maken van [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) klasse van [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API, kunt u informatie over afzender en ontvanger krijgen. U kunt bijvoorbeeld controleren op een specifiek e-mailadres van de afzender voor de conversie door de eigenschap [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername) te gebruiken.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

@@ -13,13 +13,13 @@ otherformats: TIFF OTT GIF DOT DOC DOTX EPUB TEXT PS JPEG DOCX MD EMF PCL ODT DO
 {{< blocks/products/pf/i18n/feature-page-header h1=".NET을 통해 이메일을 PS로 내보내기" h2="Word 또는 Outlook을 사용하지 않고 Windows, macOS 및 Linux에서 OFT을 PS로 렌더링하는 .NET API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-애플리케이션 내부에 OFT을 PS로 변환 기능을 추가하려는 .NET 개발자라면 [Aspose.Total for .NET](https://products.aspose.com/total/net/) 파일 형식 조작 API를 사용하는 것이 좋습니다. 앞으로. [Aspose.Cells for .NET](https://products.aspose.com/oft/net/)을 사용하여 OFT 파일 형식을 HTML로 변환할 수 있습니다. 그런 다음 [Aspose.Words for .NET](https://products.aspose.com/words/net/)을 사용하여 HTML을 PS로 렌더링할 수 있습니다.
+애플리케이션 내부에 OFT을 PS로 변환 기능을 추가하려는 .NET 개발자라면 [Aspose.Total for .NET](https://products.aspose.com/total/net/) 파일 형식 조작 API를 사용하는 것이 좋습니다. 앞으로. [Aspose.Cells for .NET](https://products.aspose.com/cells/net/)을 사용하여 OFT 파일 형식을 HTML로 변환할 수 있습니다. 그런 다음 [Aspose.Words for .NET](https://products.aspose.com/words/net/)을 사용하여 HTML을 PS로 렌더링할 수 있습니다.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="OFT을 PS로 변환하는 C# API" %}}
-1. [MailMessage](https://apireference.aspose.com/oft/net/aspose.oft/mailmessage) 클래스를 사용하여 OFT 파일을 엽니다.
-2. [저장](https://apireference.aspose.com/oft/net/aspose.oft.mailmessage/save/methods/3) 방법을 사용하여 OFT을 HTML로 변환합니다.
+1. [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage) 클래스를 사용하여 OFT 파일을 엽니다.
+2. [저장](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) 방법을 사용하여 OFT을 HTML로 변환합니다.
 3. [Document](https://apireference.aspose.com/words/net/aspose.words/document) 클래스를 사용하여 HTML 로드
 4. [저장](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) 방법을 사용하여 문서를 PS 형식으로 저장하고 Ps를 SaveFormat으로 설정합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -46,7 +46,7 @@ document.Save("output.ps", SaveFormat.Ps);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2=".NET을 통해 OFT 파일 구문 분석" %}}
-OFT을 PS로 변환하기 전에 올바른 이메일을 변환하고 있는지 확인하려면 OFT 문서를 로드하고 구문 분석한 다음 원하는 속성을 살펴보세요. [Aspose.Cells for .NET](https://products.aspose.com/oft)의 [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) 클래스를 사용하여 /net/) API를 사용하여 발신자 및 수신자 정보를 얻을 수 있습니다. 예를 들어 [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername) 속성을 사용하여 변환할 특정 발신자 이메일을 확인할 수 있습니다.  
+OFT을 PS로 변환하기 전에 올바른 이메일을 변환하고 있는지 확인하려면 OFT 문서를 로드하고 구문 분석한 다음 원하는 속성을 살펴보세요. [Aspose.Cells for .NET](https://products.aspose.com/email)의 [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) 클래스를 사용하여 /net/) API를 사용하여 발신자 및 수신자 정보를 얻을 수 있습니다. 예를 들어 [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername) 속성을 사용하여 변환할 특정 발신자 이메일을 확인할 수 있습니다.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs// instantiate MapiMessage to load an OFT file from disk

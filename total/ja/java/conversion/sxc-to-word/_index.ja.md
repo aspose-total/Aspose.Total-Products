@@ -18,8 +18,8 @@ SXCをWORDにレンダリングするのは2段階のプロセスです。最初
 {{% blocks/products/pf/agp/feature-section-col title="JavaAPIを介してSXCをWORDに変換する方法" %}}
 1. [ワークブック](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)クラスを使用してSXCファイルを開きます
 2. SXCをPDFに変換し、SaveFormatをAUTOに設定します
-3. [Wordument](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Wordument)クラスを使用して変換されたPDFファイルをロードします
-4. [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Wordument#save-java.lang.String-com.aspose.pdf.SaveOptions)を使用してドキュメントをWORD形式で保存します-)メソッドとWordをSaveFormatとして設定します
+3. [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)クラスを使用して変換されたPDFファイルをロードします
+4. [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions)を使用してドキュメントをWORD形式で保存します-)メソッドとWordをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)ベースのプロジェクトから直接Aspose.TotalforJavaを使用する必要がありますそして、pom.xmlにライブラリを含めます。
@@ -32,10 +32,10 @@ SXCをWORDにレンダリングするのは2段階のプロセスです。最初
 Workbook book = new Workbook("input.sxc");
 // save SXC as PDF
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Wordument class
-Wordument wordument = new Wordument("pdfOutput.pdf");
-// save wordument in WORD format
-wordument.save("output.word", com.aspose.pdf.SaveFormat.Word);  
+// load the PDF file using Document class
+Document document = new Document("pdfOutput.pdf");
+// save document in WORD format
+document.save("output.word", com.aspose.pdf.SaveFormat.Word);  
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}

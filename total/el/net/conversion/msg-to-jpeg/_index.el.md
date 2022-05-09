@@ -13,7 +13,7 @@ otherformats: DOT DOCX DOTX RTF TEXT GIF PCL SVG DOCM WORDML EPUB TIFF PNG ODT J
 {{< blocks/products/pf/i18n/feature-page-header h1="Εξαγωγή MSG σε JPEG μέσω .NET" h2=".NET API για απόδοση MSG σε JPEG σε Windows, macOS και Linux χωρίς χρήση Word ή Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Εάν είστε προγραμματιστής .NET που θέλει να προσθέσει MSG σε δυνατότητες μετατροπής JPEG μέσα στις εφαρμογές σας, τα API χειρισμού μορφής αρχείου [Aspose.Total for .NET](https://products.aspose.com/total/net/) είναι ο τρόπος προς τα εμπρός. Χρησιμοποιώντας το [Aspose.Msg for .NET](https://products.aspose.com/msg/net/), μπορείτε να μετατρέψετε τη μορφή αρχείου MSG σε HTML. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Words για .NET](https://products.aspose.com/words/net/), μπορείτε να αποδώσετε την HTML σε JPEG.
+Εάν είστε προγραμματιστής .NET που θέλει να προσθέσει MSG σε δυνατότητες μετατροπής JPEG μέσα στις εφαρμογές σας, τα API χειρισμού μορφής αρχείου [Aspose.Total for .NET](https://products.aspose.com/total/net/) είναι ο τρόπος προς τα εμπρός. Χρησιμοποιώντας το [Aspose.Email for .NET](https://products.aspose.com/email/net/), μπορείτε να μετατρέψετε τη μορφή αρχείου MSG σε HTML. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Words για .NET](https://products.aspose.com/words/net/), μπορείτε να αποδώσετε την HTML σε JPEG.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.jpeg", SaveFormat.Jpeg);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ανάλυση αρχείου MSG μέσω .NET" %}}
-Πριν μετατρέψετε το MSG σε JPEG, εάν θέλετε να βεβαιωθείτε ότι μετατρέπετε το σωστό msg, μπορείτε να φορτώσετε το έγγραφο MSG, να το αναλύσετε και να ρίξετε μια ματιά στην επιθυμητή ιδιότητα. Χρησιμοποιώντας την κλάση [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) του [Aspose.Msg for .NET](https://products.aspose.com/msg /net/) API, μπορείτε να λάβετε πληροφορίες αποστολέα και παραληπτών. Για παράδειγμα, μπορείτε να ελέγξετε για ένα συγκεκριμένο μήνυμα ηλεκτρονικού ταχυδρομείου αποστολέα για τη μετατροπή χρησιμοποιώντας την ιδιότητα [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername).  
+Πριν μετατρέψετε το MSG σε JPEG, εάν θέλετε να βεβαιωθείτε ότι μετατρέπετε το σωστό msg, μπορείτε να φορτώσετε το έγγραφο MSG, να το αναλύσετε και να ρίξετε μια ματιά στην επιθυμητή ιδιότητα. Χρησιμοποιώντας την κλάση [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) του [Aspose.Email for .NET](https://products.aspose.com/msg /net/) API, μπορείτε να λάβετε πληροφορίες αποστολέα και παραληπτών. Για παράδειγμα, μπορείτε να ελέγξετε για ένα συγκεκριμένο μήνυμα ηλεκτρονικού ταχυδρομείου αποστολέα για τη μετατροπή χρησιμοποιώντας την ιδιότητα [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

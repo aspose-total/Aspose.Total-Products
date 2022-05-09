@@ -35,7 +35,7 @@ WORD에서 PPTX로 파일 변환을 위해 [Maven](https://repository.aspose.com
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="변환 요구 사항" %}}Document
-API를 사용하면 암호로 보호된 WORD 문서를 PPTX로 변환할 수도 있습니다. 입력한 WORD 문서가 비밀번호로 보호되어 있는 경우 비밀번호를 사용하지 않고는 PPTX 형식으로 변환할 수 없습니다. 암호화된 문서를 열려면 LoadOptions 개체에 올바른 암호를 설정하고 이를 Wordument 생성자에 전달할 수 있습니다.  
+API를 사용하면 암호로 보호된 WORD 문서를 PPTX로 변환할 수도 있습니다. 입력한 WORD 문서가 비밀번호로 보호되어 있는 경우 비밀번호를 사용하지 않고는 PPTX 형식으로 변환할 수 없습니다. 암호화된 문서를 열려면 LoadOptions 개체에 올바른 암호를 설정하고 이를 Document 생성자에 전달할 수 있습니다.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-word-to-pptx.java" >}}

@@ -19,7 +19,7 @@ otherformats: POTX PPS XAML SWF POTM POT PPT PPSM PPTM POWERPOINT OTP PPSX
 1.使用[Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)类打开EPUB文件
 2. 使用 [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-) 方法将 EPUB 转换为 PPTX
 3.使用[Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)类加载PPTX文档
-4. 使用 [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) 方法将文档保存为 POWERPOINT 格式并设置 ` Powerpoint` 作为 SaveFormat
+4. 使用 [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) 方法将文档保存为 POWERPOINT 格式并设置 `Powerpoint` 作为 SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
 从您可以直接从基于 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) 的项目轻松地使用 Aspose.Total for Java 并在您的 pom.xml 中包含库。。

@@ -19,7 +19,7 @@ otherformats: WORD RTF OTT DOTX DOCM DOT FLATOPC DOC PCL EPUB PS MOBI WORDML ODT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="แปลงรูปแบบ JSON เป็น EPUB ผ่าน C#" %}}
 1. สร้าง [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) วัตถุใหม่และอ่านข้อมูล JSON ที่ถูกต้องจากไฟล์
-2. นำเข้าไฟล์ JSON ไปยังเวิร์กชีตโดยใช้คลาส [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) และ [Save](https://apireference.aspose.com/ cells/net/aspose.cells.workbook/save/methods/4) เป็น PDF
+2. นำเข้าไฟล์ JSON ไปยังเวิร์กชีตโดยใช้คลาส [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) และ [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) เป็น PDF
 3. โหลดเอกสาร PDF โดยใช้คลาส [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 4. บันทึกเอกสารในรูปแบบ EPUB โดยใช้วิธี [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -16,14 +16,14 @@ Oft müssen Entwickler ODT-Dateien programmgesteuert in POTM konvertieren. Durch
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="So konvertieren Sie ODT über Java in POTM" %}}
-1. Öffnen Sie die ODT-Datei mit der Klasse [Odtument](https://apireference.aspose.com/words/java/com.aspose.words/Odtument).
-2. Konvertieren Sie die ODT-Datei in HTML, indem Sie [save](https://apireference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String,com.aspose.words.SaveOptions)) Methode
+1. Öffnen Sie die ODT-Datei mit der Klasse [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document).
+2. Konvertieren Sie die ODT-Datei in HTML, indem Sie [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) Methode
 3. Initialisieren Sie ein neues [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)-Objekt
 5. Extrahieren Sie den Inhalt aus der HTML-Datei mit BufferedReader und schreiben Sie den Inhalt in Ihre Präsentationsdatei
 6. Speichern Sie das Dokument mit der Methode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) im POTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
-Für die Konvertierung von ODT- in POTM-Dateien können Sie Aspose.Total für Java direkt von einem [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total)-basiertes Projekt und fügen Sie Bibliotheken in Ihre pom.xml ein.
+Für die Konvertierung von ODT- in POTM-Dateien können Sie Aspose.Total für Java direkt von einem [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)-basiertes Projekt und fügen Sie Bibliotheken in Ihre pom.xml ein.
 
 Alternativ können Sie eine ZIP-Datei von [downloads](https://downloads.aspose.com/total/java) herunterladen.
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -35,7 +35,7 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://downloads.aspose.c
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Konvertierungsanforderungen" %}}
-Mit der API können Sie auch passwortgeschützte ODT-Dokumente in POTM konvertieren. Wenn Ihr eingegebenes ODT-Dokument kennwortgeschützt ist, können Sie es ohne Verwendung des Kennworts nicht in das POTM-Format konvertieren. Um ein verschlüsseltes Dokument zu öffnen, können Sie das richtige Passwort im LoadOptions-Objekt setzen und es an den Odtument-Konstruktor übergeben.  
+Mit der API können Sie auch passwortgeschützte ODT-Dokumente in POTM konvertieren. Wenn Ihr eingegebenes ODT-Dokument kennwortgeschützt ist, können Sie es ohne Verwendung des Kennworts nicht in das POTM-Format konvertieren. Um ein verschlüsseltes Dokument zu öffnen, können Sie das richtige Passwort im LoadOptions-Objekt setzen und es an den Document-Konstruktor übergeben.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-odt-to-pptx-with-watermark.java" >}}

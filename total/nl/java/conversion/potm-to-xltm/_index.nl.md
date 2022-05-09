@@ -19,7 +19,7 @@ U kunt het POTM-bestand in twee stappen converteren naar XLTM via [Aspose.Total 
 1. Open het POTM-bestand met de klasse [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Converteer POTM naar HTML met behulp van [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) methode
 3. Laad HTML-document met behulp van [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) klasse
-4. Sla het document op in XLTM-indeling met [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. SaveOptions)) methode
+4. Sla het document op in XLTM-indeling met [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) methode
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
 Om POTM naar XLTM te converteren, kunt u Aspose.Total voor Java eenvoudig rechtstreeks vanuit een [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) gebaseerd project en neem bibliotheken op in uw pom.xml.

@@ -17,7 +17,7 @@ otherformats: EPUB RTF DOTX WORDML DOCM OTT ODT PCL DOC FLATOPC PS MOBI DOT WORD
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="تحويل تنسيق JSON إلى DOCM عبر Java" %}}
 1. أنشئ كائنًا [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) جديدًا واقرأ بيانات JSON الصالحة من الملف
-2. استيراد ملف JSON إلى ورقة العمل باستخدام فئة [JsonUtility](https://apireference.aspose.com/cells/java/com.aspose.cells/JsonUtility) و [Save](https://apireference.aspose.com/ cell/java/com.aspose.cells/workbook # save (java.lang.String،٪ 20com.aspose.cells.SaveOptions)) كملف PDF
+2. استيراد ملف JSON إلى ورقة العمل باستخدام فئة [JsonUtility](https://apireference.aspose.com/cells/java/com.aspose.cells/JsonUtility) و [Save](https://apireference.aspose.com/ cell/java/com.aspose.cells/workbook # save (java.lang.String،٪20com.aspose.cells.SaveOptions)) كملف PDF
 3. قم بتحميل مستند PDF باستخدام فئة [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. احفظ المستند بتنسيق DOCM باستخدام [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String.com.aspose.words.SaveOptions)) طريقة
 {{% /blocks/products/pf/agp/feature-section-col %}}

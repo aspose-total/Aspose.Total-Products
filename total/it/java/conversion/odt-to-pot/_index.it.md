@@ -16,14 +16,14 @@ Spesso gli sviluppatori devono convertire i file ODT in POT a livello di codice.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Come convertire ODT in POT tramite Java" %}}
-1. Aprire il file ODT utilizzando la classe [Odtument](https://apiference.aspose.com/words/java/com.aspose.words/Odtument)
-2. Converti file ODT in HTML utilizzando [save](https://apiference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String,com.aspose.words.SaveOptions)) metodo
+1. Aprire il file ODT utilizzando la classe [Document](https://apiference.aspose.com/words/java/com.aspose.words/Document)
+2. Converti file ODT in HTML utilizzando [save](https://apiference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metodo
 3. Inizializzare un nuovo oggetto [Presentation](https://apiference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Estrarre il contenuto dal file HTML utilizzando BufferedReader e scrivere il contenuto nel file di presentazione
-6. Salvare il odtumento in POT utilizzando il metodo [save](https://apiference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. Salvare il documento in POT utilizzando il metodo [save](https://apiference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
-Per la conversione di file da ODT a POT, puoi facilmente utilizzare Aspose.Total per Java direttamente da un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) e includi le librerie nel tuo pom.xml.
+Per la conversione di file da ODT a POT, puoi facilmente utilizzare Aspose.Total per Java direttamente da un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e includi le librerie nel tuo pom.xml.
 
 In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -35,7 +35,7 @@ In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspos
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisiti di conversione" %}}
-L'API consente inoltre di convertire odtumenti ODT protetti da password in POT. Se il odtumento ODT di input è protetto da password, non è possibile convertirlo in formato POT senza utilizzare la password. Per aprire un odtumento crittografato è possibile impostare la password corretta nell'oggetto LoadOptions e passarla al costruttore del odtumento.  
+L'API consente inoltre di convertire documenti ODT protetti da password in POT. Se il documento ODT di input è protetto da password, non è possibile convertirlo in formato POT senza utilizzare la password. Per aprire un documento crittografato è possibile impostare la password corretta nell'oggetto LoadOptions e passarla al costruttore del documento.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-odt-to-pptx-with-watermark.java" >}}

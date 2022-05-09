@@ -12,14 +12,14 @@ otherformats: ODT TEXT RTF DOTX PNG GIF SVG EMF EPUB DOCX DOC PS PCL WORDML MD T
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="API de Java para renderizar EML a DOCM" h2="Exporte CORREO ELECTRÓNICO a DOCM mediante el uso de la API de Java en las instalaciones sin utilizar dependencias de terceros" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-La conversión de correo electrónico es una característica poderosa que los desarrolladores de Java pueden integrar en cualquier aplicación Java J2SE, J2EE, J2ME a través de [Aspose.Total para Java](https://products.aspose.com/total/java/). Mediante el uso de dos API dentro del paquete, puede convertir correo electrónico EML a DOCM sin dependencias de terceros. En primer lugar, puede utilizar la API de manipulación de correo electrónico [Aspose.Eml for Java](https://products.aspose.com/eml/java/) para convertir el formato de archivo de correo electrónico a HTML. En segundo lugar, puede convertir HTML a DOCM mediante la API de procesamiento de documentos [Aspose.Words for Java](https://products.aspose.com/words/java/).
+La conversión de correo electrónico es una característica poderosa que los desarrolladores de Java pueden integrar en cualquier aplicación Java J2SE, J2EE, J2ME a través de [Aspose.Total para Java](https://products.aspose.com/total/java/). Mediante el uso de dos API dentro del paquete, puede convertir correo electrónico EML a DOCM sin dependencias de terceros. En primer lugar, puede utilizar la API de manipulación de correo electrónico [Aspose.Email for Java](https://products.aspose.com/email/java/) para convertir el formato de archivo de correo electrónico a HTML. En segundo lugar, puede convertir HTML a DOCM mediante la API de procesamiento de documentos [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir correo electrónico a DOCM" %}}
 1. Abra el archivo EML usando la clase [MailMessage](https://apireference.aspose.com/eml/java/com.aspose.eml/mailmessage)
 2. Convierta CORREO ELECTRÓNICO a HTML usando [guardar](https://apireference.aspose.com/eml/java/com.aspose.eml/MailMessage#save(java.io.OutputStream,%20com.aspose.eml.SaveOptions)) método
 3. Cargue HTML usando la clase [Documento](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Guarde el documento en formato DOCM utilizando [guardar](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) método y establecer DOCM como SaveFormat
+4. Guarde el documento en formato DOCM utilizando [guardar](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) método y establecer DOCM como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
 Debe usar Aspose.Total para Java directamente desde un proyecto basado en [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e incluya bibliotecas en su pom.xml.

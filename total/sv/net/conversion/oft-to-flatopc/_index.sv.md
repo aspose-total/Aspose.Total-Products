@@ -13,13 +13,13 @@ otherformats: JPEG MD DOCX RTF PCL TIFF DOT PS PNG EMF DOTM OTT GIF PDF TEXT DOC
 {{< blocks/products/pf/i18n/feature-page-header h1="Exportera OFT till FLATOPC via .NET" h2=".NET API för att rendera OFT till FLATOPC på Windows, macOS och Linux utan att använda Word eller Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Om du är en .NET-utvecklare som vill lägga till OFT till FLATOPC-konverteringsfunktioner i dina applikationer, är [Aspose.Total for .NET](https://products.aspose.com/total/net/) API:er för filformatsmanipulation vägen fram. Genom att använda [Aspose.Cells for .NET](https://products.aspose.com/oft/net/), kan du konvertera OFT-filformat till HTML. Efter det, genom att använda [Aspose.Words for .NET](https://products.aspose.com/words/net/), kan du rendera HTML till FLATOPC.
+Om du är en .NET-utvecklare som vill lägga till OFT till FLATOPC-konverteringsfunktioner i dina applikationer, är [Aspose.Total for .NET](https://products.aspose.com/total/net/) API:er för filformatsmanipulation vägen fram. Genom att använda [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), kan du konvertera OFT-filformat till HTML. Efter det, genom att använda [Aspose.Words for .NET](https://products.aspose.com/words/net/), kan du rendera HTML till FLATOPC.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API för att konvertera OFT till FLATOPC" %}}
-1. Öppna OFT-filen med klassen [MailMessage](https://apireference.aspose.com/oft/net/aspose.oft/mailmessage)
-2. Konvertera OFT till HTML med metoden [Save](https://apireference.aspose.com/oft/net/aspose.oft.mailmessage/save/methods/3)
+1. Öppna OFT-filen med klassen [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage)
+2. Konvertera OFT till HTML med metoden [Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
 3. Ladda HTML genom att använda klassen [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 4. Spara dokumentet i FLATOPC-format med metoden [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) och ställ in Flatopc som SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -47,7 +47,7 @@ document.Save("output.flatopc", SaveFormat.FlatOpc);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analysera OFT-fil via .NET" %}}
-Innan du konverterar OFT till FLATOPC, om du vill vara säker på att du konverterar rätt e-post, kan du ladda OFT-dokumentet, analysera det och ta en titt på din önskade egenskap. Genom att använda [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) klass av [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API kan du få information om avsändare och mottagare. Du kan till exempel söka efter en specifik avsändar-e-post för konverteringen genom att använda egenskapen [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
+Innan du konverterar OFT till FLATOPC, om du vill vara säker på att du konverterar rätt e-post, kan du ladda OFT-dokumentet, analysera det och ta en titt på din önskade egenskap. Genom att använda [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) klass av [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API kan du få information om avsändare och mottagare. Du kan till exempel söka efter en specifik avsändar-e-post för konverteringen genom att använda egenskapen [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

@@ -12,7 +12,7 @@ otherformats: PNG DOCM MD ODT OTT DOCX XPS DOTX SVG JPEG EMF PS PDF EPUB WORDML 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="EMLをEPUBにレンダリングするJavaAPI" h2="サードパーティの依存関係を使用せずに、オンプレミスのJavaAPIを使用してEMLをEPUBにエクスポートします" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-電子メール変換は、Java開発者が[Aspose.Total for Java](https://products.aspose.com/total/java/)を介してJava J2SE、J2EE、J2MEアプリケーションに統合できる強力な機能です。パッケージ内で2つのAPIを使用することにより、サードパーティの依存関係なしに電子メールEMLをEPUBに変換できます。まず、Eml Manipulation API [Aspose.Eml for Java](https://products.aspose.com/eml/java/)を使用して、EMLファイル形式をHTMLに変換できます。次に、Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/)を使用してHTMLをEPUBにレンダリングできます。
+電子メール変換は、Java開発者が[Aspose.Total for Java](https://products.aspose.com/total/java/)を介してJava J2SE、J2EE、J2MEアプリケーションに統合できる強力な機能です。パッケージ内で2つのAPIを使用することにより、サードパーティの依存関係なしに電子メールEMLをEPUBに変換できます。まず、Eml Manipulation API [Aspose.Email for Java](https://products.aspose.com/email/java/)を使用して、EMLファイル形式をHTMLに変換できます。次に、Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/)を使用してHTMLをEPUBにレンダリングできます。
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="メールをEPUBに変換する方法" %}}

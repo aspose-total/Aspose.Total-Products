@@ -13,7 +13,7 @@ otherformats: DOTX JPEG PCL OTT SVG PS ODT DOCX DOT DOCM EPUB XPS WORDML PNG MD 
 {{< blocks/products/pf/i18n/feature-page-header h1="Exportujte MSG do EMF přes .NET" h2=".NET API pro vykreslení MSG do EMF na Windows, macOS a Linux bez použití Wordu nebo Outlooku" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Pokud jste vývojář .NET, který chce přidat MSG do funkcí převodu EMF ve svých aplikacích, [Aspose.Total for .NET](https://products.aspose.com/total/net/) API pro manipulaci s formátem souborů jsou tím způsobem vpřed. Pomocí [Aspose.Msg for .NET](https://products.aspose.com/msg/net/) můžete převést formát souboru MSG do HTML. Poté můžete pomocí [Aspose.Words for .NET](https://products.aspose.com/words/net/) vykreslit HTML do EMF.
+Pokud jste vývojář .NET, který chce přidat MSG do funkcí převodu EMF ve svých aplikacích, [Aspose.Total for .NET](https://products.aspose.com/total/net/) API pro manipulaci s formátem souborů jsou tím způsobem vpřed. Pomocí [Aspose.Email for .NET](https://products.aspose.com/email/net/) můžete převést formát souboru MSG do HTML. Poté můžete pomocí [Aspose.Words for .NET](https://products.aspose.com/words/net/) vykreslit HTML do EMF.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.emf", SaveFormat.Emf);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analyzujte soubor MSG přes .NET" %}}
-Před převodem MSG na EMF, pokud se chcete ujistit, že převádíte správný e-mail, můžete načíst dokument MSG, analyzovat jej a podívat se na požadovanou vlastnost. Pomocí třídy [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) třídy [Aspose.Msg for .NET](https://products.aspose.com/msg /net/) API, můžete získat informace o odesílateli a příjemcích. Můžete například zkontrolovat e-mail konkrétního odesílatele pro konverzi pomocí vlastnosti [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername).  
+Před převodem MSG na EMF, pokud se chcete ujistit, že převádíte správný e-mail, můžete načíst dokument MSG, analyzovat jej a podívat se na požadovanou vlastnost. Pomocí třídy [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) třídy [Aspose.Email for .NET](https://products.aspose.com/msg /net/) API, můžete získat informace o odesílateli a příjemcích. Můžete například zkontrolovat e-mail konkrétního odesílatele pro konverzi pomocí vlastnosti [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

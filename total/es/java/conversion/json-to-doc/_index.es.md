@@ -19,7 +19,7 @@ Al usar [Aspose.Total for Java](https://products.aspose.com/total/java/) puede c
 1. Cree un nuevo objeto [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) y lea los datos JSON válidos del archivo.
 2. Importe el archivo JSON a la hoja de trabajo usando la clase [JsonUtility](https://apireference.aspose.com/cells/java/com.aspose.cells/JsonUtility) y [save](https://apireference.aspose.com/ cell/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) como PDF
 3. Cargue el documento PDF usando la clase [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Guarde el documento en formato DOC mediante [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) método
+4. Guarde el documento en formato DOC mediante [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
 Puede usar fácilmente Aspose.Total para Java directamente desde un proyecto basado en [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e incluya bibliotecas en su pom.xml.

@@ -12,12 +12,12 @@ otherformats: TIFF EPUB GIF DOC EMF OTT PS PCL MD DOCX PDF DOTX XPS PNG FLATOPC 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API az OFT rendereléséhez BMP-be" h2="Exportálja az OFT e-mail-címet BMP-be a helyszíni Java API használatával, harmadik féltől származó függőségek használata nélkül" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Az e-mail konvertálás egy hatékony funkció, amelyet a Java fejlesztők integrálhatnak bármely Java J2SE, J2EE, J2ME alkalmazásba az [Aspose.Total for Java](https://products.aspose.com/total/java/). A csomagon belüli két API használatával az OFT e-mail címet BMP-vé alakíthatja harmadik féltől való függőség nélkül. Először is használhatja az Oft Manipulation API-t [Aspose.Oft for Java](https://products.aspose.com/oft/java/) az OFT fájlformátum HTML-lé alakításához. Másodszor, a HTML-t BMP-be renderelheti a Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) használatával.
+Az e-mail konvertálás egy hatékony funkció, amelyet a Java fejlesztők integrálhatnak bármely Java J2SE, J2EE, J2ME alkalmazásba az [Aspose.Total for Java](https://products.aspose.com/total/java/). A csomagon belüli két API használatával az OFT e-mail címet BMP-vé alakíthatja harmadik féltől való függőség nélkül. Először is használhatja az Oft Manipulation API-t [Aspose.Oft for Java](https://products.aspose.com/email/java/) az OFT fájlformátum HTML-lé alakításához. Másodszor, a HTML-t BMP-be renderelheti a Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) használatával.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hogyan lehet az OFT-t BMP-vé konvertálni" %}}
-1. Nyissa meg az OFT fájlt a [MailMessage](https://apireference.aspose.com/oft/java/com.aspose.oft/mailmessage) osztály használatával
-2. Alakítsa át az OFT e-mail-címet HTML-vé a [save](https://apireference.aspose.com/oft/java/com.aspose.oft/MailMessage#save(java.io.OutputStream,%20com.aspose.oft.SaveOptions) segítségével)) módszer
+1. Nyissa meg az OFT fájlt a [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage) osztály használatával
+2. Alakítsa át az OFT e-mail-címet HTML-vé a [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions) segítségével)) módszer
 3. Töltse be a HTML-t a [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) osztály használatával
 4. Mentse a dokumentumot BMP formátumba a [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) segítségével)) metódust, és állítsa be a BMP-t SaveFormat-ként
 {{% /blocks/products/pf/agp/feature-section-col %}}

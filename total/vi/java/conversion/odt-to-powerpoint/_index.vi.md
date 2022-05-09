@@ -16,8 +16,8 @@ Thông thường, các nhà phát triển phải chuyển đổi tệp ODT sang 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cách chuyển ODT sang POWERPOINT qua Java" %}}
-1. Mở tệp ODT bằng lớp [Odtument](https://apireference.aspose.com/words/java/com.aspose.words/Odtument)
-2. Chuyển đổi tệp ODT sang HTML bằng cách sử dụng [save](https://apireference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String, com.aspose.words.SaveOptions)) phương pháp
+1. Mở tệp ODT bằng lớp [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
+2. Chuyển đổi tệp ODT sang HTML bằng cách sử dụng [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String, com.aspose.words.SaveOptions)) phương pháp
 3. Khởi tạo đối tượng [Bản trình bày](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) mới
 5. Trích xuất nội dung từ tệp HTML bằng BufferedReader và ghi nội dung vào tệp bản trình bày của bạn
 6. Lưu tài liệu vào POWERPOINT bằng phương thức [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

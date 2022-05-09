@@ -12,12 +12,12 @@ otherformats: PS DOCM EPUB DOC TEXT JPEG GIF RTF MD DOTX ODT TIFF OTT PNG PDF WO
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="API Java để hiển thị OFT thành DOCM" h2="Xuất OFT sang DOCM bằng cách sử dụng API Java tiền đề mà không sử dụng bất kỳ phụ thuộc nào của bên thứ ba" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Chuyển đổi oft là một tính năng mạnh mẽ mà các nhà phát triển Java có thể tích hợp trong bất kỳ ứng dụng Java J2SE, J2EE, J2ME nào thông qua [Aspose.Total for Java](https://products.aspose.com/total/java/). Bằng cách sử dụng hai API trong gói, bạn có thể chuyển đổi Oft OFT thành DOCM mà không cần bất kỳ phụ thuộc nào của bên thứ ba. Trước tiên, bạn có thể sử dụng API thao tác oft [Aspose.Oft for Java](https://products.aspose.com/oft/java/) để chuyển đổi định dạng tệp OFT sang HTML. Thứ hai, bạn có thể kết xuất HTML thành DOCM bằng cách sử dụng API xử lý tài liệu [Aspose.Words for Java](https://products.aspose.com/words/java/).
+Chuyển đổi oft là một tính năng mạnh mẽ mà các nhà phát triển Java có thể tích hợp trong bất kỳ ứng dụng Java J2SE, J2EE, J2ME nào thông qua [Aspose.Total for Java](https://products.aspose.com/total/java/). Bằng cách sử dụng hai API trong gói, bạn có thể chuyển đổi Oft OFT thành DOCM mà không cần bất kỳ phụ thuộc nào của bên thứ ba. Trước tiên, bạn có thể sử dụng API thao tác oft [Aspose.Oft for Java](https://products.aspose.com/email/java/) để chuyển đổi định dạng tệp OFT sang HTML. Thứ hai, bạn có thể kết xuất HTML thành DOCM bằng cách sử dụng API xử lý tài liệu [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cách chuyển đổi OFT thành DOCM" %}}
-1. Mở tệp OFT bằng lớp [MailMessage](https://apireference.aspose.com/oft/java/com.aspose.oft/mailmessage)
-2. Chuyển đổi OFT sang HTML bằng cách sử dụng [save](https://apireference.aspose.com/oft/java/com.aspose.oft/MailMessage#save (java.io.OutputStream,%20com.aspose.oft.SaveOptions)) phương pháp
+1. Mở tệp OFT bằng lớp [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Chuyển đổi OFT sang HTML bằng cách sử dụng [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save (java.io.OutputStream,%20com.aspose.email.SaveOptions)) phương pháp
 3. Tải HTML bằng cách sử dụng lớp [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. Lưu tài liệu sang định dạng DOCM bằng cách sử dụng [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save (java.lang.String, com.aspose.words.SaveOptions)) và đặt DOCM làm SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

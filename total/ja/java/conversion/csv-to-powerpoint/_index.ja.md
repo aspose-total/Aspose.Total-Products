@@ -18,8 +18,8 @@ CSVをPOWERPOINTにレンダリングするのは2段階のプロセスです。
 {{% blocks/products/pf/agp/feature-section-col title="JavaAPIを介してCSVをPOWERPOINTに変換する方法" %}}
 1. [ワークブック](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)クラスを使用してCSVファイルを開きます
 2. CSVをPDFに変換し、SaveFormatをAUTOに設定します
-3. [Powerpointument](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Powerpointument)クラスを使用して変換されたPDFファイルをロードします
-4. [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Powerpointument#save-java.lang.String-com.aspose.pdf.SaveOptions)を使用してドキュメントをPOWERPOINT形式で保存します-)メソッドとPowerpointをSaveFormatとして設定します
+3. [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)クラスを使用して変換されたPDFファイルをロードします
+4. [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions)を使用してドキュメントをPOWERPOINT形式で保存します-)メソッドとPowerpointをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)ベースのプロジェクトから直接Aspose.TotalforJavaを使用する必要がありますそして、pom.xmlにライブラリを含めます。
@@ -32,10 +32,10 @@ CSVをPOWERPOINTにレンダリングするのは2段階のプロセスです。
 Workbook book = new Workbook("input.csv");
 // save CSV as PDF
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Powerpointument class
-Powerpointument powerpointument = new Powerpointument("pdfOutput.pdf");
-// save powerpointument in PPTX format
-powerpointument.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);  
+// load the PDF file using Document class
+Document document = new Document("pdfOutput.pdf");
+// save document in PPTX format
+document.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);  
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}

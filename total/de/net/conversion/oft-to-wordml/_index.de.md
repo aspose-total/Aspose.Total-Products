@@ -13,13 +13,13 @@ otherformats: DOT PNG DOTM ODT MD RTF DOC FLATOPC PCL GIF WORDML TEXT DOTX TIFF 
 {{< blocks/products/pf/i18n/feature-page-header h1="Exportieren Sie E-MAIL über .NET nach WORDML" h2=".NET-API zum Rendern von E-MAIL in WORDML unter Windows, macOS und Linux, ohne Word oder Outlook zu verwenden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Wenn Sie ein .NET-Entwickler sind, der E-MAIL-zu-WORDML-Konvertierungsfunktionen in Ihren Anwendungen hinzufügen möchte, sind [Aspose.Total for .NET](https://products.aspose.com/total/net/)-APIs zur Dateiformatmanipulation der richtige Weg nach vorne. Durch die Verwendung von [Aspose.Cells for .NET](https://products.aspose.com/oft/net/) können Sie das OFT-Dateiformat in HTML konvertieren. Danach können Sie mit [Aspose.Words for .NET](https://products.aspose.com/words/net/) HTML in WORDML rendern.
+Wenn Sie ein .NET-Entwickler sind, der E-MAIL-zu-WORDML-Konvertierungsfunktionen in Ihren Anwendungen hinzufügen möchte, sind [Aspose.Total for .NET](https://products.aspose.com/total/net/)-APIs zur Dateiformatmanipulation der richtige Weg nach vorne. Durch die Verwendung von [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) können Sie das OFT-Dateiformat in HTML konvertieren. Danach können Sie mit [Aspose.Words for .NET](https://products.aspose.com/words/net/) HTML in WORDML rendern.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C#-API zum Konvertieren von E-MAIL in WORDML" %}}
-1. Öffnen Sie die OFT-Datei mit der Klasse [MailMessage](https://apireference.aspose.com/oft/net/aspose.oft/mailmessage).
-2. Konvertieren Sie OFT in HTML mit der Methode [Save](https://apireference.aspose.com/oft/net/aspose.oft.mailmessage/save/methods/3).
+1. Öffnen Sie die OFT-Datei mit der Klasse [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage).
+2. Konvertieren Sie OFT in HTML mit der Methode [Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3).
 3. Laden Sie HTML mithilfe der Klasse [Document](https://apireference.aspose.com/words/net/aspose.words/document).
 4. Speichern Sie das Dokument im WORDML-Format mit der Methode [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) und legen Sie Wordml als SaveFormat fest
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -47,7 +47,7 @@ document.Save("output.wordml", SaveFormat.WordML);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analysieren Sie die E-MAIL-Datei über .NET" %}}
-Wenn Sie vor der Konvertierung von OFT in WORDML sicherstellen möchten, dass Sie die richtige E-Mail konvertieren, können Sie das OFT-Dokument laden, analysieren und sich die gewünschte Eigenschaft ansehen. Durch die Verwendung der Klasse [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) von [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API können Sie Absender- und Empfängerinformationen abrufen. Beispielsweise können Sie mithilfe der Eigenschaft [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername) nach einer bestimmten Absender-E-Mail-Adresse für die Konvertierung suchen.  
+Wenn Sie vor der Konvertierung von OFT in WORDML sicherstellen möchten, dass Sie die richtige E-Mail konvertieren, können Sie das OFT-Dokument laden, analysieren und sich die gewünschte Eigenschaft ansehen. Durch die Verwendung der Klasse [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) von [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API können Sie Absender- und Empfängerinformationen abrufen. Beispielsweise können Sie mithilfe der Eigenschaft [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername) nach einer bestimmten Absender-E-Mail-Adresse für die Konvertierung suchen.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -63,7 +63,7 @@ if(outlookMessageFile.SenderName == "John"){
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Beschränken Sie die Bearbeitung von WORDML-Dokumenten über .NET" %}}
-Beim Speichern des Dokuments von OFT in WORDML müssen Sie möglicherweise Ihr Ausgabedokument schützen. Manchmal müssen Sie möglicherweise die Möglichkeit zum Bearbeiten eines Dokuments einschränken und nur bestimmte Aktionen damit zulassen. Dies kann nützlich sein, um zu verhindern, dass andere Personen sensible und vertrauliche Informationen in Ihrem Dokument bearbeiten. [Aspose.Words for .NET](https://products.aspose.com/words/net/) API, ermöglicht es Ihnen, die Art und Weise zu steuern, wie Sie den Inhalt mit [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype) Enumerationsparameter. Sie können Ihr Dokument mit den folgenden Codezeilen schreibgeschützt machen. 
+Beim Speichern des Document von OFT in WORDML müssen Sie möglicherweise Ihr Ausgabedokument schützen. Manchmal müssen Sie möglicherweise die Möglichkeit zum Bearbeiten eines Document einschränken und nur bestimmte Aktionen damit zulassen. Dies kann nützlich sein, um zu verhindern, dass andere Personen sensible und vertrauliche Informationen in Ihrem Dokument bearbeiten. [Aspose.Words for .NET](https://products.aspose.com/words/net/) API, ermöglicht es Ihnen, die Art und Weise zu steuern, wie Sie den Inhalt mit [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype) Enumerationsparameter. Sie können Ihr Dokument mit den folgenden Codezeilen schreibgeschützt machen. 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

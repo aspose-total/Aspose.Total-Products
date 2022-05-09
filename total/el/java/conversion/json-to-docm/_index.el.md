@@ -17,7 +17,7 @@ otherformats: EPUB RTF DOTX WORDML DOCM OTT ODT PCL DOC FLATOPC PS MOBI DOT WORD
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Μετατροπή μορφής JSON σε DOCM μέσω Java" %}}
 1. Δημιουργήστε ένα νέο αντικείμενο [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) και διαβάστε έγκυρα δεδομένα JSON από το αρχείο
-2. Εισαγάγετε αρχείο JSON στο φύλλο εργασίας χρησιμοποιώντας την κλάση [JsonUtility](https://apireference.aspose.com/cells/java/com.aspose.cells/JsonUtility) και το [Save](https://apireference.aspose.com/ cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) είναι PDF
+2. Εισαγάγετε αρχείο JSON στο φύλλο εργασίας χρησιμοποιώντας την κλάση [JsonUtility](https://apireference.aspose.com/cells/java/com.aspose.cells/JsonUtility) και το [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) είναι PDF
 3. Φορτώστε το έγγραφο PDF χρησιμοποιώντας την τάξη [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. Αποθηκεύστε το έγγραφο σε μορφή DOCM χρησιμοποιώντας [Αποθήκευση](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) μέθοδος
 {{% /blocks/products/pf/agp/feature-section-col %}}

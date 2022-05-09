@@ -17,7 +17,7 @@ otherformats: PCL FLATOPC PS GIF RTF EPUB TIFF SVG PNG DOT ODT PDF EMF XPS DOTM 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل البريد الإلكتروني إلى TIFF" %}}
 1. افتح ملف EMAIL باستخدام فئة [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)
-2. تحويل EMAIL إلى HTML باستخدام [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save (java.io.OutputStream،٪ 20com.aspose.email.SaveOptions)) طريقة
+2. تحويل EMAIL إلى HTML باستخدام [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save (java.io.OutputStream،٪20com.aspose.email.SaveOptions)) طريقة
 3. قم بتحميل HTML باستخدام فئة [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. احفظ المستند بتنسيق TIFF باستخدام [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save (java.lang.String، com.aspose.words.SaveOptions)) وضبط TIFF على أنه SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

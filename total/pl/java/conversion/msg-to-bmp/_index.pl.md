@@ -12,14 +12,14 @@ otherformats: PCL ODT GIF TIFF PNG EPUB DOC OTT DOCM WORDML DOTM PS DOT DOTX SVG
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API do renderowania e-maili do BMP" h2="Eksportuj MSG do BMP za pomocą lokalnego interfejsu API Java bez korzystania z zależności innych firm" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Konwersja wiadomości e-mail to potężna funkcja, którą programiści Java mogą zintegrować z dowolnymi aplikacjami Java J2SE, J2EE, J2ME za pośrednictwem [Aspose.Total for Java](https://products.aspose.com/total/java/). Korzystając z dwóch interfejsów API w pakiecie, możesz przekonwertować e-mail MSG na BMP bez żadnych zależności od stron trzecich. Po pierwsze, możesz użyć interfejsu Msg Manipulation API [Aspose.Msg for Java](https://products.aspose.com/msg/java/), aby przekonwertować format pliku MSG na HTML. Po drugie, możesz renderować HTML do BMP za pomocą interfejsu API przetwarzania dokumentów [Aspose.Words for Java](https://products.aspose.com/words/java/).
+Konwersja wiadomości e-mail to potężna funkcja, którą programiści Java mogą zintegrować z dowolnymi aplikacjami Java J2SE, J2EE, J2ME za pośrednictwem [Aspose.Total for Java](https://products.aspose.com/total/java/). Korzystając z dwóch interfejsów API w pakiecie, możesz przekonwertować e-mail MSG na BMP bez żadnych zależności od stron trzecich. Po pierwsze, możesz użyć interfejsu Msg Manipulation API [Aspose.Email for Java](https://products.aspose.com/email/java/), aby przekonwertować format pliku MSG na HTML. Po drugie, możesz renderować HTML do BMP za pomocą interfejsu API przetwarzania dokumentów [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak przekonwertować MSG na BMP" %}}
 1. Otwórz plik MSG za pomocą klasy [MailMessage](https://apireference.aspose.com/msg/java/com.aspose.msg/mailmessage)
-2. Przekonwertuj MSG na HTML, używając [save](https://apireference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions))) metoda
+2. Przekonwertuj MSG na HTML, używając [save](https://apireference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)) metoda
 3. Załaduj HTML za pomocą klasy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Zapisz dokument w formacie BMP za pomocą [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) metodę i ustaw BMP jako SaveFormat
+4. Zapisz dokument w formacie BMP za pomocą [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metodę i ustaw BMP jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
 Musisz użyć Aspose.Total for Java bezpośrednio z projektu opartego na [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i dołącz biblioteki do swojego pom.xml.

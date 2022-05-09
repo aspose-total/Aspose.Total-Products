@@ -12,12 +12,12 @@ otherformats: PS DOTM GIF JPEG DOCM DOC PNG ODT TIFF SVG PDF DOT PCL EMF WORDML 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="API Java per il rendering di EMLX su TEXT" h2="Esporta EMLX in TEXT utilizzando l'API Java locale senza utilizzare dipendenze di terze parti" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-La conversione della posta elettronica è una potente funzionalità che gli sviluppatori Java possono integrare all'interno di qualsiasi applicazione Java J2SE, J2EE, J2ME tramite [Aspose.Total for Java](https://products.aspose.com/total/java/). Utilizzando due API all'interno del pacchetto puoi convertire Emlx EMLX in TEXT senza dipendenze di terze parti. In primo luogo, puoi utilizzare l'API di manipolazione della posta elettronica [Aspose.Emlx per Java](https://products.aspose.com/emlx/java/) per convertire il formato del file EMLX in HTML. In secondo luogo, puoi eseguire il rendering di HTML in TEXT utilizzando l'API di elaborazione documenti [Aspose.Words for Java](https://products.aspose.com/words/java/).
+La conversione della posta elettronica è una potente funzionalità che gli sviluppatori Java possono integrare all'interno di qualsiasi applicazione Java J2SE, J2EE, J2ME tramite [Aspose.Total for Java](https://products.aspose.com/total/java/). Utilizzando due API all'interno del pacchetto puoi convertire Emlx EMLX in TEXT senza dipendenze di terze parti. In primo luogo, puoi utilizzare l'API di manipolazione della posta elettronica [Aspose.Email per Java](https://products.aspose.com/email/java/) per convertire il formato del file EMLX in HTML. In secondo luogo, puoi eseguire il rendering di HTML in TEXT utilizzando l'API di elaborazione documenti [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Come convertire EMLX in TEXT" %}}
-1. Aprire il file EMLX utilizzando la classe [MailMessage](https://apiference.aspose.com/emlx/java/com.aspose.emlx/mailmessage)
-2. Converti EMLX in HTML utilizzando [save](https://apiference.aspose.com/emlx/java/com.aspose.emlx/MailMessage#save(java.io.OutputStream,%20com.aspose.emlx.SaveOptions)) metodo
+1. Aprire il file EMLX utilizzando la classe [MailMessage](https://apiference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Converti EMLX in HTML utilizzando [save](https://apiference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.emlx.SaveOptions)) metodo
 3. Carica HTML utilizzando la classe [Document](https://apiference.aspose.com/words/java/com.aspose.words/Document)
 4. Salvare il documento in formato TEXT utilizzando [save](https://apiference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) e impostare TEXT come SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

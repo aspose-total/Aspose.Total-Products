@@ -17,7 +17,7 @@ Ao usar [Aspose.Total for Java](https://products.aspose.com/total/java/), você 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converter o formato JSON para PCL via Java" %}}
 1. Crie um novo objeto [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) e leia dados JSON válidos do arquivo
-2. Importe o arquivo JSON para a planilha usando a classe [JsonUtility](https://apireference.aspose.com/cells/java/com.aspose.cells/JsonUtility) e [Salvar](https://apireference.aspose.com/ cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) como PDF
+2. Importe o arquivo JSON para a planilha usando a classe [JsonUtility](https://apireference.aspose.com/cells/java/com.aspose.cells/JsonUtility) e [Salvar](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) como PDF
 3. Carregue o documento PDF usando a classe [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. Salve o documento no formato PCL usando [Salvar](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) método
 {{% /blocks/products/pf/agp/feature-section-col %}}

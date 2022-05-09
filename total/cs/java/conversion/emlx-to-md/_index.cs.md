@@ -12,14 +12,14 @@ otherformats: SVG TEXT OTT DOCX XPS DOT GIF PCL PNG DOC DOTX PS DOTM EMF MD PDF 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API pro vykreslení EMLX do MD" h2="Exportujte EMLX do MD pomocí on premise Java API bez použití jakýchkoli závislostí třetích stran" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-E-mailová konverze je výkonná funkce, kterou mohou vývojáři Java integrovat do jakékoli Java J2SE, J2EE, J2ME aplikace prostřednictvím [Aspose.Total for Java](https://products.aspose.com/total/java/). Pomocí dvou rozhraní API v rámci balíčku můžete převést e-mailovou adresu EMLX na MD bez jakýchkoli závislostí třetích stran. Za prvé, můžete použít Emlx Manipulation API [Aspose.Emlx for Java](https://products.aspose.com/emlx/java/) k převodu formátu souboru EMLX do HTML. Za druhé, můžete vykreslit HTML do MD pomocí Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/).
+E-mailová konverze je výkonná funkce, kterou mohou vývojáři Java integrovat do jakékoli Java J2SE, J2EE, J2ME aplikace prostřednictvím [Aspose.Total for Java](https://products.aspose.com/total/java/). Pomocí dvou rozhraní API v rámci balíčku můžete převést e-mailovou adresu EMLX na MD bez jakýchkoli závislostí třetích stran. Za prvé, můžete použít Emlx Manipulation API [Aspose.Email for Java](https://products.aspose.com/email/java/) k převodu formátu souboru EMLX do HTML. Za druhé, můžete vykreslit HTML do MD pomocí Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak převést EMLX na MD" %}}
-1. Otevřete soubor EMLX pomocí třídy [MailMessage](https://apireference.aspose.com/emlx/java/com.aspose.emlx/mailmessage)
-2. Převeďte EMLX na HTML pomocí [save](https://apireference.aspose.com/emlx/java/com.aspose.emlx/MailMessage#save(java.io.OutputStream,%20com.aspose.emlx.SaveOptions)) metoda
+1. Otevřete soubor EMLX pomocí třídy [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Převeďte EMLX na HTML pomocí [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.emlx.SaveOptions)) metoda
 3. Načtěte HTML pomocí třídy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Uložte dokument do formátu MD pomocí [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) a nastavte MD jako SaveFormat
+4. Uložte dokument do formátu MD pomocí [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) a nastavte MD jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Musíte použít Aspose.Total pro Javu přímo z projektu založeného na [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a zahrňte knihovny do vašeho pom.xml.

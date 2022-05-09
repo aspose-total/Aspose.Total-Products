@@ -19,7 +19,7 @@ Vous pouvez convertir JSON en PPSX dans n'importe quelle application .NET, C#, A
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convertir le format JSON en PPSX via C#" %}}
 1. Créez un nouvel objet [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) et lisez les données JSON valides du fichier
-2. Importez le fichier JSON dans la feuille de calcul à l'aide de la classe [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) et [Save](https://apireference.aspose.com/ cells/net/aspose.cells.workbook/save/methods/4) en tant que PPTX
+2. Importez le fichier JSON dans la feuille de calcul à l'aide de la classe [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) et [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) en tant que PPTX
 3. Chargez le document PPTX en utilisant la classe [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 4. Enregistrez le document au format PPSX en utilisant la méthode [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 {{% /blocks/products/pf/agp/feature-section-col %}}

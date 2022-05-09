@@ -12,12 +12,12 @@ otherformats: DOCX PS DOC SVG JPEG DOTX ODT EPUB EMF PDF DOCM PCL DOT OTT WORDML
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API لتقديم البريد الإلكتروني إلى OTT" h2="قم بتصدير MSG إلى OTT باستخدام Java API في مكان العمل دون استخدام أي تبعيات لطرف ثالث" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-يعد تحويل البريد الإلكتروني ميزة قوية يمكن لمطوري Java دمجها في أي تطبيقات Java J2SE و J2EE و J2ME عبر [Aspose.Total for Java](https://products.aspose.com/total/java/). باستخدام اثنين من واجهات برمجة التطبيقات داخل الحزمة ، يمكنك تحويل البريد الإلكتروني MSG إلى OTT دون أي تبعيات لطرف ثالث. أولاً ، يمكنك استخدام واجهة برمجة تطبيقات معالجة البريد الإلكتروني [Aspose.Msg لجافا](https://products.aspose.com/msg/java/) لتحويل تنسيق ملف MSG إلى HTML. ثانيًا ، يمكنك عرض HTML إلى OTT باستخدام واجهة برمجة تطبيقات معالجة المستندات [Aspose.Words for Java](https://products.aspose.com/words/java/).
+يعد تحويل البريد الإلكتروني ميزة قوية يمكن لمطوري Java دمجها في أي تطبيقات Java J2SE و J2EE و J2ME عبر [Aspose.Total for Java](https://products.aspose.com/total/java/). باستخدام اثنين من واجهات برمجة التطبيقات داخل الحزمة ، يمكنك تحويل البريد الإلكتروني MSG إلى OTT دون أي تبعيات لطرف ثالث. أولاً ، يمكنك استخدام واجهة برمجة تطبيقات معالجة البريد الإلكتروني [Aspose.Email لجافا](https://products.aspose.com/email/java/) لتحويل تنسيق ملف MSG إلى HTML. ثانيًا ، يمكنك عرض HTML إلى OTT باستخدام واجهة برمجة تطبيقات معالجة المستندات [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل البريد الإلكتروني إلى OTT" %}}
 1. افتح ملف MSG باستخدام فئة [MailMessage](https://apireference.aspose.com/msg/java/com.aspose.msg/mailmessage)
-2. تحويل MSG إلى HTML باستخدام [save](https://apireference.aspose.com/msg/java/com.aspose.msg/MailMessage#save (java.io.OutputStream،٪ 20com.aspose.msg.SaveOptions)) طريقة
+2. تحويل MSG إلى HTML باستخدام [save](https://apireference.aspose.com/msg/java/com.aspose.msg/MailMessage#save (java.io.OutputStream،٪20com.aspose.msg.SaveOptions)) طريقة
 3. قم بتحميل HTML باستخدام فئة [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. احفظ المستند بتنسيق OTT باستخدام [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save (java.lang.String، com.aspose.words.SaveOptions)) وضبط OTT على أنه SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -12,14 +12,14 @@ otherformats: PDF PNG DOTX PCL OTT ODT PS DOT EPUB TEXT JPEG DOCM SVG FLATOPC WO
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API för att rendera EMLX till DOCM" h2="Exportera EMLX till DOCM genom att använda det lokala Java API utan att använda några tredje parts beroenden" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-E-postkonvertering är en kraftfull funktion som Java-utvecklare kan integrera i alla Java J2SE, J2EE, J2ME-applikationer via [Aspose.Total for Java](https://products.aspose.com/total/java/). Genom att använda två API:er i paketet kan du konvertera e-post EMLX till DOCM utan några tredje parts beroenden. För det första kan du använda Emlx Manipulation API [Aspose.Emlx for Java](https://products.aspose.com/emlx/java/) för att konvertera EMLX-filformat till HTML. För det andra kan du rendera HTML till DOCM genom att använda Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/).
+E-postkonvertering är en kraftfull funktion som Java-utvecklare kan integrera i alla Java J2SE, J2EE, J2ME-applikationer via [Aspose.Total for Java](https://products.aspose.com/total/java/). Genom att använda två API:er i paketet kan du konvertera e-post EMLX till DOCM utan några tredje parts beroenden. För det första kan du använda Emlx Manipulation API [Aspose.Email for Java](https://products.aspose.com/email/java/) för att konvertera EMLX-filformat till HTML. För det andra kan du rendera HTML till DOCM genom att använda Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hur man konverterar EMLX till DOCM" %}}
-1. Öppna EMLX-filen med klassen [MailMessage](https://apireference.aspose.com/emlx/java/com.aspose.emlx/mailmessage)
-2. Konvertera EMLX till HTML genom att använda [save](https://apireference.aspose.com/emlx/java/com.aspose.emlx/MailMessage#save(java.io.OutputStream,%20com.aspose.emlx.SaveOptions)) metod
+1. Öppna EMLX-filen med klassen [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Konvertera EMLX till HTML genom att använda [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.emlx.SaveOptions)) metod
 3. Ladda HTML genom att använda klassen [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Spara dokumentet i DOCM-format med [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) och ställ in DOCM som SaveFormat
+4. Spara dokumentet i DOCM-format med [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) och ställ in DOCM som SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
 Du måste använda Aspose.Total för Java direkt från ett [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) baserat projekt och inkludera bibliotek i din pom.xml.

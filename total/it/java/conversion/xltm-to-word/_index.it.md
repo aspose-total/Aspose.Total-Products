@@ -12,14 +12,14 @@ otherformats: WORDX POWERPOINT PPTX WORD
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="API Java per esportare XLTM in WORD" h2="API Java in loco per esportare XLTM in WORD senza fare affidamento su Microsoft Excel&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Il rendering di XLTM in WORD è un processo in due fasi. Utilizzerai prima l'API [Aspose.Cells for Java](https://products.aspose.com/cells/java) per convertire il wordumento XLTM specificato in PDF, quindi utilizzerai [Aspose.Pdf for Java](https ://products.aspose.com/pdf/java) API, puoi convertire facilmente il tuo wordumento PDF in WORD. Entrambe le API rientrano nella raccolta di librerie di automazione dei formati di file [Aspose.Total for Java](https://products.aspose.com/total/java/).
+Il rendering di XLTM in WORD è un processo in due fasi. Utilizzerai prima l'API [Aspose.Cells for Java](https://products.aspose.com/cells/java) per convertire il documento XLTM specificato in PDF, quindi utilizzerai [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API, puoi convertire facilmente il tuo documento PDF in WORD. Entrambe le API rientrano nella raccolta di librerie di automazione dei formati di file [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Come convertire XLTM in WORD tramite API Java" %}}
 1. Aprire il file XLTM utilizzando la classe [Workbook](https://apiference.aspose.com/cells/java/com.aspose.cells/Workbook)
 2. Converti XLTM in PDF e imposta SaveFormat su AUTO
-3. Caricare il file PDF convertito utilizzando la classe [Wordument](https://apiference.aspose.com/pdf/java/com.aspose.pdf/Wordument)
-4. Salvare il wordumento in formato WORD utilizzando [save](https://apiference.aspose.com/pdf/java/com.aspose.pdf/Wordument#save-java.lang.String-com.aspose.pdf.SaveOptions-) e imposta Word come SaveFormat
+3. Caricare il file PDF convertito utilizzando la classe [Document](https://apiference.aspose.com/pdf/java/com.aspose.pdf/Document)
+4. Salvare il documento in formato WORD utilizzando [save](https://apiference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) e imposta Word come SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
 Devi usare Aspose.Total per Java direttamente da un progetto basato su [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e includi le librerie nel tuo pom.xml.
@@ -32,10 +32,10 @@ In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspos
 Workbook book = new Workbook("input.xltm");
 // save XLTM as PDF
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Wordument class
-Wordument wordument = new Wordument("pdfOutput.pdf");
-// save wordument in WORD format
-wordument.save("output.word", com.aspose.pdf.SaveFormat.Word);  
+// load the PDF file using Document class
+Document document = new Document("pdfOutput.pdf");
+// save document in WORD format
+document.save("output.word", com.aspose.pdf.SaveFormat.Word);  
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}

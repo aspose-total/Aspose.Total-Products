@@ -18,8 +18,8 @@ XLSM를 WORD로 렌더링하는 것은 2단계 프로세스입니다. 먼저 [As
 {{% blocks/products/pf/agp/feature-section-col title="Java API를 통해 XLSM를 WORD로 변환하는 방법" %}}
 1. [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) 클래스를 사용하여 XLSM 파일 열기
 2. XLSM를 PDF로 변환하고 SaveFormat을 AUTO로 설정
-3. [문서](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Wordument) 클래스를 이용하여 변환된 PDF 파일을 불러옵니다.
-4. [저장](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Wordument#save-java.lang.String-com.aspose.pdf.SaveOptions)을 사용하여 문서를 WORD 형식으로 저장합니다.-) 메서드 및 Word을 SaveFormat으로 설정
+3. [문서](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) 클래스를 이용하여 변환된 PDF 파일을 불러옵니다.
+4. [저장](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions)을 사용하여 문서를 WORD 형식으로 저장합니다.-) 메서드 및 Word을 SaveFormat으로 설정
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) 기반 프로젝트에서 직접 Java용 Aspose.Total을 사용해야 합니다. pom.xml에 라이브러리를 포함합니다.
@@ -32,10 +32,10 @@ XLSM를 WORD로 렌더링하는 것은 2단계 프로세스입니다. 먼저 [As
 Workbook book = new Workbook("input.xlsm");
 // save XLSM as PDF
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Wordument class
-Wordument wordument = new Wordument("pdfOutput.pdf");
-// save wordument in WORD format
-wordument.save("output.word", com.aspose.pdf.SaveFormat.Word);  
+// load the PDF file using Document class
+Document document = new Document("pdfOutput.pdf");
+// save document in WORD format
+document.save("output.word", com.aspose.pdf.SaveFormat.Word);  
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}

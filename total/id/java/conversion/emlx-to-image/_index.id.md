@@ -12,12 +12,12 @@ otherformats: DOT EMF MD DOCX EPUB IMAGE PCL XPS DOC RTF GIF TEXT FLATOPC JPEG D
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API untuk Merender EMLX ke IMAGE" h2="Ekspor EMLX ke IMAGE dengan menggunakan Java API lokal tanpa menggunakan dependensi pihak ketiga" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Konversi emlx adalah fitur canggih yang dapat diintegrasikan oleh pengembang Java dalam aplikasi Java J2SE, J2EE, J2ME melalui [Aspose.Total for Java](https://products.aspose.com/total/java/). Dengan menggunakan dua API dalam paket, Anda dapat mengonversi Emlx EMLX ke IMAGE tanpa ketergantungan pihak ketiga. Pertama, Anda dapat menggunakan API Manipulasi Emlx [Aspose.Emlx for Java](https://products.aspose.com/emlx/java/) untuk mengonversi format file EMLX ke HTML. Kedua, Anda dapat merender HTML ke IMAGE dengan menggunakan API Pemrosesan Dokumen [Aspose.Words for Java](https://products.aspose.com/words/java/).
+Konversi emlx adalah fitur canggih yang dapat diintegrasikan oleh pengembang Java dalam aplikasi Java J2SE, J2EE, J2ME melalui [Aspose.Total for Java](https://products.aspose.com/total/java/). Dengan menggunakan dua API dalam paket, Anda dapat mengonversi Emlx EMLX ke IMAGE tanpa ketergantungan pihak ketiga. Pertama, Anda dapat menggunakan API Manipulasi Emlx [Aspose.Email for Java](https://products.aspose.com/email/java/) untuk mengonversi format file EMLX ke HTML. Kedua, Anda dapat merender HTML ke IMAGE dengan menggunakan API Pemrosesan Dokumen [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cara Mengonversi EMLX ke IMAGE" %}}
-1. Buka file EMLX menggunakan kelas [MailMessage](https://apireference.aspose.com/emlx/java/com.aspose.emlx/mailmessage)
-2. Konversi EMLX ke HTML dengan menggunakan [save](https://apireference.aspose.com/emlx/java/com.aspose.emlx/MailMessage#save(java.io.OutputStream,%20com.aspose.emlx.SaveOptions)) metode
+1. Buka file EMLX menggunakan kelas [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Konversi EMLX ke HTML dengan menggunakan [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.emlx.SaveOptions)) metode
 3. Muat HTML dengan menggunakan kelas [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. Simpan dokumen ke format IMAGE menggunakan [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metode dan atur IMAGE sebagai SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

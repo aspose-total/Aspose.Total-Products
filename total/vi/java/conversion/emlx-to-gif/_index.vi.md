@@ -12,12 +12,12 @@ otherformats: PNG RTF SVG DOCM TEXT PCL OTT EMF DOC JPEG TIFF DOTM EPUB PS DOT M
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="API Java để hiển thị EMLX thành GIF" h2="Xuất EMLX sang GIF bằng cách sử dụng API Java tiền đề mà không sử dụng bất kỳ phụ thuộc nào của bên thứ ba" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Chuyển đổi emlx là một tính năng mạnh mẽ mà các nhà phát triển Java có thể tích hợp trong bất kỳ ứng dụng Java J2SE, J2EE, J2ME nào thông qua [Aspose.Total for Java](https://products.aspose.com/total/java/). Bằng cách sử dụng hai API trong gói, bạn có thể chuyển đổi Emlx EMLX thành GIF mà không cần bất kỳ phụ thuộc nào của bên thứ ba. Trước tiên, bạn có thể sử dụng API thao tác emlx [Aspose.Emlx for Java](https://products.aspose.com/emlx/java/) để chuyển đổi định dạng tệp EMLX sang HTML. Thứ hai, bạn có thể kết xuất HTML thành GIF bằng cách sử dụng API xử lý tài liệu [Aspose.Words for Java](https://products.aspose.com/words/java/).
+Chuyển đổi emlx là một tính năng mạnh mẽ mà các nhà phát triển Java có thể tích hợp trong bất kỳ ứng dụng Java J2SE, J2EE, J2ME nào thông qua [Aspose.Total for Java](https://products.aspose.com/total/java/). Bằng cách sử dụng hai API trong gói, bạn có thể chuyển đổi Emlx EMLX thành GIF mà không cần bất kỳ phụ thuộc nào của bên thứ ba. Trước tiên, bạn có thể sử dụng API thao tác emlx [Aspose.Email for Java](https://products.aspose.com/email/java/) để chuyển đổi định dạng tệp EMLX sang HTML. Thứ hai, bạn có thể kết xuất HTML thành GIF bằng cách sử dụng API xử lý tài liệu [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cách chuyển đổi EMLX thành GIF" %}}
-1. Mở tệp EMLX bằng lớp [MailMessage](https://apireference.aspose.com/emlx/java/com.aspose.emlx/mailmessage)
-2. Chuyển đổi EMLX sang HTML bằng cách sử dụng [save](https://apireference.aspose.com/emlx/java/com.aspose.emlx/MailMessage#save (java.io.OutputStream,%20com.aspose.emlx.SaveOptions)) phương pháp
+1. Mở tệp EMLX bằng lớp [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Chuyển đổi EMLX sang HTML bằng cách sử dụng [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save (java.io.OutputStream,%20com.aspose.emlx.SaveOptions)) phương pháp
 3. Tải HTML bằng cách sử dụng lớp [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. Lưu tài liệu sang định dạng GIF bằng cách sử dụng [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save (java.lang.String, com.aspose.words.SaveOptions)) và đặt GIF làm SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

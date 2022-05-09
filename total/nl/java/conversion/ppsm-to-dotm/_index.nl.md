@@ -22,7 +22,7 @@ otherformats: DOTMM FLATOPC DOTMX WORDML RTF DOTM DOT ODT DOTX WORD TEXT OTT
 4. Sla het dotmument op in DOTM-indeling met de methode [save](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
-Voor PPSM-naar-DOTM-bestandsconversie kunt u Aspose.Total voor Java eenvoudig rechtstreeks vanuit een [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose /aspose-total) gebaseerd project en neem bibliotheken op in uw pom.xml.
+Voor PPSM-naar-DOTM-bestandsconversie kunt u Aspose.Total voor Java eenvoudig rechtstreeks vanuit een [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) gebaseerd project en neem bibliotheken op in uw pom.xml.
 
 U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

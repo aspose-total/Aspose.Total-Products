@@ -13,7 +13,7 @@ otherformats: MD RTF FLATOPC PS ODT DOCM DOTX EMF GIF XPS WORDML OTT DOCX TIFF P
 {{< blocks/products/pf/i18n/feature-page-header h1="Exporteer EML naar MD via .NET" h2=".NET API om EML naar MD te renderen op Windows, macOS en Linux zonder Word of Outlook te gebruiken" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Als u een .NET-ontwikkelaar bent die EML-naar-MD-conversiefuncties in uw toepassingen wilt toevoegen, zijn [Aspose.Total for .NET](https://products.aspose.com/total/net/) bestandsformaatmanipulatie-API's de juiste keuze vooruit. Door [Aspose.Eml for .NET](https://products.aspose.com/eml/net/) te gebruiken, kunt u het EML-bestandsformaat converteren naar HTML. Daarna kunt u met [Aspose.Words for .NET](https://products.aspose.com/words/net/) HTML naar MD renderen.
+Als u een .NET-ontwikkelaar bent die EML-naar-MD-conversiefuncties in uw toepassingen wilt toevoegen, zijn [Aspose.Total for .NET](https://products.aspose.com/total/net/) bestandsformaatmanipulatie-API's de juiste keuze vooruit. Door [Aspose.Email for .NET](https://products.aspose.com/email/net/) te gebruiken, kunt u het EML-bestandsformaat converteren naar HTML. Daarna kunt u met [Aspose.Words for .NET](https://products.aspose.com/words/net/) HTML naar MD renderen.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.md", SaveFormat.Md);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="E-MAIL-bestand ontleden via .NET" %}}
-Voordat u EML naar MD converteert, kunt u, als u er zeker van wilt zijn dat u de juiste e-mail converteert, het EML-document laden, het ontleden en uw gewenste eigenschap bekijken. Door gebruik te maken van [MapiMessage](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage) klasse van [Aspose.Eml for .NET](https://products.aspose.com/eml /net/) API, kunt u informatie over afzender en ontvanger krijgen. U kunt bijvoorbeeld controleren op een specifiek e-mailadres van de afzender voor de conversie door de eigenschap [SenderName](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage/properties/sendername) te gebruiken.  
+Voordat u EML naar MD converteert, kunt u, als u er zeker van wilt zijn dat u de juiste e-mail converteert, het EML-document laden, het ontleden en uw gewenste eigenschap bekijken. Door gebruik te maken van [MapiMessage](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage) klasse van [Aspose.Email for .NET](https://products.aspose.com/eml /net/) API, kunt u informatie over afzender en ontvanger krijgen. U kunt bijvoorbeeld controleren op een specifiek e-mailadres van de afzender voor de conversie door de eigenschap [SenderName](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage/properties/sendername) te gebruiken.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

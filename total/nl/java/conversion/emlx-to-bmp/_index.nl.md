@@ -12,14 +12,14 @@ otherformats: WORDML MD DOCX DOTM SVG ODT PNG JPEG EPUB PDF PS TEXT GIF XPS OTT 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API om EMLX naar BMP weer te geven" h2="Exporteer EMLX naar BMP met behulp van on-premise Java API zonder afhankelijkheden van derden" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-E-mailconversie is een krachtige functie die Java-ontwikkelaars kunnen integreren in alle Java J2SE-, J2EE-, J2ME-applicaties via [Aspose.Total for Java](https://products.aspose.com/total/java/). Door twee API's binnen het pakket te gebruiken, kunt u e-mail EMLX naar BMP converteren zonder afhankelijkheden van derden. Ten eerste kunt u de API voor e-mailmanipulatie [Aspose.Emlx for Java](https://products.aspose.com/emlx/java/) gebruiken om de EMLX-bestandsindeling naar HTML te converteren. Ten tweede kunt u HTML naar BMP weergeven met behulp van de Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/).
+E-mailconversie is een krachtige functie die Java-ontwikkelaars kunnen integreren in alle Java J2SE-, J2EE-, J2ME-applicaties via [Aspose.Total for Java](https://products.aspose.com/total/java/). Door twee API's binnen het pakket te gebruiken, kunt u e-mail EMLX naar BMP converteren zonder afhankelijkheden van derden. Ten eerste kunt u de API voor e-mailmanipulatie [Aspose.Email for Java](https://products.aspose.com/email/java/) gebruiken om de EMLX-bestandsindeling naar HTML te converteren. Ten tweede kunt u HTML naar BMP weergeven met behulp van de Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hoe EMLX naar BMP te converteren" %}}
-1. Open het EMLX-bestand met de klasse [MailMessage](https://apireference.aspose.com/emlx/java/com.aspose.emlx/mailmessage)
-2. Converteer EMLX naar HTML met behulp van [save](https://apireference.aspose.com/emlx/java/com.aspose.emlx/MailMessage#save(java.io.OutputStream,%20com.aspose.emlx.SaveOptions))) methode
+1. Open het EMLX-bestand met de klasse [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Converteer EMLX naar HTML met behulp van [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.emlx.SaveOptions)) methode
 3. Laad HTML met behulp van de [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) klasse
-4. Sla het document op in BMP-formaat met [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) methode en stel BMP in als SaveFormat
+4. Sla het document op in BMP-formaat met [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) methode en stel BMP in als SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
 U moet Aspose.Total voor Java rechtstreeks vanuit een op [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) gebaseerd project gebruiken en neem bibliotheken op in uw po.xml.

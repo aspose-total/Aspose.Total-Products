@@ -19,7 +19,7 @@ Het converteren van DOTM naar XLAM via [Aspose.Total for Java](https://products.
 1. Open het DOTM-bestand met de klasse [Dotmument](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument)
 2. Converteer DOTM naar HTML met behulp van [Save](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,com.aspose.words.SaveOptions) ) methode:
 3. Laad HTML-dotmument met behulp van [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) klasse
-4. Sla het dotmument op in XLAM-indeling met [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. SaveOptions)) methode
+4. Sla het dotmument op in XLAM-indeling met [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) methode
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
 U kunt Aspose.Total voor Java gemakkelijk rechtstreeks vanuit een op [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) gebaseerd project gebruiken en omvatten [Aspose.Words voor Java](https://dotms.aspose.com/words/java/installation/) en [Aspose.Cells voor Java](https://dotms.aspose.com/cells/java/ installatie/) in uw po.xml.

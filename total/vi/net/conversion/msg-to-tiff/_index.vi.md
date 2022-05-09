@@ -13,7 +13,7 @@ otherformats: OTT TIFF DOCM MD EPUB XPS GIF EMF DOTX PCL DOC PS FLATOPC PDF JPEG
 {{< blocks/products/pf/i18n/feature-page-header h1="Xuất MSG sang TIFF qua .NET" h2=".NET API để hiển thị MSG thành TIFF trên Windows, macOS và Linux mà không cần sử dụng Word hoặc Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Nếu bạn là nhà phát triển .NET đang tìm cách thêm các tính năng chuyển đổi MSG sang TIFF bên trong ứng dụng của mình, thì API thao tác định dạng tệp [Aspose.Total for .NET](https://products.aspose.com/total/net/) là cách phía trước. Bằng cách sử dụng [Aspose.Msg for .NET](https://products.aspose.com/msg/net/), bạn có thể chuyển đổi định dạng tệp MSG sang HTML. Sau đó, bằng cách sử dụng [Aspose.Words for .NET](https://products.aspose.com/words/net/), bạn có thể kết xuất HTML thành TIFF.
+Nếu bạn là nhà phát triển .NET đang tìm cách thêm các tính năng chuyển đổi MSG sang TIFF bên trong ứng dụng của mình, thì API thao tác định dạng tệp [Aspose.Total for .NET](https://products.aspose.com/total/net/) là cách phía trước. Bằng cách sử dụng [Aspose.Email for .NET](https://products.aspose.com/email/net/), bạn có thể chuyển đổi định dạng tệp MSG sang HTML. Sau đó, bằng cách sử dụng [Aspose.Words for .NET](https://products.aspose.com/words/net/), bạn có thể kết xuất HTML thành TIFF.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -47,7 +47,7 @@ document.Save("output.tiff", SaveFormat.Tiff);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Phân tích cú pháp Tệp MSG qua .NET" %}}
-Trước khi chuyển đổi MSG thành TIFF, nếu bạn muốn đảm bảo rằng bạn đang chuyển đổi đúng msg, bạn có thể tải tài liệu MSG, phân tích cú pháp và xem thuộc tính mong muốn của mình. Bằng cách sử dụng lớp [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) của [Aspose.Msg for .NET](https://products.aspose.com/msg/net/) API, bạn có thể lấy thông tin người gửi và người nhận. Ví dụ: bạn có thể kiểm tra msg của người gửi cụ thể cho việc chuyển đổi bằng cách sử dụng thuộc tính [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername).  
+Trước khi chuyển đổi MSG thành TIFF, nếu bạn muốn đảm bảo rằng bạn đang chuyển đổi đúng msg, bạn có thể tải tài liệu MSG, phân tích cú pháp và xem thuộc tính mong muốn của mình. Bằng cách sử dụng lớp [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) của [Aspose.Email for .NET](https://products.aspose.com/email/net/) API, bạn có thể lấy thông tin người gửi và người nhận. Ví dụ: bạn có thể kiểm tra msg của người gửi cụ thể cho việc chuyển đổi bằng cách sử dụng thuộc tính [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

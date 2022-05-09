@@ -12,12 +12,12 @@ otherformats: PS DOCM EPUB DOC TEXT JPEG GIF RTF MD DOTX ODT TIFF OTT PNG PDF WO
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API untuk Merender OFT ke DOCM" h2="Ekspor OFT ke DOCM dengan menggunakan Java API lokal tanpa menggunakan dependensi pihak ketiga" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Konversi oft adalah fitur canggih yang dapat diintegrasikan oleh pengembang Java dalam aplikasi Java J2SE, J2EE, J2ME melalui [Aspose.Total for Java](https://products.aspose.com/total/java/). Dengan menggunakan dua API dalam paket, Anda dapat mengonversi Oft OFT ke DOCM tanpa ketergantungan pihak ketiga. Pertama, Anda dapat menggunakan API Manipulasi Oft [Aspose.Oft for Java](https://products.aspose.com/oft/java/) untuk mengonversi format file OFT ke HTML. Kedua, Anda dapat merender HTML ke DOCM dengan menggunakan API Pemrosesan Dokumen [Aspose.Words for Java](https://products.aspose.com/words/java/).
+Konversi oft adalah fitur canggih yang dapat diintegrasikan oleh pengembang Java dalam aplikasi Java J2SE, J2EE, J2ME melalui [Aspose.Total for Java](https://products.aspose.com/total/java/). Dengan menggunakan dua API dalam paket, Anda dapat mengonversi Oft OFT ke DOCM tanpa ketergantungan pihak ketiga. Pertama, Anda dapat menggunakan API Manipulasi Oft [Aspose.Oft for Java](https://products.aspose.com/email/java/) untuk mengonversi format file OFT ke HTML. Kedua, Anda dapat merender HTML ke DOCM dengan menggunakan API Pemrosesan Dokumen [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cara Mengonversi OFT ke DOCM" %}}
-1. Buka file OFT menggunakan kelas [MailMessage](https://apireference.aspose.com/oft/java/com.aspose.oft/mailmessage)
-2. Konversi OFT ke HTML dengan menggunakan [save](https://apireference.aspose.com/oft/java/com.aspose.oft/MailMessage#save(java.io.OutputStream,%20com.aspose.oft.SaveOptions)) metode
+1. Buka file OFT menggunakan kelas [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Konversi OFT ke HTML dengan menggunakan [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) metode
 3. Muat HTML dengan menggunakan kelas [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. Simpan dokumen ke format DOCM menggunakan [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metode dan atur DOCM sebagai SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

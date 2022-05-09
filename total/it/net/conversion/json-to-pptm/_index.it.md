@@ -19,7 +19,7 @@ Puoi convertire JSON in PPTM all'interno di qualsiasi applicazione .NET, C#, ASP
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converti il formato JSON in PPTM tramite C#" %}}
 1. Crea un nuovo oggetto [Workbook](https://apiference.aspose.com/cells/net/aspose.cells/workbook) e leggi dati JSON validi dal file
-2. Importa il file JSON nel foglio di lavoro utilizzando la classe [JsonUtility](https://apiference.aspose.com/cells/net/aspose.cells.utility/jsonutility) e [Salva](https://apiference.aspose.com/ cells/net/aspose.cells.workbook/save/methods/4) come PPTX
+2. Importa il file JSON nel foglio di lavoro utilizzando la classe [JsonUtility](https://apiference.aspose.com/cells/net/aspose.cells.utility/jsonutility) e [Salva](https://apiference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) come PPTX
 3. Caricare il documento PPTX utilizzando la classe [Presentazione](https://apiference.aspose.com/slides/net/aspose.slides/presentation)
 4. Salvare il documento in formato PPTM utilizzando il metodo [Salva](https://apiference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 {{% /blocks/products/pf/agp/feature-section-col %}}

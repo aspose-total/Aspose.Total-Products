@@ -13,13 +13,13 @@ otherformats: DOT PNG DOTM ODT MD RTF DOC FLATOPC PCL GIF WORDML TEXT DOTX TIFF 
 {{< blocks/products/pf/i18n/feature-page-header h1="تصدير البريد الإلكتروني إلى WORDML عبر .NET" h2=".NET API لتقديم OFT إلى WORDML على أنظمة التشغيل Windows و macOS و Linux دون استخدام Word أو Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-إذا كنت مطور .NET تتطلع إلى إضافة OFT إلى ميزات تحويل WORDML داخل تطبيقاتك ، فإن [Aspose.Total for .NET](https://products.aspose.com/total/net/) واجهات برمجة تطبيقات معالجة تنسيق الملف هي الطريقة إلى الأمام. باستخدام [Aspose.Cells for .NET](https://products.aspose.com/oft/net/) ، يمكنك تحويل تنسيق ملف OFT إلى HTML. بعد ذلك ، باستخدام [Aspose.Words for .NET](https://products.aspose.com/words/net/) ، يمكنك تحويل HTML إلى WORDML.
+إذا كنت مطور .NET تتطلع إلى إضافة OFT إلى ميزات تحويل WORDML داخل تطبيقاتك ، فإن [Aspose.Total for .NET](https://products.aspose.com/total/net/) واجهات برمجة تطبيقات معالجة تنسيق الملف هي الطريقة إلى الأمام. باستخدام [Aspose.Email for .NET](https://products.aspose.com/email/net/) ، يمكنك تحويل تنسيق ملف OFT إلى HTML. بعد ذلك ، باستخدام [Aspose.Words for .NET](https://products.aspose.com/words/net/) ، يمكنك تحويل HTML إلى WORDML.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API لتحويل البريد الإلكتروني إلى WORDML" %}}
-1. افتح ملف OFT باستخدام فئة [MailMessage](https://apireference.aspose.com/oft/net/aspose.oft/mailmessage)
-2. تحويل OFT إلى HTML باستخدام طريقة [Save](https://apireference.aspose.com/oft/net/aspose.oft.mailmessage/save/methods/3)
+1. افتح ملف OFT باستخدام فئة [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage)
+2. تحويل OFT إلى HTML باستخدام طريقة [Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
 3. قم بتحميل HTML باستخدام فئة [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 4. احفظ المستند بتنسيق WORDML باستخدام طريقة [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) وقم بتعيين Wordml كـ SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -47,7 +47,7 @@ document.Save("output.wordml", SaveFormat.WordML);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="تحليل ملف البريد الإلكتروني عبر .NET" %}}
-قبل تحويل OFT إلى WORDML ، إذا كنت تريد التأكد من أنك تقوم بتحويل البريد الإلكتروني الصحيح ، فيمكنك تحميل مستند OFT وتحليله وإلقاء نظرة على الممتلكات التي تريدها. باستخدام [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) فئة [Aspose.Cells for .NET](https://products.aspose.com/oft/net/) API ، يمكنك الحصول على معلومات المرسل والمستلمين. على سبيل المثال ، يمكنك التحقق من وجود بريد إلكتروني معين لمرسل التحويل باستخدام خاصية [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
+قبل تحويل OFT إلى WORDML ، إذا كنت تريد التأكد من أنك تقوم بتحويل البريد الإلكتروني الصحيح ، فيمكنك تحميل مستند OFT وتحليله وإلقاء نظرة على الممتلكات التي تريدها. باستخدام [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) فئة [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API ، يمكنك الحصول على معلومات المرسل والمستلمين. على سبيل المثال ، يمكنك التحقق من وجود بريد إلكتروني معين لمرسل التحويل باستخدام خاصية [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

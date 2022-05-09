@@ -12,14 +12,14 @@ otherformats: EMF DOCM PCL WORDML DOC TIFF DOTX ODT TEXT XPS DOT DOTM FLATOPC GI
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API เพื่อแสดงผล EMLX เป็น DOC" h2="ส่งออก EMLX เป็น DOC โดยใช้ Java API ในตัวโดยไม่ต้องใช้การขึ้นต่อกันของบุคคลที่สาม" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-การแปลงอีเมลเป็นคุณสมบัติที่ทรงพลังที่นักพัฒนา Java สามารถรวมเข้ากับแอปพลิเคชัน Java J2SE, J2EE, J2ME ผ่าน [Aspose.Total สำหรับ Java](https://products.aspose.com/total/java/) ด้วยการใช้สอง API ภายในแพ็คเกจ คุณสามารถแปลง Emlx EMLX เป็น DOC โดยไม่ต้องพึ่งพาบุคคลที่สาม ประการแรก คุณสามารถใช้ Emlx Manipulation API [Aspose.Emlx for Java](https://products.aspose.com/emlx/java/) เพื่อแปลงรูปแบบไฟล์ EMLX เป็น HTML ประการที่สอง คุณสามารถแสดง HTML เป็น DOC โดยใช้ Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/)
+การแปลงอีเมลเป็นคุณสมบัติที่ทรงพลังที่นักพัฒนา Java สามารถรวมเข้ากับแอปพลิเคชัน Java J2SE, J2EE, J2ME ผ่าน [Aspose.Total สำหรับ Java](https://products.aspose.com/total/java/) ด้วยการใช้สอง API ภายในแพ็คเกจ คุณสามารถแปลง Emlx EMLX เป็น DOC โดยไม่ต้องพึ่งพาบุคคลที่สาม ประการแรก คุณสามารถใช้ Emlx Manipulation API [Aspose.Email for Java](https://products.aspose.com/email/java/) เพื่อแปลงรูปแบบไฟล์ EMLX เป็น HTML ประการที่สอง คุณสามารถแสดง HTML เป็น DOC โดยใช้ Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/)
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง EMLX เป็น DOC" %}}
-1. เปิดไฟล์ EMLX โดยใช้คลาส [MailMessage](https://apireference.aspose.com/emlx/java/com.aspose.emlx/mailmessage)
-2. แปลง EMLX เป็น HTML โดยใช้ [save](https://apireference.aspose.com/emlx/java/com.aspose.emlx/MailMessage#save(java.io.OutputStream,%20com.aspose.emlx.SaveOptions))) กระบวนการ
+1. เปิดไฟล์ EMLX โดยใช้คลาส [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. แปลง EMLX เป็น HTML โดยใช้ [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.emlx.SaveOptions)) กระบวนการ
 3. โหลด HTML โดยใช้คลาส [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. บันทึกเอกสารในรูปแบบ DOC โดยใช้ [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) วิธีการและตั้งค่า DOC เป็น SaveFormat
+4. บันทึกเอกสารในรูปแบบ DOC โดยใช้ [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) วิธีการและตั้งค่า DOC เป็น SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
 คุณต้องใช้ Aspose.Total สำหรับ Java โดยตรงจากโครงการที่ใช้ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และรวมไลบรารี่ไว้ใน pom.xml ของคุณ

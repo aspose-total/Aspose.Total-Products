@@ -19,7 +19,7 @@ Door [Aspose.Total for Java](https://products.aspose.com/total/java/) te gebruik
 1. Maak een nieuw [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) object en lees geldige JSON-gegevens uit het bestand
 2. Importeer het JSON-bestand naar het werkblad met de klasse [JsonUtility](https://apireference.aspose.com/cells/java/com.aspose.cells/JsonUtility) en [Save](https://apireference.aspose.com/ cellen/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) het als PDF
 3. Laad het PDF-document met behulp van de [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) class
-4. Sla het document op in RTF-formaat met [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) methode
+4. Sla het document op in RTF-formaat met [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) methode
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
 U kunt Aspose.Total voor Java gemakkelijk rechtstreeks vanuit een op [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) gebaseerd project gebruiken en neem bibliotheken op in uw po.xml.

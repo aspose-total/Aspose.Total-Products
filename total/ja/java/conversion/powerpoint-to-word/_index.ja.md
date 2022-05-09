@@ -34,7 +34,7 @@ POWERPOINTからWORDファイルへの変換では、[Maven](https://repository.
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="変換要件" %}}
-APIを使用して、透かしを使用してPOWERPOINTファイルからWORDへの変換を実行することもできます。 WORDドキュメントに透かしを追加するには、最初にPOWERPOINTファイルをHTMLに変換し、それに透かしを追加します。透かしを追加するには、[Wordument](https://apireference.aspose.com/words/java/com.aspose.words/Wordument)クラスを使用して新しく作成したHTMLファイルをロードし、TextWatermarkOptionsのインスタンスを作成して設定します。そのプロパティ、Watermark.setTextメソッドを呼び出し、TextWatermarkOptionsの透かしテキストとオブジェクトを渡します。  
+APIを使用して、透かしを使用してPOWERPOINTファイルからWORDへの変換を実行することもできます。 WORDドキュメントに透かしを追加するには、最初にPOWERPOINTファイルをHTMLに変換し、それに透かしを追加します。透かしを追加するには、[Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)クラスを使用して新しく作成したHTMLファイルをロードし、TextWatermarkOptionsのインスタンスを作成して設定します。そのプロパティ、Watermark.setTextメソッドを呼び出し、TextWatermarkOptionsの透かしテキストとオブジェクトを渡します。  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}

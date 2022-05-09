@@ -12,14 +12,14 @@ otherformats: TIFF MD PS SVG FLATOPC PDF DOCX PCL DOTM DOT WORDML OTT XPS TEXT D
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API เพื่อแสดงผล OFT เป็น FLATOPC" h2="ส่งออก OFT เป็น FLATOPC โดยใช้ Java API ในตัวโดยไม่ต้องใช้การขึ้นต่อกันของบุคคลที่สาม" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-การแปลงอีเมลเป็นคุณสมบัติที่ทรงพลังที่นักพัฒนา Java สามารถรวมเข้ากับแอปพลิเคชัน Java J2SE, J2EE, J2ME ผ่าน [Aspose.Total สำหรับ Java](https://products.aspose.com/total/java/) ด้วยการใช้สอง API ภายในแพ็คเกจ คุณสามารถแปลง Oft OFT เป็น FLATOPC โดยไม่ต้องพึ่งพาบุคคลที่สาม ประการแรก คุณสามารถใช้ Oft Manipulation API [Aspose.Oft for Java](https://products.aspose.com/oft/java/) เพื่อแปลงรูปแบบไฟล์ OFT เป็น HTML ประการที่สอง คุณสามารถแสดง HTML เป็น FLATOPC โดยใช้ Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/)
+การแปลงอีเมลเป็นคุณสมบัติที่ทรงพลังที่นักพัฒนา Java สามารถรวมเข้ากับแอปพลิเคชัน Java J2SE, J2EE, J2ME ผ่าน [Aspose.Total สำหรับ Java](https://products.aspose.com/total/java/) ด้วยการใช้สอง API ภายในแพ็คเกจ คุณสามารถแปลง Oft OFT เป็น FLATOPC โดยไม่ต้องพึ่งพาบุคคลที่สาม ประการแรก คุณสามารถใช้ Oft Manipulation API [Aspose.Oft for Java](https://products.aspose.com/email/java/) เพื่อแปลงรูปแบบไฟล์ OFT เป็น HTML ประการที่สอง คุณสามารถแสดง HTML เป็น FLATOPC โดยใช้ Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/)
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง OFT เป็น FLATOPC" %}}
-1. เปิดไฟล์ OFT โดยใช้คลาส [MailMessage](https://apireference.aspose.com/oft/java/com.aspose.oft/mailmessage)
-2. แปลง OFT เป็น HTML โดยใช้ [save](https://apireference.aspose.com/oft/java/com.aspose.oft/MailMessage#save(java.io.OutputStream,%20com.aspose.oft.SaveOptions))) กระบวนการ
+1. เปิดไฟล์ OFT โดยใช้คลาส [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. แปลง OFT เป็น HTML โดยใช้ [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) กระบวนการ
 3. โหลด HTML โดยใช้คลาส [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. บันทึกเอกสารในรูปแบบ FLATOPC โดยใช้ [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) วิธีการและตั้งค่า FLATOPC เป็น SaveFormat
+4. บันทึกเอกสารในรูปแบบ FLATOPC โดยใช้ [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) วิธีการและตั้งค่า FLATOPC เป็น SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
 คุณต้องใช้ Aspose.Total สำหรับ Java โดยตรงจากโครงการที่ใช้ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และรวมไลบรารี่ไว้ใน pom.xml ของคุณ

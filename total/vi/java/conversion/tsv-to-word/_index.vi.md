@@ -18,8 +18,8 @@ otherformats: PPTX WORD POWERPOINT WORDX
 {{% blocks/products/pf/agp/feature-section-col title="Cách chuyển đổi TSV sang WORD qua Java API" %}}
 1. Mở tệp TSV bằng lớp [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
 2. Chuyển đổi TSV sang PDF và đặt SaveFormat thành TỰ ĐỘNG
-3. Tải tệp PDF đã chuyển đổi bằng lớp [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Wordument)
-4. Lưu tài liệu sang định dạng WORD bằng [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Wordument#save-java.lang.String-com.aspose.pdf.SaveOptions-) và đặt Word là SaveFormat
+3. Tải tệp PDF đã chuyển đổi bằng lớp [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)
+4. Lưu tài liệu sang định dạng WORD bằng [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) và đặt Word là SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
 Bạn phải sử dụng Aspose.Total for Java trực tiếp từ dự án dựa trên [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và bao gồm các thư viện trong pom.xml của bạn.
@@ -32,10 +32,10 @@ Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://download
 Workbook book = new Workbook("input.tsv");
 // save TSV as PDF
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Wordument class
-Wordument wordument = new Wordument("pdfOutput.pdf");
-// save wordument in WORD format
-wordument.save("output.word", com.aspose.pdf.SaveFormat.Word);  
+// load the PDF file using Document class
+Document document = new Document("pdfOutput.pdf");
+// save document in WORD format
+document.save("output.word", com.aspose.pdf.SaveFormat.Word);  
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}

@@ -12,12 +12,12 @@ otherformats: PDF EPUB DOTX WORDML GIF ODT DOCX TIFF EMF DOT XPS OTT RTF PNG DOC
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API για απόδοση OFT σε OTT" h2="Εξαγωγή OFT σε OTT χρησιμοποιώντας το API Java χωρίς χρήση εξαρτήσεων τρίτων" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Η μετατροπή oft είναι μια ισχυρή δυνατότητα που οι προγραμματιστές Java μπορούν να ενσωματώσουν σε οποιεσδήποτε εφαρμογές Java J2SE, J2EE, J2ME μέσω του [Aspose.Total for Java](https://products.aspose.com/total/java/). Χρησιμοποιώντας δύο API μέσα στο πακέτο, μπορείτε να μετατρέψετε OFT Oft σε OTT χωρίς εξαρτήσεις τρίτων. Πρώτον, μπορείτε να χρησιμοποιήσετε το Oft Manipulation API [Aspose.Oft για Java](https://products.aspose.com/oft/java/) για να μετατρέψετε τη μορφή αρχείου OFT σε HTML. Δεύτερον, μπορείτε να αποδώσετε την HTML σε OTT χρησιμοποιώντας το API Επεξεργασίας Εγγράφων [Aspose.Words για Java](https://products.aspose.com/words/java/).
+Η μετατροπή oft είναι μια ισχυρή δυνατότητα που οι προγραμματιστές Java μπορούν να ενσωματώσουν σε οποιεσδήποτε εφαρμογές Java J2SE, J2EE, J2ME μέσω του [Aspose.Total for Java](https://products.aspose.com/total/java/). Χρησιμοποιώντας δύο API μέσα στο πακέτο, μπορείτε να μετατρέψετε OFT Oft σε OTT χωρίς εξαρτήσεις τρίτων. Πρώτον, μπορείτε να χρησιμοποιήσετε το Oft Manipulation API [Aspose.Oft για Java](https://products.aspose.com/email/java/) για να μετατρέψετε τη μορφή αρχείου OFT σε HTML. Δεύτερον, μπορείτε να αποδώσετε την HTML σε OTT χρησιμοποιώντας το API Επεξεργασίας Εγγράφων [Aspose.Words για Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Πώς να μετατρέψετε το OFT σε OTT" %}}
-1. Ανοίξτε το αρχείο OFT χρησιμοποιώντας την τάξη [MailMessage](https://apireference.aspose.com/oft/java/com.aspose.oft/mailmessage)
-2. Μετατρέψτε το OFT σε HTML χρησιμοποιώντας [save](https://apireference.aspose.com/oft/java/com.aspose.oft/MailMessage#save(java.io.OutputStream,%20com.aspose.oft.SaveOptions)) μέθοδος
+1. Ανοίξτε το αρχείο OFT χρησιμοποιώντας την τάξη [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Μετατρέψτε το OFT σε HTML χρησιμοποιώντας [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) μέθοδος
 3. Φορτώστε το HTML χρησιμοποιώντας την κλάση [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. Αποθηκεύστε το έγγραφο σε μορφή OTT χρησιμοποιώντας [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) και ορίστε το OTT ως SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

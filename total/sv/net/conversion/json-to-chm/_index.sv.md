@@ -19,7 +19,7 @@ Genom att använda [Aspose.Total för .NET](https://products.aspose.com/total/ne
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertera JSON-format till CHM via C#" %}}
 1. Skapa ett nytt [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) objekt och läs giltig JSON-data från filen
-2. Importera JSON-fil till kalkylblad med klassen [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) och [Spara](https://apireference.aspose.com/ cells/net/aspose.cells.workbook/save/methods/4) den som PDF
+2. Importera JSON-fil till kalkylblad med klassen [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) och [Spara](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) den som PDF
 3. Ladda PDF-dokument genom att använda klassen [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 4. Spara dokumentet i CHM-format med metoden [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)
 {{% /blocks/products/pf/agp/feature-section-col %}}

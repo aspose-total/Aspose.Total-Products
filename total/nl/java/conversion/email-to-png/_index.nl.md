@@ -17,9 +17,9 @@ E-mailconversie is een krachtige functie die Java-ontwikkelaars kunnen integrere
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hoe EMAIL naar PNG te converteren" %}}
 1. Open het EMAIL-bestand met de klasse [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)
-2. Converteer EMAIL naar HTML met behulp van [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions))) methode
+2. Converteer EMAIL naar HTML met behulp van [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) methode
 3. Laad HTML met behulp van de [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) klasse
-4. Sla het document op in PNG-formaat met [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) methode en stel PNG in als SaveFormat
+4. Sla het document op in PNG-formaat met [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) methode en stel PNG in als SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
 U moet Aspose.Total voor Java rechtstreeks vanuit een op [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) gebaseerd project gebruiken en neem bibliotheken op in uw po.xml.

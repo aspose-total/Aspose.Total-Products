@@ -13,13 +13,13 @@ otherformats: JPEG TIFF FLATOPC TEXT EMF OTT RTF PDF EPUB DOC WORDML SVG DOCM DO
 {{< blocks/products/pf/i18n/feature-page-header h1="Εξαγωγή OFT σε DOT μέσω .NET" h2=".NET API για απόδοση OFT σε DOT σε Windows, macOS και Linux χωρίς χρήση Word ή Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Εάν είστε προγραμματιστής .NET που θέλει να προσθέσει OFT σε δυνατότητες μετατροπής DOT μέσα στις εφαρμογές σας, τα API χειρισμού μορφής αρχείου [Aspose.Total for .NET](https://products.aspose.com/total/net/) είναι ο τρόπος προς τα εμπρός. Χρησιμοποιώντας το [Aspose.Cells for .NET](https://products.aspose.com/oft/net/), μπορείτε να μετατρέψετε τη μορφή αρχείου OFT σε HTML. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Words για .NET](https://products.aspose.com/words/net/), μπορείτε να αποδώσετε την HTML σε DOT.
+Εάν είστε προγραμματιστής .NET που θέλει να προσθέσει OFT σε δυνατότητες μετατροπής DOT μέσα στις εφαρμογές σας, τα API χειρισμού μορφής αρχείου [Aspose.Total for .NET](https://products.aspose.com/total/net/) είναι ο τρόπος προς τα εμπρός. Χρησιμοποιώντας το [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), μπορείτε να μετατρέψετε τη μορφή αρχείου OFT σε HTML. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Words για .NET](https://products.aspose.com/words/net/), μπορείτε να αποδώσετε την HTML σε DOT.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API για Μετατροπή OFT σε DOT" %}}
-1. Ανοίξτε το αρχείο OFT χρησιμοποιώντας την τάξη [MailMessage](https://apireference.aspose.com/oft/net/aspose.oft/mailmessage)
-2. Μετατρέψτε το OFT σε HTML χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/oft/net/aspose.oft.mailmessage/save/methods/3)
+1. Ανοίξτε το αρχείο OFT χρησιμοποιώντας την τάξη [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage)
+2. Μετατρέψτε το OFT σε HTML χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
 3. Φορτώστε το HTML χρησιμοποιώντας την κλάση [Document](https://apireference.aspose.com/words/net/aspose.words/document)
 4. Αποθηκεύστε το έγγραφο σε μορφή DOT χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) και ορίστε το Dot ως SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -47,7 +47,7 @@ document.Save("output.dot", SaveFormat.Dot);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ανάλυση αρχείου OFT μέσω .NET" %}}
-Πριν μετατρέψετε το OFT σε DOT, εάν θέλετε να βεβαιωθείτε ότι μετατρέπετε το σωστό oft, μπορείτε να φορτώσετε το έγγραφο OFT, να το αναλύσετε και να ρίξετε μια ματιά στην επιθυμητή ιδιότητα. Χρησιμοποιώντας την κλάση [MapiMessage](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) του [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API, μπορείτε να λάβετε πληροφορίες αποστολέα και παραληπτών. Για παράδειγμα, μπορείτε να ελέγξετε για ένα συγκεκριμένο μήνυμα ηλεκτρονικού ταχυδρομείου αποστολέα για τη μετατροπή χρησιμοποιώντας την ιδιότητα [SenderName](https://apireference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
+Πριν μετατρέψετε το OFT σε DOT, εάν θέλετε να βεβαιωθείτε ότι μετατρέπετε το σωστό oft, μπορείτε να φορτώσετε το έγγραφο OFT, να το αναλύσετε και να ρίξετε μια ματιά στην επιθυμητή ιδιότητα. Χρησιμοποιώντας την κλάση [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) του [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API, μπορείτε να λάβετε πληροφορίες αποστολέα και παραληπτών. Για παράδειγμα, μπορείτε να ελέγξετε για ένα συγκεκριμένο μήνυμα ηλεκτρονικού ταχυδρομείου αποστολέα για τη μετατροπή χρησιμοποιώντας την ιδιότητα [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

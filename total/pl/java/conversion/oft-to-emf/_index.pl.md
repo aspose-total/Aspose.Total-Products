@@ -12,14 +12,14 @@ otherformats: OTT PCL DOTM DOCM SVG DOCX TIFF FLATOPC JPEG GIF RTF DOT PS XPS OD
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API do renderowania e-maili do EMF" h2="Eksportuj OFT do EMF za pomocą lokalnego interfejsu API Java bez korzystania z zależności innych firm" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Konwersja wiadomości e-mail to potężna funkcja, którą programiści Java mogą zintegrować z dowolnymi aplikacjami Java J2SE, J2EE, J2ME za pośrednictwem [Aspose.Total for Java](https://products.aspose.com/total/java/). Korzystając z dwóch interfejsów API w pakiecie, możesz przekonwertować e-mail OFT na EMF bez żadnych zależności od stron trzecich. Po pierwsze, możesz użyć interfejsu Oft Manipulation API [Aspose.Oft for Java](https://products.aspose.com/oft/java/), aby przekonwertować format pliku OFT na HTML. Po drugie, możesz renderować HTML do EMF za pomocą interfejsu API przetwarzania dokumentów [Aspose.Words for Java](https://products.aspose.com/words/java/).
+Konwersja wiadomości e-mail to potężna funkcja, którą programiści Java mogą zintegrować z dowolnymi aplikacjami Java J2SE, J2EE, J2ME za pośrednictwem [Aspose.Total for Java](https://products.aspose.com/total/java/). Korzystając z dwóch interfejsów API w pakiecie, możesz przekonwertować e-mail OFT na EMF bez żadnych zależności od stron trzecich. Po pierwsze, możesz użyć interfejsu Oft Manipulation API [Aspose.Oft for Java](https://products.aspose.com/email/java/), aby przekonwertować format pliku OFT na HTML. Po drugie, możesz renderować HTML do EMF za pomocą interfejsu API przetwarzania dokumentów [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak przekonwertować OFT na EMF" %}}
-1. Otwórz plik OFT za pomocą klasy [MailMessage](https://apireference.aspose.com/oft/java/com.aspose.oft/mailmessage)
-2. Przekonwertuj OFT na HTML, używając [save](https://apireference.aspose.com/oft/java/com.aspose.oft/MailMessage#save(java.io.OutputStream,%20com.aspose.oft.SaveOptions))) metoda
+1. Otwórz plik OFT za pomocą klasy [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Przekonwertuj OFT na HTML, używając [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) metoda
 3. Załaduj HTML za pomocą klasy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Zapisz dokument w formacie EMF za pomocą [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) metodę i ustaw EMF jako SaveFormat
+4. Zapisz dokument w formacie EMF za pomocą [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metodę i ustaw EMF jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
 Musisz użyć Aspose.Total for Java bezpośrednio z projektu opartego na [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i dołącz biblioteki do swojego pom.xml.

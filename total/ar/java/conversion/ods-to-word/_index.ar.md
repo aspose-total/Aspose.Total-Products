@@ -18,8 +18,8 @@ otherformats: WORDX WORD PPTX POWERPOINT
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل ODS إلى WORD عبر Java API" %}}
 1. افتح ملف ODS باستخدام فئة [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
 2. تحويل ODS إلى PDF وتعيين SaveFormat على AUTO
-3. قم بتحميل ملف PDF المحول باستخدام فئة [Wordument](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Wordument)
-4. احفظ المستند بتنسيق WORD باستخدام [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Wordument#save-java.lang.String-com.aspose.pdf.SaveOptions-) طريقة وتعيين Word كـ SaveFormat
+3. قم بتحميل ملف PDF المحول باستخدام فئة [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)
+4. احفظ المستند بتنسيق WORD باستخدام [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) طريقة وتعيين Word كـ SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
 يجب عليك استخدام Aspose.Total for Java مباشرة من مشروع قائم على [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) وتضمين مكتبات في ملفك pom.xml.
@@ -32,10 +32,10 @@ otherformats: WORDX WORD PPTX POWERPOINT
 Workbook book = new Workbook("input.ods");
 // save ODS as PDF
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Wordument class
-Wordument wordument = new Wordument("pdfOutput.pdf");
-// save wordument in WORD format
-wordument.save("output.word", com.aspose.pdf.SaveFormat.Word);  
+// load the PDF file using Document class
+Document document = new Document("pdfOutput.pdf");
+// save document in WORD format
+document.save("output.word", com.aspose.pdf.SaveFormat.Word);  
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}

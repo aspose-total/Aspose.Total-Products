@@ -12,14 +12,14 @@ otherformats: ODT PDF DOCX TEXT TIFF WORDML PCL SVG GIF RTF DOT EMF DOC EPUB FLA
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API pro vykreslení MSG do PDF" h2="Exportujte MSG do PDF pomocí on premise Java API bez použití jakýchkoli závislostí třetích stran" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-E-mailová konverze je výkonná funkce, kterou mohou vývojáři Java integrovat do jakékoli Java J2SE, J2EE, J2ME aplikace prostřednictvím [Aspose.Total for Java](https://products.aspose.com/total/java/). Pomocí dvou rozhraní API v rámci balíčku můžete převést e-mailovou adresu MSG na PDF bez jakýchkoli závislostí třetích stran. Za prvé, můžete použít Msg Manipulation API [Aspose.Msg for Java](https://products.aspose.com/msg/java/) k převodu formátu souboru MSG do HTML. Za druhé, můžete vykreslit HTML do PDF pomocí Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/).
+E-mailová konverze je výkonná funkce, kterou mohou vývojáři Java integrovat do jakékoli Java J2SE, J2EE, J2ME aplikace prostřednictvím [Aspose.Total for Java](https://products.aspose.com/total/java/). Pomocí dvou rozhraní API v rámci balíčku můžete převést e-mailovou adresu MSG na PDF bez jakýchkoli závislostí třetích stran. Za prvé, můžete použít Msg Manipulation API [Aspose.Email for Java](https://products.aspose.com/email/java/) k převodu formátu souboru MSG do HTML. Za druhé, můžete vykreslit HTML do PDF pomocí Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak převést MSG na PDF" %}}
 1. Otevřete soubor MSG pomocí třídy [MailMessage](https://apireference.aspose.com/msg/java/com.aspose.msg/mailmessage)
 2. Převeďte MSG na HTML pomocí [save](https://apireference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)) metoda
 3. Načtěte HTML pomocí třídy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Uložte dokument do formátu PDF pomocí [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) a nastavte PDF jako SaveFormat
+4. Uložte dokument do formátu PDF pomocí [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) a nastavte PDF jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Musíte použít Aspose.Total pro Javu přímo z projektu založeného na [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a zahrňte knihovny do vašeho pom.xml.

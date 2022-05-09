@@ -13,13 +13,13 @@ otherformats: RTF DOTX PDF PS DOCM TIFF DOC PNG PCL MD EMF OTT EPUB WORDML TEXT 
 {{< blocks/products/pf/i18n/feature-page-header h1="Esporta OFT in GIF tramite .NET" h2="API .NET per il rendering di OFT su GIF su Windows, macOS e Linux senza utilizzare Word o Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Se sei uno sviluppatore .NET che cerca di aggiungere funzionalità di conversione da OFT a GIF all'interno delle tue applicazioni, le API di manipolazione del formato di file [Aspose.Total for .NET](https://products.aspose.com/total/net/) sono la strada giusta inoltrare. Utilizzando [Aspose.Cells for .NET](https://products.aspose.com/oft/net/), puoi convertire il formato del file OFT in HTML. Successivamente, utilizzando [Aspose.Words for .NET](https://products.aspose.com/words/net/), puoi eseguire il rendering di HTML in GIF.
+Se sei uno sviluppatore .NET che cerca di aggiungere funzionalità di conversione da OFT a GIF all'interno delle tue applicazioni, le API di manipolazione del formato di file [Aspose.Total for .NET](https://products.aspose.com/total/net/) sono la strada giusta inoltrare. Utilizzando [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), puoi convertire il formato del file OFT in HTML. Successivamente, utilizzando [Aspose.Words for .NET](https://products.aspose.com/words/net/), puoi eseguire il rendering di HTML in GIF.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API C# per convertire OFT in GIF" %}}
-1. Aprire il file OFT utilizzando la classe [MailMessage](https://apiference.aspose.com/oft/net/aspose.oft/mailmessage)
-2. Converti OFT in HTML utilizzando il metodo [Salva](https://apiference.aspose.com/oft/net/aspose.oft.mailmessage/save/methods/3)
+1. Aprire il file OFT utilizzando la classe [MailMessage](https://apiference.aspose.com/email/net/aspose.email/mailmessage)
+2. Converti OFT in HTML utilizzando il metodo [Salva](https://apiference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
 3. Caricare HTML utilizzando la classe [Document](https://apiference.aspose.com/words/net/aspose.words/document)
 4. Salvare il documento in formato GIF utilizzando il metodo [Salva](https://apiference.aspose.com/words/net/aspose.words.document/save/methods/4) e impostare Gif come SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -47,7 +47,7 @@ document.Save("output.gif", SaveFormat.Gif);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analizza il file OFT tramite .NET" %}}
-Prima di convertire OFT in GIF, se vuoi assicurarti di convertire l'oft corretta, puoi caricare il documento OFT, analizzarlo e dare un'occhiata alla proprietà desiderata. Utilizzando la classe [MapiMessage](https://apiference.aspose.com/oft/net/aspose.oft.mapi/mapimessage) di [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API, puoi ottenere informazioni su mittente e destinatario. Ad esempio, puoi verificare la presenza di un'oft del mittente specifica per la conversione utilizzando la proprietà [SenderName](https://apiference.aspose.com/oft/net/aspose.oft.mapi/mapimessage/properties/sendername).  
+Prima di convertire OFT in GIF, se vuoi assicurarti di convertire l'oft corretta, puoi caricare il documento OFT, analizzarlo e dare un'occhiata alla proprietà desiderata. Utilizzando la classe [MapiMessage](https://apiference.aspose.com/email/net/aspose.email.mapi/mapimessage) di [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API, puoi ottenere informazioni su mittente e destinatario. Ad esempio, puoi verificare la presenza di un'oft del mittente specifica per la conversione utilizzando la proprietà [SenderName](https://apiference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

@@ -12,12 +12,12 @@ otherformats: DOCX JPEG TIFF PDF DOCM TEXT RTF PNG DOT PCL SVG EPUB WORDML DOTM 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="API Java pour rendre EMLX en EMF" h2="Exportez EMLX vers EMF en utilisant l'API Java sur site sans utiliser de dépendances tierces" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-La conversion des e-mails est une fonctionnalité puissante que les développeurs Java peuvent intégrer dans toutes les applications Java J2SE, J2EE, J2ME via [Aspose.Total for Java](https://products.aspose.com/total/java/). En utilisant deux API dans le package, vous pouvez convertir Emlx EMLX en EMF sans aucune dépendance de tiers. Tout d'abord, vous pouvez utiliser l'API Emlx Manipulation [Aspose.Emlx for Java](https://products.aspose.com/emlx/java/) pour convertir le format de fichier EMLX en HTML. Deuxièmement, vous pouvez restituer HTML en EMF à l'aide de l'API de traitement de documents [Aspose.Words for Java](https://products.aspose.com/words/java/).
+La conversion des e-mails est une fonctionnalité puissante que les développeurs Java peuvent intégrer dans toutes les applications Java J2SE, J2EE, J2ME via [Aspose.Total for Java](https://products.aspose.com/total/java/). En utilisant deux API dans le package, vous pouvez convertir Emlx EMLX en EMF sans aucune dépendance de tiers. Tout d'abord, vous pouvez utiliser l'API Emlx Manipulation [Aspose.Email for Java](https://products.aspose.com/email/java/) pour convertir le format de fichier EMLX en HTML. Deuxièmement, vous pouvez restituer HTML en EMF à l'aide de l'API de traitement de documents [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Comment convertir EMLX en EMF" %}}
-1. Ouvrez le fichier EMLX à l'aide de la classe [MailMessage](https://apireference.aspose.com/emlx/java/com.aspose.emlx/mailmessage)
-2. Convertissez EMLX en HTML en utilisant [save](https://apireference.aspose.com/emlx/java/com.aspose.emlx/MailMessage#save(java.io.OutputStream,%20com.aspose.emlx.SaveOptions)) méthode
+1. Ouvrez le fichier EMLX à l'aide de la classe [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Convertissez EMLX en HTML en utilisant [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.emlx.SaveOptions)) méthode
 3. Chargez HTML en utilisant la classe [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
 4. Enregistrez le document au format EMF en utilisant [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) et définissez EMF comme SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
