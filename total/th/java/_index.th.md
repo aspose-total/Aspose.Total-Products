@@ -6,11 +6,11 @@ description: คอลเล็กชันของ API สำหรับน�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="สร้าง แก้ไข และแปลงไฟล์ผ่าน Java APIs" h2="จัดการ Word, Excel, PowerPoint, Outlook, PDF, 3D, CAD และรูปแบบเอกสารอื่นๆ จากแอปพลิเคชัน Java ของคุณเอง" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-java.svg" pfName="Aspose.Total" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/total/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="สร้าง แก้ไข และแปลงไฟล์ผ่าน Java APIs" h2="จัดการ Word, Excel, PowerPoint, Outlook, PDF, 3D, CAD และรูปแบบเอกสารอื่นๆ จากแอปพลิเคชัน Java ของคุณเอง" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-java.svg" pfName="Aspose.Total" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/total/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/java" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total สำหรับ Java คือคอลเล็กชันของไลบรารี File Format Automation สำหรับนักพัฒนา Java ซึ่งทำให้พวกเขาสร้าง อัปเดต พิมพ์ แสดงผล และแปลงระหว่างรูปแบบไฟล์ต่างๆ จากภายในแอปพลิเคชัน Java J2SE, J2EE, J2ME ใดๆ
@@ -254,7 +254,7 @@ Aspose.TeX สำหรับ Java เป็น API การตั้งค่�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="สิ่งที่ผู้คนกำลังพูด" subTitle="อย่าเพิ่งใช้คำพูดของเราสำหรับมัน ดูว่าผู้ใช้พูดถึง Aspose.Total API อย่างไร" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="สิ่งที่ผู้คนกำลังพูด" subTitle="อย่าเพิ่งใช้คำพูดของเราสำหรับมัน ดูว่าผู้ใช้พูดถึง Aspose.Total API อย่างไร" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="อิกอร์ คลาฟเก้ | W3K Technologia, บราซิล" >}}
 ระหว่างการใช้งาน เราสามารถสัมผัสได้ว่าเราสัมผัสเพียงเศษเสี้ยวของสิ่งที่ Apose.Total สามารถทำได้ ความง่ายในการใช้งานของ API ทำให้นักพัฒนาพึงพอใจในการ "ทำงานให้เสร็จ" ด้วยโค้ดที่เรียบง่ายและสะอาด และความสมบูรณ์ของผลิตภัณฑ์ขั้นสุดท้ายทำให้ลูกค้าของเรามีความสุข
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -267,9 +267,9 @@ Aspose.TeX สำหรับ Java เป็น API การตั้งค่�
 {{< blocks/products/pf/testimonials-quote poster="โทมัส | เข้าร่วมและแบ่งปันประเทศเยอรมนี" >}}
 Aspose.Total เป็นชุดที่มีประสิทธิภาพในการประมวลผลเอกสารเกือบทุกชนิดด้วยความเร็วสูงและคุณภาพเยี่ยม ช่วยลดความพยายามในการเขียนโปรแกรมได้อย่างมีประสิทธิภาพ
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="แหล่งเรียนรู้" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="เอกสาร" href="https://docs.aspose.com/total/java/" >}} 
@@ -289,9 +289,9 @@ Aspose.Total เป็นชุดที่มีประสิทธิภา�
 {{< blocks/products/pf/slr-element name="เรื่องราวความสำเร็จ" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/java" pricingInformationLink="https://purchase.aspose.com/pricing/total/java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/java" pricingInformationLink="https://purchase.aspose.com/pricing/total/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total นำเสนอโซลูชันส่วนบุคคลสำหรับแพลตฟอร์มอื่นๆ" >}}
 

@@ -6,11 +6,11 @@ description: JasperReports는 보고서를 Word Excel PDF 및 PowerPoint 형식�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Office 형식으로 보고서를 제공하는 JasperReports Extensions" h2="내보낸 문서에 바코드를 추가하면서 JasperReports를 Word, Excel, PDF, PowerPoint 및 이미지 형식으로 쉽게 내보낼 수 있습니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-jasperreports.svg" pfName="Aspose.Total" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/total/jasperreports" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Office 형식으로 보고서를 제공하는 JasperReports Extensions" h2="내보낸 문서에 바코드를 추가하면서 JasperReports를 Word, Excel, PDF, PowerPoint 및 이미지 형식으로 쉽게 내보낼 수 있습니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-jasperreports.svg" pfName="Aspose.Total" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/total/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for JasperReports" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/jasperreports" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/jasperreports/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/jasperreports" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/jasperreports" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/jasperreports/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/jasperreports" >}}
 
 {{< blocks/products/pf/total/overview >}}
 JasperReports용 Aspose.Total은 기능이 풍부한 JasperReports 내보내기 제품군으로 개발자가 보고서를 Microsoft Word, Excel, PowerPoint 및 PDF 형식으로 내보낼 수 있습니다. Aspose.Total for JasperReports 제품군의 내보내기 중 하나는 내보낸 파일에 바코드를 추가하는 기능도 제공합니다.
@@ -197,7 +197,7 @@ JasperReports용 Aspose.CAD는 JasperReports를 다양한 CAD 및 기타 벡터 
 {{< /blocks/products/pf/main-container >}}
 
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.com/total/jasperreports/" >}} 
@@ -217,9 +217,9 @@ JasperReports용 Aspose.CAD는 JasperReports를 다양한 CAD 및 기타 벡터 
 {{< blocks/products/pf/slr-element name="성공 사례" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/jasperreports" pricingInformationLink="https://purchase.aspose.com/pricing/total/jasperreports" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/jasperreports" pricingInformationLink="https://purchase.aspose.com/pricing/total/jasperreports" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total은 다른 플랫폼에 대한 개별 솔루션을 제공합니다." >}}
 

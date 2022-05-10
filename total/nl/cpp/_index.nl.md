@@ -6,11 +6,11 @@ description: C++-bibliotheken lezen, schrijven, renderen en converteren van meer
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ API's voor Microsoft Office-bestandsindelingen, PDF en streepjescode" h2="Ontwikkel native C++-applicaties om Microsoft Project-, Excel-, Word-, PowerPoint-, Outlook- en PDF-formaten te manipuleren. Barcodegenerator & lezer ook inbegrepen!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ API's voor Microsoft Office-bestandsindelingen, PDF en streepjescode" h2="Ontwikkel native C++-applicaties om Microsoft Project-, Excel-, Word-, PowerPoint-, Outlook- en PDF-formaten te manipuleren. Barcodegenerator & lezer ook inbegrepen!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total voor C++ is een compleet pakket van C++ File Format Automation-bibliotheken die speciaal zijn ontworpen om populaire formaten van Microsoft Office en PDF te maken, manipuleren en converteren zonder dat Office of Adobe Automation nodig is. Het C++ API-pakket bevat ook een gespecialiseerde bibliotheek voor het genereren en herkennen van barcodelabels van afbeeldingen met geavanceerde functies om het proces voor het genereren en herkennen van barcodes aan te passen.
@@ -184,7 +184,7 @@ Aspose.TeX voor C++ is een tex-integratie- en beheer-API om met tex-bestanden te
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Wat mensen zeggen" subTitle="Geloof ons niet zomaar op ons woord. Bekijk wat gebruikers te zeggen hebben over Aspose.Total API's." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Wat mensen zeggen" subTitle="Geloof ons niet zomaar op ons woord. Bekijk wat gebruikers te zeggen hebben over Aspose.Total API's." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Stefan Studer | Nowhow Solutions AG, Zwitserland" >}}
 De goed gedocumenteerde handleiding en de robuustheid van de Aspose.Total componenten leidden tot een eenvoudige integratie in DOCO. Dit heeft ons geholpen om de ontwikkeltijd meer te verkorten dan verwacht.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -197,9 +197,9 @@ In feite is de Aspose.Total voor .NET-suite het 'Zwitserse zakmes' van de compon
 {{< blocks/products/pf/testimonials-quote poster="Yassine Loudad | Qualetech, France" >}}
 De implementatie was rechttoe rechtaan, we focussen ons echt op onze architectuur en Aspose past er gewoon in. Onze architectuur is sterk geoptimaliseerd voor prestaties en multi-threading, en ook dit is geen probleem om Aspose.Total.net te gebruiken.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Leermiddelen" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentatie" href="https://docs.aspose.com/total/cpp/" >}} 
@@ -219,9 +219,9 @@ De implementatie was rechttoe rechtaan, we focussen ons echt op onze architectuu
 {{< blocks/products/pf/slr-element name="Succesverhalen" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/total/cpp" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/total/cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total biedt individuele oplossingen voor andere platformen." >}}
 

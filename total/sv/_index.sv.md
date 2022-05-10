@@ -6,7 +6,7 @@ description: Bygg dokumentmanipuleringsapplikationer med On Premise eller Cloud 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Komplett uppsättning filformatshanteringslösningar" h2="Aspose.Total tillhandahåller den mest kompletta och effektiva uppsättningen av dokumentbehandlingslösningar utan någon annan mjukvaruinstallation och beroenden." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="Komplett uppsättning filformatshanteringslösningar" h2="Aspose.Total tillhandahåller den mest kompletta och effektiva uppsättningen av dokumentbehandlingslösningar utan någon annan mjukvaruinstallation och beroenden." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total High Code APIs inkluderar" >}}
@@ -65,7 +65,7 @@ Konvertera fritt över 100 format till andra dokument online.
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Vad folk säger" subTitle="Ta inte bara vårt ord för det. Se vad användare har att säga om Aspose.Words." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Vad folk säger" subTitle="Ta inte bara vårt ord för det. Se vad användare har att säga om Aspose.Words." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -90,7 +90,7 @@ Konvertera fritt över 100 format till andra dokument online.
 
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

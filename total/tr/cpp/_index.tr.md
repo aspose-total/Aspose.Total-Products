@@ -6,11 +6,11 @@ description: C++ Kitaplıkları, yazma oluşturmayı okur ve birden çok belge b
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Microsoft Office Dosya Biçimleri, PDF ve Barkod için C++ API'leri" h2="Microsoft Project, Excel, Word, PowerPoint, Outlook ve PDF formatlarını işlemek için yerel C++ uygulamaları geliştirin. Barkod oluşturucu ve okuyucu da dahildir!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Office Dosya Biçimleri, PDF ve Barkod için C++ API'leri" h2="Microsoft Project, Excel, Word, PowerPoint, Outlook ve PDF formatlarını işlemek için yerel C++ uygulamaları geliştirin. Barkod oluşturucu ve okuyucu da dahildir!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for C++, Office veya Adobe Otomasyonu gerektirmeden Microsoft Office ve PDF'den popüler formatları oluşturmak, işlemek ve dönüştürmek için özel olarak tasarlanmış eksiksiz bir C++ Dosya Formatı Otomasyonu kitaplıkları paketidir. C++ API paketi ayrıca, barkod oluşturma ve tanıma sürecini özelleştirmek için gelişmiş özelliklere sahip görüntülerden barkod etiketleri oluşturmak ve tanımak için özel bir kitaplık içerir.
@@ -184,7 +184,7 @@ Aspose.TeX for C++, tex dosyalarıyla çalışmak için bir tex entegrasyon ve y
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="İnsanlar ne diyor" subTitle="Sadece bizim sözümüze güvenmeyin. Kullanıcıların Aspose.Total API'leri hakkında söylediklerini görün." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="İnsanlar ne diyor" subTitle="Sadece bizim sözümüze güvenmeyin. Kullanıcıların Aspose.Total API'leri hakkında söylediklerini görün." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Stefan Studer | Nowhow Solutions AG, İsviçre" >}}
 İyi belgelenmiş talimat kılavuzu ve Aspose.Total bileşenlerinin sağlamlığı, DOCO'ya doğrudan entegrasyona yol açtı. Bu, geliştirme süresini beklenenden daha fazla kısaltmamıza yardımcı oldu.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -197,9 +197,9 @@ Aspose.Total for .NET paketi, kullandığımız bileşenlerin 'İsviçre çakıs
 {{< blocks/products/pf/testimonials-quote poster="Yassine Loudad | Qualetech, France" >}}
 Uygulama basitti, gerçekten mimarimize odaklanıyoruz ve Aspose tam olarak uyuyor. Mimarimiz performans ve çoklu iş parçacığı için son derece optimize edilmiştir ve yine Aspose.Total.net'i kullanmak sorun değil.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="belgeler" href="https://docs.aspose.com/total/cpp/" >}} 
@@ -219,9 +219,9 @@ Uygulama basitti, gerçekten mimarimize odaklanıyoruz ve Aspose tam olarak uyuy
 {{< blocks/products/pf/slr-element name="Başarı Öyküleri" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/total/cpp" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/total/cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total, diğer platformlar için bireysel çözümler sunar." >}}
 

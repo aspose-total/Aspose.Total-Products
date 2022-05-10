@@ -6,11 +6,11 @@ description: C# ASP.NET VB.NET API do tworzenia manipulować konwertować i rend
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Interfejsy API manipulacji formatem plików .NET" h2="Manipuluj programami Word, Excel, PDF, PowerPoint, Outlook i ponad 100 innymi formatami plików z poziomu aplikacji .NET, bez żadnych zależności programowych." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-net.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/total/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Interfejsy API manipulacji formatem plików .NET" h2="Manipuluj programami Word, Excel, PDF, PowerPoint, Outlook i ponad 100 innymi formatami plików z poziomu aplikacji .NET, bez żadnych zależności programowych." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-net.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://downloads.aspose.com/total/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://downloads.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total dla platformy .NET to najbardziej kompletny pakiet wszystkich interfejsów API automatyzacji formatu plików .NET oferowanych przez Aspose. Umożliwia programistom tworzenie, edytowanie, renderowanie, drukowanie i konwertowanie między najpopularniejszymi formatami plików w dowolnych aplikacjach .NET, C#, ASP.NET i VB.NET.
@@ -260,7 +260,7 @@ Aspose.TeX dla platformy .NET to API składu plików TeX. Może łatwo składać
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Co ludzie mówią" subTitle="Nie wierz nam tylko na słowo. Zobacz, co użytkownicy mają do powiedzenia na temat interfejsów API Aspose.Total." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Co ludzie mówią" subTitle="Nie wierz nam tylko na słowo. Zobacz, co użytkownicy mają do powiedzenia na temat interfejsów API Aspose.Total." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Stefan Studer | Nowhow Solutions AG, Szwajcaria" >}}
 Dobrze udokumentowana instrukcja obsługi i solidność komponentów Aspose.Total doprowadziły do prostej integracji z DOCO. Pomogło nam to skrócić czas opracowywania bardziej niż oczekiwano.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -273,9 +273,9 @@ W rzeczywistości pakiet Aspose.Total for .NET to „szwajcarski scyzoryk” kom
 {{< blocks/products/pf/testimonials-quote poster="Yassine Loudad | Qualetech, France" >}}
 Wdrożenie było proste, naprawdę skupiamy się na naszej architekturze, a Aspose po prostu pasuje. Nasza architektura jest wysoce zoptymalizowana pod kątem wydajności i wielowątkowości, a korzystanie z Aspose.Total.net nie stanowi problemu.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Zasoby edukacyjne" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentacja" href="https://docs.aspose.com/total/net/" >}} 
@@ -295,9 +295,9 @@ Wdrożenie było proste, naprawdę skupiamy się na naszej architekturze, a Aspo
 {{< blocks/products/pf/slr-element name="Historie sukcesów" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/net" pricingInformationLink="https://purchase.aspose.com/pricing/total/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/net" pricingInformationLink="https://purchase.aspose.com/pricing/total/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total oferuje indywidualne rozwiązania dla innych platform." >}}
 

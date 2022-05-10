@@ -6,7 +6,7 @@ description: 使用 On Premise 或 Cloud API 构建文档操作应用程序，�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="全套文件格式处理解决方案" h2="Aspose.Total 提供最完整、最高效的文档处理解决方案集，无需任何其他软件安装和依赖。" logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="全套文件格式处理解决方案" h2="Aspose.Total 提供最完整、最高效的文档处理解决方案集，无需任何其他软件安装和依赖。" logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total 高代码 API 包括" >}}
@@ -65,7 +65,7 @@ Aspose.Cells Cloud API 用于开发支持多种 Microsoft Excel 格式的电子�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="人们在说什么" subTitle="不要只相信我们的话。查看用户对 Aspose.Words 的评价。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="人们在说什么" subTitle="不要只相信我们的话。查看用户对 Aspose.Words 的评价。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -90,7 +90,7 @@ Aspose.Cells Cloud API 用于开发支持多种 Microsoft Excel 格式的电子�
 
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

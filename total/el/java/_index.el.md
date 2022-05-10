@@ -6,11 +6,11 @@ description: Συλλογή API για προγραμματιστές Java γι�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Δημιουργία, επεξεργασία και μετατροπή αρχείων μέσω Java API" h2="Χειριστείτε Word, Excel, PowerPoint, Outlook, PDF, 3D, CAD και άλλες μορφές εγγράφων από τις δικές σας εφαρμογές Java." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-java.svg" pfName="Aspose.Total" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/total/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Δημιουργία, επεξεργασία και μετατροπή αρχείων μέσω Java API" h2="Χειριστείτε Word, Excel, PowerPoint, Outlook, PDF, 3D, CAD και άλλες μορφές εγγράφων από τις δικές σας εφαρμογές Java." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-java.svg" pfName="Aspose.Total" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/total/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/java" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Το Aspose.Total για Java είναι μια συλλογή από βιβλιοθήκες Αυτοματισμού Μορφής Αρχείων για προγραμματιστές Java, που τους δίνει τη δυνατότητα να δημιουργούν, να ενημερώνουν, να εκτυπώνουν, να αποδίδουν και να μετατρέπουν μεταξύ πολλαπλών μορφών αρχείων μέσα από οποιεσδήποτε εφαρμογές Java J2SE, J2EE, J2ME.
@@ -254,7 +254,7 @@ description: Συλλογή API για προγραμματιστές Java γι�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Τι Λένε οι Άνθρωποι" subTitle="Μην παίρνετε το λόγο μας για αυτό. Δείτε τι λένε οι χρήστες για τα API Aspose.Total." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Τι Λένε οι Άνθρωποι" subTitle="Μην παίρνετε το λόγο μας για αυτό. Δείτε τι λένε οι χρήστες για τα API Aspose.Total." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Βραζιλία" >}}
 Κατά την υλοποίησή μας, μπορούσαμε να αντιληφθούμε ότι αγγίξαμε μόνο ένα κλάσμα από αυτό που μπορεί να κάνει το Apose.Total. Η ευκολία χρήσης του API δίνει στους προγραμματιστές ικανοποίηση για την «ολοκλήρωση της δουλειάς» με τον απλό και καθαρό κώδικα του και η στιβαρότητα του τελικού προϊόντος κάνει τους πελάτες μας χαρούμενους.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -267,9 +267,9 @@ description: Συλλογή API για προγραμματιστές Java γι�
 {{< blocks/products/pf/testimonials-quote poster="Θωμάς | Εγγραφείτε και μοιραστείτε, Γερμανία" >}}
 Το Aspose.Total είναι μια ισχυρή σουίτα για την επεξεργασία σχεδόν όλων των ειδών εγγράφων με υψηλή ταχύτητα και εξαιρετική ποιότητα. Μειώνει αποτελεσματικά την προσπάθεια προγραμματισμού.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Πόροι μάθησης" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Τεκμηρίωση" href="https://docs.aspose.com/total/java/" >}} 
@@ -289,9 +289,9 @@ description: Συλλογή API για προγραμματιστές Java γι�
 {{< blocks/products/pf/slr-element name="Ιστορίες επιτυχίας" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/java" pricingInformationLink="https://purchase.aspose.com/pricing/total/java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/java" pricingInformationLink="https://purchase.aspose.com/pricing/total/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Το Aspose.Total προσφέρει μεμονωμένες λύσεις για άλλες πλατφόρμες." >}}
 

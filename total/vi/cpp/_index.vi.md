@@ -6,11 +6,11 @@ description: Thư viện C ++ đọc kết xuất và chuyển đổi nhiều đ
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="API C ++ cho Định dạng tệp Microsoft Office, PDF & Mã vạch" h2="Phát triển các ứng dụng C ++ gốc để thao tác với các định dạng Microsoft Project, Excel, Word, PowerPoint, Outlook & PDF. Trình tạo và đọc mã vạch cũng được bao gồm!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API C ++ cho Định dạng tệp Microsoft Office, PDF & Mã vạch" h2="Phát triển các ứng dụng C ++ gốc để thao tác với các định dạng Microsoft Project, Excel, Word, PowerPoint, Outlook & PDF. Trình tạo và đọc mã vạch cũng được bao gồm!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for C ++ là một gói hoàn chỉnh của thư viện Tự động hóa Định dạng Tệp C ++ được thiết kế đặc biệt để tạo, thao tác và chuyển đổi các định dạng phổ biến từ Microsoft Office & PDF mà không yêu cầu Office hoặc Adobe Automation. Gói C ++ API cũng bao gồm một thư viện chuyên biệt để tạo và nhận dạng nhãn mã vạch từ hình ảnh với các tính năng nâng cao để tùy chỉnh quá trình tạo và nhận dạng mã vạch.
@@ -184,7 +184,7 @@ Aspose.TeX cho C ++ là một API quản lý và tích hợp tex để làm vi�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Mọi người đang nói gì" subTitle="Đừng chỉ lấy lời của chúng tôi cho nó. Xem người dùng nói gì về API Aspose.Total." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Mọi người đang nói gì" subTitle="Đừng chỉ lấy lời của chúng tôi cho nó. Xem người dùng nói gì về API Aspose.Total." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Stefan Studer | Nowhow Solutions AG, Thụy Sĩ" >}}
 Hướng dẫn sử dụng được ghi chép đầy đủ và sự mạnh mẽ của các thành phần Aspose.Total đã dẫn đến việc tích hợp dễ dàng vào DOCO. Điều này đã giúp chúng tôi cắt giảm thời gian phát triển hơn dự kiến.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -197,9 +197,9 @@ Thực tế, bộ Aspose.Total cho .NET là 'con dao quân đội Thụy Sĩ' ch
 {{< blocks/products/pf/testimonials-quote poster="Yassine Loudad | Qualetech, France" >}}
 Việc triển khai rất đơn giản, chúng tôi thực sự tập trung vào kiến trúc của mình và Aspose chỉ phù hợp một cách đơn giản. Kiến trúc của chúng tôi được tối ưu hóa cao cho hiệu suất và đa luồng, và một lần nữa, điều này không thành vấn đề khi sử dụng Aspose.Total.net.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Tài nguyên học tập" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Tài liệu" href="https://docs.aspose.com/total/cpp/" >}} 
@@ -219,9 +219,9 @@ Việc triển khai rất đơn giản, chúng tôi thực sự tập trung vào
 {{< blocks/products/pf/slr-element name="Câu chuyện thành công" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/total/cpp" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/total/cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total cung cấp các giải pháp riêng lẻ cho các nền tảng khác." >}}
 

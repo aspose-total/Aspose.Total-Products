@@ -6,11 +6,11 @@ description: C# ASP.NET VB.NET APIs मैनिपुलेट कन्वर�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET फ़ाइल स्वरूप हेरफेर एपीआई" h2="वर्ड, एक्सेल, पीडीएफ, पॉवरपॉइंट, आउटलुक और .NET अनुप्रयोगों के भीतर से 100 से अधिक अन्य फ़ाइल स्वरूपों में हेरफेर करें, बिना किसी सॉफ्टवेयर निर्भरता के।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-net.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/total/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET फ़ाइल स्वरूप हेरफेर एपीआई" h2="वर्ड, एक्सेल, पीडीएफ, पॉवरपॉइंट, आउटलुक और .NET अनुप्रयोगों के भीतर से 100 से अधिक अन्य फ़ाइल स्वरूपों में हेरफेर करें, बिना किसी सॉफ्टवेयर निर्भरता के।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-net.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://downloads.aspose.com/total/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://downloads.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for .NET, Aspose द्वारा पेश किए गए सभी .NET फ़ाइल फ़ॉर्मेट ऑटोमेशन APIs का सबसे संपूर्ण पैकेज है। यह डेवलपर्स को किसी भी .NET, C#, ASP.NET और VB.NET अनुप्रयोगों में सबसे लोकप्रिय फ़ाइल स्वरूपों के बीच बनाने, संपादित करने, प्रस्तुत करने, प्रिंट करने और परिवर्तित करने का अधिकार देता है।
@@ -260,7 +260,7 @@ Aspose.Font for .NET एक फ़ॉन्ट प्रबंधन और स�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="लोग क्या कह रहे हैं" subTitle="इसके लिए सिर्फ हमारी बात न लें। देखें कि Aspose.Total API के बारे में उपयोगकर्ताओं का क्या कहना है।" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="लोग क्या कह रहे हैं" subTitle="इसके लिए सिर्फ हमारी बात न लें। देखें कि Aspose.Total API के बारे में उपयोगकर्ताओं का क्या कहना है।" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="स्टीफन स्टडर | नाउहो सॉल्यूशंस एजी, स्विट्ज़रलैंड" >}}
 अच्छी तरह से प्रलेखित निर्देश मैनुअल और Aspose.Total घटकों की मजबूती ने DOCO में एक सीधा एकीकरण किया। इससे हमें अनुमान से अधिक विकास के समय में कटौती करने में मदद मिली।
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -273,9 +273,9 @@ Aspose.Font for .NET एक फ़ॉन्ट प्रबंधन और स�
 {{< blocks/products/pf/testimonials-quote poster="Yassine Loudad | Qualetech, France" >}}
 कार्यान्वयन सीधा था, हम वास्तव में अपनी वास्तुकला पर ध्यान केंद्रित करते हैं और एस्पोज बस में फिट बैठता है। हमारा आर्किटेक्चर प्रदर्शन और मल्टी-थ्रेडिंग के लिए अत्यधिक अनुकूलित है, और फिर से Aspose.Total.net का उपयोग करने में कोई समस्या नहीं है।
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="सीखने के संसाधन" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="प्रलेखन" href="https://docs.aspose.com/total/net/" >}} 
@@ -295,9 +295,9 @@ Aspose.Font for .NET एक फ़ॉन्ट प्रबंधन और स�
 {{< blocks/products/pf/slr-element name="सफलता की कहानियां" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/net" pricingInformationLink="https://purchase.aspose.com/pricing/total/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/net" pricingInformationLink="https://purchase.aspose.com/pricing/total/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total अन्य प्लेटफार्मों के लिए व्यक्तिगत समाधान प्रदान करता है।" >}}
 

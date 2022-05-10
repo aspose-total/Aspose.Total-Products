@@ -6,11 +6,11 @@ description: C++-Bibliotheken lesen, schreiben, rendern und konvertieren mehrere
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++-APIs für Microsoft Office-Dateiformate, PDF und Barcode" h2="Entwickeln Sie native C++-Anwendungen, um Microsoft Project-, Excel-, Word-, PowerPoint-, Outlook- und PDF-Formate zu bearbeiten. Barcode-Generator und -Leser ebenfalls enthalten!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++-APIs für Microsoft Office-Dateiformate, PDF und Barcode" h2="Entwickeln Sie native C++-Anwendungen, um Microsoft Project-, Excel-, Word-, PowerPoint-, Outlook- und PDF-Formate zu bearbeiten. Barcode-Generator und -Leser ebenfalls enthalten!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total für C++ ist ein komplettes Paket von C++-Dateiformatautomatisierungsbibliotheken, die speziell zum Erstellen, Bearbeiten und Konvertieren gängiger Formate aus Microsoft Office und PDF entwickelt wurden, ohne dass Office oder Adobe Automation erforderlich sind. Das C++-API-Paket enthält auch eine spezialisierte Bibliothek zum Generieren und Erkennen von Barcode-Etiketten aus Bildern mit erweiterten Funktionen zum Anpassen des Barcode-Erzeugungs- und Erkennungsprozesses.
@@ -184,7 +184,7 @@ Aspose.TeX für C++ ist eine Tex-Integrations- und Verwaltungs-API für die Arbe
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Was sagen die Leute" subTitle="Verlassen Sie sich nicht nur auf unser Wort. Sehen Sie, was Benutzer über Aspose.Total-APIs zu sagen haben." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Was sagen die Leute" subTitle="Verlassen Sie sich nicht nur auf unser Wort. Sehen Sie, was Benutzer über Aspose.Total-APIs zu sagen haben." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Stefan Studer | Nowhow Solutions AG, Schweiz" >}}
 Die gut dokumentierte Bedienungsanleitung und die Robustheit der Aspose.Total-Komponenten führten zu einer unkomplizierten Integration in DOCO. Dadurch konnten wir die Entwicklungszeit mehr als erwartet verkürzen.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -197,9 +197,9 @@ Tatsächlich ist die Aspose.Total for .NET-Suite das „Schweizer Taschenmesser�
 {{< blocks/products/pf/testimonials-quote poster="Yassine Loudad | Qualetech, France" >}}
 Die Implementierung war unkompliziert, wir konzentrieren uns wirklich auf unsere Architektur und Aspose passt einfach dazu. Unsere Architektur ist hochgradig auf Leistung und Multithreading optimiert, und auch dies ist kein Problem, Aspose.Total.net zu verwenden.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Lernmittel" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/total/cpp/" >}} 
@@ -219,9 +219,9 @@ Die Implementierung war unkompliziert, wir konzentrieren uns wirklich auf unsere
 {{< blocks/products/pf/slr-element name="Erfolgsgeschichten" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/total/cpp" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/total/cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total bietet individuelle Lösungen für andere Plattformen." >}}
 

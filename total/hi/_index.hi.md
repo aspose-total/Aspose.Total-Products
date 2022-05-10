@@ -6,7 +6,7 @@ description: ऑन-प्रिमाइस या क्लाउड एपी
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="फ़ाइल स्वरूप हेरफेर समाधान का पूरा सेट" h2="Aspose.Total बिना किसी अन्य सॉफ़्टवेयर इंस्टॉलेशन और निर्भरता के दस्तावेज़ प्रसंस्करण समाधान का सबसे पूर्ण और कुशल सेट प्रदान करता है।" logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="फ़ाइल स्वरूप हेरफेर समाधान का पूरा सेट" h2="Aspose.Total बिना किसी अन्य सॉफ़्टवेयर इंस्टॉलेशन और निर्भरता के दस्तावेज़ प्रसंस्करण समाधान का सबसे पूर्ण और कुशल सेट प्रदान करता है।" logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total High Code APIs शामिल करें" >}}
@@ -65,7 +65,7 @@ Aspose.Cells Cloud APIs स्प्रेडशीट मैनिपुले�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="लोग क्या कह रहे हैं" subTitle="इसके लिए सिर्फ हमारी बात न लें। देखें कि उपयोगकर्ताओं का Aspose.Words के बारे में क्या कहना है।" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="लोग क्या कह रहे हैं" subTitle="इसके लिए सिर्फ हमारी बात न लें। देखें कि उपयोगकर्ताओं का Aspose.Words के बारे में क्या कहना है।" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -90,7 +90,7 @@ Aspose.Cells Cloud APIs स्प्रेडशीट मैनिपुले�
 
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

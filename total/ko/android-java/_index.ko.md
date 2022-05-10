@@ -6,11 +6,11 @@ description: Word Excel PDF PowerPoint 및 이메일용 Android 파일 형식 AP
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="모바일 앱에서 파일 형식을 조작하는 Android API" h2="소프트웨어를 설치하지 않고도 모바일 앱에서 Word, Excel, PowerPoint, PDF, Outlook 및 기타 훨씬 더 많은 문서 형식을 조작할 수 있습니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-android-java.svg" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/total/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="모바일 앱에서 파일 형식을 조작하는 Android API" h2="소프트웨어를 설치하지 않고도 모바일 앱에서 Word, Excel, PowerPoint, PDF, Outlook 및 기타 훨씬 더 많은 문서 형식을 조작할 수 있습니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-android-java.svg" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/total/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Android via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/androidjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/androidjava" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/androidjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/androidjava" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Java를 통한 Android용 Aspose.Total은 Aspose에서 제공하는 모든 Android API의 컴파일입니다. 개발자는 Android 애플리케이션 내에서 다양한 문서 형식을 생성, 조작, 렌더링 및 변환할 수 있습니다.
@@ -139,7 +139,7 @@ Java를 통한 Android용 Aspose.BarCode는 모든 각도의 이미지에서 1D 
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="사람들이 말하는 것" subTitle="우리의 말을 그대로 받아들이지 마십시오. Aspose.Total API에 대한 사용자의 평가를 확인하십시오." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="사람들이 말하는 것" subTitle="우리의 말을 그대로 받아들이지 마십시오. Aspose.Total API에 대한 사용자의 평가를 확인하십시오." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brazil" >}}
 구현하는 동안 우리는 Apose.Total이 할 수 있는 것의 극히 일부만 건드렸음을 감지할 수 있었습니다. API의 사용 용이성은 단순하고 깨끗한 코드로 개발자에게 "작업 완료"에 대한 만족을 제공하고 최종 제품의 견고성은 고객을 만족시킵니다.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -152,9 +152,9 @@ Java를 통한 Android용 Aspose.BarCode는 모든 각도의 이미지에서 1D 
 {{< blocks/products/pf/testimonials-quote poster="Thomas | Join and Share, Germany" >}}
 Aspose.Total은 거의 모든 종류의 문서를 고속으로 우수한 품질로 처리하는 강력한 제품군입니다. 프로그래밍 노력을 효과적으로 줄입니다.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.com/total/androidjava/" >}} 
@@ -174,9 +174,9 @@ Aspose.Total은 거의 모든 종류의 문서를 고속으로 우수한 품질�
 {{< blocks/products/pf/slr-element name="성공 사례" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/total/android-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/total/android-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total은 다른 플랫폼에 대한 개별 솔루션을 제공합니다." >}}
 

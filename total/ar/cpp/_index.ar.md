@@ -6,11 +6,11 @@ description: تقوم مكتبات C ++ بقراءة عرض الكتابة وت�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="واجهات برمجة تطبيقات C ++ لتنسيقات ملفات Microsoft Office و PDF والباركود" h2="تطوير تطبيقات C ++ أصلية للتعامل مع تنسيقات Microsoft Project و Excel و Word و PowerPoint و Outlook و PDF. مولد الباركود والقارئ مدرج أيضا!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="واجهات برمجة تطبيقات C ++ لتنسيقات ملفات Microsoft Office و PDF والباركود" h2="تطوير تطبيقات C ++ أصلية للتعامل مع تنسيقات Microsoft Project و Excel و Word و PowerPoint و Outlook و PDF. مولد الباركود والقارئ مدرج أيضا!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for C ++ عبارة عن حزمة كاملة من مكتبات أتمتة تنسيق ملفات C ++ المصممة خصيصًا لإنشاء ومعالجة وتحويل التنسيقات الشائعة من Microsoft Office و PDF دون الحاجة إلى Office أو Adobe Automation. تتضمن حزمة C ++ API أيضًا مكتبة متخصصة لإنشاء والتعرف على ملصقات الباركود من الصور ذات الميزات المتقدمة لتخصيص عملية إنشاء الرمز الشريطي والتعرف عليه.
@@ -184,7 +184,7 @@ Aspose.TeX for C ++ هي واجهة برمجة تطبيقات لإدارة وت�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="ما يقوله الناس" subTitle="لا تأخذ كلمتنا فقط. تعرف على ما يقوله المستخدمون عن Aspose.Total APIs." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="ما يقوله الناس" subTitle="لا تأخذ كلمتنا فقط. تعرف على ما يقوله المستخدمون عن Aspose.Total APIs." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="ستيفان ستودر | Nowhow Solutions AG ، سويسرا" >}}
 دليل التعليمات الموثق جيدًا ومتانة Aspose. أدت المكونات الإجمالية إلى اندماج مباشر في DOCO. لقد ساعدنا ذلك في تقليص وقت التطوير أكثر مما كان متوقعًا.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -197,9 +197,9 @@ Aspose.TeX for C ++ هي واجهة برمجة تطبيقات لإدارة وت�
 {{< blocks/products/pf/testimonials-quote poster="Yassine Loudad | Qualetech, France" >}}
 كان التنفيذ واضحًا ، فنحن نركز حقًا على تصميمنا و Aspose يناسب ببساطة. تم تحسين بنيتنا بشكل كبير للأداء وخيوط المعالجة المتعددة ، ومرة أخرى لا توجد مشكلة في استخدام Aspose.Total.net.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="مصادر التعلم" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.com/total/cpp/" >}} 
@@ -219,9 +219,9 @@ Aspose.TeX for C ++ هي واجهة برمجة تطبيقات لإدارة وت�
 {{< blocks/products/pf/slr-element name="قصص نجاح" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/total/cpp" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/total/cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="تقدم Aspose.Total حلولاً فردية لمنصات أخرى." >}}
 

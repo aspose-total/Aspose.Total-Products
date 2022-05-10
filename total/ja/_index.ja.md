@@ -6,7 +6,7 @@ description: オンプレミスまたはクラウドAPIを使用してドキュ�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="ファイル形式操作ソリューションの完全なセット" h2="Aspose.Totalは、他のソフトウェアのインストールや依存関係なしに、最も完全で効率的なドキュメント処理ソリューションのセットを提供します。" logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="ファイル形式操作ソリューションの完全なセット" h2="Aspose.Totalは、他のソフトウェアのインストールや依存関係なしに、最も完全で効率的なドキュメント処理ソリューションのセットを提供します。" logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total HighCodeAPIには次のものが含まれます" >}}
@@ -65,7 +65,7 @@ Aspose.Cells Cloud APIは、複数のMicrosoftExcel形式をサポートする�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="人々が言っていること" subTitle="私たちの言葉をそのまま受け入れるのではありません。 Aspose.Wordsについてユーザーが何を言わなければならないかをご覧ください。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="人々が言っていること" subTitle="私たちの言葉をそのまま受け入れるのではありません。 Aspose.Wordsについてユーザーが何を言わなければならないかをご覧ください。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -90,7 +90,7 @@ Aspose.Cells Cloud APIは、複数のMicrosoftExcel形式をサポートする�
 
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

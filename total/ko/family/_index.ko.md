@@ -6,7 +6,7 @@ description: Microsoft Excel Word PowerPoint 이메일 PDF Visio 프로젝트 �
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="완전한 파일 형식 조작 API 세트" h2=".NET, Java, Android, C++ 및 기타 플랫폼용 기본 API를 사용하여 Word, Excel, PDF, PowerPoint, Outlook 및 100개 이상의 기타 파일 형식을 조작하십시오." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://downloads.aspose.com/total" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="완전한 파일 형식 조작 API 세트" h2=".NET, Java, Android, C++ 및 기타 플랫폼용 기본 API를 사용하여 Word, Excel, PDF, PowerPoint, Outlook 및 100개 이상의 기타 파일 형식을 조작하십시오." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://downloads.aspose.com/total" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total 제품군 포함" >}}
@@ -42,7 +42,7 @@ JasperReports 또는 JasperServer에서 Word, Excel, PowerPoint 및 기타 형�
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.com/total/" >}}
 {{< blocks/products/pf/slr-element name="소스 코드" href="http://aspose.github.io/" >}}
@@ -61,8 +61,8 @@ JasperReports 또는 JasperServer에서 Word, Excel, PowerPoint 및 기타 형�
 {{< blocks/products/pf/slr-element name="성공 사례" href="https://company.aspose.com/customers/success-stories/aspose-total" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total" pricingInformationLink="https://purchase.aspose.com/pricing/total" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total" pricingInformationLink="https://purchase.aspose.com/pricing/total" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

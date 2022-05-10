@@ -6,11 +6,11 @@ description: Οι βιβλιοθήκες C++ διαβάζουν την απόδ�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ API για μορφές αρχείων Microsoft Office, PDF και γραμμωτό κώδικα" h2="Αναπτύξτε εγγενείς εφαρμογές C++ για χειρισμό μορφών Microsoft Project, Excel, Word, PowerPoint, Outlook και PDF. Περιλαμβάνεται επίσης γεννήτρια γραμμωτού κώδικα και συσκευή ανάγνωσης!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ API για μορφές αρχείων Microsoft Office, PDF και γραμμωτό κώδικα" h2="Αναπτύξτε εγγενείς εφαρμογές C++ για χειρισμό μορφών Microsoft Project, Excel, Word, PowerPoint, Outlook και PDF. Περιλαμβάνεται επίσης γεννήτρια γραμμωτού κώδικα και συσκευή ανάγνωσης!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Το Aspose.Total για C++ είναι ένα πλήρες πακέτο βιβλιοθηκών C++ File Format Automation που έχουν σχεδιαστεί ειδικά για τη δημιουργία, το χειρισμό και τη μετατροπή δημοφιλών μορφών από το Microsoft Office & PDF χωρίς να απαιτείται Office ή Adobe Automation. Το πακέτο C++ API περιλαμβάνει επίσης μια εξειδικευμένη βιβλιοθήκη για τη δημιουργία και αναγνώριση ετικετών γραμμωτού κώδικα από εικόνες με προηγμένες δυνατότητες για την προσαρμογή της διαδικασίας δημιουργίας και αναγνώρισης γραμμωτού κώδικα.
@@ -184,7 +184,7 @@ description: Οι βιβλιοθήκες C++ διαβάζουν την απόδ�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Τι Λένε οι Άνθρωποι" subTitle="Μην παίρνετε το λόγο μας για αυτό. Δείτε τι λένε οι χρήστες για τα Aspose.Total API." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Τι Λένε οι Άνθρωποι" subTitle="Μην παίρνετε το λόγο μας για αυτό. Δείτε τι λένε οι χρήστες για τα Aspose.Total API." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Stefan Studer | Nowhow Solutions AG, Ελβετία" >}}
 Το καλά τεκμηριωμένο εγχειρίδιο οδηγιών και η στιβαρότητα των εξαρτημάτων Aspose.Total οδήγησαν σε μια απλή ενσωμάτωση στο DOCO. Αυτό μας βοήθησε να μειώσουμε το χρόνο ανάπτυξης περισσότερο από το αναμενόμενο.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -197,9 +197,9 @@ description: Οι βιβλιοθήκες C++ διαβάζουν την απόδ�
 {{< blocks/products/pf/testimonials-quote poster="Yassine Loudad | Qualetech, France" >}}
 Η υλοποίηση ήταν απλή, εστιάζουμε πραγματικά στην αρχιτεκτονική μας και το Aspose ταιριάζει απλά. Η αρχιτεκτονική μας είναι εξαιρετικά βελτιστοποιημένη για απόδοση και πολλαπλές νήματα, και πάλι δεν υπάρχει πρόβλημα στη χρήση του Aspose.Total.net.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Πόροι μάθησης" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Τεκμηρίωση" href="https://docs.aspose.com/total/cpp/" >}} 
@@ -219,9 +219,9 @@ description: Οι βιβλιοθήκες C++ διαβάζουν την απόδ�
 {{< blocks/products/pf/slr-element name="Ιστορίες επιτυχίας" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/total/cpp" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/total/cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Το Aspose.Total προσφέρει μεμονωμένες λύσεις για άλλες πλατφόρμες." >}}
 

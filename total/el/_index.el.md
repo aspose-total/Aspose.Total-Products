@@ -6,7 +6,7 @@ description: Δημιουργήστε εφαρμογές χειρισμού εγ
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Πλήρες σύνολο λύσεων χειρισμού μορφής αρχείου" h2="Το Aspose.Total παρέχει το πιο πλήρες και αποτελεσματικό σύνολο λύσεων επεξεργασίας εγγράφων χωρίς καμία άλλη εγκατάσταση λογισμικού και εξαρτήσεις." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="Πλήρες σύνολο λύσεων χειρισμού μορφής αρχείου" h2="Το Aspose.Total παρέχει το πιο πλήρες και αποτελεσματικό σύνολο λύσεων επεξεργασίας εγγράφων χωρίς καμία άλλη εγκατάσταση λογισμικού και εξαρτήσεις." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total High Code APIs Include" >}}
@@ -65,7 +65,7 @@ Aspose.Cells Cloud API για την ανάπτυξη εφαρμογών χει�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Τι Λένε οι Άνθρωποι" subTitle="Μην παίρνετε το λόγο μας για αυτό. Δείτε τι έχουν να πουν οι χρήστες για το Aspose.Words." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Τι Λένε οι Άνθρωποι" subTitle="Μην παίρνετε το λόγο μας για αυτό. Δείτε τι έχουν να πουν οι χρήστες για το Aspose.Words." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -90,7 +90,7 @@ Aspose.Cells Cloud API για την ανάπτυξη εφαρμογών χει�
 
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

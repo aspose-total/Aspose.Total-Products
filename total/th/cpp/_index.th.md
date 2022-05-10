@@ -6,11 +6,11 @@ description: C ++ Libraries อ่านการเขียนและแป�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ API สำหรับรูปแบบไฟล์ Microsoft Office, PDF และบาร์โค้ด" h2="พัฒนาแอปพลิเคชัน C++ ดั้งเดิมเพื่อจัดการรูปแบบ Microsoft Project, Excel, Word, PowerPoint, Outlook และ PDF เครื่องกำเนิดบาร์โค้ดและเครื่องอ่านรวมอยู่ด้วย!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ API สำหรับรูปแบบไฟล์ Microsoft Office, PDF และบาร์โค้ด" h2="พัฒนาแอปพลิเคชัน C++ ดั้งเดิมเพื่อจัดการรูปแบบ Microsoft Project, Excel, Word, PowerPoint, Outlook และ PDF เครื่องกำเนิดบาร์โค้ดและเครื่องอ่านรวมอยู่ด้วย!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total สำหรับ C++ เป็นแพ็คเกจที่สมบูรณ์ของไลบรารี C++ File Format Automation ที่ออกแบบมาโดยเฉพาะเพื่อสร้าง จัดการ และแปลงรูปแบบยอดนิยมจาก Microsoft Office และ PDF โดยไม่ต้องใช้ Office หรือ Adobe Automation แพ็คเกจ C++ API ยังรวมถึงไลบรารีเฉพาะเพื่อสร้างและจดจำฉลากบาร์โค้ดจากรูปภาพด้วยคุณสมบัติขั้นสูงเพื่อปรับแต่งกระบวนการสร้างบาร์โค้ดและจดจำ
@@ -184,7 +184,7 @@ Aspose.TeX สำหรับ C++ คือ API การจัดการแ�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="สิ่งที่ผู้คนกำลังพูด" subTitle="อย่าเพิ่งใช้คำพูดของเราสำหรับมัน ดูว่าผู้ใช้พูดถึง Aspose.Total API อย่างไร" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="สิ่งที่ผู้คนกำลังพูด" subTitle="อย่าเพิ่งใช้คำพูดของเราสำหรับมัน ดูว่าผู้ใช้พูดถึง Aspose.Total API อย่างไร" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="สเตฟาน สตูเดอร์ | Nowhow Solutions AG, สวิตเซอร์แลนด์" >}}
 คู่มือการใช้งานที่มีการจัดทำเป็นเอกสารอย่างดีและความทนทานของ Aspose ส่วนประกอบทั้งหมดนำไปสู่การรวมเข้ากับ DOCO อย่างตรงไปตรงมา สิ่งนี้ช่วยให้เราลดเวลาในการพัฒนาได้มากกว่าที่คาดไว้
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -197,9 +197,9 @@ Aspose.Total สำหรับชุด .NET อย่างมีประส�
 {{< blocks/products/pf/testimonials-quote poster="Yassine Loudad | Qualetech, France" >}}
 การนำไปใช้นั้นตรงไปตรงมา เรามุ่งเน้นที่สถาปัตยกรรมของเราจริงๆ และ Aspose ก็เข้ากันได้อย่างเรียบง่าย สถาปัตยกรรมของเราได้รับการปรับให้เหมาะสมที่สุดสำหรับประสิทธิภาพการทำงานและมัลติเธรด และอีกครั้งก็ไม่มีปัญหาในการใช้ Aspose.Total.net
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="แหล่งเรียนรู้" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="เอกสาร" href="https://docs.aspose.com/total/cpp/" >}} 
@@ -219,9 +219,9 @@ Aspose.Total สำหรับชุด .NET อย่างมีประส�
 {{< blocks/products/pf/slr-element name="เรื่องราวความสำเร็จ" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/total/cpp" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/total/cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total นำเสนอโซลูชันส่วนบุคคลสำหรับแพลตฟอร์มอื่นๆ" >}}
 

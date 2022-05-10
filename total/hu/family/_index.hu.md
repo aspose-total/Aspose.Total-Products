@@ -6,7 +6,7 @@ description: Microsoft Excel Word PowerPoint e-mail PDF Visio Project Vonalkód 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="A fájlformátum-manipulációs API-k teljes készlete" h2="Manipuláljon Word, Excel, PDF, PowerPoint, Outlook és több mint 100 egyéb fájlformátumot a .NET, Java, Android, C++ és más platformokhoz készült natív API-jaink segítségével." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://downloads.aspose.com/total" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="A fájlformátum-manipulációs API-k teljes készlete" h2="Manipuláljon Word, Excel, PDF, PowerPoint, Outlook és több mint 100 egyéb fájlformátumot a .NET, Java, Android, C++ és más platformokhoz készült natív API-jaink segítségével." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://downloads.aspose.com/total" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.A teljes termékcsaládot tartalmazza" >}}
@@ -42,7 +42,7 @@ Exportálhatja a jelentéseket Word, Excel, PowerPoint és más formátumokba a 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Tanulási források" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentáció" href="https://docs.aspose.com/total/" >}}
 {{< blocks/products/pf/slr-element name="Forráskód" href="http://aspose.github.io/" >}}
@@ -61,8 +61,8 @@ Exportálhatja a jelentéseket Word, Excel, PowerPoint és más formátumokba a 
 {{< blocks/products/pf/slr-element name="Sikertörténetek" href="https://company.aspose.com/customers/success-stories/aspose-total" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total" pricingInformationLink="https://purchase.aspose.com/pricing/total" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total" pricingInformationLink="https://purchase.aspose.com/pricing/total" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

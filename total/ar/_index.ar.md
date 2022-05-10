@@ -6,7 +6,7 @@ description: أنشئ تطبيقات لمعالجة المستندات باست�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="مجموعة كاملة من حلول معالجة تنسيق الملف" h2="Aspose.Total يوفر المجموعة الأكثر اكتمالا وفعالية من حلول معالجة المستندات دون أي تثبيت برامج أخرى وتبعيات." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="مجموعة كاملة من حلول معالجة تنسيق الملف" h2="Aspose.Total يوفر المجموعة الأكثر اكتمالا وفعالية من حلول معالجة المستندات دون أي تثبيت برامج أخرى وتبعيات." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total High Code APIs تشمل" >}}
@@ -65,7 +65,7 @@ Aspose.Cells Cloud APIs لتطوير تطبيقات معالجة جداول ال
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="ما يقوله الناس" subTitle="لا تأخذ كلمتنا فقط. تعرف على ما يقوله المستخدمون عن Aspose.Words." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="ما يقوله الناس" subTitle="لا تأخذ كلمتنا فقط. تعرف على ما يقوله المستخدمون عن Aspose.Words." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -90,7 +90,7 @@ Aspose.Cells Cloud APIs لتطوير تطبيقات معالجة جداول ال
 
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

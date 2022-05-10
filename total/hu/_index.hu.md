@@ -6,7 +6,7 @@ description: Készítsen dokumentumkezelő alkalmazásokat On Premise vagy Cloud
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Fájlformátum-manipulációs megoldások teljes készlete" h2="Az Aspose.Total a legteljesebb és leghatékonyabb dokumentumfeldolgozási megoldást kínálja, minden egyéb szoftver telepítése és függőségei nélkül." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="Fájlformátum-manipulációs megoldások teljes készlete" h2="Az Aspose.Total a legteljesebb és leghatékonyabb dokumentumfeldolgozási megoldást kínálja, minden egyéb szoftver telepítése és függőségei nélkül." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total High Code API-k tartalmazzák" >}}
@@ -65,7 +65,7 @@ Ingyenesen konvertálhat több mint 100 formátumot más dokumentumokká online.
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Mit mondanak az emberek" subTitle="Ne csak szót fogadjon. Tekintse meg, mit mondanak a felhasználók az Aspose.Words-ről." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Mit mondanak az emberek" subTitle="Ne csak szót fogadjon. Tekintse meg, mit mondanak a felhasználók az Aspose.Words-ről." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -90,7 +90,7 @@ Ingyenesen konvertálhat több mint 100 formátumot más dokumentumokká online.
 
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

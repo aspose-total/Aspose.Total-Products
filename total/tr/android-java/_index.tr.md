@@ -6,11 +6,11 @@ description: Word Excel PDF PowerPoint ve E-postalar için Android Dosya Biçimi
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Mobil Uygulamalarda Dosya Biçimlerini Değiştirmek için Android API'leri" h2="Herhangi bir yazılım yüklemeden mobil uygulamalarda Word, Excel, PowerPoint, PDF, Outlook ve diğer birçok belge biçimini işleyin." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-android-java.svg" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/total/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Mobil Uygulamalarda Dosya Biçimlerini Değiştirmek için Android API'leri" h2="Herhangi bir yazılım yüklemeden mobil uygulamalarda Word, Excel, PowerPoint, PDF, Outlook ve diğer birçok belge biçimini işleyin." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-android-java.svg" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/total/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Android via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/androidjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/androidjava" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/androidjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/androidjava" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for Android, Aspose tarafından sunulan tüm Android API'lerinin bir derlemesidir. Geliştiriciler, Android uygulamalarında farklı belge biçimleri oluşturabilir, değiştirebilir, görüntüleyebilir ve dönüştürebilir.
@@ -139,7 +139,7 @@ Aspose.BarCode for Android, herhangi bir açıda görüntülerden 1D ve 2D barko
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="İnsanlar ne diyor" subTitle="Sadece bizim sözümüze güvenmeyin. Kullanıcıların Aspose.Total API'leri hakkında söylediklerini görün." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="İnsanlar ne diyor" subTitle="Sadece bizim sözümüze güvenmeyin. Kullanıcıların Aspose.Total API'leri hakkında söylediklerini görün." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brazil" >}}
 Uygulamamız sırasında Apose.Total'ın yapabileceklerinin sadece bir kısmına dokunduğumuzu hissettik. API'nin kullanım kolaylığı, basit ve temiz koduyla geliştiricilere "işleri bitirme" konusunda memnuniyet verir ve son ürünün sağlamlığı müşterilerimizi mutlu eder.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -152,9 +152,9 @@ Tek bir şey söyleyebiliriz: mükemmel ürün ve mükemmel hizmet. Bazen, müş
 {{< blocks/products/pf/testimonials-quote poster="Thomas | Join and Share, Germany" >}}
 Aspose.Total, neredeyse her tür belgeyi yüksek hızda ve mükemmel kalitede işlemek için güçlü bir pakettir. Programlama çabasını etkili bir şekilde azaltır.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="belgeler" href="https://docs.aspose.com/total/androidjava/" >}} 
@@ -174,9 +174,9 @@ Aspose.Total, neredeyse her tür belgeyi yüksek hızda ve mükemmel kalitede i�
 {{< blocks/products/pf/slr-element name="Başarı Öyküleri" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/total/android-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/total/android-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total, diğer platformlar için bireysel çözümler sunar." >}}
 

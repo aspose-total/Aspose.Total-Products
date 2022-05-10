@@ -6,11 +6,11 @@ description: C++ 라이브러리는 읽기 쓰기 렌더링을 읽고 여러 문
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Microsoft Office 파일 형식, PDF 및 바코드용 C++ API" h2="Microsoft Project, Excel, Word, PowerPoint, Outlook 및 PDF 형식을 조작하는 기본 C++ 응용 프로그램을 개발합니다. 바코드 생성기 및 리더도 포함되어 있습니다!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Office 파일 형식, PDF 및 바코드용 C++ API" h2="Microsoft Project, Excel, Word, PowerPoint, Outlook 및 PDF 형식을 조작하는 기본 C++ 응용 프로그램을 개발합니다. 바코드 생성기 및 리더도 포함되어 있습니다!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for C++는 Office 또는 Adobe 자동화 없이도 Microsoft Office 및 PDF에서 널리 사용되는 형식을 생성, 조작 및 변환하도록 특별히 설계된 C++ 파일 형식 자동화 라이브러리의 완전한 패키지입니다. C++ API 패키지에는 바코드 생성 및 인식 프로세스를 사용자 지정하는 고급 기능이 있는 이미지에서 바코드 레이블을 생성 및 인식하는 특수 라이브러리도 포함되어 있습니다.
@@ -184,7 +184,7 @@ Aspose.TeX for C++는 tex 파일로 작업하기 위한 tex 통합 및 관리 AP
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="사람들이 말하는 것" subTitle="우리의 말을 그대로 받아들이지 마십시오. Aspose.Total API에 대한 사용자의 평가를 확인하십시오." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="사람들이 말하는 것" subTitle="우리의 말을 그대로 받아들이지 마십시오. Aspose.Total API에 대한 사용자의 평가를 확인하십시오." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="스테판 스튜더 | Nowhow Solutions AG, 스위스" >}}
 잘 문서화된 사용 설명서와 Aspose.Total 구성 요소의 견고성은 DOCO에 대한 직접적인 통합으로 이어졌습니다. 이를 통해 예상보다 개발 시간을 단축할 수 있었습니다.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -197,9 +197,9 @@ Aspose.TeX for C++는 tex 파일로 작업하기 위한 tex 통합 및 관리 AP
 {{< blocks/products/pf/testimonials-quote poster="Yassine Loudad | Qualetech, France" >}}
 구현은 간단했습니다. 우리는 아키텍처에 정말 집중했고 Aspose가 딱 들어맞았습니다. 우리의 아키텍처는 성능 및 멀티 스레딩에 대해 고도로 최적화되어 있으며 Aspose.Total.net을 사용하는 데에도 문제가 없습니다.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.com/total/cpp/" >}} 
@@ -219,9 +219,9 @@ Aspose.TeX for C++는 tex 파일로 작업하기 위한 tex 통합 및 관리 AP
 {{< blocks/products/pf/slr-element name="성공 사례" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/total/cpp" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/total/cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total은 다른 플랫폼에 대한 개별 솔루션을 제공합니다." >}}
 

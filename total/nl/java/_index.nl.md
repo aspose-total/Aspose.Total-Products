@@ -6,11 +6,11 @@ description: Verzameling van API's voor Java-ontwikkelaars om bestanden te manip
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Bestanden maken, bewerken en converteren via Java API's" h2="Bewerk Word, Excel, PowerPoint, Outlook, PDF, 3D, CAD en andere documentformaten vanuit uw eigen Java-applicaties." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-java.svg" pfName="Aspose.Total" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/total/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Bestanden maken, bewerken en converteren via Java API's" h2="Bewerk Word, Excel, PowerPoint, Outlook, PDF, 3D, CAD en andere documentformaten vanuit uw eigen Java-applicaties." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-java.svg" pfName="Aspose.Total" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/total/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/java" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total voor Java is een verzameling bibliotheken voor automatisering van bestandsindelingen voor Java-ontwikkelaars, waarmee ze meerdere bestandsindelingen kunnen maken, bijwerken, afdrukken, renderen en converteren vanuit elke Java J2SE-, J2EE-, J2ME-toepassing.
@@ -254,7 +254,7 @@ Aspose.TeX voor Java is een API voor het zetten van TeX-bestanden. Het kan gemak
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Wat mensen zeggen" subTitle="Geloof ons niet zomaar op ons woord. Bekijk wat gebruikers te zeggen hebben over Aspose.Total API's." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Wat mensen zeggen" subTitle="Geloof ons niet zomaar op ons woord. Bekijk wat gebruikers te zeggen hebben over Aspose.Total API's." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brazilië" >}}
 Tijdens onze implementatie konden we voelen dat we slechts een fractie hebben aangeraakt van waartoe Apose.Total in staat is. Het gebruiksgemak van de API geeft de ontwikkelaars voldoening omdat ze "het werk gedaan krijgen" met zijn eenvoudige en schone code, en de robuustheid van het eindproduct maakt onze klanten blij.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -267,9 +267,9 @@ We kunnen maar één ding zeggen: uitstekend product en uitstekende service. Som
 {{< blocks/products/pf/testimonials-quote poster="Thomas | Doe mee en deel, Duitsland" >}}
 Aspose.Total is een krachtige suite om bijna alle soorten documenten met hoge snelheid en hoge kwaliteit te verwerken. Het vermindert effectief de programmeerinspanning.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Leermiddelen" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentatie" href="https://docs.aspose.com/total/java/" >}} 
@@ -289,9 +289,9 @@ Aspose.Total is een krachtige suite om bijna alle soorten documenten met hoge sn
 {{< blocks/products/pf/slr-element name="Succesverhalen" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/java" pricingInformationLink="https://purchase.aspose.com/pricing/total/java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/java" pricingInformationLink="https://purchase.aspose.com/pricing/total/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total biedt individuele oplossingen voor andere platformen." >}}
 

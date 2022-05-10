@@ -6,11 +6,11 @@ description: Perpustakaan C++ membaca tulis menulis dan mengonversi berbagai for
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ API untuk Format File Microsoft Office, PDF & Barcode" h2="Kembangkan aplikasi C++ asli untuk memanipulasi format Microsoft Project, Excel, Word, PowerPoint, Outlook & PDF. Generator & pembaca kode batang juga disertakan!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ API untuk Format File Microsoft Office, PDF & Barcode" h2="Kembangkan aplikasi C++ asli untuk memanipulasi format Microsoft Project, Excel, Word, PowerPoint, Outlook & PDF. Generator & pembaca kode batang juga disertakan!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for C++ adalah paket lengkap library C++ File Format Automation yang dirancang khusus untuk membuat, memanipulasi & mengonversi format populer dari Microsoft Office & PDF tanpa memerlukan Office atau Adobe Automation. Paket C++ API juga mencakup perpustakaan khusus untuk menghasilkan & mengenali label kode batang dari gambar dengan fitur-fitur canggih untuk menyesuaikan pembuatan kode batang dan proses pengenalan.
@@ -184,7 +184,7 @@ Aspose.TeX untuk C++ adalah integrasi tex dan API manajemen untuk bekerja dengan
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Apa yang Orang Katakan" subTitle="Jangan hanya mengambil kata kami untuk itu. Lihat apa yang pengguna katakan tentang Aspose.Total API." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Apa yang Orang Katakan" subTitle="Jangan hanya mengambil kata kami untuk itu. Lihat apa yang pengguna katakan tentang Aspose.Total API." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Stefan Studer | Nowhow Solutions AG, Swiss" >}}
 Manual instruksi yang terdokumentasi dengan baik dan kekokohan komponen Aspose.Total menghasilkan integrasi langsung ke DOCO. Ini membantu kami memangkas waktu pengembangan lebih dari yang diantisipasi.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -197,9 +197,9 @@ Secara efektif Aspose.Total untuk .NET suite adalah 'pisau tentara Swiss' dari k
 {{< blocks/products/pf/testimonials-quote poster="Yassine Loudad | Qualetech, France" >}}
 Implementasinya mudah, kami benar-benar fokus pada arsitektur kami dan Aspose hanya cocok. Arsitektur kami sangat dioptimalkan untuk kinerja dan multi-threading, dan sekali lagi ini bukan masalah untuk menggunakan Aspose.Total.net.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Sumber Belajar" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentasi" href="https://docs.aspose.com/total/cpp/" >}} 
@@ -219,9 +219,9 @@ Implementasinya mudah, kami benar-benar fokus pada arsitektur kami dan Aspose ha
 {{< blocks/products/pf/slr-element name="Cerita-cerita sukses" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/total/cpp" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/total/cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total menawarkan solusi individual untuk platform lain." >}}
 

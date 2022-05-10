@@ -6,7 +6,7 @@ description: Vytvářejte aplikace pro manipulaci s dokumenty pomocí rozhraní 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Kompletní sada řešení pro manipulaci s formátem souborů" h2="Aspose.Total poskytuje nejúplnější a nejúčinnější sadu řešení pro zpracování dokumentů bez jakékoli další instalace softwaru a závislostí." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="Kompletní sada řešení pro manipulaci s formátem souborů" h2="Aspose.Total poskytuje nejúplnější a nejúčinnější sadu řešení pro zpracování dokumentů bez jakékoli další instalace softwaru a závislostí." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total High Code API zahrnuje" >}}
@@ -65,7 +65,7 @@ Zdarma převádět 100+ formátů na jiné dokumenty online.
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Co lidé říkají" subTitle="Neberte nás za slovo. Podívejte se, co uživatelé říkají o Aspose.Words." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Co lidé říkají" subTitle="Neberte nás za slovo. Podívejte se, co uživatelé říkají o Aspose.Words." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -90,7 +90,7 @@ Zdarma převádět 100+ formátů na jiné dokumenty online.
 
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

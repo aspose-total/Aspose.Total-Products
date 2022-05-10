@@ -6,7 +6,7 @@ description: Şirket İçi veya Bulut API'lerini kullanarak belge işleme uygula
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Eksiksiz Dosya Biçimi Manipülasyon Çözümleri Seti" h2="Aspose.Total, başka herhangi bir yazılım kurulumu ve bağımlılığı olmaksızın en eksiksiz ve verimli belge işleme çözümlerini sunar." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="Eksiksiz Dosya Biçimi Manipülasyon Çözümleri Seti" h2="Aspose.Total, başka herhangi bir yazılım kurulumu ve bağımlılığı olmaksızın en eksiksiz ve verimli belge işleme çözümlerini sunar." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total High Code API'leri şunları içerir:" >}}
@@ -65,7 +65,7 @@ Orijinal kaliteyi korurken belgeleri kolayca sıkıştırın.
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="İnsanlar ne diyor" subTitle="Sadece bizim sözümüze güvenmeyin. Kullanıcıların Aspose.Words hakkında söylediklerini görün." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="İnsanlar ne diyor" subTitle="Sadece bizim sözümüze güvenmeyin. Kullanıcıların Aspose.Words hakkında söylediklerini görün." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -90,7 +90,7 @@ Orijinal kaliteyi korurken belgeleri kolayca sıkıştırın.
 
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

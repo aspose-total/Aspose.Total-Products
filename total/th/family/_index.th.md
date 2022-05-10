@@ -6,7 +6,7 @@ description: Microsoft Excel Word PowerPoint อีเมล PDF Visio Project B
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="ชุด API การจัดการรูปแบบไฟล์ที่สมบูรณ์" h2="จัดการ Word, Excel, PDF, PowerPoint, Outlook และรูปแบบไฟล์อื่นๆ อีกกว่า 100 รูปแบบโดยใช้ API ดั้งเดิมของเราสำหรับ .NET, Java, Android, C++ และแพลตฟอร์มอื่นๆ" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://downloads.aspose.com/total" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="ชุด API การจัดการรูปแบบไฟล์ที่สมบูรณ์" h2="จัดการ Word, Excel, PDF, PowerPoint, Outlook และรูปแบบไฟล์อื่นๆ อีกกว่า 100 รูปแบบโดยใช้ API ดั้งเดิมของเราสำหรับ .NET, Java, Android, C++ และแพลตฟอร์มอื่นๆ" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://downloads.aspose.com/total" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total Product Family รวม" >}}
@@ -42,7 +42,7 @@ Native Java APIs สำหรับเดสก์ท็อป เว็บ ห�
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="แหล่งเรียนรู้" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="เอกสาร" href="https://docs.aspose.com/total/" >}}
 {{< blocks/products/pf/slr-element name="รหัสแหล่งที่มา" href="http://aspose.github.io/" >}}
@@ -61,8 +61,8 @@ Native Java APIs สำหรับเดสก์ท็อป เว็บ ห�
 {{< blocks/products/pf/slr-element name="เรื่องราวความสำเร็จ" href="https://company.aspose.com/customers/success-stories/aspose-total" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total" pricingInformationLink="https://purchase.aspose.com/pricing/total" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total" pricingInformationLink="https://purchase.aspose.com/pricing/total" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

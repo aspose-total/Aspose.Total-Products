@@ -6,7 +6,7 @@ description: Microsoft Excel Word PowerPoint E-posta PDF Visio Projesi Barkod OC
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Eksiksiz Dosya Biçimi Manipülasyonu API'leri Seti" h2=".NET, Java, Android, C++ ve diğer Platformlar için yerel API'lerimizi kullanarak Word, Excel, PDF, PowerPoint, Outlook ve 100'den fazla başka dosya biçimini işleyin." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://downloads.aspose.com/total" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Eksiksiz Dosya Biçimi Manipülasyonu API'leri Seti" h2=".NET, Java, Android, C++ ve diğer Platformlar için yerel API'lerimizi kullanarak Word, Excel, PDF, PowerPoint, Outlook ve 100'den fazla başka dosya biçimini işleyin." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://downloads.aspose.com/total" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total Ürün Ailesi İçeriği" >}}
@@ -42,7 +42,7 @@ Raporları JasperReports veya JasperServer'dan Word, Excel, PowerPoint ve diğer
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="belgeler" href="https://docs.aspose.com/total/" >}}
 {{< blocks/products/pf/slr-element name="Kaynak kodu" href="http://aspose.github.io/" >}}
@@ -61,8 +61,8 @@ Raporları JasperReports veya JasperServer'dan Word, Excel, PowerPoint ve diğer
 {{< blocks/products/pf/slr-element name="Başarı Öyküleri" href="https://company.aspose.com/customers/success-stories/aspose-total" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total" pricingInformationLink="https://purchase.aspose.com/pricing/total" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total" pricingInformationLink="https://purchase.aspose.com/pricing/total" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

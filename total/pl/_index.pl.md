@@ -6,7 +6,7 @@ description: Twórz aplikacje do manipulacji dokumentami za pomocą interfejsów
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Kompletny zestaw rozwiązań do manipulacji formatem plików" h2="Aspose.Total zapewnia najbardziej kompletny i wydajny zestaw rozwiązań do przetwarzania dokumentów bez instalacji i zależności innego oprogramowania." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="Kompletny zestaw rozwiązań do manipulacji formatem plików" h2="Aspose.Total zapewnia najbardziej kompletny i wydajny zestaw rozwiązań do przetwarzania dokumentów bez instalacji i zależności innego oprogramowania." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total High Code API zawiera" >}}
@@ -65,7 +65,7 @@ Swobodnie konwertuj ponad 100 formatów na inne dokumenty online.
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Co ludzie mówią" subTitle="Nie wierz nam tylko na słowo. Zobacz, co użytkownicy mają do powiedzenia o Aspose.Words." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Co ludzie mówią" subTitle="Nie wierz nam tylko na słowo. Zobacz, co użytkownicy mają do powiedzenia o Aspose.Words." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -90,7 +90,7 @@ Swobodnie konwertuj ponad 100 formatów na inne dokumenty online.
 
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

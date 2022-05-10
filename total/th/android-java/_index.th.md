@@ -6,11 +6,11 @@ description: API รูปแบบไฟล์ Android สำหรับ Word 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Android APIs เพื่อจัดการรูปแบบไฟล์ในแอพมือถือ" h2="จัดการ Word, Excel, PowerPoint, PDF, Outlook และรูปแบบเอกสารอื่น ๆ อีกมากมายในแอปบนอุปกรณ์เคลื่อนที่โดยไม่ต้องติดตั้งซอฟต์แวร์ใดๆ" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-android-java.svg" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/total/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Android APIs เพื่อจัดการรูปแบบไฟล์ในแอพมือถือ" h2="จัดการ Word, Excel, PowerPoint, PDF, Outlook และรูปแบบเอกสารอื่น ๆ อีกมากมายในแอปบนอุปกรณ์เคลื่อนที่โดยไม่ต้องติดตั้งซอฟต์แวร์ใดๆ" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-android-java.svg" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/total/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Android via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/androidjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/androidjava" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/androidjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/androidjava" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total สำหรับ Android ผ่าน Java คือการรวบรวม Android API ทุกรายการที่นำเสนอโดย Aspose นักพัฒนาสามารถสร้าง จัดการ แสดงผล และแปลงระหว่างรูปแบบเอกสารต่างๆ ภายในแอปพลิเคชัน Android
@@ -139,7 +139,7 @@ Aspose.BarCode สำหรับ Android ผ่าน Java คือชุด�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="สิ่งที่ผู้คนกำลังพูด" subTitle="อย่าเพิ่งใช้คำพูดของเราสำหรับมัน ดูว่าผู้ใช้พูดถึง Aspose.Total API อย่างไร" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="สิ่งที่ผู้คนกำลังพูด" subTitle="อย่าเพิ่งใช้คำพูดของเราสำหรับมัน ดูว่าผู้ใช้พูดถึง Aspose.Total API อย่างไร" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brazil" >}}
 ระหว่างการใช้งาน เราสามารถสัมผัสได้ว่าเราสัมผัสเพียงเศษเสี้ยวของสิ่งที่ Apose.Total สามารถทำได้ ความง่ายในการใช้งานของ API ทำให้นักพัฒนาพึงพอใจในการ "ทำงานให้เสร็จ" ด้วยโค้ดที่เรียบง่ายและสะอาด และความสมบูรณ์ของผลิตภัณฑ์ขั้นสุดท้ายทำให้ลูกค้าของเรามีความสุข
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -152,9 +152,9 @@ Aspose.BarCode สำหรับ Android ผ่าน Java คือชุด�
 {{< blocks/products/pf/testimonials-quote poster="Thomas | Join and Share, Germany" >}}
 Aspose.Total เป็นชุดที่มีประสิทธิภาพในการประมวลผลเอกสารเกือบทุกชนิดด้วยความเร็วสูงและคุณภาพเยี่ยม ช่วยลดความพยายามในการเขียนโปรแกรมได้อย่างมีประสิทธิภาพ
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="แหล่งเรียนรู้" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="เอกสาร" href="https://docs.aspose.com/total/androidjava/" >}} 
@@ -174,9 +174,9 @@ Aspose.Total เป็นชุดที่มีประสิทธิภา�
 {{< blocks/products/pf/slr-element name="เรื่องราวความสำเร็จ" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/total/android-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/total/android-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total นำเสนอโซลูชันส่วนบุคคลสำหรับแพลตฟอร์มอื่นๆ" >}}
 

@@ -6,7 +6,7 @@ description: Xây dựng các ứng dụng thao tác tài liệu bằng API On P
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Bộ hoàn chỉnh các giải pháp thao tác định dạng tệp" h2="Aspose.Total cung cấp bộ giải pháp xử lý tài liệu hoàn chỉnh và hiệu quả nhất mà không cần cài đặt và phụ thuộc phần mềm nào khác." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="Bộ hoàn chỉnh các giải pháp thao tác định dạng tệp" h2="Aspose.Total cung cấp bộ giải pháp xử lý tài liệu hoàn chỉnh và hiệu quả nhất mà không cần cài đặt và phụ thuộc phần mềm nào khác." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Bao gồm các API mã cao của Aspose.Total" >}}
@@ -65,7 +65,7 @@ Tự do chuyển đổi hơn 100 định dạng sang các tài liệu khác tr�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Mọi người đang nói gì" subTitle="Đừng chỉ lấy lời của chúng tôi cho nó. Xem người dùng nói gì về Aspose. AdWords." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Mọi người đang nói gì" subTitle="Đừng chỉ lấy lời của chúng tôi cho nó. Xem người dùng nói gì về Aspose. AdWords." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -90,7 +90,7 @@ Tự do chuyển đổi hơn 100 định dạng sang các tài liệu khác tr�
 
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

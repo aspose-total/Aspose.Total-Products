@@ -6,11 +6,11 @@ description: Java 开发人员的 API 集合，用于处理 Word Excel PDF Power
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="通过 Java API 创建、编辑和转换文件" h2="从您自己的 Java 应用程序中处理 Word、Excel、PowerPoint、Outlook、PDF、3D、CAD 和其他文档格式。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-java.svg" pfName="Aspose.Total" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/total/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="通过 Java API 创建、编辑和转换文件" h2="从您自己的 Java 应用程序中处理 Word、Excel、PowerPoint、Outlook、PDF、3D、CAD 和其他文档格式。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-java.svg" pfName="Aspose.Total" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/total/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/java" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for Java 是面向 Java 开发人员的文件格式自动化库的集合，使他们能够从任何 Java J2SE、J2EE、J2ME 应用程序中创建、更新、打印、呈现和转换多种文件格式。
@@ -254,7 +254,7 @@ Aspose.TeX for Java 是一个 TeX 文件排版 API。它可以轻松排版 TeX �
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="人们在说什么" subTitle="不要只相信我们的话。查看用户对 Aspose.Total API 的评价。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="人们在说什么" subTitle="不要只相信我们的话。查看用户对 Aspose.Total API 的评价。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="伊戈尔·克拉夫 | W3K 技术，巴西" >}}
 在我们的实施过程中，我们可以感觉到我们只触及了 Apose.Total 能力的一小部分。 API 的易用性让开发人员对“完成工作”感到满意，其代码简洁干净，最终产品的稳健性让我们的客户满意。
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -267,9 +267,9 @@ Aspose.TeX for Java 是一个 TeX 文件排版 API。它可以轻松排版 TeX �
 {{< blocks/products/pf/testimonials-quote poster="托马斯 |加入和分享，德国" >}}
 Aspose.Total 是一个功能强大的套件，可以高速、高质量地处理几乎所有类型的文档。它有效地减少了编程工作量。
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="学习资源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文档" href="https://docs.aspose.com/total/java/" >}} 
@@ -289,9 +289,9 @@ Aspose.Total 是一个功能强大的套件，可以高速、高质量地处理�
 {{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/java" pricingInformationLink="https://purchase.aspose.com/pricing/total/java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/java" pricingInformationLink="https://purchase.aspose.com/pricing/total/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total 为其他平台提供个性化解决方案。" >}}
 

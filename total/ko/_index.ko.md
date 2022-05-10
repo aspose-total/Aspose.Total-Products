@@ -6,7 +6,7 @@ description: On Premise 또는 Cloud API를 사용하여 문서 조작 애플리
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="완전한 파일 형식 조작 솔루션 세트" h2="Aspose.Total은 다른 소프트웨어 설치 및 종속성 없이 가장 완벽하고 효율적인 문서 처리 솔루션 세트를 제공합니다." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="완전한 파일 형식 조작 솔루션 세트" h2="Aspose.Total은 다른 소프트웨어 설치 및 종속성 없이 가장 완벽하고 효율적인 문서 처리 솔루션 세트를 제공합니다." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total 하이 코드 API 포함" >}}
@@ -65,7 +65,7 @@ PDF REST API를 사용하면 PDF 문서를 쉽게 생성, 렌더링, 분할 및 
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="사람들이 말하는 것" subTitle="우리의 말을 그대로 받아들이지 마십시오. Aspose.Words에 대한 사용자의 평가를 확인하세요." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="사람들이 말하는 것" subTitle="우리의 말을 그대로 받아들이지 마십시오. Aspose.Words에 대한 사용자의 평가를 확인하세요." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -90,7 +90,7 @@ PDF REST API를 사용하면 PDF 문서를 쉽게 생성, 렌더링, 분할 및 
 
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

@@ -6,11 +6,11 @@ description: SQL Server Reporting Services Rendering Extensions لتنسيقات
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="تقارير خدمات ملحقات لتسليم التقارير في تنسيقات Office" h2="تصدير تقارير RDL و RDLC إلى تنسيقات Word و Excel و PDF و PowerPoint وإضافة الرموز الشريطية إلى المستندات المصدرة." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-reporting-services.svg" pfName="Aspose.Total" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/total/reportingservices" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="تقارير خدمات ملحقات لتسليم التقارير في تنسيقات Office" h2="تصدير تقارير RDL و RDLC إلى تنسيقات Word و Excel و PDF و PowerPoint وإضافة الرموز الشريطية إلى المستندات المصدرة." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-reporting-services.svg" pfName="Aspose.Total" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/total/reportingservices" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Reporting Services" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/reporting-services" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/reportingservices/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/reportingservices" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/reporting-services" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/reportingservices/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/reportingservices" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for Reporting Services عبارة عن مجموعة من ملحقات العرض لخدمات تقارير Microsoft SQL Server ، مما يسمح للمطورين بتصدير تقارير RDL بسهولة إلى تنسيقات مستندات Word و Excel و PowerPoint و PDF. يمكنك أيضًا تحسين سير العمل عن طريق إضافة الرموز الشريطية إلى المستندات المصدرة.
@@ -206,7 +206,7 @@ Aspose.BarCode for Reporting Services هو الحل الأكثر شمولاً ل
   تتضمن حزمة التثبيت لـ Aspose.Total for Reporting Services مثبتات MSI لكل من امتدادات العرض المكونة لها والتي يمكن تثبيتها على أجهزة الكمبيوتر التي تشغل Microsoft SQL Server Reporting Services (32 بت و 64 بت).
  </p>
  <p>
-  يسهل نشر كل امتداد عرض لأنه يتكون من مجموعة .NET واحدة فقط تمت كتابتها بالكامل بلغة C # ، ومتوافقة مع CLS ، وتحتوي على رمز مُدار آمن فقط.
+  يسهل نشر كل امتداد عرض لأنه يتكون من مجموعة .NET واحدة فقط تمت كتابتها بالكامل بلغة C# ، ومتوافقة مع CLS ، وتحتوي على رمز مُدار آمن فقط.
  </p>
 </div>
 <!--Feature-section Start-->
@@ -217,7 +217,7 @@ Aspose.BarCode for Reporting Services هو الحل الأكثر شمولاً ل
 {{< /blocks/products/pf/main-container >}}
 
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="مصادر التعلم" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.com/total/reportingservices/" >}} 
@@ -237,9 +237,9 @@ Aspose.BarCode for Reporting Services هو الحل الأكثر شمولاً ل
 {{< blocks/products/pf/slr-element name="قصص نجاح" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/reportingservices" pricingInformationLink="https://purchase.aspose.com/pricing/total/reporting-services" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/reportingservices" pricingInformationLink="https://purchase.aspose.com/pricing/total/reporting-services" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="تقدم Aspose.Total حلولاً فردية لمنصات أخرى." >}}
 

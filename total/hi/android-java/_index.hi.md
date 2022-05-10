@@ -6,11 +6,11 @@ description: वर्ड एक्सेल पीडीएफ पावरप�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="मोबाइल ऐप्स में फ़ाइल स्वरूपों में हेरफेर करने के लिए Android API" h2="वर्ड, एक्सेल, पॉवरपॉइंट, पीडीएफ, आउटलुक और कई अन्य दस्तावेज़ प्रारूपों को मोबाइल ऐप में बिना किसी सॉफ़्टवेयर को इंस्टॉल किए हेरफेर करें।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-android-java.svg" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/total/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="मोबाइल ऐप्स में फ़ाइल स्वरूपों में हेरफेर करने के लिए Android API" h2="वर्ड, एक्सेल, पॉवरपॉइंट, पीडीएफ, आउटलुक और कई अन्य दस्तावेज़ प्रारूपों को मोबाइल ऐप में बिना किसी सॉफ़्टवेयर को इंस्टॉल किए हेरफेर करें।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-android-java.svg" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/total/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Android via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/androidjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/androidjava" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/androidjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/androidjava" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for Android by Java, Aspose द्वारा पेश किए गए हर Android API का संकलन है। डेवलपर्स एंड्रॉइड एप्लिकेशन के भीतर विभिन्न दस्तावेज़ प्रारूपों के बीच बना सकते हैं, हेरफेर कर सकते हैं, प्रस्तुत कर सकते हैं और परिवर्तित कर सकते हैं।
@@ -139,7 +139,7 @@ Aspose.Total for Android by Java, Aspose द्वारा पेश किए 
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="लोग क्या कह रहे हैं" subTitle="इसके लिए सिर्फ हमारी बात न लें। देखें कि Aspose.Total API के बारे में उपयोगकर्ताओं का क्या कहना है।" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="लोग क्या कह रहे हैं" subTitle="इसके लिए सिर्फ हमारी बात न लें। देखें कि Aspose.Total API के बारे में उपयोगकर्ताओं का क्या कहना है।" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brazil" >}}
 हमारे कार्यान्वयन के दौरान, हम महसूस कर सकते थे कि हमने Apose के केवल एक अंश को छुआ है। कुल सक्षम है। एपीआई के उपयोग में आसानी डेवलपर्स को अपने सरल और साफ कोड के साथ "काम पूरा करने" के लिए संतुष्टि देती है, और अंतिम उत्पाद की मजबूती हमारे ग्राहकों को खुश करती है।
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -152,9 +152,9 @@ Aspose.Total for Android by Java, Aspose द्वारा पेश किए 
 {{< blocks/products/pf/testimonials-quote poster="Thomas | Join and Share, Germany" >}}
 Aspose.Total लगभग सभी प्रकार के दस्तावेज़ों को उच्च गति और अच्छी गुणवत्ता में संसाधित करने के लिए एक शक्तिशाली सूट है। यह प्रोग्रामिंग प्रयास को प्रभावी ढंग से कम करता है।
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="सीखने के संसाधन" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="प्रलेखन" href="https://docs.aspose.com/total/androidjava/" >}} 
@@ -174,9 +174,9 @@ Aspose.Total लगभग सभी प्रकार के दस्ताव
 {{< blocks/products/pf/slr-element name="सफलता की कहानियां" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/total/android-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/total/android-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total अन्य प्लेटफार्मों के लिए व्यक्तिगत समाधान प्रदान करता है।" >}}
 

@@ -6,11 +6,11 @@ description: واجهات برمجة تطبيقات تنسيق ملفات Androi
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="واجهات برمجة تطبيقات Android للتعامل مع تنسيقات الملفات في تطبيقات الجوال" h2="تعامل مع Word و Excel و PowerPoint و PDF و Outlook والمزيد من تنسيقات المستندات الأخرى في تطبيقات الأجهزة المحمولة دون تثبيت أي برنامج." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-android-java.svg" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/total/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="واجهات برمجة تطبيقات Android للتعامل مع تنسيقات الملفات في تطبيقات الجوال" h2="تعامل مع Word و Excel و PowerPoint و PDF و Outlook والمزيد من تنسيقات المستندات الأخرى في تطبيقات الأجهزة المحمولة دون تثبيت أي برنامج." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-android-java.svg" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/total/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Android via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/androidjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/androidjava" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/androidjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/androidjava" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total لنظام Android عبر Java عبارة عن تجميع لكل واجهة برمجة تطبيقات Android تقدمها Aspose. يمكن للمطورين إنشاء ومعالجة وعرض وتحويل بين تنسيقات المستندات المختلفة داخل تطبيقات Android.
@@ -139,7 +139,7 @@ Aspose.BarCode لنظام Android عبر Java عبارة عن مجموعة من 
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="ما يقوله الناس" subTitle="لا تأخذ كلمتنا فقط. تعرف على ما يقوله المستخدمون عن Aspose.Total APIs." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="ما يقوله الناس" subTitle="لا تأخذ كلمتنا فقط. تعرف على ما يقوله المستخدمون عن Aspose.Total APIs." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brazil" >}}
 أثناء التنفيذ ، يمكننا أن نشعر أننا لم نتطرق إلا لجزء بسيط مما يمكن لـ Apose.Total قادر على القيام به. تمنح سهولة استخدام واجهة برمجة التطبيقات المطورين الرضا عن "إنجاز العمل" من خلال رمز بسيط ونظيف ، كما أن قوة المنتج النهائي تجعل عملائنا سعداء.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -152,9 +152,9 @@ Aspose.BarCode لنظام Android عبر Java عبارة عن مجموعة من 
 {{< blocks/products/pf/testimonials-quote poster="Thomas | Join and Share, Germany" >}}
 Aspose.Total عبارة عن مجموعة قوية لمعالجة جميع أنواع المستندات تقريبًا بسرعة عالية وجودة عالية. يقلل بشكل فعال من جهد البرمجة.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="مصادر التعلم" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.com/total/androidjava/" >}} 
@@ -174,9 +174,9 @@ Aspose.Total عبارة عن مجموعة قوية لمعالجة جميع أن�
 {{< blocks/products/pf/slr-element name="قصص نجاح" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/total/android-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/total/android-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="تقدم Aspose.Total حلولاً فردية لمنصات أخرى." >}}
 

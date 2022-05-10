@@ -6,11 +6,11 @@ description: C# ASP.NET VB.NET APIs untuk membuat manipulasi, konversi, dan rend
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="API Manipulasi Format File .NET" h2="Manipulasi Word, Excel, PDF, PowerPoint, Outlook, dan lebih dari 100 format file lainnya dari dalam aplikasi .NET, tanpa ketergantungan perangkat lunak apa pun." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-net.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/total/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API Manipulasi Format File .NET" h2="Manipulasi Word, Excel, PDF, PowerPoint, Outlook, dan lebih dari 100 format file lainnya dari dalam aplikasi .NET, tanpa ketergantungan perangkat lunak apa pun." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-net.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://downloads.aspose.com/total/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://downloads.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total untuk .NET adalah paket terlengkap dari semua API Otomatisasi Format File .NET yang ditawarkan oleh Aspose. Ini memberdayakan pengembang untuk membuat, mengedit, merender, mencetak, dan mengonversi antara format file paling populer dalam aplikasi .NET, C#, ASP.NET, dan VB.NET.
@@ -260,7 +260,7 @@ Aspose.TeX untuk .NET adalah API pengaturan huruf file TeX. Itu dapat dengan mud
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Apa yang Orang Katakan" subTitle="Jangan hanya mengambil kata kami untuk itu. Lihat apa yang pengguna katakan tentang Aspose.Total API." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Apa yang Orang Katakan" subTitle="Jangan hanya mengambil kata kami untuk itu. Lihat apa yang pengguna katakan tentang Aspose.Total API." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Stefan Studer | Nowhow Solutions AG, Swiss" >}}
 Manual instruksi yang terdokumentasi dengan baik dan kekokohan komponen Aspose.Total menghasilkan integrasi langsung ke DOCO. Ini membantu kami memangkas waktu pengembangan lebih dari yang diantisipasi.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -273,9 +273,9 @@ Secara efektif Aspose.Total untuk .NET suite adalah 'pisau tentara Swiss' dari k
 {{< blocks/products/pf/testimonials-quote poster="Yassine Loudad | Qualetech, France" >}}
 Implementasinya mudah, kami benar-benar fokus pada arsitektur kami dan Aspose hanya cocok. Arsitektur kami sangat dioptimalkan untuk kinerja dan multi-threading, dan sekali lagi ini bukan masalah untuk menggunakan Aspose.Total.net.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Sumber Belajar" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentasi" href="https://docs.aspose.com/total/net/" >}} 
@@ -295,9 +295,9 @@ Implementasinya mudah, kami benar-benar fokus pada arsitektur kami dan Aspose ha
 {{< blocks/products/pf/slr-element name="Cerita-cerita sukses" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/net" pricingInformationLink="https://purchase.aspose.com/pricing/total/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/net" pricingInformationLink="https://purchase.aspose.com/pricing/total/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total menawarkan solusi individual untuk platform lain." >}}
 

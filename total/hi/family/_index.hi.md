@@ -6,7 +6,7 @@ description: Microsoft Excel Word PowerPoint ईमेल PDF Visio Project ब�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="फ़ाइल प्रारूप मैनिपुलेशन एपीआई का पूरा सेट" h2=".नेट, जावा, एंड्रॉइड, सी ++ और अन्य प्लेटफॉर्म के लिए हमारे मूल एपीआई का उपयोग करके वर्ड, एक्सेल, पीडीएफ, पावरपॉइंट, आउटलुक और 100 से अधिक अन्य फ़ाइल स्वरूपों में हेरफेर करें।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://downloads.aspose.com/total" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="फ़ाइल प्रारूप मैनिपुलेशन एपीआई का पूरा सेट" h2=".नेट, जावा, एंड्रॉइड, सी ++ और अन्य प्लेटफॉर्म के लिए हमारे मूल एपीआई का उपयोग करके वर्ड, एक्सेल, पीडीएफ, पावरपॉइंट, आउटलुक और 100 से अधिक अन्य फ़ाइल स्वरूपों में हेरफेर करें।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://downloads.aspose.com/total" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total उत्पाद परिवार में शामिल हैं" >}}
@@ -42,7 +42,7 @@ JasperReports या JasperServer से Word, Excel, PowerPoint और अन�
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="सीखने के संसाधन" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="प्रलेखन" href="https://docs.aspose.com/total/" >}}
 {{< blocks/products/pf/slr-element name="सोर्स कोड" href="http://aspose.github.io/" >}}
@@ -61,8 +61,8 @@ JasperReports या JasperServer से Word, Excel, PowerPoint और अन�
 {{< blocks/products/pf/slr-element name="सफलता की कहानियां" href="https://company.aspose.com/customers/success-stories/aspose-total" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total" pricingInformationLink="https://purchase.aspose.com/pricing/total" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total" pricingInformationLink="https://purchase.aspose.com/pricing/total" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

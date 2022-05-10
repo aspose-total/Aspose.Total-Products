@@ -6,11 +6,11 @@ description: Android fájlformátum API-k Word Excel PDF PowerPointhoz és e-mai
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Android API-k a fájlformátumok kezeléséhez a mobilalkalmazásokban" h2="Szoftver telepítése nélkül kezelheti a Word, Excel, PowerPoint, PDF, Outlook és még sok más dokumentumformátumot mobilalkalmazásokban." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-android-java.svg" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/total/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Android API-k a fájlformátumok kezeléséhez a mobilalkalmazásokban" h2="Szoftver telepítése nélkül kezelheti a Word, Excel, PowerPoint, PDF, Outlook és még sok más dokumentumformátumot mobilalkalmazásokban." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-android-java.svg" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/total/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Android via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/androidjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/androidjava" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/androidjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/androidjava" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Az Aspose.Total for Android a Java-n keresztül az Aspose által kínált összes Android API összeállítása. A fejlesztők létrehozhatnak, manipulálhatnak, renderelhetnek és konvertálhatnak különböző dokumentumformátumokat az Android-alkalmazásokon belül.
@@ -139,7 +139,7 @@ Az Aspose.BarCode for Android via Java vonalkód API-k készlete 1D és 2D vonal
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Mit mondanak az emberek" subTitle="Ne csak szót fogadjon. Tekintse meg, mit mondanak a felhasználók az Aspose.Total API-król." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Mit mondanak az emberek" subTitle="Ne csak szót fogadjon. Tekintse meg, mit mondanak a felhasználók az Aspose.Total API-król." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brazil" >}}
 Megvalósításunk során érezhettük, hogy csak a töredékét érintettük meg annak, amire az Apose.Total képes. Az API könnyű használhatósága megelégedéssel tölti el a fejlesztőket az egyszerű és tiszta kóddal végzett „munkavégzésért”, a végtermék robusztussága pedig elégedetté teszi ügyfeleinket.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -152,9 +152,9 @@ Csak egyet mondhatunk: kiváló termék és kiváló szolgáltatás. Néha az ü
 {{< blocks/products/pf/testimonials-quote poster="Thomas | Join and Share, Germany" >}}
 Az Aspose.Total egy hatékony programcsomag szinte mindenféle dokumentum gyors és kiváló minőségű feldolgozásához. Hatékonyan csökkenti a programozási erőfeszítést.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Tanulási források" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentáció" href="https://docs.aspose.com/total/androidjava/" >}} 
@@ -174,9 +174,9 @@ Az Aspose.Total egy hatékony programcsomag szinte mindenféle dokumentum gyors 
 {{< blocks/products/pf/slr-element name="Sikertörténetek" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/total/android-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/total/android-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Az Aspose.Total egyedi megoldásokat kínál más platformokhoz." >}}
 

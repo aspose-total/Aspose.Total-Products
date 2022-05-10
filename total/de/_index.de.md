@@ -6,7 +6,7 @@ description: Erstellen Sie Anwendungen zur Dokumentenbearbeitung mit On-Premise-
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Kompletter Satz von Lösungen zur Manipulation von Dateiformaten" h2="Aspose.Total bietet die umfassendste und effizienteste Lösung für die Dokumentenverarbeitung ohne weitere Softwareinstallationen und Abhängigkeiten." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="Kompletter Satz von Lösungen zur Manipulation von Dateiformaten" h2="Aspose.Total bietet die umfassendste und effizienteste Lösung für die Dokumentenverarbeitung ohne weitere Softwareinstallationen und Abhängigkeiten." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total High Code APIs enthalten" >}}
@@ -65,7 +65,7 @@ Konvertieren Sie über 100 Formate kostenlos online in andere Dokumente.
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Was sagen die Leute" subTitle="Verlassen Sie sich nicht nur auf unser Wort. Sehen Sie, was Benutzer über Aspose.Words zu sagen haben." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Was sagen die Leute" subTitle="Verlassen Sie sich nicht nur auf unser Wort. Sehen Sie, was Benutzer über Aspose.Words zu sagen haben." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -90,7 +90,7 @@ Konvertieren Sie über 100 Formate kostenlos online in andere Dokumente.
 
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 
