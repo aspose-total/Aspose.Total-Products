@@ -47,7 +47,7 @@ Se o seu documento TEX estiver protegido por senha, você não poderá convertê
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}C#
 
-{{% blocks/products/pf/feature-page-section  h2="Converter arquivo TEX para XLSM com marca d'água via C #" %}}
+{{% blocks/products/pf/feature-page-section  h2="Converter arquivo TEX para XLSM com marca d'água via C#" %}}
 Ao converter o arquivo TEX para XLSM, você também pode adicionar marca d'água ao formato de arquivo XLSM de saída. Para adicionar uma marca d'água, você pode criar um novo objeto Workbook e abrir o documento XLSX convertido, selecionar Worksheet através de seu índice, criar uma Shape e usar sua função AddTextEffect. Depois disso, você pode salvar seu documento XLSX como XLSM com marca d'água. 
 {{% blocks/products/pf/feature-page-code %}}
 

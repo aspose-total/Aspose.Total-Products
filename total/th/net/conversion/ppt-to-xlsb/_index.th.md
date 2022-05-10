@@ -38,7 +38,7 @@ otherformats: XLSM XLT XLS TSV XLTX DIF SXC XLAM XLTM XLSX XLSB ODS FODS MHTML E
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 C#
-{{% blocks/products/pf/feature-page-section  h2="แปลง Protected PPT เป็น XLSB ผ่าน C #" %}}
+{{% blocks/products/pf/feature-page-section  h2="แปลง Protected PPT เป็น XLSB ผ่าน C#" %}}
 ขณะแปลงไฟล์ PPT เป็น XLSB หากเอกสาร PPT ที่คุณป้อนมีการป้องกันด้วยรหัสผ่าน คุณจะไม่สามารถแปลงเป็น XLSB ได้โดยไม่ต้องถอดรหัสลับเอกสาร เมื่อเอกสารของคุณได้รับการป้องกันด้วยรหัสผ่าน แสดงว่ามีการบังคับใช้ข้อจำกัดบางประการในการนำเสนอ ต้องป้อนรหัสผ่านเพื่อลบข้อจำกัด การนำเสนอที่มีการป้องกันด้วยรหัสผ่านถือเป็นการนำเสนอที่ถูกล็อค API อนุญาตให้คุณเปิดเอกสารที่เข้ารหัสโดยส่งรหัสผ่านที่ถูกต้องในออบเจกต์ LoadOptions  
 {{% blocks/products/pf/feature-page-code %}}
 
@@ -47,7 +47,7 @@ C#
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}C#
 
-{{% blocks/products/pf/feature-page-section  h2="แปลง PPT เป็น XLSB ด้วยลายน้ำผ่าน C #" %}}
+{{% blocks/products/pf/feature-page-section  h2="แปลง PPT เป็น XLSB ด้วยลายน้ำผ่าน C#" %}}
 ขณะแปลงไฟล์ PPT เป็น XLSB คุณยังสามารถเพิ่มลายน้ำให้กับรูปแบบไฟล์ XLSB เอาต์พุตของคุณได้ ในการเพิ่มลายน้ำ คุณสามารถสร้างวัตถุสมุดงานใหม่และเปิดเอกสาร HTML ที่แปลงแล้ว เลือกแผ่นงานผ่านดัชนี สร้างรูปร่าง และใช้ฟังก์ชัน AddTextEffect หลังจากนั้น คุณสามารถบันทึกเอกสาร HTML ของคุณเป็น XLSB ด้วยลายน้ำ 
 {{% blocks/products/pf/feature-page-code %}}
 

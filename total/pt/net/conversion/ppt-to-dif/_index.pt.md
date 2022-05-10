@@ -47,7 +47,7 @@ Ao converter o arquivo PPT para DIF, se o documento PPT de entrada estiver prote
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}C#
 
-{{% blocks/products/pf/feature-page-section  h2="Converter PPT para DIF com marca d'água via C #" %}}
+{{% blocks/products/pf/feature-page-section  h2="Converter PPT para DIF com marca d'água via C#" %}}
 Ao converter o arquivo PPT para DIF, você também pode adicionar marca d'água ao formato de arquivo DIF de saída. Para adicionar uma marca d'água, você pode criar um novo objeto Workbook e abrir o documento HTML convertido, selecionar Worksheet através de seu índice, criar uma Shape e usar sua função AddTextEffect. Depois disso, você pode salvar seu documento HTML como DIF com marca d'água. 
 {{% blocks/products/pf/feature-page-code %}}
 

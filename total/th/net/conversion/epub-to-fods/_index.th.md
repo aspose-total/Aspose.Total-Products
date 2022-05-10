@@ -38,7 +38,7 @@ otherformats: MD SXC FODS TXT EXCEL XLTX ODS XLSB XLT DIF TSV XLSM
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 C#
-{{% blocks/products/pf/feature-page-section  h2="แปลง EPUB ที่ได้รับการป้องกันเป็น FODS ผ่าน C #" %}}
+{{% blocks/products/pf/feature-page-section  h2="แปลง EPUB ที่ได้รับการป้องกันเป็น FODS ผ่าน C#" %}}
 หากเอกสาร EPUB ของคุณมีการป้องกันด้วยรหัสผ่าน คุณจะไม่สามารถแปลงเป็น FODS ได้หากไม่มีรหัสผ่าน เมื่อใช้ API คุณสามารถเปิดเอกสารที่มีการป้องกันโดยใช้รหัสผ่านที่ถูกต้องและแปลงหลังจากนั้น ในการเปิดไฟล์ที่เข้ารหัส คุณสามารถเริ่มต้นอินสแตนซ์ใหม่ของคลาส [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) และส่งชื่อไฟล์และรหัสผ่านเป็นอาร์กิวเมนต์ได้  
 {{% blocks/products/pf/feature-page-code %}}
 
@@ -47,7 +47,7 @@ C#
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}C#
 
-{{% blocks/products/pf/feature-page-section  h2="แปลงไฟล์ EPUB เป็น FODS พร้อมลายน้ำผ่าน C #" %}}
+{{% blocks/products/pf/feature-page-section  h2="แปลงไฟล์ EPUB เป็น FODS พร้อมลายน้ำผ่าน C#" %}}
 ในขณะที่แปลงไฟล์ EPUB เป็น FODS คุณยังสามารถเพิ่มลายน้ำให้กับรูปแบบไฟล์ FODS เอาต์พุตของคุณ ในการเพิ่มลายน้ำ คุณสามารถสร้างวัตถุสมุดงานใหม่และเปิดเอกสาร XLSX ที่แปลงแล้ว เลือกแผ่นงานผ่านดัชนี สร้างรูปร่าง และใช้ฟังก์ชัน AddTextEffect หลังจากนั้น คุณสามารถบันทึกเอกสาร XLSX ของคุณเป็น FODS ด้วยลายน้ำ 
 {{% blocks/products/pf/feature-page-code %}}
 

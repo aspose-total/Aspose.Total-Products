@@ -38,7 +38,7 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 C#
-{{% blocks/products/pf/feature-page-section  h2="Defina o layout e converta o formato JSON para IMAGE via C #" %}}
+{{% blocks/products/pf/feature-page-section  h2="Defina o layout e converta o formato JSON para IMAGE via C#" %}}
 Ao analisar JSON para IMAGE, você também pode definir opções de layout para seu JSON usando [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayouttoptions). Ele permite que você processe Array como uma tabela, ignore nulos, ignore título de array, ignore título de objeto, converta string em número ou data, defina data e formato de número e defina estilo de título. Todas essas opções permitem que você apresente seus dados conforme suas necessidades. O trecho de código a seguir mostra como definir as opções de layout.  
 {{% blocks/products/pf/feature-page-code %}}
 

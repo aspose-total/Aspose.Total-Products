@@ -47,7 +47,7 @@ Se o seu documento EPUB estiver protegido por senha, você não poderá convert�
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}C#
 
-{{% blocks/products/pf/feature-page-section  h2="Converter arquivo EPUB para MD com marca d'água via C #" %}}
+{{% blocks/products/pf/feature-page-section  h2="Converter arquivo EPUB para MD com marca d'água via C#" %}}
 Ao converter o arquivo EPUB para MD, você também pode adicionar marca d'água ao formato de arquivo MD de saída. Para adicionar uma marca d'água, você pode criar um novo objeto Workbook e abrir o documento XLSX convertido, selecionar Worksheet através de seu índice, criar uma Shape e usar sua função AddTextEffect. Depois disso, você pode salvar seu documento XLSX como MD com marca d'água. 
 {{% blocks/products/pf/feature-page-code %}}
 

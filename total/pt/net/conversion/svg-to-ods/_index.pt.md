@@ -47,7 +47,7 @@ Se o seu documento SVG estiver protegido por senha, você não poderá convertê
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}C#
 
-{{% blocks/products/pf/feature-page-section  h2="Converter arquivo SVG para ODS com marca d'água via C #" %}}
+{{% blocks/products/pf/feature-page-section  h2="Converter arquivo SVG para ODS com marca d'água via C#" %}}
 Ao converter o arquivo SVG para ODS, você também pode adicionar marca d'água ao formato de arquivo ODS de saída. Para adicionar uma marca d'água, você pode criar um novo objeto Workbook e abrir o documento XLSX convertido, selecionar Worksheet através de seu índice, criar uma Shape e usar sua função AddTextEffect. Depois disso, você pode salvar seu documento XLSX como ODS com marca d'água. 
 {{% blocks/products/pf/feature-page-code %}}
 

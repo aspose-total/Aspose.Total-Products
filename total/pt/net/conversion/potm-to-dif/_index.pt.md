@@ -47,7 +47,7 @@ Ao converter o arquivo POTM para DIF, se o documento POTM de entrada estiver pro
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}C#
 
-{{% blocks/products/pf/feature-page-section  h2="Converter POTM para DIF com marca d'água via C #" %}}
+{{% blocks/products/pf/feature-page-section  h2="Converter POTM para DIF com marca d'água via C#" %}}
 Ao converter o arquivo POTM para DIF, você também pode adicionar marca d'água ao formato de arquivo DIF de saída. Para adicionar uma marca d'água, você pode criar um novo objeto Workbook e abrir o documento HTML convertido, selecionar Worksheet através de seu índice, criar uma Shape e usar sua função AddTextEffect. Depois disso, você pode salvar seu documento HTML como DIF com marca d'água. 
 {{% blocks/products/pf/feature-page-code %}}
 

@@ -38,7 +38,7 @@ otherformats: JPEG2000 WMF WMZ IMAGE DXF SVGZ PSD EMZ TGA DICOM
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 C#
-{{% blocks/products/pf/feature-page-section  h2="แปลงไฟล์ PCL เป็น JPEG2000 ในไฟล์เดียวผ่าน C #" %}}
+{{% blocks/products/pf/feature-page-section  h2="แปลงไฟล์ PCL เป็น JPEG2000 ในไฟล์เดียวผ่าน C#" %}}
 เมื่อใช้ API คุณยังสามารถแปลงไฟล์ PCL เป็น JPEG2000 เป็นไฟล์รูปภาพเดียวได้ ในการแปลงหน้าทั้งหมด ก่อนอื่นคุณสามารถแสดงเอกสาร PCL ของคุณเป็นไฟล์ TIFF หนึ่งไฟล์ และหลังจากนั้นคุณสามารถส่งออกไฟล์ TIFF ไปยัง JPEG2000 ได้ คุณสามารถเปิดไฟล์อินพุตได้โดยใช้คลาส [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) และสร้างอ็อบเจ็กต์อุปกรณ์ Resolution, TiffSettings และ TIFF คุณสามารถรับรูปภาพ TIFF เดียวได้โดยใช้วิธี [Process](https://apireference.aspose.com/pdf/net/aspose.pdf.devices.documentdevice/process/methods/3) ของวิธี [TiffDevice](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice) คลาส สุดท้าย คุณสามารถโหลดไฟล์ TIFF โดยใช้คลาส [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image)
 และบันทึกเป็นรูปแบบ JPEG2000 โดยใช้วิธี [บันทึก](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)  
 {{% blocks/products/pf/feature-page-code %}}
@@ -48,7 +48,7 @@ C#
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}C#
 
-{{% blocks/products/pf/feature-page-section  h2="แปลงและหมุนไฟล์ PCL เป็น JPEG2000 ผ่าน C #" %}}
+{{% blocks/products/pf/feature-page-section  h2="แปลงและหมุนไฟล์ PCL เป็น JPEG2000 ผ่าน C#" %}}
 เมื่อใช้ API คุณยังสามารถหมุนอิมเมจ JPEG2000 ที่ส่งออกได้ตามความต้องการของคุณ วิธี Image.RotateFlip สามารถใช้หมุนภาพได้ 90/180/270 องศา แล้วพลิกภาพในแนวนอนหรือแนวตั้ง คุณสามารถระบุประเภทของการหมุนและพลิกเพื่อใช้กับรูปภาพได้ ในการหมุนและพลิกภาพ คุณสามารถโหลดภาพ JPEG ที่แปลงแล้วโดยใช้วิธีการจากโรงงานที่แสดงโดยคลาส [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) และเรียก Image วิธี .RotateFlip ขณะระบุ [RotateFlipType](https://apireference.aspose.com/imaging/net/aspose.imaging/rotatefliptype) ที่เหมาะสม 
 {{% blocks/products/pf/feature-page-code %}}
 

@@ -47,7 +47,7 @@ Ao converter o arquivo PPSM para MHTML, se o documento PPSM de entrada estiver p
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}C#
 
-{{% blocks/products/pf/feature-page-section  h2="Converter PPSM para MHTML com marca d'água via C #" %}}
+{{% blocks/products/pf/feature-page-section  h2="Converter PPSM para MHTML com marca d'água via C#" %}}
 Ao converter o arquivo PPSM para MHTML, você também pode adicionar marca d'água ao formato de arquivo MHTML de saída. Para adicionar uma marca d'água, você pode criar um novo objeto Workbook e abrir o documento HTML convertido, selecionar Worksheet através de seu índice, criar uma Shape e usar sua função AddTextEffect. Depois disso, você pode salvar seu documento HTML como MHTML com marca d'água. 
 {{% blocks/products/pf/feature-page-code %}}
 
