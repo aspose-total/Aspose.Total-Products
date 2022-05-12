@@ -19,9 +19,9 @@ otherformats: DOC RTF DOTX TEXT JPEG EMF ODT WORDML MD PNG XPS DOCX SVG DOTM OTT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="MSGをDOTXに変換するC＃API" %}}
 1. [MailMessage](https://apireference.aspose.com/msg/net/aspose.msg/mailmessage)クラスを使用してMSGファイルを開きます
-2. [保存](https://apireference.aspose.com/msg/net/aspose.msg.mailmessage/save/methods/3)メソッドを使用してMSGをHTMLに変換します
+2. [Save](https://apireference.aspose.com/msg/net/aspose.msg.mailmessage/save/methods/3)メソッドを使用してMSGをHTMLに変換します
 3. [Document](https://apireference.aspose.com/words/net/aspose.words/document)クラスを使用してHTMLをロードします
-4. [保存](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してドキュメントをDOTX形式で保存し、DotxをSaveFormatとして設定します
+4. [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してドキュメントをDOTX形式で保存し、DotxをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

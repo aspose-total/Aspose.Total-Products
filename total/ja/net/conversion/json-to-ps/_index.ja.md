@@ -19,9 +19,9 @@ otherformats: PCL RTF EPUB DOT OTT DOC WORD DOTX MOBI DOCM PS ODT WORDML FLATOPC
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C＃を介してJSON形式をPSに変換する" %}}
 1.新しい[Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)オブジェクトを作成し、ファイルから有効なJSONデータを読み取ります
-2. [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility)クラスと[保存](https://apireference.aspose.com/)を使用して、JSONファイルをワークシートにインポートします。 cells / net / aspose.cells.workbook / save / methods / 4)それをPDFとして
+2. [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility)クラスと[Save](https://apireference.aspose.com/)を使用して、JSONファイルをワークシートにインポートします。 cells / net / aspose.cells.workbook / save / methods / 4)それをPDFとして
 3. [Document](https://apireference.aspose.com/words/net/aspose.words/document)クラスを使用してPDFドキュメントをロードします
-4. [保存](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)メソッドを使用してドキュメントをPS形式で保存します
+4. [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)メソッドを使用してドキュメントをPS形式で保存します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

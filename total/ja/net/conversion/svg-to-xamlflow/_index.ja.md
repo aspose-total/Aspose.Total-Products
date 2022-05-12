@@ -19,9 +19,9 @@ otherformats: XAMLFLOW DOT MHTML WORDML DOTX RTF DOTM OTT ODT FLATOPC PCL PS
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="SVGをXAMLFLOWに変換するC＃API" %}}
 1. [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)クラスを使用してSVGファイルを開きます
-2. [保存](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)メソッドを使用してSVGをドキュメントに変換します
+2. [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)メソッドを使用してSVGをドキュメントに変換します
 3. Aspose.Wordsの[Document](https://apireference.aspose.com/words/net/aspose.words/document)クラスを使用してDocファイルをロードします
-4. [保存](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してドキュメントをXAMLFLOW形式で保存し、XamlflowをSaveFormatとして設定します
+4. [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してドキュメントをXAMLFLOW形式で保存し、XamlflowをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

@@ -17,9 +17,9 @@ otherformats: FODS XLAM ODS TSV XLSB XLSM XLTX EXCEL XLS XLTM DIF SXC XLSX XLT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="RTFをSXCに変換するC++API" %}}
 1. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)クラスを使用してRTFファイルを開きます
-2. [保存](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)を使用してRTFをHTMLに変換します) 方法
+2. [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)を使用してRTFをHTMLに変換します) 方法
 3. [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)クラスを使用してHTMLドキュメントをロードします
-4. [保存](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells))を使用して、ドキュメントをSXC形式で保存します。 SaveOptions))メソッド
+4. [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells))を使用して、ドキュメントをSXC形式で保存します。 SaveOptions))メソッド
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)ベースのプロジェクトから直接Aspose.TotalforJavaを簡単に使用できます[Aspose.Words for Java](https://rtfs.aspose.com/words/java/installation/)と[Aspose.Cells for Java](https://rtfs.aspose.com/cells/java/installation/)を含めますあなたのpom.xmlの。
@@ -42,7 +42,7 @@ RTFをSXCに変換する前に、[Aspose.Words for Java](https://products.aspose
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Javaを介してRTFドキュメントから未使用の情報を削除する" %}}
-RTFをSXCに変換した後、[Aspose.Cells for Java](https://products.aspose.com/cells/java/)を使用すると、ドキュメントをストリームに保存できます。ファイルをストリームに保存する必要がある場合は、FileOutputStreamオブジェクトを作成してから、[保存](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook)[Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)のsaveメソッドを呼び出して、そのStreamオブジェクトへのファイル物体。 
+RTFをSXCに変換した後、[Aspose.Cells for Java](https://products.aspose.com/cells/java/)を使用すると、ドキュメントをストリームに保存できます。ファイルをストリームに保存する必要がある場合は、FileOutputStreamオブジェクトを作成してから、[Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook)[Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)のsaveメソッドを呼び出して、そのStreamオブジェクトへのファイル物体。 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}

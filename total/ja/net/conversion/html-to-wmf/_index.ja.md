@@ -21,7 +21,7 @@ otherformats: IMAGE EMZ  WMF SVGZ JPEG2000 DXF TGA WMZ PSD DICOM
 1. [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)クラスを使用してHTMLファイルを開きます
 2. [JpegDevice](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice)クラスオブジェクトを初期化し、[Process](https：//apireference.aspose)を使用してHTMLをJPEGにレンダリングします。 com / pdf / net / aspose.pdf.devices.pagedevice / process / methods / 1)メソッド
 3. [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image)クラスを使用してJPEGファイルをロードします
-4. [保存](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)メソッドを使用してドキュメントをWMF形式で保存します
+4. [Save](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)メソッドを使用してドキュメントをWMF形式で保存します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
@@ -40,7 +40,7 @@ otherformats: IMAGE EMZ  WMF SVGZ JPEG2000 DXF TGA WMZ PSD DICOM
 
 {{% blocks/products/pf/feature-page-section  h2="C＃を介して単一ファイルでHTMLファイルをWMFに変換する" %}}
 APIを使用して、HTMLファイルをWMFに変換して単一の画像ファイルにすることもできます。すべてのページを変換するには、最初にHTMLドキュメントを1つのTIFFファイルにレンダリングし、その後TIFFファイルをWMFにエクスポートできます。 [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)クラスを使用して入力ファイルを開き、Resolution、TiffSettings、およびTIFFデバイスオブジェクトを作成できます。 [TiffDevice](https//apireference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice) の[Process](https://apireference.aspose.com/pdf/net/aspose.pdf.devices.documentdevice/process/methods/3)メソッドを使用して単一のTIFF画像を取得できますクラス。最後に、[画像](https://apireference.aspose.com/imaging/net/aspose.imaging/image)クラスを使用してTIFFファイルを読み込むことができます
-[保存](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)メソッドを使用してWMF形式で保存します。  
+[Save](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)メソッドを使用してWMF形式で保存します。  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-single-file.cs" >}}

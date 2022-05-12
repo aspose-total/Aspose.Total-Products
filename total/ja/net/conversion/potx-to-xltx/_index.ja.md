@@ -19,9 +19,9 @@ otherformats: XLSM XLT ODS XLTX SXC DIF XLSX XLAM XLS TSV MARKDOWN XLSB FODS EXC
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C＃を介してPOTXをXLTXに変換する方法" %}}
 1. [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)クラスを使用してPOTXファイルを開きます
-2. [保存](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)メソッドを使用してPOTXをHTMLとしてエクスポートします
-3. [ワークブック](https://apireference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
-4. [保存](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをXLTXに保存します
+2. [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)メソッドを使用してPOTXをHTMLとしてエクスポートします
+3. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
+4. [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをXLTXに保存します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

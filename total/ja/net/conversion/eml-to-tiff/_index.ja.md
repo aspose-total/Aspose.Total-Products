@@ -19,9 +19,9 @@ otherformats: TIFF GIF XPS DOTX SVG ODT PCL DOCM PDF DOC PS RTF MD EPUB PNG FLAT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="EMLをTIFFに変換するC＃API" %}}
 1. [MailMessage](https://apireference.aspose.com/eml/net/aspose.eml/mailmessage)クラスを使用してEMLファイルを開きます
-2. [保存](https://apireference.aspose.com/eml/net/aspose.eml.mailmessage/save/methods/3)メソッドを使用してEMLをHTMLに変換します
+2. [Save](https://apireference.aspose.com/eml/net/aspose.eml.mailmessage/save/methods/3)メソッドを使用してEMLをHTMLに変換します
 3. [Document](https://apireference.aspose.com/words/net/aspose.words/document)クラスを使用してHTMLをロードします
-4. [保存](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してドキュメントをTIFF形式で保存し、TiffをSaveFormatとして設定します
+4. [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してドキュメントをTIFF形式で保存し、TiffをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

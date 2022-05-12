@@ -19,9 +19,9 @@ otherformats: EPUB PCL PDF JPEG DOCM DOC TEXT DOT MD RTF EMF DOTM SVG WORDML PS 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="EMLをDOCに変換するC＃API" %}}
 1. [MailMessage](https://apireference.aspose.com/eml/net/aspose.eml/mailmessage)クラスを使用してEMLファイルを開きます
-2. [保存](https://apireference.aspose.com/eml/net/aspose.eml.mailmessage/save/methods/3)メソッドを使用してEMLをHTMLに変換します
+2. [Save](https://apireference.aspose.com/eml/net/aspose.eml.mailmessage/save/methods/3)メソッドを使用してEMLをHTMLに変換します
 3. [Document](https://apireference.aspose.com/words/net/aspose.words/document)クラスを使用してHTMLをロードします
-4. [保存](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してドキュメントをDOC形式で保存し、DocをSaveFormatとして設定します
+4. [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してドキュメントをDOC形式で保存し、DocをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

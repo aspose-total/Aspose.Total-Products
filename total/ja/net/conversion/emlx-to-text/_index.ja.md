@@ -19,9 +19,9 @@ otherformats: DOCX DOC DOTM SVG PDF DOTX PNG RTF ODT FLATOPC DOT XPS GIF EPUB TI
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="EMLXをTEXTに変換するC＃API" %}}
 1. [MailMessage](https://apireference.aspose.com/emlx/net/aspose.emlx/mailmessage)クラスを使用してEMLXファイルを開きます
-2. [保存](https://apireference.aspose.com/emlx/net/aspose.emlx.mailmessage/save/methods/3)メソッドを使用してEMLXをHTMLに変換します
+2. [Save](https://apireference.aspose.com/emlx/net/aspose.emlx.mailmessage/save/methods/3)メソッドを使用してEMLXをHTMLに変換します
 3. [Document](https://apireference.aspose.com/words/net/aspose.words/document)クラスを使用してHTMLをロードします
-4. [保存](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してドキュメントをTEXT形式で保存し、TextをSaveFormatとして設定します
+4. [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してドキュメントをTEXT形式で保存し、TextをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

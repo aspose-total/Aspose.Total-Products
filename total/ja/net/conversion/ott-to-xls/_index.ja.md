@@ -19,9 +19,9 @@ otherformats: FODS XLAM XLSB XLT EXCEL SXC DIF XLTM XLSX ODS TSV XLS XLSM XLTX
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="OTTをXLSに変換する.NETAPI" %}}
 1. [Document](https://apireference.aspose.com/words/net/aspose.words/document)クラスを使用してOTTファイルを開きます
-2. [保存](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してOTTをHTMLに変換します
-3. [ワークブック](https://apireference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
-4. [保存](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをXLS形式で保存し、「XLS」をSaveFormatとして設定します
+2. [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してOTTをHTMLに変換します
+3. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
+4. [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをXLS形式で保存し、「XLS」をSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

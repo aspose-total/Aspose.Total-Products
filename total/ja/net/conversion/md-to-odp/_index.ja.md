@@ -19,9 +19,9 @@ otherformats: XAML SWF POT PPTM PPSX POTM PPS PPT POTX OTP POWERPOINT PPSM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="MDをODPに変換する.NETAPI" %}}
 1. [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)クラスを使用してMDファイルを開きます
-2. [保存](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)メソッドを使用してMDをPPTXに変換します
+2. [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)メソッドを使用してMDをPPTXに変換します
 3. [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)クラスを使用してPPTXファイルをロードします
-4. [保存](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)メソッドを使用してドキュメントをODP形式で保存し、「Odp」をSaveFormatとして設定します
+4. [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)メソッドを使用してドキュメントをODP形式で保存し、「Odp」をSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

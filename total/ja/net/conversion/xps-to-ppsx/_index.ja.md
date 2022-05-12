@@ -19,9 +19,9 @@ otherformats: PPT SWF OTP POWERPOINT POTM PPS PPTM PPSX POTX XAML PPSM POT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="XPSをPPSXに変換する.NETAPI" %}}
 1. [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)クラスを使用してXPSファイルを開きます
-2. [保存](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)メソッドを使用してXPSをPPTXに変換します
+2. [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)メソッドを使用してXPSをPPTXに変換します
 3. [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)クラスを使用してPPTXファイルをロードします
-4. [保存](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)メソッドを使用してドキュメントをPPSX形式で保存し、「Ppsx」をSaveFormatとして設定します
+4. [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)メソッドを使用してドキュメントをPPSX形式で保存し、「Ppsx」をSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

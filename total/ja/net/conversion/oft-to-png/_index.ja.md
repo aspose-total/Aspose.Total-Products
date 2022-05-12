@@ -19,9 +19,9 @@ otherformats: EPUB DOCX SVG JPEG FLATOPC TIFF RTF PS WORDML PCL ODT GIF TEXT MD 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="OFTをPNGに変換するC＃API" %}}
 1. [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage)クラスを使用してOFTファイルを開きます
-2. [保存](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)メソッドを使用してOFTをHTMLに変換します
+2. [Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)メソッドを使用してOFTをHTMLに変換します
 3. [Document](https://apireference.aspose.com/words/net/aspose.words/document)クラスを使用してHTMLをロードします
-4. [保存](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してドキュメントをPNG形式で保存し、PngをSaveFormatとして設定します
+4. [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してドキュメントをPNG形式で保存し、PngをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

@@ -19,9 +19,9 @@ otherformats: PCL TIFF DOCX FLATOPC DOTX DOTM DOC MD XPS PS ODT RTF EPUB DOT SVG
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="EMAILをSVGに変換するC＃API" %}}
 1. [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage)クラスを使用してEMAILファイルを開きます
-2. [保存](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)メソッドを使用してEMAILをHTMLに変換します
+2. [Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)メソッドを使用してEMAILをHTMLに変換します
 3. [Document](https://apireference.aspose.com/words/net/aspose.words/document)クラスを使用してHTMLをロードします
-4. [保存](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してドキュメントをSVG形式で保存し、SvgをSaveFormatとして設定します
+4. [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してドキュメントをSVG形式で保存し、SvgをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

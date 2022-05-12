@@ -16,7 +16,7 @@ XLTをPOWERPOINTにレンダリングするのは2段階のプロセスです。
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="JavaAPIを介してXLTをPOWERPOINTに変換する方法" %}}
-1. [ワークブック](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)クラスを使用してXLTファイルを開きます
+1. [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)クラスを使用してXLTファイルを開きます
 2. XLTをPDFに変換し、SaveFormatをAUTOに設定します
 3. [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)クラスを使用して変換されたPDFファイルをロードします
 4. [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions)を使用してドキュメントをPOWERPOINT形式で保存します-)メソッドとPowerpointをSaveFormatとして設定します

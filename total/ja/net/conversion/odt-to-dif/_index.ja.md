@@ -19,9 +19,9 @@ otherformats: XLSM XLS XLSX ODS SXC XLTM TSV XLTX XLAM EXCEL XLSB DIF XLT FODS
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="ODTをDIFに変換する.NETAPI" %}}
 1. [Document](https://apireference.aspose.com/words/net/aspose.words/document)クラスを使用してODTファイルを開きます
-2. [保存](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してODTをHTMLに変換します
-3. [ワークブック](https://apireference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
-4. [保存](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをDIF形式で保存し、「DIF」をSaveFormatとして設定します
+2. [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してODTをHTMLに変換します
+3. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
+4. [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをDIF形式で保存し、「DIF」をSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

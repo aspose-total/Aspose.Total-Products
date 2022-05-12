@@ -19,9 +19,9 @@ otherformats: ODT RTF XAMLFLOW WORDML MARKDOWN DOTM FLATOPC OTT PCL PS DOTX DOT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="MHTMLをDOCMに変換するC＃API" %}}
 1. [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)クラスを使用してMHTMLファイルを開きます
-2. [保存](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)メソッドを使用してMHTMLをドキュメントに変換します
+2. [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)メソッドを使用してMHTMLをドキュメントに変換します
 3. Aspose.Wordsの[Document](https://apireference.aspose.com/words/net/aspose.words/document)クラスを使用してDocファイルをロードします
-4. [保存](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してドキュメントをDOCM形式で保存し、DocmをSaveFormatとして設定します
+4. [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してドキュメントをDOCM形式で保存し、DocmをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

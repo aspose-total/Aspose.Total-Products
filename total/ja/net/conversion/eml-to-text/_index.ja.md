@@ -19,9 +19,9 @@ otherformats: PNG DOT DOTM JPEG ODT MD XPS PS WORDML DOCX FLATOPC EPUB SVG TIFF 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="EMLをTEXTに変換するC＃API" %}}
 1. [MailMessage](https://apireference.aspose.com/eml/net/aspose.eml/mailmessage)クラスを使用してEMLファイルを開きます
-2. [保存](https://apireference.aspose.com/eml/net/aspose.eml.mailmessage/save/methods/3)メソッドを使用してEMLをHTMLに変換します
+2. [Save](https://apireference.aspose.com/eml/net/aspose.eml.mailmessage/save/methods/3)メソッドを使用してEMLをHTMLに変換します
 3. [Document](https://apireference.aspose.com/words/net/aspose.words/document)クラスを使用してHTMLをロードします
-4. [保存](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してドキュメントをTEXT形式で保存し、TextをSaveFormatとして設定します
+4. [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してドキュメントをTEXT形式で保存し、TextをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

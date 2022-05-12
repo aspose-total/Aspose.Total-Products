@@ -19,9 +19,9 @@ otherformats: EXCEL SXC XLSM XLSX XLAM XLTX DIF XLSB XLTM XLS ODS TSV XLT FODS
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="MOBIをCSVに変換する.NETAPI" %}}
 1. [Document](https://apireference.aspose.com/words/net/aspose.words/mobiument)クラスを使用してMOBIファイルを開きます
-2. [保存](https://apireference.aspose.com/words/net/aspose.words.mobiument/save/methods/4)メソッドを使用してMOBIをHTMLに変換します
-3. [ワークブック](https://apireference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
-4. [保存](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをCSV形式で保存し、「CSV」をSaveFormatとして設定します
+2. [Save](https://apireference.aspose.com/words/net/aspose.words.mobiument/save/methods/4)メソッドを使用してMOBIをHTMLに変換します
+3. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
+4. [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをCSV形式で保存し、「CSV」をSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

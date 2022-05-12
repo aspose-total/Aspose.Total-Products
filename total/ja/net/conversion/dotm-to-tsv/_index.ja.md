@@ -19,9 +19,9 @@ otherformats: FODS TSV XLTM XLT XLSB XLTX ODS SXC XLSX XLAM DIF EXCEL XLS XLSM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="DOTMをTSVに変換する.NETAPI" %}}
 1. [Document](https://apireference.aspose.com/words/net/aspose.words/dotmument)クラスを使用してDOTMファイルを開きます
-2. [保存](https://apireference.aspose.com/words/net/aspose.words.dotmument/save/methods/4)メソッドを使用してDOTMをHTMLに変換します
-3. [ワークブック](https://apireference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
-4. [保存](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをTSV形式で保存し、「TSV」をSaveFormatとして設定します
+2. [Save](https://apireference.aspose.com/words/net/aspose.words.dotmument/save/methods/4)メソッドを使用してDOTMをHTMLに変換します
+3. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
+4. [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをTSV形式で保存し、「TSV」をSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

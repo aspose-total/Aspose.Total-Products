@@ -21,7 +21,7 @@ otherformats: SVGZ DXF PSD IMAGE EMZ TGA JPEG2000 WMZ  WMF DICOM
 1. [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)クラスを使用してPSファイルを開きます
 2. [JpegDevice](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice)クラスオブジェクトを初期化し、[Process](https：//apireference.aspose)を使用してPSをJPEGにレンダリングします。 com / pdf / net / aspose.pdf.devices.pagedevice / process / methods / 1)メソッド
 3. [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image)クラスを使用してJPEGファイルをロードします
-4. [保存](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)メソッドを使用してドキュメントをAPNG形式で保存します
+4. [Save](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)メソッドを使用してドキュメントをAPNG形式で保存します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
@@ -40,7 +40,7 @@ otherformats: SVGZ DXF PSD IMAGE EMZ TGA JPEG2000 WMZ  WMF DICOM
 
 {{% blocks/products/pf/feature-page-section  h2="C＃を介して単一ファイルでPSファイルをAPNGに変換する" %}}
 APIを使用して、PSファイルをAPNGに変換して単一の画像ファイルにすることもできます。すべてのページを変換するには、最初にPSドキュメントを1つのTIFFファイルにレンダリングし、その後TIFFファイルをAPNGにエクスポートできます。 [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)クラスを使用して入力ファイルを開き、Resolution、TiffSettings、およびTIFFデバイスオブジェクトを作成できます。 [TiffDevice](https//apireference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice) の[Process](https://apireference.aspose.com/pdf/net/aspose.pdf.devices.documentdevice/process/methods/3)メソッドを使用して単一のTIFF画像を取得できますクラス。最後に、[画像](https://apireference.aspose.com/imaging/net/aspose.imaging/image)クラスを使用してTIFFファイルを読み込むことができます
-[保存](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)メソッドを使用してAPNG形式で保存します。  
+[Save](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)メソッドを使用してAPNG形式で保存します。  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-single-file.cs" >}}

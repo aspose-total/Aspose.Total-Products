@@ -19,9 +19,9 @@ otherformats: XLS DIF XLSB TSV FODS XLSM EXCEL XLT SXC XLSX XLTM XLAM XLTX ODS
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="WORDをSXCに変換する.NETAPI" %}}
 1. [Document](https://apireference.aspose.com/words/net/aspose.words/document)クラスを使用してWORDファイルを開きます
-2. [保存](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してWORDをHTMLに変換します
-3. [ワークブック](https://apireference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
-4. [保存](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをSXC形式で保存し、「SXC」をSaveFormatとして設定します
+2. [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してWORDをHTMLに変換します
+3. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
+4. [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをSXC形式で保存し、「SXC」をSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

@@ -17,9 +17,9 @@ otherformats: EPUB FLATOPC PCL WORDML DOTX PS DOCM RTF DOC WORD MOBI ODT DOT OTT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java経由でJSON形式をRTFに変換する" %}}
 1.新しい[Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)オブジェクトを作成し、ファイルから有効なJSONデータを読み取ります
-2. [JsonUtility](https://apireference.aspose.com/cells/java/com.aspose.cells/JsonUtility)クラスと[保存](https://apireference.aspose.com/)を使用して、JSONファイルをワークシートにインポートします。 cells / java / com.aspose.cells / workbook＃save(java.lang.String、％20com.aspose.cells.SaveOptions))PDF形式で表示
+2. [JsonUtility](https://apireference.aspose.com/cells/java/com.aspose.cells/JsonUtility)クラスと[Save](https://apireference.aspose.com/)を使用して、JSONファイルをワークシートにインポートします。 cells / java / com.aspose.cells / workbook＃save(java.lang.String、％20com.aspose.cells.SaveOptions))PDF形式で表示
 3. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)クラスを使用してPDFドキュメントをロードします
-4. [保存](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)を使用してドキュメントをRTF形式で保存します)) 方法
+4. [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)を使用してドキュメントをRTF形式で保存します)) 方法
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)ベースのプロジェクトから直接Aspose.TotalforJavaを簡単に使用できますそして、pom.xmlにライブラリを含めます。
