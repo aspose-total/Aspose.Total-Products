@@ -1,23 +1,23 @@
 ---
-title: File Format Conversion via Java 
-url: /java/conversion/
-description: Convert Microsoft Office Word, Excel, PowerPoint, Outlook, PDF, HTML, 3D Images, Diagrams, Video Formats and different other formats with just few lines of Java code.
+title: Java ile Dosya Biçimi Dönüştürme 
+url: /tr/java/conversion/
+description: Yalnızca birkaç satır Java koduyla Microsoft Office Word, Excel, PowerPoint, Outlook, PDF, HTML, 3D Görüntüler, Diyagramlar, Video Formatları ve diğer farklı formatları dönüştürün.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="File Format Conversion via Java" h2="Convert Microsoft<sup>&reg;</sup> Office documents, PDF, Images, HTML and multiple other files without using any other software." >}}
+{{< blocks/products/pf/feature-page-header h1="Java ile Dosya Biçimi Dönüştürme" h2="Microsoft<sup>&reg;</sup> Office belgelerini, PDF'yi, Görselleri, HTML'yi ve diğer birçok dosyayı başka bir yazılım kullanmadan dönüştürün." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Java Total Library](https://products.aspose.com/total/java/) speeds up developing document manipulation solutions from scratch or enhancing existing applications to deal document management with ease. API not only create, edit and convert Microsoft Office documents but also handles PDF, HTML, Images TIFF, JPG, PNG, BMP and SVG, Email files, Video formats, 3D, CAD and much more. It is a collection of document management and manipulation solution APIs without any software dependencies within any Java J2SE, J2EE, J2ME applications. Programmers can easily create, update, render, print and convert between most popular formats within any Java based applications.
+[Java Total Library](https://products.aspose.com/total/java/), belge yönetimini kolaylıkla halletmek için sıfırdan belge işleme çözümleri geliştirmeyi veya mevcut uygulamaları iyileştirmeyi hızlandırır. API yalnızca Microsoft Office belgeleri oluşturmak, düzenlemek ve dönüştürmekle kalmaz, aynı zamanda PDF, HTML, Görüntüler TIFF, JPG, PNG, BMP ve SVG, E-posta dosyaları, Video biçimleri, 3D, CAD ve çok daha fazlasını da işler. Herhangi bir Java J2SE, J2EE, J2ME uygulamasında herhangi bir yazılım bağımlılığı olmayan bir belge yönetimi ve işleme çözümü API'leri topluluğudur. Programcılar, herhangi bir Java tabanlı uygulama içinde en popüler biçimleri kolayca oluşturabilir, güncelleyebilir, görüntüleyebilir, yazdırabilir ve dönüştürebilir.
 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Word to Excel Conversion" %}}
-Total API supports not only inter conversion of Microsoft Word formats but also converting Word to Excel, PDF, HTML, Images, EPUB, Markdown and XPS. Process of conversion is simple. Let's consider the case of **Word to Excel** conversion. Load Microsoft Word file using [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) class and convert **WORD to HTML** by using [Save method](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)). Next open the converted HTML document by using [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) class and save the document to XLSX format using [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method.
- Developers can also convert [Word to PDF](https://products.aspose.com/words/java/conversion/word-to-pdf/).
+{{% blocks/products/pf/feature-page-section  h2="Word'den Excel'e Dönüştürme" %}}
+Total API, yalnızca Microsoft Word biçimlerinin karşılıklı dönüştürülmesini değil, aynı zamanda Word'ün Excel, PDF, HTML, Görüntüler, EPUB, Markdown ve XPS'ye dönüştürülmesini de destekler. Dönüşüm süreci basittir. **Word'den Excel'e** dönüştürme örneğini ele alalım. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) sınıfını kullanarak Microsoft Word dosyasını yükleyin ve [Kaydetme yöntemini](https: //apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)). Ardından dönüştürülen HTML belgesini [Çalışma Kitabı](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak açın ve [Kaydet](https:/) öğesini kullanarak belgeyi XLSX biçiminde kaydedin /apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) yöntemi.
+ Geliştiriciler ayrıca [Word'ü PDF'ye](https://products.aspose.com/words/java/conversion/word-to-pdf/) dönüştürebilir.
 
 
-{{% blocks/products/pf/feature-page-code h3="Java Word to Excel Conversion" %}}
+{{% blocks/products/pf/feature-page-code h3="Java Word'den Excel'e Dönüştürme" %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-word-to-excel.java" >}}
 
@@ -26,9 +26,9 @@ Total API supports not only inter conversion of Microsoft Word formats but also 
 {{< blocks/products/pf/feature-page-options pairs="word-to-csv word-to-json word-to-powerpoint" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Convert PDF to Images" %}}
-API supports converting PDF to Images like JPEG2000, EMZ,  WMZ, TGA, PSD, DXF, WMF, SVGZ, APNG, DICOM, Powerpoint, Excel and other formats. For PDF to Image conversion, let's consider the JPG image as target file. Process is, load PDF file using Document class and initialize [JpegDevice class](https://apireference.aspose.com/pdf/java/aspose.pdf.devices/jpegdevice) object and render PDF to JPEG via [Process](https://apireference.aspose.com/pdf/java/aspose.pdf.devices.pagedevice/process/methods/1) method
-Load JPEG file by using [Image](https://apireference.aspose.com/imaging/java/aspose.imaging/image) class and finally call the Save method.
+{{% blocks/products/pf/feature-page-section  h2="PDF'yi Görüntülere Dönüştür" %}}
+API, PDF'yi JPEG2000, EMZ, WMZ, TGA, PSD, DXF, WMF, SVGZ, APNG, DICOM, Powerpoint, Excel ve diğer formatlar gibi Görüntülere dönüştürmeyi destekler. PDF'den Görüntüye dönüştürme için, JPG görüntüsünü hedef dosya olarak düşünelim. İşlem, PDF dosyasını Document sınıfını kullanarak yükleyin ve [JpegDevice class](https://apireference.aspose.com/pdf/java/aspose.pdf.devices/jpegdevice) nesnesini başlatın ve [Process](https aracılığıyla PDF'yi JPEG'e dönüştürün) ://apireference.aspose.com/pdf/java/aspose.pdf.devices.pagedevice/process/methods/1) yöntemi
+[Image](https://apireference.aspose.com/imaging/java/aspose.imaging/image) sınıfını kullanarak JPEG dosyasını yükleyin ve son olarak Save yöntemini çağırın.
 
 {{% blocks/products/pf/feature-page-code h3="Java PDF to Image Conversion" %}}
 
@@ -40,17 +40,17 @@ Load JPEG file by using [Image](https://apireference.aspose.com/imaging/java/asp
 
 {{< blocks/products/pf/feature-page-options pairs="pdf-to-powerpoint pdf-to-excel pdf-to-csv pdf-to-txt pdf-to-markdown" >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Convert PowerPoint to Excel Files" %}}
+{{% blocks/products/pf/feature-page-section  h2="PowerPoint'i Excel Dosyalarına Dönüştür" %}}
 
-For converting Microsoft PowerPoint files to different files including Excel Word, MHTML, Relevant sub APIs involoved of main Aspose.Total for Java API. Process of converting PowerPoint files to Excel document, Load PowerPoint file using [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) class and convert **PowerPoint to HTML** by using [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method. Next load the converted HTML document by using [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) class and save the document to EXCEL format using [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method. Code for **PowerPoint to Word** conversion also listed.
+Microsoft PowerPoint dosyalarını Excel Word, MHTML, ana Aspose.Total for Java API'sinin içerdiği ilgili alt API'ler dahil olmak üzere farklı dosyalara dönüştürmek için. PowerPoint dosyalarını Excel belgesine dönüştürme işlemi, PowerPoint dosyasını [Sunum](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) sınıfını kullanarak yükleyin ve **PowerPoint'i HTML'ye** dönüştürün [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) yöntemini kullanarak. Ardından dönüştürülen HTML belgesini [Çalışma Kitabı](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak yükleyin ve [kaydet](https:/) kullanarak belgeyi EXCEL biçiminde kaydedin /apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) yöntemi. **PowerPoint'ten Word'e** dönüştürme kodu da listelenmiştir.
 
-{{% blocks/products/pf/feature-page-code h3="Java PowerPoint to Excel Conversion" %}}
+{{% blocks/products/pf/feature-page-code h3="Java PowerPoint'ten Excel'e Dönüştürme" %}}
 
 {{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel.java" >}}
 
 {{% /blocks/products/pf/feature-page-code %}}
 
-{{% blocks/products/pf/feature-page-code h3="Java PowerPoint to Word Conversion" %}}
+{{% blocks/products/pf/feature-page-code h3="Java PowerPoint'ten Word'e Dönüştürme" %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word.java" >}}
 
