@@ -1,22 +1,22 @@
 ---
-title: File Format Conversion via C# 
-url: /net/conversion/
-description: Convert Microsoft Word, Excel, PowerPoint, Outlook, PDF, HTML, 3D Images, Diagrams, Video Formats and many other popular files with just few lines of C# code.
+title: Fájlformátum konvertálása C# segítségével 
+url: /hu/net/conversion/
+description: Konvertálja a Microsoft Word, Excel, PowerPoint, Outlook, PDF, HTML, 3D képeket, diagramokat, videoformátumokat és sok más népszerű fájlt néhány sornyi C# kóddal.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="File Format Conversion via C# .NET" h2="Convert Microsoft<sup>&reg;</sup> Office files, PDF, Images, HTML and different other formats without using any other software." >}}
+{{< blocks/products/pf/feature-page-header h1="Fájlformátum konvertálása C# segítségével .NET" h2="Konvertálja a Microsoft<sup>&reg;</sup> Office-fájlokat, PDF-eket, képeket, HTML-fájlokat és különféle egyéb formátumokat bármilyen más szoftver használata nélkül." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[.NET Total Library](https://products.aspose.com/total/net/) speeds up developing document management solutions from scratch or enhancing existing applications to deal document manipulation with ease. API not only manages Microsoft Office documents but also handles PDF, HTML, Images TIFF, JPG, PNG, BMP and SVG, Email files, Video formats, GIS data formats and much more. It is complete set of document management and manipulation solution APIs without any software dependencies.  Programmers can easily create, update, render, print and convert between most popular formats within any .NET based applications.
+[.NET Total Library](https://products.aspose.com/total/net/) felgyorsítja a dokumentumkezelési megoldások fejlesztését a semmiből, vagy a meglévő alkalmazások fejlesztését a dokumentumkezelés egyszerű kezelése érdekében. Az API nem csak a Microsoft Office dokumentumokat kezeli, hanem PDF, HTML, TIFF, JPG, PNG, BMP és SVG képeket, e-mail fájlokat, videóformátumokat, GIS adatformátumokat és még sok mást is kezel. Ez a dokumentumkezelési és -manipulációs megoldási API-k teljes készlete, szoftverfüggőségek nélkül. A programozók könnyedén létrehozhatnak, frissíthetnek, renderelhetnek, nyomtathatnak és konvertálhatnak a legnépszerűbb formátumok között bármely .NET-alapú alkalmazáson belül.
 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Convert Word to PDF" %}}
-Total API supports not only inter conversion of Microsoft Word formats but also converting Word to PDF, HTML, Images, EPUB, Markdown and XPS. Process of conversion is simple. Load the Document via Document class and just call the Save method with target format. It's so simple. Developers can check the [conversion result](https://products.aspose.com/words/net/conversion/word-to-pdf/) before code integration of **Word to PDF**
+{{% blocks/products/pf/feature-page-section  h2="A Word konvertálása PDF-be" %}}
+A Total API nem csak a Microsoft Word formátumok interkonverzióját támogatja, hanem a Word PDF, HTML, Images, EPUB, Markdown és XPS formátumba való konvertálását is. Az átalakítás folyamata egyszerű. Töltse be a dokumentumot a Dokumentum osztályon keresztül, és hívja meg a Mentés metódust célformátummal. Ez olyan egyszerű. A fejlesztők ellenőrizhetik a [konverzió eredményét](https://products.aspose.com/words/net/conversion/word-to-pdf/) a **Word PDF-be** kódintegrációja előtt
 
 
-{{% blocks/products/pf/feature-page-code h3="C# - Word to PDF Conversion" %}}
+{{% blocks/products/pf/feature-page-code h3="C# - Konverzió Word-ből PDF-be" %}}
 
 {{< gist "aspose-com-gists" "73f7662392c88a80941c930db836cd58" "convert-word-to-pdf.cs" >}}
 
@@ -25,11 +25,11 @@ Total API supports not only inter conversion of Microsoft Word formats but also 
 {{< blocks/products/pf/feature-page-options pairs="word-to-csv word-to-excel word-to-json word-to-ods" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Convert PDF to Images" %}}
-API supports converting PDF to Images, Powerpoint, Excel and other formats. For PDF to Image conversion, let's consider the JPG image as target file. Process is, load PDF file using Document class and initialize [JpegDevice class](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) object and render PDF to JPEG via [Process](https://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) method
-Load JPEG file by using [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) class and finally call the Save method.
+{{% blocks/products/pf/feature-page-section  h2="PDF konvertálása képekké" %}}
+Az API támogatja a PDF konvertálását Images, Powerpoint, Excel és más formátumokká. A PDF-kép konvertáláshoz tekintsük a JPG-képet célfájlnak. A folyamat a következő: töltsön be PDF-fájlt a Document osztály segítségével, és inicializálja a [JpegDevice class](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) objektumot, majd a PDF-et JPEG formátumba rendereli a [Process](https) segítségével. ://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) módszer
+Töltse be a JPEG-fájlt az [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) osztály használatával, és végül hívja meg a Mentés metódust.
 
-{{% blocks/products/pf/feature-page-code h3="C# - PDF to Image Conversion" %}}
+{{% blocks/products/pf/feature-page-code h3="C# - PDF konvertálás képpé" %}}
 
 {{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-image.cs" >}}
 
@@ -39,17 +39,17 @@ Load JPEG file by using [Image](https://apireference.aspose.com/imaging/net/aspo
 
 {{< blocks/products/pf/feature-page-options pairs="pdf-to-powerpoint pdf-to-excel pdf-to-txt" >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Convert Excel to Word and PowerPoint" %}}
+{{% blocks/products/pf/feature-page-section  h2="Az Excel konvertálása Word és PowerPoint formátumba" %}}
 
-For converting Microsoft Excel formats to different files including Word and PowerPoint, Relevant sub APIs involoved of main Aspose.Total for .NET API. Process of converting Excel files to Word document, load EXCEL file using [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) class and convert EXCEL to PDF firstly and set SaveFormat to Auto. Then load the converted PDF file using Document class and call the Save method and set Doc, Docx as SaveFormat. Code also listed for Microsoft **Excel to Powerpoint** conversion.
+A Microsoft Excel formátumok különböző fájlokká konvertálásához, beleértve a Word és a PowerPoint, a fő Aspose.Total .NET API-hoz kapcsolódó al API-kat. Az Excel-fájlok Word-dokumentummá konvertálásának folyamata, töltse be az EXCEL-fájlt a [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) osztály segítségével, majd először konvertálja az EXCEL-t PDF-be, majd állítsa a SaveFormat-ot Auto-ra. Ezután töltse be a konvertált PDF fájlt a Document class segítségével, és hívja meg a Mentés metódust, és állítsa be a Doc, Docx fájlt SaveFormatként. A kód a Microsoft **Excel–Powerpoint** konvertálásához is szerepel.
 
-{{% blocks/products/pf/feature-page-code h3="C# - JSON to Excel Conversion" %}}
+{{% blocks/products/pf/feature-page-code h3="C# – JSON konvertálása Excelbe" %}}
 
 {{< gist "aspose-com-gists" "73f7662392c88a80941c930db836cd58" "convert-excel-to-word.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code %}}
 
-{{% blocks/products/pf/feature-page-code h3="C# - Excel to JSON Conversion" %}}
+{{% blocks/products/pf/feature-page-code h3="C# – Konverzió az Excelből JSON-ba" %}}
 
 {{< gist "aspose-com-gists" "73f7662392c88a80941c930db836cd58" "convert-excel-to-powerpoint.cs" >}}
 

@@ -1,22 +1,22 @@
 ---
-title: File Format Conversion via C# 
-url: /net/conversion/
-description: Convert Microsoft Word, Excel, PowerPoint, Outlook, PDF, HTML, 3D Images, Diagrams, Video Formats and many other popular files with just few lines of C# code.
+title: Conversion de format de fichier via C# 
+url: /fr/net/conversion/
+description: Convertissez Microsoft Word, Excel, PowerPoint, Outlook, PDF, HTML, des images 3D, des diagrammes, des formats vidéo et de nombreux autres fichiers populaires avec seulement quelques lignes de code C#.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="File Format Conversion via C# .NET" h2="Convert Microsoft<sup>&reg;</sup> Office files, PDF, Images, HTML and different other formats without using any other software." >}}
+{{< blocks/products/pf/feature-page-header h1="Conversion de format de fichier via C# .NET" h2="Convertissez des fichiers Microsoft<sup>®</sup> Office, PDF, Images, HTML et différents autres formats sans utiliser d'autre logiciel." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[.NET Total Library](https://products.aspose.com/total/net/) speeds up developing document management solutions from scratch or enhancing existing applications to deal document manipulation with ease. API not only manages Microsoft Office documents but also handles PDF, HTML, Images TIFF, JPG, PNG, BMP and SVG, Email files, Video formats, GIS data formats and much more. It is complete set of document management and manipulation solution APIs without any software dependencies.  Programmers can easily create, update, render, print and convert between most popular formats within any .NET based applications.
+[Bibliothèque totale .NET](https://products.aspose.com/total/net/) accélère le développement de solutions de gestion de documents à partir de zéro ou l'amélioration d'applications existantes pour gérer facilement la manipulation de documents. L'API gère non seulement les documents Microsoft Office, mais gère également les fichiers PDF, HTML, les images TIFF, JPG, PNG, BMP et SVG, les fichiers de courrier électronique, les formats vidéo, les formats de données SIG et bien plus encore. Il s'agit d'un ensemble complet d'API de solution de gestion et de manipulation de documents sans aucune dépendance logicielle. Les programmeurs peuvent facilement créer, mettre à jour, rendre, imprimer et convertir entre les formats les plus populaires dans toutes les applications basées sur .NET.
 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Convert Word to PDF" %}}
-Total API supports not only inter conversion of Microsoft Word formats but also converting Word to PDF, HTML, Images, EPUB, Markdown and XPS. Process of conversion is simple. Load the Document via Document class and just call the Save method with target format. It's so simple. Developers can check the [conversion result](https://products.aspose.com/words/net/conversion/word-to-pdf/) before code integration of **Word to PDF**
+{{% blocks/products/pf/feature-page-section  h2="Convertir Word en PDF" %}}
+L'API Total prend en charge non seulement l'interconversion des formats Microsoft Word, mais également la conversion de Word en PDF, HTML, Images, EPUB, Markdown et XPS. Le processus de conversion est simple. Chargez le document via la classe Document et appelez simplement la méthode Save avec le format cible. C'est si simple. Les développeurs peuvent vérifier le [résultat de la conversion](https://products.aspose.com/words/net/conversion/word-to-pdf/) avant l'intégration du code de **Word en PDF**
 
 
-{{% blocks/products/pf/feature-page-code h3="C# - Word to PDF Conversion" %}}
+{{% blocks/products/pf/feature-page-code h3="C# - Conversion Word en PDF" %}}
 
 {{< gist "aspose-com-gists" "73f7662392c88a80941c930db836cd58" "convert-word-to-pdf.cs" >}}
 
@@ -25,11 +25,11 @@ Total API supports not only inter conversion of Microsoft Word formats but also 
 {{< blocks/products/pf/feature-page-options pairs="word-to-csv word-to-excel word-to-json word-to-ods" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Convert PDF to Images" %}}
-API supports converting PDF to Images, Powerpoint, Excel and other formats. For PDF to Image conversion, let's consider the JPG image as target file. Process is, load PDF file using Document class and initialize [JpegDevice class](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) object and render PDF to JPEG via [Process](https://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) method
-Load JPEG file by using [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) class and finally call the Save method.
+{{% blocks/products/pf/feature-page-section  h2="Convertir des PDF en images" %}}
+L'API prend en charge la conversion de PDF en images, Powerpoint, Excel et d'autres formats. Pour la conversion PDF en image, considérons l'image JPG comme fichier cible. Le processus consiste à charger le fichier PDF à l'aide de la classe Document et à initialiser l'objet [classe JpegDevice] (https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) et à rendre le PDF au format JPEG via [Processus] (https ://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) méthode
+Chargez le fichier JPEG en utilisant la classe [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) et enfin appelez la méthode Save.
 
-{{% blocks/products/pf/feature-page-code h3="C# - PDF to Image Conversion" %}}
+{{% blocks/products/pf/feature-page-code h3="C# - Conversion de PDF en image" %}}
 
 {{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-image.cs" >}}
 
@@ -39,17 +39,17 @@ Load JPEG file by using [Image](https://apireference.aspose.com/imaging/net/aspo
 
 {{< blocks/products/pf/feature-page-options pairs="pdf-to-powerpoint pdf-to-excel pdf-to-txt" >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Convert Excel to Word and PowerPoint" %}}
+{{% blocks/products/pf/feature-page-section  h2="Convertir Excel en Word et PowerPoint" %}}
 
-For converting Microsoft Excel formats to different files including Word and PowerPoint, Relevant sub APIs involoved of main Aspose.Total for .NET API. Process of converting Excel files to Word document, load EXCEL file using [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) class and convert EXCEL to PDF firstly and set SaveFormat to Auto. Then load the converted PDF file using Document class and call the Save method and set Doc, Docx as SaveFormat. Code also listed for Microsoft **Excel to Powerpoint** conversion.
+Pour convertir les formats Microsoft Excel en différents fichiers, y compris Word et PowerPoint, les sous-API pertinentes impliquées dans l'API principale Aspose.Total pour .NET. Processus de conversion de fichiers Excel en document Word, chargez le fichier EXCEL à l'aide de la classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) et convertissez d'abord EXCEL en PDF et définissez SaveFormat sur Auto. Chargez ensuite le fichier PDF converti à l'aide de la classe Document et appelez la méthode Save et définissez Doc, Docx comme SaveFormat. Code également répertorié pour la conversion Microsoft **Excel vers Powerpoint**.
 
-{{% blocks/products/pf/feature-page-code h3="C# - JSON to Excel Conversion" %}}
+{{% blocks/products/pf/feature-page-code h3="C# - Conversion de JSON en Excel" %}}
 
 {{< gist "aspose-com-gists" "73f7662392c88a80941c930db836cd58" "convert-excel-to-word.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code %}}
 
-{{% blocks/products/pf/feature-page-code h3="C# - Excel to JSON Conversion" %}}
+{{% blocks/products/pf/feature-page-code h3="C# - Conversion d'Excel en JSON" %}}
 
 {{< gist "aspose-com-gists" "73f7662392c88a80941c930db836cd58" "convert-excel-to-powerpoint.cs" >}}
 
