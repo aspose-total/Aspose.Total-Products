@@ -18,31 +18,31 @@ Aspose.Total for SharePointは、Asposeが提供するコンパイル済みの�
 
 {{< blocks/products/pf/total/products description="Aspose.Total for SharePointは、Windows SharePoint Services（WSS）またはMicrosoft Office SharePoint Server（MOSS）テクノロジに企業のドキュメント保管場所を持っている組織が、SharePoint内に保持されているドキュメントをユーザーが必要とするさまざまなドキュメント形式に変換するのに役立ちます。" >}}
 
-{{< blocks/products/pf/total/product-item href="/ja/words/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" productName="Aspose.Words for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/words/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" productName="Aspose.Words for SharePoint">}}
 Aspose.Words for SharePointは、Windows SharePoint Services（WSS）またはMicrosoft Office SharePoint Server（MOSS）テクノロジに企業のドキュメント保管場所を持っている組織が、SharePoint内に保持されているドキュメントをユーザーが必要とするさまざまなドキュメント形式に変換するのに役立ちます。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ja/pdf/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-sharepoint.svg" productName="Aspose.PDF for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/pdf/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-sharepoint.svg" productName="Aspose.PDF for SharePoint">}}
 Aspose.PDF for SharePointは、リストアイテムとWikiページをPortable Document Format（PDF）に変換する機能を提供します。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ja/cells/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productName="Aspose.Cells for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/cells/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productName="Aspose.Cells for SharePoint">}}
 Aspose.Cells for SharePointは、開発者がMicrosoftSharePoint内でMicrosoftExcelドキュメントを変換し、サポートされているネイティブ形式以外の複数のドキュメント形式をサポートできるようにする柔軟なスプレッドシート操作ソリューションです。また、SharePoint内に保持されているファイルを、ユーザーが必要とする形式に変換できるようにすることで、企業の知識を配布するのにも役立ちます。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ja/email/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productName="Aspose.Email for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/email/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productName="Aspose.Email for SharePoint">}}
 Aspose.Email for SharePointは、Microsoft SharePointドキュメントライブラリから、メッセージファイル形式の変換、電子メールの添付ファイルの抽出、メールサーバーとの電子メールの同期、FTPサーバーへのファイル転送などの多数の機能を提供します。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ja/slides/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-sharepoint.svg" productName="Aspose.Slides for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/slides/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-sharepoint.svg" productName="Aspose.Slides for SharePoint">}}
 Aspose.Slides for SharePointを使用すると、開発者はMicrosoft PowerPointを使用せずにSharePointアプリケーションでPowerPointファイル（PPT、POT、PPS、PPTX、POT、およびPPSX形式）を読み取って変換できます。これは、忠実度を失うことなく、さまざまなPowerPointファイル形式をPDF、TIFF、またはXPS形式に変換する必要があるSharePoint開発者を対象としています。 WSS 3.0、MOSS 2007、およびMOSS2010での動作がサポートされています。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ja/imaging/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productName="Aspose.Imaging for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/imaging/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productName="Aspose.Imaging for SharePoint">}}
 Aspose.Imaging for SharePointは、SharePointソリューションに画像処理機能を追加します。 Microsoft SharePointServer2010およびMicrosoftSharePointFoundation2010内からのさまざまな画像ファイル形式間の変換と画像編集をサポートします。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ja/barcode/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" productName="Aspose.BarCode for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/barcode/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" productName="Aspose.BarCode for SharePoint">}}
 Aspose.BarCode for SharePointは、このバーコードシステムを使用してSharePointのリストを強化するための独自の堅牢なアプリを提供します。 Barcode SharePointアプリは、線形、郵便、2Dバーコードを含む40以上の最も人気のあるバーコードシンボル体系をサポートしています。
 {{< /blocks/products/pf/total/product-item >}}
 

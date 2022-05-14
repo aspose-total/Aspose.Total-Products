@@ -18,103 +18,103 @@ description: C# ASP.NET VB.NET API를 사용하여 모든 유형의 문서를 �
 
 {{< blocks/products/pf/total/products description=".NET용 Aspose.Total에는 다음과 같은 .NET용 파일 형식 API가 포함되어 있습니다." >}}
 
-{{< blocks/products/pf/total/product-item href="/ko/words/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-net.svg" productName="Aspose.Words for .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-net.svg" productName="Aspose.Words for .NET">}}
 .NET, iOS, macOS 및 Android 애플리케이션 내에서 직접 여러 파일 구문 분석 작업을 수행하는 고급 .NET API입니다. .NET용 Aspose.Words는 개발자가 Microsoft Word를 사용하지 않고 문서를 수정, 생성, 렌더링, 변환 및 인쇄할 수 있도록 합니다. DOC, OOXML, RTF, HTML, OpenDocument, PDF, XPS, EPUB 등을 지원합니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ko/pdf/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-net.svg" productName="Aspose.PDF for .NET">}}
+{{< blocks/products/pf/total/product-item href="/pdf/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-net.svg" productName="Aspose.PDF for .NET">}}
 .NET용 Aspose.PDF는 PDF 파일 처리 및 구문 분석 API입니다. 이를 통해 .NET 응용 프로그램은 Adobe Acrobat 종속성 없이 PDF 파일을 읽고, 조작하고, 쓸 수 있습니다. 또한 API는 PDF 문서를 여러 형식으로 변환하고 PDF 파일을 기존의 래스터 및 벡터 이미지로 변환하는 기능을 제공합니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ko/cells/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-net.svg" productName="Aspose.Cells for .NET">}}
+{{< blocks/products/pf/total/product-item href="/cells/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-net.svg" productName="Aspose.Cells for .NET">}}
 Excel API를 사용하면 개발자가 Microsoft Excel 없이도 .NET, iOS 및 Android 애플리케이션에서 스프레드시트 파일 형식으로 작업할 수 있습니다. .NET용 Aspose.Cells는 XLS, XLSM, XLSX, XLTM/XLTX, HTML, CSV, ODS, Tab Delimited & SpreadsheetML을 포함한 모든 주요 Microsoft Excel 형식을 지원합니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ko/email/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-net.svg" productName="Aspose.Email for .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-net.svg" productName="Aspose.Email for .NET">}}
 .NET용 Aspose.Email은 ASP.NET 웹 애플리케이션, 웹 서비스 또는 Windows 애플리케이션 내에서 이메일을 생성, 조작, 전송 및 수신하기 위한 .NET API 모음입니다. 이메일 API를 사용하면 Outlook ICS, PST, OST, EML, MSG 및 MHT 파일은 물론 Thunderbird의 스토리지 MBOX 파일로 작업하기가 매우 쉽습니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ko/slides/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-net.svg" productName="Aspose.Slides for .NET">}}
+{{< blocks/products/pf/total/product-item href="/slides/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-net.svg" productName="Aspose.Slides for .NET">}}
 .NET용 Aspose.Slides는 프레젠테이션과 슬라이드를 읽고, 쓰고, 조작할 수 있는 독립형 PowerPoint 처리 API입니다. 개발자는 PPT, PPS, POT, PresentationML(OOXML, PPTX) 및 OpenDocument 프레젠테이션(ODP)을 포함한 프레젠테이션 파일 형식을 생성, 수정, 복사, 변환, 렌더링 및 인쇄할 수 있습니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ko/imaging/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" productName="Aspose.Imaging for .NET">}}
+{{< blocks/products/pf/total/product-item href="/imaging/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" productName="Aspose.Imaging for .NET">}}
 Aspose.Imaging for .NET은 .NET 애플리케이션 내에서 이미지를 생성, 편집, 그리기 또는 변환하기 위한 이미징 API입니다. 개발자는 이미지 편집기를 설치할 필요 없이 생성 또는 편집된 이미지를 TIFF, GIF, BMP, JPEG, PNG 등 다양한 형식으로 저장할 수 있습니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ko/barcode/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg" productName="Aspose.BarCode for .NET">}}
+{{< blocks/products/pf/total/product-item href="/barcode/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg" productName="Aspose.BarCode for .NET">}}
 .NET API용 Aspose.BarCode를 사용하면 개발자가 Microsoft .NET 애플리케이션에 바코드 생성 및 인식 기능을 빠르고 쉽게 추가할 수 있습니다. WinForms, ASP.NET 및 .NET Compact Framework를 지원합니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ko/diagram/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" productName="Aspose.Diagram for .NET">}}
+{{< blocks/products/pf/total/product-item href="/diagram/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" productName="Aspose.Diagram for .NET">}}
 .NET용 Aspose.Diagram은 기능이 풍부한 Visio API입니다. 개발자는 다이어그램을 쉽게 조작하고 Visio 타일을 PDF 및 이미지 파일 형식으로 변환할 수 있습니다. Aspose.Diagram은 또한 Visio 서비스에서 제공하는 고급 기능을 활용하여 서버에서 Visio 문서를 조작합니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ko/tasks/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" productName="Aspose.Tasks for .NET">}}
+{{< blocks/products/pf/total/product-item href="/tasks/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" productName="Aspose.Tasks for .NET">}}
 .NET용 Aspose.Tasks는 강력한 .NET 프로젝트 관리 API로 .NET 응용 프로그램이 Microsoft Project를 사용하지 않고 XML 형식으로 프로젝트 문서를 작성하는 것과 함께 MPP 및 XML 형식의 Microsoft Project 문서를 읽을 수 있도록 합니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ko/ocr/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productName="Aspose.OCR for .NET">}}
+{{< blocks/products/pf/total/product-item href="/ocr/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productName="Aspose.OCR for .NET">}}
 .NET용 Aspose.OCR은 개발자가 .NET 응용 프로그램에 OCR 기능을 추가할 수 있도록 하는 문자 인식 API입니다. 가장 일반적으로 사용되는 이미지 형식의 문자를 인식하는 간단한 클래스 집합을 제공합니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ko/note/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/note/aspose_note-for-net.svg" productName="Aspose.Note for .NET">}}
+{{< blocks/products/pf/total/product-item href="/note/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/note/aspose_note-for-net.svg" productName="Aspose.Note for .NET">}}
 .NET API용 Aspose.Note를 사용하면 응용 프로그램이 프로그래밍 방식으로 Microsoft OneNote 파일과 상호 작용할 수 있습니다. 추가 라이브러리나 타사 소프트웨어 없이 Microsoft OneNote 파일의 콘텐츠 로드, 변환, 생성 및 조작과 같은 기능을 지원합니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ko/cad/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-net.svg" productName="Aspose.CAD for .NET">}}
+{{< blocks/products/pf/total/product-item href="/cad/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-net.svg" productName="Aspose.CAD for .NET">}}
 .NET용 Aspose.CAD를 사용하면 개발자가 AutoCAD DWG 및 DXF 파일을 PDF, JPG, PNG, BMP, TIFF 및 GIF 이미지 형식으로 변환할 수 있습니다. 기본 API이며 AutoCAD 또는 기타 소프트웨어를 설치할 필요가 없습니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ko/3d/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" productName="Aspose.3D for .NET">}}
+{{< blocks/products/pf/total/product-item href="/3d/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" productName="Aspose.3D for .NET">}}
 .NET용 Aspose.3D는 .NET 개발자가 추가 3D 모델링 및 렌더링 소프트웨어 없이 3D 문서 형식과 연결할 수 있는 기능이 풍부한 3D API입니다. 개발자가 3D 파일의 내용을 쉽게 생성, 읽기, 변환, 수정 및 제어할 수 있는 가장 일반적으로 사용되는 3D 파일 형식을 지원합니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ko/html/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/html/aspose_html-for-net.svg" productName="Aspose.HTML for .NET">}}
+{{< blocks/products/pf/total/product-item href="/html/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/html/aspose_html-for-net.svg" productName="Aspose.HTML for .NET">}}
 .NET용 Aspose.HTML을 사용하면 개발자가 HTML 페이지를 PDF 및 XPS 등과 같은 고정 레이아웃 형식과 .NET 애플리케이션 내에서 다양한 래스터 이미지 형식으로 생성, 편집 및 렌더링할 수 있습니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ko/gis/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/gis/aspose_gis-for-net.svg" productName="Aspose.GIS for .NET">}}
+{{< blocks/products/pf/total/product-item href="/gis/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/gis/aspose_gis-for-net.svg" productName="Aspose.GIS for .NET">}}
 .NET용 Aspose.GIS는 .NET 응용 프로그램이 벡터 기반 지리 공간 데이터 형식의 지리 정보에 액세스하고 조작할 수 있도록 합니다. ESRI Shapefile 및 GeoJSON과 같은 GIS 데이터 형식을 읽고, 쓰고, 변환할 수 있습니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ko/zip/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/zip/aspose_zip-for-net.svg" productName="Aspose.ZIP for .NET">}}
+{{< blocks/products/pf/total/product-item href="/zip/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/zip/aspose_zip-for-net.svg" productName="Aspose.ZIP for .NET">}}
 .NET API용 Aspose.ZIP을 사용하면 개발자가 문서 및 아카이브를 zip 형식으로 압축할 수 있을 뿐만 아니라 zip 파일을 해당 아카이브 및 파일로 압축 해제할 수 있습니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ko/page/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-net.svg" productName="Aspose.Page for .NET">}}
+{{< blocks/products/pf/total/product-item href="/page/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-net.svg" productName="Aspose.Page for .NET">}}
 .NET용 Aspose.Page는 기존 및 새 XPS 문서를 생성, 편집 및 저장할 수 있는 기능을 제공합니다. 또한 PS, EPS 및 XPS 파일을 PDF 및 이미지 형식으로 변환할 수 있습니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ko/psd/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productName="Aspose.PSD for .NET">}}
+{{< blocks/products/pf/total/product-item href="/psd/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productName="Aspose.PSD for .NET">}}
 .NET API용 Aspose.PSD를 사용하면 개발자가 Photoshop PSD 및 PSB 파일을 로드하거나 생성할 수 있을 뿐만 아니라 레이어를 조작하고 수축된 PSD 파일을 감지하고 Photoshop 파일을 래스터 이미지 형식으로 변환할 수 있습니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ko/omr/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/omr/aspose_omr-for-net.svg" productName="Aspose.OMR for .NET">}}
+{{< blocks/products/pf/total/product-item href="/omr/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/omr/aspose_omr-for-net.svg" productName="Aspose.OMR for .NET">}}
 .NET용 Aspose.OMR은 설문조사, 설문지, 객관식 시험지 및 기타 테스트와 같은 문서 형식에서 사람이 표시한 데이터를 캡처할 수 있는 API입니다. 따라서 스캔한 이미지는 물론 사진까지도 높은 정확도로 인식할 수 있습니다. 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ko/pub/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-net.svg" productName="Aspose.PUB for .NET">}}
+{{< blocks/products/pf/total/product-item href="/pub/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-net.svg" productName="Aspose.PUB for .NET">}}
 .NET용 Aspose.PUB는 Microsoft Publisher 파일을 읽고 다른 형식으로 변환할 수 있는 API입니다. 또한 API를 사용하면 Microsoft Publisher의 종속성 없이 기본 파일 형식 구조의 세부 사항으로 이동할 필요 없이 PUB 문서 형식으로 작업할 수 있습니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ko/svg/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/svg/aspose_svg-for-net.svg" productName="Aspose.SVG for .NET">}}
+{{< blocks/products/pf/total/product-item href="/svg/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/svg/aspose_svg-for-net.svg" productName="Aspose.SVG for .NET">}}
 Aspose.SVG for .NET은 SVG 파일 형식 처리 및 구문 분석 API입니다. SVG 노드 및 속성을 완전히 제어할 수 있는 개발자는 문서 트리를 쉽게 수정하고 노드를 제거 및 삽입하고 노드 속성을 변경하고 필터를 적용할 수 있습니다. 또한 API는 SVG 파일을 PDF 및 유명한 이미지 형식으로 변환할 수 있습니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ko/finance/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-net.svg" productName="Aspose.Finance for .NET">}}
+{{< blocks/products/pf/total/product-item href="/finance/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-net.svg" productName="Aspose.Finance for .NET">}}
 Aspose.Finance for .NET은 금융 관련 포맷 처리 API입니다. 비즈니스 프로세스, 재무 분석 및 보고 솔루션 관리에 사용되는 XBRL 및 iXBRL 형식을 생성, 읽고, 검증합니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ko/drawing/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productName="Aspose.Drawing for .NET">}}
+{{< blocks/products/pf/total/product-item href="/drawing/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productName="Aspose.Drawing for .NET">}}
 .NET용 Aspose.Drawing은 GDI+와 동일한 그래픽 API입니다. 선, 곡선 및 그림과 같은 2D 벡터 그래픽 드로잉과 래스터 이미지에 대한 다중 스타일 텍스트에 쉽게 통합할 수 있습니다. API는 일반적으로 사용되는 이미지 형식을 지원합니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ko/font/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-net.svg" productName="Aspose.Font for .NET">}}
+{{< blocks/products/pf/total/product-item href="/font/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-net.svg" productName="Aspose.Font for .NET">}}
 .NET용 Aspose.Font는 글꼴 관리 및 처리 API입니다. 디스크 또는 스트림에서 글꼴 로드, 글리프 및 메트릭 정보 읽기, 라틴 기호 감지, 글꼴 글리프 등을 사용하여 텍스트 렌더링과 같은 글꼴 파일 작업을 쉽게 수행할 수 있습니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ko/tex/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-net.svg" productName="Aspose.TeX for .NET">}}
+{{< blocks/products/pf/total/product-item href="/tex/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-net.svg" productName="Aspose.TeX for .NET">}}
 .NET용 Aspose.TeX는 TeX 파일 조판 API입니다. TeX 파일을 쉽게 조판하여 XPS, PDF, PNG, JPEG, TIFF 및 BMP와 같은 다양한 형식의 문서를 가져올 수 있습니다. 또한 사용자 정의 TeX 형식 생성 기능이 있습니다.
 {{< /blocks/products/pf/total/product-item >}}
 

@@ -18,31 +18,31 @@ Aspose.Total untuk SharePoint adalah kombinasi dari setiap aplikasi SharePoint t
 
 {{< blocks/products/pf/total/products description="Aspose.Total untuk SharePoint membantu organisasi Anda memiliki penyimpanan dokumen perusahaan di teknologi Windows SharePoint Services (WSS) atau Microsoft Office SharePoint Server (MOSS) untuk mengonversi dokumen yang disimpan dalam SharePoint ke dalam berbagai format dokumen yang dibutuhkan pengguna Anda." >}}
 
-{{< blocks/products/pf/total/product-item href="/id/words/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" productName="Aspose.Words for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/words/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" productName="Aspose.Words for SharePoint">}}
 Aspose.Words untuk SharePoint membantu organisasi Anda memiliki penyimpanan dokumen perusahaan di Windows SharePoint Services (WSS) atau teknologi Microsoft Office SharePoint Server (MOSS) untuk mengonversi dokumen yang disimpan dalam SharePoint ke dalam berbagai format dokumen yang dibutuhkan pengguna Anda.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/id/pdf/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-sharepoint.svg" productName="Aspose.PDF for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/pdf/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-sharepoint.svg" productName="Aspose.PDF for SharePoint">}}
 Aspose.PDF untuk SharePoint memberi Anda kemampuan untuk mengonversi item daftar dan halaman wiki menjadi Portable Document Format (PDF).
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/id/cells/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productName="Aspose.Cells for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/cells/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productName="Aspose.Cells for SharePoint">}}
 Aspose.Cells untuk SharePoint adalah solusi manipulasi spreadsheet fleksibel yang memungkinkan pengembang mengonversi dokumen Microsoft Excel dalam Microsoft SharePoint dan mendukung berbagai format dokumen di luar format asli yang didukung. Ini juga membantu Anda mendistribusikan pengetahuan perusahaan dengan memungkinkan Anda mengonversi file yang disimpan dalam SharePoint ke dalam format yang dibutuhkan pengguna Anda.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/id/email/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productName="Aspose.Email for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/email/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productName="Aspose.Email for SharePoint">}}
 Aspose.Email untuk SharePoint menyediakan banyak fitur termasuk konversi format file pesan, ekstraksi lampiran email, sinkronisasi email dengan server email dan transfer file ke server FTP, langsung dari perpustakaan dokumen Microsoft SharePoint.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/id/slides/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-sharepoint.svg" productName="Aspose.Slides for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/slides/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-sharepoint.svg" productName="Aspose.Slides for SharePoint">}}
 Aspose.Slides untuk SharePoint memungkinkan pengembang membaca dan mengonversi file PowerPoint (format PPT, POT, PPS, PPTX, POT, dan PPSX) dalam aplikasi SharePoint tanpa menggunakan Microsoft PowerPoint. Ini ditujukan untuk pengembang SharePoint yang perlu mengonversi berbagai format file PowerPoint ke format PDF, TIFF, atau XPS tanpa kehilangan kesetiaan. Ini didukung untuk bekerja dengan WSS 3.0, MOSS 2007 dan MOSS 2010.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/id/imaging/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productName="Aspose.Imaging for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/imaging/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productName="Aspose.Imaging for SharePoint">}}
 Aspose.Imaging untuk SharePoint menambahkan kemampuan pemrosesan gambar ke solusi SharePoint. Ini mendukung konversi antara format file gambar yang berbeda dan pengeditan gambar dari dalam Microsoft SharePoint Server 2010 dan Microsoft SharePoint Foundation 2010.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/id/barcode/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" productName="Aspose.BarCode for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/barcode/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" productName="Aspose.BarCode for SharePoint">}}
 Aspose.BarCode untuk SharePoint menyediakan aplikasi unik dan tangguh untuk menyempurnakan daftar SharePoint Anda dengan menggunakan sistem kode batang ini. Aplikasi Barcode SharePoint mendukung lebih dari 40 simbologi kode batang paling populer termasuk kode batang Linear, Pos, dan 2D.
 {{< /blocks/products/pf/total/product-item >}}
 

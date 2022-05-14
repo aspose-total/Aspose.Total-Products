@@ -18,31 +18,31 @@ Aspose.Total for JasperReports är en funktionsrik svit av JasperReports-export�
 
 {{< blocks/products/pf/total/products description="Aspose.Total for JasperReports inkluderar följande exportörer:" >}}
 
-{{< blocks/products/pf/total/product-item href="/sv/words/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg" productName="Aspose.Words for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/words/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg" productName="Aspose.Words for JasperReports">}}
 Aspose.Words for JasperReports är den enda lösningen på marknaden för att exportera rapporter från JasperReports och JasperServer till Microsoft Word-dokument (DOC), Office Open XML (OOXML, DOCX), Rich Text Format (RTF), OpenDocument Text (ODT), Webb sidformat (HTML) och oformaterad text (TXT).
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/sv/pdf/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-jasperreports.svg" productName="Aspose.PDF for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/pdf/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-jasperreports.svg" productName="Aspose.PDF for JasperReports">}}
 Aspose.PDF för JasperReports är speciellt designad och utvecklad för att exportera rapporter från JasperReports och JasperServer till Portabelt dokumentformat (PDF) och dess ISO-standardiserade version; PDF/A. De flesta av rapportfunktionerna som diagram, tabeller och bilder konverteras till PDF med högsta precision.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/sv/cells/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" productName="Aspose.Cells for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/cells/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" productName="Aspose.Cells for JasperReports">}}
 Aspose.Cells för JasperReports låter en exportera rapporter från JasperReports och JasperServer till Microsoft Excel-kalkylbladsformat inklusive XLS, XLSX och SpreadsheetML. Den stöder även andra populära format som PDF, ODS, CSV och tabbavgränsad.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/sv/slides/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-jasperreports.svg" productName="Aspose.Slides for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/slides/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-jasperreports.svg" productName="Aspose.Slides for JasperReports">}}
 Aspose.Slides för JasperReports är designad för utvecklare som behöver exportera rapporter från JasperReports till Microsoft PowerPoint 97 – 2003 (PPT och PPS) och Microsoft PowerPoint 2007-2013 (PPTX och PPSX) presentationsformat från Java-applikationer.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/sv/imaging/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" productName="Aspose.Imaging for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/imaging/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" productName="Aspose.Imaging for JasperReports">}}
 Aspose.Imaging för JasperReports tillhandahåller en flexibel lösning för att exportera JasperReports till flera bildformat. Man kan enkelt generera flersidiga rapporter eller batchexport. I batchläge. varje rapportsida kommer att sparas som ett separat dokument.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/sv/barcode/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" productName="Aspose.BarCode for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/barcode/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" productName="Aspose.BarCode for JasperReports">}}
 Aspose.BarCode för JasperReports tillhandahåller en unik och robust lösning för att förbättra användbarheten av ditt företag. Det låter utvecklarna skapa och visa streckkodsetiketter av hög kvalitet på JasperReports.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/sv/cad/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg" productName="Aspose.CAD for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/cad/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg" productName="Aspose.CAD for JasperReports">}}
 Aspose.CAD för JasperReports tillhandahåller en unik och robust lösning för att exportera JasperReports till olika CAD- och andra vektorformat. Det kan enkelt generera flersidiga rapporter eller batchexport i batchläge. varje rapportsida kommer att sparas som ett separat dokument.
 {{< /blocks/products/pf/total/product-item >}}
 

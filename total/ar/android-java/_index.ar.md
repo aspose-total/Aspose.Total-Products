@@ -18,27 +18,27 @@ Aspose.Total لنظام Android عبر Java عبارة عن تجميع لكل و
 
 {{< blocks/products/pf/total/products description="Aspose.Total لنظام Android عبر Java يتضمن واجهات برمجة تطبيقات تنسيق المستندات التالية:" >}}
 
-{{< blocks/products/pf/total/product-item href="/ar/words/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-android-java.svg" productName="Aspose.Words for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/words/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-android-java.svg" productName="Aspose.Words for Android via Java">}}
 Aspose.Words for Android via Java عبارة عن واجهة برمجة تطبيقات متقدمة لمعالجة مستندات Word تتيح لك إنشاء مستندات Microsoft Word وتعديلها وتحويلها وعرضها بسهولة داخل تطبيقات Android.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ar/pdf/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-android-java.svg" productName="Aspose.PDF for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/pdf/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-android-java.svg" productName="Aspose.PDF for Android via Java">}}
 Aspose.PDF for Android via Java عبارة عن واجهة برمجة تطبيقات لتوليد ملفات PDF ومعالجتها تتيح لتطبيقات Android الخاصة بك كتابة ملفات PDF وقراءتها وتحريرها دون استخدام أي تطبيق تابع لجهة خارجية.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ar/cells/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" productName="Aspose.Cells for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" productName="Aspose.Cells for Android via Java">}}
 Aspose.Cells for Android via Java عبارة عن واجهة برمجة تطبيقات لجدول بيانات Microsoft Excel تتيح لك تطوير تطبيقات Android لقراءة جداول بيانات Excel وكتابتها ومعالجتها دون الاعتماد على Microsoft Excel.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ar/email/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productName="Aspose.Email for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/email/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productName="Aspose.Email for Android via Java">}}
 Aspose.Email لنظام Android عبر Java هو واجهة برمجة تطبيقات للتعامل مع الرسائل في Microsoft Outlook ، حيث يمكنك من خلاله تطوير تطبيقات Android لإدارة رسائل البريد الإلكتروني ومعالجتها دون أن تضيع في تعقيدات تنفيذ تنسيق ملف Microsoft Outlook.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ar/slides/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-android-java.svg" productName="Aspose.Slides for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/slides/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-android-java.svg" productName="Aspose.Slides for Android via Java">}}
 Aspose.Slides for Android عبر Java عبارة عن واجهة برمجة تطبيقات لإدارة وتحليل PowerPoint محددة تمكن التطبيقات المستندة إلى Android من كتابة عروض PowerPoint التقديمية وقراءتها ومعالجتها دون استخدام Microsoft PowerPoint. يوفر دعمًا مضمنًا لإنشاء مخططات MSO وأشكال SmartArt وعناصر تحكم ActiveX.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ar/barcode/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" productName="Aspose.BarCode for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/barcode/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" productName="Aspose.BarCode for Android via Java">}}
 Aspose.BarCode لنظام Android عبر Java عبارة عن مجموعة من واجهات برمجة تطبيقات الباركود لإنشاء الرموز الشريطية 1D و 2D والتعرف عليها من الصور بأي زاوية.
 {{< /blocks/products/pf/total/product-item >}}
 

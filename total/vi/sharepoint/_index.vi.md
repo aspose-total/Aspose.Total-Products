@@ -18,31 +18,31 @@ Aspose.Total cho SharePoint là sự kết hợp của từng ứng dụng Share
 
 {{< blocks/products/pf/total/products description="Aspose." >}}
 
-{{< blocks/products/pf/total/product-item href="/vi/words/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" productName="Aspose.Words for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/words/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" productName="Aspose.Words for SharePoint">}}
 Aspose. AdWords for SharePoint giúp tổ chức của bạn có kho lưu trữ tài liệu công ty trên các công nghệ của Windows SharePoint Services (WSS) hoặc Microsoft Office SharePoint Server’s (MOSS) để chuyển đổi tài liệu được lưu giữ trong SharePoint thành nhiều định dạng tài liệu khác nhau mà người dùng của bạn cần chúng.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/vi/pdf/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-sharepoint.svg" productName="Aspose.PDF for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/pdf/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-sharepoint.svg" productName="Aspose.PDF for SharePoint">}}
 Aspose.PDF cho SharePoint cung cấp cho bạn khả năng chuyển đổi các mục danh sách và trang wiki thành Định dạng Tài liệu Di động (PDF).
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/vi/cells/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productName="Aspose.Cells for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/cells/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productName="Aspose.Cells for SharePoint">}}
 Aspose.Cells for SharePoint là một giải pháp thao tác bảng tính linh hoạt cho phép các nhà phát triển chuyển đổi tài liệu Microsoft Excel trong Microsoft SharePoint và hỗ trợ nhiều định dạng tài liệu ngoài các định dạng được hỗ trợ ban đầu. Nó cũng giúp bạn phân phối kiến thức của công ty bằng cách cho phép bạn chuyển đổi các tệp được lưu trữ trong SharePoint sang các định dạng mà người dùng của bạn cần.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/vi/email/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productName="Aspose.Email for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/email/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productName="Aspose.Email for SharePoint">}}
 Aspose.Email for SharePoint cung cấp vô số tính năng bao gồm chuyển đổi định dạng tệp tin nhắn, trích xuất tệp đính kèm email, đồng bộ hóa email với máy chủ thư và chuyển tệp tới máy chủ FTP, ngay từ thư viện tài liệu Microsoft SharePoint.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/vi/slides/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-sharepoint.svg" productName="Aspose.Slides for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/slides/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-sharepoint.svg" productName="Aspose.Slides for SharePoint">}}
 Aspose.Slides for SharePoint cho phép các nhà phát triển đọc và chuyển đổi các tệp PowerPoint (định dạng PPT, POT, PPS, PPTX, POT và PPSX) trong ứng dụng SharePoint mà không cần sử dụng Microsoft PowerPoint. Nó nhắm đến các nhà phát triển SharePoint cần chuyển đổi các định dạng tệp PowerPoint khác nhau sang các định dạng PDF, TIFF hoặc XPS mà không làm mất độ trung thực. Nó được hỗ trợ để hoạt động với WSS 3.0, MOSS 2007 và MOSS 2010.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/vi/imaging/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productName="Aspose.Imaging for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/imaging/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productName="Aspose.Imaging for SharePoint">}}
 Aspose.Imaging for SharePoint bổ sung khả năng xử lý hình ảnh cho các giải pháp SharePoint. Nó hỗ trợ chuyển đổi giữa các định dạng tệp hình ảnh khác nhau và chỉnh sửa hình ảnh từ bên trong Microsoft SharePoint Server 2010 và Microsoft SharePoint Foundation 2010.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/vi/barcode/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" productName="Aspose.BarCode for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/barcode/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" productName="Aspose.BarCode for SharePoint">}}
 Aspose.BarCode cho SharePoint cung cấp một ứng dụng độc đáo và mạnh mẽ để nâng cao danh sách SharePoint của bạn bằng cách sử dụng hệ thống mã vạch này. Ứng dụng Barcode SharePoint hỗ trợ hơn 40 ký hiệu mã vạch phổ biến nhất bao gồm mã vạch Tuyến tính, Bưu điện và Mã vạch 2D.
 {{< /blocks/products/pf/total/product-item >}}
 

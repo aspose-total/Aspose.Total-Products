@@ -18,31 +18,31 @@ Az Aspose.Total for SharePoint az Aspose által kínált egyes SharePoint-alkalm
 
 {{< blocks/products/pf/total/products description="Az Aspose.Total for SharePoint segítségével szervezete vállalati dokumentumtárral rendelkezik a Windows SharePoint Services (WSS) vagy a Microsoft Office SharePoint Server (MOSS) technológiáján, hogy a SharePointban tárolt dokumentumokat olyan különféle dokumentumformátumokká konvertálja, amelyekben a felhasználóknak szüksége van rájuk." >}}
 
-{{< blocks/products/pf/total/product-item href="/hu/words/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" productName="Aspose.Words for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/words/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" productName="Aspose.Words for SharePoint">}}
 Az Aspose.Words for SharePoint segítségével szervezete vállalati dokumentumtárral rendelkezik a Windows SharePoint Services (WSS) vagy a Microsoft Office SharePoint Server (MOSS) technológiáján, hogy a SharePointban tárolt dokumentumokat különféle dokumentumformátumokká konvertálja, amelyekben a felhasználóknak szüksége van rájuk.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hu/pdf/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-sharepoint.svg" productName="Aspose.PDF for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/pdf/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-sharepoint.svg" productName="Aspose.PDF for SharePoint">}}
 Az Aspose.PDF for SharePoint lehetőséget ad listaelemek és wikioldalak Portable Document Format (PDF) formátumra konvertálására.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hu/cells/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productName="Aspose.Cells for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/cells/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productName="Aspose.Cells for SharePoint">}}
 Az Aspose.Cells for SharePoint egy rugalmas táblázatkezelési megoldás, amely lehetővé teszi a fejlesztők számára, hogy Microsoft Excel-dokumentumokat konvertáljanak a Microsoft SharePoint-on belül, és a natív támogatott formátumokon kívül többféle dokumentumformátumot is támogassanak. Segíti a vállalati ismeretek terjesztését is azáltal, hogy lehetővé teszi a SharePointban tárolt fájlok olyan formátumokká alakítását, amelyekben a felhasználóknak szüksége van rájuk.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hu/email/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productName="Aspose.Email for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/email/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productName="Aspose.Email for SharePoint">}}
 Az Aspose.Email for SharePoint számos szolgáltatást kínál, beleértve az üzenetfájlok formátumának konvertálását, az e-mail mellékletek kibontását, az e-mailek szinkronizálását a levelezőszerverekkel és a fájlátvitelt az FTP-szerverre, közvetlenül a Microsoft SharePoint dokumentumtárból.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hu/slides/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-sharepoint.svg" productName="Aspose.Slides for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/slides/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-sharepoint.svg" productName="Aspose.Slides for SharePoint">}}
 Az Aspose.Slides for SharePoint lehetővé teszi a fejlesztők számára PowerPoint fájlok (PPT, POT, PPS, PPTX, POT és PPSX formátumú) olvasását és konvertálását SharePoint alkalmazásokban Microsoft PowerPoint használata nélkül. Azoknak a SharePoint-fejlesztőknek szól, akiknek a hűség elvesztése nélkül kell a különféle PowerPoint fájlformátumokat PDF, TIFF vagy XPS formátumokká konvertálniuk. Támogatja a WSS 3.0, MOSS 2007 és MOSS 2010 használatát.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hu/imaging/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productName="Aspose.Imaging for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/imaging/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productName="Aspose.Imaging for SharePoint">}}
 Az Aspose.Imaging for SharePoint képfeldolgozási képességet ad a SharePoint megoldásokhoz. Támogatja a különböző képfájlformátumok közötti konvertálást és a képszerkesztést a Microsoft SharePoint Server 2010 és a Microsoft SharePoint Foundation 2010 programból.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hu/barcode/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" productName="Aspose.BarCode for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/barcode/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" productName="Aspose.BarCode for SharePoint">}}
 Az Aspose.BarCode for SharePoint egyedülálló és robusztus alkalmazást kínál a SharePoint listáinak a vonalkódrendszer használatával történő bővítésére. A Vonalkód SharePoint alkalmazás több mint 40 legnépszerűbb vonalkód-szimbólumot támogat, beleértve a lineáris, postai és 2D vonalkódokat.
 {{< /blocks/products/pf/total/product-item >}}
 

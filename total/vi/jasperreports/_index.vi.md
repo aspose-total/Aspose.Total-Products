@@ -18,31 +18,31 @@ Aspose.Total for JasperReports là một bộ công cụ giàu tính năng của
 
 {{< blocks/products/pf/total/products description="Aspose.Total cho JasperReports bao gồm các nhà xuất khẩu sau:" >}}
 
-{{< blocks/products/pf/total/product-item href="/vi/words/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg" productName="Aspose.Words for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/words/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg" productName="Aspose.Words for JasperReports">}}
 Aspose. AdWords for JasperReports là giải pháp duy nhất trên thị trường để xuất báo cáo từ JasperReports và JasperServer sang tài liệu Microsoft Word (DOC), Office Open XML (OOXML, DOCX), Định dạng văn bản đa dạng thức (RTF), Văn bản OpenDocument (ODT), Web định dạng trang (HTML) và văn bản thuần túy (TXT).
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/vi/pdf/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-jasperreports.svg" productName="Aspose.PDF for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/pdf/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-jasperreports.svg" productName="Aspose.PDF for JasperReports">}}
 Aspose.PDF for JasperReports được thiết kế và phát triển đặc biệt để xuất báo cáo từ JasperReports và JasperServer sang Định dạng Tài liệu Di động (PDF) và phiên bản tiêu chuẩn hóa ISO của nó; PDF / A. Hầu hết các tính năng báo cáo như biểu đồ, bảng và hình ảnh được chuyển đổi sang PDF với độ chính xác cao nhất.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/vi/cells/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" productName="Aspose.Cells for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/cells/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" productName="Aspose.Cells for JasperReports">}}
 Aspose.Cells for JasperReports cho phép xuất báo cáo từ JasperReports và JasperServer sang các định dạng Bảng tính Microsoft Excel bao gồm XLS, XLSX & SpreadsheetML. Nó cũng hỗ trợ các định dạng phổ biến khác như PDF, ODS, CSV và phân cách bằng tab.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/vi/slides/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-jasperreports.svg" productName="Aspose.Slides for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/slides/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-jasperreports.svg" productName="Aspose.Slides for JasperReports">}}
 Aspose.Slides for JasperReports được thiết kế cho các nhà phát triển cần xuất báo cáo từ JasperReports sang Microsoft PowerPoint 97 - 2003 (PPT và PPS) và các định dạng trình bày Microsoft PowerPoint 2007-2013 (PPTX và PPSX) từ bên trong các ứng dụng Java.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/vi/imaging/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" productName="Aspose.Imaging for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/imaging/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" productName="Aspose.Imaging for JasperReports">}}
 Aspose.Imaging for JasperReports cung cấp giải pháp linh hoạt để xuất JasperReports sang nhiều định dạng hình ảnh. Người ta có thể dễ dàng tạo báo cáo nhiều trang hoặc xuất hàng loạt. Ở chế độ hàng loạt. mỗi trang báo cáo sẽ được lưu thành một tài liệu riêng biệt.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/vi/barcode/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" productName="Aspose.BarCode for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/barcode/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" productName="Aspose.BarCode for JasperReports">}}
 Aspose.BarCode cho JasperReports cung cấp một giải pháp mạnh mẽ và độc đáo để nâng cao tính hữu ích cho doanh nghiệp của bạn. Nó cho phép các nhà phát triển tạo và hiển thị các nhãn mã vạch chất lượng cao trên JasperReports.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/vi/cad/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg" productName="Aspose.CAD for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/cad/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg" productName="Aspose.CAD for JasperReports">}}
 Aspose.CAD cho JasperReports cung cấp một giải pháp mạnh mẽ và độc đáo để xuất JasperReports sang nhiều định dạng CAD và vector khác. Nó có thể dễ dàng tạo báo cáo nhiều trang hoặc xuất hàng loạt ở chế độ hàng loạt. mỗi trang báo cáo sẽ được lưu thành một tài liệu riêng biệt.
 {{< /blocks/products/pf/total/product-item >}}
 

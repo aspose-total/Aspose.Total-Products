@@ -18,31 +18,31 @@ Aspose.Total for SharePoint to kombinacja każdej skompilowanej aplikacji ShareP
 
 {{< blocks/products/pf/total/products description="Aspose.Total for SharePoint pomaga Twojej organizacji w posiadaniu korporacyjnego depozytu dokumentów w technologii Windows SharePoint Services (WSS) lub Microsoft Office SharePoint Server (MOSS) w konwertowaniu dokumentów przechowywanych w programie SharePoint do różnych formatów dokumentów, w których potrzebują ich użytkownicy." >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/words/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" productName="Aspose.Words for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/words/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" productName="Aspose.Words for SharePoint">}}
 Aspose.Words for SharePoint pomaga Twojej organizacji w posiadaniu korporacyjnego depozytu dokumentów w technologii Windows SharePoint Services (WSS) lub Microsoft Office SharePoint Server (MOSS) w konwertowaniu dokumentów przechowywanych w programie SharePoint do różnych formatów dokumentów, w których potrzebują ich użytkownicy.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/pdf/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-sharepoint.svg" productName="Aspose.PDF for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/pdf/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-sharepoint.svg" productName="Aspose.PDF for SharePoint">}}
 Aspose.PDF dla programu SharePoint umożliwia konwersję elementów list i stron wiki do formatu PDF (Portable Document Format).
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/cells/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productName="Aspose.Cells for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/cells/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productName="Aspose.Cells for SharePoint">}}
 Aspose.Cells for SharePoint to elastyczne rozwiązanie do manipulacji arkuszami kalkulacyjnymi, które pozwala programistom konwertować dokumenty Microsoft Excel w Microsoft SharePoint i obsługiwać wiele formatów dokumentów poza natywnymi obsługiwanymi formatami. Pomaga także rozpowszechniać wiedzę korporacyjną, umożliwiając konwersję plików przechowywanych w programie SharePoint do formatów, w jakich potrzebują ich użytkownicy.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/email/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productName="Aspose.Email for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/email/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productName="Aspose.Email for SharePoint">}}
 Aspose.Email for SharePoint zapewnia wiele funkcji, w tym konwersję formatu plików wiadomości, wyodrębnianie załączników wiadomości e-mail, synchronizację wiadomości e-mail z serwerami pocztowymi oraz przesyłanie plików na serwer FTP bezpośrednio z biblioteki dokumentów Microsoft SharePoint.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/slides/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-sharepoint.svg" productName="Aspose.Slides for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/slides/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-sharepoint.svg" productName="Aspose.Slides for SharePoint">}}
 Aspose.Slides for SharePoint umożliwia programistom odczytywanie i konwertowanie plików PowerPoint (format PPT, POT, PPS, PPTX, POT i PPSX) w aplikacji SharePoint bez korzystania z programu Microsoft PowerPoint. Jest skierowany do programistów SharePoint, którzy muszą konwertować różne formaty plików PowerPoint do formatów PDF, TIFF lub XPS bez utraty wierności. Jest obsługiwany do pracy z WSS 3.0, MOSS 2007 i MOSS 2010.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/imaging/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productName="Aspose.Imaging for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/imaging/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productName="Aspose.Imaging for SharePoint">}}
 Aspose.Imaging for SharePoint dodaje możliwości przetwarzania obrazu do rozwiązań SharePoint. Obsługuje konwersję między różnymi formatami plików graficznych i edycję obrazu z poziomu Microsoft SharePoint Server 2010 i Microsoft SharePoint Foundation 2010.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/barcode/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" productName="Aspose.BarCode for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/barcode/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" productName="Aspose.BarCode for SharePoint">}}
 Aspose.BarCode dla programu SharePoint to unikalna i niezawodna aplikacja do ulepszania list programu SharePoint za pomocą tego systemu kodów kreskowych. Aplikacja Barcode SharePoint obsługuje ponad 40 najpopularniejszych symboli kodów kreskowych, w tym kody liniowe, pocztowe i 2D.
 {{< /blocks/products/pf/total/product-item >}}
 

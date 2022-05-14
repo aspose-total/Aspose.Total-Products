@@ -18,27 +18,27 @@ Aspose.Total pro Android přes Javu je kompilací všech Android API nabízenýc
 
 {{< blocks/products/pf/total/products description="Aspose.Total pro Android přes Java obsahuje následující rozhraní API formátu dokumentu:" >}}
 
-{{< blocks/products/pf/total/product-item href="/cs/words/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-android-java.svg" productName="Aspose.Words for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/words/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-android-java.svg" productName="Aspose.Words for Android via Java">}}
 Aspose.Words pro Android přes Java je pokročilé rozhraní API pro zpracování dokumentů Word, které vám umožňuje snadno generovat, upravovat, převádět a vykreslovat dokumenty Microsoft Word v aplikacích pro Android.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cs/pdf/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-android-java.svg" productName="Aspose.PDF for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/pdf/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-android-java.svg" productName="Aspose.PDF for Android via Java">}}
 Aspose.PDF pro Android přes Java je rozhraní API pro generování a manipulaci s PDF, které umožňuje vašim aplikacím Android zapisovat, číst a upravovat soubory PDF bez použití jakékoli jiné aplikace třetí strany.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cs/cells/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" productName="Aspose.Cells for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" productName="Aspose.Cells for Android via Java">}}
 Aspose.Cells for Android via Java je tabulkové API aplikace Microsoft Excel, které vám umožňuje vyvíjet aplikace pro Android pro čtení, psaní a manipulaci s tabulkou Excel bez závislosti na aplikaci Microsoft Excel.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cs/email/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productName="Aspose.Email for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/email/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productName="Aspose.Email for Android via Java">}}
 Aspose.Email pro Android přes Java je rozhraní API pro manipulaci se zprávami aplikace Microsoft Outlook, pomocí kterého můžete vyvíjet aplikace pro Android pro správu a manipulaci s e-mailovými zprávami, aniž byste se ztratili ve složitosti implementace formátu souborů aplikace Microsoft Outlook.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cs/slides/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-android-java.svg" productName="Aspose.Slides for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/slides/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-android-java.svg" productName="Aspose.Slides for Android via Java">}}
 Aspose.Slides pro Android přes Java je specifické rozhraní API pro správu a analýzu aplikace PowerPoint, které umožňuje aplikacím založeným na systému Android psát, číst a manipulovat s prezentacemi PowerPoint bez použití aplikace Microsoft PowerPoint. Nabízí vestavěnou podporu pro vytváření MSO grafů, tvarů SmartArt a ovládacích prvků ActiveX.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cs/barcode/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" productName="Aspose.BarCode for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/barcode/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" productName="Aspose.BarCode for Android via Java">}}
 Aspose.BarCode pro Android přes Java je sada čárových kódů API pro generování a rozpoznávání 1D a 2D čárových kódů z obrázků z libovolného úhlu.
 {{< /blocks/products/pf/total/product-item >}}
 

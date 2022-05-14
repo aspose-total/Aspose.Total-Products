@@ -18,103 +18,103 @@ Aspose.Total for .NET, Aspose tarafından sunulan tüm .NET File Format Automati
 
 {{< blocks/products/pf/total/products description="Aspose.Total for .NET, .NET için aşağıdaki dosya formatı API'lerini içerir:" >}}
 
-{{< blocks/products/pf/total/product-item href="/tr/words/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-net.svg" productName="Aspose.Words for .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-net.svg" productName="Aspose.Words for .NET">}}
 Doğrudan .NET, iOS, macOS ve Android uygulamalarınızda birden çok dosya ayrıştırma görevini gerçekleştirmek için gelişmiş bir .NET API'sidir. Aspose.Words for .NET, geliştiricilere Microsoft Word kullanmadan belgeleri değiştirme, oluşturma, oluşturma, dönüştürme ve yazdırma olanağı sunar. DOC, OOXML, RTF, HTML, OpenDocument, PDF, XPS, EPUB ve daha fazlasını destekler.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tr/pdf/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-net.svg" productName="Aspose.PDF for .NET">}}
+{{< blocks/products/pf/total/product-item href="/pdf/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-net.svg" productName="Aspose.PDF for .NET">}}
 Aspose.PDF for .NET, bir PDF dosyası işleme ve ayrıştırma API'sidir. .NET uygulamalarının herhangi bir Adobe Acrobat bağımlılığı olmadan PDF dosyalarını okumasını, işlemesini ve yazmasını sağlar. Ayrıca API, PDF belgelerini birden çok biçime dönüştürmenin yanı sıra PDF dosyalarını geleneksel tarama ve vektör görüntülerine dönüştürme gibi özellikler sağlar.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tr/cells/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-net.svg" productName="Aspose.Cells for .NET">}}
+{{< blocks/products/pf/total/product-item href="/cells/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-net.svg" productName="Aspose.Cells for .NET">}}
 Excel API, geliştiricilerin Microsoft Excel'e ihtiyaç duymadan .NET, iOS ve Android uygulamalarında elektronik tablo dosya biçimleriyle çalışmasına olanak tanır. Aspose.Cells for .NET, XLS, XLSM, XLSX, XLTM/XLTX, HTML, CSV, ODS, Tab Delimited & SpreadsheetML dahil olmak üzere tüm önemli Microsoft Excel formatlarını destekler.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tr/email/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-net.svg" productName="Aspose.Email for .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-net.svg" productName="Aspose.Email for .NET">}}
 Aspose.Email for .NET, ASP.NET web uygulamaları, web hizmetleri veya Windows uygulamalarından e-postalar oluşturmak, değiştirmek, göndermek ve almak için kullanılan bir .NET API koleksiyonudur. E-posta API'si, Outlook ICS, PST, OST, EML, MSG ve MHT dosyalarının yanı sıra Thunderbird'ün depolama MBOX dosyalarıyla çalışmayı çok kolaylaştırır.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tr/slides/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-net.svg" productName="Aspose.Slides for .NET">}}
+{{< blocks/products/pf/total/product-item href="/slides/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-net.svg" productName="Aspose.Slides for .NET">}}
 Aspose.Slides for .NET, sunumları ve slaytları okumak, yazmak ve düzenlemek için bağımsız bir PowerPoint işleme API'sidir. Geliştiriciler, PPT, PPS, POT, PresentationML (OOXML, PPTX) ve OpenDocument sunumları (ODP) dahil olmak üzere sunum dosyası formatlarını oluşturabilir, değiştirebilir, kopyalayabilir, dönüştürebilir, oluşturabilir ve yazdırabilir.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tr/imaging/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" productName="Aspose.Imaging for .NET">}}
+{{< blocks/products/pf/total/product-item href="/imaging/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" productName="Aspose.Imaging for .NET">}}
 Aspose.Imaging for .NET, .NET uygulamaları içinde görüntüleri oluşturmak, düzenlemek, çizmek veya dönüştürmek için kullanılan bir görüntüleme API'sidir. Geliştiriciler, oluşturulan veya düzenlenen görüntüleri TIFF, GIF, BMP, JPEG, PNG ve daha fazlası dahil olmak üzere çeşitli biçimlerde, bir Görüntü düzenleyicinin yüklenmesine gerek kalmadan kaydedebilir.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tr/barcode/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg" productName="Aspose.BarCode for .NET">}}
+{{< blocks/products/pf/total/product-item href="/barcode/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg" productName="Aspose.BarCode for .NET">}}
 Aspose.BarCode for .NET API, geliştiricilerin Microsoft .NET uygulamalarına hızlı ve kolay bir şekilde barkod oluşturma ve tanıma işlevselliği eklemelerine olanak tanır. WinForms, ASP.NET ve .NET Compact Framework'ü destekler.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tr/diagram/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" productName="Aspose.Diagram for .NET">}}
+{{< blocks/products/pf/total/product-item href="/diagram/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" productName="Aspose.Diagram for .NET">}}
 Aspose.Diagram for .NET, zengin özelliklere sahip bir Visio API'sidir. Geliştiriciler, diyagramları kolayca değiştirebilir ve Visio kutucuklarını PDF ve görüntü dosyası biçimlerine dönüştürebilir. Aspose.Diagram ayrıca Visio belgelerini sunucuda işlemek için Visio hizmetleri tarafından sağlanan gelişmiş işlevsellikten yararlanır.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tr/tasks/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" productName="Aspose.Tasks for .NET">}}
+{{< blocks/products/pf/total/product-item href="/tasks/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" productName="Aspose.Tasks for .NET">}}
 Aspose.Tasks for .NET, .NET uygulamalarının Microsoft Project belgelerini MPP ve XML formatlarında okumasını ve proje belgelerini Microsoft Project kullanmadan XML formatında yazmasını sağlayan güçlü bir .NET proje yönetimi API'sidir.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tr/ocr/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productName="Aspose.OCR for .NET">}}
+{{< blocks/products/pf/total/product-item href="/ocr/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productName="Aspose.OCR for .NET">}}
 Aspose.OCR for .NET, geliştiricilerin .NET uygulamalarına OCR işlevselliği eklemelerini sağlayan bir karakter tanıma API'sidir. En sık kullanılan görüntü formatlarından karakterleri tanımak için basit sınıflar sağlar.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tr/note/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/note/aspose_note-for-net.svg" productName="Aspose.Note for .NET">}}
+{{< blocks/products/pf/total/product-item href="/note/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/note/aspose_note-for-net.svg" productName="Aspose.Note for .NET">}}
 Aspose.Note for .NET API, uygulamaların Microsoft OneNote dosyalarıyla programlı olarak etkileşim kurmasını sağlar. Herhangi bir ek kitaplık veya üçüncü taraf yazılımı gerektirmeden Microsoft OneNote dosyalarının içeriğini yükleme, dönüştürme, oluşturma ve değiştirme gibi özellikleri destekler.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tr/cad/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-net.svg" productName="Aspose.CAD for .NET">}}
+{{< blocks/products/pf/total/product-item href="/cad/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-net.svg" productName="Aspose.CAD for .NET">}}
 Aspose.CAD for .NET, geliştiricilerin AutoCAD DWG ve DXF dosyalarını PDF, JPG, PNG, BMP, TIFF ve GIF görüntü biçimlerine dönüştürmesine olanak tanır. Yerel bir API'dir ve AutoCAD veya başka bir yazılımın yüklenmesini gerektirmez.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tr/3d/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" productName="Aspose.3D for .NET">}}
+{{< blocks/products/pf/total/product-item href="/3d/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" productName="Aspose.3D for .NET">}}
 Aspose.3D for .NET, .NET geliştiricilerinin herhangi bir ek 3B modelleme ve işleme yazılımı gerektirmeden 3B belge formatlarıyla bağlantı kurmaları için zengin özelliklere sahip bir 3B API'dir. Geliştiricilerin kolayca oluşturabileceği, okuyabileceği, dönüştürebileceği, değiştirebileceği ve 3B dosyaların içeriğini kontrol edebileceği en yaygın kullanılan 3B dosya formatlarını destekler.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tr/html/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/html/aspose_html-for-net.svg" productName="Aspose.HTML for .NET">}}
+{{< blocks/products/pf/total/product-item href="/html/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/html/aspose_html-for-net.svg" productName="Aspose.HTML for .NET">}}
 Aspose.HTML for .NET, geliştiricilerin HTML sayfaları oluşturmasına, düzenlemesine ve PDF & XPS vb.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tr/gis/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/gis/aspose_gis-for-net.svg" productName="Aspose.GIS for .NET">}}
+{{< blocks/products/pf/total/product-item href="/gis/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/gis/aspose_gis-for-net.svg" productName="Aspose.GIS for .NET">}}
 Aspose.GIS for .NET, .NET uygulamalarının vektör tabanlı jeo-uzamsal veri formatlarından coğrafi bilgilere erişmesini ve bunları yönetmesini sağlar. ESRI Shapefile ve GeoJSON gibi GIS veri formatlarını okuma, yazma ve dönüştürme sunar.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tr/zip/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/zip/aspose_zip-for-net.svg" productName="Aspose.ZIP for .NET">}}
+{{< blocks/products/pf/total/product-item href="/zip/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/zip/aspose_zip-for-net.svg" productName="Aspose.ZIP for .NET">}}
 Aspose.ZIP for .NET API, geliştiricilerin belgeleri ve arşivleri zip formatına sıkıştırmasını ve zip dosyalarını ilgili arşiv ve dosyalara açmasını sağlar.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tr/page/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-net.svg" productName="Aspose.Page for .NET">}}
+{{< blocks/products/pf/total/product-item href="/page/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-net.svg" productName="Aspose.Page for .NET">}}
 Aspose.Page for .NET, mevcut ve yeni XPS belgelerini oluşturma, düzenleme ve kaydetme olanağı sağlar. Ayrıca PS, EPS ve XPS dosyalarının PDF ve görüntü formatlarına dönüştürülmesine izin verir.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tr/psd/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productName="Aspose.PSD for .NET">}}
+{{< blocks/products/pf/total/product-item href="/psd/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productName="Aspose.PSD for .NET">}}
 Aspose.PSD for .NET API, geliştiricilerin Photoshop PSD ve PSB dosyalarını yüklemesine veya oluşturmasına olanak tanır, ayrıca katmanları değiştirme, sönük PSD dosyalarını algılama ve Photoshop dosyalarını raster görüntü biçimlerine dönüştürme yeteneği sağlar.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tr/omr/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/omr/aspose_omr-for-net.svg" productName="Aspose.OMR for .NET">}}
+{{< blocks/products/pf/total/product-item href="/omr/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/omr/aspose_omr-for-net.svg" productName="Aspose.OMR for .NET">}}
 Aspose.OMR for .NET, anketler, anketler, çoktan seçmeli sınav kağıtları ve diğer testler gibi belge formlarından insan tarafından işaretlenmiş verilerin yakalanmasını sağlayan bir API'dir. Böylece taranan görüntüleri ve hatta fotoğrafları yüksek doğrulukla tanıyabilir. 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tr/pub/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-net.svg" productName="Aspose.PUB for .NET">}}
+{{< blocks/products/pf/total/product-item href="/pub/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-net.svg" productName="Aspose.PUB for .NET">}}
 Aspose.PUB for .NET, Microsoft Publisher dosyalarının okunmasına ve diğer formatlara dönüştürülmesine izin veren bir API'dir. Ayrıca API, Microsoft Publisher'a herhangi bir bağımlılık olmaksızın, temeldeki dosya biçimi yapısının ayrıntılarına girmeye gerek kalmadan PUB belge biçimleriyle çalışmaya izin verir.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tr/svg/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/svg/aspose_svg-for-net.svg" productName="Aspose.SVG for .NET">}}
+{{< blocks/products/pf/total/product-item href="/svg/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/svg/aspose_svg-for-net.svg" productName="Aspose.SVG for .NET">}}
 Aspose.SVG for .NET, bir SVG dosya formatı işleme ve ayrıştırma API'sidir. SVG düğümleri ve özellikleri üzerinde tam kontrole sahip olan Geliştiriciler, belge ağacını kolayca değiştirebilir, düğümleri kaldırabilir ve ekleyebilir, düğüm özelliklerini değiştirebilir ve filtreler uygulayabilir. Ayrıca API, SVG dosyalarını PDF'ye ve ünlü görüntü formatlarına dönüştürebilir.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tr/finance/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-net.svg" productName="Aspose.Finance for .NET">}}
+{{< blocks/products/pf/total/product-item href="/finance/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-net.svg" productName="Aspose.Finance for .NET">}}
 Aspose.Finance for .NET, finansla ilgili bir format işleme API'sidir. İş süreçlerinin yönetiminde, finansal analiz ve raporlama çözümlerinde kullanılan XBRL ve iXBRL formatlarını oluşturur, okur ve doğrular.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tr/drawing/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productName="Aspose.Drawing for .NET">}}
+{{< blocks/products/pf/total/product-item href="/drawing/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productName="Aspose.Drawing for .NET">}}
 Aspose.Drawing for .NET, GDI+ ile aynı bir grafik API'sidir. Çizgiler, eğriler ve şekiller gibi 2B vektör grafik çizimlerinin yanı sıra raster görüntülere muti stili metinler için kolayca entegre edilebilir. API, yaygın olarak kullanılan görüntü biçimlerini destekler.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tr/font/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-net.svg" productName="Aspose.Font for .NET">}}
+{{< blocks/products/pf/total/product-item href="/font/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-net.svg" productName="Aspose.Font for .NET">}}
 Aspose.Font for .NET, bir font yönetimi ve işleme API'sidir. Diskten veya akıştan font yükleme, glifleri ve metrik bilgilerini okuma, latin sembollerini algılama, font gliflerini kullanarak metin oluşturma ve daha fazlası gibi font dosyası işlemlerini kolayca gerçekleştirebilir.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tr/tex/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-net.svg" productName="Aspose.TeX for .NET">}}
+{{< blocks/products/pf/total/product-item href="/tex/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-net.svg" productName="Aspose.TeX for .NET">}}
 Aspose.TeX for .NET, bir TeX dosya dizgi API'sidir. XPS, PDF, PNG, JPEG, TIFF ve BMP gibi çeşitli formatlardaki belgeleri almak için TeX dosyalarını kolayca dizebilir. Ayrıca özel TeX formatları oluşturma özelliğine sahiptir.
 {{< /blocks/products/pf/total/product-item >}}
 

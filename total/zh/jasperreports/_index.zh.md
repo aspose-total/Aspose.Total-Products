@@ -18,31 +18,31 @@ Aspose.Total for JasperReports 是功能丰富的 JasperReports 导出器套件�
 
 {{< blocks/products/pf/total/products description="JasperReports 的 Aspose.Total 包括以下导出器：" >}}
 
-{{< blocks/products/pf/total/product-item href="/zh/words/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg" productName="Aspose.Words for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/words/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg" productName="Aspose.Words for JasperReports">}}
 Aspose.Words for JasperReports 是市场上唯一将报告从 JasperReports 和 JasperServer 导出到 Microsoft Word 文档 (DOC)、Office Open XML (OOXML、DOCX)、富文本格式 (RTF)、OpenDocument 文本 (ODT)、Web 的解决方案页面 (HTML) 和纯文本 (TXT) 格式。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/zh/pdf/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-jasperreports.svg" productName="Aspose.PDF for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/pdf/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-jasperreports.svg" productName="Aspose.PDF for JasperReports">}}
 Aspose.PDF for JasperReports 专门设计和开发用于将报告从 JasperReports 和 JasperServer 导出为可移植文档格式 (PDF) 及其 ISO 标准版本； PDF/A.大多数报告功能，如图表、表格和图像，都以最高精度转换为 PDF。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/zh/cells/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" productName="Aspose.Cells for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/cells/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" productName="Aspose.Cells for JasperReports">}}
 Aspose.Cells for JasperReports 允许将报告从 JasperReports 和 JasperServer 导出为 Microsoft Excel 电子表格格式，包括 XLS、XLSX 和 SpreadsheetML。它还支持其他流行格式，例如 PDF、ODS、CSV 和制表符分隔。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/zh/slides/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-jasperreports.svg" productName="Aspose.Slides for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/slides/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-jasperreports.svg" productName="Aspose.Slides for JasperReports">}}
 Aspose.Slides for JasperReports 专为需要从 Java 应用程序中将报表从 JasperReports 导出为 Microsoft PowerPoint 97 – 2003（PPT 和 PPS）和 Microsoft PowerPoint 2007-2013（PPTX 和 PPSX）演示格式的开发人员而设计。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/zh/imaging/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" productName="Aspose.Imaging for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/imaging/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" productName="Aspose.Imaging for JasperReports">}}
 Aspose.Imaging for JasperReports 提供了一种灵活的解决方案，可以将 JasperReports 导出为多种图像格式。可以轻松生成多页报告或批量导出。在批处理模式下。每个报告页面都将保存为单独的文档。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/zh/barcode/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" productName="Aspose.BarCode for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/barcode/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" productName="Aspose.BarCode for JasperReports">}}
 Aspose.BarCode for JasperReports 提供了一个独特而强大的解决方案来增强您的业务的实用性。它允许开发人员在 JasperReports 上生成和显示高质量的条形码标签。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/zh/cad/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg" productName="Aspose.CAD for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/cad/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg" productName="Aspose.CAD for JasperReports">}}
 Aspose.CAD for JasperReports 提供了一个独特而强大的解决方案，可以将 JasperReports 导出为各种 CAD 和其他矢量格式。它可以轻松地生成多页报告或以批处理模式批量导出。每个报告页面都将保存为单独的文档。
 {{< /blocks/products/pf/total/product-item >}}
 

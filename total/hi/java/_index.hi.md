@@ -18,83 +18,83 @@ Aspose.Total for Java जावा डेवलपर्स के लिए फ
 
 {{< blocks/products/pf/total/products description="जावा के लिए Aspose.Words डेवलपर्स को सीधे जावा अनुप्रयोगों के भीतर दस्तावेज़ प्रसंस्करण कार्यों की एक बड़ी श्रृंखला करने की अनुमति देता है। यह DOC, OOXML, RTF, HTML और OpenDocument सहित सबसे लोकप्रिय वर्ड प्रोसेसिंग प्रारूपों का समर्थन करता है। Aspose.Words के साथ, आप Microsoft Word का उपयोग किए बिना दस्तावेज़ों को उत्पन्न, संशोधित और परिवर्तित कर सकते हैं।" >}}
 
-{{< blocks/products/pf/total/product-item href="/hi/words/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-java.svg" productName="Aspose.Words for Java">}}
+{{< blocks/products/pf/total/product-item href="/words/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-java.svg" productName="Aspose.Words for Java">}}
 जावा के लिए Aspose.Words डेवलपर्स को सीधे जावा अनुप्रयोगों के भीतर दस्तावेज़ प्रसंस्करण कार्यों की एक बड़ी श्रृंखला करने की अनुमति देता है। यह DOC, OOXML, RTF, HTML और OpenDocument सहित सबसे लोकप्रिय वर्ड प्रोसेसिंग प्रारूपों का समर्थन करता है। Aspose.Words के साथ, आप Microsoft Word का उपयोग किए बिना दस्तावेज़ों को उत्पन्न, संशोधित और परिवर्तित कर सकते हैं।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hi/pdf/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-java.svg" productName="Aspose.PDF for Java">}}
+{{< blocks/products/pf/total/product-item href="/pdf/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-java.svg" productName="Aspose.PDF for Java">}}
 जावा के लिए Aspose.PDF एक PDF दस्तावेज़ निर्माण API है जो आपके Java अनुप्रयोगों को Adobe Acrobat का उपयोग किए बिना PDF दस्तावेज़ों को पढ़ने, लिखने और हेरफेर करने में सक्षम बनाता है। यह एक स्टैंडअलोन एपीआई है जो पीडीएफ संपीड़न विकल्प, टेबल निर्माण और हेरफेर, कस्टम फ़ॉन्ट हैंडलिंग और विस्तारित सुरक्षा नियंत्रण सहित कई सुविधाएँ प्रदान करता है।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hi/cells/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-java.svg" productName="Aspose.Cells for Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-java.svg" productName="Aspose.Cells for Java">}}
 जावा के लिए Aspose.Cells एक्सेल फ़ाइल निर्माण, रूपांतरण और हेरफेर प्रदान करता है। एपीआई जावा अनुप्रयोगों को माइक्रोसॉफ्ट एक्सेल का उपयोग किए बिना एक्सेल स्प्रेडशीट बनाने और प्रबंधित करने में सक्षम बनाता है। Aspose.Cells जावा के लिए एक अविश्वसनीय रूप से सुविधा संपन्न एपीआई है जो केवल बुनियादी डेटा निर्यात कार्यों की तुलना में बहुत अधिक प्रदान करता है।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hi/email/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-java.svg" productName="Aspose.Email for Java">}}
+{{< blocks/products/pf/total/product-item href="/email/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-java.svg" productName="Aspose.Email for Java">}}
 Aspose.Email for Java, Microsoft Outlook के बिना विभिन्न स्वरूपों में ईमेल संदेश फ़ाइलों को पढ़ने और लिखने के लिए Java API का एक सेट है। यह आउटलुक एमएसजी, ईएमएल, ईएमएलएक्स, ओएफटी फाइलों को पढ़ने और हेरफेर करने के लिए कक्षाएं प्रदान करता है - संलग्नक, प्राप्तकर्ता, अद्यतन विषय, मुख्य भाग, और अन्य एमएसजी फ़ाइल गुण जोड़ें।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hi/slides/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-java.svg" productName="Aspose.Slides for Java">}}
+{{< blocks/products/pf/total/product-item href="/slides/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-java.svg" productName="Aspose.Slides for Java">}}
 Aspose.Slides for Java एक अद्वितीय प्रेजेंटेशन प्रोसेसिंग एपीआई है जो जावा-आधारित अनुप्रयोगों को पावरपॉइंट फाइलों को पढ़ने, लिखने और अपडेट करने में सक्षम बनाता है। डेवलपर्स Microsoft PowerPoint को स्थापित किए बिना प्रस्तुतियाँ बना सकते हैं, हेरफेर कर सकते हैं, कॉपी कर सकते हैं, परिवर्तित कर सकते हैं, प्रस्तुत कर सकते हैं और प्रिंट कर सकते हैं।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hi/imaging/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" productName="Aspose.Imaging for Java">}}
+{{< blocks/products/pf/total/product-item href="/imaging/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" productName="Aspose.Imaging for Java">}}
 Aspose.Imaging for Java एक इमेजिंग एपीआई है जो डेवलपर्स को अपने जावा अनुप्रयोगों में छवियों को संपादित करने, बनाने, आकर्षित करने या प्रस्तुत करने देता है। यह पारंपरिक छवि प्रसंस्करण कार्यों के साथ-साथ सबसे अधिक मांग वाली विशेषताओं का एक व्यापक स्पेक्ट्रम प्रदान करता है जो इसे सबसे व्यापक रूप से उपयोग किया जाने वाला इमेजिंग इंजन बनाता है।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hi/barcode/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg" productName="Aspose.BarCode for Java">}}
+{{< blocks/products/pf/total/product-item href="/barcode/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg" productName="Aspose.BarCode for Java">}}
 जावा एपीआई के लिए Aspose.BarCode अपने जावा अनुप्रयोगों के भीतर बारकोड पीढ़ी और मान्यता प्रक्रियाओं को जोड़ने की पेशकश करता है। यह जावा एसई, जावा ईई और जावा एमई प्लेटफॉर्म और कई रैखिक, 2डी और पोस्टल बारकोड प्रकारों का समर्थन करता है।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hi/diagram/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" productName="Aspose.Diagram for Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" productName="Aspose.Diagram for Java">}}
 Aspose.Diagram for Java एक गैर-ग्राफ़िकल और अच्छी तरह से संरचित API है जो डेवलपर्स को मौजूदा आरेखों को लोड करने, खरोंच से आरेख बनाने, किसी भी समर्थित फ़ाइल प्रारूप में आरेख को सहेजने या Microsoft Visio का उपयोग किए बिना Java अनुप्रयोगों के भीतर Microsoft Visio आरेखण में हेरफेर करने की अनुमति देता है।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hi/tasks/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-java.svg" productName="Aspose.Tasks for Java">}}
+{{< blocks/products/pf/total/product-item href="/tasks/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-java.svg" productName="Aspose.Tasks for Java">}}
 Aspose.Tasks for Java एक प्रोजेक्ट मैनेजमेंट एपीआई है जो जावा एप्लिकेशन डेवलपर्स को माइक्रोसॉफ्ट प्रोजेक्ट का उपयोग किए बिना अपने अनुप्रयोगों में माइक्रोसॉफ्ट प्रोजेक्ट दस्तावेज़ हेरफेर क्षमता प्रदान करने में सक्षम बनाता है। इस शक्तिशाली एपीआई के साथ, डेवलपर्स परियोजना प्रबंधन के विभिन्न चरणों जैसे परियोजना नियोजन, परिभाषा और ट्रैकिंग को नियंत्रित कर सकते हैं।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hi/ocr/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productName="Aspose.OCR for Java">}}
+{{< blocks/products/pf/total/product-item href="/ocr/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productName="Aspose.OCR for Java">}}
 जावा के लिए Aspose.OCR एक ऑप्टिकल कैरेक्टर रिकग्निशन जावा एपीआई है जो प्रोग्रामर को जावा अनुप्रयोगों में ओसीआर तकनीक को जल्दी और आसानी से जोड़ने की अनुमति देता है। एपीआई कई छवि प्रारूपों के पात्रों को पहचानने के लिए कक्षाओं का सेट प्रदान करता है।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hi/note/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/note/aspose_note-for-java.svg" productName="Aspose.Note for Java">}}
+{{< blocks/products/pf/total/product-item href="/note/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/note/aspose_note-for-java.svg" productName="Aspose.Note for Java">}}
 Aspose.Note for Java API जावा-आधारित सॉफ़्टवेयर को Microsoft OneNote को सर्वर पर इंस्टाल किए बिना प्रोग्रामेटिक रूप से व्यवहार करने में सक्षम बनाता है। यह Microsoft OneNote ऑब्जेक्ट मॉडल के लिए एक शुद्ध विकल्प है और OneNote दस्तावेज़ों के प्रबंधन के लिए बेहतर प्रदर्शन और उपयोग में आसानी प्रदान करता है।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hi/cad/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg" productName="Aspose.CAD for Java">}}
+{{< blocks/products/pf/total/product-item href="/cad/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg" productName="Aspose.CAD for Java">}}
 जावा के लिए Aspose.CAD ऑटोकैड डीएक्सएफ और डीडब्ल्यूजी ड्राइंग फाइलों को पीडीएफ और रेखापुंज छवियों में बदलने की पेशकश करता है। एक देशी एपीआई होने के नाते, इसके लिए ऑटोकैड या किसी सॉफ्टवेयर की आवश्यकता नहीं होती है।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hi/3d/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg" productName="Aspose.3D for Java">}}
+{{< blocks/products/pf/total/product-item href="/3d/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg" productName="Aspose.3D for Java">}}
 जावा एपीआई के लिए Aspose.3D को 3D प्रारूप बनाने, संपादित करने, हेरफेर करने और सहेजने के लिए बनाया गया है। यह जावा अनुप्रयोगों को कंप्यूटर पर कोई सॉफ़्टवेयर पैकेज स्थापित किए बिना 3डी दस्तावेज़ों से जुड़ने की शक्ति देता है, और डेवलपर्स को मॉडलिंग और गेम की दुनिया और डिज़ाइन विज़ुअलाइज़ेशन के दृश्य बनाने में सहायता करता है।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hi/html/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/html/aspose_html-for-java.svg" productName="Aspose.HTML for Java">}}
+{{< blocks/products/pf/total/product-item href="/html/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/html/aspose_html-for-java.svg" productName="Aspose.HTML for Java">}}
 जावा के लिए Aspose.HTML एक उन्नत HTML हेरफेर एपीआई है जो जावा अनुप्रयोगों के भीतर (X) HTML दस्तावेज़ बनाने, लोड करने, संपादित करने या परिवर्तित करने की अनुमति देता है। एपीआई पीडीएफ, एक्सपीएस और कई रेखापुंज छवि प्रारूपों के लिए एक उच्च निष्ठा प्रतिपादन इंजन भी प्रदान करता है।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hi/page/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-java.svg" productName="Aspose.Page for Java">}}
+{{< blocks/products/pf/total/product-item href="/page/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-java.svg" productName="Aspose.Page for Java">}}
 Aspose.Page for Java एक पोस्टस्क्रिप्ट और XPS दस्तावेज़ पार्सिंग और प्रोसेसिंग API है। डेवलपर्स आसानी से पीएस और ईपीएस फाइलों को पीडीएफ और रेखापुंज छवि प्रारूपों में बदल सकते हैं। एपीआई डेवलपर्स को बिना किसी निर्भरता के एक्सपीएस फाइलों को बनाने, पार्स करने और सहेजने की अनुमति देता है।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hi/psd/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productName="Aspose.PSD for Java">}}
+{{< blocks/products/pf/total/product-item href="/psd/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productName="Aspose.PSD for Java">}}
 जावा के लिए Aspose.PSD फोटोशॉप प्रारूपों में हेरफेर के लिए एक आधार एपीआई है। डेवलपर्स आसानी से PSD और PSB प्रारूप बना सकते हैं, लोड कर सकते हैं, परिवर्तित कर सकते हैं और संशोधित कर सकते हैं। एपीआई विभिन्न ऑपरेशन कर सकता है जैसे कि एडोब फोटोशॉप स्थापित किए बिना वॉटरमार्क, कम्प्रेशन, रोटेशन, स्केलिंग और बहुत कुछ जोड़ना।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hi/omr/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/omr/aspose_omr-for-java.svg" productName="Aspose.OMR for Java">}}
+{{< blocks/products/pf/total/product-item href="/omr/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/omr/aspose_omr-for-java.svg" productName="Aspose.OMR for Java">}}
 जावा के लिए Aspose.OMR एक एपीआई है जो ओएमआर डिजीटल शीट छवियों के साथ-साथ बीएमपी, जेपीजी, टीआईएफ, टीआईएफएफ, जीआईएफ जैसे विभिन्न छवि प्रारूपों से ऑप्टिकल चिह्नों को पहचानने के लिए है। एपीआई सर्वेक्षण, प्रश्नावली, एमसीक्यू आदि जैसे दस्तावेज़ रूपों से मानव-चिह्नित डेटा को कैप्चर करता है। मान्यता का आधार टेम्पलेट मार्कअप है जिसमें स्कैन की गई छवियों से पहचाने जाने वाले तत्वों की ग्राफिकल मैपिंग होती है।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hi/pub/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-java.svg" productName="Aspose.PUB for Java">}}
+{{< blocks/products/pf/total/product-item href="/pub/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-java.svg" productName="Aspose.PUB for Java">}}
 जावा के लिए Aspose.PUB एक एपीआई है जो माइक्रोसॉफ्ट प्रकाशक फाइलों को पढ़ने और पीडीएफ में कनवर्ट करने की अनुमति देता है। इसके अलावा, एपीआई माइक्रोसॉफ्ट प्रकाशक की किसी भी निर्भरता के बिना अंतर्निहित फ़ाइल प्रारूप संरचना के विवरण में जाने की आवश्यकता के बिना .pub प्रारूप के साथ काम करने की अनुमति देता है।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hi/font/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-java.svg" productName="Aspose.Font for Java">}}
+{{< blocks/products/pf/total/product-item href="/font/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-java.svg" productName="Aspose.Font for Java">}}
 Aspose.Font जावा के लिए एक फ़ॉन्ट लोडिंग और ड्राइंग एपीआई है जिसमें कई फ़ॉन्ट स्वरूपों का समर्थन है। यह आसानी से फ़ॉन्ट फ़ाइल संचालन कर सकता है जैसे डिस्क या स्ट्रीम से फोंट लोड करना, ग्लिफ़ और मेट्रिक्स जानकारी पढ़ना और साथ ही लैटिन प्रतीकों का पता लगाना, फ़ॉन्ट ग्लिफ़ का उपयोग करके टेक्स्ट प्रस्तुत करना और बहुत कुछ।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hi/tex/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-java.svg" productName="Aspose.TeX for Java">}}
+{{< blocks/products/pf/total/product-item href="/tex/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-java.svg" productName="Aspose.TeX for Java">}}
 जावा के लिए Aspose.TeX एक टीएक्स फाइल टाइपसेटिंग एपीआई है। यह एक्सपीएस, पीडीएफ, पीएनजी, जेपीईजी, टीआईएफएफ और बीएमपी जैसे विभिन्न प्रारूपों में दस्तावेज प्राप्त करने के लिए टीएक्स फाइलों को आसानी से टाइप कर सकता है। इसमें कस्टम टीएक्स प्रारूप निर्माण भी शामिल है।
 {{< /blocks/products/pf/total/product-item >}}
 

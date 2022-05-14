@@ -18,31 +18,31 @@ Aspose.Total for JasperReports je funkčně bohatá sada exportérů JasperRepor
 
 {{< blocks/products/pf/total/products description="Aspose.Total pro JasperReports zahrnuje následující vývozce:" >}}
 
-{{< blocks/products/pf/total/product-item href="/cs/words/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg" productName="Aspose.Words for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/words/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg" productName="Aspose.Words for JasperReports">}}
 Aspose.Words for JasperReports je jediné řešení na trhu pro export zpráv z JasperReports a JasperServer do dokumentu Microsoft Word (DOC), Office Open XML (OOXML, DOCX), Rich Text Format (RTF), OpenDocument Text (ODT), Web stránky (HTML) a prostý text (TXT).
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cs/pdf/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-jasperreports.svg" productName="Aspose.PDF for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/pdf/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-jasperreports.svg" productName="Aspose.PDF for JasperReports">}}
 Aspose.PDF pro JasperReports je speciálně navržen a vyvinut pro export zpráv z JasperReports a JasperServer do formátu PDF (Přenosný formát dokumentu) a jeho verze standardizované podle ISO; PDF/A. Většina funkcí sestav, jako jsou grafy, tabulky a obrázky, je převedena do PDF s nejvyšším stupněm přesnosti.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cs/cells/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" productName="Aspose.Cells for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/cells/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" productName="Aspose.Cells for JasperReports">}}
 Aspose.Cells for JasperReports umožňuje exportovat zprávy z JasperReports a JasperServer do tabulkových formátů Microsoft Excel včetně XLS, XLSX a SpreadsheetML. Podporuje také další oblíbené formáty, jako je PDF, ODS, CSV a oddělené tabulátory.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cs/slides/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-jasperreports.svg" productName="Aspose.Slides for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/slides/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-jasperreports.svg" productName="Aspose.Slides for JasperReports">}}
 Aspose.Slides for JasperReports je určen pro vývojáře, kteří potřebují exportovat zprávy z JasperReports do prezentačních formátů Microsoft PowerPoint 97 – 2003 (PPT a PPS) a Microsoft PowerPoint 2007-2013 (PPTX a PPSX) z aplikací Java.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cs/imaging/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" productName="Aspose.Imaging for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/imaging/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" productName="Aspose.Imaging for JasperReports">}}
 Aspose.Imaging pro JasperReports poskytuje flexibilní řešení pro export JasperReports do více obrazových formátů. Lze snadno vytvářet vícestránkové zprávy nebo dávkový export. V dávkovém režimu. každá stránka zprávy bude uložena jako samostatný dokument.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cs/barcode/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" productName="Aspose.BarCode for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/barcode/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" productName="Aspose.BarCode for JasperReports">}}
 Aspose.BarCode for JasperReports poskytuje jedinečné a robustní řešení pro zvýšení užitečnosti vašeho podnikání. Umožňuje vývojářům vytvářet a zobrazovat vysoce kvalitní štítky s čárovými kódy na JasperReports.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cs/cad/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg" productName="Aspose.CAD for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/cad/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg" productName="Aspose.CAD for JasperReports">}}
 Aspose.CAD for JasperReports poskytuje jedinečné a robustní řešení pro export JasperReports do různých CAD a dalších vektorových formátů. Může snadno generovat vícestránkové zprávy nebo dávkový export v dávkovém režimu. každá stránka zprávy bude uložena jako samostatný dokument.
 {{< /blocks/products/pf/total/product-item >}}
 

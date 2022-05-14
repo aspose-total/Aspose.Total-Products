@@ -18,31 +18,31 @@ description: Το JasperReports εξάγει τη σουίτα σε εξαγωγ
 
 {{< blocks/products/pf/total/products description="Το Aspose.Total for JasperReports περιλαμβάνει τους ακόλουθους εξαγωγείς:" >}}
 
-{{< blocks/products/pf/total/product-item href="/el/words/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg" productName="Aspose.Words for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/words/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg" productName="Aspose.Words for JasperReports">}}
 Το Aspose.Words for JasperReports είναι η μόνη λύση στην αγορά για εξαγωγή αναφορών από JasperReports και JasperServer σε έγγραφο Microsoft Word (DOC), Office Open XML (OOXML, DOCX), Μορφή εμπλουτισμένου κειμένου (RTF), OpenDocument Text (ODT), Web μορφές σελίδας (HTML) και απλού κειμένου (TXT).
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/el/pdf/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-jasperreports.svg" productName="Aspose.PDF for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/pdf/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-jasperreports.svg" productName="Aspose.PDF for JasperReports">}}
 Το Aspose.PDF για JasperReports έχει σχεδιαστεί και αναπτυχθεί ειδικά για την εξαγωγή αναφορών από το JasperReports και τον JasperServer σε φορητή μορφή εγγράφου (PDF) και την τυποποιημένη κατά ISO έκδοσή του. PDF/A. Τα περισσότερα από τα χαρακτηριστικά της αναφοράς, όπως γραφήματα, πίνακες και εικόνες μετατρέπονται σε PDF με τον υψηλότερο βαθμό ακρίβειας.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/el/cells/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" productName="Aspose.Cells for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/cells/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" productName="Aspose.Cells for JasperReports">}}
 Το Aspose.Cells for JasperReports επιτρέπει σε κάποιον να εξάγει αναφορές από το JasperReports και τον JasperServer σε μορφές υπολογιστικών φύλλων του Microsoft Excel, συμπεριλαμβανομένων των XLS, XLSX και SpreadsheetML. Υποστηρίζει επίσης άλλες δημοφιλείς μορφές όπως PDF, ODS, CSV και Tab-οριοθετημένο.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/el/slides/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-jasperreports.svg" productName="Aspose.Slides for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/slides/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-jasperreports.svg" productName="Aspose.Slides for JasperReports">}}
 Το Aspose.Slides for JasperReports έχει σχεδιαστεί για προγραμματιστές που πρέπει να εξάγουν αναφορές από το JasperReports σε μορφές παρουσίασης Microsoft PowerPoint 97 – 2003 (PPT και PPS) και Microsoft PowerPoint 2007-2013 (PPTX και PPSX) μέσα από εφαρμογές Java.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/el/imaging/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" productName="Aspose.Imaging for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/imaging/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" productName="Aspose.Imaging for JasperReports">}}
 Το Aspose.Imaging for JasperReports παρέχει μια ευέλικτη λύση για την εξαγωγή JasperReports σε πολλαπλές μορφές εικόνας. Κάποιος μπορεί εύκολα να δημιουργήσει αναφορές πολλών σελίδων ή ομαδική εξαγωγή. Σε λειτουργία παρτίδας. κάθε σελίδα αναφοράς θα αποθηκευτεί ως ξεχωριστό έγγραφο.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/el/barcode/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" productName="Aspose.BarCode for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/barcode/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" productName="Aspose.BarCode for JasperReports">}}
 Το Aspose.BarCode for JasperReports παρέχει μια μοναδική και ισχυρή λύση για τη βελτίωση της χρησιμότητας της επιχείρησής σας. Επιτρέπει στους προγραμματιστές να δημιουργούν και να εμφανίζουν ετικέτες γραμμωτού κώδικα υψηλής ποιότητας στο JasperReports.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/el/cad/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg" productName="Aspose.CAD for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/cad/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg" productName="Aspose.CAD for JasperReports">}}
 Το Aspose.CAD για JasperReports παρέχει μια μοναδική και ισχυρή λύση για την εξαγωγή JasperReports σε διάφορες μορφές CAD και άλλες διανυσματικές μορφές. Μπορεί εύκολα να δημιουργήσει αναφορές πολλών σελίδων ή να εξάγει παρτίδες σε λειτουργία δέσμης. κάθε σελίδα αναφοράς θα αποθηκευτεί ως ξεχωριστό έγγραφο.
 {{< /blocks/products/pf/total/product-item >}}
 

@@ -18,31 +18,31 @@ Az Aspose.Total for JasperReports a JasperReports Exporterek szolgáltatásban g
 
 {{< blocks/products/pf/total/products description="Az Aspose.Total for JasperReports a következő exportőröket tartalmazza:" >}}
 
-{{< blocks/products/pf/total/product-item href="/hu/words/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg" productName="Aspose.Words for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/words/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg" productName="Aspose.Words for JasperReports">}}
 Az Aspose.Words for JasperReports az egyetlen megoldás a piacon a JasperReports és a JasperServer jelentések exportálására Microsoft Word dokumentumba (DOC), Office Open XML (OOXML, DOCX), Rich Text Format (RTF), OpenDocument Text (ODT), Web oldal (HTML) és egyszerű szöveges (TXT) formátumok.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hu/pdf/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-jasperreports.svg" productName="Aspose.PDF for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/pdf/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-jasperreports.svg" productName="Aspose.PDF for JasperReports">}}
 Az Aspose.PDF for JasperReports kifejezetten a JasperReports és a JasperServer jelentéseinek Hordozható dokumentum formátum (PDF) formátumba és annak ISO-szabványos verziójába történő exportálására készült; PDF/A. A legtöbb jelentési funkció, például a diagramok, táblázatok és képek a legnagyobb pontossággal PDF formátumba konvertálva.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hu/cells/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" productName="Aspose.Cells for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/cells/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" productName="Aspose.Cells for JasperReports">}}
 Az Aspose.Cells for JasperReports lehetővé teszi a jelentések exportálását a JasperReportsból és a JasperServerből Microsoft Excel Spreadsheet formátumokba, beleértve az XLS, XLSX és SpreadsheetML formátumokat. Más népszerű formátumokat is támogat, például PDF, ODS, CSV és tabulátorral tagolt formátumokat.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hu/slides/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-jasperreports.svg" productName="Aspose.Slides for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/slides/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-jasperreports.svg" productName="Aspose.Slides for JasperReports">}}
 Az Aspose.Slides for JasperReports azoknak a fejlesztőknek készült, akiknek a JasperReportsból jelentéseket kell exportálniuk a Microsoft PowerPoint 97 – 2003 (PPT és PPS) és a Microsoft PowerPoint 2007-2013 (PPTX és PPSX) prezentációs formátumokba a Java alkalmazásokon belül.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hu/imaging/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" productName="Aspose.Imaging for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/imaging/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" productName="Aspose.Imaging for JasperReports">}}
 Az Aspose.Imaging for JasperReports rugalmas megoldást kínál a JasperReports többféle képformátumba exportálására. Könnyen generálhat többoldalas jelentéseket vagy kötegelt exportálást. Kötegelt módban. minden jelentésoldal külön dokumentumként kerül mentésre.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hu/barcode/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" productName="Aspose.BarCode for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/barcode/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" productName="Aspose.BarCode for JasperReports">}}
 Az Aspose.BarCode for JasperReports egyedülálló és robusztus megoldást kínál vállalkozása hasznosságának növelésére. Lehetővé teszi a fejlesztők számára, hogy kiváló minőségű vonalkódcímkéket állítsanak elő és jelenítsenek meg a JasperReports-on.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hu/cad/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg" productName="Aspose.CAD for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/cad/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg" productName="Aspose.CAD for JasperReports">}}
 Az Aspose.CAD for JasperReports egyedülálló és robusztus megoldást kínál a JasperReports különféle CAD és más vektorformátumokba történő exportálására. Könnyen generálhat többoldalas jelentéseket vagy kötegelt exportálást kötegelt módban. minden jelentésoldal külön dokumentumként kerül mentésre.
 {{< /blocks/products/pf/total/product-item >}}
 

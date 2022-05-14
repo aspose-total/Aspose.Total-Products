@@ -18,31 +18,31 @@ Aspose.Total для SharePoint — это комбинация всех ском
 
 {{< blocks/products/pf/total/products description="Aspose.Total для SharePoint помогает вашей организации, имеющей корпоративное хранилище документов на технологиях Windows SharePoint Services (WSS) или Microsoft Office SharePoint Server (MOSS), преобразовывать документы, хранящиеся в SharePoint, в различные форматы документов, в которых они нужны вашим пользователям." >}}
 
-{{< blocks/products/pf/total/product-item href="/ru/words/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" productName="Aspose.Words for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/words/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" productName="Aspose.Words for SharePoint">}}
 Aspose.Words for SharePoint помогает вашей организации, имеющей корпоративное хранилище документов на технологиях Windows SharePoint Services (WSS) или Microsoft Office SharePoint Server (MOSS), преобразовывать документы, хранящиеся в SharePoint, в различные форматы документов, в которых они нужны вашим пользователям.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ru/pdf/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-sharepoint.svg" productName="Aspose.PDF for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/pdf/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-sharepoint.svg" productName="Aspose.PDF for SharePoint">}}
 Aspose.PDF для SharePoint дает вам возможность преобразовывать элементы списка и вики-страницы в переносимый формат документа (PDF).
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ru/cells/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productName="Aspose.Cells for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/cells/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productName="Aspose.Cells for SharePoint">}}
 Aspose.Cells for SharePoint — это гибкое решение для работы с электронными таблицами, которое позволяет разработчикам преобразовывать документы Microsoft Excel в Microsoft SharePoint и поддерживать несколько форматов документов помимо собственных поддерживаемых форматов. Это также помогает вам распространять корпоративные знания, позволяя преобразовывать файлы, хранящиеся в SharePoint, в форматы, в которых они нужны вашим пользователям.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ru/email/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productName="Aspose.Email for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/email/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productName="Aspose.Email for SharePoint">}}
 Aspose.Email для SharePoint предоставляет множество функций, включая преобразование формата файлов сообщений, извлечение вложений электронной почты, синхронизацию электронной почты с почтовыми серверами и передачу файлов на FTP-сервер прямо из библиотеки документов Microsoft SharePoint.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ru/slides/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-sharepoint.svg" productName="Aspose.Slides for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/slides/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-sharepoint.svg" productName="Aspose.Slides for SharePoint">}}
 Aspose.Slides for SharePoint позволяет разработчикам читать и преобразовывать файлы PowerPoint (форматы PPT, POT, PPS, PPTX, POT и PPSX) в приложении SharePoint без использования Microsoft PowerPoint. Он предназначен для разработчиков SharePoint, которым необходимо конвертировать различные форматы файлов PowerPoint в форматы PDF, TIFF или XPS без потери точности. Поддерживается работа с WSS 3.0, MOSS 2007 и MOSS 2010.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ru/imaging/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productName="Aspose.Imaging for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/imaging/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productName="Aspose.Imaging for SharePoint">}}
 Aspose.Imaging for SharePoint добавляет возможность обработки изображений в решения SharePoint. Он поддерживает преобразование между различными форматами файлов изображений и редактирование изображений в Microsoft SharePoint Server 2010 и Microsoft SharePoint Foundation 2010.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ru/barcode/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" productName="Aspose.BarCode for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/barcode/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" productName="Aspose.BarCode for SharePoint">}}
 Aspose.BarCode для SharePoint предоставляет уникальное и надежное приложение для улучшения ваших списков SharePoint с помощью этой системы штрих-кодирования. Приложение Barcode SharePoint поддерживает более 40 самых популярных символик штрих-кодов, включая линейные, почтовые и двумерные штрих-коды.
 {{< /blocks/products/pf/total/product-item >}}
 

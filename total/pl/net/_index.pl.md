@@ -18,103 +18,103 @@ Aspose.Total dla platformy .NET to najbardziej kompletny pakiet wszystkich inter
 
 {{< blocks/products/pf/total/products description="Aspose.Total dla platformy .NET zawiera następujące interfejsy API formatu plików dla platformy .NET:" >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/words/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-net.svg" productName="Aspose.Words for .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-net.svg" productName="Aspose.Words for .NET">}}
 Jest to zaawansowany interfejs API .NET do wykonywania wielu zadań związanych z analizowaniem plików bezpośrednio w aplikacjach .NET, iOS, macOS i Android. Aspose.Words for .NET oferuje programistom modyfikowanie, generowanie, renderowanie, konwertowanie i drukowanie dokumentów bez użycia programu Microsoft Word. Obsługuje DOC, OOXML, RTF, HTML, OpenDocument, PDF, XPS, EPUB i wiele innych.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/pdf/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-net.svg" productName="Aspose.PDF for .NET">}}
+{{< blocks/products/pf/total/product-item href="/pdf/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-net.svg" productName="Aspose.PDF for .NET">}}
 Aspose.PDF dla platformy .NET to interfejs API do przetwarzania i analizowania plików PDF. Umożliwia aplikacjom .NET odczytywanie, manipulowanie i zapisywanie plików PDF bez żadnych zależności od Adobe Acrobat. Co więcej, API zapewnia funkcje, takie jak konwersja dokumentów PDF do wielu formatów, a także przekształcanie plików PDF w konwencjonalne obrazy rastrowe i wektorowe.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/cells/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-net.svg" productName="Aspose.Cells for .NET">}}
+{{< blocks/products/pf/total/product-item href="/cells/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-net.svg" productName="Aspose.Cells for .NET">}}
 Excel API umożliwia programistom pracę z formatami plików arkuszy kalkulacyjnych w aplikacjach .NET, iOS i Android bez konieczności korzystania z programu Microsoft Excel. Aspose.Cells for .NET obsługuje wszystkie główne formaty Microsoft Excel, w tym XLS, XLSM, XLSX, XLTM/XLTX, HTML, CSV, ODS, tab Delimited i SpreadsheetML.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/email/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-net.svg" productName="Aspose.Email for .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-net.svg" productName="Aspose.Email for .NET">}}
 Aspose.Email dla platformy .NET to zbiór interfejsów API platformy .NET do tworzenia, manipulowania, wysyłania i odbierania wiadomości e-mail z aplikacji internetowych ASP.NET, usług internetowych lub aplikacji systemu Windows. Interfejs API poczty e-mail bardzo ułatwia pracę z plikami Outlook ICS, PST, OST, EML, MSG i MHT, a także z plikami MBOX pamięci masowej Thunderbirda.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/slides/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-net.svg" productName="Aspose.Slides for .NET">}}
+{{< blocks/products/pf/total/product-item href="/slides/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-net.svg" productName="Aspose.Slides for .NET">}}
 Aspose.Slides dla platformy .NET to samodzielny interfejs API do przetwarzania programu PowerPoint, który umożliwia odczytywanie, pisanie i manipulowanie prezentacjami i slajdami. Programiści mogą generować, modyfikować, kopiować, konwertować, renderować i drukować formaty plików prezentacji, w tym PPT, PPS, POT, PresentationML (OOXML, PPTX) i prezentacje OpenDocument (ODP).
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/imaging/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" productName="Aspose.Imaging for .NET">}}
+{{< blocks/products/pf/total/product-item href="/imaging/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" productName="Aspose.Imaging for .NET">}}
 Aspose.Imaging dla platformy .NET to interfejs API obrazowania do tworzenia, edytowania, rysowania lub konwertowania obrazów w aplikacjach .NET. Programiści mogą zapisywać utworzone lub edytowane obrazy w różnych formatach, w tym TIFF, GIF, BMP, JPEG, PNG i innych, bez konieczności instalowania edytora obrazów.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/barcode/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg" productName="Aspose.BarCode for .NET">}}
+{{< blocks/products/pf/total/product-item href="/barcode/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg" productName="Aspose.BarCode for .NET">}}
 Aspose.BarCode for .NET API umożliwia programistom szybkie i łatwe dodawanie funkcji generowania i rozpoznawania kodów kreskowych do aplikacji Microsoft .NET. Obsługuje WinForms, ASP.NET i .NET Compact Framework.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/diagram/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" productName="Aspose.Diagram for .NET">}}
+{{< blocks/products/pf/total/product-item href="/diagram/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" productName="Aspose.Diagram for .NET">}}
 Aspose.Diagram dla platformy .NET to bogaty w funkcje interfejs API programu Visio. Deweloperzy mogą łatwo manipulować diagramami i konwertować kafelki programu Visio na formaty PDF i plików graficznych. Aspose.Diagram wykorzystuje również zaawansowaną funkcjonalność zapewnianą przez usługi Visio do manipulowania dokumentami Visio na serwerze.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/tasks/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" productName="Aspose.Tasks for .NET">}}
+{{< blocks/products/pf/total/product-item href="/tasks/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" productName="Aspose.Tasks for .NET">}}
 Aspose.Tasks for .NET to potężny interfejs API do zarządzania projektami .NET umożliwiający aplikacjom .NET odczytywanie dokumentów Microsoft Project w formatach MPP i XML oraz pisanie dokumentów projektowych w formacie XML bez korzystania z programu Microsoft Project.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/ocr/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productName="Aspose.OCR for .NET">}}
+{{< blocks/products/pf/total/product-item href="/ocr/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productName="Aspose.OCR for .NET">}}
 Aspose.OCR for .NET to interfejs API do rozpoznawania znaków, który umożliwia programistom dodawanie funkcji OCR do aplikacji .NET. Zapewnia prosty zestaw klas do rozpoznawania znaków z najczęściej używanych formatów graficznych.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/note/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/note/aspose_note-for-net.svg" productName="Aspose.Note for .NET">}}
+{{< blocks/products/pf/total/product-item href="/note/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/note/aspose_note-for-net.svg" productName="Aspose.Note for .NET">}}
 Aspose.Note dla .NET API umożliwia aplikacjom programową interakcję z plikami programu Microsoft OneNote. Obsługuje funkcje takie jak ładowanie, konwertowanie, tworzenie i manipulowanie zawartością plików Microsoft OneNote bez konieczności korzystania z dodatkowych bibliotek lub oprogramowania innych firm.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/cad/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-net.svg" productName="Aspose.CAD for .NET">}}
+{{< blocks/products/pf/total/product-item href="/cad/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-net.svg" productName="Aspose.CAD for .NET">}}
 Aspose.CAD dla platformy .NET umożliwia programistom konwersję plików AutoCAD DWG i DXF do formatów obrazów PDF, JPG, PNG, BMP, TIFF i GIF. Jest to natywny interfejs API i nie wymaga instalacji programu AutoCAD ani żadnego innego oprogramowania.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/3d/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" productName="Aspose.3D for .NET">}}
+{{< blocks/products/pf/total/product-item href="/3d/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" productName="Aspose.3D for .NET">}}
 Aspose.3D for .NET to bogaty w funkcje interfejs API 3D dla programistów .NET umożliwiający łączenie się z formatami dokumentów 3D bez konieczności korzystania z dodatkowego oprogramowania do modelowania i renderowania 3D. Obsługuje najczęściej używane formaty plików 3D, w których programiści mogą łatwo tworzyć, czytać, konwertować, modyfikować i kontrolować treść plików 3D.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/html/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/html/aspose_html-for-net.svg" productName="Aspose.HTML for .NET">}}
+{{< blocks/products/pf/total/product-item href="/html/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/html/aspose_html-for-net.svg" productName="Aspose.HTML for .NET">}}
 Aspose.HTML for .NET umożliwia programistom tworzenie, edycję i renderowanie stron HTML do formatów o stałym układzie, takich jak PDF i XPS itp. oraz wielu formatów obrazów rastrowych w aplikacjach .NET
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/gis/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/gis/aspose_gis-for-net.svg" productName="Aspose.GIS for .NET">}}
+{{< blocks/products/pf/total/product-item href="/gis/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/gis/aspose_gis-for-net.svg" productName="Aspose.GIS for .NET">}}
 Aspose.GIS for .NET umożliwia aplikacjom .NET uzyskiwanie dostępu do informacji geograficznych i manipulowanie nimi z wektorowych formatów danych geoprzestrzennych. Oferuje odczyt, zapis i konwersję formatów danych GIS, takich jak ESRI Shapefile i GeoJSON.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/zip/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/zip/aspose_zip-for-net.svg" productName="Aspose.ZIP for .NET">}}
+{{< blocks/products/pf/total/product-item href="/zip/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/zip/aspose_zip-for-net.svg" productName="Aspose.ZIP for .NET">}}
 Aspose.ZIP dla .NET API umożliwia programistom kompresowanie dokumentów i archiwów do formatu zip, a także dekompresowanie plików zip do odpowiednich archiwów i plików.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/page/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-net.svg" productName="Aspose.Page for .NET">}}
+{{< blocks/products/pf/total/product-item href="/page/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-net.svg" productName="Aspose.Page for .NET">}}
 Aspose.Page dla platformy .NET umożliwia tworzenie, edytowanie i zapisywanie istniejących oraz nowych dokumentów XPS. Umożliwia również konwersję plików PS, EPS i XPS do formatów PDF i obrazów.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/psd/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productName="Aspose.PSD for .NET">}}
+{{< blocks/products/pf/total/product-item href="/psd/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productName="Aspose.PSD for .NET">}}
 Aspose.PSD dla .NET API umożliwia programistom ładowanie lub tworzenie plików PSD i PSB programu Photoshop, a także zapewnia możliwość manipulowania warstwami, wykrywania nieaktualnych plików PSD i konwertowania plików Photoshop do formatów obrazów rastrowych.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/omr/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/omr/aspose_omr-for-net.svg" productName="Aspose.OMR for .NET">}}
+{{< blocks/products/pf/total/product-item href="/omr/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/omr/aspose_omr-for-net.svg" productName="Aspose.OMR for .NET">}}
 Aspose.OMR dla platformy .NET to interfejs API umożliwiający przechwytywanie danych oznaczonych przez człowieka z formularzy dokumentów, takich jak ankiety, kwestionariusze, dokumenty egzaminacyjne wielokrotnego wyboru i inne testy. Dzięki temu może rozpoznawać zeskanowane obrazy, a nawet zdjęcia z dużą dokładnością. 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/pub/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-net.svg" productName="Aspose.PUB for .NET">}}
+{{< blocks/products/pf/total/product-item href="/pub/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-net.svg" productName="Aspose.PUB for .NET">}}
 Aspose.PUB for .NET to API umożliwiające odczyt plików Microsoft Publisher i konwersję do innych formatów. Co więcej, API pozwala na pracę z formatami dokumentów PUB bez konieczności wchodzenia w szczegóły podstawowej struktury formatu pliku bez żadnych zależności od Microsoft Publisher.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/svg/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/svg/aspose_svg-for-net.svg" productName="Aspose.SVG for .NET">}}
+{{< blocks/products/pf/total/product-item href="/svg/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/svg/aspose_svg-for-net.svg" productName="Aspose.SVG for .NET">}}
 Aspose.SVG dla platformy .NET to interfejs API do przetwarzania i analizowania formatu plików SVG. Mając pełną kontrolę nad węzłami i właściwościami SVG, programiści mogą łatwo modyfikować drzewo dokumentu, usuwać i wstawiać węzły, zmieniać właściwości węzłów i stosować filtry. Ponadto API może konwertować pliki SVG do formatu PDF i znanych formatów graficznych.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/finance/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-net.svg" productName="Aspose.Finance for .NET">}}
+{{< blocks/products/pf/total/product-item href="/finance/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-net.svg" productName="Aspose.Finance for .NET">}}
 Aspose.Finance dla platformy .NET to interfejs API przetwarzania formatów związanych z finansami. Tworzy, odczytuje i weryfikuje formaty XBRL i iXBRL, które są wykorzystywane w zarządzaniu procesami biznesowymi, rozwiązaniach do analizy finansowej i raportowania.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/drawing/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productName="Aspose.Drawing for .NET">}}
+{{< blocks/products/pf/total/product-item href="/drawing/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productName="Aspose.Drawing for .NET">}}
 Aspose.Drawing dla platformy .NET to graficzny interfejs API identyczny z GDI+. Można go łatwo zintegrować z rysunkami grafiki wektorowej 2D, takimi jak linie, krzywe i figury, a także tekstu w stylu muti na obrazach rastrowych. API obsługuje powszechnie używane formaty obrazów.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/font/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-net.svg" productName="Aspose.Font for .NET">}}
+{{< blocks/products/pf/total/product-item href="/font/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-net.svg" productName="Aspose.Font for .NET">}}
 Aspose.Font dla platformy .NET to interfejs API do zarządzania i przetwarzania czcionek. Może z łatwością wykonywać operacje na plikach czcionek, takie jak ładowanie czcionek z dysku lub strumienia, odczytywanie glifów i informacji metrycznych, a także wykrywanie symboli łacińskich, renderowanie tekstu za pomocą glifów czcionek i wiele innych.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pl/tex/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-net.svg" productName="Aspose.TeX for .NET">}}
+{{< blocks/products/pf/total/product-item href="/tex/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-net.svg" productName="Aspose.TeX for .NET">}}
 Aspose.TeX dla platformy .NET to API składu plików TeX. Może łatwo składać pliki TeX, aby uzyskać dokumenty w różnych formatach, takich jak XPS, PDF, PNG, JPEG, TIFF i BMP. Oferuje również tworzenie niestandardowych formatów TeX.
 {{< /blocks/products/pf/total/product-item >}}
 

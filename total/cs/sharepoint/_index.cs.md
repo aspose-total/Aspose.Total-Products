@@ -18,31 +18,31 @@ Aspose.Total pro SharePoint je kombinací každé zkompilované aplikace SharePo
 
 {{< blocks/products/pf/total/products description="Aspose.Total for SharePoint pomáhá vaší organizaci mít firemní úložiště dokumentů na technologiích Windows SharePoint Services (WSS) nebo Microsoft Office SharePoint Server (MOSS) pro převod dokumentů uložených v SharePointu do různých formátů dokumentů, ve kterých je vaši uživatelé potřebují." >}}
 
-{{< blocks/products/pf/total/product-item href="/cs/words/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" productName="Aspose.Words for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/words/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" productName="Aspose.Words for SharePoint">}}
 Aspose.Words for SharePoint pomáhá vaší organizaci mít firemní úložiště dokumentů na technologiích Windows SharePoint Services (WSS) nebo Microsoft Office SharePoint Server (MOSS) pro převod dokumentů uložených v SharePointu do různých formátů dokumentů, ve kterých je vaši uživatelé potřebují.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cs/pdf/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-sharepoint.svg" productName="Aspose.PDF for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/pdf/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-sharepoint.svg" productName="Aspose.PDF for SharePoint">}}
 Aspose.PDF pro SharePoint vám dává možnost převádět položky seznamu a stránky wiki do formátu PDF (Portable Document Format).
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cs/cells/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productName="Aspose.Cells for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/cells/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productName="Aspose.Cells for SharePoint">}}
 Aspose.Cells for SharePoint je flexibilní řešení pro manipulaci s tabulkami, které umožňuje vývojářům převádět dokumenty Microsoft Excel v rámci Microsoft SharePoint a podporovat více formátů dokumentů nad rámec nativních podporovaných formátů. Pomáhá vám také distribuovat podnikové znalosti tím, že vám umožňuje převádět soubory uložené na SharePointu do formátů, ve kterých je vaši uživatelé potřebují.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cs/email/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productName="Aspose.Email for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/email/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productName="Aspose.Email for SharePoint">}}
 Aspose.Email pro SharePoint poskytuje množství funkcí, včetně konverze formátu souboru zpráv, extrakce příloh e-mailu, synchronizace e-mailu s poštovními servery a přenosu souborů na server FTP přímo z knihovny dokumentů Microsoft SharePoint.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cs/slides/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-sharepoint.svg" productName="Aspose.Slides for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/slides/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-sharepoint.svg" productName="Aspose.Slides for SharePoint">}}
 Aspose.Slides for SharePoint umožňuje vývojářům číst a převádět soubory PowerPoint (formát PPT, POT, PPS, PPTX, POT a PPSX) v aplikaci SharePoint bez použití aplikace Microsoft PowerPoint. Je zaměřen na vývojáře SharePoint, kteří potřebují převádět různé formáty souborů PowerPoint do formátů PDF, TIFF nebo XPS bez ztráty věrnosti. Je podporován pro práci s WSS 3.0, MOSS 2007 a MOSS 2010.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cs/imaging/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productName="Aspose.Imaging for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/imaging/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productName="Aspose.Imaging for SharePoint">}}
 Aspose.Imaging pro SharePoint přidává do řešení SharePoint možnost zpracování obrázků. Podporuje převod mezi různými formáty souborů obrázků a úpravy obrázků v rámci Microsoft SharePoint Server 2010 a Microsoft SharePoint Foundation 2010.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cs/barcode/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" productName="Aspose.BarCode for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/barcode/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" productName="Aspose.BarCode for SharePoint">}}
 Aspose.BarCode for SharePoint poskytuje jedinečnou a robustní aplikaci pro vylepšení seznamů SharePointu pomocí tohoto systému čárových kódů. Aplikace Barcode SharePoint podporuje více než 40 nejoblíbenějších symbolik čárových kódů včetně lineárních, poštovních a 2D čárových kódů.
 {{< /blocks/products/pf/total/product-item >}}
 

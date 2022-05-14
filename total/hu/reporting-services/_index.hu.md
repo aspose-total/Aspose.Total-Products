@@ -18,23 +18,23 @@ Az Aspose.Total for Reporting Services a Microsoft SQL Server Reporting Services
 
 {{< blocks/products/pf/total/products description="Az Aspose.Total for Reporting Services a következő megjelenítési bővítményeket tartalmazza:" >}}
 
-{{< blocks/products/pf/total/product-item href="/hu/words/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" productName="Aspose.Words for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/words/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" productName="Aspose.Words for Reporting Services">}}
 Az Aspose.Words for Reporting Services támogatja az RDL és RDLC jelentések exportálását OOXML, DOC, RTF és WordprocessingML dokumentumokként a Microsoft SQL Server Reporting Services szolgáltatásból, valamint a Microsoft Report Viewer programból.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hu/pdf/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-reporting-services.svg" productName="Aspose.PDF for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/pdf/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-reporting-services.svg" productName="Aspose.PDF for Reporting Services">}}
 Az Aspose.PDF for Reporting Services egy robusztus megoldás, amely lehetővé teszi PDF jelentések készítését a Microsoft SQL Server Reporting Services szolgáltatásból. A legtöbb RDL-jelentés funkció támogatott, így a fejlesztők a legjobb minőségű PDF-jelentéseket állíthatják elő.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hu/cells/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" productName="Aspose.Cells for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/cells/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" productName="Aspose.Cells for Reporting Services">}}
 Az Aspose.Cells for Reporting Services lehetővé teszi, hogy natív Excel-jelentéseket készítsen a Microsoft SQL Server Reporting Services szolgáltatásból, valamint a Microsoft Report Viewer legnépszerűbb verzióiból.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hu/slides/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-reporting-services.svg" productName="Aspose.Slides for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/slides/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-reporting-services.svg" productName="Aspose.Slides for Reporting Services">}}
 Az Aspose.Slides for Reporting Services az egyetlen megoldás a piacon Microsoft PowerPoint formátumú jelentések készítésére a Microsoft SQL Server Reporting Services szolgáltatásból. Az RDL jelentési funkciók, például táblázatok, mátrixok, diagramok és képek kiváló minőségben konvertálhatók prezentációkká vagy diavetítésekké.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/hu/barcode/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" productName="Aspose.BarCode for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/barcode/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" productName="Aspose.BarCode for Reporting Services">}}
 Az Aspose.BarCode for Reporting Services a legátfogóbb megoldás vonalkódképek megjelenítésére a Microsoft SQL Server Reporting Services szolgáltatáson belül.
 {{< /blocks/products/pf/total/product-item >}}
 
