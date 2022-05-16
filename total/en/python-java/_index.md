@@ -26,7 +26,7 @@ Aspose.Cells for Python via Java is an advanced API to generate, read, write or 
 Aspose.BarCode for Python via Java is a set of barcode APIs to generate and recognize 1D & 2D barcodes from images at any angle within Python applications by using the python-java bridge. Developers can easily add barcode generation and recognition functionality. 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
 Aspose.Diagram for Python via Java is a Microsoft Visio document manipulation solution to create, read, write and export Microsoft Visio formats including VSDX, VDX, VSX, VTX and more formats without Microsoft Visio or any other software installation.
 {{< /blocks/products/pf/total/product-item >}}
 
