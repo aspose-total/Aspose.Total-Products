@@ -6,11 +6,11 @@ description: Python via Java File Format APIs for Excel spreadsheets parsing, ba
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python APIs to Parse Barcodes and Different Files" h2="Manipulate Excel spreadsheets, visio formats including VSDX, VDX, VSX, VTX as well as generate and recognize barcodes of various symbologies without installing any software." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-python-java.svg" pfName="Aspose.Total" subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/total/pythonjava" >}}
+{{< blocks/products/pf/upper-banner h1="Python APIs to Parse Barcodes and Different Files" h2="Manipulate Excel spreadsheets, visio formats including VSDX, VDX, VSX, VTX as well as generate and recognize barcodes of various symbologies without installing any software." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-python-via-java.svg" pfName="Aspose.Total" subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/total/pythonjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Python via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/python-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/pythonjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/pythonjava" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/python-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/pythonjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/pythonjava" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for Python via Java is a compilation of every Python API offered by Aspose. Developers can create, manipulate, render and convert between different document formats within Python applications.
@@ -197,7 +197,7 @@ Aspose.Total is a powerful suite to process nearly all kinds of documents in hig
     {{< blocks/products/pf/offers-section-item link="/total/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
     {{< blocks/products/pf/offers-section-item link="/total/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" sdkName=" Java" >}}
     {{< blocks/products/pf/offers-section-item link="/total/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" sdkName=" C++" >}}
- {{< blocks/products/pf/offers-section-item link="/total/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-aspose_total-for-python-net.svg" sdkName=" Python via .NET" >}}
+ {{< blocks/products/pf/offers-section-item link="/total/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-net.svg" sdkName=" Python via .NET" >}}
     {{< blocks/products/pf/offers-section-item link="/total/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
     {{< blocks/products/pf/offers-section-item link="/total/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
     {{< blocks/products/pf/offers-section-item link="/total/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" sdkName=" JasperReports" >}}

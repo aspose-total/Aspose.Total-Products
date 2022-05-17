@@ -6,11 +6,11 @@ description: Python via .NET File Format APIs for Microsoft Word documents, Powe
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python APIs to Parse Microsoft Word and PowerPoint Files" h2="Manipulate Microsoft Word documents, PowerPoint Presentations and Email Formats such as MSG, EML, EMLX & MHT without installing any software." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-python-net.svg" pfName="Aspose.Total" subTitlepfName="for Python via .NET" downloadUrl="https://downloads.aspose.com/total/pythonnet" >}}
+{{< blocks/products/pf/upper-banner h1="Python APIs to Parse Microsoft Word and PowerPoint Files" h2="Manipulate Microsoft Word documents, PowerPoint Presentations and Email Formats such as MSG, EML, EMLX & MHT without installing any software." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-python-via-net.svg" pfName="Aspose.Total" subTitlepfName="for Python via .NET" downloadUrl="https://downloads.aspose.com/total/pythonnet" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Python via .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/python-net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/pythonnet/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/pythonnet" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/python-net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/pythonnet/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/pythonnet" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for Python via .NET is a compilation of every Python API offered by Aspose. Developers can create, manipulate, render and convert between different document formats within Python applications. Developers can easily implement script-based document automation.
@@ -199,7 +199,7 @@ Aspose.Total is a powerful suite to process nearly all kinds of documents in hig
     {{< blocks/products/pf/offers-section-item link="/total/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
     {{< blocks/products/pf/offers-section-item link="/total/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" sdkName=" C++" >}}
 
- {{< blocks/products/pf/offers-section-item link="/total/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-aspose_total-for-python-java.svg" sdkName=" Python via Java" >}}
+ {{< blocks/products/pf/offers-section-item link="/total/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-java.svg" sdkName=" Python via Java" >}}
     {{< blocks/products/pf/offers-section-item link="/total/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
     {{< blocks/products/pf/offers-section-item link="/total/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
     {{< blocks/products/pf/offers-section-item link="/total/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" sdkName=" JasperReports" >}}
