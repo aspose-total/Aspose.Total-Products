@@ -41,7 +41,7 @@ Laden Sie die JPEG-Datei mithilfe der Klasse [Image](https://apireference.aspose
 
 {{% blocks/products/pf/feature-page-section  h2="Konvertieren Sie Excel in Word und PowerPoint" %}}
 
-Zum Konvertieren von Microsoft Excel-Formaten in verschiedene Dateien, einschließlich Word und PowerPoint, sind relevante Unter-APIs in die Haupt-API von Aspose.Total für .NET eingebunden. Prozess zum Konvertieren von Excel-Dateien in ein Word-Dokument, laden Sie die EXCEL-Datei mit der Klasse [Workbook] (https://apireference.aspose.com/cells/net/aspose.cells/workbook) und konvertieren Sie EXCEL zuerst in PDF und setzen Sie SaveFormat auf Auto. Laden Sie dann die konvertierte PDF-Datei mit der Document-Klasse, rufen Sie die Save-Methode auf und legen Sie Doc, Docx als SaveFormat fest. Der Code ist auch für die Konvertierung von Microsoft **Excel in Powerpoint** aufgeführt.
+Zum Konvertieren von Microsoft Excel-Formaten in verschiedene Dateien, einschließlich Word und PowerPoint, sind relevante Unter-APIs in die Haupt-API von Aspose.Total für .NET eingebunden. Prozess zum Konvertieren von Excel-Dateien in ein Word-Dokument, laden Sie die EXCEL-Datei mit der Klasse [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) und konvertieren Sie EXCEL zuerst in PDF und setzen Sie SaveFormat auf Auto. Laden Sie dann die konvertierte PDF-Datei mit der Document-Klasse, rufen Sie die Save-Methode auf und legen Sie Doc, Docx als SaveFormat fest. Der Code ist auch für die Konvertierung von Microsoft **Excel in Powerpoint** aufgeführt.
 
 {{% blocks/products/pf/feature-page-code h3="C# - JSON-zu-Excel-Konvertierung" %}}
 

@@ -26,7 +26,7 @@ L'API Total prend en charge non seulement l'interconversion des formats Microsof
 
 
 {{% blocks/products/pf/feature-page-section  h2="Convertir des PDF en images" %}}
-L'API prend en charge la conversion de PDF en images, Powerpoint, Excel et d'autres formats. Pour la conversion PDF en image, considérons l'image JPG comme fichier cible. Le processus consiste à charger le fichier PDF à l'aide de la classe Document et à initialiser l'objet [classe JpegDevice] (https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) et à rendre le PDF au format JPEG via [Processus] (https ://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) méthode
+L'API prend en charge la conversion de PDF en images, Powerpoint, Excel et d'autres formats. Pour la conversion PDF en image, considérons l'image JPG comme fichier cible. Le processus consiste à charger le fichier PDF à l'aide de la classe Document et à initialiser l'objet [classe JpegDevice](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) et à rendre le PDF au format JPEG via [Processus](https ://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) méthode
 Chargez le fichier JPEG en utilisant la classe [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) et enfin appelez la méthode Save.
 
 {{% blocks/products/pf/feature-page-code h3="C# - Conversion de PDF en image" %}}

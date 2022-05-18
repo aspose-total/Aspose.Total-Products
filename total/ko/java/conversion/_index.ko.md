@@ -13,7 +13,7 @@ description: 몇 줄의 Java 코드로 Microsoft Office Word, Excel, PowerPoint,
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{% blocks/products/pf/feature-page-section  h2="워드를 엑셀로 변환" %}}
-Total API는 Microsoft Word 형식의 상호 변환은 물론 Word를 Excel, PDF, HTML, 이미지, EPUB, Markdown 및 XPS로 변환하는 기능도 지원합니다. 변환 과정은 간단합니다. **Word to Excel** 변환의 경우를 생각해 봅시다. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) 클래스를 사용하여 Microsoft Word 파일을 로드하고 [Save method](https: //apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)). 다음으로 [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) 클래스를 사용하여 변환된 HTML 문서를 열고 [저장](https:/ /apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) 메서드.
+Total API는 Microsoft Word 형식의 상호 변환은 물론 Word를 Excel, PDF, HTML, 이미지, EPUB, Markdown 및 XPS로 변환하는 기능도 지원합니다. 변환 과정은 간단합니다. **Word to Excel** 변환의 경우를 생각해 봅시다. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) 클래스를 사용하여 Microsoft Word 파일을 로드하고 [Save method](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)). 다음으로 [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) 클래스를 사용하여 변환된 HTML 문서를 열고 [저장](https:/ /apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) 메서드.
  개발자는 [Word를 PDF로](https://products.aspose.com/words/java/conversion/word-to-pdf/)로 변환할 수도 있습니다.
 
 

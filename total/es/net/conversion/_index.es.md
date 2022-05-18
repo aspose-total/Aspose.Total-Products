@@ -13,7 +13,7 @@ description: Convierta Microsoft Word, Excel, PowerPoint, Outlook, PDF, HTML, im
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convertir Word a PDF" %}}
-Total API admite no solo la interconversión de formatos de Microsoft Word, sino también la conversión de Word a PDF, HTML, imágenes, EPUB, Markdown y XPS. El proceso de conversión es simple. Cargue el documento a través de la clase Documento y simplemente llame al método Guardar con el formato de destino. Es tan simple. Los desarrolladores pueden verificar el [resultado de la conversión] (https://products.aspose.com/words/net/conversion/word-to-pdf/) antes de la integración del código de **Word to PDF**
+Total API admite no solo la interconversión de formatos de Microsoft Word, sino también la conversión de Word a PDF, HTML, imágenes, EPUB, Markdown y XPS. El proceso de conversión es simple. Cargue el documento a través de la clase Documento y simplemente llame al método Guardar con el formato de destino. Es tan simple. Los desarrolladores pueden verificar el [resultado de la conversión](https://products.aspose.com/words/net/conversion/word-to-pdf/) antes de la integración del código de **Word to PDF**
 
 
 {{% blocks/products/pf/feature-page-code h3="C# - Conversión de Word a PDF" %}}

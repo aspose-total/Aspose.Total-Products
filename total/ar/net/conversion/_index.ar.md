@@ -13,7 +13,7 @@ description: قم بتحويل ملفات Microsoft Word و Excel و PowerPoint 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{% blocks/products/pf/feature-page-section  h2="تحويل Word إلى PDF" %}}
-لا يدعم Total API التحويل البيني لتنسيقات Microsoft Word فحسب ، بل يدعم أيضًا تحويل Word إلى PDF و HTML و Images و EPUB و Markdown و XPS. عملية التحويل بسيطة. قم بتحميل المستند عبر فئة المستند واتصل فقط بطريقة الحفظ بالتنسيق الهدف. في غاية البساطة. يمكن للمطورين التحقق من [نتيجة التحويل] (https://products.aspose.com/words/net/conversion/word-to-pdf/) قبل تكامل التعليمات البرمجية ** من Word إلى PDF **
+لا يدعم Total API التحويل البيني لتنسيقات Microsoft Word فحسب ، بل يدعم أيضًا تحويل Word إلى PDF و HTML و Images و EPUB و Markdown و XPS. عملية التحويل بسيطة. قم بتحميل المستند عبر فئة المستند واتصل فقط بطريقة الحفظ بالتنسيق الهدف. في غاية البساطة. يمكن للمطورين التحقق من [نتيجة التحويل](https://products.aspose.com/words/net/conversion/word-to-pdf/) قبل تكامل التعليمات البرمجية ** من Word إلى PDF **
 
 
 {{% blocks/products/pf/feature-page-code h3="C # - تحويل Word إلى PDF" %}}
@@ -26,8 +26,8 @@ description: قم بتحويل ملفات Microsoft Word و Excel و PowerPoint 
 
 
 {{% blocks/products/pf/feature-page-section  h2="تحويل ملفات PDF إلى صور" %}}
-تدعم واجهة برمجة التطبيقات تحويل ملفات PDF إلى صور و Powerpoint و Excel وتنسيقات أخرى. لتحويل PDF إلى صورة ، دعنا نعتبر صورة JPG كملف هدف. العملية هي تحميل ملف PDF باستخدام فئة المستند وتهيئة كائن [JpegDevice class] (https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) وتقديم ملف PDF إلى JPEG عبر [معالجة] (https : //apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) طريقة
-قم بتحميل ملف JPEG باستخدام فئة [صورة] (https://apireference.aspose.com/imaging/net/aspose.imaging/image) وأخيراً استدعاء طريقة Save.
+تدعم واجهة برمجة التطبيقات تحويل ملفات PDF إلى صور و Powerpoint و Excel وتنسيقات أخرى. لتحويل PDF إلى صورة ، دعنا نعتبر صورة JPG كملف هدف. العملية هي تحميل ملف PDF باستخدام فئة المستند وتهيئة كائن [JpegDevice class](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) وتقديم ملف PDF إلى JPEG عبر [معالجة](https://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) طريقة
+قم بتحميل ملف JPEG باستخدام فئة [صورة](https://apireference.aspose.com/imaging/net/aspose.imaging/image) وأخيراً استدعاء طريقة Save.
 
 {{% blocks/products/pf/feature-page-code h3="C # - تحويل PDF إلى صورة" %}}
 
@@ -41,7 +41,7 @@ description: قم بتحويل ملفات Microsoft Word و Excel و PowerPoint 
 
 {{% blocks/products/pf/feature-page-section  h2="تحويل Excel إلى Word و PowerPoint" %}}
 
-لتحويل تنسيقات Microsoft Excel إلى ملفات مختلفة بما في ذلك Word و PowerPoint ، فإن واجهات برمجة التطبيقات الفرعية ذات الصلة تمت الموافقة عليها من Aspose.Total لـ .NET API. عملية تحويل ملفات Excel إلى مستند Word ، قم بتحميل ملف EXCEL باستخدام فئة [Workbook] (https://apireference.aspose.com/cells/net/aspose.cells/workbook) وقم بتحويل EXCEL إلى PDF أولاً وقم بتعيين SaveFormat على Auto. ثم قم بتحميل ملف PDF المحول باستخدام فئة المستند واستدعاء طريقة الحفظ وتعيين Doc و Docx كـ SaveFormat. تم إدراج الرمز أيضًا لتحويل Microsoft ** Excel إلى Powerpoint **.
+لتحويل تنسيقات Microsoft Excel إلى ملفات مختلفة بما في ذلك Word و PowerPoint ، فإن واجهات برمجة التطبيقات الفرعية ذات الصلة تمت الموافقة عليها من Aspose.Total لـ .NET API. عملية تحويل ملفات Excel إلى مستند Word ، قم بتحميل ملف EXCEL باستخدام فئة [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) وقم بتحويل EXCEL إلى PDF أولاً وقم بتعيين SaveFormat على Auto. ثم قم بتحميل ملف PDF المحول باستخدام فئة المستند واستدعاء طريقة الحفظ وتعيين Doc و Docx كـ SaveFormat. تم إدراج الرمز أيضًا لتحويل Microsoft ** Excel إلى Powerpoint **.
 
 {{% blocks/products/pf/feature-page-code h3="C # - تحويل JSON إلى Excel" %}}
 

@@ -27,7 +27,7 @@ Total API prend en charge non seulement la conversion inter des formats Microsof
 
 
 {{% blocks/products/pf/feature-page-section  h2="Convertir des PDF en images" %}}
-L'API prend en charge la conversion de PDF en images telles que JPEG2000, EMZ, WMZ, TGA, PSD, DXF, WMF, SVGZ, APNG, DICOM, Powerpoint, Excel et d'autres formats. Pour la conversion PDF en image, considérons l'image JPG comme fichier cible. Le processus consiste à charger le fichier PDF à l'aide de la classe Document et à initialiser l'objet [classe JpegDevice] (https://apireference.aspose.com/pdf/java/aspose.pdf.devices/jpegdevice) et à rendre le PDF au format JPEG via [Process] (https ://apireference.aspose.com/pdf/java/aspose.pdf.devices.pagedevice/process/methods/1) méthode
+L'API prend en charge la conversion de PDF en images telles que JPEG2000, EMZ, WMZ, TGA, PSD, DXF, WMF, SVGZ, APNG, DICOM, Powerpoint, Excel et d'autres formats. Pour la conversion PDF en image, considérons l'image JPG comme fichier cible. Le processus consiste à charger le fichier PDF à l'aide de la classe Document et à initialiser l'objet [classe JpegDevice](https://apireference.aspose.com/pdf/java/aspose.pdf.devices/jpegdevice) et à rendre le PDF au format JPEG via [Process](https ://apireference.aspose.com/pdf/java/aspose.pdf.devices.pagedevice/process/methods/1) méthode
 Chargez le fichier JPEG à l'aide de la classe [Image](https://apireference.aspose.com/imaging/java/aspose.imaging/image) et appelez enfin la méthode Save.
 
 {{% blocks/products/pf/feature-page-code h3="Java PDF to Image Conversion" %}}

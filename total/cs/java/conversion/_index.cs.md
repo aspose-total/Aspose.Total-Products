@@ -13,8 +13,8 @@ description: Převádějte aplikace Microsoft Office Word, Excel, PowerPoint, Ou
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Konverze z Wordu do Excelu" %}}
-Total API podporuje nejen inter konverzi formátů Microsoft Word, ale také konverzi Wordu do Excelu, PDF, HTML, obrázků, EPUB, Markdown a XPS. Proces konverze je jednoduchý. Podívejme se na případ převodu **Word do Excelu**. Načtěte soubor Microsoft Word pomocí třídy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) a převeďte **WORD do HTML** pomocí [Metoda uložení](https: //apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)). Dále otevřete převedený dokument HTML pomocí třídy [Sešit](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) a uložte dokument do formátu XLSX pomocí [Uložit](https:/ /apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)).
- Vývojáři mohou také převést [Word do PDF] (https://products.aspose.com/words/java/conversion/word-to-pdf/).
+Total API podporuje nejen inter konverzi formátů Microsoft Word, ale také konverzi Wordu do Excelu, PDF, HTML, obrázků, EPUB, Markdown a XPS. Proces konverze je jednoduchý. Podívejme se na případ převodu **Word do Excelu**. Načtěte soubor Microsoft Word pomocí třídy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) a převeďte **WORD do HTML** pomocí [Metoda uložení](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)). Dále otevřete převedený dokument HTML pomocí třídy [Sešit](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) a uložte dokument do formátu XLSX pomocí [Uložit](https:/ /apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)).
+ Vývojáři mohou také převést [Word do PDF](https://products.aspose.com/words/java/conversion/word-to-pdf/).
 
 
 {{% blocks/products/pf/feature-page-code h3="Java Konverze z Wordu do Excelu" %}}
