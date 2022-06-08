@@ -1,12 +1,12 @@
 ---
-title: Python via Java File Format Processing APIs - Aspose 
+title: Python File Automation Libraries - Aspose
 weight: 50
 url_ignore: /python-java/ 
-description: Python File Format APIs for Excel spreadsheets parsing, barcode generation and scanning as well as Visio diagram processing
+description: Python libraries for Excel spreadsheets parsing, barcode generation and scanning as well as Visio diagram processing
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python APIs to Parse Excel & Visio Files" h2="Manipulate Excel spreadsheets and Visio diagram files as well as generate and recognize barcodes of various symbologies." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-python-via-java.svg" pfName="Aspose.Total" subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/total/pythonjava" >}}
+{{< blocks/products/pf/upper-banner h1="Python Automation Solution for Excel, Visio & Barcodes" h2="Manipulate Excel spreadsheets and Visio diagram files as well as generate and recognize barcodes of various symbologies." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-python-via-java.svg" pfName="Aspose.Total" subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/total/pythonjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Python via Java" >}}
 
@@ -19,35 +19,35 @@ Aspose.Total for Python via Java is a complete suite for Python developers to cr
 {{< blocks/products/pf/total/products description="Aspose.Total for Python via Java includes the following high-code APIs:" >}}
 
 {{< blocks/products/pf/total/product-item href="/cells/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
-An Excel API for Python developers to automation processes like generation, reading, writiting or manipulation of spreadsheets. Export Excel files to multiple formats from within Python applications without depending on Microsoft Excel. It can also render worksheets to XPS, PDF, MHTML, HTML, Plain Text, images and more. 
+An Excel Python library to automate processes like generation, manipulation & conversion of spreadsheets. It can also render worksheets to XPS, PDF, MHTML, HTML, Plain Text and images. 
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/barcode/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
-Python barcode APIs to generate and recognize 1D & 2D barcodes from images at any angle from within Python applications by using the python-java bridge. Developers can easily add barcode generation and recognition functionality to their own Python Apps. 
+Python Barcode library to generate and recognize 1D & 2D barcodes from images at any angle from within Python applications by using python-java bridge. Developers can easily add barcode generation and recognition functionality to their own Python Apps. 
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/diagram/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
-A Python API for Microsoft Visio document manipulation. This solution helps in creating, reading, writing and exporting Microsoft Visio formats including VSDX, VDX, VSX, VTX and more without needing Microsoft Visio or any other software.
+Python Diagram library that helps in creating, reading, writing and exporting Microsoft Visio VSDX, VDX, VSX, VTX and other formats without needing Microsoft Visio or any other software.
 {{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->
 <h2 class="pr-ft">
  <a class="anchor" id="features" name="features">
  </a>
- Advanced Features of Aspose.Total for Python via Java APIs
+ Features of Aspose.Total for Python via Java APIs
 </h2>
 <div class="col-lg-4">
  <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
  </em>
  <p class="col-lg-10">
-  Read Excel spreadsheets via Python
+  Read & write Excel & OpenOffice spreadsheets via Python
  </p>
 </div>
 <div class="col-lg-4">
  <em class="fa fa-share ico-blue fa-2x col-lg-2">
  </em>
  <p class="col-lg-10">
-  Convert Spreadsheets to PDF, EMF and Images
+  Convert Spreadsheets to PDF, EMF, XPS and images
  </p>
 </div>
 <div class="col-lg-4">
@@ -125,24 +125,30 @@ A Python API for Microsoft Visio document manipulation. This solution helps in c
 
 <div class="col-lg-12">
  <h2 class="h2title">
-  Process a Multitude of File Formats
+  Process All Popular File Categories
  </h2>
  <p>
-    Develop a versatile document processing system capable of handling multiple formats. One can easily create, read, modify and inter-convert popular formats from Excel & Visio applications formats.
- </p>
- <p>
-  Aspose.Total for Python via Java currently supports the following file types.
+  Aspose.Total for Python via .NET can handle multitude of file formats. 
  </p>
  <ul class="unstyled">
   
   <li>
-   Microsoft Excel spreadsheets
+   <b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML, CSV, TSV
   </li>
   <li>
-   Microsoft Visio Formats
+   <b>Microsoft Visio:</b> VSDX, VDX, VSX, VTX, VSSX, VSTX, VSDM, VSSM, VSTM, VDW, VSD, VSS, VST
   </li>  
   <li>
-   Generate and Recognize 1D, 2D BarCodes of various Symbologies
+   <b>OpenOffice:</b> ODS
+  </li>
+  <li>
+   <b>Web:</b> HTML, MHTML
+  </li>
+  <li>
+   <b>Fixed Layout:</b> PDF, PDF/A, XPS
+  </li>
+  <li>
+   <b>Images:</b> TIFF, JPEG, PNG, BMP, SVG, EMF, GIF, SVG
   </li>
  </ul>
 </div>

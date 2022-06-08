@@ -6,56 +6,59 @@ description: Python APIs for Microsoft Word documents, PowerPoint presentations 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python APIs to Automate Microsoft Word and PowerPoint Files" h2="Manipulate Microsoft Word documents, PowerPoint presentations and Outlook email Formats" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-python-via-net.svg" pfName="Aspose.Total" subTitlepfName="for Python via .NET" downloadUrl="https://downloads.aspose.com/total/pythonnet" >}}
+{{< blocks/products/pf/upper-banner h1="Python APIs to Automate Microsoft Word, PowerPoint, Outlook and 3D Files" h2="Create, edit or convert documents, presentations, emails 3D & CAD files using Python" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-python-via-net.svg" pfName="Aspose.Total" subTitlepfName="for Python via .NET" downloadUrl="https://downloads.aspose.com/total/pythonnet" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Python via .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/python-net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/pythonnet/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/pythonnet" >}}
 
 {{< blocks/products/pf/total/overview >}}
-A Python API suite to create, manipulate, render and convert between different document formats from within Python applications for document automation.
+Document Automation libraries for Python that helps in creating apps with the ability to create, edit or convert DOC, DOCX, PPT, PPTX, EML, MSG, 3D and other formats from within Python apps.
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Total for Python via .NET includes the following file format APIs:" >}}
+{{< blocks/products/pf/total/products description="Aspose.Total for Python via .NET includes" >}}
 
 {{< blocks/products/pf/total/product-item href="/words/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
-An advanced Python API to generate, update, render and export Word files including DOC, DOCX and ODT documents to multiple formats using Python. Moreover, create reports and visualize your data without using external software. 
+Standalone Python library for Word Processing formats from Microsoft Word & OpenOffice. Allows to create reports using MailMerge, generate and edit documents, render or export files including DOC, DOCX and ODT to images, PDF, HTML and several other formats.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/email/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
-An Email Programming API for Python developers to create, manipulate or convert common email formats. It can also be for basic email management features such as message content editing and attachment manipulation. Developers can easily send and receive emails through different protocols including POP3, IMAP & SMTP.
+An Email Python library that helps in creation, manipulation or conversion of email messages & email archives. Also provides email management features such as message editing and attachment manipulation. Developers can use it to send or receive emails through POP3, IMAP & SMTP.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/slides/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
-A PowerPoint file management API for Python that can help create, read, write, modify, merge, clone, protect & convert PowerPoint and OpenOffice presentations without any dependency.
+Python library for PowerPoint & OpenOffice presentation formats that can help create, read, write, modify, merge, clone, protect & convert PPT, PPTX and ODP files to images, fixed-layout & web formats.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/3d/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
+A Python 3D API that can create, edit ot convert Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco file formats without any dependency.
+{{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->
 <h2 class="pr-ft">
  <a class="anchor" id="features" name="features">
  </a>
- Advanced Features of Aspose.Total for Python via .NET APIs
+ Features of Aspose.Total for Python via .NET APIs
 </h2>
 <div class="col-lg-4">
  <em class="fa fa-recycle ico-blue fa-2x col-lg-2">
  </em>
  <p class="col-lg-10">
-  Render documents & presentations to fixed-layout formats
+  Render in PDF and images with highest fidelity
  </p>
 </div>
 <div class="col-lg-4">
  <em class="fa fa-columns ico-blue fa-2x col-lg-2">
  </em>
  <p class="col-lg-10">
-  Compare Word documents via Python
+  Compare documents for text or styling
  </p>
 </div>
 <div class="col-lg-4">
  <em class="fa fa-shield ico-blue fa-2x col-lg-2">
  </em>
  <p class="col-lg-10">
-  Protect or encrypt Word documents
+  Protect or encrypt documents & presentations
  </p>
 </div>
 <div class="col-lg-4">
@@ -120,30 +123,42 @@ A PowerPoint file management API for Python that can help create, read, write, m
  <em class="fa fa-database ico-blue fa-2x col-lg-2">
  </em>
  <p class="col-lg-10">
-  Manipulate message storage files
+  Create or manipulate 3D & CAD files
  </p>
 </div>
 
 <div class="col-lg-12">
  <h2 class="h2title">
-  Process a Multitude of File Formats
+  Process All Popular File Categories
  </h2>
  <p>
-  Ddevelop a versatile document processing system capable of handling multiple formats including DOC, DOCX, PPT, PPTX, MSG, EML and many more. 
- </p>
- <p>
-  Aspose.Total for Python via .NET currently supports the following file types.
+  Aspose.Total for Python via .NET can handle multitude of file formats. 
  </p>
  <ul class="unstyled">
   
   <li>
-   Microsoft Word Documents
+   <b>Microsoft Word:</b> DOC, DOCX, RTF, DOT, DOTX, DOTM, DOCM FlatOPC, FlatOpcMacroEnabled, FlatOpcTemplate, FlatOpcTemplateMacroEnabled
   </li>
   <li>
-   Microsoft PowerPoint Presentations
+   <b>Microsoft PowerPoint:</b> PPT, PPTX, PPS, POT, PPSX, PPTM, PPSM, POTX, POTM
   </li>  
   <li>
-   Microsoft Outlook Files as well as OLM, ICS, VCF, HTML, MHTML Formats
+   <b>Microsoft Outlook:</b> MSG, PST, OST, OFT, EML, EMLX, MBOX, ICS, VCF
+  </li>
+  <li>
+   <b>OpenOffice:</b> ODT, OTT, ODP
+  </li>
+  <li>
+   <b>Web:</b> HTML, MHTML
+  </li>
+  <li>
+   <b>Fixed Layout:</b> PDF, PDF/A, XPS, OpenXPS, PostScript (PS)
+  </li>
+  <li>
+   <b>Images:</b> TIFF, JPEG, PNG, BMP, SVG, EMF, GIF
+  </li>
+  <li>
+   <b>3D & CAD:</b> FBX, STL, 3DS, U3D, DAE, glTF, DRC, RVM, AMF, PLY
   </li>
  </ul>
 </div>
