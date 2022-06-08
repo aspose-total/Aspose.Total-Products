@@ -43,13 +43,13 @@ API รองรับการแปลง PDF เป็นรูปภาพ, 
 
 สำหรับการแปลงรูปแบบ Microsoft Excel เป็นไฟล์ต่างๆ รวมถึง Word และ PowerPoint API ย่อยที่เกี่ยวข้องซึ่งเกี่ยวข้องกับ Aspose.Total หลักสำหรับ .NET API ขั้นตอนการแปลงไฟล์ Excel เป็นเอกสาร Word โหลดไฟล์ EXCEL โดยใช้คลาส [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) และแปลง EXCEL เป็น PDF ก่อน แล้วตั้งค่า SaveFormat เป็น Auto จากนั้นโหลดไฟล์ PDF ที่แปลงแล้วโดยใช้คลาสเอกสารแล้วเรียกเมธอดบันทึกและตั้งค่า Doc, Docx เป็น SaveFormat รหัสยังระบุไว้สำหรับการแปลง Microsoft **Excel เป็น Powerpoint**
 
-{{% blocks/products/pf/feature-page-code h3="C # - การแปลง JSON เป็น Excel" %}}
+{{% blocks/products/pf/feature-page-code h3="C# - การแปลง JSON เป็น Excel" %}}
 
 {{< gist "aspose-com-gists" "73f7662392c88a80941c930db836cd58" "convert-excel-to-word.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code %}}
 
-{{% blocks/products/pf/feature-page-code h3="C # - การแปลง Excel เป็น JSON" %}}
+{{% blocks/products/pf/feature-page-code h3="C# - การแปลง Excel เป็น JSON" %}}
 
 {{< gist "aspose-com-gists" "73f7662392c88a80941c930db836cd58" "convert-excel-to-powerpoint.cs" >}}
 
