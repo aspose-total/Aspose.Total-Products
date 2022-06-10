@@ -16,10 +16,10 @@ otherformats: OTT TEXT PNG EPUB PCL DOC PS DOTX DOT FLATOPC MD DOCM DOTM RTF EMF
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل البريد الإلكتروني إلى XPS" %}}
-1. افتح ملف EMAIL باستخدام فئة [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)
-2. تحويل EMAIL إلى HTML باستخدام [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save (java.io.OutputStream،٪20com.aspose.email.SaveOptions)) طريقة
-3. قم بتحميل HTML باستخدام فئة [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. احفظ المستند بتنسيق XPS باستخدام [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save (java.lang.String، com.aspose.words.SaveOptions)) وضبط XPS على أنه SaveFormat
+1. افتح ملف EMAIL باستخدام فئة [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. تحويل EMAIL إلى HTML باستخدام [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save (java.io.OutputStream،٪20com.aspose.email.SaveOptions)) طريقة
+3. قم بتحميل HTML باستخدام فئة [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. احفظ المستند بتنسيق XPS باستخدام [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save (java.lang.String، com.aspose.words.SaveOptions)) وضبط XPS على أنه SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
 يجب عليك استخدام Aspose.Total for Java مباشرة من مشروع قائم على [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) وتضمين مكتبات في ملفك pom.xml.

@@ -18,10 +18,10 @@ otherformats: DOT ODT WORDML JPEG PCL EMF TEXT RTF EPUB FLATOPC PDF SVG GIF OTT 
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="सी # एपीआई ईमेल को बीएमपी में कनवर्ट करने के लिए" %}}
-1. [MailMessage](https://apireference.aspose.com/msg/net/aspose.msg/mailmessage) वर्ग का उपयोग करके MSG फ़ाइल खोलें
-2. [MailMessage.Save](https://apireference.aspose.com/msg/net/aspose.msg.mailmessage/save/methods/3) विधि का उपयोग करके MSG को HTML में बदलें
-3. [Document](https://apireference.aspose.com/words/net/aspose.words/document) वर्ग का उपयोग करके HTML लोड करें
-4. [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) विधि का उपयोग करके दस्तावेज़ को PDF प्रारूप में सहेजें और Pdf को SaveFormat के रूप में सेट करें
+1. [MailMessage](https://reference.aspose.com/msg/net/aspose.msg/mailmessage) वर्ग का उपयोग करके MSG फ़ाइल खोलें
+2. [MailMessage.Save](https://reference.aspose.com/msg/net/aspose.msg.mailmessage/save/methods/3) विधि का उपयोग करके MSG को HTML में बदलें
+3. [Document](https://reference.aspose.com/words/net/aspose.words/document) वर्ग का उपयोग करके HTML लोड करें
+4. [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) विधि का उपयोग करके दस्तावेज़ को PDF प्रारूप में सहेजें और Pdf को SaveFormat के रूप में सेट करें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
@@ -47,7 +47,7 @@ document.Save("output.pdf", SaveFormat.Pdf);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2=".NET के माध्यम से ईमेल फ़ाइल को पार्स करें" %}}
-MSG को PDF में बदलने से पहले, यदि आप यह सुनिश्चित करना चाहते हैं कि आप सही ईमेल परिवर्तित कर रहे हैं, तो आप MSG दस्तावेज़ लोड कर सकते हैं, उसे पार्स कर सकते हैं और अपनी वांछित संपत्ति पर एक नज़र डाल सकते हैं। [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) वर्ग [Aspose.Email for .NET](https://products.aspose.com/msg) का उपयोग करके /net/) एपीआई, आप प्रेषक और प्राप्तकर्ताओं की जानकारी प्राप्त कर सकते हैं। उदाहरण के लिए, आप [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername) प्रॉपर्टी का इस्तेमाल करके कन्वर्ज़न के लिए किसी खास ईमेल भेजने वाले की जांच कर सकते हैं।  
+MSG को PDF में बदलने से पहले, यदि आप यह सुनिश्चित करना चाहते हैं कि आप सही ईमेल परिवर्तित कर रहे हैं, तो आप MSG दस्तावेज़ लोड कर सकते हैं, उसे पार्स कर सकते हैं और अपनी वांछित संपत्ति पर एक नज़र डाल सकते हैं। [MapiMessage](https://reference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) वर्ग [Aspose.Email for .NET](https://products.aspose.com/msg) का उपयोग करके /net/) एपीआई, आप प्रेषक और प्राप्तकर्ताओं की जानकारी प्राप्त कर सकते हैं। उदाहरण के लिए, आप [SenderName](https://reference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername) प्रॉपर्टी का इस्तेमाल करके कन्वर्ज़न के लिए किसी खास ईमेल भेजने वाले की जांच कर सकते हैं।  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -63,7 +63,7 @@ if(outlookMessageFile.SenderName == "John"){
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2=".NET के माध्यम से PDF दस्तावेज़ संपादन प्रतिबंधित करें" %}}
-दस्तावेज़ को MSG से PDF में सहेजते समय, आपको अपने आउटपुट दस्तावेज़ को सुरक्षित रखने की आवश्यकता हो सकती है। कभी-कभी आपको किसी दस्तावेज़ को संपादित करने की क्षमता को सीमित करना पड़ सकता है और इसके साथ केवल कुछ क्रियाओं की अनुमति देनी पड़ सकती है। यह अन्य लोगों को आपके दस्तावेज़ में संवेदनशील और गोपनीय जानकारी को संपादित करने से रोकने के लिए उपयोगी हो सकता है। [Aspose.Words for .NET](https://products.aspose.com/words/net/) API, आपको [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype)  का उपयोग करके सामग्री को प्रतिबंधित करने के तरीके को नियंत्रित करने में सक्षम बनाता है  एन्यूमरेशन पैरामीटर। आप कोड की निम्नलिखित पंक्तियों का उपयोग करके अपने दस्तावेज़ को केवल-पढ़ने के लिए सेट कर सकते हैं। 
+दस्तावेज़ को MSG से PDF में सहेजते समय, आपको अपने आउटपुट दस्तावेज़ को सुरक्षित रखने की आवश्यकता हो सकती है। कभी-कभी आपको किसी दस्तावेज़ को संपादित करने की क्षमता को सीमित करना पड़ सकता है और इसके साथ केवल कुछ क्रियाओं की अनुमति देनी पड़ सकती है। यह अन्य लोगों को आपके दस्तावेज़ में संवेदनशील और गोपनीय जानकारी को संपादित करने से रोकने के लिए उपयोगी हो सकता है। [Aspose.Words for .NET](https://products.aspose.com/words/net/) API, आपको [ProtectionType](https://reference.aspose.com/words/net/aspose.words/protectiontype)  का उपयोग करके सामग्री को प्रतिबंधित करने के तरीके को नियंत्रित करने में सक्षम बनाता है  एन्यूमरेशन पैरामीटर। आप कोड की निम्नलिखित पंक्तियों का उपयोग करके अपने दस्तावेज़ को केवल-पढ़ने के लिए सेट कर सकते हैं। 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

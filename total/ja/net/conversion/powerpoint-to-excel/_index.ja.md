@@ -18,10 +18,10 @@ otherformats: XLS TSV DIF EXCEL XLTX XLSB XLSM XLT FODS XLAM SXC XLSX MARKDOWN M
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C＃を介してPOWERPOINTをEXCELに変換する方法" %}}
-1. [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)クラスを使用してPOWERPOINTファイルを開きます
-2. [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)メソッドを使用してPOWERPOINTをHTMLとしてエクスポートします
-3. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
-4. [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをEXCELに保存します
+1. [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)クラスを使用してPOWERPOINTファイルを開きます
+2. [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)メソッドを使用してPOWERPOINTをHTMLとしてエクスポートします
+3. [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
+4. [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをEXCELに保存します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

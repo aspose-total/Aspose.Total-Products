@@ -16,10 +16,10 @@ otherformats: RTF OTT DOTMX WORDML DOTMM DOTM DOT ODT WORD DOTX FLATOPC TEXT
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hoe POWERPOINT naar DOTM te converteren via Java" %}}
-1. Open het POWERPOINT-bestand met de klasse [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Converteer POWERPOINT naar HTML met behulp van [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) methode en stel Html in als SaveFormat
-3. Laad het geconverteerde HTML-bestand met de klasse [Dotmument](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument)
-4. Sla het dotmument op in DOTM-indeling met de methode [save](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,int))
+1. Open het POWERPOINT-bestand met de klasse [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. Converteer POWERPOINT naar HTML met behulp van [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) methode en stel Html in als SaveFormat
+3. Laad het geconverteerde HTML-bestand met de klasse [Dotmument](https://reference.aspose.com/words/java/com.aspose.words/Dotmument)
+4. Sla het dotmument op in DOTM-indeling met de methode [save](https://reference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
 Voor POWERPOINT-naar-DOTM-bestandsconversie kunt u Aspose.Total voor Java eenvoudig rechtstreeks vanuit een [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) gebaseerd project en neem bibliotheken op in uw pom.xml.
@@ -34,7 +34,7 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Conversievereisten" %}}
-Met behulp van de API kunt u ook een POWERPOINT-bestand naar DOTM-conversie met watermerk uitvoeren. Om een watermerk aan uw DOTM-dotmument toe te voegen, kunt u het POWERPOINT-bestand eerst naar HTML converteren en er een watermerk aan toevoegen. Om een watermerk toe te voegen, laadt u het nieuw gemaakte HTML-bestand met de klasse [Dotmument](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument), maakt u een instantie van TextWatermarkOptions en stelt u zijn eigenschappen, Bel de methode Watermark.setText en geef de watermerktekst en het object van TextWatermarkOptions door.  
+Met behulp van de API kunt u ook een POWERPOINT-bestand naar DOTM-conversie met watermerk uitvoeren. Om een watermerk aan uw DOTM-dotmument toe te voegen, kunt u het POWERPOINT-bestand eerst naar HTML converteren en er een watermerk aan toevoegen. Om een watermerk toe te voegen, laadt u het nieuw gemaakte HTML-bestand met de klasse [Dotmument](https://reference.aspose.com/words/java/com.aspose.words/Dotmument), maakt u een instantie van TextWatermarkOptions en stelt u zijn eigenschappen, Bel de methode Watermark.setText en geef de watermerktekst en het object van TextWatermarkOptions door.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}

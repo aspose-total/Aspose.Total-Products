@@ -18,10 +18,10 @@ otherformats: DOCX PDF DOC PCL JPEG FLATOPC TIFF TEXT DOCM PS EPUB SVG DOTX DOTM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API για Μετατροπή EML σε DOTM" %}}
-1. Ανοίξτε το αρχείο EML χρησιμοποιώντας την τάξη [MailMessage](https://apireference.aspose.com/eml/net/aspose.eml/mailmessage)
-2. Μετατρέψτε το EML σε HTML χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/eml/net/aspose.eml.mailmessage/save/methods/3)
-3. Φορτώστε το HTML χρησιμοποιώντας την κλάση [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-4. Αποθηκεύστε το έγγραφο σε μορφή DOTM χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) και ορίστε το Dotm ως SaveFormat
+1. Ανοίξτε το αρχείο EML χρησιμοποιώντας την τάξη [MailMessage](https://reference.aspose.com/eml/net/aspose.eml/mailmessage)
+2. Μετατρέψτε το EML σε HTML χρησιμοποιώντας τη μέθοδο [Save](https://reference.aspose.com/eml/net/aspose.eml.mailmessage/save/methods/3)
+3. Φορτώστε το HTML χρησιμοποιώντας την κλάση [Document](https://reference.aspose.com/words/net/aspose.words/document)
+4. Αποθηκεύστε το έγγραφο σε μορφή DOTM χρησιμοποιώντας τη μέθοδο [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) και ορίστε το Dotm ως SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
@@ -47,7 +47,7 @@ document.Save("output.dotm", SaveFormat.Dotm);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ανάλυση αρχείου EML μέσω .NET" %}}
-Πριν μετατρέψετε το EML σε DOTM, εάν θέλετε να βεβαιωθείτε ότι μετατρέπετε το σωστό eml, μπορείτε να φορτώσετε το έγγραφο EML, να το αναλύσετε και να ρίξετε μια ματιά στην επιθυμητή ιδιότητα. Χρησιμοποιώντας την κλάση [MapiMessage](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage) του [Aspose.Email for .NET](https://products.aspose.com/eml /net/) API, μπορείτε να λάβετε πληροφορίες αποστολέα και παραληπτών. Για παράδειγμα, μπορείτε να ελέγξετε για ένα συγκεκριμένο μήνυμα ηλεκτρονικού ταχυδρομείου αποστολέα για τη μετατροπή χρησιμοποιώντας την ιδιότητα [SenderName](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage/properties/sendername).  
+Πριν μετατρέψετε το EML σε DOTM, εάν θέλετε να βεβαιωθείτε ότι μετατρέπετε το σωστό eml, μπορείτε να φορτώσετε το έγγραφο EML, να το αναλύσετε και να ρίξετε μια ματιά στην επιθυμητή ιδιότητα. Χρησιμοποιώντας την κλάση [MapiMessage](https://reference.aspose.com/eml/net/aspose.eml.mapi/mapimessage) του [Aspose.Email for .NET](https://products.aspose.com/eml /net/) API, μπορείτε να λάβετε πληροφορίες αποστολέα και παραληπτών. Για παράδειγμα, μπορείτε να ελέγξετε για ένα συγκεκριμένο μήνυμα ηλεκτρονικού ταχυδρομείου αποστολέα για τη μετατροπή χρησιμοποιώντας την ιδιότητα [SenderName](https://reference.aspose.com/eml/net/aspose.eml.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

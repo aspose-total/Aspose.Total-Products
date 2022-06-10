@@ -19,10 +19,10 @@ otherformats: DOC PPTX DOCX POWERPOINT
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="TSV to WORD Conversion on C++" %}}
-1. Open TSV file using [IWorkbook](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) member function of [Factory](https://apireference.aspose.com/cells/cpp/class/aspose.cells.factory) class reference
+1. Open TSV file using [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) member function of [Factory](https://reference.aspose.com/cells/cpp/class/aspose.cells.factory) class reference
 2. Convert TSV to PDF and set SaveFormat to Pdf
-3. Load the converted PDF file using [Document](https://apireference.aspose.com/pdf/cpp/class/aspose.pdf.document) class reference
-4. Save the document to DOC format using [Save](https://apireference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db) member function and set Doc as SaveFormat
+3. Load the converted PDF file using [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) class reference
+4. Save the document to DOC format using [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db) member function and set Doc as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with C++ File Format APIs" %}}

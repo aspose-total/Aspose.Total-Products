@@ -16,10 +16,10 @@ otherformats: OTT FLATOPCX DOTM DOT FLATOPC ODT WORD WORDML DOTX TEXT RTF FLATOP
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل PPS إلى FLATOPC عبر Java" %}}
-1. افتح ملف PPS باستخدام فئة [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. تحويل PPS إلى HTML باستخدام [Save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) وتعيين Html كـ SaveFormat
-3. قم بتحميل ملف HTML المحول باستخدام فئة [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument)
-4. احفظ المستند بتنسيق FLATOPC باستخدام طريقة [Save](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String.int))
+1. افتح ملف PPS باستخدام فئة [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. تحويل PPS إلى HTML باستخدام [Save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) وتعيين Html كـ SaveFormat
+3. قم بتحميل ملف HTML المحول باستخدام فئة [Flatopcument](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument)
+4. احفظ المستند بتنسيق FLATOPC باستخدام طريقة [Save](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String.int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
 لتحويل ملف PPS إلى FLATOPC ، يمكنك بسهولة استخدام Aspose.Total لـ Java مباشرة من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) القائم على المشروع وتضمين المكتبات في ملفك pom.xml.
@@ -34,7 +34,7 @@ otherformats: OTT FLATOPCX DOTM DOT FLATOPC ODT WORD WORDML DOTX TEXT RTF FLATOP
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="متطلبات التحويل" %}}
-باستخدام API ، يمكنك أيضًا تنفيذ ملف PPS لتحويل FLATOPC بعلامة مائية. لإضافة علامة مائية إلى مستند FLATOPC الخاص بك ، يمكنك أولاً تحويل ملف PPS إلى HTML وإضافة علامة مائية إليه. لإضافة علامة مائية ، قم بتحميل ملف HTML الذي تم إنشاؤه حديثًا باستخدام فئة [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument) ، وأنشئ مثيلاً لـ TextWatermarkOptions وعيّن خصائصه ، استدعاء طريقة Watermark.setText وتمرير نص العلامة المائية وكائن TextWatermarkOptions.  
+باستخدام API ، يمكنك أيضًا تنفيذ ملف PPS لتحويل FLATOPC بعلامة مائية. لإضافة علامة مائية إلى مستند FLATOPC الخاص بك ، يمكنك أولاً تحويل ملف PPS إلى HTML وإضافة علامة مائية إليه. لإضافة علامة مائية ، قم بتحميل ملف HTML الذي تم إنشاؤه حديثًا باستخدام فئة [Flatopcument](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument) ، وأنشئ مثيلاً لـ TextWatermarkOptions وعيّن خصائصه ، استدعاء طريقة Watermark.setText وتمرير نص العلامة المائية وكائن TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}

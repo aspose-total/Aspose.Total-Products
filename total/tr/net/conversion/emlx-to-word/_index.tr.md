@@ -18,10 +18,10 @@ Uygulamalarınızın içine EMLX to WORD dönüştürme özelliklerini eklemek i
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="EMLX'i WORD'ye Dönüştürmek için C# API" %}}
-1. [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage) sınıfını kullanarak EMLX dosyasını açın
-2. [Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) yöntemini kullanarak EMLX'i HTML'ye dönüştürün
-3. HTML'yi [Document](https://apireference.aspose.com/words/net/aspose.words/document) sınıfını kullanarak yükleyin
-4. [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) yöntemini kullanarak belgeyi WORD formatına kaydedin ve Word'yi SaveFormat olarak ayarlayın
+1. [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) sınıfını kullanarak EMLX dosyasını açın
+2. [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) yöntemini kullanarak EMLX'i HTML'ye dönüştürün
+3. HTML'yi [Document](https://reference.aspose.com/words/net/aspose.words/document) sınıfını kullanarak yükleyin
+4. [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) yöntemini kullanarak belgeyi WORD formatına kaydedin ve Word'yi SaveFormat olarak ayarlayın
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Dönüşüm Gereksinimleri" %}}
@@ -47,7 +47,7 @@ document.Save("output.docx", SaveFormat.Docx);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="E-POSTA Dosyasını .NET ile Ayrıştırma" %}}
-EMLX'i WORD'ye dönüştürmeden önce, doğru e-postayı dönüştürdüğünüzden emin olmak istiyorsanız, EMLX belgesini yükleyebilir, ayrıştırabilir ve istediğiniz özelliğe bir göz atabilirsiniz. [Aspose.Email for .NET](https://products.aspose.com/email) [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) sınıfını kullanarak /net/) API, gönderici ve alıcı bilgilerini alabilirsiniz. Örneğin, [GönderenAdı](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername) özelliğini kullanarak dönüşüm için belirli bir gönderen e-postasını kontrol edebilirsiniz.  
+EMLX'i WORD'ye dönüştürmeden önce, doğru e-postayı dönüştürdüğünüzden emin olmak istiyorsanız, EMLX belgesini yükleyebilir, ayrıştırabilir ve istediğiniz özelliğe bir göz atabilirsiniz. [Aspose.Email for .NET](https://products.aspose.com/email) [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) sınıfını kullanarak /net/) API, gönderici ve alıcı bilgilerini alabilirsiniz. Örneğin, [GönderenAdı](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername) özelliğini kullanarak dönüşüm için belirli bir gönderen e-postasını kontrol edebilirsiniz.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

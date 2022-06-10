@@ -18,10 +18,10 @@ Vous pouvez convertir JSON en POTX dans n'importe quelle application .NET, C#, A
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convertir le format JSON en POTX via C#" %}}
-1. Créez un nouvel objet [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) et lisez les données JSON valides du fichier
-2. Importez le fichier JSON dans la feuille de calcul à l'aide de la classe [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) et [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) en tant que PPTX
-3. Chargez le document PPTX en utilisant la classe [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-4. Enregistrez le document au format POTX en utilisant la méthode [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+1. Créez un nouvel objet [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) et lisez les données JSON valides du fichier
+2. Importez le fichier JSON dans la feuille de calcul à l'aide de la classe [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) et [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) en tant que PPTX
+3. Chargez le document PPTX en utilisant la classe [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+4. Enregistrez le document au format POTX en utilisant la méthode [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
@@ -39,7 +39,7 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Définir la mise en page et convertir le format JSON en POTX via C#" %}}
-Lors de l'analyse de JSON vers POTX, vous pouvez également définir des options de mise en page pour votre format JSON à l'aide de [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Il vous permet de traiter le tableau comme un tableau, d'ignorer les valeurs nulles, d'ignorer le titre du tableau, d'ignorer le titre de l'objet, de convertir une chaîne en nombre ou en date, de définir le format de la date et du nombre et de définir le style du titre. Toutes ces options vous permettent de présenter vos données selon vos besoins. L'extrait de code suivant vous montre comment définir les options de mise en page.  
+Lors de l'analyse de JSON vers POTX, vous pouvez également définir des options de mise en page pour votre format JSON à l'aide de [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Il vous permet de traiter le tableau comme un tableau, d'ignorer les valeurs nulles, d'ignorer le titre du tableau, d'ignorer le titre de l'objet, de convertir une chaîne en nombre ou en date, de définir le format de la date et du nombre et de définir le style du titre. Toutes ces options vous permettent de présenter vos données selon vos besoins. L'extrait de code suivant vous montre comment définir les options de mise en page.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "set-layout-and-parse-json-to-powerpoint.cs" >}}
@@ -48,7 +48,7 @@ Lors de l'analyse de JSON vers POTX, vous pouvez également définir des options
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convertir le format JSON en POTX avec filigrane" %}}
-À l'aide de l'API, vous pouvez également convertir JSON en POTX avec filigrane. Afin d'ajouter un filigrane à votre document POTX, vous pouvez d'abord analyser JSON en PPTX et y ajouter un filigrane. Pour ajouter un filigrane, chargez le fichier PPTX nouvellement créé à l'aide de la classe [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation), sélectionnez la présentation principale, ajoutez le type de forme à l'aide de AddAutoShape et ajoutez du texte en filigrane à l'aide de AddTextFrame. Après avoir ajouté le filigrane, vous pouvez enregistrer le document sur POTX. 
+À l'aide de l'API, vous pouvez également convertir JSON en POTX avec filigrane. Afin d'ajouter un filigrane à votre document POTX, vous pouvez d'abord analyser JSON en PPTX et y ajouter un filigrane. Pour ajouter un filigrane, chargez le fichier PPTX nouvellement créé à l'aide de la classe [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation), sélectionnez la présentation principale, ajoutez le type de forme à l'aide de AddAutoShape et ajoutez du texte en filigrane à l'aide de AddTextFrame. Après avoir ajouté le filigrane, vous pouvez enregistrer le document sur POTX. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}

@@ -18,10 +18,10 @@ otherformats: FODS XLSM SXC ODS XLAM XLSB XLSX XLTX DIF EXCEL XLT TSV XLTM XLS
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="NET API لتحويل DOCM إلى DIF" %}}
-1. افتح ملف DOCM باستخدام فئة [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-2. تحويل DOCM إلى HTML باستخدام طريقة [Save](https://apireference.aspose.com/words/net/aspose.words.documentsave/methods/4)
-3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. احفظ المستند بتنسيق DIF باستخدام طريقة [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) وعيّن `DIF` على أنه SaveFormat
+1. افتح ملف DOCM باستخدام فئة [Document](https://reference.aspose.com/words/net/aspose.words/document)
+2. تحويل DOCM إلى HTML باستخدام طريقة [Save](https://reference.aspose.com/words/net/aspose.words.documentsave/methods/4)
+3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. احفظ المستند بتنسيق DIF باستخدام طريقة [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) وعيّن `DIF` على أنه SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
@@ -39,7 +39,7 @@ otherformats: FODS XLSM SXC ODS XLAM XLSB XLSX XLTX DIF EXCEL XLT TSV XLTM XLS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="قم بتحميل مستند DOCM من الدفق عبر C#" %}}
-يسمح لك [Aspose.Words for .NET](https://products.aspose.com/words/net/) أيضًا بتحميل مستند DOCM عبر الدفق. لفتح مستند من تيار ، ما عليك سوى تمرير كائن تيار يحتوي على المستند إلى مُنشئ [Document](https://apireference.aspose.com/words/net/aspose.words/document). يوضح المثال التالي من التعليمات البرمجية كيفية فتح مستند من دفق:  
+يسمح لك [Aspose.Words for .NET](https://products.aspose.com/words/net/) أيضًا بتحميل مستند DOCM عبر الدفق. لفتح مستند من تيار ، ما عليك سوى تمرير كائن تيار يحتوي على المستند إلى مُنشئ [Document](https://reference.aspose.com/words/net/aspose.words/document). يوضح المثال التالي من التعليمات البرمجية كيفية فتح مستند من دفق:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ otherformats: FODS XLSM SXC ODS XLAM XLSB XLSX XLTX DIF EXCEL XLT TSV XLTM XLS
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="إضافة خصائص مخصصة في ملف DIF عبر C#" %}}
-أثناء تحويل DOCM إلى DIF ، يمكّنك [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) من إضافة خصائص مخصصة في مستندات DIF. لإضافة خاصية مخصصة ، يمكنك استخدام طريقة [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentropertycollection/methods/add/index) للأسلوب [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/CustomDocumentPropertyCollection) فئة. يضيف الأسلوب Add الخاصية إلى ملف Excel ويعيد مرجعًا لخاصية المستند الجديدة كـ [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties/DocumentProperty) كائن. 
+أثناء تحويل DOCM إلى DIF ، يمكّنك [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) من إضافة خصائص مخصصة في مستندات DIF. لإضافة خاصية مخصصة ، يمكنك استخدام طريقة [Add](https://reference.aspose.com/cells/net/aspose.cells.properties/customdocumentropertycollection/methods/add/index) للأسلوب [CustomDocumentPropertyCollection](https://reference.aspose.com/cells/net/aspose.cells.properties/CustomDocumentPropertyCollection) فئة. يضيف الأسلوب Add الخاصية إلى ملف Excel ويعيد مرجعًا لخاصية المستند الجديدة كـ [Aspose.Cells.Properties.DocumentProperty](https://reference.aspose.com/cells/net/aspose.cells.properties/DocumentProperty) كائن. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

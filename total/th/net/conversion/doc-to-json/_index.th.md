@@ -18,10 +18,10 @@ otherformats: CSV XLAM SXC TSV XLT EXCEL DIF XLSM XLTM XLSX XLSB FODS ODS XLTX
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="แปลง DOC เป็นรูปแบบ JSON ผ่าน C#" %}}
-1. เปิดไฟล์ DOC โดยใช้คลาส [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-2. แปลง DOC เป็น HTML โดยใช้วิธีการ [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)
-3. โหลดเอกสาร HTML โดยใช้คลาส [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. บันทึกเอกสารในรูปแบบ JSON โดยใช้วิธี [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+1. เปิดไฟล์ DOC โดยใช้คลาส [Document](https://reference.aspose.com/words/net/aspose.words/document)
+2. แปลง DOC เป็น HTML โดยใช้วิธีการ [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. โหลดเอกสาร HTML โดยใช้คลาส [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. บันทึกเอกสารในรูปแบบ JSON โดยใช้วิธี [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}

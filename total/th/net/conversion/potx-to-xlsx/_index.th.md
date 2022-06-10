@@ -18,10 +18,10 @@ otherformats: MARKDOWN XLS XLSM TSV ODS DIF XLTM XLSB SXC EXCEL XLAM XLSX XLTX F
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง POTX เป็น XLSX ผ่าน C#" %}}
-1. เปิดไฟล์ POTX โดยใช้คลาส [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-2. ส่งออก POTX เป็น HTML โดยใช้วิธีการ [บันทึก](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
-3. โหลดเอกสาร HTML โดยใช้คลาส [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. บันทึกเอกสารเป็น XLSX โดยใช้วิธี [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+1. เปิดไฟล์ POTX โดยใช้คลาส [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+2. ส่งออก POTX เป็น HTML โดยใช้วิธีการ [บันทึก](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+3. โหลดเอกสาร HTML โดยใช้คลาส [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. บันทึกเอกสารเป็น XLSX โดยใช้วิธี [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}

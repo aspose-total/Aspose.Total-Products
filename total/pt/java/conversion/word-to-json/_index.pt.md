@@ -16,10 +16,10 @@ A conversão do formato WORD para JSON via [Aspose.Total for Java](https://produ
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converter WORD para formato JSON via Java" %}}
-1. Abra o arquivo WORD usando a classe [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-2. Converta WORD para HTML usando [Salvar](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) método
-3. Carregue o documento HTML usando a classe [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Salve o documento no formato JSON usando [Salvar](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) método
+1. Abra o arquivo WORD usando a classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Converta WORD para HTML usando [Salvar](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) método
+3. Carregue o documento HTML usando a classe [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Salve o documento no formato JSON usando [Salvar](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
 Você pode facilmente usar o Aspose.Total para Java diretamente de um projeto baseado em [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e inclua bibliotecas em seu pom.xml.

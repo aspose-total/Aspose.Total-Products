@@ -18,10 +18,10 @@ otherformats: TSV XLAM SXC XLTM EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API для преобразования DOTM в XLTM" %}}
-1. Откройте файл DOTM, используя класс [Dotmument](https://apireference.aspose.com/words/net/aspose.words/dotmument).
-2. Преобразуйте DOTM в HTML, используя метод [Сохранить](https://apireference.aspose.com/words/net/aspose.words.dotmument/save/methods/4).
-3. Загрузите HTML-документ с помощью класса [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
-4. Сохраните документ в формате XLTM с помощью метода [Сохранить](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) и установите «XLTM» в качестве формата сохранения.
+1. Откройте файл DOTM, используя класс [Dotmument](https://reference.aspose.com/words/net/aspose.words/dotmument).
+2. Преобразуйте DOTM в HTML, используя метод [Сохранить](https://reference.aspose.com/words/net/aspose.words.dotmument/save/methods/4).
+3. Загрузите HTML-документ с помощью класса [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook).
+4. Сохраните документ в формате XLTM с помощью метода [Сохранить](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) и установите «XLTM» в качестве формата сохранения.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}
@@ -39,7 +39,7 @@ otherformats: TSV XLAM SXC XLTM EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Загрузить документ DOTM из потока через С#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) также позволяет загружать документ DOTM через поток. Чтобы открыть документ из потока, просто передайте объект потока, содержащий документ, в конструктор [Dotmument](https://apireference.aspose.com/words/net/aspose.words/dotmument). В следующем примере кода показано, как открыть документ из потока:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) также позволяет загружать документ DOTM через поток. Чтобы открыть документ из потока, просто передайте объект потока, содержащий документ, в конструктор [Dotmument](https://reference.aspose.com/words/net/aspose.words/dotmument). В следующем примере кода показано, как открыть документ из потока:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ otherformats: TSV XLAM SXC XLTM EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Добавить пользовательские свойства в файл XLTM через С#" %}}
-При преобразовании DOTM в XLTM [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) позволяет добавлять пользовательские свойства в документы XLTM. Чтобы добавить пользовательское свойство, вы можете использовать метод [Добавить](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection/methods/add/index) для [CustomDotmumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection). Метод Add добавляет свойство в файл Excel и возвращает ссылку на новое свойство документа в виде [Aspose.Cells.Properties.DotmumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties). /dotmumentproperty) объект. 
+При преобразовании DOTM в XLTM [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) позволяет добавлять пользовательские свойства в документы XLTM. Чтобы добавить пользовательское свойство, вы можете использовать метод [Добавить](https://reference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection/methods/add/index) для [CustomDotmumentPropertyCollection](https://reference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection). Метод Add добавляет свойство в файл Excel и возвращает ссылку на новое свойство документа в виде [Aspose.Cells.Properties.DotmumentProperty](https://reference.aspose.com/cells/net/aspose.cells.properties). /dotmumentproperty) объект. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

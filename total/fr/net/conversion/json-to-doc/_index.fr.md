@@ -18,10 +18,10 @@ En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vo
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convertir le format JSON en DOC via C#" %}}
-1. Créez un nouvel objet [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) et lisez les données JSON valides du fichier
-2. Importez le fichier JSON dans la feuille de calcul à l'aide de la classe [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) et [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) au format PDF
-3. Chargez le document PDF en utilisant la classe [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-4. Enregistrez le document au format DOC en utilisant la méthode [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)
+1. Créez un nouvel objet [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) et lisez les données JSON valides du fichier
+2. Importez le fichier JSON dans la feuille de calcul à l'aide de la classe [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) et [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) au format PDF
+3. Chargez le document PDF en utilisant la classe [Document](https://reference.aspose.com/words/net/aspose.words/document)
+4. Enregistrez le document au format DOC en utilisant la méthode [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/3)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
@@ -39,7 +39,7 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Définir la mise en page et convertir le format JSON en DOC via C#" %}}
-Lors de l'analyse de JSON vers DOC, vous pouvez également définir des options de mise en page pour votre JSON à l'aide de [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Il vous permet de traiter Array comme une table, d'ignorer les valeurs nulles, d'ignorer le titre du tableau, d'ignorer le titre de l'objet, de convertir une chaîne en nombre ou en date, de définir le format de la date et du nombre et de définir le style du titre. Toutes ces options vous permettent de présenter vos données selon vos besoins. L'extrait de code suivant vous montre comment définir les options de mise en page.  
+Lors de l'analyse de JSON vers DOC, vous pouvez également définir des options de mise en page pour votre JSON à l'aide de [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Il vous permet de traiter Array comme une table, d'ignorer les valeurs nulles, d'ignorer le titre du tableau, d'ignorer le titre de l'objet, de convertir une chaîne en nombre ou en date, de définir le format de la date et du nombre et de définir le style du titre. Toutes ces options vous permettent de présenter vos données selon vos besoins. L'extrait de code suivant vous montre comment définir les options de mise en page.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "set-layout-and-parse-json-to-doc.cs" >}}
@@ -48,7 +48,7 @@ Lors de l'analyse de JSON vers DOC, vous pouvez également définir des options 
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analyser le format JSON en DOC avec filigrane" %}}
-À l'aide de l'API, vous pouvez également convertir JSON en DOC avec filigrane. Afin d'ajouter un filigrane à votre document DOC, vous pouvez d'abord analyser le fichier JSON en PDF et y ajouter un filigrane. Pour ajouter un filigrane, chargez le fichier PDF nouvellement créé à l'aide de la classe [Document](https://apireference.aspose.com/words/net/aspose.words/document), créez une instance de TextWatermarkOptions et définissez ses propriétés , Appelez la méthode Watermark.SetText et transmettez le texte et l'objet du filigrane de TextWatermarkOptions. Après avoir ajouté le filigrane, vous pouvez enregistrer le document sur DOC. 
+À l'aide de l'API, vous pouvez également convertir JSON en DOC avec filigrane. Afin d'ajouter un filigrane à votre document DOC, vous pouvez d'abord analyser le fichier JSON en PDF et y ajouter un filigrane. Pour ajouter un filigrane, chargez le fichier PDF nouvellement créé à l'aide de la classe [Document](https://reference.aspose.com/words/net/aspose.words/document), créez une instance de TextWatermarkOptions et définissez ses propriétés , Appelez la méthode Watermark.SetText et transmettez le texte et l'objet du filigrane de TextWatermarkOptions. Après avoir ajouté le filigrane, vous pouvez enregistrer le document sur DOC. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}

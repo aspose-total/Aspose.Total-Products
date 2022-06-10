@@ -18,10 +18,10 @@ Az [Aspose.Total for .NET](https://products.aspose.com/total/net/) használatáv
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="A EPUB-fájl konvertálása IMAGE-re .NET-en keresztül" %}}
-1. Nyissa meg a EPUB-fájlt a [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) osztály használatával
-2. Inicializálja a [JpegDevice](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) osztályobjektumot, és a [Process](https://apireference.aspose.) segítségével jelenítse meg a EPUB-et JPEG formátumba. com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) módszer
-3. Töltse be a JPEG fájlt az [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) osztály használatával
-4. Mentse a dokumentumot IMAGE formátumba a [Save](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) módszerrel
+1. Nyissa meg a EPUB-fájlt a [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) osztály használatával
+2. Inicializálja a [JpegDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) osztályobjektumot, és a [Process](https://apireference.aspose.) segítségével jelenítse meg a EPUB-et JPEG formátumba. com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) módszer
+3. Töltse be a JPEG fájlt az [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) osztály használatával
+4. Mentse a dokumentumot IMAGE formátumba a [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) módszerrel
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
@@ -39,8 +39,8 @@ Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eke
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="EPUB-fájl konvertálása IMAGE-re egyetlen fájlban C#-n keresztül" %}}
-Az API használatával a EPUB-fájlt IMAGE-re is konvertálhatja egyetlen képfájllá. Az összes oldal konvertálásához először előállíthatja a EPUB-dokumentumot egyetlen TIFF-fájllá, majd exportálhatja a TIFF-fájlt IMAGE-be. A bemeneti fájlt megnyithatja a [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) osztály használatával, és létrehozhat Resolution, TiffSettings és TIFF eszközobjektumokat. Egyetlen TIFF-képet kaphat a [TiffDevice](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice) osztály. Végül betöltheti a TIFF-fájlt az [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) osztály használatával
-és mentse IMAGE formátumba a [Save](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) módszerrel.  
+Az API használatával a EPUB-fájlt IMAGE-re is konvertálhatja egyetlen képfájllá. Az összes oldal konvertálásához először előállíthatja a EPUB-dokumentumot egyetlen TIFF-fájllá, majd exportálhatja a TIFF-fájlt IMAGE-be. A bemeneti fájlt megnyithatja a [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) osztály használatával, és létrehozhat Resolution, TiffSettings és TIFF eszközobjektumokat. Egyetlen TIFF-képet kaphat a [TiffDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice) osztály. Végül betöltheti a TIFF-fájlt az [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) osztály használatával
+és mentse IMAGE formátumba a [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) módszerrel.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-single-file.cs" >}}
@@ -48,7 +48,7 @@ Az API használatával a EPUB-fájlt IMAGE-re is konvertálhatja egyetlen képf�
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="EPUB-fájl konvertálása és elforgatása IMAGE-re C#-on keresztül" %}}
-Az API használatával igény szerint elforgathatja a kimeneti IMAGE-képet is. Az Image.RotateFlip módszerrel a kép 90/180/270 fokkal elforgatható, és vízszintesen vagy függőlegesen elforgatható. Megadhatja a képre alkalmazandó elforgatás és tükrözés típusát. A kép elforgatásához és megfordításához betöltheti az átalakított JPEG képet az [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) osztály által exponált gyári módszerrel, és meghívhatja a képet. .RotateFlip metódust, miközben megadja a megfelelő [RotateFlipType](https://apireference.aspose.com/imaging/net/aspose.imaging/rotatefliptype). 
+Az API használatával igény szerint elforgathatja a kimeneti IMAGE-képet is. Az Image.RotateFlip módszerrel a kép 90/180/270 fokkal elforgatható, és vízszintesen vagy függőlegesen elforgatható. Megadhatja a képre alkalmazandó elforgatás és tükrözés típusát. A kép elforgatásához és megfordításához betöltheti az átalakított JPEG képet az [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) osztály által exponált gyári módszerrel, és meghívhatja a képet. .RotateFlip metódust, miközben megadja a megfelelő [RotateFlipType](https://reference.aspose.com/imaging/net/aspose.imaging/rotatefliptype). 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-and-rotate-pdf-to-image.cs" >}}

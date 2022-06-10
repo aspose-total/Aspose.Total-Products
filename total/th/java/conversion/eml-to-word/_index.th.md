@@ -16,10 +16,10 @@ otherformats: MD PCL DOCX OTT PDF PS XPS GIF TIFF DOC ODT DOT DOCM EMF FLATOPC D
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง EML เป็น WORD" %}}
-1. เปิดไฟล์ EML โดยใช้คลาส [MailMessage](https://apireference.aspose.com/eml/java/com.aspose.eml/mailmessage)
-2. แปลง EML เป็น HTML โดยใช้ [save](https://apireference.aspose.com/eml/java/com.aspose.eml/MailMessage#save(java.io.OutputStream,%20com.aspose.eml.SaveOptions)) กระบวนการ
-3. โหลด HTML โดยใช้คลาส [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. บันทึกเอกสารในรูปแบบ WORD โดยใช้ [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) วิธีการและตั้งค่า WORD เป็น SaveFormat
+1. เปิดไฟล์ EML โดยใช้คลาส [MailMessage](https://reference.aspose.com/eml/java/com.aspose.eml/mailmessage)
+2. แปลง EML เป็น HTML โดยใช้ [save](https://reference.aspose.com/eml/java/com.aspose.eml/MailMessage#save(java.io.OutputStream,%20com.aspose.eml.SaveOptions)) กระบวนการ
+3. โหลด HTML โดยใช้คลาส [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. บันทึกเอกสารในรูปแบบ WORD โดยใช้ [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) วิธีการและตั้งค่า WORD เป็น SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
 คุณต้องใช้ Aspose.Total สำหรับ Java โดยตรงจากโครงการที่ใช้ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และรวมไลบรารี่ไว้ใน pom.xml ของคุณ

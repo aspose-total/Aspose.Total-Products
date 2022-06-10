@@ -18,10 +18,10 @@ otherformats: PPT POWERPOINT POTX POTM PPS SWF PPSM PPTM XAML OTP POT PPSX
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API เพื่อแปลง CGM เป็น PPSX" %}}
-1. เปิดไฟล์ CGM โดยใช้คลาส [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
-2. แปลง CGM เป็น PPTX โดยใช้วิธีการ [บันทึก](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
-3. โหลดไฟล์ PPTX โดยใช้คลาส [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-4. บันทึกเอกสารในรูปแบบ PPSX โดยใช้วิธีการ [บันทึก](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) และตั้งค่า `Ppsx' เป็น SaveFormat
+1. เปิดไฟล์ CGM โดยใช้คลาส [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
+2. แปลง CGM เป็น PPTX โดยใช้วิธีการ [บันทึก](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. โหลดไฟล์ PPTX โดยใช้คลาส [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+4. บันทึกเอกสารในรูปแบบ PPSX โดยใช้วิธีการ [บันทึก](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) และตั้งค่า `Ppsx' เป็น SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
@@ -47,7 +47,7 @@ presentation.Save("output.ppsx", SaveFormat.Ppsx);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="รับข้อมูลเมตา XMP จากไฟล์ CGM ผ่าน .NET" %}}
-ขณะแปลง CGM เป็น PPSX คุณอาจต้องการข้อมูลเมตาดาต้า XMP เพิ่มเติมเพื่อจัดลำดับความสำคัญของกระบวนการแปลงแบทช์ของคุณ ตัวอย่างเช่น คุณสามารถรับและจัดเรียงเอกสารการแปลงของคุณตามวันที่สร้างและประมวลผลเอกสารตามนั้น [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) ให้คุณเข้าถึงข้อมูลเมตา XMP ของไฟล์ CGM หากต้องการรับข้อมูลเมตาของไฟล์ CGM ให้สร้างวัตถุ [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) และเปิดไฟล์ CGM ที่ป้อนเข้ามา หลังจากนั้น คุณจะรับข้อมูลเมตาของไฟล์ได้โดยใช้คุณสมบัติ [Metadata](https://apireference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata)  
+ขณะแปลง CGM เป็น PPSX คุณอาจต้องการข้อมูลเมตาดาต้า XMP เพิ่มเติมเพื่อจัดลำดับความสำคัญของกระบวนการแปลงแบทช์ของคุณ ตัวอย่างเช่น คุณสามารถรับและจัดเรียงเอกสารการแปลงของคุณตามวันที่สร้างและประมวลผลเอกสารตามนั้น [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) ให้คุณเข้าถึงข้อมูลเมตา XMP ของไฟล์ CGM หากต้องการรับข้อมูลเมตาของไฟล์ CGM ให้สร้างวัตถุ [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) และเปิดไฟล์ CGM ที่ป้อนเข้ามา หลังจากนั้น คุณจะรับข้อมูลเมตาของไฟล์ได้โดยใช้คุณสมบัติ [Metadata](https://reference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata)  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

@@ -18,10 +18,10 @@ otherformats: XLSM XLT ODS XLTX SXC DIF XLSX XLAM XLS TSV MARKDOWN XLSB FODS EXC
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل POTX إلى XLTX عبر C#" %}}
-1. افتح ملف POTX باستخدام فئة [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-2. تصدير POTX بتنسيق HTML باستخدام طريقة [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
-3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. احفظ المستند في ملف XLTX باستخدام طريقة [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+1. افتح ملف POTX باستخدام فئة [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+2. تصدير POTX بتنسيق HTML باستخدام طريقة [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. احفظ المستند في ملف XLTX باستخدام طريقة [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}

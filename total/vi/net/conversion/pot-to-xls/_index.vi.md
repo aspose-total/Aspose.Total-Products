@@ -18,10 +18,10 @@ Bằng cách sử dụng [Aspose.Total for .NET](https://products.aspose.com/tot
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cách chuyển đổi POT sang XLS qua C#" %}}
-1. Mở tệp POT bằng lớp [Trình bày](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-2. Xuất POT dưới dạng HTML bằng cách sử dụng phương pháp [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
-3. Tải tài liệu HTML bằng cách sử dụng lớp [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Lưu tài liệu vào XLS bằng phương pháp [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+1. Mở tệp POT bằng lớp [Trình bày](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+2. Xuất POT dưới dạng HTML bằng cách sử dụng phương pháp [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+3. Tải tài liệu HTML bằng cách sử dụng lớp [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Lưu tài liệu vào XLS bằng phương pháp [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}

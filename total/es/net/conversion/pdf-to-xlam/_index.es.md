@@ -18,10 +18,10 @@ Usando [Aspose.Total para .NET](https://products.aspose.com/total/net/) puede co
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET para convertir PDF a XLAM" %}}
-1. Abra el archivo PDF usando la clase [Documento](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convierta PDF a XLSX usando el método [Guardar](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
-3. Cargue el documento XLSX usando la clase [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Guarde el documento en formato XLAM usando el método [Guardar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) y configure `Xlam` como SaveFormat
+1. Abra el archivo PDF usando la clase [Documento](https://reference.aspose.com/pdf/net/aspose.pdf/document)
+2. Convierta PDF a XLSX usando el método [Guardar](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. Cargue el documento XLSX usando la clase [Libro de trabajo](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Guarde el documento en formato XLAM usando el método [Guardar](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) y configure `Xlam` como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
@@ -39,7 +39,7 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convierta PDF protegido a XLAM a través de C#" %}}
-Si su documento PDF está protegido con contraseña, no puede convertirlo a XLAM sin la contraseña. Con la API, primero puede abrir el documento protegido con una contraseña válida y convertirlo después. Para abrir el archivo cifrado, puede inicializar una nueva instancia de la clase [Documento](https://apireference.aspose.com/pdf/net/aspose.pdf/document) y pasar el nombre del archivo y la contraseña como argumentos.  
+Si su documento PDF está protegido con contraseña, no puede convertirlo a XLAM sin la contraseña. Con la API, primero puede abrir el documento protegido con una contraseña válida y convertirlo después. Para abrir el archivo cifrado, puede inicializar una nueva instancia de la clase [Documento](https://reference.aspose.com/pdf/net/aspose.pdf/document) y pasar el nombre del archivo y la contraseña como argumentos.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-password-protected-pdf-to-excel.cs" >}}

@@ -16,10 +16,10 @@ otherformats: OTT MD DOCM DOT DOTX RTF JPEG XPS GIF PCL SVG EPUB DOCX FLATOPC TE
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง OFT เป็น PNG" %}}
-1. เปิดไฟล์ OFT โดยใช้คลาส [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)
-2. แปลง OFT เป็น HTML โดยใช้ [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) กระบวนการ
-3. โหลด HTML โดยใช้คลาส [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. บันทึกเอกสารในรูปแบบ PNG โดยใช้ [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) วิธีการและตั้งค่า PNG เป็น SaveFormat
+1. เปิดไฟล์ OFT โดยใช้คลาส [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. แปลง OFT เป็น HTML โดยใช้ [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) กระบวนการ
+3. โหลด HTML โดยใช้คลาส [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. บันทึกเอกสารในรูปแบบ PNG โดยใช้ [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) วิธีการและตั้งค่า PNG เป็น SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
 คุณต้องใช้ Aspose.Total สำหรับ Java โดยตรงจากโครงการที่ใช้ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และรวมไลบรารี่ไว้ใน pom.xml ของคุณ

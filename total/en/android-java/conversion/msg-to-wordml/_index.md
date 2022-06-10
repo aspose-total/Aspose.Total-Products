@@ -18,10 +18,10 @@ Andorid Apps are easy to use for end users on daily bases. Day by day numbers of
 {{% /blocks/products/pf/agp/content %}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convert MSG to WORDML in Andorid" %}}
-1. Open MSG file using [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage) class
-2. Convert MSG to HTML by using [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) method
-3. Load HTML by using [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) class 
-4. Save the document to WORD_ML format using [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method and set WORD_ML as SaveFormat
+1. Open MSG file using [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage) class
+2. Convert MSG to HTML by using [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) method
+3. Load HTML by using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class 
+4. Save the document to WORD_ML format using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method and set WORD_ML as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with Andorid via Java APIs" %}}

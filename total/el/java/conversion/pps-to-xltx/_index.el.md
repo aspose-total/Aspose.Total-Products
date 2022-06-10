@@ -16,10 +16,10 @@ otherformats: XLTX XLAM XLSM TSV EXCEL MHTML XLSB FODS SXC XLTM ODS XLT MARKDOWN
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Πώς να μετατρέψετε το PPS σε XLTX μέσω Java" %}}
-1. Ανοίξτε το αρχείο PPS χρησιμοποιώντας την τάξη [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Μετατρέψτε το PPS σε HTML χρησιμοποιώντας το [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. μέθοδος ISaveOptions-).
-3. Φορτώστε το έγγραφο HTML χρησιμοποιώντας την τάξη [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Αποθηκεύστε το έγγραφο σε μορφή XLTX χρησιμοποιώντας [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) μέθοδο
+1. Ανοίξτε το αρχείο PPS χρησιμοποιώντας την τάξη [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. Μετατρέψτε το PPS σε HTML χρησιμοποιώντας το [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. μέθοδος ISaveOptions-).
+3. Φορτώστε το έγγραφο HTML χρησιμοποιώντας την τάξη [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Αποθηκεύστε το έγγραφο σε μορφή XLTX χρησιμοποιώντας [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) μέθοδο
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
 Για να μετατρέψετε το PPS σε XLTX, μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.Total για Java απευθείας από ένα [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/ έργο που βασίζεται σε aspose/aspose-total) και συμπεριλάβετε βιβλιοθήκες στο pom.xml σας.

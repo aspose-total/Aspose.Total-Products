@@ -18,10 +18,10 @@ otherformats: JPEG MD DOCX RTF PCL TIFF DOT PS PNG EMF DOTM OTT GIF PDF TEXT DOC
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API لتحويل البريد الإلكتروني إلى FLATOPC" %}}
-1. افتح ملف OFT باستخدام فئة [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage)
-2. تحويل OFT إلى HTML باستخدام طريقة [Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
-3. قم بتحميل HTML باستخدام فئة [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-4. احفظ المستند بتنسيق FLATOPC باستخدام طريقة [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) وقم بتعيين Flatopc كـ SaveFormat
+1. افتح ملف OFT باستخدام فئة [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage)
+2. تحويل OFT إلى HTML باستخدام طريقة [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
+3. قم بتحميل HTML باستخدام فئة [Document](https://reference.aspose.com/words/net/aspose.words/document)
+4. احفظ المستند بتنسيق FLATOPC باستخدام طريقة [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) وقم بتعيين Flatopc كـ SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
@@ -47,7 +47,7 @@ document.Save("output.flatopc", SaveFormat.FlatOpc);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="تحليل ملف البريد الإلكتروني عبر .NET" %}}
-قبل تحويل OFT إلى FLATOPC ، إذا كنت تريد التأكد من أنك تقوم بتحويل البريد الإلكتروني الصحيح ، فيمكنك تحميل مستند OFT وتحليله وإلقاء نظرة على الممتلكات التي تريدها. باستخدام [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) فئة [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API ، يمكنك الحصول على معلومات المرسل والمستلمين. على سبيل المثال ، يمكنك التحقق من وجود بريد إلكتروني معين لمرسل التحويل باستخدام خاصية [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
+قبل تحويل OFT إلى FLATOPC ، إذا كنت تريد التأكد من أنك تقوم بتحويل البريد الإلكتروني الصحيح ، فيمكنك تحميل مستند OFT وتحليله وإلقاء نظرة على الممتلكات التي تريدها. باستخدام [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) فئة [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API ، يمكنك الحصول على معلومات المرسل والمستلمين. على سبيل المثال ، يمكنك التحقق من وجود بريد إلكتروني معين لمرسل التحويل باستخدام خاصية [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -62,7 +62,7 @@ if(outlookMessageFile.SenderName == "John"){
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="تقييد تحرير مستندات FLATOPC عبر .NET" %}}
-أثناء حفظ المستند من OFT إلى FLATOPC ، قد تحتاج إلى حماية مستند الإخراج الخاص بك. قد تحتاج أحيانًا إلى تقييد القدرة على تحرير مستند والسماح فقط بإجراءات معينة معه. يمكن أن يكون هذا مفيدًا لمنع الأشخاص الآخرين من تحرير المعلومات الحساسة والسرية في المستند الخاص بك. تمكّنك واجهة برمجة تطبيقات [Aspose.Words for .NET](https://products.aspose.com/words/net/) من التحكم في طريقة تقييد المحتوى باستخدام [ProtectionType](https://apireference.aspose.com/Words/net/aspose.words/protectiontype) معلمة التعداد. يمكنك ضبط المستند للقراءة فقط باستخدام سطور التعليمات البرمجية التالية. 
+أثناء حفظ المستند من OFT إلى FLATOPC ، قد تحتاج إلى حماية مستند الإخراج الخاص بك. قد تحتاج أحيانًا إلى تقييد القدرة على تحرير مستند والسماح فقط بإجراءات معينة معه. يمكن أن يكون هذا مفيدًا لمنع الأشخاص الآخرين من تحرير المعلومات الحساسة والسرية في المستند الخاص بك. تمكّنك واجهة برمجة تطبيقات [Aspose.Words for .NET](https://products.aspose.com/words/net/) من التحكم في طريقة تقييد المحتوى باستخدام [ProtectionType](https://reference.aspose.com/Words/net/aspose.words/protectiontype) معلمة التعداد. يمكنك ضبط المستند للقراءة فقط باستخدام سطور التعليمات البرمجية التالية. 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

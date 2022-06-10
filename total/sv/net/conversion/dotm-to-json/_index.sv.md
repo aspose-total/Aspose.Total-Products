@@ -18,10 +18,10 @@ Genom att använda [Aspose.Total för .NET](https://products.aspose.com/total/ne
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertera DOTM till JSON-format via C#" %}}
-1. Öppna DOTM-filen med klassen [Dotmument](https://apireference.aspose.com/words/net/aspose.words/dotmument)
-2. Konvertera DOTM till HTML med metoden [Save](https://apireference.aspose.com/words/net/aspose.words.dotmument/save/methods/4)
-3. Ladda HTML-dokument genom att använda klassen [Arbetsbok](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Spara dokumentet i JSON-format med metoden [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+1. Öppna DOTM-filen med klassen [Dotmument](https://reference.aspose.com/words/net/aspose.words/dotmument)
+2. Konvertera DOTM till HTML med metoden [Save](https://reference.aspose.com/words/net/aspose.words.dotmument/save/methods/4)
+3. Ladda HTML-dokument genom att använda klassen [Arbetsbok](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Spara dokumentet i JSON-format med metoden [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}

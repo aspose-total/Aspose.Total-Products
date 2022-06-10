@@ -18,10 +18,10 @@ otherformats: FODS DIF XLSX MARKDOWN MHTML XLSB TSV SXC XLS ODS XLTM XLTX EXCEL 
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как конвертировать POTM в XLSB через C#" %}}
-1. Откройте файл POTM, используя класс [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation).
-2. Экспортируйте POTM как HTML, используя метод [Сохранить](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5).
-3. Загрузите HTML-документ с помощью класса [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
-4. Сохраните документ в формате XLSB, используя метод [Сохранить](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4).
+1. Откройте файл POTM, используя класс [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation).
+2. Экспортируйте POTM как HTML, используя метод [Сохранить](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5).
+3. Загрузите HTML-документ с помощью класса [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook).
+4. Сохраните документ в формате XLSB, используя метод [Сохранить](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}

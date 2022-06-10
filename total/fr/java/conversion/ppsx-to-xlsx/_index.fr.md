@@ -16,10 +16,10 @@ Vous pouvez convertir le fichier PPSX en XLSX via [Aspose.Total for Java](https:
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Comment convertir PPSX en XLSX via Java" %}}
-1. Ouvrez le fichier PPSX à l'aide de la classe [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Convertissez PPSX en HTML en utilisant [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. Méthode ISaveOptions-)
-3. Chargez le document HTML à l'aide de la classe [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Enregistrez le document au format XLSX en utilisant [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. Méthode SaveOptions))
+1. Ouvrez le fichier PPSX à l'aide de la classe [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. Convertissez PPSX en HTML en utilisant [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. Méthode ISaveOptions-)
+3. Chargez le document HTML à l'aide de la classe [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Enregistrez le document au format XLSX en utilisant [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. Méthode SaveOptions))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
 Afin de convertir PPSX en XLSX, vous pouvez facilement utiliser Aspose.Total pour Java directement depuis un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/ projet basé sur aspose/aspose-total) et incluez des bibliothèques dans votre fichier pom.xml.

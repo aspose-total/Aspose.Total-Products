@@ -26,8 +26,8 @@ Total API không chỉ hỗ trợ chuyển đổi giữa các định dạng Mic
 
 
 {{% blocks/products/pf/feature-page-section  h2="Chuyển đổi PDF sang hình ảnh" %}}
-API hỗ trợ chuyển đổi PDF sang Hình ảnh, Powerpoint, Excel và các định dạng khác. Để chuyển đổi PDF sang hình ảnh, hãy coi hình ảnh JPG là tệp đích. Quá trình là, tải tệp PDF bằng cách sử dụng lớp Tài liệu và khởi tạo [lớp JpegDevice](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) đối tượng và hiển thị PDF thành JPEG thông qua [Process](https://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) method
-Tải tệp JPEG bằng cách sử dụng lớp [Hình ảnh](https://apireference.aspose.com/imaging/net/aspose.imaging/image) và cuối cùng gọi phương thức Save.
+API hỗ trợ chuyển đổi PDF sang Hình ảnh, Powerpoint, Excel và các định dạng khác. Để chuyển đổi PDF sang hình ảnh, hãy coi hình ảnh JPG là tệp đích. Quá trình là, tải tệp PDF bằng cách sử dụng lớp Tài liệu và khởi tạo [lớp JpegDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) đối tượng và hiển thị PDF thành JPEG thông qua [Process](https://reference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) method
+Tải tệp JPEG bằng cách sử dụng lớp [Hình ảnh](https://reference.aspose.com/imaging/net/aspose.imaging/image) và cuối cùng gọi phương thức Save.
 
 {{% blocks/products/pf/feature-page-code h3="C# - Chuyển đổi PDF sang hình ảnh" %}}
 
@@ -41,7 +41,7 @@ Tải tệp JPEG bằng cách sử dụng lớp [Hình ảnh](https://apireferen
 
 {{% blocks/products/pf/feature-page-section  h2="Chuyển đổi Excel sang Word và PowerPoint" %}}
 
-Để chuyển đổi các định dạng Microsoft Excel sang các tệp khác nhau bao gồm Word và PowerPoint, các API phụ có liên quan sẽ bị loại bỏ khỏi Aspose.Total chính cho API .NET. Quy trình chuyển đổi tệp Excel sang tài liệu Word, tải tệp EXCEL bằng cách sử dụng lớp [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) và chuyển EXCEL sang PDF trước tiên và đặt SaveFormat thành Tự động. Sau đó, tải tệp PDF đã chuyển đổi bằng cách sử dụng lớp Tài liệu và gọi phương thức Lưu và đặt Tài liệu, Docx làm SaveFormat. Mã cũng được liệt kê để chuyển đổi Microsoft ** Excel sang Powerpoint **.
+Để chuyển đổi các định dạng Microsoft Excel sang các tệp khác nhau bao gồm Word và PowerPoint, các API phụ có liên quan sẽ bị loại bỏ khỏi Aspose.Total chính cho API .NET. Quy trình chuyển đổi tệp Excel sang tài liệu Word, tải tệp EXCEL bằng cách sử dụng lớp [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) và chuyển EXCEL sang PDF trước tiên và đặt SaveFormat thành Tự động. Sau đó, tải tệp PDF đã chuyển đổi bằng cách sử dụng lớp Tài liệu và gọi phương thức Lưu và đặt Tài liệu, Docx làm SaveFormat. Mã cũng được liệt kê để chuyển đổi Microsoft ** Excel sang Powerpoint **.
 
 {{% blocks/products/pf/feature-page-code h3="C# - Chuyển đổi JSON sang Excel" %}}
 

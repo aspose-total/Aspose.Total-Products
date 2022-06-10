@@ -16,10 +16,10 @@ otherformats: SXC FODS XLTX MHTML ODS MARKDOWN DIF XLTM XLSX XLT XLSM XLS TSV EX
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java를 통해 POWERPOINT을 SXC로 변환하는 방법" %}}
-1. [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) 클래스를 사용하여 POWERPOINT 파일을 엽니다.
-2. [저장](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides)을 사용하여 POWERPOINT을 HTML로 변환합니다. ISaveOptions-) 메서드
-3. [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) 클래스를 사용하여 HTML 문서 로드
-4. [저장](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells))을 사용하여 문서를 SXC 형식으로 저장합니다. SaveOptions)) 메서드
+1. [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 클래스를 사용하여 POWERPOINT 파일을 엽니다.
+2. [저장](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides)을 사용하여 POWERPOINT을 HTML로 변환합니다. ISaveOptions-) 메서드
+3. [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 클래스를 사용하여 HTML 문서 로드
+4. [저장](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells))을 사용하여 문서를 SXC 형식으로 저장합니다. SaveOptions)) 메서드
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
 POWERPOINT을 SXC로 변환하려면 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/에서 직접 Java용 Aspose.Total을 쉽게 사용할 수 있습니다. aspose/aspose-total) 기반 프로젝트를 만들고 pom.xml에 라이브러리를 포함합니다.

@@ -18,10 +18,10 @@ Jika Anda adalah pengembang .NET yang ingin menambahkan fitur konversi MSG ke WO
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API untuk Mengonversi MSG ke WORD" %}}
-1. Buka file MSG menggunakan kelas [MailMessage](https://apireference.aspose.com/msg/net/aspose.msg/mailmessage)
-2. Konversi MSG ke HTML dengan menggunakan metode [Simpan](https://apireference.aspose.com/msg/net/aspose.msg.mailmessage/save/methods/3)
-3. Muat HTML dengan menggunakan kelas [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-4. Simpan dokumen ke format WORD menggunakan metode [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) dan atur Word sebagai SaveFormat
+1. Buka file MSG menggunakan kelas [MailMessage](https://reference.aspose.com/msg/net/aspose.msg/mailmessage)
+2. Konversi MSG ke HTML dengan menggunakan metode [Simpan](https://reference.aspose.com/msg/net/aspose.msg.mailmessage/save/methods/3)
+3. Muat HTML dengan menggunakan kelas [Document](https://reference.aspose.com/words/net/aspose.words/document)
+4. Simpan dokumen ke format WORD menggunakan metode [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) dan atur Word sebagai SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
@@ -47,7 +47,7 @@ document.Save("output.docx", SaveFormat.Docx);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Parsing File MSG melalui .NET" %}}
-Sebelum mengonversi MSG ke WORD, jika Anda ingin memastikan bahwa Anda mengonversi msg yang benar, Anda dapat memuat dokumen MSG, menguraikannya dan melihat properti yang Anda inginkan. Dengan menggunakan kelas [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) dari [Aspose.Email for .NET](https://products.aspose.com/msg /net/) API, Anda bisa mendapatkan informasi pengirim dan penerima. Misalnya, Anda dapat memeriksa msg pengirim tertentu untuk konversi dengan menggunakan properti [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername).  
+Sebelum mengonversi MSG ke WORD, jika Anda ingin memastikan bahwa Anda mengonversi msg yang benar, Anda dapat memuat dokumen MSG, menguraikannya dan melihat properti yang Anda inginkan. Dengan menggunakan kelas [MapiMessage](https://reference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) dari [Aspose.Email for .NET](https://products.aspose.com/msg /net/) API, Anda bisa mendapatkan informasi pengirim dan penerima. Misalnya, Anda dapat memeriksa msg pengirim tertentu untuk konversi dengan menggunakan properti [SenderName](https://reference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

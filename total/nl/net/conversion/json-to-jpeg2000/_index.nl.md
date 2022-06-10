@@ -18,10 +18,10 @@ Door [Aspose.Total for .NET](https://products.aspose.com/total/net/) te gebruike
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converteer JSON-formaat naar JPEG2000 via C#" %}}
-1. Maak een nieuw [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) object en lees JSON-gegevens uit het bestand
-2. Converteer JSON naar JPEG met behulp van [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) methode
-3. Laad JPEG-document met behulp van [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) class
-4. Sla het document op in JPEG2000-indeling met de methode [Save](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
+1. Maak een nieuw [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) object en lees JSON-gegevens uit het bestand
+2. Converteer JSON naar JPEG met behulp van [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) methode
+3. Laad JPEG-document met behulp van [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) class
+4. Sla het document op in JPEG2000-indeling met de methode [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
@@ -39,7 +39,7 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 {{< /blocks/products/pf/agp/feature-section >}}
 C#
 {{% blocks/products/pf/feature-page-section  h2="Stel lay-out in en converteer JSON-indeling naar JPEG2000 via C#" %}}
-Tijdens het ontleden van JSON naar JPEG2000, kunt u ook lay-outopties voor uw JSON instellen met [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Het stelt je in staat om Array als een tabel te verwerken, nulls te negeren, arraytitel te negeren, objecttitel te negeren, string naar getal of datum te converteren, datum- en getalnotatie in te stellen en titelstijl in te stellen. Met al deze opties kunt u uw gegevens presenteren volgens uw behoeften. Het volgende codefragment laat zien hoe u de lay-outopties instelt.  
+Tijdens het ontleden van JSON naar JPEG2000, kunt u ook lay-outopties voor uw JSON instellen met [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Het stelt je in staat om Array als een tabel te verwerken, nulls te negeren, arraytitel te negeren, objecttitel te negeren, string naar getal of datum te converteren, datum- en getalnotatie in te stellen en titelstijl in te stellen. Met al deze opties kunt u uw gegevens presenteren volgens uw behoeften. Het volgende codefragment laat zien hoe u de lay-outopties instelt.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "set-layout-and-parse-json-to-image.cs" >}}
@@ -48,7 +48,7 @@ Tijdens het ontleden van JSON naar JPEG2000, kunt u ook lay-outopties voor uw JS
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="JSON-indeling ontleden naar JPEG2000 met watermerk" %}}
-Met behulp van de API kunt u JSON ook converteren naar JPEG2000 met watermerk in uw JPEG2000-document. Om een watermerk toe te voegen, kunt u eerst uw JSON-document naar JPEG renderen en er een watermerk aan toevoegen. Om de bewerking te demonstreren, kunt u uw geconverteerde JPEG-afbeelding laden, transformaties toevoegen met behulp van een object van de klasse Matrix en een tekenreeks als watermerk op het afbeeldingsoppervlak tekenen met behulp van de [Graphics](https://apireference.aspose.com/imaging/ net/aspose.imaging/graphics) class' [DrawString](https://apireference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring) methode. Nadat u het watermerk eraan hebt toegevoegd, kunt u de JPEG opslaan als JPEG2000-indeling. Hieronder ziet u een codevoorbeeld dat laat zien hoe u een diagonaal watermerk aan uw document toevoegt. 
+Met behulp van de API kunt u JSON ook converteren naar JPEG2000 met watermerk in uw JPEG2000-document. Om een watermerk toe te voegen, kunt u eerst uw JSON-document naar JPEG renderen en er een watermerk aan toevoegen. Om de bewerking te demonstreren, kunt u uw geconverteerde JPEG-afbeelding laden, transformaties toevoegen met behulp van een object van de klasse Matrix en een tekenreeks als watermerk op het afbeeldingsoppervlak tekenen met behulp van de [Graphics](https://reference.aspose.com/imaging/ net/aspose.imaging/graphics) class' [DrawString](https://reference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring) methode. Nadat u het watermerk eraan hebt toegevoegd, kunt u de JPEG opslaan als JPEG2000-indeling. Hieronder ziet u een codevoorbeeld dat laat zien hoe u een diagonaal watermerk aan uw document toevoegt. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}

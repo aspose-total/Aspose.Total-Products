@@ -46,7 +46,7 @@ Export sestav do Wordu, Excelu, PowerPointu a dalších formátů z JasperReport
 {{< blocks/products/pf/slr-tab tabTitle="Výukové zdroje" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentace" href="https://docs.aspose.com/total/" >}}
 {{< blocks/products/pf/slr-element name="Zdrojový kód" href="http://aspose.github.io/" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Výuková videa" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

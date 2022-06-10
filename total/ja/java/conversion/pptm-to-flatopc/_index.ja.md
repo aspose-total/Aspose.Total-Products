@@ -16,10 +16,10 @@ otherformats: ODT WORDML FLATOPC RTF DOTM OTT WORD FLATOPCX DOT DOTX TEXT FLATOP
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Javaを介してPPTMをFLATOPCに変換する方法" %}}
-1. [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)クラスを使用してPPTMファイルを開きます
-2. [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slidesを使用してPPTMをHTMLに変換します。 ISaveOptions-)メソッドを使用し、HtmlをSaveFormatとして設定します
-3. [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument)クラスを使用して変換されたHTMLファイルをロードします
-4. [save](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,int))メソッドを使用してドキュメントをFLATOPC形式で保存します
+1. [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)クラスを使用してPPTMファイルを開きます
+2. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slidesを使用してPPTMをHTMLに変換します。 ISaveOptions-)メソッドを使用し、HtmlをSaveFormatとして設定します
+3. [Flatopcument](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument)クラスを使用して変換されたHTMLファイルをロードします
+4. [save](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,int))メソッドを使用してドキュメントをFLATOPC形式で保存します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 PPTMからFLATOPCファイルへの変換では、[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose)から直接Aspose.TotalforJavaを簡単に使用できます。 / aspose-total)ベースのプロジェクトであり、pom.xmlにライブラリを含めます。
@@ -34,7 +34,7 @@ PPTMからFLATOPCファイルへの変換では、[Maven](https://repository.asp
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="変換要件" %}}
-APIを使用して、透かしを使用してPPTMファイルからFLATOPCへの変換を実行することもできます。 FLATOPCドキュメントに透かしを追加するには、最初にPPTMファイルをHTMLに変換し、それに透かしを追加します。透かしを追加するには、[Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument)クラスを使用して新しく作成したHTMLファイルをロードし、TextWatermarkOptionsのインスタンスを作成して設定します。そのプロパティ、Watermark.setTextメソッドを呼び出し、TextWatermarkOptionsの透かしテキストとオブジェクトを渡します。  
+APIを使用して、透かしを使用してPPTMファイルからFLATOPCへの変換を実行することもできます。 FLATOPCドキュメントに透かしを追加するには、最初にPPTMファイルをHTMLに変換し、それに透かしを追加します。透かしを追加するには、[Flatopcument](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument)クラスを使用して新しく作成したHTMLファイルをロードし、TextWatermarkOptionsのインスタンスを作成して設定します。そのプロパティ、Watermark.setTextメソッドを呼び出し、TextWatermarkOptionsの透かしテキストとオブジェクトを渡します。  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}

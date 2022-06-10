@@ -18,10 +18,10 @@ otherformats: PCL PDF DOT FLATOPC JPEG PNG RTF TIFF DOCM PS GIF XPS ODT DOCX DOC
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API для преобразования EMAIL в BMP" %}}
-1. Откройте файл EMAIL с помощью класса [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage).
-2. Преобразуйте EMAIL в HTML, используя метод [Сохранить](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3).
-3. Загрузите HTML с помощью класса [Document](https://apireference.aspose.com/words/net/aspose.words/document).
-4. Сохраните документ в формате BMP с помощью метода [Сохранить](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) и установите Bmp в качестве формата сохранения.
+1. Откройте файл EMAIL с помощью класса [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage).
+2. Преобразуйте EMAIL в HTML, используя метод [Сохранить](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3).
+3. Загрузите HTML с помощью класса [Document](https://reference.aspose.com/words/net/aspose.words/document).
+4. Сохраните документ в формате BMP с помощью метода [Сохранить](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) и установите Bmp в качестве формата сохранения.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}
@@ -46,7 +46,7 @@ document.Save("output.bmp", SaveFormat.Bmp);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Разобрать файл EMAIL через .NET" %}}
-Перед преобразованием EMAIL в BMP, если вы хотите убедиться, что конвертируете правильное электронное письмо, вы можете загрузить документ EMAIL, проанализировать его и просмотреть желаемое свойство. Используя класс [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) класса [Aspose.Email для .NET](https://products.aspose.com/email /net/) API, вы можете получить информацию об отправителе и получателе. Например, вы можете проверить адрес электронной почты отправителя для конверсии, используя свойство [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
+Перед преобразованием EMAIL в BMP, если вы хотите убедиться, что конвертируете правильное электронное письмо, вы можете загрузить документ EMAIL, проанализировать его и просмотреть желаемое свойство. Используя класс [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) класса [Aspose.Email для .NET](https://products.aspose.com/email /net/) API, вы можете получить информацию об отправителе и получателе. Например, вы можете проверить адрес электронной почты отправителя для конверсии, используя свойство [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -61,7 +61,7 @@ if(outlookMessageFile.SenderName == "John"){
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ограничить редактирование документов BMP через .NET" %}}
-При сохранении документа из EMAIL в BMP вам может потребоваться защитить выходной документ. Иногда вам может понадобиться ограничить возможность редактирования документа и разрешить только определенные действия с ним. Это может быть полезно, чтобы другие люди не могли редактировать важную и конфиденциальную информацию в вашем документе. [Aspose.Words for .NET](https://products.aspose.com/words/net/) API позволяет вам контролировать способ ограничения контента с помощью [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype) параметр перечисления. Вы можете сделать свой документ доступным только для чтения, используя следующие строки кода. 
+При сохранении документа из EMAIL в BMP вам может потребоваться защитить выходной документ. Иногда вам может понадобиться ограничить возможность редактирования документа и разрешить только определенные действия с ним. Это может быть полезно, чтобы другие люди не могли редактировать важную и конфиденциальную информацию в вашем документе. [Aspose.Words for .NET](https://products.aspose.com/words/net/) API позволяет вам контролировать способ ограничения контента с помощью [ProtectionType](https://reference.aspose.com/words/net/aspose.words/protectiontype) параметр перечисления. Вы можете сделать свой документ доступным только для чтения, используя следующие строки кода. 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

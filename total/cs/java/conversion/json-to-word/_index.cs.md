@@ -16,10 +16,10 @@ Pomocí [Aspose.Total for Java](https://products.aspose.com/total/java/) můžet
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Převeďte formát JSON na WORD přes Java" %}}
-1. Vytvořte nový objekt [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) a načtěte platná data JSON ze souboru
-2. Importujte soubor JSON do listu pomocí třídy [JsonUtility](https://apireference.aspose.com/cells/java/com.aspose.cells/JsonUtility) a [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) to jako PDF
-3. Načtěte dokument PDF pomocí třídy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Uložte dokument do formátu WORD pomocí [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metoda
+1. Vytvořte nový objekt [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) a načtěte platná data JSON ze souboru
+2. Importujte soubor JSON do listu pomocí třídy [JsonUtility](https://reference.aspose.com/cells/java/com.aspose.cells/JsonUtility) a [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) to jako PDF
+3. Načtěte dokument PDF pomocí třídy [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. Uložte dokument do formátu WORD pomocí [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metoda
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Aspose.Total pro Javu můžete snadno používat přímo z projektu založeného na [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a zahrňte knihovny do vašeho pom.xml.
@@ -34,7 +34,7 @@ Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.c
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Požadavky na převod" %}}
-Kromě toho vám API umožňuje nastavit možnosti rozvržení pro váš JSON při analýze JSON do WORD pomocí [JsonLayoutOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonlayoutoptions). Umožňuje zpracovat pole jako tabulku, ignorovat hodnoty null, ignorovat název pole, ignorovat název objektu, převést řetězec na číslo nebo datum, nastavit formát data a čísla a nastavit styl nadpisu. Všechny tyto možnosti vám umožňují prezentovat data podle vašich potřeb. Následující fragment kódu ukazuje, jak nastavit možnosti rozvržení.  
+Kromě toho vám API umožňuje nastavit možnosti rozvržení pro váš JSON při analýze JSON do WORD pomocí [JsonLayoutOptions](https://reference.aspose.com/cells/java/com.aspose.cells/jsonlayoutoptions). Umožňuje zpracovat pole jako tabulku, ignorovat hodnoty null, ignorovat název pole, ignorovat název objektu, převést řetězec na číslo nebo datum, nastavit formát data a čísla a nastavit styl nadpisu. Všechny tyto možnosti vám umožňují prezentovat data podle vašich potřeb. Následující fragment kódu ukazuje, jak nastavit možnosti rozvržení.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "set-layout-and-parse-json-to-doc.java" >}}
@@ -42,7 +42,7 @@ Kromě toho vám API umožňuje nastavit možnosti rozvržení pro váš JSON p�
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Nastavte Layout & Convert JSON Format to WORD přes Java" %}}
-Pomocí API můžete také analyzovat JSON na WORD s vodoznakem. Chcete-li do dokumentu WORD přidat vodoznak, můžete nejprve převést soubor JSON do formátu PDF a přidat do něj vodoznak. Chcete-li přidat vodoznak, načtěte nově vytvořený soubor PDF pomocí třídy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document), vytvořte instanci TextWatermarkOptions a nastavte jeho vlastnosti, zavolejte metodu Watermark.setText a předejte text vodoznaku a objekt TextWatermarkOptions. Po přidání vodoznaku můžete dokument uložit do WORD. 
+Pomocí API můžete také analyzovat JSON na WORD s vodoznakem. Chcete-li do dokumentu WORD přidat vodoznak, můžete nejprve převést soubor JSON do formátu PDF a přidat do něj vodoznak. Chcete-li přidat vodoznak, načtěte nově vytvořený soubor PDF pomocí třídy [Document](https://reference.aspose.com/words/java/com.aspose.words/Document), vytvořte instanci TextWatermarkOptions a nastavte jeho vlastnosti, zavolejte metodu Watermark.setText a předejte text vodoznaku a objekt TextWatermarkOptions. Po přidání vodoznaku můžete dokument uložit do WORD. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "parse-json-to-word-with-watermark.cs" >}}

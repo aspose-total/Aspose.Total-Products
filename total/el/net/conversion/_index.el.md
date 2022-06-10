@@ -26,8 +26,8 @@ description: Μετατρέψτε τα Microsoft Word, Excel, PowerPoint, Outloo
 
 
 {{% blocks/products/pf/feature-page-section  h2="Μετατροπή PDF σε Εικόνες" %}}
-Το API υποστηρίζει τη μετατροπή PDF σε Εικόνες, Powerpoint, Excel και άλλες μορφές. Για τη μετατροπή PDF σε εικόνα, ας θεωρήσουμε την εικόνα JPG ως αρχείο προορισμού. Η διαδικασία είναι, φορτώστε το αρχείο PDF χρησιμοποιώντας την κλάση Document και αρχικοποιήστε το αντικείμενο [JpegDevice class](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) και αποδώστε το PDF σε JPEG μέσω [Process](https μέθοδος ://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1)
-Φορτώστε το αρχείο JPEG χρησιμοποιώντας την κλάση [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) και τέλος καλέστε τη μέθοδο Save.
+Το API υποστηρίζει τη μετατροπή PDF σε Εικόνες, Powerpoint, Excel και άλλες μορφές. Για τη μετατροπή PDF σε εικόνα, ας θεωρήσουμε την εικόνα JPG ως αρχείο προορισμού. Η διαδικασία είναι, φορτώστε το αρχείο PDF χρησιμοποιώντας την κλάση Document και αρχικοποιήστε το αντικείμενο [JpegDevice class](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) και αποδώστε το PDF σε JPEG μέσω [Process](https μέθοδος ://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1)
+Φορτώστε το αρχείο JPEG χρησιμοποιώντας την κλάση [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) και τέλος καλέστε τη μέθοδο Save.
 
 {{% blocks/products/pf/feature-page-code h3="C# - Μετατροπή PDF σε εικόνα" %}}
 
@@ -41,7 +41,7 @@ description: Μετατρέψτε τα Microsoft Word, Excel, PowerPoint, Outloo
 
 {{% blocks/products/pf/feature-page-section  h2="Μετατροπή Excel σε Word και PowerPoint" %}}
 
-Για τη μετατροπή μορφών Microsoft Excel σε διαφορετικά αρχεία, συμπεριλαμβανομένων των Word και PowerPoint, σχετικά δευτερεύοντα API που περιλαμβάνονται στο κύριο Aspose.Total για .NET API. Διαδικασία μετατροπής αρχείων Excel σε έγγραφο Word, φορτώστε το αρχείο EXCEL χρησιμοποιώντας την κλάση [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) και μετατρέψτε το EXCEL σε PDF πρώτα και ορίστε το SaveFormat σε Auto. Στη συνέχεια, φορτώστε το αρχείο PDF που μετατράπηκε χρησιμοποιώντας την κλάση Document και καλέστε τη μέθοδο Save και ορίστε το Doc, Docx ως SaveFormat. Ο κώδικας παρατίθεται επίσης για τη μετατροπή Microsoft **Excel σε Powerpoint**.
+Για τη μετατροπή μορφών Microsoft Excel σε διαφορετικά αρχεία, συμπεριλαμβανομένων των Word και PowerPoint, σχετικά δευτερεύοντα API που περιλαμβάνονται στο κύριο Aspose.Total για .NET API. Διαδικασία μετατροπής αρχείων Excel σε έγγραφο Word, φορτώστε το αρχείο EXCEL χρησιμοποιώντας την κλάση [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) και μετατρέψτε το EXCEL σε PDF πρώτα και ορίστε το SaveFormat σε Auto. Στη συνέχεια, φορτώστε το αρχείο PDF που μετατράπηκε χρησιμοποιώντας την κλάση Document και καλέστε τη μέθοδο Save και ορίστε το Doc, Docx ως SaveFormat. Ο κώδικας παρατίθεται επίσης για τη μετατροπή Microsoft **Excel σε Powerpoint**.
 
 {{% blocks/products/pf/feature-page-code h3="C# - Μετατροπή JSON σε Excel" %}}
 

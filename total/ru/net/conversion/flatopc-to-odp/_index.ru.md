@@ -36,11 +36,11 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. Добавить ссылку на Aspose.Total для .NET
-1. Загрузите файл DOCM, используя класс [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document)
+1. Загрузите файл DOCM, используя класс [Aspose.Words.Document](https://reference.aspose.com/words/net/aspose.words/document)
 1. Сохраните документ FLATOPC в HTML.
-1. Создайте объект [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
+1. Создайте объект [Aspose.Slides.Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
 1. Импорт содержимого HTML в текстовом фрейме любой формы слайда внутри презентации.
-1. Сохраните документ, используя [Aspose.Slides.Presentation.Save("output.odp", SaveFormat.Odp)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5 )
+1. Сохраните документ, используя [Aspose.Slides.Presentation.Save("output.odp", SaveFormat.Odp)](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5 )
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

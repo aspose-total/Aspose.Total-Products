@@ -16,10 +16,10 @@ otherformats: MD DOCM PS GIF XPS DOC DOT ODT DOTM EMF OTT DOTX SVG TEXT WORDML D
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Πώς να μετατρέψετε το OFT σε DOTM" %}}
-1. Ανοίξτε το αρχείο OFT χρησιμοποιώντας την τάξη [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)
-2. Μετατρέψτε το OFT σε HTML χρησιμοποιώντας [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) μέθοδος
-3. Φορτώστε το HTML χρησιμοποιώντας την κλάση [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Αποθηκεύστε το έγγραφο σε μορφή DOTM χρησιμοποιώντας [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) και ορίστε το DOTM ως SaveFormat
+1. Ανοίξτε το αρχείο OFT χρησιμοποιώντας την τάξη [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Μετατρέψτε το OFT σε HTML χρησιμοποιώντας [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) μέθοδος
+3. Φορτώστε το HTML χρησιμοποιώντας την κλάση [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. Αποθηκεύστε το έγγραφο σε μορφή DOTM χρησιμοποιώντας [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) και ορίστε το DOTM ως SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
 Πρέπει να χρησιμοποιήσετε το Aspose.Total για Java απευθείας από ένα έργο που βασίζεται στο [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) και συμπεριλάβετε βιβλιοθήκες στο pom.xml σας.

@@ -159,7 +159,7 @@ Aspose.Total เป็นชุดที่มีประสิทธิภา�
 {{< blocks/products/pf/slr-tab tabTitle="แหล่งเรียนรู้" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="เอกสาร" href="https://docs.aspose.com/total/androidjava/" >}} 
 {{< blocks/products/pf/slr-element name="รหัสแหล่งที่มา" href="http://aspose.github.io/" >}} 
-{{< blocks/products/pf/slr-element name="อ้างอิง API อ้างอิง" href="https://apireference.aspose.com/" >}} 
+{{< blocks/products/pf/slr-element name="อ้างอิง API อ้างอิง" href="https://reference.aspose.com/" >}} 
 {{< blocks/products/pf/slr-element name="วิดีโอสอน" href="https://www.youtube.com/user/asposevideo" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 

@@ -18,10 +18,10 @@ Mit einem Paket leistungsstarker APIs zur Dateiformatautomatisierung [Aspose.Tot
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET-API zum Konvertieren von TEX in PPS" %}}
-1. Öffnen Sie die TEX-Datei mit der Klasse [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document).
-2. Konvertieren Sie TEX in PPTX, indem Sie die Methode [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) verwenden
-3. Laden Sie die PPTX-Datei mithilfe der Klasse [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation).
-4. Speichern Sie das Dokument mit der Methode [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) im PPS-Format und legen Sie „Pps“ als SaveFormat fest
+1. Öffnen Sie die TEX-Datei mit der Klasse [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document).
+2. Konvertieren Sie TEX in PPTX, indem Sie die Methode [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) verwenden
+3. Laden Sie die PPTX-Datei mithilfe der Klasse [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation).
+4. Speichern Sie das Dokument mit der Methode [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) im PPS-Format und legen Sie „Pps“ als SaveFormat fest
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
@@ -47,7 +47,7 @@ presentation.Save("output.pps", SaveFormat.Pps);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Holen Sie sich XMP-Metadaten aus der TEX-Datei über .NET" %}}
-Während der Konvertierung von TEX in PPS benötigen Sie möglicherweise zusätzliche XMP-Metadateninformationen, um Ihren Batch-Konvertierungsprozess zu priorisieren. Beispielsweise können Sie Ihre Konvertierungsdokumente nach Erstellungsdatum abrufen und sortieren und die Dokumente entsprechend verarbeiten. [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) ermöglicht Ihnen den Zugriff auf die XMP-Metadaten einer TEX-Datei. Um die Metadaten einer TEX-Datei abzurufen, können Sie ein [Dokument](https://apireference.aspose.com/pdf/net/aspose.pdf/document)-Objekt erstellen und die Eingabe-TEX-Datei öffnen. Danach können Sie die Metadaten der Datei mit der Eigenschaft [Metadata](https://apireference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata) abrufen.  
+Während der Konvertierung von TEX in PPS benötigen Sie möglicherweise zusätzliche XMP-Metadateninformationen, um Ihren Batch-Konvertierungsprozess zu priorisieren. Beispielsweise können Sie Ihre Konvertierungsdokumente nach Erstellungsdatum abrufen und sortieren und die Dokumente entsprechend verarbeiten. [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) ermöglicht Ihnen den Zugriff auf die XMP-Metadaten einer TEX-Datei. Um die Metadaten einer TEX-Datei abzurufen, können Sie ein [Dokument](https://reference.aspose.com/pdf/net/aspose.pdf/document)-Objekt erstellen und die Eingabe-TEX-Datei öffnen. Danach können Sie die Metadaten der Datei mit der Eigenschaft [Metadata](https://reference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata) abrufen.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

@@ -18,10 +18,10 @@ Al usar [Aspose.Total for .NET](https://products.aspose.com/total/net/) puede an
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convierta el formato JSON a WMF a través de C#" %}}
-1. Cree un nuevo objeto [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook) y lea los datos JSON del archivo.
-2. Convierta JSON a JPEG utilizando el método [Guardar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
-3. Cargue el documento JPEG usando la clase [Imagen](https://apireference.aspose.com/imaging/net/aspose.imaging/image)
-4. Guarde el documento en formato WMF usando el método [Guardar](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
+1. Cree un nuevo objeto [Libro de trabajo](https://reference.aspose.com/cells/net/aspose.cells/workbook) y lea los datos JSON del archivo.
+2. Convierta JSON a JPEG utilizando el método [Guardar](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+3. Cargue el documento JPEG usando la clase [Imagen](https://reference.aspose.com/imaging/net/aspose.imaging/image)
+4. Guarde el documento en formato WMF usando el método [Guardar](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
@@ -39,7 +39,7 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Establezca el diseño y convierta el formato JSON a WMF a través de C#" %}}
-Mientras analiza JSON a WMF, también puede establecer opciones de diseño para su JSON mediante [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Le permite procesar Array como una tabla, ignorar nulos, ignorar el título de la matriz, ignorar el título del objeto, convertir cadenas en números o fechas, establecer el formato de fecha y número y establecer el estilo del título. Todas estas opciones le permiten presentar sus datos según sus necesidades. El siguiente fragmento de código le muestra cómo configurar las opciones de diseño.  
+Mientras analiza JSON a WMF, también puede establecer opciones de diseño para su JSON mediante [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Le permite procesar Array como una tabla, ignorar nulos, ignorar el título de la matriz, ignorar el título del objeto, convertir cadenas en números o fechas, establecer el formato de fecha y número y establecer el estilo del título. Todas estas opciones le permiten presentar sus datos según sus necesidades. El siguiente fragmento de código le muestra cómo configurar las opciones de diseño.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "set-layout-and-parse-json-to-image.cs" >}}
@@ -47,7 +47,7 @@ Mientras analiza JSON a WMF, también puede establecer opciones de diseño para 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Analizar formato JSON a WMF con marca de agua" %}}
-Usando la API, también puede convertir JSON a WMF con marca de agua en su documento WMF. Para agregar una marca de agua, primero puede renderizar su documento JSON a JPEG y agregarle una marca de agua. Para demostrar la operación, puede cargar su imagen JPEG convertida, agregar transformaciones usando un objeto de la clase Matrix y dibujar una cadena como marca de agua en la superficie de la imagen usando [Gráficos](https://apireference.aspose.com/imaging/ net/aspose.imaging/graphics) class' [DrawString](https://apireference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring) método. Después de agregarle la marca de agua, puede guardar el JPEG como formato WMF. A continuación se muestra un ejemplo de código que demuestra cómo agregar una marca de agua diagonal a su documento. 
+Usando la API, también puede convertir JSON a WMF con marca de agua en su documento WMF. Para agregar una marca de agua, primero puede renderizar su documento JSON a JPEG y agregarle una marca de agua. Para demostrar la operación, puede cargar su imagen JPEG convertida, agregar transformaciones usando un objeto de la clase Matrix y dibujar una cadena como marca de agua en la superficie de la imagen usando [Gráficos](https://reference.aspose.com/imaging/ net/aspose.imaging/graphics) class' [DrawString](https://reference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring) método. Después de agregarle la marca de agua, puede guardar el JPEG como formato WMF. A continuación se muestra un ejemplo de código que demuestra cómo agregar una marca de agua diagonal a su documento. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}

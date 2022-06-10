@@ -16,10 +16,10 @@ otherformats: WORD DOCX ODT WORDML DOT DOCXM DOTX DOTM FLATOPC RTF TEXT OTT
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cara Mengonversi POWERPOINT ke DOCX melalui Java" %}}
-1. Buka file POWERPOINT menggunakan kelas [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Konversi POWERPOINT ke HTML dengan menggunakan [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) metode dan atur Html sebagai SaveFormat
-3. Muat file HTML yang dikonversi menggunakan kelas [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Simpan dokumen ke format DOCX menggunakan metode [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
+1. Buka file POWERPOINT menggunakan kelas [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. Konversi POWERPOINT ke HTML dengan menggunakan [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) metode dan atur Html sebagai SaveFormat
+3. Muat file HTML yang dikonversi menggunakan kelas [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. Simpan dokumen ke format DOCX menggunakan metode [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
 Untuk konversi file POWERPOINT ke DOCX, Anda dapat dengan mudah menggunakan Aspose.Total untuk Java langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) berdasarkan proyek dan sertakan perpustakaan di pom.xml Anda.
@@ -34,7 +34,7 @@ Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://downloads.aspose.c
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Persyaratan Konversi" %}}[Document]
-Menggunakan API, Anda juga dapat melakukan konversi file POWERPOINT ke DOCX dengan tanda air. Untuk menambahkan tanda air ke dokumen DOCX Anda, Anda dapat terlebih dahulu mengonversi file POWERPOINT ke HTML dan menambahkan tanda air ke dalamnya. Untuk menambahkan tanda air, muat file HTML yang baru dibuat menggunakan kelas [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document), buat instance TextWatermarkOptions dan atur propertinya, Panggil metode Watermark.setText dan berikan teks watermark & objek TextWatermarkOptions.  
+Menggunakan API, Anda juga dapat melakukan konversi file POWERPOINT ke DOCX dengan tanda air. Untuk menambahkan tanda air ke dokumen DOCX Anda, Anda dapat terlebih dahulu mengonversi file POWERPOINT ke HTML dan menambahkan tanda air ke dalamnya. Untuk menambahkan tanda air, muat file HTML yang baru dibuat menggunakan kelas [Document](https://reference.aspose.com/words/java/com.aspose.words/Document), buat instance TextWatermarkOptions dan atur propertinya, Panggil metode Watermark.setText dan berikan teks watermark & objek TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}

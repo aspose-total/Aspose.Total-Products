@@ -18,10 +18,10 @@ otherformats: PPSM POWERPOINT XAML POTM PPSX SWF PPT POTX PPTM PPS POT OTP
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="NET API لتحويل MD إلى PPSM" %}}
-1. افتح ملف MD باستخدام فئة [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
-2. تحويل MD إلى PPTX باستخدام طريقة [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
-3. قم بتحميل ملف PPTX باستخدام فئة [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-4. احفظ المستند بتنسيق PPSM باستخدام طريقة [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) وعيّن `Ppsm` على أنه SaveFormat
+1. افتح ملف MD باستخدام فئة [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
+2. تحويل MD إلى PPTX باستخدام طريقة [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. قم بتحميل ملف PPTX باستخدام فئة [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+4. احفظ المستند بتنسيق PPSM باستخدام طريقة [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) وعيّن `Ppsm` على أنه SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
@@ -47,7 +47,7 @@ presentation.Save("output.ppsm", SaveFormat.Ppsm);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="احصل على XMP Metadata من ملف MD عبر .NET" %}}
-أثناء تحويل MD إلى PPSM ، قد تحتاج إلى معلومات بيانات وصفية إضافية لـ XMP لتحديد أولويات عملية تحويل الدُفعات. على سبيل المثال ، يمكنك الحصول على مستندات التحويل وفرزها بناءً على تاريخ الإنشاء ومعالجة المستندات وفقًا لذلك. يسمح لك [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) بالوصول إلى بيانات XMP الوصفية لملف MD. للحصول على البيانات الوصفية لملف MD ، يمكنك إنشاء كائن [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) وفتح ملف MD للإدخال. بعد ذلك ، يمكنك الحصول على البيانات الوصفية للملف باستخدام خاصية [Metadata](https://apireference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata).  
+أثناء تحويل MD إلى PPSM ، قد تحتاج إلى معلومات بيانات وصفية إضافية لـ XMP لتحديد أولويات عملية تحويل الدُفعات. على سبيل المثال ، يمكنك الحصول على مستندات التحويل وفرزها بناءً على تاريخ الإنشاء ومعالجة المستندات وفقًا لذلك. يسمح لك [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) بالوصول إلى بيانات XMP الوصفية لملف MD. للحصول على البيانات الوصفية لملف MD ، يمكنك إنشاء كائن [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) وفتح ملف MD للإدخال. بعد ذلك ، يمكنك الحصول على البيانات الوصفية للملف باستخدام خاصية [Metadata](https://reference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

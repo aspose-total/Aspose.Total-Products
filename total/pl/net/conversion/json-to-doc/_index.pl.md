@@ -18,10 +18,10 @@ Używając [Aspose.Total for .NET](https://products.aspose.com/total/net/) może
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konwertuj format JSON na DOC za pomocą C#" %}}
-1. Utwórz nowy obiekt [Skoroszyt](https://apireference.aspose.com/cells/net/aspose.cells/workbook) i odczytaj prawidłowe dane JSON z pliku
-2. Zaimportuj plik JSON do arkusza roboczego za pomocą klasy [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) i [Save](https://apireference.aspose.com/ cell/net/aspose.cells.workbook/save/methods/4) jako PDF
-3. Załaduj dokument PDF za pomocą klasy [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-4. Zapisz dokument w formacie DOC za pomocą metody [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)
+1. Utwórz nowy obiekt [Skoroszyt](https://reference.aspose.com/cells/net/aspose.cells/workbook) i odczytaj prawidłowe dane JSON z pliku
+2. Zaimportuj plik JSON do arkusza roboczego za pomocą klasy [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) i [Save](https://reference.aspose.com/ cell/net/aspose.cells.workbook/save/methods/4) jako PDF
+3. Załaduj dokument PDF za pomocą klasy [Document](https://reference.aspose.com/words/net/aspose.words/document)
+4. Zapisz dokument w formacie DOC za pomocą metody [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/3)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
@@ -39,7 +39,7 @@ Możesz też pobrać instalator offline MSI lub biblioteki DLL w pliku ZIP ze st
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ustaw układ i przekonwertuj format JSON na DOC za pomocą C#" %}}
-Podczas analizowania JSON do DOC możesz również ustawić opcje układu dla swojego JSON za pomocą [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Umożliwia przetwarzanie tablicy jako tabeli, ignorowanie wartości null, ignorowanie tytułu tablicy, ignorowanie tytułu obiektu, konwersję ciągu na liczbę lub datę, ustawianie formatu daty i liczby oraz ustawianie stylu tytułu. Wszystkie te opcje umożliwiają prezentację danych zgodnie z własnymi potrzebami. Poniższy fragment kodu pokazuje, jak ustawić opcje układu.  
+Podczas analizowania JSON do DOC możesz również ustawić opcje układu dla swojego JSON za pomocą [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Umożliwia przetwarzanie tablicy jako tabeli, ignorowanie wartości null, ignorowanie tytułu tablicy, ignorowanie tytułu obiektu, konwersję ciągu na liczbę lub datę, ustawianie formatu daty i liczby oraz ustawianie stylu tytułu. Wszystkie te opcje umożliwiają prezentację danych zgodnie z własnymi potrzebami. Poniższy fragment kodu pokazuje, jak ustawić opcje układu.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "set-layout-and-parse-json-to-doc.cs" >}}
@@ -48,7 +48,7 @@ Podczas analizowania JSON do DOC możesz również ustawić opcje układu dla sw
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Przetwarzaj format JSON do DOC za pomocą znaku wodnego" %}}
-Korzystając z API, możesz również przekonwertować JSON na DOC ze znakiem wodnym. Aby dodać znak wodny do dokumentu DOC, możesz najpierw przeanalizować plik JSON do formatu PDF i dodać do niego znak wodny. Aby dodać znak wodny, załaduj nowo utworzony plik PDF za pomocą klasy [Document](https://apireference.aspose.com/words/net/aspose.words/document), utwórz instancję TextWatermarkOptions i ustaw jego właściwości , Wywołaj metodę Watermark.SetText i przekaż tekst znaku wodnego i obiekt TextWatermarkOptions. Po dodaniu znaku wodnego możesz zapisać dokument w DOC. 
+Korzystając z API, możesz również przekonwertować JSON na DOC ze znakiem wodnym. Aby dodać znak wodny do dokumentu DOC, możesz najpierw przeanalizować plik JSON do formatu PDF i dodać do niego znak wodny. Aby dodać znak wodny, załaduj nowo utworzony plik PDF za pomocą klasy [Document](https://reference.aspose.com/words/net/aspose.words/document), utwórz instancję TextWatermarkOptions i ustaw jego właściwości , Wywołaj metodę Watermark.SetText i przekaż tekst znaku wodnego i obiekt TextWatermarkOptions. Po dodaniu znaku wodnego możesz zapisać dokument w DOC. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}

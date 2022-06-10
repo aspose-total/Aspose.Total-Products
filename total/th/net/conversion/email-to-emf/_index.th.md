@@ -18,10 +18,10 @@ otherformats: XPS OTT DOTM EPUB GIF TEXT PCL DOT PS PDF DOTX ODT RTF DOCX DOCM P
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API เพื่อแปลง EMAIL เป็น EMF" %}}
-1. เปิดไฟล์ EMAIL โดยใช้คลาส [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage)
-2. แปลง EMAIL เป็น HTML โดยใช้วิธีการ [Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
-3. โหลด HTML โดยใช้คลาส [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-4. บันทึกเอกสารเป็นรูปแบบ EMF โดยใช้เมธอด [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) และตั้งค่า Emf เป็น SaveFormat
+1. เปิดไฟล์ EMAIL โดยใช้คลาส [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage)
+2. แปลง EMAIL เป็น HTML โดยใช้วิธีการ [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
+3. โหลด HTML โดยใช้คลาส [Document](https://reference.aspose.com/words/net/aspose.words/document)
+4. บันทึกเอกสารเป็นรูปแบบ EMF โดยใช้เมธอด [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) และตั้งค่า Emf เป็น SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
@@ -47,7 +47,7 @@ document.Save("output.emf", SaveFormat.Emf);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="แยกไฟล์ EMAIL ผ่าน .NET" %}}
-ก่อนแปลง EMAIL เป็น EMF หากคุณต้องการแน่ใจว่าคุณกำลังแปลงอีเมลที่ถูกต้อง คุณสามารถโหลดเอกสาร EMAIL แยกวิเคราะห์ และดูคุณสมบัติที่คุณต้องการได้ โดยใช้ [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) คลาสของ [Aspose.Email for .NET](https://products.aspose.com/email /net/) API คุณสามารถรับข้อมูลผู้ส่งและผู้รับ ตัวอย่างเช่น คุณสามารถตรวจสอบอีเมลผู้ส่งเฉพาะสำหรับการแปลงโดยใช้คุณสมบัติ [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername)  
+ก่อนแปลง EMAIL เป็น EMF หากคุณต้องการแน่ใจว่าคุณกำลังแปลงอีเมลที่ถูกต้อง คุณสามารถโหลดเอกสาร EMAIL แยกวิเคราะห์ และดูคุณสมบัติที่คุณต้องการได้ โดยใช้ [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) คลาสของ [Aspose.Email for .NET](https://products.aspose.com/email /net/) API คุณสามารถรับข้อมูลผู้ส่งและผู้รับ ตัวอย่างเช่น คุณสามารถตรวจสอบอีเมลผู้ส่งเฉพาะสำหรับการแปลงโดยใช้คุณสมบัติ [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername)  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

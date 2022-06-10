@@ -18,12 +18,12 @@ otherformats: PPTX PPS POTM POT POWERPOINT ODP PPTM POTX PPSX PPT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="DOT to PPSM Conversion on C++" %}}
-1. Open DOT file using [Document](https://apireference.aspose.com/words/cpp/class/aspose.words.document) class reference
-2. Convert DOT to HTML by using [Save](https://apireference.aspose.com/words/cpp/class/aspose.words.document#save_stdbasicostream_saveoptions) member function
-3. Initialize a new [Presentation](https://apireference.aspose.com/slides/cpp/class/aspose.slides.presentation) object
+1. Open DOT file using [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) class reference
+2. Convert DOT to HTML by using [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stdbasicostream_saveoptions) member function
+3. Initialize a new [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) object
 4. Add an AutoShape in your slide, and add AddTextFrame in it
 5. Load the HTML content and write it in your Presentation file
-6. Save the document to PPSM format using [Save](https://apireference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) method and set Ppsm as SaveFormat
+6. Save the document to PPSM format using [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) method and set Ppsm as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with C++ File Format APIs" %}}
@@ -66,7 +66,7 @@ pres->Save(output.ppsm, Aspose::Slides::Export::SaveFormat::Ppsm);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Load Password Protected DOT Document via C++" %}}
-Apart from document conversion, [Aspose.Words for C++](https://products.aspose.com/words/cpp/) API allows tons of document manipulation features for C++ developers. In case your Microsoft Word DOT file format is password protected, you can still open it using the API. In order to load the encrypted document, you can use a special constructor overload, which accepts a [LoadOptions](https://apireference.aspose.com/words/cpp/class/aspose.words.loading.load_options) object. This object contains the Password property, which specifies the password string.  
+Apart from document conversion, [Aspose.Words for C++](https://products.aspose.com/words/cpp/) API allows tons of document manipulation features for C++ developers. In case your Microsoft Word DOT file format is password protected, you can still open it using the API. In order to load the encrypted document, you can use a special constructor overload, which accepts a [LoadOptions](https://reference.aspose.com/words/cpp/class/aspose.words.loading.load_options) object. This object contains the Password property, which specifies the password string.  
 {{% blocks/products/pf/feature-page-code %}}
 ```cpp
 // when loading password protected document, the password is passed to the document's constructor using a LoadOptions object.

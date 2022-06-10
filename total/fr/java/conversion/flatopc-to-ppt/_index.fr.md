@@ -16,11 +16,11 @@ Souvent, les développeurs doivent convertir le fichier FLATOPC en PPT par progr
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Comment convertir FLATOPC en PPT via Java" %}}
-1. Ouvrez le fichier FLATOPC à l'aide de la classe [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument)
-2. Convertissez le fichier FLATOPC en HTML en utilisant [save](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,com.aspose.words.SaveOptions)) méthode
-3. Initialisez un nouvel objet [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+1. Ouvrez le fichier FLATOPC à l'aide de la classe [Flatopcument](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument)
+2. Convertissez le fichier FLATOPC en HTML en utilisant [save](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,com.aspose.words.SaveOptions)) méthode
+3. Initialisez un nouvel objet [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extrayez le contenu du fichier HTML à l'aide de BufferedReader et écrivez le contenu dans votre fichier de présentation
-6. Enregistrez le flatopcument dans PPT à l'aide de la méthode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. Enregistrez le flatopcument dans PPT à l'aide de la méthode [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
 Pour la conversion de fichiers FLATOPC en PPT, vous pouvez facilement utiliser Aspose.Total pour Java directement à partir d'un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et incluez des bibliothèques dans votre fichier pom.xml.

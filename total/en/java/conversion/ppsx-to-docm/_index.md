@@ -18,10 +18,10 @@ otherformats: DOT WORD WORDML DOC DOTX RTF ODT OTT FLATOPC DOTM TEXT DOCX
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="How to Convert PPSX to DOCM via Java" %}}
-1. Open PPSX file using [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) class
-2. Convert PPSX to HTML by using [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method and set Html as SaveFormat
-3. Load the converted HTML file using [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) class
-4. Save the document to DOCM format using [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) method
+1. Open PPSX file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
+2. Convert PPSX to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method and set Html as SaveFormat
+3. Load the converted HTML file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
+4. Save the document to DOCM format using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="PPSX File Conversion in Java" %}}
@@ -36,7 +36,7 @@ Alternatively, you can get a ZIP file from [downloads](https://downloads.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert PPSX to DOCM with Watermark via Java" %}}
-Using the API, you can also perform PPSX file to DOCM conversion with watermark. In order to add a watermark to your DOCM document, you can first convert the PPSX  file to HTML and add a watermark to it. In order to add a watermark, load the newly created HTML file using the [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) class, create an instance of TextWatermarkOptions and set its properties, Call Watermark.setText method and pass watermark text & object of TextWatermarkOptions.
+Using the API, you can also perform PPSX file to DOCM conversion with watermark. In order to add a watermark to your DOCM document, you can first convert the PPSX  file to HTML and add a watermark to it. In order to add a watermark, load the newly created HTML file using the [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class, create an instance of TextWatermarkOptions and set its properties, Call Watermark.setText method and pass watermark text & object of TextWatermarkOptions.
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}

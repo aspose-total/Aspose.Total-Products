@@ -18,10 +18,10 @@ Genom att använda [Aspose.Total för .NET](https://products.aspose.com/total/ne
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API för att konvertera DOTM till XLTX" %}}
-1. Öppna DOTM-filen med klassen [Dotmument](https://apireference.aspose.com/words/net/aspose.words/dotmument)
-2. Konvertera DOTM till HTML med metoden [Save](https://apireference.aspose.com/words/net/aspose.words.dotmument/save/methods/4)
-3. Ladda HTML-dokument genom att använda klassen [Arbetsbok](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Spara dokumentet i XLTX-format med metoden [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) och ställ in "XLTX" som SaveFormat
+1. Öppna DOTM-filen med klassen [Dotmument](https://reference.aspose.com/words/net/aspose.words/dotmument)
+2. Konvertera DOTM till HTML med metoden [Save](https://reference.aspose.com/words/net/aspose.words.dotmument/save/methods/4)
+3. Ladda HTML-dokument genom att använda klassen [Arbetsbok](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Spara dokumentet i XLTX-format med metoden [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) och ställ in "XLTX" som SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
@@ -39,7 +39,7 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ladda DOTM-dokument från Stream via C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) låter dig också ladda DOTM-dokument via stream. För att öppna ett dokument från en ström, skicka helt enkelt ett strömobjekt som innehåller dokumentet till konstruktorn [Dokument](https://apireference.aspose.com/words/net/aspose.words/dotmument). Följande kodexempel visar hur man öppnar ett dokument från en ström:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) låter dig också ladda DOTM-dokument via stream. För att öppna ett dokument från en ström, skicka helt enkelt ett strömobjekt som innehåller dokumentet till konstruktorn [Dokument](https://reference.aspose.com/words/net/aspose.words/dotmument). Följande kodexempel visar hur man öppnar ett dokument från en ström:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
@@ -47,7 +47,7 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Lägg till anpassade egenskaper i XLTX-fil via C#" %}}
-När du konverterar DOTM till XLTX gör [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) det möjligt för dig att lägga till anpassade egenskaper i dina XLTX-dokument. För att lägga till en anpassad egenskap kan du använda metoden [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection/methods/add/index) för [CustomDotmumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection) klass. Add-metoden lägger till egenskapen i Excel-filen och returnerar en referens för den nya dokumentegenskapen som en [Aspose.Cells.Properties.DotmumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /dotmumentproperty) objekt. 
+När du konverterar DOTM till XLTX gör [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) det möjligt för dig att lägga till anpassade egenskaper i dina XLTX-dokument. För att lägga till en anpassad egenskap kan du använda metoden [Add](https://reference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection/methods/add/index) för [CustomDotmumentPropertyCollection](https://reference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection) klass. Add-metoden lägger till egenskapen i Excel-filen och returnerar en referens för den nya dokumentegenskapen som en [Aspose.Cells.Properties.DotmumentProperty](https://reference.aspose.com/cells/net/aspose.cells.properties /dotmumentproperty) objekt. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}

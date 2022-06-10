@@ -18,10 +18,10 @@ Using a package of powerful File Format Automation APIs [Aspose.Total for .NET](
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API to Convert PS to POT" %}}
-1. Open PS file using [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) class
-2. Convert PS to PPTX by using [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load PPTX file by using [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) class 
-4. Save the document to POT format using [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method and set `Pot` as SaveFormat
+1. Open PS file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+2. Convert PS to PPTX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
+3. Load PPTX file by using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class 
+4. Save the document to POT format using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method and set `Pot` as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Format APIs" %}}
@@ -44,7 +44,7 @@ presentation.Save("output.pot", SaveFormat.Pot);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Get XMP Metadata from PS File via .NET" %}}
-While converting PS to POT, you might need extra XMP metadata information to prioritize your batch conversion process. For example you can get and sort your conversion documents based on creation date and process the documents accordingly. [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) allows you to access a PS file’s XMP metadata. To get a PS file’s metadata, you can create a [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) object and open the input PS file. After that, you can get the file’s metadata using the [Metadata](https://apireference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata) property.
+While converting PS to POT, you might need extra XMP metadata information to prioritize your batch conversion process. For example you can get and sort your conversion documents based on creation date and process the documents accordingly. [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) allows you to access a PS file’s XMP metadata. To get a PS file’s metadata, you can create a [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) object and open the input PS file. After that, you can get the file’s metadata using the [Metadata](https://reference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata) property.
 {{% blocks/products/pf/feature-page-code %}}
 ```cs// open PS document
 Document doc = new Document("input.ps");

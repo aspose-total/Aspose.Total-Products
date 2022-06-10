@@ -16,11 +16,11 @@ Seringkali pengembang harus mengonversi file TXT ke PPTX secara terprogram. Deng
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cara Mengonversi TXT ke PPTX melalui Java" %}}
-1. Buka file TXT menggunakan kelas [Txtument](https://apireference.aspose.com/words/java/com.aspose.words/Txtument)
-2. Konversi file TXT ke HTML dengan menggunakan [save](https://apireference.aspose.com/words/java/com.aspose.words/Txtument#save(java.lang.String,com.aspose.words.SaveOptions)) metode
-3. Inisialisasi objek [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) baru
+1. Buka file TXT menggunakan kelas [Txtument](https://reference.aspose.com/words/java/com.aspose.words/Txtument)
+2. Konversi file TXT ke HTML dengan menggunakan [save](https://reference.aspose.com/words/java/com.aspose.words/Txtument#save(java.lang.String,com.aspose.words.SaveOptions)) metode
+3. Inisialisasi objek [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) baru
 5. Ekstrak konten dari file HTML menggunakan BufferedReader dan tulis konten di file presentasi Anda
-6. Simpan dokumen ke PPTX menggunakan metode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. Simpan dokumen ke PPTX menggunakan metode [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
 Untuk konversi file TXT ke PPTX, Anda dapat dengan mudah menggunakan Aspose.Total untuk Java langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) berdasarkan proyek dan sertakan perpustakaan di pom.xml Anda.

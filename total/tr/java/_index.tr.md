@@ -274,7 +274,7 @@ Aspose.Total, neredeyse her tür belgeyi yüksek hızda ve mükemmel kalitede i�
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="belgeler" href="https://docs.aspose.com/total/java/" >}} 
 {{< blocks/products/pf/slr-element name="Kaynak kodu" href="http://aspose.github.io/" >}} 
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/" >}} 
+{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/" >}} 
 {{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 

@@ -16,11 +16,11 @@ otherformats: PPTX POTX PPSM POWERPOINT PPS PPT POTM POT PPTM PPSX CSV DIF FODS 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java ile DOTM'yi POTX'ye Dönüştürme" %}}
-1. DOTM dosyasını [Dotmument](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument) sınıfını kullanarak açın
-2. [save](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,com.aspose.words.SaveOptions) kullanarak DOTM dosyasını HTML'ye dönüştürün)) yöntem
-3. Yeni bir [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) nesnesini başlatın
+1. DOTM dosyasını [Dotmument](https://reference.aspose.com/words/java/com.aspose.words/Dotmument) sınıfını kullanarak açın
+2. [save](https://reference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,com.aspose.words.SaveOptions) kullanarak DOTM dosyasını HTML'ye dönüştürün)) yöntem
+3. Yeni bir [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) nesnesini başlatın
 5. BufferedReader kullanarak HTML dosyasından içerik çıkarın ve içeriği sunum dosyanıza yazın
-6. [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) yöntemini kullanarak belgeyi POTX'ye kaydedin
+6. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) yöntemini kullanarak belgeyi POTX'ye kaydedin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Dönüşüm Gereksinimleri" %}}
 DOTM'den POTX'ye dosya dönüştürme için Aspose.Total for Java'yı doğrudan bir [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose) üzerinden kolayca kullanabilirsiniz. /aspose-total) tabanlı bir projedir ve pom.xml dosyanıza kitaplıkları dahil edin.

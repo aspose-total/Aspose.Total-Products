@@ -16,10 +16,10 @@ otherformats: ODT PDF DOCX TEXT TIFF WORDML PCL SVG GIF RTF DOT EMF DOC EPUB FLA
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง MSG เป็น PDF" %}}
-1. เปิดไฟล์ MSG โดยใช้คลาส [MailMessage](https://apireference.aspose.com/msg/java/com.aspose.msg/mailmessage)
-2. แปลง MSG เป็น HTML โดยใช้ [save](https://apireference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)) กระบวนการ
-3. โหลด HTML โดยใช้คลาส [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. บันทึกเอกสารในรูปแบบ PDF โดยใช้ [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) วิธีการและตั้งค่า PDF เป็น SaveFormat
+1. เปิดไฟล์ MSG โดยใช้คลาส [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage)
+2. แปลง MSG เป็น HTML โดยใช้ [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)) กระบวนการ
+3. โหลด HTML โดยใช้คลาส [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. บันทึกเอกสารในรูปแบบ PDF โดยใช้ [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) วิธีการและตั้งค่า PDF เป็น SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
 คุณต้องใช้ Aspose.Total สำหรับ Java โดยตรงจากโครงการที่ใช้ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และรวมไลบรารี่ไว้ใน pom.xml ของคุณ

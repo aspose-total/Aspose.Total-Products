@@ -18,10 +18,10 @@ otherformats: MD PDF SVG EMF WORDML DOT DOCX FLATOPC DOC ODT JPEG GIF PNG OTT RT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="EMLX을 DOCX로 변환하는 C# API" %}}
-1. [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage) 클래스를 사용하여 EMLX 파일을 엽니다.
-2. [저장](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) 방법을 사용하여 EMLX을 HTML로 변환합니다.
-3. [Document](https://apireference.aspose.com/words/net/aspose.words/document) 클래스를 사용하여 HTML 로드
-4. [저장](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) 방법을 사용하여 문서를 DOCX 형식으로 저장하고 Docx를 SaveFormat으로 설정합니다.
+1. [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) 클래스를 사용하여 EMLX 파일을 엽니다.
+2. [저장](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) 방법을 사용하여 EMLX을 HTML로 변환합니다.
+3. [Document](https://reference.aspose.com/words/net/aspose.words/document) 클래스를 사용하여 HTML 로드
+4. [저장](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) 방법을 사용하여 문서를 DOCX 형식으로 저장하고 Docx를 SaveFormat으로 설정합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
@@ -46,7 +46,7 @@ document.Save("output.docx", SaveFormat.Docx);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2=".NET을 통해 EMLX 파일 구문 분석" %}}
-EMLX을 DOCX로 변환하기 전에 올바른 이메일을 변환하고 있는지 확인하려면 EMLX 문서를 로드하고 구문 분석한 다음 원하는 속성을 살펴보세요. [Aspose.Email for .NET](https://products.aspose.com/email)의 [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) 클래스를 사용하여 /net/) API를 사용하여 발신자 및 수신자 정보를 얻을 수 있습니다. 예를 들어 [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername) 속성을 사용하여 변환할 특정 발신자 이메일을 확인할 수 있습니다.  
+EMLX을 DOCX로 변환하기 전에 올바른 이메일을 변환하고 있는지 확인하려면 EMLX 문서를 로드하고 구문 분석한 다음 원하는 속성을 살펴보세요. [Aspose.Email for .NET](https://products.aspose.com/email)의 [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) 클래스를 사용하여 /net/) API를 사용하여 발신자 및 수신자 정보를 얻을 수 있습니다. 예를 들어 [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername) 속성을 사용하여 변환할 특정 발신자 이메일을 확인할 수 있습니다.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs// instantiate MapiMessage to load an EMLX file from disk

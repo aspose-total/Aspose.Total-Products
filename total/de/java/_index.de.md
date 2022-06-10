@@ -274,7 +274,7 @@ Aspose.Total ist eine leistungsstarke Suite zur Verarbeitung fast aller Arten vo
 {{< blocks/products/pf/slr-tab tabTitle="Lernmittel" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/total/java/" >}} 
 {{< blocks/products/pf/slr-element name="Quellcode" href="http://aspose.github.io/" >}} 
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/" >}} 
+{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/" >}} 
 {{< blocks/products/pf/slr-element name="Tutorial-Videos" href="https://www.youtube.com/user/asposevideo" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 

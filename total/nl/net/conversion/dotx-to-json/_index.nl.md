@@ -18,10 +18,10 @@ Door [Aspose.Total for .NET](https://products.aspose.com/total/net/) te gebruike
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converteer DOTX naar JSON-formaat via C#" %}}
-1. Open het DOTX-bestand met de klasse [Document](https://apireference.aspose.com/words/net/aspose.words/Document)
-2. Converteer DOTX naar HTML met behulp van de [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4) methode
-3. Laad HTML-Document met behulp van [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) class
-4. Sla het Document op in JSON-indeling met de methode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+1. Open het DOTX-bestand met de klasse [Document](https://reference.aspose.com/words/net/aspose.words/Document)
+2. Converteer DOTX naar HTML met behulp van de [Save](https://reference.aspose.com/words/net/aspose.words.Document/save/methods/4) methode
+3. Laad HTML-Document met behulp van [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class
+4. Sla het Document op in JSON-indeling met de methode [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}

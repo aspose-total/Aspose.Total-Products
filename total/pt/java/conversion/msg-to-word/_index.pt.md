@@ -16,10 +16,10 @@ A conversão de e-mail é um recurso poderoso que os desenvolvedores Java podem 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Como converter MSG para WORD" %}}
-1. Abra o arquivo MSG usando a classe [MailMessage](https://apireference.aspose.com/msg/java/com.aspose.msg/mailmessage)
-2. Converta MSG para HTML usando [save](https://apireference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)) método
-3. Carregue HTML usando a classe [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Salve o documento no formato WORD usando [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) e defina WORD como SaveFormat
+1. Abra o arquivo MSG usando a classe [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage)
+2. Converta MSG para HTML usando [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)) método
+3. Carregue HTML usando a classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. Salve o documento no formato WORD usando [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) e defina WORD como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
 Você precisa usar o Aspose.Total para Java diretamente de um projeto baseado em [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e inclua bibliotecas em seu pom.xml.

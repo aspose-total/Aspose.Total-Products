@@ -16,10 +16,10 @@ otherformats: WORDML RTF MARKDOWN ODT PCL PS MHTML OTT DOTM FLATOPC DOTX DOT
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java API για μετατροπή XPS σε MARKDOWN" %}}
-1. Ανοίξτε το αρχείο XPS χρησιμοποιώντας την κλάση [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)
-2. Μετατρέψτε το XPS σε DOC χρησιμοποιώντας το [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) μέθοδος
-3. Φορτώστε το αρχείο DOC χρησιμοποιώντας την κατηγορία [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) του Aspose.Words
-4. Αποθηκεύστε το έγγραφο σε μορφή MARKDOWN χρησιμοποιώντας τη μέθοδο [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) και ορίστε το MARKDOWN ως SaveFormat
+1. Ανοίξτε το αρχείο XPS χρησιμοποιώντας την κλάση [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. Μετατρέψτε το XPS σε DOC χρησιμοποιώντας το [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) μέθοδος
+3. Φορτώστε το αρχείο DOC χρησιμοποιώντας την κατηγορία [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) του Aspose.Words
+4. Αποθηκεύστε το έγγραφο σε μορφή MARKDOWN χρησιμοποιώντας τη μέθοδο [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) και ορίστε το MARKDOWN ως SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
 Μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.Total για Java απευθείας από ένα έργο που βασίζεται στο [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) και περιλαμβάνουν τα [Aspose.PDF για Java](https://docs.aspose.com/pdf/java/installation/) και [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) στο pom.xml σας.
@@ -42,7 +42,7 @@ outputDocument.save("output.markdown", SaveFormat.MARKDOWN);
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Απαιτήσεις μετατροπής" %}}
-Κατά τη μετατροπή του XPS σε MARKDOWN, ακόμα κι αν το έγγραφό σας προστατεύεται με κωδικό πρόσβασης, μπορείτε να το ανοίξετε χρησιμοποιώντας το API χειρισμού PDF [Aspose.PDF για Java](https://docs.aspose.com/pdf/java/installation/). Για να ανοίξετε το κρυπτογραφημένο αρχείο, πρέπει να δημιουργήσετε ένα αντικείμενο [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) και να ανοίξετε το XPS χρησιμοποιώντας τον κωδικό πρόσβασης κατόχου.  
+Κατά τη μετατροπή του XPS σε MARKDOWN, ακόμα κι αν το έγγραφό σας προστατεύεται με κωδικό πρόσβασης, μπορείτε να το ανοίξετε χρησιμοποιώντας το API χειρισμού PDF [Aspose.PDF για Java](https://docs.aspose.com/pdf/java/installation/). Για να ανοίξετε το κρυπτογραφημένο αρχείο, πρέπει να δημιουργήσετε ένα αντικείμενο [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) και να ανοίξετε το XPS χρησιμοποιώντας τον κωδικό πρόσβασης κατόχου.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

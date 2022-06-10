@@ -18,10 +18,10 @@ Uygulamalarınızın içine OFT to PS dönüştürme özelliklerini eklemek iste
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="OFT'i PS'ye Dönüştürmek için C# API" %}}
-1. [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage) sınıfını kullanarak OFT dosyasını açın
-2. [Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) yöntemini kullanarak OFT'i HTML'ye dönüştürün
-3. HTML'yi [Document](https://apireference.aspose.com/words/net/aspose.words/document) sınıfını kullanarak yükleyin
-4. [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) yöntemini kullanarak belgeyi PS formatına kaydedin ve Ps'yi SaveFormat olarak ayarlayın
+1. [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) sınıfını kullanarak OFT dosyasını açın
+2. [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) yöntemini kullanarak OFT'i HTML'ye dönüştürün
+3. HTML'yi [Document](https://reference.aspose.com/words/net/aspose.words/document) sınıfını kullanarak yükleyin
+4. [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) yöntemini kullanarak belgeyi PS formatına kaydedin ve Ps'yi SaveFormat olarak ayarlayın
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Dönüşüm Gereksinimleri" %}}
@@ -47,7 +47,7 @@ document.Save("output.ps", SaveFormat.Ps);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="E-POSTA Dosyasını .NET ile Ayrıştırma" %}}
-OFT'i PS'ye dönüştürmeden önce, doğru e-postayı dönüştürdüğünüzden emin olmak istiyorsanız, OFT belgesini yükleyebilir, ayrıştırabilir ve istediğiniz özelliğe bir göz atabilirsiniz. [Aspose.Cells for .NET](https://products.aspose.com/email) [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) sınıfını kullanarak /net/) API, gönderici ve alıcı bilgilerini alabilirsiniz. Örneğin, [GönderenAdı](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername) özelliğini kullanarak dönüşüm için belirli bir gönderen e-postasını kontrol edebilirsiniz.  
+OFT'i PS'ye dönüştürmeden önce, doğru e-postayı dönüştürdüğünüzden emin olmak istiyorsanız, OFT belgesini yükleyebilir, ayrıştırabilir ve istediğiniz özelliğe bir göz atabilirsiniz. [Aspose.Cells for .NET](https://products.aspose.com/email) [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) sınıfını kullanarak /net/) API, gönderici ve alıcı bilgilerini alabilirsiniz. Örneğin, [GönderenAdı](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername) özelliğini kullanarak dönüşüm için belirli bir gönderen e-postasını kontrol edebilirsiniz.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

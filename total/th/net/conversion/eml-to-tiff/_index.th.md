@@ -18,10 +18,10 @@ otherformats: TIFF GIF XPS DOTX SVG ODT PCL DOCM PDF DOC PS RTF MD EPUB PNG FLAT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API เพื่อแปลง EML เป็น TIFF" %}}
-1. เปิดไฟล์ EML โดยใช้คลาส [MailMessage](https://apireference.aspose.com/eml/net/aspose.eml/mailmessage)
-2. แปลง EML เป็น HTML โดยใช้วิธีการ [Save](https://apireference.aspose.com/eml/net/aspose.eml.mailmessage/save/methods/3)
-3. โหลด HTML โดยใช้คลาส [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-4. บันทึกเอกสารเป็นรูปแบบ TIFF โดยใช้เมธอด [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) และตั้งค่า Tiff เป็น SaveFormat
+1. เปิดไฟล์ EML โดยใช้คลาส [MailMessage](https://reference.aspose.com/eml/net/aspose.eml/mailmessage)
+2. แปลง EML เป็น HTML โดยใช้วิธีการ [Save](https://reference.aspose.com/eml/net/aspose.eml.mailmessage/save/methods/3)
+3. โหลด HTML โดยใช้คลาส [Document](https://reference.aspose.com/words/net/aspose.words/document)
+4. บันทึกเอกสารเป็นรูปแบบ TIFF โดยใช้เมธอด [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) และตั้งค่า Tiff เป็น SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
@@ -47,7 +47,7 @@ document.Save("output.tiff", SaveFormat.Tiff);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="แยกไฟล์ EML ผ่าน .NET" %}}
-ก่อนแปลง EML เป็น TIFF หากคุณต้องการแน่ใจว่าคุณกำลังแปลงอีเมลที่ถูกต้อง คุณสามารถโหลดเอกสาร EML แยกวิเคราะห์ และดูคุณสมบัติที่คุณต้องการได้ โดยใช้ [MapiMessage](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage) คลาสของ [Aspose.Email for .NET](https://products.aspose.com/eml /net/) API คุณสามารถรับข้อมูลผู้ส่งและผู้รับ ตัวอย่างเช่น คุณสามารถตรวจสอบอีเมลผู้ส่งเฉพาะสำหรับการแปลงโดยใช้คุณสมบัติ [SenderName](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage/properties/sendername)  
+ก่อนแปลง EML เป็น TIFF หากคุณต้องการแน่ใจว่าคุณกำลังแปลงอีเมลที่ถูกต้อง คุณสามารถโหลดเอกสาร EML แยกวิเคราะห์ และดูคุณสมบัติที่คุณต้องการได้ โดยใช้ [MapiMessage](https://reference.aspose.com/eml/net/aspose.eml.mapi/mapimessage) คลาสของ [Aspose.Email for .NET](https://products.aspose.com/eml /net/) API คุณสามารถรับข้อมูลผู้ส่งและผู้รับ ตัวอย่างเช่น คุณสามารถตรวจสอบอีเมลผู้ส่งเฉพาะสำหรับการแปลงโดยใช้คุณสมบัติ [SenderName](https://reference.aspose.com/eml/net/aspose.eml.mapi/mapimessage/properties/sendername)  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

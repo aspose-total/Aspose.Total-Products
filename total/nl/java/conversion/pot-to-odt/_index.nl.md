@@ -16,10 +16,10 @@ otherformats: DOTX FLATOPC DOTM RTF WORDML WORD ODT OTT ODTX TEXT DOT ODTM
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hoe POT naar ODT te converteren via Java" %}}
-1. Open het POT-bestand met de klasse [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Converteer POT naar HTML met behulp van [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) methode en stel Html in als SaveFormat
-3. Laad het geconverteerde HTML-bestand met de klasse [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Sla het document op in ODT-indeling met de methode [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
+1. Open het POT-bestand met de klasse [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. Converteer POT naar HTML met behulp van [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) methode en stel Html in als SaveFormat
+3. Laad het geconverteerde HTML-bestand met de klasse [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. Sla het document op in ODT-indeling met de methode [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
 Voor POT-naar-ODT-bestandsconversie kunt u Aspose.Total voor Java eenvoudig rechtstreeks vanuit een [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) gebaseerd project en neem bibliotheken op in uw pom.xml.
@@ -34,7 +34,7 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Conversievereisten" %}}
-Met behulp van de API kunt u ook een POT-bestand naar ODT-conversie met watermerk uitvoeren. Om een watermerk aan uw ODT-document toe te voegen, kunt u het POT-bestand eerst naar HTML converteren en er een watermerk aan toevoegen. Om een watermerk toe te voegen, laadt u het nieuw gemaakte HTML-bestand met de klasse [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document), maakt u een instantie van TextWatermarkOptions en stelt u zijn eigenschappen, Bel de methode Watermark.setText en geef de watermerktekst en het object van TextWatermarkOptions door.  
+Met behulp van de API kunt u ook een POT-bestand naar ODT-conversie met watermerk uitvoeren. Om een watermerk aan uw ODT-document toe te voegen, kunt u het POT-bestand eerst naar HTML converteren en er een watermerk aan toevoegen. Om een watermerk toe te voegen, laadt u het nieuw gemaakte HTML-bestand met de klasse [Document](https://reference.aspose.com/words/java/com.aspose.words/Document), maakt u een instantie van TextWatermarkOptions en stelt u zijn eigenschappen, Bel de methode Watermark.setText en geef de watermerktekst en het object van TextWatermarkOptions door.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}

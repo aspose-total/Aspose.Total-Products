@@ -16,10 +16,10 @@ otherformats: RTF OTT DOTX WORDML PS FLATOPC DOTM MARKDOWN XAMLFLOW PCL MHTML DO
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java API 将 MD 转换为 WORDML" %}}
-1.使用[Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)类打开MD文件
-2.使用[save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-将MD转换为DOC ) 方法
-3.使用Aspose.Words的[Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)类加载DOC文件
-4. 使用 [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) 方法将文档保存为 WORDML 格式并设置 WORDML保存格式
+1.使用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)类打开MD文件
+2.使用[save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-将MD转换为DOC ) 方法
+3.使用Aspose.Words的[Document](https://reference.aspose.com/words/java/com.aspose.words/Document)类加载DOC文件
+4. 使用 [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) 方法将文档保存为 WORDML 格式并设置 WORDML保存格式
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
 从您可以直接从基于 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) 的项目轻松地使用 Aspose.Total for Java 并在您的 pom.xml 中包含库。。
@@ -42,7 +42,7 @@ outputDocument.save("output.word_ml", SaveFormat.WORD_ML);
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="通过 Java 打开受密码保护的 MD 文档" %}}
-在将 MD 转换为 WORDML 时，即使您的文档受密码保护，您仍然可以使用 PDF 操作 API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) 打开它。为了打开加密文件，您需要创建一个 [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) 对象并使用所有者的密码打开 MD。  
+在将 MD 转换为 WORDML 时，即使您的文档受密码保护，您仍然可以使用 PDF 操作 API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) 打开它。为了打开加密文件，您需要创建一个 [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) 对象并使用所有者的密码打开 MD。  
 {{% blocks/products/pf/feature-page-code %}}
 ```cs
 // open encrypted document

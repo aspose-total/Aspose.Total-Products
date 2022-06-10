@@ -18,10 +18,10 @@ otherformats: RTF DOTX XAMLFLOW WORDML MHTML ODT MARKDOWN DOT DOTM FLATOPC PS PC
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API do konwersji SVG na DOTM" %}}
-1. Otwórz plik SVG za pomocą klasy [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
-2. Konwertuj SVG na Doc za pomocą metody [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
-3. Załaduj plik Doc za pomocą klasy [Document](https://apireference.aspose.com/words/net/aspose.words/document) Aspose.Words
-4. Zapisz dokument w formacie DOTM za pomocą metody [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) i ustaw Dotm jako SaveFormat
+1. Otwórz plik SVG za pomocą klasy [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
+2. Konwertuj SVG na Doc za pomocą metody [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. Załaduj plik Doc za pomocą klasy [Document](https://reference.aspose.com/words/net/aspose.words/document) Aspose.Words
+4. Zapisz dokument w formacie DOTM za pomocą metody [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) i ustaw Dotm jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
@@ -47,7 +47,7 @@ outputDocument.Save("output.dotm", SaveFormat.Dotm);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Odszyfruj plik SVG za pomocą hasła właściciela przez .NET" %}}
-Przed konwersją SVG do DOTM, jeśli chcesz odszyfrować swój dokument, możesz to zrobić za pomocą interfejsu API. Aby odszyfrować plik PDF, musisz najpierw utworzyć obiekt [Dokument](https://apireference.aspose.com/pdf/net/aspose.pdf/document) i otworzyć SVG przy użyciu hasła właściciela. Następnie musisz wywołać metodę [Decrypt](https://apireference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) obiektu Document. Na koniec zapisz zaktualizowany plik za pomocą metody Save obiektu Document.  
+Przed konwersją SVG do DOTM, jeśli chcesz odszyfrować swój dokument, możesz to zrobić za pomocą interfejsu API. Aby odszyfrować plik PDF, musisz najpierw utworzyć obiekt [Dokument](https://reference.aspose.com/pdf/net/aspose.pdf/document) i otworzyć SVG przy użyciu hasła właściciela. Następnie musisz wywołać metodę [Decrypt](https://reference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) obiektu Document. Na koniec zapisz zaktualizowany plik za pomocą metody Save obiektu Document.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -63,7 +63,7 @@ document.Save("Decrypt_out.doc");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Utwórz plik DOTM tylko do odczytu przez .NET" %}}
-Aby chronić swój DOTM przed edycją i uniemożliwić innym osobom edytowanie poufnych i poufnych informacji w Twoim dokumencie, możesz również ustawić ochronę dokumentu za pomocą interfejsu API. Możesz ograniczyć możliwość edycji dokumentu i zezwolić tylko na określone działania. Można to zrobić za pomocą interfejsu API [Aspose.Words for .NET](https://products.aspose.com/words/net/). Umożliwia kontrolowanie sposobu ograniczania zawartości za pomocą parametru wyliczenia [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype). Możesz ustawić dokument jako tylko do odczytu, używając następujących wierszy kodu. 
+Aby chronić swój DOTM przed edycją i uniemożliwić innym osobom edytowanie poufnych i poufnych informacji w Twoim dokumencie, możesz również ustawić ochronę dokumentu za pomocą interfejsu API. Możesz ograniczyć możliwość edycji dokumentu i zezwolić tylko na określone działania. Można to zrobić za pomocą interfejsu API [Aspose.Words for .NET](https://products.aspose.com/words/net/). Umożliwia kontrolowanie sposobu ograniczania zawartości za pomocą parametru wyliczenia [ProtectionType](https://reference.aspose.com/words/net/aspose.words/protectiontype). Możesz ustawić dokument jako tylko do odczytu, używając następujących wierszy kodu. 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

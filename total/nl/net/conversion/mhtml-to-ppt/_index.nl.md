@@ -18,10 +18,10 @@ Met behulp van een pakket krachtige API's voor bestandsindelingsautomatisering [
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API om MHTML naar PPT te converteren" %}}
-1. Open het MHTML-bestand met de klasse [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
-2. Converteer MHTML naar PPTX met behulp van de [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) methode
-3. Laad het PPTX-bestand met behulp van de [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) class
-4. Sla het document op in PPT-indeling met de methode [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) en stel `Ppt` in als SaveFormat
+1. Open het MHTML-bestand met de klasse [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
+2. Converteer MHTML naar PPTX met behulp van de [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) methode
+3. Laad het PPTX-bestand met behulp van de [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class
+4. Sla het document op in PPT-indeling met de methode [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) en stel `Ppt` in als SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
@@ -47,7 +47,7 @@ presentation.Save("output.ppt", SaveFormat.Ppt);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Verkrijg XMP-metadata van MHTML-bestand via .NET" %}}
-Tijdens het converteren van MHTML naar PPT heeft u mogelijk extra XMP-metadata-informatie nodig om prioriteit te geven aan uw batchconversieproces. U kunt bijvoorbeeld uw conversiedocumenten ophalen en sorteren op aanmaakdatum en de documenten dienovereenkomstig verwerken. [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) geeft u toegang tot de XMP-metadata van een MHTML-bestand. Om de metadata van een MHTML-bestand te krijgen, kunt u een [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)-object maken en het invoer-MHTML-bestand openen. Daarna kunt u de metadata van het bestand verkrijgen met behulp van de eigenschap [Metadata](https://apireference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata).  
+Tijdens het converteren van MHTML naar PPT heeft u mogelijk extra XMP-metadata-informatie nodig om prioriteit te geven aan uw batchconversieproces. U kunt bijvoorbeeld uw conversiedocumenten ophalen en sorteren op aanmaakdatum en de documenten dienovereenkomstig verwerken. [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) geeft u toegang tot de XMP-metadata van een MHTML-bestand. Om de metadata van een MHTML-bestand te krijgen, kunt u een [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)-object maken en het invoer-MHTML-bestand openen. Daarna kunt u de metadata van het bestand verkrijgen met behulp van de eigenschap [Metadata](https://reference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

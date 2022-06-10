@@ -18,10 +18,10 @@ Durch die Verwendung von [Aspose.Total for .NET](https://products.aspose.com/tot
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertieren Sie das JSON-Format über C# in TGA" %}}
-1. Erstellen Sie ein neues [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)-Objekt und lesen Sie JSON-Daten aus der Datei
-2. Konvertieren Sie JSON mit der Methode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) in JPEG
-3. Laden Sie das JPEG-Dokument mithilfe der Klasse [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image).
-4. Speichern Sie das Dokument mit der Methode [Save](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) im TGA-Format
+1. Erstellen Sie ein neues [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)-Objekt und lesen Sie JSON-Daten aus der Datei
+2. Konvertieren Sie JSON mit der Methode [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) in JPEG
+3. Laden Sie das JPEG-Dokument mithilfe der Klasse [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image).
+4. Speichern Sie das Dokument mit der Methode [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) im TGA-Format
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
@@ -39,7 +39,7 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Legen Sie das Layout fest und konvertieren Sie das JSON-Format über C# in TGA" %}}
-Beim Analysieren von JSON zu TGA können Sie auch Layoutoptionen für Ihr JSON mit [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions) festlegen. Es ermöglicht Ihnen, Array als Tabelle zu verarbeiten, Nullen zu ignorieren, Array-Titel zu ignorieren, Objekttitel zu ignorieren, Zeichenfolge in Zahl oder Datum umzuwandeln, Datums- und Zahlenformat festzulegen und Titelstil festzulegen. Alle diese Optionen ermöglichen es Ihnen, Ihre Daten nach Ihren Bedürfnissen zu präsentieren. Das folgende Code-Snippet zeigt Ihnen, wie Sie die Layout-Optionen festlegen.  
+Beim Analysieren von JSON zu TGA können Sie auch Layoutoptionen für Ihr JSON mit [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions) festlegen. Es ermöglicht Ihnen, Array als Tabelle zu verarbeiten, Nullen zu ignorieren, Array-Titel zu ignorieren, Objekttitel zu ignorieren, Zeichenfolge in Zahl oder Datum umzuwandeln, Datums- und Zahlenformat festzulegen und Titelstil festzulegen. Alle diese Optionen ermöglichen es Ihnen, Ihre Daten nach Ihren Bedürfnissen zu präsentieren. Das folgende Code-Snippet zeigt Ihnen, wie Sie die Layout-Optionen festlegen.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "set-layout-and-parse-json-to-image.cs" >}}
@@ -48,7 +48,7 @@ Beim Analysieren von JSON zu TGA können Sie auch Layoutoptionen für Ihr JSON m
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analysieren Sie das JSON-Format in TGA mit Wasserzeichen" %}}
-Mit der API können Sie auch JSON in TGA mit Wasserzeichen in Ihrem TGA-Dokument konvertieren. Um ein Wasserzeichen hinzuzufügen, können Sie Ihr JSON-Dokument zunächst in JPEG rendern und ein Wasserzeichen darin einfügen. Um den Vorgang zu demonstrieren, können Sie Ihr konvertiertes JPEG-Bild laden, mithilfe eines Objekts der Matrix-Klasse Transformationen hinzufügen und mithilfe von [Graphics](https://apireference.aspose.com/imaging/) eine Zeichenfolge als Wasserzeichen auf der Bildoberfläche zeichnen. net/aspose.imaging/graphics) class' [DrawString](https://apireference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring)-Methode. Nachdem Sie das Wasserzeichen hinzugefügt haben, können Sie das JPEG im TGA-Format speichern. Unten finden Sie ein Codebeispiel, das zeigt, wie Sie Ihrem Dokument ein diagonales Wasserzeichen hinzufügen. 
+Mit der API können Sie auch JSON in TGA mit Wasserzeichen in Ihrem TGA-Dokument konvertieren. Um ein Wasserzeichen hinzuzufügen, können Sie Ihr JSON-Dokument zunächst in JPEG rendern und ein Wasserzeichen darin einfügen. Um den Vorgang zu demonstrieren, können Sie Ihr konvertiertes JPEG-Bild laden, mithilfe eines Objekts der Matrix-Klasse Transformationen hinzufügen und mithilfe von [Graphics](https://reference.aspose.com/imaging/) eine Zeichenfolge als Wasserzeichen auf der Bildoberfläche zeichnen. net/aspose.imaging/graphics) class' [DrawString](https://reference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring)-Methode. Nachdem Sie das Wasserzeichen hinzugefügt haben, können Sie das JPEG im TGA-Format speichern. Unten finden Sie ein Codebeispiel, das zeigt, wie Sie Ihrem Dokument ein diagonales Wasserzeichen hinzufügen. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}

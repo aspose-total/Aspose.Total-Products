@@ -16,10 +16,10 @@ Az e-mail konvertálás egy hatékony funkció, amelyet a Java fejlesztők integ
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hogyan lehet az EML-t TIFF-vé konvertálni" %}}
-1. Nyissa meg az EML fájlt a [MailMessage](https://apireference.aspose.com/eml/java/com.aspose.eml/mailmessage) osztály használatával
-2. Alakítsa át az EML e-mail-címet HTML-vé a [save](https://apireference.aspose.com/eml/java/com.aspose.eml/MailMessage#save(java.io.OutputStream,%20com.aspose.eml.SaveOptions) segítségével)) módszer
-3. Töltse be a HTML-t a [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) osztály használatával
-4. Mentse a dokumentumot TIFF formátumba a [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) segítségével)) metódust, és állítsa be a TIFF-t SaveFormat-ként
+1. Nyissa meg az EML fájlt a [MailMessage](https://reference.aspose.com/eml/java/com.aspose.eml/mailmessage) osztály használatával
+2. Alakítsa át az EML e-mail-címet HTML-vé a [save](https://reference.aspose.com/eml/java/com.aspose.eml/MailMessage#save(java.io.OutputStream,%20com.aspose.eml.SaveOptions) segítségével)) módszer
+3. Töltse be a HTML-t a [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) osztály használatával
+4. Mentse a dokumentumot TIFF formátumba a [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) segítségével)) metódust, és állítsa be a TIFF-t SaveFormat-ként
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 Az Aspose.Total for Java programot közvetlenül egy [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) alapú projektből kell használnia és vegyen fel könyvtárakat a pom.xml fájlba.

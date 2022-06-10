@@ -18,10 +18,10 @@ Al usar [Aspose.Total for .NET](https://products.aspose.com/total/net/) puede co
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convierta el formato DOT a JSON a través de C#" %}}
-1. Abra el archivo DOT usando la clase [Documento](https://apireference.aspose.com/words/net/aspose.words/Document)
-2. Convierta DOT a HTML usando el método [Guardar](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4)
-3. Cargue el Documento HTML utilizando la clase [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Guarde el Documento en formato JSON usando el método [Guardar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+1. Abra el archivo DOT usando la clase [Documento](https://reference.aspose.com/words/net/aspose.words/Document)
+2. Convierta DOT a HTML usando el método [Guardar](https://reference.aspose.com/words/net/aspose.words.Document/save/methods/4)
+3. Cargue el Documento HTML utilizando la clase [Libro de trabajo](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Guarde el Documento en formato JSON usando el método [Guardar](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

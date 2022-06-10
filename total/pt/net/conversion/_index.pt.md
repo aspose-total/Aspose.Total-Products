@@ -26,8 +26,8 @@ A API Total suporta não apenas a conversão entre os formatos do Microsoft Word
 
 
 {{% blocks/products/pf/feature-page-section  h2="Converter PDF em Imagens" %}}
-A API suporta a conversão de PDF para Imagens, Powerpoint, Excel e outros formatos. Para conversão de PDF para imagem, vamos considerar a imagem JPG como arquivo de destino. O processo é carregar o arquivo PDF usando a classe Document e inicializar o objeto [JpegDevice class](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) e renderizar PDF para JPEG via [Process](https ://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) método
-Carregue o arquivo JPEG usando a classe [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) e, finalmente, chame o método Save.
+A API suporta a conversão de PDF para Imagens, Powerpoint, Excel e outros formatos. Para conversão de PDF para imagem, vamos considerar a imagem JPG como arquivo de destino. O processo é carregar o arquivo PDF usando a classe Document e inicializar o objeto [JpegDevice class](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) e renderizar PDF para JPEG via [Process](https ://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) método
+Carregue o arquivo JPEG usando a classe [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) e, finalmente, chame o método Save.
 
 {{% blocks/products/pf/feature-page-code h3="C# - Conversão de PDF para Imagem" %}}
 
@@ -41,7 +41,7 @@ Carregue o arquivo JPEG usando a classe [Image](https://apireference.aspose.com/
 
 {{% blocks/products/pf/feature-page-section  h2="Converter Excel para Word e PowerPoint" %}}
 
-Para converter formatos do Microsoft Excel para diferentes arquivos, incluindo Word e PowerPoint, sub APIs relevantes envolvidas da principal Aspose.Total for .NET API. Processo de conversão de arquivos do Excel para documento do Word, carregue o arquivo EXCEL usando a classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) e converta o EXCEL para PDF primeiro e defina SaveFormat para Auto. Em seguida, carregue o arquivo PDF convertido usando a classe Document e chame o método Save e defina Doc, Docx como SaveFormat. Código também listado para conversão do Microsoft **Excel para Powerpoint**.
+Para converter formatos do Microsoft Excel para diferentes arquivos, incluindo Word e PowerPoint, sub APIs relevantes envolvidas da principal Aspose.Total for .NET API. Processo de conversão de arquivos do Excel para documento do Word, carregue o arquivo EXCEL usando a classe [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) e converta o EXCEL para PDF primeiro e defina SaveFormat para Auto. Em seguida, carregue o arquivo PDF convertido usando a classe Document e chame o método Save e defina Doc, Docx como SaveFormat. Código também listado para conversão do Microsoft **Excel para Powerpoint**.
 
 {{% blocks/products/pf/feature-page-code h3="C# - Conversão de JSON para Excel" %}}
 

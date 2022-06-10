@@ -202,7 +202,7 @@ Aspose.CAD for JasperReports 提供了一个独特而强大的解决方案，可
 {{< blocks/products/pf/slr-tab tabTitle="学习资源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文档" href="https://docs.aspose.com/total/jasperreports/" >}} 
 {{< blocks/products/pf/slr-element name="源代码" href="http://aspose.github.io/" >}} 
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/" >}} 
+{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/" >}} 
 {{< blocks/products/pf/slr-element name="教程视频" href="https://www.youtube.com/user/asposevideo" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 

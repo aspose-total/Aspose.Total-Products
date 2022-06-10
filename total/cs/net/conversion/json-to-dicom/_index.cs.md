@@ -18,10 +18,10 @@ Pomocí [Aspose.Total for .NET](https://products.aspose.com/total/net/) můžete
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Převést formát JSON na DICOM přes C#" %}}
-1. Vytvořte nový objekt [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) a načtěte data JSON ze souboru
-2. Převeďte JSON na JPEG pomocí metody [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
-3. Načtěte dokument JPEG pomocí třídy [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image)
-4. Uložte dokument do formátu DICOM pomocí metody [Save](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
+1. Vytvořte nový objekt [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) a načtěte data JSON ze souboru
+2. Převeďte JSON na JPEG pomocí metody [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+3. Načtěte dokument JPEG pomocí třídy [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image)
+4. Uložte dokument do formátu DICOM pomocí metody [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
@@ -39,7 +39,7 @@ Případně si stáhněte offline instalační program MSI nebo knihovny DLL v s
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Nastavte rozvržení a převeďte formát JSON na DICOM přes C#" %}}
-Při analýze JSON na DICOM můžete také nastavit možnosti rozvržení pro JSON pomocí [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Umožňuje zpracovat pole jako tabulku, ignorovat hodnoty null, ignorovat název pole, ignorovat název objektu, převést řetězec na číslo nebo datum, nastavit formát data a čísla a nastavit styl nadpisu. Všechny tyto možnosti vám umožňují prezentovat data podle vašich potřeb. Následující fragment kódu ukazuje, jak nastavit možnosti rozvržení.  
+Při analýze JSON na DICOM můžete také nastavit možnosti rozvržení pro JSON pomocí [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Umožňuje zpracovat pole jako tabulku, ignorovat hodnoty null, ignorovat název pole, ignorovat název objektu, převést řetězec na číslo nebo datum, nastavit formát data a čísla a nastavit styl nadpisu. Všechny tyto možnosti vám umožňují prezentovat data podle vašich potřeb. Následující fragment kódu ukazuje, jak nastavit možnosti rozvržení.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "set-layout-and-parse-json-to-image.cs" >}}
@@ -48,7 +48,7 @@ Při analýze JSON na DICOM můžete také nastavit možnosti rozvržení pro JS
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analyzujte formát JSON na DICOM s vodoznakem" %}}
-Pomocí API můžete také převést JSON na DICOM s vodoznakem v dokumentu DICOM. Chcete-li přidat vodoznak, můžete nejprve vykreslit svůj dokument JSON do formátu JPEG a přidat do něj vodoznak. Chcete-li předvést operaci, můžete načíst převedený obrázek JPEG, přidat transformace pomocí objektu třídy Matrix a nakreslit řetězec jako vodoznak na povrch obrázku pomocí [Graphics](https://apireference.aspose.com/imaging/ net/aspose.imaging/graphics) třída' [DrawString](https://apireference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring). Po přidání vodoznaku do něj můžete uložit JPEG jako formát DICOM. Níže je uveden příklad kódu, který ukazuje, jak do dokumentu přidat diagonální vodoznak. 
+Pomocí API můžete také převést JSON na DICOM s vodoznakem v dokumentu DICOM. Chcete-li přidat vodoznak, můžete nejprve vykreslit svůj dokument JSON do formátu JPEG a přidat do něj vodoznak. Chcete-li předvést operaci, můžete načíst převedený obrázek JPEG, přidat transformace pomocí objektu třídy Matrix a nakreslit řetězec jako vodoznak na povrch obrázku pomocí [Graphics](https://reference.aspose.com/imaging/ net/aspose.imaging/graphics) třída' [DrawString](https://reference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring). Po přidání vodoznaku do něj můžete uložit JPEG jako formát DICOM. Níže je uveden příklad kódu, který ukazuje, jak do dokumentu přidat diagonální vodoznak. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}

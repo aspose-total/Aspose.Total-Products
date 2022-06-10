@@ -222,7 +222,7 @@ Aspose.BarCode untuk Layanan Pelaporan adalah solusi paling komprehensif untuk m
 {{< blocks/products/pf/slr-tab tabTitle="Sumber Belajar" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentasi" href="https://docs.aspose.com/total/reportingservices/" >}} 
 {{< blocks/products/pf/slr-element name="Kode sumber" href="http://aspose.github.io/" >}} 
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/" >}} 
+{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/" >}} 
 {{< blocks/products/pf/slr-element name="Video Tutorial" href="https://www.youtube.com/user/asposevideo" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 

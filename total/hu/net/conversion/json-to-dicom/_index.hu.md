@@ -18,10 +18,10 @@ Az [Aspose.Total for .NET](https://products.aspose.com/total/net/) használatáv
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertálja a JSON formátumot DICOM-re a C# segítségével" %}}
-1. Hozzon létre egy új [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) objektumot, és olvassa be a JSON-adatokat a fájlból
-2. Konvertálja a JSON fájlt JPEG formátumba a [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) módszerrel
-3. Töltse be a JPEG dokumentumot az [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) osztály használatával
-4. Mentse a dokumentumot DICOM formátumba a [Save](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) módszerrel
+1. Hozzon létre egy új [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) objektumot, és olvassa be a JSON-adatokat a fájlból
+2. Konvertálja a JSON fájlt JPEG formátumba a [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) módszerrel
+3. Töltse be a JPEG dokumentumot az [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) osztály használatával
+4. Mentse a dokumentumot DICOM formátumba a [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) módszerrel
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
@@ -39,7 +39,7 @@ Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eke
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Állítsa be az elrendezést, és konvertálja a JSON-formátum](DICOM-re a C#-on keresztül" %}}
-A JSON DICOM-re történő elemzése közben a JSON elrendezési beállításait is megadhatja a [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayotoptions) segítségével. Lehetővé teszi a tömb táblaként történő feldolgozását, a nullák figyelmen kívül hagyását, a tömb címének figyelmen kívül hagyását, az objektum címének figyelmen kívül hagyását, a karakterlánc számmá vagy dátummá alakítását, a dátum és számformátum beállítását, valamint a címstílus beállítását. Mindezek a lehetőségek lehetővé teszik, hogy adatait az igényeinek megfelelően mutassa be. A következő kódrészlet bemutatja, hogyan állíthatja be az elrendezési beállításokat.  
+A JSON DICOM-re történő elemzése közben a JSON elrendezési beállításait is megadhatja a [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayotoptions) segítségével. Lehetővé teszi a tömb táblaként történő feldolgozását, a nullák figyelmen kívül hagyását, a tömb címének figyelmen kívül hagyását, az objektum címének figyelmen kívül hagyását, a karakterlánc számmá vagy dátummá alakítását, a dátum és számformátum beállítását, valamint a címstílus beállítását. Mindezek a lehetőségek lehetővé teszik, hogy adatait az igényeinek megfelelően mutassa be. A következő kódrészlet bemutatja, hogyan állíthatja be az elrendezési beállításokat.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "set-layout-and-parse-json-to-image.cs" >}}
@@ -48,7 +48,7 @@ A JSON DICOM-re történő elemzése közben a JSON elrendezési beállításait
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="JSON formátum elemzése DICOM-re vízjellel" %}}
-Az API használatával a JSON-t DICOM-vé alakíthatja vízjellel az DICOM-dokumentumban. Vízjel hozzáadásához először előállíthatja a JSON-dokumentumot JPEG formátumban, és vízjelet adhat hozzá. A művelet bemutatásához töltse be az átalakított JPEG képet, átalakításokat adjon hozzá egy Matrix osztályú objektum segítségével, és rajzoljon egy karakterláncot vízjelként a kép felületére a [Graphics](https://apireference.aspose.com/imaging/) segítségével. net/aspose.imaging/graphics) osztály” [DrawString](https://apireference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring) módszerrel. Miután hozzáadta a vízjelet, elmentheti a JPEG-et DICOM formátumban. Az alábbiakban egy kódpélda látható, amely bemutatja, hogyan adhat átlós vízjelet a dokumentumhoz. 
+Az API használatával a JSON-t DICOM-vé alakíthatja vízjellel az DICOM-dokumentumban. Vízjel hozzáadásához először előállíthatja a JSON-dokumentumot JPEG formátumban, és vízjelet adhat hozzá. A művelet bemutatásához töltse be az átalakított JPEG képet, átalakításokat adjon hozzá egy Matrix osztályú objektum segítségével, és rajzoljon egy karakterláncot vízjelként a kép felületére a [Graphics](https://reference.aspose.com/imaging/) segítségével. net/aspose.imaging/graphics) osztály” [DrawString](https://reference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring) módszerrel. Miután hozzáadta a vízjelet, elmentheti a JPEG-et DICOM formátumban. Az alábbiakban egy kódpélda látható, amely bemutatja, hogyan adhat átlós vízjelet a dokumentumhoz. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}

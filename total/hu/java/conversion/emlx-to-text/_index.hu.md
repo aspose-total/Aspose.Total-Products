@@ -16,10 +16,10 @@ Az e-mail konvertálás egy hatékony funkció, amelyet a Java fejlesztők integ
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hogyan lehet az EMLX-t TEXT-vé konvertálni" %}}
-1. Nyissa meg az EMLX fájlt a [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage) osztály használatával
-2. Alakítsa át az EMLX e-mail-címet HTML-vé a [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.emlx.SaveOptions) segítségével)) módszer
-3. Töltse be a HTML-t a [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) osztály használatával
-4. Mentse a dokumentumot TEXT formátumba a [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) segítségével)) metódust, és állítsa be a TEXT-t SaveFormat-ként
+1. Nyissa meg az EMLX fájlt a [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage) osztály használatával
+2. Alakítsa át az EMLX e-mail-címet HTML-vé a [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.emlx.SaveOptions) segítségével)) módszer
+3. Töltse be a HTML-t a [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) osztály használatával
+4. Mentse a dokumentumot TEXT formátumba a [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) segítségével)) metódust, és állítsa be a TEXT-t SaveFormat-ként
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 Az Aspose.Total for Java programot közvetlenül egy [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) alapú projektből kell használnia és vegyen fel könyvtárakat a pom.xml fájlba.

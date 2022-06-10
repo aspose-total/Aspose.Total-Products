@@ -18,10 +18,10 @@ otherformats: XLSM XLT TSV EXCEL XLTX SXC XLSB XLS XLSX ODS DIF FODS XLAM XLTM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="MOBIをXLSに変換する.NETAPI" %}}
-1. [Document](https://apireference.aspose.com/words/net/aspose.words/mobiument)クラスを使用してMOBIファイルを開きます
-2. [Save](https://apireference.aspose.com/words/net/aspose.words.mobiument/save/methods/4)メソッドを使用してMOBIをHTMLに変換します
-3. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
-4. [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをXLS形式で保存し、「XLS」をSaveFormatとして設定します
+1. [Document](https://reference.aspose.com/words/net/aspose.words/mobiument)クラスを使用してMOBIファイルを開きます
+2. [Save](https://reference.aspose.com/words/net/aspose.words.mobiument/save/methods/4)メソッドを使用してMOBIをHTMLに変換します
+3. [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
+4. [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをXLS形式で保存し、「XLS」をSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
@@ -39,7 +39,7 @@ otherformats: XLSM XLT TSV EXCEL XLTX SXC XLSB XLS XLSX ODS DIF FODS XLAM XLTM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="C＃経由でストリームからMOBIドキュメントをロードする" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/)では、ストリームを介してMOBIドキュメントをロードすることもできます。ストリームからドキュメントを開くには、ドキュメントを含むストリームオブジェクトを[Document](https://apireference.aspose.com/words/net/aspose.words/mobiument)コンストラクターに渡すだけです。次のコード例は、ストリームからドキュメントを開く方法を示しています。  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/)では、ストリームを介してMOBIドキュメントをロードすることもできます。ストリームからドキュメントを開くには、ドキュメントを含むストリームオブジェクトを[Document](https://reference.aspose.com/words/net/aspose.words/mobiument)コンストラクターに渡すだけです。次のコード例は、ストリームからドキュメントを開く方法を示しています。  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ otherformats: XLSM XLT TSV EXCEL XLTX SXC XLSB XLS XLSX ODS DIF FODS XLAM XLTM
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="C＃を介してXLSファイルにカスタムプロパティを追加する" %}}
-MOBIをXLSに変換する際、[Aspose.Cells for .NET](https://products.aspose.com/cells/net/)を使用すると、XLSドキュメントにカスタムプロパティを追加できます。カスタムプロパティを追加するには、[CustomDocumentPropertyCollection](の[Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection/methods/add/index)メソッドを使用できます。 https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection)クラス。 Addメソッドは、プロパティをExcelファイルに追加し、新しいドキュメントプロパティの参照を[Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties)として返します。 / mobiumentproperty)オブジェクト。 
+MOBIをXLSに変換する際、[Aspose.Cells for .NET](https://products.aspose.com/cells/net/)を使用すると、XLSドキュメントにカスタムプロパティを追加できます。カスタムプロパティを追加するには、[CustomDocumentPropertyCollection](の[Add](https://reference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection/methods/add/index)メソッドを使用できます。 https://reference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection)クラス。 Addメソッドは、プロパティをExcelファイルに追加し、新しいドキュメントプロパティの参照を[Aspose.Cells.Properties.DocumentProperty](https://reference.aspose.com/cells/net/aspose.cells.properties)として返します。 / mobiumentproperty)オブジェクト。 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

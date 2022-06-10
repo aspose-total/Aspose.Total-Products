@@ -16,11 +16,11 @@ otherformats: PPSX PPT PPTX POTX PPTM PPSM POT POWERPOINT POTM PPS CSV DIF FODS 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak převést TXT na POTX přes Java" %}}
-1. Otevřete soubor TXT pomocí třídy [Txtument](https://apireference.aspose.com/words/java/com.aspose.words/Txtument)
-2. Převeďte soubor TXT do HTML pomocí [save](https://apireference.aspose.com/words/java/com.aspose.words/Txtument#save(java.lang.String,com.aspose.words.SaveOptions)) metoda
-3. Inicializujte nový objekt [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+1. Otevřete soubor TXT pomocí třídy [Txtument](https://reference.aspose.com/words/java/com.aspose.words/Txtument)
+2. Převeďte soubor TXT do HTML pomocí [save](https://reference.aspose.com/words/java/com.aspose.words/Txtument#save(java.lang.String,com.aspose.words.SaveOptions)) metoda
+3. Inicializujte nový objekt [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extrahujte obsah ze souboru HTML pomocí BufferedReader a zapište obsah do souboru prezentace
-6. Uložte dokument do POTX pomocí metody [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. Uložte dokument do POTX pomocí metody [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Pro konverzi souborů TXT na POTX můžete snadno použít Aspose.Total for Java přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a zahrňte knihovny do vašeho pom.xml.

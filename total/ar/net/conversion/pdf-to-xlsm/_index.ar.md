@@ -18,10 +18,10 @@ otherformats: EXCEL XLSB ODS FODS MD TXT XLT XLAM XLTM XLSM TSV SXC
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="NET API لتحويل PDF إلى XLSM" %}}
-1. افتح ملف PDF باستخدام فئة [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
-2. تحويل PDF إلى XLSX باستخدام طريقة [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
-3. قم بتحميل مستند XLSX باستخدام فئة [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. احفظ المستند بتنسيق XLSM باستخدام طريقة [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) وعيّن `Xlsm` كـ SaveFormat
+1. افتح ملف PDF باستخدام فئة [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
+2. تحويل PDF إلى XLSX باستخدام طريقة [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. قم بتحميل مستند XLSX باستخدام فئة [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. احفظ المستند بتنسيق XLSM باستخدام طريقة [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) وعيّن `Xlsm` كـ SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
@@ -39,7 +39,7 @@ otherformats: EXCEL XLSB ODS FODS MD TXT XLT XLAM XLTM XLSM TSV SXC
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="تحويل المحمية PDF إلى XLSM عبر C#" %}}
-إذا كان مستند PDF الخاص بك محميًا بكلمة مرور ، فلا يمكنك تحويله إلى XLSM بدون كلمة المرور. باستخدام واجهة برمجة التطبيقات ، يمكنك أولاً فتح المستند المحمي باستخدام كلمة مرور صالحة وتحويلها بعد ذلك. لفتح الملف المشفر ، يمكنك تهيئة مثيل جديد من فئة [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) وتمرير اسم الملف وكلمة المرور كوسائط.  
+إذا كان مستند PDF الخاص بك محميًا بكلمة مرور ، فلا يمكنك تحويله إلى XLSM بدون كلمة المرور. باستخدام واجهة برمجة التطبيقات ، يمكنك أولاً فتح المستند المحمي باستخدام كلمة مرور صالحة وتحويلها بعد ذلك. لفتح الملف المشفر ، يمكنك تهيئة مثيل جديد من فئة [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) وتمرير اسم الملف وكلمة المرور كوسائط.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-password-protected-pdf-to-excel.cs" >}}

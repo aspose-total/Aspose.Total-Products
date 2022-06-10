@@ -18,10 +18,10 @@ JSON'u herhangi bir .NET, C#, ASP.NET ve VB.NET uygulamasında iki basit adımda
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="JSON Formatını C# ile ODP'ye Dönüştür" %}}
-1. Yeni bir [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) nesnesi oluşturun ve dosyadan geçerli JSON verilerini okuyun
-2. [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) sınıfını ve [Save](https://apireference.aspose.com/) kullanarak JSON dosyasını çalışma sayfasına aktarın cell/net/aspose.cells.workbook/save/methods/4) PPTX olarak
-3. [Sunum](https://apireference.aspose.com/slides/net/aspose.slides/presentation) sınıfını kullanarak PPTX belgesini yükleyin
-4. [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) yöntemini kullanarak belgeyi ODP biçiminde kaydedin
+1. Yeni bir [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) nesnesi oluşturun ve dosyadan geçerli JSON verilerini okuyun
+2. [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) sınıfını ve [Save](https://reference.aspose.com/) kullanarak JSON dosyasını çalışma sayfasına aktarın cell/net/aspose.cells.workbook/save/methods/4) PPTX olarak
+3. [Sunum](https://reference.aspose.com/slides/net/aspose.slides/presentation) sınıfını kullanarak PPTX belgesini yükleyin
+4. [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) yöntemini kullanarak belgeyi ODP biçiminde kaydedin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Dönüşüm Gereksinimleri" %}}
@@ -39,7 +39,7 @@ Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [indirilenler
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Düzeni Ayarla ve JSON Formatını C# ile ODP'ye Dönüştür" %}}
-JSON'u ODP'ye ayrıştırırken, [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions) kullanarak JSON biçiminiz için düzen seçeneklerini de ayarlayabilirsiniz. Diziyi tablo olarak işlemenize, boş değerleri yoksaymanıza, dizi başlığını yoksaymanıza, nesne başlığını yoksaymanıza, dizeyi sayıya veya tarihe dönüştürmenize, tarih ve sayı biçimini ayarlamanıza ve başlık stilini ayarlamanıza olanak tanır. Tüm bu seçenekler, verilerinizi ihtiyaçlarınıza göre sunmanıza olanak tanır. Aşağıdaki kod parçacığı, düzen seçeneklerini nasıl ayarlayacağınızı gösterir.  
+JSON'u ODP'ye ayrıştırırken, [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions) kullanarak JSON biçiminiz için düzen seçeneklerini de ayarlayabilirsiniz. Diziyi tablo olarak işlemenize, boş değerleri yoksaymanıza, dizi başlığını yoksaymanıza, nesne başlığını yoksaymanıza, dizeyi sayıya veya tarihe dönüştürmenize, tarih ve sayı biçimini ayarlamanıza ve başlık stilini ayarlamanıza olanak tanır. Tüm bu seçenekler, verilerinizi ihtiyaçlarınıza göre sunmanıza olanak tanır. Aşağıdaki kod parçacığı, düzen seçeneklerini nasıl ayarlayacağınızı gösterir.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "set-layout-and-parse-json-to-powerpoint.cs" >}}
@@ -48,7 +48,7 @@ JSON'u ODP'ye ayrıştırırken, [JsonLayoutOptions](https://apireference.aspose
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Filigran ile JSON Formatını ODP'ye Dönüştür" %}}
-API'yi kullanarak JSON'u filigranlı ODP'ye de dönüştürebilirsiniz. ODP belgenize filigran eklemek için önce JSON'u PPTX'e ayrıştırıp ona bir filigran ekleyebilirsiniz. Filigran eklemek için yeni oluşturulan PPTX dosyasını [Sunum](https://apireference.aspose.com/slides/net/aspose.slides/presentation) sınıfını kullanarak yükleyin, ana sunumu seçin, kullanarak şekil tipi ekleyin AddAutoShape ve AddTextFrame kullanarak filigran metni ekleyin. Filigranı ekledikten sonra belgeyi ODP'ye kaydedebilirsiniz. 
+API'yi kullanarak JSON'u filigranlı ODP'ye de dönüştürebilirsiniz. ODP belgenize filigran eklemek için önce JSON'u PPTX'e ayrıştırıp ona bir filigran ekleyebilirsiniz. Filigran eklemek için yeni oluşturulan PPTX dosyasını [Sunum](https://reference.aspose.com/slides/net/aspose.slides/presentation) sınıfını kullanarak yükleyin, ana sunumu seçin, kullanarak şekil tipi ekleyin AddAutoShape ve AddTextFrame kullanarak filigran metni ekleyin. Filigranı ekledikten sonra belgeyi ODP'ye kaydedebilirsiniz. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}

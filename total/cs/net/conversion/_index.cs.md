@@ -26,8 +26,8 @@ Total API podporuje nejen inter konverzi formátů Microsoft Word, ale také kon
 
 
 {{% blocks/products/pf/feature-page-section  h2="Převést PDF na obrázky" %}}
-API podporuje převod PDF do obrázků, Powerpoint, Excel a dalších formátů. Pro převod PDF na obrázek uvažujme obrázek JPG jako cílový soubor. Proces je, načtěte soubor PDF pomocí třídy Document a inicializujte objekt [JpegDevice class](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) a vykreslete PDF do JPEG přes [Process](https ://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) metoda
-Načtěte soubor JPEG pomocí třídy [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) a nakonec zavolejte metodu Save.
+API podporuje převod PDF do obrázků, Powerpoint, Excel a dalších formátů. Pro převod PDF na obrázek uvažujme obrázek JPG jako cílový soubor. Proces je, načtěte soubor PDF pomocí třídy Document a inicializujte objekt [JpegDevice class](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) a vykreslete PDF do JPEG přes [Process](https ://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) metoda
+Načtěte soubor JPEG pomocí třídy [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) a nakonec zavolejte metodu Save.
 
 {{% blocks/products/pf/feature-page-code h3="C# - Převod PDF na obrázek" %}}
 
@@ -41,7 +41,7 @@ Načtěte soubor JPEG pomocí třídy [Image](https://apireference.aspose.com/im
 
 {{% blocks/products/pf/feature-page-section  h2="Převeďte Excel do Wordu a PowerPointu" %}}
 
-Pro převod formátů Microsoft Excel do různých souborů, včetně Wordu a PowerPointu, Relevantní dílčí API zapojené do hlavního Aspose.Total pro .NET API. Proces převodu souborů Excel na dokument Word, načtení souboru EXCEL pomocí třídy [Sešit](https://apireference.aspose.com/cells/net/aspose.cells/workbook) a nejprve převeďte EXCEL do PDF a nastavte SaveFormat na Auto. Poté načtěte převedený soubor PDF pomocí třídy Document a zavolejte metodu Save a nastavte Doc, Docx jako SaveFormat. Uvedený kód také pro převod Microsoft **Excel do Powerpoint**.
+Pro převod formátů Microsoft Excel do různých souborů, včetně Wordu a PowerPointu, Relevantní dílčí API zapojené do hlavního Aspose.Total pro .NET API. Proces převodu souborů Excel na dokument Word, načtení souboru EXCEL pomocí třídy [Sešit](https://reference.aspose.com/cells/net/aspose.cells/workbook) a nejprve převeďte EXCEL do PDF a nastavte SaveFormat na Auto. Poté načtěte převedený soubor PDF pomocí třídy Document a zavolejte metodu Save a nastavte Doc, Docx jako SaveFormat. Uvedený kód také pro převod Microsoft **Excel do Powerpoint**.
 
 {{% blocks/products/pf/feature-page-code h3="C# - Převod JSON do Excelu" %}}
 

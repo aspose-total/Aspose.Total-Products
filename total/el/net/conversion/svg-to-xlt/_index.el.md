@@ -18,10 +18,10 @@ otherformats: TSV MD ODS XLTX XLAM XLSB SXC XLTM FODS EXCEL XLT TXT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API για Μετατροπή SVG σε XLT" %}}
-1. Ανοίξτε το αρχείο SVG χρησιμοποιώντας την τάξη [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
-2. Μετατρέψτε το SVG σε XLSX χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
-3. Φορτώστε το έγγραφο XLSX χρησιμοποιώντας την τάξη [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Αποθηκεύστε το έγγραφο σε μορφή XLT χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) και ορίστε το "Xlt" ως SaveFormat
+1. Ανοίξτε το αρχείο SVG χρησιμοποιώντας την τάξη [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
+2. Μετατρέψτε το SVG σε XLSX χρησιμοποιώντας τη μέθοδο [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. Φορτώστε το έγγραφο XLSX χρησιμοποιώντας την τάξη [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Αποθηκεύστε το έγγραφο σε μορφή XLT χρησιμοποιώντας τη μέθοδο [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) και ορίστε το "Xlt" ως SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
@@ -39,7 +39,7 @@ otherformats: TSV MD ODS XLTX XLAM XLSB SXC XLTM FODS EXCEL XLT TXT
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Μετατροπή προστατευμένου SVG σε XLT μέσω C#" %}}
-Εάν το έγγραφό σας SVG προστατεύεται με κωδικό πρόσβασης, δεν μπορείτε να το μετατρέψετε σε XLT χωρίς τον κωδικό πρόσβασης. Χρησιμοποιώντας το API, μπορείτε πρώτα να ανοίξετε το προστατευμένο έγγραφο χρησιμοποιώντας έναν έγκυρο κωδικό πρόσβασης και να το μετατρέψετε μετά από αυτόν. Για να ανοίξετε το κρυπτογραφημένο αρχείο, μπορείτε να αρχικοποιήσετε μια νέα παρουσία της κλάσης [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) και να μεταβιβάσετε το όνομα αρχείου και τον κωδικό πρόσβασης ως ορίσματα.  
+Εάν το έγγραφό σας SVG προστατεύεται με κωδικό πρόσβασης, δεν μπορείτε να το μετατρέψετε σε XLT χωρίς τον κωδικό πρόσβασης. Χρησιμοποιώντας το API, μπορείτε πρώτα να ανοίξετε το προστατευμένο έγγραφο χρησιμοποιώντας έναν έγκυρο κωδικό πρόσβασης και να το μετατρέψετε μετά από αυτόν. Για να ανοίξετε το κρυπτογραφημένο αρχείο, μπορείτε να αρχικοποιήσετε μια νέα παρουσία της κλάσης [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) και να μεταβιβάσετε το όνομα αρχείου και τον κωδικό πρόσβασης ως ορίσματα.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-password-protected-pdf-to-excel.cs" >}}

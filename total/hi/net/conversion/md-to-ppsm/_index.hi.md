@@ -18,10 +18,10 @@ otherformats: PPSM POWERPOINT XAML POTM PPSX SWF PPT POTX PPTM PPS POT OTP
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="MD को PPSM में बदलने के लिए .NET API" %}}
-1. [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) वर्ग का उपयोग करके सीजीएम फ़ाइल खोलें
-2. [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) पद्धति का उपयोग करके MD को PPTX में बदलें
-3. [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) वर्ग का उपयोग करके PPTX फ़ाइल लोड करें
-4. [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) विधि का उपयोग करके दस्तावेज़ को PPSM प्रारूप में सहेजें और `Ppsm` को SaveFormat के रूप में सेट करें
+1. [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) वर्ग का उपयोग करके सीजीएम फ़ाइल खोलें
+2. [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) पद्धति का उपयोग करके MD को PPTX में बदलें
+3. [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) वर्ग का उपयोग करके PPTX फ़ाइल लोड करें
+4. [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) विधि का उपयोग करके दस्तावेज़ को PPSM प्रारूप में सहेजें और `Ppsm` को SaveFormat के रूप में सेट करें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
@@ -47,7 +47,7 @@ presentation.Save("output.ppsm", SaveFormat.Ppsm);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="सीजीएम फ़ाइल से .NET . के माध्यम से एक्सएमपी मेटाडेटा प्राप्त करें" %}}
-MD को PPSM में कनवर्ट करते समय, आपको अपनी बैच रूपांतरण प्रक्रिया को प्राथमिकता देने के लिए अतिरिक्त XMP मेटाडेटा जानकारी की आवश्यकता हो सकती है। उदाहरण के लिए आप निर्माण तिथि के आधार पर अपने रूपांतरण दस्तावेजों को प्राप्त और क्रमबद्ध कर सकते हैं और तदनुसार दस्तावेजों को संसाधित कर सकते हैं। [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) आपको MD फ़ाइल के XMP मेटाडेटा तक पहुंचने की अनुमति देता है। MD फ़ाइल का मेटाडेटा प्राप्त करने के लिए, आप एक [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) ऑब्जेक्ट बना सकते हैं और इनपुट MD फ़ाइल खोल सकते हैं। उसके बाद, आप [Metadata](https://apireference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata) प्रॉपर्टी का उपयोग करके फ़ाइल का मेटाडेटा प्राप्त कर सकते हैं।  
+MD को PPSM में कनवर्ट करते समय, आपको अपनी बैच रूपांतरण प्रक्रिया को प्राथमिकता देने के लिए अतिरिक्त XMP मेटाडेटा जानकारी की आवश्यकता हो सकती है। उदाहरण के लिए आप निर्माण तिथि के आधार पर अपने रूपांतरण दस्तावेजों को प्राप्त और क्रमबद्ध कर सकते हैं और तदनुसार दस्तावेजों को संसाधित कर सकते हैं। [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) आपको MD फ़ाइल के XMP मेटाडेटा तक पहुंचने की अनुमति देता है। MD फ़ाइल का मेटाडेटा प्राप्त करने के लिए, आप एक [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) ऑब्जेक्ट बना सकते हैं और इनपुट MD फ़ाइल खोल सकते हैं। उसके बाद, आप [Metadata](https://reference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata) प्रॉपर्टी का उपयोग करके फ़ाइल का मेटाडेटा प्राप्त कर सकते हैं।  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

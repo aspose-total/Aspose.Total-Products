@@ -16,10 +16,10 @@ otherformats: EPUB RTF DOTX WORDML DOCM OTT ODT PCL DOC FLATOPC PS MOBI DOT WORD
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="تحويل تنسيق JSON إلى DOCM عبر Java" %}}
-1. أنشئ كائنًا [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) جديدًا واقرأ بيانات JSON الصالحة من الملف
-2. استيراد ملف JSON إلى ورقة العمل باستخدام فئة [JsonUtility](https://apireference.aspose.com/cells/java/com.aspose.cells/JsonUtility) و [Save](https://apireference.aspose.com/ cell/java/com.aspose.cells/workbook # save (java.lang.String،٪20com.aspose.cells.SaveOptions)) كملف PDF
-3. قم بتحميل مستند PDF باستخدام فئة [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. احفظ المستند بتنسيق DOCM باستخدام [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String.com.aspose.words.SaveOptions)) طريقة
+1. أنشئ كائنًا [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) جديدًا واقرأ بيانات JSON الصالحة من الملف
+2. استيراد ملف JSON إلى ورقة العمل باستخدام فئة [JsonUtility](https://reference.aspose.com/cells/java/com.aspose.cells/JsonUtility) و [Save](https://reference.aspose.com/ cell/java/com.aspose.cells/workbook # save (java.lang.String،٪20com.aspose.cells.SaveOptions)) كملف PDF
+3. قم بتحميل مستند PDF باستخدام فئة [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. احفظ المستند بتنسيق DOCM باستخدام [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String.com.aspose.words.SaveOptions)) طريقة
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
 يمكنك بسهولة استخدام Aspose.Total for Java مباشرة من مشروع قائم على [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) وتضمين مكتبات في ملفك pom.xml.
@@ -34,7 +34,7 @@ otherformats: EPUB RTF DOTX WORDML DOCM OTT ODT PCL DOC FLATOPC PS MOBI DOT WORD
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="متطلبات التحويل" %}}
-علاوة على ذلك ، تسمح لك واجهة برمجة التطبيقات بتعيين خيارات التخطيط لـ JSON أثناء تحليل JSON إلى DOCM باستخدام [JsonLayoutOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonlayoutoptions). يسمح لك بمعالجة الصفيف كجدول ، وتجاهل القيم الخالية ، وتجاهل عنوان الصفيف ، وتجاهل عنوان الكائن ، وتحويل السلسلة إلى رقم أو تاريخ ، وتعيين تنسيق التاريخ والأرقام ، وتعيين نمط العنوان. تتيح لك كل هذه الخيارات تقديم بياناتك وفقًا لاحتياجاتك. يوضح لك مقتطف الشفرة التالي كيفية تعيين خيارات التخطيط.  
+علاوة على ذلك ، تسمح لك واجهة برمجة التطبيقات بتعيين خيارات التخطيط لـ JSON أثناء تحليل JSON إلى DOCM باستخدام [JsonLayoutOptions](https://reference.aspose.com/cells/java/com.aspose.cells/jsonlayoutoptions). يسمح لك بمعالجة الصفيف كجدول ، وتجاهل القيم الخالية ، وتجاهل عنوان الصفيف ، وتجاهل عنوان الكائن ، وتحويل السلسلة إلى رقم أو تاريخ ، وتعيين تنسيق التاريخ والأرقام ، وتعيين نمط العنوان. تتيح لك كل هذه الخيارات تقديم بياناتك وفقًا لاحتياجاتك. يوضح لك مقتطف الشفرة التالي كيفية تعيين خيارات التخطيط.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "set-layout-and-parse-json-to-doc.java" >}}
@@ -42,7 +42,7 @@ otherformats: EPUB RTF DOTX WORDML DOCM OTT ODT PCL DOC FLATOPC PS MOBI DOT WORD
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="قم بتعيين التخطيط وتحويل تنسيق JSON إلى DOCM عبر Java" %}}
-باستخدام API ، يمكنك أيضًا تحليل JSON إلى DOCM باستخدام العلامة المائية. لإضافة علامة مائية إلى مستند DOCM ، يمكنك أولاً تحويل ملف JSON إلى PDF وإضافة علامة مائية إليه. لإضافة علامة مائية ، قم بتحميل ملف PDF الذي تم إنشاؤه حديثًا باستخدام فئة [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) ، وأنشئ مثيلاً لـ TextWatermarkOptions وعيّن خصائصه ، استدعاء طريقة Watermark.setText وتمرير نص العلامة المائية وكائن TextWatermarkOptions. بعد إضافة العلامة المائية ، يمكنك حفظ المستند في غرفة تبادل المعلومات. 
+باستخدام API ، يمكنك أيضًا تحليل JSON إلى DOCM باستخدام العلامة المائية. لإضافة علامة مائية إلى مستند DOCM ، يمكنك أولاً تحويل ملف JSON إلى PDF وإضافة علامة مائية إليه. لإضافة علامة مائية ، قم بتحميل ملف PDF الذي تم إنشاؤه حديثًا باستخدام فئة [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) ، وأنشئ مثيلاً لـ TextWatermarkOptions وعيّن خصائصه ، استدعاء طريقة Watermark.setText وتمرير نص العلامة المائية وكائن TextWatermarkOptions. بعد إضافة العلامة المائية ، يمكنك حفظ المستند في غرفة تبادل المعلومات. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "parse-json-to-word-with-watermark.cs" >}}

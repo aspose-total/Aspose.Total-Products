@@ -16,10 +16,10 @@ otherformats: DOTX PS DOT RTF XAMLFLOW MHTML WORDML FLATOPC PCL MARKDOWN DOTM OD
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java API เพื่อแปลง MD เป็น MARKDOWN" %}}
-1. เปิดไฟล์ MD โดยใช้คลาส [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)
-2. แปลง MD เป็น DOC โดยใช้ [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) กระบวนการ
-3. โหลดไฟล์ DOC โดยใช้ [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) คลาสของ Aspose.Words
-4. บันทึกเอกสารในรูปแบบ MARKDOWN โดยใช้เมธอด [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) และตั้งค่า MARKDOWN เป็น SaveFormat
+1. เปิดไฟล์ MD โดยใช้คลาส [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. แปลง MD เป็น DOC โดยใช้ [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) กระบวนการ
+3. โหลดไฟล์ DOC โดยใช้ [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) คลาสของ Aspose.Words
+4. บันทึกเอกสารในรูปแบบ MARKDOWN โดยใช้เมธอด [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) และตั้งค่า MARKDOWN เป็น SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
 คุณสามารถใช้ Aspose.Total สำหรับ Java ได้โดยตรงจากโปรเจ็กต์ที่ใช้ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และรวม [Aspose.PDF สำหรับ Java](https://docs.aspose.com/pdf/java/installation/) และ [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) ใน pom.xml ของคุณ
@@ -42,7 +42,7 @@ outputDocument.save("output.markdown", SaveFormat.MARKDOWN);
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="ข้อกำหนดการแปลง" %}}
-ขณะแปลง MD เป็น MARKDOWN แม้ว่าเอกสารของคุณจะมีการป้องกันด้วยรหัสผ่าน คุณยังสามารถเปิดได้โดยใช้ PDF Manipulation API [Aspose.PDF สำหรับ Java](https://docs.aspose.com/pdf/java/installation/) ในการเปิดไฟล์ที่เข้ารหัส คุณต้องสร้างวัตถุ [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) และเปิด MD โดยใช้รหัสผ่านของเจ้าของ  
+ขณะแปลง MD เป็น MARKDOWN แม้ว่าเอกสารของคุณจะมีการป้องกันด้วยรหัสผ่าน คุณยังสามารถเปิดได้โดยใช้ PDF Manipulation API [Aspose.PDF สำหรับ Java](https://docs.aspose.com/pdf/java/installation/) ในการเปิดไฟล์ที่เข้ารหัส คุณต้องสร้างวัตถุ [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) และเปิด MD โดยใช้รหัสผ่านของเจ้าของ  
 {{% blocks/products/pf/feature-page-code %}}
 ```cs
 // open encrypted document

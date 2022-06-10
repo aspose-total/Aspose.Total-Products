@@ -18,10 +18,10 @@ You can convert MD to FLATOPC by using two simple steps. First you need to rende
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java API to Convert MD to FLATOPC" %}}
-1. Open MD file using [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Convert MD to DOC by using [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method
-3. Load DOC file by using [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) class of Aspose.Words  
-4. Save the document to FLAT_OPC format using [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) method and set FLAT_OPC as SaveFormat
+1. Open MD file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
+2. Convert MD to DOC by using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method
+3. Load DOC file by using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class of Aspose.Words  
+4. Save the document to FLAT_OPC format using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) method and set FLAT_OPC as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Manipulation APIs" %}}
@@ -45,7 +45,7 @@ outputDocument.save("output.flat_opc", SaveFormat.FLAT_OPC);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Open Password Protected MD Document via Java" %}}
-While converting MD to FLATOPC, even if your document is password protected, you can still open it using PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). In order to open the encrypted file, you need to create a [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) object and open the MD using the owner’s password. 
+While converting MD to FLATOPC, even if your document is password protected, you can still open it using PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). In order to open the encrypted file, you need to create a [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) object and open the MD using the owner’s password. 
 {{% blocks/products/pf/feature-page-code %}}
 ```cs// open encrypted document
 Document document = new Document("input.md", "password");

@@ -16,10 +16,10 @@ Két egyszerű lépéssel a PCL-et FLATOPC-má konvertálhatja. Először is le 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java API a PCL FLATOPC-má konvertálásához" %}}
-1. Nyissa meg a PCL-fájlt a [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) osztály használatával
-2. A [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) segítségével konvertálja a PCL-et DOC-vé ) módszerrel
-3. Töltse be a DOC-fájlt a [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) Aspose.Words osztály használatával
-4. Mentse a dokumentumot FLATOPC formátumba a [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) módszerrel, és állítsa be a FLATOPC-et mint SaveFormat
+1. Nyissa meg a PCL-fájlt a [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) osztály használatával
+2. A [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) segítségével konvertálja a PCL-et DOC-vé ) módszerrel
+3. Töltse be a DOC-fájlt a [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) Aspose.Words osztály használatával
+4. Mentse a dokumentumot FLATOPC formátumba a [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) módszerrel, és állítsa be a FLATOPC-et mint SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 Az Aspose.Total for Java könnyen használható közvetlenül [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) alapú projektből és tartalmazza az [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) és az [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) a pom.xml-ben.
@@ -42,7 +42,7 @@ outputDocument.save("output.flat_opc", SaveFormat.FLAT_OPC);
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Konverziós követelmények" %}}
-A PCL FLATOPC-re konvertálása közben még akkor is megnyithatja a PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) segítségével, ha dokumentuma jelszóval védett. A titkosított fájl megnyitásához létre kell hoznia egy [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) objektumot, és meg kell nyitnia a PCL-et a tulajdonos jelszavával.  
+A PCL FLATOPC-re konvertálása közben még akkor is megnyithatja a PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) segítségével, ha dokumentuma jelszóval védett. A titkosított fájl megnyitásához létre kell hoznia egy [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) objektumot, és meg kell nyitnia a PCL-et a tulajdonos jelszavával.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

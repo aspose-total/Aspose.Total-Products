@@ -18,10 +18,10 @@ Sử dụng [Aspose.Total for .NET](https://products.aspose.com/total/net/), b�
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi tệp XSLFO sang PSD qua .NET" %}}
-1. Mở tệp XSLFO bằng lớp [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
-2. Khởi tạo đối tượng lớp [JpegDevice](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) và kết xuất XSLFO thành JPEG bằng cách sử dụng [Process](https://apireference.aspose. com/pdf/net/ aspose.pdf.devices.pagedevice/process/methods/1) method
-3. Tải tệp JPEG bằng cách sử dụng lớp [Hình ảnh](https://apireference.aspose.com/imaging/net/aspose.imaging/image)
-4. Lưu tài liệu sang định dạng PSD bằng phương pháp [Save](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
+1. Mở tệp XSLFO bằng lớp [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
+2. Khởi tạo đối tượng lớp [JpegDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) và kết xuất XSLFO thành JPEG bằng cách sử dụng [Process](https://apireference.aspose. com/pdf/net/ aspose.pdf.devices.pagedevice/process/methods/1) method
+3. Tải tệp JPEG bằng cách sử dụng lớp [Hình ảnh](https://reference.aspose.com/imaging/net/aspose.imaging/image)
+4. Lưu tài liệu sang định dạng PSD bằng phương pháp [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
@@ -39,8 +39,8 @@ Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp Z
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Chuyển đổi tệp XSLFO sang PSD trong một tệp duy nhất qua C#" %}}
-Sử dụng API, bạn cũng có thể chuyển đổi tệp XSLFO sang PSD thành một tệp hình ảnh duy nhất. Để chuyển đổi tất cả các trang, trước tiên bạn có thể kết xuất tài liệu XSLFO của mình thành một tệp TIFF và sau đó, bạn có thể xuất tệp TIFF sang PSD. Bạn có thể mở tệp đầu vào bằng lớp [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) và tạo các đối tượng thiết bị Resolution, TiffSettings và TIFF. Bạn có thể lấy một hình ảnh TIFF duy nhất bằng phương pháp [Process](https://apireference.aspose.com/pdf/net/aspose.pdf.devices.documentdevice/process/methods/3) của phương thức [TiffDevice](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice) lớp. Cuối cùng, bạn có thể tải tệp TIFF bằng lớp [Hình ảnh](https://apireference.aspose.com/imaging/net/aspose.imaging/image)
-và lưu nó ở định dạng PSD bằng phương pháp [Save](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4).  
+Sử dụng API, bạn cũng có thể chuyển đổi tệp XSLFO sang PSD thành một tệp hình ảnh duy nhất. Để chuyển đổi tất cả các trang, trước tiên bạn có thể kết xuất tài liệu XSLFO của mình thành một tệp TIFF và sau đó, bạn có thể xuất tệp TIFF sang PSD. Bạn có thể mở tệp đầu vào bằng lớp [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) và tạo các đối tượng thiết bị Resolution, TiffSettings và TIFF. Bạn có thể lấy một hình ảnh TIFF duy nhất bằng phương pháp [Process](https://reference.aspose.com/pdf/net/aspose.pdf.devices.documentdevice/process/methods/3) của phương thức [TiffDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice) lớp. Cuối cùng, bạn có thể tải tệp TIFF bằng lớp [Hình ảnh](https://reference.aspose.com/imaging/net/aspose.imaging/image)
+và lưu nó ở định dạng PSD bằng phương pháp [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4).  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-single-file.cs" >}}
@@ -49,7 +49,7 @@ và lưu nó ở định dạng PSD bằng phương pháp [Save](https://apirefe
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Chuyển đổi & xoay Tệp XSLFO sang PSD qua C#" %}}
-Sử dụng API, bạn cũng có thể xoay hình ảnh PSD đầu ra theo nhu cầu của mình. Phương thức Image.RotateFlip có thể được sử dụng để xoay hình ảnh 90/180/170 độ và lật hình ảnh theo chiều ngang hoặc chiều dọc. Bạn có thể chỉ định kiểu xoay và lật để áp dụng cho hình ảnh. Để xoay và lật hình ảnh, bạn có thể tải hình ảnh JPEG đã chuyển đổi bằng phương pháp gốc được hiển thị bởi lớp [Hình ảnh](https://apireference.aspose.com/imaging/net/aspose.imaging/image) và gọi Hình ảnh Phương thức .RotateFlip trong khi chỉ định [RotateFlipType](https://apireference.aspose.com/imaging/net/aspose.imaging/rotatefliptype) thích hợp. 
+Sử dụng API, bạn cũng có thể xoay hình ảnh PSD đầu ra theo nhu cầu của mình. Phương thức Image.RotateFlip có thể được sử dụng để xoay hình ảnh 90/180/170 độ và lật hình ảnh theo chiều ngang hoặc chiều dọc. Bạn có thể chỉ định kiểu xoay và lật để áp dụng cho hình ảnh. Để xoay và lật hình ảnh, bạn có thể tải hình ảnh JPEG đã chuyển đổi bằng phương pháp gốc được hiển thị bởi lớp [Hình ảnh](https://reference.aspose.com/imaging/net/aspose.imaging/image) và gọi Hình ảnh Phương thức .RotateFlip trong khi chỉ định [RotateFlipType](https://reference.aspose.com/imaging/net/aspose.imaging/rotatefliptype) thích hợp. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-and-rotate-pdf-to-image.cs" >}}

@@ -159,7 +159,7 @@ Aspose.Totalは、ほぼすべての種類のドキュメントを高速かつ�
 {{< blocks/products/pf/slr-tab tabTitle="学習リソース" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="ドキュメンテーション" href="https://docs.aspose.com/total/androidjava/" >}} 
 {{< blocks/products/pf/slr-element name="ソースコード" href="http://aspose.github.io/" >}} 
-{{< blocks/products/pf/slr-element name="APIリファレンスをAspose" href="https://apireference.aspose.com/" >}} 
+{{< blocks/products/pf/slr-element name="APIリファレンスをAspose" href="https://reference.aspose.com/" >}} 
 {{< blocks/products/pf/slr-element name="チュートリアルビデオ" href="https://www.youtube.com/user/asposevideo" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 

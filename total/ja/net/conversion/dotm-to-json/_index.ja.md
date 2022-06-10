@@ -18,10 +18,10 @@ otherformats: XLAM SXC XLTM TSV DIF FODS XLSM XLSX ODS XLTX XLS EXCEL XLSB XLT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C＃を介してDOTMをJSON形式に変換する" %}}
-1. [Document](https://apireference.aspose.com/words/net/aspose.words/dotmument)クラスを使用してDOTMファイルを開きます
-2. [Save](https://apireference.aspose.com/words/net/aspose.words.dotmument/save/methods/4)メソッドを使用してDOTMをHTMLに変換します
-3. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
-4. [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをJSON形式で保存します
+1. [Document](https://reference.aspose.com/words/net/aspose.words/dotmument)クラスを使用してDOTMファイルを開きます
+2. [Save](https://reference.aspose.com/words/net/aspose.words.dotmument/save/methods/4)メソッドを使用してDOTMをHTMLに変換します
+3. [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
+4. [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをJSON形式で保存します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

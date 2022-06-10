@@ -18,10 +18,10 @@ otherformats: PPTM PPSM POWERPOINT PPS POTM PPT POTX PPSX POT OTP
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование формата JSON в PPSX через C#" %}}
-1. Создайте новый объект [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) и прочитайте действительные данные JSON из файла.
-2. Импортируйте файл JSON на лист, используя класс [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) и [Сохранить](https://apireference.aspose.com/ ячейки/net/aspose.cells.workbook/save/methods/4) это как PPTX
-3. Загрузите документ PPTX с помощью класса [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation).
-4. Сохраните документ в формате PPSX, используя метод [Сохранить](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5).
+1. Создайте новый объект [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) и прочитайте действительные данные JSON из файла.
+2. Импортируйте файл JSON на лист, используя класс [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) и [Сохранить](https://reference.aspose.com/ ячейки/net/aspose.cells.workbook/save/methods/4) это как PPTX
+3. Загрузите документ PPTX с помощью класса [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation).
+4. Сохраните документ в формате PPSX, используя метод [Сохранить](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}
@@ -39,7 +39,7 @@ otherformats: PPTM PPSM POWERPOINT PPS POTM PPT POTX PPSX POT OTP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Установить макет и преобразовать формат JSON в PPSX через С#" %}}
-При синтаксическом анализе JSON в PPSX вы также можете установить параметры макета для вашего формата JSON, используя [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Он позволяет обрабатывать массив как таблицу, игнорировать нули, игнорировать заголовок массива, игнорировать заголовок объекта, преобразовывать строку в число или дату, устанавливать формат даты и числа и устанавливать стиль заголовка. Все эти параметры позволяют вам представить ваши данные в соответствии с вашими потребностями. В следующем фрагменте кода показано, как установить параметры макета.  
+При синтаксическом анализе JSON в PPSX вы также можете установить параметры макета для вашего формата JSON, используя [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Он позволяет обрабатывать массив как таблицу, игнорировать нули, игнорировать заголовок массива, игнорировать заголовок объекта, преобразовывать строку в число или дату, устанавливать формат даты и числа и устанавливать стиль заголовка. Все эти параметры позволяют вам представить ваши данные в соответствии с вашими потребностями. В следующем фрагменте кода показано, как установить параметры макета.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "set-layout-and-parse-json-to-powerpoint.cs" >}}
@@ -48,7 +48,7 @@ otherformats: PPTM PPSM POWERPOINT PPS POTM PPT POTX PPSX POT OTP
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Преобразование формата JSON в PPSX с водяным знаком" %}}
-Используя API, вы также можете конвертировать JSON в PPSX с водяным знаком. Чтобы добавить водяной знак в документ PPSX, вы можете сначала преобразовать JSON в PPTX и добавить к нему водяной знак. Чтобы добавить водяной знак, загрузите вновь созданный файл PPTX с помощью класса [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation), выберите основную презентацию, добавьте тип формы с помощью AddAutoShape и добавьте текст водяного знака с помощью AddTextFrame. После добавления водяного знака вы можете сохранить документ в PPSX. 
+Используя API, вы также можете конвертировать JSON в PPSX с водяным знаком. Чтобы добавить водяной знак в документ PPSX, вы можете сначала преобразовать JSON в PPTX и добавить к нему водяной знак. Чтобы добавить водяной знак, загрузите вновь созданный файл PPTX с помощью класса [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation), выберите основную презентацию, добавьте тип формы с помощью AddAutoShape и добавьте текст водяного знака с помощью AddTextFrame. После добавления водяного знака вы можете сохранить документ в PPSX. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}

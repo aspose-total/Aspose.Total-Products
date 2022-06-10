@@ -18,10 +18,10 @@ otherformats: PCL FLATOPC OTT WORDML ODT DOT RTF MARKDOWN XAMLFLOW DOTX PS MHTML
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API 将 CGM 转换为 DOT" %}}
-1.使用[Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)类打开CGM文件
-2. 使用[Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)方法将CGM转换为Doc
-3.使用Aspose.Words的[Document](https://apireference.aspose.com/words/net/aspose.words/document)类加载Doc文件
-4. 使用[Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)方法将文档保存为DOT格式，并将Dot设置为SaveFormat
+1.使用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类打开CGM文件
+2. 使用[Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)方法将CGM转换为Doc
+3.使用Aspose.Words的[Document](https://reference.aspose.com/words/net/aspose.words/document)类加载Doc文件
+4. 使用[Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)方法将文档保存为DOT格式，并将Dot设置为SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
@@ -47,7 +47,7 @@ outputDocument.Save("output.dot", SaveFormat.Dot);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="通过 .NET 使用所有者密码解密 CGM 文件" %}}
-在将 CGM 转换为 DOT 之前，如果您想解密您的文档，您可以使用 API 来完成。为了解密 PDF 文件，您首先需要创建一个 [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) 对象并使用所有者的密码打开 CGM。之后，您需要调用 Document 对象的 [Decrypt](https://apireference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) 方法。最后，使用 Document 对象的 Save 方法保存更新的文件。  
+在将 CGM 转换为 DOT 之前，如果您想解密您的文档，您可以使用 API 来完成。为了解密 PDF 文件，您首先需要创建一个 [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) 对象并使用所有者的密码打开 CGM。之后，您需要调用 Document 对象的 [Decrypt](https://reference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) 方法。最后，使用 Document 对象的 Save 方法保存更新的文件。  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -63,7 +63,7 @@ document.Save("Decrypt_out.doc");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="通过 .NET 创建只读 DOT- 文件" %}}
-为了保护您的 DOT 不被编辑，并防止其他人编辑您文档中的敏感和机密信息，您还可以使用 API 设置文档的保护。您可以限制编辑文档的能力，只允许对其进行某些操作。这可以使用 [Aspose.Words for .NET](https://products.aspose.com/words/net/) API 来完成。它使您能够控制使用 [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype) 枚举参数限制内容的方式。您可以使用以下代码行将文档设置为只读。 
+为了保护您的 DOT 不被编辑，并防止其他人编辑您文档中的敏感和机密信息，您还可以使用 API 设置文档的保护。您可以限制编辑文档的能力，只允许对其进行某些操作。这可以使用 [Aspose.Words for .NET](https://products.aspose.com/words/net/) API 来完成。它使您能够控制使用 [ProtectionType](https://reference.aspose.com/words/net/aspose.words/protectiontype) 枚举参数限制内容的方式。您可以使用以下代码行将文档设置为只读。 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

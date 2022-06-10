@@ -18,10 +18,10 @@ Du kan konvertera JSON till PPT i alla .NET-, C#-, ASP.NET- och VB.NET-applikati
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertera JSON-format till PPT via C#" %}}
-1. Skapa ett nytt [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) objekt och läs giltig JSON-data från filen
-2. Importera JSON-fil till kalkylblad med klassen [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) och [Spara](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) det som PPTX
-3. Ladda PPTX-dokument genom att använda klassen [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-4. Spara dokumentet i PPT-format med metoden [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+1. Skapa ett nytt [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) objekt och läs giltig JSON-data från filen
+2. Importera JSON-fil till kalkylblad med klassen [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) och [Spara](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) det som PPTX
+3. Ladda PPTX-dokument genom att använda klassen [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+4. Spara dokumentet i PPT-format med metoden [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
@@ -39,7 +39,7 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ställ in layout och konvertera JSON-format till PPT via C#" %}}
-Medan du analyserar JSON till PPT kan du också ställa in layoutalternativ för ditt JSON-format med [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Det låter dig bearbeta array som en tabell, ignorera nollvärden, ignorera arraytitel, ignorera objekttitel, konvertera sträng till nummer eller datum, ställa in datum och nummerformat och ställa in titelstil. Alla dessa alternativ låter dig presentera din data enligt dina behov. Följande kodavsnitt visar hur du ställer in layoutalternativen.  
+Medan du analyserar JSON till PPT kan du också ställa in layoutalternativ för ditt JSON-format med [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Det låter dig bearbeta array som en tabell, ignorera nollvärden, ignorera arraytitel, ignorera objekttitel, konvertera sträng till nummer eller datum, ställa in datum och nummerformat och ställa in titelstil. Alla dessa alternativ låter dig presentera din data enligt dina behov. Följande kodavsnitt visar hur du ställer in layoutalternativen.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "set-layout-and-parse-json-to-powerpoint.cs" >}}
@@ -48,7 +48,7 @@ Medan du analyserar JSON till PPT kan du också ställa in layoutalternativ för
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Konvertera JSON-format till PPT med vattenstämpel" %}}
-Med hjälp av API:t kan du också konvertera JSON till PPT med vattenstämpel. För att lägga till ett vattenmärke till ditt PPT-dokument kan du först analysera JSON till PPTX och lägga till ett vattenmärke till det. För att lägga till en vattenstämpel, ladda den nyskapade PPTX-filen med klassen [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation), välj huvudpresentationen, lägg till formtyp med hjälp av Lägg till AutoShape och lägg till vattenstämpeltext med AddTextFrame. När du har lagt till vattenstämpeln kan du spara dokumentet i PPT. 
+Med hjälp av API:t kan du också konvertera JSON till PPT med vattenstämpel. För att lägga till ett vattenmärke till ditt PPT-dokument kan du först analysera JSON till PPTX och lägga till ett vattenmärke till det. För att lägga till en vattenstämpel, ladda den nyskapade PPTX-filen med klassen [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation), välj huvudpresentationen, lägg till formtyp med hjälp av Lägg till AutoShape och lägg till vattenstämpeltext med AddTextFrame. När du har lagt till vattenstämpeln kan du spara dokumentet i PPT. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}

@@ -16,10 +16,10 @@ otherformats: DOTXX ODT WORDML FLATOPC OTT DOT DOTM DOTXM RTF DOTX TEXT WORD
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hur man konverterar PPSX till DOTX via Java" %}}
-1. Öppna PPSX-filen med klassen [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Konvertera PPSX till HTML genom att använda [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-)-metoden och ställ in Html som SaveFormat
-3. Ladda den konverterade HTML-filen med klassen [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Spara dokumentet i DOTX-format med metoden [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
+1. Öppna PPSX-filen med klassen [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. Konvertera PPSX till HTML genom att använda [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-)-metoden och ställ in Html som SaveFormat
+3. Ladda den konverterade HTML-filen med klassen [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. Spara dokumentet i DOTX-format med metoden [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
 För konvertering av PPSX till DOTX-fil kan du enkelt använda Aspose.Total för Java direkt från en [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) baserat projekt och inkludera bibliotek i din pom.xml.
@@ -34,7 +34,7 @@ Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Konverteringskrav" %}}
-Med hjälp av API:t kan du också utföra PPSX-fil till DOTX-konvertering med vattenstämpel. För att lägga till en vattenstämpel till ditt DOTX-dokument kan du först konvertera PPSX-filen till HTML och lägga till en vattenstämpel till den. För att lägga till en vattenstämpel, ladda den nyskapade HTML-filen med klassen [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document), skapa en instans av TextWatermarkOptions och ställ in dess egenskaper, anrop Watermark.setText-metoden och skicka vattenstämpeltext och objekt av TextWatermarkOptions.  
+Med hjälp av API:t kan du också utföra PPSX-fil till DOTX-konvertering med vattenstämpel. För att lägga till en vattenstämpel till ditt DOTX-dokument kan du först konvertera PPSX-filen till HTML och lägga till en vattenstämpel till den. För att lägga till en vattenstämpel, ladda den nyskapade HTML-filen med klassen [Document](https://reference.aspose.com/words/java/com.aspose.words/Document), skapa en instans av TextWatermarkOptions och ställ in dess egenskaper, anrop Watermark.setText-metoden och skicka vattenstämpeltext och objekt av TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}

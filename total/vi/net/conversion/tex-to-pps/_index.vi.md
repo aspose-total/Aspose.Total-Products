@@ -18,10 +18,10 @@ Sử dụng gói API tự động hóa định dạng tệp mạnh mẽ [Aspose.
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API để chuyển đổi TEX sang PPS" %}}
-1. Mở tệp TEX bằng lớp [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
-2. Chuyển đổi TEX sang PPTX bằng phương pháp [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
-3. Tải tệp PPTX bằng cách sử dụng lớp [Trình bày](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-4. Lưu tài liệu sang định dạng PPS bằng phương pháp [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) và đặt `Pps` thành SaveFormat
+1. Mở tệp TEX bằng lớp [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
+2. Chuyển đổi TEX sang PPTX bằng phương pháp [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. Tải tệp PPTX bằng cách sử dụng lớp [Trình bày](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+4. Lưu tài liệu sang định dạng PPS bằng phương pháp [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) và đặt `Pps` thành SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
@@ -47,7 +47,7 @@ presentation.Save("output.pps", SaveFormat.Pps);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Nhận siêu dữ liệu XMP từ tệp TEX qua .NET" %}}
-Trong khi chuyển đổi TEX sang PPS, bạn có thể cần thêm thông tin siêu dữ liệu XMP để ưu tiên quá trình chuyển đổi hàng loạt của mình. Ví dụ: bạn có thể lấy và sắp xếp các tài liệu chuyển đổi của mình dựa trên ngày tạo và xử lý tài liệu cho phù hợp. [Aspose.PDF dành for .NET](https://products.aspose.com/pdf/net/) cho phép bạn truy cập siêu dữ liệu XMP của tệp TEX. Để nhận siêu dữ liệu của tệp TEX, bạn có thể tạo đối tượng [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) và mở tệp TEX đầu vào. Sau đó, bạn có thể lấy siêu dữ liệu của tệp bằng thuộc tính [Siêu dữ liệu](https://apireference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata).  
+Trong khi chuyển đổi TEX sang PPS, bạn có thể cần thêm thông tin siêu dữ liệu XMP để ưu tiên quá trình chuyển đổi hàng loạt của mình. Ví dụ: bạn có thể lấy và sắp xếp các tài liệu chuyển đổi của mình dựa trên ngày tạo và xử lý tài liệu cho phù hợp. [Aspose.PDF dành for .NET](https://products.aspose.com/pdf/net/) cho phép bạn truy cập siêu dữ liệu XMP của tệp TEX. Để nhận siêu dữ liệu của tệp TEX, bạn có thể tạo đối tượng [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) và mở tệp TEX đầu vào. Sau đó, bạn có thể lấy siêu dữ liệu của tệp bằng thuộc tính [Siêu dữ liệu](https://reference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

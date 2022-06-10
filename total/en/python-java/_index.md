@@ -112,23 +112,23 @@ Python Diagram library that helps in creating, reading, writing and exporting Mi
  <em class="fa fa-text-width ico-blue fa-2x col-lg-2">
  </em>
  <p class="col-lg-10">
-  Set code text for barcode labels
+  Customize barcode label's appearance 
  </p>
 </div>
 <div class="col-lg-4">
  <em class="fa fa-random ico-blue fa-2x col-lg-2">
  </em>
  <p class="col-lg-10">
-  Recognize hundereds of barcode symbologies
+  Recognize 1D, 2D & postal barcode symbologies
  </p>
 </div>
 
 <div class="col-lg-12">
  <h2 class="h2title">
-  Process All Popular File Categories
+  Process Popular File Types
  </h2>
  <p>
-  Aspose.Total for Python via .NET can handle multitude of file formats. 
+  Aspose.Total for Python via Java can handle multitude of file formats. 
  </p>
  <ul class="unstyled">
   
@@ -177,9 +177,9 @@ Aspose.Total is a powerful suite to process nearly all kinds of documents in hig
 {{< blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/total/pythonjava/" >}} 
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/total/python-java/" >}} 
 {{< blocks/products/pf/slr-element name="Source Code" href="http://aspose.github.io/" >}} 
-{{< blocks/products/pf/slr-element name="Aspose API References" href="https://apireference.aspose.com/" >}} 
+{{< blocks/products/pf/slr-element name="Aspose API References" href="https://reference.aspose.com/" >}} 
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -203,7 +203,8 @@ Aspose.Total is a powerful suite to process nearly all kinds of documents in hig
     {{< blocks/products/pf/offers-section-item link="/total/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
     {{< blocks/products/pf/offers-section-item link="/total/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" sdkName=" Java" >}}
     {{< blocks/products/pf/offers-section-item link="/total/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" sdkName=" C++" >}}
- {{< blocks/products/pf/offers-section-item link="/total/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-net.svg" sdkName=" Python via .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-net.svg" sdkName=" Python via .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
     {{< blocks/products/pf/offers-section-item link="/total/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
     {{< blocks/products/pf/offers-section-item link="/total/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
     {{< blocks/products/pf/offers-section-item link="/total/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" sdkName=" JasperReports" >}}

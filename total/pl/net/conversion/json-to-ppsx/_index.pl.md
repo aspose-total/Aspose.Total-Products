@@ -18,10 +18,10 @@ Możesz przekonwertować JSON na PPSX w dowolnej aplikacji .NET, C#, ASP.NET i V
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konwertuj format JSON na PPSX za pomocą C#" %}}
-1. Utwórz nowy obiekt [Skoroszyt](https://apireference.aspose.com/cells/net/aspose.cells/workbook) i odczytaj prawidłowe dane JSON z pliku
-2. Zaimportuj plik JSON do arkusza roboczego za pomocą klasy [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) i [Save](https://apireference.aspose.com/ cell/net/aspose.cells.workbook/save/methods/4) to jako PPTX
-3. Załaduj dokument PPTX za pomocą klasy [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-4. Zapisz dokument w formacie PPSX za pomocą metody [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+1. Utwórz nowy obiekt [Skoroszyt](https://reference.aspose.com/cells/net/aspose.cells/workbook) i odczytaj prawidłowe dane JSON z pliku
+2. Zaimportuj plik JSON do arkusza roboczego za pomocą klasy [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) i [Save](https://reference.aspose.com/ cell/net/aspose.cells.workbook/save/methods/4) to jako PPTX
+3. Załaduj dokument PPTX za pomocą klasy [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+4. Zapisz dokument w formacie PPSX za pomocą metody [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
@@ -39,7 +39,7 @@ Możesz też pobrać instalator offline MSI lub biblioteki DLL w pliku ZIP ze st
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ustaw układ i konwertuj format JSON na PPSX za pomocą C#" %}}
-Podczas analizowania JSON do PPSX możesz również ustawić opcje układu dla formatu JSON za pomocą [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Pozwala przetwarzać tablicę jako tabelę, ignorować wartości null, ignorować tytuł tablicy, ignorować tytuł obiektu, konwertować ciąg na liczbę lub datę, ustawić format daty i liczby oraz ustawić styl tytułu. Wszystkie te opcje umożliwiają prezentację danych zgodnie z własnymi potrzebami. Poniższy fragment kodu pokazuje, jak ustawić opcje układu.  
+Podczas analizowania JSON do PPSX możesz również ustawić opcje układu dla formatu JSON za pomocą [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Pozwala przetwarzać tablicę jako tabelę, ignorować wartości null, ignorować tytuł tablicy, ignorować tytuł obiektu, konwertować ciąg na liczbę lub datę, ustawić format daty i liczby oraz ustawić styl tytułu. Wszystkie te opcje umożliwiają prezentację danych zgodnie z własnymi potrzebami. Poniższy fragment kodu pokazuje, jak ustawić opcje układu.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "set-layout-and-parse-json-to-powerpoint.cs" >}}
@@ -48,7 +48,7 @@ Podczas analizowania JSON do PPSX możesz również ustawić opcje układu dla f
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Konwertuj format JSON na PPSX za pomocą znaku wodnego" %}}
-Korzystając z API, możesz również przekonwertować JSON na PPSX ze znakiem wodnym. Aby dodać znak wodny do dokumentu PPSX, możesz najpierw przeanalizować JSON do PPTX i dodać do niego znak wodny. Aby dodać znak wodny, wczytaj nowo utworzony plik PPTX za pomocą klasy [Prezentacja](https://apireference.aspose.com/slides/net/aspose.slides/presentation), wybierz prezentację wzorcową, dodaj typ kształtu za pomocą AddAutoShape i dodaj tekst znaku wodnego za pomocą AddTextFrame. Po dodaniu znaku wodnego możesz zapisać dokument w PPSX. 
+Korzystając z API, możesz również przekonwertować JSON na PPSX ze znakiem wodnym. Aby dodać znak wodny do dokumentu PPSX, możesz najpierw przeanalizować JSON do PPTX i dodać do niego znak wodny. Aby dodać znak wodny, wczytaj nowo utworzony plik PPTX za pomocą klasy [Prezentacja](https://reference.aspose.com/slides/net/aspose.slides/presentation), wybierz prezentację wzorcową, dodaj typ kształtu za pomocą AddAutoShape i dodaj tekst znaku wodnego za pomocą AddTextFrame. Po dodaniu znaku wodnego możesz zapisać dokument w PPSX. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}

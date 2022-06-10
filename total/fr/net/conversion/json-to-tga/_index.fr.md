@@ -18,10 +18,10 @@ En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vo
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convertir le format JSON en TGA via C#" %}}
-1. Créez un nouvel objet [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) et lisez les données JSON à partir du fichier
-2. Convertissez JSON en JPEG à l'aide de la méthode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
-3. Chargez le document JPEG en utilisant la classe [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image)
-4. Enregistrez le document au format TGA en utilisant la méthode [Save](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
+1. Créez un nouvel objet [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) et lisez les données JSON à partir du fichier
+2. Convertissez JSON en JPEG à l'aide de la méthode [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+3. Chargez le document JPEG en utilisant la classe [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image)
+4. Enregistrez le document au format TGA en utilisant la méthode [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
@@ -39,7 +39,7 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Définir la mise en page et convertir le format JSON en TGA via C#" %}}
-Lors de l'analyse de JSON vers TGA, vous pouvez également définir des options de mise en page pour votre JSON à l'aide de [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Il vous permet de traiter Array comme une table, d'ignorer les valeurs nulles, d'ignorer le titre du tableau, d'ignorer le titre de l'objet, de convertir une chaîne en nombre ou en date, de définir le format de la date et du nombre et de définir le style du titre. Toutes ces options vous permettent de présenter vos données selon vos besoins. L'extrait de code suivant vous montre comment définir les options de mise en page.  
+Lors de l'analyse de JSON vers TGA, vous pouvez également définir des options de mise en page pour votre JSON à l'aide de [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Il vous permet de traiter Array comme une table, d'ignorer les valeurs nulles, d'ignorer le titre du tableau, d'ignorer le titre de l'objet, de convertir une chaîne en nombre ou en date, de définir le format de la date et du nombre et de définir le style du titre. Toutes ces options vous permettent de présenter vos données selon vos besoins. L'extrait de code suivant vous montre comment définir les options de mise en page.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "set-layout-and-parse-json-to-image.cs" >}}
@@ -48,7 +48,7 @@ Lors de l'analyse de JSON vers TGA, vous pouvez également définir des options 
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analyser le format JSON en TGA avec filigrane" %}}
-À l'aide de l'API, vous pouvez également convertir JSON en TGA avec filigrane dans votre document TGA. Pour ajouter un filigrane, vous pouvez d'abord rendre votre document JSON au format JPEG et y ajouter un filigrane. Pour illustrer l'opération, vous pouvez charger votre image JPEG convertie, ajouter des transformations à l'aide d'un objet de la classe Matrix et dessiner une chaîne comme filigrane sur la surface de l'image à l'aide de [Graphics](https://apireference.aspose.com/imaging/ net/aspose.imaging/graphics) class' [DrawString](https://apireference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring). Après y avoir ajouté le filigrane, vous pouvez enregistrer le JPEG au format TGA. Vous trouverez ci-dessous un exemple de code qui montre comment ajouter un filigrane diagonal à votre document. 
+À l'aide de l'API, vous pouvez également convertir JSON en TGA avec filigrane dans votre document TGA. Pour ajouter un filigrane, vous pouvez d'abord rendre votre document JSON au format JPEG et y ajouter un filigrane. Pour illustrer l'opération, vous pouvez charger votre image JPEG convertie, ajouter des transformations à l'aide d'un objet de la classe Matrix et dessiner une chaîne comme filigrane sur la surface de l'image à l'aide de [Graphics](https://reference.aspose.com/imaging/ net/aspose.imaging/graphics) class' [DrawString](https://reference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring). Après y avoir ajouté le filigrane, vous pouvez enregistrer le JPEG au format TGA. Vous trouverez ci-dessous un exemple de code qui montre comment ajouter un filigrane diagonal à votre document. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}

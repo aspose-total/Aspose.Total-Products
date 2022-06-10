@@ -18,10 +18,10 @@ otherformats: PPTX POWERPOINT DOC DOCX
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Android API to Export XLTX to WORD" %}}
-1. Open XLTX file using [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) class
+1. Open XLTX file using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
 2. Convert XLTX to PDF and set SaveFormat to AUTO
-3. Load the converted PDF file using [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-4. Save the document to DOC format using [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method
+3. Load the converted PDF file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
+4. Save the document to DOC format using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with Android via Java APIs" %}}
@@ -45,7 +45,7 @@ document.save("output.doc", com.aspose.pdf.SaveFormat.Doc);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Remove Custom Properties from XLTX File in Android via Java" %}}
-Apart from document conversion, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) provides tons of other features as well. Before the conversion process, you can remove custom properties of XLTX document. To remove custom properties, call the [DocumentPropertyCollection.remove](https://apireference.aspose.com/cells/java/com.aspose.cells/documentpropertycollection#remove(java.lang.String)) method and pass the name of the document property to be removed.
+Apart from document conversion, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) provides tons of other features as well. Before the conversion process, you can remove custom properties of XLTX document. To remove custom properties, call the [DocumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/documentpropertycollection#remove(java.lang.String)) method and pass the name of the document property to be removed.
 {{% blocks/products/pf/feature-page-code %}}
 ```java
 // load the XLTX file using Workbook class

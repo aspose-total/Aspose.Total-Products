@@ -16,11 +16,11 @@ Oft müssen Entwickler WORDML-Dateien programmgesteuert in PPSM konvertieren. Du
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="So konvertieren Sie WORDML über Java in PPSM" %}}
-1. Öffnen Sie die WORDML-Datei mit der Klasse [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document).
-2. Konvertieren Sie die WORDML-Datei in HTML, indem Sie [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) Methode
-3. Initialisieren Sie ein neues [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)-Objekt
+1. Öffnen Sie die WORDML-Datei mit der Klasse [Document](https://reference.aspose.com/words/java/com.aspose.words/Document).
+2. Konvertieren Sie die WORDML-Datei in HTML, indem Sie [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) Methode
+3. Initialisieren Sie ein neues [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)-Objekt
 5. Extrahieren Sie den Inhalt aus der HTML-Datei mit BufferedReader und schreiben Sie den Inhalt in Ihre Präsentationsdatei
-6. Speichern Sie das Dokument mit der Methode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) im PPSM
+6. Speichern Sie das Dokument mit der Methode [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) im PPSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
 Für die Konvertierung von WORDML- in PPSM-Dateien können Sie Aspose.Total für Java direkt von einem [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)-basiertes Projekt und fügen Sie Bibliotheken in Ihre pom.xml ein.

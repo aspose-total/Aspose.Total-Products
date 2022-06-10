@@ -18,10 +18,10 @@ Om du är en .NET-utvecklare som vill lägga till EMAIL till IMAGE-konverterings
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API för att konvertera EMAIL till IMAGE" %}}
-1. Öppna EMAIL-filen med klassen [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage)
-2. Konvertera EMAIL till HTML med metoden [Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
-3. Ladda HTML genom att använda klassen [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-4. Spara dokumentet i IMAGE-format med metoden [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) och ställ in Image som SaveFormat
+1. Öppna EMAIL-filen med klassen [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage)
+2. Konvertera EMAIL till HTML med metoden [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
+3. Ladda HTML genom att använda klassen [Document](https://reference.aspose.com/words/net/aspose.words/document)
+4. Spara dokumentet i IMAGE-format med metoden [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) och ställ in Image som SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
@@ -47,7 +47,7 @@ document.Save("output.png", SaveFormat.Png);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analysera EMAIL-fil via .NET" %}}
-Innan du konverterar EMAIL till IMAGE, om du vill vara säker på att du konverterar rätt e-post, kan du ladda EMAIL-dokumentet, analysera det och ta en titt på din önskade egenskap. Genom att använda [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) klass av [Aspose.Email for .NET](https://products.aspose.com/email /net/) API kan du få information om avsändare och mottagare. Du kan till exempel söka efter en specifik avsändar-e-post för konverteringen genom att använda egenskapen [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
+Innan du konverterar EMAIL till IMAGE, om du vill vara säker på att du konverterar rätt e-post, kan du ladda EMAIL-dokumentet, analysera det och ta en titt på din önskade egenskap. Genom att använda [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) klass av [Aspose.Email for .NET](https://products.aspose.com/email /net/) API kan du få information om avsändare och mottagare. Du kan till exempel söka efter en specifik avsändar-e-post för konverteringen genom att använda egenskapen [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

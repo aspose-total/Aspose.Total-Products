@@ -16,10 +16,10 @@ otherformats: XAMLFLOW GIF PS MHTML PCL DOTX DOTM FLATOPC WORDML DOT RTF OTT
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java API เพื่อแปลง CGM เป็น GIF" %}}
-1. เปิดไฟล์ CGM โดยใช้คลาส [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)
-2. แปลง CGM เป็น DOC โดยใช้ [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) กระบวนการ
-3. โหลดไฟล์ DOC โดยใช้ [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) คลาสของ Aspose.Words
-4. บันทึกเอกสารในรูปแบบ GIF โดยใช้เมธอด [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) และตั้งค่า GIF เป็น SaveFormat
+1. เปิดไฟล์ CGM โดยใช้คลาส [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. แปลง CGM เป็น DOC โดยใช้ [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) กระบวนการ
+3. โหลดไฟล์ DOC โดยใช้ [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) คลาสของ Aspose.Words
+4. บันทึกเอกสารในรูปแบบ GIF โดยใช้เมธอด [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) และตั้งค่า GIF เป็น SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
 คุณสามารถใช้ Aspose.Total สำหรับ Java ได้โดยตรงจากโปรเจ็กต์ที่ใช้ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และรวม [Aspose.PDF สำหรับ Java](https://docs.aspose.com/pdf/java/installation/) และ [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) ใน pom.xml ของคุณ
@@ -42,7 +42,7 @@ outputDocument.save("output.gif", SaveFormat.GIF);
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="ข้อกำหนดการแปลง" %}}
-ขณะแปลง CGM เป็น GIF แม้ว่าเอกสารของคุณจะมีการป้องกันด้วยรหัสผ่าน คุณยังสามารถเปิดได้โดยใช้ PDF Manipulation API [Aspose.PDF สำหรับ Java](https://docs.aspose.com/pdf/java/installation/) ในการเปิดไฟล์ที่เข้ารหัส คุณต้องสร้างวัตถุ [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) และเปิด CGM โดยใช้รหัสผ่านของเจ้าของ  
+ขณะแปลง CGM เป็น GIF แม้ว่าเอกสารของคุณจะมีการป้องกันด้วยรหัสผ่าน คุณยังสามารถเปิดได้โดยใช้ PDF Manipulation API [Aspose.PDF สำหรับ Java](https://docs.aspose.com/pdf/java/installation/) ในการเปิดไฟล์ที่เข้ารหัส คุณต้องสร้างวัตถุ [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) และเปิด CGM โดยใช้รหัสผ่านของเจ้าของ  
 {{% blocks/products/pf/feature-page-code %}}
 ```cs
 // open encrypted document

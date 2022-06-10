@@ -18,10 +18,10 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="सी # के माध्यम से ओडीपी को जेएसओएन प्रारूप में कनवर्ट करें" %}}
-1. [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) वर्ग का उपयोग करके PPT फ़ाइल खोलें
-2. [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) विधि का उपयोग करके PPT को HTML में बदलें
-3. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) क्लास का इस्तेमाल करके एचटीएमएल दस्तावेज़ लोड करें
-4. [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) विधि का उपयोग करके दस्तावेज़ को JSON प्रारूप में सहेजें
+1. [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) वर्ग का उपयोग करके PPT फ़ाइल खोलें
+2. [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) विधि का उपयोग करके PPT को HTML में बदलें
+3. [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) क्लास का इस्तेमाल करके एचटीएमएल दस्तावेज़ लोड करें
+4. [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) विधि का उपयोग करके दस्तावेज़ को JSON प्रारूप में सहेजें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}

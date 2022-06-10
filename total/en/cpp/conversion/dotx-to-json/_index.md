@@ -18,10 +18,10 @@ By using [Aspose.Total for C++](https://products.aspose.com/total/cpp/) you can 
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convert DOTX to JSON Format via C++" %}}
-1. Open DOTX file using [Document](https://apireference.aspose.com/words/cpp/class/aspose.words.document) class reference
-2. Convert DOTX to HTML by using [Save](https://apireference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) member function
-3. Load HTML document by using [IWorkbook](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) class reference
-4. Save the document to JSON format using [Save](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) member function
+1. Open DOTX file using [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) class reference
+2. Convert DOTX to HTML by using [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) member function
+3. Load HTML document by using [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) class reference
+4. Save the document to JSON format using [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) member function
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with C++ File Automation APIs" %}}

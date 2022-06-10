@@ -18,10 +18,10 @@ otherformats: DOTX JPEG PCL OTT SVG PS ODT DOCX DOT DOCM EPUB XPS WORDML PNG MD 
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API για Μετατροπή MSG σε EMF" %}}
-1. Ανοίξτε το αρχείο MSG χρησιμοποιώντας την τάξη [MailMessage](https://apireference.aspose.com/msg/net/aspose.msg/mailmessage)
-2. Μετατρέψτε το MSG σε HTML χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/msg/net/aspose.msg.mailmessage/save/methods/3)
-3. Φορτώστε το HTML χρησιμοποιώντας την κλάση [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-4. Αποθηκεύστε το έγγραφο σε μορφή EMF χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) και ορίστε το Emf ως SaveFormat
+1. Ανοίξτε το αρχείο MSG χρησιμοποιώντας την τάξη [MailMessage](https://reference.aspose.com/msg/net/aspose.msg/mailmessage)
+2. Μετατρέψτε το MSG σε HTML χρησιμοποιώντας τη μέθοδο [Save](https://reference.aspose.com/msg/net/aspose.msg.mailmessage/save/methods/3)
+3. Φορτώστε το HTML χρησιμοποιώντας την κλάση [Document](https://reference.aspose.com/words/net/aspose.words/document)
+4. Αποθηκεύστε το έγγραφο σε μορφή EMF χρησιμοποιώντας τη μέθοδο [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) και ορίστε το Emf ως SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
@@ -47,7 +47,7 @@ document.Save("output.emf", SaveFormat.Emf);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ανάλυση αρχείου MSG μέσω .NET" %}}
-Πριν μετατρέψετε το MSG σε EMF, εάν θέλετε να βεβαιωθείτε ότι μετατρέπετε το σωστό msg, μπορείτε να φορτώσετε το έγγραφο MSG, να το αναλύσετε και να ρίξετε μια ματιά στην επιθυμητή ιδιότητα. Χρησιμοποιώντας την κλάση [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) του [Aspose.Email for .NET](https://products.aspose.com/msg /net/) API, μπορείτε να λάβετε πληροφορίες αποστολέα και παραληπτών. Για παράδειγμα, μπορείτε να ελέγξετε για ένα συγκεκριμένο μήνυμα ηλεκτρονικού ταχυδρομείου αποστολέα για τη μετατροπή χρησιμοποιώντας την ιδιότητα [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername).  
+Πριν μετατρέψετε το MSG σε EMF, εάν θέλετε να βεβαιωθείτε ότι μετατρέπετε το σωστό msg, μπορείτε να φορτώσετε το έγγραφο MSG, να το αναλύσετε και να ρίξετε μια ματιά στην επιθυμητή ιδιότητα. Χρησιμοποιώντας την κλάση [MapiMessage](https://reference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) του [Aspose.Email for .NET](https://products.aspose.com/msg /net/) API, μπορείτε να λάβετε πληροφορίες αποστολέα και παραληπτών. Για παράδειγμα, μπορείτε να ελέγξετε για ένα συγκεκριμένο μήνυμα ηλεκτρονικού ταχυδρομείου αποστολέα για τη μετατροπή χρησιμοποιώντας την ιδιότητα [SenderName](https://reference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

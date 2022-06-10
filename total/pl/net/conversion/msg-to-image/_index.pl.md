@@ -18,10 +18,10 @@ Jeśli jesteś programistą .NET i chcesz dodać funkcje konwersji MSG do IMAGE 
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API do konwersji MSG na IMAGE" %}}
-1. Otwórz plik MSG za pomocą klasy [MailMessage](https://apireference.aspose.com/msg/net/aspose.msg/mailmessage)
-2. Konwertuj MSG na HTML za pomocą metody [Save](https://apireference.aspose.com/msg/net/aspose.msg.mailmessage/save/methods/3)
-3. Załaduj HTML za pomocą klasy [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-4. Zapisz dokument w formacie IMAGE za pomocą metody [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) i ustaw Image jako SaveFormat
+1. Otwórz plik MSG za pomocą klasy [MailMessage](https://reference.aspose.com/msg/net/aspose.msg/mailmessage)
+2. Konwertuj MSG na HTML za pomocą metody [Save](https://reference.aspose.com/msg/net/aspose.msg.mailmessage/save/methods/3)
+3. Załaduj HTML za pomocą klasy [Document](https://reference.aspose.com/words/net/aspose.words/document)
+4. Zapisz dokument w formacie IMAGE za pomocą metody [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) i ustaw Image jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
@@ -47,7 +47,7 @@ document.Save("output.png", SaveFormat.Png);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Przeanalizuj plik MSG przez .NET" %}}
-Przed konwersją MSG na IMAGE, jeśli chcesz się upewnić, że konwertujesz poprawny e-mail, możesz załadować dokument MSG, przeanalizować go i spojrzeć na żądaną właściwość. Korzystając z klasy [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) [Aspose.Email for .NET](https://products.aspose.com/msg /net/) API, możesz uzyskać informacje o nadawcy i odbiorcy. Na przykład możesz sprawdzić konkretny adres e-mail nadawcy dla konwersji za pomocą właściwości [NazwaNadawcy](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername).  
+Przed konwersją MSG na IMAGE, jeśli chcesz się upewnić, że konwertujesz poprawny e-mail, możesz załadować dokument MSG, przeanalizować go i spojrzeć na żądaną właściwość. Korzystając z klasy [MapiMessage](https://reference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) [Aspose.Email for .NET](https://products.aspose.com/msg /net/) API, możesz uzyskać informacje o nadawcy i odbiorcy. Na przykład możesz sprawdzić konkretny adres e-mail nadawcy dla konwersji za pomocą właściwości [NazwaNadawcy](https://reference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

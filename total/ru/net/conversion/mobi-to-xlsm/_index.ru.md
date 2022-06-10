@@ -18,10 +18,10 @@ otherformats: FODS EXCEL XLSX XLAM XLTX XLT SXC XLTM TSV XLS ODS XLSB DIF XLSM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API для преобразования MOBI в XLSM" %}}
-1. Откройте файл MOBI, используя класс [Document](https://apireference.aspose.com/words/net/aspose.words/mobiument).
-2. Преобразуйте MOBI в HTML, используя метод [Сохранить](https://apireference.aspose.com/words/net/aspose.words.mobiument/save/methods/4).
-3. Загрузите HTML-документ с помощью класса [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
-4. Сохраните документ в формате XLSM с помощью метода [Сохранить](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) и установите «XLSM» в качестве формата сохранения.
+1. Откройте файл MOBI, используя класс [Document](https://reference.aspose.com/words/net/aspose.words/mobiument).
+2. Преобразуйте MOBI в HTML, используя метод [Сохранить](https://reference.aspose.com/words/net/aspose.words.mobiument/save/methods/4).
+3. Загрузите HTML-документ с помощью класса [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook).
+4. Сохраните документ в формате XLSM с помощью метода [Сохранить](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) и установите «XLSM» в качестве формата сохранения.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}
@@ -39,7 +39,7 @@ otherformats: FODS EXCEL XLSX XLAM XLTX XLT SXC XLTM TSV XLS ODS XLSB DIF XLSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Загрузить документ MOBI из потока через С#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) также позволяет загружать документ MOBI через поток. Чтобы открыть документ из потока, просто передайте объект потока, содержащий документ, в конструктор [Document](https://apireference.aspose.com/words/net/aspose.words/mobiument). В следующем примере кода показано, как открыть документ из потока:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) также позволяет загружать документ MOBI через поток. Чтобы открыть документ из потока, просто передайте объект потока, содержащий документ, в конструктор [Document](https://reference.aspose.com/words/net/aspose.words/mobiument). В следующем примере кода показано, как открыть документ из потока:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ otherformats: FODS EXCEL XLSX XLAM XLTX XLT SXC XLTM TSV XLS ODS XLSB DIF XLSM
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Добавить пользовательские свойства в файл XLSM через С#" %}}
-При преобразовании MOBI в XLSM [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) позволяет добавлять пользовательские свойства в документы XLSM. Чтобы добавить пользовательское свойство, вы можете использовать метод [Добавить](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection/methods/add/index) для [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection). Метод Add добавляет свойство в файл Excel и возвращает ссылку на новое свойство документа в виде [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties). /mobiumentproperty) объект. 
+При преобразовании MOBI в XLSM [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) позволяет добавлять пользовательские свойства в документы XLSM. Чтобы добавить пользовательское свойство, вы можете использовать метод [Добавить](https://reference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection/methods/add/index) для [CustomDocumentPropertyCollection](https://reference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection). Метод Add добавляет свойство в файл Excel и возвращает ссылку на новое свойство документа в виде [Aspose.Cells.Properties.DocumentProperty](https://reference.aspose.com/cells/net/aspose.cells.properties). /mobiumentproperty) объект. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

@@ -18,10 +18,10 @@ Dengan menggunakan [Aspose.Total for .NET](https://products.aspose.com/total/net
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konversi Format JSON ke EMZ melalui C#" %}}
-1. Buat objek [Buku Kerja](https://apireference.aspose.com/cells/net/aspose.cells/workbook) baru dan baca data JSON dari file
-2. Konversi JSON ke JPEG menggunakan metode [Simpan](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
-3. Muat dokumen JPEG dengan menggunakan kelas [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image)
-4. Simpan dokumen ke format EMZ menggunakan metode [Simpan](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
+1. Buat objek [Buku Kerja](https://reference.aspose.com/cells/net/aspose.cells/workbook) baru dan baca data JSON dari file
+2. Konversi JSON ke JPEG menggunakan metode [Simpan](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+3. Muat dokumen JPEG dengan menggunakan kelas [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image)
+4. Simpan dokumen ke format EMZ menggunakan metode [Simpan](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
@@ -39,7 +39,7 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Atur Tata Letak dan Konversi Format JSON ke EMZ melalui C#" %}}
-Saat mengurai JSON ke EMZ, Anda juga dapat menyetel opsi tata letak untuk JSON menggunakan [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Ini memungkinkan Anda untuk memproses Array sebagai tabel, mengabaikan nol, mengabaikan judul array, mengabaikan judul objek, mengonversi string menjadi angka atau tanggal, mengatur format tanggal dan angka, dan mengatur gaya judul. Semua opsi ini memungkinkan Anda untuk menyajikan data sesuai kebutuhan Anda. Cuplikan kode berikut menunjukkan cara menyetel opsi tata letak.  
+Saat mengurai JSON ke EMZ, Anda juga dapat menyetel opsi tata letak untuk JSON menggunakan [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Ini memungkinkan Anda untuk memproses Array sebagai tabel, mengabaikan nol, mengabaikan judul array, mengabaikan judul objek, mengonversi string menjadi angka atau tanggal, mengatur format tanggal dan angka, dan mengatur gaya judul. Semua opsi ini memungkinkan Anda untuk menyajikan data sesuai kebutuhan Anda. Cuplikan kode berikut menunjukkan cara menyetel opsi tata letak.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "set-layout-and-parse-json-to-image.cs" >}}
@@ -48,7 +48,7 @@ Saat mengurai JSON ke EMZ, Anda juga dapat menyetel opsi tata letak untuk JSON m
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Parsing Format JSON ke EMZ dengan Watermark" %}}
-Menggunakan API, Anda juga dapat mengonversi JSON ke EMZ dengan tanda air di dokumen EMZ Anda. Untuk menambahkan tanda air, pertama-tama Anda dapat merender dokumen JSON Anda ke JPEG dan menambahkan tanda air di dalamnya. Untuk mendemonstrasikan operasi, Anda dapat memuat gambar JPEG yang dikonversi, menambahkan transformasi menggunakan objek kelas Matrix dan menggambar string sebagai tanda air pada permukaan gambar menggunakan [Graphics](https://apireference.aspose.com/imaging/ net/aspose.imaging/graphics) class' [DrawString](https://apireference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring). Setelah menambahkan tanda air ke dalamnya, Anda dapat menyimpan JPEG sebagai format EMZ. Di bawah ini adalah contoh kode yang menunjukkan cara menambahkan tanda air diagonal ke dokumen Anda. 
+Menggunakan API, Anda juga dapat mengonversi JSON ke EMZ dengan tanda air di dokumen EMZ Anda. Untuk menambahkan tanda air, pertama-tama Anda dapat merender dokumen JSON Anda ke JPEG dan menambahkan tanda air di dalamnya. Untuk mendemonstrasikan operasi, Anda dapat memuat gambar JPEG yang dikonversi, menambahkan transformasi menggunakan objek kelas Matrix dan menggambar string sebagai tanda air pada permukaan gambar menggunakan [Graphics](https://reference.aspose.com/imaging/ net/aspose.imaging/graphics) class' [DrawString](https://reference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring). Setelah menambahkan tanda air ke dalamnya, Anda dapat menyimpan JPEG sebagai format EMZ. Di bawah ini adalah contoh kode yang menunjukkan cara menambahkan tanda air diagonal ke dokumen Anda. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}

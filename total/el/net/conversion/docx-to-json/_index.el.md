@@ -18,10 +18,10 @@ otherformats: FODS XLTX XLSM XLS XLT XLSB ODS CSV TSV XLTM EXCEL SXC XLAM DIF
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Μετατροπή DOCX σε μορφή JSON μέσω C#" %}}
-1. Ανοίξτε το αρχείο DOCX χρησιμοποιώντας την τάξη [Document](https://apireference.aspose.com/words/net/aspose.words/Document)
-2. Μετατρέψτε το DOCX σε HTML χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4)
-3. Φορτώστε το έγγραφο HTML χρησιμοποιώντας την τάξη [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Αποθηκεύστε το έγγραφο σε μορφή JSON χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+1. Ανοίξτε το αρχείο DOCX χρησιμοποιώντας την τάξη [Document](https://reference.aspose.com/words/net/aspose.words/Document)
+2. Μετατρέψτε το DOCX σε HTML χρησιμοποιώντας τη μέθοδο [Save](https://reference.aspose.com/words/net/aspose.words.Document/save/methods/4)
+3. Φορτώστε το έγγραφο HTML χρησιμοποιώντας την τάξη [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Αποθηκεύστε το έγγραφο σε μορφή JSON χρησιμοποιώντας τη μέθοδο [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}

@@ -18,10 +18,10 @@ You can convert JSON to ODP within any .NET, C#, ASP.NET and VB.NET application 
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convert JSON Format to ODP via C#" %}}
-1. Create a new [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) object and read valid JSON data from file
-2. Import JSON file to worksheet using [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) class and [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) it as PPTX 
-3. Load PPTX document by using [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) class 
-4. Save the document to ODP format using [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method
+1. Create a new [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) object and read valid JSON data from file
+2. Import JSON file to worksheet using [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) class and [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) it as PPTX 
+3. Load PPTX document by using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class 
+4. Save the document to ODP format using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
@@ -36,14 +36,14 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Set Layout and Convert JSON Format to ODP via C#" %}}
-While parsing JSON to ODP, you can also set layout options for your JSON format using [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). It allows you to process array as a table, ignore nulls, ignore array title, ignore object title, convert string to number or date, set date and number format, and set title style. All of these options allow you to present your data as per your needs. The following code snippet shows you how to set the layout options. 
+While parsing JSON to ODP, you can also set layout options for your JSON format using [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). It allows you to process array as a table, ignore nulls, ignore array title, ignore object title, convert string to number or date, set date and number format, and set title style. All of these options allow you to present your data as per your needs. The following code snippet shows you how to set the layout options. 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "set-layout-and-parse-json-to-powerpoint.cs" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert JSON Format to ODP with Watermark" %}}
-Using the API, you can also convert JSON to ODP with watermark. In order to add a watermark to your ODP document, you can first parse JSON to PPTX and add a watermark to it. In order to add a watermark, load the newly created PPTX file using the [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) class, select the master presentation, add shape type using AddAutoShape, and add watermark text using AddTextFrame. After adding the watermark, you can save the document to ODP.
+Using the API, you can also convert JSON to ODP with watermark. In order to add a watermark to your ODP document, you can first parse JSON to PPTX and add a watermark to it. In order to add a watermark, load the newly created PPTX file using the [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class, select the master presentation, add shape type using AddAutoShape, and add watermark text using AddTextFrame. After adding the watermark, you can save the document to ODP.
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}
 {{% /blocks/products/pf/feature-page-code  %}}

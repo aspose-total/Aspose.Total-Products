@@ -26,8 +26,8 @@ Total API, yalnızca Microsoft Word biçimlerinin karşılıklı dönüştürül
 
 
 {{% blocks/products/pf/feature-page-section  h2="PDF'yi Görüntülere Dönüştür" %}}
-API, PDF'yi Görsellere, Powerpoint'e, Excel'e ve diğer biçimlere dönüştürmeyi destekler. PDF'den Görüntüye dönüştürme için, JPG görüntüsünü hedef dosya olarak düşünelim. İşlem, PDF dosyasını Document sınıfını kullanarak yükleyin ve [JpegDevice class](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) nesnesini başlatın ve [Process](https) aracılığıyla PDF'yi JPEG'e dönüştürün ://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) yöntemi
-[Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) sınıfını kullanarak JPEG dosyasını yükleyin ve son olarak Save yöntemini çağırın.
+API, PDF'yi Görsellere, Powerpoint'e, Excel'e ve diğer biçimlere dönüştürmeyi destekler. PDF'den Görüntüye dönüştürme için, JPG görüntüsünü hedef dosya olarak düşünelim. İşlem, PDF dosyasını Document sınıfını kullanarak yükleyin ve [JpegDevice class](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) nesnesini başlatın ve [Process](https) aracılığıyla PDF'yi JPEG'e dönüştürün ://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) yöntemi
+[Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) sınıfını kullanarak JPEG dosyasını yükleyin ve son olarak Save yöntemini çağırın.
 
 {{% blocks/products/pf/feature-page-code h3="C# - PDF'den Görüntüye Dönüştürme" %}}
 
@@ -41,7 +41,7 @@ API, PDF'yi Görsellere, Powerpoint'e, Excel'e ve diğer biçimlere dönüştür
 
 {{% blocks/products/pf/feature-page-section  h2="Excel'i Word ve PowerPoint'e Dönüştürün" %}}
 
-Microsoft Excel formatlarını Word ve PowerPoint dahil olmak üzere farklı dosyalara dönüştürmek için, ana Aspose.Total for .NET API'sini içeren ilgili alt API'ler. Excel dosyalarını Word belgesine dönüştürme işlemi, [Çalışma Kitabı](https://apireference.aspose.com/cells/net/aspose.cells/workbook) sınıfını kullanarak EXCEL dosyasını yükleyin ve önce EXCEL'i PDF'ye dönüştürün ve SaveFormat'ı Otomatik olarak ayarlayın. Sonra dönüştürülen PDF dosyasını Document sınıfını kullanarak yükleyin ve Save yöntemini çağırın ve Doc, Docx'i SaveFormat olarak ayarlayın. Kod ayrıca Microsoft **Excel'den Powerpoint'e** dönüştürme için de listelenmiştir.
+Microsoft Excel formatlarını Word ve PowerPoint dahil olmak üzere farklı dosyalara dönüştürmek için, ana Aspose.Total for .NET API'sini içeren ilgili alt API'ler. Excel dosyalarını Word belgesine dönüştürme işlemi, [Çalışma Kitabı](https://reference.aspose.com/cells/net/aspose.cells/workbook) sınıfını kullanarak EXCEL dosyasını yükleyin ve önce EXCEL'i PDF'ye dönüştürün ve SaveFormat'ı Otomatik olarak ayarlayın. Sonra dönüştürülen PDF dosyasını Document sınıfını kullanarak yükleyin ve Save yöntemini çağırın ve Doc, Docx'i SaveFormat olarak ayarlayın. Kod ayrıca Microsoft **Excel'den Powerpoint'e** dönüştürme için de listelenmiştir.
 
 {{% blocks/products/pf/feature-page-code h3="C# - JSON'dan Excel'e Dönüştürme" %}}
 

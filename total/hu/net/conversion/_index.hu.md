@@ -26,8 +26,8 @@ A Total API nem csak a Microsoft Word formátumok interkonverzióját támogatja
 
 
 {{% blocks/products/pf/feature-page-section  h2="PDF konvertálása képekké" %}}
-Az API támogatja a PDF konvertálását Images, Powerpoint, Excel és más formátumokká. A PDF-kép konvertáláshoz tekintsük a JPG-képet célfájlnak. A folyamat a következő: töltsön be PDF-fájlt a Document osztály segítségével, és inicializálja a [JpegDevice class](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) objektumot, majd a PDF-et JPEG formátumba rendereli a [Process](https) segítségével. ://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) módszer
-Töltse be a JPEG-fájlt az [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) osztály használatával, és végül hívja meg a Mentés metódust.
+Az API támogatja a PDF konvertálását Images, Powerpoint, Excel és más formátumokká. A PDF-kép konvertáláshoz tekintsük a JPG-képet célfájlnak. A folyamat a következő: töltsön be PDF-fájlt a Document osztály segítségével, és inicializálja a [JpegDevice class](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) objektumot, majd a PDF-et JPEG formátumba rendereli a [Process](https) segítségével. ://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) módszer
+Töltse be a JPEG-fájlt az [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) osztály használatával, és végül hívja meg a Mentés metódust.
 
 {{% blocks/products/pf/feature-page-code h3="C# - PDF konvertálás képpé" %}}
 
@@ -41,7 +41,7 @@ Töltse be a JPEG-fájlt az [Image](https://apireference.aspose.com/imaging/net/
 
 {{% blocks/products/pf/feature-page-section  h2="Az Excel konvertálása Word és PowerPoint formátumba" %}}
 
-A Microsoft Excel formátumok különböző fájlokká konvertálásához, beleértve a Word és a PowerPoint, a fő Aspose.Total .NET API-hoz kapcsolódó al API-kat. Az Excel-fájlok Word-dokumentummá konvertálásának folyamata, töltse be az EXCEL-fájlt a [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) osztály segítségével, majd először konvertálja az EXCEL-t PDF-be, majd állítsa a SaveFormat-ot Auto-ra. Ezután töltse be a konvertált PDF fájlt a Document class segítségével, és hívja meg a Mentés metódust, és állítsa be a Doc, Docx fájlt SaveFormatként. A kód a Microsoft **Excel–Powerpoint** konvertálásához is szerepel.
+A Microsoft Excel formátumok különböző fájlokká konvertálásához, beleértve a Word és a PowerPoint, a fő Aspose.Total .NET API-hoz kapcsolódó al API-kat. Az Excel-fájlok Word-dokumentummá konvertálásának folyamata, töltse be az EXCEL-fájlt a [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) osztály segítségével, majd először konvertálja az EXCEL-t PDF-be, majd állítsa a SaveFormat-ot Auto-ra. Ezután töltse be a konvertált PDF fájlt a Document class segítségével, és hívja meg a Mentés metódust, és állítsa be a Doc, Docx fájlt SaveFormatként. A kód a Microsoft **Excel–Powerpoint** konvertálásához is szerepel.
 
 {{% blocks/products/pf/feature-page-code h3="C# – JSON konvertálása Excelbe" %}}
 

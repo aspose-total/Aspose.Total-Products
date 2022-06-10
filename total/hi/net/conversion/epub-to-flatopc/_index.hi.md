@@ -18,10 +18,10 @@ otherformats: DOT ODT PS MHTML OTT PCL MARKDOWN DOTX RTF FLATOPC XAMLFLOW WORDML
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="सी # एपीआई सीजीएम को डीओसीएम में कनवर्ट करने के लिए" %}}
-1. [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) वर्ग का उपयोग करके सीजीएम फ़ाइल खोलें
-2. [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) पद्धति का उपयोग करके EPUB को Doc में बदलें
-3. Aspose.Words के [Document](https://apireference.aspose.com/words/net/aspose.words/document) वर्ग का उपयोग करके दस्तावेज़ फ़ाइल लोड करें
-4. [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) विधि का उपयोग करके दस्तावेज़ को FLATOPC प्रारूप में सहेजें और Flatopc को SaveFormat के रूप में सेट करें
+1. [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) वर्ग का उपयोग करके सीजीएम फ़ाइल खोलें
+2. [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) पद्धति का उपयोग करके EPUB को Doc में बदलें
+3. Aspose.Words के [Document](https://reference.aspose.com/words/net/aspose.words/document) वर्ग का उपयोग करके दस्तावेज़ फ़ाइल लोड करें
+4. [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) विधि का उपयोग करके दस्तावेज़ को FLATOPC प्रारूप में सहेजें और Flatopc को SaveFormat के रूप में सेट करें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
@@ -47,7 +47,7 @@ outputDocument.Save("output.flatopc", SaveFormat.FlatOpc);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2=".NET के माध्यम से ओनर पासवर्ड का उपयोग करके सीजीएम फ़ाइल को डिक्रिप्ट करें" %}}
-EPUB को FLATOPC में बदलने से पहले, यदि आप अपने दस्तावेज़ को डिक्रिप्ट करना चाहते हैं तो आप इसे API का उपयोग करके कर सकते हैं। पीडीएफ फाइल को डिक्रिप्ट करने के लिए, आपको पहले एक [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) ऑब्जेक्ट बनाना होगा और मालिक के पासवर्ड का उपयोग करके सीजीएम खोलना होगा। उसके बाद, आपको दस्तावेज़ ऑब्जेक्ट की [Decrypt](https://apireference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) विधि को कॉल करने की आवश्यकता है। अंत में, दस्तावेज़ ऑब्जेक्ट की सहेजें विधि का उपयोग करके अद्यतन फ़ाइल को सहेजें।  
+EPUB को FLATOPC में बदलने से पहले, यदि आप अपने दस्तावेज़ को डिक्रिप्ट करना चाहते हैं तो आप इसे API का उपयोग करके कर सकते हैं। पीडीएफ फाइल को डिक्रिप्ट करने के लिए, आपको पहले एक [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) ऑब्जेक्ट बनाना होगा और मालिक के पासवर्ड का उपयोग करके सीजीएम खोलना होगा। उसके बाद, आपको दस्तावेज़ ऑब्जेक्ट की [Decrypt](https://reference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) विधि को कॉल करने की आवश्यकता है। अंत में, दस्तावेज़ ऑब्जेक्ट की सहेजें विधि का उपयोग करके अद्यतन फ़ाइल को सहेजें।  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -63,7 +63,7 @@ document.Save("Decrypt_out.doc");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="केवल पढ़ने के लिए FLATOPC बनाएं- .NET के माध्यम से फ़ाइल करें" %}}
-अपने FLATOPC को संपादन से बचाने के लिए और अन्य लोगों को अपने दस्तावेज़ में संवेदनशील और गोपनीय जानकारी को संपादित करने से रोकने के लिए, आप API का उपयोग करके दस्तावेज़ की सुरक्षा भी सेट कर सकते हैं। आप किसी दस्तावेज़ को संपादित करने की क्षमता को सीमित कर सकते हैं और इसके साथ केवल कुछ क्रियाओं की अनुमति दे सकते हैं। यह [Aspose.Words for .NET](https://products.aspose.com/words/net/) API का उपयोग करके किया जा सकता है। यह आपको [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype) एन्यूमरेशन पैरामीटर का उपयोग करके सामग्री को प्रतिबंधित करने के तरीके को नियंत्रित करने में सक्षम बनाता है। आप कोड की निम्नलिखित पंक्तियों का उपयोग करके अपने दस्तावेज़ को केवल-पढ़ने के लिए सेट कर सकते हैं। 
+अपने FLATOPC को संपादन से बचाने के लिए और अन्य लोगों को अपने दस्तावेज़ में संवेदनशील और गोपनीय जानकारी को संपादित करने से रोकने के लिए, आप API का उपयोग करके दस्तावेज़ की सुरक्षा भी सेट कर सकते हैं। आप किसी दस्तावेज़ को संपादित करने की क्षमता को सीमित कर सकते हैं और इसके साथ केवल कुछ क्रियाओं की अनुमति दे सकते हैं। यह [Aspose.Words for .NET](https://products.aspose.com/words/net/) API का उपयोग करके किया जा सकता है। यह आपको [ProtectionType](https://reference.aspose.com/words/net/aspose.words/protectiontype) एन्यूमरेशन पैरामीटर का उपयोग करके सामग्री को प्रतिबंधित करने के तरीके को नियंत्रित करने में सक्षम बनाता है। आप कोड की निम्नलिखित पंक्तियों का उपयोग करके अपने दस्तावेज़ को केवल-पढ़ने के लिए सेट कर सकते हैं। 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

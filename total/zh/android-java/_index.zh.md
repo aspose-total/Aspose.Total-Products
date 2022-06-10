@@ -159,7 +159,7 @@ Aspose.Total 是一个功能强大的套件，可以高速、高质量地处理�
 {{< blocks/products/pf/slr-tab tabTitle="学习资源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文档" href="https://docs.aspose.com/total/androidjava/" >}} 
 {{< blocks/products/pf/slr-element name="源代码" href="http://aspose.github.io/" >}} 
-{{< blocks/products/pf/slr-element name="Aspose API 参考" href="https://apireference.aspose.com/" >}} 
+{{< blocks/products/pf/slr-element name="Aspose API 参考" href="https://reference.aspose.com/" >}} 
 {{< blocks/products/pf/slr-element name="教程视频" href="https://www.youtube.com/user/asposevideo" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 

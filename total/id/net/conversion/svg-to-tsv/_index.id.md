@@ -18,10 +18,10 @@ Menggunakan [Aspose.Total for .NET](https://products.aspose.com/total/net/) Anda
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API untuk Mengonversi SVG ke TSV" %}}
-1. Buka file SVG menggunakan kelas [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
-2. Konversi SVG ke XLSX dengan menggunakan metode [Simpan](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
-3. Muat dokumen XLSX dengan menggunakan kelas [Buku Kerja](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Simpan dokumen ke format TSV menggunakan metode [Simpan](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) dan setel `Tsv` sebagai SaveFormat
+1. Buka file SVG menggunakan kelas [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
+2. Konversi SVG ke XLSX dengan menggunakan metode [Simpan](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. Muat dokumen XLSX dengan menggunakan kelas [Buku Kerja](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Simpan dokumen ke format TSV menggunakan metode [Simpan](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) dan setel `Tsv` sebagai SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
@@ -39,7 +39,7 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Konversi SVG Terproteksi ke TSV melalui C#" %}}
-Jika dokumen SVG Anda dilindungi kata sandi, Anda tidak dapat mengubahnya menjadi TSV tanpa kata sandi. Dengan menggunakan API, Anda dapat membuka dokumen yang dilindungi terlebih dahulu menggunakan kata sandi yang valid dan mengonversinya setelahnya. Untuk membuka file terenkripsi, Anda dapat menginisialisasi instance baru kelas [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) dan meneruskan nama file dan sandi sebagai argumen.  
+Jika dokumen SVG Anda dilindungi kata sandi, Anda tidak dapat mengubahnya menjadi TSV tanpa kata sandi. Dengan menggunakan API, Anda dapat membuka dokumen yang dilindungi terlebih dahulu menggunakan kata sandi yang valid dan mengonversinya setelahnya. Untuk membuka file terenkripsi, Anda dapat menginisialisasi instance baru kelas [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) dan meneruskan nama file dan sandi sebagai argumen.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-password-protected-pdf-to-excel.cs" >}}

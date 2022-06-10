@@ -18,10 +18,10 @@ otherformats: ODS XLTM XLAM FODS DIF XLS XLSM TSV XLTX EXCEL XLSB SXC CSV XLT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C#을 통해 DOCM를 JSON 형식으로 변환" %}}
-1. [Document](https://apireference.aspose.com/words/net/aspose.words/document 클래스를 사용하여 DOCM 파일을 엽니다.
-2. [저장](https://apireference.aspose.com/words/net/aspose.words.documentsave/methods/4) 메서드를 사용하여 DOCM를 HTML로 변환
-3. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) 클래스를 사용하여 HTML 문서 로드
-4. [저장](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 메서드를 사용하여 문서를 JSON 형식으로 저장합니다.
+1. [Document](https://reference.aspose.com/words/net/aspose.words/document 클래스를 사용하여 DOCM 파일을 엽니다.
+2. [저장](https://reference.aspose.com/words/net/aspose.words.documentsave/methods/4) 메서드를 사용하여 DOCM를 HTML로 변환
+3. [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 클래스를 사용하여 HTML 문서 로드
+4. [저장](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 메서드를 사용하여 문서를 JSON 형식으로 저장합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}

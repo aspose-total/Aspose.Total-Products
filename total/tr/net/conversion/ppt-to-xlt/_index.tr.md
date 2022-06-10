@@ -18,10 +18,10 @@ otherformats: XLS XLAM SXC XLT XLTM ODS XLSM FODS TSV XLTX DIF MHTML EXCEL XLSX 
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="PPT'u C# ile XLT'ye Dönüştürme" %}}
-1. [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) sınıfını kullanarak PPT dosyasını açın
-2. [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) yöntemini kullanarak PPT'u HTML olarak dışa aktarın
-3. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) sınıfını kullanarak HTML belgesini yükleyin
-4. [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) yöntemini kullanarak belgeyi XLT'ye kaydedin
+1. [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) sınıfını kullanarak PPT dosyasını açın
+2. [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) yöntemini kullanarak PPT'u HTML olarak dışa aktarın
+3. [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) sınıfını kullanarak HTML belgesini yükleyin
+4. [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) yöntemini kullanarak belgeyi XLT'ye kaydedin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Dönüşüm Gereksinimleri" %}}

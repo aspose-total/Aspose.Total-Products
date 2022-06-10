@@ -18,10 +18,10 @@ Si es un desarrollador de .NET que busca agregar funciones de conversión de EML
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API de C# para convertir correo electrónico a PNG" %}}
-1. Abra el archivo EMLX usando la clase [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage)
-2. Convierta EMLX a HTML utilizando el método [Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
-3. Cargue HTML usando la clase [Documento](https://apireference.aspose.com/words/net/aspose.words/document)
-4. Guarde el documento en formato PNG usando el método [Guardar](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) y configure Png como SaveFormat
+1. Abra el archivo EMLX usando la clase [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage)
+2. Convierta EMLX a HTML utilizando el método [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
+3. Cargue HTML usando la clase [Documento](https://reference.aspose.com/words/net/aspose.words/document)
+4. Guarde el documento en formato PNG usando el método [Guardar](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) y configure Png como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
@@ -47,7 +47,7 @@ document.Save("output.png", SaveFormat.Png);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analizar archivo de correo electrónico a través de .NET" %}}Aspose.Email for .NET
-Antes de convertir EMLX a PNG, si desea asegurarse de que está convirtiendo el correo electrónico correcto, puede cargar el documento EMLX, analizarlo y ver la propiedad deseada. Mediante el uso de la clase [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) de [Aspose.Email for .NET](https://products.aspose.com/email /net/) API, puede obtener información sobre el remitente y los destinatarios. Por ejemplo, puede verificar el correo electrónico de un remitente específico para la conversión usando la propiedad [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
+Antes de convertir EMLX a PNG, si desea asegurarse de que está convirtiendo el correo electrónico correcto, puede cargar el documento EMLX, analizarlo y ver la propiedad deseada. Mediante el uso de la clase [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) de [Aspose.Email for .NET](https://products.aspose.com/email /net/) API, puede obtener información sobre el remitente y los destinatarios. Por ejemplo, puede verificar el correo electrónico de un remitente específico para la conversión usando la propiedad [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -63,7 +63,7 @@ if(outlookMessageFile.SenderName == "John"){
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Restringir la edición de documentos PNG a través de .NET" %}}
-Al guardar el documento de EMLX a PNG, es posible que deba proteger su documento de salida. A veces, es posible que deba limitar la capacidad de editar un documento y permitir solo ciertas acciones con él. Esto puede ser útil para evitar que otras personas editen información sensible y confidencial en su documento. [Aspose.Words for .NET](https://products.aspose.com/words/net/) API, le permite controlar la forma en que restringe el contenido usando el [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype) parámetro de enumeración. Puede configurar su documento para que sea de solo lectura usando las siguientes líneas de código. 
+Al guardar el documento de EMLX a PNG, es posible que deba proteger su documento de salida. A veces, es posible que deba limitar la capacidad de editar un documento y permitir solo ciertas acciones con él. Esto puede ser útil para evitar que otras personas editen información sensible y confidencial en su documento. [Aspose.Words for .NET](https://products.aspose.com/words/net/) API, le permite controlar la forma en que restringe el contenido usando el [ProtectionType](https://reference.aspose.com/words/net/aspose.words/protectiontype) parámetro de enumeración. Puede configurar su documento para que sea de solo lectura usando las siguientes líneas de código. 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

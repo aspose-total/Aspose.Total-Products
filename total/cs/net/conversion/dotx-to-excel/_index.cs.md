@@ -18,10 +18,10 @@ Pomocí [Aspose.Total for .NET](https://products.aspose.com/total/net/) můžete
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API pro převod DOTX do EXCEL" %}}
-1. Otevřete soubor DOTX pomocí třídy [Document](https://apireference.aspose.com/words/net/aspose.words/Document)
-2. Převeďte DOTX do HTML pomocí metody [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4)
-3. Načtěte dokument HTML pomocí třídy [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Uložte dokument do formátu EXCEL pomocí metody [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) a nastavte „EXCEL“ jako SaveFormat
+1. Otevřete soubor DOTX pomocí třídy [Document](https://reference.aspose.com/words/net/aspose.words/Document)
+2. Převeďte DOTX do HTML pomocí metody [Save](https://reference.aspose.com/words/net/aspose.words.Document/save/methods/4)
+3. Načtěte dokument HTML pomocí třídy [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Uložte dokument do formátu EXCEL pomocí metody [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) a nastavte „EXCEL“ jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
@@ -39,7 +39,7 @@ Případně si stáhněte offline instalační program MSI nebo knihovny DLL v s
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Načíst dokument DOTX ze streamu přes C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) vám také umožňuje načíst dokument DOTX prostřednictvím streamu. Chcete-li otevřít dokument ze streamu, jednoduše předejte objekt streamu, který obsahuje dokument, do konstruktoru [Document](https://apireference.aspose.com/words/net/aspose.words/Document). Následující příklad kódu ukazuje, jak otevřít dokument ze streamu:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) vám také umožňuje načíst dokument DOTX prostřednictvím streamu. Chcete-li otevřít dokument ze streamu, jednoduše předejte objekt streamu, který obsahuje dokument, do konstruktoru [Document](https://reference.aspose.com/words/net/aspose.words/Document). Následující příklad kódu ukazuje, jak otevřít dokument ze streamu:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
@@ -48,7 +48,7 @@ Případně si stáhněte offline instalační program MSI nebo knihovny DLL v s
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Přidejte uživatelské vlastnosti do souboru EXCEL přes C#" %}}
-Při převodu DOTX na EXCEL vám [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) umožňuje přidávat do dokumentů EXCEL vlastní vlastnosti. Chcete-li přidat vlastní vlastnost, můžete použít metodu [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index) pro [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection) třídy. Metoda Add přidá vlastnost do souboru aplikace Excel a vrátí odkaz na novou vlastnost dokumentu jako [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties/Documentproperty) objekt. 
+Při převodu DOTX na EXCEL vám [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) umožňuje přidávat do dokumentů EXCEL vlastní vlastnosti. Chcete-li přidat vlastní vlastnost, můžete použít metodu [Add](https://reference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index) pro [CustomDocumentPropertyCollection](https://reference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection) třídy. Metoda Add přidá vlastnost do souboru aplikace Excel a vrátí odkaz na novou vlastnost dokumentu jako [Aspose.Cells.Properties.DocumentProperty](https://reference.aspose.com/cells/net/aspose.cells.properties/Documentproperty) objekt. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}

@@ -18,10 +18,10 @@ Az [Aspose.Total for .NET](https://products.aspose.com/total/net/) használatáv
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertálja az POT-t JSON formátumba a C# segítségével" %}}
-1. Nyissa meg az POT-fájlt a [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) osztály használatával
-2. Alakítsa át az POT-t HTML-vé a [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) módszerrel
-3. Töltsön be HTML-dokumentumot a [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) osztály használatával
-4. Mentse a dokumentumot JSON formátumba a [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) módszerrel
+1. Nyissa meg az POT-fájlt a [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) osztály használatával
+2. Alakítsa át az POT-t HTML-vé a [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) módszerrel
+3. Töltsön be HTML-dokumentumot a [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) osztály használatával
+4. Mentse a dokumentumot JSON formátumba a [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) módszerrel
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}

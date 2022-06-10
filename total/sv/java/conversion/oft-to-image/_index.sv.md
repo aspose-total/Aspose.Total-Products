@@ -16,10 +16,10 @@ E-postkonvertering är en kraftfull funktion som Java-utvecklare kan integrera i
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hur man konverterar OFT till IMAGE" %}}
-1. Öppna OFT-filen med klassen [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)
-2. Konvertera OFT till HTML genom att använda [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) metod
-3. Ladda HTML genom att använda klassen [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Spara dokumentet i IMAGE-format med [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) och ställ in IMAGE som SaveFormat
+1. Öppna OFT-filen med klassen [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Konvertera OFT till HTML genom att använda [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) metod
+3. Ladda HTML genom att använda klassen [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. Spara dokumentet i IMAGE-format med [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) och ställ in IMAGE som SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
 Du måste använda Aspose.Total för Java direkt från ett [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) baserat projekt och inkludera bibliotek i din pom.xml.

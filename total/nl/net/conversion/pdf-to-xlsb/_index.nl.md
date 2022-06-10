@@ -18,10 +18,10 @@ Met [Aspose.Total for .NET](https://products.aspose.com/total/net/) kunt u eenvo
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API om PDF naar XLSB te converteren" %}}
-1. Open het PDF-bestand met de klasse [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
-2. Converteer PDF naar XLSX met behulp van de methode [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
-3. Laad het XLSX-document met behulp van de [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) class
-4. Sla het document op in XLSB-indeling met de methode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) en stel `Xlsb` in als SaveFormat
+1. Open het PDF-bestand met de klasse [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
+2. Converteer PDF naar XLSX met behulp van de methode [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. Laad het XLSX-document met behulp van de [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class
+4. Sla het document op in XLSB-indeling met de methode [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) en stel `Xlsb` in als SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
@@ -39,7 +39,7 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Converteer beveiligde PDF naar XLSB via C#" %}}
-Als uw PDF-document met een wachtwoord is beveiligd, kunt u het niet converteren naar XLSB zonder het wachtwoord. Met behulp van de API kunt u eerst het beveiligde document openen met een geldig wachtwoord en het daarna converteren. Om het versleutelde bestand te openen, kunt u een nieuwe instantie van de klasse [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) initialiseren en de bestandsnaam en het wachtwoord als argumenten doorgeven.  
+Als uw PDF-document met een wachtwoord is beveiligd, kunt u het niet converteren naar XLSB zonder het wachtwoord. Met behulp van de API kunt u eerst het beveiligde document openen met een geldig wachtwoord en het daarna converteren. Om het versleutelde bestand te openen, kunt u een nieuwe instantie van de klasse [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) initialiseren en de bestandsnaam en het wachtwoord als argumenten doorgeven.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-password-protected-pdf-to-excel.cs" >}}

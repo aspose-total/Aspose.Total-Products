@@ -18,10 +18,10 @@ Usando [Aspose.Total for .NET](https://products.aspose.com/total/net/) você pod
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converter arquivo MD para DICOM via .NET" %}}
-1. Abra o arquivo MD usando a classe [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
-2. Inicialize o objeto de classe [JpegDevice](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) e renderize MD para JPEG usando [Process](https://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) método
-3. Carregue o arquivo JPEG usando a classe [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image)
-4. Salve o documento no formato DICOM usando o método [Salvar](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
+1. Abra o arquivo MD usando a classe [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
+2. Inicialize o objeto de classe [JpegDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) e renderize MD para JPEG usando [Process](https://reference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) método
+3. Carregue o arquivo JPEG usando a classe [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image)
+4. Salve o documento no formato DICOM usando o método [Salvar](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
@@ -39,8 +39,8 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Converter arquivo MD para DICOM em um único arquivo via C#" %}}
-Usando a API, você também pode converter o arquivo MD para DICOM em um único arquivo de imagem. Para converter todas as páginas, você pode primeiro renderizar seu documento MD para um arquivo TIFF e depois exportar o arquivo TIFF para DICOM. Você pode abrir o arquivo de entrada usando a classe [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) e criar objetos de dispositivo Resolution, TiffSettings e TIFF. Você pode obter uma única imagem TIFF usando o método [Process](https://apireference.aspose.com/pdf/net/aspose.pdf.devices.documentdevice/process/methods/3) de [TiffDevice](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice). Finalmente, você pode carregar o arquivo TIFF usando a classe [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image)
-e salve-o no formato DICOM usando o método [Save](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4).  
+Usando a API, você também pode converter o arquivo MD para DICOM em um único arquivo de imagem. Para converter todas as páginas, você pode primeiro renderizar seu documento MD para um arquivo TIFF e depois exportar o arquivo TIFF para DICOM. Você pode abrir o arquivo de entrada usando a classe [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) e criar objetos de dispositivo Resolution, TiffSettings e TIFF. Você pode obter uma única imagem TIFF usando o método [Process](https://reference.aspose.com/pdf/net/aspose.pdf.devices.documentdevice/process/methods/3) de [TiffDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice). Finalmente, você pode carregar o arquivo TIFF usando a classe [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image)
+e salve-o no formato DICOM usando o método [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4).  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-single-file.cs" >}}
@@ -49,7 +49,7 @@ e salve-o no formato DICOM usando o método [Save](https://apireference.aspose.c
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Converta e gire o arquivo MD para DICOM via C#" %}}
-Usando a API, você também pode girar a imagem DICOM de saída conforme suas necessidades. O método Image.RotateFlip pode ser usado para girar a imagem em 90/180/270 graus e virar a imagem horizontalmente ou verticalmente. Você pode especificar o tipo de rotação e inversão para aplicar à imagem. Para girar e inverter a imagem, você pode carregar a imagem JPEG convertida usando o método de fábrica exposto pela classe [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) e chamar a classe Image .RotateFlip enquanto especifica o [RotateFlipType](https://apireference.aspose.com/imaging/net/aspose.imaging/rotatefliptype) apropriado. 
+Usando a API, você também pode girar a imagem DICOM de saída conforme suas necessidades. O método Image.RotateFlip pode ser usado para girar a imagem em 90/180/270 graus e virar a imagem horizontalmente ou verticalmente. Você pode especificar o tipo de rotação e inversão para aplicar à imagem. Para girar e inverter a imagem, você pode carregar a imagem JPEG convertida usando o método de fábrica exposto pela classe [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) e chamar a classe Image .RotateFlip enquanto especifica o [RotateFlipType](https://reference.aspose.com/imaging/net/aspose.imaging/rotatefliptype) apropriado. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-and-rotate-pdf-to-image.cs" >}}

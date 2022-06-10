@@ -16,10 +16,10 @@ otherformats: DOCX PPTX POWERPOINT WORD
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как конвертировать CSV в DOC через Java API" %}}
-1. Откройте файл CSV с помощью класса [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).
+1. Откройте файл CSV с помощью класса [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
 2. Преобразуйте CSV в PDF и установите для SaveFormat значение AUTO.
-3. Загрузите преобразованный файл PDF с помощью класса [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document).
-4. Сохраните документ в формате DOC, используя [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) метод и установите Doc как SaveFormat
+3. Загрузите преобразованный файл PDF с помощью класса [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document).
+4. Сохраните документ в формате DOC, используя [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) метод и установите Doc как SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
 Вы должны использовать Aspose.Total для Java непосредственно из проекта на основе [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total). и включите библиотеки в свой pom.xml.

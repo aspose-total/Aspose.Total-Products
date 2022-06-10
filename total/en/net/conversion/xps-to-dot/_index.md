@@ -18,10 +18,10 @@ otherformats: WORDML PCL DOTX MARKDOWN PS XAMLFLOW ODT FLATOPC OTT DOCM RTF DOTM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API to Convert XPS to DOT" %}}
-1. Open XPS file using [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) class
-2. Convert XPS to Doc by using [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load Doc file by using [Document](https://apireference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
-4. Save the document to DOT format using [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Dot as SaveFormat
+1. Open XPS file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+2. Convert XPS to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
+3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
+4. Save the document to DOT format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Dot as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Format APIs" %}}
@@ -44,7 +44,7 @@ outputDocument.Save("output.dot", SaveFormat.Dot);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Decrypt XPS File using Owner Password via .NET" %}}
-Before converting XPS to DOT, if you want to decrypt your document you can do it by using the API. In order to decrypt the PDF file, you first need to create a [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) object and open the XPS using the owner’s password. After that, you need to call [Decrypt](https://apireference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) method of the Document object. Finally, save the updated file using Save method of the Document object. 
+Before converting XPS to DOT, if you want to decrypt your document you can do it by using the API. In order to decrypt the PDF file, you first need to create a [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) object and open the XPS using the owner’s password. After that, you need to call [Decrypt](https://reference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) method of the Document object. Finally, save the updated file using Save method of the Document object. 
 {{% blocks/products/pf/feature-page-code %}}
 ```cs// open document
 Document document = new Document("Decrypt.xps", "password");
@@ -57,7 +57,7 @@ document.Save("Decrypt_out.doc");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Create ReadOnly DOT- File via .NET" %}}
-In order to protect your DOT from editing and to prevent other people from editing sensitive and confidential information in your document, you can also set the protection of the document using the API. You can limit the ability to edit a document and only allow certain actions with it. This can be done using [Aspose.Words for .NET](https://products.aspose.com/words/net/) API. It enables you to control the way you restrict the content using the [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype) enumeration parameter. You can set your document to read-only by using the following lines of code. 
+In order to protect your DOT from editing and to prevent other people from editing sensitive and confidential information in your document, you can also set the protection of the document using the API. You can limit the ability to edit a document and only allow certain actions with it. This can be done using [Aspose.Words for .NET](https://products.aspose.com/words/net/) API. It enables you to control the way you restrict the content using the [ProtectionType](https://reference.aspose.com/words/net/aspose.words/protectiontype) enumeration parameter. You can set your document to read-only by using the following lines of code. 
 {{% blocks/products/pf/feature-page-code %}}
 ```cs// load Doc with an instance of Document
 Document document = new Document("input.doc");

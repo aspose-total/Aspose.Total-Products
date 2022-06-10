@@ -18,10 +18,10 @@ otherformats: EXCEL DIF TSV XLT SXC TXT XLTX XLTM XLAM XLSM XLSB ODS
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="MD을 XLAM로 변환하는 .NET API" %}}
-1. [문서](https://apireference.aspose.com/pdf/net/aspose.pdf/document) 클래스를 사용하여 MD 파일을 엽니다.
-2. [저장](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) 방법을 사용하여 MD을 XLSX로 변환
-3. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) 클래스를 사용하여 XLSX 문서 로드
-4. [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 메서드를 사용하여 문서를 XLAM 형식으로 저장하고 'Xlam'를 SaveFormat으로 설정합니다.
+1. [문서](https://reference.aspose.com/pdf/net/aspose.pdf/document) 클래스를 사용하여 MD 파일을 엽니다.
+2. [저장](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) 방법을 사용하여 MD을 XLSX로 변환
+3. [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 클래스를 사용하여 XLSX 문서 로드
+4. [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 메서드를 사용하여 문서를 XLAM 형식으로 저장하고 'Xlam'를 SaveFormat으로 설정합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
@@ -39,7 +39,7 @@ otherformats: EXCEL DIF TSV XLT SXC TXT XLTX XLTM XLAM XLSM XLSB ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="C#을 통해 보호된 MD을 XLAM로 변환" %}}
-MD 문서가 비밀번호로 보호되어 있는 경우 비밀번호 없이 XLAM로 변환할 수 없습니다. API를 사용하면 먼저 유효한 암호를 사용하여 보호된 문서를 열고 그 후에 변환할 수 있습니다. 암호화된 파일을 열기 위해 [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) 클래스의 새 인스턴스를 초기화하고 파일 이름과 비밀번호를 인수로 전달할 수 있습니다.  
+MD 문서가 비밀번호로 보호되어 있는 경우 비밀번호 없이 XLAM로 변환할 수 없습니다. API를 사용하면 먼저 유효한 암호를 사용하여 보호된 문서를 열고 그 후에 변환할 수 있습니다. 암호화된 파일을 열기 위해 [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) 클래스의 새 인스턴스를 초기화하고 파일 이름과 비밀번호를 인수로 전달할 수 있습니다.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-password-protected-pdf-to-excel.cs" >}}

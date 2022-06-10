@@ -18,10 +18,10 @@ You can convert PDF to WORDML by using two simple steps. First you need to rende
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java API to Convert PDF to WORDML" %}}
-1. Open PDF file using [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Convert PDF to DOC by using [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method
-3. Load DOC file by using [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) class of Aspose.Words  
-4. Save the document to WORD_ML format using [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) method and set WORD_ML as SaveFormat
+1. Open PDF file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
+2. Convert PDF to DOC by using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method
+3. Load DOC file by using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class of Aspose.Words  
+4. Save the document to WORD_ML format using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) method and set WORD_ML as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Manipulation APIs" %}}
@@ -45,7 +45,7 @@ outputDocument.save("output.word_ml", SaveFormat.WORD_ML);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Open Password Protected PDF Document via Java" %}}
-While converting PDF to WORDML, even if your document is password protected, you can still open it using PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). In order to open the encrypted file, you need to create a [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) object and open the PDF using the owner’s password. 
+While converting PDF to WORDML, even if your document is password protected, you can still open it using PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). In order to open the encrypted file, you need to create a [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) object and open the PDF using the owner’s password. 
 {{% blocks/products/pf/feature-page-code %}}
 ```cs// open encrypted document
 Document document = new Document("input.pdf", "password");

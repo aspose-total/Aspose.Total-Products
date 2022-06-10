@@ -18,10 +18,10 @@ Al utilizar [Aspose.Total para .NET](https://products.aspose.com/total/net/), pu
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET para convertir DOCM a EXCEL" %}}
-1. Abra el archivo DOCM usando la clase [Documento](https://apireference.aspose.com/words/net/aspose.words/document
-2. Convierta DOCM a HTML usando el método [Guardar](https://apireference.aspose.com/words/net/aspose.words.documentsave/methods/4)
-3. Cargue el document HTML utilizando la clase [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Guarde el document en formato EXCEL usando el método [Guardar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) y configure `EXCEL` como SaveFormat
+1. Abra el archivo DOCM usando la clase [Documento](https://reference.aspose.com/words/net/aspose.words/document
+2. Convierta DOCM a HTML usando el método [Guardar](https://reference.aspose.com/words/net/aspose.words.documentsave/methods/4)
+3. Cargue el document HTML utilizando la clase [Libro de trabajo](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Guarde el document en formato EXCEL usando el método [Guardar](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) y configure `EXCEL` como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
@@ -39,7 +39,7 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Cargar document DOCM desde Stream a través de C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) también le permite cargar documents DOCM a través de la transmisión. Para abrir un ddocumentdesde una secuencia, simplemente pase un objeto de secuencia que contenga el dodocumentl constructor [Documento](https://apireference.aspose.com/words/net/aspose.words/docdocumentl siguiente ejemplo de código muestra cómo abrir un docudocumentde una secuencia:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) también le permite cargar documents DOCM a través de la transmisión. Para abrir un ddocumentdesde una secuencia, simplemente pase un objeto de secuencia que contenga el dodocumentl constructor [Documento](https://reference.aspose.com/words/net/aspose.words/docdocumentl siguiente ejemplo de código muestra cómo abrir un docudocumentde una secuencia:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
@@ -48,7 +48,7 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Agregue propiedades personalizadas en un archivo EXCEL a través de C#" %}}
-Al convertir DOCM a EXCEL, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) le permite agregar propiedades personalizadas en sus documents EXCEL. Para agregar una propiedad personalizada, puede usar el método [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/CustomDocumentPropertyCollection/methods/add/index) para la [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentPropertycollection) clase. El método Add agrega la propiedad al archivo de Excel y devuelve una referencia para la propiedad del nuevo docdocumentmo [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /propiedaddocudocumentjeto. 
+Al convertir DOCM a EXCEL, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) le permite agregar propiedades personalizadas en sus documents EXCEL. Para agregar una propiedad personalizada, puede usar el método [Add](https://reference.aspose.com/cells/net/aspose.cells.properties/CustomDocumentPropertyCollection/methods/add/index) para la [CustomDocumentPropertyCollection](https://reference.aspose.com/cells/net/aspose.cells.properties/customDocumentPropertycollection) clase. El método Add agrega la propiedad al archivo de Excel y devuelve una referencia para la propiedad del nuevo docdocumentmo [Aspose.Cells.Properties.DocumentProperty](https://reference.aspose.com/cells/net/aspose.cells.properties /propiedaddocudocumentjeto. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}

@@ -18,10 +18,10 @@ otherformats: XLAM XLS DIF CSV XLTX ODS TSV FODS XLSB XLT XLSX EXCEL XLSM SXC
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="通过 C# 将 DOT 转换为 JSON 格式" %}}
-1.使用[Document](https://apireference.aspose.com/words/net/aspose.words/Document)类打开DOT文件
-2. 使用 [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4) 方法将 DOT 转换为 HTML
-3. 使用 [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) 类加载 HTML 文档
-4. 使用 [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 方法将文档保存为 JSON 格式
+1.使用[Document](https://reference.aspose.com/words/net/aspose.words/Document)类打开DOT文件
+2. 使用 [Save](https://reference.aspose.com/words/net/aspose.words.Document/save/methods/4) 方法将 DOT 转换为 HTML
+3. 使用 [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 类加载 HTML 文档
+4. 使用 [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 方法将文档保存为 JSON 格式
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}

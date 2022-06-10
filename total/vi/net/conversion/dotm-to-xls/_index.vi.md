@@ -18,10 +18,10 @@ Bằng cách sử dụng [Aspose.Total for .NET](https://products.aspose.com/tot
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API để chuyển đổi DOTM sang XLS" %}}
-1. Mở tệp DOTM bằng lớp [Dotmument](https://apireference.aspose.com/words/net/aspose.words/dotmument)
-2. Chuyển đổi DOTM sang HTML bằng phương pháp [Save](https://apireference.aspose.com/words/net/aspose.words.dotmument/save/methods/4)
-3. Tải tài liệu HTML bằng cách sử dụng lớp [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Lưu tài liệu sang định dạng XLS bằng phương pháp [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) và đặt `XLS` làm SaveFormat
+1. Mở tệp DOTM bằng lớp [Dotmument](https://reference.aspose.com/words/net/aspose.words/dotmument)
+2. Chuyển đổi DOTM sang HTML bằng phương pháp [Save](https://reference.aspose.com/words/net/aspose.words.dotmument/save/methods/4)
+3. Tải tài liệu HTML bằng cách sử dụng lớp [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Lưu tài liệu sang định dạng XLS bằng phương pháp [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) và đặt `XLS` làm SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
@@ -39,7 +39,7 @@ Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp Z
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Tải tài liệu DOTM từ Luồng qua C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) cũng cho phép bạn tải tài liệu DOTM qua luồng. Để mở tài liệu từ luồng, chỉ cần chuyển đối tượng luồng có chứa tài liệu vào phương thức khởi tạo [Dotmument](https://apireference.aspose.com/words/net/aspose.words/dotmument). Ví dụ mã sau đây cho thấy cách mở một tài liệu từ một luồng:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) cũng cho phép bạn tải tài liệu DOTM qua luồng. Để mở tài liệu từ luồng, chỉ cần chuyển đối tượng luồng có chứa tài liệu vào phương thức khởi tạo [Dotmument](https://reference.aspose.com/words/net/aspose.words/dotmument). Ví dụ mã sau đây cho thấy cách mở một tài liệu từ một luồng:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
@@ -48,7 +48,7 @@ Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp Z
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Thêm thuộc tính tùy chỉnh trong tệp XLS qua C#" %}}
-Trong khi chuyển đổi DOTM sang XLS, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) cho phép bạn thêm các thuộc tính tùy chỉnh trong tài liệu XLS của mình. Để thêm thuộc tính tùy chỉnh, bạn có thể sử dụng phương thức [Thêm](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection/methods/add/index) cho phương thức [CustomDotmumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection) lớp. Phương thức Thêm sẽ thêm thuộc tính vào tệp Excel và trả về một tham chiếu cho thuộc tính tài liệu mới dưới dạng [Aspose.Cells.Properties.DotmumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties/dotmumentproperty) đối tượng. 
+Trong khi chuyển đổi DOTM sang XLS, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) cho phép bạn thêm các thuộc tính tùy chỉnh trong tài liệu XLS của mình. Để thêm thuộc tính tùy chỉnh, bạn có thể sử dụng phương thức [Thêm](https://reference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection/methods/add/index) cho phương thức [CustomDotmumentPropertyCollection](https://reference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection) lớp. Phương thức Thêm sẽ thêm thuộc tính vào tệp Excel và trả về một tham chiếu cho thuộc tính tài liệu mới dưới dạng [Aspose.Cells.Properties.DotmumentProperty](https://reference.aspose.com/cells/net/aspose.cells.properties/dotmumentproperty) đối tượng. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}

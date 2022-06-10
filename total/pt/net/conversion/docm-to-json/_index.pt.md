@@ -18,10 +18,10 @@ Usando [Aspose.Total for .NET](https://products.aspose.com/total/net/) você pod
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converter DOCM para formato JSON via C#" %}}
-1. Abra o arquivo DOCM usando a classe [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-2. Converta DOCM para HTML usando o método [Salvar](https://apireference.aspose.com/words/net/aspose.words.documentsave/methods/4)
-3. Carregue o document HTML usando a classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Salve o document no formato JSON usando o método [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+1. Abra o arquivo DOCM usando a classe [Document](https://reference.aspose.com/words/net/aspose.words/document)
+2. Converta DOCM para HTML usando o método [Salvar](https://reference.aspose.com/words/net/aspose.words.documentsave/methods/4)
+3. Carregue o document HTML usando a classe [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Salve o document no formato JSON usando o método [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}

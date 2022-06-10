@@ -16,10 +16,10 @@ Converter o formato PPS para JSON via [Aspose.Total for Java](https://products.a
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converter PPS para o formato JSON via Java" %}}
-1. Abra o arquivo PPS usando a classe [Apresentação](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Converta PPS em HTML usando [salvar](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) método
-3. Carregue o documento HTML usando a classe [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Salve o documento no formato JSON usando [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) método
+1. Abra o arquivo PPS usando a classe [Apresentação](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. Converta PPS em HTML usando [salvar](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) método
+3. Carregue o documento HTML usando a classe [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Salve o documento no formato JSON usando [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
 Você pode facilmente usar o Aspose.Total para Java diretamente de um projeto baseado em [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e inclua bibliotecas em seu pom.xml.

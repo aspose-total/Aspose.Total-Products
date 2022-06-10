@@ -18,10 +18,10 @@ Genom att använda [Aspose.Total för .NET](https://products.aspose.com/total/ne
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hur man konverterar POT till MARKDOWN via C#" %}}
-1. Öppna POT-filen med klassen [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-2. Exportera POT som HTML genom att använda metoden [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
-3. Ladda HTML-dokument genom att använda klassen [Arbetsbok](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Spara dokumentet till MARKDOWN med metoden [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+1. Öppna POT-filen med klassen [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+2. Exportera POT som HTML genom att använda metoden [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+3. Ladda HTML-dokument genom att använda klassen [Arbetsbok](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Spara dokumentet till MARKDOWN med metoden [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}

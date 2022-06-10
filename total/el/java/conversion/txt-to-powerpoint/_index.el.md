@@ -16,11 +16,11 @@ otherformats: PPSX PPT PPTM PPSM POTM PPTX POTX POWERPOINT POT PPS CSV DIF FODS 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Πώς να μετατρέψετε το TXT σε POWERPOINT μέσω Java" %}}
-1. Ανοίξτε το αρχείο TXT χρησιμοποιώντας την κλάση [Txtument](https://apireference.aspose.com/words/java/com.aspose.words/Txtument)
-2. Μετατρέψτε το αρχείο TXT σε HTML χρησιμοποιώντας [save](https://apireference.aspose.com/words/java/com.aspose.words/Txtument#save(java.lang.String,com.aspose.words.SaveOptions)) μέθοδος
-3. Αρχικοποιήστε ένα νέο αντικείμενο [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+1. Ανοίξτε το αρχείο TXT χρησιμοποιώντας την κλάση [Txtument](https://reference.aspose.com/words/java/com.aspose.words/Txtument)
+2. Μετατρέψτε το αρχείο TXT σε HTML χρησιμοποιώντας [save](https://reference.aspose.com/words/java/com.aspose.words/Txtument#save(java.lang.String,com.aspose.words.SaveOptions)) μέθοδος
+3. Αρχικοποιήστε ένα νέο αντικείμενο [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Εξάγετε περιεχόμενο από αρχείο HTML χρησιμοποιώντας το BufferedReader και γράψτε το περιεχόμενο στο αρχείο παρουσίασής σας
-6. Αποθηκεύστε το έγγραφο στο POWERPOINT χρησιμοποιώντας τη μέθοδο [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. Αποθηκεύστε το έγγραφο στο POWERPOINT χρησιμοποιώντας τη μέθοδο [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
 Για μετατροπή αρχείου TXT σε POWERPOINT, μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.Total για Java απευθείας από ένα [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose έργο που βασίζεται στο /aspose-total) και συμπεριλάβετε βιβλιοθήκες στο pom.xml σας.

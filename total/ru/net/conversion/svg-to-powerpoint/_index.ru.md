@@ -18,10 +18,10 @@ otherformats: PPSM PPSX POWERPOINT PPTM POTX POTM PPT SWF XAML OTP POT PPS
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API для преобразования SVG в POWERPOINT" %}}
-1. Откройте файл SVG, используя класс [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document).
-2. Преобразуйте SVG в PPTX, используя метод [Сохранить](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5).
-3. Загрузите файл PPTX с помощью класса [Презентация](https://apireference.aspose.com/slides/net/aspose.slides/presentation).
-4. Сохраните документ в формате POWERPOINT с помощью метода [Сохранить](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) и установите «Powerpoint» в качестве SaveFormat.
+1. Откройте файл SVG, используя класс [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document).
+2. Преобразуйте SVG в PPTX, используя метод [Сохранить](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5).
+3. Загрузите файл PPTX с помощью класса [Презентация](https://reference.aspose.com/slides/net/aspose.slides/presentation).
+4. Сохраните документ в формате POWERPOINT с помощью метода [Сохранить](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) и установите «Powerpoint» в качестве SaveFormat.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}
@@ -46,7 +46,7 @@ presentation.Save("output.ppt", SaveFormat.Ppt);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Получить метаданные XMP из файла SVG через .NET" %}}
-При преобразовании SVG в POWERPOINT вам может понадобиться дополнительная информация о метаданных XMP, чтобы определить приоритетность процесса пакетного преобразования. Например, вы можете получать и сортировать документы преобразования по дате создания и соответствующим образом обрабатывать документы. [Aspose.PDF для .NET](https://products.aspose.com/pdf/net/) позволяет получить доступ к метаданным XMP файла SVG. Чтобы получить метаданные файла SVG, вы можете создать объект [Документ](https://apireference.aspose.com/pdf/net/aspose.pdf/document) и открыть входной файл SVG. После этого вы можете получить метаданные файла с помощью свойства [Метаданные](https://apireference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata).  
+При преобразовании SVG в POWERPOINT вам может понадобиться дополнительная информация о метаданных XMP, чтобы определить приоритетность процесса пакетного преобразования. Например, вы можете получать и сортировать документы преобразования по дате создания и соответствующим образом обрабатывать документы. [Aspose.PDF для .NET](https://products.aspose.com/pdf/net/) позволяет получить доступ к метаданным XMP файла SVG. Чтобы получить метаданные файла SVG, вы можете создать объект [Документ](https://reference.aspose.com/pdf/net/aspose.pdf/document) и открыть входной файл SVG. После этого вы можете получить метаданные файла с помощью свойства [Метаданные](https://reference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

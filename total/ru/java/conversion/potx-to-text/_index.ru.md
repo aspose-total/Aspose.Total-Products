@@ -16,10 +16,10 @@ otherformats: WORDML DOTM TEXT RTF TEXTX ODT TEXTM FLATOPC DOT WORD OTT DOTX
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как преобразовать POTX в TEXT через Java" %}}
-1. Откройте файл POTX, используя класс [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation).
-2. Преобразуйте POTX в HTML, используя [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) и установите Html как SaveFormat
-3. Загрузите преобразованный файл HTML с помощью класса [Textument](https://apireference.aspose.com/words/java/com.aspose.words/Textument).
-4. Сохраните документ в формате TEXT, используя метод [save](https://apireference.aspose.com/words/java/com.aspose.words/Textument#save(java.lang.String,int))
+1. Откройте файл POTX, используя класс [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation).
+2. Преобразуйте POTX в HTML, используя [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) и установите Html как SaveFormat
+3. Загрузите преобразованный файл HTML с помощью класса [Textument](https://reference.aspose.com/words/java/com.aspose.words/Textument).
+4. Сохраните документ в формате TEXT, используя метод [save](https://reference.aspose.com/words/java/com.aspose.words/Textument#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
 Для преобразования файлов POTX в TEXT вы можете легко использовать Aspose.Total для Java непосредственно из [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) и включите библиотеки в ваш pom.xml.
@@ -34,7 +34,7 @@ otherformats: WORDML DOTM TEXT RTF TEXTX ODT TEXTM FLATOPC DOT WORD OTT DOTX
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Требования к конвертации" %}}
-Используя API, вы также можете выполнить преобразование файла POTX в TEXT с водяным знаком. Чтобы добавить водяной знак в документ TEXT, вы можете сначала преобразовать файл POTX в HTML и добавить к нему водяной знак. Чтобы добавить водяной знак, загрузите только что созданный файл HTML с помощью класса [Textument](https://apireference.aspose.com/words/java/com.aspose.words/Textument), создайте экземпляр TextWatermarkOptions и установите его свойства, вызвать метод Watermark.setText и передать текст водяного знака и объект TextWatermarkOptions.  
+Используя API, вы также можете выполнить преобразование файла POTX в TEXT с водяным знаком. Чтобы добавить водяной знак в документ TEXT, вы можете сначала преобразовать файл POTX в HTML и добавить к нему водяной знак. Чтобы добавить водяной знак, загрузите только что созданный файл HTML с помощью класса [Textument](https://reference.aspose.com/words/java/com.aspose.words/Textument), создайте экземпляр TextWatermarkOptions и установите его свойства, вызвать метод Watermark.setText и передать текст водяного знака и объект TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}

@@ -18,10 +18,10 @@ By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convert DOTX to XLT via C#" %}}
-1. Open DOTX file using [Document](https://apireference.aspose.com/words/net/aspose.words/document) class
-2. Convert DOTX to HTML by using [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) method
-3. Load HTML document by using [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) class 
-4. Save the document to XLT format using [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `XLT` as SaveFormat
+1. Open DOTX file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
+2. Convert DOTX to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
+3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+4. Save the document to XLT format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `XLT` as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}

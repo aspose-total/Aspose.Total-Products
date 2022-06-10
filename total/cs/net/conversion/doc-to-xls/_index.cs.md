@@ -18,10 +18,10 @@ Pomocí [Aspose.Total for .NET](https://products.aspose.com/total/net/) můžete
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API pro převod DOC do XLS" %}}
-1. Otevřete soubor DOC pomocí třídy [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-2. Převeďte DOC do HTML pomocí metody [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)
-3. Načtěte dokument HTML pomocí třídy [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Uložte dokument do formátu XLS pomocí metody [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) a nastavte „XLS“ jako SaveFormat
+1. Otevřete soubor DOC pomocí třídy [Document](https://reference.aspose.com/words/net/aspose.words/document)
+2. Převeďte DOC do HTML pomocí metody [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. Načtěte dokument HTML pomocí třídy [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Uložte dokument do formátu XLS pomocí metody [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) a nastavte „XLS“ jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
@@ -39,7 +39,7 @@ Případně si stáhněte offline instalační program MSI nebo knihovny DLL v s
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Načíst dokument DOC ze streamu přes C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) vám také umožňuje načíst dokument DOC prostřednictvím streamu. Chcete-li otevřít dokument ze streamu, jednoduše předejte objekt streamu, který obsahuje dokument, do konstruktoru [Document](https://apireference.aspose.com/words/net/aspose.words/document). Následující příklad kódu ukazuje, jak otevřít dokument ze streamu:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) vám také umožňuje načíst dokument DOC prostřednictvím streamu. Chcete-li otevřít dokument ze streamu, jednoduše předejte objekt streamu, který obsahuje dokument, do konstruktoru [Document](https://reference.aspose.com/words/net/aspose.words/document). Následující příklad kódu ukazuje, jak otevřít dokument ze streamu:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
@@ -48,7 +48,7 @@ Případně si stáhněte offline instalační program MSI nebo knihovny DLL v s
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Přidejte uživatelské vlastnosti do souboru XLS přes C#" %}}
-Při převodu DOC na XLS vám [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) umožňuje přidávat do dokumentů XLS vlastní vlastnosti. Chcete-li přidat vlastní vlastnost, můžete použít metodu [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) pro [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) třídy. Metoda Add přidá vlastnost do souboru aplikace Excel a vrátí odkaz na novou vlastnost dokumentu jako [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties/documentproperty) objekt. 
+Při převodu DOC na XLS vám [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) umožňuje přidávat do dokumentů XLS vlastní vlastnosti. Chcete-li přidat vlastní vlastnost, můžete použít metodu [Add](https://reference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) pro [CustomDocumentPropertyCollection](https://reference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) třídy. Metoda Add přidá vlastnost do souboru aplikace Excel a vrátí odkaz na novou vlastnost dokumentu jako [Aspose.Cells.Properties.DocumentProperty](https://reference.aspose.com/cells/net/aspose.cells.properties/documentproperty) objekt. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}

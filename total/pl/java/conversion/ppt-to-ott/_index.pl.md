@@ -16,10 +16,10 @@ otherformats: DOTM DOTX DOT OTTX WORDML WORD RTF OTT FLATOPC TEXT OTTM ODT
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak przekonwertować PPT na OTT za pomocą Javy?" %}}
-1. Otwórz plik PPT za pomocą klasy [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Przekonwertuj PPT na HTML, używając [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) i ustaw HTML jako SaveFormat
-3. Załaduj przekonwertowany plik HTML za pomocą klasy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Zapisz dokument w formacie OTT za pomocą metody [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
+1. Otwórz plik PPT za pomocą klasy [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. Przekonwertuj PPT na HTML, używając [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) i ustaw HTML jako SaveFormat
+3. Załaduj przekonwertowany plik HTML za pomocą klasy [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. Zapisz dokument w formacie OTT za pomocą metody [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
 Do konwersji plików PPT do OTT można łatwo użyć Aspose.Total dla Java bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i dołącz biblioteki do swojego pom.xml.
@@ -34,7 +34,7 @@ Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Wymagania dotyczące konwersji" %}}/Document
-Korzystając z API, możesz również wykonać konwersję pliku PPT do OTT ze znakiem wodnym. Aby dodać znak wodny do dokumentu OTT, możesz najpierw przekonwertować plik PPT na HTML i dodać do niego znak wodny. Aby dodać znak wodny, załaduj nowo utworzony plik HTML za pomocą klasy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document), utwórz instancję TextWatermarkOptions i ustaw jego właściwości, wywołaj metodę Watermark.setText i przekaż tekst znaku wodnego i obiekt TextWatermarkOptions.  
+Korzystając z API, możesz również wykonać konwersję pliku PPT do OTT ze znakiem wodnym. Aby dodać znak wodny do dokumentu OTT, możesz najpierw przekonwertować plik PPT na HTML i dodać do niego znak wodny. Aby dodać znak wodny, załaduj nowo utworzony plik HTML za pomocą klasy [Document](https://reference.aspose.com/words/java/com.aspose.words/Document), utwórz instancję TextWatermarkOptions i ustaw jego właściwości, wywołaj metodę Watermark.setText i przekaż tekst znaku wodnego i obiekt TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}

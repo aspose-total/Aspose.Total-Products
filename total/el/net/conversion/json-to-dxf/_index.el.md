@@ -18,10 +18,10 @@ otherformats: JPEG2000 WMZ DICOM SVGZ PSD WMF DXF EMZ IMAGE TGA
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Μετατροπή μορφής JSON σε DXF μέσω C#" %}}
-1. Δημιουργήστε ένα νέο αντικείμενο [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) και διαβάστε τα δεδομένα JSON από το αρχείο
-2. Μετατρέψτε το JSON σε JPEG χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
-3. Φορτώστε το έγγραφο JPEG χρησιμοποιώντας την κλάση [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image)
-4. Αποθηκεύστε το έγγραφο σε μορφή DXF χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
+1. Δημιουργήστε ένα νέο αντικείμενο [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) και διαβάστε τα δεδομένα JSON από το αρχείο
+2. Μετατρέψτε το JSON σε JPEG χρησιμοποιώντας τη μέθοδο [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+3. Φορτώστε το έγγραφο JPEG χρησιμοποιώντας την κλάση [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image)
+4. Αποθηκεύστε το έγγραφο σε μορφή DXF χρησιμοποιώντας τη μέθοδο [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
@@ -39,7 +39,7 @@ otherformats: JPEG2000 WMZ DICOM SVGZ PSD WMF DXF EMZ IMAGE TGA
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ορισμός διάταξης και μετατροπή μορφής JSON σε DXF μέσω C#" %}}
-Κατά την ανάλυση του JSON σε DXF, μπορείτε επίσης να ορίσετε επιλογές διάταξης για το JSON χρησιμοποιώντας το [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Σας επιτρέπει να επεξεργαστείτε τον πίνακα ως πίνακα, να αγνοήσετε τα μηδενικά, να αγνοήσετε τον τίτλο του πίνακα, να αγνοήσετε τον τίτλο του αντικειμένου, να μετατρέψετε τη συμβολοσειρά σε αριθμό ή ημερομηνία, να ορίσετε την ημερομηνία και τη μορφή αριθμού και να ορίσετε στυλ τίτλου. Όλες αυτές οι επιλογές σάς επιτρέπουν να παρουσιάζετε τα δεδομένα σας σύμφωνα με τις ανάγκες σας. Το παρακάτω απόσπασμα κώδικα σάς δείχνει πώς να ορίσετε τις επιλογές διάταξης.  
+Κατά την ανάλυση του JSON σε DXF, μπορείτε επίσης να ορίσετε επιλογές διάταξης για το JSON χρησιμοποιώντας το [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Σας επιτρέπει να επεξεργαστείτε τον πίνακα ως πίνακα, να αγνοήσετε τα μηδενικά, να αγνοήσετε τον τίτλο του πίνακα, να αγνοήσετε τον τίτλο του αντικειμένου, να μετατρέψετε τη συμβολοσειρά σε αριθμό ή ημερομηνία, να ορίσετε την ημερομηνία και τη μορφή αριθμού και να ορίσετε στυλ τίτλου. Όλες αυτές οι επιλογές σάς επιτρέπουν να παρουσιάζετε τα δεδομένα σας σύμφωνα με τις ανάγκες σας. Το παρακάτω απόσπασμα κώδικα σάς δείχνει πώς να ορίσετε τις επιλογές διάταξης.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "set-layout-and-parse-json-to-image.cs" >}}
@@ -48,7 +48,7 @@ otherformats: JPEG2000 WMZ DICOM SVGZ PSD WMF DXF EMZ IMAGE TGA
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Αναλύστε τη μορφή JSON σε DXF με υδατογράφημα" %}}
-Χρησιμοποιώντας το API, μπορείτε επίσης να μετατρέψετε το JSON σε DXF με υδατογράφημα στο έγγραφό σας DXF. Για να προσθέσετε ένα υδατογράφημα, μπορείτε πρώτα να αποδώσετε το έγγραφό σας JSON σε JPEG και να προσθέσετε ένα υδατογράφημα σε αυτό. Για να επιδείξετε τη λειτουργία, μπορείτε να φορτώσετε την εικόνα JPEG που έχετε μετατρέψει, να προσθέσετε μετασχηματισμούς χρησιμοποιώντας ένα αντικείμενο της κλάσης Matrix και να σχεδιάσετε μια συμβολοσειρά ως υδατογράφημα στην επιφάνεια της εικόνας χρησιμοποιώντας το [Graphics](https://apireference.aspose.com/imaging/ net/aspose.imaging/graphics) class' [DrawString](https://apireference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring) μέθοδος. Αφού προσθέσετε το υδατογράφημα σε αυτό, μπορείτε να αποθηκεύσετε το JPEG ως μορφή DXF. Ακολουθεί ένα παράδειγμα κώδικα που δείχνει πώς να προσθέσετε ένα διαγώνιο υδατογράφημα στο έγγραφό σας. 
+Χρησιμοποιώντας το API, μπορείτε επίσης να μετατρέψετε το JSON σε DXF με υδατογράφημα στο έγγραφό σας DXF. Για να προσθέσετε ένα υδατογράφημα, μπορείτε πρώτα να αποδώσετε το έγγραφό σας JSON σε JPEG και να προσθέσετε ένα υδατογράφημα σε αυτό. Για να επιδείξετε τη λειτουργία, μπορείτε να φορτώσετε την εικόνα JPEG που έχετε μετατρέψει, να προσθέσετε μετασχηματισμούς χρησιμοποιώντας ένα αντικείμενο της κλάσης Matrix και να σχεδιάσετε μια συμβολοσειρά ως υδατογράφημα στην επιφάνεια της εικόνας χρησιμοποιώντας το [Graphics](https://reference.aspose.com/imaging/ net/aspose.imaging/graphics) class' [DrawString](https://reference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring) μέθοδος. Αφού προσθέσετε το υδατογράφημα σε αυτό, μπορείτε να αποθηκεύσετε το JPEG ως μορφή DXF. Ακολουθεί ένα παράδειγμα κώδικα που δείχνει πώς να προσθέσετε ένα διαγώνιο υδατογράφημα στο έγγραφό σας. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}

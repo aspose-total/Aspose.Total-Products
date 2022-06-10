@@ -18,10 +18,10 @@ Dengan menggunakan [Aspose.Total for .NET](https://products.aspose.com/total/net
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cara Mengonversi PPSM ke XLAM melalui C#" %}}
-1. Buka file PPSM menggunakan kelas [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-2. Ekspor PPSM sebagai HTML dengan menggunakan metode [Simpan](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
-3. Muat dokumen HTML dengan menggunakan kelas [Buku Kerja](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Simpan dokumen ke XLAM menggunakan metode [Simpan](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+1. Buka file PPSM menggunakan kelas [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+2. Ekspor PPSM sebagai HTML dengan menggunakan metode [Simpan](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+3. Muat dokumen HTML dengan menggunakan kelas [Buku Kerja](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Simpan dokumen ke XLAM menggunakan metode [Simpan](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}

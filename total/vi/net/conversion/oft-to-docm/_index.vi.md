@@ -18,10 +18,10 @@ Nếu bạn là nhà phát triển .NET đang tìm cách thêm các tính năng 
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API để chuyển đổi OFT thành DOCM" %}}
-1. Mở tệp OFT bằng lớp [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage)
-2. Chuyển đổi OFT sang HTML bằng phương pháp [Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
-3. Tải HTML bằng cách sử dụng lớp [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-4. Lưu tài liệu sang định dạng DOCM bằng phương pháp [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) và đặt Docm làm SaveFormat
+1. Mở tệp OFT bằng lớp [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage)
+2. Chuyển đổi OFT sang HTML bằng phương pháp [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
+3. Tải HTML bằng cách sử dụng lớp [Document](https://reference.aspose.com/words/net/aspose.words/document)
+4. Lưu tài liệu sang định dạng DOCM bằng phương pháp [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) và đặt Docm làm SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
@@ -47,7 +47,7 @@ document.Save("output.docm", SaveFormat.Docm);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Phân tích cú pháp Tệp OFT qua .NET" %}}
-Trước khi chuyển đổi OFT thành DOCM, nếu bạn muốn đảm bảo rằng bạn đang chuyển đổi đúng oft, bạn có thể tải tài liệu OFT, phân tích cú pháp và xem thuộc tính mong muốn của mình. Bằng cách sử dụng lớp [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) của [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API, bạn có thể lấy thông tin người gửi và người nhận. Ví dụ: bạn có thể kiểm tra oft của người gửi cụ thể cho việc chuyển đổi bằng cách sử dụng thuộc tính [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
+Trước khi chuyển đổi OFT thành DOCM, nếu bạn muốn đảm bảo rằng bạn đang chuyển đổi đúng oft, bạn có thể tải tài liệu OFT, phân tích cú pháp và xem thuộc tính mong muốn của mình. Bằng cách sử dụng lớp [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) của [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API, bạn có thể lấy thông tin người gửi và người nhận. Ví dụ: bạn có thể kiểm tra oft của người gửi cụ thể cho việc chuyển đổi bằng cách sử dụng thuộc tính [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

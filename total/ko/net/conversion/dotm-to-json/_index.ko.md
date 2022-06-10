@@ -18,10 +18,10 @@ otherformats: XLAM SXC XLTM TSV DIF FODS XLSM XLSX ODS XLTX XLS EXCEL XLSB XLT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C#을 통해 DOTM를 JSON 형식으로 변환" %}}
-1. [Dotmument](https://apireference.aspose.com/words/net/aspose.words/dotmument) 클래스를 사용하여 DOTM 파일을 엽니다.
-2. [저장](https://apireference.aspose.com/words/net/aspose.words.dotmument/save/methods/4) 메서드를 사용하여 DOTM를 HTML로 변환
-3. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) 클래스를 사용하여 HTML 문서 로드
-4. [저장](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 메서드를 사용하여 문서를 JSON 형식으로 저장합니다.
+1. [Dotmument](https://reference.aspose.com/words/net/aspose.words/dotmument) 클래스를 사용하여 DOTM 파일을 엽니다.
+2. [저장](https://reference.aspose.com/words/net/aspose.words.dotmument/save/methods/4) 메서드를 사용하여 DOTM를 HTML로 변환
+3. [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 클래스를 사용하여 HTML 문서 로드
+4. [저장](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 메서드를 사용하여 문서를 JSON 형식으로 저장합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}

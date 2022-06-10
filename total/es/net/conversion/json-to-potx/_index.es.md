@@ -18,10 +18,10 @@ Puede convertir JSON a POTX dentro de cualquier aplicación .NET, C#, ASP.NET y 
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convierta el formato JSON a POTX a través de C#" %}}
-1. Cree un nuevo objeto [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook) y lea los datos JSON válidos del archivo.
-2. Importe el archivo JSON a la hoja de trabajo usando la clase [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) y [Guardar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) como PPTX
-3. Cargue el documento PPTX usando la clase [Presentación](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-4. Guarde el documento en formato POTX usando el método [Guardar](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+1. Cree un nuevo objeto [Libro de trabajo](https://reference.aspose.com/cells/net/aspose.cells/workbook) y lea los datos JSON válidos del archivo.
+2. Importe el archivo JSON a la hoja de trabajo usando la clase [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) y [Guardar](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) como PPTX
+3. Cargue el documento PPTX usando la clase [Presentación](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+4. Guarde el documento en formato POTX usando el método [Guardar](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
@@ -39,7 +39,7 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Establezca el diseño y convierta el formato JSON a POTX a través de C#" %}}
-Mientras analiza JSON a POTX, también puede establecer opciones de diseño para su formato JSON mediante [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Le permite procesar una matriz como una tabla, ignorar nulos, ignorar el título de la matriz, ignorar el título del objeto, convertir una cadena en un número o fecha, establecer el formato de fecha y número y establecer el estilo del título. Todas estas opciones le permiten presentar sus datos según sus necesidades. El siguiente fragmento de código le muestra cómo configurar las opciones de diseño.  
+Mientras analiza JSON a POTX, también puede establecer opciones de diseño para su formato JSON mediante [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Le permite procesar una matriz como una tabla, ignorar nulos, ignorar el título de la matriz, ignorar el título del objeto, convertir una cadena en un número o fecha, establecer el formato de fecha y número y establecer el estilo del título. Todas estas opciones le permiten presentar sus datos según sus necesidades. El siguiente fragmento de código le muestra cómo configurar las opciones de diseño.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "set-layout-and-parse-json-to-powerpoint.cs" >}}
@@ -48,7 +48,7 @@ Mientras analiza JSON a POTX, también puede establecer opciones de diseño para
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convierta el formato JSON a POTX con marca de agua" %}}
-Usando la API, también puede convertir JSON a POTX con marca de agua. Para agregar una marca de agua a su documento POTX, primero puede analizar JSON a PPTX y agregarle una marca de agua. Para agregar una marca de agua, cargue el archivo PPTX recién creado usando la clase [Presentación](https://apireference.aspose.com/slides/net/aspose.slides/presentation), seleccione la presentación maestra, agregue el tipo de forma usando AddAutoShape y agregue texto de marca de agua usando AddTextFrame. Después de agregar la marca de agua, puede guardar el documento en POTX. 
+Usando la API, también puede convertir JSON a POTX con marca de agua. Para agregar una marca de agua a su documento POTX, primero puede analizar JSON a PPTX y agregarle una marca de agua. Para agregar una marca de agua, cargue el archivo PPTX recién creado usando la clase [Presentación](https://reference.aspose.com/slides/net/aspose.slides/presentation), seleccione la presentación maestra, agregue el tipo de forma usando AddAutoShape y agregue texto de marca de agua usando AddTextFrame. Después de agregar la marca de agua, puede guardar el documento en POTX. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}

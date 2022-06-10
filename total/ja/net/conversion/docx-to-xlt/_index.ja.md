@@ -18,10 +18,10 @@ otherformats: XLT SXC XLT XLSM XLSB XLTX XLS EXCEL TSV ODS XLAM XLTM FODS DIF
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="DOCXをXLTに変換する.NETAPI" %}}
-1. [Document](https://apireference.aspose.com/words/net/aspose.words/Document)クラスを使用してDOCXファイルを開きます
-2. [Save](https://apireference.aspose.com/words/net/aspose.words.Document/save/methods/4)メソッドを使用してDOCXをHTMLに変換します
-3. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
-4. [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをXLT形式で保存し、「XLT」をSaveFormatとして設定します
+1. [Document](https://reference.aspose.com/words/net/aspose.words/Document)クラスを使用してDOCXファイルを開きます
+2. [Save](https://reference.aspose.com/words/net/aspose.words.Document/save/methods/4)メソッドを使用してDOCXをHTMLに変換します
+3. [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
+4. [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをXLT形式で保存し、「XLT」をSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
@@ -39,7 +39,7 @@ otherformats: XLT SXC XLT XLSM XLSB XLTX XLS EXCEL TSV ODS XLAM XLTM FODS DIF
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="C＃経由でストリームからDOCXドキュメントをロードする" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/)では、ストリームを介してDOCXドキュメントをロードすることもできます。ストリームからドキュメントを開くには、ドキュメントを含むストリームオブジェクトを[Document](https://apireference.aspose.com/words/net/aspose.words/Document)コンストラクターに渡すだけです。次のコード例は、ストリームからドキュメントを開く方法を示しています。  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/)では、ストリームを介してDOCXドキュメントをロードすることもできます。ストリームからドキュメントを開くには、ドキュメントを含むストリームオブジェクトを[Document](https://reference.aspose.com/words/net/aspose.words/Document)コンストラクターに渡すだけです。次のコード例は、ストリームからドキュメントを開く方法を示しています。  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
@@ -48,7 +48,7 @@ otherformats: XLT SXC XLT XLSM XLSB XLTX XLS EXCEL TSV ODS XLAM XLTM FODS DIF
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="C＃を介してXLTファイルにカスタムプロパティを追加する" %}}
-DOCXをXLTに変換する際、[Aspose.Cells for .NET](https://products.aspose.com/cells/net/)を使用すると、XLTドキュメントにカスタムプロパティを追加できます。カスタムプロパティを追加するには、の[Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index)メソッドを使用できます。 [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection)クラス。 Addメソッドは、プロパティをExcelファイルに追加し、新しいドキュメントプロパティの参照を[Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties/Documentproperty)として返しますオブジェクト。 
+DOCXをXLTに変換する際、[Aspose.Cells for .NET](https://products.aspose.com/cells/net/)を使用すると、XLTドキュメントにカスタムプロパティを追加できます。カスタムプロパティを追加するには、の[Add](https://reference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index)メソッドを使用できます。 [CustomDocumentPropertyCollection](https://reference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection)クラス。 Addメソッドは、プロパティをExcelファイルに追加し、新しいドキュメントプロパティの参照を[Aspose.Cells.Properties.DocumentProperty](https://reference.aspose.com/cells/net/aspose.cells.properties/Documentproperty)として返しますオブジェクト。 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}

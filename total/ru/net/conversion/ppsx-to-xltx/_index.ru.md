@@ -18,10 +18,10 @@ otherformats: XLSM DIF FODS MARKDOWN XLSB XLAM MHTML XLTM XLT XLS TSV ODS SXC EX
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как конвертировать PPSX в XLTX через C#" %}}
-1. Откройте файл PPSX, используя класс [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation).
-2. Экспортируйте PPSX как HTML, используя метод [Сохранить](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5).
-3. Загрузите HTML-документ с помощью класса [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
-4. Сохраните документ в формате XLTX, используя метод [Сохранить](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4).
+1. Откройте файл PPSX, используя класс [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation).
+2. Экспортируйте PPSX как HTML, используя метод [Сохранить](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5).
+3. Загрузите HTML-документ с помощью класса [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook).
+4. Сохраните документ в формате XLTX, используя метод [Сохранить](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}

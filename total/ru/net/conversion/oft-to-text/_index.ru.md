@@ -18,10 +18,10 @@ otherformats: PDF SVG PNG FLATOPC OTT DOTM MD PCL XPS WORDML PS DOCM EPUB ODT DO
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API для преобразования OFT в TEXT" %}}
-1. Откройте файл OFT с помощью класса [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage).
-2. Преобразуйте OFT в HTML, используя метод [Сохранить](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3).
-3. Загрузите HTML с помощью класса [Document](https://apireference.aspose.com/words/net/aspose.words/document).
-4. Сохраните документ в формате TEXT с помощью метода [Сохранить](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) и установите Text в качестве формата сохранения.
+1. Откройте файл OFT с помощью класса [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage).
+2. Преобразуйте OFT в HTML, используя метод [Сохранить](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3).
+3. Загрузите HTML с помощью класса [Document](https://reference.aspose.com/words/net/aspose.words/document).
+4. Сохраните документ в формате TEXT с помощью метода [Сохранить](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) и установите Text в качестве формата сохранения.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}
@@ -46,7 +46,7 @@ document.Save("output.text", SaveFormat.Text);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Разобрать файл OFT через .NET" %}}
-Перед преобразованием OFT в TEXT, если вы хотите убедиться, что конвертируете правильное электронное письмо, вы можете загрузить документ OFT, проанализировать его и просмотреть желаемое свойство. Используя класс [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) класса [Aspose.Cells для .NET](https://products.aspose.com/cells/net/) API, вы можете получить информацию об отправителе и получателе. Например, вы можете проверить адрес электронной почты отправителя для конверсии, используя свойство [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
+Перед преобразованием OFT в TEXT, если вы хотите убедиться, что конвертируете правильное электронное письмо, вы можете загрузить документ OFT, проанализировать его и просмотреть желаемое свойство. Используя класс [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) класса [Aspose.Cells для .NET](https://products.aspose.com/cells/net/) API, вы можете получить информацию об отправителе и получателе. Например, вы можете проверить адрес электронной почты отправителя для конверсии, используя свойство [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -61,7 +61,7 @@ if(outlookMessageFile.SenderName == "John"){
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ограничить редактирование документов TEXT через .NET" %}}
-При сохранении документа из OFT в TEXT вам может потребоваться защитить выходной документ. Иногда вам может понадобиться ограничить возможность редактирования документа и разрешить только определенные действия с ним. Это может быть полезно, чтобы другие люди не могли редактировать важную и конфиденциальную информацию в вашем документе. [Aspose.Words for .NET](https://products.aspose.com/words/net/) API позволяет вам контролировать способ ограничения контента с помощью [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype) параметр перечисления. Вы можете сделать свой документ доступным только для чтения, используя следующие строки кода. 
+При сохранении документа из OFT в TEXT вам может потребоваться защитить выходной документ. Иногда вам может понадобиться ограничить возможность редактирования документа и разрешить только определенные действия с ним. Это может быть полезно, чтобы другие люди не могли редактировать важную и конфиденциальную информацию в вашем документе. [Aspose.Words for .NET](https://products.aspose.com/words/net/) API позволяет вам контролировать способ ограничения контента с помощью [ProtectionType](https://reference.aspose.com/words/net/aspose.words/protectiontype) параметр перечисления. Вы можете сделать свой документ доступным только для чтения, используя следующие строки кода. 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

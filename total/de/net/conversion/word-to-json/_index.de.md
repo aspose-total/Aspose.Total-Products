@@ -18,10 +18,10 @@ Durch die Verwendung von [Aspose.Total for .NET](https://products.aspose.com/tot
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertieren Sie WORD in das JSON-Format über C#" %}}
-1. Öffnen Sie die WORD-Datei mit der Klasse [Document](https://apireference.aspose.com/words/net/aspose.words/document).
-2. Konvertieren Sie WORD in HTML, indem Sie die Methode [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) verwenden
-3. Laden Sie das HTML-Dokument mithilfe der Klasse [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
-4. Speichern Sie das Dokument mit der Methode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) im JSON-Format
+1. Öffnen Sie die WORD-Datei mit der Klasse [Document](https://reference.aspose.com/words/net/aspose.words/document).
+2. Konvertieren Sie WORD in HTML, indem Sie die Methode [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) verwenden
+3. Laden Sie das HTML-Dokument mithilfe der Klasse [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook).
+4. Speichern Sie das Dokument mit der Methode [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) im JSON-Format
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}

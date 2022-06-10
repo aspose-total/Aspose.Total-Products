@@ -16,10 +16,10 @@ otherformats: DOT PCL ODT MHTML XAMLFLOW PS OTT FLATOPC MARKDOWN DOTX RTF DOTM
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java API для преобразования SVG в MARKDOWN" %}}
-1. Откройте файл SVG, используя класс [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document).
-2. Преобразуйте SVG в DOC, используя [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) метод
-3. Загрузите файл DOC с помощью класса [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) Aspose.Words.
-4. Сохраните документ в формате MARKDOWN, используя метод [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) и установите MARKDOWN как СохранитьФормат
+1. Откройте файл SVG, используя класс [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document).
+2. Преобразуйте SVG в DOC, используя [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) метод
+3. Загрузите файл DOC с помощью класса [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) Aspose.Words.
+4. Сохраните документ в формате MARKDOWN, используя метод [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) и установите MARKDOWN как СохранитьФормат
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
 Вы можете легко использовать Aspose.Total для Java непосредственно из проекта на основе [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total). и включите [Aspose.PDF для Java](https://docs.aspose.com/pdf/java/installation/) и [Aspose.Words для Java](https://docs.aspose.com/words/java/installation/) в вашем файле pom.xml.
@@ -42,7 +42,7 @@ outputDocument.save("output.markdown", SaveFormat.MARKDOWN);
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Требования к конвертации" %}}
-При преобразовании SVG в MARKDOWN, даже если ваш документ защищен паролем, вы все равно можете открыть его с помощью API управления PDF [Aspose.PDF для Java](https://docs.aspose.com/pdf/java/installation/). Чтобы открыть зашифрованный файл, вам необходимо создать объект [Документ](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) и открыть SVG, используя пароль владельца.  
+При преобразовании SVG в MARKDOWN, даже если ваш документ защищен паролем, вы все равно можете открыть его с помощью API управления PDF [Aspose.PDF для Java](https://docs.aspose.com/pdf/java/installation/). Чтобы открыть зашифрованный файл, вам необходимо создать объект [Документ](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) и открыть SVG, используя пароль владельца.  
 {{% blocks/products/pf/feature-page-code %}}
 ```cs
 // open encrypted document

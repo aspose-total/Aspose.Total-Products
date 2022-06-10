@@ -18,10 +18,10 @@ otherformats: ODS XLTM XLAM FODS DIF XLS XLSM TSV XLTX EXCEL XLSB SXC CSV XLT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="تحويل DOCM إلى تنسيق JSON عبر C#" %}}
-1. افتح ملف DOCM باستخدام فئة [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-2. تحويل DOCM إلى HTML باستخدام طريقة [Save](https://apireference.aspose.com/words/net/aspose.words.documentsave/methods/4)
-3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. احفظ المستند بتنسيق JSON باستخدام طريقة [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+1. افتح ملف DOCM باستخدام فئة [Document](https://reference.aspose.com/words/net/aspose.words/document)
+2. تحويل DOCM إلى HTML باستخدام طريقة [Save](https://reference.aspose.com/words/net/aspose.words.documentsave/methods/4)
+3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. احفظ المستند بتنسيق JSON باستخدام طريقة [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}

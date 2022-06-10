@@ -16,11 +16,11 @@ A fejlesztőknek gyakran programozottan kell konvertálniuk a WORDML fájlt PPSX
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hogyan lehet WORDML-t PPSX-vé konvertálni Java-n keresztül" %}}
-1. Nyissa meg a WORDML-fájlt a [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) osztály használatával
-2. Alakítsa át a WORDML fájlt HTML formátumba a [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) segítségével)) módszer
-3. Inicializáljon egy új [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) objektumot
+1. Nyissa meg a WORDML-fájlt a [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) osztály használatával
+2. Alakítsa át a WORDML fájlt HTML formátumba a [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) segítségével)) módszer
+3. Inicializáljon egy új [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) objektumot
 5. Bontsa ki a tartalmat a HTML-fájlból a BufferedReader segítségével, és írja be a tartalmat a bemutatófájlba
-6. Mentse a dokumentumot az PPSX-be a [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) módszerrel
+6. Mentse a dokumentumot az PPSX-be a [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) módszerrel
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 A WORDML-fájl PPSX-vé konvertálásához egyszerűen használhatja az Aspose.Total for Java-t közvetlenül a [Maven]-ből (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) alapú projektet, és vegyen fel könyvtárakat a pom.xml fájlba.

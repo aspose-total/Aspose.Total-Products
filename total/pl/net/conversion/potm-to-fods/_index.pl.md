@@ -18,10 +18,10 @@ Używając [Aspose.Total for .NET](https://products.aspose.com/total/net/) może
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak przekonwertować POTM na FODS za pomocą C#" %}}
-1. Otwórz plik POTM za pomocą klasy [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-2. Eksportuj POTM jako HTML za pomocą metody [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
-3. Załaduj dokument HTML za pomocą klasy [Książka](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Zapisz dokument do FODS metodą [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+1. Otwórz plik POTM za pomocą klasy [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+2. Eksportuj POTM jako HTML za pomocą metody [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+3. Załaduj dokument HTML za pomocą klasy [Książka](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Zapisz dokument do FODS metodą [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}

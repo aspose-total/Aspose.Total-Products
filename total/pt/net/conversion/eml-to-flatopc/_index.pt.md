@@ -18,10 +18,10 @@ Se você é um desenvolvedor .NET que deseja adicionar recursos de conversão de
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API C# para converter EML em FLATOPC" %}}
-1. Abra o arquivo EML usando a classe [MailMessage](https://apireference.aspose.com/eml/net/aspose.eml/mailmessage)
-2. Converta EML para HTML usando o método [Save](https://apireference.aspose.com/eml/net/aspose.eml.mailmessage/save/methods/3)
-3. Carregue HTML usando a classe [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-4. Salve o documento no formato FLATOPC usando o método [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) e defina Flatopc como SaveFormat
+1. Abra o arquivo EML usando a classe [MailMessage](https://reference.aspose.com/eml/net/aspose.eml/mailmessage)
+2. Converta EML para HTML usando o método [Save](https://reference.aspose.com/eml/net/aspose.eml.mailmessage/save/methods/3)
+3. Carregue HTML usando a classe [Document](https://reference.aspose.com/words/net/aspose.words/document)
+4. Salve o documento no formato FLATOPC usando o método [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) e defina Flatopc como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
@@ -47,7 +47,7 @@ document.Save("output.flatopc", SaveFormat.FlatOpc);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analisar arquivo EML via .NET" %}}
-Antes de converter EML para FLATOPC, se você quiser ter certeza de que está convertendo o eml correto, você pode carregar o documento EML, analisá-lo e dar uma olhada na propriedade desejada. Usando a classe [MapiMessage](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage) de [Aspose.Email for .NET](https://products.aspose.com/eml /net/) API, você pode obter informações de remetente e destinatários. Por exemplo, você pode verificar um e-mail de remetente específico para a conversão usando a propriedade [SenderName](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage/properties/sendername).  
+Antes de converter EML para FLATOPC, se você quiser ter certeza de que está convertendo o eml correto, você pode carregar o documento EML, analisá-lo e dar uma olhada na propriedade desejada. Usando a classe [MapiMessage](https://reference.aspose.com/eml/net/aspose.eml.mapi/mapimessage) de [Aspose.Email for .NET](https://products.aspose.com/eml /net/) API, você pode obter informações de remetente e destinatários. Por exemplo, você pode verificar um e-mail de remetente específico para a conversão usando a propriedade [SenderName](https://reference.aspose.com/eml/net/aspose.eml.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

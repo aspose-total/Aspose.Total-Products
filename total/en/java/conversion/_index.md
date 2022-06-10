@@ -13,7 +13,7 @@ description: Convert Microsoft Office Word, Excel, PowerPoint, Outlook, PDF, HTM
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Word to Excel Conversion" %}}
-Total API supports not only inter conversion of Microsoft Word formats but also converting Word to Excel, PDF, HTML, Images, EPUB, Markdown and XPS. Process of conversion is simple. Let's consider the case of **Word to Excel** conversion. Load Microsoft Word file using [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) class and convert **WORD to HTML** by using [Save method](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)). Next open the converted HTML document by using [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) class and save the document to XLSX format using [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method.
+Total API supports not only inter conversion of Microsoft Word formats but also converting Word to Excel, PDF, HTML, Images, EPUB, Markdown and XPS. Process of conversion is simple. Let's consider the case of **Word to Excel** conversion. Load Microsoft Word file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class and convert **WORD to HTML** by using [Save method](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)). Next open the converted HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class and save the document to XLSX format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method.
  Developers can also convert [Word to PDF](https://products.aspose.com/words/java/conversion/word-to-pdf/).
 
 
@@ -27,8 +27,8 @@ Total API supports not only inter conversion of Microsoft Word formats but also 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Convert PDF to Images" %}}
-API supports converting PDF to Images like JPEG2000, EMZ,  WMZ, TGA, PSD, DXF, WMF, SVGZ, APNG, DICOM, Powerpoint, Excel and other formats. For PDF to Image conversion, let's consider the JPG image as target file. Process is, load PDF file using Document class and initialize [JpegDevice class](https://apireference.aspose.com/pdf/java/aspose.pdf.devices/jpegdevice) object and render PDF to JPEG via [Process](https://apireference.aspose.com/pdf/java/aspose.pdf.devices.pagedevice/process/methods/1) method
-Load JPEG file by using [Image](https://apireference.aspose.com/imaging/java/aspose.imaging/image) class and finally call the Save method.
+API supports converting PDF to Images like JPEG2000, EMZ,  WMZ, TGA, PSD, DXF, WMF, SVGZ, APNG, DICOM, Powerpoint, Excel and other formats. For PDF to Image conversion, let's consider the JPG image as target file. Process is, load PDF file using Document class and initialize [JpegDevice class](https://reference.aspose.com/pdf/java/aspose.pdf.devices/jpegdevice) object and render PDF to JPEG via [Process](https://reference.aspose.com/pdf/java/aspose.pdf.devices.pagedevice/process/methods/1) method
+Load JPEG file by using [Image](https://reference.aspose.com/imaging/java/aspose.imaging/image) class and finally call the Save method.
 
 {{% blocks/products/pf/feature-page-code h3="Java PDF to Image Conversion" %}}
 
@@ -42,7 +42,7 @@ Load JPEG file by using [Image](https://apireference.aspose.com/imaging/java/asp
 
 {{% blocks/products/pf/feature-page-section  h2="Convert PowerPoint to Excel Files" %}}
 
-For converting Microsoft PowerPoint files to different files including Excel Word, MHTML, Relevant sub APIs involoved of main Aspose.Total for Java API. Process of converting PowerPoint files to Excel document, Load PowerPoint file using [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) class and convert **PowerPoint to HTML** by using [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method. Next load the converted HTML document by using [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) class and save the document to EXCEL format using [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method. Code for **PowerPoint to Word** conversion also listed.
+For converting Microsoft PowerPoint files to different files including Excel Word, MHTML, Relevant sub APIs involoved of main Aspose.Total for Java API. Process of converting PowerPoint files to Excel document, Load PowerPoint file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class and convert **PowerPoint to HTML** by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method. Next load the converted HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class and save the document to EXCEL format using [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method. Code for **PowerPoint to Word** conversion also listed.
 
 {{% blocks/products/pf/feature-page-code h3="Java PowerPoint to Excel Conversion" %}}
 

@@ -16,10 +16,10 @@ Genom att använda [Aspose.Total for Java](https://products.aspose.com/total/jav
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertera JSON-format till PCL via Java" %}}
-1. Skapa ett nytt [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) objekt och läs giltig JSON-data från filen
-2. Importera JSON-fil till kalkylblad med klassen [JsonUtility](https://apireference.aspose.com/cells/java/com.aspose.cells/JsonUtility) och [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) den som PDF
-3. Ladda PDF-dokument genom att använda klassen [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Spara dokumentet i PCL-format med [Spara](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metod
+1. Skapa ett nytt [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) objekt och läs giltig JSON-data från filen
+2. Importera JSON-fil till kalkylblad med klassen [JsonUtility](https://reference.aspose.com/cells/java/com.aspose.cells/JsonUtility) och [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) den som PDF
+3. Ladda PDF-dokument genom att använda klassen [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. Spara dokumentet i PCL-format med [Spara](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metod
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
 Du kan enkelt använda Aspose.Total för Java direkt från ett [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) baserat projekt och inkludera bibliotek i din pom.xml.
@@ -34,7 +34,7 @@ Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Konverteringskrav" %}}
-Dessutom tillåter API:et dig att ställa in layoutalternativ för din JSON medan du analyserar JSON till PCL med [JsonLayoutOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonlayoutoptions). Det låter dig bearbeta Array som en tabell, ignorera nollvärden, ignorera arraytitel, ignorera objekttitel, konvertera sträng till nummer eller datum, ställa in datum och nummerformat och ställa in titelstil. Alla dessa alternativ låter dig presentera din data enligt dina behov. Följande kodavsnitt visar hur du ställer in layoutalternativen.  
+Dessutom tillåter API:et dig att ställa in layoutalternativ för din JSON medan du analyserar JSON till PCL med [JsonLayoutOptions](https://reference.aspose.com/cells/java/com.aspose.cells/jsonlayoutoptions). Det låter dig bearbeta Array som en tabell, ignorera nollvärden, ignorera arraytitel, ignorera objekttitel, konvertera sträng till nummer eller datum, ställa in datum och nummerformat och ställa in titelstil. Alla dessa alternativ låter dig presentera din data enligt dina behov. Följande kodavsnitt visar hur du ställer in layoutalternativen.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "set-layout-and-parse-json-to-doc.java" >}}
@@ -42,7 +42,7 @@ Dessutom tillåter API:et dig att ställa in layoutalternativ för din JSON meda
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Ställ in layout och konvertera JSON-format till PCL via Java" %}}
-Med hjälp av API:t kan du också analysera JSON till PCL med vattenstämpel. För att lägga till en vattenstämpel till ditt PCL-dokument kan du först konvertera JSON-filen till PDF och lägga till en vattenstämpel till den. För att lägga till en vattenstämpel, ladda den nyskapade PDF-filen med klassen [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document), skapa en instans av TextWatermarkOptions och ställ in dess egenskaper, anrop Watermark.setText-metoden och skicka vattenstämpeltext och objekt av TextWatermarkOptions. Efter att ha lagt till vattenstämpeln kan du spara dokumentet i PCL. 
+Med hjälp av API:t kan du också analysera JSON till PCL med vattenstämpel. För att lägga till en vattenstämpel till ditt PCL-dokument kan du först konvertera JSON-filen till PDF och lägga till en vattenstämpel till den. För att lägga till en vattenstämpel, ladda den nyskapade PDF-filen med klassen [Document](https://reference.aspose.com/words/java/com.aspose.words/Document), skapa en instans av TextWatermarkOptions och ställ in dess egenskaper, anrop Watermark.setText-metoden och skicka vattenstämpeltext och objekt av TextWatermarkOptions. Efter att ha lagt till vattenstämpeln kan du spara dokumentet i PCL. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "parse-json-to-word-with-watermark.cs" >}}

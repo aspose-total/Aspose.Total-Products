@@ -18,10 +18,10 @@ otherformats: XAMLFLOW RTF PCL DOTM OTT MARKDOWN DOTX PS ODT MHTML FLATOPC DOT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API C# pour convertir TEX en DOTM" %}}
-1. Ouvrez le fichier TEX à l'aide de la classe [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convertir TEX en Doc en utilisant la méthode [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
-3. Chargez le fichier Doc en utilisant la classe [Document](https://apireference.aspose.com/words/net/aspose.words/document) de Aspose.Words
-4. Enregistrez le document au format DOTM à l'aide de la méthode [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) et définissez Dotm comme SaveFormat
+1. Ouvrez le fichier TEX à l'aide de la classe [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
+2. Convertir TEX en Doc en utilisant la méthode [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. Chargez le fichier Doc en utilisant la classe [Document](https://reference.aspose.com/words/net/aspose.words/document) de Aspose.Words
+4. Enregistrez le document au format DOTM à l'aide de la méthode [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) et définissez Dotm comme SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
@@ -47,7 +47,7 @@ outputDocument.Save("output.dotm", SaveFormat.Dotm);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Décrypter le fichier TEX en utilisant le mot de passe du propriétaire via .NET" %}}
-Avant de convertir TEX en DOTM, si vous souhaitez décrypter votre document, vous pouvez le faire en utilisant l'API. Pour déchiffrer le fichier PDF, vous devez d'abord créer un objet [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) et ouvrir le TEX à l'aide du mot de passe du propriétaire. Après cela, vous devez appeler la méthode [Decrypt](https://apireference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) de l'objet Document. Enfin, enregistrez le fichier mis à jour à l'aide de la méthode Save de l'objet Document.  
+Avant de convertir TEX en DOTM, si vous souhaitez décrypter votre document, vous pouvez le faire en utilisant l'API. Pour déchiffrer le fichier PDF, vous devez d'abord créer un objet [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) et ouvrir le TEX à l'aide du mot de passe du propriétaire. Après cela, vous devez appeler la méthode [Decrypt](https://reference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) de l'objet Document. Enfin, enregistrez le fichier mis à jour à l'aide de la méthode Save de l'objet Document.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -63,7 +63,7 @@ document.Save("Decrypt_out.doc");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Créer un fichier DOTM en lecture seule via .NET" %}}
-Afin de protéger votre DOTM contre la modification et d'empêcher d'autres personnes de modifier des informations sensibles et confidentielles dans votre document, vous pouvez également définir la protection du document à l'aide de l'API. Vous pouvez limiter la possibilité de modifier un document et n'autoriser que certaines actions avec celui-ci. Cela peut être fait à l'aide de l'API [Aspose.Words for .NET](https://products.aspose.com/words/net/). Il vous permet de contrôler la façon dont vous restreignez le contenu à l'aide du paramètre d'énumération [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype). Vous pouvez définir votre document en lecture seule en utilisant les lignes de code suivantes. 
+Afin de protéger votre DOTM contre la modification et d'empêcher d'autres personnes de modifier des informations sensibles et confidentielles dans votre document, vous pouvez également définir la protection du document à l'aide de l'API. Vous pouvez limiter la possibilité de modifier un document et n'autoriser que certaines actions avec celui-ci. Cela peut être fait à l'aide de l'API [Aspose.Words for .NET](https://products.aspose.com/words/net/). Il vous permet de contrôler la façon dont vous restreignez le contenu à l'aide du paramètre d'énumération [ProtectionType](https://reference.aspose.com/words/net/aspose.words/protectiontype). Vous pouvez définir votre document en lecture seule en utilisant les lignes de code suivantes. 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

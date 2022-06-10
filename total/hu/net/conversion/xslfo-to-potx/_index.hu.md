@@ -18,10 +18,10 @@ Hatékony fájlformátum-automatizálási API-k csomagja [Aspose.Total for .NET]
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API a XSLFO POTX-vé konvertálásához" %}}
-1. Nyissa meg a XSLFO-fájlt a [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) osztály használatával
-2. Konvertálja a XSLFO-et PPTX-vé a [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) módszerrel
-3. Töltse be a PPTX fájlt a [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) osztály használatával
-4. Mentse a dokumentumot POTX-formátumba a [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) metódussal, és állítsa be az `Potx-t SaveFormat-ként.
+1. Nyissa meg a XSLFO-fájlt a [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) osztály használatával
+2. Konvertálja a XSLFO-et PPTX-vé a [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) módszerrel
+3. Töltse be a PPTX fájlt a [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) osztály használatával
+4. Mentse a dokumentumot POTX-formátumba a [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) metódussal, és állítsa be az `Potx-t SaveFormat-ként.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
@@ -47,7 +47,7 @@ presentation.Save("output.potx", SaveFormat.Potx);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="XMP-metaadatok beszerzése a XSLFO-fájlból .NET-en keresztül" %}}
-A XSLFO POTX-re konvertálása közben előfordulhat, hogy további XMP-metaadat-információkra lesz szüksége a kötegelt átalakítási folyamat prioritásainak meghatározásához. Például beszerezheti és rendezheti a konverziós dokumentumokat a létrehozás dátuma alapján, és ennek megfelelően dolgozhatja fel a dokumentumokat. Az [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) lehetővé teszi a XSLFO-fájlok XMP-metaadatainak elérését. A XSLFO-fájl metaadatainak lekéréséhez létrehozhat egy [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) objektumot, és megnyithatja a bemeneti XSLFO-fájlt. Ezt követően a [Metadata](https://apireference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata) tulajdonság segítségével szerezheti be a fájl metaadatait.  
+A XSLFO POTX-re konvertálása közben előfordulhat, hogy további XMP-metaadat-információkra lesz szüksége a kötegelt átalakítási folyamat prioritásainak meghatározásához. Például beszerezheti és rendezheti a konverziós dokumentumokat a létrehozás dátuma alapján, és ennek megfelelően dolgozhatja fel a dokumentumokat. Az [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) lehetővé teszi a XSLFO-fájlok XMP-metaadatainak elérését. A XSLFO-fájl metaadatainak lekéréséhez létrehozhat egy [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) objektumot, és megnyithatja a bemeneti XSLFO-fájlt. Ezt követően a [Metadata](https://reference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata) tulajdonság segítségével szerezheti be a fájl metaadatait.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

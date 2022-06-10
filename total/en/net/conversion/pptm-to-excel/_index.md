@@ -18,10 +18,10 @@ By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="How to Convert PPTM to EXCEL via C#" %}}
-1. Open PPTM file using [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) class
-2. Export PPTM as HTML by using [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method
-3. Load HTML document by using [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) class 
-4. Save the document to EXCEL using [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method
+1. Open PPTM file using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class
+2. Export PPTM as HTML by using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method
+3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+4. Save the document to EXCEL using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="PPTM File Conversion in C#" %}}

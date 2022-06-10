@@ -18,10 +18,10 @@ otherformats: FLATOPC ODT DOCM WORDML RTF EPUB DOC PS WORD MOBI DOT OTT DOTX PCL
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование формата JSON в MOBI через C#" %}}
-1. Создайте новый объект [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) и прочитайте действительные данные JSON из файла.
-2. Импортируйте файл JSON на лист, используя класс [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) и [Сохранить](https://apireference.aspose.com/ Cells/net/aspose.cells.workbook/save/methods/4) в формате PDF
-3. Загрузите документ PDF с помощью класса [Document](https://apireference.aspose.com/words/net/aspose.words/document).
-4. Сохраните документ в формате MOBI, используя метод [Сохранить](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3).
+1. Создайте новый объект [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) и прочитайте действительные данные JSON из файла.
+2. Импортируйте файл JSON на лист, используя класс [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) и [Сохранить](https://reference.aspose.com/ Cells/net/aspose.cells.workbook/save/methods/4) в формате PDF
+3. Загрузите документ PDF с помощью класса [Document](https://reference.aspose.com/words/net/aspose.words/document).
+4. Сохраните документ в формате MOBI, используя метод [Сохранить](https://reference.aspose.com/words/net/aspose.words.document/save/methods/3).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}
@@ -39,7 +39,7 @@ otherformats: FLATOPC ODT DOCM WORDML RTF EPUB DOC PS WORD MOBI DOT OTT DOTX PCL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Установить макет и преобразовать формат JSON в MOBI через С#" %}}
-При синтаксическом анализе JSON в MOBI вы также можете установить параметры макета для вашего JSON с помощью [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Он позволяет обрабатывать массив как таблицу, игнорировать нули, игнорировать заголовок массива, игнорировать заголовок объекта, преобразовывать строку в число или дату, устанавливать формат даты и числа и устанавливать стиль заголовка. Все эти параметры позволяют вам представить ваши данные в соответствии с вашими потребностями. В следующем фрагменте кода показано, как установить параметры макета.  
+При синтаксическом анализе JSON в MOBI вы также можете установить параметры макета для вашего JSON с помощью [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Он позволяет обрабатывать массив как таблицу, игнорировать нули, игнорировать заголовок массива, игнорировать заголовок объекта, преобразовывать строку в число или дату, устанавливать формат даты и числа и устанавливать стиль заголовка. Все эти параметры позволяют вам представить ваши данные в соответствии с вашими потребностями. В следующем фрагменте кода показано, как установить параметры макета.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "set-layout-and-parse-json-to-doc.cs" >}}
@@ -48,7 +48,7 @@ otherformats: FLATOPC ODT DOCM WORDML RTF EPUB DOC PS WORD MOBI DOT OTT DOTX PCL
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Разобрать формат JSON в MOBI с водяным знаком" %}}
-Используя API, вы также можете конвертировать JSON в MOBI с водяным знаком. Чтобы добавить водяной знак в ваш документ MOBI, вы можете сначала преобразовать файл JSON в PDF и добавить к нему водяной знак. Чтобы добавить водяной знак, загрузите только что созданный файл PDF с помощью класса [Document](https://apireference.aspose.com/words/net/aspose.words/document), создайте экземпляр TextWatermarkOptions и задайте его свойства. , Вызовите метод Watermark.SetText и передайте текст водяного знака и объект TextWatermarkOptions. После добавления водяного знака вы можете сохранить документ в MOBI. 
+Используя API, вы также можете конвертировать JSON в MOBI с водяным знаком. Чтобы добавить водяной знак в ваш документ MOBI, вы можете сначала преобразовать файл JSON в PDF и добавить к нему водяной знак. Чтобы добавить водяной знак, загрузите только что созданный файл PDF с помощью класса [Document](https://reference.aspose.com/words/net/aspose.words/document), создайте экземпляр TextWatermarkOptions и задайте его свойства. , Вызовите метод Watermark.SetText и передайте текст водяного знака и объект TextWatermarkOptions. После добавления водяного знака вы можете сохранить документ в MOBI. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}

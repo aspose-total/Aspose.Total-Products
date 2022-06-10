@@ -18,10 +18,10 @@ otherformats: DOTM PS PCL OTT FLATOPC ODT MARKDOWN WORDML DOT XAMLFLOW RTF DOTX
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API เพื่อแปลง MHTML เป็น ODT" %}}
-1. เปิดไฟล์ MHTML โดยใช้คลาส [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
-2. แปลง MHTML เป็น Doc โดยใช้วิธีการ [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
-3. โหลดไฟล์ Doc โดยใช้ [Document](https://apireference.aspose.com/words/net/aspose.words/document) คลาสของ Aspose.Words
-4. บันทึกเอกสารในรูปแบบ ODT โดยใช้เมธอด [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) และตั้งค่า Odt เป็น SaveFormat
+1. เปิดไฟล์ MHTML โดยใช้คลาส [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
+2. แปลง MHTML เป็น Doc โดยใช้วิธีการ [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. โหลดไฟล์ Doc โดยใช้ [Document](https://reference.aspose.com/words/net/aspose.words/document) คลาสของ Aspose.Words
+4. บันทึกเอกสารในรูปแบบ ODT โดยใช้เมธอด [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) และตั้งค่า Odt เป็น SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
@@ -47,7 +47,7 @@ outputDocument.Save("output.odt", SaveFormat.Odt);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="ถอดรหัสไฟล์ MHTML โดยใช้รหัสผ่านเจ้าของผ่าน .NET" %}}
-ก่อนที่จะแปลง MHTML เป็น ODT หากคุณต้องการถอดรหัสเอกสารของคุณ คุณสามารถทำได้โดยใช้ API ในการถอดรหัสไฟล์ PDF ก่อนอื่นคุณต้องสร้างวัตถุ [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) และเปิด MHTML โดยใช้รหัสผ่านของเจ้าของ หลังจากนั้น คุณต้องเรียกใช้เมธอด [Decrypt](https://apireference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) ของออบเจกต์ Document สุดท้าย บันทึกไฟล์ที่อัปเดตโดยใช้วิธีบันทึกของวัตถุเอกสาร  
+ก่อนที่จะแปลง MHTML เป็น ODT หากคุณต้องการถอดรหัสเอกสารของคุณ คุณสามารถทำได้โดยใช้ API ในการถอดรหัสไฟล์ PDF ก่อนอื่นคุณต้องสร้างวัตถุ [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) และเปิด MHTML โดยใช้รหัสผ่านของเจ้าของ หลังจากนั้น คุณต้องเรียกใช้เมธอด [Decrypt](https://reference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) ของออบเจกต์ Document สุดท้าย บันทึกไฟล์ที่อัปเดตโดยใช้วิธีบันทึกของวัตถุเอกสาร  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -63,7 +63,7 @@ document.Save("Decrypt_out.doc");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="สร้างไฟล์ ODT แบบอ่านอย่างเดียวผ่าน .NET" %}}
-เพื่อป้องกัน ODT ของคุณจากการแก้ไขและป้องกันไม่ให้ผู้อื่นแก้ไขข้อมูลที่ละเอียดอ่อนและเป็นความลับในเอกสารของคุณ คุณยังสามารถตั้งค่าการป้องกันเอกสารโดยใช้ API ได้อีกด้วย คุณสามารถจำกัดความสามารถในการแก้ไขเอกสารและอนุญาตเฉพาะการดำเนินการบางอย่างกับเอกสารเท่านั้น ซึ่งสามารถทำได้โดยใช้ API [Aspose.Words for .NET](https://products.aspose.com/words/net/) ช่วยให้คุณควบคุมวิธีการจำกัดเนื้อหาโดยใช้พารามิเตอร์การแจงนับ [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype) คุณสามารถตั้งค่าเอกสารของคุณเป็นแบบอ่านอย่างเดียวโดยใช้รหัสบรรทัดต่อไปนี้ 
+เพื่อป้องกัน ODT ของคุณจากการแก้ไขและป้องกันไม่ให้ผู้อื่นแก้ไขข้อมูลที่ละเอียดอ่อนและเป็นความลับในเอกสารของคุณ คุณยังสามารถตั้งค่าการป้องกันเอกสารโดยใช้ API ได้อีกด้วย คุณสามารถจำกัดความสามารถในการแก้ไขเอกสารและอนุญาตเฉพาะการดำเนินการบางอย่างกับเอกสารเท่านั้น ซึ่งสามารถทำได้โดยใช้ API [Aspose.Words for .NET](https://products.aspose.com/words/net/) ช่วยให้คุณควบคุมวิธีการจำกัดเนื้อหาโดยใช้พารามิเตอร์การแจงนับ [ProtectionType](https://reference.aspose.com/words/net/aspose.words/protectiontype) คุณสามารถตั้งค่าเอกสารของคุณเป็นแบบอ่านอย่างเดียวโดยใช้รหัสบรรทัดต่อไปนี้ 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

@@ -18,10 +18,10 @@ Jika Anda adalah pengembang .NET yang ingin menambahkan fitur konversi EMAIL ke 
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API untuk Mengonversi EMAIL ke DOT" %}}
-1. Buka file EMAIL menggunakan kelas [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage)
-2. Konversi EMAIL ke HTML dengan menggunakan metode [Simpan](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
-3. Muat HTML dengan menggunakan kelas [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-4. Simpan dokumen ke format DOT menggunakan metode [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) dan atur Dot sebagai SaveFormat
+1. Buka file EMAIL menggunakan kelas [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage)
+2. Konversi EMAIL ke HTML dengan menggunakan metode [Simpan](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
+3. Muat HTML dengan menggunakan kelas [Document](https://reference.aspose.com/words/net/aspose.words/document)
+4. Simpan dokumen ke format DOT menggunakan metode [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) dan atur Dot sebagai SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
@@ -47,7 +47,7 @@ document.Save("output.dot", SaveFormat.Dot);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Parsing File EMAIL melalui .NET" %}}
-Sebelum mengonversi EMAIL ke DOT, jika Anda ingin memastikan bahwa Anda mengonversi email yang benar, Anda dapat memuat dokumen EMAIL, menguraikannya dan melihat properti yang Anda inginkan. Dengan menggunakan kelas [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) dari [Aspose.Email for .NET](https://products.aspose.com/email /net/) API, Anda bisa mendapatkan informasi pengirim dan penerima. Misalnya, Anda dapat memeriksa email pengirim tertentu untuk konversi dengan menggunakan properti [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
+Sebelum mengonversi EMAIL ke DOT, jika Anda ingin memastikan bahwa Anda mengonversi email yang benar, Anda dapat memuat dokumen EMAIL, menguraikannya dan melihat properti yang Anda inginkan. Dengan menggunakan kelas [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) dari [Aspose.Email for .NET](https://products.aspose.com/email /net/) API, Anda bisa mendapatkan informasi pengirim dan penerima. Misalnya, Anda dapat memeriksa email pengirim tertentu untuk konversi dengan menggunakan properti [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

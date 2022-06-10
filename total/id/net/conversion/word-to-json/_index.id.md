@@ -18,10 +18,10 @@ Dengan menggunakan [Aspose.Total for .NET](https://products.aspose.com/total/net
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konversi Format WORD ke JSON melalui C#" %}}
-1. Buka file WORD menggunakan kelas [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-2. Konversi WORD ke HTML dengan menggunakan metode [Simpan](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)
-3. Muat dokumen HTML dengan menggunakan kelas [Buku Kerja](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Simpan dokumen ke format JSON menggunakan metode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+1. Buka file WORD menggunakan kelas [Document](https://reference.aspose.com/words/net/aspose.words/document)
+2. Konversi WORD ke HTML dengan menggunakan metode [Simpan](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. Muat dokumen HTML dengan menggunakan kelas [Buku Kerja](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Simpan dokumen ke format JSON menggunakan metode [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}

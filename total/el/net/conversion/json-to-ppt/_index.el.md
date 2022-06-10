@@ -18,10 +18,10 @@ otherformats: PPSM POT POTM PPS OTP POWERPOINT PPTM PPT PPSX POTX
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Μετατροπή μορφής JSON σε PPT μέσω C#" %}}
-1. Δημιουργήστε ένα νέο αντικείμενο [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/bookbook) και διαβάστε έγκυρα δεδομένα JSON από το αρχείο
-2. Εισαγάγετε αρχείο JSON στο φύλλο εργασίας χρησιμοποιώντας την κλάση [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) και το [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) το ως PPTX
-3. Φορτώστε το έγγραφο PPTX χρησιμοποιώντας την κλάση [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-4. Αποθηκεύστε το έγγραφο σε μορφή PPT χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+1. Δημιουργήστε ένα νέο αντικείμενο [Workbook](https://reference.aspose.com/cells/net/aspose.cells/bookbook) και διαβάστε έγκυρα δεδομένα JSON από το αρχείο
+2. Εισαγάγετε αρχείο JSON στο φύλλο εργασίας χρησιμοποιώντας την κλάση [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) και το [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) το ως PPTX
+3. Φορτώστε το έγγραφο PPTX χρησιμοποιώντας την κλάση [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+4. Αποθηκεύστε το έγγραφο σε μορφή PPT χρησιμοποιώντας τη μέθοδο [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
@@ -39,7 +39,7 @@ otherformats: PPSM POT POTM PPS OTP POWERPOINT PPTM PPT PPSX POTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ορισμός διάταξης και μετατροπή μορφής JSON σε PPT μέσω C#" %}}
-Κατά την ανάλυση του JSON σε PPT, μπορείτε επίσης να ορίσετε επιλογές διάταξης για τη μορφή JSON χρησιμοποιώντας το [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Σας επιτρέπει να επεξεργαστείτε τον πίνακα ως πίνακα, να αγνοήσετε τα μηδενικά, να αγνοήσετε τον τίτλο του πίνακα, να αγνοήσετε τον τίτλο του αντικειμένου, να μετατρέψετε τη συμβολοσειρά σε αριθμό ή ημερομηνία, να ορίσετε μορφή ημερομηνίας και αριθμού και να ορίσετε στυλ τίτλου. Όλες αυτές οι επιλογές σάς επιτρέπουν να παρουσιάζετε τα δεδομένα σας σύμφωνα με τις ανάγκες σας. Το παρακάτω απόσπασμα κώδικα σάς δείχνει πώς να ορίσετε τις επιλογές διάταξης.  
+Κατά την ανάλυση του JSON σε PPT, μπορείτε επίσης να ορίσετε επιλογές διάταξης για τη μορφή JSON χρησιμοποιώντας το [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Σας επιτρέπει να επεξεργαστείτε τον πίνακα ως πίνακα, να αγνοήσετε τα μηδενικά, να αγνοήσετε τον τίτλο του πίνακα, να αγνοήσετε τον τίτλο του αντικειμένου, να μετατρέψετε τη συμβολοσειρά σε αριθμό ή ημερομηνία, να ορίσετε μορφή ημερομηνίας και αριθμού και να ορίσετε στυλ τίτλου. Όλες αυτές οι επιλογές σάς επιτρέπουν να παρουσιάζετε τα δεδομένα σας σύμφωνα με τις ανάγκες σας. Το παρακάτω απόσπασμα κώδικα σάς δείχνει πώς να ορίσετε τις επιλογές διάταξης.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "set-layout-and-parse-json-to-powerpoint.cs" >}}
@@ -48,7 +48,7 @@ otherformats: PPSM POT POTM PPS OTP POWERPOINT PPTM PPT PPSX POTX
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Μετατρέψτε τη μορφή JSON σε PPT με υδατογράφημα" %}}
-Χρησιμοποιώντας το API, μπορείτε επίσης να μετατρέψετε JSON σε PPT με υδατογράφημα. Για να προσθέσετε ένα υδατογράφημα στο έγγραφο PPT, μπορείτε πρώτα να αναλύσετε το JSON σε PPTX και να προσθέσετε ένα υδατογράφημα σε αυτό. Για να προσθέσετε ένα υδατογράφημα, φορτώστε το νέο αρχείο PPTX χρησιμοποιώντας την κλάση [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation), επιλέξτε την κύρια παρουσίαση, προσθέστε τύπο σχήματος χρησιμοποιώντας AddAutoShape και προσθέστε κείμενο υδατογραφήματος χρησιμοποιώντας το AddTextFrame. Αφού προσθέσετε το υδατογράφημα, μπορείτε να αποθηκεύσετε το έγγραφο στο PPT. 
+Χρησιμοποιώντας το API, μπορείτε επίσης να μετατρέψετε JSON σε PPT με υδατογράφημα. Για να προσθέσετε ένα υδατογράφημα στο έγγραφο PPT, μπορείτε πρώτα να αναλύσετε το JSON σε PPTX και να προσθέσετε ένα υδατογράφημα σε αυτό. Για να προσθέσετε ένα υδατογράφημα, φορτώστε το νέο αρχείο PPTX χρησιμοποιώντας την κλάση [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation), επιλέξτε την κύρια παρουσίαση, προσθέστε τύπο σχήματος χρησιμοποιώντας AddAutoShape και προσθέστε κείμενο υδατογραφήματος χρησιμοποιώντας το AddTextFrame. Αφού προσθέσετε το υδατογράφημα, μπορείτε να αποθηκεύσετε το έγγραφο στο PPT. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}

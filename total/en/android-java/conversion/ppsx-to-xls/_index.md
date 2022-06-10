@@ -18,10 +18,10 @@ You can easily convert PPSX file to XLS in your Android applications in a two-st
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="How to Convert PPSX to XLS in Android" %}}
-1. Open PPSX file using [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) class
-2. Convert PPSX to HTML by using [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method
-3. Load HTML document by using [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) class
-4. Save the document to XLS format using [save](https://apireference.aspose.com/cells/java/com.aspose.cells/)
+1. Open PPSX file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
+2. Convert PPSX to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method
+3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
+4. Save the document to XLS format using [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="PPSX File Conversion in Android" %}}

@@ -26,8 +26,8 @@ Total API 不仅支持 Microsoft Word 格式的相互转换，还支持将 Word 
 
 
 {{% blocks/products/pf/feature-page-section  h2="将 PDF 转换为图像" %}}
-API 支持将 PDF 转换为图像、Powerpoint、Excel 等格式。对于 PDF 到图像的转换，让我们将 JPG 图像视为目标文件。过程是，使用 Document 类加载 PDF 文件并初始化 [JpegDevice 类](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) 对象并通过 [Process](https) 将 PDF 渲染为 JPEG ://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) 方法
-使用 [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) 类加载 JPEG 文件，最后调用 Save 方法。
+API 支持将 PDF 转换为图像、Powerpoint、Excel 等格式。对于 PDF 到图像的转换，让我们将 JPG 图像视为目标文件。过程是，使用 Document 类加载 PDF 文件并初始化 [JpegDevice 类](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) 对象并通过 [Process](https) 将 PDF 渲染为 JPEG ://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) 方法
+使用 [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) 类加载 JPEG 文件，最后调用 Save 方法。
 
 {{% blocks/products/pf/feature-page-code h3="C# - PDF 到图像的转换" %}}
 
@@ -41,7 +41,7 @@ API 支持将 PDF 转换为图像、Powerpoint、Excel 等格式。对于 PDF �
 
 {{% blocks/products/pf/feature-page-section  h2="将 Excel 转换为 Word 和 PowerPoint" %}}
 
-用于将 Microsoft Excel 格式转换为包括 Word 和 PowerPoint 在内的不同文件，涉及主 Aspose.Total for .NET API 的相关子 API。 Excel文件转Word文件的过程，使用[Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)类加载EXCEL文件，先将EXCEL转为PDF，SaveFormat设置为Auto。然后使用 Document 类加载转换后的 PDF 文件并调用 Save 方法并将 Doc、Docx 设置为 SaveFormat。还列出了用于 Microsoft **Excel 到 Powerpoint** 转换的代码。
+用于将 Microsoft Excel 格式转换为包括 Word 和 PowerPoint 在内的不同文件，涉及主 Aspose.Total for .NET API 的相关子 API。 Excel文件转Word文件的过程，使用[Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)类加载EXCEL文件，先将EXCEL转为PDF，SaveFormat设置为Auto。然后使用 Document 类加载转换后的 PDF 文件并调用 Save 方法并将 Doc、Docx 设置为 SaveFormat。还列出了用于 Microsoft **Excel 到 Powerpoint** 转换的代码。
 
 {{% blocks/products/pf/feature-page-code h3="C# - JSON 到 Excel 转换" %}}
 

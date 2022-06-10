@@ -16,10 +16,10 @@ otherformats: OTT FLATOPCX DOTM DOT FLATOPC ODT WORD WORDML DOTX TEXT RTF FLATOP
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir PPS a FLATOPC a través de Java" %}}
-1. Abra el archivo PPS usando la clase [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Convierta PPS a HTML usando [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) y establezca Html como SaveFormat
-3. Cargue el archivo HTML convertido usando la clase [Flatopcumento](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument)
-4. Guarde el flatopcumento en formato FLATOPC usando el método [save](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,int))
+1. Abra el archivo PPS usando la clase [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. Convierta PPS a HTML usando [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) y establezca Html como SaveFormat
+3. Cargue el archivo HTML convertido usando la clase [Flatopcumento](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument)
+4. Guarde el flatopcumento en formato FLATOPC usando el método [save](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
 Para la conversión de archivos PPS a FLATOPC, puede usar fácilmente Aspose.Total para Java directamente desde un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e incluya bibliotecas en su pom.xml.
@@ -34,7 +34,7 @@ Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisitos de conversión" %}}
-Usando la API, también puede realizar una conversión de archivo PPS a FLATOPC con marca de agua. Para agregar una marca de agua a su flatopcumento FLATOPC, primero puede convertir el archivo PPS a HTML y agregarle una marca de agua. Para agregar una marca de agua, cargue el archivo HTML recién creado usando la clase [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument), cree una instancia de TextWatermarkOptions y configure sus propiedades, llame al método Watermark.setText y pase el texto y el objeto de la marca de agua de TextWatermarkOptions.  
+Usando la API, también puede realizar una conversión de archivo PPS a FLATOPC con marca de agua. Para agregar una marca de agua a su flatopcumento FLATOPC, primero puede convertir el archivo PPS a HTML y agregarle una marca de agua. Para agregar una marca de agua, cargue el archivo HTML recién creado usando la clase [Flatopcument](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument), cree una instancia de TextWatermarkOptions y configure sus propiedades, llame al método Watermark.setText y pase el texto y el objeto de la marca de agua de TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}

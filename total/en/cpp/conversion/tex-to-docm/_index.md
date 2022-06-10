@@ -18,10 +18,10 @@ otherformats: DOTM XAMLFLOW PCL RTF FLATOPC WORDML OTT DOTX MHTML ODT DOT PS
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API to Render TEX to DOCM" %}}
-1. Open TEX file using [Document](https://apireference.aspose.com/pdf/cpp/class/aspose.pdf.document) class reference
-2. Convert TEX to DOC by using [Save](https://apireference.aspose.com/pdf/cpp/class/aspose.pdf.document#adb8061c585440fde49c1263e68837f01) member function
-3. Load DOC file by using [Document](https://apireference.aspose.com/words/cpp/class/aspose.words.document) class reference of Aspose.Words API
-4. Save the document to DOCM format using [Save](https://apireference.aspose.com/words/cpp/class/aspose.words.document#save_stream_saveformat) member function
+1. Open TEX file using [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) class reference
+2. Convert TEX to DOC by using [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#adb8061c585440fde49c1263e68837f01) member function
+3. Load DOC file by using [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) class reference of Aspose.Words API
+4. Save the document to DOCM format using [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stream_saveformat) member function
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with C++ File Automation APIs" %}}
@@ -59,7 +59,7 @@ doc->Save(L"output.Doc");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Restrict DOCM File Editing via C++" %}}
-You can also restrict DOCM file editing using using [Aspose.Words for C++](https://products.aspose.com/words/cpp/) API. Sometimes you may need to limit the ability to edit a document and only allow certain actions with it. API enables you to control the way you restrict the content using the [ProtectionType](https://apireference.aspose.com/words/cpp/namespace/aspose.words#protectiontype) enumeration parameter. The following code example demonstrates how to restrict editing in a document so only editing in form fields is possible.
+You can also restrict DOCM file editing using using [Aspose.Words for C++](https://products.aspose.com/words/cpp/) API. Sometimes you may need to limit the ability to edit a document and only allow certain actions with it. API enables you to control the way you restrict the content using the [ProtectionType](https://reference.aspose.com/words/cpp/namespace/aspose.words#protectiontype) enumeration parameter. The following code example demonstrates how to restrict editing in a document so only editing in form fields is possible.
 {{% blocks/products/pf/feature-page-code %}}
 ```cpp
 // load Doc with an instance of Document

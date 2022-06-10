@@ -18,10 +18,10 @@ Jika Anda adalah pengembang .NET yang ingin menambahkan fitur konversi OFT ke FL
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API untuk Mengonversi OFT ke FLATOPC" %}}
-1. Buka file OFT menggunakan kelas [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage)
-2. Konversi OFT ke HTML dengan menggunakan metode [Simpan](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
-3. Muat HTML dengan menggunakan kelas [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-4. Simpan dokumen ke format FLATOPC menggunakan metode [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) dan atur Flatopc sebagai SaveFormat
+1. Buka file OFT menggunakan kelas [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage)
+2. Konversi OFT ke HTML dengan menggunakan metode [Simpan](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
+3. Muat HTML dengan menggunakan kelas [Document](https://reference.aspose.com/words/net/aspose.words/document)
+4. Simpan dokumen ke format FLATOPC menggunakan metode [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) dan atur Flatopc sebagai SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
@@ -47,7 +47,7 @@ document.Save("output.flatopc", SaveFormat.FlatOpc);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Parsing File OFT melalui .NET" %}}
-Sebelum mengonversi OFT ke FLATOPC, jika Anda ingin memastikan bahwa Anda mengonversi oft yang benar, Anda dapat memuat dokumen OFT, menguraikannya dan melihat properti yang Anda inginkan. Dengan menggunakan kelas [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) dari [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API, Anda bisa mendapatkan informasi pengirim dan penerima. Misalnya, Anda dapat memeriksa oft pengirim tertentu untuk konversi dengan menggunakan properti [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
+Sebelum mengonversi OFT ke FLATOPC, jika Anda ingin memastikan bahwa Anda mengonversi oft yang benar, Anda dapat memuat dokumen OFT, menguraikannya dan melihat properti yang Anda inginkan. Dengan menggunakan kelas [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) dari [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API, Anda bisa mendapatkan informasi pengirim dan penerima. Misalnya, Anda dapat memeriksa oft pengirim tertentu untuk konversi dengan menggunakan properti [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

@@ -16,11 +16,11 @@ Ofta måste utvecklare konvertera DOTX-fil till POTM programmatiskt. Genom att a
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hur man konverterar DOTX till POTM via Java" %}}
-1. Öppna DOTX-filen med klassen [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-2. Konvertera DOTX-fil till HTML genom att använda [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metod
-3. Initiera ett nytt [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) objekt
+1. Öppna DOTX-filen med klassen [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Konvertera DOTX-fil till HTML genom att använda [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metod
+3. Initiera ett nytt [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) objekt
 5. Extrahera innehåll från HTML-fil med BufferedReader och skriv innehållet i din presentationsfil
-6. Spara dokumentet till POTM med metoden [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. Spara dokumentet till POTM med metoden [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
 För konvertering av DOTX till POTM-fil kan du enkelt använda Aspose.Total för Java direkt från en [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) baserat projekt och inkludera bibliotek i din pom.xml.

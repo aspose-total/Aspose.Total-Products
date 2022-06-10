@@ -16,10 +16,10 @@ otherformats: PDF OTT DOTX TIFF DOTM XPS TEXT SVG MD EMF ODT DOCX GIF PCL DOT DO
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="EMAIL को MD में कैसे बदलें" %}}
-1. [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage) वर्ग का उपयोग करके EMAIL फ़ाइल खोलें
-2. [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) का उपयोग करके EMAIL को HTML में बदलें तरीका
-3. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) वर्ग का उपयोग करके HTML लोड करें
-4. [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) का उपयोग करके दस्तावेज़ को MD प्रारूप में सहेजें)) विधि और बीएमपी को SaveFormat के रूप में सेट करें
+1. [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage) वर्ग का उपयोग करके EMAIL फ़ाइल खोलें
+2. [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) का उपयोग करके EMAIL को HTML में बदलें तरीका
+3. [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) वर्ग का उपयोग करके HTML लोड करें
+4. [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) का उपयोग करके दस्तावेज़ को MD प्रारूप में सहेजें)) विधि और बीएमपी को SaveFormat के रूप में सेट करें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
 आपको [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) आधारित प्रोजेक्ट से सीधे जावा के लिए Aspose.Total का उपयोग करना होगा। और अपने pom.xml में पुस्तकालयों को शामिल करें।

@@ -18,10 +18,10 @@ Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can ea
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API to Convert XSLFO to XLTX" %}}
-1. Open XSLFO file using [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) class
-2. Convert XSLFO to XLSX by using [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load XLSX document by using [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) class 
-4. Save the document to XLTX format using [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Xltx` as SaveFormat
+1. Open XSLFO file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+2. Convert XSLFO to XLSX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
+3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+4. Save the document to XLTX format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Xltx` as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
@@ -36,7 +36,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert Protected XSLFO to XLTX via C#" %}}
-If your XSLFO document is password protected, you cannot convert it to XLTX without the password. Using the API, you can first open the protected document using a valid password and convert it after it.  In order to open the encrypted file, you can initialize a new instance of the [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) class and pass the filename and password as arguments. 
+If your XSLFO document is password protected, you cannot convert it to XLTX without the password. Using the API, you can first open the protected document using a valid password and convert it after it.  In order to open the encrypted file, you can initialize a new instance of the [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class and pass the filename and password as arguments. 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-password-protected-pdf-to-excel.cs" >}}
 {{% /blocks/products/pf/feature-page-code  %}}

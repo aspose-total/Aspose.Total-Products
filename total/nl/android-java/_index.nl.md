@@ -159,7 +159,7 @@ Aspose.Total is een krachtige suite om bijna alle soorten documenten met hoge sn
 {{< blocks/products/pf/slr-tab tabTitle="Leermiddelen" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentatie" href="https://docs.aspose.com/total/androidjava/" >}} 
 {{< blocks/products/pf/slr-element name="Broncode" href="http://aspose.github.io/" >}} 
-{{< blocks/products/pf/slr-element name="API-referenties toewijzen" href="https://apireference.aspose.com/" >}} 
+{{< blocks/products/pf/slr-element name="API-referenties toewijzen" href="https://reference.aspose.com/" >}} 
 {{< blocks/products/pf/slr-element name="Instructievideo's" href="https://www.youtube.com/user/asposevideo" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 

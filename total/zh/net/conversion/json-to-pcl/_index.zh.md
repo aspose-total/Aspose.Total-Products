@@ -18,10 +18,10 @@ otherformats: PS DOC DOTX DOCM RTF MOBI EPUB PCL OTT WORD ODT FLATOPC WORDML DOT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="通过 C# 将 JSON 格式转换为 PCL" %}}
-1. 创建一个新的 [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) 对象并从文件中读取有效的 JSON 数据
-2. 使用 [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) 类和 [Save](https://apireference.aspose.com/) 将 JSON 文件导入工作表cells/net/aspose.cells.workbook/save/methods/4) 以 PDF 格式
-3.使用[Document](https://apireference.aspose.com/words/net/aspose.words/document)类加载PDF文档
-4. 使用 [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3) 方法将文档保存为 PCL 格式
+1. 创建一个新的 [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 对象并从文件中读取有效的 JSON 数据
+2. 使用 [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) 类和 [Save](https://reference.aspose.com/) 将 JSON 文件导入工作表cells/net/aspose.cells.workbook/save/methods/4) 以 PDF 格式
+3.使用[Document](https://reference.aspose.com/words/net/aspose.words/document)类加载PDF文档
+4. 使用 [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/3) 方法将文档保存为 PCL 格式
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
@@ -39,7 +39,7 @@ otherformats: PS DOC DOTX DOCM RTF MOBI EPUB PCL OTT WORD ODT FLATOPC WORDML DOT
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="通过 C# 设置布局并将 JSON 格式转换为 PCL" %}}
-在将 JSON 解析为 PCL 时，您还可以使用 [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions) 为 JSON 设置布局选项。它允许您将 Array 处理为表格、忽略空值、忽略数组标题、忽略对象标题、将字符串转换为数字或日期、设置日期和数字格式以及设置标题样式。所有这些选项都允许您根据需要呈现数据。以下代码片段向您展示了如何设置布局选项。  
+在将 JSON 解析为 PCL 时，您还可以使用 [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions) 为 JSON 设置布局选项。它允许您将 Array 处理为表格、忽略空值、忽略数组标题、忽略对象标题、将字符串转换为数字或日期、设置日期和数字格式以及设置标题样式。所有这些选项都允许您根据需要呈现数据。以下代码片段向您展示了如何设置布局选项。  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "set-layout-and-parse-json-to-doc.cs" >}}
@@ -48,7 +48,7 @@ otherformats: PS DOC DOTX DOCM RTF MOBI EPUB PCL OTT WORD ODT FLATOPC WORDML DOT
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="将 JSON 格式解析为带水印的 PCL" %}}
-使用 API，您还可以将 JSON 转换为带水印的 PCL。为了给您的 PCL 文档添加水印，您可以首先将 JSON 文件解析为 PDF 并为其添加水印。为了添加水印，使用 [Document](https://apireference.aspose.com/words/net/aspose.words/document) 类加载新创建的 PDF 文件，创建 TextWatermarkOptions 的实例并设置其属性, 调用 Watermark.SetText 方法并传递水印文本和 TextWatermarkOptions 的对象。添加水印后，您可以将文档保存到 PCL。 
+使用 API，您还可以将 JSON 转换为带水印的 PCL。为了给您的 PCL 文档添加水印，您可以首先将 JSON 文件解析为 PDF 并为其添加水印。为了添加水印，使用 [Document](https://reference.aspose.com/words/net/aspose.words/document) 类加载新创建的 PDF 文件，创建 TextWatermarkOptions 的实例并设置其属性, 调用 Watermark.SetText 方法并传递水印文本和 TextWatermarkOptions 的对象。添加水印后，您可以将文档保存到 PCL。 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}

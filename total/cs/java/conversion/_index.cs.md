@@ -13,7 +13,7 @@ description: Převádějte aplikace Microsoft Office Word, Excel, PowerPoint, Ou
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Konverze z Wordu do Excelu" %}}
-Total API podporuje nejen inter konverzi formátů Microsoft Word, ale také konverzi Wordu do Excelu, PDF, HTML, obrázků, EPUB, Markdown a XPS. Proces konverze je jednoduchý. Podívejme se na případ převodu **Word do Excelu**. Načtěte soubor Microsoft Word pomocí třídy [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) a převeďte **WORD do HTML** pomocí [Metoda uložení](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)). Dále otevřete převedený dokument HTML pomocí třídy [Sešit](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) a uložte dokument do formátu XLSX pomocí [Uložit](https:/ /apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)).
+Total API podporuje nejen inter konverzi formátů Microsoft Word, ale také konverzi Wordu do Excelu, PDF, HTML, obrázků, EPUB, Markdown a XPS. Proces konverze je jednoduchý. Podívejme se na případ převodu **Word do Excelu**. Načtěte soubor Microsoft Word pomocí třídy [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) a převeďte **WORD do HTML** pomocí [Metoda uložení](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)). Dále otevřete převedený dokument HTML pomocí třídy [Sešit](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) a uložte dokument do formátu XLSX pomocí [Uložit](https:/ /apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)).
  Vývojáři mohou také převést [Word do PDF](https://products.aspose.com/words/java/conversion/word-to-pdf/).
 
 
@@ -27,8 +27,8 @@ Total API podporuje nejen inter konverzi formátů Microsoft Word, ale také kon
 
 
 {{% blocks/products/pf/feature-page-section  h2="Převést PDF na obrázky" %}}
-API podporuje převod PDF na obrázky jako JPEG2000, EMZ, WMZ, TGA, PSD, DXF, WMF, SVGZ, APNG, DICOM, Powerpoint, Excel a další formáty. Pro převod PDF na obrázek uvažujme obrázek JPG jako cílový soubor. Proces je, načtěte soubor PDF pomocí třídy Document a inicializujte objekt [JpegDevice class](https://apireference.aspose.com/pdf/java/aspose.pdf.devices/jpegdevice) a vykreslete PDF do JPEG pomocí [Process](https ://apireference.aspose.com/pdf/java/aspose.pdf.devices.pagedevice/process/methods/1) metoda
-Načtěte soubor JPEG pomocí třídy [Image](https://apireference.aspose.com/imaging/java/aspose.imaging/image) a nakonec zavolejte metodu Save.
+API podporuje převod PDF na obrázky jako JPEG2000, EMZ, WMZ, TGA, PSD, DXF, WMF, SVGZ, APNG, DICOM, Powerpoint, Excel a další formáty. Pro převod PDF na obrázek uvažujme obrázek JPG jako cílový soubor. Proces je, načtěte soubor PDF pomocí třídy Document a inicializujte objekt [JpegDevice class](https://reference.aspose.com/pdf/java/aspose.pdf.devices/jpegdevice) a vykreslete PDF do JPEG pomocí [Process](https ://apireference.aspose.com/pdf/java/aspose.pdf.devices.pagedevice/process/methods/1) metoda
+Načtěte soubor JPEG pomocí třídy [Image](https://reference.aspose.com/imaging/java/aspose.imaging/image) a nakonec zavolejte metodu Save.
 
 {{% blocks/products/pf/feature-page-code h3="Java PDF to Image Conversion" %}}
 
@@ -42,7 +42,7 @@ Načtěte soubor JPEG pomocí třídy [Image](https://apireference.aspose.com/im
 
 {{% blocks/products/pf/feature-page-section  h2="Převeďte PowerPoint na soubory Excel" %}}
 
-Pro převod souborů Microsoft PowerPoint do různých souborů, včetně Excel Word, MHTML, příslušných dílčích API zahrnutých do hlavního Aspose.Total pro Java API. Proces převodu souborů PowerPoint na dokument Excel, načtení souboru PowerPoint pomocí třídy [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) a převod **PowerPoint do HTML** pomocí pomocí metody [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-). Poté načtěte převedený dokument HTML pomocí třídy [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) a uložte dokument do formátu EXCEL pomocí [uložit](https:/ /apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)). Kód pro převod **PowerPoint do Wordu** je také uveden.
+Pro převod souborů Microsoft PowerPoint do různých souborů, včetně Excel Word, MHTML, příslušných dílčích API zahrnutých do hlavního Aspose.Total pro Java API. Proces převodu souborů PowerPoint na dokument Excel, načtení souboru PowerPoint pomocí třídy [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) a převod **PowerPoint do HTML** pomocí pomocí metody [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-). Poté načtěte převedený dokument HTML pomocí třídy [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) a uložte dokument do formátu EXCEL pomocí [uložit](https:/ /apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)). Kód pro převod **PowerPoint do Wordu** je také uveden.
 
 {{% blocks/products/pf/feature-page-code h3="Konverze Java PowerPoint do Excelu" %}}
 

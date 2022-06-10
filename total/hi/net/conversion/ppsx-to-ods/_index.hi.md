@@ -18,10 +18,10 @@ otherformats: XLTM MHTML MARKDOWN TSV XLS ODS FODS DIF XLSB XLT XLAM XLSM EXCEL 
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="सी # के माध्यम से पीओटी को सीएसवी में कैसे परिवर्तित करें" %}}
-1. [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) वर्ग का उपयोग करके PPSX फ़ाइल खोलें
-2. [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) पद्धति का उपयोग करके PPSX को HTML के रूप में निर्यात करें
-3. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) क्लास का इस्तेमाल करके एचटीएमएल दस्तावेज़ लोड करें
-4. [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) विधि का उपयोग करके दस्तावेज़ को ODS में सहेजें
+1. [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) वर्ग का उपयोग करके PPSX फ़ाइल खोलें
+2. [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) पद्धति का उपयोग करके PPSX को HTML के रूप में निर्यात करें
+3. [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) क्लास का इस्तेमाल करके एचटीएमएल दस्तावेज़ लोड करें
+4. [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) विधि का उपयोग करके दस्तावेज़ को ODS में सहेजें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}

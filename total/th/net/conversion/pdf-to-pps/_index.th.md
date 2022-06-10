@@ -18,10 +18,10 @@ otherformats: PPT PPSX PPTM XAML POTM OTP POTX PPS PPSM SWF POWERPOINT POT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API เพื่อแปลง PDF เป็น PPS" %}}
-1. เปิดไฟล์ PDF โดยใช้คลาส [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
-2. แปลง PDF เป็น PPTX โดยใช้วิธีการ [บันทึก](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
-3. โหลดไฟล์ PPTX โดยใช้คลาส [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-4. บันทึกเอกสารในรูปแบบ PPS โดยใช้วิธีการ [บันทึก](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) และตั้งค่า `Pps' เป็น SaveFormat
+1. เปิดไฟล์ PDF โดยใช้คลาส [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
+2. แปลง PDF เป็น PPTX โดยใช้วิธีการ [บันทึก](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. โหลดไฟล์ PPTX โดยใช้คลาส [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+4. บันทึกเอกสารในรูปแบบ PPS โดยใช้วิธีการ [บันทึก](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) และตั้งค่า `Pps' เป็น SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
@@ -47,7 +47,7 @@ presentation.Save("output.pps", SaveFormat.Pps);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="รับข้อมูลเมตา XMP จากไฟล์ PDF ผ่าน .NET" %}}
-ขณะแปลง PDF เป็น PPS คุณอาจต้องการข้อมูลเมตาดาต้า XMP เพิ่มเติมเพื่อจัดลำดับความสำคัญของกระบวนการแปลงแบทช์ของคุณ ตัวอย่างเช่น คุณสามารถรับและจัดเรียงเอกสารการแปลงของคุณตามวันที่สร้างและประมวลผลเอกสารตามนั้น [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) ให้คุณเข้าถึงข้อมูลเมตา XMP ของไฟล์ PDF หากต้องการรับข้อมูลเมตาของไฟล์ PDF ให้สร้างวัตถุ [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) และเปิดไฟล์ PDF ที่ป้อนเข้ามา หลังจากนั้น คุณจะรับข้อมูลเมตาของไฟล์ได้โดยใช้คุณสมบัติ [Metadata](https://apireference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata)  
+ขณะแปลง PDF เป็น PPS คุณอาจต้องการข้อมูลเมตาดาต้า XMP เพิ่มเติมเพื่อจัดลำดับความสำคัญของกระบวนการแปลงแบทช์ของคุณ ตัวอย่างเช่น คุณสามารถรับและจัดเรียงเอกสารการแปลงของคุณตามวันที่สร้างและประมวลผลเอกสารตามนั้น [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) ให้คุณเข้าถึงข้อมูลเมตา XMP ของไฟล์ PDF หากต้องการรับข้อมูลเมตาของไฟล์ PDF ให้สร้างวัตถุ [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) และเปิดไฟล์ PDF ที่ป้อนเข้ามา หลังจากนั้น คุณจะรับข้อมูลเมตาของไฟล์ได้โดยใช้คุณสมบัติ [Metadata](https://reference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata)  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

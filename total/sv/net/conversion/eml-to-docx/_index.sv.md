@@ -18,10 +18,10 @@ Om du är en .NET-utvecklare som vill lägga till EML till DOCX-konverteringsfun
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API för att konvertera EML till DOCX" %}}
-1. Öppna EML-filen med klassen [MailMessage](https://apireference.aspose.com/eml/net/aspose.eml/mailmessage)
-2. Konvertera EML till HTML med metoden [Save](https://apireference.aspose.com/eml/net/aspose.eml.mailmessage/save/methods/3)
-3. Ladda HTML genom att använda klassen [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-4. Spara dokumentet i DOCX-format med metoden [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) och ställ in Docx som SaveFormat
+1. Öppna EML-filen med klassen [MailMessage](https://reference.aspose.com/eml/net/aspose.eml/mailmessage)
+2. Konvertera EML till HTML med metoden [Save](https://reference.aspose.com/eml/net/aspose.eml.mailmessage/save/methods/3)
+3. Ladda HTML genom att använda klassen [Document](https://reference.aspose.com/words/net/aspose.words/document)
+4. Spara dokumentet i DOCX-format med metoden [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) och ställ in Docx som SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
@@ -47,7 +47,7 @@ document.Save("output.docx", SaveFormat.Docx);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analysera EML-fil via .NET" %}}
-Innan du konverterar EML till DOCX, om du vill vara säker på att du konverterar rätt e-post, kan du ladda EML-dokumentet, analysera det och ta en titt på din önskade egenskap. Genom att använda [MapiMessage](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage) klass av [Aspose.Email for .NET](https://products.aspose.com/eml /net/) API kan du få information om avsändare och mottagare. Du kan till exempel söka efter en specifik avsändar-e-post för konverteringen genom att använda egenskapen [SenderName](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage/properties/sendername).  
+Innan du konverterar EML till DOCX, om du vill vara säker på att du konverterar rätt e-post, kan du ladda EML-dokumentet, analysera det och ta en titt på din önskade egenskap. Genom att använda [MapiMessage](https://reference.aspose.com/eml/net/aspose.eml.mapi/mapimessage) klass av [Aspose.Email for .NET](https://products.aspose.com/eml /net/) API kan du få information om avsändare och mottagare. Du kan till exempel söka efter en specifik avsändar-e-post för konverteringen genom att använda egenskapen [SenderName](https://reference.aspose.com/eml/net/aspose.eml.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

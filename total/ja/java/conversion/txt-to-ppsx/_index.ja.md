@@ -16,11 +16,11 @@ otherformats: POT POTM PPS PPT PPTX PPSX POTX PPTM PPSM POWERPOINT CSV DIF FODS 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Javaを介してTXTをPPSXに変換する方法" %}}
-1. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Txtument)クラスを使用してTXTファイルを開きます
-2. [save](https://apireference.aspose.com/words/java/com.aspose.words/Txtument#save(java.lang.String,com.aspose.words.SaveOptions)を使用してTXTファイルをHTMLに変換します)) 方法
-3.新しい[Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)オブジェクトを初期化します
+1. [Document](https://reference.aspose.com/words/java/com.aspose.words/Txtument)クラスを使用してTXTファイルを開きます
+2. [save](https://reference.aspose.com/words/java/com.aspose.words/Txtument#save(java.lang.String,com.aspose.words.SaveOptions)を使用してTXTファイルをHTMLに変換します)) 方法
+3.新しい[Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)オブジェクトを初期化します
 5. BufferedReaderを使用してHTMLファイルからコンテンツを抽出し、プレゼンテーションファイルにコンテンツを書き込みます
-6. [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)メソッドを使用してドキュメントをPPSXに保存します
+6. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)メソッドを使用してドキュメントをPPSXに保存します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 TXTからPPSXファイルへの変換では、[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose)から直接Aspose.TotalforJavaを簡単に使用できます。 / aspose-total)ベースのプロジェクトであり、pom.xmlにライブラリを含めます。

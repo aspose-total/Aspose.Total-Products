@@ -18,10 +18,10 @@ Usando [Aspose.Total for .NET](https://products.aspose.com/total/net/) você pod
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET para converter TEX em EXCEL" %}}
-1. Abra o arquivo TEX usando a classe [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
-2. Converta TEX para XLSX usando o método [Salvar](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
-3. Carregue o documento XLSX usando a classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Salve o documento no formato EXCEL usando o método [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) e defina `Excel` como SaveFormat
+1. Abra o arquivo TEX usando a classe [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
+2. Converta TEX para XLSX usando o método [Salvar](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. Carregue o documento XLSX usando a classe [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Salve o documento no formato EXCEL usando o método [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) e defina `Excel` como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
@@ -39,7 +39,7 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Converter TEX Protegido para EXCEL via C#" %}}
-Se o seu documento TEX estiver protegido por senha, você não poderá convertê-lo em EXCEL sem a senha. Usando a API, você pode primeiro abrir o documento protegido usando uma senha válida e convertê-lo depois. Para abrir o arquivo criptografado, você pode inicializar uma nova instância da classe [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) e passar o nome do arquivo e a senha como argumentos.  
+Se o seu documento TEX estiver protegido por senha, você não poderá convertê-lo em EXCEL sem a senha. Usando a API, você pode primeiro abrir o documento protegido usando uma senha válida e convertê-lo depois. Para abrir o arquivo criptografado, você pode inicializar uma nova instância da classe [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) e passar o nome do arquivo e a senha como argumentos.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-password-protected-pdf-to-excel.cs" >}}

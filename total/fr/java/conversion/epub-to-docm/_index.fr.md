@@ -16,10 +16,10 @@ Vous pouvez convertir EPUB en DOCM en utilisant deux étapes simples. Vous devez
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API Java pour convertir EPUB en DOCM" %}}
-1. Ouvrez le fichier EPUB à l'aide de la classe [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)
-2. Convertissez EPUB en DOC en utilisant [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) méthode
-3. Chargez le fichier DOC en utilisant la classe [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) de Aspose.Words
-4. Enregistrez le document au format DOCM à l'aide de la méthode [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) et définissez DOCM en tant que format de sauvegarde
+1. Ouvrez le fichier EPUB à l'aide de la classe [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. Convertissez EPUB en DOC en utilisant [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) méthode
+3. Chargez le fichier DOC en utilisant la classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) de Aspose.Words
+4. Enregistrez le document au format DOCM à l'aide de la méthode [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) et définissez DOCM en tant que format de sauvegarde
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
 Vous pouvez facilement utiliser Aspose.Total pour Java directement à partir d'un projet basé sur [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et inclure [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) et [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) dans votre pom.xml.
@@ -42,7 +42,7 @@ outputDocument.save("output.docm", SaveFormat.DOCM);
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Exigences de conversion" %}}
-Lors de la conversion de EPUB en DOCM, même si votre document est protégé par un mot de passe, vous pouvez toujours l'ouvrir à l'aide de l'API de manipulation PDF [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). Pour ouvrir le fichier chiffré, vous devez créer un objet [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) et ouvrir le EPUB à l'aide du mot de passe du propriétaire.  
+Lors de la conversion de EPUB en DOCM, même si votre document est protégé par un mot de passe, vous pouvez toujours l'ouvrir à l'aide de l'API de manipulation PDF [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). Pour ouvrir le fichier chiffré, vous devez créer un objet [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) et ouvrir le EPUB à l'aide du mot de passe du propriétaire.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

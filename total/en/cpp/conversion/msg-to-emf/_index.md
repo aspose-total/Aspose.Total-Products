@@ -18,10 +18,10 @@ Are you are a C++ developer looking to add email conversion features inside your
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API to Convert MSG to EMF" %}}
-1. Open MSG file using [MailMessage](https://apireference.aspose.com/email/cpp/class/aspose.email.mail_message) class reference
-2. Convert MSG to HTML by using [Save](https://apireference.aspose.com/email/cpp/class/aspose.email.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786) member function 
-3. Load HTML by using [Document](https://apireference.aspose.com/words/cpp/class/aspose.words.document) class 
-4. Save the document to EMF format using [Save](https://apireference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) method and set Emf as SaveFormat
+1. Open MSG file using [MailMessage](https://reference.aspose.com/email/cpp/class/aspose.email.mail_message) class reference
+2. Convert MSG to HTML by using [Save](https://reference.aspose.com/email/cpp/class/aspose.email.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786) member function 
+3. Load HTML by using [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) class 
+4. Save the document to EMF format using [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) method and set Emf as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with C++ File Format APIs" %}}

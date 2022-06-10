@@ -18,10 +18,10 @@ Pomocí [Aspose.Total for .NET](https://products.aspose.com/total/net/) můžete
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Převést formát JSON na OTT přes C#" %}}
-1. Vytvořte nový objekt [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) a načtěte platná data JSON ze souboru
-2. Importujte soubor JSON do listu pomocí třídy [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) a [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) jej jako PDF
-3. Načtěte dokument PDF pomocí třídy [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-4. Uložte dokument do formátu OTT pomocí metody [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)
+1. Vytvořte nový objekt [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) a načtěte platná data JSON ze souboru
+2. Importujte soubor JSON do listu pomocí třídy [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) a [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) jej jako PDF
+3. Načtěte dokument PDF pomocí třídy [Document](https://reference.aspose.com/words/net/aspose.words/document)
+4. Uložte dokument do formátu OTT pomocí metody [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/3)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
@@ -39,7 +39,7 @@ Případně si stáhněte offline instalační program MSI nebo knihovny DLL v s
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Nastavte rozvržení a převeďte formát JSON na OTT přes C#" %}}
-Při analýze JSON na OTT můžete také nastavit možnosti rozvržení pro JSON pomocí [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Umožňuje zpracovat pole jako tabulku, ignorovat hodnoty null, ignorovat název pole, ignorovat název objektu, převést řetězec na číslo nebo datum, nastavit formát data a čísla a nastavit styl nadpisu. Všechny tyto možnosti vám umožňují prezentovat data podle vašich potřeb. Následující fragment kódu ukazuje, jak nastavit možnosti rozvržení.  
+Při analýze JSON na OTT můžete také nastavit možnosti rozvržení pro JSON pomocí [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Umožňuje zpracovat pole jako tabulku, ignorovat hodnoty null, ignorovat název pole, ignorovat název objektu, převést řetězec na číslo nebo datum, nastavit formát data a čísla a nastavit styl nadpisu. Všechny tyto možnosti vám umožňují prezentovat data podle vašich potřeb. Následující fragment kódu ukazuje, jak nastavit možnosti rozvržení.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "set-layout-and-parse-json-to-doc.cs" >}}
@@ -48,7 +48,7 @@ Při analýze JSON na OTT můžete také nastavit možnosti rozvržení pro JSON
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analyzujte formát JSON do OTT s vodoznakem" %}}
-Pomocí API můžete také převést JSON na OTT s vodoznakem. Chcete-li do dokumentu OTT přidat vodoznak, můžete nejprve analyzovat soubor JSON do PDF a přidat do něj vodoznak. Chcete-li přidat vodoznak, načtěte nově vytvořený soubor PDF pomocí třídy [Document](https://apireference.aspose.com/words/net/aspose.words/document), vytvořte instanci TextWatermarkOptions a nastavte její vlastnosti , Zavolejte metodu Watermark.SetText a předejte text vodoznaku a objekt TextWatermarkOptions. Po přidání vodoznaku můžete dokument uložit do OTT. 
+Pomocí API můžete také převést JSON na OTT s vodoznakem. Chcete-li do dokumentu OTT přidat vodoznak, můžete nejprve analyzovat soubor JSON do PDF a přidat do něj vodoznak. Chcete-li přidat vodoznak, načtěte nově vytvořený soubor PDF pomocí třídy [Document](https://reference.aspose.com/words/net/aspose.words/document), vytvořte instanci TextWatermarkOptions a nastavte její vlastnosti , Zavolejte metodu Watermark.SetText a předejte text vodoznaku a objekt TextWatermarkOptions. Po přidání vodoznaku můžete dokument uložit do OTT. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}

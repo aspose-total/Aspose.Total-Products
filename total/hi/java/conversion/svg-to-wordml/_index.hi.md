@@ -16,10 +16,10 @@ otherformats: XAMLFLOW DOTX ODT MARKDOWN MHTML WORDML RTF FLATOPC PCL OTT PS DOT
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="सीजीएम को डीओसीएम में बदलने के लिए जावा एपीआई" %}}
-1. [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) वर्ग का उपयोग करके सीजीएम फ़ाइल खोलें
-2. [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- का उपयोग करके SVG को DOC में बदलें। ) तरीका
-3. Aspose.Words के [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) वर्ग का उपयोग करके DOC फ़ाइल लोड करें
-4. [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) विधि का उपयोग करके दस्तावेज़ को WORDML प्रारूप में सहेजें और WORDML सेट करें SaveFormat के रूप में
+1. [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) वर्ग का उपयोग करके सीजीएम फ़ाइल खोलें
+2. [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- का उपयोग करके SVG को DOC में बदलें। ) तरीका
+3. Aspose.Words के [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) वर्ग का उपयोग करके DOC फ़ाइल लोड करें
+4. [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) विधि का उपयोग करके दस्तावेज़ को WORDML प्रारूप में सहेजें और WORDML सेट करें SaveFormat के रूप में
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
 आप [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) आधारित प्रोजेक्ट से सीधे Java के लिए Aspose.Total का आसानी से उपयोग कर सकते हैं और [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) और [Aspose.Words for Java](https://docs.aspose.com/words/java/) शामिल करें स्थापना/) अपने pom.xml में।
@@ -42,7 +42,7 @@ outputDocument.save("output.word_ml", SaveFormat.WORD_ML);
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="रूपांतरण आवश्यकताएँ" %}}
-SVG को WORDML में कनवर्ट करते समय, भले ही आपका दस्तावेज़ पासवर्ड से सुरक्षित हो, फिर भी आप PDF मैनिपुलेशन API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) का उपयोग करके इसे खोल सकते हैं। एन्क्रिप्ट की गई फ़ाइल को खोलने के लिए, आपको एक [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) ऑब्जेक्ट बनाना होगा और मालिक के पासवर्ड का उपयोग करके SVG खोलना होगा।  
+SVG को WORDML में कनवर्ट करते समय, भले ही आपका दस्तावेज़ पासवर्ड से सुरक्षित हो, फिर भी आप PDF मैनिपुलेशन API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) का उपयोग करके इसे खोल सकते हैं। एन्क्रिप्ट की गई फ़ाइल को खोलने के लिए, आपको एक [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) ऑब्जेक्ट बनाना होगा और मालिक के पासवर्ड का उपयोग करके SVG खोलना होगा।  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

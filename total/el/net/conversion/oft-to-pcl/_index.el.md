@@ -18,10 +18,10 @@ otherformats: FLATOPC ODT PDF RTF TIFF WORDML PNG DOT MD JPEG GIF DOCX EMF PCL D
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API για Μετατροπή OFT σε PCL" %}}
-1. Ανοίξτε το αρχείο OFT χρησιμοποιώντας την τάξη [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage)
-2. Μετατρέψτε το OFT σε HTML χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
-3. Φορτώστε το HTML χρησιμοποιώντας την κλάση [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-4. Αποθηκεύστε το έγγραφο σε μορφή PCL χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) και ορίστε το Pcl ως SaveFormat
+1. Ανοίξτε το αρχείο OFT χρησιμοποιώντας την τάξη [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage)
+2. Μετατρέψτε το OFT σε HTML χρησιμοποιώντας τη μέθοδο [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
+3. Φορτώστε το HTML χρησιμοποιώντας την κλάση [Document](https://reference.aspose.com/words/net/aspose.words/document)
+4. Αποθηκεύστε το έγγραφο σε μορφή PCL χρησιμοποιώντας τη μέθοδο [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) και ορίστε το Pcl ως SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
@@ -47,7 +47,7 @@ document.Save("output.pcl", SaveFormat.Pcl);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ανάλυση αρχείου OFT μέσω .NET" %}}
-Πριν μετατρέψετε το OFT σε PCL, εάν θέλετε να βεβαιωθείτε ότι μετατρέπετε το σωστό oft, μπορείτε να φορτώσετε το έγγραφο OFT, να το αναλύσετε και να ρίξετε μια ματιά στην επιθυμητή ιδιότητα. Χρησιμοποιώντας την κλάση [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) του [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API, μπορείτε να λάβετε πληροφορίες αποστολέα και παραληπτών. Για παράδειγμα, μπορείτε να ελέγξετε για ένα συγκεκριμένο μήνυμα ηλεκτρονικού ταχυδρομείου αποστολέα για τη μετατροπή χρησιμοποιώντας την ιδιότητα [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
+Πριν μετατρέψετε το OFT σε PCL, εάν θέλετε να βεβαιωθείτε ότι μετατρέπετε το σωστό oft, μπορείτε να φορτώσετε το έγγραφο OFT, να το αναλύσετε και να ρίξετε μια ματιά στην επιθυμητή ιδιότητα. Χρησιμοποιώντας την κλάση [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) του [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API, μπορείτε να λάβετε πληροφορίες αποστολέα και παραληπτών. Για παράδειγμα, μπορείτε να ελέγξετε για ένα συγκεκριμένο μήνυμα ηλεκτρονικού ταχυδρομείου αποστολέα για τη μετατροπή χρησιμοποιώντας την ιδιότητα [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

@@ -18,10 +18,10 @@ otherformats: PPSM POWERPOINT PPT POT POTM PPSX POTX OTP PPS PPTM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="تحويل تنسيق JSON إلى POTM عبر C#" %}}
-1. قم بإنشاء كائن [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) جديد  واقرأ بيانات JSON الصالحة من الملف
-2. استيراد ملف JSON إلى ورقة العمل باستخدام فئة [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) و [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)  أنها PPTX
-3. قم بتحميل مستند PPTX باستخدام فئة [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-4. احفظ المستند بتنسيق POTM باستخدام طريقة [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+1. قم بإنشاء كائن [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) جديد  واقرأ بيانات JSON الصالحة من الملف
+2. استيراد ملف JSON إلى ورقة العمل باستخدام فئة [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) و [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)  أنها PPTX
+3. قم بتحميل مستند PPTX باستخدام فئة [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+4. احفظ المستند بتنسيق POTM باستخدام طريقة [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
@@ -39,7 +39,7 @@ otherformats: PPSM POWERPOINT PPT POT POTM PPSX POTX OTP PPS PPTM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="تعيين التخطيط وتحويل تنسيق JSON إلى POTM عبر C#" %}}
-أثناء تحليل JSON إلى POTM ، يمكنك أيضًا تعيين خيارات التخطيط لتنسيق JSON باستخدام [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). يتيح لك معالجة الصفيف كجدول ، وتجاهل القيم الخالية ، وتجاهل عنوان الصفيف ، وتجاهل عنوان الكائن ، وتحويل السلسلة إلى رقم أو تاريخ ، وتعيين تنسيق التاريخ والأرقام ، وتعيين نمط العنوان. تتيح لك كل هذه الخيارات تقديم بياناتك وفقًا لاحتياجاتك. يوضح لك مقتطف الشفرة التالي كيفية تعيين خيارات التخطيط.  
+أثناء تحليل JSON إلى POTM ، يمكنك أيضًا تعيين خيارات التخطيط لتنسيق JSON باستخدام [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). يتيح لك معالجة الصفيف كجدول ، وتجاهل القيم الخالية ، وتجاهل عنوان الصفيف ، وتجاهل عنوان الكائن ، وتحويل السلسلة إلى رقم أو تاريخ ، وتعيين تنسيق التاريخ والأرقام ، وتعيين نمط العنوان. تتيح لك كل هذه الخيارات تقديم بياناتك وفقًا لاحتياجاتك. يوضح لك مقتطف الشفرة التالي كيفية تعيين خيارات التخطيط.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "set-layout-and-parse-json-to-powerpoint.cs" >}}
@@ -47,7 +47,7 @@ otherformats: PPSM POWERPOINT PPT POT POTM PPSX POTX OTP PPS PPTM
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="تحويل تنسيق JSON إلى POTM مع العلامة المائية" %}}
-باستخدام API ، يمكنك أيضًا تحويل JSON إلى POTM بعلامة مائية. لإضافة علامة مائية إلى مستند POTM الخاص بك ، يمكنك أولاً تحليل JSON إلى PPTX وإضافة علامة مائية إليه. لإضافة علامة مائية ، قم بتحميل ملف PPTX الذي تم إنشاؤه حديثًا باستخدام فئة [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) ، حدد العرض التقديمي الرئيسي ، أضف نوع الشكل باستخدام AddAutoShape وإضافة نص العلامة المائية باستخدام AddTextFrame. بعد إضافة العلامة المائية ، يمكنك حفظ المستند في POTM. 
+باستخدام API ، يمكنك أيضًا تحويل JSON إلى POTM بعلامة مائية. لإضافة علامة مائية إلى مستند POTM الخاص بك ، يمكنك أولاً تحليل JSON إلى PPTX وإضافة علامة مائية إليه. لإضافة علامة مائية ، قم بتحميل ملف PPTX الذي تم إنشاؤه حديثًا باستخدام فئة [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) ، حدد العرض التقديمي الرئيسي ، أضف نوع الشكل باستخدام AddAutoShape وإضافة نص العلامة المائية باستخدام AddTextFrame. بعد إضافة العلامة المائية ، يمكنك حفظ المستند في POTM. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}

@@ -18,10 +18,10 @@ Genom att använda [Aspose.Total for .NET](https://products.aspose.com/total/net
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertera JSON-format till APNG via C#" %}}
-1. Skapa ett nytt [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) objekt och läs JSON-data från filen
-2. Konvertera JSON till JPEG med metoden [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
-3. Ladda JPEG-dokument genom att använda klassen [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image)
-4. Spara dokumentet i APNG-format med metoden [Save](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
+1. Skapa ett nytt [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) objekt och läs JSON-data från filen
+2. Konvertera JSON till JPEG med metoden [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+3. Ladda JPEG-dokument genom att använda klassen [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image)
+4. Spara dokumentet i APNG-format med metoden [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
@@ -39,7 +39,7 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ställ in layout och konvertera JSON-format till APNG via C#" %}}
-Medan du analyserar JSON till APNG kan du också ställa in layoutalternativ för din JSON med [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Det låter dig bearbeta Array som en tabell, ignorera nollvärden, ignorera arraytitel, ignorera objekttitel, konvertera sträng till nummer eller datum, ställa in datum och nummerformat och ställa in titelstil. Alla dessa alternativ låter dig presentera din data enligt dina behov. Följande kodavsnitt visar hur du ställer in layoutalternativen.  
+Medan du analyserar JSON till APNG kan du också ställa in layoutalternativ för din JSON med [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Det låter dig bearbeta Array som en tabell, ignorera nollvärden, ignorera arraytitel, ignorera objekttitel, konvertera sträng till nummer eller datum, ställa in datum och nummerformat och ställa in titelstil. Alla dessa alternativ låter dig presentera din data enligt dina behov. Följande kodavsnitt visar hur du ställer in layoutalternativen.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "set-layout-and-parse-json-to-image.cs" >}}
@@ -48,7 +48,7 @@ Medan du analyserar JSON till APNG kan du också ställa in layoutalternativ fö
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analysera JSON-format till APNG med vattenstämpel" %}}
-Med hjälp av API:t kan du också konvertera JSON till APNG med vattenstämpel i ditt APNG-dokument. För att lägga till en vattenstämpel kan du först rendera ditt JSON-dokument till JPEG och lägga till en vattenstämpel i den. För att demonstrera operationen kan du ladda din konverterade JPEG-bild, lägga till transformationer med hjälp av ett objekt av klassen Matrix och rita en sträng som vattenstämpel på bildytan med hjälp av [Graphics](https://apireference.aspose.com/imaging/ net/aspose.imaging/graphics) klassens [DrawString](https://apireference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring) metod. När du har lagt till vattenstämpeln kan du spara JPEG som APNG-format. Nedan är ett kodexempel som visar hur man lägger till en diagonal vattenstämpel till ditt dokument. 
+Med hjälp av API:t kan du också konvertera JSON till APNG med vattenstämpel i ditt APNG-dokument. För att lägga till en vattenstämpel kan du först rendera ditt JSON-dokument till JPEG och lägga till en vattenstämpel i den. För att demonstrera operationen kan du ladda din konverterade JPEG-bild, lägga till transformationer med hjälp av ett objekt av klassen Matrix och rita en sträng som vattenstämpel på bildytan med hjälp av [Graphics](https://reference.aspose.com/imaging/ net/aspose.imaging/graphics) klassens [DrawString](https://reference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring) metod. När du har lagt till vattenstämpeln kan du spara JPEG som APNG-format. Nedan är ett kodexempel som visar hur man lägger till en diagonal vattenstämpel till ditt dokument. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}

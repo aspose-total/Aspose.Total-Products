@@ -18,10 +18,10 @@ otherformats: DIF MARKDOWN XLAM MHTML XLS TSV SXC XLTM XLSM XLT ODS EXCEL FODS X
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Πώς να μετατρέψετε το POTX σε SXC μέσω C#" %}}
-1. Ανοίξτε το αρχείο POTX χρησιμοποιώντας την τάξη [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-2. Εξαγωγή POTX ως HTML χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
-3. Φορτώστε το έγγραφο HTML χρησιμοποιώντας την τάξη [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Αποθηκεύστε το έγγραφο σε SXC χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+1. Ανοίξτε το αρχείο POTX χρησιμοποιώντας την τάξη [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+2. Εξαγωγή POTX ως HTML χρησιμοποιώντας τη μέθοδο [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+3. Φορτώστε το έγγραφο HTML χρησιμοποιώντας την τάξη [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Αποθηκεύστε το έγγραφο σε SXC χρησιμοποιώντας τη μέθοδο [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}

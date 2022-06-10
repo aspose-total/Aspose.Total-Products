@@ -18,10 +18,10 @@ Durch die Verwendung von [Aspose.Total for .NET](https://products.aspose.com/tot
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="So konvertieren Sie PPSX über C# in MARKDOWN" %}}
-1. Öffnen Sie die PPSX-Datei mit der Klasse [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation).
-2. Exportieren Sie PPSX als HTML mit der Methode [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5).
-3. Laden Sie das HTML-Dokument mithilfe der Klasse [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
-4. Speichern Sie das Dokument mit der Methode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) im MARKDOWN-Format
+1. Öffnen Sie die PPSX-Datei mit der Klasse [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation).
+2. Exportieren Sie PPSX als HTML mit der Methode [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5).
+3. Laden Sie das HTML-Dokument mithilfe der Klasse [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook).
+4. Speichern Sie das Dokument mit der Methode [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) im MARKDOWN-Format
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}

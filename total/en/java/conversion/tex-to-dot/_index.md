@@ -18,10 +18,10 @@ You can convert TEX to DOT by using two simple steps. First you need to render T
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java API to Convert TEX to DOT" %}}
-1. Open TEX file using [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Convert TEX to DOC by using [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method
-3. Load DOC file by using [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) class of Aspose.Words  
-4. Save the document to DOT format using [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) method and set DOT as SaveFormat
+1. Open TEX file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
+2. Convert TEX to DOC by using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method
+3. Load DOC file by using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class of Aspose.Words  
+4. Save the document to DOT format using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) method and set DOT as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Manipulation APIs" %}}
@@ -45,7 +45,7 @@ outputDocument.save("output.dot", SaveFormat.DOT);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Open Password Protected TEX Document via Java" %}}
-While converting TEX to DOT, even if your document is password protected, you can still open it using PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). In order to open the encrypted file, you need to create a [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) object and open the TEX using the owner’s password. 
+While converting TEX to DOT, even if your document is password protected, you can still open it using PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). In order to open the encrypted file, you need to create a [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) object and open the TEX using the owner’s password. 
 {{% blocks/products/pf/feature-page-code %}}
 ```cs// open encrypted document
 Document document = new Document("input.tex", "password");

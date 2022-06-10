@@ -159,7 +159,7 @@ Az Aspose.Total egy hatékony programcsomag szinte mindenféle dokumentum gyors 
 {{< blocks/products/pf/slr-tab tabTitle="Tanulási források" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentáció" href="https://docs.aspose.com/total/androidjava/" >}} 
 {{< blocks/products/pf/slr-element name="Forráskód" href="http://aspose.github.io/" >}} 
-{{< blocks/products/pf/slr-element name="Aspose API referenciák" href="https://apireference.aspose.com/" >}} 
+{{< blocks/products/pf/slr-element name="Aspose API referenciák" href="https://reference.aspose.com/" >}} 
 {{< blocks/products/pf/slr-element name="Oktatóvideók" href="https://www.youtube.com/user/asposevideo" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 

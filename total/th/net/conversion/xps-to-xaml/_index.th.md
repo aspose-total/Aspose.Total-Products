@@ -18,10 +18,10 @@ otherformats: PPT XAML SWF POWERPOINT PPSX PPSM PPTM POT PPS POTX POTM OTP
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API เพื่อแปลง XPS เป็น XAML" %}}
-1. เปิดไฟล์ XPS โดยใช้คลาส [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
-2. แปลง XPS เป็น PPTX โดยใช้วิธีการ [บันทึก](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
-3. โหลดไฟล์ PPTX โดยใช้คลาส [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-4. บันทึกเอกสารในรูปแบบ XAML โดยใช้วิธีการ [บันทึก](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) และตั้งค่า `Xaml' เป็น SaveFormat
+1. เปิดไฟล์ XPS โดยใช้คลาส [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
+2. แปลง XPS เป็น PPTX โดยใช้วิธีการ [บันทึก](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. โหลดไฟล์ PPTX โดยใช้คลาส [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+4. บันทึกเอกสารในรูปแบบ XAML โดยใช้วิธีการ [บันทึก](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) และตั้งค่า `Xaml' เป็น SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
@@ -47,7 +47,7 @@ presentation.Save("output.xaml", SaveFormat.Xaml);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="รับข้อมูลเมตา XMP จากไฟล์ XPS ผ่าน .NET" %}}
-ขณะแปลง XPS เป็น XAML คุณอาจต้องการข้อมูลเมตาดาต้า XMP เพิ่มเติมเพื่อจัดลำดับความสำคัญของกระบวนการแปลงแบทช์ของคุณ ตัวอย่างเช่น คุณสามารถรับและจัดเรียงเอกสารการแปลงของคุณตามวันที่สร้างและประมวลผลเอกสารตามนั้น [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) ให้คุณเข้าถึงข้อมูลเมตา XMP ของไฟล์ XPS หากต้องการรับข้อมูลเมตาของไฟล์ XPS ให้สร้างวัตถุ [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) และเปิดไฟล์ XPS ที่ป้อนเข้ามา หลังจากนั้น คุณจะรับข้อมูลเมตาของไฟล์ได้โดยใช้คุณสมบัติ [Metadata](https://apireference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata)  
+ขณะแปลง XPS เป็น XAML คุณอาจต้องการข้อมูลเมตาดาต้า XMP เพิ่มเติมเพื่อจัดลำดับความสำคัญของกระบวนการแปลงแบทช์ของคุณ ตัวอย่างเช่น คุณสามารถรับและจัดเรียงเอกสารการแปลงของคุณตามวันที่สร้างและประมวลผลเอกสารตามนั้น [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) ให้คุณเข้าถึงข้อมูลเมตา XMP ของไฟล์ XPS หากต้องการรับข้อมูลเมตาของไฟล์ XPS ให้สร้างวัตถุ [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) และเปิดไฟล์ XPS ที่ป้อนเข้ามา หลังจากนั้น คุณจะรับข้อมูลเมตาของไฟล์ได้โดยใช้คุณสมบัติ [Metadata](https://reference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata)  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

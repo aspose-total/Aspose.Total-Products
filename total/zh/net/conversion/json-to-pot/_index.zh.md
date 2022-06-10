@@ -18,10 +18,10 @@ otherformats: POTM PPT PPTM PPSM POT PPSX POWERPOINT OTP PPS POTX
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="通过 C# 将 JSON 格式转换为 POT" %}}
-1. 创建一个新的 [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) 对象并从文件中读取有效的 JSON 数据
-2. 使用 [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) 类和 [Save](https://apireference.aspose.com/) 将 JSON 文件导入工作表cells/net/aspose.cells.workbook/save/methods/4) 它作为 PPTX
-3.使用[Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)类加载PPTX文档
-4. 使用[Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)方法将文档保存为POT格式
+1. 创建一个新的 [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 对象并从文件中读取有效的 JSON 数据
+2. 使用 [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) 类和 [Save](https://reference.aspose.com/) 将 JSON 文件导入工作表cells/net/aspose.cells.workbook/save/methods/4) 它作为 PPTX
+3.使用[Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)类加载PPTX文档
+4. 使用[Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)方法将文档保存为POT格式
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
@@ -39,7 +39,7 @@ otherformats: POTM PPT PPTM PPSM POT PPSX POWERPOINT OTP PPS POTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="通过 C# 设置布局并将 JSON 格式转换为 POT" %}}
-在将 JSON 解析为 POT 时，您还可以使用 [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions) 为 JSON 格式设置布局选项。它允许您将数组作为表格处理、忽略空值、忽略数组标题、忽略对象标题、将字符串转换为数字或日期、设置日期和数字格式以及设置标题样式。所有这些选项都允许您根据需要呈现数据。以下代码片段向您展示了如何设置布局选项。  
+在将 JSON 解析为 POT 时，您还可以使用 [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions) 为 JSON 格式设置布局选项。它允许您将数组作为表格处理、忽略空值、忽略数组标题、忽略对象标题、将字符串转换为数字或日期、设置日期和数字格式以及设置标题样式。所有这些选项都允许您根据需要呈现数据。以下代码片段向您展示了如何设置布局选项。  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "set-layout-and-parse-json-to-powerpoint.cs" >}}
@@ -48,7 +48,7 @@ otherformats: POTM PPT PPTM PPSM POT PPSX POWERPOINT OTP PPS POTX
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="将 JSON 格式转换为带水印的 POT" %}}
-使用 API，您还可以将 JSON 转换为带水印的 POT。为了给你的 POT 文档添加水印，你可以先将 JSON 解析为 PPTX 并为其添加水印。为了添加水印，使用 [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) 类加载新创建的 PPTX 文件，选择主演示文稿，使用添加形状类型AddAutoShape，并使用 AddTextFrame 添加水印文本。添加水印后，您可以将文档保存到POT。 
+使用 API，您还可以将 JSON 转换为带水印的 POT。为了给你的 POT 文档添加水印，你可以先将 JSON 解析为 PPTX 并为其添加水印。为了添加水印，使用 [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) 类加载新创建的 PPTX 文件，选择主演示文稿，使用添加形状类型AddAutoShape，并使用 AddTextFrame 添加水印文本。添加水印后，您可以将文档保存到POT。 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}

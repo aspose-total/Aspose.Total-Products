@@ -16,10 +16,10 @@ Você pode converter o arquivo PPSX para DIF via [Aspose.Total for Java](https:/
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Como converter PPSX para DIF via Java" %}}
-1. Abra o arquivo PPSX usando a classe [Apresentação](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Converta PPSX em HTML usando [salvar](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) método
-3. Carregue o documento HTML usando a classe [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Salve o documento no formato DIF usando [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) método
+1. Abra o arquivo PPSX usando a classe [Apresentação](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. Converta PPSX em HTML usando [salvar](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) método
+3. Carregue o documento HTML usando a classe [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Salve o documento no formato DIF usando [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
 Para converter PPSX para DIF, você pode facilmente usar o Aspose.Total para Java diretamente de um [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e inclua bibliotecas em seu pom.xml.

@@ -18,10 +18,10 @@ otherformats: XPS PNG DOTX EMF PS WORDML DOTM ODT FLATOPC RTF DOC JPEG OTT EPUB 
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API 将 EMLX 转换为 PS" %}}
-1. 使用 [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage) 类打开 EMLX 文件
-2. 使用 [Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) 方法将 EMLX 转换为 HTML
-3. 使用 [Document](https://apireference.aspose.com/words/net/aspose.words/document) 类加载 HTML
-4. 使用 [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) 方法将文档保存为 PS 格式，并将 Ps 设置为 SaveFormat
+1. 使用 [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) 类打开 EMLX 文件
+2. 使用 [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) 方法将 EMLX 转换为 HTML
+3. 使用 [Document](https://reference.aspose.com/words/net/aspose.words/document) 类加载 HTML
+4. 使用 [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) 方法将文档保存为 PS 格式，并将 Ps 设置为 SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
@@ -47,7 +47,7 @@ document.Save("output.ps", SaveFormat.Ps);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="通过 .NET 解析 EMLX 文件" %}}
-在将 EMLX 转换为 PS 之前，如果您想确保您正在转换正确的电子邮件，您可以加载 EMLX 文档，对其进行解析并查看您想要的属性。通过使用 [Aspose.Email for .NET](https://products.aspose.com/email) 的 [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) 类/net/) API，可以获取发件人和收件人信息。例如，您可以使用 [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername) 属性检查转换的特定发件人电子邮件。  
+在将 EMLX 转换为 PS 之前，如果您想确保您正在转换正确的电子邮件，您可以加载 EMLX 文档，对其进行解析并查看您想要的属性。通过使用 [Aspose.Email for .NET](https://products.aspose.com/email) 的 [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) 类/net/) API，可以获取发件人和收件人信息。例如，您可以使用 [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername) 属性检查转换的特定发件人电子邮件。  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

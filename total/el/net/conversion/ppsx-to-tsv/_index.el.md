@@ -18,10 +18,10 @@ otherformats: XLTX DIF TSV SXC MHTML XLSB XLSX ODS XLAM EXCEL XLT XLSM XLTM MARK
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Πώς να μετατρέψετε το PPSX σε TSV μέσω C#" %}}
-1. Ανοίξτε το αρχείο PPSX χρησιμοποιώντας την τάξη [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-2. Εξαγωγή PPSX ως HTML χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
-3. Φορτώστε το έγγραφο HTML χρησιμοποιώντας την τάξη [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Αποθηκεύστε το έγγραφο σε TSV χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+1. Ανοίξτε το αρχείο PPSX χρησιμοποιώντας την τάξη [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+2. Εξαγωγή PPSX ως HTML χρησιμοποιώντας τη μέθοδο [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+3. Φορτώστε το έγγραφο HTML χρησιμοποιώντας την τάξη [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Αποθηκεύστε το έγγραφο σε TSV χρησιμοποιώντας τη μέθοδο [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}

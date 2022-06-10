@@ -16,11 +16,11 @@ Muitas vezes, os desenvolvedores precisam converter o arquivo FLATOPC para PPT p
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Como converter FLATOPC para PPT via Java" %}}
-1. Abra o arquivo FLATOPC usando a classe [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument)
-2. Converta o arquivo FLATOPC em HTML usando [save](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,com.aspose.words.SaveOptions)) método
-3. Inicialize um novo objeto [Apresentação](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+1. Abra o arquivo FLATOPC usando a classe [Flatopcument](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument)
+2. Converta o arquivo FLATOPC em HTML usando [save](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,com.aspose.words.SaveOptions)) método
+3. Inicialize um novo objeto [Apresentação](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraia o conteúdo do arquivo HTML usando o BufferedReader e escreva o conteúdo em seu arquivo de apresentação
-6. Salve o flatopcumento no PPT usando o método [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. Salve o flatopcumento no PPT usando o método [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
 Para conversão de arquivos FLATOPC para PPT, você pode facilmente usar o Aspose.Total para Java diretamente de um [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e inclua bibliotecas em seu pom.xml.

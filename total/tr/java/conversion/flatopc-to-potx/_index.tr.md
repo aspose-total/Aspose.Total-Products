@@ -16,11 +16,11 @@ otherformats: PPTX POTM POTX POWERPOINT PPTM PPT POT PPSX PPS PPSM CSV DIF FODS 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java ile FLATOPC'yi POTX'ye Dönüştürme" %}}
-1. FLATOPC dosyasını [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument) sınıfını kullanarak açın
-2. [save](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,com.aspose.words.SaveOptions) kullanarak FLATOPC dosyasını HTML'ye dönüştürün)) yöntem
-3. Yeni bir [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) nesnesini başlatın
+1. FLATOPC dosyasını [Flatopcument](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument) sınıfını kullanarak açın
+2. [save](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,com.aspose.words.SaveOptions) kullanarak FLATOPC dosyasını HTML'ye dönüştürün)) yöntem
+3. Yeni bir [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) nesnesini başlatın
 5. BufferedReader kullanarak HTML dosyasından içerik çıkarın ve içeriği sunum dosyanıza yazın
-6. [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) yöntemini kullanarak belgeyi POTX'ye kaydedin
+6. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) yöntemini kullanarak belgeyi POTX'ye kaydedin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Dönüşüm Gereksinimleri" %}}
 FLATOPC'den POTX'ye dosya dönüştürme için Aspose.Total for Java'yı doğrudan bir [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose) üzerinden kolayca kullanabilirsiniz. /aspose-total) tabanlı bir projedir ve pom.xml dosyanıza kitaplıkları dahil edin.

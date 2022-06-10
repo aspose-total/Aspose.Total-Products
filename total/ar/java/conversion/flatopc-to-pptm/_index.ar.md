@@ -16,11 +16,11 @@ otherformats: PPTX PPTM PPSM POWERPOINT POT POTX PPS PPT PPSX POTM CSV DIF FODS 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل FLATOPC إلى PPTM عبر Java" %}}
-1. افتح ملف FLATOPC باستخدام فئة [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument)
-2. تحويل ملف FLATOPC إلى HTML باستخدام [Save](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String.com.aspose.words.SaveOptions)) طريقة
-3. [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) جديد تهيئة كائن
+1. افتح ملف FLATOPC باستخدام فئة [Flatopcument](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument)
+2. تحويل ملف FLATOPC إلى HTML باستخدام [Save](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String.com.aspose.words.SaveOptions)) طريقة
+3. [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) جديد تهيئة كائن
 5. استخراج المحتوى من ملف HTML باستخدام BufferedReader وكتابة المحتوى في ملف العرض التقديمي الخاص بك
-6. احفظ المستند في PPTM باستخدام طريقة [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. احفظ المستند في PPTM باستخدام طريقة [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
 لتحويل ملف FLATOPC إلى PPTM ، يمكنك بسهولة استخدام Aspose.Total لـ Java مباشرة من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) القائم على المشروع وتضمين المكتبات في ملفك pom.xml.

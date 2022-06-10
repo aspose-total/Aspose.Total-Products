@@ -16,11 +16,11 @@ otherformats: POTM POWERPOINT PPSX PPTM PPTX POTX PPT POT PPSM PPS CSV DIF FODS 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java ile TXT'yi POTM'ye Dönüştürme" %}}
-1. TXT dosyasını [Txtument](https://apireference.aspose.com/words/java/com.aspose.words/Txtument) sınıfını kullanarak açın
-2. [save](https://apireference.aspose.com/words/java/com.aspose.words/Txtument#save(java.lang.String,com.aspose.words.SaveOptions) kullanarak TXT dosyasını HTML'ye dönüştürün)) yöntem
-3. Yeni bir [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) nesnesini başlatın
+1. TXT dosyasını [Txtument](https://reference.aspose.com/words/java/com.aspose.words/Txtument) sınıfını kullanarak açın
+2. [save](https://reference.aspose.com/words/java/com.aspose.words/Txtument#save(java.lang.String,com.aspose.words.SaveOptions) kullanarak TXT dosyasını HTML'ye dönüştürün)) yöntem
+3. Yeni bir [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) nesnesini başlatın
 5. BufferedReader kullanarak HTML dosyasından içerik çıkarın ve içeriği sunum dosyanıza yazın
-6. [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) yöntemini kullanarak belgeyi POTM'ye kaydedin
+6. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) yöntemini kullanarak belgeyi POTM'ye kaydedin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Dönüşüm Gereksinimleri" %}}
 TXT'den POTM'ye dosya dönüştürme için Aspose.Total for Java'yı doğrudan bir [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose) üzerinden kolayca kullanabilirsiniz. /aspose-total) tabanlı bir projedir ve pom.xml dosyanıza kitaplıkları dahil edin.

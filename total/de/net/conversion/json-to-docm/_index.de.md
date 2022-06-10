@@ -18,10 +18,10 @@ Durch die Verwendung von [Aspose.Total for .NET](https://products.aspose.com/tot
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertieren Sie das JSON-Format über C# in DOCM" %}}
-1. Erstellen Sie ein neues [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)-Objekt und lesen Sie gültige JSON-Daten aus der Datei
-2. Importieren Sie die JSON-Datei in das Arbeitsblatt mit der Klasse [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) und [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) als PDF
-3. Laden Sie das PDF-Dokument mithilfe der Klasse [Document](https://apireference.aspose.com/words/net/aspose.words/document).
-4. Speichern Sie das Dokument im DOCM-Format mit der Methode [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3).
+1. Erstellen Sie ein neues [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)-Objekt und lesen Sie gültige JSON-Daten aus der Datei
+2. Importieren Sie die JSON-Datei in das Arbeitsblatt mit der Klasse [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) und [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) als PDF
+3. Laden Sie das PDF-Dokument mithilfe der Klasse [Document](https://reference.aspose.com/words/net/aspose.words/document).
+4. Speichern Sie das Dokument im DOCM-Format mit der Methode [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/3).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
@@ -39,7 +39,7 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Legen Sie das Layout fest und konvertieren Sie das JSON-Format über C# in DOCM" %}}
-Beim Analysieren von JSON zu DOCM können Sie auch Layoutoptionen für Ihr JSON mit [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions) festlegen. Es ermöglicht Ihnen, Array als Tabelle zu verarbeiten, Nullen zu ignorieren, Array-Titel zu ignorieren, Objekttitel zu ignorieren, Zeichenfolge in Zahl oder Datum umzuwandeln, Datums- und Zahlenformat festzulegen und Titelstil festzulegen. Alle diese Optionen ermöglichen es Ihnen, Ihre Daten nach Ihren Bedürfnissen zu präsentieren. Das folgende Code-Snippet zeigt Ihnen, wie Sie die Layout-Optionen festlegen.  
+Beim Analysieren von JSON zu DOCM können Sie auch Layoutoptionen für Ihr JSON mit [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions) festlegen. Es ermöglicht Ihnen, Array als Tabelle zu verarbeiten, Nullen zu ignorieren, Array-Titel zu ignorieren, Objekttitel zu ignorieren, Zeichenfolge in Zahl oder Datum umzuwandeln, Datums- und Zahlenformat festzulegen und Titelstil festzulegen. Alle diese Optionen ermöglichen es Ihnen, Ihre Daten nach Ihren Bedürfnissen zu präsentieren. Das folgende Code-Snippet zeigt Ihnen, wie Sie die Layout-Optionen festlegen.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "set-layout-and-parse-json-to-doc.cs" >}}
@@ -48,7 +48,7 @@ Beim Analysieren von JSON zu DOCM können Sie auch Layoutoptionen für Ihr JSON 
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analysieren Sie das JSON-Format in DOCM mit Wasserzeichen" %}}
-Mit der API können Sie auch JSON in DOCM mit Wasserzeichen konvertieren. Um Ihrem DOCM-Dokument ein Wasserzeichen hinzuzufügen, können Sie zuerst die JSON-Datei in eine PDF-Datei parsen und ihr ein Wasserzeichen hinzufügen. Um ein Wasserzeichen hinzuzufügen, laden Sie die neu erstellte PDF-Datei mit der Klasse [Document](https://apireference.aspose.com/words/net/aspose.words/document), erstellen Sie eine Instanz von TextWatermarkOptions und legen Sie ihre Eigenschaften fest , Watermark.SetText-Methode aufrufen und Wasserzeichentext und Objekt von TextWatermarkOptions übergeben. Nachdem Sie das Wasserzeichen hinzugefügt haben, können Sie das Dokument in DOCM speichern. 
+Mit der API können Sie auch JSON in DOCM mit Wasserzeichen konvertieren. Um Ihrem DOCM-Dokument ein Wasserzeichen hinzuzufügen, können Sie zuerst die JSON-Datei in eine PDF-Datei parsen und ihr ein Wasserzeichen hinzufügen. Um ein Wasserzeichen hinzuzufügen, laden Sie die neu erstellte PDF-Datei mit der Klasse [Document](https://reference.aspose.com/words/net/aspose.words/document), erstellen Sie eine Instanz von TextWatermarkOptions und legen Sie ihre Eigenschaften fest , Watermark.SetText-Methode aufrufen und Wasserzeichentext und Objekt von TextWatermarkOptions übergeben. Nachdem Sie das Wasserzeichen hinzugefügt haben, können Sie das Dokument in DOCM speichern. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}

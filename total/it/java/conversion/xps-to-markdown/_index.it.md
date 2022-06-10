@@ -42,7 +42,7 @@ outputDocument.save("output.markdown", SaveFormat.MARKDOWN);
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisiti di conversione" %}}
-Durante la conversione da XPS a MARKDOWN, anche se il documento è protetto da password, è comunque possibile aprirlo utilizzando l'API di manipolazione PDF [Aspose.PDF per Java](https://docs.aspose.com/pdf/java/installation/). Per aprire il file crittografato, è necessario creare un oggetto [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) e aprire il XPS utilizzando la password del proprietario.  
+Durante la conversione da XPS a MARKDOWN, anche se il documento è protetto da password, è comunque possibile aprirlo utilizzando l'API di manipolazione PDF [Aspose.PDF per Java](https://docs.aspose.com/pdf/java/installation/). Per aprire il file crittografato, è necessario creare un oggetto [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) e aprire il XPS utilizzando la password del proprietario.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

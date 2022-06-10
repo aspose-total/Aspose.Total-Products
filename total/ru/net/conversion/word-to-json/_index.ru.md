@@ -18,10 +18,10 @@ otherformats: XLSX XLSM XLS XLT CSV TSV EXCEL XLSB SXC FODS DIF ODS XLTM XLAM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование WORD в формат JSON через С#" %}}
-1. Откройте файл WORD, используя класс [Document](https://apireference.aspose.com/words/net/aspose.words/document).
-2. Преобразуйте WORD в HTML, используя метод [Сохранить](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4).
-3. Загрузите HTML-документ с помощью класса [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
-4. Сохраните документ в формате JSON, используя метод [Сохранить](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4).
+1. Откройте файл WORD, используя класс [Document](https://reference.aspose.com/words/net/aspose.words/document).
+2. Преобразуйте WORD в HTML, используя метод [Сохранить](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4).
+3. Загрузите HTML-документ с помощью класса [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook).
+4. Сохраните документ в формате JSON, используя метод [Сохранить](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}

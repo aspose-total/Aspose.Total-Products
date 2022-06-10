@@ -18,10 +18,10 @@ Ao usar o [Aspose.Total for .NET](https://products.aspose.com/total/net/) você 
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET para converter DOTM para XLTX" %}}
-1. Abra o arquivo DOTM usando a classe [Dotmument](https://apireference.aspose.com/words/net/aspose.words/dotmument)
-2. Converta DOTM para HTML usando o método [Salvar](https://apireference.aspose.com/words/net/aspose.words.dotmument/save/methods/4)
-3. Carregue o dotmumento HTML usando a classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Salve o dotmumento no formato XLTX usando o método [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) e defina "XLTX" como SaveFormat
+1. Abra o arquivo DOTM usando a classe [Dotmument](https://reference.aspose.com/words/net/aspose.words/dotmument)
+2. Converta DOTM para HTML usando o método [Salvar](https://reference.aspose.com/words/net/aspose.words.dotmument/save/methods/4)
+3. Carregue o dotmumento HTML usando a classe [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Salve o dotmumento no formato XLTX usando o método [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) e defina "XLTX" como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
@@ -39,7 +39,7 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Carregar dotmumento DOTM do fluxo via C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) também permite carregar dotmumentos DOTM via stream. Para abrir um dotmumento de um stream, basta passar um objeto stream que contém o dotmumento para o construtor [Dotmument](https://apireference.aspose.com/words/net/aspose.words/dotmument). O exemplo de código a seguir mostra como abrir um dotmumento de um fluxo:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) também permite carregar dotmumentos DOTM via stream. Para abrir um dotmumento de um stream, basta passar um objeto stream que contém o dotmumento para o construtor [Dotmument](https://reference.aspose.com/words/net/aspose.words/dotmument). O exemplo de código a seguir mostra como abrir um dotmumento de um fluxo:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
@@ -47,7 +47,7 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Adicionar propriedades personalizadas no arquivo XLTX via C#" %}}
-Ao converter DOTM para XLTX, o [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) permite adicionar propriedades personalizadas em seus dotmumentos XLTX. Para adicionar uma propriedade personalizada, você pode usar o método [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection/methods/add/index) para o método [CustomDotmumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection) classe. O método Add adiciona a propriedade ao arquivo Excel e retorna uma referência para a nova propriedade do dotmumento como um [Aspose.Cells.Properties.DotmumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /dotmumentproperty) objeto. 
+Ao converter DOTM para XLTX, o [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) permite adicionar propriedades personalizadas em seus dotmumentos XLTX. Para adicionar uma propriedade personalizada, você pode usar o método [Add](https://reference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection/methods/add/index) para o método [CustomDotmumentPropertyCollection](https://reference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection) classe. O método Add adiciona a propriedade ao arquivo Excel e retorna uma referência para a nova propriedade do dotmumento como um [Aspose.Cells.Properties.DotmumentProperty](https://reference.aspose.com/cells/net/aspose.cells.properties /dotmumentproperty) objeto. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}

@@ -19,10 +19,10 @@ otherformats: PPTX DOCX DOC POWERPOINT
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="SXC to WORD Conversion on .NET" %}}
-1. Open SXC file using [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) class
+1. Open SXC file using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class
 2. Convert SXC to PDF and set SaveFormat to Auto
-3. Load the converted PDF file using [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) class
-4. Save the document to DOC format using [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method and set Doc as SaveFormat
+3. Load the converted PDF file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+4. Save the document to DOC format using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method and set Doc as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET Total API" %}}

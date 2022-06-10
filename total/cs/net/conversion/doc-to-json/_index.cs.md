@@ -18,10 +18,10 @@ Pomocí [Aspose.Total for .NET](https://products.aspose.com/total/net/) můžete
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Převést DOC na formát JSON přes C#" %}}
-1. Otevřete soubor DOC pomocí třídy [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-2. Převeďte DOC do HTML pomocí metody [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)
-3. Načtěte dokument HTML pomocí třídy [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Uložte dokument do formátu JSON pomocí metody [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+1. Otevřete soubor DOC pomocí třídy [Document](https://reference.aspose.com/words/net/aspose.words/document)
+2. Převeďte DOC do HTML pomocí metody [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. Načtěte dokument HTML pomocí třídy [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Uložte dokument do formátu JSON pomocí metody [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}

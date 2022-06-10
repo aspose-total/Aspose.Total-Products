@@ -36,11 +36,11 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. Add reference of Aspose.Total for .NET
-1. Load ODT file using [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) class
+1. Load ODT file using [Aspose.Words.Document](https://reference.aspose.com/words/net/aspose.words/document) class
 1. Save the ODT document into HTML
-1. Create [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) Object
+1. Create [Aspose.Slides.Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) Object
 1. Import HTML content in text frame of any slide shape inside presentation
-1. Save the document using [Aspose.Slides.Presentation.Save("output.pptx", SaveFormat.Pptx)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+1. Save the document using [Aspose.Slides.Presentation.Save("output.pptx", SaveFormat.Pptx)](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

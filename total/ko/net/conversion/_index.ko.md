@@ -26,8 +26,8 @@ Total API는 Microsoft Word 형식의 상호 변환은 물론 Word를 PDF, HTML,
 
 
 {{% blocks/products/pf/feature-page-section  h2="PDF를 이미지로 변환" %}}
-API는 PDF를 이미지, PowerPoint, Excel 및 기타 형식으로 변환하는 것을 지원합니다. PDF를 이미지로 변환하는 경우 JPG 이미지를 대상 파일로 간주해 보겠습니다. 프로세스는 Document 클래스를 사용하여 PDF 파일을 로드하고 [JpegDevice 클래스](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) 객체를 초기화하고 [프로세스](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice)를 통해 PDF를 JPEG로 렌더링하는 것입니다. //apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) 방법
-[Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) 클래스를 사용하여 JPEG 파일을 로드하고 마지막으로 Save 메서드를 호출합니다.
+API는 PDF를 이미지, PowerPoint, Excel 및 기타 형식으로 변환하는 것을 지원합니다. PDF를 이미지로 변환하는 경우 JPG 이미지를 대상 파일로 간주해 보겠습니다. 프로세스는 Document 클래스를 사용하여 PDF 파일을 로드하고 [JpegDevice 클래스](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) 객체를 초기화하고 [프로세스](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice)를 통해 PDF를 JPEG로 렌더링하는 것입니다. //apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) 방법
+[Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) 클래스를 사용하여 JPEG 파일을 로드하고 마지막으로 Save 메서드를 호출합니다.
 
 {{% blocks/products/pf/feature-page-code h3="C# - PDF를 이미지로 변환" %}}
 
@@ -41,7 +41,7 @@ API는 PDF를 이미지, PowerPoint, Excel 및 기타 형식으로 변환하는 
 
 {{% blocks/products/pf/feature-page-section  h2="Excel을 Word 및 PowerPoint로 변환" %}}
 
-Microsoft Excel 형식을 Word 및 PowerPoint를 포함한 다른 파일로 변환하기 위해 .NET API용 주요 Aspose.Total과 관련된 관련 하위 API. Excel 파일을 Word 문서로 변환하는 과정, [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) 클래스를 이용하여 EXCEL 파일을 불러오고, 먼저 EXCEL을 PDF로 변환하고 SaveFormat을 Auto로 설정합니다. 그런 다음 변환된 PDF 파일을 Document 클래스를 사용하여 로드하고 Save 메서드를 호출하고 Doc, Docx를 SaveFormat으로 설정합니다. Microsoft **Excel을 Powerpoint로** 변환하는 코드도 나열되어 있습니다.
+Microsoft Excel 형식을 Word 및 PowerPoint를 포함한 다른 파일로 변환하기 위해 .NET API용 주요 Aspose.Total과 관련된 관련 하위 API. Excel 파일을 Word 문서로 변환하는 과정, [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 클래스를 이용하여 EXCEL 파일을 불러오고, 먼저 EXCEL을 PDF로 변환하고 SaveFormat을 Auto로 설정합니다. 그런 다음 변환된 PDF 파일을 Document 클래스를 사용하여 로드하고 Save 메서드를 호출하고 Doc, Docx를 SaveFormat으로 설정합니다. Microsoft **Excel을 Powerpoint로** 변환하는 코드도 나열되어 있습니다.
 
 {{% blocks/products/pf/feature-page-code h3="C# - JSON에서 Excel로의 변환" %}}
 

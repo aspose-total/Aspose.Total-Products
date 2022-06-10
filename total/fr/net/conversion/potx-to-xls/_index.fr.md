@@ -18,10 +18,10 @@ En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vo
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Comment convertir POTX en XLS via C#" %}}
-1. Ouvrez le fichier POTX à l'aide de la classe [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-2. Exportez POTX au format HTML en utilisant la méthode [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
-3. Chargez le document HTML à l'aide de la classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Enregistrez le document au format XLS à l'aide de la méthode [Enregistrer](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+1. Ouvrez le fichier POTX à l'aide de la classe [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+2. Exportez POTX au format HTML en utilisant la méthode [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+3. Chargez le document HTML à l'aide de la classe [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Enregistrez le document au format XLS à l'aide de la méthode [Enregistrer](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}

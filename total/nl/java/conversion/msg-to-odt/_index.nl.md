@@ -16,10 +16,10 @@ E-mailconversie is een krachtige functie die Java-ontwikkelaars kunnen integrere
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hoe MSG naar ODT te converteren" %}}
-1. Open het MSG-bestand met de klasse [MailMessage](https://apireference.aspose.com/msg/java/com.aspose.msg/mailmessage)
-2. Converteer MSG naar HTML met behulp van [save](https://apireference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)) methode
-3. Laad HTML met behulp van de [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) klasse
-4. Sla het document op in ODT-formaat met [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) methode en stel ODT in als SaveFormat
+1. Open het MSG-bestand met de klasse [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage)
+2. Converteer MSG naar HTML met behulp van [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)) methode
+3. Laad HTML met behulp van de [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) klasse
+4. Sla het document op in ODT-formaat met [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) methode en stel ODT in als SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
 U moet Aspose.Total voor Java rechtstreeks vanuit een op [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) gebaseerd project gebruiken en neem bibliotheken op in uw po.xml.

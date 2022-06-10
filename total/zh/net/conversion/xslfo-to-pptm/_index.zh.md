@@ -18,10 +18,10 @@ otherformats: PPSX SWF PPTM PPT XAML PPS PPSM POT OTP POTM POTX POWERPOINT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API 将 XSLFO 转换为 PPTM" %}}
-1.使用[Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)类打开XSLFO文件
-2. 使用[Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)方法将XSLFO转换为PPTX
-3. 使用 [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) 类加载 PPTX 文件
-4. 使用 [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) 方法将文档保存为 PPTM 格式，并将 `Pptm` 设置为 SaveFormat
+1.使用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类打开XSLFO文件
+2. 使用[Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)方法将XSLFO转换为PPTX
+3. 使用 [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) 类加载 PPTX 文件
+4. 使用 [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) 方法将文档保存为 PPTM 格式，并将 `Pptm` 设置为 SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
@@ -47,7 +47,7 @@ presentation.Save("output.pptm", SaveFormat.Pptm);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="通过 .NET 从 XSLFO 文件中获取 XMP 元数据" %}}
-在将 XSLFO 转换为 PPTM 时，您可能需要额外的 XMP 元数据信息来确定批量转换过程的优先级。例如，您可以根据创建日期获取转换文档并对其进行排序，并相应地处理文档。 [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) 允许您访问 XSLFO 文件的 XMP 元数据。要获取 XSLFO 文件的元数据，您可以创建一个 [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) 对象并打开输入的 XSLFO 文件。之后，您可以使用 [元数据](https://apireference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata) 属性获取文件的元数据。  
+在将 XSLFO 转换为 PPTM 时，您可能需要额外的 XMP 元数据信息来确定批量转换过程的优先级。例如，您可以根据创建日期获取转换文档并对其进行排序，并相应地处理文档。 [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) 允许您访问 XSLFO 文件的 XMP 元数据。要获取 XSLFO 文件的元数据，您可以创建一个 [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) 对象并打开输入的 XSLFO 文件。之后，您可以使用 [元数据](https://reference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata) 属性获取文件的元数据。  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

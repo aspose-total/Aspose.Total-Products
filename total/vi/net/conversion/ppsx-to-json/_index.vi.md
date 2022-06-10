@@ -18,10 +18,10 @@ Bằng cách sử dụng [Aspose.Total for .NET](https://products.aspose.com/tot
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi định dạng PPSX sang JSON qua C#" %}}
-1. Mở tệp PPSX bằng lớp [Trình bày](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-2. Chuyển đổi PPSX sang HTML bằng phương pháp [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
-3. Tải tài liệu HTML bằng cách sử dụng lớp [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Lưu tài liệu sang định dạng JSON bằng phương pháp [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+1. Mở tệp PPSX bằng lớp [Trình bày](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+2. Chuyển đổi PPSX sang HTML bằng phương pháp [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+3. Tải tài liệu HTML bằng cách sử dụng lớp [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Lưu tài liệu sang định dạng JSON bằng phương pháp [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}

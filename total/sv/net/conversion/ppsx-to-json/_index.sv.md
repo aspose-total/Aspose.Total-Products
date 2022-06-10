@@ -18,10 +18,10 @@ Genom att använda [Aspose.Total for .NET](https://products.aspose.com/total/net
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertera PPSX till JSON-format via C#" %}}
-1. Öppna PPSX-filen med klassen [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-2. Konvertera PPSX till HTML med metoden [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
-3. Ladda HTML-dokument genom att använda klassen [Arbetsbok](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Spara dokumentet i JSON-format med metoden [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+1. Öppna PPSX-filen med klassen [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+2. Konvertera PPSX till HTML med metoden [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+3. Ladda HTML-dokument genom att använda klassen [Arbetsbok](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Spara dokumentet i JSON-format med metoden [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}

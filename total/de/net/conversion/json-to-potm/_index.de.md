@@ -18,10 +18,10 @@ Sie können JSON in jeder .NET-, C#-, ASP.NET- und VB.NET-Anwendung in zwei einf
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertieren Sie das JSON-Format über C# in POTM" %}}
-1. Erstellen Sie ein neues [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)-Objekt und lesen Sie gültige JSON-Daten aus der Datei
-2. Importieren Sie die JSON-Datei in das Arbeitsblatt mit der Klasse [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) und [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) als PPTX
-3. Laden Sie das PPTX-Dokument mithilfe der Klasse [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation).
-4. Speichern Sie das Dokument mit der Methode [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) im POTM-Format
+1. Erstellen Sie ein neues [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)-Objekt und lesen Sie gültige JSON-Daten aus der Datei
+2. Importieren Sie die JSON-Datei in das Arbeitsblatt mit der Klasse [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) und [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) als PPTX
+3. Laden Sie das PPTX-Dokument mithilfe der Klasse [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation).
+4. Speichern Sie das Dokument mit der Methode [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) im POTM-Format
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
@@ -39,7 +39,7 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Legen Sie das Layout fest und konvertieren Sie das JSON-Format über C# in POTM" %}}
-Beim Analysieren von JSON zu POTM können Sie auch Layoutoptionen für Ihr JSON-Format mit [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions) festlegen. Sie können ein Array als Tabelle verarbeiten, Nullen ignorieren, den Array-Titel ignorieren, den Objekttitel ignorieren, eine Zeichenfolge in eine Zahl oder ein Datum konvertieren, das Datums- und Zahlenformat festlegen und den Titelstil festlegen. Alle diese Optionen ermöglichen es Ihnen, Ihre Daten nach Ihren Bedürfnissen zu präsentieren. Das folgende Code-Snippet zeigt Ihnen, wie Sie die Layout-Optionen festlegen.  
+Beim Analysieren von JSON zu POTM können Sie auch Layoutoptionen für Ihr JSON-Format mit [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions) festlegen. Sie können ein Array als Tabelle verarbeiten, Nullen ignorieren, den Array-Titel ignorieren, den Objekttitel ignorieren, eine Zeichenfolge in eine Zahl oder ein Datum konvertieren, das Datums- und Zahlenformat festlegen und den Titelstil festlegen. Alle diese Optionen ermöglichen es Ihnen, Ihre Daten nach Ihren Bedürfnissen zu präsentieren. Das folgende Code-Snippet zeigt Ihnen, wie Sie die Layout-Optionen festlegen.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "set-layout-and-parse-json-to-powerpoint.cs" >}}
@@ -48,7 +48,7 @@ Beim Analysieren von JSON zu POTM können Sie auch Layoutoptionen für Ihr JSON-
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Konvertieren Sie das JSON-Format in POTM mit Wasserzeichen" %}}
-Mit der API können Sie auch JSON in POTM mit Wasserzeichen konvertieren. Um Ihrem POTM-Dokument ein Wasserzeichen hinzuzufügen, können Sie zuerst JSON in PPTX parsen und ein Wasserzeichen hinzufügen. Um ein Wasserzeichen hinzuzufügen, laden Sie die neu erstellte PPTX-Datei mit der Klasse [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation), wählen Sie die Master-Präsentation aus und fügen Sie den Formtyp hinzu AddAutoShape, und fügen Sie Wasserzeichentext mit AddTextFrame hinzu. Nachdem Sie das Wasserzeichen hinzugefügt haben, können Sie das Dokument im POTM speichern. 
+Mit der API können Sie auch JSON in POTM mit Wasserzeichen konvertieren. Um Ihrem POTM-Dokument ein Wasserzeichen hinzuzufügen, können Sie zuerst JSON in PPTX parsen und ein Wasserzeichen hinzufügen. Um ein Wasserzeichen hinzuzufügen, laden Sie die neu erstellte PPTX-Datei mit der Klasse [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation), wählen Sie die Master-Präsentation aus und fügen Sie den Formtyp hinzu AddAutoShape, und fügen Sie Wasserzeichentext mit AddTextFrame hinzu. Nachdem Sie das Wasserzeichen hinzugefügt haben, können Sie das Dokument im POTM speichern. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}

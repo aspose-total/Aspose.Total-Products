@@ -26,8 +26,8 @@ Total APIは、Microsoft Word形式の相互変換だけでなく、WordからPD
 
 
 {{% blocks/products/pf/feature-page-section  h2="PDFを画像に変換する" %}}
-APIは、PDFから画像、Powerpoint、Excel、およびその他の形式への変換をサポートしています。 PDFから画像への変換では、JPG画像をターゲットファイルと考えてみましょう。プロセスは、Documentクラスを使用してPDFファイルをロードし、[JpegDeviceクラス]（https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice）オブジェクトを初期化し、[プロセス]（https ：//apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1）メソッド
-[Image]（https://apireference.aspose.com/imaging/net/aspose.imaging/image）クラスを使用してJPEGファイルをロードし、最後にSaveメソッドを呼び出します。
+APIは、PDFから画像、Powerpoint、Excel、およびその他の形式への変換をサポートしています。 PDFから画像への変換では、JPG画像をターゲットファイルと考えてみましょう。プロセスは、Documentクラスを使用してPDFファイルをロードし、[JpegDeviceクラス]（https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice）オブジェクトを初期化し、[プロセス]（https ：//apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1）メソッド
+[Image]（https://reference.aspose.com/imaging/net/aspose.imaging/image）クラスを使用してJPEGファイルをロードし、最後にSaveメソッドを呼び出します。
 
 {{% blocks/products/pf/feature-page-code h3="C＃-PDFから画像への変換" %}}
 
@@ -41,7 +41,7 @@ APIは、PDFから画像、Powerpoint、Excel、およびその他の形式へ�
 
 {{% blocks/products/pf/feature-page-section  h2="ExcelをWordとPowerPointに変換する" %}}
 
-Microsoft Excel形式をWordやPowerPointなどのさまざまなファイルに変換するために、メインのAspose.Total for.NETAPIに含まれる関連するサブAPI。 ExcelファイルをWord文書に変換するプロセス、[Workbook]（https://apireference.aspose.com/cells/net/aspose.cells/workbook）クラスを使用してEXCELファイルをロードし、最初にEXCELをPDFに変換し、SaveFormatをAutoに設定します。次に、Documentクラスを使用して変換されたPDFファイルをロードし、Saveメソッドを呼び出して、Doc、DocxをSaveFormatとして設定します。 Microsoft**ExcelからPowerpoint**への変換用のコードもリストされています。
+Microsoft Excel形式をWordやPowerPointなどのさまざまなファイルに変換するために、メインのAspose.Total for.NETAPIに含まれる関連するサブAPI。 ExcelファイルをWord文書に変換するプロセス、[Workbook]（https://reference.aspose.com/cells/net/aspose.cells/workbook）クラスを使用してEXCELファイルをロードし、最初にEXCELをPDFに変換し、SaveFormatをAutoに設定します。次に、Documentクラスを使用して変換されたPDFファイルをロードし、Saveメソッドを呼び出して、Doc、DocxをSaveFormatとして設定します。 Microsoft**ExcelからPowerpoint**への変換用のコードもリストされています。
 
 {{% blocks/products/pf/feature-page-code h3="C＃-JSONからExcelへの変換" %}}
 

@@ -18,10 +18,10 @@ Pomocí [Aspose.Total for .NET](https://products.aspose.com/total/net/) můžete
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak převést POTM na XLS přes C#" %}}
-1. Otevřete soubor POTM pomocí třídy [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-2. Exportujte POTM jako HTML pomocí metody [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
-3. Načtěte dokument HTML pomocí třídy [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Uložte dokument do XLS pomocí metody [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+1. Otevřete soubor POTM pomocí třídy [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+2. Exportujte POTM jako HTML pomocí metody [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+3. Načtěte dokument HTML pomocí třídy [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Uložte dokument do XLS pomocí metody [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}

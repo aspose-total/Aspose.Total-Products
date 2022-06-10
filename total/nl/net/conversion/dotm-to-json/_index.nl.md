@@ -18,10 +18,10 @@ Door [Aspose.Total for .NET](https://products.aspose.com/total/net/) te gebruike
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converteer DOTM naar JSON-formaat via C#" %}}
-1. Open het DOTM-bestand met de klasse [Dotmument](https://apireference.aspose.com/words/net/aspose.words/dotmument)
-2. Converteer DOTM naar HTML met behulp van de [Save](https://apireference.aspose.com/words/net/aspose.words.dotmument/save/methods/4) methode
-3. Laad HTML-dotmument met behulp van [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) class
-4. Sla het dotmument op in JSON-indeling met de methode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+1. Open het DOTM-bestand met de klasse [Dotmument](https://reference.aspose.com/words/net/aspose.words/dotmument)
+2. Converteer DOTM naar HTML met behulp van de [Save](https://reference.aspose.com/words/net/aspose.words.dotmument/save/methods/4) methode
+3. Laad HTML-dotmument met behulp van [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class
+4. Sla het dotmument op in JSON-indeling met de methode [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}

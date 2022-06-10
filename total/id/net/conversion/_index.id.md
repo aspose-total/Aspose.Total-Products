@@ -26,8 +26,8 @@ Total API mendukung tidak hanya antar konversi format Microsoft Word tetapi juga
 
 
 {{% blocks/products/pf/feature-page-section  h2="Konversi PDF ke Gambar" %}}
-API mendukung konversi PDF ke Gambar, Powerpoint, Excel, dan format lainnya. Untuk konversi PDF ke Gambar, mari pertimbangkan gambar JPG sebagai file target. Prosesnya adalah, muat file PDF menggunakan kelas Dokumen dan inisialisasi objek [kelas JpegDevice](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) dan render PDF ke JPEG melalui [Proses](https metode://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1)
-Muat file JPEG dengan menggunakan kelas [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) dan terakhir panggil metode Save.
+API mendukung konversi PDF ke Gambar, Powerpoint, Excel, dan format lainnya. Untuk konversi PDF ke Gambar, mari pertimbangkan gambar JPG sebagai file target. Prosesnya adalah, muat file PDF menggunakan kelas Dokumen dan inisialisasi objek [kelas JpegDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) dan render PDF ke JPEG melalui [Proses](https metode://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1)
+Muat file JPEG dengan menggunakan kelas [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) dan terakhir panggil metode Save.
 
 {{% blocks/products/pf/feature-page-code h3="C# - Konversi PDF ke Gambar" %}}
 
@@ -41,7 +41,7 @@ Muat file JPEG dengan menggunakan kelas [Image](https://apireference.aspose.com/
 
 {{% blocks/products/pf/feature-page-section  h2="Konversi Excel ke Word dan PowerPoint" %}}
 
-Untuk mengonversi format Microsoft Excel ke file yang berbeda termasuk Word dan PowerPoint, sub API yang relevan melibatkan Aspose.Total utama untuk .NET API. Proses konversi file Excel ke dokumen Word, muat file EXCEL menggunakan kelas [Buku Kerja](https://apireference.aspose.com/cells/net/aspose.cells/workbook) dan konversi EXCEL ke PDF terlebih dahulu dan setel SaveFormat ke Auto. Kemudian muat file PDF yang dikonversi menggunakan kelas Dokumen dan panggil metode Simpan dan atur Doc, Docx sebagai SaveFormat. Kode juga terdaftar untuk konversi Microsoft **Excel ke Powerpoint**.
+Untuk mengonversi format Microsoft Excel ke file yang berbeda termasuk Word dan PowerPoint, sub API yang relevan melibatkan Aspose.Total utama untuk .NET API. Proses konversi file Excel ke dokumen Word, muat file EXCEL menggunakan kelas [Buku Kerja](https://reference.aspose.com/cells/net/aspose.cells/workbook) dan konversi EXCEL ke PDF terlebih dahulu dan setel SaveFormat ke Auto. Kemudian muat file PDF yang dikonversi menggunakan kelas Dokumen dan panggil metode Simpan dan atur Doc, Docx sebagai SaveFormat. Kode juga terdaftar untuk konversi Microsoft **Excel ke Powerpoint**.
 
 {{% blocks/products/pf/feature-page-code h3="C# - Konversi JSON ke Excel" %}}
 

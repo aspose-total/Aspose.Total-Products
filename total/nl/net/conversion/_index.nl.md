@@ -26,8 +26,8 @@ Total API ondersteunt niet alleen interconversie van Microsoft Word-formaten, ma
 
 
 {{% blocks/products/pf/feature-page-section  h2="PDF naar afbeeldingen converteren" %}}
-API ondersteunt het converteren van PDF naar afbeeldingen, Powerpoint, Excel en andere formaten. Laten we voor conversie van PDF naar afbeelding de JPG-afbeelding als doelbestand beschouwen. Proces is, laad het PDF-bestand met Document class en initialiseer het [JpegDevice class](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) object en render PDF naar JPEG via [Process](https ://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) methode
-Laad het JPEG-bestand met behulp van de klasse [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) en roep ten slotte de Save-methode aan.
+API ondersteunt het converteren van PDF naar afbeeldingen, Powerpoint, Excel en andere formaten. Laten we voor conversie van PDF naar afbeelding de JPG-afbeelding als doelbestand beschouwen. Proces is, laad het PDF-bestand met Document class en initialiseer het [JpegDevice class](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) object en render PDF naar JPEG via [Process](https ://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) methode
+Laad het JPEG-bestand met behulp van de klasse [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) en roep ten slotte de Save-methode aan.
 
 {{% blocks/products/pf/feature-page-code h3="C# - PDF naar afbeeldingsconversie" %}}
 
@@ -41,7 +41,7 @@ Laad het JPEG-bestand met behulp van de klasse [Image](https://apireference.aspo
 
 {{% blocks/products/pf/feature-page-section  h2="Converteer Excel naar Word en PowerPoint" %}}
 
-Voor het converteren van Microsoft Excel-indelingen naar verschillende bestanden, waaronder Word en PowerPoint, relevante sub-API's van de belangrijkste Aspose.Total voor .NET API. Proces van het converteren van Excel-bestanden naar Word-document, laad het EXCEL-bestand met behulp van de [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) klasse en converteer eerst EXCEL naar PDF en stel SaveFormat in op Auto. Laad vervolgens het geconverteerde PDF-bestand met de Document-klasse en roep de Save-methode aan en stel Doc, Docx in als SaveFormat. Code ook vermeld voor Microsoft **Excel naar Powerpoint** conversie.
+Voor het converteren van Microsoft Excel-indelingen naar verschillende bestanden, waaronder Word en PowerPoint, relevante sub-API's van de belangrijkste Aspose.Total voor .NET API. Proces van het converteren van Excel-bestanden naar Word-document, laad het EXCEL-bestand met behulp van de [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) klasse en converteer eerst EXCEL naar PDF en stel SaveFormat in op Auto. Laad vervolgens het geconverteerde PDF-bestand met de Document-klasse en roep de Save-methode aan en stel Doc, Docx in als SaveFormat. Code ook vermeld voor Microsoft **Excel naar Powerpoint** conversie.
 
 {{% blocks/products/pf/feature-page-code h3="C# - JSON naar Excel-conversie" %}}
 

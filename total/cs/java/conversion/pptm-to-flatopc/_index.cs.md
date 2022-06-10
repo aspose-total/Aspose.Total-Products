@@ -16,10 +16,10 @@ otherformats: ODT WORDML FLATOPC RTF DOTM OTT WORD FLATOPCX DOT DOTX TEXT FLATOP
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak převést PPTM na FLATOPC přes Java" %}}
-1. Otevřete soubor PPTM pomocí třídy [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Převeďte PPTM do HTML pomocí [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) a nastavte Html jako SaveFormat
-3. Načtěte převedený soubor HTML pomocí třídy [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument)
-4. Uložte dokument ve formátu FLATOPC pomocí metody [save](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,int))
+1. Otevřete soubor PPTM pomocí třídy [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. Převeďte PPTM do HTML pomocí [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) a nastavte Html jako SaveFormat
+3. Načtěte převedený soubor HTML pomocí třídy [Flatopcument](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument)
+4. Uložte dokument ve formátu FLATOPC pomocí metody [save](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Pro převod souborů PPTM na FLATOPC můžete snadno použít Aspose.Total for Java přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a zahrňte knihovny do vašeho pom.xml.
@@ -34,7 +34,7 @@ Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.c
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Požadavky na převod" %}}
-Pomocí API můžete také provést převod PPTM souboru na FLATOPC s vodoznakem. Chcete-li přidat vodoznak do dokumentu FLATOPC, můžete nejprve převést soubor PPTM do HTML a přidat do něj vodoznak. Chcete-li přidat vodoznak, načtěte nově vytvořený soubor HTML pomocí třídy [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument), vytvořte instanci TextWatermarkOptions a nastavte jeho vlastnosti, zavolejte metodu Watermark.setText a předejte text vodoznaku a objekt TextWatermarkOptions.  
+Pomocí API můžete také provést převod PPTM souboru na FLATOPC s vodoznakem. Chcete-li přidat vodoznak do dokumentu FLATOPC, můžete nejprve převést soubor PPTM do HTML a přidat do něj vodoznak. Chcete-li přidat vodoznak, načtěte nově vytvořený soubor HTML pomocí třídy [Flatopcument](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument), vytvořte instanci TextWatermarkOptions a nastavte jeho vlastnosti, zavolejte metodu Watermark.setText a předejte text vodoznaku a objekt TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}

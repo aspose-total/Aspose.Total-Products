@@ -37,10 +37,10 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. 添加 Aspose.Slides for .NET 和 Aspose.Words for .NET 的引用
-1. 使用 [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) 类加载 PowerPoint PPT 演示文稿
+1. 使用 [Aspose.Slides.Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) 类加载 PowerPoint PPT 演示文稿
 1. 将文档保存到 [MemoryStream](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0) 对象中
-1. 创建 [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) 并使用 MemoryStream 对象对其进行初始化
-1. 使用 [Aspose.Words.Document.Save("output.dotm", SaveFormat.Dotm)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3) 保存文档)
+1. 创建 [Aspose.Words.Document](https://reference.aspose.com/words/net/aspose.words/document) 并使用 MemoryStream 对象对其进行初始化
+1. 使用 [Aspose.Words.Document.Save("output.dotm", SaveFormat.Dotm)](https://reference.aspose.com/words/net/aspose.words.document/save/methods/3) 保存文档)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

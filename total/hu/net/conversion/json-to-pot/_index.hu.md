@@ -18,10 +18,10 @@ Két egyszerű lépésben konvertálhatja a JSON-t POT-vé bármely .NET, C#, AS
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertálja a JSON formátumot POT-vé a C# segítségével" %}}
-1. Hozzon létre egy új [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) objektumot, és olvassa be az érvényes JSON-adatokat a fájlból
-2. Importálja a JSON-fájlt a munkalapra a [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) osztály és a [Save](https://apireference.aspose.com/) használatával. cell/net/aspose.cells.workbook/save/methods/4) PPTX-ként
-3. Töltse be a PPTX dokumentumot a [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) osztály használatával
-4. Mentse a dokumentumot POT formátumba a [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) módszerrel
+1. Hozzon létre egy új [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) objektumot, és olvassa be az érvényes JSON-adatokat a fájlból
+2. Importálja a JSON-fájlt a munkalapra a [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) osztály és a [Save](https://reference.aspose.com/) használatával. cell/net/aspose.cells.workbook/save/methods/4) PPTX-ként
+3. Töltse be a PPTX dokumentumot a [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) osztály használatával
+4. Mentse a dokumentumot POT formátumba a [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) módszerrel
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
@@ -39,7 +39,7 @@ Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eke
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Állítsa be az elrendezést, és konvertálja a JSON-formátumot POT-re C#-on keresztül" %}}
-A JSON POT-re történő elemzése közben a JSON-formátum elrendezési beállításait is megadhatja a [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayotoptions) segítségével. Lehetővé teszi a tömb táblázatként történő feldolgozását, a nullák figyelmen kívül hagyását, a tömb címének figyelmen kívül hagyását, az objektum címének figyelmen kívül hagyását, a karakterlánc számmá vagy dátummá alakítását, a dátum és számformátum beállítását, valamint a címstílus beállítását. Mindezek a lehetőségek lehetővé teszik, hogy adatait az igényeinek megfelelően mutassa be. A következő kódrészlet bemutatja, hogyan állíthatja be az elrendezési beállításokat.  
+A JSON POT-re történő elemzése közben a JSON-formátum elrendezési beállításait is megadhatja a [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayotoptions) segítségével. Lehetővé teszi a tömb táblázatként történő feldolgozását, a nullák figyelmen kívül hagyását, a tömb címének figyelmen kívül hagyását, az objektum címének figyelmen kívül hagyását, a karakterlánc számmá vagy dátummá alakítását, a dátum és számformátum beállítását, valamint a címstílus beállítását. Mindezek a lehetőségek lehetővé teszik, hogy adatait az igényeinek megfelelően mutassa be. A következő kódrészlet bemutatja, hogyan állíthatja be az elrendezési beállításokat.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "set-layout-and-parse-json-to-powerpoint.cs" >}}
@@ -48,7 +48,7 @@ A JSON POT-re történő elemzése közben a JSON-formátum elrendezési beáll�
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Konvertálja a JSON formátumot POT-re vízjellel" %}}
-Az API használatával a JSON-t vízjellel POT-vé is konvertálhatja. Ha vízjelet szeretne hozzáadni az POT-dokumentumhoz, először elemezze a JSON-t PPTX-be, és adjon hozzá egy vízjelet. Vízjel hozzáadásához töltse be az újonnan létrehozott PPTX fájlt a [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) osztály segítségével, válassza ki a főprezentációt, és adja meg az alakzat típusát a segítségével AddAutoShape, és adjon hozzá vízjelszöveget az AddTextFrame segítségével. A vízjel hozzáadása után elmentheti a dokumentumot az POT-be. 
+Az API használatával a JSON-t vízjellel POT-vé is konvertálhatja. Ha vízjelet szeretne hozzáadni az POT-dokumentumhoz, először elemezze a JSON-t PPTX-be, és adjon hozzá egy vízjelet. Vízjel hozzáadásához töltse be az újonnan létrehozott PPTX fájlt a [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) osztály segítségével, válassza ki a főprezentációt, és adja meg az alakzat típusát a segítségével AddAutoShape, és adjon hozzá vízjelszöveget az AddTextFrame segítségével. A vízjel hozzáadása után elmentheti a dokumentumot az POT-be. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}

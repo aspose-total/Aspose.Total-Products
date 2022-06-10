@@ -16,11 +16,11 @@ Ofta måste utvecklare konvertera TXT-fil till POT programmatiskt. Genom att anv
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hur man konverterar TXT till POT via Java" %}}
-1. Öppna TXT-filen med klassen [Txtument](https://apireference.aspose.com/words/java/com.aspose.words/Txtument)
-2. Konvertera TXT-fil till HTML genom att använda [save](https://apireference.aspose.com/words/java/com.aspose.words/Txtument#save(java.lang.String,com.aspose.words.SaveOptions)) metod
-3. Initiera ett nytt [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) objekt
+1. Öppna TXT-filen med klassen [Txtument](https://reference.aspose.com/words/java/com.aspose.words/Txtument)
+2. Konvertera TXT-fil till HTML genom att använda [save](https://reference.aspose.com/words/java/com.aspose.words/Txtument#save(java.lang.String,com.aspose.words.SaveOptions)) metod
+3. Initiera ett nytt [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) objekt
 5. Extrahera innehåll från HTML-fil med BufferedReader och skriv innehållet i din presentationsfil
-6. Spara dokumentet till POT med metoden [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. Spara dokumentet till POT med metoden [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
 För konvertering av TXT till POT-fil kan du enkelt använda Aspose.Total för Java direkt från en [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) baserat projekt och inkludera bibliotek i din pom.xml.

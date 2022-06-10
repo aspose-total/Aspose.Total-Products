@@ -16,10 +16,10 @@ otherformats: POWERPOINTX PPTX WORD POWERPOINT
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="如何通过 Java API 将 XLT 转换为 POWERPOINT" %}}
-1. 使用 [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) 类打开 XLT 文件
+1. 使用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 类打开 XLT 文件
 2. 将 XLT 转换为 PDF 并将 SaveFormat 设置为 AUTO
-3.使用[Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)类加载转换后的PDF文件
-4. 使用[save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions)将文档保存为POWERPOINT格式-) 方法并将 Powerpoint 设置为 SaveFormat
+3.使用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)类加载转换后的PDF文件
+4. 使用[save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions)将文档保存为POWERPOINT格式-) 方法并将 Powerpoint 设置为 SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
 您必须直接从基于 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) 的项目中使用 Aspose.Total for Java并在您的 pom.xml 中包含库。

@@ -16,10 +16,10 @@ otherformats: POWERPOINTX POWERPOINT PPTX WORD
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как конвертировать XLSB в POWERPOINT через Java API" %}}
-1. Откройте файл XLSB с помощью класса [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).
+1. Откройте файл XLSB с помощью класса [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
 2. Преобразуйте XLSB в PDF и установите для SaveFormat значение AUTO.
-3. Загрузите преобразованный файл PDF с помощью класса [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document).
-4. Сохраните документ в формате POWERPOINT, используя [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) метод и установите Powerpoint как SaveFormat
+3. Загрузите преобразованный файл PDF с помощью класса [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document).
+4. Сохраните документ в формате POWERPOINT, используя [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) метод и установите Powerpoint как SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
 Вы должны использовать Aspose.Total для Java непосредственно из проекта на основе [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total). и включите библиотеки в свой pom.xml.

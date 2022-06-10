@@ -18,10 +18,10 @@ Dengan menggunakan [Aspose.Total for .NET](https://products.aspose.com/total/net
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API untuk Mengonversi WORD ke XLTM" %}}
-1. Buka file WORD menggunakan kelas [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-2. Konversi WORD ke HTML dengan menggunakan metode [Simpan](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)
-3. Muat dokumen HTML dengan menggunakan kelas [Buku Kerja](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Simpan dokumen ke format XLTM menggunakan metode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) dan setel `XLTM` sebagai SaveFormat
+1. Buka file WORD menggunakan kelas [Document](https://reference.aspose.com/words/net/aspose.words/document)
+2. Konversi WORD ke HTML dengan menggunakan metode [Simpan](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. Muat dokumen HTML dengan menggunakan kelas [Buku Kerja](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Simpan dokumen ke format XLTM menggunakan metode [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) dan setel `XLTM` sebagai SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
@@ -39,7 +39,7 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Muat Dokumen WORD dari Stream melalui C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) juga memungkinkan Anda memuat dokumen WORD melalui aliran. Untuk membuka dokumen dari aliran, cukup teruskan objek aliran yang berisi dokumen ke konstruktor [Dokumen](https://apireference.aspose.com/words/net/aspose.words/document). Contoh kode berikut menunjukkan cara membuka dokumen dari aliran:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) juga memungkinkan Anda memuat dokumen WORD melalui aliran. Untuk membuka dokumen dari aliran, cukup teruskan objek aliran yang berisi dokumen ke konstruktor [Dokumen](https://reference.aspose.com/words/net/aspose.words/document). Contoh kode berikut menunjukkan cara membuka dokumen dari aliran:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -47,7 +47,7 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Tambahkan Properti Kustom dalam File XLTM melalui C#" %}}
-Saat mengonversi WORD ke XLTM, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) memungkinkan Anda menambahkan properti khusus di dokumen XLTM Anda. Untuk menambahkan properti kustom, Anda dapat menggunakan metode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) untuk [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) kelas. Metode Add menambahkan properti ke file Excel dan mengembalikan referensi untuk properti dokumen baru sebagai [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /documentproperty) objek. 
+Saat mengonversi WORD ke XLTM, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) memungkinkan Anda menambahkan properti khusus di dokumen XLTM Anda. Untuk menambahkan properti kustom, Anda dapat menggunakan metode [Add](https://reference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) untuk [CustomDocumentPropertyCollection](https://reference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) kelas. Metode Add menambahkan properti ke file Excel dan mengembalikan referensi untuk properti dokumen baru sebagai [Aspose.Cells.Properties.DocumentProperty](https://reference.aspose.com/cells/net/aspose.cells.properties /documentproperty) objek. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

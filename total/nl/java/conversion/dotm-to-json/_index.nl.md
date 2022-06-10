@@ -16,10 +16,10 @@ Het converteren van DOTM naar JSON-formaat via [Aspose.Total for Java](https://p
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converteer DOTM naar JSON-formaat via Java" %}}
-1. Open het DOTM-bestand met de klasse [Dotmument](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument)
-2. Converteer DOTM naar HTML met behulp van [Save](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,com.aspose.words.SaveOptions) ) methode:
-3. Laad HTML-dotmument met behulp van [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) klasse
-4. Sla het dotmument op in JSON-indeling met [Save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) methode
+1. Open het DOTM-bestand met de klasse [Dotmument](https://reference.aspose.com/words/java/com.aspose.words/Dotmument)
+2. Converteer DOTM naar HTML met behulp van [Save](https://reference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,com.aspose.words.SaveOptions) ) methode:
+3. Laad HTML-dotmument met behulp van [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) klasse
+4. Sla het dotmument op in JSON-indeling met [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) methode
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
 U kunt Aspose.Total voor Java gemakkelijk rechtstreeks vanuit een op [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) gebaseerd project gebruiken en neem bibliotheken op in uw po.xml.

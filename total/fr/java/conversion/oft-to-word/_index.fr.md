@@ -16,10 +16,10 @@ La conversion des e-mails est une fonctionnalité puissante que les développeur
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Comment convertir OFT en WORD" %}}
-1. Ouvrez le fichier OFT à l'aide de la classe [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)
-2. Convertissez OFT en HTML en utilisant [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) méthode
-3. Chargez HTML en utilisant la classe [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Enregistrez le document au format WORD en utilisant [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) et définissez WORD comme SaveFormat
+1. Ouvrez le fichier OFT à l'aide de la classe [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Convertissez OFT en HTML en utilisant [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) méthode
+3. Chargez HTML en utilisant la classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. Enregistrez le document au format WORD en utilisant [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) et définissez WORD comme SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
 Vous devez utiliser Aspose.Total pour Java directement à partir d'un projet basé sur [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et incluez des bibliothèques dans votre pom.xml.

@@ -159,7 +159,7 @@ Aspose.Total är en kraftfull svit för att bearbeta nästan alla typer av dokum
 {{< blocks/products/pf/slr-tab tabTitle="Lärresurser" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/total/androidjava/" >}} 
 {{< blocks/products/pf/slr-element name="Källkod" href="http://aspose.github.io/" >}} 
-{{< blocks/products/pf/slr-element name="Aspose API-referenser" href="https://apireference.aspose.com/" >}} 
+{{< blocks/products/pf/slr-element name="Aspose API-referenser" href="https://reference.aspose.com/" >}} 
 {{< blocks/products/pf/slr-element name="Handledningsvideor" href="https://www.youtube.com/user/asposevideo" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 

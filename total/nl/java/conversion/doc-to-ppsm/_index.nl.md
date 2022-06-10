@@ -16,11 +16,11 @@ Vaak moeten ontwikkelaars het DOC-bestand programmatisch naar PPSM converteren. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hoe DOC naar PPSM te converteren via Java" %}}
-1. Open het DOC-bestand met de klasse [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-2. Converteer het DOC-bestand naar HTML met behulp van [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) methode
-3. Initialiseer een nieuw [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) object
+1. Open het DOC-bestand met de klasse [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Converteer het DOC-bestand naar HTML met behulp van [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) methode
+3. Initialiseer een nieuw [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object
 5. Extraheer inhoud uit HTML-bestand met BufferedReader en schrijf de inhoud in uw presentatiebestand
-6. Sla het document op in PPSM met de methode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. Sla het document op in PPSM met de methode [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
 Voor DOC naar PPSM-bestandsconversie kunt u Aspose.Total voor Java eenvoudig rechtstreeks vanuit een [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) gebaseerd project en neem bibliotheken op in uw pom.xml.

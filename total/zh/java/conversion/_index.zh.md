@@ -13,7 +13,7 @@ description: 只需几行 Java 代码即可转换 Microsoft Office Word、Excel�
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Word 到 Excel 转换" %}}
-Total API 不仅支持 Microsoft Word 格式的相互转换，还支持将 Word 转换为 Excel、PDF、HTML、Images、EPUB、Markdown 和 XPS。转换过程很简单。让我们考虑 **Word 到 Excel** 转换的情况。使用 [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) 类加载 Microsoft Word 文件，并使用 [Save method](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))。接下来使用 [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) 类打开转换后的 HTML 文档，并使用 [Save](https:// /apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) 方法。
+Total API 不仅支持 Microsoft Word 格式的相互转换，还支持将 Word 转换为 Excel、PDF、HTML、Images、EPUB、Markdown 和 XPS。转换过程很简单。让我们考虑 **Word 到 Excel** 转换的情况。使用 [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 类加载 Microsoft Word 文件，并使用 [Save method](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))。接下来使用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 类打开转换后的 HTML 文档，并使用 [Save](https:// /apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) 方法。
  开发者还可以将【Word转PDF】（https://products.aspose.com/words/java/conversion/word-to-pdf/）。
 
 
@@ -27,8 +27,8 @@ Total API 不仅支持 Microsoft Word 格式的相互转换，还支持将 Word 
 
 
 {{% blocks/products/pf/feature-page-section  h2="将 PDF 转换为图像" %}}
-API支持将PDF转换为JPEG2000、EMZ、WMZ、TGA、PSD、DXF、WMF、SVGZ、APNG、DICOM、Powerpoint、Excel等格式的图像。对于 PDF 到图像的转换，让我们将 JPG 图像视为目标文件。过程是，使用 Document 类加载 PDF 文件并初始化 [JpegDevice 类](https://apireference.aspose.com/pdf/java/aspose.pdf.devices/jpegdevice) 对象并通过 [Process](https) 将 PDF 渲染为 JPEG ://apireference.aspose.com/pdf/java/aspose.pdf.devices.pagedevice/process/methods/1) 方法
-使用 [Image](https://apireference.aspose.com/imaging/java/aspose.imaging/image) 类加载 JPEG 文件，最后调用 Save 方法。
+API支持将PDF转换为JPEG2000、EMZ、WMZ、TGA、PSD、DXF、WMF、SVGZ、APNG、DICOM、Powerpoint、Excel等格式的图像。对于 PDF 到图像的转换，让我们将 JPG 图像视为目标文件。过程是，使用 Document 类加载 PDF 文件并初始化 [JpegDevice 类](https://reference.aspose.com/pdf/java/aspose.pdf.devices/jpegdevice) 对象并通过 [Process](https) 将 PDF 渲染为 JPEG ://apireference.aspose.com/pdf/java/aspose.pdf.devices.pagedevice/process/methods/1) 方法
+使用 [Image](https://reference.aspose.com/imaging/java/aspose.imaging/image) 类加载 JPEG 文件，最后调用 Save 方法。
 
 {{% blocks/products/pf/feature-page-code h3="Java PDF to Image Conversion" %}}
 
@@ -42,7 +42,7 @@ API支持将PDF转换为JPEG2000、EMZ、WMZ、TGA、PSD、DXF、WMF、SVGZ、AP
 
 {{% blocks/products/pf/feature-page-section  h2="将 PowerPoint 转换为 Excel 文件" %}}
 
-用于将 Microsoft PowerPoint 文件转换为不同的文件，包括 Excel Word、MHTML、涉及主要 Aspose.Total for Java API 的相关子 API。将 PowerPoint 文件转换为 Excel 文档的过程，使用 [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) 类加载 PowerPoint 文件并将 **PowerPoint 转换为 HTML** 通过使用 [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) 方法。接下来使用 [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) 类加载转换后的 HTML 文档，并使用 [save](https:// /apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) 方法。 还列出了 **PowerPoint 到 Word** 转换的代码。
+用于将 Microsoft PowerPoint 文件转换为不同的文件，包括 Excel Word、MHTML、涉及主要 Aspose.Total for Java API 的相关子 API。将 PowerPoint 文件转换为 Excel 文档的过程，使用 [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 类加载 PowerPoint 文件并将 **PowerPoint 转换为 HTML** 通过使用 [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) 方法。接下来使用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 类加载转换后的 HTML 文档，并使用 [save](https:// /apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) 方法。 还列出了 **PowerPoint 到 Word** 转换的代码。
 
 {{% blocks/products/pf/feature-page-code h3="Java PowerPoint 到 Excel 转换" %}}
 

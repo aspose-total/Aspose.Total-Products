@@ -46,7 +46,7 @@ JasperReports या JasperServer से Word, Excel, PowerPoint और अन�
 {{< blocks/products/pf/slr-tab tabTitle="सीखने के संसाधन" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="प्रलेखन" href="https://docs.aspose.com/total/" >}}
 {{< blocks/products/pf/slr-element name="सोर्स कोड" href="http://aspose.github.io/" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="ट्यूटोरियल वीडियो" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

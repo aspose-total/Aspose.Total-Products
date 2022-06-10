@@ -18,10 +18,10 @@ otherformats: XLS EXCEL MHTML XLAM ODS XLTM FODS DIF TSV XLT MARKDOWN XLSX SXC X
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="POWERPOINT'u C# ile TSV'ye Dönüştürme" %}}
-1. [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) sınıfını kullanarak POWERPOINT dosyasını açın
-2. [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) yöntemini kullanarak POWERPOINT'u HTML olarak dışa aktarın
-3. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) sınıfını kullanarak HTML belgesini yükleyin
-4. [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) yöntemini kullanarak belgeyi TSV'ye kaydedin
+1. [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) sınıfını kullanarak POWERPOINT dosyasını açın
+2. [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) yöntemini kullanarak POWERPOINT'u HTML olarak dışa aktarın
+3. [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) sınıfını kullanarak HTML belgesini yükleyin
+4. [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) yöntemini kullanarak belgeyi TSV'ye kaydedin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Dönüşüm Gereksinimleri" %}}

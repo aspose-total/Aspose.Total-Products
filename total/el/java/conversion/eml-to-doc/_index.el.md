@@ -16,10 +16,10 @@ otherformats: MD PCL PS JPEG TIFF RTF DOTX PNG DOC DOCM DOCX EPUB DOT WORDML EMF
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Πώς να μετατρέψετε το EML σε DOC" %}}
-1. Ανοίξτε το αρχείο EML χρησιμοποιώντας την τάξη [MailMessage](https://apireference.aspose.com/eml/java/com.aspose.eml/mailmessage)
-2. Μετατρέψτε το EML σε HTML χρησιμοποιώντας [save](https://apireference.aspose.com/eml/java/com.aspose.eml/MailMessage#save(java.io.OutputStream,%20com.aspose.eml.SaveOptions)) μέθοδος
-3. Φορτώστε το HTML χρησιμοποιώντας την κλάση [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Αποθηκεύστε το έγγραφο σε μορφή DOC χρησιμοποιώντας [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) και ορίστε το DOC ως SaveFormat
+1. Ανοίξτε το αρχείο EML χρησιμοποιώντας την τάξη [MailMessage](https://reference.aspose.com/eml/java/com.aspose.eml/mailmessage)
+2. Μετατρέψτε το EML σε HTML χρησιμοποιώντας [save](https://reference.aspose.com/eml/java/com.aspose.eml/MailMessage#save(java.io.OutputStream,%20com.aspose.eml.SaveOptions)) μέθοδος
+3. Φορτώστε το HTML χρησιμοποιώντας την κλάση [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. Αποθηκεύστε το έγγραφο σε μορφή DOC χρησιμοποιώντας [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) και ορίστε το DOC ως SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
 Πρέπει να χρησιμοποιήσετε το Aspose.Total για Java απευθείας από ένα έργο που βασίζεται στο [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) και συμπεριλάβετε βιβλιοθήκες στο pom.xml σας.

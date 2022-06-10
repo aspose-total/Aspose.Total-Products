@@ -37,11 +37,11 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. 为 .NET 添加 Aspose.Total 的引用
-1. 使用 [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) 类加载 DOT 文件
+1. 使用 [Aspose.Words.Document](https://reference.aspose.com/words/net/aspose.words/document) 类加载 DOT 文件
 1. 将 DOT 文档保存为 HTML
-1. 创建 [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) 对象
+1. 创建 [Aspose.Slides.Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) 对象
 1. 在演示文稿内任何幻灯片形状的文本框架中导入 HTML 内容
-1. 使用 [Aspose.Slides.Presentation.Save("output.ppsm", SaveFormat.Ppsm)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) 保存文档)
+1. 使用 [Aspose.Slides.Presentation.Save("output.ppsm", SaveFormat.Ppsm)](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) 保存文档)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

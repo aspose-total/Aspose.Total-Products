@@ -18,10 +18,10 @@ You can convert CGM to DOTX by using two simple steps. First you need to render 
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java API to Convert CGM to DOTX" %}}
-1. Open CGM file using [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Convert CGM to DOC by using [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method
-3. Load DOC file by using [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) class of Aspose.Words  
-4. Save the document to DOTX format using [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) method and set DOTX as SaveFormat
+1. Open CGM file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
+2. Convert CGM to DOC by using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method
+3. Load DOC file by using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class of Aspose.Words  
+4. Save the document to DOTX format using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) method and set DOTX as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Manipulation APIs" %}}
@@ -45,7 +45,7 @@ outputDocument.save("output.dotx", SaveFormat.DOTX);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Open Password Protected CGM Document via Java" %}}
-While converting CGM to DOTX, even if your document is password protected, you can still open it using PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). In order to open the encrypted file, you need to create a [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) object and open the CGM using the owner’s password. 
+While converting CGM to DOTX, even if your document is password protected, you can still open it using PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). In order to open the encrypted file, you need to create a [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) object and open the CGM using the owner’s password. 
 {{% blocks/products/pf/feature-page-code %}}
 ```cs
 // open encrypted document

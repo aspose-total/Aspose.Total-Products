@@ -16,10 +16,10 @@ Converter DOT para TSV via [Aspose.Total for Java](https://products.aspose.com/t
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API C++ para converter DOT para TSV" %}}
-1. Abra o arquivo DOT usando a classe [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-2. Converta DOT para HTML usando [Salvar](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) método
-3. Carregue o Documento HTML usando a classe [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Salve o Documento no formato TSV usando [Salvar](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) método
+1. Abra o arquivo DOT usando a classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Converta DOT para HTML usando [Salvar](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) método
+3. Carregue o Documento HTML usando a classe [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Salve o Documento no formato TSV usando [Salvar](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
 Você pode facilmente usar o Aspose.Total para Java diretamente de um projeto baseado em [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e inclua [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) e [Aspose.Cells for Java](https://docs.aspose.com/cells/java/installation/) em seu pom.xml.
@@ -34,7 +34,7 @@ Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloa
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisitos de conversão" %}}
-Antes de converter DOT para TSV, você pode remover informações não utilizadas do Documento DOT via [Aspose.Words for Java](https://products.aspose.com/words/java/). Às vezes, pode ser necessário remover informações não utilizadas ou duplicadas para reduzir o tamanho do Documento de saída e o tempo de processamento. A classe [CleanupOptions](https://apireference.aspose.com/words/java/com.aspose.words/CleanupOptions) permite especificar opções para limpeza de Documentos. Para remover estilos duplicados ou apenas estilos ou listas não utilizados do Documento, você pode usar o método [Cleanup](https://apireference.aspose.com/words/java/com.aspose.words/Document#cleanup()). Você pode usar os [UnusedStyles](https://apireference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) e [UnusedBuiltinStyles](https://apireference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedBuiltinStyles) para detectar e remover estilos marcados como “não usados”.  
+Antes de converter DOT para TSV, você pode remover informações não utilizadas do Documento DOT via [Aspose.Words for Java](https://products.aspose.com/words/java/). Às vezes, pode ser necessário remover informações não utilizadas ou duplicadas para reduzir o tamanho do Documento de saída e o tempo de processamento. A classe [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) permite especificar opções para limpeza de Documentos. Para remover estilos duplicados ou apenas estilos ou listas não utilizados do Documento, você pode usar o método [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Document#cleanup()). Você pode usar os [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) e [UnusedBuiltinStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedBuiltinStyles) para detectar e remover estilos marcados como “não usados”.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-Document.java" >}}
@@ -42,7 +42,7 @@ Antes de converter DOT para TSV, você pode remover informações não utilizada
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Remover informações não utilizadas de um Documento DOT via Java" %}}
-Depois de converter DOT para TSV, o [Aspose.Cells for Java](https://products.aspose.com/cells/java/) permite que você salve seu Documento para transmitir. Se você precisar salvar arquivos em um Stream, deverá criar um objeto FileOutputStream e [salvar](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions)) o arquivo para esse objeto Stream chamando o método save de [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) objeto. 
+Depois de converter DOT para TSV, o [Aspose.Cells for Java](https://products.aspose.com/cells/java/) permite que você salve seu Documento para transmitir. Se você precisar salvar arquivos em um Stream, deverá criar um objeto FileOutputStream e [salvar](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions)) o arquivo para esse objeto Stream chamando o método save de [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) objeto. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}

@@ -19,10 +19,10 @@ Rendering SXC to DOC is a two step process. You’ll first use [Aspose.Cells for
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="SXC to DOC Conversion on Java" %}}
-1. Open SXC file using [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) class
+1. Open SXC file using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
 2. Convert SXC to PDF and set SaveFormat to AUTO
-3. Load the converted PDF file using [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-4. Save the document to DOC format using [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method and set Doc as SaveFormat
+3. Load the converted PDF file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
+4. Save the document to DOC format using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method and set Doc as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Format APIs" %}}

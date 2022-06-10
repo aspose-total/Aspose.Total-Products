@@ -18,10 +18,10 @@ otherformats: POT PPS PPTM XAML OTP PPSX POTX PPSM PPT SWF POWERPOINT POTM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API для преобразования MHTML в OTP" %}}
-1. Откройте файл MHTML, используя класс [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document).
-2. Преобразуйте MHTML в PPTX, используя метод [Сохранить](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5).
-3. Загрузите файл PPTX с помощью класса [Презентация](https://apireference.aspose.com/slides/net/aspose.slides/presentation).
-4. Сохраните документ в формате OTP с помощью метода [Сохранить](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) и установите «Otp» в качестве SaveFormat.
+1. Откройте файл MHTML, используя класс [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document).
+2. Преобразуйте MHTML в PPTX, используя метод [Сохранить](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5).
+3. Загрузите файл PPTX с помощью класса [Презентация](https://reference.aspose.com/slides/net/aspose.slides/presentation).
+4. Сохраните документ в формате OTP с помощью метода [Сохранить](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) и установите «Otp» в качестве SaveFormat.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}
@@ -46,7 +46,7 @@ presentation.Save("output.otp", SaveFormat.Otp);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Получить метаданные XMP из файла MHTML через .NET" %}}
-При преобразовании MHTML в OTP вам может понадобиться дополнительная информация о метаданных XMP, чтобы определить приоритетность процесса пакетного преобразования. Например, вы можете получать и сортировать документы преобразования по дате создания и соответствующим образом обрабатывать документы. [Aspose.PDF для .NET](https://products.aspose.com/pdf/net/) позволяет получить доступ к метаданным XMP файла MHTML. Чтобы получить метаданные файла MHTML, вы можете создать объект [Документ](https://apireference.aspose.com/pdf/net/aspose.pdf/document) и открыть входной файл MHTML. После этого вы можете получить метаданные файла с помощью свойства [Метаданные](https://apireference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata).  
+При преобразовании MHTML в OTP вам может понадобиться дополнительная информация о метаданных XMP, чтобы определить приоритетность процесса пакетного преобразования. Например, вы можете получать и сортировать документы преобразования по дате создания и соответствующим образом обрабатывать документы. [Aspose.PDF для .NET](https://products.aspose.com/pdf/net/) позволяет получить доступ к метаданным XMP файла MHTML. Чтобы получить метаданные файла MHTML, вы можете создать объект [Документ](https://reference.aspose.com/pdf/net/aspose.pdf/document) и открыть входной файл MHTML. После этого вы можете получить метаданные файла с помощью свойства [Метаданные](https://reference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

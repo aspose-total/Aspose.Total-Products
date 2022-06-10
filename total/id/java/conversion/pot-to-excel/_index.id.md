@@ -16,10 +16,10 @@ Anda dapat mengonversi file POT ke EXCEL melalui [Aspose.Total for Java](https:/
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cara Mengonversi POT ke EXCEL melalui Java" %}}
-1. Buka file POT menggunakan kelas [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Konversi POT ke HTML dengan menggunakan [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. Metode ISaveOptions-)
-3. Muat dokumen HTML dengan menggunakan kelas [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Simpan dokumen ke format EXCEL menggunakan [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) metode
+1. Buka file POT menggunakan kelas [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. Konversi POT ke HTML dengan menggunakan [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. Metode ISaveOptions-)
+3. Muat dokumen HTML dengan menggunakan kelas [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Simpan dokumen ke format EXCEL menggunakan [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) metode
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
 Untuk mengonversi POT ke EXCEL, Anda dapat dengan mudah menggunakan Aspose.Total untuk Java langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/ proyek berbasis aspose/aspose-total) dan sertakan perpustakaan di pom.xml Anda.

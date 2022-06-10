@@ -36,10 +36,10 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. Добавить ссылку на Aspose.Slides для .NET и Aspose.Words для .NET
-1. Загрузите презентацию PowerPoint PPS с помощью класса [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation).
+1. Загрузите презентацию PowerPoint PPS с помощью класса [Aspose.Slides.Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation).
 1. Сохраните документ в объект [MemoryStream](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0).
-1. Создайте [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) и инициализируйте его с помощью объекта MemoryStream.
-1. Сохраните документ, используя [Aspose.Words.Document.Save("output.dotx", SaveFormat.Dotx)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3 )
+1. Создайте [Aspose.Words.Document](https://reference.aspose.com/words/net/aspose.words/document) и инициализируйте его с помощью объекта MemoryStream.
+1. Сохраните документ, используя [Aspose.Words.Document.Save("output.dotx", SaveFormat.Dotx)](https://reference.aspose.com/words/net/aspose.words.document/save/methods/3 )
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

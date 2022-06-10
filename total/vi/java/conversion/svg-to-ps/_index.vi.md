@@ -16,10 +16,10 @@ Bạn có thể chuyển đổi SVG sang PS bằng hai bước đơn giản. Tr�
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java API để chuyển đổi SVG sang PS" %}}
-1. Mở tệp SVG bằng lớp [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)
-2. Chuyển đổi SVG sang DOC bằng cách sử dụng [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) phương pháp
-3. Tải tệp DOC bằng cách sử dụng lớp [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) của Aspose.Words
-4. Lưu tài liệu ở định dạng PS bằng phương pháp [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) và đặt PS dưới dạng SaveFormat
+1. Mở tệp SVG bằng lớp [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. Chuyển đổi SVG sang DOC bằng cách sử dụng [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) phương pháp
+3. Tải tệp DOC bằng cách sử dụng lớp [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) của Aspose.Words
+4. Lưu tài liệu ở định dạng PS bằng phương pháp [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) và đặt PS dưới dạng SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
 Bạn có thể dễ dàng sử dụng Aspose.Total for Java trực tiếp từ dự án dựa trên [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và bao gồm [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) và [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) trong pom.xml của bạn.
@@ -42,7 +42,7 @@ outputDocument.save("output.ps", SaveFormat.PS);
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Yêu cầu chuyển đổi" %}}
-Trong khi chuyển đổi SVG thành PS, ngay cả khi tài liệu của bạn được bảo vệ bằng mật khẩu, bạn vẫn có thể mở nó bằng API thao tác PDF [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). Để mở tệp được mã hóa, bạn cần tạo đối tượng [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) và mở SVG bằng mật khẩu của chủ sở hữu.  
+Trong khi chuyển đổi SVG thành PS, ngay cả khi tài liệu của bạn được bảo vệ bằng mật khẩu, bạn vẫn có thể mở nó bằng API thao tác PDF [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). Để mở tệp được mã hóa, bạn cần tạo đối tượng [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) và mở SVG bằng mật khẩu của chủ sở hữu.  
 {{% blocks/products/pf/feature-page-code %}}
 ```cs
 // open encrypted document

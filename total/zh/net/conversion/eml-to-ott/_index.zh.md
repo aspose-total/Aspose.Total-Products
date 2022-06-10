@@ -18,10 +18,10 @@ otherformats: EPUB TEXT MD WORDML ODT GIF EMF SVG DOCX PCL DOTM FLATOPC DOC PS P
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API 将 EML 转换为 OTT" %}}
-1. 使用 [MailMessage](https://apireference.aspose.com/eml/net/aspose.eml/mailmessage) 类打开 EML 文件
-2. 使用 [Save](https://apireference.aspose.com/eml/net/aspose.eml.mailmessage/save/methods/3) 方法将 EML 转换为 HTML
-3. 使用 [Document](https://apireference.aspose.com/words/net/aspose.words/document) 类加载 HTML
-4. 使用 [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) 方法将文档保存为 OTT 格式，并将 Ott 设置为 SaveFormat
+1. 使用 [MailMessage](https://reference.aspose.com/eml/net/aspose.eml/mailmessage) 类打开 EML 文件
+2. 使用 [Save](https://reference.aspose.com/eml/net/aspose.eml.mailmessage/save/methods/3) 方法将 EML 转换为 HTML
+3. 使用 [Document](https://reference.aspose.com/words/net/aspose.words/document) 类加载 HTML
+4. 使用 [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) 方法将文档保存为 OTT 格式，并将 Ott 设置为 SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
@@ -47,7 +47,7 @@ document.Save("output.ott", SaveFormat.Ott);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="通过 .NET 解析 EML 文件" %}}
-在将 EML 转换为 OTT 之前，如果您想确保您正在转换正确的电子邮件，您可以加载 EML 文档，对其进行解析并查看您想要的属性。通过使用 [Aspose.Email for .NET](https://products.aspose.com/eml) 的 [MapiMessage](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage) 类/net/) API，可以获取发件人和收件人信息。例如，您可以使用 [SenderName](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage/properties/sendername) 属性检查转换的特定发件人电子邮件。  
+在将 EML 转换为 OTT 之前，如果您想确保您正在转换正确的电子邮件，您可以加载 EML 文档，对其进行解析并查看您想要的属性。通过使用 [Aspose.Email for .NET](https://products.aspose.com/eml) 的 [MapiMessage](https://reference.aspose.com/eml/net/aspose.eml.mapi/mapimessage) 类/net/) API，可以获取发件人和收件人信息。例如，您可以使用 [SenderName](https://reference.aspose.com/eml/net/aspose.eml.mapi/mapimessage/properties/sendername) 属性检查转换的特定发件人电子邮件。  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

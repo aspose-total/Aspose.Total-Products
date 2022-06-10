@@ -18,10 +18,10 @@ otherformats: DOCM DOTX SVG MD FLATOPC DOTM OTT PCL XPS RTF ODT DOC EPUB WORDML 
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API για Μετατροπή EMLX σε FLATOPC" %}}
-1. Ανοίξτε το αρχείο EMLX χρησιμοποιώντας την τάξη [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage)
-2. Μετατρέψτε το EMLX σε HTML χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
-3. Φορτώστε το HTML χρησιμοποιώντας την κλάση [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-4. Αποθηκεύστε το έγγραφο σε μορφή FLATOPC χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) και ορίστε το Flatopc ως SaveFormat
+1. Ανοίξτε το αρχείο EMLX χρησιμοποιώντας την τάξη [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage)
+2. Μετατρέψτε το EMLX σε HTML χρησιμοποιώντας τη μέθοδο [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
+3. Φορτώστε το HTML χρησιμοποιώντας την κλάση [Document](https://reference.aspose.com/words/net/aspose.words/document)
+4. Αποθηκεύστε το έγγραφο σε μορφή FLATOPC χρησιμοποιώντας τη μέθοδο [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) και ορίστε το Flatopc ως SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
@@ -47,7 +47,7 @@ document.Save("output.flatopc", SaveFormat.FlatOpc);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ανάλυση αρχείου EMLX μέσω .NET" %}}
-Πριν μετατρέψετε το EMLX σε FLATOPC, εάν θέλετε να βεβαιωθείτε ότι μετατρέπετε το σωστό emlx, μπορείτε να φορτώσετε το έγγραφο EMLX, να το αναλύσετε και να ρίξετε μια ματιά στην επιθυμητή ιδιότητα. Χρησιμοποιώντας την κλάση [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) του [Aspose.Email for .NET](https://products.aspose.com/email /net/) API, μπορείτε να λάβετε πληροφορίες αποστολέα και παραληπτών. Για παράδειγμα, μπορείτε να ελέγξετε για ένα συγκεκριμένο μήνυμα ηλεκτρονικού ταχυδρομείου αποστολέα για τη μετατροπή χρησιμοποιώντας την ιδιότητα [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
+Πριν μετατρέψετε το EMLX σε FLATOPC, εάν θέλετε να βεβαιωθείτε ότι μετατρέπετε το σωστό emlx, μπορείτε να φορτώσετε το έγγραφο EMLX, να το αναλύσετε και να ρίξετε μια ματιά στην επιθυμητή ιδιότητα. Χρησιμοποιώντας την κλάση [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) του [Aspose.Email for .NET](https://products.aspose.com/email /net/) API, μπορείτε να λάβετε πληροφορίες αποστολέα και παραληπτών. Για παράδειγμα, μπορείτε να ελέγξετε για ένα συγκεκριμένο μήνυμα ηλεκτρονικού ταχυδρομείου αποστολέα για τη μετατροπή χρησιμοποιώντας την ιδιότητα [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

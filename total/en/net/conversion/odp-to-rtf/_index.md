@@ -36,10 +36,10 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. Add reference of Aspose.Slides for .NET and Aspose.Words for .NET
-1. Load PowerPoint ODP presentation using [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) class
+1. Load PowerPoint ODP presentation using [Aspose.Slides.Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class
 1. Save the document into [MemoryStream](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0) Object
-1. Create [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) and intialize it with MemoryStream Object
-1. Save the document using [Aspose.Words.Document.Save("output.rtf", SaveFormat.Rtf)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)
+1. Create [Aspose.Words.Document](https://reference.aspose.com/words/net/aspose.words/document) and intialize it with MemoryStream Object
+1. Save the document using [Aspose.Words.Document.Save("output.rtf", SaveFormat.Rtf)](https://reference.aspose.com/words/net/aspose.words.document/save/methods/3)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

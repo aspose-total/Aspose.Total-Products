@@ -18,10 +18,10 @@ Si vous êtes un développeur .NET cherchant à ajouter des fonctionnalités de 
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API C# pour convertir EML en XPS" %}}
-1. Ouvrez le fichier EML à l'aide de la classe [MailMessage](https://apireference.aspose.com/eml/net/aspose.eml/mailmessage)
-2. Convertissez EML en HTML en utilisant la méthode [Save](https://apireference.aspose.com/eml/net/aspose.eml.mailmessage/save/methods/3)
-3. Chargez HTML en utilisant la classe [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-4. Enregistrez le document au format XPS en utilisant la méthode [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) et définissez Xps comme SaveFormat
+1. Ouvrez le fichier EML à l'aide de la classe [MailMessage](https://reference.aspose.com/eml/net/aspose.eml/mailmessage)
+2. Convertissez EML en HTML en utilisant la méthode [Save](https://reference.aspose.com/eml/net/aspose.eml.mailmessage/save/methods/3)
+3. Chargez HTML en utilisant la classe [Document](https://reference.aspose.com/words/net/aspose.words/document)
+4. Enregistrez le document au format XPS en utilisant la méthode [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) et définissez Xps comme SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
@@ -47,7 +47,7 @@ document.Save("output.xps", SaveFormat.Xps);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analyser le fichier EML via .NET" %}}
-Avant de convertir EML en XPS, si vous voulez vous assurer que vous convertissez le bon e-mail, vous pouvez charger le document EML, l'analyser et jeter un œil à la propriété souhaitée. En utilisant la classe [MapiMessage](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage) de [Aspose.Email for .NET](https://products.aspose.com/eml /net/), vous pouvez obtenir des informations sur l'expéditeur et les destinataires. Par exemple, vous pouvez rechercher un e-mail d'expéditeur spécifique pour la conversion à l'aide de la propriété [SenderName](https://apireference.aspose.com/eml/net/aspose.eml.mapi/mapimessage/properties/sendername).  
+Avant de convertir EML en XPS, si vous voulez vous assurer que vous convertissez le bon e-mail, vous pouvez charger le document EML, l'analyser et jeter un œil à la propriété souhaitée. En utilisant la classe [MapiMessage](https://reference.aspose.com/eml/net/aspose.eml.mapi/mapimessage) de [Aspose.Email for .NET](https://products.aspose.com/eml /net/), vous pouvez obtenir des informations sur l'expéditeur et les destinataires. Par exemple, vous pouvez rechercher un e-mail d'expéditeur spécifique pour la conversion à l'aide de la propriété [SenderName](https://reference.aspose.com/eml/net/aspose.eml.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -63,7 +63,7 @@ if(outlookMessageFile.SenderName == "John"){
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Restreindre l'édition de documents XPS via .NET" %}}
-Lors de l'enregistrement du document de EML vers XPS, vous devrez peut-être protéger votre document de sortie. Parfois, vous devrez peut-être limiter la possibilité de modifier un document et n'autoriser que certaines actions avec celui-ci. Cela peut être utile pour empêcher d'autres personnes de modifier des informations sensibles et confidentielles dans votre document. L'API [Aspose.Words for .NET](https://products.aspose.com/words/net/) vous permet de contrôler la manière dont vous restreignez le contenu à l'aide de [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype) paramètre d'énumération. Vous pouvez définir votre document en lecture seule en utilisant les lignes de code suivantes. 
+Lors de l'enregistrement du document de EML vers XPS, vous devrez peut-être protéger votre document de sortie. Parfois, vous devrez peut-être limiter la possibilité de modifier un document et n'autoriser que certaines actions avec celui-ci. Cela peut être utile pour empêcher d'autres personnes de modifier des informations sensibles et confidentielles dans votre document. L'API [Aspose.Words for .NET](https://products.aspose.com/words/net/) vous permet de contrôler la manière dont vous restreignez le contenu à l'aide de [ProtectionType](https://reference.aspose.com/words/net/aspose.words/protectiontype) paramètre d'énumération. Vous pouvez définir votre document en lecture seule en utilisant les lignes de code suivantes. 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

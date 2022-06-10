@@ -18,10 +18,10 @@ otherformats: OTT ODT DOC DOTX FLATOPC DOCM DOCX DOT RTF WORDML WORD DOTM
 {{% /blocks/products/pf/agp/content %}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API to Convert PPT to TEXT" %}}
-1. Load PPT file using [Presentation](https://apireference.aspose.com/slides/cpp/class/aspose.slides.presentation) class reference
-2. Render PPT to HTML by using [Save](https://apireference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) member funciton and set Html as SaveFormat
-3. Load the converted HTML file by using [Document](https://apireference.aspose.com/words/cpp/class/aspose.words.document) class reference
-4. Save the document to TEXT format by using [Save](https://apireference.aspose.com/words/cpp/class/aspose.words.document#save_string) member fucntion
+1. Load PPT file using [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) class reference
+2. Render PPT to HTML by using [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) member funciton and set Html as SaveFormat
+3. Load the converted HTML file by using [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) class reference
+4. Save the document to TEXT format by using [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string) member fucntion
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with C++ File Format APIs" %}}

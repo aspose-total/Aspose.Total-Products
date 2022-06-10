@@ -16,10 +16,10 @@ A renderização de EXCEL para PPTX é um processo de duas etapas. Você primeir
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Como converter EXCEL para PPTX via API Java" %}}
-1. Abra o arquivo EXCEL usando a classe [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
+1. Abra o arquivo EXCEL usando a classe [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 2. Converta EXCEL para PDF e defina SaveFormat para AUTO
-3. Carregue o arquivo PDF convertido usando a classe [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)
-4. Salve o documento no formato PPTX usando [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) e defina Pptx como SaveFormat
+3. Carregue o arquivo PDF convertido usando a classe [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+4. Salve o documento no formato PPTX usando [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) e defina Pptx como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
 Você precisa usar o Aspose.Total para Java diretamente de um projeto baseado em [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e inclua bibliotecas em seu pom.xml.

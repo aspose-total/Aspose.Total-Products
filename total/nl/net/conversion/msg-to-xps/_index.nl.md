@@ -18,10 +18,10 @@ Als u een .NET-ontwikkelaar bent die MSG-naar-XPS-conversiefuncties in uw toepas
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API om MSG naar XPS te converteren" %}}
-1. Open het MSG-bestand met de klasse [MailMessage](https://apireference.aspose.com/msg/net/aspose.msg/mailmessage)
-2. Converteer MSG naar HTML met behulp van de [Save](https://apireference.aspose.com/msg/net/aspose.msg.mailmessage/save/methods/3) methode
-3. Laad HTML met behulp van [Document](https://apireference.aspose.com/words/net/aspose.words/document) klasse
-4. Sla het document op in XPS-indeling met de methode [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) en stel Xps in als SaveFormat
+1. Open het MSG-bestand met de klasse [MailMessage](https://reference.aspose.com/msg/net/aspose.msg/mailmessage)
+2. Converteer MSG naar HTML met behulp van de [Save](https://reference.aspose.com/msg/net/aspose.msg.mailmessage/save/methods/3) methode
+3. Laad HTML met behulp van [Document](https://reference.aspose.com/words/net/aspose.words/document) klasse
+4. Sla het document op in XPS-indeling met de methode [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) en stel Xps in als SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
@@ -47,7 +47,7 @@ document.Save("output.xps", SaveFormat.Xps);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="E-MAIL-bestand ontleden via .NET" %}}
-Voordat u MSG naar XPS converteert, kunt u, als u er zeker van wilt zijn dat u de juiste e-mail converteert, het MSG-document laden, het ontleden en uw gewenste eigenschap bekijken. Door gebruik te maken van [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) klasse van [Aspose.Email for .NET](https://products.aspose.com/msg /net/) API, kunt u informatie over afzender en ontvanger krijgen. U kunt bijvoorbeeld controleren op een specifiek e-mailadres van de afzender voor de conversie door de eigenschap [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername) te gebruiken.  
+Voordat u MSG naar XPS converteert, kunt u, als u er zeker van wilt zijn dat u de juiste e-mail converteert, het MSG-document laden, het ontleden en uw gewenste eigenschap bekijken. Door gebruik te maken van [MapiMessage](https://reference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) klasse van [Aspose.Email for .NET](https://products.aspose.com/msg /net/) API, kunt u informatie over afzender en ontvanger krijgen. U kunt bijvoorbeeld controleren op een specifiek e-mailadres van de afzender voor de conversie door de eigenschap [SenderName](https://reference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername) te gebruiken.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

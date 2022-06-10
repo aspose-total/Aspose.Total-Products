@@ -18,10 +18,10 @@ Email conversion is a powerful feature that Java developers can integrate within
 {{% /blocks/products/pf/agp/content %}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 {{% blocks/products/pf/agp/feature-section-col title="EML to DOTM Conversion on Java" %}}
-1. Open EML file using [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage) class
-2. Convert EML to HTML by using [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) method
-3. Load HTML by using [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) class 
-4. Save the document to DOTM format using [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method and set DOTM as SaveFormat
+1. Open EML file using [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage) class
+2. Convert EML to HTML by using [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) method
+3. Load HTML by using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class 
+4. Save the document to DOTM format using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method and set DOTM as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Format APIs" %}}

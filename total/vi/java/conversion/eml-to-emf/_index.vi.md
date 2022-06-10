@@ -16,10 +16,10 @@ Chuyển đổi eml là một tính năng mạnh mẽ mà các nhà phát triể
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cách chuyển đổi EML thành EMF" %}}
-1. Mở tệp EML bằng lớp [MailMessage](https://apireference.aspose.com/eml/java/com.aspose.eml/mailmessage)
-2. Chuyển đổi EML sang HTML bằng cách sử dụng [save](https://apireference.aspose.com/eml/java/com.aspose.eml/MailMessage#save (java.io.OutputStream,%20com.aspose.eml.SaveOptions)) phương pháp
-3. Tải HTML bằng cách sử dụng lớp [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Lưu tài liệu sang định dạng EMF bằng cách sử dụng [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save (java.lang.String, com.aspose.words.SaveOptions)) và đặt EMF làm SaveFormat
+1. Mở tệp EML bằng lớp [MailMessage](https://reference.aspose.com/eml/java/com.aspose.eml/mailmessage)
+2. Chuyển đổi EML sang HTML bằng cách sử dụng [save](https://reference.aspose.com/eml/java/com.aspose.eml/MailMessage#save (java.io.OutputStream,%20com.aspose.eml.SaveOptions)) phương pháp
+3. Tải HTML bằng cách sử dụng lớp [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. Lưu tài liệu sang định dạng EMF bằng cách sử dụng [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save (java.lang.String, com.aspose.words.SaveOptions)) và đặt EMF làm SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
 Bạn phải sử dụng Aspose.Total for Java trực tiếp từ dự án dựa trên [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và bao gồm các thư viện trong pom.xml của bạn.

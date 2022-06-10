@@ -18,10 +18,10 @@ Ha Ön .NET-fejlesztő, szeretné hozzáadni az MSG-t az alkalmazásokon belüli
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API az MSG PNG-vé konvertálásához" %}}
-1. Nyissa meg az MSG fájlt a [MailMessage](https://apireference.aspose.com/msg/net/aspose.msg/mailmessage) osztály használatával
-2. Alakítsa át az MSG-címet HTML-vé a [Save](https://apireference.aspose.com/msg/net/aspose.msg.mailmessage/save/methods/3) módszerrel
-3. Töltse be a HTML-t a [Document](https://apireference.aspose.com/words/net/aspose.words/document) osztály használatával
-4. Mentse a dokumentumot PNG formátumba a [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) módszerrel, és állítsa be a Png-t SaveFormat-ként.
+1. Nyissa meg az MSG fájlt a [MailMessage](https://reference.aspose.com/msg/net/aspose.msg/mailmessage) osztály használatával
+2. Alakítsa át az MSG-címet HTML-vé a [Save](https://reference.aspose.com/msg/net/aspose.msg.mailmessage/save/methods/3) módszerrel
+3. Töltse be a HTML-t a [Document](https://reference.aspose.com/words/net/aspose.words/document) osztály használatával
+4. Mentse a dokumentumot PNG formátumba a [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) módszerrel, és állítsa be a Png-t SaveFormat-ként.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
@@ -47,7 +47,7 @@ document.Save("output.png", SaveFormat.Png);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Az MSG fájl elemzése .NET-en keresztül" %}}
-Az MSG PNG-vé konvertálása előtt, ha meg szeretne győződni arról, hogy a megfelelő e-mailt konvertálja, töltse be az MSG dokumentumot, elemezze, és tekintse meg a kívánt tulajdonságot. A [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) [Aspose.Email for .NET](https://products.aspose.com/msg /net/) API, a küldő és a címzett információkat kaphat. Például a [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername) tulajdonság használatával ellenőrizheti a konverzióhoz tartozó feladó e-mail-címét.  
+Az MSG PNG-vé konvertálása előtt, ha meg szeretne győződni arról, hogy a megfelelő e-mailt konvertálja, töltse be az MSG dokumentumot, elemezze, és tekintse meg a kívánt tulajdonságot. A [MapiMessage](https://reference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) [Aspose.Email for .NET](https://products.aspose.com/msg /net/) API, a küldő és a címzett információkat kaphat. Például a [SenderName](https://reference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername) tulajdonság használatával ellenőrizheti a konverzióhoz tartozó feladó e-mail-címét.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -63,7 +63,7 @@ if(outlookMessageFile.SenderName == "John"){
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="A PNG-dokumentumszerkesztés korlátozása .NET-en keresztül" %}}
-Amikor a dokumentumot MSG-ből PNG-be menti, előfordulhat, hogy meg kell védenie a kimeneti dokumentumot. Előfordulhat, hogy korlátoznia kell egy dokumentum szerkesztésének lehetőségét, és csak bizonyos műveleteket kell engedélyeznie vele. Ez hasznos lehet annak megakadályozására, hogy mások szerkeszthessék a dokumentumban található érzékeny és bizalmas információkat. Az [Aspose.Words for .NET](https://products.aspose.com/words/net/) API lehetővé teszi a tartalom korlátozásának módját a [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype) felsorolási paraméter. A következő kódsorok használatával beállíthatja dokumentumát írásvédettre. 
+Amikor a dokumentumot MSG-ből PNG-be menti, előfordulhat, hogy meg kell védenie a kimeneti dokumentumot. Előfordulhat, hogy korlátoznia kell egy dokumentum szerkesztésének lehetőségét, és csak bizonyos műveleteket kell engedélyeznie vele. Ez hasznos lehet annak megakadályozására, hogy mások szerkeszthessék a dokumentumban található érzékeny és bizalmas információkat. Az [Aspose.Words for .NET](https://products.aspose.com/words/net/) API lehetővé teszi a tartalom korlátozásának módját a [ProtectionType](https://reference.aspose.com/words/net/aspose.words/protectiontype) felsorolási paraméter. A következő kódsorok használatával beállíthatja dokumentumát írásvédettre. 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

@@ -18,10 +18,10 @@ otherformats: WMZ WMF  JPEG2000 DXF IMAGE EMZ PSD TGA SVGZ DICOM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="सीजीएम फ़ाइल को .NET के माध्यम से एपीएनजी में कनवर्ट करें" %}}
-1. [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) वर्ग का उपयोग करके सीजीएम फ़ाइल खोलें
-2. [JpegDevice](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) क्लास ऑब्जेक्ट को इनिशियलाइज़ करें और [Process](https://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) विधि
-3. [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) क्लास का इस्तेमाल करके JPEG फ़ाइल लोड करें
-4. [सेव](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) विधि का उपयोग करके दस्तावेज़ को APNG प्रारूप में सहेजें
+1. [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) वर्ग का उपयोग करके सीजीएम फ़ाइल खोलें
+2. [JpegDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) क्लास ऑब्जेक्ट को इनिशियलाइज़ करें और [Process](https://reference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) विधि
+3. [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) क्लास का इस्तेमाल करके JPEG फ़ाइल लोड करें
+4. [सेव](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) विधि का उपयोग करके दस्तावेज़ को APNG प्रारूप में सहेजें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
@@ -39,8 +39,8 @@ otherformats: WMZ WMF  JPEG2000 DXF IMAGE EMZ PSD TGA SVGZ DICOM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="सी # के माध्यम से एक ही फाइल में सीजीएम फ़ाइल को एपीएनजी में कनवर्ट करें" %}}
-एपीआई का उपयोग करके, आप सीजीएम फ़ाइल को एपीएनजी में एकल छवि फ़ाइल में भी परिवर्तित कर सकते हैं। सभी पृष्ठों को परिवर्तित करने के लिए, आप पहले अपने सीजीएम दस्तावेज़ को एक टीआईएफएफ फ़ाइल में प्रस्तुत कर सकते हैं और उसके बाद आप टीआईएफएफ फ़ाइल को एपीएनजी में निर्यात कर सकते हैं। आप [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) वर्ग का उपयोग करके इनपुट फ़ाइल खोल सकते हैं और रिज़ॉल्यूशन, टिफ़सेटिंग और टीआईएफएफ डिवाइस ऑब्जेक्ट बना सकते हैं। आप TiffDevice की [Process](https://apireference.aspose.com/pdf/net/aspose.pdf.devices.documentdevice/process/methods/3) पद्धति का उपयोग करके एकल TIFF छवि प्राप्त कर सकते हैं apireference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice) वर्ग। अंत में, आप [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) वर्ग का उपयोग करके TIFF फ़ाइल लोड कर सकते हैं
-और इसे [Save](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) मेथड का इस्तेमाल करके APNG फॉर्मेट में सेव करें।  
+एपीआई का उपयोग करके, आप सीजीएम फ़ाइल को एपीएनजी में एकल छवि फ़ाइल में भी परिवर्तित कर सकते हैं। सभी पृष्ठों को परिवर्तित करने के लिए, आप पहले अपने सीजीएम दस्तावेज़ को एक टीआईएफएफ फ़ाइल में प्रस्तुत कर सकते हैं और उसके बाद आप टीआईएफएफ फ़ाइल को एपीएनजी में निर्यात कर सकते हैं। आप [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) वर्ग का उपयोग करके इनपुट फ़ाइल खोल सकते हैं और रिज़ॉल्यूशन, टिफ़सेटिंग और टीआईएफएफ डिवाइस ऑब्जेक्ट बना सकते हैं। आप TiffDevice की [Process](https://reference.aspose.com/pdf/net/aspose.pdf.devices.documentdevice/process/methods/3) पद्धति का उपयोग करके एकल TIFF छवि प्राप्त कर सकते हैं apireference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice) वर्ग। अंत में, आप [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) वर्ग का उपयोग करके TIFF फ़ाइल लोड कर सकते हैं
+और इसे [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) मेथड का इस्तेमाल करके APNG फॉर्मेट में सेव करें।  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-single-file.cs" >}}
@@ -49,7 +49,7 @@ otherformats: WMZ WMF  JPEG2000 DXF IMAGE EMZ PSD TGA SVGZ DICOM
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="सी # के माध्यम से सीजीएम फ़ाइल को एपीएनजी में कनवर्ट और घुमाएं" %}}
-एपीआई का उपयोग करके, आप अपनी आवश्यकताओं के अनुसार आउटपुट एपीएनजी छवि को घुमा भी सकते हैं। Image.RotateFlip विधि का उपयोग छवि को 90/180/270-डिग्री तक घुमाने और छवि को क्षैतिज या लंबवत रूप से फ़्लिप करने के लिए किया जा सकता है। आप रोटेशन के प्रकार को निर्दिष्ट कर सकते हैं और छवि पर लागू करने के लिए फ्लिप कर सकते हैं। छवि को घुमाने और फ़्लिप करने के लिए आप [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) वर्ग द्वारा उजागर फ़ैक्टरी विधि का उपयोग करके परिवर्तित JPEG छवि को लोड कर सकते हैं और छवि को कॉल कर सकते हैं उपयुक्त [RotateFlipType](https://apireference.aspose.com/imaging/net/aspose.imaging/rotatefliptype) निर्दिष्ट करते हुए .RotateFlip विधि। 
+एपीआई का उपयोग करके, आप अपनी आवश्यकताओं के अनुसार आउटपुट एपीएनजी छवि को घुमा भी सकते हैं। Image.RotateFlip विधि का उपयोग छवि को 90/180/270-डिग्री तक घुमाने और छवि को क्षैतिज या लंबवत रूप से फ़्लिप करने के लिए किया जा सकता है। आप रोटेशन के प्रकार को निर्दिष्ट कर सकते हैं और छवि पर लागू करने के लिए फ्लिप कर सकते हैं। छवि को घुमाने और फ़्लिप करने के लिए आप [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) वर्ग द्वारा उजागर फ़ैक्टरी विधि का उपयोग करके परिवर्तित JPEG छवि को लोड कर सकते हैं और छवि को कॉल कर सकते हैं उपयुक्त [RotateFlipType](https://reference.aspose.com/imaging/net/aspose.imaging/rotatefliptype) निर्दिष्ट करते हुए .RotateFlip विधि। 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-and-rotate-pdf-to-image.cs" >}}

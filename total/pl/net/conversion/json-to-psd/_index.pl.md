@@ -18,10 +18,10 @@ Używając [Aspose.Total for .NET](https://products.aspose.com/total/net/) może
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konwertuj format JSON na PSD za pomocą C#" %}}
-1. Utwórz nowy obiekt [Skoroszyt](https://apireference.aspose.com/cells/net/aspose.cells/workbook) i odczytaj dane JSON z pliku
-2. Konwertuj JSON na JPEG za pomocą metody [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
-3. Załaduj dokument JPEG przy użyciu klasy [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image)
-4. Zapisz dokument w formacie PSD metodą [Save](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
+1. Utwórz nowy obiekt [Skoroszyt](https://reference.aspose.com/cells/net/aspose.cells/workbook) i odczytaj dane JSON z pliku
+2. Konwertuj JSON na JPEG za pomocą metody [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+3. Załaduj dokument JPEG przy użyciu klasy [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image)
+4. Zapisz dokument w formacie PSD metodą [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
@@ -39,7 +39,7 @@ Możesz też pobrać instalator offline MSI lub biblioteki DLL w pliku ZIP ze st
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ustaw układ i przekonwertuj format JSON na PSD za pomocą C#" %}}
-Podczas analizowania JSON do PSD możesz także ustawić opcje układu dla swojego JSON za pomocą [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Umożliwia przetwarzanie tablicy jako tabeli, ignorowanie wartości null, ignorowanie tytułu tablicy, ignorowanie tytułu obiektu, konwersję ciągu na liczbę lub datę, ustawianie formatu daty i liczby oraz ustawianie stylu tytułu. Wszystkie te opcje umożliwiają prezentację danych zgodnie z własnymi potrzebami. Poniższy fragment kodu pokazuje, jak ustawić opcje układu.  
+Podczas analizowania JSON do PSD możesz także ustawić opcje układu dla swojego JSON za pomocą [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Umożliwia przetwarzanie tablicy jako tabeli, ignorowanie wartości null, ignorowanie tytułu tablicy, ignorowanie tytułu obiektu, konwersję ciągu na liczbę lub datę, ustawianie formatu daty i liczby oraz ustawianie stylu tytułu. Wszystkie te opcje umożliwiają prezentację danych zgodnie z własnymi potrzebami. Poniższy fragment kodu pokazuje, jak ustawić opcje układu.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "set-layout-and-parse-json-to-image.cs" >}}
@@ -48,7 +48,7 @@ Podczas analizowania JSON do PSD możesz także ustawić opcje układu dla swoje
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Przetwarzaj format JSON do PSD za pomocą znaku wodnego" %}}
-Korzystając z API, możesz również przekonwertować JSON na PSD ze znakiem wodnym w swoim dokumencie PSD. Aby dodać znak wodny, możesz najpierw wyrenderować dokument JSON do formatu JPEG i dodać do niego znak wodny. Aby zademonstrować operację, możesz załadować przekonwertowany obraz JPEG, dodać przekształcenia za pomocą obiektu klasy Matrix i narysować ciąg znaków jako znak wodny na powierzchni obrazu za pomocą [Grafika](https://apireference.aspose.com/imaging/ net/aspose.imaging/graphics) metoda [DrawString](https://apireference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring). Po dodaniu do niego znaku wodnego możesz zapisać plik JPEG jako format PSD. Poniżej znajduje się przykład kodu, który pokazuje, jak dodać ukośny znak wodny do dokumentu. 
+Korzystając z API, możesz również przekonwertować JSON na PSD ze znakiem wodnym w swoim dokumencie PSD. Aby dodać znak wodny, możesz najpierw wyrenderować dokument JSON do formatu JPEG i dodać do niego znak wodny. Aby zademonstrować operację, możesz załadować przekonwertowany obraz JPEG, dodać przekształcenia za pomocą obiektu klasy Matrix i narysować ciąg znaków jako znak wodny na powierzchni obrazu za pomocą [Grafika](https://reference.aspose.com/imaging/ net/aspose.imaging/graphics) metoda [DrawString](https://reference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring). Po dodaniu do niego znaku wodnego możesz zapisać plik JPEG jako format PSD. Poniżej znajduje się przykład kodu, który pokazuje, jak dodać ukośny znak wodny do dokumentu. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}

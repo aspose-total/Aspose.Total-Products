@@ -16,10 +16,10 @@ otherformats: FLATOPC WORD DOTMM DOTMX WORDML DOTM RTF DOT ODT DOTX OTT TEXT
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как преобразовать PPT в DOTM через Java" %}}
-1. Откройте файл PPT, используя класс [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation).
-2. Преобразуйте PPT в HTML, используя [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) и установите Html как SaveFormat
-3. Загрузите преобразованный файл HTML с помощью класса [Dotmument](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument).
-4. Сохраните документ в формате DOTM, используя метод [save](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,int))
+1. Откройте файл PPT, используя класс [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation).
+2. Преобразуйте PPT в HTML, используя [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) и установите Html как SaveFormat
+3. Загрузите преобразованный файл HTML с помощью класса [Dotmument](https://reference.aspose.com/words/java/com.aspose.words/Dotmument).
+4. Сохраните документ в формате DOTM, используя метод [save](https://reference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
 Для преобразования файлов PPT в DOTM вы можете легко использовать Aspose.Total для Java непосредственно из [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) и включите библиотеки в ваш pom.xml.
@@ -34,7 +34,7 @@ otherformats: FLATOPC WORD DOTMM DOTMX WORDML DOTM RTF DOT ODT DOTX OTT TEXT
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Требования к конвертации" %}}
-Используя API, вы также можете выполнить преобразование файла PPT в DOTM с водяным знаком. Чтобы добавить водяной знак в документ DOTM, вы можете сначала преобразовать файл PPT в HTML и добавить к нему водяной знак. Чтобы добавить водяной знак, загрузите только что созданный файл HTML с помощью класса [Dotmument](https://apireference.aspose.com/words/java/com.aspose.words/Dotmument), создайте экземпляр TextWatermarkOptions и установите его свойства, вызвать метод Watermark.setText и передать текст водяного знака и объект TextWatermarkOptions.  
+Используя API, вы также можете выполнить преобразование файла PPT в DOTM с водяным знаком. Чтобы добавить водяной знак в документ DOTM, вы можете сначала преобразовать файл PPT в HTML и добавить к нему водяной знак. Чтобы добавить водяной знак, загрузите только что созданный файл HTML с помощью класса [Dotmument](https://reference.aspose.com/words/java/com.aspose.words/Dotmument), создайте экземпляр TextWatermarkOptions и установите его свойства, вызвать метод Watermark.setText и передать текст водяного знака и объект TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}

@@ -16,11 +16,11 @@ otherformats: PPS PPSX PPTX POTX POWERPOINT PPTM POTM POT PPT PPSM CSV DIF FODS 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Πώς να μετατρέψετε το FLATOPC σε ODP μέσω Java" %}}
-1. Ανοίξτε το αρχείο FLATOPC χρησιμοποιώντας την κλάση [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument)
-2. Μετατρέψτε το αρχείο FLATOPC σε HTML χρησιμοποιώντας [save](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,com.aspose.words.SaveOptions)) μέθοδος
-3. Αρχικοποιήστε ένα νέο αντικείμενο [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+1. Ανοίξτε το αρχείο FLATOPC χρησιμοποιώντας την κλάση [Flatopcument](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument)
+2. Μετατρέψτε το αρχείο FLATOPC σε HTML χρησιμοποιώντας [save](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,com.aspose.words.SaveOptions)) μέθοδος
+3. Αρχικοποιήστε ένα νέο αντικείμενο [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Εξάγετε περιεχόμενο από αρχείο HTML χρησιμοποιώντας το BufferedReader και γράψτε το περιεχόμενο στο αρχείο παρουσίασής σας
-6. Αποθηκεύστε το έγγραφο στο ODP χρησιμοποιώντας τη μέθοδο [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. Αποθηκεύστε το έγγραφο στο ODP χρησιμοποιώντας τη μέθοδο [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
 Για μετατροπή αρχείου FLATOPC σε ODP, μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.Total για Java απευθείας από ένα [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose έργο που βασίζεται στο /aspose-total) και συμπεριλάβετε βιβλιοθήκες στο pom.xml σας.

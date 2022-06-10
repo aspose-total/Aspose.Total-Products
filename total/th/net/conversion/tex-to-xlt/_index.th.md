@@ -18,10 +18,10 @@ otherformats: MD SXC XLTX XLTM XLSM XLAM EXCEL ODS TXT DIF TSV XLSB
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API เพื่อแปลง TEX เป็น XLT" %}}
-1. เปิดไฟล์ TEX โดยใช้คลาส [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
-2. แปลง TEX เป็น XLSX โดยใช้วิธีการ [บันทึก](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
-3. โหลดเอกสาร XLSX โดยใช้คลาส [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. บันทึกเอกสารในรูปแบบ XLT โดยใช้เมธอด [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) และตั้งค่า `Xlt' เป็น SaveFormat
+1. เปิดไฟล์ TEX โดยใช้คลาส [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
+2. แปลง TEX เป็น XLSX โดยใช้วิธีการ [บันทึก](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. โหลดเอกสาร XLSX โดยใช้คลาส [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. บันทึกเอกสารในรูปแบบ XLT โดยใช้เมธอด [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) และตั้งค่า `Xlt' เป็น SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
@@ -39,7 +39,7 @@ otherformats: MD SXC XLTX XLTM XLSM XLAM EXCEL ODS TXT DIF TSV XLSB
 {{< /blocks/products/pf/agp/feature-section >}}
 C#
 {{% blocks/products/pf/feature-page-section  h2="แปลง TEX ที่ได้รับการป้องกันเป็น XLT ผ่าน C#" %}}
-หากเอกสาร TEX ของคุณมีการป้องกันด้วยรหัสผ่าน คุณจะไม่สามารถแปลงเป็น XLT ได้หากไม่มีรหัสผ่าน เมื่อใช้ API คุณสามารถเปิดเอกสารที่มีการป้องกันโดยใช้รหัสผ่านที่ถูกต้องและแปลงหลังจากนั้น ในการเปิดไฟล์ที่เข้ารหัส คุณสามารถเริ่มต้นอินสแตนซ์ใหม่ของคลาส [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) และส่งชื่อไฟล์และรหัสผ่านเป็นอาร์กิวเมนต์ได้  
+หากเอกสาร TEX ของคุณมีการป้องกันด้วยรหัสผ่าน คุณจะไม่สามารถแปลงเป็น XLT ได้หากไม่มีรหัสผ่าน เมื่อใช้ API คุณสามารถเปิดเอกสารที่มีการป้องกันโดยใช้รหัสผ่านที่ถูกต้องและแปลงหลังจากนั้น ในการเปิดไฟล์ที่เข้ารหัส คุณสามารถเริ่มต้นอินสแตนซ์ใหม่ของคลาส [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) และส่งชื่อไฟล์และรหัสผ่านเป็นอาร์กิวเมนต์ได้  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-password-protected-pdf-to-excel.cs" >}}

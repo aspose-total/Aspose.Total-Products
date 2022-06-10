@@ -16,10 +16,10 @@ otherformats: PPS PPT PPTM PPSM POWERPOINT POT POTM OTP PPSX POTX
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Μετατροπή μορφής JSON σε ODP μέσω Java" %}}
-1. Δημιουργήστε ένα νέο αντικείμενο [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) και ανοίξτε το αρχείο JSON
-2. Αποθηκεύστε το JSON ως PPTX χρησιμοποιώντας το [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions) ) μέθοδος
-3. Φορτώστε το έγγραφο PPTX χρησιμοποιώντας την κλάση [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-4. Αποθηκεύστε το έγγραφο σε μορφή ODP χρησιμοποιώντας τη μέθοδο [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-)
+1. Δημιουργήστε ένα νέο αντικείμενο [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) και ανοίξτε το αρχείο JSON
+2. Αποθηκεύστε το JSON ως PPTX χρησιμοποιώντας το [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions) ) μέθοδος
+3. Φορτώστε το έγγραφο PPTX χρησιμοποιώντας την κλάση [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+4. Αποθηκεύστε το έγγραφο σε μορφή ODP χρησιμοποιώντας τη μέθοδο [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
 Μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.Total για Java απευθείας από ένα έργο που βασίζεται στο [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) και συμπεριλάβετε βιβλιοθήκες στο pom.xml σας.
@@ -34,7 +34,7 @@ otherformats: PPS PPT PPTM PPSM POWERPOINT POT POTM OTP PPSX POTX
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Απαιτήσεις μετατροπής" %}}
-Επιπλέον, το API σάς επιτρέπει να αναλύετε το JSON σε ODP με καθορισμένες επιλογές διάταξης. Για να καθορίσετε τις επιλογές διάταξης, μπορείτε να χρησιμοποιήσετε την κλάση [JsonLayoutOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonlayoutoptions). Σας επιτρέπει να επεξεργαστείτε έναν πίνακα ως πίνακα, να αγνοήσετε μηδενικά, να αγνοήσετε τον τίτλο του πίνακα, να αγνοήσετε τον τίτλο του αντικειμένου, να μετατρέψετε τη συμβολοσειρά σε αριθμό ή ημερομηνία, να ορίσετε ημερομηνία και μορφή αριθμού και να ορίσετε στυλ τίτλου. Όλες αυτές οι επιλογές σάς επιτρέπουν να παρουσιάζετε τα δεδομένα σας σύμφωνα με τις ανάγκες σας. Το παρακάτω απόσπασμα κώδικα σάς δείχνει πώς να ορίσετε τις επιλογές διάταξης.  
+Επιπλέον, το API σάς επιτρέπει να αναλύετε το JSON σε ODP με καθορισμένες επιλογές διάταξης. Για να καθορίσετε τις επιλογές διάταξης, μπορείτε να χρησιμοποιήσετε την κλάση [JsonLayoutOptions](https://reference.aspose.com/cells/java/com.aspose.cells/jsonlayoutoptions). Σας επιτρέπει να επεξεργαστείτε έναν πίνακα ως πίνακα, να αγνοήσετε μηδενικά, να αγνοήσετε τον τίτλο του πίνακα, να αγνοήσετε τον τίτλο του αντικειμένου, να μετατρέψετε τη συμβολοσειρά σε αριθμό ή ημερομηνία, να ορίσετε ημερομηνία και μορφή αριθμού και να ορίσετε στυλ τίτλου. Όλες αυτές οι επιλογές σάς επιτρέπουν να παρουσιάζετε τα δεδομένα σας σύμφωνα με τις ανάγκες σας. Το παρακάτω απόσπασμα κώδικα σάς δείχνει πώς να ορίσετε τις επιλογές διάταξης.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "set-layout-and-parse-json-to-powerpoint.java" >}}
@@ -42,7 +42,7 @@ otherformats: PPS PPT PPTM PPSM POWERPOINT POT POTM OTP PPSX POTX
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Ορίστε τη διάταξη και μετατρέψτε τη μορφή JSON σε ODP μέσω Java" %}}
-Χρησιμοποιώντας το API, μπορείτε επίσης να μετατρέψετε JSON σε ODP με υδατογράφημα. Για να προσθέσετε ένα υδατογράφημα στο έγγραφό σας ODP, μπορείτε πρώτα να αναλύσετε το JSON σε PPTX και να προσθέσετε ένα υδατογράφημα σε αυτό. Για να προσθέσετε ένα υδατογράφημα, φορτώστε το αρχείο PPTX που δημιουργήθηκε πρόσφατα χρησιμοποιώντας την κλάση [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation), κάντε βρόχο σε όλες τις διαφάνειες, προσθέστε κείμενο χρησιμοποιώντας το addTextFrame, ορίστε όλες τις σχετικές επιλογές όπως το χρώμα, το fillType και άλλα και μπορείτε να αποθηκεύσετε το έγγραφο σε ODP. 
+Χρησιμοποιώντας το API, μπορείτε επίσης να μετατρέψετε JSON σε ODP με υδατογράφημα. Για να προσθέσετε ένα υδατογράφημα στο έγγραφό σας ODP, μπορείτε πρώτα να αναλύσετε το JSON σε PPTX και να προσθέσετε ένα υδατογράφημα σε αυτό. Για να προσθέσετε ένα υδατογράφημα, φορτώστε το αρχείο PPTX που δημιουργήθηκε πρόσφατα χρησιμοποιώντας την κλάση [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation), κάντε βρόχο σε όλες τις διαφάνειες, προσθέστε κείμενο χρησιμοποιώντας το addTextFrame, ορίστε όλες τις σχετικές επιλογές όπως το χρώμα, το fillType και άλλα και μπορείτε να αποθηκεύσετε το έγγραφο σε ODP. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "parse-json-to-powerpoint-with-watermark.java" >}}

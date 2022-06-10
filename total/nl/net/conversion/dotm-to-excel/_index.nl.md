@@ -18,10 +18,10 @@ Door [Aspose.Total for .NET](https://products.aspose.com/total/net/) te gebruike
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API om DOTM naar EXCEL te converteren" %}}
-1. Open het DOTM-bestand met de klasse [Dotmument](https://apireference.aspose.com/words/net/aspose.words/dotmument)
-2. Converteer DOTM naar HTML met behulp van de [Save](https://apireference.aspose.com/words/net/aspose.words.dotmument/save/methods/4) methode
-3. Laad HTML-dotmument met behulp van [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) class
-4. Sla het dotmument op in EXCEL-indeling met de methode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) en stel `EXCEL` in als SaveFormat
+1. Open het DOTM-bestand met de klasse [Dotmument](https://reference.aspose.com/words/net/aspose.words/dotmument)
+2. Converteer DOTM naar HTML met behulp van de [Save](https://reference.aspose.com/words/net/aspose.words.dotmument/save/methods/4) methode
+3. Laad HTML-dotmument met behulp van [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class
+4. Sla het dotmument op in EXCEL-indeling met de methode [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) en stel `EXCEL` in als SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
@@ -39,7 +39,7 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Laad DOTM Dotmument van Stream via C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) stelt u ook in staat om DOTM-dotmumenten via stream te laden. Om een dotmument uit een stream te openen, geeft u eenvoudig een stream-object dat het dotmument bevat door aan de [Dotmument](https://apireference.aspose.com/words/net/aspose.words/dotmument)-constructor. Het volgende codevoorbeeld laat zien hoe u een dotmument vanuit een stream opent:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) stelt u ook in staat om DOTM-dotmumenten via stream te laden. Om een dotmument uit een stream te openen, geeft u eenvoudig een stream-object dat het dotmument bevat door aan de [Dotmument](https://reference.aspose.com/words/net/aspose.words/dotmument)-constructor. Het volgende codevoorbeeld laat zien hoe u een dotmument vanuit een stream opent:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
@@ -47,7 +47,7 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Aangepaste eigenschappen toevoegen in EXCEL-bestand via C#" %}}
-Tijdens het converteren van DOTM naar EXCEL kunt u met [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) aangepaste eigenschappen toevoegen aan uw EXCEL-dotmumenten. Om een aangepaste eigenschap toe te voegen, kunt u de methode [Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection/methods/add/index) gebruiken voor de [CustomDotmumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection) klasse. De Add-methode voegt de eigenschap toe aan het Excel-bestand en retourneert een verwijzing voor de nieuwe dotmumenteigenschap als [Aspose.Cells.Properties.DotmumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties /dotmumentproperty) object. 
+Tijdens het converteren van DOTM naar EXCEL kunt u met [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) aangepaste eigenschappen toevoegen aan uw EXCEL-dotmumenten. Om een aangepaste eigenschap toe te voegen, kunt u de methode [Add](https://reference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection/methods/add/index) gebruiken voor de [CustomDotmumentPropertyCollection](https://reference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection) klasse. De Add-methode voegt de eigenschap toe aan het Excel-bestand en retourneert een verwijzing voor de nieuwe dotmumenteigenschap als [Aspose.Cells.Properties.DotmumentProperty](https://reference.aspose.com/cells/net/aspose.cells.properties /dotmumentproperty) object. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}

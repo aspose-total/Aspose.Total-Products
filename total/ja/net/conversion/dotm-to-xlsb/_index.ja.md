@@ -18,10 +18,10 @@ otherformats: TSV XLAM SXC XLSB EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="DOTMをXLSBに変換する.NETAPI" %}}
-1. [Document](https://apireference.aspose.com/words/net/aspose.words/dotmument)クラスを使用してDOTMファイルを開きます
-2. [Save](https://apireference.aspose.com/words/net/aspose.words.dotmument/save/methods/4)メソッドを使用してDOTMをHTMLに変換します
-3. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
-4. [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをXLSB形式で保存し、「XLSB」をSaveFormatとして設定します
+1. [Document](https://reference.aspose.com/words/net/aspose.words/dotmument)クラスを使用してDOTMファイルを開きます
+2. [Save](https://reference.aspose.com/words/net/aspose.words.dotmument/save/methods/4)メソッドを使用してDOTMをHTMLに変換します
+3. [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
+4. [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをXLSB形式で保存し、「XLSB」をSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
@@ -39,7 +39,7 @@ otherformats: TSV XLAM SXC XLSB EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="C＃経由でストリームからDOTMドキュメントをロードする" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/)では、ストリームを介してDOTMドキュメントをロードすることもできます。ストリームからドキュメントを開くには、ドキュメントを含むストリームオブジェクトを[Dotmument](https://apireference.aspose.com/words/net/aspose.words/dotmument)コンストラクターに渡すだけです。次のコード例は、ストリームからドキュメントを開く方法を示しています。  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/)では、ストリームを介してDOTMドキュメントをロードすることもできます。ストリームからドキュメントを開くには、ドキュメントを含むストリームオブジェクトを[Dotmument](https://reference.aspose.com/words/net/aspose.words/dotmument)コンストラクターに渡すだけです。次のコード例は、ストリームからドキュメントを開く方法を示しています。  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
@@ -48,7 +48,7 @@ otherformats: TSV XLAM SXC XLSB EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="C＃を介してXLSBファイルにカスタムプロパティを追加する" %}}
-DOTMをXLSBに変換する際、[Aspose.Cells for .NET](https://products.aspose.com/cells/net/)を使用すると、XLSBドキュメントにカスタムプロパティを追加できます。カスタムプロパティを追加するには、[CustomDotmumentPropertyCollection](の[Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection/methods/add/index)メソッドを使用できます。 https://apireference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection)クラス。 Addメソッドは、プロパティをExcelファイルに追加し、新しいドキュメントプロパティの参照を[Aspose.Cells.Properties.DotmumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties)として返します。 / dotmumentproperty)オブジェクト。 
+DOTMをXLSBに変換する際、[Aspose.Cells for .NET](https://products.aspose.com/cells/net/)を使用すると、XLSBドキュメントにカスタムプロパティを追加できます。カスタムプロパティを追加するには、[CustomDotmumentPropertyCollection](の[Add](https://reference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection/methods/add/index)メソッドを使用できます。 https://reference.aspose.com/cells/net/aspose.cells.properties/customdotmumentpropertycollection)クラス。 Addメソッドは、プロパティをExcelファイルに追加し、新しいドキュメントプロパティの参照を[Aspose.Cells.Properties.DotmumentProperty](https://reference.aspose.com/cells/net/aspose.cells.properties)として返します。 / dotmumentproperty)オブジェクト。 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}

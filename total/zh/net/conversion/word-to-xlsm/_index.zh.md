@@ -18,10 +18,10 @@ otherformats: SXC XLSM ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API 将 WORD 转换为 XLSM" %}}
-1.使用[Document](https://apireference.aspose.com/words/net/aspose.words/document)类打开WORD文件
-2. 使用 [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) 方法将 WORD 转换为 HTML
-3. 使用 [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) 类加载 HTML 文档
-4. 使用 [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 方法将文档保存为 XLSM 格式，并将 `XLSM` 设置为 SaveFormat
+1.使用[Document](https://reference.aspose.com/words/net/aspose.words/document)类打开WORD文件
+2. 使用 [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) 方法将 WORD 转换为 HTML
+3. 使用 [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 类加载 HTML 文档
+4. 使用 [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 方法将文档保存为 XLSM 格式，并将 `XLSM` 设置为 SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
@@ -39,7 +39,7 @@ otherformats: SXC XLSM ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="通过 C# 从 Stream 加载 WORD 文档" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) 还允许您通过流加载 WORD 文档。要从流中打开文档，只需将包含文档的流对象传递给 [Document](https://apireference.aspose.com/words/net/aspose.words/document) 构造函数。以下代码示例显示了如何从流中打开文档：  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) 还允许您通过流加载 WORD 文档。要从流中打开文档，只需将包含文档的流对象传递给 [Document](https://reference.aspose.com/words/net/aspose.words/document) 构造函数。以下代码示例显示了如何从流中打开文档：  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
@@ -47,7 +47,7 @@ otherformats: SXC XLSM ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="通过 C# 在 XLSM 文件中添加自定义属性" %}}
-在将 WORD 转换为 XLSM 时，[Aspose.Cells for .NET](https://products.aspose.com/cells/net/) 允许您在 XLSM 文档中添加自定义属性。为了添加自定义属性，您可以对 [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection)类。 Add 方法将属性添加到 Excel 文件，并以 [Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties) 的形式返回新文档属性的引用/documentproperty) 对象。 
+在将 WORD 转换为 XLSM 时，[Aspose.Cells for .NET](https://products.aspose.com/cells/net/) 允许您在 XLSM 文档中添加自定义属性。为了添加自定义属性，您可以对 [CustomDocumentPropertyCollection](https://reference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection)类。 Add 方法将属性添加到 Excel 文件，并以 [Aspose.Cells.Properties.DocumentProperty](https://reference.aspose.com/cells/net/aspose.cells.properties) 的形式返回新文档属性的引用/documentproperty) 对象。 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}

@@ -16,10 +16,10 @@ otherformats: TIFF PS OTT EMF JPEG SVG PCL ODT MD DOTM EPUB DOTX DOT FLATOPC DOC
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="如何将 MSG 转换为 SVG" %}}
-1. 使用 [MailMessage](https://apireference.aspose.com/msg/java/com.aspose.msg/mailmessage) 类打开 MSG 文件
-2. 使用 [save](https://apireference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions) 将 MSG 转换为 HTML)) 方法
-3. 使用 [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) 类加载 HTML
-4. 使用 [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) 将文档保存为 SVG 格式)) 方法并将 SVG 设置为 SaveFormat
+1. 使用 [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage) 类打开 MSG 文件
+2. 使用 [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions) 将 MSG 转换为 HTML)) 方法
+3. 使用 [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 类加载 HTML
+4. 使用 [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) 将文档保存为 SVG 格式)) 方法并将 SVG 设置为 SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
 您必须直接从基于 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) 的项目中使用 Aspose.Total for Java并在您的 pom.xml 中包含库。

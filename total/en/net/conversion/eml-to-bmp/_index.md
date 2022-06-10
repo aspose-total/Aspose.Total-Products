@@ -18,10 +18,10 @@ If you are a .NET developer looking to add EML to BMP conversion features inside
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API to Convert EML to BMP" %}}
-1. Open EML file using [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage) class
-2. Convert EML to HTML by using [Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) method
-3. Load HTML by using [Document](https://apireference.aspose.com/words/net/aspose.words/document) class 
-4. Save the document to BMP format using [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Bmp as SaveFormat
+1. Open EML file using [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) class
+2. Convert EML to HTML by using [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) method
+3. Load HTML by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class 
+4. Save the document to BMP format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Bmp as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Format APIs" %}}
@@ -44,7 +44,7 @@ document.Save("output.bmp", SaveFormat.Bmp);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Parse EML File via .NET" %}}
-Before converting EML to BMP, if you want to make sure that you are converting the correct email, you can load EML document, parse it and have a look at your desired property. By using [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) class of [Aspose.Email for .NET](https://products.aspose.com/email/net/) API, you can get sender and recipients information. For example, you can check for a specific sender email for the conversion by using [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername) property. 
+Before converting EML to BMP, if you want to make sure that you are converting the correct email, you can load EML document, parse it and have a look at your desired property. By using [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) class of [Aspose.Email for .NET](https://products.aspose.com/email/net/) API, you can get sender and recipients information. For example, you can check for a specific sender email for the conversion by using [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername) property. 
 {{% blocks/products/pf/feature-page-code %}}
 ```cs// instantiate MapiMessage to load an EML file from disk
 var outlookMessageFile = MapiMessage.FromFile("message.eml");
@@ -57,7 +57,7 @@ if(outlookMessageFile.SenderName == "John"){
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Restrict BMP Document Editing via .NET" %}}
-While saving the document from EML to BMP, you might need to protect your output document. Sometimes you may need to limit the ability to edit a document and only allow certain actions with it. This can be useful to prevent other people from editing sensitive and confidential information in your document. [Aspose.Words for .NET](https://products.aspose.com/words/net/) API, enables you to control the way you restrict the content using the [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype) enumeration parameter. You can set your document to read-only by using the following lines of code. 
+While saving the document from EML to BMP, you might need to protect your output document. Sometimes you may need to limit the ability to edit a document and only allow certain actions with it. This can be useful to prevent other people from editing sensitive and confidential information in your document. [Aspose.Words for .NET](https://products.aspose.com/words/net/) API, enables you to control the way you restrict the content using the [ProtectionType](https://reference.aspose.com/words/net/aspose.words/protectiontype) enumeration parameter. You can set your document to read-only by using the following lines of code. 
 {{% blocks/products/pf/feature-page-code %}}
 ```cs// load HTML with an instance of Document
 Document document = new Document("HtmlOutput.html");

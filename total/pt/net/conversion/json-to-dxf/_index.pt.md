@@ -18,10 +18,10 @@ Usando [Aspose.Total for .NET](https://products.aspose.com/total/net/) você pod
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converter o formato JSON para DXF via C#" %}}
-1. Crie um novo objeto [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) e leia os dados JSON do arquivo
-2. Converta JSON para JPEG usando o método [Salvar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
-3. Carregue o documento JPEG usando a classe [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image)
-4. Salve o documento no formato DXF usando o método [Salvar](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
+1. Crie um novo objeto [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) e leia os dados JSON do arquivo
+2. Converta JSON para JPEG usando o método [Salvar](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+3. Carregue o documento JPEG usando a classe [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image)
+4. Salve o documento no formato DXF usando o método [Salvar](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
@@ -39,7 +39,7 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{< /blocks/products/pf/agp/feature-section >}}
 C#
 {{% blocks/products/pf/feature-page-section  h2="Defina o layout e converta o formato JSON para DXF via C#" %}}
-Ao analisar JSON para DXF, você também pode definir opções de layout para seu JSON usando [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayouttoptions). Ele permite que você processe Array como uma tabela, ignore nulos, ignore título de array, ignore título de objeto, converta string em número ou data, defina data e formato de número e defina estilo de título. Todas essas opções permitem que você apresente seus dados conforme suas necessidades. O trecho de código a seguir mostra como definir as opções de layout.  
+Ao analisar JSON para DXF, você também pode definir opções de layout para seu JSON usando [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayouttoptions). Ele permite que você processe Array como uma tabela, ignore nulos, ignore título de array, ignore título de objeto, converta string em número ou data, defina data e formato de número e defina estilo de título. Todas essas opções permitem que você apresente seus dados conforme suas necessidades. O trecho de código a seguir mostra como definir as opções de layout.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "set-layout-and-parse-json-to-image.cs" >}}
@@ -48,7 +48,7 @@ Ao analisar JSON para DXF, você também pode definir opções de layout para se
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analisar o formato JSON para DXF com marca d'água" %}}
-Usando a API, você também pode converter JSON em DXF com marca d'água em seu documento DXF. Para adicionar uma marca d'água, você pode primeiro renderizar seu documento JSON para JPEG e adicionar uma marca d'água nele. Para demonstrar a operação, você pode carregar sua imagem JPEG convertida, adicionar transformações usando um objeto da classe Matrix e desenhar uma string como marca d'água na superfície da imagem usando o [Graphics](https://apireference.aspose.com/imaging/ net/aspose.imaging/graphics) método [DrawString](https://apireference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring). Depois de adicionar a marca d'água, você pode salvar o JPEG como formato DXF. Abaixo está um exemplo de código que demonstra como adicionar uma marca d'água diagonal ao seu documento. 
+Usando a API, você também pode converter JSON em DXF com marca d'água em seu documento DXF. Para adicionar uma marca d'água, você pode primeiro renderizar seu documento JSON para JPEG e adicionar uma marca d'água nele. Para demonstrar a operação, você pode carregar sua imagem JPEG convertida, adicionar transformações usando um objeto da classe Matrix e desenhar uma string como marca d'água na superfície da imagem usando o [Graphics](https://reference.aspose.com/imaging/ net/aspose.imaging/graphics) método [DrawString](https://reference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring). Depois de adicionar a marca d'água, você pode salvar o JPEG como formato DXF. Abaixo está um exemplo de código que demonstra como adicionar uma marca d'água diagonal ao seu documento. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}

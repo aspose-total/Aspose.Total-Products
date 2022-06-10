@@ -26,8 +26,8 @@ Total API stöder inte bara interkonvertering av Microsoft Word-format utan äve
 
 
 {{% blocks/products/pf/feature-page-section  h2="Konvertera PDF till bilder" %}}
-API stöder konvertering av PDF till bilder, Powerpoint, Excel och andra format. För konvertering av PDF till bild, låt oss betrakta JPG-bilden som målfil. Processen är att ladda en PDF-fil med hjälp av Document class och initiera [JpegDevice class](https://apireference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) objekt och rendera PDF till JPEG via [Process](https ://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) metod
-Ladda JPEG-fil genom att använda klassen [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) och anropa till sist metoden Spara.
+API stöder konvertering av PDF till bilder, Powerpoint, Excel och andra format. För konvertering av PDF till bild, låt oss betrakta JPG-bilden som målfil. Processen är att ladda en PDF-fil med hjälp av Document class och initiera [JpegDevice class](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) objekt och rendera PDF till JPEG via [Process](https ://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) metod
+Ladda JPEG-fil genom att använda klassen [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) och anropa till sist metoden Spara.
 
 {{% blocks/products/pf/feature-page-code h3="C# - Konvertering av PDF till bild" %}}
 
@@ -41,7 +41,7 @@ Ladda JPEG-fil genom att använda klassen [Image](https://apireference.aspose.co
 
 {{% blocks/products/pf/feature-page-section  h2="Konvertera Excel till Word och PowerPoint" %}}
 
-För att konvertera Microsoft Excel-format till olika filer inklusive Word och PowerPoint, Relevanta under-API:er som ingår i huvud Aspose.Total för .NET API. Processen att konvertera Excel-filer till Word-dokument, ladda EXCEL-filen med klassen [Arbetsbok](https://apireference.aspose.com/cells/net/aspose.cells/workbook) och konvertera EXCEL till PDF först och ställ in SaveFormat till Auto. Ladda sedan den konverterade PDF-filen med klassen Document och anropa metoden Spara och ställ in Doc, Docx som SaveFormat. Koden listad även för Microsoft **Excel till Powerpoint**-konvertering.
+För att konvertera Microsoft Excel-format till olika filer inklusive Word och PowerPoint, Relevanta under-API:er som ingår i huvud Aspose.Total för .NET API. Processen att konvertera Excel-filer till Word-dokument, ladda EXCEL-filen med klassen [Arbetsbok](https://reference.aspose.com/cells/net/aspose.cells/workbook) och konvertera EXCEL till PDF först och ställ in SaveFormat till Auto. Ladda sedan den konverterade PDF-filen med klassen Document och anropa metoden Spara och ställ in Doc, Docx som SaveFormat. Koden listad även för Microsoft **Excel till Powerpoint**-konvertering.
 
 {{% blocks/products/pf/feature-page-code h3="C# - JSON till Excel-konvertering" %}}
 

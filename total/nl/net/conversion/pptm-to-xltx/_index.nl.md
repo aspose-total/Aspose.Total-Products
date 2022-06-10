@@ -18,10 +18,10 @@ Door [Aspose.Total for .NET](https://products.aspose.com/total/net/) te gebruike
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hoe PPTM naar XLTX te converteren via C#" %}}
-1. Open het PPTM-bestand met de klasse [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-2. Exporteer PPTM als HTML met behulp van de [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) methode
-3. Laad HTML-document met behulp van [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) class
-4. Sla het document op als XLTX met de methode [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+1. Open het PPTM-bestand met de klasse [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+2. Exporteer PPTM als HTML met behulp van de [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) methode
+3. Laad HTML-document met behulp van [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class
+4. Sla het document op als XLTX met de methode [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}

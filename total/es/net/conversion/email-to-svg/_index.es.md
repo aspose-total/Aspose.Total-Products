@@ -18,10 +18,10 @@ Si es un desarrollador de .NET que busca agregar funciones de conversión de EMA
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API de C# para convertir correo electrónico a SVG" %}}
-1. Abra el archivo EMAIL usando la clase [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage)
-2. Convierta EMAIL a HTML utilizando el método [Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
-3. Cargue HTML usando la clase [Documento](https://apireference.aspose.com/words/net/aspose.words/document)
-4. Guarde el documento en formato SVG usando el método [Guardar](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) y configure Svg como SaveFormat
+1. Abra el archivo EMAIL usando la clase [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage)
+2. Convierta EMAIL a HTML utilizando el método [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
+3. Cargue HTML usando la clase [Documento](https://reference.aspose.com/words/net/aspose.words/document)
+4. Guarde el documento en formato SVG usando el método [Guardar](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) y configure Svg como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
@@ -47,7 +47,7 @@ document.Save("output.svg", SaveFormat.Svg);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analizar archivo de correo electrónico a través de .NET" %}}
-Antes de convertir EMAIL a SVG, si desea asegurarse de que está convirtiendo el correo electrónico correcto, puede cargar el documento EMAIL, analizarlo y ver la propiedad deseada. Mediante el uso de la clase [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) de [Aspose.Email for .NET](https://products.aspose.com/email /net/) API, puede obtener información sobre el remitente y los destinatarios. Por ejemplo, puede verificar el correo electrónico de un remitente específico para la conversión usando la propiedad [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
+Antes de convertir EMAIL a SVG, si desea asegurarse de que está convirtiendo el correo electrónico correcto, puede cargar el documento EMAIL, analizarlo y ver la propiedad deseada. Mediante el uso de la clase [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) de [Aspose.Email for .NET](https://products.aspose.com/email /net/) API, puede obtener información sobre el remitente y los destinatarios. Por ejemplo, puede verificar el correo electrónico de un remitente específico para la conversión usando la propiedad [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

@@ -16,11 +16,11 @@ Thông thường, các nhà phát triển phải chuyển đổi tệp OTT sang 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cách chuyển OTT sang PPTX qua Java" %}}
-1. Mở tệp OTT bằng lớp [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-2. Chuyển đổi tệp OTT sang HTML bằng cách sử dụng [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String, com.aspose.words.SaveOptions)) phương pháp
-3. Khởi tạo đối tượng [Bản trình bày](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) mới
+1. Mở tệp OTT bằng lớp [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Chuyển đổi tệp OTT sang HTML bằng cách sử dụng [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String, com.aspose.words.SaveOptions)) phương pháp
+3. Khởi tạo đối tượng [Bản trình bày](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) mới
 5. Trích xuất nội dung từ tệp HTML bằng BufferedReader và ghi nội dung vào tệp bản trình bày của bạn
-6. Lưu tài liệu vào PPTX bằng phương thức [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. Lưu tài liệu vào PPTX bằng phương thức [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
 Để chuyển đổi tệp OTT sang PPTX, bạn có thể dễ dàng sử dụng Aspose.Total for Java trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) dựa trên dự án và bao gồm các thư viện trong pom.xml của bạn.

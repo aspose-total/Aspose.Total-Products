@@ -16,10 +16,10 @@ otherformats: WORDML OTT DOT RTF FLATOPC ODT TEXTM DOTX TEXTX TEXT WORD DOTM
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل POTM إلى TEXT عبر Java" %}}
-1. افتح ملف POTM باستخدام فئة [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. تحويل POTM إلى HTML باستخدام [Save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) وتعيين Html كـ SaveFormat
-3. قم بتحميل ملف HTML المحول باستخدام فئة [Textument](https://apireference.aspose.com/words/java/com.aspose.words/Textument)
-4. احفظ المستند بتنسيق TEXT باستخدام طريقة [Save](https://apireference.aspose.com/words/java/com.aspose.words/Textument#save(java.lang.String.int))
+1. افتح ملف POTM باستخدام فئة [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. تحويل POTM إلى HTML باستخدام [Save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) وتعيين Html كـ SaveFormat
+3. قم بتحميل ملف HTML المحول باستخدام فئة [Textument](https://reference.aspose.com/words/java/com.aspose.words/Textument)
+4. احفظ المستند بتنسيق TEXT باستخدام طريقة [Save](https://reference.aspose.com/words/java/com.aspose.words/Textument#save(java.lang.String.int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
 لتحويل ملف POTM إلى TEXT ، يمكنك بسهولة استخدام Aspose.Total لـ Java مباشرة من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) القائم على المشروع وتضمين المكتبات في ملفك pom.xml.
@@ -34,7 +34,7 @@ otherformats: WORDML OTT DOT RTF FLATOPC ODT TEXTM DOTX TEXTX TEXT WORD DOTM
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="متطلبات التحويل" %}}
-باستخدام API ، يمكنك أيضًا تنفيذ ملف POTM لتحويل TEXT بعلامة مائية. لإضافة علامة مائية إلى مستند TEXT الخاص بك ، يمكنك أولاً تحويل ملف POTM إلى HTML وإضافة علامة مائية إليه. لإضافة علامة مائية ، قم بتحميل ملف HTML الذي تم إنشاؤه حديثًا باستخدام فئة [Textument](https://apireference.aspose.com/words/java/com.aspose.words/Textument) ، وأنشئ مثيلاً لـ TextWatermarkOptions وعيّن خصائصه ، استدعاء طريقة Watermark.setText وتمرير نص العلامة المائية وكائن TextWatermarkOptions.  
+باستخدام API ، يمكنك أيضًا تنفيذ ملف POTM لتحويل TEXT بعلامة مائية. لإضافة علامة مائية إلى مستند TEXT الخاص بك ، يمكنك أولاً تحويل ملف POTM إلى HTML وإضافة علامة مائية إليه. لإضافة علامة مائية ، قم بتحميل ملف HTML الذي تم إنشاؤه حديثًا باستخدام فئة [Textument](https://reference.aspose.com/words/java/com.aspose.words/Textument) ، وأنشئ مثيلاً لـ TextWatermarkOptions وعيّن خصائصه ، استدعاء طريقة Watermark.setText وتمرير نص العلامة المائية وكائن TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}

@@ -16,10 +16,10 @@ otherformats: POWERPOINT WORD PPTX POWERPOINTX
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cách chuyển đổi FODS sang POWERPOINT qua Java API" %}}
-1. Mở tệp FODS bằng lớp [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)
+1. Mở tệp FODS bằng lớp [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 2. Chuyển đổi FODS sang PDF và đặt SaveFormat thành TỰ ĐỘNG
-3. Tải tệp PDF đã chuyển đổi bằng lớp [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)
-4. Lưu tài liệu sang định dạng POWERPOINT bằng [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) và đặt Powerpoint là SaveFormat
+3. Tải tệp PDF đã chuyển đổi bằng lớp [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+4. Lưu tài liệu sang định dạng POWERPOINT bằng [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) và đặt Powerpoint là SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
 Bạn phải sử dụng Aspose.Total for Java trực tiếp từ dự án dựa trên [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và bao gồm các thư viện trong pom.xml của bạn.

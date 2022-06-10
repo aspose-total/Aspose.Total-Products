@@ -18,10 +18,10 @@ otherformats: EMZ PSD IMAGE TGA DXF WMZ WMF JPEG2000 SVGZ DICOM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="تحويل تنسيق JSON إلى TGA عبر C#" %}}
-1. قم بإنشاء كائن [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) جديد  واقرأ بيانات JSON من ملف
-2. تحويل JSON إلى JPEG باستخدام طريقة [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
-3. قم بتحميل مستند JPEG باستخدام فئة [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image)
-4. احفظ المستند بتنسيق TGA باستخدام طريقة [Save](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
+1. قم بإنشاء كائن [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) جديد  واقرأ بيانات JSON من ملف
+2. تحويل JSON إلى JPEG باستخدام طريقة [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+3. قم بتحميل مستند JPEG باستخدام فئة [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image)
+4. احفظ المستند بتنسيق TGA باستخدام طريقة [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
@@ -39,7 +39,7 @@ otherformats: EMZ PSD IMAGE TGA DXF WMZ WMF JPEG2000 SVGZ DICOM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="تعيين التخطيط وتحويل تنسيق JSON إلى TGA عبر C#" %}}
-أثناء تحليل JSON إلى TGA ، يمكنك أيضًا تعيين خيارات التخطيط لـ JSON باستخدام [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). يسمح لك بمعالجة الصفيف كجدول ، وتجاهل القيم الخالية ، وتجاهل عنوان الصفيف ، وتجاهل عنوان الكائن ، وتحويل السلسلة إلى رقم أو تاريخ ، وتعيين تنسيق التاريخ والأرقام ، وتعيين نمط العنوان. تتيح لك كل هذه الخيارات تقديم بياناتك وفقًا لاحتياجاتك. يوضح لك مقتطف الشفرة التالي كيفية تعيين خيارات التخطيط.  
+أثناء تحليل JSON إلى TGA ، يمكنك أيضًا تعيين خيارات التخطيط لـ JSON باستخدام [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). يسمح لك بمعالجة الصفيف كجدول ، وتجاهل القيم الخالية ، وتجاهل عنوان الصفيف ، وتجاهل عنوان الكائن ، وتحويل السلسلة إلى رقم أو تاريخ ، وتعيين تنسيق التاريخ والأرقام ، وتعيين نمط العنوان. تتيح لك كل هذه الخيارات تقديم بياناتك وفقًا لاحتياجاتك. يوضح لك مقتطف الشفرة التالي كيفية تعيين خيارات التخطيط.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "set-layout-and-parse-json-to-image.cs" >}}
@@ -47,7 +47,7 @@ otherformats: EMZ PSD IMAGE TGA DXF WMZ WMF JPEG2000 SVGZ DICOM
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="تحليل تنسيق JSON إلى TGA باستخدام العلامة المائية" %}}
-باستخدام API ، يمكنك أيضًا تحويل JSON إلى TGA بعلامة مائية في مستند TGA الخاص بك. لإضافة علامة مائية ، يمكنك أولاً تحويل مستند JSON إلى JPEG وإضافة علامة مائية فيه. لتوضيح العملية ، يمكنك تحميل صورة JPEG المحولة وإضافة تحويلات باستخدام كائن من فئة Matrix ورسم سلسلة كعلامة مائية على سطح الصورة باستخدام [Grpahics](https://apireference.aspose.com/imaging/net/aspose.imaging/graphics) class '[DrawString](https://apireference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring). بعد إضافة العلامة المائية إليها ، يمكنك حفظ JPEG بتنسيق TGA. يوجد أدناه مثال رمز يوضح كيفية إضافة علامة مائية قطرية إلى المستند الخاص بك. 
+باستخدام API ، يمكنك أيضًا تحويل JSON إلى TGA بعلامة مائية في مستند TGA الخاص بك. لإضافة علامة مائية ، يمكنك أولاً تحويل مستند JSON إلى JPEG وإضافة علامة مائية فيه. لتوضيح العملية ، يمكنك تحميل صورة JPEG المحولة وإضافة تحويلات باستخدام كائن من فئة Matrix ورسم سلسلة كعلامة مائية على سطح الصورة باستخدام [Grpahics](https://reference.aspose.com/imaging/net/aspose.imaging/graphics) class '[DrawString](https://reference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring). بعد إضافة العلامة المائية إليها ، يمكنك حفظ JPEG بتنسيق TGA. يوجد أدناه مثال رمز يوضح كيفية إضافة علامة مائية قطرية إلى المستند الخاص بك. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}

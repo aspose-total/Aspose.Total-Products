@@ -16,10 +16,10 @@ Med hjälp av [Aspose.Total for Java](https://products.aspose.com/total/java/) k
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertera JSON-format till POWERPOINT via Java" %}}
-1. Skapa ett nytt [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) objekt och öppna JSON-filen
-2. Spara JSON som PPTX med [save](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions) ) metod
-3. Ladda PPTX-dokument genom att använda klassen [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-4. Spara dokumentet i POWERPOINT-format med metoden [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-)
+1. Skapa ett nytt [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) objekt och öppna JSON-filen
+2. Spara JSON som PPTX med [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions) ) metod
+3. Ladda PPTX-dokument genom att använda klassen [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+4. Spara dokumentet i POWERPOINT-format med metoden [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
 Du kan enkelt använda Aspose.Total för Java direkt från ett [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) baserat projekt och inkludera bibliotek i din pom.xml.
@@ -34,7 +34,7 @@ Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Konverteringskrav" %}}
-Dessutom låter API:et dig tolka JSON till POWERPOINT med specificerade layoutalternativ. För att specificera layoutalternativen kan du använda klassen [JsonLayoutOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonlayoutoptions). Det låter dig bearbeta en array som en tabell, ignorera nollvärden, ignorera arraytitel, ignorera objekttitel, konvertera sträng till nummer eller datum, ställa in datum och nummerformat och ställa in titelstil. Alla dessa alternativ låter dig presentera din data enligt dina behov. Följande kodavsnitt visar hur du ställer in layoutalternativen.  
+Dessutom låter API:et dig tolka JSON till POWERPOINT med specificerade layoutalternativ. För att specificera layoutalternativen kan du använda klassen [JsonLayoutOptions](https://reference.aspose.com/cells/java/com.aspose.cells/jsonlayoutoptions). Det låter dig bearbeta en array som en tabell, ignorera nollvärden, ignorera arraytitel, ignorera objekttitel, konvertera sträng till nummer eller datum, ställa in datum och nummerformat och ställa in titelstil. Alla dessa alternativ låter dig presentera din data enligt dina behov. Följande kodavsnitt visar hur du ställer in layoutalternativen.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "set-layout-and-parse-json-to-powerpoint.java" >}}
@@ -42,7 +42,7 @@ Dessutom låter API:et dig tolka JSON till POWERPOINT med specificerade layoutal
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Ställ in layout och konvertera JSON-format till POWERPOINT via Java" %}}
-Med hjälp av API:t kan du också konvertera JSON till POWERPOINT med vattenstämpel. För att lägga till ett vattenmärke till ditt POWERPOINT-dokument kan du först analysera JSON till PPTX och lägga till ett vattenmärke till det. För att lägga till en vattenstämpel, ladda den nyskapade PPTX-filen med klassen [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation), gå igenom alla bilder, lägg till text Använd addTextFrame, ställ in alla relevanta alternativ som färg, fillType och mer och kan spara dokumentet till POWERPOINT. 
+Med hjälp av API:t kan du också konvertera JSON till POWERPOINT med vattenstämpel. För att lägga till ett vattenmärke till ditt POWERPOINT-dokument kan du först analysera JSON till PPTX och lägga till ett vattenmärke till det. För att lägga till en vattenstämpel, ladda den nyskapade PPTX-filen med klassen [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation), gå igenom alla bilder, lägg till text Använd addTextFrame, ställ in alla relevanta alternativ som färg, fillType och mer och kan spara dokumentet till POWERPOINT. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "parse-json-to-powerpoint-with-watermark.java" >}}

@@ -18,10 +18,10 @@ otherformats: XLT TXT EXCEL ODS DIF XLTX SXC TSV XLTM MD XLAM XLSM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API 将 MHTML 转换为 TSV" %}}
-1.使用[Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)类打开MHTML文件
-2. 使用[Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)方法将MHTML转换为XLSX
-3. 使用 [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) 类加载 XLSX 文档
-4. 使用 [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 方法将文档保存为 TSV 格式，并将 `Tsv` 设置为 SaveFormat
+1.使用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类打开MHTML文件
+2. 使用[Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)方法将MHTML转换为XLSX
+3. 使用 [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 类加载 XLSX 文档
+4. 使用 [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 方法将文档保存为 TSV 格式，并将 `Tsv` 设置为 SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
@@ -39,7 +39,7 @@ otherformats: XLT TXT EXCEL ODS DIF XLTX SXC TSV XLTM MD XLAM XLSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="通过 C# 将受保护的 MHTML 转换为 TSV" %}}
-如果您的 MHTML 文档受密码保护，则您无法在没有密码的情况下将其转换为 TSV。使用 API，您可以先使用有效密码打开受保护的文档，然后再进行转换。为了打开加密文件，您可以初始化 [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) 类的新实例，并将文件名和密码作为参数传递。  
+如果您的 MHTML 文档受密码保护，则您无法在没有密码的情况下将其转换为 TSV。使用 API，您可以先使用有效密码打开受保护的文档，然后再进行转换。为了打开加密文件，您可以初始化 [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) 类的新实例，并将文件名和密码作为参数传递。  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-password-protected-pdf-to-excel.cs" >}}

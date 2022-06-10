@@ -16,11 +16,11 @@ otherformats: PPTX POTM POTX POWERPOINT PPTM PPT POT PPSX PPS PPSM CSV DIF FODS 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="如何通过 Java 将 FLATOPC 转换为 POTX" %}}
-1. 使用 [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument) 类打开 FLATOPC 文件
-2. 使用 [save](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,com.aspose.words.SaveOptions) 将 FLATOPC 文件转换为 HTML)) 方法
-3.初始化一个新的[Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)对象
+1. 使用 [Flatopcument](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument) 类打开 FLATOPC 文件
+2. 使用 [save](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,com.aspose.words.SaveOptions) 将 FLATOPC 文件转换为 HTML)) 方法
+3.初始化一个新的[Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)对象
 5. 使用 BufferedReader 从 HTML 文件中提取内容并将内容写入您的演示文件
-6. 使用 [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) 方法将文档保存到 POTX
+6. 使用 [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) 方法将文档保存到 POTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
 对于 FLATOPC 到 POTX 文件的转换，您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) 基于项目并在 pom.xml 中包含库。

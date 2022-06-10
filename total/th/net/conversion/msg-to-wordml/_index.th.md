@@ -18,10 +18,10 @@ otherformats: DOTX DOC JPEG XPS MD PCL OTT DOT PNG EMF DOCX TEXT ODT SVG DOTM WO
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API เพื่อแปลง MSG เป็น WORDML" %}}
-1. เปิดไฟล์ MSG โดยใช้คลาส [MailMessage](https://apireference.aspose.com/msg/net/aspose.msg/mailmessage)
-2. แปลง MSG เป็น HTML โดยใช้วิธีการ [Save](https://apireference.aspose.com/msg/net/aspose.msg.mailmessage/save/methods/3)
-3. โหลด HTML โดยใช้คลาส [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-4. บันทึกเอกสารเป็นรูปแบบ WORDML โดยใช้เมธอด [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) และตั้งค่า Wordml เป็น SaveFormat
+1. เปิดไฟล์ MSG โดยใช้คลาส [MailMessage](https://reference.aspose.com/msg/net/aspose.msg/mailmessage)
+2. แปลง MSG เป็น HTML โดยใช้วิธีการ [Save](https://reference.aspose.com/msg/net/aspose.msg.mailmessage/save/methods/3)
+3. โหลด HTML โดยใช้คลาส [Document](https://reference.aspose.com/words/net/aspose.words/document)
+4. บันทึกเอกสารเป็นรูปแบบ WORDML โดยใช้เมธอด [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) และตั้งค่า Wordml เป็น SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
@@ -47,7 +47,7 @@ document.Save("output.wordml", SaveFormat.WordML);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="แยกไฟล์ MSG ผ่าน .NET" %}}
-ก่อนแปลง MSG เป็น WORDML หากคุณต้องการแน่ใจว่าคุณกำลังแปลงอีเมลที่ถูกต้อง คุณสามารถโหลดเอกสาร MSG แยกวิเคราะห์ และดูคุณสมบัติที่คุณต้องการได้ โดยใช้ [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) คลาสของ [Aspose.Email for .NET](https://products.aspose.com/msg /net/) API คุณสามารถรับข้อมูลผู้ส่งและผู้รับ ตัวอย่างเช่น คุณสามารถตรวจสอบอีเมลผู้ส่งเฉพาะสำหรับการแปลงโดยใช้คุณสมบัติ [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername)  
+ก่อนแปลง MSG เป็น WORDML หากคุณต้องการแน่ใจว่าคุณกำลังแปลงอีเมลที่ถูกต้อง คุณสามารถโหลดเอกสาร MSG แยกวิเคราะห์ และดูคุณสมบัติที่คุณต้องการได้ โดยใช้ [MapiMessage](https://reference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) คลาสของ [Aspose.Email for .NET](https://products.aspose.com/msg /net/) API คุณสามารถรับข้อมูลผู้ส่งและผู้รับ ตัวอย่างเช่น คุณสามารถตรวจสอบอีเมลผู้ส่งเฉพาะสำหรับการแปลงโดยใช้คุณสมบัติ [SenderName](https://reference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername)  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

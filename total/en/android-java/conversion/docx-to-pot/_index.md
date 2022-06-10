@@ -18,11 +18,11 @@ Are you an Android developer looking to add a document conversion feature to you
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="How to Convert DOCX to POT in Android" %}}
-1. Open DOCX file using [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) class
-2. Convert DOCX file to HTML by using [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
-3. Initialize a new [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) object
+1. Open DOCX file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
+2. Convert DOCX file to HTML by using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
+3. Initialize a new [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object
 5. Extract content from HTML file using BufferedReader and write the content in your presentation file
-6. Save the document to POT using [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) method
+6. Save the document to POT using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="DOCX File Conversion in Android" %}}
@@ -45,7 +45,7 @@ You can also convert your password-protected DOCX to POT within your Android app
 
 {{% blocks/products/pf/feature-page-section  h2="Convert DOCX to POT with Watermark in Android via Java" %}}
 Within your Android applications, the API also allows you to perform DOCX file to POT conversion with watermark. 
-In order to add a watermark to your POT document, you can first export DOCX to HTML and write HTML content in [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) object. After that to add a watermark, you can add text using addTextFrame, set all the relevant options like color, fillType and more and can save the document to POT.
+In order to add a watermark to your POT document, you can first export DOCX to HTML and write HTML content in [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object. After that to add a watermark, you can add text using addTextFrame, set all the relevant options like color, fillType and more and can save the document to POT.
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}

@@ -18,10 +18,10 @@ otherformats: XAML POTX PPS PPTM PPT PPSX POT OTP POTM PPSM POWERPOINT SWF
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="PS을 PPS로 변환하는 .NET API" %}}
-1. [문서](https://apireference.aspose.com/pdf/net/aspose.pdf/document) 클래스를 사용하여 PS 파일을 엽니다.
-2. [저장](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) 방법을 사용하여 PS을 PPTX로 변환
-3. [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) 클래스를 이용하여 PPTX 파일 불러오기
-4. [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) 메서드를 사용하여 문서를 PPS 형식으로 저장하고 'Pps'를 SaveFormat으로 설정합니다.
+1. [문서](https://reference.aspose.com/pdf/net/aspose.pdf/document) 클래스를 사용하여 PS 파일을 엽니다.
+2. [저장](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) 방법을 사용하여 PS을 PPTX로 변환
+3. [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) 클래스를 이용하여 PPTX 파일 불러오기
+4. [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) 메서드를 사용하여 문서를 PPS 형식으로 저장하고 'Pps'를 SaveFormat으로 설정합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
@@ -46,7 +46,7 @@ presentation.Save("output.pps", SaveFormat.Pps);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2=".NET을 통해 PS 파일에서 XMP 메타데이터 가져오기" %}}
-PS을 PPS로 변환하는 동안 일괄 변환 프로세스의 우선 순위를 지정하기 위해 추가 XMP 메타데이터 정보가 필요할 수 있습니다. 예를 들어 생성 날짜를 기준으로 변환 문서를 가져와 정렬하고 그에 따라 문서를 처리할 수 있습니다. [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/)에서는 PS 파일의 XMP 메타데이터에 액세스할 수 있습니다. PS 파일의 메타데이터를 얻으려면 [문서](https://apireference.aspose.com/pdf/net/aspose.pdf/document) 개체를 생성하고 입력된 PS 파일을 열 수 있습니다. 이후 [Metadata](https://apireference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata) 속성을 통해 파일의 메타데이터를 얻을 수 있습니다.  
+PS을 PPS로 변환하는 동안 일괄 변환 프로세스의 우선 순위를 지정하기 위해 추가 XMP 메타데이터 정보가 필요할 수 있습니다. 예를 들어 생성 날짜를 기준으로 변환 문서를 가져와 정렬하고 그에 따라 문서를 처리할 수 있습니다. [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/)에서는 PS 파일의 XMP 메타데이터에 액세스할 수 있습니다. PS 파일의 메타데이터를 얻으려면 [문서](https://reference.aspose.com/pdf/net/aspose.pdf/document) 개체를 생성하고 입력된 PS 파일을 열 수 있습니다. 이후 [Metadata](https://reference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata) 속성을 통해 파일의 메타데이터를 얻을 수 있습니다.  
 {{% blocks/products/pf/feature-page-code %}}
 ```cs
 

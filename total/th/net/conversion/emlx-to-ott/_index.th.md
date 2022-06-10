@@ -18,10 +18,10 @@ otherformats: RTF OTT ODT DOT TEXT TIFF WORDML PS SVG PNG MD EMF EPUB FLATOPC DO
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API เพื่อแปลง EMLX เป็น OTT" %}}
-1. เปิดไฟล์ EMLX โดยใช้คลาส [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage)
-2. แปลง EMLX เป็น HTML โดยใช้วิธีการ [Save](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
-3. โหลด HTML โดยใช้คลาส [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-4. บันทึกเอกสารเป็นรูปแบบ OTT โดยใช้เมธอด [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) และตั้งค่า Ott เป็น SaveFormat
+1. เปิดไฟล์ EMLX โดยใช้คลาส [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage)
+2. แปลง EMLX เป็น HTML โดยใช้วิธีการ [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
+3. โหลด HTML โดยใช้คลาส [Document](https://reference.aspose.com/words/net/aspose.words/document)
+4. บันทึกเอกสารเป็นรูปแบบ OTT โดยใช้เมธอด [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) และตั้งค่า Ott เป็น SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
@@ -47,7 +47,7 @@ document.Save("output.ott", SaveFormat.Ott);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="แยกไฟล์ EMLX ผ่าน .NET" %}}
-ก่อนแปลง EMLX เป็น OTT หากคุณต้องการแน่ใจว่าคุณกำลังแปลงอีเมลที่ถูกต้อง คุณสามารถโหลดเอกสาร EMLX แยกวิเคราะห์ และดูคุณสมบัติที่คุณต้องการได้ โดยใช้ [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) คลาสของ [Aspose.Email for .NET](https://products.aspose.com/email /net/) API คุณสามารถรับข้อมูลผู้ส่งและผู้รับ ตัวอย่างเช่น คุณสามารถตรวจสอบอีเมลผู้ส่งเฉพาะสำหรับการแปลงโดยใช้คุณสมบัติ [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername)  
+ก่อนแปลง EMLX เป็น OTT หากคุณต้องการแน่ใจว่าคุณกำลังแปลงอีเมลที่ถูกต้อง คุณสามารถโหลดเอกสาร EMLX แยกวิเคราะห์ และดูคุณสมบัติที่คุณต้องการได้ โดยใช้ [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) คลาสของ [Aspose.Email for .NET](https://products.aspose.com/email /net/) API คุณสามารถรับข้อมูลผู้ส่งและผู้รับ ตัวอย่างเช่น คุณสามารถตรวจสอบอีเมลผู้ส่งเฉพาะสำหรับการแปลงโดยใช้คุณสมบัติ [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername)  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

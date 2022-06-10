@@ -16,11 +16,11 @@ otherformats: PPTX POTM POTX POWERPOINT PPTM PPT POT PPSX PPS PPSM CSV DIF FODS 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak převést FLATOPC na POTX přes Java" %}}
-1. Otevřete soubor FLATOPC pomocí třídy [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument)
-2. Převeďte soubor FLATOPC do HTML pomocí [save](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,com.aspose.words.SaveOptions)) metoda
-3. Inicializujte nový objekt [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
+1. Otevřete soubor FLATOPC pomocí třídy [Flatopcument](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument)
+2. Převeďte soubor FLATOPC do HTML pomocí [save](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,com.aspose.words.SaveOptions)) metoda
+3. Inicializujte nový objekt [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extrahujte obsah ze souboru HTML pomocí BufferedReader a zapište obsah do souboru prezentace
-6. Uložte dokument do POTX pomocí metody [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. Uložte dokument do POTX pomocí metody [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Pro konverzi souborů FLATOPC na POTX můžete snadno použít Aspose.Total for Java přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a zahrňte knihovny do vašeho pom.xml.

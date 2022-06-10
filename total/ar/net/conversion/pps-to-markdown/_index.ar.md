@@ -18,10 +18,10 @@ otherformats: XLTM XLSB XLSX FODS XLS XLAM MARKDOWN XLTX MHTML SXC XLT TSV ODS E
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل PPS إلى MARKDOWN عبر C#" %}}
-1. افتح ملف PPS باستخدام فئة [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-2. تصدير PPS بتنسيق HTML باستخدام طريقة [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
-3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. احفظ المستند في ملف MARKDOWN باستخدام طريقة [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+1. افتح ملف PPS باستخدام فئة [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+2. تصدير PPS بتنسيق HTML باستخدام طريقة [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. احفظ المستند في ملف MARKDOWN باستخدام طريقة [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}

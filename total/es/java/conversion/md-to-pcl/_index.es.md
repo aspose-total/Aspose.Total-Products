@@ -16,10 +16,10 @@ Puede convertir MD a PCL siguiendo dos simples pasos. Primero debe procesar el a
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API de Java para convertir MD a PCL" %}}
-1. Abra el archivo MD usando la clase [Documento](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)
-2. Convierta MD a DOC usando [guardar](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) método
-3. Cargue el archivo DOC usando la clase [Documento](https://apireference.aspose.com/words/java/com.aspose.words/Document) de Aspose.Words
-4. Guarde el documento en formato PCL usando el método [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) y configure PCL como Guardar formato
+1. Abra el archivo MD usando la clase [Documento](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. Convierta MD a DOC usando [guardar](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) método
+3. Cargue el archivo DOC usando la clase [Documento](https://reference.aspose.com/words/java/com.aspose.words/Document) de Aspose.Words
+4. Guarde el documento en formato PCL usando el método [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) y configure PCL como Guardar formato
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
 Puede usar fácilmente Aspose.Total para Java directamente desde un proyecto basado en [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e incluya [Aspose.PDF para Java](https://docs.aspose.com/pdf/java/installation/) y [Aspose.Words para Java](https://docs.aspose.com/words/java/installation/) en su pom.xml.
@@ -42,7 +42,7 @@ outputDocument.save("output.pcl", SaveFormat.PCL);
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisitos de conversión" %}}
-Mientras convierte MD a PCL, incluso si su documento está protegido con contraseña, aún puede abrirlo usando la API de manipulación de PDF [Aspose.PDF para Java](https://docs.aspose.com/pdf/java/installation/). Para abrir el archivo cifrado, debe crear un objeto [Documento](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document) y abrir el MD con la contraseña del propietario.  
+Mientras convierte MD a PCL, incluso si su documento está protegido con contraseña, aún puede abrirlo usando la API de manipulación de PDF [Aspose.PDF para Java](https://docs.aspose.com/pdf/java/installation/). Para abrir el archivo cifrado, debe crear un objeto [Documento](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) y abrir el MD con la contraseña del propietario.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

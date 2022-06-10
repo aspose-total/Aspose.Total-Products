@@ -18,10 +18,10 @@ Pokud jste vývojář .NET, který chce přidat MSG do funkcí převodu GIF ve s
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API pro převod MSG na GIF" %}}
-1. Otevřete soubor MSG pomocí třídy [MailMessage](https://apireference.aspose.com/msg/net/aspose.msg/mailmessage)
-2. Převeďte MSG na HTML pomocí metody [Save](https://apireference.aspose.com/msg/net/aspose.msg.mailmessage/save/methods/3)
-3. Načtěte HTML pomocí třídy [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-4. Uložte dokument do formátu GIF pomocí metody [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) a nastavte Gif jako SaveFormat
+1. Otevřete soubor MSG pomocí třídy [MailMessage](https://reference.aspose.com/msg/net/aspose.msg/mailmessage)
+2. Převeďte MSG na HTML pomocí metody [Save](https://reference.aspose.com/msg/net/aspose.msg.mailmessage/save/methods/3)
+3. Načtěte HTML pomocí třídy [Document](https://reference.aspose.com/words/net/aspose.words/document)
+4. Uložte dokument do formátu GIF pomocí metody [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) a nastavte Gif jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
@@ -47,7 +47,7 @@ document.Save("output.gif", SaveFormat.Gif);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analyzujte soubor MSG přes .NET" %}}
-Před převodem MSG na GIF, pokud se chcete ujistit, že převádíte správný e-mail, můžete načíst dokument MSG, analyzovat jej a podívat se na požadovanou vlastnost. Pomocí třídy [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) třídy [Aspose.Email for .NET](https://products.aspose.com/msg /net/) API, můžete získat informace o odesílateli a příjemcích. Můžete například zkontrolovat e-mail konkrétního odesílatele pro konverzi pomocí vlastnosti [SenderName](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername).  
+Před převodem MSG na GIF, pokud se chcete ujistit, že převádíte správný e-mail, můžete načíst dokument MSG, analyzovat jej a podívat se na požadovanou vlastnost. Pomocí třídy [MapiMessage](https://reference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) třídy [Aspose.Email for .NET](https://products.aspose.com/msg /net/) API, můžete získat informace o odesílateli a příjemcích. Můžete například zkontrolovat e-mail konkrétního odesílatele pro konverzi pomocí vlastnosti [SenderName](https://reference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -63,7 +63,7 @@ if(outlookMessageFile.SenderName == "John"){
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Omezit úpravy dokumentů GIF prostřednictvím .NET" %}}
-Při ukládání dokumentu z MSG do GIF může být nutné chránit výstupní dokument. Někdy může být nutné omezit možnost upravovat dokument a povolit s ním pouze určité akce. To může být užitečné, abyste zabránili jiným lidem upravovat citlivé a důvěrné informace ve vašem dokumentu. [Aspose.Words for .NET](https://products.aspose.com/words/net/) API vám umožňuje ovládat způsob, jakým omezujete obsah pomocí [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype) parametr výčtu. Pomocí následujících řádků kódu můžete dokument nastavit tak, aby byl jen pro čtení. 
+Při ukládání dokumentu z MSG do GIF může být nutné chránit výstupní dokument. Někdy může být nutné omezit možnost upravovat dokument a povolit s ním pouze určité akce. To může být užitečné, abyste zabránili jiným lidem upravovat citlivé a důvěrné informace ve vašem dokumentu. [Aspose.Words for .NET](https://products.aspose.com/words/net/) API vám umožňuje ovládat způsob, jakým omezujete obsah pomocí [ProtectionType](https://reference.aspose.com/words/net/aspose.words/protectiontype) parametr výčtu. Pomocí následujících řádků kódu můžete dokument nastavit tak, aby byl jen pro čtení. 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

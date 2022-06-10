@@ -18,10 +18,10 @@ otherformats: MARKDOWN XLTX ODS XLS SXC DIF XLSM FODS XLAM TSV XLTM XLSB MHTML X
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C#을 통해 POT을 XLSX로 변환하는 방법" %}}
-1. [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) 클래스를 사용하여 POT 파일을 엽니다.
-2. [저장](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) 메서드를 사용하여 POT을 HTML로 내보냅니다.
-3. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) 클래스를 사용하여 HTML 문서 로드
-4. [저장](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 방법을 사용하여 문서를 XLSX로 저장합니다.
+1. [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) 클래스를 사용하여 POT 파일을 엽니다.
+2. [저장](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) 메서드를 사용하여 POT을 HTML로 내보냅니다.
+3. [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 클래스를 사용하여 HTML 문서 로드
+4. [저장](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 방법을 사용하여 문서를 XLSX로 저장합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}

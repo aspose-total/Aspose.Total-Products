@@ -18,10 +18,10 @@ Jika Anda adalah pengembang .NET yang ingin menambahkan fitur konversi EMLX ke R
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API untuk Mengonversi EMLX ke RTF" %}}
-1. Buka file EMLX menggunakan kelas [MailMessage](https://apireference.aspose.com/email/net/aspose.email/mailmessage)
-2. Konversi EMLX ke HTML dengan menggunakan metode [Simpan](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
-3. Muat HTML dengan menggunakan kelas [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-4. Simpan dokumen ke format RTF menggunakan metode [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) dan atur Rtf sebagai SaveFormat
+1. Buka file EMLX menggunakan kelas [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage)
+2. Konversi EMLX ke HTML dengan menggunakan metode [Simpan](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
+3. Muat HTML dengan menggunakan kelas [Document](https://reference.aspose.com/words/net/aspose.words/document)
+4. Simpan dokumen ke format RTF menggunakan metode [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) dan atur Rtf sebagai SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
@@ -47,7 +47,7 @@ document.Save("output.rtf", SaveFormat.Rtf);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Parsing File EMLX melalui .NET" %}}
-Sebelum mengonversi EMLX ke RTF, jika Anda ingin memastikan bahwa Anda mengonversi emlx yang benar, Anda dapat memuat dokumen EMLX, menguraikannya dan melihat properti yang Anda inginkan. Dengan menggunakan kelas [MapiMessage](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage) dari [Aspose.Email for .NET](https://products.aspose.com/email /net/) API, Anda bisa mendapatkan informasi pengirim dan penerima. Misalnya, Anda dapat memeriksa emlx pengirim tertentu untuk konversi dengan menggunakan properti [SenderName](https://apireference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
+Sebelum mengonversi EMLX ke RTF, jika Anda ingin memastikan bahwa Anda mengonversi emlx yang benar, Anda dapat memuat dokumen EMLX, menguraikannya dan melihat properti yang Anda inginkan. Dengan menggunakan kelas [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) dari [Aspose.Email for .NET](https://products.aspose.com/email /net/) API, Anda bisa mendapatkan informasi pengirim dan penerima. Misalnya, Anda dapat memeriksa emlx pengirim tertentu untuk konversi dengan menggunakan properti [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

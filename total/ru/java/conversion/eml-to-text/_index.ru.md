@@ -16,10 +16,10 @@ otherformats: PDF DOCM OTT PNG GIF DOC DOCX MD ODT XPS DOTM SVG JPEG PS TIFF PCL
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как конвертировать EML в TEXT" %}}
-1. Откройте файл EML с помощью класса [MailMessage](https://apireference.aspose.com/eml/java/com.aspose.eml/mailmessage).
-2. Преобразуйте EML в HTML, используя [save](https://apireference.aspose.com/eml/java/com.aspose.eml/MailMessage#save(java.io.OutputStream,%20com.aspose.eml.SaveOptions).)) метод
-3. Загрузите HTML с помощью класса [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document).
-4. Сохраните документ в формате TEXT, используя [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions).)) и установите TEXT как SaveFormat
+1. Откройте файл EML с помощью класса [MailMessage](https://reference.aspose.com/eml/java/com.aspose.eml/mailmessage).
+2. Преобразуйте EML в HTML, используя [save](https://reference.aspose.com/eml/java/com.aspose.eml/MailMessage#save(java.io.OutputStream,%20com.aspose.eml.SaveOptions).)) метод
+3. Загрузите HTML с помощью класса [Document](https://reference.aspose.com/words/java/com.aspose.words/Document).
+4. Сохраните документ в формате TEXT, используя [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions).)) и установите TEXT как SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
 Вы должны использовать Aspose.Total для Java непосредственно из проекта на основе [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total). и включите библиотеки в свой pom.xml.

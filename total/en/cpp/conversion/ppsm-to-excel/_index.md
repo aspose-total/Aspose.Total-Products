@@ -18,10 +18,10 @@ By using [Aspose.Total for C++](https://products.aspose.com/total/cpp/) you can 
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="How to Convert PPSM to EXCEL via C++" %}}
-1. Open PPSM file using [Presentation](https://apireference.aspose.com/slides/cpp/class/aspose.slides.presentation) class reference
-2. Convert PPSM to HTML by using [Save](https://apireference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba) method
-3. Load HTML document by using [IWorkbook](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) class reference
-4. Save the document to EXCEL format using [Save](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) method
+1. Open PPSM file using [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) class reference
+2. Convert PPSM to HTML by using [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba) method
+3. Load HTML document by using [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) class reference
+4. Save the document to EXCEL format using [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}

@@ -18,10 +18,10 @@ otherformats: OTP PPS PPSM PPTM POTX PPT POTM POWERPOINT POT PPSX
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C＃を介してJSON形式をPOWERPOINTに変換する" %}}
-1.新しい[Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)オブジェクトを作成し、ファイルから有効なJSONデータを読み取ります
-2. [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility)クラスと[Save](https://apireference.aspose.com/)を使用して、JSONファイルをワークシートにインポートします。 cells / net / aspose.cells.workbook / save / methods / 4)PPTXとして
-3. [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)クラスを使用してPPTXドキュメントをロードします
-4. [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)メソッドを使用してドキュメントをPOWERPOINT形式で保存します
+1.新しい[Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)オブジェクトを作成し、ファイルから有効なJSONデータを読み取ります
+2. [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility)クラスと[Save](https://reference.aspose.com/)を使用して、JSONファイルをワークシートにインポートします。 cells / net / aspose.cells.workbook / save / methods / 4)PPTXとして
+3. [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)クラスを使用してPPTXドキュメントをロードします
+4. [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)メソッドを使用してドキュメントをPOWERPOINT形式で保存します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
@@ -39,7 +39,7 @@ otherformats: OTP PPS PPSM PPTM POTX PPT POTM POWERPOINT POT PPSX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="レイアウトを設定し、C＃を介してJSON形式をPOWERPOINTに変換します" %}}
-JSONをPOWERPOINTに解析するときに、[JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions)を使用してJSON形式のレイアウトオプションを設定することもできます。これにより、配列をテーブルとして処理し、nullを無視し、配列のタイトルを無視し、オブジェクトのタイトルを無視し、文字列を数値または日付に変換し、日付と数値の形式を設定し、タイトルのスタイルを設定できます。これらのオプションはすべて、必要に応じてデータを表示できます。次のコードスニペットは、レイアウトオプションを設定する方法を示しています。  
+JSONをPOWERPOINTに解析するときに、[JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions)を使用してJSON形式のレイアウトオプションを設定することもできます。これにより、配列をテーブルとして処理し、nullを無視し、配列のタイトルを無視し、オブジェクトのタイトルを無視し、文字列を数値または日付に変換し、日付と数値の形式を設定し、タイトルのスタイルを設定できます。これらのオプションはすべて、必要に応じてデータを表示できます。次のコードスニペットは、レイアウトオプションを設定する方法を示しています。  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "set-layout-and-parse-json-to-powerpoint.cs" >}}
@@ -48,7 +48,7 @@ JSONをPOWERPOINTに解析するときに、[JsonLayoutOptions](https://apirefer
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="透かしを使用してJSON形式をPOWERPOINTに変換する" %}}
-APIを使用して、JSONを透かし付きのPOWERPOINTに変換することもできます。 POWERPOINTドキュメントに透かしを追加するには、最初にJSONをPPTXに解析し、それに透かしを追加します。透かしを追加するには、[Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)クラスを使用して新しく作成されたPPTXファイルをロードし、マスタープレゼンテーションを選択し、を使用して形状タイプを追加します。 AddAutoShapeを作成し、AddTextFrameを使用して透かしテキストを追加します。透かしを追加した後、ドキュメントをPOWERPOINTに保存できます。 
+APIを使用して、JSONを透かし付きのPOWERPOINTに変換することもできます。 POWERPOINTドキュメントに透かしを追加するには、最初にJSONをPPTXに解析し、それに透かしを追加します。透かしを追加するには、[Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)クラスを使用して新しく作成されたPPTXファイルをロードし、マスタープレゼンテーションを選択し、を使用して形状タイプを追加します。 AddAutoShapeを作成し、AddTextFrameを使用して透かしテキストを追加します。透かしを追加した後、ドキュメントをPOWERPOINTに保存できます。 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}

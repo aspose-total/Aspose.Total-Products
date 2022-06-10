@@ -17,10 +17,10 @@ otherformats: DOC PPTX POWERPOINT WORD
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title=".NET 上的 XLTM 到 DOCX 转换" %}}
-1. 使用 [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) 类打开 XLTM 文件
+1. 使用 [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 类打开 XLTM 文件
 2. 将XLTM转换为PDF并将SaveFormat设置为Auto
-3.使用[Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)类加载转换后的PDF文件
-4. 使用[Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)方法将文档保存为DOCX格式，并将DocX设置为SaveFormat
+3.使用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类加载转换后的PDF文件
+4. 使用[Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)方法将文档保存为DOCX格式，并将DocX设置为SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}

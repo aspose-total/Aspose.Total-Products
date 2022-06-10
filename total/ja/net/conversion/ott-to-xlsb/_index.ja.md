@@ -18,10 +18,10 @@ otherformats: XLT XLTX TSV XLAM XLTM FODS XLSM DIF XLSX EXCEL XLS XLSB ODS SXC
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="OTTをXLSBに変換する.NETAPI" %}}
-1. [Document](https://apireference.aspose.com/words/net/aspose.words/document)クラスを使用してOTTファイルを開きます
-2. [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してOTTをHTMLに変換します
-3. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
-4. [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをXLSB形式で保存し、「XLSB」をSaveFormatとして設定します
+1. [Document](https://reference.aspose.com/words/net/aspose.words/document)クラスを使用してOTTファイルを開きます
+2. [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してOTTをHTMLに変換します
+3. [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
+4. [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをXLSB形式で保存し、「XLSB」をSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
@@ -39,7 +39,7 @@ otherformats: XLT XLTX TSV XLAM XLTM FODS XLSM DIF XLSX EXCEL XLS XLSB ODS SXC
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="C＃経由でストリームからOTTドキュメントをロードする" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/)では、ストリームを介してOTTドキュメントをロードすることもできます。ストリームからドキュメントを開くには、ドキュメントを含むストリームオブジェクトを[Document](https://apireference.aspose.com/words/net/aspose.words/document)コンストラクターに渡すだけです。次のコード例は、ストリームからドキュメントを開く方法を示しています。  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/)では、ストリームを介してOTTドキュメントをロードすることもできます。ストリームからドキュメントを開くには、ドキュメントを含むストリームオブジェクトを[Document](https://reference.aspose.com/words/net/aspose.words/document)コンストラクターに渡すだけです。次のコード例は、ストリームからドキュメントを開く方法を示しています。  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ otherformats: XLT XLTX TSV XLAM XLTM FODS XLSM DIF XLSX EXCEL XLS XLSB ODS SXC
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="C＃を介してXLSBファイルにカスタムプロパティを追加する" %}}
-OTTをXLSBに変換する際、[Aspose.Cells for .NET](https://products.aspose.com/cells/net/)を使用すると、XLSBドキュメントにカスタムプロパティを追加できます。カスタムプロパティを追加するには、[CustomDocumentPropertyCollection](の[Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index)メソッドを使用できます。 https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection)クラス。 Addメソッドは、プロパティをExcelファイルに追加し、新しいドキュメントプロパティの参照を[Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties)として返します。 / documentproperty)オブジェクト。 
+OTTをXLSBに変換する際、[Aspose.Cells for .NET](https://products.aspose.com/cells/net/)を使用すると、XLSBドキュメントにカスタムプロパティを追加できます。カスタムプロパティを追加するには、[CustomDocumentPropertyCollection](の[Add](https://reference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index)メソッドを使用できます。 https://reference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection)クラス。 Addメソッドは、プロパティをExcelファイルに追加し、新しいドキュメントプロパティの参照を[Aspose.Cells.Properties.DocumentProperty](https://reference.aspose.com/cells/net/aspose.cells.properties)として返します。 / documentproperty)オブジェクト。 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

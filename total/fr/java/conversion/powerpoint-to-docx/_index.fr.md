@@ -16,10 +16,10 @@ otherformats: WORD DOCX ODT WORDML DOT DOCXM DOTX DOTM FLATOPC RTF TEXT OTT
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Comment convertir POWERPOINT en DOCX via Java" %}}
-1. Ouvrez le fichier POWERPOINT à l'aide de la classe [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Convertissez POWERPOINT en HTML en utilisant [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. Méthode ISaveOptions-) et définissez Html comme SaveFormat
-3. Chargez le fichier HTML converti à l'aide de la classe [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Enregistrez le document au format DOCX à l'aide de la méthode [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
+1. Ouvrez le fichier POWERPOINT à l'aide de la classe [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. Convertissez POWERPOINT en HTML en utilisant [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides. Méthode ISaveOptions-) et définissez Html comme SaveFormat
+3. Chargez le fichier HTML converti à l'aide de la classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. Enregistrez le document au format DOCX à l'aide de la méthode [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
 Pour la conversion de fichiers POWERPOINT en DOCX, vous pouvez facilement utiliser Aspose.Total pour Java directement à partir d'un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et incluez des bibliothèques dans votre fichier pom.xml.
@@ -34,7 +34,7 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://d
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Exigences de conversion" %}}[Document]
-À l'aide de l'API, vous pouvez également effectuer une conversion de fichier POWERPOINT en DOCX avec filigrane. Afin d'ajouter un filigrane à votre document DOCX, vous pouvez d'abord convertir le fichier POWERPOINT en HTML et y ajouter un filigrane. Pour ajouter un filigrane, chargez le fichier HTML nouvellement créé à l'aide de la classe [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document), créez une instance de TextWatermarkOptions et définissez ses propriétés, appelez la méthode Watermark.setText et transmettez le texte et l'objet du filigrane de TextWatermarkOptions.  
+À l'aide de l'API, vous pouvez également effectuer une conversion de fichier POWERPOINT en DOCX avec filigrane. Afin d'ajouter un filigrane à votre document DOCX, vous pouvez d'abord convertir le fichier POWERPOINT en HTML et y ajouter un filigrane. Pour ajouter un filigrane, chargez le fichier HTML nouvellement créé à l'aide de la classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document), créez une instance de TextWatermarkOptions et définissez ses propriétés, appelez la méthode Watermark.setText et transmettez le texte et l'objet du filigrane de TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}

@@ -18,10 +18,10 @@ otherformats: XLAM XLTX XLSX XLT DIF XLSM XLSB XLS ODS SXC FODS TSV XLTM MHTML M
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="POT'u C# ile SXC'ye Dönüştürme" %}}
-1. [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) sınıfını kullanarak POT dosyasını açın
-2. [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) yöntemini kullanarak POT'u HTML olarak dışa aktarın
-3. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) sınıfını kullanarak HTML belgesini yükleyin
-4. [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) yöntemini kullanarak belgeyi SXC'ye kaydedin
+1. [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) sınıfını kullanarak POT dosyasını açın
+2. [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) yöntemini kullanarak POT'u HTML olarak dışa aktarın
+3. [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) sınıfını kullanarak HTML belgesini yükleyin
+4. [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) yöntemini kullanarak belgeyi SXC'ye kaydedin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Dönüşüm Gereksinimleri" %}}

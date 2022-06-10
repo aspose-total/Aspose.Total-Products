@@ -16,11 +16,11 @@ otherformats: POTM PPSX PPTX POTX PPTM POWERPOINT POT PPSM PPT PPS CSV DIF FODS 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل DOTM إلى PPS عبر Java" %}}
-1. افتح ملف DOTM باستخدام فئة [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-2. تحويل ملف DOTM إلى HTML باستخدام [Save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String.com.aspose.words.SaveOptions)) طريقة
-3. [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) جديد تهيئة كائن
+1. افتح ملف DOTM باستخدام فئة [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. تحويل ملف DOTM إلى HTML باستخدام [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String.com.aspose.words.SaveOptions)) طريقة
+3. [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) جديد تهيئة كائن
 5. استخراج المحتوى من ملف HTML باستخدام BufferedReader وكتابة المحتوى في ملف العرض التقديمي الخاص بك
-6. احفظ المستند في PPS باستخدام طريقة [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. احفظ المستند في PPS باستخدام طريقة [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
 لتحويل ملف DOTM إلى PPS ، يمكنك بسهولة استخدام Aspose.Total لـ Java مباشرة من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) القائم على المشروع وتضمين المكتبات في ملفك pom.xml.

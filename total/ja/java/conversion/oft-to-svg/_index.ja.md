@@ -16,10 +16,10 @@ otherformats: DOT WORDML JPEG DOTX EMF TIFF MD DOCM PNG ODT DOCX TEXT OTT GIF DO
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="メールをSVGに変換する方法" %}}
-1. [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)クラスを使用してOFTファイルを開きます
-2. [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)を使用してOFTをHTMLに変換します)) 方法
-3. [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)クラスを使用してHTMLをロードします
-4. [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)を使用してドキュメントをSVG形式で保存します))メソッドとSVGをSaveFormatとして設定します
+1. [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage)クラスを使用してOFTファイルを開きます
+2. [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)を使用してOFTをHTMLに変換します)) 方法
+3. [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)クラスを使用してHTMLをロードします
+4. [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)を使用してドキュメントをSVG形式で保存します))メソッドとSVGをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)ベースのプロジェクトから直接Aspose.TotalforJavaを使用する必要がありますそして、pom.xmlにライブラリを含めます。

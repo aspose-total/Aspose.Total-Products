@@ -18,10 +18,10 @@ otherformats: ODS XLTM XLAM FODS DIF XLS XLSM TSV XLTX EXCEL XLSB SXC CSV XLT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="सी # के माध्यम से डीओसी को जेएसओएन प्रारूप में कनवर्ट करें" %}}
-1. [Document](https://apireference.aspose.com/words/net/aspose.words/document वर्ग का उपयोग करके DOCM फ़ाइल खोलें
-2. [Save](https://apireference.aspose.com/words/net/aspose.words.documentsave/methods/4) विधि का उपयोग करके DOCM को HTML में बदलें
-3. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) क्लास का इस्तेमाल करके एचटीएमएल दस्तावेज़ लोड करें
-4. [MailMessage.Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) विधि का उपयोग करके दस्तावेज़ को JSON प्रारूप में सहेजें
+1. [Document](https://reference.aspose.com/words/net/aspose.words/document वर्ग का उपयोग करके DOCM फ़ाइल खोलें
+2. [Save](https://reference.aspose.com/words/net/aspose.words.documentsave/methods/4) विधि का उपयोग करके DOCM को HTML में बदलें
+3. [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) क्लास का इस्तेमाल करके एचटीएमएल दस्तावेज़ लोड करें
+4. [MailMessage.Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) विधि का उपयोग करके दस्तावेज़ को JSON प्रारूप में सहेजें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}

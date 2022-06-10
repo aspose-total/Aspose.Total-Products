@@ -18,10 +18,10 @@ otherformats: DICOM IMAGE SVGZ TGA WMZ WMF PSD EMZ DXF JPEG2000
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="JSON Formatını C# ile DICOM'ye Dönüştür" %}}
-1. Yeni bir [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) nesnesi oluşturun ve dosyadan JSON verilerini okuyun
-2. [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) yöntemini kullanarak JSON'u JPEG'e dönüştürün
-3. [Image](https://apireference.aspose.com/imaging/net/aspose.imaging/image) sınıfını kullanarak JPEG belgesi yükleyin
-4. [Save](https://apireference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) yöntemini kullanarak belgeyi DICOM formatına kaydedin
+1. Yeni bir [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) nesnesi oluşturun ve dosyadan JSON verilerini okuyun
+2. [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) yöntemini kullanarak JSON'u JPEG'e dönüştürün
+3. [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) sınıfını kullanarak JPEG belgesi yükleyin
+4. [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) yöntemini kullanarak belgeyi DICOM formatına kaydedin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Dönüşüm Gereksinimleri" %}}
@@ -39,7 +39,7 @@ Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [indirilenler
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Düzeni Ayarla ve JSON Formatını C# ile DICOM'ye Dönüştür" %}}
-JSON'u DICOM'ye ayrıştırırken, [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions) kullanarak JSON'unuz için düzen seçeneklerini de ayarlayabilirsiniz. Diziyi bir tablo olarak işlemenize, boş değerleri yoksaymanıza, dizi başlığını yoksaymanıza, nesne başlığını yoksaymanıza, dizeyi sayıya veya tarihe dönüştürmenize, tarih ve sayı biçimini ayarlamanıza ve başlık stilini ayarlamanıza olanak tanır. Tüm bu seçenekler, verilerinizi ihtiyaçlarınıza göre sunmanıza olanak tanır. Aşağıdaki kod parçacığı, düzen seçeneklerini nasıl ayarlayacağınızı gösterir.  
+JSON'u DICOM'ye ayrıştırırken, [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions) kullanarak JSON'unuz için düzen seçeneklerini de ayarlayabilirsiniz. Diziyi bir tablo olarak işlemenize, boş değerleri yoksaymanıza, dizi başlığını yoksaymanıza, nesne başlığını yoksaymanıza, dizeyi sayıya veya tarihe dönüştürmenize, tarih ve sayı biçimini ayarlamanıza ve başlık stilini ayarlamanıza olanak tanır. Tüm bu seçenekler, verilerinizi ihtiyaçlarınıza göre sunmanıza olanak tanır. Aşağıdaki kod parçacığı, düzen seçeneklerini nasıl ayarlayacağınızı gösterir.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "set-layout-and-parse-json-to-image.cs" >}}
@@ -48,7 +48,7 @@ JSON'u DICOM'ye ayrıştırırken, [JsonLayoutOptions](https://apireference.aspo
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Filigran ile JSON Formatını DICOM'ye Ayrıştırma" %}}
-API'yi kullanarak, DICOM belgenizdeki filigranlı JSON'u DICOM'ye de dönüştürebilirsiniz. Filigran eklemek için önce JSON belgenizi JPEG'e dönüştürebilir ve içine bir filigran ekleyebilirsiniz. İşlemi göstermek için dönüştürülmüş JPEG görüntünüzü yükleyebilir, Matrix sınıfının bir nesnesini kullanarak dönüşümler ekleyebilir ve [Grafikler](https://apireference.aspose.com/imaging/) kullanarak görüntü yüzeyine filigran olarak bir dize çizebilirsiniz. net/aspose.imaging/graphics) class' [DrawString](https://apireference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring) yöntemi. Filigranı ekledikten sonra JPEG'i DICOM formatında kaydedebilirsiniz. Aşağıda, belgenize nasıl çapraz filigran ekleneceğini gösteren bir kod örneği verilmiştir. 
+API'yi kullanarak, DICOM belgenizdeki filigranlı JSON'u DICOM'ye de dönüştürebilirsiniz. Filigran eklemek için önce JSON belgenizi JPEG'e dönüştürebilir ve içine bir filigran ekleyebilirsiniz. İşlemi göstermek için dönüştürülmüş JPEG görüntünüzü yükleyebilir, Matrix sınıfının bir nesnesini kullanarak dönüşümler ekleyebilir ve [Grafikler](https://reference.aspose.com/imaging/) kullanarak görüntü yüzeyine filigran olarak bir dize çizebilirsiniz. net/aspose.imaging/graphics) class' [DrawString](https://reference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring) yöntemi. Filigranı ekledikten sonra JPEG'i DICOM formatında kaydedebilirsiniz. Aşağıda, belgenize nasıl çapraz filigran ekleneceğini gösteren bir kod örneği verilmiştir. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e13709e61f0cef7c2df582ae7b9beee9" "convert-json-to-image-with-watermark.cs" >}}

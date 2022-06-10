@@ -16,10 +16,10 @@ U kunt PDF naar OTT converteren met behulp van twee eenvoudige stappen. Eerst mo
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java API om PDF naar OTT te converteren" %}}
-1. Open het PDF-bestand met de klasse [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)
-2. Converteer PDF naar DOC met behulp van [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) methode:
-3. Laad het DOC-bestand met behulp van de [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) klasse van Aspose.Words
-4. Sla het document op in OTT-formaat met behulp van [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) methode en stel OTT in als OpslaanFormaat
+1. Open het PDF-bestand met de klasse [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. Converteer PDF naar DOC met behulp van [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) methode:
+3. Laad het DOC-bestand met behulp van de [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) klasse van Aspose.Words
+4. Sla het document op in OTT-formaat met behulp van [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) methode en stel OTT in als OpslaanFormaat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
 U kunt Aspose.Total voor Java gemakkelijk rechtstreeks vanuit een op [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) gebaseerd project gebruiken en bevatten [Aspose.PDF voor Java](https://docs.aspose.com/pdf/java/installation/) en [Aspose.Words voor Java](https://docs.aspose.com/words/java/installation/) in uw po.xml.
@@ -42,7 +42,7 @@ outputDocument.save("output.ott", SaveFormat.OTT);
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Conversievereisten" %}}
-Tijdens het converteren van PDF naar OTT kunt u, zelfs als uw document met een wachtwoord is beveiligd, het nog steeds openen met de PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). Om het versleutelde bestand te openen, moet u een [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)-object maken en de PDF openen met het wachtwoord van de eigenaar.  
+Tijdens het converteren van PDF naar OTT kunt u, zelfs als uw document met een wachtwoord is beveiligd, het nog steeds openen met de PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). Om het versleutelde bestand te openen, moet u een [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)-object maken en de PDF openen met het wachtwoord van de eigenaar.  
 {{% blocks/products/pf/feature-page-code %}}
 ```cs
 // open encrypted document

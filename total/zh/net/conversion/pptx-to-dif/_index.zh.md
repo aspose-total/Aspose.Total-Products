@@ -18,10 +18,10 @@ otherformats: TSV XLT XLSX MARKDOWN XLAM MHTML ODS XLSB XLTM XLS XLSM SXC FODS E
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="如何通过 C# 将 PPTX 转换为 DIF" %}}
-1. 使用 [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) 类打开 PPTX 文件
-2. 使用 [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) 方法将 PPTX 导出为 HTML
-3. 使用 [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) 类加载 HTML 文档
-4. 使用 [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 方法将文档保存为 DIF
+1. 使用 [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) 类打开 PPTX 文件
+2. 使用 [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) 方法将 PPTX 导出为 HTML
+3. 使用 [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 类加载 HTML 文档
+4. 使用 [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 方法将文档保存为 DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}

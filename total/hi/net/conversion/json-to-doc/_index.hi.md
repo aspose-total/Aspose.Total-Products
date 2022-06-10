@@ -18,10 +18,10 @@ otherformats: DOCM RTF EPUB PCL WORD DOT DOC MOBI PS DOTX ODT WORDML FLATOPC OTT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="जेएसओएन प्रारूप को सी # के माध्यम से सीएचएम में कनवर्ट करें" %}}
-1. एक नया [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) ऑब्जेक्ट बनाएं और फ़ाइल से मान्य JSON डेटा पढ़ें
-2. [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) वर्ग और [Save](https://apireference.aspose.com/) का उपयोग करके कार्यपत्रक में JSON फ़ाइल आयात करें cells/net/aspose.cells.workbook/save/methods/4) इसे PDF के रूप में
-3. [Document](https://apireference.aspose.com/words/net/aspose.words/document) वर्ग का उपयोग करके पीडीएफ दस्तावेज़ लोड करें
-4. [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3) विधि का उपयोग करके दस्तावेज़ को DOC प्रारूप में सहेजें
+1. एक नया [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) ऑब्जेक्ट बनाएं और फ़ाइल से मान्य JSON डेटा पढ़ें
+2. [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) वर्ग और [Save](https://reference.aspose.com/) का उपयोग करके कार्यपत्रक में JSON फ़ाइल आयात करें cells/net/aspose.cells.workbook/save/methods/4) इसे PDF के रूप में
+3. [Document](https://reference.aspose.com/words/net/aspose.words/document) वर्ग का उपयोग करके पीडीएफ दस्तावेज़ लोड करें
+4. [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/3) विधि का उपयोग करके दस्तावेज़ को DOC प्रारूप में सहेजें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
@@ -39,7 +39,7 @@ otherformats: DOCM RTF EPUB PCL WORD DOT DOC MOBI PS DOTX ODT WORDML FLATOPC OTT
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="लेआउट सेट करें और JSON प्रारूप को C# के माध्यम से DOC में बदलें" %}}
-JSON को DOC में पार्स करते समय, आप [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions) का उपयोग करके अपने JSON के लिए लेआउट विकल्प भी सेट कर सकते हैं। यह आपको सरणी को तालिका के रूप में संसाधित करने, नल को अनदेखा करने, सरणी शीर्षक को अनदेखा करने, ऑब्जेक्ट शीर्षक को अनदेखा करने, स्ट्रिंग को संख्या या दिनांक में कनवर्ट करने, दिनांक और संख्या प्रारूप सेट करने और शीर्षक शैली सेट करने की अनुमति देता है। ये सभी विकल्प आपको अपनी आवश्यकताओं के अनुसार अपना डेटा प्रस्तुत करने की अनुमति देते हैं। निम्न कोड स्निपेट आपको दिखाता है कि लेआउट विकल्प कैसे सेट करें।  
+JSON को DOC में पार्स करते समय, आप [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions) का उपयोग करके अपने JSON के लिए लेआउट विकल्प भी सेट कर सकते हैं। यह आपको सरणी को तालिका के रूप में संसाधित करने, नल को अनदेखा करने, सरणी शीर्षक को अनदेखा करने, ऑब्जेक्ट शीर्षक को अनदेखा करने, स्ट्रिंग को संख्या या दिनांक में कनवर्ट करने, दिनांक और संख्या प्रारूप सेट करने और शीर्षक शैली सेट करने की अनुमति देता है। ये सभी विकल्प आपको अपनी आवश्यकताओं के अनुसार अपना डेटा प्रस्तुत करने की अनुमति देते हैं। निम्न कोड स्निपेट आपको दिखाता है कि लेआउट विकल्प कैसे सेट करें।  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "set-layout-and-parse-json-to-doc.cs" >}}
@@ -48,7 +48,7 @@ JSON को DOC में पार्स करते समय, आप [JsonLa
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="पार्स JSON प्रारूप वॉटरमार्क के साथ सीएचएम करने के लिए" %}}
-एपीआई का उपयोग करके, आप JSON को वॉटरमार्क के साथ DOC में भी बदल सकते हैं। अपने DOC दस्तावेज़ में वॉटरमार्क जोड़ने के लिए, आप पहले JSON फ़ाइल को PDF में पार्स कर सकते हैं और उसमें वॉटरमार्क जोड़ सकते हैं। वॉटरमार्क जोड़ने के लिए, [Document](https://apireference.aspose.com/words/net/aspose.words/document) वर्ग का उपयोग करके नई बनाई गई पीडीएफ फाइल को लोड करें, TextWatermarkOptions का एक उदाहरण बनाएं और इसके गुण सेट करें , वॉटरमार्क पर कॉल करें। सेटटेक्स्ट विधि और वॉटरमार्क टेक्स्ट और टेक्स्टवाटरमार्कऑप्शन का ऑब्जेक्ट पास करें। वॉटरमार्क जोड़ने के बाद, आप दस्तावेज़ को सीएचएम में सहेज सकते हैं। 
+एपीआई का उपयोग करके, आप JSON को वॉटरमार्क के साथ DOC में भी बदल सकते हैं। अपने DOC दस्तावेज़ में वॉटरमार्क जोड़ने के लिए, आप पहले JSON फ़ाइल को PDF में पार्स कर सकते हैं और उसमें वॉटरमार्क जोड़ सकते हैं। वॉटरमार्क जोड़ने के लिए, [Document](https://reference.aspose.com/words/net/aspose.words/document) वर्ग का उपयोग करके नई बनाई गई पीडीएफ फाइल को लोड करें, TextWatermarkOptions का एक उदाहरण बनाएं और इसके गुण सेट करें , वॉटरमार्क पर कॉल करें। सेटटेक्स्ट विधि और वॉटरमार्क टेक्स्ट और टेक्स्टवाटरमार्कऑप्शन का ऑब्जेक्ट पास करें। वॉटरमार्क जोड़ने के बाद, आप दस्तावेज़ को सीएचएम में सहेज सकते हैं। 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}

@@ -18,10 +18,10 @@ Door [Aspose.Total for .NET](https://products.aspose.com/total/net/) te gebruike
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converteer JSON-formaat naar MOBI via C#" %}}
-1. Maak een nieuw [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) object en lees geldige JSON-gegevens uit het bestand
-2. Importeer het JSON-bestand naar het werkblad met de klasse [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) en [Save](https://apireference.aspose.com/ cellen/net/aspose.cells.workbook/save/methods/4) het als PDF
-3. Laad het PDF-document met behulp van de [Document](https://apireference.aspose.com/words/net/aspose.words/document) class
-4. Sla het document op in MOBI-formaat met de methode [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)
+1. Maak een nieuw [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) object en lees geldige JSON-gegevens uit het bestand
+2. Importeer het JSON-bestand naar het werkblad met de klasse [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) en [Save](https://reference.aspose.com/ cellen/net/aspose.cells.workbook/save/methods/4) het als PDF
+3. Laad het PDF-document met behulp van de [Document](https://reference.aspose.com/words/net/aspose.words/document) class
+4. Sla het document op in MOBI-formaat met de methode [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/3)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
@@ -39,7 +39,7 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 {{< /blocks/products/pf/agp/feature-section >}}
 C#
 {{% blocks/products/pf/feature-page-section  h2="Stel lay-out in en converteer JSON-indeling naar MOBI via C#" %}}
-Tijdens het ontleden van JSON naar MOBI, kunt u ook lay-outopties voor uw JSON instellen met [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Het stelt je in staat om Array als een tabel te verwerken, nulls te negeren, arraytitel te negeren, objecttitel te negeren, string naar getal of datum te converteren, datum- en getalnotatie in te stellen en titelstijl in te stellen. Met al deze opties kunt u uw gegevens presenteren volgens uw behoeften. Het volgende codefragment laat zien hoe u de lay-outopties instelt.  
+Tijdens het ontleden van JSON naar MOBI, kunt u ook lay-outopties voor uw JSON instellen met [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Het stelt je in staat om Array als een tabel te verwerken, nulls te negeren, arraytitel te negeren, objecttitel te negeren, string naar getal of datum te converteren, datum- en getalnotatie in te stellen en titelstijl in te stellen. Met al deze opties kunt u uw gegevens presenteren volgens uw behoeften. Het volgende codefragment laat zien hoe u de lay-outopties instelt.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "set-layout-and-parse-json-to-doc.cs" >}}
@@ -48,7 +48,7 @@ Tijdens het ontleden van JSON naar MOBI, kunt u ook lay-outopties voor uw JSON i
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="JSON-indeling ontleden naar MOBI met watermerk" %}}
-Met behulp van de API kunt u JSON ook converteren naar MOBI met watermerk. Om een watermerk aan uw MOBI-document toe te voegen, kunt u eerst het JSON-bestand naar PDF ontleden en er een watermerk aan toevoegen. Om een watermerk toe te voegen, laadt u het nieuw gemaakte PDF-bestand met behulp van de klasse [Document](https://apireference.aspose.com/words/net/aspose.words/document), maakt u een instantie van TextWatermarkOptions en stelt u de eigenschappen ervan in , Roep de Watermark.SetText-methode aan en geef de watermerktekst en het object van TextWatermarkOptions door. Nadat u het watermerk hebt toegevoegd, kunt u het document opslaan in MOBI. 
+Met behulp van de API kunt u JSON ook converteren naar MOBI met watermerk. Om een watermerk aan uw MOBI-document toe te voegen, kunt u eerst het JSON-bestand naar PDF ontleden en er een watermerk aan toevoegen. Om een watermerk toe te voegen, laadt u het nieuw gemaakte PDF-bestand met behulp van de klasse [Document](https://reference.aspose.com/words/net/aspose.words/document), maakt u een instantie van TextWatermarkOptions en stelt u de eigenschappen ervan in , Roep de Watermark.SetText-methode aan en geef de watermerktekst en het object van TextWatermarkOptions door. Nadat u het watermerk hebt toegevoegd, kunt u het document opslaan in MOBI. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}

@@ -16,10 +16,10 @@ otherformats: DOT ODT DOCX RTF DOTX DOCM TEXT FLATOPC WORD DOTM OTT WORDML
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir PPT a DOC a través de Java" %}}
-1. Abra el archivo PPT usando la clase [Presentación](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Convierta PPT a HTML usando [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) y establezca Html como SaveFormat
-3. Cargue el archivo HTML convertido usando la clase [Documento](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Guarde el documento en formato DOC usando el método [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
+1. Abra el archivo PPT usando la clase [Presentación](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. Convierta PPT a HTML usando [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) y establezca Html como SaveFormat
+3. Cargue el archivo HTML convertido usando la clase [Documento](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. Guarde el documento en formato DOC usando el método [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
 Para la conversión de archivos PPT a DOC, puede usar fácilmente Aspose.Total para Java directamente desde un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e incluya bibliotecas en su pom.xml.
@@ -34,7 +34,7 @@ Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisitos de conversión" %}}
-Usando la API, también puede realizar una conversión de archivo PPT a DOC con marca de agua. Para agregar una marca de agua a su documento DOC, primero puede convertir el archivo PPT a HTML y agregarle una marca de agua. Para agregar una marca de agua, cargue el archivo HTML recién creado usando la clase [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document), cree una instancia de TextWatermarkOptions y configure sus propiedades, llame al método Watermark.setText y pase el texto y el objeto de la marca de agua de TextWatermarkOptions.  
+Usando la API, también puede realizar una conversión de archivo PPT a DOC con marca de agua. Para agregar una marca de agua a su documento DOC, primero puede convertir el archivo PPT a HTML y agregarle una marca de agua. Para agregar una marca de agua, cargue el archivo HTML recién creado usando la clase [Document](https://reference.aspose.com/words/java/com.aspose.words/Document), cree una instancia de TextWatermarkOptions y configure sus propiedades, llame al método Watermark.setText y pase el texto y el objeto de la marca de agua de TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-protected-powerpoint-to-word.java" >}}

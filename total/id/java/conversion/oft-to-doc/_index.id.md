@@ -16,10 +16,10 @@ Konversi oft adalah fitur canggih yang dapat diintegrasikan oleh pengembang Java
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cara Mengonversi OFT ke DOC" %}}
-1. Buka file OFT menggunakan kelas [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/mailmessage)
-2. Konversi OFT ke HTML dengan menggunakan [save](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) metode
-3. Muat HTML dengan menggunakan kelas [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document)
-4. Simpan dokumen ke format DOC menggunakan [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metode dan atur DOC sebagai SaveFormat
+1. Buka file OFT menggunakan kelas [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Konversi OFT ke HTML dengan menggunakan [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) metode
+3. Muat HTML dengan menggunakan kelas [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. Simpan dokumen ke format DOC menggunakan [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metode dan atur DOC sebagai SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
 Anda harus menggunakan Aspose.Total untuk Java langsung dari proyek berbasis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) dan sertakan perpustakaan di pom.xml Anda.

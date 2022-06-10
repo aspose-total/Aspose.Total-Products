@@ -18,10 +18,10 @@ Dengan menggunakan [Aspose.Total for .NET](https://products.aspose.com/total/net
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konversikan Format JSON ke PS melalui C#" %}}
-1. Buat objek [Buku Kerja](https://apireference.aspose.com/cells/net/aspose.cells/workbook) baru dan baca data JSON yang valid dari file
-2. Impor file JSON ke lembar kerja menggunakan kelas [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) dan [Simpan](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) sebagai PDF
-3. Muat dokumen PDF dengan menggunakan kelas [Document](https://apireference.aspose.com/words/net/aspose.words/document)
-4. Simpan dokumen ke format PS menggunakan metode [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)
+1. Buat objek [Buku Kerja](https://reference.aspose.com/cells/net/aspose.cells/workbook) baru dan baca data JSON yang valid dari file
+2. Impor file JSON ke lembar kerja menggunakan kelas [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) dan [Simpan](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) sebagai PDF
+3. Muat dokumen PDF dengan menggunakan kelas [Document](https://reference.aspose.com/words/net/aspose.words/document)
+4. Simpan dokumen ke format PS menggunakan metode [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/3)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
@@ -39,7 +39,7 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Setel Tata Letak dan Konversi Format JSON ke PS melalui C#" %}}
-Saat menguraikan JSON ke PS, Anda juga dapat menyetel opsi tata letak untuk JSON menggunakan [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Ini memungkinkan Anda untuk memproses Array sebagai tabel, mengabaikan nol, mengabaikan judul array, mengabaikan judul objek, mengonversi string menjadi angka atau tanggal, mengatur format tanggal dan angka, dan mengatur gaya judul. Semua opsi ini memungkinkan Anda untuk menyajikan data sesuai kebutuhan Anda. Cuplikan kode berikut menunjukkan cara menyetel opsi tata letak.  
+Saat menguraikan JSON ke PS, Anda juga dapat menyetel opsi tata letak untuk JSON menggunakan [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Ini memungkinkan Anda untuk memproses Array sebagai tabel, mengabaikan nol, mengabaikan judul array, mengabaikan judul objek, mengonversi string menjadi angka atau tanggal, mengatur format tanggal dan angka, dan mengatur gaya judul. Semua opsi ini memungkinkan Anda untuk menyajikan data sesuai kebutuhan Anda. Cuplikan kode berikut menunjukkan cara menyetel opsi tata letak.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "set-layout-and-parse-json-to-doc.cs" >}}
@@ -48,7 +48,7 @@ Saat menguraikan JSON ke PS, Anda juga dapat menyetel opsi tata letak untuk JSON
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Parsing Format JSON ke PS dengan Watermark" %}}
-Menggunakan API, Anda juga dapat mengonversi JSON ke PS dengan tanda air. Untuk menambahkan tanda air ke dokumen PS Anda, pertama-tama Anda dapat mengurai file JSON ke PDF dan menambahkan tanda air ke dalamnya. Untuk menambahkan tanda air, muat file PDF yang baru dibuat menggunakan kelas [Document](https://apireference.aspose.com/words/net/aspose.words/document), buat instance TextWatermarkOptions dan atur propertinya , Panggil metode Watermark.SetText dan berikan teks watermark & objek TextWatermarkOptions. Setelah menambahkan tanda air, Anda dapat menyimpan dokumen ke PS. 
+Menggunakan API, Anda juga dapat mengonversi JSON ke PS dengan tanda air. Untuk menambahkan tanda air ke dokumen PS Anda, pertama-tama Anda dapat mengurai file JSON ke PDF dan menambahkan tanda air ke dalamnya. Untuk menambahkan tanda air, muat file PDF yang baru dibuat menggunakan kelas [Document](https://reference.aspose.com/words/net/aspose.words/document), buat instance TextWatermarkOptions dan atur propertinya , Panggil metode Watermark.SetText dan berikan teks watermark & objek TextWatermarkOptions. Setelah menambahkan tanda air, Anda dapat menyimpan dokumen ke PS. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}

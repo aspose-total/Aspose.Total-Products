@@ -16,10 +16,10 @@ Sie können TEX in zwei einfachen Schritten in MARKDOWN konvertieren. Zuerst mü
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java-API zum Konvertieren von TEX in MARKDOWN" %}}
-1. Öffnen Sie die TEX-Datei mit der Klasse [Document](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document).
-2. Konvertieren Sie TEX in DOC mit [save](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) Methode
-3. Laden Sie die DOC-Datei mithilfe der Klasse [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) von Aspose.Words
-4. Speichern Sie das Dokument mit der Methode [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) im MARKDOWN-Format und legen Sie MARKDOWN fest als SaveFormat
+1. Öffnen Sie die TEX-Datei mit der Klasse [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document).
+2. Konvertieren Sie TEX in DOC mit [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) Methode
+3. Laden Sie die DOC-Datei mithilfe der Klasse [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) von Aspose.Words
+4. Speichern Sie das Dokument mit der Methode [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) im MARKDOWN-Format und legen Sie MARKDOWN fest als SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
 Sie können Aspose.Total für Java direkt aus einem auf [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) basierenden Projekt verwenden und enthalten [Aspose.PDF für Java](https://docs.aspose.com/pdf/java/installation/) und [Aspose.Words für Java](https://docs.aspose.com/words/java/installation/) in Ihrer pom.xml.
@@ -42,7 +42,7 @@ outputDocument.save("output.markdown", SaveFormat.MARKDOWN);
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Konvertierungsanforderungen" %}}
-Auch wenn Ihr Dokument passwortgeschützt ist, können Sie es während der Konvertierung von TEX in MARKDOWN immer noch mit der PDF-Manipulations-API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) öffnen. Um die verschlüsselte Datei zu öffnen, müssen Sie ein [Dokument](https://apireference.aspose.com/pdf/java/com.aspose.pdf/Document)-Objekt erstellen und das TEX mit dem Passwort des Besitzers öffnen.  
+Auch wenn Ihr Dokument passwortgeschützt ist, können Sie es während der Konvertierung von TEX in MARKDOWN immer noch mit der PDF-Manipulations-API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) öffnen. Um die verschlüsselte Datei zu öffnen, müssen Sie ein [Dokument](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)-Objekt erstellen und das TEX mit dem Passwort des Besitzers öffnen.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

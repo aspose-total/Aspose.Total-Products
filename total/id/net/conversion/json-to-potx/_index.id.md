@@ -18,10 +18,10 @@ Anda dapat mengonversi JSON ke POTX dalam aplikasi .NET, C#, ASP.NET, dan VB.NET
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konversi Format JSON ke POTX melalui C#" %}}
-1. Buat objek [Buku Kerja](https://apireference.aspose.com/cells/net/aspose.cells/workbook) baru dan baca data JSON yang valid dari file
-2. Impor file JSON ke lembar kerja menggunakan kelas [JsonUtility](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility) dan [Simpan](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) sebagai PPTX
-3. Muat dokumen PPTX dengan menggunakan kelas [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-4. Simpan dokumen ke format POTX menggunakan metode [Save](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+1. Buat objek [Buku Kerja](https://reference.aspose.com/cells/net/aspose.cells/workbook) baru dan baca data JSON yang valid dari file
+2. Impor file JSON ke lembar kerja menggunakan kelas [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) dan [Simpan](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) sebagai PPTX
+3. Muat dokumen PPTX dengan menggunakan kelas [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+4. Simpan dokumen ke format POTX menggunakan metode [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
@@ -39,7 +39,7 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 {{< /blocks/products/pf/agp/feature-section >}}
 C#
 {{% blocks/products/pf/feature-page-section  h2="Atur Tata Letak dan Konversi Format JSON ke POTX melalui C#" %}}
-Saat menguraikan JSON ke POTX, Anda juga dapat menyetel opsi tata letak untuk format JSON menggunakan [JsonLayoutOptions](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Ini memungkinkan Anda untuk memproses array sebagai tabel, mengabaikan nol, mengabaikan judul array, mengabaikan judul objek, mengonversi string menjadi angka atau tanggal, mengatur format tanggal dan angka, dan mengatur gaya judul. Semua opsi ini memungkinkan Anda untuk menyajikan data sesuai kebutuhan Anda. Cuplikan kode berikut menunjukkan cara menyetel opsi tata letak.  
+Saat menguraikan JSON ke POTX, Anda juga dapat menyetel opsi tata letak untuk format JSON menggunakan [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Ini memungkinkan Anda untuk memproses array sebagai tabel, mengabaikan nol, mengabaikan judul array, mengabaikan judul objek, mengonversi string menjadi angka atau tanggal, mengatur format tanggal dan angka, dan mengatur gaya judul. Semua opsi ini memungkinkan Anda untuk menyajikan data sesuai kebutuhan Anda. Cuplikan kode berikut menunjukkan cara menyetel opsi tata letak.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "set-layout-and-parse-json-to-powerpoint.cs" >}}
@@ -48,7 +48,7 @@ Saat menguraikan JSON ke POTX, Anda juga dapat menyetel opsi tata letak untuk fo
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ubah Format JSON ke POTX dengan Tanda Air" %}}
-Menggunakan API, Anda juga dapat mengonversi JSON ke POTX dengan tanda air. Untuk menambahkan tanda air ke dokumen POTX Anda, pertama-tama Anda dapat mengurai JSON ke PPTX dan menambahkan tanda air ke dalamnya. Untuk menambahkan tanda air, muat file PPTX yang baru dibuat menggunakan kelas [Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation), pilih presentasi master, tambahkan jenis bentuk menggunakan AddAutoShape, dan tambahkan teks watermark menggunakan AddTextFrame. Setelah menambahkan tanda air, Anda dapat menyimpan dokumen ke POTX. 
+Menggunakan API, Anda juga dapat mengonversi JSON ke POTX dengan tanda air. Untuk menambahkan tanda air ke dokumen POTX Anda, pertama-tama Anda dapat mengurai JSON ke PPTX dan menambahkan tanda air ke dalamnya. Untuk menambahkan tanda air, muat file PPTX yang baru dibuat menggunakan kelas [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation), pilih presentasi master, tambahkan jenis bentuk menggunakan AddAutoShape, dan tambahkan teks watermark menggunakan AddTextFrame. Setelah menambahkan tanda air, Anda dapat menyimpan dokumen ke POTX. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d2acf3c76ac41a26ab99bf5a5bbff5c7" "parse-json-to-powerpoint-with-watermark.cs" >}}

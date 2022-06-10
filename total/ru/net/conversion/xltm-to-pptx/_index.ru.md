@@ -19,10 +19,10 @@ otherformats: DOCX POWERPOINT WORD DOC
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование XLTM в PPTX на .NET" %}}
-1. Откройте файл XLTM с помощью класса [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
+1. Откройте файл XLTM с помощью класса [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook).
 2. Преобразуйте XLTM в PDF и установите для параметра SaveFormat значение Auto.
-3. Загрузите преобразованный файл PDF с помощью класса [Документ](https://apireference.aspose.com/pdf/net/aspose.pdf/document).
-4. Сохраните документ в формате PPTX с помощью метода [Сохранить](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) и установите Pptx как SaveFormat.
+3. Загрузите преобразованный файл PDF с помощью класса [Документ](https://reference.aspose.com/pdf/net/aspose.pdf/document).
+4. Сохраните документ в формате PPTX с помощью метода [Сохранить](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) и установите Pptx как SaveFormat.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}

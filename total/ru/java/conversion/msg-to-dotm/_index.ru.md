@@ -16,10 +16,10 @@ otherformats: EPUB DOCM MD XPS JPEG EMF OTT DOTM PNG FLATOPC GIF DOTX SVG TIFF D
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как конвертировать MSG в DOTM" %}}
-1. Откройте файл MSG с помощью класса [MailMessage](https://apireference.aspose.com/msg/java/com.aspose.msg/mailmessage).
-2. Преобразуйте MSG в HTML, используя [save](https://apireference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions).)) метод
-3. Загрузите HTML с помощью класса [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document).
-4. Сохраните документ в формате DOTM, используя [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions).)) и установите DOTM как SaveFormat
+1. Откройте файл MSG с помощью класса [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage).
+2. Преобразуйте MSG в HTML, используя [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions).)) метод
+3. Загрузите HTML с помощью класса [Document](https://reference.aspose.com/words/java/com.aspose.words/Document).
+4. Сохраните документ в формате DOTM, используя [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions).)) и установите DOTM как SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
 Вы должны использовать Aspose.Total для Java непосредственно из проекта на основе [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total). и включите библиотеки в свой pom.xml.

@@ -18,10 +18,10 @@ Usando [Aspose.Total for .NET](https://products.aspose.com/total/net/) você pod
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Como converter POTX para TSV via C#" %}}
-1. Abra o arquivo POTX usando a classe [Apresentação](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
-2. Exporte POTX como HTML usando o método [Salvar](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
-3. Carregue o documento HTML usando a classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Salve o documento em TSV usando o método [Salvar](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+1. Abra o arquivo POTX usando a classe [Apresentação](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+2. Exporte POTX como HTML usando o método [Salvar](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+3. Carregue o documento HTML usando a classe [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Salve o documento em TSV usando o método [Salvar](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}

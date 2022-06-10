@@ -16,10 +16,10 @@ otherformats: FLATOPCX RTF DOTX OTT WORDML DOT FLATOPC FLATOPCM DOTM ODT WORD TE
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hogyan lehet a POT-ot FLATOPC-ba konvertálni Java-n keresztül" %}}
-1. Nyissa meg a POT-fájlt a [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) osztály használatával
-2. A [mentés](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides) segítségével konvertálja a POT-ot HTML-be. ISaveOptions-) metódust, és állítsa be a HTML-t SaveFormat-ként
-3. Töltse be a konvertált HTML-fájlt a [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument) osztály használatával
-4. Mentse a dokumentumot FLATOPC formátumba a [save](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,int)) módszerrel
+1. Nyissa meg a POT-fájlt a [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) osztály használatával
+2. A [mentés](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides) segítségével konvertálja a POT-ot HTML-be. ISaveOptions-) metódust, és állítsa be a HTML-t SaveFormat-ként
+3. Töltse be a konvertált HTML-fájlt a [Flatopcument](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument) osztály használatával
+4. Mentse a dokumentumot FLATOPC formátumba a [save](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,int)) módszerrel
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 A POT-ból FLATOPC-fájlba konvertálásához egyszerűen használhatja az Aspose.Total for Java-t közvetlenül a [Maven]-ből (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) alapú projektet, és vegyen fel könyvtárakat a pom.xml fájlba.
@@ -34,7 +34,7 @@ Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://down
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Konverziós követelmények" %}}
-Az API segítségével POT fájlból FLATOPC-ba konvertálhat vízjellel. Ha vízjelet szeretne hozzáadni a FLATOPC dokumentumhoz, először konvertálja a POT fájlt HTML formátumba, és vízjelet adjon hozzá. Vízjel hozzáadásához töltse be az újonnan létrehozott HTML-fájlt a [Flatopcument](https://apireference.aspose.com/words/java/com.aspose.words/Flatopcument) osztály segítségével, hozzon létre egy TextWatermarkOptions példányt, és állítsa be. tulajdonságai, Hívja meg a Watermark.setText metódust, és adja át a vízjel szövegét és a TextWatermarkOptions objektumát.  
+Az API segítségével POT fájlból FLATOPC-ba konvertálhat vízjellel. Ha vízjelet szeretne hozzáadni a FLATOPC dokumentumhoz, először konvertálja a POT fájlt HTML formátumba, és vízjelet adjon hozzá. Vízjel hozzáadásához töltse be az újonnan létrehozott HTML-fájlt a [Flatopcument](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument) osztály segítségével, hozzon létre egy TextWatermarkOptions példányt, és állítsa be. tulajdonságai, Hívja meg a Watermark.setText metódust, és adja át a vízjel szövegét és a TextWatermarkOptions objektumát.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}

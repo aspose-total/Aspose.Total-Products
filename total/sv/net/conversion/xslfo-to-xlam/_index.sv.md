@@ -18,10 +18,10 @@ Genom att använda [Aspose.Total for .NET](https://products.aspose.com/total/net
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API för att konvertera XSLFO till XLAM" %}}
-1. Öppna XSLFO-filen med klassen [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
-2. Konvertera XSLFO till XLSX genom att använda metoden [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
-3. Ladda XLSX-dokument med hjälp av klassen [Arbetsbok](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
-4. Spara dokumentet i XLAM-format med metoden [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) och ställ in "Xlam" som SaveFormat
+1. Öppna XSLFO-filen med klassen [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
+2. Konvertera XSLFO till XLSX genom att använda metoden [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. Ladda XLSX-dokument med hjälp av klassen [Arbetsbok](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Spara dokumentet i XLAM-format med metoden [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) och ställ in "Xlam" som SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
@@ -39,7 +39,7 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Konvertera skyddad XSLFO till XLAM via C#" %}}
-Om ditt XSLFO-dokument är lösenordsskyddat kan du inte konvertera det till XLAM utan lösenordet. Med hjälp av API:et kan du först öppna det skyddade dokumentet med ett giltigt lösenord och konvertera det efter det. För att öppna den krypterade filen kan du initiera en ny instans av klassen [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) och skicka filnamnet och lösenordet som argument.  
+Om ditt XSLFO-dokument är lösenordsskyddat kan du inte konvertera det till XLAM utan lösenordet. Med hjälp av API:et kan du först öppna det skyddade dokumentet med ett giltigt lösenord och konvertera det efter det. För att öppna den krypterade filen kan du initiera en ny instans av klassen [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) och skicka filnamnet och lösenordet som argument.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-password-protected-pdf-to-excel.cs" >}}

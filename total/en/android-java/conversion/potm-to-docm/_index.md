@@ -19,10 +19,10 @@ You can convert your given document in two steps. You can use [Aspose.Slides for
 {{% /blocks/products/pf/agp/content %}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 {{% blocks/products/pf/agp/feature-section-col title="POTM to DOCM Rendering in Android" %}}
-1. Open POTM file using [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) class
-2. Convert POTM to HTML by using [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method and set Html as SaveFormat
-3. Load the converted HTML file using [Document](https://apireference.aspose.com/words/java/com.aspose.words/Document) class
-4. Save the document to DOCM format using [save](https://apireference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) method and set Docm as SaveFormat
+1. Open POTM file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
+2. Convert POTM to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method and set Html as SaveFormat
+3. Load the converted HTML file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
+4. Save the document to DOCM format using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) method and set Docm as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with Andorid via Java APIs" %}}

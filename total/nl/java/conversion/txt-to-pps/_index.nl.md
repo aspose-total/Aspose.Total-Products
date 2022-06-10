@@ -16,11 +16,11 @@ Vaak moeten ontwikkelaars het TXT-bestand programmatisch naar PPS converteren. D
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hoe TXT naar PPS te converteren via Java" %}}
-1. Open het TXT-bestand met de klasse [Txtument](https://apireference.aspose.com/words/java/com.aspose.words/Txtument)
-2. Converteer het TXT-bestand naar HTML met behulp van [save](https://apireference.aspose.com/words/java/com.aspose.words/Txtument#save(java.lang.String,com.aspose.words.SaveOptions)) methode
-3. Initialiseer een nieuw [Presentation](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation) object
+1. Open het TXT-bestand met de klasse [Txtument](https://reference.aspose.com/words/java/com.aspose.words/Txtument)
+2. Converteer het TXT-bestand naar HTML met behulp van [save](https://reference.aspose.com/words/java/com.aspose.words/Txtument#save(java.lang.String,com.aspose.words.SaveOptions)) methode
+3. Initialiseer een nieuw [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object
 5. Extraheer inhoud uit HTML-bestand met BufferedReader en schrijf de inhoud in uw presentatiebestand
-6. Sla het txtument op in PPS met de methode [save](https://apireference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. Sla het txtument op in PPS met de methode [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
 Voor TXT naar PPS-bestandsconversie kunt u Aspose.Total voor Java eenvoudig rechtstreeks vanuit een [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) gebaseerd project en neem bibliotheken op in uw pom.xml.

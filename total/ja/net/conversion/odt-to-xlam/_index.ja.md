@@ -18,10 +18,10 @@ otherformats: XLTM DIF TSV XLS ODS XLSM XLAM XLT XLTX EXCEL SXC XLSB FODS XLSX
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="ODTをXLAMに変換する.NETAPI" %}}
-1. [Document](https://apireference.aspose.com/words/net/aspose.words/document)クラスを使用してODTファイルを開きます
-2. [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してODTをHTMLに変換します
-3. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
-4. [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをXLAM形式で保存し、「XLAM」をSaveFormatとして設定します
+1. [Document](https://reference.aspose.com/words/net/aspose.words/document)クラスを使用してODTファイルを開きます
+2. [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)メソッドを使用してODTをHTMLに変換します
+3. [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします
+4. [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してドキュメントをXLAM形式で保存し、「XLAM」をSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
@@ -39,7 +39,7 @@ otherformats: XLTM DIF TSV XLS ODS XLSM XLAM XLT XLTX EXCEL SXC XLSB FODS XLSX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="C＃経由でストリームからODTドキュメントをロードする" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/)では、ストリームを介してODTドキュメントをロードすることもできます。ストリームからドキュメントを開くには、ドキュメントを含むストリームオブジェクトを[Document](https://apireference.aspose.com/words/net/aspose.words/document)コンストラクターに渡すだけです。次のコード例は、ストリームからドキュメントを開く方法を示しています。  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/)では、ストリームを介してODTドキュメントをロードすることもできます。ストリームからドキュメントを開くには、ドキュメントを含むストリームオブジェクトを[Document](https://reference.aspose.com/words/net/aspose.words/document)コンストラクターに渡すだけです。次のコード例は、ストリームからドキュメントを開く方法を示しています。  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
@@ -48,7 +48,7 @@ otherformats: XLTM DIF TSV XLS ODS XLSM XLAM XLT XLTX EXCEL SXC XLSB FODS XLSX
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="C＃を介してXLAMファイルにカスタムプロパティを追加する" %}}
-ODTをXLAMに変換する際、[Aspose.Cells for .NET](https://products.aspose.com/cells/net/)を使用すると、XLAMドキュメントにカスタムプロパティを追加できます。カスタムプロパティを追加するには、[CustomDocumentPropertyCollection](の[Add](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index)メソッドを使用できます。 https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection)クラス。 Addメソッドは、プロパティをExcelファイルに追加し、新しいドキュメントプロパティの参照を[Aspose.Cells.Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties)として返します。 / documentproperty)オブジェクト。 
+ODTをXLAMに変換する際、[Aspose.Cells for .NET](https://products.aspose.com/cells/net/)を使用すると、XLAMドキュメントにカスタムプロパティを追加できます。カスタムプロパティを追加するには、[CustomDocumentPropertyCollection](の[Add](https://reference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index)メソッドを使用できます。 https://reference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection)クラス。 Addメソッドは、プロパティをExcelファイルに追加し、新しいドキュメントプロパティの参照を[Aspose.Cells.Properties.DocumentProperty](https://reference.aspose.com/cells/net/aspose.cells.properties)として返します。 / documentproperty)オブジェクト。 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}

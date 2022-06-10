@@ -18,10 +18,10 @@ otherformats: RTF ODT PS MHTML DOTX OTT FLATOPC WORDML DOT PCL MARKDOWN DOTM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API de C# para convertir CGM a PCL" %}}
-1. Abra el archivo CGM usando la clase [Documento](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convierta CGM a Doc usando el método [Guardar](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
-3. Cargue el archivo Doc usando la clase [Document](https://apireference.aspose.com/words/net/aspose.words/document) de Aspose.Words
-4. Guarde el documento en formato PCL usando el método [Guardar](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) y configure Pcl como SaveFormat
+1. Abra el archivo CGM usando la clase [Documento](https://reference.aspose.com/pdf/net/aspose.pdf/document)
+2. Convierta CGM a Doc usando el método [Guardar](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. Cargue el archivo Doc usando la clase [Document](https://reference.aspose.com/words/net/aspose.words/document) de Aspose.Words
+4. Guarde el documento en formato PCL usando el método [Guardar](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) y configure Pcl como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
@@ -47,7 +47,7 @@ outputDocument.Save("output.pcl", SaveFormat.Pcl);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Descifre el archivo CGM usando la contraseña del propietario a través de .NET" %}}
-Antes de convertir CGM a PCL, si desea descifrar su documento, puede hacerlo mediante la API. Para descifrar el archivo PDF, primero debe crear un objeto [Documento](https://apireference.aspose.com/pdf/net/aspose.pdf/document) y abrir el CGM con la contraseña del propietario. Después de eso, debe llamar al método [Decrypt](https://apireference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) del objeto Document. Finalmente, guarde el archivo actualizado usando el método Guardar del objeto Documento.  
+Antes de convertir CGM a PCL, si desea descifrar su documento, puede hacerlo mediante la API. Para descifrar el archivo PDF, primero debe crear un objeto [Documento](https://reference.aspose.com/pdf/net/aspose.pdf/document) y abrir el CGM con la contraseña del propietario. Después de eso, debe llamar al método [Decrypt](https://reference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) del objeto Document. Finalmente, guarde el archivo actualizado usando el método Guardar del objeto Documento.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -63,7 +63,7 @@ document.Save("Decrypt_out.doc");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Crear archivo PCL de solo lectura a través de .NET" %}}
-Para proteger su PCL de la edición y evitar que otras personas editen información sensible y confidencial en su documento, también puede configurar la protección del documento mediante la API. Puede limitar la capacidad de editar un documento y permitir solo ciertas acciones con él. Esto se puede hacer usando la API [Aspose.Words for .NET](https://products.aspose.com/words/net/). Le permite controlar la forma en que restringe el contenido mediante el parámetro de enumeración [ProtectionType](https://apireference.aspose.com/words/net/aspose.words/protectiontype). Puede configurar su documento para que sea de solo lectura usando las siguientes líneas de código. 
+Para proteger su PCL de la edición y evitar que otras personas editen información sensible y confidencial en su documento, también puede configurar la protección del documento mediante la API. Puede limitar la capacidad de editar un documento y permitir solo ciertas acciones con él. Esto se puede hacer usando la API [Aspose.Words for .NET](https://products.aspose.com/words/net/). Le permite controlar la forma en que restringe el contenido mediante el parámetro de enumeración [ProtectionType](https://reference.aspose.com/words/net/aspose.words/protectiontype). Puede configurar su documento para que sea de solo lectura usando las siguientes líneas de código. 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

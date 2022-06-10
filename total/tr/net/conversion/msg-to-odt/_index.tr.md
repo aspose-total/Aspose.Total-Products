@@ -18,10 +18,10 @@ Uygulamalarınızın içine MSG to ODT dönüştürme özelliklerini eklemek ist
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="MSG'i ODT'ye Dönüştürmek için C# API" %}}
-1. [MailMessage](https://apireference.aspose.com/msg/net/aspose.msg/mailmessage) sınıfını kullanarak MSG dosyasını açın
-2. [Save](https://apireference.aspose.com/msg/net/aspose.msg.mailmessage/save/methods/3) yöntemini kullanarak MSG'i HTML'ye dönüştürün
-3. HTML'yi [Document](https://apireference.aspose.com/words/net/aspose.words/document) sınıfını kullanarak yükleyin
-4. [Save](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/4) yöntemini kullanarak belgeyi ODT formatına kaydedin ve Odt'yi SaveFormat olarak ayarlayın
+1. [MailMessage](https://reference.aspose.com/msg/net/aspose.msg/mailmessage) sınıfını kullanarak MSG dosyasını açın
+2. [Save](https://reference.aspose.com/msg/net/aspose.msg.mailmessage/save/methods/3) yöntemini kullanarak MSG'i HTML'ye dönüştürün
+3. HTML'yi [Document](https://reference.aspose.com/words/net/aspose.words/document) sınıfını kullanarak yükleyin
+4. [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) yöntemini kullanarak belgeyi ODT formatına kaydedin ve Odt'yi SaveFormat olarak ayarlayın
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Dönüşüm Gereksinimleri" %}}
@@ -47,7 +47,7 @@ document.Save("output.odt", SaveFormat.Odt);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="E-POSTA Dosyasını .NET ile Ayrıştırma" %}}
-MSG'i ODT'ye dönüştürmeden önce, doğru e-postayı dönüştürdüğünüzden emin olmak istiyorsanız, MSG belgesini yükleyebilir, ayrıştırabilir ve istediğiniz özelliğe bir göz atabilirsiniz. [Aspose.Email for .NET](https://products.aspose.com/msg) [MapiMessage](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) sınıfını kullanarak /net/) API, gönderici ve alıcı bilgilerini alabilirsiniz. Örneğin, [GönderenAdı](https://apireference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername) özelliğini kullanarak dönüşüm için belirli bir gönderen e-postasını kontrol edebilirsiniz.  
+MSG'i ODT'ye dönüştürmeden önce, doğru e-postayı dönüştürdüğünüzden emin olmak istiyorsanız, MSG belgesini yükleyebilir, ayrıştırabilir ve istediğiniz özelliğe bir göz atabilirsiniz. [Aspose.Email for .NET](https://products.aspose.com/msg) [MapiMessage](https://reference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) sınıfını kullanarak /net/) API, gönderici ve alıcı bilgilerini alabilirsiniz. Örneğin, [GönderenAdı](https://reference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername) özelliğini kullanarak dönüşüm için belirli bir gönderen e-postasını kontrol edebilirsiniz.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

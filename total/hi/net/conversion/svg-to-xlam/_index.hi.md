@@ -18,10 +18,10 @@ otherformats: XLSM FODS TSV XLT ODS TXT DIF XLSB EXCEL XLTM XLAM MD
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="सीजीएम को सीएसवी में बदलने के लिए .NET API" %}}
-1. [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) वर्ग का उपयोग करके सीजीएम फ़ाइल खोलें
-2. [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) पद्धति का उपयोग करके SVG को XLSX में बदलें
-3. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) क्लास का इस्तेमाल करके XLSX दस्तावेज़ लोड करें
-4. [Save](https://apireference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) विधि का उपयोग करके दस्तावेज़ को XLAM प्रारूप में सहेजें और `Xlam` को SaveFormat के रूप में सेट करें
+1. [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) वर्ग का उपयोग करके सीजीएम फ़ाइल खोलें
+2. [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) पद्धति का उपयोग करके SVG को XLSX में बदलें
+3. [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) क्लास का इस्तेमाल करके XLSX दस्तावेज़ लोड करें
+4. [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) विधि का उपयोग करके दस्तावेज़ को XLAM प्रारूप में सहेजें और `Xlam` को SaveFormat के रूप में सेट करें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
@@ -39,7 +39,7 @@ otherformats: XLSM FODS TSV XLT ODS TXT DIF XLSB EXCEL XLTM XLAM MD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="सी#के माध्यम से संरक्षित सीजीएम को सीएसवी में कनवर्ट करें" %}}
-यदि आपका सीजीएम दस्तावेज़ पासवर्ड से सुरक्षित है, तो आप इसे पासवर्ड के बिना सीएसवी में परिवर्तित नहीं कर सकते। एपीआई का उपयोग करके, आप पहले एक वैध पासवर्ड का उपयोग करके संरक्षित दस्तावेज़ को खोल सकते हैं और उसके बाद उसे परिवर्तित कर सकते हैं। एन्क्रिप्ट की गई फ़ाइल को खोलने के लिए, आप [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) वर्ग का एक नया उदाहरण प्रारंभ कर सकते हैं और फ़ाइल नाम और पासवर्ड को तर्क के रूप में पास कर सकते हैं।  
+यदि आपका सीजीएम दस्तावेज़ पासवर्ड से सुरक्षित है, तो आप इसे पासवर्ड के बिना सीएसवी में परिवर्तित नहीं कर सकते। एपीआई का उपयोग करके, आप पहले एक वैध पासवर्ड का उपयोग करके संरक्षित दस्तावेज़ को खोल सकते हैं और उसके बाद उसे परिवर्तित कर सकते हैं। एन्क्रिप्ट की गई फ़ाइल को खोलने के लिए, आप [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) वर्ग का एक नया उदाहरण प्रारंभ कर सकते हैं और फ़ाइल नाम और पासवर्ड को तर्क के रूप में पास कर सकते हैं।  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-password-protected-pdf-to-excel.cs" >}}
