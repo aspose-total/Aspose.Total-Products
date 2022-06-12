@@ -23,6 +23,14 @@ Native Java APIs for the desktop, web or any kind of application based on Java S
 Create, manipulate, convert or render Word documents, Excel spreadsheets, PowerPoint presentations, email messages & PDF files in C++ applications.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via .NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-net.svg" productLink="/total/python-net" >}}
+Generate, edit or convert DOC, DOCX, PPT, PPTX, EML, MSG and 3D formats using Python library suite for Microsoft Word, PowerPoint & Outlook.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-java.svg" productLink="/total/python-java" >}}
+Python libraries for Microsoft Excel & Visio that help create, edit or convert XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX and other formats.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="Android via Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" productLink="/total/android-java" >}}
 Manipulate Word, Excel, PowerPoint and other formats in mobile apps. It works with Android OS 2.3 or later.
 {{< /blocks/products/pf/product >}}

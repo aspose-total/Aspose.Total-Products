@@ -6,11 +6,11 @@ description: Python libraries for Excel spreadsheets parsing, barcode generation
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python Automation Solution for Excel, Visio & Barcodes" h2="Manipulate Excel spreadsheets and Visio diagram files as well as generate and recognize barcodes of various symbologies." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-python-via-java.svg" pfName="Aspose.Total" subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/total/pythonjava" >}}
+{{< blocks/products/pf/upper-banner h1="Python Automation Solution for Excel, Visio & Barcodes" h2="Manipulate Excel spreadsheets and Visio diagram files as well as generate and recognize barcodes of various symbologies." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-python-via-java.svg" pfName="Aspose.Total" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/total/python-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Python via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/python-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/pythonjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/pythonjava" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/python-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/python-java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/python-java/" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for Python via Java is a complete suite for Python developers to create, manipulate, render and convert between different Excel & Visio formats from within Python applications.
@@ -184,7 +184,7 @@ Aspose.Total is a powerful suite to process nearly all kinds of documents in hig
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/" >}} 
+{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/total/7" >}} 
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}} 
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/total/" >}} 
 {{< /blocks/products/pf/slr-tab >}}
@@ -196,18 +196,19 @@ Aspose.Total is a powerful suite to process nearly all kinds of documents in hig
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/pythonjava" pricingInformationLink="https://purchase.aspose.com/pricing/total/python-java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/total/python-java/" pricingInformationLink="https://purchase.aspose.com/pricing/total/python-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total offers individual solutions for other platforms." >}}
 
     {{< blocks/products/pf/offers-section-item link="/total/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
     {{< blocks/products/pf/offers-section-item link="/total/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" sdkName=" Java" >}}
     {{< blocks/products/pf/offers-section-item link="/total/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" sdkName=" C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-net.svg" sdkName=" Python via .NET" >}}
+    
     {{< blocks/products/pf/offers-section-item link="/total/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
     {{< blocks/products/pf/offers-section-item link="/total/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
     {{< blocks/products/pf/offers-section-item link="/total/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
     {{< blocks/products/pf/offers-section-item link="/total/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" sdkName=" JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-net.svg" sdkName=" Python via .NET" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

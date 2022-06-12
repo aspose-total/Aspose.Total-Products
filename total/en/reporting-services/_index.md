@@ -227,7 +227,7 @@ Aspose.BarCode for Reporting Services is the most comprehensive solution for ren
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/" >}} 
+{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/total/7" >}} 
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}} 
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/total/" >}} 
 {{< /blocks/products/pf/slr-tab >}}
@@ -247,11 +247,11 @@ Aspose.BarCode for Reporting Services is the most comprehensive solution for ren
     {{< blocks/products/pf/offers-section-item link="/total/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" sdkName=" Java" >}}
     {{< blocks/products/pf/offers-section-item link="/total/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" sdkName=" C++" >}}
     {{< blocks/products/pf/offers-section-item link="/total/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
-{{< blocks/products/pf/offers-section-item link="/total/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-net.svg" sdkName=" Python via .NET" >}}
-
-{{< blocks/products/pf/offers-section-item link="/total/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-java.svg" sdkName=" Python via Java" >}}
     {{< blocks/products/pf/offers-section-item link="/total/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
     {{< blocks/products/pf/offers-section-item link="/total/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" sdkName=" JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-net.svg" sdkName=" Python via .NET" >}}
+
+    {{< blocks/products/pf/offers-section-item link="/total/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-java.svg" sdkName=" Python via Java" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
