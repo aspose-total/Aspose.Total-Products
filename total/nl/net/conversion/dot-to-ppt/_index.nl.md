@@ -1,7 +1,7 @@
 ---
 title: Converteer DOT naar PPT via C# .NET 
 url: /nl/net/conversion/dot-to-ppt/ 
-description: Converteer Word-dotumentdotumenten naar PowerPoint PPT-bestanden met C#. Converteer meerdere bestanden binnen ASP.NET of andere .NET-toepassingen.
+description: Converteer Word-documentdocumenten naar PowerPoint PPT-bestanden met C#. Converteer meerdere bestanden binnen ASP.NET of andere .NET-toepassingen.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,7 +12,7 @@ description: Converteer Word-dotumentdotumenten naar PowerPoint PPT-bestanden me
 
 {{% blocks/products/pf/agp/content h2="Hoe DOT naar PPT te converteren met C#" %}}
 
-Om het proces voor alle Word-dotumentbestanden naar PowerPoint ppt-presentatiebatchconversie te automatiseren, gebruiken we [Aspose.Words for .NET](https://products.aspose.com/words/net) en [Aspose.Slides voor .NET](https://products.aspose.com/slides/net) API's. De eerste is een tekstverwerkings-API voor het verwerken of manipuleren van Microsoft Word-dotumenten. Terwijl de laatste een presentatiemanipulatie-API is waarmee u Microsoft PowerPoint-dia's kunt maken of wijzigen. Beide API's maken deel uit van het pakket [Aspose.Total for .NET](https://products.aspose.com/total/net). U kunt rechtstreeks [download](https://downloads.aspose.com/) van Nuget of u kunt de volgende opdrachten gebruiken vanuit de Package Manager Console.
+Om het proces voor alle Word-documentbestanden naar PowerPoint ppt-presentatiebatchconversie te automatiseren, gebruiken we [Aspose.Words for .NET](https://products.aspose.com/words/net) en [Aspose.Slides voor .NET](https://products.aspose.com/slides/net) API's. De eerste is een tekstverwerkings-API voor het verwerken of manipuleren van Microsoft Word-documenten. Terwijl de laatste een presentatiemanipulatie-API is waarmee u Microsoft PowerPoint-dia's kunt maken of wijzigen. Beide API's maken deel uit van het pakket [Aspose.Total for .NET](https://products.aspose.com/total/net). U kunt rechtstreeks [download](https://downloads.aspose.com/) van Nuget of u kunt de volgende opdrachten gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakketbeheer Console-opdracht" offSpacer="true" %}}
 
@@ -35,11 +35,11 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. Referentie toevoegen van Aspose.Total voor .NET
-1. Laad het DOT-bestand met de klasse [Aspose.Words.Dotument](https://apireference.aspose.com/words/net/aspose.words/dotument)
-1. Sla het DOT-dotument op in HTML
+1. Laad het DOT-bestand met de klasse [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document)
+1. Sla het DOT-document op in HTML
 1. Maak een [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) object
 1. Importeer HTML-inhoud in tekstkader van elke diavorm in de presentatie
-1. Sla het dotument op met [Aspose.Slides.Presentation.Save("output.ppt", SaveFormat.Ppt)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods /5)
+1. Sla het document op met [Aspose.Slides.Presentation.Save("output.ppt", SaveFormat.Ppt)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods /5)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -59,12 +59,12 @@ PM> Install-Package Aspose.Total
 
 ```cs
 // Load the Single Page Microsoft Word DOT file
-Aspose.Words.Dotument dot = new Aspose.Words.Dotument("sourceWordFile.dot");
+Aspose.Words.Document dot = new Aspose.Words.Document("sourceWordFile.dot");
 
 // Save DOT file to HTML 
 dot.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOT dotuments, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPT.
+// To convert multi pages DOT documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPT.
 
 using (Presentation ppt = new Presentation()){
 

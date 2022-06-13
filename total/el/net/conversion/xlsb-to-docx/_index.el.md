@@ -19,8 +19,8 @@ otherformats: POWERPOINT WORD DOC PPTX
 {{% blocks/products/pf/agp/feature-section-col title="Μετατροπή XLSB σε DOCX στο .NET" %}}
 1. Ανοίξτε το αρχείο XLSB χρησιμοποιώντας την τάξη [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 2. Μετατρέψτε το XLSB σε PDF και ορίστε το SaveFormat σε Auto
-3. Φορτώστε το αρχείο PDF που έχει μετατραπεί χρησιμοποιώντας την κλάση [Docxument](https://apireference.aspose.com/pdf/net/aspose.pdf/docxument)
-4. Αποθηκεύστε το έγγραφο σε μορφή DOCX χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.docxument/save/methods/5) και ορίστε το Docx ως SaveFormat
+3. Φορτώστε το αρχείο PDF που έχει μετατραπεί χρησιμοποιώντας την κλάση [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
+4. Αποθηκεύστε το έγγραφο σε μορφή DOCX χρησιμοποιώντας τη μέθοδο [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) και ορίστε το Docx ως SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
@@ -35,10 +35,10 @@ otherformats: POWERPOINT WORD DOC PPTX
 var book = new Aspose.Cells.Workbook("input.xlsb");
 // save XLSB as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
-// load the PDF file using Docxument class
-var docxument = new Aspose.Pdf.Docxument("pdfOutput.pdf");
-// save docxument in DOCXX format
-docxument.Save("output.docxx", SaveFormat.DocxX); 
+// load the PDF file using Document class
+var document = new Aspose.Pdf.Document("pdfOutput.pdf");
+// save document in DOCX format
+document.Save("output.docx", SaveFormat.Docx); 
 ```
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}

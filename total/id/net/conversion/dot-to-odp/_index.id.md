@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. Tambahkan referensi Aspose.Total untuk .NET
-1. Muat file DOT menggunakan kelas [Aspose.Words.Dotument](https://apireference.aspose.com/words/net/aspose.words/dotument)
+1. Muat file DOT menggunakan kelas [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document)
 1. Simpan dokumen DOT ke dalam HTML
 1. Buat Objek [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. Impor konten HTML dalam bingkai teks bentuk slide apa pun di dalam presentasi
@@ -59,12 +59,12 @@ PM> Install-Package Aspose.Total
 
 ```cs
 // Load the Single Page Microsoft Word DOT file
-Aspose.Words.Dotument dot = new Aspose.Words.Dotument("sourceWordFile.dot");
+Aspose.Words.Document dot = new Aspose.Words.Document("sourceWordFile.dot");
 
 // Save DOT file to HTML 
 dot.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOT dotuments, export each page to HTML separately using Aspose.Words and then use the below code to convert to ODP.
+// To convert multi pages DOT documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to ODP.
 
 using (Presentation odp = new Presentation()){
 

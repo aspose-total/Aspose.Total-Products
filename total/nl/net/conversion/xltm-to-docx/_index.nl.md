@@ -19,8 +19,8 @@ otherformats: DOC PPTX POWERPOINT WORD
 {{% blocks/products/pf/agp/feature-section-col title="XLTM naar DOCX-conversie op .NET" %}}
 1. Open het XLTM-bestand met de klasse [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 2. Converteer XLTM naar PDF en stel SaveFormat in op Auto
-3. Laad het geconverteerde PDF-bestand met de klasse [Docxument](https://apireference.aspose.com/pdf/net/aspose.pdf/docxument)
-4. Sla het docxument op in DOCX-indeling met de methode [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.docxument/save/methods/5) en stel Docx in als SaveFormat
+3. Laad het geconverteerde PDF-bestand met de klasse [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
+4. Sla het document op in DOCX-indeling met de methode [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) en stel Docx in als SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
@@ -35,10 +35,10 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 var book = new Aspose.Cells.Workbook("input.xltm");
 // save XLTM as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
-// load the PDF file using Docxument class
-var docxument = new Aspose.Pdf.Docxument("pdfOutput.pdf");
-// save docxument in DOCXX format
-docxument.Save("output.docxx", SaveFormat.DocxX); 
+// load the PDF file using Document class
+var document = new Aspose.Pdf.Document("pdfOutput.pdf");
+// save document in DOCX format
+document.Save("output.docx", SaveFormat.Docx); 
 ```
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}

@@ -1,7 +1,7 @@
 ---
 title: Convierta DOT a PPTX a través de C# .NET 
 url: /es/net/conversion/dot-to-pptx/ 
-description: Convierta dotumentos de Word dot en archivos pptx de PowerPoint con C#. Convierta múltiples archivos dentro de ASP.NET u otras aplicaciones .NET.
+description: Convierta documentos de Word dot en archivos pptx de PowerPoint con C#. Convierta múltiples archivos dentro de ASP.NET u otras aplicaciones .NET.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,7 +12,7 @@ description: Convierta dotumentos de Word dot en archivos pptx de PowerPoint con
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir DOT a PPTX usando C#" %}}
 
-Para automatizar el proceso de cualquier archivo de dotumento de Word a la conversión por lotes de presentación de PowerPoint pptx, usaremos [Aspose.Words for .NET](https://products.aspose.com/words/net) y [Aspose.Slides para .NET](https://products.aspose.com/slides/net) API. La primera es una API de procesamiento de textos para procesar o manipular dotumentos de Microsoft Word. Mientras que esta última es una API de manipulación de presentaciones que le permite crear o modificar diapositivas de Microsoft PowerPoint. Ambas API forman parte del paquete [Aspose.Total for .NET](https://products.aspose.com/total/net). Puede [descargar] directamente (https://downloads.aspose.com/) desde Nuget o puede usar los siguientes comandos desde la consola del administrador de paquetes.
+Para automatizar el proceso de cualquier archivo de documento de Word a la conversión por lotes de presentación de PowerPoint pptx, usaremos [Aspose.Words for .NET](https://products.aspose.com/words/net) y [Aspose.Slides para .NET](https://products.aspose.com/slides/net) API. La primera es una API de procesamiento de textos para procesar o manipular documentos de Microsoft Word. Mientras que esta última es una API de manipulación de presentaciones que le permite crear o modificar diapositivas de Microsoft PowerPoint. Ambas API forman parte del paquete [Aspose.Total for .NET](https://products.aspose.com/total/net). Puede [descargar] directamente (https://downloads.aspose.com/) desde Nuget o puede usar los siguientes comandos desde la consola del administrador de paquetes.
 
 {{% blocks/products/pf/agp/code-block title="Comando de la consola del Administrador de paquetes" offSpacer="true" %}}
 
@@ -35,11 +35,11 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. Agregar referencia de Aspose.Total para .NET
-1. Cargue el archivo DOT usando la clase [Aspose.Words.Dotument](https://apireference.aspose.com/words/net/aspose.words/dotument)
-1. Guarde el dotumento DOT en HTML
+1. Cargue el archivo DOT usando la clase [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document)
+1. Guarde el documento DOT en HTML
 1. Cree el objeto [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. Importe contenido HTML en el marco de texto de cualquier forma de diapositiva dentro de la presentación
-1. Guarde el dotumento usando [Aspose.Slides.Presentation.Save("output.pptx", SaveFormat.Pptx)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods /5)
+1. Guarde el documento usando [Aspose.Slides.Presentation.Save("output.pptx", SaveFormat.Pptx)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods /5)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -59,12 +59,12 @@ PM> Install-Package Aspose.Total
 
 ```cs
 // Load the Single Page Microsoft Word DOT file
-Aspose.Words.Dotument dot = new Aspose.Words.Dotument("sourceWordFile.dot");
+Aspose.Words.Document dot = new Aspose.Words.Document("sourceWordFile.dot");
 
 // Save DOT file to HTML 
 dot.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOT dotuments, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPTX.
+// To convert multi pages DOT documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPTX.
 
 using (Presentation pptx = new Presentation()){
 

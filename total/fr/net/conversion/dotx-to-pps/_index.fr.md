@@ -1,7 +1,7 @@
 ---
 title: Convertir DOTX en PPS via C# .NET 
 url: /fr/net/conversion/dotx-to-pps/ 
-description: Convertissez des dotxuments Word en fichiers PowerPoint pps avec C#. Convertissez plusieurs fichiers dans ASP.NET ou d'autres applications .NET.
+description: Convertissez des documents Word en fichiers PowerPoint pps avec C#. Convertissez plusieurs fichiers dans ASP.NET ou d'autres applications .NET.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,7 +12,7 @@ description: Convertissez des dotxuments Word en fichiers PowerPoint pps avec C#
 
 {{% blocks/products/pf/agp/content h2="Comment convertir DOTX en PPS en utilisant C#" %}}
 
-Afin d'automatiser le processus pour tous les fichiers dotx Word vers la conversion par lots de présentation PowerPoint pps, nous utiliserons [Aspose.Words pour .NET](https://products.aspose.com/words/net) et [Aspose.Slides pour les API .NET](https://products.aspose.com/slides/net). Le premier est une API de traitement de texte pour traiter ou manipuler des dotxuments Microsoft Word. Alors que ce dernier est une API de manipulation de présentation qui vous permet de créer ou de modifier des diapositives Microsoft PowerPoint. Les deux API font partie du package [Aspose.Total pour .NET](https://products.aspose.com/total/net). Vous pouvez directement [télécharger](https://downloads.aspose.com/) à partir de Nuget ou utiliser les commandes suivantes à partir de la console du gestionnaire de packages.
+Afin d'automatiser le processus pour tous les fichiers dotx Word vers la conversion par lots de présentation PowerPoint pps, nous utiliserons [Aspose.Words pour .NET](https://products.aspose.com/words/net) et [Aspose.Slides pour les API .NET](https://products.aspose.com/slides/net). Le premier est une API de traitement de texte pour traiter ou manipuler des documents Microsoft Word. Alors que ce dernier est une API de manipulation de présentation qui vous permet de créer ou de modifier des diapositives Microsoft PowerPoint. Les deux API font partie du package [Aspose.Total pour .NET](https://products.aspose.com/total/net). Vous pouvez directement [télécharger](https://downloads.aspose.com/) à partir de Nuget ou utiliser les commandes suivantes à partir de la console du gestionnaire de packages.
 
 {{% blocks/products/pf/agp/code-block title="Commande de la console du gestionnaire de packages" offSpacer="true" %}}
 
@@ -35,11 +35,11 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. Ajouter la référence de Aspose.Total pour .NET
-1. Chargez le fichier DOTX à l'aide de la classe [Aspose.Words.Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument)
-1. Enregistrez le dotxument DOTX au format HTML
+1. Chargez le fichier DOTX à l'aide de la classe [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document)
+1. Enregistrez le document DOTX au format HTML
 1. Créer un objet [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. Importez du contenu HTML dans le cadre de texte de n'importe quelle forme de diapositive dans la présentation
-1. Enregistrez le dotxument en utilisant [Aspose.Slides.Presentation.Save("output.pps", SaveFormat.Pps)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods /5)
+1. Enregistrez le document en utilisant [Aspose.Slides.Presentation.Save("output.pps", SaveFormat.Pps)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods /5)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -59,12 +59,12 @@ PM> Install-Package Aspose.Total
 
 ```cs
 // Load the Single Page Microsoft Word DOTX file
-Aspose.Words.Dotxument dotx = new Aspose.Words.Dotxument("sourceWordFile.dotx");
+Aspose.Words.Document dotx = new Aspose.Words.Document("sourceWordFile.dotx");
 
 // Save DOTX file to HTML 
 dotx.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOTX dotxuments, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPS.
+// To convert multi pages DOTX documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPS.
 
 using (Presentation pps = new Presentation()){
 

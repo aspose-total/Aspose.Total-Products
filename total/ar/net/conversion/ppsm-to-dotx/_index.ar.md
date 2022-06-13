@@ -37,8 +37,8 @@ PM> Install-Package Aspose.Total
 1. أضف مرجع Aspose.Slides لـ .NET و Aspose.Words لـ .NET
 1. قم بتحميل عرض PowerPoint PPSM باستخدام فئة [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. احفظ المستند في كائن [MemoryStream](https://dotxs.microsoft.com/en-us/dotnet/api/system.io.memorystream؟view=net-5.0)
-1. قم بإنشاء [Aspose.Words.Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument) وقم بتهيئته باستخدام كائن MemoryStream
-1. احفظ المستند باستخدام [Aspose.Words.Dotxument.Save ("output.dotx"، SaveFormat.Dotx)](https://apireference.aspose.com/words/net/aspose.words.dotxument/save/methods/3)
+1. قم بإنشاء [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) وقم بتهيئته باستخدام كائن MemoryStream
+1. احفظ المستند باستخدام [Aspose.Words.Document.Save ("output.dotx"، SaveFormat.Dotx)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,10 +67,10 @@ stream.Flush();
 stream.Seek(0, SeekOrigin.Begin);
 // stream.Position = 0;
 
-// Load the content of the presentation to a Word dotxument
-var dotx = new Aspose.Words.Dotxument(stream);
+// Load the content of the presentation to a Word document
+var dotx = new Aspose.Words.Document(stream);
       
-// Save the Word DOTX dotxument
+// Save the Word DOTX document
 dotx.Save("output.dotx", Aspose.Words.SaveFormat.Dotx);
 
 ```
@@ -96,7 +96,7 @@ dotx.Save("output.dotx", Aspose.Words.SaveFormat.Dotx);
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/net/conversion/ppsm-to-dotx" name="PPSM إلى DOTX" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/net/conversion/ppsm-to-dotxx" name="PPSM إلى DOTXX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/net/conversion/ppsm-to-dotx" name="PPSM إلى DOTX" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/net/conversion/ppsm-to-rtf" name="PPSM إلى RTF" description="" >}}
 

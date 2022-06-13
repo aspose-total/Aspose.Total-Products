@@ -19,8 +19,8 @@ otherformats: DOC PPTX POWERPOINT WORD
 {{% blocks/products/pf/agp/feature-section-col title="การแปลง XLSX เป็น DOCX บน .NET" %}}
 1. เปิดไฟล์ XLSX โดยใช้คลาส [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 2. แปลง XLSX เป็น PDF และตั้งค่า SaveFormat เป็น Auto
-3. โหลดไฟล์ PDF ที่แปลงแล้วโดยใช้คลาส [Docxument](https://apireference.aspose.com/pdf/net/aspose.pdf/docxument)
-4. บันทึกเอกสารในรูปแบบ DOCX โดยใช้วิธี [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.docxument/save/methods/5) และตั้งค่า Docx เป็น SaveFormat
+3. โหลดไฟล์ PDF ที่แปลงแล้วโดยใช้คลาส [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
+4. บันทึกเอกสารในรูปแบบ DOCX โดยใช้วิธี [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) และตั้งค่า Docx เป็น SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
@@ -35,10 +35,10 @@ otherformats: DOC PPTX POWERPOINT WORD
 var book = new Aspose.Cells.Workbook("input.xlsx");
 // save XLSX as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
-// load the PDF file using Docxument class
-var docxument = new Aspose.Pdf.Docxument("pdfOutput.pdf");
-// save docxument in DOCXX format
-docxument.Save("output.docxx", SaveFormat.DocxX); 
+// load the PDF file using Document class
+var document = new Aspose.Pdf.Document("pdfOutput.pdf");
+// save document in DOCX format
+document.Save("output.docx", SaveFormat.Docx); 
 ```
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}

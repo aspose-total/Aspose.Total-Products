@@ -19,8 +19,8 @@ otherformats: WORD DOC PPTX POWERPOINT
 {{% blocks/products/pf/agp/feature-section-col title=".NET . पर CSV से DOCX रूपांतरण" %}}
 1. [वर्कबुक](https://apireference.aspose.com/cells/net/aspose.cells/workbook) क्लास का इस्तेमाल करके CSV फ़ाइल खोलें
 2. CSV को PDF में बदलें और SaveFormat को Auto पर सेट करें
-3. रूपांतरित पीडीएफ फाइल को [दस्तावेज़](https://apireference.aspose.com/pdf/net/aspose.pdf/docxument) वर्ग का उपयोग करके लोड करें
-4. [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.docxument/save/methods/5) विधि का उपयोग करके दस्तावेज़ को DOCX प्रारूप में सहेजें और दस्तावेज़ को SaveFormat के रूप में सेट करें
+3. रूपांतरित पीडीएफ फाइल को [दस्तावेज़](https://apireference.aspose.com/pdf/net/aspose.pdf/document) वर्ग का उपयोग करके लोड करें
+4. [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) विधि का उपयोग करके दस्तावेज़ को DOCX प्रारूप में सहेजें और दस्तावेज़ को SaveFormat के रूप में सेट करें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
@@ -35,10 +35,10 @@ otherformats: WORD DOC PPTX POWERPOINT
 var book = new Aspose.Cells.Workbook("input.csv");
 // save CSV as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
-// load the PDF file using Docxument class
-var docxument = new Aspose.Pdf.Docxument("pdfOutput.pdf");
-// save docxument in DOCXX format
-docxument.Save("output.docxx", SaveFormat.DocxX); 
+// load the PDF file using Document class
+var document = new Aspose.Pdf.Document("pdfOutput.pdf");
+// save document in DOCX format
+document.Save("output.docx", SaveFormat.Docx); 
 ```
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}

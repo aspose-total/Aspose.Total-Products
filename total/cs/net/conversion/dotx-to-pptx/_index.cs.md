@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. Přidejte odkaz na Aspose.Total pro .NET
-1. Načtěte soubor DOTX pomocí třídy [Aspose.Words.Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument)
+1. Načtěte soubor DOTX pomocí třídy [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document)
 1. Uložte dokument DOTX do HTML
 1. Vytvořte objekt [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. Importujte obsah HTML v textovém rámečku libovolného tvaru snímku uvnitř prezentace
@@ -59,12 +59,12 @@ PM> Install-Package Aspose.Total
 
 ```cs
 // Load the Single Page Microsoft Word DOTX file
-Aspose.Words.Dotxument dotx = new Aspose.Words.Dotxument("sourceWordFile.dotx");
+Aspose.Words.Document dotx = new Aspose.Words.Document("sourceWordFile.dotx");
 
 // Save DOTX file to HTML 
 dotx.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOTX dotxuments, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPTX.
+// To convert multi pages DOTX documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPTX.
 
 using (Presentation pptx = new Presentation()){
 

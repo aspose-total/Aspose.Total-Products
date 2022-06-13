@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. Dodaj odwołanie do Aspose.Total dla .NET
-1. Załaduj plik DOT za pomocą klasy [Aspose.Words.Dotument](https://apireference.aspose.com/words/net/aspose.words/dotument)
+1. Załaduj plik DOT za pomocą klasy [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document)
 1. Zapisz dokument DOT w HTML
 1. Utwórz obiekt [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. Importuj zawartość HTML do ramki tekstowej dowolnego kształtu slajdu w prezentacji
@@ -59,12 +59,12 @@ PM> Install-Package Aspose.Total
 
 ```cs
 // Load the Single Page Microsoft Word DOT file
-Aspose.Words.Dotument dot = new Aspose.Words.Dotument("sourceWordFile.dot");
+Aspose.Words.Document dot = new Aspose.Words.Document("sourceWordFile.dot");
 
 // Save DOT file to HTML 
 dot.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOT dotuments, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPT.
+// To convert multi pages DOT documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPT.
 
 using (Presentation ppt = new Presentation()){
 

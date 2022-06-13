@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. Aspose.Total for .NET referansını ekleyin
-1. DOTX dosyasını [Aspose.Words.Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument) sınıfını kullanarak yükleyin
+1. DOTX dosyasını [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) sınıfını kullanarak yükleyin
 1. DOTX belgesini HTML'ye kaydedin
 1. [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) Nesnesi oluşturun
 1. HTML içeriğini sunum içindeki herhangi bir slayt şeklinin metin çerçevesinde içe aktarın
@@ -59,12 +59,12 @@ PM> Install-Package Aspose.Total
 
 ```cs
 // Load the Single Page Microsoft Word DOTX file
-Aspose.Words.Dotxument dotx = new Aspose.Words.Dotxument("sourceWordFile.dotx");
+Aspose.Words.Document dotx = new Aspose.Words.Document("sourceWordFile.dotx");
 
 // Save DOTX file to HTML 
 dotx.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOTX dotxuments, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPTM.
+// To convert multi pages DOTX documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPTM.
 
 using (Presentation pptm = new Presentation()){
 

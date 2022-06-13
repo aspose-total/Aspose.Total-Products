@@ -37,8 +37,8 @@ PM> Install-Package Aspose.Total
 1. เพิ่มการอ้างอิงของ Aspose.Slides สำหรับ .NET และ Aspose.Words สำหรับ .NET
 1. โหลดงานนำเสนอ PowerPoint PPTX โดยใช้คลาส [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. บันทึกเอกสารลงใน [MemoryStream](https://dots.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0) วัตถุ
-1. สร้าง [Aspose.Words.Dotument](https://apireference.aspose.com/words/net/aspose.words/dotument) และกำหนดค่าเริ่มต้นด้วย MemoryStream Object
-1. บันทึกเอกสารโดยใช้ [Aspose.Words.Dotument.Save("output.dot", SaveFormat.Dot)](https://apireference.aspose.com/words/net/aspose.words.dotument/save/methods /3)
+1. สร้าง [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) และกำหนดค่าเริ่มต้นด้วย MemoryStream Object
+1. บันทึกเอกสารโดยใช้ [Aspose.Words.Document.Save("output.dot", SaveFormat.Dot)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods /3)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,10 +67,10 @@ stream.Flush();
 stream.Seek(0, SeekOrigin.Begin);
 // stream.Position = 0;
 
-// Load the content of the presentation to a Word dotument
-var dot = new Aspose.Words.Dotument(stream);
+// Load the content of the presentation to a Word document
+var dot = new Aspose.Words.Document(stream);
       
-// Save the Word DOT dotument
+// Save the Word DOT document
 dot.Save("output.dot", Aspose.Words.SaveFormat.Dot);
 
 ```

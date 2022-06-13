@@ -19,8 +19,8 @@ otherformats: WORD DOC PPTX POWERPOINT
 {{% blocks/products/pf/agp/feature-section-col title=".NETでのEXCELからDOCXへの変換" %}}
 1. [ワークブック]（https://apireference.aspose.com/cells/net/aspose.cells/workbook）クラスを使用してEXCELファイルを開きます
 2. EXCELをPDFに変換し、SaveFormatをAutoに設定します
-3. [ドキュメント]（https://apireference.aspose.com/pdf/net/aspose.pdf/docxument）クラスを使用して変換されたPDFファイルをロードします
-4. [保存]（https://apireference.aspose.com/pdf/net/aspose.pdf.docxument/save/methods/5）メソッドを使用してドキュメントをDOCX形式で保存し、DocxをSaveFormatとして設定します
+3. [ドキュメント]（https://apireference.aspose.com/pdf/net/aspose.pdf/document）クラスを使用して変換されたPDFファイルをロードします
+4. [保存]（https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5）メソッドを使用してドキュメントをDOCX形式で保存し、DocxをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
@@ -35,10 +35,10 @@ otherformats: WORD DOC PPTX POWERPOINT
 var book = new Aspose.Cells.Workbook("input.excel");
 // save EXCEL as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
-// load the PDF file using Docxument class
-var docxument = new Aspose.Pdf.Docxument("pdfOutput.pdf");
-// save docxument in DOCXX format
-docxument.Save("output.docxx", SaveFormat.DocxX); 
+// load the PDF file using Document class
+var document = new Aspose.Pdf.Document("pdfOutput.pdf");
+// save document in DOCX format
+document.Save("output.docx", SaveFormat.Docx); 
 ```
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}

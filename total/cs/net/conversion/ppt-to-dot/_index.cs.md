@@ -37,8 +37,8 @@ PM> Install-Package Aspose.Total
 1. Přidejte odkaz na Aspose.Slides pro .NET a Aspose.Words pro .NET
 1. Načtěte prezentaci PowerPoint PPT pomocí třídy [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. Uložte dokument do [MemoryStream](https://dots.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0) Objekt
-1. Vytvořte [Aspose.Words.Dotument](https://apireference.aspose.com/words/net/aspose.words/dotument) a inicializujte jej pomocí objektu MemoryStream
-1. Uložte dokument pomocí [Aspose.Words.Dotument.Save("output.dot", SaveFormat.Dot)](https://apireference.aspose.com/words/net/aspose.words.dotument/save/methods /3)
+1. Vytvořte [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) a inicializujte jej pomocí objektu MemoryStream
+1. Uložte dokument pomocí [Aspose.Words.Document.Save("output.dot", SaveFormat.Dot)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods /3)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,10 +67,10 @@ stream.Flush();
 stream.Seek(0, SeekOrigin.Begin);
 // stream.Position = 0;
 
-// Load the content of the presentation to a Word dotument
-var dot = new Aspose.Words.Dotument(stream);
+// Load the content of the presentation to a Word document
+var dot = new Aspose.Words.Document(stream);
       
-// Save the Word DOT dotument
+// Save the Word DOT document
 dot.Save("output.dot", Aspose.Words.SaveFormat.Dot);
 
 ```

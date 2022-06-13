@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. Lägg till referens för Aspose.Total för .NET
-1. Ladda DOTX-fil med klassen [Aspose.Words.Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument)
+1. Ladda DOTX-fil med klassen [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document)
 1. Spara DOTX-dokumentet i HTML
 1. Skapa [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) objekt
 1. Importera HTML-innehåll i textramen i valfri bildform i presentationen
@@ -59,12 +59,12 @@ PM> Install-Package Aspose.Total
 
 ```cs
 // Load the Single Page Microsoft Word DOTX file
-Aspose.Words.Dotxument dotx = new Aspose.Words.Dotxument("sourceWordFile.dotx");
+Aspose.Words.Document dotx = new Aspose.Words.Document("sourceWordFile.dotx");
 
 // Save DOTX file to HTML 
 dotx.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOTX dotxuments, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPTX.
+// To convert multi pages DOTX documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPTX.
 
 using (Presentation pptx = new Presentation()){
 

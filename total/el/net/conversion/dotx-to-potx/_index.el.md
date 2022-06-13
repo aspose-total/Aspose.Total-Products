@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. Προσθέστε αναφορά του Aspose.Total για .NET
-1. Φορτώστε το αρχείο DOTX χρησιμοποιώντας την κλάση [Aspose.Words.Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument)
+1. Φορτώστε το αρχείο DOTX χρησιμοποιώντας την κλάση [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document)
 1. Αποθηκεύστε το έγγραφο DOTX σε HTML
 1. Δημιουργήστε αντικείμενο [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. Εισαγάγετε περιεχόμενο HTML σε πλαίσιο κειμένου οποιουδήποτε σχήματος διαφάνειας μέσα στην παρουσίαση
@@ -59,12 +59,12 @@ PM> Install-Package Aspose.Total
 
 ```cs
 // Load the Single Page Microsoft Word DOTX file
-Aspose.Words.Dotxument dotx = new Aspose.Words.Dotxument("sourceWordFile.dotx");
+Aspose.Words.Document dotx = new Aspose.Words.Document("sourceWordFile.dotx");
 
 // Save DOTX file to HTML 
 dotx.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOTX dotxuments, export each page to HTML separately using Aspose.Words and then use the below code to convert to POTX.
+// To convert multi pages DOTX documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to POTX.
 
 using (Presentation potx = new Presentation()){
 

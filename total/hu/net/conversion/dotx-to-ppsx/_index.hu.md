@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. Adja hozzá az Aspose.Total hivatkozását a .NET-hez
-1. Töltse be a DOTX-fájlt az [Aspose.Words.Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument) osztály használatával
+1. Töltse be a DOTX-fájlt az [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) osztály használatával
 1. Mentse el a DOTX dokumentumot HTML formátumba
 1. Hozzon létre [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) objektumot
 1. Importáljon HTML-tartalmat bármilyen dia alakú szövegkeretbe a prezentáción belül
@@ -59,12 +59,12 @@ PM> Install-Package Aspose.Total
 
 ```cs
 // Load the Single Page Microsoft Word DOTX file
-Aspose.Words.Dotxument dotx = new Aspose.Words.Dotxument("sourceWordFile.dotx");
+Aspose.Words.Document dotx = new Aspose.Words.Document("sourceWordFile.dotx");
 
 // Save DOTX file to HTML 
 dotx.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOTX dotxuments, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPSX.
+// To convert multi pages DOTX documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPSX.
 
 using (Presentation ppsx = new Presentation()){
 

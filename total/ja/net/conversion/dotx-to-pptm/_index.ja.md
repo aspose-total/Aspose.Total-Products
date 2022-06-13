@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. Aspose.Totalfor.NETの参照を追加します
-1. [Aspose.Words.Dotxument]（https://apireference.aspose.com/words/net/aspose.words/dotxument）クラスを使用してDOTXファイルをロードします
+1. [Aspose.Words.Document]（https://apireference.aspose.com/words/net/aspose.words/document）クラスを使用してDOTXファイルをロードします
 1. DOTXドキュメントをHTMLに保存します
 1. [Aspose.Slides.Presentation]（https://apireference.aspose.com/slides/net/aspose.slides/presentation）オブジェクトを作成します
 1. プレゼンテーション内の任意のスライド形状のテキストフレームにHTMLコンテンツをインポートします
@@ -59,12 +59,12 @@ PM> Install-Package Aspose.Total
 
 ```cs
 // Load the Single Page Microsoft Word DOTX file
-Aspose.Words.Dotxument dotx = new Aspose.Words.Dotxument("sourceWordFile.dotx");
+Aspose.Words.Document dotx = new Aspose.Words.Document("sourceWordFile.dotx");
 
 // Save DOTX file to HTML 
 dotx.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOTX dotxuments, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPTM.
+// To convert multi pages DOTX documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPTM.
 
 using (Presentation pptm = new Presentation()){
 

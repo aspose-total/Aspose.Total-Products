@@ -19,8 +19,8 @@ otherformats: WORD PPTX POWERPOINT DOC
 {{% blocks/products/pf/agp/feature-section-col title="Conversão de SXC para DOCX em .NET" %}}
 1. Abra o arquivo SXC usando a classe [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 2. Converta SXC para PDF e defina SaveFormat para Auto
-3. Carregue o arquivo PDF convertido usando a classe [Docxument](https://apireference.aspose.com/pdf/net/aspose.pdf/docxument)
-4. Salve o docxumento no formato DOCX usando o método [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.docxument/save/methods/5) e defina Docx como SaveFormat
+3. Carregue o arquivo PDF convertido usando a classe [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
+4. Salve o documento no formato DOCX usando o método [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) e defina Docx como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
@@ -35,10 +35,10 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 var book = new Aspose.Cells.Workbook("input.sxc");
 // save SXC as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
-// load the PDF file using Docxument class
-var docxument = new Aspose.Pdf.Docxument("pdfOutput.pdf");
-// save docxument in DOCXX format
-docxument.Save("output.docxx", SaveFormat.DocxX); 
+// load the PDF file using Document class
+var document = new Aspose.Pdf.Document("pdfOutput.pdf");
+// save document in DOCX format
+document.Save("output.docx", SaveFormat.Docx); 
 ```
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}

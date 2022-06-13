@@ -1,7 +1,7 @@
 ---
 title: Converti DOT in POT tramite C# .NET 
 url: /it/net/conversion/dot-to-pot/ 
-description: Converti dotumenti Word in file pot PowerPoint con C#. Converti più file all'interno di ASP.NET o altre applicazioni .NET.
+description: Converti documenti Word in file pot PowerPoint con C#. Converti più file all'interno di ASP.NET o altre applicazioni .NET.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,7 +12,7 @@ description: Converti dotumenti Word in file pot PowerPoint con C#. Converti pi�
 
 {{% blocks/products/pf/agp/content h2="Come convertire DOT in POT usando C#" %}}
 
-Al fine di automatizzare il processo per qualsiasi file di Word dot nella conversione batch di presentazioni PowerPoint pot, utilizzeremo [Aspose.Words for .NET](https://products.aspose.com/words/net) e [Aspose.Slides per .NET](https://products.aspose.com/slides/net) API. La prima è un'API di elaborazione testi per l'elaborazione o la manipolazione di dotumenti Microsoft Word. Considerando che quest'ultima è un'API di manipolazione della presentazione che ti consente di creare o modificare diapositive di Microsoft PowerPoint. Entrambe le API fanno parte del pacchetto [Aspose.Total for .NET](https://products.aspose.com/total/net). Puoi [scaricare](https://downloads.aspose.com/) direttamente da Nuget o utilizzare i seguenti comandi dalla Console di Gestione pacchetti.
+Al fine di automatizzare il processo per qualsiasi file di Word dot nella conversione batch di presentazioni PowerPoint pot, utilizzeremo [Aspose.Words for .NET](https://products.aspose.com/words/net) e [Aspose.Slides per .NET](https://products.aspose.com/slides/net) API. La prima è un'API di elaborazione testi per l'elaborazione o la manipolazione di documenti Microsoft Word. Considerando che quest'ultima è un'API di manipolazione della presentazione che ti consente di creare o modificare diapositive di Microsoft PowerPoint. Entrambe le API fanno parte del pacchetto [Aspose.Total for .NET](https://products.aspose.com/total/net). Puoi [scaricare](https://downloads.aspose.com/) direttamente da Nuget o utilizzare i seguenti comandi dalla Console di Gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Comando della console di gestione dei pacchetti" offSpacer="true" %}}
 
@@ -35,11 +35,11 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. Aggiungere il riferimento di Aspose.Total per .NET
-1. Caricare il file DOT utilizzando la classe [Aspose.Words.Dotument](https://apiference.aspose.com/words/net/aspose.words/dotument)
-1. Salva il dotumento DOT in HTML
+1. Caricare il file DOT utilizzando la classe [Aspose.Words.Document](https://apiference.aspose.com/words/net/aspose.words/document)
+1. Salva il documento DOT in HTML
 1. Crea un oggetto [Aspose.Slides.Presentation](https://apiference.aspose.com/slides/net/aspose.slides/presentation)
 1. Importa contenuto HTML nella cornice di testo di qualsiasi forma di diapositiva all'interno della presentazione
-1. Salvare il dotumento utilizzando [Aspose.Slides.Presentation.Save("output.pot", SaveFormat.Pot)](https://apiference.aspose.com/slides/net/aspose.slides.presentation/save/methods /5)
+1. Salvare il documento utilizzando [Aspose.Slides.Presentation.Save("output.pot", SaveFormat.Pot)](https://apiference.aspose.com/slides/net/aspose.slides.presentation/save/methods /5)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -59,12 +59,12 @@ PM> Install-Package Aspose.Total
 
 ```cs
 // Load the Single Page Microsoft Word DOT file
-Aspose.Words.Dotument dot = new Aspose.Words.Dotument("sourceWordFile.dot");
+Aspose.Words.Document dot = new Aspose.Words.Document("sourceWordFile.dot");
 
 // Save DOT file to HTML 
 dot.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOT dotuments, export each page to HTML separately using Aspose.Words and then use the below code to convert to POT.
+// To convert multi pages DOT documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to POT.
 
 using (Presentation pot = new Presentation()){
 

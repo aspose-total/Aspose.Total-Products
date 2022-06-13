@@ -19,8 +19,8 @@ otherformats: PPTX WORD DOC POWERPOINT
 {{% blocks/products/pf/agp/feature-section-col title="Conversión de XLSM a DOCX en .NET" %}}
 1. Abra el archivo XLSM usando la clase [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 2. Convierta XLSM a PDF y configure SaveFormat en Auto
-3. Cargue el archivo PDF convertido usando la clase [Docxumento](https://apireference.aspose.com/pdf/net/aspose.pdf/docxument)
-4. Guarde el docxumento en formato DOCX usando el método [Guardar](https://apireference.aspose.com/pdf/net/aspose.pdf.docxument/save/methods/5) y configure Docx como SaveFormat
+3. Cargue el archivo PDF convertido usando la clase [Documento](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
+4. Guarde el documento en formato DOCX usando el método [Guardar](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) y configure Docx como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
@@ -35,10 +35,10 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 var book = new Aspose.Cells.Workbook("input.xlsm");
 // save XLSM as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
-// load the PDF file using Docxument class
-var docxument = new Aspose.Pdf.Docxument("pdfOutput.pdf");
-// save docxument in DOCXX format
-docxument.Save("output.docxx", SaveFormat.DocxX); 
+// load the PDF file using Document class
+var document = new Aspose.Pdf.Document("pdfOutput.pdf");
+// save document in DOCX format
+document.Save("output.docx", SaveFormat.Docx); 
 ```
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}

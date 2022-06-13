@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. เพิ่มการอ้างอิงของ Aspose.Total สำหรับ .NET
-1. โหลดไฟล์ DOT โดยใช้คลาส [Aspose.Words.Dotument](https://apireference.aspose.com/words/net/aspose.words/dotument)
+1. โหลดไฟล์ DOT โดยใช้คลาส [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document)
 1. บันทึกเอกสาร DOT เป็น HTML
 1. สร้าง [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) Object
 1. นำเข้าเนื้อหา HTML ในกรอบข้อความของรูปร่างสไลด์ภายในงานนำเสนอ
@@ -59,12 +59,12 @@ PM> Install-Package Aspose.Total
 
 ```cs
 // Load the Single Page Microsoft Word DOT file
-Aspose.Words.Dotument dot = new Aspose.Words.Dotument("sourceWordFile.dot");
+Aspose.Words.Document dot = new Aspose.Words.Document("sourceWordFile.dot");
 
 // Save DOT file to HTML 
 dot.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOT dotuments, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPS.
+// To convert multi pages DOT documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPS.
 
 using (Presentation pps = new Presentation()){
 

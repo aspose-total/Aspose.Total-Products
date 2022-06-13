@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. 為.NET添加Aspose.Total的引用
-1. 使用[Aspose.Words.Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument)類加載DOTX文件
+1. 使用[Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document)類加載DOTX文件
 1. 將DOTX文檔保存為HTML
 1. 創建[Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)對象
 1. 在演示文稿內任意幻燈片形狀的文本框中導入HTML內容
@@ -59,12 +59,12 @@ PM> Install-Package Aspose.Total
 
 ```cs
 // Load the Single Page Microsoft Word DOTX file
-Aspose.Words.Dotxument dotx = new Aspose.Words.Dotxument("sourceWordFile.dotx");
+Aspose.Words.Document dotx = new Aspose.Words.Document("sourceWordFile.dotx");
 
 // Save DOTX file to HTML 
 dotx.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOTX dotxuments, export each page to HTML separately using Aspose.Words and then use the below code to convert to POT.
+// To convert multi pages DOTX documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to POT.
 
 using (Presentation pot = new Presentation()){
 

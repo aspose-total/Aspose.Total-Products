@@ -37,8 +37,8 @@ PM> Install-Package Aspose.Total
 1. Aspose.Slidesfor.NETおよびAspose.Wordsfor.NETの参照を追加します
 1. [Aspose.Slides.Presentation]（https://apireference.aspose.com/slides/net/aspose.slides/presentation）クラスを使用してPowerPointPPSXプレゼンテーションをロードします
 1. ドキュメントを[MemoryStream]（https://dotxs.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0）オブジェクトに保存します
-1. [Aspose.Words.Dotxument]（https://apireference.aspose.com/words/net/aspose.words/dotxument）を作成し、MemoryStreamオブジェクトで初期化します。
-1. [Aspose.Words.Dotxument.Save（ "output.dotx"、SaveFormat.Dotx）]（https://apireference.aspose.com/words/net/aspose.words.dotxument/save/methods）を使用してドキュメントを保存します/ 3）
+1. [Aspose.Words.Document]（https://apireference.aspose.com/words/net/aspose.words/document）を作成し、MemoryStreamオブジェクトで初期化します。
+1. [Aspose.Words.Document.Save（ "output.dotx"、SaveFormat.Dotx）]（https://apireference.aspose.com/words/net/aspose.words.document/save/methods）を使用してドキュメントを保存します/ 3）
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,10 +67,10 @@ stream.Flush();
 stream.Seek(0, SeekOrigin.Begin);
 // stream.Position = 0;
 
-// Load the content of the presentation to a Word dotxument
-var dotx = new Aspose.Words.Dotxument(stream);
+// Load the content of the presentation to a Word document
+var dotx = new Aspose.Words.Document(stream);
       
-// Save the Word DOTX dotxument
+// Save the Word DOTX document
 dotx.Save("output.dotx", Aspose.Words.SaveFormat.Dotx);
 
 ```
@@ -96,7 +96,7 @@ dotx.Save("output.dotx", Aspose.Words.SaveFormat.Dotx);
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/net/conversion/ppsx-to-dotx" name="PPSX に DOTX" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/net/conversion/ppsx-to-dotxx" name="PPSX に DOTXX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/net/conversion/ppsx-to-dotx" name="PPSX に DOTX" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/net/conversion/ppsx-to-rtf" name="PPSX に RTF" description="" >}}
 

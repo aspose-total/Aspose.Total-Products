@@ -37,8 +37,8 @@ PM> Install-Package Aspose.Total
 1. .NET용 Aspose.Slides 및 .NET용 Aspose.Words 참조 추가
 1. [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) 클래스를 사용하여 PowerPoint PPTM 프레젠테이션 로드
 1. 문서를 [MemoryStream](https://dotxs.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0) 개체에 저장합니다.
-1. [Aspose.Words.Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument) 생성 및 MemoryStream 객체로 초기화
-1. [Aspose.Words.Dotxument.Save("output.dotx", SaveFormat.Dotx)](https://apireference.aspose.com/words/net/aspose.words.dotxument/save/methods를 사용하여 문서를 저장합니다. /삼)
+1. [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) 생성 및 MemoryStream 객체로 초기화
+1. [Aspose.Words.Document.Save("output.dotx", SaveFormat.Dotx)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods를 사용하여 문서를 저장합니다. /삼)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,10 +67,10 @@ stream.Flush();
 stream.Seek(0, SeekOrigin.Begin);
 // stream.Position = 0;
 
-// Load the content of the presentation to a Word dotxument
-var dotx = new Aspose.Words.Dotxument(stream);
+// Load the content of the presentation to a Word document
+var dotx = new Aspose.Words.Document(stream);
       
-// Save the Word DOTX dotxument
+// Save the Word DOTX document
 dotx.Save("output.dotx", Aspose.Words.SaveFormat.Dotx);
 
 ```
@@ -96,7 +96,7 @@ dotx.Save("output.dotx", Aspose.Words.SaveFormat.Dotx);
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/net/conversion/pptm-to-dotx" name="PPTM 에게 DOTX" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/net/conversion/pptm-to-dotxx" name="PPTM 에게 DOTXX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/net/conversion/pptm-to-dotx" name="PPTM 에게 DOTX" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/net/conversion/pptm-to-rtf" name="PPTM 에게 RTF" description="" >}}
 

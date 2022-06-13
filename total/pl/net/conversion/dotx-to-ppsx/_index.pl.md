@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. Dodaj odwołanie do Aspose.Total dla .NET
-1. Załaduj plik DOTX za pomocą klasy [Aspose.Words.Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument)
+1. Załaduj plik DOTX za pomocą klasy [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document)
 1. Zapisz dokument DOTX w HTML
 1. Utwórz obiekt [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. Importuj zawartość HTML do ramki tekstowej dowolnego kształtu slajdu w prezentacji
@@ -59,12 +59,12 @@ PM> Install-Package Aspose.Total
 
 ```cs
 // Load the Single Page Microsoft Word DOTX file
-Aspose.Words.Dotxument dotx = new Aspose.Words.Dotxument("sourceWordFile.dotx");
+Aspose.Words.Document dotx = new Aspose.Words.Document("sourceWordFile.dotx");
 
 // Save DOTX file to HTML 
 dotx.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOTX dotxuments, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPSX.
+// To convert multi pages DOTX documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPSX.
 
 using (Presentation ppsx = new Presentation()){
 

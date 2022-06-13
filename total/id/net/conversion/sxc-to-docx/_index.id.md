@@ -19,8 +19,8 @@ otherformats: WORD PPTX POWERPOINT DOC
 {{% blocks/products/pf/agp/feature-section-col title="Konversi SXC ke DOCX di .NET" %}}
 1. Buka file SXC menggunakan kelas [Buku Kerja](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 2. Konversi SXC ke PDF dan atur SaveFormat ke Auto
-3. Muat file PDF yang dikonversi menggunakan kelas [Docxument](https://apireference.aspose.com/pdf/net/aspose.pdf/docxument)
-4. Simpan dokumen ke format DOCX menggunakan metode [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.docxument/save/methods/5) dan setel Docx sebagai SaveFormat
+3. Muat file PDF yang dikonversi menggunakan kelas [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
+4. Simpan dokumen ke format DOCX menggunakan metode [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) dan setel Docx sebagai SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
@@ -35,10 +35,10 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 var book = new Aspose.Cells.Workbook("input.sxc");
 // save SXC as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
-// load the PDF file using Docxument class
-var docxument = new Aspose.Pdf.Docxument("pdfOutput.pdf");
-// save docxument in DOCXX format
-docxument.Save("output.docxx", SaveFormat.DocxX); 
+// load the PDF file using Document class
+var document = new Aspose.Pdf.Document("pdfOutput.pdf");
+// save document in DOCX format
+document.Save("output.docx", SaveFormat.Docx); 
 ```
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}

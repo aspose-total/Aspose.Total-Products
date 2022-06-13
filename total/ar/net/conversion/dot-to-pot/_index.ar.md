@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. أضف مرجع Aspose.Total لـ .NET
-1. قم بتحميل ملف DOT باستخدام فئة [Aspose.Words.Dotument](https://apireference.aspose.com/words/net/aspose.words/dotument)
+1. قم بتحميل ملف DOT باستخدام فئة [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document)
 1. احفظ مستند DOT في تنسيق HTML
 1. قم بإنشاء كائن [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. استيراد محتوى HTML في إطار نصي لأي شكل شريحة داخل العرض التقديمي
@@ -59,12 +59,12 @@ PM> Install-Package Aspose.Total
 
 ```cs
 // Load the Single Page Microsoft Word DOT file
-Aspose.Words.Dotument dot = new Aspose.Words.Dotument("sourceWordFile.dot");
+Aspose.Words.Document dot = new Aspose.Words.Document("sourceWordFile.dot");
 
 // Save DOT file to HTML 
 dot.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOT dotuments, export each page to HTML separately using Aspose.Words and then use the below code to convert to POT.
+// To convert multi pages DOT documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to POT.
 
 using (Presentation pot = new Presentation()){
 

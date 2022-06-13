@@ -37,8 +37,8 @@ PM> Install-Package Aspose.Total
 1. 添加Aspose.Slides for .NET和Aspose.Words for .NET的引用
 1. 使用 [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) 類加載 PowerPoint POTX 演示文稿
 1. 將文檔保存到 [MemoryStream](https://dotxs.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0) 對像中
-1. 創建[Aspose.Words.Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument)並用MemoryStream對像初始化
-1. 使用[Aspose.Words.Dotxument.Save("output.dotx", SaveFormat.Dotx)](https://apireference.aspose.com/words/net/aspose.words.dotxument/save/methods)保存文檔/3)
+1. 創建[Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document)並用MemoryStream對像初始化
+1. 使用[Aspose.Words.Document.Save("output.dotx", SaveFormat.Dotx)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods)保存文檔/3)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,10 +67,10 @@ stream.Flush();
 stream.Seek(0, SeekOrigin.Begin);
 // stream.Position = 0;
 
-// Load the content of the presentation to a Word dotxument
-var dotx = new Aspose.Words.Dotxument(stream);
+// Load the content of the presentation to a Word document
+var dotx = new Aspose.Words.Document(stream);
       
-// Save the Word DOTX dotxument
+// Save the Word DOTX document
 dotx.Save("output.dotx", Aspose.Words.SaveFormat.Dotx);
 
 ```
@@ -96,7 +96,7 @@ dotx.Save("output.dotx", Aspose.Words.SaveFormat.Dotx);
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/net/conversion/potx-to-dotx" name="POTX 至 DOTX" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/net/conversion/potx-to-dotxx" name="POTX 至 DOTXX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/net/conversion/potx-to-dotx" name="POTX 至 DOTX" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/net/conversion/potx-to-rtf" name="POTX 至 RTF" description="" >}}
 

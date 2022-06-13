@@ -37,8 +37,8 @@ PM> Install-Package Aspose.Total
 1. .NET के लिए Aspose.Slides का संदर्भ जोड़ें और .NET के लिए Aspose.Words जोड़ें
 1. [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) वर्ग का उपयोग करके PowerPoint PPSX प्रस्तुति लोड करें
 1. दस्तावेज़ को [मेमोरीस्ट्रीम](https://dotxs.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0) ऑब्जेक्ट में सेव करें
-1. [Aspose.Words.Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument) बनाएं और इसे मेमोरीस्ट्रीम ऑब्जेक्ट के साथ प्रारंभ करें
-1. [Aspose.Words.Dotxument.Save("output.dotx", SaveFormat.Dotx)](https://apireference.aspose.com/words/net/aspose.words.dotxument/save/methods) का उपयोग करके दस्तावेज़ को सहेजें / 3)
+1. [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) बनाएं और इसे मेमोरीस्ट्रीम ऑब्जेक्ट के साथ प्रारंभ करें
+1. [Aspose.Words.Document.Save("output.dotx", SaveFormat.Dotx)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods) का उपयोग करके दस्तावेज़ को सहेजें / 3)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,10 +67,10 @@ stream.Flush();
 stream.Seek(0, SeekOrigin.Begin);
 // stream.Position = 0;
 
-// Load the content of the presentation to a Word dotxument
-var dotx = new Aspose.Words.Dotxument(stream);
+// Load the content of the presentation to a Word document
+var dotx = new Aspose.Words.Document(stream);
       
-// Save the Word DOTX dotxument
+// Save the Word DOTX document
 dotx.Save("output.dotx", Aspose.Words.SaveFormat.Dotx);
 
 ```
@@ -96,7 +96,7 @@ dotx.Save("output.dotx", Aspose.Words.SaveFormat.Dotx);
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/net/conversion/ppsx-to-dotx" name="PPSX प्रति DOTX" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/net/conversion/ppsx-to-dotxx" name="PPSX प्रति DOTXX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/net/conversion/ppsx-to-dotx" name="PPSX प्रति DOTX" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/net/conversion/ppsx-to-rtf" name="PPSX प्रति RTF" description="" >}}
 

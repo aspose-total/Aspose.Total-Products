@@ -19,8 +19,8 @@ otherformats: WORD DOC PPTX POWERPOINT
 {{% blocks/products/pf/agp/feature-section-col title="CSV-ből DOCX-ba konvertálás .NET-en" %}}
 1. Nyissa meg a CSV-fájlt a [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) osztály segítségével
 2. Alakítsa át a CSV-t PDF-be, és állítsa a SaveFormat beállítást Automatikusra
-3. Töltse be a konvertált PDF-fájlt a [Docxument](https://apireference.aspose.com/pdf/net/aspose.pdf/docxument) osztály használatával
-4. Mentse a dokumentumot DOCX formátumba a [Mentés](https://apireference.aspose.com/pdf/net/aspose.pdf.docxument/save/methods/5) módszerrel, és állítsa be a dokumentumot SaveFormat-ként
+3. Töltse be a konvertált PDF-fájlt a [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) osztály használatával
+4. Mentse a dokumentumot DOCX formátumba a [Mentés](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) módszerrel, és állítsa be a dokumentumot SaveFormat-ként
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
@@ -35,10 +35,10 @@ Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eke
 var book = new Aspose.Cells.Workbook("input.csv");
 // save CSV as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
-// load the PDF file using Docxument class
-var docxument = new Aspose.Pdf.Docxument("pdfOutput.pdf");
-// save docxument in DOCXX format
-docxument.Save("output.docxx", SaveFormat.DocxX); 
+// load the PDF file using Document class
+var document = new Aspose.Pdf.Document("pdfOutput.pdf");
+// save document in DOCX format
+document.Save("output.docx", SaveFormat.Docx); 
 ```
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}

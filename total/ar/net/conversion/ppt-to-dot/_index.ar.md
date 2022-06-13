@@ -37,8 +37,8 @@ PM> Install-Package Aspose.Total
 1. أضف مرجع Aspose.Slides لـ .NET و Aspose.Words لـ .NET
 1. قم بتحميل عرض PowerPoint PPT باستخدام فئة [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. احفظ المستند في كائن [MemoryStream](https://dots.microsoft.com/en-us/dotnet/api/system.io.memorystream؟view=net-5.0)
-1. قم بإنشاء [Aspose.Words.Dotument](https://apireference.aspose.com/words/net/aspose.words/dotument) وقم بتهيئته باستخدام كائن MemoryStream
-1. احفظ المستند باستخدام [Aspose.Words.Dotument.Save ("output.dot"، SaveFormat.Dot)](https://apireference.aspose.com/words/net/aspose.words.dotument/save/methods/3)
+1. قم بإنشاء [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) وقم بتهيئته باستخدام كائن MemoryStream
+1. احفظ المستند باستخدام [Aspose.Words.Document.Save ("output.dot"، SaveFormat.Dot)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,10 +67,10 @@ stream.Flush();
 stream.Seek(0, SeekOrigin.Begin);
 // stream.Position = 0;
 
-// Load the content of the presentation to a Word dotument
-var dot = new Aspose.Words.Dotument(stream);
+// Load the content of the presentation to a Word document
+var dot = new Aspose.Words.Document(stream);
       
-// Save the Word DOT dotument
+// Save the Word DOT document
 dot.Save("output.dot", Aspose.Words.SaveFormat.Dot);
 
 ```

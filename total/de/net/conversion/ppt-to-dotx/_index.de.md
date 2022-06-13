@@ -37,8 +37,8 @@ PM> Install-Package Aspose.Total
 1. Fügen Sie den Verweis auf Aspose.Slides für .NET und Aspose.Words für .NET hinzu
 1. Laden Sie die PowerPoint-PPT-Präsentation mithilfe der Klasse [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation).
 1. Speichern Sie das Dokument im Objekt [MemoryStream](https://dotxs.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0).
-1. Erstellen Sie [Aspose.Words.Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument) und initialisieren Sie es mit dem MemoryStream-Objekt
-1. Speichern Sie das Dokument mit [Aspose.Words.Dotxument.Save("output.dotx", SaveFormat.Dotx)](https://apireference.aspose.com/words/net/aspose.words.dotxument/save/methods /3)
+1. Erstellen Sie [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) und initialisieren Sie es mit dem MemoryStream-Objekt
+1. Speichern Sie das Dokument mit [Aspose.Words.Document.Save("output.dotx", SaveFormat.Dotx)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods /3)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,10 +67,10 @@ stream.Flush();
 stream.Seek(0, SeekOrigin.Begin);
 // stream.Position = 0;
 
-// Load the content of the presentation to a Word dotxument
-var dotx = new Aspose.Words.Dotxument(stream);
+// Load the content of the presentation to a Word document
+var dotx = new Aspose.Words.Document(stream);
       
-// Save the Word DOTX dotxument
+// Save the Word DOTX document
 dotx.Save("output.dotx", Aspose.Words.SaveFormat.Dotx);
 
 ```
@@ -96,7 +96,7 @@ dotx.Save("output.dotx", Aspose.Words.SaveFormat.Dotx);
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/net/conversion/ppt-to-dotx" name="PPT Zu DOTX" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/net/conversion/ppt-to-dotxx" name="PPT Zu DOTXX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/net/conversion/ppt-to-dotx" name="PPT Zu DOTX" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/net/conversion/ppt-to-rtf" name="PPT Zu RTF" description="" >}}
 

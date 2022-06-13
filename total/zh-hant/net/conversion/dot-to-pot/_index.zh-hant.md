@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. 為.NET添加Aspose.Total的引用
-1. 使用[Aspose.Words.Dotument](https://apireference.aspose.com/words/net/aspose.words/dotument)類加載DOT文件
+1. 使用[Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document)類加載DOT文件
 1. 將DOT文檔保存為HTML
 1. 創建[Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)對象
 1. 在演示文稿內任意幻燈片形狀的文本框中導入HTML內容
@@ -59,12 +59,12 @@ PM> Install-Package Aspose.Total
 
 ```cs
 // Load the Single Page Microsoft Word DOT file
-Aspose.Words.Dotument dot = new Aspose.Words.Dotument("sourceWordFile.dot");
+Aspose.Words.Document dot = new Aspose.Words.Document("sourceWordFile.dot");
 
 // Save DOT file to HTML 
 dot.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOT dotuments, export each page to HTML separately using Aspose.Words and then use the below code to convert to POT.
+// To convert multi pages DOT documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to POT.
 
 using (Presentation pot = new Presentation()){
 

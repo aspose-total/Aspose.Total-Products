@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. เพิ่มการอ้างอิงของ Aspose.Total สำหรับ .NET
-1. โหลดไฟล์ DOTX โดยใช้คลาส [Aspose.Words.Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument)
+1. โหลดไฟล์ DOTX โดยใช้คลาส [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document)
 1. บันทึกเอกสาร DOTX เป็น HTML
 1. สร้าง [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) Object
 1. นำเข้าเนื้อหา HTML ในกรอบข้อความของรูปร่างสไลด์ภายในงานนำเสนอ
@@ -59,12 +59,12 @@ PM> Install-Package Aspose.Total
 
 ```cs
 // Load the Single Page Microsoft Word DOTX file
-Aspose.Words.Dotxument dotx = new Aspose.Words.Dotxument("sourceWordFile.dotx");
+Aspose.Words.Document dotx = new Aspose.Words.Document("sourceWordFile.dotx");
 
 // Save DOTX file to HTML 
 dotx.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOTX dotxuments, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPSM.
+// To convert multi pages DOTX documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPSM.
 
 using (Presentation ppsm = new Presentation()){
 

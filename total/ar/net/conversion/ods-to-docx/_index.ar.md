@@ -19,8 +19,8 @@ otherformats: PPTX DOC POWERPOINT WORD
 {{% blocks/products/pf/agp/feature-section-col title="تحويل ODS إلى DOCX على .NET" %}}
 1. افتح ملف ODS باستخدام فئة [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 2. تحويل ODS إلى PDF وضبط SaveFormat على Auto
-3. قم بتحميل ملف PDF المحول باستخدام فئة [Docxument](https://apireference.aspose.com/pdf/net/aspose.pdf/docxument)
-4. احفظ المستند بتنسيق DOCX باستخدام طريقة [حفظ](https://apireference.aspose.com/pdf/net/aspose.pdf.docxument/save/methods/5) وقم بتعيين Docx كـ SaveFormat
+3. قم بتحميل ملف PDF المحول باستخدام فئة [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
+4. احفظ المستند بتنسيق DOCX باستخدام طريقة [حفظ](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) وقم بتعيين Docx كـ SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
@@ -35,10 +35,10 @@ otherformats: PPTX DOC POWERPOINT WORD
 var book = new Aspose.Cells.Workbook("input.ods");
 // save ODS as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
-// load the PDF file using Docxument class
-var docxument = new Aspose.Pdf.Docxument("pdfOutput.pdf");
-// save docxument in DOCXX format
-docxument.Save("output.docxx", SaveFormat.DocxX); 
+// load the PDF file using Document class
+var document = new Aspose.Pdf.Document("pdfOutput.pdf");
+// save document in DOCX format
+document.Save("output.docx", SaveFormat.Docx); 
 ```
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}

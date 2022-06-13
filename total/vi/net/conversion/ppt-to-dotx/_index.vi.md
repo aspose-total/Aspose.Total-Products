@@ -37,8 +37,8 @@ PM> Install-Package Aspose.Total
 1. Thêm tham chiếu của Aspose.Slides cho .NET và Aspose.Words cho .NET
 1. Tải bản trình bày PowerPoint PPT bằng lớp [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. Lưu tài liệu vào [MemoryStream](https://dotxs.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0) Đối tượng
-1. Tạo [Aspose.Words.Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument) và phức tạp hóa nó bằng MemoryStream Object
-1. Lưu tài liệu bằng [Aspose.Words.Dotxument.Save ("output.dotx", SaveFormat.Dotx)](https://apireference.aspose.com/words/net/aspose.words.dotxument/save/methods/3)
+1. Tạo [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) và phức tạp hóa nó bằng MemoryStream Object
+1. Lưu tài liệu bằng [Aspose.Words.Document.Save ("output.dotx", SaveFormat.Dotx)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,10 +67,10 @@ stream.Flush();
 stream.Seek(0, SeekOrigin.Begin);
 // stream.Position = 0;
 
-// Load the content of the presentation to a Word dotxument
-var dotx = new Aspose.Words.Dotxument(stream);
+// Load the content of the presentation to a Word document
+var dotx = new Aspose.Words.Document(stream);
       
-// Save the Word DOTX dotxument
+// Save the Word DOTX document
 dotx.Save("output.dotx", Aspose.Words.SaveFormat.Dotx);
 
 ```
@@ -96,7 +96,7 @@ dotx.Save("output.dotx", Aspose.Words.SaveFormat.Dotx);
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/net/conversion/ppt-to-dotx" name="PPT Đến DOTX" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/net/conversion/ppt-to-dotxx" name="PPT Đến DOTXX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/net/conversion/ppt-to-dotx" name="PPT Đến DOTX" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/net/conversion/ppt-to-rtf" name="PPT Đến RTF" description="" >}}
 

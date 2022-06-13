@@ -19,8 +19,8 @@ otherformats: DOC POWERPOINT PPTX WORD
 {{% blocks/products/pf/agp/feature-section-col title=".NET 上的 XLS 到 DOCX 轉換" %}}
 1. 使用 [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) 類打開 XLS 文件
 2. 將 XLS 轉換為 PDF 並將 SaveFormat 設置為 Auto
-3.使用[Docxument](https://apireference.aspose.com/pdf/net/aspose.pdf/docxument)類加載轉換後的PDF文件
-4. 使用[Save](https://apireference.aspose.com/pdf/net/aspose.pdf.docxument/save/methods/5)方法將文檔保存為DOCX格式，並將Docx設置為SaveFormat
+3.使用[Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)類加載轉換後的PDF文件
+4. 使用[Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)方法將文檔保存為DOCX格式，並將Docx設置為SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="轉換要求" %}}
@@ -35,10 +35,10 @@ otherformats: DOC POWERPOINT PPTX WORD
 var book = new Aspose.Cells.Workbook("input.xls");
 // save XLS as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
-// load the PDF file using Docxument class
-var docxument = new Aspose.Pdf.Docxument("pdfOutput.pdf");
-// save docxument in DOCXX format
-docxument.Save("output.docxx", SaveFormat.DocxX); 
+// load the PDF file using Document class
+var document = new Aspose.Pdf.Document("pdfOutput.pdf");
+// save document in DOCX format
+document.Save("output.docx", SaveFormat.Docx); 
 ```
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}

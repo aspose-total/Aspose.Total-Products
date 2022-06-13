@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. Aspose का संदर्भ जोड़ें। .NET के लिए कुल
-1. [Aspose.Words.Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument) वर्ग का उपयोग करके DOTX फ़ाइल लोड करें
+1. [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) वर्ग का उपयोग करके DOTX फ़ाइल लोड करें
 1. DOTX दस्तावेज़ को HTML में सहेजें
 1. बनाएं [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) ऑब्जेक्ट
 1. प्रस्तुति के अंदर किसी भी स्लाइड आकार के टेक्स्ट फ्रेम में HTML सामग्री आयात करें
@@ -59,12 +59,12 @@ PM> Install-Package Aspose.Total
 
 ```cs
 // Load the Single Page Microsoft Word DOTX file
-Aspose.Words.Dotxument dotx = new Aspose.Words.Dotxument("sourceWordFile.dotx");
+Aspose.Words.Document dotx = new Aspose.Words.Document("sourceWordFile.dotx");
 
 // Save DOTX file to HTML 
 dotx.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOTX dotxuments, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPS.
+// To convert multi pages DOTX documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPS.
 
 using (Presentation pps = new Presentation()){
 

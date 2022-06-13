@@ -1,7 +1,7 @@
 ---
 title: Converteer DOTX naar PPSM via C# .NET 
 url: /nl/net/conversion/dotx-to-ppsm/ 
-description: Converteer Word-dotxumentdotxumenten naar PowerPoint PPSM-bestanden met C#. Converteer meerdere bestanden binnen ASP.NET of andere .NET-toepassingen.
+description: Converteer Word-documentdocumenten naar PowerPoint PPSM-bestanden met C#. Converteer meerdere bestanden binnen ASP.NET of andere .NET-toepassingen.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,7 +12,7 @@ description: Converteer Word-dotxumentdotxumenten naar PowerPoint PPSM-bestanden
 
 {{% blocks/products/pf/agp/content h2="Hoe DOTX naar PPSM te converteren met C#" %}}
 
-Om het proces voor alle Word-dotxumentbestanden naar PowerPoint ppsm-presentatiebatchconversie te automatiseren, gebruiken we [Aspose.Words for .NET](https://products.aspose.com/words/net) en [Aspose.Slides voor .NET](https://products.aspose.com/slides/net) API's. De eerste is een tekstverwerkings-API voor het verwerken of manipuleren van Microsoft Word-dotxumenten. Terwijl de laatste een presentatiemanipulatie-API is waarmee u Microsoft PowerPoint-dia's kunt maken of wijzigen. Beide API's maken deel uit van het pakket [Aspose.Total for .NET](https://products.aspose.com/total/net). U kunt rechtstreeks [download](https://downloads.aspose.com/) van Nuget of u kunt de volgende opdrachten gebruiken vanuit de Package Manager Console.
+Om het proces voor alle Word-documentbestanden naar PowerPoint ppsm-presentatiebatchconversie te automatiseren, gebruiken we [Aspose.Words for .NET](https://products.aspose.com/words/net) en [Aspose.Slides voor .NET](https://products.aspose.com/slides/net) API's. De eerste is een tekstverwerkings-API voor het verwerken of manipuleren van Microsoft Word-documenten. Terwijl de laatste een presentatiemanipulatie-API is waarmee u Microsoft PowerPoint-dia's kunt maken of wijzigen. Beide API's maken deel uit van het pakket [Aspose.Total for .NET](https://products.aspose.com/total/net). U kunt rechtstreeks [download](https://downloads.aspose.com/) van Nuget of u kunt de volgende opdrachten gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakketbeheer Console-opdracht" offSpacer="true" %}}
 
@@ -35,11 +35,11 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. Referentie toevoegen van Aspose.Total voor .NET
-1. Laad het DOTX-bestand met de klasse [Aspose.Words.Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument)
-1. Sla het DOTX-dotxument op in HTML
+1. Laad het DOTX-bestand met de klasse [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document)
+1. Sla het DOTX-document op in HTML
 1. Maak een [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) object
 1. Importeer HTML-inhoud in tekstkader van elke diavorm in de presentatie
-1. Sla het dotxument op met [Aspose.Slides.Presentation.Save("output.ppsm", SaveFormat.Ppsm)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods /5)
+1. Sla het document op met [Aspose.Slides.Presentation.Save("output.ppsm", SaveFormat.Ppsm)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods /5)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -59,12 +59,12 @@ PM> Install-Package Aspose.Total
 
 ```cs
 // Load the Single Page Microsoft Word DOTX file
-Aspose.Words.Dotxument dotx = new Aspose.Words.Dotxument("sourceWordFile.dotx");
+Aspose.Words.Document dotx = new Aspose.Words.Document("sourceWordFile.dotx");
 
 // Save DOTX file to HTML 
 dotx.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOTX dotxuments, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPSM.
+// To convert multi pages DOTX documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPSM.
 
 using (Presentation ppsm = new Presentation()){
 

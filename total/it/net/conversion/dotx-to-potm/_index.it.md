@@ -1,7 +1,7 @@
 ---
 title: Converti DOTX in POTM tramite C# .NET 
 url: /it/net/conversion/dotx-to-potm/ 
-description: Converti dotxumenti Word in file potm PowerPoint con C#. Converti più file all'interno di ASP.NET o altre applicazioni .NET.
+description: Converti documenti Word in file potm PowerPoint con C#. Converti più file all'interno di ASP.NET o altre applicazioni .NET.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,7 +12,7 @@ description: Converti dotxumenti Word in file potm PowerPoint con C#. Converti p
 
 {{% blocks/products/pf/agp/content h2="Come convertire DOTX in POTM usando C#" %}}
 
-Al fine di automatizzare il processo per qualsiasi file di Word dotx nella conversione batch di presentazioni PowerPoint potm, utilizzeremo [Aspose.Words for .NET](https://products.aspose.com/words/net) e [Aspose.Slides per .NET](https://products.aspose.com/slides/net) API. La prima è un'API di elaborazione testi per l'elaborazione o la manipolazione di dotxumenti Microsoft Word. Considerando che quest'ultima è un'API di manipolazione della presentazione che ti consente di creare o modificare diapositive di Microsoft PowerPoint. Entrambe le API fanno parte del pacchetto [Aspose.Total for .NET](https://products.aspose.com/total/net). Puoi [scaricare](https://downloads.aspose.com/) direttamente da Nuget o utilizzare i seguenti comandi dalla Console di Gestione pacchetti.
+Al fine di automatizzare il processo per qualsiasi file di Word dotx nella conversione batch di presentazioni PowerPoint potm, utilizzeremo [Aspose.Words for .NET](https://products.aspose.com/words/net) e [Aspose.Slides per .NET](https://products.aspose.com/slides/net) API. La prima è un'API di elaborazione testi per l'elaborazione o la manipolazione di documenti Microsoft Word. Considerando che quest'ultima è un'API di manipolazione della presentazione che ti consente di creare o modificare diapositive di Microsoft PowerPoint. Entrambe le API fanno parte del pacchetto [Aspose.Total for .NET](https://products.aspose.com/total/net). Puoi [scaricare](https://downloads.aspose.com/) direttamente da Nuget o utilizzare i seguenti comandi dalla Console di Gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Comando della console di gestione dei pacchetti" offSpacer="true" %}}
 
@@ -35,11 +35,11 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. Aggiungere il riferimento di Aspose.Total per .NET
-1. Caricare il file DOTX utilizzando la classe [Aspose.Words.Dotxument](https://apiference.aspose.com/words/net/aspose.words/dotxument)
-1. Salva il dotxumento DOTX in HTML
+1. Caricare il file DOTX utilizzando la classe [Aspose.Words.Document](https://apiference.aspose.com/words/net/aspose.words/document)
+1. Salva il documento DOTX in HTML
 1. Crea un oggetto [Aspose.Slides.Presentation](https://apiference.aspose.com/slides/net/aspose.slides/presentation)
 1. Importa contenuto HTML nella cornice di testo di qualsiasi forma di diapositiva all'interno della presentazione
-1. Salvare il dotxumento utilizzando [Aspose.Slides.Presentation.Save("output.potm", SaveFormat.Potm)](https://apiference.aspose.com/slides/net/aspose.slides.presentation/save/methods /5)
+1. Salvare il documento utilizzando [Aspose.Slides.Presentation.Save("output.potm", SaveFormat.Potm)](https://apiference.aspose.com/slides/net/aspose.slides.presentation/save/methods /5)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -59,12 +59,12 @@ PM> Install-Package Aspose.Total
 
 ```cs
 // Load the Single Page Microsoft Word DOTX file
-Aspose.Words.Dotxument dotx = new Aspose.Words.Dotxument("sourceWordFile.dotx");
+Aspose.Words.Document dotx = new Aspose.Words.Document("sourceWordFile.dotx");
 
 // Save DOTX file to HTML 
 dotx.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOTX dotxuments, export each page to HTML separately using Aspose.Words and then use the below code to convert to POTM.
+// To convert multi pages DOTX documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to POTM.
 
 using (Presentation potm = new Presentation()){
 

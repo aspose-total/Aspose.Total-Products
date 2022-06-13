@@ -37,8 +37,8 @@ PM> Install-Package Aspose.Total
 1. Dodaj odwołanie do Aspose.Slides dla .NET i Aspose.Words dla .NET
 1. Załaduj prezentację PowerPoint POT za pomocą klasy [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. Zapisz dokument w obiekcie [MemoryStream](https://dotxs.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0)
-1. Utwórz [Aspose.Words.Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument) i zainicjuj go za pomocą obiektu MemoryStream
-1. Zapisz dokument za pomocą [Aspose.Words.Dotxument.Save("output.dotx", SaveFormat.Dotx)](https://apireference.aspose.com/words/net/aspose.words.dotxument/save/methods /3)
+1. Utwórz [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) i zainicjuj go za pomocą obiektu MemoryStream
+1. Zapisz dokument za pomocą [Aspose.Words.Document.Save("output.dotx", SaveFormat.Dotx)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods /3)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,10 +67,10 @@ stream.Flush();
 stream.Seek(0, SeekOrigin.Begin);
 // stream.Position = 0;
 
-// Load the content of the presentation to a Word dotxument
-var dotx = new Aspose.Words.Dotxument(stream);
+// Load the content of the presentation to a Word document
+var dotx = new Aspose.Words.Document(stream);
       
-// Save the Word DOTX dotxument
+// Save the Word DOTX document
 dotx.Save("output.dotx", Aspose.Words.SaveFormat.Dotx);
 
 ```
@@ -96,7 +96,7 @@ dotx.Save("output.dotx", Aspose.Words.SaveFormat.Dotx);
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/net/conversion/pot-to-dotx" name="POT Do DOTX" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/net/conversion/pot-to-dotxx" name="POT Do DOTXX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/net/conversion/pot-to-dotx" name="POT Do DOTX" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/net/conversion/pot-to-rtf" name="POT Do RTF" description="" >}}
 

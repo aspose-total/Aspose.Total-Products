@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. Thêm tham chiếu của Aspose.Total cho .NET
-1. Tải tệp DOT bằng lớp [Aspose.Words.Dotument](https://apireference.aspose.com/words/net/aspose.words/dotument)
+1. Tải tệp DOT bằng lớp [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document)
 1. Lưu tài liệu DOT thành HTML
 1. Tạo đối tượng [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. Nhập nội dung HTML trong khung văn bản của bất kỳ hình dạng trang chiếu nào bên trong bản trình bày
@@ -59,12 +59,12 @@ PM> Install-Package Aspose.Total
 
 ```cs
 // Load the Single Page Microsoft Word DOT file
-Aspose.Words.Dotument dot = new Aspose.Words.Dotument("sourceWordFile.dot");
+Aspose.Words.Document dot = new Aspose.Words.Document("sourceWordFile.dot");
 
 // Save DOT file to HTML 
 dot.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOT dotuments, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPSX.
+// To convert multi pages DOT documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPSX.
 
 using (Presentation ppsx = new Presentation()){
 

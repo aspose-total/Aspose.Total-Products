@@ -19,8 +19,8 @@ otherformats: POWERPOINT WORD DOC PPTX
 {{% blocks/products/pf/agp/feature-section-col title="XLSB till DOCX-konvertering på .NET" %}}
 1. Öppna XLSB-filen med klassen [Arbetsbok](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 2. Konvertera XLSB till PDF och ställ in SaveFormat till Auto
-3. Ladda den konverterade PDF-filen med klassen [Docxument](https://apireference.aspose.com/pdf/net/aspose.pdf/docxument)
-4. Spara dokumentet i DOCX-format med metoden [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.docxument/save/methods/5) och ställ in Docx som SaveFormat
+3. Ladda den konverterade PDF-filen med klassen [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
+4. Spara dokumentet i DOCX-format med metoden [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) och ställ in Docx som SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
@@ -35,10 +35,10 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 var book = new Aspose.Cells.Workbook("input.xlsb");
 // save XLSB as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
-// load the PDF file using Docxument class
-var docxument = new Aspose.Pdf.Docxument("pdfOutput.pdf");
-// save docxument in DOCXX format
-docxument.Save("output.docxx", SaveFormat.DocxX); 
+// load the PDF file using Document class
+var document = new Aspose.Pdf.Document("pdfOutput.pdf");
+// save document in DOCX format
+document.Save("output.docx", SaveFormat.Docx); 
 ```
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}

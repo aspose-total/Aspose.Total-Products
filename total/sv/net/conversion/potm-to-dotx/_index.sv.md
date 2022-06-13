@@ -37,8 +37,8 @@ PM> Install-Package Aspose.Total
 1. Lägg till referens för Aspose.Slides för .NET och Aspose.Words för .NET
 1. Ladda PowerPoint POTM-presentation med klassen [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. Spara dokumentet i [MemoryStream](https://dotxs.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0) Object
-1. Skapa [Aspose.Words.Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument) och initialisera det med MemoryStream Object
-1. Spara dokumentet med [Aspose.Words.Dotxument.Save("output.dotx", SaveFormat.Dotx)](https://apireference.aspose.com/words/net/aspose.words.dotxument/save/methods /3)
+1. Skapa [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) och initialisera det med MemoryStream Object
+1. Spara dokumentet med [Aspose.Words.Document.Save("output.dotx", SaveFormat.Dotx)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods /3)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,10 +67,10 @@ stream.Flush();
 stream.Seek(0, SeekOrigin.Begin);
 // stream.Position = 0;
 
-// Load the content of the presentation to a Word dotxument
-var dotx = new Aspose.Words.Dotxument(stream);
+// Load the content of the presentation to a Word document
+var dotx = new Aspose.Words.Document(stream);
       
-// Save the Word DOTX dotxument
+// Save the Word DOTX document
 dotx.Save("output.dotx", Aspose.Words.SaveFormat.Dotx);
 
 ```
@@ -96,7 +96,7 @@ dotx.Save("output.dotx", Aspose.Words.SaveFormat.Dotx);
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/net/conversion/potm-to-dotx" name="POTM Till DOTX" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/net/conversion/potm-to-dotxx" name="POTM Till DOTXX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/net/conversion/potm-to-dotx" name="POTM Till DOTX" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/net/conversion/potm-to-rtf" name="POTM Till RTF" description="" >}}
 

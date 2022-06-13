@@ -19,8 +19,8 @@ otherformats: POWERPOINT WORD PPTX DOC
 {{% blocks/products/pf/agp/feature-section-col title="Konwersja XLT do DOCX w .NET" %}}
 1. Otwórz plik XLT za pomocą klasy [Książka](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 2. Konwertuj XLT na PDF i ustaw SaveFormat na Auto
-3. Załaduj przekonwertowany plik PDF za pomocą klasy [Docxument](https://apireference.aspose.com/pdf/net/aspose.pdf/docxument)
-4. Zapisz dokument w formacie DOCX za pomocą metody [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.docxument/save/methods/5) i ustaw Docx jako SaveFormat
+3. Załaduj przekonwertowany plik PDF za pomocą klasy [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
+4. Zapisz dokument w formacie DOCX za pomocą metody [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) i ustaw Docx jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
@@ -35,10 +35,10 @@ Możesz też pobrać instalator offline MSI lub biblioteki DLL w pliku ZIP ze st
 var book = new Aspose.Cells.Workbook("input.xlt");
 // save XLT as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
-// load the PDF file using Docxument class
-var docxument = new Aspose.Pdf.Docxument("pdfOutput.pdf");
-// save docxument in DOCXX format
-docxument.Save("output.docxx", SaveFormat.DocxX); 
+// load the PDF file using Document class
+var document = new Aspose.Pdf.Document("pdfOutput.pdf");
+// save document in DOCX format
+document.Save("output.docx", SaveFormat.Docx); 
 ```
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}

@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. Aspose का संदर्भ जोड़ें। .NET के लिए कुल
-1. [Aspose.Words.Dotument](https://apireference.aspose.com/words/net/aspose.words/dotument) वर्ग का उपयोग करके DOT फ़ाइल लोड करें
+1. [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) वर्ग का उपयोग करके DOT फ़ाइल लोड करें
 1. DOT दस्तावेज़ को HTML में सहेजें
 1. बनाएं [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) ऑब्जेक्ट
 1. प्रस्तुति के अंदर किसी भी स्लाइड आकार के टेक्स्ट फ्रेम में HTML सामग्री आयात करें
@@ -59,12 +59,12 @@ PM> Install-Package Aspose.Total
 
 ```cs
 // Load the Single Page Microsoft Word DOT file
-Aspose.Words.Dotument dot = new Aspose.Words.Dotument("sourceWordFile.dot");
+Aspose.Words.Document dot = new Aspose.Words.Document("sourceWordFile.dot");
 
 // Save DOT file to HTML 
 dot.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOT dotuments, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPTM.
+// To convert multi pages DOT documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPTM.
 
 using (Presentation pptm = new Presentation()){
 

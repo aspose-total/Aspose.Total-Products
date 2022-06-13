@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. Lägg till referens för Aspose.Total för .NET
-1. Ladda DOT-fil med klassen [Aspose.Words.Dotument](https://apireference.aspose.com/words/net/aspose.words/dotument)
+1. Ladda DOT-fil med klassen [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document)
 1. Spara DOT-dokumentet i HTML
 1. Skapa [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) objekt
 1. Importera HTML-innehåll i textramen i valfri bildform i presentationen
@@ -59,12 +59,12 @@ PM> Install-Package Aspose.Total
 
 ```cs
 // Load the Single Page Microsoft Word DOT file
-Aspose.Words.Dotument dot = new Aspose.Words.Dotument("sourceWordFile.dot");
+Aspose.Words.Document dot = new Aspose.Words.Document("sourceWordFile.dot");
 
 // Save DOT file to HTML 
 dot.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOT dotuments, export each page to HTML separately using Aspose.Words and then use the below code to convert to POTM.
+// To convert multi pages DOT documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to POTM.
 
 using (Presentation potm = new Presentation()){
 

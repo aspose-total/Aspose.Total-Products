@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. .NET용 Aspose.Total 참조 추가
-1. [Aspose.Words.Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument) 클래스를 사용하여 DOTX 파일 로드
+1. [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) 클래스를 사용하여 DOTX 파일 로드
 1. DOTX 문서를 HTML로 저장
 1. [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) 객체 생성
 1. 프레젠테이션 내부의 모든 슬라이드 모양의 텍스트 프레임에 HTML 콘텐츠 가져오기
@@ -59,12 +59,12 @@ PM> Install-Package Aspose.Total
 
 ```cs
 // Load the Single Page Microsoft Word DOTX file
-Aspose.Words.Dotxument dotx = new Aspose.Words.Dotxument("sourceWordFile.dotx");
+Aspose.Words.Document dotx = new Aspose.Words.Document("sourceWordFile.dotx");
 
 // Save DOTX file to HTML 
 dotx.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOTX dotxuments, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPSM.
+// To convert multi pages DOTX documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPSM.
 
 using (Presentation ppsm = new Presentation()){
 

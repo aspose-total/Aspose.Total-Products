@@ -37,8 +37,8 @@ PM> Install-Package Aspose.Total
 1. Aspose.Slides for .NET ve Aspose.Words for .NET referanslarını ekleyin
 1. [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) sınıfını kullanarak PowerPoint POTX sunumunu yükleyin
 1. Belgeyi [MemoryStream](https://dotxs.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0) Nesnesine kaydedin
-1. [Aspose.Words.Dotxument](https://apireference.aspose.com/words/net/aspose.words/dotxument) oluşturun ve bunu MemoryStream Object ile başlatın
-1. Belgeyi [Aspose.Words.Dotxument.Save("output.dotx", SaveFormat.Dotx)](https://apireference.aspose.com/words/net/aspose.words.dotxument/save/methods) kullanarak kaydedin /3)
+1. [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) oluşturun ve bunu MemoryStream Object ile başlatın
+1. Belgeyi [Aspose.Words.Document.Save("output.dotx", SaveFormat.Dotx)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods) kullanarak kaydedin /3)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,10 +67,10 @@ stream.Flush();
 stream.Seek(0, SeekOrigin.Begin);
 // stream.Position = 0;
 
-// Load the content of the presentation to a Word dotxument
-var dotx = new Aspose.Words.Dotxument(stream);
+// Load the content of the presentation to a Word document
+var dotx = new Aspose.Words.Document(stream);
       
-// Save the Word DOTX dotxument
+// Save the Word DOTX document
 dotx.Save("output.dotx", Aspose.Words.SaveFormat.Dotx);
 
 ```
@@ -96,7 +96,7 @@ dotx.Save("output.dotx", Aspose.Words.SaveFormat.Dotx);
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/net/conversion/potx-to-dotx" name="POTX İle DOTX" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/net/conversion/potx-to-dotxx" name="POTX İle DOTXX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/net/conversion/potx-to-dotx" name="POTX İle DOTX" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/net/conversion/potx-to-rtf" name="POTX İle RTF" description="" >}}
 

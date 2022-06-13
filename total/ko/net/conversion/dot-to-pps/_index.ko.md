@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. .NET용 Aspose.Total 참조 추가
-1. [Aspose.Words.Dotument](https://apireference.aspose.com/words/net/aspose.words/dotument) 클래스를 사용하여 DOT 파일 로드
+1. [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) 클래스를 사용하여 DOT 파일 로드
 1. DOT 문서를 HTML로 저장
 1. [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) 객체 생성
 1. 프레젠테이션 내부의 모든 슬라이드 모양의 텍스트 프레임에 HTML 콘텐츠 가져오기
@@ -59,12 +59,12 @@ PM> Install-Package Aspose.Total
 
 ```cs
 // Load the Single Page Microsoft Word DOT file
-Aspose.Words.Dotument dot = new Aspose.Words.Dotument("sourceWordFile.dot");
+Aspose.Words.Document dot = new Aspose.Words.Document("sourceWordFile.dot");
 
 // Save DOT file to HTML 
 dot.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOT dotuments, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPS.
+// To convert multi pages DOT documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPS.
 
 using (Presentation pps = new Presentation()){
 

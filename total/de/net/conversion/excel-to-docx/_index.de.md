@@ -19,8 +19,8 @@ otherformats: WORD DOC PPTX POWERPOINT
 {{% blocks/products/pf/agp/feature-section-col title="EXCEL-zu-DOCX-Konvertierung auf .NET" %}}
 1. Öffnen Sie die EXCEL-Datei mit der Klasse [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
 2. Konvertieren Sie EXCEL in PDF und setzen Sie SaveFormat auf Auto
-3. Laden Sie die konvertierte PDF-Datei mit der Klasse [Docxument](https://apireference.aspose.com/pdf/net/aspose.pdf/docxument).
-4. Speichern Sie das Dokument mit der Methode [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.docxument/save/methods/5) im DOCX-Format und legen Sie Docx als SaveFormat fest
+3. Laden Sie die konvertierte PDF-Datei mit der Klasse [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document).
+4. Speichern Sie das Dokument mit der Methode [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) im DOCX-Format und legen Sie Docx als SaveFormat fest
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
@@ -35,10 +35,10 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 var book = new Aspose.Cells.Workbook("input.excel");
 // save EXCEL as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
-// load the PDF file using Docxument class
-var docxument = new Aspose.Pdf.Docxument("pdfOutput.pdf");
-// save docxument in DOCXX format
-docxument.Save("output.docxx", SaveFormat.DocxX); 
+// load the PDF file using Document class
+var document = new Aspose.Pdf.Document("pdfOutput.pdf");
+// save document in DOCX format
+document.Save("output.docx", SaveFormat.Docx); 
 ```
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}

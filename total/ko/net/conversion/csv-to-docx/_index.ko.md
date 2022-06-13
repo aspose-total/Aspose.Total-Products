@@ -19,8 +19,8 @@ otherformats: WORD DOC PPTX POWERPOINT
 {{% blocks/products/pf/agp/feature-section-col title=".NET에서 CSV에서 DOCX로 변환" %}}
 1. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) 클래스를 사용하여 CSV 파일 열기
 2. CSV를 PDF로 변환하고 SaveFormat을 자동으로 설정
-3. 변환된 PDF 파일을 [문서](https://apireference.aspose.com/pdf/net/aspose.pdf/docxument) 클래스를 이용하여 불러옵니다.
-4. [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.docxument/save/methods/5) 방법을 사용하여 문서를 DOCX 형식으로 저장하고 Docx을 SaveFormat으로 설정합니다.
+3. 변환된 PDF 파일을 [문서](https://apireference.aspose.com/pdf/net/aspose.pdf/document) 클래스를 이용하여 불러옵니다.
+4. [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) 방법을 사용하여 문서를 DOCX 형식으로 저장하고 Docx을 SaveFormat으로 설정합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
@@ -35,10 +35,10 @@ otherformats: WORD DOC PPTX POWERPOINT
 var book = new Aspose.Cells.Workbook("input.csv");
 // save CSV as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
-// load the PDF file using Docxument class
-var docxument = new Aspose.Pdf.Docxument("pdfOutput.pdf");
-// save docxument in DOCXX format
-docxument.Save("output.docxx", SaveFormat.DocxX); 
+// load the PDF file using Document class
+var document = new Aspose.Pdf.Document("pdfOutput.pdf");
+// save document in DOCX format
+document.Save("output.docx", SaveFormat.Docx); 
 ```
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}

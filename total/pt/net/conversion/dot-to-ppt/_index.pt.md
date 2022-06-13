@@ -1,7 +1,7 @@
 ---
 title: Converter DOT para PPT via C# .NET 
 url: /pt/net/conversion/dot-to-ppt/ 
-description: Converta dotumentos do Word em arquivos ppt do PowerPoint com C#. Converta vários arquivos no ASP.NET ou em outros aplicativos .NET.
+description: Converta documentos do Word em arquivos ppt do PowerPoint com C#. Converta vários arquivos no ASP.NET ou em outros aplicativos .NET.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,7 +12,7 @@ description: Converta dotumentos do Word em arquivos ppt do PowerPoint com C#. C
 
 {{% blocks/products/pf/agp/content h2="Como converter DOT para PPT usando C#" %}}
 
-Para automatizar o processo de qualquer arquivo de dotumento do Word para conversão em lote de apresentação do PowerPoint ppt, usaremos [Aspose.Words for .NET](https://products.aspose.com/words/net) e [Aspose.Slides para .NET](https://products.aspose.com/slides/net) APIs. O primeiro é uma API de processamento de texto para processar ou manipular dotumentos do Microsoft Word. Considerando que o último é uma API de manipulação de apresentação que permite criar ou modificar slides do Microsoft PowerPoint. Ambas as APIs fazem parte do pacote [Aspose.Total for .NET](https://products.aspose.com/total/net). Você pode [baixar] diretamente (https://downloads.aspose.com/) do Nuget ou pode usar os seguintes comandos do Console do Gerenciador de Pacotes.
+Para automatizar o processo de qualquer arquivo de documento do Word para conversão em lote de apresentação do PowerPoint ppt, usaremos [Aspose.Words for .NET](https://products.aspose.com/words/net) e [Aspose.Slides para .NET](https://products.aspose.com/slides/net) APIs. O primeiro é uma API de processamento de texto para processar ou manipular documentos do Microsoft Word. Considerando que o último é uma API de manipulação de apresentação que permite criar ou modificar slides do Microsoft PowerPoint. Ambas as APIs fazem parte do pacote [Aspose.Total for .NET](https://products.aspose.com/total/net). Você pode [baixar] diretamente (https://downloads.aspose.com/) do Nuget ou pode usar os seguintes comandos do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando do console do gerenciador de pacotes" offSpacer="true" %}}
 
@@ -35,11 +35,11 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. Adicione referência de Aspose.Total para .NET
-1. Carregue o arquivo DOT usando a classe [Aspose.Words.Dotument](https://apireference.aspose.com/words/net/aspose.words/dotument)
-1. Salve o dotumento DOT em HTML
+1. Carregue o arquivo DOT usando a classe [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document)
+1. Salve o documento DOT em HTML
 1. Crie um objeto [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. Importe o conteúdo HTML no quadro de texto de qualquer forma de slide dentro da apresentação
-1. Salve o dotumento usando [Aspose.Slides.Presentation.Save("output.ppt", SaveFormat.Ppt)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods /5)
+1. Salve o documento usando [Aspose.Slides.Presentation.Save("output.ppt", SaveFormat.Ppt)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods /5)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -59,12 +59,12 @@ PM> Install-Package Aspose.Total
 
 ```cs
 // Load the Single Page Microsoft Word DOT file
-Aspose.Words.Dotument dot = new Aspose.Words.Dotument("sourceWordFile.dot");
+Aspose.Words.Document dot = new Aspose.Words.Document("sourceWordFile.dot");
 
 // Save DOT file to HTML 
 dot.Save("filepath\\test.html", SaveFormat.Html);
 
-// To convert multi pages DOT dotuments, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPT.
+// To convert multi pages DOT documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPT.
 
 using (Presentation ppt = new Presentation()){
 
