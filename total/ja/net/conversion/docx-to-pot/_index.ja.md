@@ -12,7 +12,7 @@ description: C＃を使用してWordドキュメントドキュメントをPower
 
 {{% blocks/products/pf/agp/content h2="C＃を使用してDOCXをPOTに変換する方法" %}}
 
-WordドキュメントファイルからPowerPointpotプレゼンテーションへのバッチ変換のプロセスを自動化するために、[Aspose.Words for .NET]（https://products.aspose.com/words/net）と[Aspose.Slides for .NET]（https://products.aspose.com/slides/net）API。前者は、MicrosoftWord文書を処理または操作するためのワードプロセッシングAPIです。一方、後者は、MicrosoftPowerPointスライドを作成または変更できるプレゼンテーション操作APIです。両方のAPIは、[Aspose.Total for .NET]（https://products.aspose.com/total/net）パッケージの一部です。 Nugetから直接[ダウンロード]（https://downloads.aspose.com/）するか、パッケージマネージャーコンソールから次のコマンドを使用できます。
+WordドキュメントファイルからPowerPointpotプレゼンテーションへのバッチ変換のプロセスを自動化するために、[Aspose.Words for .NET](https://products.aspose.com/words/net)と[Aspose.Slides for .NET](https://products.aspose.com/slides/net)API。前者は、MicrosoftWord文書を処理または操作するためのワードプロセッシングAPIです。一方、後者は、MicrosoftPowerPointスライドを作成または変更できるプレゼンテーション操作APIです。両方のAPIは、[Aspose.Total for .NET](https://products.aspose.com/total/net)パッケージの一部です。 Nugetから直接[ダウンロード](https://downloads.aspose.com/)するか、パッケージマネージャーコンソールから次のコマンドを使用できます。
 
 {{% blocks/products/pf/agp/code-block title="パッケージマネージャーコンソールコマンド" offSpacer="true" %}}
 
@@ -35,11 +35,11 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. Aspose.Totalfor.NETの参照を追加します
-1. [Aspose.Words.Document]（https://apireference.aspose.com/words/net/aspose.words/document）クラスを使用してDOCXファイルをロードします
+1. [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document)クラスを使用してDOCXファイルをロードします
 1. DOCXドキュメントをHTMLに保存します
-1. [Aspose.Slides.Presentation]（https://apireference.aspose.com/slides/net/aspose.slides/presentation）オブジェクトを作成します
+1. [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)オブジェクトを作成します
 1. プレゼンテーション内の任意のスライド形状のテキストフレームにHTMLコンテンツをインポートします
-1. [Aspose.Slides.Presentation.Save（ "output.pot"、SaveFormat.Pot）]（https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods）を使用してドキュメントを保存します/ 5）
+1. [Aspose.Slides.Presentation.Save（ "output.pot"、SaveFormat.Pot)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods)を使用してドキュメントを保存します/ 5)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

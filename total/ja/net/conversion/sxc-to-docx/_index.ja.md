@@ -17,16 +17,16 @@ otherformats: WORD PPTX POWERPOINT DOC
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title=".NETでのSXCからDOCXへの変換" %}}
-1. [ワークブック]（https://apireference.aspose.com/cells/net/aspose.cells/workbook）クラスを使用してSXCファイルを開きます
+1. [ワークブック](https://apireference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してSXCファイルを開きます
 2. SXCをPDFに変換し、SaveFormatをAutoに設定します
-3. [ドキュメント]（https://apireference.aspose.com/pdf/net/aspose.pdf/document）クラスを使用して変換されたPDFファイルをロードします
-4. [保存]（https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5）メソッドを使用してドキュメントをDOCX形式で保存し、DocxをSaveFormatとして設定します
+3. [ドキュメント](https://apireference.aspose.com/pdf/net/aspose.pdf/document)クラスを使用して変換されたPDFファイルをロードします
+4. [保存](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)メソッドを使用してドキュメントをDOCX形式で保存し、DocxをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 コマンドラインから```nuget install Aspose.Total```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから```Install-PackageAspose.Total```を使用してインストールします。
 
-または、[ダウンロード]（https://downloads.aspose.com/total/net）からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
+または、[ダウンロード](https://downloads.aspose.com/total/net)からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="SXCからDOCXへの変換用の.NETC＃コード" gistPath="" %}}

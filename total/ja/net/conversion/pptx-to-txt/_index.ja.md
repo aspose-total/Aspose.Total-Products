@@ -12,7 +12,7 @@ description: PowerPointのpptxドキュメントをC＃を使用してWordのド
 
 {{% blocks/products/pf/agp/content h2="C＃を使用してPPTXをTXTに変換する方法" %}}
 
-PowerPointpptxプレゼンテーションからWordtxtファイルへのバッチ変換のプロセスを自動化するために、[Aspose.Slides for .NET]（https://products.aspose.com/slides/net）と[Aspose.Words for .NET]（https://products.aspose.com/words/net）API。前者は、MicrosoftPowerPointスライドを作成または変更できるPowerPointプレゼンテーション操作APIです。一方、後者はMicrosoftWord文書を処理または操作するためのワードプロセッシングAPIです。両方のAPIは、[Aspose.Total for .NET]（https://products.aspose.com/total/net）パッケージの一部です。 Nugetから直接[ダウンロード]（https://downloads.aspose.com/）するか、パッケージマネージャーコンソールから次のコマンドを使用できます。
+PowerPointpptxプレゼンテーションからWordtxtファイルへのバッチ変換のプロセスを自動化するために、[Aspose.Slides for .NET](https://products.aspose.com/slides/net)と[Aspose.Words for .NET](https://products.aspose.com/words/net)API。前者は、MicrosoftPowerPointスライドを作成または変更できるPowerPointプレゼンテーション操作APIです。一方、後者はMicrosoftWord文書を処理または操作するためのワードプロセッシングAPIです。両方のAPIは、[Aspose.Total for .NET](https://products.aspose.com/total/net)パッケージの一部です。 Nugetから直接[ダウンロード](https://downloads.aspose.com/)するか、パッケージマネージャーコンソールから次のコマンドを使用できます。
 
 {{% blocks/products/pf/agp/code-block title="パッケージマネージャーコンソールコマンド" offSpacer="true" %}}
 
@@ -35,10 +35,10 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/text %}}
 
 1. Aspose.Slidesfor.NETおよびAspose.Wordsfor.NETの参照を追加します
-1. [Aspose.Slides.Presentation]（https://apireference.aspose.com/slides/net/aspose.slides/presentation）クラスを使用してPowerPointPPTXプレゼンテーションをロードします
-1. ドキュメントを[MemoryStream]（https://txts.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0）オブジェクトに保存します
-1. [Aspose.Words.Document]（https://apireference.aspose.com/words/net/aspose.words/document）を作成し、MemoryStreamオブジェクトで初期化します。
-1. [Aspose.Words.Document.Save（ "output.txt"、SaveFormat.Txt）]（https://apireference.aspose.com/words/net/aspose.words.document/save/methods）を使用してドキュメントを保存します/ 3）
+1. [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)クラスを使用してPowerPointPPTXプレゼンテーションをロードします
+1. ドキュメントを[MemoryStream](https://txts.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0)オブジェクトに保存します
+1. [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document)を作成し、MemoryStreamオブジェクトで初期化します。
+1. [Aspose.Words.Document.Save（ "output.txt"、SaveFormat.Txt)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods)を使用してドキュメントを保存します/ 3)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
