@@ -38,7 +38,7 @@ PM> Install-Package Aspose.Total
 1. Laden Sie die PowerPoint-PPSM-Präsentation mithilfe der Klasse [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation).
 1. Speichern Sie das Dokument im Objekt [MemoryStream](https://docxs.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0).
 1. Erstellen Sie [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) und initialisieren Sie es mit dem MemoryStream-Objekt
-1. Speichern Sie das Dokument mit [Aspose.Words.Document.Save("output.docx", SaveFormat.Docx)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods /3)
+1. Speichern Sie das Dokument mit [Aspose.Words.Document.Save("output.docx", SaveFormat.Docx)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

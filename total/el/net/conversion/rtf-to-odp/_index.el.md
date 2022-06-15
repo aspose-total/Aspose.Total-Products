@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Total
 1. Αποθηκεύστε το έγγραφο RTF σε HTML
 1. Δημιουργήστε αντικείμενο [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. Εισαγάγετε περιεχόμενο HTML σε πλαίσιο κειμένου οποιουδήποτε σχήματος διαφάνειας μέσα στην παρουσίαση
-1. Αποθηκεύστε το έγγραφο χρησιμοποιώντας το [Aspose.Slides.Presentation.Save("output.odp", SaveFormat.Odp)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods /5)
+1. Αποθηκεύστε το έγγραφο χρησιμοποιώντας το [Aspose.Slides.Presentation.Save("output.odp", SaveFormat.Odp)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -38,7 +38,7 @@ PM> Install-Package Aspose.Total
 1. Caricare la presentazione PowerPoint POT utilizzando la classe [Aspose.Slides.Presentation](https://apiference.aspose.com/slides/net/aspose.slides/presentation)
 1. Salva il documento in [MemoryStream](https://txts.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0) Oggetto
 1. Crea [Aspose.Words.Document](https://apiference.aspose.com/words/net/aspose.words/document) e inizializzalo con l'oggetto MemoryStream
-1. Salvare il documento utilizzando [Aspose.Words.Document.Save("output.txt", SaveFormat.Txt)](https://apiference.aspose.com/words/net/aspose.words.document/save/methods /3)
+1. Salvare il documento utilizzando [Aspose.Words.Document.Save("output.txt", SaveFormat.Txt)](https://apiference.aspose.com/words/net/aspose.words.document/save/methods/3)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

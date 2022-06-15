@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Total
 1. Spara DOCX-dokumentet i HTML
 1. Skapa [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) objekt
 1. Importera HTML-innehåll i textramen i valfri bildform i presentationen
-1. Spara dokumentet med [Aspose.Slides.Presentation.Save("output.ppsm", SaveFormat.Ppsm)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods /5)
+1. Spara dokumentet med [Aspose.Slides.Presentation.Save("output.ppsm", SaveFormat.Ppsm)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

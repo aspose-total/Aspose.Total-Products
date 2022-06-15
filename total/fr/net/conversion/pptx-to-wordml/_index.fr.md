@@ -38,7 +38,7 @@ PM> Install-Package Aspose.Total
 1. Chargez la présentation PowerPoint PPTX à l'aide de la classe [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. Enregistrez le document dans l'objet [MemoryStream](https://wordmls.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0)
 1. Créez [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) et initialisez-le avec MemoryStream Object
-1. Enregistrez le document en utilisant [Aspose.Words.Document.Save("output.wordml", SaveFormat.Wordml)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods /3)
+1. Enregistrez le document en utilisant [Aspose.Words.Document.Save("output.wordml", SaveFormat.Wordml)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

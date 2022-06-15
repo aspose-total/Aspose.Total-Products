@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Total
 1. Salve o documento OTT em HTML
 1. Crie um objeto [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. Importe o conteúdo HTML no quadro de texto de qualquer forma de slide dentro da apresentação
-1. Salve o documento usando [Aspose.Slides.Presentation.Save("output.potm", SaveFormat.Potm)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods /5)
+1. Salve o documento usando [Aspose.Slides.Presentation.Save("output.potm", SaveFormat.Potm)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

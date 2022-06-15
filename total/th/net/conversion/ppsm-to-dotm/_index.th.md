@@ -38,7 +38,7 @@ PM> Install-Package Aspose.Total
 1. โหลดงานนำเสนอ PowerPoint PPSM โดยใช้คลาส [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. บันทึกเอกสารลงใน [MemoryStream](https://dotms.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0) วัตถุ
 1. สร้าง [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) และกำหนดค่าเริ่มต้นด้วย MemoryStream Object
-1. บันทึกเอกสารโดยใช้ [Aspose.Words.Document.Save("output.dotm", SaveFormat.Dotm)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods /3)
+1. บันทึกเอกสารโดยใช้ [Aspose.Words.Document.Save("output.dotm", SaveFormat.Dotm)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -38,7 +38,7 @@ PM> Install-Package Aspose.Total
 1. Ladda PowerPoint PPSX-presentation med klassen [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. Spara dokumentet i [MemoryStream](https://dotxs.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0) Object
 1. Skapa [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) och initialisera det med MemoryStream Object
-1. Spara dokumentet med [Aspose.Words.Document.Save("output.dotx", SaveFormat.Dotx)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods /3)
+1. Spara dokumentet med [Aspose.Words.Document.Save("output.dotx", SaveFormat.Dotx)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

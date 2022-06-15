@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Total
 1. Simpan dokumen FLATOPC ke dalam HTML
 1. Buat Objek [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. Impor konten HTML dalam bingkai teks bentuk slide apa pun di dalam presentasi
-1. Simpan dokumen menggunakan [Aspose.Slides.Presentation.Save("output.pptm", SaveFormat.Pptm)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods /5)
+1. Simpan dokumen menggunakan [Aspose.Slides.Presentation.Save("output.pptm", SaveFormat.Pptm)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

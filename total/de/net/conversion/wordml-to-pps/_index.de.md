@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Total
 1. Speichern Sie das WORDML-Dokument in HTML
 1. Erstellen Sie das Objekt [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation).
 1. Importieren Sie HTML-Inhalte in Textrahmen einer beliebigen Folienform innerhalb der Präsentation
-1. Speichern Sie das Dokument mit [Aspose.Slides.Presentation.Save("output.pps", SaveFormat.Pps)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods /5)
+1. Speichern Sie das Dokument mit [Aspose.Slides.Presentation.Save("output.pps", SaveFormat.Pps)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

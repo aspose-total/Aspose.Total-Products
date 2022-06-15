@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Total
 1. Uložte dokument OTT do HTML
 1. Vytvořte objekt [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. Importujte obsah HTML v textovém rámečku libovolného tvaru snímku uvnitř prezentace
-1. Uložte dokument pomocí [Aspose.Slides.Presentation.Save("output.ppsm", SaveFormat.Ppsm)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods /5)
+1. Uložte dokument pomocí [Aspose.Slides.Presentation.Save("output.ppsm", SaveFormat.Ppsm)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

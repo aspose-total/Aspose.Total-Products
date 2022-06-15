@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Total
 1. บันทึกเอกสาร TXT เป็น HTML
 1. สร้าง [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) Object
 1. นำเข้าเนื้อหา HTML ในกรอบข้อความของรูปร่างสไลด์ภายในงานนำเสนอ
-1. บันทึกเอกสารโดยใช้ [Aspose.Slides.Presentation.Save("output.pps", SaveFormat.Pps)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods /5)
+1. บันทึกเอกสารโดยใช้ [Aspose.Slides.Presentation.Save("output.pps", SaveFormat.Pps)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

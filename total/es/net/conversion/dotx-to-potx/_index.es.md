@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Total
 1. Guarde el documento DOTX en HTML
 1. Cree el objeto [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. Importe contenido HTML en el marco de texto de cualquier forma de diapositiva dentro de la presentación
-1. Guarde el documento usando [Aspose.Slides.Presentation.Save("output.potx", SaveFormat.Potx)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods /5)
+1. Guarde el documento usando [Aspose.Slides.Presentation.Save("output.potx", SaveFormat.Potx)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

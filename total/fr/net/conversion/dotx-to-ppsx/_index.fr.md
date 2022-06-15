@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Total
 1. Enregistrez le document DOTX au format HTML
 1. Créer un objet [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. Importez du contenu HTML dans le cadre de texte de n'importe quelle forme de diapositive dans la présentation
-1. Enregistrez le document en utilisant [Aspose.Slides.Presentation.Save("output.ppsx", SaveFormat.Ppsx)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods /5)
+1. Enregistrez le document en utilisant [Aspose.Slides.Presentation.Save("output.ppsx", SaveFormat.Ppsx)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

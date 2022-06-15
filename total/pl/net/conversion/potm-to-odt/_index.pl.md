@@ -38,7 +38,7 @@ PM> Install-Package Aspose.Total
 1. Załaduj prezentację PowerPoint POTM za pomocą klasy [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. Zapisz dokument w obiekcie [MemoryStream](https://odts.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0)
 1. Utwórz [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) i zainicjuj go za pomocą obiektu MemoryStream
-1. Zapisz dokument za pomocą [Aspose.Words.Document.Save("output.odt", SaveFormat.Odt)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods /3)
+1. Zapisz dokument za pomocą [Aspose.Words.Document.Save("output.odt", SaveFormat.Odt)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

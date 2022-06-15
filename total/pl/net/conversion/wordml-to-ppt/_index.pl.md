@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Total
 1. Zapisz dokument WORDML w HTML
 1. Utwórz obiekt [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. Importuj zawartość HTML do ramki tekstowej dowolnego kształtu slajdu w prezentacji
-1. Zapisz dokument za pomocą [Aspose.Slides.Presentation.Save("output.ppt", SaveFormat.Ppt)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods /5)
+1. Zapisz dokument za pomocą [Aspose.Slides.Presentation.Save("output.ppt", SaveFormat.Ppt)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -38,7 +38,7 @@ PM> Install-Package Aspose.Total
 1. Φορτώστε την παρουσίαση POTX του PowerPoint χρησιμοποιώντας την τάξη [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. Αποθηκεύστε το έγγραφο στο [MemoryStream](https://txts.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0) Αντικείμενο
 1. Δημιουργήστε το [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) και αρχικοποιήστε το με το MemoryStream Object
-1. Αποθηκεύστε το έγγραφο χρησιμοποιώντας το [Aspose.Words.Document.Save("output.txt", SaveFormat.Txt)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods /3)
+1. Αποθηκεύστε το έγγραφο χρησιμοποιώντας το [Aspose.Words.Document.Save("output.txt", SaveFormat.Txt)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

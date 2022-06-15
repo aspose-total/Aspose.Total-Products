@@ -38,7 +38,7 @@ PM> Install-Package Aspose.Total
 1. Načtěte prezentaci PowerPoint POTX pomocí třídy [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation)
 1. Uložte dokument do [MemoryStream](https://docms.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0) Objekt
 1. Vytvořte [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) a inicializujte jej pomocí objektu MemoryStream
-1. Uložte dokument pomocí [Aspose.Words.Document.Save("output.docm", SaveFormat.Docm)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods /3)
+1. Uložte dokument pomocí [Aspose.Words.Document.Save("output.docm", SaveFormat.Docm)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

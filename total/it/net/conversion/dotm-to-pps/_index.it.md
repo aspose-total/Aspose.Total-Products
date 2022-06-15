@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Total
 1. Salva il documento DOTM in HTML
 1. Crea un oggetto [Aspose.Slides.Presentation](https://apiference.aspose.com/slides/net/aspose.slides/presentation)
 1. Importa contenuto HTML nella cornice di testo di qualsiasi forma di diapositiva all'interno della presentazione
-1. Salvare il documento utilizzando [Aspose.Slides.Presentation.Save("output.pps", SaveFormat.Pps)](https://apiference.aspose.com/slides/net/aspose.slides.presentation/save/methods /5)
+1. Salvare il documento utilizzando [Aspose.Slides.Presentation.Save("output.pps", SaveFormat.Pps)](https://apiference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

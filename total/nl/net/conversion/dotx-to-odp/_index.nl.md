@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Total
 1. Sla het DOTX-document op in HTML
 1. Maak een [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) object
 1. Importeer HTML-inhoud in tekstkader van elke diavorm in de presentatie
-1. Sla het document op met [Aspose.Slides.Presentation.Save("output.odp", SaveFormat.Odp)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods /5)
+1. Sla het document op met [Aspose.Slides.Presentation.Save("output.odp", SaveFormat.Odp)](https://apireference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

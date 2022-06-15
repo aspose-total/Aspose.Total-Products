@@ -38,7 +38,7 @@ PM> Install-Package Aspose.Total
 1. Laad PowerPoint ODP-presentatie met behulp van [Aspose.Slides.Presentation](https://apireference.aspose.com/slides/net/aspose.slides/presentation) klasse
 1. Sla het document op in [MemoryStream](https://docxs.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0) Object
 1. Maak [Aspose.Words.Document](https://apireference.aspose.com/words/net/aspose.words/document) en initialiseer het met MemoryStream Object
-1. Sla het document op met [Aspose.Words.Document.Save("output.docx", SaveFormat.Docx)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods /3)
+1. Sla het document op met [Aspose.Words.Document.Save("output.docx", SaveFormat.Docx)](https://apireference.aspose.com/words/net/aspose.words.document/save/methods/3)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
