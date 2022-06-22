@@ -40,6 +40,7 @@ description: واجهات برمجة تطبيقات Python لمستندات Micr
  </a>
  ميزات Aspose.Total لـ Python عبر .NET APIs
 </h2>
+<div class="row">
 <div class="col-lg-4">
  <em class="fa fa-recycle ico-blue fa-2x col-lg-2">
  </em>
@@ -126,7 +127,7 @@ description: واجهات برمجة تطبيقات Python لمستندات Micr
   إنشاء ملفات 3D و CAD أو معالجتها
  </p>
 </div>
-
+</div>
 <div class="col-lg-12">
  <h2 class="h2title">
   معالجة كافة فئات الملفات الشائعة

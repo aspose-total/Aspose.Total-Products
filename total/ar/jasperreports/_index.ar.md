@@ -52,6 +52,7 @@ Aspose.BarCode لـ JasperReports يوفر حلاً فريدًا وقويًا ل
  </a>
  الميزات المتقدمة لـ Aspose.Total for JasperReports
 </h2>
+<div class="row">
 <div class="col-lg-4">
  <em class="fa fa-file-word-o ico-blue fa-2x col-lg-2">
  </em>
@@ -121,6 +122,7 @@ Aspose.BarCode لـ JasperReports يوفر حلاً فريدًا وقويًا ل
  <p class="col-lg-10">
   طباعة التقارير على هيئة رسم CAD أو BIM أو متجه
  </p>
+</div>
 </div>
 <div class="col-lg-12">
  <h2 class="h2title">

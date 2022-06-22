@@ -44,6 +44,7 @@ Aspose.BarCode for Reporting Services هو الحل الأكثر شمولاً ل
  </a>
  الميزات المتقدمة لامتداد تقديم خدمات التقارير
 </h2>
+<div class="row">
 <div class="col-lg-4">
  <em class="fa fa-share ico-blue fa-2x col-lg-2">
  </em>
@@ -127,6 +128,7 @@ Aspose.BarCode for Reporting Services هو الحل الأكثر شمولاً ل
  <p class="col-lg-10">
   استخدم مع Microsoft Report Viewer
  </p>
+</div>
 </div>
 <div class="col-lg-12">
  <h2 class="h2title">

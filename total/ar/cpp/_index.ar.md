@@ -72,6 +72,7 @@ Aspose.TeX for C ++ هي واجهة برمجة تطبيقات لإدارة وت�
  </a>
  نظرة عامة على مكتبات C ++ لتنسيقات ملفات Office
 </h2>
+<div class="row">
 <div class="col-lg-4">
  <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
  </em>
@@ -176,6 +177,7 @@ Aspose.TeX for C ++ هي واجهة برمجة تطبيقات لإدارة وت�
  <p class="col-lg-10">
   دعم مستويات لغة PostScript 1-3
  </p>
+</div>
 </div>
 <!--Feature-section Start-->
 <!--Feature-section End-->

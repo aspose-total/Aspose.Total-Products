@@ -48,6 +48,7 @@ Aspose.BarCode لنظام Android عبر Java عبارة عن مجموعة من 
  </a>
  الميزات المتقدمة لـ Aspose.Total لنظام Android عبر Java APIs
 </h2>
+<div class="row">
 <div class="col-lg-4">
  <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
  </em>
@@ -103,6 +104,7 @@ Aspose.BarCode لنظام Android عبر Java عبارة عن مجموعة من 
  <p class="col-lg-10">
   تحويل ملفات PDF إلى صور
  </p>
+</div>
 </div>
 <div class="col-lg-12">
  <h2 class="h2title">

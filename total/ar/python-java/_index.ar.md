@@ -36,6 +36,7 @@ Aspose.Total for Python عبر Java هو مجموعة كاملة لمطوري Py
  </a>
  ميزات Aspose.Total for Python عبر Java APIs
 </h2>
+<div class="row">
 <div class="col-lg-4">
  <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
  </em>
@@ -122,7 +123,7 @@ Aspose.Total for Python عبر Java هو مجموعة كاملة لمطوري Py
   التعرف على الرموز الشريطية ثنائية الأبعاد وثنائية الأبعاد والبريدية
  </p>
 </div>
-
+</div>
 <div class="col-lg-12">
  <h2 class="h2title">
   Process Popular File Types

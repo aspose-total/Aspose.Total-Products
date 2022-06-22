@@ -124,6 +124,7 @@ Aspose.TeX for .NET هو واجهة برمجة تطبيقات لتنضيد مل�
  </a>
  الميزات المتقدمة لـ Aspose.Total لـ .NET APIs
 </h2>
+<div class="row">
 <div class="col-lg-4">
  <em class="fa fa-barcode ico-blue fa-2x col-lg-2">
  </em>
@@ -228,6 +229,7 @@ Aspose.TeX for .NET هو واجهة برمجة تطبيقات لتنضيد مل�
  <p class="col-lg-10">
   تصدير OneNote إلى الصور & amp؛ تنسيق PDF
  </p>
+</div>
 </div>
 <div class="col-lg-12">
  <h2 class="h2title">
