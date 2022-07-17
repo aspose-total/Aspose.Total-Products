@@ -243,15 +243,15 @@ Aspose.BarCode for Reporting Services 是在 Microsoft SQL Server Reporting Serv
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total 為其他平台提供個性化解決方案。" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/total/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" sdkName=" Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" sdkName=" C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" sdkName=" JasperReports" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-net.svg" sdkName=" Python via .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/zh-hant/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/zh-hant/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" sdkName=" Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/zh-hant/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" sdkName=" C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/zh-hant/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/zh-hant/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/zh-hant/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" sdkName=" JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/zh-hant/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-net.svg" sdkName=" Python via .NET" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/total/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-java.svg" sdkName=" Python via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/zh-hant/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-java.svg" sdkName=" Python via Java" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
