@@ -13,15 +13,15 @@ otherformats: XLSB TXT SXC MD XLAM FODS XLSM XLT XLTX DIF TSV XLTM
 {{< blocks/products/pf/feature-page-header h1="C# API to Render XML to EXCEL" h2="Export XML File to EXCEL via C# without using Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert XML file to EXCEL within any .NET, C#, ASP.NET and VB.NET applications. Firstly, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export XML to XLSX. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert XLSX to EXCEL. 
+Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert XML file to EXCEL within any .NET, C#, ASP.NET and VB.NET applications. By using Spreadsheet Programming API [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), you can convert XLSX to EXCEL relevant format like XLSX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API to Convert XML to EXCEL" %}}
-1. Open XML file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
-2. Convert XML to XLSX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
-4. Save the document to CSV format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Csv` as SaveFormat
+1. Create an instance of the [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook/) class
+2. Import XML into workbook using [ImportXml](https://reference.aspose.com/cells/net/aspose.cells/workbook/importxml/) method
+3. Save Workbook as Excel file with SaveFormat as parameter for relevant format 
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
@@ -30,28 +30,32 @@ Install from command line as ```nuget install Aspose.Total``` or via Package Man
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://downloads.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-pdf-to-excel.cs" >}}
+{{< gist "aspose-com-gists" "e5efce39c7b6b48485533ae75ddb8694" "Convert-XML-to-Excel-CSharp_Import.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Convert Protected XML to EXCEL via C#" %}}
-If your XML document is password protected, you cannot convert it to EXCEL without the password. Using the API, you can first open the protected document using a valid password and convert it after it.  In order to open the encrypted file, you can initialize a new instance of the [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class and pass the filename and password as arguments. 
+{{% blocks/products/pf/feature-page-section  h2="XML Specific Columns to EXCEL Conversion via C#" %}}
+For Specific Columns of XML document conversion, one can convert it easily. Using the API, Read XML and XSLT file content using File IO ReadAllText method. Then transform XML and get content in MemoryStream. Create Workbook with specific worksheet options like AutoFitRows, and AutoFitColumns. Finally invoke the Save method to convert specific columns from XML to Excel relevant format such as XLSX.
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-password-protected-pdf-to-excel.cs" >}}
+{{< gist "aspose-com-gists" "e5efce39c7b6b48485533ae75ddb8694" "Convert-XML-to-Excel-CSharp_ConvertSpecificColumns.cs" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Convert XML File to EXCEL with Watermark via C#" %}}
-While converting XML file to EXCEL, you can also add watermark to your output EXCEL file format. In order to add a watermark, you can create a new Workbook object and open the converted XLSX document, select Worksheet via its index, create a Shape and use its AddTextEffect function. After that you can save your XLSX document as EXCEL with Watermark. 
+{{% blocks/products/pf/feature-page-section  h2="Sample XML and XSLT Files" %}}
+
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-pdf-to-excel-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "e5efce39c7b6b48485533ae75ddb8694" "Convert-XML-to-Excel-CSharp_Catalog.xml" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
+
+{{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "e5efce39c7b6b48485533ae75ddb8694" "Convert-XML-to-Excel-CSharp_CatalogXSLT.xslt" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}
