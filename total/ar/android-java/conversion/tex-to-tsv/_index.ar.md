@@ -1,0 +1,85 @@
+---
+title: تحويل TEX إلى TSV في Android عبر Java
+description: عرض TEX إلى TSV في Android عبر Java API دون استخدام Microsoft Excel أو Adobe Reader
+url: /ar/android-java/conversion/tex-to-tsv/
+family: total
+platformtag: cpp
+feature: conversion
+informat: TEX
+outformat: TSV
+otherformats: CSV XLTX EXCEL SXC FODS DIF XLT XLSM XLSB MD ODS XLTM
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="تقديم TEX إلى TSV في Android عبر Java" h2="تحويل TEX إلى TSV داخل تطبيقات Android دون الحاجة إلى Microsoft <sup>&reg;</sup> Excel أو Adobe <sup>&reg;</sup> Acrobat Reader" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+يمكنك دمج ميزة تحويل TEX إلى TSV داخل تطبيقات Android في عملية من خطوتين. أولاً ، باستخدام [Aspose.PDF لنظام Android عبر Java](https://products.aspose.com/pdf/android-java/) يمكنك تحويل TEX إلى XLSX. ثانيًا ، يمكنك تحويل XLSX إلى TSV باستخدام واجهة برمجة تطبيقات قوية لمعالجة جداول البيانات [Aspose.Cells لنظام Android عبر Java](https://products.aspose.com/cells/android-java/). تندرج واجهتا APIs ضمن عائلة المنتجات [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Android API لتقديم TEX إلى TSV" %}}
+1. افتح ملف TEX باستخدام فئة [المستند](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. تحويل TEX إلى XLSX باستخدام [حفظ](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) طريقة
+3. قم بتحميل مستند XLSX باستخدام فئة [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. احفظ المستند بتنسيق TSV باستخدام [حفظ](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))) الطريقة
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
+يمكنك بسهولة استخدام Aspose.Total لنظام Android عبر Java مباشرةً من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) و تثبيت [Aspose.PDF لنظام Android عبر Java](https://docs.aspose.com/pdf/androidjava/installation/) و [Aspose.Cells لنظام Android عبر Java](https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-Installation/) في تطبيقاتك.
+
+بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://downloads.aspose.com/total/androidjava).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "convert-pdf-to-excel.java" >}}
+
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="احصل على XMP Metadata لملف TEX في Android عبر Java" %}}
+يسمح لك [Aspose.PDF لنظام Android عبر Java](https://products.aspose.com/pdf/android-java/) بالوصول إلى بيانات XMP الوصفية لملف TEX. للحصول على البيانات الوصفية ، قم بإنشاء كائن [مستند](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) وافتح ملف TEX للإدخال واستخدم [getMetadata ()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) للحصول على البيانات الوصفية.
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="حماية مستند TSV في Android عبر Java" %}}
+يدعم [Aspose.Cells لنظام Android عبر Java](https://products.aspose.com/cells/android-java/) حماية ملف TSV وفقًا لاحتياجاتك. لحماية مستندك ، يمكنك استخدام طريقة [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook (java.lang.String)) [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) فئة.
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-tsv.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="التحويلات المدعومة الأخرى" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/android-java/conversion/tex-to-tsv/" name="TEX إلى TSV" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/android-java/conversion/tex-to-xltx/" name="TEX إلى XLTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/android-java/conversion/tex-to-excel/" name="TEX إلى EXCEL" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/android-java/conversion/tex-to-sxc/" name="TEX إلى SXC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/android-java/conversion/tex-to-fods/" name="TEX إلى FODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/android-java/conversion/tex-to-dif/" name="TEX إلى DIF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/android-java/conversion/tex-to-xlt/" name="TEX إلى XLT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/android-java/conversion/tex-to-xlsm/" name="TEX إلى XLSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/android-java/conversion/tex-to-xlsb/" name="TEX إلى XLSB" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/android-java/conversion/tex-to-md/" name="TEX إلى MD" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/android-java/conversion/tex-to-ods/" name="TEX إلى ODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/android-java/conversion/tex-to-xltm/" name="TEX إلى XLTM" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}
