@@ -1,0 +1,85 @@
+---
+title: Převést TEX na EXCEL v Androidu přes Java
+description: Vykreslete TEX do EXCEL v systému Android přes Java API bez použití Microsoft Excel nebo Adobe Reader
+url: /cs/android-java/conversion/tex-to-excel/
+family: total
+platformtag: cpp
+feature: conversion
+informat: TEX
+outformat: CSV
+otherformats: SXC DIF XLAM XLTM ODS CSV XLSM TXT FODS XLTX MD XLT
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Vykreslit TEX do EXCEL v Androidu přes Java" h2="Transformujte TEX na EXCEL v rámci aplikací pro Android, aniž byste potřebovali Microsoft<sup>&reg;</sup> Excel nebo Adobe<sup>&reg;</sup> Acrobat Reader" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+Funkci převodu TEX na EXCEL můžete integrovat do svých aplikací pro Android ve dvou krocích. Za prvé, pomocí [Aspose.PDF pro Android přes Javu](https://products.aspose.com/pdf/android-java/) můžete převést TEX na XLSX. Za druhé, můžete převést XLSX na EXCEL pomocí Powerful Spreadsheet Processing API [Aspose.Cells pro Android přes Java](https://products.aspose.com/cells/android-java/). Obě rozhraní API spadají do rodiny produktů [Aspose.Total pro Android přes Java](https://products.aspose.com/total/android-java/). 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Android API pro vykreslení TEX do EXCEL" %}}
+1. Otevřete soubor TEX pomocí třídy [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. Převeďte TEX na XLSX pomocí [uložit](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) metoda
+3. Načtěte dokument XLSX pomocí třídy [Sešit](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Uložte dokument do formátu EXCEL pomocí [uložit](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Požadavky na konverzi" %}}
+Aspose.Total pro Android můžete snadno používat přes Javu přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a nainstalovat [Aspose.PDF pro Android přes Javu](https://docs.aspose.com/pdf/androidjava/installation/) a [Aspose.Cells pro Android přes Javu](https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/) ve vašich aplikacích.
+
+Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.com/total/androidjava).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "convert-pdf-to-excel.java" >}}
+
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Získejte metadata XMP souboru TEX v systému Android přes Java" %}}
+[Aspose.PDF pro Android přes Javu](https://products.aspose.com/pdf/android-java/) umožňuje přístup k metadatům XMP souboru TEX. Chcete-li získat metadata, vytvořte objekt [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) a otevřete vstupní soubor TEX a použijte [getMetadata()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) pro získání metadat.
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="Chraňte dokument EXCEL v systému Android přes Java" %}}
+[Aspose.Cells pro Android přes Java](https://products.aspose.com/cells/android-java/) podporuje ochranu vašeho souboru EXCEL v závislosti na vašich potřebách. K ochraně vašeho dokumentu můžete použít metodu [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) metody [Sešit](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) třídy.
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-excel.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Další podporované konverze" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/tex-to-sxc/" name="TEX Na SXC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/tex-to-dif/" name="TEX Na DIF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/tex-to-xlam/" name="TEX Na XLAM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/tex-to-xltm/" name="TEX Na XLTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/tex-to-ods/" name="TEX Na ODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/tex-to-excel/" name="TEX Na EXCEL" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/tex-to-xlsm/" name="TEX Na XLSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/tex-to-txt/" name="TEX Na TXT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/tex-to-fods/" name="TEX Na FODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/tex-to-xltx/" name="TEX Na XLTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/tex-to-md/" name="TEX Na MD" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/tex-to-xlt/" name="TEX Na XLT" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}
