@@ -1,0 +1,85 @@
+---
+title: Konvertieren Sie PPTM in JSON in Android über Java
+description: Konvertieren Sie PPTM in JSON in Android über Java, ohne Microsoft Excel oder PowerPoint zu verwenden
+url: /de/android-java/conversion/pptm-to-json/
+family: total
+platformtag: cpp
+feature: conversion
+informat: PPTM
+outformat: JSON
+otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie PPTM in JSON in Android über Java" h2="Exportieren Sie die PPTM-Datei in Android-Anwendungen in JSON, ohne Microsoft<sup>&reg;</sup> Excel oder PowerPoint zu verwenden" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+Sie können die PPTM-Datei in Ihren Android-Anwendungen in einem zweistufigen Prozess über [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) ganz einfach in JSON konvertieren. Im ersten Schritt können Sie die PPTM-Datei mithilfe von [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) in HTML exportieren. Zweitens können Sie durch die Verwendung von [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) HTML in JSON konvertieren. 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="So konvertieren Sie PPTM in JSON in Android" %}}
+1. Öffnen Sie die PPTM-Datei mit der Klasse [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation).
+2. Konvertieren Sie PPTM in HTML mit [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-)-Methode
+3. Laden Sie das HTML-Dokument mithilfe der Klasse [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
+4. Speichern Sie das Dokument im JSON-Format mit [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
+Um PPTM in JSON zu konvertieren, können Sie Aspose.Total für Android einfach über Java direkt von [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) und installieren Sie Bibliotheken in Ihrer App.
+
+Alternativ können Sie eine ZIP-Datei von [downloads](https://downloads.aspose.com/total/androidjava) herunterladen.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "de2e3326ba6b04e5bcfea349e873be2b" "convert-powerpoint-to-json.java" >}}
+
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Konvertieren Sie Protected PPTM in JSON in Android über Java" %}}
+Über die API können Sie das passwortgeschützte Dokument auch öffnen. Wenn Ihr PPTM-Eingabedokument passwortgeschützt ist, können Sie es nicht in JSON konvertieren, ohne das Passwort zu verwenden. Die API ermöglicht es Ihnen, das verschlüsselte Dokument zu öffnen, indem Sie das richtige Kennwort in einem LoadOptions-Objekt übergeben. Das folgende Codebeispiel zeigt, wie Sie versuchen, ein verschlüsseltes Dokument mit einem Kennwort zu öffnen:
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "de2e3326ba6b04e5bcfea349e873be2b" "convert-protected-powerpoint-to-json.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="Konvertieren Sie die PPTM-Datei in JSON mit Wasserzeichen in Android" %}}
+Beim Konvertieren der PPTM-Datei in JSON können Sie Ihrem Ausgabe-JSON-Dateiformat auch Wasserzeichen hinzufügen. Um ein Wasserzeichen hinzuzufügen, erstellen Sie eine neue Arbeitsmappe, um die konvertierte HTML-Datei zu öffnen. Wählen Sie das Arbeitsblatt über seinen Index aus, erstellen Sie eine Form und verwenden Sie die addTextEffect-Funktion, stellen Sie Farben, Transparenz und mehr ein. Danach können Sie Ihr HTML-Dokument als JSON mit Wasserzeichen speichern.
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "de2e3326ba6b04e5bcfea349e873be2b" "convert-powerpoint-to-json-range.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Konvertierungen" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/pptm-to-doc/" name="PPTM Zu DOC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/pptm-to-docm/" name="PPTM Zu DOCM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/pptm-to-docx/" name="PPTM Zu DOCX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/pptm-to-dot/" name="PPTM Zu DOT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/pptm-to-dotm/" name="PPTM Zu DOTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/pptm-to-dotx/" name="PPTM Zu DOTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/pptm-to-odt/" name="PPTM Zu ODT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/pptm-to-ott/" name="PPTM Zu OTT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/pptm-to-rtf/" name="PPTM Zu RTF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/pptm-to-text/" name="PPTM Zu TEXT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/pptm-to-word/" name="PPTM Zu WORD" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/pptm-to-wordml/" name="PPTM Zu WORDML" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

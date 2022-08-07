@@ -1,0 +1,135 @@
+---
+title: Exportieren Sie E-MAIL über C++ nach DOTM
+description: C++-API zum Konvertieren von E-MAIL in DOTM, ohne Microsoft Word oder Outlook zu verwenden
+url: /de/cpp/conversion/eml-to-dotm/
+family: total
+platformtag: cpp
+feature: conversion
+informat: EML
+outformat: DOTM
+otherformats: PDF EMF PCL DOT FLATOPC DOTX EPUB PNG DOC PS GIF TEXT TIFF DOCM ODT SVG XPS OTT WORDML DOCX RTF MD BMP JPEG
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="C++-API zum Exportieren von E-MAIL nach DOTM" h2="Wandeln Sie E-MAIL in DOTM innerhalb einer C++-Anwendung um, ohne Microsoft Word oder Outlook zu benötigen" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+Sind Sie ein C++-Entwickler, der E-Mail-Konvertierungsfunktionen in Ihre Anwendungen integrieren möchte? Mit [Aspose.Eml for C++](https://products.aspose.com/eml/cpp/) können Sie das EML-Dateiformat in HTML konvertieren. Danach können Sie mithilfe der [Aspose.Words for C++](https://products.aspose.com/words/cpp/)-API HTML in DOTM exportieren. Beide APIs befinden sich im Paket [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="C++-API zum Konvertieren von E-MAIL in DOTM" %}}
+1. Öffnen Sie die EML-Datei mit der Klassenreferenz [MailMessage](https://reference.aspose.com/eml/cpp/class/aspose.eml.mail_message).
+2. Konvertieren Sie E-MAIL in HTML, indem Sie die Member-Funktion [Save](https://reference.aspose.com/eml/cpp/class/aspose.eml.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786) verwenden
+3. Laden Sie HTML mithilfe der Klasse [Dokument](https://reference.aspose.com/words/cpp/class/aspose.words.document).
+4. Speichern Sie das Dokument mit der Methode [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) im DOTM-Format und legen Sie Dotm als SaveFormat fest
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
+Installieren Sie von der Befehlszeile als ```nuget install Aspose.Total.Cpp``` oder über die Paket-Manager-Konsole von Visual Studio mit ```Install-Package Aspose.Total.Cpp```.
+
+Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer ZIP-Datei von [downloads](https://downloads.aspose.com/total/cpp) herunterladen.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+```cpp
+// load the EML file to be converted
+System::SharedPtr<MailMessage> msg = MailMessage::Load(u"sourceFile.eml");
+// save EML as a HTML 
+msg->Save(u"HtmlOutput.html", SaveOptions::get_DefaultHtml());  
+// load HTML with an instance of Document
+System::SharedPtr<Document> doc = System::MakeObject<Document>(u"HtmlOutput.html");
+// call save method while passing Dotm as save format
+doc->Save(u"convertedFile.Dotm");
+```
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Analysieren Sie die E-MAIL-Datei über C++" %}}
+Sie können nicht nur Ihre E-MAIL in DOTM konvertieren, sondern auch E-MAIL-Dokumente lesen, manipulieren und parsen. Sie können Betreff, Adresse, Text und Empfängerinformationen der E-Mail abrufen, indem Sie die MapiMessage-Klasse der [Aspose.Eml for C++](https://products.aspose.com/eml/cpp/)-API verwenden. Beispielsweise können Sie mithilfe der Eigenschaft get_SenderEmlAddress() nach einer bestimmten Absender-E-Mail für die Konvertierung suchen.
+{{% blocks/products/pf/feature-page-code %}}
+
+```cpp
+// create an instance of MapiMessage from file
+System::SharedPtr<MapiMessage> msg = MapiMessage::FromFile(dataDir + L"message.eml");
+// get subject
+System::Console::WriteLine(System::String(L"Subject:") + msg->get_Subject());
+// get from address
+System::Console::WriteLine(System::String(L"From:") + msg->get_SenderEmlAddress());
+// get body
+System::Console::WriteLine(System::String(L"Body") + msg->get_Body());
+// get recipients information
+System::Console::WriteLine(System::String(L"Recipient: ") + msg->get_Recipients());
+```
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="C++-API zum Einschränken der Bearbeitung des DOTM-Dateiformats" %}}
+Sie können Ihrer App auch Dokumentschutzfunktionen hinzufügen, während Sie das Dokument von E-MAIL nach DOTM exportieren. Das Hinzufügen von Schutz zu Ihrem Dokument ist ein einfacher Vorgang, da Sie lediglich die Schutzmethode auf Ihr Dokument anwenden müssen. Sie können den Schutztyp auf ReadOnly setzen, um den Benutzer auf die Bearbeitung des Dokuments einzuschränken.
+{{% blocks/products/pf/feature-page-code %}}
+
+```cpp
+// create a new document and protect it with a password.
+auto doc = System::MakeObject<Document>();
+// apply Document Protection.
+doc->Protect(ProtectionType::ReadOnly, u"password");
+// save the document.
+doc->Save(u"DocumentProtection.PasswordProtection.Dotm");
+```
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Konvertierungen" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/cpp/conversion/eml-to-pdf/" name="EML Zu PDF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/cpp/conversion/eml-to-emf/" name="EML Zu EMF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/cpp/conversion/eml-to-pcl/" name="EML Zu PCL" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/cpp/conversion/eml-to-dot/" name="EML Zu DOT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/cpp/conversion/eml-to-flatopc/" name="EML Zu FLATOPC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/cpp/conversion/eml-to-dotx/" name="EML Zu DOTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/cpp/conversion/eml-to-epub/" name="EML Zu EPUB" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/cpp/conversion/eml-to-png/" name="EML Zu PNG" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/cpp/conversion/eml-to-doc/" name="EML Zu DOC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/cpp/conversion/eml-to-ps/" name="EML Zu PS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/cpp/conversion/eml-to-gif/" name="EML Zu GIF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/cpp/conversion/eml-to-text/" name="EML Zu TEXT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/cpp/conversion/eml-to-tiff/" name="EML Zu TIFF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/cpp/conversion/eml-to-docm/" name="EML Zu DOCM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/cpp/conversion/eml-to-odt/" name="EML Zu ODT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/cpp/conversion/eml-to-svg/" name="EML Zu SVG" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/cpp/conversion/eml-to-xps/" name="EML Zu XPS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/cpp/conversion/eml-to-ott/" name="EML Zu OTT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/cpp/conversion/eml-to-wordml/" name="EML Zu WORDML" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/cpp/conversion/eml-to-docx/" name="EML Zu DOCX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/cpp/conversion/eml-to-rtf/" name="EML Zu RTF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/cpp/conversion/eml-to-md/" name="EML Zu MD" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/cpp/conversion/eml-to-dotm/" name="EML Zu DOTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/cpp/conversion/eml-to-jpeg/" name="EML Zu JPEG" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

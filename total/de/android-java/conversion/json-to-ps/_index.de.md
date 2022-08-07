@@ -1,0 +1,89 @@
+---
+title: Konvertieren Sie das JSON-Format in Android über Java in PS
+description: Analysieren Sie JSON in PS in Java, ohne Microsoft Word zu verwenden
+url: /de/android-java/conversion/json-to-ps/
+family: total
+platformtag: cpp
+feature: conversion
+informat: JSON
+outformat: PS
+otherformats: CHM EPUB WORD WORDML DOC FLATOPC MOBI OTT ODT PCL DOT RTF DOCM DOTX
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie das JSON-Format in Android-Anwendungen in PS" h2="Analysieren Sie JSON in PS in Android-Anwendungen, ohne Microsoft<sup>&reg;</sup> Word zu verwenden" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+Sie können JSON in Ihren Android-Anwendungen in zwei Schritten in PS konvertieren. Erstens können Sie mit der leistungsstarken Spreadsheet Processing API [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) JSON in PDF parsen. Im zweiten Schritt können Sie PDF in PS konvertieren, indem Sie die Textverarbeitungs-API [Aspose.Words für Android über Java](https://products.aspose.com/words/android-java/) verwenden. Beide APIs gehören zur Produktfamilie [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Konvertieren Sie das JSON-Format in Android über Java in PS" %}}
+1. Erstellen Sie ein neues [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)-Objekt und lesen Sie gültige JSON-Daten aus der Datei
+2. Importieren Sie die JSON-Datei in das Arbeitsblatt mit der Klasse [JsonUtility](https://reference.aspose.com/cells/java/com.aspose.cells/JsonUtility) und [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) als PDF
+3. Laden Sie das PDF-Dokument mithilfe der Klasse [Document](https://reference.aspose.com/words/java/com.aspose.words/Document).
+4. Speichern Sie das Dokument im PS-Format mit [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) Methode
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
+Sie können Aspose.Total für Android ganz einfach über Java direkt von [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) und verwenden Installieren Sie Bibliotheken in Ihrer App.
+
+Alternativ können Sie eine ZIP-Datei von [downloads](https://downloads.aspose.com/total/androidjava) herunterladen.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "parse-json-to-doc.java" >}}
+
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Legen Sie das Layout fest und konvertieren Sie das JSON-Format in Android über Java in PS" %}}
+Darüber hinaus können Sie mit der API Layoutoptionen für Ihr JSON-Format festlegen, während Sie JSON mit [JsonLayoutOptions](https://reference.aspose.com/cells/java/com.aspose.cells/jsonlayoutoptions) in PS parsen. Es ermöglicht Ihnen, Array als Tabelle zu verarbeiten, Nullen zu ignorieren, Array-Titel zu ignorieren, Objekttitel zu ignorieren, Zeichenfolge in Zahl oder Datum umzuwandeln, Datums- und Zahlenformat festzulegen und Titelstil festzulegen. Alle diese Optionen ermöglichen es Ihnen, Ihre Daten nach Ihren Bedürfnissen zu präsentieren. Das folgende Code-Snippet zeigt Ihnen, wie Sie die Layout-Optionen festlegen.
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "set-layout-and-parse-json-to-doc.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="Konvertieren Sie das JSON-Format in PS mit Wasserzeichen in Android über Java" %}}
+Mit der API können Sie auch JSON in PS mit Wasserzeichen konvertieren. Um Ihrem PS-Dokument ein Wasserzeichen hinzuzufügen, können Sie zuerst die JSON-Datei in PDF parsen und ihr ein Wasserzeichen hinzufügen. Um ein Wasserzeichen hinzuzufügen, laden Sie die neu erstellte PDF-Datei mit der Klasse [Document](https://reference.aspose.com/words/java/com.aspose.words/Document), erstellen Sie eine Instanz von TextWatermarkOptions und setzen Sie sie seine Eigenschaften, Methode Watermark.setText aufrufen und Wasserzeichentext und Objekt von TextWatermarkOptions übergeben. Nachdem Sie das Wasserzeichen hinzugefügt haben, können Sie das Dokument in PS speichern.
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "parse-json-to-word-with-watermark.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Konvertierungen" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/json-to-ps/" name="JSON Zu PS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/json-to-epub/" name="JSON Zu EPUB" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/json-to-word/" name="JSON Zu WORD" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/json-to-wordml/" name="JSON Zu WORDML" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/json-to-doc/" name="JSON Zu DOC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/json-to-flatopc/" name="JSON Zu FLATOPC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/json-to-mobi/" name="JSON Zu MOBI" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/json-to-ott/" name="JSON Zu OTT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/json-to-odt/" name="JSON Zu ODT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/json-to-pcl/" name="JSON Zu PCL" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/json-to-dot/" name="JSON Zu DOT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/json-to-rtf/" name="JSON Zu RTF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/json-to-docm/" name="JSON Zu DOCM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/json-to-dotx/" name="JSON Zu DOTX" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

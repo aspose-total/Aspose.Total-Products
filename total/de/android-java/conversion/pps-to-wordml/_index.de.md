@@ -1,0 +1,77 @@
+---
+title: Exportieren Sie PPS nach WORDML auf Andorid über Java
+description: Konvertieren Sie PPS in WORDML in mobilen Apps, ohne Software zu installieren
+url: /de/android-java/conversion/pps-to-wordml/
+family: total
+platformtag: cpp
+feature: conversion
+informat: PPS
+outformat: WORDML
+otherformats: DOT WORD DOCM DOTM DOTX DOC OTT DOCX ODT TEXT FLATOPC RTF
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Rendern Sie PPS zu WORDML auf Andorid über Java" h2="Dateiformat-APIs zum Konvertieren von PPS in WORDML in Android-Apps, ohne von Microsoft PowerPoint oder Word abhängig zu sein" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+[Aspose.Total für Android über Java](https://products.aspose.com/total/android-java/) ermöglicht die Manipulation von Dateiformaten in Android-Anwendungen. Durch die Verwendung der im Paket bereitgestellten APIs können Sie den Konvertierungsprozess von PowerPoint PPS in Word WORDML in Ihren Apps automatisieren.
+Sie können Ihr angegebenes Dokument in zwei Schritten konvertieren. Sie können [Aspose.Slides for Andorid via Java](https://products.aspose.com/slides/android-java/) verwenden, eine PowerPoint-API für Android-Anwendungen, um PPS in HTML zu rendern. Danach können Sie mithilfe der Dokumentverarbeitungs-API [Aspose.Words für Android über Java](https://products.aspose.com/words/android-java/) den HTML-Code in WORDML konvertieren. 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="PPS-zu-WORDML-Rendering in Android" %}}
+1. Öffnen Sie die PPS-Datei mit der Klasse [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation).
+2. Konvertieren Sie PPS in HTML mit [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) Methode und legen Sie Html als SaveFormat fest
+3. Laden Sie die konvertierte HTML-Datei mit der Klasse [Wordmlument](https://reference.aspose.com/words/java/com.aspose.words/Wordmlument).
+4. Speichern Sie das Dokument im WORDML-Format mit der Methode [save](https://reference.aspose.com/words/java/com.aspose.words/Wordmlument#save(java.lang.String,int)) und legen Sie Wordml als SaveFormat
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
+Sie können Aspose.Total für Android ganz einfach über Java direkt von [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) und verwenden Installieren Sie [Aspose.Slides für Android über Java](https://wordmls.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) und [Aspose.Words für Andorid über Java](https://wordmls.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) in Ihrem Anwendungen.
+
+Alternativ können Sie eine ZIP-Datei von [downloads](https://downloads.aspose.com/total/androidjava) herunterladen.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+```cs
+// instantiate a Presentation object that represents a PPS file
+Presentation presentation = new Presentation("input.pps");
+// save the presentation as HTML
+presentation.save("htmlOutput.html", SaveFormat.Html);
+// load HTML with an instance of Wordmlument
+Wordmlument wordmlument = new Wordmlument("htmlOutput.html");
+// save wordmlument in WORDML format
+wordmlument.save("output.wordml",SaveFormat.WordML);   
+```
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Konvertierungen" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/pps-to-dot/" name="PPS Zu DOT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/pps-to-word/" name="PPS Zu WORD" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/pps-to-wordmlm/" name="PPS Zu WORDMLM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/pps-to-dotm/" name="PPS Zu DOTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/pps-to-dotx/" name="PPS Zu DOTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/pps-to-wordml/" name="PPS Zu WORDML" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/pps-to-ott/" name="PPS Zu OTT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/pps-to-wordmlx/" name="PPS Zu WORDMLX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/pps-to-odt/" name="PPS Zu ODT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/pps-to-text/" name="PPS Zu TEXT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/pps-to-flatopc/" name="PPS Zu FLATOPC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/android-java/conversion/pps-to-rtf/" name="PPS Zu RTF" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}
