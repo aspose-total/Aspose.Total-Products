@@ -1,0 +1,89 @@
+---
+title: Android API για μετατροπή WORD σε XLSB
+description: Μετατροπή WORD σε XLSB στο Android μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel
+url: /el/android-java/conversion/word-to-xlsb/
+family: total
+platformtag: cpp
+feature: conversion
+informat: DOC
+outformat: XLSB
+otherformats: XLTX ODS EXCEL XLS XLTM DIF SXC XLAM FODS XLT TSV XLSX XLSM CSV
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή WORD σε XLSB στις Εφαρμογές Android" h2="Εξαγωγή WORD σε XLSB στο Android μέσω Java χωρίς χρήση Microsoft<sup>&reg;</sup> Word ή Microsoft<sup>&reg;</sup> Excel" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+Χρησιμοποιώντας το [Aspose.Total για Android μέσω Java](https://products.aspose.com/total/android-java/) μπορείτε να ενσωματώσετε τη δυνατότητα μετατροπής WORD σε XLSB στις εφαρμογές σας Android. Πρώτον, μπορείτε να μετατρέψετε το WORD σε HTML χρησιμοποιώντας πλούσιο σε χαρακτηριστικά, API χειρισμού εγγράφων και μετατροπής [Aspose.Words για Android μέσω Java](https://products.aspose.com/words/android-java/). Μετά από αυτό, χρησιμοποιώντας το [Aspose.Cells για Java](https://products.aspose.com/cells/android-java/), μπορείτε να μετατρέψετε HTML σε XLSB. 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Android API για μετατροπή WORD σε XLSB" %}}
+1. Ανοίξτε το αρχείο WORD χρησιμοποιώντας την κλάση [Wordument](https://reference.aspose.com/words/java/com.aspose.words/Wordument)
+2. Μετατρέψτε το WORD σε HTML χρησιμοποιώντας το [Save](https://reference.aspose.com/words/java/com.aspose.words/Wordument#save(java.lang.String,com.aspose.words.SaveOptions) ) μέθοδος
+3. Φορτώστε το έγγραφο HTML χρησιμοποιώντας την τάξη [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Αποθηκεύστε το έγγραφο σε μορφή XLSB χρησιμοποιώντας το [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) μέθοδο
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
+Μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.Total για Android μέσω Java απευθείας από το [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) και εγκαταστήστε το [Aspose.Cells για Android μέσω Java](https://words.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via- java-from-maven-repository) και [Aspose.Words για Android μέσω Java](https://words.aspose.com/words/java/install-aspose-words-for-android-via-java/#install- asposewords-for-android-via-java-from-maven-repository) στις εφαρμογές σας.
+
+Εναλλακτικά, μπορείτε να λάβετε ένα αρχείο ZIP από τις [downloads](https://downloads.aspose.com/total/androidjava).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-word-to-excel.java" >}}
+
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Καταργήστε τις αχρησιμοποίητες πληροφορίες από ένα έγγραφο WORD στο Android μέσω Java" %}}
+Πριν μετατρέψετε το WORD σε XLSB, μπορείτε να αφαιρέσετε αχρησιμοποίητες πληροφορίες από το έγγραφο WORD μέσω του [Aspose.Words για Android μέσω Java](https://products.aspose.com/words/android-java/). Μερικές φορές μπορεί να χρειαστεί να αφαιρέσετε αχρησιμοποίητες ή διπλότυπες πληροφορίες για να μειώσετε το μέγεθος του εγγράφου εξόδου και τον χρόνο επεξεργασίας. Η κλάση [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) σάς επιτρέπει να καθορίσετε επιλογές για τον καθαρισμό εγγράφων. Για να αφαιρέσετε διπλότυπα στυλ ή απλώς αχρησιμοποίητα στυλ ή λίστες από το έγγραφο, μπορείτε να χρησιμοποιήσετε τη μέθοδο [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Wordument#cleanup()). Μπορείτε να χρησιμοποιήσετε τα [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) και [UnusedBuiltinStyles](https://reference.aspose.com/words/java) για τον εντοπισμό και την αφαίρεση στυλ που επισημαίνονται ως "αχρησιμοποίητα".
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-wordument.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="Αποθηκεύστε το αρχείο XLSB στη ροή στο Android μέσω Java" %}}
+Μετά τη μετατροπή του WORD σε XLSB, το [Aspose.Cells για Android μέσω Java](https://products.aspose.com/cells/android-java/) σάς δίνει τη δυνατότητα να αποθηκεύσετε το έγγραφό σας σε ροή. Εάν χρειάζεται να αποθηκεύσετε αρχεία σε μια ροή, τότε θα πρέπει να δημιουργήσετε ένα αντικείμενο FileOutputStream και, στη συνέχεια, [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) το αρχείο σε αυτό το αντικείμενο Stream καλώντας τη μέθοδο αποθήκευσης του [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) αντικείμενο.
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Άλλες υποστηριζόμενες μετατροπές" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/android-java/conversion/word-to-xltx/" name="WORD Προς την XLTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/android-java/conversion/word-to-ods/" name="WORD Προς την ODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/android-java/conversion/word-to-excel/" name="WORD Προς την EXCEL" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/android-java/conversion/word-to-xls/" name="WORD Προς την XLS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/android-java/conversion/word-to-xltm/" name="WORD Προς την XLTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/android-java/conversion/word-to-dif/" name="WORD Προς την DIF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/android-java/conversion/word-to-sxc/" name="WORD Προς την SXC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/android-java/conversion/word-to-xlam/" name="WORD Προς την XLAM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/android-java/conversion/word-to-fods/" name="WORD Προς την FODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/android-java/conversion/word-to-xlt/" name="WORD Προς την XLT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/android-java/conversion/word-to-tsv/" name="WORD Προς την TSV" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/android-java/conversion/word-to-xlsx/" name="WORD Προς την XLSX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/android-java/conversion/word-to-xlsm/" name="WORD Προς την XLSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/android-java/conversion/word-to-xlsb/" name="WORD Προς την XLSB" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}
