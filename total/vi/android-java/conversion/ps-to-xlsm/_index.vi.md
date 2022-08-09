@@ -1,0 +1,85 @@
+---
+title: Chuyển đổi PS sang XLSM trong Android qua Java
+description: Kết xuất PS sang XLSM trong Android thông qua API Java mà không cần sử dụng Microsoft Excel hoặc Adobe Reader
+url: /vi/android-java/conversion/ps-to-xlsm/
+family: total
+platformtag: cpp
+feature: conversion
+informat: PS
+outformat: XLSM
+otherformats: XLSB CSV XLTX DIF ODS XLT MD SXC TSV FODS XLTM XLAM
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Kết xuất PS sang XLSM trong Android qua Java" h2="Chuyển đổi PS sang XLSM trong các ứng dụng Android mà không yêu cầu Microsoft <sup> <sup>&reg;</sup>; </sup> Excel hoặc Adobe <sup> <sup>&reg;</sup>; </sup> Acrobat Reader" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+Bạn có thể tích hợp tính năng chuyển đổi PS sang XLSM trong các ứng dụng Android của mình trong quy trình hai bước. Thứ nhất, bằng cách sử dụng [Aspose.PDF dành cho Android qua Java](https://products.aspose.com/pdf/android-java/), bạn có thể chuyển PS sang XLSX. Thứ hai, bạn có thể chuyển đổi XLSX sang XLSM bằng cách sử dụng API xử lý bảng tính mạnh mẽ [Aspose.Cells cho Android qua Java](https://products.aspose.com/cells/android-java/). Cả hai API đều thuộc họ sản phẩm [Aspose.Total cho Android qua Java](https://products.aspose.com/total/android-java/). 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="API Android để hiển thị PS sang XLSM" %}}
+1. Mở tệp PS bằng lớp [Tài liệu](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. Chuyển đổi PS sang XLSX bằng cách sử dụng [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) phương pháp
+3. Tải tài liệu XLSX bằng cách sử dụng lớp [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Lưu tài liệu sang định dạng XLSM bằng cách sử dụng [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook)
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
+Bạn có thể dễ dàng sử dụng Aspose.Total cho Android qua Java trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và cài đặt [Aspose.PDF cho Android qua Java](https://docs.aspose.com/pdf/androidjava/installation/) và [Aspose.Cells for Android via Java](https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-install/) trong các ứng dụng của bạn.
+
+Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://downloads.aspose.com/total/androidjava).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "convert-pdf-to-excel.java" >}}
+
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Nhận siêu dữ liệu XMP của tệp PS trong Android qua Java" %}}
+[Aspose.PDF dành cho Android qua Java](https://products.aspose.com/pdf/android-java/) cho phép bạn truy cập siêu dữ liệu XMP của tệp PS. Để lấy siêu dữ liệu, hãy tạo đối tượng [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) và mở tệp PS đầu vào và sử dụng [getMetadata ()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) thuộc tính để lấy siêu dữ liệu.
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="Bảo vệ tài liệu XLSM trong Android qua Java" %}}
+[Aspose.Cells cho Android qua Java](https://products.aspose.com/cells/android-java/) hỗ trợ bảo vệ tệp XLSM của bạn tùy theo nhu cầu của bạn. Để bảo vệ tài liệu của mình, bạn có thể sử dụng phương pháp [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook (java.lang.String)) của [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) lớp.
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-xlsm.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Các chuyển đổi được hỗ trợ khác" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/android-java/conversion/ps-to-xlsb/" name="PS Đến XLSB" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/android-java/conversion/ps-to-xlsm/" name="PS Đến XLSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/android-java/conversion/ps-to-xltx/" name="PS Đến XLTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/android-java/conversion/ps-to-dif/" name="PS Đến DIF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/android-java/conversion/ps-to-ods/" name="PS Đến ODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/android-java/conversion/ps-to-xlt/" name="PS Đến XLT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/android-java/conversion/ps-to-md/" name="PS Đến MD" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/android-java/conversion/ps-to-sxc/" name="PS Đến SXC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/android-java/conversion/ps-to-tsv/" name="PS Đến TSV" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/android-java/conversion/ps-to-fods/" name="PS Đến FODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/android-java/conversion/ps-to-xltm/" name="PS Đến XLTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/android-java/conversion/ps-to-xlam/" name="PS Đến XLAM" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

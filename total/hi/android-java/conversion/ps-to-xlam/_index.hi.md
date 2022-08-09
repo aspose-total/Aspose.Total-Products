@@ -1,0 +1,85 @@
+---
+title: जावा के माध्यम से एंड्रॉइड में सीजीएम को सीएसवी में कनवर्ट करें
+description: माइक्रोसॉफ्ट एक्सेल या एडोब रीडर का उपयोग किए बिना जावा एपीआई के माध्यम से एंड्रॉइड में सीएसवी को सीजीएम प्रस्तुत करें
+url: /hi/android-java/conversion/ps-to-xlam/
+family: total
+platformtag: cpp
+feature: conversion
+informat: PS
+outformat: XLAM
+otherformats: SXC FODS CSV EXCEL XLT TXT MD XLTM ODS XLSM TSV XLSB
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="जावा के माध्यम से एंड्रॉइड में सीएसवी को सीजीएम प्रस्तुत करें" h2="Microsoft<sup>&reg;</sup> Excel या Adobe<sup>&reg;</sup> Acrobat Reader की आवश्यकता के बिना Android अनुप्रयोगों में PS को XLAM में रूपांतरित करें" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+आप दो चरणों की प्रक्रिया में अपने एंड्रॉइड एप्लिकेशन के भीतर सीजीएम से सीएसवी रूपांतरण सुविधा को एकीकृत कर सकते हैं। सबसे पहले, [जावा के माध्यम से Android के लिए Aspose.PDF](https://products.aspose.com/pdf/android-java/) का उपयोग करके आप PS को XLSX में गुप्त कर सकते हैं। दूसरे, आप पावरफुल स्प्रेडशीट प्रोसेसिंग एपीआई [Aspose.Cells for Android by Java](https://products.aspose.com/cells/android-java/) का इस्तेमाल करके XLSX को XLAM में बदल सकते हैं। दोनों API [Aspose.Total for Android by Java](https://products.aspose.com/total/android-java/) उत्पाद परिवार के अंतर्गत आते हैं। 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="सीएसवी को सीजीएम प्रस्तुत करने के लिए एंड्रॉइड एपीआई" %}}
+1. [दस्तावेज़](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) वर्ग का उपयोग करके सीजीएम फ़ाइल खोलें
+2. [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) का उपयोग करके PS को XLSX में बदलें। ) तरीका
+3. [वर्कबुक](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) क्लास का इस्तेमाल करके XLSX दस्तावेज़ लोड करें
+4. [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells)) का उपयोग करके दस्तावेज़ को XLAM प्रारूप में सहेजें। SaveOptions)) विधि
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
+आप [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) से सीधे जावा के माध्यम से Android के लिए Aspose.Total का आसानी से उपयोग कर सकते हैं और [जावा के माध्यम से Android के लिए Aspose.PDF](https://docs.aspose.com/pdf/androidjava/installation/) और [Java के माध्यम से Android के लिए Aspose.Cells](https://docs.aspose.com/cells) इंस्टॉल करें /java/aspose-cells-for-android-via-java-installation/) आपके एप्लिकेशन में।
+
+वैकल्पिक रूप से, आप [डाउनलोड](https://downloads.aspose.com/total/androidjava) से एक ज़िप फ़ाइल प्राप्त कर सकते हैं।
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "convert-pdf-to-excel.java" >}}
+
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="जावा के माध्यम से Android में PS फ़ाइल का XMP मेटाडेटा प्राप्त करें" %}}
+[जावा के माध्यम से Android के लिए Aspose.PDF](https://products.aspose.com/pdf/android-java/) आपको PS फ़ाइल के XMP मेटाडेटा तक पहुंचने की अनुमति देता है। मेटाडेटा प्राप्त करने के लिए, एक [दस्तावेज़](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) ऑब्जेक्ट बनाएं और इनपुट PS फ़ाइल खोलें और [getMetadata()] का उपयोग करें (https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) संपत्ति मेटाडेटा प्राप्त करने के लिए।
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="जावा के माध्यम से Android में XLAM दस्तावेज़ को सुरक्षित रखें" %}}
+[Java के माध्यम से Android के लिए Aspose.Cells](https://products.aspose.com/cells/android-java/) आपकी ज़रूरतों के आधार पर आपकी XLAM फ़ाइल की सुरक्षा का समर्थन करता है। अपने दस्तावेज़ की सुरक्षा के लिए आप [workbook] की [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) विधि का उपयोग कर सकते हैं। https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) वर्ग।
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-xlam.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="अन्य समर्थित रूपांतरण" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/android-java/conversion/ps-to-sxc/" name="PS प्रति SXC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/android-java/conversion/ps-to-fods/" name="PS प्रति FODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/android-java/conversion/ps-to-xlam/" name="PS प्रति XLAM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/android-java/conversion/ps-to-excel/" name="PS प्रति EXCEL" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/android-java/conversion/ps-to-xlt/" name="PS प्रति XLT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/android-java/conversion/ps-to-txt/" name="PS प्रति TXT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/android-java/conversion/ps-to-md/" name="PS प्रति MD" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/android-java/conversion/ps-to-xltm/" name="PS प्रति XLTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/android-java/conversion/ps-to-ods/" name="PS प्रति ODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/android-java/conversion/ps-to-xlsm/" name="PS प्रति XLSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/android-java/conversion/ps-to-tsv/" name="PS प्रति TSV" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/android-java/conversion/ps-to-xlsb/" name="PS प्रति XLSB" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

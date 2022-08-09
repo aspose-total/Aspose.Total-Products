@@ -1,0 +1,77 @@
+---
+title: Eksportuj POTM do OTT na Androidzie przez Javę
+description: Konwertuj POTM na OTT w aplikacjach mobilnych bez instalowania żadnego oprogramowania
+url: /pl/android-java/conversion/potm-to-ott/
+family: total
+platformtag: cpp
+feature: conversion
+informat: POTM
+outformat: OTT
+otherformats: ODT DOC DOCM WORD DOTX TEXT DOT WORDML FLATOPC DOTM RTF DOCX
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Renderuj POTM do OTT na Androidzie przez Javę" h2="Interfejsy API formatów plików do konwersji POTM na OTT w aplikacjach na Androida bez konieczności korzystania z programu Microsoft PowerPoint lub Word" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+[Aspose.Total na Androida przez Javę](https://products.aspose.com/total/android-java/) umożliwia manipulowanie formatami plików w aplikacjach na Androida. Korzystając z interfejsów API dostarczonych w pakiecie, możesz zautomatyzować proces konwersji PowerPoint POTM do Word OTT w swoich aplikacjach.
+Możesz przekonwertować swój dokument w dwóch krokach. Do renderowania POTM do HTML możesz użyć [Aspose.Slides for Andorid przez Javę](https://products.aspose.com/slides/android-java/), czyli interfejsu API PowerPoint dla aplikacji na Androida. Następnie za pomocą interfejsu API przetwarzania dokumentów [Aspose.Words dla Androida przez Javę](https://products.aspose.com/words/android-java/) możesz przekonwertować HTML na OTT. 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Renderowanie POTM do OTT w systemie Android" %}}
+1. Otwórz plik POTM za pomocą klasy [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. Przekonwertuj POTM na HTML, używając [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) i ustaw HTML jako SaveFormat
+3. Załaduj przekonwertowany plik HTML za pomocą klasy [Ottument](https://reference.aspose.com/words/java/com.aspose.words/Ottument)
+4. Zapisz dokument w formacie OTT za pomocą metody [save](https://reference.aspose.com/words/java/com.aspose.words/Ottument#save(java.lang.String,int)) i ustaw Ott jako SaveFormat
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
+Możesz łatwo używać Aspose.Total dla Androida przez Javę bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i zainstaluj [Aspose.Slides na Androida przez Javę](https://otts.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) i [Aspose.Words na Androida przez Javę](https://otts.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) w swoim Aplikacje.
+
+Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com/total/androidjava).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+```cs
+// instantiate a Presentation object that represents a POTM file
+Presentation presentation = new Presentation("input.potm");
+// save the presentation as HTML
+presentation.save("htmlOutput.html", SaveFormat.Html);
+// load HTML with an instance of Ottument
+Ottument ottument = new Ottument("htmlOutput.html");
+// save ottument in OTT format
+ottument.save("output.ott",SaveFormat.Ott);   
+```
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/potm-to-odt/" name="POTM Do ODT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/potm-to-ott/" name="POTM Do OTT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/potm-to-ottm/" name="POTM Do OTTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/potm-to-word/" name="POTM Do WORD" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/potm-to-dotx/" name="POTM Do DOTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/potm-to-text/" name="POTM Do TEXT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/potm-to-dot/" name="POTM Do DOT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/potm-to-wordml/" name="POTM Do WORDML" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/potm-to-flatopc/" name="POTM Do FLATOPC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/potm-to-dotm/" name="POTM Do DOTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/potm-to-rtf/" name="POTM Do RTF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/potm-to-ottx/" name="POTM Do OTTX" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

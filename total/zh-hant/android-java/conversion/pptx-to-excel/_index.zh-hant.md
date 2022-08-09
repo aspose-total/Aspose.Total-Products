@@ -1,0 +1,119 @@
+---
+title: 通過 Java 在 Android 中將 PPTX 轉換為 EXCEL
+description: 在不使用 Microsoft Excel 或 PowerPoint 的情況下，通過 Java 在 Android 中將 PPTX 轉換為 EXCEL
+url: /zh-hant/android-java/conversion/pptx-to-excel/
+family: total
+platformtag: cpp
+feature: conversion
+informat: PPTX
+outformat: EXCEL
+otherformats: MARKDOWN FODS XLTX XLSB XLT XLSM XLS XLTM XLAM XLSX TSV SXC CSV MHTML DIF ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="通過 Java 在 Android 中將 PPTX 轉換為 EXCEL" h2="無需使用 Microsoft<sup>&reg;</sup> Excel 或 PowerPoint 在 Android 應用程序中將 PPTX 文件導出為 EXCEL" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+您可以通過 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) 分兩步在 Android 應用程序中輕鬆地將 PPTX 文件轉換為 EXCEL。第一步，您可以使用 [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) 將 PPTX 文件導出為 HTML。其次，通過使用 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)，您可以將 HTML 轉換為 EXCEL。 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="如何在 Android 中將 PPTX 轉換為 EXCEL" %}}
+1. 使用 [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 類打開 PPTX 文件
+2. 使用 [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides) 將 PPTX 轉換為 HTML。ISaveOptions-) 方法
+3. 使用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 類加載 HTML 文檔
+4. 使用 [save](https://reference.aspose.com/cells/java/com.aspose.cells/) 將文檔保存為 EXCEL 格式
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="轉換要求" %}}
+為了將 PPTX 轉換為 EXCEL，您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)並在您的應用程序中安裝庫。
+
+或者，您可以從 [下載](https://downloads.aspose.com/total/androidjava) 獲取 ZIP 文件。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel.java" >}}
+
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="在 Android 中通過 Java 將 Protected PPTX 轉換為 EXCEL" %}}
+使用 API，您還可以打開受密碼保護的文檔。如果您輸入的 PPTX 文檔受密碼保護，則您無法在不使用密碼的情況下將其轉換為 EXCEL。 API 允許您通過在 LoadOptions 對像中傳遞正確的密碼來打開加密的文檔。以下代碼示例顯示瞭如何嘗試使用密碼打開加密文檔：
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="在 Android 中將 PPTX 文件轉換為帶有水印的 EXCEL" %}}
+在將 PPTX 文件轉換為 EXCEL 時，您還可以在輸出的 EXCEL 文件格式中添加水印。為了添加水印，創建一個新的工作簿來打開轉換後的 HTML 文件。通過其索引選擇 Worksheet，創建一個 Shape 並使用其 addTextEffect 函數，設置顏色、透明度等。之後，您可以將 HTML 文檔保存為帶水印的 EXCEL。
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="其他支持的轉換" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/pptx-to-markdown/" name="PPTX 至 MARKDOWN" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/pptx-to-fods/" name="PPTX 至 FODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/pptx-to-xltx/" name="PPTX 至 XLTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/pptx-to-xlsb/" name="PPTX 至 XLSB" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/pptx-to-xlt/" name="PPTX 至 XLT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/pptx-to-xlsm/" name="PPTX 至 XLSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/pptx-to-xls/" name="PPTX 至 XLS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/pptx-to-xltm/" name="PPTX 至 XLTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/pptx-to-xlam/" name="PPTX 至 XLAM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/pptx-to-xlsx/" name="PPTX 至 XLSX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/pptx-to-tsv/" name="PPTX 至 TSV" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/pptx-to-sxc/" name="PPTX 至 SXC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/pptx-to-excel/" name="PPTX 至 EXCEL" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/pptx-to-mhtml/" name="PPTX 至 MHTML" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/pptx-to-dif/" name="PPTX 至 DIF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/pptx-to-ods/" name="PPTX 至 ODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/pptx-to-doc/" name="PPTX 至 DOC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/pptx-to-docx/" name="PPTX 至 DOCX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/pptx-to-docm/" name="PPTX 至 DOCM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/pptx-to-dot/" name="PPTX 至 DOT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/pptx-to-dotm/" name="PPTX 至 DOTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/pptx-to-dotx/" name="PPTX 至 DOTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/pptx-to-odt/" name="PPTX 至 ODT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/pptx-to-ott/" name="PPTX 至 OTT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/pptx-to-rtf/" name="PPTX 至 RTF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/pptx-to-word/" name="PPTX 至 WORD" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/pptx-to-wordml/" name="PPTX 至 WORDML" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/pptx-to-text/" name="PPTX 至 TEXT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/pptx-to-flatopx/" name="PPTX 至 FLATOPX" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

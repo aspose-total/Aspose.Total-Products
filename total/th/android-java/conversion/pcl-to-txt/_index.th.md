@@ -1,0 +1,85 @@
+---
+title: แปลง PCL เป็น TXT ใน Android ผ่าน Java
+description: แสดง PCL เป็น TXT ใน Android ผ่าน Java API โดยไม่ต้องใช้ Microsoft Excel หรือ Adobe Reader
+url: /th/android-java/conversion/pcl-to-txt/
+family: total
+platformtag: cpp
+feature: conversion
+informat: PCL
+outformat: TXT
+otherformats: TSV XLT XLTX DIF XLAM SXC MD XLSB XLSM EXCEL FODS CSV
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="แสดง PCL เป็น TXT ใน Android ผ่าน Java" h2="เปลี่ยน PCL เป็น TXT ภายในแอปพลิเคชัน Android โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Excel หรือ Adobe<sup>&reg;</sup> Acrobat Reader" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+คุณสามารถรวมคุณลักษณะการแปลง PCL เป็น TXT ภายในแอปพลิเคชัน Android ของคุณในกระบวนการสองขั้นตอน ประการแรก โดยใช้ [Aspose.PDF สำหรับ Android ผ่าน Java](https://products.aspose.com/pdf/android-java/) คุณสามารถแปลง PCL เป็น XLSX ได้ ประการที่สอง คุณสามารถแปลง XLSX เป็น TXT ได้โดยใช้ API การประมวลผลสเปรดชีตที่มีประสิทธิภาพ [Aspose.Cells สำหรับ Android ผ่าน Java](https://products.aspose.com/cells/android-java/) API ทั้งสองอยู่ภายใต้ [Aspose.Total สำหรับ Android ผ่าน Java](https://products.aspose.com/total/android-java/) ตระกูลผลิตภัณฑ์ 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Android API เพื่อแสดงผล PCL เป็น TXT" %}}
+1. เปิดไฟล์ PCL โดยใช้คลาส [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. แปลง PCL เป็น XLSX โดยใช้ [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) กระบวนการ
+3. โหลดเอกสาร XLSX โดยใช้คลาส [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. บันทึกเอกสารในรูปแบบ TXT โดยใช้ [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) วิธีการ
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
+คุณสามารถใช้ Aspose.Total สำหรับ Android ผ่าน Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และ ติดตั้ง [Aspose.PDF สำหรับ Android ผ่าน Java](https://docs.aspose.com/pdf/androidjava/installation/) และ [Aspose.Cells สำหรับ Android ผ่าน Java](https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/) ในแอปพลิเคชันของคุณ
+
+หรือคุณสามารถรับไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/total/androidjava)
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "convert-pdf-to-excel.java" >}}
+
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="รับข้อมูลเมตา XMP ของไฟล์ PCL ใน Android ผ่าน Java" %}}
+[Aspose.PDF สำหรับ Android ผ่าน Java](https://products.aspose.com/pdf/android-java/) ให้คุณเข้าถึงข้อมูลเมตา XMP ของไฟล์ PCL ในการรับข้อมูลเมตา ให้สร้างออบเจ็กต์ [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) และเปิดไฟล์ PCL อินพุตและใช้ [getMetadata()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) เพื่อรับข้อมูลเมตา
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="ปกป้องเอกสาร TXT ใน Android ผ่าน Java" %}}
+[Aspose.Cells สำหรับ Android ผ่าน Java](https://products.aspose.com/cells/android-java/) รองรับการปกป้องไฟล์ TXT ตามความต้องการของคุณ เพื่อป้องกันเอกสารของคุณ คุณสามารถใช้วิธี [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) ของ [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) คลาส
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-txt.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่น ๆ ที่รองรับ" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/pcl-to-tsv/" name="PCL ถึง TSV" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/pcl-to-xlt/" name="PCL ถึง XLT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/pcl-to-xltx/" name="PCL ถึง XLTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/pcl-to-dif/" name="PCL ถึง DIF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/pcl-to-xlam/" name="PCL ถึง XLAM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/pcl-to-sxc/" name="PCL ถึง SXC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/pcl-to-md/" name="PCL ถึง MD" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/pcl-to-xlsb/" name="PCL ถึง XLSB" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/pcl-to-xlsm/" name="PCL ถึง XLSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/pcl-to-excel/" name="PCL ถึง EXCEL" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/pcl-to-fods/" name="PCL ถึง FODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/pcl-to-txt/" name="PCL ถึง TXT" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

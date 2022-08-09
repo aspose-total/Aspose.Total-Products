@@ -1,0 +1,77 @@
+---
+title: Xuất PPS sang DOTM trên Andorid qua Java
+description: Chuyển đổi PPS sang DOTM trong ứng dụng di động mà không cần cài đặt bất kỳ phần mềm nào
+url: /vi/android-java/conversion/pps-to-dotm/
+family: total
+platformtag: cpp
+feature: conversion
+informat: PPS
+outformat: DOTM
+otherformats: DOCM DOTX DOC DOCX WORDML ODT OTT FLATOPC WORD TEXT DOT RTF
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Kết xuất PPS sang DOTM trên Andorid qua Java" h2="Các API định dạng tệp để chuyển đổi PPS sang DOTM trong ứng dụng Android mà không phụ thuộc vào Microsoft PowerPoint hoặc Word" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+[Aspose.Total cho Android qua Java](https://products.aspose.com/total/android-java/) cho phép thao tác các định dạng tệp trong các ứng dụng Android. Bằng cách sử dụng các API được cung cấp trong gói, bạn có thể tự động hóa quy trình chuyển đổi PowerPoint PPS sang Word DOTM trong ứng dụng của mình.
+Bạn có thể chuyển đổi tài liệu đã cho của mình trong hai bước. Bạn có thể sử dụng [Aspose.Slides cho Andorid qua Java](https://products.aspose.com/slides/android-java/) là một API PowerPoint cho các ứng dụng Android để hiển thị PPS sang HTML. Sau đó, bằng cách sử dụng API xử lý tài liệu [Aspose.Words dành cho Android qua Java](https://products.aspose.com/words/android-java/), bạn có thể chuyển đổi HTML thành DOTM. 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="PPS to DOTM Rendering trong Android" %}}
+1. Mở tệp PPS bằng lớp [Trình bày](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. Chuyển đổi PPS sang HTML bằng cách sử dụng [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)ương thứcISaveOptions-) và đặt Html làm SaveFormat
+3. Tải tệp HTML đã chuyển đổi bằng cách sử dụng lớp [Dotmument](https://reference.aspose.com/words/java/com.aspose.words/Dotmument)
+4. Lưu tài liệu sang định dạng DOTM bằng phương pháp [save](https://reference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String, int)) và đặt Dotm dưới dạng SaveFormat
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
+Bạn có thể dễ dàng sử dụng Aspose.Total cho Android qua Java trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và cài đặt [Aspose.Slides dành cho Android qua Java](https://dotms.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) và [Aspose.Words dành cho Andorid qua Java](https://dotms.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) trong các ứng dụng.
+
+Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://downloads.aspose.com/total/androidjava).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+```cs
+// instantiate a Presentation object that represents a PPS file
+Presentation presentation = new Presentation("input.pps");
+// save the presentation as HTML
+presentation.save("htmlOutput.html", SaveFormat.Html);
+// load HTML with an instance of Dotmument
+Dotmument dotmument = new Dotmument("htmlOutput.html");
+// save dotmument in DOTM format
+dotmument.save("output.dotm",SaveFormat.Dotm);   
+```
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Các chuyển đổi được hỗ trợ khác" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/android-java/conversion/pps-to-dotmm/" name="PPS Đến DOTMM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/android-java/conversion/pps-to-dotx/" name="PPS Đến DOTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/android-java/conversion/pps-to-dotm/" name="PPS Đến DOTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/android-java/conversion/pps-to-dotmx/" name="PPS Đến DOTMX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/android-java/conversion/pps-to-wordml/" name="PPS Đến WORDML" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/android-java/conversion/pps-to-odt/" name="PPS Đến ODT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/android-java/conversion/pps-to-ott/" name="PPS Đến OTT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/android-java/conversion/pps-to-flatopc/" name="PPS Đến FLATOPC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/android-java/conversion/pps-to-word/" name="PPS Đến WORD" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/android-java/conversion/pps-to-text/" name="PPS Đến TEXT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/android-java/conversion/pps-to-dot/" name="PPS Đến DOT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/android-java/conversion/pps-to-rtf/" name="PPS Đến RTF" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

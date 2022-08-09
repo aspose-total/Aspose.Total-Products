@@ -1,0 +1,85 @@
+---
+title: Javaを介してAndroidでCGMをMDに変換する
+description: MicrosoftExcelまたはAdobeReaderを使用せずに、JavaAPIを介してAndroidでCGMをMDにレンダリングする
+url: /ja/android-java/conversion/cgm-to-md/
+family: total
+platformtag: cpp
+feature: conversion
+informat: CGM
+outformat: MD
+otherformats: XLSM XLSB EXCEL DIF CSV TXT ODS TSV FODS XLTX XLTM XLAM
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Javaを介してAndroidでCGMをMDにレンダリングする" h2="Microsoft <sup>＆reg; </ sup>ExcelまたはAdobe<sup>＆reg; </ sup> Acrobat Readerを必要とせずに、Androidアプリケーション内でCGMをMDに変換します" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+2ステップのプロセスでAndroidアプリケーション内にCGMからMDへの変換機能を統合できます。まず、[Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)を使用すると、CGMをXLSXに変換できます。次に、強力なスプレッドシート処理API [Java経由のAndroid用Aspose.Cells](https://products.aspose.com/cells/android-java/)を使用して、XLSXをMDに変換できます。どちらのAPIも、[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)製品ファミリーに分類されます。 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="CGMをMDにレンダリングするAndroidAPI" %}}
+1. [ドキュメント](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)クラスを使用してCGMファイルを開きます
+2. [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-を使用してCGMをXLSXに変換します) 方法
+3. [ワークブック](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)クラスを使用してXLSXドキュメントをロードします
+4. [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells))を使用して、ドキュメントをMD形式で保存します。 SaveOptions))メソッド
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
+[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)から直接Java経由でAspose.TotalforAndroidを簡単に使用できます。 [Java経由のAndroid用Aspose.PDF](https://docs.aspose.com/pdf/androidjava/installation/)と[Java経由のAndroid用Aspose.Cells](https://docs.aspose.com/cells)をインストールしますアプリケーションの/java/ aspose-cells-for-android-via-java-installation /)。
+
+または、[ダウンロード](https://downloads.aspose.com/total/androidjava)からZIPファイルを取得することもできます。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "convert-pdf-to-excel.java" >}}
+
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Javaを介してAndroidでCGMファイルのXMPメタデータを取得する" %}}
+[Java経由のAndroid用Aspose.PDF](https://products.aspose.com/pdf/android-java/)を使用すると、CGMファイルのXMPメタデータにアクセスできます。メタデータを取得するには、[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)オブジェクトを作成し、入力CGMファイルを開いて[getMetadata（)]を使用します。 （https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--)メタデータを取得するためのプロパティ。
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="Javaを介してAndroidでMDドキュメントを保護する" %}}
+[Java経由のAndroid用Aspose.Cells](https://products.aspose.com/cells/android-java/)は、ニーズに応じてMDファイルの保護をサポートします。ドキュメントを保護するには、[Workbook](の[protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String))メソッドを使用できます。 https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)クラス。
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-md.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている変換" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/android-java/conversion/cgm-to-xlsm/" name="CGM に XLSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/android-java/conversion/cgm-to-xlsb/" name="CGM に XLSB" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/android-java/conversion/cgm-to-excel/" name="CGM に EXCEL" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/android-java/conversion/cgm-to-dif/" name="CGM に DIF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/android-java/conversion/cgm-to-md/" name="CGM に MD" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/android-java/conversion/cgm-to-txt/" name="CGM に TXT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/android-java/conversion/cgm-to-ods/" name="CGM に ODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/android-java/conversion/cgm-to-tsv/" name="CGM に TSV" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/android-java/conversion/cgm-to-fods/" name="CGM に FODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/android-java/conversion/cgm-to-xltx/" name="CGM に XLTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/android-java/conversion/cgm-to-xltm/" name="CGM に XLTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/android-java/conversion/cgm-to-xlam/" name="CGM に XLAM" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

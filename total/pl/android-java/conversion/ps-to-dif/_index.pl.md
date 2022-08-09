@@ -1,0 +1,85 @@
+---
+title: Konwertuj PS na DIF w Androidzie przez Javę
+description: Renderuj PS do DIF w Androidzie za pomocą Java API bez użycia Microsoft Excel lub Adobe Reader
+url: /pl/android-java/conversion/ps-to-dif/
+family: total
+platformtag: cpp
+feature: conversion
+informat: PS
+outformat: DIF
+otherformats: CSV FODS EXCEL XLTX XLSB XLTM TXT XLAM XLSM XLT TSV ODS
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Renderuj PS do DIF w Androidzie za pomocą Javy" h2="Przekształć PS w DIF w aplikacjach na Androida bez konieczności używania Microsoft<sup>&reg;</sup> Excel lub Adobe<sup>&reg;</sup> Acrobat Reader" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+Możesz zintegrować funkcję konwersji PS na DIF w swoich aplikacjach na Androida w dwuetapowym procesie. Po pierwsze, używając [Aspose.PDF dla Androida przez Javę](https://products.aspose.com/pdf/android-java/) możesz zamienić PS na XLSX. Po drugie, możesz przekonwertować XLSX na DIF, korzystając z interfejsu API Powerful Spreadsheet Processing [Aspose.Cells na Androida przez Javę](https://products.aspose.com/cells/android-java/). Oba interfejsy API należą do rodziny produktów [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Android API do renderowania PS do DIF" %}}
+1. Otwórz plik PS za pomocą klasy [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. Konwertuj PS na XLSX, używając [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) metoda
+3. Załaduj dokument XLSX za pomocą klasy [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Zapisz dokument w formacie DIF, używając [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) metoda
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
+Możesz łatwo używać Aspose.Total dla Androida przez Javę bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i zainstaluj [Aspose.PDF na Androida przez Javę](https://docs.aspose.com/pdf/androidjava/installation/) i [Aspose.Cells na Androida przez Javę](https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/) w swoich aplikacjach.
+
+Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com/total/androidjava).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "convert-pdf-to-excel.java" >}}
+
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Uzyskaj metadane XMP pliku PS w systemie Android za pośrednictwem Javy" %}}
+[Aspose.PDF na Androida przez Javę](https://products.aspose.com/pdf/android-java/) umożliwia dostęp do metadanych XMP pliku PS. Aby uzyskać metadane, utwórz obiekt [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) i otwórz wejściowy plik PS i użyj [getMetadata()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) w celu pobrania metadanych.
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="Chroń dokument DIF w Androidzie przez Javę" %}}
+[Aspose.Cells na Androida przez Javę](https://products.aspose.com/cells/android-java/) obsługuje ochronę Twojego pliku DIF w zależności od Twoich potrzeb. Aby chronić swój dokument, możesz użyć metody [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-dif.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/ps-to-dif/" name="PS Do DIF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/ps-to-fods/" name="PS Do FODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/ps-to-excel/" name="PS Do EXCEL" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/ps-to-xltx/" name="PS Do XLTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/ps-to-xlsb/" name="PS Do XLSB" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/ps-to-xltm/" name="PS Do XLTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/ps-to-txt/" name="PS Do TXT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/ps-to-xlam/" name="PS Do XLAM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/ps-to-xlsm/" name="PS Do XLSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/ps-to-xlt/" name="PS Do XLT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/ps-to-tsv/" name="PS Do TSV" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/ps-to-ods/" name="PS Do ODS" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

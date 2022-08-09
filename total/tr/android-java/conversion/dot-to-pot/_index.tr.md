@@ -1,0 +1,74 @@
+---
+title: Java ile Android'de DOT'yi POT'ye dönüştürün
+description: Microsoft Word of PowerPoint kullanmadan Android Telefonlarınızda DOT'den POT'ye dönüştürme
+url: /tr/android-java/conversion/dot-to-pot/
+family: total
+platformtag: cpp
+feature: conversion
+informat: DOT
+outformat: POT
+otherformats: PPT PPSX PPTX PPS PPSM POTM POTX POWERPOINT PPTM ODP
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Android Uygulamalarında DOT'yi POT'ye Dönüştür" h2="Microsoft Word<sup>&reg;</sup> veya PowerPoint yüklemeden Android Uygulamalarınızda DOT'den POT'ye dönüştürme" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+Uygulamanıza belge dönüştürme özelliği eklemek isteyen bir Android geliştiricisi misiniz? [Java aracılığıyla Android için Aspose.Total](https://products.aspose.com/total/android-java/) Dosya Biçimi Otomasyonu kitaplıkları, Android uygulamalarınızda belge dönüştürme işlemini otomatikleştirmenize yardımcı olabilir. DOT dosyasını POT'ye dönüştürmek için, önce DOT dosya biçimini HTML'ye dönüştürmek için belge işleme API'sini [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) kullanabilirsiniz. Bundan sonra PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) kullanarak yeni bir Sunum oluşturabilir, içine HTML içeriği yazabilir ve farklı olarak kaydedebilirsiniz. POT. 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Android'de DOT'yi POT'ye Dönüştürme" %}}
+1. DOT dosyasını [Dotument](https://reference.aspose.com/words/java/com.aspose.words/Dotument) sınıfını kullanarak açın
+2. [save](https://reference.aspose.com/words/java/com.aspose.words/Dotument#save(java.lang.String,com.aspose.words.SaveOptions) kullanarak DOT dosyasını HTML'ye dönüştürün )) yöntem
+3. Yeni bir [Sunum](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) nesnesini başlatın
+5. BufferedReader kullanarak HTML dosyasından içerik çıkarın ve içeriği sunum dosyanıza yazın
+6. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) yöntemini kullanarak belgeyi POT'ye kaydedin
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Dönüşüm Gereksinimleri" %}}
+DOT'den POT'ye dosya dönüştürme için Aspose.Total for Android'i Java aracılığıyla doğrudan [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/) kullanabilirsiniz. aspose/aspose-total) ve uygulamanıza kitaplıkları kurun.
+
+Alternatif olarak, [downloads](https://downloads.aspose.com/total/androidjava) adresinden bir ZIP dosyası alabilirsiniz.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-dot-to-pptx.java" >}}
+
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Java aracılığıyla Android'de Korumalı DOT'yi POT'ye dönüştürün" %}}
+Ayrıca Android uygulamalarınızda şifre korumalı DOT'nizi POT'ye dönüştürebilirsiniz. Girdiğiniz DOT belgeniz parola korumalıysa, parolayı kullanmadan POT biçimine dönüştüremezsiniz. Şifrelenmiş bir belgeyi açmak için LoadOptions nesnesinde doğru parolayı ayarlayabilir ve bunu Dotument yapıcısına iletebilirsiniz.
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dot-to-pptx.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Dönüşümler" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/dot-to-ppt/" name="DOT İle PPT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/dot-to-ppsx/" name="DOT İle PPSX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/dot-to-pptx/" name="DOT İle PPTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/dot-to-pps/" name="DOT İle PPS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/dot-to-ppsm/" name="DOT İle PPSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/dot-to-potm/" name="DOT İle POTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/dot-to-potx/" name="DOT İle POTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/dot-to-powerpoint/" name="DOT İle POWERPOINT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/dot-to-pptm/" name="DOT İle PPTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/dot-to-pot/" name="DOT İle POT" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

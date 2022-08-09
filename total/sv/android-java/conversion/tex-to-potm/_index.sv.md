@@ -1,0 +1,108 @@
+---
+title: Exportera TEX till POTM i Android
+description: Android API för att konvertera TEX till POTM utan att använda Microsoft Word
+url: /sv/android-java/conversion/tex-to-potm/
+family: total
+platformtag: cpp
+feature: conversion
+informat: TEX
+outformat: POTM
+otherformats: OTP PPT PPSX PPSM PPTM POT XAML ODP POWERPOINT SWF PPS POTX
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera TEX till POTM på Android via Java" h2="Förvandla TEX till POTM i dina Android-applikationer utan att använda Microsoft<sup>&reg;</sup> PowerPoint eller Adobe<sup>&reg;</sup> Acrobat Reader" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+Du kan integrera TEX till POTM-konverteringsfunktionen i dina Android-applikationer genom att använda två enkla steg. I det första steget kan du exportera TEX till PPTX genom att använda [Aspose.PDF för Android via Java](https://products.aspose.com/pdf/android-java/). Efter det, genom att använda [Aspose.Slides för Android via Java](https://products.aspose.com/slides/android-java/), kan du konvertera PPTX till POTM. Båda API:erna ingår i paketet [Aspose.Total för Android via Java](https://products.aspose.com/total/android-java/). 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Android API för att exportera TEX till POTM" %}}
+1. Öppna TEX-filen med klassen [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. Konvertera TEX till PPTX genom att använda metoden [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-)
+3. Ladda PPTX-dokument genom att använda klassen [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+4. Spara dokumentet i POTM-format med metoden [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) och ställ in ` Potm` som SaveFormat
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
+Du kan enkelt använda Aspose.Total för Android via Java direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) och installera [Aspose.PDF för Android via Java](https://docs.aspose.com/pdf/androidjava/installation/) och [Aspose.Slides för Android via Java](https://docs.aspose.com/slides) /androidjava/install-aspose-slides-for-android-via-java/) i dina applikationer.
+
+Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com/total/androidjava).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+```java
+// load TEX file with an instance of Document class
+Document document = new Document("template.tex");
+// save TEX as PPTX format 
+document.save("PptxOutput.pptx", SaveFormat.Pptx); 
+// instantiate a Presentation object that represents a PPTX file
+Presentation presentation = new Presentation("PptxOutput.pptx");
+// save the presentation as Potm format
+presentation.save("output.potm", SaveFormat.Potm);   
+```
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Öppna lösenordsskyddad TEX-fil i Android via Java" %}}
+När du laddar TEX-filformat kan ditt dokument vara lösenordsskyddat. [Aspose.PDF för Android via Java](https://products.aspose.com/pdf/android-java/) låter dig också öppna krypterade dokument. För att öppna den krypterade filen kan du initiera en ny instans av [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-) klass och skicka filnamn och lösenord som argument.
+{{% blocks/products/pf/feature-page-code %}}
+
+```java
+// open TEX document
+Document doc = new Document("input.tex", "Your@Password");
+// save TEX as PPTX format 
+document.save("PptxOutput.pptx", SaveFormat.Pptx); 
+
+```
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="Skapa miniatyrbild av POTM-fil i Android-applikationer" %}}
+Efter att ha konverterat TEX till POTM kan du också skapa miniatyrbilder av ditt utdatadokument. Genom att använda rik på funktioner [Aspose.Slides för Android via Java](https://products.aspose.com/slides/android-java/) kan du skapa miniatyrbilder av bilderna genom att skapa och instans av [Presentation]( https://reference.aspose.com/slides/java/com.aspose.slides/Presentation). Efter det kan du få referensen till vilken önskad bild som helst genom att använda dess ID eller index och få miniatyrbilden av den refererade bilden i en specificerad skala.
+{{% blocks/products/pf/feature-page-code %}}
+
+```java
+// instantiate a Presentation object that represents a POTM file
+Presentation presentation = new Presentation("output.potm");
+// access the first slide
+ISlide sld = pres.getSlides().get_Item(0);
+// create a full scale image
+BufferedImage image = sld.getThumbnail(1f, 1f);
+ // save the image to disk in PNG format
+ImageIO.write(image, "PNG", new java.io.File("Thumbnail_out.png"));
+```
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andra omvandlingar som stöds" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/tex-to-otp/" name="TEX Till OTP" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/tex-to-ppt/" name="TEX Till PPT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/tex-to-ppsx/" name="TEX Till PPSX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/tex-to-ppsm/" name="TEX Till PPSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/tex-to-pptm/" name="TEX Till PPTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/tex-to-pot/" name="TEX Till POT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/tex-to-xaml/" name="TEX Till XAML" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/tex-to-potm/" name="TEX Till POTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/tex-to-powerpoint/" name="TEX Till POWERPOINT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/tex-to-swf/" name="TEX Till SWF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/tex-to-pps/" name="TEX Till PPS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/tex-to-potx/" name="TEX Till POTX" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

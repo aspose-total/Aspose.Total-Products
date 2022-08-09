@@ -1,0 +1,122 @@
+---
+title: API Android pour rendre TEX en FLATOPC
+description: Transformez TEX en FLATOPC via Android via l'API Java
+url: /fr/android-java/conversion/tex-to-flatopc/
+family: total
+platformtag: cpp
+feature: conversion
+informat: TEX
+outformat: FLAT_OPC
+otherformats: DOTM MHTML DOTX MARKDOWN WORDML XAMLFLOW RTF OTT ODT DOT PS PCL
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Rendre TEX en FLATOPC sur Android via Java" h2="Convertissez TEX en FLATOPC dans des applications mobiles sans installer de logiciel" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+Vous pouvez intégrer la fonction de conversion TEX vers FLATOPC dans vos applications mobiles en utilisant deux API du package [Aspose.Total pour Android Java](https://products.aspose.com/total/android-java/). Vous devez d'abord convertir le fichier TEX en DOC en utilisant [Aspose.PDF pour Android via Java](https://products.aspose.com/pdf/android-java/). Deuxièmement, en utilisant l'API de traitement de texte [Aspose.Words pour Android Java](https://products.aspose.com/words/android-java/), vous pouvez rendre DOC en FLATOPC. 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Convertir TEX en FLATOPC sur Android via Java" %}}
+1. Ouvrez le fichier TEX à l'aide de la classe [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. Convertissez TEX en DOC en utilisant [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) méthode
+3. Chargez le fichier DOC en utilisant la classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) de Aspose.Words
+4. Enregistrez le document au format FLATOPC à l'aide de la méthode [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) et définissez FLATOPC en tant que format de sauvegarde
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
+Vous pouvez facilement utiliser Aspose.Total pour Android via Java directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et installez [Aspose.PDF pour Android via Java](https://docs.aspose.com/pdf/androidjava/installation/) et [Aspose.Words pour Android via Java](https://docs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) dans vos applications.
+
+Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://downloads.aspose.com/total/androidjava).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+```java
+// load TEX file with an instance of Document class
+Document document = new Document("template.tex");
+// save TEX as a DOC 
+document.save("DocOutput.doc", SaveFormat.DOC); 
+// load DOC with an instance of Document
+Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
+// call save method while passing SaveFormat.FLAT_OPC
+outputDocument.save("output.flat_opc", SaveFormat.FLAT_OPC);   
+```
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Obtenir des informations sur les fichiers TEX sur Android via Java" %}}
+Avant de convertir TEX en FLATOPC, vous aurez peut-être besoin d'informations sur le document, notamment l'auteur, la date de création, les mots-clés, la date de modification, le sujet et le titre. Ces informations sont utiles pour la prise de décision concernant le processus de conversion. En utilisant la puissante API [Aspose.PDF pour Android via Java](https://docs.aspose.com/pdf/androidjava/), vous pouvez tout obtenir. Pour obtenir des informations spécifiques à un fichier sur un fichier TEX, obtenez d'abord l'objet [DocumentInfo](https://reference.aspose.com/pdf/java/com.aspose.pdf/DocumentInfo) en utilisant [getInfo](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getInfo--). Une fois l'objet DocumentInfo récupéré, vous pouvez obtenir les valeurs des propriétés individuelles.
+{{% blocks/products/pf/feature-page-code %}}
+
+```java
+// load TEX document
+Document doc = new Document("template.tex");
+// get document information
+DocumentInfo docInfo = doc.getInfo();
+// show document information
+System.out.println("Author: " + docInfo.getAuthor());
+System.out.println("Creation Date: " + docInfo.getCreationDate());
+System.out.println("Keywords: " + docInfo.getKeywords());
+System.out.println("Modify Date: " + docInfo.getModDate());
+System.out.println("Subject: " + docInfo.getSubject());
+System.out.println("Title: " + docInfo.getTitle());
+```
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="Insérer des notes de fin dans un document FLATOPC sous Android via Java" %}}
+Outre la conversion de documents, vous pouvez également ajouter de nombreuses autres fonctionnalités dans vos applications Android à l'aide de l'API [Aspose.Words pour Android via Java](https://products.aspose.com/words/androidjava/). L'une de ces fonctionnalités consiste à insérer des notes de fin et une numérotation dans le document FLATOPC. Si vous souhaitez insérer une note de bas de page ou une note de fin dans un document FLATOPC, veuillez utiliser la méthode DocumentBuilder.InsertFootnote. Cette méthode insère une note de bas de page ou une note de fin dans le document. Les classes EndnoteOptions et FootnoteOptions représentent les options de numérotation pour les notes de bas de page et les notes de fin.
+{{% blocks/products/pf/feature-page-code %}}
+
+```java
+// load document
+Document doc = new Document("input.DOC");
+// initialize document builder
+DocumentBuilder builder = new DocumentBuilder(doc);
+// add text in it
+builder.write("Some text");
+// insert footnote
+builder.insertFootnote(FootnoteType.ENDNOTE, "Endnote text.");
+// initialize endnote options
+EndnoteOptions option = doc.getEndnoteOptions();
+// set restart rule
+option.setRestartRule(FootnoteNumberingRule.RESTART_PAGE);
+// set position
+option.setPosition(EndnotePosition.END_OF_SECTION);
+// save the document to disk.
+doc.save("output.flat_opc", SaveFormat.FLAT_OPC);  
+```
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Autres conversions prises en charge" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/android-java/conversion/tex-to-dotm/" name="TEX À DOTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/android-java/conversion/tex-to-mhtml/" name="TEX À MHTML" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/android-java/conversion/tex-to-dotx/" name="TEX À DOTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/android-java/conversion/tex-to-markdown/" name="TEX À MARKDOWN" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/android-java/conversion/tex-to-wordml/" name="TEX À WORDML" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/android-java/conversion/tex-to-xamlflow/" name="TEX À XAMLFLOW" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/android-java/conversion/tex-to-rtf/" name="TEX À RTF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/android-java/conversion/tex-to-ott/" name="TEX À OTT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/android-java/conversion/tex-to-odt/" name="TEX À ODT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/android-java/conversion/tex-to-dot/" name="TEX À DOT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/android-java/conversion/tex-to-ps/" name="TEX À PS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/android-java/conversion/tex-to-pcl/" name="TEX À PCL" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

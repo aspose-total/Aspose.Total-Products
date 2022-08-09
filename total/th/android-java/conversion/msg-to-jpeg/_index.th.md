@@ -1,0 +1,100 @@
+---
+title: แสดงผล MSG เป็น JPEG ใน Andorid App
+description: ส่งออก MSG เป็น JPEG โดยไม่ต้องใช้ Microsoft Word หรือ Outlook ในแอปพลิเคชัน Andorid ของคุณ
+url: /th/android-java/conversion/msg-to-jpeg/
+family: total
+platformtag: cpp
+feature: conversion
+informat: MSG
+outformat: JPEG
+otherformats: PDF PCL BMP RTF PNG DOC XPS SVG WORDML ODT DOTX TIFF OTT DOCX PS DOCM GIF FLATOPC DOT EMF DOTM EPUB MD TEXT
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง MSG เป็น JPEG ใน Andorid Apps" h2="การออกแบบแอปพลิเคชัน Andorid เพื่อส่งออก MSG ไปยัง JPEG โดยใช้ Andorid ผ่าน Java API" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+แอพ Andorid ใช้งานง่ายสำหรับผู้ใช้ปลายทางรายวัน จำนวนผู้ใช้โทรศัพท์ Andorid เพิ่มขึ้นทุกวัน การใช้ [Aspose.Total สำหรับ Android ผ่าน Java](https://products.aspose.com/total/android-java/) อันทรงพลังของไลบรารีไฟล์รูปแบบอัตโนมัติทำให้คุณสามารถพัฒนาแอปพลิเคชันการจัดการและแปลงอีเมลได้ คุณสามารถแปลง MSG เป็น JPEG โดยใช้ [Aspose.Msg สำหรับ Android Java](https://products.aspose.com/msg/android-java/) และ [Aspose.Words สำหรับ Andorid Java](https://products.aspose.com/words/android-java/) เมื่อใช้ API แรก คุณสามารถแปลงรูปแบบไฟล์ MSG เป็น HTML และโดยใช้ API ที่สอง คุณสามารถแสดง HTML เป็น JPEG 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="แปลง MSG เป็น JPEG ใน Andorid" %}}
+1. เปิดไฟล์ MSG โดยใช้คลาส [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage)
+2. แปลง MSG เป็น HTML โดยใช้ [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions) )) กระบวนการ
+3. โหลด HTML โดยใช้คลาส [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. บันทึกเอกสารในรูปแบบ JPEG โดยใช้ [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) )) วิธีการและตั้งค่า JPEG เป็น SaveFormat
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
+คุณสามารถใช้ Aspose.Total สำหรับ Android ผ่าน Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และ ติดตั้ง [Aspose.Msg สำหรับ Android ผ่าน Java](https://docs.aspose.com/msg/androidjava/installation/) และ [Aspose.Words สำหรับ Andorid ผ่าน Java](https://docs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) ในแอปพลิเคชันของคุณ
+
+หรือคุณสามารถรับไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/total/androidjava)
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+```cs
+// load the MSG file to be converted
+MailMessage message = MailMessage.load("sourceFile.msg"); 
+// save MSG as a HTML 
+message.save("HtmlOutput.html", SaveOptions.getDefaultHtml());
+// load HTML with an instance of Document
+Document document = new Document("HtmlOutput.html");
+// call save method while passing SaveFormat.JPEG
+document.save("output.jpeg", SaveFormat.JPEG); 
+```
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่น ๆ ที่รองรับ" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/msg-to-pdf/" name="MSG ถึง PDF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/msg-to-pcl/" name="MSG ถึง PCL" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/msg-to-jpeg/" name="MSG ถึง JPEG" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/msg-to-rtf/" name="MSG ถึง RTF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/msg-to-png/" name="MSG ถึง PNG" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/msg-to-doc/" name="MSG ถึง DOC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/msg-to-xps/" name="MSG ถึง XPS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/msg-to-svg/" name="MSG ถึง SVG" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/msg-to-wordml/" name="MSG ถึง WORDML" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/msg-to-odt/" name="MSG ถึง ODT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/msg-to-dotx/" name="MSG ถึง DOTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/msg-to-tiff/" name="MSG ถึง TIFF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/msg-to-ott/" name="MSG ถึง OTT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/msg-to-docx/" name="MSG ถึง DOCX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/msg-to-ps/" name="MSG ถึง PS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/msg-to-docm/" name="MSG ถึง DOCM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/msg-to-gif/" name="MSG ถึง GIF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/msg-to-flatopc/" name="MSG ถึง FLATOPC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/msg-to-dot/" name="MSG ถึง DOT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/msg-to-emf/" name="MSG ถึง EMF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/msg-to-dotm/" name="MSG ถึง DOTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/msg-to-epub/" name="MSG ถึง EPUB" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/msg-to-md/" name="MSG ถึง MD" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/msg-to-text/" name="MSG ถึง TEXT" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

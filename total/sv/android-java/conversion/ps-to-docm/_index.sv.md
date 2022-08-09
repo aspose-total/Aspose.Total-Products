@@ -1,0 +1,122 @@
+---
+title: Android API för att rendera PS till DOCM
+description: Förvandla PS till DOCM via Android via Java API
+url: /sv/android-java/conversion/ps-to-docm/
+family: total
+platformtag: cpp
+feature: conversion
+informat: PS
+outformat: DOCM
+otherformats: DOTM DOT DOTX PCL MARKDOWN MHTML FLATOPC XAMLFLOW RTF OTT WORDML ODT
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Rendera PS till DOCM på Android via Java" h2="Konvertera PS till DOCM i mobilappar utan att installera någon programvara" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+Du kan integrera konverteringsfunktionen PS till DOCM i dina mobilappar genom att använda två API:er av paketet [Aspose.Total for Android Java](https://products.aspose.com/total/android-java/). Först måste du konvertera PS-filen till DOC med [Aspose.PDF för Android via Java](https://products.aspose.com/pdf/android-java/). För det andra, genom att använda Word Processing API [Aspose.Words för Android Java](https://products.aspose.com/words/android-java/), kan du rendera DOC till DOCM. 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Konvertera PS till DOCM på Android via Java" %}}
+1. Öppna PS-filen med klassen [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. Konvertera PS till DOC genom att använda [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) metod
+3. Ladda DOC-fil genom att använda klassen [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) av Aspose.Words
+4. Spara dokumentet i DOCM-format med metoden [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) och ställ in DOCM som SaveFormat
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
+Du kan enkelt använda Aspose.Total för Android via Java direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) och installera [Aspose.PDF för Android via Java](https://docs.aspose.com/pdf/androidjava/installation/) och [Aspose.Words för Android via Java](https://docs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) i dina applikationer.
+
+Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com/total/androidjava).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+```java
+// load PS file with an instance of Document class
+Document document = new Document("template.ps");
+// save PS as a DOC 
+document.save("DocOutput.doc", SaveFormat.DOC); 
+// load DOC with an instance of Document
+Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
+// call save method while passing SaveFormat.DOCM
+outputDocument.save("output.docm", SaveFormat.DOCM);   
+```
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Få PS-filinformation på Android via Java" %}}
+Innan du konverterar PS till DOCM kan du behöva information om dokumentet, inklusive författare, skapelsedatum, nyckelord, ändringsdatum, ämne och titel. Denna information är användbar för beslutsfattande för konverteringsprocessen. Genom att använda det kraftfulla [Aspose.PDF för Android via Java](https://docs.aspose.com/pdf/androidjava/) API kan du få allt. För att få filspecifik information om en PS-fil, skaffa först objektet [DocumentInfo](https://reference.aspose.com/pdf/java/com.aspose.pdf/DocumentInfo) med [getInfo](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getInfo--) metod. När DocumentInfo-objektet är hämtat kan du få värdena för de enskilda egenskaperna.
+{{% blocks/products/pf/feature-page-code %}}
+
+```java
+// load PS document
+Document doc = new Document("template.ps");
+// get document information
+DocumentInfo docInfo = doc.getInfo();
+// show document information
+System.out.println("Author: " + docInfo.getAuthor());
+System.out.println("Creation Date: " + docInfo.getCreationDate());
+System.out.println("Keywords: " + docInfo.getKeywords());
+System.out.println("Modify Date: " + docInfo.getModDate());
+System.out.println("Subject: " + docInfo.getSubject());
+System.out.println("Title: " + docInfo.getTitle());
+```
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="Infoga slutanteckningar i DOCM-dokument i Android via Java" %}}
+Förutom dokumentkonvertering kan du också lägga till en massa andra funktioner i dina Android-applikationer med [Aspose.Words för Android via Java](https://products.aspose.com/words/androidjava/) API. En av dessa funktioner är att infoga slutanteckningar och numrering i DOCM-dokument. Om du vill infoga en fotnot eller en slutnot i ett DOCM-dokument, använd metoden DocumentBuilder.InsertFootnote. Denna metod infogar en fotnot eller slutnot i dokumentet. Klasserna EndnoteOptions och FootnoteOptions representerar numreringsalternativ för fotnot och slutnot.
+{{% blocks/products/pf/feature-page-code %}}
+
+```java
+// load document
+Document doc = new Document("input.DOC");
+// initialize document builder
+DocumentBuilder builder = new DocumentBuilder(doc);
+// add text in it
+builder.write("Some text");
+// insert footnote
+builder.insertFootnote(FootnoteType.ENDNOTE, "Endnote text.");
+// initialize endnote options
+EndnoteOptions option = doc.getEndnoteOptions();
+// set restart rule
+option.setRestartRule(FootnoteNumberingRule.RESTART_PAGE);
+// set position
+option.setPosition(EndnotePosition.END_OF_SECTION);
+// save the document to disk.
+doc.save("output.docm", SaveFormat.DOCM);  
+```
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andra omvandlingar som stöds" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/ps-to-dotm/" name="PS Till DOTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/ps-to-dot/" name="PS Till DOT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/ps-to-dotx/" name="PS Till DOTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/ps-to-pcl/" name="PS Till PCL" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/ps-to-markdown/" name="PS Till MARKDOWN" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/ps-to-mhtml/" name="PS Till MHTML" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/ps-to-flatopc/" name="PS Till FLATOPC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/ps-to-xamlflow/" name="PS Till XAMLFLOW" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/ps-to-rtf/" name="PS Till RTF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/ps-to-ott/" name="PS Till OTT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/ps-to-wordml/" name="PS Till WORDML" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/ps-to-odt/" name="PS Till ODT" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

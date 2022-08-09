@@ -1,0 +1,74 @@
+---
+title: Konwertuj DOTM na ODP w Androidzie przez Java
+description: Konwersja DOTM do ODP w telefonach z systemem Android bez korzystania z programu Microsoft Word lub PowerPoint
+url: /pl/android-java/conversion/dotm-to-odp/
+family: total
+platformtag: cpp
+feature: conversion
+informat: DOTM
+outformat: ODP
+otherformats: POTM POT PPTX PPSM PPS PPT PPTM PPSX POWERPOINT POTX
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj DOTM na ODP w aplikacjach na Androida" h2="Konwersja DOTM na ODP w aplikacjach na Androida bez instalowania programu Microsoft Word<sup>&reg;</sup> lub PowerPoint" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+Czy jesteś programistą Androida i chcesz dodać funkcję konwersji dokumentów do swojej aplikacji? [Aspose.Total dla Androida przez Javę](https://products.aspose.com/total/android-java/) Biblioteki File Format Automation mogą pomóc zautomatyzować proces konwersji dokumentów w aplikacjach na Androida. Aby przekonwertować plik DOTM na ODP, możesz najpierw użyć interfejsu API do manipulacji dokumentami [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/), aby przekonwertować format pliku DOTM na HTML. Następnie za pomocą interfejsu API programu PowerPoint [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) możesz utworzyć nową prezentację, zapisać w niej zawartość HTML i zapisać ją jako ODP. 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Jak przekonwertować DOTM na ODP w Androidzie?" %}}
+1. Otwórz plik DOTM za pomocą klasy [Dotmument](https://reference.aspose.com/words/java/com.aspose.words/Dotmument)
+2. Przekonwertuj plik DOTM na HTML za pomocą [save](https://reference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,com.aspose.words.SaveOptions) )) metoda
+3. Zainicjuj nowy obiekt [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+5. Wyodrębnij zawartość z pliku HTML za pomocą BufferedReader i zapisz zawartość w pliku prezentacji
+6. Zapisz dokument w ODP za pomocą metody [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
+Do konwersji plików DOTM na ODP możesz łatwo użyć Aspose.Total dla Androida przez Javę bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i zainstaluj biblioteki w swojej aplikacji.
+
+Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com/total/androidjava).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-dotm-to-pptx.java" >}}
+
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Konwertuj chroniony DOTM na ODP w Androidzie za pomocą Java" %}}
+Możesz także przekonwertować chroniony hasłem DOTM na ODP w swoich aplikacjach na Androida. Jeśli wejściowy dokument DOTM jest chroniony hasłem, nie można go przekonwertować do formatu ODP bez użycia hasła. Aby otworzyć zaszyfrowany dokument, możesz ustawić poprawne hasło w obiekcie LoadOptions i przekazać je do konstruktora Dotmument.
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dotm-to-pptx.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/dotm-to-potm/" name="DOTM Do POTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/dotm-to-pot/" name="DOTM Do POT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/dotm-to-pptx/" name="DOTM Do PPTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/dotm-to-ppsm/" name="DOTM Do PPSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/dotm-to-pps/" name="DOTM Do PPS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/dotm-to-ppt/" name="DOTM Do PPT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/dotm-to-pptm/" name="DOTM Do PPTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/dotm-to-ppsx/" name="DOTM Do PPSX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/dotm-to-powerpoint/" name="DOTM Do POWERPOINT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/android-java/conversion/dotm-to-potx/" name="DOTM Do POTX" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

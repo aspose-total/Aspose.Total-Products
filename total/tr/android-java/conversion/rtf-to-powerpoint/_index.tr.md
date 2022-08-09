@@ -1,0 +1,106 @@
+---
+title: Java ile Android'de RTF'yi POWERPOINT'ye dönüştürün
+description: Microsoft Word of PowerPoint kullanmadan Android Telefonlarınızda RTF'den POWERPOINT'ye dönüştürme
+url: /tr/android-java/conversion/rtf-to-powerpoint/
+family: total
+platformtag: cpp
+feature: conversion
+informat: RTF
+outformat: PPTX
+otherformats: PPS POTX PPT PPSX PPTX PPSM POT POTM ODP PPTM CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Android Uygulamalarında RTF'yi POWERPOINT'ye Dönüştür" h2="Microsoft Word<sup>&reg;</sup> veya PowerPoint yüklemeden Android Uygulamalarınızda RTF'den POWERPOINT'ye dönüştürme" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+Uygulamanıza belge dönüştürme özelliği eklemek isteyen bir Android geliştiricisi misiniz? [Java aracılığıyla Android için Aspose.Total](https://products.aspose.com/total/android-java/) Dosya Biçimi Otomasyonu kitaplıkları, Android uygulamalarınızda belge dönüştürme işlemini otomatikleştirmenize yardımcı olabilir. RTF dosyasını POWERPOINT'ye dönüştürmek için, önce RTF dosya biçimini HTML'ye dönüştürmek için belge işleme API'sini [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) kullanabilirsiniz. Bundan sonra PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) kullanarak yeni bir Sunum oluşturabilir, içine HTML içeriği yazabilir ve farklı olarak kaydedebilirsiniz. POWERPOINT. 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Android'de RTF'yi POWERPOINT'ye Dönüştürme" %}}
+1. RTF dosyasını [Rtfument](https://reference.aspose.com/words/java/com.aspose.words/Rtfument) sınıfını kullanarak açın
+2. [save](https://reference.aspose.com/words/java/com.aspose.words/Rtfument#save(java.lang.String,com.aspose.words.SaveOptions) kullanarak RTF dosyasını HTML'ye dönüştürün )) yöntem
+3. Yeni bir [Sunum](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) nesnesini başlatın
+5. BufferedReader kullanarak HTML dosyasından içerik çıkarın ve içeriği sunum dosyanıza yazın
+6. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) yöntemini kullanarak belgeyi POWERPOINT'ye kaydedin
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Dönüşüm Gereksinimleri" %}}
+RTF'den POWERPOINT'ye dosya dönüştürme için Aspose.Total for Android'i Java aracılığıyla doğrudan [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/) kullanabilirsiniz. aspose/aspose-total) ve uygulamanıza kitaplıkları kurun.
+
+Alternatif olarak, [downloads](https://downloads.aspose.com/total/androidjava) adresinden bir ZIP dosyası alabilirsiniz.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-rtf-to-pptx.java" >}}
+
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Java aracılığıyla Android'de Korumalı RTF'yi POWERPOINT'ye dönüştürün" %}}
+Ayrıca Android uygulamalarınızda şifre korumalı RTF'nizi POWERPOINT'ye dönüştürebilirsiniz. Girdiğiniz RTF belgeniz parola korumalıysa, parolayı kullanmadan POWERPOINT biçimine dönüştüremezsiniz. Şifrelenmiş bir belgeyi açmak için LoadOptions nesnesinde doğru parolayı ayarlayabilir ve bunu Rtfument yapıcısına iletebilirsiniz.
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-rtf-to-pptx-with-watermark.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Dönüşümler" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/rtf-to-pps/" name="RTF İle PPS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/rtf-to-potx/" name="RTF İle POTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/rtf-to-ppt/" name="RTF İle PPT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/rtf-to-ppsx/" name="RTF İle PPSX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/rtf-to-pptx/" name="RTF İle PPTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/rtf-to-ppsm/" name="RTF İle PPSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/rtf-to-pot/" name="RTF İle POT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/rtf-to-potm/" name="RTF İle POTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/rtf-to-powerpoint/" name="RTF İle POWERPOINT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/rtf-to-pptm/" name="RTF İle PPTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/rtf-to-csv/" name="RTF İle CSV" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/rtf-to-dif/" name="RTF İle DIF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/rtf-to-fods/" name="RTF İle FODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/rtf-to-ods/" name="RTF İle ODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/rtf-to-sxc/" name="RTF İle SXC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/rtf-to-tsv/" name="RTF İle TSV" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/rtf-to-xlam/" name="RTF İle XLAM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/rtf-to-xltm/" name="RTF İle XLTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/rtf-to-excel/" name="RTF İle EXCEL" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/rtf-to-xls/" name="RTF İle XLS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/rtf-to-xlsb/" name="RTF İle XLSB" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/rtf-to-xlsm/" name="RTF İle XLSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/rtf-to-xlsx/" name="RTF İle XLSX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/rtf-to-xlt/" name="RTF İle XLT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/rtf-to-xltm/" name="RTF İle XLTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/android-java/conversion/rtf-to-xltx/" name="RTF İle XLTX" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

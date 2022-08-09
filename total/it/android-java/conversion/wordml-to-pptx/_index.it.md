@@ -1,0 +1,106 @@
+---
+title: Converti WORDML in PPTX in Android tramite Java
+description: Conversione da WORDML a PPTX nei tuoi telefoni Android senza utilizzare Microsoft Word di PowerPoint
+url: /it/android-java/conversion/wordml-to-pptx/
+family: total
+platformtag: cpp
+feature: conversion
+informat: WORDML
+outformat: PPTX
+otherformats: PPSX POTX PPSM PPT ODP PPTM POWERPOINT POTM POT PPS CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Converti WORDML in PPTX nelle app Android" h2="Conversione da WORDML a PPTX nelle tue applicazioni Android senza installare Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+Sei uno sviluppatore Android e stai cercando di aggiungere una funzione di conversione dei wordmlumenti alla tua applicazione? [Aspose.Total per Android tramite Java](https://products.aspose.com/total/android-java/) Le librerie File Format Automation possono aiutarti ad automatizzare il processo di conversione dei wordmlumenti nelle tue applicazioni Android. Per convertire il file WORDML in PPTX, puoi prima utilizzare l'API di manipolazione del wordmlumento [Aspose.Words per Android Java](https://products.aspose.com/words/android-java/) per convertire il formato del file WORDML in HTML. Successivamente, utilizzando l'API di PowerPoint [Aspose.Slides per Android Java](https://products.aspose.com/slides/android-java/), puoi creare una nuova presentazione, scrivere contenuto HTML al suo interno e salvarlo come PPTX. 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Come convertire WORDML in PPTX in Android" %}}
+1. Aprire il file WORDML utilizzando la classe [Wordmlument](https://reference.aspose.com/words/java/com.aspose.words/Wordmlument)
+2. Converti file WORDML in HTML utilizzando [save](https://reference.aspose.com/words/java/com.aspose.words/Wordmlument#save(java.lang.String,com.aspose.words.SaveOptions )) metodo
+3. Inizializzare un nuovo oggetto [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+5. Estrarre il contenuto dal file HTML utilizzando BufferedReader e scrivere il contenuto nel file di presentazione
+6. Salvare il wordmlumento in PPTX utilizzando il metodo [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
+Per la conversione di file da WORDML a PPTX, puoi facilmente utilizzare Aspose.Total per Android tramite Java direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e installa le librerie nella tua app.
+
+In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspose.com/total/androidjava).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-wordml-to-pptx.java" >}}
+
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Converti Protected WORDML in PPTX in Android tramite Java" %}}
+Puoi anche convertire il tuo WORDML protetto da password in PPTX all'interno delle tue applicazioni Android. Se il wordmlumento WORDML di input è protetto da password, non è possibile convertirlo in formato PPTX senza utilizzare la password. Per aprire un wordmlumento crittografato, è possibile impostare la password corretta nell'oggetto LoadOptions e passarla al costruttore del wordmlumento.
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-wordml-to-pptx-with-watermark.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/wordml-to-ppsx/" name="WORDML Per PPSX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/wordml-to-potx/" name="WORDML Per POTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/wordml-to-ppsm/" name="WORDML Per PPSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/wordml-to-ppt/" name="WORDML Per PPT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/wordml-to-pptx/" name="WORDML Per PPTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/wordml-to-pptm/" name="WORDML Per PPTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/wordml-to-powerpoint/" name="WORDML Per POWERPOINT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/wordml-to-potm/" name="WORDML Per POTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/wordml-to-pot/" name="WORDML Per POT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/wordml-to-pps/" name="WORDML Per PPS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/wordml-to-csv/" name="WORDML Per CSV" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/wordml-to-dif/" name="WORDML Per DIF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/wordml-to-fods/" name="WORDML Per FODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/wordml-to-ods/" name="WORDML Per ODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/wordml-to-sxc/" name="WORDML Per SXC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/wordml-to-tsv/" name="WORDML Per TSV" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/wordml-to-xlam/" name="WORDML Per XLAM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/wordml-to-xltm/" name="WORDML Per XLTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/wordml-to-excel/" name="WORDML Per EXCEL" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/wordml-to-xls/" name="WORDML Per XLS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/wordml-to-xlsb/" name="WORDML Per XLSB" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/wordml-to-xlsm/" name="WORDML Per XLSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/wordml-to-xlsx/" name="WORDML Per XLSX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/wordml-to-xlt/" name="WORDML Per XLT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/wordml-to-xltm/" name="WORDML Per XLTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/wordml-to-xltx/" name="WORDML Per XLTX" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

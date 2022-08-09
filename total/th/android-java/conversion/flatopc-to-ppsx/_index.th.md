@@ -1,0 +1,106 @@
+---
+title: แปลง FLATOPC เป็น PPSX ใน Android ผ่าน Java
+description: การแปลง FLATOPC เป็น PPSX ในโทรศัพท์ Android ของคุณโดยไม่ต้องใช้ Microsoft Word of PowerPoint
+url: /th/android-java/conversion/flatopc-to-ppsx/
+family: total
+platformtag: cpp
+feature: conversion
+informat: FLATOPC
+outformat: PPSX
+otherformats: ODP POT POTX PPSM POTM POWERPOINT PPS PPTX PPTM PPT CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง FLATOPC เป็น PPSX ในแอพ Android" h2="การแปลง FLATOPC เป็น PPSX ในแอปพลิเคชัน Android ของคุณโดยไม่ต้องติดตั้ง Microsoft Word<sup>&reg;</sup> หรือ PowerPoint" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+คุณเป็นนักพัฒนา Android ที่ต้องการเพิ่มคุณสมบัติการแปลงเอกสารในแอปพลิเคชันของคุณหรือไม่? [Aspose.Total สำหรับ Android ผ่าน Java](https://products.aspose.com/total/android-java/) ไลบรารีระบบอัตโนมัติของรูปแบบไฟล์ช่วยให้คุณทำกระบวนการแปลงเอกสารในแอปพลิเคชัน Android ได้โดยอัตโนมัติ ในการแปลงไฟล์ FLATOPC เป็น PPSX ขั้นแรก คุณสามารถใช้ API การจัดการเอกสาร [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) เพื่อแปลงรูปแบบไฟล์ FLATOPC เป็น HTML ได้ หลังจากนั้นโดยใช้ PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) คุณสามารถสร้างงานนำเสนอใหม่ เขียนเนื้อหา HTML ในนั้น และบันทึกเป็น อปท. 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง FLATOPC เป็น PPSX ใน Android" %}}
+1. เปิดไฟล์ FLATOPC โดยใช้คลาส [Flatopcument](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument)
+2. แปลงไฟล์ FLATOPC เป็น HTML โดยใช้ [save](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,com.aspose.words.SaveOptions) )) กระบวนการ
+3. เริ่มต้นวัตถุ [การนำเสนอ](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) ใหม่
+5. แยกเนื้อหาจากไฟล์ HTML โดยใช้ BufferedReader และเขียนเนื้อหาลงในไฟล์นำเสนอของคุณ
+6. บันทึกเอกสารไปยัง PPSX โดยใช้วิธี [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
+สำหรับการแปลงไฟล์ FLATOPC เป็น PPSX คุณสามารถใช้ Aspose.Total สำหรับ Android ผ่าน Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และติดตั้งไลบรารีในแอปของคุณ
+
+หรือคุณสามารถรับไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/total/androidjava)
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-flatopc-to-pptx.java" >}}
+
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="แปลง FLATOPC ที่ได้รับการป้องกันเป็น PPSX ใน Android ผ่าน Java" %}}
+คุณยังสามารถแปลง FLATOPC ที่ป้องกันด้วยรหัสผ่านเป็น PPSX ภายในแอปพลิเคชัน Android ของคุณ หากเอกสาร FLATOPC ที่คุณป้อนมีการป้องกันด้วยรหัสผ่าน คุณจะไม่สามารถแปลงเป็นรูปแบบ PPSX ได้โดยไม่ต้องใช้รหัสผ่าน ในการเปิดเอกสารที่เข้ารหัส คุณสามารถตั้งรหัสผ่านที่ถูกต้องในออบเจกต์ LoadOptions และส่งผ่านไปยังตัวสร้างเอกสาร
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-flatopc-to-pptx-with-watermark.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่น ๆ ที่รองรับ" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/flatopc-to-ppsx/" name="FLATOPC ถึง PPSX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/flatopc-to-pot/" name="FLATOPC ถึง POT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/flatopc-to-potx/" name="FLATOPC ถึง POTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/flatopc-to-ppsm/" name="FLATOPC ถึง PPSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/flatopc-to-potm/" name="FLATOPC ถึง POTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/flatopc-to-powerpoint/" name="FLATOPC ถึง POWERPOINT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/flatopc-to-pps/" name="FLATOPC ถึง PPS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/flatopc-to-pptx/" name="FLATOPC ถึง PPTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/flatopc-to-pptm/" name="FLATOPC ถึง PPTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/flatopc-to-ppt/" name="FLATOPC ถึง PPT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/flatopc-to-csv/" name="FLATOPC ถึง CSV" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/flatopc-to-dif/" name="FLATOPC ถึง DIF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/flatopc-to-fods/" name="FLATOPC ถึง FODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/flatopc-to-ods/" name="FLATOPC ถึง ODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/flatopc-to-sxc/" name="FLATOPC ถึง SXC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/flatopc-to-tsv/" name="FLATOPC ถึง TSV" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/flatopc-to-xlam/" name="FLATOPC ถึง XLAM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/flatopc-to-xltm/" name="FLATOPC ถึง XLTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/flatopc-to-excel/" name="FLATOPC ถึง EXCEL" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/flatopc-to-xls/" name="FLATOPC ถึง XLS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/flatopc-to-xlsb/" name="FLATOPC ถึง XLSB" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/flatopc-to-xlsm/" name="FLATOPC ถึง XLSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/flatopc-to-xlsx/" name="FLATOPC ถึง XLSX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/flatopc-to-xlt/" name="FLATOPC ถึง XLT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/flatopc-to-xltm/" name="FLATOPC ถึง XLTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/android-java/conversion/flatopc-to-xltx/" name="FLATOPC ถึง XLTX" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

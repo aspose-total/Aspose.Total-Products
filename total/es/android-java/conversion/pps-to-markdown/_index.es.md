@@ -1,0 +1,119 @@
+---
+title: Convierta PPS a MARKDOWN en Android a través de Java
+description: Convierta PPS a MARKDOWN en Android a través de Java sin usar Microsoft Excel o PowerPoint
+url: /es/android-java/conversion/pps-to-markdown/
+family: total
+platformtag: cpp
+feature: conversion
+informat: PPS
+outformat: MARKDOWN
+otherformats: XLTM XLSB XLSX FODS XLS XLAM CSV XLTX MHTML SXC XLT TSV ODS EXCEL DIF XLSM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta PPS a MARKDOWN en Android a través de Java" h2="Exporte archivos PPS a MARKDOWN en aplicaciones de Android sin utilizar Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+Puede convertir fácilmente un archivo PPS a MARKDOWN en sus aplicaciones de Android en un proceso de dos pasos a través de [Aspose.Total para Android a través de Java](https://products.aspose.com/total/android-java/). En el primer paso, puede exportar el archivo PPS a HTML utilizando [Aspose.Slides para Android a través de Java](https://products.aspose.com/slides/android-java/). En segundo lugar, al usar [Aspose.Cells para Android a través de Java](https://products.aspose.com/cells/android-java/), puede convertir HTML a MARKDOWN. 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Cómo convertir PPS a MARKDOWN en Android" %}}
+1. Abra el archivo PPS usando la clase [Presentación](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. Convierta PPS a HTML usando [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) método
+3. Cargue el documento HTML utilizando la clase [Libro de trabajo](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Guarde el documento en formato MARKDOWN usando [guardar](https://reference.aspose.com/cells/java/com.aspose.cells/)
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
+Para convertir PPS a MARKDOWN, puede usar fácilmente Aspose.Total para Android a través de Java directamente desde [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e instale bibliotecas en su aplicación.
+
+Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.aspose.com/total/androidjava).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel.java" >}}
+
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Convierta PPS protegido a MARKDOWN en Android a través de Java" %}}
+Usando la API, también puede abrir el documento protegido por contraseña. Si su documento PPS de entrada está protegido con contraseña, no puede convertirlo a MARKDOWN sin usar la contraseña. La API le permite abrir el documento cifrado pasando la contraseña correcta en un objeto LoadOptions. El siguiente ejemplo de código muestra cómo intentar abrir un documento cifrado con una contraseña:
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="Convertir archivo PPS a MARKDOWN con marca de agua en Android" %}}
+Al convertir un archivo PPS a MARKDOWN, también puede agregar una marca de agua a su formato de archivo MARKDOWN de salida. Para agregar una marca de agua, cree un nuevo libro de trabajo para abrir el archivo HTML convertido. Seleccione Hoja de trabajo a través de su índice, cree una Forma y use su función addTextEffect, establezca colores, transparencia y más. Después de eso, puede guardar su documento HTML como MARKDOWN con marca de agua.
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/android-java/conversion/pps-to-xltm/" name="PPS A XLTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/android-java/conversion/pps-to-xlsb/" name="PPS A XLSB" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/android-java/conversion/pps-to-xlsx/" name="PPS A XLSX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/android-java/conversion/pps-to-fods/" name="PPS A FODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/android-java/conversion/pps-to-xls/" name="PPS A XLS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/android-java/conversion/pps-to-xlam/" name="PPS A XLAM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/android-java/conversion/pps-to-markdown/" name="PPS A MARKDOWN" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/android-java/conversion/pps-to-xltx/" name="PPS A XLTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/android-java/conversion/pps-to-mhtml/" name="PPS A MHTML" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/android-java/conversion/pps-to-sxc/" name="PPS A SXC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/android-java/conversion/pps-to-xlt/" name="PPS A XLT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/android-java/conversion/pps-to-tsv/" name="PPS A TSV" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/android-java/conversion/pps-to-ods/" name="PPS A ODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/android-java/conversion/pps-to-excel/" name="PPS A EXCEL" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/android-java/conversion/pps-to-dif/" name="PPS A DIF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/android-java/conversion/pps-to-xlsm/" name="PPS A XLSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/android-java/conversion/pps-to-doc/" name="PPS A DOC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/android-java/conversion/pps-to-docx/" name="PPS A DOCX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/android-java/conversion/pps-to-docm/" name="PPS A DOCM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/android-java/conversion/pps-to-dot/" name="PPS A DOT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/android-java/conversion/pps-to-dotm/" name="PPS A DOTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/android-java/conversion/pps-to-dotx/" name="PPS A DOTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/android-java/conversion/pps-to-odt/" name="PPS A ODT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/android-java/conversion/pps-to-ott/" name="PPS A OTT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/android-java/conversion/pps-to-rtf/" name="PPS A RTF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/android-java/conversion/pps-to-word/" name="PPS A WORD" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/android-java/conversion/pps-to-wordml/" name="PPS A WORDML" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/android-java/conversion/pps-to-text/" name="PPS A TEXT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/android-java/conversion/pps-to-flatopx/" name="PPS A FLATOPX" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

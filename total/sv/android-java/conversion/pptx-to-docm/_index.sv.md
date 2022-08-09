@@ -1,0 +1,77 @@
+---
+title: Exportera PPTX till DOCM på Andorid via Java
+description: Konvertera PPTX till DOCM i mobilappar utan att installera någon programvara
+url: /sv/android-java/conversion/pptx-to-docm/
+family: total
+platformtag: cpp
+feature: conversion
+informat: PPTX
+outformat: DOCM
+otherformats: OTT DOTX FLATOPC DOC WORD DOT ODT DOTM RTF DOCX WORDML TEXT
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Rendera PPTX till DOCM på Andorid via Java" h2="Filformats-API:er för att konvertera PPTX till DOCM i Android-appar utan att vara beroende av Microsoft PowerPoint eller Word" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+[Aspose.Total för Android via Java](https://products.aspose.com/total/android-java/) tillåter manipulering av filformat i Android-program. Genom att använda API:erna i paketet kan du automatisera konverteringsprocessen från PowerPoint PPTX till Word DOCM i dina appar.
+Du kan konvertera ditt givna dokument i två steg. Du kan använda [Aspose.Slides för Andorid via Java](https://products.aspose.com/slides/android-java/) som är ett PowerPoint API för Android-applikationer för att rendera PPTX till HTML. Därefter kan du konvertera HTML till DOCM genom att använda API för dokumentbearbetning [Aspose.Words för Android via Java](https://products.aspose.com/words/android-java/). 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="PPTX till DOCM-rendering i Android" %}}
+1. Öppna PPTX-filen med klassen [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. Konvertera PPTX till HTML genom att använda [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-)-metoden och ställ in Html som SaveFormat
+3. Ladda den konverterade HTML-filen med klassen [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument)
+4. Spara dokumentet i DOCM-format med metoden [save](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,int)) och ställ in Docm som SaveFormat
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
+Du kan enkelt använda Aspose.Total för Android via Java direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) och installera [Aspose.Slides för Android via Java](https://docms.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) och [Aspose.Words for Andorid via Java](https://docms.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) i din applikationer.
+
+Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com/total/androidjava).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+```cs
+// instantiate a Presentation object that represents a PPTX file
+Presentation presentation = new Presentation("input.pptx");
+// save the presentation as HTML
+presentation.save("htmlOutput.html", SaveFormat.Html);
+// load HTML with an instance of Docmument
+Docmument docmument = new Docmument("htmlOutput.html");
+// save docmument in DOCM format
+docmument.save("output.docm",SaveFormat.Docmm);   
+```
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andra omvandlingar som stöds" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/pptx-to-ott/" name="PPTX Till OTT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/pptx-to-dotx/" name="PPTX Till DOTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/pptx-to-flatopc/" name="PPTX Till FLATOPC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/pptx-to-docm/" name="PPTX Till DOCM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/pptx-to-word/" name="PPTX Till WORD" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/pptx-to-dot/" name="PPTX Till DOT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/pptx-to-odt/" name="PPTX Till ODT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/pptx-to-dotm/" name="PPTX Till DOTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/pptx-to-rtf/" name="PPTX Till RTF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/pptx-to-docmx/" name="PPTX Till DOCMX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/pptx-to-wordml/" name="PPTX Till WORDML" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/android-java/conversion/pptx-to-text/" name="PPTX Till TEXT" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

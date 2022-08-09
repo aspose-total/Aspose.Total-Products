@@ -1,0 +1,106 @@
+---
+title: Converti DOCM in POTM in Android tramite Java
+description: Conversione da DOCM a POTM nei tuoi telefoni Android senza utilizzare Microsoft Word di PowerPoint
+url: /it/android-java/conversion/docm-to-potm/
+family: total
+platformtag: cpp
+feature: conversion
+informat: DOCM
+outformat: POTM
+otherformats: PPSM PPTM PPSX POT PPT PPTX PPS POWERPOINT POTX ODP CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Converti DOCM in POTM nelle app Android" h2="Conversione da DOCM a POTM nelle tue applicazioni Android senza installare Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+Sei uno sviluppatore Android e stai cercando di aggiungere una funzione di conversione dei docmumenti alla tua applicazione? [Aspose.Total per Android tramite Java](https://products.aspose.com/total/android-java/) Le librerie File Format Automation possono aiutarti ad automatizzare il processo di conversione dei docmumenti nelle tue applicazioni Android. Per convertire il file DOCM in POTM, puoi prima utilizzare l'API di manipolazione del docmumento [Aspose.Words per Android Java](https://products.aspose.com/words/android-java/) per convertire il formato del file DOCM in HTML. Successivamente, utilizzando l'API di PowerPoint [Aspose.Slides per Android Java](https://products.aspose.com/slides/android-java/), puoi creare una nuova presentazione, scrivere contenuto HTML al suo interno e salvarlo come POTM. 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Come convertire DOCM in POTM in Android" %}}
+1. Aprire il file DOCM utilizzando la classe [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument)
+2. Converti file DOCM in HTML utilizzando [save](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions )) metodo
+3. Inizializzare un nuovo oggetto [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+5. Estrarre il contenuto dal file HTML utilizzando BufferedReader e scrivere il contenuto nel file di presentazione
+6. Salvare il docmumento in POTM utilizzando il metodo [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
+Per la conversione di file da DOCM a POTM, puoi facilmente utilizzare Aspose.Total per Android tramite Java direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e installa le librerie nella tua app.
+
+In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspose.com/total/androidjava).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx.java" >}}
+
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Converti Protected DOCM in POTM in Android tramite Java" %}}
+Puoi anche convertire il tuo DOCM protetto da password in POTM all'interno delle tue applicazioni Android. Se il docmumento DOCM di input è protetto da password, non è possibile convertirlo in formato POTM senza utilizzare la password. Per aprire un docmumento crittografato, è possibile impostare la password corretta nell'oggetto LoadOptions e passarla al costruttore del docmumento.
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docm-to-ppsm/" name="DOCM Per PPSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docm-to-pptm/" name="DOCM Per PPTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docm-to-ppsx/" name="DOCM Per PPSX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docm-to-pot/" name="DOCM Per POT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docm-to-ppt/" name="DOCM Per PPT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docm-to-pptx/" name="DOCM Per PPTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docm-to-pps/" name="DOCM Per PPS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docm-to-powerpoint/" name="DOCM Per POWERPOINT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docm-to-potx/" name="DOCM Per POTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docm-to-potm/" name="DOCM Per POTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docm-to-csv/" name="DOCM Per CSV" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docm-to-dif/" name="DOCM Per DIF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docm-to-fods/" name="DOCM Per FODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docm-to-ods/" name="DOCM Per ODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docm-to-sxc/" name="DOCM Per SXC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docm-to-tsv/" name="DOCM Per TSV" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docm-to-xlam/" name="DOCM Per XLAM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docm-to-xltm/" name="DOCM Per XLTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docm-to-excel/" name="DOCM Per EXCEL" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docm-to-xls/" name="DOCM Per XLS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docm-to-xlsb/" name="DOCM Per XLSB" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docm-to-xlsm/" name="DOCM Per XLSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docm-to-xlsx/" name="DOCM Per XLSX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docm-to-xlt/" name="DOCM Per XLT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docm-to-xltm/" name="DOCM Per XLTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docm-to-xltx/" name="DOCM Per XLTX" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

@@ -1,0 +1,89 @@
+---
+title: Android API untuk Mengonversi DOCM ke XLTX
+description: Konversi DOCM ke XLTX di Android melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel
+url: /id/android-java/conversion/docm-to-xltx/
+family: total
+platformtag: cpp
+feature: conversion
+informat: DOCM
+outformat: XLTX
+otherformats: XLS CSV XLT XLAM XLSX SXC XLSM TSV DIF FODS XLTM XLSB ODS EXCEL
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi DOCM ke XLTX di Aplikasi Android" h2="Ekspor DOCM ke XLTX di Android melalui Java tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+Dengan menggunakan [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Anda dapat mengintegrasikan fitur konversi DOCM ke XLTX di dalam aplikasi android Anda. Pertama, Anda dapat mengonversi DOCM ke HTML dengan menggunakan API konversi dan manipulasi dokumen yang kaya fitur [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Setelah itu, dengan menggunakan [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), Anda dapat mengonversi HTML ke XLTX. 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Android API untuk Mengonversi DOCM ke XLTX" %}}
+1. Buka file DOCM menggunakan kelas [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument)
+2. Konversi DOCM ke HTML dengan menggunakan [Simpan](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions) ) metode
+3. Muat dokumen HTML dengan menggunakan kelas [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Simpan dokumen ke format XLTX menggunakan [Simpan](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) metode
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
+Anda dapat dengan mudah menggunakan Aspose.Total untuk Android melalui Java langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) dan instal [Aspose.Cells untuk Android melalui Java](https://docms.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via-java-from-maven-repository) dan [Aspose.Words untuk Android melalui Java](https://docms.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-Android-via-Java-from-maven-repository) di aplikasi Anda.
+
+Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://downloads.aspose.com/total/androidjava).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-word-to-excel.java" >}}
+
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Hapus Informasi yang Tidak Digunakan dari Dokumen DOCM di Android melalui Java" %}}
+Sebelum mengonversi DOCM ke XLTX, Anda dapat menghapus informasi yang tidak digunakan dari Dokumen DOCM melalui [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Terkadang Anda mungkin perlu menghapus informasi yang tidak digunakan atau duplikat untuk mengurangi ukuran dokumen keluaran dan waktu pemrosesan. Kelas [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) memungkinkan Anda menentukan opsi untuk pembersihan dokumen. Untuk menghapus gaya duplikat atau hanya gaya atau daftar yang tidak digunakan dari dokumen, Anda dapat menggunakan metode [Pembersihan](https://reference.aspose.com/words/java/com.aspose.words/Docmument#cleanup()). Anda dapat menggunakan [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) dan [UnusedBuiltinStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanuoptions#UnusedBuiltinStyles) properti untuk mendeteksi dan menghapus gaya yang ditandai sebagai "tidak digunakan".
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-docmument.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="Simpan File XLTX untuk Streaming di Android melalui Java" %}}
+Setelah mengonversi DOCM ke XLTX, [Aspose.Cells untuk Android melalui Java](https://products.aspose.com/cells/android-java/) memungkinkan Anda menyimpan dokumen untuk streaming. Jika Anda perlu menyimpan file ke Stream maka Anda harus membuat objek FileOutputStream dan kemudian [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) file ke objek Stream tersebut dengan memanggil metode penyimpanan [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) obyek.
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Konversi lain yang Didukung" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/android-java/conversion/docm-to-xls/" name="DOCM Ke XLS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/android-java/conversion/docm-to-xltx/" name="DOCM Ke XLTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/android-java/conversion/docm-to-xlt/" name="DOCM Ke XLT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/android-java/conversion/docm-to-xlam/" name="DOCM Ke XLAM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/android-java/conversion/docm-to-xlsx/" name="DOCM Ke XLSX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/android-java/conversion/docm-to-sxc/" name="DOCM Ke SXC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/android-java/conversion/docm-to-xlsm/" name="DOCM Ke XLSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/android-java/conversion/docm-to-tsv/" name="DOCM Ke TSV" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/android-java/conversion/docm-to-dif/" name="DOCM Ke DIF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/android-java/conversion/docm-to-fods/" name="DOCM Ke FODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/android-java/conversion/docm-to-xltm/" name="DOCM Ke XLTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/android-java/conversion/docm-to-xlsb/" name="DOCM Ke XLSB" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/android-java/conversion/docm-to-ods/" name="DOCM Ke ODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/android-java/conversion/docm-to-excel/" name="DOCM Ke EXCEL" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

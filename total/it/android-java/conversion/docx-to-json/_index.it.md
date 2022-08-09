@@ -1,0 +1,89 @@
+---
+title: Converti DOCX in formato JSON in Android tramite Java
+description: Analizza il formato DOCX in JSON in Android tramite Java senza utilizzare Microsoft Word o Excel
+url: /it/android-java/conversion/docx-to-json/
+family: total
+platformtag: cpp
+feature: conversion
+informat: DOCX
+outformat: JSON
+otherformats: XLAM XLSM DIF XLT CSV XLTX XLSX TSV ODS XLTM EXCEL FODS XLS XLSB
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Converti DOCX in formato JSON in Android tramite Java" h2="Progetta applicazioni Android per esportare DOCX in JSON senza utilizzare Microsoft<sup>&reg;</sup> Word o Excel" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+Puoi convertire DOCX in formato JSON nelle tue applicazioni Android tramite [Aspose.Total per Android via Java](https://products.aspose.com/total/android-java/). Utilizzando l'API di conversione e manipolazione dei docxumenti [Aspose.Words per Android tramite Java](https://products.aspose.com/words/android-java/), puoi esportare DOCX in HTML. Successivamente, utilizzando [Aspose.Cells per Android tramite Java](https://products.aspose.com/cells/android-java/), puoi convertire HTML in JSON. 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Converti DOCX in formato JSON in Android" %}}
+1. Aprire il file DOCX utilizzando la classe [Docxument](https://reference.aspose.com/words/java/com.aspose.words/Docxument)
+2. Converti DOCX in HTML utilizzando [Salva](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,com.aspose.words.SaveOptions) ) metodo
+3. Carica il docxumento HTML utilizzando la classe [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Salvare il docxumento in formato JSON utilizzando [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
+Puoi facilmente utilizzare Aspose.Total per Android tramite Java direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e installa le librerie nella tua app.
+
+In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspose.com/total/androidjava).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "aa0de5f99dc2a07e32a776a548eac3fa" "convert-word-to-json.java" >}}
+
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Converti il formato DOCX protetto in formato JSON in Android tramite Java" %}}
+Utilizzando l'API, puoi anche aprire il docxumento protetto da password. Se il docxumento DOCX di input è protetto da password, non è possibile convertirlo in formato JSON senza utilizzare la password. L'API consente di aprire il docxumento crittografato passando la password corretta in un oggetto LoadOptions. L'esempio di codice seguente mostra come aprire un docxumento crittografato con una password.
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "aa0de5f99dc2a07e32a776a548eac3fa" "convert-protected-word-to-json.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="Converti DOCX in JSON nell'intervallo in Android tramite Java" %}}
+Durante la conversione di DOCX in JSON, puoi anche impostare l'intervallo sul formato JSON di output. Per impostare l'intervallo, è possibile aprire l'HTML convertito utilizzando la classe Workbook, creare un intervallo di dati da esportare utilizzando il metodo Cells.createRange, chiamare il metodo JsonUtility.exportRangeToJson con i riferimenti di Range & ExportRangeToJsonOptions e scrivere i dati JSON della stringa su file tramite BufferedWriter.write metodo.
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "aa0de5f99dc2a07e32a776a548eac3fa" "convert-word-to-json-range.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docx-to-xlam/" name="DOCX Per XLAM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docx-to-xlsm/" name="DOCX Per XLSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docx-to-dif/" name="DOCX Per DIF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docx-to-xlt/" name="DOCX Per XLT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docx-to-csv/" name="DOCX Per CSV" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docx-to-xltx/" name="DOCX Per XLTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docx-to-xlsx/" name="DOCX Per XLSX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docx-to-tsv/" name="DOCX Per TSV" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docx-to-ods/" name="DOCX Per ODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docx-to-xltm/" name="DOCX Per XLTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docx-to-excel/" name="DOCX Per EXCEL" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docx-to-fods/" name="DOCX Per FODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docx-to-xls/" name="DOCX Per XLS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/android-java/conversion/docx-to-xlsb/" name="DOCX Per XLSB" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}
