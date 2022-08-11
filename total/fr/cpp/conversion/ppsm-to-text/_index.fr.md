@@ -1,0 +1,76 @@
+---
+title: API C++ pour convertir PPSM en TEXT
+description: Exportez PPSM vers TEXT dans vos applications C++
+url: /fr/cpp/conversion/ppsm-to-text/
+family: total
+platformtag: cpp
+feature: conversion
+informat: PPSM
+outformat: TEXT
+otherformats: DOC DOCX ODT FLATOPC DOTX OTT DOCM RTF WORD WORDML DOTM DOT
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ pour rendre PPSM en TEXT" h2="Exportez PPSM vers TEXT dans des applications C++ sans aucune dépendance Microsoft PowerPoint ou Word" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+[Aspose.Total pour C++](https://products.aspose.com/total/cpp/) est un package complet de bibliothèques d'automatisation du format de fichier C++. En utilisant les fonctionnalités riches des API disponibles dans le package, nous pouvons facilement convertir PowerPoint PPSM en Word TEXT. Pour effectuer la conversion, vous pouvez d'abord utiliser l'API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) pour convertir PPSM en HTML. Après cela, en utilisant l'API de traitement de texte riche en fonctionnalités [Aspose.Words pour C++](https://products.aspose.com/words/cpp/), vous pouvez convertir le HTML en TEXT. 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="API C++ pour convertir PPSM en TEXT" %}}
+1. Chargez le fichier PPSM à l'aide de la référence de classe [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
+2. Rendez PPSM en HTML en utilisant la fonction membre [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) et définissez Html comme SaveFormat
+3. Chargez le fichier HTML converti à l'aide de la référence de classe [Textument](https://reference.aspose.com/words/cpp/class/aspose.words.textument)
+4. Enregistrez le textument au format TEXT en utilisant la fonction membre [Save](https://reference.aspose.com/words/cpp/class/aspose.words.textument#save_string)
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
+Installez à partir de la ligne de commande en tant que ```nuget install Aspose.Total.Cpp``` ou via la console du gestionnaire de packages de Visual Studio avec ```Install-Package Aspose.Total.Cpp```.
+
+Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les DLL dans un fichier ZIP à partir de [téléchargements](https://downloads.aspose.com/total/cpp).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+```cs
+// Load PPSM file
+SharedPtr<Presentation> prs = MakeObject<Presentation>(u"input.ppsm");
+// Save presentation in HTML format.
+prs->Save(u"htmlOutput.html", Aspose::Slides::Export::SaveFormat::Html);
+// load HTML with an instance of Textument
+System::SharedPtr<Textument> text = System::MakeObject<Textument>(u"htmlOutput.html");
+// save textument in TEXT format
+text->Save(u"output.text"); 
+```
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Autres conversions prises en charge" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/cpp/conversion/ppsm-to-text/" name="PPSM À TEXT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/cpp/conversion/ppsm-to-textx/" name="PPSM À TEXTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/cpp/conversion/ppsm-to-odt/" name="PPSM À ODT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/cpp/conversion/ppsm-to-flatopc/" name="PPSM À FLATOPC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/cpp/conversion/ppsm-to-dotx/" name="PPSM À DOTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/cpp/conversion/ppsm-to-ott/" name="PPSM À OTT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/cpp/conversion/ppsm-to-textm/" name="PPSM À TEXTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/cpp/conversion/ppsm-to-rtf/" name="PPSM À RTF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/cpp/conversion/ppsm-to-word/" name="PPSM À WORD" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/cpp/conversion/ppsm-to-wordml/" name="PPSM À WORDML" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/cpp/conversion/ppsm-to-dotm/" name="PPSM À DOTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/cpp/conversion/ppsm-to-dot/" name="PPSM À DOT" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

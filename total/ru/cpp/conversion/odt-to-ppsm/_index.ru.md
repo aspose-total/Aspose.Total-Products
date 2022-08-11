@@ -1,0 +1,132 @@
+---
+title: Преобразование ODT в PPSM через C++
+description: Экспортируйте ODT в PPSM в свои приложения C++ без использования Microsoft Word of PowerPoint.
+url: /ru/cpp/conversion/odt-to-ppsm/
+family: total
+platformtag: cpp
+feature: conversion
+informat: ODT
+outformat: PPSM
+otherformats: POTM POTX POT PPS PPTX ODP PPT PPSX PPTM POWERPOINT
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API для преобразования ODT в PPSM" h2="Экспортируйте ODT в PPSM в приложениях C++ без использования Microsoft Word&reg; или PowerPoint" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) состоит из мощных API-интерфейсов для автоматизации файлов, которые позволяют автоматизировать преобразование ODT в PPSM при использовании двух API-интерфейсов. Загрузите свой ODT с помощью [Aspose.Words для C++](https://products.aspose.com/words/cpp/) и преобразуйте его в HTML, затем загрузите HTML с помощью C++ API для обработки PowerPoint [Aspose.Slides для C++]( https://products.aspose.com/slides/cpp/), чтобы создать новую презентацию и сохранить ее как PPSM. 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Преобразование ODT в PPSM на C++" %}}
+1. Откройте файл ODT, используя ссылку на класс [Odtument](https://reference.aspose.com/words/cpp/class/aspose.words.odtument).
+2. Преобразуйте ODT в HTML с помощью функции-члена [Save](https://reference.aspose.com/words/cpp/class/aspose.words.odtument#save_stdbasicostream_saveoptions).
+3. Инициализируйте новый объект [Презентация](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
+4. Добавьте AutoShape на слайд и добавьте в него AddTextFrame.
+5. Загрузите содержимое HTML и запишите его в файл презентации.
+6. Сохраните документ в формате PPSM с помощью метода [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) и установите Ppsm как SaveFormat.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
+Установите из командной строки как ```nuget install Aspose.Total.Cpp``` или через консоль диспетчера пакетов Visual Studio с помощью ```Install-Package Aspose.Total.Cpp```.
+
+Кроме того, вы можете получить автономный установщик MSI или библиотеки DLL в ZIP-файле из [загрузки](https://downloads.aspose.com/total/cpp).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+```cpp
+// load ODT file with an instance of Odtument
+Odtument odtument = new Odtument("template.odt");
+System::SharedPtr<Odtument> odt = System::MakeObject<Odtument>(u"sourceFile.odt");
+// save the odtument in HTML file format
+odt->Save(u"HtmlOutput.HTML");
+// load the desired the presentation
+SharedPtr<Presentation> pres = MakeObject<Presentation>();
+// access first slide
+SharedPtr<ISlide> sld = pres->get_Slides()->idx_get(0);
+// add an AutoShape of Rectangle type
+SharedPtr<IAutoShape>  ashp = sld->get_Shapes()->AddAutoShape(ShapeType::Rectangle, 10, 10, 700, 500);
+// reset default fill color
+ashp->get_FillFormat()->set_FillType(FillType::NoFill);
+// add TextFrame to the Rectangle
+ashp->AddTextFrame(u" ");
+// access the text frame
+SharedPtr<ITextFrame>  txtFrame = ashp->get_TextFrame();
+// get Paragraphs collection
+SharedPtr<Aspose::Slides::IParagraphCollection>ParaCollection = txtFrame->get_Paragraphs();
+// clear all paragraphs in added text frame
+ParaCollection->Clear();
+// load the HTML file using stream reader
+SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(HtmlOutput.HTML);
+// add text from HTML stream reader in text frame
+ParaCollection->AddFromHtml(tr->ReadToEnd());
+// save presentation as Ppsm
+pres->Save(output.ppsm, Aspose::Slides::Export::SaveFormat::Ppsm);                  
+```
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Загрузить защищенный паролем документ ODT через C++" %}}
+Помимо преобразования документов, [Aspose.Words for C++](https://products.aspose.com/words/cpp/) API позволяет разработчикам C++ использовать множество функций для работы с документами. Если ваш формат файла Microsoft Word ODT защищен паролем, вы все равно можете открыть его с помощью API. Чтобы загрузить зашифрованный документ, вы можете использовать специальную перегрузку конструктора, которая принимает объект [LoadOptions](https://reference.aspose.com/words/cpp/class/aspose.words.loading.load_options). Этот объект содержит свойство Password, которое определяет строку пароля.
+{{% blocks/products/pf/feature-page-code %}}
+
+```cpp
+// when loading password protected odtument, the password is passed to the odtument's constructor using a LoadOptions object.
+auto options = MakeObject<LoadOptions>(u"odtPassword");
+// load the odtument from the local file system by filename:
+SharedPtr<Odtument> odt = MakeObject<Odtument>(u"Encrypted.odt", options);
+```
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="Добавить комментарии в документ PPSM через C++" %}}
+При сохранении ODT в формате PPSM вы также можете использовать [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), чтобы добавить дополнительные функции в документ PPSM. Например, вы можете добавлять комментарии в свою презентацию. Комментарии к слайдам презентации связаны с конкретным автором. Класс Presentation содержит коллекцию авторов в ICommentAuthorCollection, которые отвечают за добавление комментариев к слайдам. Для каждого автора в ICommentCollection есть коллекция комментариев.
+{{% blocks/products/pf/feature-page-code %}}
+
+```cpp
+// instantiate Presentation class
+SharedPtr<Presentation>pres = MakeObject<Presentation>();
+// access first slide
+SharedPtr<ILayoutSlide>layout = pres->get_LayoutSlides()->idx_get(0);
+// add empty slide
+pres->get_Slides()->AddEmptySlide(layout);
+// adding Author
+SharedPtr<ICommentAuthor> author = pres->get_CommentAuthors()->AddAuthor(u"John Doe", u"MF");
+// set position of comments
+System::Drawing::PointF point = System::Drawing::PointF(0.2f, 0.2f);
+// add slide comment for an author on slide 1
+author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres->get_Slides()->idx_get(1), point, DateTime::get_Now());
+// access ISlide 1
+SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
+// save presentation as Ppsm
+pres->Save(output.ppsm, Aspose::Slides::Export::SaveFormat::Ppsm);  
+```
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/cpp/conversion/odt-to-potm/" name="ODT К POTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/cpp/conversion/odt-to-potx/" name="ODT К POTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/cpp/conversion/odt-to-pot/" name="ODT К POT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/cpp/conversion/odt-to-pps/" name="ODT К PPS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/cpp/conversion/odt-to-pptx/" name="ODT К PPTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/cpp/conversion/odt-to-ppsm/" name="ODT К PPSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/cpp/conversion/odt-to-ppt/" name="ODT К PPT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/cpp/conversion/odt-to-ppsx/" name="ODT К PPSX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/cpp/conversion/odt-to-pptm/" name="ODT К PPTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/cpp/conversion/odt-to-powerpoint/" name="ODT К POWERPOINT" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

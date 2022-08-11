@@ -1,0 +1,111 @@
+---
+title: Convierta PPTM a XLS a través de C++
+description: Exporte PPTM a XLS en C++ sin usar Microsoft Excel o Powerpoint
+url: /es/cpp/conversion/pptm-to-xls/
+family: total
+platformtag: cpp
+feature: conversion
+informat: PPTM
+outformat: XLS
+otherformats: MHTML FODS XLSX DIF XLTX EXCEL XLAM XLSB XLSM XLTM MARKDOWN TSV CSV SXC ODS XLT DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta PPTM a XLS a través de C++" h2="Conversión de archivos PPTM a XLS a través de C++ sin usar Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+Al usar [Aspose.Total para C++](https://products.aspose.com/total/cpp/) puede convertir archivos PPTM a XLS dentro de aplicaciones C++ en dos simples pasos. En primer lugar, al usar [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), puede exportar PPTM a HTML. Después de eso, al usar [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) API de programación de hojas de cálculo, puede convertir HTML a XLS. 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Cómo convertir PPTM a XLS a través de C++" %}}
+1. Abra el archivo PPTM usando la referencia de clase [Presentación](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
+2. Convierta PPTM a HTML usando el método [Guardar](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba)
+3. Cargue el documento HTML utilizando la referencia de clase [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
+4. Guarde el documento en formato XLS usando el método [Guardar](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
+Instale a través de Package Manager Console de Visual Studio con ```Install-Package Aspose.Total.Cpp```.
+
+Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archivo ZIP desde [descargas](https://downloads.aspose.com/total/cpp).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-powerpoint-to-excel.cpp" >}}
+
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Convierta PPTM protegido a XLS a través de C++" %}}
+Usando la API, también puede abrir el documento protegido por contraseña. Si su documento PPTM de entrada está protegido con contraseña, no puede convertirlo a XLS sin usar la contraseña. Cuando su documento está protegido con contraseña, significa que impone ciertas restricciones en la presentación. Para eliminar las restricciones, se debe ingresar la contraseña. Una presentación protegida con contraseña se considera una presentación bloqueada. La API le permite abrir el documento cifrado pasando la contraseña correcta en un objeto LoadOptions. El siguiente ejemplo de código muestra cómo abrir un documento cifrado con una contraseña.
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/cpp/conversion/pptm-to-mhtml/" name="PPTM A MHTML" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/cpp/conversion/pptm-to-fods/" name="PPTM A FODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/cpp/conversion/pptm-to-xlsx/" name="PPTM A XLSX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/cpp/conversion/pptm-to-dif/" name="PPTM A DIF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/cpp/conversion/pptm-to-xltx/" name="PPTM A XLTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/cpp/conversion/pptm-to-excel/" name="PPTM A EXCEL" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/cpp/conversion/pptm-to-xlam/" name="PPTM A XLAM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/cpp/conversion/pptm-to-xlsb/" name="PPTM A XLSB" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/cpp/conversion/pptm-to-xlsm/" name="PPTM A XLSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/cpp/conversion/pptm-to-xltm/" name="PPTM A XLTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/cpp/conversion/pptm-to-markdown/" name="PPTM A MARKDOWN" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/cpp/conversion/pptm-to-tsv/" name="PPTM A TSV" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/cpp/conversion/pptm-to-xls/" name="PPTM A XLS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/cpp/conversion/pptm-to-sxc/" name="PPTM A SXC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/cpp/conversion/pptm-to-ods/" name="PPTM A ODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/cpp/conversion/pptm-to-xlt/" name="PPTM A XLT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/cpp/conversion/pptm-to-doc/" name="PPTM A DOC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/cpp/conversion/pptm-to-docx/" name="PPTM A DOCX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/cpp/conversion/pptm-to-docm/" name="PPTM A DOCM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/cpp/conversion/pptm-to-dot/" name="PPTM A DOT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/cpp/conversion/pptm-to-dotm/" name="PPTM A DOTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/cpp/conversion/pptm-to-dotx/" name="PPTM A DOTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/cpp/conversion/pptm-to-odt/" name="PPTM A ODT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/cpp/conversion/pptm-to-ott/" name="PPTM A OTT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/cpp/conversion/pptm-to-rtf/" name="PPTM A RTF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/cpp/conversion/pptm-to-word/" name="PPTM A WORD" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/cpp/conversion/pptm-to-wordml/" name="PPTM A WORDML" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/cpp/conversion/pptm-to-text/" name="PPTM A TEXT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/cpp/conversion/pptm-to-flatopx/" name="PPTM A FLATOPX" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

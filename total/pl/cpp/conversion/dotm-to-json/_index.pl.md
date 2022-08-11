@@ -1,0 +1,81 @@
+---
+title: Konwertuj DOTM na format JSON w C++
+description: Eksportuj DOTM do JSON w C++ bez użycia Microsoft Excel lub Word
+url: /pl/cpp/conversion/dotm-to-json/
+family: total
+platformtag: cpp
+feature: conversion
+informat: DOTM
+outformat: JSON
+otherformats: XLAM XLTX TSV FODS XLT DIF CSV EXCEL XLSB XLS XLSM XLTM SXC ODS
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj DOTM na format JSON za pomocą C++" h2="Eksportuj DOTM do JSON przez C++ bez używania Microsoft<sup>&reg;</sup> Word lub Excel" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+Używając [Aspose.Total for C++](https://products.aspose.com/total/cpp/) możesz przekonwertować DOTM na format JSON w swoich aplikacjach C++. Po pierwsze, używając [Aspose.Words for C++](https://products.aspose.com/words/cpp/), możesz wyeksportować DOTM do HTML. Następnie, używając [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), możesz przekonwertować HTML na format JSON. 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Konwertuj DOTM na format JSON za pomocą C++" %}}
+1. Otwórz plik DOTM, korzystając z odwołania do klasy [Dotmument](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument)
+2. Konwertuj DOTM na HTML za pomocą funkcji członkowskiej [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument#save_string_saveformat)
+3. Załaduj dokument HTML, używając odwołania do klasy [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
+4. Zapisz dokument w formacie JSON za pomocą funkcji członkowskiej [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
+Zainstaluj za pomocą konsoli Menedżera pakietów programu Visual Studio za pomocą ```Install-Package Aspose.Total.Cpp```.
+
+Możesz też pobrać instalator MSI lub biblioteki DLL offline w pliku ZIP ze strony [downloads](https://downloads.aspose.com/total/cpp).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-word-to-json.cpp" >}}
+
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Konwertuj chroniony DOTM na format JSON za pomocą C++" %}}
+Korzystając z interfejsu API, możesz również otworzyć dokument chroniony hasłem. Jeśli wejściowy dokument DOTM jest chroniony hasłem, nie można go przekonwertować na format JSON bez użycia hasła. Aby to zrobić, użyj specjalnego przeciążenia konstruktora, które akceptuje obiekt LoadOptions. Ten obiekt zawiera właściwość Password, która określa ciąg hasła.
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-protected-word-to-json.cpp" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/cpp/conversion/dotm-to-xlam/" name="DOTM Do XLAM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/cpp/conversion/dotm-to-xltx/" name="DOTM Do XLTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/cpp/conversion/dotm-to-tsv/" name="DOTM Do TSV" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/cpp/conversion/dotm-to-fods/" name="DOTM Do FODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/cpp/conversion/dotm-to-xlt/" name="DOTM Do XLT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/cpp/conversion/dotm-to-dif/" name="DOTM Do DIF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/cpp/conversion/dotm-to-csv/" name="DOTM Do CSV" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/cpp/conversion/dotm-to-excel/" name="DOTM Do EXCEL" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/cpp/conversion/dotm-to-xlsb/" name="DOTM Do XLSB" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/cpp/conversion/dotm-to-xls/" name="DOTM Do XLS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/cpp/conversion/dotm-to-xlsm/" name="DOTM Do XLSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/cpp/conversion/dotm-to-xltm/" name="DOTM Do XLTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/cpp/conversion/dotm-to-sxc/" name="DOTM Do SXC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/cpp/conversion/dotm-to-ods/" name="DOTM Do ODS" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

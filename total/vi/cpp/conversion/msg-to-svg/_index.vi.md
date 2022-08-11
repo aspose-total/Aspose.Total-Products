@@ -1,0 +1,135 @@
+---
+title: Xuất MSG sang SVG qua C++
+description: API C++ để chuyển đổi MSG thành SVG mà không cần sử dụng Microsoft Word hoặc Outlook
+url: /vi/cpp/conversion/msg-to-svg/
+family: total
+platformtag: cpp
+feature: conversion
+informat: MSG
+outformat: SVG
+otherformats: DOTX EMF OTT GIF JPEG DOC PCL PNG DOTM TEXT PS BMP DOCX RTF XPS DOCM PDF WORDML EPUB MD TIFF ODT FLATOPC DOT
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ để xuất MSG sang SVG" h2="Chuyển đổi MSG thành SVG trong ứng dụng C++ mà không yêu cầu Microsoft Word hoặc Outlook" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+Bạn là nhà phát triển C++ đang muốn thêm các tính năng chuyển đổi msg vào bên trong các ứng dụng của mình? Sử dụng [Aspose.Msg for C++](https://products.aspose.com/msg/cpp/), bạn có thể chuyển đổi định dạng tệp MSG sang HTML. Sau đó, bằng cách sử dụng API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), bạn có thể xuất HTML sang SVG. Cả hai API đều nằm trong gói [Aspose.Total cho C++](https://products.aspose.com/total/cpp/). 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="API C++ để chuyển đổi MSG thành SVG" %}}
+1. Mở tệp MSG bằng cách sử dụng tham chiếu lớp [MailMessage](https://reference.aspose.com/msg/cpp/class/aspose.msg.mail_message)
+2. Chuyển đổi MSG sang HTML bằng cách sử dụng hàm thành viên [Save](https://reference.aspose.com/msg/cpp/class/aspose.msg.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
+3. Tải HTML bằng cách sử dụng lớp [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
+4. Lưu tài liệu sang định dạng SVG bằng phương pháp [Lưu](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) và đặt Svg làm SaveFormat
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
+Cài đặt từ dòng lệnh là `` nuget install Aspose.Total.Cpp '' hoặc thông qua Package Manager Console của Visual Studio với `` Install-Package Aspose.Total.Cpp ''.
+
+Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://downloads.aspose.com/total/cpp).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+```cpp
+// load the MSG file to be converted
+System::SharedPtr<MailMessage> msg = MailMessage::Load(u"sourceFile.msg");
+// save MSG as a HTML 
+msg->Save(u"HtmlOutput.html", SaveOptions::get_DefaultHtml());  
+// load HTML with an instance of Document
+System::SharedPtr<Document> doc = System::MakeObject<Document>(u"HtmlOutput.html");
+// call save method while passing Svg as save format
+doc->Save(u"convertedFile.Svg");
+```
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Phân tích cú pháp Tệp MSG qua C++" %}}
+Bạn không chỉ có thể chuyển đổi MSG của mình thành SVG mà còn có thể đọc, thao tác và phân tích cú pháp tài liệu MSG. Bạn có thể lấy thông tin chủ đề, địa chỉ, nội dung, người nhận của msg bằng cách sử dụng lớp MapiMessage của API [Aspose.Msg for C++](https://products.aspose.com/msg/cpp/). Ví dụ: bạn có thể kiểm tra msg người gửi cụ thể cho chuyển đổi bằng cách sử dụng thuộc tính get_SenderMsgAddress ().
+{{% blocks/products/pf/feature-page-code %}}
+
+```cpp
+// create an instance of MapiMessage from file
+System::SharedPtr<MapiMessage> msg = MapiMessage::FromFile(dataDir + L"message.msg");
+// get subject
+System::Console::WriteLine(System::String(L"Subject:") + msg->get_Subject());
+// get from address
+System::Console::WriteLine(System::String(L"From:") + msg->get_SenderMsgAddress());
+// get body
+System::Console::WriteLine(System::String(L"Body") + msg->get_Body());
+// get recipients information
+System::Console::WriteLine(System::String(L"Recipient: ") + msg->get_Recipients());
+```
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="API C++ để hạn chế chỉnh sửa định dạng tệp SVG" %}}
+Bạn cũng có thể thêm các tính năng bảo vệ tài liệu trong ứng dụng của mình trong khi xuất tài liệu từ MSG sang SVG. Thêm bảo vệ cho tài liệu của bạn là một quá trình đơn giản, vì tất cả những gì bạn cần làm là áp dụng phương pháp bảo vệ cho tài liệu của mình. Bạn có thể đặt loại bảo vệ thành ReadOnly để hạn chế người dùng chỉnh sửa tài liệu.
+{{% blocks/products/pf/feature-page-code %}}
+
+```cpp
+// create a new document and protect it with a password.
+auto doc = System::MakeObject<Document>();
+// apply Document Protection.
+doc->Protect(ProtectionType::ReadOnly, u"password");
+// save the document.
+doc->Save(u"DocumentProtection.PasswordProtection.Svg");
+```
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Các chuyển đổi được hỗ trợ khác" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/cpp/conversion/msg-to-dotx/" name="MSG Đến DOTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/cpp/conversion/msg-to-emf/" name="MSG Đến EMF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/cpp/conversion/msg-to-ott/" name="MSG Đến OTT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/cpp/conversion/msg-to-gif/" name="MSG Đến GIF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/cpp/conversion/msg-to-jpeg/" name="MSG Đến JPEG" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/cpp/conversion/msg-to-doc/" name="MSG Đến DOC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/cpp/conversion/msg-to-pcl/" name="MSG Đến PCL" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/cpp/conversion/msg-to-png/" name="MSG Đến PNG" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/cpp/conversion/msg-to-dotm/" name="MSG Đến DOTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/cpp/conversion/msg-to-text/" name="MSG Đến TEXT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/cpp/conversion/msg-to-ps/" name="MSG Đến PS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/cpp/conversion/msg-to-svg/" name="MSG Đến SVG" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/cpp/conversion/msg-to-docx/" name="MSG Đến DOCX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/cpp/conversion/msg-to-rtf/" name="MSG Đến RTF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/cpp/conversion/msg-to-xps/" name="MSG Đến XPS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/cpp/conversion/msg-to-docm/" name="MSG Đến DOCM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/cpp/conversion/msg-to-pdf/" name="MSG Đến PDF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/cpp/conversion/msg-to-wordml/" name="MSG Đến WORDML" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/cpp/conversion/msg-to-epub/" name="MSG Đến EPUB" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/cpp/conversion/msg-to-md/" name="MSG Đến MD" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/cpp/conversion/msg-to-tiff/" name="MSG Đến TIFF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/cpp/conversion/msg-to-odt/" name="MSG Đến ODT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/cpp/conversion/msg-to-flatopc/" name="MSG Đến FLATOPC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/cpp/conversion/msg-to-dot/" name="MSG Đến DOT" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

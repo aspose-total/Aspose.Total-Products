@@ -1,0 +1,115 @@
+---
+title: C++ API untuk Mengonversi CGM ke POTX
+description: Konversi CGM ke POTX melalui C++ tanpa menggunakan Microsoft Word atau Adobe Acrobat Reader
+url: /id/cpp/conversion/cgm-to-potx/
+family: total
+platformtag: cpp
+feature: conversion
+informat: CGM
+outformat: POTX
+otherformats: OTP PPT POTM PPSM XAML PPS PPTM SWF POWERPOINT PPSX ODP POT
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Render CGM ke POTX dalam Aplikasi C++" h2="Konversi CGM ke POTX dalam Aplikasi C++ Anda tanpa menggunakan Microsoft<sup>&reg;</sup> PowerPoint" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+Apakah Anda seorang pengembang C++ yang ingin menambahkan fitur konversi CGM ke POTX di dalam aplikasi C++ Anda? Anda dapat melakukannya dalam dua langkah sederhana. Anda dapat mengekspor CGM ke PPTX dengan menggunakan [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/). Kedua, dengan menggunakan [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), Anda dapat mengonversi PPTX ke POTX. Kedua API berada di bawah paket [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API untuk Mengekspor CGM ke POTX" %}}
+1. Buka file CGM menggunakan referensi kelas [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)
+2. Konversi CGM ke PPTX dengan menggunakan fungsi metode [Simpan](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a0184df207563187be7df37b8dbe443f6)
+3. Muat dokumen PPTX dengan menggunakan referensi kelas [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
+4. Simpan dokumen ke format POTX menggunakan fungsi anggota [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) dan setel `Potx` sebagai SaveFormat
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
+Instal dari baris perintah sebagai ```nuget install Aspose.Total.Cpp``` atau melalui Package Manager Console dari Visual Studio dengan ```Install-Package Aspose.Total.Cpp```.
+
+Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](https://downloads.aspose.com/total/cpp).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+```cpp
+// load CGM file with an instance of Document class
+auto doc = MakeObject<Document>(u"template.cgm");
+// save CGM as PPTX format 
+doc->Save(u"PptxOutput.pptx", SaveFormat::Pptx);
+// instantiate a Presentation object that represents a PPTX file
+SharedPtr<Presentation> prs = MakeObject<Presentation>(u"PptxOutput.pptx");
+// save the presentation as Potx format
+prs->Save(u"output.potx", Aspose::Slides::Export::SaveFormat::Potx);  
+```
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Ubah Kata Sandi Dokumen CGM melalui C++" %}}
+Dalam proses rendering CGM ke POTX, Anda dapat membuka CGM yang dilindungi kata sandi dan juga mengubah kata sandinya. Untuk mengubah kata sandi file CGM, Anda harus mengetahui kata sandi pemilik dokumen itu. Anda dapat memuat dokumen PDF yang dilindungi kata sandi dengan [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) dengan menentukan kata sandi pemiliknya dan menggunakan metode ChangePasswords untuk mengubah kata sandi.
+{{% blocks/products/pf/feature-page-code %}}
+
+```cpp
+// load an existing CGM Document
+auto doc = MakeObject<Document>(L"input.cgm", L"owner");
+// change password of CGM Document
+doc->ChangePasswords(L"owner", L"newuser", L"newuser");
+// save the document
+doc->Save(L"output.Doc");
+```
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="Tambahkan Gambar Dari Web dalam File POTX melalui C++" %}}
+Setelah mengonversi CGM ke POTX, Anda juga dapat menambahkan gambar dari web ke dokumen keluaran Anda. [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) mendukung operasi dengan gambar dalam format populer berikut: JPEG, PNG, BMP, GIF, dan lainnya. Anda dapat menambahkan satu atau beberapa gambar di komputer Anda ke slide dalam presentasi. Kode contoh di C++ ini menunjukkan cara menambahkan gambar ke file POTX
+{{% blocks/products/pf/feature-page-code %}}
+
+```cpp
+// instantiate a Presentation object that represents a POTX file
+auto pres = System::MakeObject<Presentation>("output.potx");
+// get slide
+auto slide = pres->get_Slides()->idx_get(0);
+// initialize Web Client    
+auto webClient = System::MakeObject<WebClient>();
+// get image data
+auto imageData = webClient->DownloadData(System::MakeObject<Uri>(u"[REPLACE WITH URL]"));
+// add image
+auto image = pres->get_Images()->AddImage(imageData);
+// add picture frame
+slide->get_Shapes()->AddPictureFrame(ShapeType::Rectangle, 10.0f, 10.0f, 100.0f, 100.0f, image);
+// save updated file
+pres->Save(u"updated.potx", SaveFormat::Potx);
+```
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Konversi lain yang Didukung" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/cpp/conversion/cgm-to-otp/" name="CGM Ke OTP" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/cpp/conversion/cgm-to-ppt/" name="CGM Ke PPT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/cpp/conversion/cgm-to-potm/" name="CGM Ke POTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/cpp/conversion/cgm-to-ppsm/" name="CGM Ke PPSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/cpp/conversion/cgm-to-xaml/" name="CGM Ke XAML" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/cpp/conversion/cgm-to-pps/" name="CGM Ke PPS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/cpp/conversion/cgm-to-pptm/" name="CGM Ke PPTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/cpp/conversion/cgm-to-swf/" name="CGM Ke SWF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/cpp/conversion/cgm-to-powerpoint/" name="CGM Ke POWERPOINT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/cpp/conversion/cgm-to-ppsx/" name="CGM Ke PPSX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/cpp/conversion/cgm-to-potx/" name="CGM Ke POTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/cpp/conversion/cgm-to-pot/" name="CGM Ke POT" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}
