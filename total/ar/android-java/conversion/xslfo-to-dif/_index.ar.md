@@ -19,7 +19,7 @@ otherformats: XLT ODS FODS XLAM TXT XLTM XLTX MD EXCEL TSV SXC CSV
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Android API لتقديم XSLFO إلى DIF" %}}
 1. افتح ملف XSLFO باستخدام فئة [المستند](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
-2. تحويل XSLFO إلى XLSX باستخدام [حفظ](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) طريقة
+2. تحويل XSLFO إلى XLSX باستخدام [حفظ](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) طريقة
 3. قم بتحميل مستند XLSX باستخدام فئة [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. احفظ المستند بتنسيق DIF باستخدام [حفظ](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))) الطريقة
 {{% /blocks/products/pf/agp/feature-section-col %}}

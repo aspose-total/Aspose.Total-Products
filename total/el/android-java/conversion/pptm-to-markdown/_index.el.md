@@ -19,7 +19,7 @@ otherformats: ODS FODS SXC XLSX EXCEL DIF XLAM XLSM XLTM MHTML XLT XLTX XLS XLSB
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Πώς να μετατρέψετε το PPTM σε MARKDOWN στο Android" %}}
 1. Ανοίξτε το αρχείο PPTM χρησιμοποιώντας την τάξη [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Μετατρέψτε το PPTM σε HTML χρησιμοποιώντας το [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.μέθοδος ISaveOptions-).
+2. Μετατρέψτε το PPTM σε HTML χρησιμοποιώντας το [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.μέθοδοςISaveOptions-).
 3. Φορτώστε το έγγραφο HTML χρησιμοποιώντας την τάξη [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Αποθηκεύστε το έγγραφο σε μορφή MARKDOWN χρησιμοποιώντας το [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -1,0 +1,111 @@
+---
+title: แปลง POT เป็น XLS ผ่าน C++
+description: ส่งออก POT เป็น XLS ใน C++ โดยไม่ต้องใช้ Microsoft Excel หรือ Powerpoint
+url: /th/cpp/conversion/pot-to-xls/
+family: total
+platformtag: cpp
+feature: conversion
+informat: POT
+outformat: XLS
+otherformats: XLTM TSV DIF XLSX XLT MARKDOWN MHTML ODS XLAM EXCEL FODS CSV XLTX SXC XLSB XLSM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง POT เป็น XLS ผ่าน C++" h2="การแปลงไฟล์ POT เป็น XLS ผ่าน C++ โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Excel หรือ PowerPoint" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+ด้วยการใช้ [Aspose.Total สำหรับ C++](https://products.aspose.com/total/cpp/) คุณสามารถแปลงไฟล์ POT เป็น XLS ภายในแอปพลิเคชัน C++ ได้ในสองขั้นตอนง่ายๆ ประการแรก โดยใช้ [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) คุณสามารถส่งออก POT เป็น HTML หลังจากนั้น ด้วยการใช้ [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API คุณสามารถแปลง HTML เป็น XLS 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง POT เป็น XLS ผ่าน C++" %}}
+1. เปิดไฟล์ POT โดยใช้ [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) การอ้างอิงคลาส
+2. แปลง POT เป็น HTML โดยใช้วิธี [บันทึก](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba)
+3. โหลดเอกสาร HTML โดยใช้ [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) การอ้างอิงคลาส
+4. บันทึกเอกสารในรูปแบบ XLS โดยใช้วิธี [บันทึก](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
+ติดตั้งผ่าน Package Manager Console ของ Visual Studio ด้วย ```Install-Package Aspose.Total.Cpp```
+
+หรือรับตัวติดตั้ง MSI แบบออฟไลน์หรือ DLL ในไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/total/cpp)
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-powerpoint-to-excel.cpp" >}}
+
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="แปลง Protected POT เป็น XLS ผ่าน C++" %}}
+คุณยังสามารถเปิดเอกสารที่ป้องกันด้วยรหัสผ่านโดยใช้ API ได้อีกด้วย หากเอกสาร POT ที่คุณป้อนมีการป้องกันด้วยรหัสผ่าน คุณจะไม่สามารถแปลงเป็น XLS ได้โดยไม่ต้องใช้รหัสผ่าน เมื่อเอกสารของคุณได้รับการป้องกันด้วยรหัสผ่าน แสดงว่ามีการบังคับใช้ข้อจำกัดบางประการในการนำเสนอ ต้องป้อนรหัสผ่านเพื่อลบข้อจำกัด การนำเสนอที่มีการป้องกันด้วยรหัสผ่านถือเป็นการนำเสนอที่ถูกล็อค API อนุญาตให้คุณเปิดเอกสารที่เข้ารหัสโดยส่งรหัสผ่านที่ถูกต้องในออบเจกต์ LoadOptions ตัวอย่างโค้ดต่อไปนี้แสดงวิธีการเปิดเอกสารที่เข้ารหัสด้วยรหัสผ่าน
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่น ๆ ที่รองรับ" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/cpp/conversion/pot-to-xltm/" name="POT ถึง XLTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/cpp/conversion/pot-to-tsv/" name="POT ถึง TSV" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/cpp/conversion/pot-to-dif/" name="POT ถึง DIF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/cpp/conversion/pot-to-xlsx/" name="POT ถึง XLSX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/cpp/conversion/pot-to-xlt/" name="POT ถึง XLT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/cpp/conversion/pot-to-markdown/" name="POT ถึง MARKDOWN" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/cpp/conversion/pot-to-mhtml/" name="POT ถึง MHTML" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/cpp/conversion/pot-to-ods/" name="POT ถึง ODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/cpp/conversion/pot-to-xlam/" name="POT ถึง XLAM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/cpp/conversion/pot-to-excel/" name="POT ถึง EXCEL" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/cpp/conversion/pot-to-fods/" name="POT ถึง FODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/cpp/conversion/pot-to-xls/" name="POT ถึง XLS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/cpp/conversion/pot-to-xltx/" name="POT ถึง XLTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/cpp/conversion/pot-to-sxc/" name="POT ถึง SXC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/cpp/conversion/pot-to-xlsb/" name="POT ถึง XLSB" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/cpp/conversion/pot-to-xlsm/" name="POT ถึง XLSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/cpp/conversion/pot-to-doc/" name="POT ถึง DOC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/cpp/conversion/pot-to-docx/" name="POT ถึง DOCX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/cpp/conversion/pot-to-docm/" name="POT ถึง DOCM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/cpp/conversion/pot-to-dot/" name="POT ถึง DOT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/cpp/conversion/pot-to-dotm/" name="POT ถึง DOTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/cpp/conversion/pot-to-dotx/" name="POT ถึง DOTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/cpp/conversion/pot-to-odt/" name="POT ถึง ODT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/cpp/conversion/pot-to-ott/" name="POT ถึง OTT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/cpp/conversion/pot-to-rtf/" name="POT ถึง RTF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/cpp/conversion/pot-to-word/" name="POT ถึง WORD" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/cpp/conversion/pot-to-wordml/" name="POT ถึง WORDML" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/cpp/conversion/pot-to-text/" name="POT ถึง TEXT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/cpp/conversion/pot-to-flatopx/" name="POT ถึง FLATOPX" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

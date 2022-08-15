@@ -1,0 +1,76 @@
+---
+title: POTMをDOTXに変換するC++API
+description: C++アプリケーション内でPOTMをDOTXにエクスポートする
+url: /ja/cpp/conversion/potm-to-dotx/
+family: total
+platformtag: cpp
+feature: conversion
+informat: POTM
+outformat: DOTX
+otherformats: RTF DOCX WORDML TEXT OTT WORD ODT FLATOPC DOT DOC DOTM DOCM
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="POTMをDOTXにレンダリングするC++API" h2="MicrosoftPowerPointやWordに依存せずにC++アプリケーションでPOTMをDOTXにエクスポートする" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/)は、C++ファイル形式自動化ライブラリの完全なパッケージです。 pacakgeで利用可能なAPIの豊富な機能を使用することで、PowerPointPOTMをWordDOTXに簡単に変換できます。変換を実行するには、最初に[Aspose.Slides for C++](https://products.aspose.com/slides/cpp/)APIを使用してPOTMをHTMLに変換できます。その後、機能豊富なワードプロセッシングAPI [Aspose.Words for C++](https://products.aspose.com/words/cpp/)を使用して、HTMLをDOTXに変換できます。 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="POTMをDOTXに変換するC++API" %}}
+1. [プレゼンテーション](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)クラスリファレンスを使用してPOTMファイルをロードします
+2. [保存](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e)メンバー関数を使用してPOTMをHTMLにレンダリングし、HtmlをSaveFormatとして設定します
+3. [ドキュメント](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument)クラスリファレンスを使用して、変換されたHTMLファイルをロードします
+4. [保存](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument#save_string)メンバー機能を使用して、ドキュメントをDOTX形式で保存します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
+コマンドラインから```nuget install Aspose.Total.Cpp```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから```Install-PackageAspose.Total.Cpp```を使用してインストールします。
+
+または、[ダウンロード](https://downloads.aspose.com/total/cpp)からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+```cs
+// Load POTM file
+SharedPtr<Presentation> prs = MakeObject<Presentation>(u"input.potm");
+// Save presentation in HTML format.
+prs->Save(u"htmlOutput.html", Aspose::Slides::Export::SaveFormat::Html);
+// load HTML with an instance of Dotxument
+System::SharedPtr<Dotxument> dotx = System::MakeObject<Dotxument>(u"htmlOutput.html");
+// save dotxument in DOTX format
+dotx->Save(u"output.dotx"); 
+```
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている変換" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/cpp/conversion/potm-to-rtf/" name="POTM に RTF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/cpp/conversion/potm-to-dotxx/" name="POTM に DOTXX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/cpp/conversion/potm-to-wordml/" name="POTM に WORDML" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/cpp/conversion/potm-to-text/" name="POTM に TEXT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/cpp/conversion/potm-to-ott/" name="POTM に OTT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/cpp/conversion/potm-to-word/" name="POTM に WORD" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/cpp/conversion/potm-to-odt/" name="POTM に ODT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/cpp/conversion/potm-to-flatopc/" name="POTM に FLATOPC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/cpp/conversion/potm-to-dot/" name="POTM に DOT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/cpp/conversion/potm-to-dotx/" name="POTM に DOTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/cpp/conversion/potm-to-dotm/" name="POTM に DOTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/cpp/conversion/potm-to-dotxm/" name="POTM に DOTXM" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

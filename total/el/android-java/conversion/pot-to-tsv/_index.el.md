@@ -19,7 +19,7 @@ otherformats: XLAM XLSX XLTX SXC XLSM DIF MARKDOWN ODS XLTM XLT MHTML XLSB FODS 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Πώς να μετατρέψετε το POT σε TSV στο Android" %}}
 1. Ανοίξτε το αρχείο POT χρησιμοποιώντας την τάξη [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Μετατρέψτε το POT σε HTML χρησιμοποιώντας το [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.μέθοδος ISaveOptions-).
+2. Μετατρέψτε το POT σε HTML χρησιμοποιώντας το [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.μέθοδοςISaveOptions-).
 3. Φορτώστε το έγγραφο HTML χρησιμοποιώντας την τάξη [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Αποθηκεύστε το έγγραφο σε μορφή TSV χρησιμοποιώντας το [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
 {{% /blocks/products/pf/agp/feature-section-col %}}

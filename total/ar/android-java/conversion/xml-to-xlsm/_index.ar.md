@@ -19,7 +19,7 @@ otherformats: DIF SXC MD XLTX XLAM FODS CSV XLSB ODS XLTM TSV TXT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Android API لتقديم XML إلى XLSM" %}}
 1. افتح ملف XML باستخدام فئة [المستند](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
-2. تحويل XML إلى XLSX باستخدام [حفظ](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) طريقة
+2. تحويل XML إلى XLSX باستخدام [حفظ](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) طريقة
 3. قم بتحميل مستند XLSX باستخدام فئة [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. احفظ المستند بتنسيق XLSM باستخدام [حفظ](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))) الطريقة
 {{% /blocks/products/pf/agp/feature-section-col %}}

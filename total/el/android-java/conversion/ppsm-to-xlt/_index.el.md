@@ -19,7 +19,7 @@ otherformats: XLS XLAM EXCEL ODS TSV DIF CSV XLTX XLSB FODS XLSX MHTML XLTM XLSM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Πώς να μετατρέψετε το PPSM σε XLT στο Android" %}}
 1. Ανοίξτε το αρχείο PPSM χρησιμοποιώντας την τάξη [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. Μετατρέψτε το PPSM σε HTML χρησιμοποιώντας το [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.μέθοδος ISaveOptions-).
+2. Μετατρέψτε το PPSM σε HTML χρησιμοποιώντας το [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.μέθοδοςISaveOptions-).
 3. Φορτώστε το έγγραφο HTML χρησιμοποιώντας την τάξη [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Αποθηκεύστε το έγγραφο σε μορφή XLT χρησιμοποιώντας το [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
 {{% /blocks/products/pf/agp/feature-section-col %}}

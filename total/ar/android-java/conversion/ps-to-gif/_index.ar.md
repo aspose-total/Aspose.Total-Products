@@ -19,7 +19,7 @@ otherformats: PCL FLATOPC DOT WORDML XAMLFLOW OTT MARKDOWN RTF MHTML DOCM ODT DO
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="تحويل PS إلى GIF على Android عبر Java" %}}
 1. افتح ملف PS باستخدام فئة [المستند](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
-2. تحويل PS إلى DOC باستخدام [حفظ](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) طريقة
+2. تحويل PS إلى DOC باستخدام [حفظ](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) طريقة
 3. قم بتحميل ملف DOC باستخدام فئة [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) من Aspose.Words
 4. احفظ المستند بتنسيق GIF باستخدام طريقة [حفظ](https://reference.aspose.com/words/java/com.aspose.words/Document#save (java.lang.String، int)) وقم بتعيين GIF باسم SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

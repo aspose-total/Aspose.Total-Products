@@ -1,0 +1,56 @@
+---
+title: C++를 사용하여 XLS를 WORD로 변환
+description: C++ 애플리케이션 내에서 XLS를 WORD로 변환
+url: /ko/cpp/conversion/xls-to-word/
+family: total
+platformtag: cpp
+feature: conversion
+informat: XLS
+outformat: DOC
+otherformats: DOCX POWERPOINT DOC PPTX
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="C++를 통해 XLS를 WORD로 변환" h2="엑셀 내보내기&reg; 완전한 기능을 갖춘 C++ 애플리케이션 내에서 XLS에서 WORD로" >}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="C++에서 XLS에서 WORD로 변환" %}}
+1. [Factory](https://reference.aspose.com/cells)의 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 멤버 함수를 사용하여 XLS 파일 열기 /cpp/class/aspose.cells.factory) 클래스 참조
+2. XLS를 PDF로 변환하고 SaveFormat을 PDF로 설정
+3. [문서](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.wordument) 클래스 참조를 사용하여 변환된 PDF 파일을 로드합니다.
+4. [저장](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.wordument#a6383c010776212483f51cc41235924db) 멤버 함수를 사용하여 문서를 WORD 형식으로 저장하고 Word을 SaveFormat으로 설정합니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
+명령줄에서 ```nuget install Aspose.Total.Cpp```로 설치하거나 Visual Studio의 패키지 관리자 콘솔을 통해 ```Install-Package Aspose.Total.Cpp```로 설치합니다.
+
+또는 [downloads](https://downloads.aspose.com/total/cpp)에서 ZIP 파일의 오프라인 MSI 설치 프로그램 또는 DLL을 가져옵니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+```cs
+// load the XLS file using Factory::CreateIWorkbook
+intrusive_ptr<Aspose::Cells::IWorkbook> wkb = Factory::CreateIWorkbook(u"sourceFile.xls");
+// save XLS as PDF
+wkb->Save(u"pdfOutput.pdf", SaveFormat_Pdf);
+// load the PDF file using Wordument class reference
+auto word = MakeObject<Wordument>(u"pdfOutput.pdf");
+// save wordument in WORD format
+word->Save(u"convertedFile.word", SaveFormat::Word);
+```
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 변환" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/cpp/conversion/xls-to-wordx/" name="XLS 에게 WORDX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/cpp/conversion/xls-to-powerpoint/" name="XLS 에게 POWERPOINT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/cpp/conversion/xls-to-word/" name="XLS 에게 WORD" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/cpp/conversion/xls-to-pptx/" name="XLS 에게 PPTX" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

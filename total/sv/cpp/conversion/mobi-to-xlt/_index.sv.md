@@ -1,0 +1,89 @@
+---
+title: Konvertera MOBI till XLT i C++
+description: C++ API för att konvertera MOBI till XLT utan att använda Microsoft Word eller Microsoft Excel
+url: /sv/cpp/conversion/mobi-to-xlt/
+family: total
+platformtag: cpp
+feature: conversion
+informat: MOBI
+outformat: XLT
+otherformats: EXCEL XLTM CSV XLSB FODS XLS XLSM XLTX DIF ODS TSV XLSX SXC XLAM
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API för att konvertera MOBI till XLT" h2="Exportera MOBI till XLT via C++ utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+Du kan enkelt inkludera MOBI till XLT-konverteringsfunktionen i dina C++-applikationer. Genom att använda funktionsrika, kraftfulla och lättanvända dokumentmanipulerings- och konverterings-API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), kan du exportera MOBI till HTML. Efter det, genom att använda [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), kan du konvertera HTML till XLT. Båda API:erna kommer under paketet [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API för att konvertera MOBI till XLT" %}}
+1. Öppna MOBI-filen med [Mobiument](https://reference.aspose.com/words/cpp/class/aspose.words.mobiument) klassreferens
+2. Konvertera MOBI till HTML genom att använda medlemsfunktionen [Save](https://reference.aspose.com/words/cpp/class/aspose.words.mobiument#save_string_saveformat)
+3. Ladda HTML-dokument med hjälp av klassreferens [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
+4. Spara dokumentet i XLT-format med hjälp av medlemsfunktionen [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
+Installera från kommandoraden som ```nuget install Aspose.Total.Cpp``` eller via Package Manager Console of Visual Studio med ```Install-Package Aspose.Total.Cpp```.
+
+Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i en ZIP-fil från [downloads](https://downloads.aspose.com/total/cpp).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "convert-word-to-excel.cpp" >}}
+
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-section  h2="Få åtkomst till MOBI-dokumentegenskaper via C++" %}}
+[Aspose.Words for C++](https://products.aspose.com/words/cpp/) låter dig också komma åt dokumentegenskaperna för MOBI-filen och låter dig ta ett välgrundat beslut innan konverteringsprocessen. För att komma åt dokumentegenskaper kan du använda [BuiltInMobiumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_mobiument_properties) för att få inbyggda egenskaper och [CustomMobiumentProperties](https:// reference.aspose.com/words/cpp/class/aspose.words.properties.custom_mobiument_properties) för att få anpassade egenskaper. Följande kodexempel visar hur man räknar upp alla inbyggda och anpassade egenskaper i ett dokument.
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-mobiument-properties.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="Spara XLT-fil för att streama via C++" %}}
+Efter att ha konverterat MOBI till XLT, gör [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) det möjligt för dig att spara ditt dokument för att streama. För att spara filer till en ström, skapa ett MemoryStream- eller FileStream-objekt och spara filen till det strömobjektet genom att anropa [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) objektets [Spara](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) metod. Ange önskat filformat med [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) uppräkningen när du anropar [Save](https://reference.aspose.com).
+{{% blocks/products/pf/feature-page-code %}}
+
+{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "save-excel-to-stream.cpp" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andra omvandlingar som stöds" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/cpp/conversion/mobi-to-excel/" name="MOBI Till EXCEL" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/cpp/conversion/mobi-to-xltm/" name="MOBI Till XLTM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/cpp/conversion/mobi-to-xlt/" name="MOBI Till XLT" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/cpp/conversion/mobi-to-xlsb/" name="MOBI Till XLSB" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/cpp/conversion/mobi-to-fods/" name="MOBI Till FODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/cpp/conversion/mobi-to-xls/" name="MOBI Till XLS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/cpp/conversion/mobi-to-xlsm/" name="MOBI Till XLSM" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/cpp/conversion/mobi-to-xltx/" name="MOBI Till XLTX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/cpp/conversion/mobi-to-dif/" name="MOBI Till DIF" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/cpp/conversion/mobi-to-ods/" name="MOBI Till ODS" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/cpp/conversion/mobi-to-tsv/" name="MOBI Till TSV" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/cpp/conversion/mobi-to-xlsx/" name="MOBI Till XLSX" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/cpp/conversion/mobi-to-sxc/" name="MOBI Till SXC" description="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/cpp/conversion/mobi-to-xlam/" name="MOBI Till XLAM" description="" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}
