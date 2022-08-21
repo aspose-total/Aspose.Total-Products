@@ -13,7 +13,7 @@ otherformats: XLTM MARKDOWN FODS CSV XLAM XLTX XLS MHTML DIF XLSX EXCEL XLSB TSV
 {{< blocks/products/pf/feature-page-header h1="Convierta PPS a XLSM en Android a través de Java" h2="Exporte archivos PPS a XLSM en aplicaciones de Android sin utilizar Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Puede convertir fácilmente un archivo PPS a XLSM en sus aplicaciones de Android en un proceso de dos pasos a través de [Aspose.Total para Android a través de Java](https://products.aspose.com/total/android-java/). En el primer paso, puede exportar el archivo PPS a HTML utilizando [Aspose.Slides para Android a través de Java](https://products.aspose.com/slides/android-java/). En segundo lugar, al usar [Aspose.Cells para Android a través de Java](https://products.aspose.com/cells/android-java/), puede convertir HTML a XLSM. 
+Puede convertir fácilmente un archivo PPS a XLSM en sus aplicaciones de Android en un proceso de dos pasos a través de [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). En el primer paso, puede exportar el archivo PPS a HTML utilizando [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). En segundo lugar, al usar [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), puede convertir HTML a XLSM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Puede convertir fácilmente un archivo PPS a XLSM en sus aplicaciones de Android
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
-Para convertir PPS a XLSM, puede usar fácilmente Aspose.Total para Android a través de Java directamente desde [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e instale bibliotecas en su aplicación.
+Para convertir PPS a XLSM, puede usar fácilmente Aspose.Total for Android via Java directamente desde [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e instale bibliotecas en su aplicación.
 
 Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

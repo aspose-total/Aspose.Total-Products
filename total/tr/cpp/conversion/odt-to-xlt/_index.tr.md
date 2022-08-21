@@ -18,7 +18,7 @@ ODT'den XLT'ye dönüştürme özelliğini C++ uygulamalarınıza kolayca dahil 
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="ODT'yi XLT'ye Dönüştürmek için C++ API" %}}
-1. [Belge](https://reference.aspose.com/words/cpp/class/aspose.words.odtument) sınıf referansını kullanarak ODT dosyasını açın
+1. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.odtument) sınıf referansını kullanarak ODT dosyasını açın
 2. [Kaydet](https://reference.aspose.com/words/cpp/class/aspose.words.odtument#save_string_saveformat) üye işlevini kullanarak ODT'u HTML'ye dönüştürün
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) sınıf referansını kullanarak HTML belgesini yükleyin
 4. [Kaydet](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) üye işlevini kullanarak belgeyi XLT biçiminde kaydedin

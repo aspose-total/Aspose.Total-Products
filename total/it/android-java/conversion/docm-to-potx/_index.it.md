@@ -13,20 +13,20 @@ otherformats: PPSX PPTX PPSM ODP POTM PPT PPS PPTM POWERPOINT POT CSV DIF FODS O
 {{< blocks/products/pf/feature-page-header h1="Converti DOCM in POTX nelle app Android" h2="Conversione da DOCM a POTX nelle tue applicazioni Android senza installare Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Sei uno sviluppatore Android e stai cercando di aggiungere una funzione di conversione dei docmumenti alla tua applicazione? [Aspose.Total per Android tramite Java](https://products.aspose.com/total/android-java/) Le librerie File Format Automation possono aiutarti ad automatizzare il processo di conversione dei docmumenti nelle tue applicazioni Android. Per convertire il file DOCM in POTX, puoi prima utilizzare l'API di manipolazione del docmumento [Aspose.Words per Android Java](https://products.aspose.com/words/android-java/) per convertire il formato del file DOCM in HTML. Successivamente, utilizzando l'API di PowerPoint [Aspose.Slides per Android Java](https://products.aspose.com/slides/android-java/), puoi creare una nuova presentazione, scrivere contenuto HTML al suo interno e salvarlo come POTX. 
+Sei uno sviluppatore Android e stai cercando di aggiungere una funzione di conversione dei docmumenti alla tua applicazione? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Le librerie File Format Automation possono aiutarti ad automatizzare il processo di conversione dei docmumenti nelle tue applicazioni Android. Per convertire il file DOCM in POTX, puoi prima utilizzare l'API di manipolazione del docmumento [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) per convertire il formato del file DOCM in HTML. Successivamente, utilizzando l'API di PowerPoint [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), puoi creare una nuova presentazione, scrivere contenuto HTML al suo interno e salvarlo come POTX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Come convertire DOCM in POTX in Android" %}}
-1. Aprire il file DOCM utilizzando la classe [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument)
-2. Converti file DOCM in HTML utilizzando [save](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions )) metodo
+1. Aprire il file DOCM utilizzando la classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Converti file DOCM in HTML utilizzando [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions )) metodo
 3. Inizializzare un nuovo oggetto [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Estrarre il contenuto dal file HTML utilizzando BufferedReader e scrivere il contenuto nel file di presentazione
 6. Salvare il docmumento in POTX utilizzando il metodo [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
-Per la conversione di file da DOCM a POTX, puoi facilmente utilizzare Aspose.Total per Android tramite Java direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e installa le librerie nella tua app.
+Per la conversione di file da DOCM a POTX, puoi facilmente utilizzare Aspose.Total for Android via Java direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e installa le librerie nella tua app.
 
 In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

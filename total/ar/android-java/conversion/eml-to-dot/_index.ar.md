@@ -19,13 +19,13 @@ otherformats: TEXT GIF XPS PCL TIFF DOCM BMP OTT WORDML RTF EMF PS DOTX PNG FLAT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="تحويل EML إلى DOT في Andorid" %}}
 1. افتح ملف EML باستخدام فئة [MailMessage](https://reference.aspose.com/eml/java/com.aspose.eml/mailmessage)
-2. تحويل EML إلى HTML باستخدام [حفظ](https://reference.aspose.com/eml/java/com.aspose.eml/MailMessage#save (java.io.OutputStream،٪ 20com.aspose.eml.SaveOptions )) طريقة
+2. تحويل EML إلى HTML باستخدام [save](https://reference.aspose.com/eml/java/com.aspose.eml/MailMessage#save (java.io.OutputStream،٪ 20com.aspose.eml.SaveOptions )) طريقة
 3. قم بتحميل HTML باستخدام فئة [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
-4. احفظ المستند بتنسيق DOT باستخدام [حفظ](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String،com.aspose.words.SaveOptions)) وضبط DOT على أنه SaveFormat
+4. احفظ المستند بتنسيق DOT باستخدام [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String،com.aspose.words.SaveOptions)) وضبط DOT على أنه SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-يمكنك بسهولة استخدام Aspose.Total لنظام Android عبر Java مباشرةً من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) و تثبيت [Aspose.Eml لنظام Android عبر Java](https://docs.aspose.com/eml/androidjava/installation/) و [Aspose.Words for Andorid via Java](https://docs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) في تطبيقاتك.
+يمكنك بسهولة استخدام Aspose.Total for Android via Java مباشرةً من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) و تثبيت [Aspose.Eml لنظام Android عبر Java](https://docs.aspose.com/eml/androidjava/installation/) و [Aspose.Words for Andorid via Java](https://docs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) في تطبيقاتك.
 
 بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

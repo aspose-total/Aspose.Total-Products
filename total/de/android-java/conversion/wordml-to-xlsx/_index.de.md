@@ -13,7 +13,7 @@ otherformats: DIF EXCEL XLSB XLTM TSV ODS CSV XLSM XLTX FODS XLAM SXC XLS XLT
 {{< blocks/products/pf/feature-page-header h1="Konvertieren Sie WORDML in XLSX in Android-Anwendungen" h2="Exportieren Sie WORDML in Android über Java in XLSX, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Durch die Verwendung von [Aspose.Total für Android über Java](https://products.aspose.com/total/android-java/) können Sie die WORDML-zu-XLSX-Konvertierungsfunktion in Ihre Android-Anwendungen integrieren. Erstens können Sie WORDML in HTML konvertieren, indem Sie die funktionsreiche Dokumentbearbeitungs- und Konvertierungs-API [Aspose.Words für Android über Java](https://products.aspose.com/words/android-java/) verwenden. Danach können Sie mit [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) HTML in XLSX konvertieren. 
+Durch die Verwendung von [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) können Sie die WORDML-zu-XLSX-Konvertierungsfunktion in Ihre Android-Anwendungen integrieren. Erstens können Sie WORDML in HTML konvertieren, indem Sie die funktionsreiche Dokumentbearbeitungs- und Konvertierungs-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) verwenden. Danach können Sie mit [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) HTML in XLSX konvertieren. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Durch die Verwendung von [Aspose.Total für Android über Java](https://products
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
-Sie können Aspose.Total für Android ganz einfach über Java direkt von [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) und verwenden installiere [Aspose.Cells für Android über Java](https://wordmls.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via- java-from-maven-repository) und [Aspose.Words for Android via Java](https://wordmls.aspose.com/words/java/install-aspose-words-for-android-via-java/#install- asposewords-for-android-via-java-from-maven-repository) in Ihren Anwendungen.
+Sie können Aspose.Total für Android ganz einfach über Java direkt von [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) und verwenden installiere [Aspose.Cells for Android via Java](https://wordmls.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via- java-from-maven-repository) und [Aspose.Words for Android via Java](https://wordmls.aspose.com/words/java/install-aspose-words-for-android-via-java/#install- asposewords-for-android-via-java-from-maven-repository) in Ihren Anwendungen.
 
 Alternativ können Sie eine ZIP-Datei von [downloads](https://downloads.aspose.com/total/androidjava) herunterladen.
 {{% /blocks/products/pf/agp/feature-section-col %}}

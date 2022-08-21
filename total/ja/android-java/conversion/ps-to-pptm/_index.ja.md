@@ -13,7 +13,7 @@ otherformats: PPSX POTM POT XAML ODP POTX PPT PPS PPSM SWF OTP POWERPOINT
 {{< blocks/products/pf/feature-page-header h1="Javaを介してAndroid上でPSをPPTMに変換する" h2="Microsoft <sup>＆reg; </ sup>PowerPointまたはAdobe<sup>＆reg; </ sup> Acrobat Readerを使用せずに、Androidアプリケーション内でPSをPPTMに変換します" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-2つの簡単な手順を使用して、Androidアプリケーション内にPSからPPTMへの変換機能を統合できます。最初のステップでは、[Java経由のAndroid用Aspose.PDF](https://products.aspose.com/pdf/android-java/)を使用してPSをPPTXにエクスポートできます。その後、[Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/)を使用して、PPTXをPPTMに変換できます。どちらのAPIも、[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)パッケージに含まれています。 
+2つの簡単な手順を使用して、Androidアプリケーション内にPSからPPTMへの変換機能を統合できます。最初のステップでは、[Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)を使用してPSをPPTXにエクスポートできます。その後、[Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/)を使用して、PPTXをPPTMに変換できます。どちらのAPIも、[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)パッケージに含まれています。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ otherformats: PPSX POTM POT XAML ODP POTX PPT PPS PPSM SWF OTP POWERPOINT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)から直接Java経由でAspose.TotalforAndroidを簡単に使用できます。 [Java経由のAndroid用Aspose.PDF](https://docs.aspose.com/pdf/androidjava/installation/)と[Java経由のAndroid用Aspose.Slides](https://docs.aspose.com/slides)をインストールしますアプリケーションの/androidjava/install-aspose-slides-for-android-via-java/)。
+[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)から直接Java経由でAspose.TotalforAndroidを簡単に使用できます。 [Aspose.PDF for Android via Java](https://docs.aspose.com/pdf/androidjava/installation/)と[Aspose.Slides for Android via Java](https://docs.aspose.com/slides)をインストールしますアプリケーションの/androidjava/install-aspose-slides-for-android-via-java/)。
 
 または、[ダウンロード](https://downloads.aspose.com/total/androidjava)からZIPファイルを取得することもできます。
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -46,7 +46,7 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Javaを介してAndroidでパスワードで保護されたPSファイルを開く" %}}
-PSファイル形式の読み込み中、ドキュメントはパスワードで保護されている可能性があります。 [Java経由のAndroid用Aspose.PDF](https://products.aspose.com/pdf/android-java/)では、暗号化されたドキュメントを開くこともできます。暗号化されたファイルを開くために、[ドキュメント]の新しいインスタンスを初期化できます（https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-)クラスを作成し、ファイル名とパスワードを引数として渡します。
+PSファイル形式の読み込み中、ドキュメントはパスワードで保護されている可能性があります。 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)では、暗号化されたドキュメントを開くこともできます。暗号化されたファイルを開くために、[ドキュメント]の新しいインスタンスを初期化できます（https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-)クラスを作成し、ファイル名とパスワードを引数として渡します。
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java

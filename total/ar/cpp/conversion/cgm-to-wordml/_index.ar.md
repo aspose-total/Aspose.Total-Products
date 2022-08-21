@@ -19,9 +19,9 @@ otherformats: PCL ODT OTT MHTML XAMLFLOW MARKDOWN FLATOPC RTF PS DOTM DOT DOCM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="واجهة برمجة تطبيقات C++ لتقديم CGM إلى WORDML" %}}
 1. افتح ملف CGM باستخدام [مستند](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) مرجع فئة
-2. تحويل CGM إلى DOC باستخدام وظيفة العضو [حفظ](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#adb8061c585440fde49c1263e68837f01)
+2. تحويل CGM إلى DOC باستخدام وظيفة العضو [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#adb8061c585440fde49c1263e68837f01)
 3. تحميل ملف DOC باستخدام [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) مرجع فئة Aspose.Words API
-4. احفظ المستند بتنسيق WORDML باستخدام وظيفة العضو [حفظ](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stream_saveformat)
+4. احفظ المستند بتنسيق WORDML باستخدام وظيفة العضو [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stream_saveformat)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}

@@ -18,7 +18,7 @@ Sie können die DOCM-zu-XLSM-Konvertierungsfunktion einfach in Ihre C++-Anwendun
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++-API zum Konvertieren von DOCM in XLSM" %}}
-1. Öffnen Sie die DOCM-Datei mit der Klassenreferenz [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument).
+1. Öffnen Sie die DOCM-Datei mit der Klassenreferenz [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument).
 2. Konvertieren Sie DOCM in HTML, indem Sie die Member-Funktion [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string_saveformat) verwenden
 3. Laden Sie das HTML-Dokument mithilfe der Klassenreferenz [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
 4. Speichern Sie das Dokument mit der Member-Funktion [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) im XLSM-Format
@@ -38,7 +38,7 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Greifen Sie über C++ auf DOCM-Dokumenteigenschaften zu" %}}
-[Aspose.Words for C++](https://products.aspose.com/words/cpp/) ermöglicht Ihnen auch den Zugriff auf die Dokumenteigenschaften der DOCM-Datei und ermöglicht es Ihnen, vor dem Konvertierungsprozess eine fundierte Entscheidung zu treffen. Um auf Dokumenteigenschaften zuzugreifen, können Sie [BuiltInDocmumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_docmument_properties) verwenden, um integrierte Eigenschaften und [CustomDocmumentProperties](https://https://reference.aspose.com/words/cpp/class/aspose.words.properties.custom_docmument_properties), um benutzerdefinierte Eigenschaften zu erhalten. Das folgende Codebeispiel zeigt, wie alle integrierten und benutzerdefinierten Eigenschaften in einem Dokument aufgelistet werden.
+[Aspose.Words for C++](https://products.aspose.com/words/cpp/) ermöglicht Ihnen auch den Zugriff auf die Dokumenteigenschaften der DOCM-Datei und ermöglicht es Ihnen, vor dem Konvertierungsprozess eine fundierte Entscheidung zu treffen. Um auf Dokumenteigenschaften zuzugreifen, können Sie [BuiltInDocumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_docmument_properties) verwenden, um integrierte Eigenschaften und [CustomDocumentProperties](https://https://reference.aspose.com/words/cpp/class/aspose.words.properties.custom_docmument_properties), um benutzerdefinierte Eigenschaften zu erhalten. Das folgende Codebeispiel zeigt, wie alle integrierten und benutzerdefinierten Eigenschaften in einem Dokument aufgelistet werden.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-docmument-properties.cs" >}}

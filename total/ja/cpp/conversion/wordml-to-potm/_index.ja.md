@@ -19,11 +19,11 @@ otherformats: PPSX POT PPTM POWERPOINT PPT ODP PPS POTX PPTX PPSM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++でのWORDMLからPOTMへの変換" %}}
 1. [ドキュメント](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument)クラスリファレンスを使用してWORDMLファイルを開きます
-2. [保存](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument#save_stdbasicostream_saveoptions)メンバー関数を使用してWORDMLをHTMLに変換します
+2. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument#save_stdbasicostream_saveoptions)メンバー関数を使用してWORDMLをHTMLに変換します
 3.新しい[プレゼンテーション](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)オブジェクトを初期化します
 4.スライドにAutoShapeを追加し、それにAddTextFrameを追加します
 5. HTMLコンテンツをロードし、プレゼンテーションファイルに書き込みます
-6. [保存](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e)メソッドを使用してドキュメントをPOTM形式で保存し、PotmをSaveFormatとして設定します
+6. [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e)メソッドを使用してドキュメントをPOTM形式で保存し、PotmをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

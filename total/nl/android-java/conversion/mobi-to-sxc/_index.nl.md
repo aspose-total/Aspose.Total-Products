@@ -13,7 +13,7 @@ otherformats: FODS XLTX CSV DIF XLSX ODS TSV XLS XLSB XLTM EXCEL XLT XLSM XLAM
 {{< blocks/products/pf/feature-page-header h1="Converteer MOBI naar SXC in Android-applicaties" h2="Exporteer MOBI naar SXC in Android via Java zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Door [Aspose.Total voor Android via Java](https://products.aspose.com/total/android-java/) te gebruiken, kunt u de MOBI-naar-SXC-conversiefunctie in uw Android-applicaties integreren. Ten eerste kunt u MOBI naar HTML converteren door gebruik te maken van de veelzijdige, mobiumentmanipulatie- en conversie-API [Aspose.Words voor Android via Java](https://products.aspose.com/words/android-java/). Daarna kunt u met [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) HTML naar SXC converteren. 
+Door [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) te gebruiken, kunt u de MOBI-naar-SXC-conversiefunctie in uw Android-applicaties integreren. Ten eerste kunt u MOBI naar HTML converteren door gebruik te maken van de veelzijdige, mobiumentmanipulatie- en conversie-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Daarna kunt u met [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) HTML naar SXC converteren. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Door [Aspose.Total voor Android via Java](https://products.aspose.com/total/andr
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
-U kunt Aspose.Total voor Android eenvoudig via Java rechtstreeks vanuit [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) en installeer [Aspose.Cells voor Android via Java](https://mobis.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via- java-from-maven-repository) en [Aspose.Words voor Android via Java](https://mobis.aspose.com/words/java/install-aspose-words-for-android-via-java/#install- asposewords-for-android-via-java-from-maven-repository) in uw toepassingen.
+U kunt Aspose.Total for Android eenvoudig via Java rechtstreeks vanuit [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) en installeer [Aspose.Cells for Android via Java](https://mobis.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via- java-from-maven-repository) en [Aspose.Words for Android via Java](https://mobis.aspose.com/words/java/install-aspose-words-for-android-via-java/#install- asposewords-for-android-via-java-from-maven-repository) in uw toepassingen.
 
 U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -38,7 +38,7 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Verwijder ongebruikte informatie uit een MOBI-mobiument in Android via Java" %}}
-Voordat u MOBI naar SXC converteert, kunt u ongebruikte informatie uit het MOBI-mobiument verwijderen via [Aspose.Words voor Android via Java](https://products.aspose.com/words/android-java/). Soms moet u ongebruikte of dubbele informatie verwijderen om de grootte van het uitvoermobiument en de verwerkingstijd te verminderen. Met de klasse [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) kunt u opties opgeven voor het opschonen van mobiumenten. Om dubbele stijlen of alleen ongebruikte stijlen of lijsten uit het mobiument te verwijderen, kunt u de methode [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Mobiument#cleanup()) gebruiken. U kunt de [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) en [UnusedBuiltinStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedBuiltinStyles) eigenschappen om stijlen te detecteren en te verwijderen die zijn gemarkeerd als "ongebruikt".
+Voordat u MOBI naar SXC converteert, kunt u ongebruikte informatie uit het MOBI-mobiument verwijderen via [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Soms moet u ongebruikte of dubbele informatie verwijderen om de grootte van het uitvoermobiument en de verwerkingstijd te verminderen. Met de klasse [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) kunt u opties opgeven voor het opschonen van mobiumenten. Om dubbele stijlen of alleen ongebruikte stijlen of lijsten uit het mobiument te verwijderen, kunt u de methode [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Mobiument#cleanup()) gebruiken. U kunt de [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) en [UnusedBuiltinStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedBuiltinStyles) eigenschappen om stijlen te detecteren en te verwijderen die zijn gemarkeerd als "ongebruikt".
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-mobiument.java" >}}
@@ -46,7 +46,7 @@ Voordat u MOBI naar SXC converteert, kunt u ongebruikte informatie uit het MOBI-
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="SXC-bestand opslaan om te streamen in Android via Java" %}}
-Na het converteren van MOBI naar SXC, kunt u met [Aspose.Cells voor Android via Java](https://products.aspose.com/cells/android-java/) uw mobiument opslaan om te streamen. Als u bestanden naar een stream moet opslaan, moet u een FileOutputStream-object maken en vervolgens [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) het bestand naar dat Stream-object door de opslagmethode van [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) aan te roepen object.
+Na het converteren van MOBI naar SXC, kunt u met [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) uw mobiument opslaan om te streamen. Als u bestanden naar een stream moet opslaan, moet u een FileOutputStream-object maken en vervolgens [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) het bestand naar dat Stream-object door de opslagmethode van [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) aan te roepen object.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}

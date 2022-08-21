@@ -13,7 +13,7 @@ otherformats: WORDML MD OTT FLATOPC PNG DOTX GIF PCL EPUB PDF XPS DOT TEXT DOC D
 {{< blocks/products/pf/feature-page-header h1="C++ API για εξαγωγή EMAIL σε IMAGE" h2="Μετατρέψτε το EMAIL σε IMAGE εντός της εφαρμογής C++ χωρίς να απαιτείται Microsoft Word ή Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Είστε προγραμματιστής C++ που θέλετε να προσθέσετε δυνατότητες μετατροπής email στις εφαρμογές σας; Χρησιμοποιώντας το [Aspose.Email για C++](https://products.aspose.com/email/cpp/) μπορείτε να μετατρέψετε τη μορφή αρχείου EMAIL σε HTML. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Words for C++](https://products.aspose.com/words/cpp/) API, μπορείτε να εξάγετε HTML σε IMAGE. Και τα δύο API περιλαμβάνονται στο πακέτο [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
+Είστε προγραμματιστής C++ που θέλετε να προσθέσετε δυνατότητες μετατροπής email στις εφαρμογές σας; Χρησιμοποιώντας το [Aspose.Email for C++](https://products.aspose.com/email/cpp/) μπορείτε να μετατρέψετε τη μορφή αρχείου EMAIL σε HTML. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Words for C++](https://products.aspose.com/words/cpp/) API, μπορείτε να εξάγετε HTML σε IMAGE. Και τα δύο API περιλαμβάνονται στο πακέτο [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

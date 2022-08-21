@@ -19,9 +19,9 @@ otherformats: DOT WORDML TEXT RTF ODT DOTX FLATOPC DOC DOTM DOCM WORD DOCX
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="POWERPOINT를 OTT로 변환하는 C++ API" %}}
 1. [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) 클래스 참조를 사용하여 POWERPOINT 파일 로드
-2. [저장](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) 멤버 기능을 사용하여 POWERPOINT을 HTML로 렌더링하고 Html을 SaveFormat으로 설정합니다.
-3. [문서](https://reference.aspose.com/words/cpp/class/aspose.words.ottument) 클래스 참조를 이용하여 변환된 HTML 파일을 로드합니다.
-4. [저장](https://reference.aspose.com/words/cpp/class/aspose.words.ottument#save_string) 멤버 함수를 사용하여 문서를 OTT 형식으로 저장합니다.
+2. [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) 멤버 기능을 사용하여 POWERPOINT을 HTML로 렌더링하고 Html을 SaveFormat으로 설정합니다.
+3. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.ottument) 클래스 참조를 이용하여 변환된 HTML 파일을 로드합니다.
+4. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.ottument#save_string) 멤버 함수를 사용하여 문서를 OTT 형식으로 저장합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}

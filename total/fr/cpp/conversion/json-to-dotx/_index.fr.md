@@ -13,7 +13,7 @@ otherformats: DOC MOBI DOT ODT WORD WORDML FLATOPC PS CHM PCL OTT EPUB DOCM RTF
 {{< blocks/products/pf/feature-page-header h1="Convertir le format JSON en DOTX via C++" h2="Analyse JSON vers DOTX dans les applications C++ sans utiliser Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour C++](https://products.aspose.com/total/cpp/), vous pouvez analyser JSON en DOTX dans vos applications C++ en deux étapes simples. Tout d'abord, en utilisant [Aspose.Cells pour C++](https://products.aspose.com/cells/cpp/), vous pouvez exporter JSON au format PDF. Après cela, en utilisant [Aspose.Words pour C++](https://products.aspose.com/words/cppp/), vous pouvez convertir un PDF en DOTX. 
+En utilisant [Aspose.Total for C++](https://products.aspose.com/total/cpp/), vous pouvez analyser JSON en DOTX dans vos applications C++ en deux étapes simples. Tout d'abord, en utilisant [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), vous pouvez exporter JSON au format PDF. Après cela, en utilisant [Aspose.Words for C++](https://products.aspose.com/words/cppp/), vous pouvez convertir un PDF en DOTX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

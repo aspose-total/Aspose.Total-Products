@@ -13,7 +13,7 @@ otherformats: MHTML DOCM RTF FLATOPC DOTX PS ODT DOTM XAMLFLOW OTT WORDML DOT
 {{< blocks/products/pf/feature-page-header h1="Renderuj PCL do MARKDOWN na Androidzie przez Javę" h2="Konwertuj PCL na MARKDOWN w aplikacjach mobilnych bez instalowania żadnego oprogramowania" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Możesz zintegrować funkcję konwersji PCL na MARKDOWN w swoich aplikacjach mobilnych, korzystając z dwóch interfejsów API pakietu [Aspose.Total for Android Java](https://products.aspose.com/total/android-java/). Najpierw musisz przekonwertować plik PCL na DOC za pomocą [Aspose.PDF dla Androida przez Javę](https://products.aspose.com/pdf/android-java/). Po drugie, używając interfejsu API przetwarzania tekstu [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/), możesz renderować DOC do MARKDOWN. 
+Możesz zintegrować funkcję konwersji PCL na MARKDOWN w swoich aplikacjach mobilnych, korzystając z dwóch interfejsów API pakietu [Aspose.Total for Android Java](https://products.aspose.com/total/android-java/). Najpierw musisz przekonwertować plik PCL na DOC za pomocą [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/). Po drugie, używając interfejsu API przetwarzania tekstu [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/), możesz renderować DOC do MARKDOWN. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Możesz zintegrować funkcję konwersji PCL na MARKDOWN w swoich aplikacjach mob
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
-Możesz łatwo używać Aspose.Total dla Androida przez Javę bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i zainstaluj [Aspose.PDF na Androida przez Javę](https://docs.aspose.com/pdf/androidjava/installation/) i [Aspose.Words na Androida przez Javę](https://docs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) w swoich aplikacjach.
+Możesz łatwo używać Aspose.Total for Android via Java bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i zainstaluj [Aspose.PDF na Androida przez Javę](https://docs.aspose.com/pdf/androidjava/installation/) i [Aspose.Words na Androida przez Javę](https://docs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) w swoich aplikacjach.
 
 Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -66,7 +66,7 @@ System.out.println("Title: " + docInfo.getTitle());
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Wstaw przypisy końcowe w dokumencie MARKDOWN w Androidzie za pośrednictwem Javy" %}}
-Oprócz konwersji dokumentów możesz także dodać kilka innych funkcji do aplikacji na Androida, korzystając z interfejsu API [Aspose.Words dla Androida przez Javę](https://products.aspose.com/words/androidjava/). Jedną z tych funkcji jest wstawianie przypisów końcowych i numeracji w dokumencie MARKDOWN. Jeśli chcesz wstawić przypis dolny lub przypis końcowy w dokumencie MARKDOWN, użyj metody DocumentBuilder.InsertFootnote. Ta metoda wstawia przypis dolny lub przypis końcowy do dokumentu. Klasy EndnoteOptions i FootnoteOptions reprezentują opcje numerowania przypisów dolnych i końcowych.
+Oprócz konwersji dokumentów możesz także dodać kilka innych funkcji do aplikacji na Androida, korzystając z interfejsu API [Aspose.Words for Android via Java](https://products.aspose.com/words/androidjava/). Jedną z tych funkcji jest wstawianie przypisów końcowych i numeracji w dokumencie MARKDOWN. Jeśli chcesz wstawić przypis dolny lub przypis końcowy w dokumencie MARKDOWN, użyj metody DocumentBuilder.InsertFootnote. Ta metoda wstawia przypis dolny lub przypis końcowy do dokumentu. Klasy EndnoteOptions i FootnoteOptions reprezentują opcje numerowania przypisów dolnych i końcowych.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java

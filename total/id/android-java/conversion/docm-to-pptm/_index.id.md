@@ -13,20 +13,20 @@ otherformats: PPTX PPS POWERPOINT PPSM POTM POT PPT PPSX POTX ODP CSV DIF FODS O
 {{< blocks/products/pf/feature-page-header h1="Konversi DOCM ke PPTM di Aplikasi Android" h2="Konversi DOCM ke PPTM di Aplikasi Android Anda tanpa menginstal Microsoft Word<sup>&reg;</sup> atau PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Apakah Anda seorang pengembang Android yang ingin menambahkan fitur konversi dokumen ke aplikasi Anda? [Aspose.Total untuk Android melalui Java](https://products.aspose.com/total/android-java/) Pustaka Otomatisasi Format File dapat membantu Anda mengotomatiskan proses konversi dokumen di aplikasi Android Anda. Untuk mengonversi file DOCM ke PPTM, pertama-tama Anda dapat menggunakan API manipulasi dokumen [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) untuk mengonversi format file DOCM ke HTML. Setelah itu dengan menggunakan PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), Anda dapat membuat Presentasi baru, menulis konten HTML di dalamnya, dan menyimpannya sebagai PPTM. 
+Apakah Anda seorang pengembang Android yang ingin menambahkan fitur konversi dokumen ke aplikasi Anda? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Pustaka Otomatisasi Format File dapat membantu Anda mengotomatiskan proses konversi dokumen di aplikasi Android Anda. Untuk mengonversi file DOCM ke PPTM, pertama-tama Anda dapat menggunakan API manipulasi dokumen [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) untuk mengonversi format file DOCM ke HTML. Setelah itu dengan menggunakan PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), Anda dapat membuat Presentasi baru, menulis konten HTML di dalamnya, dan menyimpannya sebagai PPTM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cara Mengonversi DOCM ke PPTM di Android" %}}
-1. Buka file DOCM menggunakan kelas [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument)
-2. Konversi file DOCM ke HTML dengan menggunakan [save](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions )) metode
+1. Buka file DOCM menggunakan kelas [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Konversi file DOCM ke HTML dengan menggunakan [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions )) metode
 3. Inisialisasi objek [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) baru
 5. Ekstrak konten dari file HTML menggunakan BufferedReader dan tulis konten di file presentasi Anda
 6. Simpan dokumen ke PPTM menggunakan metode [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
-Untuk konversi file DOCM ke PPTM, Anda dapat dengan mudah menggunakan Aspose.Total untuk Android melalui Java langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) dan instal pustaka di aplikasi Anda.
+Untuk konversi file DOCM ke PPTM, Anda dapat dengan mudah menggunakan Aspose.Total for Android via Java langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) dan instal pustaka di aplikasi Anda.
 
 Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

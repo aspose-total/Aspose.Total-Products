@@ -19,11 +19,11 @@ otherformats: PPT ODP PPS POWERPOINT PPSM POT PPTX PPSX POTX POTM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++でのTXTからPPTMへの変換" %}}
 1. [ドキュメント](https://reference.aspose.com/words/cpp/class/aspose.words.txtument)クラスリファレンスを使用してTXTファイルを開きます
-2. [保存](https://reference.aspose.com/words/cpp/class/aspose.words.txtument#save_stdbasicostream_saveoptions)メンバー関数を使用してTXTをHTMLに変換します
+2. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.txtument#save_stdbasicostream_saveoptions)メンバー関数を使用してTXTをHTMLに変換します
 3.新しい[プレゼンテーション](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)オブジェクトを初期化します
 4.スライドにAutoShapeを追加し、それにAddTextFrameを追加します
 5. HTMLコンテンツをロードし、プレゼンテーションファイルに書き込みます
-6. [保存](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e)メソッドを使用してドキュメントをPPTM形式で保存し、PptmをSaveFormatとして設定します
+6. [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e)メソッドを使用してドキュメントをPPTM形式で保存し、PptmをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

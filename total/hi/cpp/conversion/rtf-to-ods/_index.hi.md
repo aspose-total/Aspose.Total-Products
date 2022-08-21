@@ -18,10 +18,10 @@ otherformats: XLT XLAM XLSX FODS XLSM DIF EXCEL TSV XLS XLTX CSV XLSB SXC XLTM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="सी ++ एपीआई डीओसी को सीएसवी में कनवर्ट करने के लिए" %}}
-1. [दस्तावेज़](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument) वर्ग संदर्भ का उपयोग करके RTF फ़ाइल खोलें
+1. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument) वर्ग संदर्भ का उपयोग करके RTF फ़ाइल खोलें
 2. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument#save_string_saveformat) सदस्य फ़ंक्शन का उपयोग करके RTF को HTML में बदलें
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) वर्ग संदर्भ का उपयोग करके HTML दस्तावेज़ लोड करें
-4. [सहेजें](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) सदस्य फ़ंक्शन का उपयोग करके दस्तावेज़ को ODS प्रारूप में सहेजें
+4. [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) सदस्य फ़ंक्शन का उपयोग करके दस्तावेज़ को ODS प्रारूप में सहेजें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
@@ -46,7 +46,7 @@ otherformats: XLT XLAM XLSX FODS XLSM DIF EXCEL TSV XLS XLTX CSV XLSB SXC XLTM
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="सीएसवी फ़ाइल को सी++ के माध्यम से स्ट्रीम करने के लिए सहेजें" %}}
-RTF को ODS में बदलने के बाद, [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) आपको अपने दस्तावेज़ को स्ट्रीम में सहेजने में सक्षम बनाता है। फ़ाइलों को स्ट्रीम में सहेजने के लिए, एक मेमोरीस्ट्रीम या फ़ाइलस्ट्रीम ऑब्जेक्ट बनाएं और [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) पर कॉल करके फ़ाइल को उस स्ट्रीम ऑब्जेक्ट में सहेजें। ऑब्जेक्ट की [सहेजें](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) विधि। [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) एन्यूमरेशन का उपयोग करके [सेव](https://reference.aspose.com) एन्यूमरेशन का उपयोग करके वांछित फ़ाइल स्वरूप निर्दिष्ट करें) विधि।
+RTF को ODS में बदलने के बाद, [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) आपको अपने दस्तावेज़ को स्ट्रीम में सहेजने में सक्षम बनाता है। फ़ाइलों को स्ट्रीम में सहेजने के लिए, एक मेमोरीस्ट्रीम या फ़ाइलस्ट्रीम ऑब्जेक्ट बनाएं और [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) पर कॉल करके फ़ाइल को उस स्ट्रीम ऑब्जेक्ट में सहेजें। ऑब्जेक्ट की [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) विधि। [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) एन्यूमरेशन का उपयोग करके [सेव](https://reference.aspose.com) एन्यूमरेशन का उपयोग करके वांछित फ़ाइल स्वरूप निर्दिष्ट करें) विधि।
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "save-excel-to-stream.cpp" >}}

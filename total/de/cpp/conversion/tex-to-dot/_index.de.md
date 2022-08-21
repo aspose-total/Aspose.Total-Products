@@ -13,7 +13,7 @@ otherformats: MHTML OTT PS PCL XAMLFLOW MARKDOWN DOTX RTF WORDML DOCM ODT DOTM
 {{< blocks/products/pf/feature-page-header h1="C++-API zum Exportieren von TEX nach DOT" h2="Rendern Sie TEX in DOT innerhalb von C++-Anwendungen, ohne dass eine Anwendung eines Drittanbieters erforderlich ist" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/)-Dateiformat-Automatisierungsbibliotheken ermöglichen es C++-Entwicklern, TEX in zwei einfachen Schritten in DOT zu konvertieren. Erstens können Sie die API [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) verwenden, um das TEX-Dateiformat in DOC zu konvertieren. Zweitens können Sie durch Verwendung der erweiterten Word-Dokumentverarbeitungs-API [Aspose.Words für C++](https://products.aspose.com/words/cpp/) DOC nach DOT exportieren. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/)-Dateiformat-Automatisierungsbibliotheken ermöglichen es C++-Entwicklern, TEX in zwei einfachen Schritten in DOT zu konvertieren. Erstens können Sie die API [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) verwenden, um das TEX-Dateiformat in DOC zu konvertieren. Zweitens können Sie durch Verwendung der erweiterten Word-Dokumentverarbeitungs-API [Aspose.Words for C++](https://products.aspose.com/words/cpp/) DOC nach DOT exportieren. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

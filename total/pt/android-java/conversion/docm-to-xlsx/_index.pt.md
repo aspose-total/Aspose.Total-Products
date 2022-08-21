@@ -13,19 +13,19 @@ otherformats: XLTM XLS XLSM ODS DIF SXC XLAM EXCEL XLSB FODS XLT TSV XLTX CSV
 {{< blocks/products/pf/feature-page-header h1="Converter DOCM para XLSX em aplicativos Android" h2="Exporte DOCM para XLSX no Android via Java sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Ao usar o [Aspose.Total para Android via Java](https://products.aspose.com/total/android-java/), você pode integrar o recurso de conversão de DOCM para XLSX dentro de seus aplicativos Android. Em primeiro lugar, você pode converter DOCM para HTML usando a API de conversão e manipulação de docmumentos rica em recursos [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Depois disso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), você pode converter HTML para XLSX. 
+Ao usar o [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), você pode integrar o recurso de conversão de DOCM para XLSX dentro de seus aplicativos Android. Em primeiro lugar, você pode converter DOCM para HTML usando a API de conversão e manipulação de docmumentos rica em recursos [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Depois disso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), você pode converter HTML para XLSX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API Android para converter DOCM para XLSX" %}}
-1. Abra o arquivo DOCM usando a classe [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument)
-2. Converta DOCM para HTML usando [Salvar](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions) ) método
+1. Abra o arquivo DOCM usando a classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Converta DOCM para HTML usando [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) método
 3. Carregue o docmumento HTML usando a classe [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Salve o docmumento no formato XLSX usando [Salvar](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) método
+4. Salve o docmumento no formato XLSX usando [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
-Você pode facilmente usar o Aspose.Total para Android via Java diretamente do [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e instale [Aspose.Cells for Android via Java](https://docms.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via-java-from-maven-repository) e [Aspose.Words for Android via Java](https://docms.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) em seus aplicativos.
+Você pode facilmente usar o Aspose.Total for Android via Java diretamente do [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e instale [Aspose.Cells for Android via Java](https://docms.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via-java-from-maven-repository) e [Aspose.Words for Android via Java](https://docms.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) em seus aplicativos.
 
 Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -38,7 +38,7 @@ Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloa
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Remover informações não utilizadas de um docmumento DOCM no Android via Java" %}}
-Antes de converter DOCM para XLSX, você pode remover informações não utilizadas do Docmumento DOCM por meio do [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Às vezes, pode ser necessário remover informações não utilizadas ou duplicadas para reduzir o tamanho do docmumento de saída e o tempo de processamento. A classe [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) permite especificar opções para limpeza de docmumentos. Para remover estilos duplicados ou apenas estilos ou listas não utilizados do docmumento, você pode usar o método [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Docmument#cleanup()). Você pode usar os [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) e [UnusedBuiltinStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedBuiltinStyles) para detectar e remover estilos marcados como “não usados”.
+Antes de converter DOCM para XLSX, você pode remover informações não utilizadas do Documento DOCM por meio do [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Às vezes, pode ser necessário remover informações não utilizadas ou duplicadas para reduzir o tamanho do docmumento de saída e o tempo de processamento. A classe [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) permite especificar opções para limpeza de docmumentos. Para remover estilos duplicados ou apenas estilos ou listas não utilizados do docmumento, você pode usar o método [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Document#cleanup()). Você pode usar os [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) e [UnusedBuiltinStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedBuiltinStyles) para detectar e remover estilos marcados como “não usados”.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-docmument.java" >}}

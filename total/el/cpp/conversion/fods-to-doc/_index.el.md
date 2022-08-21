@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCX POWERPOINT WORD PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή FODS σε DOC μέσω C++" h2="Εξαγωγή Excel&reg; FODS σε DOC σε πλήρως λειτουργικές εφαρμογές C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή FODS σε DOC μέσω C++" h2="Εξαγωγή Excel<sup>&reg;</sup> FODS σε DOC σε πλήρως λειτουργικές εφαρμογές C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Μετατροπή FODS σε DOC σε C++" %}}

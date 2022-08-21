@@ -20,7 +20,7 @@ otherformats: DOT WORDML TEXT RTF ODT DOTX FLATOPC DOC DOTM DOCM WORD DOCX
 {{% blocks/products/pf/agp/feature-section-col title="POWERPOINT'u OTT'a Dönüştürmek için C++ API" %}}
 1. [Sunum](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) sınıf referansını kullanarak POWERPOINT dosyasını yükleyin
 2. [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) üye işlevini kullanarak POWERPOINT'u HTML'ye dönüştürün ve Html'yi SaveFormat olarak ayarlayın
-3. Dönüştürülen HTML dosyasını [Belge](https://reference.aspose.com/words/cpp/class/aspose.words.ottument) sınıf referansını kullanarak yükleyin
+3. Dönüştürülen HTML dosyasını [Document](https://reference.aspose.com/words/cpp/class/aspose.words.ottument) sınıf referansını kullanarak yükleyin
 4. [Kaydet](https://reference.aspose.com/words/cpp/class/aspose.words.ottument#save_string) üye işlevini kullanarak belgeyi OTT biçiminde kaydedin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

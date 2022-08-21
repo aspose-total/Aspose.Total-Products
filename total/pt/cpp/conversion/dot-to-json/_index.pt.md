@@ -19,9 +19,9 @@ Ao usar [Aspose.Total for C++](https://products.aspose.com/total/cpp/), você po
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converter DOT para formato JSON via C++" %}}
 1. Abra o arquivo DOT usando a referência de classe [Dotument](https://reference.aspose.com/words/cpp/class/aspose.words.dotument)
-2. Converta DOT para HTML usando a função de membro [Salvar](https://reference.aspose.com/words/cpp/class/aspose.words.dotument#save_string_saveformat)
+2. Converta DOT para HTML usando a função de membro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotument#save_string_saveformat)
 3. Carregue o dotumento HTML usando a referência de classe [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
-4. Salve o dotumento no formato JSON usando a função de membro [Salvar](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
+4. Salve o dotumento no formato JSON usando a função de membro [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}

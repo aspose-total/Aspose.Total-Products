@@ -13,7 +13,7 @@ otherformats: RTF OTT DOT DOTX JPEG DOC DOCM MD FLATOPC PDF ODT PCL DOCX GIF EMF
 {{< blocks/products/pf/feature-page-header h1="Transformujte EMLX na WORD v Andorid Apps" h2="Návrh aplikací Andorid pro export EMLX do WORD pomocí Andorid přes Java API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Aplikace Andorid jsou snadno použitelné pro koncové uživatele na každodenní bázi. Počet uživatelů telefonů Andorid se každým dnem zvyšuje. Pomocí výkonných knihoven [Aspose.Total pro Android přes Java](https://products.aspose.com/total/android-java/) File Format Automation můžete vyvíjet aplikace pro manipulaci a konverzi e-mailů. E-mailovou adresu EMLX můžete převést na WORD kombinací [Aspose.Emlx pro Android Java](https://products.aspose.com/emlx/android-java/) a [Aspose.Words pro Andorid Java](https://products.aspose.com/words/android-java/). Pomocí prvního API můžete převést formát souboru EMLX do HTML a pomocí druhého API můžete vykreslit HTML jako WORD. 
+Aplikace Andorid jsou snadno použitelné pro koncové uživatele na každodenní bázi. Počet uživatelů telefonů Andorid se každým dnem zvyšuje. Pomocí výkonných knihoven [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) File Format Automation můžete vyvíjet aplikace pro manipulaci a konverzi e-mailů. E-mailovou adresu EMLX můžete převést na WORD kombinací [Aspose.Emlx pro Android Java](https://products.aspose.com/emlx/android-java/) a [Aspose.Words pro Andorid Java](https://products.aspose.com/words/android-java/). Pomocí prvního API můžete převést formát souboru EMLX do HTML a pomocí druhého API můžete vykreslit HTML jako WORD. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

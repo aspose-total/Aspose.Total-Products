@@ -13,7 +13,7 @@ otherformats: FODS XLAM TSV CSV XLSX XLS MHTML XLT XLTM EXCEL SXC XLTX DIF MARKD
 {{< blocks/products/pf/feature-page-header h1="Převeďte POWERPOINT na ODS v Androidu přes Java" h2="Exportujte soubor POWERPOINT do ODS v aplikacích pro Android bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Soubor POWERPOINT můžete snadno převést na ODS ve svých aplikacích pro Android ve dvou krocích prostřednictvím [Aspose.Total pro Android přes Java](https://products.aspose.com/total/android-java/). V prvním kroku můžete exportovat soubor POWERPOINT do HTML pomocí [Aspose.Slides pro Android přes Java](https://products.aspose.com/slides/android-java/). Za druhé, pomocí [Aspose.Cells pro Android přes Java](https://products.aspose.com/cells/android-java/) můžete převést HTML na ODS. 
+Soubor POWERPOINT můžete snadno převést na ODS ve svých aplikacích pro Android ve dvou krocích prostřednictvím [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). V prvním kroku můžete exportovat soubor POWERPOINT do HTML pomocí [Aspose.Slides pro Android přes Java](https://products.aspose.com/slides/android-java/). Za druhé, pomocí [Aspose.Cells pro Android přes Java](https://products.aspose.com/cells/android-java/) můžete převést HTML na ODS. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

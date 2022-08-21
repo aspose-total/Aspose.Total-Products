@@ -18,10 +18,10 @@ otherformats: XLT XLTM FODS SXC XLAM XLS EXCEL ODS XLSM DIF XLSB XLTX TSV CSV
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++를 통해 DOCM를 JSON 형식으로 변환" %}}
-1. [문서](https://reference.aspose.com/words/cpp/class/aspose.words.docmument) 클래스 참조를 사용하여 DOCM 파일을 엽니다.
-2. [저장](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string_saveformat) 멤버 함수를 사용하여 DOCM를 HTML로 변환
+1. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument) 클래스 참조를 사용하여 DOCM 파일을 엽니다.
+2. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string_saveformat) 멤버 함수를 사용하여 DOCM를 HTML로 변환
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 클래스 참조를 사용하여 HTML 문서 로드
-4. [저장](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) 멤버 함수를 사용하여 문서를 JSON 형식으로 저장합니다.
+4. [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) 멤버 함수를 사용하여 문서를 JSON 형식으로 저장합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}

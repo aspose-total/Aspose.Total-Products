@@ -13,13 +13,13 @@ otherformats: PPTM POTM PPSX POTX PPT PPTX POWERPOINT POT ODP PPS CSV DIF FODS O
 {{< blocks/products/pf/feature-page-header h1="Android 앱에서 ODT를 PPSM로 변환" h2="Microsoft Word<sup>&reg;</sup> 또는 PowerPoint를 설치하지 않고 Android 애플리케이션에서 ODT에서 PPSM로 변환" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-애플리케이션에 문서 변환 기능을 추가하려는 Android 개발자입니까? [Java를 통한 Android용 Aspose.Total](https://products.aspose.com/total/android-java/) 파일 형식 자동화 라이브러리를 사용하면 Android 애플리케이션에서 문서 변환 프로세스를 자동화할 수 있습니다. ODT 파일을 PPSM로 변환하기 위해서는 먼저 문서 조작 API [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/)를 사용하여 ODT 파일 형식을 HTML로 변환할 수 있습니다. 그 후 PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/)를 사용하여 새 프레젠테이션을 만들고 HTML 콘텐츠를 작성하고 다른 이름으로 저장할 수 있습니다. PPSM. 
+애플리케이션에 문서 변환 기능을 추가하려는 Android 개발자입니까? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) 파일 형식 자동화 라이브러리를 사용하면 Android 애플리케이션에서 문서 변환 프로세스를 자동화할 수 있습니다. ODT 파일을 PPSM로 변환하기 위해서는 먼저 문서 조작 API [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/)를 사용하여 ODT 파일 형식을 HTML로 변환할 수 있습니다. 그 후 PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/)를 사용하여 새 프레젠테이션을 만들고 HTML 콘텐츠를 작성하고 다른 이름으로 저장할 수 있습니다. PPSM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Android에서 ODT를 PPSM로 변환하는 방법" %}}
 1. [Odtument](https://reference.aspose.com/words/java/com.aspose.words/Odtument) 클래스를 사용하여 ODT 파일을 엽니다.
-2. [저장](https://reference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String,com.aspose.words.SaveOptions)을 사용하여 ODT 파일을 HTML로 변환합니다. )) 방법
+2. [save](https://reference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String,com.aspose.words.SaveOptions)을 사용하여 ODT 파일을 HTML로 변환합니다. )) 방법
 3. 새로운 [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 객체 초기화
 5. BufferedReader를 사용하여 HTML 파일에서 콘텐츠를 추출하고 프레젠테이션 파일에 콘텐츠를 작성합니다.
 6. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) 메서드를 사용하여 문서를 PPSM에 저장합니다.

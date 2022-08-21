@@ -13,7 +13,7 @@ otherformats: ODT DOTM MARKDOWN DOCM PCL WORDML DOT PS OTT XAMLFLOW RTF FLATOPC
 {{< blocks/products/pf/feature-page-header h1="C++ API για εξαγωγή MHTML σε DOTX" h2="Αποδώστε το MHTML σε DOTX εντός εφαρμογών C++ χωρίς να απαιτείται εφαρμογή τρίτων" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) Οι βιβλιοθήκες αυτοματοποίησης μορφών αρχείου επιτρέπουν στον προγραμματιστή της C++ να μετατρέψει το MHTML σε DOTX με δύο απλά βήματα. Πρώτον, μπορείτε να χρησιμοποιήσετε το [Aspose.PDF για C++](https://products.aspose.com/pdf/cpp/) API για να μετατρέψετε τη μορφή αρχείου MHTML σε DOC. Δεύτερον, χρησιμοποιώντας προηγμένο API επεξεργασίας εγγράφων Word [Aspose.Words για C++](https://products.aspose.com/words/cpp/), μπορείτε να εξαγάγετε το DOC στο DOTX. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) Οι βιβλιοθήκες αυτοματοποίησης μορφών αρχείου επιτρέπουν στον προγραμματιστή της C++ να μετατρέψει το MHTML σε DOTX με δύο απλά βήματα. Πρώτον, μπορείτε να χρησιμοποιήσετε το [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) API για να μετατρέψετε τη μορφή αρχείου MHTML σε DOC. Δεύτερον, χρησιμοποιώντας προηγμένο API επεξεργασίας εγγράφων Word [Aspose.Words for C++](https://products.aspose.com/words/cpp/), μπορείτε να εξαγάγετε το DOC στο DOTX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -46,7 +46,7 @@ wordDoc->Save(u"output.Dotx");
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Αλλάξτε τον κωδικό πρόσβασης του εγγράφου MHTML μέσω C++" %}}
-Κατά τη διαδικασία απόδοσης του MHTML σε DOTX, μπορείτε να ανοίξετε ένα MHTML που προστατεύεται με κωδικό πρόσβασης και επίσης να αλλάξετε τον κωδικό πρόσβασής του. Για να αλλάξετε τον κωδικό πρόσβασης ενός αρχείου MHTML, πρέπει να γνωρίζετε τον κωδικό πρόσβασης κατόχου αυτού του εγγράφου. Μπορείτε να φορτώσετε ένα έγγραφο PDF που προστατεύεται με κωδικό πρόσβασης με το [Aspose.PDF για C++](https://products.aspose.com/pdf/cpp/) καθορίζοντας τον κωδικό πρόσβασης κατόχου του και να χρησιμοποιήσετε τη μέθοδο ChangePasswords για να αλλάξετε τον κωδικό πρόσβασης.
+Κατά τη διαδικασία απόδοσης του MHTML σε DOTX, μπορείτε να ανοίξετε ένα MHTML που προστατεύεται με κωδικό πρόσβασης και επίσης να αλλάξετε τον κωδικό πρόσβασής του. Για να αλλάξετε τον κωδικό πρόσβασης ενός αρχείου MHTML, πρέπει να γνωρίζετε τον κωδικό πρόσβασης κατόχου αυτού του εγγράφου. Μπορείτε να φορτώσετε ένα έγγραφο PDF που προστατεύεται με κωδικό πρόσβασης με το [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) καθορίζοντας τον κωδικό πρόσβασης κατόχου του και να χρησιμοποιήσετε τη μέθοδο ChangePasswords για να αλλάξετε τον κωδικό πρόσβασης.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp

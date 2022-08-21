@@ -13,7 +13,7 @@ otherformats: EXCEL FODS XLAM MARKDOWN XLSB XLS SXC XLSX DIF XLT TSV XLTM XLSM M
 {{< blocks/products/pf/feature-page-header h1="Konwertuj POT na XLTX w Androidzie przez Java" h2="Eksportuj plik POT do XLTX w aplikacjach na Androida bez użycia programu Microsoft<sup>&reg;</sup> Excel lub PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Możesz łatwo przekonwertować plik POT na XLTX w swoich aplikacjach na Androida w dwuetapowym procesie za pomocą [Aspose.Total dla Androida przez Javę](https://products.aspose.com/total/android-java/). W pierwszym kroku możesz wyeksportować plik POT do HTML, używając [Aspose.Slides na Androida przez Javę](https://products.aspose.com/slides/android-java/). Po drugie, używając [Aspose.Cells na Androida przez Javę](https://products.aspose.com/cells/android-java/), możesz przekonwertować HTML na XLTX. 
+Możesz łatwo przekonwertować plik POT na XLTX w swoich aplikacjach na Androida w dwuetapowym procesie za pomocą [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). W pierwszym kroku możesz wyeksportować plik POT do HTML, używając [Aspose.Slides na Androida przez Javę](https://products.aspose.com/slides/android-java/). Po drugie, używając [Aspose.Cells na Androida przez Javę](https://products.aspose.com/cells/android-java/), możesz przekonwertować HTML na XLTX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Możesz łatwo przekonwertować plik POT na XLTX w swoich aplikacjach na Android
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
-Aby przekonwertować POT do XLTX, możesz łatwo użyć Aspose.Total dla Androida przez Javę bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i zainstaluj biblioteki w swojej aplikacji.
+Aby przekonwertować POT do XLTX, możesz łatwo użyć Aspose.Total for Android via Java bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i zainstaluj biblioteki w swojej aplikacji.
 
 Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -16,8 +16,8 @@ otherformats: WORD POWERPOINT DOC PPTX
 {{% blocks/products/pf/agp/feature-section-col title="C++에서 XLSX에서 DOCX로 변환" %}}
 1. [Factory](https://reference.aspose.com/cells)의 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 멤버 함수를 사용하여 XLSX 파일 열기 /cpp/class/aspose.cells.factory) 클래스 참조
 2. XLSX를 PDF로 변환하고 SaveFormat을 PDF로 설정
-3. [문서](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument) 클래스 참조를 사용하여 변환된 PDF 파일을 로드합니다.
-4. [저장](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument#a6383c010776212483f51cc41235924db) 멤버 함수를 사용하여 문서를 DOCX 형식으로 저장하고 Docx을 SaveFormat으로 설정합니다.
+3. [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument) 클래스 참조를 사용하여 변환된 PDF 파일을 로드합니다.
+4. [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument#a6383c010776212483f51cc41235924db) 멤버 함수를 사용하여 문서를 DOCX 형식으로 저장하고 Docx을 SaveFormat으로 설정합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}

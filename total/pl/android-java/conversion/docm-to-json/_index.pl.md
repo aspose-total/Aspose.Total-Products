@@ -18,14 +18,14 @@ Możesz przekonwertować DOCM na format JSON w swoich aplikacjach na Androida pr
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konwertuj DOCM na format JSON w Androidzie" %}}
-1. Otwórz plik DOCM za pomocą klasy [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument)
-2. Przekonwertuj DOCM na HTML za pomocą [Save](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions) ) metoda
+1. Otwórz plik DOCM za pomocą klasy [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Przekonwertuj DOCM na HTML za pomocą [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) metoda
 3. Załaduj dokument HTML za pomocą klasy [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Zapisz dokument w formacie JSON za pomocą [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) metoda
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
-Możesz łatwo używać Aspose.Total dla Androida przez Javę bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i zainstaluj biblioteki w swojej aplikacji.
+Możesz łatwo używać Aspose.Total for Android via Java bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i zainstaluj biblioteki w swojej aplikacji.
 
 Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

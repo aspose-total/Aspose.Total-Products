@@ -19,9 +19,9 @@ otherformats: MARKDOWN FODS XLTX XLSB XLT XLSM XLS XLTM XLAM XLSX TSV SXC CSV MH
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل PPTX إلى EXCEL عبر C++" %}}
 1. افتح ملف PPTX باستخدام مرجع فئة [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
-2. تحويل PPTX إلى HTML باستخدام طريقة [حفظ](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba)
+2. تحويل PPTX إلى HTML باستخدام طريقة [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba)
 3. قم بتحميل مستند HTML باستخدام مرجع فئة [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
-4. احفظ المستند بتنسيق EXCEL باستخدام طريقة [حفظ](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
+4. احفظ المستند بتنسيق EXCEL باستخدام طريقة [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}

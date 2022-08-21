@@ -13,14 +13,14 @@ otherformats: GIF RTF PCL DOTX WORDML DOTM DOT EPUB EMF SVG BMP TEXT ODT PDF MD 
 {{< blocks/products/pf/feature-page-header h1="API de C++ para exportar EMAIL a DOCM" h2="Transforme EMAIL a DOCM dentro de la aplicación C++ sin necesidad de Microsoft Word o Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-¿Es usted un desarrollador de C++ que busca agregar funciones de conversión de correo electrónico dentro de sus aplicaciones? Usando [Aspose.Email para C++](https://products.aspose.com/email/cpp/) puede convertir el formato de archivo de EMAIL a HTML. Después de eso, al usar la API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), puede exportar HTML a DOCM. Ambas API se incluyen en el paquete [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
+¿Es usted un desarrollador de C++ que busca agregar funciones de conversión de correo electrónico dentro de sus aplicaciones? Usando [Aspose.Email for C++](https://products.aspose.com/email/cpp/) puede convertir el formato de archivo de EMAIL a HTML. Después de eso, al usar la API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), puede exportar HTML a DOCM. Ambas API se incluyen en el paquete [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API de C++ para convertir EMAIL a DOCM" %}}
 1. Abra el archivo EMAIL usando la referencia de clase [MailMessage](https://reference.aspose.com/email/cpp/class/aspose.email.mail_message)
 2. Convierta EMAIL a HTML usando la función miembro [Guardar](https://reference.aspose.com/email/cpp/class/aspose.email.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
-3. Cargue HTML usando la clase [Documento](https://reference.aspose.com/words/cpp/class/aspose.words.document)
+3. Cargue HTML usando la clase [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
 4. Guarde el documento en formato DOCM usando el método [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) y configure Docm como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -19,9 +19,9 @@ otherformats: WORD DOTX DOC ODT DOCM FLATOPC OTT WORDML TEXT DOTM RTF DOT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API لتحويل PPTX إلى DOCX" %}}
 1. قم بتحميل ملف PPTX باستخدام مرجع فئة [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
-2. عرض PPTX إلى HTML باستخدام funciton لعضو [حفظ](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) وتعيين Html كـ SaveFormat
+2. عرض PPTX إلى HTML باستخدام funciton لعضو [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) وتعيين Html كـ SaveFormat
 3. قم بتحميل ملف HTML المحول باستخدام مرجع الفئة [المستند](https://reference.aspose.com/words/cpp/class/aspose.words.docxument)
-4. احفظ المستند بتنسيق DOCX باستخدام [حفظ](https://reference.aspose.com/words/cpp/class/aspose.words.docxument#save_string) fucntion
+4. احفظ المستند بتنسيق DOCX باستخدام [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docxument#save_string) fucntion
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}

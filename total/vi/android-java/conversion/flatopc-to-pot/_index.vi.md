@@ -10,10 +10,10 @@ outformat: POT
 otherformats: PPTX ODP PPSM POTX POWERPOINT PPS PPTM POTM PPSX PPT CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi FLATOPC sang POT trong Ứng dụng Android" h2="Chuyển đổi FLATOPC sang POT trong Ứng dụng Android của bạn mà không cần cài đặt Microsoft Word <sup> <sup>&reg;</sup>; </sup> hoặc PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi FLATOPC sang POT trong Ứng dụng Android" h2="Chuyển đổi FLATOPC sang POT trong Ứng dụng Android của bạn mà không cần cài đặt Microsoft Word <sup>&reg;</sup> hoặc PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Bạn là nhà phát triển Android đang muốn thêm tính năng chuyển đổi tài liệu vào ứng dụng của mình? [Aspose.Total cho Android qua Java](https://products.aspose.com/total/android-java/) Thư viện tự động hóa định dạng tệp có thể giúp bạn tự động hóa quá trình chuyển đổi tài liệu trong các ứng dụng Android của mình. Để chuyển đổi tệp FLATOPC sang POT, trước tiên bạn có thể sử dụng API thao tác tài liệu [Aspose.Words cho Android Java](https://products.aspose.com/words/android-java/) để chuyển đổi định dạng tệp FLATOPC sang HTML. Sau đó, bằng cách sử dụng PowerPoint API [Aspose.Slides cho Android Java](https://products.aspose.com/slides/android-java/), bạn có thể tạo một Bản trình bày mới, viết nội dung HTML trong đó và lưu nó dưới dạng POT. 
+Bạn là nhà phát triển Android đang muốn thêm tính năng chuyển đổi tài liệu vào ứng dụng của mình? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Thư viện tự động hóa định dạng tệp có thể giúp bạn tự động hóa quá trình chuyển đổi tài liệu trong các ứng dụng Android của mình. Để chuyển đổi tệp FLATOPC sang POT, trước tiên bạn có thể sử dụng API thao tác tài liệu [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) để chuyển đổi định dạng tệp FLATOPC sang HTML. Sau đó, bằng cách sử dụng PowerPoint API [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/), bạn có thể tạo một Bản trình bày mới, viết nội dung HTML trong đó và lưu nó dưới dạng POT. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -26,9 +26,9 @@ Bạn là nhà phát triển Android đang muốn thêm tính năng chuyển đ�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
-Để chuyển đổi tệp FLATOPC sang POT, bạn có thể dễ dàng sử dụng Aspose.Total cho Android qua Java trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và cài đặt các thư viện trong ứng dụng của bạn.
+Để chuyển đổi tệp FLATOPC sang POT, bạn có thể dễ dàng sử dụng Aspose.Total for Android via Java trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và cài đặt các thư viện trong ứng dụng của bạn.
 
-Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://downloads.aspose.com/total/androidjava).
+Ngoài ra, bạn có thể tải tệp ZIP từ [download](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

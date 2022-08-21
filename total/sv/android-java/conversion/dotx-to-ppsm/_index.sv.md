@@ -13,7 +13,7 @@ otherformats: POWERPOINT POT ODP PPTX PPS PPTM PPT POTX POTM PPSX
 {{< blocks/products/pf/feature-page-header h1="Konvertera DOTX till PPSM i Android-appar" h2="DOTX till PPSM-konvertering i dina Android-applikationer utan att installera Microsoft Word<sup>&reg;</sup> eller PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Är du en Android-utvecklare som vill lägga till en dokumentkonverteringsfunktion till din applikation? [Aspose.Total för Android via Java](https://products.aspose.com/total/android-java/) Filformatsautomatiseringsbibliotek kan hjälpa dig att automatisera dokumentkonverteringsprocessen i dina Android-applikationer. För att konvertera DOTX-fil till PPSM kan du först använda API för dokumentmanipulering [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) för att konvertera DOTX-filformat till HTML. Därefter genom att använda PowerPoint API [Aspose.Slides för Android Java](https://products.aspose.com/slides/android-java/), kan du skapa en ny presentation, skriva HTML-innehåll i den och spara den som PPSM. 
+Är du en Android-utvecklare som vill lägga till en dokumentkonverteringsfunktion till din applikation? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Filformatsautomatiseringsbibliotek kan hjälpa dig att automatisera dokumentkonverteringsprocessen i dina Android-applikationer. För att konvertera DOTX-fil till PPSM kan du först använda API för dokumentmanipulering [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) för att konvertera DOTX-filformat till HTML. Därefter genom att använda PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), kan du skapa en ny presentation, skriva HTML-innehåll i den och spara den som PPSM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -26,7 +26,7 @@ otherformats: POWERPOINT POT ODP PPTX PPS PPTM PPT POTX POTM PPSX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
-För konvertering av DOTX till PPSM-fil kan du enkelt använda Aspose.Total för Android via Java direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) och installera bibliotek i din app.
+För konvertering av DOTX till PPSM-fil kan du enkelt använda Aspose.Total for Android via Java direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) och installera bibliotek i din app.
 
 Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

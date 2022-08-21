@@ -13,19 +13,19 @@ otherformats: XLS ODS XLT MARKDOWN FODS XLAM CSV MHTML XLSM XLTX XLTM XLSB EXCEL
 {{< blocks/products/pf/feature-page-header h1="قم بتحويل PPTX إلى SXC في Android عبر Java" h2="قم بتصدير ملف PPTX إلى SXC في تطبيقات Android بدون استخدام Microsoft <sup>&reg;</sup> Excel أو PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-يمكنك بسهولة تحويل ملف PPTX إلى SXC في تطبيقات Android في عملية من خطوتين عبر [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). في الخطوة الأولى ، يمكنك تصدير ملف PPTX إلى HTML باستخدام [Aspose.Slides لنظام Android عبر Java](https://products.aspose.com/slides/android-java/). ثانيًا ، باستخدام [Aspose.Cells لنظام Android عبر Java](https://products.aspose.com/cells/android-java/) ، يمكنك تحويل HTML إلى SXC. 
+يمكنك بسهولة تحويل ملف PPTX إلى SXC في تطبيقات Android في عملية من خطوتين عبر [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). في الخطوة الأولى ، يمكنك تصدير ملف PPTX إلى HTML باستخدام [Aspose.Slides لنظام Android عبر Java](https://products.aspose.com/slides/android-java/). ثانيًا ، باستخدام [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) ، يمكنك تحويل HTML إلى SXC. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل PPTX إلى SXC في Android" %}}
 1. افتح ملف PPTX باستخدام فئة [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. تحويل PPTX إلى HTML باستخدام [حفظ](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) طريقة
+2. تحويل PPTX إلى HTML باستخدام [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) طريقة
 3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. احفظ المستند بتنسيق SXC باستخدام [حفظ](https://reference.aspose.com/cells/java/com.aspose.cells/)
+4. احفظ المستند بتنسيق SXC باستخدام [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-لتحويل PPTX إلى SXC ، يمكنك بسهولة استخدام Aspose.Total لنظام Android عبر Java مباشرةً من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) وقم بتثبيت المكتبات في تطبيقك.
+لتحويل PPTX إلى SXC ، يمكنك بسهولة استخدام Aspose.Total for Android via Java مباشرةً من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) وقم بتثبيت المكتبات في تطبيقك.
 
 بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

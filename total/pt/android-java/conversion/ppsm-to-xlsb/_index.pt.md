@@ -25,7 +25,7 @@ Você pode converter facilmente o arquivo PPSM para XLSB em seus aplicativos And
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
-Para converter PPSM para XLSB, você pode facilmente usar o Aspose.Total para Android via Java diretamente do [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e instale bibliotecas em seu aplicativo.
+Para converter PPSM para XLSB, você pode facilmente usar o Aspose.Total for Android via Java diretamente do [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e instale bibliotecas em seu aplicativo.
 
 Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

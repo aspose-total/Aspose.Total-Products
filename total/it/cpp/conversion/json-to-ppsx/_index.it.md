@@ -19,9 +19,9 @@ Puoi convertire JSON in PPSX all'interno di qualsiasi applicazione C++ in due se
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converti il formato JSON in PPSX tramite C++" %}}
 1. Crea un nuovo oggetto [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) e leggi dati JSON validi dal file
-2. Salva JSON come PPTX utilizzando il metodo [Salva](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
+2. Salva JSON come PPTX utilizzando il metodo [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
 3. Caricare il documento PPTX utilizzando la classe [Presentazione](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
-4. Salvare il documento in formato PPSX utilizzando il metodo [Salva](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e)
+4. Salvare il documento in formato PPSX utilizzando il metodo [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}

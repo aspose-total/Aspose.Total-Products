@@ -13,7 +13,7 @@ otherformats: CSV EXCEL DIF ODS XLTX XLS XLTM XLSX XLAM XLSM FODS SXC TSV XLT
 {{< blocks/products/pf/feature-page-header h1="API C++ pour convertir DOCX en XLSB" h2="Exportez DOCX vers XLSB via C++ sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Vous pouvez facilement inclure la fonction de conversion DOCX en XLSB dans vos applications C++. En utilisant l'API de manipulation et de conversion de docxuments riche en fonctionnalités, puissante et facile à utiliser [Aspose.Words pour C++](https://products.aspose.com/words/cpp/), vous pouvez exporter du DOCX vers HTML. Après cela, en utilisant [Aspose.Cells pour C++](https://products.aspose.com/cells/cpp/), vous pouvez convertir HTML en XLSB. Les deux API relèvent du package [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
+Vous pouvez facilement inclure la fonction de conversion DOCX en XLSB dans vos applications C++. En utilisant l'API de manipulation et de conversion de docxuments riche en fonctionnalités, puissante et facile à utiliser [Aspose.Words for C++](https://products.aspose.com/words/cpp/), vous pouvez exporter du DOCX vers HTML. Après cela, en utilisant [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), vous pouvez convertir HTML en XLSB. Les deux API relèvent du package [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -38,7 +38,7 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Accéder aux propriétés du docxument DOCX via C++" %}}
-[Aspose.Words pour C++](https://products.aspose.com/words/cpp/) vous permet également d'accéder aux propriétés du docxument du fichier DOCX et vous permet de prendre une décision éclairée avant le processus de conversion. Pour accéder aux propriétés du docxument, vous pouvez utiliser [BuiltInDocxumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_docxument_properties) pour obtenir les propriétés intégrées et [CustomDocxumentProperties](https:// reference.aspose.com/words/cpp/class/aspose.words.properties.custom_docxument_properties) pour obtenir des propriétés personnalisées. L'exemple de code suivant montre comment énumérer toutes les propriétés intégrées et personnalisées dans un docxument.
+[Aspose.Words for C++](https://products.aspose.com/words/cpp/) vous permet également d'accéder aux propriétés du docxument du fichier DOCX et vous permet de prendre une décision éclairée avant le processus de conversion. Pour accéder aux propriétés du docxument, vous pouvez utiliser [BuiltInDocxumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_docxument_properties) pour obtenir les propriétés intégrées et [CustomDocxumentProperties](https:// reference.aspose.com/words/cpp/class/aspose.words.properties.custom_docxument_properties) pour obtenir des propriétés personnalisées. L'exemple de code suivant montre comment énumérer toutes les propriétés intégrées et personnalisées dans un docxument.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-docxument-properties.cs" >}}

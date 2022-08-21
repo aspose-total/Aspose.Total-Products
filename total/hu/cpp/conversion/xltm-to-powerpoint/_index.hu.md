@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPTX DOCX WORD DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="A XLTM konvertálása POWERPOINT formátumba C++ segítségével" h2="Exportálás Excel&reg; XLTM-ből POWERPOINT-ba a teljes funkcionalitású C++ alkalmazásokon belül" >}}
+{{< blocks/products/pf/feature-page-header h1="A XLTM konvertálása POWERPOINT formátumba C++ segítségével" h2="Exportálás Excel<sup>&reg;</sup> XLTM-ből POWERPOINT-ba a teljes funkcionalitású C++ alkalmazásokon belül" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="XLTM-ből POWERPOINT-ba konvertálás C++-on" %}}

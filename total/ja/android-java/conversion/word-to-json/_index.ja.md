@@ -13,15 +13,15 @@ otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 {{< blocks/products/pf/feature-page-header h1="Javaを介してAndroidでWORDをJSON形式に変換する" h2="Microsoft <sup>＆reg; </sup>WordまたはExcelを使用せずにWORDをJSONにエクスポートするようにAndroidアプリケーションを設計する" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Java経由のAndroid用Aspose.Total](https://products.aspose.com/total/android-java/)を使用して、AndroidアプリケーションでWORDをJSON形式に変換できます。ドキュメント操作および変換API[Aspose.Wordsfor Android via Java](https://products.aspose.com/words/android-java/)を使用すると、WORDをHTMLにエクスポートできます。その後、[Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)を使用して、HTMLをJSONに変換できます。 
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)を使用して、AndroidアプリケーションでWORDをJSON形式に変換できます。ドキュメント操作および変換API[Aspose.Wordsfor Android via Java](https://products.aspose.com/words/android-java/)を使用すると、WORDをHTMLにエクスポートできます。その後、[Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)を使用して、HTMLをJSONに変換できます。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="AndroidでWORDをJSON形式に変換する" %}}
 1. [ドキュメント](https://reference.aspose.com/words/java/com.aspose.words/Wordument)クラスを使用してWORDファイルを開きます
-2. [保存](https://reference.aspose.com/words/java/com.aspose.words/Wordument#save(java.lang.String,com.aspose.words.SaveOptions)を使用してWORDをHTMLに変換します) 方法
+2. [Save](https://reference.aspose.com/words/java/com.aspose.words/Wordument#save(java.lang.String,com.aspose.words.SaveOptions)を使用してWORDをHTMLに変換します) 方法
 3. [ワークブック](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)クラスを使用してHTMLドキュメントをロードします
-4. [保存](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells))を使用して、ドキュメントをJSON形式で保存します。 SaveOptions))メソッド
+4. [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells))を使用して、ドキュメントをJSON形式で保存します。 SaveOptions))メソッド
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

@@ -19,9 +19,9 @@ otherformats: BMP FLATOPC GIF DOC DOTM DOT SVG DOTX ODT EPUB TEXT PS WORDML JPEG
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API لتحويل البريد الإلكتروني إلى MD" %}}
 1. افتح ملف EMAIL باستخدام مرجع فئة [MailMessage](https://reference.aspose.com/email/cpp/class/aspose.email.mail_message)
-2. تحويل EMAIL إلى HTML باستخدام وظيفة العضو [حفظ](https://reference.aspose.com/email/cpp/class/aspose.email.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
+2. تحويل EMAIL إلى HTML باستخدام وظيفة العضو [Save](https://reference.aspose.com/email/cpp/class/aspose.email.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
 3. قم بتحميل HTML باستخدام فئة [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
-4. احفظ المستند بتنسيق MD باستخدام طريقة [حفظ](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) وقم بتعيين Md كـ SaveFormat
+4. احفظ المستند بتنسيق MD باستخدام طريقة [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) وقم بتعيين Md كـ SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}

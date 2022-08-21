@@ -13,7 +13,7 @@ otherformats: MARKDOWN XLAM XLTX TSV CSV FODS SXC MHTML EXCEL XLS XLSB XLSX XLTM
 {{< blocks/products/pf/feature-page-header h1="Μετατροπή PPSM σε ODS στο Android μέσω Java" h2="Εξαγωγή αρχείου PPSM σε ODS σε εφαρμογές Android χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Μπορείτε εύκολα να μετατρέψετε το αρχείο PPSM σε ODS στις εφαρμογές σας Android σε μια διαδικασία δύο βημάτων μέσω του [Aspose.Total για Android μέσω Java](https://products.aspose.com/total/android-java/). Στο πρώτο βήμα, μπορείτε να εξαγάγετε αρχείο PPSM σε HTML χρησιμοποιώντας το [Aspose.Slides για Android μέσω Java](https://products.aspose.com/slides/android-java/). Δεύτερον, χρησιμοποιώντας το [Aspose.Cells για Android μέσω Java](https://products.aspose.com/cells/android-java/), μπορείτε να μετατρέψετε HTML σε ODS. 
+Μπορείτε εύκολα να μετατρέψετε το αρχείο PPSM σε ODS στις εφαρμογές σας Android σε μια διαδικασία δύο βημάτων μέσω του [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Στο πρώτο βήμα, μπορείτε να εξαγάγετε αρχείο PPSM σε HTML χρησιμοποιώντας το [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). Δεύτερον, χρησιμοποιώντας το [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), μπορείτε να μετατρέψετε HTML σε ODS. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ otherformats: MARKDOWN XLAM XLTX TSV CSV FODS SXC MHTML EXCEL XLS XLSB XLSX XLTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
-Για να μετατρέψετε το PPSM σε ODS, μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.Total για Android μέσω Java απευθείας από το [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) και εγκαταστήστε βιβλιοθήκες στην εφαρμογή σας.
+Για να μετατρέψετε το PPSM σε ODS, μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.Total for Android via Java απευθείας από το [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) και εγκαταστήστε βιβλιοθήκες στην εφαρμογή σας.
 
 Εναλλακτικά, μπορείτε να λάβετε ένα αρχείο ZIP από τις [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

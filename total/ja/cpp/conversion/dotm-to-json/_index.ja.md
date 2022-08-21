@@ -19,9 +19,9 @@ otherformats: XLAM XLTX TSV FODS XLT DIF CSV EXCEL XLSB XLS XLSM XLTM SXC ODS
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++を介してDOTMをJSON形式に変換する" %}}
 1. [ドキュメント](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument)クラスリファレンスを使用してDOTMファイルを開きます
-2. [保存](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument#save_string_saveformat)メンバー関数を使用してDOTMをHTMLに変換します
+2. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument#save_string_saveformat)メンバー関数を使用してDOTMをHTMLに変換します
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)クラスリファレンスを使用してHTMLドキュメントをロードします
-4. [保存](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)メンバー関数を使用してドキュメントをJSON形式で保存します
+4. [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)メンバー関数を使用してドキュメントをJSON形式で保存します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

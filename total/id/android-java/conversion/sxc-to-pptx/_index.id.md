@@ -13,7 +13,7 @@ otherformats: POWERPOINT WORD DOC DOCX
 {{< blocks/products/pf/feature-page-header h1="Render SXC ke PPTX di Android melalui Java" h2="Ubah SXC menjadi PPTX dalam Aplikasi Android Anda tanpa menggunakan Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total untuk Android melalui Java](https://products.aspose.com/total/android-java/) adalah paket File Automation API yang andal. Dengan menggunakan dua API-nya, Anda dapat mengintegrasikan fitur konversi SXC ke PPTX di dalam aplikasi Android Anda. Pada langkah pertama Anda dapat mengekspor SXC ke PDF dengan menggunakan [Aspose.Cells untuk Android melalui Java](https://products.aspose.com/cells/android-java/). Setelah itu, dengan menggunakan [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/), Anda dapat mengonversi PDF ke PPTX. 
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) adalah paket File Automation API yang andal. Dengan menggunakan dua API-nya, Anda dapat mengintegrasikan fitur konversi SXC ke PPTX di dalam aplikasi Android Anda. Pada langkah pertama Anda dapat mengekspor SXC ke PDF dengan menggunakan [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Setelah itu, dengan menggunakan [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/), Anda dapat mengonversi PDF ke PPTX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ otherformats: POWERPOINT WORD DOC DOCX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
-Anda dapat dengan mudah menggunakan Aspose.Total untuk Android melalui Java langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) dan instal [Aspose.PDF untuk Android melalui Java](https://pptxs.aspose.com/pdf/androidjava/installation/) dan [Aspose.Cells untuk Android melalui Java](https://pptxs.aspose.com/cells /java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via-java-from-maven-repository) di aplikasi Anda.
+Anda dapat dengan mudah menggunakan Aspose.Total for Android via Java langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) dan instal [Aspose.PDF for Android via Java](https://pptxs.aspose.com/pdf/androidjava/installation/) dan [Aspose.Cells for Android via Java](https://pptxs.aspose.com/cells /java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via-java-from-maven-repository) di aplikasi Anda.
 
 Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -46,7 +46,7 @@ pptxument.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Hapus Properti Kustom dari File SXC di Android melalui Java" %}}
-Selain konversi dokumen, [Aspose.Cells untuk Android melalui Java](https://products.aspose.com/cells/android-java/) juga menyediakan banyak fitur lainnya. Sebelum proses konversi, Anda dapat menghapus properti kustom dari dokumen SXC. Untuk menghapus properti kustom, panggil metode [PptxumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/pptxumentpropertycollection#remove(java.lang.String)) dan teruskan nama properti dokumen yang akan dihapus.
+Selain konversi dokumen, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) juga menyediakan banyak fitur lainnya. Sebelum proses konversi, Anda dapat menghapus properti kustom dari dokumen SXC. Untuk menghapus properti kustom, panggil metode [PptxumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/pptxumentpropertycollection#remove(java.lang.String)) dan teruskan nama properti dokumen yang akan dihapus.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java

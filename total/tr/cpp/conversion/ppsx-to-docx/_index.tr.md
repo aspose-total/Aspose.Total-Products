@@ -20,7 +20,7 @@ otherformats: DOTM RTF WORDML FLATOPC DOC ODT OTT DOTX DOT WORD TEXT DOCM
 {{% blocks/products/pf/agp/feature-section-col title="PPSX'u DOCX'a Dönüştürmek için C++ API" %}}
 1. [Sunum](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) sınıf referansını kullanarak PPSX dosyasını yükleyin
 2. [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) üye işlevini kullanarak PPSX'u HTML'ye dönüştürün ve Html'yi SaveFormat olarak ayarlayın
-3. Dönüştürülen HTML dosyasını [Belge](https://reference.aspose.com/words/cpp/class/aspose.words.docxument) sınıf referansını kullanarak yükleyin
+3. Dönüştürülen HTML dosyasını [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docxument) sınıf referansını kullanarak yükleyin
 4. [Kaydet](https://reference.aspose.com/words/cpp/class/aspose.words.docxument#save_string) üye işlevini kullanarak belgeyi DOCX biçiminde kaydedin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

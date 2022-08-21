@@ -18,7 +18,7 @@ otherformats: POTM PPT POT PPSM POTX PPSX POWERPOINT ODP PPTX PPTM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konwersja DOCM do PPS w C++" %}}
-1. Otwórz plik DOCM, korzystając z odwołania do klasy [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
+1. Otwórz plik DOCM, korzystając z odwołania do klasy [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
 2. Konwertuj DOCM na HTML za pomocą funkcji członkowskiej [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_stdbasicostream_saveoptions)
 3. Zainicjuj nowy obiekt [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. Dodaj Autokształt do slajdu i dodaj do niego AddTextFrame
@@ -34,9 +34,9 @@ Możesz też pobrać instalator MSI lub biblioteki DLL offline w pliku ZIP ze st
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp
-// load DOCM file with an instance of Docmument
-Docmument docmument = new Docmument("template.docm");
-System::SharedPtr<Docmument> docm = System::MakeObject<Docmument>(u"sourceFile.docm");
+// load DOCM file with an instance of Document
+Document docmument = new Document("template.docm");
+System::SharedPtr<Document> docm = System::MakeObject<Document>(u"sourceFile.docm");
 // save the docmument in HTML file format
 docm->Save(u"HtmlOutput.HTML");
 // load the desired the presentation
@@ -74,7 +74,7 @@ Oprócz konwersji dokumentów, API [Aspose.Words for C++](https://products.aspos
 // when loading password protected docmument, the password is passed to the docmument's constructor using a LoadOptions object.
 auto options = MakeObject<LoadOptions>(u"docmPassword");
 // load the docmument from the local file system by filename:
-SharedPtr<Docmument> docm = MakeObject<Docmument>(u"Encrypted.docm", options);
+SharedPtr<Document> docm = MakeObject<Document>(u"Encrypted.docm", options);
 ```
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

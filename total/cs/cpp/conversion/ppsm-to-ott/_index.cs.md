@@ -13,15 +13,15 @@ otherformats: TEXT RTF DOCX FLATOPC WORD DOC DOT ODT DOTM DOTX DOCM WORDML
 {{< blocks/products/pf/feature-page-header h1="C++ API pro vykreslení PPSM do OTT" h2="Export PPSM do OTT v aplikacích C++ bez jakýchkoli závislostí Microsoft PowerPoint nebo Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total pro C++](https://products.aspose.com/total/cpp/) je kompletní balíček knihoven C++ File Format Automation. Pomocí bohatých funkcí API dostupných v balíčku můžeme snadno převést PowerPoint PPSM na Word OTT. Chcete-li provést převod, můžete nejprve použít [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API k převodu PPSM do HTML. Ppsmé pomocí rozhraní API pro zpracování textu s bohatými funkcemi [Aspose.Words for C++](https://products.aspose.com/words/cpp/) můžete převést HTML na OTT. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) je kompletní balíček knihoven C++ File Format Automation. Pomocí bohatých funkcí API dostupných v balíčku můžeme snadno převést PowerPoint PPSM na Word OTT. Chcete-li provést převod, můžete nejprve použít [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API k převodu PPSM do HTML. Ppsmé pomocí rozhraní API pro zpracování textu s bohatými funkcemi [Aspose.Words for C++](https://products.aspose.com/words/cpp/) můžete převést HTML na OTT. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API pro převod PPSM na OTT" %}}
 1. Načtěte soubor PPSM pomocí odkazu třídy [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
-2. Vykreslete PPSM do HTML pomocí členské funkce [Uložit](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) a nastavte Html jako SaveFormat
+2. Vykreslete PPSM do HTML pomocí členské funkce [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) a nastavte Html jako SaveFormat
 3. Načtěte převedený soubor HTML pomocí odkazu na třídu [Ottument](https://reference.aspose.com/words/cpp/class/aspose.words.ottument)
-4. Uložte dokument ve formátu OTT pomocí členské funkce [Uložit](https://reference.aspose.com/words/cpp/class/aspose.words.ottument#save_string)
+4. Uložte dokument ve formátu OTT pomocí členské funkce [Save](https://reference.aspose.com/words/cpp/class/aspose.words.ottument#save_string)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}

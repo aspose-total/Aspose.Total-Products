@@ -13,15 +13,15 @@ otherformats: DIF XLAM MHTML XLSB XLTM XLSM EXCEL TSV SXC XLSX MARKDOWN ODS XLTX
 {{< blocks/products/pf/feature-page-header h1="Převeďte POTX do CSV přes C++" h2="Konverze souborů POTX do CSV přes C++ bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Pomocí [Aspose.Total for C++](https://products.aspose.com/total/cpp/) můžete převést soubor POTX na CSV v aplikacích C++ ve dvou jednoduchých krocích. Za prvé, pomocí [Aspose.Slides pro C++](https://products.aspose.com/slides/cpp/) můžete exportovat POTX do HTML. Potxé můžete pomocí rozhraní [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API převést HTML na CSV. 
+Pomocí [Aspose.Total for C++](https://products.aspose.com/total/cpp/) můžete převést soubor POTX na CSV v aplikacích C++ ve dvou jednoduchých krocích. Za prvé, pomocí [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) můžete exportovat POTX do HTML. Potxé můžete pomocí rozhraní [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API převést HTML na CSV. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak převést POTX do CSV přes C++" %}}
 1. Otevřete soubor POTX pomocí odkazu třídy [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
-2. Převeďte POTX do HTML pomocí metody [Uložit](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba)
+2. Převeďte POTX do HTML pomocí metody [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba)
 3. Načtěte dokument HTML pomocí odkazu třídy [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
-4. Uložte dokument do formátu CSV pomocí metody [Uložit](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
+4. Uložte dokument do formátu CSV pomocí metody [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}

@@ -13,7 +13,7 @@ otherformats: PPTX POWERPOINT DOC DOCX
 {{< blocks/products/pf/feature-page-header h1="Rendu XLTX en WORD sur Android via Java" h2="Transformez XLTX en WORD dans vos applications Android sans utiliser Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total pour Android via Java](https://products.aspose.com/total/android-java/) est un package de puissantes API d'automatisation de fichiers. En utilisant deux de ses API, vous pouvez intégrer la fonction de conversion XLTX en WORD dans vos applications Android. Dans la première étape, vous pouvez exporter XLTX au format PDF en utilisant [Aspose.Cells pour Android via Java](https://products.aspose.com/cells/android-java/). Après cela, en utilisant [Aspose.PDF pour Android via Java](https://products.aspose.com/pdf/android-java/), vous pouvez convertir un PDF en WORD. 
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) est un package de puissantes API d'automatisation de fichiers. En utilisant deux de ses API, vous pouvez intégrer la fonction de conversion XLTX en WORD dans vos applications Android. Dans la première étape, vous pouvez exporter XLTX au format PDF en utilisant [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Après cela, en utilisant [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/), vous pouvez convertir un PDF en WORD. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ otherformats: PPTX POWERPOINT DOC DOCX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
-Vous pouvez facilement utiliser Aspose.Total pour Android via Java directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et installez [Aspose.PDF pour Android via Java](https://words.aspose.com/pdf/androidjava/installation/) et [Aspose.Cells pour Android via Java](https://words.aspose.com/cells /java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via-java-from-maven-repository) dans vos applications.
+Vous pouvez facilement utiliser Aspose.Total for Android via Java directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et installez [Aspose.PDF for Android via Java](https://words.aspose.com/pdf/androidjava/installation/) et [Aspose.Cells for Android via Java](https://words.aspose.com/cells /java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via-java-from-maven-repository) dans vos applications.
 
 Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -46,7 +46,7 @@ wordument.save("output.word", com.aspose.pdf.SaveFormat.Word);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Supprimer les propriétés personnalisées du fichier XLTX dans Android via Java" %}}
-Outre la conversion de worduments, [Aspose.Cells pour Android via Java](https://products.aspose.com/cells/android-java/) fournit également des tonnes d'autres fonctionnalités. Avant le processus de conversion, vous pouvez supprimer les propriétés personnalisées du wordument XLTX. Pour supprimer des propriétés personnalisées, appelez la méthode [WordumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/wordumentpropertycollection#remove(java.lang.String)) et transmettez le nom de la propriété de wordument à supprimer.
+Outre la conversion de worduments, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) fournit également des tonnes d'autres fonctionnalités. Avant le processus de conversion, vous pouvez supprimer les propriétés personnalisées du wordument XLTX. Pour supprimer des propriétés personnalisées, appelez la méthode [WordumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/wordumentpropertycollection#remove(java.lang.String)) et transmettez le nom de la propriété de wordument à supprimer.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java

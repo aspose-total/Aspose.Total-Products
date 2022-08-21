@@ -13,7 +13,7 @@ otherformats: POT PPSM OTP ODP PPTM PPT PPS PPSX POTM POTX
 {{< blocks/products/pf/feature-page-header h1="Μετατρέψτε τη μορφή JSON σε POWERPOINT στο Android" h2="Ανάλυση μορφής JSON σε POWERPOINT σε εφαρμογές Android χωρίς χρήση Microsoft<sup>&reg;</sup> PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Μπορείτε να μετατρέψετε τη μορφή JSON σε POWERPOINT στις εφαρμογές σας Android σε μια διαδικασία δύο βημάτων. Πρώτον, χρησιμοποιώντας το [Aspose.Cells για Android μέσω Java](https://products.aspose.com/cells/android-java/), μπορείτε να αναλύσετε το JSON σε PPTX. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Slides για Android μέσω Java](https://products.aspose.com/slides/android-java/), μπορείτε να μετατρέψετε το PPTX σε POWERPOINT. Και τα δύο API περιλαμβάνονται στο πακέτο [Aspose.Total για Android μέσω Java](https://products.aspose.com/total/android-java/). 
+Μπορείτε να μετατρέψετε τη μορφή JSON σε POWERPOINT στις εφαρμογές σας Android σε μια διαδικασία δύο βημάτων. Πρώτον, χρησιμοποιώντας το [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), μπορείτε να αναλύσετε το JSON σε PPTX. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/), μπορείτε να μετατρέψετε το PPTX σε POWERPOINT. Και τα δύο API περιλαμβάνονται στο πακέτο [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ otherformats: POT PPSM OTP ODP PPTM PPT PPS PPSX POTM POTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
-Μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.Total για Android μέσω Java απευθείας από το [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) και εγκαταστήστε βιβλιοθήκες στην εφαρμογή σας.
+Μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.Total for Android via Java απευθείας από το [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) και εγκαταστήστε βιβλιοθήκες στην εφαρμογή σας.
 
 Εναλλακτικά, μπορείτε να λάβετε ένα αρχείο ZIP από τις [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

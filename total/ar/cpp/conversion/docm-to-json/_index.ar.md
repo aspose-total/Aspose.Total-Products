@@ -18,8 +18,8 @@ otherformats: XLT XLTM FODS SXC XLAM XLS EXCEL ODS XLSM DIF XLSB XLTX TSV CSV
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="تحويل DOCM إلى تنسيق JSON عبر C++" %}}
-1. افتح ملف DOCM باستخدام [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument) مرجع فئة
-2. تحويل DOCM إلى HTML باستخدام وظيفة العضو [حفظ](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string_saveformat)
+1. افتح ملف DOCM باستخدام [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument) مرجع فئة
+2. تحويل DOCM إلى HTML باستخدام وظيفة العضو [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string_saveformat)
 3. قم بتحميل مستند HTML باستخدام مرجع فئة [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
 4. احفظ المستند بتنسيق JSON باستخدام وظيفة العضو [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
 {{% /blocks/products/pf/agp/feature-section-col %}}

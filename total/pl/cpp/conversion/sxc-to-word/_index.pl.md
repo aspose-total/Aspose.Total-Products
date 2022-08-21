@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOC POWERPOINT PPTX DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj SXC na WORD za pomocą C++" h2="Eksportuj Excel&reg; SXC do WORD w ramach w pełni funkcjonalnych aplikacji C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj SXC na WORD za pomocą C++" h2="Eksportuj Excel<sup>&reg;</sup> SXC do WORD w ramach w pełni funkcjonalnych aplikacji C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konwersja SXC do WORD w C++" %}}

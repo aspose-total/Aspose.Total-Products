@@ -13,15 +13,15 @@ otherformats: FLATOPC RTF WORDML DOCX DOTX DOTM DOC WORD DOCM OTT ODT DOT
 {{< blocks/products/pf/feature-page-header h1="C++ API เพื่อแสดงผล PPSX เป็น TEXT" h2="ส่งออก PPSX เป็น TEXT ในแอปพลิเคชัน C++ โดยไม่ต้องพึ่งพา Microsoft PowerPoint หรือ Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total สำหรับ C++](https://products.aspose.com/total/cpp/) เป็นแพ็คเกจที่สมบูรณ์ของไลบรารี C++ File Format Automation ด้วยการใช้คุณสมบัติที่หลากหลายของ API ที่มีอยู่ใน pacakge เราสามารถแปลง PowerPoint PPSX เป็น Word TEXT ได้อย่างง่ายดาย ในการแปลง คุณสามารถใช้ [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API เพื่อแปลง PPSX เป็น HTML ได้ก่อน หลังจากนั้นโดยใช้ API การประมวลผลคำที่มีคุณลักษณะหลากหลาย [Aspose.Words for C++](https://products.aspose.com/words/cpp/) คุณจะสามารถแปลง HTML เป็น TEXT ได้ 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) เป็นแพ็คเกจที่สมบูรณ์ของไลบรารี C++ File Format Automation ด้วยการใช้คุณสมบัติที่หลากหลายของ API ที่มีอยู่ใน pacakge เราสามารถแปลง PowerPoint PPSX เป็น Word TEXT ได้อย่างง่ายดาย ในการแปลง คุณสามารถใช้ [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API เพื่อแปลง PPSX เป็น HTML ได้ก่อน หลังจากนั้นโดยใช้ API การประมวลผลคำที่มีคุณลักษณะหลากหลาย [Aspose.Words for C++](https://products.aspose.com/words/cpp/) คุณจะสามารถแปลง HTML เป็น TEXT ได้ 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API เพื่อแปลง PPSX เป็น TEXT" %}}
 1. โหลดไฟล์ PPSX โดยใช้ [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) การอ้างอิงคลาส
-2. แปลง PPSX เป็น HTML โดยใช้ [บันทึก](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) สมาชิก funciton และตั้งค่า Html เป็น SaveFormat
+2. แปลง PPSX เป็น HTML โดยใช้ [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) สมาชิก funciton และตั้งค่า Html เป็น SaveFormat
 3. โหลดไฟล์ HTML ที่แปลงแล้วโดยใช้ [Textument](https://reference.aspose.com/words/cpp/class/aspose.words.textument) การอ้างอิงคลาส
-4. บันทึกเอกสารในรูปแบบ TEXT โดยใช้ [บันทึก](https://reference.aspose.com/words/cpp/class/aspose.words.textument#save_string) ฟังก์ชันสมาชิก
+4. บันทึกเอกสารในรูปแบบ TEXT โดยใช้ [Save](https://reference.aspose.com/words/cpp/class/aspose.words.textument#save_string) ฟังก์ชันสมาชิก
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}

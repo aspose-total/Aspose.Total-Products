@@ -10,10 +10,10 @@ outformat: JSON
 otherformats: SXC XLSM XLSB TSV XLAM XLT DIF EXCEL XLTX CSV XLTM FODS ODS XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi định dạng DOTX sang JSON trong Android qua Java" h2="Thiết kế các ứng dụng Android để xuất DOTX sang JSON mà không cần sử dụng Microsoft <sup> <sup>&reg;</sup>; </sup> Word hoặc Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi định dạng DOTX sang JSON trong Android qua Java" h2="Thiết kế các ứng dụng Android để xuất DOTX sang JSON mà không cần sử dụng Microsoft <sup>&reg;</sup> Word hoặc Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Bạn có thể chuyển đổi định dạng DOTX sang JSON trong Ứng dụng Android của mình qua [Aspose.Total cho Android qua Java](https://products.aspose.com/total/android-java/). Bằng cách sử dụng API chuyển đổi và thao tác tài liệu [Aspose.Words dành cho Android qua Java](https://products.aspose.com/words/android-java/), bạn có thể xuất DOTX sang HTML. Sau đó, bằng cách sử dụng [Aspose.Cells cho Android qua Java](https://products.aspose.com/cells/android-java/), bạn có thể chuyển đổi HTML sang JSON. 
+Bạn có thể chuyển đổi định dạng DOTX sang JSON trong Ứng dụng Android của mình qua [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Bằng cách sử dụng API chuyển đổi và thao tác tài liệu [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/), bạn có thể xuất DOTX sang HTML. Sau đó, bằng cách sử dụng [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), bạn có thể chuyển đổi HTML sang JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,9 +25,9 @@ Bạn có thể chuyển đổi định dạng DOTX sang JSON trong Ứng dụng
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
-Bạn có thể dễ dàng sử dụng Aspose.Total cho Android qua Java trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và cài đặt thư viện trong ứng dụng của bạn.
+Bạn có thể dễ dàng sử dụng Aspose.Total for Android via Java trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và cài đặt thư viện trong ứng dụng của bạn.
 
-Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://downloads.aspose.com/total/androidjava).
+Ngoài ra, bạn có thể tải tệp ZIP từ [download](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

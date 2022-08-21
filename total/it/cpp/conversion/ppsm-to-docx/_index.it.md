@@ -19,9 +19,9 @@ otherformats: DOTM DOCM DOT WORDML OTT TEXT DOTX DOC ODT FLATOPC WORD RTF
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API C++ per convertire PPSM in DOCX" %}}
 1. Caricare il file PPSM utilizzando [Presentazione](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) riferimento alla classe
-2. Eseguire il rendering di PPSM in HTML utilizzando la funzione membro [Salva](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) e impostare Html come SaveFormat
+2. Eseguire il rendering di PPSM in HTML utilizzando la funzione membro [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) e impostare Html come SaveFormat
 3. Caricare il file HTML convertito utilizzando il riferimento alla classe [Docxument](https://reference.aspose.com/words/cpp/class/aspose.words.docxument)
-4. Salvare il docxumento in formato DOCX utilizzando [Salva](https://reference.aspose.com/words/cpp/class/aspose.words.docxument#save_string) funzione membro
+4. Salvare il docxumento in formato DOCX utilizzando [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docxument#save_string) funzione membro
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}

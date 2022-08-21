@@ -13,7 +13,7 @@ otherformats: EXCEL CSV XLSX ODS XLS DIF XLT FODS MHTML XLTM TSV XLAM XLSM SXC X
 {{< blocks/products/pf/feature-page-header h1="Convertir POWERPOINT en MARKDOWN dans Android via Java" h2="Exportez le fichier POWERPOINT au format MARKDOWN dans les applications Android sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Vous pouvez facilement convertir le fichier POWERPOINT en MARKDOWN dans vos applications Android en deux étapes via [Aspose.Total pour Android via Java](https://products.aspose.com/total/android-java/). Dans la première étape, vous pouvez exporter le fichier POWERPOINT au format HTML en utilisant [Aspose.Slides pour Android via Java](https://products.aspose.com/slides/android-java/). Deuxièmement, en utilisant [Aspose.Cells pour Android via Java](https://products.aspose.com/cells/android-java/), vous pouvez convertir HTML en MARKDOWN. 
+Vous pouvez facilement convertir le fichier POWERPOINT en MARKDOWN dans vos applications Android en deux étapes via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Dans la première étape, vous pouvez exporter le fichier POWERPOINT au format HTML en utilisant [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). Deuxièmement, en utilisant [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), vous pouvez convertir HTML en MARKDOWN. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Vous pouvez facilement convertir le fichier POWERPOINT en MARKDOWN dans vos appl
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
-Afin de convertir POWERPOINT en MARKDOWN, vous pouvez facilement utiliser Aspose.Total pour Android via Java directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et installez les bibliothèques dans votre application.
+Afin de convertir POWERPOINT en MARKDOWN, vous pouvez facilement utiliser Aspose.Total for Android via Java directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et installez les bibliothèques dans votre application.
 
 Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

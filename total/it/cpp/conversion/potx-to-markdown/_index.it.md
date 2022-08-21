@@ -19,9 +19,9 @@ Utilizzando [Aspose.Total for C++](https://products.aspose.com/total/cpp/) puoi 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Come convertire POTX in MARKDOWN tramite C++" %}}
 1. Aprire il file POTX utilizzando [Presentazione](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) riferimento alla classe
-2. Converti POTX in HTML utilizzando il metodo [Salva](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba)
+2. Converti POTX in HTML utilizzando il metodo [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba)
 3. Caricare il documento HTML utilizzando il riferimento alla classe [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
-4. Salvare il documento in formato MARKDOWN utilizzando il metodo [Salva](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
+4. Salvare il documento in formato MARKDOWN utilizzando il metodo [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}

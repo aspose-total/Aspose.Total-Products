@@ -13,7 +13,7 @@ otherformats: XPS DOC TEXT MD DOCX ODT BMP WORDML JPEG PDF DOTM PCL PNG EPUB TIF
 {{< blocks/products/pf/feature-page-header h1="API C++ pour exporter EML vers FLATOPC" h2="Transformez EML en FLATOPC dans une application C++ sans nécessiter Microsoft Word ou Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Êtes-vous un développeur C++ cherchant à ajouter des fonctionnalités de conversion d'e-mails dans vos applications ? En utilisant [Aspose.Eml pour C++](https://products.aspose.com/eml/cpp/), vous pouvez convertir le format de fichier EML en HTML. Après cela, en utilisant l'API [Aspose.Words pour C++](https://products.aspose.com/words/cpp/), vous pouvez exporter du HTML vers FLATOPC. Les deux API relèvent du package [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
+Êtes-vous un développeur C++ cherchant à ajouter des fonctionnalités de conversion d'e-mails dans vos applications ? En utilisant [Aspose.Eml pour C++](https://products.aspose.com/eml/cpp/), vous pouvez convertir le format de fichier EML en HTML. Après cela, en utilisant l'API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), vous pouvez exporter du HTML vers FLATOPC. Les deux API relèvent du package [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

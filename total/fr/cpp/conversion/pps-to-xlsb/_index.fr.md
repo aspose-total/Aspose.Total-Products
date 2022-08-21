@@ -13,7 +13,7 @@ otherformats: TSV XLSM MHTML MARKDOWN XLAM XLTX FODS XLS XLT ODS XLSX XLTM SXC C
 {{< blocks/products/pf/feature-page-header h1="Convertir PPS en XLSB via C++" h2="Conversion de fichiers PPS en XLSB via C++ sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour C++](https://products.aspose.com/total/cpp/), vous pouvez convertir le fichier PPS en XLSB dans les applications C++ en deux étapes simples. Tout d'abord, en utilisant [Aspose.Slides pour C++](https://products.aspose.com/slides/cpp/), vous pouvez exporter PPS vers HTML. Après cela, en utilisant [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, vous pouvez convertir HTML en XLSB. 
+En utilisant [Aspose.Total for C++](https://products.aspose.com/total/cpp/), vous pouvez convertir le fichier PPS en XLSB dans les applications C++ en deux étapes simples. Tout d'abord, en utilisant [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), vous pouvez exporter PPS vers HTML. Après cela, en utilisant [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, vous pouvez convertir HTML en XLSB. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

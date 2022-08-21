@@ -13,12 +13,12 @@ otherformats: TSV XLSB FODS XLTM TXT DIF XLTX SXC ODS XLAM EXCEL XLSM
 {{< blocks/products/pf/feature-page-header h1="Рендеринг PCL в MD в приложениях C++" h2="Преобразование PCL в MD в собственных приложениях C++ без использования Microsoft<sup>&reg;</sup> Excel или Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Преобразование PCL в MD в C++ с помощью библиотек автоматизации форматов файлов [Aspose.Total for C++](https://products.aspose.com/total/cpp/) представляет собой простой двухэтапный процесс. На первом этапе вы можете экспортировать PCL в XLSX с помощью [Aspose.PDF для C++](https://products.aspose.com/pdf/cpp/), после этого с помощью [Aspose.Cells для C++]( https://products.aspose.com/cells/cpp/) API программирования электронных таблиц, вы можете конвертировать XLSX в MD. 
+Преобразование PCL в MD в C++ с помощью библиотек автоматизации форматов файлов [Aspose.Total for C++](https://products.aspose.com/total/cpp/) представляет собой простой двухэтапный процесс. На первом этапе вы можете экспортировать PCL в XLSX с помощью [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/), после этого с помощью [Aspose.Cells for C++]( https://products.aspose.com/cells/cpp/) API программирования электронных таблиц, вы можете конвертировать XLSX в MD. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API для преобразования PCL в MD" %}}
-1. Откройте файл PCL, используя ссылку на класс [Документ](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document).
+1. Откройте файл PCL, используя ссылку на класс [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document).
 2. Преобразуйте PCL в XLSX с помощью функции-члена [Сохранить](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db).
 3. Загрузите документ XLSX, используя ссылку на класс [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
 4. Сохраните документ в формате MD, используя функцию-член [Сохранить](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997).
@@ -38,7 +38,7 @@ otherformats: TSV XLSB FODS XLTM TXT DIF XLTX SXC ODS XLAM EXCEL XLSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Получить или установить информацию о файле PCL через C++" %}}
-[Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) также позволяет вам получить информацию о вашем документе PCL и позволяет принимать обоснованные решения до процесса преобразования. Чтобы получить информацию о файле PCL, вам сначала нужно вызвать метод [get_Info()](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#ae7a6ba620499ffa0dbaa5c813ee96c4a) [Документ](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document). После извлечения объекта DocumentInfo вы можете получить значения отдельных свойств. Кроме того, вы также можете установить свойства, используя соответствующие методы класса DocumentInfo.
+[Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) также позволяет вам получить информацию о вашем документе PCL и позволяет принимать обоснованные решения до процесса преобразования. Чтобы получить информацию о файле PCL, вам сначала нужно вызвать метод [get_Info()](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#ae7a6ba620499ffa0dbaa5c813ee96c4a) [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document). После извлечения объекта DocumentInfo вы можете получить значения отдельных свойств. Кроме того, вы также можете установить свойства, используя соответствующие методы класса DocumentInfo.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}

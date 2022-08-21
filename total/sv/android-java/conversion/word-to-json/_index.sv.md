@@ -13,7 +13,7 @@ otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 {{< blocks/products/pf/feature-page-header h1="Konvertera WORD till JSON-format i Android via Java" h2="Designa Android-program för att exportera WORD till JSON utan att använda Microsoft<sup>&reg;</sup> Word eller Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Du kan konvertera WORD till JSON-format i dina Android-applikationer via [Aspose.Total för Android via Java](https://products.aspose.com/total/android-java/). Genom att använda API för dokumentmanipulation och konvertering [Aspose.Words för Android via Java](https://products.aspose.com/words/android-java/), kan du exportera WORD till HTML. Efter det, genom att använda [Aspose.Cells för Android via Java](https://products.aspose.com/cells/android-java/), kan du konvertera HTML till JSON. 
+Du kan konvertera WORD till JSON-format i dina Android-applikationer via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Genom att använda API för dokumentmanipulation och konvertering [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/), kan du exportera WORD till HTML. Efter det, genom att använda [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), kan du konvertera HTML till JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -21,11 +21,11 @@ Du kan konvertera WORD till JSON-format i dina Android-applikationer via [Aspose
 1. Öppna WORD-filen med klassen [Wordument](https://reference.aspose.com/words/java/com.aspose.words/Wordument)
 2. Konvertera WORD till HTML genom att använda [Save](https://reference.aspose.com/words/java/com.aspose.words/Wordument#save(java.lang.String,com.aspose.words.SaveOptions) ) metod
 3. Ladda HTML-dokument med hjälp av klassen [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Spara dokumentet i JSON-format med [Spara](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) metod
+4. Spara dokumentet i JSON-format med [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) metod
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
-Du kan enkelt använda Aspose.Total för Android via Java direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) och installera bibliotek i din app.
+Du kan enkelt använda Aspose.Total for Android via Java direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) och installera bibliotek i din app.
 
 Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

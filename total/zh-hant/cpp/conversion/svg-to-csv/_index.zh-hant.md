@@ -38,7 +38,7 @@ otherformats: XLTM XLSM XLSB MD EXCEL FODS XLT XLAM TXT SXC DIF ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="通過 C++ 獲取或設置 SVG 文件信息" %}}
-[Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) 還允許您獲取有關 SVG 文檔的信息，並讓您在轉換過程之前做出明智的決定。為了獲取SVG文件的文件特定信息，首先需要調用[get_Info()](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#ae7a6ba620499ffa0dbaa5c813ee96c4a)方法[文檔](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) 類。一旦檢索到 DocumentInfo 對象，您就可以獲取各個屬性的值。此外，您還可以使用 DocumentInfo 類的相應方法設置屬性。
+[Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) 還允許您獲取有關 SVG 文檔的信息，並讓您在轉換過程之前做出明智的決定。為了獲取SVG文件的文件特定信息，首先需要調用[get_Info()](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#ae7a6ba620499ffa0dbaa5c813ee96c4a)方法[Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) 類。一旦檢索到 DocumentInfo 對象，您就可以獲取各個屬性的值。此外，您還可以使用 DocumentInfo 類的相應方法設置屬性。
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}

@@ -18,7 +18,7 @@ otherformats: POWERPOINT ODP POTM POT PPS PPSM PPTM PPT POTX PPSX
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++'da DOC'den PPTX'ye Dönüştürme" %}}
-1. [Belge](https://reference.aspose.com/words/cpp/class/aspose.words.document) sınıf referansını kullanarak DOC dosyasını açın
+1. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) sınıf referansını kullanarak DOC dosyasını açın
 2. [Kaydet](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stdbasicostream_saveoptions) üye işlevini kullanarak DOC'yi HTML'ye dönüştürün
 3. Yeni bir [Sunum](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) nesnesini başlatın
 4. Slaytınıza bir Otomatik Şekil ekleyin ve buna AddTextFrame ekleyin

@@ -18,7 +18,7 @@ otherformats: ODP PPS POT PPT PPSX PPTM PPTX POWERPOINT POTX PPSM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ 上的 DOCM 到 POTM 转换" %}}
-1.使用[Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)类参考打开DOCM文件
+1.使用[Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)类参考打开DOCM文件
 2. 使用 [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_stdbasicostream_saveoptions) 成员函数将 DOCM 转换为 HTML
 3.初始化一个新的[Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)对象
 4. 在你的幻灯片中添加一个自选图形，并在其中添加 AddTextFrame
@@ -34,9 +34,9 @@ otherformats: ODP PPS POT PPT PPSX PPTM PPTX POWERPOINT POTX PPSM
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp
-// load DOCM file with an instance of Docmument
-Docmument docmument = new Docmument("template.docm");
-System::SharedPtr<Docmument> docm = System::MakeObject<Docmument>(u"sourceFile.docm");
+// load DOCM file with an instance of Document
+Document docmument = new Document("template.docm");
+System::SharedPtr<Document> docm = System::MakeObject<Document>(u"sourceFile.docm");
 // save the docmument in HTML file format
 docm->Save(u"HtmlOutput.HTML");
 // load the desired the presentation
@@ -74,7 +74,7 @@ pres->Save(output.potm, Aspose::Slides::Export::SaveFormat::Potm);
 // when loading password protected docmument, the password is passed to the docmument's constructor using a LoadOptions object.
 auto options = MakeObject<LoadOptions>(u"docmPassword");
 // load the docmument from the local file system by filename:
-SharedPtr<Docmument> docm = MakeObject<Docmument>(u"Encrypted.docm", options);
+SharedPtr<Document> docm = MakeObject<Document>(u"Encrypted.docm", options);
 ```
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

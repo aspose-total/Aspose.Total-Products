@@ -13,7 +13,7 @@ otherformats: MARKDOWN FODS XLTX XLSB XLT XLSM XLS XLTM XLAM XLSX TSV SXC CSV MH
 {{< blocks/products/pf/feature-page-header h1="Převeďte PPTX na EXCEL v Androidu přes Java" h2="Exportujte soubor PPTX do EXCEL v aplikacích pro Android bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Soubor PPTX můžete snadno převést na EXCEL ve svých aplikacích pro Android ve dvou krocích prostřednictvím [Aspose.Total pro Android přes Java](https://products.aspose.com/total/android-java/). V prvním kroku můžete exportovat soubor PPTX do HTML pomocí [Aspose.Slides pro Android přes Java](https://products.aspose.com/slides/android-java/). Za druhé, pomocí [Aspose.Cells pro Android přes Java](https://products.aspose.com/cells/android-java/) můžete převést HTML na EXCEL. 
+Soubor PPTX můžete snadno převést na EXCEL ve svých aplikacích pro Android ve dvou krocích prostřednictvím [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). V prvním kroku můžete exportovat soubor PPTX do HTML pomocí [Aspose.Slides pro Android přes Java](https://products.aspose.com/slides/android-java/). Za druhé, pomocí [Aspose.Cells pro Android přes Java](https://products.aspose.com/cells/android-java/) můžete převést HTML na EXCEL. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

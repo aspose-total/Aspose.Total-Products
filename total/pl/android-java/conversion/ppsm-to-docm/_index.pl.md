@@ -14,19 +14,19 @@ otherformats: FLATOPC DOTM TEXT DOTX RTF WORD DOC DOCX OTT DOT ODT WORDML
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total na Androida przez Javę](https://products.aspose.com/total/android-java/) umożliwia manipulowanie formatami plików w aplikacjach na Androida. Korzystając z interfejsów API dostarczonych w pakiecie, możesz zautomatyzować proces konwersji PowerPoint PPSM do Word DOCM w swoich aplikacjach.
-Możesz przekonwertować swój dokument w dwóch krokach. Do renderowania PPSM do HTML możesz użyć [Aspose.Slides for Andorid przez Javę](https://products.aspose.com/slides/android-java/), czyli interfejsu API PowerPoint dla aplikacji na Androida. Następnie za pomocą interfejsu API przetwarzania dokumentów [Aspose.Words dla Androida przez Javę](https://products.aspose.com/words/android-java/) możesz przekonwertować HTML na DOCM. 
+Możesz przekonwertować swój dokument w dwóch krokach. Do renderowania PPSM do HTML możesz użyć [Aspose.Slides for Andorid przez Javę](https://products.aspose.com/slides/android-java/), czyli interfejsu API PowerPoint dla aplikacji na Androida. Następnie za pomocą interfejsu API przetwarzania dokumentów [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) możesz przekonwertować HTML na DOCM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Renderowanie PPSM do DOCM w systemie Android" %}}
 1. Otwórz plik PPSM za pomocą klasy [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Przekonwertuj PPSM na HTML, używając [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) i ustaw HTML jako SaveFormat
-3. Załaduj przekonwertowany plik HTML za pomocą klasy [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument)
-4. Zapisz dokument w formacie DOCM za pomocą metody [save](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,int)) i ustaw Docm jako SaveFormat
+3. Załaduj przekonwertowany plik HTML za pomocą klasy [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. Zapisz dokument w formacie DOCM za pomocą metody [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) i ustaw Docm jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
-Możesz łatwo używać Aspose.Total dla Androida przez Javę bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i zainstaluj [Aspose.Slides na Androida przez Javę](https://docms.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) i [Aspose.Words na Androida przez Javę](https://docms.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) w swoim Aplikacje.
+Możesz łatwo używać Aspose.Total for Android via Java bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i zainstaluj [Aspose.Slides na Androida przez Javę](https://docms.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) i [Aspose.Words na Androida przez Javę](https://docms.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) w swoim Aplikacje.
 
 Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -36,8 +36,8 @@ Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com
 Presentation presentation = new Presentation("input.ppsm");
 // save the presentation as HTML
 presentation.save("htmlOutput.html", SaveFormat.Html);
-// load HTML with an instance of Docmument
-Docmument docmument = new Docmument("htmlOutput.html");
+// load HTML with an instance of Document
+Document docmument = new Document("htmlOutput.html");
 // save docmument in DOCM format
 docmument.save("output.docm",SaveFormat.Docmm);   
 ```

@@ -13,7 +13,7 @@ otherformats: DOTX WORD DOCM TEXT FLATOPC DOTM WORDML OTT DOCX RTF DOC DOT
 {{< blocks/products/pf/feature-page-header h1="Java経由でAndoridのODTにPPSXをレンダリングする" h2="Microsoft PowerPointやWordに依存せずに、Androidアプリ内でPPSXをODTに変換するファイル形式のAPI" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Java経由のAndroid用Aspose.Total](https://products.aspose.com/total/android-java/)を使用すると、Androidアプリケーション内でファイル形式を操作できます。パッケージで提供されているAPIを使用することで、アプリでPowerPointPPSXからWordODTへの変換プロセスを自動化できます。
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)を使用すると、Androidアプリケーション内でファイル形式を操作できます。パッケージで提供されているAPIを使用することで、アプリでPowerPointPPSXからWordODTへの変換プロセスを自動化できます。
 あなたは2つのステップであなたの与えられた文書を変換することができます。 Androidアプリケーション用のPowerPointAPIである[Aspose.SlidesforAndorid via Java](https://products.aspose.com/slides/android-java/)を使用して、PPSXをHTMLにレンダリングできます。その後、ドキュメント処理API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)を使用して、HTMLをODTに変換できます。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 

@@ -19,11 +19,11 @@ otherformats: PPTX PPS POTM POT POWERPOINT ODP PPTM POTX PPSX PPT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="تحويل DOT إلى PPSM على C++" %}}
 1. افتح ملف DOT باستخدام [Dotument](https://reference.aspose.com/words/cpp/class/aspose.words.dotument) مرجع فئة
-2. تحويل DOT إلى HTML باستخدام وظيفة العضو [حفظ](https://reference.aspose.com/words/cpp/class/aspose.words.dotument#save_stdbasicostream_saveoptions)
+2. تحويل DOT إلى HTML باستخدام وظيفة العضو [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotument#save_stdbasicostream_saveoptions)
 3. تهيئة كائن [عرض تقديمي] جديد(https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. إضافة شكل تلقائي في الشريحة الخاصة بك ، وإضافة AddTextFrame فيه
 5. قم بتحميل محتوى HTML واكتبه في ملف العرض التقديمي الخاص بك
-6. احفظ المستند بتنسيق PPSM باستخدام طريقة [حفظ](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) وتعيين Ppsm على أنه SaveFormat
+6. احفظ المستند بتنسيق PPSM باستخدام طريقة [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) وتعيين Ppsm على أنه SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}

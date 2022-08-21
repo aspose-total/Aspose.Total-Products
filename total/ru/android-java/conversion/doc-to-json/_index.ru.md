@@ -13,7 +13,7 @@ otherformats: XLAM XLT CSV XLSX FODS XLTM XLSM XLTX ODS XLSB EXCEL SXC TSV DIF
 {{< blocks/products/pf/feature-page-header h1="Преобразование DOC в формат JSON в Android через Java" h2="Создавайте приложения Android для экспорта DOC в JSON без использования Microsoft<sup>&reg;</sup> Word или Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Вы можете конвертировать DOC в формат JSON в своих приложениях для Android через [Aspose.Total для Android через Java](https://products.aspose.com/total/android-java/). Используя API для обработки и преобразования документов [Aspose.Words для Android через Java](https://products.aspose.com/words/android-java/), вы можете экспортировать DOC в HTML. После этого, используя [Aspose.Cells для Android через Java](https://products.aspose.com/cells/android-java/), вы можете конвертировать HTML в JSON. 
+Вы можете конвертировать DOC в формат JSON в своих приложениях для Android через [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Используя API для обработки и преобразования документов [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/), вы можете экспортировать DOC в HTML. После этого, используя [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), вы можете конвертировать HTML в JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ otherformats: XLAM XLT CSV XLSX FODS XLTM XLSM XLTX ODS XLSB EXCEL SXC TSV DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
-Вы можете легко использовать Aspose.Total для Android через Java непосредственно из [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) и установить библиотеки в ваше приложение.
+Вы можете легко использовать Aspose.Total for Android via Java непосредственно из [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) и установить библиотеки в ваше приложение.
 
 Кроме того, вы можете получить ZIP-файл из [загрузки](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

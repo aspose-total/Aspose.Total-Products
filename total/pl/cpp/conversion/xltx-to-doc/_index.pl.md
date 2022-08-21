@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: PPTX DOCX WORD POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj XLTX na DOC za pomocą C++" h2="Eksportuj Excel&reg; XLTX do DOC w ramach w pełni funkcjonalnych aplikacji C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj XLTX na DOC za pomocą C++" h2="Eksportuj Excel<sup>&reg;</sup> XLTX do DOC w ramach w pełni funkcjonalnych aplikacji C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konwersja XLTX do DOC w C++" %}}

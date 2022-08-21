@@ -13,7 +13,7 @@ otherformats: EXCEL MHTML ODS XLS SXC MARKDOWN XLTX TSV XLT FODS XLSX CSV DIF XL
 {{< blocks/products/pf/feature-page-header h1="Convertir PPSX en XLTM via C++" h2="Conversion de fichiers PPSX en XLTM via C++ sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour C++](https://products.aspose.com/total/cpp/), vous pouvez convertir le fichier PPSX en XLTM dans les applications C++ en deux étapes simples. Tout d'abord, en utilisant [Aspose.Slides pour C++](https://products.aspose.com/slides/cpp/), vous pouvez exporter PPSX vers HTML. Après cela, en utilisant [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, vous pouvez convertir HTML en XLTM. 
+En utilisant [Aspose.Total for C++](https://products.aspose.com/total/cpp/), vous pouvez convertir le fichier PPSX en XLTM dans les applications C++ en deux étapes simples. Tout d'abord, en utilisant [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), vous pouvez exporter PPSX vers HTML. Après cela, en utilisant [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, vous pouvez convertir HTML en XLTM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

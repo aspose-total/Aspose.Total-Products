@@ -13,7 +13,7 @@ otherformats: DOC PDF EPUB BMP DOCX WORDML PNG XPS DOCM PCL DOTX FLATOPC TIFF DO
 {{< blocks/products/pf/feature-page-header h1="Μετατρέψτε το EMAIL σε RTF στις εφαρμογές Andorid" h2="Σχεδιασμός εφαρμογών Andorid για εξαγωγή EMAIL σε RTF χρησιμοποιώντας το Andorid μέσω Java API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Οι εφαρμογές Andorid είναι εύκολες στη χρήση για τους τελικούς χρήστες σε καθημερινή βάση. Μέρα με τη μέρα ο αριθμός των χρηστών τηλεφώνων Andorid αυξάνεται. Χρησιμοποιώντας τις πανίσχυρες βιβλιοθήκες [Aspose.Total για Android μέσω Java](https://products.aspose.com/total/android-java/) Αυτοματισμού μορφοποίησης αρχείων, μπορείτε να αναπτύξετε εφαρμογές χειρισμού email και μετατροπής. Μπορείτε να μετατρέψετε EMAIL σε RTF με το συνδυασμό των [Aspose.Email για Android Java](https://products.aspose.com/email/android-java/) & [Aspose.Words για Andorid Java](https://products.aspose.com/words/android-java/). Χρησιμοποιώντας το πρώτο API μπορείτε να μετατρέψετε τη μορφή αρχείου EMAIL σε HTML και χρησιμοποιώντας το δεύτερο API, μπορείτε να αποδώσετε το HTML ως RTF. 
+Οι εφαρμογές Andorid είναι εύκολες στη χρήση για τους τελικούς χρήστες σε καθημερινή βάση. Μέρα με τη μέρα ο αριθμός των χρηστών τηλεφώνων Andorid αυξάνεται. Χρησιμοποιώντας τις πανίσχυρες βιβλιοθήκες [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Αυτοματισμού μορφοποίησης αρχείων, μπορείτε να αναπτύξετε εφαρμογές χειρισμού email και μετατροπής. Μπορείτε να μετατρέψετε EMAIL σε RTF με το συνδυασμό των [Aspose.Email for Android via Java](https://products.aspose.com/email/android-java/) & [Aspose.Words για Andorid Java](https://products.aspose.com/words/android-java/). Χρησιμοποιώντας το πρώτο API μπορείτε να μετατρέψετε τη μορφή αρχείου EMAIL σε HTML και χρησιμοποιώντας το δεύτερο API, μπορείτε να αποδώσετε το HTML ως RTF. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ otherformats: DOC PDF EPUB BMP DOCX WORDML PNG XPS DOCM PCL DOTX FLATOPC TIFF DO
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
-Μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.Total για Android μέσω Java απευθείας από το [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) και εγκαταστήστε το [Aspose.Email για Android μέσω Java](https://docs.aspose.com/email/androidjava/installation/) και το [Aspose.Words for Andorid μέσω Java](https://docs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) στις εφαρμογές σας.
+Μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.Total for Android via Java απευθείας από το [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) και εγκαταστήστε το [Aspose.Email for Android via Java](https://docs.aspose.com/email/androidjava/installation/) και το [Aspose.Words for Andorid μέσω Java](https://docs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) στις εφαρμογές σας.
 
 Εναλλακτικά, μπορείτε να λάβετε ένα αρχείο ZIP από τις [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

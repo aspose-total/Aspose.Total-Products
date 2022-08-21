@@ -13,7 +13,7 @@ otherformats: PPS ODP PPTX PPSX POTM POT POWERPOINT PPT PPSM POTX CSV DIF FODS O
 {{< blocks/products/pf/feature-page-header h1="Converti OTT in PPTM nelle app Android" h2="Conversione da OTT a PPTM nelle tue applicazioni Android senza installare Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Sei uno sviluppatore Android e stai cercando di aggiungere una funzione di conversione dei ottumenti alla tua applicazione? [Aspose.Total per Android tramite Java](https://products.aspose.com/total/android-java/) Le librerie File Format Automation possono aiutarti ad automatizzare il processo di conversione dei ottumenti nelle tue applicazioni Android. Per convertire il file OTT in PPTM, puoi prima utilizzare l'API di manipolazione del ottumento [Aspose.Words per Android Java](https://products.aspose.com/words/android-java/) per convertire il formato del file OTT in HTML. Successivamente, utilizzando l'API di PowerPoint [Aspose.Slides per Android Java](https://products.aspose.com/slides/android-java/), puoi creare una nuova presentazione, scrivere contenuto HTML al suo interno e salvarlo come PPTM. 
+Sei uno sviluppatore Android e stai cercando di aggiungere una funzione di conversione dei ottumenti alla tua applicazione? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Le librerie File Format Automation possono aiutarti ad automatizzare il processo di conversione dei ottumenti nelle tue applicazioni Android. Per convertire il file OTT in PPTM, puoi prima utilizzare l'API di manipolazione del ottumento [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) per convertire il formato del file OTT in HTML. Successivamente, utilizzando l'API di PowerPoint [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), puoi creare una nuova presentazione, scrivere contenuto HTML al suo interno e salvarlo come PPTM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -26,7 +26,7 @@ Sei uno sviluppatore Android e stai cercando di aggiungere una funzione di conve
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
-Per la conversione di file da OTT a PPTM, puoi facilmente utilizzare Aspose.Total per Android tramite Java direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e installa le librerie nella tua app.
+Per la conversione di file da OTT a PPTM, puoi facilmente utilizzare Aspose.Total for Android via Java direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e installa le librerie nella tua app.
 
 In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

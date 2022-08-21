@@ -13,7 +13,7 @@ otherformats: SXC XLTM XLAM ODS DIF FODS MHTML XLT TSV XLSX XLS XLSM XLTX EXCEL 
 {{< blocks/products/pf/feature-page-header h1="Convierta POTM a MARKDOWN a través de C++" h2="Conversión de archivos POTM a MARKDOWN a través de C++ sin usar Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Al usar [Aspose.Total para C++](https://products.aspose.com/total/cpp/) puede convertir archivos POTM a MARKDOWN dentro de aplicaciones C++ en dos simples pasos. En primer lugar, al usar [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), puede exportar POTM a HTML. Después de eso, al usar [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) API de programación de hojas de cálculo, puede convertir HTML a MARKDOWN. 
+Al usar [Aspose.Total for C++](https://products.aspose.com/total/cpp/) puede convertir archivos POTM a MARKDOWN dentro de aplicaciones C++ en dos simples pasos. En primer lugar, al usar [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), puede exportar POTM a HTML. Después de eso, al usar [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) API de programación de hojas de cálculo, puede convertir HTML a MARKDOWN. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

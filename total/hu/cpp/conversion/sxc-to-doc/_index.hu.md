@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCX WORD POWERPOINT PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="A SXC konvertálása DOC formátumba C++ segítségével" h2="Exportálás Excel&reg; SXC-ből DOC-ba a teljes funkcionalitású C++ alkalmazásokon belül" >}}
+{{< blocks/products/pf/feature-page-header h1="A SXC konvertálása DOC formátumba C++ segítségével" h2="Exportálás Excel<sup>&reg;</sup> SXC-ből DOC-ba a teljes funkcionalitású C++ alkalmazásokon belül" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="SXC-ből DOC-ba konvertálás C++-on" %}}

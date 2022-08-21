@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOC WORD PPTX DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj XLT na POWERPOINT za pomocą C++" h2="Eksportuj Excel&reg; XLT do POWERPOINT w ramach w pełni funkcjonalnych aplikacji C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj XLT na POWERPOINT za pomocą C++" h2="Eksportuj Excel<sup>&reg;</sup> XLT do POWERPOINT w ramach w pełni funkcjonalnych aplikacji C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konwersja XLT do POWERPOINT w C++" %}}

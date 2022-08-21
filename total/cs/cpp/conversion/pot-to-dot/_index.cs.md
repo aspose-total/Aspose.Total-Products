@@ -13,15 +13,15 @@ otherformats: FLATOPC WORD ODT DOC DOCM DOTM TEXT DOCX RTF DOTX OTT WORDML
 {{< blocks/products/pf/feature-page-header h1="C++ API pro vykreslení POT do DOT" h2="Export POT do DOT v aplikacích C++ bez jakýchkoli závislostí Microsoft PowerPoint nebo Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total pro C++](https://products.aspose.com/total/cpp/) je kompletní balíček knihoven C++ File Format Automation. Pomocí bohatých funkcí API dostupných v balíčku můžeme snadno převést PowerPoint POT na Word DOT. Chcete-li provést převod, můžete nejprve použít [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API k převodu POT do HTML. Poté pomocí rozhraní API pro zpracování textu s bohatými funkcemi [Aspose.Words for C++](https://products.aspose.com/words/cpp/) můžete převést HTML na DOT. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) je kompletní balíček knihoven C++ File Format Automation. Pomocí bohatých funkcí API dostupných v balíčku můžeme snadno převést PowerPoint POT na Word DOT. Chcete-li provést převod, můžete nejprve použít [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API k převodu POT do HTML. Poté pomocí rozhraní API pro zpracování textu s bohatými funkcemi [Aspose.Words for C++](https://products.aspose.com/words/cpp/) můžete převést HTML na DOT. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API pro převod POT na DOT" %}}
 1. Načtěte soubor POT pomocí odkazu třídy [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
-2. Vykreslete POT do HTML pomocí členské funkce [Uložit](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) a nastavte Html jako SaveFormat
+2. Vykreslete POT do HTML pomocí členské funkce [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) a nastavte Html jako SaveFormat
 3. Načtěte převedený soubor HTML pomocí odkazu na třídu [Dotument](https://reference.aspose.com/words/cpp/class/aspose.words.dotument)
-4. Uložte dokument ve formátu DOT pomocí členské funkce [Uložit](https://reference.aspose.com/words/cpp/class/aspose.words.dotument#save_string)
+4. Uložte dokument ve formátu DOT pomocí členské funkce [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotument#save_string)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}

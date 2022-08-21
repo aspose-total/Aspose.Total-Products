@@ -13,19 +13,19 @@ otherformats: DOCX DOC POWERPOINT PPTX
 {{< blocks/products/pf/feature-page-header h1="जावा के माध्यम से एंड्रॉइड पर सीएसवी को डीओसी को प्रस्तुत करें" h2="Microsoft<sup>&reg;</sup> Excel का उपयोग किए बिना अपने Android एप्लिकेशन में ODS को WORD में रूपांतरित करें" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Android by Java](https://products.aspose.com/total/android-java/) शक्तिशाली फाइल ऑटोमेशन एपीआई का एक पैकेज है। इसके दो एपीआई का उपयोग करके, आप अपने एंड्रॉइड एप्लिकेशन के अंदर सीएसवी को डीओसी रूपांतरण सुविधा में एकीकृत कर सकते हैं। पहले चरण में आप [Aspose.Cells for Android by Java](https://products.aspose.com/cells/android-java/) का उपयोग करके PDF में ODS निर्यात कर सकते हैं। उसके बाद, [जावा के माध्यम से Android के लिए Aspose.PDF](https://products.aspose.com/pdf/android-java/) का उपयोग करके, आप PDF को WORD में बदल सकते हैं। 
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) शक्तिशाली फाइल ऑटोमेशन एपीआई का एक पैकेज है। इसके दो एपीआई का उपयोग करके, आप अपने एंड्रॉइड एप्लिकेशन के अंदर सीएसवी को डीओसी रूपांतरण सुविधा में एकीकृत कर सकते हैं। पहले चरण में आप [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) का उपयोग करके PDF में ODS निर्यात कर सकते हैं। उसके बाद, [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) का उपयोग करके, आप PDF को WORD में बदल सकते हैं। 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="सीएसवी को डीओसी में निर्यात करने के लिए एंड्रॉइड एपीआई" %}}
 1. [वर्कबुक](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) क्लास का इस्तेमाल करके ODS फ़ाइल खोलें
 2. ODS को PDF में बदलें और SaveFormat को AUTO पर सेट करें
-3. रूपांतरित पीडीएफ फाइल को [दस्तावेज़](https://reference.aspose.com/pdf/java/com.aspose.pdf/Wordument) वर्ग का उपयोग करके लोड करें
+3. रूपांतरित पीडीएफ फाइल को [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Wordument) वर्ग का उपयोग करके लोड करें
 4. [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Wordument#save-java.lang.String-com.aspose.pdf.SaveOptions का उपयोग करके दस्तावेज़ को WORD प्रारूप में सहेजें -) तरीका
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
-आप [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) से सीधे जावा के माध्यम से Android के लिए Aspose.Total का आसानी से उपयोग कर सकते हैं और [जावा के माध्यम से Android के लिए Aspose.PDF](https://words.aspose.com/pdf/androidjava/installation/) और [Java के माध्यम से Android के लिए Aspose.Cells](https://words.aspose.com/cells) इंस्टॉल करें /java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via-java-from-maven-repository) आपके अनुप्रयोगों में।
+आप [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) से सीधे Aspose.Total for Android via Java का आसानी से उपयोग कर सकते हैं और [Aspose.PDF for Android via Java](https://words.aspose.com/pdf/androidjava/installation/) और [Aspose.Cells for Android via Java](https://words.aspose.com/cells) इंस्टॉल करें /java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via-java-from-maven-repository) आपके अनुप्रयोगों में।
 
 वैकल्पिक रूप से, आप [डाउनलोड](https://downloads.aspose.com/total/androidjava) से एक ज़िप फ़ाइल प्राप्त कर सकते हैं।
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -46,7 +46,7 @@ wordument.save("output.word", com.aspose.pdf.SaveFormat.Word);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="जावा के माध्यम से Android में ODS फ़ाइल से कस्टम गुण निकालें" %}}
-दस्तावेज़ रूपांतरण के अलावा, [जावा के माध्यम से Android के लिए Aspose.Cells](https://products.aspose.com/cells/android-java/) कई अन्य सुविधाएं भी प्रदान करता है। रूपांतरण प्रक्रिया से पहले, आप ODS दस्तावेज़ के कस्टम गुण निकाल सकते हैं। कस्टम गुण निकालने के लिए, [WordumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/wordumentpropertycollection#remove(java.lang.String)) विधि को कॉल करें और इसका नाम दें दस्तावेज़ संपत्ति को हटाया जाना है।
+दस्तावेज़ रूपांतरण के अलावा, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) कई अन्य सुविधाएं भी प्रदान करता है। रूपांतरण प्रक्रिया से पहले, आप ODS दस्तावेज़ के कस्टम गुण निकाल सकते हैं। कस्टम गुण निकालने के लिए, [WordumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/wordumentpropertycollection#remove(java.lang.String)) विधि को कॉल करें और इसका नाम दें दस्तावेज़ संपत्ति को हटाया जाना है।
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java

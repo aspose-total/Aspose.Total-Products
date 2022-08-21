@@ -20,7 +20,7 @@ otherformats: FLATOPC WORD DOTM OTT DOCX DOCM ODT DOT TEXT DOC DOTX RTF
 {{% blocks/products/pf/agp/feature-section-col title="पीओटी को डीओसी में बदलने के लिए सी++ एपीआई" %}}
 1. [प्रस्तुति](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) वर्ग संदर्भ का उपयोग करके POT फ़ाइल लोड करें
 2. [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) सदस्य funciton का उपयोग करके HTML को POT रेंडर करें और HTML को SaveFormat के रूप में सेट करें
-3. परिवर्तित HTML फ़ाइल को [दस्तावेज़](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument) वर्ग संदर्भ का उपयोग करके लोड करें
+3. परिवर्तित HTML फ़ाइल को [Document](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument) वर्ग संदर्भ का उपयोग करके लोड करें
 4. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument#save_string) सदस्य fucntion का उपयोग करके दस्तावेज़ को WORDML प्रारूप में सहेजें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

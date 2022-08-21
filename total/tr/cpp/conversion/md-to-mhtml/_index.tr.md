@@ -18,7 +18,7 @@ otherformats: DOTM WORDML DOT DOTX ODT DOCM OTT XAMLFLOW PCL RTF PS FLATOPC
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="MD'yi MHTML'ye Oluşturmak için C++ API'si" %}}
-1. [Belge](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) sınıf referansını kullanarak MD dosyasını açın
+1. [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) sınıf referansını kullanarak MD dosyasını açın
 2. [Kaydet](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#adb8061c585440fde49c1263e68837f01) üye işlevini kullanarak MD'yi DOC'ye dönüştürün
 3. Aspose.Words API'sinin [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) sınıf referansını kullanarak DOC dosyasını yükleyin
 4. [Kaydet](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stream_saveformat) üye işlevini kullanarak belgeyi MHTML biçiminde kaydedin

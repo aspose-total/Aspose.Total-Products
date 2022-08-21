@@ -18,7 +18,7 @@ otherformats: PPSX PPSM PPTX PPTM POTM POT PPS POTX POWERPOINT ODP
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++'da DOCX'den PPT'ye Dönüştürme" %}}
-1. [Belge](https://reference.aspose.com/words/cpp/class/aspose.words.docxument) sınıf referansını kullanarak DOCX dosyasını açın
+1. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docxument) sınıf referansını kullanarak DOCX dosyasını açın
 2. [Kaydet](https://reference.aspose.com/words/cpp/class/aspose.words.docxument#save_stdbasicostream_saveoptions) üye işlevini kullanarak DOCX'yi HTML'ye dönüştürün
 3. Yeni bir [Sunum](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) nesnesini başlatın
 4. Slaytınıza bir Otomatik Şekil ekleyin ve buna AddTextFrame ekleyin

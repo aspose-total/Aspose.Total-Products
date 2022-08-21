@@ -18,7 +18,7 @@ U kunt de DOCM-naar-XLTX-conversiefunctie eenvoudig in uw C++-toepassingen opnem
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API om DOCM naar XLTX te converteren" %}}
-1. Open DOCM-bestand met behulp van [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument) klasseverwijzing
+1. Open DOCM-bestand met behulp van [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument) klasseverwijzing
 2. Converteer DOCM naar HTML met behulp van [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string_saveformat) lidfunctie
 3. Laad HTML-docmument met behulp van [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) klasseverwijzing
 4. Sla het docmument op in XLTX-indeling met behulp van [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) lidfunctie
@@ -38,7 +38,7 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Toegang tot DOCM-docmumenteigenschappen via C++" %}}
-[Aspose.Words for C++](https://products.aspose.com/words/cpp/) geeft u ook toegang tot docmumenteigenschappen van het DOCM-bestand en laat u een weloverwogen beslissing nemen vóór het conversieproces. Voor toegang tot docmumenteigenschappen kunt u [BuiltInDocmumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_docmument_properties) gebruiken om ingebouwde eigenschappen en [CustomDocmumentProperties](https://https://reference.aspose.com/words/cpp/class/aspose.words.properties.custom_docmument_properties) om aangepaste eigenschappen te verkrijgen. Het volgende codevoorbeeld laat zien hoe u alle ingebouwde en aangepaste eigenschappen in een docmument kunt opsommen.
+[Aspose.Words for C++](https://products.aspose.com/words/cpp/) geeft u ook toegang tot docmumenteigenschappen van het DOCM-bestand en laat u een weloverwogen beslissing nemen vóór het conversieproces. Voor toegang tot docmumenteigenschappen kunt u [BuiltInDocumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_docmument_properties) gebruiken om ingebouwde eigenschappen en [CustomDocumentProperties](https://https://reference.aspose.com/words/cpp/class/aspose.words.properties.custom_docmument_properties) om aangepaste eigenschappen te verkrijgen. Het volgende codevoorbeeld laat zien hoe u alle ingebouwde en aangepaste eigenschappen in een docmument kunt opsommen.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-docmument-properties.cs" >}}
@@ -46,7 +46,7 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="XLTX-bestand opslaan om te streamen via C++" %}}
-Na het converteren van DOCM naar XLTX, kunt u met [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) uw docmument opslaan om te streamen. Om bestanden in een stream op te slaan, maakt u een MemoryStream- of FileStream-object en slaat u het bestand op in dat stream-object door [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) aan te roepen. object's [Opslaan](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) methode. Specificeer het gewenste bestandsformaat met behulp van de [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) opsomming bij het aanroepen van de [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) methode.
+Na het converteren van DOCM naar XLTX, kunt u met [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) uw docmument opslaan om te streamen. Om bestanden in een stream op te slaan, maakt u een MemoryStream- of FileStream-object en slaat u het bestand op in dat stream-object door [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) aan te roepen. object's [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) methode. Specificeer het gewenste bestandsformaat met behulp van de [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) opsomming bij het aanroepen van de [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) methode.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "save-excel-to-stream.cpp" >}}

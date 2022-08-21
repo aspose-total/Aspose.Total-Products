@@ -13,15 +13,15 @@ otherformats: XLAM XLTX TSV FODS XLT DIF CSV EXCEL XLSB XLS XLSM XLTM SXC ODS
 {{< blocks/products/pf/feature-page-header h1="Převeďte DOTM do formátu JSON pomocí C++" h2="Exportujte DOTM do JSON přes C++ bez použití Microsoft<sup>&reg;</sup> Word nebo Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Pomocí [Aspose.Total for C++](https://products.aspose.com/total/cpp/) můžete převést DOTM do formátu JSON ve svých aplikacích C++. Za prvé, pomocí [Aspose.Words pro C++](https://products.aspose.com/words/cpp/) můžete exportovat DOTM do HTML. Poté můžete pomocí [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) převést HTML do formátu JSON. 
+Pomocí [Aspose.Total for C++](https://products.aspose.com/total/cpp/) můžete převést DOTM do formátu JSON ve svých aplikacích C++. Za prvé, pomocí [Aspose.Words for C++](https://products.aspose.com/words/cpp/) můžete exportovat DOTM do HTML. Poté můžete pomocí [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) převést HTML do formátu JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Převeďte DOTM do formátu JSON pomocí C++" %}}
 1. Otevřete soubor DOTM pomocí odkazu třídy [Dotmument](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument)
-2. Převeďte DOTM do HTML pomocí členské funkce [Uložit](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument#save_string_saveformat)
+2. Převeďte DOTM do HTML pomocí členské funkce [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument#save_string_saveformat)
 3. Načtěte dokument HTML pomocí odkazu třídy [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
-4. Uložte dokument do formátu JSON pomocí členské funkce [Uložit](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
+4. Uložte dokument do formátu JSON pomocí členské funkce [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}

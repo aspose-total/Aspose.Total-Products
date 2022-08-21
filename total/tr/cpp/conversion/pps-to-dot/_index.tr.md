@@ -20,7 +20,7 @@ otherformats: TEXT WORD ODT DOCX OTT DOTX DOCM DOTM DOC RTF WORDML FLATOPC
 {{% blocks/products/pf/agp/feature-section-col title="PPS'u DOT'a Dönüştürmek için C++ API" %}}
 1. [Sunum](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) sınıf referansını kullanarak PPS dosyasını yükleyin
 2. [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) üye işlevini kullanarak PPS'u HTML'ye dönüştürün ve Html'yi SaveFormat olarak ayarlayın
-3. Dönüştürülen HTML dosyasını [Belge](https://reference.aspose.com/words/cpp/class/aspose.words.dotument) sınıf referansını kullanarak yükleyin
+3. Dönüştürülen HTML dosyasını [Document](https://reference.aspose.com/words/cpp/class/aspose.words.dotument) sınıf referansını kullanarak yükleyin
 4. [Kaydet](https://reference.aspose.com/words/cpp/class/aspose.words.dotument#save_string) üye işlevini kullanarak belgeyi DOT biçiminde kaydedin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

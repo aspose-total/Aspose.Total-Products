@@ -13,13 +13,13 @@ otherformats: PPSX POWERPOINT POTX PPS PPTM PPSM POT POTM ODP XAML OTP PPT
 {{< blocks/products/pf/feature-page-header h1="Vykreslování PCL na SWF v rámci aplikací C++" h2="Převeďte PCL na SWF ve svých aplikacích C++ bez použití Microsoft<sup>&reg;</sup> PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Jste vývojář C++, který chce přidat integraci funkce převodu PCL na SWF do vašich aplikací C++? Můžete to udělat ve dvou jednoduchých krocích. PCL můžete exportovat do PPTX pomocí [Aspose.PDF pro C++](https://products.aspose.com/pdf/cpp/). Za druhé, pomocí [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) můžete převést PPTX na SWF. Obě rozhraní API jsou součástí balíčku [Aspose.Total pro C++](https://products.aspose.com/total/cpp/). 
+Jste vývojář C++, který chce přidat integraci funkce převodu PCL na SWF do vašich aplikací C++? Můžete to udělat ve dvou jednoduchých krocích. PCL můžete exportovat do PPTX pomocí [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/). Za druhé, pomocí [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) můžete převést PPTX na SWF. Obě rozhraní API jsou součástí balíčku [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API pro export PCL do SWF" %}}
 1. Otevřete soubor PCL pomocí odkazu třídy [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)
-2. Převeďte PCL na PPTX pomocí funkce metody [Uložit](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a0184df207563187be7df37b8dbe443f6)
+2. Převeďte PCL na PPTX pomocí funkce metody [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a0184df207563187be7df37b8dbe443f6)
 3. Načtěte dokument PPTX pomocí odkazu třídy [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. Uložte dokument do formátu SWF pomocí členské funkce [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) a nastavte „Swf“ jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -46,7 +46,7 @@ prs->Save(u"output.swf", Aspose::Slides::Export::SaveFormat::Swf);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Změna hesla dokumentu PCL pomocí C++" %}}
-V procesu vykreslování PCL na SWF můžete otevřít heslem chráněný PCL a také změnit jeho heslo. Chcete-li změnit heslo souboru PCL, musíte znát heslo vlastníka tohoto dokumentu. Dokument PDF chráněný heslem můžete načíst pomocí [Aspose.PDF pro C++](https://products.aspose.com/pdf/cpp/) zadáním hesla vlastníka a pomocí metody ChangePasswords heslo změnit.
+V procesu vykreslování PCL na SWF můžete otevřít heslem chráněný PCL a také změnit jeho heslo. Chcete-li změnit heslo souboru PCL, musíte znát heslo vlastníka tohoto dokumentu. Dokument PDF chráněný heslem můžete načíst pomocí [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) zadáním hesla vlastníka a pomocí metody ChangePasswords heslo změnit.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp

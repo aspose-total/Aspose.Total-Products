@@ -13,12 +13,12 @@ otherformats: OTP POTX SWF PPTM XAML POT PPT POTM POWERPOINT ODP PPS PPSM
 {{< blocks/products/pf/feature-page-header h1="Renderizar XML a PPSX dentro de aplicaciones C++" h2="Convierta XML a PPSX dentro de sus aplicaciones C++ sin usar Microsoft<sup>&reg;</sup> PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-¿Es usted un desarrollador de C++ que busca agregar para integrar la función de conversión de XML a PPSX dentro de sus aplicaciones de C++? Puedes hacerlo en dos sencillos pasos. Puede exportar XML a PPTX mediante [Aspose.PDF para C++](https://products.aspose.com/pdf/cpp/). En segundo lugar, al usar [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), puede convertir PPTX a PPSX. Ambas API se incluyen en el paquete [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
+¿Es usted un desarrollador de C++ que busca agregar para integrar la función de conversión de XML a PPSX dentro de sus aplicaciones de C++? Puedes hacerlo en dos sencillos pasos. Puede exportar XML a PPTX mediante [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/). En segundo lugar, al usar [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), puede convertir PPTX a PPSX. Ambas API se incluyen en el paquete [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API de C++ para exportar XML a PPSX" %}}
-1. Abra el archivo XML usando la referencia de clase [Documento](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)
+1. Abra el archivo XML usando la referencia de clase [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)
 2. Convierta XML a PPTX usando la función de método [Guardar](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a0184df207563187be7df37b8dbe443f6)
 3. Cargue el documento PPTX utilizando la referencia de clase [Presentación](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. Guarde el documento en formato PPSX usando la función miembro [Guardar](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) y configure `Ppsx` como SaveFormat
@@ -46,7 +46,7 @@ prs->Save(u"output.ppsx", Aspose::Slides::Export::SaveFormat::Ppsx);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Cambiar la contraseña del documento XML a través de C++" %}}
-En el proceso de convertir XML a PPSX, puede abrir un XML protegido con contraseña y también cambiar su contraseña. Para cambiar la contraseña de un archivo XML, debe conocer la contraseña del propietario de ese documento. Puede cargar un documento PDF protegido con contraseña con [Aspose.PDF para C++](https://products.aspose.com/pdf/cpp/) especificando su contraseña de propietario y usando el método ChangePasswords para cambiar la contraseña.
+En el proceso de convertir XML a PPSX, puede abrir un XML protegido con contraseña y también cambiar su contraseña. Para cambiar la contraseña de un archivo XML, debe conocer la contraseña del propietario de ese documento. Puede cargar un documento PDF protegido con contraseña con [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) especificando su contraseña de propietario y usando el método ChangePasswords para cambiar la contraseña.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp

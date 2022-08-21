@@ -13,7 +13,7 @@ otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 {{< blocks/products/pf/feature-page-header h1="Convertir WORD au format JSON dans Android via Java" h2="Concevez des applications Android pour exporter WORD vers JSON sans utiliser Microsoft<sup>&reg;</sup> Word ou Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Vous pouvez convertir le format WORD au format JSON dans vos applications Android via [Aspose.Total pour Android via Java](https://products.aspose.com/total/android-java/). En utilisant l'API de manipulation et de conversion de worduments [Aspose.Words pour Android via Java](https://products.aspose.com/words/android-java/), vous pouvez exporter WORD vers HTML. Après cela, en utilisant [Aspose.Cells pour Android via Java](https://products.aspose.com/cells/android-java/), vous pouvez convertir HTML en JSON. 
+Vous pouvez convertir le format WORD au format JSON dans vos applications Android via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). En utilisant l'API de manipulation et de conversion de worduments [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/), vous pouvez exporter WORD vers HTML. Après cela, en utilisant [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), vous pouvez convertir HTML en JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Vous pouvez convertir le format WORD au format JSON dans vos applications Androi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
-Vous pouvez facilement utiliser Aspose.Total pour Android via Java directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et installer des bibliothèques dans votre application.
+Vous pouvez facilement utiliser Aspose.Total for Android via Java directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et installer des bibliothèques dans votre application.
 
 Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

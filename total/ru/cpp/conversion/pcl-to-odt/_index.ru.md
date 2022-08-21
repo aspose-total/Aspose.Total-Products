@@ -13,12 +13,12 @@ otherformats: MARKDOWN MHTML DOT RTF FLATOPC OTT DOTM PS DOTX WORDML XAMLFLOW DO
 {{< blocks/products/pf/feature-page-header h1="C++ API для экспорта PCL в ODT" h2="Рендеринг PCL в ODT в приложениях C++ без использования каких-либо сторонних приложений." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Библиотеки автоматизации форматов файлов [Aspose.Total for C++](https://products.aspose.com/total/cpp/) позволяют разработчикам C++ преобразовывать PCL в ODT в два простых шага. Во-первых, вы можете использовать API [Aspose.PDF для C++](https://products.aspose.com/pdf/cpp/) для преобразования формата файла PCL в DOC. Во-вторых, используя расширенный API обработки документов Word [Aspose.Words для C++](https://products.aspose.com/words/cpp/), вы можете экспортировать DOC в ODT. 
+Библиотеки автоматизации форматов файлов [Aspose.Total for C++](https://products.aspose.com/total/cpp/) позволяют разработчикам C++ преобразовывать PCL в ODT в два простых шага. Во-первых, вы можете использовать API [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) для преобразования формата файла PCL в DOC. Во-вторых, используя расширенный API обработки документов Word [Aspose.Words for C++](https://products.aspose.com/words/cpp/), вы можете экспортировать DOC в ODT. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API для рендеринга PCL в ODT" %}}
-1. Откройте файл PCL, используя ссылку на класс [Документ](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document).
+1. Откройте файл PCL, используя ссылку на класс [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document).
 2. Преобразуйте PCL в DOC с помощью функции-члена [Сохранить](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#adb8061c585440fde49c1263e68837f01).
 3. Загрузите файл DOC, используя ссылку на класс [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) API Aspose.Words.
 4. Сохраните документ в формате ODT, используя функцию-член [Сохранить](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stream_saveformat).

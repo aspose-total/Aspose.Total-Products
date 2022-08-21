@@ -13,7 +13,7 @@ otherformats: XLSB ODS CSV XLS XLTX EXCEL TSV DIF XLAM MARKDOWN XLTM XLSM SXC XL
 {{< blocks/products/pf/feature-page-header h1="Java ile Android'de POWERPOINT'u XLSX'ye dönüştürün" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan Android uygulamalarında POWERPOINT dosyasını XLSX'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) aracılığıyla iki aşamalı bir işlemle POWERPOINT dosyasını Android uygulamalarınızda kolayca XLSX'ye dönüştürebilirsiniz. İlk adımda, [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) kullanarak POWERPOINT dosyasını HTML'ye aktarabilirsiniz. İkinci olarak, [Java üzerinden Aspose.Cells for Android](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi XLSX'ye dönüştürebilirsiniz. 
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) aracılığıyla iki aşamalı bir işlemle POWERPOINT dosyasını Android uygulamalarınızda kolayca XLSX'ye dönüştürebilirsiniz. İlk adımda, [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) kullanarak POWERPOINT dosyasını HTML'ye aktarabilirsiniz. İkinci olarak, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi XLSX'ye dönüştürebilirsiniz. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

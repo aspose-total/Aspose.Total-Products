@@ -19,9 +19,9 @@ otherformats: DOT WORD DOC ODT DOTX DOTM OTT DOCM WORDML FLATOPC RTF TEXT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="POWERPOINTをDOCXに変換するC++API" %}}
 1. [プレゼンテーション](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)クラスリファレンスを使用してPOWERPOINTファイルをロードします
-2. [保存](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e)メンバー関数を使用してPOWERPOINTをHTMLにレンダリングし、HtmlをSaveFormatとして設定します
+2. [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e)メンバー関数を使用してPOWERPOINTをHTMLにレンダリングし、HtmlをSaveFormatとして設定します
 3. [ドキュメント](https://reference.aspose.com/words/cpp/class/aspose.words.docxument)クラスリファレンスを使用して、変換されたHTMLファイルをロードします
-4. [保存](https://reference.aspose.com/words/cpp/class/aspose.words.docxument#save_string)メンバー機能を使用して、ドキュメントをDOCX形式で保存します。
+4. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docxument#save_string)メンバー機能を使用して、ドキュメントをDOCX形式で保存します。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

@@ -13,12 +13,12 @@ otherformats: XLS XLSX FODS EXCEL XLSM XLT XLAM DIF TSV XLTX ODS XLTM CSV SXC
 {{< blocks/products/pf/feature-page-header h1="API C++ pour convertir DOCM en XLSB" h2="Exportez DOCM vers XLSB via C++ sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Vous pouvez facilement inclure la fonction de conversion DOCM en XLSB dans vos applications C++. En utilisant l'API de manipulation et de conversion de docmuments riche en fonctionnalités, puissante et facile à utiliser [Aspose.Words pour C++](https://products.aspose.com/words/cpp/), vous pouvez exporter du DOCM vers HTML. Après cela, en utilisant [Aspose.Cells pour C++](https://products.aspose.com/cells/cpp/), vous pouvez convertir HTML en XLSB. Les deux API relèvent du package [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
+Vous pouvez facilement inclure la fonction de conversion DOCM en XLSB dans vos applications C++. En utilisant l'API de manipulation et de conversion de docmuments riche en fonctionnalités, puissante et facile à utiliser [Aspose.Words for C++](https://products.aspose.com/words/cpp/), vous pouvez exporter du DOCM vers HTML. Après cela, en utilisant [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), vous pouvez convertir HTML en XLSB. Les deux API relèvent du package [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API C++ pour convertir DOCM en XLSB" %}}
-1. Ouvrez le fichier DOCM à l'aide de la référence de classe [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
+1. Ouvrez le fichier DOCM à l'aide de la référence de classe [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
 2. Convertir DOCM en HTML en utilisant la fonction membre [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string_saveformat)
 3. Chargez le docmument HTML à l'aide de la référence de classe [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
 4. Enregistrez le docmument au format XLSB à l'aide de la fonction membre [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
@@ -38,7 +38,7 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Accéder aux propriétés du docmument DOCM via C++" %}}
-[Aspose.Words pour C++](https://products.aspose.com/words/cpp/) vous permet également d'accéder aux propriétés du docmument du fichier DOCM et vous permet de prendre une décision éclairée avant le processus de conversion. Pour accéder aux propriétés du docmument, vous pouvez utiliser [BuiltInDocmumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_docmument_properties) pour obtenir les propriétés intégrées et [CustomDocmumentProperties](https://https://reference.aspose.com/words/cpp/class/aspose.words.properties.custom_docmument_properties) pour obtenir des propriétés personnalisées. L'exemple de code suivant montre comment énumérer toutes les propriétés intégrées et personnalisées dans un docmument.
+[Aspose.Words for C++](https://products.aspose.com/words/cpp/) vous permet également d'accéder aux propriétés du docmument du fichier DOCM et vous permet de prendre une décision éclairée avant le processus de conversion. Pour accéder aux propriétés du docmument, vous pouvez utiliser [BuiltInDocumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_docmument_properties) pour obtenir les propriétés intégrées et [CustomDocumentProperties](https://https://reference.aspose.com/words/cpp/class/aspose.words.properties.custom_docmument_properties) pour obtenir des propriétés personnalisées. L'exemple de code suivant montre comment énumérer toutes les propriétés intégrées et personnalisées dans un docmument.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-docmument-properties.cs" >}}

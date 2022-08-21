@@ -18,12 +18,12 @@ otherformats: POTM PPT POT PPSM POTX PPSX POWERPOINT ODP PPTX PPTM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversione da DOCM a PPS su C++" %}}
-1. Aprire il file DOCM utilizzando [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument) riferimento alla classe
+1. Aprire il file DOCM utilizzando [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument) riferimento alla classe
 2. Converti DOCM in HTML utilizzando la funzione membro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_stdbasicostream_saveoptions)
 3. Inizializzare un nuovo oggetto [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. Aggiungi una forma nella diapositiva e aggiungi AddTextFrame in essa
 5. Carica il contenuto HTML e scrivilo nel tuo file di presentazione
-6. Salva il docmumento in formato PPS utilizzando il metodo [Salva](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) e imposta Pps come SaveFormat
+6. Salva il docmumento in formato PPS utilizzando il metodo [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) e imposta Pps come SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
@@ -34,9 +34,9 @@ In alternativa, scarica il programma di installazione MSI offline o le DLL in un
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp
-// load DOCM file with an instance of Docmument
-Docmument docmument = new Docmument("template.docm");
-System::SharedPtr<Docmument> docm = System::MakeObject<Docmument>(u"sourceFile.docm");
+// load DOCM file with an instance of Document
+Document docmument = new Document("template.docm");
+System::SharedPtr<Document> docm = System::MakeObject<Document>(u"sourceFile.docm");
 // save the docmument in HTML file format
 docm->Save(u"HtmlOutput.HTML");
 // load the desired the presentation
@@ -74,7 +74,7 @@ Oltre alla conversione dei docmumenti, l'API [Aspose.Words for C++](https://prod
 // when loading password protected docmument, the password is passed to the docmument's constructor using a LoadOptions object.
 auto options = MakeObject<LoadOptions>(u"docmPassword");
 // load the docmument from the local file system by filename:
-SharedPtr<Docmument> docm = MakeObject<Docmument>(u"Encrypted.docm", options);
+SharedPtr<Document> docm = MakeObject<Document>(u"Encrypted.docm", options);
 ```
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

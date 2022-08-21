@@ -13,15 +13,15 @@ otherformats: PCL BMP EMF MD GIF OTT DOTX PNG PS EPUB DOT DOCM FLATOPC DOCX SVG 
 {{< blocks/products/pf/feature-page-header h1="C++ API pro export OFT do PDF" h2="Transformujte OFT na PDF v rámci aplikace C++ bez nutnosti aplikace Microsoft Word nebo Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Jste vývojář C++ a chcete do svých aplikací přidat funkce pro převod e-mailů? Pomocí [Aspose.Oft for C++](https://products.aspose.com/oft/cpp/) můžete převést formát souboru OFT do HTML. Poté můžete pomocí [Aspose.Words for C++](https://products.aspose.com/words/cpp/) API exportovat HTML do PDF. Obě rozhraní API jsou součástí balíčku [Aspose.Total pro C++](https://products.aspose.com/total/cpp/). 
+Jste vývojář C++ a chcete do svých aplikací přidat funkce pro převod e-mailů? Pomocí [Aspose.Oft for C++](https://products.aspose.com/oft/cpp/) můžete převést formát souboru OFT do HTML. Poté můžete pomocí [Aspose.Words for C++](https://products.aspose.com/words/cpp/) API exportovat HTML do PDF. Obě rozhraní API jsou součástí balíčku [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API pro převod OFT na PDF" %}}
 1. Otevřete soubor OFT pomocí odkazu třídy [MailMessage](https://reference.aspose.com/oft/cpp/class/aspose.oft.mail_message)
-2. Převeďte OFT na HTML pomocí členské funkce [Uložit](https://reference.aspose.com/oft/cpp/class/aspose.oft.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
+2. Převeďte OFT na HTML pomocí členské funkce [Save](https://reference.aspose.com/oft/cpp/class/aspose.oft.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
 3. Načtěte HTML pomocí třídy [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
-4. Uložte dokument do formátu PDF pomocí metody [Uložit](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) a nastavte Pdf jako SaveFormat
+4. Uložte dokument do formátu PDF pomocí metody [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) a nastavte Pdf jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}

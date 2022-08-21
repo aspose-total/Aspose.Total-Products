@@ -13,7 +13,7 @@ otherformats: DOCM MHTML RTF PCL OTT FLATOPC DOTM MARKDOWN XAMLFLOW DOT WORDML D
 {{< blocks/products/pf/feature-page-header h1="API C++ pour exporter XPS vers ODT" h2="Rendre XPS en ODT dans les applications C++ sans nécessiter d'application tierce" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Les bibliothèques d'automatisation de format de fichier [Aspose.Total pour C++](https://products.aspose.com/total/cpp/) permettent aux développeurs C++ de convertir XPS en ODT en deux étapes simples. Tout d'abord, vous pouvez utiliser l'API [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) pour convertir le format de fichier XPS en DOC. Deuxièmement, en utilisant l'API avancée de traitement de documents Word [Aspose.Words pour C++](https://products.aspose.com/words/cpp/), vous pouvez exporter DOC vers ODT. 
+Les bibliothèques d'automatisation de format de fichier [Aspose.Total for C++](https://products.aspose.com/total/cpp/) permettent aux développeurs C++ de convertir XPS en ODT en deux étapes simples. Tout d'abord, vous pouvez utiliser l'API [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) pour convertir le format de fichier XPS en DOC. Deuxièmement, en utilisant l'API avancée de traitement de documents Word [Aspose.Words for C++](https://products.aspose.com/words/cpp/), vous pouvez exporter DOC vers ODT. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -46,7 +46,7 @@ wordDoc->Save(u"output.Odt");
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Changer le mot de passe du document XPS via C++" %}}
-Lors du processus de conversion de XPS en ODT, vous pouvez ouvrir un XPS protégé par mot de passe et également modifier son mot de passe. Pour changer le mot de passe d'un fichier XPS, vous devez connaître le mot de passe du propriétaire de ce document. Vous pouvez charger un document PDF protégé par mot de passe avec [Aspose.PDF pour C++](https://products.aspose.com/pdf/cpp/) en spécifiant son mot de passe propriétaire et en utilisant la méthode ChangePasswords pour changer le mot de passe.
+Lors du processus de conversion de XPS en ODT, vous pouvez ouvrir un XPS protégé par mot de passe et également modifier son mot de passe. Pour changer le mot de passe d'un fichier XPS, vous devez connaître le mot de passe du propriétaire de ce document. Vous pouvez charger un document PDF protégé par mot de passe avec [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) en spécifiant son mot de passe propriétaire et en utilisant la méthode ChangePasswords pour changer le mot de passe.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp

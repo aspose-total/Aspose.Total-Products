@@ -20,7 +20,7 @@ otherformats: TEXT RTF DOCX DOT ODT DOTX DOTM FLATOPC OTT WORDML WORD DOC
 {{% blocks/products/pf/agp/feature-section-col title="將 POWERPOINT 轉換為 DOCM 的 C++ API" %}}
 1. 使用 [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) 類參考加載 POWERPOINT 文件
 2. 使用 [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) 成員函數將 POWERPOINT 渲染為 HTML 並將 Html 設置為 SaveFormat
-3. 使用 [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument) 類引用加載轉換後的 HTML 文件
+3. 使用 [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument) 類引用加載轉換後的 HTML 文件
 4. 使用[保存](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string)成員函數將文檔保存為DOCM格式
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -35,8 +35,8 @@ otherformats: TEXT RTF DOCX DOT ODT DOTX DOTM FLATOPC OTT WORDML WORD DOC
 SharedPtr<Presentation> prs = MakeObject<Presentation>(u"input.pptx");
 // Save presentation in HTML format.
 prs->Save(u"htmlOutput.html", Aspose::Slides::Export::SaveFormat::Html);
-// load HTML with an instance of Docmument
-System::SharedPtr<Docmument> docm = System::MakeObject<Docmument>(u"htmlOutput.html");
+// load HTML with an instance of Document
+System::SharedPtr<Document> docm = System::MakeObject<Document>(u"htmlOutput.html");
 // save docmument in DOCM format
 docm->Save(u"output.docm"); 
 ```

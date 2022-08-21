@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: WORD POWERPOINT DOC DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi TSV ke PPTX melalui C++" h2="Ekspor Excel&reg; TSV ke PPTX dalam aplikasi C++ yang berfungsi penuh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi TSV ke PPTX melalui C++" h2="Ekspor Excel<sup>&reg;</sup> TSV ke PPTX dalam aplikasi C++ yang berfungsi penuh" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konversi TSV ke PPTX di C++" %}}

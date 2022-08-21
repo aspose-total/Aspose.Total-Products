@@ -13,7 +13,7 @@ otherformats: PDF TEXT PS ODT PCL DOTM DOT RTF FLATOPC EMF OTT PNG SVG TIFF JPEG
 {{< blocks/products/pf/feature-page-header h1="API C++ để xuất EML sang BMP" h2="Chuyển đổi EML thành BMP trong ứng dụng C++ mà không yêu cầu Microsoft Word hoặc Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Bạn là nhà phát triển C++ đang muốn thêm các tính năng chuyển đổi eml vào bên trong các ứng dụng của mình? Sử dụng [Aspose.Eml for C++](https://products.aspose.com/eml/cpp/), bạn có thể chuyển đổi định dạng tệp EML sang HTML. Sau đó, bằng cách sử dụng API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), bạn có thể xuất HTML sang BMP. Cả hai API đều nằm trong gói [Aspose.Total cho C++](https://products.aspose.com/total/cpp/). 
+Bạn là nhà phát triển C++ đang muốn thêm các tính năng chuyển đổi eml vào bên trong các ứng dụng của mình? Sử dụng [Aspose.Eml for C++](https://products.aspose.com/eml/cpp/), bạn có thể chuyển đổi định dạng tệp EML sang HTML. Sau đó, bằng cách sử dụng API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), bạn có thể xuất HTML sang BMP. Cả hai API đều nằm trong gói [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -27,7 +27,7 @@ Bạn là nhà phát triển C++ đang muốn thêm các tính năng chuyển đ
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
 Cài đặt từ dòng lệnh là `` nuget install Aspose.Total.Cpp '' hoặc thông qua Package Manager Console của Visual Studio với `` Install-Package Aspose.Total.Cpp ''.
 
-Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://downloads.aspose.com/total/cpp).
+Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [download](https://downloads.aspose.com/total/cpp).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: WORD DOCX POWERPOINT PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera CSV till DOC via C++" h2="Exportera Excel&reg; CSV till DOC inom fullfunktionella C++-applikationer" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera CSV till DOC via C++" h2="Exportera Excel<sup>&reg;</sup> CSV till DOC inom fullfunktionella C++-applikationer" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="CSV till DOC-konvertering på C++" %}}

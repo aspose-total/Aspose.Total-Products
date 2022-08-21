@@ -13,7 +13,7 @@ otherformats: MOBI ODT DOTX DOT RTF EPUB CHM PCL DOC PS WORD OTT DOCM FLATOPC
 {{< blocks/products/pf/feature-page-header h1="Convertir le format JSON en WORDML via C++" h2="Analyse JSON vers WORDML dans les applications C++ sans utiliser Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour C++](https://products.aspose.com/total/cpp/), vous pouvez analyser JSON en WORDML dans vos applications C++ en deux étapes simples. Tout d'abord, en utilisant [Aspose.Cells pour C++](https://products.aspose.com/cells/cpp/), vous pouvez exporter JSON au format PDF. Après cela, en utilisant [Aspose.Words pour C++](https://products.aspose.com/words/cppp/), vous pouvez convertir un PDF en WORDML. 
+En utilisant [Aspose.Total for C++](https://products.aspose.com/total/cpp/), vous pouvez analyser JSON en WORDML dans vos applications C++ en deux étapes simples. Tout d'abord, en utilisant [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), vous pouvez exporter JSON au format PDF. Après cela, en utilisant [Aspose.Words for C++](https://products.aspose.com/words/cppp/), vous pouvez convertir un PDF en WORDML. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

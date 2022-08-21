@@ -13,7 +13,7 @@ otherformats: DOTX DOCM WORDML OTT WORD MOBI PCL DOT ODT FLATOPC CHM DOC PS RTF
 {{< blocks/products/pf/feature-page-header h1="Μετατρέψτε τη μορφή JSON σε EPUB μέσω C++" h2="Ανάλυση JSON σε EPUB σε εφαρμογές C++ χωρίς χρήση Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Χρησιμοποιώντας το [Aspose.Total for C++](https://products.aspose.com/total/cpp/) μπορείτε να αναλύσετε το JSON σε EPUB στις εφαρμογές σας C++ με δύο απλά βήματα. Πρώτον, χρησιμοποιώντας το [Aspose.Cells για C++](https://products.aspose.com/cells/cpp/), μπορείτε να εξαγάγετε το JSON σε PDF. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Words for C++](https://products.aspose.com/words/cppp/), μπορείτε να μετατρέψετε το PDF σε EPUB. 
+Χρησιμοποιώντας το [Aspose.Total for C++](https://products.aspose.com/total/cpp/) μπορείτε να αναλύσετε το JSON σε EPUB στις εφαρμογές σας C++ με δύο απλά βήματα. Πρώτον, χρησιμοποιώντας το [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), μπορείτε να εξαγάγετε το JSON σε PDF. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Words for C++](https://products.aspose.com/words/cppp/), μπορείτε να μετατρέψετε το PDF σε EPUB. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

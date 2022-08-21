@@ -13,7 +13,7 @@ otherformats: XLS EXCEL MHTML XLAM ODS XLTM FODS DIF CSV XLT MARKDOWN XLSX SXC X
 {{< blocks/products/pf/feature-page-header h1="Konvertera POWERPOINT till TSV via C++" h2="POWERPOINT till TSV-filkonvertering via C++ utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Genom att använda [Aspose.Total för C++](https://products.aspose.com/total/cpp/) kan du konvertera POWERPOINT-fil till TSV inom C++-applikationer i två enkla steg. För det första, genom att använda [Aspose.Slides för C++](https://products.aspose.com/slides/cpp/), kan du exportera POWERPOINT till HTML. Efter det, genom att använda [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, kan du konvertera HTML till TSV. 
+Genom att använda [Aspose.Total for C++](https://products.aspose.com/total/cpp/) kan du konvertera POWERPOINT-fil till TSV inom C++-applikationer i två enkla steg. För det första, genom att använda [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), kan du exportera POWERPOINT till HTML. Efter det, genom att använda [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, kan du konvertera HTML till TSV. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -21,7 +21,7 @@ Genom att använda [Aspose.Total för C++](https://products.aspose.com/total/cpp
 1. Öppna POWERPOINT-filen med [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) klassreferens
 2. Konvertera POWERPOINT till HTML med metoden [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba)
 3. Ladda HTML-dokument med hjälp av klassreferens [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
-4. Spara dokumentet i TSV-format med metoden [Spara](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
+4. Spara dokumentet i TSV-format med metoden [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}

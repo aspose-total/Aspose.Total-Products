@@ -13,19 +13,19 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 {{< blocks/products/pf/feature-page-header h1="Converti ODP in formato JSON in Android tramite Java" h2="Progetta applicazioni Android per esportare ODP in JSON senza utilizzare Microsoft<sup>&reg;</sup> Word o Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Puoi convertire ODP in formato JSON nelle tue applicazioni Android tramite [Aspose.Total per Android via Java](https://products.aspose.com/total/android-java/). Utilizzando l'API di conversione e manipolazione dei odpumenti [Aspose.Words per Android tramite Java](https://products.aspose.com/words/android-java/), puoi esportare ODP in HTML. Successivamente, utilizzando [Aspose.Cells per Android tramite Java](https://products.aspose.com/cells/android-java/), puoi convertire HTML in JSON. 
+Puoi convertire ODP in formato JSON nelle tue applicazioni Android tramite [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Utilizzando l'API di conversione e manipolazione dei odpumenti [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/), puoi esportare ODP in HTML. Successivamente, utilizzando [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), puoi convertire HTML in JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converti ODP in formato JSON in Android" %}}
 1. Aprire il file ODP utilizzando la classe [Odpument](https://reference.aspose.com/words/java/com.aspose.words/Odpument)
-2. Converti ODP in HTML utilizzando [Salva](https://reference.aspose.com/words/java/com.aspose.words/Odpument#save(java.lang.String,com.aspose.words.SaveOptions) ) metodo
+2. Converti ODP in HTML utilizzando [Save](https://reference.aspose.com/words/java/com.aspose.words/Odpument#save(java.lang.String,com.aspose.words.SaveOptions) ) metodo
 3. Carica il odpumento HTML utilizzando la classe [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Salvare il odpumento in formato JSON utilizzando [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
-Puoi facilmente utilizzare Aspose.Total per Android tramite Java direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e installa le librerie nella tua app.
+Puoi facilmente utilizzare Aspose.Total for Android via Java direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e installa le librerie nella tua app.
 
 In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

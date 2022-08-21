@@ -13,7 +13,7 @@ otherformats: DOTM XAMLFLOW MARKDOWN WORDML FLATOPC MHTML PS DOTX DOCM PCL ODT D
 {{< blocks/products/pf/feature-page-header h1="C++-API zum Exportieren von MD nach OTT" h2="Rendern Sie MD in OTT innerhalb von C++-Anwendungen, ohne dass eine Anwendung eines Drittanbieters erforderlich ist" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/)-Dateiformat-Automatisierungsbibliotheken ermöglichen es C++-Entwicklern, MD in zwei einfachen Schritten in OTT zu konvertieren. Erstens können Sie die API [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) verwenden, um das MD-Dateiformat in DOC zu konvertieren. Zweitens können Sie durch Verwendung der erweiterten Word-Dokumentverarbeitungs-API [Aspose.Words für C++](https://products.aspose.com/words/cpp/) DOC nach OTT exportieren. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/)-Dateiformat-Automatisierungsbibliotheken ermöglichen es C++-Entwicklern, MD in zwei einfachen Schritten in OTT zu konvertieren. Erstens können Sie die API [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) verwenden, um das MD-Dateiformat in DOC zu konvertieren. Zweitens können Sie durch Verwendung der erweiterten Word-Dokumentverarbeitungs-API [Aspose.Words for C++](https://products.aspose.com/words/cpp/) DOC nach OTT exportieren. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,7 @@ otherformats: POWERPOINT POT ODP PPTX PPS PPTM PPT POTX POTM PPSX
 {{< blocks/products/pf/feature-page-header h1="Konwertuj DOTX na PPSM w aplikacjach na Androida" h2="Konwersja DOTX na PPSM w aplikacjach na Androida bez instalowania programu Microsoft Word<sup>&reg;</sup> lub PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Czy jesteś programistą Androida i chcesz dodać funkcję konwersji dokumentów do swojej aplikacji? [Aspose.Total dla Androida przez Javę](https://products.aspose.com/total/android-java/) Biblioteki File Format Automation mogą pomóc zautomatyzować proces konwersji dokumentów w aplikacjach na Androida. Aby przekonwertować plik DOTX na PPSM, możesz najpierw użyć interfejsu API do manipulacji dokumentami [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/), aby przekonwertować format pliku DOTX na HTML. Następnie za pomocą interfejsu API programu PowerPoint [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) możesz utworzyć nową prezentację, zapisać w niej zawartość HTML i zapisać ją jako PPSM. 
+Czy jesteś programistą Androida i chcesz dodać funkcję konwersji dokumentów do swojej aplikacji? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Biblioteki File Format Automation mogą pomóc zautomatyzować proces konwersji dokumentów w aplikacjach na Androida. Aby przekonwertować plik DOTX na PPSM, możesz najpierw użyć interfejsu API do manipulacji dokumentami [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/), aby przekonwertować format pliku DOTX na HTML. Następnie za pomocą interfejsu API programu PowerPoint [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) możesz utworzyć nową prezentację, zapisać w niej zawartość HTML i zapisać ją jako PPSM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -26,7 +26,7 @@ Czy jesteś programistą Androida i chcesz dodać funkcję konwersji dokumentów
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
-Do konwersji plików DOTX na PPSM możesz łatwo użyć Aspose.Total dla Androida przez Javę bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i zainstaluj biblioteki w swojej aplikacji.
+Do konwersji plików DOTX na PPSM możesz łatwo użyć Aspose.Total for Android via Java bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i zainstaluj biblioteki w swojej aplikacji.
 
 Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

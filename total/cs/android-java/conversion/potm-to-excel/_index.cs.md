@@ -13,7 +13,7 @@ otherformats: DIF XLAM FODS XLT XLSM XLSX ODS TSV XLTM MARKDOWN MHTML XLSB SXC X
 {{< blocks/products/pf/feature-page-header h1="Převeďte POTM na EXCEL v Androidu přes Java" h2="Exportujte soubor POTM do EXCEL v aplikacích pro Android bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Soubor POTM můžete snadno převést na EXCEL ve svých aplikacích pro Android ve dvou krocích prostřednictvím [Aspose.Total pro Android přes Java](https://products.aspose.com/total/android-java/). V prvním kroku můžete exportovat soubor POTM do HTML pomocí [Aspose.Slides pro Android přes Java](https://products.aspose.com/slides/android-java/). Za druhé, pomocí [Aspose.Cells pro Android přes Java](https://products.aspose.com/cells/android-java/) můžete převést HTML na EXCEL. 
+Soubor POTM můžete snadno převést na EXCEL ve svých aplikacích pro Android ve dvou krocích prostřednictvím [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). V prvním kroku můžete exportovat soubor POTM do HTML pomocí [Aspose.Slides pro Android přes Java](https://products.aspose.com/slides/android-java/). Za druhé, pomocí [Aspose.Cells pro Android přes Java](https://products.aspose.com/cells/android-java/) můžete převést HTML na EXCEL. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

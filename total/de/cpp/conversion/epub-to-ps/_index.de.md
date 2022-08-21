@@ -13,7 +13,7 @@ otherformats: MHTML OTT RTF PCL DOTX XAMLFLOW FLATOPC DOT DOCM DOTM ODT WORDML
 {{< blocks/products/pf/feature-page-header h1="C++-API zum Exportieren von EPUB nach PS" h2="Rendern Sie EPUB in PS innerhalb von C++-Anwendungen, ohne dass eine Anwendung eines Drittanbieters erforderlich ist" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/)-Dateiformat-Automatisierungsbibliotheken ermöglichen es C++-Entwicklern, EPUB in zwei einfachen Schritten in PS zu konvertieren. Erstens können Sie die API [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) verwenden, um das EPUB-Dateiformat in DOC zu konvertieren. Zweitens können Sie durch Verwendung der erweiterten Word-Dokumentverarbeitungs-API [Aspose.Words für C++](https://products.aspose.com/words/cpp/) DOC nach PS exportieren. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/)-Dateiformat-Automatisierungsbibliotheken ermöglichen es C++-Entwicklern, EPUB in zwei einfachen Schritten in PS zu konvertieren. Erstens können Sie die API [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) verwenden, um das EPUB-Dateiformat in DOC zu konvertieren. Zweitens können Sie durch Verwendung der erweiterten Word-Dokumentverarbeitungs-API [Aspose.Words for C++](https://products.aspose.com/words/cpp/) DOC nach PS exportieren. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

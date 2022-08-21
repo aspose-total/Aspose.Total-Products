@@ -13,7 +13,7 @@ otherformats: DOTM TEXT WORD FLATOPC DOT DOCX DOCM WORDML ODT OTT DOTX DOC
 {{< blocks/products/pf/feature-page-header h1="C++ API för att rendera PPS till RTF" h2="Exportera PPS till RTF i C++-applikationer utan några Microsoft PowerPoint- eller Word-beroenden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total för C++](https://products.aspose.com/total/cpp/) är ett komplett paket med C++ filformatsautomatiseringsbibliotek. Genom att använda de rika funktionerna i API:erna som finns i paketet kan vi enkelt konvertera PowerPoint PPS till Word RTF. För att utföra konverteringen kan du först använda [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API för att konvertera PPS till HTML. Därefter kan du konvertera HTML till RTF genom att använda funktionsrika Word Processing API [Aspose.Words for C++](https://products.aspose.com/words/cpp/). 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) är ett komplett paket med C++ filformatsautomatiseringsbibliotek. Genom att använda de rika funktionerna i API:erna som finns i paketet kan vi enkelt konvertera PowerPoint PPS till Word RTF. För att utföra konverteringen kan du först använda [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API för att konvertera PPS till HTML. Därefter kan du konvertera HTML till RTF genom att använda funktionsrika Word Processing API [Aspose.Words for C++](https://products.aspose.com/words/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -19,9 +19,9 @@ otherformats: OTT DOT WORD DOTM TEXT DOC WORDML DOCM DOTX FLATOPC DOCX ODT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API C++ per convertire PPTX in RTF" %}}
 1. Caricare il file PPTX utilizzando [Presentazione](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) riferimento alla classe
-2. Eseguire il rendering di PPTX in HTML utilizzando la funzione membro [Salva](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) e impostare Html come SaveFormat
+2. Eseguire il rendering di PPTX in HTML utilizzando la funzione membro [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) e impostare Html come SaveFormat
 3. Caricare il file HTML convertito utilizzando il riferimento alla classe [Rtfument](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument)
-4. Salvare il rtfumento in formato RTF utilizzando [Salva](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument#save_string) funzione membro
+4. Salvare il rtfumento in formato RTF utilizzando [Save](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument#save_string) funzione membro
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}

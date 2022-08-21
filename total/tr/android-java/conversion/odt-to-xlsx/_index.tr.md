@@ -13,7 +13,7 @@ otherformats: XLAM XLS XLTX ODS DIF FODS XLSM XLTM CSV XLSB EXCEL SXC XLT TSV
 {{< blocks/products/pf/feature-page-header h1="Android Uygulamalarında ODT'yi XLSX'ye Dönüştür" h2="ODT'yi, Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan Java aracılığıyla Android'de XLSX'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Java üzerinden [Aspose.Total for Android](https://products.aspose.com/total/android-java/) kullanarak, android uygulamalarınızda ODT'den XLSX'ye dönüştürme özelliğini entegre edebilirsiniz. İlk olarak, zengin özelliklere sahip belge işleme ve dönüştürme API'sini [Java üzerinden Aspose.Words for Android](https://products.aspose.com/words/android-java/) kullanarak ODT'u HTML'ye dönüştürebilirsiniz. Bundan sonra, [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi XLSX'ye dönüştürebilirsiniz. 
+Java üzerinden [Aspose.Total for Android](https://products.aspose.com/total/android-java/) kullanarak, android uygulamalarınızda ODT'den XLSX'ye dönüştürme özelliğini entegre edebilirsiniz. İlk olarak, zengin özelliklere sahip belge işleme ve dönüştürme API'sini [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) kullanarak ODT'u HTML'ye dönüştürebilirsiniz. Bundan sonra, [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi XLSX'ye dönüştürebilirsiniz. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -46,7 +46,7 @@ ODT'yi XLSX'ye dönüştürmeden önce, kullanılmayan bilgileri [Aspose.Words f
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Java aracılığıyla Android'de Akış için XLSX Dosyasını Kaydet" %}}
-ODT'yi XLSX'ye dönüştürdükten sonra, [Java üzerinden Aspose.Cells for Android](https://products.aspose.com/cells/android-java/), belgenizi akışa kaydetmenizi sağlar. Dosyaları bir Akışa kaydetmeniz gerekiyorsa, bir FileOutputStream nesnesi oluşturmalı ve ardından [kaydet](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) [Çalışma Kitabı](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) kaydetme yöntemini çağırarak bu Stream nesnesine dosya nesne.
+ODT'yi XLSX'ye dönüştürdükten sonra, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), belgenizi akışa kaydetmenizi sağlar. Dosyaları bir Akışa kaydetmeniz gerekiyorsa, bir FileOutputStream nesnesi oluşturmalı ve ardından [kaydet](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) [Çalışma Kitabı](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) kaydetme yöntemini çağırarak bu Stream nesnesine dosya nesne.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}

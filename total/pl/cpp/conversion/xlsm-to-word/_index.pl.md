@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: POWERPOINT PPTX DOC DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj XLSM na WORD za pomocą C++" h2="Eksportuj Excel&reg; XLSM do WORD w ramach w pełni funkcjonalnych aplikacji C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj XLSM na WORD za pomocą C++" h2="Eksportuj Excel<sup>&reg;</sup> XLSM do WORD w ramach w pełni funkcjonalnych aplikacji C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konwersja XLSM do WORD w C++" %}}

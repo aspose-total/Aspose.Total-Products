@@ -13,7 +13,7 @@ otherformats: PPSX PPSM PPTX POTM PPTM POWERPOINT ODP PPT PPS POTX
 {{< blocks/products/pf/feature-page-header h1="C++ API để chuyển đổi OTT sang POT" h2="Xuất OTT sang POT trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word <sup>&reg;</sup>; hoặc PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total cho C++](https://products.aspose.com/total/cpp/) bao gồm các API tự động hóa tệp mạnh mẽ cho phép tự động chuyển đổi OTT sang POT trong khi sử dụng hai trong số các API của nó. Tải OTT của bạn bằng [Aspose. AdWords for C++](https://products.aspose.com/words/cpp/) và chuyển đổi nó thành HTML, sau đó tải HTML thông qua thao tác PowerPoint API C++ [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) để tạo bản trình bày mới và lưu dưới dạng POT. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) bao gồm các API tự động hóa tệp mạnh mẽ cho phép tự động chuyển đổi OTT sang POT trong khi sử dụng hai trong số các API của nó. Tải OTT của bạn bằng [Aspose. AdWords for C++](https://products.aspose.com/words/cpp/) và chuyển đổi nó thành HTML, sau đó tải HTML thông qua thao tác PowerPoint API C++ [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) để tạo bản trình bày mới và lưu dưới dạng POT. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -29,7 +29,7 @@ otherformats: PPSX PPSM PPTX POTM PPTM POWERPOINT ODP PPT PPS POTX
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
 Cài đặt từ dòng lệnh là `` nuget install Aspose.Total.Cpp '' hoặc thông qua Package Manager Console của Visual Studio với `` Install-Package Aspose.Total.Cpp ''.
 
-Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://downloads.aspose.com/total/cpp).
+Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [download](https://downloads.aspose.com/total/cpp).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 
@@ -80,7 +80,7 @@ SharedPtr<Ottument> ott = MakeObject<Ottument>(u"Encrypted.ott", options);
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Thêm nhận xét trong tài liệu POT qua C++" %}}
-Trong khi lưu OTT dưới dạng POT, bạn cũng có thể sử dụng [Aspose.Slides cho C++](https://products.aspose.com/slides/cpp/) để thêm các tính năng khác trong tài liệu POT của mình. Ví dụ, bạn có thể thêm nhận xét trong bản trình bày của mình. Nhận xét của slide trình bày được liên kết với một tác giả cụ thể. Lớp Trình bày có tập hợp các tác giả trong ICommentAuthorCollection chịu trách nhiệm thêm các nhận xét về trang trình bày. Đối với mỗi tác giả, có một bộ sưu tập các nhận xét trong ICommentCollection.
+Trong khi lưu OTT dưới dạng POT, bạn cũng có thể sử dụng [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) để thêm các tính năng khác trong tài liệu POT của mình. Ví dụ, bạn có thể thêm nhận xét trong bản trình bày của mình. Nhận xét của slide trình bày được liên kết với một tác giả cụ thể. Lớp Trình bày có tập hợp các tác giả trong ICommentAuthorCollection chịu trách nhiệm thêm các nhận xét về trang trình bày. Đối với mỗi tác giả, có một bộ sưu tập các nhận xét trong ICommentCollection.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp

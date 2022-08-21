@@ -13,13 +13,13 @@ otherformats: ODP POT PPTM PPS POWERPOINT OTP PPSX PPSM POTM POTX
 {{< blocks/products/pf/feature-page-header h1="Android에서 JSON 형식을 PPT로 변환" h2="Microsoft<sup>&reg;</sup> PowerPoint를 사용하지 않고 Android 애플리케이션에서 JSON 형식을 PPT로 구문 분석" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-2단계 프로세스를 통해 Android 애플리케이션에서 JSON 형식을 PPT로 변환할 수 있습니다. 먼저 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)를 사용하여 JSON을 PPTX로 파싱할 수 있습니다. 이후 [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/)를 사용하여 PPTX를 PPT로 변환할 수 있습니다. 두 API 모두 [Java를 통한 Android용 Aspose.Total](https://products.aspose.com/total/android-java/) 패키지에 있습니다. 
+2단계 프로세스를 통해 Android 애플리케이션에서 JSON 형식을 PPT로 변환할 수 있습니다. 먼저 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)를 사용하여 JSON을 PPTX로 파싱할 수 있습니다. 이후 [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/)를 사용하여 PPTX를 PPT로 변환할 수 있습니다. 두 API 모두 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) 패키지에 있습니다. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Android에서 JSON 형식을 PPT로 변환" %}}
 1. 새 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 객체를 생성하고 JSON 파일을 엽니다.
-2. [저장](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))을 사용하여 JSON을 PPTX로 저장합니다. ) 방법
+2. [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))을 사용하여 JSON을 PPTX로 저장합니다. ) 방법
 3. [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 클래스를 사용하여 PPTX 문서를 로드합니다.
 4. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) 메소드를 사용하여 문서를 PPT 형식으로 저장합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -13,8 +13,8 @@ otherformats: FLATOPC WORD DOT ODT TEXT DOCX OTT DOC RTF DOTM DOTX DOCM
 {{< blocks/products/pf/feature-page-header h1="Render POWERPOINT naar WORDML op Andorid via Java" h2="Bestandsformaat-API's om POWERPOINT naar WORDML te converteren binnen Android-apps zonder afhankelijk te zijn van Microsoft PowerPoint of Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total voor Android via Java](https://products.aspose.com/total/android-java/) maakt het manipuleren van bestandsindelingen binnen Android-applicaties mogelijk. Door de API's in het pakket te gebruiken, kunt u het conversieproces van PowerPoint POWERPOINT naar Word WORDML in uw apps automatiseren.
-U kunt uw opgegeven wordmlument in twee stappen converteren. U kunt [Aspose.Slides for Andorid via Java](https://products.aspose.com/slides/android-java/) gebruiken, een PowerPoint-API voor Android-toepassingen om POWERPOINT naar HTML weer te geven. Daarna kunt u met behulp van de wordmlumentverwerkings-API [Aspose.Words voor Android via Java](https://products.aspose.com/words/android-java/) de HTML naar WORDML converteren. 
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) maakt het manipuleren van bestandsindelingen binnen Android-applicaties mogelijk. Door de API's in het pakket te gebruiken, kunt u het conversieproces van PowerPoint POWERPOINT naar Word WORDML in uw apps automatiseren.
+U kunt uw opgegeven wordmlument in twee stappen converteren. U kunt [Aspose.Slides for Andorid via Java](https://products.aspose.com/slides/android-java/) gebruiken, een PowerPoint-API voor Android-toepassingen om POWERPOINT naar HTML weer te geven. Daarna kunt u met behulp van de wordmlumentverwerkings-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) de HTML naar WORDML converteren. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -26,7 +26,7 @@ U kunt uw opgegeven wordmlument in twee stappen converteren. U kunt [Aspose.Slid
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
-U kunt Aspose.Total voor Android eenvoudig via Java rechtstreeks vanuit [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) en installeer [Aspose.Slides voor Android via Java](https://wordmls.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) en [Aspose.Words voor Andorid via Java](https://wordmls.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) in uw toepassingen.
+U kunt Aspose.Total for Android eenvoudig via Java rechtstreeks vanuit [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) en installeer [Aspose.Slides for Android via Java](https://wordmls.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) en [Aspose.Words voor Andorid via Java](https://wordmls.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) in uw toepassingen.
 
 U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

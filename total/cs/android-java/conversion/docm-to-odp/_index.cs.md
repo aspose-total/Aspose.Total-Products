@@ -13,13 +13,13 @@ otherformats: PPS POWERPOINT PPTX PPSX POT POTX PPT PPSM PPTM POTM CSV DIF FODS 
 {{< blocks/products/pf/feature-page-header h1="Převeďte DOCM na ODP v aplikacích pro Android" h2="Převod DOCM na ODP ve vašich aplikacích pro Android bez instalace Microsoft Word<sup>&reg;</sup> nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Jste vývojář Android a chcete do své aplikace přidat funkci převodu dokumentů? [Aspose.Total pro Android přes Java](https://products.aspose.com/total/android-java/) Knihovny Automatizace formátu souborů vám mohou pomoci automatizovat proces převodu dokumentů ve vašich aplikacích pro Android. Chcete-li převést soubor DOCM na ODP, můžete nejprve použít rozhraní API pro manipulaci s dokumenty [Aspose.Words pro Android Java](https://products.aspose.com/words/android-java/) a převést formát souboru DOCM do HTML. Poté můžete pomocí PowerPoint API [Aspose.Slides pro Android Java](https://products.aspose.com/slides/android-java/) vytvořit novou prezentaci, napsat do ní obsah HTML a uložit ji jako ODP. 
+Jste vývojář Android a chcete do své aplikace přidat funkci převodu dokumentů? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Knihovny Automatizace formátu souborů vám mohou pomoci automatizovat proces převodu dokumentů ve vašich aplikacích pro Android. Chcete-li převést soubor DOCM na ODP, můžete nejprve použít rozhraní API pro manipulaci s dokumenty [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) a převést formát souboru DOCM do HTML. Poté můžete pomocí PowerPoint API [Aspose.Slides pro Android Java](https://products.aspose.com/slides/android-java/) vytvořit novou prezentaci, napsat do ní obsah HTML a uložit ji jako ODP. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak převést DOCM na ODP v Androidu" %}}
-1. Otevřete soubor DOCM pomocí třídy [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument)
-2. Převeďte soubor DOCM na HTML pomocí [uložit](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions))) metoda
+1. Otevřete soubor DOCM pomocí třídy [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Převeďte soubor DOCM na HTML pomocí [uložit](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) metoda
 3. Inicializujte nový objekt [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extrahujte obsah ze souboru HTML pomocí BufferedReader a zapište obsah do souboru prezentace
 6. Uložte dokument do ODP pomocí metody [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

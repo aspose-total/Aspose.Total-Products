@@ -13,7 +13,7 @@ otherformats: DOC DOCX DOCM DOTX WORDML DOT RTF OTT ODT WORD TEXT DOTM
 {{< blocks/products/pf/feature-page-header h1="Java経由でAndoridのFLATOPCにPPTMをレンダリングする" h2="Microsoft PowerPointやWordに依存せずに、Androidアプリ内でPPTMをFLATOPCに変換するファイル形式のAPI" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Java経由のAndroid用Aspose.Total](https://products.aspose.com/total/android-java/)を使用すると、Androidアプリケーション内でファイル形式を操作できます。パッケージで提供されているAPIを使用することで、アプリでPowerPointPPTMからWordFLATOPCへの変換プロセスを自動化できます。
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)を使用すると、Androidアプリケーション内でファイル形式を操作できます。パッケージで提供されているAPIを使用することで、アプリでPowerPointPPTMからWordFLATOPCへの変換プロセスを自動化できます。
 あなたは2つのステップであなたの与えられた文書を変換することができます。 Androidアプリケーション用のPowerPointAPIである[Aspose.SlidesforAndorid via Java](https://products.aspose.com/slides/android-java/)を使用して、PPTMをHTMLにレンダリングできます。その後、ドキュメント処理API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)を使用して、HTMLをFLATOPCに変換できます。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 

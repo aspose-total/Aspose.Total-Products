@@ -13,7 +13,7 @@ otherformats: DIF ODS XLSX XLTM XLT XLSM TSV FODS XLS EXCEL XLAM XLTX XLSB SXC
 {{< blocks/products/pf/feature-page-header h1="Преобразование RTF в CSV в приложениях для Android" h2="Экспорт RTF в CSV на Android через Java без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Используя [Aspose.Total для Android через Java](https://products.aspose.com/total/android-java/), вы можете интегрировать функцию преобразования RTF в CSV в свои приложения для Android. Во-первых, вы можете конвертировать RTF в HTML с помощью многофункционального API для обработки и преобразования документов [Aspose.Words для Android через Java](https://products.aspose.com/words/android-java/). После этого, используя [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), вы можете конвертировать HTML в CSV. 
+Используя [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), вы можете интегрировать функцию преобразования RTF в CSV в свои приложения для Android. Во-первых, вы можете конвертировать RTF в HTML с помощью многофункционального API для обработки и преобразования документов [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). После этого, используя [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), вы можете конвертировать HTML в CSV. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ otherformats: DIF ODS XLSX XLTM XLT XLSM TSV FODS XLS EXCEL XLAM XLTX XLSB SXC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
-Вы можете легко использовать Aspose.Total для Android через Java непосредственно из [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) и установить [Aspose.Cells для Android через Java](https://rtfs.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via- java-from-maven-repository) и [Aspose.Words для Android через Java](https://rtfs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install- asposewords-for-android-через-java-из-maven-репозитория) в ваших приложениях.
+Вы можете легко использовать Aspose.Total for Android via Java непосредственно из [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) и установить [Aspose.Cells for Android via Java](https://rtfs.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via- java-from-maven-repository) и [Aspose.Words for Android via Java](https://rtfs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install- asposewords-for-android-через-java-из-maven-репозитория) в ваших приложениях.
 
 Кроме того, вы можете получить ZIP-файл из [загрузки](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -38,7 +38,7 @@ otherformats: DIF ODS XLSX XLTM XLT XLSM TSV FODS XLS EXCEL XLAM XLTX XLSB SXC
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Удалить неиспользуемую информацию из документа RTF в Android через Java" %}}
-Перед преобразованием RTF в CSV вы можете удалить неиспользуемую информацию из документа RTF с помощью [Aspose.Words для Android через Java](https://products.aspose.com/words/android-java/). Иногда может потребоваться удалить неиспользуемую или повторяющуюся информацию, чтобы уменьшить размер выходного документа и время обработки. Класс [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) позволяет указать параметры очистки документа. Чтобы удалить повторяющиеся стили или просто неиспользуемые стили или списки из документа, вы можете использовать метод [Очистка](https://reference.aspose.com/words/java/com.aspose.words/Rtfument#cleanup()). Вы можете использовать [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) и [UnusedBuiltinStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedBuiltinStyles) для обнаружения и удаления стилей, помеченных как «неиспользуемые».
+Перед преобразованием RTF в CSV вы можете удалить неиспользуемую информацию из документа RTF с помощью [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Иногда может потребоваться удалить неиспользуемую или повторяющуюся информацию, чтобы уменьшить размер выходного документа и время обработки. Класс [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) позволяет указать параметры очистки документа. Чтобы удалить повторяющиеся стили или просто неиспользуемые стили или списки из документа, вы можете использовать метод [Очистка](https://reference.aspose.com/words/java/com.aspose.words/Rtfument#cleanup()). Вы можете использовать [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) и [UnusedBuiltinStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedBuiltinStyles) для обнаружения и удаления стилей, помеченных как «неиспользуемые».
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-rtfument.java" >}}
@@ -46,7 +46,7 @@ otherformats: DIF ODS XLSX XLTM XLT XLSM TSV FODS XLS EXCEL XLAM XLTX XLSB SXC
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Сохранить файл CSV для потоковой передачи на Android через Java" %}}
-После преобразования RTF в CSV [Aspose.Cells для Android через Java](https://products.aspose.com/cells/android-java/) позволяет сохранить документ для потоковой передачи. Если вам нужно сохранить файлы в поток, вам следует создать объект FileOutputStream, а затем [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) файл в этот объект Stream, вызвав метод сохранения [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) объект.
+После преобразования RTF в CSV [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) позволяет сохранить документ для потоковой передачи. Если вам нужно сохранить файлы в поток, вам следует создать объект FileOutputStream, а затем [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) файл в этот объект Stream, вызвав метод сохранения [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) объект.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}

@@ -18,7 +18,7 @@ otherformats: XLS XLSX FODS EXCEL XLSM XLT XLAM DIF TSV XLTX ODS XLTM CSV SXC
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="将 DOCM 转换为 XLSB 的 C++ API" %}}
-1.使用[Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)类参考打开DOCM文件
+1.使用[Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)类参考打开DOCM文件
 2. 使用 [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string_saveformat) 成员函数将 DOCM 转换为 HTML
 3. 使用 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 类参考加载 HTML 文档
 4. 使用 [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) 成员函数将文档保存为 XLSB 格式
@@ -38,7 +38,7 @@ otherformats: XLS XLSX FODS EXCEL XLSM XLT XLAM DIF TSV XLTX ODS XLTM CSV SXC
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="通过 C++ 访问 DOCM 文档属性" %}}
-[Aspose.Words for C++](https://products.aspose.com/words/cpp/) 还允许您访问 DOCM 文件的文档属性，并让您在转换过程之前做出明智的决定。要访问文档属性，您可以使用 [BuiltInDocmumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_docmument_properties) 获取内置属性和 [CustomDocmumentProperties](https://https://reference.aspose.com/words/cpp/class/aspose.words.properties.custom_docmument_properties)来获取自定义属性。以下代码示例演示如何枚举文档中的所有内置和自定义属性。
+[Aspose.Words for C++](https://products.aspose.com/words/cpp/) 还允许您访问 DOCM 文件的文档属性，并让您在转换过程之前做出明智的决定。要访问文档属性，您可以使用 [BuiltInDocumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_docmument_properties) 获取内置属性和 [CustomDocumentProperties](https://https://reference.aspose.com/words/cpp/class/aspose.words.properties.custom_docmument_properties)来获取自定义属性。以下代码示例演示如何枚举文档中的所有内置和自定义属性。
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-docmument-properties.cs" >}}

@@ -13,15 +13,15 @@ otherformats: DOCM MHTML RTF PCL OTT FLATOPC DOTM MARKDOWN XAMLFLOW DOT WORDML D
 {{< blocks/products/pf/feature-page-header h1="डीओसीएम को सीजीएम निर्यात करने के लिए सी ++ एपीआई" h2="किसी तीसरे पक्ष के आवेदन की आवश्यकता के बिना सी ++ अनुप्रयोगों के भीतर डीओसीएम को सीजीएम प्रस्तुत करना" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) फाइल फॉर्मेट ऑटोमेशन लाइब्रेरी C++ डेवलपर को दो आसान चरणों में XPS को ODT में बदलने की अनुमति देती है। सबसे पहले, आप XPS फ़ाइल स्वरूप को DOC में बदलने के लिए [C++ के लिए Aspose.PDF](https://products.aspose.com/pdf/cpp/) API का उपयोग कर सकते हैं। दूसरे, उन्नत वर्ड डॉक्यूमेंट प्रोसेसिंग एपीआई [Aspose.Words for C++](https://products.aspose.com/words/cpp/) का उपयोग करके, आप ODT को DOC निर्यात कर सकते हैं। 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) फाइल फॉर्मेट ऑटोमेशन लाइब्रेरी C++ डेवलपर को दो आसान चरणों में XPS को ODT में बदलने की अनुमति देती है। सबसे पहले, आप XPS फ़ाइल स्वरूप को DOC में बदलने के लिए [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) API का उपयोग कर सकते हैं। दूसरे, उन्नत वर्ड डॉक्यूमेंट प्रोसेसिंग एपीआई [Aspose.Words for C++](https://products.aspose.com/words/cpp/) का उपयोग करके, आप ODT को DOC निर्यात कर सकते हैं। 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="डीओसीएम को सीजीएम प्रस्तुत करने के लिए सी ++ एपीआई" %}}
-1. [दस्तावेज़](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) वर्ग संदर्भ का उपयोग करके सीजीएम फ़ाइल खोलें
+1. [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) वर्ग संदर्भ का उपयोग करके सीजीएम फ़ाइल खोलें
 2. [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#adb8061c585440fde49c1263e68837f01) सदस्य फ़ंक्शन का उपयोग करके XPS को DOC में बदलें
-3. Aspose.Words API के [दस्तावेज़](https://reference.aspose.com/words/cpp/class/aspose.words.document) वर्ग संदर्भ का उपयोग करके DOC फ़ाइल लोड करें
-4. [सहेजें](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stream_saveformat) सदस्य फ़ंक्शन का उपयोग करके दस्तावेज़ को ODT प्रारूप में सहेजें
+3. Aspose.Words API के [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) वर्ग संदर्भ का उपयोग करके DOC फ़ाइल लोड करें
+4. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stream_saveformat) सदस्य फ़ंक्शन का उपयोग करके दस्तावेज़ को ODT प्रारूप में सहेजें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
@@ -46,7 +46,7 @@ wordDoc->Save(u"output.Odt");
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="C++ के माध्यम से XPS दस्तावेज़ का पासवर्ड बदलें" %}}
-डीओसीएम को सीजीएम प्रदान करने की प्रक्रिया में, आप पासवर्ड से सुरक्षित सीजीएम खोल सकते हैं और उसका पासवर्ड भी बदल सकते हैं। XPS फ़ाइल का पासवर्ड बदलने के लिए, आपको उस दस्तावेज़ के स्वामी का पासवर्ड पता होना चाहिए। आप पासवर्ड से सुरक्षित PDF दस्तावेज़ को [सी++ के लिए Aspose.PDF](https://products.aspose.com/pdf/cpp/) के साथ लोड कर सकते हैं और पासवर्ड बदलने के लिए ChangePasswords पद्धति का उपयोग कर सकते हैं।
+डीओसीएम को सीजीएम प्रदान करने की प्रक्रिया में, आप पासवर्ड से सुरक्षित सीजीएम खोल सकते हैं और उसका पासवर्ड भी बदल सकते हैं। XPS फ़ाइल का पासवर्ड बदलने के लिए, आपको उस दस्तावेज़ के स्वामी का पासवर्ड पता होना चाहिए। आप पासवर्ड से सुरक्षित PDF दस्तावेज़ को [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) के साथ लोड कर सकते हैं और पासवर्ड बदलने के लिए ChangePasswords पद्धति का उपयोग कर सकते हैं।
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp

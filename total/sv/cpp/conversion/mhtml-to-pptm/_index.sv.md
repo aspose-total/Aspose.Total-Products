@@ -13,7 +13,7 @@ otherformats: POT OTP PPSX PPS PPT ODP POTX POWERPOINT POTM SWF XAML PPSM
 {{< blocks/products/pf/feature-page-header h1="Rendera MHTML till PPTM inom C++-applikationer" h2="Konvertera MHTML till PPTM i dina C++-applikationer utan att använda Microsoft<sup>&reg;</sup> PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Är du en C++-utvecklare som vill lägga till för att integrera MHTML till PPTM-konverteringsfunktionen i dina C++-applikationer? Du kan göra det i två enkla steg. Du kan exportera MHTML till PPTX genom att använda [Aspose.PDF för C++](https://products.aspose.com/pdf/cpp/). För det andra, genom att använda [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), kan du konvertera PPTX till PPTM. Båda API:erna kommer under paketet [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
+Är du en C++-utvecklare som vill lägga till för att integrera MHTML till PPTM-konverteringsfunktionen i dina C++-applikationer? Du kan göra det i två enkla steg. Du kan exportera MHTML till PPTX genom att använda [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/). För det andra, genom att använda [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), kan du konvertera PPTX till PPTM. Båda API:erna kommer under paketet [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -46,7 +46,7 @@ prs->Save(u"output.pptm", Aspose::Slides::Export::SaveFormat::Pptm);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ändra lösenord för MHTML-dokument via C++" %}}
-I processen att rendera MHTML till PPTM kan du öppna en lösenordsskyddad MHTML och även ändra dess lösenord. För att ändra lösenordet för en MHTML-fil måste du känna till ägarlösenordet för det dokumentet. Du kan ladda lösenordsskyddade PDF-dokument med [Aspose.PDF för C++](https://products.aspose.com/pdf/cpp/) genom att ange dess ägarlösenord och använda ChangePasswords-metoden för att ändra lösenordet.
+I processen att rendera MHTML till PPTM kan du öppna en lösenordsskyddad MHTML och även ändra dess lösenord. För att ändra lösenordet för en MHTML-fil måste du känna till ägarlösenordet för det dokumentet. Du kan ladda lösenordsskyddade PDF-dokument med [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) genom att ange dess ägarlösenord och använda ChangePasswords-metoden för att ändra lösenordet.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp

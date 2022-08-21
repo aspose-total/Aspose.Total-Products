@@ -13,7 +13,7 @@ otherformats: XLS ODS XLT MARKDOWN FODS XLAM CSV MHTML XLSM XLTX XLTM XLSB EXCEL
 {{< blocks/products/pf/feature-page-header h1="Convertir PPTX en SXC dans Android via Java" h2="Exportez le fichier PPTX au format SXC dans les applications Android sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Vous pouvez facilement convertir le fichier PPTX en SXC dans vos applications Android en deux étapes via [Aspose.Total pour Android via Java](https://products.aspose.com/total/android-java/). Dans la première étape, vous pouvez exporter le fichier PPTX au format HTML en utilisant [Aspose.Slides pour Android via Java](https://products.aspose.com/slides/android-java/). Deuxièmement, en utilisant [Aspose.Cells pour Android via Java](https://products.aspose.com/cells/android-java/), vous pouvez convertir HTML en SXC. 
+Vous pouvez facilement convertir le fichier PPTX en SXC dans vos applications Android en deux étapes via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Dans la première étape, vous pouvez exporter le fichier PPTX au format HTML en utilisant [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). Deuxièmement, en utilisant [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), vous pouvez convertir HTML en SXC. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Vous pouvez facilement convertir le fichier PPTX en SXC dans vos applications An
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
-Afin de convertir PPTX en SXC, vous pouvez facilement utiliser Aspose.Total pour Android via Java directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et installez les bibliothèques dans votre application.
+Afin de convertir PPTX en SXC, vous pouvez facilement utiliser Aspose.Total for Android via Java directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et installez les bibliothèques dans votre application.
 
 Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

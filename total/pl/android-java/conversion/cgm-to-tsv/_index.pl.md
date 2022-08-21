@@ -13,7 +13,7 @@ otherformats: TXT EXCEL CSV XLSM XLSB SXC XLTM ODS FODS MD XLT XLTX
 {{< blocks/products/pf/feature-page-header h1="Renderuj CGM do TSV w Androidzie za pomocą Javy" h2="Przekształć CGM w TSV w aplikacjach na Androida bez konieczności używania Microsoft<sup>&reg;</sup> Excel lub Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Możesz zintegrować funkcję konwersji CGM na TSV w swoich aplikacjach na Androida w dwuetapowym procesie. Po pierwsze, używając [Aspose.PDF dla Androida przez Javę](https://products.aspose.com/pdf/android-java/) możesz zamienić CGM na XLSX. Po drugie, możesz przekonwertować XLSX na TSV, korzystając z interfejsu API Powerful Spreadsheet Processing [Aspose.Cells na Androida przez Javę](https://products.aspose.com/cells/android-java/). Oba interfejsy API należą do rodziny produktów [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
+Możesz zintegrować funkcję konwersji CGM na TSV w swoich aplikacjach na Androida w dwuetapowym procesie. Po pierwsze, używając [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) możesz zamienić CGM na XLSX. Po drugie, możesz przekonwertować XLSX na TSV, korzystając z interfejsu API Powerful Spreadsheet Processing [Aspose.Cells na Androida przez Javę](https://products.aspose.com/cells/android-java/). Oba interfejsy API należą do rodziny produktów [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Możesz zintegrować funkcję konwersji CGM na TSV w swoich aplikacjach na Andro
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
-Możesz łatwo używać Aspose.Total dla Androida przez Javę bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i zainstaluj [Aspose.PDF na Androida przez Javę](https://docs.aspose.com/pdf/androidjava/installation/) i [Aspose.Cells na Androida przez Javę](https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/) w swoich aplikacjach.
+Możesz łatwo używać Aspose.Total for Android via Java bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i zainstaluj [Aspose.PDF na Androida przez Javę](https://docs.aspose.com/pdf/androidjava/installation/) i [Aspose.Cells na Androida przez Javę](https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/) w swoich aplikacjach.
 
 Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

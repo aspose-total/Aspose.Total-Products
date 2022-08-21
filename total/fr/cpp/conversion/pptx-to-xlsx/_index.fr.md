@@ -13,7 +13,7 @@ otherformats: XLS XLTM MARKDOWN SXC EXCEL XLAM TSV XLSB XLTX FODS DIF XLT ODS MH
 {{< blocks/products/pf/feature-page-header h1="Convertir PPTX en XLSX via C++" h2="Conversion de fichiers PPTX en XLSX via C++ sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour C++](https://products.aspose.com/total/cpp/), vous pouvez convertir le fichier PPTX en XLSX dans les applications C++ en deux étapes simples. Tout d'abord, en utilisant [Aspose.Slides pour C++](https://products.aspose.com/slides/cpp/), vous pouvez exporter PPTX vers HTML. Après cela, en utilisant [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, vous pouvez convertir HTML en XLSX. 
+En utilisant [Aspose.Total for C++](https://products.aspose.com/total/cpp/), vous pouvez convertir le fichier PPTX en XLSX dans les applications C++ en deux étapes simples. Tout d'abord, en utilisant [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), vous pouvez exporter PPTX vers HTML. Après cela, en utilisant [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, vous pouvez convertir HTML en XLSX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

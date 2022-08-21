@@ -13,7 +13,7 @@ otherformats: EPUB RTF DOCX TEXT MD ODT JPEG XPS DOCM DOT PDF PS TIFF BMP DOTM D
 {{< blocks/products/pf/feature-page-header h1="แปลง EML เป็น PCL ใน Andorid Apps" h2="การออกแบบแอปพลิเคชัน Andorid เพื่อส่งออก EML ไปยัง PCL โดยใช้ Andorid ผ่าน Java API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-แอพ Andorid ใช้งานง่ายสำหรับผู้ใช้ปลายทางรายวัน จำนวนผู้ใช้โทรศัพท์ Andorid เพิ่มขึ้นทุกวัน การใช้ [Aspose.Total สำหรับ Android ผ่าน Java](https://products.aspose.com/total/android-java/) อันทรงพลังของไลบรารีไฟล์รูปแบบอัตโนมัติทำให้คุณสามารถพัฒนาแอปพลิเคชันการจัดการและแปลงอีเมลได้ คุณสามารถแปลง EML เป็น PCL โดยใช้ [Aspose.Eml สำหรับ Android Java](https://products.aspose.com/eml/android-java/) และ [Aspose.Words สำหรับ Andorid Java](https://products.aspose.com/words/android-java/) เมื่อใช้ API แรก คุณสามารถแปลงรูปแบบไฟล์ EML เป็น HTML และโดยใช้ API ที่สอง คุณสามารถแสดง HTML เป็น PCL 
+แอพ Andorid ใช้งานง่ายสำหรับผู้ใช้ปลายทางรายวัน จำนวนผู้ใช้โทรศัพท์ Andorid เพิ่มขึ้นทุกวัน การใช้ [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) อันทรงพลังของไลบรารีไฟล์รูปแบบอัตโนมัติทำให้คุณสามารถพัฒนาแอปพลิเคชันการจัดการและแปลงอีเมลได้ คุณสามารถแปลง EML เป็น PCL โดยใช้ [Aspose.Eml สำหรับ Android Java](https://products.aspose.com/eml/android-java/) และ [Aspose.Words สำหรับ Andorid Java](https://products.aspose.com/words/android-java/) เมื่อใช้ API แรก คุณสามารถแปลงรูปแบบไฟล์ EML เป็น HTML และโดยใช้ API ที่สอง คุณสามารถแสดง HTML เป็น PCL 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ otherformats: EPUB RTF DOCX TEXT MD ODT JPEG XPS DOCM DOT PDF PS TIFF BMP DOTM D
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
-คุณสามารถใช้ Aspose.Total สำหรับ Android ผ่าน Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และ ติดตั้ง [Aspose.Eml สำหรับ Android ผ่าน Java](https://docs.aspose.com/eml/androidjava/installation/) และ [Aspose.Words สำหรับ Andorid ผ่าน Java](https://docs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) ในแอปพลิเคชันของคุณ
+คุณสามารถใช้ Aspose.Total for Android via Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และ ติดตั้ง [Aspose.Eml สำหรับ Android ผ่าน Java](https://docs.aspose.com/eml/androidjava/installation/) และ [Aspose.Words สำหรับ Andorid ผ่าน Java](https://docs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) ในแอปพลิเคชันของคุณ
 
 หรือคุณสามารถรับไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/total/androidjava)
 {{% /blocks/products/pf/agp/feature-section-col %}}

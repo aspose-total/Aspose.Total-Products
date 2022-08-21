@@ -13,15 +13,15 @@ otherformats: WORD RTF WORDML ODT OTT DOCM FLATOPC DOC DOTX TEXT DOCX DOT
 {{< blocks/products/pf/feature-page-header h1="C++ API เพื่อแสดงผล PPTX เป็น DOTM" h2="ส่งออก PPTX เป็น DOTM ในแอปพลิเคชัน C++ โดยไม่ต้องพึ่งพา Microsoft PowerPoint หรือ Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total สำหรับ C++](https://products.aspose.com/total/cpp/) เป็นแพ็คเกจที่สมบูรณ์ของไลบรารี C++ File Format Automation ด้วยการใช้คุณสมบัติที่หลากหลายของ API ที่มีอยู่ใน pacakge เราสามารถแปลง PowerPoint PPTX เป็น Word DOTM ได้อย่างง่ายดาย ในการแปลง คุณสามารถใช้ [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API เพื่อแปลง PPTX เป็น HTML ได้ก่อน หลังจากนั้นโดยใช้ API การประมวลผลคำที่มีคุณลักษณะหลากหลาย [Aspose.Words for C++](https://products.aspose.com/words/cpp/) คุณจะสามารถแปลง HTML เป็น DOTM ได้ 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) เป็นแพ็คเกจที่สมบูรณ์ของไลบรารี C++ File Format Automation ด้วยการใช้คุณสมบัติที่หลากหลายของ API ที่มีอยู่ใน pacakge เราสามารถแปลง PowerPoint PPTX เป็น Word DOTM ได้อย่างง่ายดาย ในการแปลง คุณสามารถใช้ [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API เพื่อแปลง PPTX เป็น HTML ได้ก่อน หลังจากนั้นโดยใช้ API การประมวลผลคำที่มีคุณลักษณะหลากหลาย [Aspose.Words for C++](https://products.aspose.com/words/cpp/) คุณจะสามารถแปลง HTML เป็น DOTM ได้ 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API เพื่อแปลง PPTX เป็น DOTM" %}}
 1. โหลดไฟล์ PPTX โดยใช้ [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) การอ้างอิงคลาส
-2. แปลง PPTX เป็น HTML โดยใช้ [บันทึก](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) สมาชิก funciton และตั้งค่า Html เป็น SaveFormat
+2. แปลง PPTX เป็น HTML โดยใช้ [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) สมาชิก funciton และตั้งค่า Html เป็น SaveFormat
 3. โหลดไฟล์ HTML ที่แปลงแล้วโดยใช้ [Dotmument](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument) การอ้างอิงคลาส
-4. บันทึกเอกสารในรูปแบบ DOTM โดยใช้ [บันทึก](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument#save_string) ฟังก์ชันสมาชิก
+4. บันทึกเอกสารในรูปแบบ DOTM โดยใช้ [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument#save_string) ฟังก์ชันสมาชิก
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}

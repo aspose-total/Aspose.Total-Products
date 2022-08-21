@@ -13,17 +13,17 @@ otherformats: PPTX PPTM PPT ODP POT PPS POTX PPSM POTM POWERPOINT
 {{< blocks/products/pf/feature-page-header h1="C++ API pro převod ODT na PPSX" h2="Exportujte ODT do PPSX v rámci vašich C++ aplikací bez použití Microsoft Word&reg; nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total pro C++](https://products.aspose.com/total/cpp/) se skládá z výkonných rozhraní API pro automatizaci souborů, která umožňují automatizovat převod ODT na PPSX při použití dvou z těchto rozhraní API. Načtěte svůj ODT pomocí [Aspose.Words pro C++](https://products.aspose.com/words/cpp/) a převeďte jej do HTML, poté načtěte HTML pomocí manipulačního C++ API PowerPointu [Aspose.Slides pro C++]( https://products.aspose.com/slides/cpp/), vytvořte novou prezentaci a uložte ji jako PPSX. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) se skládá z výkonných rozhraní API pro automatizaci souborů, která umožňují automatizovat převod ODT na PPSX při použití dvou z těchto rozhraní API. Načtěte svůj ODT pomocí [Aspose.Words for C++](https://products.aspose.com/words/cpp/) a převeďte jej do HTML, poté načtěte HTML pomocí manipulačního C++ API PowerPointu [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/), vytvořte novou prezentaci a uložte ji jako PPSX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverze ODT na PPSX v C++" %}}
 1. Otevřete soubor ODT pomocí odkazu třídy [Odtument](https://reference.aspose.com/words/cpp/class/aspose.words.odtument)
-2. Převeďte ODT do HTML pomocí členské funkce [Uložit](https://reference.aspose.com/words/cpp/class/aspose.words.odtument#save_stdbasicostream_saveoptions)
+2. Převeďte ODT do HTML pomocí členské funkce [Save](https://reference.aspose.com/words/cpp/class/aspose.words.odtument#save_stdbasicostream_saveoptions)
 3. Inicializujte nový objekt [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. Přidejte na snímek automatický tvar a přidejte do něj AddTextFrame
 5. Načtěte obsah HTML a zapište jej do souboru prezentace
-6. Uložte dokument do formátu PPSX pomocí metody [Uložit](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) a nastavte Ppsx jako SaveFormat
+6. Uložte dokument do formátu PPSX pomocí metody [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) a nastavte Ppsx jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
@@ -80,7 +80,7 @@ SharedPtr<Odtument> odt = MakeObject<Odtument>(u"Encrypted.odt", options);
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Přidejte komentáře do dokumentu PPSX prostřednictvím C++" %}}
-Při ukládání ODT jako PPSX můžete také použít [Aspose.Slides pro C++](https://products.aspose.com/slides/cpp/) k přidání dalších funkcí do dokumentu PPSX. Do prezentace můžete například přidávat komentáře. Komentář ke snímku prezentace je spojen s konkrétním autorem. Třída Presentation obsahuje kolekci autorů v ICommentAuthorCollection, kteří jsou zppsxovědní za přidávání komentářů ke snímkům. Pro každého autora je v ICommentCollection sbírka komentářů.
+Při ukládání ODT jako PPSX můžete také použít [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) k přidání dalších funkcí do dokumentu PPSX. Do prezentace můžete například přidávat komentáře. Komentář ke snímku prezentace je spojen s konkrétním autorem. Třída Presentation obsahuje kolekci autorů v ICommentAuthorCollection, kteří jsou zppsxovědní za přidávání komentářů ke snímkům. Pro každého autora je v ICommentCollection sbírka komentářů.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp

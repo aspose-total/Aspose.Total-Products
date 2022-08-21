@@ -13,7 +13,7 @@ otherformats: OTP PPTM PPSM ODP PPSX PPS POT POTM POWERPOINT PPT
 {{< blocks/products/pf/feature-page-header h1="Μετατρέψτε τη μορφή JSON σε POTX μέσω C++" h2="C++ API για ανάλυση JSON σε POTX χωρίς χρήση Microsoft<sup>&reg;</sup> PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Μπορείτε να μετατρέψετε JSON σε POTX σε οποιαδήποτε εφαρμογή C++ με δύο απλά βήματα. Πρώτον, χρησιμοποιώντας το [Aspose.Cells για C++](https://products.aspose.com/cells/cpp/), μπορείτε να αναλύσετε το JSON σε PPTX. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), μπορείτε να μετατρέψετε το PPTX σε POTX. Και τα δύο API περιλαμβάνονται στο πακέτο [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
+Μπορείτε να μετατρέψετε JSON σε POTX σε οποιαδήποτε εφαρμογή C++ με δύο απλά βήματα. Πρώτον, χρησιμοποιώντας το [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), μπορείτε να αναλύσετε το JSON σε PPTX. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), μπορείτε να μετατρέψετε το PPTX σε POTX. Και τα δύο API περιλαμβάνονται στο πακέτο [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,19 +13,19 @@ otherformats: SXC XLSB XLAM DIF XLTX CSV XLSX FODS XLT XLSM ODS MHTML MARKDOWN X
 {{< blocks/products/pf/feature-page-header h1="قم بتحويل PPS إلى XLTM في Android عبر Java" h2="قم بتصدير ملف PPS إلى XLTM في تطبيقات Android بدون استخدام Microsoft <sup>&reg;</sup> Excel أو PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-يمكنك بسهولة تحويل ملف PPS إلى XLTM في تطبيقات Android في عملية من خطوتين عبر [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). في الخطوة الأولى ، يمكنك تصدير ملف PPS إلى HTML باستخدام [Aspose.Slides لنظام Android عبر Java](https://products.aspose.com/slides/android-java/). ثانيًا ، باستخدام [Aspose.Cells لنظام Android عبر Java](https://products.aspose.com/cells/android-java/) ، يمكنك تحويل HTML إلى XLTM. 
+يمكنك بسهولة تحويل ملف PPS إلى XLTM في تطبيقات Android في عملية من خطوتين عبر [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). في الخطوة الأولى ، يمكنك تصدير ملف PPS إلى HTML باستخدام [Aspose.Slides لنظام Android عبر Java](https://products.aspose.com/slides/android-java/). ثانيًا ، باستخدام [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) ، يمكنك تحويل HTML إلى XLTM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل PPS إلى XLTM في Android" %}}
 1. افتح ملف PPS باستخدام فئة [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. تحويل PPS إلى HTML باستخدام [حفظ](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) طريقة
+2. تحويل PPS إلى HTML باستخدام [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) طريقة
 3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. احفظ المستند بتنسيق XLTM باستخدام [حفظ](https://reference.aspose.com/cells/java/com.aspose.cells/)
+4. احفظ المستند بتنسيق XLTM باستخدام [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-لتحويل PPS إلى XLTM ، يمكنك بسهولة استخدام Aspose.Total لنظام Android عبر Java مباشرةً من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) وقم بتثبيت المكتبات في تطبيقك.
+لتحويل PPS إلى XLTM ، يمكنك بسهولة استخدام Aspose.Total for Android via Java مباشرةً من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) وقم بتثبيت المكتبات في تطبيقك.
 
 بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

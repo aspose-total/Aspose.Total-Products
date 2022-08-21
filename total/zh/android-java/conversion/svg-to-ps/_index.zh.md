@@ -13,7 +13,7 @@ otherformats: PCL RTF ODT XAMLFLOW MHTML DOTX DOCM DOT OTT DOTM FLATOPC WORDML
 {{< blocks/products/pf/feature-page-header h1="通过 Java 在 Android 上将 SVG 渲染到 PS" h2="在移动应用程序中将 SVG 转换为 PS，无需安装任何软件" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-您可以使用 [Aspose.Total for Android Java](https://products.aspose.com/total/android-java/) 包的两个 API 在您的移动应用程序中集成 SVG 到 PS 的转换功能。首先，您需要使用 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) 将 SVG 文件转换为 DOC。其次，通过使用文字处理 API [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/)，您可以将 DOC 渲染为 PS。 
+您可以使用 [Aspose.Total for Android Java](https://products.aspose.com/total/android-java/) 包的两个 API 在您的移动应用程序中集成 SVG 到 PS 的转换功能。首先，您需要使用 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) 将 SVG 文件转换为 DOC。其次，通过使用文字处理 API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)，您可以将 DOC 渲染为 PS。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -19,7 +19,7 @@ otherformats: XLAM XLSB XLTM ODS XLT TSV SXC EXCEL FODS DIF XLTX CSV XLS XLSM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="تحويل DOT إلى تنسيق JSON عبر C++" %}}
 1. افتح ملف DOT باستخدام [Dotument](https://reference.aspose.com/words/cpp/class/aspose.words.dotument) مرجع فئة
-2. تحويل DOT إلى HTML باستخدام وظيفة العضو [حفظ](https://reference.aspose.com/words/cpp/class/aspose.words.dotument#save_string_saveformat)
+2. تحويل DOT إلى HTML باستخدام وظيفة العضو [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotument#save_string_saveformat)
 3. قم بتحميل مستند HTML باستخدام مرجع فئة [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
 4. احفظ المستند بتنسيق JSON باستخدام وظيفة العضو [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
 {{% /blocks/products/pf/agp/feature-section-col %}}

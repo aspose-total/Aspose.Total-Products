@@ -13,7 +13,7 @@ otherformats: DIF XLS CSV XLTX XLAM SXC EXCEL XLSX XLSB XLTM ODS XLSM FODS MHTML
 {{< blocks/products/pf/feature-page-header h1="Convertir PPT en TSV via C++" h2="Conversion de fichiers PPT en TSV via C++ sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour C++](https://products.aspose.com/total/cpp/), vous pouvez convertir le fichier PPT en TSV dans les applications C++ en deux étapes simples. Tout d'abord, en utilisant [Aspose.Slides pour C++](https://products.aspose.com/slides/cpp/), vous pouvez exporter PPT vers HTML. Après cela, en utilisant [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, vous pouvez convertir HTML en TSV. 
+En utilisant [Aspose.Total for C++](https://products.aspose.com/total/cpp/), vous pouvez convertir le fichier PPT en TSV dans les applications C++ en deux étapes simples. Tout d'abord, en utilisant [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), vous pouvez exporter PPT vers HTML. Après cela, en utilisant [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, vous pouvez convertir HTML en TSV. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

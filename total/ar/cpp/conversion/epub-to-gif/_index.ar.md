@@ -19,9 +19,9 @@ otherformats: DOT MARKDOWN OTT DOTX DOTM MHTML ODT PCL WORDML XAMLFLOW PS FLATOP
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="واجهة برمجة تطبيقات C++ لتقديم EPUB إلى GIF" %}}
 1. افتح ملف EPUB باستخدام [مستند](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) مرجع فئة
-2. تحويل EPUB إلى DOC باستخدام وظيفة العضو [حفظ](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#adb8061c585440fde49c1263e68837f01)
+2. تحويل EPUB إلى DOC باستخدام وظيفة العضو [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#adb8061c585440fde49c1263e68837f01)
 3. تحميل ملف DOC باستخدام [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) مرجع فئة Aspose.Words API
-4. احفظ المستند بتنسيق GIF باستخدام وظيفة العضو [حفظ](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stream_saveformat)
+4. احفظ المستند بتنسيق GIF باستخدام وظيفة العضو [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stream_saveformat)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}

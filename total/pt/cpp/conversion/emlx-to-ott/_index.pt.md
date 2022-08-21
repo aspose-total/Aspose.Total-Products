@@ -19,7 +19,7 @@ Você é um desenvolvedor C++ que deseja adicionar recursos de conversão de e-m
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API C++ para converter EMLX em OTT" %}}
 1. Abra o arquivo EMLX usando a referência de classe [MailMessage](https://reference.aspose.com/emlx/cpp/class/aspose.emlx.mail_message)
-2. Converta EMLX para HTML usando a função de membro [Salvar](https://reference.aspose.com/emlx/cpp/class/aspose.emlx.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
+2. Converta EMLX para HTML usando a função de membro [Save](https://reference.aspose.com/emlx/cpp/class/aspose.emlx.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
 3. Carregue o HTML usando a classe [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
 4. Salve o documento no formato OTT usando o método [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) e defina Ott como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

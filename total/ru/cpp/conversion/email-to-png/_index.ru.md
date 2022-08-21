@@ -13,7 +13,7 @@ otherformats: MD RTF PCL XPS BMP EPUB DOT DOC EMF TEXT DOTX DOCX PS SVG DOTM WOR
 {{< blocks/products/pf/feature-page-header h1="C++ API для экспорта EMAIL в PNG" h2="Преобразование EMAIL в PNG в приложении C++ без использования Microsoft Word или Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Вы разработчик C++ и хотите добавить функции преобразования электронной почты в свои приложения? Используя [Aspose.Email для C++](https://products.aspose.com/email/cpp/), вы можете преобразовать формат файла EMAIL в HTML. После этого, используя API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), вы можете экспортировать HTML в PNG. Оба API входят в пакет [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
+Вы разработчик C++ и хотите добавить функции преобразования электронной почты в свои приложения? Используя [Aspose.Email for C++](https://products.aspose.com/email/cpp/), вы можете преобразовать формат файла EMAIL в HTML. После этого, используя API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), вы можете экспортировать HTML в PNG. Оба API входят в пакет [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -46,7 +46,7 @@ doc->Save(u"convertedFile.Png");
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Разобрать файл EMAIL через C++" %}}
-Вы можете не только конвертировать EMAIL в PNG, но и читать, манипулировать и анализировать документ EMAIL. Вы можете получить информацию о теме, адресе, теле и получателях электронной почты, используя класс MapiMessage API [Aspose.Email для C++](https://products.aspose.com/email/cpp/). Например, вы можете проверить адрес электронной почты отправителя для конверсии, используя свойство get_SenderEmailAddress().
+Вы можете не только конвертировать EMAIL в PNG, но и читать, манипулировать и анализировать документ EMAIL. Вы можете получить информацию о теме, адресе, теле и получателях электронной почты, используя класс MapiMessage API [Aspose.Email for C++](https://products.aspose.com/email/cpp/). Например, вы можете проверить адрес электронной почты отправителя для конверсии, используя свойство get_SenderEmailAddress().
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp

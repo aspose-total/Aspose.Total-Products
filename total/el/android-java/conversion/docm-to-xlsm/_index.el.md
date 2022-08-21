@@ -13,19 +13,19 @@ otherformats: XLT EXCEL TSV DIF XLTM CSV FODS ODS XLSX XLSB XLAM XLS SXC XLTX
 {{< blocks/products/pf/feature-page-header h1="Μετατροπή DOCM σε XLSM στις Εφαρμογές Android" h2="Εξαγωγή DOCM σε XLSM στο Android μέσω Java χωρίς χρήση Microsoft<sup>&reg;</sup> Word ή Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Χρησιμοποιώντας το [Aspose.Total για Android μέσω Java](https://products.aspose.com/total/android-java/) μπορείτε να ενσωματώσετε τη δυνατότητα μετατροπής DOCM σε XLSM στις εφαρμογές σας Android. Πρώτον, μπορείτε να μετατρέψετε το DOCM σε HTML χρησιμοποιώντας πλούσιο σε χαρακτηριστικά, API χειρισμού εγγράφων και μετατροπής [Aspose.Words για Android μέσω Java](https://products.aspose.com/words/android-java/). Μετά από αυτό, χρησιμοποιώντας το [Aspose.Cells για Java](https://products.aspose.com/cells/android-java/), μπορείτε να μετατρέψετε HTML σε XLSM. 
+Χρησιμοποιώντας το [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) μπορείτε να ενσωματώσετε τη δυνατότητα μετατροπής DOCM σε XLSM στις εφαρμογές σας Android. Πρώτον, μπορείτε να μετατρέψετε το DOCM σε HTML χρησιμοποιώντας πλούσιο σε χαρακτηριστικά, API χειρισμού εγγράφων και μετατροπής [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Μετά από αυτό, χρησιμοποιώντας το [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), μπορείτε να μετατρέψετε HTML σε XLSM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Android API για μετατροπή DOCM σε XLSM" %}}
-1. Ανοίξτε το αρχείο DOCM χρησιμοποιώντας την κλάση [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument)
-2. Μετατρέψτε το DOCM σε HTML χρησιμοποιώντας το [Save](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions) ) μέθοδος
+1. Ανοίξτε το αρχείο DOCM χρησιμοποιώντας την κλάση [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Μετατρέψτε το DOCM σε HTML χρησιμοποιώντας το [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) μέθοδος
 3. Φορτώστε το έγγραφο HTML χρησιμοποιώντας την τάξη [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Αποθηκεύστε το έγγραφο σε μορφή XLSM χρησιμοποιώντας το [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) μέθοδο
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
-Μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.Total για Android μέσω Java απευθείας από το [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) και εγκαταστήστε το [Aspose.Cells για Android μέσω Java](https://docms.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via-java-from-maven-repository) και [Aspose.Words για Android μέσω Java](https://docms.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) στις εφαρμογές σας.
+Μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.Total for Android via Java απευθείας από το [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) και εγκαταστήστε το [Aspose.Cells for Android via Java](https://docms.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via-java-from-maven-repository) και [Aspose.Words for Android via Java](https://docms.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) στις εφαρμογές σας.
 
 Εναλλακτικά, μπορείτε να λάβετε ένα αρχείο ZIP από τις [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -38,7 +38,7 @@ otherformats: XLT EXCEL TSV DIF XLTM CSV FODS ODS XLSX XLSB XLAM XLS SXC XLTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Καταργήστε τις αχρησιμοποίητες πληροφορίες από ένα έγγραφο DOCM στο Android μέσω Java" %}}
-Πριν μετατρέψετε το DOCM σε XLSM, μπορείτε να αφαιρέσετε αχρησιμοποίητες πληροφορίες από το έγγραφο DOCM μέσω του [Aspose.Words για Android μέσω Java](https://products.aspose.com/words/android-java/). Μερικές φορές μπορεί να χρειαστεί να αφαιρέσετε αχρησιμοποίητες ή διπλότυπες πληροφορίες για να μειώσετε το μέγεθος του εγγράφου εξόδου και τον χρόνο επεξεργασίας. Η κλάση [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) σάς επιτρέπει να καθορίσετε επιλογές για τον καθαρισμό εγγράφων. Για να αφαιρέσετε διπλότυπα στυλ ή απλώς αχρησιμοποίητα στυλ ή λίστες από το έγγραφο, μπορείτε να χρησιμοποιήσετε τη μέθοδο [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Docmument#cleanup()). Μπορείτε να χρησιμοποιήσετε τα [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) και [UnusedBuiltinStyles](https://reference.aspose.com/words/java) για τον εντοπισμό και την αφαίρεση στυλ που επισημαίνονται ως "αχρησιμοποίητα".
+Πριν μετατρέψετε το DOCM σε XLSM, μπορείτε να αφαιρέσετε αχρησιμοποίητες πληροφορίες από το έγγραφο DOCM μέσω του [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Μερικές φορές μπορεί να χρειαστεί να αφαιρέσετε αχρησιμοποίητες ή διπλότυπες πληροφορίες για να μειώσετε το μέγεθος του εγγράφου εξόδου και τον χρόνο επεξεργασίας. Η κλάση [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) σάς επιτρέπει να καθορίσετε επιλογές για τον καθαρισμό εγγράφων. Για να αφαιρέσετε διπλότυπα στυλ ή απλώς αχρησιμοποίητα στυλ ή λίστες από το έγγραφο, μπορείτε να χρησιμοποιήσετε τη μέθοδο [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Document#cleanup()). Μπορείτε να χρησιμοποιήσετε τα [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) και [UnusedBuiltinStyles](https://reference.aspose.com/words/java) για τον εντοπισμό και την αφαίρεση στυλ που επισημαίνονται ως "αχρησιμοποίητα".
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-docmument.java" >}}
@@ -46,7 +46,7 @@ otherformats: XLT EXCEL TSV DIF XLTM CSV FODS ODS XLSX XLSB XLAM XLS SXC XLTX
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Αποθηκεύστε το αρχείο XLSM στη ροή στο Android μέσω Java" %}}
-Μετά τη μετατροπή του DOCM σε XLSM, το [Aspose.Cells για Android μέσω Java](https://products.aspose.com/cells/android-java/) σάς δίνει τη δυνατότητα να αποθηκεύσετε το έγγραφό σας σε ροή. Εάν χρειάζεται να αποθηκεύσετε αρχεία σε μια ροή, τότε θα πρέπει να δημιουργήσετε ένα αντικείμενο FileOutputStream και, στη συνέχεια, [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) το αρχείο σε αυτό το αντικείμενο Stream καλώντας τη μέθοδο αποθήκευσης του [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) αντικείμενο.
+Μετά τη μετατροπή του DOCM σε XLSM, το [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) σάς δίνει τη δυνατότητα να αποθηκεύσετε το έγγραφό σας σε ροή. Εάν χρειάζεται να αποθηκεύσετε αρχεία σε μια ροή, τότε θα πρέπει να δημιουργήσετε ένα αντικείμενο FileOutputStream και, στη συνέχεια, [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) το αρχείο σε αυτό το αντικείμενο Stream καλώντας τη μέθοδο αποθήκευσης του [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) αντικείμενο.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}

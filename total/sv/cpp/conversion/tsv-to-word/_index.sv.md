@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOC PPTX DOCX POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera TSV till WORD via C++" h2="Exportera Excel&reg; TSV till WORD inom fullfunktionella C++-applikationer" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera TSV till WORD via C++" h2="Exportera Excel<sup>&reg;</sup> TSV till WORD inom fullfunktionella C++-applikationer" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="TSV till WORD-konvertering på C++" %}}

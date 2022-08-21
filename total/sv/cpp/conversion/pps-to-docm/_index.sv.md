@@ -13,14 +13,14 @@ otherformats: DOTX DOC DOCX DOTM DOT WORDML ODT WORD FLATOPC TEXT RTF OTT
 {{< blocks/products/pf/feature-page-header h1="C++ API för att rendera PPS till DOCM" h2="Exportera PPS till DOCM i C++-applikationer utan några Microsoft PowerPoint- eller Word-beroenden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total för C++](https://products.aspose.com/total/cpp/) är ett komplett paket med C++ filformatsautomatiseringsbibliotek. Genom att använda de rika funktionerna i API:erna som finns i paketet kan vi enkelt konvertera PowerPoint PPS till Word DOCM. För att utföra konverteringen kan du först använda [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API för att konvertera PPS till HTML. Därefter kan du konvertera HTML till DOCM genom att använda funktionsrika Word Processing API [Aspose.Words for C++](https://products.aspose.com/words/cpp/). 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) är ett komplett paket med C++ filformatsautomatiseringsbibliotek. Genom att använda de rika funktionerna i API:erna som finns i paketet kan vi enkelt konvertera PowerPoint PPS till Word DOCM. För att utföra konverteringen kan du först använda [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API för att konvertera PPS till HTML. Därefter kan du konvertera HTML till DOCM genom att använda funktionsrika Word Processing API [Aspose.Words for C++](https://products.aspose.com/words/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API för att konvertera PPS till DOCM" %}}
 1. Ladda PPS-fil med klassreferens [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 2. Återge PPS till HTML genom att använda [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) medlemsfunktion och ställ in HTML som SaveFormat
-3. Ladda den konverterade HTML-filen genom att använda klassreferensen [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
+3. Ladda den konverterade HTML-filen genom att använda klassreferensen [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
 4. Spara dokumentet i DOCM-format genom att använda medlemsfunktionen [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -35,8 +35,8 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 SharedPtr<Presentation> prs = MakeObject<Presentation>(u"input.pps");
 // Save presentation in HTML format.
 prs->Save(u"htmlOutput.html", Aspose::Slides::Export::SaveFormat::Html);
-// load HTML with an instance of Docmument
-System::SharedPtr<Docmument> docm = System::MakeObject<Docmument>(u"htmlOutput.html");
+// load HTML with an instance of Document
+System::SharedPtr<Document> docm = System::MakeObject<Document>(u"htmlOutput.html");
 // save docmument in DOCM format
 docm->Save(u"output.docm"); 
 ```

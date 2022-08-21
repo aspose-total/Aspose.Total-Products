@@ -13,14 +13,14 @@ otherformats: FLATOPC DOTX WORD OTT DOT ODT CHM DOCM DOC EPUB WORDML RTF PCL MOB
 {{< blocks/products/pf/feature-page-header h1="Convierta el formato JSON a PS a través de C++" h2="Analice JSON a PS dentro de aplicaciones C++ sin usar Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Al usar [Aspose.Total para C++](https://products.aspose.com/total/cpp/) puede analizar JSON a PS dentro de sus aplicaciones C++ en dos simples pasos. En primer lugar, al usar [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), puede exportar JSON a PDF. Después de eso, usando [Aspose.Words for C++](https://products.aspose.com/words/cppp/), puede convertir PDF a PS. 
+Al usar [Aspose.Total for C++](https://products.aspose.com/total/cpp/) puede analizar JSON a PS dentro de sus aplicaciones C++ en dos simples pasos. En primer lugar, al usar [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), puede exportar JSON a PDF. Después de eso, usando [Aspose.Words for C++](https://products.aspose.com/words/cppp/), puede convertir PDF a PS. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convierta el formato JSON a PS en C++" %}}
 1. Cree un nuevo objeto [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) y lea los datos JSON válidos del archivo.
 2. Guarde JSON como PDF utilizando el método [Guardar](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
-3. Cargue el documento PDF usando la clase [Documento](https://reference.aspose.com/words/cpp/class/aspose.words.document)
+3. Cargue el documento PDF usando la clase [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
 4. Guarde el documento en formato PS usando el método [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -46,7 +46,7 @@ Mientras analiza JSON a PS, también puede establecer el tamaño de las filas y 
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convierta el formato JSON a PS con marca de agua en C++" %}}
-Usando la API, también puede analizar JSON a PS con marca de agua. Para agregar una marca de agua a su documento PS, primero puede convertir JSON a PDF y agregarle una marca de agua. Para agregar una marca de agua, cargue el archivo PDF recién creado usando la clase [Documento](https://reference.aspose.com/words/cpp/class/aspose.words.document), establezca diferentes propiedades para la marca de agua de texto,
+Usando la API, también puede analizar JSON a PS con marca de agua. Para agregar una marca de agua a su documento PS, primero puede convertir JSON a PDF y agregarle una marca de agua. Para agregar una marca de agua, cargue el archivo PDF recién creado usando la clase [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document), establezca diferentes propiedades para la marca de agua de texto,
 llame al método SetText y pase el texto y el objeto de la marca de agua de TextWatermarkOptions. Después de agregar la marca de agua, puede guardar el documento en PS.
 {{% blocks/products/pf/feature-page-code %}}
 

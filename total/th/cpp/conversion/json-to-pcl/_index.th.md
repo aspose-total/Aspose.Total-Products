@@ -19,7 +19,7 @@ otherformats: ODT RTF DOT DOC EPUB PS OTT WORDML WORD DOTX DOCM MOBI FLATOPC CHM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="แปลงรูปแบบ JSON เป็น PCL ใน C++" %}}
 1. สร้าง [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) ใหม่และอ่านข้อมูล JSON ที่ถูกต้องจากไฟล์
-2. บันทึก JSON เป็น PDF โดยใช้วิธี [บันทึก](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
+2. บันทึก JSON เป็น PDF โดยใช้วิธี [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
 3. โหลดเอกสาร PDF โดยใช้ [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) class
 4. บันทึกเอกสารในรูปแบบ PCL โดยใช้วิธี [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)
 {{% /blocks/products/pf/agp/feature-section-col %}}

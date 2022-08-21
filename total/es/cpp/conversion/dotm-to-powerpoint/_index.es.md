@@ -13,7 +13,7 @@ otherformats: PPSX PPSM PPT POTX POT PPTX PPTM PPS POTM ODP
 {{< blocks/products/pf/feature-page-header h1="API de C++ para convertir DOTM a POWERPOINT" h2="Exporte DOTM a POWERPOINT dentro de sus aplicaciones C++ sin usar Microsoft Word&reg; o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total para C++](https://products.aspose.com/total/cpp/) consta de potentes API de automatización de archivos que permiten automatizar la conversión de DOTM a POWERPOINT al usar dos de sus API. Cargue su DOTM usando [Aspose.Words for C++](https://products.aspose.com/words/cpp/) y conviértalo a HTML, luego cargue el HTML mediante la manipulación de PowerPoint C++ API [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) para crear una nueva presentación y guardarla como POWERPOINT. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) consta de potentes API de automatización de archivos que permiten automatizar la conversión de DOTM a POWERPOINT al usar dos de sus API. Cargue su DOTM usando [Aspose.Words for C++](https://products.aspose.com/words/cpp/) y conviértalo a HTML, luego cargue el HTML mediante la manipulación de PowerPoint C++ API [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) para crear una nueva presentación y guardarla como POWERPOINT. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

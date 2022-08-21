@@ -18,7 +18,7 @@ otherformats: PPSM POTM PPTM PPSX PPS PPTX POT POTX POWERPOINT ODP
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="सी++ पर डीओसी से ओडीपी रूपांतरण" %}}
-1. [दस्तावेज़](https://reference.aspose.com/words/cpp/class/aspose.words.ottument) वर्ग संदर्भ का उपयोग करके OTT फ़ाइल खोलें
+1. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.ottument) वर्ग संदर्भ का उपयोग करके OTT फ़ाइल खोलें
 2. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.ottument#save_stdbasicostream_saveoptions) सदस्य फ़ंक्शन का उपयोग करके OTT को HTML में बदलें
 3. एक नया [प्रस्तुति](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)  शुरू करें वस्तु
 4. अपनी स्लाइड में एक ऑटोशेप जोड़ें, और उसमें AddTextFrame जोड़ें

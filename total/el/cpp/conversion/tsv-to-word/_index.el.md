@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOC PPTX DOCX POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή TSV σε WORD μέσω C++" h2="Εξαγωγή Excel&reg; TSV σε WORD σε πλήρως λειτουργικές εφαρμογές C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή TSV σε WORD μέσω C++" h2="Εξαγωγή Excel<sup>&reg;</sup> TSV σε WORD σε πλήρως λειτουργικές εφαρμογές C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Μετατροπή TSV σε WORD σε C++" %}}

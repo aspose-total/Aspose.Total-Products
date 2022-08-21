@@ -13,7 +13,7 @@ otherformats: XLSB XLTM XLTX EXCEL ODS TSV XLS DIF XLT CSV XLAM SXC XLSX XLSM
 {{< blocks/products/pf/feature-page-header h1="Android Uygulamalarında DOTM'yi FODS'ye Dönüştür" h2="DOTM'yi, Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan Java aracılığıyla Android'de FODS'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Java üzerinden [Aspose.Total for Android](https://products.aspose.com/total/android-java/) kullanarak, android uygulamalarınızda DOTM'den FODS'ye dönüştürme özelliğini entegre edebilirsiniz. İlk olarak, zengin özelliklere sahip belge işleme ve dönüştürme API'sini [Java üzerinden Aspose.Words for Android](https://products.aspose.com/words/android-java/) kullanarak DOTM'u HTML'ye dönüştürebilirsiniz. Bundan sonra, [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi FODS'ye dönüştürebilirsiniz. 
+Java üzerinden [Aspose.Total for Android](https://products.aspose.com/total/android-java/) kullanarak, android uygulamalarınızda DOTM'den FODS'ye dönüştürme özelliğini entegre edebilirsiniz. İlk olarak, zengin özelliklere sahip belge işleme ve dönüştürme API'sini [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) kullanarak DOTM'u HTML'ye dönüştürebilirsiniz. Bundan sonra, [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi FODS'ye dönüştürebilirsiniz. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -46,7 +46,7 @@ DOTM'yi FODS'ye dönüştürmeden önce, kullanılmayan bilgileri [Aspose.Words 
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Java aracılığıyla Android'de Akış için FODS Dosyasını Kaydet" %}}
-DOTM'yi FODS'ye dönüştürdükten sonra, [Java üzerinden Aspose.Cells for Android](https://products.aspose.com/cells/android-java/), belgenizi akışa kaydetmenizi sağlar. Dosyaları bir Akışa kaydetmeniz gerekiyorsa, bir FileOutputStream nesnesi oluşturmalı ve ardından [kaydet](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) [Çalışma Kitabı](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) kaydetme yöntemini çağırarak bu Stream nesnesine dosya nesne.
+DOTM'yi FODS'ye dönüştürdükten sonra, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), belgenizi akışa kaydetmenizi sağlar. Dosyaları bir Akışa kaydetmeniz gerekiyorsa, bir FileOutputStream nesnesi oluşturmalı ve ardından [kaydet](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) [Çalışma Kitabı](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) kaydetme yöntemini çağırarak bu Stream nesnesine dosya nesne.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}

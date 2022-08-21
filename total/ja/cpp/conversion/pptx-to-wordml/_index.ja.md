@@ -19,9 +19,9 @@ otherformats: FLATOPC DOC WORD TEXT ODT OTT DOCX DOTM DOT DOTX RTF DOCM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="PPTXをWORDMLに変換するC++API" %}}
 1. [プレゼンテーション](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)クラスリファレンスを使用してPPTXファイルをロードします
-2. [保存](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e)メンバー関数を使用してPPTXをHTMLにレンダリングし、HtmlをSaveFormatとして設定します
+2. [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e)メンバー関数を使用してPPTXをHTMLにレンダリングし、HtmlをSaveFormatとして設定します
 3. [ドキュメント](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument)クラスリファレンスを使用して、変換されたHTMLファイルをロードします
-4. [保存](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument#save_string)メンバー機能を使用して、ドキュメントをWORDML形式で保存します。
+4. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument#save_string)メンバー機能を使用して、ドキュメントをWORDML形式で保存します。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

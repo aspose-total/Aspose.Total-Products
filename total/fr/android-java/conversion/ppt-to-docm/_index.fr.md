@@ -13,20 +13,20 @@ otherformats: DOCX RTF ODT DOTM TEXT OTT DOC FLATOPC DOTX WORD WORDML DOT
 {{< blocks/products/pf/feature-page-header h1="Rendre PPT en DOCM sur Andorid via Java" h2="API de format de fichier pour convertir PPT en DOCM dans les applications Android sans dépendre de Microsoft PowerPoint ou Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total pour Android via Java](https://products.aspose.com/total/android-java/) permet de manipuler les formats de fichiers dans les applications Android. En utilisant les API fournies dans le package, vous pouvez automatiser le processus de conversion de PowerPoint PPT en Word DOCM dans vos applications.
-Vous pouvez convertir votre docmument donné en deux étapes. Vous pouvez utiliser [Aspose.Slides pour Andorid via Java](https://products.aspose.com/slides/android-java/) qui est une API PowerPoint pour les applications Android pour rendre PPT en HTML. Après cela, en utilisant l'API de traitement de docmument [Aspose.Words pour Android via Java](https://products.aspose.com/words/android-java/), vous pouvez convertir le HTML en DOCM. 
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) permet de manipuler les formats de fichiers dans les applications Android. En utilisant les API fournies dans le package, vous pouvez automatiser le processus de conversion de PowerPoint PPT en Word DOCM dans vos applications.
+Vous pouvez convertir votre docmument donné en deux étapes. Vous pouvez utiliser [Aspose.Slides for Andorid via Java](https://products.aspose.com/slides/android-java/) qui est une API PowerPoint pour les applications Android pour rendre PPT en HTML. Après cela, en utilisant l'API de traitement de docmument [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/), vous pouvez convertir le HTML en DOCM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Rendu PPT vers DOCM sous Android" %}}
 1. Ouvrez le fichier PPT à l'aide de la classe [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Convertissez PPT en HTML en utilisant [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.MéthodeISaveOptions-) et définissez Html comme SaveFormat
-3. Chargez le fichier HTML converti à l'aide de la classe [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument)
-4. Enregistrez le docmument au format DOCM à l'aide de la méthode [save](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,int)) et définissez Docm en tant que format de sauvegarde
+3. Chargez le fichier HTML converti à l'aide de la classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. Enregistrez le docmument au format DOCM à l'aide de la méthode [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) et définissez Docm en tant que format de sauvegarde
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
-Vous pouvez facilement utiliser Aspose.Total pour Android via Java directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et installez [Aspose.Slides pour Android via Java](https://docms.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) et [Aspose.Words pour Andorid via Java](https://docms.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) dans votre applications.
+Vous pouvez facilement utiliser Aspose.Total for Android via Java directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et installez [Aspose.Slides for Android via Java](https://docms.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) et [Aspose.Words pour Andorid via Java](https://docms.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) dans votre applications.
 
 Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -36,8 +36,8 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://d
 Presentation presentation = new Presentation("input.ppt");
 // save the presentation as HTML
 presentation.save("htmlOutput.html", SaveFormat.Html);
-// load HTML with an instance of Docmument
-Docmument docmument = new Docmument("htmlOutput.html");
+// load HTML with an instance of Document
+Document docmument = new Document("htmlOutput.html");
 // save docmument in DOCM format
 docmument.save("output.docm",SaveFormat.Docmm);   
 ```

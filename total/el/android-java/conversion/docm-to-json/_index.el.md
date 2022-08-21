@@ -13,19 +13,19 @@ otherformats: XLT XLTM FODS SXC XLAM XLS EXCEL ODS XLSM DIF XLSB XLTX TSV CSV
 {{< blocks/products/pf/feature-page-header h1="Μετατροπή DOCM σε μορφή JSON στο Android μέσω Java" h2="Σχεδιάστε εφαρμογές Android για εξαγωγή DOCM σε JSON χωρίς χρήση Microsoft<sup>&reg;</sup> Word ή Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Μπορείτε να μετατρέψετε το DOCM σε μορφή JSON στις Εφαρμογές σας Android μέσω του [Aspose.Total για Android μέσω Java](https://products.aspose.com/total/android-java/). Χρησιμοποιώντας το API χειρισμού εγγράφων και μετατροπής [Aspose.Words για Android μέσω Java](https://products.aspose.com/words/android-java/), μπορείτε να εξαγάγετε το DOCM σε HTML. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Cells για Android μέσω Java](https://products.aspose.com/cells/android-java/), μπορείτε να μετατρέψετε HTML σε JSON. 
+Μπορείτε να μετατρέψετε το DOCM σε μορφή JSON στις Εφαρμογές σας Android μέσω του [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Χρησιμοποιώντας το API χειρισμού εγγράφων και μετατροπής [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/), μπορείτε να εξαγάγετε το DOCM σε HTML. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), μπορείτε να μετατρέψετε HTML σε JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Μετατροπή DOCM σε μορφή JSON στο Android" %}}
-1. Ανοίξτε το αρχείο DOCM χρησιμοποιώντας την κλάση [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument)
-2. Μετατρέψτε το DOCM σε HTML χρησιμοποιώντας το [Save](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions) ) μέθοδος
+1. Ανοίξτε το αρχείο DOCM χρησιμοποιώντας την κλάση [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Μετατρέψτε το DOCM σε HTML χρησιμοποιώντας το [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) μέθοδος
 3. Φορτώστε το έγγραφο HTML χρησιμοποιώντας την τάξη [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Αποθηκεύστε το έγγραφο σε μορφή JSON χρησιμοποιώντας το [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) μέθοδο
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
-Μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.Total για Android μέσω Java απευθείας από το [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) και εγκαταστήστε βιβλιοθήκες στην εφαρμογή σας.
+Μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.Total for Android via Java απευθείας από το [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) και εγκαταστήστε βιβλιοθήκες στην εφαρμογή σας.
 
 Εναλλακτικά, μπορείτε να λάβετε ένα αρχείο ZIP από τις [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

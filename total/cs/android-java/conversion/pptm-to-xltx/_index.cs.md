@@ -13,7 +13,7 @@ otherformats: XLSX CSV XLT SXC XLSB EXCEL ODS TSV MARKDOWN XLTM MHTML XLS XLAM X
 {{< blocks/products/pf/feature-page-header h1="Převeďte PPTM na XLTX v Androidu přes Java" h2="Exportujte soubor PPTM do XLTX v aplikacích pro Android bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Soubor PPTM můžete snadno převést na XLTX ve svých aplikacích pro Android ve dvou krocích prostřednictvím [Aspose.Total pro Android přes Java](https://products.aspose.com/total/android-java/). V prvním kroku můžete exportovat soubor PPTM do HTML pomocí [Aspose.Slides pro Android přes Java](https://products.aspose.com/slides/android-java/). Za druhé, pomocí [Aspose.Cells pro Android přes Java](https://products.aspose.com/cells/android-java/) můžete převést HTML na XLTX. 
+Soubor PPTM můžete snadno převést na XLTX ve svých aplikacích pro Android ve dvou krocích prostřednictvím [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). V prvním kroku můžete exportovat soubor PPTM do HTML pomocí [Aspose.Slides pro Android přes Java](https://products.aspose.com/slides/android-java/). Za druhé, pomocí [Aspose.Cells pro Android přes Java](https://products.aspose.com/cells/android-java/) můžete převést HTML na XLTX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

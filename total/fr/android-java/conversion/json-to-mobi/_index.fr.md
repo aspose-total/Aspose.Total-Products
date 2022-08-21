@@ -13,7 +13,7 @@ otherformats: RTF ODT FLATOPC OTT WORD DOT EPUB DOTX PCL DOCM DOC CHM PS WORDML
 {{< blocks/products/pf/feature-page-header h1="Convertir le format JSON en MOBI dans les applications Android" h2="Analyse JSON vers MOBI dans les applications Android sans utiliser Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Vous pouvez convertir JSON en MOBI dans vos applications Android en deux étapes. Tout d'abord, en utilisant l'API de traitement de feuille de calcul puissante [Aspose.Cells pour Android via Java](https://products.aspose.com/cells/android-java/), vous pouvez analyser JSON en PDF. Dans la deuxième étape, vous pouvez convertir un PDF en MOBI en utilisant l'API de traitement de texte [Aspose.Words pour Android via Java](https://products.aspose.com/words/android-java/). Les deux API appartiennent à la famille de produits [Aspose.Total pour Android via Java](https://products.aspose.com/total/android-java/). 
+Vous pouvez convertir JSON en MOBI dans vos applications Android en deux étapes. Tout d'abord, en utilisant l'API de traitement de feuille de calcul puissante [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), vous pouvez analyser JSON en PDF. Dans la deuxième étape, vous pouvez convertir un PDF en MOBI en utilisant l'API de traitement de texte [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Les deux API appartiennent à la famille de produits [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Vous pouvez convertir JSON en MOBI dans vos applications Android en deux étapes
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
-Vous pouvez facilement utiliser Aspose.Total pour Android via Java directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et installer des bibliothèques dans votre application.
+Vous pouvez facilement utiliser Aspose.Total for Android via Java directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et installer des bibliothèques dans votre application.
 
 Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

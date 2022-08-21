@@ -19,11 +19,11 @@ otherformats: PPS POTX PPT POTM PPTX PPSX POWERPOINT PPSM PPTM POT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="تحويل FLATOPC إلى ODP على C++" %}}
 1. افتح ملف FLATOPC باستخدام [Flatopcument](https://reference.aspose.com/words/cpp/class/aspose.words.flatopcument) مرجع فئة
-2. تحويل FLATOPC إلى HTML باستخدام وظيفة العضو [حفظ](https://reference.aspose.com/words/cpp/class/aspose.words.flatopcument#save_stdbasicostream_saveoptions)
+2. تحويل FLATOPC إلى HTML باستخدام وظيفة العضو [Save](https://reference.aspose.com/words/cpp/class/aspose.words.flatopcument#save_stdbasicostream_saveoptions)
 3. تهيئة كائن [عرض تقديمي] جديد(https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. إضافة شكل تلقائي في الشريحة الخاصة بك ، وإضافة AddTextFrame فيه
 5. قم بتحميل محتوى HTML واكتبه في ملف العرض التقديمي الخاص بك
-6. احفظ المستند بتنسيق ODP باستخدام طريقة [حفظ](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) وتعيين Odp على أنه SaveFormat
+6. احفظ المستند بتنسيق ODP باستخدام طريقة [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) وتعيين Odp على أنه SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}

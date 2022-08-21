@@ -46,7 +46,7 @@ Az [Aspose.PDF for Android Java viadal](https://products.aspose.com/pdf/android-
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Védje a XLTX-dokumentumot Androidon Java segítségével" %}}
-Az [Aspose.Cells for Android Java-n keresztül](https://products.aspose.com/cells/android-java/) támogatja a XLTX-fájl védelmét az Ön igényeitől függően. A dokumentum védelme érdekében használhatja a [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) módszert a [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) osztály.
+Az [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) támogatja a XLTX-fájl védelmét az Ön igényeitől függően. A dokumentum védelme érdekében használhatja a [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) módszert a [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) osztály.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-xltx.java" >}}

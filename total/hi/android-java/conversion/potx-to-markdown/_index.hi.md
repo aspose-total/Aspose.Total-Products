@@ -13,7 +13,7 @@ otherformats: EXCEL ODS XLTM MHTML XLAM XLSM SXC XLSX XLT TSV DIF FODS XLSB XLTX
 {{< blocks/products/pf/feature-page-header h1="जावा के माध्यम से एंड्रॉइड में पीओटी को सीएसवी में कनवर्ट करें" h2="Microsoft<sup>&reg;</sup> Excel या PowerPoint का उपयोग किए बिना Android अनुप्रयोगों में POTX फ़ाइल को MARKDOWN में निर्यात करें" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-आप अपने Android ऐप्लिकेशन में [Aspose.Total for Android by Java](https://products.aspose.com/total/android-java/) के ज़रिए आसानी से अपने Android ऐप्लिकेशन में POTX फ़ाइल को MARKDOWN में बदल सकते हैं। पहले चरण में आप [Aspose.Slides for Android by Java](https://products.aspose.com/slides/android-java/) का उपयोग करके HTML को POTX फ़ाइल निर्यात कर सकते हैं। दूसरे, [Aspose.Cells for Android by Java](https://products.aspose.com/cells/android-java/) का उपयोग करके, आप HTML को MARKDOWN में बदल सकते हैं। 
+आप अपने Android ऐप्लिकेशन में [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) के ज़रिए आसानी से अपने Android ऐप्लिकेशन में POTX फ़ाइल को MARKDOWN में बदल सकते हैं। पहले चरण में आप [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) का उपयोग करके HTML को POTX फ़ाइल निर्यात कर सकते हैं। दूसरे, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) का उपयोग करके, आप HTML को MARKDOWN में बदल सकते हैं। 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

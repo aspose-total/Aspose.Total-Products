@@ -13,7 +13,7 @@ otherformats: POWERPOINT PPSX PPSM PPT OTP POT POTM PPS POTX ODP
 {{< blocks/products/pf/feature-page-header h1="Konversi Format JSON ke PPTM di Android" h2="Parsing format JSON ke PPTM di Aplikasi Android tanpa menggunakan Microsoft<sup>&reg;</sup> PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Anda dapat mengonversi format JSON ke PPTM di aplikasi Android Anda dalam proses dua langkah. Pertama, dengan menggunakan [Aspose.Cells untuk Android melalui Java](https://products.aspose.com/cells/android-java/), Anda dapat mengurai JSON ke PPTX. Setelah itu, dengan menggunakan [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/), Anda dapat mengonversi PPTX ke PPTM. Kedua API berada di bawah paket [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
+Anda dapat mengonversi format JSON ke PPTM di aplikasi Android Anda dalam proses dua langkah. Pertama, dengan menggunakan [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), Anda dapat mengurai JSON ke PPTX. Setelah itu, dengan menggunakan [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/), Anda dapat mengonversi PPTX ke PPTM. Kedua API berada di bawah paket [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Anda dapat mengonversi format JSON ke PPTM di aplikasi Android Anda dalam proses
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
-Anda dapat dengan mudah menggunakan Aspose.Total untuk Android melalui Java langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) dan instal pustaka di aplikasi Anda.
+Anda dapat dengan mudah menggunakan Aspose.Total for Android via Java langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) dan instal pustaka di aplikasi Anda.
 
 Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -13,15 +13,15 @@ otherformats: EMF TIFF TEXT GIF RTF DOCM WORDML DOC BMP PDF FLATOPC PS XPS PNG M
 {{< blocks/products/pf/feature-page-header h1="C++ API pro export MSG do EPUB" h2="Transformujte MSG na EPUB v rámci aplikace C++ bez nutnosti aplikace Microsoft Word nebo Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Jste vývojář C++ a chcete do svých aplikací přidat funkce pro převod e-mailů? Pomocí [Aspose.Msg for C++](https://products.aspose.com/msg/cpp/) můžete převést formát souboru MSG do HTML. Poté můžete pomocí [Aspose.Words for C++](https://products.aspose.com/words/cpp/) API exportovat HTML do EPUB. Obě rozhraní API jsou součástí balíčku [Aspose.Total pro C++](https://products.aspose.com/total/cpp/). 
+Jste vývojář C++ a chcete do svých aplikací přidat funkce pro převod e-mailů? Pomocí [Aspose.Msg for C++](https://products.aspose.com/msg/cpp/) můžete převést formát souboru MSG do HTML. Poté můžete pomocí [Aspose.Words for C++](https://products.aspose.com/words/cpp/) API exportovat HTML do EPUB. Obě rozhraní API jsou součástí balíčku [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API pro převod MSG na EPUB" %}}
 1. Otevřete soubor MSG pomocí odkazu třídy [MailMessage](https://reference.aspose.com/msg/cpp/class/aspose.msg.mail_message)
-2. Převeďte MSG na HTML pomocí členské funkce [Uložit](https://reference.aspose.com/msg/cpp/class/aspose.msg.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
+2. Převeďte MSG na HTML pomocí členské funkce [Save](https://reference.aspose.com/msg/cpp/class/aspose.msg.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
 3. Načtěte HTML pomocí třídy [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
-4. Uložte dokument do formátu EPUB pomocí metody [Uložit](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) a nastavte Epub jako SaveFormat
+4. Uložte dokument do formátu EPUB pomocí metody [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) a nastavte Epub jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}

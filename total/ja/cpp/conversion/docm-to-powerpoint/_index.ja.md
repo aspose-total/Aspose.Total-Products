@@ -19,11 +19,11 @@ otherformats: PPT PPS POTX PPSX PPTX PPTM POT ODP PPSM POTM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++でのDOCMからPOWERPOINTへの変換" %}}
 1. [ドキュメント](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)クラスリファレンスを使用してDOCMファイルを開きます
-2. [保存](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_stdbasicostream_saveoptions)メンバー関数を使用してDOCMをHTMLに変換します
+2. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_stdbasicostream_saveoptions)メンバー関数を使用してDOCMをHTMLに変換します
 3.新しい[プレゼンテーション](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)オブジェクトを初期化します
 4.スライドにAutoShapeを追加し、それにAddTextFrameを追加します
 5. HTMLコンテンツをロードし、プレゼンテーションファイルに書き込みます
-6. [保存](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e)メソッドを使用してドキュメントをPOWERPOINT形式で保存し、PowerpointをSaveFormatとして設定します
+6. [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e)メソッドを使用してドキュメントをPOWERPOINT形式で保存し、PowerpointをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
@@ -34,9 +34,9 @@ otherformats: PPT PPS POTX PPSX PPTX PPTM POT ODP PPSM POTM
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp
-// load DOCM file with an instance of Docmument
-Docmument docmument = new Docmument("template.docm");
-System::SharedPtr<Docmument> docm = System::MakeObject<Docmument>(u"sourceFile.docm");
+// load DOCM file with an instance of Document
+Document docmument = new Document("template.docm");
+System::SharedPtr<Document> docm = System::MakeObject<Document>(u"sourceFile.docm");
 // save the docmument in HTML file format
 docm->Save(u"HtmlOutput.HTML");
 // load the desired the presentation
@@ -74,7 +74,7 @@ pres->Save(output.pptx, Aspose::Slides::Export::SaveFormat::Pptx);
 // when loading password protected docmument, the password is passed to the docmument's constructor using a LoadOptions object.
 auto options = MakeObject<LoadOptions>(u"docmPassword");
 // load the docmument from the local file system by filename:
-SharedPtr<Docmument> docm = MakeObject<Docmument>(u"Encrypted.docm", options);
+SharedPtr<Document> docm = MakeObject<Document>(u"Encrypted.docm", options);
 ```
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

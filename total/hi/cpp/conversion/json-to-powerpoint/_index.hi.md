@@ -19,9 +19,9 @@ otherformats: OTP PPSM PPT POTM PPTM PPS POT ODP PPSX POTX
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="जेएसओएन प्रारूप को सी ++ के माध्यम से ओडीपी में कनवर्ट करें" %}}
 1. एक नया [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) ऑब्जेक्ट बनाएं और फ़ाइल से मान्य JSON डेटा पढ़ें
-2. [सहेजें](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) विधि का उपयोग करके JSON को PPTX के रूप में सहेजें
+2. [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) विधि का उपयोग करके JSON को PPTX के रूप में सहेजें
 3. [प्रस्तुति](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) वर्ग का उपयोग करके PPTX दस्तावेज़ लोड करें
-4. [सहेजें](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) विधि का उपयोग करके दस्तावेज़ को POWERPOINT प्रारूप में सहेजें
+4. [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) विधि का उपयोग करके दस्तावेज़ को POWERPOINT प्रारूप में सहेजें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}

@@ -13,7 +13,7 @@ otherformats: RTF EMF PCL EPUB JPEG ODT XPS DOTX DOCX OTT MD DOT GIF FLATOPC SVG
 {{< blocks/products/pf/feature-page-header h1="Förvandla EML till TEXT i Andorid Apps" h2="Utformar Andorid-applikationer för att exportera EML till TEXT genom att använda Andorid via Java API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Andorid Apps är enkla att använda för slutanvändare dagligen. Dag för dag ökar antalet användare av Andorid-telefoner. Genom att använda de kraftfulla [Aspose.Total för Android via Java](https://products.aspose.com/total/android-java/) filformatsautomatiseringsbibliotek kan du utveckla applikationer för e-postmanipulation och -konvertering. Du kan konvertera EML till TEXT genom att kombinera [Aspose.Eml for Android Java](https://products.aspose.com/eml/android-java/) och [Aspose.Words for Andorid Java](https://products.aspose.com/words/android-java/). Med det första API:et kan du konvertera EML-filformatet till HTML och genom att använda det andra API:et kan du rendera HTML som TEXT. 
+Andorid Apps är enkla att använda för slutanvändare dagligen. Dag för dag ökar antalet användare av Andorid-telefoner. Genom att använda de kraftfulla [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) filformatsautomatiseringsbibliotek kan du utveckla applikationer för e-postmanipulation och -konvertering. Du kan konvertera EML till TEXT genom att kombinera [Aspose.Eml for Android Java](https://products.aspose.com/eml/android-java/) och [Aspose.Words for Andorid Java](https://products.aspose.com/words/android-java/). Med det första API:et kan du konvertera EML-filformatet till HTML och genom att använda det andra API:et kan du rendera HTML som TEXT. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Andorid Apps är enkla att använda för slutanvändare dagligen. Dag för dag �
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
-Du kan enkelt använda Aspose.Total för Android via Java direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) och installera [Aspose.Eml för Android via Java](https://docs.aspose.com/eml/androidjava/installation/) och [Aspose.Words för Andorid via Java](https://docs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) i dina applikationer.
+Du kan enkelt använda Aspose.Total for Android via Java direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) och installera [Aspose.Eml för Android via Java](https://docs.aspose.com/eml/androidjava/installation/) och [Aspose.Words för Andorid via Java](https://docs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) i dina applikationer.
 
 Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

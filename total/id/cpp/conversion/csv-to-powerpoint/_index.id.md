@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: WORD DOCX DOC PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi CSV ke POWERPOINT melalui C++" h2="Ekspor Excel&reg; CSV ke POWERPOINT dalam aplikasi C++ yang berfungsi penuh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi CSV ke POWERPOINT melalui C++" h2="Ekspor Excel<sup>&reg;</sup> CSV ke POWERPOINT dalam aplikasi C++ yang berfungsi penuh" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konversi CSV ke POWERPOINT di C++" %}}

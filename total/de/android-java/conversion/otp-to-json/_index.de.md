@@ -13,7 +13,7 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 {{< blocks/products/pf/feature-page-header h1="Konvertieren Sie OTP in das JSON-Format in Android über Java" h2="Entwerfen Sie Android-Anwendungen zum Exportieren von OTP in JSON, ohne Microsoft<sup>&reg;</sup> Word oder Excel zu verwenden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Sie können das OTP-Format in Ihren Android-Anwendungen über [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) in das JSON-Format konvertieren. Durch die Verwendung der Dokumentbearbeitungs- und Konvertierungs-API [Aspose.Words für Android über Java](https://products.aspose.com/words/android-java/) können Sie OTP in HTML exportieren. Danach können Sie mit [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) HTML in JSON konvertieren. 
+Sie können das OTP-Format in Ihren Android-Anwendungen über [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) in das JSON-Format konvertieren. Durch die Verwendung der Dokumentbearbeitungs- und Konvertierungs-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) können Sie OTP in HTML exportieren. Danach können Sie mit [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) HTML in JSON konvertieren. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

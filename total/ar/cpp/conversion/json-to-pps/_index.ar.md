@@ -19,9 +19,9 @@ otherformats: PPSX PPSM PPTM POWERPOINT POTM POTX PPT ODP OTP POT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="تحويل تنسيق JSON إلى PPS عبر C++" %}}
 1. أنشئ كائنًا جديدًا [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) واقرأ بيانات JSON الصالحة من الملف
-2. احفظ JSON بتنسيق PPTX باستخدام طريقة [حفظ](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
+2. احفظ JSON بتنسيق PPTX باستخدام طريقة [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
 3. قم بتحميل مستند PPTX باستخدام فئة [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
-4. احفظ المستند بتنسيق PPS باستخدام طريقة [حفظ](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e)
+4. احفظ المستند بتنسيق PPS باستخدام طريقة [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}

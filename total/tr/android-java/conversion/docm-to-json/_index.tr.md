@@ -13,13 +13,13 @@ otherformats: XLT XLTM FODS SXC XLAM XLS EXCEL ODS XLSM DIF XLSB XLTX TSV CSV
 {{< blocks/products/pf/feature-page-header h1="Java ile Android'de DOCM'yi JSON Formatına Dönüştür" h2="Microsoft<sup>&reg;</sup> Word veya Excel kullanmadan DOCM'yi JSON'a aktarmak için Android uygulamaları tasarlayın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) aracılığıyla Android Uygulamalarınızda DOCM'yi JSON formatına dönüştürebilirsiniz. Belge işleme ve dönüştürme API'sini [Java üzerinden Aspose.Words for Android](https://products.aspose.com/words/android-java/) kullanarak, DOCM'yi HTML'ye aktarabilirsiniz. Bundan sonra, [Java üzerinden Android için Aspose.Cells](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi JSON'a dönüştürebilirsiniz. 
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) aracılığıyla Android Uygulamalarınızda DOCM'yi JSON formatına dönüştürebilirsiniz. Belge işleme ve dönüştürme API'sini [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) kullanarak, DOCM'yi HTML'ye aktarabilirsiniz. Bundan sonra, [Java üzerinden Android için Aspose.Cells](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi JSON'a dönüştürebilirsiniz. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Android'de DOCM'yi JSON Formatına Dönüştür" %}}
-1. DOCM dosyasını [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument) sınıfını kullanarak açın
-2. [Kaydet](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions)) kullanarak DOCM'yi HTML'ye dönüştürün. ) yöntem
+1. DOCM dosyasını [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) sınıfını kullanarak açın
+2. [Kaydet](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) kullanarak DOCM'yi HTML'ye dönüştürün. ) yöntem
 3. [Çalışma Kitabı](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak HTML belgesini yükleyin
 4. [Kaydet](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) yöntemi
 {{% /blocks/products/pf/agp/feature-section-col %}}

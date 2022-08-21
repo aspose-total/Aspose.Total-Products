@@ -13,7 +13,7 @@ otherformats: XLS XLTM MARKDOWN SXC EXCEL XLAM TSV XLSB XLTX FODS DIF XLT ODS MH
 {{< blocks/products/pf/feature-page-header h1="Konwertuj PPTX na XLSX w Androidzie przez Java" h2="Eksportuj plik PPTX do XLSX w aplikacjach na Androida bez użycia programu Microsoft<sup>&reg;</sup> Excel lub PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Możesz łatwo przekonwertować plik PPTX na XLSX w swoich aplikacjach na Androida w dwuetapowym procesie za pomocą [Aspose.Total dla Androida przez Javę](https://products.aspose.com/total/android-java/). W pierwszym kroku możesz wyeksportować plik PPTX do HTML, używając [Aspose.Slides na Androida przez Javę](https://products.aspose.com/slides/android-java/). Po drugie, używając [Aspose.Cells na Androida przez Javę](https://products.aspose.com/cells/android-java/), możesz przekonwertować HTML na XLSX. 
+Możesz łatwo przekonwertować plik PPTX na XLSX w swoich aplikacjach na Androida w dwuetapowym procesie za pomocą [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). W pierwszym kroku możesz wyeksportować plik PPTX do HTML, używając [Aspose.Slides na Androida przez Javę](https://products.aspose.com/slides/android-java/). Po drugie, używając [Aspose.Cells na Androida przez Javę](https://products.aspose.com/cells/android-java/), możesz przekonwertować HTML na XLSX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Możesz łatwo przekonwertować plik PPTX na XLSX w swoich aplikacjach na Androi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
-Aby przekonwertować PPTX do XLSX, możesz łatwo użyć Aspose.Total dla Androida przez Javę bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i zainstaluj biblioteki w swojej aplikacji.
+Aby przekonwertować PPTX do XLSX, możesz łatwo użyć Aspose.Total for Android via Java bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i zainstaluj biblioteki w swojej aplikacji.
 
 Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

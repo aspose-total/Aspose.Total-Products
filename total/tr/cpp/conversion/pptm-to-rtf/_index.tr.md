@@ -20,7 +20,7 @@ otherformats: ODT DOC DOCM WORDML FLATOPC WORD DOTM DOT DOCX DOTX OTT TEXT
 {{% blocks/products/pf/agp/feature-section-col title="PPTM'u RTF'a Dönüştürmek için C++ API" %}}
 1. [Sunum](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) sınıf referansını kullanarak PPTM dosyasını yükleyin
 2. [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) üye işlevini kullanarak PPTM'u HTML'ye dönüştürün ve Html'yi SaveFormat olarak ayarlayın
-3. Dönüştürülen HTML dosyasını [Belge](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument) sınıf referansını kullanarak yükleyin
+3. Dönüştürülen HTML dosyasını [Document](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument) sınıf referansını kullanarak yükleyin
 4. [Kaydet](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument#save_string) üye işlevini kullanarak belgeyi RTF biçiminde kaydedin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -13,15 +13,15 @@ otherformats: DOCX DOTX FLATOPC WORDML ODT DOCM DOT DOC RTF WORD OTT DOTM
 {{< blocks/products/pf/feature-page-header h1="C++ API pro vykreslení POTX do TEXT" h2="Export POTX do TEXT v aplikacích C++ bez jakýchkoli závislostí Microsoft PowerPoint nebo Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total pro C++](https://products.aspose.com/total/cpp/) je kompletní balíček knihoven C++ File Format Automation. Pomocí bohatých funkcí API dostupných v balíčku můžeme snadno převést PowerPoint POTX na Word TEXT. Chcete-li provést převod, můžete nejprve použít [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API k převodu POTX do HTML. Potxé pomocí rozhraní API pro zpracování textu s bohatými funkcemi [Aspose.Words for C++](https://products.aspose.com/words/cpp/) můžete převést HTML na TEXT. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) je kompletní balíček knihoven C++ File Format Automation. Pomocí bohatých funkcí API dostupných v balíčku můžeme snadno převést PowerPoint POTX na Word TEXT. Chcete-li provést převod, můžete nejprve použít [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API k převodu POTX do HTML. Potxé pomocí rozhraní API pro zpracování textu s bohatými funkcemi [Aspose.Words for C++](https://products.aspose.com/words/cpp/) můžete převést HTML na TEXT. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API pro převod POTX na TEXT" %}}
 1. Načtěte soubor POTX pomocí odkazu třídy [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
-2. Vykreslete POTX do HTML pomocí členské funkce [Uložit](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) a nastavte Html jako SaveFormat
+2. Vykreslete POTX do HTML pomocí členské funkce [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) a nastavte Html jako SaveFormat
 3. Načtěte převedený soubor HTML pomocí odkazu na třídu [Textument](https://reference.aspose.com/words/cpp/class/aspose.words.textument)
-4. Uložte dokument ve formátu TEXT pomocí členské funkce [Uložit](https://reference.aspose.com/words/cpp/class/aspose.words.textument#save_string)
+4. Uložte dokument ve formátu TEXT pomocí členské funkce [Save](https://reference.aspose.com/words/cpp/class/aspose.words.textument#save_string)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}

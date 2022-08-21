@@ -18,7 +18,7 @@ otherformats: PPSM POTX POTM PPTM PPTX PPT PPS ODP PPSX POT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++'da DOTX'den POWERPOINT'ye Dönüştürme" %}}
-1. [Belge](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument) sınıf referansını kullanarak DOTX dosyasını açın
+1. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument) sınıf referansını kullanarak DOTX dosyasını açın
 2. [Kaydet](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument#save_stdbasicostream_saveoptions) üye işlevini kullanarak DOTX'yi HTML'ye dönüştürün
 3. Yeni bir [Sunum](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) nesnesini başlatın
 4. Slaytınıza bir Otomatik Şekil ekleyin ve buna AddTextFrame ekleyin

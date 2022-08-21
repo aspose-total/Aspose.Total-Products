@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: POWERPOINT PPTX DOCX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通过 C++ 将 ODS 转换为 DOC" h2="导出 Excel&reg;全功能 C++ 应用程序中的 ODS 到 DOC" >}}
+{{< blocks/products/pf/feature-page-header h1="通过 C++ 将 ODS 转换为 DOC" h2="导出 Excel<sup>&reg;</sup>全功能 C++ 应用程序中的 ODS 到 DOC" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ 上的 ODS 到 DOC 转换" %}}

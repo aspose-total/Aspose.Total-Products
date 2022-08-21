@@ -13,7 +13,7 @@ otherformats: DIF MHTML SXC TSV ODS XLTX EXCEL XLSM XLSB FODS XLSX XLS XLTM CSV 
 {{< blocks/products/pf/feature-page-header h1="Convierta POTM a XLT a través de C++" h2="Conversión de archivos POTM a XLT a través de C++ sin usar Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Al usar [Aspose.Total para C++](https://products.aspose.com/total/cpp/) puede convertir archivos POTM a XLT dentro de aplicaciones C++ en dos simples pasos. En primer lugar, al usar [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), puede exportar POTM a HTML. Después de eso, al usar [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) API de programación de hojas de cálculo, puede convertir HTML a XLT. 
+Al usar [Aspose.Total for C++](https://products.aspose.com/total/cpp/) puede convertir archivos POTM a XLT dentro de aplicaciones C++ en dos simples pasos. En primer lugar, al usar [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), puede exportar POTM a HTML. Después de eso, al usar [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) API de programación de hojas de cálculo, puede convertir HTML a XLT. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

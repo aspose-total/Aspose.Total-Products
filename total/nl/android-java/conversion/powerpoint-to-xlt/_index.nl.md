@@ -13,7 +13,7 @@ otherformats: EXCEL XLAM DIF MARKDOWN CSV XLTM XLSX XLSB TSV XLS SXC FODS XLSM O
 {{< blocks/products/pf/feature-page-header h1="Converteer POWERPOINT naar XLT in Android via Java" h2="Exporteer POWERPOINT-bestand naar XLT in Android-applicaties zonder Microsoft<sup>&reg;</sup> Excel of PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-U kunt het POWERPOINT-bestand eenvoudig naar XLT converteren in uw Android-applicaties in een proces van twee stappen via [Aspose.Total voor Android via Java](https://products.aspose.com/total/android-java/). In de eerste stap kunt u het POWERPOINT-bestand naar HTML exporteren met [Aspose.Slides voor Android via Java](https://products.aspose.com/slides/android-java/). Ten tweede, door [Aspose.Cells voor Android via Java](https://products.aspose.com/cells/android-java/) te gebruiken, kunt u HTML naar XLT converteren. 
+U kunt het POWERPOINT-bestand eenvoudig naar XLT converteren in uw Android-applicaties in een proces van twee stappen via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). In de eerste stap kunt u het POWERPOINT-bestand naar HTML exporteren met [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). Ten tweede, door [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) te gebruiken, kunt u HTML naar XLT converteren. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ U kunt het POWERPOINT-bestand eenvoudig naar XLT converteren in uw Android-appli
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
-Om POWERPOINT naar XLT te converteren, kunt u Aspose.Total voor Android eenvoudig rechtstreeks via Java gebruiken vanuit [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) en installeer bibliotheken in uw app.
+Om POWERPOINT naar XLT te converteren, kunt u Aspose.Total for Android eenvoudig rechtstreeks via Java gebruiken vanuit [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) en installeer bibliotheken in uw app.
 
 U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

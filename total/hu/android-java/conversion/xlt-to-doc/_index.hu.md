@@ -13,7 +13,7 @@ otherformats: PPTX WORD POWERPOINT DOCX
 {{< blocks/products/pf/feature-page-header h1="Renderelje le a XLT-t DOC-fájlba Androidon Java segítségével" h2="A Microsoft<sup>&reg;</sup> Excel használata nélkül alakítsa át a XLT-t DOC formátumba Android-alkalmazásaiban" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Az [Aspose.Total Androidra Java-n keresztül](https://products.aspose.com/total/android-java/) egy hatékony fájlautomatizálási API-k csomagja. Két API használatával integrálhatja a XLT-ből DOC-ba konvertáló funkciót Android-alkalmazásaiba. Az első lépésben exportálhatja a XLT-t PDF formátumba az [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) használatával. Ezt követően az [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) használatával konvertálhatja a PDF-et DOC formátumba. 
+Az [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) egy hatékony fájlautomatizálási API-k csomagja. Két API használatával integrálhatja a XLT-ből DOC-ba konvertáló funkciót Android-alkalmazásaiba. Az első lépésben exportálhatja a XLT-t PDF formátumba az [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) használatával. Ezt követően az [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) használatával konvertálhatja a PDF-et DOC formátumba. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

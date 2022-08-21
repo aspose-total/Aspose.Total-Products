@@ -13,15 +13,15 @@ otherformats: XLTM XLSX MHTML SXC XLSB DIF ODS EXCEL XLAM FODS TSV CSV MARKDOWN 
 {{< blocks/products/pf/feature-page-header h1="แปลง PPSM เป็น XLSM ผ่าน C++" h2="การแปลงไฟล์ PPSM เป็น XLSM ผ่าน C++ โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Excel หรือ PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-ด้วยการใช้ [Aspose.Total สำหรับ C++](https://products.aspose.com/total/cpp/) คุณสามารถแปลงไฟล์ PPSM เป็น XLSM ภายในแอปพลิเคชัน C++ ได้ในสองขั้นตอนง่ายๆ ประการแรก โดยใช้ [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) คุณสามารถส่งออก PPSM เป็น HTML หลังจากนั้น ด้วยการใช้ [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API คุณสามารถแปลง HTML เป็น XLSM 
+ด้วยการใช้ [Aspose.Total for C++](https://products.aspose.com/total/cpp/) คุณสามารถแปลงไฟล์ PPSM เป็น XLSM ภายในแอปพลิเคชัน C++ ได้ในสองขั้นตอนง่ายๆ ประการแรก โดยใช้ [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) คุณสามารถส่งออก PPSM เป็น HTML หลังจากนั้น ด้วยการใช้ [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API คุณสามารถแปลง HTML เป็น XLSM 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง PPSM เป็น XLSM ผ่าน C++" %}}
 1. เปิดไฟล์ PPSM โดยใช้ [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) การอ้างอิงคลาส
-2. แปลง PPSM เป็น HTML โดยใช้วิธี [บันทึก](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba)
+2. แปลง PPSM เป็น HTML โดยใช้วิธี [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba)
 3. โหลดเอกสาร HTML โดยใช้ [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) การอ้างอิงคลาส
-4. บันทึกเอกสารในรูปแบบ XLSM โดยใช้วิธี [บันทึก](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
+4. บันทึกเอกสารในรูปแบบ XLSM โดยใช้วิธี [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}

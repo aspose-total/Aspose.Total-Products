@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: PPTX POWERPOINT DOC WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="A ODS konvertálása DOCX formátumba C++ segítségével" h2="Exportálás Excel&reg; ODS-ből DOCX-ba a teljes funkcionalitású C++ alkalmazásokon belül" >}}
+{{< blocks/products/pf/feature-page-header h1="A ODS konvertálása DOCX formátumba C++ segítségével" h2="Exportálás Excel<sup>&reg;</sup> ODS-ből DOCX-ba a teljes funkcionalitású C++ alkalmazásokon belül" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="ODS-ből DOCX-ba konvertálás C++-on" %}}

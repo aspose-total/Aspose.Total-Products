@@ -21,7 +21,7 @@ Utilizzando [Aspose.Total for C++](https://products.aspose.com/total/cpp/) puoi 
 1. Aprire il file DOTX utilizzando [Dotxument](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument) riferimento alla classe
 2. Converti DOTX in HTML utilizzando la funzione membro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument#save_string_saveformat)
 3. Caricare il dotxumento HTML utilizzando il riferimento alla classe [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
-4. Salva il dotxumento in formato JSON utilizzando la funzione membro [Salva](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
+4. Salva il dotxumento in formato JSON utilizzando la funzione membro [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}

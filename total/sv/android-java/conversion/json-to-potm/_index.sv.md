@@ -13,7 +13,7 @@ otherformats: PPS PPTM ODP PPSX PPT PPSM POT POTX OTP POWERPOINT
 {{< blocks/products/pf/feature-page-header h1="Konvertera JSON-format till POTM i Android" h2="Analysera JSON-format till POTM i Android-applikationer utan att använda Microsoft<sup>&reg;</sup> PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Du kan konvertera JSON-format till POTM i dina Android-applikationer i en tvåstegsprocess. För det första, genom att använda [Aspose.Cells för Android via Java](https://products.aspose.com/cells/android-java/), kan du tolka JSON till PPTX. Efter det, genom att använda [Aspose.Slides för Android via Java](https://products.aspose.com/slides/android-java/), kan du konvertera PPTX till POTM. Båda API:erna ingår i paketet [Aspose.Total för Android via Java](https://products.aspose.com/total/android-java/). 
+Du kan konvertera JSON-format till POTM i dina Android-applikationer i en tvåstegsprocess. För det första, genom att använda [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), kan du tolka JSON till PPTX. Efter det, genom att använda [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/), kan du konvertera PPTX till POTM. Båda API:erna ingår i paketet [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Du kan konvertera JSON-format till POTM i dina Android-applikationer i en tvåst
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
-Du kan enkelt använda Aspose.Total för Android via Java direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) och installera bibliotek i din app.
+Du kan enkelt använda Aspose.Total for Android via Java direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) och installera bibliotek i din app.
 
 Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

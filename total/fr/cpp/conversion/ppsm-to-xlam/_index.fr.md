@@ -13,7 +13,7 @@ otherformats: EXCEL XLTX XLSM SXC TSV XLTM MARKDOWN DIF XLSX XLSB CSV FODS ODS X
 {{< blocks/products/pf/feature-page-header h1="Convertir PPSM en XLAM via C++" h2="Conversion de fichiers PPSM en XLAM via C++ sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour C++](https://products.aspose.com/total/cpp/), vous pouvez convertir le fichier PPSM en XLAM dans les applications C++ en deux étapes simples. Tout d'abord, en utilisant [Aspose.Slides pour C++](https://products.aspose.com/slides/cpp/), vous pouvez exporter PPSM vers HTML. Après cela, en utilisant [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, vous pouvez convertir HTML en XLAM. 
+En utilisant [Aspose.Total for C++](https://products.aspose.com/total/cpp/), vous pouvez convertir le fichier PPSM en XLAM dans les applications C++ en deux étapes simples. Tout d'abord, en utilisant [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), vous pouvez exporter PPSM vers HTML. Après cela, en utilisant [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, vous pouvez convertir HTML en XLAM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

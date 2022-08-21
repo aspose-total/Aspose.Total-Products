@@ -13,19 +13,19 @@ otherformats: SXC XLSM XLSB TSV XLAM XLT DIF EXCEL XLTX CSV XLTM FODS ODS XLSX
 {{< blocks/products/pf/feature-page-header h1="แปลง DOTX เป็นรูปแบบ JSON ใน Android ผ่าน Java" h2="ออกแบบแอปพลิเคชัน Android เพื่อส่งออก DOTX ไปยัง JSON โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-คุณสามารถแปลง DOTX เป็นรูปแบบ JSON ในแอปพลิเคชัน Android ของคุณผ่าน [Aspose.Total สำหรับ Android ผ่าน Java](https://products.aspose.com/total/android-java/) ด้วยการใช้การจัดการเอกสารและการแปลง API [Aspose.Words สำหรับ Android ผ่าน Java](https://products.aspose.com/words/android-java/) คุณสามารถส่งออก DOTX เป็น HTML ได้ หลังจากนั้น ด้วยการใช้ [Aspose.Cells สำหรับ Android ผ่าน Java](https://products.aspose.com/cells/android-java/) คุณจะสามารถแปลง HTML เป็น JSON ได้ 
+คุณสามารถแปลง DOTX เป็นรูปแบบ JSON ในแอปพลิเคชัน Android ของคุณผ่าน [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) ด้วยการใช้การจัดการเอกสารและการแปลง API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) คุณสามารถส่งออก DOTX เป็น HTML ได้ หลังจากนั้น ด้วยการใช้ [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) คุณจะสามารถแปลง HTML เป็น JSON ได้ 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="แปลง DOTX เป็นรูปแบบ JSON ใน Android" %}}
 1. เปิดไฟล์ DOTX โดยใช้คลาส [Dotxument](https://reference.aspose.com/words/java/com.aspose.words/Dotxument)
-2. แปลง DOTX เป็น HTML โดยใช้ [บันทึก](https://reference.aspose.com/words/java/com.aspose.words/Dotxument#save(java.lang.String,com.aspose.words.SaveOptions) ) กระบวนการ
+2. แปลง DOTX เป็น HTML โดยใช้ [Save](https://reference.aspose.com/words/java/com.aspose.words/Dotxument#save(java.lang.String,com.aspose.words.SaveOptions) ) กระบวนการ
 3. โหลดเอกสาร HTML โดยใช้คลาส [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. บันทึกเอกสารในรูปแบบ JSON โดยใช้ [บันทึก](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) วิธีการ
+4. บันทึกเอกสารในรูปแบบ JSON โดยใช้ [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) วิธีการ
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
-คุณสามารถใช้ Aspose.Total สำหรับ Android ผ่าน Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และ ติดตั้งไลบรารีในแอปของคุณ
+คุณสามารถใช้ Aspose.Total for Android via Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และ ติดตั้งไลบรารีในแอปของคุณ
 
 หรือคุณสามารถรับไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/total/androidjava)
 {{% /blocks/products/pf/agp/feature-section-col %}}

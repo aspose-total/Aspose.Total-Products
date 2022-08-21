@@ -13,7 +13,7 @@ otherformats: SXC XLSM XLSB TSV XLAM XLT DIF EXCEL XLTX CSV XLTM FODS ODS XLSX
 {{< blocks/products/pf/feature-page-header h1="Μετατροπή DOTX σε μορφή JSON μέσω C++" h2="Εξαγωγή DOTX σε JSON μέσω C++ χωρίς χρήση Microsoft<sup>&reg;</sup> Word ή Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Χρησιμοποιώντας το [Aspose.Total for C++](https://products.aspose.com/total/cpp/) μπορείτε να μετατρέψετε το DOTX σε μορφή JSON στις εφαρμογές σας C++. Πρώτον, χρησιμοποιώντας το [Aspose.Words for C++](https://products.aspose.com/words/cpp/), μπορείτε να εξαγάγετε το DOTX σε HTML. Στη συνέχεια, χρησιμοποιώντας το [Aspose.Cells για C++](https://products.aspose.com/cells/cpp/), μπορείτε να μετατρέψετε HTML σε μορφή JSON. 
+Χρησιμοποιώντας το [Aspose.Total for C++](https://products.aspose.com/total/cpp/) μπορείτε να μετατρέψετε το DOTX σε μορφή JSON στις εφαρμογές σας C++. Πρώτον, χρησιμοποιώντας το [Aspose.Words for C++](https://products.aspose.com/words/cpp/), μπορείτε να εξαγάγετε το DOTX σε HTML. Στη συνέχεια, χρησιμοποιώντας το [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), μπορείτε να μετατρέψετε HTML σε μορφή JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

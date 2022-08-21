@@ -13,15 +13,15 @@ otherformats: EXCEL XLTM XLSM XLAM XLSB FODS CSV XLTX XLSX MARKDOWN DIF SXC ODS 
 {{< blocks/products/pf/feature-page-header h1="Převeďte PPT do XLS přes C++" h2="Konverze souborů PPT do XLS přes C++ bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Pomocí [Aspose.Total for C++](https://products.aspose.com/total/cpp/) můžete převést soubor PPT na XLS v aplikacích C++ ve dvou jednoduchých krocích. Za prvé, pomocí [Aspose.Slides pro C++](https://products.aspose.com/slides/cpp/) můžete exportovat PPT do HTML. Ppté můžete pomocí rozhraní [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API převést HTML na XLS. 
+Pomocí [Aspose.Total for C++](https://products.aspose.com/total/cpp/) můžete převést soubor PPT na XLS v aplikacích C++ ve dvou jednoduchých krocích. Za prvé, pomocí [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) můžete exportovat PPT do HTML. Ppté můžete pomocí rozhraní [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API převést HTML na XLS. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak převést PPT do XLS přes C++" %}}
 1. Otevřete soubor PPT pomocí odkazu třídy [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
-2. Převeďte PPT do HTML pomocí metody [Uložit](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba)
+2. Převeďte PPT do HTML pomocí metody [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba)
 3. Načtěte dokument HTML pomocí odkazu třídy [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
-4. Uložte dokument do formátu XLS pomocí metody [Uložit](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
+4. Uložte dokument do formátu XLS pomocí metody [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}

@@ -13,7 +13,7 @@ otherformats: CSV XLAM XLSM TSV EXCEL MHTML XLSB FODS SXC XLTM ODS XLT MARKDOWN 
 {{< blocks/products/pf/feature-page-header h1="Convertir PPS en XLTX dans Android via Java" h2="Exportez le fichier PPS au format XLTX dans les applications Android sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Vous pouvez facilement convertir le fichier PPS en XLTX dans vos applications Android en deux étapes via [Aspose.Total pour Android via Java](https://products.aspose.com/total/android-java/). Dans la première étape, vous pouvez exporter le fichier PPS au format HTML en utilisant [Aspose.Slides pour Android via Java](https://products.aspose.com/slides/android-java/). Deuxièmement, en utilisant [Aspose.Cells pour Android via Java](https://products.aspose.com/cells/android-java/), vous pouvez convertir HTML en XLTX. 
+Vous pouvez facilement convertir le fichier PPS en XLTX dans vos applications Android en deux étapes via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Dans la première étape, vous pouvez exporter le fichier PPS au format HTML en utilisant [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). Deuxièmement, en utilisant [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), vous pouvez convertir HTML en XLTX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Vous pouvez facilement convertir le fichier PPS en XLTX dans vos applications An
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
-Afin de convertir PPS en XLTX, vous pouvez facilement utiliser Aspose.Total pour Android via Java directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et installez les bibliothèques dans votre application.
+Afin de convertir PPS en XLTX, vous pouvez facilement utiliser Aspose.Total for Android via Java directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et installez les bibliothèques dans votre application.
 
 Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

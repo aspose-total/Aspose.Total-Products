@@ -13,7 +13,7 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 {{< blocks/products/pf/feature-page-header h1="Konvertera ODP till JSON-format i Android via Java" h2="Designa Android-program för att exportera ODP till JSON utan att använda Microsoft<sup>&reg;</sup> Word eller Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Du kan konvertera ODP till JSON-format i dina Android-applikationer via [Aspose.Total för Android via Java](https://products.aspose.com/total/android-java/). Genom att använda API för dokumentmanipulation och konvertering [Aspose.Words för Android via Java](https://products.aspose.com/words/android-java/), kan du exportera ODP till HTML. Efter det, genom att använda [Aspose.Cells för Android via Java](https://products.aspose.com/cells/android-java/), kan du konvertera HTML till JSON. 
+Du kan konvertera ODP till JSON-format i dina Android-applikationer via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Genom att använda API för dokumentmanipulation och konvertering [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/), kan du exportera ODP till HTML. Efter det, genom att använda [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), kan du konvertera HTML till JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -21,11 +21,11 @@ Du kan konvertera ODP till JSON-format i dina Android-applikationer via [Aspose.
 1. Öppna ODP-filen med klassen [Odpument](https://reference.aspose.com/words/java/com.aspose.words/Odpument)
 2. Konvertera ODP till HTML genom att använda [Save](https://reference.aspose.com/words/java/com.aspose.words/Odpument#save(java.lang.String,com.aspose.words.SaveOptions) ) metod
 3. Ladda HTML-dokument med hjälp av klassen [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Spara dokumentet i JSON-format med [Spara](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) metod
+4. Spara dokumentet i JSON-format med [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) metod
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
-Du kan enkelt använda Aspose.Total för Android via Java direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) och installera bibliotek i din app.
+Du kan enkelt använda Aspose.Total for Android via Java direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) och installera bibliotek i din app.
 
 Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

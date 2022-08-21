@@ -13,7 +13,7 @@ otherformats: MARKDOWN XAMLFLOW RTF DOCM MHTML ODT DOT FLATOPC DOTM DOTX WORDML 
 {{< blocks/products/pf/feature-page-header h1="C++ API för att exportera PS till PCL" h2="Återge PS till PCL inom C++-applikationer utan att kräva någon tredjepartsapplikation" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total för C++](https://products.aspose.com/total/cpp/) filformatsautomatiseringsbibliotek tillåter C++-utvecklare att konvertera PS till PCL i två enkla steg. För det första kan du använda [Aspose.PDF för C++](https://products.aspose.com/pdf/cpp/) API för att konvertera PS-filformat till DOC. För det andra, genom att använda avancerad Word Document Processing API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), kan du exportera DOC till PCL. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) filformatsautomatiseringsbibliotek tillåter C++-utvecklare att konvertera PS till PCL i två enkla steg. För det första kan du använda [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) API för att konvertera PS-filformat till DOC. För det andra, genom att använda avancerad Word Document Processing API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), kan du exportera DOC till PCL. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -46,7 +46,7 @@ wordDoc->Save(u"output.Pcl");
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ändra lösenord för PS-dokument via C++" %}}
-I processen att rendera PS till PCL kan du öppna en lösenordsskyddad PS och även ändra dess lösenord. För att ändra lösenordet för en PS-fil måste du känna till ägarlösenordet för det dokumentet. Du kan ladda lösenordsskyddade PDF-dokument med [Aspose.PDF för C++](https://products.aspose.com/pdf/cpp/) genom att ange dess ägarlösenord och använda ChangePasswords-metoden för att ändra lösenordet.
+I processen att rendera PS till PCL kan du öppna en lösenordsskyddad PS och även ändra dess lösenord. För att ändra lösenordet för en PS-fil måste du känna till ägarlösenordet för det dokumentet. Du kan ladda lösenordsskyddade PDF-dokument med [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) genom att ange dess ägarlösenord och använda ChangePasswords-metoden för att ändra lösenordet.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp

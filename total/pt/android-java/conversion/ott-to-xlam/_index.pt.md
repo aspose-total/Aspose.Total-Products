@@ -13,19 +13,19 @@ otherformats: DIF XLSB SXC FODS TSV XLT CSV XLTM XLTX EXCEL XLS XLSX XLSM ODS
 {{< blocks/products/pf/feature-page-header h1="Converter OTT para XLAM em aplicativos Android" h2="Exporte OTT para XLAM no Android via Java sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Ao usar o [Aspose.Total para Android via Java](https://products.aspose.com/total/android-java/), você pode integrar o recurso de conversão de OTT para XLAM dentro de seus aplicativos Android. Em primeiro lugar, você pode converter OTT para HTML usando a API de conversão e manipulação de ottumentos rica em recursos [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Depois disso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), você pode converter HTML para XLAM. 
+Ao usar o [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), você pode integrar o recurso de conversão de OTT para XLAM dentro de seus aplicativos Android. Em primeiro lugar, você pode converter OTT para HTML usando a API de conversão e manipulação de ottumentos rica em recursos [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Depois disso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), você pode converter HTML para XLAM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API Android para converter OTT para XLAM" %}}
 1. Abra o arquivo OTT usando a classe [Ottument](https://reference.aspose.com/words/java/com.aspose.words/Ottument)
-2. Converta OTT para HTML usando [Salvar](https://reference.aspose.com/words/java/com.aspose.words/Ottument#save(java.lang.String,com.aspose.words.SaveOptions) ) método
+2. Converta OTT para HTML usando [Save](https://reference.aspose.com/words/java/com.aspose.words/Ottument#save(java.lang.String,com.aspose.words.SaveOptions) ) método
 3. Carregue o ottumento HTML usando a classe [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Salve o ottumento no formato XLAM usando [Salvar](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) método
+4. Salve o ottumento no formato XLAM usando [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
-Você pode facilmente usar o Aspose.Total para Android via Java diretamente do [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e instale [Aspose.Cells for Android via Java](https://otts.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via- java-from-maven-repository) e [Aspose.Words for Android via Java](https://otts.aspose.com/words/java/install-aspose-words-for-android-via-java/#install- asposewords-for-android-via-java-from-maven-repository) em seus aplicativos.
+Você pode facilmente usar o Aspose.Total for Android via Java diretamente do [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e instale [Aspose.Cells for Android via Java](https://otts.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via- java-from-maven-repository) e [Aspose.Words for Android via Java](https://otts.aspose.com/words/java/install-aspose-words-for-android-via-java/#install- asposewords-for-android-via-java-from-maven-repository) em seus aplicativos.
 
 Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

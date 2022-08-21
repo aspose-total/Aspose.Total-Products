@@ -13,7 +13,7 @@ otherformats: RTF PCL MARKDOWN DOTM ODT FLATOPC WORDML DOT OTT PS MHTML DOTX
 {{< blocks/products/pf/feature-page-header h1="Java経由でAndroid上のDOCMにTEXをレンダリングする" h2="ソフトウェアをインストールせずにモバイルアプリでTEXをDOCMに変換する" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Android Java](https://products.aspose.com/total/android-java/)パッケージの2つのAPIを使用して、モバイルアプリにTEXからDOCMへの変換機能を統合できます。まず、[Java経由のAndroid用Aspose.PDF](https://products.aspose.com/pdf/android-java/)を使用してTEXファイルをDOCに変換する必要があります。次に、ワードプロセッシングAPI [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/)を使用して、DOCをDOCMにレンダリングできます。 
+[Aspose.Total for Android Java](https://products.aspose.com/total/android-java/)パッケージの2つのAPIを使用して、モバイルアプリにTEXからDOCMへの変換機能を統合できます。まず、[Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)を使用してTEXファイルをDOCに変換する必要があります。次に、ワードプロセッシングAPI [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)を使用して、DOCをDOCMにレンダリングできます。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

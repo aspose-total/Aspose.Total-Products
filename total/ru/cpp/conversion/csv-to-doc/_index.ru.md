@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: WORD DOCX POWERPOINT PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Конвертировать CSV в DOC через C++" h2="Экспорт Excel&reg; CSV в DOC в полнофункциональных приложениях C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Конвертировать CSV в DOC через C++" h2="Экспорт Excel<sup>&reg;</sup> CSV в DOC в полнофункциональных приложениях C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование CSV в DOC на C++" %}}

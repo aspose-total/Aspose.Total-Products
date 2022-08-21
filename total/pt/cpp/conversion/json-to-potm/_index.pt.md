@@ -21,7 +21,7 @@ Você pode converter JSON para POTM em qualquer aplicativo C++ em duas etapas si
 1. Crie um novo objeto [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) e leia dados JSON válidos do arquivo
 2. Salve JSON como PPTX usando o método [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
 3. Carregue o documento PPTX usando a classe [Apresentação](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
-4. Salve o documento no formato POTM usando o método [Salvar](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e)
+4. Salve o documento no formato POTM usando o método [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}

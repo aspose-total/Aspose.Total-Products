@@ -13,15 +13,15 @@ otherformats: EPUB PCL DOC CHM WORDML WORD ODT MOBI DOTX RTF FLATOPC OTT PS DOT
 {{< blocks/products/pf/feature-page-header h1="AndroidアプリケーションでJSON形式をDOCMに変換する" h2="Microsoft <sup>＆reg; </ sup> Wordを使用せずに、Androidアプリケーション内でJSONをDOCMに解析します" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-AndroidアプリケーションでJSONをDOCMに2段階のプロセスで変換できます。まず、強力なスプレッドシート処理API [Java経由のAndroid用Aspose.Cells](https://products.aspose.com/cells/android-java/)を使用して、JSONをPDFに解析できます。 2番目のステップでは、ワードプロセッシングAPI [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)を使用してPDFをDOCMに変換できます。どちらのAPIも、[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)製品ファミリーに分類されます。 
+AndroidアプリケーションでJSONをDOCMに2段階のプロセスで変換できます。まず、強力なスプレッドシート処理API [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)を使用して、JSONをPDFに解析できます。 2番目のステップでは、ワードプロセッシングAPI [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)を使用してPDFをDOCMに変換できます。どちらのAPIも、[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)製品ファミリーに分類されます。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Javaを介してAndroidでJSON形式をDOCMに変換する" %}}
 1.新しい[Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)オブジェクトを作成し、ファイルから有効なJSONデータを読み取ります
-2. [JsonUtility](https://reference.aspose.com/cells/java/com.aspose.cells/JsonUtility)クラスと[保存](https://reference.aspose.com/)を使用して、JSONファイルをワークシートにインポートします。 cells / java / com.aspose.cells / workbook＃save（java.lang.String、％20com.aspose.cells.SaveOptions))PDFとして
+2. [JsonUtility](https://reference.aspose.com/cells/java/com.aspose.cells/JsonUtility)クラスと[Save](https://reference.aspose.com/)を使用して、JSONファイルをワークシートにインポートします。 cells / java / com.aspose.cells / workbook＃save（java.lang.String、％20com.aspose.cells.SaveOptions))PDFとして
 3. [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)クラスを使用してPDFドキュメントをロードします
-4. [保存](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)を使用してドキュメントをDOCM形式で保存します)) 方法
+4. [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)を使用してドキュメントをDOCM形式で保存します)) 方法
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

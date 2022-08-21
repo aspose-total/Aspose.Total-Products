@@ -19,7 +19,7 @@ otherformats: POWERPOINT POT ODP PPT PPSM POTX POTM PPTX PPS PPTM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversão de RTF para PPSX em C++" %}}
 1. Abra o arquivo RTF usando a referência de classe [Rtfument](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument)
-2. Converta RTF para HTML usando a função de membro [Salvar](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument#save_stdbasicostream_saveoptions)
+2. Converta RTF para HTML usando a função de membro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument#save_stdbasicostream_saveoptions)
 3. Inicialize um novo objeto [Apresentação](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. Adicione uma AutoForma em seu slide e adicione AddTextFrame nele
 5. Carregue o conteúdo HTML e escreva-o em seu arquivo de apresentação

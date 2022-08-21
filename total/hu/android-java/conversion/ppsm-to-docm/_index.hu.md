@@ -21,8 +21,8 @@ A megadott dokumentumot két lépésben konvertálhatja. Az [Aspose.Slides for A
 {{% blocks/products/pf/agp/feature-section-col title="PPSM to DOCM renderelés Androidon" %}}
 1. Nyissa meg a PPSM-fájlt a [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) osztály használatával
 2. A [mentés](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides) segítségével konvertálja a PPSM-ot HTML-be.ISaveOptions-) metódust, és állítsa be a HTML-t SaveFormat-ként
-3. Töltse be a konvertált HTML-fájlt a [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument) osztály használatával
-4. Mentse a dokumentumot DOCM formátumba a [save](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,int)) módszerrel, és állítsa be a Docm beállítást mint SaveFormat
+3. Töltse be a konvertált HTML-fájlt a [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) osztály használatával
+4. Mentse a dokumentumot DOCM formátumba a [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) módszerrel, és állítsa be a Docm beállítást mint SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
@@ -36,8 +36,8 @@ Másik megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads
 Presentation presentation = new Presentation("input.ppsm");
 // save the presentation as HTML
 presentation.save("htmlOutput.html", SaveFormat.Html);
-// load HTML with an instance of Docmument
-Docmument docmument = new Docmument("htmlOutput.html");
+// load HTML with an instance of Document
+Document docmument = new Document("htmlOutput.html");
 // save docmument in DOCM format
 docmument.save("output.docm",SaveFormat.Docmm);   
 ```

@@ -19,9 +19,9 @@ otherformats: DOTX RTF DOCX DOC TEXT DOTM FLATOPC DOT DOCM TIFF GIF XPS EMF WORD
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="MSG을 PNG로 변환하는 C++ API" %}}
 1. [MailMessage](https://reference.aspose.com/msg/cpp/class/aspose.msg.mail_message) 클래스 참조를 사용하여 MSG 파일을 엽니다.
-2. [저장](https://reference.aspose.com/msg/cpp/class/aspose.msg.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786) 멤버 함수를 사용하여 MSG을 HTML로 변환
+2. [Save](https://reference.aspose.com/msg/cpp/class/aspose.msg.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786) 멤버 함수를 사용하여 MSG을 HTML로 변환
 3. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) 클래스를 사용하여 HTML 로드
-4. [저장](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) 방법을 사용하여 문서를 PNG 형식으로 저장하고 Png를 SaveFormat으로 설정합니다.
+4. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) 방법을 사용하여 문서를 PNG 형식으로 저장하고 Png를 SaveFormat으로 설정합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}

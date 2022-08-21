@@ -18,10 +18,10 @@ otherformats: XLT XLTM FODS SXC XLAM XLS EXCEL ODS XLSM DIF XLSB XLTX TSV CSV
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ के माध्यम से DOCM को JSON फॉर्मेट में बदलें" %}}
-1. [दस्तावेज़](https://reference.aspose.com/words/cpp/class/aspose.words.docmument) वर्ग संदर्भ का उपयोग करके DOCM फ़ाइल खोलें
+1. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument) वर्ग संदर्भ का उपयोग करके DOCM फ़ाइल खोलें
 2. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string_saveformat) सदस्य फ़ंक्शन का उपयोग करके DOCM को HTML में बदलें
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) वर्ग संदर्भ का उपयोग करके HTML दस्तावेज़ लोड करें
-4. [सहेजें](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) सदस्य फ़ंक्शन का उपयोग करके दस्तावेज़ को JSON प्रारूप में सहेजें
+4. [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) सदस्य फ़ंक्शन का उपयोग करके दस्तावेज़ को JSON प्रारूप में सहेजें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}

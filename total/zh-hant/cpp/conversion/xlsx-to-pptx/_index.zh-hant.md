@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOC DOCX WORD POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 C++ 將 XLSX 轉換為 PPTX" h2="導出 Excel&reg;全功能 C++ 應用程序中的 XLSX 到 PPTX" >}}
+{{< blocks/products/pf/feature-page-header h1="通過 C++ 將 XLSX 轉換為 PPTX" h2="導出 Excel<sup>&reg;</sup>全功能 C++ 應用程序中的 XLSX 到 PPTX" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ 上的 XLSX 到 PPTX 轉換" %}}

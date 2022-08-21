@@ -23,7 +23,7 @@ otherformats: PPS POTX PPT POTM PPTX PPSX POWERPOINT PPSM PPTM POT
 3. Inizializzare un nuovo oggetto [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. Aggiungi una forma nella diapositiva e aggiungi AddTextFrame in essa
 5. Carica il contenuto HTML e scrivilo nel tuo file di presentazione
-6. Salva il flatopcumento in formato ODP utilizzando il metodo [Salva](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) e imposta Odp come SaveFormat
+6. Salva il flatopcumento in formato ODP utilizzando il metodo [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) e imposta Odp come SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}

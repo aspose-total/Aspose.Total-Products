@@ -13,20 +13,20 @@ otherformats: WORD DOT WORDML DOTM TEXT OTT DOCM ODT DOCX DOTX RTF FLATOPC
 {{< blocks/products/pf/feature-page-header h1="Java를 통해 Andorid에서 PPTX을 DOC로 렌더링" h2="Microsoft PowerPoint 또는 Word에 의존하지 않고 Android 앱 내에서 PPTX를 DOC로 변환하는 파일 형식 API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Java를 통한 Android용 Aspose.Total](https://products.aspose.com/total/android-java/)을 사용하면 Android 애플리케이션 내에서 파일 형식을 조작할 수 있습니다. 패키지에 제공된 API를 사용하여 앱에서 PowerPoint PPTX에서 Word DOC로의 변환 프로세스를 자동화할 수 있습니다.
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)을 사용하면 Android 애플리케이션 내에서 파일 형식을 조작할 수 있습니다. 패키지에 제공된 API를 사용하여 앱에서 PowerPoint PPTX에서 Word DOC로의 변환 프로세스를 자동화할 수 있습니다.
 주어진 문서를 두 단계로 변환할 수 있습니다. Android 애플리케이션용 PowerPoint API인 [Aspose.Slides for Andorid via Java](https://products.aspose.com/slides/android-java/)를 사용하여 PPTX을 HTML로 렌더링할 수 있습니다. 그 후 문서 처리 API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)를 사용하여 HTML을 DOC로 변환할 수 있습니다. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Android에서 PPTX에서 DOC로 렌더링" %}}
 1. [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 클래스를 사용하여 PPTX 파일을 엽니다.
-2. [저장](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides)을 사용하여 PPTX을 HTML로 변환합니다.ISaveOptions-) 메서드 및 Html을 SaveFormat으로 설정
+2. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides)을 사용하여 PPTX을 HTML로 변환합니다.ISaveOptions-) 메서드 및 Html을 SaveFormat으로 설정
 3. [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 클래스를 이용하여 변환된 HTML 파일을 로드합니다.
 4. [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) 메소드를 사용하여 문서를 DOC 형식으로 저장하고 Doc 설정 SaveFormat으로
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)에서 직접 Java를 통해 Android용 Aspose.Total을 쉽게 사용할 수 있습니다. [Java를 통한 Android용 Aspose.Slides](https://docs.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) 및  [Aspose.Words for Andorid via Java](https://docs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) 설치  응용 프로그램.
+[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)에서 직접 Java를 통해 Android용 Aspose.Total을 쉽게 사용할 수 있습니다. [Aspose.Slides for Android via Java](https://docs.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) 및  [Aspose.Words for Andorid via Java](https://docs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) 설치  응용 프로그램.
 
 또는 [다운로드](https://downloads.aspose.com/total/androidjava)에서 ZIP 파일을 얻을 수 있습니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}

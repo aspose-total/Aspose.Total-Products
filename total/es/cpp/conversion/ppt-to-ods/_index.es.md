@@ -13,7 +13,7 @@ otherformats: XLTX XLS DIF XLSB EXCEL XLSM XLAM XLSX SXC MARKDOWN TSV XLTM XLT M
 {{< blocks/products/pf/feature-page-header h1="Convierta PPT a ODS a través de C++" h2="Conversión de archivos PPT a ODS a través de C++ sin usar Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Al usar [Aspose.Total para C++](https://products.aspose.com/total/cpp/) puede convertir archivos PPT a ODS dentro de aplicaciones C++ en dos simples pasos. En primer lugar, al usar [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), puede exportar PPT a HTML. Después de eso, al usar [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) API de programación de hojas de cálculo, puede convertir HTML a ODS. 
+Al usar [Aspose.Total for C++](https://products.aspose.com/total/cpp/) puede convertir archivos PPT a ODS dentro de aplicaciones C++ en dos simples pasos. En primer lugar, al usar [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), puede exportar PPT a HTML. Después de eso, al usar [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) API de programación de hojas de cálculo, puede convertir HTML a ODS. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

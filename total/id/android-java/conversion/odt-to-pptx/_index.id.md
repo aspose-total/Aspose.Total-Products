@@ -13,7 +13,7 @@ otherformats: PPTM PPSM PPSX POTX ODP PPT POWERPOINT POTM POT PPS CSV DIF FODS O
 {{< blocks/products/pf/feature-page-header h1="Konversi ODT ke PPTX di Aplikasi Android" h2="Konversi ODT ke PPTX di Aplikasi Android Anda tanpa menginstal Microsoft Word<sup>&reg;</sup> atau PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Apakah Anda seorang pengembang Android yang ingin menambahkan fitur konversi dokumen ke aplikasi Anda? [Aspose.Total untuk Android melalui Java](https://products.aspose.com/total/android-java/) Pustaka Otomatisasi Format File dapat membantu Anda mengotomatiskan proses konversi dokumen di aplikasi Android Anda. Untuk mengonversi file ODT ke PPTX, pertama-tama Anda dapat menggunakan API manipulasi dokumen [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) untuk mengonversi format file ODT ke HTML. Setelah itu dengan menggunakan PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), Anda dapat membuat Presentasi baru, menulis konten HTML di dalamnya, dan menyimpannya sebagai PPTX. 
+Apakah Anda seorang pengembang Android yang ingin menambahkan fitur konversi dokumen ke aplikasi Anda? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Pustaka Otomatisasi Format File dapat membantu Anda mengotomatiskan proses konversi dokumen di aplikasi Android Anda. Untuk mengonversi file ODT ke PPTX, pertama-tama Anda dapat menggunakan API manipulasi dokumen [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) untuk mengonversi format file ODT ke HTML. Setelah itu dengan menggunakan PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), Anda dapat membuat Presentasi baru, menulis konten HTML di dalamnya, dan menyimpannya sebagai PPTX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -26,7 +26,7 @@ Apakah Anda seorang pengembang Android yang ingin menambahkan fitur konversi dok
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
-Untuk konversi file ODT ke PPTX, Anda dapat dengan mudah menggunakan Aspose.Total untuk Android melalui Java langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) dan instal pustaka di aplikasi Anda.
+Untuk konversi file ODT ke PPTX, Anda dapat dengan mudah menggunakan Aspose.Total for Android via Java langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) dan instal pustaka di aplikasi Anda.
 
 Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

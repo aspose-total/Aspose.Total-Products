@@ -21,7 +21,7 @@ otherformats: FODS TSV ODS XLSM DIF XLTX XLSB XLS XLSX SXC MHTML CSV EXCEL XLAM 
 1. [プレゼンテーション](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)クラスを使用してPOTファイルを開きます
 2. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides)を使用してPOTをHTMLに変換します。ISaveOptions-)メソッド
 3. [ワークブック](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)クラスを使用してHTMLドキュメントをロードします
-4. [保存](https://reference.aspose.com/cells/java/com.aspose.cells/)を使用してドキュメントをMARKDOWN形式で保存します
+4. [Save](https://reference.aspose.com/cells/java/com.aspose.cells/)を使用してドキュメントをMARKDOWN形式で保存します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

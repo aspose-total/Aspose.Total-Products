@@ -13,7 +13,7 @@ otherformats: DOCM EMF PDF XPS PCL FLATOPC DOC GIF WORDML EPUB DOTX RTF MD TEXT 
 {{< blocks/products/pf/feature-page-header h1="API C++ pour exporter EMLX vers SVG" h2="Transformez EMLX en SVG dans une application C++ sans nécessiter Microsoft Word ou Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Êtes-vous un développeur C++ cherchant à ajouter des fonctionnalités de conversion d'e-mails dans vos applications ? En utilisant [Aspose.Emlx pour C++](https://products.aspose.com/emlx/cpp/), vous pouvez convertir le format de fichier EMLX en HTML. Après cela, en utilisant l'API [Aspose.Words pour C++](https://products.aspose.com/words/cpp/), vous pouvez exporter du HTML vers SVG. Les deux API relèvent du package [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
+Êtes-vous un développeur C++ cherchant à ajouter des fonctionnalités de conversion d'e-mails dans vos applications ? En utilisant [Aspose.Emlx pour C++](https://products.aspose.com/emlx/cpp/), vous pouvez convertir le format de fichier EMLX en HTML. Après cela, en utilisant l'API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), vous pouvez exporter du HTML vers SVG. Les deux API relèvent du package [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,13 +13,13 @@ otherformats: PPSX PPTM SWF POTX PPS ODP POTM POT XAML POWERPOINT PPSM OTP
 {{< blocks/products/pf/feature-page-header h1="Vykreslování EPUB na PPT v rámci aplikací C++" h2="Převeďte EPUB na PPT ve svých aplikacích C++ bez použití Microsoft<sup>&reg;</sup> PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Jste vývojář C++, který chce přidat integraci funkce převodu EPUB na PPT do vašich aplikací C++? Můžete to udělat ve dvou jednoduchých krocích. EPUB můžete exportovat do PPTX pomocí [Aspose.PDF pro C++](https://products.aspose.com/pdf/cpp/). Za druhé, pomocí [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) můžete převést PPTX na PPT. Obě rozhraní API jsou součástí balíčku [Aspose.Total pro C++](https://products.aspose.com/total/cpp/). 
+Jste vývojář C++, který chce přidat integraci funkce převodu EPUB na PPT do vašich aplikací C++? Můžete to udělat ve dvou jednoduchých krocích. EPUB můžete exportovat do PPTX pomocí [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/). Za druhé, pomocí [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) můžete převést PPTX na PPT. Obě rozhraní API jsou součástí balíčku [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API pro export EPUB do PPT" %}}
 1. Otevřete soubor EPUB pomocí odkazu třídy [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)
-2. Převeďte EPUB na PPTX pomocí funkce metody [Uložit](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a0184df207563187be7df37b8dbe443f6)
+2. Převeďte EPUB na PPTX pomocí funkce metody [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a0184df207563187be7df37b8dbe443f6)
 3. Načtěte dokument PPTX pomocí odkazu třídy [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. Uložte dokument do formátu PPT pomocí členské funkce [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) a nastavte „Ppt“ jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -46,7 +46,7 @@ prs->Save(u"output.ppt", Aspose::Slides::Export::SaveFormat::Ppt);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Změna hesla dokumentu EPUB pomocí C++" %}}
-V procesu vykreslování EPUB na PPT můžete otevřít heslem chráněný EPUB a také změnit jeho heslo. Chcete-li změnit heslo souboru EPUB, musíte znát heslo vlastníka tohoto dokumentu. Dokument PDF chráněný heslem můžete načíst pomocí [Aspose.PDF pro C++](https://products.aspose.com/pdf/cpp/) zadáním hesla vlastníka a pomocí metody ChangePasswords heslo změnit.
+V procesu vykreslování EPUB na PPT můžete otevřít heslem chráněný EPUB a také změnit jeho heslo. Chcete-li změnit heslo souboru EPUB, musíte znát heslo vlastníka tohoto dokumentu. Dokument PDF chráněný heslem můžete načíst pomocí [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) zadáním hesla vlastníka a pomocí metody ChangePasswords heslo změnit.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp

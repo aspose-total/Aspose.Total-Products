@@ -10,24 +10,24 @@ outformat: ODP
 otherformats: XAML POT PPSM OTP PPSX PPS POWERPOINT PPTM PPT SWF POTM POTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi PDF sang ODP trên Android qua Java" h2="Chuyển đổi PDF sang ODP trong Ứng dụng Android của bạn mà không cần sử dụng Microsoft <sup> <sup>&reg;</sup>; </sup> PowerPoint hoặc Adobe <sup> <sup>&reg;</sup>; </sup> Acrobat Reader" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi PDF sang ODP trên Android qua Java" h2="Chuyển đổi PDF sang ODP trong Ứng dụng Android của bạn mà không cần sử dụng Microsoft <sup>&reg;</sup> PowerPoint hoặc Adobe <sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Bạn có thể tích hợp tính năng chuyển đổi PDF sang ODP bên trong các ứng dụng Android của mình bằng hai bước đơn giản. Trong bước đầu tiên, bạn có thể xuất PDF sang PPTX bằng cách sử dụng [Aspose.PDF dành cho Android qua Java](https://products.aspose.com/pdf/android-java/). Sau đó, bằng cách sử dụng [Aspose.Slides dành cho Android qua Java](https://products.aspose.com/slides/android-java/), bạn có thể chuyển đổi PPTX sang ODP. Cả hai API đều nằm trong gói [Aspose.Total cho Android qua Java](https://products.aspose.com/total/android-java/). 
+Bạn có thể tích hợp tính năng chuyển đổi PDF sang ODP bên trong các ứng dụng Android của mình bằng hai bước đơn giản. Trong bước đầu tiên, bạn có thể xuất PDF sang PPTX bằng cách sử dụng [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/). Sau đó, bằng cách sử dụng [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/), bạn có thể chuyển đổi PPTX sang ODP. Cả hai API đều nằm trong gói [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API Android để xuất PDF sang ODP" %}}
-1. Mở tệp PDF bằng lớp [Tài liệu](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+1. Mở tệp PDF bằng lớp [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. Chuyển đổi PDF sang PPTX bằng phương pháp [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-)
-3. Tải tài liệu PPTX bằng cách sử dụng lớp [Trình bày](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+3. Tải tài liệu PPTX bằng cách sử dụng lớp [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 4. Lưu tài liệu sang định dạng ODP bằng phương thức [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) và đặt ` Odp` dưới dạng SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
-Bạn có thể dễ dàng sử dụng Aspose.Total cho Android qua Java trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và cài đặt [Aspose.PDF cho Android qua Java](https://docs.aspose.com/pdf/androidjava/installation/) và [Aspose.Slides cho Android qua Java](https://docs.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) trong các ứng dụng của bạn.
+Bạn có thể dễ dàng sử dụng Aspose.Total for Android via Java trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và cài đặt [Aspose.PDF for Android via Java](https://docs.aspose.com/pdf/androidjava/installation/) và [Aspose.Slides cho Android qua Java](https://docs.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) trong các ứng dụng của bạn.
 
-Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://downloads.aspose.com/total/androidjava).
+Ngoài ra, bạn có thể tải tệp ZIP từ [download](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 
@@ -46,7 +46,7 @@ presentation.save("output.odp", SaveFormat.Odp);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Mở tệp PDF được bảo vệ bằng mật khẩu trong Android qua Java" %}}
-Trong khi tải định dạng tệp PDF, tài liệu của bạn có thể được bảo vệ bằng mật khẩu. [Aspose.PDF dành cho Android qua Java](https://products.aspose.com/pdf/android-java/) cũng cho phép bạn mở các tài liệu được mã hóa. Để mở tệp được mã hóa, bạn có thể khởi tạo phiên bản mới của [Tài liệu](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-) và chuyển tên tệp và mật khẩu làm đối số.
+Trong khi tải định dạng tệp PDF, tài liệu của bạn có thể được bảo vệ bằng mật khẩu. [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) cũng cho phép bạn mở các tài liệu được mã hóa. Để mở tệp được mã hóa, bạn có thể khởi tạo phiên bản mới của [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-) và chuyển tên tệp và mật khẩu làm đối số.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java
@@ -60,7 +60,7 @@ document.save("PptxOutput.pptx", SaveFormat.Pptx);
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Tạo hình ảnh thu nhỏ của tệp ODP trong ứng dụng Android" %}}
-Sau khi chuyển đổi PDF sang ODP, bạn cũng có thể tạo hình ảnh thu nhỏ của tài liệu đầu ra của mình. Bằng cách sử dụng tính năng phong phú [Aspose.Slides dành cho Android qua Java](https://products.aspose.com/slides/android-java/), bạn có thể tạo hình ảnh thu nhỏ của các trang trình bày bằng cách tạo và phiên bản của [Bản trình bày]( https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) lớp. Sau đó, bạn có thể lấy tham chiếu của bất kỳ trang trình bày mong muốn nào bằng cách sử dụng ID hoặc chỉ mục của nó và lấy hình ảnh thu nhỏ của trang trình bày được tham chiếu trên một tỷ lệ cụ thể.
+Sau khi chuyển đổi PDF sang ODP, bạn cũng có thể tạo hình ảnh thu nhỏ của tài liệu đầu ra của mình. Bằng cách sử dụng tính năng phong phú [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/), bạn có thể tạo hình ảnh thu nhỏ của các trang trình bày bằng cách tạo và phiên bản của [Bản trình bày]( https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) lớp. Sau đó, bạn có thể lấy tham chiếu của bất kỳ trang trình bày mong muốn nào bằng cách sử dụng ID hoặc chỉ mục của nó và lấy hình ảnh thu nhỏ của trang trình bày được tham chiếu trên một tỷ lệ cụ thể.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java

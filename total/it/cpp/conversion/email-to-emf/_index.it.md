@@ -13,13 +13,13 @@ otherformats: GIF PDF PNG SVG JPEG WORDML OTT TIFF TEXT ODT DOCM DOT BMP XPS MD 
 {{< blocks/products/pf/feature-page-header h1="API C++ per esportare EMAIL in EMF" h2="Trasforma EMAIL in EMF all'interno dell'applicazione C++ senza richiedere Microsoft Word o Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Sei uno sviluppatore C++ e stai cercando di aggiungere funzionalità di conversione e-mail all'interno delle tue applicazioni? Usando [Aspose.Email per C++](https://products.aspose.com/email/cpp/) puoi convertire il formato del file EMAIL in HTML. Successivamente, utilizzando l'API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), puoi esportare HTML in EMF. Entrambe le API rientrano nel pacchetto [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
+Sei uno sviluppatore C++ e stai cercando di aggiungere funzionalità di conversione e-mail all'interno delle tue applicazioni? Usando [Aspose.Email for C++](https://products.aspose.com/email/cpp/) puoi convertire il formato del file EMAIL in HTML. Successivamente, utilizzando l'API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), puoi esportare HTML in EMF. Entrambe le API rientrano nel pacchetto [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API C++ per convertire EMAIL in EMF" %}}
 1. Aprire il file EMAIL utilizzando il riferimento alla classe [MailMessage](https://reference.aspose.com/email/cpp/class/aspose.email.mail_message)
-2. Converti EMAIL in HTML utilizzando la funzione membro [Salva](https://reference.aspose.com/email/cpp/class/aspose.email.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
+2. Converti EMAIL in HTML utilizzando la funzione membro [Save](https://reference.aspose.com/email/cpp/class/aspose.email.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
 3. Carica HTML utilizzando la classe [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
 4. Salvare il documento in formato EMF utilizzando il metodo [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) e impostare Emf come SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

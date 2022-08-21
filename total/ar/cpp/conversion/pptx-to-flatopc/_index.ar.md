@@ -19,9 +19,9 @@ otherformats: TEXT OTT DOCX DOT DOCM DOTM WORDML DOC WORD ODT DOTX RTF
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API لتحويل PPTX إلى FLATOPC" %}}
 1. قم بتحميل ملف PPTX باستخدام مرجع فئة [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
-2. عرض PPTX إلى HTML باستخدام funciton لعضو [حفظ](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) وتعيين Html كـ SaveFormat
+2. عرض PPTX إلى HTML باستخدام funciton لعضو [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) وتعيين Html كـ SaveFormat
 3. قم بتحميل ملف HTML المحول باستخدام مرجع الفئة [المستند](https://reference.aspose.com/words/cpp/class/aspose.words.flatopcument)
-4. احفظ المستند بتنسيق FLATOPC باستخدام [حفظ](https://reference.aspose.com/words/cpp/class/aspose.words.flatopcument#save_string) fucntion
+4. احفظ المستند بتنسيق FLATOPC باستخدام [Save](https://reference.aspose.com/words/cpp/class/aspose.words.flatopcument#save_string) fucntion
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}

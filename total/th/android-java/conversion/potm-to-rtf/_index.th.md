@@ -13,20 +13,20 @@ otherformats: ODT DOT TEXT DOTM DOCM DOCX WORDML DOTX FLATOPC WORD OTT DOC
 {{< blocks/products/pf/feature-page-header h1="แสดง POTM เป็น RTF บน Andorid ผ่าน Java" h2="รูปแบบไฟล์ API เพื่อแปลง POTM เป็น RTF ภายในแอป Android โดยไม่ต้องพึ่งพา Microsoft PowerPoint หรือ Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total สำหรับ Android ผ่าน Java](https://products.aspose.com/total/android-java/) อนุญาตให้จัดการรูปแบบไฟล์ภายในแอปพลิเคชัน Android ด้วยการใช้ API ที่ให้มาในแพ็คเกจ คุณสามารถทำให้กระบวนการแปลง PowerPoint POTM เป็น Word RTF ในแอปของคุณเป็นแบบอัตโนมัติ
-คุณสามารถแปลงเอกสารที่กำหนดได้ในสองขั้นตอน คุณสามารถใช้ [Aspose.Slides สำหรับ Andorid ผ่าน Java](https://products.aspose.com/slides/android-java/) ที่เป็น PowerPoint API สำหรับแอปพลิเคชัน Android เพื่อแสดง POTM เป็น HTML หลังจากนั้นโดยใช้ API การประมวลผลเอกสาร [Aspose.Words สำหรับ Android ผ่าน Java](https://products.aspose.com/words/android-java/) คุณสามารถแปลง HTML เป็น RTF 
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) อนุญาตให้จัดการรูปแบบไฟล์ภายในแอปพลิเคชัน Android ด้วยการใช้ API ที่ให้มาในแพ็คเกจ คุณสามารถทำให้กระบวนการแปลง PowerPoint POTM เป็น Word RTF ในแอปของคุณเป็นแบบอัตโนมัติ
+คุณสามารถแปลงเอกสารที่กำหนดได้ในสองขั้นตอน คุณสามารถใช้ [Aspose.Slides for Andorid via Java](https://products.aspose.com/slides/android-java/) ที่เป็น PowerPoint API สำหรับแอปพลิเคชัน Android เพื่อแสดง POTM เป็น HTML หลังจากนั้นโดยใช้ API การประมวลผลเอกสาร [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) คุณสามารถแปลง HTML เป็น RTF 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="การแสดงผล POTM เป็น RTF ใน Android" %}}
 1. เปิดไฟล์ POTM โดยใช้คลาส [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. แปลง POTM เป็น HTML โดยใช้ [บันทึก](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slidesISaveOptions-) และตั้งค่า Html เป็น SaveFormat
+2. แปลง POTM เป็น HTML โดยใช้ [Save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slidesISaveOptions-) และตั้งค่า Html เป็น SaveFormat
 3. โหลดไฟล์ HTML ที่แปลงแล้วโดยใช้คลาส [Rtfument](https://reference.aspose.com/words/java/com.aspose.words/Rtfument)
 4. บันทึกเอกสารในรูปแบบ RTF โดยใช้เมธอด [save](https://reference.aspose.com/words/java/com.aspose.words/Rtfument#save(java.lang.String,int)) และตั้งค่า Rtf เป็น SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
-คุณสามารถใช้ Aspose.Total สำหรับ Android ผ่าน Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และ ติดตั้ง [Aspose.Slides สำหรับ Android ผ่าน Java](https://rtfs.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) และ [Aspose.Words สำหรับ Andorid ผ่าน Java](https://rtfs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) ในของคุณ แอปพลิเคชัน
+คุณสามารถใช้ Aspose.Total for Android via Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และ ติดตั้ง [Aspose.Slides for Android via Java](https://rtfs.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) และ [Aspose.Words สำหรับ Andorid ผ่าน Java](https://rtfs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) ในของคุณ แอปพลิเคชัน
 
 หรือคุณสามารถรับไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/total/androidjava)
 {{% /blocks/products/pf/agp/feature-section-col %}}

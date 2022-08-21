@@ -18,7 +18,7 @@ otherformats: XLT XLTM FODS SXC XLAM XLS EXCEL ODS XLSM DIF XLSB XLTX TSV CSV
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="DOCM'yi C++ ile JSON Formatına Dönüştür" %}}
-1. [Belge](https://reference.aspose.com/words/cpp/class/aspose.words.docmument) sınıf referansını kullanarak DOCM dosyasını açın
+1. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument) sınıf referansını kullanarak DOCM dosyasını açın
 2. [Kaydet](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string_saveformat) üye işlevini kullanarak DOCM'u HTML'ye dönüştürün
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) sınıf referansını kullanarak HTML belgesini yükleyin
 4. [Kaydet](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) üye işlevini kullanarak belgeyi JSON biçiminde kaydedin

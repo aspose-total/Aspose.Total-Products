@@ -13,15 +13,15 @@ otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 {{< blocks/products/pf/feature-page-header h1="Java를 통해 Android에서 WORD를 JSON 형식으로 변환" h2="Microsoft<sup>&reg;</sup> Word 또는 Excel을 사용하지 않고 WORD를 JSON으로 내보내도록 Android 애플리케이션 설계" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Java를 통한 Android용 Aspose.Total](https://products.aspose.com/total/android-java/)을 통해 Android 애플리케이션에서 WORD를 JSON 형식으로 변환할 수 있습니다. 문서 조작 및 변환 API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)를 사용하여 WORD를 HTML로 내보낼 수 있습니다. 이후 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)를 사용하여 HTML을 JSON으로 변환할 수 있습니다. 
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)을 통해 Android 애플리케이션에서 WORD를 JSON 형식으로 변환할 수 있습니다. 문서 조작 및 변환 API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)를 사용하여 WORD를 HTML로 내보낼 수 있습니다. 이후 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)를 사용하여 HTML을 JSON으로 변환할 수 있습니다. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Android에서 WORD를 JSON 형식으로 변환" %}}
 1. [Wordument](https://reference.aspose.com/words/java/com.aspose.words/Wordument) 클래스를 사용하여 WORD 파일을 엽니다.
-2. [저장](https://reference.aspose.com/words/java/com.aspose.words/Wordument#save(java.lang.String,com.aspose.words.SaveOptions)을 사용하여 WORD를 HTML로 변환합니다. ) 방법
+2. [save](https://reference.aspose.com/words/java/com.aspose.words/Wordument#save(java.lang.String,com.aspose.words.SaveOptions)을 사용하여 WORD를 HTML로 변환합니다. ) 방법
 3. [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 클래스를 사용하여 HTML 문서 로드
-4. [저장](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells))을 사용하여 문서를 JSON 형식으로 저장합니다. SaveOptions)) 메서드
+4. [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells))을 사용하여 문서를 JSON 형식으로 저장합니다. SaveOptions)) 메서드
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}

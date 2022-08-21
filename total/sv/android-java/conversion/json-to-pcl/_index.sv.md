@@ -13,19 +13,19 @@ otherformats: DOCM OTT ODT WORD WORDML DOT DOC MOBI PS DOTX EPUB CHM RTF FLATOPC
 {{< blocks/products/pf/feature-page-header h1="Konvertera JSON-format till PCL i Android-applikationer" h2="Analysera JSON till PCL i Android-applikationer utan att använda Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Du kan konvertera JSON till PCL i dina Android-applikationer i tvåstegsprocess. För det första, genom att använda Powerful Spreadsheet Processing API [Aspose.Cells för Android via Java](https://products.aspose.com/cells/android-java/) kan du tolka JSON till PDF. I det andra steget kan du konvertera PDF till PCL genom att använda Word Processing API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Båda API:erna faller under produktfamiljen [Aspose.Total för Android via Java](https://products.aspose.com/total/android-java/). 
+Du kan konvertera JSON till PCL i dina Android-applikationer i tvåstegsprocess. För det första, genom att använda Powerful Spreadsheet Processing API [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) kan du tolka JSON till PDF. I det andra steget kan du konvertera PDF till PCL genom att använda Word Processing API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Båda API:erna faller under produktfamiljen [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertera JSON-format till PCL i Android via Java" %}}
 1. Skapa ett nytt [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) objekt och läs giltig JSON-data från filen
-2. Importera JSON-fil till kalkylblad med klassen [JsonUtility](https://reference.aspose.com/cells/java/com.aspose.cells/JsonUtility) och [Spara](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) den som PDF
+2. Importera JSON-fil till kalkylblad med klassen [JsonUtility](https://reference.aspose.com/cells/java/com.aspose.cells/JsonUtility) och [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) den som PDF
 3. Ladda PDF-dokument med hjälp av klassen [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
-4. Spara dokumentet i PCL-format med [Spara](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metod
+4. Spara dokumentet i PCL-format med [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metod
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
-Du kan enkelt använda Aspose.Total för Android via Java direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) och installera bibliotek i din app.
+Du kan enkelt använda Aspose.Total for Android via Java direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) och installera bibliotek i din app.
 
 Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

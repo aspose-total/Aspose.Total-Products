@@ -19,7 +19,7 @@ otherformats: PPSM POTM PPT POWERPOINT SWF PPS POT XAML OTP PPTM POTX PPSX
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API لتصدير SVG إلى ODP" %}}
 1. افتح ملف SVG باستخدام [مستند](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) مرجع فئة
-2. تحويل SVG إلى PPTX باستخدام وظيفة الأسلوب [حفظ](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a0184df207563187be7df37b8dbe443f6)
+2. تحويل SVG إلى PPTX باستخدام وظيفة الأسلوب [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a0184df207563187be7df37b8dbe443f6)
 3. تحميل مستند PPTX باستخدام [عرض تقديمي](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) مرجع فئة
 4. احفظ المستند بتنسيق ODP باستخدام وظيفة العضو [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) وقم بتعيين "Odp" على أنه SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

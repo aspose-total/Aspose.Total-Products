@@ -18,8 +18,8 @@ otherformats: PPT PPTM PPTX POWERPOINT ODP POT PPSX PPSM POTM PPS
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++에서 DOCM에서 POTX로 변환" %}}
-1. [문서](https://reference.aspose.com/words/cpp/class/aspose.words.docmument) 클래스 참조를 사용하여 DOCM 파일을 엽니다.
-2. [저장](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_stdbasicostream_saveoptions) 멤버 함수를 사용하여 DOCM를 HTML로 변환
+1. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument) 클래스 참조를 사용하여 DOCM 파일을 엽니다.
+2. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_stdbasicostream_saveoptions) 멤버 함수를 사용하여 DOCM를 HTML로 변환
 3. 새 [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) 개체를 초기화합니다.
 4. 슬라이드에 도형을 추가하고 거기에 AddTextFrame을 추가합니다.
 5. HTML 콘텐츠를 로드하고 프레젠테이션 파일에 작성
@@ -34,9 +34,9 @@ otherformats: PPT PPTM PPTX POWERPOINT ODP POT PPSX PPSM POTM PPS
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp
-// load DOCM file with an instance of Docmument
-Docmument docmument = new Docmument("template.docm");
-System::SharedPtr<Docmument> docm = System::MakeObject<Docmument>(u"sourceFile.docm");
+// load DOCM file with an instance of Document
+Document docmument = new Document("template.docm");
+System::SharedPtr<Document> docm = System::MakeObject<Document>(u"sourceFile.docm");
 // save the docmument in HTML file format
 docm->Save(u"HtmlOutput.HTML");
 // load the desired the presentation
@@ -74,7 +74,7 @@ pres->Save(output.potx, Aspose::Slides::Export::SaveFormat::Potx);
 // when loading password protected docmument, the password is passed to the docmument's constructor using a LoadOptions object.
 auto options = MakeObject<LoadOptions>(u"docmPassword");
 // load the docmument from the local file system by filename:
-SharedPtr<Docmument> docm = MakeObject<Docmument>(u"Encrypted.docm", options);
+SharedPtr<Document> docm = MakeObject<Document>(u"Encrypted.docm", options);
 ```
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

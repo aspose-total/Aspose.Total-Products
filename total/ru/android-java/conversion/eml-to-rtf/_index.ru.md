@@ -13,7 +13,7 @@ otherformats: OTT PDF XPS GIF TIFF DOT MD ODT PS DOCX EMF FLATOPC DOC DOTM TEXT 
 {{< blocks/products/pf/feature-page-header h1="Преобразование EML в RTF в приложениях Andorid" h2="Разработка приложений Andorid для экспорта EML в RTF с использованием Andorid через Java API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Приложения Andorid просты в ежедневном использовании конечными пользователями. День ото дня количество пользователей телефонов Andorid растет. Используя мощные библиотеки автоматизации форматов файлов [Aspose.Total для Android через Java](https://products.aspose.com/total/android-java/), вы можете разрабатывать приложения для обработки и преобразования электронной почты. Вы можете конвертировать EML в RTF с помощью комбинации [Aspose.Eml для Android Java](https://products.aspose.com/eml/android-java/) и [Aspose.Words для Andorid Java](https://products.aspose.com/words/android-java/). С помощью первого API вы можете конвертировать формат файла EML в HTML, а с помощью второго API вы можете отображать HTML как RTF. 
+Приложения Andorid просты в ежедневном использовании конечными пользователями. День ото дня количество пользователей телефонов Andorid растет. Используя мощные библиотеки автоматизации форматов файлов [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), вы можете разрабатывать приложения для обработки и преобразования электронной почты. Вы можете конвертировать EML в RTF с помощью комбинации [Aspose.Eml для Android Java](https://products.aspose.com/eml/android-java/) и [Aspose.Words для Andorid Java](https://products.aspose.com/words/android-java/). С помощью первого API вы можете конвертировать формат файла EML в HTML, а с помощью второго API вы можете отображать HTML как RTF. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ otherformats: OTT PDF XPS GIF TIFF DOT MD ODT PS DOCX EMF FLATOPC DOC DOTM TEXT 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
-Вы можете легко использовать Aspose.Total для Android через Java непосредственно из [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) и установите [Aspose.Eml для Android через Java](https://docs.aspose.com/eml/androidjava/installation/) и [Aspose.Words для Android через Java](https://docs.aspose.com/words/java/install-aspose-words-for-android-через-java/#install-asposewords-for-android-через-java-из-maven-репозитория) в ваших приложениях.
+Вы можете легко использовать Aspose.Total for Android via Java непосредственно из [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) и установите [Aspose.Eml для Android через Java](https://docs.aspose.com/eml/androidjava/installation/) и [Aspose.Words for Android via Java](https://docs.aspose.com/words/java/install-aspose-words-for-android-через-java/#install-asposewords-for-android-через-java-из-maven-репозитория) в ваших приложениях.
 
 Кроме того, вы можете получить ZIP-файл из [загрузки](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

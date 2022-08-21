@@ -13,12 +13,12 @@ otherformats: XLT XLTM FODS SXC XLAM XLS EXCEL ODS XLSM DIF XLSB XLTX TSV CSV
 {{< blocks/products/pf/feature-page-header h1="Convertir DOCM au format JSON via C++" h2="Exportez DOCM vers JSON via C++ sans utiliser Microsoft<sup>&reg;</sup> Word ou Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour C++](https://products.aspose.com/total/cpp/), vous pouvez convertir le format DOCM au format JSON dans vos applications C++. Tout d'abord, en utilisant [Aspose.Words pour C++](https://products.aspose.com/words/cpp/), vous pouvez exporter DOCM vers HTML. Après cela, en utilisant [Aspose.Cells pour C++](https://products.aspose.com/cells/cpp/), vous pouvez convertir le HTML au format JSON. 
+En utilisant [Aspose.Total for C++](https://products.aspose.com/total/cpp/), vous pouvez convertir le format DOCM au format JSON dans vos applications C++. Tout d'abord, en utilisant [Aspose.Words for C++](https://products.aspose.com/words/cpp/), vous pouvez exporter DOCM vers HTML. Après cela, en utilisant [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), vous pouvez convertir le HTML au format JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convertir DOCM au format JSON via C++" %}}
-1. Ouvrez le fichier DOCM à l'aide de la référence de classe [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
+1. Ouvrez le fichier DOCM à l'aide de la référence de classe [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
 2. Convertir DOCM en HTML en utilisant la fonction membre [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string_saveformat)
 3. Chargez le docmument HTML à l'aide de la référence de classe [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
 4. Enregistrez le docmument au format JSON à l'aide de la fonction membre [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)

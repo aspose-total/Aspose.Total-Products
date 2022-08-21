@@ -18,10 +18,10 @@ C++ 애플리케이션에 DOTM에서 XLSB로의 변환 기능을 쉽게 포함�
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="DOTM를 XLSB로 변환하는 C++ API" %}}
-1. [문서](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument) 클래스 참조를 사용하여 DOTM 파일을 엽니다.
-2. [저장](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument#save_string_saveformat) 멤버 함수를 사용하여 DOTM를 HTML로 변환
+1. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument) 클래스 참조를 사용하여 DOTM 파일을 엽니다.
+2. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument#save_string_saveformat) 멤버 함수를 사용하여 DOTM를 HTML로 변환
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 클래스 참조를 사용하여 HTML 문서 로드
-4. [저장](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) 멤버 함수를 사용하여 문서를 XLSB 형식으로 저장합니다.
+4. [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) 멤버 함수를 사용하여 문서를 XLSB 형식으로 저장합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
@@ -46,7 +46,7 @@ C++ 애플리케이션에 DOTM에서 XLSB로의 변환 기능을 쉽게 포함�
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="C++를 통해 스트림에 XLSB 파일 저장" %}}
-DOTM를 XLSB로 변환한 후 [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/)를 사용하여 문서를 스트림에 저장할 수 있습니다. 스트림에 파일을 저장하려면 MemoryStream 또는 FileStream 객체를 만들고 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)을 호출하여 해당 스트림 객체에 파일을 저장합니다. 개체의 [저장](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) 메서드입니다. [저장](https://reference.aspose.com) 호출 시 [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) 열거를 사용하여 원하는 파일 형식을 지정합니다 메서드.
+DOTM를 XLSB로 변환한 후 [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/)를 사용하여 문서를 스트림에 저장할 수 있습니다. 스트림에 파일을 저장하려면 MemoryStream 또는 FileStream 객체를 만들고 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)을 호출하여 해당 스트림 객체에 파일을 저장합니다. 개체의 [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) 메서드입니다. [Save](https://reference.aspose.com) 호출 시 [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) 열거를 사용하여 원하는 파일 형식을 지정합니다 메서드.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "save-excel-to-stream.cpp" >}}

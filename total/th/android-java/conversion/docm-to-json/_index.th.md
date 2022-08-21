@@ -13,19 +13,19 @@ otherformats: XLT XLTM FODS SXC XLAM XLS EXCEL ODS XLSM DIF XLSB XLTX TSV CSV
 {{< blocks/products/pf/feature-page-header h1="แปลง DOCM เป็นรูปแบบ JSON ใน Android ผ่าน Java" h2="ออกแบบแอปพลิเคชัน Android เพื่อส่งออก DOCM ไปยัง JSON โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-คุณสามารถแปลง DOCM เป็นรูปแบบ JSON ในแอปพลิเคชัน Android ของคุณผ่าน [Aspose.Total สำหรับ Android ผ่าน Java](https://products.aspose.com/total/android-java/) ด้วยการใช้การจัดการเอกสารและการแปลง API [Aspose.Words สำหรับ Android ผ่าน Java](https://products.aspose.com/words/android-java/) คุณสามารถส่งออก DOCM เป็น HTML ได้ หลังจากนั้น ด้วยการใช้ [Aspose.Cells สำหรับ Android ผ่าน Java](https://products.aspose.com/cells/android-java/) คุณจะสามารถแปลง HTML เป็น JSON ได้ 
+คุณสามารถแปลง DOCM เป็นรูปแบบ JSON ในแอปพลิเคชัน Android ของคุณผ่าน [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) ด้วยการใช้การจัดการเอกสารและการแปลง API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) คุณสามารถส่งออก DOCM เป็น HTML ได้ หลังจากนั้น ด้วยการใช้ [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) คุณจะสามารถแปลง HTML เป็น JSON ได้ 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="แปลง DOCM เป็นรูปแบบ JSON ใน Android" %}}
-1. เปิดไฟล์ DOCM โดยใช้คลาส [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument)
-2. แปลง DOCM เป็น HTML โดยใช้ [บันทึก](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions) ) กระบวนการ
+1. เปิดไฟล์ DOCM โดยใช้คลาส [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. แปลง DOCM เป็น HTML โดยใช้ [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) กระบวนการ
 3. โหลดเอกสาร HTML โดยใช้คลาส [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. บันทึกเอกสารในรูปแบบ JSON โดยใช้ [บันทึก](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) วิธีการ
+4. บันทึกเอกสารในรูปแบบ JSON โดยใช้ [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) วิธีการ
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
-คุณสามารถใช้ Aspose.Total สำหรับ Android ผ่าน Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และ ติดตั้งไลบรารีในแอปของคุณ
+คุณสามารถใช้ Aspose.Total for Android via Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และ ติดตั้งไลบรารีในแอปของคุณ
 
 หรือคุณสามารถรับไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/total/androidjava)
 {{% /blocks/products/pf/agp/feature-section-col %}}

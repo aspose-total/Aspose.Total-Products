@@ -20,14 +20,14 @@ otherformats: ODT FLATOPC DOCX DOT DOC OTT DOTM DOTX TEXT WORDML WORD RTF
 {{% blocks/products/pf/agp/feature-section-col title="API C++ để chuyển đổi PPT sang DOCM" %}}
 1. Tải tệp PPT bằng cách sử dụng tham chiếu lớp [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 2. Kết xuất PPT sang HTML bằng cách sử dụng [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) thành viên funciton và đặt Html làm SaveFormat
-3. Tải tệp HTML đã chuyển đổi bằng cách sử dụng tham chiếu lớp [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
+3. Tải tệp HTML đã chuyển đổi bằng cách sử dụng tham chiếu lớp [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
 4. Lưu tài liệu sang định dạng DOCM bằng cách sử dụng [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string) thành viên fucntion
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
 Cài đặt từ dòng lệnh là `` nuget install Aspose.Total.Cpp '' hoặc thông qua Package Manager Console của Visual Studio với `` Install-Package Aspose.Total.Cpp ''.
 
-Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://downloads.aspose.com/total/cpp).
+Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [download](https://downloads.aspose.com/total/cpp).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 ```cs
@@ -35,8 +35,8 @@ Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp Z
 SharedPtr<Presentation> prs = MakeObject<Presentation>(u"input.ppt");
 // Save presentation in HTML format.
 prs->Save(u"htmlOutput.html", Aspose::Slides::Export::SaveFormat::Html);
-// load HTML with an instance of Docmument
-System::SharedPtr<Docmument> docm = System::MakeObject<Docmument>(u"htmlOutput.html");
+// load HTML with an instance of Document
+System::SharedPtr<Document> docm = System::MakeObject<Document>(u"htmlOutput.html");
 // save docmument in DOCM format
 docm->Save(u"output.docm"); 
 ```

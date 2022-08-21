@@ -13,7 +13,7 @@ otherformats: DOC DOT RTF ODT DOTX WORDML MOBI PCL DOCM EPUB FLATOPC WORD OTT PS
 {{< blocks/products/pf/feature-page-header h1="Μετατρέψτε τη μορφή JSON σε CHM στις Εφαρμογές Android" h2="Αναλύστε το JSON σε CHM σε εφαρμογές Android χωρίς να χρησιμοποιήσετε το Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Μπορείτε να μετατρέψετε JSON σε CHM στις εφαρμογές σας Android σε διαδικασία δύο βημάτων. Πρώτον, χρησιμοποιώντας το ισχυρό API επεξεργασίας υπολογιστικών φύλλων [Aspose.Cells για Android μέσω Java](https://products.aspose.com/cells/android-java/) μπορείτε να αναλύσετε το JSON σε PDF. Στο δεύτερο βήμα, μπορείτε να μετατρέψετε το PDF σε CHM χρησιμοποιώντας το API επεξεργασίας κειμένου [Aspose.Words για Android μέσω Java](https://products.aspose.com/words/android-java/). Και τα δύο API ανήκουν στην οικογένεια προϊόντων [Aspose.Total για Android μέσω Java](https://products.aspose.com/total/android-java/). 
+Μπορείτε να μετατρέψετε JSON σε CHM στις εφαρμογές σας Android σε διαδικασία δύο βημάτων. Πρώτον, χρησιμοποιώντας το ισχυρό API επεξεργασίας υπολογιστικών φύλλων [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) μπορείτε να αναλύσετε το JSON σε PDF. Στο δεύτερο βήμα, μπορείτε να μετατρέψετε το PDF σε CHM χρησιμοποιώντας το API επεξεργασίας κειμένου [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Και τα δύο API ανήκουν στην οικογένεια προϊόντων [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ otherformats: DOC DOT RTF ODT DOTX WORDML MOBI PCL DOCM EPUB FLATOPC WORD OTT PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
-Μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.Total για Android μέσω Java απευθείας από το [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) και εγκαταστήστε βιβλιοθήκες στην εφαρμογή σας.
+Μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.Total for Android via Java απευθείας από το [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) και εγκαταστήστε βιβλιοθήκες στην εφαρμογή σας.
 
 Εναλλακτικά, μπορείτε να λάβετε ένα αρχείο ZIP από τις [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

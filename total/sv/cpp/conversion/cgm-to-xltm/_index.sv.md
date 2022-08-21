@@ -13,13 +13,13 @@ otherformats: DIF XLT XLAM SXC MD ODS XLTX XLSM EXCEL XLSB TXT CSV
 {{< blocks/products/pf/feature-page-header h1="Rendera CGM till XLTM i C++-applikationer" h2="Konvertera CGM till XLTM i inbyggda C++-program utan att kräva Microsoft<sup>&reg;</sup> Excel eller Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Att konvertera CGM till XLTM i C++ via [Aspose.Total for C++](https://products.aspose.com/total/cpp/) filformatsautomatiseringsbibliotek är en enkel process i två steg. I det första steget kan du exportera CGM till XLSX genom att använda [Aspose.PDF för C++](https://products.aspose.com/pdf/cpp/), därefter genom att använda [Aspose.Cells for C++]( https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, du kan konvertera XLSX till XLTM. 
+Att konvertera CGM till XLTM i C++ via [Aspose.Total for C++](https://products.aspose.com/total/cpp/) filformatsautomatiseringsbibliotek är en enkel process i två steg. I det första steget kan du exportera CGM till XLSX genom att använda [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/), därefter genom att använda [Aspose.Cells for C++]( https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, du kan konvertera XLSX till XLTM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API för att konvertera CGM till XLTM" %}}
 1. Öppna CGM-filen med [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) klassreferens
-2. Konvertera CGM till XLSX genom att använda medlemsfunktionen [Spara](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db)
+2. Konvertera CGM till XLSX genom att använda medlemsfunktionen [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db)
 3. Ladda XLSX-dokument med hjälp av klassreferens [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
 4. Spara dokumentet i XLTM-format med hjälp av medlemsfunktionen [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -38,7 +38,7 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Hämta eller ställ in CGM-filinformation via C++" %}}
-[Aspose.PDF för C++](https://products.aspose.com/pdf/cpp/) låter dig också få information om ditt CGM-dokument och låter dig fatta välgrundade beslut innan din konverteringsprocess. För att få filspecifik information om en CGM-fil måste du först anropa metoden [get_Info()](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#ae7a6ba620499ffa0dbaa5c813ee96c4a) för [Dokument](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) klass. När DocumentInfo-objektet är hämtat kan du få värdena för de enskilda egenskaperna. Dessutom kan du också ställa in egenskaperna genom att använda respektive metoder i klassen DocumentInfo.
+[Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) låter dig också få information om ditt CGM-dokument och låter dig fatta välgrundade beslut innan din konverteringsprocess. För att få filspecifik information om en CGM-fil måste du först anropa metoden [get_Info()](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#ae7a6ba620499ffa0dbaa5c813ee96c4a) för [Dokument](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) klass. När DocumentInfo-objektet är hämtat kan du få värdena för de enskilda egenskaperna. Dessutom kan du också ställa in egenskaperna genom att använda respektive metoder i klassen DocumentInfo.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}
@@ -46,7 +46,7 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Spara XLTM-filformat för att streama via C++" %}}
-[Aspose.Cells for C++](https://products.aspose.com/cells/net/) gör det möjligt att spara XLTM-filformat för att streama. För att spara filer till en ström, skapa ett MemoryStream- eller FileStream-objekt och spara filen till det strömobjektet genom att anropa [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) objektets [Spara](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) metod. Ange önskat filformat med uppräkningen [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) när du anropar Spara-metoden.
+[Aspose.Cells for C++](https://products.aspose.com/cells/net/) gör det möjligt att spara XLTM-filformat för att streama. För att spara filer till en ström, skapa ett MemoryStream- eller FileStream-objekt och spara filen till det strömobjektet genom att anropa [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) objektets [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) metod. Ange önskat filformat med uppräkningen [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) när du anropar Spara-metoden.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "save-xltm-to-stream.cpp" >}}

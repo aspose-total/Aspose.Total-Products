@@ -19,9 +19,9 @@ otherformats: ODT DOTM DOT DOCM SVG WORDML PNG EPUB FLATOPC DOC GIF JPEG TEXT MD
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="EMLXをPCLに変換するC++API" %}}
 1. [MailMessage](https://reference.aspose.com/emlx/cpp/class/aspose.emlx.mail_message)クラスリファレンスを使用してEMLXファイルを開きます
-2. [保存](https://reference.aspose.com/emlx/cpp/class/aspose.emlx.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)メンバー関数を使用してEMLXをHTMLに変換します
+2. [Save](https://reference.aspose.com/emlx/cpp/class/aspose.emlx.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)メンバー関数を使用してEMLXをHTMLに変換します
 3. [ドキュメント](https://reference.aspose.com/words/cpp/class/aspose.words.document)クラスを使用してHTMLをロードします
-4. [保存](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)メソッドを使用してドキュメントをPCL形式で保存し、PclをSaveFormatとして設定します
+4. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)メソッドを使用してドキュメントをPCL形式で保存し、PclをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

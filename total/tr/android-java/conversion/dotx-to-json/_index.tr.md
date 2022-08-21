@@ -13,7 +13,7 @@ otherformats: SXC XLSM XLSB TSV XLAM XLT DIF EXCEL XLTX CSV XLTM FODS ODS XLSX
 {{< blocks/products/pf/feature-page-header h1="Java ile Android'de DOTX'yi JSON Formatına Dönüştür" h2="Microsoft<sup>&reg;</sup> Word veya Excel kullanmadan DOTX'yi JSON'a aktarmak için Android uygulamaları tasarlayın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) aracılığıyla Android Uygulamalarınızda DOTX'yi JSON formatına dönüştürebilirsiniz. Belge işleme ve dönüştürme API'sini [Java üzerinden Aspose.Words for Android](https://products.aspose.com/words/android-java/) kullanarak, DOTX'yi HTML'ye aktarabilirsiniz. Bundan sonra, [Java üzerinden Android için Aspose.Cells](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi JSON'a dönüştürebilirsiniz. 
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) aracılığıyla Android Uygulamalarınızda DOTX'yi JSON formatına dönüştürebilirsiniz. Belge işleme ve dönüştürme API'sini [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) kullanarak, DOTX'yi HTML'ye aktarabilirsiniz. Bundan sonra, [Java üzerinden Android için Aspose.Cells](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi JSON'a dönüştürebilirsiniz. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

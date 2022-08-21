@@ -10,14 +10,14 @@ outformat: DOC
 otherformats: DOCX WORD POWERPOINT PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převést XLSB na DOC přes C++" h2="Export Excel&reg; XLSB do DOC v rámci plně funkčních aplikací C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Převést XLSB na DOC přes C++" h2="Export Excel<sup>&reg;</sup> XLSB do DOC v rámci plně funkčních aplikací C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Převod XLSB na DOC v C++" %}}
 1. Otevřete soubor XLSB pomocí členské funkce [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) [Factory](https://reference.aspose.com/cells/cpp/class/aspose.cells.factory) odkaz na třídu
 2. Převeďte XLSB na PDF a nastavte SaveFormat na Pdf
-3. Načtěte převedený soubor PDF pomocí odkazu třídy [Dokument](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)
-4. Uložte dokument do formátu DOC pomocí členské funkce [Uložit](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db) a nastavte Doc jako SaveFormat
+3. Načtěte převedený soubor PDF pomocí odkazu třídy [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)
+4. Uložte dokument do formátu DOC pomocí členské funkce [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db) a nastavte Doc jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}

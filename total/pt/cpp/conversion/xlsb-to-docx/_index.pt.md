@@ -10,14 +10,14 @@ outformat: DOCX
 otherformats: POWERPOINT DOC WORD PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter XLSB para DOCX via C++" h2="Exportar Excel&reg; XLSB para DOCX em aplicativos C++ totalmente funcionais" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter XLSB para DOCX via C++" h2="Exportar Excel<sup>&reg;</sup> XLSB para DOCX em aplicativos C++ totalmente funcionais" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversão de XLSB para DOCX em C++" %}}
 1. Abra o arquivo XLSB usando a função de membro [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) de [Factory](https://reference.aspose.com/cells/cpp/class/aspose.cells.factory) referência de classe
 2. Converta XLSB para PDF e defina SaveFormat para PDF
 3. Carregue o arquivo PDF convertido usando a referência de classe [Docxument](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument)
-4. Salve o docxumento no formato DOCX usando a função de membro [Salvar](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument#a6383c010776212483f51cc41235924db) e defina Docx como SaveFormat
+4. Salve o docxumento no formato DOCX usando a função de membro [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument#a6383c010776212483f51cc41235924db) e defina Docx como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}

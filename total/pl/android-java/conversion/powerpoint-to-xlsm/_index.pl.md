@@ -13,7 +13,7 @@ otherformats: MARKDOWN FODS XLTM DIF TSV ODS XLAM EXCEL MHTML XLSX SXC XLTX CSV 
 {{< blocks/products/pf/feature-page-header h1="Konwertuj POWERPOINT na XLSM w Androidzie przez Java" h2="Eksportuj plik POWERPOINT do XLSM w aplikacjach na Androida bez użycia programu Microsoft<sup>&reg;</sup> Excel lub PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Możesz łatwo przekonwertować plik POWERPOINT na XLSM w swoich aplikacjach na Androida w dwuetapowym procesie za pomocą [Aspose.Total dla Androida przez Javę](https://products.aspose.com/total/android-java/). W pierwszym kroku możesz wyeksportować plik POWERPOINT do HTML, używając [Aspose.Slides na Androida przez Javę](https://products.aspose.com/slides/android-java/). Po drugie, używając [Aspose.Cells na Androida przez Javę](https://products.aspose.com/cells/android-java/), możesz przekonwertować HTML na XLSM. 
+Możesz łatwo przekonwertować plik POWERPOINT na XLSM w swoich aplikacjach na Androida w dwuetapowym procesie za pomocą [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). W pierwszym kroku możesz wyeksportować plik POWERPOINT do HTML, używając [Aspose.Slides na Androida przez Javę](https://products.aspose.com/slides/android-java/). Po drugie, używając [Aspose.Cells na Androida przez Javę](https://products.aspose.com/cells/android-java/), możesz przekonwertować HTML na XLSM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Możesz łatwo przekonwertować plik POWERPOINT na XLSM w swoich aplikacjach na 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
-Aby przekonwertować POWERPOINT do XLSM, możesz łatwo użyć Aspose.Total dla Androida przez Javę bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i zainstaluj biblioteki w swojej aplikacji.
+Aby przekonwertować POWERPOINT do XLSM, możesz łatwo użyć Aspose.Total for Android via Java bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i zainstaluj biblioteki w swojej aplikacji.
 
 Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

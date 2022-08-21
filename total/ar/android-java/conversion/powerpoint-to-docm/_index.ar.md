@@ -13,20 +13,20 @@ otherformats: RTF DOTM WORD FLATOPC TEXT DOC WORDML DOTX DOCX OTT DOT ODT
 {{< blocks/products/pf/feature-page-header h1="تقديم POWERPOINT إلى DOCM على Andorid عبر Java" h2="تنسيق ملف APIs لتحويل POWERPOINT إلى DOCM داخل تطبيقات Android دون الاعتماد على Microsoft PowerPoint أو Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-يسمح [Aspose.Total لنظام Android عبر Java](https://products.aspose.com/total/android-java/) بمعالجة تنسيقات الملفات داخل تطبيقات Android. باستخدام واجهات برمجة التطبيقات المتوفرة في الحزمة ، يمكنك أتمتة عملية تحويل PowerPoint POWERPOINT إلى Word DOCM في تطبيقاتك.
+يسمح [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) بمعالجة تنسيقات الملفات داخل تطبيقات Android. باستخدام واجهات برمجة التطبيقات المتوفرة في الحزمة ، يمكنك أتمتة عملية تحويل PowerPoint POWERPOINT إلى Word DOCM في تطبيقاتك.
 يمكنك تحويل المستند الخاص بك في خطوتين. يمكنك استخدام [Aspose.Slides for Andorid via Java](https://products.aspose.com/slides/android-java/) وهي واجهة برمجة تطبيقات PowerPoint لتطبيقات Android لتقديم POWERPOINT إلى HTML. بعد ذلك باستخدام واجهة برمجة تطبيقات معالجة المستندات [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) يمكنك تحويل HTML إلى DOCM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="تقديم POWERPOINT إلى DOCM في Android" %}}
 1. افتح ملف POWERPOINT باستخدام فئة [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. تحويل POWERPOINT إلى HTML باستخدام [حفظ](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) وتعيين Html كـ SaveFormat
-3. قم بتحميل ملف HTML المحول باستخدام فئة [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument)
-4. احفظ المستند بتنسيق DOCM باستخدام طريقة [حفظ](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save (java.lang.String، int)) وقم بتعيين Docm باسم SaveFormat
+2. تحويل POWERPOINT إلى HTML باستخدام [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) وتعيين Html كـ SaveFormat
+3. قم بتحميل ملف HTML المحول باستخدام فئة [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. احفظ المستند بتنسيق DOCM باستخدام طريقة [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save (java.lang.String، int)) وقم بتعيين Docm باسم SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-يمكنك بسهولة استخدام Aspose.Total لنظام Android عبر Java مباشرةً من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) و تثبيت [Aspose.Slides لنظام Android عبر Java](https://docms.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) و [Aspose.Words for Andorid via Java](https://docms.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) في التطبيقات.
+يمكنك بسهولة استخدام Aspose.Total for Android via Java مباشرةً من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) و تثبيت [Aspose.Slides لنظام Android عبر Java](https://docms.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) و [Aspose.Words for Andorid via Java](https://docms.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) في التطبيقات.
 
 بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -36,8 +36,8 @@ otherformats: RTF DOTM WORD FLATOPC TEXT DOC WORDML DOTX DOCX OTT DOT ODT
 Presentation presentation = new Presentation("input.pptx");
 // save the presentation as HTML
 presentation.save("htmlOutput.html", SaveFormat.Html);
-// load HTML with an instance of Docmument
-Docmument docmument = new Docmument("htmlOutput.html");
+// load HTML with an instance of Document
+Document docmument = new Document("htmlOutput.html");
 // save docmument in DOCM format
 docmument.save("output.docm",SaveFormat.Docmm);   
 ```

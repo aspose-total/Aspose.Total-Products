@@ -18,7 +18,7 @@ otherformats: PPT PPS POTX PPSX PPTX PPTM POT ODP PPSM POTM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="DOCM-zu-POWERPOINT-Konvertierung auf C++" %}}
-1. Öffnen Sie die DOCM-Datei mit der Klassenreferenz [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument).
+1. Öffnen Sie die DOCM-Datei mit der Klassenreferenz [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument).
 2. Konvertieren Sie DOCM in HTML, indem Sie die Member-Funktion [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_stdbasicostream_saveoptions) verwenden
 3. Initialisieren Sie ein neues [Präsentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)-Objekt
 4. Fügen Sie Ihrer Folie eine AutoForm hinzu, und fügen Sie AddTextFrame darin hinzu
@@ -34,9 +34,9 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp
-// load DOCM file with an instance of Docmument
-Docmument docmument = new Docmument("template.docm");
-System::SharedPtr<Docmument> docm = System::MakeObject<Docmument>(u"sourceFile.docm");
+// load DOCM file with an instance of Document
+Document docmument = new Document("template.docm");
+System::SharedPtr<Document> docm = System::MakeObject<Document>(u"sourceFile.docm");
 // save the docmument in HTML file format
 docm->Save(u"HtmlOutput.HTML");
 // load the desired the presentation
@@ -74,7 +74,7 @@ Abgesehen von der Dokumentenkonvertierung ermöglicht die [Aspose.Words for C++]
 // when loading password protected docmument, the password is passed to the docmument's constructor using a LoadOptions object.
 auto options = MakeObject<LoadOptions>(u"docmPassword");
 // load the docmument from the local file system by filename:
-SharedPtr<Docmument> docm = MakeObject<Docmument>(u"Encrypted.docm", options);
+SharedPtr<Document> docm = MakeObject<Document>(u"Encrypted.docm", options);
 ```
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

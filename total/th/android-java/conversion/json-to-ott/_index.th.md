@@ -13,7 +13,7 @@ otherformats: DOC RTF PS PCL CHM MOBI WORD FLATOPC DOTX ODT DOCM WORDML EPUB DOT
 {{< blocks/products/pf/feature-page-header h1="แปลงรูปแบบ JSON เป็น OTT ในแอปพลิเคชัน Android" h2="แยก JSON เป็น OTT ภายในแอปพลิเคชัน Android โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-คุณสามารถแปลง JSON เป็น OTT ในแอปพลิเคชัน Android ของคุณในกระบวนการสองขั้นตอน ประการแรก ด้วยการใช้ API การประมวลผลสเปรดชีตที่มีประสิทธิภาพ [Aspose.Cells สำหรับ Android ผ่าน Java](https://products.aspose.com/cells/android-java/) คุณสามารถแยก JSON เป็น PDF ได้ ในขั้นตอนที่สอง คุณสามารถแปลง PDF เป็น OTT โดยใช้ Word Processing API [Aspose.Words สำหรับ Android ผ่าน Java](https://products.aspose.com/words/android-java/) API ทั้งสองอยู่ภายใต้ [Aspose.Total สำหรับ Android ผ่าน Java](https://products.aspose.com/total/android-java/) ตระกูลผลิตภัณฑ์ 
+คุณสามารถแปลง JSON เป็น OTT ในแอปพลิเคชัน Android ของคุณในกระบวนการสองขั้นตอน ประการแรก ด้วยการใช้ API การประมวลผลสเปรดชีตที่มีประสิทธิภาพ [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) คุณสามารถแยก JSON เป็น PDF ได้ ในขั้นตอนที่สอง คุณสามารถแปลง PDF เป็น OTT โดยใช้ Word Processing API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) API ทั้งสองอยู่ภายใต้ [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) ตระกูลผลิตภัณฑ์ 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -21,11 +21,11 @@ otherformats: DOC RTF PS PCL CHM MOBI WORD FLATOPC DOTX ODT DOCM WORDML EPUB DOT
 1. สร้าง [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) วัตถุใหม่และอ่านข้อมูล JSON ที่ถูกต้องจากไฟล์
 2. นำเข้าไฟล์ JSON ไปยังเวิร์กชีตโดยใช้คลาส [JsonUtility](https://reference.aspose.com/cells/java/com.aspose.cells/JsonUtility) และ [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) เป็น PDF
 3. โหลดเอกสาร PDF โดยใช้คลาส [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
-4. บันทึกเอกสารในรูปแบบ OTT โดยใช้ [บันทึก](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) )) กระบวนการ
+4. บันทึกเอกสารในรูปแบบ OTT โดยใช้ [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) )) กระบวนการ
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
-คุณสามารถใช้ Aspose.Total สำหรับ Android ผ่าน Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และ ติดตั้งไลบรารีในแอปของคุณ
+คุณสามารถใช้ Aspose.Total for Android via Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และ ติดตั้งไลบรารีในแอปของคุณ
 
 หรือคุณสามารถรับไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/total/androidjava)
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -13,7 +13,7 @@ otherformats: POTM POTX POWERPOINT PPSM PPS PPTM PPSX PPTX POT PPT CSV DIF FODS 
 {{< blocks/products/pf/feature-page-header h1="ODT naar ODP converteren in Android-apps" h2="ODT naar ODP-conversie in uw Android-applicaties zonder Microsoft Word<sup>&reg;</sup> of PowerPoint te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Bent u een Android-ontwikkelaar en wilt u een functie voor odtumentconversie aan uw toepassing toevoegen? [Aspose.Total voor Android via Java](https://products.aspose.com/total/android-java/) File Format Automation-bibliotheken kunnen u helpen het odtumentconversieproces in uw Android-applicaties te automatiseren. Om het ODT-bestand naar ODP te converteren, kunt u eerst de odtumentmanipulatie-API [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) gebruiken om het ODT-bestandsformaat naar HTML te converteren. Daarna kunt u met behulp van PowerPoint API [Aspose.Slides voor Android Java](https://products.aspose.com/slides/android-java/), een nieuwe presentatie maken, HTML-inhoud erin schrijven en deze opslaan als ODP. 
+Bent u een Android-ontwikkelaar en wilt u een functie voor odtumentconversie aan uw toepassing toevoegen? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) File Format Automation-bibliotheken kunnen u helpen het odtumentconversieproces in uw Android-applicaties te automatiseren. Om het ODT-bestand naar ODP te converteren, kunt u eerst de odtumentmanipulatie-API [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) gebruiken om het ODT-bestandsformaat naar HTML te converteren. Daarna kunt u met behulp van PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), een nieuwe presentatie maken, HTML-inhoud erin schrijven en deze opslaan als ODP. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -26,7 +26,7 @@ Bent u een Android-ontwikkelaar en wilt u een functie voor odtumentconversie aan
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
-Voor ODT-naar-ODP-bestandsconversie kunt u eenvoudig Aspose.Total voor Android via Java rechtstreeks vanuit [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) en installeer bibliotheken in uw app.
+Voor ODT-naar-ODP-bestandsconversie kunt u eenvoudig Aspose.Total for Android via Java rechtstreeks vanuit [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) en installeer bibliotheken in uw app.
 
 U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

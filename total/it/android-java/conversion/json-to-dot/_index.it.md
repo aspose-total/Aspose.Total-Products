@@ -13,19 +13,19 @@ otherformats: DOC PS ODT DOCM DOTX EPUB OTT WORD PCL CHM FLATOPC WORDML RTF MOBI
 {{< blocks/products/pf/feature-page-header h1="Converti il formato JSON in DOT nelle applicazioni Android" h2="Analizza da JSON a DOT all'interno di applicazioni Android senza utilizzare Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Puoi convertire JSON in DOT nelle tue applicazioni Android in un processo in due fasi. In primo luogo, utilizzando la potente API di elaborazione dei fogli di calcolo [Aspose.Cells per Android tramite Java](https://products.aspose.com/cells/android-java/) puoi analizzare JSON in PDF. Nel secondo passaggio, puoi convertire PDF in DOT utilizzando l'API di elaborazione testi [Aspose.Words per Android tramite Java](https://products.aspose.com/words/android-java/). Entrambe le API rientrano nella famiglia di prodotti [Aspose.Total per Android tramite Java](https://products.aspose.com/total/android-java/). 
+Puoi convertire JSON in DOT nelle tue applicazioni Android in un processo in due fasi. In primo luogo, utilizzando la potente API di elaborazione dei fogli di calcolo [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) puoi analizzare JSON in PDF. Nel secondo passaggio, puoi convertire PDF in DOT utilizzando l'API di elaborazione testi [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Entrambe le API rientrano nella famiglia di prodotti [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converti il formato JSON in DOT in Android tramite Java" %}}
 1. Crea un nuovo oggetto [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) e leggi dati JSON validi dal file
-2. Importa il file JSON nel foglio di lavoro utilizzando la classe [JsonUtility](https://reference.aspose.com/cells/java/com.aspose.cells/JsonUtility) e [Salva](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) come PDF
+2. Importa il file JSON nel foglio di lavoro utilizzando la classe [JsonUtility](https://reference.aspose.com/cells/java/com.aspose.cells/JsonUtility) e [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) come PDF
 3. Carica il documento PDF utilizzando la classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
-4. Salvare il documento in formato DOT utilizzando [Salva](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metodo
+4. Salvare il documento in formato DOT utilizzando [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metodo
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
-Puoi facilmente utilizzare Aspose.Total per Android tramite Java direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e installa le librerie nella tua app.
+Puoi facilmente utilizzare Aspose.Total for Android via Java direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e installa le librerie nella tua app.
 
 In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

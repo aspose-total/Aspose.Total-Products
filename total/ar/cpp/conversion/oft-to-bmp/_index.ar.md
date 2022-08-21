@@ -19,9 +19,9 @@ otherformats: TEXT MD DOC DOCX XPS RTF EMF PCL ODT EPUB JPEG WORDML SVG GIF FLAT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API لتحويل البريد الإلكتروني إلى BMP" %}}
 1. افتح ملف OFT باستخدام مرجع فئة [MailMessage](https://reference.aspose.com/oft/cpp/class/aspose.oft.mail_message)
-2. تحويل OFT إلى HTML باستخدام وظيفة العضو [حفظ](https://reference.aspose.com/oft/cpp/class/aspose.oft.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
+2. تحويل OFT إلى HTML باستخدام وظيفة العضو [Save](https://reference.aspose.com/oft/cpp/class/aspose.oft.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
 3. قم بتحميل HTML باستخدام فئة [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
-4. احفظ المستند بتنسيق BMP باستخدام طريقة [حفظ](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) وقم بتعيين Bmp كـ SaveFormat
+4. احفظ المستند بتنسيق BMP باستخدام طريقة [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) وقم بتعيين Bmp كـ SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}

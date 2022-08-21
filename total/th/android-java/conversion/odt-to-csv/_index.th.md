@@ -13,19 +13,19 @@ otherformats: XLT DIF XLS XLTM FODS ODS TSV XLSX SXC XLSM XLAM EXCEL XLSB XLTX
 {{< blocks/products/pf/feature-page-header h1="แปลง ODT เป็น CSV ในแอปพลิเคชัน Android" h2="ส่งออก ODT เป็น CSV ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-ด้วยการใช้ [Aspose.Total สำหรับ Android ผ่าน Java](https://products.aspose.com/total/android-java/) คุณสามารถรวมคุณลักษณะการแปลง ODT เป็น CSV ภายในแอปพลิเคชัน Android ของคุณได้ ประการแรก คุณสามารถแปลง ODT เป็น HTML ได้โดยใช้ API การจัดการเอกสารและการแปลงที่มีคุณลักษณะหลากหลาย [Aspose.Words สำหรับ Android ผ่าน Java](https://products.aspose.com/words/android-java/) หลังจากนั้น เมื่อใช้ [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) คุณจะแปลง HTML เป็น CSV ได้ 
+ด้วยการใช้ [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) คุณสามารถรวมคุณลักษณะการแปลง ODT เป็น CSV ภายในแอปพลิเคชัน Android ของคุณได้ ประการแรก คุณสามารถแปลง ODT เป็น HTML ได้โดยใช้ API การจัดการเอกสารและการแปลงที่มีคุณลักษณะหลากหลาย [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) หลังจากนั้น เมื่อใช้ [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) คุณจะแปลง HTML เป็น CSV ได้ 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Android API เพื่อแปลง ODT เป็น CSV" %}}
 1. เปิดไฟล์ ODT โดยใช้คลาส [Odtument](https://reference.aspose.com/words/java/com.aspose.words/Odtument)
-2. แปลง ODT เป็น HTML โดยใช้ [บันทึก](https://reference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String,com.aspose.words.SaveOptions) ) กระบวนการ
+2. แปลง ODT เป็น HTML โดยใช้ [Save](https://reference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String,com.aspose.words.SaveOptions) ) กระบวนการ
 3. โหลดเอกสาร HTML โดยใช้คลาส [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. บันทึกเอกสารในรูปแบบ CSV โดยใช้ [บันทึก](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) วิธีการ
+4. บันทึกเอกสารในรูปแบบ CSV โดยใช้ [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) วิธีการ
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
-คุณสามารถใช้ Aspose.Total สำหรับ Android ผ่าน Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และ ติดตั้ง [Aspose.Cells สำหรับ Android ผ่าน Java](https://odts.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via- java-from-maven-repository) และ [Aspose.Words สำหรับ Android ผ่าน Java](https://odts.aspose.com/words/java/install-aspose-words-for-android-via-java/#install- asposewords-for-android-via-java-from-maven-repository) ในแอปพลิเคชันของคุณ
+คุณสามารถใช้ Aspose.Total for Android via Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และ ติดตั้ง [Aspose.Cells for Android via Java](https://odts.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via- java-from-maven-repository) และ [Aspose.Words for Android via Java](https://odts.aspose.com/words/java/install-aspose-words-for-android-via-java/#install- asposewords-for-android-via-java-from-maven-repository) ในแอปพลิเคชันของคุณ
 
 หรือคุณสามารถรับไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/total/androidjava)
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -38,7 +38,7 @@ otherformats: XLT DIF XLS XLTM FODS ODS TSV XLSX SXC XLSM XLAM EXCEL XLSB XLTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="ลบข้อมูลที่ไม่ได้ใช้ออกจากเอกสาร ODT ใน Android ผ่าน Java" %}}
-ก่อนแปลง ODT เป็น CSV คุณสามารถลบข้อมูลที่ไม่ได้ใช้ออกจากเอกสาร ODT ผ่าน [Aspose.Words สำหรับ Android ผ่าน Java](https://products.aspose.com/words/android-java/) บางครั้ง คุณอาจต้องลบข้อมูลที่ไม่ได้ใช้หรือทำซ้ำเพื่อลดขนาดของเอกสารที่ส่งออกและเวลาในการประมวลผล คลาส [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) ให้คุณระบุตัวเลือกสำหรับการทำความสะอาดเอกสาร หากต้องการลบสไตล์ที่ซ้ำกันหรือเพียงแค่สไตล์หรือรายการที่ไม่ได้ใช้ออกจากเอกสาร คุณสามารถใช้เมธอด [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Odtument#cleanup()) คุณสามารถใช้ [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) และ [UnusedBuiltinStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedBuiltinStyles) คุณสมบัติในการตรวจหาและลบสไตล์ที่ทำเครื่องหมายเป็น "ไม่ได้ใช้"
+ก่อนแปลง ODT เป็น CSV คุณสามารถลบข้อมูลที่ไม่ได้ใช้ออกจากเอกสาร ODT ผ่าน [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) บางครั้ง คุณอาจต้องลบข้อมูลที่ไม่ได้ใช้หรือทำซ้ำเพื่อลดขนาดของเอกสารที่ส่งออกและเวลาในการประมวลผล คลาส [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) ให้คุณระบุตัวเลือกสำหรับการทำความสะอาดเอกสาร หากต้องการลบสไตล์ที่ซ้ำกันหรือเพียงแค่สไตล์หรือรายการที่ไม่ได้ใช้ออกจากเอกสาร คุณสามารถใช้เมธอด [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Odtument#cleanup()) คุณสามารถใช้ [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) และ [UnusedBuiltinStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedBuiltinStyles) คุณสมบัติในการตรวจหาและลบสไตล์ที่ทำเครื่องหมายเป็น "ไม่ได้ใช้"
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-odtument.java" >}}
@@ -46,7 +46,7 @@ otherformats: XLT DIF XLS XLTM FODS ODS TSV XLSX SXC XLSM XLAM EXCEL XLSB XLTX
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="บันทึกไฟล์ CSV เพื่อสตรีมใน Android ผ่าน Java" %}}
-หลังจากแปลง ODT เป็น CSV แล้ว [Aspose.Cells สำหรับ Android ผ่าน Java](https://products.aspose.com/cells/android-java/) จะช่วยให้คุณบันทึกเอกสารเพื่อสตรีมได้ หากคุณต้องการบันทึกไฟล์ไปยัง Stream คุณควรสร้างวัตถุ FileOutputStream จากนั้น [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) ไฟล์ไปยังวัตถุ Stream นั้นโดยเรียกวิธีการบันทึกของ [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) วัตถุ.
+หลังจากแปลง ODT เป็น CSV แล้ว [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) จะช่วยให้คุณบันทึกเอกสารเพื่อสตรีมได้ หากคุณต้องการบันทึกไฟล์ไปยัง Stream คุณควรสร้างวัตถุ FileOutputStream จากนั้น [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) ไฟล์ไปยังวัตถุ Stream นั้นโดยเรียกวิธีการบันทึกของ [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) วัตถุ.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}

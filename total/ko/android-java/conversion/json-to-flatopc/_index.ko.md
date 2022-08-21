@@ -13,7 +13,7 @@ otherformats: DOC PS CHM DOTX MOBI WORDML PCL OTT ODT DOT DOCM WORD EPUB RTF
 {{< blocks/products/pf/feature-page-header h1="Android 애플리케이션에서 JSON 형식을 FLATOPC으로 변환" h2="Microsoft<sup>&reg;</sup> Word를 사용하지 않고 Android 애플리케이션 내에서 JSON을 FLATOPC으로 구문 분석" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-2단계 프로세스로 Android 애플리케이션에서 JSON을 FLATOPC으로 변환할 수 있습니다. 첫째, 강력한 스프레드시트 처리 API[Java를 통한 Android용 Aspose.Cells](https://products.aspose.com/cells/android-java/)를 사용하여 JSON을 PDF로 구문 분석할 수 있습니다. 두 번째 단계에서는 Word Processing API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)를 사용하여 PDF를 FLATOPC으로 변환할 수 있습니다. 두 API 모두 [Java를 통한 Android용 Aspose.Total](https://products.aspose.com/total/android-java/) 제품군에 속합니다. 
+2단계 프로세스로 Android 애플리케이션에서 JSON을 FLATOPC으로 변환할 수 있습니다. 첫째, 강력한 스프레드시트 처리 API[Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)를 사용하여 JSON을 PDF로 구문 분석할 수 있습니다. 두 번째 단계에서는 Word Processing API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)를 사용하여 PDF를 FLATOPC으로 변환할 수 있습니다. 두 API 모두 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) 제품군에 속합니다. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

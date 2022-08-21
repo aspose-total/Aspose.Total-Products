@@ -13,7 +13,7 @@ otherformats: SXC XLSM XLSB TSV XLAM XLT DIF EXCEL XLTX CSV XLTM FODS ODS XLSX
 {{< blocks/products/pf/feature-page-header h1="แปลง DOTX เป็นรูปแบบ JSON ผ่าน C++" h2="ส่งออก DOTX เป็น JSON ผ่าน C++ โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-ด้วยการใช้ [Aspose.Total สำหรับ C++](https://products.aspose.com/total/cpp/) คุณสามารถแปลง DOTX เป็นรูปแบบ JSON ภายในแอปพลิเคชัน C++ ของคุณได้ ประการแรก โดยใช้ [Aspose.Words for C++](https://products.aspose.com/words/cpp/) คุณสามารถส่งออก DOTX เป็น HTML หลังจากนั้น เมื่อใช้ [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) คุณจะแปลงรูปแบบ HTML เป็นรูปแบบ JSON ได้ 
+ด้วยการใช้ [Aspose.Total for C++](https://products.aspose.com/total/cpp/) คุณสามารถแปลง DOTX เป็นรูปแบบ JSON ภายในแอปพลิเคชัน C++ ของคุณได้ ประการแรก โดยใช้ [Aspose.Words for C++](https://products.aspose.com/words/cpp/) คุณสามารถส่งออก DOTX เป็น HTML หลังจากนั้น เมื่อใช้ [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) คุณจะแปลงรูปแบบ HTML เป็นรูปแบบ JSON ได้ 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

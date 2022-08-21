@@ -19,7 +19,7 @@ otherformats: DOTX TIFF XPS JPEG OTT EMF TEXT DOC SVG GIF EPUB PDF ODT DOCX DOTM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API för att konvertera MSG till FLATOPC" %}}
 1. Öppna MSG-filen med [MailMessage](https://reference.aspose.com/msg/cpp/class/aspose.msg.mail_message) klassreferens
-2. Konvertera MSG till HTML genom att använda medlemsfunktionen [Spara](https://reference.aspose.com/msg/cpp/class/aspose.msg.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
+2. Konvertera MSG till HTML genom att använda medlemsfunktionen [Save](https://reference.aspose.com/msg/cpp/class/aspose.msg.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
 3. Ladda HTML genom att använda klassen [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
 4. Spara dokumentet i FLATOPC-format med metoden [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) och ställ in Flatopc som SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

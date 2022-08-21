@@ -13,7 +13,7 @@ otherformats: POTM POWERPOINT PPSM PPTM POTX POT PPS ODP PPSX PPT CSV DIF FODS O
 {{< blocks/products/pf/feature-page-header h1="Convertir OTT en PPTX dans les applications Android" h2="Conversion OTT en PPTX dans vos applications Android sans installer Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Êtes-vous un développeur Android qui souhaite ajouter une fonctionnalité de conversion de ottuments à votre application ? [Aspose.Total pour Android via Java](https://products.aspose.com/total/android-java/) Les bibliothèques d'automatisation du format de fichier peuvent vous aider à automatiser le processus de conversion de ottuments dans vos applications Android. Afin de convertir un fichier OTT en PPTX, vous pouvez d'abord utiliser l'API de manipulation de ottument [Aspose.Words pour Android Java](https://products.aspose.com/words/android-java/) pour convertir le format de fichier OTT en HTML. Après cela, en utilisant l'API PowerPoint [Aspose.Slides pour Android Java](https://products.aspose.com/slides/android-java/), vous pouvez créer une nouvelle présentation, y écrire du contenu HTML et l'enregistrer sous PPTX. 
+Êtes-vous un développeur Android qui souhaite ajouter une fonctionnalité de conversion de ottuments à votre application ? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Les bibliothèques d'automatisation du format de fichier peuvent vous aider à automatiser le processus de conversion de ottuments dans vos applications Android. Afin de convertir un fichier OTT en PPTX, vous pouvez d'abord utiliser l'API de manipulation de ottument [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) pour convertir le format de fichier OTT en HTML. Après cela, en utilisant l'API PowerPoint [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/), vous pouvez créer une nouvelle présentation, y écrire du contenu HTML et l'enregistrer sous PPTX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -26,7 +26,7 @@ otherformats: POTM POWERPOINT PPSM PPTM POTX POT PPS ODP PPSX PPT CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
-Pour la conversion de fichiers OTT en PPTX, vous pouvez facilement utiliser Aspose.Total pour Android via Java directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et installez les bibliothèques dans votre application.
+Pour la conversion de fichiers OTT en PPTX, vous pouvez facilement utiliser Aspose.Total for Android via Java directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et installez les bibliothèques dans votre application.
 
 Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

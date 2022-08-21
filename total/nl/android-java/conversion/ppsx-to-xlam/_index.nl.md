@@ -13,7 +13,7 @@ otherformats: MARKDOWN ODS XLTX XLT CSV XLTM FODS MHTML DIF XLS XLSB SXC EXCEL T
 {{< blocks/products/pf/feature-page-header h1="Converteer PPSX naar XLAM in Android via Java" h2="Exporteer PPSX-bestand naar XLAM in Android-applicaties zonder Microsoft<sup>&reg;</sup> Excel of PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-U kunt het PPSX-bestand eenvoudig naar XLAM converteren in uw Android-applicaties in een proces van twee stappen via [Aspose.Total voor Android via Java](https://products.aspose.com/total/android-java/). In de eerste stap kunt u het PPSX-bestand naar HTML exporteren met [Aspose.Slides voor Android via Java](https://products.aspose.com/slides/android-java/). Ten tweede, door [Aspose.Cells voor Android via Java](https://products.aspose.com/cells/android-java/) te gebruiken, kunt u HTML naar XLAM converteren. 
+U kunt het PPSX-bestand eenvoudig naar XLAM converteren in uw Android-applicaties in een proces van twee stappen via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). In de eerste stap kunt u het PPSX-bestand naar HTML exporteren met [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). Ten tweede, door [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) te gebruiken, kunt u HTML naar XLAM converteren. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ U kunt het PPSX-bestand eenvoudig naar XLAM converteren in uw Android-applicatie
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
-Om PPSX naar XLAM te converteren, kunt u Aspose.Total voor Android eenvoudig rechtstreeks via Java gebruiken vanuit [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) en installeer bibliotheken in uw app.
+Om PPSX naar XLAM te converteren, kunt u Aspose.Total for Android eenvoudig rechtstreeks via Java gebruiken vanuit [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) en installeer bibliotheken in uw app.
 
 U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -18,10 +18,10 @@ otherformats: FODS MD XLT ODS XLSM EXCEL TXT XLTX XLTM XLAM SXC TSV
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="MHTML을 CSV로 변환하는 C++ API" %}}
-1. [문서](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) 클래스 참조를 사용하여 MHTML 파일 열기
-2. [저장](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db) 멤버 함수를 사용하여 MHTML을 XLSX로 변환
+1. [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) 클래스 참조를 사용하여 MHTML 파일 열기
+2. [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db) 멤버 함수를 사용하여 MHTML을 XLSX로 변환
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 클래스 참조를 사용하여 XLSX 문서 로드
-4. [저장](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) 멤버 함수를 사용하여 문서를 CSV 형식으로 저장합니다.
+4. [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) 멤버 함수를 사용하여 문서를 CSV 형식으로 저장합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
@@ -38,7 +38,7 @@ otherformats: FODS MD XLT ODS XLSM EXCEL TXT XLTX XLTM XLAM SXC TSV
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="C++를 통해 MHTML 파일 정보 가져오기 또는 설정" %}}
-[C++용 Aspose.PDF](https://products.aspose.com/pdf/cpp/)를 사용하면 MHTML 문서에 대한 정보를 얻을 수 있으며 변환 프로세스 전에 정보에 입각한 결정을 내릴 수 있습니다. MHTML 파일의 파일별 정보를 얻으려면 먼저 [get_Info()](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#ae7a6ba620499ffa0dbaa5c813ee96c4a) 메서드를 호출해야 합니다. [문서](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) 클래스입니다. DocumentInfo 개체가 검색되면 개별 속성의 값을 가져올 수 있습니다. 또한 DocumentInfo 클래스의 각 메소드를 사용하여 속성을 설정할 수도 있습니다.
+[Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/)를 사용하면 MHTML 문서에 대한 정보를 얻을 수 있으며 변환 프로세스 전에 정보에 입각한 결정을 내릴 수 있습니다. MHTML 파일의 파일별 정보를 얻으려면 먼저 [get_Info()](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#ae7a6ba620499ffa0dbaa5c813ee96c4a) 메서드를 호출해야 합니다. [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) 클래스입니다. DocumentInfo 개체가 검색되면 개별 속성의 값을 가져올 수 있습니다. 또한 DocumentInfo 클래스의 각 메소드를 사용하여 속성을 설정할 수도 있습니다.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}
@@ -46,7 +46,7 @@ otherformats: FODS MD XLT ODS XLSM EXCEL TXT XLTX XLTM XLAM SXC TSV
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="C++를 통해 스트림에 CSV 파일 형식 저장" %}}
-[Aspose.Cells for C++](https://products.aspose.com/cells/net/)를 사용하면 CSV 파일 형식을 스트리밍에 저장할 수 있습니다. 스트림에 파일을 저장하려면 MemoryStream 또는 FileStream 객체를 만들고 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)을 호출하여 해당 스트림 객체에 파일을 저장합니다. 개체의 [저장](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) 메서드입니다. Save 메서드를 호출할 때 [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) 열거를 사용하여 원하는 파일 형식을 지정합니다.
+[Aspose.Cells for C++](https://products.aspose.com/cells/net/)를 사용하면 CSV 파일 형식을 스트리밍에 저장할 수 있습니다. 스트림에 파일을 저장하려면 MemoryStream 또는 FileStream 객체를 만들고 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)을 호출하여 해당 스트림 객체에 파일을 저장합니다. 개체의 [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) 메서드입니다. Save 메서드를 호출할 때 [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) 열거를 사용하여 원하는 파일 형식을 지정합니다.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "save-csv-to-stream.cpp" >}}

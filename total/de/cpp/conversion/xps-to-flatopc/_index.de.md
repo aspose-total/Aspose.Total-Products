@@ -13,7 +13,7 @@ otherformats: MHTML ODT DOCM PS OTT WORDML MARKDOWN DOT DOTM PCL XAMLFLOW RTF
 {{< blocks/products/pf/feature-page-header h1="C++-API zum Exportieren von XPS nach FLATOPC" h2="Rendern Sie XPS in FLATOPC innerhalb von C++-Anwendungen, ohne dass eine Anwendung eines Drittanbieters erforderlich ist" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/)-Dateiformat-Automatisierungsbibliotheken ermöglichen es C++-Entwicklern, XPS in zwei einfachen Schritten in FLATOPC zu konvertieren. Erstens können Sie die API [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) verwenden, um das XPS-Dateiformat in DOC zu konvertieren. Zweitens können Sie durch Verwendung der erweiterten Word-Dokumentverarbeitungs-API [Aspose.Words für C++](https://products.aspose.com/words/cpp/) DOC nach FLATOPC exportieren. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/)-Dateiformat-Automatisierungsbibliotheken ermöglichen es C++-Entwicklern, XPS in zwei einfachen Schritten in FLATOPC zu konvertieren. Erstens können Sie die API [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) verwenden, um das XPS-Dateiformat in DOC zu konvertieren. Zweitens können Sie durch Verwendung der erweiterten Word-Dokumentverarbeitungs-API [Aspose.Words for C++](https://products.aspose.com/words/cpp/) DOC nach FLATOPC exportieren. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

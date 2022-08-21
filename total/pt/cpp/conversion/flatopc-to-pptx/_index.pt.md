@@ -19,7 +19,7 @@ otherformats: PPTM PPS PPT PPSM ODP POWERPOINT PPSX POT POTX POTM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversão de FLATOPC para PPTX em C++" %}}
 1. Abra o arquivo FLATOPC usando a referência de classe [Flatopcument](https://reference.aspose.com/words/cpp/class/aspose.words.flatopcument)
-2. Converta FLATOPC para HTML usando a função de membro [Salvar](https://reference.aspose.com/words/cpp/class/aspose.words.flatopcument#save_stdbasicostream_saveoptions)
+2. Converta FLATOPC para HTML usando a função de membro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.flatopcument#save_stdbasicostream_saveoptions)
 3. Inicialize um novo objeto [Apresentação](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. Adicione uma AutoForma em seu slide e adicione AddTextFrame nele
 5. Carregue o conteúdo HTML e escreva-o em seu arquivo de apresentação

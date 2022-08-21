@@ -13,13 +13,13 @@ otherformats: PPS POWERPOINT PPTX PPSX POT POTX PPT PPSM PPTM POTM CSV DIF FODS 
 {{< blocks/products/pf/feature-page-header h1="Konvertieren Sie DOCM in ODP in Android-Apps" h2="Umwandlung von DOCM in ODP in Ihren Android-Anwendungen ohne Installation von Microsoft Word<sup>&reg;</sup> oder PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Sind Sie ein Android-Entwickler und möchten Ihrer Anwendung eine Dokumentkonvertierungsfunktion hinzufügen? [Aspose.Total für Android über Java](https://products.aspose.com/total/android-java/) Dateiformatautomatisierungsbibliotheken können Ihnen helfen, den Dokumentenkonvertierungsprozess in Ihren Android-Anwendungen zu automatisieren. Um die DOCM-Datei in ODP zu konvertieren, können Sie zuerst die Dokumentbearbeitungs-API [Aspose.Words für Android Java](https://products.aspose.com/words/android-java/) verwenden, um das DOCM-Dateiformat in HTML zu konvertieren. Danach können Sie mithilfe der PowerPoint-API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) eine neue Präsentation erstellen, HTML-Inhalte darin schreiben und sie speichern als ODP. 
+Sind Sie ein Android-Entwickler und möchten Ihrer Anwendung eine Dokumentkonvertierungsfunktion hinzufügen? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Dateiformatautomatisierungsbibliotheken können Ihnen helfen, den Dokumentenkonvertierungsprozess in Ihren Android-Anwendungen zu automatisieren. Um die DOCM-Datei in ODP zu konvertieren, können Sie zuerst die Dokumentbearbeitungs-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) verwenden, um das DOCM-Dateiformat in HTML zu konvertieren. Danach können Sie mithilfe der PowerPoint-API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) eine neue Präsentation erstellen, HTML-Inhalte darin schreiben und sie speichern als ODP. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="So konvertieren Sie DOCM in ODP in Android" %}}
-1. Öffnen Sie die DOCM-Datei mit der Klasse [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument).
-2. Konvertieren Sie die DOCM-Datei in HTML, indem Sie [save](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions )) Methode
+1. Öffnen Sie die DOCM-Datei mit der Klasse [Document](https://reference.aspose.com/words/java/com.aspose.words/Document).
+2. Konvertieren Sie die DOCM-Datei in HTML, indem Sie [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions )) Methode
 3. Initialisieren Sie ein neues [Präsentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)-Objekt
 5. Extrahieren Sie mit BufferedReader Inhalt aus der HTML-Datei und schreiben Sie den Inhalt in Ihre Präsentationsdatei
 6. Speichern Sie das Dokument mit der Methode [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) im ODP
@@ -39,7 +39,7 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://downloads.aspose.c
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Konvertieren Sie geschütztes DOCM in ODP in Android über Java" %}}
-Sie können Ihr passwortgeschütztes DOCM auch in Ihren Android-Anwendungen in ODP konvertieren. Wenn Ihr eingegebenes DOCM-Dokument kennwortgeschützt ist, können Sie es ohne Verwendung des Kennworts nicht in das ODP-Format konvertieren. Um ein verschlüsseltes Dokument zu öffnen, können Sie das richtige Passwort im LoadOptions-Objekt setzen und es an den Docmument-Konstruktor übergeben.
+Sie können Ihr passwortgeschütztes DOCM auch in Ihren Android-Anwendungen in ODP konvertieren. Wenn Ihr eingegebenes DOCM-Dokument kennwortgeschützt ist, können Sie es ohne Verwendung des Kennworts nicht in das ODP-Format konvertieren. Um ein verschlüsseltes Dokument zu öffnen, können Sie das richtige Passwort im LoadOptions-Objekt setzen und es an den Document-Konstruktor übergeben.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}

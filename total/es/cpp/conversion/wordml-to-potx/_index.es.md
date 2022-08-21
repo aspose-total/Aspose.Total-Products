@@ -13,7 +13,7 @@ otherformats: POT PPT PPS PPTX ODP PPTM POWERPOINT PPSX PPSM POTM
 {{< blocks/products/pf/feature-page-header h1="API de C++ para convertir WORDML a POTX" h2="Exporte WORDML a POTX dentro de sus aplicaciones C++ sin usar Microsoft Word&reg; o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total para C++](https://products.aspose.com/total/cpp/) consta de potentes API de automatización de archivos que permiten automatizar la conversión de WORDML a POTX al usar dos de sus API. Cargue su WORDML usando [Aspose.Words for C++](https://products.aspose.com/words/cpp/) y conviértalo a HTML, luego cargue el HTML mediante la manipulación de PowerPoint C++ API [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) para crear una nueva presentación y guardarla como POTX. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) consta de potentes API de automatización de archivos que permiten automatizar la conversión de WORDML a POTX al usar dos de sus API. Cargue su WORDML usando [Aspose.Words for C++](https://products.aspose.com/words/cpp/) y conviértalo a HTML, luego cargue el HTML mediante la manipulación de PowerPoint C++ API [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) para crear una nueva presentación y guardarla como POTX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

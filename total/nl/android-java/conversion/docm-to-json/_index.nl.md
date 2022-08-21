@@ -13,19 +13,19 @@ otherformats: XLT XLTM FODS SXC XLAM XLS EXCEL ODS XLSM DIF XLSB XLTX TSV CSV
 {{< blocks/products/pf/feature-page-header h1="Converteer DOCM naar JSON-formaat in Android via Java" h2="Ontwerp Android-applicaties om DOCM naar JSON te exporteren zonder Microsoft<sup>&reg;</sup> Word of Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-U kunt DOCM naar JSON-indeling converteren in uw Android-applicaties via [Aspose.Total voor Android via Java](https://products.aspose.com/total/android-java/). Door docmumentmanipulatie en conversie-API [Aspose.Words voor Android via Java](https://products.aspose.com/words/android-java/) te gebruiken, kunt u DOCM naar HTML exporteren. Daarna kunt u met [Aspose.Cells voor Android via Java](https://products.aspose.com/cells/android-java/) HTML naar JSON converteren. 
+U kunt DOCM naar JSON-indeling converteren in uw Android-applicaties via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Door docmumentmanipulatie en conversie-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) te gebruiken, kunt u DOCM naar HTML exporteren. Daarna kunt u met [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) HTML naar JSON converteren. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converteer DOCM naar JSON-formaat in Android" %}}
-1. Open het DOCM-bestand met de klasse [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument)
-2. Converteer DOCM naar HTML met behulp van [Save](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions) ) methode:
+1. Open het DOCM-bestand met de klasse [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Converteer DOCM naar HTML met behulp van [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) methode:
 3. Laad HTML-docmument met behulp van [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) klasse
 4. Sla het docmument op in JSON-indeling met [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) methode
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
-U kunt Aspose.Total voor Android eenvoudig via Java rechtstreeks vanuit [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) en installeer bibliotheken in uw app.
+U kunt Aspose.Total for Android eenvoudig via Java rechtstreeks vanuit [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) en installeer bibliotheken in uw app.
 
 U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

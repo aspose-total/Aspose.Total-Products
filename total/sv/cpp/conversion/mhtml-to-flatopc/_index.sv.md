@@ -13,7 +13,7 @@ otherformats: ODT XAMLFLOW MARKDOWN DOT DOTX RTF WORDML PCL OTT DOTM DOCM PS
 {{< blocks/products/pf/feature-page-header h1="C++ API för att exportera MHTML till FLATOPC" h2="Återge MHTML till FLATOPC inom C++-applikationer utan att kräva någon tredjepartsapplikation" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total för C++](https://products.aspose.com/total/cpp/) filformatsautomatiseringsbibliotek tillåter C++-utvecklare att konvertera MHTML till FLATOPC i två enkla steg. För det första kan du använda [Aspose.PDF för C++](https://products.aspose.com/pdf/cpp/) API för att konvertera MHTML-filformat till DOC. För det andra, genom att använda avancerad Word Document Processing API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), kan du exportera DOC till FLATOPC. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) filformatsautomatiseringsbibliotek tillåter C++-utvecklare att konvertera MHTML till FLATOPC i två enkla steg. För det första kan du använda [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) API för att konvertera MHTML-filformat till DOC. För det andra, genom att använda avancerad Word Document Processing API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), kan du exportera DOC till FLATOPC. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -46,7 +46,7 @@ wordDoc->Save(u"output.FlatOpc");
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ändra lösenord för MHTML-dokument via C++" %}}
-I processen att rendera MHTML till FLATOPC kan du öppna en lösenordsskyddad MHTML och även ändra dess lösenord. För att ändra lösenordet för en MHTML-fil måste du känna till ägarlösenordet för det dokumentet. Du kan ladda lösenordsskyddade PDF-dokument med [Aspose.PDF för C++](https://products.aspose.com/pdf/cpp/) genom att ange dess ägarlösenord och använda ChangePasswords-metoden för att ändra lösenordet.
+I processen att rendera MHTML till FLATOPC kan du öppna en lösenordsskyddad MHTML och även ändra dess lösenord. För att ändra lösenordet för en MHTML-fil måste du känna till ägarlösenordet för det dokumentet. Du kan ladda lösenordsskyddade PDF-dokument med [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) genom att ange dess ägarlösenord och använda ChangePasswords-metoden för att ändra lösenordet.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp

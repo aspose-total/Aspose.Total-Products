@@ -13,7 +13,7 @@ otherformats: WORD DOC DOCX PPTX
 {{< blocks/products/pf/feature-page-header h1="Render EXCEL naar POWERPOINT op Android via Java" h2="Transformeer EXCEL naar POWERPOINT binnen uw Android-applicaties zonder Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total voor Android via Java](https://products.aspose.com/total/android-java/) is een pakket krachtige API's voor bestandsautomatisering. Door twee van zijn API's te gebruiken, kunt u de conversiefunctie van EXCEL naar POWERPOINT in uw Android-applicaties integreren. In de eerste stap kunt u EXCEL naar PDF exporteren met [Aspose.Cells voor Android via Java](https://products.aspose.com/cells/android-java/). Daarna kunt u met [Aspose.PDF voor Android via Java](https://products.aspose.com/pdf/android-java/) PDF naar POWERPOINT converteren. 
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) is een pakket krachtige API's voor bestandsautomatisering. Door twee van zijn API's te gebruiken, kunt u de conversiefunctie van EXCEL naar POWERPOINT in uw Android-applicaties integreren. In de eerste stap kunt u EXCEL naar PDF exporteren met [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Daarna kunt u met [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) PDF naar POWERPOINT converteren. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ otherformats: WORD DOC DOCX PPTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
-U kunt Aspose.Total voor Android eenvoudig via Java rechtstreeks vanuit [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) en installeer [Aspose.PDF voor Android via Java](https://powerpoints.aspose.com/pdf/androidjava/installation/) en [Aspose.Cells voor Android via Java](https://powerpoints.aspose.com/cells /java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via-java-from-maven-repository) in uw toepassingen.
+U kunt Aspose.Total for Android eenvoudig via Java rechtstreeks vanuit [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) en installeer [Aspose.PDF for Android via Java](https://powerpoints.aspose.com/pdf/androidjava/installation/) en [Aspose.Cells for Android via Java](https://powerpoints.aspose.com/cells /java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via-java-from-maven-repository) in uw toepassingen.
 
 U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -46,7 +46,7 @@ powerpointument.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Verwijder aangepaste eigenschappen uit EXCEL-bestand in Android via Java" %}}
-Naast powerpointumentconversie biedt [Aspose.Cells voor Android via Java](https://products.aspose.com/cells/android-java/) ook tal van andere functies. Vóór het conversieproces kunt u aangepaste eigenschappen van het EXCEL-powerpointument verwijderen. Om aangepaste eigenschappen te verwijderen, roept u de methode [PowerpointumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/powerpointumentpropertycollection#remove(java.lang.String)) aan en geeft u de naam van de powerpointumenteigenschap die moet worden verwijderd.
+Naast powerpointumentconversie biedt [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) ook tal van andere functies. Vóór het conversieproces kunt u aangepaste eigenschappen van het EXCEL-powerpointument verwijderen. Om aangepaste eigenschappen te verwijderen, roept u de methode [PowerpointumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/powerpointumentpropertycollection#remove(java.lang.String)) aan en geeft u de naam van de powerpointumenteigenschap die moet worden verwijderd.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java

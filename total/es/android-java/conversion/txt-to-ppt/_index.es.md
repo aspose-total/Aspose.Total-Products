@@ -13,7 +13,7 @@ otherformats: PPS POWERPOINT PPTM POTM PPTX PPSM ODP POTX PPSX POT CSV DIF FODS 
 {{< blocks/products/pf/feature-page-header h1="Convierta TXT a PPT en aplicaciones de Android" h2="Conversión de TXT a PPT en sus aplicaciones de Android sin instalar Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-¿Es usted un desarrollador de Android que busca agregar una función de conversión de txtumentos a su aplicación? [Aspose.Total para Android a través de Java](https://products.aspose.com/total/android-java/) Las bibliotecas de automatización de formato de archivo pueden ayudarlo a automatizar el proceso de conversión de txtumentos en sus aplicaciones de Android. Para convertir un archivo TXT a PPT, primero puede usar la API de manipulación de txtumentos [Aspose.Words para Android Java](https://products.aspose.com/words/android-java/) para convertir el formato de archivo TXT a HTML. Después de eso, al usar la API de PowerPoint [Aspose.Slides para Android Java](https://products.aspose.com/slides/android-java/), puede crear una nueva presentación, escribir contenido HTML en ella y guardarla como PAO. 
+¿Es usted un desarrollador de Android que busca agregar una función de conversión de txtumentos a su aplicación? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Las bibliotecas de automatización de formato de archivo pueden ayudarlo a automatizar el proceso de conversión de txtumentos en sus aplicaciones de Android. Para convertir un archivo TXT a PPT, primero puede usar la API de manipulación de txtumentos [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) para convertir el formato de archivo TXT a HTML. Después de eso, al usar la API de PowerPoint [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/), puede crear una nueva presentación, escribir contenido HTML en ella y guardarla como PAO. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -26,7 +26,7 @@ otherformats: PPS POWERPOINT PPTM POTM PPTX PPSM ODP POTX PPSX POT CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
-Para la conversión de archivos TXT a PPT, puede usar fácilmente Aspose.Total para Android a través de Java directamente desde [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e instale bibliotecas en su aplicación.
+Para la conversión de archivos TXT a PPT, puede usar fácilmente Aspose.Total for Android via Java directamente desde [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e instale bibliotecas en su aplicación.
 
 Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

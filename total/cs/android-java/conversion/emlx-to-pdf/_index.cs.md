@@ -13,7 +13,7 @@ otherformats: OTT DOCM TIFF GIF FLATOPC JPEG BMP PS DOCX ODT XPS DOC RTF WORDML 
 {{< blocks/products/pf/feature-page-header h1="Transformujte EMLX na PDF v Andorid Apps" h2="Návrh aplikací Andorid pro export EMLX do PDF pomocí Andorid přes Java API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Aplikace Andorid jsou snadno použitelné pro koncové uživatele na každodenní bázi. Počet uživatelů telefonů Andorid se každým dnem zvyšuje. Pomocí výkonných knihoven [Aspose.Total pro Android přes Java](https://products.aspose.com/total/android-java/) File Format Automation můžete vyvíjet aplikace pro manipulaci a konverzi e-mailů. E-mailovou adresu EMLX můžete převést na PDF kombinací [Aspose.Emlx pro Android Java](https://products.aspose.com/emlx/android-java/) a [Aspose.Words pro Andorid Java](https://products.aspose.com/words/android-java/). Pomocí prvního API můžete převést formát souboru EMLX do HTML a pomocí druhého API můžete vykreslit HTML jako PDF. 
+Aplikace Andorid jsou snadno použitelné pro koncové uživatele na každodenní bázi. Počet uživatelů telefonů Andorid se každým dnem zvyšuje. Pomocí výkonných knihoven [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) File Format Automation můžete vyvíjet aplikace pro manipulaci a konverzi e-mailů. E-mailovou adresu EMLX můžete převést na PDF kombinací [Aspose.Emlx pro Android Java](https://products.aspose.com/emlx/android-java/) a [Aspose.Words pro Andorid Java](https://products.aspose.com/words/android-java/). Pomocí prvního API můžete převést formát souboru EMLX do HTML a pomocí druhého API můžete vykreslit HTML jako PDF. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

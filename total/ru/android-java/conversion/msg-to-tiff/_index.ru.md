@@ -13,7 +13,7 @@ otherformats: SVG DOT OTT WORDML PDF GIF DOCM DOTX PCL BMP MD PS ODT XPS PNG DOC
 {{< blocks/products/pf/feature-page-header h1="Преобразование MSG в TIFF в приложениях Andorid" h2="Разработка приложений Andorid для экспорта MSG в TIFF с использованием Andorid через Java API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Приложения Andorid просты в ежедневном использовании конечными пользователями. День ото дня количество пользователей телефонов Andorid растет. Используя мощные библиотеки автоматизации форматов файлов [Aspose.Total для Android через Java](https://products.aspose.com/total/android-java/), вы можете разрабатывать приложения для обработки и преобразования электронной почты. Вы можете конвертировать MSG в TIFF с помощью комбинации [Aspose.Msg для Android Java](https://products.aspose.com/msg/android-java/) и [Aspose.Words для Andorid Java](https://products.aspose.com/words/android-java/). С помощью первого API вы можете конвертировать формат файла MSG в HTML, а с помощью второго API вы можете отображать HTML как TIFF. 
+Приложения Andorid просты в ежедневном использовании конечными пользователями. День ото дня количество пользователей телефонов Andorid растет. Используя мощные библиотеки автоматизации форматов файлов [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), вы можете разрабатывать приложения для обработки и преобразования электронной почты. Вы можете конвертировать MSG в TIFF с помощью комбинации [Aspose.Msg для Android Java](https://products.aspose.com/msg/android-java/) и [Aspose.Words для Andorid Java](https://products.aspose.com/words/android-java/). С помощью первого API вы можете конвертировать формат файла MSG в HTML, а с помощью второго API вы можете отображать HTML как TIFF. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ otherformats: SVG DOT OTT WORDML PDF GIF DOCM DOTX PCL BMP MD PS ODT XPS PNG DOC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
-Вы можете легко использовать Aspose.Total для Android через Java непосредственно из [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) и установите [Aspose.Msg для Android через Java](https://docs.aspose.com/msg/androidjava/installation/) и [Aspose.Words для Android через Java](https://docs.aspose.com/words/java/install-aspose-words-for-android-через-java/#install-asposewords-for-android-через-java-из-maven-репозитория) в ваших приложениях.
+Вы можете легко использовать Aspose.Total for Android via Java непосредственно из [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) и установите [Aspose.Msg для Android через Java](https://docs.aspose.com/msg/androidjava/installation/) и [Aspose.Words for Android via Java](https://docs.aspose.com/words/java/install-aspose-words-for-android-через-java/#install-asposewords-for-android-через-java-из-maven-репозитория) в ваших приложениях.
 
 Кроме того, вы можете получить ZIP-файл из [загрузки](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

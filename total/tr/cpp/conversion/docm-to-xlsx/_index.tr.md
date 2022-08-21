@@ -18,7 +18,7 @@ DOCM'den XLSX'ye dönüştürme özelliğini C++ uygulamalarınıza kolayca dahi
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="DOCM'yi XLSX'ye Dönüştürmek için C++ API" %}}
-1. [Belge](https://reference.aspose.com/words/cpp/class/aspose.words.docmument) sınıf referansını kullanarak DOCM dosyasını açın
+1. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument) sınıf referansını kullanarak DOCM dosyasını açın
 2. [Kaydet](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string_saveformat) üye işlevini kullanarak DOCM'u HTML'ye dönüştürün
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) sınıf referansını kullanarak HTML belgesini yükleyin
 4. [Kaydet](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) üye işlevini kullanarak belgeyi XLSX biçiminde kaydedin
@@ -38,7 +38,7 @@ Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [downloads](h
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="DOCM Belge Özelliklerine C++ ile Erişin" %}}
-[Aspose.Words for C++](https://products.aspose.com/words/cpp/) ayrıca DOCM dosyasının belge özelliklerine erişmenizi sağlar ve dönüştürme işleminden önce bilinçli bir karar vermenizi sağlar. Belge özelliklerine erişmek için yerleşik özellikleri ve [CustomDocmumentProperties]( elde etmek için [BuiltInDocmumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_docmument_properties) kullanabilirsiniz. özel özellikler elde etmek için. Aşağıdaki kod örneği, bir belgedeki tüm yerleşik ve özel özelliklerin nasıl numaralandırılacağını gösterir.
+[Aspose.Words for C++](https://products.aspose.com/words/cpp/) ayrıca DOCM dosyasının belge özelliklerine erişmenizi sağlar ve dönüştürme işleminden önce bilinçli bir karar vermenizi sağlar. Belge özelliklerine erişmek için yerleşik özellikleri ve [CustomDocumentProperties]( elde etmek için [BuiltInDocumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_docmument_properties) kullanabilirsiniz. özel özellikler elde etmek için. Aşağıdaki kod örneği, bir belgedeki tüm yerleşik ve özel özelliklerin nasıl numaralandırılacağını gösterir.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-docmument-properties.cs" >}}

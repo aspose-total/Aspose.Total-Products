@@ -13,7 +13,7 @@ otherformats: EMF PS GIF DOT PCL MD OTT BMP WORDML RTF DOTX XPS ODT PNG DOCM DOT
 {{< blocks/products/pf/feature-page-header h1="API C++ pour exporter EMAIL vers DOCX" h2="Transformez EMAIL en DOCX dans une application C++ sans nécessiter Microsoft Word ou Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Êtes-vous un développeur C++ cherchant à ajouter des fonctionnalités de conversion d'e-mails dans vos applications ? En utilisant [Aspose.Email pour C++](https://products.aspose.com/email/cpp/), vous pouvez convertir le format de fichier EMAIL en HTML. Après cela, en utilisant l'API [Aspose.Words pour C++](https://products.aspose.com/words/cpp/), vous pouvez exporter du HTML vers DOCX. Les deux API relèvent du package [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
+Êtes-vous un développeur C++ cherchant à ajouter des fonctionnalités de conversion d'e-mails dans vos applications ? En utilisant [Aspose.Email for C++](https://products.aspose.com/email/cpp/), vous pouvez convertir le format de fichier EMAIL en HTML. Après cela, en utilisant l'API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), vous pouvez exporter du HTML vers DOCX. Les deux API relèvent du package [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -46,7 +46,7 @@ doc->Save(u"convertedFile.Docx");
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analyser le fichier EMAIL via C++" %}}
-Non seulement vous pouvez convertir votre EMAIL en DOCX, mais vous pouvez également lire, manipuler et analyser le document EMAIL. Vous pouvez obtenir des informations sur le sujet, l'adresse, le corps et les destinataires de l'e-mail en utilisant la classe MapiMessage de l'API [Aspose.Email pour C++](https://products.aspose.com/email/cpp/). Par exemple, vous pouvez rechercher un e-mail d'expéditeur spécifique pour la conversion en utilisant la propriété get_SenderEmailAddress().
+Non seulement vous pouvez convertir votre EMAIL en DOCX, mais vous pouvez également lire, manipuler et analyser le document EMAIL. Vous pouvez obtenir des informations sur le sujet, l'adresse, le corps et les destinataires de l'e-mail en utilisant la classe MapiMessage de l'API [Aspose.Email for C++](https://products.aspose.com/email/cpp/). Par exemple, vous pouvez rechercher un e-mail d'expéditeur spécifique pour la conversion en utilisant la propriété get_SenderEmailAddress().
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp

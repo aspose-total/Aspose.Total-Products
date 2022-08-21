@@ -13,15 +13,15 @@ otherformats: SXC XLS FODS MHTML MARKDOWN CSV XLSM XLT EXCEL DIF ODS XLAM XLSX T
 {{< blocks/products/pf/feature-page-header h1="Převeďte POWERPOINT do XLTM přes C++" h2="Konverze souborů POWERPOINT do XLTM přes C++ bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Pomocí [Aspose.Total for C++](https://products.aspose.com/total/cpp/) můžete převést soubor POWERPOINT na XLTM v aplikacích C++ ve dvou jednoduchých krocích. Za prvé, pomocí [Aspose.Slides pro C++](https://products.aspose.com/slides/cpp/) můžete exportovat POWERPOINT do HTML. Powerpointé můžete pomocí rozhraní [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API převést HTML na XLTM. 
+Pomocí [Aspose.Total for C++](https://products.aspose.com/total/cpp/) můžete převést soubor POWERPOINT na XLTM v aplikacích C++ ve dvou jednoduchých krocích. Za prvé, pomocí [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) můžete exportovat POWERPOINT do HTML. Powerpointé můžete pomocí rozhraní [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API převést HTML na XLTM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak převést POWERPOINT do XLTM přes C++" %}}
 1. Otevřete soubor POWERPOINT pomocí odkazu třídy [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
-2. Převeďte POWERPOINT do HTML pomocí metody [Uložit](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba)
+2. Převeďte POWERPOINT do HTML pomocí metody [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba)
 3. Načtěte dokument HTML pomocí odkazu třídy [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
-4. Uložte dokument do formátu XLTM pomocí metody [Uložit](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
+4. Uložte dokument do formátu XLTM pomocí metody [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}

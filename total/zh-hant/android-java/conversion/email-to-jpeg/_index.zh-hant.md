@@ -13,7 +13,7 @@ otherformats: DOT DOCM DOCX RTF ODT WORDML TIFF DOTM PNG EMF SVG GIF BMP XPS OTT
 {{< blocks/products/pf/feature-page-header h1="在 Andorid 應用程序中將 EMAIL 轉換為 JPEG" h2="設計 Andorid 應用程序以通過 Java API 使用 Andorid 將 EMAIL 導出到 JPEG" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Andorid 應用程序易於終端用戶日常使用。 Andorid 手機用戶的數量每天都在增加。使用強大的 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) 文件格式自動化庫，您可以開發電子郵件處理和轉換應用程序。您可以通過 [Aspose.Email for Android Java](https://products.aspose.com/email/android-java/) 和 [Aspose.Words for Andorid Java](https://products.aspose.com/words/android-java/)。使用第一個 API，您可以將 EMAIL 文件格式轉換為 HTML，通過使用第二個 API，您可以將 HTML 呈現為 JPEG。 
+Andorid 應用程序易於終端用戶日常使用。 Andorid 手機用戶的數量每天都在增加。使用強大的 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) 文件格式自動化庫，您可以開發電子郵件處理和轉換應用程序。您可以通過 [Aspose.Email for Android via Java](https://products.aspose.com/email/android-java/) 和 [Aspose.Words for Andorid Java](https://products.aspose.com/words/android-java/)。使用第一個 API，您可以將 EMAIL 文件格式轉換為 HTML，通過使用第二個 API，您可以將 HTML 呈現為 JPEG。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

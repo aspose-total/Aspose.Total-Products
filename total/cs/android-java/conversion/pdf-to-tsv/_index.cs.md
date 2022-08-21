@@ -13,7 +13,7 @@ otherformats: ODS EXCEL XLTX TXT SXC FODS MD XLAM XLSB DIF XLTM XLSM
 {{< blocks/products/pf/feature-page-header h1="Vykreslit PDF do TSV v Androidu přes Java" h2="Transformujte PDF na TSV v rámci aplikací pro Android, aniž byste potřebovali Microsoft<sup>&reg;</sup> Excel nebo Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Funkci převodu PDF na TSV můžete integrovat do svých aplikací pro Android ve dvou krocích. Za prvé, pomocí [Aspose.PDF pro Android přes Javu](https://products.aspose.com/pdf/android-java/) můžete převést PDF na XLSX. Za druhé, můžete převést XLSX na TSV pomocí Powerful Spreadsheet Processing API [Aspose.Cells pro Android přes Java](https://products.aspose.com/cells/android-java/). Obě rozhraní API spadají do rodiny produktů [Aspose.Total pro Android přes Java](https://products.aspose.com/total/android-java/). 
+Funkci převodu PDF na TSV můžete integrovat do svých aplikací pro Android ve dvou krocích. Za prvé, pomocí [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) můžete převést PDF na XLSX. Za druhé, můžete převést XLSX na TSV pomocí Powerful Spreadsheet Processing API [Aspose.Cells pro Android přes Java](https://products.aspose.com/cells/android-java/). Obě rozhraní API spadají do rodiny produktů [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Funkci převodu PDF na TSV můžete integrovat do svých aplikací pro Android v
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na konverzi" %}}
-Aspose.Total pro Android můžete snadno používat přes Javu přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a nainstalovat [Aspose.PDF pro Android přes Javu](https://docs.aspose.com/pdf/androidjava/installation/) a [Aspose.Cells pro Android přes Javu](https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/) ve vašich aplikacích.
+Aspose.Total pro Android můžete snadno používat přes Javu přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a nainstalovat [Aspose.PDF for Android via Java](https://docs.aspose.com/pdf/androidjava/installation/) a [Aspose.Cells for Android via Java](https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/) ve vašich aplikacích.
 
 Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -38,7 +38,7 @@ Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.c
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Získejte metadata XMP souboru PDF v systému Android přes Java" %}}
-[Aspose.PDF pro Android přes Javu](https://products.aspose.com/pdf/android-java/) umožňuje přístup k metadatům XMP souboru PDF. Chcete-li získat metadata, vytvořte objekt [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) a otevřete vstupní soubor PDF a použijte [getMetadata()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) pro získání metadat.
+[Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) umožňuje přístup k metadatům XMP souboru PDF. Chcete-li získat metadata, vytvořte objekt [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) a otevřete vstupní soubor PDF a použijte [getMetadata()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) pro získání metadat.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}

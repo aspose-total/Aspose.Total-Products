@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOC POWERPOINT PPTX DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή SXC σε WORD μέσω C++" h2="Εξαγωγή Excel&reg; SXC σε WORD σε πλήρως λειτουργικές εφαρμογές C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή SXC σε WORD μέσω C++" h2="Εξαγωγή Excel<sup>&reg;</sup> SXC σε WORD σε πλήρως λειτουργικές εφαρμογές C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Μετατροπή SXC σε WORD σε C++" %}}

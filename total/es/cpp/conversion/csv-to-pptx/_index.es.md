@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: WORD DOCX DOC POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta CSV a PPTX a través de C++" h2="Exportar Excel&reg; CSV a PPTX dentro de aplicaciones C++ completamente funcionales" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta CSV a PPTX a través de C++" h2="Exportar Excel<sup>&reg;</sup> CSV a PPTX dentro de aplicaciones C++ completamente funcionales" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversión de CSV a PPTX en C++" %}}

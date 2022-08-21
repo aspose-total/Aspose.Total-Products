@@ -10,24 +10,24 @@ outformat: XLSX
 otherformats: XLSM TSV EXCEL ODS XLT SXC XLTX XLTM FODS XLS XLSB MHTML XLAM CSV DIF MARKDOWN DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi PPSM sang XLSX trong Android qua Java" h2="Xuất tệp PPSM sang XLSX trong các ứng dụng Android mà không cần sử dụng Microsoft <sup> <sup>&reg;</sup>; </sup> Excel hoặc PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi PPSM sang XLSX trong Android qua Java" h2="Xuất tệp PPSM sang XLSX trong các ứng dụng Android mà không cần sử dụng Microsoft <sup>&reg;</sup> Excel hoặc PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Bạn có thể dễ dàng chuyển đổi tệp PPSM sang XLSX trong các ứng dụng Android của mình theo quy trình hai bước thông qua [Aspose.Total cho Android qua Java](https://products.aspose.com/total/android-java/). Trong bước đầu tiên, bạn có thể xuất tệp PPSM sang HTML bằng cách sử dụng [Aspose.Slides dành cho Android qua Java](https://products.aspose.com/slides/android-java/). Thứ hai, bằng cách sử dụng [Aspose.Cells dành cho Android qua Java](https://products.aspose.com/cells/android-java/), bạn có thể chuyển đổi HTML sang XLSX. 
+Bạn có thể dễ dàng chuyển đổi tệp PPSM sang XLSX trong các ứng dụng Android của mình theo quy trình hai bước thông qua [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Trong bước đầu tiên, bạn có thể xuất tệp PPSM sang HTML bằng cách sử dụng [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). Thứ hai, bằng cách sử dụng [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), bạn có thể chuyển đổi HTML sang XLSX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cách chuyển đổi PPSM sang XLSX trong Android" %}}
-1. Mở tệp PPSM bằng lớp [Trình bày](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+1. Mở tệp PPSM bằng lớp [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Chuyển đổi PPSM sang HTML bằng cách sử dụng [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)ương thứcISaveOptions-)
 3. Tải tài liệu HTML bằng cách sử dụng lớp [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Lưu tài liệu sang định dạng XLSX bằng cách sử dụng [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
-Để chuyển đổi PPSM sang XLSX, bạn có thể dễ dàng sử dụng Aspose.Total cho Android qua Java trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và cài đặt các thư viện trong ứng dụng của bạn.
+Để chuyển đổi PPSM sang XLSX, bạn có thể dễ dàng sử dụng Aspose.Total for Android via Java trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và cài đặt các thư viện trong ứng dụng của bạn.
 
-Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://downloads.aspose.com/total/androidjava).
+Ngoài ra, bạn có thể tải tệp ZIP từ [download](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

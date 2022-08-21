@@ -18,7 +18,7 @@ otherformats: MARKDOWN DOTM FLATOPC DOTX ODT RTF XAMLFLOW MHTML DOCM OTT DOT PS
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="PCL'yi WORDML'ye Oluşturmak için C++ API'si" %}}
-1. [Belge](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) sınıf referansını kullanarak PCL dosyasını açın
+1. [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) sınıf referansını kullanarak PCL dosyasını açın
 2. [Kaydet](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#adb8061c585440fde49c1263e68837f01) üye işlevini kullanarak PCL'yi DOC'ye dönüştürün
 3. Aspose.Words API'sinin [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) sınıf referansını kullanarak DOC dosyasını yükleyin
 4. [Kaydet](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stream_saveformat) üye işlevini kullanarak belgeyi WORDML biçiminde kaydedin

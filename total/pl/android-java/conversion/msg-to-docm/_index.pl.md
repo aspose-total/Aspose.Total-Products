@@ -13,7 +13,7 @@ otherformats: EPUB ODT DOT EMF DOTM PNG JPEG RTF TIFF DOCX BMP PDF DOC OTT DOTX 
 {{< blocks/products/pf/feature-page-header h1="Przekształć MSG w DOCM w aplikacjach na Androida" h2="Projektowanie aplikacji Andorid do eksportu MSG do DOCM za pomocą Andorid za pośrednictwem Java API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Aplikacje Andorid są łatwe w użyciu dla użytkowników końcowych na co dzień. Z dnia na dzień rośnie liczba użytkowników telefonów z systemem Android. Korzystając z potężnych bibliotek [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) File Format Automation, możesz tworzyć aplikacje do manipulacji i konwersji poczty e-mail. Możesz przekonwertować MSG na DOCM, łącząc [Aspose.Msg dla Androida Java](https://products.aspose.com/msg/android-java/) i [Aspose.Words dla Androida Java](https://products.aspose.com/words/android-java/). Używając pierwszego API, możesz przekonwertować format pliku MSG na HTML, a używając drugiego API, możesz renderować HTML jako DOCM. 
+Aplikacje Andorid są łatwe w użyciu dla użytkowników końcowych na co dzień. Z dnia na dzień rośnie liczba użytkowników telefonów z systemem Android. Korzystając z potężnych bibliotek [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) File Format Automation, możesz tworzyć aplikacje do manipulacji i konwersji poczty e-mail. Możesz przekonwertować MSG na DOCM, łącząc [Aspose.Msg dla Androida Java](https://products.aspose.com/msg/android-java/) i [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Używając pierwszego API, możesz przekonwertować format pliku MSG na HTML, a używając drugiego API, możesz renderować HTML jako DOCM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Aplikacje Andorid są łatwe w użyciu dla użytkowników końcowych na co dzie�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
-Możesz łatwo używać Aspose.Total dla Androida przez Javę bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i zainstaluj [Aspose.Msg na Androida przez Javę](https://docs.aspose.com/msg/androidjava/installation/) i [Aspose.Words dla Andorida przez Javę](https://docs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) w swoich aplikacjach.
+Możesz łatwo używać Aspose.Total for Android via Java bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i zainstaluj [Aspose.Msg na Androida przez Javę](https://docs.aspose.com/msg/androidjava/installation/) i [Aspose.Words dla Andorida przez Javę](https://docs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) w swoich aplikacjach.
 
 Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

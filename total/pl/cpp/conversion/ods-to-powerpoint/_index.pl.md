@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOCX PPTX WORD DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj ODS na POWERPOINT za pomocą C++" h2="Eksportuj Excel&reg; ODS do POWERPOINT w ramach w pełni funkcjonalnych aplikacji C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj ODS na POWERPOINT za pomocą C++" h2="Eksportuj Excel<sup>&reg;</sup> ODS do POWERPOINT w ramach w pełni funkcjonalnych aplikacji C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konwersja ODS do POWERPOINT w C++" %}}

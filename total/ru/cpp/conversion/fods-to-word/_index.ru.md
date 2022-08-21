@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: POWERPOINT DOC PPTX DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Конвертировать FODS в WORD через C++" h2="Экспорт Excel&reg; FODS в WORD в полнофункциональных приложениях C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Конвертировать FODS в WORD через C++" h2="Экспорт Excel<sup>&reg;</sup> FODS в WORD в полнофункциональных приложениях C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование FODS в WORD на C++" %}}

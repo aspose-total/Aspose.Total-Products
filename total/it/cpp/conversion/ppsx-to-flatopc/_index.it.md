@@ -19,9 +19,9 @@ otherformats: DOT DOCX WORDML DOCM TEXT OTT ODT RTF DOTX DOC DOTM WORD
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API C++ per convertire PPSX in FLATOPC" %}}
 1. Caricare il file PPSX utilizzando [Presentazione](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) riferimento alla classe
-2. Eseguire il rendering di PPSX in HTML utilizzando la funzione membro [Salva](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) e impostare Html come SaveFormat
+2. Eseguire il rendering di PPSX in HTML utilizzando la funzione membro [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) e impostare Html come SaveFormat
 3. Caricare il file HTML convertito utilizzando il riferimento alla classe [Flatopcument](https://reference.aspose.com/words/cpp/class/aspose.words.flatopcument)
-4. Salvare il flatopcumento in formato FLATOPC utilizzando [Salva](https://reference.aspose.com/words/cpp/class/aspose.words.flatopcument#save_string) funzione membro
+4. Salvare il flatopcumento in formato FLATOPC utilizzando [Save](https://reference.aspose.com/words/cpp/class/aspose.words.flatopcument#save_string) funzione membro
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}

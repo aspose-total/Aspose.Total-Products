@@ -13,7 +13,7 @@ otherformats: PPSM POWERPOINT POT PPS PPTX PPSX PPT POTM ODP PPTM CSV DIF FODS O
 {{< blocks/products/pf/feature-page-header h1="Convierta WORDML a POTX en aplicaciones de Android" h2="Conversión de WORDML a POTX en sus aplicaciones de Android sin instalar Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-¿Es usted un desarrollador de Android que busca agregar una función de conversión de wordmlumentos a su aplicación? [Aspose.Total para Android a través de Java](https://products.aspose.com/total/android-java/) Las bibliotecas de automatización de formato de archivo pueden ayudarlo a automatizar el proceso de conversión de wordmlumentos en sus aplicaciones de Android. Para convertir un archivo WORDML a POTX, primero puede usar la API de manipulación de wordmlumentos [Aspose.Words para Android Java](https://products.aspose.com/words/android-java/) para convertir el formato de archivo WORDML a HTML. Después de eso, al usar la API de PowerPoint [Aspose.Slides para Android Java](https://products.aspose.com/slides/android-java/), puede crear una nueva presentación, escribir contenido HTML en ella y guardarla como PAO. 
+¿Es usted un desarrollador de Android que busca agregar una función de conversión de wordmlumentos a su aplicación? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Las bibliotecas de automatización de formato de archivo pueden ayudarlo a automatizar el proceso de conversión de wordmlumentos en sus aplicaciones de Android. Para convertir un archivo WORDML a POTX, primero puede usar la API de manipulación de wordmlumentos [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) para convertir el formato de archivo WORDML a HTML. Después de eso, al usar la API de PowerPoint [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/), puede crear una nueva presentación, escribir contenido HTML en ella y guardarla como PAO. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -26,7 +26,7 @@ otherformats: PPSM POWERPOINT POT PPS PPTX PPSX PPT POTM ODP PPTM CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
-Para la conversión de archivos WORDML a POTX, puede usar fácilmente Aspose.Total para Android a través de Java directamente desde [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e instale bibliotecas en su aplicación.
+Para la conversión de archivos WORDML a POTX, puede usar fácilmente Aspose.Total for Android via Java directamente desde [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e instale bibliotecas en su aplicación.
 
 Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

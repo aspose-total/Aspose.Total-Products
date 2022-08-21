@@ -13,20 +13,20 @@ otherformats: PPS POWERPOINT PPTX PPSX POT POTX PPT PPSM PPTM POTM CSV DIF FODS 
 {{< blocks/products/pf/feature-page-header h1="แปลง DOCM เป็น ODP ในแอพ Android" h2="การแปลง DOCM เป็น ODP ในแอปพลิเคชัน Android ของคุณโดยไม่ต้องติดตั้ง Microsoft Word<sup>&reg;</sup> หรือ PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-คุณเป็นนักพัฒนา Android ที่ต้องการเพิ่มคุณสมบัติการแปลงเอกสารในแอปพลิเคชันของคุณหรือไม่? [Aspose.Total สำหรับ Android ผ่าน Java](https://products.aspose.com/total/android-java/) ไลบรารีระบบอัตโนมัติของรูปแบบไฟล์ช่วยให้คุณทำกระบวนการแปลงเอกสารในแอปพลิเคชัน Android ได้โดยอัตโนมัติ ในการแปลงไฟล์ DOCM เป็น ODP ขั้นแรก คุณสามารถใช้ API การจัดการเอกสาร [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) เพื่อแปลงรูปแบบไฟล์ DOCM เป็น HTML ได้ หลังจากนั้นโดยใช้ PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) คุณสามารถสร้างงานนำเสนอใหม่ เขียนเนื้อหา HTML ในนั้น และบันทึกเป็น อปท. 
+คุณเป็นนักพัฒนา Android ที่ต้องการเพิ่มคุณสมบัติการแปลงเอกสารในแอปพลิเคชันของคุณหรือไม่? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) ไลบรารีระบบอัตโนมัติของรูปแบบไฟล์ช่วยให้คุณทำกระบวนการแปลงเอกสารในแอปพลิเคชัน Android ได้โดยอัตโนมัติ ในการแปลงไฟล์ DOCM เป็น ODP ขั้นแรก คุณสามารถใช้ API การจัดการเอกสาร [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) เพื่อแปลงรูปแบบไฟล์ DOCM เป็น HTML ได้ หลังจากนั้นโดยใช้ PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) คุณสามารถสร้างงานนำเสนอใหม่ เขียนเนื้อหา HTML ในนั้น และบันทึกเป็น อปท. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง DOCM เป็น ODP ใน Android" %}}
-1. เปิดไฟล์ DOCM โดยใช้คลาส [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument)
-2. แปลงไฟล์ DOCM เป็น HTML โดยใช้ [save](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions))) กระบวนการ
+1. เปิดไฟล์ DOCM โดยใช้คลาส [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. แปลงไฟล์ DOCM เป็น HTML โดยใช้ [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) กระบวนการ
 3. เริ่มต้นวัตถุ [การนำเสนอ](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) ใหม่
 5. แยกเนื้อหาจากไฟล์ HTML โดยใช้ BufferedReader และเขียนเนื้อหาลงในไฟล์นำเสนอของคุณ
 6. บันทึกเอกสารไปยัง ODP โดยใช้วิธี [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
-สำหรับการแปลงไฟล์ DOCM เป็น ODP คุณสามารถใช้ Aspose.Total สำหรับ Android ผ่าน Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และติดตั้งไลบรารีในแอปของคุณ
+สำหรับการแปลงไฟล์ DOCM เป็น ODP คุณสามารถใช้ Aspose.Total for Android via Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และติดตั้งไลบรารีในแอปของคุณ
 
 หรือคุณสามารถรับไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/total/androidjava)
 {{% /blocks/products/pf/agp/feature-section-col %}}

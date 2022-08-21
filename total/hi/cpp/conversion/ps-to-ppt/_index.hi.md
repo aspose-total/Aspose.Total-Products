@@ -18,7 +18,7 @@ otherformats: PPSM OTP ODP POTM PPSX SWF PPTM POTX POT PPS XAML POWERPOINT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="ओडीपी को सीजीएम निर्यात करने के लिए सी++ एपीआई" %}}
-1. [दस्तावेज़](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) वर्ग संदर्भ का उपयोग करके सीजीएम फ़ाइल खोलें
+1. [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) वर्ग संदर्भ का उपयोग करके सीजीएम फ़ाइल खोलें
 2. [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a0184df207563187be7df37b8dbe443f6) मेथड फंक्शन का उपयोग करके PS को PPTX में बदलें
 3. [प्रस्तुति](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) वर्ग संदर्भ का उपयोग करके PPTX दस्तावेज़ लोड करें
 4. [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) सदस्य फ़ंक्शन का उपयोग करके दस्तावेज़ को PPT प्रारूप में सहेजें और `Ppt` को SaveFormat के रूप में सेट करें
@@ -46,7 +46,7 @@ prs->Save(u"output.ppt", Aspose::Slides::Export::SaveFormat::Ppt);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="C++ के माध्यम से PS दस्तावेज़ का पासवर्ड बदलें" %}}
-PPT को PS प्रदान करने की प्रक्रिया में, आप पासवर्ड से सुरक्षित PS खोल सकते हैं और उसका पासवर्ड भी बदल सकते हैं। PS फ़ाइल का पासवर्ड बदलने के लिए, आपको उस दस्तावेज़ के स्वामी का पासवर्ड पता होना चाहिए। आप पासवर्ड से सुरक्षित PDF दस्तावेज़ को [सी++ के लिए Aspose.PDF](https://products.aspose.com/pdf/cpp/) के साथ लोड कर सकते हैं और पासवर्ड बदलने के लिए ChangePasswords पद्धति का उपयोग कर सकते हैं।
+PPT को PS प्रदान करने की प्रक्रिया में, आप पासवर्ड से सुरक्षित PS खोल सकते हैं और उसका पासवर्ड भी बदल सकते हैं। PS फ़ाइल का पासवर्ड बदलने के लिए, आपको उस दस्तावेज़ के स्वामी का पासवर्ड पता होना चाहिए। आप पासवर्ड से सुरक्षित PDF दस्तावेज़ को [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) के साथ लोड कर सकते हैं और पासवर्ड बदलने के लिए ChangePasswords पद्धति का उपयोग कर सकते हैं।
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp

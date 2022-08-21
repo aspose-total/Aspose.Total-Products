@@ -13,7 +13,7 @@ otherformats: XLSM XLTM XLSX EXCEL FODS XLAM TSV SXC CSV XLS ODS XLSB XLTX DIF
 {{< blocks/products/pf/feature-page-header h1="API C++ per convertire DOT in XLT" h2="Esporta DOT in XLT tramite C++ senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Puoi includere facilmente la funzione di conversione da DOT a XLT nelle tue applicazioni C++. Utilizzando l'API di conversione e manipolazione dei dotumenti ricca di funzionalità, potente e facile da usare [Aspose.Words per C++](https://products.aspose.com/words/cpp/), puoi esportare DOT in HTML. Successivamente, utilizzando [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), puoi convertire HTML in XLT. Entrambe le API rientrano nel pacchetto [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
+Puoi includere facilmente la funzione di conversione da DOT a XLT nelle tue applicazioni C++. Utilizzando l'API di conversione e manipolazione dei dotumenti ricca di funzionalità, potente e facile da usare [Aspose.Words for C++](https://products.aspose.com/words/cpp/), puoi esportare DOT in HTML. Successivamente, utilizzando [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), puoi convertire HTML in XLT. Entrambe le API rientrano nel pacchetto [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -21,7 +21,7 @@ Puoi includere facilmente la funzione di conversione da DOT a XLT nelle tue appl
 1. Aprire il file DOT utilizzando [Dotument](https://reference.aspose.com/words/cpp/class/aspose.words.dotument) riferimento alla classe
 2. Converti DOT in HTML utilizzando la funzione membro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotument#save_string_saveformat)
 3. Caricare il dotumento HTML utilizzando il riferimento alla classe [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
-4. Salvare il dotumento in formato XLT utilizzando la funzione membro [Salva](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
+4. Salvare il dotumento in formato XLT utilizzando la funzione membro [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
@@ -46,7 +46,7 @@ In alternativa, scarica il programma di installazione MSI offline o le DLL in un
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Salva file XLT in streaming tramite C++" %}}
-Dopo aver convertito DOT in XLT, [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) consente di salvare il dotumento per lo streaming. Per salvare i file in un flusso, creare un oggetto MemoryStream o FileStream e salvare il file in tale oggetto flusso chiamando [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) metodo [Salva](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) dell'oggetto. Specificare il formato file desiderato utilizzando l'enumerazione [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) quando si chiama [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349).
+Dopo aver convertito DOT in XLT, [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) consente di salvare il dotumento per lo streaming. Per salvare i file in un flusso, creare un oggetto MemoryStream o FileStream e salvare il file in tale oggetto flusso chiamando [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) metodo [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) dell'oggetto. Specificare il formato file desiderato utilizzando l'enumerazione [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) quando si chiama [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349).
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "save-excel-to-stream.cpp" >}}

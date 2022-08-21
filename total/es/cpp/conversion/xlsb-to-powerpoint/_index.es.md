@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPTX DOC WORD DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta XLSB a POWERPOINT a través de C++" h2="Exportar Excel&reg; XLSB a POWERPOINT dentro de aplicaciones C++ completamente funcionales" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta XLSB a POWERPOINT a través de C++" h2="Exportar Excel<sup>&reg;</sup> XLSB a POWERPOINT dentro de aplicaciones C++ completamente funcionales" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversión de XLSB a POWERPOINT en C++" %}}

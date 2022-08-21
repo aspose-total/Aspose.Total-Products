@@ -18,7 +18,7 @@ C++ uygulamalarınızda PS'den POWERPOINT'ye dönüştürme özelliğini entegre
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="PS'yi POWERPOINT'ye Dışa Aktarmak için C++ API" %}}
-1. [Belge](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) sınıf referansını kullanarak PS dosyasını açın
+1. [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) sınıf referansını kullanarak PS dosyasını açın
 2. [Kaydet](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a0184df207563187be7df37b8dbe443f6) yöntem işlevini kullanarak PS'yi PPTX'e dönüştürün
 3. [Sunum](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) sınıf referansını kullanarak PPTX belgesini yükleyin
 4. [Kaydet](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) üye işlevini kullanarak belgeyi POWERPOINT biçiminde kaydedin ve 'Powerpoint'yi SaveFormat olarak ayarlayın

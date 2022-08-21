@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: PPTX POWERPOINT DOC WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta ODS a DOCX a través de C++" h2="Exportar Excel&reg; ODS a DOCX dentro de aplicaciones C++ completamente funcionales" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta ODS a DOCX a través de C++" h2="Exportar Excel<sup>&reg;</sup> ODS a DOCX dentro de aplicaciones C++ completamente funcionales" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversión de ODS a DOCX en C++" %}}

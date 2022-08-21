@@ -13,12 +13,12 @@ otherformats: XLT XLTM FODS SXC XLAM XLS EXCEL ODS XLSM DIF XLSB XLTX TSV CSV
 {{< blocks/products/pf/feature-page-header h1="Μετατροπή DOCM σε μορφή JSON μέσω C++" h2="Εξαγωγή DOCM σε JSON μέσω C++ χωρίς χρήση Microsoft<sup>&reg;</sup> Word ή Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Χρησιμοποιώντας το [Aspose.Total for C++](https://products.aspose.com/total/cpp/) μπορείτε να μετατρέψετε το DOCM σε μορφή JSON στις εφαρμογές σας C++. Πρώτον, χρησιμοποιώντας το [Aspose.Words for C++](https://products.aspose.com/words/cpp/), μπορείτε να εξαγάγετε το DOCM σε HTML. Στη συνέχεια, χρησιμοποιώντας το [Aspose.Cells για C++](https://products.aspose.com/cells/cpp/), μπορείτε να μετατρέψετε HTML σε μορφή JSON. 
+Χρησιμοποιώντας το [Aspose.Total for C++](https://products.aspose.com/total/cpp/) μπορείτε να μετατρέψετε το DOCM σε μορφή JSON στις εφαρμογές σας C++. Πρώτον, χρησιμοποιώντας το [Aspose.Words for C++](https://products.aspose.com/words/cpp/), μπορείτε να εξαγάγετε το DOCM σε HTML. Στη συνέχεια, χρησιμοποιώντας το [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), μπορείτε να μετατρέψετε HTML σε μορφή JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Μετατροπή DOCM σε μορφή JSON μέσω C++" %}}
-1. Ανοίξτε το αρχείο DOCM χρησιμοποιώντας την αναφορά κλάσης [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
+1. Ανοίξτε το αρχείο DOCM χρησιμοποιώντας την αναφορά κλάσης [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
 2. Μετατρέψτε το DOCM σε HTML χρησιμοποιώντας τη συνάρτηση μέλους [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string_saveformat)
 3. Φορτώστε το έγγραφο HTML χρησιμοποιώντας την αναφορά κλάσης [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
 4. Αποθηκεύστε το έγγραφο σε μορφή JSON χρησιμοποιώντας τη λειτουργία μέλους [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)

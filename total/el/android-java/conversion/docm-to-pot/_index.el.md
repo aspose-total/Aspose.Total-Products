@@ -13,20 +13,20 @@ otherformats: PPTM POTX POTM PPSX POWERPOINT ODP PPTX PPS PPSM PPT CSV DIF FODS 
 {{< blocks/products/pf/feature-page-header h1="Μετατροπή DOCM σε POT στις εφαρμογές Android" h2="Μετατροπή DOCM σε POT στις Εφαρμογές σας Android χωρίς εγκατάσταση του Microsoft Word<sup>&reg;</sup> ή του PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Είστε προγραμματιστής Android που θέλετε να προσθέσετε μια δυνατότητα μετατροπής εγγράφων στην εφαρμογή σας; [Aspose.Total για Android μέσω Java](https://products.aspose.com/total/android-java/) Οι βιβλιοθήκες αυτοματισμού μορφοποίησης αρχείων μπορούν να σας βοηθήσουν να αυτοματοποιήσετε τη διαδικασία μετατροπής εγγράφων στις εφαρμογές σας Android. Για να μετατρέψετε το αρχείο DOCM σε POT, μπορείτε πρώτα να χρησιμοποιήσετε το API χειρισμού εγγράφων [Aspose.Words για Android Java](https://products.aspose.com/words/android-java/) για να μετατρέψετε τη μορφή αρχείου DOCM σε HTML. Στη συνέχεια, χρησιμοποιώντας το PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), μπορείτε να δημιουργήσετε μια νέα Παρουσίαση, να γράψετε περιεχόμενο HTML σε αυτήν και να την αποθηκεύσετε ως POT. 
+Είστε προγραμματιστής Android που θέλετε να προσθέσετε μια δυνατότητα μετατροπής εγγράφων στην εφαρμογή σας; [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Οι βιβλιοθήκες αυτοματισμού μορφοποίησης αρχείων μπορούν να σας βοηθήσουν να αυτοματοποιήσετε τη διαδικασία μετατροπής εγγράφων στις εφαρμογές σας Android. Για να μετατρέψετε το αρχείο DOCM σε POT, μπορείτε πρώτα να χρησιμοποιήσετε το API χειρισμού εγγράφων [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) για να μετατρέψετε τη μορφή αρχείου DOCM σε HTML. Στη συνέχεια, χρησιμοποιώντας το PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), μπορείτε να δημιουργήσετε μια νέα Παρουσίαση, να γράψετε περιεχόμενο HTML σε αυτήν και να την αποθηκεύσετε ως POT. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Πώς να μετατρέψετε το DOCM σε POT στο Android" %}}
-1. Ανοίξτε το αρχείο DOCM χρησιμοποιώντας την κλάση [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument)
-2. Μετατρέψτε το αρχείο DOCM σε HTML χρησιμοποιώντας [save](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions )) μέθοδος
+1. Ανοίξτε το αρχείο DOCM χρησιμοποιώντας την κλάση [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Μετατρέψτε το αρχείο DOCM σε HTML χρησιμοποιώντας [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions )) μέθοδος
 3. Αρχικοποιήστε ένα νέο αντικείμενο [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Εξάγετε περιεχόμενο από αρχείο HTML χρησιμοποιώντας το BufferedReader και γράψτε το περιεχόμενο στο αρχείο παρουσίασής σας
 6. Αποθηκεύστε το έγγραφο στο POT χρησιμοποιώντας τη μέθοδο [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
-Για μετατροπή αρχείου DOCM σε POT, μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.Total για Android μέσω Java απευθείας από το [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) και εγκαταστήστε βιβλιοθήκες στην εφαρμογή σας.
+Για μετατροπή αρχείου DOCM σε POT, μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.Total for Android via Java απευθείας από το [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) και εγκαταστήστε βιβλιοθήκες στην εφαρμογή σας.
 
 Εναλλακτικά, μπορείτε να λάβετε ένα αρχείο ZIP από τις [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -38,7 +38,7 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Dapatkan atau Setel Informasi File PS melalui C++" %}}
-[Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) juga memungkinkan Anda mendapatkan informasi tentang dokumen PS dan memungkinkan Anda mengambil keputusan yang tepat sebelum proses konversi. Untuk mendapatkan informasi spesifik file dari file PS, Anda harus terlebih dahulu memanggil metode [get_Info()](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#ae7a6ba620499ffa0dbaa5c813ee96c4a) dari [Dokumen](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) kelas. Setelah objek DocumentInfo diambil, Anda bisa mendapatkan nilai dari masing-masing properti. Selanjutnya, Anda juga dapat mengatur properti dengan menggunakan metode masing-masing kelas DocumentInfo.
+[Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) juga memungkinkan Anda mendapatkan informasi tentang dokumen PS dan memungkinkan Anda mengambil keputusan yang tepat sebelum proses konversi. Untuk mendapatkan informasi spesifik file dari file PS, Anda harus terlebih dahulu memanggil metode [get_Info()](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#ae7a6ba620499ffa0dbaa5c813ee96c4a) dari [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) kelas. Setelah objek DocumentInfo diambil, Anda bisa mendapatkan nilai dari masing-masing properti. Selanjutnya, Anda juga dapat mengatur properti dengan menggunakan metode masing-masing kelas DocumentInfo.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}

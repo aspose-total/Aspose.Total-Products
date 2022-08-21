@@ -20,7 +20,7 @@ otherformats: FLATOPC DOC SVG JPEG DOCX TEXT DOT PCL PS PDF EPUB DOTX RTF OTT TI
 {{% blocks/products/pf/agp/feature-section-col title="API de C++ para convertir OFT a WORDML" %}}
 1. Abra el archivo OFT usando la referencia de clase [MailMessage](https://reference.aspose.com/oft/cpp/class/aspose.oft.mail_message)
 2. Convierta OFT a HTML usando la función miembro [Guardar](https://reference.aspose.com/oft/cpp/class/aspose.oft.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
-3. Cargue HTML usando la clase [Documento](https://reference.aspose.com/words/cpp/class/aspose.words.document)
+3. Cargue HTML usando la clase [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
 4. Guarde el documento en formato WORDML usando el método [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) y configure Wordml como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

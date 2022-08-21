@@ -18,7 +18,7 @@ otherformats: ODP PPSM PPTM PPSX PPS POWERPOINT POTX POT PPTX POTM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++'da DOT'den PPT'ye Dönüştürme" %}}
-1. [Belge](https://reference.aspose.com/words/cpp/class/aspose.words.dotument) sınıf referansını kullanarak DOT dosyasını açın
+1. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.dotument) sınıf referansını kullanarak DOT dosyasını açın
 2. [Kaydet](https://reference.aspose.com/words/cpp/class/aspose.words.dotument#save_stdbasicostream_saveoptions) üye işlevini kullanarak DOT'yi HTML'ye dönüştürün
 3. Yeni bir [Sunum](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) nesnesini başlatın
 4. Slaytınıza bir Otomatik Şekil ekleyin ve buna AddTextFrame ekleyin

@@ -17,7 +17,7 @@ otherformats: POWERPOINT WORD PPTX DOCX
 1. افتح ملف XLSM باستخدام وظيفة عضو [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) في [Factory](https://reference.aspose.com/cells/cpp/class/aspose.cells.factory) مرجع الفئة
 2. تحويل XLSM إلى PDF وتعيين SaveFormat إلى Pdf
 3. قم بتحميل ملف PDF المحول باستخدام [مستند](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) مرجع فئة
-4. احفظ المستند بتنسيق DOC باستخدام وظيفة العضو [حفظ](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db) وقم بتعيين Doc على أنه SaveFormat
+4. احفظ المستند بتنسيق DOC باستخدام وظيفة العضو [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db) وقم بتعيين Doc على أنه SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}

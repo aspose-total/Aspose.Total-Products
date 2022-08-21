@@ -18,10 +18,10 @@ Ao usar [Aspose.Total for C++](https://products.aspose.com/total/cpp/), você po
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converter DOCM para formato JSON via C++" %}}
-1. Abra o arquivo DOCM usando a referência de classe [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
-2. Converta DOCM para HTML usando a função de membro [Salvar](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string_saveformat)
+1. Abra o arquivo DOCM usando a referência de classe [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
+2. Converta DOCM para HTML usando a função de membro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string_saveformat)
 3. Carregue o docmumento HTML usando a referência de classe [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
-4. Salve o docmumento no formato JSON usando a função de membro [Salvar](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
+4. Salve o docmumento no formato JSON usando a função de membro [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}

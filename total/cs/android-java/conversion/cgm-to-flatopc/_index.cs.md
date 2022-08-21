@@ -13,7 +13,7 @@ otherformats: DOTX ODT PS DOT MHTML PCL WORDML MARKDOWN DOTM OTT XAMLFLOW RTF
 {{< blocks/products/pf/feature-page-header h1="Vykreslete CGM do FLATOPC na Androidu přes Java" h2="Převeďte CGM na FLATOPC v mobilních aplikacích bez instalace jakéhokoli softwaru" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Funkci převodu CGM na FLATOPC můžete integrovat do svých mobilních aplikací pomocí dvou rozhraní API balíčku [Aspose.Total pro Android Java](https://products.aspose.com/total/android-java/). Nejprve musíte převést soubor CGM na DOC pomocí [Aspose.PDF pro Android přes Java](https://products.aspose.com/pdf/android-java/). Za druhé, pomocí rozhraní API pro zpracování textu [Aspose.Words pro Android Java](https://products.aspose.com/words/android-java/) můžete vykreslit DOC do FLATOPC. 
+Funkci převodu CGM na FLATOPC můžete integrovat do svých mobilních aplikací pomocí dvou rozhraní API balíčku [Aspose.Total for Android Java](https://products.aspose.com/total/android-java/). Nejprve musíte převést soubor CGM na DOC pomocí [Aspose.PDF pro Android přes Java](https://products.aspose.com/pdf/android-java/). Za druhé, pomocí rozhraní API pro zpracování textu [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) můžete vykreslit DOC do FLATOPC. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Funkci převodu CGM na FLATOPC můžete integrovat do svých mobilních aplikac�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
-Aspose.Total pro Android můžete snadno používat přes Javu přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a nainstalovat [Aspose.PDF pro Android přes Javu](https://docs.aspose.com/pdf/androidjava/installation/) a [Aspose.Words pro Android přes Javu](https://docs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) ve vašich aplikacích.
+Aspose.Total pro Android můžete snadno používat přes Javu přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a nainstalovat [Aspose.PDF for Android via Java](https://docs.aspose.com/pdf/androidjava/installation/) a [Aspose.Words for Android via Java](https://docs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) ve vašich aplikacích.
 
 Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

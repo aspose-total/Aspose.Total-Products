@@ -19,9 +19,9 @@ otherformats: DOTX PS WORDML DOCX GIF EPUB DOT JPEG OTT ODT FLATOPC TIFF DOCM DO
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="EMAILをRTFに変換するC++API" %}}
 1. [MailMessage](https://reference.aspose.com/email/cpp/class/aspose.email.mail_message)クラスリファレンスを使用してEMAILファイルを開きます
-2. [保存](https://reference.aspose.com/email/cpp/class/aspose.email.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)メンバー関数を使用してEMAILをHTMLに変換します
+2. [Save](https://reference.aspose.com/email/cpp/class/aspose.email.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)メンバー関数を使用してEMAILをHTMLに変換します
 3. [ドキュメント](https://reference.aspose.com/words/cpp/class/aspose.words.document)クラスを使用してHTMLをロードします
-4. [保存](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)メソッドを使用してドキュメントをRTF形式で保存し、RtfをSaveFormatとして設定します
+4. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)メソッドを使用してドキュメントをRTF形式で保存し、RtfをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

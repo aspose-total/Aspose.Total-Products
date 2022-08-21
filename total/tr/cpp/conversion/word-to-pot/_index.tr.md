@@ -18,7 +18,7 @@ otherformats: POWERPOINT POTX PPSM ODP PPSX PPS PPTX PPTM PPT POTM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++'da WORD'den POT'ye Dönüştürme" %}}
-1. [Belge](https://reference.aspose.com/words/cpp/class/aspose.words.wordument) sınıf referansını kullanarak WORD dosyasını açın
+1. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.wordument) sınıf referansını kullanarak WORD dosyasını açın
 2. [Kaydet](https://reference.aspose.com/words/cpp/class/aspose.words.wordument#save_stdbasicostream_saveoptions) üye işlevini kullanarak WORD'yi HTML'ye dönüştürün
 3. Yeni bir [Sunum](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) nesnesini başlatın
 4. Slaytınıza bir Otomatik Şekil ekleyin ve buna AddTextFrame ekleyin

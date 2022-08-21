@@ -19,9 +19,9 @@ Você pode incluir o recurso de conversão de ODT para XLAM em seus aplicativos 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API C++ para converter ODT para XLAM" %}}
 1. Abra o arquivo ODT usando a referência de classe [Odtument](https://reference.aspose.com/words/cpp/class/aspose.words.odtument)
-2. Converta ODT para HTML usando a função de membro [Salvar](https://reference.aspose.com/words/cpp/class/aspose.words.odtument#save_string_saveformat)
+2. Converta ODT para HTML usando a função de membro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.odtument#save_string_saveformat)
 3. Carregue o odtumento HTML usando a referência de classe [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
-4. Salve o odtumento no formato XLAM usando a função de membro [Salvar](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
+4. Salve o odtumento no formato XLAM usando a função de membro [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}

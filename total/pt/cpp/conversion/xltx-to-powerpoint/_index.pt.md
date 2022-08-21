@@ -10,14 +10,14 @@ outformat: PPTX
 otherformats: PPTX WORD DOCX DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter XLTX para POWERPOINT via C++" h2="Exportar Excel&reg; XLTX para POWERPOINT em aplicativos C++ totalmente funcionais" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter XLTX para POWERPOINT via C++" h2="Exportar Excel<sup>&reg;</sup> XLTX para POWERPOINT em aplicativos C++ totalmente funcionais" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversão de XLTX para POWERPOINT em C++" %}}
 1. Abra o arquivo XLTX usando a função de membro [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) de [Factory](https://reference.aspose.com/cells/cpp/class/aspose.cells.factory) referência de classe
 2. Converta XLTX para PDF e defina SaveFormat para PDF
 3. Carregue o arquivo PDF convertido usando a referência de classe [Powerpointument](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.powerpointument)
-4. Salve o powerpointumento no formato POWERPOINT usando a função de membro [Salvar](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.powerpointument#a6383c010776212483f51cc41235924db) e defina Powerpoint como SaveFormat
+4. Salve o powerpointumento no formato POWERPOINT usando a função de membro [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.powerpointument#a6383c010776212483f51cc41235924db) e defina Powerpoint como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}

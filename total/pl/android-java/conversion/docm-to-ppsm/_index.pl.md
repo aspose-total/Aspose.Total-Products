@@ -13,20 +13,20 @@ otherformats: POTM POT POWERPOINT PPS ODP PPT PPTM POTX PPTX PPSX CSV DIF FODS O
 {{< blocks/products/pf/feature-page-header h1="Konwertuj DOCM na PPSM w aplikacjach na Androida" h2="Konwersja DOCM na PPSM w aplikacjach na Androida bez instalowania programu Microsoft Word<sup>&reg;</sup> lub PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Czy jesteś programistą Androida i chcesz dodać funkcję konwersji dokumentów do swojej aplikacji? [Aspose.Total dla Androida przez Javę](https://products.aspose.com/total/android-java/) Biblioteki File Format Automation mogą pomóc zautomatyzować proces konwersji dokumentów w aplikacjach na Androida. Aby przekonwertować plik DOCM na PPSM, możesz najpierw użyć interfejsu API do manipulacji dokumentami [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/), aby przekonwertować format pliku DOCM na HTML. Następnie za pomocą interfejsu API programu PowerPoint [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) możesz utworzyć nową prezentację, zapisać w niej zawartość HTML i zapisać ją jako PPSM. 
+Czy jesteś programistą Androida i chcesz dodać funkcję konwersji dokumentów do swojej aplikacji? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Biblioteki File Format Automation mogą pomóc zautomatyzować proces konwersji dokumentów w aplikacjach na Androida. Aby przekonwertować plik DOCM na PPSM, możesz najpierw użyć interfejsu API do manipulacji dokumentami [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/), aby przekonwertować format pliku DOCM na HTML. Następnie za pomocą interfejsu API programu PowerPoint [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) możesz utworzyć nową prezentację, zapisać w niej zawartość HTML i zapisać ją jako PPSM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak przekonwertować DOCM na PPSM w Androidzie?" %}}
-1. Otwórz plik DOCM za pomocą klasy [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument)
-2. Przekonwertuj plik DOCM na HTML za pomocą [save](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions))) metoda
+1. Otwórz plik DOCM za pomocą klasy [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Przekonwertuj plik DOCM na HTML za pomocą [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) metoda
 3. Zainicjuj nowy obiekt [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Wyodrębnij zawartość z pliku HTML za pomocą BufferedReader i zapisz zawartość w pliku prezentacji
 6. Zapisz dokument w PPSM za pomocą metody [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
-Do konwersji plików DOCM na PPSM możesz łatwo użyć Aspose.Total dla Androida przez Javę bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i zainstaluj biblioteki w swojej aplikacji.
+Do konwersji plików DOCM na PPSM możesz łatwo użyć Aspose.Total for Android via Java bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i zainstaluj biblioteki w swojej aplikacji.
 
 Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -39,7 +39,7 @@ Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Konwertuj chroniony DOCM na PPSM w Androidzie za pomocą Java" %}}
-Możesz także przekonwertować chroniony hasłem DOCM na PPSM w swoich aplikacjach na Androida. Jeśli wejściowy dokument DOCM jest chroniony hasłem, nie można go przekonwertować do formatu PPSM bez użycia hasła. Aby otworzyć zaszyfrowany dokument, możesz ustawić poprawne hasło w obiekcie LoadOptions i przekazać je do konstruktora Docmument.
+Możesz także przekonwertować chroniony hasłem DOCM na PPSM w swoich aplikacjach na Androida. Jeśli wejściowy dokument DOCM jest chroniony hasłem, nie można go przekonwertować do formatu PPSM bez użycia hasła. Aby otworzyć zaszyfrowany dokument, możesz ustawić poprawne hasło w obiekcie LoadOptions i przekazać je do konstruktora Document.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}

@@ -13,13 +13,13 @@ otherformats: POT PPS PPSM POTM PPT PPSX XAML ODP PPTM OTP SWF POWERPOINT
 {{< blocks/products/pf/feature-page-header h1="Vykreslování PS na POTX v rámci aplikací C++" h2="Převeďte PS na POTX ve svých aplikacích C++ bez použití Microsoft<sup>&reg;</sup> PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Jste vývojář C++, který chce přidat integraci funkce převodu PS na POTX do vašich aplikací C++? Můžete to udělat ve dvou jednoduchých krocích. PS můžete exportovat do PPTX pomocí [Aspose.PDF pro C++](https://products.aspose.com/pdf/cpp/). Za druhé, pomocí [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) můžete převést PPTX na POTX. Obě rozhraní API jsou součástí balíčku [Aspose.Total pro C++](https://products.aspose.com/total/cpp/). 
+Jste vývojář C++, který chce přidat integraci funkce převodu PS na POTX do vašich aplikací C++? Můžete to udělat ve dvou jednoduchých krocích. PS můžete exportovat do PPTX pomocí [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/). Za druhé, pomocí [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) můžete převést PPTX na POTX. Obě rozhraní API jsou součástí balíčku [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API pro export PS do POTX" %}}
 1. Otevřete soubor PS pomocí odkazu třídy [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)
-2. Převeďte PS na PPTX pomocí funkce metody [Uložit](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a0184df207563187be7df37b8dbe443f6)
+2. Převeďte PS na PPTX pomocí funkce metody [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a0184df207563187be7df37b8dbe443f6)
 3. Načtěte dokument PPTX pomocí odkazu třídy [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. Uložte dokument do formátu POTX pomocí členské funkce [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) a nastavte „Potx“ jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -46,7 +46,7 @@ prs->Save(u"output.potx", Aspose::Slides::Export::SaveFormat::Potx);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Změna hesla dokumentu PS pomocí C++" %}}
-V procesu vykreslování PS na POTX můžete otevřít heslem chráněný PS a také změnit jeho heslo. Chcete-li změnit heslo souboru PS, musíte znát heslo vlastníka tohoto dokumentu. Dokument PDF chráněný heslem můžete načíst pomocí [Aspose.PDF pro C++](https://products.aspose.com/pdf/cpp/) zadáním hesla vlastníka a pomocí metody ChangePasswords heslo změnit.
+V procesu vykreslování PS na POTX můžete otevřít heslem chráněný PS a také změnit jeho heslo. Chcete-li změnit heslo souboru PS, musíte znát heslo vlastníka tohoto dokumentu. Dokument PDF chráněný heslem můžete načíst pomocí [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) zadáním hesla vlastníka a pomocí metody ChangePasswords heslo změnit.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp

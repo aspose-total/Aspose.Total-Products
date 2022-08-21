@@ -10,15 +10,15 @@ outformat: JSON
 otherformats: XLT XLTM FODS SXC XLAM XLS EXCEL ODS XLSM DIF XLSB XLTX TSV CSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi định dạng DOCM sang JSON thông qua C++" h2="Xuất DOCM sang JSON qua C++ mà không sử dụng Microsoft <sup> <sup>&reg;</sup>; </sup> Word hoặc Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi định dạng DOCM sang JSON thông qua C++" h2="Xuất DOCM sang JSON qua C++ mà không sử dụng Microsoft <sup>&reg;</sup> Word hoặc Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Bằng cách sử dụng [Aspose.Total cho C++](https://products.aspose.com/total/cpp/), bạn có thể chuyển đổi định dạng DOCM sang JSON trong các ứng dụng C++ của mình. Thứ nhất, bằng cách sử dụng [Aspose.Words for C++](https://products.aspose.com/words/cpp/), bạn có thể xuất DOCM sang HTML. Sau đó, bằng cách sử dụng [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), bạn có thể chuyển đổi HTML sang định dạng JSON. 
+Bằng cách sử dụng [Aspose.Total for C++](https://products.aspose.com/total/cpp/), bạn có thể chuyển đổi định dạng DOCM sang JSON trong các ứng dụng C++ của mình. Thứ nhất, bằng cách sử dụng [Aspose.Words for C++](https://products.aspose.com/words/cpp/), bạn có thể xuất DOCM sang HTML. Sau đó, bằng cách sử dụng [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), bạn có thể chuyển đổi HTML sang định dạng JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi định dạng DOCM sang JSON thông qua C++" %}}
-1. Mở tệp DOCM bằng tham chiếu lớp [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
+1. Mở tệp DOCM bằng tham chiếu lớp [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
 2. Chuyển đổi DOCM sang HTML bằng cách sử dụng hàm thành viên [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string_saveformat)
 3. Tải tài liệu HTML bằng cách sử dụng tham chiếu lớp [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
 4. Lưu tài liệu sang định dạng JSON bằng hàm thành viên [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
@@ -27,7 +27,7 @@ Bằng cách sử dụng [Aspose.Total cho C++](https://products.aspose.com/tota
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
 Cài đặt thông qua Bảng điều khiển Trình quản lý Gói của Visual Studio với `` Cài đặt Gói Aspose.Total.Cpp ''.
 
-Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://downloads.aspose.com/total/cpp).
+Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [download](https://downloads.aspose.com/total/cpp).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

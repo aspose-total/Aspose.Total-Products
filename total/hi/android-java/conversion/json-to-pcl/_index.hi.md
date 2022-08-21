@@ -13,19 +13,19 @@ otherformats: DOCM OTT ODT WORD WORDML DOT DOC MOBI PS DOTX EPUB CHM RTF FLATOPC
 {{< blocks/products/pf/feature-page-header h1="Android एप्लिकेशन में JSON फॉर्मेट को PCL में बदलें" h2="Microsoft<sup>&reg;</sup> Word का उपयोग किए बिना Android एप्लिकेशन में JSON को PCL में पार्स करें" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-आप अपने Android एप्लिकेशन में JSON को PCL में दो-चरणीय प्रक्रिया में बदल सकते हैं। सबसे पहले, पावरफुल स्प्रैडशीट प्रोसेसिंग API [Aspose.Cells for Android by Java](https://products.aspose.com/cells/android-java/) का उपयोग करके आप JSON को PDF में पार्स कर सकते हैं। दूसरे चरण में, आप वर्ड प्रोसेसिंग एपीआई [Aspose.Words for Android by Java](https://products.aspose.com/words/android-java/) का उपयोग करके पीडीएफ को सीएचएम में बदल सकते हैं। दोनों API [Aspose.Total for Android by Java](https://products.aspose.com/total/android-java/) उत्पाद परिवार के अंतर्गत आते हैं। 
+आप अपने Android एप्लिकेशन में JSON को PCL में दो-चरणीय प्रक्रिया में बदल सकते हैं। सबसे पहले, पावरफुल स्प्रैडशीट प्रोसेसिंग API [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) का उपयोग करके आप JSON को PDF में पार्स कर सकते हैं। दूसरे चरण में, आप वर्ड प्रोसेसिंग एपीआई [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) का उपयोग करके पीडीएफ को सीएचएम में बदल सकते हैं। दोनों API [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) उत्पाद परिवार के अंतर्गत आते हैं। 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="जावा के माध्यम से एंड्रॉइड में जेएसओएन प्रारूप को सीएचएम में कनवर्ट करें" %}}
 1. एक नया [वर्कबुक](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) ऑब्जेक्ट बनाएं और फ़ाइल से मान्य JSON डेटा पढ़ें
 2. [JsonUtility](https://reference.aspose.com/cells/java/com.aspose.cells/JsonUtility) वर्ग और [Save](https://reference.aspose.com/) का उपयोग करके कार्यपत्रक में JSON फ़ाइल आयात करें cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) इसे PDF के रूप में
-3. [दस्तावेज़](https://reference.aspose.com/words/java/com.aspose.words/Document) वर्ग का उपयोग करके पीडीएफ दस्तावेज़ लोड करें
-4. दस्तावेज़ को [सहेजें](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) का उपयोग करके सीएचएम प्रारूप में सहेजें )) तरीका
+3. [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) वर्ग का उपयोग करके पीडीएफ दस्तावेज़ लोड करें
+4. दस्तावेज़ को [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) का उपयोग करके सीएचएम प्रारूप में सहेजें )) तरीका
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
-आप [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) से सीधे जावा के माध्यम से Android के लिए Aspose.Total का आसानी से उपयोग कर सकते हैं और अपने ऐप में पुस्तकालय स्थापित करें।
+आप [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) से सीधे Aspose.Total for Android via Java का आसानी से उपयोग कर सकते हैं और अपने ऐप में पुस्तकालय स्थापित करें।
 
 वैकल्पिक रूप से, आप [डाउनलोड](https://downloads.aspose.com/total/androidjava) से एक ज़िप फ़ाइल प्राप्त कर सकते हैं।
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -46,7 +46,7 @@ otherformats: DOCM OTT ODT WORD WORDML DOT DOC MOBI PS DOTX EPUB CHM RTF FLATOPC
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="जावा के माध्यम से एंड्रॉइड में वॉटरमार्क के साथ जेएसओएन प्रारूप को सीएचएम में कनवर्ट करें" %}}
-एपीआई का उपयोग करके, आप JSON को वॉटरमार्क के साथ PCL में भी बदल सकते हैं। अपने PCL दस्तावेज़ में वॉटरमार्क जोड़ने के लिए, आप पहले JSON फ़ाइल को PDF में पार्स कर सकते हैं और उसमें वॉटरमार्क जोड़ सकते हैं। वॉटरमार्क जोड़ने के लिए, [दस्तावेज़](https://reference.aspose.com/words/java/com.aspose.words/Document) वर्ग का उपयोग करके नई बनाई गई PDF फ़ाइल लोड करें, TextWatermarkOptions का एक उदाहरण बनाएं और सेट करें इसके गुण, Watermark.setText विधि को कॉल करें और वॉटरमार्क टेक्स्ट और TextWatermarkOptions का ऑब्जेक्ट पास करें। वॉटरमार्क जोड़ने के बाद, आप दस्तावेज़ को सीएचएम में सहेज सकते हैं।
+एपीआई का उपयोग करके, आप JSON को वॉटरमार्क के साथ PCL में भी बदल सकते हैं। अपने PCL दस्तावेज़ में वॉटरमार्क जोड़ने के लिए, आप पहले JSON फ़ाइल को PDF में पार्स कर सकते हैं और उसमें वॉटरमार्क जोड़ सकते हैं। वॉटरमार्क जोड़ने के लिए, [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) वर्ग का उपयोग करके नई बनाई गई PDF फ़ाइल लोड करें, TextWatermarkOptions का एक उदाहरण बनाएं और सेट करें इसके गुण, Watermark.setText विधि को कॉल करें और वॉटरमार्क टेक्स्ट और TextWatermarkOptions का ऑब्जेक्ट पास करें। वॉटरमार्क जोड़ने के बाद, आप दस्तावेज़ को सीएचएम में सहेज सकते हैं।
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "parse-json-to-word-with-watermark.cs" >}}

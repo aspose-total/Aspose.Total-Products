@@ -13,7 +13,7 @@ otherformats: DOT PS MARKDOWN PCL FLATOPC DOTM RTF MHTML XAMLFLOW DOTX WORDML OD
 {{< blocks/products/pf/feature-page-header h1="Rendern Sie EPUB in DOCM auf Android über Java" h2="Konvertieren Sie EPUB in DOCM in mobilen Apps, ohne Software zu installieren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Sie können die EPUB-zu-DOCM-Konvertierungsfunktion in Ihre mobilen Apps integrieren, indem Sie zwei APIs des Pakets [Aspose.Total für Android Java](https://products.aspose.com/total/android-java/) verwenden. Zuerst müssen Sie die EPUB-Datei mit [Aspose.PDF für Android über Java](https://products.aspose.com/pdf/android-java/) in DOC konvertieren. Zweitens können Sie mit der Textverarbeitungs-API [Aspose.Words für Android Java](https://products.aspose.com/words/android-java/) DOC in DOCM rendern. 
+Sie können die EPUB-zu-DOCM-Konvertierungsfunktion in Ihre mobilen Apps integrieren, indem Sie zwei APIs des Pakets [Aspose.Total for Android Java](https://products.aspose.com/total/android-java/) verwenden. Zuerst müssen Sie die EPUB-Datei mit [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) in DOC konvertieren. Zweitens können Sie mit der Textverarbeitungs-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) DOC in DOCM rendern. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Sie können die EPUB-zu-DOCM-Konvertierungsfunktion in Ihre mobilen Apps integri
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
-Sie können Aspose.Total für Android ganz einfach über Java direkt von [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) und verwenden Installieren Sie [Aspose.PDF für Android über Java](https://docs.aspose.com/pdf/androidjava/installation/) und [Aspose.Words für Android über Java](https://docs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) in Ihren Anwendungen.
+Sie können Aspose.Total für Android ganz einfach über Java direkt von [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) und verwenden Installieren Sie [Aspose.PDF for Android via Java](https://docs.aspose.com/pdf/androidjava/installation/) und [Aspose.Words for Android via Java](https://docs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) in Ihren Anwendungen.
 
 Alternativ können Sie eine ZIP-Datei von [downloads](https://downloads.aspose.com/total/androidjava) herunterladen.
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -46,7 +46,7 @@ outputDocument.save("output.docm", SaveFormat.DOCM);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Erhalten Sie EPUB-Dateiinformationen auf Android über Java" %}}
-Vor der Konvertierung von EPUB in DOCM benötigen Sie möglicherweise Informationen über das Dokument, einschließlich Autor, Erstellungsdatum, Schlüsselwörter, Änderungsdatum, Betreff und Titel. Diese Informationen sind hilfreich für die Entscheidungsfindung für den Konvertierungsprozess. Mit der leistungsstarken API [Aspose.PDF für Android über Java](https://docs.aspose.com/pdf/androidjava/) können Sie all das abrufen. Um dateispezifische Informationen zu einer EPUB-Datei zu erhalten, rufen Sie zuerst das Objekt [DocumentInfo](https://reference.aspose.com/pdf/java/com.aspose.pdf/DocumentInfo) mit [getInfo](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getInfo--) Methode. Nachdem das DocumentInfo-Objekt abgerufen wurde, können Sie die Werte der einzelnen Eigenschaften abrufen.
+Vor der Konvertierung von EPUB in DOCM benötigen Sie möglicherweise Informationen über das Dokument, einschließlich Autor, Erstellungsdatum, Schlüsselwörter, Änderungsdatum, Betreff und Titel. Diese Informationen sind hilfreich für die Entscheidungsfindung für den Konvertierungsprozess. Mit der leistungsstarken API [Aspose.PDF for Android via Java](https://docs.aspose.com/pdf/androidjava/) können Sie all das abrufen. Um dateispezifische Informationen zu einer EPUB-Datei zu erhalten, rufen Sie zuerst das Objekt [DocumentInfo](https://reference.aspose.com/pdf/java/com.aspose.pdf/DocumentInfo) mit [getInfo](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getInfo--) Methode. Nachdem das DocumentInfo-Objekt abgerufen wurde, können Sie die Werte der einzelnen Eigenschaften abrufen.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java

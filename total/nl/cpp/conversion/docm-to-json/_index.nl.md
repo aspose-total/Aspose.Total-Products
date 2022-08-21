@@ -18,7 +18,7 @@ Door [Aspose.Total for C++](https://products.aspose.com/total/cpp/) te gebruiken
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converteer DOCM naar JSON-formaat via C++" %}}
-1. Open DOCM-bestand met behulp van [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument) klasseverwijzing
+1. Open DOCM-bestand met behulp van [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument) klasseverwijzing
 2. Converteer DOCM naar HTML met behulp van [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string_saveformat) lidfunctie
 3. Laad HTML-docmument met behulp van [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) klasseverwijzing
 4. Sla het docmument op in JSON-formaat met behulp van [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) lidfunctie

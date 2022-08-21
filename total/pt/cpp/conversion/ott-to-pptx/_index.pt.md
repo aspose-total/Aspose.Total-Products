@@ -19,7 +19,7 @@ otherformats: POTM POWERPOINT PPSX ODP POTX PPS PPSM PPTM PPT POT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversão de OTT para PPTX em C++" %}}
 1. Abra o arquivo OTT usando a referência de classe [Ottument](https://reference.aspose.com/words/cpp/class/aspose.words.ottument)
-2. Converta OTT para HTML usando a função de membro [Salvar](https://reference.aspose.com/words/cpp/class/aspose.words.ottument#save_stdbasicostream_saveoptions)
+2. Converta OTT para HTML usando a função de membro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.ottument#save_stdbasicostream_saveoptions)
 3. Inicialize um novo objeto [Apresentação](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. Adicione uma AutoForma em seu slide e adicione AddTextFrame nele
 5. Carregue o conteúdo HTML e escreva-o em seu arquivo de apresentação

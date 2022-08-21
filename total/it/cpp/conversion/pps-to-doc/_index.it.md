@@ -19,9 +19,9 @@ otherformats: DOCX ODT WORDML DOTX FLATOPC TEXT WORD DOT RTF DOCM OTT DOTM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API C++ per convertire PPS in DOC" %}}
 1. Caricare il file PPS utilizzando [Presentazione](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) riferimento alla classe
-2. Eseguire il rendering di PPS in HTML utilizzando la funzione membro [Salva](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) e impostare Html come SaveFormat
+2. Eseguire il rendering di PPS in HTML utilizzando la funzione membro [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) e impostare Html come SaveFormat
 3. Caricare il file HTML convertito utilizzando il riferimento alla classe [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
-4. Salvare il documento in formato DOC utilizzando [Salva](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string) funzione membro
+4. Salvare il documento in formato DOC utilizzando [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string) funzione membro
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}

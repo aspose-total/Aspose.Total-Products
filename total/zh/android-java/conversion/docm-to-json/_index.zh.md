@@ -18,8 +18,8 @@ otherformats: XLT XLTM FODS SXC XLAM XLS EXCEL ODS XLSM DIF XLSB XLTX TSV CSV
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="在 Android 中将 DOCM 转换为 JSON 格式" %}}
-1. 使用 [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument) 类打开 DOCM 文件
-2. 使用 [Save](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions)) 将 DOCM 转换为 HTML ) 方法
+1. 使用 [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 类打开 DOCM 文件
+2. 使用 [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) 将 DOCM 转换为 HTML ) 方法
 3. 使用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 类加载 HTML 文档
 4. 使用 [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.)) 将文档保存为 JSON 格式。 SaveOptions)) 方法
 {{% /blocks/products/pf/agp/feature-section-col %}}

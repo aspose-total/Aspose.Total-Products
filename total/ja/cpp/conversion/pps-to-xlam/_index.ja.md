@@ -19,9 +19,9 @@ otherformats: XLSX XLT MARKDOWN FODS XLSM XLSB MHTML XLTM TSV XLTX DIF XLS SXC C
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++を介してPPSをXLAMに変換する方法" %}}
 1. [プレゼンテーション](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)クラスリファレンスを使用してPPSファイルを開きます
-2. [保存](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba)メソッドを使用してPPSをHTMLに変換します
+2. [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba)メソッドを使用してPPSをHTMLに変換します
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)クラスリファレンスを使用してHTMLドキュメントをロードします
-4. [保存](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)メソッドを使用してドキュメントをXLAM形式で保存します
+4. [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)メソッドを使用してドキュメントをXLAM形式で保存します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

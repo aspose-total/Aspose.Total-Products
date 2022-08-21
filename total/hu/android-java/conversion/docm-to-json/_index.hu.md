@@ -18,8 +18,8 @@ A DOCM-t JSON-formátumba konvertálhatja Android-alkalmazásaiban az [Aspose.To
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertálja a DOCM-t JSON formátumba az Androidon" %}}
-1. Nyissa meg a DOCM-fájlt a [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument) osztály használatával
-2. A [Mentés](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions)) segítségével konvertálja a DOCM-t HTML-vé. ) módszerrel
+1. Nyissa meg a DOCM-fájlt a [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) osztály használatával
+2. A [Mentés](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) segítségével konvertálja a DOCM-t HTML-vé. ) módszerrel
 3. Töltsön be HTML-dokumentumot a [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) osztály használatával
 4. Mentse a dokumentumot JSON formátumba a [Mentés](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells)) segítségével. SaveOptions)) módszer
 {{% /blocks/products/pf/agp/feature-section-col %}}

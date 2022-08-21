@@ -13,7 +13,7 @@ otherformats: ODT MARKDOWN DOTX OTT DOCM DOT FLATOPC WORDML PCL XAMLFLOW RTF DOT
 {{< blocks/products/pf/feature-page-header h1="Java経由でAndroid上のMHTMLにPSをレンダリングする" h2="ソフトウェアをインストールせずにモバイルアプリでPSをMHTMLに変換する" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Android Java](https://products.aspose.com/total/android-java/)パッケージの2つのAPIを使用して、モバイルアプリにPSからMHTMLへの変換機能を統合できます。まず、[Java経由のAndroid用Aspose.PDF](https://products.aspose.com/pdf/android-java/)を使用してPSファイルをDOCに変換する必要があります。次に、ワードプロセッシングAPI [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/)を使用して、DOCをMHTMLにレンダリングできます。 
+[Aspose.Total for Android Java](https://products.aspose.com/total/android-java/)パッケージの2つのAPIを使用して、モバイルアプリにPSからMHTMLへの変換機能を統合できます。まず、[Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)を使用してPSファイルをDOCに変換する必要があります。次に、ワードプロセッシングAPI [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)を使用して、DOCをMHTMLにレンダリングできます。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

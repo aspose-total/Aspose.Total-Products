@@ -13,7 +13,7 @@ otherformats: DOC PS ODT DOCM DOTX EPUB OTT WORD PCL CHM FLATOPC WORDML RTF MOBI
 {{< blocks/products/pf/feature-page-header h1="Преобразование формата JSON в DOT в приложениях для Android" h2="Преобразование JSON в DOT в приложениях Android без использования Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Вы можете преобразовать JSON в DOT в своих приложениях для Android в два этапа. Во-первых, с помощью мощного API обработки электронных таблиц [Aspose.Cells для Android через Java](https://products.aspose.com/cells/android-java/) вы можете преобразовать JSON в PDF. На втором этапе вы можете преобразовать PDF в DOT с помощью API обработки текстов [Aspose.Words для Android через Java](https://products.aspose.com/words/android-java/). Оба API относятся к семейству продуктов [Aspose.Total для Android через Java](https://products.aspose.com/total/android-java/). 
+Вы можете преобразовать JSON в DOT в своих приложениях для Android в два этапа. Во-первых, с помощью мощного API обработки электронных таблиц [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) вы можете преобразовать JSON в PDF. На втором этапе вы можете преобразовать PDF в DOT с помощью API обработки текстов [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Оба API относятся к семейству продуктов [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ otherformats: DOC PS ODT DOCM DOTX EPUB OTT WORD PCL CHM FLATOPC WORDML RTF MOBI
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
-Вы можете легко использовать Aspose.Total для Android через Java непосредственно из [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) и установить библиотеки в ваше приложение.
+Вы можете легко использовать Aspose.Total for Android via Java непосредственно из [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) и установить библиотеки в ваше приложение.
 
 Кроме того, вы можете получить ZIP-файл из [загрузки](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

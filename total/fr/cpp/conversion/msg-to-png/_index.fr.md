@@ -13,7 +13,7 @@ otherformats: DOTX RTF DOCX DOC TEXT DOTM FLATOPC DOT DOCM TIFF GIF XPS EMF WORD
 {{< blocks/products/pf/feature-page-header h1="API C++ pour exporter MSG vers PNG" h2="Transformez MSG en PNG dans une application C++ sans nécessiter Microsoft Word ou Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Êtes-vous un développeur C++ cherchant à ajouter des fonctionnalités de conversion d'e-mails dans vos applications ? En utilisant [Aspose.Msg pour C++](https://products.aspose.com/msg/cpp/), vous pouvez convertir le format de fichier MSG en HTML. Après cela, en utilisant l'API [Aspose.Words pour C++](https://products.aspose.com/words/cpp/), vous pouvez exporter du HTML vers PNG. Les deux API relèvent du package [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
+Êtes-vous un développeur C++ cherchant à ajouter des fonctionnalités de conversion d'e-mails dans vos applications ? En utilisant [Aspose.Msg pour C++](https://products.aspose.com/msg/cpp/), vous pouvez convertir le format de fichier MSG en HTML. Après cela, en utilisant l'API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), vous pouvez exporter du HTML vers PNG. Les deux API relèvent du package [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

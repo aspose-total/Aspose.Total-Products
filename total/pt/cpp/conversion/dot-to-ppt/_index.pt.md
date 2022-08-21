@@ -19,7 +19,7 @@ otherformats: ODP PPSM PPTM PPSX PPS POWERPOINT POTX POT PPTX POTM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversão de DOT para PPT em C++" %}}
 1. Abra o arquivo DOT usando a referência de classe [Dotument](https://reference.aspose.com/words/cpp/class/aspose.words.dotument)
-2. Converta DOT para HTML usando a função de membro [Salvar](https://reference.aspose.com/words/cpp/class/aspose.words.dotument#save_stdbasicostream_saveoptions)
+2. Converta DOT para HTML usando a função de membro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotument#save_stdbasicostream_saveoptions)
 3. Inicialize um novo objeto [Apresentação](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. Adicione uma AutoForma em seu slide e adicione AddTextFrame nele
 5. Carregue o conteúdo HTML e escreva-o em seu arquivo de apresentação

@@ -13,7 +13,7 @@ otherformats: SXC XLSM XLSB TSV XLAM XLT DIF EXCEL XLTX CSV XLTM FODS ODS XLSX
 {{< blocks/products/pf/feature-page-header h1="Convierta DOTX a formato JSON en Android a través de Java" h2="Diseñe aplicaciones de Android para exportar DOTX a JSON sin usar Microsoft<sup>&reg;</sup> Word o Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Puede convertir el formato DOTX a JSON en sus aplicaciones de Android a través de [Aspose.Total para Android a través de Java](https://products.aspose.com/total/android-java/). Mediante el uso de la API de manipulación y conversión de dotxumentos [Aspose.Words para Android a través de Java](https://products.aspose.com/words/android-java/), puede exportar DOTX a HTML. Después de eso, al usar [Aspose.Cells para Android a través de Java](https://products.aspose.com/cells/android-java/), puede convertir HTML a JSON. 
+Puede convertir el formato DOTX a JSON en sus aplicaciones de Android a través de [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Mediante el uso de la API de manipulación y conversión de dotxumentos [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/), puede exportar DOTX a HTML. Después de eso, al usar [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), puede convertir HTML a JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Puede convertir el formato DOTX a JSON en sus aplicaciones de Android a través 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
-Puede usar fácilmente Aspose.Total para Android a través de Java directamente desde [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) y instalar bibliotecas en su aplicación.
+Puede usar fácilmente Aspose.Total for Android via Java directamente desde [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) y instalar bibliotecas en su aplicación.
 
 Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

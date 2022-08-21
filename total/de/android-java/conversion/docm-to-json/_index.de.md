@@ -13,13 +13,13 @@ otherformats: XLT XLTM FODS SXC XLAM XLS EXCEL ODS XLSM DIF XLSB XLTX TSV CSV
 {{< blocks/products/pf/feature-page-header h1="Konvertieren Sie DOCM in das JSON-Format in Android über Java" h2="Entwerfen Sie Android-Anwendungen zum Exportieren von DOCM in JSON, ohne Microsoft<sup>&reg;</sup> Word oder Excel zu verwenden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Sie können das DOCM-Format in Ihren Android-Anwendungen über [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) in das JSON-Format konvertieren. Durch die Verwendung der Dokumentbearbeitungs- und Konvertierungs-API [Aspose.Words für Android über Java](https://products.aspose.com/words/android-java/) können Sie DOCM in HTML exportieren. Danach können Sie mit [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) HTML in JSON konvertieren. 
+Sie können das DOCM-Format in Ihren Android-Anwendungen über [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) in das JSON-Format konvertieren. Durch die Verwendung der Dokumentbearbeitungs- und Konvertierungs-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) können Sie DOCM in HTML exportieren. Danach können Sie mit [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) HTML in JSON konvertieren. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertieren Sie DOCM in das JSON-Format in Android" %}}
-1. Öffnen Sie die DOCM-Datei mit der Klasse [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument).
-2. Konvertieren Sie DOCM in HTML mit [Save](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions) ) Methode
+1. Öffnen Sie die DOCM-Datei mit der Klasse [Document](https://reference.aspose.com/words/java/com.aspose.words/Document).
+2. Konvertieren Sie DOCM in HTML mit [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) Methode
 3. Laden Sie das HTML-Dokument mithilfe der Klasse [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
 4. Speichern Sie das Dokument im JSON-Format mit [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))-Methode
 {{% /blocks/products/pf/agp/feature-section-col %}}

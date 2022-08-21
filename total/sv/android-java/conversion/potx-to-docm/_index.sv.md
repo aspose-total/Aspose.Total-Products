@@ -13,20 +13,20 @@ otherformats: DOC FLATOPC WORD WORDML DOT DOCX RTF OTT DOTX DOTM ODT TEXT
 {{< blocks/products/pf/feature-page-header h1="Rendera POTX till DOCM på Andorid via Java" h2="Filformats-API:er för att konvertera POTX till DOCM i Android-appar utan att vara beroende av Microsoft PowerPoint eller Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total för Android via Java](https://products.aspose.com/total/android-java/) tillåter manipulering av filformat i Android-program. Genom att använda API:erna i paketet kan du automatisera konverteringsprocessen från PowerPoint POTX till Word DOCM i dina appar.
-Du kan konvertera ditt givna dokument i två steg. Du kan använda [Aspose.Slides för Andorid via Java](https://products.aspose.com/slides/android-java/) som är ett PowerPoint API för Android-applikationer för att rendera POTX till HTML. Därefter kan du konvertera HTML till DOCM genom att använda API för dokumentbearbetning [Aspose.Words för Android via Java](https://products.aspose.com/words/android-java/). 
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) tillåter manipulering av filformat i Android-program. Genom att använda API:erna i paketet kan du automatisera konverteringsprocessen från PowerPoint POTX till Word DOCM i dina appar.
+Du kan konvertera ditt givna dokument i två steg. Du kan använda [Aspose.Slides for Andorid via Java](https://products.aspose.com/slides/android-java/) som är ett PowerPoint API för Android-applikationer för att rendera POTX till HTML. Därefter kan du konvertera HTML till DOCM genom att använda API för dokumentbearbetning [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="POTX till DOCM-rendering i Android" %}}
 1. Öppna POTX-filen med klassen [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Konvertera POTX till HTML genom att använda [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-)-metoden och ställ in Html som SaveFormat
-3. Ladda den konverterade HTML-filen med klassen [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument)
-4. Spara dokumentet i DOCM-format med metoden [save](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,int)) och ställ in Docm som SaveFormat
+3. Ladda den konverterade HTML-filen med klassen [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. Spara dokumentet i DOCM-format med metoden [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) och ställ in Docm som SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
-Du kan enkelt använda Aspose.Total för Android via Java direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) och installera [Aspose.Slides för Android via Java](https://docms.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) och [Aspose.Words for Andorid via Java](https://docms.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) i din applikationer.
+Du kan enkelt använda Aspose.Total for Android via Java direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) och installera [Aspose.Slides for Android via Java](https://docms.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) och [Aspose.Words for Andorid via Java](https://docms.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) i din applikationer.
 
 Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -36,8 +36,8 @@ Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com
 Presentation presentation = new Presentation("input.potx");
 // save the presentation as HTML
 presentation.save("htmlOutput.html", SaveFormat.Html);
-// load HTML with an instance of Docmument
-Docmument docmument = new Docmument("htmlOutput.html");
+// load HTML with an instance of Document
+Document docmument = new Document("htmlOutput.html");
 // save docmument in DOCM format
 docmument.save("output.docm",SaveFormat.Docmm);   
 ```

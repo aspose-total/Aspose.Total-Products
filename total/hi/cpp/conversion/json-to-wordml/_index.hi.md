@@ -19,9 +19,9 @@ otherformats: MOBI ODT DOTX DOT RTF EPUB CHM PCL DOC PS WORD OTT DOCM FLATOPC
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="JSON फॉर्मेट को C++ में WORDML में बदलें" %}}
 1. एक नया [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) ऑब्जेक्ट बनाएं और फ़ाइल से मान्य JSON डेटा पढ़ें
-2. [सहेजें](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) विधि का उपयोग करके JSON को PDF के रूप में सहेजें
-3. [दस्तावेज़](https://reference.aspose.com/words/cpp/class/aspose.words.document) वर्ग का उपयोग करके पीडीएफ दस्तावेज़ लोड करें
-4. [सहेजें](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) विधि का उपयोग करके दस्तावेज़ को WORDML प्रारूप में सहेजें
+2. [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) विधि का उपयोग करके JSON को PDF के रूप में सहेजें
+3. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) वर्ग का उपयोग करके पीडीएफ दस्तावेज़ लोड करें
+4. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) विधि का उपयोग करके दस्तावेज़ को WORDML प्रारूप में सहेजें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
@@ -46,7 +46,7 @@ JSON को WORDML में पार्स करते समय, आप JSON
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="जेएसओएन प्रारूप को सी ++ में वॉटरमार्क के साथ सीएचएम में कनवर्ट करें" %}}
-एपीआई का उपयोग करके, आप जेएसओएन को सीएचएम को वॉटरमार्क के साथ भी पार्स कर सकते हैं। अपने सीएचएम दस्तावेज़ में वॉटरमार्क जोड़ने के लिए, आप पहले JSON को PDF में बदल सकते हैं और उसमें वॉटरमार्क जोड़ सकते हैं। वॉटरमार्क जोड़ने के लिए, [दस्तावेज़](https://reference.aspose.com/words/cpp/class/aspose.words.document) वर्ग का उपयोग करके नई बनाई गई पीडीएफ फाइल को लोड करें, टेक्स्ट वॉटरमार्क के लिए अलग-अलग गुण सेट करें,
+एपीआई का उपयोग करके, आप जेएसओएन को सीएचएम को वॉटरमार्क के साथ भी पार्स कर सकते हैं। अपने सीएचएम दस्तावेज़ में वॉटरमार्क जोड़ने के लिए, आप पहले JSON को PDF में बदल सकते हैं और उसमें वॉटरमार्क जोड़ सकते हैं। वॉटरमार्क जोड़ने के लिए, [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) वर्ग का उपयोग करके नई बनाई गई पीडीएफ फाइल को लोड करें, टेक्स्ट वॉटरमार्क के लिए अलग-अलग गुण सेट करें,
 SetText विधि को कॉल करें और वॉटरमार्क टेक्स्ट और TextWatermarkOptions का ऑब्जेक्ट पास करें। वॉटरमार्क जोड़ने के बाद, आप दस्तावेज़ को सीएचएम में सहेज सकते हैं।
 {{% blocks/products/pf/feature-page-code %}}
 

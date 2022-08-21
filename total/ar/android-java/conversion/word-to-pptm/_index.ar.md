@@ -13,20 +13,20 @@ otherformats: POTM PPT POTX POWERPOINT PPTX PPSM PPSX ODP PPS POT
 {{< blocks/products/pf/feature-page-header h1="تحويل WORD إلى PPTM في تطبيقات Android" h2="تحويل WORD إلى PPTM في تطبيقات Android دون تثبيت Microsoft Word <sup>&reg;</sup> أو PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-هل أنت مطور Android تتطلع إلى إضافة ميزة تحويل المستندات إلى تطبيقك؟ [Aspose.Total لنظام Android عبر Java](https://products.aspose.com/total/android-java/) يمكن أن تساعدك مكتبات أتمتة تنسيق الملفات في أتمتة عملية تحويل المستندات في تطبيقات Android. لتحويل ملف WORD إلى PPTM ، يمكنك أولاً استخدام واجهة برمجة تطبيقات معالجة المستندات [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) لتحويل تنسيق ملف WORD إلى HTML. بعد ذلك باستخدام PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) ، يمكنك إنشاء عرض تقديمي جديد وكتابة محتوى HTML فيه وحفظه باسم PPTM. 
+هل أنت مطور Android تتطلع إلى إضافة ميزة تحويل المستندات إلى تطبيقك؟ [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) يمكن أن تساعدك مكتبات أتمتة تنسيق الملفات في أتمتة عملية تحويل المستندات في تطبيقات Android. لتحويل ملف WORD إلى PPTM ، يمكنك أولاً استخدام واجهة برمجة تطبيقات معالجة المستندات [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) لتحويل تنسيق ملف WORD إلى HTML. بعد ذلك باستخدام PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) ، يمكنك إنشاء عرض تقديمي جديد وكتابة محتوى HTML فيه وحفظه باسم PPTM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل WORD إلى PPTM في Android" %}}
 1. افتح ملف WORD باستخدام فئة [Wordument](https://reference.aspose.com/words/java/com.aspose.words/Wordument)
-2. تحويل ملف WORD إلى HTML باستخدام [حفظ](https://reference.aspose.com/words/java/com.aspose.words/Wordument#save (java.lang.String، com.aspose.words.SaveOptions )) طريقة
+2. تحويل ملف WORD إلى HTML باستخدام [save](https://reference.aspose.com/words/java/com.aspose.words/Wordument#save (java.lang.String، com.aspose.words.SaveOptions )) طريقة
 3. تهيئة كائن [عرض تقديمي] جديد(https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. استخراج المحتوى من ملف HTML باستخدام BufferedReader وكتابة المحتوى في ملف العرض التقديمي الخاص بك
-6. احفظ المستند في PPTM باستخدام طريقة [حفظ](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. احفظ المستند في PPTM باستخدام طريقة [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-لتحويل ملف WORD إلى PPTM ، يمكنك بسهولة استخدام Aspose.Total لنظام Android عبر Java مباشرة من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) وقم بتثبيت المكتبات في تطبيقك.
+لتحويل ملف WORD إلى PPTM ، يمكنك بسهولة استخدام Aspose.Total for Android via Java مباشرة من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) وقم بتثبيت المكتبات في تطبيقك.
 
 بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

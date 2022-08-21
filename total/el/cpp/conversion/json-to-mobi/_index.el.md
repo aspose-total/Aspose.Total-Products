@@ -13,7 +13,7 @@ otherformats: WORD FLATOPC DOT RTF DOCM WORDML CHM OTT PS DOTX EPUB ODT PCL DOC
 {{< blocks/products/pf/feature-page-header h1="Μετατρέψτε τη μορφή JSON σε MOBI μέσω C++" h2="Ανάλυση JSON σε MOBI σε εφαρμογές C++ χωρίς χρήση Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Χρησιμοποιώντας το [Aspose.Total for C++](https://products.aspose.com/total/cpp/) μπορείτε να αναλύσετε το JSON σε MOBI στις εφαρμογές σας C++ με δύο απλά βήματα. Πρώτον, χρησιμοποιώντας το [Aspose.Cells για C++](https://products.aspose.com/cells/cpp/), μπορείτε να εξαγάγετε το JSON σε PDF. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Words for C++](https://products.aspose.com/words/cppp/), μπορείτε να μετατρέψετε το PDF σε MOBI. 
+Χρησιμοποιώντας το [Aspose.Total for C++](https://products.aspose.com/total/cpp/) μπορείτε να αναλύσετε το JSON σε MOBI στις εφαρμογές σας C++ με δύο απλά βήματα. Πρώτον, χρησιμοποιώντας το [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), μπορείτε να εξαγάγετε το JSON σε PDF. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Words for C++](https://products.aspose.com/words/cppp/), μπορείτε να μετατρέψετε το PDF σε MOBI. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -19,9 +19,9 @@ otherformats: WORDML PS TIFF DOC SVG DOCX BMP ODT DOT PNG DOTM PCL EPUB EMF MD D
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API لتحويل البريد الإلكتروني إلى XPS" %}}
 1. افتح ملف MSG باستخدام مرجع فئة [MailMessage](https://reference.aspose.com/msg/cpp/class/aspose.msg.mail_message)
-2. تحويل MSG إلى HTML باستخدام وظيفة العضو [حفظ](https://reference.aspose.com/msg/cpp/class/aspose.msg.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
+2. تحويل MSG إلى HTML باستخدام وظيفة العضو [Save](https://reference.aspose.com/msg/cpp/class/aspose.msg.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
 3. قم بتحميل HTML باستخدام فئة [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
-4. احفظ المستند بتنسيق XPS باستخدام طريقة [حفظ](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) وقم بتعيين Xps كـ SaveFormat
+4. احفظ المستند بتنسيق XPS باستخدام طريقة [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) وقم بتعيين Xps كـ SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}

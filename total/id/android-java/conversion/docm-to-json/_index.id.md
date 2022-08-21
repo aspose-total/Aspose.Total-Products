@@ -13,19 +13,19 @@ otherformats: XLT XLTM FODS SXC XLAM XLS EXCEL ODS XLSM DIF XLSB XLTX TSV CSV
 {{< blocks/products/pf/feature-page-header h1="Konversi Format DOCM ke JSON di Android melalui Java" h2="Rancang aplikasi Android untuk mengekspor DOCM ke JSON tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Anda dapat mengonversi format DOCM ke JSON di Aplikasi Android Anda melalui [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Dengan menggunakan manipulasi dokumen dan API konversi [Aspose.Words untuk Android melalui Java](https://products.aspose.com/words/android-java/), Anda dapat mengekspor DOCM ke HTML. Setelah itu, dengan menggunakan [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), Anda dapat mengonversi HTML ke JSON. 
+Anda dapat mengonversi format DOCM ke JSON di Aplikasi Android Anda melalui [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Dengan menggunakan manipulasi dokumen dan API konversi [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/), Anda dapat mengekspor DOCM ke HTML. Setelah itu, dengan menggunakan [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), Anda dapat mengonversi HTML ke JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konversi Format DOCM ke JSON di Android" %}}
-1. Buka file DOCM menggunakan kelas [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument)
-2. Konversi DOCM ke HTML dengan menggunakan [Simpan](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions) ) metode
+1. Buka file DOCM menggunakan kelas [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Konversi DOCM ke HTML dengan menggunakan [Simpan](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) metode
 3. Muat dokumen HTML dengan menggunakan kelas [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Simpan dokumen ke format JSON menggunakan [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) metode
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
-Anda dapat dengan mudah menggunakan Aspose.Total untuk Android melalui Java langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) dan instal pustaka di aplikasi Anda.
+Anda dapat dengan mudah menggunakan Aspose.Total for Android via Java langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) dan instal pustaka di aplikasi Anda.
 
 Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

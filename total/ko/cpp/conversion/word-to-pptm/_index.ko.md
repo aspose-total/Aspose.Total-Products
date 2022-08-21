@@ -18,8 +18,8 @@ otherformats: POTM POTX PPSM ODP POWERPOINT PPS PPTX PPT PPSX POT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++에서 WORD에서 PPTM로 변환" %}}
-1. [문서](https://reference.aspose.com/words/cpp/class/aspose.words.wordument) 클래스 참조를 사용하여 WORD 파일을 엽니다.
-2. [저장](https://reference.aspose.com/words/cpp/class/aspose.words.wordument#save_stdbasicostream_saveoptions) 멤버 함수를 사용하여 WORD를 HTML로 변환
+1. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.wordument) 클래스 참조를 사용하여 WORD 파일을 엽니다.
+2. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.wordument#save_stdbasicostream_saveoptions) 멤버 함수를 사용하여 WORD를 HTML로 변환
 3. 새 [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) 개체를 초기화합니다.
 4. 슬라이드에 도형을 추가하고 거기에 AddTextFrame을 추가합니다.
 5. HTML 콘텐츠를 로드하고 프레젠테이션 파일에 작성

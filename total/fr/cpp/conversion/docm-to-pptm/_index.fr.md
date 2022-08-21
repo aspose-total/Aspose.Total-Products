@@ -13,12 +13,12 @@ otherformats: PPT POTM PPSM ODP PPSX PPS POT POWERPOINT POTX PPTX
 {{< blocks/products/pf/feature-page-header h1="API C++ pour convertir DOCM en PPTM" h2="Exportez DOCM vers PPTM dans vos applications C++ sans utiliser Microsoft Word® ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total pour C++](https://products.aspose.com/total/cpp/) se compose de puissantes API d'automatisation de fichiers qui permettent d'automatiser la conversion DOCM en PPTM tout en utilisant deux de ses API. Chargez votre DOCM en utilisant [Aspose.Words pour C++](https://products.aspose.com/words/cpp/) et convertissez-le en HTML, puis chargez le HTML via l'API C++ de manipulation PowerPoint [Aspose.Slides pour C++]( https://products.aspose.com/slides/cpp/) pour créer une nouvelle présentation et enregistrez-la sous PPTM. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) se compose de puissantes API d'automatisation de fichiers qui permettent d'automatiser la conversion DOCM en PPTM tout en utilisant deux de ses API. Chargez votre DOCM en utilisant [Aspose.Words for C++](https://products.aspose.com/words/cpp/) et convertissez-le en HTML, puis chargez le HTML via l'API C++ de manipulation PowerPoint [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) pour créer une nouvelle présentation et enregistrez-la sous PPTM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversion DOCM en PPTM sur C++" %}}
-1. Ouvrez le fichier DOCM à l'aide de la référence de classe [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
+1. Ouvrez le fichier DOCM à l'aide de la référence de classe [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
 2. Convertir DOCM en HTML en utilisant la fonction membre [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_stdbasicostream_saveoptions)
 3. Initialisez un nouvel objet [Présentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. Ajoutez une forme automatique dans votre diapositive et ajoutez-y AddTextFrame
@@ -34,9 +34,9 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp
-// load DOCM file with an instance of Docmument
-Docmument docmument = new Docmument("template.docm");
-System::SharedPtr<Docmument> docm = System::MakeObject<Docmument>(u"sourceFile.docm");
+// load DOCM file with an instance of Document
+Document docmument = new Document("template.docm");
+System::SharedPtr<Document> docm = System::MakeObject<Document>(u"sourceFile.docm");
 // save the docmument in HTML file format
 docm->Save(u"HtmlOutput.HTML");
 // load the desired the presentation
@@ -67,20 +67,20 @@ pres->Save(output.pptm, Aspose::Slides::Export::SaveFormat::Pptm);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Charger un docmument DOCM protégé par mot de passe via C++" %}}
-Outre la conversion de docmuments, l'API [Aspose.Words pour C++](https://products.aspose.com/words/cpp/) offre des tonnes de fonctionnalités de manipulation de docmuments aux développeurs C++. Si votre format de fichier Microsoft Word DOCM est protégé par un mot de passe, vous pouvez toujours l'ouvrir à l'aide de l'API. Pour charger le docmument chiffré, vous pouvez utiliser une surcharge de constructeur spéciale, qui accepte un objet [LoadOptions](https://reference.aspose.com/words/cpp/class/aspose.words.loading.load_options). Cet objet contient la propriété Password, qui spécifie la chaîne de mot de passe.
+Outre la conversion de docmuments, l'API [Aspose.Words for C++](https://products.aspose.com/words/cpp/) offre des tonnes de fonctionnalités de manipulation de docmuments aux développeurs C++. Si votre format de fichier Microsoft Word DOCM est protégé par un mot de passe, vous pouvez toujours l'ouvrir à l'aide de l'API. Pour charger le docmument chiffré, vous pouvez utiliser une surcharge de constructeur spéciale, qui accepte un objet [LoadOptions](https://reference.aspose.com/words/cpp/class/aspose.words.loading.load_options). Cet objet contient la propriété Password, qui spécifie la chaîne de mot de passe.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp
 // when loading password protected docmument, the password is passed to the docmument's constructor using a LoadOptions object.
 auto options = MakeObject<LoadOptions>(u"docmPassword");
 // load the docmument from the local file system by filename:
-SharedPtr<Docmument> docm = MakeObject<Docmument>(u"Encrypted.docm", options);
+SharedPtr<Document> docm = MakeObject<Document>(u"Encrypted.docm", options);
 ```
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ajouter des commentaires dans le docmument PPTM via C++" %}}
-Lors de l'enregistrement du DOCM au format PPTM, vous pouvez également utiliser [Aspose.Slides pour C++](https://products.aspose.com/slides/cpp/) pour ajouter d'autres fonctionnalités dans votre docmument PPTM. Par exemple, vous pouvez ajouter des commentaires dans votre présentation. Le commentaire de la diapositive de présentation est associé à un auteur particulier. La classe Presentation contient la collection d'auteurs dans ICommentAuthorCollection qui sont responsables de l'ajout de commentaires de diapositive. Pour chaque auteur, il existe une collection de commentaires dans ICommentCollection.
+Lors de l'enregistrement du DOCM au format PPTM, vous pouvez également utiliser [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) pour ajouter d'autres fonctionnalités dans votre docmument PPTM. Par exemple, vous pouvez ajouter des commentaires dans votre présentation. Le commentaire de la diapositive de présentation est associé à un auteur particulier. La classe Presentation contient la collection d'auteurs dans ICommentAuthorCollection qui sont responsables de l'ajout de commentaires de diapositive. Pour chaque auteur, il existe une collection de commentaires dans ICommentCollection.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp

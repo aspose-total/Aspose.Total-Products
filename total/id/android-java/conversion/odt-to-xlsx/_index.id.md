@@ -25,7 +25,7 @@ Dengan menggunakan [Aspose.Total for Android via Java](https://products.aspose.c
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
-Anda dapat dengan mudah menggunakan Aspose.Total untuk Android melalui Java langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) dan instal [Aspose.Cells untuk Android melalui Java](https://odts.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via- java-from-maven-repository) dan [Aspose.Words untuk Android melalui Java](https://odts.aspose.com/words/java/install-aspose-words-for-android-via-java/#install- asposewords-for-Android-via-Java-from-maven-repository) di aplikasi Anda.
+Anda dapat dengan mudah menggunakan Aspose.Total for Android via Java langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) dan instal [Aspose.Cells for Android via Java](https://odts.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via- java-from-maven-repository) dan [Aspose.Words for Android via Java](https://odts.aspose.com/words/java/install-aspose-words-for-android-via-java/#install- asposewords-for-Android-via-Java-from-maven-repository) di aplikasi Anda.
 
 Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -46,7 +46,7 @@ Sebelum mengonversi ODT ke XLSX, Anda dapat menghapus informasi yang tidak digun
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Simpan File XLSX untuk Streaming di Android melalui Java" %}}
-Setelah mengonversi ODT ke XLSX, [Aspose.Cells untuk Android melalui Java](https://products.aspose.com/cells/android-java/) memungkinkan Anda menyimpan dokumen untuk streaming. Jika Anda perlu menyimpan file ke Stream maka Anda harus membuat objek FileOutputStream dan kemudian [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) file ke objek Stream tersebut dengan memanggil metode penyimpanan [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) obyek.
+Setelah mengonversi ODT ke XLSX, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) memungkinkan Anda menyimpan dokumen untuk streaming. Jika Anda perlu menyimpan file ke Stream maka Anda harus membuat objek FileOutputStream dan kemudian [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) file ke objek Stream tersebut dengan memanggil metode penyimpanan [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) obyek.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}

@@ -13,7 +13,7 @@ otherformats: DOC PNG DOTX DOCM WORDML MD GIF TIFF PS PDF TEXT JPEG XPS BMP FLAT
 {{< blocks/products/pf/feature-page-header h1="AndoridアプリでメールをDOTMに変換する" h2="JavaAPIを介してAndoridを使用してEMAILをDOTMにエクスポートするためのAndoridアプリケーションの設計" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Andorid Appsは、日常的にエンドユーザーにとって使いやすいものです。 Andorid電話のユーザー数は日々増加しています。強力な[Aspose.TotalforAndroid via Java](https://products.aspose.com/total/android-java/)ファイル形式自動化ライブラリを使用して、電子メール操作および変換アプリケーションを開発できます。 [Aspose.Email for Android Java](https://products.aspose.com/email/android-java/)と[Aspose.Words for Andorid Java](https://products.aspose.com/words/android-java/)。最初のAPIを使用すると、EMAILファイル形式をHTMLに変換でき、2番目のAPIを使用すると、HTMLをDOTMとしてレンダリングできます。 
+Andorid Appsは、日常的にエンドユーザーにとって使いやすいものです。 Andorid電話のユーザー数は日々増加しています。強力な[Aspose.TotalforAndroid via Java](https://products.aspose.com/total/android-java/)ファイル形式自動化ライブラリを使用して、電子メール操作および変換アプリケーションを開発できます。 [Aspose.Email for Android via Java](https://products.aspose.com/email/android-java/)と[Aspose.Words for Andorid Java](https://products.aspose.com/words/android-java/)。最初のAPIを使用すると、EMAILファイル形式をHTMLに変換でき、2番目のAPIを使用すると、HTMLをDOTMとしてレンダリングできます。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -21,7 +21,7 @@ Andorid Appsは、日常的にエンドユーザーにとって使いやすい�
 1. [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage)クラスを使用してEMAILファイルを開きます
 2. [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)を使用して、EMAILをHTMLに変換します。 )) 方法
 3. [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)クラスを使用してHTMLをロードします
-4. [保存](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)を使用してドキュメントをDOTM形式で保存します))メソッドとDOTMをSaveFormatとして設定します
+4. [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)を使用してドキュメントをDOTM形式で保存します))メソッドとDOTMをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

@@ -13,19 +13,19 @@ otherformats: XLTX XLT TSV XLS MHTML XLAM FODS SXC MARKDOWN EXCEL ODS CSV XLSM X
 {{< blocks/products/pf/feature-page-header h1="แปลง PPSX เป็น DIF ใน Android ผ่าน Java" h2="ส่งออกไฟล์ PPSX เป็น DIF ในแอปพลิเคชัน Android โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Excel หรือ PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-คุณสามารถแปลงไฟล์ PPSX เป็น DIF ในแอปพลิเคชัน Android ของคุณได้อย่างง่ายดายด้วยกระบวนการสองขั้นตอนผ่าน [Aspose.Total สำหรับ Android ผ่าน Java](https://products.aspose.com/total/android-java/) ในขั้นตอนแรก คุณสามารถส่งออกไฟล์ PPSX เป็น HTML ได้โดยใช้ [Aspose.Slides สำหรับ Android ผ่าน Java](https://products.aspose.com/slides/android-java/) ประการที่สอง โดยใช้ [Aspose.Cells สำหรับ Android ผ่าน Java](https://products.aspose.com/cells/android-java/) คุณสามารถแปลง HTML เป็น DIF 
+คุณสามารถแปลงไฟล์ PPSX เป็น DIF ในแอปพลิเคชัน Android ของคุณได้อย่างง่ายดายด้วยกระบวนการสองขั้นตอนผ่าน [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) ในขั้นตอนแรก คุณสามารถส่งออกไฟล์ PPSX เป็น HTML ได้โดยใช้ [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) ประการที่สอง โดยใช้ [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) คุณสามารถแปลง HTML เป็น DIF 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง PPSX เป็น DIF ใน Android" %}}
 1. เปิดไฟล์ PPSX โดยใช้คลาส [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. แปลง PPSX เป็น HTML โดยใช้ [บันทึก](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slidesISaveOptions-) วิธีการ
+2. แปลง PPSX เป็น HTML โดยใช้ [Save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slidesISaveOptions-) วิธีการ
 3. โหลดเอกสาร HTML โดยใช้คลาส [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. บันทึกเอกสารในรูปแบบ DIF โดยใช้ [บันทึก](https://reference.aspose.com/cells/java/com.aspose.cells/)
+4. บันทึกเอกสารในรูปแบบ DIF โดยใช้ [Save](https://reference.aspose.com/cells/java/com.aspose.cells/)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
-ในการแปลง PPSX เป็น DIF คุณสามารถใช้ Aspose.Total สำหรับ Android ผ่าน Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และติดตั้งไลบรารีในแอปของคุณ
+ในการแปลง PPSX เป็น DIF คุณสามารถใช้ Aspose.Total for Android via Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และติดตั้งไลบรารีในแอปของคุณ
 
 หรือคุณสามารถรับไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/total/androidjava)
 {{% /blocks/products/pf/agp/feature-section-col %}}

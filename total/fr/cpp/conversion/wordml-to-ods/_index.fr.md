@@ -13,7 +13,7 @@ otherformats: XLTX FODS CSV SXC EXCEL XLAM XLS XLSM XLSX XLT DIF TSV XLSB XLTM
 {{< blocks/products/pf/feature-page-header h1="API C++ pour convertir WORDML en ODS" h2="Exportez WORDML vers ODS via C++ sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Vous pouvez facilement inclure la fonction de conversion WORDML en ODS dans vos applications C++. En utilisant l'API de manipulation et de conversion de wordmluments riche en fonctionnalités, puissante et facile à utiliser [Aspose.Words pour C++](https://products.aspose.com/words/cpp/), vous pouvez exporter du WORDML vers HTML. Après cela, en utilisant [Aspose.Cells pour C++](https://products.aspose.com/cells/cpp/), vous pouvez convertir HTML en ODS. Les deux API relèvent du package [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
+Vous pouvez facilement inclure la fonction de conversion WORDML en ODS dans vos applications C++. En utilisant l'API de manipulation et de conversion de wordmluments riche en fonctionnalités, puissante et facile à utiliser [Aspose.Words for C++](https://products.aspose.com/words/cpp/), vous pouvez exporter du WORDML vers HTML. Après cela, en utilisant [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), vous pouvez convertir HTML en ODS. Les deux API relèvent du package [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -38,7 +38,7 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Accéder aux propriétés du wordmlument WORDML via C++" %}}
-[Aspose.Words pour C++](https://products.aspose.com/words/cpp/) vous permet également d'accéder aux propriétés du wordmlument du fichier WORDML et vous permet de prendre une décision éclairée avant le processus de conversion. Pour accéder aux propriétés du wordmlument, vous pouvez utiliser [BuiltInWordmlumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_wordmlument_properties) pour obtenir les propriétés intégrées et [CustomWordmlumentProperties](https:// reference.aspose.com/words/cpp/class/aspose.words.properties.custom_wordmlument_properties) pour obtenir des propriétés personnalisées. L'exemple de code suivant montre comment énumérer toutes les propriétés intégrées et personnalisées dans un wordmlument.
+[Aspose.Words for C++](https://products.aspose.com/words/cpp/) vous permet également d'accéder aux propriétés du wordmlument du fichier WORDML et vous permet de prendre une décision éclairée avant le processus de conversion. Pour accéder aux propriétés du wordmlument, vous pouvez utiliser [BuiltInWordmlumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_wordmlument_properties) pour obtenir les propriétés intégrées et [CustomWordmlumentProperties](https:// reference.aspose.com/words/cpp/class/aspose.words.properties.custom_wordmlument_properties) pour obtenir des propriétés personnalisées. L'exemple de code suivant montre comment énumérer toutes les propriétés intégrées et personnalisées dans un wordmlument.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-wordmlument-properties.cs" >}}

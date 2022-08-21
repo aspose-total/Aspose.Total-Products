@@ -13,17 +13,17 @@ otherformats: PPTM PPTX PPS PPSM ODP POT PPT POWERPOINT POTX POTM
 {{< blocks/products/pf/feature-page-header h1="C++ API pro převod DOCM na PPSX" h2="Exportujte DOCM do PPSX v rámci vašich C++ aplikací bez použití Microsoft Word&reg; nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total pro C++](https://products.aspose.com/total/cpp/) se skládá z výkonných rozhraní API pro automatizaci souborů, která umožňují automatizovat převod DOCM na PPSX při použití dvou z těchto rozhraní API. Načtěte svůj DOCM pomocí [Aspose.Words pro C++](https://products.aspose.com/words/cpp/) a převeďte jej do HTML, poté načtěte HTML pomocí manipulačního C++ API PowerPointu [Aspose.Slides pro C++]( https://products.aspose.com/slides/cpp/), vytvořte novou prezentaci a uložte ji jako PPSX. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) se skládá z výkonných rozhraní API pro automatizaci souborů, která umožňují automatizovat převod DOCM na PPSX při použití dvou z těchto rozhraní API. Načtěte svůj DOCM pomocí [Aspose.Words for C++](https://products.aspose.com/words/cpp/) a převeďte jej do HTML, poté načtěte HTML pomocí manipulačního C++ API PowerPointu [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/), vytvořte novou prezentaci a uložte ji jako PPSX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverze DOCM na PPSX v C++" %}}
-1. Otevřete soubor DOCM pomocí odkazu třídy [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
-2. Převeďte DOCM do HTML pomocí členské funkce [Uložit](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_stdbasicostream_saveoptions)
+1. Otevřete soubor DOCM pomocí odkazu třídy [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
+2. Převeďte DOCM do HTML pomocí členské funkce [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_stdbasicostream_saveoptions)
 3. Inicializujte nový objekt [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. Přidejte na snímek automatický tvar a přidejte do něj AddTextFrame
 5. Načtěte obsah HTML a zapište jej do souboru prezentace
-6. Uložte dokument do formátu PPSX pomocí metody [Uložit](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) a nastavte Ppsx jako SaveFormat
+6. Uložte dokument do formátu PPSX pomocí metody [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) a nastavte Ppsx jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
@@ -34,9 +34,9 @@ Případně si můžete stáhnout offline instalační program MSI nebo knihovny
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp
-// load DOCM file with an instance of Docmument
-Docmument docmument = new Docmument("template.docm");
-System::SharedPtr<Docmument> docm = System::MakeObject<Docmument>(u"sourceFile.docm");
+// load DOCM file with an instance of Document
+Document docmument = new Document("template.docm");
+System::SharedPtr<Document> docm = System::MakeObject<Document>(u"sourceFile.docm");
 // save the docmument in HTML file format
 docm->Save(u"HtmlOutput.HTML");
 // load the desired the presentation
@@ -74,13 +74,13 @@ Kromě převodu dokumentů umožňuje [Aspose.Words for C++](https://products.as
 // when loading password protected docmument, the password is passed to the docmument's constructor using a LoadOptions object.
 auto options = MakeObject<LoadOptions>(u"docmPassword");
 // load the docmument from the local file system by filename:
-SharedPtr<Docmument> docm = MakeObject<Docmument>(u"Encrypted.docm", options);
+SharedPtr<Document> docm = MakeObject<Document>(u"Encrypted.docm", options);
 ```
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Přidejte komentáře do dokumentu PPSX prostřednictvím C++" %}}
-Při ukládání DOCM jako PPSX můžete také použít [Aspose.Slides pro C++](https://products.aspose.com/slides/cpp/) k přidání dalších funkcí do dokumentu PPSX. Do prezentace můžete například přidávat komentáře. Komentář ke snímku prezentace je spojen s konkrétním autorem. Třída Presentation obsahuje kolekci autorů v ICommentAuthorCollection, kteří jsou zppsxovědní za přidávání komentářů ke snímkům. Pro každého autora je v ICommentCollection sbírka komentářů.
+Při ukládání DOCM jako PPSX můžete také použít [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) k přidání dalších funkcí do dokumentu PPSX. Do prezentace můžete například přidávat komentáře. Komentář ke snímku prezentace je spojen s konkrétním autorem. Třída Presentation obsahuje kolekci autorů v ICommentAuthorCollection, kteří jsou zppsxovědní za přidávání komentářů ke snímkům. Pro každého autora je v ICommentCollection sbírka komentářů.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp

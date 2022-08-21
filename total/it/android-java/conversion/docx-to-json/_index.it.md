@@ -13,19 +13,19 @@ otherformats: XLAM XLSM DIF XLT CSV XLTX XLSX TSV ODS XLTM EXCEL FODS XLS XLSB
 {{< blocks/products/pf/feature-page-header h1="Converti DOCX in formato JSON in Android tramite Java" h2="Progetta applicazioni Android per esportare DOCX in JSON senza utilizzare Microsoft<sup>&reg;</sup> Word o Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Puoi convertire DOCX in formato JSON nelle tue applicazioni Android tramite [Aspose.Total per Android via Java](https://products.aspose.com/total/android-java/). Utilizzando l'API di conversione e manipolazione dei docxumenti [Aspose.Words per Android tramite Java](https://products.aspose.com/words/android-java/), puoi esportare DOCX in HTML. Successivamente, utilizzando [Aspose.Cells per Android tramite Java](https://products.aspose.com/cells/android-java/), puoi convertire HTML in JSON. 
+Puoi convertire DOCX in formato JSON nelle tue applicazioni Android tramite [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Utilizzando l'API di conversione e manipolazione dei docxumenti [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/), puoi esportare DOCX in HTML. Successivamente, utilizzando [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), puoi convertire HTML in JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converti DOCX in formato JSON in Android" %}}
 1. Aprire il file DOCX utilizzando la classe [Docxument](https://reference.aspose.com/words/java/com.aspose.words/Docxument)
-2. Converti DOCX in HTML utilizzando [Salva](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,com.aspose.words.SaveOptions) ) metodo
+2. Converti DOCX in HTML utilizzando [Save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,com.aspose.words.SaveOptions) ) metodo
 3. Carica il docxumento HTML utilizzando la classe [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Salvare il docxumento in formato JSON utilizzando [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
-Puoi facilmente utilizzare Aspose.Total per Android tramite Java direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e installa le librerie nella tua app.
+Puoi facilmente utilizzare Aspose.Total for Android via Java direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e installa le librerie nella tua app.
 
 In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

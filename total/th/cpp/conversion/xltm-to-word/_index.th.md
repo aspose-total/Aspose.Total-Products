@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: PPTX POWERPOINT DOCX DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลง XLTM เป็น WORD ผ่าน C++" h2="ส่งออก Excel&reg; XLTM เป็น WORD ภายในแอปพลิเคชัน C++ ที่ทำงานได้เต็มรูปแบบ" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง XLTM เป็น WORD ผ่าน C++" h2="ส่งออก Excel<sup>&reg;</sup> XLTM เป็น WORD ภายในแอปพลิเคชัน C++ ที่ทำงานได้เต็มรูปแบบ" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="การแปลง XLTM เป็น WORD บน C++" %}}

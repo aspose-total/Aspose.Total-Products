@@ -19,9 +19,9 @@ otherformats: JPEG PS DOT DOCM DOCX RTF DOTM EPUB ODT BMP PNG DOC PDF EMF PCL GI
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API لتحويل البريد الإلكتروني إلى TIFF" %}}
 1. افتح ملف EML باستخدام مرجع فئة [MailMessage](https://reference.aspose.com/eml/cpp/class/aspose.eml.mail_message)
-2. تحويل EML إلى HTML باستخدام وظيفة العضو [حفظ](https://reference.aspose.com/eml/cpp/class/aspose.eml.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
+2. تحويل EML إلى HTML باستخدام وظيفة العضو [Save](https://reference.aspose.com/eml/cpp/class/aspose.eml.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
 3. قم بتحميل HTML باستخدام فئة [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
-4. احفظ المستند بتنسيق TIFF باستخدام طريقة [حفظ](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) وقم بتعيين Tiff كـ SaveFormat
+4. احفظ المستند بتنسيق TIFF باستخدام طريقة [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) وقم بتعيين Tiff كـ SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}

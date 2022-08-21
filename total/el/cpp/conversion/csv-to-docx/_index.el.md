@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: POWERPOINT DOC PPTX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή CSV σε DOCX μέσω C++" h2="Εξαγωγή Excel&reg; CSV σε DOCX σε πλήρως λειτουργικές εφαρμογές C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή CSV σε DOCX μέσω C++" h2="Εξαγωγή Excel<sup>&reg;</sup> CSV σε DOCX σε πλήρως λειτουργικές εφαρμογές C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Μετατροπή CSV σε DOCX σε C++" %}}

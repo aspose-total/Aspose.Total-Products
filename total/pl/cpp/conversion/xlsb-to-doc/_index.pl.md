@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCX WORD POWERPOINT PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj XLSB na DOC za pomocą C++" h2="Eksportuj Excel&reg; XLSB do DOC w ramach w pełni funkcjonalnych aplikacji C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj XLSB na DOC za pomocą C++" h2="Eksportuj Excel<sup>&reg;</sup> XLSB do DOC w ramach w pełni funkcjonalnych aplikacji C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konwersja XLSB do DOC w C++" %}}

@@ -21,7 +21,7 @@ otherformats: XLSM XLSX SXC XLAM TSV XLTM FODS ODS XLSB XLTX MARKDOWN XLT XLS DI
 1. [プレゼンテーション](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)クラスを使用してPPTXファイルを開きます
 2. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides)を使用してPPTXをHTMLに変換します。ISaveOptions-)メソッド
 3. [ワークブック](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)クラスを使用してHTMLドキュメントをロードします
-4. [保存](https://reference.aspose.com/cells/java/com.aspose.cells/)を使用してドキュメントをCSV形式で保存します
+4. [Save](https://reference.aspose.com/cells/java/com.aspose.cells/)を使用してドキュメントをCSV形式で保存します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

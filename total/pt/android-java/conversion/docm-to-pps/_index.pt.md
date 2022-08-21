@@ -18,15 +18,15 @@ Você é um desenvolvedor Android que deseja adicionar um recurso de conversão 
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Como converter DOCM para PPS no Android" %}}
-1. Abra o arquivo DOCM usando a classe [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument)
-2. Converta o arquivo DOCM em HTML usando [save](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions )) método
+1. Abra o arquivo DOCM usando a classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Converta o arquivo DOCM em HTML usando [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions )) método
 3. Inicialize um novo objeto [Apresentação](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraia o conteúdo do arquivo HTML usando o BufferedReader e escreva o conteúdo em seu arquivo de apresentação
 6. Salve o docmumento no PPS usando o método [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
-Para conversão de arquivos DOCM para PPS, você pode facilmente usar o Aspose.Total para Android via Java diretamente do [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e instale bibliotecas em seu aplicativo.
+Para conversão de arquivos DOCM para PPS, você pode facilmente usar o Aspose.Total for Android via Java diretamente do [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e instale bibliotecas em seu aplicativo.
 
 Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -39,7 +39,7 @@ Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloa
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Converter DOCM protegido para PPS no Android via Java" %}}
-Você também pode converter seu DOCM protegido por senha para PPS em seus aplicativos Android. Se o docmumento DOCM de entrada estiver protegido por senha, você não poderá convertê-lo para o formato PPS sem usar a senha. Para abrir um docmumento criptografado, você pode definir a senha correta no objeto LoadOptions e passá-la para o construtor Docmument.
+Você também pode converter seu DOCM protegido por senha para PPS em seus aplicativos Android. Se o docmumento DOCM de entrada estiver protegido por senha, você não poderá convertê-lo para o formato PPS sem usar a senha. Para abrir um docmumento criptografado, você pode definir a senha correta no objeto LoadOptions e passá-la para o construtor Document.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}

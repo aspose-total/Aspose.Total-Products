@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: WORD DOC PPTX POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Конвертировать SXC в DOCX через C++" h2="Экспорт Excel&reg; SXC в DOCX в полнофункциональных приложениях C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Конвертировать SXC в DOCX через C++" h2="Экспорт Excel<sup>&reg;</sup> SXC в DOCX в полнофункциональных приложениях C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование SXC в DOCX на C++" %}}

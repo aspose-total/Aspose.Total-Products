@@ -21,7 +21,7 @@ otherformats: RTF OTT DOC WORDML FLATOPC ODT DOTM DOCX DOTX TEXT DOCM WORD
 1. Carregue o arquivo POTM usando a referência de classe [Apresentação](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 2. Renderize POTM para HTML usando a função de membro [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) e defina Html como SaveFormat
 3. Carregue o arquivo HTML convertido usando a referência de classe [Dotument](https://reference.aspose.com/words/cpp/class/aspose.words.dotument)
-4. Salve o dotumento no formato DOT usando a função de membro [Salvar](https://reference.aspose.com/words/cpp/class/aspose.words.dotument#save_string)
+4. Salve o dotumento no formato DOT usando a função de membro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotument#save_string)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}

@@ -13,7 +13,7 @@ otherformats: SXC XLSM XLSB TSV XLAM XLT DIF EXCEL XLTX CSV XLTM FODS ODS XLSX
 {{< blocks/products/pf/feature-page-header h1="Convertir DOTX au format JSON via C++" h2="Exportez DOTX vers JSON via C++ sans utiliser Microsoft<sup>&reg;</sup> Word ou Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour C++](https://products.aspose.com/total/cpp/), vous pouvez convertir le format DOTX au format JSON dans vos applications C++. Tout d'abord, en utilisant [Aspose.Words pour C++](https://products.aspose.com/words/cpp/), vous pouvez exporter DOTX vers HTML. Après cela, en utilisant [Aspose.Cells pour C++](https://products.aspose.com/cells/cpp/), vous pouvez convertir le HTML au format JSON. 
+En utilisant [Aspose.Total for C++](https://products.aspose.com/total/cpp/), vous pouvez convertir le format DOTX au format JSON dans vos applications C++. Tout d'abord, en utilisant [Aspose.Words for C++](https://products.aspose.com/words/cpp/), vous pouvez exporter DOTX vers HTML. Après cela, en utilisant [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), vous pouvez convertir le HTML au format JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

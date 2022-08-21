@@ -13,7 +13,7 @@ otherformats: POT POTX PPS POTM PPTM ODP PPT PPTX PPSX POWERPOINT CSV DIF FODS O
 {{< blocks/products/pf/feature-page-header h1="แปลง OTT เป็น PPSM ในแอพ Android" h2="การแปลง OTT เป็น PPSM ในแอปพลิเคชัน Android ของคุณโดยไม่ต้องติดตั้ง Microsoft Word<sup>&reg;</sup> หรือ PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-คุณเป็นนักพัฒนา Android ที่ต้องการเพิ่มคุณสมบัติการแปลงเอกสารในแอปพลิเคชันของคุณหรือไม่? [Aspose.Total สำหรับ Android ผ่าน Java](https://products.aspose.com/total/android-java/) ไลบรารีระบบอัตโนมัติของรูปแบบไฟล์ช่วยให้คุณทำกระบวนการแปลงเอกสารในแอปพลิเคชัน Android ได้โดยอัตโนมัติ ในการแปลงไฟล์ OTT เป็น PPSM ขั้นแรก คุณสามารถใช้ API การจัดการเอกสาร [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) เพื่อแปลงรูปแบบไฟล์ OTT เป็น HTML ได้ หลังจากนั้นโดยใช้ PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) คุณสามารถสร้างงานนำเสนอใหม่ เขียนเนื้อหา HTML ในนั้น และบันทึกเป็น อปท. 
+คุณเป็นนักพัฒนา Android ที่ต้องการเพิ่มคุณสมบัติการแปลงเอกสารในแอปพลิเคชันของคุณหรือไม่? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) ไลบรารีระบบอัตโนมัติของรูปแบบไฟล์ช่วยให้คุณทำกระบวนการแปลงเอกสารในแอปพลิเคชัน Android ได้โดยอัตโนมัติ ในการแปลงไฟล์ OTT เป็น PPSM ขั้นแรก คุณสามารถใช้ API การจัดการเอกสาร [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) เพื่อแปลงรูปแบบไฟล์ OTT เป็น HTML ได้ หลังจากนั้นโดยใช้ PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) คุณสามารถสร้างงานนำเสนอใหม่ เขียนเนื้อหา HTML ในนั้น และบันทึกเป็น อปท. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -26,7 +26,7 @@ otherformats: POT POTX PPS POTM PPTM ODP PPT PPTX PPSX POWERPOINT CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
-สำหรับการแปลงไฟล์ OTT เป็น PPSM คุณสามารถใช้ Aspose.Total สำหรับ Android ผ่าน Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และติดตั้งไลบรารีในแอปของคุณ
+สำหรับการแปลงไฟล์ OTT เป็น PPSM คุณสามารถใช้ Aspose.Total for Android via Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และติดตั้งไลบรารีในแอปของคุณ
 
 หรือคุณสามารถรับไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/total/androidjava)
 {{% /blocks/products/pf/agp/feature-section-col %}}

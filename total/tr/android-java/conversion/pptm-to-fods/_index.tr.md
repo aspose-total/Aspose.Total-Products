@@ -13,7 +13,7 @@ otherformats: XLSB EXCEL DIF ODS XLSM SXC MHTML XLAM XLSX MARKDOWN XLTX TSV XLTM
 {{< blocks/products/pf/feature-page-header h1="Java ile Android'de PPTM'u FODS'ye dönüştürün" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan Android uygulamalarında PPTM dosyasını FODS'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) aracılığıyla iki aşamalı bir işlemle PPTM dosyasını Android uygulamalarınızda kolayca FODS'ye dönüştürebilirsiniz. İlk adımda, [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) kullanarak PPTM dosyasını HTML'ye aktarabilirsiniz. İkinci olarak, [Java üzerinden Aspose.Cells for Android](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi FODS'ye dönüştürebilirsiniz. 
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) aracılığıyla iki aşamalı bir işlemle PPTM dosyasını Android uygulamalarınızda kolayca FODS'ye dönüştürebilirsiniz. İlk adımda, [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) kullanarak PPTM dosyasını HTML'ye aktarabilirsiniz. İkinci olarak, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi FODS'ye dönüştürebilirsiniz. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

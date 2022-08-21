@@ -19,9 +19,9 @@ Converter XSLFO para XLT em C++ por meio de bibliotecas de automação de format
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API C++ para converter XSLFO em XLT" %}}
 1. Abra o arquivo XSLFO usando a referência de classe [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)
-2. Converta XSLFO para XLSX usando a função de membro [Salvar](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db)
+2. Converta XSLFO para XLSX usando a função de membro [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db)
 3. Carregue o documento XLSX usando a referência de classe [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
-4. Salve o documento no formato XLT usando a função de membro [Salvar](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
+4. Salve o documento no formato XLT usando a função de membro [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
@@ -38,7 +38,7 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Obter ou definir informações do arquivo XSLFO via C++" %}}
-[Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) também permite que você obtenha informações sobre seu documento XSLFO e tome decisões informadas antes do processo de conversão. Para obter informações específicas de um arquivo XSLFO, primeiro você precisa chamar o método [get_Info()](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#ae7a6ba620499ffa0dbaa5c813ee96c4a) de [Documento](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) classe. Depois que o objeto DocumentInfo for recuperado, você poderá obter os valores das propriedades individuais. Além disso, você também pode definir as propriedades usando os respectivos métodos da classe DocumentInfo.
+[Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) também permite que você obtenha informações sobre seu documento XSLFO e tome decisões informadas antes do processo de conversão. Para obter informações específicas de um arquivo XSLFO, primeiro você precisa chamar o método [get_Info()](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#ae7a6ba620499ffa0dbaa5c813ee96c4a) de [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) classe. Depois que o objeto DocumentInfo for recuperado, você poderá obter os valores das propriedades individuais. Além disso, você também pode definir as propriedades usando os respectivos métodos da classe DocumentInfo.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}

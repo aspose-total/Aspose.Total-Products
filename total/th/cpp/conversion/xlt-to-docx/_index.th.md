@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: DOC PPTX WORD POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลง XLT เป็น DOCX ผ่าน C++" h2="ส่งออก Excel&reg; XLT เป็น DOCX ภายในแอปพลิเคชัน C++ ที่ทำงานได้เต็มรูปแบบ" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง XLT เป็น DOCX ผ่าน C++" h2="ส่งออก Excel<sup>&reg;</sup> XLT เป็น DOCX ภายในแอปพลิเคชัน C++ ที่ทำงานได้เต็มรูปแบบ" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="การแปลง XLT เป็น DOCX บน C++" %}}

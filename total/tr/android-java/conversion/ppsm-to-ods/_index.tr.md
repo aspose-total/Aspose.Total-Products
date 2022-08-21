@@ -13,7 +13,7 @@ otherformats: MARKDOWN XLAM XLTX TSV CSV FODS SXC MHTML EXCEL XLS XLSB XLSX XLTM
 {{< blocks/products/pf/feature-page-header h1="Java ile Android'de PPSM'u ODS'ye dönüştürün" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan Android uygulamalarında PPSM dosyasını ODS'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) aracılığıyla iki aşamalı bir işlemle PPSM dosyasını Android uygulamalarınızda kolayca ODS'ye dönüştürebilirsiniz. İlk adımda, [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) kullanarak PPSM dosyasını HTML'ye aktarabilirsiniz. İkinci olarak, [Java üzerinden Aspose.Cells for Android](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi ODS'ye dönüştürebilirsiniz. 
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) aracılığıyla iki aşamalı bir işlemle PPSM dosyasını Android uygulamalarınızda kolayca ODS'ye dönüştürebilirsiniz. İlk adımda, [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) kullanarak PPSM dosyasını HTML'ye aktarabilirsiniz. İkinci olarak, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi ODS'ye dönüştürebilirsiniz. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

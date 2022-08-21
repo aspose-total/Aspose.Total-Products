@@ -19,7 +19,7 @@ otherformats: POWERPOINT POTX ODP POTM POT PPS PPTM PPSX PPTX PPT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversão de DOC para PPSM em C++" %}}
 1. Abra o arquivo DOC usando a referência de classe [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
-2. Converta DOC para HTML usando a função de membro [Salvar](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stdbasicostream_saveoptions)
+2. Converta DOC para HTML usando a função de membro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stdbasicostream_saveoptions)
 3. Inicialize um novo objeto [Apresentação](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. Adicione uma AutoForma em seu slide e adicione AddTextFrame nele
 5. Carregue o conteúdo HTML e escreva-o em seu arquivo de apresentação

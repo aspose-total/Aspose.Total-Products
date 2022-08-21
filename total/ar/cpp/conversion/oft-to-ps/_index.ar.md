@@ -19,9 +19,9 @@ otherformats: RTF DOTM TIFF FLATOPC WORDML MD PDF BMP PNG XPS GIF PCL EMF SVG DO
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API لتحويل البريد الإلكتروني إلى PS" %}}
 1. افتح ملف OFT باستخدام مرجع فئة [MailMessage](https://reference.aspose.com/oft/cpp/class/aspose.oft.mail_message)
-2. تحويل OFT إلى HTML باستخدام وظيفة العضو [حفظ](https://reference.aspose.com/oft/cpp/class/aspose.oft.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
+2. تحويل OFT إلى HTML باستخدام وظيفة العضو [Save](https://reference.aspose.com/oft/cpp/class/aspose.oft.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
 3. قم بتحميل HTML باستخدام فئة [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
-4. احفظ المستند بتنسيق PS باستخدام طريقة [حفظ](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) وقم بتعيين Ps كـ SaveFormat
+4. احفظ المستند بتنسيق PS باستخدام طريقة [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) وقم بتعيين Ps كـ SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}

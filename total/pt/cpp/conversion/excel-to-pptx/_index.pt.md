@@ -10,14 +10,14 @@ outformat: PPTX
 otherformats: DOC WORD DOCX POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter EXCEL para PPTX via C++" h2="Exportar Excel&reg; EXCEL para PPTX em aplicativos C++ totalmente funcionais" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter EXCEL para PPTX via C++" h2="Exportar Excel<sup>&reg;</sup> EXCEL para PPTX em aplicativos C++ totalmente funcionais" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversão de EXCEL para PPTX em C++" %}}
 1. Abra o arquivo EXCEL usando a função de membro [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) de [Factory](https://reference.aspose.com/cells/cpp/class/aspose.cells.factory) referência de classe
 2. Converta EXCEL para PDF e defina SaveFormat para PDF
 3. Carregue o arquivo PDF convertido usando a referência de classe [Pptxument](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.pptxument)
-4. Salve o pptxumento no formato PPTX usando a função de membro [Salvar](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.pptxument#a6383c010776212483f51cc41235924db) e defina Pptx como SaveFormat
+4. Salve o pptxumento no formato PPTX usando a função de membro [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.pptxument#a6383c010776212483f51cc41235924db) e defina Pptx como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}

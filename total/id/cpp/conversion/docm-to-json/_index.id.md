@@ -18,7 +18,7 @@ Dengan menggunakan [Aspose.Total for C++](https://products.aspose.com/total/cpp/
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konversi Format DOCM ke JSON melalui C++" %}}
-1. Buka file DOCM menggunakan referensi kelas [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
+1. Buka file DOCM menggunakan referensi kelas [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
 2. Konversi DOCM ke HTML dengan menggunakan fungsi anggota [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string_saveformat)
 3. Muat dokumen HTML dengan menggunakan referensi kelas [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
 4. Simpan dokumen ke format JSON menggunakan fungsi anggota [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)

@@ -20,7 +20,7 @@ otherformats: OTT DOTX ODT TEXT FLATOPC WORD DOCM DOTM DOCX RTF DOT WORDML
 {{% blocks/products/pf/agp/feature-section-col title="PPT'u DOC'a Dönüştürmek için C++ API" %}}
 1. [Sunum](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) sınıf referansını kullanarak PPT dosyasını yükleyin
 2. [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) üye işlevini kullanarak PPT'u HTML'ye dönüştürün ve Html'yi SaveFormat olarak ayarlayın
-3. Dönüştürülen HTML dosyasını [Belge](https://reference.aspose.com/words/cpp/class/aspose.words.document) sınıf referansını kullanarak yükleyin
+3. Dönüştürülen HTML dosyasını [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) sınıf referansını kullanarak yükleyin
 4. [Kaydet](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string) üye işlevini kullanarak belgeyi DOC biçiminde kaydedin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

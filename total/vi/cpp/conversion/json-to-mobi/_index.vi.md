@@ -10,10 +10,10 @@ outformat: MOBI
 otherformats: WORD FLATOPC DOT RTF DOCM WORDML CHM OTT PS DOTX EPUB ODT PCL DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi định dạng JSON sang MOBI thông qua C++" h2="Phân tích cú pháp JSON thành MOBI trong các ứng dụng C++ mà không cần sử dụng Microsoft <sup> <sup>&reg;</sup>; </sup> Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi định dạng JSON sang MOBI thông qua C++" h2="Phân tích cú pháp JSON thành MOBI trong các ứng dụng C++ mà không cần sử dụng Microsoft <sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Bằng cách sử dụng [Aspose.Total cho C++](https://products.aspose.com/total/cpp/), bạn có thể phân tích cú pháp JSON thành MOBI trong các ứng dụng C++ của mình bằng hai bước đơn giản. Đầu tiên, bằng cách sử dụng [Aspose.Cells cho C++](https://products.aspose.com/cells/cpp/), bạn có thể xuất JSON sang PDF. Sau đó, bằng cách sử dụng [Aspose.Words for C++](https://products.aspose.com/words/cppp/), bạn có thể chuyển đổi PDF sang MOBI. 
+Bằng cách sử dụng [Aspose.Total for C++](https://products.aspose.com/total/cpp/), bạn có thể phân tích cú pháp JSON thành MOBI trong các ứng dụng C++ của mình bằng hai bước đơn giản. Đầu tiên, bằng cách sử dụng [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), bạn có thể xuất JSON sang PDF. Sau đó, bằng cách sử dụng [Aspose.Words for C++](https://products.aspose.com/words/cppp/), bạn có thể chuyển đổi PDF sang MOBI. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -27,7 +27,7 @@ Bằng cách sử dụng [Aspose.Total cho C++](https://products.aspose.com/tota
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
 Cài đặt thông qua Bảng điều khiển Trình quản lý Gói của Visual Studio với `` Cài đặt Gói Aspose.Total.Cpp ''.
 
-Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://downloads.aspose.com/total/cpp).
+Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [download](https://downloads.aspose.com/total/cpp).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 
@@ -46,7 +46,7 @@ Trong khi phân tích cú pháp JSON thành MOBI, bạn cũng có thể đặt k
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Chuyển đổi định dạng JSON thành MOBI với Watermark trong C++" %}}
-Sử dụng API, bạn cũng có thể phân tích cú pháp JSON thành MOBI với hình mờ. Để thêm hình mờ vào tài liệu MOBI của bạn, trước tiên bạn có thể chuyển đổi JSON sang PDF và thêm hình mờ vào tài liệu đó. Để thêm hình mờ, hãy tải tệp PDF mới được tạo bằng cách sử dụng lớp [Tài liệu](https://reference.aspose.com/words/cpp/class/aspose.words.document), đặt các thuộc tính khác nhau cho hình mờ văn bản,
+Sử dụng API, bạn cũng có thể phân tích cú pháp JSON thành MOBI với hình mờ. Để thêm hình mờ vào tài liệu MOBI của bạn, trước tiên bạn có thể chuyển đổi JSON sang PDF và thêm hình mờ vào tài liệu đó. Để thêm hình mờ, hãy tải tệp PDF mới được tạo bằng cách sử dụng lớp [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document), đặt các thuộc tính khác nhau cho hình mờ văn bản,
 gọi phương thức SetText và chuyển văn bản & đối tượng watermark của TextWatermarkOptions. Sau khi thêm hình mờ, bạn có thể lưu tài liệu vào MOBI.
 {{% blocks/products/pf/feature-page-code %}}
 

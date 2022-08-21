@@ -13,7 +13,7 @@ otherformats: POTM PPTM ODP PPTX PPSM PPT POTX POWERPOINT PPS PPSX
 {{< blocks/products/pf/feature-page-header h1="C++ API для преобразования RTF в POT" h2="Экспортируйте RTF в POT в приложениях C++ без использования Microsoft Word&reg; или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) состоит из мощных API-интерфейсов для автоматизации файлов, которые позволяют автоматизировать преобразование RTF в POT при использовании двух API-интерфейсов. Загрузите свой RTF с помощью [Aspose.Words для C++](https://products.aspose.com/words/cpp/) и преобразуйте его в HTML, затем загрузите HTML с помощью C++ API для обработки PowerPoint [Aspose.Slides для C++]( https://products.aspose.com/slides/cpp/), чтобы создать новую презентацию и сохранить ее как POT. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) состоит из мощных API-интерфейсов для автоматизации файлов, которые позволяют автоматизировать преобразование RTF в POT при использовании двух API-интерфейсов. Загрузите свой RTF с помощью [Aspose.Words for C++](https://products.aspose.com/words/cpp/) и преобразуйте его в HTML, затем загрузите HTML с помощью C++ API для обработки PowerPoint [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/), чтобы создать новую презентацию и сохранить ее как POT. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

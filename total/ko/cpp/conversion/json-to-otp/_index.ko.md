@@ -21,7 +21,7 @@ otherformats: PPSX PPS POTM PPT POT PPTM ODP POTX PPSM POWERPOINT
 1. 새 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 개체를 만들고 파일에서 유효한 JSON 데이터를 읽습니다.
 2. [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) 메서드를 사용하여 JSON을 PPTX로 저장합니다.
 3. [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) 클래스를 사용하여 PPTX 문서 로드
-4. [저장](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) 메서드를 사용하여 문서를 OTP 형식으로 저장합니다.
+4. [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) 메서드를 사용하여 문서를 OTP 형식으로 저장합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}

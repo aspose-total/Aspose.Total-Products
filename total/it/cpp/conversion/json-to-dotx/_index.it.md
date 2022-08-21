@@ -19,7 +19,7 @@ Utilizzando [Aspose.Total for C++](https://products.aspose.com/total/cpp/) puoi 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converti il formato JSON in DOTX in C++" %}}
 1. Crea un nuovo oggetto [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) e leggi dati JSON validi dal file
-2. Salva JSON come PDF utilizzando il metodo [Salva](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
+2. Salva JSON come PDF utilizzando il metodo [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
 3. Caricare il documento PDF utilizzando la classe [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
 4. Salvare il documento in formato DOTX utilizzando il metodo [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -13,7 +13,7 @@ otherformats: OTP PPSX POTM POTX PPSM XAML SWF POWERPOINT PPTM PPT POT PPS
 {{< blocks/products/pf/feature-page-header h1="Rendre XPS en ODP dans les applications C++" h2="Convertissez XPS en ODP dans vos applications C++ sans utiliser Microsoft<sup>&reg;</sup> PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Êtes-vous un développeur C++ cherchant à intégrer la fonction de conversion XPS vers ODP dans vos applications C++ ? Vous pouvez le faire en deux étapes simples. Vous pouvez exporter XPS vers PPTX en utilisant [Aspose.PDF pour C++](https://products.aspose.com/pdf/cpp/). Deuxièmement, en utilisant [Aspose.Slides pour C++](https://products.aspose.com/slides/cpp/), vous pouvez convertir PPTX en ODP. Les deux API relèvent du package [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
+Êtes-vous un développeur C++ cherchant à intégrer la fonction de conversion XPS vers ODP dans vos applications C++ ? Vous pouvez le faire en deux étapes simples. Vous pouvez exporter XPS vers PPTX en utilisant [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/). Deuxièmement, en utilisant [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), vous pouvez convertir PPTX en ODP. Les deux API relèvent du package [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -46,7 +46,7 @@ prs->Save(u"output.odp", Aspose::Slides::Export::SaveFormat::Odp);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Changer le mot de passe du document XPS via C++" %}}
-Lors du processus de conversion de XPS en ODP, vous pouvez ouvrir un XPS protégé par mot de passe et également modifier son mot de passe. Pour changer le mot de passe d'un fichier XPS, vous devez connaître le mot de passe du propriétaire de ce document. Vous pouvez charger un document PDF protégé par mot de passe avec [Aspose.PDF pour C++](https://products.aspose.com/pdf/cpp/) en spécifiant son mot de passe propriétaire et en utilisant la méthode ChangePasswords pour changer le mot de passe.
+Lors du processus de conversion de XPS en ODP, vous pouvez ouvrir un XPS protégé par mot de passe et également modifier son mot de passe. Pour changer le mot de passe d'un fichier XPS, vous devez connaître le mot de passe du propriétaire de ce document. Vous pouvez charger un document PDF protégé par mot de passe avec [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) en spécifiant son mot de passe propriétaire et en utilisant la méthode ChangePasswords pour changer le mot de passe.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp
@@ -61,7 +61,7 @@ doc->Save(L"output.Doc");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ajouter des images à partir du Web dans un fichier ODP via C++" %}}
-Après avoir converti XPS en ODP, vous pouvez également ajouter des images du Web à votre document de sortie. [Aspose.Slides pour C++](https://products.aspose.com/slides/cpp/) prend en charge les opérations avec des images dans ces formats populaires : JPEG, PNG, BMP, GIF et autres. Vous pouvez ajouter une ou plusieurs images de votre ordinateur sur une diapositive d'une présentation. Cet exemple de code en C++ vous montre comment ajouter une image à un fichier ODP
+Après avoir converti XPS en ODP, vous pouvez également ajouter des images du Web à votre document de sortie. [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) prend en charge les opérations avec des images dans ces formats populaires : JPEG, PNG, BMP, GIF et autres. Vous pouvez ajouter une ou plusieurs images de votre ordinateur sur une diapositive d'une présentation. Cet exemple de code en C++ vous montre comment ajouter une image à un fichier ODP
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp

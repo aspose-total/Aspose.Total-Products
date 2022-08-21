@@ -13,7 +13,7 @@ otherformats: POWERPOINT PPSX PPSM PPT OTP POT POTM PPS POTX ODP
 {{< blocks/products/pf/feature-page-header h1="Converteer JSON-indeling naar PPTM in Android" h2="JSON-indeling ontleden naar PPTM in Android-applicaties zonder Microsoft<sup>&reg;</sup> PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-U kunt het JSON-formaat naar PPTM converteren in uw Android-applicaties in een proces van twee stappen. Ten eerste, door [Aspose.Cells voor Android via Java](https://products.aspose.com/cells/android-java/) te gebruiken, kunt u JSON ontleden naar PPTX. Daarna kunt u met [Aspose.Slides voor Android via Java](https://products.aspose.com/slides/android-java/) PPTX naar PPTM converteren. Beide API's vallen onder het pakket [Aspose.Total voor Android via Java](https://products.aspose.com/total/android-java/). 
+U kunt het JSON-formaat naar PPTM converteren in uw Android-applicaties in een proces van twee stappen. Ten eerste, door [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) te gebruiken, kunt u JSON ontleden naar PPTX. Daarna kunt u met [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) PPTX naar PPTM converteren. Beide API's vallen onder het pakket [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ U kunt het JSON-formaat naar PPTM converteren in uw Android-applicaties in een p
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
-U kunt Aspose.Total voor Android eenvoudig via Java rechtstreeks vanuit [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) en installeer bibliotheken in uw app.
+U kunt Aspose.Total for Android eenvoudig via Java rechtstreeks vanuit [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) en installeer bibliotheken in uw app.
 
 U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

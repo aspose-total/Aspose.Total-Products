@@ -13,7 +13,7 @@ otherformats: TSV XLAM XLTM MHTML XLSM CSV FODS ODS XLSX DIF XLTX XLT SXC XLS MA
 {{< blocks/products/pf/feature-page-header h1="Java ile Android'de PPSX'u XLSB'ye dönüştürün" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan Android uygulamalarında PPSX dosyasını XLSB'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) aracılığıyla iki aşamalı bir işlemle PPSX dosyasını Android uygulamalarınızda kolayca XLSB'ye dönüştürebilirsiniz. İlk adımda, [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) kullanarak PPSX dosyasını HTML'ye aktarabilirsiniz. İkinci olarak, [Java üzerinden Aspose.Cells for Android](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi XLSB'ye dönüştürebilirsiniz. 
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) aracılığıyla iki aşamalı bir işlemle PPSX dosyasını Android uygulamalarınızda kolayca XLSB'ye dönüştürebilirsiniz. İlk adımda, [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) kullanarak PPSX dosyasını HTML'ye aktarabilirsiniz. İkinci olarak, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi XLSB'ye dönüştürebilirsiniz. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

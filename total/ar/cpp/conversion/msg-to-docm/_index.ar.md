@@ -19,9 +19,9 @@ otherformats: RTF GIF DOC TEXT OTT JPEG MD DOTM XPS PNG EPUB PS PDF PCL BMP WORD
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API لتحويل البريد الإلكتروني إلى DOCM" %}}
 1. افتح ملف MSG باستخدام مرجع فئة [MailMessage](https://reference.aspose.com/msg/cpp/class/aspose.msg.mail_message)
-2. تحويل MSG إلى HTML باستخدام وظيفة العضو [حفظ](https://reference.aspose.com/msg/cpp/class/aspose.msg.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
+2. تحويل MSG إلى HTML باستخدام وظيفة العضو [Save](https://reference.aspose.com/msg/cpp/class/aspose.msg.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
 3. قم بتحميل HTML باستخدام فئة [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
-4. احفظ المستند بتنسيق DOCM باستخدام طريقة [حفظ](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) وقم بتعيين Docm كـ SaveFormat
+4. احفظ المستند بتنسيق DOCM باستخدام طريقة [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) وقم بتعيين Docm كـ SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}

@@ -18,7 +18,7 @@ Puede incluir fácilmente la función de conversión de DOCM a XLAM dentro de su
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API de C++ para convertir DOCM a XLAM" %}}
-1. Abra el archivo DOCM usando la referencia de clase [Docmumento](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
+1. Abra el archivo DOCM usando la referencia de clase [Documento](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
 2. Convierta DOCM a HTML usando la función miembro [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string_saveformat)
 3. Cargue el docmumento HTML utilizando la referencia de clase [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
 4. Guarde el docmumento en formato XLAM usando la función miembro [Guardar](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
@@ -38,7 +38,7 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Acceda a las propiedades del docmumento DOCM a través de C++" %}}
-[Aspose.Words for C++](https://products.aspose.com/words/cpp/) también le permite acceder a las propiedades del docmumento del archivo DOCM y le permite tomar una decisión informada antes del proceso de conversión. Para acceder a las propiedades del docmumento, puede usar [BuiltInDocmumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_docmument_properties) para obtener propiedades integradas y [CustomDocmumentProperties](https://https://reference.aspose.com/words/cpp/class/aspose.words.properties.custom_docmument_properties) para obtener propiedades personalizadas. El siguiente ejemplo de código muestra cómo enumerar todas las propiedades integradas y personalizadas en un docmumento.
+[Aspose.Words for C++](https://products.aspose.com/words/cpp/) también le permite acceder a las propiedades del docmumento del archivo DOCM y le permite tomar una decisión informada antes del proceso de conversión. Para acceder a las propiedades del docmumento, puede usar [BuiltInDocumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_docmument_properties) para obtener propiedades integradas y [CustomDocumentProperties](https://https://reference.aspose.com/words/cpp/class/aspose.words.properties.custom_docmument_properties) para obtener propiedades personalizadas. El siguiente ejemplo de código muestra cómo enumerar todas las propiedades integradas y personalizadas en un docmumento.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-docmument-properties.cs" >}}

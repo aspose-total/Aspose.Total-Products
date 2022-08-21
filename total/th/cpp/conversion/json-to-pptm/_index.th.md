@@ -19,9 +19,9 @@ otherformats: PPS PPSM ODP POWERPOINT POT POTX POTM PPT PPSX OTP
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="แปลงรูปแบบ JSON เป็น PPTM ผ่าน C++" %}}
 1. สร้าง [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) ใหม่และอ่านข้อมูล JSON ที่ถูกต้องจากไฟล์
-2. บันทึก JSON เป็น PPTX โดยใช้วิธี [บันทึก](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
+2. บันทึก JSON เป็น PPTX โดยใช้วิธี [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
 3. โหลดเอกสาร PPTX โดยใช้คลาส [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) class
-4. บันทึกเอกสารในรูปแบบ PPTM โดยใช้วิธี [บันทึก](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e)
+4. บันทึกเอกสารในรูปแบบ PPTM โดยใช้วิธี [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}

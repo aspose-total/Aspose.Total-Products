@@ -13,8 +13,8 @@ otherformats: DOCM TEXT DOC DOTX FLATOPC OTT WORD ODT DOT RTF DOTM DOCX
 {{< blocks/products/pf/feature-page-header h1="Renderujte PPSX do WORDML na Andoridu přes Javu" h2="Rozhraní API pro formát souborů pro převod PPSX na WORDML v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total pro Android přes Java](https://products.aspose.com/total/android-java/) umožňuje manipulaci s formáty souborů v aplikacích pro Android. Pomocí rozhraní API poskytovaných v balíčku můžete automatizovat proces převodu PowerPoint PPSX do Word WORDML ve vašich aplikacích.
-Zadaný dokument můžete převést ve dvou krocích. K vykreslení PPSX do HTML můžete použít [Aspose.Slides pro Andorid přes Javu](https://products.aspose.com/slides/android-java/), což je PowerPoint API pro aplikace Android. Ppsxé pomocí API pro zpracování dokumentů [Aspose.Words pro Android přes Java](https://products.aspose.com/words/android-java/) můžete převést HTML na WORDML. 
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) umožňuje manipulaci s formáty souborů v aplikacích pro Android. Pomocí rozhraní API poskytovaných v balíčku můžete automatizovat proces převodu PowerPoint PPSX do Word WORDML ve vašich aplikacích.
+Zadaný dokument můžete převést ve dvou krocích. K vykreslení PPSX do HTML můžete použít [Aspose.Slides for Andorid via Java](https://products.aspose.com/slides/android-java/), což je PowerPoint API pro aplikace Android. Ppsxé pomocí API pro zpracování dokumentů [Aspose.Words pro Android přes Java](https://products.aspose.com/words/android-java/) můžete převést HTML na WORDML. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

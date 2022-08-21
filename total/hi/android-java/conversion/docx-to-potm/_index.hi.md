@@ -13,12 +13,12 @@ otherformats: PPSX POTX POT PPTM PPSM ODP PPS PPT PPTX POWERPOINT
 {{< blocks/products/pf/feature-page-header h1="Android ऐप्स में DOCX को POTM में बदलें" h2="Microsoft Word<sup>&reg;</sup> या PowerPoint . को स्थापित किए बिना आपके Android एप्लिकेशन में DOCX से POTM रूपांतरण" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-क्या आप एक Android डेवलपर हैं जो अपने एप्लिकेशन में दस्तावेज़ रूपांतरण सुविधा जोड़ना चाहते हैं? [Aspose.Total for Android by Java](https://products.aspose.com/total/android-java/) फाइल फॉर्मेट ऑटोमेशन लाइब्रेरी आपके एंड्रॉइड एप्लिकेशन में दस्तावेज़ रूपांतरण प्रक्रिया को स्वचालित करने में आपकी सहायता कर सकती है। DOCX फ़ाइल को POTM में बदलने के लिए, आप DOCX फ़ाइल स्वरूप को HTML में बदलने के लिए पहले दस्तावेज़ हेरफेर API [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) का उपयोग कर सकते हैं। उसके बाद PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) का उपयोग करके, आप एक नया प्रेजेंटेशन बना सकते हैं, उसमें HTML सामग्री लिख सकते हैं, और इसे इस रूप में सहेज सकते हैं ओडीपी। 
+क्या आप एक Android डेवलपर हैं जो अपने एप्लिकेशन में दस्तावेज़ रूपांतरण सुविधा जोड़ना चाहते हैं? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) फाइल फॉर्मेट ऑटोमेशन लाइब्रेरी आपके एंड्रॉइड एप्लिकेशन में दस्तावेज़ रूपांतरण प्रक्रिया को स्वचालित करने में आपकी सहायता कर सकती है। DOCX फ़ाइल को POTM में बदलने के लिए, आप DOCX फ़ाइल स्वरूप को HTML में बदलने के लिए पहले दस्तावेज़ हेरफेर API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) का उपयोग कर सकते हैं। उसके बाद PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) का उपयोग करके, आप एक नया प्रेजेंटेशन बना सकते हैं, उसमें HTML सामग्री लिख सकते हैं, और इसे इस रूप में सहेज सकते हैं ओडीपी। 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Android में DOCX को POTM में कैसे बदलें" %}}
-1. [दस्तावेज़](https://reference.aspose.com/words/java/com.aspose.words/Docxument) वर्ग का उपयोग करके DOCX फ़ाइल खोलें
+1. [Document](https://reference.aspose.com/words/java/com.aspose.words/Docxument) वर्ग का उपयोग करके DOCX फ़ाइल खोलें
 2. [save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,com.aspose.words.SaveOptions) का उपयोग करके DOCX फ़ाइल को HTML में बदलें )) तरीका
 3. एक नया [प्रस्तुति](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) ऑब्जेक्ट प्रारंभ करें
 5. BufferedReader का उपयोग करके HTML फ़ाइल से सामग्री निकालें और अपनी प्रस्तुति फ़ाइल में सामग्री लिखें

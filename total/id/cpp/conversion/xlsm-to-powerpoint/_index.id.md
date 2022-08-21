@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOC WORD PPTX DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi XLSM ke POWERPOINT melalui C++" h2="Ekspor Excel&reg; XLSM ke POWERPOINT dalam aplikasi C++ yang berfungsi penuh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi XLSM ke POWERPOINT melalui C++" h2="Ekspor Excel<sup>&reg;</sup> XLSM ke POWERPOINT dalam aplikasi C++ yang berfungsi penuh" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konversi XLSM ke POWERPOINT di C++" %}}

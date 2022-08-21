@@ -13,7 +13,7 @@ otherformats: XLAM XLTX TSV FODS XLT DIF CSV EXCEL XLSB XLS XLSM XLTM SXC ODS
 {{< blocks/products/pf/feature-page-header h1="Java ile Android'de DOTM'yi JSON Formatına Dönüştür" h2="Microsoft<sup>&reg;</sup> Word veya Excel kullanmadan DOTM'yi JSON'a aktarmak için Android uygulamaları tasarlayın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) aracılığıyla Android Uygulamalarınızda DOTM'yi JSON formatına dönüştürebilirsiniz. Belge işleme ve dönüştürme API'sini [Java üzerinden Aspose.Words for Android](https://products.aspose.com/words/android-java/) kullanarak, DOTM'yi HTML'ye aktarabilirsiniz. Bundan sonra, [Java üzerinden Android için Aspose.Cells](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi JSON'a dönüştürebilirsiniz. 
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) aracılığıyla Android Uygulamalarınızda DOTM'yi JSON formatına dönüştürebilirsiniz. Belge işleme ve dönüştürme API'sini [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) kullanarak, DOTM'yi HTML'ye aktarabilirsiniz. Bundan sonra, [Java üzerinden Android için Aspose.Cells](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi JSON'a dönüştürebilirsiniz. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,7 @@ otherformats: TIFF FLATOPC PS BMP PDF EPUB JPEG DOTM DOT ODT RTF DOC EMF TEXT DO
 {{< blocks/products/pf/feature-page-header h1="API C++ pour exporter OFT vers XPS" h2="Transformez OFT en XPS dans une application C++ sans nécessiter Microsoft Word ou Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Êtes-vous un développeur C++ cherchant à ajouter des fonctionnalités de conversion d'e-mails dans vos applications ? En utilisant [Aspose.Oft pour C++](https://products.aspose.com/oft/cpp/), vous pouvez convertir le format de fichier OFT en HTML. Après cela, en utilisant l'API [Aspose.Words pour C++](https://products.aspose.com/words/cpp/), vous pouvez exporter du HTML vers XPS. Les deux API relèvent du package [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
+Êtes-vous un développeur C++ cherchant à ajouter des fonctionnalités de conversion d'e-mails dans vos applications ? En utilisant [Aspose.Oft pour C++](https://products.aspose.com/oft/cpp/), vous pouvez convertir le format de fichier OFT en HTML. Après cela, en utilisant l'API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), vous pouvez exporter du HTML vers XPS. Les deux API relèvent du package [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

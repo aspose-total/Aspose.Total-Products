@@ -19,9 +19,9 @@ otherformats: FLATOPC MD SVG XPS PNG TIFF ODT DOCM GIF EMF DOCX DOT PDF EPUB DOT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="MSGをBMPに変換するC++API" %}}
 1. [MailMessage](https://reference.aspose.com/msg/cpp/class/aspose.msg.mail_message)クラスリファレンスを使用してMSGファイルを開きます
-2. [保存](https://reference.aspose.com/msg/cpp/class/aspose.msg.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)メンバー関数を使用してMSGをHTMLに変換します
+2. [Save](https://reference.aspose.com/msg/cpp/class/aspose.msg.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)メンバー関数を使用してMSGをHTMLに変換します
 3. [ドキュメント](https://reference.aspose.com/words/cpp/class/aspose.words.document)クラスを使用してHTMLをロードします
-4. [保存](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)メソッドを使用してドキュメントをBMP形式で保存し、BmpをSaveFormatとして設定します
+4. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)メソッドを使用してドキュメントをBMP形式で保存し、BmpをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

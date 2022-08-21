@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: WORD DOCX POWERPOINT PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="A CSV konvertálása DOC formátumba C++ segítségével" h2="Exportálás Excel&reg; CSV-ből DOC-ba a teljes funkcionalitású C++ alkalmazásokon belül" >}}
+{{< blocks/products/pf/feature-page-header h1="A CSV konvertálása DOC formátumba C++ segítségével" h2="Exportálás Excel<sup>&reg;</sup> CSV-ből DOC-ba a teljes funkcionalitású C++ alkalmazásokon belül" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="CSV-ből DOC-ba konvertálás C++-on" %}}

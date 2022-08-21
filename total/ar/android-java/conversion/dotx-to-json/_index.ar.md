@@ -13,19 +13,19 @@ otherformats: SXC XLSM XLSB TSV XLAM XLT DIF EXCEL XLTX CSV XLTM FODS ODS XLSX
 {{< blocks/products/pf/feature-page-header h1="تحويل DOTX إلى تنسيق JSON في Android عبر Java" h2="تصميم تطبيقات Android لتصدير DOTX إلى JSON بدون استخدام Microsoft <sup>&reg;</sup> Word أو Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-يمكنك تحويل تنسيق DOTX إلى JSON في تطبيقات Android عبر [Aspose.Total for Android عبر Java](https://products.aspose.com/total/android-java/). باستخدام معالجة المستندات وتحويلها API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) ، يمكنك تصدير DOTX إلى HTML. بعد ذلك ، باستخدام [Aspose.Cells لنظام Android عبر Java](https://products.aspose.com/cells/android-java/) ، يمكنك تحويل HTML إلى JSON. 
+يمكنك تحويل تنسيق DOTX إلى JSON في تطبيقات Android عبر [Aspose.Total for Android عبر Java](https://products.aspose.com/total/android-java/). باستخدام معالجة المستندات وتحويلها API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) ، يمكنك تصدير DOTX إلى HTML. بعد ذلك ، باستخدام [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) ، يمكنك تحويل HTML إلى JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="تحويل DOTX إلى تنسيق JSON في Android" %}}
 1. افتح ملف DOTX باستخدام فئة [Dotxument](https://reference.aspose.com/words/java/com.aspose.words/Dotxument)
-2. تحويل DOTX إلى HTML باستخدام [حفظ](https://reference.aspose.com/words/java/com.aspose.words/Dotxument#save(java.lang.String,com.aspose.words.SaveOptions)) طريقة
+2. تحويل DOTX إلى HTML باستخدام [save](https://reference.aspose.com/words/java/com.aspose.words/Dotxument#save(java.lang.String,com.aspose.words.SaveOptions)) طريقة
 3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. احفظ المستند بتنسيق JSON باستخدام [حفظ](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))) الطريقة
+4. احفظ المستند بتنسيق JSON باستخدام [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))) الطريقة
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-يمكنك بسهولة استخدام Aspose.Total لنظام Android عبر Java مباشرةً من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) و تثبيت المكتبات في تطبيقك.
+يمكنك بسهولة استخدام Aspose.Total for Android via Java مباشرةً من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) و تثبيت المكتبات في تطبيقك.
 
 بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

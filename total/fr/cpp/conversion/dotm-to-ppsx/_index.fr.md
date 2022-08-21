@@ -13,7 +13,7 @@ otherformats: PPT ODP POTM PPSM POWERPOINT PPTX PPS POTX PPTM POT
 {{< blocks/products/pf/feature-page-header h1="API C++ pour convertir DOTM en PPSX" h2="Exportez DOTM vers PPSX dans vos applications C++ sans utiliser Microsoft Word® ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total pour C++](https://products.aspose.com/total/cpp/) se compose de puissantes API d'automatisation de fichiers qui permettent d'automatiser la conversion DOTM en PPSX tout en utilisant deux de ses API. Chargez votre DOTM en utilisant [Aspose.Words pour C++](https://products.aspose.com/words/cpp/) et convertissez-le en HTML, puis chargez le HTML via l'API C++ de manipulation PowerPoint [Aspose.Slides pour C++]( https://products.aspose.com/slides/cpp/) pour créer une nouvelle présentation et enregistrez-la sous PPSX. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) se compose de puissantes API d'automatisation de fichiers qui permettent d'automatiser la conversion DOTM en PPSX tout en utilisant deux de ses API. Chargez votre DOTM en utilisant [Aspose.Words for C++](https://products.aspose.com/words/cpp/) et convertissez-le en HTML, puis chargez le HTML via l'API C++ de manipulation PowerPoint [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) pour créer une nouvelle présentation et enregistrez-la sous PPSX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -67,7 +67,7 @@ pres->Save(output.ppsx, Aspose::Slides::Export::SaveFormat::Ppsx);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Charger un dotmument DOTM protégé par mot de passe via C++" %}}
-Outre la conversion de dotmuments, l'API [Aspose.Words pour C++](https://products.aspose.com/words/cpp/) offre des tonnes de fonctionnalités de manipulation de dotmuments aux développeurs C++. Si votre format de fichier Microsoft Word DOTM est protégé par un mot de passe, vous pouvez toujours l'ouvrir à l'aide de l'API. Pour charger le dotmument chiffré, vous pouvez utiliser une surcharge de constructeur spéciale, qui accepte un objet [LoadOptions](https://reference.aspose.com/words/cpp/class/aspose.words.loading.load_options). Cet objet contient la propriété Password, qui spécifie la chaîne de mot de passe.
+Outre la conversion de dotmuments, l'API [Aspose.Words for C++](https://products.aspose.com/words/cpp/) offre des tonnes de fonctionnalités de manipulation de dotmuments aux développeurs C++. Si votre format de fichier Microsoft Word DOTM est protégé par un mot de passe, vous pouvez toujours l'ouvrir à l'aide de l'API. Pour charger le dotmument chiffré, vous pouvez utiliser une surcharge de constructeur spéciale, qui accepte un objet [LoadOptions](https://reference.aspose.com/words/cpp/class/aspose.words.loading.load_options). Cet objet contient la propriété Password, qui spécifie la chaîne de mot de passe.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp
@@ -80,7 +80,7 @@ SharedPtr<Dotmument> dotm = MakeObject<Dotmument>(u"Encrypted.dotm", options);
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ajouter des commentaires dans le dotmument PPSX via C++" %}}
-Lors de l'enregistrement du DOTM au format PPSX, vous pouvez également utiliser [Aspose.Slides pour C++](https://products.aspose.com/slides/cpp/) pour ajouter d'autres fonctionnalités dans votre dotmument PPSX. Par exemple, vous pouvez ajouter des commentaires dans votre présentation. Le commentaire de la diapositive de présentation est associé à un auteur particulier. La classe Presentation contient la collection d'auteurs dans ICommentAuthorCollection qui sont responsables de l'ajout de commentaires de diapositive. Pour chaque auteur, il existe une collection de commentaires dans ICommentCollection.
+Lors de l'enregistrement du DOTM au format PPSX, vous pouvez également utiliser [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) pour ajouter d'autres fonctionnalités dans votre dotmument PPSX. Par exemple, vous pouvez ajouter des commentaires dans votre présentation. Le commentaire de la diapositive de présentation est associé à un auteur particulier. La classe Presentation contient la collection d'auteurs dans ICommentAuthorCollection qui sont responsables de l'ajout de commentaires de diapositive. Pour chaque auteur, il existe une collection de commentaires dans ICommentCollection.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp

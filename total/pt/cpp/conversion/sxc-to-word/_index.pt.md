@@ -10,14 +10,14 @@ outformat: DOC
 otherformats: DOC POWERPOINT PPTX DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter SXC para WORD via C++" h2="Exportar Excel&reg; SXC para WORD em aplicativos C++ totalmente funcionais" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter SXC para WORD via C++" h2="Exportar Excel<sup>&reg;</sup> SXC para WORD em aplicativos C++ totalmente funcionais" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversão de SXC para WORD em C++" %}}
 1. Abra o arquivo SXC usando a função de membro [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) de [Factory](https://reference.aspose.com/cells/cpp/class/aspose.cells.factory) referência de classe
 2. Converta SXC para PDF e defina SaveFormat para PDF
 3. Carregue o arquivo PDF convertido usando a referência de classe [Wordument](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.wordument)
-4. Salve o wordumento no formato WORD usando a função de membro [Salvar](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.wordument#a6383c010776212483f51cc41235924db) e defina Word como SaveFormat
+4. Salve o wordumento no formato WORD usando a função de membro [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.wordument#a6383c010776212483f51cc41235924db) e defina Word como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}

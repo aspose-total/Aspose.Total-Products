@@ -13,19 +13,19 @@ otherformats: XLSB XLSX XLTM CSV EXCEL SXC XLTX XLS DIF FODS TSV XLSM XLAM ODS
 {{< blocks/products/pf/feature-page-header h1="Převeďte ODT na XLT v aplikacích pro Android" h2="Export ODT do XLT v Androidu přes Java bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Pomocí [Aspose.Total pro Android přes Java](https://products.aspose.com/total/android-java/) můžete integrovat funkci převodu ODT na XLT do svých aplikací pro Android. Za prvé, můžete převést ODT do HTML pomocí rozhraní API pro manipulaci s dokumenty a konverzi s bohatými funkcemi [Aspose.Words pro Android přes Java](https://products.aspose.com/words/android-java/). Poté můžete pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) převést HTML na XLT. 
+Pomocí [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) můžete integrovat funkci převodu ODT na XLT do svých aplikací pro Android. Za prvé, můžete převést ODT do HTML pomocí rozhraní API pro manipulaci s dokumenty a konverzi s bohatými funkcemi [Aspose.Words pro Android přes Java](https://products.aspose.com/words/android-java/). Poté můžete pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) převést HTML na XLT. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Android API pro převod ODT na XLT" %}}
 1. Otevřete soubor ODT pomocí třídy [Odtument](https://reference.aspose.com/words/java/com.aspose.words/Odtument)
-2. Převeďte ODT do HTML pomocí [Uložit](https://reference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String,com.aspose.words.SaveOptions) ) metoda
+2. Převeďte ODT do HTML pomocí [Save](https://reference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String,com.aspose.words.SaveOptions) ) metoda
 3. Načtěte dokument HTML pomocí třídy [Sešit](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Uložte dokument do formátu XLT pomocí [Uložit](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)).
+4. Uložte dokument do formátu XLT pomocí [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na konverzi" %}}
-Aspose.Total pro Android můžete snadno používat přes Javu přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a nainstalovat [Aspose.Cells pro Android přes Javu](https://odts.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via- java-from-maven-repository) a [Aspose.Words pro Android přes Java](https://odts.aspose.com/words/java/install-aspose-words-for-android-via-java/#install- asposewords-for-android-via-java-from-maven-repository) ve vašich aplikacích.
+Aspose.Total pro Android můžete snadno používat přes Javu přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a nainstalovat [Aspose.Cells for Android via Java](https://odts.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via- java-from-maven-repository) a [Aspose.Words pro Android přes Java](https://odts.aspose.com/words/java/install-aspose-words-for-android-via-java/#install- asposewords-for-android-via-java-from-maven-repository) ve vašich aplikacích.
 
 Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

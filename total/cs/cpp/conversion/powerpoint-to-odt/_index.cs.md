@@ -13,15 +13,15 @@ otherformats: DOTM DOC WORD DOCM DOCX WORDML DOT RTF TEXT FLATOPC OTT DOTX
 {{< blocks/products/pf/feature-page-header h1="C++ API pro vykreslení POWERPOINT do ODT" h2="Export POWERPOINT do ODT v aplikacích C++ bez jakýchkoli závislostí Microsoft PowerPoint nebo Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total pro C++](https://products.aspose.com/total/cpp/) je kompletní balíček knihoven C++ File Format Automation. Pomocí bohatých funkcí API dostupných v balíčku můžeme snadno převést PowerPoint POWERPOINT na Word ODT. Chcete-li provést převod, můžete nejprve použít [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API k převodu POWERPOINT do HTML. Powerpointé pomocí rozhraní API pro zpracování textu s bohatými funkcemi [Aspose.Words for C++](https://products.aspose.com/words/cpp/) můžete převést HTML na ODT. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) je kompletní balíček knihoven C++ File Format Automation. Pomocí bohatých funkcí API dostupných v balíčku můžeme snadno převést PowerPoint POWERPOINT na Word ODT. Chcete-li provést převod, můžete nejprve použít [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API k převodu POWERPOINT do HTML. Powerpointé pomocí rozhraní API pro zpracování textu s bohatými funkcemi [Aspose.Words for C++](https://products.aspose.com/words/cpp/) můžete převést HTML na ODT. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API pro převod POWERPOINT na ODT" %}}
 1. Načtěte soubor POWERPOINT pomocí odkazu třídy [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
-2. Vykreslete POWERPOINT do HTML pomocí členské funkce [Uložit](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) a nastavte Html jako SaveFormat
+2. Vykreslete POWERPOINT do HTML pomocí členské funkce [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) a nastavte Html jako SaveFormat
 3. Načtěte převedený soubor HTML pomocí odkazu na třídu [Odtument](https://reference.aspose.com/words/cpp/class/aspose.words.odtument)
-4. Uložte dokument ve formátu ODT pomocí členské funkce [Uložit](https://reference.aspose.com/words/cpp/class/aspose.words.odtument#save_string)
+4. Uložte dokument ve formátu ODT pomocí členské funkce [Save](https://reference.aspose.com/words/cpp/class/aspose.words.odtument#save_string)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}

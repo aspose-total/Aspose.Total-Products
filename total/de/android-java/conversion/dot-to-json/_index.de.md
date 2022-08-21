@@ -13,7 +13,7 @@ otherformats: XLAM XLSB XLTM ODS XLT TSV SXC EXCEL FODS DIF XLTX CSV XLS XLSM
 {{< blocks/products/pf/feature-page-header h1="Konvertieren Sie DOT in das JSON-Format in Android über Java" h2="Entwerfen Sie Android-Anwendungen zum Exportieren von DOT in JSON, ohne Microsoft<sup>&reg;</sup> Word oder Excel zu verwenden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Sie können das DOT-Format in Ihren Android-Anwendungen über [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) in das JSON-Format konvertieren. Durch die Verwendung der Dokumentbearbeitungs- und Konvertierungs-API [Aspose.Words für Android über Java](https://products.aspose.com/words/android-java/) können Sie DOT in HTML exportieren. Danach können Sie mit [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) HTML in JSON konvertieren. 
+Sie können das DOT-Format in Ihren Android-Anwendungen über [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) in das JSON-Format konvertieren. Durch die Verwendung der Dokumentbearbeitungs- und Konvertierungs-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) können Sie DOT in HTML exportieren. Danach können Sie mit [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) HTML in JSON konvertieren. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

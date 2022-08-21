@@ -17,7 +17,7 @@ otherformats: WORD POWERPOINT DOC DOCX
 1. افتح ملف TSV باستخدام وظيفة عضو [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) في [Factory](https://reference.aspose.com/cells/cpp/class/aspose.cells.factory) مرجع الفئة
 2. تحويل TSV إلى PDF وتعيين SaveFormat إلى Pdf
 3. قم بتحميل ملف PDF المحول باستخدام [مستند](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.pptxument) مرجع فئة
-4. احفظ المستند بتنسيق PPTX باستخدام وظيفة العضو [حفظ](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.pptxument#a6383c010776212483f51cc41235924db) وقم بتعيين Pptx على أنه SaveFormat
+4. احفظ المستند بتنسيق PPTX باستخدام وظيفة العضو [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.pptxument#a6383c010776212483f51cc41235924db) وقم بتعيين Pptx على أنه SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}

@@ -13,15 +13,15 @@ otherformats: DOCM MHTML DOTX OTT RTF XAMLFLOW WORDML DOTM MARKDOWN ODT FLATOPC 
 {{< blocks/products/pf/feature-page-header h1="C++ API pro export PCL do PS" h2="Vykreslování PCL na PS v aplikacích C++ bez nutnosti jakékoli aplikace třetí strany" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Knihovny automatizace formátu souborů [Aspose.Total pro C++](https://products.aspose.com/total/cpp/) umožňují vývojářům C++ převést PCL na PS ve dvou jednoduchých krocích. Nejprve můžete použít [Aspose.PDF pro C++](https://products.aspose.com/pdf/cpp/) API pro převod formátu souboru PCL na DOC. Za druhé, pomocí pokročilého rozhraní API pro zpracování textových dokumentů [Aspose.Words for C++](https://products.aspose.com/words/cpp/) můžete exportovat DOC do PS. 
+Knihovny automatizace formátu souborů [Aspose.Total for C++](https://products.aspose.com/total/cpp/) umožňují vývojářům C++ převést PCL na PS ve dvou jednoduchých krocích. Nejprve můžete použít [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) API pro převod formátu souboru PCL na DOC. Za druhé, pomocí pokročilého rozhraní API pro zpracování textových dokumentů [Aspose.Words for C++](https://products.aspose.com/words/cpp/) můžete exportovat DOC do PS. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API pro vykreslení PCL do PS" %}}
 1. Otevřete soubor PCL pomocí odkazu třídy [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)
-2. Převeďte PCL na DOC pomocí členské funkce [Uložit](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#adb8061c585440fde49c1263e68837f01)
+2. Převeďte PCL na DOC pomocí členské funkce [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#adb8061c585440fde49c1263e68837f01)
 3. Načtěte soubor DOC pomocí odkazu na třídu [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) rozhraní Aspose.Words API
-4. Uložte dokument do formátu PS pomocí členské funkce [Uložit](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stream_saveformat).
+4. Uložte dokument do formátu PS pomocí členské funkce [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stream_saveformat).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
@@ -46,7 +46,7 @@ wordDoc->Save(u"output.Ps");
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Změna hesla dokumentu PCL pomocí C++" %}}
-V procesu vykreslování PCL do PS můžete otevřít heslem chráněný PCL a také změnit jeho heslo. Chcete-li změnit heslo souboru PCL, musíte znát heslo vlastníka tohoto dokumentu. Dokument PDF chráněný heslem můžete načíst pomocí [Aspose.PDF pro C++](https://products.aspose.com/pdf/cpp/) zadáním hesla vlastníka a pomocí metody ChangePasswords heslo změnit.
+V procesu vykreslování PCL do PS můžete otevřít heslem chráněný PCL a také změnit jeho heslo. Chcete-li změnit heslo souboru PCL, musíte znát heslo vlastníka tohoto dokumentu. Dokument PDF chráněný heslem můžete načíst pomocí [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) zadáním hesla vlastníka a pomocí metody ChangePasswords heslo změnit.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp

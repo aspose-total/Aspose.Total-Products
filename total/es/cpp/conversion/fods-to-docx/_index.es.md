@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: DOC WORD PPTX POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta FODS a DOCX a través de C++" h2="Exportar Excel&reg; FODS a DOCX dentro de aplicaciones C++ completamente funcionales" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta FODS a DOCX a través de C++" h2="Exportar Excel<sup>&reg;</sup> FODS a DOCX dentro de aplicaciones C++ completamente funcionales" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversión de FODS a DOCX en C++" %}}

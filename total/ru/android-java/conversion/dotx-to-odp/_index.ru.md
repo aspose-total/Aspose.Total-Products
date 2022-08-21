@@ -13,7 +13,7 @@ otherformats: PPSX POTX PPS POTM PPTM PPSM PPT POWERPOINT PPTX POT
 {{< blocks/products/pf/feature-page-header h1="Преобразование DOTX в ODP в приложениях для Android" h2="Преобразование DOTX в ODP в приложениях для Android без установки Microsoft Word<sup>&reg;</sup> или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Вы Android-разработчик и хотите добавить в свое приложение функцию преобразования документов? [Aspose.Total для Android через Java](https://products.aspose.com/total/android-java/) Библиотеки автоматизации форматов файлов могут помочь вам автоматизировать процесс преобразования документов в ваших приложениях для Android. Чтобы преобразовать файл DOTX в ODP, вы можете сначала использовать API обработки документов [Aspose.Words для Android Java](https://products.aspose.com/words/android-java/) для преобразования формата файла DOTX в HTML. После этого с помощью PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) вы можете создать новую презентацию, записать в нее HTML-контент и сохранить ее как ODP. 
+Вы Android-разработчик и хотите добавить в свое приложение функцию преобразования документов? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Библиотеки автоматизации форматов файлов могут помочь вам автоматизировать процесс преобразования документов в ваших приложениях для Android. Чтобы преобразовать файл DOTX в ODP, вы можете сначала использовать API обработки документов [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) для преобразования формата файла DOTX в HTML. После этого с помощью PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) вы можете создать новую презентацию, записать в нее HTML-контент и сохранить ее как ODP. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -26,7 +26,7 @@ otherformats: PPSX POTX PPS POTM PPTM PPSM PPT POWERPOINT PPTX POT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
-Для преобразования файлов DOTX в ODP вы можете легко использовать Aspose.Total для Android через Java непосредственно из [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) и установите библиотеки в свое приложение.
+Для преобразования файлов DOTX в ODP вы можете легко использовать Aspose.Total for Android via Java непосредственно из [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) и установите библиотеки в свое приложение.
 
 Кроме того, вы можете получить ZIP-файл из [загрузки](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

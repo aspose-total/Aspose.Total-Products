@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPTX DOC WORD DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通过 C++ 将 XLSB 转换为 POWERPOINT" h2="导出 Excel&reg;全功能 C++ 应用程序中的 XLSB 到 POWERPOINT" >}}
+{{< blocks/products/pf/feature-page-header h1="通过 C++ 将 XLSB 转换为 POWERPOINT" h2="导出 Excel<sup>&reg;</sup>全功能 C++ 应用程序中的 XLSB 到 POWERPOINT" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ 上的 XLSB 到 POWERPOINT 转换" %}}

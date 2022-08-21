@@ -13,19 +13,19 @@ otherformats: PPTM ODP POT PPS XAML PPSX POTM POTX SWF POWERPOINT PPT PPSM
 {{< blocks/products/pf/feature-page-header h1="Java를 통해 Android에서 MD을 OTP로 변환" h2="Microsoft<sup>&reg;</sup> PowerPoint 또는 Adobe<sup>&reg;</sup> Acrobat Reader를 사용하지 않고 Android 애플리케이션 내에서 MD을 OTP로 변환" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-두 가지 간단한 단계를 사용하여 Android 애플리케이션 내에서 MD에서 OTP로의 변환 기능을 통합할 수 있습니다. 첫 번째 단계에서는 [Java를 통한 Android용 Aspose.PDF](https://products.aspose.com/pdf/android-java/)를 사용하여 MD을 PPTX로 내보낼 수 있습니다. 이후 [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/)를 사용하여 PPTX를 OTP로 변환할 수 있습니다. 두 API 모두 [Java를 통한 Android용 Aspose.Total](https://products.aspose.com/total/android-java/) 패키지에 있습니다. 
+두 가지 간단한 단계를 사용하여 Android 애플리케이션 내에서 MD에서 OTP로의 변환 기능을 통합할 수 있습니다. 첫 번째 단계에서는 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)를 사용하여 MD을 PPTX로 내보낼 수 있습니다. 이후 [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/)를 사용하여 PPTX를 OTP로 변환할 수 있습니다. 두 API 모두 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) 패키지에 있습니다. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="MD을 OTP로 내보내기 위한 Android API" %}}
-1. [문서](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) 클래스를 사용하여 MD 파일을 엽니다.
-2. [저장](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-) 메소드를 사용하여 MD을 PPTX로 변환
+1. [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) 클래스를 사용하여 MD 파일을 엽니다.
+2. [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-) 메소드를 사용하여 MD을 PPTX로 변환
 3. [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 클래스를 사용하여 PPTX 문서를 로드합니다.
 4. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) 메소드를 사용하여 문서를 OTP 형식으로 저장하고 ` Otp`를 SaveFormat으로
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)에서 직접 Java를 통해 Android용 Aspose.Total을 쉽게 사용할 수 있습니다. [Java를 통한 Android용 Aspose.PDF](https://docs.aspose.com/pdf/androidjava/installation/) 및 [Java를 통한 Android용 Aspose.Slides](https://docs.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/)를 애플리케이션에 추가합니다.
+[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)에서 직접 Java를 통해 Android용 Aspose.Total을 쉽게 사용할 수 있습니다. [Aspose.PDF for Android via Java](https://docs.aspose.com/pdf/androidjava/installation/) 및 [Aspose.Slides for Android via Java](https://docs.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/)를 애플리케이션에 추가합니다.
 
 또는 [다운로드](https://downloads.aspose.com/total/androidjava)에서 ZIP 파일을 얻을 수 있습니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -46,7 +46,7 @@ presentation.save("output.otp", SaveFormat.Otp);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Java를 통해 Android에서 암호로 보호된 MD 파일 열기" %}}
-MD 파일 형식을 로드하는 동안 문서가 암호로 보호될 수 있습니다. [Java를 통한 Android용 Aspose.PDF](https://products.aspose.com/pdf/android-java/)를 사용하면 암호화된 문서도 열 수 있습니다. 암호화된 파일을 열기 위해 [문서](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java)의 새 인스턴스를 초기화할 수 있습니다. .lang.String-) 클래스를 생성하고 파일 이름과 비밀번호를 인수로 전달합니다.
+MD 파일 형식을 로드하는 동안 문서가 암호로 보호될 수 있습니다. [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)를 사용하면 암호화된 문서도 열 수 있습니다. 암호화된 파일을 열기 위해 [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java)의 새 인스턴스를 초기화할 수 있습니다. .lang.String-) 클래스를 생성하고 파일 이름과 비밀번호를 인수로 전달합니다.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java

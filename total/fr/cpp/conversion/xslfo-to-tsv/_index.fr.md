@@ -13,7 +13,7 @@ otherformats: XLSM MD CSV XLAM ODS XLT FODS XLTX TXT XLSB DIF EXCEL
 {{< blocks/products/pf/feature-page-header h1="Rendu XSLFO au format TSV dans les applications C++" h2="Convertissez XSLFO en TSV dans des applications C++ natives sans nécessiter Microsoft<sup>&reg;</sup> Excel ou Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-La conversion de XSLFO en TSV en C++ via les bibliothèques d'automatisation de format de fichier [Aspose.Total pour C++](https://products.aspose.com/total/cpp/) est un processus simple en deux étapes. Dans un premier temps, vous pouvez exporter XSLFO vers XLSX en utilisant [Aspose.PDF pour C++](https://products.aspose.com/pdf/cpp/), puis en utilisant [Aspose.Cells pour C++]( https://products.aspose.com/cells/cpp/) API de programmation de feuille de calcul, vous pouvez convertir XLSX en TSV. 
+La conversion de XSLFO en TSV en C++ via les bibliothèques d'automatisation de format de fichier [Aspose.Total for C++](https://products.aspose.com/total/cpp/) est un processus simple en deux étapes. Dans un premier temps, vous pouvez exporter XSLFO vers XLSX en utilisant [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/), puis en utilisant [Aspose.Cells for C++]( https://products.aspose.com/cells/cpp/) API de programmation de feuille de calcul, vous pouvez convertir XLSX en TSV. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

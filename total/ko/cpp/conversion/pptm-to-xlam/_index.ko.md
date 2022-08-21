@@ -19,9 +19,9 @@ otherformats: XLT DIF MARKDOWN CSV XLSX XLSM TSV MHTML EXCEL FODS XLS SXC XLSB O
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++를 통해 PPTM을 XLAM로 변환하는 방법" %}}
 1. [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) 클래스 참조를 사용하여 PPTM 파일을 엽니다.
-2. [저장](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba) 메서드를 사용하여 PPTM을 HTML로 변환
+2. [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba) 메서드를 사용하여 PPTM을 HTML로 변환
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 클래스 참조를 사용하여 HTML 문서 로드
-4. [저장](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) 메서드를 사용하여 문서를 XLAM 형식으로 저장합니다.
+4. [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) 메서드를 사용하여 문서를 XLAM 형식으로 저장합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}

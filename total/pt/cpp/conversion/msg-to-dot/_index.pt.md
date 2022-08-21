@@ -19,7 +19,7 @@ Você é um desenvolvedor C++ que deseja adicionar recursos de conversão de e-m
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API C++ para converter MSG em DOT" %}}
 1. Abra o arquivo MSG usando a referência de classe [MailMessage](https://reference.aspose.com/msg/cpp/class/aspose.msg.mail_message)
-2. Converta MSG para HTML usando a função de membro [Salvar](https://reference.aspose.com/msg/cpp/class/aspose.msg.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
+2. Converta MSG para HTML usando a função de membro [Save](https://reference.aspose.com/msg/cpp/class/aspose.msg.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
 3. Carregue o HTML usando a classe [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
 4. Salve o documento no formato DOT usando o método [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) e defina Dot como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

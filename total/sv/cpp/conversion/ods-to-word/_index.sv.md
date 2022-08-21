@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: PPTX DOC DOCX POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera ODS till WORD via C++" h2="Exportera Excel&reg; ODS till WORD inom fullfunktionella C++-applikationer" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera ODS till WORD via C++" h2="Exportera Excel<sup>&reg;</sup> ODS till WORD inom fullfunktionella C++-applikationer" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="ODS till WORD-konvertering på C++" %}}

@@ -19,7 +19,7 @@ otherformats: POTX POTM SWF PPSM POT POWERPOINT PPTM PPSX ODP OTP XAML PPS
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API لتصدير PDF إلى PPT" %}}
 1. افتح ملف PDF باستخدام [مستند](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) مرجع فئة
-2. تحويل PDF إلى PPTX باستخدام وظيفة الأسلوب [حفظ](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a0184df207563187be7df37b8dbe443f6)
+2. تحويل PDF إلى PPTX باستخدام وظيفة الأسلوب [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a0184df207563187be7df37b8dbe443f6)
 3. تحميل مستند PPTX باستخدام [عرض تقديمي](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) مرجع فئة
 4. احفظ المستند بتنسيق PPT باستخدام وظيفة العضو [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) وقم بتعيين "Ppt" على أنه SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -13,7 +13,7 @@ otherformats: PNG ODT TEXT DOTX EPUB DOT JPEG BMP WORDML SVG TIFF RTF EMF DOTM D
 {{< blocks/products/pf/feature-page-header h1="Преобразование EMAIL в DOCM в приложениях Andorid" h2="Разработка приложений Andorid для экспорта EMAIL в DOCM с использованием Andorid через Java API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Приложения Andorid просты в ежедневном использовании конечными пользователями. День ото дня количество пользователей телефонов Andorid растет. Используя мощные библиотеки автоматизации форматов файлов [Aspose.Total для Android через Java](https://products.aspose.com/total/android-java/), вы можете разрабатывать приложения для обработки и преобразования электронной почты. Вы можете конвертировать EMAIL в DOCM с помощью комбинации [Aspose.Email для Android Java](https://products.aspose.com/email/android-java/) и [Aspose.Words для Andorid Java](https://products.aspose.com/words/android-java/). С помощью первого API вы можете конвертировать формат файла EMAIL в HTML, а с помощью второго API вы можете отображать HTML как DOCM. 
+Приложения Andorid просты в ежедневном использовании конечными пользователями. День ото дня количество пользователей телефонов Andorid растет. Используя мощные библиотеки автоматизации форматов файлов [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), вы можете разрабатывать приложения для обработки и преобразования электронной почты. Вы можете конвертировать EMAIL в DOCM с помощью комбинации [Aspose.Email for Android via Java](https://products.aspose.com/email/android-java/) и [Aspose.Words для Andorid Java](https://products.aspose.com/words/android-java/). С помощью первого API вы можете конвертировать формат файла EMAIL в HTML, а с помощью второго API вы можете отображать HTML как DOCM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ otherformats: PNG ODT TEXT DOTX EPUB DOT JPEG BMP WORDML SVG TIFF RTF EMF DOTM D
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
-Вы можете легко использовать Aspose.Total для Android через Java непосредственно из [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) и установите [Aspose.Email для Android через Java](https://docs.aspose.com/email/androidjava/installation/) и [Aspose.Words для Android через Java](https://docs.aspose.com/words/java/install-aspose-words-for-android-через-java/#install-asposewords-for-android-через-java-из-maven-репозитория) в ваших приложениях.
+Вы можете легко использовать Aspose.Total for Android via Java непосредственно из [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) и установите [Aspose.Email for Android via Java](https://docs.aspose.com/email/androidjava/installation/) и [Aspose.Words for Android via Java](https://docs.aspose.com/words/java/install-aspose-words-for-android-через-java/#install-asposewords-for-android-через-java-из-maven-репозитория) в ваших приложениях.
 
 Кроме того, вы можете получить ZIP-файл из [загрузки](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

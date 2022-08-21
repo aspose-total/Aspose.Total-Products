@@ -13,7 +13,7 @@ otherformats: DOCX DOC WORD POWERPOINT
 {{< blocks/products/pf/feature-page-header h1="Renderelje le a XLTM-t PPTX-fájlba Androidon Java segítségével" h2="A Microsoft<sup>&reg;</sup> Excel használata nélkül alakítsa át a XLTM-t PPTX formátumba Android-alkalmazásaiban" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Az [Aspose.Total Androidra Java-n keresztül](https://products.aspose.com/total/android-java/) egy hatékony fájlautomatizálási API-k csomagja. Két API használatával integrálhatja a XLTM-ből PPTX-ba konvertáló funkciót Android-alkalmazásaiba. Az első lépésben exportálhatja a XLTM-t PDF formátumba az [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) használatával. Ezt követően az [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) használatával konvertálhatja a PDF-et PPTX formátumba. 
+Az [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) egy hatékony fájlautomatizálási API-k csomagja. Két API használatával integrálhatja a XLTM-ből PPTX-ba konvertáló funkciót Android-alkalmazásaiba. Az első lépésben exportálhatja a XLTM-t PDF formátumba az [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) használatával. Ezt követően az [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) használatával konvertálhatja a PDF-et PPTX formátumba. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

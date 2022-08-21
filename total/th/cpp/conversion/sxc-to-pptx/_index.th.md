@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: POWERPOINT WORD DOCX DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลง SXC เป็น PPTX ผ่าน C++" h2="ส่งออก Excel&reg; SXC เป็น PPTX ภายในแอปพลิเคชัน C++ ที่ทำงานได้เต็มรูปแบบ" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง SXC เป็น PPTX ผ่าน C++" h2="ส่งออก Excel<sup>&reg;</sup> SXC เป็น PPTX ภายในแอปพลิเคชัน C++ ที่ทำงานได้เต็มรูปแบบ" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="การแปลง SXC เป็น PPTX บน C++" %}}

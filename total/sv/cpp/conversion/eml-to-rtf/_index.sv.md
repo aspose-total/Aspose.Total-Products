@@ -19,7 +19,7 @@ otherformats: FLATOPC PNG SVG DOCM DOCX TEXT XPS PCL DOT DOC TIFF DOTM EPUB PS G
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API för att konvertera EML till RTF" %}}
 1. Öppna EML-filen med [MailMessage](https://reference.aspose.com/eml/cpp/class/aspose.eml.mail_message) klassreferens
-2. Konvertera EML till HTML genom att använda medlemsfunktionen [Spara](https://reference.aspose.com/eml/cpp/class/aspose.eml.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
+2. Konvertera EML till HTML genom att använda medlemsfunktionen [Save](https://reference.aspose.com/eml/cpp/class/aspose.eml.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
 3. Ladda HTML genom att använda klassen [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
 4. Spara dokumentet i RTF-format med metoden [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) och ställ in Rtf som SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

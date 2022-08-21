@@ -13,7 +13,7 @@ otherformats: PPSM POTM PPTM PPSX PPS PPTX POT POTX POWERPOINT ODP
 {{< blocks/products/pf/feature-page-header h1="C++ API для преобразования OTT в PPT" h2="Экспортируйте OTT в PPT в приложениях C++ без использования Microsoft Word&reg; или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) состоит из мощных API-интерфейсов для автоматизации файлов, которые позволяют автоматизировать преобразование OTT в PPT при использовании двух API-интерфейсов. Загрузите свой OTT с помощью [Aspose.Words для C++](https://products.aspose.com/words/cpp/) и преобразуйте его в HTML, затем загрузите HTML с помощью C++ API для обработки PowerPoint [Aspose.Slides для C++]( https://products.aspose.com/slides/cpp/), чтобы создать новую презентацию и сохранить ее как PPT. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) состоит из мощных API-интерфейсов для автоматизации файлов, которые позволяют автоматизировать преобразование OTT в PPT при использовании двух API-интерфейсов. Загрузите свой OTT с помощью [Aspose.Words for C++](https://products.aspose.com/words/cpp/) и преобразуйте его в HTML, затем загрузите HTML с помощью C++ API для обработки PowerPoint [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/), чтобы создать новую презентацию и сохранить ее как PPT. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

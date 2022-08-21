@@ -13,7 +13,7 @@ otherformats: PPT POTX OTP PPSX PPS POWERPOINT PPTM POTM ODP POT
 {{< blocks/products/pf/feature-page-header h1="Converti il formato JSON in PPSM in Android" h2="Analizza il formato JSON in PPSM nelle applicazioni Android senza utilizzare Microsoft<sup>&reg;</sup> PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Puoi convertire il formato JSON in PPSM nelle tue applicazioni Android in un processo in due fasi. Innanzitutto, utilizzando [Aspose.Cells per Android tramite Java](https://products.aspose.com/cells/android-java/), puoi analizzare JSON in PPTX. Successivamente, utilizzando [Aspose.Slides per Android tramite Java](https://products.aspose.com/slides/android-java/), puoi convertire PPTX in PPSM. Entrambe le API rientrano nel pacchetto [Aspose.Total per Android tramite Java](https://products.aspose.com/total/android-java/). 
+Puoi convertire il formato JSON in PPSM nelle tue applicazioni Android in un processo in due fasi. Innanzitutto, utilizzando [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), puoi analizzare JSON in PPTX. Successivamente, utilizzando [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/), puoi convertire PPTX in PPSM. Entrambe le API rientrano nel pacchetto [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Puoi convertire il formato JSON in PPSM nelle tue applicazioni Android in un pro
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
-Puoi facilmente utilizzare Aspose.Total per Android tramite Java direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e installa le librerie nella tua app.
+Puoi facilmente utilizzare Aspose.Total for Android via Java direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e installa le librerie nella tua app.
 
 In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

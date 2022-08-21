@@ -13,7 +13,7 @@ otherformats: POT PPSM OTP ODP PPTM PPT PPS PPSX POTM POTX
 {{< blocks/products/pf/feature-page-header h1="Convertir le format JSON en POWERPOINT sous Android" h2="Analyser le format JSON en POWERPOINT dans les applications Android sans utiliser Microsoft<sup>&reg;</sup> PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Vous pouvez convertir le format JSON en POWERPOINT dans vos applications Android en deux étapes. Tout d'abord, en utilisant [Aspose.Cells pour Android via Java](https://products.aspose.com/cells/android-java/), vous pouvez analyser JSON en PPTX. Après cela, en utilisant [Aspose.Slides pour Android via Java](https://products.aspose.com/slides/android-java/), vous pouvez convertir PPTX en POWERPOINT. Les deux API relèvent du package [Aspose.Total pour Android via Java](https://products.aspose.com/total/android-java/). 
+Vous pouvez convertir le format JSON en POWERPOINT dans vos applications Android en deux étapes. Tout d'abord, en utilisant [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), vous pouvez analyser JSON en PPTX. Après cela, en utilisant [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/), vous pouvez convertir PPTX en POWERPOINT. Les deux API relèvent du package [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Vous pouvez convertir le format JSON en POWERPOINT dans vos applications Android
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
-Vous pouvez facilement utiliser Aspose.Total pour Android via Java directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et installer des bibliothèques dans votre application.
+Vous pouvez facilement utiliser Aspose.Total for Android via Java directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et installer des bibliothèques dans votre application.
 
 Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

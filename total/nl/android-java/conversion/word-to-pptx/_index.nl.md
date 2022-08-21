@@ -13,7 +13,7 @@ otherformats: POT PPS PPT PPSM POTM ODP PPSX PPTM POWERPOINT POTX
 {{< blocks/products/pf/feature-page-header h1="WORD naar PPTX converteren in Android-apps" h2="WORD naar PPTX-conversie in uw Android-applicaties zonder Microsoft Word<sup>&reg;</sup> of PowerPoint te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Bent u een Android-ontwikkelaar en wilt u een functie voor wordumentconversie aan uw toepassing toevoegen? [Aspose.Total voor Android via Java](https://products.aspose.com/total/android-java/) File Format Automation-bibliotheken kunnen u helpen het wordumentconversieproces in uw Android-applicaties te automatiseren. Om het WORD-bestand naar PPTX te converteren, kunt u eerst de wordumentmanipulatie-API [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) gebruiken om het WORD-bestandsformaat naar HTML te converteren. Daarna kunt u met behulp van PowerPoint API [Aspose.Slides voor Android Java](https://products.aspose.com/slides/android-java/), een nieuwe presentatie maken, HTML-inhoud erin schrijven en deze opslaan als PPTX. 
+Bent u een Android-ontwikkelaar en wilt u een functie voor wordumentconversie aan uw toepassing toevoegen? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) File Format Automation-bibliotheken kunnen u helpen het wordumentconversieproces in uw Android-applicaties te automatiseren. Om het WORD-bestand naar PPTX te converteren, kunt u eerst de wordumentmanipulatie-API [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) gebruiken om het WORD-bestandsformaat naar HTML te converteren. Daarna kunt u met behulp van PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), een nieuwe presentatie maken, HTML-inhoud erin schrijven en deze opslaan als PPTX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -26,7 +26,7 @@ Bent u een Android-ontwikkelaar en wilt u een functie voor wordumentconversie aa
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
-Voor WORD-naar-PPTX-bestandsconversie kunt u eenvoudig Aspose.Total voor Android via Java rechtstreeks vanuit [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) en installeer bibliotheken in uw app.
+Voor WORD-naar-PPTX-bestandsconversie kunt u eenvoudig Aspose.Total for Android via Java rechtstreeks vanuit [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) en installeer bibliotheken in uw app.
 
 U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

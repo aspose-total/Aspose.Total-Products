@@ -13,15 +13,15 @@ otherformats: XLAM XLSM DIF XLT CSV XLTX XLSX TSV ODS XLTM EXCEL FODS XLS XLSB
 {{< blocks/products/pf/feature-page-header h1="Převeďte DOCX do formátu JSON v Androidu přes Java" h2="Navrhujte aplikace pro Android pro export DOCX do JSON bez použití Microsoft<sup>&reg;</sup> Word nebo Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Ve svých aplikacích pro Android můžete převést DOCX na formát JSON prostřednictvím [Aspose.Total pro Android přes Java](https://products.aspose.com/total/android-java/). Pomocí rozhraní API pro manipulaci a konverzi dokumentů [Aspose.Words pro Android přes Java](https://products.aspose.com/words/android-java/) můžete exportovat DOCX do HTML. Poté můžete pomocí [Aspose.Cells pro Android přes Java](https://products.aspose.com/cells/android-java/) převést HTML na JSON. 
+Ve svých aplikacích pro Android můžete převést DOCX na formát JSON prostřednictvím [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Pomocí rozhraní API pro manipulaci a konverzi dokumentů [Aspose.Words pro Android přes Java](https://products.aspose.com/words/android-java/) můžete exportovat DOCX do HTML. Poté můžete pomocí [Aspose.Cells pro Android přes Java](https://products.aspose.com/cells/android-java/) převést HTML na JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Převeďte DOCX do formátu JSON v systému Android" %}}
 1. Otevřete soubor DOCX pomocí třídy [Docxument](https://reference.aspose.com/words/java/com.aspose.words/Docxument)
-2. Převeďte DOCX do HTML pomocí [Uložit](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,com.aspose.words.SaveOptions) ) metoda
+2. Převeďte DOCX do HTML pomocí [Save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,com.aspose.words.SaveOptions) ) metoda
 3. Načtěte dokument HTML pomocí třídy [Sešit](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Uložte dokument ve formátu JSON pomocí [Uložit](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)).
+4. Uložte dokument ve formátu JSON pomocí [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}

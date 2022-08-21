@@ -13,7 +13,7 @@ otherformats: MARKDOWN FODS XLTM DIF TSV ODS XLAM EXCEL MHTML XLSX SXC XLTX CSV 
 {{< blocks/products/pf/feature-page-header h1="Konvertera POWERPOINT till XLSM i Android via Java" h2="Exportera POWERPOINT-fil till XLSM i Android-applikationer utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Du kan enkelt konvertera POWERPOINT-fil till XLSM i dina Android-applikationer i en tvåstegsprocess via [Aspose.Total för Android via Java](https://products.aspose.com/total/android-java/). I det första steget kan du exportera POWERPOINT-fil till HTML genom att använda [Aspose.Slides för Android via Java](https://products.aspose.com/slides/android-java/). För det andra, genom att använda [Aspose.Cells för Android via Java](https://products.aspose.com/cells/android-java/), kan du konvertera HTML till XLSM. 
+Du kan enkelt konvertera POWERPOINT-fil till XLSM i dina Android-applikationer i en tvåstegsprocess via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). I det första steget kan du exportera POWERPOINT-fil till HTML genom att använda [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). För det andra, genom att använda [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), kan du konvertera HTML till XLSM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -21,11 +21,11 @@ Du kan enkelt konvertera POWERPOINT-fil till XLSM i dina Android-applikationer i
 1. Öppna POWERPOINT-filen med klassen [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Konvertera POWERPOINT till HTML genom att använda [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) metod
 3. Ladda HTML-dokument med hjälp av klassen [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Spara dokumentet i XLSM-format med [spara](https://reference.aspose.com/cells/java/com.aspose.cells/)
+4. Spara dokumentet i XLSM-format med [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
-För att konvertera POWERPOINT till XLSM kan du enkelt använda Aspose.Total för Android via Java direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) och installera bibliotek i din app.
+För att konvertera POWERPOINT till XLSM kan du enkelt använda Aspose.Total for Android via Java direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) och installera bibliotek i din app.
 
 Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

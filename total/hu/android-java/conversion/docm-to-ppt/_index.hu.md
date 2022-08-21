@@ -13,13 +13,13 @@ otherformats: POWERPOINT ODP POTX PPS POTM PPSX POT PPTM PPTX PPSM CSV DIF FODS 
 {{< blocks/products/pf/feature-page-header h1="Konvertálja a DOCM-t PPT-vé az Android alkalmazásokban" h2="DOCM- PPT-konverzió az Android-alkalmazásokban a Microsoft Word<sup>&reg;</sup> vagy a PowerPoint telepítése nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Ön Android-fejlesztő, aki dokumentumkonverziós funkciót szeretne hozzáadni az alkalmazásához? [Aspose.Total Androidra Java-n keresztül](https://products.aspose.com/total/android-java/) A fájlformátum-automatizálási könyvtárak segíthetnek automatizálni a dokumentumátalakítási folyamatot Android-alkalmazásaiban. A DOCM-fájl PPT-re konvertálásához először használhatja a dokumentummanipulációs API-t [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) a DOCM-fájlformátum HTML-lé konvertálásához. Ezt követően a PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) használatával új prezentációt hozhat létre, HTML-tartalmat írhat bele, és más néven mentheti. PPT. 
+Ön Android-fejlesztő, aki dokumentumkonverziós funkciót szeretne hozzáadni az alkalmazásához? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) A fájlformátum-automatizálási könyvtárak segíthetnek automatizálni a dokumentumátalakítási folyamatot Android-alkalmazásaiban. A DOCM-fájl PPT-re konvertálásához először használhatja a dokumentummanipulációs API-t [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) a DOCM-fájlformátum HTML-lé konvertálásához. Ezt követően a PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) használatával új prezentációt hozhat létre, HTML-tartalmat írhat bele, és más néven mentheti. PPT. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hogyan lehet a DOCM-t PPT-vé konvertálni Androidon" %}}
-1. Nyissa meg a DOCM-fájlt a [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument) osztály használatával
-2. Alakítsa át a DOCM fájlt HTML formátumba a [save](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions)) segítségével )) módszer
+1. Nyissa meg a DOCM-fájlt a [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) osztály használatával
+2. Alakítsa át a DOCM fájlt HTML formátumba a [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) segítségével )) módszer
 3. Inicializáljon egy új [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) objektumot
 5. Bontsa ki a tartalmat HTML-fájlból a BufferedReader segítségével, és írja be a tartalmat a bemutatófájlba
 6. Mentse a dokumentumot az PPT-be a [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) módszerrel

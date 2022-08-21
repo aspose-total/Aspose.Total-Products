@@ -13,7 +13,7 @@ otherformats: POT PPSM OTP ODP PPTM PPT PPS PPSX POTM POTX
 {{< blocks/products/pf/feature-page-header h1="Převeďte formát JSON na POWERPOINT v systému Android" h2="Analyzujte formát JSON na POWERPOINT v aplikacích pro Android bez použití Microsoft<sup>&reg;</sup> PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Formát JSON můžete převést na POWERPOINT ve svých aplikacích pro Android ve dvou krocích. Za prvé, pomocí [Aspose.Cells pro Android přes Java](https://products.aspose.com/cells/android-java/) můžete analyzovat JSON na PPTX. Poté můžete pomocí [Aspose.Slides pro Android přes Java](https://products.aspose.com/slides/android-java/) převést PPTX na POWERPOINT. Obě rozhraní API jsou součástí balíčku [Aspose.Total pro Android přes Java](https://products.aspose.com/total/android-java/). 
+Formát JSON můžete převést na POWERPOINT ve svých aplikacích pro Android ve dvou krocích. Za prvé, pomocí [Aspose.Cells pro Android přes Java](https://products.aspose.com/cells/android-java/) můžete analyzovat JSON na PPTX. Poté můžete pomocí [Aspose.Slides pro Android přes Java](https://products.aspose.com/slides/android-java/) převést PPTX na POWERPOINT. Obě rozhraní API jsou součástí balíčku [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,7 @@ otherformats: PPSX PPTM POWERPOINT POT POTM ODP PPSM OTP PPS PPT
 {{< blocks/products/pf/feature-page-header h1="Android में JSON फॉर्मेट को POTX में बदलें" h2="Microsoft<sup>&reg;</sup> PowerPoint का उपयोग किए बिना Android अनुप्रयोगों में JSON प्रारूप को POTX में पार्स करें" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-आप दो चरणों वाली प्रक्रिया में अपने Android एप्लिकेशन में JSON प्रारूप को POTX में बदल सकते हैं। सबसे पहले, [जावा के माध्यम से Android के लिए Aspose.Cells](https://products.aspose.com/cells/android-java/) का उपयोग करके, आप JSON को PPTX में पार्स कर सकते हैं। उसके बाद, [Aspose.Slides for Android by Java](https://products.aspose.com/slides/android-java/) का उपयोग करके, आप PPTX को POTX में बदल सकते हैं। दोनों एपीआई [Aspose.Total for Android by Java](https://products.aspose.com/total/android-java/) पैकेज के तहत आते हैं। 
+आप दो चरणों वाली प्रक्रिया में अपने Android एप्लिकेशन में JSON प्रारूप को POTX में बदल सकते हैं। सबसे पहले, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) का उपयोग करके, आप JSON को PPTX में पार्स कर सकते हैं। उसके बाद, [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) का उपयोग करके, आप PPTX को POTX में बदल सकते हैं। दोनों एपीआई [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) पैकेज के तहत आते हैं। 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ otherformats: PPSX PPTM POWERPOINT POT POTM ODP PPSM OTP PPS PPT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
-आप [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) से सीधे जावा के माध्यम से Android के लिए Aspose.Total का आसानी से उपयोग कर सकते हैं और अपने ऐप में पुस्तकालय स्थापित करें।
+आप [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) से सीधे Aspose.Total for Android via Java का आसानी से उपयोग कर सकते हैं और अपने ऐप में पुस्तकालय स्थापित करें।
 
 वैकल्पिक रूप से, आप [डाउनलोड](https://downloads.aspose.com/total/androidjava) से एक ज़िप फ़ाइल प्राप्त कर सकते हैं।
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -19,9 +19,9 @@ otherformats: SVG XPS DOTM DOTX PS DOC EMF RTF MD PDF TIFF GIF DOCM DOCX BMP DOT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="EMLをJPEGに変換するC++API" %}}
 1. [MailMessage](https://reference.aspose.com/eml/cpp/class/aspose.eml.mail_message)クラスリファレンスを使用してEMLファイルを開きます
-2. [保存](https://reference.aspose.com/eml/cpp/class/aspose.eml.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)メンバー関数を使用してEMLをHTMLに変換します
+2. [Save](https://reference.aspose.com/eml/cpp/class/aspose.eml.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)メンバー関数を使用してEMLをHTMLに変換します
 3. [ドキュメント](https://reference.aspose.com/words/cpp/class/aspose.words.document)クラスを使用してHTMLをロードします
-4. [保存](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)メソッドを使用してドキュメントをJPEG形式で保存し、JpegをSaveFormatとして設定します
+4. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)メソッドを使用してドキュメントをJPEG形式で保存し、JpegをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}

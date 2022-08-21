@@ -13,15 +13,15 @@ otherformats: XLT XLTM FODS SXC XLAM XLS EXCEL ODS XLSM DIF XLSB XLTX TSV CSV
 {{< blocks/products/pf/feature-page-header h1="Převeďte DOCM do formátu JSON pomocí C++" h2="Exportujte DOCM do JSON přes C++ bez použití Microsoft<sup>&reg;</sup> Word nebo Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Pomocí [Aspose.Total for C++](https://products.aspose.com/total/cpp/) můžete převést DOCM do formátu JSON ve svých aplikacích C++. Za prvé, pomocí [Aspose.Words pro C++](https://products.aspose.com/words/cpp/) můžete exportovat DOCM do HTML. Poté můžete pomocí [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) převést HTML do formátu JSON. 
+Pomocí [Aspose.Total for C++](https://products.aspose.com/total/cpp/) můžete převést DOCM do formátu JSON ve svých aplikacích C++. Za prvé, pomocí [Aspose.Words for C++](https://products.aspose.com/words/cpp/) můžete exportovat DOCM do HTML. Poté můžete pomocí [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) převést HTML do formátu JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Převeďte DOCM do formátu JSON pomocí C++" %}}
-1. Otevřete soubor DOCM pomocí odkazu třídy [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
-2. Převeďte DOCM do HTML pomocí členské funkce [Uložit](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string_saveformat)
+1. Otevřete soubor DOCM pomocí odkazu třídy [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
+2. Převeďte DOCM do HTML pomocí členské funkce [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string_saveformat)
 3. Načtěte dokument HTML pomocí odkazu třídy [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
-4. Uložte dokument do formátu JSON pomocí členské funkce [Uložit](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
+4. Uložte dokument do formátu JSON pomocí členské funkce [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}

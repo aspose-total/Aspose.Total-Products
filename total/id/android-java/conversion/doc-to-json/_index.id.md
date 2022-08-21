@@ -13,7 +13,7 @@ otherformats: XLAM XLT CSV XLSX FODS XLTM XLSM XLTX ODS XLSB EXCEL SXC TSV DIF
 {{< blocks/products/pf/feature-page-header h1="Konversi Format DOC ke JSON di Android melalui Java" h2="Rancang aplikasi Android untuk mengekspor DOC ke JSON tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Anda dapat mengonversi format DOC ke JSON di Aplikasi Android Anda melalui [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Dengan menggunakan manipulasi dokumen dan API konversi [Aspose.Words untuk Android melalui Java](https://products.aspose.com/words/android-java/), Anda dapat mengekspor DOC ke HTML. Setelah itu, dengan menggunakan [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), Anda dapat mengonversi HTML ke JSON. 
+Anda dapat mengonversi format DOC ke JSON di Aplikasi Android Anda melalui [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Dengan menggunakan manipulasi dokumen dan API konversi [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/), Anda dapat mengekspor DOC ke HTML. Setelah itu, dengan menggunakan [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), Anda dapat mengonversi HTML ke JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Anda dapat mengonversi format DOC ke JSON di Aplikasi Android Anda melalui [Aspo
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
-Anda dapat dengan mudah menggunakan Aspose.Total untuk Android melalui Java langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) dan instal pustaka di aplikasi Anda.
+Anda dapat dengan mudah menggunakan Aspose.Total for Android via Java langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) dan instal pustaka di aplikasi Anda.
 
 Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

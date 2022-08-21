@@ -10,10 +10,10 @@ outformat: XLS
 otherformats: CSV EXCEL ODS TSV XLT XLSB XLTX XLAM SXC XLSM XLTM XLSX FODS DIF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi RTF sang XLS trong các ứng dụng Android" h2="Xuất RTF sang XLS trong Android qua Java mà không sử dụng Microsoft <sup> <sup>&reg;</sup>; </sup> Word hoặc Microsoft <sup> <sup>&reg;</sup>; </sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi RTF sang XLS trong các ứng dụng Android" h2="Xuất RTF sang XLS trong Android qua Java mà không sử dụng Microsoft <sup>&reg;</sup> Word hoặc Microsoft <sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Bằng cách sử dụng [Aspose.Total cho Android qua Java](https://products.aspose.com/total/android-java/), bạn có thể tích hợp tính năng chuyển đổi RTF sang XLS bên trong các ứng dụng Android của mình. Trước tiên, bạn có thể chuyển đổi RTF sang HTML bằng cách sử dụng API chuyển đổi và thao tác tài liệu phong phú, giàu tính năng [Aspose.Words dành cho Android qua Java](https://products.aspose.com/words/android-java/). Sau đó, bằng cách sử dụng [Aspose.Cells cho Java](https://products.aspose.com/cells/android-java/), bạn có thể chuyển đổi HTML sang XLS. 
+Bằng cách sử dụng [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), bạn có thể tích hợp tính năng chuyển đổi RTF sang XLS bên trong các ứng dụng Android của mình. Trước tiên, bạn có thể chuyển đổi RTF sang HTML bằng cách sử dụng API chuyển đổi và thao tác tài liệu phong phú, giàu tính năng [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Sau đó, bằng cách sử dụng [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), bạn có thể chuyển đổi HTML sang XLS. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,9 +25,9 @@ Bằng cách sử dụng [Aspose.Total cho Android qua Java](https://products.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
-Bạn có thể dễ dàng sử dụng Aspose.Total cho Android qua Java trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và cài đặt [Aspose.Cells cho Android qua Java](https://rtfs.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via- java-from-maven-repository) và [Aspose.Words dành cho Android qua Java](https://rtfs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install- asposewords-for-android-via-java-from-maven-repository) trong các ứng dụng của bạn.
+Bạn có thể dễ dàng sử dụng Aspose.Total for Android via Java trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và cài đặt [Aspose.Cells for Android via Java](https://rtfs.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via- java-from-maven-repository) và [Aspose.Words for Android via Java](https://rtfs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install- asposewords-for-android-via-java-from-maven-repository) trong các ứng dụng của bạn.
 
-Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://downloads.aspose.com/total/androidjava).
+Ngoài ra, bạn có thể tải tệp ZIP từ [download](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 
@@ -38,7 +38,7 @@ Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://download
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Xóa thông tin không sử dụng khỏi tài liệu RTF trong Android qua Java" %}}
-Trước khi chuyển đổi RTF sang XLS, bạn có thể xóa thông tin không sử dụng khỏi Tài liệu RTF qua [Aspose.Words dành cho Android qua Java](https://products.aspose.com/words/android-java/). Đôi khi bạn có thể cần phải loại bỏ thông tin không sử dụng hoặc trùng lặp để giảm kích thước của tài liệu đầu ra và thời gian xử lý. Lớp [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) cho phép bạn chỉ định các tùy chọn để làm sạch tài liệu. Để xóa các kiểu trùng lặp hoặc chỉ các kiểu hoặc danh sách không sử dụng khỏi tài liệu, bạn có thể sử dụng phương pháp [Dọn dẹp](https://reference.aspose.com/words/java/com.aspose.words/Rtfument#cleanup ()). Bạn có thể sử dụng [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) và [UnusedBuiltinStyles](https://reference.aspose.com/words/java) để phát hiện và xóa các kiểu được đánh dấu là "không sử dụng".
+Trước khi chuyển đổi RTF sang XLS, bạn có thể xóa thông tin không sử dụng khỏi Tài liệu RTF qua [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Đôi khi bạn có thể cần phải loại bỏ thông tin không sử dụng hoặc trùng lặp để giảm kích thước của tài liệu đầu ra và thời gian xử lý. Lớp [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) cho phép bạn chỉ định các tùy chọn để làm sạch tài liệu. Để xóa các kiểu trùng lặp hoặc chỉ các kiểu hoặc danh sách không sử dụng khỏi tài liệu, bạn có thể sử dụng phương pháp [Dọn dẹp](https://reference.aspose.com/words/java/com.aspose.words/Rtfument#cleanup ()). Bạn có thể sử dụng [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) và [UnusedBuiltinStyles](https://reference.aspose.com/words/java) để phát hiện và xóa các kiểu được đánh dấu là "không sử dụng".
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-rtfument.java" >}}
@@ -46,7 +46,7 @@ Trước khi chuyển đổi RTF sang XLS, bạn có thể xóa thông tin khôn
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Lưu tệp XLS để phát trực tuyến trong Android qua Java" %}}
-Sau khi chuyển đổi RTF sang XLS, [Aspose.Cells dành cho Android qua Java](https://products.aspose.com/cells/android-java/) cho phép bạn lưu tài liệu của mình vào luồng. Nếu bạn cần lưu tệp vào Luồng thì bạn nên tạo một đối tượng FileOutputStream và sau đó [lưu](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save (java.io. OutputStream,% 20com.aspose.cells.SaveOptions)) tệp vào đối tượng Luồng đó bằng cách gọi phương thức lưu của [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sự vật.
+Sau khi chuyển đổi RTF sang XLS, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) cho phép bạn lưu tài liệu của mình vào luồng. Nếu bạn cần lưu tệp vào Luồng thì bạn nên tạo một đối tượng FileOutputStream và sau đó [lưu](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save (java.io. OutputStream,% 20com.aspose.cells.SaveOptions)) tệp vào đối tượng Luồng đó bằng cách gọi phương thức lưu của [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sự vật.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}

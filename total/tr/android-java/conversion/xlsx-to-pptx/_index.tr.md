@@ -13,7 +13,7 @@ otherformats: WORD POWERPOINT DOCX DOC
 {{< blocks/products/pf/feature-page-header h1="Java aracılığıyla Android'de XLSX'yi PPTX'ye dönüştürün" h2="Microsoft<sup>&reg;</sup> Excel kullanmadan Android Uygulamalarınızda XLSX'yi PPTX'ye dönüştürün" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Java aracılığıyla Android için Aspose.Total](https://products.aspose.com/total/android-java/) güçlü bir Dosya Otomasyonu API'leri paketidir. API'lerinden ikisini kullanarak, Android uygulamalarınıza XLSX'den PPTX'a dönüştürme özelliğini entegre edebilirsiniz. İlk adımda, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) kullanarak XLSX'yi PDF'ye aktarabilirsiniz. Bundan sonra, [Java üzerinden Android için Aspose.PDF](https://products.aspose.com/pdf/android-java/) kullanarak PDF'yi PPTX'ye dönüştürebilirsiniz. 
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) güçlü bir Dosya Otomasyonu API'leri paketidir. API'lerinden ikisini kullanarak, Android uygulamalarınıza XLSX'den PPTX'a dönüştürme özelliğini entegre edebilirsiniz. İlk adımda, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) kullanarak XLSX'yi PDF'ye aktarabilirsiniz. Bundan sonra, [Java üzerinden Android için Aspose.PDF](https://products.aspose.com/pdf/android-java/) kullanarak PDF'yi PPTX'ye dönüştürebilirsiniz. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

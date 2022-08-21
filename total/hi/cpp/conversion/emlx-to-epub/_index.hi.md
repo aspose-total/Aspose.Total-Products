@@ -19,8 +19,8 @@ otherformats: PS DOC PCL GIF FLATOPC JPEG ODT EMF BMP DOTM OTT TEXT MD DOT DOCX 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="सी ++ एपीआई ईमेल को बीएमपी में कनवर्ट करने के लिए" %}}
 1. [MailMessage](https://reference.aspose.com/emlx/cpp/class/aspose.emlx.mail_message) वर्ग संदर्भ का उपयोग करके EMLX फ़ाइल खोलें
-2. [सहेजें](https://reference.aspose.com/emlx/cpp/class/aspose.emlx.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786) सदस्य फ़ंक्शन का उपयोग करके EMLX को HTML में बदलें
-3. [दस्तावेज़](https://reference.aspose.com/words/cpp/class/aspose.words.document) वर्ग का उपयोग करके HTML लोड करें
+2. [Save](https://reference.aspose.com/emlx/cpp/class/aspose.emlx.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786) सदस्य फ़ंक्शन का उपयोग करके EMLX को HTML में बदलें
+3. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) वर्ग का उपयोग करके HTML लोड करें
 4. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) विधि का उपयोग करके दस्तावेज़ को EPUB प्रारूप में सहेजें और Epub को SaveFormat के रूप में सेट करें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

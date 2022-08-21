@@ -13,7 +13,7 @@ otherformats: OTT DOT FLATOPC DOTM ODT DOCM DOCX WORDML WORD DOC DOTX RTF
 {{< blocks/products/pf/feature-page-header h1="Java aracılığıyla Andorid'de POTX'u TEXT'a dönüştürün" h2="Microsoft PowerPoint veya Word'e bağlı kalmadan Android uygulamalarında POTX'u TEXT'ye dönüştürmek için dosya biçimi API'leri" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Java aracılığıyla Android için Aspose.Total](https://products.aspose.com/total/android-java/), Android uygulamalarında dosya biçimlerinin değiştirilmesine olanak tanır. Pakette sağlanan API'leri kullanarak, uygulamalarınızda PowerPoint POTX'tan Word TEXT'ye dönüştürme işlemini otomatikleştirebilirsiniz.
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), Android uygulamalarında dosya biçimlerinin değiştirilmesine olanak tanır. Pakette sağlanan API'leri kullanarak, uygulamalarınızda PowerPoint POTX'tan Word TEXT'ye dönüştürme işlemini otomatikleştirebilirsiniz.
 Verilen belgenizi iki adımda dönüştürebilirsiniz. POTX'u HTML'ye dönüştürmek için Android uygulamaları için bir PowerPoint API'si olan [Aspose.Slides for Andorid with Java](https://products.aspose.com/slides/android-java/) kullanabilirsiniz. Bundan sonra belge işleme API'sini [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) kullanarak HTML'yi TEXT'ye dönüştürebilirsiniz. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 

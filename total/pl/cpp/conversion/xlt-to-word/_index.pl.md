@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: POWERPOINT DOCX PPTX DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj XLT na WORD za pomocą C++" h2="Eksportuj Excel&reg; XLT do WORD w ramach w pełni funkcjonalnych aplikacji C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj XLT na WORD za pomocą C++" h2="Eksportuj Excel<sup>&reg;</sup> XLT do WORD w ramach w pełni funkcjonalnych aplikacji C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konwersja XLT do WORD w C++" %}}

@@ -19,9 +19,9 @@ otherformats: DOTM DOCX RTF DOTX FLATOPC WORD DOCM DOC WORDML DOT OTT TEXT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API C++ per convertire POTM in ODT" %}}
 1. Caricare il file POTM utilizzando [Presentazione](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) riferimento alla classe
-2. Eseguire il rendering di POTM in HTML utilizzando la funzione membro [Salva](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) e impostare Html come SaveFormat
+2. Eseguire il rendering di POTM in HTML utilizzando la funzione membro [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) e impostare Html come SaveFormat
 3. Caricare il file HTML convertito utilizzando il riferimento alla classe [Odtument](https://reference.aspose.com/words/cpp/class/aspose.words.odtument)
-4. Salvare il odtumento in formato ODT utilizzando [Salva](https://reference.aspose.com/words/cpp/class/aspose.words.odtument#save_string) funzione membro
+4. Salvare il odtumento in formato ODT utilizzando [Save](https://reference.aspose.com/words/cpp/class/aspose.words.odtument#save_string) funzione membro
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}

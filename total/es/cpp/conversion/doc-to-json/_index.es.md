@@ -13,12 +13,12 @@ otherformats: XLAM XLT CSV XLSX FODS XLTM XLSM XLTX ODS XLSB EXCEL SXC TSV DIF
 {{< blocks/products/pf/feature-page-header h1="Convierta DOC a formato JSON a través de C++" h2="Exporte DOC a JSON a través de C++ sin usar Microsoft<sup>&reg;</sup> Word o Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Al usar [Aspose.Total para C++](https://products.aspose.com/total/cpp/) puede convertir el formato DOC a JSON dentro de sus aplicaciones C++. En primer lugar, al usar [Aspose.Words for C++](https://products.aspose.com/words/cpp/), puede exportar DOC a HTML. Después de eso, usando [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), puede convertir HTML a formato JSON. 
+Al usar [Aspose.Total for C++](https://products.aspose.com/total/cpp/) puede convertir el formato DOC a JSON dentro de sus aplicaciones C++. En primer lugar, al usar [Aspose.Words for C++](https://products.aspose.com/words/cpp/), puede exportar DOC a HTML. Después de eso, usando [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), puede convertir HTML a formato JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convierta DOC a formato JSON a través de C++" %}}
-1. Abra el archivo DOC usando la referencia de clase [Documento](https://reference.aspose.com/words/cpp/class/aspose.words.document)
+1. Abra el archivo DOC usando la referencia de clase [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
 2. Convierta DOC a HTML usando la función miembro [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)
 3. Cargue el documento HTML utilizando la referencia de clase [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
 4. Guarde el documento en formato JSON usando la función miembro [Guardar](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)

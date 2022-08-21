@@ -13,7 +13,7 @@ otherformats: SWF PPSX PPTM OTP PPT POT PPS ODP PPSM POWERPOINT POTX XAML
 {{< blocks/products/pf/feature-page-header h1="Converti PCL in POTM su Android tramite Java" h2="Trasforma PCL in POTM all'interno delle tue applicazioni Android senza utilizzare Microsoft<sup>&reg;</sup> PowerPoint o Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Puoi integrare la funzione di conversione da PCL a POTM all'interno delle tue applicazioni Android utilizzando due semplici passaggi. Nel primo passaggio puoi esportare PCL in PPTX utilizzando [Aspose.PDF per Android tramite Java](https://products.aspose.com/pdf/android-java/). Successivamente, utilizzando [Aspose.Slides per Android tramite Java](https://products.aspose.com/slides/android-java/), puoi convertire PPTX in POTM. Entrambe le API rientrano nel pacchetto [Aspose.Total per Android tramite Java](https://products.aspose.com/total/android-java/). 
+Puoi integrare la funzione di conversione da PCL a POTM all'interno delle tue applicazioni Android utilizzando due semplici passaggi. Nel primo passaggio puoi esportare PCL in PPTX utilizzando [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/). Successivamente, utilizzando [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/), puoi convertire PPTX in POTM. Entrambe le API rientrano nel pacchetto [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Puoi integrare la funzione di conversione da PCL a POTM all'interno delle tue ap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
-Puoi facilmente utilizzare Aspose.Total per Android tramite Java direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e installa [Aspose.PDF per Android tramite Java](https://docs.aspose.com/pdf/androidjava/installation/) e [Aspose.Slides per Android tramite Java](https://docs.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) nelle tue applicazioni.
+Puoi facilmente utilizzare Aspose.Total for Android via Java direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e installa [Aspose.PDF for Android via Java](https://docs.aspose.com/pdf/androidjava/installation/) e [Aspose.Slides for Android via Java](https://docs.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) nelle tue applicazioni.
 
 In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -46,7 +46,7 @@ presentation.save("output.potm", SaveFormat.Potm);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Apri il file PCL protetto da password in Android tramite Java" %}}
-Durante il caricamento del formato file PCL, il documento potrebbe essere protetto da password. [Aspose.PDF per Android tramite Java](https://products.aspose.com/pdf/android-java/) consente di aprire anche documenti crittografati. Per aprire il file crittografato, è possibile inizializzare una nuova istanza di [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-) e passare il nome del file e la password come argomenti.
+Durante il caricamento del formato file PCL, il documento potrebbe essere protetto da password. [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) consente di aprire anche documenti crittografati. Per aprire il file crittografato, è possibile inizializzare una nuova istanza di [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-) e passare il nome del file e la password come argomenti.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java
@@ -60,7 +60,7 @@ document.save("PptxOutput.pptx", SaveFormat.Pptx);
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Crea un'immagine in miniatura del file POTM nelle applicazioni Android" %}}
-Dopo aver convertito PCL in POTM, puoi anche creare immagini in miniatura del tuo documento di output. Utilizzando la ricca funzionalità [Aspose.Slides per Android tramite Java](https://products.aspose.com/slides/android-java/) puoi generare immagini in miniatura delle diapositive creando un'istanza della [Presentazione]( https://reference.aspose.com/slides/java/com.aspose.slides/Presentation). Successivamente, puoi ottenere il riferimento di qualsiasi diapositiva desiderata utilizzando il suo ID o indice e ottenere l'immagine in miniatura della diapositiva di riferimento su una scala specificata.
+Dopo aver convertito PCL in POTM, puoi anche creare immagini in miniatura del tuo documento di output. Utilizzando la ricca funzionalità [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) puoi generare immagini in miniatura delle diapositive creando un'istanza della [Presentazione]( https://reference.aspose.com/slides/java/com.aspose.slides/Presentation). Successivamente, puoi ottenere il riferimento di qualsiasi diapositiva desiderata utilizzando il suo ID o indice e ottenere l'immagine in miniatura della diapositiva di riferimento su una scala specificata.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java

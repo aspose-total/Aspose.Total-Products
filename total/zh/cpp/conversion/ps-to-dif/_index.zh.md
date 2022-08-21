@@ -38,7 +38,7 @@ otherformats: EXCEL SXC MD XLTM XLSM XLTX XLAM XLSB XLT TXT FODS ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="通过 C++ 获取或设置 PS 文件信息" %}}
-[Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) 还允许您获取有关 PS 文档的信息，并让您在转换过程之前做出明智的决定。为了获取PS文件的文件特定信息，首先需要调用[get_Info()](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#ae7a6ba620499ffa0dbaa5c813ee96c4a)方法[文档](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) 类。一旦检索到 DocumentInfo 对象，您就可以获取各个属性的值。此外，您还可以使用 DocumentInfo 类的相应方法设置属性。
+[Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) 还允许您获取有关 PS 文档的信息，并让您在转换过程之前做出明智的决定。为了获取PS文件的文件特定信息，首先需要调用[get_Info()](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#ae7a6ba620499ffa0dbaa5c813ee96c4a)方法[Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) 类。一旦检索到 DocumentInfo 对象，您就可以获取各个属性的值。此外，您还可以使用 DocumentInfo 类的相应方法设置属性。
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}

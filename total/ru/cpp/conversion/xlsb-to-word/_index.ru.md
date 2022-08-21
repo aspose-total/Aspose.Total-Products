@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCX PPTX DOC POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Конвертировать XLSB в WORD через C++" h2="Экспорт Excel&reg; XLSB в WORD в полнофункциональных приложениях C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Конвертировать XLSB в WORD через C++" h2="Экспорт Excel<sup>&reg;</sup> XLSB в WORD в полнофункциональных приложениях C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование XLSB в WORD на C++" %}}

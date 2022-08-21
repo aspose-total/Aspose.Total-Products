@@ -20,7 +20,7 @@ otherformats: DOT WORDML GIF DOTX DOCM BMP TEXT XPS PNG PDF MD DOTM PCL EMF RTF 
 {{% blocks/products/pf/agp/feature-section-col title="API de C++ para convertir EML a EPUB" %}}
 1. Abra el archivo EML usando la referencia de clase [MailMessage](https://reference.aspose.com/eml/cpp/class/aspose.eml.mail_message)
 2. Convierta EML a HTML usando la función miembro [Guardar](https://reference.aspose.com/eml/cpp/class/aspose.eml.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
-3. Cargue HTML usando la clase [Documento](https://reference.aspose.com/words/cpp/class/aspose.words.document)
+3. Cargue HTML usando la clase [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
 4. Guarde el documento en formato EPUB usando el método [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) y configure Epub como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

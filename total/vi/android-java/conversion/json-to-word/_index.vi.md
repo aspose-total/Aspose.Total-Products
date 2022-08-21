@@ -10,10 +10,10 @@ outformat: DOC
 otherformats: DOT PS RTF MOBI EPUB WORDML DOTX CHM OTT PCL DOCM FLATOPC DOC ODT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi định dạng JSON thành WORD trong các ứng dụng Android" h2="Phân tích cú pháp JSON thành WORD trong các ứng dụng Android mà không cần sử dụng Microsoft <sup> <sup>&reg;</sup>; </sup> Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi định dạng JSON thành WORD trong các ứng dụng Android" h2="Phân tích cú pháp JSON thành WORD trong các ứng dụng Android mà không cần sử dụng Microsoft <sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Bạn có thể chuyển đổi JSON thành WORD trong các ứng dụng Android của mình theo quy trình hai bước. Thứ nhất, bằng cách sử dụng API xử lý bảng tính mạnh mẽ [Aspose.Cells cho Android qua Java](https://products.aspose.com/cells/android-java/), bạn có thể phân tích cú pháp JSON thành PDF. Trong bước thứ hai, bạn có thể chuyển đổi PDF sang WORD bằng cách sử dụng API xử lý văn bản [Aspose.Words dành cho Android qua Java](https://products.aspose.com/words/android-java/). Cả hai API đều thuộc họ sản phẩm [Aspose.Total cho Android qua Java](https://products.aspose.com/total/android-java/). 
+Bạn có thể chuyển đổi JSON thành WORD trong các ứng dụng Android của mình theo quy trình hai bước. Thứ nhất, bằng cách sử dụng API xử lý bảng tính mạnh mẽ [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), bạn có thể phân tích cú pháp JSON thành PDF. Trong bước thứ hai, bạn có thể chuyển đổi PDF sang WORD bằng cách sử dụng API xử lý văn bản [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Cả hai API đều thuộc họ sản phẩm [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,9 +25,9 @@ Bạn có thể chuyển đổi JSON thành WORD trong các ứng dụng Android
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
-Bạn có thể dễ dàng sử dụng Aspose.Total cho Android qua Java trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và cài đặt thư viện trong ứng dụng của bạn.
+Bạn có thể dễ dàng sử dụng Aspose.Total for Android via Java trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và cài đặt thư viện trong ứng dụng của bạn.
 
-Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://downloads.aspose.com/total/androidjava).
+Ngoài ra, bạn có thể tải tệp ZIP từ [download](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 
@@ -46,7 +46,7 @@ Hơn nữa, API cho phép bạn đặt các tùy chọn bố cục cho định d
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Chuyển đổi định dạng JSON sang WORD với Watermark trong Android qua Java" %}}
-Sử dụng API, bạn cũng có thể chuyển đổi JSON thành WORD với hình mờ. Để thêm hình mờ vào tài liệu WORD của bạn, trước tiên bạn có thể phân tích cú pháp tệp JSON thành PDF và thêm hình mờ vào đó. Để thêm hình mờ, hãy tải tệp PDF mới được tạo bằng cách sử dụng lớp [Tài liệu](https://reference.aspose.com/words/java/com.aspose.words/Document), tạo một phiên bản của TextWatermarkOptions và đặt thuộc tính của nó, Gọi phương thức Watermark.setText và chuyển văn bản & đối tượng hình mờ của TextWatermarkOptions. Sau khi thêm hình mờ, bạn có thể lưu tài liệu vào WORD.
+Sử dụng API, bạn cũng có thể chuyển đổi JSON thành WORD với hình mờ. Để thêm hình mờ vào tài liệu WORD của bạn, trước tiên bạn có thể phân tích cú pháp tệp JSON thành PDF và thêm hình mờ vào đó. Để thêm hình mờ, hãy tải tệp PDF mới được tạo bằng cách sử dụng lớp [Document](https://reference.aspose.com/words/java/com.aspose.words/Document), tạo một phiên bản của TextWatermarkOptions và đặt thuộc tính của nó, Gọi phương thức Watermark.setText và chuyển văn bản & đối tượng hình mờ của TextWatermarkOptions. Sau khi thêm hình mờ, bạn có thể lưu tài liệu vào WORD.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "parse-json-to-word-with-watermark.cs" >}}

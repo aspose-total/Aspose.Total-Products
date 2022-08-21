@@ -13,19 +13,19 @@ otherformats: CHM MOBI DOT DOTX EPUB DOCM PCL PS ODT WORD RTF FLATOPC DOC OTT
 {{< blocks/products/pf/feature-page-header h1="Converter o formato JSON para WORDML em aplicativos Android" h2="Analise JSON para WORDML em aplicativos Android sem usar o Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Você pode converter JSON para WORDML em seus aplicativos Android em um processo de duas etapas. Em primeiro lugar, usando a API de processamento de planilha poderosa [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), você pode analisar JSON para PDF. Na segunda etapa, você pode converter PDF para WORDML usando a API de processamento de texto [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Ambas as APIs estão na família de produtos [Aspose.Total para Android via Java](https://products.aspose.com/total/android-java/). 
+Você pode converter JSON para WORDML em seus aplicativos Android em um processo de duas etapas. Em primeiro lugar, usando a API de processamento de planilha poderosa [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), você pode analisar JSON para PDF. Na segunda etapa, você pode converter PDF para WORDML usando a API de processamento de texto [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Ambas as APIs estão na família de produtos [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converter o formato JSON para WORDML no Android via Java" %}}
 1. Crie um novo objeto [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) e leia dados JSON válidos do arquivo
-2. Importe o arquivo JSON para a planilha usando a classe [JsonUtility](https://reference.aspose.com/cells/java/com.aspose.cells/JsonUtility) e [Salvar](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) como PDF
+2. Importe o arquivo JSON para a planilha usando a classe [JsonUtility](https://reference.aspose.com/cells/java/com.aspose.cells/JsonUtility) e [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) como PDF
 3. Carregue o documento PDF usando a classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
-4. Salve o documento no formato WORDML usando [Salvar](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) método
+4. Salve o documento no formato WORDML usando [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
-Você pode facilmente usar o Aspose.Total para Android via Java diretamente do [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e instalar bibliotecas em seu aplicativo.
+Você pode facilmente usar o Aspose.Total for Android via Java diretamente do [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e instalar bibliotecas em seu aplicativo.
 
 Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -21,7 +21,7 @@ otherformats: FLATOPC TEXT WORD ODT WORDML RTF DOTM DOC DOCM OTT DOCX DOT
 1. Carregue o arquivo PPS usando a referência de classe [Apresentação](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 2. Renderize PPS para HTML usando a função de membro [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) e defina Html como SaveFormat
 3. Carregue o arquivo HTML convertido usando a referência de classe [Dotxument](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument)
-4. Salve o dotxumento no formato DOTX usando a função de membro [Salvar](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument#save_string)
+4. Salve o dotxumento no formato DOTX usando a função de membro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument#save_string)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}

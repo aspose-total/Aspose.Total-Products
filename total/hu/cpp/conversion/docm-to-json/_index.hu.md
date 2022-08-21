@@ -18,7 +18,7 @@ Az [Aspose.Total for C++](https://products.aspose.com/total/cpp/) használatáva
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="A DOCM konvertálása JSON formátumba a C++ segítségével" %}}
-1. Nyissa meg a DOCM-fájlt a [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument) osztályhivatkozás használatával
+1. Nyissa meg a DOCM-fájlt a [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument) osztályhivatkozás használatával
 2. Alakítsa át a DOCM-t HTML-vé a [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string_saveformat) tagfüggvény használatával
 3. Töltsön be HTML-dokumentumot az [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) osztályhivatkozás használatával
 4. Mentse a dokumentumot JSON formátumba a [Mentés](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) tagfüggvénnyel

@@ -13,14 +13,14 @@ otherformats: PS DOCM XAMLFLOW DOTM OTT DOT WORDML MHTML MARKDOWN ODT PCL RTF
 {{< blocks/products/pf/feature-page-header h1="API de C++ para exportar EPUB a FLATOPC" h2="Renderice EPUB a FLATOPC dentro de aplicaciones C++ sin necesidad de ninguna aplicación de terceros" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) las bibliotecas de automatización de formato de archivo permiten al desarrollador de C++ convertir EPUB a FLATOPC en dos simples pasos. En primer lugar, puede usar la API [Aspose.PDF para C++](https://products.aspose.com/pdf/cpp/) para convertir el formato de archivo EPUB a DOC. En segundo lugar, al utilizar la API avanzada de procesamiento de documentos de Word [Aspose.Words for C++](https://products.aspose.com/words/cpp/), puede exportar DOC a FLATOPC. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) las bibliotecas de automatización de formato de archivo permiten al desarrollador de C++ convertir EPUB a FLATOPC en dos simples pasos. En primer lugar, puede usar la API [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) para convertir el formato de archivo EPUB a DOC. En segundo lugar, al utilizar la API avanzada de procesamiento de documentos de Word [Aspose.Words for C++](https://products.aspose.com/words/cpp/), puede exportar DOC a FLATOPC. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API de C++ para renderizar EPUB a FLATOPC" %}}
-1. Abra el archivo EPUB usando la referencia de clase [Documento](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)
+1. Abra el archivo EPUB usando la referencia de clase [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)
 2. Convierta EPUB a DOC usando la función miembro [Guardar](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#adb8061c585440fde49c1263e68837f01)
-3. Cargue el archivo DOC utilizando la referencia de clase [Documento](https://reference.aspose.com/words/cpp/class/aspose.words.document) de Aspose.Words API
+3. Cargue el archivo DOC utilizando la referencia de clase [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) de Aspose.Words API
 4. Guarde el documento en formato FLATOPC usando la función miembro [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stream_saveformat)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -46,7 +46,7 @@ wordDoc->Save(u"output.FlatOpc");
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Cambiar la contraseña del documento EPUB a través de C++" %}}
-En el proceso de renderizar EPUB a FLATOPC, puede abrir un EPUB protegido con contraseña y también cambiar su contraseña. Para cambiar la contraseña de un archivo EPUB, debe conocer la contraseña del propietario de ese documento. Puede cargar un documento PDF protegido con contraseña con [Aspose.PDF para C++](https://products.aspose.com/pdf/cpp/) especificando su contraseña de propietario y usando el método ChangePasswords para cambiar la contraseña.
+En el proceso de renderizar EPUB a FLATOPC, puede abrir un EPUB protegido con contraseña y también cambiar su contraseña. Para cambiar la contraseña de un archivo EPUB, debe conocer la contraseña del propietario de ese documento. Puede cargar un documento PDF protegido con contraseña con [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) especificando su contraseña de propietario y usando el método ChangePasswords para cambiar la contraseña.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp

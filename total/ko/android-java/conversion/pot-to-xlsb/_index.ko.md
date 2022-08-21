@@ -13,15 +13,15 @@ otherformats: ODS CSV DIF XLTX FODS XLSM XLS MARKDOWN XLTM XLT TSV EXCEL MHTML X
 {{< blocks/products/pf/feature-page-header h1="Java를 통해 Android에서 POT을 XLSB로 변환" h2="Microsoft<sup>&reg;</sup> Excel 또는 PowerPoint를 사용하지 않고 Android 애플리케이션에서 POT 파일을 XLSB로 내보내기" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Java를 통한 Android용 Aspose.Total](https://products.aspose.com/total/android-java/)을 통해 2단계 프로세스로 Android 애플리케이션에서 POT 파일을 XLSB로 쉽게 변환할 수 있습니다. 첫 번째 단계에서 [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/)를 사용하여 HTML로 POT 파일을 내보낼 수 있습니다. 둘째, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)를 사용하여 HTML을 XLSB로 변환할 수 있습니다. 
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)을 통해 2단계 프로세스로 Android 애플리케이션에서 POT 파일을 XLSB로 쉽게 변환할 수 있습니다. 첫 번째 단계에서 [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/)를 사용하여 HTML로 POT 파일을 내보낼 수 있습니다. 둘째, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)를 사용하여 HTML을 XLSB로 변환할 수 있습니다. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Android에서 POT을 XLSB로 변환하는 방법" %}}
 1. [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 클래스를 사용하여 POT 파일을 엽니다.
-2. [저장](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides)을 사용하여 POT을 HTML로 변환합니다.ISaveOptions-) 메서드
+2. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides)을 사용하여 POT을 HTML로 변환합니다.ISaveOptions-) 메서드
 3. [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 클래스를 사용하여 HTML 문서 로드
-4. [저장](https://reference.aspose.com/cells/java/com.aspose.cells/)을 사용하여 문서를 XLSB 형식으로 저장합니다.
+4. [save](https://reference.aspose.com/cells/java/com.aspose.cells/)을 사용하여 문서를 XLSB 형식으로 저장합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}

@@ -13,7 +13,7 @@ otherformats: XLTX XLT DIF SXC XLSB XLS FODS CSV EXCEL XLAM MARKDOWN XLTM MHTML 
 {{< blocks/products/pf/feature-page-header h1="Converteer POTM naar TSV in Android via Java" h2="Exporteer POTM-bestand naar TSV in Android-applicaties zonder Microsoft<sup>&reg;</sup> Excel of PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-U kunt het POTM-bestand eenvoudig naar TSV converteren in uw Android-applicaties in een proces van twee stappen via [Aspose.Total voor Android via Java](https://products.aspose.com/total/android-java/). In de eerste stap kunt u het POTM-bestand naar HTML exporteren met [Aspose.Slides voor Android via Java](https://products.aspose.com/slides/android-java/). Ten tweede, door [Aspose.Cells voor Android via Java](https://products.aspose.com/cells/android-java/) te gebruiken, kunt u HTML naar TSV converteren. 
+U kunt het POTM-bestand eenvoudig naar TSV converteren in uw Android-applicaties in een proces van twee stappen via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). In de eerste stap kunt u het POTM-bestand naar HTML exporteren met [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). Ten tweede, door [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) te gebruiken, kunt u HTML naar TSV converteren. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ U kunt het POTM-bestand eenvoudig naar TSV converteren in uw Android-applicaties
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
-Om POTM naar TSV te converteren, kunt u Aspose.Total voor Android eenvoudig rechtstreeks via Java gebruiken vanuit [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) en installeer bibliotheken in uw app.
+Om POTM naar TSV te converteren, kunt u Aspose.Total for Android eenvoudig rechtstreeks via Java gebruiken vanuit [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) en installeer bibliotheken in uw app.
 
 U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

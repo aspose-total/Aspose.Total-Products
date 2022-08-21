@@ -10,24 +10,24 @@ outformat: OTP
 otherformats: PPSX PPS POTM PPT POT PPTM ODP POTX PPSM POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi định dạng JSON sang OTP qua C++" h2="API C++ để phân tích cú pháp JSON thành OTP mà không cần sử dụng Microsoft <sup> <sup>&reg;</sup>; </sup> PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi định dạng JSON sang OTP qua C++" h2="API C++ để phân tích cú pháp JSON thành OTP mà không cần sử dụng Microsoft <sup>&reg;</sup> PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Bạn có thể chuyển đổi JSON thành OTP trong bất kỳ ứng dụng C++ nào bằng hai bước đơn giản. Đầu tiên, bằng cách sử dụng [Aspose.Cells cho C++](https://products.aspose.com/cells/cpp/), bạn có thể phân tích cú pháp JSON thành PPTX. Sau đó, bằng cách sử dụng [Aspose.Slides cho C++](https://products.aspose.com/slides/cpp/), bạn có thể chuyển đổi PPTX sang OTP. Cả hai API đều nằm trong gói [Aspose.Total cho C++](https://products.aspose.com/total/cpp/). 
+Bạn có thể chuyển đổi JSON thành OTP trong bất kỳ ứng dụng C++ nào bằng hai bước đơn giản. Đầu tiên, bằng cách sử dụng [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), bạn có thể phân tích cú pháp JSON thành PPTX. Sau đó, bằng cách sử dụng [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), bạn có thể chuyển đổi PPTX sang OTP. Cả hai API đều nằm trong gói [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi định dạng JSON sang OTP qua C++" %}}
 1. Tạo đối tượng [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) mới và đọc dữ liệu JSON hợp lệ từ tệp
 2. Lưu JSON dưới dạng PPTX bằng phương pháp [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
-3. Tải tài liệu PPTX bằng cách sử dụng lớp [Trình bày](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
+3. Tải tài liệu PPTX bằng cách sử dụng lớp [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. Lưu tài liệu sang định dạng OTP bằng phương pháp [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
 Cài đặt thông qua Bảng điều khiển Trình quản lý Gói của Visual Studio với `` Cài đặt Gói Aspose.Total.Cpp ''.
 
-Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://downloads.aspose.com/total/cpp).
+Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [download](https://downloads.aspose.com/total/cpp).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

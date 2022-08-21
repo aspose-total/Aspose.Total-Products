@@ -13,7 +13,7 @@ otherformats: PPTX DOC POWERPOINT DOCX
 {{< blocks/products/pf/feature-page-header h1="تقديم XLS إلى WORD على Android عبر Java" h2="قم بتحويل ملف XLS إلى WORD داخل تطبيقات Android بدون استخدام Microsoft <sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total لنظام Android عبر Java](https://products.aspose.com/total/android-java/) عبارة عن حزمة من واجهات برمجة التطبيقات القوية لأتمتة الملفات. باستخدام اثنين من واجهات برمجة التطبيقات الخاصة به ، يمكنك دمج ميزة تحويل XLS إلى WORD داخل تطبيقات Android. في الخطوة الأولى ، يمكنك تصدير XLS إلى PDF باستخدام [Aspose.Cells لنظام Android عبر Java](https://products.aspose.com/cells/android-java/). بعد ذلك ، باستخدام [Aspose.PDF لنظام Android عبر Java](https://products.aspose.com/pdf/android-java/) ، يمكنك تحويل PDF إلى WORD. 
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) عبارة عن حزمة من واجهات برمجة التطبيقات القوية لأتمتة الملفات. باستخدام اثنين من واجهات برمجة التطبيقات الخاصة به ، يمكنك دمج ميزة تحويل XLS إلى WORD داخل تطبيقات Android. في الخطوة الأولى ، يمكنك تصدير XLS إلى PDF باستخدام [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). بعد ذلك ، باستخدام [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) ، يمكنك تحويل PDF إلى WORD. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -21,11 +21,11 @@ otherformats: PPTX DOC POWERPOINT DOCX
 1. افتح ملف XLS باستخدام فئة [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 2. تحويل XLS إلى PDF وتعيين SaveFormat على AUTO
 3. قم بتحميل ملف PDF المحول باستخدام فئة [Wordument](https://reference.aspose.com/pdf/java/com.aspose.pdf/Wordument)
-4. احفظ المستند بتنسيق WORD باستخدام [حفظ](https://reference.aspose.com/pdf/java/com.aspose.pdf/Wordument#save-java.lang.String-com.aspose.pdf.SaveOptions -) طريقة
+4. احفظ المستند بتنسيق WORD باستخدام [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Wordument#save-java.lang.String-com.aspose.pdf.SaveOptions -) طريقة
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-يمكنك بسهولة استخدام Aspose.Total لنظام Android عبر Java مباشرةً من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) و تثبيت [Aspose.PDF لنظام Android عبر Java](https://words.aspose.com/pdf/androidjava/installation/) و [Aspose.Cells لنظام Android عبر Java](https://words.aspose.com/cells / java / aspose-cells-for-android-via-java-Installation / # install-asposecells-for-android-via-java-from-maven-repository) في تطبيقاتك.
+يمكنك بسهولة استخدام Aspose.Total for Android via Java مباشرةً من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) و تثبيت [Aspose.PDF for Android via Java](https://words.aspose.com/pdf/androidjava/installation/) و [Aspose.Cells for Android via Java](https://words.aspose.com/cells / java / aspose-cells-for-android-via-java-Installation / # install-asposecells-for-android-via-java-from-maven-repository) في تطبيقاتك.
 
 بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -46,7 +46,7 @@ wordument.save("output.word", com.aspose.pdf.SaveFormat.Word);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="قم بإزالة الخصائص المخصصة من ملف XLS في Android عبر Java" %}}
-بصرف النظر عن تحويل المستندات ، يوفر [Aspose.Cells لنظام Android عبر Java](https://products.aspose.com/cells/android-java/) العديد من الميزات الأخرى أيضًا. قبل عملية التحويل ، يمكنك إزالة الخصائص المخصصة لمستند XLS. لإزالة الخصائص المخصصة ، اتصل بالطريقة [WordumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/wordumentpropertycollection#remove (java.lang.String)) ومرر اسم خاصية المستند المراد إزالتها.
+بصرف النظر عن تحويل المستندات ، يوفر [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) العديد من الميزات الأخرى أيضًا. قبل عملية التحويل ، يمكنك إزالة الخصائص المخصصة لمستند XLS. لإزالة الخصائص المخصصة ، اتصل بالطريقة [WordumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/wordumentpropertycollection#remove (java.lang.String)) ومرر اسم خاصية المستند المراد إزالتها.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java

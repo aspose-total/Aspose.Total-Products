@@ -13,7 +13,7 @@ otherformats: XLSM TSV XLT MARKDOWN XLSB CSV XLTX XLAM FODS DIF XLTM EXCEL XLSX 
 {{< blocks/products/pf/feature-page-header h1="Konvertera PPS till ODS i Android via Java" h2="Exportera PPS-fil till ODS i Android-applikationer utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Du kan enkelt konvertera PPS-fil till ODS i dina Android-applikationer i en tvåstegsprocess via [Aspose.Total för Android via Java](https://products.aspose.com/total/android-java/). I det första steget kan du exportera PPS-fil till HTML genom att använda [Aspose.Slides för Android via Java](https://products.aspose.com/slides/android-java/). För det andra, genom att använda [Aspose.Cells för Android via Java](https://products.aspose.com/cells/android-java/), kan du konvertera HTML till ODS. 
+Du kan enkelt konvertera PPS-fil till ODS i dina Android-applikationer i en tvåstegsprocess via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). I det första steget kan du exportera PPS-fil till HTML genom att använda [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). För det andra, genom att använda [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), kan du konvertera HTML till ODS. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -21,11 +21,11 @@ Du kan enkelt konvertera PPS-fil till ODS i dina Android-applikationer i en två
 1. Öppna PPS-filen med klassen [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Konvertera PPS till HTML genom att använda [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) metod
 3. Ladda HTML-dokument med hjälp av klassen [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Spara dokumentet i ODS-format med [spara](https://reference.aspose.com/cells/java/com.aspose.cells/)
+4. Spara dokumentet i ODS-format med [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
-För att konvertera PPS till ODS kan du enkelt använda Aspose.Total för Android via Java direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) och installera bibliotek i din app.
+För att konvertera PPS till ODS kan du enkelt använda Aspose.Total for Android via Java direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) och installera bibliotek i din app.
 
 Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

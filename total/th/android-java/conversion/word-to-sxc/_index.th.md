@@ -13,19 +13,19 @@ otherformats: DIF XLS CSV XLSX ODS XLTM XLSM XLSB XLAM FODS TSV EXCEL XLT XLTX
 {{< blocks/products/pf/feature-page-header h1="แปลง WORD เป็น SXC ในแอปพลิเคชัน Android" h2="ส่งออก WORD เป็น SXC ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-ด้วยการใช้ [Aspose.Total สำหรับ Android ผ่าน Java](https://products.aspose.com/total/android-java/) คุณสามารถรวมคุณลักษณะการแปลง WORD เป็น SXC ภายในแอปพลิเคชัน Android ของคุณได้ ประการแรก คุณสามารถแปลง WORD เป็น HTML ได้โดยใช้ API การจัดการเอกสารและการแปลงที่มีคุณลักษณะหลากหลาย [Aspose.Words สำหรับ Android ผ่าน Java](https://products.aspose.com/words/android-java/) หลังจากนั้น เมื่อใช้ [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) คุณจะแปลง HTML เป็น SXC ได้ 
+ด้วยการใช้ [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) คุณสามารถรวมคุณลักษณะการแปลง WORD เป็น SXC ภายในแอปพลิเคชัน Android ของคุณได้ ประการแรก คุณสามารถแปลง WORD เป็น HTML ได้โดยใช้ API การจัดการเอกสารและการแปลงที่มีคุณลักษณะหลากหลาย [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) หลังจากนั้น เมื่อใช้ [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) คุณจะแปลง HTML เป็น SXC ได้ 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Android API เพื่อแปลง WORD เป็น SXC" %}}
 1. เปิดไฟล์ WORD โดยใช้คลาส [Wordument](https://reference.aspose.com/words/java/com.aspose.words/Wordument)
-2. แปลง WORD เป็น HTML โดยใช้ [บันทึก](https://reference.aspose.com/words/java/com.aspose.words/Wordument#save(java.lang.String,com.aspose.words.SaveOptions) ) กระบวนการ
+2. แปลง WORD เป็น HTML โดยใช้ [Save](https://reference.aspose.com/words/java/com.aspose.words/Wordument#save(java.lang.String,com.aspose.words.SaveOptions) ) กระบวนการ
 3. โหลดเอกสาร HTML โดยใช้คลาส [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. บันทึกเอกสารในรูปแบบ SXC โดยใช้ [บันทึก](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) วิธีการ
+4. บันทึกเอกสารในรูปแบบ SXC โดยใช้ [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) วิธีการ
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
-คุณสามารถใช้ Aspose.Total สำหรับ Android ผ่าน Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และ ติดตั้ง [Aspose.Cells สำหรับ Android ผ่าน Java](https://words.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via- java-from-maven-repository) และ [Aspose.Words สำหรับ Android ผ่าน Java](https://words.aspose.com/words/java/install-aspose-words-for-android-via-java/#install- asposewords-for-android-via-java-from-maven-repository) ในแอปพลิเคชันของคุณ
+คุณสามารถใช้ Aspose.Total for Android via Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และ ติดตั้ง [Aspose.Cells for Android via Java](https://words.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via- java-from-maven-repository) และ [Aspose.Words for Android via Java](https://words.aspose.com/words/java/install-aspose-words-for-android-via-java/#install- asposewords-for-android-via-java-from-maven-repository) ในแอปพลิเคชันของคุณ
 
 หรือคุณสามารถรับไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/total/androidjava)
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -38,7 +38,7 @@ otherformats: DIF XLS CSV XLSX ODS XLTM XLSM XLSB XLAM FODS TSV EXCEL XLT XLTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="ลบข้อมูลที่ไม่ได้ใช้ออกจากเอกสาร WORD ใน Android ผ่าน Java" %}}
-ก่อนแปลง WORD เป็น SXC คุณสามารถลบข้อมูลที่ไม่ได้ใช้ออกจากเอกสาร WORD ผ่าน [Aspose.Words สำหรับ Android ผ่าน Java](https://products.aspose.com/words/android-java/) บางครั้ง คุณอาจต้องลบข้อมูลที่ไม่ได้ใช้หรือทำซ้ำเพื่อลดขนาดของเอกสารที่ส่งออกและเวลาในการประมวลผล คลาส [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) ให้คุณระบุตัวเลือกสำหรับการทำความสะอาดเอกสาร หากต้องการลบสไตล์ที่ซ้ำกันหรือเพียงแค่สไตล์หรือรายการที่ไม่ได้ใช้ออกจากเอกสาร คุณสามารถใช้เมธอด [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Wordument#cleanup()) คุณสามารถใช้ [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) และ [UnusedBuiltinStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedBuiltinStyles) คุณสมบัติในการตรวจหาและลบสไตล์ที่ทำเครื่องหมายเป็น "ไม่ได้ใช้"
+ก่อนแปลง WORD เป็น SXC คุณสามารถลบข้อมูลที่ไม่ได้ใช้ออกจากเอกสาร WORD ผ่าน [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) บางครั้ง คุณอาจต้องลบข้อมูลที่ไม่ได้ใช้หรือทำซ้ำเพื่อลดขนาดของเอกสารที่ส่งออกและเวลาในการประมวลผล คลาส [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) ให้คุณระบุตัวเลือกสำหรับการทำความสะอาดเอกสาร หากต้องการลบสไตล์ที่ซ้ำกันหรือเพียงแค่สไตล์หรือรายการที่ไม่ได้ใช้ออกจากเอกสาร คุณสามารถใช้เมธอด [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Wordument#cleanup()) คุณสามารถใช้ [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) และ [UnusedBuiltinStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedBuiltinStyles) คุณสมบัติในการตรวจหาและลบสไตล์ที่ทำเครื่องหมายเป็น "ไม่ได้ใช้"
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-wordument.java" >}}
@@ -46,7 +46,7 @@ otherformats: DIF XLS CSV XLSX ODS XLTM XLSM XLSB XLAM FODS TSV EXCEL XLT XLTX
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="บันทึกไฟล์ SXC เพื่อสตรีมใน Android ผ่าน Java" %}}
-หลังจากแปลง WORD เป็น SXC แล้ว [Aspose.Cells สำหรับ Android ผ่าน Java](https://products.aspose.com/cells/android-java/) จะช่วยให้คุณบันทึกเอกสารเพื่อสตรีมได้ หากคุณต้องการบันทึกไฟล์ไปยัง Stream คุณควรสร้างวัตถุ FileOutputStream จากนั้น [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) ไฟล์ไปยังวัตถุ Stream นั้นโดยเรียกวิธีการบันทึกของ [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) วัตถุ.
+หลังจากแปลง WORD เป็น SXC แล้ว [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) จะช่วยให้คุณบันทึกเอกสารเพื่อสตรีมได้ หากคุณต้องการบันทึกไฟล์ไปยัง Stream คุณควรสร้างวัตถุ FileOutputStream จากนั้น [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) ไฟล์ไปยังวัตถุ Stream นั้นโดยเรียกวิธีการบันทึกของ [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) วัตถุ.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}

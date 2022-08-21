@@ -13,7 +13,7 @@ otherformats: POTM POTX PPSM ODP POWERPOINT PPS PPTX PPT PPSX POT
 {{< blocks/products/pf/feature-page-header h1="API C++ pour convertir WORD en PPTM" h2="Exportez WORD vers PPTM dans vos applications C++ sans utiliser Microsoft Word® ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total pour C++](https://products.aspose.com/total/cpp/) se compose de puissantes API d'automatisation de fichiers qui permettent d'automatiser la conversion WORD en PPTM tout en utilisant deux de ses API. Chargez votre WORD en utilisant [Aspose.Words pour C++](https://products.aspose.com/words/cpp/) et convertissez-le en HTML, puis chargez le HTML via l'API C++ de manipulation PowerPoint [Aspose.Slides pour C++]( https://products.aspose.com/slides/cpp/) pour créer une nouvelle présentation et enregistrez-la sous PPTM. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) se compose de puissantes API d'automatisation de fichiers qui permettent d'automatiser la conversion WORD en PPTM tout en utilisant deux de ses API. Chargez votre WORD en utilisant [Aspose.Words for C++](https://products.aspose.com/words/cpp/) et convertissez-le en HTML, puis chargez le HTML via l'API C++ de manipulation PowerPoint [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) pour créer une nouvelle présentation et enregistrez-la sous PPTM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -67,7 +67,7 @@ pres->Save(output.pptm, Aspose::Slides::Export::SaveFormat::Pptm);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Charger un wordument WORD protégé par mot de passe via C++" %}}
-Outre la conversion de worduments, l'API [Aspose.Words pour C++](https://products.aspose.com/words/cpp/) offre des tonnes de fonctionnalités de manipulation de worduments aux développeurs C++. Si votre format de fichier Microsoft Word WORD est protégé par un mot de passe, vous pouvez toujours l'ouvrir à l'aide de l'API. Pour charger le wordument chiffré, vous pouvez utiliser une surcharge de constructeur spéciale, qui accepte un objet [LoadOptions](https://reference.aspose.com/words/cpp/class/aspose.words.loading.load_options). Cet objet contient la propriété Password, qui spécifie la chaîne de mot de passe.
+Outre la conversion de worduments, l'API [Aspose.Words for C++](https://products.aspose.com/words/cpp/) offre des tonnes de fonctionnalités de manipulation de worduments aux développeurs C++. Si votre format de fichier Microsoft Word WORD est protégé par un mot de passe, vous pouvez toujours l'ouvrir à l'aide de l'API. Pour charger le wordument chiffré, vous pouvez utiliser une surcharge de constructeur spéciale, qui accepte un objet [LoadOptions](https://reference.aspose.com/words/cpp/class/aspose.words.loading.load_options). Cet objet contient la propriété Password, qui spécifie la chaîne de mot de passe.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp
@@ -80,7 +80,7 @@ SharedPtr<Wordument> word = MakeObject<Wordument>(u"Encrypted.wordx", options);
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ajouter des commentaires dans le wordument PPTM via C++" %}}
-Lors de l'enregistrement du WORD au format PPTM, vous pouvez également utiliser [Aspose.Slides pour C++](https://products.aspose.com/slides/cpp/) pour ajouter d'autres fonctionnalités dans votre wordument PPTM. Par exemple, vous pouvez ajouter des commentaires dans votre présentation. Le commentaire de la diapositive de présentation est associé à un auteur particulier. La classe Presentation contient la collection d'auteurs dans ICommentAuthorCollection qui sont responsables de l'ajout de commentaires de diapositive. Pour chaque auteur, il existe une collection de commentaires dans ICommentCollection.
+Lors de l'enregistrement du WORD au format PPTM, vous pouvez également utiliser [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) pour ajouter d'autres fonctionnalités dans votre wordument PPTM. Par exemple, vous pouvez ajouter des commentaires dans votre présentation. Le commentaire de la diapositive de présentation est associé à un auteur particulier. La classe Presentation contient la collection d'auteurs dans ICommentAuthorCollection qui sont responsables de l'ajout de commentaires de diapositive. Pour chaque auteur, il existe une collection de commentaires dans ICommentCollection.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp

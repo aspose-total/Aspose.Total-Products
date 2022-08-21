@@ -13,7 +13,7 @@ otherformats: DOCX WORD POWERPOINT PPTX
 {{< blocks/products/pf/feature-page-header h1="Rendu XLSX en DOC sur Android via Java" h2="Transformez XLSX en DOC dans vos applications Android sans utiliser Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total pour Android via Java](https://products.aspose.com/total/android-java/) est un package de puissantes API d'automatisation de fichiers. En utilisant deux de ses API, vous pouvez intégrer la fonction de conversion XLSX en DOC dans vos applications Android. Dans la première étape, vous pouvez exporter XLSX au format PDF en utilisant [Aspose.Cells pour Android via Java](https://products.aspose.com/cells/android-java/). Après cela, en utilisant [Aspose.PDF pour Android via Java](https://products.aspose.com/pdf/android-java/), vous pouvez convertir un PDF en DOC. 
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) est un package de puissantes API d'automatisation de fichiers. En utilisant deux de ses API, vous pouvez intégrer la fonction de conversion XLSX en DOC dans vos applications Android. Dans la première étape, vous pouvez exporter XLSX au format PDF en utilisant [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Après cela, en utilisant [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/), vous pouvez convertir un PDF en DOC. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ otherformats: DOCX WORD POWERPOINT PPTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
-Vous pouvez facilement utiliser Aspose.Total pour Android via Java directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et installez [Aspose.PDF pour Android via Java](https://docs.aspose.com/pdf/androidjava/installation/) et [Aspose.Cells pour Android via Java](https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via-java-from-maven-repository) dans vos applications.
+Vous pouvez facilement utiliser Aspose.Total for Android via Java directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et installez [Aspose.PDF for Android via Java](https://docs.aspose.com/pdf/androidjava/installation/) et [Aspose.Cells for Android via Java](https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via-java-from-maven-repository) dans vos applications.
 
 Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -46,7 +46,7 @@ document.save("output.doc", com.aspose.pdf.SaveFormat.Doc);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Supprimer les propriétés personnalisées du fichier XLSX dans Android via Java" %}}
-Outre la conversion de documents, [Aspose.Cells pour Android via Java](https://products.aspose.com/cells/android-java/) fournit également des tonnes d'autres fonctionnalités. Avant le processus de conversion, vous pouvez supprimer les propriétés personnalisées du document XLSX. Pour supprimer des propriétés personnalisées, appelez la méthode [DocumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/documentpropertycollection#remove(java.lang.String)) et transmettez le nom de la propriété de document à supprimer.
+Outre la conversion de documents, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) fournit également des tonnes d'autres fonctionnalités. Avant le processus de conversion, vous pouvez supprimer les propriétés personnalisées du document XLSX. Pour supprimer des propriétés personnalisées, appelez la méthode [DocumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/documentpropertycollection#remove(java.lang.String)) et transmettez le nom de la propriété de document à supprimer.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java

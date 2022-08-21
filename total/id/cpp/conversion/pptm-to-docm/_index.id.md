@@ -20,7 +20,7 @@ otherformats: TEXT DOCX FLATOPC DOTX ODT RTF DOTM OTT WORD DOC DOT WORDML
 {{% blocks/products/pf/agp/feature-section-col title="C++ API untuk Mengonversi PPTM ke DOCM" %}}
 1. Muat file PPTM menggunakan referensi kelas [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 2. Render PPTM ke HTML dengan menggunakan fungsi anggota [Simpan](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) dan atur Html sebagai SaveFormat
-3. Muat file HTML yang dikonversi dengan menggunakan referensi kelas [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
+3. Muat file HTML yang dikonversi dengan menggunakan referensi kelas [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
 4. Simpan dokumen ke format DOCM dengan menggunakan fungsi anggota [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -35,8 +35,8 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 SharedPtr<Presentation> prs = MakeObject<Presentation>(u"input.pptm");
 // Save presentation in HTML format.
 prs->Save(u"htmlOutput.html", Aspose::Slides::Export::SaveFormat::Html);
-// load HTML with an instance of Docmument
-System::SharedPtr<Docmument> docm = System::MakeObject<Docmument>(u"htmlOutput.html");
+// load HTML with an instance of Document
+System::SharedPtr<Document> docm = System::MakeObject<Document>(u"htmlOutput.html");
 // save docmument in DOCM format
 docm->Save(u"output.docm"); 
 ```

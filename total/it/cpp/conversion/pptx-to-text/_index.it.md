@@ -19,9 +19,9 @@ otherformats: WORD DOT DOCM OTT DOTM FLATOPC DOCX ODT WORDML RTF DOC DOTX
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API C++ per convertire PPTX in TEXT" %}}
 1. Caricare il file PPTX utilizzando [Presentazione](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) riferimento alla classe
-2. Eseguire il rendering di PPTX in HTML utilizzando la funzione membro [Salva](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) e impostare Html come SaveFormat
+2. Eseguire il rendering di PPTX in HTML utilizzando la funzione membro [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) e impostare Html come SaveFormat
 3. Caricare il file HTML convertito utilizzando il riferimento alla classe [Textument](https://reference.aspose.com/words/cpp/class/aspose.words.textument)
-4. Salvare il textumento in formato TEXT utilizzando [Salva](https://reference.aspose.com/words/cpp/class/aspose.words.textument#save_string) funzione membro
+4. Salvare il textumento in formato TEXT utilizzando [Save](https://reference.aspose.com/words/cpp/class/aspose.words.textument#save_string) funzione membro
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}

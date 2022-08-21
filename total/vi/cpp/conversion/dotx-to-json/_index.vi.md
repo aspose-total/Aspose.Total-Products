@@ -10,10 +10,10 @@ outformat: JSON
 otherformats: SXC XLSM XLSB TSV XLAM XLT DIF EXCEL XLTX CSV XLTM FODS ODS XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi định dạng DOTX sang JSON thông qua C++" h2="Xuất DOTX sang JSON qua C++ mà không sử dụng Microsoft <sup> <sup>&reg;</sup>; </sup> Word hoặc Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi định dạng DOTX sang JSON thông qua C++" h2="Xuất DOTX sang JSON qua C++ mà không sử dụng Microsoft <sup>&reg;</sup> Word hoặc Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Bằng cách sử dụng [Aspose.Total cho C++](https://products.aspose.com/total/cpp/), bạn có thể chuyển đổi định dạng DOTX sang JSON trong các ứng dụng C++ của mình. Thứ nhất, bằng cách sử dụng [Aspose.Words for C++](https://products.aspose.com/words/cpp/), bạn có thể xuất DOTX sang HTML. Sau đó, bằng cách sử dụng [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), bạn có thể chuyển đổi HTML sang định dạng JSON. 
+Bằng cách sử dụng [Aspose.Total for C++](https://products.aspose.com/total/cpp/), bạn có thể chuyển đổi định dạng DOTX sang JSON trong các ứng dụng C++ của mình. Thứ nhất, bằng cách sử dụng [Aspose.Words for C++](https://products.aspose.com/words/cpp/), bạn có thể xuất DOTX sang HTML. Sau đó, bằng cách sử dụng [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), bạn có thể chuyển đổi HTML sang định dạng JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -27,7 +27,7 @@ Bằng cách sử dụng [Aspose.Total cho C++](https://products.aspose.com/tota
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
 Cài đặt thông qua Bảng điều khiển Trình quản lý Gói của Visual Studio với `` Cài đặt Gói Aspose.Total.Cpp ''.
 
-Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://downloads.aspose.com/total/cpp).
+Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [download](https://downloads.aspose.com/total/cpp).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

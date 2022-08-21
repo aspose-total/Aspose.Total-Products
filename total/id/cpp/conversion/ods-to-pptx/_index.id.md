@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: POWERPOINT DOCX WORD DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi ODS ke PPTX melalui C++" h2="Ekspor Excel&reg; ODS ke PPTX dalam aplikasi C++ yang berfungsi penuh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi ODS ke PPTX melalui C++" h2="Ekspor Excel<sup>&reg;</sup> ODS ke PPTX dalam aplikasi C++ yang berfungsi penuh" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konversi ODS ke PPTX di C++" %}}

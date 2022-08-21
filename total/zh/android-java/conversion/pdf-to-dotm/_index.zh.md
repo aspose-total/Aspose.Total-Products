@@ -13,7 +13,7 @@ otherformats: MARKDOWN OTT PS XAMLFLOW RTF FLATOPC ODT PCL MHTML DOCM DOT DOTX
 {{< blocks/products/pf/feature-page-header h1="通过 Java 在 Android 上将 PDF 渲染到 DOTM" h2="在移动应用程序中将 PDF 转换为 DOTM，无需安装任何软件" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-您可以使用 [Aspose.Total for Android Java](https://products.aspose.com/total/android-java/) 包的两个 API 在您的移动应用程序中集成 PDF 到 DOTM 的转换功能。首先，您需要使用 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) 将 PDF 文件转换为 DOC。其次，通过使用文字处理 API [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/)，您可以将 DOC 渲染为 DOTM。 
+您可以使用 [Aspose.Total for Android Java](https://products.aspose.com/total/android-java/) 包的两个 API 在您的移动应用程序中集成 PDF 到 DOTM 的转换功能。首先，您需要使用 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) 将 PDF 文件转换为 DOC。其次，通过使用文字处理 API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)，您可以将 DOC 渲染为 DOTM。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,7 @@ otherformats: SXC XLS XLSX CSV DIF MARKDOWN FODS ODS MHTML XLTX TSV EXCEL XLT XL
 {{< blocks/products/pf/feature-page-header h1="Konvertera PPT till XLSM via C++" h2="PPT till XLSM-filkonvertering via C++ utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Genom att använda [Aspose.Total för C++](https://products.aspose.com/total/cpp/) kan du konvertera PPT-fil till XLSM inom C++-applikationer i två enkla steg. För det första, genom att använda [Aspose.Slides för C++](https://products.aspose.com/slides/cpp/), kan du exportera PPT till HTML. Efter det, genom att använda [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, kan du konvertera HTML till XLSM. 
+Genom att använda [Aspose.Total for C++](https://products.aspose.com/total/cpp/) kan du konvertera PPT-fil till XLSM inom C++-applikationer i två enkla steg. För det första, genom att använda [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), kan du exportera PPT till HTML. Efter det, genom att använda [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, kan du konvertera HTML till XLSM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -21,7 +21,7 @@ Genom att använda [Aspose.Total för C++](https://products.aspose.com/total/cpp
 1. Öppna PPT-filen med [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) klassreferens
 2. Konvertera PPT till HTML med metoden [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba)
 3. Ladda HTML-dokument med hjälp av klassreferens [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
-4. Spara dokumentet i XLSM-format med metoden [Spara](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
+4. Spara dokumentet i XLSM-format med metoden [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}

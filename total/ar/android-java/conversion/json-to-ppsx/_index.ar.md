@@ -13,19 +13,19 @@ otherformats: PPTM POTX PPSM OTP PPT PPS ODP POTM POT POWERPOINT
 {{< blocks/products/pf/feature-page-header h1="تحويل تنسيق JSON إلى PPSX في Android" h2="تحليل تنسيق JSON إلى PPSX في تطبيقات Android بدون استخدام Microsoft <sup>&reg;</sup> PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-يمكنك تحويل تنسيق JSON إلى PPSX في تطبيقات Android في عملية من خطوتين. أولاً ، باستخدام [Aspose.Cells لنظام Android عبر Java](https://products.aspose.com/cells/android-java/) ، يمكنك تحليل JSON إلى PPTX. بعد ذلك ، باستخدام [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) ، يمكنك تحويل PPTX إلى PPSX. تأتي كلتا واجهتي برمجة التطبيقات ضمن حزمة [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
+يمكنك تحويل تنسيق JSON إلى PPSX في تطبيقات Android في عملية من خطوتين. أولاً ، باستخدام [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) ، يمكنك تحليل JSON إلى PPTX. بعد ذلك ، باستخدام [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) ، يمكنك تحويل PPTX إلى PPSX. تأتي كلتا واجهتي برمجة التطبيقات ضمن حزمة [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="تحويل تنسيق JSON إلى PPSX في Android" %}}
 1. قم بإنشاء كائن [مصنف] جديد(https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) وافتح ملف JSON
-2. احفظ JSON بتنسيق PPTX باستخدام [حفظ](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String،٪20com.aspose.cells.SaveOptions)) طريقة
+2. احفظ JSON بتنسيق PPTX باستخدام [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String،٪20com.aspose.cells.SaveOptions)) طريقة
 3. قم بتحميل مستند PPTX باستخدام فئة [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
-4. احفظ المستند بتنسيق PPSX باستخدام طريقة [حفظ](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-)
+4. احفظ المستند بتنسيق PPSX باستخدام طريقة [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-يمكنك بسهولة استخدام Aspose.Total لنظام Android عبر Java مباشرةً من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) و تثبيت المكتبات في تطبيقك.
+يمكنك بسهولة استخدام Aspose.Total for Android via Java مباشرةً من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) و تثبيت المكتبات في تطبيقك.
 
 بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -13,7 +13,7 @@ otherformats: MARKDOWN DOCM MHTML XAMLFLOW DOTM DOT FLATOPC PCL WORDML PS RTF OT
 {{< blocks/products/pf/feature-page-header h1="C++ API för att exportera EPUB till ODT" h2="Återge EPUB till ODT inom C++-applikationer utan att kräva någon tredjepartsapplikation" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total för C++](https://products.aspose.com/total/cpp/) filformatsautomatiseringsbibliotek tillåter C++-utvecklare att konvertera EPUB till ODT i två enkla steg. För det första kan du använda [Aspose.PDF för C++](https://products.aspose.com/pdf/cpp/) API för att konvertera EPUB-filformat till DOC. För det andra, genom att använda avancerad Word Document Processing API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), kan du exportera DOC till ODT. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) filformatsautomatiseringsbibliotek tillåter C++-utvecklare att konvertera EPUB till ODT i två enkla steg. För det första kan du använda [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) API för att konvertera EPUB-filformat till DOC. För det andra, genom att använda avancerad Word Document Processing API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), kan du exportera DOC till ODT. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -46,7 +46,7 @@ wordDoc->Save(u"output.Odt");
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ändra lösenord för EPUB-dokument via C++" %}}
-I processen att rendera EPUB till ODT kan du öppna en lösenordsskyddad EPUB och även ändra dess lösenord. För att ändra lösenordet för en EPUB-fil måste du känna till ägarlösenordet för det dokumentet. Du kan ladda lösenordsskyddade PDF-dokument med [Aspose.PDF för C++](https://products.aspose.com/pdf/cpp/) genom att ange dess ägarlösenord och använda ChangePasswords-metoden för att ändra lösenordet.
+I processen att rendera EPUB till ODT kan du öppna en lösenordsskyddad EPUB och även ändra dess lösenord. För att ändra lösenordet för en EPUB-fil måste du känna till ägarlösenordet för det dokumentet. Du kan ladda lösenordsskyddade PDF-dokument med [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) genom att ange dess ägarlösenord och använda ChangePasswords-metoden för att ändra lösenordet.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp

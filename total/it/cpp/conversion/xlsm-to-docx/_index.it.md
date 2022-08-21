@@ -10,14 +10,14 @@ outformat: DOCX
 otherformats: PPTX POWERPOINT DOC WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti XLSM in DOCX tramite C++" h2="Esporta Excel&reg; XLSM a DOCX all'interno di applicazioni C++ completamente funzionali" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti XLSM in DOCX tramite C++" h2="Esporta Excel<sup>&reg;</sup> XLSM a DOCX all'interno di applicazioni C++ completamente funzionali" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversione da XLSM a DOCX su C++" %}}
 1. Aprire il file XLSM utilizzando la funzione membro [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) di [Factory](https://reference.aspose.com/cells/cpp/class/aspose.cells.factory) riferimento alla classe
 2. Converti XLSM in PDF e imposta SaveFormat su Pdf
 3. Caricare il file PDF convertito utilizzando il riferimento alla classe [Docxument](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument)
-4. Salvare il docxumento in formato DOCX utilizzando la funzione membro [Salva](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument#a6383c010776212483f51cc41235924db) e impostare Docx come SaveFormat
+4. Salvare il docxumento in formato DOCX utilizzando la funzione membro [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument#a6383c010776212483f51cc41235924db) e impostare Docx come SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}

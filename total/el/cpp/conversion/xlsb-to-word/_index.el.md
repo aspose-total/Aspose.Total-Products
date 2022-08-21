@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCX PPTX DOC POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή XLSB σε WORD μέσω C++" h2="Εξαγωγή Excel&reg; XLSB σε WORD σε πλήρως λειτουργικές εφαρμογές C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή XLSB σε WORD μέσω C++" h2="Εξαγωγή Excel<sup>&reg;</sup> XLSB σε WORD σε πλήρως λειτουργικές εφαρμογές C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Μετατροπή XLSB σε WORD σε C++" %}}

@@ -18,7 +18,7 @@ Könnyedén beépíthet DOCM-excel-átalakítási funkciót C++-alkalmazásaiba.
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API a DOCM EXCEL-vé konvertálásához" %}}
-1. Nyissa meg a DOCM-fájlt a [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument) osztályhivatkozás használatával
+1. Nyissa meg a DOCM-fájlt a [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument) osztályhivatkozás használatával
 2. Alakítsa át a DOCM-t HTML-vé a [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string_saveformat) tagfüggvény használatával
 3. Töltsön be HTML-dokumentumot az [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) osztályhivatkozás használatával
 4. Mentse el a dokumentumot EXCEL formátumba a [Mentés](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) tagfüggvénnyel
@@ -38,7 +38,7 @@ Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eke
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Nyissa meg a DOCM dokumentum tulajdonságait a C++ segítségével" %}}
-Az [Aspose.Words for C++](https://products.aspose.com/words/cpp/) emellett lehetővé teszi a DOCM-fájl dokumentumtulajdonságaihoz való hozzáférést, és lehetővé teszi, hogy tájékozott döntést hozzon az átalakítási folyamat előtt. A dokumentumtulajdonságok eléréséhez a [BuiltInDocmumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_docmument_properties) segítségével szerezheti be a beépített tulajdonságokat és a [CustomDocmumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.custom_docmument_properties) egyéni tulajdonságok beszerzéséhez. A következő kódpélda bemutatja, hogyan kell felsorolni az összes beépített és egyéni tulajdonságot egy dokumentumban.
+Az [Aspose.Words for C++](https://products.aspose.com/words/cpp/) emellett lehetővé teszi a DOCM-fájl dokumentumtulajdonságaihoz való hozzáférést, és lehetővé teszi, hogy tájékozott döntést hozzon az átalakítási folyamat előtt. A dokumentumtulajdonságok eléréséhez a [BuiltInDocumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_docmument_properties) segítségével szerezheti be a beépített tulajdonságokat és a [CustomDocumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.custom_docmument_properties) egyéni tulajdonságok beszerzéséhez. A következő kódpélda bemutatja, hogyan kell felsorolni az összes beépített és egyéni tulajdonságot egy dokumentumban.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-docmument-properties.cs" >}}

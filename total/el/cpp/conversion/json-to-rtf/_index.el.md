@@ -13,7 +13,7 @@ otherformats: PCL PS WORD FLATOPC EPUB ODT DOCM OTT WORDML MOBI DOT DOC DOTX CHM
 {{< blocks/products/pf/feature-page-header h1="Μετατρέψτε τη μορφή JSON σε RTF μέσω C++" h2="Ανάλυση JSON σε RTF σε εφαρμογές C++ χωρίς χρήση Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Χρησιμοποιώντας το [Aspose.Total for C++](https://products.aspose.com/total/cpp/) μπορείτε να αναλύσετε το JSON σε RTF στις εφαρμογές σας C++ με δύο απλά βήματα. Πρώτον, χρησιμοποιώντας το [Aspose.Cells για C++](https://products.aspose.com/cells/cpp/), μπορείτε να εξαγάγετε το JSON σε PDF. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Words for C++](https://products.aspose.com/words/cppp/), μπορείτε να μετατρέψετε το PDF σε RTF. 
+Χρησιμοποιώντας το [Aspose.Total for C++](https://products.aspose.com/total/cpp/) μπορείτε να αναλύσετε το JSON σε RTF στις εφαρμογές σας C++ με δύο απλά βήματα. Πρώτον, χρησιμοποιώντας το [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), μπορείτε να εξαγάγετε το JSON σε PDF. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Words for C++](https://products.aspose.com/words/cppp/), μπορείτε να μετατρέψετε το PDF σε RTF. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

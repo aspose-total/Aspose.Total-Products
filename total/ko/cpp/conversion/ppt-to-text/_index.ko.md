@@ -19,9 +19,9 @@ otherformats: OTT ODT DOC DOTX FLATOPC DOCM DOCX DOT RTF WORDML WORD DOTM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="PPT를 TEXT로 변환하는 C++ API" %}}
 1. [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) 클래스 참조를 사용하여 PPT 파일 로드
-2. [저장](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) 멤버 기능을 사용하여 PPT을 HTML로 렌더링하고 Html을 SaveFormat으로 설정합니다.
-3. [문서](https://reference.aspose.com/words/cpp/class/aspose.words.textument) 클래스 참조를 이용하여 변환된 HTML 파일을 로드합니다.
-4. [저장](https://reference.aspose.com/words/cpp/class/aspose.words.textument#save_string) 멤버 함수를 사용하여 문서를 TEXT 형식으로 저장합니다.
+2. [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) 멤버 기능을 사용하여 PPT을 HTML로 렌더링하고 Html을 SaveFormat으로 설정합니다.
+3. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.textument) 클래스 참조를 이용하여 변환된 HTML 파일을 로드합니다.
+4. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.textument#save_string) 멤버 함수를 사용하여 문서를 TEXT 형식으로 저장합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}

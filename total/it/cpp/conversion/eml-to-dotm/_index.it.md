@@ -19,7 +19,7 @@ Sei uno sviluppatore C++ e stai cercando di aggiungere funzionalità di conversi
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API C++ per convertire EML in DOTM" %}}
 1. Aprire il file EML utilizzando il riferimento alla classe [MailMessage](https://reference.aspose.com/eml/cpp/class/aspose.eml.mail_message)
-2. Converti EML in HTML utilizzando la funzione membro [Salva](https://reference.aspose.com/eml/cpp/class/aspose.eml.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
+2. Converti EML in HTML utilizzando la funzione membro [Save](https://reference.aspose.com/eml/cpp/class/aspose.eml.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
 3. Carica HTML utilizzando la classe [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
 4. Salvare il documento in formato DOTM utilizzando il metodo [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) e impostare Dotm come SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -20,7 +20,7 @@ otherformats: ODT DOTM DOT DOCM SVG WORDML PNG EPUB FLATOPC DOC GIF JPEG TEXT MD
 {{% blocks/products/pf/agp/feature-section-col title="API de C++ para convertir EMLX a PCL" %}}
 1. Abra el archivo EMLX usando la referencia de clase [MailMessage](https://reference.aspose.com/emlx/cpp/class/aspose.emlx.mail_message)
 2. Convierta EMLX a HTML usando la función miembro [Guardar](https://reference.aspose.com/emlx/cpp/class/aspose.emlx.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
-3. Cargue HTML usando la clase [Documento](https://reference.aspose.com/words/cpp/class/aspose.words.document)
+3. Cargue HTML usando la clase [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
 4. Guarde el documento en formato PCL usando el método [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) y configure Pcl como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

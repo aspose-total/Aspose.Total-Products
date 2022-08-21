@@ -13,7 +13,7 @@ otherformats: XLTM XLAM EXCEL FODS XLTX DIF XLSM TXT TSV XLSB CSV ODS
 {{< blocks/products/pf/feature-page-header h1="Renderize MD para SXC no Android via Java" h2="Transforme MD em SXC em aplicativos Android sem precisar do Microsoft<sup>&reg;</sup> Excel ou Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Você pode integrar o recurso de conversão MD para SXC em seus aplicativos Android em um processo de duas etapas. Em primeiro lugar, usando [Aspose.PDF para Android via Java](https://products.aspose.com/pdf/android-java/) você pode converter MD para XLSX. Em segundo lugar, você pode converter XLSX para SXC usando a API de processamento de planilha poderosa [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Ambas as APIs estão na família de produtos [Aspose.Total para Android via Java](https://products.aspose.com/total/android-java/). 
+Você pode integrar o recurso de conversão MD para SXC em seus aplicativos Android em um processo de duas etapas. Em primeiro lugar, usando [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) você pode converter MD para XLSX. Em segundo lugar, você pode converter XLSX para SXC usando a API de processamento de planilha poderosa [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Ambas as APIs estão na família de produtos [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Você pode integrar o recurso de conversão MD para SXC em seus aplicativos Andr
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
-Você pode facilmente usar o Aspose.Total para Android via Java diretamente do [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e instale [Aspose.PDF para Android via Java](https://docs.aspose.com/pdf/androidjava/installation/) e [Aspose.Cells para Android via Java](https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/) em seus aplicativos.
+Você pode facilmente usar o Aspose.Total for Android via Java diretamente do [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e instale [Aspose.PDF for Android via Java](https://docs.aspose.com/pdf/androidjava/installation/) e [Aspose.Cells for Android via Java](https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/) em seus aplicativos.
 
 Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -38,7 +38,7 @@ Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloa
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Obtenha metadados XMP do arquivo MD no Android via Java" %}}
-[Aspose.PDF para Android via Java](https://products.aspose.com/pdf/android-java/) permite acessar os metadados XMP de um arquivo MD. Para obter os metadados, crie um objeto [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) e abra o arquivo MD de entrada e use o [getMetadata()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) para obter os metadados.
+[Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) permite acessar os metadados XMP de um arquivo MD. Para obter os metadados, crie um objeto [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) e abra o arquivo MD de entrada e use o [getMetadata()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) para obter os metadados.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}

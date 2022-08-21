@@ -13,7 +13,7 @@ otherformats: XLS XLT SXC XLSX XLTX FODS XLTM XLSM ODS XLSB TSV XLAM EXCEL MHTML
 {{< blocks/products/pf/feature-page-header h1="Konvertera PPSM till DIF i Android via Java" h2="Exportera PPSM-fil till DIF i Android-applikationer utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Du kan enkelt konvertera PPSM-fil till DIF i dina Android-applikationer i en tvåstegsprocess via [Aspose.Total för Android via Java](https://products.aspose.com/total/android-java/). I det första steget kan du exportera PPSM-fil till HTML genom att använda [Aspose.Slides för Android via Java](https://products.aspose.com/slides/android-java/). För det andra, genom att använda [Aspose.Cells för Android via Java](https://products.aspose.com/cells/android-java/), kan du konvertera HTML till DIF. 
+Du kan enkelt konvertera PPSM-fil till DIF i dina Android-applikationer i en tvåstegsprocess via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). I det första steget kan du exportera PPSM-fil till HTML genom att använda [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). För det andra, genom att använda [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), kan du konvertera HTML till DIF. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -21,11 +21,11 @@ Du kan enkelt konvertera PPSM-fil till DIF i dina Android-applikationer i en tv�
 1. Öppna PPSM-filen med klassen [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Konvertera PPSM till HTML genom att använda [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) metod
 3. Ladda HTML-dokument med hjälp av klassen [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Spara dokumentet i DIF-format med [spara](https://reference.aspose.com/cells/java/com.aspose.cells/)
+4. Spara dokumentet i DIF-format med [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
-För att konvertera PPSM till DIF kan du enkelt använda Aspose.Total för Android via Java direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) och installera bibliotek i din app.
+För att konvertera PPSM till DIF kan du enkelt använda Aspose.Total for Android via Java direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) och installera bibliotek i din app.
 
 Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

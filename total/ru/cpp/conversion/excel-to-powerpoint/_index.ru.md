@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOC PPTX DOCX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Конвертировать EXCEL в POWERPOINT через C++" h2="Экспорт Excel&reg; EXCEL в POWERPOINT в полнофункциональных приложениях C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Конвертировать EXCEL в POWERPOINT через C++" h2="Экспорт Excel<sup>&reg;</sup> EXCEL в POWERPOINT в полнофункциональных приложениях C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование EXCEL в POWERPOINT на C++" %}}

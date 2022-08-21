@@ -13,7 +13,7 @@ otherformats: DOTM DOCX SVG PCL JPEG TEXT MD EPUB DOTX GIF XPS PS PDF DOC FLATOP
 {{< blocks/products/pf/feature-page-header h1="API C++ pour exporter EMLX vers RTF" h2="Transformez EMLX en RTF dans une application C++ sans nécessiter Microsoft Word ou Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Êtes-vous un développeur C++ cherchant à ajouter des fonctionnalités de conversion d'e-mails dans vos applications ? En utilisant [Aspose.Emlx pour C++](https://products.aspose.com/emlx/cpp/), vous pouvez convertir le format de fichier EMLX en HTML. Après cela, en utilisant l'API [Aspose.Words pour C++](https://products.aspose.com/words/cpp/), vous pouvez exporter du HTML vers RTF. Les deux API relèvent du package [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
+Êtes-vous un développeur C++ cherchant à ajouter des fonctionnalités de conversion d'e-mails dans vos applications ? En utilisant [Aspose.Emlx pour C++](https://products.aspose.com/emlx/cpp/), vous pouvez convertir le format de fichier EMLX en HTML. Après cela, en utilisant l'API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), vous pouvez exporter du HTML vers RTF. Les deux API relèvent du package [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

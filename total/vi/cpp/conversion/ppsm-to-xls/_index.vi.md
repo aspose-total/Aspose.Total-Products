@@ -10,10 +10,10 @@ outformat: XLS
 otherformats: FODS SXC EXCEL ODS DIF TSV MHTML XLSM XLTM XLT XLSX XLAM XLSB CSV XLTX MARKDOWN DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi PPSM sang XLS qua C++" h2="Chuyển đổi tệp PPSM sang XLS qua C++ mà không sử dụng Microsoft <sup> <sup>&reg;</sup>; </sup> Excel hoặc PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi PPSM sang XLS qua C++" h2="Chuyển đổi tệp PPSM sang XLS qua C++ mà không sử dụng Microsoft <sup>&reg;</sup> Excel hoặc PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Bằng cách sử dụng [Aspose.Total cho C++](https://products.aspose.com/total/cpp/), bạn có thể chuyển đổi tệp PPSM sang XLS trong các ứng dụng C++ bằng hai bước đơn giản. Thứ nhất, bằng cách sử dụng [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), bạn có thể xuất PPSM sang HTML. Sau đó, bằng cách sử dụng API lập trình bảng tính [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), bạn có thể chuyển đổi HTML sang XLS. 
+Bằng cách sử dụng [Aspose.Total for C++](https://products.aspose.com/total/cpp/), bạn có thể chuyển đổi tệp PPSM sang XLS trong các ứng dụng C++ bằng hai bước đơn giản. Thứ nhất, bằng cách sử dụng [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), bạn có thể xuất PPSM sang HTML. Sau đó, bằng cách sử dụng API lập trình bảng tính [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), bạn có thể chuyển đổi HTML sang XLS. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -27,7 +27,7 @@ Bằng cách sử dụng [Aspose.Total cho C++](https://products.aspose.com/tota
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
 Cài đặt thông qua Bảng điều khiển Trình quản lý Gói của Visual Studio với `` Cài đặt Gói Aspose.Total.Cpp ''.
 
-Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://downloads.aspose.com/total/cpp).
+Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [download](https://downloads.aspose.com/total/cpp).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

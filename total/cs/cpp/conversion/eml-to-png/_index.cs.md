@@ -13,15 +13,15 @@ otherformats: DOTM XPS PS FLATOPC PCL SVG DOT TIFF BMP PDF EPUB OTT DOCM MD GIF 
 {{< blocks/products/pf/feature-page-header h1="C++ API pro export EML do PNG" h2="Transformujte EML na PNG v rámci aplikace C++ bez nutnosti aplikace Microsoft Word nebo Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Jste vývojář C++ a chcete do svých aplikací přidat funkce pro převod e-mailů? Pomocí [Aspose.Eml for C++](https://products.aspose.com/eml/cpp/) můžete převést formát souboru EML do HTML. Poté můžete pomocí [Aspose.Words for C++](https://products.aspose.com/words/cpp/) API exportovat HTML do PNG. Obě rozhraní API jsou součástí balíčku [Aspose.Total pro C++](https://products.aspose.com/total/cpp/). 
+Jste vývojář C++ a chcete do svých aplikací přidat funkce pro převod e-mailů? Pomocí [Aspose.Eml for C++](https://products.aspose.com/eml/cpp/) můžete převést formát souboru EML do HTML. Poté můžete pomocí [Aspose.Words for C++](https://products.aspose.com/words/cpp/) API exportovat HTML do PNG. Obě rozhraní API jsou součástí balíčku [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API pro převod EML na PNG" %}}
 1. Otevřete soubor EML pomocí odkazu třídy [MailMessage](https://reference.aspose.com/eml/cpp/class/aspose.eml.mail_message)
-2. Převeďte EML na HTML pomocí členské funkce [Uložit](https://reference.aspose.com/eml/cpp/class/aspose.eml.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
+2. Převeďte EML na HTML pomocí členské funkce [Save](https://reference.aspose.com/eml/cpp/class/aspose.eml.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
 3. Načtěte HTML pomocí třídy [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
-4. Uložte dokument do formátu PNG pomocí metody [Uložit](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) a nastavte Png jako SaveFormat
+4. Uložte dokument do formátu PNG pomocí metody [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) a nastavte Png jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}

@@ -19,7 +19,7 @@ otherformats: OTP PPTM ODP XAML POT POWERPOINT PPSM PPS PPSX POTM SWF POTX
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API لتصدير XSLFO إلى PPT" %}}
 1. افتح ملف XSLFO باستخدام [مستند](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) مرجع فئة
-2. تحويل XSLFO إلى PPTX باستخدام وظيفة الأسلوب [حفظ](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a0184df207563187be7df37b8dbe443f6)
+2. تحويل XSLFO إلى PPTX باستخدام وظيفة الأسلوب [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a0184df207563187be7df37b8dbe443f6)
 3. تحميل مستند PPTX باستخدام [عرض تقديمي](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) مرجع فئة
 4. احفظ المستند بتنسيق PPT باستخدام وظيفة العضو [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) وقم بتعيين "Ppt" على أنه SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

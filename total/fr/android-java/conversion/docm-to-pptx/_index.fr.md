@@ -13,20 +13,20 @@ otherformats: PPT PPS POWERPOINT POTM POTX PPTM PPSX PPSM POT ODP CSV DIF FODS O
 {{< blocks/products/pf/feature-page-header h1="Convertir DOCM en PPTX dans les applications Android" h2="Conversion DOCM en PPTX dans vos applications Android sans installer Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Êtes-vous un développeur Android qui souhaite ajouter une fonctionnalité de conversion de docmuments à votre application ? [Aspose.Total pour Android via Java](https://products.aspose.com/total/android-java/) Les bibliothèques d'automatisation du format de fichier peuvent vous aider à automatiser le processus de conversion de docmuments dans vos applications Android. Afin de convertir un fichier DOCM en PPTX, vous pouvez d'abord utiliser l'API de manipulation de docmument [Aspose.Words pour Android Java](https://products.aspose.com/words/android-java/) pour convertir le format de fichier DOCM en HTML. Après cela, en utilisant l'API PowerPoint [Aspose.Slides pour Android Java](https://products.aspose.com/slides/android-java/), vous pouvez créer une nouvelle présentation, y écrire du contenu HTML et l'enregistrer sous PPTX. 
+Êtes-vous un développeur Android qui souhaite ajouter une fonctionnalité de conversion de docmuments à votre application ? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Les bibliothèques d'automatisation du format de fichier peuvent vous aider à automatiser le processus de conversion de docmuments dans vos applications Android. Afin de convertir un fichier DOCM en PPTX, vous pouvez d'abord utiliser l'API de manipulation de docmument [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) pour convertir le format de fichier DOCM en HTML. Après cela, en utilisant l'API PowerPoint [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/), vous pouvez créer une nouvelle présentation, y écrire du contenu HTML et l'enregistrer sous PPTX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Comment convertir DOCM en PPTX sur Android" %}}
-1. Ouvrez le fichier DOCM à l'aide de la classe [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument)
-2. Convertissez le fichier DOCM en HTML en utilisant [save](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions )) méthode
+1. Ouvrez le fichier DOCM à l'aide de la classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Convertissez le fichier DOCM en HTML en utilisant [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions )) méthode
 3. Initialisez un nouvel objet [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extrayez le contenu du fichier HTML à l'aide de BufferedReader et écrivez le contenu dans votre fichier de présentation
 6. Enregistrez le docmument dans PPTX à l'aide de la méthode [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
-Pour la conversion de fichiers DOCM en PPTX, vous pouvez facilement utiliser Aspose.Total pour Android via Java directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et installez les bibliothèques dans votre application.
+Pour la conversion de fichiers DOCM en PPTX, vous pouvez facilement utiliser Aspose.Total for Android via Java directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et installez les bibliothèques dans votre application.
 
 Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -39,7 +39,7 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convertir DOCM protégé en PPTX dans Android via Java" %}}
-Vous pouvez également convertir votre DOCM protégé par mot de passe en PPTX dans vos applications Android. Si votre docmument DOCM d'entrée est protégé par un mot de passe, vous ne pouvez pas le convertir au format PPTX sans utiliser le mot de passe. Pour ouvrir un docmument crypté, vous pouvez définir le mot de passe correct dans l'objet LoadOptions et le transmettre au constructeur Docmument.
+Vous pouvez également convertir votre DOCM protégé par mot de passe en PPTX dans vos applications Android. Si votre docmument DOCM d'entrée est protégé par un mot de passe, vous ne pouvez pas le convertir au format PPTX sans utiliser le mot de passe. Pour ouvrir un docmument crypté, vous pouvez définir le mot de passe correct dans l'objet LoadOptions et le transmettre au constructeur Document.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}

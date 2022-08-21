@@ -13,7 +13,7 @@ otherformats: ODT TEXT WORDML DOCX DOTM DOC DOT RTF WORD DOCM OTT DOTX
 {{< blocks/products/pf/feature-page-header h1="Java経由でAndoridのFLATOPCにPOTXをレンダリングする" h2="Microsoft PowerPointやWordに依存せずに、Androidアプリ内でPOTXをFLATOPCに変換するファイル形式のAPI" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Java経由のAndroid用Aspose.Total](https://products.aspose.com/total/android-java/)を使用すると、Androidアプリケーション内でファイル形式を操作できます。パッケージで提供されているAPIを使用することで、アプリでPowerPointPOTXからWordFLATOPCへの変換プロセスを自動化できます。
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)を使用すると、Androidアプリケーション内でファイル形式を操作できます。パッケージで提供されているAPIを使用することで、アプリでPowerPointPOTXからWordFLATOPCへの変換プロセスを自動化できます。
 あなたは2つのステップであなたの与えられた文書を変換することができます。 Androidアプリケーション用のPowerPointAPIである[Aspose.SlidesforAndorid via Java](https://products.aspose.com/slides/android-java/)を使用して、POTXをHTMLにレンダリングできます。その後、ドキュメント処理API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)を使用して、HTMLをFLATOPCに変換できます。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 

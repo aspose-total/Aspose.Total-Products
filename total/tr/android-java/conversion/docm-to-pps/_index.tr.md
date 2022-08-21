@@ -13,13 +13,13 @@ otherformats: ODP POTX PPSX PPSM POT PPT POTM PPTX PPTM POWERPOINT CSV DIF FODS 
 {{< blocks/products/pf/feature-page-header h1="Android Uygulamalarında DOCM'yi PPS'ye Dönüştür" h2="Microsoft Word<sup>&reg;</sup> veya PowerPoint yüklemeden Android Uygulamalarınızda DOCM'den PPS'ye dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Uygulamanıza belge dönüştürme özelliği eklemek isteyen bir Android geliştiricisi misiniz? [Java aracılığıyla Android için Aspose.Total](https://products.aspose.com/total/android-java/) Dosya Biçimi Otomasyonu kitaplıkları, Android uygulamalarınızda belge dönüştürme işlemini otomatikleştirmenize yardımcı olabilir. DOCM dosyasını PPS'ye dönüştürmek için, önce DOCM dosya biçimini HTML'ye dönüştürmek için belge işleme API'sini [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) kullanabilirsiniz. Bundan sonra PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) kullanarak yeni bir Sunum oluşturabilir, içine HTML içeriği yazabilir ve farklı olarak kaydedebilirsiniz. PPS. 
+Uygulamanıza belge dönüştürme özelliği eklemek isteyen bir Android geliştiricisi misiniz? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Dosya Biçimi Otomasyonu kitaplıkları, Android uygulamalarınızda belge dönüştürme işlemini otomatikleştirmenize yardımcı olabilir. DOCM dosyasını PPS'ye dönüştürmek için, önce DOCM dosya biçimini HTML'ye dönüştürmek için belge işleme API'sini [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) kullanabilirsiniz. Bundan sonra PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) kullanarak yeni bir Sunum oluşturabilir, içine HTML içeriği yazabilir ve farklı olarak kaydedebilirsiniz. PPS. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Android'de DOCM'yi PPS'ye Dönüştürme" %}}
-1. DOCM dosyasını [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument) sınıfını kullanarak açın
-2. [save](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions)) kullanarak DOCM dosyasını HTML'ye dönüştürün )) yöntem
+1. DOCM dosyasını [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) sınıfını kullanarak açın
+2. [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) kullanarak DOCM dosyasını HTML'ye dönüştürün )) yöntem
 3. Yeni bir [Sunum](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) nesnesini başlatın
 5. BufferedReader kullanarak HTML dosyasından içerik çıkarın ve içeriği sunum dosyanıza yazın
 6. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) yöntemini kullanarak belgeyi PPS'ye kaydedin
@@ -39,7 +39,7 @@ Alternatif olarak, [downloads](https://downloads.aspose.com/total/androidjava) a
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Java aracılığıyla Android'de Korumalı DOCM'yi PPS'ye dönüştürün" %}}
-Ayrıca Android uygulamalarınızda şifre korumalı DOCM'nizi PPS'ye dönüştürebilirsiniz. Girdiğiniz DOCM belgeniz parola korumalıysa, parolayı kullanmadan PPS biçimine dönüştüremezsiniz. Şifrelenmiş bir belgeyi açmak için LoadOptions nesnesinde doğru parolayı ayarlayabilir ve bunu Docmument yapıcısına iletebilirsiniz.
+Ayrıca Android uygulamalarınızda şifre korumalı DOCM'nizi PPS'ye dönüştürebilirsiniz. Girdiğiniz DOCM belgeniz parola korumalıysa, parolayı kullanmadan PPS biçimine dönüştüremezsiniz. Şifrelenmiş bir belgeyi açmak için LoadOptions nesnesinde doğru parolayı ayarlayabilir ve bunu Document yapıcısına iletebilirsiniz.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}

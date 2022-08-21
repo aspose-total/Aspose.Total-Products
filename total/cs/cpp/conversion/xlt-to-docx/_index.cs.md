@@ -10,14 +10,14 @@ outformat: DOCX
 otherformats: DOC PPTX WORD POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převést XLT na DOCX přes C++" h2="Export Excel&reg; XLT do DOCX v rámci plně funkčních aplikací C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Převést XLT na DOCX přes C++" h2="Export Excel<sup>&reg;</sup> XLT do DOCX v rámci plně funkčních aplikací C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Převod XLT na DOCX v C++" %}}
 1. Otevřete soubor XLT pomocí členské funkce [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) [Factory](https://reference.aspose.com/cells/cpp/class/aspose.cells.factory) odkaz na třídu
 2. Převeďte XLT na PDF a nastavte SaveFormat na Pdf
-3. Načtěte převedený soubor PDF pomocí odkazu třídy [Dokument](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument)
-4. Uložte dokument do formátu DOCX pomocí členské funkce [Uložit](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument#a6383c010776212483f51cc41235924db) a nastavte Docx jako SaveFormat
+3. Načtěte převedený soubor PDF pomocí odkazu třídy [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument)
+4. Uložte dokument do formátu DOCX pomocí členské funkce [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument#a6383c010776212483f51cc41235924db) a nastavte Docx jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}

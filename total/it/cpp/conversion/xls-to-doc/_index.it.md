@@ -10,14 +10,14 @@ outformat: DOC
 otherformats: POWERPOINT WORD PPTX DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti XLS in DOC tramite C++" h2="Esporta Excel&reg; XLS a DOC all'interno di applicazioni C++ completamente funzionali" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti XLS in DOC tramite C++" h2="Esporta Excel<sup>&reg;</sup> XLS a DOC all'interno di applicazioni C++ completamente funzionali" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversione da XLS a DOC su C++" %}}
 1. Aprire il file XLS utilizzando la funzione membro [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) di [Factory](https://reference.aspose.com/cells/cpp/class/aspose.cells.factory) riferimento alla classe
 2. Converti XLS in PDF e imposta SaveFormat su Pdf
 3. Caricare il file PDF convertito utilizzando il riferimento alla classe [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)
-4. Salvare il documento in formato DOC utilizzando la funzione membro [Salva](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db) e impostare Doc come SaveFormat
+4. Salvare il documento in formato DOC utilizzando la funzione membro [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db) e impostare Doc come SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}

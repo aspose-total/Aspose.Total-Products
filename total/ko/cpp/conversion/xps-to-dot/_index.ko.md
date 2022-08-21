@@ -18,10 +18,10 @@ otherformats: OTT ODT MHTML MARKDOWN DOCM DOTM FLATOPC PCL RTF PS WORDML DOTX
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="XPS을 DOT으로 렌더링하는 C++ API" %}}
-1. [문서](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) 클래스 참조를 사용하여 XPS 파일을 엽니다.
-2. [저장](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#adb8061c585440fde49c1263e68837f01) 멤버 함수를 사용하여 XPS을 DOC로 변환
+1. [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) 클래스 참조를 사용하여 XPS 파일을 엽니다.
+2. [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#adb8061c585440fde49c1263e68837f01) 멤버 함수를 사용하여 XPS을 DOC로 변환
 3. Aspose.Words API의 [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) 클래스 참조를 사용하여 DOC 파일 로드
-4. [저장](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stream_saveformat) 멤버 함수를 사용하여 문서를 DOT 형식으로 저장합니다.
+4. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stream_saveformat) 멤버 함수를 사용하여 문서를 DOT 형식으로 저장합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}

@@ -13,19 +13,19 @@ otherformats: XLSX SXC FODS XLAM DIF CSV XLTM XLSB MARKDOWN XLS XLTX XLT XLSM OD
 {{< blocks/products/pf/feature-page-header h1="قم بتحويل POT إلى MHTML في Android عبر Java" h2="قم بتصدير ملف POT إلى MHTML في تطبيقات Android بدون استخدام Microsoft <sup>&reg;</sup> Excel أو PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-يمكنك بسهولة تحويل ملف POT إلى MHTML في تطبيقات Android في عملية من خطوتين عبر [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). في الخطوة الأولى ، يمكنك تصدير ملف POT إلى HTML باستخدام [Aspose.Slides لنظام Android عبر Java](https://products.aspose.com/slides/android-java/). ثانيًا ، باستخدام [Aspose.Cells لنظام Android عبر Java](https://products.aspose.com/cells/android-java/) ، يمكنك تحويل HTML إلى MHTML. 
+يمكنك بسهولة تحويل ملف POT إلى MHTML في تطبيقات Android في عملية من خطوتين عبر [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). في الخطوة الأولى ، يمكنك تصدير ملف POT إلى HTML باستخدام [Aspose.Slides لنظام Android عبر Java](https://products.aspose.com/slides/android-java/). ثانيًا ، باستخدام [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) ، يمكنك تحويل HTML إلى MHTML. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل POT إلى MHTML في Android" %}}
 1. افتح ملف POT باستخدام فئة [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
-2. تحويل POT إلى HTML باستخدام [حفظ](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) طريقة
+2. تحويل POT إلى HTML باستخدام [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) طريقة
 3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. احفظ المستند بتنسيق MHTML باستخدام [حفظ](https://reference.aspose.com/cells/java/com.aspose.cells/)
+4. احفظ المستند بتنسيق MHTML باستخدام [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-لتحويل POT إلى MHTML ، يمكنك بسهولة استخدام Aspose.Total لنظام Android عبر Java مباشرةً من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) وقم بتثبيت المكتبات في تطبيقك.
+لتحويل POT إلى MHTML ، يمكنك بسهولة استخدام Aspose.Total for Android via Java مباشرةً من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) وقم بتثبيت المكتبات في تطبيقك.
 
 بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

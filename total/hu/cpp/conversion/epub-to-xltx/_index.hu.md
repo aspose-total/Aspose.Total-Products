@@ -38,7 +38,7 @@ Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eke
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Szerezze be vagy állítsa be a EPUB fájlinformációkat a C++ segítségével" %}}
-Az [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) emellett lehetővé teszi, hogy információkat szerezzen EPUB-dokumentumáról, és megalapozott döntéseket hozzon az átalakítási folyamat előtt. A EPUB-fájlok fájlspecifikus információinak megtekintéséhez először meg kell hívnia a [get_Info()](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#ae7a6ba620499ffa0dbaa5c813ee96c4a) metódust. [Dokumentum](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) osztály. A DocumentInfo objektum lekérése után megkaphatja az egyes tulajdonságok értékeit. Ezenkívül a tulajdonságokat a DocumentInfo osztály megfelelő metódusaival is beállíthatja.
+Az [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) emellett lehetővé teszi, hogy információkat szerezzen EPUB-dokumentumáról, és megalapozott döntéseket hozzon az átalakítási folyamat előtt. A EPUB-fájlok fájlspecifikus információinak megtekintéséhez először meg kell hívnia a [get_Info()](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#ae7a6ba620499ffa0dbaa5c813ee96c4a) metódust. [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) osztály. A DocumentInfo objektum lekérése után megkaphatja az egyes tulajdonságok értékeit. Ezenkívül a tulajdonságokat a DocumentInfo osztály megfelelő metódusaival is beállíthatja.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}

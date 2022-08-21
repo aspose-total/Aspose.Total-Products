@@ -18,8 +18,8 @@ otherformats: PPT PPS POTX PPSX PPTX PPTM POT ODP PPSM POTM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversão de DOCM para POWERPOINT em C++" %}}
-1. Abra o arquivo DOCM usando a referência de classe [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
-2. Converta DOCM para HTML usando a função de membro [Salvar](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_stdbasicostream_saveoptions)
+1. Abra o arquivo DOCM usando a referência de classe [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
+2. Converta DOCM para HTML usando a função de membro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_stdbasicostream_saveoptions)
 3. Inicialize um novo objeto [Apresentação](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. Adicione uma AutoForma em seu slide e adicione AddTextFrame nele
 5. Carregue o conteúdo HTML e escreva-o em seu arquivo de apresentação
@@ -34,9 +34,9 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp
-// load DOCM file with an instance of Docmument
-Docmument docmument = new Docmument("template.docm");
-System::SharedPtr<Docmument> docm = System::MakeObject<Docmument>(u"sourceFile.docm");
+// load DOCM file with an instance of Document
+Document docmument = new Document("template.docm");
+System::SharedPtr<Document> docm = System::MakeObject<Document>(u"sourceFile.docm");
 // save the docmument in HTML file format
 docm->Save(u"HtmlOutput.HTML");
 // load the desired the presentation
@@ -74,7 +74,7 @@ Além da conversão de docmumentos, a API [Aspose.Words for C++](https://product
 // when loading password protected docmument, the password is passed to the docmument's constructor using a LoadOptions object.
 auto options = MakeObject<LoadOptions>(u"docmPassword");
 // load the docmument from the local file system by filename:
-SharedPtr<Docmument> docm = MakeObject<Docmument>(u"Encrypted.docm", options);
+SharedPtr<Document> docm = MakeObject<Document>(u"Encrypted.docm", options);
 ```
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

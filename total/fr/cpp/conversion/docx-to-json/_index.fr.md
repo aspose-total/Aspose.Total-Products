@@ -13,7 +13,7 @@ otherformats: XLAM XLSM DIF XLT CSV XLTX XLSX TSV ODS XLTM EXCEL FODS XLS XLSB
 {{< blocks/products/pf/feature-page-header h1="Convertir DOCX au format JSON via C++" h2="Exportez DOCX vers JSON via C++ sans utiliser Microsoft<sup>&reg;</sup> Word ou Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total pour C++](https://products.aspose.com/total/cpp/), vous pouvez convertir le format DOCX au format JSON dans vos applications C++. Tout d'abord, en utilisant [Aspose.Words pour C++](https://products.aspose.com/words/cpp/), vous pouvez exporter DOCX vers HTML. Après cela, en utilisant [Aspose.Cells pour C++](https://products.aspose.com/cells/cpp/), vous pouvez convertir le HTML au format JSON. 
+En utilisant [Aspose.Total for C++](https://products.aspose.com/total/cpp/), vous pouvez convertir le format DOCX au format JSON dans vos applications C++. Tout d'abord, en utilisant [Aspose.Words for C++](https://products.aspose.com/words/cpp/), vous pouvez exporter DOCX vers HTML. Après cela, en utilisant [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), vous pouvez convertir le HTML au format JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

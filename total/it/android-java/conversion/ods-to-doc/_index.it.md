@@ -13,7 +13,7 @@ otherformats: DOCX WORD PPTX POWERPOINT
 {{< blocks/products/pf/feature-page-header h1="Rendi ODS in DOC su Android tramite Java" h2="Trasforma ODS in DOC all'interno delle tue applicazioni Android senza utilizzare Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total per Android tramite Java](https://products.aspose.com/total/android-java/) è un pacchetto di potenti API di automazione dei file. Utilizzando due delle sue API, puoi integrare la funzione di conversione da ODS a DOC all'interno delle tue applicazioni Android. Nel primo passaggio puoi esportare ODS in PDF utilizzando [Aspose.Cells per Android tramite Java](https://products.aspose.com/cells/android-java/). Successivamente, utilizzando [Aspose.PDF per Android tramite Java](https://products.aspose.com/pdf/android-java/), puoi convertire PDF in DOC. 
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) è un pacchetto di potenti API di automazione dei file. Utilizzando due delle sue API, puoi integrare la funzione di conversione da ODS a DOC all'interno delle tue applicazioni Android. Nel primo passaggio puoi esportare ODS in PDF utilizzando [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Successivamente, utilizzando [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/), puoi convertire PDF in DOC. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ otherformats: DOCX WORD PPTX POWERPOINT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
-Puoi facilmente utilizzare Aspose.Total per Android tramite Java direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e installa [Aspose.PDF per Android tramite Java](https://docs.aspose.com/pdf/androidjava/installation/) e [Aspose.Cells per Android tramite Java](https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via-java-from-maven-repository) nelle tue applicazioni.
+Puoi facilmente utilizzare Aspose.Total for Android via Java direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e installa [Aspose.PDF for Android via Java](https://docs.aspose.com/pdf/androidjava/installation/) e [Aspose.Cells for Android via Java](https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via-java-from-maven-repository) nelle tue applicazioni.
 
 In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -46,7 +46,7 @@ document.save("output.doc", com.aspose.pdf.SaveFormat.Doc);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Rimuovi le proprietà personalizzate dal file ODS in Android tramite Java" %}}
-Oltre alla conversione dei documenti, [Aspose.Cells per Android tramite Java](https://products.aspose.com/cells/android-java/) offre anche tantissime altre funzionalità. Prima del processo di conversione, puoi rimuovere le proprietà personalizzate del documento ODS. Per rimuovere le proprietà personalizzate, chiama il metodo [DocumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/documentpropertycollection#remove(java.lang.String)) e passa il nome di la proprietà del documento da rimuovere.
+Oltre alla conversione dei documenti, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) offre anche tantissime altre funzionalità. Prima del processo di conversione, puoi rimuovere le proprietà personalizzate del documento ODS. Per rimuovere le proprietà personalizzate, chiama il metodo [DocumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/documentpropertycollection#remove(java.lang.String)) e passa il nome di la proprietà del documento da rimuovere.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java

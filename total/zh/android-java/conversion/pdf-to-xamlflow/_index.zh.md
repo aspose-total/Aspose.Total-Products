@@ -13,7 +13,7 @@ otherformats: PCL WORDML OTT FLATOPC PS DOTX MHTML DOTM DOCM RTF ODT MARKDOWN
 {{< blocks/products/pf/feature-page-header h1="通过 Java 在 Android 上将 PDF 渲染到 XAMLFLOW" h2="在移动应用程序中将 PDF 转换为 XAMLFLOW，无需安装任何软件" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-您可以使用 [Aspose.Total for Android Java](https://products.aspose.com/total/android-java/) 包的两个 API 在您的移动应用程序中集成 PDF 到 XAMLFLOW 的转换功能。首先，您需要使用 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) 将 PDF 文件转换为 DOC。其次，通过使用文字处理 API [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/)，您可以将 DOC 渲染为 XAMLFLOW。 
+您可以使用 [Aspose.Total for Android Java](https://products.aspose.com/total/android-java/) 包的两个 API 在您的移动应用程序中集成 PDF 到 XAMLFLOW 的转换功能。首先，您需要使用 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) 将 PDF 文件转换为 DOC。其次，通过使用文字处理 API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)，您可以将 DOC 渲染为 XAMLFLOW。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,19 +13,19 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 {{< blocks/products/pf/feature-page-header h1="जावा के माध्यम से एंड्रॉइड में डीओसी को जेएसओएन प्रारूप में कनवर्ट करें" h2="Microsoft<sup>&reg;</sup> Word या Excel का उपयोग किए बिना JSON को OTP निर्यात करने के लिए Android एप्लिकेशन डिज़ाइन करें" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-आप [Aspose.Total for Android by Java](https://products.aspose.com/total/android-java/) के ज़रिए अपने Android ऐप्लिकेशन में OTP को JSON फ़ॉर्मैट में बदल सकते हैं। दस्तावेज़ हेरफेर और रूपांतरण API [Aspose.Words for Android by Java](https://products.aspose.com/words/android-java/) का उपयोग करके, आप HTML को OTP निर्यात कर सकते हैं। उसके बाद, [Aspose.Cells for Android by Java](https://products.aspose.com/cells/android-java/) का उपयोग करके, आप HTML को JSON में बदल सकते हैं। 
+आप [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) के ज़रिए अपने Android ऐप्लिकेशन में OTP को JSON फ़ॉर्मैट में बदल सकते हैं। दस्तावेज़ हेरफेर और रूपांतरण API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) का उपयोग करके, आप HTML को OTP निर्यात कर सकते हैं। उसके बाद, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) का उपयोग करके, आप HTML को JSON में बदल सकते हैं। 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Android में OTP को JSON फॉर्मेट में बदलें" %}}
-1. [दस्तावेज़](https://reference.aspose.com/words/java/com.aspose.words/Otpument) वर्ग का उपयोग करके OTP फ़ाइल खोलें
+1. [Document](https://reference.aspose.com/words/java/com.aspose.words/Otpument) वर्ग का उपयोग करके OTP फ़ाइल खोलें
 2. [Save](https://reference.aspose.com/words/java/com.aspose.words/Otpument#save(java.lang.String,com.aspose.words.SaveOptions) का उपयोग करके OTP को HTML में बदलें ) तरीका
 3. [वर्कबुक](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) क्लास का इस्तेमाल करके एचटीएमएल दस्तावेज़ लोड करें
 4. [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells)) का उपयोग करके दस्तावेज़ को JSON फॉर्मेट में सेव करें। SaveOptions)) विधि
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
-आप [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) से सीधे जावा के माध्यम से Android के लिए Aspose.Total का आसानी से उपयोग कर सकते हैं और अपने ऐप में लाइब्रेरी इंस्टॉल करें।
+आप [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) से सीधे Aspose.Total for Android via Java का आसानी से उपयोग कर सकते हैं और अपने ऐप में लाइब्रेरी इंस्टॉल करें।
 
 वैकल्पिक रूप से, आप [डाउनलोड](https://downloads.aspose.com/total/androidjava) से एक ज़िप फ़ाइल प्राप्त कर सकते हैं।
 {{% /blocks/products/pf/agp/feature-section-col %}}

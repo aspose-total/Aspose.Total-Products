@@ -13,7 +13,7 @@ otherformats: RTF DOTM DOCM PCL OTT MARKDOWN WORDML MHTML FLATOPC ODT DOTX DOT
 {{< blocks/products/pf/feature-page-header h1="Java経由でAndroid上のPSにPDFをレンダリングする" h2="ソフトウェアをインストールせずにモバイルアプリでPDFをPSに変換する" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Android Java](https://products.aspose.com/total/android-java/)パッケージの2つのAPIを使用して、モバイルアプリにPDFからPSへの変換機能を統合できます。まず、[Java経由のAndroid用Aspose.PDF](https://products.aspose.com/pdf/android-java/)を使用してPDFファイルをDOCに変換する必要があります。次に、ワードプロセッシングAPI [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/)を使用して、DOCをPSにレンダリングできます。 
+[Aspose.Total for Android Java](https://products.aspose.com/total/android-java/)パッケージの2つのAPIを使用して、モバイルアプリにPDFからPSへの変換機能を統合できます。まず、[Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)を使用してPDFファイルをDOCに変換する必要があります。次に、ワードプロセッシングAPI [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)を使用して、DOCをPSにレンダリングできます。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

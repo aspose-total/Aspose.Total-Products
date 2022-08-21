@@ -18,8 +18,8 @@ C++ 응용 프로그램 내부에 SVG에서 ODP로의 변환 기능을 통합하
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="SVG을 ODP로 내보내기 위한 C++ API" %}}
-1. [문서](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) 클래스 참조를 사용하여 SVG 파일 열기
-2. [저장](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a0184df207563187be7df37b8dbe443f6) 메서드 함수를 사용하여 SVG을 PPTX로 변환
+1. [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) 클래스 참조를 사용하여 SVG 파일 열기
+2. [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a0184df207563187be7df37b8dbe443f6) 메서드 함수를 사용하여 SVG을 PPTX로 변환
 3. [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) 클래스 참조를 사용하여 PPTX 문서 로드
 4. [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) 멤버 함수를 사용하여 문서를 ODP 형식으로 저장하고 'Odp'를 SaveFormat으로 설정합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -13,7 +13,7 @@ otherformats: DOC PS CHM DOTX MOBI WORDML PCL OTT ODT DOT DOCM WORD EPUB RTF
 {{< blocks/products/pf/feature-page-header h1="Converteer JSON-indeling naar FLATOPC in Android-applicaties" h2="Parseer JSON naar FLATOPC binnen Android-applicaties zonder Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-U kunt JSON naar FLATOPC converteren in uw Android-applicaties in een proces van twee stappen. Ten eerste kunt u met behulp van de krachtige API voor spreadsheetverwerking [Aspose.Cells voor Android via Java](https://products.aspose.com/cells/android-java/) JSON naar PDF ontleden. In de tweede stap kunt u PDF naar FLATOPC converteren met behulp van de Word Processing API [Aspose.Words voor Android via Java](https://products.aspose.com/words/android-java/). Beide API's vallen onder de productfamilie [Aspose.Total voor Android via Java](https://products.aspose.com/total/android-java/). 
+U kunt JSON naar FLATOPC converteren in uw Android-applicaties in een proces van twee stappen. Ten eerste kunt u met behulp van de krachtige API voor spreadsheetverwerking [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) JSON naar PDF ontleden. In de tweede stap kunt u PDF naar FLATOPC converteren met behulp van de Word Processing API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Beide API's vallen onder de productfamilie [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ U kunt JSON naar FLATOPC converteren in uw Android-applicaties in een proces van
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
-U kunt Aspose.Total voor Android eenvoudig via Java rechtstreeks vanuit [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) en installeer bibliotheken in uw app.
+U kunt Aspose.Total for Android eenvoudig via Java rechtstreeks vanuit [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) en installeer bibliotheken in uw app.
 
 U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

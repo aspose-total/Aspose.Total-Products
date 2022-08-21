@@ -13,7 +13,7 @@ otherformats: FODS SXC DIF XLS XLT MARKDOWN TSV XLAM EXCEL MHTML ODS XLTX XLSM C
 {{< blocks/products/pf/feature-page-header h1="Převeďte POWERPOINT na XLSB v Androidu přes Java" h2="Exportujte soubor POWERPOINT do XLSB v aplikacích pro Android bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Soubor POWERPOINT můžete snadno převést na XLSB ve svých aplikacích pro Android ve dvou krocích prostřednictvím [Aspose.Total pro Android přes Java](https://products.aspose.com/total/android-java/). V prvním kroku můžete exportovat soubor POWERPOINT do HTML pomocí [Aspose.Slides pro Android přes Java](https://products.aspose.com/slides/android-java/). Za druhé, pomocí [Aspose.Cells pro Android přes Java](https://products.aspose.com/cells/android-java/) můžete převést HTML na XLSB. 
+Soubor POWERPOINT můžete snadno převést na XLSB ve svých aplikacích pro Android ve dvou krocích prostřednictvím [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). V prvním kroku můžete exportovat soubor POWERPOINT do HTML pomocí [Aspose.Slides pro Android přes Java](https://products.aspose.com/slides/android-java/). Za druhé, pomocí [Aspose.Cells pro Android přes Java](https://products.aspose.com/cells/android-java/) můžete převést HTML na XLSB. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

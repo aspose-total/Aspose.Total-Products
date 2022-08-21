@@ -19,9 +19,9 @@ otherformats: DIF XLTX XLSB CSV XLSX XLS XLAM XLSM FODS XLT ODS TSV EXCEL SXC
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="MOBIをXLTMに変換するAndroidAPI" %}}
 1. [ドキュメント](https://reference.aspose.com/words/java/com.aspose.words/Mobiument)クラスを使用してMOBIファイルを開きます
-2. [保存](https://reference.aspose.com/words/java/com.aspose.words/Mobiument#save(java.lang.String,com.aspose.words.SaveOptions)を使用してMOBIをHTMLに変換します) 方法
+2. [Save](https://reference.aspose.com/words/java/com.aspose.words/Mobiument#save(java.lang.String,com.aspose.words.SaveOptions)を使用してMOBIをHTMLに変換します) 方法
 3. [ワークブック](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)クラスを使用してHTMLドキュメントをロードします
-4. [保存](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells))を使用して、ドキュメントをXLTM形式で保存します。 SaveOptions))メソッド
+4. [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells))を使用して、ドキュメントをXLTM形式で保存します。 SaveOptions))メソッド
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
@@ -46,7 +46,7 @@ MOBIをXLTMに変換する前に、[Aspose.Words for Android via Java](https://p
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="XLTMファイルをJava経由でAndroidのストリームに保存" %}}
-MOBIをXLTMに変換した後、[Java経由のAndroid用Aspose.Cells](https://products.aspose.com/cells/android-java/)を使用すると、ドキュメントを保存してストリームに保存できます。ファイルをストリームに保存する必要がある場合は、FileOutputStreamオブジェクトを作成してから、[保存](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream、％20com.aspose.cells.SaveOptions))[Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)のsaveメソッドを呼び出して、そのStreamオブジェクトへのファイル物体。
+MOBIをXLTMに変換した後、[Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)を使用すると、ドキュメントを保存してストリームに保存できます。ファイルをストリームに保存する必要がある場合は、FileOutputStreamオブジェクトを作成してから、[Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream、％20com.aspose.cells.SaveOptions))[Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)のsaveメソッドを呼び出して、そのStreamオブジェクトへのファイル物体。
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}

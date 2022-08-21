@@ -13,12 +13,12 @@ otherformats: PPTM PPTX PPS PPSM ODP POT PPT POWERPOINT POTX POTM
 {{< blocks/products/pf/feature-page-header h1="C++ API для преобразования DOCM в PPSX" h2="Экспортируйте DOCM в PPSX в приложениях C++ без использования Microsoft Word&reg; или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) состоит из мощных API-интерфейсов для автоматизации файлов, которые позволяют автоматизировать преобразование DOCM в PPSX при использовании двух API-интерфейсов. Загрузите свой DOCM с помощью [Aspose.Words для C++](https://products.aspose.com/words/cpp/) и преобразуйте его в HTML, затем загрузите HTML с помощью C++ API для обработки PowerPoint [Aspose.Slides для C++]( https://products.aspose.com/slides/cpp/), чтобы создать новую презентацию и сохранить ее как PPSX. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) состоит из мощных API-интерфейсов для автоматизации файлов, которые позволяют автоматизировать преобразование DOCM в PPSX при использовании двух API-интерфейсов. Загрузите свой DOCM с помощью [Aspose.Words for C++](https://products.aspose.com/words/cpp/) и преобразуйте его в HTML, затем загрузите HTML с помощью C++ API для обработки PowerPoint [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/), чтобы создать новую презентацию и сохранить ее как PPSX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование DOCM в PPSX на C++" %}}
-1. Откройте файл DOCM, используя ссылку на класс [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument).
+1. Откройте файл DOCM, используя ссылку на класс [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument).
 2. Преобразуйте DOCM в HTML с помощью функции-члена [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_stdbasicostream_saveoptions).
 3. Инициализируйте новый объект [Презентация](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. Добавьте AutoShape на слайд и добавьте в него AddTextFrame.
@@ -34,9 +34,9 @@ otherformats: PPTM PPTX PPS PPSM ODP POT PPT POWERPOINT POTX POTM
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp
-// load DOCM file with an instance of Docmument
-Docmument docmument = new Docmument("template.docm");
-System::SharedPtr<Docmument> docm = System::MakeObject<Docmument>(u"sourceFile.docm");
+// load DOCM file with an instance of Document
+Document docmument = new Document("template.docm");
+System::SharedPtr<Document> docm = System::MakeObject<Document>(u"sourceFile.docm");
 // save the docmument in HTML file format
 docm->Save(u"HtmlOutput.HTML");
 // load the desired the presentation
@@ -74,7 +74,7 @@ pres->Save(output.ppsx, Aspose::Slides::Export::SaveFormat::Ppsx);
 // when loading password protected docmument, the password is passed to the docmument's constructor using a LoadOptions object.
 auto options = MakeObject<LoadOptions>(u"docmPassword");
 // load the docmument from the local file system by filename:
-SharedPtr<Docmument> docm = MakeObject<Docmument>(u"Encrypted.docm", options);
+SharedPtr<Document> docm = MakeObject<Document>(u"Encrypted.docm", options);
 ```
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

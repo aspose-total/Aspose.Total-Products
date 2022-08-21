@@ -13,7 +13,7 @@ otherformats: POT PPTM POTX PPT XAML SWF POTM PPSM POWERPOINT OTP PPSX PPS
 {{< blocks/products/pf/feature-page-header h1="Convertir PS en ODP sur Android via Java" h2="Transformez PS en ODP dans vos applications Android sans utiliser Microsoft<sup>&reg;</sup> PowerPoint ou Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Vous pouvez intégrer la fonctionnalité de conversion PS en ODP dans vos applications Android en suivant deux étapes simples. Dans la première étape, vous pouvez exporter PS vers PPTX en utilisant [Aspose.PDF pour Android via Java](https://products.aspose.com/pdf/android-java/). Après cela, en utilisant [Aspose.Slides pour Android via Java](https://products.aspose.com/slides/android-java/), vous pouvez convertir PPTX en ODP. Les deux API relèvent du package [Aspose.Total pour Android via Java](https://products.aspose.com/total/android-java/). 
+Vous pouvez intégrer la fonctionnalité de conversion PS en ODP dans vos applications Android en suivant deux étapes simples. Dans la première étape, vous pouvez exporter PS vers PPTX en utilisant [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/). Après cela, en utilisant [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/), vous pouvez convertir PPTX en ODP. Les deux API relèvent du package [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Vous pouvez intégrer la fonctionnalité de conversion PS en ODP dans vos applic
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
-Vous pouvez facilement utiliser Aspose.Total pour Android via Java directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et installez [Aspose.PDF pour Android via Java](https://docs.aspose.com/pdf/androidjava/installation/) et [Aspose.Slides pour Android via Java](https://docs.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) dans vos applications.
+Vous pouvez facilement utiliser Aspose.Total for Android via Java directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et installez [Aspose.PDF for Android via Java](https://docs.aspose.com/pdf/androidjava/installation/) et [Aspose.Slides for Android via Java](https://docs.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) dans vos applications.
 
 Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -46,7 +46,7 @@ presentation.save("output.odp", SaveFormat.Odp);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ouvrir le fichier PS protégé par mot de passe dans Android via Java" %}}
-Lors du chargement du format de fichier PS, votre document peut être protégé par un mot de passe. [Aspose.PDF pour Android via Java](https://products.aspose.com/pdf/android-java/) vous permet également d'ouvrir des documents cryptés. Afin d'ouvrir le fichier crypté, vous pouvez initialiser une nouvelle instance du [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-) classe et transmettez le nom de fichier et le mot de passe comme arguments.
+Lors du chargement du format de fichier PS, votre document peut être protégé par un mot de passe. [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) vous permet également d'ouvrir des documents cryptés. Afin d'ouvrir le fichier crypté, vous pouvez initialiser une nouvelle instance du [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-) classe et transmettez le nom de fichier et le mot de passe comme arguments.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java
@@ -60,7 +60,7 @@ document.save("PptxOutput.pptx", SaveFormat.Pptx);
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Créer une image miniature du fichier ODP dans les applications Android" %}}
-Après avoir converti PS en ODP, vous pouvez également créer des images miniatures de votre document de sortie. En utilisant la riche fonctionnalité [Aspose.Slides pour Android via Java](https://products.aspose.com/slides/android-java/), vous pouvez générer des images miniatures des diapositives en créant une instance de la [Présentation]( https://reference.aspose.com/slides/java/com.aspose.slides/Presentation). Après cela, vous pouvez obtenir la référence de n'importe quelle diapositive souhaitée en utilisant son ID ou son index et obtenir l'image miniature de la diapositive référencée à une échelle spécifiée.
+Après avoir converti PS en ODP, vous pouvez également créer des images miniatures de votre document de sortie. En utilisant la riche fonctionnalité [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/), vous pouvez générer des images miniatures des diapositives en créant une instance de la [Présentation]( https://reference.aspose.com/slides/java/com.aspose.slides/Presentation). Après cela, vous pouvez obtenir la référence de n'importe quelle diapositive souhaitée en utilisant son ID ou son index et obtenir l'image miniature de la diapositive référencée à une échelle spécifiée.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java

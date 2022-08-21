@@ -13,7 +13,7 @@ otherformats: OTP PPSM PPSX POTM PPTM POT ODP PPS POWERPOINT POTX
 {{< blocks/products/pf/feature-page-header h1="Convertir le format JSON en PPT via C++" h2="API C++ pour analyser JSON vers PPT sans utiliser Microsoft<sup>&reg;</sup> PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Vous pouvez convertir JSON en PPT dans n'importe quelle application C++ en deux étapes simples. Tout d'abord, en utilisant [Aspose.Cells pour C++](https://products.aspose.com/cells/cpp/), vous pouvez analyser JSON en PPTX. Après cela, en utilisant [Aspose.Slides pour C++](https://products.aspose.com/slides/cpp/), vous pouvez convertir PPTX en PPT. Les deux API relèvent du package [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
+Vous pouvez convertir JSON en PPT dans n'importe quelle application C++ en deux étapes simples. Tout d'abord, en utilisant [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), vous pouvez analyser JSON en PPTX. Après cela, en utilisant [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), vous pouvez convertir PPTX en PPT. Les deux API relèvent du package [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: WORD DOC PPTX POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera EXCEL till DOCX via C++" h2="Exportera Excel&reg; EXCEL till DOCX inom fullfunktionella C++-applikationer" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera EXCEL till DOCX via C++" h2="Exportera Excel<sup>&reg;</sup> EXCEL till DOCX inom fullfunktionella C++-applikationer" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="EXCEL till DOCX-konvertering på C++" %}}

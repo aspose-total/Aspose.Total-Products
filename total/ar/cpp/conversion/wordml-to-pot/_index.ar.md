@@ -19,11 +19,11 @@ otherformats: PPT PPS PPTX ODP PPSX PPSM POWERPOINT POTM POTX PPTM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="تحويل WORDML إلى POT على C++" %}}
 1. افتح ملف WORDML باستخدام [Wordmlument](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument) مرجع فئة
-2. تحويل WORDML إلى HTML باستخدام وظيفة العضو [حفظ](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument#save_stdbasicostream_saveoptions)
+2. تحويل WORDML إلى HTML باستخدام وظيفة العضو [Save](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument#save_stdbasicostream_saveoptions)
 3. تهيئة كائن [عرض تقديمي] جديد(https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. إضافة شكل تلقائي في الشريحة الخاصة بك ، وإضافة AddTextFrame فيه
 5. قم بتحميل محتوى HTML واكتبه في ملف العرض التقديمي الخاص بك
-6. احفظ المستند بتنسيق POT باستخدام طريقة [حفظ](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) وتعيين Pot على أنه SaveFormat
+6. احفظ المستند بتنسيق POT باستخدام طريقة [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) وتعيين Pot على أنه SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}

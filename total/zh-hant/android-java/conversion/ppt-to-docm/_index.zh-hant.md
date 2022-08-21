@@ -21,8 +21,8 @@ otherformats: DOCX RTF ODT DOTM TEXT OTT DOC FLATOPC DOTX WORD WORDML DOT
 {{% blocks/products/pf/agp/feature-section-col title="Android 中的 PPT 到 DOCM 渲染" %}}
 1. 使用 [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 類打開 PPT 文件
 2. 使用 [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides) 將 PPT 轉換為 HTML。ISaveOptions-) 方法並將 Html 設置為 SaveFormat
-3. 使用 [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument) 類加載轉換後的 HTML 文件
-4. 使用[save](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,int))方法將文檔保存為DOCM格式並設置Docm保存格式
+3. 使用 [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 類加載轉換後的 HTML 文件
+4. 使用[save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))方法將文檔保存為DOCM格式並設置Docm保存格式
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="轉換要求" %}}
@@ -36,8 +36,8 @@ otherformats: DOCX RTF ODT DOTM TEXT OTT DOC FLATOPC DOTX WORD WORDML DOT
 Presentation presentation = new Presentation("input.ppt");
 // save the presentation as HTML
 presentation.save("htmlOutput.html", SaveFormat.Html);
-// load HTML with an instance of Docmument
-Docmument docmument = new Docmument("htmlOutput.html");
+// load HTML with an instance of Document
+Document docmument = new Document("htmlOutput.html");
 // save docmument in DOCM format
 docmument.save("output.docm",SaveFormat.Docmm);   
 ```

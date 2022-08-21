@@ -13,7 +13,7 @@ otherformats: PDF DOTX TIFF JPEG PNG TEXT GIF DOC PCL SVG ODT BMP DOCM RTF MD OT
 {{< blocks/products/pf/feature-page-header h1="Andorid 앱에서 EMAIL을 FLATOPC로 변환" h2="Java API를 통해 Andorid를 사용하여 EMAIL을 FLATOPC로 내보내기 위한 Andorid 애플리케이션 설계" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Andorid 앱은 일상적인 최종 사용자가 사용하기 쉽습니다. Andorid 휴대폰 사용자의 수는 나날이 증가하고 있습니다. 강력한 [Java를 통한 Android용 Aspose.Total](https://products.aspose.com/total/android-java/) 파일 형식 자동화 라이브러리를 사용하여 이메일 조작 및 변환 애플리케이션을 개발할 수 있습니다. [Android Java용 Aspose.Email](https://products.aspose.com/email/android-java/) 및 [Aspose.Words for Andorid Java](https://products.aspose.com/words/android-java/). 첫 번째 API를 사용하여 EMAIL 파일 형식을 HTML로 변환할 수 있고 두 번째 API를 사용하여 HTML을 FLATOPC로 렌더링할 수 있습니다. 
+Andorid 앱은 일상적인 최종 사용자가 사용하기 쉽습니다. Andorid 휴대폰 사용자의 수는 나날이 증가하고 있습니다. 강력한 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) 파일 형식 자동화 라이브러리를 사용하여 이메일 조작 및 변환 애플리케이션을 개발할 수 있습니다. [Aspose.Email for Android via Java](https://products.aspose.com/email/android-java/) 및 [Aspose.Words for Andorid Java](https://products.aspose.com/words/android-java/). 첫 번째 API를 사용하여 EMAIL 파일 형식을 HTML로 변환할 수 있고 두 번째 API를 사용하여 HTML을 FLATOPC로 렌더링할 수 있습니다. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Andorid 앱은 일상적인 최종 사용자가 사용하기 쉽습니다. Andor
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)에서 직접 Java를 통해 Android용 Aspose.Total을 쉽게 사용할 수 있습니다. [Java를 통한 Android용 Aspose.Email](https://docs.aspose.com/email/androidjava/installation/) 및 [Java를 통한 Andorid용 Aspose.Words](https://docs.aspose.com/words) 설치 /java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository).
+[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)에서 직접 Java를 통해 Android용 Aspose.Total을 쉽게 사용할 수 있습니다. [Aspose.Email for Android via Java](https://docs.aspose.com/email/androidjava/installation/) 및 [Java를 통한 Andorid용 Aspose.Words](https://docs.aspose.com/words) 설치
 
 또는 [다운로드](https://downloads.aspose.com/total/androidjava)에서 ZIP 파일을 얻을 수 있습니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}

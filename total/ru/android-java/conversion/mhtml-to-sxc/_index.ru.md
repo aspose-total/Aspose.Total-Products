@@ -13,7 +13,7 @@ otherformats: EXCEL XLSM DIF TSV TXT XLT FODS XLSB XLTM XLTX CSV ODS
 {{< blocks/products/pf/feature-page-header h1="Рендеринг MHTML в SXC на Android через Java" h2="Преобразование MHTML в SXC в приложениях для Android без использования Microsoft<sup>&reg;</sup> Excel или Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Вы можете интегрировать функцию преобразования MHTML в SXC в свои приложения для Android в два этапа. Во-первых, используя [Aspose.PDF для Android через Java](https://products.aspose.com/pdf/android-java/), вы можете конвертировать MHTML в XLSX. Во-вторых, вы можете конвертировать XLSX в SXC с помощью мощного API обработки электронных таблиц [Aspose.Cells для Android через Java](https://products.aspose.com/cells/android-java/). Оба API относятся к семейству продуктов [Aspose.Total для Android через Java](https://products.aspose.com/total/android-java/). 
+Вы можете интегрировать функцию преобразования MHTML в SXC в свои приложения для Android в два этапа. Во-первых, используя [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/), вы можете конвертировать MHTML в XLSX. Во-вторых, вы можете конвертировать XLSX в SXC с помощью мощного API обработки электронных таблиц [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Оба API относятся к семейству продуктов [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ otherformats: EXCEL XLSM DIF TSV TXT XLT FODS XLSB XLTM XLTX CSV ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
-Вы можете легко использовать Aspose.Total для Android через Java непосредственно из [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) и установите [Aspose.PDF для Android через Java](https://docs.aspose.com/pdf/androidjava/installation/) и [Aspose.Cells для Android через Java](https://docs.aspose.com/cells /java/aspose-cells-for-android-через-java-установку/) в ваших приложениях.
+Вы можете легко использовать Aspose.Total for Android via Java непосредственно из [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) и установите [Aspose.PDF for Android via Java](https://docs.aspose.com/pdf/androidjava/installation/) и [Aspose.Cells for Android via Java](https://docs.aspose.com/cells/java/aspose-cells-for-android-через-java-установку/) в ваших приложениях.
 
 Кроме того, вы можете получить ZIP-файл из [загрузки](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -38,7 +38,7 @@ otherformats: EXCEL XLSM DIF TSV TXT XLT FODS XLSB XLTM XLTX CSV ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Получить метаданные XMP файла MHTML в Android через Java" %}}
-[Aspose.PDF для Android через Java](https://products.aspose.com/pdf/android-java/) позволяет получить доступ к метаданным XMP файла MHTML. Чтобы получить метаданные, создайте объект [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document), откройте входной файл MHTML и используйте [getMetadata()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--), чтобы получить метаданные.
+[Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) позволяет получить доступ к метаданным XMP файла MHTML. Чтобы получить метаданные, создайте объект [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document), откройте входной файл MHTML и используйте [getMetadata()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--), чтобы получить метаданные.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
@@ -46,7 +46,7 @@ otherformats: EXCEL XLSM DIF TSV TXT XLT FODS XLSB XLTM XLTX CSV ODS
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Защитите SXC-документ в Android с помощью Java" %}}
-[Aspose.Cells для Android через Java](https://products.aspose.com/cells/android-java/) поддерживает защиту файла SXC в зависимости от ваших потребностей. Чтобы защитить свой документ, вы можете использовать метод [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
+[Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) поддерживает защиту файла SXC в зависимости от ваших потребностей. Чтобы защитить свой документ, вы можете использовать метод [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-sxc.java" >}}

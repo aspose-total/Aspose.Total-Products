@@ -13,22 +13,22 @@ otherformats: DOC DOCX DOCM DOTX WORDML DOT RTF OTT ODT WORD TEXT DOTM
 {{< blocks/products/pf/feature-page-header h1="Kết xuất PPTM sang FLATOPC trên Andorid qua Java" h2="Các API định dạng tệp để chuyển đổi PPTM sang FLATOPC trong ứng dụng Android mà không phụ thuộc vào Microsoft PowerPoint hoặc Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total cho Android qua Java](https://products.aspose.com/total/android-java/) cho phép thao tác các định dạng tệp trong các ứng dụng Android. Bằng cách sử dụng các API được cung cấp trong gói, bạn có thể tự động hóa quy trình chuyển đổi PowerPoint PPTM sang Word FLATOPC trong ứng dụng của mình.
-Bạn có thể chuyển đổi tài liệu đã cho của mình trong hai bước. Bạn có thể sử dụng [Aspose.Slides cho Andorid qua Java](https://products.aspose.com/slides/android-java/) là một API PowerPoint cho các ứng dụng Android để hiển thị PPTM sang HTML. Sau đó, bằng cách sử dụng API xử lý tài liệu [Aspose.Words dành cho Android qua Java](https://products.aspose.com/words/android-java/), bạn có thể chuyển đổi HTML thành FLATOPC. 
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) cho phép thao tác các định dạng tệp trong các ứng dụng Android. Bằng cách sử dụng các API được cung cấp trong gói, bạn có thể tự động hóa quy trình chuyển đổi PowerPoint PPTM sang Word FLATOPC trong ứng dụng của mình.
+Bạn có thể chuyển đổi tài liệu đã cho của mình trong hai bước. Bạn có thể sử dụng [Aspose.Slides cho Andorid qua Java](https://products.aspose.com/slides/android-java/) là một API PowerPoint cho các ứng dụng Android để hiển thị PPTM sang HTML. Sau đó, bằng cách sử dụng API xử lý tài liệu [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/), bạn có thể chuyển đổi HTML thành FLATOPC. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="PPTM to FLATOPC Rendering trong Android" %}}
-1. Mở tệp PPTM bằng lớp [Trình bày](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+1. Mở tệp PPTM bằng lớp [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Chuyển đổi PPTM sang HTML bằng cách sử dụng [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)ương thứcISaveOptions-) và đặt Html làm SaveFormat
 3. Tải tệp HTML đã chuyển đổi bằng cách sử dụng lớp [Flatopcument](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument)
 4. Lưu tài liệu sang định dạng FLATOPC bằng phương pháp [save](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String, int)) và đặt Flatopc dưới dạng SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
-Bạn có thể dễ dàng sử dụng Aspose.Total cho Android qua Java trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và cài đặt [Aspose.Slides dành cho Android qua Java](https://flatopcs.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) và [Aspose.Words dành cho Andorid qua Java](https://flatopcs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) trong các ứng dụng.
+Bạn có thể dễ dàng sử dụng Aspose.Total for Android via Java trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và cài đặt [Aspose.Slides for Android via Java](https://flatopcs.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) và [Aspose.Words dành cho Andorid qua Java](https://flatopcs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) trong các ứng dụng.
 
-Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://downloads.aspose.com/total/androidjava).
+Ngoài ra, bạn có thể tải tệp ZIP từ [download](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 ```cs

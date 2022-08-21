@@ -13,7 +13,7 @@ otherformats: EPUB FLATOPC PNG JPEG DOCM BMP PDF GIF RTF WORDML ODT PCL PS XPS T
 {{< blocks/products/pf/feature-page-header h1="API C++ pour exporter EML vers MD" h2="Transformez EML en MD dans une application C++ sans nécessiter Microsoft Word ou Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Êtes-vous un développeur C++ cherchant à ajouter des fonctionnalités de conversion d'e-mails dans vos applications ? En utilisant [Aspose.Eml pour C++](https://products.aspose.com/eml/cpp/), vous pouvez convertir le format de fichier EML en HTML. Après cela, en utilisant l'API [Aspose.Words pour C++](https://products.aspose.com/words/cpp/), vous pouvez exporter du HTML vers MD. Les deux API relèvent du package [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
+Êtes-vous un développeur C++ cherchant à ajouter des fonctionnalités de conversion d'e-mails dans vos applications ? En utilisant [Aspose.Eml pour C++](https://products.aspose.com/eml/cpp/), vous pouvez convertir le format de fichier EML en HTML. Après cela, en utilisant l'API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), vous pouvez exporter du HTML vers MD. Les deux API relèvent du package [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,7 @@ otherformats: EPUB PCL WORD FLATOPC OTT MOBI RTF PS DOC DOT DOTX CHM DOCM WORDML
 {{< blocks/products/pf/feature-page-header h1="Konvertieren Sie das JSON-Format in Android-Anwendungen in ODT" h2="Analysieren Sie JSON in ODT in Android-Anwendungen, ohne Microsoft<sup>&reg;</sup> Word zu verwenden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Sie können JSON in Ihren Android-Anwendungen in zwei Schritten in ODT konvertieren. Erstens können Sie mit der leistungsstarken Spreadsheet Processing API [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) JSON in PDF parsen. Im zweiten Schritt können Sie PDF in ODT konvertieren, indem Sie die Textverarbeitungs-API [Aspose.Words für Android über Java](https://products.aspose.com/words/android-java/) verwenden. Beide APIs gehören zur Produktfamilie [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
+Sie können JSON in Ihren Android-Anwendungen in zwei Schritten in ODT konvertieren. Erstens können Sie mit der leistungsstarken Spreadsheet Processing API [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) JSON in PDF parsen. Im zweiten Schritt können Sie PDF in ODT konvertieren, indem Sie die Textverarbeitungs-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) verwenden. Beide APIs gehören zur Produktfamilie [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

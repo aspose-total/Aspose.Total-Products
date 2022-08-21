@@ -13,7 +13,7 @@ otherformats: PPSX PPSM POTM ODP PPT POT PPTM PPTX PPS POTX
 {{< blocks/products/pf/feature-page-header h1="C++ API เพื่อแปลง TXT เป็น POWERPOINT" h2="ส่งออก TXT เป็น POWERPOINT ภายในแอปพลิเคชัน C++ ของคุณโดยไม่ต้องใช้ Microsoft Word&reg; หรือ PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total สำหรับ C++](https://products.aspose.com/total/cpp/) ประกอบด้วย API การทำงานอัตโนมัติของไฟล์อันทรงพลังที่อนุญาตให้แปลง TXT เป็น POWERPOINT โดยอัตโนมัติในขณะที่ใช้ API สองตัว โหลด TXT ของคุณโดยใช้ [Aspose.Words for C++](https://products.aspose.com/words/cpp/) แล้วแปลงเป็น HTML จากนั้นโหลด HTML ผ่านการจัดการ PowerPoint C++ API [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) เพื่อสร้างงานนำเสนอใหม่และบันทึกเป็น POWERPOINT 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) ประกอบด้วย API การทำงานอัตโนมัติของไฟล์อันทรงพลังที่อนุญาตให้แปลง TXT เป็น POWERPOINT โดยอัตโนมัติในขณะที่ใช้ API สองตัว โหลด TXT ของคุณโดยใช้ [Aspose.Words for C++](https://products.aspose.com/words/cpp/) แล้วแปลงเป็น HTML จากนั้นโหลด HTML ผ่านการจัดการ PowerPoint C++ API [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) เพื่อสร้างงานนำเสนอใหม่และบันทึกเป็น POWERPOINT 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -23,7 +23,7 @@ otherformats: PPSX PPSM POTM ODP PPT POT PPTM PPTX PPS POTX
 3. เริ่มต้นวัตถุ [การนำเสนอ](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) ใหม่
 4. เพิ่มรูปร่างอัตโนมัติในสไลด์ของคุณ และเพิ่ม AddTextFrame ในนั้น
 5. โหลดเนื้อหา HTML และเขียนลงในไฟล์นำเสนอของคุณ
-6. บันทึกเอกสารในรูปแบบ POWERPOINT โดยใช้วิธี [บันทึก](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) และตั้งค่า Powerpoint เป็น SaveFormat
+6. บันทึกเอกสารในรูปแบบ POWERPOINT โดยใช้วิธี [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) และตั้งค่า Powerpoint เป็น SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}

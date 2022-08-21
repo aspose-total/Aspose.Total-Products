@@ -13,12 +13,12 @@ otherformats: PPSX PPTX PPS PPT POTX POTM PPSM POWERPOINT POT PPTM
 {{< blocks/products/pf/feature-page-header h1="API de C++ para convertir DOC a ODP" h2="Exporte DOC a ODP dentro de sus aplicaciones C++ sin usar Microsoft Word&reg; o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total para C++](https://products.aspose.com/total/cpp/) consta de potentes API de automatización de archivos que permiten automatizar la conversión de DOC a ODP al usar dos de sus API. Cargue su DOC usando [Aspose.Words for C++](https://products.aspose.com/words/cpp/) y conviértalo a HTML, luego cargue el HTML mediante la manipulación de PowerPoint C++ API [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) para crear una nueva presentación y guardarla como ODP. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) consta de potentes API de automatización de archivos que permiten automatizar la conversión de DOC a ODP al usar dos de sus API. Cargue su DOC usando [Aspose.Words for C++](https://products.aspose.com/words/cpp/) y conviértalo a HTML, luego cargue el HTML mediante la manipulación de PowerPoint C++ API [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) para crear una nueva presentación y guardarla como ODP. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversión de DOC a ODP en C++" %}}
-1. Abra el archivo DOC usando la referencia de clase [Documento](https://reference.aspose.com/words/cpp/class/aspose.words.document)
+1. Abra el archivo DOC usando la referencia de clase [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
 2. Convierta DOC a HTML usando la función miembro [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stdbasicostream_saveoptions)
 3. Inicialice un nuevo objeto [Presentación](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. Agregue una autoforma en su diapositiva y agregue AddTextFrame en ella

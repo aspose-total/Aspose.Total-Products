@@ -13,7 +13,7 @@ otherformats: DOC DOT RTF ODT DOTX WORDML MOBI PCL DOCM EPUB FLATOPC WORD OTT PS
 {{< blocks/products/pf/feature-page-header h1="Konversi Format JSON ke CHM di Aplikasi Android" h2="Parsing JSON ke CHM dalam aplikasi Android tanpa menggunakan Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Anda dapat mengonversi JSON ke CHM di aplikasi Android Anda dalam proses dua langkah. Pertama, dengan menggunakan API Pemrosesan Spreadsheet yang Kuat [Aspose.Cells untuk Android melalui Java](https://products.aspose.com/cells/android-java/) Anda dapat mengurai JSON ke PDF. Pada langkah kedua, Anda dapat mengonversi PDF ke CHM dengan menggunakan Word Processing API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Kedua API berada di bawah keluarga produk [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
+Anda dapat mengonversi JSON ke CHM di aplikasi Android Anda dalam proses dua langkah. Pertama, dengan menggunakan API Pemrosesan Spreadsheet yang Kuat [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) Anda dapat mengurai JSON ke PDF. Pada langkah kedua, Anda dapat mengonversi PDF ke CHM dengan menggunakan Word Processing API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Kedua API berada di bawah keluarga produk [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Anda dapat mengonversi JSON ke CHM di aplikasi Android Anda dalam proses dua lan
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
-Anda dapat dengan mudah menggunakan Aspose.Total untuk Android melalui Java langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) dan instal pustaka di aplikasi Anda.
+Anda dapat dengan mudah menggunakan Aspose.Total for Android via Java langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) dan instal pustaka di aplikasi Anda.
 
 Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

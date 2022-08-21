@@ -17,7 +17,7 @@ otherformats: PPTX DOCX POWERPOINT DOC
 1. افتح ملف XLSX باستخدام وظيفة عضو [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) في [Factory](https://reference.aspose.com/cells/cpp/class/aspose.cells.factory) مرجع الفئة
 2. تحويل XLSX إلى PDF وتعيين SaveFormat إلى Pdf
 3. قم بتحميل ملف PDF المحول باستخدام [مستند](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.wordument) مرجع فئة
-4. احفظ المستند بتنسيق WORD باستخدام وظيفة العضو [حفظ](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.wordument#a6383c010776212483f51cc41235924db) وقم بتعيين Word على أنه SaveFormat
+4. احفظ المستند بتنسيق WORD باستخدام وظيفة العضو [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.wordument#a6383c010776212483f51cc41235924db) وقم بتعيين Word على أنه SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}

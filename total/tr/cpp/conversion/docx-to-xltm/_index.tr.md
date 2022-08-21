@@ -18,7 +18,7 @@ DOCX'den XLTM'ye dönüştürme özelliğini C++ uygulamalarınıza kolayca dahi
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="DOCX'yi XLTM'ye Dönüştürmek için C++ API" %}}
-1. [Belge](https://reference.aspose.com/words/cpp/class/aspose.words.docxument) sınıf referansını kullanarak DOCX dosyasını açın
+1. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docxument) sınıf referansını kullanarak DOCX dosyasını açın
 2. [Kaydet](https://reference.aspose.com/words/cpp/class/aspose.words.docxument#save_string_saveformat) üye işlevini kullanarak DOCX'u HTML'ye dönüştürün
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) sınıf referansını kullanarak HTML belgesini yükleyin
 4. [Kaydet](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) üye işlevini kullanarak belgeyi XLTM biçiminde kaydedin

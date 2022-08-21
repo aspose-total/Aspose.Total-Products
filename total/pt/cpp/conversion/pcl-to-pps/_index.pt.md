@@ -19,9 +19,9 @@ Você é um desenvolvedor C++ que deseja adicionar para integrar o recurso de co
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API C++ para exportar PCL para PPS" %}}
 1. Abra o arquivo PCL usando a referência de classe [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)
-2. Converta PCL para PPTX usando a função do método [Salvar](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a0184df207563187be7df37b8dbe443f6)
+2. Converta PCL para PPTX usando a função do método [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a0184df207563187be7df37b8dbe443f6)
 3. Carregue o documento PPTX usando a referência de classe [Apresentação](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
-4. Salve o documento no formato PPS usando a função de membro [Salvar](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) e defina "Pps" como SaveFormat
+4. Salve o documento no formato PPS usando a função de membro [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) e defina "Pps" como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}

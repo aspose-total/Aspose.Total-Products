@@ -18,7 +18,7 @@ Anda dapat menyertakan fitur konversi DOCM ke XLS dalam aplikasi C++ Anda dengan
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API untuk Mengonversi DOCM ke XLS" %}}
-1. Buka file DOCM menggunakan referensi kelas [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
+1. Buka file DOCM menggunakan referensi kelas [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
 2. Konversi DOCM ke HTML dengan menggunakan fungsi anggota [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string_saveformat)
 3. Muat dokumen HTML dengan menggunakan referensi kelas [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
 4. Simpan dokumen ke format XLS menggunakan fungsi anggota [Simpan](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
@@ -38,7 +38,7 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Akses Properti Dokumen DOCM melalui C++" %}}
-[Aspose.Words for C++](https://products.aspose.com/words/cpp/) juga memungkinkan Anda mengakses properti dokumen file DOCM dan memungkinkan Anda mengambil keputusan yang tepat sebelum proses konversi. Untuk mengakses properti dokumen, Anda dapat menggunakan [BuiltInDocmumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_docmument_properties) untuk mendapatkan properti bawaan dan [CustomDocmumentProperties](https://https://reference.aspose.com/words/cpp/class/aspose.words.properties.custom_docmument_properties) untuk mendapatkan properti kustom. Contoh kode berikut menunjukkan cara menghitung semua properti bawaan dan kustom dalam dokumen.
+[Aspose.Words for C++](https://products.aspose.com/words/cpp/) juga memungkinkan Anda mengakses properti dokumen file DOCM dan memungkinkan Anda mengambil keputusan yang tepat sebelum proses konversi. Untuk mengakses properti dokumen, Anda dapat menggunakan [BuiltInDocumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_docmument_properties) untuk mendapatkan properti bawaan dan [CustomDocumentProperties](https://https://reference.aspose.com/words/cpp/class/aspose.words.properties.custom_docmument_properties) untuk mendapatkan properti kustom. Contoh kode berikut menunjukkan cara menghitung semua properti bawaan dan kustom dalam dokumen.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-docmument-properties.cs" >}}

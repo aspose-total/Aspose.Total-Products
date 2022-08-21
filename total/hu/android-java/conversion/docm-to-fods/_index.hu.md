@@ -18,8 +18,8 @@ Az [Aspose.Total for Android via Java](https://products.aspose.com/total/android
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Android API a DOCM konvertálásához FODS-vé" %}}
-1. Nyissa meg a DOCM-fájlt a [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument) osztály használatával
-2. A [Mentés](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions)) segítségével konvertálja a DOCM-t HTML-vé. ) módszerrel
+1. Nyissa meg a DOCM-fájlt a [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) osztály használatával
+2. A [Mentés](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) segítségével konvertálja a DOCM-t HTML-vé. ) módszerrel
 3. Töltsön be HTML-dokumentumot a [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) osztály használatával
 4. Mentse a dokumentumot FODS formátumba a [Mentés](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells)) segítségével. SaveOptions)) módszer
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -38,7 +38,7 @@ Másik megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Távolítsa el a fel nem használt információkat egy DOCM-dokumentumból Androidon Java segítségével" %}}
-Mielőtt a DOCM-t FODS-vé alakítaná, eltávolíthatja a fel nem használt információkat a DOCM-dokumentumból az [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) segítségével. Néha előfordulhat, hogy el kell távolítania a fel nem használt vagy ismétlődő információkat, hogy csökkentse a kimeneti dokumentum méretét és a feldolgozási időt. A [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) osztály lehetővé teszi a dokumentumok tisztítására vonatkozó beállítások megadását. Az ismétlődő stílusok vagy csak a nem használt stílusok vagy listák dokumentumból való eltávolításához használja a [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Docmument#cleanup()) metódust. Használhatja a [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) és az [UnusedBuiltinStyles](https://reference.aspose.com/words/java) /com.aspose.words/cleanupoptions#UnusedBuiltinStyles) tulajdonságai a „nem használtként” megjelölt stílusok észleléséhez és eltávolításához.
+Mielőtt a DOCM-t FODS-vé alakítaná, eltávolíthatja a fel nem használt információkat a DOCM-dokumentumból az [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) segítségével. Néha előfordulhat, hogy el kell távolítania a fel nem használt vagy ismétlődő információkat, hogy csökkentse a kimeneti dokumentum méretét és a feldolgozási időt. A [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) osztály lehetővé teszi a dokumentumok tisztítására vonatkozó beállítások megadását. Az ismétlődő stílusok vagy csak a nem használt stílusok vagy listák dokumentumból való eltávolításához használja a [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Document#cleanup()) metódust. Használhatja a [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) és az [UnusedBuiltinStyles](https://reference.aspose.com/words/java) /com.aspose.words/cleanupoptions#UnusedBuiltinStyles) tulajdonságai a „nem használtként” megjelölt stílusok észleléséhez és eltávolításához.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-docmument.java" >}}

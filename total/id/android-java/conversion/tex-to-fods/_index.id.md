@@ -13,7 +13,7 @@ otherformats: XLSM TXT MD ODS SXC CSV XLSB XLAM TSV XLTX EXCEL DIF
 {{< blocks/products/pf/feature-page-header h1="Render TEX ke FODS di Android melalui Java" h2="Ubah TEX menjadi FODS dalam aplikasi Android tanpa memerlukan Microsoft<sup>&reg;</sup> Excel atau Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Anda dapat mengintegrasikan fitur konversi TEX ke FODS dalam aplikasi android Anda dalam proses dua langkah. Pertama, dengan menggunakan [Aspose.PDF untuk Android melalui Java](https://products.aspose.com/pdf/android-java/) Anda dapat mengcovert TEX ke XLSX. Kedua, Anda dapat mengonversi XLSX ke FODS dengan menggunakan API Pemrosesan Spreadsheet yang Kuat [Aspose.Cells untuk Android melalui Java](https://products.aspose.com/cells/android-java/). Kedua API berada di bawah keluarga produk [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
+Anda dapat mengintegrasikan fitur konversi TEX ke FODS dalam aplikasi android Anda dalam proses dua langkah. Pertama, dengan menggunakan [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) Anda dapat mengcovert TEX ke XLSX. Kedua, Anda dapat mengonversi XLSX ke FODS dengan menggunakan API Pemrosesan Spreadsheet yang Kuat [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Kedua API berada di bawah keluarga produk [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Anda dapat mengintegrasikan fitur konversi TEX ke FODS dalam aplikasi android An
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
-Anda dapat dengan mudah menggunakan Aspose.Total untuk Android melalui Java langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) dan instal [Aspose.PDF untuk Android melalui Java](https://docs.aspose.com/pdf/androidjava/installation/) dan [Aspose.Cells untuk Android melalui Java](https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/) di aplikasi Anda.
+Anda dapat dengan mudah menggunakan Aspose.Total for Android via Java langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) dan instal [Aspose.PDF for Android via Java](https://docs.aspose.com/pdf/androidjava/installation/) dan [Aspose.Cells for Android via Java](https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/) di aplikasi Anda.
 
 Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -38,7 +38,7 @@ Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://downloads.aspose.c
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Dapatkan Metadata XMP dari File TEX di Android melalui Java" %}}
-[Aspose.PDF untuk Android melalui Java](https://products.aspose.com/pdf/android-java/) memungkinkan Anda mengakses metadata XMP file TEX. Untuk mendapatkan metadata, buat objek [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) dan buka file TEX input dan gunakan [getMetadata()](https://reference.aspose.com/pdf/Java/com.aspose.pdf/Document#getMetadata--) properti untuk mendapatkan metadata.
+[Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) memungkinkan Anda mengakses metadata XMP file TEX. Untuk mendapatkan metadata, buat objek [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) dan buka file TEX input dan gunakan [getMetadata()](https://reference.aspose.com/pdf/Java/com.aspose.pdf/Document#getMetadata--) properti untuk mendapatkan metadata.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
@@ -46,7 +46,7 @@ Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://downloads.aspose.c
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Lindungi Dokumen FODS di Android melalui Java" %}}
-[Aspose.Cells untuk Android melalui Java](https://products.aspose.com/cells/android-java/) mendukung perlindungan file FODS Anda tergantung pada kebutuhan Anda. Untuk melindungi dokumen Anda, Anda dapat menggunakan metode [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) dari [Buku Kerja]( https://reference.aspose.com/cells/Java/com.aspose.cells/Workbook).
+[Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) mendukung perlindungan file FODS Anda tergantung pada kebutuhan Anda. Untuk melindungi dokumen Anda, Anda dapat menggunakan metode [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) dari [Buku Kerja]( https://reference.aspose.com/cells/Java/com.aspose.cells/Workbook).
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-fods.java" >}}

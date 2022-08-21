@@ -10,14 +10,14 @@ outformat: PPTX
 otherformats: PPTX DOCX DOC WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převést XLSX na POWERPOINT přes C++" h2="Export Excel&reg; XLSX do POWERPOINT v rámci plně funkčních aplikací C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Převést XLSX na POWERPOINT přes C++" h2="Export Excel<sup>&reg;</sup> XLSX do POWERPOINT v rámci plně funkčních aplikací C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Převod XLSX na POWERPOINT v C++" %}}
 1. Otevřete soubor XLSX pomocí členské funkce [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) [Factory](https://reference.aspose.com/cells/cpp/class/aspose.cells.factory) odkaz na třídu
 2. Převeďte XLSX na PDF a nastavte SaveFormat na Pdf
-3. Načtěte převedený soubor PDF pomocí odkazu třídy [Dokument](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.powerpointument)
-4. Uložte dokument do formátu POWERPOINT pomocí členské funkce [Uložit](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.powerpointument#a6383c010776212483f51cc41235924db) a nastavte Powerpoint jako SaveFormat
+3. Načtěte převedený soubor PDF pomocí odkazu třídy [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.powerpointument)
+4. Uložte dokument do formátu POWERPOINT pomocí členské funkce [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.powerpointument#a6383c010776212483f51cc41235924db) a nastavte Powerpoint jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}

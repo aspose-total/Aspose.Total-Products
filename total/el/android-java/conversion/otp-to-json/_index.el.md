@@ -13,7 +13,7 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 {{< blocks/products/pf/feature-page-header h1="Μετατροπή OTP σε μορφή JSON στο Android μέσω Java" h2="Σχεδιάστε εφαρμογές Android για εξαγωγή OTP σε JSON χωρίς χρήση Microsoft<sup>&reg;</sup> Word ή Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Μπορείτε να μετατρέψετε το OTP σε μορφή JSON στις Εφαρμογές σας Android μέσω του [Aspose.Total για Android μέσω Java](https://products.aspose.com/total/android-java/). Χρησιμοποιώντας το API χειρισμού εγγράφων και μετατροπής [Aspose.Words για Android μέσω Java](https://products.aspose.com/words/android-java/), μπορείτε να εξαγάγετε το OTP σε HTML. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Cells για Android μέσω Java](https://products.aspose.com/cells/android-java/), μπορείτε να μετατρέψετε HTML σε JSON. 
+Μπορείτε να μετατρέψετε το OTP σε μορφή JSON στις Εφαρμογές σας Android μέσω του [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Χρησιμοποιώντας το API χειρισμού εγγράφων και μετατροπής [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/), μπορείτε να εξαγάγετε το OTP σε HTML. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), μπορείτε να μετατρέψετε HTML σε JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
-Μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.Total για Android μέσω Java απευθείας από το [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) και εγκαταστήστε βιβλιοθήκες στην εφαρμογή σας.
+Μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.Total for Android via Java απευθείας από το [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) και εγκαταστήστε βιβλιοθήκες στην εφαρμογή σας.
 
 Εναλλακτικά, μπορείτε να λάβετε ένα αρχείο ZIP από τις [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

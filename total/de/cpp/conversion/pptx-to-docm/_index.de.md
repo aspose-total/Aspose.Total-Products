@@ -35,8 +35,8 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 SharedPtr<Presentation> prs = MakeObject<Presentation>(u"input.pptx");
 // Save presentation in HTML format.
 prs->Save(u"htmlOutput.html", Aspose::Slides::Export::SaveFormat::Html);
-// load HTML with an instance of Docmument
-System::SharedPtr<Docmument> docm = System::MakeObject<Docmument>(u"htmlOutput.html");
+// load HTML with an instance of Document
+System::SharedPtr<Document> docm = System::MakeObject<Document>(u"htmlOutput.html");
 // save docmument in DOCM format
 docm->Save(u"output.docm"); 
 ```

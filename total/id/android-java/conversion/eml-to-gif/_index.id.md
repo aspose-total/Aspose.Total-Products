@@ -13,7 +13,7 @@ otherformats: EPUB TEXT PNG ODT PDF FLATOPC DOCX EMF DOT OTT WORDML XPS JPEG PCL
 {{< blocks/products/pf/feature-page-header h1="Ubah EML menjadi GIF di Aplikasi Andorid" h2="Mendesain aplikasi Andorid untuk mengekspor EML ke GIF dengan menggunakan Andorid melalui Java API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Aplikasi Andorid mudah digunakan untuk pengguna akhir setiap hari. Hari demi hari jumlah pengguna ponsel Android semakin meningkat. Dengan menggunakan [Aspose.Total untuk Android melalui Java](https://products.aspose.com/total/android-java/) perpustakaan Otomasi Format File yang kuat, Anda dapat mengembangkan aplikasi manipulasi dan konversi Eml. Anda dapat mengonversi EML ke GIF dengan kombinasi [Aspose.Eml for Android Java](https://products.aspose.com/eml/android-java/) & [Aspose.Words for Andorid Java](https://products.aspose.com/words/android-java/). Menggunakan API pertama Anda dapat mengonversi format file EML ke HTML dan dengan menggunakan API kedua, Anda dapat merender HTML sebagai GIF. 
+Aplikasi Andorid mudah digunakan untuk pengguna akhir setiap hari. Hari demi hari jumlah pengguna ponsel Android semakin meningkat. Dengan menggunakan [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) perpustakaan Otomasi Format File yang kuat, Anda dapat mengembangkan aplikasi manipulasi dan konversi Eml. Anda dapat mengonversi EML ke GIF dengan kombinasi [Aspose.Eml for Android Java](https://products.aspose.com/eml/android-java/) & [Aspose.Words for Andorid Java](https://products.aspose.com/words/android-java/). Menggunakan API pertama Anda dapat mengonversi format file EML ke HTML dan dengan menggunakan API kedua, Anda dapat merender HTML sebagai GIF. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Aplikasi Andorid mudah digunakan untuk pengguna akhir setiap hari. Hari demi har
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
-Anda dapat dengan mudah menggunakan Aspose.Total untuk Android melalui Java langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) dan instal [Aspose.Eml untuk Android melalui Java](https://docs.aspose.com/eml/androidjava/installation/) dan [Aspose.Words untuk Android melalui Java](https://docs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) di aplikasi Anda.
+Anda dapat dengan mudah menggunakan Aspose.Total for Android via Java langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) dan instal [Aspose.Eml untuk Android melalui Java](https://docs.aspose.com/eml/androidjava/installation/) dan [Aspose.Words for Android via Java](https://docs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) di aplikasi Anda.
 
 Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -13,7 +13,7 @@ otherformats: TEXT DOCX WORD DOTM RTF WORDML DOT DOTX OTT FLATOPC DOC ODT
 {{< blocks/products/pf/feature-page-header h1="Java aracılığıyla Andorid'de PPTM'u DOCM'a dönüştürün" h2="Microsoft PowerPoint veya Word'e bağlı kalmadan Android uygulamalarında PPTM'u DOCM'ye dönüştürmek için dosya biçimi API'leri" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Java aracılığıyla Android için Aspose.Total](https://products.aspose.com/total/android-java/), Android uygulamalarında dosya biçimlerinin değiştirilmesine olanak tanır. Pakette sağlanan API'leri kullanarak, uygulamalarınızda PowerPoint PPTM'tan Word DOCM'ye dönüştürme işlemini otomatikleştirebilirsiniz.
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), Android uygulamalarında dosya biçimlerinin değiştirilmesine olanak tanır. Pakette sağlanan API'leri kullanarak, uygulamalarınızda PowerPoint PPTM'tan Word DOCM'ye dönüştürme işlemini otomatikleştirebilirsiniz.
 Verilen belgenizi iki adımda dönüştürebilirsiniz. PPTM'u HTML'ye dönüştürmek için Android uygulamaları için bir PowerPoint API'si olan [Aspose.Slides for Andorid with Java](https://products.aspose.com/slides/android-java/) kullanabilirsiniz. Bundan sonra belge işleme API'sini [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) kullanarak HTML'yi DOCM'ye dönüştürebilirsiniz. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
@@ -21,8 +21,8 @@ Verilen belgenizi iki adımda dönüştürebilirsiniz. PPTM'u HTML'ye dönüşt�
 {{% blocks/products/pf/agp/feature-section-col title="Android'de PPTM'tan DOCM'a İşleme" %}}
 1. [Sunum](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) sınıfını kullanarak PPTM dosyasını açın
 2. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides) kullanarak PPTM'u HTML'ye dönüştürün.ISaveOptions-) yöntemi ve Html'yi SaveFormat olarak ayarlayın
-3. Dönüştürülen HTML dosyasını [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument) sınıfını kullanarak yükleyin
-4. Belgeyi [save](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,int)) yöntemini kullanarak DOCM biçiminde kaydedin ve Docm'u ayarlayın SaveFormat olarak
+3. Dönüştürülen HTML dosyasını [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) sınıfını kullanarak yükleyin
+4. Belgeyi [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) yöntemini kullanarak DOCM biçiminde kaydedin ve Docm'u ayarlayın SaveFormat olarak
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Dönüşüm Gereksinimleri" %}}
@@ -36,8 +36,8 @@ Alternatif olarak, [downloads](https://downloads.aspose.com/total/androidjava) a
 Presentation presentation = new Presentation("input.pptm");
 // save the presentation as HTML
 presentation.save("htmlOutput.html", SaveFormat.Html);
-// load HTML with an instance of Docmument
-Docmument docmument = new Docmument("htmlOutput.html");
+// load HTML with an instance of Document
+Document docmument = new Document("htmlOutput.html");
 // save docmument in DOCM format
 docmument.save("output.docm",SaveFormat.Docmm);   
 ```

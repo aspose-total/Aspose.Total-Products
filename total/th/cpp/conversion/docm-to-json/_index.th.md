@@ -13,12 +13,12 @@ otherformats: XLT XLTM FODS SXC XLAM XLS EXCEL ODS XLSM DIF XLSB XLTX TSV CSV
 {{< blocks/products/pf/feature-page-header h1="แปลง DOCM เป็นรูปแบบ JSON ผ่าน C++" h2="ส่งออก DOCM เป็น JSON ผ่าน C++ โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-ด้วยการใช้ [Aspose.Total สำหรับ C++](https://products.aspose.com/total/cpp/) คุณสามารถแปลง DOCM เป็นรูปแบบ JSON ภายในแอปพลิเคชัน C++ ของคุณได้ ประการแรก โดยใช้ [Aspose.Words for C++](https://products.aspose.com/words/cpp/) คุณสามารถส่งออก DOCM เป็น HTML หลังจากนั้น เมื่อใช้ [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) คุณจะแปลงรูปแบบ HTML เป็นรูปแบบ JSON ได้ 
+ด้วยการใช้ [Aspose.Total for C++](https://products.aspose.com/total/cpp/) คุณสามารถแปลง DOCM เป็นรูปแบบ JSON ภายในแอปพลิเคชัน C++ ของคุณได้ ประการแรก โดยใช้ [Aspose.Words for C++](https://products.aspose.com/words/cpp/) คุณสามารถส่งออก DOCM เป็น HTML หลังจากนั้น เมื่อใช้ [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) คุณจะแปลงรูปแบบ HTML เป็นรูปแบบ JSON ได้ 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="แปลง DOCM เป็นรูปแบบ JSON ผ่าน C++" %}}
-1. เปิดไฟล์ DOCM โดยใช้ [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument) การอ้างอิงคลาส
+1. เปิดไฟล์ DOCM โดยใช้ [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument) การอ้างอิงคลาส
 2. แปลง DOCM เป็น HTML โดยใช้ฟังก์ชันสมาชิก [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string_saveformat)
 3. โหลดเอกสาร HTML โดยใช้ [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) การอ้างอิงคลาส
 4. บันทึกเอกสารในรูปแบบ JSON โดยใช้ฟังก์ชันสมาชิก [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)

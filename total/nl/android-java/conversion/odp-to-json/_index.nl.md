@@ -13,7 +13,7 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 {{< blocks/products/pf/feature-page-header h1="Converteer ODP naar JSON-formaat in Android via Java" h2="Ontwerp Android-applicaties om ODP naar JSON te exporteren zonder Microsoft<sup>&reg;</sup> Word of Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-U kunt ODP naar JSON-indeling converteren in uw Android-applicaties via [Aspose.Total voor Android via Java](https://products.aspose.com/total/android-java/). Door odpumentmanipulatie en conversie-API [Aspose.Words voor Android via Java](https://products.aspose.com/words/android-java/) te gebruiken, kunt u ODP naar HTML exporteren. Daarna kunt u met [Aspose.Cells voor Android via Java](https://products.aspose.com/cells/android-java/) HTML naar JSON converteren. 
+U kunt ODP naar JSON-indeling converteren in uw Android-applicaties via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Door odpumentmanipulatie en conversie-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) te gebruiken, kunt u ODP naar HTML exporteren. Daarna kunt u met [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) HTML naar JSON converteren. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ U kunt ODP naar JSON-indeling converteren in uw Android-applicaties via [Aspose.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
-U kunt Aspose.Total voor Android eenvoudig via Java rechtstreeks vanuit [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) en installeer bibliotheken in uw app.
+U kunt Aspose.Total for Android eenvoudig via Java rechtstreeks vanuit [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) en installeer bibliotheken in uw app.
 
 U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

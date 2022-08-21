@@ -13,7 +13,7 @@ otherformats: XLSM EXCEL XLTX TSV CSV MARKDOWN XLSX XLAM XLS ODS XLTM DIF XLSB X
 {{< blocks/products/pf/feature-page-header h1="Converti PPS in SXC in Android tramite Java" h2="Esporta file PPS in SXC nelle applicazioni Android senza utilizzare Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Puoi convertire facilmente file PPS in SXC nelle tue applicazioni Android in un processo in due fasi tramite [Aspose.Total per Android via Java](https://products.aspose.com/total/android-java/). Nel primo passaggio puoi esportare il file PPS in HTML utilizzando [Aspose.Slides per Android tramite Java](https://products.aspose.com/slides/android-java/). In secondo luogo, utilizzando [Aspose.Cells per Android tramite Java](https://products.aspose.com/cells/android-java/), puoi convertire HTML in SXC. 
+Puoi convertire facilmente file PPS in SXC nelle tue applicazioni Android in un processo in due fasi tramite [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Nel primo passaggio puoi esportare il file PPS in HTML utilizzando [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). In secondo luogo, utilizzando [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), puoi convertire HTML in SXC. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Puoi convertire facilmente file PPS in SXC nelle tue applicazioni Android in un 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
-Per convertire PPS in SXC, puoi facilmente utilizzare Aspose.Total per Android tramite Java direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e installa le librerie nella tua app.
+Per convertire PPS in SXC, puoi facilmente utilizzare Aspose.Total for Android via Java direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e installa le librerie nella tua app.
 
 In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

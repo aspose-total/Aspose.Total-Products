@@ -13,15 +13,15 @@ otherformats: ODT DOCM DOT RTF PCL FLATOPC CHM OTT WORDML WORD DOC EPUB MOBI PS
 {{< blocks/products/pf/feature-page-header h1="Převeďte formát JSON na DOTX v aplikacích pro Android" h2="Analyzujte JSON na DOTX v aplikacích pro Android bez použití Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-JSON můžete převést na DOTX ve svých aplikacích pro Android ve dvou krocích. Za prvé, pomocí Powerful Spreadsheet Processing API [Aspose.Cells pro Android přes Java](https://products.aspose.com/cells/android-java/) můžete analyzovat JSON do PDF. Ve druhém kroku můžete převést PDF do DOTX pomocí rozhraní API pro zpracování textu [Aspose.Words pro Android přes Java](https://products.aspose.com/words/android-java/). Obě rozhraní API spadají do rodiny produktů [Aspose.Total pro Android přes Java](https://products.aspose.com/total/android-java/). 
+JSON můžete převést na DOTX ve svých aplikacích pro Android ve dvou krocích. Za prvé, pomocí Powerful Spreadsheet Processing API [Aspose.Cells pro Android přes Java](https://products.aspose.com/cells/android-java/) můžete analyzovat JSON do PDF. Ve druhém kroku můžete převést PDF do DOTX pomocí rozhraní API pro zpracování textu [Aspose.Words pro Android přes Java](https://products.aspose.com/words/android-java/). Obě rozhraní API spadají do rodiny produktů [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Převeďte formát JSON na DOTX v systému Android přes Java" %}}
 1. Vytvořte nový objekt [Sešit](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) a načtěte platná data JSON ze souboru
-2. Importujte soubor JSON do listu pomocí třídy [JsonUtility](https://reference.aspose.com/cells/java/com.aspose.cells/JsonUtility) a [Uložit](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) to jako PDF
+2. Importujte soubor JSON do listu pomocí třídy [JsonUtility](https://reference.aspose.com/cells/java/com.aspose.cells/JsonUtility) a [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) to jako PDF
 3. Načtěte dokument PDF pomocí třídy [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
-4. Uložte dokument do formátu DOTX pomocí [Uložit](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metoda
+4. Uložte dokument do formátu DOTX pomocí [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metoda
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}

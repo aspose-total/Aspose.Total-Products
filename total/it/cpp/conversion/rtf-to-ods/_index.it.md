@@ -13,7 +13,7 @@ otherformats: XLT XLAM XLSX FODS XLSM DIF EXCEL TSV XLS XLTX CSV XLSB SXC XLTM
 {{< blocks/products/pf/feature-page-header h1="API C++ per convertire RTF in ODS" h2="Esporta RTF in ODS tramite C++ senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Puoi includere facilmente la funzione di conversione da RTF a ODS nelle tue applicazioni C++. Utilizzando l'API di conversione e manipolazione dei rtfumenti ricca di funzionalità, potente e facile da usare [Aspose.Words per C++](https://products.aspose.com/words/cpp/), puoi esportare RTF in HTML. Successivamente, utilizzando [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), puoi convertire HTML in ODS. Entrambe le API rientrano nel pacchetto [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
+Puoi includere facilmente la funzione di conversione da RTF a ODS nelle tue applicazioni C++. Utilizzando l'API di conversione e manipolazione dei rtfumenti ricca di funzionalità, potente e facile da usare [Aspose.Words for C++](https://products.aspose.com/words/cpp/), puoi esportare RTF in HTML. Successivamente, utilizzando [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), puoi convertire HTML in ODS. Entrambe le API rientrano nel pacchetto [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -21,7 +21,7 @@ Puoi includere facilmente la funzione di conversione da RTF a ODS nelle tue appl
 1. Aprire il file RTF utilizzando [Rtfument](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument) riferimento alla classe
 2. Converti RTF in HTML utilizzando la funzione membro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument#save_string_saveformat)
 3. Caricare il rtfumento HTML utilizzando il riferimento alla classe [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
-4. Salvare il rtfumento in formato ODS utilizzando la funzione membro [Salva](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
+4. Salvare il rtfumento in formato ODS utilizzando la funzione membro [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
@@ -46,7 +46,7 @@ In alternativa, scarica il programma di installazione MSI offline o le DLL in un
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Salva file ODS in streaming tramite C++" %}}
-Dopo aver convertito RTF in ODS, [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) consente di salvare il rtfumento per lo streaming. Per salvare i file in un flusso, creare un oggetto MemoryStream o FileStream e salvare il file in tale oggetto flusso chiamando [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) metodo [Salva](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) dell'oggetto. Specificare il formato file desiderato utilizzando l'enumerazione [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) quando si chiama [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349).
+Dopo aver convertito RTF in ODS, [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) consente di salvare il rtfumento per lo streaming. Per salvare i file in un flusso, creare un oggetto MemoryStream o FileStream e salvare il file in tale oggetto flusso chiamando [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) metodo [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) dell'oggetto. Specificare il formato file desiderato utilizzando l'enumerazione [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) quando si chiama [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349).
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "save-excel-to-stream.cpp" >}}

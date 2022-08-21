@@ -13,15 +13,15 @@ otherformats: WORDML DOT XAMLFLOW MHTML RTF FLATOPC PS OTT DOTX DOCM DOTM ODT
 {{< blocks/products/pf/feature-page-header h1="C++ API pro export EPUB do MARKDOWN" h2="Vykreslování EPUB na MARKDOWN v aplikacích C++ bez nutnosti jakékoli aplikace třetí strany" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Knihovny automatizace formátu souborů [Aspose.Total pro C++](https://products.aspose.com/total/cpp/) umožňují vývojářům C++ převést EPUB na MARKDOWN ve dvou jednoduchých krocích. Nejprve můžete použít [Aspose.PDF pro C++](https://products.aspose.com/pdf/cpp/) API pro převod formátu souboru EPUB na DOC. Za druhé, pomocí pokročilého rozhraní API pro zpracování textových dokumentů [Aspose.Words for C++](https://products.aspose.com/words/cpp/) můžete exportovat DOC do MARKDOWN. 
+Knihovny automatizace formátu souborů [Aspose.Total for C++](https://products.aspose.com/total/cpp/) umožňují vývojářům C++ převést EPUB na MARKDOWN ve dvou jednoduchých krocích. Nejprve můžete použít [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) API pro převod formátu souboru EPUB na DOC. Za druhé, pomocí pokročilého rozhraní API pro zpracování textových dokumentů [Aspose.Words for C++](https://products.aspose.com/words/cpp/) můžete exportovat DOC do MARKDOWN. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API pro vykreslení EPUB do MARKDOWN" %}}
 1. Otevřete soubor EPUB pomocí odkazu třídy [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)
-2. Převeďte EPUB na DOC pomocí členské funkce [Uložit](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#adb8061c585440fde49c1263e68837f01)
+2. Převeďte EPUB na DOC pomocí členské funkce [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#adb8061c585440fde49c1263e68837f01)
 3. Načtěte soubor DOC pomocí odkazu na třídu [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) rozhraní Aspose.Words API
-4. Uložte dokument do formátu MARKDOWN pomocí členské funkce [Uložit](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stream_saveformat).
+4. Uložte dokument do formátu MARKDOWN pomocí členské funkce [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stream_saveformat).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
@@ -46,7 +46,7 @@ wordDoc->Save(u"output.Markdown");
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Změna hesla dokumentu EPUB pomocí C++" %}}
-V procesu vykreslování EPUB do MARKDOWN můžete otevřít heslem chráněný EPUB a také změnit jeho heslo. Chcete-li změnit heslo souboru EPUB, musíte znát heslo vlastníka tohoto dokumentu. Dokument PDF chráněný heslem můžete načíst pomocí [Aspose.PDF pro C++](https://products.aspose.com/pdf/cpp/) zadáním hesla vlastníka a pomocí metody ChangePasswords heslo změnit.
+V procesu vykreslování EPUB do MARKDOWN můžete otevřít heslem chráněný EPUB a také změnit jeho heslo. Chcete-li změnit heslo souboru EPUB, musíte znát heslo vlastníka tohoto dokumentu. Dokument PDF chráněný heslem můžete načíst pomocí [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) zadáním hesla vlastníka a pomocí metody ChangePasswords heslo změnit.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp

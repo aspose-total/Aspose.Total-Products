@@ -13,7 +13,7 @@ otherformats: PCL EMF BMP GIF MD TIFF PS DOTM OTT RTF WORDML JPEG TEXT EPUB DOCX
 {{< blocks/products/pf/feature-page-header h1="Chuyển đổi OFT thành PNG trong Ứng dụng Andorid" h2="Sử dụng các ứng dụng Andorid để xuất OFT sang PNG bằng cách sử dụng Andorid thông qua Java API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Ứng dụng Andorid dễ sử dụng cho người dùng cuối hàng ngày. Ngày qua, số lượng người dùng điện thoại Andorid ngày càng tăng. Sử dụng thư viện Tự động hóa Định dạng Tệp [Aspose.Total cho Android qua Java](https://products.aspose.com/total/android-java/) mạnh mẽ, bạn có thể phát triển các ứng dụng chuyển đổi và thao tác Oft. Bạn có thể chuyển đổi OFT thành PNG bằng sự kết hợp của [Aspose.Oft dành cho Android Java](https://products.aspose.com/oft/android-java/) & [Aspose.Words dành cho Andorid Java](https://products.aspose.com/words/android-java/). Sử dụng API đầu tiên, bạn có thể chuyển đổi định dạng tệp OFT sang HTML và bằng cách sử dụng API thứ hai, bạn có thể hiển thị HTML dưới dạng PNG. 
+Ứng dụng Andorid dễ sử dụng cho người dùng cuối hàng ngày. Ngày qua, số lượng người dùng điện thoại Andorid ngày càng tăng. Sử dụng thư viện Tự động hóa Định dạng Tệp [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) mạnh mẽ, bạn có thể phát triển các ứng dụng chuyển đổi và thao tác Oft. Bạn có thể chuyển đổi OFT thành PNG bằng sự kết hợp của [Aspose.Oft dành cho Android Java](https://products.aspose.com/oft/android-java/) & [Aspose.Words dành cho Andorid Java](https://products.aspose.com/words/android-java/). Sử dụng API đầu tiên, bạn có thể chuyển đổi định dạng tệp OFT sang HTML và bằng cách sử dụng API thứ hai, bạn có thể hiển thị HTML dưới dạng PNG. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,9 +25,9 @@ otherformats: PCL EMF BMP GIF MD TIFF PS DOTM OTT RTF WORDML JPEG TEXT EPUB DOCX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
-Bạn có thể dễ dàng sử dụng Aspose.Total cho Android qua Java trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và cài đặt [Aspose.Oft dành cho Android qua Java](https://docs.aspose.com/oft/androidjava/installation/) và [Aspose.Words dành cho Andorid qua Java](https://docs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) trong các ứng dụng của bạn.
+Bạn có thể dễ dàng sử dụng Aspose.Total for Android via Java trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và cài đặt [Aspose.Oft dành cho Android qua Java](https://docs.aspose.com/oft/androidjava/installation/) và [Aspose.Words dành cho Andorid qua Java](https://docs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) trong các ứng dụng của bạn.
 
-Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://downloads.aspose.com/total/androidjava).
+Ngoài ra, bạn có thể tải tệp ZIP từ [download](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 ```cs

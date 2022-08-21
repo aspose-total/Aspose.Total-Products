@@ -13,19 +13,19 @@ otherformats: ODS XLSB DIF XLT XLSX XLAM SXC FODS XLTM XLTX TSV XLS XLSM CSV
 {{< blocks/products/pf/feature-page-header h1="Converti MOBI in EXCEL nelle applicazioni Android" h2="Esporta MOBI in EXCEL in Android tramite Java senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Utilizzando [Aspose.Total per Android tramite Java](https://products.aspose.com/total/android-java/) puoi integrare la funzione di conversione da MOBI a EXCEL all'interno delle tue applicazioni Android. In primo luogo, puoi convertire MOBI in HTML utilizzando l'API di conversione e manipolazione dei mobiumenti ricca di funzionalità [Aspose.Words per Android tramite Java](https://products.aspose.com/words/android-java/). Successivamente, utilizzando [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), puoi convertire HTML in EXCEL. 
+Utilizzando [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) puoi integrare la funzione di conversione da MOBI a EXCEL all'interno delle tue applicazioni Android. In primo luogo, puoi convertire MOBI in HTML utilizzando l'API di conversione e manipolazione dei mobiumenti ricca di funzionalità [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Successivamente, utilizzando [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), puoi convertire HTML in EXCEL. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API Android per convertire MOBI in EXCEL" %}}
 1. Aprire il file MOBI utilizzando la classe [Mobiument](https://reference.aspose.com/words/java/com.aspose.words/Mobiument)
-2. Converti MOBI in HTML utilizzando [Salva](https://reference.aspose.com/words/java/com.aspose.words/Mobiument#save(java.lang.String,com.aspose.words.SaveOptions) ) metodo
+2. Converti MOBI in HTML utilizzando [Save](https://reference.aspose.com/words/java/com.aspose.words/Mobiument#save(java.lang.String,com.aspose.words.SaveOptions) ) metodo
 3. Carica il mobiumento HTML utilizzando la classe [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Salvare il mobiumento in formato EXCEL utilizzando [Salva](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)).
+4. Salvare il mobiumento in formato EXCEL utilizzando [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
-Puoi facilmente utilizzare Aspose.Total per Android tramite Java direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e install [Aspose.Cells per Android tramite Java](https://mobis.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via- java-from-maven-repository) e [Aspose.Words per Android tramite Java](https://mobis.aspose.com/words/java/install-aspose-words-for-android-via-java/#install- asposewords-for-android-via-java-from-maven-repository) nelle tue applicazioni.
+Puoi facilmente utilizzare Aspose.Total for Android via Java direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e install [Aspose.Cells for Android via Java](https://mobis.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via- java-from-maven-repository) e [Aspose.Words for Android via Java](https://mobis.aspose.com/words/java/install-aspose-words-for-android-via-java/#install- asposewords-for-android-via-java-from-maven-repository) nelle tue applicazioni.
 
 In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -38,7 +38,7 @@ In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspos
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Rimuovere le informazioni inutilizzate da un mobiumento MOBI in Android tramite Java" %}}
-Prima di convertire MOBI in EXCEL, puoi rimuovere le informazioni non utilizzate dal mobiumento MOBI tramite [Aspose.Words per Android tramite Java](https://products.aspose.com/words/android-java/). A volte potrebbe essere necessario rimuovere le informazioni non utilizzate o duplicate per ridurre le dimensioni del mobiumento di output e il tempo di elaborazione. La classe [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) consente di specificare le opzioni per la pulizia dei mobiumenti. Per rimuovere dal mobiumento stili duplicati o semplicemente stili o elenchi inutilizzati, puoi utilizzare il metodo [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Mobiument#cleanup()). È possibile utilizzare [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) e [UnusedBuiltinStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedBuiltinStyles) per rilevare e rimuovere gli stili contrassegnati come "non utilizzati".
+Prima di convertire MOBI in EXCEL, puoi rimuovere le informazioni non utilizzate dal mobiumento MOBI tramite [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). A volte potrebbe essere necessario rimuovere le informazioni non utilizzate o duplicate per ridurre le dimensioni del mobiumento di output e il tempo di elaborazione. La classe [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) consente di specificare le opzioni per la pulizia dei mobiumenti. Per rimuovere dal mobiumento stili duplicati o semplicemente stili o elenchi inutilizzati, puoi utilizzare il metodo [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Mobiument#cleanup()). È possibile utilizzare [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) e [UnusedBuiltinStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedBuiltinStyles) per rilevare e rimuovere gli stili contrassegnati come "non utilizzati".
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-mobiument.java" >}}
@@ -46,7 +46,7 @@ Prima di convertire MOBI in EXCEL, puoi rimuovere le informazioni non utilizzate
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Salva file EXCEL in streaming in Android tramite Java" %}}
-Dopo aver convertito MOBI in EXCEL, [Aspose.Cells per Android tramite Java](https://products.aspose.com/cells/android-java/) consente di salvare il mobiumento per lo streaming. Se è necessario salvare i file in uno Stream, è necessario creare un oggetto FileOutputStream e quindi [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) il file in quell'oggetto Stream chiamando il metodo di salvataggio di [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) oggetto.
+Dopo aver convertito MOBI in EXCEL, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) consente di salvare il mobiumento per lo streaming. Se è necessario salvare i file in uno Stream, è necessario creare un oggetto FileOutputStream e quindi [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) il file in quell'oggetto Stream chiamando il metodo di salvataggio di [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) oggetto.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}

@@ -13,12 +13,12 @@ otherformats: XLT XLTM FODS SXC XLAM XLS EXCEL ODS XLSM DIF XLSB XLTX TSV CSV
 {{< blocks/products/pf/feature-page-header h1="Convierta DOCM a formato JSON a través de C++" h2="Exporte DOCM a JSON a través de C++ sin usar Microsoft<sup>&reg;</sup> Word o Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Al usar [Aspose.Total para C++](https://products.aspose.com/total/cpp/) puede convertir el formato DOCM a JSON dentro de sus aplicaciones C++. En primer lugar, al usar [Aspose.Words for C++](https://products.aspose.com/words/cpp/), puede exportar DOCM a HTML. Después de eso, usando [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), puede convertir HTML a formato JSON. 
+Al usar [Aspose.Total for C++](https://products.aspose.com/total/cpp/) puede convertir el formato DOCM a JSON dentro de sus aplicaciones C++. En primer lugar, al usar [Aspose.Words for C++](https://products.aspose.com/words/cpp/), puede exportar DOCM a HTML. Después de eso, usando [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), puede convertir HTML a formato JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convierta DOCM a formato JSON a través de C++" %}}
-1. Abra el archivo DOCM usando la referencia de clase [Docmumento](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
+1. Abra el archivo DOCM usando la referencia de clase [Documento](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
 2. Convierta DOCM a HTML usando la función miembro [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string_saveformat)
 3. Cargue el docmumento HTML utilizando la referencia de clase [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
 4. Guarde el docmumento en formato JSON usando la función miembro [Guardar](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)

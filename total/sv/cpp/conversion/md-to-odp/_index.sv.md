@@ -13,7 +13,7 @@ otherformats: POTM XAML PPSX POT PPT OTP POTX PPSM POWERPOINT PPS SWF PPTM
 {{< blocks/products/pf/feature-page-header h1="Rendera MD till ODP inom C++-applikationer" h2="Konvertera MD till ODP i dina C++-applikationer utan att använda Microsoft<sup>&reg;</sup> PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Är du en C++-utvecklare som vill lägga till för att integrera MD till ODP-konverteringsfunktionen i dina C++-applikationer? Du kan göra det i två enkla steg. Du kan exportera MD till PPTX genom att använda [Aspose.PDF för C++](https://products.aspose.com/pdf/cpp/). För det andra, genom att använda [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), kan du konvertera PPTX till ODP. Båda API:erna kommer under paketet [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
+Är du en C++-utvecklare som vill lägga till för att integrera MD till ODP-konverteringsfunktionen i dina C++-applikationer? Du kan göra det i två enkla steg. Du kan exportera MD till PPTX genom att använda [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/). För det andra, genom att använda [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), kan du konvertera PPTX till ODP. Båda API:erna kommer under paketet [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -46,7 +46,7 @@ prs->Save(u"output.odp", Aspose::Slides::Export::SaveFormat::Odp);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ändra lösenord för MD-dokument via C++" %}}
-I processen att rendera MD till ODP kan du öppna en lösenordsskyddad MD och även ändra dess lösenord. För att ändra lösenordet för en MD-fil måste du känna till ägarlösenordet för det dokumentet. Du kan ladda lösenordsskyddade PDF-dokument med [Aspose.PDF för C++](https://products.aspose.com/pdf/cpp/) genom att ange dess ägarlösenord och använda ChangePasswords-metoden för att ändra lösenordet.
+I processen att rendera MD till ODP kan du öppna en lösenordsskyddad MD och även ändra dess lösenord. För att ändra lösenordet för en MD-fil måste du känna till ägarlösenordet för det dokumentet. Du kan ladda lösenordsskyddade PDF-dokument med [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) genom att ange dess ägarlösenord och använda ChangePasswords-metoden för att ändra lösenordet.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp

@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOCX PPTX WORD DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลง FODS เป็น POWERPOINT ผ่าน C++" h2="ส่งออก Excel&reg; FODS เป็น POWERPOINT ภายในแอปพลิเคชัน C++ ที่ทำงานได้เต็มรูปแบบ" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง FODS เป็น POWERPOINT ผ่าน C++" h2="ส่งออก Excel<sup>&reg;</sup> FODS เป็น POWERPOINT ภายในแอปพลิเคชัน C++ ที่ทำงานได้เต็มรูปแบบ" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="การแปลง FODS เป็น POWERPOINT บน C++" %}}

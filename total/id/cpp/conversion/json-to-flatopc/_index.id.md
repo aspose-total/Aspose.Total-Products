@@ -46,7 +46,7 @@ Saat menguraikan JSON ke FLATOPC, Anda juga dapat mengatur ukuran baris dan kolo
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Konversi Format JSON ke FLATOPC dengan Tanda Air di C++" %}}
-Menggunakan API, Anda juga dapat mengurai JSON ke FLATOPC dengan tanda air. Untuk menambahkan tanda air ke dokumen FLATOPC Anda, pertama-tama Anda dapat mengonversi JSON ke PDF dan menambahkan tanda air ke dalamnya. Untuk menambahkan tanda air, muat file PDF yang baru dibuat menggunakan kelas [Dokumen](https://reference.aspose.com/words/cpp/class/aspose.words.document), atur properti yang berbeda untuk tanda air teks,
+Menggunakan API, Anda juga dapat mengurai JSON ke FLATOPC dengan tanda air. Untuk menambahkan tanda air ke dokumen FLATOPC Anda, pertama-tama Anda dapat mengonversi JSON ke PDF dan menambahkan tanda air ke dalamnya. Untuk menambahkan tanda air, muat file PDF yang baru dibuat menggunakan kelas [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document), atur properti yang berbeda untuk tanda air teks,
 panggil metode SetText dan berikan teks watermark & objek TextWatermarkOptions. Setelah menambahkan tanda air, Anda dapat menyimpan dokumen ke FLATOPC.
 {{% blocks/products/pf/feature-page-code %}}
 

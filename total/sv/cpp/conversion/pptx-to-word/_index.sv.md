@@ -13,7 +13,7 @@ otherformats: OTT DOT DOTX DOTM DOC FLATOPC RTF DOCX ODT WORDML DOCM TEXT
 {{< blocks/products/pf/feature-page-header h1="C++ API för att rendera PPTX till WORD" h2="Exportera PPTX till WORD i C++-applikationer utan några Microsoft PowerPoint- eller Word-beroenden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total för C++](https://products.aspose.com/total/cpp/) är ett komplett paket med C++ filformatsautomatiseringsbibliotek. Genom att använda de rika funktionerna i API:erna som finns i paketet kan vi enkelt konvertera PowerPoint PPTX till Word WORD. För att utföra konverteringen kan du först använda [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API för att konvertera PPTX till HTML. Därefter kan du konvertera HTML till WORD genom att använda funktionsrika Word Processing API [Aspose.Words for C++](https://products.aspose.com/words/cpp/). 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) är ett komplett paket med C++ filformatsautomatiseringsbibliotek. Genom att använda de rika funktionerna i API:erna som finns i paketet kan vi enkelt konvertera PowerPoint PPTX till Word WORD. För att utföra konverteringen kan du först använda [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API för att konvertera PPTX till HTML. Därefter kan du konvertera HTML till WORD genom att använda funktionsrika Word Processing API [Aspose.Words for C++](https://products.aspose.com/words/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

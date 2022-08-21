@@ -13,12 +13,12 @@ otherformats: PPTM PPS PPSM POTM PPSX PPTX POWERPOINT PPT ODP POTX
 {{< blocks/products/pf/feature-page-header h1="Convierta DOC a POT en aplicaciones de Android" h2="Conversión de DOC a POT en sus aplicaciones de Android sin instalar Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-¿Es usted un desarrollador de Android que busca agregar una función de conversión de documentos a su aplicación? [Aspose.Total para Android a través de Java](https://products.aspose.com/total/android-java/) Las bibliotecas de automatización de formato de archivo pueden ayudarlo a automatizar el proceso de conversión de documentos en sus aplicaciones de Android. Para convertir un archivo DOC a POT, primero puede usar la API de manipulación de documentos [Aspose.Words para Android Java](https://products.aspose.com/words/android-java/) para convertir el formato de archivo DOC a HTML. Después de eso, al usar la API de PowerPoint [Aspose.Slides para Android Java](https://products.aspose.com/slides/android-java/), puede crear una nueva presentación, escribir contenido HTML en ella y guardarla como PAO. 
+¿Es usted un desarrollador de Android que busca agregar una función de conversión de documentos a su aplicación? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Las bibliotecas de automatización de formato de archivo pueden ayudarlo a automatizar el proceso de conversión de documentos en sus aplicaciones de Android. Para convertir un archivo DOC a POT, primero puede usar la API de manipulación de documentos [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) para convertir el formato de archivo DOC a HTML. Después de eso, al usar la API de PowerPoint [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/), puede crear una nueva presentación, escribir contenido HTML en ella y guardarla como PAO. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir DOC a POT en Android" %}}
-1. Abra el archivo DOC usando la clase [Documento](https://reference.aspose.com/words/java/com.aspose.words/Document)
+1. Abra el archivo DOC usando la clase [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Convierta el archivo DOC a HTML usando [guardar](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) método
 3. Inicialice un nuevo objeto [Presentación](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraiga el contenido del archivo HTML usando BufferedReader y escriba el contenido en su archivo de presentación
@@ -26,7 +26,7 @@ otherformats: PPTM PPS PPSM POTM PPSX PPTX POWERPOINT PPT ODP POTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
-Para la conversión de archivos DOC a POT, puede usar fácilmente Aspose.Total para Android a través de Java directamente desde [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e instale bibliotecas en su aplicación.
+Para la conversión de archivos DOC a POT, puede usar fácilmente Aspose.Total for Android via Java directamente desde [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e instale bibliotecas en su aplicación.
 
 Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

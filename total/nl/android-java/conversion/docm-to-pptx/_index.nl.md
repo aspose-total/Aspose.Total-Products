@@ -13,20 +13,20 @@ otherformats: PPT PPS POWERPOINT POTM POTX PPTM PPSX PPSM POT ODP CSV DIF FODS O
 {{< blocks/products/pf/feature-page-header h1="DOCM naar PPTX converteren in Android-apps" h2="DOCM naar PPTX-conversie in uw Android-applicaties zonder Microsoft Word<sup>&reg;</sup> of PowerPoint te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Bent u een Android-ontwikkelaar en wilt u een functie voor docmumentconversie aan uw toepassing toevoegen? [Aspose.Total voor Android via Java](https://products.aspose.com/total/android-java/) File Format Automation-bibliotheken kunnen u helpen het docmumentconversieproces in uw Android-applicaties te automatiseren. Om het DOCM-bestand naar PPTX te converteren, kunt u eerst de docmumentmanipulatie-API [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) gebruiken om het DOCM-bestandsformaat naar HTML te converteren. Daarna kunt u met behulp van PowerPoint API [Aspose.Slides voor Android Java](https://products.aspose.com/slides/android-java/), een nieuwe presentatie maken, HTML-inhoud erin schrijven en deze opslaan als PPTX. 
+Bent u een Android-ontwikkelaar en wilt u een functie voor docmumentconversie aan uw toepassing toevoegen? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) File Format Automation-bibliotheken kunnen u helpen het docmumentconversieproces in uw Android-applicaties te automatiseren. Om het DOCM-bestand naar PPTX te converteren, kunt u eerst de docmumentmanipulatie-API [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) gebruiken om het DOCM-bestandsformaat naar HTML te converteren. Daarna kunt u met behulp van PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), een nieuwe presentatie maken, HTML-inhoud erin schrijven en deze opslaan als PPTX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hoe DOCM naar PPTX in Android te converteren" %}}
-1. Open het DOCM-bestand met de klasse [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument)
-2. Converteer het DOCM-bestand naar HTML met behulp van [save](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions))) methode
+1. Open het DOCM-bestand met de klasse [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Converteer het DOCM-bestand naar HTML met behulp van [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))) methode
 3. Initialiseer een nieuw [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object
 5. Extraheer inhoud uit HTML-bestand met BufferedReader en schrijf de inhoud in uw presentatiebestand
 6. Sla het docmument op in PPTX met de methode [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
-Voor DOCM-naar-PPTX-bestandsconversie kunt u eenvoudig Aspose.Total voor Android via Java rechtstreeks vanuit [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) en installeer bibliotheken in uw app.
+Voor DOCM-naar-PPTX-bestandsconversie kunt u eenvoudig Aspose.Total for Android via Java rechtstreeks vanuit [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) en installeer bibliotheken in uw app.
 
 U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

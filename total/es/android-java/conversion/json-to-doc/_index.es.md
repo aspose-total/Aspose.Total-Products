@@ -13,19 +13,19 @@ otherformats: DOT RTF EPUB WORD FLATOPC DOCM ODT MOBI PS OTT DOTX WORDML CHM PCL
 {{< blocks/products/pf/feature-page-header h1="Convierta el formato JSON a DOC en aplicaciones de Android" h2="Analice JSON a DOC dentro de las aplicaciones de Android sin usar Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Puede convertir JSON a DOC en sus aplicaciones de Android en un proceso de dos pasos. En primer lugar, mediante el uso de la potente API de procesamiento de hojas de cálculo [Aspose.Cells para Android a través de Java](https://products.aspose.com/cells/android-java/) puede analizar JSON a PDF. En el segundo paso, puede convertir PDF a DOC mediante la API de procesamiento de textos [Aspose.Words para Android a través de Java](https://products.aspose.com/words/android-java/). Ambas API pertenecen a la familia de productos [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
+Puede convertir JSON a DOC en sus aplicaciones de Android en un proceso de dos pasos. En primer lugar, mediante el uso de la potente API de procesamiento de hojas de cálculo [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) puede analizar JSON a PDF. En el segundo paso, puede convertir PDF a DOC mediante la API de procesamiento de textos [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Ambas API pertenecen a la familia de productos [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convierta el formato JSON a DOC en Android a través de Java" %}}
 1. Cree un nuevo objeto [Libro de trabajo](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) y lea los datos JSON válidos del archivo
 2. Importe el archivo JSON a la hoja de trabajo usando la clase [JsonUtility](https://reference.aspose.com/cells/java/com.aspose.cells/JsonUtility) y [Guardar](https://reference.aspose.com/cell/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) como PDF
-3. Cargue el documento PDF utilizando la clase [Documento](https://reference.aspose.com/words/java/com.aspose.words/Document)
+3. Cargue el documento PDF utilizando la clase [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 4. Guarde el documento en formato DOC usando [Guardar](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) )) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
-Puede usar fácilmente Aspose.Total para Android a través de Java directamente desde [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) y instalar bibliotecas en su aplicación.
+Puede usar fácilmente Aspose.Total for Android via Java directamente desde [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) y instalar bibliotecas en su aplicación.
 
 Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

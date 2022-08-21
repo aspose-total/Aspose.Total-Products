@@ -13,7 +13,7 @@ otherformats: XLSB FODS EXCEL TXT XLT DIF ODS CSV XLTM TSV XLTX XLSM
 {{< blocks/products/pf/feature-page-header h1="Rendre PS en SXC dans Android via Java" h2="Transformez PS en SXC dans les applications Android sans nécessiter Microsoft<sup>&reg;</sup> Excel ou Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Vous pouvez intégrer la fonction de conversion PS vers SXC dans vos applications Android en deux étapes. Tout d'abord, en utilisant [Aspose.PDF pour Android via Java](https://products.aspose.com/pdf/android-java/), vous pouvez convertir PS en XLSX. Deuxièmement, vous pouvez convertir XLSX en SXC en utilisant l'API puissante de traitement de tableur [Aspose.Cells pour Android via Java](https://products.aspose.com/cells/android-java/). Les deux API appartiennent à la famille de produits [Aspose.Total pour Android via Java](https://products.aspose.com/total/android-java/). 
+Vous pouvez intégrer la fonction de conversion PS vers SXC dans vos applications Android en deux étapes. Tout d'abord, en utilisant [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/), vous pouvez convertir PS en XLSX. Deuxièmement, vous pouvez convertir XLSX en SXC en utilisant l'API puissante de traitement de tableur [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Les deux API appartiennent à la famille de produits [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ Vous pouvez intégrer la fonction de conversion PS vers SXC dans vos application
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
-Vous pouvez facilement utiliser Aspose.Total pour Android via Java directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et installez [Aspose.PDF pour Android via Java](https://docs.aspose.com/pdf/androidjava/installation/) et [Aspose.Cells pour Android via Java](https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/) dans vos applications.
+Vous pouvez facilement utiliser Aspose.Total for Android via Java directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et installez [Aspose.PDF for Android via Java](https://docs.aspose.com/pdf/androidjava/installation/) et [Aspose.Cells for Android via Java](https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/) dans vos applications.
 
 Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -38,7 +38,7 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Obtenir les métadonnées XMP du fichier PS dans Android via Java" %}}
-[Aspose.PDF pour Android via Java](https://products.aspose.com/pdf/android-java/) vous permet d'accéder aux métadonnées XMP d'un fichier PS. Pour obtenir les métadonnées, créez un objet [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) et ouvrez le fichier PS d'entrée et utilisez le [getMetadata()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) propriété pour obtenir les métadonnées.
+[Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) vous permet d'accéder aux métadonnées XMP d'un fichier PS. Pour obtenir les métadonnées, créez un objet [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) et ouvrez le fichier PS d'entrée et utilisez le [getMetadata()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) propriété pour obtenir les métadonnées.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
@@ -46,7 +46,7 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://d
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Protéger le document SXC dans Android via Java" %}}
-[Aspose.Cells pour Android via Java](https://products.aspose.com/cells/android-java/) prend en charge la protection de votre fichier SXC en fonction de vos besoins. Afin de protéger votre document, vous pouvez utiliser la méthode [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) de [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
+[Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) prend en charge la protection de votre fichier SXC en fonction de vos besoins. Afin de protéger votre document, vous pouvez utiliser la méthode [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) de [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-sxc.java" >}}

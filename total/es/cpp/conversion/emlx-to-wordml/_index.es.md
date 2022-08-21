@@ -20,7 +20,7 @@ otherformats: TIFF BMP DOTX PNG MD JPEG PS ODT XPS TEXT DOC PCL DOCX OTT EMF PDF
 {{% blocks/products/pf/agp/feature-section-col title="API de C++ para convertir EMLX a WORDML" %}}
 1. Abra el archivo EMLX usando la referencia de clase [MailMessage](https://reference.aspose.com/emlx/cpp/class/aspose.emlx.mail_message)
 2. Convierta EMLX a HTML usando la función miembro [Guardar](https://reference.aspose.com/emlx/cpp/class/aspose.emlx.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
-3. Cargue HTML usando la clase [Documento](https://reference.aspose.com/words/cpp/class/aspose.words.document)
+3. Cargue HTML usando la clase [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
 4. Guarde el documento en formato WORDML usando el método [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) y configure Wordml como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

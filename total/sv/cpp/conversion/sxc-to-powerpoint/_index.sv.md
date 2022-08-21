@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOCX WORD PPTX DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera SXC till POWERPOINT via C++" h2="Exportera Excel&reg; SXC till POWERPOINT inom fullfunktionella C++-applikationer" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera SXC till POWERPOINT via C++" h2="Exportera Excel<sup>&reg;</sup> SXC till POWERPOINT inom fullfunktionella C++-applikationer" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="SXC till POWERPOINT-konvertering på C++" %}}

@@ -13,7 +13,7 @@ otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 {{< blocks/products/pf/feature-page-header h1="Convierta WORD a formato JSON a través de C++" h2="Exporte WORD a JSON a través de C++ sin usar Microsoft<sup>&reg;</sup> Word o Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Al usar [Aspose.Total para C++](https://products.aspose.com/total/cpp/) puede convertir el formato WORD a JSON dentro de sus aplicaciones C++. En primer lugar, al usar [Aspose.Words for C++](https://products.aspose.com/words/cpp/), puede exportar WORD a HTML. Después de eso, usando [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), puede convertir HTML a formato JSON. 
+Al usar [Aspose.Total for C++](https://products.aspose.com/total/cpp/) puede convertir el formato WORD a JSON dentro de sus aplicaciones C++. En primer lugar, al usar [Aspose.Words for C++](https://products.aspose.com/words/cpp/), puede exportar WORD a HTML. Después de eso, usando [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), puede convertir HTML a formato JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

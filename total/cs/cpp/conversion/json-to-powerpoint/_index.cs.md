@@ -13,15 +13,15 @@ otherformats: OTP PPSM PPT POTM PPTM PPS POT ODP PPSX POTX
 {{< blocks/products/pf/feature-page-header h1="Převeďte formát JSON na POWERPOINT přes C++" h2="C++ API pro analýzu JSON na POWERPOINT bez použití Microsoft<sup>&reg;</sup> PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-JSON můžete převést na POWERPOINT v jakékoli aplikaci C++ ve dvou jednoduchých krocích. Za prvé, pomocí [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) můžete analyzovat JSON na PPTX. Poté můžete pomocí [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) převést PPTX na POWERPOINT. Obě rozhraní API jsou součástí balíčku [Aspose.Total pro C++](https://products.aspose.com/total/cpp/). 
+JSON můžete převést na POWERPOINT v jakékoli aplikaci C++ ve dvou jednoduchých krocích. Za prvé, pomocí [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) můžete analyzovat JSON na PPTX. Poté můžete pomocí [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) převést PPTX na POWERPOINT. Obě rozhraní API jsou součástí balíčku [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Převeďte formát JSON na POWERPOINT přes C++" %}}
 1. Vytvořte nový objekt [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) a načtěte platná data JSON ze souboru
-2. Uložte JSON jako PPTX pomocí metody [Uložit](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
+2. Uložte JSON jako PPTX pomocí metody [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
 3. Načtěte dokument PPTX pomocí třídy [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
-4. Uložte dokument do formátu POWERPOINT pomocí metody [Uložit](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e)
+4. Uložte dokument do formátu POWERPOINT pomocí metody [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na konverzi" %}}

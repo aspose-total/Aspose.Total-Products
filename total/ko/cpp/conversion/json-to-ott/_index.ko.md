@@ -21,7 +21,7 @@ otherformats: ODT DOCM EPUB PS PCL DOTX MOBI CHM RTF WORD WORDML DOT FLATOPC DOC
 1. 새 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 개체를 만들고 파일에서 유효한 JSON 데이터를 읽습니다.
 2. [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) 메서드를 사용하여 JSON을 PDF로 저장합니다.
 3. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) 클래스를 사용하여 PDF 문서 로드
-4. [저장](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) 메서드를 사용하여 문서를 OTT 형식으로 저장합니다.
+4. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) 메서드를 사용하여 문서를 OTT 형식으로 저장합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}

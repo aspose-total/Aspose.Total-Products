@@ -19,9 +19,9 @@ otherformats: TEXT RTF DOCX DOT ODT DOTX DOTM FLATOPC OTT WORDML WORD DOC
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API C++ per convertire POWERPOINT in DOCM" %}}
 1. Caricare il file POWERPOINT utilizzando [Presentazione](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) riferimento alla classe
-2. Eseguire il rendering di POWERPOINT in HTML utilizzando la funzione membro [Salva](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) e impostare Html come SaveFormat
-3. Caricare il file HTML convertito utilizzando il riferimento alla classe [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
-4. Salvare il docmumento in formato DOCM utilizzando [Salva](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string) funzione membro
+2. Eseguire il rendering di POWERPOINT in HTML utilizzando la funzione membro [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) e impostare Html come SaveFormat
+3. Caricare il file HTML convertito utilizzando il riferimento alla classe [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
+4. Salvare il docmumento in formato DOCM utilizzando [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string) funzione membro
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
@@ -35,8 +35,8 @@ In alternativa, scarica il programma di installazione MSI offline o le DLL in un
 SharedPtr<Presentation> prs = MakeObject<Presentation>(u"input.pptx");
 // Save presentation in HTML format.
 prs->Save(u"htmlOutput.html", Aspose::Slides::Export::SaveFormat::Html);
-// load HTML with an instance of Docmument
-System::SharedPtr<Docmument> docm = System::MakeObject<Docmument>(u"htmlOutput.html");
+// load HTML with an instance of Document
+System::SharedPtr<Document> docm = System::MakeObject<Document>(u"htmlOutput.html");
 // save docmument in DOCM format
 docm->Save(u"output.docm"); 
 ```

@@ -18,7 +18,7 @@ Puede incluir fácilmente la función de conversión de DOC a XLSB dentro de sus
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API de C++ para convertir DOC a XLSB" %}}
-1. Abra el archivo DOC usando la referencia de clase [Documento](https://reference.aspose.com/words/cpp/class/aspose.words.document)
+1. Abra el archivo DOC usando la referencia de clase [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
 2. Convierta DOC a HTML usando la función miembro [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)
 3. Cargue el documento HTML utilizando la referencia de clase [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
 4. Guarde el documento en formato XLSB usando la función miembro [Guardar](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)

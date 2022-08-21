@@ -19,9 +19,9 @@ otherformats: ODT FLATOPC DOCX DOT DOC OTT DOTM DOTX TEXT WORDML WORD RTF
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="PPTをDOCMに変換するC++API" %}}
 1. [プレゼンテーション](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)クラスリファレンスを使用してPPTファイルをロードします
-2. [保存](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e)メンバー関数を使用してPPTをHTMLにレンダリングし、HtmlをSaveFormatとして設定します
+2. [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e)メンバー関数を使用してPPTをHTMLにレンダリングし、HtmlをSaveFormatとして設定します
 3. [ドキュメント](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)クラスリファレンスを使用して、変換されたHTMLファイルをロードします
-4. [保存](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string)メンバー機能を使用して、ドキュメントをDOCM形式で保存します。
+4. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string)メンバー機能を使用して、ドキュメントをDOCM形式で保存します。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
@@ -35,8 +35,8 @@ otherformats: ODT FLATOPC DOCX DOT DOC OTT DOTM DOTX TEXT WORDML WORD RTF
 SharedPtr<Presentation> prs = MakeObject<Presentation>(u"input.ppt");
 // Save presentation in HTML format.
 prs->Save(u"htmlOutput.html", Aspose::Slides::Export::SaveFormat::Html);
-// load HTML with an instance of Docmument
-System::SharedPtr<Docmument> docm = System::MakeObject<Docmument>(u"htmlOutput.html");
+// load HTML with an instance of Document
+System::SharedPtr<Document> docm = System::MakeObject<Document>(u"htmlOutput.html");
 // save docmument in DOCM format
 docm->Save(u"output.docm"); 
 ```

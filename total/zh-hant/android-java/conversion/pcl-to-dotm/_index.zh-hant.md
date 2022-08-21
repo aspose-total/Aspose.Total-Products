@@ -13,7 +13,7 @@ otherformats: PS RTF DOT MHTML DOCM ODT MARKDOWN XAMLFLOW WORDML OTT FLATOPC DOT
 {{< blocks/products/pf/feature-page-header h1="通過 Java 在 Android 上將 PCL 渲染到 DOTM" h2="在移動應用程序中將 PCL 轉換為 DOTM，無需安裝任何軟件" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-您可以使用 [Aspose.Total for Android Java](https://products.aspose.com/total/android-java/) 包的兩個 API 在您的移動應用程序中集成 PCL 到 DOTM 的轉換功能。首先，您需要使用 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) 將 PCL 文件轉換為 DOC。其次，通過使用文字處理 API [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/)，您可以將 DOC 渲染為 DOTM。 
+您可以使用 [Aspose.Total for Android Java](https://products.aspose.com/total/android-java/) 包的兩個 API 在您的移動應用程序中集成 PCL 到 DOTM 的轉換功能。首先，您需要使用 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) 將 PCL 文件轉換為 DOC。其次，通過使用文字處理 API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)，您可以將 DOC 渲染為 DOTM。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

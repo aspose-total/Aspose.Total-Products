@@ -20,7 +20,7 @@ otherformats: WORD FLATOPC ODT DOTX DOC DOCX WORDML OTT DOT RTF TEXT DOTM
 {{% blocks/products/pf/agp/feature-section-col title="C++ API для преобразования PPSX в DOCM" %}}
 1. Загрузите файл PPSX, используя ссылку на класс [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation).
 2. Преобразуйте PPSX в HTML, используя функцию члена [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) и установите Html как SaveFormat.
-3. Загрузите преобразованный HTML-файл, используя ссылку на класс [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument).
+3. Загрузите преобразованный HTML-файл, используя ссылку на класс [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument).
 4. Сохраните документ в формате DOCM, используя функцию члена [Сохранить](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -35,8 +35,8 @@ otherformats: WORD FLATOPC ODT DOTX DOC DOCX WORDML OTT DOT RTF TEXT DOTM
 SharedPtr<Presentation> prs = MakeObject<Presentation>(u"input.ppsx");
 // Save presentation in HTML format.
 prs->Save(u"htmlOutput.html", Aspose::Slides::Export::SaveFormat::Html);
-// load HTML with an instance of Docmument
-System::SharedPtr<Docmument> docm = System::MakeObject<Docmument>(u"htmlOutput.html");
+// load HTML with an instance of Document
+System::SharedPtr<Document> docm = System::MakeObject<Document>(u"htmlOutput.html");
 // save docmument in DOCM format
 docm->Save(u"output.docm"); 
 ```

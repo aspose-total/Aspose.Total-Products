@@ -19,7 +19,7 @@ otherformats: DOTX SVG WORDML ODT TEXT PDF DOTM RTF XPS DOCM BMP OTT TIFF JPEG D
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API för att konvertera OFT till PCL" %}}
 1. Öppna OFT-filen med [MailMessage](https://reference.aspose.com/oft/cpp/class/aspose.oft.mail_message) klassreferens
-2. Konvertera OFT till HTML genom att använda medlemsfunktionen [Spara](https://reference.aspose.com/oft/cpp/class/aspose.oft.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
+2. Konvertera OFT till HTML genom att använda medlemsfunktionen [Save](https://reference.aspose.com/oft/cpp/class/aspose.oft.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
 3. Ladda HTML genom att använda klassen [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
 4. Spara dokumentet i PCL-format med metoden [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) och ställ in Pcl som SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

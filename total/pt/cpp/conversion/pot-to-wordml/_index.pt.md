@@ -21,7 +21,7 @@ otherformats: FLATOPC WORD DOTM OTT DOCX DOCM ODT DOT TEXT DOC DOTX RTF
 1. Carregue o arquivo POT usando a referência de classe [Apresentação](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 2. Renderize POT para HTML usando a função de membro [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) e defina Html como SaveFormat
 3. Carregue o arquivo HTML convertido usando a referência de classe [Wordmlument](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument)
-4. Salve o wordmlumento no formato WORDML usando a função de membro [Salvar](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument#save_string)
+4. Salve o wordmlumento no formato WORDML usando a função de membro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument#save_string)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}

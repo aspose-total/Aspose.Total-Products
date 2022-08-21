@@ -13,7 +13,7 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 {{< blocks/products/pf/feature-page-header h1="Convierta PPTM a formato JSON a través de C++" h2="Exporte archivos PPTM a formato JSON a través de C++ sin usar Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Al utilizar [Aspose.Total para C++](https://products.aspose.com/total/cpp/), puede convertir archivos PPTM a formato JSON dentro de aplicaciones C++ en dos sencillos pasos. En primer lugar, al usar [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), puede exportar PPTM a HTML. Después de eso, al usar [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) API de programación de hojas de cálculo, puede convertir HTML a JSON. 
+Al utilizar [Aspose.Total for C++](https://products.aspose.com/total/cpp/), puede convertir archivos PPTM a formato JSON dentro de aplicaciones C++ en dos sencillos pasos. En primer lugar, al usar [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), puede exportar PPTM a HTML. Después de eso, al usar [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) API de programación de hojas de cálculo, puede convertir HTML a JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

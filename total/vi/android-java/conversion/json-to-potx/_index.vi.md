@@ -10,24 +10,24 @@ outformat: POTX
 otherformats: PPSX PPTM POWERPOINT POT POTM ODP PPSM OTP PPS PPT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi định dạng JSON thành POTX trong Android" h2="Phân tích cú pháp định dạng JSON thành POTX trong Ứng dụng Android mà không sử dụng Microsoft <sup> <sup>&reg;</sup>; </sup> PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi định dạng JSON thành POTX trong Android" h2="Phân tích cú pháp định dạng JSON thành POTX trong Ứng dụng Android mà không sử dụng Microsoft <sup>&reg;</sup> PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Bạn có thể chuyển đổi định dạng JSON thành POTX trong các ứng dụng Android của mình theo quy trình hai bước. Đầu tiên, bằng cách sử dụng [Aspose.Cells dành cho Android qua Java](https://products.aspose.com/cells/android-java/), bạn có thể phân tích cú pháp JSON thành PPTX. Sau đó, bằng cách sử dụng [Aspose.Slides dành cho Android qua Java](https://products.aspose.com/slides/android-java/), bạn có thể chuyển đổi PPTX sang POTX. Cả hai API đều nằm trong gói [Aspose.Total cho Android qua Java](https://products.aspose.com/total/android-java/). 
+Bạn có thể chuyển đổi định dạng JSON thành POTX trong các ứng dụng Android của mình theo quy trình hai bước. Đầu tiên, bằng cách sử dụng [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), bạn có thể phân tích cú pháp JSON thành PPTX. Sau đó, bằng cách sử dụng [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/), bạn có thể chuyển đổi PPTX sang POTX. Cả hai API đều nằm trong gói [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi định dạng JSON thành POTX trong Android" %}}
 1. Tạo đối tượng [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) mới đối tượng và mở tệp JSON
 2. Lưu JSON dưới dạng PPTX bằng cách sử dụng [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) phương pháp
-3. Tải tài liệu PPTX bằng cách sử dụng lớp [Trình bày](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+3. Tải tài liệu PPTX bằng cách sử dụng lớp [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 4. Lưu tài liệu sang định dạng POTX bằng phương thức [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
-Bạn có thể dễ dàng sử dụng Aspose.Total cho Android qua Java trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và cài đặt thư viện trong ứng dụng của bạn.
+Bạn có thể dễ dàng sử dụng Aspose.Total for Android via Java trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và cài đặt thư viện trong ứng dụng của bạn.
 
-Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://downloads.aspose.com/total/androidjava).
+Ngoài ra, bạn có thể tải tệp ZIP từ [download](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

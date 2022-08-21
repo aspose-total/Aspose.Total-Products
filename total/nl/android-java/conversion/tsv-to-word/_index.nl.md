@@ -13,7 +13,7 @@ otherformats: PPTX POWERPOINT DOCX DOC
 {{< blocks/products/pf/feature-page-header h1="Render TSV naar WORD op Android via Java" h2="Transformeer TSV naar WORD binnen uw Android-applicaties zonder Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total voor Android via Java](https://products.aspose.com/total/android-java/) is een pakket krachtige API's voor bestandsautomatisering. Door twee van zijn API's te gebruiken, kunt u de conversiefunctie van TSV naar WORD in uw Android-applicaties integreren. In de eerste stap kunt u TSV naar PDF exporteren met [Aspose.Cells voor Android via Java](https://products.aspose.com/cells/android-java/). Daarna kunt u met [Aspose.PDF voor Android via Java](https://products.aspose.com/pdf/android-java/) PDF naar WORD converteren. 
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) is een pakket krachtige API's voor bestandsautomatisering. Door twee van zijn API's te gebruiken, kunt u de conversiefunctie van TSV naar WORD in uw Android-applicaties integreren. In de eerste stap kunt u TSV naar PDF exporteren met [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Daarna kunt u met [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) PDF naar WORD converteren. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,7 +25,7 @@ otherformats: PPTX POWERPOINT DOCX DOC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
-U kunt Aspose.Total voor Android eenvoudig via Java rechtstreeks vanuit [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) en installeer [Aspose.PDF voor Android via Java](https://words.aspose.com/pdf/androidjava/installation/) en [Aspose.Cells voor Android via Java](https://words.aspose.com/cells /java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via-java-from-maven-repository) in uw toepassingen.
+U kunt Aspose.Total for Android eenvoudig via Java rechtstreeks vanuit [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) en installeer [Aspose.PDF for Android via Java](https://words.aspose.com/pdf/androidjava/installation/) en [Aspose.Cells for Android via Java](https://words.aspose.com/cells /java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via-java-from-maven-repository) in uw toepassingen.
 
 U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -46,7 +46,7 @@ wordument.save("output.word", com.aspose.pdf.SaveFormat.Word);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Verwijder aangepaste eigenschappen uit TSV-bestand in Android via Java" %}}
-Naast wordumentconversie biedt [Aspose.Cells voor Android via Java](https://products.aspose.com/cells/android-java/) ook tal van andere functies. Vóór het conversieproces kunt u aangepaste eigenschappen van het TSV-wordument verwijderen. Om aangepaste eigenschappen te verwijderen, roept u de methode [WordumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/wordumentpropertycollection#remove(java.lang.String)) aan en geeft u de naam van de wordumenteigenschap die moet worden verwijderd.
+Naast wordumentconversie biedt [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) ook tal van andere functies. Vóór het conversieproces kunt u aangepaste eigenschappen van het TSV-wordument verwijderen. Om aangepaste eigenschappen te verwijderen, roept u de methode [WordumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/wordumentpropertycollection#remove(java.lang.String)) aan en geeft u de naam van de wordumenteigenschap die moet worden verwijderd.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java

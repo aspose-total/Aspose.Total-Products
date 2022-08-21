@@ -10,24 +10,24 @@ outformat: CSV
 otherformats: ODS MD XLAM XLT XLSB XLSM TSV XLTX TXT EXCEL XLTM SXC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Kết xuất PCL sang CSV trong Android qua Java" h2="Chuyển đổi PCL sang CSV trong các ứng dụng Android mà không yêu cầu Microsoft <sup> <sup>&reg;</sup>; </sup> Excel hoặc Adobe <sup> <sup>&reg;</sup>; </sup> Acrobat Reader" >}}
+{{< blocks/products/pf/feature-page-header h1="Kết xuất PCL sang CSV trong Android qua Java" h2="Chuyển đổi PCL sang CSV trong các ứng dụng Android mà không yêu cầu Microsoft <sup>&reg;</sup> Excel hoặc Adobe <sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Bạn có thể tích hợp tính năng chuyển đổi PCL sang CSV trong các ứng dụng Android của mình trong quy trình hai bước. Thứ nhất, bằng cách sử dụng [Aspose.PDF dành cho Android qua Java](https://products.aspose.com/pdf/android-java/), bạn có thể chuyển PCL sang XLSX. Thứ hai, bạn có thể chuyển đổi XLSX sang CSV bằng cách sử dụng API xử lý bảng tính mạnh mẽ [Aspose.Cells cho Android qua Java](https://products.aspose.com/cells/android-java/). Cả hai API đều thuộc họ sản phẩm [Aspose.Total cho Android qua Java](https://products.aspose.com/total/android-java/). 
+Bạn có thể tích hợp tính năng chuyển đổi PCL sang CSV trong các ứng dụng Android của mình trong quy trình hai bước. Thứ nhất, bằng cách sử dụng [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/), bạn có thể chuyển PCL sang XLSX. Thứ hai, bạn có thể chuyển đổi XLSX sang CSV bằng cách sử dụng API xử lý bảng tính mạnh mẽ [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Cả hai API đều thuộc họ sản phẩm [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API Android để hiển thị PCL sang CSV" %}}
-1. Mở tệp PCL bằng lớp [Tài liệu](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+1. Mở tệp PCL bằng lớp [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. Chuyển đổi PCL sang XLSX bằng cách sử dụng [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) phương pháp
 3. Tải tài liệu XLSX bằng cách sử dụng lớp [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Lưu tài liệu sang định dạng CSV bằng cách sử dụng [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
-Bạn có thể dễ dàng sử dụng Aspose.Total cho Android qua Java trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và cài đặt [Aspose.PDF cho Android qua Java](https://docs.aspose.com/pdf/androidjava/installation/) và [Aspose.Cells for Android via Java](https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-install/) trong các ứng dụng của bạn.
+Bạn có thể dễ dàng sử dụng Aspose.Total for Android via Java trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) và cài đặt [Aspose.PDF for Android via Java](https://docs.aspose.com/pdf/androidjava/installation/) và [Aspose.Cells for Android via Java](https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-install/) trong các ứng dụng của bạn.
 
-Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://downloads.aspose.com/total/androidjava).
+Ngoài ra, bạn có thể tải tệp ZIP từ [download](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 
@@ -38,7 +38,7 @@ Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://download
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Nhận siêu dữ liệu XMP của tệp PCL trong Android qua Java" %}}
-[Aspose.PDF dành cho Android qua Java](https://products.aspose.com/pdf/android-java/) cho phép bạn truy cập siêu dữ liệu XMP của tệp PCL. Để lấy siêu dữ liệu, hãy tạo đối tượng [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) và mở tệp PCL đầu vào và sử dụng [getMetadata ()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) thuộc tính để lấy siêu dữ liệu.
+[Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) cho phép bạn truy cập siêu dữ liệu XMP của tệp PCL. Để lấy siêu dữ liệu, hãy tạo đối tượng [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) và mở tệp PCL đầu vào và sử dụng [getMetadata ()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) thuộc tính để lấy siêu dữ liệu.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
@@ -46,7 +46,7 @@ Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://download
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Bảo vệ tài liệu CSV trong Android qua Java" %}}
-[Aspose.Cells cho Android qua Java](https://products.aspose.com/cells/android-java/) hỗ trợ bảo vệ tệp CSV của bạn tùy theo nhu cầu của bạn. Để bảo vệ tài liệu của mình, bạn có thể sử dụng phương pháp [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook (java.lang.String)) của [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) lớp.
+[Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) hỗ trợ bảo vệ tệp CSV của bạn tùy theo nhu cầu của bạn. Để bảo vệ tài liệu của mình, bạn có thể sử dụng phương pháp [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook (java.lang.String)) của [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) lớp.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-csv.java" >}}

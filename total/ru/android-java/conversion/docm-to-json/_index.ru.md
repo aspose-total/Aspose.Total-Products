@@ -13,19 +13,19 @@ otherformats: XLT XLTM FODS SXC XLAM XLS EXCEL ODS XLSM DIF XLSB XLTX TSV CSV
 {{< blocks/products/pf/feature-page-header h1="Преобразование DOCM в формат JSON в Android через Java" h2="Создавайте приложения Android для экспорта DOCM в JSON без использования Microsoft<sup>&reg;</sup> Word или Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Вы можете конвертировать DOCM в формат JSON в своих приложениях для Android через [Aspose.Total для Android через Java](https://products.aspose.com/total/android-java/). Используя API для обработки и преобразования документов [Aspose.Words для Android через Java](https://products.aspose.com/words/android-java/), вы можете экспортировать DOCM в HTML. После этого, используя [Aspose.Cells для Android через Java](https://products.aspose.com/cells/android-java/), вы можете конвертировать HTML в JSON. 
+Вы можете конвертировать DOCM в формат JSON в своих приложениях для Android через [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Используя API для обработки и преобразования документов [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/), вы можете экспортировать DOCM в HTML. После этого, используя [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), вы можете конвертировать HTML в JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование DOCM в формат JSON в Android" %}}
-1. Откройте файл DOCM, используя класс [Docmument](https://reference.aspose.com/words/java/com.aspose.words/Docmument).
-2. Преобразуйте DOCM в HTML, используя [Сохранить](https://reference.aspose.com/words/java/com.aspose.words/Docmument#save(java.lang.String,com.aspose.words.SaveOptions) ) метод
+1. Откройте файл DOCM, используя класс [Document](https://reference.aspose.com/words/java/com.aspose.words/Document).
+2. Преобразуйте DOCM в HTML, используя [Сохранить](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) метод
 3. Загрузите HTML-документ с помощью класса [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
 4. Сохраните документ в формате JSON с помощью [Сохранить](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) метод
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
-Вы можете легко использовать Aspose.Total для Android через Java непосредственно из [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) и установить библиотеки в ваше приложение.
+Вы можете легко использовать Aspose.Total for Android via Java непосредственно из [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) и установить библиотеки в ваше приложение.
 
 Кроме того, вы можете получить ZIP-файл из [загрузки](https://downloads.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

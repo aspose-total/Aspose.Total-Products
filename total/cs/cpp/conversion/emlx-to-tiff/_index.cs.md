@@ -13,15 +13,15 @@ otherformats: DOC PS FLATOPC DOTM MD RTF DOT GIF DOCM OTT WORDML DOCX PNG JPEG B
 {{< blocks/products/pf/feature-page-header h1="C++ API pro export EMLX do TIFF" h2="Transformujte EMLX na TIFF v rámci aplikace C++ bez nutnosti aplikace Microsoft Word nebo Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Jste vývojář C++ a chcete do svých aplikací přidat funkce pro převod e-mailů? Pomocí [Aspose.Emlx for C++](https://products.aspose.com/emlx/cpp/) můžete převést formát souboru EMLX do HTML. Poté můžete pomocí [Aspose.Words for C++](https://products.aspose.com/words/cpp/) API exportovat HTML do TIFF. Obě rozhraní API jsou součástí balíčku [Aspose.Total pro C++](https://products.aspose.com/total/cpp/). 
+Jste vývojář C++ a chcete do svých aplikací přidat funkce pro převod e-mailů? Pomocí [Aspose.Emlx for C++](https://products.aspose.com/emlx/cpp/) můžete převést formát souboru EMLX do HTML. Poté můžete pomocí [Aspose.Words for C++](https://products.aspose.com/words/cpp/) API exportovat HTML do TIFF. Obě rozhraní API jsou součástí balíčku [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API pro převod EMLX na TIFF" %}}
 1. Otevřete soubor EMLX pomocí odkazu třídy [MailMessage](https://reference.aspose.com/emlx/cpp/class/aspose.emlx.mail_message)
-2. Převeďte EMLX na HTML pomocí členské funkce [Uložit](https://reference.aspose.com/emlx/cpp/class/aspose.emlx.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
+2. Převeďte EMLX na HTML pomocí členské funkce [Save](https://reference.aspose.com/emlx/cpp/class/aspose.emlx.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
 3. Načtěte HTML pomocí třídy [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
-4. Uložte dokument do formátu TIFF pomocí metody [Uložit](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) a nastavte Tiff jako SaveFormat
+4. Uložte dokument do formátu TIFF pomocí metody [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) a nastavte Tiff jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}

@@ -13,7 +13,7 @@ otherformats: XAML POWERPOINT PPSX POTX SWF PPT ODP PPS POTM POT OTP PPSM
 {{< blocks/products/pf/feature-page-header h1="Rendera PCL till PPTM inom C++-applikationer" h2="Konvertera PCL till PPTM i dina C++-applikationer utan att använda Microsoft<sup>&reg;</sup> PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Är du en C++-utvecklare som vill lägga till för att integrera PCL till PPTM-konverteringsfunktionen i dina C++-applikationer? Du kan göra det i två enkla steg. Du kan exportera PCL till PPTX genom att använda [Aspose.PDF för C++](https://products.aspose.com/pdf/cpp/). För det andra, genom att använda [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), kan du konvertera PPTX till PPTM. Båda API:erna kommer under paketet [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
+Är du en C++-utvecklare som vill lägga till för att integrera PCL till PPTM-konverteringsfunktionen i dina C++-applikationer? Du kan göra det i två enkla steg. Du kan exportera PCL till PPTX genom att använda [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/). För det andra, genom att använda [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), kan du konvertera PPTX till PPTM. Båda API:erna kommer under paketet [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -46,7 +46,7 @@ prs->Save(u"output.pptm", Aspose::Slides::Export::SaveFormat::Pptm);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Ändra lösenord för PCL-dokument via C++" %}}
-I processen att rendera PCL till PPTM kan du öppna en lösenordsskyddad PCL och även ändra dess lösenord. För att ändra lösenordet för en PCL-fil måste du känna till ägarlösenordet för det dokumentet. Du kan ladda lösenordsskyddade PDF-dokument med [Aspose.PDF för C++](https://products.aspose.com/pdf/cpp/) genom att ange dess ägarlösenord och använda ChangePasswords-metoden för att ändra lösenordet.
+I processen att rendera PCL till PPTM kan du öppna en lösenordsskyddad PCL och även ändra dess lösenord. För att ändra lösenordet för en PCL-fil måste du känna till ägarlösenordet för det dokumentet. Du kan ladda lösenordsskyddade PDF-dokument med [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) genom att ange dess ägarlösenord och använda ChangePasswords-metoden för att ändra lösenordet.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp

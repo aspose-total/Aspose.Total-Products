@@ -20,7 +20,7 @@ otherformats: FLATOPC WORD DOTM OTT DOCX DOCM ODT DOT TEXT DOC DOTX RTF
 {{% blocks/products/pf/agp/feature-section-col title="POT'u WORDML'a Dönüştürmek için C++ API" %}}
 1. [Sunum](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) sınıf referansını kullanarak POT dosyasını yükleyin
 2. [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) üye işlevini kullanarak POT'u HTML'ye dönüştürün ve Html'yi SaveFormat olarak ayarlayın
-3. Dönüştürülen HTML dosyasını [Belge](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument) sınıf referansını kullanarak yükleyin
+3. Dönüştürülen HTML dosyasını [Document](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument) sınıf referansını kullanarak yükleyin
 4. [Kaydet](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument#save_string) üye işlevini kullanarak belgeyi WORDML biçiminde kaydedin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

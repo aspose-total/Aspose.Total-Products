@@ -13,7 +13,7 @@ otherformats: WORDML DOTX DOT DOCX WORD DOTM ODT DOCM OTT DOC TEXT RTF
 {{< blocks/products/pf/feature-page-header h1="C++ API för att rendera POTM till FLATOPC" h2="Exportera POTM till FLATOPC i C++-applikationer utan några Microsoft PowerPoint- eller Word-beroenden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total för C++](https://products.aspose.com/total/cpp/) är ett komplett paket med C++ filformatsautomatiseringsbibliotek. Genom att använda de rika funktionerna i API:erna som finns i paketet kan vi enkelt konvertera PowerPoint POTM till Word FLATOPC. För att utföra konverteringen kan du först använda [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API för att konvertera POTM till HTML. Därefter kan du konvertera HTML till FLATOPC genom att använda funktionsrika Word Processing API [Aspose.Words for C++](https://products.aspose.com/words/cpp/). 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) är ett komplett paket med C++ filformatsautomatiseringsbibliotek. Genom att använda de rika funktionerna i API:erna som finns i paketet kan vi enkelt konvertera PowerPoint POTM till Word FLATOPC. För att utföra konverteringen kan du först använda [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API för att konvertera POTM till HTML. Därefter kan du konvertera HTML till FLATOPC genom att använda funktionsrika Word Processing API [Aspose.Words for C++](https://products.aspose.com/words/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

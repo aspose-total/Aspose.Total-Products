@@ -19,7 +19,7 @@ otherformats: DOCM DOCX FLATOPC EPUB DOT TEXT DOTM ODT TIFF EMF DOTX GIF WORDML 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API för att konvertera EMLX till WORD" %}}
 1. Öppna EMLX-filen med [MailMessage](https://reference.aspose.com/emlx/cpp/class/aspose.emlx.mail_message) klassreferens
-2. Konvertera EMLX till HTML genom att använda medlemsfunktionen [Spara](https://reference.aspose.com/emlx/cpp/class/aspose.emlx.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
+2. Konvertera EMLX till HTML genom att använda medlemsfunktionen [Save](https://reference.aspose.com/emlx/cpp/class/aspose.emlx.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
 3. Ladda HTML genom att använda klassen [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
 4. Spara dokumentet i WORD-format med metoden [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) och ställ in Word som SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

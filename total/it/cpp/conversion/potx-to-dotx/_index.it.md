@@ -19,9 +19,9 @@ otherformats: RTF DOT DOCX WORD WORDML FLATOPC DOCM OTT ODT TEXT DOC DOTM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API C++ per convertire POTX in DOTX" %}}
 1. Caricare il file POTX utilizzando [Presentazione](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) riferimento alla classe
-2. Eseguire il rendering di POTX in HTML utilizzando la funzione membro [Salva](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) e impostare Html come SaveFormat
+2. Eseguire il rendering di POTX in HTML utilizzando la funzione membro [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) e impostare Html come SaveFormat
 3. Caricare il file HTML convertito utilizzando il riferimento alla classe [Dotxument](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument)
-4. Salvare il dotxumento in formato DOTX utilizzando [Salva](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument#save_string) funzione membro
+4. Salvare il dotxumento in formato DOTX utilizzando [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument#save_string) funzione membro
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}

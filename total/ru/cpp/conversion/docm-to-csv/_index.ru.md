@@ -18,7 +18,7 @@ otherformats: XLTM XLT DIF SXC FODS TSV XLAM XLSB ODS XLSX EXCEL XLSM XLS XLTX
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API для преобразования DOCM в CSV" %}}
-1. Откройте файл DOCM, используя ссылку на класс [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument).
+1. Откройте файл DOCM, используя ссылку на класс [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument).
 2. Преобразуйте DOCM в HTML с помощью функции-члена [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string_saveformat).
 3. Загрузите HTML-документ, используя ссылку на класс [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
 4. Сохраните документ в формате CSV, используя функцию-член [Сохранить](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e).
@@ -38,7 +38,7 @@ otherformats: XLTM XLT DIF SXC FODS TSV XLAM XLSB ODS XLSX EXCEL XLSM XLS XLTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Доступ к свойствам документа DOCM через C++" %}}
-[Aspose.Words for C++](https://products.aspose.com/words/cpp/) также позволяет вам получить доступ к свойствам документа файла DOCM и позволяет принять обоснованное решение до процесса преобразования. Для доступа к свойствам документа вы можете использовать [BuiltInDocmumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_docmument_properties) для получения встроенных свойств и [CustomDocmumentProperties](https://https://reference.aspose.com/words/cpp/class/aspose.words.properties.custom_docmument_properties), чтобы получить настраиваемые свойства. В следующем примере кода показано, как перечислить все встроенные и настраиваемые свойства в документе.
+[Aspose.Words for C++](https://products.aspose.com/words/cpp/) также позволяет вам получить доступ к свойствам документа файла DOCM и позволяет принять обоснованное решение до процесса преобразования. Для доступа к свойствам документа вы можете использовать [BuiltInDocumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_docmument_properties) для получения встроенных свойств и [CustomDocumentProperties](https://https://reference.aspose.com/words/cpp/class/aspose.words.properties.custom_docmument_properties), чтобы получить настраиваемые свойства. В следующем примере кода показано, как перечислить все встроенные и настраиваемые свойства в документе.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-docmument-properties.cs" >}}

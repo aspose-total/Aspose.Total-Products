@@ -13,7 +13,7 @@ otherformats: OTT PCL PDF WORDML XPS EPUB DOCM EMF DOT SVG RTF DOC GIF DOTX DOTM
 {{< blocks/products/pf/feature-page-header h1="在 Andorid 应用程序中将 EMAIL 转换为 MD" h2="设计 Andorid 应用程序以通过 Java API 使用 Andorid 将 EMAIL 导出到 MD" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Andorid 应用程序易于终端用户日常使用。 Andorid 手机用户的数量每天都在增加。使用强大的 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) 文件格式自动化库，您可以开发电子邮件处理和转换应用程序。您可以通过 [Aspose.Email for Android Java](https://products.aspose.com/email/android-java/) 和 [Aspose.Words for Andorid Java](https://products.aspose.com/words/android-java/)。使用第一个 API，您可以将 EMAIL 文件格式转换为 HTML，通过使用第二个 API，您可以将 HTML 呈现为 MD。 
+Andorid 应用程序易于终端用户日常使用。 Andorid 手机用户的数量每天都在增加。使用强大的 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) 文件格式自动化库，您可以开发电子邮件处理和转换应用程序。您可以通过 [Aspose.Email for Android via Java](https://products.aspose.com/email/android-java/) 和 [Aspose.Words for Andorid Java](https://products.aspose.com/words/android-java/)。使用第一个 API，您可以将 EMAIL 文件格式转换为 HTML，通过使用第二个 API，您可以将 HTML 呈现为 MD。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

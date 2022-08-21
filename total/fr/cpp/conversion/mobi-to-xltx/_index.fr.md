@@ -13,7 +13,7 @@ otherformats: XLSB XLSX ODS TSV SXC XLAM XLSM FODS XLT XLS XLTM CSV DIF EXCEL
 {{< blocks/products/pf/feature-page-header h1="API C++ pour convertir MOBI en XLTX" h2="Exportez MOBI vers XLTX via C++ sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Vous pouvez facilement inclure la fonction de conversion MOBI en XLTX dans vos applications C++. En utilisant l'API de manipulation et de conversion de mobiuments riche en fonctionnalités, puissante et facile à utiliser [Aspose.Words pour C++](https://products.aspose.com/words/cpp/), vous pouvez exporter du MOBI vers HTML. Après cela, en utilisant [Aspose.Cells pour C++](https://products.aspose.com/cells/cpp/), vous pouvez convertir HTML en XLTX. Les deux API relèvent du package [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
+Vous pouvez facilement inclure la fonction de conversion MOBI en XLTX dans vos applications C++. En utilisant l'API de manipulation et de conversion de mobiuments riche en fonctionnalités, puissante et facile à utiliser [Aspose.Words for C++](https://products.aspose.com/words/cpp/), vous pouvez exporter du MOBI vers HTML. Après cela, en utilisant [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), vous pouvez convertir HTML en XLTX. Les deux API relèvent du package [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -38,7 +38,7 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Accéder aux propriétés du mobiument MOBI via C++" %}}
-[Aspose.Words pour C++](https://products.aspose.com/words/cpp/) vous permet également d'accéder aux propriétés du mobiument du fichier MOBI et vous permet de prendre une décision éclairée avant le processus de conversion. Pour accéder aux propriétés du mobiument, vous pouvez utiliser [BuiltInMobiumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_mobiument_properties) pour obtenir les propriétés intégrées et [CustomMobiumentProperties](https:// reference.aspose.com/words/cpp/class/aspose.words.properties.custom_mobiument_properties) pour obtenir des propriétés personnalisées. L'exemple de code suivant montre comment énumérer toutes les propriétés intégrées et personnalisées dans un mobiument.
+[Aspose.Words for C++](https://products.aspose.com/words/cpp/) vous permet également d'accéder aux propriétés du mobiument du fichier MOBI et vous permet de prendre une décision éclairée avant le processus de conversion. Pour accéder aux propriétés du mobiument, vous pouvez utiliser [BuiltInMobiumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_mobiument_properties) pour obtenir les propriétés intégrées et [CustomMobiumentProperties](https:// reference.aspose.com/words/cpp/class/aspose.words.properties.custom_mobiument_properties) pour obtenir des propriétés personnalisées. L'exemple de code suivant montre comment énumérer toutes les propriétés intégrées et personnalisées dans un mobiument.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-mobiument-properties.cs" >}}

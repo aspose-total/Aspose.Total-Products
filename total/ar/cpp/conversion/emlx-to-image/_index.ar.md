@@ -19,9 +19,9 @@ otherformats: EMF SVG RTF ODT TEXT BMP WORDML PCL PDF EPUB DOTM FLATOPC TIFF XPS
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API لتحويل البريد الإلكتروني إلى IMAGE" %}}
 1. افتح ملف EMLX باستخدام مرجع فئة [MailMessage](https://reference.aspose.com/emlx/cpp/class/aspose.emlx.mail_message)
-2. تحويل EMLX إلى HTML باستخدام وظيفة العضو [حفظ](https://reference.aspose.com/emlx/cpp/class/aspose.emlx.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
+2. تحويل EMLX إلى HTML باستخدام وظيفة العضو [Save](https://reference.aspose.com/emlx/cpp/class/aspose.emlx.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
 3. قم بتحميل HTML باستخدام فئة [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
-4. احفظ المستند بتنسيق IMAGE باستخدام طريقة [حفظ](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) وقم بتعيين Image كـ SaveFormat
+4. احفظ المستند بتنسيق IMAGE باستخدام طريقة [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) وقم بتعيين Image كـ SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}

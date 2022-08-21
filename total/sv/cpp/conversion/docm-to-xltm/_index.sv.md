@@ -18,7 +18,7 @@ Du kan enkelt inkludera DOCM till XLTM-konverteringsfunktionen i dina C++-applik
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API för att konvertera DOCM till XLTM" %}}
-1. Öppna DOCM-filen med [Docmument](https://reference.aspose.com/words/cpp/class/aspose.words.docmument) klassreferens
+1. Öppna DOCM-filen med [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument) klassreferens
 2. Konvertera DOCM till HTML genom att använda medlemsfunktionen [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string_saveformat)
 3. Ladda HTML-dokument med hjälp av klassreferens [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
 4. Spara dokumentet i XLTM-format med hjälp av medlemsfunktionen [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
@@ -38,7 +38,7 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Få åtkomst till DOCM-dokumentegenskaper via C++" %}}
-[Aspose.Words for C++](https://products.aspose.com/words/cpp/) låter dig också komma åt dokumentegenskaperna för DOCM-filen och låter dig ta ett välgrundat beslut innan konverteringsprocessen. För att komma åt dokumentegenskaper kan du använda [BuiltInDocmumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_docmument_properties) för att få inbyggda egenskaper och [CustomDocmumentProperties](https://https://reference.aspose.com/words/cpp/class/aspose.words.properties.custom_docmument_properties) för att få anpassade egenskaper. Följande kodexempel visar hur man räknar upp alla inbyggda och anpassade egenskaper i ett dokument.
+[Aspose.Words for C++](https://products.aspose.com/words/cpp/) låter dig också komma åt dokumentegenskaperna för DOCM-filen och låter dig ta ett välgrundat beslut innan konverteringsprocessen. För att komma åt dokumentegenskaper kan du använda [BuiltInDocumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_docmument_properties) för att få inbyggda egenskaper och [CustomDocumentProperties](https://https://reference.aspose.com/words/cpp/class/aspose.words.properties.custom_docmument_properties) för att få anpassade egenskaper. Följande kodexempel visar hur man räknar upp alla inbyggda och anpassade egenskaper i ett dokument.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-docmument-properties.cs" >}}
@@ -46,7 +46,7 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Spara XLTM-fil för att streama via C++" %}}
-Efter att ha konverterat DOCM till XLTM, gör [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) det möjligt för dig att spara ditt dokument för att streama. För att spara filer till en ström, skapa ett MemoryStream- eller FileStream-objekt och spara filen till det strömobjektet genom att anropa [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) objektets [Spara](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) metod. Ange önskat filformat med [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) uppräkningen när du anropar [Save](https://reference.aspose.com).
+Efter att ha konverterat DOCM till XLTM, gör [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) det möjligt för dig att spara ditt dokument för att streama. För att spara filer till en ström, skapa ett MemoryStream- eller FileStream-objekt och spara filen till det strömobjektet genom att anropa [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) objektets [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) metod. Ange önskat filformat med [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) uppräkningen när du anropar [Save](https://reference.aspose.com).
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "save-excel-to-stream.cpp" >}}

@@ -18,14 +18,14 @@ otherformats: DOT MHTML RTF MARKDOWN PCL FLATOPC XAMLFLOW OTT PS DOTX WORDML DOT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java를 통해 Android에서 TEX을 ODT으로 변환" %}}
-1. [문서](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) 클래스를 사용하여 TEX 파일을 엽니다.
-2. [저장](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) 방법
+1. [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) 클래스를 사용하여 TEX 파일을 엽니다.
+2. [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) 방법
 3. Aspose.Words의 [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 클래스를 사용하여 DOC 파일을 로드합니다.
 4. [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) 메소드를 사용하여 문서를 ODT 형식으로 저장하고 ODT 설정 SaveFormat으로
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)에서 직접 Java를 통해 Android용 Aspose.Total을 쉽게 사용할 수 있습니다. [Java를 통한 Android용 Aspose.PDF](https://docs.aspose.com/pdf/androidjava/installation/) 및 [Java를 통한 Android용 Aspose.Words](https://docs.aspose.com/words) 설치 /java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository).
+[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)에서 직접 Java를 통해 Android용 Aspose.Total을 쉽게 사용할 수 있습니다. [Aspose.PDF for Android via Java](https://docs.aspose.com/pdf/androidjava/installation/) 및 [Aspose.Words for Android via Java](https://docs.aspose.com/words) 설치
 
 또는 [다운로드](https://downloads.aspose.com/total/androidjava)에서 ZIP 파일을 얻을 수 있습니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -46,7 +46,7 @@ outputDocument.save("output.odt", SaveFormat.ODT);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Java를 통해 Android에서 TEX 파일 정보 얻기" %}}
-TEX을 ODT으로 변환하기 전에 작성자, 작성 날짜, 키워드, 수정 날짜, 주제 및 제목을 포함한 문서에 대한 정보가 필요할 수 있습니다. 이 정보는 변환 프로세스에 대한 의사 결정에 도움이 됩니다. 강력한 [Java를 통한 Android용 Aspose.PDF](https://docs.aspose.com/pdf/androidjava/) API를 사용하면 이 모든 것을 얻을 수 있습니다. TEX 파일에 대한 파일별 정보를 얻으려면 먼저 [getInfo](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getInfo--) 메서드. DocumentInfo 개체가 검색되면 개별 속성의 값을 가져올 수 있습니다.
+TEX을 ODT으로 변환하기 전에 작성자, 작성 날짜, 키워드, 수정 날짜, 주제 및 제목을 포함한 문서에 대한 정보가 필요할 수 있습니다. 이 정보는 변환 프로세스에 대한 의사 결정에 도움이 됩니다. 강력한 [Aspose.PDF for Android via Java](https://docs.aspose.com/pdf/androidjava/) API를 사용하면 이 모든 것을 얻을 수 있습니다. TEX 파일에 대한 파일별 정보를 얻으려면 먼저 [getInfo](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getInfo--) 메서드. DocumentInfo 개체가 검색되면 개별 속성의 값을 가져올 수 있습니다.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java

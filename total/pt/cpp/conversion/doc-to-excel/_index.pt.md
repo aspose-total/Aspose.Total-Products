@@ -19,9 +19,9 @@ Você pode incluir o recurso de conversão de DOC para EXCEL em seus aplicativos
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API C++ para converter DOC para EXCEL" %}}
 1. Abra o arquivo DOC usando a referência de classe [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
-2. Converta DOC para HTML usando a função de membro [Salvar](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)
+2. Converta DOC para HTML usando a função de membro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)
 3. Carregue o documento HTML usando a referência de classe [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
-4. Salve o documento no formato EXCEL usando a função de membro [Salvar](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
+4. Salve o documento no formato EXCEL usando a função de membro [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
