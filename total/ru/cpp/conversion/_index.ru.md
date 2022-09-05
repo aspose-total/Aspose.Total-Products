@@ -13,7 +13,7 @@ description: Преобразование различных форматов д
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Преобразование Microsoft Word в Excel" %}}
-Total C++ API поддерживает преобразование Microsoft Word DOC/DOCX в Excel.  Процесс таков: загрузите файл Word DOC/DOCX с помощью ссылки на класс [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) и вызовите [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) для преобразования в HTML в первую очередь. Затем загрузите документ HTML с помощью ссылки на класс [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) и вызовите [Сохранить](https://reference.aspose.com/ Cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) для сохранения документа в формате Excel. 
+Total C++ API поддерживает преобразование Microsoft Word DOC/DOCX в Excel.  Процесс таков: загрузите файл Word DOC/DOCX с помощью ссылки на класс [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) и вызовите [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) для преобразования в HTML в первую очередь. Затем загрузите документ HTML с помощью ссылки на класс [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) и вызовите [Сохранить](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) для сохранения документа в формате Excel. 
 
 {{% blocks/products/pf/feature-page-code h3="C++ — Преобразование Word в Excel" %}}
 

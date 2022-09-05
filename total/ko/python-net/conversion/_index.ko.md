@@ -33,7 +33,7 @@ Word에서 이미지로의 변환은 Python API의 anthor 기능입니다. 변�
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Microsoft PowerPoint를 Word로 변환" %}}
-Python API는 Microsoft PowerPoint PPT/PPTX를 Word DOC/DOCX 파일로 변환하는 것을 지원합니다. 두 가지 API [.NET을 통한 Python용 Aspose.Slides](https://products.aspose.com/slides/python-net/) 및 [.NET을 통한 Python용 Aspose.Words](https://products.aspose.com/words/python-net/) 이 변환을 수행하는 데 사용됩니다. [프레젠테이션](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)을 사용하여 PPT / PPTX 파일을 로드합니다. Words Document 클래스 개체를 가져옵니다. 각 슬라이드를 반복하고 슬라이드 이미지를 생성 및 삽입한 다음 슬라이드 모양을 반복하여 슬라이드 텍스트를 삽입합니다.
+Python API는 Microsoft PowerPoint PPT/PPTX를 Word DOC/DOCX 파일로 변환하는 것을 지원합니다. 두 가지 API [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) 및 [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) 이 변환을 수행하는 데 사용됩니다. [프레젠테이션](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)을 사용하여 PPT / PPTX 파일을 로드합니다. Words Document 클래스 개체를 가져옵니다. 각 슬라이드를 반복하고 슬라이드 이미지를 생성 및 삽입한 다음 슬라이드 모양을 반복하여 슬라이드 텍스트를 삽입합니다.
 
 {{% blocks/products/pf/feature-page-code h3="Python - PowerPoint 슬라이드를 Word로 변환" %}}
 

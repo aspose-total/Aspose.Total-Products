@@ -5,7 +5,7 @@ description: Converteer Microsoft Word-indelingen DOC, DOCX naar PDF, afbeelding
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Documentconversie met behulp van Python API's" h2="Converteer Microsoft<sup>&reg;</sup> Office Word, PDF, afbeeldingen en verschillende andere formaten met Aspose.Words voor Python via .NET." >}}
+{{< blocks/products/pf/feature-page-header h1="Documentconversie met behulp van Python API's" h2="Converteer Microsoft<sup>&reg;</sup> Office Word, PDF, afbeeldingen en verschillende andere formaten met Aspose.Words for Python via .NET." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Total Python API's](https://products.aspose.com/total/python-net/) versnelt de ontwikkeling van documentautomatiseringsoplossingen vanaf het begin of het verbeteren van bestaande applicaties voor het maken, bewerken of converteren van documenten, presentaties, e-mails en 3D-bestanden. Python API verwerkt niet alleen Microsoft Office Word- en presentatiedia's, maar verwerkt ook PDF-, HTML-, afbeeldingen- en e-mailbestanden en nog veel meer. API is niet afhankelijk van software en is een volledige set oplossingen voor documentbeheer en manipulatie.
@@ -33,7 +33,7 @@ Word naar afbeeldingen conversie is een anhor-functie van Python API. Naast alle
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Converteer Microsoft PowerPoint naar Word" %}}
-Python API ondersteunt het converteren van Microsoft PowerPoint PPT / PPTX naar Word DOC / DOCX-bestanden. Twee API's [Aspose.Slides voor Python via .NET](https://products.aspose.com/slides/python-net/) en [Aspose.Words voor Python via .NET](https://products.aspose.com/words/python-net/) gebruikt om deze conversie uit te voeren. Laad het PPT-/PPTX-bestand met [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/). Haal het klasseobject Words Document op. Doorloop elke dia, genereert en voegt dia-afbeeldingen in en voegt vervolgens de diatekst in door de diavormen te doorlopen.
+Python API ondersteunt het converteren van Microsoft PowerPoint PPT / PPTX naar Word DOC / DOCX-bestanden. Twee API's [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) en [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) gebruikt om deze conversie uit te voeren. Laad het PPT-/PPTX-bestand met [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/). Haal het klasseobject Words Document op. Doorloop elke dia, genereert en voegt dia-afbeeldingen in en voegt vervolgens de diatekst in door de diavormen te doorlopen.
 
 {{% blocks/products/pf/feature-page-code h3="Python - PowerPoint-dia's naar Word-conversie" %}}
 

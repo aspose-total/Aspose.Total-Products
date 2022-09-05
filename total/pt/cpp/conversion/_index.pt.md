@@ -13,7 +13,7 @@ description: Converta vários formatos de documentos, como Word, Excel, PowerPoi
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Converter Microsoft Word para Excel" %}}
-Total C++ API suporta conversão Microsoft Word DOC/DOCX para Excel.  O processo é carregar o arquivo Word DOC / DOCX usando a referência de classe [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) e invocar [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) para converter em HTML primeiro. Em seguida, carregue o documento HTML usando a referência de classe [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) e invoque [Save](https://reference.aspose.com/ cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) para salvar o documento no formato Excel. 
+Total C++ API suporta conversão Microsoft Word DOC/DOCX para Excel.  O processo é carregar o arquivo Word DOC / DOCX usando a referência de classe [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) e invocar [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) para converter em HTML primeiro. Em seguida, carregue o documento HTML usando a referência de classe [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) e invoque [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) para salvar o documento no formato Excel. 
 
 {{% blocks/products/pf/feature-page-code h3="C++ - Conversão de Word para Excel" %}}
 

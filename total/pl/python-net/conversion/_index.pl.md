@@ -5,7 +5,7 @@ description: Konwertuj formaty Microsoft Word DOC, DOCX na PDF, obrazy i inne, a
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwersja dokumentów przy użyciu API Pythona" h2="Konwertuj Microsoft<sup>&reg;</sup> Office Word, PDF, obrazy i różne inne formaty za pomocą Aspose.Words for Python przez .NET." >}}
+{{< blocks/products/pf/feature-page-header h1="Konwersja dokumentów przy użyciu API Pythona" h2="Konwertuj Microsoft<sup>&reg;</sup> Office Word, PDF, obrazy i różne inne formaty za pomocą Aspose.Words for Python via .NET." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Total Python APIs](https://products.aspose.com/total/python-net/) przyspiesza tworzenie od podstaw rozwiązań do automatyzacji dokumentów lub ulepszanie istniejących aplikacji w celu tworzenia, edytowania lub konwertowania dokumentów, prezentacji, e-maili i plików 3D. Python API nie tylko obsługuje slajdy Microsoft Office Word i Presentation, ale także obsługuje pliki PDF, HTML, obrazy i wiadomości e-mail oraz wiele więcej. API nie zależy od żadnego oprogramowania i jest pełnym zestawem rozwiązań do zarządzania i manipulacji dokumentami.
@@ -33,7 +33,7 @@ Konwersja Word to Images to jedna z funkcji API Pythona. Oprócz samej konwersji
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Konwertuj Microsoft PowerPoint na Word" %}}
-Python API obsługuje konwertowanie plików Microsoft PowerPoint PPT / PPTX na pliki Word DOC / DOCX. Dwa interfejsy API [Aspose.Slides dla Pythona przez .NET](https://products.aspose.com/slides/python-net/) i [Aspose.Words dla Pythona przez .NET](https://products.aspose.com/words/python-net/) użyte do wykonania tej konwersji. Załaduj plik PPT / PPTX za pomocą [Prezentacja](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/). Pobierz obiekt klasy Words Document. Iteruj przez każdy slajd, generuje i wstawia obraz slajdu, a następnie wstawia tekst slajdu, przechodząc przez kształty slajdów.
+Python API obsługuje konwertowanie plików Microsoft PowerPoint PPT / PPTX na pliki Word DOC / DOCX. Dwa interfejsy API [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) i [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) użyte do wykonania tej konwersji. Załaduj plik PPT / PPTX za pomocą [Prezentacja](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/). Pobierz obiekt klasy Words Document. Iteruj przez każdy slajd, generuje i wstawia obraz slajdu, a następnie wstawia tekst slajdu, przechodząc przez kształty slajdów.
 
 {{% blocks/products/pf/feature-page-code h3="Python — konwersja slajdów PowerPoint na Word" %}}
 

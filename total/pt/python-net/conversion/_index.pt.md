@@ -5,7 +5,7 @@ description: Converta os formatos do Microsoft Word DOC, DOCX para PDF, imagens 
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversão de documentos usando APIs Python" h2="Converta Microsoft<sup>&reg;</sup> Office Word, PDF, Imagens e vários outros formatos usando Aspose.Words para Python via .NET." >}}
+{{< blocks/products/pf/feature-page-header h1="Conversão de documentos usando APIs Python" h2="Converta Microsoft<sup>&reg;</sup> Office Word, PDF, Imagens e vários outros formatos usando Aspose.Words for Python via .NET." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Total Python APIs](https://products.aspose.com/total/python-net/) acelera o desenvolvimento de soluções de automação de documentos do zero ou aprimora aplicativos existentes para criar, editar ou converter documentos, apresentações, e-mails e arquivos 3D. A API Python não apenas lida com slides do Microsoft Office Word e Apresentação, mas também lida com arquivos PDF, HTML, Imagens e E-mail e muito mais. A API não depende de nenhum software e é um conjunto completo de solução de gerenciamento e manipulação de documentos.

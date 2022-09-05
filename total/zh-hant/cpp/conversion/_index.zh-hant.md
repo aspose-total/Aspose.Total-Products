@@ -13,7 +13,7 @@ description: 使用 C++ API 轉換各種文檔格式，例如 Word、Excel、Pow
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{% blocks/products/pf/feature-page-section  h2="將 Microsoft Word 轉換為 Excel" %}}
-Total C++ API 支持 Microsoft Word DOC/DOCX 到 Excel 的轉換。  過程是，使用 [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) 類引用加載 Word DOC / DOCX 文件並調用 [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) 成員函數首先轉換為 HTML。 然後使用 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 類引用加載 HTML 文檔並調用 [Save](https://reference.aspose.com/ cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) 成員函數將文檔保存為 Excel 格式。 
+Total C++ API 支持 Microsoft Word DOC/DOCX 到 Excel 的轉換。  過程是，使用 [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) 類引用加載 Word DOC / DOCX 文件並調用 [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) 成員函數首先轉換為 HTML。 然後使用 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 類引用加載 HTML 文檔並調用 [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) 成員函數將文檔保存為 Excel 格式。 
 
 {{% blocks/products/pf/feature-page-code h3="C++ - Word 到 Excel 的轉換" %}}
 
@@ -35,7 +35,7 @@ C++轉換庫還支持PDF到word DOC、DOCX等格式的轉換。 考慮到將 PDF
 {{< blocks/products/pf/feature-page-options pairs="odt-to-pptx ott-to-pptx rtf-to-pptx txt-to-pptx word-to-pptx wordml-to-pptx email-to-bmp email-to-word eml-to-xps emlx-to-image msg-to-doc oft-to-pdf cgm-to-doc cgm-to-csv pot-to-csv pdf-to-tsv pdf-to-csv doc-to-csv" >}}
 
 {{% blocks/products/pf/feature-page-section  h2="將 JSON 轉換為 Word" %}}
-對於 JSON 轉換，C++ API 支持多種組合，例如 JSON 轉 Word、Json 轉 PowerPoint、Word 轉 JSON 等。 考慮到 Word 轉換的情況，Process 是使用新的 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 對像從文件中讀取有效的 JSON 數據，然後調用[保存](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) 方法將 JSON 保存為 PDF 文件。 所以現在使用 [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) 類加載保存的文件，並使用 [Save](https://reference) 將其保存為 word 文檔格式.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) 方法。
+對於 JSON 轉換，C++ API 支持多種組合，例如 JSON 轉 Word、Json 轉 PowerPoint、Word 轉 JSON 等。 考慮到 Word 轉換的情況，Process 是使用新的 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 對像從文件中讀取有效的 JSON 數據，然後調用[保存](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) 方法將 JSON 保存為 PDF 文件。 所以現在使用 [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) 類加載保存的文件，並使用 [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) 將其保存為 word 文檔格式 方法。
 {{% blocks/products/pf/feature-page-code h3="C++ - JSON 到 Word 的轉換" %}}
 
 {{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-doc.cpp" >}}

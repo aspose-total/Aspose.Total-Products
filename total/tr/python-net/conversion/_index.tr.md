@@ -33,7 +33,7 @@ Word'den Görsellere Dönüştürme, Python API'sinin ana özelliğidir. Sadece 
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Microsoft PowerPoint'i Word'e Dönüştür" %}}
-Python API, Microsoft PowerPoint PPT / PPTX'i Word DOC / DOCX dosyalarına dönüştürmeyi destekler. İki API [.NET aracılığıyla Aspose.Slides for Python](https://products.aspose.com/slides/python-net/) ve [.NET aracılığıyla Aspose.Words for Python](https://products.aspose.com/words/python-net/) bu dönüşümü gerçekleştirmek için kullanılır. [Sunum](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) kullanarak PPT / PPTX dosyasını yükleyin. Words Document sınıf nesnesini alın. Her slaytta yineleyin, slayt görüntüsü oluşturur ve ekler ve ardından slayt metnini slayt şekillerini yineleyerek ekleyin.
+Python API, Microsoft PowerPoint PPT / PPTX'i Word DOC / DOCX dosyalarına dönüştürmeyi destekler. İki API [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) ve [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) bu dönüşümü gerçekleştirmek için kullanılır. [Sunum](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) kullanarak PPT / PPTX dosyasını yükleyin. Words Document sınıf nesnesini alın. Her slaytta yineleyin, slayt görüntüsü oluşturur ve ekler ve ardından slayt metnini slayt şekillerini yineleyerek ekleyin.
 
 {{% blocks/products/pf/feature-page-code h3="Python - PowerPoint Slaytlarından Word'e Dönüştürme" %}}
 

@@ -13,7 +13,7 @@ description: Converteer verschillende documentformaten zoals Word, Excel, PowerP
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Converteer Microsoft Word naar Excel" %}}
-Total C++ API ondersteunt Microsoft Word DOC/DOCX naar Excel conversie.  Proces is, Laad Word DOC / DOCX-bestand met behulp van [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) klassereferentie en roep [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) lidfunctie om eerst naar HTML te converteren. Laad vervolgens het HTML-document met behulp van [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) class reference en roep [Save](https://reference.aspose.com/ op) cellen/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) lidfunctie om het document in Excel-indeling op te slaan. 
+Total C++ API ondersteunt Microsoft Word DOC/DOCX naar Excel conversie.  Proces is, Laad Word DOC / DOCX-bestand met behulp van [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) klassereferentie en roep [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) lidfunctie om eerst naar HTML te converteren. Laad vervolgens het HTML-document met behulp van [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) class reference en roep [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) lidfunctie om het document in Excel-indeling op te slaan. 
 
 {{% blocks/products/pf/feature-page-code h3="C++ - Word naar Excel conversie" %}}
 
