@@ -1,6 +1,6 @@
 ---
 title: Convert PPSM to RTF in Python
-description: PPSM to RTF conversion in your Python Phones without using Microsoft Word of PowerPoint 
+description: PPSM to RTF conversion in your Python applications without using Microsoft Word or PowerPoint 
 url: /python-net/conversion/ppsm-to-rtf/
 family: total
 platformtag: Python

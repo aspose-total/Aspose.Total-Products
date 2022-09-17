@@ -1,6 +1,6 @@
 ---
 title: Convert PPSX to RTF in Python
-description: PPSX to RTF conversion in your Python Phones without using Microsoft Word of PowerPoint 
+description: PPSX to RTF conversion in your Python applications without using Microsoft Word or PowerPoint 
 url: /python-net/conversion/ppsx-to-rtf/
 family: total
 platformtag: Python

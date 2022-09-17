@@ -1,6 +1,6 @@
 ---
 title: Convert PPTM to DOTM in Python
-description: PPTM to DOTM conversion in your Python Phones without using Microsoft Word of PowerPoint 
+description: PPTM to DOTM conversion in your Python applications without using Microsoft Word or PowerPoint 
 url: /python-net/conversion/pptm-to-dotm/
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Convert PPT to DOTX in Python
-description: PPT to DOTX conversion in your Python Phones without using Microsoft Word of PowerPoint 
+description: PPT to DOTX conversion in your Python applications without using Microsoft Word or PowerPoint 
 url: /python-net/conversion/ppt-to-dotx/
 family: total
 platformtag: Python

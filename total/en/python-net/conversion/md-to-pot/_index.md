@@ -1,6 +1,6 @@
 ---
 title: Convert MD to POT in Python
-description: MD to POT conversion in your Python Phones without using Microsoft Word of PowerPoint 
+description: MD to POT conversion in your Python applications without using Microsoft Word or PowerPoint 
 url: /python-net/conversion/md-to-pot/
 family: total
 platformtag: Python

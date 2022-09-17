@@ -1,6 +1,6 @@
 ---
 title: Convert DOCM to PPTX in Python
-description: DOCM to PPTX conversion in your Python Phones without using Microsoft Word of PowerPoint 
+description: DOCM to PPTX conversion in your Python applications without using Microsoft Word or PowerPoint 
 url: /python-net/conversion/docm-to-pptx/
 family: total
 platformtag: Python

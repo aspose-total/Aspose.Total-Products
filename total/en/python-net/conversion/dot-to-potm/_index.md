@@ -1,6 +1,6 @@
 ---
 title: Convert DOT to POTM in Python
-description: DOT to POTM conversion in your Python Phones without using Microsoft Word of PowerPoint 
+description: DOT to POTM conversion in your Python applications without using Microsoft Word or PowerPoint 
 url: /python-net/conversion/dot-to-potm/
 family: total
 platformtag: Python
