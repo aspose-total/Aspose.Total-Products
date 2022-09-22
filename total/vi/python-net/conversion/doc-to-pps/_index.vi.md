@@ -14,14 +14,14 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Đối với một nhà phát triển Python, ai đang cố gắng thêm tính năng chuyển đổi DOC sang PPS trong ứng dụng? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API có thể giúp tự động hóa quá trình chuyển đổi. Đó là một gói đầy đủ các API khác nhau xử lý các định dạng khác nhau. Vì thế **Làm thế nào để chuyển đổi DOC sang PPS trong Python?**
+Đối với một nhà phát triển Python, ai đang cố gắng thêm tính năng chuyển đổi DOC sang PPS trong ứng dụng? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API có thể giúp tự động hóa quá trình chuyển đổi. Đó là một gói đầy đủ các API khác nhau xử lý các định dạng khác nhau.  
 
 Nó chủ yếu gồm hai bước. Đầu tiên sử dụng [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) API để chuyển đổi tệp DOC sang PDF. Sau đó, bằng cách sử dụng PowerPoint Python API [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/), lưu tệp PDF đã tạo thành Bản trình bày dưới dạng định dạng PPS. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi DOC sang PPS bằng Python" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Làm thế nào để chuyển đổi DOC sang PPS trong Python" %}}
 - **Bước 1** Mở tệp DOC nguồn bằng lớp [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 - Lưu tệp DOC sang PDF bằng phương pháp [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) bằng cách cung cấp tên tệp và đường dẫn thư mục mong muốn.
 -  **Bước 2** Tải tệp PDF với phiên bản của lớp [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
@@ -33,7 +33,7 @@ Nó chủ yếu gồm hai bước. Đầu tiên sử dụng [Aspose.Words for Py
 
 - Để chuyển đổi DOC sang PPS, cần có Python 3.5 trở lên
 - Tham chiếu các API trong dự án trực tiếp từ PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) và [Aspose.Words](https://pypi.org/project/aspose-words/)) hoặc
-- Sử dụng các lệnh pip sau `` pip install aspose.slides '' và `` pip install aspose.words ''. Hơn thế nữa,
+- Sử dụng các lệnh pip sau `` pip install aspose.slides '' và `` pip install aspose.words ''. 
 - Hệ điều hành dựa trên Microsoft Windows hoặc Linux (xem thêm cho [Slides](https://docs.aspose.com/slides/python-net/system-requirements/) và [Words](https://docs.aspose.com/words/python-net/system-requirements/)) và cho Linux, hãy kiểm tra các yêu cầu bổ sung cho gcc và libpython và làm theo hướng dẫn từng bước [INSTALL](https://docs.aspose.com/words/python-net/installation/).
  
 
@@ -54,7 +54,20 @@ Nó chủ yếu gồm hai bước. Đầu tiên sử dụng [Aspose.Words for Py
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="Các tùy chọn chuyển đổi khác" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/doc-to-powerpoint/" name="DOC Đến POWERPOINT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/doc-to-ppsx/" name="DOC Đến PPSX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/doc-to-pptx/" name="DOC Đến PPTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/doc-to-ppt/" name="DOC Đến PPT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/doc-to-pot/" name="DOC Đến POT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/doc-to-potx/" name="DOC Đến POTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/doc-to-potm/" name="DOC Đến POTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/doc-to-pptm/" name="DOC Đến PPTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/doc-to-ppsm/" name="DOC Đến PPSM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/doc-to-pps/" name="DOC Đến PPS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/doc-to-odp/" name="DOC Đến ODP" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

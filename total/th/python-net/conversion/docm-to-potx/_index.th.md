@@ -14,18 +14,18 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-สำหรับนักพัฒนา Python ใครกำลังพยายามเพิ่มคุณสมบัติการแปลง DOCM เป็น POTX ภายในแอปพลิเคชัน ? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API สามารถช่วยทำให้กระบวนการแปลงเป็นไปโดยอัตโนมัติ เป็นแพ็คเกจเต็มรูปแบบของ API ต่างๆ ที่จัดการรูปแบบต่างๆ ดังนั้น **วิธีแปลง DOCM เป็น POTX ใน Python**
+สำหรับนักพัฒนา Python ใครกำลังพยายามเพิ่มคุณสมบัติการแปลง DOCM เป็น POTX ภายในแอปพลิเคชัน ? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API สามารถช่วยทำให้กระบวนการแปลงเป็นไปโดยอัตโนมัติ เป็นแพ็คเกจเต็มรูปแบบของ API ต่างๆ ที่จัดการรูปแบบต่างๆ  
 
 ส่วนใหญ่อยู่ในสองขั้นตอน ขั้นแรก ใช้ [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) API เพื่อแปลงไฟล์ DOCM เป็น PDF หลังจากนั้นโดยใช้ PowerPoint Python API [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) ให้บันทึก PDF ที่สร้างลงในการนำเสนอในรูปแบบ POTX 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="แปลง DOCM เป็น POTX ใน Python" %}}
+{{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง DOCM เป็น POTX ใน Python" %}}
 - **ขั้นตอนที่ 1** เปิดไฟล์ DOCM ต้นทางโดยใช้คลาส [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 - บันทึกไฟล์ DOCM เป็น PDF โดยใช้วิธีการ [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) โดยระบุชื่อไฟล์และเส้นทางไดเรกทอรีที่ต้องการ
 -  **ขั้นตอนที่ 2** โหลดไฟล์ PDF ด้วยอินสแตนซ์ของคลาส [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
--  เรียกใช้เมธอด `บันทึก' ขณะที่ระบุพาธไฟล์เอาต์พุต & SaveFormat.POTX เป็นพารามิเตอร์ ดังนั้นไฟล์ DOCM ของคุณจะถูกแปลงเป็น POTX ตามเส้นทางที่ระบุ
+-  เรียกใช้เมธอด `บันทึก' ขณะที่ระบุพาธไฟล์เอาต์พุต & SaveFormat.POTX เป็นพารามิเตอร์ ไฟล์ DOCM ของคุณจะถูกแปลงเป็น POTX ตามเส้นทางที่ระบุ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -33,7 +33,7 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 - สำหรับการแปลง DOCM เป็น POTX จำเป็นต้องใช้ Python 3.5 หรือใหม่กว่า
 - อ้างอิง API ภายในโครงการโดยตรงจาก PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) และ [Aspose.Words](https://pypi.org/project/aspose-words/)) หรือ
-- ใช้คำสั่ง pip ต่อไปนี้ ```pip install aspose.slides``` และ ```pip install aspose.words``` นอกจากนี้,
+- ใช้คำสั่ง pip ต่อไปนี้ ```pip install aspose.slides``` และ ```pip install aspose.words``` 
 - ระบบปฏิบัติการที่ใช้ Microsoft Windows หรือ Linux (ดูเพิ่มเติมสำหรับ [Slides](https://docs.aspose.com/slides/python-net/system-requirements/) และ [Words](https://docs.aspose.com/words/python-net/system-requirements/)) และสำหรับ Linux ให้ตรวจสอบข้อกำหนดเพิ่มเติมสำหรับ gcc และ libpython และทำตามคำแนะนำทีละขั้นตอน [INSTALL](https://docs.aspose.com/words/python-net/installation/)
  
 
@@ -54,7 +54,20 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="ตัวเลือกการแปลงอื่น ๆ" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/conversion/docm-to-powerpoint/" name="DOCM ถึง POWERPOINT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/conversion/docm-to-ppsx/" name="DOCM ถึง PPSX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/conversion/docm-to-pptx/" name="DOCM ถึง PPTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/conversion/docm-to-ppt/" name="DOCM ถึง PPT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/conversion/docm-to-pot/" name="DOCM ถึง POT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/conversion/docm-to-potx/" name="DOCM ถึง POTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/conversion/docm-to-potm/" name="DOCM ถึง POTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/conversion/docm-to-pptm/" name="DOCM ถึง PPTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/conversion/docm-to-ppsm/" name="DOCM ถึง PPSM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/conversion/docm-to-pps/" name="DOCM ถึง PPS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/conversion/docm-to-odp/" name="DOCM ถึง ODP" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

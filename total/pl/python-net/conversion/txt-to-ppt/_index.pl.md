@@ -14,18 +14,18 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Dla programisty Pythona, kto próbuje dodać funkcję konwersji TXT do PPT w aplikacji? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API może pomóc zautomatyzować proces konwersji. Jest to pełny pakiet różnych interfejsów API obsługujących różne formaty. Więc **Jak przekonwertować TXT na PPT w Pythonie?**
+Dla programisty Pythona, kto próbuje dodać funkcję konwersji TXT do PPT w aplikacji? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API może pomóc zautomatyzować proces konwersji. Jest to pełny pakiet różnych interfejsów API obsługujących różne formaty.  
 
 To głównie w dwóch krokach. Najpierw użyj API [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/), aby przekonwertować plik TXT na PDF. Następnie za pomocą programu PowerPoint Python API [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) zapisz utworzony plik PDF w Presentation jako format PPT. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Konwertuj TXT na PPT w Pythonie" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Jak przekonwertować TXT na PPT w Pythonie" %}}
 - **Krok 1** Otwórz źródłowy plik TXT przy użyciu klasy ASSOSE.WORDS.DOCUMENT
 - Zapisz plik TXT w formacie PDF za pomocą metody [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/), podając nazwę pliku i żądaną ścieżkę katalogu.
 -  **Krok 2** Załaduj plik PDF z instancją klasy APOSSE.SLIDES.PRESENTATION
--  Wywołaj metodę `save`, określając ścieżkę pliku wyjściowego i SaveFormat.PPT jako parametry. Więc twój plik TXT jest konwertowany na PPT w określonej ścieżce.
+-  Wywołaj metodę `save`, określając ścieżkę pliku wyjściowego i SaveFormat.PPT jako parametry.  twój plik TXT jest konwertowany na PPT w określonej ścieżce.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -33,7 +33,7 @@ To głównie w dwóch krokach. Najpierw użyj API [Aspose.Words for Python via .
 
 - Do konwersji TXT na PPT wymagany jest Python 3.5 lub nowszy
 - Odwołaj się do API w ramach projektu bezpośrednio z PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) i [Aspose.Words](https://pypi.org/project/aspose-words/)) lub
-- Użyj następujących poleceń pip ```pip install aspose.slides``` i ```pip install aspose.words```. Ponadto,
+- Użyj następujących poleceń pip ```pip install aspose.slides``` i ```pip install aspose.words```. 
 - System operacyjny oparty na Microsoft Windows lub Linux (zobacz więcej dla [Slides](https://docs.aspose.com/slides/python-net/system-requirements/) i [Words](https://docs.aspose.com/words/python-net/system-requirements/)) oraz dla Linuxa sprawdź dodatkowe wymagania dla gcc i libpython i postępuj zgodnie z instrukcjami krok po kroku [INSTALL](https://docs.aspose.com/words/python-net/installation/).
  
 
@@ -54,7 +54,20 @@ To głównie w dwóch krokach. Najpierw użyj API [Aspose.Words for Python via .
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="Inne opcje konwersji" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/txt-to-powerpoint/" name="TXT Do POWERPOINT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/txt-to-ppsx/" name="TXT Do PPSX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/txt-to-pptx/" name="TXT Do PPTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/txt-to-ppt/" name="TXT Do PPT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/txt-to-pot/" name="TXT Do POT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/txt-to-potx/" name="TXT Do POTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/txt-to-potm/" name="TXT Do POTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/txt-to-pptm/" name="TXT Do PPTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/txt-to-ppsm/" name="TXT Do PPSM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/txt-to-pps/" name="TXT Do PPS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/txt-to-odp/" name="TXT Do ODP" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

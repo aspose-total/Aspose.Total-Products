@@ -14,18 +14,18 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Dla programisty Pythona, kto próbuje dodać funkcję konwersji DOT do PPSM w aplikacji? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API może pomóc zautomatyzować proces konwersji. Jest to pełny pakiet różnych interfejsów API obsługujących różne formaty. Więc **Jak przekonwertować DOT na PPSM w Pythonie?**
+Dla programisty Pythona, kto próbuje dodać funkcję konwersji DOT do PPSM w aplikacji? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API może pomóc zautomatyzować proces konwersji. Jest to pełny pakiet różnych interfejsów API obsługujących różne formaty.  
 
 To głównie w dwóch krokach. Najpierw użyj API [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/), aby przekonwertować plik DOT na PDF. Następnie za pomocą programu PowerPoint Python API [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) zapisz utworzony plik PDF w Presentation jako format PPSM. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Konwertuj DOT na PPSM w Pythonie" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Jak przekonwertować DOT na PPSM w Pythonie" %}}
 - **Krok 1** Otwórz źródłowy plik DOT przy użyciu klasy ASSOSE.WORDS.DOCUMENT
 - Zapisz plik DOT w formacie PDF za pomocą metody [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/), podając nazwę pliku i żądaną ścieżkę katalogu.
 -  **Krok 2** Załaduj plik PDF z instancją klasy APOSSE.SLIDES.PRESENTATION
--  Wywołaj metodę `save`, określając ścieżkę pliku wyjściowego i SaveFormat.PPSM jako parametry. Więc twój plik DOT jest konwertowany na PPSM w określonej ścieżce.
+-  Wywołaj metodę `save`, określając ścieżkę pliku wyjściowego i SaveFormat.PPSM jako parametry.  twój plik DOT jest konwertowany na PPSM w określonej ścieżce.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -33,7 +33,7 @@ To głównie w dwóch krokach. Najpierw użyj API [Aspose.Words for Python via .
 
 - Do konwersji DOT na PPSM wymagany jest Python 3.5 lub nowszy
 - Odwołaj się do API w ramach projektu bezpośrednio z PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) i [Aspose.Words](https://pypi.org/project/aspose-words/)) lub
-- Użyj następujących poleceń pip ```pip install aspose.slides``` i ```pip install aspose.words```. Ponadto,
+- Użyj następujących poleceń pip ```pip install aspose.slides``` i ```pip install aspose.words```. 
 - System operacyjny oparty na Microsoft Windows lub Linux (zobacz więcej dla [Slides](https://docs.aspose.com/slides/python-net/system-requirements/) i [Words](https://docs.aspose.com/words/python-net/system-requirements/)) oraz dla Linuxa sprawdź dodatkowe wymagania dla gcc i libpython i postępuj zgodnie z instrukcjami krok po kroku [INSTALL](https://docs.aspose.com/words/python-net/installation/).
  
 
@@ -54,7 +54,20 @@ To głównie w dwóch krokach. Najpierw użyj API [Aspose.Words for Python via .
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="Inne opcje konwersji" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/dot-to-powerpoint/" name="DOT Do POWERPOINT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/dot-to-ppsx/" name="DOT Do PPSX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/dot-to-pptx/" name="DOT Do PPTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/dot-to-ppt/" name="DOT Do PPT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/dot-to-pot/" name="DOT Do POT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/dot-to-potx/" name="DOT Do POTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/dot-to-potm/" name="DOT Do POTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/dot-to-pptm/" name="DOT Do PPTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/dot-to-ppsm/" name="DOT Do PPSM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/dot-to-pps/" name="DOT Do PPS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/dot-to-odp/" name="DOT Do ODP" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

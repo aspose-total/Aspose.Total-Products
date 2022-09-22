@@ -14,14 +14,14 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Egy Python fejlesztő számára, aki ODT-t próbál hozzáadni PPT-konverziós funkcióhoz az alkalmazáson belül? Az [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API segíthet automatizálni a konverziós folyamatot. Különféle API-k teljes csomagja, amelyek különböző formátumokkal foglalkoznak. Így **Hogyan lehet a ODT-t PPT-be konvertálni a Pythonban?**
+Egy Python fejlesztő számára, aki ODT-t próbál hozzáadni PPT-konverziós funkcióhoz az alkalmazáson belül? Az [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API segíthet automatizálni a konverziós folyamatot. Különféle API-k teljes csomagja, amelyek különböző formátumokkal foglalkoznak.  
 
 Főleg két lépésben. Először használja az [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) API-t a ODT-fájl PDF-be konvertálásához. Ezt követően a PowerPoint Python API [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) használatával mentse a létrehozott PDF-fájlt a Prezentációba PPT formátumban. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Konvertálja a ODT-t PPT-be Pythonban" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Hogyan lehet a ODT-t PPT-be konvertálni a Pythonban" %}}
 - **1. lépés** Nyissa meg a forrás ODT fájlt az [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) osztály használatával
 - Mentse el a ODT-fájlt PDF-be az [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) módszerrel a fájlnév és a kívánt könyvtár elérési út megadásával.
 -  **2. lépés** Töltse be az [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) osztály példányát tartalmazó PDF-fájlt
@@ -33,7 +33,7 @@ Főleg két lépésben. Először használja az [Aspose.Words for Python via .NE
 
 - A ODT-ből PPT-be konvertáláshoz Python 3.5 vagy újabb verzió szükséges
 - Referencia API-k a projekten belül közvetlenül a PyPI-ből ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) és [Aspose.Words](https://pypi.org/project/aspose-words/)) vagy
-- Használja a következő pip parancsokat: ```pip install aspose.slides```` és ```pip install aspose.words```. Ráadásul,
+- Használja a következő pip parancsokat: ```pip install aspose.slides```` és ```pip install aspose.words```. 
 - Microsoft Windows vagy Linux alapú operációs rendszer (lásd bővebben az [Slides](https://docs.aspose.com/slides/python-net/system-requirements/) és [Words](https://docs.aspose.com/words/python-net/system-requirements/)), valamint Linux esetén ellenőrizze a gcc és libpython további követelményeit, és kövesse lépésről lépésre az [INSTALL](https://docs.aspose.com/words/python-net/installation/) utasításokat.
  
 
@@ -54,7 +54,20 @@ Főleg két lépésben. Először használja az [Aspose.Words for Python via .NE
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="Egyéb konverziós lehetőségek" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/odt-to-powerpoint/" name="ODT Nak nek POWERPOINT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/odt-to-ppsx/" name="ODT Nak nek PPSX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/odt-to-pptx/" name="ODT Nak nek PPTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/odt-to-ppt/" name="ODT Nak nek PPT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/odt-to-pot/" name="ODT Nak nek POT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/odt-to-potx/" name="ODT Nak nek POTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/odt-to-potm/" name="ODT Nak nek POTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/odt-to-pptm/" name="ODT Nak nek PPTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/odt-to-ppsm/" name="ODT Nak nek PPSM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/odt-to-pps/" name="ODT Nak nek PPS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/odt-to-odp/" name="ODT Nak nek ODP" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

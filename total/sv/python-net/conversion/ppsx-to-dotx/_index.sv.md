@@ -14,19 +14,19 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-För en Python-utvecklare, vem försöker lägga till en PPSX till DOTX-konverteringsfunktion i applikationen? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API kan hjälpa till att automatisera konverteringsprocessen. Det är ett komplett paket med olika API:er som hanterar olika format. Så **Hur konverterar man PPSX till DOTX i Python?**
+För en Python-utvecklare, vem försöker lägga till en PPSX till DOTX-konverteringsfunktion i applikationen? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API kan hjälpa till att automatisera konverteringsprocessen. Det är ett komplett paket med olika API:er som hanterar olika format.  
 
 Det är främst i två steg. Använd först [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) API för att konvertera PPSX-fil till PDF. Efter det genom att använda Microsoft Word Python API [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/), spara den skapade PDF-filen i Microsoft Word som ett DOTX-format. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Konvertera PPSX till DOTX i Python" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Hur konverterar man PPSX till DOTX i Python" %}}
 -  **Steg 1** Ladda PDF-fil med en instans av klassen [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
--  Anropa 'spara'-metoden samtidigt som du anger sökvägen för utdatafilen & SaveFormat.PDF som parametrar. Så din PPSX-fil konverteras till PDF på den angivna sökvägen.
+-  Anropa 'spara'-metoden samtidigt som du anger sökvägen för utdatafilen & SaveFormat.PDF som parametrar.  din PPSX-fil konverteras till PDF på den angivna sökvägen.
 - **Steg 2** Öppna PDF-filen med [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)-klassen
 - Spara PDF-fil till DOTX-fil genom att använda metoden [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) genom att ange filnamnet och önskad katalogsökväg.
-- Här är ytterligare ett kodavsnitt för PowerPoint-presentation till Word (Microsoft Powerpoint to Word)[https://products.aspose.com/total/python-net/conversion/]-konvertering.
+- Här är ytterligare ett kodavsnitt för PowerPoint-presentation till Word [Microsoft Powerpoint to Word](https://products.aspose.com/total/python-net/conversion/)-konvertering.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -34,7 +34,7 @@ Det är främst i två steg. Använd först [Aspose.Slides for Python via .NET](
 
 - För PPSX till DOTX-konvertering krävs Python 3.5 eller senare
 - Referera API:er inom projektet direkt från PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) och [Aspose.Words](https://pypi.org/project/aspose-words/)) eller
-- Använd följande pip-kommandon ```pip install aspose.slides``` och ```pip install aspose.words```. Dessutom,
+- Använd följande pip-kommandon ```pip install aspose.slides``` och ```pip install aspose.words```. 
 - Microsoft Windows eller Linux-baserade operativsystem (se mer för [Slides](https://docs.aspose.com/slides/python-net/system-requirements/) och [Words](https://docs.aspose.com/words/python-net/system-requirements/)) och för Linux kontrollera ytterligare krav för gcc och libpython och följ steg-för-steg-instruktionerna [INSTALL](https://docs.aspose.com/words/python-net/installation/).
  
 
@@ -55,7 +55,17 @@ Det är främst i två steg. Använd först [Aspose.Slides for Python via .NET](
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andra konverteringsalternativ" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/ppsx-to-word/" name="PPSX Till WORD" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/ppsx-to-doc/" name="PPSX Till DOC" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/ppsx-to-dot/" name="PPSX Till DOT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/ppsx-to-docx/" name="PPSX Till DOCX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/ppsx-to-docm/" name="PPSX Till DOCM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/ppsx-to-dotx/" name="PPSX Till DOTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/ppsx-to-dotm/" name="PPSX Till DOTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/ppsx-to-rtf/" name="PPSX Till RTF" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -14,18 +14,18 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi OTT ke PPSX di dalam aplikasi? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API dapat membantu mengotomatiskan proses konversi. Ini adalah paket lengkap dari berbagai API yang menangani format berbeda. Jadi **Bagaimana Mengkonversi OTT ke PPSX dengan Python?**
+Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi OTT ke PPSX di dalam aplikasi? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API dapat membantu mengotomatiskan proses konversi. Ini adalah paket lengkap dari berbagai API yang menangani format berbeda.  
 
 Ini terutama dalam dua langkah. Pertama gunakan [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) API untuk mengonversi file OTT ke PDF. Setelah itu dengan menggunakan PowerPoint Python API [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/), simpan PDF yang telah dibuat ke dalam Presentation sebagai format PPSX. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Konversi OTT ke PPSX dengan Python" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Bagaimana Mengkonversi OTT ke PPSX dengan Python" %}}
 - **Langkah 1** Buka file OTT sumber menggunakan kelas [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 - Simpan file OTT ke PDF dengan menggunakan metode [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) dengan memberikan nama file dan path direktori yang diinginkan.
 -  **Langkah 2** Muat file PDF dengan instance kelas [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
--  Panggil metode `save` saat menentukan jalur file keluaran & SaveFormat.PPSX sebagai parameter. Jadi file OTT Anda dikonversi ke PPSX di jalur yang ditentukan.
+-  Panggil metode `save` saat menentukan jalur file keluaran & SaveFormat.PPSX sebagai parameter.  file OTT Anda dikonversi ke PPSX di jalur yang ditentukan.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -33,7 +33,7 @@ Ini terutama dalam dua langkah. Pertama gunakan [Aspose.Words for Python via .NE
 
 - Untuk konversi OTT ke PPSX, Python 3.5 atau lebih baru diperlukan
 - Referensi API dalam proyek langsung dari PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) dan [Aspose.Words](https://pypi.org/project/aspose-words/)) atau
-- Gunakan perintah pip berikut ```pip install aspose.slides``` dan ```pip install aspose.words```. Lebih-lebih lagi,
+- Gunakan perintah pip berikut ```pip install aspose.slides``` dan ```pip install aspose.words```. 
 - OS berbasis Microsoft Windows atau Linux (lihat selengkapnya untuk [Slides](https://docs.aspose.com/slides/python-net/system-requirements/) dan [Words](https://docs.aspose.com/words/python-net/system-requirements/)) dan untuk Linux periksa persyaratan tambahan untuk gcc dan libpython dan ikuti petunjuk langkah demi langkah [INSTALL](https://docs.aspose.com/words/python-net/installation/).
  
 
@@ -54,7 +54,20 @@ Ini terutama dalam dua langkah. Pertama gunakan [Aspose.Words for Python via .NE
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="Opsi Konversi Lainnya" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/ott-to-powerpoint/" name="OTT Ke POWERPOINT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/ott-to-ppsx/" name="OTT Ke PPSX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/ott-to-pptx/" name="OTT Ke PPTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/ott-to-ppt/" name="OTT Ke PPT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/ott-to-pot/" name="OTT Ke POT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/ott-to-potx/" name="OTT Ke POTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/ott-to-potm/" name="OTT Ke POTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/ott-to-pptm/" name="OTT Ke PPTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/ott-to-ppsm/" name="OTT Ke PPSM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/ott-to-pps/" name="OTT Ke PPS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/ott-to-odp/" name="OTT Ke ODP" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

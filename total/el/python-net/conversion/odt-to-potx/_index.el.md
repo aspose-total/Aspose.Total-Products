@@ -14,18 +14,18 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Για έναν προγραμματιστή Python, που προσπαθεί να προσθέσει μια δυνατότητα μετατροπής ODT σε POTX εντός της εφαρμογής; Το [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API μπορεί να βοηθήσει στην αυτοματοποίηση της διαδικασίας μετατροπής. Είναι ένα πλήρες πακέτο διαφόρων API που αφορούν διαφορετικές μορφές. Έτσι **Πώς να μετατρέψετε το ODT σε POTX στην Python;**
+Για έναν προγραμματιστή Python, που προσπαθεί να προσθέσει μια δυνατότητα μετατροπής ODT σε POTX εντός της εφαρμογής; Το [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API μπορεί να βοηθήσει στην αυτοματοποίηση της διαδικασίας μετατροπής. Είναι ένα πλήρες πακέτο διαφόρων API που αφορούν διαφορετικές μορφές.  
 
 Είναι κυρίως σε δύο βήματα. Αρχικά χρησιμοποιήστε το [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) API για να μετατρέψετε το αρχείο ODT σε PDF. Στη συνέχεια, χρησιμοποιώντας το PowerPoint Python API [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/), αποθηκεύστε το PDF που δημιουργήθηκε στην Παρουσίαση ως μορφή POTX. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Μετατροπή ODT σε POTX στην Python" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Πώς να μετατρέψετε το ODT σε POTX στην Python;" %}}
 - **Βήμα 1** Ανοίξτε το αρχείο προέλευσης ODT χρησιμοποιώντας την κλάση [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 - Αποθηκεύστε το αρχείο ODT σε PDF χρησιμοποιώντας τη μέθοδο [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) παρέχοντας το όνομα του αρχείου και την επιθυμητή διαδρομή καταλόγου.
 -  **Βήμα 2** Φόρτωση αρχείου PDF με μια παρουσία της κλάσης [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
--  Καλέστε τη μέθοδο «αποθήκευση» ενώ προσδιορίζετε τη διαδρομή αρχείου εξόδου και το SaveFormat.POTX ως παραμέτρους. Έτσι, το αρχείο ODT μετατρέπεται σε POTX στην καθορισμένη διαδρομή.
+-  Καλέστε τη μέθοδο «αποθήκευση» ενώ προσδιορίζετε τη διαδρομή αρχείου εξόδου και το SaveFormat.POTX ως παραμέτρους. , το αρχείο ODT μετατρέπεται σε POTX στην καθορισμένη διαδρομή.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -33,7 +33,7 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 - Για τη μετατροπή ODT σε POTX, απαιτείται Python 3.5 ή νεότερη έκδοση
 - Αναφορά API εντός του έργου απευθείας από το PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) και [Aspose.Words](https://pypi.org/project/aspose-words/)) ή
-- Χρησιμοποιήστε τις ακόλουθες εντολές pip ```pip install aspose.slides``` και ```pip install aspose.words``. Εξάλλου,
+- Χρησιμοποιήστε τις ακόλουθες εντολές pip ```pip install aspose.slides``` και ```pip install aspose.words``. 
 - ΛΣ Microsoft Windows ή Linux (δείτε περισσότερα για [Slides](https://docs.aspose.com/slides/python-net/system-requirements/) και [Words](https://docs.aspose.com/words/python-net/system-requirements/)) και για Linux ελέγξτε τις πρόσθετες απαιτήσεις για gcc και libpython και ακολουθήστε τις οδηγίες βήμα προς βήμα [INSTALL](https://docs.aspose.com/words/python-net/installation/).
  
 
@@ -54,7 +54,20 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="Άλλες επιλογές μετατροπής" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/odt-to-powerpoint/" name="ODT Προς την POWERPOINT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/odt-to-ppsx/" name="ODT Προς την PPSX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/odt-to-pptx/" name="ODT Προς την PPTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/odt-to-ppt/" name="ODT Προς την PPT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/odt-to-pot/" name="ODT Προς την POT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/odt-to-potx/" name="ODT Προς την POTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/odt-to-potm/" name="ODT Προς την POTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/odt-to-pptm/" name="ODT Προς την PPTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/odt-to-ppsm/" name="ODT Προς την PPSM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/odt-to-pps/" name="ODT Προς την PPS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/odt-to-odp/" name="ODT Προς την ODP" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

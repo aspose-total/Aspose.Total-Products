@@ -14,19 +14,19 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Wer versucht für einen Python-Entwickler, eine PPTM-zu-DOCX-Konvertierungsfunktion in der Anwendung hinzuzufügen? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API kann helfen, den Konvertierungsprozess zu automatisieren. Es ist ein vollständiges Paket verschiedener APIs, die unterschiedliche Formate verarbeiten. So **Wie konvertiert man PPTM in DOCX in Python?**
+Wer versucht für einen Python-Entwickler, eine PPTM-zu-DOCX-Konvertierungsfunktion in der Anwendung hinzuzufügen? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API kann helfen, den Konvertierungsprozess zu automatisieren. Es ist ein vollständiges Paket verschiedener APIs, die unterschiedliche Formate verarbeiten.  
 
 Es ist hauptsächlich in zwei Schritten. Verwenden Sie zunächst die [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)-API, um PPTM-Dateien in PDF zu konvertieren. Speichern Sie danach mit der Microsoft Word Python API [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) das erstellte PDF in Microsoft Word als DOCX-Format. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Konvertieren Sie PPTM in DOCX in Python" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Wie konvertiert man PPTM in DOCX in Python" %}}
 -  **Schritt 1** Laden Sie eine PDF-Datei mit einer Instanz der [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)-Klasse
 -  Rufen Sie die Methode „save“ auf, während Sie den Pfad der Ausgabedatei und SaveFormat.PDF als Parameter angeben. Ihre PPTM-Datei wird also unter dem angegebenen Pfad in PDF konvertiert.
 - **Schritt 2** Öffnen Sie die PDF-Datei mit der Klasse [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 - Speichern Sie eine PDF-Datei in eine DOCX-Datei, indem Sie die [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/)-Methode verwenden, indem Sie den Dateinamen und den gewünschten Verzeichnispfad angeben.
-- Hier ist ein weiteres Code-Snippet für die Umwandlung von PowerPoint-Präsentation in Word (Microsoft Powerpoint to Word)[https://products.aspose.com/total/python-net/conversion/].
+- Hier ist ein weiteres Code-Snippet für die Umwandlung von PowerPoint-Präsentation in Word [Microsoft Powerpoint to Word](https://products.aspose.com/total/python-net/conversion/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -34,7 +34,7 @@ Es ist hauptsächlich in zwei Schritten. Verwenden Sie zunächst die [Aspose.Sli
 
 - Für die Konvertierung von PPTM in DOCX ist Python 3.5 oder höher erforderlich
 - Referenz-APIs innerhalb des Projekts direkt von PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) und [Aspose.Words](https://pypi.org/project/aspose-words/)) oder
-- Verwenden Sie die folgenden Pip-Befehle ```pip install aspose.slides``` und ```pip install aspose.words```. Darüber hinaus,
+- Verwenden Sie die folgenden Pip-Befehle ```pip install aspose.slides``` und ```pip install aspose.words```. 
 - Microsoft Windows- oder Linux-basiertes Betriebssystem (siehe mehr für [Slides](https://docs.aspose.com/slides/python-net/system-requirements/) und [Words](https://docs.aspose.com/words/python-net/system-requirements/)) und für Linux zusätzliche Anforderungen für gcc und libpython prüfen und Schritt-für-Schritt-Anleitung [INSTALL](https://docs.aspose.com/words/python-net/installation/) befolgen.
  
 
@@ -55,7 +55,17 @@ Es ist hauptsächlich in zwei Schritten. Verwenden Sie zunächst die [Aspose.Sli
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andere Konvertierungsoptionen" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/pptm-to-word/" name="PPTM Zu WORD" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/pptm-to-doc/" name="PPTM Zu DOC" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/pptm-to-dot/" name="PPTM Zu DOT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/pptm-to-docx/" name="PPTM Zu DOCX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/pptm-to-docm/" name="PPTM Zu DOCM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/pptm-to-dotx/" name="PPTM Zu DOTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/pptm-to-dotm/" name="PPTM Zu DOTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/pptm-to-rtf/" name="PPTM Zu RTF" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

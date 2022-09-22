@@ -14,19 +14,19 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Egy Python-fejlesztő számára, aki POWERPOINT-t próbál hozzáadni DOTX-konverziós funkcióhoz az alkalmazáson belül? Az [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API segíthet automatizálni a konverziós folyamatot. Különféle API-k teljes csomagja, amelyek különböző formátumokkal foglalkoznak. Így **Hogyan lehet a POWERPOINT-t DOTX-be konvertálni a Pythonban?**
+Egy Python-fejlesztő számára, aki POWERPOINT-t próbál hozzáadni DOTX-konverziós funkcióhoz az alkalmazáson belül? Az [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API segíthet automatizálni a konverziós folyamatot. Különféle API-k teljes csomagja, amelyek különböző formátumokkal foglalkoznak.  
 
 Főleg két lépésben. Először használja az [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) API-t a POWERPOINT-fájlok PDF-be konvertálásához. Ezt követően a Microsoft Word Python API [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) használatával mentse el a létrehozott PDF-fájlt a Microsoft Wordbe DOTX formátumban. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Konvertálja a POWERPOINT-t DOTX-be Pythonban" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Hogyan lehet a POWERPOINT-t DOTX-be konvertálni a Pythonban" %}}
 -  **1. lépés** Töltse be az [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) osztály egy példányát tartalmazó PDF-fájlt
 -  Hívja meg a "save" metódust, miközben paraméterként adja meg a kimeneti fájl elérési útját és a SaveFormat.PDF fájlt. Tehát a POWERPOINT fájl PDF-be konvertálva a megadott elérési úton.
 - **2. lépés** Nyissa meg a PDF fájlt az [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) osztály segítségével
 - Mentse el a PDF-fájlt DOTX-fájlba az [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) metódussal a fájlnév és a kívánt könyvtár elérési út megadásával.
-- Íme egy másik kódrészlet a PowerPoint Presentation for Word (Microsoft Powerpoint to Word)[https://products.aspose.com/total/python-net/conversion/] konverziójához.
+- Íme egy másik kódrészlet a PowerPoint Presentation for Word [Microsoft Powerpoint to Word](https://products.aspose.com/total/python-net/conversion/) konverziójához.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -34,7 +34,7 @@ Főleg két lépésben. Először használja az [Aspose.Slides for Python via .N
 
 - A POWERPOINT-ből DOTX-be konvertáláshoz Python 3.5 vagy újabb verzió szükséges
 - Referencia API-k a projekten belül közvetlenül a PyPI-ből ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) és [Aspose.Words](https://pypi.org/project/aspose-words/)) vagy
-- Használja a következő pip parancsokat: ```pip install aspose.slides```` és ```pip install aspose.words```. Ráadásul,
+- Használja a következő pip parancsokat: ```pip install aspose.slides```` és ```pip install aspose.words```. 
 - Microsoft Windows vagy Linux alapú operációs rendszer (lásd bővebben az [Slides](https://docs.aspose.com/slides/python-net/system-requirements/) és [Words](https://docs.aspose.com/words/python-net/system-requirements/)), valamint Linux esetén ellenőrizze a gcc és libpython további követelményeit, és kövesse lépésről lépésre az [INSTALL](https://docs.aspose.com/words/python-net/installation/) utasításokat.
  
 
@@ -55,7 +55,17 @@ Főleg két lépésben. Először használja az [Aspose.Slides for Python via .N
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="Egyéb konverziós lehetőségek" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/powerpoint-to-word/" name="POWERPOINT Nak nek WORD" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/powerpoint-to-doc/" name="POWERPOINT Nak nek DOC" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/powerpoint-to-dot/" name="POWERPOINT Nak nek DOT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/powerpoint-to-docx/" name="POWERPOINT Nak nek DOCX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/powerpoint-to-docm/" name="POWERPOINT Nak nek DOCM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/powerpoint-to-dotx/" name="POWERPOINT Nak nek DOTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/powerpoint-to-dotm/" name="POWERPOINT Nak nek DOTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/powerpoint-to-rtf/" name="POWERPOINT Nak nek RTF" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

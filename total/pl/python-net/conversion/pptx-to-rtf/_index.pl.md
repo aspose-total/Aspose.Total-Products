@@ -14,19 +14,19 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Dla programisty Pythona, kto próbuje dodać funkcję konwersji PPTX do RTF w aplikacji? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API może pomóc zautomatyzować proces konwersji. Jest to pełny pakiet różnych interfejsów API obsługujących różne formaty. Więc **Jak przekonwertować PPTX na RTF w Pythonie?**
+Dla programisty Pythona, kto próbuje dodać funkcję konwersji PPTX do RTF w aplikacji? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API może pomóc zautomatyzować proces konwersji. Jest to pełny pakiet różnych interfejsów API obsługujących różne formaty.  
 
 To głównie w dwóch krokach. Najpierw użyj API APOSSE.SLIDES, aby przekonwertować plik PPTX do formatu PDF. Następnie za pomocą programu Microsoft Word Python API [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) zapisz utworzony plik PDF w programie Microsoft Word jako format RTF. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Konwertuj PPTX na RTF w Pythonie" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Jak przekonwertować PPTX na RTF w Pythonie" %}}
 -  **Krok 1** Załaduj plik PDF z instancją klasy APOSSE.SLIDES.PRESENTATION
--  Wywołaj metodę `save`, określając ścieżkę pliku wyjściowego i SaveFormat.PDF jako parametry. Więc twój plik PPTX jest konwertowany do formatu PDF w określonej ścieżce.
+-  Wywołaj metodę `save`, określając ścieżkę pliku wyjściowego i SaveFormat.PDF jako parametry.  twój plik PPTX jest konwertowany do formatu PDF w określonej ścieżce.
 - **Krok 2** Otwórz plik PDF za pomocą klasy [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 - Zapisz plik PDF do pliku RTF za pomocą metody [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) podając nazwę pliku i żądaną ścieżkę katalogu.
-- Oto kolejny fragment kodu do konwersji prezentacji PowerPoint do programu Word (Microsoft Powerpoint to Word)[https://products.aspose.com/total/python-net/conversion/].
+- Oto kolejny fragment kodu do konwersji prezentacji PowerPoint do programu Word [Microsoft Powerpoint to Word](https://products.aspose.com/total/python-net/conversion/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -34,7 +34,7 @@ To głównie w dwóch krokach. Najpierw użyj API APOSSE.SLIDES, aby przekonwert
 
 - Do konwersji PPTX na RTF wymagany jest Python 3.5 lub nowszy
 - Odwołaj się do API w ramach projektu bezpośrednio z PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) i [Aspose.Words](https://pypi.org/project/aspose-words/)) lub
-- Użyj następujących poleceń pip ```pip install aspose.slides``` i ```pip install aspose.words```. Ponadto,
+- Użyj następujących poleceń pip ```pip install aspose.slides``` i ```pip install aspose.words```. 
 - System operacyjny oparty na Microsoft Windows lub Linux (zobacz więcej dla [Slides](https://docs.aspose.com/slides/python-net/system-requirements/) i [Words](https://docs.aspose.com/words/python-net/system-requirements/)) oraz dla Linuxa sprawdź dodatkowe wymagania dla gcc i libpython i postępuj zgodnie z instrukcjami krok po kroku [INSTALL](https://docs.aspose.com/words/python-net/installation/).
  
 
@@ -55,7 +55,17 @@ To głównie w dwóch krokach. Najpierw użyj API APOSSE.SLIDES, aby przekonwert
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="Inne opcje konwersji" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/pptx-to-word/" name="PPTX Do WORD" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/pptx-to-doc/" name="PPTX Do DOC" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/pptx-to-dot/" name="PPTX Do DOT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/pptx-to-docx/" name="PPTX Do DOCX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/pptx-to-docm/" name="PPTX Do DOCM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/pptx-to-dotx/" name="PPTX Do DOTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/pptx-to-dotm/" name="PPTX Do DOTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/pptx-to-rtf/" name="PPTX Do RTF" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

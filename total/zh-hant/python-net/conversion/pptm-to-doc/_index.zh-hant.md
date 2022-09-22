@@ -14,19 +14,19 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-對於 Python 開發人員，誰正在嘗試在應用程序中添加 PPTM 到 DOC 轉換功能？ [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API 可以幫助自動化轉換過程。它是處理不同格式的各種 API 的完整包。 所以 **如何在 Python 中將 PPTM 轉換為 DOC？**
+對於 Python 開發人員，誰正在嘗試在應用程序中添加 PPTM 到 DOC 轉換功能？ [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API 可以幫助自動化轉換過程。它是處理不同格式的各種 API 的完整包。  
 
 主要分兩步。 首先使用 [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) API 將 PPTM 文件轉換為 PDF。 之後，使用 Microsoft Word Python API [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)，將創建的 PDF 以 DOC 格式保存到 Microsoft Word 中。 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="在 Python 中將 PPTM 轉換為 DOC" %}}
+{{% blocks/products/pf/agp/feature-section-col title="如何在 Python 中將 PPTM 轉換為 DOC？" %}}
 -  **步驟1** 使用 [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) 類的實例加載 PDF 文件
 -  在指定輸出文件路徑和 SaveFormat.PDF 作為參數時調用 `save` 方法。 因此，您的 PPTM 文件將在指定路徑轉換為 PDF。
 - **第2步** 使用 [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) 類打開 PDF 文件
 - 通過提供文件名和所需的目錄路徑，使用 [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) 方法將 PDF 文件保存為 DOC 文件。
-- 這是 PowerPoint 演示文稿到 Word (Microsoft Powerpoint to Word)[https://products.aspose.com/total/python-net/conversion/] 轉換的另一個代碼片段。
+- 這是 PowerPoint 演示文稿到 Word [Microsoft Powerpoint to Word](https://products.aspose.com/total/python-net/conversion/) 轉換的另一個代碼片段。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -34,7 +34,7 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 - 對於 PPTM 到 DOC 的轉換，需要 Python 3.5 或更高版本
 - 直接從 PyPI（[Aspose.Slides](https://pypi.org/project/Aspose.Slides/) 和 [Aspose.Words](https://pypi.org/project/aspose-words/)）引用項目中的 API 或
-- 使用以下 pip 命令 ```pip install aspose.slides``` 和 ```pip install aspose.words```。 而且，
+- 使用以下 pip 命令 ```pip install aspose.slides``` 和 ```pip install aspose.words```。 
 - 基於 Microsoft Windows 或 Linux 的操作系統（請參閱更多有關 [Slides](https://docs.aspose.com/slides/python-net/system-requirements/) 和 [Words](https://docs.aspose.com/words/python-net/system-requirements/) 的信息）和 Linux 檢查 gcc 和 libpython 的附加要求，並按照 [INSTALL](https://docs.aspose.com/words/python-net/installation/) 的分步說明進行操作。
  
 
@@ -55,7 +55,17 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="其他轉換選項" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/python-net/conversion/pptm-to-word/" name="PPTM 至 WORD" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/python-net/conversion/pptm-to-doc/" name="PPTM 至 DOC" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/python-net/conversion/pptm-to-dot/" name="PPTM 至 DOT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/python-net/conversion/pptm-to-docx/" name="PPTM 至 DOCX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/python-net/conversion/pptm-to-docm/" name="PPTM 至 DOCM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/python-net/conversion/pptm-to-dotx/" name="PPTM 至 DOTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/python-net/conversion/pptm-to-dotm/" name="PPTM 至 DOTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/python-net/conversion/pptm-to-rtf/" name="PPTM 至 RTF" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

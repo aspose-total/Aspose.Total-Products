@@ -14,14 +14,14 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conversione da DOCX a ODP all'interno dell'applicazione? L'API [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) può aiutare ad automatizzare il processo di conversione. È un pacchetto completo di varie API che gestiscono formati diversi. Così **Come convertire DOCX in ODP in Python?**
+Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conversione da DOCX a ODP all'interno dell'applicazione? L'API [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) può aiutare ad automatizzare il processo di conversione. È un pacchetto completo di varie API che gestiscono formati diversi.  
 
 È principalmente in due passaggi. Per prima cosa usa l'API [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) per convertire il file DOCX in PDF. Successivamente, utilizzando l'API Python di PowerPoint [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/), salva il PDF creato in Presentazione come formato ODP. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Converti DOCX in ODP in Python" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Come convertire DOCX in ODP in Python" %}}
 - **Passo 1** Aprire il file DOCX di origine utilizzando la classe [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 - Salva il file DOCX in PDF utilizzando il metodo [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) fornendo il nome del file e il percorso della directory desiderata.
 -  **Passo 2** Carica il file PDF con un'istanza della classe [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
@@ -33,7 +33,7 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 - Per la conversione da DOCX a ODP, è richiesto Python 3.5 o successivo
 - API di riferimento all'interno del progetto direttamente da PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) e [Aspose.Words](https://pypi.org/project/aspose-words/)) o
-- Utilizzare i seguenti comandi pip ```pip install aspose.slides``` e ```pip install aspose.words```. Inoltre,
+- Utilizzare i seguenti comandi pip ```pip install aspose.slides``` e ```pip install aspose.words```. 
 - Sistema operativo basato su Microsoft Windows o Linux (vedi altro per [Slides](https://docs.aspose.com/slides/python-net/system-requirements/) e [Words](https://docs.aspose.com/words/python-net/system-requirements/)) e per Linux controlla i requisiti aggiuntivi per gcc e libpython e segui passo passo le istruzioni [INSTALL](https://docs.aspose.com/words/python-net/installation/).
  
 
@@ -54,7 +54,20 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altre opzioni di conversione" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/python-net/conversion/docx-to-powerpoint/" name="DOCX Per POWERPOINT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/python-net/conversion/docx-to-ppsx/" name="DOCX Per PPSX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/python-net/conversion/docx-to-pptx/" name="DOCX Per PPTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/python-net/conversion/docx-to-ppt/" name="DOCX Per PPT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/python-net/conversion/docx-to-pot/" name="DOCX Per POT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/python-net/conversion/docx-to-potx/" name="DOCX Per POTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/python-net/conversion/docx-to-potm/" name="DOCX Per POTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/python-net/conversion/docx-to-pptm/" name="DOCX Per PPTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/python-net/conversion/docx-to-ppsm/" name="DOCX Per PPSM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/python-net/conversion/docx-to-pps/" name="DOCX Per PPS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/python-net/conversion/docx-to-odp/" name="DOCX Per ODP" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

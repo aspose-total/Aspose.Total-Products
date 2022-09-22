@@ -14,18 +14,18 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-För en Python-utvecklare, vem försöker lägga till en RTF till POTM-konverteringsfunktion i applikationen? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API kan hjälpa till att automatisera konverteringsprocessen. Det är ett komplett paket med olika API:er som hanterar olika format. Så **Hur konverterar man RTF till POTM i Python?**
+För en Python-utvecklare, vem försöker lägga till en RTF till POTM-konverteringsfunktion i applikationen? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API kan hjälpa till att automatisera konverteringsprocessen. Det är ett komplett paket med olika API:er som hanterar olika format.  
 
 Det är främst i två steg. Använd först [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) API för att konvertera RTF-fil till PDF. Efter det genom att använda PowerPoint Python API [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/), spara den skapade PDF-filen i Presentation som ett POTM-format. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Konvertera RTF till POTM i Python" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Hur konverterar man RTF till POTM i Python" %}}
 - **Steg 1** Öppna käll-RTF-filen med [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)-klassen
 - Spara RTF-fil till PDF genom att använda metoden [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) genom att ange filnamnet och önskad katalogsökväg.
 -  **Steg 2** Ladda PDF-fil med en instans av klassen [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
--  Anropa 'spara'-metoden samtidigt som du anger sökvägen för utdatafilen & SaveFormat.POTM som parametrar. Så din RTF-fil konverteras till POTM på den angivna sökvägen.
+-  Anropa 'spara'-metoden samtidigt som du anger sökvägen för utdatafilen & SaveFormat.POTM som parametrar.  din RTF-fil konverteras till POTM på den angivna sökvägen.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -33,7 +33,7 @@ Det är främst i två steg. Använd först [Aspose.Words for Python via .NET](h
 
 - För RTF till POTM-konvertering krävs Python 3.5 eller senare
 - Referera API:er inom projektet direkt från PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) och [Aspose.Words](https://pypi.org/project/aspose-words/)) eller
-- Använd följande pip-kommandon ```pip install aspose.slides``` och ```pip install aspose.words```. Dessutom,
+- Använd följande pip-kommandon ```pip install aspose.slides``` och ```pip install aspose.words```. 
 - Microsoft Windows eller Linux-baserade operativsystem (se mer för [Slides](https://docs.aspose.com/slides/python-net/system-requirements/) och [Words](https://docs.aspose.com/words/python-net/system-requirements/)) och för Linux kontrollera ytterligare krav för gcc och libpython och följ steg-för-steg-instruktionerna [INSTALL](https://docs.aspose.com/words/python-net/installation/).
  
 
@@ -54,7 +54,20 @@ Det är främst i två steg. Använd först [Aspose.Words for Python via .NET](h
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andra konverteringsalternativ" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/rtf-to-powerpoint/" name="RTF Till POWERPOINT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/rtf-to-ppsx/" name="RTF Till PPSX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/rtf-to-pptx/" name="RTF Till PPTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/rtf-to-ppt/" name="RTF Till PPT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/rtf-to-pot/" name="RTF Till POT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/rtf-to-potx/" name="RTF Till POTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/rtf-to-potm/" name="RTF Till POTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/rtf-to-pptm/" name="RTF Till PPTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/rtf-to-ppsm/" name="RTF Till PPSM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/rtf-to-pps/" name="RTF Till PPS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/rtf-to-odp/" name="RTF Till ODP" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

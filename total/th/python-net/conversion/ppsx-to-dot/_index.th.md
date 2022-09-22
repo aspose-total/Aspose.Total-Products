@@ -14,19 +14,19 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-สำหรับนักพัฒนา Python ใครกำลังพยายามเพิ่มคุณสมบัติการแปลง PPSX เป็น DOT ภายในแอปพลิเคชัน ? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API สามารถช่วยทำให้กระบวนการแปลงเป็นไปโดยอัตโนมัติ เป็นแพ็คเกจเต็มรูปแบบของ API ต่างๆ ที่จัดการรูปแบบต่างๆ ดังนั้น **วิธีแปลง PPSX เป็น DOT ใน Python**
+สำหรับนักพัฒนา Python ใครกำลังพยายามเพิ่มคุณสมบัติการแปลง PPSX เป็น DOT ภายในแอปพลิเคชัน ? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API สามารถช่วยทำให้กระบวนการแปลงเป็นไปโดยอัตโนมัติ เป็นแพ็คเกจเต็มรูปแบบของ API ต่างๆ ที่จัดการรูปแบบต่างๆ  
 
 ส่วนใหญ่อยู่ในสองขั้นตอน ขั้นแรก ใช้ [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) API เพื่อแปลงไฟล์ PPSX เป็น PDF หลังจากนั้นโดยใช้ Microsoft Word Python API [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) บันทึก PDF ที่สร้างขึ้นลงใน Microsoft Word เป็นรูปแบบ DOT 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="แปลง PPSX เป็น DOT ใน Python" %}}
+{{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง PPSX เป็น DOT ใน Python" %}}
 -  **ขั้นตอนที่ 1** โหลดไฟล์ PDF ด้วยอินสแตนซ์ของคลาส [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
--  เรียกใช้เมธอด `บันทึก' ขณะที่ระบุพาธไฟล์เอาต์พุต & SaveFormat.PDF เป็นพารามิเตอร์ ดังนั้นไฟล์ PPSX ของคุณจะถูกแปลงเป็น PDF ตามเส้นทางที่ระบุ
+-  เรียกใช้เมธอด `บันทึก' ขณะที่ระบุพาธไฟล์เอาต์พุต & SaveFormat.PDF เป็นพารามิเตอร์ ไฟล์ PPSX ของคุณจะถูกแปลงเป็น PDF ตามเส้นทางที่ระบุ
 - **ขั้นตอนที่ 2** เปิดไฟล์ PDF โดยใช้คลาส [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 - บันทึกไฟล์ PDF เป็นไฟล์ DOT โดยใช้วิธีการ [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) โดยระบุชื่อไฟล์และเส้นทางไดเรกทอรีที่ต้องการ
-- นี่คือข้อมูลโค้ดอื่นสำหรับการนำเสนอ PowerPoint เป็น Word (Microsoft Powerpoint to Word)[https://products.aspose.com/total/python-net/conversion/] Conversion
+- นี่คือข้อมูลโค้ดอื่นสำหรับการนำเสนอ PowerPoint เป็น Word [Microsoft Powerpoint to Word](https://products.aspose.com/total/python-net/conversion/) Conversion
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -34,7 +34,7 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 - สำหรับการแปลง PPSX เป็น DOT จำเป็นต้องใช้ Python 3.5 หรือใหม่กว่า
 - อ้างอิง API ภายในโครงการโดยตรงจาก PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) และ [Aspose.Words](https://pypi.org/project/aspose-words/)) หรือ
-- ใช้คำสั่ง pip ต่อไปนี้ ```pip install aspose.slides``` และ ```pip install aspose.words``` นอกจากนี้,
+- ใช้คำสั่ง pip ต่อไปนี้ ```pip install aspose.slides``` และ ```pip install aspose.words``` 
 - ระบบปฏิบัติการที่ใช้ Microsoft Windows หรือ Linux (ดูเพิ่มเติมสำหรับ [Slides](https://docs.aspose.com/slides/python-net/system-requirements/) และ [Words](https://docs.aspose.com/words/python-net/system-requirements/)) และสำหรับ Linux ให้ตรวจสอบข้อกำหนดเพิ่มเติมสำหรับ gcc และ libpython และทำตามคำแนะนำทีละขั้นตอน [INSTALL](https://docs.aspose.com/words/python-net/installation/)
  
 
@@ -55,7 +55,17 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="ตัวเลือกการแปลงอื่น ๆ" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/conversion/ppsx-to-word/" name="PPSX ถึง WORD" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/conversion/ppsx-to-doc/" name="PPSX ถึง DOC" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/conversion/ppsx-to-dot/" name="PPSX ถึง DOT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/conversion/ppsx-to-docx/" name="PPSX ถึง DOCX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/conversion/ppsx-to-docm/" name="PPSX ถึง DOCM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/conversion/ppsx-to-dotx/" name="PPSX ถึง DOTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/conversion/ppsx-to-dotm/" name="PPSX ถึง DOTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/conversion/ppsx-to-rtf/" name="PPSX ถึง RTF" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

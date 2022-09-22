@@ -14,18 +14,18 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Для разработчика Python, который пытается добавить функцию преобразования DOCX в POWERPOINT в приложение? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API может помочь автоматизировать процесс конвертации. Это полный пакет различных API, работающих с разными форматами. Так **Как преобразовать DOCX в POWERPOINT в Python?**
+Для разработчика Python, который пытается добавить функцию преобразования DOCX в POWERPOINT в приложение? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API может помочь автоматизировать процесс конвертации. Это полный пакет различных API, работающих с разными форматами.  
 
 Это в основном в два этапа. Сначала используйте API [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) для преобразования файла DOCX в PDF. После этого с помощью PowerPoint API Python [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) сохраните созданный PDF-файл в презентацию в формате POWERPOINT. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Преобразование DOCX в POWERPOINT в Python" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Как преобразовать DOCX в POWERPOINT в Python" %}}
 - **Шаг 1** Откройте исходный файл DOCX, используя класс [Document](https://reference.aspose.com/words/python-net/aspose.words/document/).
 - Сохраните файл DOCX в PDF, используя метод [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/), указав имя файла и путь к нужному каталогу.
 -  **Шаг 2** Загрузите файл PDF с экземпляром класса [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/).
--  Вызовите метод `save`, указав путь к выходному файлу и SaveFormat.POWERPOINT в качестве параметров. Таким образом, ваш файл DOCX преобразуется в POWERPOINT по указанному пути.
+-  Вызовите метод `save`, указав путь к выходному файлу и SaveFormat.POWERPOINT в качестве параметров. им образом, ваш файл DOCX преобразуется в POWERPOINT по указанному пути.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -33,7 +33,7 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 - Для преобразования DOCX в POWERPOINT требуется Python 3.5 или более поздней версии.
 - Ссылочные API внутри проекта непосредственно из PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) и [Aspose.Words](https://pypi.org/project/aspose-words/)) или
-- Используйте следующие команды pip ```pip install aspose.slides``` и ```pip install aspose.words```. Более того,
+- Используйте следующие команды pip ```pip install aspose.slides``` и ```pip install aspose.words```. 
 - ОС на базе Microsoft Windows или Linux (дополнительную информацию см. в [Slides](https://docs.aspose.com/slides/python-net/system-requirements/) и [Words](https://docs.aspose.com/words/python-net/system-requirements/)) и для Linux проверьте дополнительные требования для gcc и libpython и следуйте пошаговым инструкциям [INSTALL](https://docs.aspose.com/words/python-net/installation/).
  
 
@@ -54,7 +54,20 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="Другие варианты преобразования" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/docx-to-powerpoint/" name="DOCX К POWERPOINT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/docx-to-ppsx/" name="DOCX К PPSX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/docx-to-pptx/" name="DOCX К PPTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/docx-to-ppt/" name="DOCX К PPT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/docx-to-pot/" name="DOCX К POT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/docx-to-potx/" name="DOCX К POTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/docx-to-potm/" name="DOCX К POTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/docx-to-pptm/" name="DOCX К PPTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/docx-to-ppsm/" name="DOCX К PPSM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/docx-to-pps/" name="DOCX К PPS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/docx-to-odp/" name="DOCX К ODP" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

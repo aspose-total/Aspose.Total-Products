@@ -14,19 +14,19 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Для разработчика Python, который пытается добавить функцию преобразования PPS в DOT в приложение? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API может помочь автоматизировать процесс конвертации. Это полный пакет различных API, работающих с разными форматами. Так **Как преобразовать PPS в DOT в Python?**
+Для разработчика Python, который пытается добавить функцию преобразования PPS в DOT в приложение? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API может помочь автоматизировать процесс конвертации. Это полный пакет различных API, работающих с разными форматами.  
 
 Это в основном в два этапа. Сначала используйте API [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) для преобразования файла PPS в PDF. После этого с помощью Microsoft Word Python API [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) сохраните созданный PDF-файл в Microsoft Word в формате DOT. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Преобразование PPS в DOT в Python" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Как преобразовать PPS в DOT в Python" %}}
 -  **Шаг 1** Загрузите файл PDF с экземпляром класса [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/).
--  Вызовите метод `save`, указав путь к выходному файлу и SaveFormat.PDF в качестве параметров. Таким образом, ваш файл PPS преобразуется в PDF по указанному пути.
+-  Вызовите метод `save`, указав путь к выходному файлу и SaveFormat.PDF в качестве параметров. им образом, ваш файл PPS преобразуется в PDF по указанному пути.
 - **Шаг 2** Откройте файл PDF с помощью класса [Document](https://reference.aspose.com/words/python-net/aspose.words/document/).
 - Сохраните файл PDF в файл DOT, используя метод [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/), указав имя файла и желаемый путь к каталогу.
-- Вот еще один фрагмент кода для преобразования презентации PowerPoint в Word (Microsoft Powerpoint to Word)[https://products.aspose.com/total/python-net/conversion/].
+- Вот еще один фрагмент кода для преобразования презентации PowerPoint в Word [Microsoft Powerpoint to Word](https://products.aspose.com/total/python-net/conversion/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -34,7 +34,7 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 - Для преобразования PPS в DOT требуется Python 3.5 или более поздней версии.
 - Ссылочные API внутри проекта непосредственно из PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) и [Aspose.Words](https://pypi.org/project/aspose-words/)) или
-- Используйте следующие команды pip ```pip install aspose.slides``` и ```pip install aspose.words```. Более того,
+- Используйте следующие команды pip ```pip install aspose.slides``` и ```pip install aspose.words```. 
 - ОС на базе Microsoft Windows или Linux (дополнительную информацию см. в [Slides](https://docs.aspose.com/slides/python-net/system-requirements/) и [Words](https://docs.aspose.com/words/python-net/system-requirements/)) и для Linux проверьте дополнительные требования для gcc и libpython и следуйте пошаговым инструкциям [INSTALL](https://docs.aspose.com/words/python-net/installation/).
  
 
@@ -55,7 +55,17 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="Другие варианты преобразования" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/pps-to-word/" name="PPS К WORD" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/pps-to-doc/" name="PPS К DOC" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/pps-to-dot/" name="PPS К DOT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/pps-to-docx/" name="PPS К DOCX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/pps-to-docm/" name="PPS К DOCM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/pps-to-dotx/" name="PPS К DOTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/pps-to-dotm/" name="PPS К DOTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/pps-to-rtf/" name="PPS К RTF" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

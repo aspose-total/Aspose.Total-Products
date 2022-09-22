@@ -14,14 +14,14 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Para um desenvolvedor Python, quem está tentando adicionar um recurso de conversão WORD para PPT no aplicativo? A API [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) pode ajudar a automatizar o processo de conversão. É um pacote completo de várias APIs que lidam com diferentes formatos. Então **Como converter WORD para PPT em Python?**
+Para um desenvolvedor Python, quem está tentando adicionar um recurso de conversão WORD para PPT no aplicativo? A API [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) pode ajudar a automatizar o processo de conversão. É um pacote completo de várias APIs que lidam com diferentes formatos.  
 
 É principalmente em duas etapas. Em primeiro lugar, use a API [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) para converter o arquivo WORD em PDF. Depois disso, usando [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) da API Python do PowerPoint, salve o PDF criado na Apresentação como um formato PPT. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Converter WORD para PPT em Python" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Como converter WORD para PPT em Python" %}}
 - **Passo 1** Abra o arquivo WORD de origem usando a classe [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 - Salve o arquivo WORD em PDF usando o método [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) fornecendo o nome do arquivo e o caminho do diretório desejado.
 -  **Passo 2** Carregar arquivo PDF com uma instância da classe [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
@@ -33,7 +33,7 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 - Para conversão de WORD para PPT, é necessário o Python 3.5 ou posterior
 - APIs de referência dentro do projeto diretamente do PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) e [Aspose.Words](https://pypi.org/project/aspose-words/)) ou
-- Use os seguintes comandos pip ```pip install aspose.slides``` e ```pip install aspose.words```. Além disso,
+- Use os seguintes comandos pip ```pip install aspose.slides``` e ```pip install aspose.words```. 
 - SO baseado em Microsoft Windows ou Linux (veja mais para [Slides](https://docs.aspose.com/slides/python-net/system-requirements/) e [Words](https://docs.aspose.com/words/python-net/system-requirements/)) e para Linux verifique os requisitos adicionais para gcc e libpython e siga as instruções passo a passo [INSTALL](https://docs.aspose.com/words/python-net/installation/).
  
 
@@ -54,7 +54,20 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="Outras opções de conversão" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/word-to-powerpoint/" name="WORD Para POWERPOINT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/word-to-ppsx/" name="WORD Para PPSX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/word-to-pptx/" name="WORD Para PPTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/word-to-ppt/" name="WORD Para PPT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/word-to-pot/" name="WORD Para POT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/word-to-potx/" name="WORD Para POTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/word-to-potm/" name="WORD Para POTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/word-to-pptm/" name="WORD Para PPTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/word-to-ppsm/" name="WORD Para PPSM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/word-to-pps/" name="WORD Para PPS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/word-to-odp/" name="WORD Para ODP" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

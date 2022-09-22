@@ -14,18 +14,18 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi WORDML ke PPSM di dalam aplikasi? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API dapat membantu mengotomatiskan proses konversi. Ini adalah paket lengkap dari berbagai API yang menangani format berbeda. Jadi **Bagaimana Mengkonversi WORDML ke PPSM dengan Python?**
+Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi WORDML ke PPSM di dalam aplikasi? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API dapat membantu mengotomatiskan proses konversi. Ini adalah paket lengkap dari berbagai API yang menangani format berbeda.  
 
 Ini terutama dalam dua langkah. Pertama gunakan [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) API untuk mengonversi file WORDML ke PDF. Setelah itu dengan menggunakan PowerPoint Python API [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/), simpan PDF yang telah dibuat ke dalam Presentation sebagai format PPSM. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Konversi WORDML ke PPSM dengan Python" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Bagaimana Mengkonversi WORDML ke PPSM dengan Python" %}}
 - **Langkah 1** Buka file WORDML sumber menggunakan kelas [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 - Simpan file WORDML ke PDF dengan menggunakan metode [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) dengan memberikan nama file dan path direktori yang diinginkan.
 -  **Langkah 2** Muat file PDF dengan instance kelas [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
--  Panggil metode `save` saat menentukan jalur file keluaran & SaveFormat.PPSM sebagai parameter. Jadi file WORDML Anda dikonversi ke PPSM di jalur yang ditentukan.
+-  Panggil metode `save` saat menentukan jalur file keluaran & SaveFormat.PPSM sebagai parameter.  file WORDML Anda dikonversi ke PPSM di jalur yang ditentukan.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -33,7 +33,7 @@ Ini terutama dalam dua langkah. Pertama gunakan [Aspose.Words for Python via .NE
 
 - Untuk konversi WORDML ke PPSM, Python 3.5 atau lebih baru diperlukan
 - Referensi API dalam proyek langsung dari PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) dan [Aspose.Words](https://pypi.org/project/aspose-words/)) atau
-- Gunakan perintah pip berikut ```pip install aspose.slides``` dan ```pip install aspose.words```. Lebih-lebih lagi,
+- Gunakan perintah pip berikut ```pip install aspose.slides``` dan ```pip install aspose.words```. 
 - OS berbasis Microsoft Windows atau Linux (lihat selengkapnya untuk [Slides](https://docs.aspose.com/slides/python-net/system-requirements/) dan [Words](https://docs.aspose.com/words/python-net/system-requirements/)) dan untuk Linux periksa persyaratan tambahan untuk gcc dan libpython dan ikuti petunjuk langkah demi langkah [INSTALL](https://docs.aspose.com/words/python-net/installation/).
  
 
@@ -54,7 +54,20 @@ Ini terutama dalam dua langkah. Pertama gunakan [Aspose.Words for Python via .NE
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="Opsi Konversi Lainnya" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/wordml-to-powerpoint/" name="WORDML Ke POWERPOINT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/wordml-to-ppsx/" name="WORDML Ke PPSX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/wordml-to-pptx/" name="WORDML Ke PPTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/wordml-to-ppt/" name="WORDML Ke PPT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/wordml-to-pot/" name="WORDML Ke POT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/wordml-to-potx/" name="WORDML Ke POTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/wordml-to-potm/" name="WORDML Ke POTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/wordml-to-pptm/" name="WORDML Ke PPTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/wordml-to-ppsm/" name="WORDML Ke PPSM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/wordml-to-pps/" name="WORDML Ke PPS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/wordml-to-odp/" name="WORDML Ke ODP" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

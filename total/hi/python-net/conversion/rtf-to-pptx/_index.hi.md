@@ -14,14 +14,14 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-एक पायथन डेवलपर के लिए, जो एप्लिकेशन के भीतर जीआईएफ रूपांतरण सुविधा में बीएमपी जोड़ने की कोशिश कर रहा है? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API रूपांतरण प्रक्रिया को स्वचालित करने में मदद कर सकता है। यह विभिन्न प्रारूपों से निपटने वाले विभिन्न एपीआई का एक पूरा पैकेज है। इसलिए **पायथन में बीएमपी को जीआईएफ में कैसे बदलें?**
+एक पायथन डेवलपर के लिए, जो एप्लिकेशन के भीतर जीआईएफ रूपांतरण सुविधा में बीएमपी जोड़ने की कोशिश कर रहा है? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API रूपांतरण प्रक्रिया को स्वचालित करने में मदद कर सकता है। यह विभिन्न प्रारूपों से निपटने वाले विभिन्न एपीआई का एक पूरा पैकेज है।  
 
 यह मुख्य रूप से दो चरणों में होता है। RTF फ़ाइल को PDF में बदलने के लिए सबसे पहले [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) API का उपयोग करें। उसके बाद PowerPoint Python API [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) का उपयोग करके, बनाई गई PDF को प्रस्तुतिकरण में PPTX प्रारूप के रूप में सहेजें। 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="पायथन में बीएमपी को जीआईएफ में बदलें" %}}
+{{% blocks/products/pf/agp/feature-section-col title="पायथन में बीएमपी को जीआईएफ में कैसे बदलें" %}}
 - **स्टेप 1** [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) वर्ग का उपयोग करके स्रोत RTF फ़ाइल खोलें
 - फ़ाइल नाम और वांछित निर्देशिका पथ प्रदान करके [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) विधि का उपयोग करके RTF फ़ाइल को PDF में सहेजें।
 -  **चरण दो** [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) वर्ग के उदाहरण के साथ PDF फ़ाइल लोड करें
@@ -33,7 +33,7 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 - बीएमपी से जीआईएफ रूपांतरण के लिए, पायथन 3.5 या बाद के संस्करण की आवश्यकता है
 - परियोजना के भीतर संदर्भ API सीधे PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) और [Aspose.Words](https://pypi.org/project/aspose-words/)) से या
-- निम्न पाइप कमांड ```पाइप इंस्टाल एस्पोस.स्लाइड्स`` और ``पाइप इंस्टाल एस्पोस.वर्ड्स`` का प्रयोग करें। इसके अतिरिक्त,
+- निम्न पाइप कमांड ```पाइप इंस्टाल एस्पोस.स्लाइड्स`` और ``पाइप इंस्टाल एस्पोस.वर्ड्स`` का प्रयोग करें। 
 - Microsoft Windows या Linux आधारित OS ([Slides](https://docs.aspose.com/slides/python-net/system-requirements/) और [Words](https://docs.aspose.com/words/python-net/system-requirements/) के लिए और देखें) और Linux के लिए gcc और libpython के लिए अतिरिक्त आवश्यकताओं की जाँच करें और चरण दर चरण निर्देशों का पालन करें [INSTALL](https://docs.aspose.com/words/python-net/installation/)।
  
 
@@ -54,7 +54,20 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="अन्य रूपांतरण विकल्प" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/rtf-to-powerpoint/" name="RTF प्रति POWERPOINT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/rtf-to-ppsx/" name="RTF प्रति PPSX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/rtf-to-pptx/" name="RTF प्रति PPTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/rtf-to-ppt/" name="RTF प्रति PPT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/rtf-to-pot/" name="RTF प्रति POT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/rtf-to-potx/" name="RTF प्रति POTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/rtf-to-potm/" name="RTF प्रति POTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/rtf-to-pptm/" name="RTF प्रति PPTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/rtf-to-ppsm/" name="RTF प्रति PPSM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/rtf-to-pps/" name="RTF प्रति PPS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/rtf-to-odp/" name="RTF प्रति ODP" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

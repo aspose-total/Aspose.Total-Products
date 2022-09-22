@@ -14,14 +14,14 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-بالنسبة لمطور Python ، من يحاول إضافة ميزة تحويل ODT إلى PPSX داخل التطبيق؟ يمكن أن تساعد [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API في أتمتة عملية التحويل. إنها حزمة كاملة من واجهات برمجة التطبيقات المختلفة التي تتعامل مع تنسيقات مختلفة. لذا **كيفية تحويل ODT إلى PPSX في بايثون؟**
+بالنسبة لمطور Python ، من يحاول إضافة ميزة تحويل ODT إلى PPSX داخل التطبيق؟ يمكن أن تساعد [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API في أتمتة عملية التحويل. إنها حزمة كاملة من واجهات برمجة التطبيقات المختلفة التي تتعامل مع تنسيقات مختلفة.  
 
 إنها بشكل أساسي في خطوتين. استخدم أولاً [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) API لتحويل ملف ODT إلى PDF. بعد ذلك باستخدام PowerPoint Python API [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) ، احفظ ملف PDF الذي تم إنشاؤه في العرض التقديمي بتنسيق PPSX. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="تحويل ODT إلى PPSX في Python" %}}
+{{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل ODT إلى PPSX في بايثون؟" %}}
 - **الخطوة 1** افتح ملف ODT المصدر باستخدام فئة [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 - احفظ ملف ODT في PDF باستخدام طريقة [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) من خلال توفير اسم الملف ومسار الدليل المطلوب.
 -  **الخطوة 2** تحميل ملف PDF بمثيل من فئة [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
@@ -33,7 +33,7 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 - لتحويل ODT إلى PPSX ، يلزم Python 3.5 أو أحدث
 - واجهات برمجة التطبيقات المرجعية داخل المشروع مباشرة من PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) و [Aspose.Words](https://pypi.org/project/aspose-words/)) أو
-- استخدم أوامر النقطة التالية `` تثبيت pip aspose.slides "" و "تثبيت النقطة aspose.words". علاوة على ذلك،
+- استخدم أوامر النقطة التالية `` تثبيت pip aspose.slides "" و "تثبيت النقطة aspose.words". 
 - نظام التشغيل Microsoft Windows أو Linux (انظر المزيد عن [Slides](https://docs.aspose.com/slides/python-net/system-requirements/) و [Words](https://docs.aspose.com/words/python-net/system-requirements/)) ولليوكس تحقق من المتطلبات الإضافية لـ gcc و libpython واتبع التعليمات خطوة بخطوة [INSTALL](https://docs.aspose.com/words/python-net/installation/).
  
 
@@ -54,7 +54,20 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="خيارات التحويل الأخرى" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/python-net/conversion/odt-to-powerpoint/" name="ODT إلى POWERPOINT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/python-net/conversion/odt-to-ppsx/" name="ODT إلى PPSX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/python-net/conversion/odt-to-pptx/" name="ODT إلى PPTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/python-net/conversion/odt-to-ppt/" name="ODT إلى PPT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/python-net/conversion/odt-to-pot/" name="ODT إلى POT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/python-net/conversion/odt-to-potx/" name="ODT إلى POTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/python-net/conversion/odt-to-potm/" name="ODT إلى POTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/python-net/conversion/odt-to-pptm/" name="ODT إلى PPTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/python-net/conversion/odt-to-ppsm/" name="ODT إلى PPSM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/python-net/conversion/odt-to-pps/" name="ODT إلى PPS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/python-net/conversion/odt-to-odp/" name="ODT إلى ODP" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

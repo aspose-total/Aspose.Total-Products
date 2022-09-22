@@ -14,19 +14,19 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conversione da POTX a DOC all'interno dell'applicazione? L'API [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) può aiutare ad automatizzare il processo di conversione. È un pacchetto completo di varie API che gestiscono formati diversi. Così **Come convertire POTX in DOC in Python?**
+Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conversione da POTX a DOC all'interno dell'applicazione? L'API [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) può aiutare ad automatizzare il processo di conversione. È un pacchetto completo di varie API che gestiscono formati diversi.  
 
 È principalmente in due passaggi. Innanzitutto usa l'API [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) per convertire il file POTX in PDF. Successivamente, utilizzando l'API Python di Microsoft Word [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/), salva il PDF creato in Microsoft Word come formato DOC. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Converti POTX in DOC in Python" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Come convertire POTX in DOC in Python" %}}
 -  **Passo 1** Carica il file PDF con un'istanza della classe [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
 -  Chiama il metodo `save` mentre specifichi il percorso del file di output e SaveFormat.PDF come parametri. Quindi il tuo file POTX viene convertito in PDF nel percorso specificato.
 - **Passo 2** Apri il file PDF utilizzando la classe [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 - Salva il file PDF in un file DOC utilizzando il metodo [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) fornendo il nome del file e il percorso della directory desiderata.
-- Ecco un altro frammento di codice per la presentazione di PowerPoint in Word (Microsoft Powerpoint to Word)[https://products.aspose.com/total/python-net/conversion/] Conversion.
+- Ecco un altro frammento di codice per la presentazione di PowerPoint in Word [Microsoft Powerpoint to Word](https://products.aspose.com/total/python-net/conversion/) Conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -34,7 +34,7 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 - Per la conversione da POTX a DOC, è richiesto Python 3.5 o successivo
 - API di riferimento all'interno del progetto direttamente da PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) e [Aspose.Words](https://pypi.org/project/aspose-words/)) o
-- Utilizzare i seguenti comandi pip ```pip install aspose.slides``` e ```pip install aspose.words```. Inoltre,
+- Utilizzare i seguenti comandi pip ```pip install aspose.slides``` e ```pip install aspose.words```. 
 - Sistema operativo basato su Microsoft Windows o Linux (vedi altro per [Slides](https://docs.aspose.com/slides/python-net/system-requirements/) e [Words](https://docs.aspose.com/words/python-net/system-requirements/)) e per Linux controlla i requisiti aggiuntivi per gcc e libpython e segui passo passo le istruzioni [INSTALL](https://docs.aspose.com/words/python-net/installation/).
  
 
@@ -55,7 +55,17 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altre opzioni di conversione" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/python-net/conversion/potx-to-word/" name="POTX Per WORD" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/python-net/conversion/potx-to-doc/" name="POTX Per DOC" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/python-net/conversion/potx-to-dot/" name="POTX Per DOT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/python-net/conversion/potx-to-docx/" name="POTX Per DOCX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/python-net/conversion/potx-to-docm/" name="POTX Per DOCM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/python-net/conversion/potx-to-dotx/" name="POTX Per DOTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/python-net/conversion/potx-to-dotm/" name="POTX Per DOTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/python-net/conversion/potx-to-rtf/" name="POTX Per RTF" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

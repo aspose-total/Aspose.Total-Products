@@ -14,18 +14,18 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-För en Python-utvecklare, vem försöker lägga till en DOCX till POTM-konverteringsfunktion i applikationen? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API kan hjälpa till att automatisera konverteringsprocessen. Det är ett komplett paket med olika API:er som hanterar olika format. Så **Hur konverterar man DOCX till POTM i Python?**
+För en Python-utvecklare, vem försöker lägga till en DOCX till POTM-konverteringsfunktion i applikationen? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API kan hjälpa till att automatisera konverteringsprocessen. Det är ett komplett paket med olika API:er som hanterar olika format.  
 
 Det är främst i två steg. Använd först [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) API för att konvertera DOCX-fil till PDF. Efter det genom att använda PowerPoint Python API [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/), spara den skapade PDF-filen i Presentation som ett POTM-format. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Konvertera DOCX till POTM i Python" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Hur konverterar man DOCX till POTM i Python" %}}
 - **Steg 1** Öppna käll-DOCX-filen med [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)-klassen
 - Spara DOCX-fil till PDF genom att använda metoden [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) genom att ange filnamnet och önskad katalogsökväg.
 -  **Steg 2** Ladda PDF-fil med en instans av klassen [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
--  Anropa 'spara'-metoden samtidigt som du anger sökvägen för utdatafilen & SaveFormat.POTM som parametrar. Så din DOCX-fil konverteras till POTM på den angivna sökvägen.
+-  Anropa 'spara'-metoden samtidigt som du anger sökvägen för utdatafilen & SaveFormat.POTM som parametrar.  din DOCX-fil konverteras till POTM på den angivna sökvägen.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -33,7 +33,7 @@ Det är främst i två steg. Använd först [Aspose.Words for Python via .NET](h
 
 - För DOCX till POTM-konvertering krävs Python 3.5 eller senare
 - Referera API:er inom projektet direkt från PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) och [Aspose.Words](https://pypi.org/project/aspose-words/)) eller
-- Använd följande pip-kommandon ```pip install aspose.slides``` och ```pip install aspose.words```. Dessutom,
+- Använd följande pip-kommandon ```pip install aspose.slides``` och ```pip install aspose.words```. 
 - Microsoft Windows eller Linux-baserade operativsystem (se mer för [Slides](https://docs.aspose.com/slides/python-net/system-requirements/) och [Words](https://docs.aspose.com/words/python-net/system-requirements/)) och för Linux kontrollera ytterligare krav för gcc och libpython och följ steg-för-steg-instruktionerna [INSTALL](https://docs.aspose.com/words/python-net/installation/).
  
 
@@ -54,7 +54,20 @@ Det är främst i två steg. Använd först [Aspose.Words for Python via .NET](h
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andra konverteringsalternativ" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/docx-to-powerpoint/" name="DOCX Till POWERPOINT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/docx-to-ppsx/" name="DOCX Till PPSX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/docx-to-pptx/" name="DOCX Till PPTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/docx-to-ppt/" name="DOCX Till PPT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/docx-to-pot/" name="DOCX Till POT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/docx-to-potx/" name="DOCX Till POTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/docx-to-potm/" name="DOCX Till POTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/docx-to-pptm/" name="DOCX Till PPTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/docx-to-ppsm/" name="DOCX Till PPSM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/docx-to-pps/" name="DOCX Till PPS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/docx-to-odp/" name="DOCX Till ODP" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

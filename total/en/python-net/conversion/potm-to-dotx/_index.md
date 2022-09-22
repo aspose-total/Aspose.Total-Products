@@ -14,28 +14,28 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-For a Python developer, who is trying to add a POTM to DOTX conversion feature within application ? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API can help to automate the conversion process. It's a full package of various APIs dealing different formats. So **How to Convert POTM to DOTX in Python ?**
+For a Python developer, who is trying to add a POTM to DOTX conversion feature within application? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API can help to automate the conversion process. It's a full package of various APIs dealing different formats. 
 
 It's mainly in two steps. Firstly use [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) API to convert POTM file to PDF. After that by using Microsoft Word Python API [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/), save the created PDF into Microsoft Word as a DOTX format. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Convert POTM to DOTX in Python" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert POTM to DOTX in Python" %}}
 -  **Step 1** Load PDF file with an instance of [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class
--  Call the `save` method while specifying output file path & SaveFormat.PDF as parameters. So your POTM file is converted to PDF at the specified path.
+	-  Call the `save` method while specifying output file path & SaveFormat.PDF as parameters. So your POTM file is converted to PDF at the specified path.
 - **Step 2** Open the PDF file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
-- Save PDF file to DOTX file by using [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) method by providing the file name and desired directory path.
-- Here is another code snippet for (PowerPoint Presentation to Word)[https://products.aspose.com/total/python-net/conversion/] Conversion.
+	- Save PDF file to DOTX file by using [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) method by providing the file name and desired directory path.
+	- Here is another code snippet for [PowerPoint Presentation to Word](https://products.aspose.com/total/python-net/conversion/) Conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 
 - For POTM to DOTX conversion, Python 3.5 or later is required
-- Reference APIs within the project directly from PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) and [Aspose.Words](https://pypi.org/project/aspose-words/)) or
--  Use the following pip commands ```pip install aspose.slides``` and ```pip install aspose.words```. Moreover,
--  Microsoft Windows or Linux based OS (see more for [Slides](https://docs.aspose.com/slides/python-net/system-requirements/) and [Words](https://docs.aspose.com/words/python-net/system-requirements/)) and for Linux check additional requirements for gcc and libpython and follow [step by step instructions](https://docs.aspose.com/words/python-net/installation/).
+- Reference APIs within the project directly from PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) and [Aspose.Words](https://pypi.org/project/aspose-words/))
+-  Or use the following pip commands ```pip install aspose.slides``` and ```pip install aspose.words```.
+-  Moreover, Microsoft Windows or Linux based OS (see more for [Slides](https://docs.aspose.com/slides/python-net/system-requirements/) and [Words](https://docs.aspose.com/words/python-net/system-requirements/)) and for Linux check additional requirements for gcc and libpython and follow [step by step instructions](https://docs.aspose.com/words/python-net/installation/).
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

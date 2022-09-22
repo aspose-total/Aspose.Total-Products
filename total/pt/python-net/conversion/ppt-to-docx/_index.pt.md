@@ -14,19 +14,19 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Para um desenvolvedor Python, quem está tentando adicionar um recurso de conversão PPT para DOCX no aplicativo? A API [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) pode ajudar a automatizar o processo de conversão. É um pacote completo de várias APIs que lidam com diferentes formatos. Então **Como converter PPT para DOCX em Python?**
+Para um desenvolvedor Python, quem está tentando adicionar um recurso de conversão PPT para DOCX no aplicativo? A API [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) pode ajudar a automatizar o processo de conversão. É um pacote completo de várias APIs que lidam com diferentes formatos.  
 
 É principalmente em duas etapas. Em primeiro lugar, use a API [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) para converter o arquivo PPT em PDF. Depois disso, usando a API [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) do Microsoft Word Python, salve o PDF criado no Microsoft Word como um formato DOCX. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Converter PPT para DOCX em Python" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Como converter PPT para DOCX em Python" %}}
 -  **Passo 1** Carregar arquivo PDF com uma instância da classe [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
 -  Chame o método `save` enquanto especifica o caminho do arquivo de saída e SaveFormat.PDF como parâmetros. Assim, seu arquivo PPT é convertido em PDF no caminho especificado.
 - **Passo 2** Abra o arquivo PDF usando a classe [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 - Salve o arquivo PDF em um arquivo DOCX usando o método [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) fornecendo o nome do arquivo e o caminho do diretório desejado.
-- Aqui está outro trecho de código para conversão de apresentação do PowerPoint para Word (Microsoft Powerpoint to Word)[https://products.aspose.com/total/python-net/conversion/].
+- Aqui está outro trecho de código para conversão de apresentação do PowerPoint para Word [Microsoft Powerpoint to Word](https://products.aspose.com/total/python-net/conversion/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -34,7 +34,7 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 - Para conversão de PPT para DOCX, é necessário o Python 3.5 ou posterior
 - APIs de referência dentro do projeto diretamente do PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) e [Aspose.Words](https://pypi.org/project/aspose-words/)) ou
-- Use os seguintes comandos pip ```pip install aspose.slides``` e ```pip install aspose.words```. Além disso,
+- Use os seguintes comandos pip ```pip install aspose.slides``` e ```pip install aspose.words```. 
 - SO baseado em Microsoft Windows ou Linux (veja mais para [Slides](https://docs.aspose.com/slides/python-net/system-requirements/) e [Words](https://docs.aspose.com/words/python-net/system-requirements/)) e para Linux verifique os requisitos adicionais para gcc e libpython e siga as instruções passo a passo [INSTALL](https://docs.aspose.com/words/python-net/installation/).
  
 
@@ -55,7 +55,17 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="Outras opções de conversão" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/ppt-to-word/" name="PPT Para WORD" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/ppt-to-doc/" name="PPT Para DOC" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/ppt-to-dot/" name="PPT Para DOT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/ppt-to-docx/" name="PPT Para DOCX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/ppt-to-docm/" name="PPT Para DOCM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/ppt-to-dotx/" name="PPT Para DOTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/ppt-to-dotm/" name="PPT Para DOTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/ppt-to-rtf/" name="PPT Para RTF" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

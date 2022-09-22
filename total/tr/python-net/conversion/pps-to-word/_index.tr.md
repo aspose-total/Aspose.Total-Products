@@ -14,19 +14,19 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Uygulama içinde bir PPS'yi WORD'e dönüştürme özelliği eklemeye çalışan bir Python geliştiricisi için? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API, dönüştürme sürecini otomatikleştirmeye yardımcı olabilir. Farklı biçimlerle uğraşan çeşitli API'lerden oluşan eksiksiz bir pakettir. Yani **Python'da PPS'yi WORD'e Nasıl Dönüştürürsünüz?**
+Uygulama içinde bir PPS'yi WORD'e dönüştürme özelliği eklemeye çalışan bir Python geliştiricisi için? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API, dönüştürme sürecini otomatikleştirmeye yardımcı olabilir. Farklı biçimlerle uğraşan çeşitli API'lerden oluşan eksiksiz bir pakettir.  **Python'da PPS'yi WORD'e Nasıl Dönüştürürsünüz?**
 
 Esas olarak iki adımdadır. PPS dosyasını PDF'ye dönüştürmek için öncelikle [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) API'sini kullanın. Daha sonra Microsoft Word Python API [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) kullanarak oluşturulan PDF'yi WORD formatında Microsoft Word'e kaydedin. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Python'da PPS'yi WORD'e Dönüştür" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Python'da PPS'yi WORD'e Nasıl Dönüştürür" %}}
 -  **Aşama 1** [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) sınıfının bir örneğiyle PDF dosyasını yükleyin
 -  Çıktı dosyası yolunu & SaveFormat.PDF'yi parametre olarak belirtirken 'save' yöntemini çağırın. Böylece PPS dosyanız belirtilen yolda PDF'ye dönüştürülür.
 - **Adım 2** [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) sınıfını kullanarak PDF dosyasını açın
 - [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) yöntemini kullanarak dosya adını ve istenen dizin yolunu sağlayarak PDF dosyasını WORD dosyasına kaydedin.
-- İşte PowerPoint Sunumundan Word (Microsoft Powerpoint to Word)[https://products.aspose.com/total/python-net/conversion/]'e Dönüştürme için başka bir kod parçacığı.
+- İşte PowerPoint Sunumundan Word [Microsoft Powerpoint to Word](https://products.aspose.com/total/python-net/conversion/)'e Dönüştürme için başka bir kod parçacığı.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -34,7 +34,7 @@ Esas olarak iki adımdadır. PPS dosyasını PDF'ye dönüştürmek için öncel
 
 - PPS'den WORD'e dönüştürme için Python 3.5 veya üstü gereklidir
 - Proje içindeki referans API'leri doğrudan PyPI'den ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) ve [Aspose.Words](https://pypi.org/project/aspose-words/)) veya
-- ``pip install aspose.slides``` ve ```pip install aspose.words``` şu pip komutlarını kullanın. Dahası,
+- ``pip install aspose.slides``` ve ```pip install aspose.words``` şu pip komutlarını kullanın. 
 - Microsoft Windows veya Linux tabanlı işletim sistemi ([Slides](https://docs.aspose.com/slides/python-net/system-requirements/) ve [Words](https://docs.aspose.com/words/python-net/system-requirements/) için daha fazlasına bakın) ve Linux için gcc ve libpython için ek gereksinimleri kontrol edin ve [INSTALL](https://docs.aspose.com/words/python-net/installation/) adım adım talimatları izleyin.
  
 
@@ -55,7 +55,17 @@ Esas olarak iki adımdadır. PPS dosyasını PDF'ye dönüştürmek için öncel
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="Diğer Dönüşüm Seçenekleri" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/python-net/conversion/pps-to-word/" name="PPS İle WORD" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/python-net/conversion/pps-to-doc/" name="PPS İle DOC" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/python-net/conversion/pps-to-dot/" name="PPS İle DOT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/python-net/conversion/pps-to-docx/" name="PPS İle DOCX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/python-net/conversion/pps-to-docm/" name="PPS İle DOCM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/python-net/conversion/pps-to-dotx/" name="PPS İle DOTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/python-net/conversion/pps-to-dotm/" name="PPS İle DOTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/python-net/conversion/pps-to-rtf/" name="PPS İle RTF" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

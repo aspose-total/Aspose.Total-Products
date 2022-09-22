@@ -14,19 +14,19 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-بالنسبة لمطور Python ، من يحاول إضافة ميزة تحويل POTX إلى WORD داخل التطبيق؟ يمكن أن تساعد [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API في أتمتة عملية التحويل. إنها حزمة كاملة من واجهات برمجة التطبيقات المختلفة التي تتعامل مع تنسيقات مختلفة. لذا **كيفية تحويل POTX إلى WORD في بايثون؟**
+بالنسبة لمطور Python ، من يحاول إضافة ميزة تحويل POTX إلى WORD داخل التطبيق؟ يمكن أن تساعد [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API في أتمتة عملية التحويل. إنها حزمة كاملة من واجهات برمجة التطبيقات المختلفة التي تتعامل مع تنسيقات مختلفة.  
 
 إنها بشكل أساسي في خطوتين. أولاً ، استخدم [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) API لتحويل ملف POTX إلى PDF. بعد ذلك باستخدام Microsoft Word Python API [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) ، احفظ ملف PDF الذي تم إنشاؤه في Microsoft Word بتنسيق WORD. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="تحويل POTX إلى WORD في Python" %}}
+{{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل POTX إلى WORD في بايثون؟" %}}
 -  **الخطوة 1** تحميل ملف PDF بمثيل من فئة [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
 -  قم باستدعاء طريقة "save" أثناء تحديد مسار ملف الإخراج & SaveFormat.PDF كمعلمات. لذلك يتم تحويل ملف POTX الخاص بك إلى PDF في المسار المحدد.
 - **الخطوة 2** افتح ملف PDF باستخدام فئة [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 - احفظ ملف PDF في ملف WORD باستخدام طريقة [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) من خلال توفير اسم الملف ومسار الدليل المطلوب.
-- فيما يلي مقتطف رمز آخر لـ PowerPoint Presentation to Word (Microsoft Powerpoint to Word)[https://products.aspose.com/total/python-net/conversion/] Conversion.
+- فيما يلي مقتطف رمز آخر لـ PowerPoint Presentation to Word [Microsoft Powerpoint to Word](https://products.aspose.com/total/python-net/conversion/) Conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -34,7 +34,7 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 - لتحويل POTX إلى WORD ، يلزم Python 3.5 أو أحدث
 - واجهات برمجة التطبيقات المرجعية داخل المشروع مباشرة من PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) و [Aspose.Words](https://pypi.org/project/aspose-words/)) أو
-- استخدم أوامر النقطة التالية `` تثبيت pip aspose.slides "" و "تثبيت النقطة aspose.words". علاوة على ذلك،
+- استخدم أوامر النقطة التالية `` تثبيت pip aspose.slides "" و "تثبيت النقطة aspose.words". 
 - نظام التشغيل Microsoft Windows أو Linux (انظر المزيد عن [Slides](https://docs.aspose.com/slides/python-net/system-requirements/) و [Words](https://docs.aspose.com/words/python-net/system-requirements/)) ولليوكس تحقق من المتطلبات الإضافية لـ gcc و libpython واتبع التعليمات خطوة بخطوة [INSTALL](https://docs.aspose.com/words/python-net/installation/).
  
 
@@ -55,7 +55,17 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="خيارات التحويل الأخرى" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/python-net/conversion/potx-to-word/" name="POTX إلى WORD" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/python-net/conversion/potx-to-doc/" name="POTX إلى DOC" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/python-net/conversion/potx-to-dot/" name="POTX إلى DOT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/python-net/conversion/potx-to-docx/" name="POTX إلى DOCX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/python-net/conversion/potx-to-docm/" name="POTX إلى DOCM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/python-net/conversion/potx-to-dotx/" name="POTX إلى DOTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/python-net/conversion/potx-to-dotm/" name="POTX إلى DOTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/python-net/conversion/potx-to-rtf/" name="POTX إلى RTF" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

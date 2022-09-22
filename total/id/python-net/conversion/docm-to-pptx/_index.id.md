@@ -14,18 +14,18 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi DOCM ke PPTX di dalam aplikasi? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API dapat membantu mengotomatiskan proses konversi. Ini adalah paket lengkap dari berbagai API yang menangani format berbeda. Jadi **Bagaimana Mengkonversi DOCM ke PPTX dengan Python?**
+Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi DOCM ke PPTX di dalam aplikasi? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API dapat membantu mengotomatiskan proses konversi. Ini adalah paket lengkap dari berbagai API yang menangani format berbeda.  
 
 Ini terutama dalam dua langkah. Pertama gunakan [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) API untuk mengonversi file DOCM ke PDF. Setelah itu dengan menggunakan PowerPoint Python API [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/), simpan PDF yang telah dibuat ke dalam Presentation sebagai format PPTX. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Konversi DOCM ke PPTX dengan Python" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Bagaimana Mengkonversi DOCM ke PPTX dengan Python" %}}
 - **Langkah 1** Buka file DOCM sumber menggunakan kelas [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 - Simpan file DOCM ke PDF dengan menggunakan metode [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) dengan memberikan nama file dan path direktori yang diinginkan.
 -  **Langkah 2** Muat file PDF dengan instance kelas [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
--  Panggil metode `save` saat menentukan jalur file keluaran & SaveFormat.PPTX sebagai parameter. Jadi file DOCM Anda dikonversi ke PPTX di jalur yang ditentukan.
+-  Panggil metode `save` saat menentukan jalur file keluaran & SaveFormat.PPTX sebagai parameter.  file DOCM Anda dikonversi ke PPTX di jalur yang ditentukan.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -33,7 +33,7 @@ Ini terutama dalam dua langkah. Pertama gunakan [Aspose.Words for Python via .NE
 
 - Untuk konversi DOCM ke PPTX, Python 3.5 atau lebih baru diperlukan
 - Referensi API dalam proyek langsung dari PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) dan [Aspose.Words](https://pypi.org/project/aspose-words/)) atau
-- Gunakan perintah pip berikut ```pip install aspose.slides``` dan ```pip install aspose.words```. Lebih-lebih lagi,
+- Gunakan perintah pip berikut ```pip install aspose.slides``` dan ```pip install aspose.words```. 
 - OS berbasis Microsoft Windows atau Linux (lihat selengkapnya untuk [Slides](https://docs.aspose.com/slides/python-net/system-requirements/) dan [Words](https://docs.aspose.com/words/python-net/system-requirements/)) dan untuk Linux periksa persyaratan tambahan untuk gcc dan libpython dan ikuti petunjuk langkah demi langkah [INSTALL](https://docs.aspose.com/words/python-net/installation/).
  
 
@@ -54,7 +54,20 @@ Ini terutama dalam dua langkah. Pertama gunakan [Aspose.Words for Python via .NE
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="Opsi Konversi Lainnya" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/docm-to-powerpoint/" name="DOCM Ke POWERPOINT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/docm-to-ppsx/" name="DOCM Ke PPSX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/docm-to-pptx/" name="DOCM Ke PPTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/docm-to-ppt/" name="DOCM Ke PPT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/docm-to-pot/" name="DOCM Ke POT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/docm-to-potx/" name="DOCM Ke POTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/docm-to-potm/" name="DOCM Ke POTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/docm-to-pptm/" name="DOCM Ke PPTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/docm-to-ppsm/" name="DOCM Ke PPSM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/docm-to-pps/" name="DOCM Ke PPS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/docm-to-odp/" name="DOCM Ke ODP" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

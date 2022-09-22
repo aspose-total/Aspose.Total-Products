@@ -14,14 +14,14 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-對於 Python 開發人員，誰正在嘗試在應用程序中添加 MD 到 PPSX 轉換功能？ [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API 可以幫助自動化轉換過程。它是處理不同格式的各種 API 的完整包。 所以 **如何在 Python 中將 MD 轉換為 PPSX？**
+對於 Python 開發人員，誰正在嘗試在應用程序中添加 MD 到 PPSX 轉換功能？ [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API 可以幫助自動化轉換過程。它是處理不同格式的各種 API 的完整包。  
 
 主要分兩步。 首先使用 [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) API 將 MD 文件轉換為 PDF。 之後使用 PowerPoint Python API [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)，將創建的 PDF 保存為 PPSX 格式的演示文稿。 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="在 Python 中將 MD 轉換為 PPSX" %}}
+{{% blocks/products/pf/agp/feature-section-col title="如何在 Python 中將 MD 轉換為 PPSX？" %}}
 - **步驟1** 使用 [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) 類打開源 MD 文件
 - 通過提供文件名和所需的目錄路徑，使用 [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) 方法將 MD 文件保存為 PDF。
 -  **第2步** 使用 [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) 類的實例加載 PDF 文件
@@ -33,7 +33,7 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 - 對於 MD 到 PPSX 的轉換，需要 Python 3.5 或更高版本
 - 直接從 PyPI（[Aspose.Slides](https://pypi.org/project/Aspose.Slides/) 和 [Aspose.Words](https://pypi.org/project/aspose-words/)）引用項目中的 API 或
-- 使用以下 pip 命令 ```pip install aspose.slides``` 和 ```pip install aspose.words```。而且，
+- 使用以下 pip 命令 ```pip install aspose.slides``` 和 ```pip install aspose.words```。
 - 基於 Microsoft Windows 或 Linux 的操作系統（請參閱更多有關 [Slides](https://docs.aspose.com/slides/python-net/system-requirements/) 和 [Words](https://docs.aspose.com/words/python-net/system-requirements/) 的信息）和 Linux 檢查 gcc 和 libpython 的其他要求，並按照 [INSTALL](https://docs.aspose.com/words/python-net/installation/) 的分步說明進行操作。
  
 
@@ -54,7 +54,20 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="其他轉換選項" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/python-net/conversion/md-to-powerpoint/" name="MD 至 POWERPOINT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/python-net/conversion/md-to-ppsx/" name="MD 至 PPSX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/python-net/conversion/md-to-pptx/" name="MD 至 PPTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/python-net/conversion/md-to-ppt/" name="MD 至 PPT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/python-net/conversion/md-to-pot/" name="MD 至 POT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/python-net/conversion/md-to-potx/" name="MD 至 POTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/python-net/conversion/md-to-potm/" name="MD 至 POTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/python-net/conversion/md-to-pptm/" name="MD 至 PPTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/python-net/conversion/md-to-ppsm/" name="MD 至 PPSM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/python-net/conversion/md-to-pps/" name="MD 至 PPS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/python-net/conversion/md-to-odp/" name="MD 至 ODP" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

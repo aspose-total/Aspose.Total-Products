@@ -14,14 +14,14 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Đối với một nhà phát triển Python, ai đang cố gắng thêm tính năng chuyển đổi OTT sang PPT trong ứng dụng? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API có thể giúp tự động hóa quá trình chuyển đổi. Đó là một gói đầy đủ các API khác nhau xử lý các định dạng khác nhau. Vì thế **Làm thế nào để chuyển đổi OTT sang PPT trong Python?**
+Đối với một nhà phát triển Python, ai đang cố gắng thêm tính năng chuyển đổi OTT sang PPT trong ứng dụng? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API có thể giúp tự động hóa quá trình chuyển đổi. Đó là một gói đầy đủ các API khác nhau xử lý các định dạng khác nhau.  
 
 Nó chủ yếu gồm hai bước. Đầu tiên sử dụng [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) API để chuyển đổi tệp OTT sang PDF. Sau đó, bằng cách sử dụng PowerPoint Python API [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/), lưu tệp PDF đã tạo thành Bản trình bày dưới dạng định dạng PPT. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi OTT sang PPT bằng Python" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Làm thế nào để chuyển đổi OTT sang PPT trong Python" %}}
 - **Bước 1** Mở tệp OTT nguồn bằng lớp [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 - Lưu tệp OTT sang PDF bằng phương pháp [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) bằng cách cung cấp tên tệp và đường dẫn thư mục mong muốn.
 -  **Bước 2** Tải tệp PDF với phiên bản của lớp [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
@@ -33,7 +33,7 @@ Nó chủ yếu gồm hai bước. Đầu tiên sử dụng [Aspose.Words for Py
 
 - Để chuyển đổi OTT sang PPT, cần có Python 3.5 trở lên
 - Tham chiếu các API trong dự án trực tiếp từ PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) và [Aspose.Words](https://pypi.org/project/aspose-words/)) hoặc
-- Sử dụng các lệnh pip sau `` pip install aspose.slides '' và `` pip install aspose.words ''. Hơn thế nữa,
+- Sử dụng các lệnh pip sau `` pip install aspose.slides '' và `` pip install aspose.words ''. 
 - Hệ điều hành dựa trên Microsoft Windows hoặc Linux (xem thêm cho [Slides](https://docs.aspose.com/slides/python-net/system-requirements/) và [Words](https://docs.aspose.com/words/python-net/system-requirements/)) và cho Linux, hãy kiểm tra các yêu cầu bổ sung cho gcc và libpython và làm theo hướng dẫn từng bước [INSTALL](https://docs.aspose.com/words/python-net/installation/).
  
 
@@ -54,7 +54,20 @@ Nó chủ yếu gồm hai bước. Đầu tiên sử dụng [Aspose.Words for Py
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="Các tùy chọn chuyển đổi khác" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/ott-to-powerpoint/" name="OTT Đến POWERPOINT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/ott-to-ppsx/" name="OTT Đến PPSX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/ott-to-pptx/" name="OTT Đến PPTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/ott-to-ppt/" name="OTT Đến PPT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/ott-to-pot/" name="OTT Đến POT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/ott-to-potx/" name="OTT Đến POTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/ott-to-potm/" name="OTT Đến POTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/ott-to-pptm/" name="OTT Đến PPTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/ott-to-ppsm/" name="OTT Đến PPSM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/ott-to-pps/" name="OTT Đến PPS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/ott-to-odp/" name="OTT Đến ODP" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}
