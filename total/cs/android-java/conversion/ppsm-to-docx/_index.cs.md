@@ -21,8 +21,8 @@ Zadaný dokument můžete převést ve dvou krocích. K vykreslení PPSM do HTML
 {{% blocks/products/pf/agp/feature-section-col title="Vykreslování PPSM do DOCX v Androidu" %}}
 1. Otevřete soubor PPSM pomocí třídy [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Převeďte PPSM do HTML pomocí [uložit](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) a nastavte Html jako SaveFormat
-3. Načtěte převedený soubor HTML pomocí třídy [Docxument](https://reference.aspose.com/words/java/com.aspose.words/Docxument)
-4. Uložte dokument do formátu DOCX pomocí metody [save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,int)) a nastavte Docx jako SaveFormat
+3. Načtěte převedený soubor HTML pomocí třídy [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. Uložte dokument do formátu DOCX pomocí metody [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) a nastavte Docx jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
@@ -36,10 +36,10 @@ Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.c
 Presentation presentation = new Presentation("input.ppsm");
 // save the presentation as HTML
 presentation.save("htmlOutput.html", SaveFormat.Html);
-// load HTML with an instance of Docxument
-Docxument docxument = new Docxument("htmlOutput.html");
-// save docxument in DOCX format
-docxument.save("output.docx",SaveFormat.Docxx);   
+// load HTML with an instance of Document
+Document document = new Document("htmlOutput.html");
+// save document in DOCX format
+document.save("output.docx",SaveFormat.Docxx);   
 ```
 
 {{% /blocks/products/pf/feature-page-code %}}

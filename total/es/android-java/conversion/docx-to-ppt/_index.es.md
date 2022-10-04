@@ -13,16 +13,16 @@ otherformats: ODP POT POTM PPTM PPSM PPS POWERPOINT POTX PPSX PPTX
 {{< blocks/products/pf/feature-page-header h1="Convierta DOCX a PPT en aplicaciones de Android" h2="Conversión de DOCX a PPT en sus aplicaciones de Android sin instalar Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-¿Es usted un desarrollador de Android que busca agregar una función de conversión de docxumentos a su aplicación? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Las bibliotecas de automatización de formato de archivo pueden ayudarlo a automatizar el proceso de conversión de docxumentos en sus aplicaciones de Android. Para convertir un archivo DOCX a PPT, primero puede usar la API de manipulación de docxumentos [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) para convertir el formato de archivo DOCX a HTML. Después de eso, al usar la API de PowerPoint [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/), puede crear una nueva presentación, escribir contenido HTML en ella y guardarla como PAO. 
+¿Es usted un desarrollador de Android que busca agregar una función de conversión de documentos a su aplicación? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Las bibliotecas de automatización de formato de archivo pueden ayudarlo a automatizar el proceso de conversión de documentos en sus aplicaciones de Android. Para convertir un archivo DOCX a PPT, primero puede usar la API de manipulación de documentos [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) para convertir el formato de archivo DOCX a HTML. Después de eso, al usar la API de PowerPoint [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/), puede crear una nueva presentación, escribir contenido HTML en ella y guardarla como PAO. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir DOCX a PPT en Android" %}}
-1. Abra el archivo DOCX usando la clase [Docxumento](https://reference.aspose.com/words/java/com.aspose.words/Docxument)
-2. Convierta el archivo DOCX a HTML usando [guardar](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,com.aspose.words.SaveOptions )) método
+1. Abra el archivo DOCX usando la clase [Documento](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Convierta el archivo DOCX a HTML usando [guardar](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions )) método
 3. Inicialice un nuevo objeto [Presentación](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraiga el contenido del archivo HTML usando BufferedReader y escriba el contenido en su archivo de presentación
-6. Guarde el docxumento en PPT usando el método [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. Guarde el documento en PPT usando el método [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
@@ -33,16 +33,18 @@ Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-docx-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convierta DOCX protegido a PPT en Android a través de Java" %}}
-También puede convertir su DOCX protegido por contraseña a PPT dentro de sus aplicaciones de Android. Si su docxumento DOCX de entrada está protegido con contraseña, no puede convertirlo al formato PPT sin usar la contraseña. Para abrir un docxumento cifrado, puede establecer la contraseña correcta en el objeto LoadOptions y pasarla al constructor del docxumento.
+También puede convertir su DOCX protegido por contraseña a PPT dentro de sus aplicaciones de Android. Si su documento DOCX de entrada está protegido con contraseña, no puede convertirlo al formato PPT sin usar la contraseña. Para abrir un documento cifrado, puede establecer la contraseña correcta en el objeto LoadOptions y pasarla al constructor del documento.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-docx-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-docx-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

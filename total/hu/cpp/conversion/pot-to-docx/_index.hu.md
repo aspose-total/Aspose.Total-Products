@@ -20,8 +20,8 @@ Az [Aspose.Total for C++](https://products.aspose.com/total/cpp/) a C++ fájlfor
 {{% blocks/products/pf/agp/feature-section-col title="C++ API a POT DOCX-vé konvertálásához" %}}
 1. Töltse be a POT-fájlt a [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) osztályhivatkozás használatával
 2. Rendelje meg a POT-ot HTML-ben a [Mentés](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) tagfunkcióval, és állítsa be a HTML-t SaveFormat-ként
-3. Töltse be a konvertált HTML-fájlt a [Docxument](https://reference.aspose.com/words/cpp/class/aspose.words.docxument) osztályhivatkozás használatával
-4. Mentse a dokumentumot DOCX formátumba a [Mentés](https://reference.aspose.com/words/cpp/class/aspose.words.docxument#save_string) tagfunkcióval
+3. Töltse be a konvertált HTML-fájlt a [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) osztályhivatkozás használatával
+4. Mentse a dokumentumot DOCX formátumba a [Mentés](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string) tagfunkcióval
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
@@ -35,9 +35,9 @@ Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eke
 SharedPtr<Presentation> prs = MakeObject<Presentation>(u"input.pot");
 // Save presentation in HTML format.
 prs->Save(u"htmlOutput.html", Aspose::Slides::Export::SaveFormat::Html);
-// load HTML with an instance of Docxument
-System::SharedPtr<Docxument> docx = System::MakeObject<Docxument>(u"htmlOutput.html");
-// save docxument in DOCX format
+// load HTML with an instance of Document
+System::SharedPtr<Document> docx = System::MakeObject<Document>(u"htmlOutput.html");
+// save document in DOCX format
 docx->Save(u"output.docx"); 
 ```
 

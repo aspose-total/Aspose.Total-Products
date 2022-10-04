@@ -21,8 +21,8 @@ Bạn có thể chuyển đổi tài liệu đã cho của mình trong hai bư�
 {{% blocks/products/pf/agp/feature-section-col title="POTM to DOCX Rendering trong Android" %}}
 1. Mở tệp POTM bằng lớp [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Chuyển đổi POTM sang HTML bằng cách sử dụng [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)ương thứcISaveOptions-) và đặt Html làm SaveFormat
-3. Tải tệp HTML đã chuyển đổi bằng cách sử dụng lớp [Docxument](https://reference.aspose.com/words/java/com.aspose.words/Docxument)
-4. Lưu tài liệu sang định dạng DOCX bằng phương pháp [save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String, int)) và đặt Docx dưới dạng SaveFormat
+3. Tải tệp HTML đã chuyển đổi bằng cách sử dụng lớp [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. Lưu tài liệu sang định dạng DOCX bằng phương pháp [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String, int)) và đặt Docx dưới dạng SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
@@ -36,10 +36,10 @@ Ngoài ra, bạn có thể tải tệp ZIP từ [download](https://downloads.asp
 Presentation presentation = new Presentation("input.potm");
 // save the presentation as HTML
 presentation.save("htmlOutput.html", SaveFormat.Html);
-// load HTML with an instance of Docxument
-Docxument docxument = new Docxument("htmlOutput.html");
-// save docxument in DOCX format
-docxument.save("output.docx",SaveFormat.Docxx);   
+// load HTML with an instance of Document
+Document document = new Document("htmlOutput.html");
+// save document in DOCX format
+document.save("output.docx",SaveFormat.Docxx);   
 ```
 
 {{% /blocks/products/pf/feature-page-code %}}

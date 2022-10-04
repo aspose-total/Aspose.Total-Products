@@ -18,8 +18,8 @@ Bạn là nhà phát triển Android đang muốn thêm tính năng chuyển đ�
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cách chuyển DOCX sang PPS trong Android" %}}
-1. Mở tệp DOCX bằng lớp [Docxument](https://reference.aspose.com/words/java/com.aspose.words/Docxument)
-2. Chuyển đổi tệp DOCX sang HTML bằng cách sử dụng [save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String, com.aspose.words.SaveOptions) )) phương pháp
+1. Mở tệp DOCX bằng lớp [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Chuyển đổi tệp DOCX sang HTML bằng cách sử dụng [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String, com.aspose.words.SaveOptions) )) phương pháp
 3. Khởi tạo đối tượng [Bản trình bày](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) mới
 5. Trích xuất nội dung từ tệp HTML bằng BufferedReader và ghi nội dung vào tệp bản trình bày của bạn
 6. Lưu tài liệu vào PPS bằng phương thức [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
@@ -33,7 +33,8 @@ Ngoài ra, bạn có thể tải tệp ZIP từ [download](https://downloads.asp
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-docx-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ Ngoài ra, bạn có thể tải tệp ZIP từ [download](https://downloads.asp
 Bạn cũng có thể chuyển đổi DOCX được bảo vệ bằng mật khẩu sang PPS trong các ứng dụng Android của mình. Nếu tài liệu DOCX đầu vào của bạn được bảo vệ bằng mật khẩu, bạn không thể chuyển đổi nó sang định dạng PPS mà không sử dụng mật khẩu. Để mở một tài liệu được mã hóa, bạn có thể đặt mật khẩu chính xác trong đối tượng LoadOptions và chuyển nó đến phương thức khởi tạo Tài liệu.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-docx-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-docx-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

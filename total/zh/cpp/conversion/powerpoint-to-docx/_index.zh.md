@@ -20,8 +20,8 @@ otherformats: DOT WORD DOC ODT DOTX DOTM OTT DOCM WORDML FLATOPC RTF TEXT
 {{% blocks/products/pf/agp/feature-section-col title="将 POWERPOINT 转换为 DOCX 的 C++ API" %}}
 1. 使用 [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) 类参考加载 POWERPOINT 文件
 2. 使用 [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) 成员函数将 POWERPOINT 渲染为 HTML 并将 Html 设置为 SaveFormat
-3. 使用 [Docxument](https://reference.aspose.com/words/cpp/class/aspose.words.docxument) 类引用加载转换后的 HTML 文件
-4. 使用[Save](https://reference.aspose.com/words/cpp/class/aspose.words.docxument#save_string)成员函数将文档保存为DOCX格式
+3. 使用 [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) 类引用加载转换后的 HTML 文件
+4. 使用[Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string)成员函数将文档保存为DOCX格式
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
@@ -35,9 +35,9 @@ otherformats: DOT WORD DOC ODT DOTX DOTM OTT DOCM WORDML FLATOPC RTF TEXT
 SharedPtr<Presentation> prs = MakeObject<Presentation>(u"input.pptx");
 // Save presentation in HTML format.
 prs->Save(u"htmlOutput.html", Aspose::Slides::Export::SaveFormat::Html);
-// load HTML with an instance of Docxument
-System::SharedPtr<Docxument> docx = System::MakeObject<Docxument>(u"htmlOutput.html");
-// save docxument in DOCX format
+// load HTML with an instance of Document
+System::SharedPtr<Document> docx = System::MakeObject<Document>(u"htmlOutput.html");
+// save document in DOCX format
 docx->Save(u"output.docx"); 
 ```
 

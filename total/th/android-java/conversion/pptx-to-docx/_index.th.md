@@ -21,8 +21,8 @@ otherformats: DOC WORDML DOTM TEXT OTT FLATOPC DOCM ODT DOT WORD DOTX RTF
 {{% blocks/products/pf/agp/feature-section-col title="การแสดงผล PPTX เป็น DOCX ใน Android" %}}
 1. เปิดไฟล์ PPTX โดยใช้คลาส [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. แปลง PPTX เป็น HTML โดยใช้ [Save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slidesISaveOptions-) และตั้งค่า Html เป็น SaveFormat
-3. โหลดไฟล์ HTML ที่แปลงแล้วโดยใช้คลาส [Docxument](https://reference.aspose.com/words/java/com.aspose.words/Docxument)
-4. บันทึกเอกสารในรูปแบบ DOCX โดยใช้เมธอด [save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,int)) และตั้งค่า Docx เป็น SaveFormat
+3. โหลดไฟล์ HTML ที่แปลงแล้วโดยใช้คลาส [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. บันทึกเอกสารในรูปแบบ DOCX โดยใช้เมธอด [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) และตั้งค่า Docx เป็น SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
@@ -36,10 +36,10 @@ otherformats: DOC WORDML DOTM TEXT OTT FLATOPC DOCM ODT DOT WORD DOTX RTF
 Presentation presentation = new Presentation("input.pptx");
 // save the presentation as HTML
 presentation.save("htmlOutput.html", SaveFormat.Html);
-// load HTML with an instance of Docxument
-Docxument docxument = new Docxument("htmlOutput.html");
-// save docxument in DOCX format
-docxument.save("output.docx",SaveFormat.Docxx);   
+// load HTML with an instance of Document
+Document document = new Document("htmlOutput.html");
+// save document in DOCX format
+document.save("output.docx",SaveFormat.Docxx);   
 ```
 
 {{% /blocks/products/pf/feature-page-code %}}

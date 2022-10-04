@@ -18,8 +18,8 @@ otherformats: PPTX PPT PPS PPSM POWERPOINT PPSX POTX PPTM POT ODP
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverze DOCX na POTM v C++" %}}
-1. Otevřete soubor DOCX pomocí odkazu třídy [Docxument](https://reference.aspose.com/words/cpp/class/aspose.words.docxument)
-2. Převeďte DOCX do HTML pomocí členské funkce [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docxument#save_stdbasicostream_saveoptions)
+1. Otevřete soubor DOCX pomocí odkazu třídy [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
+2. Převeďte DOCX do HTML pomocí členské funkce [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stdbasicostream_saveoptions)
 3. Inicializujte nový objekt [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. Přidejte na snímek automatický tvar a přidejte do něj AddTextFrame
 5. Načtěte obsah HTML a zapište jej do souboru prezentace
@@ -34,10 +34,10 @@ Případně si můžete stáhnout offline instalační program MSI nebo knihovny
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp
-// load DOCX file with an instance of Docxument
-Docxument docxument = new Docxument("template.docx");
-System::SharedPtr<Docxument> docx = System::MakeObject<Docxument>(u"sourceFile.docx");
-// save the docxument in HTML file format
+// load DOCX file with an instance of Document
+Document document = new Document("template.docx");
+System::SharedPtr<Document> docx = System::MakeObject<Document>(u"sourceFile.docx");
+// save the document in HTML file format
 docx->Save(u"HtmlOutput.HTML");
 // load the desired the presentation
 SharedPtr<Presentation> pres = MakeObject<Presentation>();
@@ -61,7 +61,8 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Potm
 pres->Save(output.potm, Aspose::Slides::Export::SaveFormat::Potm);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -71,11 +72,12 @@ Kromě převodu dokumentů umožňuje [Aspose.Words for C++](https://products.as
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp
-// when loading password protected docxument, the password is passed to the docxument's constructor using a LoadOptions object.
+// when loading password protected document, the password is passed to the document's constructor using a LoadOptions object.
 auto options = MakeObject<LoadOptions>(u"docxPassword");
-// load the docxument from the local file system by filename:
+// load thDocumentnt from the local fiDocument by filename:
 SharedPtr<Docxument> docx = MakeObject<Docxument>(u"Encrypted.docx", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Potm
 pres->Save(output.potm, Aspose::Slides::Export::SaveFormat::Potm);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

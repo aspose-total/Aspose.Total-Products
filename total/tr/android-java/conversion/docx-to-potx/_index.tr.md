@@ -18,8 +18,8 @@ Uygulamanıza belge dönüştürme özelliği eklemek isteyen bir Android geliş
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Android'de DOCX'yi POTX'ye Dönüştürme" %}}
-1. DOCX dosyasını [Docxument](https://reference.aspose.com/words/java/com.aspose.words/Docxument) sınıfını kullanarak açın
-2. [save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,com.aspose.words.SaveOptions) kullanarak DOCX dosyasını HTML'ye dönüştürün )) yöntem
+1. DOCX dosyasını [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) sınıfını kullanarak açın
+2. [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) kullanarak DOCX dosyasını HTML'ye dönüştürün )) yöntem
 3. Yeni bir [Sunum](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) nesnesini başlatın
 5. BufferedReader kullanarak HTML dosyasından içerik çıkarın ve içeriği sunum dosyanıza yazın
 6. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) yöntemini kullanarak belgeyi POTX'ye kaydedin
@@ -33,16 +33,18 @@ Alternatif olarak, [downloads](https://downloads.aspose.com/total/androidjava) a
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-docx-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Java aracılığıyla Android'de Korumalı DOCX'yi POTX'ye dönüştürün" %}}
+{{% blocks/products/pf/feature-page-section  h2="Java aracılığıyla Android'de Korumalı DOCX'yi POTX'ye dönüştürün" %}}Document
 Ayrıca Android uygulamalarınızda şifre korumalı DOCX'nizi POTX'ye dönüştürebilirsiniz. Girdiğiniz DOCX belgeniz parola korumalıysa, parolayı kullanmadan POTX biçimine dönüştüremezsiniz. Şifrelenmiş bir belgeyi açmak için LoadOptions nesnesinde doğru parolayı ayarlayabilir ve bunu Docxument yapıcısına iletebilirsiniz.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-docx-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-docx-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

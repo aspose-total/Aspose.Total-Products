@@ -18,8 +18,8 @@ otherformats: PPSM POWERPOINT PPT PPTX PPSX PPTM POT PPS POTM ODP
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="如何在 Android 中將 DOCX 轉換為 POTX" %}}
-1. 使用 [Docxument](https://reference.aspose.com/words/java/com.aspose.words/Docxument) 類打開 DOCX 文件
-2. 使用 [save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,com.aspose.words.SaveOptions) 將 DOCX 文件轉換為 HTML )) 方法
+1. 使用 [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 類打開 DOCX 文件
+2. 使用 [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) 將 DOCX 文件轉換為 HTML )) 方法
 3.初始化一個新的[Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)對象
 5. 使用 BufferedReader 從 HTML 文件中提取內容並將內容寫入您的演示文件
 6. 使用 [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) 方法將文檔保存到 POTX
@@ -33,16 +33,18 @@ otherformats: PPSM POWERPOINT PPT PPTX PPSX PPTM POT PPS POTM ODP
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-docx-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="通過 Java 在 Android 中將受保護的 DOCX 轉換為 POTX" %}}
+{{% blocks/products/pf/feature-page-section  h2="通過 Java 在 Android 中將受保護的 DOCX 轉換為 POTX" %}}Document
 您還可以在 Android 應用程序中將受密碼保護的 DOCX 轉換為 POTX。如果您輸入的 DOCX 文檔受密碼保護，則您無法在不使用密碼的情況下將其轉換為 POTX 格式。為了打開加密文檔，您可以在 LoadOptions 對像中設置正確的密碼並將其傳遞給 Docxument 構造函數。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-docx-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-docx-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

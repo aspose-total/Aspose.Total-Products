@@ -20,8 +20,8 @@ otherformats: PPTX WORD DOC POWERPOINT
 {{% blocks/products/pf/agp/feature-section-col title="API Android per esportare XLTM in DOCX" %}}
 1. Aprire il file XLTM utilizzando la classe [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 2. Converti XLTM in PDF e imposta SaveFormat su AUTO
-3. Caricare il file PDF convertito utilizzando la classe [Docxument](https://reference.aspose.com/pdf/java/com.aspose.pdf/Docxument)
-4. Salvare il docxumento in formato DOCX utilizzando [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Docxument#save-java.lang.String-com.aspose.pdf.SaveOptions -) metodo
+3. Caricare il file PDF convertito utilizzando la classe [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+4. Salvare il documento in formato DOCX utilizzando [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions -) metodo
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
@@ -36,27 +36,29 @@ In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspos
 Workbook book = new Workbook("input.xltm");
 // save XLTM as PDF
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Docxument class
-Docxument docxument = new Docxument("pdfOutput.pdf");
-// save docxument in DOCX format
-docxument.save("output.docx", com.aspose.pdf.SaveFormat.DocxX);    
-```
+// load the PDF file using Document class
+Document document = new Document("pdfOutput.pdf");
+// save document in DOCX format
+document.save("output.docx", com.aspose.pdf.SaveFormat.DocxX);    
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Rimuovi le proprietà personalizzate dal file XLTM in Android tramite Java" %}}
-Oltre alla conversione dei docxumenti, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) offre anche tantissime altre funzionalità. Prima del processo di conversione, puoi rimuovere le proprietà personalizzate del docxumento XLTM. Per rimuovere le proprietà personalizzate, chiama il metodo [DocxumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/docxumentpropertycollection#remove(java.lang.String)) e passa il nome di la proprietà del docxumento da rimuovere.
+{{% blocks/products/pf/feature-page-section  h2="Rimuovi le proprietà personalizzate dal file XLTM in Android tramite Java" %}}Document
+Oltre alla conversione dei documenti, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) offre anche tantissime altre funzionalità. Prima del processo di conversione, puoi rimuovere le proprietà personalizzate del documento XLTM. Per rimuovere le proprietà personalizzate, chiama il metodo [DocxumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/documentpropertycollection#remove(java.lang.String)) e passa il nome di la proprietà del documento da rimuovere.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java
 // load the XLTM file using Workbook class
 Workbook book = new Workbook("input.xltm");
-// retrieve a list of all custom docxument properties of the Excel file
+Documentve a list of all custom document properties of the Excel fileDocument
 DocxumentPropertyCollection customProperties = workbook.getWorksheets().getCustomDocxumentProperties();
-// remove a custom docxument property
+// remove a custom document property
 customProperties.remove("Publisher"); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

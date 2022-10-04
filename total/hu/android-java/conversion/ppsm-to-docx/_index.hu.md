@@ -21,8 +21,8 @@ A megadott dokumentumot két lépésben konvertálhatja. Az [Aspose.Slides for A
 {{% blocks/products/pf/agp/feature-section-col title="PPSM to DOCX renderelés Androidon" %}}
 1. Nyissa meg a PPSM-fájlt a [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) osztály használatával
 2. A [mentés](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides) segítségével konvertálja a PPSM-ot HTML-be.ISaveOptions-) metódust, és állítsa be a HTML-t SaveFormat-ként
-3. Töltse be a konvertált HTML-fájlt a [Docxument](https://reference.aspose.com/words/java/com.aspose.words/Docxument) osztály használatával
-4. Mentse a dokumentumot DOCX formátumba a [save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,int)) módszerrel, és állítsa be a Docx beállítást mint SaveFormat
+3. Töltse be a konvertált HTML-fájlt a [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) osztály használatával
+4. Mentse a dokumentumot DOCX formátumba a [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) módszerrel, és állítsa be a Docx beállítást mint SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
@@ -36,10 +36,10 @@ Másik megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads
 Presentation presentation = new Presentation("input.ppsm");
 // save the presentation as HTML
 presentation.save("htmlOutput.html", SaveFormat.Html);
-// load HTML with an instance of Docxument
-Docxument docxument = new Docxument("htmlOutput.html");
-// save docxument in DOCX format
-docxument.save("output.docx",SaveFormat.Docxx);   
+// load HTML with an instance of Document
+Document document = new Document("htmlOutput.html");
+// save document in DOCX format
+document.save("output.docx",SaveFormat.Docxx);   
 ```
 
 {{% /blocks/products/pf/feature-page-code %}}

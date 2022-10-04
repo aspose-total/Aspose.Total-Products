@@ -18,8 +18,8 @@ otherformats: XLSX TSV XLT XLTX CSV ODS XLAM FODS EXCEL XLTM XLSB DIF XLS XLSM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Android API 将 DOCX 转换为 SXC" %}}
-1. 使用 [Docxument](https://reference.aspose.com/words/java/com.aspose.words/Docxument) 类打开 DOCX 文件
-2. 使用 [Save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,com.aspose.words.SaveOptions) 将 DOCX 转换为 HTML ) 方法
+1. 使用 [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 类打开 DOCX 文件
+2. 使用 [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) 将 DOCX 转换为 HTML ) 方法
 3. 使用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 类加载 HTML 文档
 4. 使用 [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.)) 将文档保存为 SXC 格式。 SaveOptions)) 方法
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -32,16 +32,18 @@ otherformats: XLSX TSV XLT XLTX CSV ODS XLAM FODS EXCEL XLTM XLSB DIF XLS XLSM
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-word-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="通过 Java 从 Android 中的 DOCX 文档中删除未使用的信息" %}}
+{{% blocks/products/pf/feature-page-section  h2="通过 Java 从 Android 中的 DOCX 文档中删除未使用的信息" %}}Document
 在将 DOCX 转换为 SXC 之前，您可以通过 [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) 从 DOCX 文档中删除未使用的信息。有时您可能需要删除未使用或重复的信息以减少输出文档的大小和处理时间。 [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) 类允许您指定文档清理的选项。要从文档中删除重复的样式或只是未使用的样式或列表，您可以使用 [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Docxument#cleanup()) 方法。您可以使用 [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) 和 [UnusedBuiltinStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedBuiltinStyles) 属性来检测和删除标记为“未使用”的样式。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-docxument.java" >}}
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-document.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: XLSX TSV XLT XLTX CSV ODS XLAM FODS EXCEL XLTM XLSB DIF XLS XLSM
 将 DOCX 转换为 SXC 后，[Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) 使您能够将文档保存为流式传输。如果您需要将文件保存到 Stream，那么您应该创建一个 FileOutputStream 对象，然后 [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) 通过调用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 的 save 方法将文件保存到该 Stream 对象目的。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

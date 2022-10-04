@@ -20,8 +20,8 @@ otherformats: PPTX WORD POWERPOINT DOC
 {{% blocks/products/pf/agp/feature-section-col title="सीएसवी को डीओसी में निर्यात करने के लिए एंड्रॉइड एपीआई" %}}
 1. [वर्कबुक](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) क्लास का इस्तेमाल करके XLSM फ़ाइल खोलें
 2. XLSM को PDF में बदलें और SaveFormat को AUTO पर सेट करें
-3. रूपांतरित पीडीएफ फाइल को [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Docxument) वर्ग का उपयोग करके लोड करें
-4. [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Docxument#save-java.lang.String-com.aspose.pdf.SaveOptions का उपयोग करके दस्तावेज़ को DOCX प्रारूप में सहेजें -) तरीका
+3. रूपांतरित पीडीएफ फाइल को [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) वर्ग का उपयोग करके लोड करें
+4. [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions का उपयोग करके दस्तावेज़ को DOCX प्रारूप में सहेजें -) तरीका
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
@@ -36,27 +36,29 @@ otherformats: PPTX WORD POWERPOINT DOC
 Workbook book = new Workbook("input.xlsm");
 // save XLSM as PDF
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Docxument class
-Docxument docxument = new Docxument("pdfOutput.pdf");
-// save docxument in DOCX format
-docxument.save("output.docx", com.aspose.pdf.SaveFormat.DocxX);    
-```
+// load the PDF file using Document class
+Document document = new Document("pdfOutput.pdf");
+// save document in DOCX format
+document.save("output.docx", com.aspose.pdf.SaveFormat.DocxX);    
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="जावा के माध्यम से Android में XLSM फ़ाइल से कस्टम गुण निकालें" %}}
-दस्तावेज़ रूपांतरण के अलावा, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) कई अन्य सुविधाएं भी प्रदान करता है। रूपांतरण प्रक्रिया से पहले, आप XLSM दस्तावेज़ के कस्टम गुण निकाल सकते हैं। कस्टम गुण निकालने के लिए, [DocxumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/docxumentpropertycollection#remove(java.lang.String)) विधि को कॉल करें और इसका नाम दें दस्तावेज़ संपत्ति को हटाया जाना है।
+{{% blocks/products/pf/feature-page-section  h2="जावा के माध्यम से Android में XLSM फ़ाइल से कस्टम गुण निकालें" %}}Document
+दस्तावेज़ रूपांतरण के अलावा, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) कई अन्य सुविधाएं भी प्रदान करता है। रूपांतरण प्रक्रिया से पहले, आप XLSM दस्तावेज़ के कस्टम गुण निकाल सकते हैं। कस्टम गुण निकालने के लिए, [DocxumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/documentpropertycollection#remove(java.lang.String)) विधि को कॉल करें और इसका नाम दें दस्तावेज़ संपत्ति को हटाया जाना है।
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java
 // load the XLSM file using Workbook class
 Workbook book = new Workbook("input.xlsm");
-// retrieve a list of all custom docxument properties of the Excel file
+Documentve a list of all custom document properties of the Excel fileDocument
 DocxumentPropertyCollection customProperties = workbook.getWorksheets().getCustomDocxumentProperties();
-// remove a custom docxument property
+// remove a custom document property
 customProperties.remove("Publisher"); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

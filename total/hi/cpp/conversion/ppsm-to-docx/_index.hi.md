@@ -20,8 +20,8 @@ otherformats: DOTM DOCM DOT WORDML OTT TEXT DOTX DOC ODT FLATOPC WORD RTF
 {{% blocks/products/pf/agp/feature-section-col title="पीओटी को डीओसी में बदलने के लिए सी++ एपीआई" %}}
 1. [प्रस्तुति](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) वर्ग संदर्भ का उपयोग करके PPSM फ़ाइल लोड करें
 2. [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) सदस्य funciton का उपयोग करके HTML को PPSM रेंडर करें और HTML को SaveFormat के रूप में सेट करें
-3. परिवर्तित HTML फ़ाइल को [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docxument) वर्ग संदर्भ का उपयोग करके लोड करें
-4. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docxument#save_string) सदस्य fucntion का उपयोग करके दस्तावेज़ को DOCX प्रारूप में सहेजें
+3. परिवर्तित HTML फ़ाइल को [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) वर्ग संदर्भ का उपयोग करके लोड करें
+4. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string) सदस्य fucntion का उपयोग करके दस्तावेज़ को DOCX प्रारूप में सहेजें
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
@@ -35,9 +35,9 @@ otherformats: DOTM DOCM DOT WORDML OTT TEXT DOTX DOC ODT FLATOPC WORD RTF
 SharedPtr<Presentation> prs = MakeObject<Presentation>(u"input.ppsm");
 // Save presentation in HTML format.
 prs->Save(u"htmlOutput.html", Aspose::Slides::Export::SaveFormat::Html);
-// load HTML with an instance of Docxument
-System::SharedPtr<Docxument> docx = System::MakeObject<Docxument>(u"htmlOutput.html");
-// save docxument in DOCX format
+// load HTML with an instance of Document
+System::SharedPtr<Document> docx = System::MakeObject<Document>(u"htmlOutput.html");
+// save document in DOCX format
 docx->Save(u"output.docx"); 
 ```
 

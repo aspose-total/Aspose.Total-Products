@@ -16,8 +16,8 @@ otherformats: PPTX POWERPOINT DOC WORD
 {{% blocks/products/pf/agp/feature-section-col title="C++ 上的 ODS 到 DOCX 轉換" %}}
 1. 使用[Factory](https://reference.aspose.com/cells)的[IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)成員函數打開ODS文件/cpp/class/aspose.cells.factory) 類參考
 2. 將 ODS 轉換為 PDF 並將 SaveFormat 設置為 Pdf
-3.使用[Docxument](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument)類參考加載轉換後的PDF文件
-4. 使用[Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument#a6383c010776212483f51cc41235924db)成員函數將文檔保存為DOCX格式，並將Docx設置為SaveFormat
+3.使用[Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)類參考加載轉換後的PDF文件
+4. 使用[Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db)成員函數將文檔保存為DOCX格式，並將Docx設置為SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="轉換要求" %}}
@@ -31,9 +31,9 @@ otherformats: PPTX POWERPOINT DOC WORD
 intrusive_ptr<Aspose::Cells::IWorkbook> wkb = Factory::CreateIWorkbook(u"sourceFile.ods");
 // save ODS as PDF
 wkb->Save(u"pdfOutput.pdf", SaveFormat_Pdf);
-// load the PDF file using Docxument class reference
-auto docx = MakeObject<Docxument>(u"pdfOutput.pdf");
-// save docxument in DOCX format
+// load the PDF file using Document class reference
+auto docx = MakeObject<Document>(u"pdfOutput.pdf");
+// save document in DOCX format
 docx->Save(u"convertedFile.docx", SaveFormat::DocxX);
 ```
 

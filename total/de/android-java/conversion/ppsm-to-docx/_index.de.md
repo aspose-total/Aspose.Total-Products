@@ -21,8 +21,8 @@ Sie können Ihr angegebenes Dokument in zwei Schritten konvertieren. Sie können
 {{% blocks/products/pf/agp/feature-section-col title="PPSM-zu-DOCX-Rendering in Android" %}}
 1. Öffnen Sie die PPSM-Datei mit der Klasse [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation).
 2. Konvertieren Sie PPSM in HTML mit [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) Methode und legen Sie Html als SaveFormat fest
-3. Laden Sie die konvertierte HTML-Datei mit der Klasse [Docxument](https://reference.aspose.com/words/java/com.aspose.words/Docxument).
-4. Speichern Sie das Dokument im DOCX-Format mit der Methode [save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,int)) und legen Sie Docx als SaveFormat
+3. Laden Sie die konvertierte HTML-Datei mit der Klasse [Document](https://reference.aspose.com/words/java/com.aspose.words/Document).
+4. Speichern Sie das Dokument im DOCX-Format mit der Methode [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) und legen Sie Docx als SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
@@ -36,10 +36,10 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://downloads.aspose.c
 Presentation presentation = new Presentation("input.ppsm");
 // save the presentation as HTML
 presentation.save("htmlOutput.html", SaveFormat.Html);
-// load HTML with an instance of Docxument
-Docxument docxument = new Docxument("htmlOutput.html");
-// save docxument in DOCX format
-docxument.save("output.docx",SaveFormat.Docxx);   
+// load HTML with an instance of Document
+Document document = new Document("htmlOutput.html");
+// save document in DOCX format
+document.save("output.docx",SaveFormat.Docxx);   
 ```
 
 {{% /blocks/products/pf/feature-page-code %}}

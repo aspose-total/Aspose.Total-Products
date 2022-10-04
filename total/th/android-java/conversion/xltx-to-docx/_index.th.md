@@ -20,8 +20,8 @@ otherformats: WORD DOC POWERPOINT PPTX
 {{% blocks/products/pf/agp/feature-section-col title="Android API เพื่อส่งออก XLTX เป็น DOCX" %}}
 1. เปิดไฟล์ XLTX โดยใช้คลาส [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 2. แปลง XLTX เป็น PDF และตั้งค่า SaveFormat เป็น AUTO
-3. โหลดไฟล์ PDF ที่แปลงแล้วโดยใช้คลาส [Docxument](https://reference.aspose.com/pdf/java/com.aspose.pdf/Docxument)
-4. บันทึกเอกสารในรูปแบบ DOCX โดยใช้ [Save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Docxument#save-java.lang.String-com.aspose.pdf.SaveOptions -) กระบวนการ
+3. โหลดไฟล์ PDF ที่แปลงแล้วโดยใช้คลาส [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+4. บันทึกเอกสารในรูปแบบ DOCX โดยใช้ [Save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions -) กระบวนการ
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
@@ -36,27 +36,29 @@ otherformats: WORD DOC POWERPOINT PPTX
 Workbook book = new Workbook("input.xltx");
 // save XLTX as PDF
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Docxument class
-Docxument docxument = new Docxument("pdfOutput.pdf");
-// save docxument in DOCX format
-docxument.save("output.docx", com.aspose.pdf.SaveFormat.DocxX);    
-```
+// load the PDF file using Document class
+Document document = new Document("pdfOutput.pdf");
+// save document in DOCX format
+document.save("output.docx", com.aspose.pdf.SaveFormat.DocxX);    
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="ลบคุณสมบัติที่กำหนดเองออกจากไฟล์ XLTX ใน Android ผ่าน Java" %}}
-นอกจากการแปลงเอกสารแล้ว [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) ยังมีฟีเจอร์อื่นๆ อีกเป็นจำนวนมากอีกด้วย ก่อนขั้นตอนการแปลง คุณสามารถลบคุณสมบัติที่กำหนดเองของเอกสาร XLTX ได้ หากต้องการลบคุณสมบัติที่กำหนดเอง ให้เรียกเมธอด [DocxumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/docxumentpropertycollection#remove(java.lang.String)) และส่งชื่อ คุณสมบัติของเอกสารที่จะลบออก
+{{% blocks/products/pf/feature-page-section  h2="ลบคุณสมบัติที่กำหนดเองออกจากไฟล์ XLTX ใน Android ผ่าน Java" %}}Document
+นอกจากการแปลงเอกสารแล้ว [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) ยังมีฟีเจอร์อื่นๆ อีกเป็นจำนวนมากอีกด้วย ก่อนขั้นตอนการแปลง คุณสามารถลบคุณสมบัติที่กำหนดเองของเอกสาร XLTX ได้ หากต้องการลบคุณสมบัติที่กำหนดเอง ให้เรียกเมธอด [DocxumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/documentpropertycollection#remove(java.lang.String)) และส่งชื่อ คุณสมบัติของเอกสารที่จะลบออก
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java
 // load the XLTX file using Workbook class
 Workbook book = new Workbook("input.xltx");
-// retrieve a list of all custom docxument properties of the Excel file
+Documentve a list of all custom document properties of the Excel fileDocument
 DocxumentPropertyCollection customProperties = workbook.getWorksheets().getCustomDocxumentProperties();
-// remove a custom docxument property
+// remove a custom document property
 customProperties.remove("Publisher"); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

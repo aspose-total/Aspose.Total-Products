@@ -18,8 +18,8 @@ Genom att använda [Aspose.Total for C++](https://products.aspose.com/total/cpp/
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertera DOCX till JSON-format via C++" %}}
-1. Öppna DOCX-filen med [Docxument](https://reference.aspose.com/words/cpp/class/aspose.words.docxument) klassreferens
-2. Konvertera DOCX till HTML genom att använda medlemsfunktionen [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docxument#save_string_saveformat)
+1. Öppna DOCX-filen med [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) klassreferens
+2. Konvertera DOCX till HTML genom att använda medlemsfunktionen [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)
 3. Ladda HTML-dokument med hjälp av klassreferens [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
 4. Spara dokumentet i JSON-format med hjälp av medlemsfunktionen [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -32,7 +32,8 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-word-to-json.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 Med hjälp av API:t kan du också öppna det lösenordsskyddade dokumentet. Om ditt inmatade DOCX-dokument är lösenordsskyddat kan du inte konvertera det till JSON-format utan att använda lösenordet. För att göra detta, använd en speciell konstruktoröverbelastning, som accepterar ett LoadOptions-objekt. Detta objekt innehåller egenskapen Password, som anger lösenordssträngen.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-protected-word-to-json.cpp" >}}
+{{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-protected-word-to-json.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -18,8 +18,8 @@ C++アプリケーションにDOCXからODSへの変換機能を簡単に含め�
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="DOCXをODSに変換するC++API" %}}
-1. [ドキュメント](https://reference.aspose.com/words/cpp/class/aspose.words.docxument)クラスリファレンスを使用してDOCXファイルを開きます
-2. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docxument#save_string_saveformat)メンバー関数を使用してDOCXをHTMLに変換します
+1. [ドキュメント](https://reference.aspose.com/words/cpp/class/aspose.words.document)クラスリファレンスを使用してDOCXファイルを開きます
+2. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)メンバー関数を使用してDOCXをHTMLに変換します
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)クラスリファレンスを使用してHTMLドキュメントをロードします
 4. [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)メンバー関数を使用してドキュメントをODS形式で保存します
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -32,16 +32,18 @@ C++アプリケーションにDOCXからODSへの変換機能を簡単に含め�
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "convert-word-to-excel.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="C++経由でDOCXドキュメントのプロパティにアクセスする" %}}
-[Aspose.Words for C++](https://products.aspose.com/words/cpp/)では、DOCXファイルのドキュメントプロパティにアクセスし、変換プロセスの前に十分な情報に基づいて決定を下すことができます。ドキュメントのプロパティにアクセスするには、[BuiltInDocxumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_docxument_properties)を使用して、組み込みのプロパティと[CustomDocxumentProperties](https：// reference.aspose.com/words/cpp/class/aspose.words.properties.custom_docxument_properties)を使用して、カスタムプロパティを取得します。次のコード例は、ドキュメント内のすべての組み込みプロパティとカスタムプロパティを列挙する方法を示しています。
+{{% blocks/products/pf/feature-page-section  h2="C++経由でDOCXドキュメントのプロパティにアクセスする" %}}DocumentDocument
+[Aspose.Words for C++](https://products.aspose.com/words/cpp/)では、DOCXファイルのドキュメントプロパティにアクセスし、変換プロセスの前に十分な情報に基づいて決定を下すことができます。ドキュメントのプロパティにアクセスするには、[BuiltInDocxumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_document_properties)を使用して、組み込みのプロパティと[CustomDocxumentProperties](https：// reference.aspose.com/words/cpp/class/aspose.words.properties.custom_document_properties)を使用して、カスタムプロパティを取得します。次のコード例は、ドキュメント内のすべての組み込みプロパティとカスタムプロパティを列挙する方法を示しています。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-docxument-properties.cs" >}}
+{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-document-properties.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ C++アプリケーションにDOCXからODSへの変換機能を簡単に含め�
 DOCXをODSに変換した後、[Aspose.Cells for C++](https://products.aspose.com/cells/cpp/)を使用すると、ドキュメントをストリーミングに保存できます。ファイルをストリームに保存するには、MemoryStreamまたはFileStreamオブジェクトを作成し、[IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)を呼び出してファイルをそのストリームオブジェクトに保存します。オブジェクトの[Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349)メソッド。 [Save](https://reference.aspose.com)を呼び出すときに、[SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a)列挙を使用して目的のファイル形式を指定します。メソッド。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "save-excel-to-stream.cpp" >}}
+{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "save-excel-to-stream.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

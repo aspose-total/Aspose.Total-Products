@@ -20,8 +20,8 @@ otherformats: WORDML TEXT ODT RTF DOTX DOT DOC FLATOPC DOCM WORD DOTM OTT
 {{% blocks/products/pf/agp/feature-section-col title="C++ API για Μετατροπή PPS σε DOCX" %}}
 1. Φορτώστε το αρχείο PPS χρησιμοποιώντας την αναφορά κλάσης [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 2. Αποδώστε το PPS σε HTML χρησιμοποιώντας τη συνάρτηση μέλους [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) και ορίστε το Html ως SaveFormat
-3. Φορτώστε το αρχείο HTML που έχει μετατραπεί χρησιμοποιώντας την αναφορά κλάσης [Docxument](https://reference.aspose.com/words/cpp/class/aspose.words.docxument)
-4. Αποθηκεύστε το έγγραφο σε μορφή DOCX χρησιμοποιώντας τη λειτουργία μέλους [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docxument#save_string)
+3. Φορτώστε το αρχείο HTML που έχει μετατραπεί χρησιμοποιώντας την αναφορά κλάσης [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
+4. Αποθηκεύστε το έγγραφο σε μορφή DOCX χρησιμοποιώντας τη λειτουργία μέλους [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
@@ -35,9 +35,9 @@ otherformats: WORDML TEXT ODT RTF DOTX DOT DOC FLATOPC DOCM WORD DOTM OTT
 SharedPtr<Presentation> prs = MakeObject<Presentation>(u"input.pps");
 // Save presentation in HTML format.
 prs->Save(u"htmlOutput.html", Aspose::Slides::Export::SaveFormat::Html);
-// load HTML with an instance of Docxument
-System::SharedPtr<Docxument> docx = System::MakeObject<Docxument>(u"htmlOutput.html");
-// save docxument in DOCX format
+// load HTML with an instance of Document
+System::SharedPtr<Document> docx = System::MakeObject<Document>(u"htmlOutput.html");
+// save document in DOCX format
 docx->Save(u"output.docx"); 
 ```
 

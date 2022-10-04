@@ -13,16 +13,16 @@ otherformats: PPSM POTX ODP PPT PPS PPTM POWERPOINT PPTX PPSX POTM
 {{< blocks/products/pf/feature-page-header h1="Converter DOCX para POT em aplicativos Android" h2="Conversão de DOCX para POT em seus aplicativos Android sem instalar o Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Você é um desenvolvedor Android que deseja adicionar um recurso de conversão de docxumentos ao seu aplicativo? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) As bibliotecas de automação de formato de arquivo podem ajudá-lo a automatizar o processo de conversão de docxumentos em seus aplicativos Android. Para converter o arquivo DOCX para POT, você pode primeiro usar a API de manipulação de docxumentos [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) para converter o formato de arquivo DOCX para HTML. Depois disso, usando a API do PowerPoint [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), você pode criar uma nova apresentação, escrever conteúdo HTML nela e salvá-la como POT. 
+Você é um desenvolvedor Android que deseja adicionar um recurso de conversão de documentos ao seu aplicativo? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) As bibliotecas de automação de formato de arquivo podem ajudá-lo a automatizar o processo de conversão de documentos em seus aplicativos Android. Para converter o arquivo DOCX para POT, você pode primeiro usar a API de manipulação de documentos [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) para converter o formato de arquivo DOCX para HTML. Depois disso, usando a API do PowerPoint [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), você pode criar uma nova apresentação, escrever conteúdo HTML nela e salvá-la como POT. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Como converter DOCX para POT no Android" %}}
-1. Abra o arquivo DOCX usando a classe [Docxument](https://reference.aspose.com/words/java/com.aspose.words/Docxument)
-2. Converta o arquivo DOCX em HTML usando [save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,com.aspose.words.SaveOptions )) método
+1. Abra o arquivo DOCX usando a classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Converta o arquivo DOCX em HTML usando [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions )) método
 3. Inicialize um novo objeto [Apresentação](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraia o conteúdo do arquivo HTML usando o BufferedReader e escreva o conteúdo em seu arquivo de apresentação
-6. Salve o docxumento no POT usando o método [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. Salve o documento no POT usando o método [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
@@ -33,16 +33,18 @@ Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloa
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-docx-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Converter DOCX protegido para POT no Android via Java" %}}
-Você também pode converter seu DOCX protegido por senha para POT em seus aplicativos Android. Se o docxumento DOCX de entrada estiver protegido por senha, você não poderá convertê-lo para o formato POT sem usar a senha. Para abrir um docxumento criptografado, você pode definir a senha correta no objeto LoadOptions e passá-la para o construtor Docxument.
+{{% blocks/products/pf/feature-page-section  h2="Converter DOCX protegido para POT no Android via Java" %}}Document
+Você também pode converter seu DOCX protegido por senha para POT em seus aplicativos Android. Se o documento DOCX de entrada estiver protegido por senha, você não poderá convertê-lo para o formato POT sem usar a senha. Para abrir um documento criptografado, você pode definir a senha correta no objeto LoadOptions e passá-la para o construtor Docxument.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-docx-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-docx-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

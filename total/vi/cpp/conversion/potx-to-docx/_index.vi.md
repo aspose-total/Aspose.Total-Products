@@ -20,8 +20,8 @@ otherformats: WORD DOCM TEXT DOTX DOT DOC FLATOPC WORDML ODT OTT RTF DOTM
 {{% blocks/products/pf/agp/feature-section-col title="API C++ để chuyển đổi POTX sang DOCX" %}}
 1. Tải tệp POTX bằng cách sử dụng tham chiếu lớp [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 2. Kết xuất POTX sang HTML bằng cách sử dụng [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) thành viên funciton và đặt Html làm SaveFormat
-3. Tải tệp HTML đã chuyển đổi bằng cách sử dụng tham chiếu lớp [Docxument](https://reference.aspose.com/words/cpp/class/aspose.words.docxument)
-4. Lưu tài liệu sang định dạng DOCX bằng cách sử dụng [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docxument#save_string) thành viên fucntion
+3. Tải tệp HTML đã chuyển đổi bằng cách sử dụng tham chiếu lớp [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
+4. Lưu tài liệu sang định dạng DOCX bằng cách sử dụng [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string) thành viên fucntion
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
@@ -35,9 +35,9 @@ Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp Z
 SharedPtr<Presentation> prs = MakeObject<Presentation>(u"input.potx");
 // Save presentation in HTML format.
 prs->Save(u"htmlOutput.html", Aspose::Slides::Export::SaveFormat::Html);
-// load HTML with an instance of Docxument
-System::SharedPtr<Docxument> docx = System::MakeObject<Docxument>(u"htmlOutput.html");
-// save docxument in DOCX format
+// load HTML with an instance of Document
+System::SharedPtr<Document> docx = System::MakeObject<Document>(u"htmlOutput.html");
+// save document in DOCX format
 docx->Save(u"output.docx"); 
 ```
 

@@ -20,8 +20,8 @@ otherformats: FLATOPC RTF WORD DOC OTT DOTX DOT ODT DOCM TEXT WORDML DOTM
 {{% blocks/products/pf/agp/feature-section-col title="POT'u DOCX'a Dönüştürmek için C++ API" %}}
 1. [Sunum](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) sınıf referansını kullanarak POT dosyasını yükleyin
 2. [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) üye işlevini kullanarak POT'u HTML'ye dönüştürün ve Html'yi SaveFormat olarak ayarlayın
-3. Dönüştürülen HTML dosyasını [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docxument) sınıf referansını kullanarak yükleyin
-4. [Kaydet](https://reference.aspose.com/words/cpp/class/aspose.words.docxument#save_string) üye işlevini kullanarak belgeyi DOCX biçiminde kaydedin
+3. Dönüştürülen HTML dosyasını [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) sınıf referansını kullanarak yükleyin
+4. [Kaydet](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string) üye işlevini kullanarak belgeyi DOCX biçiminde kaydedin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Dönüşüm Gereksinimleri" %}}
@@ -35,9 +35,9 @@ Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [downloads](h
 SharedPtr<Presentation> prs = MakeObject<Presentation>(u"input.pot");
 // Save presentation in HTML format.
 prs->Save(u"htmlOutput.html", Aspose::Slides::Export::SaveFormat::Html);
-// load HTML with an instance of Docxument
-System::SharedPtr<Docxument> docx = System::MakeObject<Docxument>(u"htmlOutput.html");
-// save docxument in DOCX format
+// load HTML with an instance of Document
+System::SharedPtr<Document> docx = System::MakeObject<Document>(u"htmlOutput.html");
+// save document in DOCX format
 docx->Save(u"output.docx"); 
 ```
 

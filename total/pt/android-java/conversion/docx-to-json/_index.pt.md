@@ -13,15 +13,15 @@ otherformats: XLAM XLSM DIF XLT CSV XLTX XLSX TSV ODS XLTM EXCEL FODS XLS XLSB
 {{< blocks/products/pf/feature-page-header h1="Converter DOCX para formato JSON no Android via Java" h2="Projete aplicativos Android para exportar DOCX para JSON sem usar o Microsoft<sup>&reg;</sup> Word ou Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Você pode converter o formato DOCX para JSON em seus aplicativos Android via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Usando a API de manipulação e conversão de docxumentos [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/), você pode exportar DOCX para HTML. Depois disso, usando [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), você pode converter HTML para JSON. 
+Você pode converter o formato DOCX para JSON em seus aplicativos Android via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Usando a API de manipulação e conversão de documentos [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/), você pode exportar DOCX para HTML. Depois disso, usando [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), você pode converter HTML para JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converter DOCX para formato JSON no Android" %}}
-1. Abra o arquivo DOCX usando a classe [Docxument](https://reference.aspose.com/words/java/com.aspose.words/Docxument)
-2. Converta DOCX para HTML usando [Save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,com.aspose.words.SaveOptions) ) método
-3. Carregue o docxumento HTML usando a classe [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Salve o docxumento no formato JSON usando [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) método
+1. Abra o arquivo DOCX usando a classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Converta DOCX para HTML usando [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) método
+3. Carregue o documento HTML usando a classe [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Salve o documento no formato JSON usando [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
@@ -32,16 +32,18 @@ Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloa
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "aa0de5f99dc2a07e32a776a548eac3fa" "convert-word-to-json.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Converter DOCX protegido para formato JSON no Android via Java" %}}
-Usando a API, você também pode abrir o docxumento protegido por senha. Se o docxumento DOCX de entrada estiver protegido por senha, você não poderá convertê-lo para o formato JSON sem usar a senha. A API permite que você abra o docxumento criptografado passando a senha correta em um objeto LoadOptions. O exemplo de código a seguir mostra como abrir um docxumento criptografado com uma senha.
+Usando a API, você também pode abrir o documento protegido por senha. Se o documento DOCX de entrada estiver protegido por senha, você não poderá convertê-lo para o formato JSON sem usar a senha. A API permite que você abra o documento criptografado passando a senha correta em um objeto LoadOptions. O exemplo de código a seguir mostra como abrir um documento criptografado com uma senha.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "aa0de5f99dc2a07e32a776a548eac3fa" "convert-protected-word-to-json.java" >}}
+{{< gist "aspose-com-gists" "aa0de5f99dc2a07e32a776a548eac3fa" "convert-protected-word-to-json.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Usando a API, você também pode abrir o docxumento protegido por senha. Se o do
 Ao converter DOCX para JSON, você também pode definir o intervalo para o formato JSON de saída. Para definir o intervalo, você pode abrir o HTML convertido usando a classe Workbook, criar um intervalo de dados a ser exportado usando o método Cells.createRange, chamar o método JsonUtility.exportRangeToJson com referências de Range & ExportRangeToJsonOptions e gravar dados JSON de string no arquivo via Método BufferedWriter.write.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "aa0de5f99dc2a07e32a776a548eac3fa" "convert-word-to-json-range.java" >}}
+{{< gist "aspose-com-gists" "aa0de5f99dc2a07e32a776a548eac3fa" "convert-word-to-json-range.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

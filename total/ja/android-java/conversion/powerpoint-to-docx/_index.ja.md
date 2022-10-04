@@ -21,8 +21,8 @@ otherformats: RTF FLATOPC TEXT DOCM ODT WORD DOTX DOTM WORDML DOT OTT DOC
 {{% blocks/products/pf/agp/feature-section-col title="AndroidでのPOWERPOINTからDOCXへのレンダリング" %}}
 1. [プレゼンテーション](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)クラスを使用してPOWERPOINTファイルを開きます
 2. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides)を使用してPOWERPOINTをHTMLに変換します。ISaveOptions-)メソッドを使用し、HtmlをSaveFormatとして設定します
-3. [Docxument](https://reference.aspose.com/words/java/com.aspose.words/Docxument)クラスを使用して変換されたHTMLファイルをロードします
-4. [save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,int))メソッドを使用してドキュメントをDOCX形式で保存し、Docxを設定しますSaveFormatとして
+3. [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)クラスを使用して変換されたHTMLファイルをロードします
+4. [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))メソッドを使用してドキュメントをDOCX形式で保存し、Docxを設定しますSaveFormatとして
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
@@ -36,10 +36,10 @@ otherformats: RTF FLATOPC TEXT DOCM ODT WORD DOTX DOTM WORDML DOT OTT DOC
 Presentation presentation = new Presentation("input.pptx");
 // save the presentation as HTML
 presentation.save("htmlOutput.html", SaveFormat.Html);
-// load HTML with an instance of Docxument
-Docxument docxument = new Docxument("htmlOutput.html");
-// save docxument in DOCX format
-docxument.save("output.docx",SaveFormat.Docxx);   
+// load HTML with an instance of Document
+Document document = new Document("htmlOutput.html");
+// save document in DOCX format
+document.save("output.docx",SaveFormat.Docxx);   
 ```
 
 {{% /blocks/products/pf/feature-page-code %}}

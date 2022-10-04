@@ -16,8 +16,8 @@ otherformats: DOC PPTX WORD POWERPOINT
 {{% blocks/products/pf/agp/feature-section-col title="C++에서 XLT에서 DOCX로 변환" %}}
 1. [Factory](https://reference.aspose.com/cells)의 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 멤버 함수를 사용하여 XLT 파일 열기 /cpp/class/aspose.cells.factory) 클래스 참조
 2. XLT를 PDF로 변환하고 SaveFormat을 PDF로 설정
-3. [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument) 클래스 참조를 사용하여 변환된 PDF 파일을 로드합니다.
-4. [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument#a6383c010776212483f51cc41235924db) 멤버 함수를 사용하여 문서를 DOCX 형식으로 저장하고 Docx을 SaveFormat으로 설정합니다.
+3. [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) 클래스 참조를 사용하여 변환된 PDF 파일을 로드합니다.
+4. [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db) 멤버 함수를 사용하여 문서를 DOCX 형식으로 저장하고 Docx을 SaveFormat으로 설정합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
@@ -31,9 +31,9 @@ otherformats: DOC PPTX WORD POWERPOINT
 intrusive_ptr<Aspose::Cells::IWorkbook> wkb = Factory::CreateIWorkbook(u"sourceFile.xlt");
 // save XLT as PDF
 wkb->Save(u"pdfOutput.pdf", SaveFormat_Pdf);
-// load the PDF file using Docxument class reference
-auto docx = MakeObject<Docxument>(u"pdfOutput.pdf");
-// save docxument in DOCX format
+// load the PDF file using Document class reference
+auto docx = MakeObject<Document>(u"pdfOutput.pdf");
+// save document in DOCX format
 docx->Save(u"convertedFile.docx", SaveFormat::DocxX);
 ```
 

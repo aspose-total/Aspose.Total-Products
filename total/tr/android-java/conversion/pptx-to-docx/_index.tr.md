@@ -21,8 +21,8 @@ Verilen belgenizi iki adımda dönüştürebilirsiniz. PPTX'u HTML'ye dönüşt�
 {{% blocks/products/pf/agp/feature-section-col title="Android'de PPTX'tan DOCX'a İşleme" %}}
 1. [Sunum](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) sınıfını kullanarak PPTX dosyasını açın
 2. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides) kullanarak PPTX'u HTML'ye dönüştürün.ISaveOptions-) yöntemi ve Html'yi SaveFormat olarak ayarlayın
-3. Dönüştürülen HTML dosyasını [Docxument](https://reference.aspose.com/words/java/com.aspose.words/Docxument) sınıfını kullanarak yükleyin
-4. Belgeyi [save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,int)) yöntemini kullanarak DOCX biçiminde kaydedin ve Docx'u ayarlayın SaveFormat olarak
+3. Dönüştürülen HTML dosyasını [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) sınıfını kullanarak yükleyin
+4. Belgeyi [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) yöntemini kullanarak DOCX biçiminde kaydedin ve Docx'u ayarlayın SaveFormat olarak
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Dönüşüm Gereksinimleri" %}}
@@ -36,10 +36,10 @@ Alternatif olarak, [downloads](https://downloads.aspose.com/total/androidjava) a
 Presentation presentation = new Presentation("input.pptx");
 // save the presentation as HTML
 presentation.save("htmlOutput.html", SaveFormat.Html);
-// load HTML with an instance of Docxument
-Docxument docxument = new Docxument("htmlOutput.html");
-// save docxument in DOCX format
-docxument.save("output.docx",SaveFormat.Docxx);   
+// load HTML with an instance of Document
+Document document = new Document("htmlOutput.html");
+// save document in DOCX format
+document.save("output.docx",SaveFormat.Docxx);   
 ```
 
 {{% /blocks/products/pf/feature-page-code %}}

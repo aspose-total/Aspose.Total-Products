@@ -16,8 +16,8 @@ otherformats: WORD DOC PPTX POWERPOINT
 {{% blocks/products/pf/agp/feature-section-col title="SXC naar DOCX-conversie op C++" %}}
 1. Open SXC-bestand met behulp van [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) lidfunctie van [Factory](https://reference.aspose.com/cells/cpp/class/aspose.cells.factory) klassereferentie
 2. Converteer SXC naar PDF en stel SaveFormat in op Pdf
-3. Laad het geconverteerde PDF-bestand met de klasseverwijzing [Docxument](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument)
-4. Sla het docxument op in DOCX-formaat met behulp van [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument#a6383c010776212483f51cc41235924db) lidfunctie en stel Docx in als SaveFormat
+3. Laad het geconverteerde PDF-bestand met de klasseverwijzing [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)
+4. Sla het document op in DOCX-formaat met behulp van [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db) lidfunctie en stel Docx in als SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
@@ -31,9 +31,9 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 intrusive_ptr<Aspose::Cells::IWorkbook> wkb = Factory::CreateIWorkbook(u"sourceFile.sxc");
 // save SXC as PDF
 wkb->Save(u"pdfOutput.pdf", SaveFormat_Pdf);
-// load the PDF file using Docxument class reference
-auto docx = MakeObject<Docxument>(u"pdfOutput.pdf");
-// save docxument in DOCX format
+// load the PDF file using Document class reference
+auto docx = MakeObject<Document>(u"pdfOutput.pdf");
+// save document in DOCX format
 docx->Save(u"convertedFile.docx", SaveFormat::DocxX);
 ```
 

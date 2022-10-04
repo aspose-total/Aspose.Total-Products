@@ -20,8 +20,8 @@ otherformats: DOC FLATOPC OTT RTF DOT DOTM TEXT WORDML ODT DOCM WORD DOTX
 {{% blocks/products/pf/agp/feature-section-col title="API de C++ para convertir PPT a DOCX" %}}
 1. Cargue el archivo PPT usando la referencia de clase [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 2. Renderice PPT a HTML usando la función de miembro [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) y configure Html como SaveFormat
-3. Cargue el archivo HTML convertido usando la referencia de clase [Docxumento](https://reference.aspose.com/words/cpp/class/aspose.words.docxument)
-4. Guarde el docxumento en formato DOCX usando la función de miembro [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.docxument#save_string)
+3. Cargue el archivo HTML convertido usando la referencia de clase [Documento](https://reference.aspose.com/words/cpp/class/aspose.words.document)
+4. Guarde el documento en formato DOCX usando la función de miembro [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
@@ -35,9 +35,9 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 SharedPtr<Presentation> prs = MakeObject<Presentation>(u"input.ppt");
 // Save presentation in HTML format.
 prs->Save(u"htmlOutput.html", Aspose::Slides::Export::SaveFormat::Html);
-// load HTML with an instance of Docxument
-System::SharedPtr<Docxument> docx = System::MakeObject<Docxument>(u"htmlOutput.html");
-// save docxument in DOCX format
+// load HTML with an instance of Document
+System::SharedPtr<Document> docx = System::MakeObject<Document>(u"htmlOutput.html");
+// save document in DOCX format
 docx->Save(u"output.docx"); 
 ```
 

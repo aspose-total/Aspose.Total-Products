@@ -16,8 +16,8 @@ otherformats: POWERPOINT WORD DOC PPTX
 {{% blocks/products/pf/agp/feature-section-col title="Conversione da XLTM a DOCX su C++" %}}
 1. Aprire il file XLTM utilizzando la funzione membro [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) di [Factory](https://reference.aspose.com/cells/cpp/class/aspose.cells.factory) riferimento alla classe
 2. Converti XLTM in PDF e imposta SaveFormat su Pdf
-3. Caricare il file PDF convertito utilizzando il riferimento alla classe [Docxument](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument)
-4. Salvare il docxumento in formato DOCX utilizzando la funzione membro [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument#a6383c010776212483f51cc41235924db) e impostare Docx come SaveFormat
+3. Caricare il file PDF convertito utilizzando il riferimento alla classe [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)
+4. Salvare il documento in formato DOCX utilizzando la funzione membro [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db) e impostare Docx come SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
@@ -31,9 +31,9 @@ In alternativa, scarica il programma di installazione MSI offline o le DLL in un
 intrusive_ptr<Aspose::Cells::IWorkbook> wkb = Factory::CreateIWorkbook(u"sourceFile.xltm");
 // save XLTM as PDF
 wkb->Save(u"pdfOutput.pdf", SaveFormat_Pdf);
-// load the PDF file using Docxument class reference
-auto docx = MakeObject<Docxument>(u"pdfOutput.pdf");
-// save docxument in DOCX format
+// load the PDF file using Document class reference
+auto docx = MakeObject<Document>(u"pdfOutput.pdf");
+// save document in DOCX format
 docx->Save(u"convertedFile.docx", SaveFormat::DocxX);
 ```
 

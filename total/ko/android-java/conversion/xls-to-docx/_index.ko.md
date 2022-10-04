@@ -20,8 +20,8 @@ otherformats: WORD DOC POWERPOINT PPTX
 {{% blocks/products/pf/agp/feature-section-col title="XLS를 DOCX로 내보내는 Android API" %}}
 1. [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 클래스를 사용하여 XLS 파일 열기
 2. XLS를 PDF로 변환하고 SaveFormat을 AUTO로 설정
-3. [Docxument](https://reference.aspose.com/pdf/java/com.aspose.pdf/Docxument) 클래스를 이용하여 변환된 PDF 파일을 불러옵니다.
-4. [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Docxument#save-java.lang.String-com.aspose.pdf.SaveOptions)을 사용하여 문서를 DOCX 형식으로 저장합니다. -) 방법
+3. [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) 클래스를 이용하여 변환된 PDF 파일을 불러옵니다.
+4. [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions)을 사용하여 문서를 DOCX 형식으로 저장합니다. -) 방법
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
@@ -36,27 +36,29 @@ otherformats: WORD DOC POWERPOINT PPTX
 Workbook book = new Workbook("input.xls");
 // save XLS as PDF
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Docxument class
-Docxument docxument = new Docxument("pdfOutput.pdf");
-// save docxument in DOCX format
-docxument.save("output.docx", com.aspose.pdf.SaveFormat.DocxX);    
-```
+// load the PDF file using Document class
+Document document = new Document("pdfOutput.pdf");
+// save document in DOCX format
+document.save("output.docx", com.aspose.pdf.SaveFormat.DocxX);    
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Java를 통해 Android의 XLS 파일에서 사용자 정의 속성 제거" %}}
-문서 변환 외에도 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)는 수많은 다른 기능도 제공합니다. 변환 프로세스 전에 XLS 문서의 사용자 정의 속성을 제거할 수 있습니다. 사용자 정의 속성을 제거하려면 [DocxumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/docxumentpropertycollection#remove(java.lang.String)) 메서드를 호출하고 제거할 문서 속성입니다.
+{{% blocks/products/pf/feature-page-section  h2="Java를 통해 Android의 XLS 파일에서 사용자 정의 속성 제거" %}}Document
+문서 변환 외에도 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)는 수많은 다른 기능도 제공합니다. 변환 프로세스 전에 XLS 문서의 사용자 정의 속성을 제거할 수 있습니다. 사용자 정의 속성을 제거하려면 [DocxumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/documentpropertycollection#remove(java.lang.String)) 메서드를 호출하고 제거할 문서 속성입니다.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java
 // load the XLS file using Workbook class
 Workbook book = new Workbook("input.xls");
-// retrieve a list of all custom docxument properties of the Excel file
+Documentve a list of all custom document properties of the Excel fileDocument
 DocxumentPropertyCollection customProperties = workbook.getWorksheets().getCustomDocxumentProperties();
-// remove a custom docxument property
+// remove a custom document property
 customProperties.remove("Publisher"); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

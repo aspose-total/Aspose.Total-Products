@@ -13,16 +13,16 @@ otherformats: POTX POWERPOINT POTM POT PPTM PPT PPSX PPSM ODP PPTX
 {{< blocks/products/pf/feature-page-header h1="Converter DOCX para PPS em aplicativos Android" h2="Conversão de DOCX para PPS em seus aplicativos Android sem instalar o Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Você é um desenvolvedor Android que deseja adicionar um recurso de conversão de docxumentos ao seu aplicativo? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) As bibliotecas de automação de formato de arquivo podem ajudá-lo a automatizar o processo de conversão de docxumentos em seus aplicativos Android. Para converter o arquivo DOCX para PPS, você pode primeiro usar a API de manipulação de docxumentos [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) para converter o formato de arquivo DOCX para HTML. Depois disso, usando a API do PowerPoint [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), você pode criar uma nova apresentação, escrever conteúdo HTML nela e salvá-la como PPS. 
+Você é um desenvolvedor Android que deseja adicionar um recurso de conversão de documentos ao seu aplicativo? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) As bibliotecas de automação de formato de arquivo podem ajudá-lo a automatizar o processo de conversão de documentos em seus aplicativos Android. Para converter o arquivo DOCX para PPS, você pode primeiro usar a API de manipulação de documentos [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) para converter o formato de arquivo DOCX para HTML. Depois disso, usando a API do PowerPoint [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), você pode criar uma nova apresentação, escrever conteúdo HTML nela e salvá-la como PPS. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Como converter DOCX para PPS no Android" %}}
-1. Abra o arquivo DOCX usando a classe [Docxument](https://reference.aspose.com/words/java/com.aspose.words/Docxument)
-2. Converta o arquivo DOCX em HTML usando [save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,com.aspose.words.SaveOptions )) método
+1. Abra o arquivo DOCX usando a classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Converta o arquivo DOCX em HTML usando [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions )) método
 3. Inicialize um novo objeto [Apresentação](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraia o conteúdo do arquivo HTML usando o BufferedReader e escreva o conteúdo em seu arquivo de apresentação
-6. Salve o docxumento no PPS usando o método [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
+6. Salve o documento no PPS usando o método [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
@@ -33,16 +33,18 @@ Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloa
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-docx-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Converter DOCX protegido para PPS no Android via Java" %}}
-Você também pode converter seu DOCX protegido por senha para PPS em seus aplicativos Android. Se o docxumento DOCX de entrada estiver protegido por senha, você não poderá convertê-lo para o formato PPS sem usar a senha. Para abrir um docxumento criptografado, você pode definir a senha correta no objeto LoadOptions e passá-la para o construtor Docxument.
+{{% blocks/products/pf/feature-page-section  h2="Converter DOCX protegido para PPS no Android via Java" %}}Document
+Você também pode converter seu DOCX protegido por senha para PPS em seus aplicativos Android. Se o documento DOCX de entrada estiver protegido por senha, você não poderá convertê-lo para o formato PPS sem usar a senha. Para abrir um documento criptografado, você pode definir a senha correta no objeto LoadOptions e passá-la para o construtor Docxument.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-docx-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-docx-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

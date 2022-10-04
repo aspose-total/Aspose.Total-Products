@@ -18,8 +18,8 @@ Sie können die DOCX-zu-EXCEL-Konvertierungsfunktion einfach in Ihre C++-Anwendu
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++-API zum Konvertieren von DOCX in EXCEL" %}}
-1. Öffnen Sie die DOCX-Datei mit der Klassenreferenz [Docxument](https://reference.aspose.com/words/cpp/class/aspose.words.docxument).
-2. Konvertieren Sie DOCX in HTML, indem Sie die Member-Funktion [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docxument#save_string_saveformat) verwenden
+1. Öffnen Sie die DOCX-Datei mit der Klassenreferenz [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document).
+2. Konvertieren Sie DOCX in HTML, indem Sie die Member-Funktion [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) verwenden
 3. Laden Sie das HTML-Dokument mithilfe der Klassenreferenz [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
 4. Speichern Sie das Dokument mit der Member-Funktion [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) im EXCEL-Format
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -32,16 +32,18 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "convert-word-to-excel.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Greifen Sie über C++ auf DOCX-Dokumenteigenschaften zu" %}}
-[Aspose.Words for C++](https://products.aspose.com/words/cpp/) ermöglicht Ihnen auch den Zugriff auf die Dokumenteigenschaften der DOCX-Datei und ermöglicht es Ihnen, vor dem Konvertierungsprozess eine fundierte Entscheidung zu treffen. Um auf Dokumenteigenschaften zuzugreifen, können Sie [BuiltInDocxumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_docxument_properties) verwenden, um integrierte Eigenschaften und [CustomDocxumentProperties](https:// reference.aspose.com/words/cpp/class/aspose.words.properties.custom_docxument_properties), um benutzerdefinierte Eigenschaften zu erhalten. Das folgende Codebeispiel zeigt, wie alle integrierten und benutzerdefinierten Eigenschaften in einem Dokument aufgelistet werden.
+{{% blocks/products/pf/feature-page-section  h2="Greifen Sie über C++ auf DOCX-Dokumenteigenschaften zu" %}}DocumentDocument
+[Aspose.Words for C++](https://products.aspose.com/words/cpp/) ermöglicht Ihnen auch den Zugriff auf die Dokumenteigenschaften der DOCX-Datei und ermöglicht es Ihnen, vor dem Konvertierungsprozess eine fundierte Entscheidung zu treffen. Um auf Dokumenteigenschaften zuzugreifen, können Sie [BuiltInDocxumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_document_properties) verwenden, um integrierte Eigenschaften und [CustomDocxumentProperties](https:// reference.aspose.com/words/cpp/class/aspose.words.properties.custom_document_properties), um benutzerdefinierte Eigenschaften zu erhalten. Das folgende Codebeispiel zeigt, wie alle integrierten und benutzerdefinierten Eigenschaften in einem Dokument aufgelistet werden.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-docxument-properties.cs" >}}
+{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-document-properties.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 Nach der Konvertierung von DOCX in EXCEL können Sie mit [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Ihr Dokument zum Streamen speichern. Um Dateien in einem Stream zu speichern, erstellen Sie ein MemoryStream- oder FileStream-Objekt und speichern Sie die Datei in diesem Stream-Objekt, indem Sie [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) aufrufen. Objekts Methode [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349). Geben Sie das gewünschte Dateiformat mit der Aufzählung [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) beim Aufruf der [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) Methode.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "save-excel-to-stream.cpp" >}}
+{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "save-excel-to-stream.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

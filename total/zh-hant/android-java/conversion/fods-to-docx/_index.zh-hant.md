@@ -20,8 +20,8 @@ otherformats: DOC WORD PPTX POWERPOINT
 {{% blocks/products/pf/agp/feature-section-col title="用於將 FODS 導出為 DOCX 的 Android API" %}}
 1. 使用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 類打開 FODS 文件
 2. 將 FODS 轉換為 PDF 並將 SaveFormat 設置為 AUTO
-3.使用[Docxument](https://reference.aspose.com/pdf/java/com.aspose.pdf/Docxument)類加載轉換後的PDF文件
-4. 使用[save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Docxument#save-java.lang.String-com.aspose.pdf.SaveOptions)將文檔保存為DOCX格式-) 方法
+3.使用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)類加載轉換後的PDF文件
+4. 使用[save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions)將文檔保存為DOCX格式-) 方法
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="轉換要求" %}}
@@ -36,27 +36,29 @@ otherformats: DOC WORD PPTX POWERPOINT
 Workbook book = new Workbook("input.fods");
 // save FODS as PDF
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Docxument class
-Docxument docxument = new Docxument("pdfOutput.pdf");
-// save docxument in DOCX format
-docxument.save("output.docx", com.aspose.pdf.SaveFormat.DocxX);    
-```
+// load the PDF file using Document class
+Document document = new Document("pdfOutput.pdf");
+// save document in DOCX format
+document.save("output.docx", com.aspose.pdf.SaveFormat.DocxX);    
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="通過 Java 從 Android 中的 FODS 文件中刪除自定義屬性" %}}
-除了文檔轉換，[Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) 還提供了大量其他功能。在轉換過程之前，您可以刪除 FODS 文檔的自定義屬性。要刪除自定義屬性，請調用 [DocxumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/docxumentpropertycollection#remove(java.lang.String)) 方法並傳遞名稱要刪除的文檔屬性。
+{{% blocks/products/pf/feature-page-section  h2="通過 Java 從 Android 中的 FODS 文件中刪除自定義屬性" %}}Document
+除了文檔轉換，[Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) 還提供了大量其他功能。在轉換過程之前，您可以刪除 FODS 文檔的自定義屬性。要刪除自定義屬性，請調用 [DocxumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/documentpropertycollection#remove(java.lang.String)) 方法並傳遞名稱要刪除的文檔屬性。
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java
 // load the FODS file using Workbook class
 Workbook book = new Workbook("input.fods");
-// retrieve a list of all custom docxument properties of the Excel file
+Documentve a list of all custom document properties of the Excel fileDocument
 DocxumentPropertyCollection customProperties = workbook.getWorksheets().getCustomDocxumentProperties();
-// remove a custom docxument property
+// remove a custom document property
 customProperties.remove("Publisher"); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

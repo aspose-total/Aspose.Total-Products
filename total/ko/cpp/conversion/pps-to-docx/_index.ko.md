@@ -20,8 +20,8 @@ otherformats: WORDML TEXT ODT RTF DOTX DOT DOC FLATOPC DOCM WORD DOTM OTT
 {{% blocks/products/pf/agp/feature-section-col title="PPS를 DOCX로 변환하는 C++ API" %}}
 1. [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) 클래스 참조를 사용하여 PPS 파일 로드
 2. [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) 멤버 기능을 사용하여 PPS을 HTML로 렌더링하고 Html을 SaveFormat으로 설정합니다.
-3. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docxument) 클래스 참조를 이용하여 변환된 HTML 파일을 로드합니다.
-4. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docxument#save_string) 멤버 함수를 사용하여 문서를 DOCX 형식으로 저장합니다.
+3. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) 클래스 참조를 이용하여 변환된 HTML 파일을 로드합니다.
+4. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string) 멤버 함수를 사용하여 문서를 DOCX 형식으로 저장합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
@@ -35,9 +35,9 @@ otherformats: WORDML TEXT ODT RTF DOTX DOT DOC FLATOPC DOCM WORD DOTM OTT
 SharedPtr<Presentation> prs = MakeObject<Presentation>(u"input.pps");
 // Save presentation in HTML format.
 prs->Save(u"htmlOutput.html", Aspose::Slides::Export::SaveFormat::Html);
-// load HTML with an instance of Docxument
-System::SharedPtr<Docxument> docx = System::MakeObject<Docxument>(u"htmlOutput.html");
-// save docxument in DOCX format
+// load HTML with an instance of Document
+System::SharedPtr<Document> docx = System::MakeObject<Document>(u"htmlOutput.html");
+// save document in DOCX format
 docx->Save(u"output.docx"); 
 ```
 

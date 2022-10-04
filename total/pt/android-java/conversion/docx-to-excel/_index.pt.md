@@ -13,15 +13,15 @@ otherformats: XLSX ODS XLTX XLT FODS DIF TSV XLTM SXC XLS CSV XLSB XLSM XLAM
 {{< blocks/products/pf/feature-page-header h1="Converter DOCX para EXCEL em aplicativos Android" h2="Exporte DOCX para EXCEL no Android via Java sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Ao usar o [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), você pode integrar o recurso de conversão de DOCX para EXCEL dentro de seus aplicativos Android. Em primeiro lugar, você pode converter DOCX para HTML usando a API de conversão e manipulação de docxumentos rica em recursos [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Depois disso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), você pode converter HTML para EXCEL. 
+Ao usar o [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), você pode integrar o recurso de conversão de DOCX para EXCEL dentro de seus aplicativos Android. Em primeiro lugar, você pode converter DOCX para HTML usando a API de conversão e manipulação de documentos rica em recursos [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Depois disso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), você pode converter HTML para EXCEL. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API Android para converter DOCX para EXCEL" %}}
-1. Abra o arquivo DOCX usando a classe [Docxument](https://reference.aspose.com/words/java/com.aspose.words/Docxument)
-2. Converta DOCX para HTML usando [Save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,com.aspose.words.SaveOptions) ) método
-3. Carregue o docxumento HTML usando a classe [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Salve o docxumento no formato EXCEL usando [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) método
+1. Abra o arquivo DOCX usando a classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Converta DOCX para HTML usando [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) método
+3. Carregue o documento HTML usando a classe [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Salve o documento no formato EXCEL usando [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
@@ -32,24 +32,27 @@ Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloa
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-word-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Remover informações não utilizadas de um docxumento DOCX no Android via Java" %}}
-Antes de converter DOCX para EXCEL, você pode remover informações não utilizadas do Docxumento DOCX por meio do [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Às vezes, pode ser necessário remover informações não utilizadas ou duplicadas para reduzir o tamanho do docxumento de saída e o tempo de processamento. A classe [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) permite especificar opções para limpeza de docxumentos. Para remover estilos duplicados ou apenas estilos ou listas não utilizados do docxumento, você pode usar o método [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Docxument#cleanup()). Você pode usar os [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) e [UnusedBuiltinStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedBuiltinStyles) para detectar e remover estilos marcados como “não usados”.
+{{% blocks/products/pf/feature-page-section  h2="Remover informações não utilizadas Documentxumento DOCX no Android via Java" %}}Document
+Antes de converter DOCX para EXCEL, você pode remover informações não utilizadas do Docxumento DOCX por meio do [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Às vezes, pode ser necessário remover informações não utilizadas ou duplicadas para reduzir o tamanho do documento de saída e o tempo de processamento. A classe [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) permite especificar opções para limpeza de documentos. Para remover estilos duplicados ou apenas estilos ou listas não utilizados do documento, você pode usar o método [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Docxument#cleanup()). Você pode usar os [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) e [UnusedBuiltinStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedBuiltinStyles) para detectar e remover estilos marcados como “não usados”.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-docxument.java" >}}
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-document.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Salvar arquivo EXCEL para transmitir no Android via Java" %}}
-Depois de converter DOCX para EXCEL, o [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) permite que você salve seu docxumento para transmitir. Se você precisar salvar arquivos em um Stream, deverá criar um objeto FileOutputStream e, em seguida, [salvar](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) o arquivo para esse objeto Stream chamando o método save de [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) objeto.
+Depois de converter DOCX para EXCEL, o [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) permite que você salve seu documento para transmitir. Se você precisar salvar arquivos em um Stream, deverá criar um objeto FileOutputStream e, em seguida, [salvar](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) o arquivo para esse objeto Stream chamando o método save de [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) objeto.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

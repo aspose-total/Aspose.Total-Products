@@ -21,8 +21,8 @@ Możesz przekonwertować swój dokument w dwóch krokach. Do renderowania PPTX d
 {{% blocks/products/pf/agp/feature-section-col title="Renderowanie PPTX do DOCX w systemie Android" %}}
 1. Otwórz plik PPTX za pomocą klasy [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Przekonwertuj PPTX na HTML, używając [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) i ustaw HTML jako SaveFormat
-3. Załaduj przekonwertowany plik HTML za pomocą klasy [Docxument](https://reference.aspose.com/words/java/com.aspose.words/Docxument)
-4. Zapisz dokument w formacie DOCX za pomocą metody [save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,int)) i ustaw Docx jako SaveFormat
+3. Załaduj przekonwertowany plik HTML za pomocą klasy [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. Zapisz dokument w formacie DOCX za pomocą metody [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) i ustaw Docx jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
@@ -36,10 +36,10 @@ Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com
 Presentation presentation = new Presentation("input.pptx");
 // save the presentation as HTML
 presentation.save("htmlOutput.html", SaveFormat.Html);
-// load HTML with an instance of Docxument
-Docxument docxument = new Docxument("htmlOutput.html");
-// save docxument in DOCX format
-docxument.save("output.docx",SaveFormat.Docxx);   
+// load HTML with an instance of Document
+Document document = new Document("htmlOutput.html");
+// save document in DOCX format
+document.save("output.docx",SaveFormat.Docxx);   
 ```
 
 {{% /blocks/products/pf/feature-page-code %}}

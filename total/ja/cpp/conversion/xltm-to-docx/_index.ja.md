@@ -16,8 +16,8 @@ otherformats: POWERPOINT WORD DOC PPTX
 {{% blocks/products/pf/agp/feature-section-col title="C++でのXLTMからDOCXへの変換" %}}
 1. [Factory](https://reference.aspose.com/cells)の[IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)メンバー関数を使用してXLTMファイルを開きます。 /cpp/class/aspose.cells.factory)クラスリファレンス
 2. XLTMをPDFに変換し、SaveFormatをPdfに設定します
-3. [ドキュメント](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument)クラスリファレンスを使用して、変換されたPDFファイルをロードします
-4. [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument#a6383c010776212483f51cc41235924db)メンバー関数を使用してドキュメントをDOCX形式で保存し、DocxをSaveFormatとして設定します
+3. [ドキュメント](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)クラスリファレンスを使用して、変換されたPDFファイルをロードします
+4. [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db)メンバー関数を使用してドキュメントをDOCX形式で保存し、DocxをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
@@ -31,9 +31,9 @@ otherformats: POWERPOINT WORD DOC PPTX
 intrusive_ptr<Aspose::Cells::IWorkbook> wkb = Factory::CreateIWorkbook(u"sourceFile.xltm");
 // save XLTM as PDF
 wkb->Save(u"pdfOutput.pdf", SaveFormat_Pdf);
-// load the PDF file using Docxument class reference
-auto docx = MakeObject<Docxument>(u"pdfOutput.pdf");
-// save docxument in DOCX format
+// load the PDF file using Document class reference
+auto docx = MakeObject<Document>(u"pdfOutput.pdf");
+// save document in DOCX format
 docx->Save(u"convertedFile.docx", SaveFormat::DocxX);
 ```
 

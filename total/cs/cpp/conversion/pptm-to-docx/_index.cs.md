@@ -20,8 +20,8 @@ otherformats: DOTX DOT WORD OTT ODT RTF WORDML DOC TEXT DOTM FLATOPC DOCM
 {{% blocks/products/pf/agp/feature-section-col title="C++ API pro převod PPTM na DOCX" %}}
 1. Načtěte soubor PPTM pomocí odkazu třídy [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 2. Vykreslete PPTM do HTML pomocí členské funkce [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) a nastavte Html jako SaveFormat
-3. Načtěte převedený soubor HTML pomocí odkazu na třídu [Docxument](https://reference.aspose.com/words/cpp/class/aspose.words.docxument)
-4. Uložte dokument ve formátu DOCX pomocí členské funkce [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docxument#save_string)
+3. Načtěte převedený soubor HTML pomocí odkazu na třídu [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
+4. Uložte dokument ve formátu DOCX pomocí členské funkce [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
@@ -35,9 +35,9 @@ Případně si můžete stáhnout offline instalační program MSI nebo knihovny
 SharedPtr<Presentation> prs = MakeObject<Presentation>(u"input.pptm");
 // Save presentation in HTML format.
 prs->Save(u"htmlOutput.html", Aspose::Slides::Export::SaveFormat::Html);
-// load HTML with an instance of Docxument
-System::SharedPtr<Docxument> docx = System::MakeObject<Docxument>(u"htmlOutput.html");
-// save docxument in DOCX format
+// load HTML with an instance of Document
+System::SharedPtr<Document> docx = System::MakeObject<Document>(u"htmlOutput.html");
+// save document in DOCX format
 docx->Save(u"output.docx"); 
 ```
 

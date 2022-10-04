@@ -16,8 +16,8 @@ otherformats: PPTX POWERPOINT WORD DOC
 {{% blocks/products/pf/agp/feature-section-col title="Conversion XLS en DOCX sur C++" %}}
 1. Ouvrez le fichier XLS à l'aide de la fonction membre [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) de [Factory](https://reference.aspose.com/cells/cpp/class/aspose.cells.factory) référence de classe
 2. Convertissez XLS en PDF et définissez SaveFormat sur Pdf
-3. Chargez le fichier PDF converti à l'aide de la référence de classe [Docxument](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument)
-4. Enregistrez le docxument au format DOCX à l'aide de la fonction membre [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument#a6383c010776212483f51cc41235924db) et définissez Docx comme SaveFormat
+3. Chargez le fichier PDF converti à l'aide de la référence de classe [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)
+4. Enregistrez le document au format DOCX à l'aide de la fonction membre [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db) et définissez Docx comme SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
@@ -31,9 +31,9 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 intrusive_ptr<Aspose::Cells::IWorkbook> wkb = Factory::CreateIWorkbook(u"sourceFile.xls");
 // save XLS as PDF
 wkb->Save(u"pdfOutput.pdf", SaveFormat_Pdf);
-// load the PDF file using Docxument class reference
-auto docx = MakeObject<Docxument>(u"pdfOutput.pdf");
-// save docxument in DOCX format
+// load the PDF file using Document class reference
+auto docx = MakeObject<Document>(u"pdfOutput.pdf");
+// save document in DOCX format
 docx->Save(u"convertedFile.docx", SaveFormat::DocxX);
 ```
 

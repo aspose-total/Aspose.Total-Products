@@ -20,8 +20,8 @@ otherformats: PPTX DOC POWERPOINT WORD
 {{% blocks/products/pf/agp/feature-section-col title="Android API untuk Mengekspor XLSB ke DOCX" %}}
 1. Buka file XLSB menggunakan kelas [Buku Kerja](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 2. Konversi XLSB ke PDF dan atur SaveFormat ke AUTO
-3. Muat file PDF yang dikonversi menggunakan kelas [Docxument](https://reference.aspose.com/pdf/java/com.aspose.pdf/Docxument)
-4. Simpan dokumen ke format DOCX menggunakan [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Docxument#save-java.lang.String-com.aspose.pdf.SaveOptions -) metode
+3. Muat file PDF yang dikonversi menggunakan kelas [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+4. Simpan dokumen ke format DOCX menggunakan [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions -) metode
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
@@ -36,27 +36,29 @@ Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://downloads.aspose.c
 Workbook book = new Workbook("input.xlsb");
 // save XLSB as PDF
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Docxument class
-Docxument docxument = new Docxument("pdfOutput.pdf");
-// save docxument in DOCX format
-docxument.save("output.docx", com.aspose.pdf.SaveFormat.DocxX);    
-```
+// load the PDF file using Document class
+Document document = new Document("pdfOutput.pdf");
+// save document in DOCX format
+document.save("output.docx", com.aspose.pdf.SaveFormat.DocxX);    
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Hapus Properti Kustom dari File XLSB di Android melalui Java" %}}
-Selain konversi dokumen, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) juga menyediakan banyak fitur lainnya. Sebelum proses konversi, Anda dapat menghapus properti kustom dari dokumen XLSB. Untuk menghapus properti kustom, panggil metode [DocxumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/docxumentpropertycollection#remove(java.lang.String)) dan teruskan nama properti dokumen yang akan dihapus.
+{{% blocks/products/pf/feature-page-section  h2="Hapus Properti Kustom dari File XLSB di Android melalui Java" %}}Document
+Selain konversi dokumen, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) juga menyediakan banyak fitur lainnya. Sebelum proses konversi, Anda dapat menghapus properti kustom dari dokumen XLSB. Untuk menghapus properti kustom, panggil metode [DocxumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/documentpropertycollection#remove(java.lang.String)) dan teruskan nama properti dokumen yang akan dihapus.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java
 // load the XLSB file using Workbook class
 Workbook book = new Workbook("input.xlsb");
-// retrieve a list of all custom docxument properties of the Excel file
+Documentve a list of all custom document properties of the Excel fileDocument
 DocxumentPropertyCollection customProperties = workbook.getWorksheets().getCustomDocxumentProperties();
-// remove a custom docxument property
+// remove a custom document property
 customProperties.remove("Publisher"); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
