@@ -21,8 +21,8 @@ otherformats: DOC WORDML DOTM TEXT OTT FLATOPC DOCM ODT DOT WORD DOTX RTF
 {{% blocks/products/pf/agp/feature-section-col title="Android में PPTX से DOCX रेंडरिंग" %}}
 1. [प्रस्तुति](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) वर्ग का उपयोग करके PPTX फ़ाइल खोलें
 2. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)  का उपयोग करके PPTX को HTML में बदलें।ISaveOptions-) विधि और HTML को SaveFormat के रूप में सेट करें
-3. परिवर्तित HTML फ़ाइल को [Document](https://reference.aspose.com/words/java/com.aspose.words/Docxument) वर्ग का उपयोग करके लोड करें
-4. [save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,int)) विधि का उपयोग करके दस्तावेज़ को DOCX प्रारूप में सहेजें और Docx सेट करें SaveFormat के रूप में
+3. परिवर्तित HTML फ़ाइल को [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) वर्ग का उपयोग करके लोड करें
+4. [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) विधि का उपयोग करके दस्तावेज़ को DOCX प्रारूप में सहेजें और Docx सेट करें SaveFormat के रूप में
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
@@ -36,10 +36,10 @@ otherformats: DOC WORDML DOTM TEXT OTT FLATOPC DOCM ODT DOT WORD DOTX RTF
 Presentation presentation = new Presentation("input.pptx");
 // save the presentation as HTML
 presentation.save("htmlOutput.html", SaveFormat.Html);
-// load HTML with an instance of Docxument
-Docxument docxument = new Docxument("htmlOutput.html");
-// save docxument in DOCX format
-docxument.save("output.docx",SaveFormat.Docxx);   
+// load HTML with an instance of Document
+Document document = new Document("htmlOutput.html");
+// save document in DOCX format
+document.save("output.docx",SaveFormat.Docxx);   
 ```
 
 {{% /blocks/products/pf/feature-page-code %}}

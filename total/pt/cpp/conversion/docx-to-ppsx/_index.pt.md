@@ -18,12 +18,12 @@ otherformats: POT PPT POTX PPTX PPS PPSM POWERPOINT PPTM POTM ODP
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversão de DOCX para PPSX em C++" %}}
-1. Abra o arquivo DOCX usando a referência de classe [Docxument](https://reference.aspose.com/words/cpp/class/aspose.words.docxument)
-2. Converta DOCX para HTML usando a função de membro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docxument#save_stdbasicostream_saveoptions)
+1. Abra o arquivo DOCX usando a referência de classe [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
+2. Converta DOCX para HTML usando a função de membro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stdbasicostream_saveoptions)
 3. Inicialize um novo objeto [Apresentação](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. Adicione uma AutoForma em seu slide e adicione AddTextFrame nele
 5. Carregue o conteúdo HTML e escreva-o em seu arquivo de apresentação
-6. Salve o docxumento no formato PPSX usando o método [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) e defina Ppsx como SaveFormat
+6. Salve o documento no formato PPSX usando o método [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) e defina Ppsx como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
@@ -34,10 +34,10 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp
-// load DOCX file with an instance of Docxument
-Docxument docxument = new Docxument("template.docx");
-System::SharedPtr<Docxument> docx = System::MakeObject<Docxument>(u"sourceFile.docx");
-// save the docxument in HTML file format
+// load DOCX file with an instance of Document
+Document document = new Document("template.docx");
+System::SharedPtr<Document> docx = System::MakeObject<Document>(u"sourceFile.docx");
+// save the document in HTML file format
 docx->Save(u"HtmlOutput.HTML");
 // load the desired the presentation
 SharedPtr<Presentation> pres = MakeObject<Presentation>();
@@ -61,26 +61,28 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Ppsx
 pres->Save(output.ppsx, Aspose::Slides::Export::SaveFormat::Ppsx);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Carregar docxumento DOCX protegido por senha via C++" %}}
-Além da conversão de docxumentos, a API [Aspose.Words for C++](https://products.aspose.com/words/cpp/) permite vários recursos de manipulação de docxumentos para desenvolvedores de C++. Caso seu formato de arquivo DOCX do Microsoft Word seja protegido por senha, você ainda pode abri-lo usando a API. Para carregar o docxumento criptografado, você pode usar uma sobrecarga de construtor especial, que aceita um objeto [LoadOptions](https://reference.aspose.com/words/cpp/class/aspose.words.loading.load_options). Este objeto contém a propriedade Password, que especifica a string de senha.
+{{% blocks/products/pf/feature-page-section  h2="Carregar documento DOCX protegido por senha via C++" %}}
+Além da conversão de documentos, a API [Aspose.Words for C++](https://products.aspose.com/words/cpp/) permite vários recursos de manipulação de documentos para desenvolvedores de C++. Caso seu formato de arquivo DOCX do Microsoft Word seja protegido por senha, você ainda pode abri-lo usando a API. Para carregar o documento criptografado, você pode usar uma sobrecarga de construtor especial, que aceita um objeto [LoadOptions](https://reference.aspose.com/words/cpp/class/aspose.words.loading.load_options). Este objeto contém a propriedade Password, que especifica a string de senha.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp
-// when loading password protected docxument, the password is passed to the docxument's constructor using a LoadOptions object.
+// when loading password protected document, the password is passed to the document's constructor using a LoadOptions object.
 auto options = MakeObject<LoadOptions>(u"docxPassword");
-// load the docxument from the local file system by filename:
+// load thDocumentnt from the local fiDocument by filename:
 SharedPtr<Docxument> docx = MakeObject<Docxument>(u"Encrypted.docx", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Adicionar comentários no docxumento PPSX via C++" %}}
-Ao salvar o DOCX como PPSX, você também pode usar o [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) para adicionar mais recursos ao seu docxumento PPSX. Por exemplo, você pode adicionar comentários em sua apresentação. O comentário do slide da apresentação está associado a um autor específico. A classe Presentation contém a coleção de autores em ICommentAuthorCollection que são responsáveis por adicionar comentários ao slide. Para cada autor, há uma coleção de comentários em ICommentCollection.
+{{% blocks/products/pf/feature-page-section  h2="Adicionar comentários no documento PPSX via C++" %}}
+Ao salvar o DOCX como PPSX, você também pode usar o [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) para adicionar mais recursos ao seu documento PPSX. Por exemplo, você pode adicionar comentários em sua apresentação. O comentário do slide da apresentação está associado a um autor específico. A classe Presentation contém a coleção de autores em ICommentAuthorCollection que são responsáveis por adicionar comentários ao slide. Para cada autor, há uma coleção de comentários em ICommentCollection.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Ppsx
 pres->Save(output.ppsx, Aspose::Slides::Export::SaveFormat::Ppsx);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

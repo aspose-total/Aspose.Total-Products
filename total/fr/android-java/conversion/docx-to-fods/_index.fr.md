@@ -13,15 +13,15 @@ otherformats: XLTM XLT XLTX XLS DIF XLSM XLSB EXCEL ODS XLAM XLSX TSV CSV SXC
 {{< blocks/products/pf/feature-page-header h1="Convertir DOCX en FODS dans les applications Android" h2="Exportez DOCX vers FODS dans Android via Java sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), vous pouvez intégrer la fonction de conversion DOCX en FODS dans vos applications Android. Premièrement, vous pouvez convertir DOCX en HTML en utilisant une API de manipulation et de conversion de docxuments riche en fonctionnalités [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Après cela, en utilisant [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), vous pouvez convertir HTML en FODS. 
+En utilisant [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), vous pouvez intégrer la fonction de conversion DOCX en FODS dans vos applications Android. Premièrement, vous pouvez convertir DOCX en HTML en utilisant une API de manipulation et de conversion de documents riche en fonctionnalités [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Après cela, en utilisant [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), vous pouvez convertir HTML en FODS. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API Android pour convertir DOCX en FODS" %}}
-1. Ouvrez le fichier DOCX à l'aide de la classe [Docxument](https://reference.aspose.com/words/java/com.aspose.words/Docxument)
-2. Convertissez DOCX en HTML en utilisant [Save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,com.aspose.words.SaveOptions) ) méthode
-3. Chargez le docxument HTML à l'aide de la classe [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Enregistrez le docxument au format FODS en utilisant [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.MéthodeSaveOptions))
+1. Ouvrez le fichier DOCX à l'aide de la classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Convertissez DOCX en HTML en utilisant [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) méthode
+3. Chargez le document HTML à l'aide de la classe [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Enregistrez le document au format FODS en utilisant [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.MéthodeSaveOptions))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
@@ -32,24 +32,27 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://d
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-word-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Supprimer les informations inutilisées d'un docxument DOCX dans Android via Java" %}}
-Avant de convertir DOCX en FODS, vous pouvez supprimer les informations inutilisées du docxument DOCX via [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Parfois, vous devrez peut-être supprimer des informations inutilisées ou en double pour réduire la taille du docxument de sortie et le temps de traitement. La classe [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) vous permet de spécifier des options pour le nettoyage des docxuments. Pour supprimer les styles en double ou uniquement les styles ou listes inutilisés du docxument, vous pouvez utiliser la méthode [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Docxument#cleanup()). Vous pouvez utiliser les [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) et [UnusedBuiltinStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedBuiltinStyles) pour détecter et supprimer les styles marqués comme « inutilisés ».
+{{% blocks/products/pf/feature-page-section  h2="Supprimer les informations inutilisées d'un document DOCX dans Android via Java" %}}Document
+Avant de convertir DOCX en FODS, vous pouvez supprimer les informations inutilisées du document DOCX via [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Parfois, vous devrez peut-être supprimer des informations inutilisées ou en double pour réduire la taille du document de sortie et le temps de traitement. La classe [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) vous permet de spécifier des options pour le nettoyage des documents. Pour supprimer les styles en double ou uniquement les styles ou listes inutilisés du document, vous pouvez utiliser la méthode [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Docxument#cleanup()). Vous pouvez utiliser les [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) et [UnusedBuiltinStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedBuiltinStyles) pour détecter et supprimer les styles marqués comme « inutilisés ».
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-docxument.java" >}}
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-document.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Enregistrer le fichier FODS à diffuser dans Android via Java" %}}
-Après avoir converti DOCX en FODS, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) vous permet d'enregistrer votre docxument pour le diffuser. Si vous devez enregistrer des fichiers dans un flux, vous devez créer un objet FileOutputStream, puis [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) le fichier à cet objet Stream en appelant la méthode d'enregistrement de [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) objet.
+Après avoir converti DOCX en FODS, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) vous permet d'enregistrer votre document pour le diffuser. Si vous devez enregistrer des fichiers dans un flux, vous devez créer un objet FileOutputStream, puis [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) le fichier à cet objet Stream en appelant la méthode d'enregistrement de [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) objet.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -16,8 +16,8 @@ otherformats: WORD POWERPOINT DOC PPTX
 {{% blocks/products/pf/agp/feature-section-col title="XLSX till DOCX-konvertering på C++" %}}
 1. Öppna XLSX-filen med [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) medlemsfunktionen i [Factory](https://reference.aspose.com/cells/cpp/class/aspose.cells.factory) klassreferens
 2. Konvertera XLSX till PDF och ställ in SaveFormat till Pdf
-3. Ladda den konverterade PDF-filen med klassreferens [Dokument](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument)
-4. Spara dokumentet i DOCX-format med hjälp av medlemsfunktionen [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument#a6383c010776212483f51cc41235924db) och ställ in Docx som SaveFormat
+3. Ladda den konverterade PDF-filen med klassreferens [Dokument](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)
+4. Spara dokumentet i DOCX-format med hjälp av medlemsfunktionen [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db) och ställ in Docx som SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
@@ -31,9 +31,9 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 intrusive_ptr<Aspose::Cells::IWorkbook> wkb = Factory::CreateIWorkbook(u"sourceFile.xlsx");
 // save XLSX as PDF
 wkb->Save(u"pdfOutput.pdf", SaveFormat_Pdf);
-// load the PDF file using Docxument class reference
-auto docx = MakeObject<Docxument>(u"pdfOutput.pdf");
-// save docxument in DOCX format
+// load the PDF file using Document class reference
+auto docx = MakeObject<Document>(u"pdfOutput.pdf");
+// save document in DOCX format
 docx->Save(u"convertedFile.docx", SaveFormat::DocxX);
 ```
 

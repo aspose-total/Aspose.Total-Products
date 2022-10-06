@@ -16,8 +16,8 @@ otherformats: WORD POWERPOINT DOC PPTX
 {{% blocks/products/pf/agp/feature-section-col title="การแปลง TSV เป็น DOCX บน C++" %}}
 1. เปิดไฟล์ TSV โดยใช้ฟังก์ชันสมาชิกของ [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) ของ [Factory](https://reference.aspose.com/cells) /cpp/class/aspose.cells.factory) การอ้างอิงคลาส
 2. แปลง TSV เป็น PDF และตั้งค่า SaveFormat เป็น Pdf
-3. โหลดไฟล์ PDF ที่แปลงแล้วโดยใช้ [Docxument](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument) การอ้างอิงคลาส
-4. บันทึกเอกสารในรูปแบบ DOCX โดยใช้ฟังก์ชันสมาชิก [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument#a6383c010776212483f51cc41235924db) และตั้งค่า Docx เป็น SaveFormat
+3. โหลดไฟล์ PDF ที่แปลงแล้วโดยใช้ [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) การอ้างอิงคลาส
+4. บันทึกเอกสารในรูปแบบ DOCX โดยใช้ฟังก์ชันสมาชิก [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db) และตั้งค่า Docx เป็น SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
@@ -31,9 +31,9 @@ otherformats: WORD POWERPOINT DOC PPTX
 intrusive_ptr<Aspose::Cells::IWorkbook> wkb = Factory::CreateIWorkbook(u"sourceFile.tsv");
 // save TSV as PDF
 wkb->Save(u"pdfOutput.pdf", SaveFormat_Pdf);
-// load the PDF file using Docxument class reference
-auto docx = MakeObject<Docxument>(u"pdfOutput.pdf");
-// save docxument in DOCX format
+// load the PDF file using Document class reference
+auto docx = MakeObject<Document>(u"pdfOutput.pdf");
+// save document in DOCX format
 docx->Save(u"convertedFile.docx", SaveFormat::DocxX);
 ```
 

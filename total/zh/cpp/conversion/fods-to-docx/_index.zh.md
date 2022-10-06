@@ -16,8 +16,8 @@ otherformats: DOC WORD PPTX POWERPOINT
 {{% blocks/products/pf/agp/feature-section-col title="C++ 上的 FODS 到 DOCX 转换" %}}
 1. 使用[Factory](https://reference.aspose.com/cells)的[IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)成员函数打开FODS文件/cpp/class/aspose.cells.factory) 类参考
 2. 将 FODS 转换为 PDF 并将 SaveFormat 设置为 Pdf
-3.使用[Docxument](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument)类参考加载转换后的PDF文件
-4. 使用[Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument#a6383c010776212483f51cc41235924db)成员函数将文档保存为DOCX格式，并将Docx设置为SaveFormat
+3.使用[Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)类参考加载转换后的PDF文件
+4. 使用[Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db)成员函数将文档保存为DOCX格式，并将Docx设置为SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
@@ -31,9 +31,9 @@ otherformats: DOC WORD PPTX POWERPOINT
 intrusive_ptr<Aspose::Cells::IWorkbook> wkb = Factory::CreateIWorkbook(u"sourceFile.fods");
 // save FODS as PDF
 wkb->Save(u"pdfOutput.pdf", SaveFormat_Pdf);
-// load the PDF file using Docxument class reference
-auto docx = MakeObject<Docxument>(u"pdfOutput.pdf");
-// save docxument in DOCX format
+// load the PDF file using Document class reference
+auto docx = MakeObject<Document>(u"pdfOutput.pdf");
+// save document in DOCX format
 docx->Save(u"convertedFile.docx", SaveFormat::DocxX);
 ```
 

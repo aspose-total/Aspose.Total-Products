@@ -18,8 +18,8 @@ otherformats: DIF ODS XLTM SXC XLSM CSV TSV XLTX XLT XLAM XLSX XLS FODS EXCEL
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="DOCX को XLSB में बदलने के लिए Android API" %}}
-1. [Document](https://reference.aspose.com/words/java/com.aspose.words/Docxument) वर्ग का उपयोग करके DOCX फ़ाइल खोलें
-2. [Save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,com.aspose.words.SaveOptions) का उपयोग करके DOCX को HTML में बदलें ) तरीका
+1. [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) वर्ग का उपयोग करके DOCX फ़ाइल खोलें
+2. [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) का उपयोग करके DOCX को HTML में बदलें ) तरीका
 3. [वर्कबुक](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) क्लास का इस्तेमाल करके एचटीएमएल दस्तावेज़ लोड करें
 4. [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells)) का उपयोग करके दस्तावेज़ को XLSB प्रारूप में सहेजें। SaveOptions)) विधि
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -32,16 +32,18 @@ otherformats: DIF ODS XLTM SXC XLSM CSV TSV XLTX XLT XLAM XLSX XLS FODS EXCEL
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-word-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="जावा के माध्यम से Android में एक DOCX दस्तावेज़ से अप्रयुक्त जानकारी निकालें" %}}
+{{% blocks/products/pf/feature-page-section  h2="जावा के माध्यम से Android में एक DOCX दस्तावेज़ से अप्रयुक्त जानकारी निकालें" %}}Document
 DOCX को XLSB में बदलने से पहले, आप [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) के माध्यम से DOCX दस्तावेज़ से अप्रयुक्त जानकारी निकाल सकते हैं। कभी-कभी आपको आउटपुट दस्तावेज़ के आकार और प्रसंस्करण समय को कम करने के लिए अप्रयुक्त या डुप्लिकेट जानकारी को हटाने की आवश्यकता हो सकती है। [क्लीनअपऑप्शन](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) वर्ग आपको दस्तावेज़ की सफाई के लिए विकल्प निर्दिष्ट करने की अनुमति देता है। दस्तावेज़ से डुप्लिकेट शैलियों या केवल अप्रयुक्त शैलियों या सूचियों को निकालने के लिए, आप [क्लीनअप](https://reference.aspose.com/words/java/com.aspose.words/Docxument#cleanup()) पद्धति का उपयोग कर सकते हैं। आप [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) और [UnusedBuiltinStyles](https://reference.aspose.com/words/java) का उपयोग कर सकते हैं /com.aspose.words/cleanupoptions#UnusedBuiltinStyles) गुणों का पता लगाने और "अप्रयुक्त" के रूप में चिह्नित शैलियों को हटाने के लिए।
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-docxument.java" >}}
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-document.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ DOCX को XLSB में बदलने से पहले, आप [Aspose.W
 DOCX को XLSB में बदलने के बाद, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) आपको अपने दस्तावेज़ को स्ट्रीम करने के लिए सहेजने में सक्षम बनाता है। यदि आपको फ़ाइलों को स्ट्रीम में सहेजने की आवश्यकता है, तो आपको एक FileOutputStream ऑब्जेक्ट बनाना चाहिए और फिर [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) [वर्कबुक](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) की सेव मेथड को कॉल करके उस स्ट्रीम ऑब्जेक्ट में फाइल करें। वस्तु।
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

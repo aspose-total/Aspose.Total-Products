@@ -13,15 +13,15 @@ otherformats: XLSX ODS XLTX XLT FODS DIF TSV XLTM SXC XLS CSV XLSB XLSM XLAM
 {{< blocks/products/pf/feature-page-header h1="Converteer DOCX naar EXCEL in Android-applicaties" h2="Exporteer DOCX naar EXCEL in Android via Java zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Door [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) te gebruiken, kunt u de DOCX-naar-EXCEL-conversiefunctie in uw Android-applicaties integreren. Ten eerste kunt u DOCX naar HTML converteren door gebruik te maken van de veelzijdige, docxumentmanipulatie- en conversie-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Daarna kunt u met [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) HTML naar EXCEL converteren. 
+Door [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) te gebruiken, kunt u de DOCX-naar-EXCEL-conversiefunctie in uw Android-applicaties integreren. Ten eerste kunt u DOCX naar HTML converteren door gebruik te maken van de veelzijdige, documentmanipulatie- en conversie-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Daarna kunt u met [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) HTML naar EXCEL converteren. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Android API om DOCX naar EXCEL te converteren" %}}
-1. Open het DOCX-bestand met de klasse [Docxument](https://reference.aspose.com/words/java/com.aspose.words/Docxument)
-2. Converteer DOCX naar HTML met behulp van [Save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,com.aspose.words.SaveOptions) ) methode:
-3. Laad HTML-docxument met behulp van [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) klasse
-4. Sla het docxument op in EXCEL-indeling met [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) methode
+1. Open het DOCX-bestand met de klasse [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Converteer DOCX naar HTML met behulp van [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) methode:
+3. Laad HTML-document met behulp van [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) klasse
+4. Sla het document op in EXCEL-indeling met [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) methode
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
@@ -32,24 +32,27 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-word-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Verwijder ongebruikte informatie uit een DOCX-docxument in Android via Java" %}}
-Voordat u DOCX naar EXCEL converteert, kunt u ongebruikte informatie uit het DOCX-docxument verwijderen via [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Soms moet u ongebruikte of dubbele informatie verwijderen om de grootte van het uitvoerdocxument en de verwerkingstijd te verminderen. Met de klasse [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) kunt u opties opgeven voor het opschonen van docxumenten. Om dubbele stijlen of alleen ongebruikte stijlen of lijsten uit het docxument te verwijderen, kunt u de methode [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Docxument#cleanup()) gebruiken. U kunt de [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) en [UnusedBuiltinStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedBuiltinStyles) eigenschappen om stijlen te detecteren en te verwijderen die zijn gemarkeerd als "ongebruikt".
+{{% blocks/products/pf/feature-page-section  h2="Verwijder ongebruikte informatie uit een DOCX-document in Android via Java" %}}Document
+Voordat u DOCX naar EXCEL converteert, kunt u ongebruikte informatie uit het DOCX-document verwijderen via [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Soms moet u ongebruikte of dubbele informatie verwijderen om de grootte van het uitvoerdocument en de verwerkingstijd te verminderen. Met de klasse [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) kunt u opties opgeven voor het opschonen van documenten. Om dubbele stijlen of alleen ongebruikte stijlen of lijsten uit het document te verwijderen, kunt u de methode [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Docxument#cleanup()) gebruiken. U kunt de [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) en [UnusedBuiltinStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedBuiltinStyles) eigenschappen om stijlen te detecteren en te verwijderen die zijn gemarkeerd als "ongebruikt".
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-docxument.java" >}}
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-document.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="EXCEL-bestand opslaan om te streamen in Android via Java" %}}
-Na het converteren van DOCX naar EXCEL, kunt u met [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) uw docxument opslaan om te streamen. Als u bestanden naar een stream moet opslaan, moet u een FileOutputStream-object maken en vervolgens [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) het bestand naar dat Stream-object door de opslagmethode van [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) aan te roepen object.
+Na het converteren van DOCX naar EXCEL, kunt u met [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) uw document opslaan om te streamen. Als u bestanden naar een stream moet opslaan, moet u een FileOutputStream-object maken en vervolgens [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) het bestand naar dat Stream-object door de opslagmethode van [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) aan te roepen object.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

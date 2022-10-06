@@ -18,10 +18,10 @@ Ao usar [Aspose.Total for C++](https://products.aspose.com/total/cpp/), você po
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converter DOCX para formato JSON via C++" %}}
-1. Abra o arquivo DOCX usando a referência de classe [Docxument](https://reference.aspose.com/words/cpp/class/aspose.words.docxument)
-2. Converta DOCX para HTML usando a função de membro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docxument#save_string_saveformat)
-3. Carregue o docxumento HTML usando a referência de classe [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
-4. Salve o docxumento no formato JSON usando a função de membro [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
+1. Abra o arquivo DOCX usando a referência de classe [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
+2. Converta DOCX para HTML usando a função de membro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)
+3. Carregue o documento HTML usando a referência de classe [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
+4. Salve o documento no formato JSON usando a função de membro [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
@@ -32,16 +32,18 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-word-to-json.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Converter DOCX protegido para formato JSON via C++" %}}
-Usando a API, você também pode abrir o docxumento protegido por senha. Se o docxumento DOCX de entrada estiver protegido por senha, você não poderá convertê-lo para o formato JSON sem usar a senha. Para fazer isso, use uma sobrecarga de construtor especial, que aceita um objeto LoadOptions. Este objeto contém a propriedade Password, que especifica a string de senha.
+Usando a API, você também pode abrir o documento protegido por senha. Se o documento DOCX de entrada estiver protegido por senha, você não poderá convertê-lo para o formato JSON sem usar a senha. Para fazer isso, use uma sobrecarga de construtor especial, que aceita um objeto LoadOptions. Este objeto contém a propriedade Password, que especifica a string de senha.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-protected-word-to-json.cpp" >}}
+{{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-protected-word-to-json.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

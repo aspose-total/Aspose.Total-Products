@@ -21,8 +21,8 @@ otherformats: WORDML OTT DOT DOC DOTM DOTX ODT DOCM FLATOPC WORD RTF TEXT
 {{% blocks/products/pf/agp/feature-section-col title="Android에서 POT에서 DOCX로 렌더링" %}}
 1. [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 클래스를 사용하여 POT 파일을 엽니다.
 2. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides)을 사용하여 POT을 HTML로 변환합니다.ISaveOptions-) 메서드 및 Html을 SaveFormat으로 설정
-3. [Docxument](https://reference.aspose.com/words/java/com.aspose.words/Docxument) 클래스를 이용하여 변환된 HTML 파일을 로드합니다.
-4. [save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,int)) 메소드를 사용하여 문서를 DOCX 형식으로 저장하고 Docx 설정 SaveFormat으로
+3. [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 클래스를 이용하여 변환된 HTML 파일을 로드합니다.
+4. [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) 메소드를 사용하여 문서를 DOCX 형식으로 저장하고 Docx 설정 SaveFormat으로
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
@@ -36,10 +36,10 @@ otherformats: WORDML OTT DOT DOC DOTM DOTX ODT DOCM FLATOPC WORD RTF TEXT
 Presentation presentation = new Presentation("input.pot");
 // save the presentation as HTML
 presentation.save("htmlOutput.html", SaveFormat.Html);
-// load HTML with an instance of Docxument
-Docxument docxument = new Docxument("htmlOutput.html");
-// save docxument in DOCX format
-docxument.save("output.docx",SaveFormat.Docxx);   
+// load HTML with an instance of Document
+Document document = new Document("htmlOutput.html");
+// save document in DOCX format
+document.save("output.docx",SaveFormat.Docxx);   
 ```
 
 {{% /blocks/products/pf/feature-page-code %}}

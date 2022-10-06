@@ -16,8 +16,8 @@ otherformats: WORD POWERPOINT DOC PPTX
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование XLSX в DOCX на C++" %}}
 1. Откройте XLSX-файл, используя [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) функцию-член [Factory](https://reference.aspose.com/cells/cpp/class/aspose.cells.factory) ссылка на класс
 2. Преобразуйте XLSX в PDF и установите SaveFormat в Pdf.
-3. Загрузите преобразованный PDF-файл, используя ссылку на класс [Docxument](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument).
-4. Сохраните документ в формате DOCX с помощью функции-члена [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument#a6383c010776212483f51cc41235924db) и установите Docx как SaveFormat.
+3. Загрузите преобразованный PDF-файл, используя ссылку на класс [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document).
+4. Сохраните документ в формате DOCX с помощью функции-члена [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db) и установите Docx как SaveFormat.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
@@ -31,9 +31,9 @@ otherformats: WORD POWERPOINT DOC PPTX
 intrusive_ptr<Aspose::Cells::IWorkbook> wkb = Factory::CreateIWorkbook(u"sourceFile.xlsx");
 // save XLSX as PDF
 wkb->Save(u"pdfOutput.pdf", SaveFormat_Pdf);
-// load the PDF file using Docxument class reference
-auto docx = MakeObject<Docxument>(u"pdfOutput.pdf");
-// save docxument in DOCX format
+// load the PDF file using Document class reference
+auto docx = MakeObject<Document>(u"pdfOutput.pdf");
+// save document in DOCX format
 docx->Save(u"convertedFile.docx", SaveFormat::DocxX);
 ```
 

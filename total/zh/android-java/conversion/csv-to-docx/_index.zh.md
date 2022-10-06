@@ -20,8 +20,8 @@ otherformats: WORD DOC PPTX POWERPOINT
 {{% blocks/products/pf/agp/feature-section-col title="用于将 CSV 导出为 DOCX 的 Android API" %}}
 1. 使用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 类打开 CSV 文件
 2. 将 CSV 转换为 PDF 并将 SaveFormat 设置为 AUTO
-3.使用[Docxument](https://reference.aspose.com/pdf/java/com.aspose.pdf/Docxument)类加载转换后的PDF文件
-4. 使用 [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Docxument#save-java.lang.String-com.aspose.pdf.SaveOptions) 将文档保存为 DOCX 格式-) 方法
+3.使用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)类加载转换后的PDF文件
+4. 使用 [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions) 将文档保存为 DOCX 格式-) 方法
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
@@ -36,27 +36,29 @@ otherformats: WORD DOC PPTX POWERPOINT
 Workbook book = new Workbook("input.csv");
 // save CSV as PDF
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Docxument class
-Docxument docxument = new Docxument("pdfOutput.pdf");
-// save docxument in DOCX format
-docxument.save("output.docx", com.aspose.pdf.SaveFormat.DocxX);    
-```
+// load the PDF file using Document class
+Document document = new Document("pdfOutput.pdf");
+// save document in DOCX format
+document.save("output.docx", com.aspose.pdf.SaveFormat.DocxX);    
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="通过 Java 从 Android 中的 CSV 文件中删除自定义属性" %}}
-除了文档转换之外，[Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) 还提供了大量其他功能。在转换过程之前，您可以删除 CSV 文档的自定义属性。要删除自定义属性，请调用 [DocxumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/docxumentpropertycollection#remove(java.lang.String)) 方法并传递名称要删除的文档属性。
+{{% blocks/products/pf/feature-page-section  h2="通过 Java 从 Android 中的 CSV 文件中删除自定义属性" %}}Document
+除了文档转换之外，[Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) 还提供了大量其他功能。在转换过程之前，您可以删除 CSV 文档的自定义属性。要删除自定义属性，请调用 [DocxumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/documentpropertycollection#remove(java.lang.String)) 方法并传递名称要删除的文档属性。
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java
 // load the CSV file using Workbook class
 Workbook book = new Workbook("input.csv");
-// retrieve a list of all custom docxument properties of the Excel file
+Documentve a list of all custom document properties of the Excel fileDocument
 DocxumentPropertyCollection customProperties = workbook.getWorksheets().getCustomDocxumentProperties();
-// remove a custom docxument property
+// remove a custom document property
 customProperties.remove("Publisher"); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

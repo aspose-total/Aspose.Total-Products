@@ -18,8 +18,8 @@ otherformats: ODS XLSB FODS XLAM DIF TSV XLTM XLSM SXC XLS XLT XLSX EXCEL CSV
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="सी ++ एपीआई डीओसी को सीएसवी में कनवर्ट करने के लिए" %}}
-1. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docxument) वर्ग संदर्भ का उपयोग करके DOCX फ़ाइल खोलें
-2. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docxument#save_string_saveformat) सदस्य फ़ंक्शन का उपयोग करके DOCX को HTML में बदलें
+1. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) वर्ग संदर्भ का उपयोग करके DOCX फ़ाइल खोलें
+2. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) सदस्य फ़ंक्शन का उपयोग करके DOCX को HTML में बदलें
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) वर्ग संदर्भ का उपयोग करके HTML दस्तावेज़ लोड करें
 4. [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) सदस्य फ़ंक्शन का उपयोग करके दस्तावेज़ को XLTX प्रारूप में सहेजें
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -32,16 +32,18 @@ otherformats: ODS XLSB FODS XLAM DIF TSV XLTM XLSM SXC XLS XLT XLSX EXCEL CSV
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "convert-word-to-excel.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="सी ++ के माध्यम से डीओसी दस्तावेज़ गुणों तक पहुंचें" %}}
-[Aspose.Words for C++](https://products.aspose.com/words/cpp/) भी आपको DOCX फ़ाइल के दस्तावेज़ गुणों तक पहुंचने की अनुमति देता है और आपको रूपांतरण प्रक्रिया से पहले एक सूचित निर्णय लेने देता है। दस्तावेज़ गुणों तक पहुँचने के लिए आप [BuiltInDocxumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_docxument_properties) का उपयोग करके अंतर्निहित गुण प्राप्त कर सकते हैं और [CustomDocxumentProperties](https:// Reference.aspose.com/words/cpp/class/aspose.words.properties.custom_docxument_properties) कस्टम गुण प्राप्त करने के लिए। निम्न कोड उदाहरण दिखाता है कि किसी दस्तावेज़ में सभी अंतर्निहित और कस्टम गुणों की गणना कैसे करें।
+{{% blocks/products/pf/feature-page-section  h2="सी ++ के माध्यम से डीओसी दस्तावेज़ गुणों तक पहुंचें" %}}DocumentDocument
+[Aspose.Words for C++](https://products.aspose.com/words/cpp/) भी आपको DOCX फ़ाइल के दस्तावेज़ गुणों तक पहुंचने की अनुमति देता है और आपको रूपांतरण प्रक्रिया से पहले एक सूचित निर्णय लेने देता है। दस्तावेज़ गुणों तक पहुँचने के लिए आप [BuiltInDocxumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_document_properties) का उपयोग करके अंतर्निहित गुण प्राप्त कर सकते हैं और [CustomDocxumentProperties](https:// Reference.aspose.com/words/cpp/class/aspose.words.properties.custom_document_properties) कस्टम गुण प्राप्त करने के लिए। निम्न कोड उदाहरण दिखाता है कि किसी दस्तावेज़ में सभी अंतर्निहित और कस्टम गुणों की गणना कैसे करें।
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-docxument-properties.cs" >}}
+{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-document-properties.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: ODS XLSB FODS XLAM DIF TSV XLTM XLSM SXC XLS XLT XLSX EXCEL CSV
 DOCX को XLTX में बदलने के बाद, [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) आपको अपने दस्तावेज़ को स्ट्रीम में सहेजने में सक्षम बनाता है। फ़ाइलों को स्ट्रीम में सहेजने के लिए, एक मेमोरीस्ट्रीम या फ़ाइलस्ट्रीम ऑब्जेक्ट बनाएं और [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) पर कॉल करके फ़ाइल को उस स्ट्रीम ऑब्जेक्ट में सहेजें। ऑब्जेक्ट की [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) विधि। [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) एन्यूमरेशन का उपयोग करके [सेव](https://reference.aspose.com) एन्यूमरेशन का उपयोग करके वांछित फ़ाइल स्वरूप निर्दिष्ट करें) विधि।
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "save-excel-to-stream.cpp" >}}
+{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "save-excel-to-stream.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

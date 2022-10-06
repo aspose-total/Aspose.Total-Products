@@ -18,8 +18,8 @@ otherformats: PPTX ODP POT POTX POTM PPS PPSX PPT PPTM POWERPOINT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง DOCX เป็น PPSM ใน Android" %}}
-1. เปิดไฟล์ DOCX โดยใช้คลาส [Docxument](https://reference.aspose.com/words/java/com.aspose.words/Docxument)
-2. แปลงไฟล์ DOCX เป็น HTML โดยใช้ [save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,com.aspose.words.SaveOptions) )) กระบวนการ
+1. เปิดไฟล์ DOCX โดยใช้คลาส [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. แปลงไฟล์ DOCX เป็น HTML โดยใช้ [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) )) กระบวนการ
 3. เริ่มต้นวัตถุ [การนำเสนอ](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) ใหม่
 5. แยกเนื้อหาจากไฟล์ HTML โดยใช้ BufferedReader และเขียนเนื้อหาลงในไฟล์นำเสนอของคุณ
 6. บันทึกเอกสารไปยัง PPSM โดยใช้วิธี [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
@@ -33,7 +33,8 @@ otherformats: PPTX ODP POT POTX POTM PPS PPSX PPT PPTM POWERPOINT
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-docx-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ otherformats: PPTX ODP POT POTX POTM PPS PPSX PPT PPTM POWERPOINT
 คุณยังสามารถแปลง DOCX ที่ป้องกันด้วยรหัสผ่านเป็น PPSM ภายในแอปพลิเคชัน Android ของคุณ หากเอกสาร DOCX ที่คุณป้อนมีการป้องกันด้วยรหัสผ่าน คุณจะไม่สามารถแปลงเป็นรูปแบบ PPSM ได้โดยไม่ต้องใช้รหัสผ่าน ในการเปิดเอกสารที่เข้ารหัส คุณสามารถตั้งรหัสผ่านที่ถูกต้องในออบเจกต์ LoadOptions และส่งผ่านไปยังตัวสร้างเอกสาร
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-docx-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-docx-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

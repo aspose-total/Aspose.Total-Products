@@ -16,8 +16,8 @@ otherformats: DOC PPTX WORD POWERPOINT
 {{% blocks/products/pf/agp/feature-section-col title="Převod XLT na DOCX v C++" %}}
 1. Otevřete soubor XLT pomocí členské funkce [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) [Factory](https://reference.aspose.com/cells/cpp/class/aspose.cells.factory) odkaz na třídu
 2. Převeďte XLT na PDF a nastavte SaveFormat na Pdf
-3. Načtěte převedený soubor PDF pomocí odkazu třídy [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument)
-4. Uložte dokument do formátu DOCX pomocí členské funkce [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument#a6383c010776212483f51cc41235924db) a nastavte Docx jako SaveFormat
+3. Načtěte převedený soubor PDF pomocí odkazu třídy [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)
+4. Uložte dokument do formátu DOCX pomocí členské funkce [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db) a nastavte Docx jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
@@ -31,9 +31,9 @@ Případně si můžete stáhnout offline instalační program MSI nebo knihovny
 intrusive_ptr<Aspose::Cells::IWorkbook> wkb = Factory::CreateIWorkbook(u"sourceFile.xlt");
 // save XLT as PDF
 wkb->Save(u"pdfOutput.pdf", SaveFormat_Pdf);
-// load the PDF file using Docxument class reference
-auto docx = MakeObject<Docxument>(u"pdfOutput.pdf");
-// save docxument in DOCX format
+// load the PDF file using Document class reference
+auto docx = MakeObject<Document>(u"pdfOutput.pdf");
+// save document in DOCX format
 docx->Save(u"convertedFile.docx", SaveFormat::DocxX);
 ```
 

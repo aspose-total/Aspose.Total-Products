@@ -18,8 +18,8 @@ otherformats: PPT PPSX POT PPTX POWERPOINT PPS POTM PPSM POTX ODP
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hogyan lehet a DOCX-t PPTM-vé konvertálni Androidon" %}}
-1. Nyissa meg a DOCX-fájlt a [Docxument](https://reference.aspose.com/words/java/com.aspose.words/Docxument) osztály használatával
-2. Alakítsa át a DOCX fájlt HTML formátumba a [save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,com.aspose.words.SaveOptions) segítségével )) módszer
+1. Nyissa meg a DOCX-fájlt a [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) osztály használatával
+2. Alakítsa át a DOCX fájlt HTML formátumba a [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) segítségével )) módszer
 3. Inicializáljon egy új [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) objektumot
 5. Bontsa ki a tartalmat HTML-fájlból a BufferedReader segítségével, és írja be a tartalmat a bemutatófájlba
 6. Mentse a dokumentumot az PPTM-be a [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) módszerrel
@@ -33,7 +33,8 @@ Másik megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-docx-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ Másik megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads
 A jelszóval védett DOCX-ját PPTM-vé is konvertálhatja Android-alkalmazásaiban. Ha a bevitt DOCX-dokumentum jelszóval védett, nem konvertálhatja PPTM formátumba jelszó nélkül. A titkosított dokumentum megnyitásához beállíthatja a megfelelő jelszót a LoadOptions objektumban, és átadhatja a dokumentum konstruktorának.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-docx-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-docx-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

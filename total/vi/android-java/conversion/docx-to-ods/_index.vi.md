@@ -18,8 +18,8 @@ Bằng cách sử dụng [Aspose.Total for Android via Java](https://products.as
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API Android để chuyển đổi DOCX sang ODS" %}}
-1. Mở tệp DOCX bằng lớp [Docxument](https://reference.aspose.com/words/java/com.aspose.words/Docxument)
-2. Chuyển đổi DOCX sang HTML bằng cách sử dụng [Save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String, com.aspose.words.SaveOptions) ) phương pháp
+1. Mở tệp DOCX bằng lớp [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Chuyển đổi DOCX sang HTML bằng cách sử dụng [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String, com.aspose.words.SaveOptions) ) phương pháp
 3. Tải tài liệu HTML bằng cách sử dụng lớp [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Lưu tài liệu sang định dạng ODS bằng cách sử dụng [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook)
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -32,16 +32,18 @@ Ngoài ra, bạn có thể tải tệp ZIP từ [download](https://downloads.asp
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-word-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Xóa thông tin không sử dụng khỏi tài liệu DOCX trong Android qua Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Xóa thông tin không sử dụng khỏi tài liệu DOCX trong Android qua Java" %}}Document
 Trước khi chuyển đổi DOCX sang ODS, bạn có thể xóa thông tin không sử dụng khỏi Tài liệu DOCX qua [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Đôi khi bạn có thể cần phải loại bỏ thông tin không sử dụng hoặc trùng lặp để giảm kích thước của tài liệu đầu ra và thời gian xử lý. Lớp [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) cho phép bạn chỉ định các tùy chọn để làm sạch tài liệu. Để xóa các kiểu trùng lặp hoặc chỉ các kiểu hoặc danh sách không sử dụng khỏi tài liệu, bạn có thể sử dụng phương pháp [Dọn dẹp](https://reference.aspose.com/words/java/com.aspose.words/Docxument#cleanup ()). Bạn có thể sử dụng [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) và [UnusedBuiltinStyles](https://reference.aspose.com/words/java) để phát hiện và xóa các kiểu được đánh dấu là "không sử dụng".
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-docxument.java" >}}
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-document.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Trước khi chuyển đổi DOCX sang ODS, bạn có thể xóa thông tin khô
 Sau khi chuyển đổi DOCX sang ODS, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) cho phép bạn lưu tài liệu của mình vào luồng. Nếu bạn cần lưu tệp vào Luồng thì bạn nên tạo một đối tượng FileOutputStream và sau đó [lưu](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save (java.io. OutputStream,% 20com.aspose.cells.SaveOptions)) tệp vào đối tượng Luồng đó bằng cách gọi phương thức lưu của [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sự vật.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

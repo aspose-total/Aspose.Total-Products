@@ -16,8 +16,8 @@ otherformats: PPTX POWERPOINT WORD DOC
 {{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi XLS sang DOCX trên C++" %}}
 1. Mở tệp XLS bằng chức năng thành viên [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) của [Factory](https://reference.aspose.com/cells/cpp/class/aspose.cells.factory) tham chiếu lớp
 2. Chuyển đổi XLS sang PDF và đặt SaveFormat thành Pdf
-3. Tải tệp PDF đã chuyển đổi bằng cách sử dụng tham chiếu lớp [Docxument](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument)
-4. Lưu tài liệu sang định dạng DOCX bằng hàm thành viên [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument#a6383c010776212483f51cc41235924db) và đặt Docx là SaveFormat
+3. Tải tệp PDF đã chuyển đổi bằng cách sử dụng tham chiếu lớp [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)
+4. Lưu tài liệu sang định dạng DOCX bằng hàm thành viên [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db) và đặt Docx là SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
@@ -31,9 +31,9 @@ Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp Z
 intrusive_ptr<Aspose::Cells::IWorkbook> wkb = Factory::CreateIWorkbook(u"sourceFile.xls");
 // save XLS as PDF
 wkb->Save(u"pdfOutput.pdf", SaveFormat_Pdf);
-// load the PDF file using Docxument class reference
-auto docx = MakeObject<Docxument>(u"pdfOutput.pdf");
-// save docxument in DOCX format
+// load the PDF file using Document class reference
+auto docx = MakeObject<Document>(u"pdfOutput.pdf");
+// save document in DOCX format
 docx->Save(u"convertedFile.docx", SaveFormat::DocxX);
 ```
 

@@ -18,8 +18,8 @@ Du kan konvertera DOCX till JSON-format i dina Android-applikationer via [Aspose
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertera DOCX till JSON-format i Android" %}}
-1. Öppna DOCX-filen med klassen [Docxument](https://reference.aspose.com/words/java/com.aspose.words/Docxument)
-2. Konvertera DOCX till HTML genom att använda [Save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,com.aspose.words.SaveOptions) ) metod
+1. Öppna DOCX-filen med klassen [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Konvertera DOCX till HTML genom att använda [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) metod
 3. Ladda HTML-dokument med hjälp av klassen [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Spara dokumentet i JSON-format med [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) metod
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -32,7 +32,8 @@ Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "aa0de5f99dc2a07e32a776a548eac3fa" "convert-word-to-json.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com
 Med hjälp av API:et kan du också öppna det lösenordsskyddade dokumentet. Om ditt inmatade DOCX-dokument är lösenordsskyddat kan du inte konvertera det till JSON-format utan att använda lösenordet. API:et låter dig öppna det krypterade dokumentet genom att skicka in rätt lösenord i ett LoadOptions-objekt. Följande kodexempel visar hur man öppnar ett krypterat dokument med ett lösenord.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "aa0de5f99dc2a07e32a776a548eac3fa" "convert-protected-word-to-json.java" >}}
+{{< gist "aspose-com-gists" "aa0de5f99dc2a07e32a776a548eac3fa" "convert-protected-word-to-json.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Med hjälp av API:et kan du också öppna det lösenordsskyddade dokumentet. Om 
 Medan du konverterar DOCX till JSON kan du också ställa in intervallet till ditt utdata-JSON-format. För att ställa in intervallet kan du öppna den konverterade HTML-koden med Workbook-klassen, skapa ett dataområde som ska exporteras med metoden Cells.createRange, anropa metoden JsonUtility.exportRangeToJson med referenser till Range & ExportRangeToJsonOptions och skriva sträng JSON-data till fil via BufferedWriter.write-metoden.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "aa0de5f99dc2a07e32a776a548eac3fa" "convert-word-to-json-range.java" >}}
+{{< gist "aspose-com-gists" "aa0de5f99dc2a07e32a776a548eac3fa" "convert-word-to-json-range.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

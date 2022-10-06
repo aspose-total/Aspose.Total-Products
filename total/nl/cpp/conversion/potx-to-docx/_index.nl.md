@@ -20,8 +20,8 @@ otherformats: WORD DOCM TEXT DOTX DOT DOC FLATOPC WORDML ODT OTT RTF DOTM
 {{% blocks/products/pf/agp/feature-section-col title="C++ API om POTX naar DOCX te converteren" %}}
 1. Laad POTX-bestand met behulp van [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) klassereferentie
 2. Render POTX naar HTML met behulp van [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) lidfunctie en stel Html in als SaveFormat
-3. Laad het geconverteerde HTML-bestand met behulp van [Docxument](https://reference.aspose.com/words/cpp/class/aspose.words.docxument) klasseverwijzing
-4. Sla het docxument op in DOCX-formaat met behulp van [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docxument#save_string) lidfunctie
+3. Laad het geconverteerde HTML-bestand met behulp van [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) klasseverwijzing
+4. Sla het document op in DOCX-formaat met behulp van [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string) lidfunctie
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
@@ -35,9 +35,9 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 SharedPtr<Presentation> prs = MakeObject<Presentation>(u"input.potx");
 // Save presentation in HTML format.
 prs->Save(u"htmlOutput.html", Aspose::Slides::Export::SaveFormat::Html);
-// load HTML with an instance of Docxument
-System::SharedPtr<Docxument> docx = System::MakeObject<Docxument>(u"htmlOutput.html");
-// save docxument in DOCX format
+// load HTML with an instance of Document
+System::SharedPtr<Document> docx = System::MakeObject<Document>(u"htmlOutput.html");
+// save document in DOCX format
 docx->Save(u"output.docx"); 
 ```
 

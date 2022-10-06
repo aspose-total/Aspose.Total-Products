@@ -18,8 +18,8 @@ Du kan enkelt inkludera DOCX till XLAM-konverteringsfunktionen i dina C++-applik
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API för att konvertera DOCX till XLAM" %}}
-1. Öppna DOCX-filen med [Docxument](https://reference.aspose.com/words/cpp/class/aspose.words.docxument) klassreferens
-2. Konvertera DOCX till HTML genom att använda medlemsfunktionen [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docxument#save_string_saveformat)
+1. Öppna DOCX-filen med [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) klassreferens
+2. Konvertera DOCX till HTML genom att använda medlemsfunktionen [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)
 3. Ladda HTML-dokument med hjälp av klassreferens [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
 4. Spara dokumentet i XLAM-format med hjälp av medlemsfunktionen [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -32,16 +32,18 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "convert-word-to-excel.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Få åtkomst till DOCX-dokumentegenskaper via C++" %}}
-[Aspose.Words for C++](https://products.aspose.com/words/cpp/) låter dig också komma åt dokumentegenskaperna för DOCX-filen och låter dig ta ett välgrundat beslut innan konverteringsprocessen. För att komma åt dokumentegenskaper kan du använda [BuiltInDocxumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_docxument_properties) för att få inbyggda egenskaper och [CustomDocxumentProperties](https:// reference.aspose.com/words/cpp/class/aspose.words.properties.custom_docxument_properties) för att få anpassade egenskaper. Följande kodexempel visar hur man räknar upp alla inbyggda och anpassade egenskaper i ett dokument.
+{{% blocks/products/pf/feature-page-section  h2="Få åtkomst till DOCX-dokumentegenskaper via C++" %}}DocumentDocument
+[Aspose.Words for C++](https://products.aspose.com/words/cpp/) låter dig också komma åt dokumentegenskaperna för DOCX-filen och låter dig ta ett välgrundat beslut innan konverteringsprocessen. För att komma åt dokumentegenskaper kan du använda [BuiltInDocxumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_document_properties) för att få inbyggda egenskaper och [CustomDocxumentProperties](https:// reference.aspose.com/words/cpp/class/aspose.words.properties.custom_document_properties) för att få anpassade egenskaper. Följande kodexempel visar hur man räknar upp alla inbyggda och anpassade egenskaper i ett dokument.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-docxument-properties.cs" >}}
+{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-document-properties.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 Efter att ha konverterat DOCX till XLAM, gör [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) det möjligt för dig att spara ditt dokument för att streama. För att spara filer till en ström, skapa ett MemoryStream- eller FileStream-objekt och spara filen till det strömobjektet genom att anropa [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) objektets [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) metod. Ange önskat filformat med [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) uppräkningen när du anropar [Save](https://reference.aspose.com).
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "save-excel-to-stream.cpp" >}}
+{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "save-excel-to-stream.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

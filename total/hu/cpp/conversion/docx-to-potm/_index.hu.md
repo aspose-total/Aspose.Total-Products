@@ -18,8 +18,8 @@ Az [Aspose.Total for C++](https://products.aspose.com/total/cpp/) olyan hatékon
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="DOCX konvertálás POTM-be C++-on" %}}
-1. Nyissa meg a DOCX-fájlt a [Docxument](https://reference.aspose.com/words/cpp/class/aspose.words.docxument) osztályhivatkozás használatával
-2. Alakítsa át a DOCX-t HTML-vé a [Mentés](https://reference.aspose.com/words/cpp/class/aspose.words.docxument#save_stdbasicostream_saveoptions) tagfüggvény használatával
+1. Nyissa meg a DOCX-fájlt a [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) osztályhivatkozás használatával
+2. Alakítsa át a DOCX-t HTML-vé a [Mentés](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stdbasicostream_saveoptions) tagfüggvény használatával
 3. Inicializáljon egy új [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) objektumot
 4. Adjon hozzá egy AutoShape-ot a diához, és adja hozzá az AddTextFrame-et
 5. Töltse be a HTML tartalmat, és írja be a bemutató fájlba
@@ -34,10 +34,10 @@ Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eke
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp
-// load DOCX file with an instance of Docxument
-Docxument docxument = new Docxument("template.docx");
-System::SharedPtr<Docxument> docx = System::MakeObject<Docxument>(u"sourceFile.docx");
-// save the docxument in HTML file format
+// load DOCX file with an instance of Document
+Document document = new Document("template.docx");
+System::SharedPtr<Document> docx = System::MakeObject<Document>(u"sourceFile.docx");
+// save the document in HTML file format
 docx->Save(u"HtmlOutput.HTML");
 // load the desired the presentation
 SharedPtr<Presentation> pres = MakeObject<Presentation>();
@@ -61,7 +61,8 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Potm
 pres->Save(output.potm, Aspose::Slides::Export::SaveFormat::Potm);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -71,11 +72,12 @@ A dokumentumok konvertálásán kívül az [Aspose.Words for C++](https://produc
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cpp
-// when loading password protected docxument, the password is passed to the docxument's constructor using a LoadOptions object.
+// when loading password protected document, the password is passed to the document's constructor using a LoadOptions object.
 auto options = MakeObject<LoadOptions>(u"docxPassword");
-// load the docxument from the local file system by filename:
+// load thDocumentnt from the local fiDocument by filename:
 SharedPtr<Docxument> docx = MakeObject<Docxument>(u"Encrypted.docx", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Potm
 pres->Save(output.potm, Aspose::Slides::Export::SaveFormat::Potm);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

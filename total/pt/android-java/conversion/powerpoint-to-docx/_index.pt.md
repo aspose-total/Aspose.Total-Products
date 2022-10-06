@@ -14,15 +14,15 @@ otherformats: RTF FLATOPC TEXT DOCM ODT WORD DOTX DOTM WORDML DOT OTT DOC
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) permite a manipulação de formatos de arquivo dentro de aplicativos Android. Ao usar as APIs fornecidas no pacote, você pode automatizar o processo de conversão do PowerPoint POWERPOINT para Word DOCX em seus aplicativos.
-Você pode converter seu docxumento fornecido em duas etapas. Você pode usar [Aspose.Slides for Andorid via Java](https://products.aspose.com/slides/android-java/) que é uma API do PowerPoint para aplicativos Android para renderizar POWERPOINT em HTML. Depois disso, usando a API de processamento de docxumentos [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) você pode converter o HTML para DOCX. 
+Você pode converter seu documento fornecido em duas etapas. Você pode usar [Aspose.Slides for Andorid via Java](https://products.aspose.com/slides/android-java/) que é uma API do PowerPoint para aplicativos Android para renderizar POWERPOINT em HTML. Depois disso, usando a API de processamento de documentos [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) você pode converter o HTML para DOCX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Renderização de POWERPOINT para DOCX no Android" %}}
 1. Abra o arquivo POWERPOINT usando a classe [Apresentação](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Converta POWERPOINT em HTML usando [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) e defina Html como SaveFormat
-3. Carregue o arquivo HTML convertido usando a classe [Docxument](https://reference.aspose.com/words/java/com.aspose.words/Docxument)
-4. Salve o docxumento no formato DOCX usando o método [save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,int)) e defina Docx como SalvarFormato
+3. Carregue o arquivo HTML convertido usando a classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+4. Salve o documento no formato DOCX usando o método [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) e defina Docx como SalvarFormato
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
@@ -36,10 +36,10 @@ Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloa
 Presentation presentation = new Presentation("input.pptx");
 // save the presentation as HTML
 presentation.save("htmlOutput.html", SaveFormat.Html);
-// load HTML with an instance of Docxument
-Docxument docxument = new Docxument("htmlOutput.html");
-// save docxument in DOCX format
-docxument.save("output.docx",SaveFormat.Docxx);   
+// load HTML with an instance of Document
+Document document = new Document("htmlOutput.html");
+// save document in DOCX format
+document.save("output.docx",SaveFormat.Docxx);   
 ```
 
 {{% /blocks/products/pf/feature-page-code %}}

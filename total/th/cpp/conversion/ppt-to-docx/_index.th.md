@@ -20,8 +20,8 @@ otherformats: DOC FLATOPC OTT RTF DOT DOTM TEXT WORDML ODT DOCM WORD DOTX
 {{% blocks/products/pf/agp/feature-section-col title="C++ API เพื่อแปลง PPT เป็น DOCX" %}}
 1. โหลดไฟล์ PPT โดยใช้ [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) การอ้างอิงคลาส
 2. แปลง PPT เป็น HTML โดยใช้ [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) สมาชิก funciton และตั้งค่า Html เป็น SaveFormat
-3. โหลดไฟล์ HTML ที่แปลงแล้วโดยใช้ [Docxument](https://reference.aspose.com/words/cpp/class/aspose.words.docxument) การอ้างอิงคลาส
-4. บันทึกเอกสารในรูปแบบ DOCX โดยใช้ [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docxument#save_string) ฟังก์ชันสมาชิก
+3. โหลดไฟล์ HTML ที่แปลงแล้วโดยใช้ [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) การอ้างอิงคลาส
+4. บันทึกเอกสารในรูปแบบ DOCX โดยใช้ [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string) ฟังก์ชันสมาชิก
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
@@ -35,9 +35,9 @@ otherformats: DOC FLATOPC OTT RTF DOT DOTM TEXT WORDML ODT DOCM WORD DOTX
 SharedPtr<Presentation> prs = MakeObject<Presentation>(u"input.ppt");
 // Save presentation in HTML format.
 prs->Save(u"htmlOutput.html", Aspose::Slides::Export::SaveFormat::Html);
-// load HTML with an instance of Docxument
-System::SharedPtr<Docxument> docx = System::MakeObject<Docxument>(u"htmlOutput.html");
-// save docxument in DOCX format
+// load HTML with an instance of Document
+System::SharedPtr<Document> docx = System::MakeObject<Document>(u"htmlOutput.html");
+// save document in DOCX format
 docx->Save(u"output.docx"); 
 ```
 

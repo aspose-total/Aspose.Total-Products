@@ -16,8 +16,8 @@ otherformats: PPTX POWERPOINT DOC WORD
 {{% blocks/products/pf/agp/feature-section-col title="Μετατροπή ODS σε DOCX σε C++" %}}
 1. Ανοίξτε το αρχείο ODS χρησιμοποιώντας τη λειτουργία μέλους [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) του [Factory](https://reference.aspose.com/cells/cpp/class/aspose.cells.factory) αναφορά κλάσης
 2. Μετατρέψτε το ODS σε PDF και ορίστε το SaveFormat σε Pdf
-3. Φορτώστε το αρχείο PDF που έχει μετατραπεί χρησιμοποιώντας την αναφορά κλάσης [Docxument](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument)
-4. Αποθηκεύστε το έγγραφο σε μορφή DOCX χρησιμοποιώντας τη λειτουργία μέλους [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.docxument#a6383c010776212483f51cc41235924db) και ορίστε το Docx ως SaveFormat
+3. Φορτώστε το αρχείο PDF που έχει μετατραπεί χρησιμοποιώντας την αναφορά κλάσης [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)
+4. Αποθηκεύστε το έγγραφο σε μορφή DOCX χρησιμοποιώντας τη λειτουργία μέλους [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db) και ορίστε το Docx ως SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
@@ -31,9 +31,9 @@ otherformats: PPTX POWERPOINT DOC WORD
 intrusive_ptr<Aspose::Cells::IWorkbook> wkb = Factory::CreateIWorkbook(u"sourceFile.ods");
 // save ODS as PDF
 wkb->Save(u"pdfOutput.pdf", SaveFormat_Pdf);
-// load the PDF file using Docxument class reference
-auto docx = MakeObject<Docxument>(u"pdfOutput.pdf");
-// save docxument in DOCX format
+// load the PDF file using Document class reference
+auto docx = MakeObject<Document>(u"pdfOutput.pdf");
+// save document in DOCX format
 docx->Save(u"convertedFile.docx", SaveFormat::DocxX);
 ```
 

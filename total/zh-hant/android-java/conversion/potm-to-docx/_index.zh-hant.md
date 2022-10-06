@@ -21,8 +21,8 @@ otherformats: TEXT DOTM ODT WORD DOC WORDML DOTX DOCM OTT DOT RTF FLATOPC
 {{% blocks/products/pf/agp/feature-section-col title="Android 中的 POTM 到 DOCX 渲染" %}}
 1. 使用 [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 類打開 POTM 文件
 2. 使用 [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides) 將 POTM 轉換為 HTML。ISaveOptions-) 方法並將 Html 設置為 SaveFormat
-3. 使用 [Docxument](https://reference.aspose.com/words/java/com.aspose.words/Docxument) 類加載轉換後的 HTML 文件
-4. 使用[save](https://reference.aspose.com/words/java/com.aspose.words/Docxument#save(java.lang.String,int))方法將文檔保存為DOCX格式並設置Docx保存格式
+3. 使用 [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 類加載轉換後的 HTML 文件
+4. 使用[save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))方法將文檔保存為DOCX格式並設置Docx保存格式
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="轉換要求" %}}
@@ -36,10 +36,10 @@ otherformats: TEXT DOTM ODT WORD DOC WORDML DOTX DOCM OTT DOT RTF FLATOPC
 Presentation presentation = new Presentation("input.potm");
 // save the presentation as HTML
 presentation.save("htmlOutput.html", SaveFormat.Html);
-// load HTML with an instance of Docxument
-Docxument docxument = new Docxument("htmlOutput.html");
-// save docxument in DOCX format
-docxument.save("output.docx",SaveFormat.Docxx);   
+// load HTML with an instance of Document
+Document document = new Document("htmlOutput.html");
+// save document in DOCX format
+document.save("output.docx",SaveFormat.Docxx);   
 ```
 
 {{% /blocks/products/pf/feature-page-code %}}
