@@ -33,7 +33,7 @@ Az [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-n
 
 - A DOCM-ből MHTML vagy HtmlFixed formátumba konvertálásához Python 3.5 vagy újabb verzió szükséges
 - Referencia API-k a projekten belül közvetlenül a PyPI-ből ([Aspose.Words](https://pypi.org/project/aspose-words/))
-- Vagy használja a következő pip parancsokat: ```pip install aspose.words```.
+- Vagy használja a következő pip parancsokat: ```pip install aspose.words```
 - Ezenkívül a Microsoft Windows vagy Linux alapú operációs rendszer (lásd még az [Words](https://docs.aspose.com/words/python-net/system-requirements/)-nál) és Linux esetén ellenőrizze a gcc és libpython további követelményeit, és kövesse az [INSTALL](https://docs.aspose.com/words/python-net/installation/) lépésről lépésre vonatkozó utasításait.
  
 

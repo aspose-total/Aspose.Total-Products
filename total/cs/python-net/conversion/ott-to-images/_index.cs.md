@@ -22,7 +22,7 @@ Používáme API [Aspose.Words for Python via .NET](https://products.aspose.com/
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak Převést OTT na obrázky v Pythonu" %}}
 - Načtěte zdrojový soubor OTT pomocí třídy [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
-- Vytvořte instanci [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/).
+- Vytvořte instanci [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/)
 - Zadejte číslo stránky pro převod pomocí [PageSet](https://reference.aspose.com/words/python-net/aspose.words.saving/pageset/)
 - Nastavte vlastnosti
 - Při předávání cesty k výstupnímu souboru a zadaných možností jako parametrů zavolejte metodu `save`. Váš soubor OTT je tedy převeden na obrázky v zadané cestě.
@@ -33,7 +33,7 @@ Používáme API [Aspose.Words for Python via .NET](https://products.aspose.com/
 
 - Pro převod OTT na obrázky (JPG, PNG, GIF, BMP, TIFF) je vyžadován Python 3.5 nebo novější
 - Referenční API v rámci projektu přímo z PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/))
-- Nebo použijte následující příkazy pip ```pip install aspose.words```.
+- Nebo použijte následující příkazy pip ```pip install aspose.words```
 - Kromě toho operační systém založený na Microsoft Windows nebo Linux (viz více [Words](https://docs.aspose.com/words/python-net/system-requirements/)) a pro Linux zkontrolujte další požadavky pro gcc a libpython a postupujte podle pokynů [INSTALL](https://docs.aspose.com/words/python-net/installation/) krok za krokem.
  
 

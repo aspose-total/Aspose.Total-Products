@@ -22,7 +22,7 @@ Nous utilisons l'API [Aspose.Words for Python via .NET](https://products.aspose.
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Comment Convertir DOCM en MHTML en Python" %}}
 - Charger le fichier DOCM source à l'aide de la classe [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
-- Créez l'instance de [HtmlSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/htmlsaveoptions/).
+- Créez l'instance de [HtmlSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/htmlsaveoptions/)
 - Définissez export_roundtrip_information sur True
 - Spécifiez [SaveFormat](https://reference.aspose.com/words/python-net/aspose.words/saveformat/) comme MHTML
 - Appelez la méthode `save` tout en spécifiant le chemin du fichier de sortie et SaveFormat comme paramètres. Ainsi, votre fichier DOCM est converti en MHTML au chemin spécifié.
@@ -33,8 +33,8 @@ Nous utilisons l'API [Aspose.Words for Python via .NET](https://products.aspose.
 
 - Pour la conversion du format DOCM vers MHTML ou HtmlFixed, Python 3.5 ou version ultérieure est requis
 - API de référence dans le projet directement depuis PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/))
-- Ou utilisez les commandes pip suivantes ```pip install aspose.words```.
-- De plus, les systèmes d'exploitation basés sur Microsoft Windows ou Linux (voir plus pour [Words](https://docs.aspose.com/words/python-net/system-requirements/)) et pour Linux vérifient les exigences supplémentaires pour gcc et libpython et suivent les instructions étape par étape [INSTALL](https://docs.aspose.com/words/python-net/installation/).
+- Ou utilisez les commandes pip suivantes ```pip install aspose.words```
+- De plus, les systèmes d'exploitation basés sur Microsoft Windows ou Linux (voir plus pour [Words](https://docs.aspose.com/words/python-net/system-requirements/)) et pour Linux vérifient les exigences supplémentaires pour gcc et libpython et suivent les instructions étape par étape [INSTALL](https://docs.aspose.com/words/python-net/installation/)
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

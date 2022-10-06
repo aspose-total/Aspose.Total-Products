@@ -22,7 +22,7 @@ Kami menggunakan API [Aspose.Words for Python via .NET](https://products.aspose.
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Bagaimana caranya? Konversi DOT ke MHTML dengan Python" %}}
 - Muat file DOT sumber menggunakan kelas [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
-- Buat instance [HtmlSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/htmlsaveoptions/).
+- Buat instance [HtmlSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/htmlsaveoptions/)
 - Atur export_roundtrip_information sebagai True
 - Tentukan [SaveFormat](https://reference.aspose.com/words/python-net/aspose.words/saveformat/) sebagai MHTML
 - Panggil metode `save` sambil menentukan jalur file keluaran & SaveFormat sebagai parameter. Jadi file DOT Anda dikonversi ke MHTML di jalur yang ditentukan.
@@ -33,8 +33,8 @@ Kami menggunakan API [Aspose.Words for Python via .NET](https://products.aspose.
 
 - Untuk konversi format DOT ke MHTML atau HtmlFixed, diperlukan Python 3.5 atau yang lebih baru
 - Referensi API dalam proyek langsung dari PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/))
-- Atau gunakan perintah pip berikut ```pip install aspose.words```.
-- Selain itu, OS berbasis Microsoft Windows atau Linux (lihat selengkapnya untuk [Words](https://docs.aspose.com/words/python-net/system-requirements/)) dan untuk Linux periksa persyaratan tambahan untuk gcc dan libpython dan ikuti petunjuk langkah demi langkah [INSTALL](https://docs.aspose.com/words/python-net/installation/).
+- Atau gunakan perintah pip berikut ```pip install aspose.words```
+- Selain itu, OS berbasis Microsoft Windows atau Linux (lihat selengkapnya untuk [Words](https://docs.aspose.com/words/python-net/system-requirements/)) dan untuk Linux periksa persyaratan tambahan untuk gcc dan libpython dan ikuti petunjuk langkah demi langkah [INSTALL](https://docs.aspose.com/words/python-net/installation/)
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

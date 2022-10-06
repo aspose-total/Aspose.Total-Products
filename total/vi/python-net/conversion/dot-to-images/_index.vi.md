@@ -22,7 +22,7 @@ Chúng tôi sử dụng API [Aspose.Words for Python via .NET](https://products.
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Làm thế nào để Chuyển đổi DOT sang hình ảnh bằng Python" %}}
 - Tải tệp DOT nguồn bằng lớp [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
-- Tạo phiên bản [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/).
+- Tạo phiên bản [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/)
 - Chỉ định số trang để chuyển đổi bằng [PageSet](https://reference.aspose.com/words/python-net/aspose.words.saving/pageset/)
 - Đặt các thuộc tính
 - Gọi phương thức `save` trong khi chuyển đường dẫn tệp đầu ra và các tùy chọn được chỉ định làm tham số. Vì vậy, tệp DOT của bạn được chuyển đổi thành Hình ảnh theo đường dẫn được chỉ định.
@@ -34,7 +34,7 @@ Chúng tôi sử dụng API [Aspose.Words for Python via .NET](https://products.
 - Để chuyển đổi DOT sang Hình ảnh (JPG, PNG, GIF, BMP, TIFF), Python 3.5 trở lên là bắt buộc
 - Tham khảo các API trong dự án trực tiếp từ PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/))
 - Hoặc sử dụng các lệnh pip sau `` pip install aspose.words ''.
-- Hơn nữa, hệ điều hành dựa trên Microsoft Windows hoặc Linux (xem thêm cho [Words](https://docs.aspose.com/words/python-net/system-requirements/)) và cho Linux, hãy kiểm tra các yêu cầu bổ sung cho gcc và libpython và làm theo hướng dẫn từng bước [INSTALL](https://docs.aspose.com/words/python-net/installation/).
+- Hơn nữa, hệ điều hành dựa trên Microsoft Windows hoặc Linux (xem thêm cho [Words](https://docs.aspose.com/words/python-net/system-requirements/)) và cho Linux, hãy kiểm tra các yêu cầu bổ sung cho gcc và libpython và làm theo hướng dẫn từng bước [INSTALL](https://docs.aspose.com/words/python-net/installation/)
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

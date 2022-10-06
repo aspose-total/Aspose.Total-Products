@@ -22,7 +22,7 @@ Usamos a API [Aspose.Words for Python via .NET](https://products.aspose.com/word
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Como Converter DOT para imagens em Python" %}}
 - Carregar arquivo DOT de origem usando a classe [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
-- Crie a instância de [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/).
+- Crie a instância de [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/)
 - Especifique o número da página para conversão usando [PageSet](https://reference.aspose.com/words/python-net/aspose.words.saving/pageset/)
 - Defina as propriedades
 - Chame o método `save` enquanto passa o caminho do arquivo de saída e as opções especificadas como parâmetros. Portanto, seu arquivo DOT é convertido em Imagens no caminho especificado.
@@ -33,8 +33,8 @@ Usamos a API [Aspose.Words for Python via .NET](https://products.aspose.com/word
 
 - Para conversão DOT para Imagens (JPG, PNG, GIF, BMP, TIFF), é necessário Python 3.5 ou posterior
 - APIs de referência dentro do projeto diretamente do PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/))
-- Ou use os seguintes comandos pip ```pip install aspose.words```.
-- Além disso, SO baseado em Microsoft Windows ou Linux (veja mais para [Words](https://docs.aspose.com/words/python-net/system-requirements/)) e para Linux verifique os requisitos adicionais para gcc e libpython e siga as instruções passo a passo [INSTALL](https://docs.aspose.com/words/python-net/installation/).
+- Ou use os seguintes comandos pip ```pip install aspose.words```
+- Além disso, SO baseado em Microsoft Windows ou Linux (veja mais para [Words](https://docs.aspose.com/words/python-net/system-requirements/)) e para Linux verifique os requisitos adicionais para gcc e libpython e siga as instruções passo a passo [INSTALL](https://docs.aspose.com/words/python-net/installation/)
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

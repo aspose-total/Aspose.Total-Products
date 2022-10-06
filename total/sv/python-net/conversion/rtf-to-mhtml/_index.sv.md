@@ -22,7 +22,7 @@ Vi använder [Aspose.Words for Python via .NET](https://products.aspose.com/word
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hur Konvertera RTF till MHTML i Python" %}}
 - Ladda käll-RTF-fil med [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)-klassen
-- Skapa instansen av [HtmlSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/htmlsaveoptions/).
+- Skapa instansen av [HtmlSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/htmlsaveoptions/)
 - Ställ in export_roundtrip_information som Sant
 - Ange [SaveFormat](https://reference.aspose.com/words/python-net/aspose.words/saveformat/) som MHTML
 - Anropa 'spara'-metoden samtidigt som du anger sökvägen för utdatafilen och SaveFormat som parametrar. Så din RTF-fil konverteras till MHTML på den angivna sökvägen.
@@ -33,8 +33,8 @@ Vi använder [Aspose.Words for Python via .NET](https://products.aspose.com/word
 
 - För konvertering av RTF till MHTML eller HtmlFixed format krävs Python 3.5 eller senare
 - Referera API:er inom projektet direkt från PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/))
-- Eller använd följande pip-kommandon ```pip install aspose.words```.
-- Dessutom, Microsoft Windows eller Linux-baserade OS (se mer för [Words](https://docs.aspose.com/words/python-net/system-requirements/)) och för Linux kontrollera ytterligare krav för gcc och libpython och följ steg-för-steg-instruktionerna [INSTALL](https://docs.aspose.com/words/python-net/installation/).
+- Eller använd följande pip-kommandon ```pip install aspose.words```
+- Dessutom, Microsoft Windows eller Linux-baserade OS (se mer för [Words](https://docs.aspose.com/words/python-net/system-requirements/)) och för Linux kontrollera ytterligare krav för gcc och libpython och följ steg-för-steg-instruktionerna [INSTALL](https://docs.aspose.com/words/python-net/installation/)
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

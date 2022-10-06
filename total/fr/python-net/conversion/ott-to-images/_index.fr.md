@@ -22,7 +22,7 @@ Nous utilisons l'API [Aspose.Words for Python via .NET](https://products.aspose.
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Comment Convertir OTT en images en Python" %}}
 - Charger le fichier OTT source à l'aide de la classe [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
-- Créez l'instance de [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/).
+- Créez l'instance de [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/)
 - Spécifiez le numéro de page pour la conversion à l'aide de [PageSet](https://reference.aspose.com/words/python-net/aspose.words.saving/pageset/)
 - Définir les propriétés
 - Appelez la méthode `save` tout en passant le chemin du fichier de sortie et les options spécifiées en tant que paramètres. Ainsi, votre fichier OTT est converti en images au chemin spécifié.
@@ -33,8 +33,8 @@ Nous utilisons l'API [Aspose.Words for Python via .NET](https://products.aspose.
 
 - Pour la conversion OTT en images (JPG, PNG, GIF, BMP, TIFF), Python 3.5 ou version ultérieure est requis
 - API de référence dans le projet directement depuis PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/))
-- Ou utilisez les commandes pip suivantes ```pip install aspose.words```.
-- De plus, les systèmes d'exploitation basés sur Microsoft Windows ou Linux (voir plus pour [Words](https://docs.aspose.com/words/python-net/system-requirements/)) et pour Linux vérifient les exigences supplémentaires pour gcc et libpython et suivent les instructions étape par étape [INSTALL](https://docs.aspose.com/words/python-net/installation/).
+- Ou utilisez les commandes pip suivantes ```pip install aspose.words```
+- De plus, les systèmes d'exploitation basés sur Microsoft Windows ou Linux (voir plus pour [Words](https://docs.aspose.com/words/python-net/system-requirements/)) et pour Linux vérifient les exigences supplémentaires pour gcc et libpython et suivent les instructions étape par étape [INSTALL](https://docs.aspose.com/words/python-net/installation/)
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

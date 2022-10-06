@@ -15,14 +15,14 @@ outformat: Images
 
 Для разработчика Python, который пытается добавить функцию преобразования изображений WORD в PNG, BMP, TIFF, JPEG и GIF в приложение. API [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) может помочь импортировать и экспортировать изображения и файлы Word, а также автоматизировать процесс преобразования. Это полный пакет различных API, работающих с разными форматами. 
 
-Мы используем API [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/), который является частью пакета [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/), чтобы добавить функцию преобразования изображений WORD в JPG, PNG, GIF, BMP и TIFF. Для простого преобразования это всего две строки кода. Загрузите файл WORD и вызовите метод сохранения с соответствующим путем к изображению вместе с SaveFormat соответствующего формата. Но в случае, если необходимо установить дополнительную информацию, такую как установка разрешения по горизонтали и вертикали, масштаба, формата пикселей, яркости и т. д., для всего этого можно использовать класс [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/). Используя [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/), можно легко преобразовать определенную страницу WORD в изображение с прозрачным или цветным фоном, указать разрешение при рендеринге, настроить сжатие и многое другое. В зависимости от требований можно использовать по своему усмотрению. Вот еще один способ преобразования [Word To Image](https://products.aspose.com/words/python-net/conversion/word-to-image/).
+Мы используем API [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/), который является частью пакета [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/), чтобы добавить функцию преобразования изображений WORD в JPG, PNG, GIF, BMP и TIFF. Для простого преобразования это всего две строки кода. Загрузите файл WORD и вызовите метод сохранения с соответствующим путем к изображению вместе с SaveFormat соответствующего формата. Но в случае, если необходимо установить дополнительную информацию, такую как установка разрешения по горизонтали и вертикали, масштаба, формата пикселей, яркости и т. д., для всего этого можно использовать класс [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/) Используя [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/), можно легко преобразовать определенную страницу WORD в изображение с прозрачным или цветным фоном, указать разрешение при рендеринге, настроить сжатие и многое другое. В зависимости от требований можно использовать по своему усмотрению. Вот еще один способ преобразования [Word To Image](https://products.aspose.com/words/python-net/conversion/word-to-image/).
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как Преобразование WORD в изображения в Python" %}}
 - Загрузите исходный файл WORD, используя класс [Document](https://reference.aspose.com/words/python-net/aspose.words/document/).
-- Создайте экземпляр [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/).
+- Создайте экземпляр [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/)
 - Укажите номер страницы для преобразования с помощью [PageSet](https://reference.aspose.com/words/python-net/aspose.words.saving/pageset/)
 - Установите свойства
 - Вызовите метод `save`, передав путь к выходному файлу и указанные параметры в качестве параметров. Таким образом, ваш файл WORD преобразуется в изображения по указанному пути.
@@ -33,8 +33,8 @@ outformat: Images
 
 - Для преобразования WORD в изображения (JPG, PNG, GIF, BMP, TIFF) требуется Python 3.5 или более поздней версии.
 - Справочные API внутри проекта непосредственно из PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/))
-- Или используйте следующие команды pip ```pip install aspose.words```.
-- Кроме того, ОС на базе Microsoft Windows или Linux (см. дополнительную информацию в [Words](https://docs.aspose.com/words/python-net/system-requirements/)) и для Linux проверьте дополнительные требования для gcc и libpython и следуйте пошаговым инструкциям [INSTALL](https://docs.aspose.com/words/python-net/installation/).
+- Или используйте следующие команды pip ```pip install aspose.words```
+- Кроме того, ОС на базе Microsoft Windows или Linux (см. дополнительную информацию в [Words](https://docs.aspose.com/words/python-net/system-requirements/)) и для Linux проверьте дополнительные требования для gcc и libpython и следуйте пошаговым инструкциям [INSTALL](https://docs.aspose.com/words/python-net/installation/)
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

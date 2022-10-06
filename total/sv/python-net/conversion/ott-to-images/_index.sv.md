@@ -22,7 +22,7 @@ Vi använder [Aspose.Words for Python via .NET](https://products.aspose.com/word
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hur Konvertera OTT till bilder i Python" %}}
 - Ladda käll-OTT-fil med [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)-klassen
-- Skapa instansen av [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/).
+- Skapa instansen av [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/)
 - Ange sidnummer för konvertering med [PageSet](https://reference.aspose.com/words/python-net/aspose.words.saving/pageset/)
 - Ställ in egenskaperna
 - Anropa "spara"-metoden medan du skickar sökvägen till utdatafilen och angivna alternativ som parametrar. Så din OTT-fil konverteras till bilder på den angivna sökvägen.
@@ -33,8 +33,8 @@ Vi använder [Aspose.Words for Python via .NET](https://products.aspose.com/word
 
 - För konvertering av OTT till bilder (JPG, PNG, GIF, BMP, TIFF) krävs Python 3.5 eller senare
 - Referera API:er inom projektet direkt från PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/))
-- Eller använd följande pip-kommandon ```pip install aspose.words```.
-- Dessutom, Microsoft Windows eller Linux-baserade OS (se mer för [Words](https://docs.aspose.com/words/python-net/system-requirements/)) och för Linux kontrollera ytterligare krav för gcc och libpython och följ steg-för-steg-instruktionerna [INSTALL](https://docs.aspose.com/words/python-net/installation/).
+- Eller använd följande pip-kommandon ```pip install aspose.words```
+- Dessutom, Microsoft Windows eller Linux-baserade OS (se mer för [Words](https://docs.aspose.com/words/python-net/system-requirements/)) och för Linux kontrollera ytterligare krav för gcc och libpython och följ steg-för-steg-instruktionerna [INSTALL](https://docs.aspose.com/words/python-net/installation/)
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -15,14 +15,14 @@ outformat: Images
 
 Dla programisty Pythona, który próbuje dodać DOT do funkcji konwersji obrazów PNG, BMP, TIFF, JPEG i GIF w aplikacji. [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API może pomóc w imporcie i eksporcie obrazów oraz plików Word, a także zautomatyzować proces konwersji. Jest to pełny pakiet różnych interfejsów API obsługujących różne formaty. 
 
-Używamy API [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/), które jest częścią pakietu [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/), aby dodać DOT do funkcji konwersji obrazów JPG, PNG, GIF, BMP i TIFF. Dla samej konwersji to tylko dwie linijki kodu. Załaduj plik DOT i wywołaj metodę save z odpowiednią ścieżką obrazu wraz z SaveFormat o odpowiednim formacie. Ale w przypadku, gdy zachodzi potrzeba ustawienia dodatkowych informacji, takich jak ustawienie rozdzielczości poziomej i pionowej, skali, formatu pikseli, jasności i innych, to jest do tego klasa [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/). Za pomocą [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/) można łatwo renderować określoną stronę DOT na obraz z przezroczystym lub kolorowym tłem, określić rozdzielczość podczas renderowania, skonfigurować kompresję i wiele więcej. W zależności od wymagań można użyć jako jego wymagania, Oto inny sposób konwersji [Word To Image](https://products.aspose.com/words/python-net/conversion/word-to-image/).
+Używamy API [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/), które jest częścią pakietu [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/), aby dodać DOT do funkcji konwersji obrazów JPG, PNG, GIF, BMP i TIFF. Dla samej konwersji to tylko dwie linijki kodu. Załaduj plik DOT i wywołaj metodę save z odpowiednią ścieżką obrazu wraz z SaveFormat o odpowiednim formacie. Ale w przypadku, gdy zachodzi potrzeba ustawienia dodatkowych informacji, takich jak ustawienie rozdzielczości poziomej i pionowej, skali, formatu pikseli, jasności i innych, to jest do tego klasa [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/) Za pomocą [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/) można łatwo renderować określoną stronę DOT na obraz z przezroczystym lub kolorowym tłem, określić rozdzielczość podczas renderowania, skonfigurować kompresję i wiele więcej. W zależności od wymagań można użyć jako jego wymagania, Oto inny sposób konwersji [Word To Image](https://products.aspose.com/words/python-net/conversion/word-to-image/).
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak Konwertuj DOT na obrazy w Pythonie" %}}
 - Załaduj źródłowy plik DOT przy użyciu klasy [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
-- Utwórz wystąpienie [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/).
+- Utwórz wystąpienie [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/)
 - Określ numer strony do konwersji za pomocą [PageSet](https://reference.aspose.com/words/python-net/aspose.words.saving/pageset/)
 - Ustaw właściwości
 - Wywołaj metodę `save` podczas przekazywania ścieżki pliku wyjściowego i określonych opcji jako parametrów. Więc twój plik DOT jest konwertowany na obrazy w określonej ścieżce.
@@ -33,8 +33,8 @@ Używamy API [Aspose.Words for Python via .NET](https://products.aspose.com/word
 
 - Do konwersji DOT na obrazy (JPG, PNG, GIF, BMP, TIFF) wymagany jest Python 3.5 lub nowszy
 - Referencyjne API w ramach projektu bezpośrednio z PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/))
-- Lub użyj następujących poleceń pip ```pip install aspose.words```.
-- Co więcej, system operacyjny oparty na Microsoft Windows lub Linux (zobacz więcej na temat [Words](https://docs.aspose.com/words/python-net/system-requirements/)) oraz Linux sprawdź dodatkowe wymagania dla gcc i libpython i postępuj zgodnie z instrukcjami krok po kroku [INSTALL](https://docs.aspose.com/words/python-net/installation/).
+- Lub użyj następujących poleceń pip ```pip install aspose.words```
+- Co więcej, system operacyjny oparty na Microsoft Windows lub Linux (zobacz więcej na temat [Words](https://docs.aspose.com/words/python-net/system-requirements/)) oraz Linux sprawdź dodatkowe wymagania dla gcc i libpython i postępuj zgodnie z instrukcjami krok po kroku [INSTALL](https://docs.aspose.com/words/python-net/installation/)
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

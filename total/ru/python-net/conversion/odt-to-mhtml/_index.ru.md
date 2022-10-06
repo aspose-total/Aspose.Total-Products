@@ -22,7 +22,7 @@ outformat: MHTML
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как Преобразование ODT в MHTML в Python" %}}
 - Загрузите исходный ODT-файл, используя класс [Document](https://reference.aspose.com/words/python-net/aspose.words/document/).
-- Создайте экземпляр [HtmlSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/htmlsaveoptions/).
+- Создайте экземпляр [HtmlSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/htmlsaveoptions/)
 - Установите export_roundtrip_information как True
 - Укажите [SaveFormat](https://reference.aspose.com/words/python-net/aspose.words/saveformat/) как MHTML.
 - Вызовите метод `save`, указав путь к выходному файлу и SaveFormat в качестве параметров. Таким образом, ваш файл ODT преобразуется в MHTML по указанному пути.
@@ -33,8 +33,8 @@ outformat: MHTML
 
 - Для преобразования формата ODT в MHTML или HtmlFixed требуется Python 3.5 или более поздней версии.
 - Справочные API внутри проекта непосредственно из PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/))
-- Или используйте следующие команды pip ```pip install aspose.words```.
-- Кроме того, для ОС на базе Microsoft Windows или Linux (см. подробнее [Words](https://docs.aspose.com/words/python-net/system-requirements/)) и для Linux проверьте дополнительные требования для gcc и libpython и следуйте пошаговым инструкциям [INSTALL](https://docs.aspose.com/words/python-net/installation/).
+- Или используйте следующие команды pip ```pip install aspose.words```
+- Кроме того, для ОС на базе Microsoft Windows или Linux (см. подробнее [Words](https://docs.aspose.com/words/python-net/system-requirements/)) и для Linux проверьте дополнительные требования для gcc и libpython и следуйте пошаговым инструкциям [INSTALL](https://docs.aspose.com/words/python-net/installation/)
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

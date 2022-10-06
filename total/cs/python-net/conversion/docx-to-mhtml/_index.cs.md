@@ -22,7 +22,7 @@ K přidání funkce převodu DOCX na MHTML používáme API [Aspose.Words for Py
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak Převeďte DOCX na MHTML v Pythonu" %}}
 - Načtěte zdrojový soubor DOCX pomocí třídy [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
-- Vytvořte instanci [HtmlSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/htmlsaveoptions/).
+- Vytvořte instanci [HtmlSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/htmlsaveoptions/)
 - Nastavte export_roundtrip_information jako True
 - Zadejte [SaveFormat](https://reference.aspose.com/words/python-net/aspose.words/saveformat/) jako MHTML
 - Zavolejte metodu `save`, přičemž jako parametry zadejte cestu k výstupnímu souboru a SaveFormat. Váš soubor DOCX je tedy převeden na MHTML na zadané cestě.
@@ -33,7 +33,7 @@ K přidání funkce převodu DOCX na MHTML používáme API [Aspose.Words for Py
 
 - Pro převod formátu DOCX na MHTML nebo HtmlFixed je vyžadován Python 3.5 nebo novější
 - Referenční API v rámci projektu přímo z PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/))
-- Nebo použijte následující příkazy pip ```pip install aspose.words```.
+- Nebo použijte následující příkazy pip ```pip install aspose.words```
 - Kromě toho operační systém založený na Microsoft Windows nebo Linux (viz více [Words](https://docs.aspose.com/words/python-net/system-requirements/)) a pro Linux zkontrolujte další požadavky pro gcc a libpython a postupujte podle pokynů [INSTALL](https://docs.aspose.com/words/python-net/installation/) krok za krokem.
  
 

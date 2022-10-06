@@ -22,7 +22,7 @@ Używamy API [Aspose.Words for Python via .NET](https://products.aspose.com/word
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak Konwertuj DOTM na MHTML w Pythonie" %}}
 - Załaduj źródłowy plik DOTM przy użyciu klasy ASSOSE.WORDS.DOCUMENT
-- Utwórz wystąpienie [HtmlSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/htmlsaveoptions/).
+- Utwórz wystąpienie [HtmlSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/htmlsaveoptions/)
 - Ustaw export_roundtrip_information jako True
 - Określ [SaveFormat](https://reference.aspose.com/words/python-net/aspose.words/saveformat/) jako MHTML
 - Wywołaj metodę `save`, określając ścieżkę pliku wyjściowego i SaveFormat jako parametry. Więc twój plik DOTM jest konwertowany na MHTML w określonej ścieżce.
@@ -33,8 +33,8 @@ Używamy API [Aspose.Words for Python via .NET](https://products.aspose.com/word
 
 - Do konwersji formatu DOTM na MHTML lub HtmlFixed wymagany jest Python 3.5 lub nowszy
 - Referencyjne API w ramach projektu bezpośrednio z PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/))
-- Lub użyj następujących poleceń pip ```pip install aspose.words```.
-- Co więcej, system operacyjny oparty na Microsoft Windows lub Linux (zobacz więcej na temat [Words](https://docs.aspose.com/words/python-net/system-requirements/)) oraz Linux sprawdź dodatkowe wymagania dla gcc i libpython i postępuj zgodnie z instrukcjami krok po kroku [INSTALL](https://docs.aspose.com/words/python-net/installation/).
+- Lub użyj następujących poleceń pip ```pip install aspose.words```
+- Co więcej, system operacyjny oparty na Microsoft Windows lub Linux (zobacz więcej na temat [Words](https://docs.aspose.com/words/python-net/system-requirements/)) oraz Linux sprawdź dodatkowe wymagania dla gcc i libpython i postępuj zgodnie z instrukcjami krok po kroku [INSTALL](https://docs.aspose.com/words/python-net/installation/)
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

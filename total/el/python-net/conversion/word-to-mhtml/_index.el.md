@@ -22,7 +22,7 @@ outformat: MHTML
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Πως να Μετατροπή WORD σε MHTML στην Python" %}}
 - Φορτώστε το αρχείο προέλευσης WORD χρησιμοποιώντας την κλάση [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
-- Δημιουργήστε την παρουσία του [HtmlSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/htmlsaveoptions/).
+- Δημιουργήστε την παρουσία του [HtmlSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/htmlsaveoptions/)
 - Ορίστε το export_roundtrip_information ως True
 - Καθορίστε το [SaveFormat](https://reference.aspose.com/words/python-net/aspose.words/saveformat/) ως MHTML
 - Καλέστε τη μέθοδο «αποθήκευση» ενώ καθορίζετε τη διαδρομή αρχείου εξόδου και την αποθήκευση μορφοποίησης ως παραμέτρους. Έτσι, το αρχείο WORD μετατρέπεται σε MHTML στην καθορισμένη διαδρομή.
@@ -33,8 +33,8 @@ outformat: MHTML
 
 - Για μετατροπή μορφής WORD σε MHTML ή HtmlFixed, απαιτείται Python 3.5 ή νεότερη έκδοση
 - Αναφορά API εντός του έργου απευθείας από το PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/))
-- Ή χρησιμοποιήστε τις ακόλουθες εντολές pip ```pip install aspose.words```.
-- Επιπλέον, το λειτουργικό σύστημα Microsoft Windows ή Linux (δείτε περισσότερα για [Words](https://docs.aspose.com/words/python-net/system-requirements/)) και για Linux ελέγξτε τις πρόσθετες απαιτήσεις για gcc και libpython και ακολουθήστε τις οδηγίες βήμα προς βήμα [INSTALL](https://docs.aspose.com/words/python-net/installation/).
+- Ή χρησιμοποιήστε τις ακόλουθες εντολές pip ```pip install aspose.words```
+- Επιπλέον, το λειτουργικό σύστημα Microsoft Windows ή Linux (δείτε περισσότερα για [Words](https://docs.aspose.com/words/python-net/system-requirements/)) και για Linux ελέγξτε τις πρόσθετες απαιτήσεις για gcc και libpython και ακολουθήστε τις οδηγίες βήμα προς βήμα [INSTALL](https://docs.aspose.com/words/python-net/installation/)
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

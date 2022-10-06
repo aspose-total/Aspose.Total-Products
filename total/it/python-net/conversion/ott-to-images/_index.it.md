@@ -22,7 +22,7 @@ Utilizziamo l'API [Aspose.Words for Python via .NET](https://products.aspose.com
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Come Converti OTT in immagini in Python" %}}
 - Carica il file OTT di origine utilizzando la classe [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
-- Crea l'istanza di [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/).
+- Crea l'istanza di [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/)
 - Specificare il numero di pagina per la conversione utilizzando [PageSet](https://reference.aspose.com/words/python-net/aspose.words.saving/pageset/)
 - Imposta le proprietà
 - Chiama il metodo `save` mentre passi il percorso del file di output e le opzioni specificate come parametri. Quindi il tuo file OTT viene convertito in Immagini nel percorso specificato.
@@ -33,8 +33,8 @@ Utilizziamo l'API [Aspose.Words for Python via .NET](https://products.aspose.com
 
 - Per la conversione da OTT a immagini (JPG, PNG, GIF, BMP, TIFF), è richiesto Python 3.5 o successivo
 - API di riferimento all'interno del progetto direttamente da PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/))
-- Oppure usa i seguenti comandi pip ```pip install aspose.words```.
-- Inoltre, il sistema operativo basato su Microsoft Windows o Linux (vedi altro per [Words](https://docs.aspose.com/words/python-net/system-requirements/)) e per Linux controlla i requisiti aggiuntivi per gcc e libpython e segui passo passo le istruzioni [INSTALL](https://docs.aspose.com/words/python-net/installation/).
+- Oppure usa i seguenti comandi pip ```pip install aspose.words```
+- Inoltre, il sistema operativo basato su Microsoft Windows o Linux (vedi altro per [Words](https://docs.aspose.com/words/python-net/system-requirements/)) e per Linux controlla i requisiti aggiuntivi per gcc e libpython e segui passo passo le istruzioni [INSTALL](https://docs.aspose.com/words/python-net/installation/)
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

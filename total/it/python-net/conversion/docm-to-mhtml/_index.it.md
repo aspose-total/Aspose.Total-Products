@@ -22,7 +22,7 @@ Utilizziamo l'API [Aspose.Words for Python via .NET](https://products.aspose.com
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Come Converti DOCM in MHTML in Python" %}}
 - Carica il file DOCM di origine utilizzando la classe [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
-- Crea l'istanza di [HtmlSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/htmlsaveoptions/).
+- Crea l'istanza di [HtmlSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/htmlsaveoptions/)
 - Imposta export_roundtrip_information su True
 - Specificare [SaveFormat](https://reference.aspose.com/words/python-net/aspose.words/saveformat/) come MHTML
 - Chiama il metodo `save` mentre specifichi il percorso del file di output e SaveFormat come parametri. Quindi il tuo file DOCM viene convertito in MHTML nel percorso specificato.
@@ -33,8 +33,8 @@ Utilizziamo l'API [Aspose.Words for Python via .NET](https://products.aspose.com
 
 - Per la conversione del formato da DOCM a MHTML o HtmlFixed, è richiesto Python 3.5 o successivo
 - API di riferimento all'interno del progetto direttamente da PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/))
-- Oppure usa i seguenti comandi pip ```pip install aspose.words```.
-- Inoltre, il sistema operativo basato su Microsoft Windows o Linux (vedi altro per [Words](https://docs.aspose.com/words/python-net/system-requirements/)) e per Linux controlla i requisiti aggiuntivi per gcc e libpython e segui passo passo le istruzioni [INSTALL](https://docs.aspose.com/words/python-net/installation/).
+- Oppure usa i seguenti comandi pip ```pip install aspose.words```
+- Inoltre, il sistema operativo basato su Microsoft Windows o Linux (vedi altro per [Words](https://docs.aspose.com/words/python-net/system-requirements/)) e per Linux controlla i requisiti aggiuntivi per gcc e libpython e segui passo passo le istruzioni [INSTALL](https://docs.aspose.com/words/python-net/installation/)
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

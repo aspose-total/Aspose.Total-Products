@@ -22,7 +22,7 @@ outformat: Images
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Πως να Μετατροπή DOCM σε εικόνες στην Python" %}}
 - Φορτώστε το αρχείο DOCM πηγής χρησιμοποιώντας την κλάση [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
-- Δημιουργήστε την παρουσία του [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/).
+- Δημιουργήστε την παρουσία του [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/)
 - Καθορίστε τον αριθμό σελίδας για μετατροπή χρησιμοποιώντας το [PageSet](https://reference.aspose.com/words/python-net/aspose.words.saving/pageset/)
 - Ορίστε τις ιδιότητες
 - Καλέστε τη μέθοδο «αποθήκευση» ενώ μεταβιβάζετε τη διαδρομή αρχείου εξόδου και τις καθορισμένες επιλογές ως παραμέτρους. Έτσι, το αρχείο DOCM μετατρέπεται σε Εικόνες στην καθορισμένη διαδρομή.
@@ -33,8 +33,8 @@ outformat: Images
 
 - Για τη μετατροπή DOCM σε εικόνες (JPG, PNG, GIF, BMP, TIFF), απαιτείται Python 3.5 ή νεότερη έκδοση
 - Αναφορά API εντός του έργου απευθείας από το PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/))
-- Ή χρησιμοποιήστε τις ακόλουθες εντολές pip ```pip install aspose.words```.
-- Επιπλέον, το λειτουργικό σύστημα Microsoft Windows ή Linux (δείτε περισσότερα για [Words](https://docs.aspose.com/words/python-net/system-requirements/)) και για Linux ελέγξτε τις πρόσθετες απαιτήσεις για gcc και libpython και ακολουθήστε τις οδηγίες βήμα προς βήμα [INSTALL](https://docs.aspose.com/words/python-net/installation/).
+- Ή χρησιμοποιήστε τις ακόλουθες εντολές pip ```pip install aspose.words```
+- Επιπλέον, το λειτουργικό σύστημα Microsoft Windows ή Linux (δείτε περισσότερα για [Words](https://docs.aspose.com/words/python-net/system-requirements/)) και για Linux ελέγξτε τις πρόσθετες απαιτήσεις για gcc και libpython και ακολουθήστε τις οδηγίες βήμα προς βήμα [INSTALL](https://docs.aspose.com/words/python-net/installation/)
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -22,7 +22,7 @@ Kami menggunakan API [Aspose.Words for Python via .NET](https://products.aspose.
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Bagaimana caranya? Konversi WORD ke Gambar dengan Python" %}}
 - Muat file WORD sumber menggunakan kelas [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
-- Buat instance [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/).
+- Buat instance [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/)
 - Tentukan nomor halaman untuk konversi menggunakan [PageSet](https://reference.aspose.com/words/python-net/aspose.words.saving/pageset/)
 - Tetapkan properti
 - Panggil metode `save` sambil meneruskan jalur file output & opsi yang ditentukan sebagai parameter. Jadi file WORD Anda dikonversi ke Gambar di jalur yang ditentukan.
@@ -33,8 +33,8 @@ Kami menggunakan API [Aspose.Words for Python via .NET](https://products.aspose.
 
 - Untuk konversi WORD ke Gambar (JPG, PNG, GIF, BMP, TIFF), diperlukan Python 3.5 atau yang lebih baru
 - Referensi API dalam proyek langsung dari PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/))
-- Atau gunakan perintah pip berikut ```pip install aspose.words```.
-- Selain itu, OS berbasis Microsoft Windows atau Linux (lihat selengkapnya untuk [Words](https://docs.aspose.com/words/python-net/system-requirements/)) dan untuk Linux periksa persyaratan tambahan untuk gcc dan libpython dan ikuti petunjuk langkah demi langkah [INSTALL](https://docs.aspose.com/words/python-net/installation/).
+- Atau gunakan perintah pip berikut ```pip install aspose.words```
+- Selain itu, OS berbasis Microsoft Windows atau Linux (lihat selengkapnya untuk [Words](https://docs.aspose.com/words/python-net/system-requirements/)) dan untuk Linux periksa persyaratan tambahan untuk gcc dan libpython dan ikuti petunjuk langkah demi langkah [INSTALL](https://docs.aspose.com/words/python-net/installation/)
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

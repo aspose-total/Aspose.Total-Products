@@ -22,7 +22,7 @@ outformat: MHTML
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيف تحويل WORD إلى MHTML في Python" %}}
 - قم بتحميل ملف WORD المصدر باستخدام فئة [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
-- قم بإنشاء مثيل [HtmlSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/htmlsaveoptions/).
+- قم بإنشاء مثيل [HtmlSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/htmlsaveoptions/)
 - قم بتعيين export_roundtrip_information كـ True
 - حدد [SaveFormat](https://reference.aspose.com/words/python-net/aspose.words/saveformat/) كـ MHTML
 - قم باستدعاء طريقة "save" أثناء تحديد مسار ملف الإخراج & SaveFormat كمعلمات. لذلك يتم تحويل ملف WORD الخاص بك إلى MHTML في المسار المحدد.
@@ -34,7 +34,7 @@ outformat: MHTML
 - لتحويل WORD إلى MHTML أو HtmlFixed ، يلزم Python 3.5 أو أحدث
 - واجهات برمجة التطبيقات المرجعية داخل المشروع مباشرة من PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/))
 - أو استخدم أوامر النقطة التالية `` تثبيت النقطة لكلمات الغرض '' `.
-- علاوة على ذلك ، فإن نظام التشغيل Microsoft Windows أو Linux (انظر المزيد عن [Words](https://docs.aspose.com/words/python-net/system-requirements/)) وللينكس تحقق من المتطلبات الإضافية لـ gcc و libpython واتبع التعليمات خطوة بخطوة [INSTALL](https://docs.aspose.com/words/python-net/installation/).
+- علاوة على ذلك ، فإن نظام التشغيل Microsoft Windows أو Linux (انظر المزيد عن [Words](https://docs.aspose.com/words/python-net/system-requirements/)) وللينكس تحقق من المتطلبات الإضافية لـ gcc و libpython واتبع التعليمات خطوة بخطوة [INSTALL](https://docs.aspose.com/words/python-net/installation/)
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

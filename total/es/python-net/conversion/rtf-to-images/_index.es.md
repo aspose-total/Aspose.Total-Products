@@ -22,7 +22,7 @@ Usamos la API [Aspose.Words for Python via .NET](https://products.aspose.com/wor
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo Convertir RTF a imágenes en Python" %}}
 - Cargue el archivo RTF de origen usando la clase [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
-- Cree la instancia de [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/).
+- Cree la instancia de [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/)
 - Especifique el número de página para la conversión usando [PageSet](https://reference.aspose.com/words/python-net/aspose.words.saving/pageset/)
 - Establecer las propiedades
 - Llame al método `save` mientras pasa la ruta del archivo de salida y las opciones especificadas como parámetros. Por lo tanto, su archivo RTF se convierte en Imágenes en la ruta especificada.
@@ -33,8 +33,8 @@ Usamos la API [Aspose.Words for Python via .NET](https://products.aspose.com/wor
 
 - Para la conversión de RTF a imágenes (JPG, PNG, GIF, BMP, TIFF), se requiere Python 3.5 o posterior
 - API de referencia dentro del proyecto directamente desde PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/))
-- O use los siguientes comandos pip ```pip install aspose.words```.
-- Además, el sistema operativo basado en Microsoft Windows o Linux (ver más para [Words](https://docs.aspose.com/words/python-net/system-requirements/)) y para Linux verifique los requisitos adicionales para gcc y libpython y siga las instrucciones paso a paso [INSTALL](https://docs.aspose.com/words/python-net/installation/).
+- O use los siguientes comandos pip ```pip install aspose.words```
+- Además, el sistema operativo basado en Microsoft Windows o Linux (ver más para [Words](https://docs.aspose.com/words/python-net/system-requirements/)) y para Linux verifique los requisitos adicionales para gcc y libpython y siga las instrucciones paso a paso [INSTALL](https://docs.aspose.com/words/python-net/installation/)
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

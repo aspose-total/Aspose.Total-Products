@@ -22,10 +22,10 @@ We use [Aspose.Words for Python via .NET](https://products.aspose.com/words/pyth
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="How to Convert RTF to Images in Python" %}}
 - Load source RTF file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
-- Create the instance of [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/).
+- Create the instance of [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/)
 - Specify page number for conversion using [PageSet](https://reference.aspose.com/words/python-net/aspose.words.saving/pageset/)
 - Set the properties
-- Call the `save` method while passing output file path & specified options as parameters. So your RTF file is converted to Images at the specified path.
+- Call the `save` method while passing output file path & specified options as parameters. So your RTF file is converted to Images at the specified path
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -33,8 +33,8 @@ We use [Aspose.Words for Python via .NET](https://products.aspose.com/words/pyth
 
 - For RTF to Images (JPG, PNG, GIF, BMP, TIFF) conversion, Python 3.5 or later is required
 - Reference APIs within the project directly from PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/))
-- Or use the following pip commands ```pip install aspose.words```.
-- Moreover, Microsoft Windows or Linux based OS (see more for [Words](https://docs.aspose.com/words/python-net/system-requirements/)) and for Linux check additional requirements for gcc and libpython and follow step by step instructions [INSTALL](https://docs.aspose.com/words/python-net/installation/).
+- Or use the following pip commands ```pip install aspose.words```
+- Moreover, Microsoft Windows or Linux based OS (see more for [Words](https://docs.aspose.com/words/python-net/system-requirements/)) and for Linux check additional requirements for gcc and libpython and follow step by step instructions [INSTALL](https://docs.aspose.com/words/python-net/installation/)
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

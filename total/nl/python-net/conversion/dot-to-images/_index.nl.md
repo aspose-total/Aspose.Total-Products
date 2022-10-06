@@ -22,7 +22,7 @@ We gebruiken [Aspose.Words for Python via .NET](https://products.aspose.com/word
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hoe Converteer DOT naar afbeeldingen in Python" %}}
 - Laad het DOT-bronbestand met de klasse [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
-- Maak de instantie van [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/).
+- Maak de instantie van [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/)
 - Specificeer paginanummer voor conversie met [PageSet](https://reference.aspose.com/words/python-net/aspose.words.saving/pageset/)
 - Stel de eigenschappen in
 - Roep de `save`-methode aan terwijl u het pad van het uitvoerbestand en de opgegeven opties als parameters doorgeeft. Dus uw DOT-bestand wordt geconverteerd naar afbeeldingen op het opgegeven pad.
@@ -33,8 +33,8 @@ We gebruiken [Aspose.Words for Python via .NET](https://products.aspose.com/word
 
 - Voor conversie van DOT naar afbeeldingen (JPG, PNG, GIF, BMP, TIFF) is Python 3.5 of hoger vereist
 - Referentie-API's binnen het project rechtstreeks vanuit PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/))
-- Of gebruik de volgende pip-commando's ```pip install aspose.words```.
-- Bovendien, op Microsoft Windows of Linux gebaseerd besturingssysteem (zie meer voor [Words](https://docs.aspose.com/words/python-net/system-requirements/)) en voor Linux, controleer de aanvullende vereisten voor gcc en libpython en volg de stapsgewijze instructies [INSTALL](https://docs.aspose.com/words/python-net/installation/).
+- Of gebruik de volgende pip-commando's ```pip install aspose.words```
+- Bovendien, op Microsoft Windows of Linux gebaseerd besturingssysteem (zie meer voor [Words](https://docs.aspose.com/words/python-net/system-requirements/)) en voor Linux, controleer de aanvullende vereisten voor gcc en libpython en volg de stapsgewijze instructies [INSTALL](https://docs.aspose.com/words/python-net/installation/)
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

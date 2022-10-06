@@ -22,7 +22,7 @@ We use [Aspose.Words for Python via .NET](https://products.aspose.com/words/pyth
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="How to Convert DOCM to MHTML in Python" %}}
 - Load source DOCM file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
-- Create the instance of [HtmlSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/htmlsaveoptions/).
+- Create the instance of [HtmlSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/htmlsaveoptions/)
 - Set the export_roundtrip_information as True
 - Specify the [SaveFormat](https://reference.aspose.com/words/python-net/aspose.words/saveformat/) as MHTML
 - Call the `save` method while specifying output file path & SaveFormat as parameters. So your DOCM file is converted to MHTML at the specified path.
@@ -33,8 +33,8 @@ We use [Aspose.Words for Python via .NET](https://products.aspose.com/words/pyth
 
 - For DOCM to MHTML or HtmlFixed format conversion, Python 3.5 or later is required
 - Reference APIs within the project directly from PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/))
-- Or use the following pip commands ```pip install aspose.words```.
-- Moreover, Microsoft Windows or Linux based OS (see more for [Words](https://docs.aspose.com/words/python-net/system-requirements/)) and for Linux check additional requirements for gcc and libpython and follow step by step instructions [INSTALL](https://docs.aspose.com/words/python-net/installation/).
+- Or use the following pip commands ```pip install aspose.words```
+- Moreover, Microsoft Windows or Linux based OS (see more for [Words](https://docs.aspose.com/words/python-net/system-requirements/)) and for Linux check additional requirements for gcc and libpython and follow step by step instructions [INSTALL](https://docs.aspose.com/words/python-net/installation/)
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

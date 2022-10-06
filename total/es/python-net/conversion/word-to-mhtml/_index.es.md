@@ -22,7 +22,7 @@ Usamos la API [Aspose.Words for Python via .NET](https://products.aspose.com/wor
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo Convertir WORD a MHTML en Python" %}}
 - Cargue el archivo WORD de origen usando la clase [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
-- Cree la instancia de [HtmlSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/htmlsaveoptions/).
+- Cree la instancia de [HtmlSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/htmlsaveoptions/)
 - Establezca export_roundtrip_information como Verdadero
 - Especifique [SaveFormat](https://reference.aspose.com/words/python-net/aspose.words/saveformat/) como MHTML
 - Llame al método `save` mientras especifica la ruta del archivo de salida y SaveFormat como parámetros. Entonces su archivo WORD se convierte a MHTML en la ruta especificada.
@@ -33,8 +33,8 @@ Usamos la API [Aspose.Words for Python via .NET](https://products.aspose.com/wor
 
 - Para la conversión de formato WORD a MHTML o HtmlFixed, se requiere Python 3.5 o posterior
 - API de referencia dentro del proyecto directamente desde PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/))
-- O use los siguientes comandos pip ```pip install aspose.words```.
-- Además, el sistema operativo basado en Microsoft Windows o Linux (ver más para [Words](https://docs.aspose.com/words/python-net/system-requirements/)) y para Linux verifique los requisitos adicionales para gcc y libpython y siga las instrucciones paso a paso [INSTALL](https://docs.aspose.com/words/python-net/installation/).
+- O use los siguientes comandos pip ```pip install aspose.words```
+- Además, el sistema operativo basado en Microsoft Windows o Linux (ver más para [Words](https://docs.aspose.com/words/python-net/system-requirements/)) y para Linux verifique los requisitos adicionales para gcc y libpython y siga las instrucciones paso a paso [INSTALL](https://docs.aspose.com/words/python-net/installation/)
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

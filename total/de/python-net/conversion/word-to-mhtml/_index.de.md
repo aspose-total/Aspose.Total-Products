@@ -22,7 +22,7 @@ Wir verwenden die [Aspose.Words for Python via .NET](https://products.aspose.com
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Wie man Konvertieren Sie WORD in MHTML in Python" %}}
 - Laden Sie die Quell-WORD-Datei mit der Klasse [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
-- Erstellen Sie die Instanz von [HtmlSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/htmlsaveoptions/).
+- Erstellen Sie die Instanz von [HtmlSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/htmlsaveoptions/)
 - Setzen Sie export_roundtrip_information auf True
 - Geben Sie [SaveFormat](https://reference.aspose.com/words/python-net/aspose.words/saveformat/) als MHTML an
 - Rufen Sie die Methode „save“ auf, während Sie den Pfad der Ausgabedatei und SaveFormat als Parameter angeben. Ihre WORD-Datei wird also unter dem angegebenen Pfad in MHTML konvertiert.
@@ -33,8 +33,8 @@ Wir verwenden die [Aspose.Words for Python via .NET](https://products.aspose.com
 
 - Für die Konvertierung von WORD in das MHTML- oder HtmlFixed-Format ist Python 3.5 oder höher erforderlich
 - Referenz-APIs innerhalb des Projekts direkt von PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/))
-- Oder verwenden Sie die folgenden Pip-Befehle ```pip install aspose.words```.
-- Darüber hinaus überprüfen Microsoft Windows- oder Linux-basierte Betriebssysteme (siehe mehr für [Words](https://docs.aspose.com/words/python-net/system-requirements/)) und für Linux die zusätzlichen Anforderungen für gcc und libpython und befolgen die Schritt-für-Schritt-Anweisungen von [INSTALL](https://docs.aspose.com/words/python-net/installation/).
+- Oder verwenden Sie die folgenden Pip-Befehle ```pip install aspose.words```
+- Darüber hinaus überprüfen Microsoft Windows- oder Linux-basierte Betriebssysteme (siehe mehr für [Words](https://docs.aspose.com/words/python-net/system-requirements/)) und für Linux die zusätzlichen Anforderungen für gcc und libpython und befolgen die Schritt-für-Schritt-Anweisungen von [INSTALL](https://docs.aspose.com/words/python-net/installation/)
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
