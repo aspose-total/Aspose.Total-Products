@@ -1,0 +1,64 @@
+---
+title: Convertir MHTML a imágenes en Python
+description: MHTML, HTML y HtmlConversión de imágenes fijadas a IMAGES, PNG, BMP, JPEG, TIFF en sus aplicaciones de Python sin usar Microsoft Word 
+url: /es/python-net/conversion/mhtml-to-images/
+family: total
+platformtag: Python
+feature: conversion
+informat: MHTML
+outformat: IMAGES
+otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF WORDML Images
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta MHTML a imágenes usando Python" h2="Conversión de imágenes MHTML a PNG JPG BMP IMAGES y TIFF en sus aplicaciones Python sin instalar Microsoft Word<sup>&reg;</sup>." >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Para un desarrollador de Python, ¿quién está tratando de agregar una función de conversión de MHTML y HtmlFixed to Images dentro de la aplicación? La API [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) puede ayudar a automatizar el proceso de conversión. Es un paquete completo de varias API que manejan diferentes formatos, incluidos los formatos de Microsoft Word, el archivo web MHTML, HTML y el formato HtmlFixed para guardar el documento en formato HTML utilizando elementos absolutamente posicionados. La API [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) que forma parte del paquete [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) hace que esta conversión sea fácil de exportar e importar MHTML, PDF y varios otros formatos usando Python. 
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Cómo convertir MHTML a imágenes en Python" %}}
+
+- Abra el archivo MHTML de origen utilizando la clase [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+- Recorra cada página y seleccione una por una
+- Llame al método `save` mientras especifica la ruta del archivo de salida con el formato de imagen relevante como parámetro. Entonces su archivo MHTML se convierte en la imagen requerida en la ruta especificada
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
+
+- Para la conversión de MHTML a imágenes, se requiere Python 3.5 o posterior
+- API de referencia dentro del proyecto directamente desde PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/))
+- O use el siguiente comando pip ```pip install aspose.words``` 
+- Además, el sistema operativo basado en Microsoft Windows o Linux (ver más para [Words](https://docs.aspose.com/words/python-net/system-requirements/)) y para Linux verifique los requisitos adicionales para gcc y libpython y siga las instrucciones paso a paso [INSTALL](https://docs.aspose.com/words/python-net/installation/)
+ 
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="Guardar MHTML en imágenes en Python" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "fe7c3ff0a8c783e4f0ed6bff199c6800" "convert-mhtml-to-images-via-python.py" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Otras opciones de conversión" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/mhtml-to-doc/" name="MHTML A DOC" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/mhtml-to-docm/" name="MHTML A DOCM" description="" >}},
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/mhtml-to-docx/" name="MHTML A DOCX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/mhtml-to-dot/" name="MHTML A DOT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/mhtml-to-dotm/" name="MHTML A DOTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/mhtml-to-dotx/" name="MHTML A DOTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/mhtml-to-odt/" name="MHTML A ODT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/mhtml-to-ott/" name="MHTML A OTT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/mhtml-to-rtf/" name="MHTML A RTF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/mhtml-to-wordml/" name="MHTML A WORDML" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/mhtml-to-images/" name="MHTML A Images" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< /blocks/products/pf/feature-page-wrap >}}
