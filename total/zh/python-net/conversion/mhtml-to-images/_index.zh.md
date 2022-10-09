@@ -1,6 +1,7 @@
 ---
 title: 在 Python 中将 MHTML 转换为图像
-description: MHTML、HTML 和 HtmlFixed 在 Python 应用程序中转换为 IMAGES、PNG、BMP、JPEG、TIFF 图像，无需使用 Microsoft Word 
+description: MHTML、HTML 和 HtmlFixed 在 Python 应用程序中转换为 IMAGES、PNG、BMP、JPEG、TIFF 图像，无需使用 
+任何软件 
 url: /zh/python-net/conversion/mhtml-to-images/
 family: total
 platformtag: Python
@@ -10,7 +11,8 @@ outformat: IMAGES
 otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF WORDML Images
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="使用 Python 将 MHTML 转换为图像" h2="MHTML 到 PNG JPG BMP IMAGES 和 TIFF 图像在 Python 应用程序中的转换，无需安装 Microsoft Word<sup>&reg;</sup>。" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Python 将 MHTML 转换为图像" h2="MHTML 到 PNG JPG BMP IMAGES 和 TIFF 图像在 Python 应用程序中的转换，无需安装 
+任何软件。" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

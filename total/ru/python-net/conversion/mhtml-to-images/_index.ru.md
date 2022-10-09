@@ -1,6 +1,6 @@
 ---
 title: Преобразование MHTML в изображения в Python
-description: Преобразование изображений MHTML, HTML и HtmlFixed в IMAGES, PNG, BMP, JPEG, TIFF в ваших приложениях Python без использования Microsoft Word 
+description: Преобразование изображений MHTML, HTML и HtmlFixed в IMAGES, PNG, BMP, JPEG, TIFF в ваших приложениях Python без использования любое программное обеспечение 
 url: /ru/python-net/conversion/mhtml-to-images/
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: IMAGES
 otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF WORDML Images
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование MHTML в изображения с помощью Python" h2="Преобразование изображений MHTML в PNG JPG BMP IMAGES и TIFF в приложениях Python без установки Microsoft Word<sup>&reg;</sup>." >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование MHTML в изображения с помощью Python" h2="Преобразование изображений MHTML в PNG JPG BMP IMAGES и TIFF в приложениях Python без установки любое программное обеспечение." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

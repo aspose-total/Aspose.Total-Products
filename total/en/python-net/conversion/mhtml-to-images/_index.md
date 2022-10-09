@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to Images in Python
-description: MHTML, HTML and HtmlFixed to GIF, PNG, BMP, JPEG, TIFF image conversion in your Python applications without using Microsoft Word 
+description: MHTML, HTML and HtmlFixed to GIF, PNG, BMP, JPEG, TIFF image conversion in your Python applications
 url: /python-net/conversion/mhtml-to-images/
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: GIF
 otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF WORDML Images
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert MHTML to Images using Python" h2="MHTML to PNG JPG BMP GIF and TIFF image conversion in your Python Applications without installing Microsoft Word<sup>&reg;</sup>." >}}
+{{< blocks/products/pf/feature-page-header h1="Convert MHTML to Images using Python" h2="MHTML to PNG JPG BMP GIF and TIFF image conversion in your Python Applications without installing any other software." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

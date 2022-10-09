@@ -1,6 +1,6 @@
 ---
 title: تحويل MHTML إلى صور في Python
-description: MHTML و HTML و Html تم إصلاحه بتحويل صور IMAGES و PNG و BMP و JPEG و TIFF في تطبيقات Python دون استخدام Microsoft Word 
+description: MHTML و HTML و Html تم إصلاحه بتحويل صور IMAGES و PNG و BMP و JPEG و TIFF في تطبيقات Python دون استخدام أي برنامج
 url: /ar/python-net/conversion/mhtml-to-images/
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: IMAGES
 otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF WORDML Images
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل MHTML إلى صور باستخدام Python" h2="MHTML إلى PNG JPG BMP IMAGES وتحويل صور TIFF في تطبيقات Python دون تثبيت Microsoft Word <sup>&reg;</sup>." >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل MHTML إلى صور باستخدام Python" h2="MHTML إلى PNG JPG BMP IMAGES وتحويل صور TIFF في تطبيقات Python دون تثبيت أي برنامج." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
