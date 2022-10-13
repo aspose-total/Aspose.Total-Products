@@ -161,7 +161,7 @@ Python Diagram-bibliotek som hjälper till att skapa, läsa, skriva och exporter
 
 {{< blocks/products/pf/i18n/testimonials title="Vad folk säger" subTitle="Ta inte bara vårt ord för det. Se vad användare har att säga om Aspose.Total API:er." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Technologia, Brasilien" >}}
-Under vår implementering kunde vi känna att vi bara rörde en bråkdel av vad Apose.Total kan. API:s användarvänlighet ger utvecklarna tillfredsställelse för att "få jobbet gjort" med sin enkla och rena kod, och slutproduktens robusthet gör våra kunder nöjda.
+Under vår implementering kunde vi känna att vi bara rörde en bråkdel av vad Aspose.Total kan. API:s användarvänlighet ger utvecklarna tillfredsställelse för att "få jobbet gjort" med sin enkla och rena kod, och slutproduktens robusthet gör våra kunder nöjda.
 {{< /blocks/products/pf/testimonials-quote >}}
 {{< blocks/products/pf/testimonials-quote poster="Rick Goud | ZIVVER, Nederländerna" >}}
 Vi provade flera andra gratis och betalda lösningar, men alla hade begränsningar som var för stora för vårt användningsfall. De flesta av problemen med våra lösningar uppstod vid konvertering av Microsoft Office-filer till PDF. Endast Aspose visade sig göra detta perfekt varje gång.

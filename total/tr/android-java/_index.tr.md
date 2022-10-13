@@ -141,7 +141,7 @@ Aspose.BarCode for Android, herhangi bir açıda görüntülerden 1D ve 2D barko
 
 {{< blocks/products/pf/i18n/testimonials title="İnsanlar ne diyor" subTitle="Sadece bizim sözümüze güvenmeyin. Kullanıcıların Aspose.Total API'leri hakkında söylediklerini görün." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brazil" >}}
-Uygulamamız sırasında Apose.Total'ın yapabileceklerinin sadece bir kısmına dokunduğumuzu hissettik. API'nin kullanım kolaylığı, basit ve temiz koduyla geliştiricilere "işleri bitirme" konusunda memnuniyet verir ve son ürünün sağlamlığı müşterilerimizi mutlu eder.
+Uygulamamız sırasında Aspose.Total'ın yapabileceklerinin sadece bir kısmına dokunduğumuzu hissettik. API'nin kullanım kolaylığı, basit ve temiz koduyla geliştiricilere "işleri bitirme" konusunda memnuniyet verir ve son ürünün sağlamlığı müşterilerimizi mutlu eder.
 {{< /blocks/products/pf/testimonials-quote >}}
 {{< blocks/products/pf/testimonials-quote poster="Rick Goud | ZIVVER, Netherlands" >}}
 Birkaç başka ücretsiz ve ücretli çözüm denedik, ancak hepsinin kullanım durumumuz için çok büyük sınırlamaları vardı. Çözümlerimizle ilgili sorunların çoğu, Microsoft Office dosyalarını PDF'ye dönüştürürken ortaya çıktı. Sadece Aspose bunu her seferinde mükemmel bir şekilde yaptığını kanıtladı.

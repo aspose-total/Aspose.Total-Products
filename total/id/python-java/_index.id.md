@@ -161,7 +161,7 @@ Pustaka Diagram Python yang membantu dalam membuat, membaca, menulis, dan mengek
 
 {{< blocks/products/pf/i18n/testimonials title="Apa yang Orang Katakan" subTitle="Jangan hanya mengambil kata kami untuk itu. Lihat apa yang pengguna katakan tentang Aspose.Total API." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brasil" >}}
-Selama implementasi kami, kami dapat merasakan bahwa kami hanya menyentuh sebagian kecil dari kemampuan Apose.Total. Kemudahan penggunaan API memberikan kepuasan kepada pengembang untuk "menyelesaikan pekerjaan" dengan kode yang sederhana dan bersih, dan kekokohan produk akhir membuat pelanggan kami senang.
+Selama implementasi kami, kami dapat merasakan bahwa kami hanya menyentuh sebagian kecil dari kemampuan Aspose.Total. Kemudahan penggunaan API memberikan kepuasan kepada pengembang untuk "menyelesaikan pekerjaan" dengan kode yang sederhana dan bersih, dan kekokohan produk akhir membuat pelanggan kami senang.
 {{< /blocks/products/pf/testimonials-quote >}}
 {{< blocks/products/pf/testimonials-quote poster="Rick Goud | ZIVVER, Belanda" >}}
 Kami mencoba beberapa solusi gratis dan berbayar lainnya, tetapi semuanya memiliki batasan yang terlalu besar untuk kasus penggunaan kami. Sebagian besar masalah dengan solusi kami muncul dalam mengonversi file Microsoft Office ke PDF. Hanya Aspose yang terbukti melakukan ini dengan sempurna setiap saat.

@@ -171,7 +171,7 @@ Une API Python 3D qui peut créer, éditer ou convertir les formats de fichiers 
 
 {{< blocks/products/pf/i18n/testimonials title="Ce que les gens disent" subTitle="Ne vous contentez pas de nous croire sur parole. Découvrez ce que les utilisateurs ont à dire sur les API Aspose.Total." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brésil" >}}
-Lors de notre implémentation, nous avons pu sentir que nous n'avions touché qu'une fraction de ce dont Apose.Total est capable. La facilité d'utilisation de l'API donne aux développeurs la satisfaction de "faire le travail" avec son code simple et propre, et la robustesse du produit final rend nos clients heureux.
+Lors de notre implémentation, nous avons pu sentir que nous n'avions touché qu'une fraction de ce dont Aspose.Total est capable. La facilité d'utilisation de l'API donne aux développeurs la satisfaction de "faire le travail" avec son code simple et propre, et la robustesse du produit final rend nos clients heureux.
 {{< /blocks/products/pf/testimonials-quote >}}
 {{< blocks/products/pf/testimonials-quote poster="Rick Goud | ZIVVER, Pays-Bas" >}}
 Nous avons essayé plusieurs autres solutions gratuites et payantes, mais toutes avaient des limitations trop importantes pour notre cas d'utilisation. La plupart des problèmes avec nos solutions sont survenus lors de la conversion de fichiers Microsoft Office en PDF. Seul Aspose a prouvé qu'il le faisait parfaitement à chaque fois.

@@ -141,7 +141,7 @@ Aspose.BarCode dla Androida za pośrednictwem Javy to zestaw interfejsów API ko
 
 {{< blocks/products/pf/i18n/testimonials title="Co ludzie mówią" subTitle="Nie wierz nam tylko na słowo. Zobacz, co użytkownicy mają do powiedzenia na temat interfejsów API Aspose.Total." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brazil" >}}
-Podczas naszej implementacji mogliśmy wyczuć, że dotknęliśmy zaledwie ułamka tego, do czego zdolny jest Apose.Total. Łatwość użycia API daje programistom satysfakcję z „wykonania pracy” dzięki prostemu i czystemu kodowi, a solidność produktu końcowego sprawia, że nasi klienci są zadowoleni.
+Podczas naszej implementacji mogliśmy wyczuć, że dotknęliśmy zaledwie ułamka tego, do czego zdolny jest Aspose.Total. Łatwość użycia API daje programistom satysfakcję z „wykonania pracy” dzięki prostemu i czystemu kodowi, a solidność produktu końcowego sprawia, że nasi klienci są zadowoleni.
 {{< /blocks/products/pf/testimonials-quote >}}
 {{< blocks/products/pf/testimonials-quote poster="Rick Goud | ZIVVER, Netherlands" >}}
 Wypróbowaliśmy kilka innych darmowych i płatnych rozwiązań, ale wszystkie miały ograniczenia, które były zbyt duże dla naszego przypadku użycia. Większość problemów z naszymi rozwiązaniami pojawiła się podczas konwersji plików Microsoft Office do formatu PDF. Tylko Aspose udowadniał, że za każdym razem robi to doskonale.

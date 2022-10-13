@@ -171,7 +171,7 @@ Discreet3DS、WavefrontOBJ、FBX、STL、Universal3D、Collada、glTF、GLB、PL
 
 {{< blocks/products/pf/i18n/testimonials title="人々が言っていること" subTitle="私たちの言葉をそのまま受け入れるのではありません。 Aspose.TotalAPIについてユーザーが何を言っているかを確認してください。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia、ブラジル" >}}
-実装中に、Apose.Totalの機能のほんの一部にしか触れていないことを感じることができました。 APIの使いやすさにより、開発者はシンプルでクリーンなコードで「作業を完了する」ことに満足でき、最終製品の堅牢性はお客様を満足させます。
+実装中に、Aspose.Totalの機能のほんの一部にしか触れていないことを感じることができました。 APIの使いやすさにより、開発者はシンプルでクリーンなコードで「作業を完了する」ことに満足でき、最終製品の堅牢性はお客様を満足させます。
 {{< /blocks/products/pf/testimonials-quote >}}
 {{< blocks/products/pf/testimonials-quote poster="リック・グード| ZIVVER、オランダ" >}}
 他のいくつかの無料および有料のソリューションを試しましたが、それらすべてに、ユースケースには大きすぎる制限がありました。当社のソリューションに関する問題のほとんどは、MicrosoftOfficeファイルをPDFに変換する際に発生しました。 Asposeだけが毎回これを完璧に行うことを証明しました。

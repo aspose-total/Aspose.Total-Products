@@ -161,7 +161,7 @@ Python Diagram könyvtár, amely segít létrehozni, olvasni, írni és exportá
 
 {{< blocks/products/pf/i18n/testimonials title="Mit mondanak az emberek" subTitle="Ne csak szót fogadjon. Tekintse meg, mit mondanak a felhasználók az Aspose.Total API-król." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brazília" >}}
-Megvalósításunk során érezhettük, hogy csak a töredékét érintettük meg annak, amire az Apose.Total képes. Az API könnyű használhatósága megelégedéssel tölti el a fejlesztőket az egyszerű és tiszta kóddal végzett „munkavégzésért”, a végtermék robusztussága pedig elégedetté teszi ügyfeleinket.
+Megvalósításunk során érezhettük, hogy csak a töredékét érintettük meg annak, amire az Aspose.Total képes. Az API könnyű használhatósága megelégedéssel tölti el a fejlesztőket az egyszerű és tiszta kóddal végzett „munkavégzésért”, a végtermék robusztussága pedig elégedetté teszi ügyfeleinket.
 {{< /blocks/products/pf/testimonials-quote >}}
 {{< blocks/products/pf/testimonials-quote poster="Rick Goud | ZIVVER, Hollandia" >}}
 Számos más ingyenes és fizetős megoldást is kipróbáltunk, de mindegyiknek voltak olyan korlátai, amelyek túl nagyok voltak a mi felhasználásunkhoz. A megoldásainkkal kapcsolatos legtöbb probléma a Microsoft Office fájlok PDF formátumba konvertálásakor merült fel. Csak Aspose bizonyult erre minden alkalommal tökéletesen.

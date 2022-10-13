@@ -256,7 +256,7 @@ Aspose.TeX para Java es una API de composición tipográfica de archivos TeX. Pu
 
 {{< blocks/products/pf/i18n/testimonials title="Lo que la gente esta diciendo" subTitle="No se fíe sólo de nuestra palabra. Vea lo que los usuarios tienen que decir sobre las API de Aspose.Total." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnología, Brasil" >}}
-Durante nuestra implementación, pudimos sentir que tocamos solo una fracción de lo que Apose.Total es capaz de hacer. La facilidad de uso de la API brinda satisfacción a los desarrolladores por "realizar el trabajo" con su código simple y limpio, y la solidez del producto final hace felices a nuestros clientes.
+Durante nuestra implementación, pudimos sentir que tocamos solo una fracción de lo que Aspose.Total es capaz de hacer. La facilidad de uso de la API brinda satisfacción a los desarrolladores por "realizar el trabajo" con su código simple y limpio, y la solidez del producto final hace felices a nuestros clientes.
 {{< /blocks/products/pf/testimonials-quote >}}
 {{< blocks/products/pf/testimonials-quote poster="Rick Goud | ZIVVER, Países Bajos" >}}
 Probamos otras soluciones gratuitas y de pago, pero todas tenían limitaciones demasiado grandes para nuestro caso de uso. La mayoría de los problemas con nuestras soluciones surgieron al convertir archivos de Microsoft Office a PDF. Solo Aspose demostró hacer esto perfectamente cada vez.

@@ -141,7 +141,7 @@ Aspose.BarCode für Android über Java ist eine Reihe von Barcode-APIs zum Gener
 
 {{< blocks/products/pf/i18n/testimonials title="Was sagen die Leute" subTitle="Verlassen Sie sich nicht nur auf unser Wort. Sehen Sie, was Benutzer über Aspose.Total-APIs zu sagen haben." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brazil" >}}
-Während unserer Implementierung konnten wir spüren, dass wir nur einen Bruchteil dessen erreicht haben, wozu Apose.Total in der Lage ist. Die Benutzerfreundlichkeit der API gibt den Entwicklern Zufriedenheit für die „Erledigung der Arbeit“ mit ihrem einfachen und sauberen Code, und die Robustheit des Endprodukts macht unsere Kunden glücklich.
+Während unserer Implementierung konnten wir spüren, dass wir nur einen Bruchteil dessen erreicht haben, wozu Aspose.Total in der Lage ist. Die Benutzerfreundlichkeit der API gibt den Entwicklern Zufriedenheit für die „Erledigung der Arbeit“ mit ihrem einfachen und sauberen Code, und die Robustheit des Endprodukts macht unsere Kunden glücklich.
 {{< /blocks/products/pf/testimonials-quote >}}
 {{< blocks/products/pf/testimonials-quote poster="Rick Goud | ZIVVER, Netherlands" >}}
 Wir haben mehrere andere kostenlose und kostenpflichtige Lösungen ausprobiert, aber alle hatten Einschränkungen, die für unseren Anwendungsfall zu groß waren. Die meisten Probleme mit unseren Lösungen traten bei der Konvertierung von Microsoft Office-Dateien in PDF auf. Nur Aspose hat dies jedes Mal perfekt bewiesen.

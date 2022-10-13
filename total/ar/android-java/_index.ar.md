@@ -143,7 +143,7 @@ Aspose.BarCode لنظام Android عبر Java عبارة عن مجموعة من 
 
 {{< blocks/products/pf/i18n/testimonials title="ما يقوله الناس" subTitle="لا تأخذ كلمتنا فقط. تعرف على ما يقوله المستخدمون عن Aspose.Total APIs." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brazil" >}}
-أثناء التنفيذ ، يمكننا أن نشعر أننا لم نتطرق إلا لجزء بسيط مما يمكن لـ Apose.Total قادر على القيام به. تمنح سهولة استخدام واجهة برمجة التطبيقات المطورين الرضا عن "إنجاز العمل" من خلال رمز بسيط ونظيف ، كما أن قوة المنتج النهائي تجعل عملائنا سعداء.
+أثناء التنفيذ ، يمكننا أن نشعر أننا لم نتطرق إلا لجزء بسيط مما يمكن لـ Aspose.Total قادر على القيام به. تمنح سهولة استخدام واجهة برمجة التطبيقات المطورين الرضا عن "إنجاز العمل" من خلال رمز بسيط ونظيف ، كما أن قوة المنتج النهائي تجعل عملائنا سعداء.
 {{< /blocks/products/pf/testimonials-quote >}}
 {{< blocks/products/pf/testimonials-quote poster="Rick Goud | ZIVVER, Netherlands" >}}
 لقد جربنا العديد من الحلول المجانية والمدفوعة الأخرى ، ولكن كانت لكل منهم قيودًا كانت كبيرة جدًا بالنسبة لحالة الاستخدام الخاصة بنا. نشأت معظم مشاكل حلولنا في تحويل ملفات Microsoft Office إلى PDF. فقط Aspose هو الذي أثبت أنه يفعل ذلك بشكل مثالي في كل مرة.

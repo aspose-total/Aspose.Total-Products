@@ -141,7 +141,7 @@ Aspose.BarCode pro Android přes Java je sada čárových kódů API pro generov
 
 {{< blocks/products/pf/i18n/testimonials title="Co lidé říkají" subTitle="Neberte nás za slovo. Podívejte se, co uživatelé říkají o Aspose.Total API." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brazil" >}}
-Během naší implementace jsme cítili, že jsme se dotkli jen zlomku toho, čeho je Apose.Total schopen. Snadné použití API poskytuje vývojářům uspokojení z toho, že „udělají práci“ s jeho jednoduchým a čistým kódem, a robustnost koncového produktu dělá naše zákazníky šťastnými.
+Během naší implementace jsme cítili, že jsme se dotkli jen zlomku toho, čeho je Aspose.Total schopen. Snadné použití API poskytuje vývojářům uspokojení z toho, že „udělají práci“ s jeho jednoduchým a čistým kódem, a robustnost koncového produktu dělá naše zákazníky šťastnými.
 {{< /blocks/products/pf/testimonials-quote >}}
 {{< blocks/products/pf/testimonials-quote poster="Rick Goud | ZIVVER, Netherlands" >}}
 Vyzkoušeli jsme několik dalších bezplatných i placených řešení, ale všechna měla omezení, která byla pro náš případ použití příliš velká. Většina problémů s našimi řešeními vznikla při převodu souborů Microsoft Office do PDF. Pouze Aspose to dokázal pokaždé dokonale.

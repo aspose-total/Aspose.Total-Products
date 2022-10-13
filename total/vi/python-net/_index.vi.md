@@ -171,7 +171,7 @@ Một API Python 3D có thể tạo, chỉnh sửa hoặc chuyển đổi địn
 
 {{< blocks/products/pf/i18n/testimonials title="Mọi người đang nói gì" subTitle="Đừng chỉ lấy lời của chúng tôi cho nó. Xem người dùng nói gì về API Aspose.Total." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brazil" >}}
-Trong quá trình thực hiện, chúng tôi có thể cảm nhận được rằng chúng tôi chỉ chạm vào một phần nhỏ những gì Apose.Total có thể làm được. Tính dễ sử dụng của API mang lại cho các nhà phát triển sự hài lòng khi “hoàn thành công việc” với mã đơn giản và rõ ràng của nó, đồng thời tính mạnh mẽ của sản phẩm cuối khiến khách hàng của chúng tôi hài lòng.
+Trong quá trình thực hiện, chúng tôi có thể cảm nhận được rằng chúng tôi chỉ chạm vào một phần nhỏ những gì Aspose.Total có thể làm được. Tính dễ sử dụng của API mang lại cho các nhà phát triển sự hài lòng khi “hoàn thành công việc” với mã đơn giản và rõ ràng của nó, đồng thời tính mạnh mẽ của sản phẩm cuối khiến khách hàng của chúng tôi hài lòng.
 {{< /blocks/products/pf/testimonials-quote >}}
 {{< blocks/products/pf/testimonials-quote poster="Rick Goud | ZIVVER, Hà Lan" >}}
 Chúng tôi đã thử một số giải pháp miễn phí và trả phí khác, nhưng tất cả chúng đều có những hạn chế quá lớn đối với trường hợp sử dụng của chúng tôi. Hầu hết các vấn đề với giải pháp của chúng tôi đều phát sinh khi chuyển đổi tệp Microsoft Office sang PDF. Chỉ có Aspose được chứng minh là làm điều này một cách hoàn hảo mọi lúc.

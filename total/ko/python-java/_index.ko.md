@@ -161,7 +161,7 @@ Microsoft Visio 또는 기타 소프트웨어 없이 Microsoft Visio VSDX, VDX, 
 
 {{< blocks/products/pf/i18n/testimonials title="사람들이 말하는 것" subTitle="우리의 말을 그대로 받아들이지 마십시오. Aspose.Total API에 대한 사용자의 평가를 확인하십시오." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="이고르 클라프케 | W3K Tecnologia, 브라질" >}}
-구현하는 동안 우리는 Apose.Total이 할 수 있는 것의 극히 일부만 건드렸음을 감지할 수 있었습니다. API의 사용 용이성은 단순하고 깨끗한 코드로 개발자에게 "작업 완료"에 대한 만족을 제공하고 최종 제품의 견고성은 고객을 만족시킵니다.
+구현하는 동안 우리는 Aspose.Total이 할 수 있는 것의 극히 일부만 건드렸음을 감지할 수 있었습니다. API의 사용 용이성은 단순하고 깨끗한 코드로 개발자에게 "작업 완료"에 대한 만족을 제공하고 최종 제품의 견고성은 고객을 만족시킵니다.
 {{< /blocks/products/pf/testimonials-quote >}}
 {{< blocks/products/pf/testimonials-quote poster="릭 구드 | ZIVVER, 네덜란드" >}}
 우리는 몇 가지 다른 무료 및 유료 솔루션을 시도했지만 모두 우리 사용 사례에 너무 큰 제한이 있었습니다. 우리 솔루션의 대부분의 문제는 Microsoft Office 파일을 PDF로 변환할 때 발생했습니다. Aspose만이 매번 이것을 완벽하게 해냈습니다.

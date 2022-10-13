@@ -171,7 +171,7 @@ A Python 3D API that can create, edit ot convert Discreet3DS, WavefrontOBJ, FBX,
 
 {{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Total APIs." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brazil" >}}
-During our implementation, we could sense that we touched only a fraction of what Apose.Total is capable of. The API’s ease of use give the developers satisfaction for “getting work done” with it’s simple and clean code, and the end product’s robustness makes our customers happy.
+During our implementation, we could sense that we touched only a fraction of what Aspose.Total is capable of. The API’s ease of use give the developers satisfaction for “getting work done” with it’s simple and clean code, and the end product’s robustness makes our customers happy.
 {{< /blocks/products/pf/testimonials-quote >}}
 {{< blocks/products/pf/testimonials-quote poster="Rick Goud | ZIVVER, Netherlands" >}}
 We tried several other free and paid solutions, but all of them had limitations that were too great for our use-case. Most of the problems with our solutions arose in converting Microsoft Office files to PDF. Only Aspose proved to do this perfectly every time.
