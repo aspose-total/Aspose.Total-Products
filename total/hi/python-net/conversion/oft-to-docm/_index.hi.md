@@ -1,0 +1,80 @@
+---
+title: पायथन में बीएमपी को जीआईएफ में बदलें
+description: Microsoft Outlook या Word का उपयोग किए बिना अपने Python अनुप्रयोगों में OFT को DOCM में सहेजें 
+url: /hi/python-net/conversion/oft-to-docm/
+family: total
+platformtag: Python
+feature: conversion
+informat: OFT
+outformat: DOCM
+otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS RTF TEXT WORD WORDML BMP GIF IMAGE JPEG TIFF PNG SVG XPS
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="पायथन का उपयोग करके बीएमपी को जीआईएफ में बदलें" h2="Microsoft Word<sup>&reg;</sup> या Outlook को स्थापित किए बिना आपके Python अनुप्रयोगों में OFT से DOCM रूपांतरण।" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+एक पायथन डेवलपर के लिए, जो एप्लिकेशन के भीतर जीआईएफ रूपांतरण सुविधा में बीएमपी जोड़ने की कोशिश कर रहा है? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API रूपांतरण प्रक्रिया को स्वचालित करने में मदद कर सकता है। यह ईमेल, छवियों और माइक्रोसॉफ्ट वर्ड प्रारूपों सहित विभिन्न प्रारूपों से निपटने वाले विभिन्न एपीआई का एक पूरा पैकेज है। [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) और [Aspose.Email for Python via .NET](https://products.aspose.com/email/python-net/) API जो [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) पैकेज का हिस्सा हैं, पायथन का उपयोग करके इस रूपांतरण को आसान बनाते हैं। यह दो चरणों वाली प्रक्रिया है, पहले ईमेल लोड करें और इसे [Aspose.Email for Python via .NET](https://products.aspose.com/email/python-net/) के माध्यम से HTML में प्रस्तुत करें। दूसरे, परिवर्तित HTML को [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) का उपयोग करके लोड करें और इसे DOCM प्रारूप में सहेजें।
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="पायथन में बीएमपी को जीआईएफ में कैसे बदलें" %}}
+
+- MailMessage.load वर्ग का उपयोग करके स्रोत OFT फ़ाइल खोलें
+- आउटपुट HTML फ़ाइल पथ और प्रासंगिक HTML सहेजें विकल्पों को पैरामीटर के रूप में निर्दिष्ट करते समय `सहेजें` विधि को कॉल करें। तो आपकी बीएमपी फ़ाइल निर्दिष्ट पथ पर एचटीएमएल में परिवर्तित हो जाती है
+- अब सहेजी गई HTML फ़ाइल को [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) का उपयोग करके लोड करें
+- प्रासंगिक फ़ाइल पथ के साथ सहेजें विधि को कॉल करें। तो अंत में बीएमपी परिवर्तित हो जाता है
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
+
+- बीएमपी से जीआईएफ रूपांतरण के लिए, पायथन 3.5 या बाद के संस्करण की आवश्यकता है
+- परियोजना के भीतर संदर्भ API सीधे PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/) और [Aspose.Email](https://pypi.org/project/Aspose.Email-for-Python-via-NET/)) से
+- या निम्न पाइप कमांड ```पाइप इंस्टाल aspose.words``` और `` `पाइप इंस्टाल असपोज। ईमेल-फॉर-पायथन-वाया-नेट`` का उपयोग करें 
+- इसके अलावा, Microsoft Windows या Linux आधारित OS ([Words](https://docs.aspose.com/words/python-net/system-requirements/) और [Email](https://docs.aspose.com/email/python-net/system-requirements/) के लिए और देखें) और Linux के लिए gcc और libpython के लिए अतिरिक्त आवश्यकताओं की जाँच करें और चरण दर चरण निर्देशों का पालन करें [INSTALL](https://docs.aspose.com/words/python-net/installation/)
+ 
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="पायथन में बीएमपी को जीआईएफ में सहेजें" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "1dbc5b4bf28dba34207d9bb94cbc149e" "convert-email-to-word-via-python.py" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="अन्य रूपांतरण विकल्प" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/oft-to-doc/" name="OFT प्रति DOC" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/oft-to-docm/" name="OFT प्रति DOCM" description="" >}},
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/oft-to-docx/" name="OFT प्रति DOCX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/oft-to-dot/" name="OFT प्रति DOT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/oft-to-dotm/" name="OFT प्रति DOTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/oft-to-dotx/" name="OFT प्रति DOTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/oft-to-odt/" name="OFT प्रति ODT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/oft-to-ott/" name="OFT प्रति OTT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/oft-to-rtf/" name="OFT प्रति RTF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/oft-to-wordml/" name="OFT प्रति WORDML" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/oft-to-word/" name="OFT प्रति Word" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/oft-to-emf/" name="OFT प्रति EMF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/oft-to-epub/" name="OFT प्रति EPUB" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/oft-to-flatopc/" name="OFT प्रति FLATOPC" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/oft-to-md/" name="OFT प्रति MD" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/oft-to-pdf/" name="OFT प्रति PDF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/oft-to-ps/" name="OFT प्रति PS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/oft-to-text/" name="OFT प्रति TEXT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/oft-to-bmp/" name="OFT प्रति BMP" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/oft-to-gif/" name="OFT प्रति GIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/oft-to-png/" name="OFT प्रति PNG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/oft-to-tiff/" name="OFT प्रति TIFF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/oft-to-svg/" name="OFT प्रति SVG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/oft-to-jpeg/" name="OFT प्रति JPEG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/oft-to-xps/" name="OFT प्रति XPS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/oft-to-image/" name="OFT प्रति IMAGE" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< /blocks/products/pf/feature-page-wrap >}}

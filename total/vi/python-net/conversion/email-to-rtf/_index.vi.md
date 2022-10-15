@@ -1,0 +1,80 @@
+---
+title: Chuyển đổi EMAIL sang RTF bằng Python
+description: Lưu EMAIL thành RTF trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Outlook hoặc Word 
+url: /vi/python-net/conversion/email-to-rtf/
+family: total
+platformtag: Python
+feature: conversion
+informat: EMAIL
+outformat: RTF
+otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS RTF TEXT WORD WORDML BMP GIF IMAGE JPEG TIFF PNG SVG XPS
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi EMAIL sang RTF bằng Python" h2="Chuyển đổi EMAIL sang RTF trong Ứng dụng Python của bạn mà không cần cài đặt Microsoft Word <sup>&reg;</sup> hoặc Outlook." >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Đối với một nhà phát triển Python, ai đang cố gắng thêm tính năng chuyển đổi EMAIL sang RTF trong ứng dụng? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API có thể giúp tự động hóa quá trình chuyển đổi. Đó là một gói đầy đủ các API khác nhau xử lý các định dạng khác nhau bao gồm cả các định dạng Email, Hình ảnh và Microsoft Word. Các API [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) và [Aspose.Email for Python via .NET](https://products.aspose.com/email/python-net/) là một phần của gói [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) giúp việc chuyển đổi này trở nên dễ dàng bằng Python. Đó là một quy trình gồm hai bước, trước tiên hãy tải Email và hiển thị nó thành HTML thông qua [Aspose.Email for Python via .NET](https://products.aspose.com/email/python-net/). Thứ hai, tải HTML đã chuyển đổi bằng [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) và lưu nó thành định dạng RTF.
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Cách chuyển EMAIL sang RTF bằng Python" %}}
+
+- Mở tệp EMAIL nguồn bằng lớp MailMessage.load
+- Gọi phương thức `save` trong khi chỉ định đường dẫn tệp HTML đầu ra và các tùy chọn Lưu HTML có liên quan dưới dạng tham số. Vì vậy, tệp EMAIL của bạn được chuyển đổi thành HTML theo đường dẫn được chỉ định
+- Bây giờ Tải tệp HTML đã lưu bằng [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+- Gọi phương thức lưu với đường dẫn tệp có liên quan. Vì vậy, cuối cùng EMAIL được chuyển đổi
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
+
+- Để chuyển đổi EMAIL sang RTF, cần có Python 3.5 trở lên
+- Tham chiếu các API trong dự án trực tiếp từ PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/) và [Aspose.Email](https://pypi.org/project/Aspose.Email-for-Python-via-NET/))
+- Hoặc sử dụng lệnh pip sau `` pip install aspose.words '' và `` pip install Aspose.Email-for-Python-via-NET '' '' 
+- Hơn nữa, hệ điều hành dựa trên Microsoft Windows hoặc Linux (xem thêm cho [Words](https://docs.aspose.com/words/python-net/system-requirements/) và [Email](https://docs.aspose.com/email/python-net/system-requirements/)) và cho Linux, hãy kiểm tra các yêu cầu bổ sung cho gcc và libpython và làm theo hướng dẫn từng bước [INSTALL](https://docs.aspose.com/words/python-net/installation/)
+ 
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="Lưu EMAIL thành RTF bằng Python" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "1dbc5b4bf28dba34207d9bb94cbc149e" "convert-email-to-word-via-python.py" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Các tùy chọn chuyển đổi khác" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/email-to-doc/" name="EMAIL Đến DOC" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/email-to-docm/" name="EMAIL Đến DOCM" description="" >}},
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/email-to-docx/" name="EMAIL Đến DOCX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/email-to-dot/" name="EMAIL Đến DOT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/email-to-dotm/" name="EMAIL Đến DOTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/email-to-dotx/" name="EMAIL Đến DOTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/email-to-odt/" name="EMAIL Đến ODT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/email-to-ott/" name="EMAIL Đến OTT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/email-to-rtf/" name="EMAIL Đến RTF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/email-to-wordml/" name="EMAIL Đến WORDML" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/email-to-word/" name="EMAIL Đến Word" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/email-to-emf/" name="EMAIL Đến EMF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/email-to-epub/" name="EMAIL Đến EPUB" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/email-to-flatopc/" name="EMAIL Đến FLATOPC" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/email-to-md/" name="EMAIL Đến MD" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/email-to-pdf/" name="EMAIL Đến PDF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/email-to-ps/" name="EMAIL Đến PS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/email-to-text/" name="EMAIL Đến TEXT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/email-to-bmp/" name="EMAIL Đến BMP" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/email-to-gif/" name="EMAIL Đến GIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/email-to-png/" name="EMAIL Đến PNG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/email-to-tiff/" name="EMAIL Đến TIFF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/email-to-svg/" name="EMAIL Đến SVG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/email-to-jpeg/" name="EMAIL Đến JPEG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/email-to-xps/" name="EMAIL Đến XPS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/python-net/conversion/email-to-image/" name="EMAIL Đến IMAGE" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< /blocks/products/pf/feature-page-wrap >}}
