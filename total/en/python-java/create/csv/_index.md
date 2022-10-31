@@ -1,6 +1,6 @@
 ---
 title: Create CSV in Python
-description: Generate CSV file using Python applications without using Microsoft Office. 
+description: Generate Microsoft Excel CSV documents using Python applications without using Microsoft Office. 
 url: /python-java/create/csv/
 family: total
 platformtag: Python
@@ -8,7 +8,7 @@ feature: create
 informat: CSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Create CSV using Python" h2="Generate CSV via your Python Applications without installing Microsoft Office<sup>&reg;</sup>." >}}
+{{< blocks/products/pf/feature-page-header h1="Create CSV File using Python" h2="Generate Excel CSV Files via your Python Applications without installing Microsoft Office<sup>&reg;</sup>." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
@@ -34,7 +34,7 @@ For a developer, who is trying to create CSV files via  Python application? [Asp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Create CSV in Python" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Create CSV File in Python" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "f16dc7586917c051564eaebbb159c63f" "create-excel-file-with-image.py" >}}
 

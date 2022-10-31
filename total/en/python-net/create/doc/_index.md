@@ -1,6 +1,6 @@
 ---
 title: Create DOC in Python
-description: Generate DOC file using Python applications without using Microsoft Word. 
+description: Generate Microsoft Word DOC document using Python applications without using Microsoft Word. 
 url: /python-net/create/doc/
 family: total
 platformtag: Python
@@ -8,7 +8,7 @@ feature: create
 informat: DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Create DOC using Python" h2="Generate DOC via your Python Applications without installing Microsoft Office<sup>&reg;</sup>." >}}
+{{< blocks/products/pf/feature-page-header h1="Create DOC File using Python" h2="Generate Word DOC Files via your Python Applications without installing Microsoft Office<sup>&reg;</sup>." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

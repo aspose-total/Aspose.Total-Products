@@ -1,6 +1,6 @@
 ---
 title: Create XLS in Python
-description: Generate XLS file using Python applications without using Microsoft Office. 
+description: Generate Microsoft Excel XLS documents using Python applications without using Microsoft Office. 
 url: /python-java/create/xls/
 family: total
 platformtag: Python
@@ -8,7 +8,7 @@ feature: create
 informat: XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Create XLS using Python" h2="Generate XLS via your Python Applications without installing Microsoft Office<sup>&reg;</sup>." >}}
+{{< blocks/products/pf/feature-page-header h1="Create XLS File using Python" h2="Generate Excel XLS Files via your Python Applications without installing Microsoft Office<sup>&reg;</sup>." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
@@ -34,7 +34,7 @@ For a developer, who is trying to create XLS files via  Python application? [Asp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Create XLS in Python" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Create XLS File in Python" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "f16dc7586917c051564eaebbb159c63f" "create-excel-file-with-image.py" >}}
 

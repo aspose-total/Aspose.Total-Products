@@ -1,6 +1,6 @@
 ---
 title: Create XLTM in Python
-description: Generate XLTM file using Python applications without using Microsoft Office. 
+description: Generate Microsoft Excel XLTM documents using Python applications without using Microsoft Office. 
 url: /python-java/create/xltm/
 family: total
 platformtag: Python
@@ -8,7 +8,7 @@ feature: create
 informat: XLTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Create XLTM using Python" h2="Generate XLTM via your Python Applications without installing Microsoft Office<sup>&reg;</sup>." >}}
+{{< blocks/products/pf/feature-page-header h1="Create XLTM File using Python" h2="Generate Excel XLTM Files via your Python Applications without installing Microsoft Office<sup>&reg;</sup>." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
@@ -34,7 +34,7 @@ For a developer, who is trying to create XLTM files via  Python application? [As
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Create XLTM in Python" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Create XLTM File in Python" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "f16dc7586917c051564eaebbb159c63f" "create-excel-file-with-image.py" >}}
 

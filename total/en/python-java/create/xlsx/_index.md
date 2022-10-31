@@ -1,6 +1,6 @@
 ---
 title: Create XLSX in Python
-description: Generate XLSX file using Python applications without using Microsoft Office. 
+description: Generate Microsoft Excel XLSX documents using Python applications without using Microsoft Office. 
 url: /python-java/create/xlsx/
 family: total
 platformtag: Python
@@ -8,7 +8,7 @@ feature: create
 informat: XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Create XLSX using Python" h2="Generate XLSX via your Python Applications without installing Microsoft Office<sup>&reg;</sup>." >}}
+{{< blocks/products/pf/feature-page-header h1="Create XLSX File using Python" h2="Generate Excel XLSX Files via your Python Applications without installing Microsoft Office<sup>&reg;</sup>." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
@@ -34,7 +34,7 @@ For a developer, who is trying to create XLSX files via  Python application? [As
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Create XLSX in Python" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Create XLSX File in Python" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "f16dc7586917c051564eaebbb159c63f" "create-excel-file-with-image.py" >}}
 

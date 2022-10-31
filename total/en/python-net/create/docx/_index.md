@@ -1,6 +1,6 @@
 ---
 title: Create DOCX in Python
-description: Generate DOCX file using Python applications without using Microsoft Word. 
+description: Generate Microsoft Word DOCX document using Python applications without using Microsoft Word. 
 url: /python-net/create/docx/
 family: total
 platformtag: Python
@@ -8,7 +8,7 @@ feature: create
 informat: DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Create DOCX using Python" h2="Generate DOCX via your Python Applications without installing Microsoft Office<sup>&reg;</sup>." >}}
+{{< blocks/products/pf/feature-page-header h1="Create DOCX File using Python" h2="Generate Word DOCX Files via your Python Applications without installing Microsoft Office<sup>&reg;</sup>." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
