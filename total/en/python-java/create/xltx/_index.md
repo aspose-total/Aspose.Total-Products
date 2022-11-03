@@ -1,5 +1,5 @@
 ---
-title: Create XLTX in Python
+title: Create XLTX using Python
 description: Generate Microsoft Excel XLTX documents using Python applications without using Microsoft Office. 
 url: /python-java/create/xltx/
 family: total
@@ -8,7 +8,7 @@ feature: create
 informat: XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Create XLTX File using Python" h2="Generate Excel XLTX Files via your Python Applications without installing Microsoft Office<sup>&reg;</sup>." >}}
+{{< blocks/products/pf/feature-page-header h1="Create XLTX File Via Python" h2="Generate Excel XLTX Files via your Python Applications without installing Microsoft Office<sup>&reg;</sup>." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
@@ -22,7 +22,7 @@ For a developer, who is trying to create XLTX files via  Python application? [As
 - Create new [Workbook](https://reference.aspose.com/cells/python/asposecells.api/Workbook) class object having FileFormatType as parameter
 - Get the access of required [Worksheet](https://reference.aspose.com/cells/python/asposecells.api/Worksheet) using [getWorksheets().get(index)](https://reference.aspose.com/cells/python/asposecells.api/workbook#Worksheets) method
 - Insert data in the accessed cell using [Worksheet.getCells().get(indexValue).putValue()](https://reference.aspose.com/cells/python/asposecells.api/worksheet#Cells) method
-- Save the document as .xltx file using [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String) by passing the file with path as the parameter
+- Save the document as .xltx file using [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String)) by passing the file with path as the parameter
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -1,5 +1,5 @@
 ---
-title: Create XLT in Python
+title: Create XLT using Python
 description: Generate Microsoft Excel XLT documents using Python applications without using Microsoft Office. 
 url: /python-java/create/xlt/
 family: total
@@ -8,7 +8,7 @@ feature: create
 informat: XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Create XLT File using Python" h2="Generate Excel XLT Files via your Python Applications without installing Microsoft Office<sup>&reg;</sup>." >}}
+{{< blocks/products/pf/feature-page-header h1="Create XLT File Via Python" h2="Generate Excel XLT Files via your Python Applications without installing Microsoft Office<sup>&reg;</sup>." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
@@ -22,7 +22,7 @@ For a developer, who is trying to create XLT files via  Python application? [Asp
 - Create new [Workbook](https://reference.aspose.com/cells/python/asposecells.api/Workbook) class object having FileFormatType as parameter
 - Get the access of required [Worksheet](https://reference.aspose.com/cells/python/asposecells.api/Worksheet) using [getWorksheets().get(index)](https://reference.aspose.com/cells/python/asposecells.api/workbook#Worksheets) method
 - Insert data in the accessed cell using [Worksheet.getCells().get(indexValue).putValue()](https://reference.aspose.com/cells/python/asposecells.api/worksheet#Cells) method
-- Save the document as .xlt file using [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String) by passing the file with path as the parameter
+- Save the document as .xlt file using [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String)) by passing the file with path as the parameter
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
