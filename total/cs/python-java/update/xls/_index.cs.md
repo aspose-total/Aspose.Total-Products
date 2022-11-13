@@ -1,0 +1,59 @@
+---
+title: Aktualizujte soubor XLS pomocí Pythonu
+description: Upravte dokument XLS v aplikacích Python bez použití aplikace Microsoft Excel. 
+url: /cs/python-java/update/xls/
+family: total
+platformtag: Python
+feature: update
+informat: XLS
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Aktualizujte soubor XLS přes Python" h2="Upravujte tabulky XLS prostřednictvím aplikací Python bez instalace Microsoft Office<sup>&reg;</sup>." >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Pro vývojáře, který se snaží aktualizovat soubory XLS prostřednictvím aplikace Python? [Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/) API může pomoci automatizovat proces aktualizace. Je to úplný balík různých rozhraní API zabývajících se různými formáty včetně souborů Microsoft Excel. ASPOSE.CELL API, které je součástí balíčku [Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/), usnadňuje tento proces úpravy. Níže je uveden postup aktualizace dokumentu XLS.
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Jak aktualizovat soubor XLS v Pythonu" %}}
+
+- Vytvořte nový objekt třídy [Workbook](https://reference.aspose.com/cells/python-java/asposecells.api/Workbook) se zdrojovým souborem XLS jako parametrem
+- Přístup k příslušnému listu pomocí metody [getWorksheets().get(index)](https://reference.aspose.com/cells/python/asposecells.api/workbook#Worksheets)
+- Pomocí metody [Worksheet.getCells().get(indexValue).putValue()](https://reference.aspose.com/cells/python/asposecells.api/worksheet#Cells) vložte nová data do přístupné buňky
+- Uložte soubor jako soubor .xls pomocí metody save() předáním souboru s cestou jako parametrem
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Požadavky na úpravu" %}}
+
+- Pro úpravu XLS odkazujte na API v rámci projektu přímo z PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/))
+- Nebo použijte následující příkaz pip ```pip install aspose.cells``` 
+- Navíc si stáhněte balíček API ze sekce [Stahování](https://downloads.aspose.com/cells/python-java)
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="Kód - Aktualizujte soubor XLS v Pythonu" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "f16dc7586917c051564eaebbb159c63f" "update-excel-file.py" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Další možnosti úprav" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-java/update/xls/" name="Aktualizace XLS Soubor" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-java/update/xlsx/" name="Aktualizace XLSX Soubor" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-java/update/csv/" name="Aktualizace CSV Soubor" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-java/update/xlsb/" name="Aktualizace XLSB Soubor" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-java/update/xlsm/" name="Upravit XLSM Soubor" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-java/update/xlt/" name="Aktualizace XLT Soubor" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-java/update/xltx/" name="Aktualizace XLTX Soubor" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-java/update/xltm/" name="Aktualizace XLTM Soubor" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-java/update/tsv/" name="Aktualizace TSV Soubor" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< /blocks/products/pf/feature-page-wrap >}}

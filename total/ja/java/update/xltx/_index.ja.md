@@ -1,0 +1,59 @@
+---
+title: Java を使用して XLTX ファイルを更新する
+description: Microsoft Excel を使用せずに、Java アプリケーションで XLTX ドキュメントを変更します。 Java で Excel ファイルを作成および編集するための最速の方法のためにコードを最適化します。
+url: /ja/java/update/xltx/
+family: total
+platformtag: Java
+feature: update
+informat: XLTX
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Java経由でXLTXファイルを更新" h2="Microsoft Office<sup>&reg;</sup> をインストールせずに、Java ベースのアプリケーションを介して XLTX スプレッドシートを変更します。" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Java アプリケーションで XLTX ファイルを更新しようとしている開発者は誰ですか? [Aspose.Total for Java](https://products.aspose.com/total/java/) API は、更新プロセスの自動化に役立ちます。 これは、Microsoft Excel ドキュメントを含む複数の形式を扱うさまざまな Java API の完全なパッケージです。 [Aspose.Total for Java](https://products.aspose.com/total/java/) パッケージの一部である ASPOSE.CELL API は、この変更プロセスを容易にします。 XLTX ドキュメントを更新するプロセスは、最初にシートにアクセスし、次に java を使用して Excel のセル値を更新するだけで簡単です。
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Java で XLTX ファイルを更新する方法" %}}
+
+- ソース XLTX ファイルをパラメーターとして持つ新しい [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) クラス オブジェクトを作成します。
+- [getWorksheets().get(index).getCells().get(column)](https://reference.aspose.com/cells/java/com.aspose.cells/cells#Item%20(int)) メソッドを使用した関連ワークシートおよび関連セルへのアクセス
+- [getCells().get(indexValue).setValue(data)](https://reference.aspose.com/cells/java/com.aspose.cells/cell#Value) メソッドを使用して、アクセスしたセルに新しいデータを挿入します
+- パスをパラメーターとしてファイルを渡すことにより、save() メソッドを使用してファイルを .xltx ファイルとして保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="変更要件" %}}
+
+- XLTX の変更の場合、Microsoft Windows または JSP/JSF アプリケーションおよびデスクトップ アプリケーション用の Java ランタイム環境を備えた互換性のある OS.
+- J2SE 6.0 (1.6)、J2SE 7.0 (1.7) 以上.
+- [ダウンロード](https://docs.aspose.com/cells/java/installation/) から最新の API バージョンを直接取得する
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="コード - Java で XLTX ファイルを更新する" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "a9643fb7de748fcd7904675f4f1b2144" "update-excel-file-via-java.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="その他の変更オプション" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/java/update/xls/" name="アップデート XLS ファイル" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/java/update/xlsx/" name="アップデート XLSX ファイル" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/java/update/csv/" name="アップデート CSV ファイル" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/java/update/xlsb/" name="アップデート XLSB ファイル" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/java/update/xlsm/" name="変更 XLSM ファイル" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/java/update/xlt/" name="アップデート XLT ファイル" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/java/update/xltx/" name="アップデート XLTX ファイル" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/java/update/xltm/" name="アップデート XLTM ファイル" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/java/update/tsv/" name="アップデート TSV ファイル" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< /blocks/products/pf/feature-page-wrap >}}
