@@ -1,5 +1,5 @@
 ---
-title: Update XLSX File Using .NET
+title: Update XLSX File using .NET
 description: Modify XLSX documents in C# VB.NET applications without using Microsoft Excel. 
 url: /net/update/xlsx/
 family: total
@@ -8,11 +8,11 @@ feature: update
 informat: XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Update XLSX File Via .NET" h2="Modify XLSX spreadsheet via your .NET based applications without installing Microsoft Office<sup>&reg;</sup>." >}}
+{{< blocks/products/pf/feature-page-header h1="Update XLSX File via .NET" h2="Modify XLSX spreadsheet via your .NET based applications without installing Microsoft Office<sup>&reg;</sup>." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-For a developer, who is trying to update XLSX files via .NET application? [Aspose.Total for .NET](https://products.aspose.com/total/net/) API can help to automate the updating process. It's a full package of various .NET APIs dealing different formats including Microsoft Excel files. ASPOSE.CELL API that is part of [Aspose.Total for .NET](https://products.aspose.com/total/net/) package makes this modifying process easy. Below is the process of updating the XLSX document.
+For a developer, who is trying to update XLSX files via .NET application. [Aspose.Total for .NET](https://products.aspose.com/total/net/) API can help to automate the updating process. It's a full package of various .NET APIs dealing different formats including Microsoft Excel files. [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API that is part of [Aspose.Total for .NET](https://products.aspose.com/total/net/) package makes this modifying process easy. Below is the process of updating the XLSX document.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

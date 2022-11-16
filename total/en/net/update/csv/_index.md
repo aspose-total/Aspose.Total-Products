@@ -1,5 +1,5 @@
 ---
-title: Update CSV File Using .NET
+title: Update CSV File using .NET
 description: Modify CSV documents in C# VB.NET applications without using Microsoft Excel. 
 url: /net/update/csv/
 family: total
@@ -8,11 +8,11 @@ feature: update
 informat: CSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Update CSV File Via .NET" h2="Modify CSV spreadsheet via your .NET based applications without installing Microsoft Office<sup>&reg;</sup>." >}}
+{{< blocks/products/pf/feature-page-header h1="Update CSV File via .NET" h2="Modify CSV spreadsheet via your .NET based applications without installing Microsoft Office<sup>&reg;</sup>." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-For a developer, who is trying to update CSV files via .NET application? [Aspose.Total for .NET](https://products.aspose.com/total/net/) API can help to automate the updating process. It's a full package of various .NET APIs dealing different formats including Microsoft Excel files. ASPOSE.CELL API that is part of [Aspose.Total for .NET](https://products.aspose.com/total/net/) package makes this modifying process easy. Below is the process of updating the CSV document.
+For a developer, who is trying to update CSV files via .NET application. [Aspose.Total for .NET](https://products.aspose.com/total/net/) API can help to automate the updating process. It's a full package of various .NET APIs dealing different formats including Microsoft Excel files. [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API that is part of [Aspose.Total for .NET](https://products.aspose.com/total/net/) package makes this modifying process easy. Below is the process of updating the CSV document.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
