@@ -1,5 +1,5 @@
 ---
-title: Update TSV File Using Python
+title: Update TSV File using Python
 description: Modify TSV document in Python applications without using Microsoft Excel. 
 url: /python-java/update/tsv/
 family: total
@@ -8,11 +8,11 @@ feature: update
 informat: TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Update TSV File Via Python" h2="Modify TSV spreadsheets via your Python Applications without installing Microsoft Office<sup>&reg;</sup>." >}}
+{{< blocks/products/pf/feature-page-header h1="Update TSV File via Python" h2="Modify TSV spreadsheets via your Python Applications without installing Microsoft Office<sup>&reg;</sup>." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-For a developer, who is trying to update TSV files via  Python application? [Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/) API can help to automate the updating process. It's a full package of various APIs dealing different formats including Microsoft Excel files. ASPOSE.CELL API that is part of [Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/) package makes this modifying process easy. Below is the process of updating the TSV document.
+For a developer, who is trying to update TSV files via  Python application. [Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/) API can help to automate the updating process. It's a full package of various APIs dealing different formats including Microsoft Excel files. [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) API that is part of [Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/) package makes this modifying process easy. Below is the process of updating the TSV document.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

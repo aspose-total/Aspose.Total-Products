@@ -1,5 +1,5 @@
 ---
-title: Update XLSX File Using Java
+title: Update XLSX File using Java
 description: Modify XLSX document in Java applications without using Microsoft Excel. Optimize code for fastest way to write and edit excel file in java.
 url: /java/update/xlsx/
 family: total
@@ -8,11 +8,11 @@ feature: update
 informat: XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Update XLSX File Via Java" h2="Modify XLSX spreadsheets via your Java based applications without installing Microsoft Office<sup>&reg;</sup>." >}}
+{{< blocks/products/pf/feature-page-header h1="Update XLSX File via Java" h2="Modify XLSX spreadsheets via your Java based applications without installing Microsoft Office<sup>&reg;</sup>." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-For a developer, who is trying to update XLSX files in any Java application? [Aspose.Total for Java](https://products.aspose.com/total/java/) API can help to automate the updating process. It's a full package of various Java APIs dealing multiple formats including Microsoft Excel documents. ASPOSE.CELL API that is part of [Aspose.Total for Java](https://products.aspose.com/total/java/) package makes this modifying process easy. Process of updating the XLSX document is simple by firstly accessing the sheet and then update cell value in excel using java.
+For a developer, who is trying to update XLSX files in any Java application. [Aspose.Total for Java](https://products.aspose.com/total/java/) API can help to automate the updating process. It's a full package of various Java APIs dealing multiple formats including Microsoft Excel documents. [Aspose.Cells for Java](https://products.aspose.com/cells/java/) API that is part of [Aspose.Total for Java](https://products.aspose.com/total/java/) package makes this modifying process easy. Process of updating the XLSX document is simple by firstly accessing the sheet and then update cell value in excel using java.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

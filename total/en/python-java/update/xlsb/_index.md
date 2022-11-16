@@ -1,5 +1,5 @@
 ---
-title: Update XLSB File Using Python
+title: Update XLSB File using Python
 description: Modify XLSB document in Python applications without using Microsoft Excel. 
 url: /python-java/update/xlsb/
 family: total
@@ -8,11 +8,11 @@ feature: update
 informat: XLSB
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Update XLSB File Via Python" h2="Modify XLSB spreadsheets via your Python Applications without installing Microsoft Office<sup>&reg;</sup>." >}}
+{{< blocks/products/pf/feature-page-header h1="Update XLSB File via Python" h2="Modify XLSB spreadsheets via your Python Applications without installing Microsoft Office<sup>&reg;</sup>." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-For a developer, who is trying to update XLSB files via  Python application? [Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/) API can help to automate the updating process. It's a full package of various APIs dealing different formats including Microsoft Excel files. ASPOSE.CELL API that is part of [Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/) package makes this modifying process easy. Below is the process of updating the XLSB document.
+For a developer, who is trying to update XLSB files via  Python application. [Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/) API can help to automate the updating process. It's a full package of various APIs dealing different formats including Microsoft Excel files. [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) API that is part of [Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/) package makes this modifying process easy. Below is the process of updating the XLSB document.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
